@@ -1,0 +1,143 @@
+name: Manage Followers
+
+on:
+  # 手动触发
+  workflow_dispatch:
+    inputs:
+      action:
+        description: '操作类型'
+        required: true
+        type: choice
+        options:
+          - add
+          - remove
+      username:
+        description: 'X (Twitter) 用户名（不含 @ 符号）'
+        required: true
+        type: string
+      group:
+        description: '分组名称（可选，仅在添加时使用）'
+        required: false
+        type: string
+
+jobs:
+  manage:
+    runs-on: ubuntu-latest
+
+    # 授予写入权限，允许提交代码
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # 使用 GITHUB_TOKEN 进行认证，允许推送
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate inputs
+        run: |
+          if [ "${{ inputs.action }}" != "add" ] && [ "${{ inputs.action }}" != "remove" ]; then
+            echo "❌ Invalid action: ${{ inputs.action }}"
+            exit 1
+          fi
+
+          if [ -z "${{ inputs.username }}" ]; then
+            echo "❌ Username is required"
+            exit 1
+          fi
+
+          # 验证用户名格式（只允许字母、数字、下划线）
+          if ! echo "${{ inputs.username }}" | grep -qE '^[a-zA-Z0-9_]+$'; then
+            echo "❌ Invalid username format: ${{ inputs.username }}"
+            exit 1
+          fi
+
+      - name: Manage follower
+        id: manage
+        run: |
+          ACTION="${{ inputs.action }}"
+          USERNAME="${{ inputs.username }}"
+          GROUP="${{ inputs.group }}"
+
+          if [ "$ACTION" = "add" ]; then
+            if [ -n "$GROUP" ]; then
+              node scripts/manage-followers.mjs add "$USERNAME" "$GROUP"
+            else
+              node scripts/manage-followers.mjs add "$USERNAME"
+            fi
+          else
+            node scripts/manage-followers.mjs remove "$USERNAME"
+          fi
+
+          # 检查是否有变更
+          if git diff --quiet data/followers.txt; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Build followers.json
+        if: steps.manage.outputs.changed == 'true'
+        run: |
+          node scripts/build-followers.mjs
+
+      - name: Validate followers configuration
+        if: steps.manage.outputs.changed == 'true'
+        run: |
+          node scripts/validate-followers.mjs
+
+      - name: Commit and push changes
+        if: steps.manage.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          ACTION="${{ inputs.action }}"
+          USERNAME="${{ inputs.username }}"
+          GROUP="${{ inputs.group }}"
+
+          if [ "$ACTION" = "add" ]; then
+            if [ -n "$GROUP" ]; then
+              COMMIT_MSG="chore: add follower @$USERNAME to group $GROUP [skip ci]"
+            else
+              COMMIT_MSG="chore: add follower @$USERNAME [skip ci]"
+            fi
+          else
+            COMMIT_MSG="chore: remove follower @$USERNAME [skip ci]"
+          fi
+
+          git add data/followers.txt data/followers.json
+          git commit -m "$COMMIT_MSG"
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          ACTION="${{ inputs.action }}"
+          USERNAME="${{ inputs.username }}"
+
+          if [ "${{ steps.manage.outputs.changed }}" = "true" ]; then
+            echo "## ✅ Success" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            if [ "$ACTION" = "add" ]; then
+              echo "Successfully added @$USERNAME to followers list." >> $GITHUB_STEP_SUMMARY
+            else
+              echo "Successfully removed @$USERNAME from followers list." >> $GITHUB_STEP_SUMMARY
+            fi
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "Changes have been committed and pushed." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "## ⚠️ No Changes" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            if [ "$ACTION" = "add" ]; then
+              echo "@$USERNAME already exists in the followers list." >> $GITHUB_STEP_SUMMARY
+            else
+              echo "@$USERNAME not found in the followers list." >> $GITHUB_STEP_SUMMARY
+            fi
+          fi
