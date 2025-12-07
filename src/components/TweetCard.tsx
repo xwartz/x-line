@@ -74,8 +74,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
               className="text-[var(--muted-foreground)] hover:text-[var(--accent)] text-xs sm:text-sm leading-5 transition-colors"
               title={timeAgo}
             >
-              <span className="sm:hidden">{timeAgo}</span>
-              <span className="hidden sm:inline">{formattedTime}</span>
+              {formattedTime}
             </a>
           </div>
 

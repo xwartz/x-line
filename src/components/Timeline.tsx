@@ -17,9 +17,7 @@ export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
       {/* Header */}
       <div className="mb-6 pb-4 border-b border-[var(--border)]">
         <div className="flex items-center justify-between flex-wrap gap-2">
-          <h2 className="text-2xl font-bold text-[var(--foreground)]">
-            时间线
-          </h2>
+          <h3 className="text-lg font-bold text-[var(--foreground)]">时间线</h3>
           {lastUpdated && (
             <span className="text-sm text-[var(--muted-foreground)]">
               更新于{' '}

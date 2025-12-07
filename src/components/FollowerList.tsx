@@ -148,12 +148,12 @@ export function FollowerList({
         })}
       </div>
       {/* Mobile: Compact horizontal scroll layout */}
-      <div className="flex gap-2 overflow-x-auto scrollbar-hide pb-2 -mx-2 px-2 lg:hidden snap-x snap-mandatory">
+      <div className="flex gap-1.5 overflow-x-auto scrollbar-hide pb-2 -mx-2 px-2 lg:hidden snap-x snap-mandatory">
         {/* All button */}
         <button
           onClick={() => onToggleUser('')}
           className={clsx(
-            'flex flex-col items-center gap-1.5 min-w-[56px] p-2 rounded-lg transition-all duration-150 flex-shrink-0 snap-start active:scale-95',
+            'flex flex-col items-center gap-1 min-w-[52px] p-1.5 rounded-lg transition-all duration-150 flex-shrink-0 snap-start active:scale-95',
             isAllSelected
               ? 'bg-[var(--accent)]/10 text-[var(--accent)]'
               : 'hover:bg-[var(--muted)] active:bg-[var(--muted)] text-[var(--muted-foreground)]'
@@ -161,7 +161,7 @@ export function FollowerList({
         >
           <div
             className={clsx(
-              'w-10 h-10 rounded-full flex items-center justify-center text-sm font-semibold transition-all duration-150 flex-shrink-0',
+              'w-9 h-9 rounded-full flex items-center justify-center text-xs font-semibold transition-all duration-150 flex-shrink-0',
               isAllSelected
                 ? 'bg-[var(--accent)] text-white shadow-sm'
                 : 'bg-[var(--muted)] text-[var(--muted-foreground)]'
@@ -169,7 +169,7 @@ export function FollowerList({
           >
             全
           </div>
-          <span className="text-[10px] font-medium truncate w-full text-center leading-tight">
+          <span className="text-[9px] font-medium truncate w-full text-center leading-tight">
             全部
           </span>
         </button>
@@ -182,7 +182,7 @@ export function FollowerList({
               key={follower.username}
               onClick={() => onToggleUser(follower.username)}
               className={clsx(
-                'flex flex-col items-center gap-1.5 min-w-[56px] p-2 rounded-lg transition-all duration-150 flex-shrink-0 snap-start active:scale-95',
+                'flex flex-col items-center gap-1 min-w-[52px] p-1.5 rounded-lg transition-all duration-150 flex-shrink-0 snap-start active:scale-95',
                 isSelected
                   ? 'bg-[var(--accent)]/10'
                   : 'hover:bg-[var(--muted)] active:bg-[var(--muted)]'
@@ -201,11 +201,11 @@ export function FollowerList({
                   size="sm"
                 />
               </div>
-              <span className="text-[10px] font-medium truncate max-w-[56px] text-center leading-tight">
+              <span className="text-[9px] font-medium truncate max-w-[52px] text-center leading-tight">
                 {getFollowerDisplayName(follower)}
               </span>
               {isSelected && (
-                <span className="text-[9px] text-[var(--accent)] font-bold mt-[-2px]">
+                <span className="text-[8px] text-[var(--accent)] font-bold mt-[-2px]">
                   ✓
                 </span>
               )}

@@ -1,10 +1,21 @@
 import { Github } from 'lucide-react'
 import { Logo } from './Logo'
 import { ThemeToggle } from './ThemeToggle'
+import { useScrollDirection } from '../hooks/useScrollDirection'
+import { clsx } from 'clsx'
 
 export function Header() {
+  const { scrollDirection, isAtTop } = useScrollDirection()
+  const shouldShow = isAtTop || scrollDirection === 'up'
+
   return (
-    <header className="fixed top-0 left-0 right-0 z-20 bg-[var(--background)]/95 backdrop-blur-md border-b border-[var(--border)] shadow-sm h-16">
+    <header
+      className={clsx(
+        'fixed top-0 left-0 right-0 z-20 bg-[var(--background)]/95 backdrop-blur-md border-b border-[var(--border)] shadow-sm h-16 transition-transform duration-300 ease-in-out',
+        // 移动端：向下滚动时隐藏，向上滚动或顶部时显示
+        shouldShow ? 'translate-y-0' : '-translate-y-full lg:translate-y-0'
+      )}
+    >
       <div className="w-full px-4 sm:px-6 lg:px-8 h-full flex items-center justify-between">
         <a
           href="/"

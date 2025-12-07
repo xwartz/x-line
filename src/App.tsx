@@ -5,7 +5,9 @@ import { FollowerList } from './components/FollowerList'
 import { ScrollToTop } from './components/ScrollToTop'
 import { useTweets } from './hooks/useTweets'
 import { useLocalStorage } from './hooks/useLocalStorage'
+import { useScrollDirection } from './hooks/useScrollDirection'
 import { followers } from './config/followers'
+import { clsx } from 'clsx'
 
 export function App() {
   const [selectedUsers, setSelectedUsers] = useLocalStorage<string[]>(
@@ -13,6 +15,8 @@ export function App() {
     []
   )
   const { tweets, lastUpdated, isLoading } = useTweets()
+  const { scrollDirection, isAtTop } = useScrollDirection()
+  const shouldShowFollowerList = isAtTop || scrollDirection === 'up'
 
   const handleToggleUser = useCallback(
     (username: string) => {
@@ -61,8 +65,15 @@ export function App() {
       {/* Main Content */}
       <main className="pt-16 lg:pl-64">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          {/* Mobile Follower filter - Fixed */}
-          <div className="lg:hidden fixed top-16 left-0 right-0 z-10 bg-[var(--background)]/95 backdrop-blur-md px-3 sm:px-4 pt-2.5 pb-2 border-b border-[var(--border)]">
+          {/* Mobile Follower filter - Fixed with scroll hide */}
+          <div
+            className={clsx(
+              'lg:hidden fixed left-0 right-0 z-10 bg-[var(--background)]/95 backdrop-blur-md px-3 sm:px-4 pt-2 pb-1.5 border-b border-[var(--border)] transition-transform duration-300 ease-in-out',
+              shouldShowFollowerList
+                ? 'translate-y-0 top-16'
+                : '-translate-y-full top-16'
+            )}
+          >
             <FollowerList
               followers={followers}
               selectedUsers={selectedUsers}
@@ -72,7 +83,7 @@ export function App() {
           </div>
 
           {/* Content with mobile top spacing */}
-          <div className="lg:pt-4 pt-[72px] sm:pt-20 pb-8">
+          <div className="lg:pt-4 pt-4 pb-8">
             {/* Timeline */}
             <Timeline
               tweets={filteredTweets}
