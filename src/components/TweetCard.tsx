@@ -99,7 +99,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
                 {tweet.media.slice(0, 4).map((media, index) => (
                   <a
                     key={index}
-                    href={media.url || tweet.link}
+                    href={tweet.link}
                     target="_blank"
                     rel="noopener noreferrer"
                     className={`relative block overflow-hidden ${
@@ -170,9 +170,12 @@ export function TweetCard({ tweet }: TweetCardProps) {
                     }`}
                   >
                     {tweet.quote.media.map((media, i) => (
-                      <div
+                      <a
                         key={i}
-                        className={`relative ${
+                        href={tweet.quote!.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={`relative block overflow-hidden ${
                           tweet.quote!.media!.length === 3 && i === 0
                             ? 'row-span-2'
                             : ''
@@ -187,7 +190,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
                         <img
                           src={media.thumbnail || media.url}
                           alt={media.alt || ''}
-                          className="w-full h-full object-cover"
+                          className="w-full h-full object-cover hover:opacity-95 transition-opacity duration-200"
                           style={{
                             maxHeight:
                               tweet.quote!.media!.length === 1
@@ -205,7 +208,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
                             </div>
                           </div>
                         )}
-                      </div>
+                      </a>
                     ))}
                   </div>
                 </div>
