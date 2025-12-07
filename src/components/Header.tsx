@@ -11,7 +11,6 @@ export function Header() {
           className="flex items-center gap-2.5 font-bold text-xl text-[var(--foreground)] hover:opacity-80 transition-opacity"
         >
           <Logo size={24} />
-          <span className="sm:hidden">X</span>
         </a>
 
         <div className="flex items-center gap-3">

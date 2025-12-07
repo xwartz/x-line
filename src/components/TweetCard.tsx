@@ -1,6 +1,6 @@
 import { formatDistanceToNow, format } from 'date-fns'
 import { zhCN } from 'date-fns/locale'
-import { MessageCircle, Repeat2, Heart, ExternalLink } from 'lucide-react'
+import { Repeat2 } from 'lucide-react'
 import { Avatar } from './Avatar'
 import type { Tweet } from '../types'
 
@@ -19,16 +19,16 @@ export function TweetCard({ tweet }: TweetCardProps) {
   const formattedTime = format(publishedDate, 'yyyy-MM-dd HH:mm:ss XX')
 
   return (
-    <article className="px-4 py-6 sm:px-6 border-b border-[var(--border)] card-hover animate-fade-in transition-colors duration-150">
+    <article className="px-3 py-4 sm:px-4 sm:py-6 lg:px-6 border-b border-[var(--border)] card-hover animate-fade-in transition-colors duration-150">
       {/* Retweet indicator */}
       {tweet.retweet && (
-        <div className="flex items-center gap-2 mb-3 ml-14 text-xs text-[var(--muted-foreground)]">
+        <div className="flex items-center gap-2 mb-2 sm:mb-3 ml-10 sm:ml-14 text-xs text-[var(--muted-foreground)]">
           <Repeat2 className="w-3.5 h-3.5" />
           <span>{tweet.retweet.displayName} 转推了</span>
         </div>
       )}
 
-      <div className="flex gap-4">
+      <div className="flex gap-3 sm:gap-4">
         {/* Avatar */}
         <a
           href={`https://x.com/${tweet.username}`}
@@ -36,47 +36,59 @@ export function TweetCard({ tweet }: TweetCardProps) {
           rel="noopener noreferrer"
           className="flex-shrink-0"
         >
-          <Avatar src={tweet.avatar} alt={tweet.displayName} size="md" />
+          <Avatar
+            src={tweet.avatar}
+            alt={tweet.displayName}
+            size="sm"
+            className="sm:hidden"
+          />
+          <Avatar
+            src={tweet.avatar}
+            alt={tweet.displayName}
+            size="md"
+            className="hidden sm:block"
+          />
         </a>
 
         <div className="flex-1 min-w-0">
           {/* Header */}
-          <div className="flex items-center gap-2 flex-wrap mb-2">
+          <div className="flex items-center gap-1.5 sm:gap-2 flex-wrap mb-1.5 sm:mb-2">
             <a
               href={`https://x.com/${tweet.username}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="font-semibold text-[var(--foreground)] hover:underline truncate text-base leading-5"
+              className="font-semibold text-[var(--foreground)] hover:underline truncate text-sm sm:text-base leading-5"
             >
               {tweet.displayName}
             </a>
-            <span className="text-[var(--muted-foreground)] text-sm leading-5">
+            <span className="text-[var(--muted-foreground)] text-xs sm:text-sm leading-5">
               @{tweet.username}
             </span>
-            <span className="text-[var(--muted-foreground)] text-sm leading-5">
+            <span className="text-[var(--muted-foreground)] text-xs sm:text-sm leading-5 hidden sm:inline">
               ·
             </span>
             <a
               href={tweet.link}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-[var(--muted-foreground)] hover:text-[var(--accent)] text-sm leading-5 transition-colors"
+              className="text-[var(--muted-foreground)] hover:text-[var(--accent)] text-xs sm:text-sm leading-5 transition-colors"
               title={timeAgo}
             >
-              {formattedTime}
+              <span className="sm:hidden">{timeAgo}</span>
+              <span className="hidden sm:inline">{formattedTime}</span>
             </a>
           </div>
 
           {/* Content */}
-          <div className="mt-2 mb-3 tweet-content text-[var(--foreground)] text-[15px] leading-6">
+          <div className="mt-1.5 sm:mt-2 mb-2 sm:mb-3 tweet-content text-[var(--foreground)] text-sm sm:text-[15px] leading-5 sm:leading-6">
             {tweet.content}
           </div>
 
           {/* Media */}
           {tweet.media && tweet.media.length > 0 && (
-            <div className="mt-4 rounded-2xl overflow-hidden border border-[var(--border)] bg-[var(--muted)]">
+            <div className="mt-3 sm:mt-4 rounded-xl sm:rounded-2xl overflow-hidden border border-[var(--border)] bg-[var(--muted)]">
               <div
-                className={`grid gap-1 ${
+                className={`grid gap-0.5 sm:gap-1 ${
                   tweet.media.length === 1
                     ? 'grid-cols-1'
                     : tweet.media.length === 2
@@ -102,14 +114,14 @@ export function TweetCard({ tweet }: TweetCardProps) {
                       className="w-full h-full object-cover hover:opacity-95 transition-opacity duration-200"
                       style={{
                         maxHeight:
-                          tweet.media!.length === 1 ? '500px' : '200px',
+                          tweet.media!.length === 1 ? '400px' : '180px',
                       }}
                       loading="lazy"
                     />
                     {(media.type === 'video' || media.type === 'gif') && (
                       <div className="absolute inset-0 flex items-center justify-center bg-black/20">
-                        <div className="bg-black/60 backdrop-blur-sm rounded-full px-4 py-2">
-                          <span className="text-white text-xs font-medium">
+                        <div className="bg-black/60 backdrop-blur-sm rounded-full px-3 py-1.5 sm:px-4 sm:py-2">
+                          <span className="text-white text-[10px] sm:text-xs font-medium">
                             {media.type === 'video' ? '▶ Video' : 'GIF'}
                           </span>
                         </div>
@@ -127,27 +139,27 @@ export function TweetCard({ tweet }: TweetCardProps) {
               href={tweet.quote.link}
               target="_blank"
               rel="noopener noreferrer"
-              className="mt-4 block p-4 border border-[var(--border)] rounded-2xl hover:bg-[var(--muted)] transition-colors duration-150"
+              className="mt-3 sm:mt-4 block p-3 sm:p-4 border border-[var(--border)] rounded-xl sm:rounded-2xl hover:bg-[var(--muted)] transition-colors duration-150"
             >
-              <div className="flex items-center gap-2 mb-2">
-                <span className="font-semibold text-sm text-[var(--foreground)]">
+              <div className="flex items-center gap-1.5 sm:gap-2 mb-1.5 sm:mb-2">
+                <span className="font-semibold text-xs sm:text-sm text-[var(--foreground)]">
                   {tweet.quote.displayName}
                 </span>
-                <span className="text-[var(--muted-foreground)] text-sm">
+                <span className="text-[var(--muted-foreground)] text-xs sm:text-sm">
                   @{tweet.quote.username}
                 </span>
               </div>
               {tweet.quote.content && (
-                <p className="text-sm text-[var(--foreground)] leading-5 line-clamp-3">
+                <p className="text-xs sm:text-sm text-[var(--foreground)] leading-4 sm:leading-5 line-clamp-3">
                   {tweet.quote.content}
                 </p>
               )}
 
               {/* Quote tweet media */}
               {tweet.quote.media && tweet.quote.media.length > 0 && (
-                <div className="mt-3 rounded-xl overflow-hidden border border-[var(--border)] bg-[var(--muted)]">
+                <div className="mt-2 sm:mt-3 rounded-lg sm:rounded-xl overflow-hidden border border-[var(--border)] bg-[var(--muted)]">
                   <div
-                    className={`grid gap-1 ${
+                    className={`grid gap-0.5 sm:gap-1 ${
                       tweet.quote.media.length === 1
                         ? 'grid-cols-1'
                         : tweet.quote.media.length === 2
@@ -168,8 +180,8 @@ export function TweetCard({ tweet }: TweetCardProps) {
                         style={{
                           maxHeight:
                             tweet.quote!.media!.length === 1
-                              ? '300px'
-                              : '150px',
+                              ? '250px'
+                              : '120px',
                         }}
                       >
                         <img
@@ -179,15 +191,15 @@ export function TweetCard({ tweet }: TweetCardProps) {
                           style={{
                             maxHeight:
                               tweet.quote!.media!.length === 1
-                                ? '300px'
-                                : '150px',
+                                ? '250px'
+                                : '120px',
                           }}
                           loading="lazy"
                         />
                         {(media.type === 'video' || media.type === 'gif') && (
                           <div className="absolute inset-0 flex items-center justify-center bg-black/20">
-                            <div className="bg-black/60 backdrop-blur-sm rounded-full px-3 py-1.5">
-                              <span className="text-white text-xs font-medium">
+                            <div className="bg-black/60 backdrop-blur-sm rounded-full px-2 py-1 sm:px-3 sm:py-1.5">
+                              <span className="text-white text-[10px] sm:text-xs font-medium">
                                 {media.type === 'video' ? '▶' : 'GIF'}
                               </span>
                             </div>
@@ -200,58 +212,8 @@ export function TweetCard({ tweet }: TweetCardProps) {
               )}
             </a>
           )}
-
-          {/* Actions */}
-          <div className="flex items-center gap-8 mt-4 text-[var(--muted-foreground)]">
-            {tweet.stats && (
-              <>
-                <button className="flex items-center gap-2 hover:text-[var(--accent)] transition-colors duration-150 group">
-                  <MessageCircle className="w-4 h-4 group-hover:scale-110 transition-transform" />
-                  {tweet.stats.replies > 0 && (
-                    <span className="text-sm">
-                      {formatNumber(tweet.stats.replies)}
-                    </span>
-                  )}
-                </button>
-                <button className="flex items-center gap-2 hover:text-[var(--accent)] transition-colors duration-150 group">
-                  <Repeat2 className="w-4 h-4 group-hover:scale-110 transition-transform" />
-                  {tweet.stats.retweets > 0 && (
-                    <span className="text-sm">
-                      {formatNumber(tweet.stats.retweets)}
-                    </span>
-                  )}
-                </button>
-                <button className="flex items-center gap-2 hover:text-[var(--accent)] transition-colors duration-150 group">
-                  <Heart className="w-4 h-4 group-hover:scale-110 transition-transform" />
-                  {tweet.stats.likes > 0 && (
-                    <span className="text-sm">
-                      {formatNumber(tweet.stats.likes)}
-                    </span>
-                  )}
-                </button>
-              </>
-            )}
-            <a
-              href={tweet.link}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-1 hover:text-[var(--accent)] transition-colors duration-150 ml-auto group"
-            >
-              <ExternalLink className="w-4 h-4 group-hover:scale-110 transition-transform" />
-            </a>
-          </div>
         </div>
       </div>
     </article>
   )
-}
-
-function formatNumber(num: number): string {
-  if (num >= 1000000) {
-    return (num / 1000000).toFixed(1) + 'M'
-  }
-  if (num >= 1000) {
-    return (num / 1000).toFixed(1) + 'K'
-  }
-  return num.toString()
 }
