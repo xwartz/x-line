@@ -1,14 +1,14 @@
-import { formatDistanceToNow } from 'date-fns';
-import { zhCN } from 'date-fns/locale';
-import { MessageSquare } from 'lucide-react';
-import { TweetCard } from './TweetCard';
-import { TimelineSkeleton } from './TweetSkeleton';
-import type { Tweet } from '../types';
+import { formatDistanceToNow } from 'date-fns'
+import { zhCN } from 'date-fns/locale'
+import { MessageSquare } from 'lucide-react'
+import { TweetCard } from './TweetCard'
+import { TimelineSkeleton } from './TweetSkeleton'
+import type { Tweet } from '../types'
 
 interface TimelineProps {
-  tweets: Tweet[];
-  lastUpdated: Date | null;
-  isLoading: boolean;
+  tweets: Tweet[]
+  lastUpdated: Date | null
+  isLoading: boolean
 }
 
 export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
@@ -17,7 +17,9 @@ export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
       {/* Header */}
       <div className="mb-6 pb-4 border-b border-[var(--border)]">
         <div className="flex items-center justify-between flex-wrap gap-2">
-          <h2 className="text-2xl font-bold text-[var(--foreground)]">时间线</h2>
+          <h2 className="text-2xl font-bold text-[var(--foreground)]">
+            时间线
+          </h2>
           {lastUpdated && (
             <span className="text-sm text-[var(--muted-foreground)]">
               更新于{' '}
@@ -53,7 +55,7 @@ export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
         ) : (
           <>
             <div className="space-y-0">
-              {tweets.map((tweet) => (
+              {tweets.map(tweet => (
                 <TweetCard key={tweet.id} tweet={tweet} />
               ))}
             </div>
@@ -66,5 +68,5 @@ export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
         )}
       </div>
     </div>
-  );
+  )
 }

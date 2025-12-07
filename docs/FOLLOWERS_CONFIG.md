@@ -96,17 +96,18 @@ VitalikButerin,Crypto
 
 ### 字段说明
 
-| 字段 | 类型 | 必需 | 说明 |
-|------|------|------|------|
-| `username` | string | ✅ | X 用户名，不包含 @ 符号 |
-| `group` | string | ❌ | 分组名称，用于分类管理 |
-| `displayName` | string | ❌ | 显示名称，从推文数据中自动获取 |
+| 字段          | 类型   | 必需 | 说明                           |
+| ------------- | ------ | ---- | ------------------------------ |
+| `username`    | string | ✅   | X 用户名，不包含 @ 符号        |
+| `group`       | string | ❌   | 分组名称，用于分类管理         |
+| `displayName` | string | ❌   | 显示名称，从推文数据中自动获取 |
 
 ## GitHub Actions
 
 ### Fetch Tweets Workflow
 
 以下情况会自动触发推文抓取：
+
 - 定时执行：每 15 分钟
 - 手动触发：在 Actions 页面手动触发
 - 文件变化：`data/followers.txt` 或 `data/followers.json` 被修改时
@@ -114,6 +115,7 @@ VitalikButerin,Crypto
 ### Manage Followers Workflow
 
 用于通过 GitHub Web UI 添加或删除关注者：
+
 - 手动触发：Actions → Manage Followers → Run workflow
 - 操作类型：`add` 或 `remove`
 - 自动处理：更新文件、验证配置、提交更改、触发推文抓取
@@ -140,6 +142,7 @@ pnpm run fetch-tweets
 ### 格式错误
 
 运行验证脚本查看详细错误：
+
 ```bash
 pnpm run validate-followers
 ```

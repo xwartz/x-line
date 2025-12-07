@@ -1,43 +1,46 @@
-import { useCallback, useMemo } from 'react';
-import { Header } from './components/Header';
-import { Timeline } from './components/Timeline';
-import { FollowerList } from './components/FollowerList';
-import { ScrollToTop } from './components/ScrollToTop';
-import { useTweets } from './hooks/useTweets';
-import { useLocalStorage } from './hooks/useLocalStorage';
-import { followers } from './config/followers';
+import { useCallback, useMemo } from 'react'
+import { Header } from './components/Header'
+import { Timeline } from './components/Timeline'
+import { FollowerList } from './components/FollowerList'
+import { ScrollToTop } from './components/ScrollToTop'
+import { useTweets } from './hooks/useTweets'
+import { useLocalStorage } from './hooks/useLocalStorage'
+import { followers } from './config/followers'
 
 export function App() {
-  const [selectedUsers, setSelectedUsers] = useLocalStorage<string[]>('selectedUsers', []);
-  const { tweets, lastUpdated, isLoading } = useTweets();
+  const [selectedUsers, setSelectedUsers] = useLocalStorage<string[]>(
+    'selectedUsers',
+    []
+  )
+  const { tweets, lastUpdated, isLoading } = useTweets()
 
   const handleToggleUser = useCallback(
     (username: string) => {
       if (!username) {
-        setSelectedUsers([]);
-        return;
+        setSelectedUsers([])
+        return
       }
 
-      setSelectedUsers((prev) => {
+      setSelectedUsers(prev => {
         if (prev.includes(username)) {
-          return prev.filter((u) => u !== username);
+          return prev.filter(u => u !== username)
         }
-        return [...prev, username];
-      });
+        return [...prev, username]
+      })
     },
     [setSelectedUsers]
-  );
+  )
 
   // 过滤推文
   const filteredTweets = useMemo(() => {
     if (selectedUsers.length === 0) {
-      return tweets;
+      return tweets
     }
-    const lowercaseSelected = selectedUsers.map((u) => u.toLowerCase());
-    return tweets.filter((tweet) =>
+    const lowercaseSelected = selectedUsers.map(u => u.toLowerCase())
+    return tweets.filter(tweet =>
       lowercaseSelected.includes(tweet.username.toLowerCase())
-    );
-  }, [tweets, selectedUsers]);
+    )
+  }, [tweets, selectedUsers])
 
   return (
     <div className="min-h-screen bg-[var(--background)]">
@@ -64,6 +67,7 @@ export function App() {
               followers={followers}
               selectedUsers={selectedUsers}
               onToggleUser={handleToggleUser}
+              tweets={tweets}
             />
           </div>
 
@@ -103,5 +107,5 @@ export function App() {
       {/* Scroll to top button */}
       <ScrollToTop />
     </div>
-  );
+  )
 }

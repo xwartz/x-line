@@ -1,27 +1,22 @@
-import { formatDistanceToNow, format } from 'date-fns';
-import { zhCN } from 'date-fns/locale';
-import {
-  MessageCircle,
-  Repeat2,
-  Heart,
-  ExternalLink,
-} from 'lucide-react';
-import { Avatar } from './Avatar';
-import type { Tweet } from '../types';
+import { formatDistanceToNow, format } from 'date-fns'
+import { zhCN } from 'date-fns/locale'
+import { MessageCircle, Repeat2, Heart, ExternalLink } from 'lucide-react'
+import { Avatar } from './Avatar'
+import type { Tweet } from '../types'
 
 interface TweetCardProps {
-  tweet: Tweet;
+  tweet: Tweet
 }
 
 export function TweetCard({ tweet }: TweetCardProps) {
-  const publishedDate = new Date(tweet.publishedAt);
+  const publishedDate = new Date(tweet.publishedAt)
   const timeAgo = formatDistanceToNow(publishedDate, {
     addSuffix: true,
     locale: zhCN,
-  });
+  })
 
   // 格式化具体时间：年-月-日 时:分:秒 +时区
-  const formattedTime = format(publishedDate, 'yyyy-MM-dd HH:mm:ss XX');
+  const formattedTime = format(publishedDate, 'yyyy-MM-dd HH:mm:ss XX')
 
   return (
     <article className="px-4 py-6 sm:px-6 border-b border-[var(--border)] card-hover animate-fade-in transition-colors duration-150">
@@ -58,7 +53,9 @@ export function TweetCard({ tweet }: TweetCardProps) {
             <span className="text-[var(--muted-foreground)] text-sm leading-5">
               @{tweet.username}
             </span>
-            <span className="text-[var(--muted-foreground)] text-sm leading-5">·</span>
+            <span className="text-[var(--muted-foreground)] text-sm leading-5">
+              ·
+            </span>
             <a
               href={tweet.link}
               target="_blank"
@@ -104,7 +101,8 @@ export function TweetCard({ tweet }: TweetCardProps) {
                       alt={media.alt || 'Tweet media'}
                       className="w-full h-full object-cover hover:opacity-95 transition-opacity duration-200"
                       style={{
-                        maxHeight: tweet.media!.length === 1 ? '500px' : '200px',
+                        maxHeight:
+                          tweet.media!.length === 1 ? '500px' : '200px',
                       }}
                       loading="lazy"
                     />
@@ -153,20 +151,25 @@ export function TweetCard({ tweet }: TweetCardProps) {
                       tweet.quote.media.length === 1
                         ? 'grid-cols-1'
                         : tweet.quote.media.length === 2
-                        ? 'grid-cols-2'
-                        : tweet.quote.media.length === 3
-                        ? 'grid-cols-2'
-                        : 'grid-cols-2'
+                          ? 'grid-cols-2'
+                          : tweet.quote.media.length === 3
+                            ? 'grid-cols-2'
+                            : 'grid-cols-2'
                     }`}
                   >
                     {tweet.quote.media.map((media, i) => (
                       <div
                         key={i}
                         className={`relative ${
-                          tweet.quote!.media!.length === 3 && i === 0 ? 'row-span-2' : ''
+                          tweet.quote!.media!.length === 3 && i === 0
+                            ? 'row-span-2'
+                            : ''
                         }`}
                         style={{
-                          maxHeight: tweet.quote!.media!.length === 1 ? '300px' : '150px',
+                          maxHeight:
+                            tweet.quote!.media!.length === 1
+                              ? '300px'
+                              : '150px',
                         }}
                       >
                         <img
@@ -174,7 +177,10 @@ export function TweetCard({ tweet }: TweetCardProps) {
                           alt={media.alt || ''}
                           className="w-full h-full object-cover"
                           style={{
-                            maxHeight: tweet.quote!.media!.length === 1 ? '300px' : '150px',
+                            maxHeight:
+                              tweet.quote!.media!.length === 1
+                                ? '300px'
+                                : '150px',
                           }}
                           loading="lazy"
                         />
@@ -237,15 +243,15 @@ export function TweetCard({ tweet }: TweetCardProps) {
         </div>
       </div>
     </article>
-  );
+  )
 }
 
 function formatNumber(num: number): string {
   if (num >= 1000000) {
-    return (num / 1000000).toFixed(1) + 'M';
+    return (num / 1000000).toFixed(1) + 'M'
   }
   if (num >= 1000) {
-    return (num / 1000).toFixed(1) + 'K';
+    return (num / 1000).toFixed(1) + 'K'
   }
-  return num.toString();
+  return num.toString()
 }

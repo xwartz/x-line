@@ -9,6 +9,8 @@
     "build": "node scripts/build-followers.mjs && tsc -b && vite build",
     "preview": "vite preview",
     "lint": "eslint .",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,css,md}\"",
+    "format:check": "prettier --check \"**/*.{ts,tsx,js,jsx,json,css,md}\"",
     "fetch-tweets": "node scripts/fetch-tweets.mjs",
     "validate-followers": "node scripts/validate-followers.mjs",
     "build-followers": "node scripts/build-followers.mjs",
@@ -22,15 +24,21 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@eslint/js": "^9.39.1",
     "@types/node": "^20.12.0",
     "@types/react": "^18.3.0",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.0",
     "eslint": "^9.15.0",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
     "postcss": "^8.4.0",
+    "prettier": "^3.3.3",
     "tailwindcss": "^3.4.0",
     "typescript": "^5.6.0",
+    "typescript-eslint": "^8.48.1",
     "vite": "^6.0.1"
   },
   "engines": {

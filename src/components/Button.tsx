@@ -1,12 +1,12 @@
-import { clsx } from 'clsx';
-import { Loader2 } from 'lucide-react';
-import type { ButtonHTMLAttributes, ReactNode } from 'react';
+import { clsx } from 'clsx'
+import { Loader2 } from 'lucide-react'
+import type { ButtonHTMLAttributes, ReactNode } from 'react'
 
 interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
-  variant?: 'primary' | 'secondary' | 'ghost';
-  size?: 'sm' | 'md' | 'lg';
-  loading?: boolean;
-  children: ReactNode;
+  variant?: 'primary' | 'secondary' | 'ghost'
+  size?: 'sm' | 'md' | 'lg'
+  loading?: boolean
+  children: ReactNode
 }
 
 export function Button({
@@ -42,5 +42,5 @@ export function Button({
       {loading && <Loader2 className="w-4 h-4 mr-2 animate-spin" />}
       {children}
     </button>
-  );
+  )
 }

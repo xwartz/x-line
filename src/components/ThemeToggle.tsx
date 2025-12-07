@@ -1,15 +1,19 @@
-import { Moon, Sun, Monitor } from 'lucide-react';
-import { useTheme } from './ThemeProvider';
+import { Moon, Sun, Monitor } from 'lucide-react'
+import { useTheme } from './ThemeProvider'
 
 export function ThemeToggle() {
-  const { theme, setTheme } = useTheme();
+  const { theme, setTheme } = useTheme()
 
   const cycleTheme = () => {
-    const themes: Array<'light' | 'dark' | 'system'> = ['light', 'dark', 'system'];
-    const currentIndex = themes.indexOf(theme);
-    const nextIndex = (currentIndex + 1) % themes.length;
-    setTheme(themes[nextIndex]);
-  };
+    const themes: Array<'light' | 'dark' | 'system'> = [
+      'light',
+      'dark',
+      'system',
+    ]
+    const currentIndex = themes.indexOf(theme)
+    const nextIndex = (currentIndex + 1) % themes.length
+    setTheme(themes[nextIndex])
+  }
 
   return (
     <button
@@ -22,5 +26,5 @@ export function ThemeToggle() {
       {theme === 'dark' && <Moon className="w-5 h-5" />}
       {theme === 'system' && <Monitor className="w-5 h-5" />}
     </button>
-  );
+  )
 }

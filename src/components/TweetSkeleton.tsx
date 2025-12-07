@@ -32,7 +32,7 @@ export function TweetSkeleton() {
         </div>
       </div>
     </div>
-  );
+  )
 }
 
 export function TimelineSkeleton({ count = 5 }: { count?: number }) {
@@ -42,5 +42,5 @@ export function TimelineSkeleton({ count = 5 }: { count?: number }) {
         <TweetSkeleton key={i} />
       ))}
     </div>
-  );
+  )
 }

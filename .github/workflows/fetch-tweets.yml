@@ -8,10 +8,10 @@ on:
   # 手动触发
   workflow_dispatch:
 
-  # 推送到 main 分支时触发
+  # 推送到 master 分支时触发
   push:
     branches:
-      - main
+      - master
     paths:
       - 'scripts/fetch-tweets.mjs'
       - '.github/workflows/fetch-tweets.yml'

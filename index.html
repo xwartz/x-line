@@ -6,6 +6,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="A clean and elegant X (Twitter) timeline aggregator" />
     <title>X-Line - X Timeline Aggregator</title>
+    <script>
+      (function() {
+        try {
+          const stored = localStorage.getItem('theme');
+          let theme = 'system';
+
+          if (stored) {
+            try {
+              // useLocalStorage 使用 JSON.stringify，所以需要解析
+              theme = JSON.parse(stored);
+            } catch (e) {
+              // 如果不是 JSON 格式，直接使用原始值（向后兼容）
+              theme = stored;
+            }
+          }
+
+          let resolvedTheme = theme;
+          if (theme === 'system') {
+            resolvedTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          }
+
+          if (resolvedTheme === 'dark') {
+            document.documentElement.classList.add('dark');
+            document.documentElement.style.colorScheme = 'dark';
+          } else {
+            document.documentElement.style.colorScheme = 'light';
+          }
+        } catch (e) {
+          // Ignore errors
+        }
+      })();
+    </script>
+    <style>
+      html {
+        color-scheme: light dark;
+      }
+      html.dark {
+        color-scheme: dark;
+      }
+      body {
+        background-color: #ffffff;
+        color: #0f172a;
+      }
+      html.dark body {
+        background-color: #15202b;
+        color: #e7e9ea;
+      }
+    </style>
   </head>
   <body class="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
     <div id="root"></div>

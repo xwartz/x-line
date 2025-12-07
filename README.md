@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![X-Line Logo](https://img.shields.io/badge/X-Line-Timeline%20Aggregator-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+<img src="https://img.shields.io/badge/X--Line-Timeline%20Aggregator-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X-Line Logo">
 
 一个简洁优雅的 X (Twitter) 时间线聚合器
 

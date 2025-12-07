@@ -1,8 +1,8 @@
-import { clsx } from 'clsx';
+import { clsx } from 'clsx'
 
 interface LogoProps {
-  className?: string;
-  size?: number;
+  className?: string
+  size?: number
 }
 
 export function Logo({ className, size = 24 }: LogoProps) {
@@ -49,5 +49,5 @@ export function Logo({ className, size = 24 }: LogoProps) {
         opacity="0.4"
       />
     </svg>
-  );
+  )
 }
