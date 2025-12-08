@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T05:46:06.326Z",
+  "lastUpdated": "2025-12-08T05:56:09.914Z",
   "followers": [
     {
       "username": "naval"
@@ -72,12 +72,75 @@
     }
   ],
   "stats": {
-    "total": 477,
+    "total": 480,
     "newFetched": 443,
     "successUsers": 23,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "1997907536050360649",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "你如果在 X 或科技圈的同溫層，看著滿屏的 Vibe Coding 的演示，會以為這技術已經氾濫成災。\n\n但實際上，ChatGPT、Gemini、Claude、Grok 這些頭部玩家的不重複月活躍用戶全部加起來，可能才剛突破 10億人。 \n\n全球網路使用者約有 60 億人。換句話說，真正將 AI 納入日常工具箱的人，也就 15% 左右。\n\n如果說「會用 AI 聊天」的人已經不多，那「會用 AI 寫程式」的人更是鳳毛麟角。能透過自然語言指揮 AI 寫出可用產品的人，在全體網民中，可能連 0.1% 都不到。\n\n現實生活中真的「付諸實行」去解決問題的人少之又少。這不是紅海，這是一片巨大的藍海。",
+      "contentHtml": "你如果在 X 或科技圈的同溫層，看著滿屏的 Vibe Coding 的演示，會以為這技術已經氾濫成災。\n\n但實際上，ChatGPT、Gemini、Claude、Grok 這些頭部玩家的不重複月活躍用戶全部加起來，可能才剛突破 10億人。 \n\n全球網路使用者約有 60 億人。換句話說，真正將 AI 納入日常工具箱的人，也就 15% 左右。\n\n如果說「會用 AI 聊天」的人已經不多，那「會用 AI 寫程式」的人更是鳳毛麟角。能透過自然語言指揮 AI 寫出可用產品的人，在全體網民中，可能連 0.1% 都不到。\n\n現實生活中真的「付諸實行」去解決問題的人少之又少。這不是紅海，這是一片巨大的藍海。",
+      "publishedAt": "2025-12-08T05:54:00.000Z",
+      "link": "https://x.com/BensonTWN/status/1997907536050360649",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1997905584201609704",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "nitter.privacyredirect.com/BensonTWN/status/19979…\n\n後續找idea的貼文",
+      "contentHtml": "<a href=\"https://nitter.privacyredirect.com/BensonTWN/status/1997905266407293195\">nitter.privacyredirect.com/BensonTWN/status/19979…</a>\n\n後續找idea的貼文",
+      "publishedAt": "2025-12-08T05:46:00.000Z",
+      "link": "https://x.com/BensonTWN/status/1997905584201609704",
+      "quote": {
+        "username": "BensonTWN",
+        "displayName": "Benson Sun",
+        "content": "前陣子我在一篇「地理套利」的文章中提到：\n與其盲目找 idea，不如去 Reddit 或 X 挖真實需求。\n\n說幹就幹。因為 X 的 API 太貴，我先從 Reddit 下手，這是一條我驗證過的低成本路徑：\n\n數據源：用 pullpush.io 抓 Reddit 的歷史貼文（非官方 API，不能查最新，但夠用了）。\n\n篩選機制：鎖定最熱門的 1000 個子版面，過濾出討論熱度較高的貼文（留言數 > 30）。\n\nAI 分析：接 OpenAI 的 API，使用 gpt-4o-mini，讓模型去掃這些討論串，從裡面找出使用者的「抱怨痛點」或「主動尋找解決方案」的內容，自動歸納潛在商業需求。\n\n選 gpt-4o-mini 的原因：快、便宜，分析文字語意完全夠用。\n\n這個專案從前端到後端、從資料抓取到讓 AI 整理需求，全程 vibe coding。\n\n開 GPT-5.1 的 Thinking 模式跟 AI 討論想法、生技術 spec，然後整包丟給 Codex 生成程式碼。\n\n電腦放著跑了一整個下午，最後跑出了近千個討論熱度較高的潛在需求。\n\n不過仔細看，這近千個需求裡面：\n- 很多太空泛\n- 很多沒有商業價值\n- 很多難做、沒必要做\n- 很多純抱怨不算需求\n\n但這無所謂，因為最硬的原始資料（熱門貼文＋評論）已經有了，剩下的就是篩選。\n\n而篩選，剛好是 AI 最拿手的事情。\n\n接下來我會讓 AI 做商業潛力評分（0–100 分）：\n- 潛在市場\n- 解決方案複雜度\n- 市場競爭程度\n- 成本、風險、維運難度\n\n綜合給分後，再從得分最高的前 50 個，人工慢慢挑。\n\n這套流程，本質上就是一個 AI 版「挖 idea 的自動化工廠」。\n\n成本低、速度快，而且找出來的都是經過網友討論驗證過的真實需求，而不是自己瞎想。\n\n我也不知道最後煉蠱會煉出什麼。\n\n有挖到特別的，再跟大家分享。",
+        "link": "https://x.com/BensonTWN/status/1997905266407293195",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7nyHo8bsAAldKn.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1997905266407293195",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "前陣子我在一篇「地理套利」的文章中提到：\n與其盲目找 idea，不如去 Reddit 或 X 挖真實需求。\n\n說幹就幹。因為 X 的 API 太貴，我先從 Reddit 下手，這是一條我驗證過的低成本路徑：\n\n數據源：用 pullpush.io 抓 Reddit 的歷史貼文（非官方 API，不能查最新，但夠用了）。\n\n篩選機制：鎖定最熱門的 1000 個子版面，過濾出討論熱度較高的貼文（留言數 > 30）。\n\nAI 分析：接 OpenAI 的 API，使用 gpt-4o-mini，讓模型去掃這些討論串，從裡面找出使用者的「抱怨痛點」或「主動尋找解決方案」的內容，自動歸納潛在商業需求。\n\n選 gpt-4o-mini 的原因：快、便宜，分析文字語意完全夠用。\n\n這個專案從前端到後端、從資料抓取到讓 AI 整理需求，全程 vibe coding。\n\n開 GPT-5.1 的 Thinking 模式跟 AI 討論想法、生技術 spec，然後整包丟給 Codex 生成程式碼。\n\n電腦放著跑了一整個下午，最後跑出了近千個討論熱度較高的潛在需求。\n\n不過仔細看，這近千個需求裡面：\n- 很多太空泛\n- 很多沒有商業價值\n- 很多難做、沒必要做\n- 很多純抱怨不算需求\n\n但這無所謂，因為最硬的原始資料（熱門貼文＋評論）已經有了，剩下的就是篩選。\n\n而篩選，剛好是 AI 最拿手的事情。\n\n接下來我會讓 AI 做商業潛力評分（0–100 分）：\n- 潛在市場\n- 解決方案複雜度\n- 市場競爭程度\n- 成本、風險、維運難度\n\n綜合給分後，再從得分最高的前 50 個，人工慢慢挑。\n\n這套流程，本質上就是一個 AI 版「挖 idea 的自動化工廠」。\n\n成本低、速度快，而且找出來的都是經過網友討論驗證過的真實需求，而不是自己瞎想。\n\n我也不知道最後煉蠱會煉出什麼。\n\n有挖到特別的，再跟大家分享。",
+      "contentHtml": "前陣子我在一篇「地理套利」的文章中提到：\n與其盲目找 idea，不如去 Reddit 或 X 挖真實需求。\n\n說幹就幹。因為 X 的 API 太貴，我先從 Reddit 下手，這是一條我驗證過的低成本路徑：\n\n數據源：用 <a href=\"http://pullpush.io\">pullpush.io</a> 抓 Reddit 的歷史貼文（非官方 API，不能查最新，但夠用了）。\n\n篩選機制：鎖定最熱門的 1000 個子版面，過濾出討論熱度較高的貼文（留言數 &gt; 30）。\n\nAI 分析：接 OpenAI 的 API，使用 gpt-4o-mini，讓模型去掃這些討論串，從裡面找出使用者的「抱怨痛點」或「主動尋找解決方案」的內容，自動歸納潛在商業需求。\n\n選 gpt-4o-mini 的原因：快、便宜，分析文字語意完全夠用。\n\n這個專案從前端到後端、從資料抓取到讓 AI 整理需求，全程 vibe coding。\n\n開 GPT-5.1 的 Thinking 模式跟 AI 討論想法、生技術 spec，然後整包丟給 Codex 生成程式碼。\n\n電腦放著跑了一整個下午，最後跑出了近千個討論熱度較高的潛在需求。\n\n不過仔細看，這近千個需求裡面：\n- 很多太空泛\n- 很多沒有商業價值\n- 很多難做、沒必要做\n- 很多純抱怨不算需求\n\n但這無所謂，因為最硬的原始資料（熱門貼文＋評論）已經有了，剩下的就是篩選。\n\n而篩選，剛好是 AI 最拿手的事情。\n\n接下來我會讓 AI 做商業潛力評分（0–100 分）：\n- 潛在市場\n- 解決方案複雜度\n- 市場競爭程度\n- 成本、風險、維運難度\n\n綜合給分後，再從得分最高的前 50 個，人工慢慢挑。\n\n這套流程，本質上就是一個 AI 版「挖 idea 的自動化工廠」。\n\n成本低、速度快，而且找出來的都是經過網友討論驗證過的真實需求，而不是自己瞎想。\n\n我也不知道最後煉蠱會煉出什麼。\n\n有挖到特別的，再跟大家分享。",
+      "publishedAt": "2025-12-08T05:45:00.000Z",
+      "link": "https://x.com/BensonTWN/status/1997905266407293195",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7nyHo8bsAAldKn.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1997903342388007273",
       "username": "hazenlee",
