@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T11:51:03.225Z",
+  "lastUpdated": "2025-12-08T12:37:13.521Z",
   "followers": [
     {
       "username": "naval"
@@ -73,11 +73,149 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 443,
-    "successUsers": 23,
-    "failedUsers": 0
+    "newFetched": 420,
+    "successUsers": 22,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "1998007576936747022",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "还记得 12.01「1011 闪崩后开空内幕大佬」曾向 Binance 充值 2.3 亿美元的稳定币吗？同天有个新地址提出  77385.34 枚 ETH（约 2.19 亿美元），被猜测归属于内幕大佬\n\n建仓 8 天后这部分 $ETH 已浮盈 2347 万美元，当时的提出均价为 $2835.62，现价 $3141\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
+      "contentHtml": "还记得 12.01「1011 闪崩后开空内幕大佬」曾向 Binance 充值 2.3 亿美元的稳定币吗？同天有个新地址提出  77385.34 枚 ETH（约 2.19 亿美元），被猜测归属于内幕大佬\n\n建仓 8 天后这部分 <a href=\"/search?q=%23ETH\">$ETH</a> 已浮盈 2347 万美元，当时的提出均价为 $2835.62，现价 $3141\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x36ED68c47a007b6D896515070375b3f5AC9BC889\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/search?q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
+      "publishedAt": "2025-12-08T12:31:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/1998007576936747022",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7pZP5ObkAAacfV.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "「1011 闪崩后开空内幕大佬」过去 7 小时已累计向 #Binance 充值价值 1.7 亿美元的稳定币！\n\n目前已抵押 126,232.16 $ETH 并借出 1.6 亿枚 USDT，这么大手笔，这是打算抄底还是充值进去做保证金？🤔\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
+        "link": "https://x.com/ai_9684xtpa/status/1995448380387164193",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7FAo6fbUAAhTrj.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998006931844419767",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "老馬認為地球上的電力不夠用了，所以他要把「AI 數據中心」搬到太空去，甚至未來直接在月球上生產和發射這些數據中心。\n\n這件事可以拆解成兩個階段來看：\n\n階段一：把電腦搬到天上曬太陽（3-4 年內）\n問題： 現在 AI 發展太快，地面的發電廠蓋得不夠快，電力變成了最大的瓶頸。\n\n解法： 把裝有 AI 晶片的衛星發射到太空中，讓它們繞著地球轉。\n\n為什麼這樣做？\n免費且無限的電： 在特定的軌道（太陽同步軌道）上，衛星可以 24 小時曬太陽，太陽能板一直發電，完全不用擔心電費或停電。\n\n省頻寬： 這些衛星自己在天上算好答案，只把結果傳回地球（而不是把龐大的原始數據傳來傳去），這就像你在雲端算圖，只下載最後那張圖一樣。\n靠星鏈連線： 這些 AI 衛星會用雷射光跟馬斯克現有的 Starlink 衛星連線，組成一個巨大的太空運算網。\n\n階段二：月球基地與電磁砲（更遠的未來）\n問題： 從地球發射火箭太貴、太慢，而且地球重力太強，發射很耗油。\n\n解法： 直接去月球蓋工廠生產衛星。\n\n大招： 用「電磁軌道砲」（就像科幻電影裡的加速器）把做好的衛星從月球表面「彈射」到太空中。因為月球引力小又沒有空氣阻力，不需要火箭推進器就能輕鬆把東西送上天。\n\n對我們會有什麼影響？\nAI 進步速度不再被「缺電」卡住：目前 AI 巨頭（Google, Microsoft, OpenAI）最頭痛的就是搶電。如果馬斯克這招成功，AI 的運算能力將可以近乎無限地擴張，AI 模型會變得更聰明、反應更快。\n\n星鏈（Starlink）會變成超級巨無霸：以後 Starlink 不只是讓你上網的工具，它會變成全球 AI 的「大腦」傳輸神經。你手機裡的 AI 助理，背後的運算可能是在外太空完成的。\n\n太空垃圾與擁擠問題：馬斯克提到的規模是「每年 100 萬噸」的衛星，這意味著地球軌道會變得非常擁擠，天文觀測和太空垃圾處理將面臨巨大挑戰。\n\n邁向「星際文明」：他最後提到的「卡爾達肖夫 II 型文明」，是指一個文明能夠利用其所在恆星（太陽）的全部能量。馬斯克是在畫大餅，告訴大家：我們不只要做電動車，我們要利用太陽能把人類文明等級往上推。",
+      "contentHtml": "老馬認為地球上的電力不夠用了，所以他要把「AI 數據中心」搬到太空去，甚至未來直接在月球上生產和發射這些數據中心。\n\n這件事可以拆解成兩個階段來看：\n\n階段一：把電腦搬到天上曬太陽（3-4 年內）\n問題： 現在 AI 發展太快，地面的發電廠蓋得不夠快，電力變成了最大的瓶頸。\n\n解法： 把裝有 AI 晶片的衛星發射到太空中，讓它們繞著地球轉。\n\n為什麼這樣做？\n免費且無限的電： 在特定的軌道（太陽同步軌道）上，衛星可以 24 小時曬太陽，太陽能板一直發電，完全不用擔心電費或停電。\n\n省頻寬： 這些衛星自己在天上算好答案，只把結果傳回地球（而不是把龐大的原始數據傳來傳去），這就像你在雲端算圖，只下載最後那張圖一樣。\n靠星鏈連線： 這些 AI 衛星會用雷射光跟馬斯克現有的 Starlink 衛星連線，組成一個巨大的太空運算網。\n\n階段二：月球基地與電磁砲（更遠的未來）\n問題： 從地球發射火箭太貴、太慢，而且地球重力太強，發射很耗油。\n\n解法： 直接去月球蓋工廠生產衛星。\n\n大招： 用「電磁軌道砲」（就像科幻電影裡的加速器）把做好的衛星從月球表面「彈射」到太空中。因為月球引力小又沒有空氣阻力，不需要火箭推進器就能輕鬆把東西送上天。\n\n對我們會有什麼影響？\nAI 進步速度不再被「缺電」卡住：目前 AI 巨頭（Google, Microsoft, OpenAI）最頭痛的就是搶電。如果馬斯克這招成功，AI 的運算能力將可以近乎無限地擴張，AI 模型會變得更聰明、反應更快。\n\n星鏈（Starlink）會變成超級巨無霸：以後 Starlink 不只是讓你上網的工具，它會變成全球 AI 的「大腦」傳輸神經。你手機裡的 AI 助理，背後的運算可能是在外太空完成的。\n\n太空垃圾與擁擠問題：馬斯克提到的規模是「每年 100 萬噸」的衛星，這意味著地球軌道會變得非常擁擠，天文觀測和太空垃圾處理將面臨巨大挑戰。\n\n邁向「星際文明」：他最後提到的「卡爾達肖夫 II 型文明」，是指一個文明能夠利用其所在恆星（太陽）的全部能量。馬斯克是在畫大餅，告訴大家：我們不只要做電動車，我們要利用太陽能把人類文明等級往上推。",
+      "publishedAt": "2025-12-08T12:29:00.000Z",
+      "link": "https://x.com/BensonTWN/status/1998006931844419767",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7pW-Q_bUAAcFEp.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998004953978429810",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "彩票店不是才7%的利润么，咋这么多女的开始搞这个？？？",
+      "contentHtml": "彩票店不是才7%的利润么，咋这么多女的开始搞这个？？？",
+      "publishedAt": "2025-12-08T12:21:00.000Z",
+      "link": "https://x.com/Bitfatty/status/1998004953978429810",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7pW6WjaUAEIUOE.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998002643076272427",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "一天搞定老鼠仓，@heyibinance 担任联席 CEO 后的「币安速度」\n\n刚才币安针对「黄果之年」老鼠仓处理公告出来了\n1️⃣ 涉事员工停职处理\n2️⃣ 将追究该员工法律责任\n3️⃣ 五个走官方通道的举报人瓜分 10 万美金奖金（记得比上次高了不少）\n\n队伍大了不好带，只能说用「高效率 + 强惩处」尽可能规避了，不过这次 24 小时左右搞定还是蛮顶的，这只大老鼠属于是撞枪口上了😂",
+      "contentHtml": "一天搞定老鼠仓，<a href=\"/heyibinance\" title=\"Yi He\">@heyibinance</a> 担任联席 CEO 后的「币安速度」\n\n刚才币安针对「黄果之年」老鼠仓处理公告出来了\n1️⃣ 涉事员工停职处理\n2️⃣ 将追究该员工法律责任\n3️⃣ 五个走官方通道的举报人瓜分 10 万美金奖金（记得比上次高了不少）\n\n队伍大了不好带，只能说用「高效率 + 强惩处」尽可能规避了，不过这次 24 小时左右搞定还是蛮顶的，这只大老鼠属于是撞枪口上了😂",
+      "publishedAt": "2025-12-08T12:12:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/1998002643076272427",
+      "quote": {
+        "username": "BinanceFutures",
+        "displayName": "Binance Futures",
+        "content": "关于员工涉嫌违规事件的调查结果公告\n\n亲爱的币安用户及社区成员：\n\n感谢社区的反馈以及对币安的支持与关注。2025年12月7日，币安内部审计部门收到相关举报，称币安员工涉嫌利用内幕信息在官方社交媒体发文，获取不当收益。对此平台第一时间启动了全面调查。目前调查还在进行中，以下为阶段性的调查结果：\n\n一、调查结果\n12 月 7 日 13:29（UTC+8）在链上发行的相关代币，与随后 13:30 在 @BinanceFutures 账号发布的推文所使用的部分文案与图片一致。经核查，该行为确认是相关员工涉嫌利用职务便利谋取私利，已严重违反公司相关规定与职业行为守则。\n\n二、处理结果\n立即停职： 我们已在第一时间对涉事员工进行停职处理，当前正等待后续处理流程。\n追究法律责任： 我们已主动联系并将积极配合员工所在司法管辖区的相关部门，按照法律流程追究其责任。\n\n三、举报奖励\n我们已对所有通过官方举报渠道（audit@binance.com）提交的有效举报完成核查和去重处理。根据我们的悬赏承诺，10万美金奖励将平均分发至以下最早提交有效举报信息的举报人：\n\nl****4@g****.com\nz****3@g****.com\nb****c@g****.com\nx****1@g****.com\nd****7@g****.com\n\n我们将与以上举报人直接通过邮箱联系。同时，我们注意到部分相关举报信息已在 X 平台上公开发布，感谢社区对我们的监督与支持。为更好地保障举报人的权益，我们的举报奖励仅针对通过官方渠道（audit@binance.com）提交的有效举报。\n\n币安始终坚持用户至上的原则，秉持公开、公平、公正的价值观，对任何违规行为零容忍。对于破坏平台诚信、试图利用职务之便牟利的行为，我们将坚决查处、严肃追责，绝不姑息。我们也将进一步强化内部管理，持续完善制度与流程，堵住一切可能被滥用的空间，杜绝类似事件再次发生。同时，币安欢迎社区持续监督，并鼓励通过唯一官方举报渠道（audit@binance.com）提供线索，与我们共同维护健康、透明的区块链生态，为所有用户打造更安全、更可信赖的交易环境。\n\n再次感谢大家的关注与支持！\n币安团队\n2025年12月8日",
+        "link": "https://x.com/BinanceFutures/status/1997985902321394077"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998001229176463580",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "好的不灵坏的灵\n上架不涨下架涨",
+      "contentHtml": "好的不灵坏的灵\n上架不涨下架涨",
+      "publishedAt": "2025-12-08T12:06:00.000Z",
+      "link": "https://x.com/Bitfatty/status/1998001229176463580",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7pThplbcAAWgFM.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1997999235963531565",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
+      "content": "我单身了62年的大爷，终于过上了有媳妇儿的生活",
+      "contentHtml": "我单身了62年的大爷，终于过上了有媳妇儿的生活",
+      "publishedAt": "2025-12-08T11:58:00.000Z",
+      "link": "https://x.com/hazenlee/status/1997999235963531565",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7pRtZ2awAATw7w.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1997993220954030200",
       "username": "Bitfatty",
@@ -11353,31 +11491,6 @@
       }
     },
     {
-      "id": "1885077365774049722",
-      "username": "kaiynne",
-      "displayName": "kain.crates",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1944731039370199041%2FC3GO8JfT_bigger.jpg",
-      "content": "This is a really bad idea, fixed claims are a bad idea, but reducing the claim period after announcing a fixed claim is legit insane.",
-      "contentHtml": "This is a really bad idea, fixed claims are a bad idea, but reducing the claim period after announcing a fixed claim is legit insane.",
-      "publishedAt": "2025-01-30T21:27:00.000Z",
-      "link": "https://x.com/kaiynne/status/1885077365774049722",
-      "retweet": {
-        "username": "HsakaTrades",
-        "displayName": "Hsaka"
-      },
-      "quote": {
-        "username": "LucaNetz",
-        "displayName": "Luca Netz 🐧✳️",
-        "content": "We’ve readjusted the claim period for Pengu to end in 5 days. If you are a Pudgy Penguin holder, you have 5 days left to claim.",
-        "link": "https://x.com/LucaNetz/status/1885027240548724993"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "1884992612592947482",
       "username": "HsakaTrades",
       "displayName": "Hsaka",
@@ -11448,32 +11561,6 @@
       }
     },
     {
-      "id": "1884699251860553789",
-      "username": "WatcherGuru",
-      "displayName": "Watcher.Guru",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1641221212578754562%2FDfiC0KW2_bigger.png",
-      "content": "JUST IN: 🇺🇸 Federal Reserve Chair Jerome Powell says \"banks are perfectly able to serve crypto customers.\"",
-      "contentHtml": "JUST IN: 🇺🇸 Federal Reserve Chair Jerome Powell says \"banks are perfectly able to serve crypto customers.\"",
-      "publishedAt": "2025-01-29T20:24:00.000Z",
-      "link": "https://x.com/WatcherGuru/status/1884699251860553789",
-      "media": [
-        {
-          "type": "video",
-          "url": "",
-          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1884699197011644416%2Fimg%2FuCXuByZVDPcr_y2G.jpg%3Fname%3Dsmall%26format%3Dwebp"
-        }
-      ],
-      "retweet": {
-        "username": "HsakaTrades",
-        "displayName": "Hsaka"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "1884679751148650749",
       "username": "HsakaTrades",
       "displayName": "Hsaka",
@@ -11497,126 +11584,6 @@
       "contentHtml": "错过了Bome，我想可能不会再有三天几百倍的预售了。\n\n踏空了Neiro，我觉得很难再有15M上线币安现货的代币了。\n\n卖飞了Goat，我不知道下一次能拿到赛道龙头1%筹码的机会要等多久。\n\n即使抓住了马斯克喊Pnut，我也在想，不会有比这更夸张的事了吧？\n\n焦虑过，迷茫过，懊恼过，从未停止过，因为我享受挖掘项目、靠认知下注、再被市场认证的过程，焚膏油以继晷，恒兀兀以穷年。\n\n日复一日的枯坐，像西西弗斯推动巨石那般不知疲倦，而天道终将酬勤。在底部大仓位买到特朗普亲自下场发的Meme币，是做梦都不敢想的剧情，如今却照进了现实。\n\n容易感到疲惫的，是做社区和推特这两件事。一个人玩，只需要顾及自己的盈亏，也可以承受更大的风险，而带大家玩，需要考虑一个币适不适合集体上车，还要时刻提醒大家止盈，毕竟利润回撤对大部分人而言是很难受的。好在社区氛围一直很不错，这些事不会真正让我觉得心累，只是一定程度上会影响我自己的操作。\n\n推特就更不必说了，我之所以一直用明牌地址，就是为了公开透明，至少你可以看到我的操作和分享是知行合一的，这也是我认为链上最大的优点，即使这样，小黑子也总能找到角度，亏钱是我菜，赚钱是我有内幕，甚至说是我开的盘子，各种造谣抹黑数不胜数。\n\n可能很多人都不知道，“月底的0xSun”这个梗一开始也是别人用来黑我的，说我快到月初收群费的时候就营销一波，结果硬生生被我一次次在月底抓到金狗变成了吹我的梗。他们不知道我的群累积了几千份申请没有看，哪怕群友推荐的朋友也要等上几个月才有位置，从第一个月到现在三年多每个月都是爆满，我需要做什么营销呢，我的地址就是最好的营销。\n\n正好快过年了，我想也是时候休息一阵了。当然我不会退圈，交易还是会做，有意思的项目还是会分享，只是可能适当降低一些频率，思考思考未来的路。\n\n再一次，感谢各位一路以来的支持。最后，以查理芒格的一段话作为结尾吧：我们的经验往往会验证一个长久以来的观念：只要做好准备，在人生中抓住几个机会，迅速地采取适当的行动，去做简单而合乎逻辑的事情，这辈子的财富就会得到极大的增长。上面提到的这种机会很少，它们通常会落在不断地寻找和等待、充满求知欲望而又热衷于对各种不同的可能性作出分析的人头上。这样的机会来临之后，如果获胜的几率极高，那么动用过去的谨慎和耐心得来的资源，重重地压下赌注就可以了。",
       "publishedAt": "2025-01-19T00:10:00.000Z",
       "link": "https://x.com/0xSunNFT/status/1880769711480389784",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1854395332383350881",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "$doge 的爷爷 $LKY  为何值得关注？\n\n点开币安app 上 $doge 资料简介\n“狗狗币值得注意的一个方面是，它借用了现已解散的Luckycoin所使用的基于scrypt的工作量证明(PoW)共识算法”\n\n近期狗狗币大涨\n会有多少人注意到并且去搜索\n$Luckycoin 呢？",
-      "contentHtml": "<a href=\"/search?q=%23doge\">$doge</a> 的爷爷 <a href=\"/search?q=%23LKY\">$LKY</a>  为何值得关注？\n\n点开币安app 上 <a href=\"/search?q=%23doge\">$doge</a> 资料简介\n“狗狗币值得注意的一个方面是，它借用了现已解散的Luckycoin所使用的基于scrypt的工作量证明(PoW)共识算法”\n\n近期狗狗币大涨\n会有多少人注意到并且去搜索\n$Luckycoin 呢？",
-      "publishedAt": "2024-11-07T05:27:00.000Z",
-      "link": "https://x.com/Bitfatty/status/1854395332383350881",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FGbwg3KRa0AAMFLA.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1825464963777064994",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "时隔1年的合约系列第2期：以 $RARE 为例拆解 #Binance #OKX 合约计算方案——资金费率≠借贷利率，现货成交价＆指数价格＆标记价格又是什么关系？如何识别轧空Short Squeeze和幌骗Spoofing？\n\n阅读全文：link.medium.com/QIqyoDzxbMb\n\n大多数用户都对合约嗤之以鼻但又忍不住手去开合约，每次发合约的推文大家评论总是很积极。第1篇文章获得了很多媒体和KOL的转发好评（也养活了不少洗稿博主），所以2024年打算时隔1年后更新第2篇：\n\n本文大概解释了如下问题：\n1. 合约订单簿的基础知识\n2. 时隔1年的负费率合约行情\n3. 现货价格＆合约价格＆指数价格＆标记价格的关系（以Binance和OKX为例）\n4. 合约资金费率算法方案（以Binance和OKX为例）\n5. 合约价格精度的设计\n6. 负资金费率轧空Short Squeeze的条件\n7. 币圈金融交易无监管下的巨鲸优势——轧空Short Squeeze和幌骗Spoofing\n\n研究并预测永续合约的资金费率是每个做市商、交易员的必备技能，但其实很多业内从业人员、专业做市商也对合约算法并不熟悉，所以第2篇从主流交易所(Binance＆OKX)合约算法的角度介绍2种巨鲸主动干预市场的手法——轧空Short Squeeze＆幌骗Spoofing\n\n2023年的第1篇大概写完了合约算法设计的20%，2024年这篇会逐渐开始硬核起来，大概写完了合约算法设计的50%。下次什么时候填坑写第3篇（保险基金机制＆ADL＆风险限额Risk Limit＆维持保证金率）就看大家的呼声了。最重要的图先放在最前面：\n\n本推文由 #XT交易所 @XTExchangecn @Xt100U 赞助｜价值币上XT",
-      "contentHtml": "时隔1年的合约系列第2期：以 <a href=\"/search?q=%23RARE\">$RARE</a> 为例拆解 <a href=\"/search?q=%23Binance\">#Binance</a> <a href=\"/search?q=%23OKX\">#OKX</a> 合约计算方案——资金费率≠借贷利率，现货成交价＆指数价格＆标记价格又是什么关系？如何识别轧空Short Squeeze和幌骗Spoofing？\n\n阅读全文：<a href=\"https://link.medium.com/QIqyoDzxbMb\">link.medium.com/QIqyoDzxbMb</a>\n\n大多数用户都对合约嗤之以鼻但又忍不住手去开合约，每次发合约的推文大家评论总是很积极。第1篇文章获得了很多媒体和KOL的转发好评（也养活了不少洗稿博主），所以2024年打算时隔1年后更新第2篇：\n\n本文大概解释了如下问题：\n1. 合约订单簿的基础知识\n2. 时隔1年的负费率合约行情\n3. 现货价格＆合约价格＆指数价格＆标记价格的关系（以Binance和OKX为例）\n4. 合约资金费率算法方案（以Binance和OKX为例）\n5. 合约价格精度的设计\n6. 负资金费率轧空Short Squeeze的条件\n7. 币圈金融交易无监管下的巨鲸优势——轧空Short Squeeze和幌骗Spoofing\n\n研究并预测永续合约的资金费率是每个做市商、交易员的必备技能，但其实很多业内从业人员、专业做市商也对合约算法并不熟悉，所以第2篇从主流交易所(Binance＆OKX)合约算法的角度介绍2种巨鲸主动干预市场的手法——轧空Short Squeeze＆幌骗Spoofing\n\n2023年的第1篇大概写完了合约算法设计的20%，2024年这篇会逐渐开始硬核起来，大概写完了合约算法设计的50%。下次什么时候填坑写第3篇（保险基金机制＆ADL＆风险限额Risk Limit＆维持保证金率）就看大家的呼声了。最重要的图先放在最前面：\n\n本推文由 <a href=\"/search?q=%23XT交易所\">#XT交易所</a> <a href=\"/XTExchangecn\" title=\"XT中文频道\">@XTExchangecn</a> <a href=\"/Xt100U\" title=\"XT小客服W\">@Xt100U</a> 赞助｜价值币上XT",
-      "publishedAt": "2024-08-19T09:28:00.000Z",
-      "link": "https://x.com/OwenJin12/status/1825464963777064994",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FGVVYeNga8AAVLeB.jpg"
-        }
-      ],
-      "quote": {
-        "username": "wublockchain12",
-        "displayName": "吴说区块链",
-        "content": "《揭秘：庄家是如何操纵现货合约价格最终收割散户》（作者：@OwenJin12）作者在海外相关机构从事交易风险管理，与大型做市商、项目方和机构用户有丰富的接触经验。近期小市值合约拉盘现象频繁，本文结合具体案例，揭示项目方、做市商及机构大户如何在现货和合约市场联动操控价格，以及这种操控对散户的不公平竞争。通过详细流程和实例说明，这种操纵方式通过控制现货价格、利用资金费率等手段，获利于合约市场，对散户造成显著风险。最终，散户在这种不公平的市场中极难获利，应特别警惕小市值高杠杆合约项目。mp.weixin.qq.com/s/lar8YsWD6…",
-        "link": "https://x.com/wublockchain12/status/1805786970515537973"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1825194193939304584",
-      "username": "JoshuaDeuk",
-      "displayName": "Joshua | MOZAIK 🇰🇷",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
-      "content": "I've been away from the market for the last few weeks, reflecting on why I made such mistakes, especially when I was clearly telling myself how important it was to manage risk.\n\nnitter.privacyredirect.com/JoshuaDeuk/status/1817… \n\nI think it was ego. After nailing the bottom around July 6th\n\nnitter.privacyredirect.com/JoshuaDeuk/status/1809…\n\nMy challenge balance was close to $7.5M, leaving only $2.5M to reach the $10M goal I set when I started this X account last September.\n\nTurning $100K into $10M in one year seemed possible, but I think the pressure I put on myself to be active on X and trade to fulfil this target interfered with my focus.\n\n Instead of trading solely based on market conditions, I was driven by the need to achieve that $2.5M goal.\n\nThis pressure led me to push myself even when I knew the market was just going to chop and there wasn’t much to do. \nI forced myself to squeeze out the last bit of juice to hit that level, which resulted in \nless sleep,\n clouded judgment, \npoor decision-making,\n and a lack of patience at critical moments.\n I was so exhausted that I missed the volatility spike on August 5th. I’m confident I would have capitalized on it to achieve my $10M challenge in under a year.\n\nOn the other hand, losing $2M this month has been deeply disappointing. Percentage-wise, I haven’t lost this much of my assets in the last 4-5 years.\n\nThis experience taught me a valuable lesson: I will never sleep when the VIX is higher than 60, and I’ll always be prepared for volatility.\n\nnitter.privacyredirect.com/Schuldensuehner/status…\n\nSo here I am, putting an end to my challenge. Turning $100K into $4.2M, including the Binance perp account that I shared live under SOJUBOMB, has been an incredible journey. But now, it’s time for me to shift focus.\n\nI want to concentrate more on trading and research rather than fighting with myself, chasing profits, and becoming blind to what really matters. \nHas been a great journey so far    and got into great trenches by doing so,  so I am happy with that\n\n but it’s time to rewire myself back to a longer-term marathon mindset—one that balances life and trading together.\n\nMoving forward, I’ll focus on high-conviction trades, even if it’s just one per month or every few months. My goal is to keep my PNL graph as flat as possible and survive as long as possible for the potential BTC supercycle, where only select sectors pick up while the rest still decay.  \n\nI’m still going to share my thoughts on the general market and where I’m looking, but my focus will be broader than before. So, I’ll probably tweet less frequently than I did over the last year.\n\nAs I close this chapter, my second journey begins now.\n\nMarket Thoughts\n\nI’m still bullish, thinking that market volume will pick up around mid-September from a macro perspective. \n\nAfter five months of newly listed perp tokens experiencing a down-only decay, seeing tokens like $RARE and $SYN squeezing upwards is, in my opinion, a very meaningful signal that the market may have bottomed and is starting to heal.\n\nGold reaching ATH is a very positive sign for BTC, especially after the halving. BTC has always caught up with gold, and while it might take some time with the usual chop, it will eventually follow.\n\nOnce BTC firmly breaks $100K, I have no doubt we’ll see a frothy alt season.\n\nI still believe the MEME and AI sectors will be the best narratives until the end of this cycle—if we haven't ended yet.\n\nMemes will never top before the cycle tops, and AI is the only genuinely new keyword we’ve seen this cycle.\n\nRemember how NFT and GameFi dominated the last cycle? It’s always the new hot trends that give us the highest upside.\n\nIf a new narrative emerges, I’ll happily adjust my view and trade accordingly",
-      "contentHtml": "I've been away from the market for the last few weeks, reflecting on why I made such mistakes, especially when I was clearly telling myself how important it was to manage risk.\n\n<a href=\"https://nitter.privacyredirect.com/JoshuaDeuk/status/1817387309052113127\">nitter.privacyredirect.com/JoshuaDeuk/status/1817…</a> \n\nI think it was ego. After nailing the bottom around July 6th\n\n<a href=\"https://nitter.privacyredirect.com/JoshuaDeuk/status/1809283160800391280\">nitter.privacyredirect.com/JoshuaDeuk/status/1809…</a>\n\nMy challenge balance was close to $7.5M, leaving only $2.5M to reach the $10M goal I set when I started this X account last September.\n\nTurning $100K into $10M in one year seemed possible, but I think the pressure I put on myself to be active on X and trade to fulfil this target interfered with my focus.\n\n Instead of trading solely based on market conditions, I was driven by the need to achieve that $2.5M goal.\n\nThis pressure led me to push myself even when I knew the market was just going to chop and there wasn’t much to do. \nI forced myself to squeeze out the last bit of juice to hit that level, which resulted in \nless sleep,\n clouded judgment, \npoor decision-making,\n and a lack of patience at critical moments.\n I was so exhausted that I missed the volatility spike on August 5th. I’m confident I would have capitalized on it to achieve my $10M challenge in under a year.\n\nOn the other hand, losing $2M this month has been deeply disappointing. Percentage-wise, I haven’t lost this much of my assets in the last 4-5 years.\n\nThis experience taught me a valuable lesson: I will never sleep when the VIX is higher than 60, and I’ll always be prepared for volatility.\n\n<a href=\"https://nitter.privacyredirect.com/Schuldensuehner/status/1822156941251981355\">nitter.privacyredirect.com/Schuldensuehner/status…</a>\n\nSo here I am, putting an end to my challenge. Turning $100K into $4.2M, including the Binance perp account that I shared live under SOJUBOMB, has been an incredible journey. But now, it’s time for me to shift focus.\n\nI want to concentrate more on trading and research rather than fighting with myself, chasing profits, and becoming blind to what really matters. \nHas been a great journey so far    and got into great trenches by doing so,  so I am happy with that\n\n but it’s time to rewire myself back to a longer-term marathon mindset—one that balances life and trading together.\n\nMoving forward, I’ll focus on high-conviction trades, even if it’s just one per month or every few months. My goal is to keep my PNL graph as flat as possible and survive as long as possible for the potential BTC supercycle, where only select sectors pick up while the rest still decay.  \n\nI’m still going to share my thoughts on the general market and where I’m looking, but my focus will be broader than before. So, I’ll probably tweet less frequently than I did over the last year.\n\nAs I close this chapter, my second journey begins now.\n\nMarket Thoughts\n\nI’m still bullish, thinking that market volume will pick up around mid-September from a macro perspective. \n\nAfter five months of newly listed perp tokens experiencing a down-only decay, seeing tokens like <a href=\"/search?q=%23RARE\">$RARE</a> and <a href=\"/search?q=%23SYN\">$SYN</a> squeezing upwards is, in my opinion, a very meaningful signal that the market may have bottomed and is starting to heal.\n\nGold reaching ATH is a very positive sign for BTC, especially after the halving. BTC has always caught up with gold, and while it might take some time with the usual chop, it will eventually follow.\n\nOnce BTC firmly breaks $100K, I have no doubt we’ll see a frothy alt season.\n\nI still believe the MEME and AI sectors will be the best narratives until the end of this cycle—if we haven't ended yet.\n\nMemes will never top before the cycle tops, and AI is the only genuinely new keyword we’ve seen this cycle.\n\nRemember how NFT and GameFi dominated the last cycle? It’s always the new hot trends that give us the highest upside.\n\nIf a new narrative emerges, I’ll happily adjust my view and trade accordingly",
-      "publishedAt": "2024-08-18T15:33:00.000Z",
-      "link": "https://x.com/JoshuaDeuk/status/1825194193939304584",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FGVRa_GCboAANZtX.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FGVRbZm_bgAASIcE.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FGVRfyJCb0AAoOQv.png"
-        }
-      ],
-      "quote": {
-        "username": "JoshuaDeuk",
-        "displayName": "Joshua | MOZAIK 🇰🇷",
-        "content": "I think we just gonna chop chop... \n\nAnd chop again \n\nAnd then chop again  \n\nFor the next few weeks    \n\nManage risk szn.",
-        "link": "https://x.com/JoshuaDeuk/status/1817387309052113127"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1725374664858652867",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "2022年12月24日，我分享了一个神奇的指标，即把BTC前3轮减半之后MVRV的走势叠放在一起，可以发现每一轮的走势图形都高度同频。具体原理和说明，大家可以回顾下这篇推文，这里就不重复了。现在我们可以回过头再看看当时根据该指标给出的预测（见下图），无论是时间、买点、趋势都全部命中。",
-      "contentHtml": "2022年12月24日，我分享了一个神奇的指标，即把BTC前3轮减半之后MVRV的走势叠放在一起，可以发现每一轮的走势图形都高度同频。具体原理和说明，大家可以回顾下这篇推文，这里就不重复了。现在我们可以回过头再看看当时根据该指标给出的预测（见下图），无论是时间、买点、趋势都全部命中。",
-      "publishedAt": "2023-11-17T04:45:00.000Z",
-      "link": "https://x.com/Murphychen888/status/1725374664858652867",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FF_G2aI0bMAA3JOF.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FF_G2aIza8AAgQ_O.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "感慨历史如此惊人的相似 ！一个如此神奇的指标：MVRV\n\n圈内著名的顶级投研机构Messari在2021年12月发表的年度总结报告-Crypto Theses for 2022，第六章“加密市场的上限在哪里?”中着重强调了一个指标：MVRV（Market Value to Realized Value）。Messari研究认为，每当MVRV数值达到3或以上时就是卖出BTC",
-        "link": "https://x.com/Murphychen888/status/1606562657854959616",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FFkul_fgagAADqoI.png"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
