@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-09T07:52:47.169Z",
+  "lastUpdated": "2025-12-09T08:26:42.866Z",
   "followers": [
     {
       "username": "naval"
@@ -73,11 +73,102 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 441,
+    "newFetched": 445,
     "successUsers": 23,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "1998307809574912390",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "#BTC 30日净流入资本量跌至前波低位",
+      "contentHtml": "<a href=\"/search?q=%23BTC\">#BTC</a> 30日净流入资本量跌至前波低位",
+      "publishedAt": "2025-12-09T08:24:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/1998307809574912390",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7tnPziaAAAR2O2.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998301365475655879",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "比特币 #bitcoin 上一次触发超卖信号后，价格横了两周，最后选择了向上突破。\n\n这一次，同样出现超卖，但结构、位置、动能都和之前不太一样。\n\n那到底是重复走势，还是走出新节奏？",
+      "contentHtml": "比特币 <a href=\"/search?q=%23bitcoin\">#bitcoin</a> 上一次触发超卖信号后，价格横了两周，最后选择了向上突破。\n\n这一次，同样出现超卖，但结构、位置、动能都和之前不太一样。\n\n那到底是重复走势，还是走出新节奏？",
+      "publishedAt": "2025-12-09T07:59:00.000Z",
+      "link": "https://x.com/CycleStudies/status/1998301365475655879",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7tj2ZlaoAA2X_D.jpg"
+        }
+      ],
+      "quote": {
+        "username": "CycleStudies",
+        "displayName": "百萬Eric | Day Trader",
+        "content": "比特币 #BITCOIN 触发了新的周线超卖信号。\n\n前五次周线超卖之后的涨幅各不相同，有强有弱，没有固定模式。\n\n那这一次会走出什么节奏？",
+        "link": "https://x.com/CycleStudies/status/1996176341335712192",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7PXzK_boAA-Xfz.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998299956634177798",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "真的假的？？？？",
+      "contentHtml": "真的假的？？？？",
+      "publishedAt": "2025-12-09T07:53:00.000Z",
+      "link": "https://x.com/Bitfatty/status/1998299956634177798",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7tjN1wbYAAha2V.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "蓝战非提前半年被谋划绑架\n真的假的？\n\n币圈好几个被绑架的我倒是知道是真的",
+        "link": "https://x.com/Bitfatty/status/1998060361686430011",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7qJTmnaYAAbzye.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7qJTmpbsAAqg43.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1998299087826026988",
       "username": "hazenlee",
@@ -11633,69 +11724,6 @@
         "displayName": "0xSun",
         "content": "看了下，这两天强势的山寨大概是以下几个板块：\n\n1、隐私币，龙头Zec，监管放宽，纳瓦尔领衔喊单，金融主权、去中心化等话题延伸。相关的有之前介绍过的隐私+ZK赛道次新币Prove，老牌隐私币XMR，Dash，Zen等等。\n\n2、Hyperliquid，HIP3的推出，真正的链上金融市场，无需赘述。相关的可以看看Perp Dex赛道和HIP3相关的标的，但是我感觉Hype已经不仅仅是一个Perp Dex了。\n\n3、X402，其实是已经被市场讨论了挺长一段时间，但是相关标的一直不温不火，直到Ping以Meme的形式出圈才彻底引燃。X402是用于AI智能体之间的支付协议，所以也带动了一批相关的山寨上涨，例如Virtual，Clanker等等。另外Eigen其实也很早就和谷歌合作推出了AP2，其中就包括了用X402实现加密支付。\n\n以上标的我会作为近期主要观察对象，后续如果市场大跌，也可以优先选择，往往强势币的反弹是最迅猛的。",
         "link": "https://x.com/0xSunNFT/status/1982604872286609765"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1984298990783873182",
-      "username": "HsakaTrades",
-      "displayName": "Hsaka",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1690929913270792192%2F6n-PzBnB_bigger.jpg",
-      "content": "to the 3000 perp dexs in the works, there's no need  to reinvent the wheel when it comes to the UI. we solved the UI years ago.\n\njust ape the core binance/hl UI, add your own flavour where applicable.\n\nthe click trader hates having to retrain its muscle memory every month.",
-      "contentHtml": "to the 3000 perp dexs in the works, there's no need  to reinvent the wheel when it comes to the UI. we solved the UI years ago.\n\njust ape the core binance/hl UI, add your own flavour where applicable.\n\nthe click trader hates having to retrain its muscle memory every month.",
-      "publishedAt": "2025-10-31T16:38:00.000Z",
-      "link": "https://x.com/HsakaTrades/status/1984298990783873182",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG4mklAAWMAAjUjP.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1983947510088438022",
-      "username": "HsakaTrades",
-      "displayName": "Hsaka",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1690929913270792192%2F6n-PzBnB_bigger.jpg",
-      "content": "closed everything at breakeven yesterday btw",
-      "contentHtml": "closed everything at breakeven yesterday btw",
-      "publishedAt": "2025-10-30T17:22:00.000Z",
-      "link": "https://x.com/HsakaTrades/status/1983947510088438022",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG4hlvP4XEAAVcje.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1983910162856624339",
-      "username": "0xSunNFT",
-      "displayName": "0xSun",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1820705442735296512%2Fej9BX01I_bigger.png",
-      "content": "说到点子上了，你会发现像X402、ICM这些热点，目前跑出来更多的还是SOL、Base上的币，而不是BNB链上的，因为开发者迁移阵地是需要大量时间和成本的，不像Meme说换条链就换了，但是现在币安除了VC币，看起来是坚决不上SOL跑出来的项目了，这就导致链上的天花板受限，同时这波Giggle上现货，表现也不尽人意，这就很尴尬了。",
-      "contentHtml": "说到点子上了，你会发现像X402、ICM这些热点，目前跑出来更多的还是SOL、Base上的币，而不是BNB链上的，因为开发者迁移阵地是需要大量时间和成本的，不像Meme说换条链就换了，但是现在币安除了VC币，看起来是坚决不上SOL跑出来的项目了，这就导致链上的天花板受限，同时这波Giggle上现货，表现也不尽人意，这就很尴尬了。",
-      "publishedAt": "2025-10-30T14:53:00.000Z",
-      "link": "https://x.com/0xSunNFT/status/1983910162856624339",
-      "quote": {
-        "username": "minglaugodel",
-        "displayName": "ming_lau",
-        "content": "目前所内二级山寨没人接盘，sol base因为上币安路径被卡，上限也极低，bsc上中文meme因为人生没上所，也都不行\n总之，现在没的玩，只能等了",
-        "link": "https://x.com/minglaugodel/status/1983865231622467763"
       },
       "stats": {
         "replies": 0,
