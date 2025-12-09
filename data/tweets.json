@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-09T17:44:38.105Z",
+  "lastUpdated": "2025-12-09T17:55:13.693Z",
   "followers": [
     {
       "username": "naval"
@@ -73,11 +73,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 439,
+    "newFetched": 440,
     "successUsers": 23,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "1998449057090642371",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "笑死人，真的是耻辱，多伦多轻轨，花了5.5亿每MILE，6年时间\n然后运营速度13.5公里/小时，红灯还得停。\n政府已经麻木到了大概6年能交货就不错的地步了，其他的都好说",
+      "contentHtml": "笑死人，真的是耻辱，多伦多轻轨，花了5.5亿每MILE，6年时间\n然后运营速度13.5公里/小时，红灯还得停。\n政府已经麻木到了大概6年能交货就不错的地步了，其他的都好说",
+      "publishedAt": "2025-12-09T17:45:00.000Z",
+      "link": "https://x.com/TJ_Research/status/1998449057090642371",
+      "quote": {
+        "username": "MayorOliviaChow",
+        "displayName": "Mayor Olivia Chow 🇨🇦",
+        "content": "Yes, the Finch LRT is too slow. I know, I rode it twice\n\nIt has to move faster. I'll bring a council item to give it signal priority, and see what else we can do.",
+        "link": "https://x.com/MayorOliviaChow/status/1998427162593083623"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1998444038257611049",
       "username": "0xleng1",
@@ -7767,37 +7788,6 @@
         "displayName": "sb",
         "content": "1%是不是太苛刻了，如果持仓超过一天1%的浮动，太正常了",
         "link": "https://x.com/pengsidan/status/1996015337591144535"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1996038204365984150",
-      "username": "xiaoaojianghuu",
-      "displayName": "笑熬浆糊",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1936901420927561728%2Fy0ENky-t_bigger.jpg",
-      "content": "今天看了AWS reinvent大会，Trainium 3 (3nm) 发布，果然😏nitter.privacyredirect.com/xiaoaojianghuu/status/…\n\nAWS 依然是那个基建狂魔，但这次他们想让AI帮咱写代码，修 Bug ，甚至自动运维。 \n这次有自研模型 Amazon Nova（AWS 亲儿子）登场（麻子这波在 Benchmark上的表现非常激进哦，直接对标了市面最强的 GPT-5 系列 和 Claude 4.5 系列），配合 Nova Forge 支持更灵活的企业级微调。\n\n不过最impress我的不是模型而是Agent和算力： \n\nFrontier Agents，直接嵌入了工作流，包括Kiro（编程），Security Agent（安全），DevOps Agent（运维），AI 开始接管脏活累活。\n\nTrainium 3 UltraServers，性能是上一代的 4 倍（麻子迭代速度蛮快的），Anthropic 的超级集群 Project Rainier 落地。\n\n所以AI 正在从 \"Chatbot\" 转向 \"Agentic Workflows\"。显然，AWS想通过从芯片(Trainium)到应用层(Agents)的全栈能力，成为企业落地 AI 的首选。那么问题来鸟，企业真的准备好把生产环境的控制权交给这些 Al Agent了吗？还是说，短期内它们依然只能在沙盒里跑 Demo? 毕竟，自动修 Bug 听起来很美 ，但自动搞崩系统也就是一瞬间的事儿😂",
-      "contentHtml": "今天看了AWS reinvent大会，Trainium 3 (3nm) 发布，果然😏<a href=\"https://nitter.privacyredirect.com/xiaoaojianghuu/status/1993918503745667297?t=1yZ_4NTvpU71_AUrolYVKw&s=19\">nitter.privacyredirect.com/xiaoaojianghuu/status/…</a>\n\nAWS 依然是那个基建狂魔，但这次他们想让AI帮咱写代码，修 Bug ，甚至自动运维。 \n这次有自研模型 Amazon Nova（AWS 亲儿子）登场（麻子这波在 Benchmark上的表现非常激进哦，直接对标了市面最强的 GPT-5 系列 和 Claude 4.5 系列），配合 Nova Forge 支持更灵活的企业级微调。\n\n不过最impress我的不是模型而是Agent和算力： \n\nFrontier Agents，直接嵌入了工作流，包括Kiro（编程），Security Agent（安全），DevOps Agent（运维），AI 开始接管脏活累活。\n\nTrainium 3 UltraServers，性能是上一代的 4 倍（麻子迭代速度蛮快的），Anthropic 的超级集群 Project Rainier 落地。\n\n所以AI 正在从 \"Chatbot\" 转向 \"Agentic Workflows\"。显然，AWS想通过从芯片(Trainium)到应用层(Agents)的全栈能力，成为企业落地 AI 的首选。那么问题来鸟，企业真的准备好把生产环境的控制权交给这些 Al Agent了吗？还是说，短期内它们依然只能在沙盒里跑 Demo? 毕竟，自动修 Bug 听起来很美 ，但自动搞崩系统也就是一瞬间的事儿😂",
-      "publishedAt": "2025-12-03T02:06:00.000Z",
-      "link": "https://x.com/xiaoaojianghuu/status/1996038204365984150",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7NaK03XAAAhPii.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "quote": {
-        "username": "xiaoaojianghuu",
-        "displayName": "笑熬浆糊",
-        "content": "为什么没等到 460 年线才加第二批$MSFT？\n因为我把“Meta 采购 Google TPU”这事儿，当成了微软的利好。\n\n$NVDA 作为一家硬件公司，毛利率长期 73%–75%，已经是 SaaS 水平了，可见它对客户有近乎绝对的定价权，所谓“天下苦英伟达久矣”（当然我们股东不苦 LOL）。现在 $GOOGL 开始试水对外售卖 TPU，哪怕目前谈不上真正“挑战”，但至少是对$ NVDA 武林盟主地位的第一次松动。\n\n短期看，鬼都知道 NV市占率不会立刻被撼动；但长期看，一旦可选的算力方案变多，客户的议价能力一定会提升，NV的超高毛利率大概率要往下挤一挤。\n\n昨天盘面也很有趣：$AMZN 开盘 15 分钟就拉出一根大阳线并突破短期阻力位。我的理解是，和 Google 用自家 TPU 训练模型类似，亚马逊也有自研的 Trainium。如果未来 Trainium 也拿出来对外卖，那算力市场上 ASIC 的供给会越来越多，GPU 的价格还能长期躺在高位吗？\n\n现在 AI 数据中心成本里，IT 设备占了大约 50%–70%，其中 GPU 又占到 60%–80%。一旦 GPU 价格下来了，整体 capex 就有下调空间。这对几大云厂（包括微软）都是好事，市场如今最担心 AI 泡沫，说白了就是：巨额 capex 能不能赚回相匹配的 ROI。\n\n所以在我眼里，Meta 买 TPU、Google/Amzn aggressively 推自家芯片，本质上都是在帮整个云厂阵营“集体砍价”，长期有利于 AI 基础设施成本回落、ROI 提升。站在微软股东的角度，这是我不愿意死守 460 年线，选择提前加仓的原因之一。但如果下周继续跌，我会在 450-460 之间选择最后一次加仓，然后装 4。。。",
-        "link": "https://x.com/xiaoaojianghuu/status/1993918503745667297"
       },
       "stats": {
         "replies": 0,
