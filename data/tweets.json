@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-09T15:21:12.402Z",
+  "lastUpdated": "2025-12-09T15:44:29.220Z",
   "followers": [
     {
       "username": "naval"
@@ -73,11 +73,53 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 442,
+    "newFetched": 445,
     "successUsers": 23,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "1998414300969599293",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "窄幅震荡行情只观望，立减80%的交易焦虑。",
+      "contentHtml": "窄幅震荡行情只观望，立减80%的交易焦虑。",
+      "publishedAt": "2025-12-09T15:27:00.000Z",
+      "link": "https://x.com/CycleStudies/status/1998414300969599293",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998413828955185264",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "银又新高了",
+      "contentHtml": "银又新高了",
+      "publishedAt": "2025-12-09T15:26:00.000Z",
+      "link": "https://x.com/Bitfatty/status/1998413828955185264",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "贵金属全面牛市了\n\n轮流拉顶\n\n$xau \n$xag\n$copper\n\n做空的太多了🐶跌不下去",
+        "link": "https://x.com/Bitfatty/status/1996824474067640540",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7YlRVcb0AMxsZc.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1998406247838556399",
       "username": "TJ_Research",
@@ -11681,66 +11723,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG5ebQH0XkAABsHc.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1988016621701779900",
-      "username": "0xSunNFT",
-      "displayName": "0xSun",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1820705442735296512%2Fej9BX01I_bigger.png",
-      "content": "xy=k",
-      "contentHtml": "xy=k",
-      "publishedAt": "2025-11-10T22:51:00.000Z",
-      "link": "https://x.com/0xSunNFT/status/1988016621701779900",
-      "quote": {
-        "username": "haydenzadams",
-        "displayName": "Hayden Adams 🦄",
-        "content": "Today, I’m incredibly excited to make my first proposal to Uniswap governance on behalf of @Uniswap alongside @devinawalsh and @nkennethk \n\nThis proposal turns on protocol fees and aligns incentives across the Uniswap ecosystem\n\nUniswap has been my passion and singular focus for the past 8 years. What started as a small side project is now global financial infrastructure powering thousands of applications with ~$1.8 trillion in annual trading\n\nUNI launched in 2020, but for the past 5 years Labs has been unable to meaningfully participate in Uniswap governance, and has been greatly restricted in the ways it can build value for the Uniswap community. That ends today!\n\nThis restriction was in great part due to a hostile regulatory environment that cost thousands of hours and tens of millions in legal fees. Fortunately, the regulatory environment has shifted\n\nThis proposal comes from a strong desire to see the Uniswap protocol win as the global decentralized exchange for tokenized value\n\nAt a high level, the proposal:\n1. Turns on protocol fees and uses them to burn UNI\n\n2. Sends @unichain sequencer fees to the UNI burn\n\n3. Burns 100M UNI from the treasury representing the protocol fees that could have been burned if fees were turned on at token launch\n\n4. Introduces Protocol Fee Discount Auctions, a new way to improve LP outcomes and internalize MEV to the protocol\n\n5. Introduces \"aggregator hooks” which will turns Uniswap v4 into an onchain aggregator that collects protocol fees on external liquidity sources\n\n6. Focus Labs on driving protocol growth and adoption, including a contractual agreement to only pursue initiatives that align with Uniswap governance interests\n\n^ As part of this, Labs will stop collecting fees on its interface, wallet, and API to supercharge distribution and adoption of the Uniswap protocol\n\n7. Moves Foundation employees to Labs with a shared goal of accelerating protocol growth, under a growth fund from the treasury\n\n8. Move governance-owned Unisocks liquidity to v4 on Unichain and burn the LP position\n\nI believe Uniswap protocol can be the primary place tokens are traded. This proposal sets the stage for the next decade of its growth\n\n@Uniswap will ship relentlessly over the coming years and supercharge the ecosystem of developers, LPs, and traders building on top\n\nI'm so grateful to the community that has made this all possible, and excited for what's next\n\n🦄",
-        "link": "https://x.com/haydenzadams/status/1987990314997739625",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG5bBb26XoAAzKxL.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1987783002491929046",
-      "username": "0xPickleCati",
-      "displayName": "Pickle Cat",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1879537340080869376%2FPV5A5sD2_bigger.jpg",
-      "content": "昨天刚提到 $BTC 106k关键位，没想到短短10小时价格直接从102飞到106了！\n\n现在该怎么看？\n\n以下的观点分为三部分👇\n\n1. 本周宏观状况\n⁃ 目前US Gov复工的利好已经在price in\n⁃ 币圈兑现的速度比预期快、拉得也比预期高\n⁃ 不过美股那边的利好还没完全反映出来\n⁃ 如果今天明天美股带头冲锋，那上方空间还真有得看（109k）\n\n2. 底仓止盈打法\n\n⁃ 如果你跟着我tg群信号或直播的思路一路DCA建了底仓（ETH 3620→3000，BTC 103→98、BNB 950→880、wlfi hype sol等等直播现场开干的）\n\n⁃ 现在一定要记得：分批止盈。\n\n⁃ 没人能预测市场，能做的就是在合理区间最大化收益、锁定利润。落到口袋里的钱才是真的钱💰\n\n⁃ 目前106是关键点位，正在反复测试。可以分批止盈第一波；如果顺利站稳支撑、继续上冲108-109，再止盈第二波\n\n⁃ 109300附近是一个重要阻力区，有可能受阻回落至106，甚至再次下探94-98（看昨天的推文）。但如果109能站稳，那就继续看更高位置\n\n3. 对冲玩法（风险提示，不推荐所有人）\n\n首先你们都知道我是出了名的不怎么做空，纯个人风格偏好，但最近不少人问我空单和对冲的玩法，那我就顺便在这里聊聊这个思路的可能性。\n\n⁃ 底仓多单在手（护身符），有利于你在关键位置布局空单\n\n⁃ 比如，你留两三层底仓，然后在刚才提到的阻力区开对应仓位的空单\n\n⁃ 万一跌破区间、右侧信号出现，可以继续止盈多单、加仓空单\n\n⁃ 建仓永远是慢慢一步一步建的，大仓位永远留给大级别右侧信号\n\n⁃ 布局的空单也一样：分批走、留底仓，为圣诞行情前的最后一波多单做准备\n\n这样做你才能拿得住单子，持仓体验会好很多。\n\n尤其适合容易心急的人！有效克服人性弱点。\n\n格局放大，别只盯着眼前小利。如何布局长线单、让自己持仓更舒服，才是我们应该持续思考的问题。眼光放远，路才会更宽。\n\n这波上涨我们早就预判到了，布局也早已完成。最后的止盈或离场，就算格局带保护都损失不到我们的本金🥒",
-      "contentHtml": "昨天刚提到 <a href=\"/search?q=%23BTC\">$BTC</a> 106k关键位，没想到短短10小时价格直接从102飞到106了！\n\n现在该怎么看？\n\n以下的观点分为三部分👇\n\n1. 本周宏观状况\n⁃ 目前US Gov复工的利好已经在price in\n⁃ 币圈兑现的速度比预期快、拉得也比预期高\n⁃ 不过美股那边的利好还没完全反映出来\n⁃ 如果今天明天美股带头冲锋，那上方空间还真有得看（109k）\n\n2. 底仓止盈打法\n\n⁃ 如果你跟着我tg群信号或直播的思路一路DCA建了底仓（ETH 3620→3000，BTC 103→98、BNB 950→880、wlfi hype sol等等直播现场开干的）\n\n⁃ 现在一定要记得：分批止盈。\n\n⁃ 没人能预测市场，能做的就是在合理区间最大化收益、锁定利润。落到口袋里的钱才是真的钱💰\n\n⁃ 目前106是关键点位，正在反复测试。可以分批止盈第一波；如果顺利站稳支撑、继续上冲108-109，再止盈第二波\n\n⁃ 109300附近是一个重要阻力区，有可能受阻回落至106，甚至再次下探94-98（看昨天的推文）。但如果109能站稳，那就继续看更高位置\n\n3. 对冲玩法（风险提示，不推荐所有人）\n\n首先你们都知道我是出了名的不怎么做空，纯个人风格偏好，但最近不少人问我空单和对冲的玩法，那我就顺便在这里聊聊这个思路的可能性。\n\n⁃ 底仓多单在手（护身符），有利于你在关键位置布局空单\n\n⁃ 比如，你留两三层底仓，然后在刚才提到的阻力区开对应仓位的空单\n\n⁃ 万一跌破区间、右侧信号出现，可以继续止盈多单、加仓空单\n\n⁃ 建仓永远是慢慢一步一步建的，大仓位永远留给大级别右侧信号\n\n⁃ 布局的空单也一样：分批走、留底仓，为圣诞行情前的最后一波多单做准备\n\n这样做你才能拿得住单子，持仓体验会好很多。\n\n尤其适合容易心急的人！有效克服人性弱点。\n\n格局放大，别只盯着眼前小利。如何布局长线单、让自己持仓更舒服，才是我们应该持续思考的问题。眼光放远，路才会更宽。\n\n这波上涨我们早就预判到了，布局也早已完成。最后的止盈或离场，就算格局带保护都损失不到我们的本金🥒",
-      "publishedAt": "2025-11-10T07:22:00.000Z",
-      "link": "https://x.com/0xPickleCati/status/1987783002491929046",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG5YCg0mXoAAhS1a.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xPickleCati",
-        "displayName": "Pickle Cat",
-        "content": "BTC Technical Outlook (Personal View)\n\nLast post, I analyzed all the macro signals I could find. That was the why.\n\nToday’s about the where.\n\nConclusion first: 106K is the decision point.\n\nPic below is my personal $BTC setup, based on confluence across RSI, MACD, and Fib structure.\n\nBTC likely pushes toward the 106K zone before one of two outcomes unfolds:\n\n- If 106K rejects, price may dip to the $94K–$98K range (between Fib 0.5–0.618) before reversing.\n\n- If 106K holds, the pre-Christmas pump could begin, with no major correction likely until after the holidays.\n\nBreakdown👇\n\n1. BTC is currently trading around $102K, testing the lower Bollinger Band.\n\n2. This level has historically aligned with local exhaustion zones during mid-cycle pullbacks.\n\n3. RSI sits around 37, inside the emotional oversold zone, signaling growing downside fatigue.\n\n4. MACD histogram remains bearish, but red bars are narrowing, showing momentum loss.\n\nWhen price hits the lower Bollinger Band while RSI stays below 40 and MACD begins to flatten, it often precedes short-term relief rallies or even full local bottoms.\n\nThis setup mirrors previous confluence bottoms (see green boxes), where multiple exhaustion signals fired together.\n\n--------------------\nConfluence Bottom Zones👇\n\n1. In those green-box areas, there wasn’t a clean textbook divergence.\n\n2. Instead, multiple exhaustion indicators aligned and created a resonance effect.\n\n- RSI dipped into the mid-30s, signaling emotional overselling.\n - MACD histogram expanded sharply, marking a momentum climax.\n\n3. Each time this combination appeared, BTC printed a local bottom and reversed shortly after.\n\n--------------------\nDivergence Example (March–April 2025)👇\n\n(See arrows area in pic)\n\n1. This was the clean, textbook reversal.\n\n2. Price made lower lows while both RSI and MACD formed higher lows, a classic bullish divergence.\n\n3. That setup triggered a sharp V-shaped rally and kicked off the next major bullish leg.\n\nRight now, we don’t see that structure yet. The market still looks like a momentum flush, not a confirmed reversal.\n\n--------------------\nTrader’s Take👇\n\n1. I’m not a “pure TA” trader.\n\n2. I don’t worship indicators, but I use them as one of many lenses to gauge sentiment and momentum.\n\n3. Trading is about blending signals, not marrying any of them.\n\n4. Each move should still align with macro data, market positioning, and overall sentiment.\n\n5. Understanding how confluence and divergence shape reversals helps you read the market’s rhythm.\n\n6. Because the market rarely bottoms on patterns. It bottoms on exhaustion.\n\n--------------------\nFinal Note👇\n\nThe crowd is divided right now.\nHalf shouting “bear market incoming.”\nHalf claiming “bull run just cooling off.”\n\nThe truth is both can be right, depending on your timeframe.\n\nThat’s why you need to build your own thesis and not follow narratives blindly.\n\nSo, what’s your target for BTC’s real cycle bottom? 👇",
-        "link": "https://x.com/0xPickleCati/status/1987528130928505275",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG5Ube2lWgAAMkA6.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
