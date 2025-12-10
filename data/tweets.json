@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T08:25:03.718Z",
+  "lastUpdated": "2025-12-10T08:52:28.271Z",
   "followers": [
     {
       "username": "naval"
@@ -67,11 +67,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 423,
+    "newFetched": 421,
     "successUsers": 21,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "1998671506784547309",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
+      "content": "What you create is an honest reflection of who you are.",
+      "contentHtml": "What you create is an honest reflection of who you are.",
+      "publishedAt": "2025-12-10T08:29:00.000Z",
+      "link": "https://x.com/naval/status/1998671506784547309",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1998666893805355280",
       "username": "BensonTWN",
@@ -11570,34 +11585,6 @@
             "type": "video",
             "url": "",
             "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1991517248293347328%2Fimg%2FZ4z2jeGmzumjrNht.jpg%3Fname%3Dsmall%26format%3Dwebp"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1992918228398674123",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "#Crypto \n\n是真的。",
-      "contentHtml": "<a href=\"/search?q=%23Crypto\">#Crypto</a> \n\n是真的。",
-      "publishedAt": "2025-11-24T11:28:00.000Z",
-      "link": "https://x.com/taresky/status/1992918228398674123",
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "顶级交易员所具备的素质\n热爱 人品 风控",
-        "link": "https://x.com/hazenlee/status/1992884105470689490",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1992883948285034496%2Fimg%2F2DvuU8S_Z-WKcV2M.jpg%3Fname%3Dsmall%26format%3Dwebp"
           }
         ]
       },
