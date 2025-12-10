@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T04:46:58.793Z",
+  "lastUpdated": "2025-12-10T05:19:46.603Z",
   "followers": [
     {
       "username": "naval"
@@ -73,11 +73,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 445,
+    "newFetched": 447,
     "successUsers": 23,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "1998622732544782364",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "#外设 \n\n买了新出的 Wooting 60HE v2 键盘，体验一下传说中急停身法。",
+      "contentHtml": "<a href=\"/search?q=%23外设\">#外设</a> \n\n买了新出的 Wooting 60HE v2 键盘，体验一下传说中急停身法。",
+      "publishedAt": "2025-12-10T05:16:00.000Z",
+      "link": "https://x.com/taresky/status/1998622732544782364",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7yIx9rbAAA82Ge.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1998605332520837293",
       "username": "CycleStudies",
@@ -11611,27 +11632,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG5-HMnNbwAEyCu4.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1992532652000457196",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "我就是只看K线，手动交易的“原始交易者”，\n但不是崇拜者，只是论道，跟爱憎也没关系。\n因为我认为条条道路通罗马，不同方法体系各有优劣，以及不同的方法，对于不同的人和市场来说，适合度也不同。不认同粗糙地褒扬一种方法的同时，把另一种方法过度贬低至无用。\n\n1. \n多数“逐笔/精细量化分析交易者”，\n平均表现上，\n能超越“只看粗糙K线的原始交易者”\n这个结论问题不大，\n但 “A>B” 和 “B行不通、没有用” 显然是两码事，\n这样偷换概念，会更容易引起更多拉低质量的片面讨论。\n\n2. \n我的“只看粗糙K线的原始交易”\n有近4年多实时全透明公开数据Bitmex实盘，在币coin，\n近一周/4个月，也开了HyperLiquid、币安两个实盘，\n在最近一个月的推文里都可以看到，平台上公开都可查，\n长期、中期都跑赢BTC。\n并且前两个实盘，都是每笔成交明细、盈亏实时展示，\n甚至HyperLiquid平台上，连挂单状态都可以看到。\n向来无任何带单、不付费加群、不搞交易返佣、不接广。\n\n“不为结果负责”这一点倒是说对了，\n因为没有上述这些，纯凭兴趣、交流热情，\n不跟人有资金往来，自然不用为任何人的结果负责。\n\n说某类方法有没有用，\n最简单的论证方式就是，拿可验证的成绩辅助论证。\n只要这方法，有人能长期做出还可以的表现，便是有用，\n这是再简单不过的逻辑。\n\n除非说，我这不是“原始交易”，其实是在偷偷跑量化？\n那么再严谨点，\n我直接把上述4年多实盘近2年多交易量99%+都是BTC的\n只读API丢这里，公开几天供检阅：\nId: ADU5yR0QPA6622twEtmPxVsW\nKey: arodVpSl9kBFWSLkxK5gCZIFI6BV-GZ8PQWUbGS4ncI5GBhQ\n欢迎“录一下数据，写程序做逐笔分析”\n看看有没有“非原始交易”的量化特征？\n\n就像竞技运动员，不看比赛成绩，\n光靠嘴讨论方法有没有用，始终是片面低效的。",
-      "contentHtml": "我就是只看K线，手动交易的“原始交易者”，\n但不是崇拜者，只是论道，跟爱憎也没关系。\n因为我认为条条道路通罗马，不同方法体系各有优劣，以及不同的方法，对于不同的人和市场来说，适合度也不同。不认同粗糙地褒扬一种方法的同时，把另一种方法过度贬低至无用。\n\n1. \n多数“逐笔/精细量化分析交易者”，\n平均表现上，\n能超越“只看粗糙K线的原始交易者”\n这个结论问题不大，\n但 “A&gt;B” 和 “B行不通、没有用” 显然是两码事，\n这样偷换概念，会更容易引起更多拉低质量的片面讨论。\n\n2. \n我的“只看粗糙K线的原始交易”\n有近4年多实时全透明公开数据Bitmex实盘，在币coin，\n近一周/4个月，也开了HyperLiquid、币安两个实盘，\n在最近一个月的推文里都可以看到，平台上公开都可查，\n长期、中期都跑赢BTC。\n并且前两个实盘，都是每笔成交明细、盈亏实时展示，\n甚至HyperLiquid平台上，连挂单状态都可以看到。\n向来无任何带单、不付费加群、不搞交易返佣、不接广。\n\n“不为结果负责”这一点倒是说对了，\n因为没有上述这些，纯凭兴趣、交流热情，\n不跟人有资金往来，自然不用为任何人的结果负责。\n\n说某类方法有没有用，\n最简单的论证方式就是，拿可验证的成绩辅助论证。\n只要这方法，有人能长期做出还可以的表现，便是有用，\n这是再简单不过的逻辑。\n\n除非说，我这不是“原始交易”，其实是在偷偷跑量化？\n那么再严谨点，\n我直接把上述4年多实盘近2年多交易量99%+都是BTC的\n只读API丢这里，公开几天供检阅：\nId: ADU5yR0QPA6622twEtmPxVsW\nKey: arodVpSl9kBFWSLkxK5gCZIFI6BV-GZ8PQWUbGS4ncI5GBhQ\n欢迎“录一下数据，写程序做逐笔分析”\n看看有没有“非原始交易”的量化特征？\n\n就像竞技运动员，不看比赛成绩，\n光靠嘴讨论方法有没有用，始终是片面低效的。",
-      "publishedAt": "2025-11-23T09:56:00.000Z",
-      "link": "https://x.com/coolish/status/1992532652000457196",
-      "quote": {
-        "username": "ShanghaoJin",
-        "displayName": "Herman Jin",
-        "content": "原始交易崇拜者们都憎恨我，因为被降维打击，没法吸粉了\n\n并不是很难的东西，稍微有统计背景，录一下数据，都可以用AI都写程序做逐笔分析\n\n这样可以至少轻松超越画线的人；有自己更精准清算图，等等\n\n说穿了，他们做KOL是来带单的，不需为结果负责。他们自己都不相信自己能赚钱\n\n两个字：“蠢” 和 “懒”",
-        "link": "https://x.com/ShanghaoJin/status/1992265965237854704"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
