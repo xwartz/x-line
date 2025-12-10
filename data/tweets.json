@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T11:40:29.603Z",
+  "lastUpdated": "2025-12-10T11:51:41.444Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 440,
+    "newFetched": 442,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "1998721368075145578",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "OK上大分了这波，币安搞快点，万一是对抗alpha的第一波动作呢？你也不想我把香香U都留在OK吧。。。",
+      "contentHtml": "OK上大分了这波，币安搞快点，万一是对抗alpha的第一波动作呢？你也不想我把香香U都留在OK吧。。。",
+      "publishedAt": "2025-12-10T11:48:00.000Z",
+      "link": "https://x.com/daidaibtc/status/1998721368075145578",
+      "quote": {
+        "username": "daidaibtc",
+        "displayName": "带带带比特",
+        "content": "什么时候商战升级可以轮到用户受益？公正来讲，其实对散户最好的局面还是多家旗鼓相当的公平竞争，会让很多利出来给用户，也会是散户最有优势的红利期，但优胜劣汰一家独大又是自然法则，无解的局",
+        "link": "https://x.com/daidaibtc/status/1983232540682137827"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1998718241800060985",
       "username": "Murphychen888",
@@ -5372,7 +5393,13 @@
         "username": "Bybit_Web3",
         "displayName": "Bybit Alpha",
         "content": "🚀 Step Into Next-Gen Finance with #Bybit Alpha Farm. Farm with #SOL and #USDC to earn up to 90% APR.\n\nComment, retweet, and share your UID + snapshot of your alpha farm position below for a chance to win.\n💰 20 winners, 30 USDT each, based on most-liked replies.\n\nFrom Nov 21 to Nov 27\n\nFarm now: i.bybit.com/mabVoK9\n\n#Solana #CryptoArk",
-        "link": "https://x.com/Bybit_Web3/status/1991929605901430831"
+        "link": "https://x.com/Bybit_Web3/status/1991929605901430831",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG6SW81qWQAAYLt7.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -11598,41 +11625,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG6rMIZLbEAAeTxm.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1993623619017302452",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "Next Level",
-      "contentHtml": "Next Level",
-      "publishedAt": "2025-11-26T10:11:00.000Z",
-      "link": "https://x.com/coolish/status/1993623619017302452",
-      "media": [
-        {
-          "type": "video",
-          "url": "",
-          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1993623513115303936%2Fimg%2FmsNrnwbk5eoSDOZI.jpg%3Fname%3Dsmall%26format%3Dwebp"
-        }
-      ],
-      "quote": {
-        "username": "porounclemao",
-        "displayName": "小毛哥｜超级个体之路",
-        "content": "<Vibe Coding 实战演练之“交易员扮演法分析器” >\n\n叹为观止，@coolish 敢公布实盘确实厉害，超级个体不慕强，但需要虚心学习👍\n站在其他推友做的数据可视化工具肩膀上，我突然有一种文科生的脑洞大开：为什么不用“实盘 API”做一个普通散户都能用的「交易员扮演工具」？\n\n整个 Vibe Coding 过程用时 4 小时，使用到的工具：Chatgpt 5.1 + Claude Code，在健身房大厅做完的😂，灵感启发来自网络小说《诡秘之主》的概念“扮演法”，想要晋升序列就必须扮演。同理，想要赚钱，就要向优秀的“交易员扮演法”。\n\n整个 Vibe Coding 流程非常非常简单：\n\n第一步，输入魏神的原始推文和其他推友已经做好的 github 交给 Claude Code 学习并且 Fork，感谢🙏 @0x0funky 已经做好并公布全流程的 Github \nnitter.privacyredirect.com/0x0funky/status/199332… \n\n第二步，让Chatgpt 做产品经理，告诉他我的需求，只是非标准化的分析这个案例。但我首先问了他一个哲学问题：怎么理解扮演一个交易员，要扮演他的什么？\nChatGPT 说：“扮演一个交易员”不是 cosplay，也不是盲目抄单。真正的含义是：把一位优秀交易员的底层“决策结构”抽象出来，并在你的交易中临时采用这种结构。也就是说，你不是模仿他的“结果”，而是模仿他的“思维方式 + 反应方式”。\n\n产品方面要达到：通过实盘 API，给出交易员风格文字分析，让用户进一步深刻理解这个 API 背后的交易员。于是，帮我确定了核心功能包括：\n1⃣交易风格画像系统 - 深度分析交易员风格特征\n2️⃣ 行情预测模块 - 基于历史模式预测操作\n3️⃣ 适合人群匹配 - AI评估谁适合学习这个交易员\n4️⃣ 多平台支持 - HyperLiquid、币安的 API 也支持\n\n第三步，把 Chatgpt 给我的提示词和产品描述输出 Claude Code，中间 Claude 已经很快分析出痛点：现有项目 (paulwei-trading-analytics) \n- ✅ 基础交易数据展示\n- ✅ K线图和交易标记\n- ✅ 简单统计指标（胜率、盈亏）\n- ❌ 缺少深度风格分析\n- ❌ 缺少预测功能\n\n单单数据可视化还是门槛太高了，我希望把 API 数据嚼碎了给出文字喂给散户，于是 Claude Code 反复和我确认了产品的细节，其中流程需要点 Yes 或者 No 即可，确定 Python后端 +  Next.js 前端。\n\n第四步：根据 Claude Code 给出的初步产品做了反馈，比如一开始他只给我一个 api 输出的窗口需要点击，我就说不够直观，可以直接用魏神的 api 作为分析案例在首页。反反复复，大概修改了40分钟，终于搞定了。最终产品四个功能：\n\n1️⃣ 数据分析：大神已经部署局的同步了coolish.czdog.org/的数据\n2️⃣ 扮演学习：相当于模拟交易，根据市场场景判断看多/看空/官网，对 API 学习对象交易员进行游戏化的比较打分。\n3️⃣ AI预测：基于交易员历史模式的智能预测，贴心总结出“相似历史情况”的刻舟求剑。\n4️⃣ 交易员画像分析：风格总结 & 交易行为指标 & 适合学习人群等等指标。\n\n🤝比如魏神的交易员画像是：大胆型波段交易者，胜率35.67%，盈亏比2.42，纪律评分80/100，总交易43021笔订单，累计盈亏89.60 BTC。\n也给出适合学习人群：波段交易学习者 & 追求纪律性的交易者 & 追求高盈亏比的交易者\n\n---------------------------------------------------\n\n🍺 感谢 @coolish 的推特愿意持续分享，大声表达，其中健身的部分 + 公开交易的操作记录，对我个人来说都非常有用，已经是我心目中的超级个体范本了。也感谢 Vibe Coding 把我这种天天空有创意，没有生产力的奇葩解救出来。BTW 目前我没有部署这个工具，还非常不完善，仅供自己使用，之后会公布 Github。\n\n🤖如果你自己或者有其他交易员的可读实盘 API，可以留言在这条推交给这个 AI 工具来分析！",
-        "link": "https://x.com/porounclemao/status/1993591666977259716",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1993591192035246081%2Fimg%2FUbzmO5UBDmADy_H3.jpg%3Fname%3Dsmall%26format%3Dwebp"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
