@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T21:19:42.360Z",
+  "lastUpdated": "2025-12-10T21:44:20.242Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 442,
+    "newFetched": 440,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "1998865367591170060",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "每个人对于鹰或者鸽都可以有自己的解读，这是比较主观的，没有对错。但是千万别从当天市场的结果去出发，这样你会被带坑里。\n盘后减了些Beta，继续往1的方向前进",
+      "contentHtml": "每个人对于鹰或者鸽都可以有自己的解读，这是比较主观的，没有对错。但是千万别从当天市场的结果去出发，这样你会被带坑里。\n盘后减了些Beta，继续往1的方向前进",
+      "publishedAt": "2025-12-10T21:20:00.000Z",
+      "link": "https://x.com/TJ_Research/status/1998865367591170060",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1998854560593465578",
       "username": "TJ_Research",
@@ -1482,25 +1497,6 @@
         "displayName": "Notsoimportamt",
         "content": "有点没看懂，你的意思是诱多然后砸？有没有可能市场已经预期了比较鹰了所以情绪面不高不低？",
         "link": "https://x.com/useraccount5678/status/1998508935633084736"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998489132306510231",
-      "username": "aphysicist",
-      "displayName": "Aaron Slodov",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1032339347960291328%2FbCic-yTu_bigger.jpg",
-      "content": "this drone is insane, we need better manufacturing right now youtube.com/watch?v=QCU3fBOJ…",
-      "contentHtml": "this drone is insane, we need better manufacturing right now <a href=\"https://www.youtube.com/watch?v=QCU3fBOJ0H0\">youtube.com/watch?v=QCU3fBOJ…</a>",
-      "publishedAt": "2025-12-09T20:25:00.000Z",
-      "link": "https://x.com/aphysicist/status/1998489132306510231",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
