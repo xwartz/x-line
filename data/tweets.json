@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-12T15:20:15.304Z",
+  "lastUpdated": "2025-12-12T15:44:56.526Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,155 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 422,
+    "newFetched": 420,
     "successUsers": 21,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "1999503352141611452",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
+      "content": "挂了个新低止盈2512打止盈了\n不能说一模一样吧\n可以说是非常相似了\n我是交易员！😭👊🏻",
+      "contentHtml": "挂了个新低止盈2512打止盈了\n不能说一模一样吧\n可以说是非常相似了\n我是交易员！😭👊🏻",
+      "publishedAt": "2025-12-12T15:35:00.000Z",
+      "link": "https://x.com/hazenlee/status/1999503352141611452",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7-pspPagAM7mwO.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "纳指的走势也不是很乐观，目前这波反弹其实只是10.11清算的跌破上升趋势的回抽，而且伴随着成交量的下降，如果进一步失守低点，则lower high形成。可以期待一个lower low的到来。那在这个过程中我们如何做好对冲操作呢？一种是逢低买入SQQQ，且做好计算约为整体持仓的1/3可以对冲纳指或者QQQ的等效持仓。另一种就是美股合约，但是美股合约CME上的都是带交割的，说实话我玩币圈的永续习惯了移仓有点不是很习惯，大家小资金的可以尝试一下币圈的RWA产品，比如MSX @MSX_CN的美股合约，包含QQQ的期货。",
+        "link": "https://x.com/hazenlee/status/1998981025008062778",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG73MnBFbcAA7iwy.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999502638262428052",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "受到 Gemini 3.0 Pro 的刺激，OpenAI 直接開大絕了，GPT-5.2 簡直強的可怕。\n\n這種技術迭代帶來的推背感，真的讓人頭皮發麻。一眾科技巨頭瘋狂砸資金、拚算力、拚模型，只為不被甩出賽道。\n\n能躬逢其盛，親眼見證這偉大的技術變革，真是太幸運了。",
+      "contentHtml": "受到 Gemini 3.0 Pro 的刺激，OpenAI 直接開大絕了，GPT-5.2 簡直強的可怕。\n\n這種技術迭代帶來的推背感，真的讓人頭皮發麻。一眾科技巨頭瘋狂砸資金、拚算力、拚模型，只為不被甩出賽道。\n\n能躬逢其盛，親眼見證這偉大的技術變革，真是太幸運了。",
+      "publishedAt": "2025-12-12T15:32:00.000Z",
+      "link": "https://x.com/BensonTWN/status/1999502638262428052",
+      "quote": {
+        "username": "nake13",
+        "displayName": "Zhixiong Pan",
+        "content": "经过测试，GPT-5.2 的编程能力确实比 Claude Opus 4.5 更强。\n\n为验证 GPT-5.2 的实际工程表现，我又做了一次简单的 Vibe Coding 实验：\n\n在 Codex CLI 里选择 GPT-5.2（xhigh），让它基于 GPT-5.2 的 System Card（PDF），直接生成一个完整、可上线的中文翻译网页（包含结构、内容与图表）。\n\n它接到指令后几乎全自动执行，约一小时产出一个接近满分的结果。\n\n相比之下，我之前用 Opus 4.5 做同样的事，通常需要反复微调；没有十几轮对话与校验，基本很难达到同等完成度。\n\n1️⃣ 实验设置与指令\n\n我的原始指令如下：\n\n> 我项目中有很多把文档翻译为中文后用静态网页呈现的页面，我刚新增一个 gpt-5-2，请你参考这个 PDF，完整翻译为中文，保持专业，不遗漏任何信息，不遗漏任何图表。页面结构请你参考其他几个页面，保持相同的框架、功能。\n\n只靠这一条指令，它就持续运行了一段时间。期间还因为超过 Context Window，自动做了一次 compact。最终输出已经非常接近可发布成品。\n\n2️⃣ 我只发现了一个小问题，让它修复后就直接发布上线。整体流程更像「自动交付」，我几乎没怎么操心。\n\n3️⃣ System Card 是什么\n\nSystem Card 是 OpenAI 随模型发布的说明文档，主要覆盖：模型能力、风险、已知限制与使用边界。它能帮助你更系统地理解模型细节。\n\n例如在「幻觉」部分，可以看到 GPT-5.2 系列的幻觉率低于 GPT-5.1 和 GPT-5。\n\n如果你想直接看 GPT-5.2 的 System Card，我把页面放在这里：\nrandomarea.com/gpt-5-2/\n\n对我来说，这次差异不在「能不能做」，而在「能不能一次做对、接近可交付」。",
+        "link": "https://x.com/nake13/status/1999455319362273779"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999502267171717549",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "呃，好像把牛市给干没了\n\n刚刚一字断头斩了",
+      "contentHtml": "呃，好像把牛市给干没了\n\n刚刚一字断头斩了",
+      "publishedAt": "2025-12-12T15:31:00.000Z",
+      "link": "https://x.com/Bitfatty/status/1999502267171717549",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "$xag  白银又又又新高了\n\n但是我拿不出仓位晒单，好气啊",
+        "link": "https://x.com/Bitfatty/status/1999314938993754190",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG77-VlYagAcLbt3.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999502495937102029",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "今天LULU CEO离开了😂",
+      "contentHtml": "今天LULU CEO离开了😂",
+      "publishedAt": "2025-12-12T15:31:00.000Z",
+      "link": "https://x.com/TJ_Research/status/1999502495937102029",
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "$LULU ，管理层说没有单独的一家公司对他们造成很大的冲击。股价已经跌成屎，如果连承认自己市场份额被ALO抢走了都那么难，那别谈创新了。我估计这位CEO会很快下台。",
+        "link": "https://x.com/TJ_Research/status/1963773672465830268",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG0C5H2eXYAA6Ns9.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999500655925273037",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
+      "content": "所以我头像是黄色的海绵🧽宝宝？",
+      "contentHtml": "所以我头像是黄色的海绵🧽宝宝？",
+      "publishedAt": "2025-12-12T15:24:00.000Z",
+      "link": "https://x.com/hazenlee/status/1999500655925273037",
+      "quote": {
+        "username": "CryptoXiaogouli",
+        "displayName": "0x小狗梨🍐",
+        "content": "就是这么全面～交易一般就红绿两个色 太单调",
+        "link": "https://x.com/CryptoXiaogouli/status/1999500478158147812"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999500733729608172",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "好奇怪的走势，昨天V涨6%，今天GE 5%，科技很弱",
+      "contentHtml": "好奇怪的走势，昨天V涨6%，今天GE 5%，科技很弱",
+      "publishedAt": "2025-12-12T15:24:00.000Z",
+      "link": "https://x.com/TJ_Research/status/1999500733729608172",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1999487929388077520",
       "username": "CycleStudies",
@@ -11502,136 +11646,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1996908098532135131",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "誠心建議，幣安下一屆不要再頒「行業貢獻獎」這種尷尬的 title 了。\n\n因為真的有資格拿這個獎的人，根本也不需要這種獎項、頭銜來認可。\n\n要獎勵幣安廣場的 influencer 方法多的是，就老老實實地搞個「人氣王」、「最佳視頻創作獎」、「內容創意獎」之類的就好。",
-      "contentHtml": "誠心建議，幣安下一屆不要再頒「行業貢獻獎」這種尷尬的 title 了。\n\n因為真的有資格拿這個獎的人，根本也不需要這種獎項、頭銜來認可。\n\n要獎勵幣安廣場的 influencer 方法多的是，就老老實實地搞個「人氣王」、「最佳視頻創作獎」、「內容創意獎」之類的就好。",
-      "publishedAt": "2025-12-05T11:42:00.000Z",
-      "link": "https://x.com/BensonTWN/status/1996908098532135131",
-      "quote": {
-        "username": "yuyue_chris",
-        "displayName": "Yuyue",
-        "content": "这行业能配得上 “行业贡献” 的人有多少？微策略的 Michael Saylor、cz heyi、徐明星、V 神，这轮再算一个 Jeff，说白了都是掰着手指头能算出来的人\n\n名头太大了，我们都不配得这么个所谓行业贡献奖，如果真的对行业有贡献，不需要这个标签也会被群众认可\n\n那么 KOL 身上有标签吗？当然有啊。靠身材靠脸发自拍博出位，被群众当成花瓶或者福利姬；靠搞黑流量的，被群众当成小丑；靠嘴撸互关的，被群众屏蔽或隐藏\n\n想获得什么受众，想成为什么样的人，就去做什么样的事。种瓜得瓜，种豆得豆，哪怕像币安这样的权威机构，去给谁贴标签，也无法获得群众的认可，这就是去中心化",
-        "link": "https://x.com/yuyue_chris/status/1996900784466964820"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1996902027516137591",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "不堪入目 多事之秋 风雨飘摇",
-      "contentHtml": "不堪入目 多事之秋 风雨飘摇",
-      "publishedAt": "2025-12-05T11:18:00.000Z",
-      "link": "https://x.com/daidaibtc/status/1996902027516137591",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1996893864939212836",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "🙈太好玩了",
-      "contentHtml": "🙈太好玩了",
-      "publishedAt": "2025-12-05T10:46:00.000Z",
-      "link": "https://x.com/Bitfatty/status/1996893864939212836",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7ZkYTlbcAAg5jZ.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7ZkYUUb0AAJ7ec.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1996892740018491439",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "「如果你因為商業利益而綁手綁腳、不能公開說出真正的想法，那你的人生優化方向就錯了。擁有金錢的意義，是讓你能自由說話、自由行動。」",
-      "contentHtml": "「如果你因為商業利益而綁手綁腳、不能公開說出真正的想法，那你的人生優化方向就錯了。擁有金錢的意義，是讓你能自由說話、自由行動。」",
-      "publishedAt": "2025-12-05T10:41:00.000Z",
-      "link": "https://x.com/BensonTWN/status/1996892740018491439",
-      "quote": {
-        "username": "hosseeb",
-        "displayName": "Haseeb ＞|＜",
-        "content": "If you're so hemmed in by business interests that you can't publicly say what you think, you've optimized for the wrong thing. The point of having money is being free to say and do what you want.\n\n@santiagoroel and I disagree about ideas, but we don't disagree about each other.",
-        "link": "https://x.com/hosseeb/status/1996823654383120706"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1996861262979063970",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "SpaceX 时隔一周再次转出 1083 $BTC ，价值 9981 万美元\n\n其中新地址 bc1qy…xv5g9 收到 800 BTC（7371 万美元），暂未转出；SpaceX 似乎每过一段时间就会有 BTC 的资金周转，一周前转出给新地址的代币也并未转移🤔\n\n钱包地址 intel.arkm.com/explorer/enti…",
-      "contentHtml": "SpaceX 时隔一周再次转出 1083 <a href=\"/search?q=%23BTC\">$BTC</a> ，价值 9981 万美元\n\n其中新地址 bc1qy…xv5g9 收到 800 BTC（7371 万美元），暂未转出；SpaceX 似乎每过一段时间就会有 BTC 的资金周转，一周前转出给新地址的代币也并未转移🤔\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/entity/spacex\">intel.arkm.com/explorer/enti…</a>",
-      "publishedAt": "2025-12-05T08:36:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/1996861262979063970",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7ZGu3ZagAA2vMm.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "SpaceX 在 1 小时前将 1163 枚 BTC 转移至两个新地址，价值 1.05 亿美元💰\n\n接收地址暂未转移或卖出，用途未知\n\n钱包地址\nintel.arkm.com/explorer/addr…\nintel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-        "link": "https://x.com/ai_9684xtpa/status/1993842408417825019",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG6uNFWrbQAAu69S.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1996857209628868659",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
-      "content": "If you don’t commit to meaningful work, life will fill your time with busywork.",
-      "contentHtml": "If you don’t commit to meaningful work, life will fill your time with busywork.",
-      "publishedAt": "2025-12-05T08:20:00.000Z",
-      "link": "https://x.com/naval/status/1996857209628868659",
       "stats": {
         "replies": 0,
         "retweets": 0,
