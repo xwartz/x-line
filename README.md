@@ -1,12 +1,6 @@
-# X-Line
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/X--Line-Timeline%20Aggregator-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X-Line Logo">
 
-一个简洁优雅的 X (Twitter) 时间线聚合器
-
-</div>
+一个简洁优雅的 X 时间线聚合器
 
 ## 快速开始
 
@@ -79,11 +73,11 @@ pnpm run fetch-tweets         # 抓取推文
 
 欢迎提交 Issue 和 Pull Request！
 
-## 📄 许可证
+## 许可证
 
 [MIT License](LICENSE)
 
-## 🙏 致谢
+## 致谢
 
 - [Nitter](https://github.com/zedeus/nitter) - 提供推文数据源
 - [x-gpt.bwequation.com](https://x-gpt.bwequation.com/) - 功能灵感来源
