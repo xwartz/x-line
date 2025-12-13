@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-13T10:17:32.191Z",
+  "lastUpdated": "2025-12-13T10:42:40.784Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 441,
+    "newFetched": 438,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "1999789018142380062",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
+      "content": "「你的iPhone值多少不重要，里面的东西值多少才重要。」\n😭👊🏻我全身上下我最值钱的就是我的iPhone17Pro Max星宇橙(2TB)了😭👊🏻",
+      "contentHtml": "「你的iPhone值多少不重要，里面的东西值多少才重要。」\n😭👊🏻我全身上下我最值钱的就是我的iPhone17Pro Max星宇橙(2TB)了😭👊🏻",
+      "publishedAt": "2025-12-13T10:30:00.000Z",
+      "link": "https://x.com/hazenlee/status/1999789018142380062",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8CtgqcbAAAMNSc.jpg"
+        }
+      ],
+      "quote": {
+        "username": "bitfish",
+        "displayName": "DiscusFish",
+        "content": "换新iPhone了？我每次换机都有套固定流程——不是装App，是先做安全设置。分享一下，20分钟的事。\n\n🔐 密码层\n\n用自定义字母+数字密码（6位数字PIN太弱）\nFace ID 开启「注意力感知」（闭眼/睡着无法解锁）\n10次密码错误 → 自动抹除数据\n\n🛡️ 失窃保护层\n\n开启「失窃设备保护」+「锁定模式」\n开启「查找我的iPhone」+ 查找网络 + 发送最后位置\n\n🔒 锁屏隐私层\n\n锁屏禁用：控制中心 / Siri / USB配件\n通知预览 →「解锁时」或「从不」\n给 SIM 卡加 PIN（防止被拔卡插到别的手机）\n\n🍎 Apple账户层（最关键）\n\n开启双重认证 + 绑定硬件安全密钥（YubiKey，至少两把）\n开启「iCloud高级数据保护」\n设好恢复联系人/恢复密钥\n关闭 iCloud 网页端访问（堵住远程入口）\n\n你的iPhone值多少不重要，里面的东西值多少才重要。",
+        "link": "https://x.com/bitfish/status/1999787116881170864"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1999782379389661302",
       "username": "BensonTWN",
@@ -1447,18 +1474,6 @@
       "contentHtml": "官方小編舔出新高度了\n\nGOAT = Greatest of All Time 的縮寫\n\nCrypto 有資格被稱為 GOAT 只有一個人，那就是中本聰\n\n其他人別鬧了好嗎",
       "publishedAt": "2025-12-12T12:33:00.000Z",
       "link": "https://x.com/BensonTWN/status/1999457598349934612",
-      "quote": {
-        "username": "BNBCHAIN",
-        "displayName": "BNB Chain",
-        "content": "🐐",
-        "link": "https://x.com/BNBCHAIN/status/1999378806289920106",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG784VtpbUAAs-gP.png"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11653,27 +11668,6 @@
             "url": "https://nitter.privacyredirect.com/pic/orig/media%2FGG783_daUAAFGQ6.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1997298964400603608",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "企業跟人一樣，不可能永遠不犯錯，重點是犯錯之後有沒有勇氣面對並改進。\n\n至少這次BG能屈能伸，知錯能改。\n\n給個讚。",
-      "contentHtml": "企業跟人一樣，不可能永遠不犯錯，重點是犯錯之後有沒有勇氣面對並改進。\n\n至少這次BG能屈能伸，知錯能改。\n\n給個讚。",
-      "publishedAt": "2025-12-06T13:35:00.000Z",
-      "link": "https://x.com/BensonTWN/status/1997298964400603608",
-      "quote": {
-        "username": "xiejiayinBitget",
-        "displayName": "谢家印",
-        "content": "谢谢大家还愿意骂我们，说明还把我们当自己人🙏我们真诚地给大家道歉🙇",
-        "link": "https://x.com/xiejiayinBitget/status/1996968673379340644"
       },
       "stats": {
         "replies": 0,
