@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-13T15:50:13.326Z",
+  "lastUpdated": "2025-12-13T16:21:10.665Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,87 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 438,
-    "successUsers": 22,
-    "failedUsers": 0
+    "newFetched": 399,
+    "successUsers": 20,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "1999875999845277776",
+      "username": "HaywarZhu",
+      "displayName": "Haywar | 海老师 🗳️",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1904297408273772544%2FTwlamTm3_bigger.jpg",
+      "content": "俺觉得安全嘿嘿😈 E华子炫耀的时候别追多就是",
+      "contentHtml": "俺觉得安全嘿嘿😈 E华子炫耀的时候别追多就是",
+      "publishedAt": "2025-12-13T16:16:00.000Z",
+      "link": "https://x.com/HaywarZhu/status/1999875999845277776",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999875233147498759",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "daylight应该是近期最值得的项目了，真的没啥项目好拿出来说的，不要上太大的仓位，估计也不好抢只有50m。",
+      "contentHtml": "daylight应该是近期最值得的项目了，真的没啥项目好拿出来说的，不要上太大的仓位，估计也不好抢只有50m。",
+      "publishedAt": "2025-12-13T16:13:00.000Z",
+      "link": "https://x.com/0xleng1/status/1999875233147498759",
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "有个风险还算小的存款项目可以玩一下，正好megaeth退款没地方放，拿来放到 @daylightenergy_  的存款活动，现在这些大融资项目都开始流行要么存款要么打新了。我感觉arc和tempo没那么快，应该还有段时间，希望中间能有个真空给我过度一下，不然钱真不够用了。\n\n需要用usdc或者usds才可以参与，16号开始。50m上限的池子。需要锁仓两个月，这个项目看起来是想赶快tge的样子，要做好锁仓至少存2-3个月的准备。安全性大概率没有问题，稳定币m0 提供支持，金库K3过度到Plasma那边做defi。\n\n还是套皮玩法换汤不换药，和usdai以及usual一样 做了一个稳定币Grid，但是这个存款活动给的是SGrid 不是稳定币Grid  ，和Grid也不是1:1 会有溢价 \n\nsGRID并非稳定币；它是一种自由浮动收益资产，通过质押GRID生成。其价值随Daylight网络中底层物理基础设施资产的净值波动。sGRID并非随时可赎回。\n\n简单来说就是：sGRID 是 GRID 的“带奖励版”，也是全球第一个真正的全球电力资产。你只要持有 sGRID，就能通过 GRID 产生的巨量碳减排权益 + DayFi 的真实电网和发电设备，持续拿到奖励。\n\n前面几个类似的项目比如usual的usd0在旁氏到最夸张的时候崩盘。自己把控好风险，抢得到的话我会存个十万u 尝尝咸淡。\n\n什么dayfi不dayfi的靠电力来产生收入覆盖协议之类的，已经听腻了，翻来覆去都是换皮的东西，说白了找个没人做过的资产赛道来玩一样的东西。只能当成一个存款活动来玩，没什么特别的，项目够大，融资够新，背景不差。\n\n这个项目目前看到的一些fud是 项目转型过，之前2024年做depin，后面做电力，现在要做dayfi稳定币，不过这个今年10月才拿的75m融资，不恶心人的话还是值得参与一下的。\n\n项目整体其实没看到太多的大瑕疵。存款类型的项目自己要dyor 对自己的资金负责。注意风险。",
+        "link": "https://x.com/0xleng1/status/1998908742297894939",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG72M5-pXAAEUe3U.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG72M5-mWgAMmFhg.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999871920339304708",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "btw, 台灣水溝真的很臭蟑螂又很多，值得改天好好寫一下",
+      "contentHtml": "btw, 台灣水溝真的很臭蟑螂又很多，值得改天好好寫一下",
+      "publishedAt": "2025-12-13T15:59:00.000Z",
+      "link": "https://x.com/BensonTWN/status/1999871920339304708",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999870173692715145",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "真是大開眼界，只是陳述台灣的現況，一些政治敏感仔就開始急著貼標籤。\n\n批評兩黨＝我是小草\n我這輩子沒投過柯文哲。\n\n陳述現況＝批評民進黨＝國民黨走狗\n事實是兩黨執政期間出生率都一路下滑，現在是要比誰比較不爛？\n\nIP 不在台灣＝有問題\n原來有人不知道推特 IP 可以只顯示洲別。\n\n轉貼我文章的 @Nickp_xxx IP 在馬來西亞＝外來勢力\n無聊猿台灣社群主麻煩尊重一下， bio 都寫移居檳城了。\n\n----\n\n我沒有固定的政治傾向，也不打算為任何政黨護航。\n\n誰能真正解決「水溝很臭」、「出生率持續探底」、「經濟利益嚴重向地主傾斜」這三個問題，我就投給誰。\n\n這種完全無法理性討論，只急著確認你「是敵是友」的風氣，真的會害死台灣。",
+      "contentHtml": "真是大開眼界，只是陳述台灣的現況，一些政治敏感仔就開始急著貼標籤。\n\n批評兩黨＝我是小草\n我這輩子沒投過柯文哲。\n\n陳述現況＝批評民進黨＝國民黨走狗\n事實是兩黨執政期間出生率都一路下滑，現在是要比誰比較不爛？\n\nIP 不在台灣＝有問題\n原來有人不知道推特 IP 可以只顯示洲別。\n\n轉貼我文章的 <a href=\"/Nickp_xxx\" title=\"Nick P 你可 🦅\">@Nickp_xxx</a> IP 在馬來西亞＝外來勢力\n無聊猿台灣社群主麻煩尊重一下， bio 都寫移居檳城了。\n\n----\n\n我沒有固定的政治傾向，也不打算為任何政黨護航。\n\n誰能真正解決「水溝很臭」、「出生率持續探底」、「經濟利益嚴重向地主傾斜」這三個問題，我就投給誰。\n\n這種完全無法理性討論，只急著確認你「是敵是友」的風氣，真的會害死台灣。",
+      "publishedAt": "2025-12-13T15:52:00.000Z",
+      "link": "https://x.com/BensonTWN/status/1999870173692715145",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1999867660902011228",
       "username": "Bitfatty",
@@ -697,7 +773,7 @@
       "quote": {
         "username": "AllfordJac65841",
         "displayName": "Jacques Allford",
-        "content": "",
+        "content": "nitter.privacyredirect.com/TerraOnUSA/status/1999…",
         "link": "https://x.com/AllfordJac65841/status/1999047226136707578",
         "media": [
           {
@@ -2824,31 +2900,6 @@
             "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG76In9AagAE-A_i.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1999204380206096787",
-      "username": "nic_carter",
-      "displayName": "nic carter",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1997450474690072576%2FYwtb1Xxr_bigger.jpg",
-      "content": "during Covid the government spent $4-5T or 20-25% of GDP on various handouts and stimulus programs. it's now clear – as was very predictable at the time –  that this spending was overwhelmingly ridden with fraud. and the fraud wasn't really a side effect. the point was to use Covid to hand out gibs to all of the Biden admin's chosen affinity groups. meanwhile, every American ended up footing the bill through the resultant inflation. \n\nthe Minnesota fraud is just the tip of the iceberg but it's totally indicative of what went on. no fraud checks whatsoever (remember that the emphasis during CARES and PPP was shoveling money out the door, and \"some amount of fraud\" was deliberately tolerated). I know I'm not alone in remembering the lines around the block at the luxury stores when the PPP cash first started going out. \n\nofficial government sources now admit staggering quantities of fraud. the SBA estimates $200b in PPP fraud [1]. the GAO estimated [2] pandemic-era unemployment fraud at $100-$135b. and of course, this is still under-reported, as no one wants to admit that the government funded fraudsters with taxpayer cash. more examples of massive billion-dollar frauds continue to trickle in, with MN being a great example. the real number is almost certainly in the trillions. \n\nthis is one of the biggest institutionalized thefts in history, and we're still paying for it today, through higher debt levels, structurally higher inflation, higher short-end rates (to cure the burst of inflation), and higher long-end rates because creditors don't trust the government any more. an absolute travesty that few will acknowledge.\n\n[1] sba.gov/document/report-25-1…\n[2] gao.gov/assets/gao-23-106696…",
-      "contentHtml": "during Covid the government spent $4-5T or 20-25% of GDP on various handouts and stimulus programs. it's now clear – as was very predictable at the time –  that this spending was overwhelmingly ridden with fraud. and the fraud wasn't really a side effect. the point was to use Covid to hand out gibs to all of the Biden admin's chosen affinity groups. meanwhile, every American ended up footing the bill through the resultant inflation. \n\nthe Minnesota fraud is just the tip of the iceberg but it's totally indicative of what went on. no fraud checks whatsoever (remember that the emphasis during CARES and PPP was shoveling money out the door, and \"some amount of fraud\" was deliberately tolerated). I know I'm not alone in remembering the lines around the block at the luxury stores when the PPP cash first started going out. \n\nofficial government sources now admit staggering quantities of fraud. the SBA estimates $200b in PPP fraud [1]. the GAO estimated [2] pandemic-era unemployment fraud at $100-$135b. and of course, this is still under-reported, as no one wants to admit that the government funded fraudsters with taxpayer cash. more examples of massive billion-dollar frauds continue to trickle in, with MN being a great example. the real number is almost certainly in the trillions. \n\nthis is one of the biggest institutionalized thefts in history, and we're still paying for it today, through higher debt levels, structurally higher inflation, higher short-end rates (to cure the burst of inflation), and higher long-end rates because creditors don't trust the government any more. an absolute travesty that few will acknowledge.\n\n[1] <a href=\"https://www.sba.gov/document/report-25-10-covid-19-pandemic-eidl-ppp-loan-fraud-landscape-recommendations-update\">sba.gov/document/report-25-1…</a>\n[2] <a href=\"https://www.gao.gov/assets/gao-23-106696.pdf\">gao.gov/assets/gao-23-106696…</a>",
-      "publishedAt": "2025-12-11T19:47:00.000Z",
-      "link": "https://x.com/nic_carter/status/1999204380206096787",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "bariweiss",
-        "displayName": "Bari Weiss",
-        "content": "\"You are gonna be the richest 25 year old InshaAllah.\"\n@CBSNews obtained dozens of documents that reveal how Minnesota fraudsters spent hundreds of millions in taxpayer dollars on luxury cars, villas and overseas wire transfers . . . including to China.\n\ncbsnews.com/news/minnesota-f…",
-        "link": "https://x.com/bariweiss/status/1999147060835111192"
       },
       "stats": {
         "replies": 0,
@@ -11622,64 +11673,6 @@
           "type": "video",
           "url": "",
           "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1997448602038554624%2Fimg%2F2HXeUzclFgfAO_J8.jpg%3Fname%3Dsmall%26format%3Dwebp"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1997447627588485619",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
-      "content": "？",
-      "contentHtml": "？",
-      "publishedAt": "2025-12-06T23:26:00.000Z",
-      "link": "https://x.com/hazenlee/status/1997447627588485619",
-      "media": [
-        {
-          "type": "video",
-          "url": "",
-          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1997447544356646912%2Fimg%2FWoyq6srjDIsR6-mB.jpg%3Fname%3Dsmall%26format%3Dwebp"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1997442532624695579",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
-      "content": "“不要行义过分，也不要过于自逞智慧，何必自取败亡呢？不要行恶过分，也不要为人愚昧，何必不到期而死呢？你持守这个为妙，那个也不要松手；因为敬畏神的人，必从这一切而出。”  \n - 传道书 7:16-18",
-      "contentHtml": "“不要行义过分，也不要过于自逞智慧，何必自取败亡呢？不要行恶过分，也不要为人愚昧，何必不到期而死呢？你持守这个为妙，那个也不要松手；因为敬畏神的人，必从这一切而出。”  \n - 传道书 7:16-18",
-      "publishedAt": "2025-12-06T23:06:00.000Z",
-      "link": "https://x.com/hazenlee/status/1997442532624695579",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1997376363682996421",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "今晚聊BETA",
-      "contentHtml": "今晚聊BETA",
-      "publishedAt": "2025-12-06T18:43:00.000Z",
-      "link": "https://x.com/TJ_Research/status/1997376363682996421",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7gbE8vWQAAM5t4.jpg"
         }
       ],
       "stats": {
