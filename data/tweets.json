@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-13T15:34:09.149Z",
+  "lastUpdated": "2025-12-13T15:50:13.326Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,52 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 440,
+    "newFetched": 438,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "1999867660902011228",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "朋友做空赚了一个月，终于挨揍了\n\n$beat",
+      "contentHtml": "朋友做空赚了一个月，终于挨揍了\n\n<a href=\"/search?q=%23beat\">$beat</a>",
+      "publishedAt": "2025-12-13T15:43:00.000Z",
+      "link": "https://x.com/Bitfatty/status/1999867660902011228",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8D0_S5b0AM46W7.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8D0_S5a0AAu2xk.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "Web2的朋友发来截图\n我该如何回复୧😂୨？",
+        "link": "https://x.com/Bitfatty/status/1999409068281331890",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG79T8n1agAAatIS.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG79T8nnagAQdefk.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1999864309879574794",
       "username": "Cbb0fe",
@@ -656,7 +697,7 @@
       "quote": {
         "username": "AllfordJac65841",
         "displayName": "Jacques Allford",
-        "content": "nitter.privacyredirect.com/TerraOnUSA/status/1999…",
+        "content": "",
         "link": "https://x.com/AllfordJac65841/status/1999047226136707578",
         "media": [
           {
@@ -11641,33 +11682,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7gbE8vWQAAM5t4.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1997341399331770819",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "说到底是止损的预期概率问题，如果随便设置会变成高概率止损+低概率盈利\n\n解：用半凯利做仓位管理+根据波动率设置止损止盈，把止损的预期亏损降下来",
-      "contentHtml": "说到底是止损的预期概率问题，如果随便设置会变成高概率止损+低概率盈利\n\n解：用半凯利做仓位管理+根据波动率设置止损止盈，把止损的预期亏损降下来",
-      "publishedAt": "2025-12-06T16:24:00.000Z",
-      "link": "https://x.com/OwenJin12/status/1997341399331770819",
-      "quote": {
-        "username": "yuren477",
-        "displayName": "余人sama",
-        "content": "分享下塔勒布最新的论文，通过DIRAC函数建模，批判性的分析了止损对交易系统的影响。\n        普罗大众的认知中，认为设置了止损风险就变小了，数学证明了这是一个严重的认知谬误。风险从未消失，如果说设置了10%的止损，本来亏损10%-100%的概率全部被吸引到了10%这个止损点上，这个止损点也就成了你的交易系统中最脆弱的位置。\n       这篇论文的观点进一步体现出了分仓的重要性，这也是我现在在做的事情(以前更喜欢小资金滚仓梭哈)，设置止损的本质是用一个更高概率的小亏损去抵消掉小概率大额亏损的风险，但可能因为小波动造成频繁的磨损，并且错过真正的趋势行情，这又何尝不是在累积系统性风险？\n       技能树里分仓波段做空波动率的策略和趋势做多波动率的策略都应该点上。交易员的k线有三个，市场的k，账户pnl的k，心态的k，分仓波段有助于控制账户pnl的回撤，同时建立心态的正反馈(别问，曾经的我也因为管理不好心态的k错过了很多生活中的美好事物)，这样更容易打出A game，人生的k线也更容易45度往上走。",
-        "link": "https://x.com/yuren477/status/1996755823683686725",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7Xm1Wjb0AIU8-c.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
