@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-13T17:15:37.334Z",
+  "lastUpdated": "2025-12-13T17:33:05.245Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 440,
-    "successUsers": 22,
-    "failedUsers": 0
+    "newFetched": 422,
+    "successUsers": 21,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "1999890864097853895",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "#新头像 \n虽然戴了圣诞帽\n我依旧是战狼\n我要打入敌人内部瓦解万恶的资本主义",
+      "contentHtml": "<a href=\"/search?q=%23新头像\">#新头像</a> \n虽然戴了圣诞帽\n我依旧是战狼\n我要打入敌人内部瓦解万恶的资本主义",
+      "publishedAt": "2025-12-13T17:15:00.000Z",
+      "link": "https://x.com/hazenlee/status/1999890864097853895",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8EKJAbbYAAxbXe.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "1999875999845277776",
       "username": "HaywarZhu",
@@ -773,7 +794,7 @@
       "quote": {
         "username": "AllfordJac65841",
         "displayName": "Jacques Allford",
-        "content": "",
+        "content": "nitter.privacyredirect.com/TerraOnUSA/status/1999…",
         "link": "https://x.com/AllfordJac65841/status/1999047226136707578",
         "media": [
           {
@@ -11642,41 +11663,6 @@
         "displayName": "H.E. Justin Sun 👨‍🚀 🌞",
         "content": "有句话是，为母则强，女性会因为儿女爆发出无穷的能力，而在我身上，则是为了用户，主要是为了保护我的用户，我愿意付出一切，也不会让我们用户受到任何伤害！",
         "link": "https://x.com/justinsuntron/status/1997424166589567251"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1997450608664850461",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
-      "content": "后续😂😂😂",
-      "contentHtml": "后续😂😂😂",
-      "publishedAt": "2025-12-06T23:38:00.000Z",
-      "link": "https://x.com/hazenlee/status/1997450608664850461",
-      "media": [
-        {
-          "type": "video",
-          "url": "",
-          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1997450468608655360%2Fimg%2FuNLVrdtGp9CON28n.jpg%3Fname%3Dsmall%26format%3Dwebp"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "？",
-        "link": "https://x.com/hazenlee/status/1997447627588485619",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1997447544356646912%2Fimg%2FWoyq6srjDIsR6-mB.jpg%3Fname%3Dsmall%26format%3Dwebp"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
