@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T04:13:53.522Z",
+  "lastUpdated": "2025-12-15T04:54:43.275Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,65 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 442,
+    "newFetched": 440,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2000428579377832250",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "比特币 #bitcoin 前三次超卖信号分别反弹了10%，12%和7%。\n\n今天第四次超卖信号触发，那这次是10%+反弹还是翻车？",
+      "contentHtml": "比特币 <a href=\"/search?q=%23bitcoin\">#bitcoin</a> 前三次超卖信号分别反弹了10%，12%和7%。\n\n今天第四次超卖信号触发，那这次是10%+反弹还是翻车？",
+      "publishedAt": "2025-12-15T04:51:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2000428579377832250",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8LxgKoaMAAK9V3.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2000419293947945222",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "【#BTC 指标更新】\n\n17年牛市，币价 > Realized Price 共 1135天\n21年牛市，币价 > Realized Price 共 1161天\n本轮牛市，币价 > Realized Price 当前共 1068天",
+      "contentHtml": "【<a href=\"/search?q=%23BTC\">#BTC</a> 指标更新】\n\n17年牛市，币价 &gt; Realized Price 共 1135天\n21年牛市，币价 &gt; Realized Price 共 1161天\n本轮牛市，币价 &gt; Realized Price 当前共 1068天",
+      "publishedAt": "2025-12-15T04:15:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2000419293947945222",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8LqZGebwAARVal.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【四年周期总刻系列（10）】\n\n17年牛市，币价 > Realized Price 共 1135天\n21年牛市，币价 > Realized Price 共 1161天\n本轮牛市，币价 > Realized Price 当前共 1013天\n\n#BTC: Realized Price（实现价格）是一种链上指标，用于衡量比特币网络中所有流通比特币的“平均买入价格”。它不是基于当前市场价格计算的即时估值，而是将每个 UTXO（未花费交易输出，即比特币的最小单位）估值在其最后一次链上转移时的价格，然后对所有流通比特币求平均值。这反映了持有者实际支付的平均成本，而非当前投机情绪驱动的市场价格\n\nRealized Price 主要反映比特币持有者的整体平均持仓成本和市场情绪稳定性，常被视为比特币价格的“心理支撑线”或“价值锚点”\n\n当市场价格 > Realized Price 时，持有者整体平均处于盈利状态，表明市场信心强，可能推动牛市延续\n当市场价格 < Realized Price 时，持有者整体平均处于亏损状态，卖压可能减弱（因为不愿低价抛售），这往往是熊市底部信号，吸引价值投资者积累\n\n历史数据显示，市场价格穿越 Realized Price 往往标志周期转折：向上穿越预示牛市启动，向下穿越暗示熊市深化",
+        "link": "https://x.com/0xCryptoChan/status/1980855855395619097",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG31ndipWYAAV_up.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2000407544175714492",
       "username": "OwenJin12",
@@ -11648,42 +11702,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1997899020547867116",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "Opinion 你们到底是咋刷的，成本又高，又卷，分还少了，真还能玩？",
-      "contentHtml": "Opinion 你们到底是咋刷的，成本又高，又卷，分还少了，真还能玩？",
-      "publishedAt": "2025-12-08T05:20:00.000Z",
-      "link": "https://x.com/daidaibtc/status/1997899020547867116",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1997897113091575828",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "vibe coding工具的问题：\n\n👍首推还是Cursor\n入坑的话，谷歌版Cursor也不错（暂不收费）",
-      "contentHtml": "vibe coding工具的问题：\n\n👍首推还是Cursor\n入坑的话，谷歌版Cursor也不错（暂不收费）",
-      "publishedAt": "2025-12-08T05:12:00.000Z",
-      "link": "https://x.com/follow_clues/status/1997897113091575828",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7n0nTTaYAAL71T.png"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
