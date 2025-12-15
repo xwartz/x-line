@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T09:56:28.107Z",
+  "lastUpdated": "2025-12-15T10:22:59.774Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 442,
-    "successUsers": 22,
-    "failedUsers": 0
+    "newFetched": 399,
+    "successUsers": 20,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2000505234624577922",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "#AAVE 最近开始重新尊重超卖信号，反弹的力度和节奏都比之前干净。\n\n10 月中旬之后，AAVE 的走势一直比较乱，节奏很差，基本没有参与价值。\n\n但最近价格对信号的反馈开始变得有规律，说明盘面本身在发生变化。\n\n先把它重新放回观察列表，等高赔率机会出现。",
+      "contentHtml": "<a href=\"/search?q=%23AAVE\">#AAVE</a> 最近开始重新尊重超卖信号，反弹的力度和节奏都比之前干净。\n\n10 月中旬之后，AAVE 的走势一直比较乱，节奏很差，基本没有参与价值。\n\n但最近价格对信号的反馈开始变得有规律，说明盘面本身在发生变化。\n\n先把它重新放回观察列表，等高赔率机会出现。",
+      "publishedAt": "2025-12-15T09:56:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2000505234624577922",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8M3sKJaMAAPBhS.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2000503147710582848",
       "username": "Bitfatty",
@@ -994,32 +1015,6 @@
       }
     },
     {
-      "id": "2000321901885850063",
-      "username": "FAHayekSays",
-      "displayName": "F. A. Hayek Quotes",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1755101910300872704%2Fcq6b5j-C_bigger.jpg",
-      "content": "Hayek: “Socialism protesting against production for profit objects to what makes the extended society possible.”\n\n“Profit is a signal which tells us what we must do in order to serve people whom we don’t know.”",
-      "contentHtml": "Hayek: “Socialism protesting against production for profit objects to what makes the extended society possible.”\n\n“Profit is a signal which tells us what we must do in order to serve people whom we don’t know.”",
-      "publishedAt": "2025-12-14T21:48:00.000Z",
-      "link": "https://x.com/FAHayekSays/status/2000321901885850063",
-      "media": [
-        {
-          "type": "video",
-          "url": "",
-          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1948800367447138304%2Fimg%2FYGz5xIa8YocFJ_TP.jpg%3Fname%3Dsmall%26format%3Dwebp"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2000301832040788042",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -1180,25 +1175,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8I8ZVnbEAEeLfd.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000219595693543497",
-      "username": "robkhenderson",
-      "displayName": "Rob Henderson",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1809986865061371904%2FhBsizcDm_bigger.jpg",
-      "content": "The new Animal Farm movie: \"Rather than serving as a critique of totalitarian Soviet Russia, the film shifts its focus towards the dangers of capitalism and corporate corruption.\"\n\nUnreal. Reread the book instead. A classic I revisit every few years. \n\ntelegraph.co.uk/news/2025/12…",
-      "contentHtml": "The new Animal Farm movie: \"Rather than serving as a critique of totalitarian Soviet Russia, the film shifts its focus towards the dangers of capitalism and corporate corruption.\"\n\nUnreal. Reread the book instead. A classic I revisit every few years. \n\n<a href=\"https://www.telegraph.co.uk/news/2025/12/14/animal-farm-rewritten-critique-capitalism-hollywood-film/\">telegraph.co.uk/news/2025/12…</a>",
-      "publishedAt": "2025-12-14T15:01:00.000Z",
-      "link": "https://x.com/robkhenderson/status/2000219595693543497",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5242,31 +5218,6 @@
             "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG76In9AagAE-A_i.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1999204380206096787",
-      "username": "nic_carter",
-      "displayName": "nic carter",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1997450474690072576%2FYwtb1Xxr_bigger.jpg",
-      "content": "during Covid the government spent $4-5T or 20-25% of GDP on various handouts and stimulus programs. it's now clear – as was very predictable at the time –  that this spending was overwhelmingly ridden with fraud. and the fraud wasn't really a side effect. the point was to use Covid to hand out gibs to all of the Biden admin's chosen affinity groups. meanwhile, every American ended up footing the bill through the resultant inflation. \n\nthe Minnesota fraud is just the tip of the iceberg but it's totally indicative of what went on. no fraud checks whatsoever (remember that the emphasis during CARES and PPP was shoveling money out the door, and \"some amount of fraud\" was deliberately tolerated). I know I'm not alone in remembering the lines around the block at the luxury stores when the PPP cash first started going out. \n\nofficial government sources now admit staggering quantities of fraud. the SBA estimates $200b in PPP fraud [1]. the GAO estimated [2] pandemic-era unemployment fraud at $100-$135b. and of course, this is still under-reported, as no one wants to admit that the government funded fraudsters with taxpayer cash. more examples of massive billion-dollar frauds continue to trickle in, with MN being a great example. the real number is almost certainly in the trillions. \n\nthis is one of the biggest institutionalized thefts in history, and we're still paying for it today, through higher debt levels, structurally higher inflation, higher short-end rates (to cure the burst of inflation), and higher long-end rates because creditors don't trust the government any more. an absolute travesty that few will acknowledge.\n\n[1] sba.gov/document/report-25-1…\n[2] gao.gov/assets/gao-23-106696…",
-      "contentHtml": "during Covid the government spent $4-5T or 20-25% of GDP on various handouts and stimulus programs. it's now clear – as was very predictable at the time –  that this spending was overwhelmingly ridden with fraud. and the fraud wasn't really a side effect. the point was to use Covid to hand out gibs to all of the Biden admin's chosen affinity groups. meanwhile, every American ended up footing the bill through the resultant inflation. \n\nthe Minnesota fraud is just the tip of the iceberg but it's totally indicative of what went on. no fraud checks whatsoever (remember that the emphasis during CARES and PPP was shoveling money out the door, and \"some amount of fraud\" was deliberately tolerated). I know I'm not alone in remembering the lines around the block at the luxury stores when the PPP cash first started going out. \n\nofficial government sources now admit staggering quantities of fraud. the SBA estimates $200b in PPP fraud [1]. the GAO estimated [2] pandemic-era unemployment fraud at $100-$135b. and of course, this is still under-reported, as no one wants to admit that the government funded fraudsters with taxpayer cash. more examples of massive billion-dollar frauds continue to trickle in, with MN being a great example. the real number is almost certainly in the trillions. \n\nthis is one of the biggest institutionalized thefts in history, and we're still paying for it today, through higher debt levels, structurally higher inflation, higher short-end rates (to cure the burst of inflation), and higher long-end rates because creditors don't trust the government any more. an absolute travesty that few will acknowledge.\n\n[1] <a href=\"https://www.sba.gov/document/report-25-10-covid-19-pandemic-eidl-ppp-loan-fraud-landscape-recommendations-update\">sba.gov/document/report-25-1…</a>\n[2] <a href=\"https://www.gao.gov/assets/gao-23-106696.pdf\">gao.gov/assets/gao-23-106696…</a>",
-      "publishedAt": "2025-12-11T19:47:00.000Z",
-      "link": "https://x.com/nic_carter/status/1999204380206096787",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "bariweiss",
-        "displayName": "Bari Weiss",
-        "content": "\"You are gonna be the richest 25 year old InshaAllah.\"\n@CBSNews obtained dozens of documents that reveal how Minnesota fraudsters spent hundreds of millions in taxpayer dollars on luxury cars, villas and overseas wire transfers . . . including to China.\n\ncbsnews.com/news/minnesota-f…",
-        "link": "https://x.com/bariweiss/status/1999147060835111192"
       },
       "stats": {
         "replies": 0,
@@ -11719,6 +11670,65 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7oSv7hacAAZAuW.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1997909005256331578",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "看到好几位小伙伴在问“投资者信心指数”到哪里了？由于这个指标的算法设置了较大的平滑机制，走的很慢，属于大级别趋势指标，因此也没必要经常写，但既然小伙伴关心，那就更新一下。\n\n目前指数还在零轴以下的红色区，且幅度比上两次更低。也意味着这一次BTC的下跌给市场信心造成了本轮周期内前所未有的冲击。更多的投资者不再认为这只是一次牛市中期的回调，而认为是周期性牛转熊的开始。\n\n（图1）\n\n我个人觉得无论是不是，对于普通投资者来说，最“傻瓜式”的操作方法就是定投，类似AHR999那样。\n\n举个例子，当第一根红色信号出现时BTC是$105,000，假设此时按计划买入第一笔，之后每下跌1w买一次，那么平均成本就在$95,000左右。如果是按正金字塔挂单，成本可能会在$90,000左右。\n\n此时，即便没有其他结构性仓位来对冲风险敞口（比如用期权做多波动率），单单是BTC现货账户的回撤幅度也非常有限，甚至可以跑赢全市场90%以上的账户盈亏。一直定投到指数回到零轴以上，你的收益曲线一定不会差到哪里。\n\n这里的难点在于严格的资金管理和坚定的纪律执行，说来简单，但很多人未必能做到，因为“信心指数”从零轴到大幅偏离再到回到零轴，可能是一个相当长的时间段。比如24年就经过了2个半月，而这次可能还会超过这个时间（目前才刚刚1个月）。\n\n我们现在看到指数有逐渐拐头的趋势，但这不代表BTC价格就一定见底了，只能说正朝着较好的方向运行。尽管如此，我们仍然要做好应对变化的准备，给自己预留足够的容错空间，避免被提前赶下牌桌。\n\n----------------------------------------------\n本文由 @Bitget 赞助｜\nBitget VIP，费率更低，福利更狠",
+      "contentHtml": "看到好几位小伙伴在问“投资者信心指数”到哪里了？由于这个指标的算法设置了较大的平滑机制，走的很慢，属于大级别趋势指标，因此也没必要经常写，但既然小伙伴关心，那就更新一下。\n\n目前指数还在零轴以下的红色区，且幅度比上两次更低。也意味着这一次BTC的下跌给市场信心造成了本轮周期内前所未有的冲击。更多的投资者不再认为这只是一次牛市中期的回调，而认为是周期性牛转熊的开始。\n\n（图1）\n\n我个人觉得无论是不是，对于普通投资者来说，最“傻瓜式”的操作方法就是定投，类似AHR999那样。\n\n举个例子，当第一根红色信号出现时BTC是$105,000，假设此时按计划买入第一笔，之后每下跌1w买一次，那么平均成本就在$95,000左右。如果是按正金字塔挂单，成本可能会在$90,000左右。\n\n此时，即便没有其他结构性仓位来对冲风险敞口（比如用期权做多波动率），单单是BTC现货账户的回撤幅度也非常有限，甚至可以跑赢全市场90%以上的账户盈亏。一直定投到指数回到零轴以上，你的收益曲线一定不会差到哪里。\n\n这里的难点在于严格的资金管理和坚定的纪律执行，说来简单，但很多人未必能做到，因为“信心指数”从零轴到大幅偏离再到回到零轴，可能是一个相当长的时间段。比如24年就经过了2个半月，而这次可能还会超过这个时间（目前才刚刚1个月）。\n\n我们现在看到指数有逐渐拐头的趋势，但这不代表BTC价格就一定见底了，只能说正朝着较好的方向运行。尽管如此，我们仍然要做好应对变化的准备，给自己预留足够的容错空间，避免被提前赶下牌桌。\n\n----------------------------------------------\n本文由 <a href=\"/Bitget\" title=\"Bitget\">@Bitget</a> 赞助｜\nBitget VIP，费率更低，福利更狠",
+      "publishedAt": "2025-12-08T06:00:00.000Z",
+      "link": "https://x.com/Murphychen888/status/1997909005256331578",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7k2ce8akAA_rDW.png"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "来了......它终于来了！\n\n2025年11月11日，大家期待已久的“投资者信心指数”终于出现了第1根红色信号！这预示着市场情绪在经历过一波高峰期后再一次跌入谷底。此刻距离上一次该信号的消失已整整过去了7个月。\n\n看过我之前推文的小伙伴应该知道，这通常这都会是趋势交易最有性价比的入场时间。确切的说，应该是一个时间段。从本轮周期过去2年的数据来看，有3次进入红色区后都经历了1-2.5个月的时间后，趋势开始转弱为强。\n\n自从8月29日开始由绿色“乐观区”转为黄色“犹豫区”时，我们就一直期待能尽快进入红色区，但这次市场情绪却始终上下摇摆，也造就了史上最长时间的指数在黄色区停留。\n\n如今出现第1根红色信号后，也势必不可能在短短几天内又反转回到绿色信心区。因此，我们仍然需要抱有极大的耐心，做好交易计划。接下来的每一天都不会再是垃圾时间。\n\n我也兑现了之前对小伙伴们的承诺，第一时间分享了这一关键性数据，至于后面要如何把握，那就看自己的分析和判断了。\n\n本文由 @Bitget 赞助｜省最多手续费，领最多豪礼，做VIP就上Bitget",
+        "link": "https://x.com/Murphychen888/status/1988185098211180812",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG5dzL24bMAABlNf.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1997908176155574681",
+      "username": "wublockchain12",
+      "displayName": "吴说区块链",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1763571513553543168%2FswT8lq9S_bigger.jpg",
+      "content": "何一回忆“1011”至暗时刻：每天醒来都像“天塌了一遍”\n\n12 月 3 日，在宣布担任币安联席 CEO 后，何一在币安华语社区见面会上表示，个人的“至暗时刻”就是近期的 “1011” 事件。每天只能睡两三个小时而且每次醒来都要面临新问题，比如 K 线被修改、客服纠纷等，感觉天塌了。她因此得到结论认为赚不到钱是认知问题，遇到难题是因为还没找到最优解。当你找到解法，问题便会迎刃而解。\n\n来源：2025 币安区块链周",
+      "contentHtml": "何一回忆“1011”至暗时刻：每天醒来都像“天塌了一遍”\n\n12 月 3 日，在宣布担任币安联席 CEO 后，何一在币安华语社区见面会上表示，个人的“至暗时刻”就是近期的 “1011” 事件。每天只能睡两三个小时而且每次醒来都要面临新问题，比如 K 线被修改、客服纠纷等，感觉天塌了。她因此得到结论认为赚不到钱是认知问题，遇到难题是因为还没找到最优解。当你找到解法，问题便会迎刃而解。\n\n来源：2025 币安区块链周",
+      "publishedAt": "2025-12-08T05:56:00.000Z",
+      "link": "https://x.com/wublockchain12/status/1997908176155574681",
+      "media": [
+        {
+          "type": "video",
+          "url": "",
+          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1997898841472065536%2Fimg%2FIuvMV_oANb_RAlNj.jpg%3Fname%3Dsmall%26format%3Dwebp"
+        }
+      ],
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
