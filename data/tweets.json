@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-16T22:52:47.096Z",
+  "lastUpdated": "2025-12-16T23:17:21.260Z",
   "followers": [
     {
       "username": "naval"
@@ -70,9 +70,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 439,
-    "successUsers": 22,
-    "failedUsers": 0
+    "newFetched": 419,
+    "successUsers": 21,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -1183,37 +1183,6 @@
       "contentHtml": "纳斯达克申请23小时交易，一周5天，每天只留一小时给我拉屎吃饭吗？🤣",
       "publishedAt": "2025-12-16T04:26:00.000Z",
       "link": "https://x.com/TJ_Research/status/2000784670162559339",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000776981408047436",
-      "username": "wholemars",
-      "displayName": "Whole Mars Catalog",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1593688242771017728%2F1Ocz0cvu_bigger.jpg",
-      "content": "This would be the end of of Silicon Valley",
-      "contentHtml": "This would be the end of of Silicon Valley",
-      "publishedAt": "2025-12-16T03:56:00.000Z",
-      "link": "https://x.com/wholemars/status/2000776981408047436",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Cernovich",
-        "displayName": "Cernovich",
-        "content": "California is set to vote on a 5% wealth tax on billionaires.",
-        "link": "https://x.com/Cernovich/status/2000620047774216237",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8OhSakbYAA071J.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2478,25 +2447,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8N3D08aQAAJr9v.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000566617722548728",
-      "username": "Lifeinvestmoney",
-      "displayName": "Worst Finance Takes",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1921157285428031488%2FsM91BEhf_bigger.jpg",
-      "content": "If you’re a man and don’t feel well or are going through something tough \n\nJust remember no one cares",
-      "contentHtml": "If you’re a man and don’t feel well or are going through something tough \n\nJust remember no one cares",
-      "publishedAt": "2025-12-15T14:00:00.000Z",
-      "link": "https://x.com/Lifeinvestmoney/status/2000566617722548728",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11756,6 +11706,54 @@
           }
         ]
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998399693072871787",
+      "username": "0xSunNFT",
+      "displayName": "0xSun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1820705442735296512%2Fej9BX01I_bigger.png",
+      "content": "之前提到的 @humidifi 开盘了，公售过程有些曲折，第一次被科学家包场之后选择了重启，第二次还是有挺多真人打进去了，虽然单号额度不大，不过目前这个市场状况，开盘能有翻倍多的收益，也上了Coinbase和OKX，算挺不错了，现在的行情明显赚钱难度越来越大了，守住本金，耐心等待好机会。",
+      "contentHtml": "之前提到的 <a href=\"/humidifi\" title=\"HumidiFi\">@humidifi</a> 开盘了，公售过程有些曲折，第一次被科学家包场之后选择了重启，第二次还是有挺多真人打进去了，虽然单号额度不大，不过目前这个市场状况，开盘能有翻倍多的收益，也上了Coinbase和OKX，算挺不错了，现在的行情明显赚钱难度越来越大了，守住本金，耐心等待好机会。",
+      "publishedAt": "2025-12-09T14:29:00.000Z",
+      "link": "https://x.com/0xSunNFT/status/1998399693072871787",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7u94vMbMAAPp4K.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xSunNFT",
+        "displayName": "0xSun",
+        "content": "Jup DTF的第一个项目 @humidifi ，目前Sol上最大的Prop AMM。DTF主要强调的就是，所有代币供应全部在链上标记，这样用户就可以清楚看见代币去向。\n\n1号公布了Tokenomics之后有挺多FUD的，因为只有10%的代币给ICO，剩下的都分配给了Foundation+Ecosystem+Labs，不过后续宣布了打新FDV是69M，对应15.9M的流通市值（10% ICO，8% Foundation， 5% Ecosystem），再加上Coinbase上币新闻，性价比又出来了。\n\nICO分为3个阶段，从12.3号晚上10点开始，每个阶段持续12小时，都是FCFS的，第一个阶段是白名单，第二阶段是Jup质押者，最后一个阶段是公售，公售总共卖2%的币，单号限额1000 USDC，在官方网页可以看到更多细节：\ndtf.jup.ag/",
+        "link": "https://x.com/0xSunNFT/status/1996036886356431091",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7NSSIlaQAAEvoa.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998384536002965842",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "If you want to trade on hyena\n\nYou can use KOL referral codes and give them 90% of your fees \n\nyou will be very charitable because most of them are broke ass\n\nor you can be selfish and use CBB ref code and get 100% back what I earn from you",
+      "contentHtml": "If you want to trade on hyena\n\nYou can use KOL referral codes and give them 90% of your fees \n\nyou will be very charitable because most of them are broke ass\n\nor you can be selfish and use CBB ref code and get 100% back what I earn from you",
+      "publishedAt": "2025-12-09T13:29:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/1998384536002965842",
       "stats": {
         "replies": 0,
         "retweets": 0,
