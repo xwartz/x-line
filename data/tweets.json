@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-16T12:38:47.673Z",
+  "lastUpdated": "2025-12-16T13:27:37.016Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,69 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 419,
-    "successUsers": 21,
-    "failedUsers": 1
+    "newFetched": 440,
+    "successUsers": 22,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2000918473103581440",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n某种程度上，AI 语音输入法的竞争已经结束了，还没卖产品拿融资的应该尽快。\n\n有两种模式：\n\n1. Spokenly 这类全功能客户端（免费用户自接第三方 API 或者本地模型，付费用户可免配置体验良好）\n\n现在每个月，最好的语音识别模型都在变化，这是唯一合理的形态。\n\n当模型继续增强到某一个节点，免费的模型已经非常好的那天。\n\n就会只剩下\n\n2. Apple/Google 语音输入法、豆包/微信语音输入法。\n\n前者这些全功能客户端，从大众 AI 新玩具，变成小众领域的产品。\n\n付费用户越来越少，能活一两个就不错了。",
+      "contentHtml": "<a href=\"/search?q=%23AI\">#AI</a> \n\n某种程度上，AI 语音输入法的竞争已经结束了，还没卖产品拿融资的应该尽快。\n\n有两种模式：\n\n1. Spokenly 这类全功能客户端（免费用户自接第三方 API 或者本地模型，付费用户可免配置体验良好）\n\n现在每个月，最好的语音识别模型都在变化，这是唯一合理的形态。\n\n当模型继续增强到某一个节点，免费的模型已经非常好的那天。\n\n就会只剩下\n\n2. Apple/Google 语音输入法、豆包/微信语音输入法。\n\n前者这些全功能客户端，从大众 AI 新玩具，变成小众领域的产品。\n\n付费用户越来越少，能活一两个就不错了。",
+      "publishedAt": "2025-12-16T13:18:00.000Z",
+      "link": "https://x.com/taresky/status/2000918473103581440",
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#AI \n\nAI客户端的竞争很残酷。\n\nMacWhisper 从最好的 AI 语音转换工具, 到没有什么竞争力，大概也就一两个月的时间。在我为之付费的时候已经想到了这一点\n\n目前最好的产品是 Spokenly，尤其是你不用付费，使用自己申请的 API 额度也就足够了。",
+        "link": "https://x.com/taresky/status/1964003832591003721"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2000914577303941580",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "我一个哥们之前被捉奸在床，衣服脱的只剩一个内裤，她媳妇给拍照片了。也没搂一起，后面法院诉讼辩护是那女的是推销内裤的，想批发做代理，只能挨个试下体感，信不信没所谓，没进入身体一律按推销算。",
+      "contentHtml": "我一个哥们之前被捉奸在床，衣服脱的只剩一个内裤，她媳妇给拍照片了。也没搂一起，后面法院诉讼辩护是那女的是推销内裤的，想批发做代理，只能挨个试下体感，信不信没所谓，没进入身体一律按推销算。",
+      "publishedAt": "2025-12-16T13:03:00.000Z",
+      "link": "https://x.com/hazenlee/status/2000914577303941580",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2000911592138113263",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "我在车里点开了 \n手机连着CarPlay\n坐了一车人…",
+      "contentHtml": "我在车里点开了 \n手机连着CarPlay\n坐了一车人…",
+      "publishedAt": "2025-12-16T12:51:00.000Z",
+      "link": "https://x.com/hazenlee/status/2000911592138113263",
+      "media": [
+        {
+          "type": "video",
+          "url": "",
+          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2000911529697542144%2Fimg%2F0J7hcC4lBpgk5oM7.jpg%3Fname%3Dsmall%26format%3Dwebp"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2000897958573957431",
       "username": "hazenlee",
@@ -1916,6 +1974,25 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8N3D08aQAAJr9v.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2000566617722548728",
+      "username": "Lifeinvestmoney",
+      "displayName": "Worst Finance Takes",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1921157285428031488%2FsM91BEhf_bigger.jpg",
+      "content": "If you’re a man and don’t feel well or are going through something tough \n\nJust remember no one cares",
+      "contentHtml": "If you’re a man and don’t feel well or are going through something tough \n\nJust remember no one cares",
+      "publishedAt": "2025-12-15T14:00:00.000Z",
+      "link": "https://x.com/Lifeinvestmoney/status/2000566617722548728",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11731,130 +11808,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7tvUbibsAAmG6D.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998310642491752864",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
-      "content": "哈哈哈",
-      "contentHtml": "哈哈哈",
-      "publishedAt": "2025-12-09T08:35:00.000Z",
-      "link": "https://x.com/hazenlee/status/1998310642491752864",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7ts77BaQAAHKGW.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "太逗了\n传统券商也开始交易挖矿了？\n这个虎币太逗了😅",
-        "link": "https://x.com/hazenlee/status/1998019561065779234",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7pkLzYaEAAjOez.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998308931068895470",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
-      "content": "SEC主席放话：美国金融市场2年内全迁链上，代币化革命即将来临？\n\n作为一名数字资产的投资爱好者和信仰者，我最近刷到这条新闻时，让我在枯燥的熊市中重新热血沸腾！美国证券交易委员会（SEC）新任主席Paul Atkins在Fox Business采访中直言不讳：整个美国金融市场，可能在短短“两年内”就全面迁移到支撑比特币和加密货币的区块链技术上。这不是科幻，而是即将到来的现实！\n\n想象一下：股票、债券这些传统资产，通过区块链上的智能合约“代币化”——用可交易的链上代币代表它们，所有权透明可见，结算从T+1瞬间变T+0，风险大幅降低，透明度直冲云霄。Atkins强调，无论资产是纸质凭证还是链上代币，本质上还是证券，但数字化将带来“巨大利益”：更高效的全球流通、更低的摩擦成本，以及真正意义上的“投资无国界”。这不只是10年后的趋势，而是**未来几年的必然**！主流银行和券商已然行动起来，纳斯达克等巨头也摩拳擦掌，美股代币化进入“决胜局”。\n\n作为投资者，我最兴奋的莫过于这波浪潮将如何把crypto技术真正的结合优质资产落地。过去，美股交易总被时差、结算周期卡脖子；现在，链上现货和永续合约，就能让全球玩家随时入场，用USDT、USDC等稳定币一键结算。风险管理？区块链的不可篡改性就是天然盾牌，透明到每笔交易都像公开账本。\n\n说到这儿，就不得不提“MSX”——在美股代币化和数字资产交易领域的绝对领跑者！秉承“资产自由流通，投资无界限”的核心理念，MSX聚焦股票市场的链上革命，为全球投资者提供超过200种主流股票及ETF的链上现货交易，还有热门股票代币永续合约产品。支持USDT、USDC等主流稳定币结算，操作丝滑，门槛低到零——无论你是新手还是老鸟，都能轻松抓住这个时代红利。\n\n[来MSX ，立即交易]（链接：msx.com）",
-      "contentHtml": "SEC主席放话：美国金融市场2年内全迁链上，代币化革命即将来临？\n\n作为一名数字资产的投资爱好者和信仰者，我最近刷到这条新闻时，让我在枯燥的熊市中重新热血沸腾！美国证券交易委员会（SEC）新任主席Paul Atkins在Fox Business采访中直言不讳：整个美国金融市场，可能在短短“两年内”就全面迁移到支撑比特币和加密货币的区块链技术上。这不是科幻，而是即将到来的现实！\n\n想象一下：股票、债券这些传统资产，通过区块链上的智能合约“代币化”——用可交易的链上代币代表它们，所有权透明可见，结算从T+1瞬间变T+0，风险大幅降低，透明度直冲云霄。Atkins强调，无论资产是纸质凭证还是链上代币，本质上还是证券，但数字化将带来“巨大利益”：更高效的全球流通、更低的摩擦成本，以及真正意义上的“投资无国界”。这不只是10年后的趋势，而是**未来几年的必然**！主流银行和券商已然行动起来，纳斯达克等巨头也摩拳擦掌，美股代币化进入“决胜局”。\n\n作为投资者，我最兴奋的莫过于这波浪潮将如何把crypto技术真正的结合优质资产落地。过去，美股交易总被时差、结算周期卡脖子；现在，链上现货和永续合约，就能让全球玩家随时入场，用USDT、USDC等稳定币一键结算。风险管理？区块链的不可篡改性就是天然盾牌，透明到每笔交易都像公开账本。\n\n说到这儿，就不得不提“MSX”——在美股代币化和数字资产交易领域的绝对领跑者！秉承“资产自由流通，投资无界限”的核心理念，MSX聚焦股票市场的链上革命，为全球投资者提供超过200种主流股票及ETF的链上现货交易，还有热门股票代币永续合约产品。支持USDT、USDC等主流稳定币结算，操作丝滑，门槛低到零——无论你是新手还是老鸟，都能轻松抓住这个时代红利。\n\n[来MSX ，立即交易]（链接：<a href=\"http://msx.com\">msx.com</a>）",
-      "publishedAt": "2025-12-09T08:29:00.000Z",
-      "link": "https://x.com/hazenlee/status/1998308931068895470",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7trYL9b0AAaUKh.jpg"
-        }
-      ],
-      "quote": {
-        "username": "MSX_CN",
-        "displayName": "麦通MSX",
-        "content": "论执行力，华尔街教你做人。\n\n代币化，正在吞噬金融。这次，是纳斯达克亲自端上了盘子。",
-        "link": "https://x.com/MSX_CN/status/1996802071925084323",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7YQ5cSbcAEasqt.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7YQ5cWakAAKuVb.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998307809574912390",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "#BTC 30日净流入资本量跌至前波低位",
-      "contentHtml": "<a href=\"/search?q=%23BTC\">#BTC</a> 30日净流入资本量跌至前波低位",
-      "publishedAt": "2025-12-09T08:24:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/1998307809574912390",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7tnPziaAAAR2O2.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998301365475655879",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "比特币 #bitcoin 上一次触发超卖信号后，价格横了两周，最后选择了向上突破。\n\n这一次，同样出现超卖，但结构、位置、动能都和之前不太一样。\n\n那到底是重复走势，还是走出新节奏？",
-      "contentHtml": "比特币 <a href=\"/search?q=%23bitcoin\">#bitcoin</a> 上一次触发超卖信号后，价格横了两周，最后选择了向上突破。\n\n这一次，同样出现超卖，但结构、位置、动能都和之前不太一样。\n\n那到底是重复走势，还是走出新节奏？",
-      "publishedAt": "2025-12-09T07:59:00.000Z",
-      "link": "https://x.com/CycleStudies/status/1998301365475655879",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7tj2ZlaoAA2X_D.jpg"
-        }
-      ],
-      "quote": {
-        "username": "CycleStudies",
-        "displayName": "百萬Eric | Day Trader",
-        "content": "比特币 #BITCOIN 触发了新的周线超卖信号。\n\n前五次周线超卖之后的涨幅各不相同，有强有弱，没有固定模式。\n\n那这一次会走出什么节奏？",
-        "link": "https://x.com/CycleStudies/status/1996176341335712192",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7PXzK_boAA-Xfz.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
