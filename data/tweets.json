@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-17T06:29:14.788Z",
+  "lastUpdated": "2025-12-17T06:57:21.133Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,74 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 443,
+    "newFetched": 440,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2001184027911578109",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "最近没炒币，去忙运输事业了。",
+      "contentHtml": "最近没炒币，去忙运输事业了。",
+      "publishedAt": "2025-12-17T06:53:00.000Z",
+      "link": "https://x.com/taresky/status/2001184027911578109",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8WiQkXa4AE2k3d.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001183150534484048",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "好问题！这确实是做多波动率策略的核心痛点之一👍👍👍\n\n筹码集中度信号主要是提示实现波动率的潜在爆发，但如果宏观事件已经在前，市场往往会提前定价，导致隐含波动率被显著抬高。这时IV过高，long vol的性价比会下降，因为你买的期权已经“贵”了。\n\n但也不是完全没机会，如果筹码集中度极高（比如之前17%+级别），说明链上结构很脆弱，事件可能引发超预期连锁反应，RV大幅超过IV，这种情况下long vol仍有正期望哈。\n\n所以具体实施的策略还需要根据不同情况做动态调整呢。",
+      "contentHtml": "好问题！这确实是做多波动率策略的核心痛点之一👍👍👍\n\n筹码集中度信号主要是提示实现波动率的潜在爆发，但如果宏观事件已经在前，市场往往会提前定价，导致隐含波动率被显著抬高。这时IV过高，long vol的性价比会下降，因为你买的期权已经“贵”了。\n\n但也不是完全没机会，如果筹码集中度极高（比如之前17%+级别），说明链上结构很脆弱，事件可能引发超预期连锁反应，RV大幅超过IV，这种情况下long vol仍有正期望哈。\n\n所以具体实施的策略还需要根据不同情况做动态调整呢。",
+      "publishedAt": "2025-12-17T06:50:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2001183150534484048",
+      "quote": {
+        "username": "0xBreakingCati",
+        "displayName": "Breaking Cat",
+        "content": "想追问M大一个细节：当筹码集中度升高提示“波动将至”时，如果当下隐含波动率已经被市场提前抬高（例如宏观事件在前），做多波动是否还具备性价比？",
+        "link": "https://x.com/0xBreakingCati/status/2001144937082183754"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001179911667769851",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "出货的说辞真的是会优化呢\n用于建设 Build！",
+      "contentHtml": "出货的说辞真的是会优化呢\n用于建设 Build！",
+      "publishedAt": "2025-12-17T06:37:00.000Z",
+      "link": "https://x.com/hazenlee/status/2001179911667769851",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8WehM_a4AI8kwK.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2001172445424968071",
       "username": "hazenlee",
@@ -11723,57 +11786,6 @@
       "contentHtml": "受国内机构的邀请今晚聊宏观和AI，在准备内容。\n这两天被各种新主席哈塞特的发言刷屏，一看债券市场的降息预期，26年从上周的2.5次来到了今天的2次。债券市场看来并不买账无脑降息呀",
       "publishedAt": "2025-12-09T18:48:00.000Z",
       "link": "https://x.com/TJ_Research/status/1998464900033610012",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998461021451682101",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "$JPM 公布了26年的开支预期，比预期高了4%，市场杀跌了5%🤨",
-      "contentHtml": "<a href=\"/search?q=%23JPM\">$JPM</a> 公布了26年的开支预期，比预期高了4%，市场杀跌了5%🤨",
-      "publishedAt": "2025-12-09T18:33:00.000Z",
-      "link": "https://x.com/TJ_Research/status/1998461021451682101",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998449057090642371",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "笑死人，真的是耻辱，多伦多轻轨，花了5.5亿每MILE，6年时间\n然后运营速度13.5公里/小时，红灯还得停。\n政府已经麻木到了大概6年能交货就不错的地步了，其他的都好说",
-      "contentHtml": "笑死人，真的是耻辱，多伦多轻轨，花了5.5亿每MILE，6年时间\n然后运营速度13.5公里/小时，红灯还得停。\n政府已经麻木到了大概6年能交货就不错的地步了，其他的都好说",
-      "publishedAt": "2025-12-09T17:45:00.000Z",
-      "link": "https://x.com/TJ_Research/status/1998449057090642371",
-      "quote": {
-        "username": "MayorOliviaChow",
-        "displayName": "Mayor Olivia Chow 🇨🇦",
-        "content": "Yes, the Finch LRT is too slow. I know, I rode it twice\n\nIt has to move faster. I'll bring a council item to give it signal priority, and see what else we can do.",
-        "link": "https://x.com/MayorOliviaChow/status/1998427162593083623"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998444038257611049",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "ico元年了，又有俩项目要ido了，把空投的份额都拿去打新了，明天研究下。。。一个是 @gensynai 一个是 @fogo",
-      "contentHtml": "ico元年了，又有俩项目要ido了，把空投的份额都拿去打新了，明天研究下。。。一个是 <a href=\"/gensynai\" title=\"gensyn\">@gensynai</a> 一个是 <a href=\"/fogo\" title=\"Fogo\">@fogo</a>",
-      "publishedAt": "2025-12-09T17:26:00.000Z",
-      "link": "https://x.com/0xleng1/status/1998444038257611049",
       "stats": {
         "replies": 0,
         "retweets": 0,
