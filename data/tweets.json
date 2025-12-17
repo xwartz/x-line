@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-17T22:44:47.510Z",
+  "lastUpdated": "2025-12-17T22:54:36.311Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 438,
+    "newFetched": 444,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2001425262706319416",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "coinbase真是美国加密国企了…\n啥都干上了😂\n怪不得美国阅兵光头的logo都有",
+      "contentHtml": "coinbase真是美国加密国企了…\n啥都干上了😂\n怪不得美国阅兵光头的logo都有",
+      "publishedAt": "2025-12-17T22:52:00.000Z",
+      "link": "https://x.com/hazenlee/status/2001425262706319416",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8Z9qhkaMAAR65G.jpg"
+        }
+      ],
+      "quote": {
+        "username": "coinbase",
+        "displayName": "Coinbase 🛡️",
+        "content": "A new era of Coinbase starts now.\n\n— Exciting product announcements\n— Key business updates\n— Lots of other cool stuff\n\nnitter.privacyredirect.com/i/broadcasts/1BRJjgWpw…",
+        "link": "https://x.com/coinbase/status/2001408074783867131"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2001414883376828860",
       "username": "0xleng1",
@@ -11932,34 +11959,6 @@
         "displayName": "Owen.btc 🟧",
         "content": "12月FOMC：\n\n利率：降息是基准情况但展望大概率是2026年放缓，可能每季度1次也可能到哈塞特上任之前都不会再降。总之12月在利率预期上很难给出更宽松的预期，顶多平预期。\n\n流动性：有可能提到短债扩表，有一定作用，但跟QE比有区别。2026年主要是宽松财政，靠TGA+扩表调节市场。2026年利率政策在市场交易中的优先级会下降，财政政策的优先级会提高。\n\n总之，个人认为是很难带来更多宽松预期的1次会议，周五尾盘+周一早盘也反应平淡，波动率相较10-11月大幅收缩。个人选择套保所有仓位，中性苟过。",
         "link": "https://x.com/OwenJin12/status/1998349109904687546"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998848130180329779",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
-      "content": "Full episode: nitter.privacyredirect.com/naval/status/199062398…",
-      "contentHtml": "Full episode: <a href=\"https://nitter.privacyredirect.com/naval/status/1990623985927921701\">nitter.privacyredirect.com/naval/status/199062398…</a>",
-      "publishedAt": "2025-12-10T20:11:00.000Z",
-      "link": "https://x.com/naval/status/1998848130180329779",
-      "quote": {
-        "username": "naval",
-        "displayName": "Naval",
-        "content": "New podcast on recruiting (full episode). Links below.\n\nCurate People\n\n0:00 The Best Only Want to Work With the Best\n3:49 You'll Never Be Able to Hire Anybody Better Than You\n6:45 Break Every Rule to Get the Best People\n10:19 It Just Takes a Small Group of People to Create Something Great\n14:56 Find Undiscovered Talent Before Everyone Else\n19:04 Great People Have Taste in Other People\n21:24 Every Great Engineer Is Also an Artist\n25:34 Early Teams Look Like Cults\n27:59 You Can’t Make a Product that is Simple Enough\n30:37 The Founder’s Personality Is the Company\n34:45 Good Teams Throw Away Far More Product Than They Keep\n38:41 All New Information Starts as Misinformation\n40:47 Geniuses Only\n44:24 Practice Your Craft At the Edge of Your Capability\n49:14 Curate People",
-        "link": "https://x.com/naval/status/1990623985927921701",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1990623682457448450%2Fimg%2F_RWsNcgoxMhEoHzo.jpg%3Fname%3Dsmall%26format%3Dwebp"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
