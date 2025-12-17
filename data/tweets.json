@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-17T12:39:13.044Z",
+  "lastUpdated": "2025-12-17T13:24:28.695Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,107 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 444,
+    "newFetched": 443,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2001281791504834816",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "操你吗的这项目方是人吗？\n还有王法吗？\n还有法律吗？",
+      "contentHtml": "操你吗的这项目方是人吗？\n还有王法吗？\n还有法律吗？",
+      "publishedAt": "2025-12-17T13:22:00.000Z",
+      "link": "https://x.com/hazenlee/status/2001281791504834816",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8X7KtQakAA9DQA.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8X7KtUboAApklP.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8X7KtPbwAAwnSZ.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Web3Tinkle",
+        "displayName": "Tinkle 🔶 BNB 🧑‍🍳⚡",
+        "content": "说实话，做开源产品 @nofx_official 这么久第一次让我感到失望。\n\n一个已经完成融资17M美金、并且成功上线币安的项目。@ChainOpera_AI 本应对开源、创新和基本的行业规范有更高的尊重。\n\n但我们却在他们测试网上看到：\n直接使用并部署了我们 Nofx AI 交易操作系统一个月前的版本，UI 只修改了logo和位置，代码原封不动，代码中甚至仍然保留着我们的品牌标识 Nofx，首页甚至连文案都一模一样，而在整个过程中，团队从未与我们进行任何沟通或联系。\n\n如果只是出于测试或体验目的，其实完全可以直接使用我们的产品版本。我们很难理解，为什么一定要修改 UI、替换 logo，再以自己的名义进行部署。\n\n更让人无奈的是，我们的系统这一个月一直在快速迭代。我们已经接入并合作了 Binance、Hyperliquid、Lighter、OKX、Bitget 等7家交易所平台，新版本也早已上线。继续照搬一个月前的版本，对任何一方来说，都不是一件体面的事情。\n\n在发布这条内容之前，我们已经尝试通过官方账号私下联系对方团队，希望以更友好的方式沟通。如果仍然得不到回应，我们也只能选择公开说明事实，并保留相关证据。\n\n我们始终支持 加密世界的开源精神，也认同 AGPL 所倡导的价值：\n使用、部署、改进，都应当伴随着透明、署名和对社区的尊重，而不是简单复制。我相信尤其是像 @IDGCapital @FinalityCap @RoadCapMgmt @ABCEDLabs @ambergroup_io 这样的投资人，也希望看到团队遵守最基本的规则。\n\n我们是一个只有12个人的小团队，每天开发超过16个小时，Nofx是我们珍惜维护的开源产品，我们致力于让每个普通人都能用自然语言通过AI生成量化策略。\n\n我们仍然愿意与真正尊重技术、尊重开源、尊重他人成果的团队合作，也正在积极寻求更多高质量的合作与融资机会。\n\n希望行业能走得更远，而不是靠重复别人一个月前的版本。\n欢迎大家体验我们的新版本，也请期待我们的开放产品@vergex_ai",
+        "link": "https://x.com/Web3Tinkle/status/2001256530591859120",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8XkM2Ca4AEVoyX.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8XkM2BasAAVrHs.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001278848982466797",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "原始碼照抄就算了文案也照抄，這還有王法？\n開源不是給你這樣用的吧",
+      "contentHtml": "原始碼照抄就算了文案也照抄，這還有王法？\n開源不是給你這樣用的吧",
+      "publishedAt": "2025-12-17T13:10:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2001278848982466797",
+      "quote": {
+        "username": "Tintinx2021",
+        "displayName": "Tintin🏃🏻‍♀️‍➡️ █████",
+        "content": "> Working on open source is always fun.  \n> Nothing beats watching ur fren code come alive on someone else’s testnet.  \n> Especially when a $17M funded project $COAI listed on Binance copy the work of a tiny community team.  \n> Big money, top-tier listings — none of it can match the quiet power of a fam community quietly moving the entire ecosystem forward",
+        "link": "https://x.com/Tintinx2021/status/2001260000501706845"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001276282848632910",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "youtu.be/gW3Y_ve2l3s\n\n你在市场缺的不是机会 缺的是耐心！ ｜李哥夜话 EP03",
+      "contentHtml": "<a href=\"https://youtu.be/gW3Y_ve2l3s\">youtu.be/gW3Y_ve2l3s</a>\n\n你在市场缺的不是机会 缺的是耐心！ ｜李哥夜话 EP03",
+      "publishedAt": "2025-12-17T13:00:00.000Z",
+      "link": "https://x.com/hazenlee/status/2001276282848632910",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001275257542607039",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "youtube.com/live/JWkM41p1_hI… nitter.privacyredirect.com/i/broadcasts/1YqJDNBWN…",
+      "contentHtml": "<a href=\"https://youtube.com/live/JWkM41p1_hI?feature=share\">youtube.com/live/JWkM41p1_hI…</a> <a href=\"https://nitter.privacyredirect.com/i/broadcasts/1YqJDNBWNqNKV\">nitter.privacyredirect.com/i/broadcasts/1YqJDNBWN…</a>",
+      "publishedAt": "2025-12-17T12:56:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2001275257542607039",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2001265903397474391",
       "username": "Bitfatty",
@@ -109,6 +205,25 @@
             "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG79T8nnagAQdefk.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001246454502101344",
+      "username": "Goupenguin",
+      "displayName": "挖矿小企鹅｜进群私信",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1998294806032965632%2FKASjOGFW_bigger.jpg",
+      "content": "中国外交官警告，没感觉。\n中国联合国大使警告，没感觉。\n中国外交部警告， 没感觉。\n中国国防部警告，没感觉。\n空自被锁定警告，没感觉。\n\n动物园里的熊猫要被中国回收了：中日关系是不是真的出问题了？回收熊猫带来的影响值得我们思考。🤣🤣🤣🤣🤣",
+      "contentHtml": "中国外交官警告，没感觉。\n中国联合国大使警告，没感觉。\n中国外交部警告， 没感觉。\n中国国防部警告，没感觉。\n空自被锁定警告，没感觉。\n\n动物园里的熊猫要被中国回收了：中日关系是不是真的出问题了？回收熊猫带来的影响值得我们思考。🤣🤣🤣🤣🤣",
+      "publishedAt": "2025-12-17T11:01:00.000Z",
+      "link": "https://x.com/Goupenguin/status/2001246454502101344",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
       },
       "stats": {
         "replies": 0,
@@ -11779,99 +11894,6 @@
             "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7iOtKzboAAWNDt.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998635277271626186",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "明天的基调：鹰派降息\n\n关注：\n1. 中性利率，还有多少次降息，预期两次\n2. 点阵图，9月份SEP显示26年只会降1次，联储内部10比9。这次我认为最好情况是10比9，差点的11比8，或者12比7，多数人认为26年只会降息一次\n\n现在市场预期26年降息两次，点阵图出来后会稍做调整。但考虑到新主席上位后的态度和贝森特聊得换美联储成员，将会降低点阵图的效果。\n基本鲍爷爷时代最后一次降息结束了，画了上圆满的句号。如果在他任期内再有降息，那劳动力市场的问题可能就大了，这个风险的确在上升。",
-      "contentHtml": "明天的基调：鹰派降息\n\n关注：\n1. 中性利率，还有多少次降息，预期两次\n2. 点阵图，9月份SEP显示26年只会降1次，联储内部10比9。这次我认为最好情况是10比9，差点的11比8，或者12比7，多数人认为26年只会降息一次\n\n现在市场预期26年降息两次，点阵图出来后会稍做调整。但考虑到新主席上位后的态度和贝森特聊得换美联储成员，将会降低点阵图的效果。\n基本鲍爷爷时代最后一次降息结束了，画了上圆满的句号。如果在他任期内再有降息，那劳动力市场的问题可能就大了，这个风险的确在上升。",
-      "publishedAt": "2025-12-10T06:05:00.000Z",
-      "link": "https://x.com/TJ_Research/status/1998635277271626186",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998622732544782364",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "#外设 \n\n买了新出的 Wooting 60HE v2 键盘，体验一下传说中急停身法。",
-      "contentHtml": "<a href=\"/search?q=%23外设\">#外设</a> \n\n买了新出的 Wooting 60HE v2 键盘，体验一下传说中急停身法。",
-      "publishedAt": "2025-12-10T05:16:00.000Z",
-      "link": "https://x.com/taresky/status/1998622732544782364",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7yIx9rbAAA82Ge.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998605332520837293",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "过去几天，比特币 #bitcoin 的走势相对规律，对 1 小时级别的超买和超卖信号反应都算尊重。\n\n我会等 1 小时级别再次触发超卖，再结合当时的关键位置，去找一笔盈亏比在 1.5 左右的多单机会。",
-      "contentHtml": "过去几天，比特币 <a href=\"/search?q=%23bitcoin\">#bitcoin</a> 的走势相对规律，对 1 小时级别的超买和超卖信号反应都算尊重。\n\n我会等 1 小时级别再次触发超卖，再结合当时的关键位置，去找一笔盈亏比在 1.5 左右的多单机会。",
-      "publishedAt": "2025-12-10T04:06:00.000Z",
-      "link": "https://x.com/CycleStudies/status/1998605332520837293",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7xpXOzaMAEjo1C.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998594269544853911",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "即使你已经在一个统计优势明确的关键点下注，止损依然是不可缺少的组成部分。\n\n因为概率优势不等于胜率保证，它只是在重复足够多的次数后，让你最终赢面更大。",
-      "contentHtml": "即使你已经在一个统计优势明确的关键点下注，止损依然是不可缺少的组成部分。\n\n因为概率优势不等于胜率保证，它只是在重复足够多的次数后，让你最终赢面更大。",
-      "publishedAt": "2025-12-10T03:23:00.000Z",
-      "link": "https://x.com/CycleStudies/status/1998594269544853911",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998593565006639163",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
-      "content": "微信是真不安全而且还总封号\n建议币安内置聊天软件\nweb3社交搞起来！",
-      "contentHtml": "微信是真不安全而且还总封号\n建议币安内置聊天软件\nweb3社交搞起来！",
-      "publishedAt": "2025-12-10T03:20:00.000Z",
-      "link": "https://x.com/hazenlee/status/1998593565006639163",
-      "quote": {
-        "username": "heyibinance",
-        "displayName": "Yi He",
-        "content": "微信被盗。",
-        "link": "https://x.com/heyibinance/status/1998580793074159914"
       },
       "stats": {
         "replies": 0,
