@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-17T10:21:30.297Z",
+  "lastUpdated": "2025-12-17T10:49:12.089Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,105 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 441,
+    "newFetched": 443,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2001243078569697767",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "我也不知道什么时候开始喜欢阿黑颜的",
+      "contentHtml": "我也不知道什么时候开始喜欢阿黑颜的",
+      "publishedAt": "2025-12-17T10:48:00.000Z",
+      "link": "https://x.com/hazenlee/status/2001243078569697767",
+      "media": [
+        {
+          "type": "video",
+          "url": "",
+          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2001242850764439552%2Fimg%2F_JsAxHesVI3BHM7E.jpg%3Fname%3Dsmall%26format%3Dwebp"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001240152845509042",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "只看利率不看汇率都是耍流氓\n我7.1买入rmb如果只看利率的话那肯定是无法做出投资决策的。\n现在再看汇率\n为了那3-5%的年化可能几周就亏了3%\n质押进去存定期 跑都跑不掉",
+      "contentHtml": "只看利率不看汇率都是耍流氓\n我7.1买入rmb如果只看利率的话那肯定是无法做出投资决策的。\n现在再看汇率\n为了那3-5%的年化可能几周就亏了3%\n质押进去存定期 跑都跑不掉",
+      "publishedAt": "2025-12-17T10:36:00.000Z",
+      "link": "https://x.com/hazenlee/status/2001240152845509042",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8XVS_LbAAE81ph.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8XVS_JbAAAzKMi.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Master_Jobber",
+        "displayName": "召北",
+        "content": "仔细想了一下，Tom Lee 确实有道理的，他说BMNR不会卖出ETH而且明年要开始质押，日入百万美元。\n\n要在以前老师纯粹当他放屁，但是这个时间点比较敏感了，川普的目标是明年把利率搞到1%，后果就是本来看起来很垃圾的质押的收益就会凸显出来，毕竟ETH和BTC是唯二承载白皮大资金的，而BTC是无息资产。",
+        "link": "https://x.com/Master_Jobber/status/2000459543382540360",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8MMjVQbMAAGBRL.png"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8MNWIKbcAEKMMz.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001238611099050394",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "还没疯狂星期四呢\n老头你怎么骚起来了",
+      "contentHtml": "还没疯狂星期四呢\n老头你怎么骚起来了",
+      "publishedAt": "2025-12-17T10:30:00.000Z",
+      "link": "https://x.com/hazenlee/status/2001238611099050394",
+      "quote": {
+        "username": "KFC_ES",
+        "displayName": "KFC",
+        "content": "",
+        "link": "https://x.com/KFC_ES/status/2000906754952192176",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8SmDADWgAgaTNg.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8SmEQ5WUAAkB4Z.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2001232937212416061",
       "username": "hazenlee",
@@ -11765,75 +11859,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998586270017368371",
-      "username": "butaidongjiaoyi",
-      "displayName": "如果我不懂",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1932458672346873859%2FPwyHZyGA_bigger.jpg",
-      "content": "已经在预设的条件2下平仓。\n\n今天如果有下一个上涨趋势，会选择多BTC (进一步下跌的话ETH风险较高，止损臂较长)，然后在ETH破位3400以后小仓短空，一直强势突破就可能不做。",
-      "contentHtml": "已经在预设的条件2下平仓。\n\n今天如果有下一个上涨趋势，会选择多BTC (进一步下跌的话ETH风险较高，止损臂较长)，然后在ETH破位3400以后小仓短空，一直强势突破就可能不做。",
-      "publishedAt": "2025-12-10T02:51:00.000Z",
-      "link": "https://x.com/butaidongjiaoyi/status/1998586270017368371",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7xnG8LacAAMPhi.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998583038968803558",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
-      "content": "？你们真聪明",
-      "contentHtml": "？你们真聪明",
-      "publishedAt": "2025-12-10T02:38:00.000Z",
-      "link": "https://x.com/hazenlee/status/1998583038968803558",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7xkrf3aMAEUMwg.jpg"
-        }
-      ],
-      "quote": {
-        "username": "heyibinance",
-        "displayName": "Yi He",
-        "content": "微信被盗。",
-        "link": "https://x.com/heyibinance/status/1998580793074159914"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998581055335575890",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "这波比特币长期持有者SOPR指标下探至本轮牛市低位\n\n比特币长期持有者SOPR 全称为 Long-Term Holder Spent Output Profit Ratio，即长期持有者已花费输出利润比率。它是一个比特币链上指标，针对持有时间超过155天的地址（定义为长期持有者）计算其出售比特币时的利润比率。具体来说，该指标通过比较这些长期持有币的出售价格与最初获取价格的比率来评估：如果 LTH-SOPR 大于1，表示长期持有者在盈利状态下出售；等于1，表示盈亏平衡；小于1，表示亏损出售\n\n这个指标反映了长期持有者的市场行为和整体市场情绪。例如，当 LTH-SOPR 较高时，可能表明长期持有者正在锁定利润，暗示市场可能处于牛市顶部或过热阶段；反之，当其较低（尤其是低于1）时，表明长期持有者在亏损中出售，可能信号市场底部或熊市末期，从而帮助投资者判断潜在的买入或卖出时机",
-      "contentHtml": "这波比特币长期持有者SOPR指标下探至本轮牛市低位\n\n比特币长期持有者SOPR 全称为 Long-Term Holder Spent Output Profit Ratio，即长期持有者已花费输出利润比率。它是一个比特币链上指标，针对持有时间超过155天的地址（定义为长期持有者）计算其出售比特币时的利润比率。具体来说，该指标通过比较这些长期持有币的出售价格与最初获取价格的比率来评估：如果 LTH-SOPR 大于1，表示长期持有者在盈利状态下出售；等于1，表示盈亏平衡；小于1，表示亏损出售\n\n这个指标反映了长期持有者的市场行为和整体市场情绪。例如，当 LTH-SOPR 较高时，可能表明长期持有者正在锁定利润，暗示市场可能处于牛市顶部或过热阶段；反之，当其较低（尤其是低于1）时，表明长期持有者在亏损中出售，可能信号市场底部或熊市末期，从而帮助投资者判断潜在的买入或卖出时机",
-      "publishedAt": "2025-12-10T02:30:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/1998581055335575890",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7xi1jraMAEVEKB.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
