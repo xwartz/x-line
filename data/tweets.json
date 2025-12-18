@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-18T07:00:59.792Z",
+  "lastUpdated": "2025-12-18T07:30:19.262Z",
   "followers": [
     {
       "username": "naval"
@@ -70,9 +70,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 445,
-    "successUsers": 22,
-    "failedUsers": 0
+    "newFetched": 418,
+    "successUsers": 21,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -1606,32 +1606,6 @@
       }
     },
     {
-      "id": "2001273783844220985",
-      "username": "StartupArchive_",
-      "displayName": "Startup Archive",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1744457101370368000%2FqLqXxHuU_bigger.jpg",
-      "content": "John Carmack on what he admires about Elon Musk\n\nProgramming legend John Carmack is asked about his relationship with Elon Musk, to which he replies:\n\n“In some ways we have a similar background. We’re almost exactly the same age, have backgrounds programming personal computers, and have even read similar books that have turned us into the people we are today.”\n\nJohn first met Elon when he was building Armadillo Aerospace. Elon visited Armadillo with his right-hand propulsion guy, and the three of them talked about rockets.\n\n“I think in many corners [Elon] does not get the respect he should for being a wealthy person who could just retire,” John says. “He went all-in, and he could’ve gone bust. There’s plenty of athletes or entertainers who had all the money in the world and blew it. [Elon] could’ve been the business case example of that with the things he was doing: space exploration, electrification of transportation, and Solar City type things. These are big, world-level things. And I have a great deal of admiration that he was willing to throw himself so completely into that.”\n\nJohn contrasts this with the way he approached his own aerospace company:\n\n“I was doing Armadillo Aerospace in this tightly-bounded way. It was ‘John’s crazy money’ at the time that had a finite limit on it. It was never going to impact me or my family if it completely failed, and I was still hedging my bets working at id Software at a time when [Elon] had been really all-in. I have a huge amount of respect for that.”\n\nIt also irritates John when people call Elon “just a business guy”:\n\n“Elon was deeply involved in a lot of the [technical] decisions. Not all of them were perfect, but he cared very much about engine material selection and propellant selection. For years he’d be telling me to ‘Get off that hydrogen peroxide stuff. Liquid oxygen is the only proper oxidizer for this.’ And the times that I’ve gone through the factories with him, we talked about very detailed things like how this weld is made or how this subassembly goes together. He’s really in there a very detailed level . . . I worry a lot that he’s stretched too thin. He’s got the Boring Company and Neuralink and Twitter too whereas I know I have limits on how much I can pay attention to.”\n\nJohn continues:\n\n“I look back at my aerospace side of things, and I’m like, ‘I did not go all-in on that.’ I did not commit myself at a level that it would’ve taken to be successful there. And it’s a weird thing having a discussion with him. He’s the richest man in the world right now, but he operates on a level that is still very much in my wheelhouse on the technical side of things.”\n\nVideo source: @lexfridman (2022)",
-      "contentHtml": "John Carmack on what he admires about Elon Musk\n\nProgramming legend John Carmack is asked about his relationship with Elon Musk, to which he replies:\n\n“In some ways we have a similar background. We’re almost exactly the same age, have backgrounds programming personal computers, and have even read similar books that have turned us into the people we are today.”\n\nJohn first met Elon when he was building Armadillo Aerospace. Elon visited Armadillo with his right-hand propulsion guy, and the three of them talked about rockets.\n\n“I think in many corners [Elon] does not get the respect he should for being a wealthy person who could just retire,” John says. “He went all-in, and he could’ve gone bust. There’s plenty of athletes or entertainers who had all the money in the world and blew it. [Elon] could’ve been the business case example of that with the things he was doing: space exploration, electrification of transportation, and Solar City type things. These are big, world-level things. And I have a great deal of admiration that he was willing to throw himself so completely into that.”\n\nJohn contrasts this with the way he approached his own aerospace company:\n\n“I was doing Armadillo Aerospace in this tightly-bounded way. It was ‘John’s crazy money’ at the time that had a finite limit on it. It was never going to impact me or my family if it completely failed, and I was still hedging my bets working at id Software at a time when [Elon] had been really all-in. I have a huge amount of respect for that.”\n\nIt also irritates John when people call Elon “just a business guy”:\n\n“Elon was deeply involved in a lot of the [technical] decisions. Not all of them were perfect, but he cared very much about engine material selection and propellant selection. For years he’d be telling me to ‘Get off that hydrogen peroxide stuff. Liquid oxygen is the only proper oxidizer for this.’ And the times that I’ve gone through the factories with him, we talked about very detailed things like how this weld is made or how this subassembly goes together. He’s really in there a very detailed level . . . I worry a lot that he’s stretched too thin. He’s got the Boring Company and Neuralink and Twitter too whereas I know I have limits on how much I can pay attention to.”\n\nJohn continues:\n\n“I look back at my aerospace side of things, and I’m like, ‘I did not go all-in on that.’ I did not commit myself at a level that it would’ve taken to be successful there. And it’s a weird thing having a discussion with him. He’s the richest man in the world right now, but he operates on a level that is still very much in my wheelhouse on the technical side of things.”\n\nVideo source: <a href=\"/lexfridman\" title=\"Lex Fridman\">@lexfridman</a> (2022)",
-      "publishedAt": "2025-12-17T12:50:00.000Z",
-      "link": "https://x.com/StartupArchive_/status/2001273783844220985",
-      "media": [
-        {
-          "type": "video",
-          "url": "",
-          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2001267044122042372%2Fimg%2FwWDZKXSYxN1AciSS.jpg%3Fname%3Dsmall%26format%3Dwebp"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2001265903397474391",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -2678,62 +2652,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8VODY-a4AQM_CY.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001063635511087277",
-      "username": "cremieuxrecueil",
-      "displayName": "Crémieux",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1637507712983375875%2FEQHiqVq8_bigger.jpg",
-      "content": "This is a point I want to keep making: Firearm ownership is unrelated to homicide rates.\n\nIllegal firearm ownership, however, is strongly related to homicide rates.\n\nIf you want to cut homicides, arrest illegal gun owners. Send them to jail for possession long before they kill!",
-      "contentHtml": "This is a point I want to keep making: Firearm ownership is unrelated to homicide rates.\n\nIllegal firearm ownership, however, is strongly related to homicide rates.\n\nIf you want to cut homicides, arrest illegal gun owners. Send them to jail for possession long before they kill!",
-      "publishedAt": "2025-12-16T22:55:00.000Z",
-      "link": "https://x.com/cremieuxrecueil/status/2001063635511087277",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8U0xacWAAMgKx6.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "xwanyex",
-        "displayName": "wanye",
-        "content": "There’s no reason to discuss more gun control measures for law abiding citizens so long as liberals in blue cities are unwilling to throw the book at criminals carrying illegal guns. We already have laws that aren’t enforced.",
-        "link": "https://x.com/xwanyex/status/2001009965302165611"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001063756445733346",
-      "username": "bryan_johnson",
-      "displayName": "Bryan Johnson",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1888004001872101378%2FjVNJQ-iu_bigger.jpg",
-      "content": "I’m going to try and achieve immortality by 2039.\n\nOne year of time passes and I remain the same biological age. \n\nI invite you to join me.\n\nThe search for the fountain of youth is the oldest story ever told. It’s been the dream of dreamers for millennia but always painfully out of reach.\n\nFor the first time in the history of life on earth, in just the past 24 months, the window has opened for a conscious being to realistically strive for this goal. It is an absolutely insane moment.\n\nWe currently do not know how 2039 immortality will be achieved. There are new, promising therapies that can turn back the clock decades, but they’re buggy. Sometimes they mistakenly cause cancer. We gotta fix that. \n\nBut we know immortality is possible because nature has already solved it. This isn’t a physics problem like trying to travel faster than the speed of light, it’s a biological engineering problem that evolution has cracked multiple times. \n\nThe freshwater hydra constantly regenerates its own cells and doesn’t succumb to senescence. It is effectively ageless. The \"immortal jellyfish\" (Turritopsis dohrnii) can revert its cells back to a youthful state and restart its life cycle indefinitely. Lobsters produce an especially active form of an enzyme called telomerase that preserves their telomeres and keeps their DNA from degrading as they age. We need to port the software to humans.\n\n2039 is a reasonable target because of the accelerated, AI-driven rate of innovation. AI is morphing from assistant to scientist.  It is powering current researchers with previously unimagined capabilities to enhance discovery and development.\n\nThat, coupled with enhanced biomarker measurement, creates a closed-loop system of improvement that will speed things up dramatically.\n\nThis is what I’ve been doing for six years. As crude as longevity technology is today, the improvements I’ve personally seen are stunning. \n\nI started as a worn-down, inflamed, aged 42 year old who’d broken himself on the rocks of American food slop and entrepreneurship martyrdom. Six years later, my body largely operates at elite 18 year old levels. That includes my cardiovascular system, fertility, strength, and hormones. \n\nNot all is well though. I have mild to moderate hearing loss in my left ear that we can’t fix and my brain is anatomically age 42 (I’m 48).\n\nStill, unreal results.\n\nMy team and I did this by following the scientific method. We measured the biological age of every organ. We referenced the best scientific evidence on how to slow aging and rejuvenate.  We methodically completed these protocols and measured again. Rinse and repeat.\n\nWe could do so much more and faster if we had better measurement and better therapies. Both of which are cooking all over the world right now.\n\nTo speed things up now, I’m currently having thousands of Bryan Johnson organ clones built in a dish. This will allow me to test drugs and other molecules against my biology to accelerate learning and save my body from potential mishaps.\n\nYes, we’ll make mistakes. Hopefully they won’t be fatal. And of course there’s always bad luck to contend with. But I trust in fate and I believe that destiny is going to grant the human race the pleasure of achieving the ultimate: immortality. \n\nWhile immortality would certainly be cool, the real (secret) objective is to focus our collective attention on a positive goal. Something that helps us feel hope and excitement for the future. I personally love the idea of having a child-like mind, 18-year-old physical vibrancy, and a lifetime of wisdom.\n\nThis 2039 goal is as much about AI as it is about us humans. It’s about how we survive giving birth to superintelligence. It’s kind of a big deal. We haven’t done it before. A lot can go wrong. \n\nI figure that one of the best ways to improve the probability that we build safe AI, and don’t kill each other in the meantime, is to transform our shared aspirations from yolo to don’t die.\n\nRight now, we are a suicidal species. We do all kinds of really primitive shit. We unnecessarily kill ourselves with what we eat and how we live our lives. Companies make profits from killing other people with their products. We trash the only home we have. We celebrate these things as virtue.  It’s really fucked up and backward. Soon enough we’ll realize just how infantile we are right now. \n\nThe 2039 goal points us in the right direction.\n\nTo say yes to life and no to death. Defiance even.\n\nIf you’re interested in doing this with me, I’ll continue to share everything I do for free. I’m also going to build this out in Blueprint. We’ll help you do exactly what I’m doing, at a fraction of the cost and effort, alongside an aligned and motivated community.\n\nI think this is the coolest goal imaginable. I find it hard to believe that of all the people who’ve lived, it’s us who get the opportunity to have this moment. \n\nI pray that we have the courage to appreciate the sacredness of our existence. I pray that we will be brave enough to defend her amidst the onslaught of all the forces that would try to end her. \n\nWe don’t know, but we may be the only intelligent life to exist in our corner of the galaxy. I pray we will be warriors, caretakers and stewards of existence and honor the gift that has been bestowed on us.",
-      "contentHtml": "I’m going to try and achieve immortality by 2039.\n\nOne year of time passes and I remain the same biological age. \n\nI invite you to join me.\n\nThe search for the fountain of youth is the oldest story ever told. It’s been the dream of dreamers for millennia but always painfully out of reach.\n\nFor the first time in the history of life on earth, in just the past 24 months, the window has opened for a conscious being to realistically strive for this goal. It is an absolutely insane moment.\n\nWe currently do not know how 2039 immortality will be achieved. There are new, promising therapies that can turn back the clock decades, but they’re buggy. Sometimes they mistakenly cause cancer. We gotta fix that. \n\nBut we know immortality is possible because nature has already solved it. This isn’t a physics problem like trying to travel faster than the speed of light, it’s a biological engineering problem that evolution has cracked multiple times. \n\nThe freshwater hydra constantly regenerates its own cells and doesn’t succumb to senescence. It is effectively ageless. The \"immortal jellyfish\" (Turritopsis dohrnii) can revert its cells back to a youthful state and restart its life cycle indefinitely. Lobsters produce an especially active form of an enzyme called telomerase that preserves their telomeres and keeps their DNA from degrading as they age. We need to port the software to humans.\n\n2039 is a reasonable target because of the accelerated, AI-driven rate of innovation. AI is morphing from assistant to scientist.  It is powering current researchers with previously unimagined capabilities to enhance discovery and development.\n\nThat, coupled with enhanced biomarker measurement, creates a closed-loop system of improvement that will speed things up dramatically.\n\nThis is what I’ve been doing for six years. As crude as longevity technology is today, the improvements I’ve personally seen are stunning. \n\nI started as a worn-down, inflamed, aged 42 year old who’d broken himself on the rocks of American food slop and entrepreneurship martyrdom. Six years later, my body largely operates at elite 18 year old levels. That includes my cardiovascular system, fertility, strength, and hormones. \n\nNot all is well though. I have mild to moderate hearing loss in my left ear that we can’t fix and my brain is anatomically age 42 (I’m 48).\n\nStill, unreal results.\n\nMy team and I did this by following the scientific method. We measured the biological age of every organ. We referenced the best scientific evidence on how to slow aging and rejuvenate.  We methodically completed these protocols and measured again. Rinse and repeat.\n\nWe could do so much more and faster if we had better measurement and better therapies. Both of which are cooking all over the world right now.\n\nTo speed things up now, I’m currently having thousands of Bryan Johnson organ clones built in a dish. This will allow me to test drugs and other molecules against my biology to accelerate learning and save my body from potential mishaps.\n\nYes, we’ll make mistakes. Hopefully they won’t be fatal. And of course there’s always bad luck to contend with. But I trust in fate and I believe that destiny is going to grant the human race the pleasure of achieving the ultimate: immortality. \n\nWhile immortality would certainly be cool, the real (secret) objective is to focus our collective attention on a positive goal. Something that helps us feel hope and excitement for the future. I personally love the idea of having a child-like mind, 18-year-old physical vibrancy, and a lifetime of wisdom.\n\nThis 2039 goal is as much about AI as it is about us humans. It’s about how we survive giving birth to superintelligence. It’s kind of a big deal. We haven’t done it before. A lot can go wrong. \n\nI figure that one of the best ways to improve the probability that we build safe AI, and don’t kill each other in the meantime, is to transform our shared aspirations from yolo to don’t die.\n\nRight now, we are a suicidal species. We do all kinds of really primitive shit. We unnecessarily kill ourselves with what we eat and how we live our lives. Companies make profits from killing other people with their products. We trash the only home we have. We celebrate these things as virtue.  It’s really fucked up and backward. Soon enough we’ll realize just how infantile we are right now. \n\nThe 2039 goal points us in the right direction.\n\nTo say yes to life and no to death. Defiance even.\n\nIf you’re interested in doing this with me, I’ll continue to share everything I do for free. I’m also going to build this out in Blueprint. We’ll help you do exactly what I’m doing, at a fraction of the cost and effort, alongside an aligned and motivated community.\n\nI think this is the coolest goal imaginable. I find it hard to believe that of all the people who’ve lived, it’s us who get the opportunity to have this moment. \n\nI pray that we have the courage to appreciate the sacredness of our existence. I pray that we will be brave enough to defend her amidst the onslaught of all the forces that would try to end her. \n\nWe don’t know, but we may be the only intelligent life to exist in our corner of the galaxy. I pray we will be warriors, caretakers and stewards of existence and honor the gift that has been bestowed on us.",
-      "publishedAt": "2025-12-16T22:55:00.000Z",
-      "link": "https://x.com/bryan_johnson/status/2001063756445733346",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8UzS0paUAA0urR.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -3848,37 +3766,6 @@
       "contentHtml": "纳斯达克申请23小时交易，一周5天，每天只留一小时给我拉屎吃饭吗？🤣",
       "publishedAt": "2025-12-16T04:26:00.000Z",
       "link": "https://x.com/TJ_Research/status/2000784670162559339",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000776981408047436",
-      "username": "wholemars",
-      "displayName": "Whole Mars Catalog",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1593688242771017728%2F1Ocz0cvu_bigger.jpg",
-      "content": "This would be the end of of Silicon Valley",
-      "contentHtml": "This would be the end of of Silicon Valley",
-      "publishedAt": "2025-12-16T03:56:00.000Z",
-      "link": "https://x.com/wholemars/status/2000776981408047436",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Cernovich",
-        "displayName": "Cernovich",
-        "content": "California is set to vote on a 5% wealth tax on billionaires.",
-        "link": "https://x.com/Cernovich/status/2000620047774216237",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8OhSakbYAA071J.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5124,25 +5011,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8N3D08aQAAJr9v.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000566617722548728",
-      "username": "Lifeinvestmoney",
-      "displayName": "Worst Finance Takes",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1921157285428031488%2FsM91BEhf_bigger.jpg",
-      "content": "If you’re a man and don’t feel well or are going through something tough \n\nJust remember no one cares",
-      "contentHtml": "If you’re a man and don’t feel well or are going through something tough \n\nJust remember no one cares",
-      "publishedAt": "2025-12-15T14:00:00.000Z",
-      "link": "https://x.com/Lifeinvestmoney/status/2000566617722548728",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11951,6 +11819,144 @@
         "content": "每个人对于鹰或者鸽都可以有自己的解读，这是比较主观的，没有对错。但是千万别从当天市场的结果去出发，这样你会被带坑里。\n盘后减了些Beta，继续往1的方向前进",
         "link": "https://x.com/TJ_Research/status/1998865367591170060"
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998920301288239126",
+      "username": "butaidongjiaoyi",
+      "displayName": "如果我不懂",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1932458672346873859%2FPwyHZyGA_bigger.jpg",
+      "content": "上条帖子平仓条件2最高点走的，周内破3400回落，符合预期。\n\n但空单我选择了ASTER，因为12/15有空投释放，相当于有双重保险。\n\n此外不能觉得行情就这样永远跌下去了，行情是震荡的，狗庄再回马枪涨几周也很正常，这行情下有一定利润就走为佳。",
+      "contentHtml": "上条帖子平仓条件2最高点走的，周内破3400回落，符合预期。\n\n但空单我选择了ASTER，因为12/15有空投释放，相当于有双重保险。\n\n此外不能觉得行情就这样永远跌下去了，行情是震荡的，狗庄再回马枪涨几周也很正常，这行情下有一定利润就走为佳。",
+      "publishedAt": "2025-12-11T00:58:00.000Z",
+      "link": "https://x.com/butaidongjiaoyi/status/1998920301288239126",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG72Xa7LbsAA7IMT.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG72Xa8IaMAIp_wx.jpg"
+        }
+      ],
+      "quote": {
+        "username": "butaidongjiaoyi",
+        "displayName": "如果我不懂",
+        "content": "能站稳3100就多了一手，三个平仓条件：\n跌回3180；提早碰到3350~3380；明天FOMC议息会议往上有插针。\n\n下一个关键点位看能否在下周一之前站稳3400，周内破了3400会考虑短线空。\n\n所有操作建议只做低倍，2X~5X，10月黑天鹅证明就算是非常低位的10X接单也有爆仓风险。",
+        "link": "https://x.com/butaidongjiaoyi/status/1998425918872948841",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7vTNxjbAAAOZMA.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998914158117687583",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "fogo直接1b的fdv，这些项目方是真的太把自己当回事了。。这项目这个行情超过300m 都是一坨，是个项目就要1b。",
+      "contentHtml": "fogo直接1b的fdv，这些项目方是真的太把自己当回事了。。这项目这个行情超过300m 都是一坨，是个项目就要1b。",
+      "publishedAt": "2025-12-11T00:34:00.000Z",
+      "link": "https://x.com/0xleng1/status/1998914158117687583",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG72R1CrXAAAHI-E.png"
+        }
+      ],
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "总结一下最近的这些打新项目，这个行情一大堆项目要ido，不要盲目打新，选择更重要。牛尾最容易亏的就是在打新了，现在大部分人在二级市场找不到机会就会在一级市场上找机会。容易踩坑。\n\n还有很多大概率被我放弃的项目\n在coinlist的 @rainbowdotme \nrainbow 一个是没有用户一个是周期太久了，太像交代盘了\n在sonar @octra 怎么说呢背景机构和项目撑不起200m的fdv \n\n除了gensyn和fogo，zama我应该也会参与一下，bid几个自己满意的价格，有就有，无就无。fogo目前还没有价格和规则。gensyn也是英拍，价格合适可以玩，拖太久了，这个项目之前也是属于按头路节点的，之前拿了一批mac mini跑了这个项目。这个项目还学megaeth，锁仓的优先拿额度。都是恶心人的规则。\n\nlegion上的 @footballdotfun 需要看看fdv和解锁规则。\n@superformxyz 风险比较高，打了小仓位玩玩风险很大，博稳定收益的话不如看看几个大项目。",
+        "link": "https://x.com/0xleng1/status/1998551284916351141"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998910188326367568",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "大概率最多存10万u 但是感觉抢不到，15%的仓位。",
+      "contentHtml": "大概率最多存10万u 但是感觉抢不到，15%的仓位。",
+      "publishedAt": "2025-12-11T00:18:00.000Z",
+      "link": "https://x.com/0xleng1/status/1998910188326367568",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998908742297894939",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "有个风险还算小的存款项目可以玩一下，正好megaeth退款没地方放，拿来放到 @daylightenergy_  的存款活动，现在这些大融资项目都开始流行要么存款要么打新了。我感觉arc和tempo没那么快，应该还有段时间，希望中间能有个真空给我过度一下，不然钱真不够用了。\n\n需要用usdc或者usds才可以参与，16号开始。50m上限的池子。需要锁仓两个月，这个项目看起来是想赶快tge的样子，要做好锁仓至少存2-3个月的准备。安全性大概率没有问题，稳定币m0 提供支持，金库K3过度到Plasma那边做defi。\n\n还是套皮玩法换汤不换药，和usdai以及usual一样 做了一个稳定币Grid，但是这个存款活动给的是SGrid 不是稳定币Grid  ，和Grid也不是1:1 会有溢价 \n\nsGRID并非稳定币；它是一种自由浮动收益资产，通过质押GRID生成。其价值随Daylight网络中底层物理基础设施资产的净值波动。sGRID并非随时可赎回。\n\n简单来说就是：sGRID 是 GRID 的“带奖励版”，也是全球第一个真正的全球电力资产。你只要持有 sGRID，就能通过 GRID 产生的巨量碳减排权益 + DayFi 的真实电网和发电设备，持续拿到奖励。\n\n前面几个类似的项目比如usual的usd0在旁氏到最夸张的时候崩盘。自己把控好风险，抢得到的话我会存个十万u 尝尝咸淡。\n\n什么dayfi不dayfi的靠电力来产生收入覆盖协议之类的，已经听腻了，翻来覆去都是换皮的东西，说白了找个没人做过的资产赛道来玩一样的东西。只能当成一个存款活动来玩，没什么特别的，项目够大，融资够新，背景不差。\n\n这个项目目前看到的一些fud是 项目转型过，之前2024年做depin，后面做电力，现在要做dayfi稳定币，不过这个今年10月才拿的75m融资，不恶心人的话还是值得参与一下的。\n\n项目整体其实没看到太多的大瑕疵。存款类型的项目自己要dyor 对自己的资金负责。注意风险。",
+      "contentHtml": "有个风险还算小的存款项目可以玩一下，正好megaeth退款没地方放，拿来放到 <a href=\"/daylightenergy_\" title=\"Daylight\">@daylightenergy_</a>  的存款活动，现在这些大融资项目都开始流行要么存款要么打新了。我感觉arc和tempo没那么快，应该还有段时间，希望中间能有个真空给我过度一下，不然钱真不够用了。\n\n需要用usdc或者usds才可以参与，16号开始。50m上限的池子。需要锁仓两个月，这个项目看起来是想赶快tge的样子，要做好锁仓至少存2-3个月的准备。安全性大概率没有问题，稳定币m0 提供支持，金库K3过度到Plasma那边做defi。\n\n还是套皮玩法换汤不换药，和usdai以及usual一样 做了一个稳定币Grid，但是这个存款活动给的是SGrid 不是稳定币Grid  ，和Grid也不是1:1 会有溢价 \n\nsGRID并非稳定币；它是一种自由浮动收益资产，通过质押GRID生成。其价值随Daylight网络中底层物理基础设施资产的净值波动。sGRID并非随时可赎回。\n\n简单来说就是：sGRID 是 GRID 的“带奖励版”，也是全球第一个真正的全球电力资产。你只要持有 sGRID，就能通过 GRID 产生的巨量碳减排权益 + DayFi 的真实电网和发电设备，持续拿到奖励。\n\n前面几个类似的项目比如usual的usd0在旁氏到最夸张的时候崩盘。自己把控好风险，抢得到的话我会存个十万u 尝尝咸淡。\n\n什么dayfi不dayfi的靠电力来产生收入覆盖协议之类的，已经听腻了，翻来覆去都是换皮的东西，说白了找个没人做过的资产赛道来玩一样的东西。只能当成一个存款活动来玩，没什么特别的，项目够大，融资够新，背景不差。\n\n这个项目目前看到的一些fud是 项目转型过，之前2024年做depin，后面做电力，现在要做dayfi稳定币，不过这个今年10月才拿的75m融资，不恶心人的话还是值得参与一下的。\n\n项目整体其实没看到太多的大瑕疵。存款类型的项目自己要dyor 对自己的资金负责。注意风险。",
+      "publishedAt": "2025-12-11T00:12:00.000Z",
+      "link": "https://x.com/0xleng1/status/1998908742297894939",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG72M5-pXAAEUe3U.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG72M5-mWgAMmFhg.jpg"
+        }
+      ],
+      "quote": {
+        "username": "daylightenergy_",
+        "displayName": "Daylight",
+        "content": "We are announcing the start of the GRID Games with the launch of DayFi pre-deposits.\n\nOpening December 16th, 8am ET (1pm UTC)\n\ngday",
+        "link": "https://x.com/daylightenergy_/status/1998416560764154359",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1998415443808174080%2Fimg%2FRZs4bjQczIwTBZ3Z.jpg%3Fname%3Dsmall%26format%3Dwebp"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1998908018000290102",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "最近市场真的很枯，几个打新都有风险。不知道 Buidlpad 什么时候再发新的一期，brevis有点墨迹了。至少Buidlpad 是真没亏过钱。记得上一个项目还是 @MMTFinance，也是直接上币安现货的。\n\n当时看盘前的价格也以为 MMT 要没什么利润了，没想到 MMT 拉盘之后还是赚钱的。现在也较高点跌去不少。不用去二级买币，有BNB的可以去持去参与理财，拿点免费的空投就好。\n\n希望熊市真的来之前，还是多来点像样的打新，存钱过冬吧。\nbinance.com/zh-CN/bnb",
+      "contentHtml": "最近市场真的很枯，几个打新都有风险。不知道 Buidlpad 什么时候再发新的一期，brevis有点墨迹了。至少Buidlpad 是真没亏过钱。记得上一个项目还是 <a href=\"/MMTFinance\" title=\"MomentumⓂ️Ⓜ️T\">@MMTFinance</a>，也是直接上币安现货的。\n\n当时看盘前的价格也以为 MMT 要没什么利润了，没想到 MMT 拉盘之后还是赚钱的。现在也较高点跌去不少。不用去二级买币，有BNB的可以去持去参与理财，拿点免费的空投就好。\n\n希望熊市真的来之前，还是多来点像样的打新，存钱过冬吧。\n<a href=\"http://binance.com/zh-CN/bnb\">binance.com/zh-CN/bnb</a>",
+      "publishedAt": "2025-12-11T00:09:00.000Z",
+      "link": "https://x.com/0xleng1/status/1998908018000290102",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG71aFbzXcAEpEkm.jpg"
+        }
+      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
