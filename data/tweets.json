@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-18T13:54:58.948Z",
+  "lastUpdated": "2025-12-18T14:20:11.004Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,42 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 441,
+    "newFetched": 440,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2001651964128416022",
+      "username": "NickTimiraos",
+      "displayName": "Nick Timiraos",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1819946702050115584%2F5Gvbvs3u_bigger.jpg",
+      "content": "From @fcastofthemonth \n\n\"This is totally inexcusable. The BLS just assumed rent/OER were zero for October. I am sure they have a good technical explanation for this, but the only way you get a two-month average for rent of 0.06% and OER at 0.135% is assuming October was zero. There is just no world in which this was a good idea, but here we are.\"",
+      "contentHtml": "From <a href=\"/fcastofthemonth\" title=\"Omair Sharif\">@fcastofthemonth</a> \n\n\"This is totally inexcusable. The BLS just assumed rent/OER were zero for October. I am sure they have a good technical explanation for this, but the only way you get a two-month average for rent of 0.06% and OER at 0.135% is assuming October was zero. There is just no world in which this was a good idea, but here we are.\"",
+      "publishedAt": "2025-12-18T13:53:00.000Z",
+      "link": "https://x.com/NickTimiraos/status/2001651964128416022",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
+      "quote": {
+        "username": "ernietedeschi",
+        "displayName": "Ernie Tedeschi",
+        "content": "Some CPI observations:\nThe recent cooling in housing inflation (rent & OER) accelerated significantly in Oct & Nov. 3M CPI housing inflation was 1.6% annualized, vs 3.8% three months ago. This will show up in PCE too, but it's so sharp we should wait for more data to confirm. /1",
+        "link": "https://x.com/ernietedeschi/status/2001649835901096319",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8dJGgbXAAAZRPo.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2001650278538580015",
       "username": "BensonTWN",
@@ -12032,27 +12063,6 @@
         {
           "type": "image",
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG73Qw-HbYAAci6D.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1998981346006610319",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1896132624940191744%2Fh18Fvuz6_bigger.jpg",
-      "content": "Celo 2025：先把产品跑赢之后，再静静地调整完善经济学模型\n\n最近贝莱德递交了ETH Staking的ETF申请，而贝莱德的CEOLarry Fink也重申了代币经济学现在正处于类“互联网时期”的前期。这让我重新开始研究ETH的各个L2找寻机会。这其中Celo我写了一篇科普供大家参考。\n\n如果把2024年的Celo比作一辆突然踩下油门的跑车，那么2025年它要做的，是给这辆跑车装上一个真正匹配马力的变速箱和刹车系统。\n\n先看数据，把情绪和叙事先放到一边。\n\n截至2025年12月，Celo的日活跃地址长期占据Ethereum L2第一名，稳定币转账总量累计突破3亿笔，链上USDT和USDC的转移量已经超过多个传统L1。MiniPay（内嵌在Opera Mini浏览器里的稳定币钱包）在非洲和拉美的自然增长，把“链上用户”和“真实人类”这两个概念在Celo身上第一次几乎画上了等号。更重要的是，网络实际收入（主要是序列器收入）相比2024年1月增长了约10倍，这在L2普遍还在靠VC补贴度日的当下，显得格外刺眼。\n\n也就是说，Celo已经悄悄做到了绝大多数项目喊了五年却没做到的事：产品真正跑通、用户真正到来、收入真正为正。\n\n但讽刺的是，代币CELO的价格表现却远远没有跟上这些基本面的狂飙。原因并不复杂——旧的代币经济学在高吞吐时代彻底失灵了。\n\n2019-2024年的Celo，通胀率一度高达9%左右，主要用来激励验证者、支付Gas（当时Gas还是用CELO支付的）和社区奖励。这套机制在日交易量几万笔的时候运转良好，但当链上每天真实发生几百万笔稳定币转账、序列器每天能赚几十万美元真实收入时，旧机制就变成了一个奇怪的景象：网络越赚钱，空投给验证者的CELO越多，卖压反而越大。结果是基本面与代币价格严重脱节，甚至形成了“网络越成功、代币越惨”的诡异负反馈。\n\n这正是当前社区推动的“Tokenomics Initiative”试图解决的核心矛盾。\n\n根据cLabs和Celo基金会最近抛出的几个方向性提案，大概率会在2026年落地以下组合拳：\n\n1. 将Gas费从CELO改为完全使用稳定币支付（已部分实现），彻底切断“网络赚钱→增发CELO→卖压”的回路。\n2. 引入真实收入的Buyback & Burn或Buyback & Distribute机制，把序列器收入的一部分用于回购CELO并销毁或重新分配给staker。\n3. 把每年通胀率锚定在接近零的水平（类似2024年“大减半”后的1%），让CELO从“通胀型治理币”彻底转型为“收益型资产”。\n4. 可能引入超额储备金机制（类似Lido的stETH模型），让staked CELO也能捕获一部分网络真实收益。\n\n如果这些提案全部落地，CELO的代币模型将从“以太坊2017版PoS”进化到接近“L2时代的Arbitrum+Optimism混合体”，甚至带一点Lido的影子：即代币价格将首次与网络真实现金流正相关，而不是反相关。\n\n这不是简单的“加个销毁就万事大吉”，其实更准确的说法是：Celo选择了一条完全相反的路径——先把最难的产品和用户问题彻底解决，再回过头用最从容的姿态调整经济学模型。这种顺序让代币在过去两年显得格外安静，却也给了现在的调整最硬的底气：饼已经做出来了，而且每天都被真实世界的人吃掉一大块。\n\n更大的背景是，Ethereum L2的终局竞争已经从“谁的TPS更高”“谁的叙事更强”变成了“谁能真正捕获全球下10亿用户的稳定币支付需求”。Celo目前在这一赛道已经大幅领先，但领先的优势能不能固化，取决于它能否把“链上现金流”转化为“代币价值支撑”。这正是2025-2026年社区治理最关键的战场。\n\nVision 2030里提到的“万亿美元级链上经济体”听起来遥远，但拆解一下其实没那么玄乎：如果Celo能持续保持稳定币转账年化300-500亿美元的规模（现在已经接近这个量级），并把其中哪怕1-2%的价值捕获到代币层面，就足以支撑百亿美元级别的FDV。这不是靠炒作，而是靠最朴素的现金流折现。\n\n所以，当前这场看似低调的代币经济学讨论，其实是Celo从“优秀L2”迈向“全球结算层”的临门一脚。它不再需要向世界证明自己能活下来，它现在要证明的是：当一个区块链真的服务了数千万真实用户、产生了可观现金流之后，它的原生代币是否配得上分享这份成功。\n\n答案很快就会揭晓，而揭晓的方式，不是靠KOL喊单，而是靠一组冷冰冰却无比诚实的链上数字。\n\n这是2025年最被低估的一场硬仗，也是最值得长期关注的一场硬仗。",
-      "contentHtml": "Celo 2025：先把产品跑赢之后，再静静地调整完善经济学模型\n\n最近贝莱德递交了ETH Staking的ETF申请，而贝莱德的CEOLarry Fink也重申了代币经济学现在正处于类“互联网时期”的前期。这让我重新开始研究ETH的各个L2找寻机会。这其中Celo我写了一篇科普供大家参考。\n\n如果把2024年的Celo比作一辆突然踩下油门的跑车，那么2025年它要做的，是给这辆跑车装上一个真正匹配马力的变速箱和刹车系统。\n\n先看数据，把情绪和叙事先放到一边。\n\n截至2025年12月，Celo的日活跃地址长期占据Ethereum L2第一名，稳定币转账总量累计突破3亿笔，链上USDT和USDC的转移量已经超过多个传统L1。MiniPay（内嵌在Opera Mini浏览器里的稳定币钱包）在非洲和拉美的自然增长，把“链上用户”和“真实人类”这两个概念在Celo身上第一次几乎画上了等号。更重要的是，网络实际收入（主要是序列器收入）相比2024年1月增长了约10倍，这在L2普遍还在靠VC补贴度日的当下，显得格外刺眼。\n\n也就是说，Celo已经悄悄做到了绝大多数项目喊了五年却没做到的事：产品真正跑通、用户真正到来、收入真正为正。\n\n但讽刺的是，代币CELO的价格表现却远远没有跟上这些基本面的狂飙。原因并不复杂——旧的代币经济学在高吞吐时代彻底失灵了。\n\n2019-2024年的Celo，通胀率一度高达9%左右，主要用来激励验证者、支付Gas（当时Gas还是用CELO支付的）和社区奖励。这套机制在日交易量几万笔的时候运转良好，但当链上每天真实发生几百万笔稳定币转账、序列器每天能赚几十万美元真实收入时，旧机制就变成了一个奇怪的景象：网络越赚钱，空投给验证者的CELO越多，卖压反而越大。结果是基本面与代币价格严重脱节，甚至形成了“网络越成功、代币越惨”的诡异负反馈。\n\n这正是当前社区推动的“Tokenomics Initiative”试图解决的核心矛盾。\n\n根据cLabs和Celo基金会最近抛出的几个方向性提案，大概率会在2026年落地以下组合拳：\n\n1. 将Gas费从CELO改为完全使用稳定币支付（已部分实现），彻底切断“网络赚钱→增发CELO→卖压”的回路。\n2. 引入真实收入的Buyback & Burn或Buyback & Distribute机制，把序列器收入的一部分用于回购CELO并销毁或重新分配给staker。\n3. 把每年通胀率锚定在接近零的水平（类似2024年“大减半”后的1%），让CELO从“通胀型治理币”彻底转型为“收益型资产”。\n4. 可能引入超额储备金机制（类似Lido的stETH模型），让staked CELO也能捕获一部分网络真实收益。\n\n如果这些提案全部落地，CELO的代币模型将从“以太坊2017版PoS”进化到接近“L2时代的Arbitrum+Optimism混合体”，甚至带一点Lido的影子：即代币价格将首次与网络真实现金流正相关，而不是反相关。\n\n这不是简单的“加个销毁就万事大吉”，其实更准确的说法是：Celo选择了一条完全相反的路径——先把最难的产品和用户问题彻底解决，再回过头用最从容的姿态调整经济学模型。这种顺序让代币在过去两年显得格外安静，却也给了现在的调整最硬的底气：饼已经做出来了，而且每天都被真实世界的人吃掉一大块。\n\n更大的背景是，Ethereum L2的终局竞争已经从“谁的TPS更高”“谁的叙事更强”变成了“谁能真正捕获全球下10亿用户的稳定币支付需求”。Celo目前在这一赛道已经大幅领先，但领先的优势能不能固化，取决于它能否把“链上现金流”转化为“代币价值支撑”。这正是2025-2026年社区治理最关键的战场。\n\nVision 2030里提到的“万亿美元级链上经济体”听起来遥远，但拆解一下其实没那么玄乎：如果Celo能持续保持稳定币转账年化300-500亿美元的规模（现在已经接近这个量级），并把其中哪怕1-2%的价值捕获到代币层面，就足以支撑百亿美元级别的FDV。这不是靠炒作，而是靠最朴素的现金流折现。\n\n所以，当前这场看似低调的代币经济学讨论，其实是Celo从“优秀L2”迈向“全球结算层”的临门一脚。它不再需要向世界证明自己能活下来，它现在要证明的是：当一个区块链真的服务了数千万真实用户、产生了可观现金流之后，它的原生代币是否配得上分享这份成功。\n\n答案很快就会揭晓，而揭晓的方式，不是靠KOL喊单，而是靠一组冷冰冰却无比诚实的链上数字。\n\n这是2025年最被低估的一场硬仗，也是最值得长期关注的一场硬仗。",
-      "publishedAt": "2025-12-11T05:01:00.000Z",
-      "link": "https://x.com/hazenlee/status/1998981346006610319",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG73O78aacAAqfHy.jpg"
         }
       ],
       "stats": {
