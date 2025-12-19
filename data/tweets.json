@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-19T05:55:52.412Z",
+  "lastUpdated": "2025-12-19T06:28:11.624Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 442,
+    "newFetched": 444,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2001897731338747917",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "周五反思",
+      "contentHtml": "周五反思",
+      "publishedAt": "2025-12-19T06:09:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2001897731338747917",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8grXJVbMAAvucS.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2001891802664833416",
       "username": "TJ_Research",
@@ -11931,27 +11952,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1999304530375376911",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "口在收紧（比特币已实现盈利下降 & 已实现亏损上升）\n\n图中上部指标为 #BTC 价格\n图中中部指标为比特币已实现盈利（365日MA）和比特币已实现损失（365日MA）\n图中下部指标为比特币已实现盈利（365日MA）跟比特币已实现损失（365日MA）之比，也即“已实现盈亏比（365日MA）”\n\n该比率通过比较过去365天内投资者实现的盈利（卖出价格高于买入价格的部分）与亏损（卖出价格低于买入价格的部分）的移动平均值，反映了市场参与者的整体盈亏状态\n\n在牛市，盈利亏损比通常较高，因为投资者倾向于在价格高位获利了结\n在熊市，该比率通常较低，因为投资者可能在亏损状态下卖出，反映市场恐慌或投降行为\n\n使用365日移动平均线平滑了短期波动，突出了长期趋势。这个指标适合用来判断市场是否处于过热（过高比率）或过度恐慌（过低比率）的状态，是判断市场周期和趋势的有力工具",
-      "contentHtml": "口在收紧（比特币已实现盈利下降 & 已实现亏损上升）\n\n图中上部指标为 <a href=\"/search?q=%23BTC\">#BTC</a> 价格\n图中中部指标为比特币已实现盈利（365日MA）和比特币已实现损失（365日MA）\n图中下部指标为比特币已实现盈利（365日MA）跟比特币已实现损失（365日MA）之比，也即“已实现盈亏比（365日MA）”\n\n该比率通过比较过去365天内投资者实现的盈利（卖出价格高于买入价格的部分）与亏损（卖出价格低于买入价格的部分）的移动平均值，反映了市场参与者的整体盈亏状态\n\n在牛市，盈利亏损比通常较高，因为投资者倾向于在价格高位获利了结\n在熊市，该比率通常较低，因为投资者可能在亏损状态下卖出，反映市场恐慌或投降行为\n\n使用365日移动平均线平滑了短期波动，突出了长期趋势。这个指标适合用来判断市场是否处于过热（过高比率）或过度恐慌（过低比率）的状态，是判断市场周期和趋势的有力工具",
-      "publishedAt": "2025-12-12T02:25:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/1999304530375376911",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7703kdacAAu3dN.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
