@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-19T11:51:22.273Z",
+  "lastUpdated": "2025-12-19T12:36:21.338Z",
   "followers": [
     {
       "username": "naval"
@@ -75,6 +75,39 @@
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2001987124309164048",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "两月前我提的idea（引用推）:\n把推特KOL行情观点推文\n按看多/看空分组过滤列出\n\n在@MossAI_Official 推特插件新版实现了！\n如⬇️视频，还做了用推文统计情绪指标\n\n俗话说选币=选队友\n选方向其实也是，再发挥想象力：\n汇总KOL们每天多/空观点推文后\n把红绿色头像打点在BTC的K线上\n如图2...想想就刺激啊😅",
+      "contentHtml": "两月前我提的idea（引用推）:\n把推特KOL行情观点推文\n按看多/看空分组过滤列出\n\n在<a href=\"/MossAI_Official\" title=\"MOSS\">@MossAI_Official</a> 推特插件新版实现了！\n如⬇️视频，还做了用推文统计情绪指标\n\n俗话说选币=选队友\n选方向其实也是，再发挥想象力：\n汇总KOL们每天多/空观点推文后\n把红绿色头像打点在BTC的K线上\n如图2...想想就刺激啊😅",
+      "publishedAt": "2025-12-19T12:05:00.000Z",
+      "link": "https://x.com/coolish/status/2001987124309164048",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8h5qX5bMAAy64Q.png"
+        }
+      ],
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "所有在推特上发过对BTC大盘行情看法推文的博主，\n应该都有过一个共同体验，就是一定会有人评论：\n“那接下来方向是？”\n这应该是“看推特炒币”最核心简单、经久不衰的需求表达。\n\n所以我想到，如果有这么个推特AI插件，大家会不会挺想用，我用AI画了个帮助理解的产品示意图：\n把推特上所有对BTC大盘，或者某标的看法的推文，\n按多/空左右同时并列展示，按日、周、月分组排序列出，\n时间分组内，可以按推文热度排序，\n这样是不是无论当做参考/反指，了解当下和历史舆情，都很方便。\n\n（这个想法的启发来自于，前几天看到Elon宣布几周后，推特推荐算法将全面由，会理解推文具体内容的Grok接管）",
+        "link": "https://x.com/coolish/status/1980598421401850225",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG3x-LaSWgAAeU_q.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2001981949246951863",
       "username": "ai_9684xtpa",
@@ -11924,27 +11957,6 @@
         {
           "type": "image",
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG785JI0agAEHNGC.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1999379163497800106",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "「1011 闪崩后开空内幕大佬」13 分钟前将 5152 $BTC 转移至新地址 bc1q2...cv9mn，价值 4.76 亿美元，接收地址暂未转移或卖出\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-      "contentHtml": "「1011 闪崩后开空内幕大佬」13 分钟前将 5152 <a href=\"/search?q=%23BTC\">$BTC</a> 转移至新地址 bc1q2...cv9mn，价值 4.76 亿美元，接收地址暂未转移或卖出\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/bc1q23e3x8hwxtl67w62uu4p7cypac9n2h62jcv9mn\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/search?q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
-      "publishedAt": "2025-12-12T07:21:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/1999379163497800106",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG784vYeaMAAnLUC.jpg"
         }
       ],
       "stats": {
