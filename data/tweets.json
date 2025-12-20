@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T06:51:51.289Z",
+  "lastUpdated": "2025-12-20T07:16:10.474Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 444,
+    "newFetched": 443,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2002271611005911420",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "悠閒的週末，帶狗狗出來玩。",
+      "contentHtml": "悠閒的週末，帶狗狗出來玩。",
+      "publishedAt": "2025-12-20T06:55:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2002271611005911420",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8l_ZtCbMAIq4g-.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2002264078883172859",
       "username": "Bitfatty",
@@ -11880,39 +11901,6 @@
           {
             "type": "image",
             "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG79NIxNbAAAlWEY.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1999503352141611452",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
-      "content": "挂了个新低止盈2512打止盈了\n不能说一模一样吧\n可以说是非常相似了\n我是交易员！😭👊🏻",
-      "contentHtml": "挂了个新低止盈2512打止盈了\n不能说一模一样吧\n可以说是非常相似了\n我是交易员！😭👊🏻",
-      "publishedAt": "2025-12-12T15:35:00.000Z",
-      "link": "https://x.com/hazenlee/status/1999503352141611452",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7-pspPagAM7mwO.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "纳指的走势也不是很乐观，目前这波反弹其实只是10.11清算的跌破上升趋势的回抽，而且伴随着成交量的下降，如果进一步失守低点，则lower high形成。可以期待一个lower low的到来。那在这个过程中我们如何做好对冲操作呢？一种是逢低买入SQQQ，且做好计算约为整体持仓的1/3可以对冲纳指或者QQQ的等效持仓。另一种就是美股合约，但是美股合约CME上的都是带交割的，说实话我玩币圈的永续习惯了移仓有点不是很习惯，大家小资金的可以尝试一下币圈的RWA产品，比如MSX @MSX_CN的美股合约，包含QQQ的期货。",
-        "link": "https://x.com/hazenlee/status/1998981025008062778",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG73MnBFbcAA7iwy.png"
           }
         ]
       },
