@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T21:15:29.820Z",
+  "lastUpdated": "2025-12-20T21:30:59.507Z",
   "followers": [
     {
       "username": "naval"
@@ -70,9 +70,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 442,
-    "successUsers": 22,
-    "failedUsers": 0
+    "newFetched": 402,
+    "successUsers": 20,
+    "failedUsers": 2
   },
   "tweets": [
     {
@@ -201,31 +201,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8ne6K4bMAIzTaE.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2002376343967686743",
-      "username": "MichaelAArouet",
-      "displayName": "Michael A. Arouet",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1453444745297080320%2FpfnbbC6A_bigger.jpg",
-      "content": "Argentina’s economy when Javier Milei became president vs. today:\n\nGDP growth: from -1.6% to +5.2%\n\nInflation: from 211% to 31%\n\nPoverty rate: from 42% to 32%\n\nSorry comrades “economists”, free market works, and it works fast.",
-      "contentHtml": "Argentina’s economy when Javier Milei became president vs. today:\n\nGDP growth: from -1.6% to +5.2%\n\nInflation: from 211% to 31%\n\nPoverty rate: from 42% to 32%\n\nSorry comrades “economists”, free market works, and it works fast.",
-      "publishedAt": "2025-12-20T13:51:00.000Z",
-      "link": "https://x.com/MichaelAArouet/status/2002376343967686743",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8neq-UXsAAGSp3.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -7203,37 +7178,6 @@
       }
     },
     {
-      "id": "2000776981408047436",
-      "username": "wholemars",
-      "displayName": "Whole Mars Catalog",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1593688242771017728%2F1Ocz0cvu_bigger.jpg",
-      "content": "This would be the end of of Silicon Valley",
-      "contentHtml": "This would be the end of of Silicon Valley",
-      "publishedAt": "2025-12-16T03:56:00.000Z",
-      "link": "https://x.com/wholemars/status/2000776981408047436",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Cernovich",
-        "displayName": "Cernovich",
-        "content": "California is set to vote on a 5% wealth tax on billionaires.",
-        "link": "https://x.com/Cernovich/status/2000620047774216237",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8OhSakbYAA071J.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2000769939154862117",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -11857,6 +11801,42 @@
           }
         ]
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999304530375376911",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "口在收紧（比特币已实现盈利下降 & 已实现亏损上升）\n\n图中上部指标为 #BTC 价格\n图中中部指标为比特币已实现盈利（365日MA）和比特币已实现损失（365日MA）\n图中下部指标为比特币已实现盈利（365日MA）跟比特币已实现损失（365日MA）之比，也即“已实现盈亏比（365日MA）”\n\n该比率通过比较过去365天内投资者实现的盈利（卖出价格高于买入价格的部分）与亏损（卖出价格低于买入价格的部分）的移动平均值，反映了市场参与者的整体盈亏状态\n\n在牛市，盈利亏损比通常较高，因为投资者倾向于在价格高位获利了结\n在熊市，该比率通常较低，因为投资者可能在亏损状态下卖出，反映市场恐慌或投降行为\n\n使用365日移动平均线平滑了短期波动，突出了长期趋势。这个指标适合用来判断市场是否处于过热（过高比率）或过度恐慌（过低比率）的状态，是判断市场周期和趋势的有力工具",
+      "contentHtml": "口在收紧（比特币已实现盈利下降 & 已实现亏损上升）\n\n图中上部指标为 <a href=\"/search?q=%23BTC\">#BTC</a> 价格\n图中中部指标为比特币已实现盈利（365日MA）和比特币已实现损失（365日MA）\n图中下部指标为比特币已实现盈利（365日MA）跟比特币已实现损失（365日MA）之比，也即“已实现盈亏比（365日MA）”\n\n该比率通过比较过去365天内投资者实现的盈利（卖出价格高于买入价格的部分）与亏损（卖出价格低于买入价格的部分）的移动平均值，反映了市场参与者的整体盈亏状态\n\n在牛市，盈利亏损比通常较高，因为投资者倾向于在价格高位获利了结\n在熊市，该比率通常较低，因为投资者可能在亏损状态下卖出，反映市场恐慌或投降行为\n\n使用365日移动平均线平滑了短期波动，突出了长期趋势。这个指标适合用来判断市场是否处于过热（过高比率）或过度恐慌（过低比率）的状态，是判断市场周期和趋势的有力工具",
+      "publishedAt": "2025-12-12T02:25:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/1999304530375376911",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7703kdacAAu3dN.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999273465803866316",
+      "username": "HaywarZhu",
+      "displayName": "Haywar | 海老师 🗳️",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1904297408273772544%2FTwlamTm3_bigger.jpg",
+      "content": "最后一张擦屎仍然雪白 顺手塞给朋友擦嘴装乖",
+      "contentHtml": "最后一张擦屎仍然雪白 顺手塞给朋友擦嘴装乖",
+      "publishedAt": "2025-12-12T00:21:00.000Z",
+      "link": "https://x.com/HaywarZhu/status/1999273465803866316",
       "stats": {
         "replies": 0,
         "retweets": 0,
