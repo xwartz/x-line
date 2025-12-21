@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-21T08:22:41.449Z",
+  "lastUpdated": "2025-12-21T08:47:28.586Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,107 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 443,
-    "successUsers": 22,
-    "failedUsers": 0
+    "newFetched": 424,
+    "successUsers": 21,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2002658642907345084",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "行情都快走成一條直線了，現在就等聖誕節機構都下班後，看市場游資想衝哪個方向。\n\n我主觀認為會有一波漲幅，看看 96K 摸不摸得到。",
+      "contentHtml": "行情都快走成一條直線了，現在就等聖誕節機構都下班後，看市場游資想衝哪個方向。\n\n我主觀認為會有一波漲幅，看看 96K 摸不摸得到。",
+      "publishedAt": "2025-12-21T08:33:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2002658642907345084",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8rek1ibgAAxn4M.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2002658082309222887",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "如果是将军的部下\n那就没招了吧",
+      "contentHtml": "如果是将军的部下\n那就没招了吧",
+      "publishedAt": "2025-12-21T08:31:00.000Z",
+      "link": "https://x.com/hazenlee/status/2002658082309222887",
+      "quote": {
+        "username": "SpecterAnalyst",
+        "displayName": "Specter",
+        "content": "Onchain message from the victim to the attacker",
+        "link": "https://x.com/SpecterAnalyst/status/2002289872707465681",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8mQA-_XwAAbJEy.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2002656984970244177",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "感謝狗哥推薦，歡迎大家一起來用 CoinKarma！",
+      "contentHtml": "感謝狗哥推薦，歡迎大家一起來用 CoinKarma！",
+      "publishedAt": "2025-12-21T08:26:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2002656984970244177",
+      "quote": {
+        "username": "b66ny",
+        "displayName": "b12ny",
+        "content": "解析 CoinKarma Overall LIQ  ！\n— 從 BTC 與 ETH 圖表看出市場流動性\n\n現階段的市場最適合多學習一些工具如何使用，除了 vibe coding 外，最直接的方式就是直接使用現有大佬們的來用，包括了像是前陣子很多人整理魏神 API 的實盤分析 app ，還有 coinglass 各種指標之外，之前有提過我常用 @bensonTWN 班森大大的 @coinkarma_ 來分析市場數據。\n\n現在首次訂閱 CoinKarma Gold Monthly 首月優惠折扣碼 「b12ny」 輸入後只要 $10 活動至 12/31 23:59 ！\n\n🔗 coinkarma.co/zh-tw/join/4802…\n\n以上面連結購買 CoinKarma Gold Monthly 並輸入折扣碼的用戶，可獲得我整理的三步驟交易操作！\n\n會經常使用的原因之一，是我也是屬於一個數據流交易的人，我始終認為所有的價格波動都來自於資金的出入，因此我最早是從鏈上數據起家的，到後來配合事件驅動的短線延伸出許多數據輔助的交易方法。\n\n（搜我推特應該都能找到像是最近重整的期貨數據指南，還有之前分享的視覺篩選器與漲幅榜策略等等。）\n\n最重要的核心始終來自於這些指標定義與工具的使用方法，理論知識的價值在於其解釋和預測現實世界的能力。\n\n所以個人整理了對 CoinKarma 平台的各項功能進行了系統性梳理後，透過分析現在的 BTC 與 ETH  4 小時級別 K 線圖進行說明。\n\n主要使用的是 Overall LIQ 指標，如何輔助識別潛在的市場轉折點，還有在其不同市場結構下的適用性與局限性。\n\nOverall LIQ 指標核心概念在於它並非是一個獨立的買賣信號，而是一個市場整體流動性的溫度計，主要實在以市值加權計算，反映整個加密貨幣市場流動性狀況的宏觀指標。\n\n它衡量的是市場主力（大戶或機構）向上拉盤或向下砸盤所需付出的成本。\n\n‼️重點標記‼️\n\n綠色柱體（> 2）：代表市場下方存在密集的買單（流動性），主力向下砸盤的成本較高，因此價格在此處獲得支撐的可能性較大。\n\n紅色柱體（< -2）：代表市場上方存在密集的賣單（流動性），主力向上拉盤的成本較高，因此價格在此處遭遇壓力的可能性較大。\n\n根據 CoinKarma 的官方文檔，此指標在震盪行情中最為有效，而在單邊趨勢行情中可能會出現鈍化現象，因此在進行圖表分析時，優勢在於震盪行情中找尋潛在的反轉區域。\n\n剛好從今年的整個盤勢來看，可以視為一個比較大的寬幅震盪區間（中間有部分趨勢盤面），我分成三個觀察點。\n\n觀察點一：相對低點與底部支撐的確認（3 - 4月）\n\n在兩張圖表中可以清晰地看到，在 4 月底價格觸及階段性低點時，下方的 Overall LIQ 指標均出現了非常顯著的密集綠色柱體，並且其峰值遠超 +2 的基準線。\n\n也表現了指標的設計原理，當價格下跌到一定程度，下方的買盤流動性變得極其深厚，使得主力繼續砸盤的成本急劇升高，從而大概率形成一個價格反彈的底部區間。\n\n觀察點二：頂部壓力的預警（ 8 - 10 月）\n\n同樣在 8 至 10 月的階段性高點附近，Overall LIQ 指標均呈現出深紅色的柱體，表明市場上方的賣壓大，對於希望向上拉盤的主力而言，意味著巨大的成本。\n\n而 BTC 與 ETH 價格在這兩個時間點均未能有效突破，隨後掉頭向下，也可以作為頂部壓力訊號的參考點，是獲利了結或建立空頭倉位的價格區間。\n\n觀察點三：相對低點再次出現（ 11 - 12 月）\n\nOverall LIQ 指標再次出現多次綠色柱體，可以視為潛在的支撐訊號，是一個我一直在評估考慮進場的位置，但距離 3 至 4 月的價格還有一些空間，所以會觀察這邊的支撐效果，配合不同的左右側交易邏輯去嘗試進場。\n\n而這個指標的侷限性在於識別單邊趨勢中的鈍化現象，任何技術指標都不是萬能的，可以看到在 5 至 8 月這邊，有一個比較明顯的單邊趨勢，中間跳了幾次紅柱。\n\n有時候市場的宏觀情緒，與重大行業新聞驅動的力量還是可能超過局部的流動性結構，尤其今年川普瞎雞巴亂喊關稅跟一些與經濟相關的內容，都可能影響短期投機資金的走向。\n\n所以在這種情況下，我通常會結合其他趨勢判斷工具，例如配合 MA 如價格持續運行在 200 週期均線下方，謹慎評估Overall LIQ 的綠柱買入訊號，或參考CVD 、合約數據持倉與目前的多空資金費率方向。\n\n綜合以上分析，簡單說明了基於 Overall LIQ 的分析，歡迎使用文內折扣碼購買並私訊我註冊信箱，即可獲得我整理的三步驟交易操作！",
+        "link": "https://x.com/b66ny/status/2002656557780381951",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8rY652acAA0OgT.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2002656733068734858",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "每次散户举报老鼠仓\n举报成功了也没啥快乐\n反而被过去无法证实的无数次被割被绿的痛苦困扰一生",
+      "contentHtml": "每次散户举报老鼠仓\n举报成功了也没啥快乐\n反而被过去无法证实的无数次被割被绿的痛苦困扰一生",
+      "publishedAt": "2025-12-21T08:25:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2002656733068734858",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8rdrlGbMAIX8eD.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2002646117230768399",
       "username": "CycleStudies",
@@ -545,31 +641,6 @@
       }
     },
     {
-      "id": "2002376343967686743",
-      "username": "MichaelAArouet",
-      "displayName": "Michael A. Arouet",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1453444745297080320%2FpfnbbC6A_bigger.jpg",
-      "content": "Argentina’s economy when Javier Milei became president vs. today:\n\nGDP growth: from -1.6% to +5.2%\n\nInflation: from 211% to 31%\n\nPoverty rate: from 42% to 32%\n\nSorry comrades “economists”, free market works, and it works fast.",
-      "contentHtml": "Argentina’s economy when Javier Milei became president vs. today:\n\nGDP growth: from -1.6% to +5.2%\n\nInflation: from 211% to 31%\n\nPoverty rate: from 42% to 32%\n\nSorry comrades “economists”, free market works, and it works fast.",
-      "publishedAt": "2025-12-20T13:51:00.000Z",
-      "link": "https://x.com/MichaelAArouet/status/2002376343967686743",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8neq-UXsAAGSp3.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2002369914397708545",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -980,25 +1051,6 @@
       }
     },
     {
-      "id": "2002273183349584030",
-      "username": "synopsi",
-      "displayName": "Rasty Turek",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1481512504521936897%2FtGao__Tu_bigger.jpg",
-      "content": "Fahrenheit is how a human feels, Celsius is how a water feels, and Kelvin is how an atom feels.",
-      "contentHtml": "Fahrenheit is how a human feels, Celsius is how a water feels, and Kelvin is how an atom feels.",
-      "publishedAt": "2025-12-20T07:01:00.000Z",
-      "link": "https://x.com/synopsi/status/2002273183349584030",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2002271611005911420",
       "username": "BensonTWN",
       "displayName": "Benson Sun",
@@ -1013,25 +1065,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8l_ZtCbMAIq4g-.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2002270879791686134",
-      "username": "R_H_Ebright",
-      "displayName": "Richard H. Ebright",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F750862707071606784%2FQKnVZiPX_bigger.jpg",
-      "content": "\"The Wuhan lab…that conducted risky experiments on bat viruses…and almost certainly caused the pandemic has now revealed…it has done the same…risky experiments on another lot of horseshoe-bat viruses\"\n\nspectator.com/article/playin…",
-      "contentHtml": "\"The Wuhan lab…that conducted risky experiments on bat viruses…and almost certainly caused the pandemic has now revealed…it has done the same…risky experiments on another lot of horseshoe-bat viruses\"\n\n<a href=\"https://spectator.com/article/playing-viruses-immunology/?edition=us\">spectator.com/article/playin…</a>",
-      "publishedAt": "2025-12-20T06:52:00.000Z",
-      "link": "https://x.com/R_H_Ebright/status/2002270879791686134",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -1096,25 +1129,6 @@
       "contentHtml": "farcaster的10%发完了，可以拿走了 没想到是近期最高的收益，就是额度太少了 两个月10%本金是真的舒服。总感觉后续还有类似的活动，可以蹲一下看看。",
       "publishedAt": "2025-12-20T05:53:00.000Z",
       "link": "https://x.com/0xleng1/status/2002256143134126175",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2002254868585558150",
-      "username": "mattwridley",
-      "displayName": "Matt Ridley",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1230960194194149380%2FSw7D18gf_bigger.jpg",
-      "content": "If a military team made a mistake during a nuclear-war preparedness exercise and accidentally obliterated 20 million people, you would not expect to find some of the very same people merrily admitting a couple of years later that they had done it again. Would you?",
-      "contentHtml": "If a military team made a mistake during a nuclear-war preparedness exercise and accidentally obliterated 20 million people, you would not expect to find some of the very same people merrily admitting a couple of years later that they had done it again. Would you?",
-      "publishedAt": "2025-12-20T05:48:00.000Z",
-      "link": "https://x.com/mattwridley/status/2002254868585558150",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -7593,37 +7607,6 @@
       }
     },
     {
-      "id": "2000776981408047436",
-      "username": "wholemars",
-      "displayName": "Whole Mars Catalog",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1593688242771017728%2F1Ocz0cvu_bigger.jpg",
-      "content": "This would be the end of of Silicon Valley",
-      "contentHtml": "This would be the end of of Silicon Valley",
-      "publishedAt": "2025-12-16T03:56:00.000Z",
-      "link": "https://x.com/wholemars/status/2000776981408047436",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Cernovich",
-        "displayName": "Cernovich",
-        "content": "California is set to vote on a 5% wealth tax on billionaires.",
-        "link": "https://x.com/Cernovich/status/2000620047774216237",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8OhSakbYAA071J.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2000769939154862117",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -11794,6 +11777,21 @@
         "username": "hazenlee",
         "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999756686433878183",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "感情中控制欲过度的控制狂\n会筛选甘愿被控制的人\n\n只要你不对有些事表明态度、\n退让、不向他显示自己的原则边界、\n思维滑坡合理化\n\n那么他就进入了舒适区：\n“你跟其他人不一样，\n其他人不接受我控制，而你接受”\n\n于是他会如获稀宝般，\n变本加厉地锁住你，保住这舒适区\n\n因为失去你后，他在别处容易吃瘪",
+      "contentHtml": "感情中控制欲过度的控制狂\n会筛选甘愿被控制的人\n\n只要你不对有些事表明态度、\n退让、不向他显示自己的原则边界、\n思维滑坡合理化\n\n那么他就进入了舒适区：\n“你跟其他人不一样，\n其他人不接受我控制，而你接受”\n\n于是他会如获稀宝般，\n变本加厉地锁住你，保住这舒适区\n\n因为失去你后，他在别处容易吃瘪",
+      "publishedAt": "2025-12-13T08:22:00.000Z",
+      "link": "https://x.com/coolish/status/1999756686433878183",
       "stats": {
         "replies": 0,
         "retweets": 0,
