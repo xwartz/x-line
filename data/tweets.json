@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-22T07:07:52.955Z",
+  "lastUpdated": "2025-12-22T07:29:42.360Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,125 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 201,
-    "successUsers": 10,
-    "failedUsers": 12
+    "newFetched": 444,
+    "successUsers": 22,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2003003723614924946",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "最近 Nofx 事件的懶人包，感謝行業還有人願意做這種深度的復盤。\n\n一開始我是覺得抄襲很可惡，但後面事情發展真的有點超出想像了。\n\n不站哪一邊，大家自己判斷吧。",
+      "contentHtml": "最近 Nofx 事件的懶人包，感謝行業還有人願意做這種深度的復盤。\n\n一開始我是覺得抄襲很可惡，但後面事情發展真的有點超出想像了。\n\n不站哪一邊，大家自己判斷吧。",
+      "publishedAt": "2025-12-22T07:24:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2003003723614924946",
+      "quote": {
+        "username": "wquguru",
+        "displayName": "WquGuru🦀",
+        "content": "x.com/i/article/200289362874…",
+        "link": "https://x.com/wquguru/status/2002895764746645985"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2003002364069134693",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "刻下本轮前两波的30日注入市场资金量低位\n\n比特币的已实现市值 30 日净变化（Realized Cap 30d Net Change）是一个链上指标，它像一个“资金流量计”，实时反映了比特币网络中真实资金的流入与流出情况\n\n简单来说，这个指标告诉我们：在过去 30 天里，投资者到底是在往这个市场里注资，还是在抽走资金\n\n正值（上涨）：表示硬币在转手时的价格高于它们上次移动时的价格。这意味着新资金正在入场，吸收了卖盘，并将整体的市场持仓成本抬高。这通常是牛市或反弹行情的特征\n负值（下跌）：表示硬币在转手时的价格低于上次移动的价格（即投资者在亏损割肉）。这意味着资金正在流出网络，或者市场缺乏足够的买盘来支撑在高位成交。这通常发生在熊市或剧烈的洗盘阶段\n\n剧烈的正峰值：往往出现在牛市的中后期。此时大量获利盘流出（老币移动），而新入场的“接盘侠”以极高的价格承接，导致已实现市值飙升。如果这个数值过高，可能预示着市场过热\n跌破零轴并持续走低：这是“割肉（Capitulation）”的信号。当该指标从正转负时，说明市场已经进入了亏损离场阶段，情绪由乐观转为悲观\n\n已实现市值（Realized Cap）不同于一般的市值（Market Cap），它不是按照当前市价乘以供应量，而是按照每枚币最后一次移动时的价格来计算的\n因此，30 日净变化实际上是反映了全网投资者的平均持仓成本（Cost Basis）在过去一个月的变动剧烈程度\n\n总结一下，你可以把它看作是比特币市场的“血液总量变化”\n如果数值在增加，说明市场在“补血”，行情有支撑；\n如果数值在萎缩，说明市场在“失血”，即便价格在涨，也可能只是空头回补或缺乏后劲的虚涨",
+      "contentHtml": "刻下本轮前两波的30日注入市场资金量低位\n\n比特币的已实现市值 30 日净变化（Realized Cap 30d Net Change）是一个链上指标，它像一个“资金流量计”，实时反映了比特币网络中真实资金的流入与流出情况\n\n简单来说，这个指标告诉我们：在过去 30 天里，投资者到底是在往这个市场里注资，还是在抽走资金\n\n正值（上涨）：表示硬币在转手时的价格高于它们上次移动时的价格。这意味着新资金正在入场，吸收了卖盘，并将整体的市场持仓成本抬高。这通常是牛市或反弹行情的特征\n负值（下跌）：表示硬币在转手时的价格低于上次移动的价格（即投资者在亏损割肉）。这意味着资金正在流出网络，或者市场缺乏足够的买盘来支撑在高位成交。这通常发生在熊市或剧烈的洗盘阶段\n\n剧烈的正峰值：往往出现在牛市的中后期。此时大量获利盘流出（老币移动），而新入场的“接盘侠”以极高的价格承接，导致已实现市值飙升。如果这个数值过高，可能预示着市场过热\n跌破零轴并持续走低：这是“割肉（Capitulation）”的信号。当该指标从正转负时，说明市场已经进入了亏损离场阶段，情绪由乐观转为悲观\n\n已实现市值（Realized Cap）不同于一般的市值（Market Cap），它不是按照当前市价乘以供应量，而是按照每枚币最后一次移动时的价格来计算的\n因此，30 日净变化实际上是反映了全网投资者的平均持仓成本（Cost Basis）在过去一个月的变动剧烈程度\n\n总结一下，你可以把它看作是比特币市场的“血液总量变化”\n如果数值在增加，说明市场在“补血”，行情有支撑；\n如果数值在萎缩，说明市场在“失血”，即便价格在涨，也可能只是空头回补或缺乏后劲的虚涨",
+      "publishedAt": "2025-12-22T07:19:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2003002364069134693",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8wRTPXbUAATY1O.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2003001179236966658",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "4000 万美金囤 $ETH ，大手笔啊🤨\n\n新地址 0x1b6…f0a8A 半小时前从 #Kraken 提出 13412 枚 ETH，价值 4061 万美元，提出价格 $3027.8，在此之前的 6 小时他就做了小额测试\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
+      "contentHtml": "4000 万美金囤 <a href=\"/search?q=%23ETH\">$ETH</a> ，大手笔啊🤨\n\n新地址 0x1b6…f0a8A 半小时前从 <a href=\"/search?q=%23Kraken\">#Kraken</a> 提出 13412 枚 ETH，价值 4061 万美元，提出价格 $3027.8，在此之前的 6 小时他就做了小额测试\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x1b6E316c4d3093bbf8182Cf2fa76Be4611df0a8A\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/search?q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
+      "publishedAt": "2025-12-22T07:14:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2003001179236966658",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8wW7O2acAAlCEv.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2002996577565278373",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "没有推背感的多单不值得格局  \n\n纹包皮上\n\n$xag\n$xau \n$xpt\n$xpd",
+      "contentHtml": "没有推背感的多单不值得格局  \n\n纹包皮上\n\n<a href=\"/search?q=%23xag\">$xag</a>\n<a href=\"/search?q=%23xau\">$xau</a> \n<a href=\"/search?q=%23xpt\">$xpt</a>\n<a href=\"/search?q=%23xpd\">$xpd</a>",
+      "publishedAt": "2025-12-22T06:56:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2002996577565278373",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2002990843293257939",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "洗洗睡吧，币安链的meme就跟夜壶似的，二圣尿急了就拿出来用一下\n\n大多数时候放在床下，听床师到处造谣\n\n唯恐韭菜不上车\n\n#网友大才 \n\n#年度最佳炒币",
+      "contentHtml": "洗洗睡吧，币安链的meme就跟夜壶似的，二圣尿急了就拿出来用一下\n\n大多数时候放在床下，听床师到处造谣\n\n唯恐韭菜不上车\n\n<a href=\"/search?q=%23网友大才\">#网友大才</a> \n\n<a href=\"/search?q=%23年度最佳炒币\">#年度最佳炒币</a>",
+      "publishedAt": "2025-12-22T06:33:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2002990843293257939",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8wNi-qbIAAvnxK.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2002990586987770361",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "感謝 @DoveyWanCN 的啟發，與君一席話，勝讀十年書。\n\n歡迎大家追蹤 Dovey 的帳號",
+      "contentHtml": "感謝 <a href=\"/DoveyWanCN\" title=\"Dovey \"Rug The CNY\" Wan🪐\">@DoveyWanCN</a> 的啟發，與君一席話，勝讀十年書。\n\n歡迎大家追蹤 Dovey 的帳號",
+      "publishedAt": "2025-12-22T06:32:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2002990586987770361",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2002989305485271433",
       "username": "BensonTWN",
@@ -286,6 +400,25 @@
             "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7YlRVcb0AMxsZc.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2002932548838506693",
+      "username": "jswihart",
+      "displayName": "Josh Swihart 🛡",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1953953857735704576%2FaSxtdH37_bigger.jpg",
+      "content": "x.com/i/article/200290255344…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2002902553441497088\">x.com/i/article/200290255344…</a>",
+      "publishedAt": "2025-12-22T02:41:00.000Z",
+      "link": "https://x.com/jswihart/status/2002932548838506693",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -525,6 +658,50 @@
         "displayName": "Crypto_Painter",
         "content": "突然想起来一个现象，2016年以前，国内自媒体的流量密码是从油管搬运内容到墙内互联网…\n\n2023年以后，突然就反过来了，现在从抖音上搬运视频到X成了流量密码…\n\n为什么会这样？",
         "link": "https://x.com/CryptoPainter/status/2002328885833392301"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2002773585291866527",
+      "username": "anqirocks27",
+      "displayName": "AnqiRocks",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1998965876327120897%2FoLQFVzGv_bigger.jpg",
+      "content": "是我。",
+      "contentHtml": "是我。",
+      "publishedAt": "2025-12-21T16:10:00.000Z",
+      "link": "https://x.com/anqirocks27/status/2002773585291866527",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8tH8pWa4AAQZSx.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2002769460071907675",
+      "username": "robbiehendricks",
+      "displayName": "Robbie Hendricks",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1938267355924099072%2FwDwBpyJ3_bigger.jpg",
+      "content": "me: <takes enormous personal risk to buy apartments from slumlord, removes bugs, fixes heat, make nice again>\n\nthem: cool, but are you raising rent?\n\nme: well, yea, it was $400/mo b/c there were velociraptor sized roaches and the heat didn’t work over there so we needed to invest millions to fix it\n\nthem: so you’re a blood-sucking slumlord\n\nme: no, we took property where residents were miserable and made it nice again\n\nthem: well you should do that out of the kindness of your heart and not raise rent\n\nme: should the pest control people work for free?\n\nthem: that’s different\n\nme: should the HVAC guy work for free?\n\nthem: that’s different\n\nme: do you work for free?\n\nthem: that’s different \n\nme: why should I work for free?\n\nthem: housing is a human right and you’re rich\n\nme: how can I be rich if I don’t get paid to work?\n\nthem: you real estate guys are all rich\n\nme: do you see the contradiction here?\n\nthem: no, you’re just a greedy landlord\n\nme: okay…do you expect a farmer to grow food and give it away for free? Is he a greedy farmer?\n\nthem: of course not\n\nme: do you expect a doctor to treat you for free? is she a greedy doctor?\n\nthem: of course not \n\nme: okay so do you see what I’m saying?\n\nthem: not really\n\nme: <sighs>",
+      "contentHtml": "me: &lt;takes enormous personal risk to buy apartments from slumlord, removes bugs, fixes heat, make nice again&gt;\n\nthem: cool, but are you raising rent?\n\nme: well, yea, it was $400/mo b/c there were velociraptor sized roaches and the heat didn’t work over there so we needed to invest millions to fix it\n\nthem: so you’re a blood-sucking slumlord\n\nme: no, we took property where residents were miserable and made it nice again\n\nthem: well you should do that out of the kindness of your heart and not raise rent\n\nme: should the pest control people work for free?\n\nthem: that’s different\n\nme: should the HVAC guy work for free?\n\nthem: that’s different\n\nme: do you work for free?\n\nthem: that’s different \n\nme: why should I work for free?\n\nthem: housing is a human right and you’re rich\n\nme: how can I be rich if I don’t get paid to work?\n\nthem: you real estate guys are all rich\n\nme: do you see the contradiction here?\n\nthem: no, you’re just a greedy landlord\n\nme: okay…do you expect a farmer to grow food and give it away for free? Is he a greedy farmer?\n\nthem: of course not\n\nme: do you expect a doctor to treat you for free? is she a greedy doctor?\n\nthem: of course not \n\nme: okay so do you see what I’m saying?\n\nthem: not really\n\nme: &lt;sighs&gt;",
+      "publishedAt": "2025-12-21T15:53:00.000Z",
+      "link": "https://x.com/robbiehendricks/status/2002769460071907675",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -2932,6 +3109,39 @@
         "displayName": "Vito",
         "content": "如果这一轮 #ETH  涨幅超过  #BTC 就不是这个说法了\n\nBenson一直是我觉得很不错的博主，但是这个论点我感觉不成立，有点牵强了.\n\n既然有黄金为什么要买SPX。\n既然有SPX为什么要买英伟达，为什么要买特斯拉.\n\n特斯拉不面临竞争还是英伟达没有追赶者？",
         "link": "https://x.com/Vito_AKs/status/2001935242664513941"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001938379253187005",
+      "username": "RobbieL72281047",
+      "displayName": "李二二",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1810151110428315648%2F857S9Mmj_bigger.jpg",
+      "content": "很荣幸被 @YosefBlockchain 三万粉丝大V抄袭我的文案，好的文案总是心有灵犀。\n\n图1:我的社群12月18日的内容\n图2、3  @YosefBlockchain 12月19日逐字粘贴的内容\n\n很自豪于你把中国创造的精神原封不动的带到了海外平台，加油。希望你的投资社群有原创内容。",
+      "contentHtml": "很荣幸被 <a href=\"/YosefBlockchain\" title=\"陈思远Yosef\">@YosefBlockchain</a> 三万粉丝大V抄袭我的文案，好的文案总是心有灵犀。\n\n图1:我的社群12月18日的内容\n图2、3  <a href=\"/YosefBlockchain\" title=\"陈思远Yosef\">@YosefBlockchain</a> 12月19日逐字粘贴的内容\n\n很自豪于你把中国创造的精神原封不动的带到了海外平台，加油。希望你的投资社群有原创内容。",
+      "publishedAt": "2025-12-19T08:51:00.000Z",
+      "link": "https://x.com/RobbieL72281047/status/2001938379253187005",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8hQS-PbgAAaVzk.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8hQUMaa0AAIY7g.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8hQVR4awAAfp4O.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
       },
       "stats": {
         "replies": 0,
@@ -5625,6 +5835,25 @@
       }
     },
     {
+      "id": "2001357803085271296",
+      "username": "mattyglesias",
+      "displayName": "Matthew Yglesias",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1992554064358375424%2FmAv-oT-S_bigger.jpg",
+      "content": "Giving women and nonwhite people a leg up in entry-level jobs in post-GFC media and arts is a way of keeping them poor and so white men stay on top.",
+      "contentHtml": "Giving women and nonwhite people a leg up in entry-level jobs in post-GFC media and arts is a way of keeping them poor and so white men stay on top.",
+      "publishedAt": "2025-12-17T18:24:00.000Z",
+      "link": "https://x.com/mattyglesias/status/2001357803085271296",
+      "retweet": {
+        "username": "HaywarZhu",
+        "displayName": "Haywar | 海老师 🗳️"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2001334640746074342",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -6962,6 +7191,37 @@
       }
     },
     {
+      "id": "2001170755925762527",
+      "username": "MacroMargin",
+      "displayName": "宏观边际MacroMargin",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1832383003403636736%2FLzxkUKBL_bigger.jpg",
+      "content": "看这三张图差不多了，\n另外，决策层似乎是想推动人民币适度升值（推动人民币国际化+安抚国际上的倾销指责），\n然后，最近一些主流机构趁热鼓吹，\n再者，以及认为人民币严重低估的购买力平价(PPP)理论之风再起...",
+      "contentHtml": "看这三张图差不多了，\n另外，决策层似乎是想推动人民币适度升值（推动人民币国际化+安抚国际上的倾销指责），\n然后，最近一些主流机构趁热鼓吹，\n再者，以及认为人民币严重低估的购买力平价(PPP)理论之风再起...",
+      "publishedAt": "2025-12-17T06:01:00.000Z",
+      "link": "https://x.com/MacroMargin/status/2001170755925762527",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8WVc4_a4AYiPdY.png"
+        }
+      ],
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "quote": {
+        "username": "Kthew0011",
+        "displayName": "Copperhead",
+        "content": "这波升值让人摸不到头脑，股债都在跌，所以排除资本流入。如果说是巨额顺差结汇，但是银行间市场资金也没觉得宽松。那么到底为何在涨？",
+        "link": "https://x.com/Kthew0011/status/2000918347458994243"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2001164051217605104",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -7498,18 +7758,6 @@
           "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2000976081063682049%2Fimg%2FoU8e5p1lVRv8joZ2.jpg%3Fname%3Dsmall%26format%3Dwebp"
         }
       ],
-      "quote": {
-        "username": "SonofLiberty357",
-        "displayName": "SonofLiberty357",
-        "content": "Elderly Australian couple heroically tried to take down one of the Bondi Beach terrorists — before both were shot and left to die in each other’s arms.\n\nBoris Gurman, 69, and his 61-year-old wife, Sofia, tried to stop one gunman emerging from his vehicle before being shot-NYPost",
-        "link": "https://x.com/SonofLiberty357/status/2000935809273528375",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8TAg6iW4AMCA2o.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -9141,6 +9389,25 @@
             "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8OmxvBXIAEbVj2.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2000620521323655278",
+      "username": "0xRich1998",
+      "displayName": "nado",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1995417662764281856%2FDQKIcmfw_bigger.jpg",
+      "content": "看到老板还这么认真的回应他，我都替老板不值得浪费时间。\n他完全搞错因果关系了，英语是一门技能，而且是硬通货技能，英语的作用是提高自身所从事职业本身的上限，而不是英语本身决定了这个人的发展上限。\n学英语不一定会翻身，但是学英语可以提高翻身的几率，而且对于绝大多数普罗大众来说，语言技能可以说是性价比最高的选择。\n举流浪汉的例子更是莫名其妙，“美国流浪汉会英语但是依然流浪，所以英语没用”，这种论调，不就是读书无用论那种偏激的变种说法么？\n至于开篇那一堆排比举例，尤其是“外卖小哥也学了18年英语”，太搞笑了，我就想问问，他在哪里统计过的数据，外卖小哥群体有多少比例能正儿八经学18年英语的？就算当今的外卖员群体全部是本科从小学6岁到22岁本科毕业撑死也就学16年而已，完全是虚空捏造论据。\n看了他的简介，“前主编”，我大概知道就知道国内的新闻学为什么这么垃圾了，他的回复大概率也是找AI写的，不是AI幻觉了，是他拼好饭吃出幻觉了。",
+      "contentHtml": "看到老板还这么认真的回应他，我都替老板不值得浪费时间。\n他完全搞错因果关系了，英语是一门技能，而且是硬通货技能，英语的作用是提高自身所从事职业本身的上限，而不是英语本身决定了这个人的发展上限。\n学英语不一定会翻身，但是学英语可以提高翻身的几率，而且对于绝大多数普罗大众来说，语言技能可以说是性价比最高的选择。\n举流浪汉的例子更是莫名其妙，“美国流浪汉会英语但是依然流浪，所以英语没用”，这种论调，不就是读书无用论那种偏激的变种说法么？\n至于开篇那一堆排比举例，尤其是“外卖小哥也学了18年英语”，太搞笑了，我就想问问，他在哪里统计过的数据，外卖小哥群体有多少比例能正儿八经学18年英语的？就算当今的外卖员群体全部是本科从小学6岁到22岁本科毕业撑死也就学16年而已，完全是虚空捏造论据。\n看了他的简介，“前主编”，我大概知道就知道国内的新闻学为什么这么垃圾了，他的回复大概率也是找AI写的，不是AI幻觉了，是他拼好饭吃出幻觉了。",
+      "publishedAt": "2025-12-15T17:34:00.000Z",
+      "link": "https://x.com/0xRich1998/status/2000620521323655278",
+      "retweet": {
+        "username": "CycleStudies",
+        "displayName": "百萬Eric | Day Trader"
       },
       "stats": {
         "replies": 0,
@@ -11387,348 +11654,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000115107909828693",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
-      "content": "私彩么？",
-      "contentHtml": "私彩么？",
-      "publishedAt": "2025-12-14T08:06:00.000Z",
-      "link": "https://x.com/hazenlee/status/2000115107909828693",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "捅了彩票店的窝了",
-        "link": "https://x.com/Bitfatty/status/2000112648705437740",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8HT2VQa0AAhvuw.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8HT2VOaAAELCof.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000113756605648975",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
-      "content": "",
-      "contentHtml": "",
-      "publishedAt": "2025-12-14T08:00:00.000Z",
-      "link": "https://x.com/hazenlee/status/2000113756605648975",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8HU27EbUAADGBm.jpg"
-        }
-      ],
-      "quote": {
-        "username": "pedri3333",
-        "displayName": "不悔",
-        "content": "",
-        "link": "https://x.com/pedri3333/status/2000111155688444010",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8HSfp-aIAEs-MA.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000113484881924439",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
-      "content": "最近在关注比特币生态的时候，又多看了几眼Babylon这个项目。它其实挺有意思的——简单来说，Babylon是一个建立在比特币上的协议，目标是让原本“躺着不动”的BTC也能产生收益，而不需要把比特币包裹成WBTC之类的形式，也不用交给第三方托管。\n核心思路是通过“原生质押”和自托管的金库，直接用原生BTC参与到各种链上机会里。最近他们还官宣和Aave合作了（感兴趣可以看他们的这条推：nitter.privacyredirect.com/babylonlabs_io/status/…），意思是比特币持有者以后可以用真正的BTC作为抵押品，去Aave这个DeFi巨头（TVL 300亿刀级别）借贷或者赚收益，整个过程是无信任的，私钥始终在自己手里。\n说实话，这种把比特币安全模型和DeFi高收益结合起来的尝试，我觉得是目前比特币生态里比较扎实的方向之一。\n顺便提一下，Binance理财最近上线了两个和Babylon相关的独家活动，挺适合想让BTC或BABY稍微动起来的朋友参考：\n第一个是Babylon BTC质押活动（12月3日已经开始了，到明年1月3日结束）。\n你可以直接把BTC质押进去，换取BABY代币奖励，年化收益率最高能到2.5%（不同周期和VIP等级略有差异，比如60天VIP专属能到2.5%，90天也是2.5%但限额更小）。最低0.01 BTC就能参与，先到先得。\n奖励不是每天发，而是整个周期结束后一次性到现货账户。如果中途想提前取出，本金会退，但已累积的奖励就没了，大概3天到账。\n路径的话：App里点「更多」→「理财」→「链上赚币」→找到「Babylon BTC质押」→申购就行。网页端也是理财→进阶赚币→链上赚币里找。\n第二个是BABY定期产品（这个活动时间更长，到明年3月21日）。\n如果你手里已经有BABY（比如从上面那个质押活动拿到的奖励），可以申购30天、60天或120天的定期，最高年化能到29.9%。操作也很直接：理财页面搜索BABY，选周期申购即可。\n这两个活动都是Binance独家的，参与前记得完成KYC，也建议自己看看本地法规和风险提示——毕竟链上产品都有智能合约、市场波动之类的风险，本金和收益都不保证。\n总之，Babylon这个方向我个人是比较看好的，如果你也持有BTC或者对$BABY感兴趣，可以抽空研究一下，觉得合适再试试水。完全不强求，就是分享一个最近觉得还不错的机会～",
-      "contentHtml": "最近在关注比特币生态的时候，又多看了几眼Babylon这个项目。它其实挺有意思的——简单来说，Babylon是一个建立在比特币上的协议，目标是让原本“躺着不动”的BTC也能产生收益，而不需要把比特币包裹成WBTC之类的形式，也不用交给第三方托管。\n核心思路是通过“原生质押”和自托管的金库，直接用原生BTC参与到各种链上机会里。最近他们还官宣和Aave合作了（感兴趣可以看他们的这条推：<a href=\"https://nitter.privacyredirect.com/babylonlabs_io/status/1996161811167760610\">nitter.privacyredirect.com/babylonlabs_io/status/…</a>），意思是比特币持有者以后可以用真正的BTC作为抵押品，去Aave这个DeFi巨头（TVL 300亿刀级别）借贷或者赚收益，整个过程是无信任的，私钥始终在自己手里。\n说实话，这种把比特币安全模型和DeFi高收益结合起来的尝试，我觉得是目前比特币生态里比较扎实的方向之一。\n顺便提一下，Binance理财最近上线了两个和Babylon相关的独家活动，挺适合想让BTC或BABY稍微动起来的朋友参考：\n第一个是Babylon BTC质押活动（12月3日已经开始了，到明年1月3日结束）。\n你可以直接把BTC质押进去，换取BABY代币奖励，年化收益率最高能到2.5%（不同周期和VIP等级略有差异，比如60天VIP专属能到2.5%，90天也是2.5%但限额更小）。最低0.01 BTC就能参与，先到先得。\n奖励不是每天发，而是整个周期结束后一次性到现货账户。如果中途想提前取出，本金会退，但已累积的奖励就没了，大概3天到账。\n路径的话：App里点「更多」→「理财」→「链上赚币」→找到「Babylon BTC质押」→申购就行。网页端也是理财→进阶赚币→链上赚币里找。\n第二个是BABY定期产品（这个活动时间更长，到明年3月21日）。\n如果你手里已经有BABY（比如从上面那个质押活动拿到的奖励），可以申购30天、60天或120天的定期，最高年化能到29.9%。操作也很直接：理财页面搜索BABY，选周期申购即可。\n这两个活动都是Binance独家的，参与前记得完成KYC，也建议自己看看本地法规和风险提示——毕竟链上产品都有智能合约、市场波动之类的风险，本金和收益都不保证。\n总之，Babylon这个方向我个人是比较看好的，如果你也持有BTC或者对$BABY感兴趣，可以抽空研究一下，觉得合适再试试水。完全不强求，就是分享一个最近觉得还不错的机会～",
-      "publishedAt": "2025-12-14T07:59:00.000Z",
-      "link": "https://x.com/hazenlee/status/2000113484881924439",
-      "quote": {
-        "username": "babylonlabs_io",
-        "displayName": "Babylon",
-        "content": "What happens when the world’s largest DeFi lending protocol meets trustless native Bitcoin collateral?\n\nA new era of BTC lending and borrowing, without wrappers, bridges, or custodians.\n\nBabylon and @aave are partnering to build the first native Bitcoin-backed Spoke on Aave V4.",
-        "link": "https://x.com/babylonlabs_io/status/1996161811167760610",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1996161755882704897%2Fimg%2FmMX8dXuDbwQ0vZHE.jpg%3Fname%3Dsmall%26format%3Dwebp"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000112975408144446",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "這件事情在幣圈也是一樣的。  \n\n那些「真的」有幾百萬甚至幾千萬 U 盈利的人，真的在賠的時候也是這個 size。  \n\n盈虧同源，不可能賠都賠毛毛雨小錢，賺都賺超大一筆，只要你的持倉大到一定規模，即便有點小回撤都是幾百萬U的回撤。  \n\n但事實上，大部分人只會把賺錢的那一面貼在社群媒體上，從而製造焦慮跟 FOMO，甚至很多人根本就是 P 圖的。\n\n跟上輪週期去比，這輪週期賺到大錢的人真沒這麼多，依賴山寨暴富路徑的大佬，這輪週期很多人的資產是倒退的，甚至在 1011 一波被端走的也很多。\n\n講這些不是要讓你比較開心。\n\n這他媽就是事實。",
-      "contentHtml": "這件事情在幣圈也是一樣的。  \n\n那些「真的」有幾百萬甚至幾千萬 U 盈利的人，真的在賠的時候也是這個 size。  \n\n盈虧同源，不可能賠都賠毛毛雨小錢，賺都賺超大一筆，只要你的持倉大到一定規模，即便有點小回撤都是幾百萬U的回撤。  \n\n但事實上，大部分人只會把賺錢的那一面貼在社群媒體上，從而製造焦慮跟 FOMO，甚至很多人根本就是 P 圖的。\n\n跟上輪週期去比，這輪週期賺到大錢的人真沒這麼多，依賴山寨暴富路徑的大佬，這輪週期很多人的資產是倒退的，甚至在 1011 一波被端走的也很多。\n\n講這些不是要讓你比較開心。\n\n這他媽就是事實。",
-      "publishedAt": "2025-12-14T07:57:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2000112975408144446",
-      "quote": {
-        "username": "BensonTWN",
-        "displayName": "Benson Sun",
-        "content": "今天早上發文，跑來一堆叔叔阿姨伯伯說：\n「現在年輕人過得這麼爽，整天出國、吃大餐、拿 iPhone，還說生活太苦不生小孩，根本幹話。」\n\n我只想說一句：少滑 IG。\n\nIG 上貼出來的，多半不是「正在過的生活」，\n而是「希望被看見成那樣的自己」。\n\n實際狀況，通常差得遠。\n\n會曬一頓兩千塊晚餐的，\n往往代表那是久久一次、值得紀念的時刻；\n真的天天這樣吃的人，根本懶得拍。\n\n同理，曬出國的、曬 iPhone 的，\n都是因為「覺得這值得曬」。\n常出國的人，早就不覺得出國有什麼特別；\n從小 iPhone 拿到大的人，更不會把手機當身分象徵。\n\n我今年上半年跟家人出國七八次，幾乎都搭商務艙，\n一次都沒曬。\n不是低調，是根本不知道要曬什麼。\n而且跟我混同一個圈子的，\n一堆人比我更有錢，\n那我到底是要曬給誰看？\n\n大部分人的優越感，\n不是因為自己真的多優秀，\n而是因為混的圈子太爛。\n\n尤其在錢這件事上，\n真的是人外有人、天外有天。\n你以為自己是什麼「少年幣神」，\n但對某些人來說，\n你拼命跑到的終點線，\n只是別人繼承家產的起跑點。\n世面見多了，就會知道炫富真的很低能，\n真的沒必要，只會引來一堆自爆坦克。\n\n社群媒體最大的錯覺在於：\n你看到的是別人的高光片段，\n卻拿來對照自己完整、真實、包含低潮的人生。\n大家都在選擇性展示，\n而你剛好選擇了全盤相信。\n\nPTT 上人均 30 公分、G Cup；\nDcard 上人均年收 500 萬；\n小紅書上人均淨資產一個小目標。\n\n你信你就輸了，回歸現實看看真實世界吧。\n年輕人爽的那一面你看到了，\n累跟無奈的那一面，誰會放在網路上。",
-        "link": "https://x.com/BensonTWN/status/1999763376852083128"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000112648705437740",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "捅了彩票店的窝了",
-      "contentHtml": "捅了彩票店的窝了",
-      "publishedAt": "2025-12-14T07:56:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2000112648705437740",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8HT2VQa0AAhvuw.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8HT2VOaAAELCof.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "彩票店不是才7%的利润么，咋这么多女的开始搞这个？？？",
-        "link": "https://x.com/Bitfatty/status/1998004953978429810",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7pW6WjaUAEIUOE.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000111982289031332",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "For most crypto \"founders\", the peak is pre-TGE.\n\nThey feel like little snowflakes: they’ve raised a ton of money, CT glazing them 24/7, convinced they are geniuses.\n\nThe downfall starts on day 1 of TGE when everyone dumps the token and engagement goes down. Slowly they realize no one gives a fuck about what they have to say.",
-      "contentHtml": "For most crypto \"founders\", the peak is pre-TGE.\n\nThey feel like little snowflakes: they’ve raised a ton of money, CT glazing them 24/7, convinced they are geniuses.\n\nThe downfall starts on day 1 of TGE when everyone dumps the token and engagement goes down. Slowly they realize no one gives a fuck about what they have to say.",
-      "publishedAt": "2025-12-14T07:53:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2000111982289031332",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000075333979304144",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "未来我们还有多少BTC可以买？\n\n其实持有 BTC “非零余额”的企业一共有153家，其中最主要的就是倪大说的29家上市公司，他们一共持有108.2w枚 BTC（其中 Other 持有 54,331枚）。\n\n（图1）\n\n从图1可以看到，在10月6日的时候持有“BTC非零余额”的企业还仅仅只有67家，而随着BTC的深度回调，该数量突然激增，截止到昨天已经有153家了。\n\n（图2）\n\n除了实体企业储备的BTC之外，现货ETF目前供持有 131.1w枚BTC，其中位居三甲的分别是：贝莱德77.7w枚，富达20.2w枚，灰度16.7w枚（图2）；\n\n（图3）\n\n还有全球各政府也持有61.5w枚BTC（图3）；其中美国政府持有32.5w枚，排名第一；有意思的是，中国政府竟然持有19w枚，仅次于美国。中国政府应该从未以任何官方形式公布持有BTC，不知Glassnode是如何统计到的。\n\n（图4）\n\n另外，链上持有10年未动过的BTC有340.9w枚（图4），这里面除了一些老牌交易所的冷钱包、以及真正信仰老OG们之外，有很多都应该归属于“私钥没了或人没了”；其中就包括中本聪的100w+枚。\n\n上市公司 108.2w，\n现货ETF 131.1w，\n中本聪 100w+,\n已丢失的币预计 200w；\n\n所有长期持有者共拥有 1,435w 枚......\n\n所以.....未来我们还有多少BTC可以买？\n\n----------------------------------------------\n本文由 @Bitget 赞助｜\nBitget VIP，费率更低，福利更狠",
-      "contentHtml": "未来我们还有多少BTC可以买？\n\n其实持有 BTC “非零余额”的企业一共有153家，其中最主要的就是倪大说的29家上市公司，他们一共持有108.2w枚 BTC（其中 Other 持有 54,331枚）。\n\n（图1）\n\n从图1可以看到，在10月6日的时候持有“BTC非零余额”的企业还仅仅只有67家，而随着BTC的深度回调，该数量突然激增，截止到昨天已经有153家了。\n\n（图2）\n\n除了实体企业储备的BTC之外，现货ETF目前供持有 131.1w枚BTC，其中位居三甲的分别是：贝莱德77.7w枚，富达20.2w枚，灰度16.7w枚（图2）；\n\n（图3）\n\n还有全球各政府也持有61.5w枚BTC（图3）；其中美国政府持有32.5w枚，排名第一；有意思的是，中国政府竟然持有19w枚，仅次于美国。中国政府应该从未以任何官方形式公布持有BTC，不知Glassnode是如何统计到的。\n\n（图4）\n\n另外，链上持有10年未动过的BTC有340.9w枚（图4），这里面除了一些老牌交易所的冷钱包、以及真正信仰老OG们之外，有很多都应该归属于“私钥没了或人没了”；其中就包括中本聪的100w+枚。\n\n上市公司 108.2w，\n现货ETF 131.1w，\n中本聪 100w+,\n已丢失的币预计 200w；\n\n所有长期持有者共拥有 1,435w 枚......\n\n所以.....未来我们还有多少BTC可以买？\n\n----------------------------------------------\n本文由 <a href=\"/Bitget\" title=\"Bitget\">@Bitget</a> 赞助｜\nBitget VIP，费率更低，福利更狠",
-      "publishedAt": "2025-12-14T05:28:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2000075333979304144",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8GxHjzbsAAhPt2.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8GxWMVbwAArzei.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8GxgJ7bwAArC27.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8Gxv_HaAAEW569.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Phyrex_Ni",
-        "displayName": "Phyrex",
-        "content": "目前通过 CoinGecko 的公开数据 GlassNode 整合了29家上市公司持仓 Bitcoin 的情况，每一家公司的持仓数据都来自于该公司的财报，到目前为止这29家公司一共持有 1,082,580 枚 $BTC 。\n\n上市公司持仓 BTC 基本是从2020年开始的，早期基本都是矿场，逐渐的就是一些传统企业的上市公司开始持仓，最大的的肯定就是 $MSTR 了。\n\n当然这些上市公司持有并不代表就不会销售，而且有趣的是，我看到一个天天喊持有的公司，最近刚刚卖了 6,000 余枚的 BTC ，这家公司的名字叫  Trump Media & Technology Group 在11月13日卖出的。\n\n这也是近期卖出最多的一家上市公司。\n\nBitget VIP，费率更低，福利更狠",
-        "link": "https://x.com/Phyrex_Ni/status/1999824804145181166",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8DIqsPaUAAD0wj.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8DN_5Xb0AIi7MD.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000038726651752579",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "这个footballfun 可以到时候申请一下，看看海妖kraken首发的打新有没有可以玩的必要，希望价格可以便宜点。这个项目应该做不到yb的热度了，有点风险的 不过额度申请了不打其实也不影响。先申请。不要过度fomo",
-      "contentHtml": "这个footballfun 可以到时候申请一下，看看海妖kraken首发的打新有没有可以玩的必要，希望价格可以便宜点。这个项目应该做不到yb的热度了，有点风险的 不过额度申请了不打其实也不影响。先申请。不要过度fomo",
-      "publishedAt": "2025-12-14T03:02:00.000Z",
-      "link": "https://x.com/0xleng1/status/2000038726651752579",
-      "quote": {
-        "username": "legiondotcc",
-        "displayName": "LEGION",
-        "content": "The second Legion Prime sale launches Dec 16th: @footballdotfun ($FUN)\n\nThe first Prime sale was @yieldbasis (78x oversubscribed).\n\nYou'll need USD1 on Ethereum Mainnet to participate. Guide below 👇\n\nToken Sale Not for U.K. Persons",
-        "link": "https://x.com/legiondotcc/status/1999897597901930660",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8EPqMAaYAAv7p_.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1999875233147498759",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "daylight应该是近期最值得的项目了，真的没啥项目好拿出来说的，不要上太大的仓位，估计也不好抢只有50m。",
-      "contentHtml": "daylight应该是近期最值得的项目了，真的没啥项目好拿出来说的，不要上太大的仓位，估计也不好抢只有50m。",
-      "publishedAt": "2025-12-13T16:13:00.000Z",
-      "link": "https://x.com/0xleng1/status/1999875233147498759",
-      "quote": {
-        "username": "0xleng1",
-        "displayName": "Leng",
-        "content": "有个风险还算小的存款项目可以玩一下，正好megaeth退款没地方放，拿来放到 @daylightenergy_  的存款活动，现在这些大融资项目都开始流行要么存款要么打新了。我感觉arc和tempo没那么快，应该还有段时间，希望中间能有个真空给我过度一下，不然钱真不够用了。\n\n需要用usdc或者usds才可以参与，16号开始。50m上限的池子。需要锁仓两个月，这个项目看起来是想赶快tge的样子，要做好锁仓至少存2-3个月的准备。安全性大概率没有问题，稳定币m0 提供支持，金库K3过度到Plasma那边做defi。\n\n还是套皮玩法换汤不换药，和usdai以及usual一样 做了一个稳定币Grid，但是这个存款活动给的是SGrid 不是稳定币Grid  ，和Grid也不是1:1 会有溢价 \n\nsGRID并非稳定币；它是一种自由浮动收益资产，通过质押GRID生成。其价值随Daylight网络中底层物理基础设施资产的净值波动。sGRID并非随时可赎回。\n\n简单来说就是：sGRID 是 GRID 的“带奖励版”，也是全球第一个真正的全球电力资产。你只要持有 sGRID，就能通过 GRID 产生的巨量碳减排权益 + DayFi 的真实电网和发电设备，持续拿到奖励。\n\n前面几个类似的项目比如usual的usd0在旁氏到最夸张的时候崩盘。自己把控好风险，抢得到的话我会存个十万u 尝尝咸淡。\n\n什么dayfi不dayfi的靠电力来产生收入覆盖协议之类的，已经听腻了，翻来覆去都是换皮的东西，说白了找个没人做过的资产赛道来玩一样的东西。只能当成一个存款活动来玩，没什么特别的，项目够大，融资够新，背景不差。\n\n这个项目目前看到的一些fud是 项目转型过，之前2024年做depin，后面做电力，现在要做dayfi稳定币，不过这个今年10月才拿的75m融资，不恶心人的话还是值得参与一下的。\n\n项目整体其实没看到太多的大瑕疵。存款类型的项目自己要dyor 对自己的资金负责。注意风险。",
-        "link": "https://x.com/0xleng1/status/1998908742297894939",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG72M5-pXAAEUe3U.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG72M5-mWgAMmFhg.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1999864309879574794",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "We tried to farm an invisible HL Season 3 that never happened but still made good money along the way\n\nTop 46 all-time volume on HL",
-      "contentHtml": "We tried to farm an invisible HL Season 3 that never happened but still made good money along the way\n\nTop 46 all-time volume on HL",
-      "publishedAt": "2025-12-13T15:29:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/1999864309879574794",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8DxqO8X0AEfPHO.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1999761141564866932",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "但交易投资这件事上，\n分析自我，比分析客观标的，作用更大。\n所以真正的投资交易copilot，\n首要的功能特性，应该是导入自己的完整交易数据。",
-      "contentHtml": "但交易投资这件事上，\n分析自我，比分析客观标的，作用更大。\n所以真正的投资交易copilot，\n首要的功能特性，应该是导入自己的完整交易数据。",
-      "publishedAt": "2025-12-13T08:39:00.000Z",
-      "link": "https://x.com/coolish/status/1999761141564866932",
-      "retweet": {
-        "username": "coolish",
-        "displayName": "paulwei"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1999756686433878183",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "感情中控制欲过度的控制狂\n会筛选甘愿被控制的人\n\n只要你不对有些事表明态度、\n退让、不向他显示自己的原则边界、\n思维滑坡合理化\n\n那么他就进入了舒适区：\n“你跟其他人不一样，\n其他人不接受我控制，而你接受”\n\n于是他会如获稀宝般，\n变本加厉地锁住你，保住这舒适区\n\n因为失去你后，他在别处容易吃瘪",
-      "contentHtml": "感情中控制欲过度的控制狂\n会筛选甘愿被控制的人\n\n只要你不对有些事表明态度、\n退让、不向他显示自己的原则边界、\n思维滑坡合理化\n\n那么他就进入了舒适区：\n“你跟其他人不一样，\n其他人不接受我控制，而你接受”\n\n于是他会如获稀宝般，\n变本加厉地锁住你，保住这舒适区\n\n因为失去你后，他在别处容易吃瘪",
-      "publishedAt": "2025-12-13T08:22:00.000Z",
-      "link": "https://x.com/coolish/status/1999756686433878183",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1999509819179356458",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "Ten years ago, I was spending 14 hours a day on my computer trying to make money and yapping with friends\n\nMy only outings were gym and groceries\n\nI never would’ve thought that ten years later, with enough money for a lifetime, I’d still be doing the exact same shit 🤣",
-      "contentHtml": "Ten years ago, I was spending 14 hours a day on my computer trying to make money and yapping with friends\n\nMy only outings were gym and groceries\n\nI never would’ve thought that ten years later, with enough money for a lifetime, I’d still be doing the exact same shit 🤣",
-      "publishedAt": "2025-12-12T16:01:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/1999509819179356458",
       "stats": {
         "replies": 0,
         "retweets": 0,
