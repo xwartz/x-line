@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-22T14:20:02.347Z",
+  "lastUpdated": "2025-12-22T14:45:42.228Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 422,
-    "successUsers": 21,
-    "failedUsers": 1
+    "newFetched": 442,
+    "successUsers": 22,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2003111548013994096",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "比特币 #BITCOIN  这段上涨我仍然定性为反弹，不是反转，因为价格结构没变，EMA也没拐头，没有理由改变判断。\n\n既然是反弹，那就设好止盈，到位就机械止盈。\n\n目前止盈目标：4小时 EMA200 和日线 EMA55。",
+      "contentHtml": "比特币 <a href=\"/search?q=%23BITCOIN\">#BITCOIN</a>  这段上涨我仍然定性为反弹，不是反转，因为价格结构没变，EMA也没拐头，没有理由改变判断。\n\n既然是反弹，那就设好止盈，到位就机械止盈。\n\n目前止盈目标：4小时 EMA200 和日线 EMA55。",
+      "publishedAt": "2025-12-22T14:33:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2003111548013994096",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8x7VbObMAAVeTR.jpg"
+        }
+      ],
+      "quote": {
+        "username": "CycleStudies",
+        "displayName": "百萬Eric | Day Trader",
+        "content": "比特币 #BITCOIN 即将触发日线超卖信号。\n\n回头看过去五次日线超卖：\n\n1. 趋势上涨的起点\n2. 趋势上涨中的接力\n3. 震荡区间里的反弹\n4. 多头结构破位后的技术性反弹\n5. 日线结构前低附近的修复反弹\n\n环境不一样，但有一点是共同的，这五次，比特币都对超卖信号给出了正向反馈。\n\n所以可以先得出一个不复杂的结论：在目前这个位置，价格大概率仍然会尊重日线超卖。\n\n但需要分清的是“尊重信号”和“趋势反转”不是一回事。\n\n即便接下来出现上涨，也更接近前面第 4 和第 5 种情况，也就是结构下行背景里的反弹，而不是趋势反转。\n\n只有当关键压力位被有效突破，同时均线出现拐头，我才会重新评估这段行情的性质。在此之前，上涨看反弹，思路不变。",
+        "link": "https://x.com/CycleStudies/status/2002223890358227308",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8lT_zDa8AAVUAl.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2003103729013383256",
       "username": "BensonTWN",
@@ -5511,6 +5544,51 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8a70r4bIAADVgb.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001496009915150843",
+      "username": "YettaSing",
+      "displayName": "YettaS",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1760136269890523136%2FzRTLwZhZ_bigger.jpg",
+      "content": "- @RedotPay   launched in April 2023. Now serves 6M users across 100+ countries, with $10B+ in processed payments.\n- The standout is how the growth shows up. They do run a referral program (rare in tradfi card biz):referrers earn 20% of card issuance fees + 5 bps on ongoing spend, but referrals drive only ~35% of growth.\n- The rest is organic, demand-driven. SEMrush shows ~96% of traffic is organic.AppBrain data shows steady, step-like download growth, not spike-and-fade marketing. \n- that’s to say crypto payout demand is real, and underserved. Unlike most CEX/DeFi products, the card there is just an add-on. Redot Pay is focused on clearing the payment rails, solving an actual, repeatable user need.\n- What looks like a “simple card product” hides a full financial stack: from BIN sponsors and asset custody upstream, to payment + clearing channels downstream, all under regulatory constraints.\n- Once the card becomes a true distribution channel, the expansion path is obvious: transfers, earn, credit, swaps — a holistic account + global payment network. \n- Redot Pay is evolving from a payment tool into a compliant, closed-loop financial hub for digital assets. the key for the future lies on compliance depth and global licensing.\n- This is also where diaspora Chinese/Asian founders show a structural edge, esp for offshore growth in emerging markets.",
+      "contentHtml": "- <a href=\"/RedotPay\" title=\"RedotPay Official\">@RedotPay</a>   launched in April 2023. Now serves 6M users across 100+ countries, with $10B+ in processed payments.\n- The standout is how the growth shows up. They do run a referral program (rare in tradfi card biz):referrers earn 20% of card issuance fees + 5 bps on ongoing spend, but referrals drive only ~35% of growth.\n- The rest is organic, demand-driven. SEMrush shows ~96% of traffic is organic.AppBrain data shows steady, step-like download growth, not spike-and-fade marketing. \n- that’s to say crypto payout demand is real, and underserved. Unlike most CEX/DeFi products, the card there is just an add-on. Redot Pay is focused on clearing the payment rails, solving an actual, repeatable user need.\n- What looks like a “simple card product” hides a full financial stack: from BIN sponsors and asset custody upstream, to payment + clearing channels downstream, all under regulatory constraints.\n- Once the card becomes a true distribution channel, the expansion path is obvious: transfers, earn, credit, swaps — a holistic account + global payment network. \n- Redot Pay is evolving from a payment tool into a compliant, closed-loop financial hub for digital assets. the key for the future lies on compliance depth and global licensing.\n- This is also where diaspora Chinese/Asian founders show a structural edge, esp for offshore growth in emerging markets.",
+      "publishedAt": "2025-12-18T03:33:00.000Z",
+      "link": "https://x.com/YettaSing/status/2001496009915150843",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8a8DP7awAAhW89.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8a8Jc7bIAAUMkN.png"
+        }
+      ],
+      "retweet": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
+      },
+      "quote": {
+        "username": "Yogita_Khatri5",
+        "displayName": "Yogita Khatri",
+        "content": "Stablecoin payments are scaling fast.\n\nUnicorn @RedotPay has raised $107M in a Series B, saying it now processes over $10B in annualized volume and generates more than $150M in annualized revenue while already profitable, with backing from @PanteraCapital, @blockchaincap, @circle Ventures and others.\n\nCEO Michael Gao said RedotPay has “meaningful users” across the Middle East and North Africa and plans to use the fresh capital to expand into new markets and grow its regulatory license footprint through acquisitions.",
+        "link": "https://x.com/Yogita_Khatri5/status/2000939198988079394",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8TAcwPWoAIA1n2.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8TAcwUXUAE-6bd.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11609,36 +11687,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8IX00yWsAs9qdE.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000186986641166818",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "When do we say to burgers that no one gives a single shit about their sphere in Las Vegas",
-      "contentHtml": "When do we say to burgers that no one gives a single shit about their sphere in Las Vegas",
-      "publishedAt": "2025-12-14T12:51:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2000186986641166818",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000177100016459985",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "ETH FUCK MACHI EVERYDAY",
-      "contentHtml": "ETH FUCK MACHI EVERYDAY",
-      "publishedAt": "2025-12-14T12:12:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2000177100016459985",
       "stats": {
         "replies": 0,
         "retweets": 0,
