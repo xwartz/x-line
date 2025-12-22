@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-22T13:52:14.473Z",
+  "lastUpdated": "2025-12-22T14:20:02.347Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 443,
-    "successUsers": 22,
-    "failedUsers": 0
+    "newFetched": 422,
+    "successUsers": 21,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2003103729013383256",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "這輪週期，如果只選一個「真正破圈的加密應用」，我會把票投給 Polymarket。\n\n預測市場已經獨自成為一個賽道了，最近兩個月交易量大增，每週都有4~5億美金的交易量，成長速度很快。\n\n但有趣的是，Polymarket 的繁榮，並沒有展現在 $POL 的幣價上，一副長期要歸零的走勢。\n\n這輪週期已經反覆驗證了一件事情：\n應用大發異彩 ≠ 公鏈一定能捕捉到價值\n\n這也不完全是 Polygon 的問題，是時代變了。\n\n以前那種靠敘事、靠腦補就能把公鏈估值吹起來的時代已經過去了。\n\n對通用型公鏈來說，現在面臨的是一個結構性的困境：\n- 靠補貼把應用養起來，已經越來越難\n- 應用的繁榮不會回饋主網的代幣\n- 養太大可能還會想著要自己做應用鏈（譬如 $UNI ）\n\n現在 Polymarket 也傳出要自己做應用鏈了，到時候 $POL 還能剩多少價值？\n\n通用型公鏈幣，唯一被市場反覆驗證過的剛性需求，是「賭場籌碼」。\n\n過去 ICO / DeFi / NFT 時代的 $ETH\n還有這輪週期掀起Meme熱潮的 $SOL\n都是例子\n\n光靠手續費銷毀撐不起百億、千億美元市值，如果未來沒有大規模的 ponzi game 用公鏈幣當籌碼，那公鏈幣的未來就是黯淡的。",
+      "contentHtml": "這輪週期，如果只選一個「真正破圈的加密應用」，我會把票投給 Polymarket。\n\n預測市場已經獨自成為一個賽道了，最近兩個月交易量大增，每週都有4~5億美金的交易量，成長速度很快。\n\n但有趣的是，Polymarket 的繁榮，並沒有展現在 <a href=\"/search?q=%23POL\">$POL</a> 的幣價上，一副長期要歸零的走勢。\n\n這輪週期已經反覆驗證了一件事情：\n應用大發異彩 ≠ 公鏈一定能捕捉到價值\n\n這也不完全是 Polygon 的問題，是時代變了。\n\n以前那種靠敘事、靠腦補就能把公鏈估值吹起來的時代已經過去了。\n\n對通用型公鏈來說，現在面臨的是一個結構性的困境：\n- 靠補貼把應用養起來，已經越來越難\n- 應用的繁榮不會回饋主網的代幣\n- 養太大可能還會想著要自己做應用鏈（譬如 <a href=\"/search?q=%23UNI\">$UNI</a> ）\n\n現在 Polymarket 也傳出要自己做應用鏈了，到時候 <a href=\"/search?q=%23POL\">$POL</a> 還能剩多少價值？\n\n通用型公鏈幣，唯一被市場反覆驗證過的剛性需求，是「賭場籌碼」。\n\n過去 ICO / DeFi / NFT 時代的 <a href=\"/search?q=%23ETH\">$ETH</a>\n還有這輪週期掀起Meme熱潮的 <a href=\"/search?q=%23SOL\">$SOL</a>\n都是例子\n\n光靠手續費銷毀撐不起百億、千億美元市值，如果未來沒有大規模的 ponzi game 用公鏈幣當籌碼，那公鏈幣的未來就是黯淡的。",
+      "publishedAt": "2025-12-22T14:01:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2003103729013383256",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8xyMddaMAAyM7A.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2003082323710119965",
       "username": "Bitfatty",
@@ -5497,51 +5518,6 @@
       }
     },
     {
-      "id": "2001496009915150843",
-      "username": "YettaSing",
-      "displayName": "YettaS",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1760136269890523136%2FzRTLwZhZ_bigger.jpg",
-      "content": "- @RedotPay   launched in April 2023. Now serves 6M users across 100+ countries, with $10B+ in processed payments.\n- The standout is how the growth shows up. They do run a referral program (rare in tradfi card biz):referrers earn 20% of card issuance fees + 5 bps on ongoing spend, but referrals drive only ~35% of growth.\n- The rest is organic, demand-driven. SEMrush shows ~96% of traffic is organic.AppBrain data shows steady, step-like download growth, not spike-and-fade marketing. \n- that’s to say crypto payout demand is real, and underserved. Unlike most CEX/DeFi products, the card there is just an add-on. Redot Pay is focused on clearing the payment rails, solving an actual, repeatable user need.\n- What looks like a “simple card product” hides a full financial stack: from BIN sponsors and asset custody upstream, to payment + clearing channels downstream, all under regulatory constraints.\n- Once the card becomes a true distribution channel, the expansion path is obvious: transfers, earn, credit, swaps — a holistic account + global payment network. \n- Redot Pay is evolving from a payment tool into a compliant, closed-loop financial hub for digital assets. the key for the future lies on compliance depth and global licensing.\n- This is also where diaspora Chinese/Asian founders show a structural edge, esp for offshore growth in emerging markets.",
-      "contentHtml": "- <a href=\"/RedotPay\" title=\"RedotPay Official\">@RedotPay</a>   launched in April 2023. Now serves 6M users across 100+ countries, with $10B+ in processed payments.\n- The standout is how the growth shows up. They do run a referral program (rare in tradfi card biz):referrers earn 20% of card issuance fees + 5 bps on ongoing spend, but referrals drive only ~35% of growth.\n- The rest is organic, demand-driven. SEMrush shows ~96% of traffic is organic.AppBrain data shows steady, step-like download growth, not spike-and-fade marketing. \n- that’s to say crypto payout demand is real, and underserved. Unlike most CEX/DeFi products, the card there is just an add-on. Redot Pay is focused on clearing the payment rails, solving an actual, repeatable user need.\n- What looks like a “simple card product” hides a full financial stack: from BIN sponsors and asset custody upstream, to payment + clearing channels downstream, all under regulatory constraints.\n- Once the card becomes a true distribution channel, the expansion path is obvious: transfers, earn, credit, swaps — a holistic account + global payment network. \n- Redot Pay is evolving from a payment tool into a compliant, closed-loop financial hub for digital assets. the key for the future lies on compliance depth and global licensing.\n- This is also where diaspora Chinese/Asian founders show a structural edge, esp for offshore growth in emerging markets.",
-      "publishedAt": "2025-12-18T03:33:00.000Z",
-      "link": "https://x.com/YettaSing/status/2001496009915150843",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8a8DP7awAAhW89.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8a8Jc7bIAAUMkN.png"
-        }
-      ],
-      "retweet": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
-      },
-      "quote": {
-        "username": "Yogita_Khatri5",
-        "displayName": "Yogita Khatri",
-        "content": "Stablecoin payments are scaling fast.\n\nUnicorn @RedotPay has raised $107M in a Series B, saying it now processes over $10B in annualized volume and generates more than $150M in annualized revenue while already profitable, with backing from @PanteraCapital, @blockchaincap, @circle Ventures and others.\n\nCEO Michael Gao said RedotPay has “meaningful users” across the Middle East and North Africa and plans to use the fresh capital to expand into new markets and grow its regulatory license footprint through acquisitions.",
-        "link": "https://x.com/Yogita_Khatri5/status/2000939198988079394",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8TAcwPWoAIA1n2.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8TAcwUXUAE-6bd.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2001495701801582731",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -8047,18 +8023,6 @@
           "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2000976081063682049%2Fimg%2FoU8e5p1lVRv8joZ2.jpg%3Fname%3Dsmall%26format%3Dwebp"
         }
       ],
-      "quote": {
-        "username": "SonofLiberty357",
-        "displayName": "SonofLiberty357",
-        "content": "Elderly Australian couple heroically tried to take down one of the Bondi Beach terrorists — before both were shot and left to die in each other’s arms.\n\nBoris Gurman, 69, and his 61-year-old wife, Sofia, tried to stop one gunman emerging from his vehicle before being shot-NYPost",
-        "link": "https://x.com/SonofLiberty357/status/2000935809273528375",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8TAg6iW4AMCA2o.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
