@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T15:19:54.676Z",
+  "lastUpdated": "2025-12-23T15:44:25.860Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 438,
+    "newFetched": 440,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2003486442543284324",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "除了Binance外极少数敢用全仓保险基金的尝试,很难说是好是坏\n\n因为市面上除了Binance外大部分交易所的衍生品(合约/期权/交割）主做市商都是broker模式，主MM接到爆仓后要把净头寸拿去Binance的订单簿做对冲。长期来看，这种broker MM模式必须要用逐仓保险基金去做风险管理(每个合约独立保险基金)，其实就是交易中的仓位管理概念。\n\n这种Broker MM模式用全仓保险基金，这8M容易被恶意攻击者盯上亏个大的。",
+      "contentHtml": "除了Binance外极少数敢用全仓保险基金的尝试,很难说是好是坏\n\n因为市面上除了Binance外大部分交易所的衍生品(合约/期权/交割）主做市商都是broker模式，主MM接到爆仓后要把净头寸拿去Binance的订单簿做对冲。长期来看，这种broker MM模式必须要用逐仓保险基金去做风险管理(每个合约独立保险基金)，其实就是交易中的仓位管理概念。\n\n这种Broker MM模式用全仓保险基金，这8M容易被恶意攻击者盯上亏个大的。",
+      "publishedAt": "2025-12-23T15:22:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2003486442543284324",
+      "quote": {
+        "username": "wublockchain12",
+        "displayName": "吴说区块链",
+        "content": "Bybit 宣布将逐步启用新的保险池机制，以应对高波动行情并降低 ADL（自动减仓）触发概率。新上线的 USDT 永续合约将先进入独立的新币保险池，初始规模不低于 800 万美元，用于覆盖合约上线初期风险；在观察期后，再根据风险与流动性情况转入组合式保险池。\n\n组合式保险池通过多币对共享保险资金并动态调整结构，提高资金使用效率。相比此前单币对独立保险池模式，新机制下单个币对平均可承受的保险池亏损水平提升超过 200%。wublock123.com/index.php?m=c…",
+        "link": "https://x.com/wublockchain12/status/2003436650358276270"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2003461795198193993",
       "username": "hazenlee",
@@ -9049,6 +9070,18 @@
           "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2000976081063682049%2Fimg%2FoU8e5p1lVRv8joZ2.jpg%3Fname%3Dsmall%26format%3Dwebp"
         }
       ],
+      "quote": {
+        "username": "SonofLiberty357",
+        "displayName": "SonofLiberty357",
+        "content": "Elderly Australian couple heroically tried to take down one of the Bondi Beach terrorists — before both were shot and left to die in each other’s arms.\n\nBoris Gurman, 69, and his 61-year-old wife, Sofia, tried to stop one gunman emerging from his vehicle before being shot-NYPost",
+        "link": "https://x.com/SonofLiberty357/status/2000935809273528375",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8TAg6iW4AMCA2o.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11692,27 +11725,6 @@
         "content": "😂肥哥，感觉到水逆了嘛",
         "link": "https://x.com/nich1344953025/status/2000446230632300911"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000456520690249775",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "币圈老板不吃牛肉？",
-      "contentHtml": "币圈老板不吃牛肉？",
-      "publishedAt": "2025-12-15T06:42:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2000456520690249775",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8MMmchaYAEhs29.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
