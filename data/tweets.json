@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T08:25:02.237Z",
+  "lastUpdated": "2025-12-25T08:51:22.084Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,66 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 436,
+    "newFetched": 437,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2004111608411574770",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "2009 年，你在干嘛？\n\n每次打开BTC的URPD全链数据的那一刻，都让我无比感慨......\n\ntimestamp：2009/1/3 00:00；total_supply：50 —— 这是2009-01-03的创世区块，中本聪挖出了区块高度 0；区块奖励 50 BTC；也就是比特币网络存在的起点。\n\n2009/1/9 中本聪在邮件列表中发布了 Bitcoin Core v0.1；从这一天开始，任何人只要下载程序，就可以参与挖矿。此时，我们看到 total_supply 变成了 750。\n\n2009/1/10～1/11 Hal Finney 下载并运行了比特币程序，他在 2009-01-10 发推：“Running bitcoin”；这是人类历史上第一次除了中本聪之外，有第二个人在真实挖BTC。此时，total_supply 增长到 8450。\n\n2009年早期挖矿的真实状态是：用普通CPU，难度 ≈ 1，一个人一天可以挖几千枚BTC，全网算力 ≈ 几台家用电脑。\n\n半年后，2009/7/22，total_supply 首次突破100万！\n那天，并没有人意识到发生了什么。\n\n为什么说感慨呢？\n\n因为那个时候的我，只知道天天玩《传奇》，哪怕有那么一丁点的认知，挂个线程，一边传奇一边挖矿......\n\n那多年后，我就是传奇了🤣🤣🤣\n\n唉，玩物丧志......",
+      "contentHtml": "2009 年，你在干嘛？\n\n每次打开BTC的URPD全链数据的那一刻，都让我无比感慨......\n\ntimestamp：2009/1/3 00:00；total_supply：50 —— 这是2009-01-03的创世区块，中本聪挖出了区块高度 0；区块奖励 50 BTC；也就是比特币网络存在的起点。\n\n2009/1/9 中本聪在邮件列表中发布了 Bitcoin Core v0.1；从这一天开始，任何人只要下载程序，就可以参与挖矿。此时，我们看到 total_supply 变成了 750。\n\n2009/1/10～1/11 Hal Finney 下载并运行了比特币程序，他在 2009-01-10 发推：“Running bitcoin”；这是人类历史上第一次除了中本聪之外，有第二个人在真实挖BTC。此时，total_supply 增长到 8450。\n\n2009年早期挖矿的真实状态是：用普通CPU，难度 ≈ 1，一个人一天可以挖几千枚BTC，全网算力 ≈ 几台家用电脑。\n\n半年后，2009/7/22，total_supply 首次突破100万！\n那天，并没有人意识到发生了什么。\n\n为什么说感慨呢？\n\n因为那个时候的我，只知道天天玩《传奇》，哪怕有那么一丁点的认知，挂个线程，一边传奇一边挖矿......\n\n那多年后，我就是传奇了🤣🤣🤣\n\n唉，玩物丧志......",
+      "publishedAt": "2025-12-25T08:46:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2004111608411574770",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9AG2idaUAAiD0R.png"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9AG9iRaIAAn1F6.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2004109485045141774",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "什么样的止损是有效止损？\n\n“有效止损”不是“止在最小亏”，而是：当你这笔交易的逻辑被证伪时，止损能把亏损控制在你可承受范围内，并且不容易被正常波动随便扫掉。可以用下面几条来判断。\n\n有效止损的 5 个标准\n\n有“证伪点”\n止损价位必须对应一个清晰的逻辑失效条件：\n\n结构位被破（关键支撑/阻力、前低前高）\n\n你设定的趋势线/箱体边界失守\n\n关键均线/波段低点失守（你交易系统里认可的那种）\n而不是“亏了就忍不住砍”。\n\n距离匹配波动（不容易被噪音扫）\n止损要放在“正常波动范围之外”。常用做法：\n\n放在结构位外再留一点 buffer（例如 0.5–1% / 或 0.5–1×ATR）\n\n低流动性山寨要更宽（否则就是给别人送钱）\n\n先算仓位，再下单（风险固定）\n有效止损一定是“止损幅度 × 仓位 = 你愿意亏的钱”。\n比如你只愿意亏 1%，那就用：\n仓位 = 可承受亏损金额 ÷（入场价-止损价）\n而不是仓位先上满，再祈祷别打到止损。\n\n执行可靠\n\n确认你的止损是“硬止损”（挂单/条件单），不是靠意志力\n\n避开明显的“止损聚集点”也很重要（前高/整数位紧贴放常被扫）\n\n止损后还能继续交易\n一次止损不影响你下一笔的决策质量：不爆仓、不情绪化、不需要“翻本”。\n\n常见的“无效止损”\n\n放在随便一根针就能扫的位置（比如紧贴前高前低）\n\n止损位置跟你的交易逻辑没关系（纯拍脑袋）\n\n用超高杠杆，止损再对也会被波动强平\n\n“移动止损”变成越移越近，被正常回调洗出去\n\n口头止损：打到了不砍\n\n一套最实用的做法（你可以直接用）\n\n先定证伪点：比如“跌破前低就错”\n\n加 buffer：再留 0.5–1×ATR 或 0.5–1%（看品种波动）\n\n按风险算仓位：让止损打到时亏损 = 账户的 0.5%～2%（看你风格）\n\n赚了用结构移动止盈：例如每形成一个 higher low 就把止损抬到那个 HL 下方，而不是追着价格贴身移动。",
+      "contentHtml": "什么样的止损是有效止损？\n\n“有效止损”不是“止在最小亏”，而是：当你这笔交易的逻辑被证伪时，止损能把亏损控制在你可承受范围内，并且不容易被正常波动随便扫掉。可以用下面几条来判断。\n\n有效止损的 5 个标准\n\n有“证伪点”\n止损价位必须对应一个清晰的逻辑失效条件：\n\n结构位被破（关键支撑/阻力、前低前高）\n\n你设定的趋势线/箱体边界失守\n\n关键均线/波段低点失守（你交易系统里认可的那种）\n而不是“亏了就忍不住砍”。\n\n距离匹配波动（不容易被噪音扫）\n止损要放在“正常波动范围之外”。常用做法：\n\n放在结构位外再留一点 buffer（例如 0.5–1% / 或 0.5–1×ATR）\n\n低流动性山寨要更宽（否则就是给别人送钱）\n\n先算仓位，再下单（风险固定）\n有效止损一定是“止损幅度 × 仓位 = 你愿意亏的钱”。\n比如你只愿意亏 1%，那就用：\n仓位 = 可承受亏损金额 ÷（入场价-止损价）\n而不是仓位先上满，再祈祷别打到止损。\n\n执行可靠\n\n确认你的止损是“硬止损”（挂单/条件单），不是靠意志力\n\n避开明显的“止损聚集点”也很重要（前高/整数位紧贴放常被扫）\n\n止损后还能继续交易\n一次止损不影响你下一笔的决策质量：不爆仓、不情绪化、不需要“翻本”。\n\n常见的“无效止损”\n\n放在随便一根针就能扫的位置（比如紧贴前高前低）\n\n止损位置跟你的交易逻辑没关系（纯拍脑袋）\n\n用超高杠杆，止损再对也会被波动强平\n\n“移动止损”变成越移越近，被正常回调洗出去\n\n口头止损：打到了不砍\n\n一套最实用的做法（你可以直接用）\n\n先定证伪点：比如“跌破前低就错”\n\n加 buffer：再留 0.5–1×ATR 或 0.5–1%（看品种波动）\n\n按风险算仓位：让止损打到时亏损 = 账户的 0.5%～2%（看你风格）\n\n赚了用结构移动止盈：例如每形成一个 higher low 就把止损抬到那个 HL 下方，而不是追着价格贴身移动。",
+      "publishedAt": "2025-12-25T08:38:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2004109485045141774",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2004107269781520426",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "强烈看涨 #USDT ，即将大暴涨",
+      "contentHtml": "强烈看涨 <a href=\"/search?q=%23USDT\">#USDT</a> ，即将大暴涨",
+      "publishedAt": "2025-12-25T08:29:00.000Z",
+      "link": "https://x.com/follow_clues/status/2004107269781520426",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2004104172929745019",
       "username": "Bitfatty",
@@ -10511,18 +10566,6 @@
           "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2000976081063682049%2Fimg%2FoU8e5p1lVRv8joZ2.jpg%3Fname%3Dsmall%26format%3Dwebp"
         }
       ],
-      "quote": {
-        "username": "SonofLiberty357",
-        "displayName": "SonofLiberty357",
-        "content": "Elderly Australian couple heroically tried to take down one of the Bondi Beach terrorists — before both were shot and left to die in each other’s arms.\n\nBoris Gurman, 69, and his 61-year-old wife, Sofia, tried to stop one gunman emerging from his vehicle before being shot-NYPost",
-        "link": "https://x.com/SonofLiberty357/status/2000935809273528375",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8TAg6iW4AMCA2o.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11483,97 +11526,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8QnIVta4AIHGJx.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000766207977197868",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "重仓做不好\n\n只能切轻仓做了\n放过自己\n\n$xau",
-      "contentHtml": "重仓做不好\n\n只能切轻仓做了\n放过自己\n\n<a href=\"/search?q=%23xau\">$xau</a>",
-      "publishedAt": "2025-12-16T03:13:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2000766207977197868",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8QmQj_bsAAsPtc.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8QmQjwbAAANcYY.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000765588722081844",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "草，真有人去对开大波动山寨\n开到了，40u赚了几百u\n还抢了比赛第一的奖金1000u\n\napp.taco.trade/leaderboard/8…",
-      "contentHtml": "草，真有人去对开大波动山寨\n开到了，40u赚了几百u\n还抢了比赛第一的奖金1000u\n\n<a href=\"https://app.taco.trade/leaderboard/8888\">app.taco.trade/leaderboard/8…</a>",
-      "publishedAt": "2025-12-16T03:11:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2000765588722081844",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8Qlsh4bsAAAm0_.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "刚直播分享了一些小交易比赛里可以通过多号对开仓的方式  合理套走 比赛奖金  \n很多人表示 看不上\n殊不知这是20年那会 某次币安合约锦标赛结束后\n我发了个微博晒了下名次  \n电侠（你们的龙王） 就在下面评论 说是不是可以搞2个战队 对冲 去套 战队奖金  \n远比辛辛苦苦主观赌多空来的稳定\n\n你看，我记住了，我都在找机会用  \n很多人关注龙王实际上永远学不到多少的 \n没人能学成龙王",
-        "link": "https://x.com/Bitfatty/status/1996944974131363924",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7aSLfhbUAATUTN.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000747319827030172",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "12.10 囤积 1243 万枚 $ASTER 的巨鲸 / 实体 9 小时前将所有代币充值进了 #Binance，价值 1167 万美元\n\n提出价格 $0.9705，充值价格 $0.8688，若卖出将亏损 136.7 万美元；ASTER 现价 $0.806，已跌破 CZ 建仓的成本价 ~$0.913\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-      "contentHtml": "12.10 囤积 1243 万枚 <a href=\"/search?q=%23ASTER\">$ASTER</a> 的巨鲸 / 实体 9 小时前将所有代币充值进了 <a href=\"/search?q=%23Binance\">#Binance</a>，价值 1167 万美元\n\n提出价格 $0.9705，充值价格 $0.8688，若卖出将亏损 136.7 万美元；ASTER 现价 $0.806，已跌破 CZ 建仓的成本价 ~$0.913\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0xFB3BF33Ba8E5d08D87B0db0e46952144DF822833\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/search?q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
-      "publishedAt": "2025-12-16T01:58:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2000747319827030172",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8QVElMa4AEYd0v.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "还记得三个月前囤积 1.33 亿美金 $ASTER 的巨鲸 / 实体吗？\n\n9 小时前该地址再次从 #Binance 提出 1243 万枚 ASTER，价值 1304 万美元，提出价格 $0.9705，看样子是重新开始囤币了🤔\n\n钱包地址 intel.arkm.com/explorer/addr…",
-        "link": "https://x.com/ai_9684xtpa/status/1998572261515854101",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7xazcDaMAAjbWL.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
