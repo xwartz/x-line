@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T16:22:34.212Z",
+  "lastUpdated": "2025-12-25T16:49:22.078Z",
   "followers": [
     {
       "username": "naval"
@@ -75,6 +75,27 @@
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2004228164789375314",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "what happened on 10/10 to wintermute for this dude to shill his bags so hard?",
+      "contentHtml": "what happened on 10/10 to wintermute for this dude to shill his bags so hard?",
+      "publishedAt": "2025-12-25T16:30:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2004228164789375314",
+      "quote": {
+        "username": "EvgenyGaevoy",
+        "displayName": "wishful_cynic",
+        "content": "These barely 30 year old crypto builders and KOLs who “quit crypto” are frauds. You barely even started. You didn’t even give crypto a chance. You didn’t quit. You never started. Stolen valor.",
+        "link": "https://x.com/EvgenyGaevoy/status/2004139983956070541"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2004223063102247353",
       "username": "follow_clues",
@@ -11383,38 +11404,6 @@
       "retweet": {
         "username": "coolish",
         "displayName": "paulwei"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000865759552266526",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "respect to @0x0funky \nnitter.privacyredirect.com/0x0funky/status/200072…",
-      "contentHtml": "respect to <a href=\"/0x0funky\" title=\"0xFunky\">@0x0funky</a> \n<a href=\"https://nitter.privacyredirect.com/0x0funky/status/2000723371835973794?s=46\">nitter.privacyredirect.com/0x0funky/status/200072…</a>",
-      "publishedAt": "2025-12-16T09:49:00.000Z",
-      "link": "https://x.com/coolish/status/2000865759552266526",
-      "retweet": {
-        "username": "coolish",
-        "displayName": "paulwei"
-      },
-      "quote": {
-        "username": "0x0funky",
-        "displayName": "0xFunky",
-        "content": "之前開源了wei神的歷史交易數據紀錄平台後，有收到一些交易員的建議是否能新增支援其他交易所的資料。\n\n主要原因是因為許多主流交易所的 APP 或網頁端，很多無法顯示太久之前的歷史交易紀錄，對於想要完整覆盤，紀錄自己的TradeJourney並找出自己交易盲點的人來說是很難的，如果能有一個平台，整合自己所有交易所的交易紀錄，進行系統性的分析，那會很有幫助。\n\n因此我用了兩天的時間，將原本只記錄Wei神（BitMex）的平台進行了重構與升級，並正式取名為TradeVoyage！\n\nTradeVoyage 重大更新\n\n• 多交易所支援：\n支援 BitMEX、Binance Futures、OKX、Bybit 過去歷史交易資料的記錄 dashboard 。\n\n• 導入 Read-Only API：\n現在可以直接在平台上使用唯讀 API 安全地下載您的歷史交易數據，不用再跑script另外下載，未來會支援自動更新功能。\n\n• AI 交易分析：\n整合了最新的AI 模型（包含 GPT-5.2、Claude Sonnet 4、Gemini 3 Pro 等），將過去的交易紀錄送進AI進行多維度分析，也可自行設計 prompt 達到客製化分析的功能（不得不說GPT-5.2分析挺好的…）\n\n• 全面優化：\n依據不同交易所進行更精準的倉位和 PnL 計算，改進的 K 線圖與交易標記顯示，可直接點選某次倉位快速跳到該時間段進行進場出場邏輯覆盤。\n\nTraderVoyage 是完全免費且開源的！ 市場上有TraderSync 但是是收費的，我希望能以免費開源的方式，做出更貼合Crypto交易員的需求的產品，未來會持續優化與更新，也希望大家能提供寶貴的意見和功能建議，讓我們一起將 TraderVoyage 打造成最好的交易覆盤免費開源工具🙏\n\n平台已於 Github 全開源，因為是開源自行部署，一切都在自己的電腦，完全不用擔心API或資料會有外流的問題，連結在留言。",
-        "link": "https://x.com/0x0funky/status/2000723371835973794",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2000723035717033985%2Fimg%2FN2M-EfHUzMpNk793.jpg%3Fname%3Dsmall%26format%3Dwebp"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
