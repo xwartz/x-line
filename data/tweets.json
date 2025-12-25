@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T04:08:33.910Z",
+  "lastUpdated": "2025-12-25T04:50:56.276Z",
   "followers": [
     {
       "username": "naval"
@@ -75,6 +75,42 @@
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2004045688838279492",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "强烈看涨 #SOL ，即将大暴涨",
+      "contentHtml": "强烈看涨 <a href=\"/search?q=%23SOL\">#SOL</a> ，即将大暴涨",
+      "publishedAt": "2025-12-25T04:25:00.000Z",
+      "link": "https://x.com/follow_clues/status/2004045688838279492",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2004043427265368248",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "usd1又开额度了，20%这个利率不管牛市熊市都很高了，这个行情能稳定资产增长已经很好了，不要被来币圈是为了翻身这句话给洗脑。记住你是来赚钱的。",
+      "contentHtml": "usd1又开额度了，20%这个利率不管牛市熊市都很高了，这个行情能稳定资产增长已经很好了，不要被来币圈是为了翻身这句话给洗脑。记住你是来赚钱的。",
+      "publishedAt": "2025-12-25T04:16:00.000Z",
+      "link": "https://x.com/0xleng1/status/2004043427265368248",
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "币安五万u的usd1你就冲吧20%的apr 一存一个不吱声，目前最安全最划算的存款了。",
+        "link": "https://x.com/0xleng1/status/2003669102364360920"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2004039794347987030",
       "username": "0xleng1",
@@ -10323,18 +10359,6 @@
           "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2000976081063682049%2Fimg%2FoU8e5p1lVRv8joZ2.jpg%3Fname%3Dsmall%26format%3Dwebp"
         }
       ],
-      "quote": {
-        "username": "SonofLiberty357",
-        "displayName": "SonofLiberty357",
-        "content": "Elderly Australian couple heroically tried to take down one of the Bondi Beach terrorists — before both were shot and left to die in each other’s arms.\n\nBoris Gurman, 69, and his 61-year-old wife, Sofia, tried to stop one gunman emerging from his vehicle before being shot-NYPost",
-        "link": "https://x.com/SonofLiberty357/status/2000935809273528375",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8TAg6iW4AMCA2o.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11524,60 +11548,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8QCUYua4AUceFX.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000726586115678258",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "哪些交易逻辑一旦想明白，盈利会突然稳定放大？",
-      "contentHtml": "哪些交易逻辑一旦想明白，盈利会突然稳定放大？",
-      "publishedAt": "2025-12-16T00:36:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2000726586115678258",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2000723371835973794",
-      "username": "0x0funky",
-      "displayName": "0xFunky",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1907007357839908864%2Fc3aYiAHI_bigger.jpg",
-      "content": "之前開源了wei神的歷史交易數據紀錄平台後，有收到一些交易員的建議是否能新增支援其他交易所的資料。\n\n主要原因是因為許多主流交易所的 APP 或網頁端，很多無法顯示太久之前的歷史交易紀錄，對於想要完整覆盤，紀錄自己的TradeJourney並找出自己交易盲點的人來說是很難的，如果能有一個平台，整合自己所有交易所的交易紀錄，進行系統性的分析，那會很有幫助。\n\n因此我用了兩天的時間，將原本只記錄Wei神（BitMex）的平台進行了重構與升級，並正式取名為TradeVoyage！\n\nTradeVoyage 重大更新\n\n• 多交易所支援：\n支援 BitMEX、Binance Futures、OKX、Bybit 過去歷史交易資料的記錄 dashboard 。\n\n• 導入 Read-Only API：\n現在可以直接在平台上使用唯讀 API 安全地下載您的歷史交易數據，不用再跑script另外下載，未來會支援自動更新功能。\n\n• AI 交易分析：\n整合了最新的AI 模型（包含 GPT-5.2、Claude Sonnet 4、Gemini 3 Pro 等），將過去的交易紀錄送進AI進行多維度分析，也可自行設計 prompt 達到客製化分析的功能（不得不說GPT-5.2分析挺好的…）\n\n• 全面優化：\n依據不同交易所進行更精準的倉位和 PnL 計算，改進的 K 線圖與交易標記顯示，可直接點選某次倉位快速跳到該時間段進行進場出場邏輯覆盤。\n\nTraderVoyage 是完全免費且開源的！ 市場上有TraderSync 但是是收費的，我希望能以免費開源的方式，做出更貼合Crypto交易員的需求的產品，未來會持續優化與更新，也希望大家能提供寶貴的意見和功能建議，讓我們一起將 TraderVoyage 打造成最好的交易覆盤免費開源工具🙏\n\n平台已於 Github 全開源，因為是開源自行部署，一切都在自己的電腦，完全不用擔心API或資料會有外流的問題，連結在留言。",
-      "contentHtml": "之前開源了wei神的歷史交易數據紀錄平台後，有收到一些交易員的建議是否能新增支援其他交易所的資料。\n\n主要原因是因為許多主流交易所的 APP 或網頁端，很多無法顯示太久之前的歷史交易紀錄，對於想要完整覆盤，紀錄自己的TradeJourney並找出自己交易盲點的人來說是很難的，如果能有一個平台，整合自己所有交易所的交易紀錄，進行系統性的分析，那會很有幫助。\n\n因此我用了兩天的時間，將原本只記錄Wei神（BitMex）的平台進行了重構與升級，並正式取名為TradeVoyage！\n\nTradeVoyage 重大更新\n\n• 多交易所支援：\n支援 BitMEX、Binance Futures、OKX、Bybit 過去歷史交易資料的記錄 dashboard 。\n\n• 導入 Read-Only API：\n現在可以直接在平台上使用唯讀 API 安全地下載您的歷史交易數據，不用再跑script另外下載，未來會支援自動更新功能。\n\n• AI 交易分析：\n整合了最新的AI 模型（包含 GPT-5.2、Claude Sonnet 4、Gemini 3 Pro 等），將過去的交易紀錄送進AI進行多維度分析，也可自行設計 prompt 達到客製化分析的功能（不得不說GPT-5.2分析挺好的…）\n\n• 全面優化：\n依據不同交易所進行更精準的倉位和 PnL 計算，改進的 K 線圖與交易標記顯示，可直接點選某次倉位快速跳到該時間段進行進場出場邏輯覆盤。\n\nTraderVoyage 是完全免費且開源的！ 市場上有TraderSync 但是是收費的，我希望能以免費開源的方式，做出更貼合Crypto交易員的需求的產品，未來會持續優化與更新，也希望大家能提供寶貴的意見和功能建議，讓我們一起將 TraderVoyage 打造成最好的交易覆盤免費開源工具🙏\n\n平台已於 Github 全開源，因為是開源自行部署，一切都在自己的電腦，完全不用擔心API或資料會有外流的問題，連結在留言。",
-      "publishedAt": "2025-12-16T00:23:00.000Z",
-      "link": "https://x.com/0x0funky/status/2000723371835973794",
-      "media": [
-        {
-          "type": "video",
-          "url": "",
-          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2000723035717033985%2Fimg%2FN2M-EfHUzMpNk793.jpg%3Fname%3Dsmall%26format%3Dwebp"
-        }
-      ],
-      "retweet": {
-        "username": "coolish",
-        "displayName": "paulwei"
-      },
-      "quote": {
-        "username": "0x0funky",
-        "displayName": "0xFunky",
-        "content": "[Vibe Coding 實戰演示]\n\n昨天看到wei神公佈Read only的API就想說來玩一下Vibe Coding，寫出了一個過去wei神的歷史交易數據紀錄平台，平台記錄著wei神過去交易資訊，然後搭配Chart的K棒來做交易Mark參考，記錄一下整個Vibe過程，順便教學一下我都怎麼 Vibe Coding 一些想法。\n\n我沒有把平台部屬起來，直接開源放到了Github上面，所有歷史交易數據包含order還有trade還有帳戶history的csv資料也都放到雲端開放大家下載，留言都有連結。\n\n整個Vibe過程大概花了半天，中間經歷了使用Gemini 3還有Opus 4.5，大致過程如下:\n\n1⃣一開始使用Antigravity+Gemini3，我直接把wei神的貼文複製貼上去並加了這個prompt\n\n\"這是一個交易員公開了他的read only api，請幫我分析內文這是哪一家cex的api並且把他過去的歷史交易資訊全部抓下來存成csv\"\n\n接著他直接分析內文認為是bitmex的api，但他還是寫了一個script測試是幣安還是bitmex，確認是bitmex後就寫出了一個抓取data的script去把歷史trade的數據給抓了回來。\n\n2⃣資料抓完之後我下了這個prompt\n\n\"請幫我利用抓取下來的trade history建立一個dashboard，包含了所有資訊，並且加入Chart來顯示交易的紀錄\"\n\n然後就一步步生出了一版非常陽春的版本，上面有歷史K棒擠了一大堆的BUY & SELL，然後下面顯示所有的交易Table。\n\n這邊提一下，中間會出現一些error，Antigravity很炫，可以在瀏覽器安裝一個extension，他會直接去操作網站並截圖error直接分析debug，但我這邊非常不建議讓他這麼做，精準度太差，建議一律手動複製網站上的error log貼上去當prompt 做debug。\n\n3⃣因為抓下來的Trade log並不是倉位歷史的資訊，基本上只有buy 跟sell，而且同一個order會拆成很多的buy呈現在圖表上整個超亂的，我想做的應該是分析wei神每一個倉位歷史開單邏輯跟關單邏輯，如果不把trade整合成倉位歷史根本沒辦法看，所以我就下了這個prompt。\n\n\"有辦法把這csv做成類似倉位歷史嗎? 就是每一個開單還有這個開單pnl多少那種? 還是bitmax可以fetch這種api?    因為目前的trade log是每一次的交易（有可能是同一個order但分不同trade成交），不是同一個order跟position，想要做成那種倉位歷史的概念，請幫我做看看？\"\n\n結果他使用了FIFO (先進先出 First In, First Out）的方法來幫我整理CSV並新增了一個Position的Page，但這問題就來了，我看了一下整理出來的倉位歷史一定是錯的而且超亂，之後不論我怎麼問Gemini 3 一直鬼打牆在處理csv，結果也都一直是錯的。\n\n4⃣ 剛好 Claude Opus 4.5 釋出，想說試試看，我就切換到Cursor + Opus 4.5，下了這個prompt (其實就是閒聊)\n\n\"這是我之前設計的一個平台，有一個很厲害的交易員提供 READ ONLY的API, 讓使用者可以抓他Bitmex這家交易所的歷史交易資訊, 我之前有寫一個script把trade log都抓成 bitmex_trades csv這個檔案\n\n不過我發現這是trade log, 每一筆trade都會記錄, 但並不是倉位歷史, bitmex有api抓倉位歷史嗎? 還是說要用這個csv去計算倉位歷史，bitmex 除了trade history以外有沒有什麼api可以抓取更多information讓這個平台更好的?\n\n然後這個平台目前有display 每一筆交易的 chart, 我是希望可以變成倉位歷史, 然後點倉位後就可以顯示那一次的倉位操作來做學習\"\n\n神奇的來了，Opus直接去翻bitmex的api doc，抓取了wallet/order/execution history，然後直接把我卡了很久的問題全部解決了，他直接利用了order還有execution算出了比較精確的倉位歷史，甚至還幫我加了首頁的Overview Page。\n\n5⃣ 接下來就是一些前端的修飾，我直接回到Gemini請他幫我調整CSS跟介面讓介面看起來更專業一些，還有更新Chart使用類似TradingView的畫面。\n\n最後還是感謝 @coolish 提供實盤紀錄供別人學習，確實是我看過第一個這樣公開敢把實盤 API 直接丟出來，讓大家無死角檢視並學習每一筆進出單細節的交易員。\n\n而這就是 Vibe Coding 的魅力，半天時間就能把一個單純的 idea 落地成實用的分析工具，整個過程基本上你也不需要懂程式。\n\n最後希望這篇實戰紀錄能給大家一點啟發，都一起 Vibe 起來吧！",
-        "link": "https://x.com/0x0funky/status/1993320956912451804",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F1993319234248884225%2Fimg%2FqjYmYzTroyUbKhJr.jpg%3Fname%3Dsmall%26format%3Dwebp"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
