@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T06:53:53.036Z",
+  "lastUpdated": "2025-12-27T07:17:06.209Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,77 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 435,
+    "newFetched": 436,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2004812766151147697",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "医药代表听说血赚？",
+      "contentHtml": "医药代表听说血赚？",
+      "publishedAt": "2025-12-27T07:13:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2004812766151147697",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9KGlJCaEAAPpnt.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "彩票店不是才7%的利润么，咋这么多女的开始搞这个？？？",
+        "link": "https://x.com/Bitfatty/status/1998004953978429810",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7pW6WjaUAEIUOE.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2004810856752926833",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "CoinKarma 今年最大的里程碑，是我們做出了 Strategy Maker（策略編輯器）：一個全圖形化介面 (GUI) 的回測與量化機器人製作工具。\n\n為什麼要做這個？因為這是目前市面上所有數據網站都沒有做到的事。\n\n大部分的數據平台，只會丟給你「一狗票數據」，然後賣你超貴的 API 方案。買了數據之後呢？痛苦才剛開始： 你要自己從數據海裡找 Alpha、自己寫程式回測、自己對接交易所 API、還要自己架伺服器監控部署......\n\n我們決定把這些「累活」全包了。\n\n我們把繁瑣的技術流程封裝成簡單的圖形介面。11 月初功能上線至今才一個多月，平台上已經跑著 300+ 支交易機器人，整體平均 ROI 達 +13%。\n\n這套體系的獲利能力，不僅體現在用戶的自己做的策略上，更由我們的官方策略 Ultron 給出了長期驗證。 \n\nUltron 運行近 600 天，在經歷了各種極端行情後，依然持續跑贏大盤：\nROI：+196% (同期 BTC +36%)\n最大回撤：21% (同期 BTC 35%)\n\n我們堅持「不觸碰用戶資金」。不索取 Trade API 權限，僅透過 Webhook 發送交易訊號，最大化確保用戶資產安全。\n\n截至目前，CoinKarma 全平台 AUM（含 Ultron 與用戶自建策略）已逼近 $20M。\n\n----\n很多人一開始聽到我想做「數據網站」，第一個反應都是：「Crypto 賣數據的平台已經這麼多了，你要怎麼差異化？」\n\n我的答案一直很清楚： \n我們不是想賣更多數據或指標，而是降低「把一個好交易邏輯，真正變成可被長期執行系統」的門檻。\n\nStrategy Maker 這個產品，就是我一直以來的願景： 讓交易者可以把時間用在思考市場，而不是消耗在技術細節上。\n\n我們不碰資金、不做託管，只專注把「交易自動化」這件事，做到簡單、透明、可長期使用。\n\n我們真正想做的，是幫助一個好交易想法，能更容易被驗證、被執行。\n\n這條路正在路上，我相信我們會越做越好。",
+      "contentHtml": "CoinKarma 今年最大的里程碑，是我們做出了 Strategy Maker（策略編輯器）：一個全圖形化介面 (GUI) 的回測與量化機器人製作工具。\n\n為什麼要做這個？因為這是目前市面上所有數據網站都沒有做到的事。\n\n大部分的數據平台，只會丟給你「一狗票數據」，然後賣你超貴的 API 方案。買了數據之後呢？痛苦才剛開始： 你要自己從數據海裡找 Alpha、自己寫程式回測、自己對接交易所 API、還要自己架伺服器監控部署......\n\n我們決定把這些「累活」全包了。\n\n我們把繁瑣的技術流程封裝成簡單的圖形介面。11 月初功能上線至今才一個多月，平台上已經跑著 300+ 支交易機器人，整體平均 ROI 達 +13%。\n\n這套體系的獲利能力，不僅體現在用戶的自己做的策略上，更由我們的官方策略 Ultron 給出了長期驗證。 \n\nUltron 運行近 600 天，在經歷了各種極端行情後，依然持續跑贏大盤：\nROI：+196% (同期 BTC +36%)\n最大回撤：21% (同期 BTC 35%)\n\n我們堅持「不觸碰用戶資金」。不索取 Trade API 權限，僅透過 Webhook 發送交易訊號，最大化確保用戶資產安全。\n\n截至目前，CoinKarma 全平台 AUM（含 Ultron 與用戶自建策略）已逼近 $20M。\n\n----\n很多人一開始聽到我想做「數據網站」，第一個反應都是：「Crypto 賣數據的平台已經這麼多了，你要怎麼差異化？」\n\n我的答案一直很清楚： \n我們不是想賣更多數據或指標，而是降低「把一個好交易邏輯，真正變成可被長期執行系統」的門檻。\n\nStrategy Maker 這個產品，就是我一直以來的願景： 讓交易者可以把時間用在思考市場，而不是消耗在技術細節上。\n\n我們不碰資金、不做託管，只專注把「交易自動化」這件事，做到簡單、透明、可長期使用。\n\n我們真正想做的，是幫助一個好交易想法，能更容易被驗證、被執行。\n\n這條路正在路上，我相信我們會越做越好。",
+      "publishedAt": "2025-12-27T07:05:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2004810856752926833",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9KBLO8bgAAKCvr.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9KBRIgbgAIRMvA.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9KBVY_bgAU18PV.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9KELD2bgAUhCV0.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2004787205492146239",
       "username": "BensonTWN",
@@ -11452,48 +11518,6 @@
         {
           "type": "image",
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8WiQkXa4AE2k3d.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001183150534484048",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "好问题！这确实是做多波动率策略的核心痛点之一👍👍👍\n\n筹码集中度信号主要是提示实现波动率的潜在爆发，但如果宏观事件已经在前，市场往往会提前定价，导致隐含波动率被显著抬高。这时IV过高，long vol的性价比会下降，因为你买的期权已经“贵”了。\n\n但也不是完全没机会，如果筹码集中度极高（比如之前17%+级别），说明链上结构很脆弱，事件可能引发超预期连锁反应，RV大幅超过IV，这种情况下long vol仍有正期望哈。\n\n所以具体实施的策略还需要根据不同情况做动态调整呢。",
-      "contentHtml": "好问题！这确实是做多波动率策略的核心痛点之一👍👍👍\n\n筹码集中度信号主要是提示实现波动率的潜在爆发，但如果宏观事件已经在前，市场往往会提前定价，导致隐含波动率被显著抬高。这时IV过高，long vol的性价比会下降，因为你买的期权已经“贵”了。\n\n但也不是完全没机会，如果筹码集中度极高（比如之前17%+级别），说明链上结构很脆弱，事件可能引发超预期连锁反应，RV大幅超过IV，这种情况下long vol仍有正期望哈。\n\n所以具体实施的策略还需要根据不同情况做动态调整呢。",
-      "publishedAt": "2025-12-17T06:50:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2001183150534484048",
-      "quote": {
-        "username": "0xBreakingCati",
-        "displayName": "Breaking Cat",
-        "content": "想追问M大一个细节：当筹码集中度升高提示“波动将至”时，如果当下隐含波动率已经被市场提前抬高（例如宏观事件在前），做多波动是否还具备性价比？",
-        "link": "https://x.com/0xBreakingCati/status/2001144937082183754"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001179911667769851",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
-      "content": "出货的说辞真的是会优化呢\n用于建设 Build！",
-      "contentHtml": "出货的说辞真的是会优化呢\n用于建设 Build！",
-      "publishedAt": "2025-12-17T06:37:00.000Z",
-      "link": "https://x.com/hazenlee/status/2001179911667769851",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8WehM_a4AI8kwK.jpg"
         }
       ],
       "stats": {
