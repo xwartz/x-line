@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T01:30:11.468Z",
+  "lastUpdated": "2025-12-28T03:26:45.489Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,148 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 437,
+    "newFetched": 438,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2005110696640647676",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "1 亿枚 UNI 销毁完成，币价再次站上 6 刀；突然想起来「2020.09 起 $UNI 波段累计获利 2154 万美元巨鲸」，发现人家五个月前就卖掉了🤪\n\n662,605 枚 UNI，成本 $5.99，卖出价 $8.82，虽然没有卖在最高点 12 美金附近，但还是获利了 187.5 万美元 —— 即 2020.09 以来的三次 $UNI 波段累计获利 2,341.5 万美元，胜率 100%\n\n还好没有当钻石手，不然拿到现在也只是回本了…\nintel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
+      "contentHtml": "1 亿枚 UNI 销毁完成，币价再次站上 6 刀；突然想起来「2020.09 起 <a href=\"/search?q=%23UNI\">$UNI</a> 波段累计获利 2154 万美元巨鲸」，发现人家五个月前就卖掉了🤪\n\n662,605 枚 UNI，成本 $5.99，卖出价 $8.82，虽然没有卖在最高点 12 美金附近，但还是获利了 187.5 万美元 —— 即 2020.09 以来的三次 <a href=\"/search?q=%23UNI\">$UNI</a> 波段累计获利 2,341.5 万美元，胜率 100%\n\n还好没有当钻石手，不然拿到现在也只是回本了…\n<a href=\"https://intel.arkm.com/explorer/address/0x4B0d3273B75AA15715be2e36E111f4cA8AB6c9f8\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/search?q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
+      "publishedAt": "2025-12-28T02:56:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2005110696640647676",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9OVfOsaQAA-OC7.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "🦄UNI 大神又出手了！2020.09 $UNI 上线以来两次波段累计获利 2154 万美元，其中首次波段持有 8 个月后卖出，抛售点位 $42 几乎为历史最高点！\n\n沉睡三年后他于五小时前再次建仓 662,605 UNI，价值 397 万美元，均价 $5.99，这将是他的第三次 UNI 波段\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 #Gateio | @Gateio_zh 赞助",
+        "link": "https://x.com/ai_9684xtpa/status/1925026864663577076",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FGrcQh15bAAMUHi_.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2005110172830826669",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
+      "content": "Congratulations, by threatening taxes on illiquid paper markups, you’ve halted AI fundraising for 2026.",
+      "contentHtml": "Congratulations, by threatening taxes on illiquid paper markups, you’ve halted AI fundraising for 2026.",
+      "publishedAt": "2025-12-28T02:54:00.000Z",
+      "link": "https://x.com/naval/status/2005110172830826669",
+      "quote": {
+        "username": "RoKhanna",
+        "displayName": "Ro Khanna",
+        "content": "Peter Thiel is leaving California if we pass a 1% tax on billionaires for 5 years to pay for healthcare for the working class facing steep Medicaid cuts.\n\nI echo what FDR said with sarcasm of economic royalists when they threatened to leave, \"I will miss them very much.\"",
+        "link": "https://x.com/RoKhanna/status/2004776831501947267"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2005106424385601706",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "優化 Ultron 是一件超級有正反饋的事情。\n\n今年有兩次關鍵調整。\n\n第一次在二月底，我們改變了分批進場的邏輯，讓倉位能根據市場狀態動態調整。從那之後，淨值曲線變得更平滑，波動收斂，穩定向上。\n\n第二次在九月底，我們把原本固定的調倉閥值改成動態閥值，讓策略能自行判斷什麼時候該積極、什麼時候該保守。這次改動效果很明確，隔月就繳出 +18% 的成績。\n\n我相信早期會員能感受到，這支策略從 600 天前到現在，進化了多少。\n\n對外界來說，這只是一條單純的淨值曲線。但對我們來說，那是無數次假設、測試、推翻、重構的結果。\n\n市場永遠在變，我們會持續專注於提升策略的適應力。Ultron 不會停止進化。我們會繼續打磨這把劍，讓它在下一個 600 天持續交出好表現。",
+      "contentHtml": "優化 Ultron 是一件超級有正反饋的事情。\n\n今年有兩次關鍵調整。\n\n第一次在二月底，我們改變了分批進場的邏輯，讓倉位能根據市場狀態動態調整。從那之後，淨值曲線變得更平滑，波動收斂，穩定向上。\n\n第二次在九月底，我們把原本固定的調倉閥值改成動態閥值，讓策略能自行判斷什麼時候該積極、什麼時候該保守。這次改動效果很明確，隔月就繳出 +18% 的成績。\n\n我相信早期會員能感受到，這支策略從 600 天前到現在，進化了多少。\n\n對外界來說，這只是一條單純的淨值曲線。但對我們來說，那是無數次假設、測試、推翻、重構的結果。\n\n市場永遠在變，我們會持續專注於提升策略的適應力。Ultron 不會停止進化。我們會繼續打磨這把劍，讓它在下一個 600 天持續交出好表現。",
+      "publishedAt": "2025-12-28T02:39:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2005106424385601706",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9OOeARbgAc40GN.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2005099501049270692",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
+      "content": "Mediterranean land is scarce, desirable, and the cradle of civilization. \n\nIn the age of human capital, it’s a national treasure, more valuable than an oil field or a gold mine.\n\nSo communists work tirelessly to seize California, a monopoly on the most valuable land in the world.",
+      "contentHtml": "Mediterranean land is scarce, desirable, and the cradle of civilization. \n\nIn the age of human capital, it’s a national treasure, more valuable than an oil field or a gold mine.\n\nSo communists work tirelessly to seize California, a monopoly on the most valuable land in the world.",
+      "publishedAt": "2025-12-28T02:12:00.000Z",
+      "link": "https://x.com/naval/status/2005099501049270692",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2005098607557706188",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "Naval 說，幸福是一種選擇。這句話該怎麼理解？\n\n你一出生，感官就開始不斷接收刺激——聲音、畫面、比較、評價、恐懼、慾望。\n\n大多數人以為，這些刺激本身構成了人生。但刺激只是輸入端。真正決定「你活在什麼樣的世界裡」的，是你內在那套評價系統。\n\n世界是客觀存在的。山在那裡，水在那裡，人也在那裡。它們不會因為你的快樂而改變形狀，也不會因為你的痛苦而多給你補償。\n\n所以幸福的重點，從來不是你所處的現實，而是你如何回應這個現實。\n\n當我們說「幸福是一種選擇」，它同時也是一種責任。\n\n責任的英文是 Responsibility。\n拆開來看：Response + Ability——回應的能力。\n\n你無法控制世界給你什麼，但你永遠有權決定自己如何回應。\n\n這句話真正殘酷、也真正慈悲的地方在於：它把責任從世界手中，完整地交回你自己。\n\n人的心很複雜。很多時候，讓我們不幸福的事情，跟我們根本無關。\n\n你滑 IG，看到有人年紀輕輕就財富自由。那張照片只是一組像素，不帶任何攻擊性。是你選擇把它翻譯成「我不夠好」。\n\n你在路上被人按喇叭超車，那個人根本不認識你，他可能只是上班快遲到。那聲喇叭是物理現象，他的急躁是他的課題。但你若氣得一整天心情不好，就是主動把別人的垃圾撿進了自己心裡。\n\n這些事客觀發生了，但它們本身不攜帶「快樂」或「痛苦」的病毒。感染你的，是你的反應。\n\n所以 Naval 說的「幸福是一種選擇」，不是要你盲目樂觀，假裝壞事沒發生。\n\n他是在說，你該修煉的，是回應現實的能力。\n\n外在的劇本寫得再爛，那是世界的事。如何演好你的角色，這份權力始終在你手裡。\n\n這才是成年人真正的自由。",
+      "contentHtml": "Naval 說，幸福是一種選擇。這句話該怎麼理解？\n\n你一出生，感官就開始不斷接收刺激——聲音、畫面、比較、評價、恐懼、慾望。\n\n大多數人以為，這些刺激本身構成了人生。但刺激只是輸入端。真正決定「你活在什麼樣的世界裡」的，是你內在那套評價系統。\n\n世界是客觀存在的。山在那裡，水在那裡，人也在那裡。它們不會因為你的快樂而改變形狀，也不會因為你的痛苦而多給你補償。\n\n所以幸福的重點，從來不是你所處的現實，而是你如何回應這個現實。\n\n當我們說「幸福是一種選擇」，它同時也是一種責任。\n\n責任的英文是 Responsibility。\n拆開來看：Response + Ability——回應的能力。\n\n你無法控制世界給你什麼，但你永遠有權決定自己如何回應。\n\n這句話真正殘酷、也真正慈悲的地方在於：它把責任從世界手中，完整地交回你自己。\n\n人的心很複雜。很多時候，讓我們不幸福的事情，跟我們根本無關。\n\n你滑 IG，看到有人年紀輕輕就財富自由。那張照片只是一組像素，不帶任何攻擊性。是你選擇把它翻譯成「我不夠好」。\n\n你在路上被人按喇叭超車，那個人根本不認識你，他可能只是上班快遲到。那聲喇叭是物理現象，他的急躁是他的課題。但你若氣得一整天心情不好，就是主動把別人的垃圾撿進了自己心裡。\n\n這些事客觀發生了，但它們本身不攜帶「快樂」或「痛苦」的病毒。感染你的，是你的反應。\n\n所以 Naval 說的「幸福是一種選擇」，不是要你盲目樂觀，假裝壞事沒發生。\n\n他是在說，你該修煉的，是回應現實的能力。\n\n外在的劇本寫得再爛，那是世界的事。如何演好你的角色，這份權力始終在你手裡。\n\n這才是成年人真正的自由。",
+      "publishedAt": "2025-12-28T02:08:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2005098607557706188",
+      "quote": {
+        "username": "vibeverything",
+        "displayName": "A.I. Vibe Everthing",
+        "content": "== 纳瓦尔：人生是一场“单人游戏” == \n\n\"Life is a single player game.\" @naval \n\n1. 世界不过是你内心感受的镜子；\n\n2. 停止评判他人，世界才会重新变得开阔；\n\n3. 活得快乐，是一种选择。如果你相信快乐是一种选择，就可以为之努力，但你也必须亲自解开那些让你不快乐的固有模式；\n\n4.  一切都在你的脑海发生：你的所思所想会塑造你的现实。这取决于你敢于冒什么险、做出什么事，也离不开你经历的琐碎日常体验；\n\n5. 现实是中立的，本身没有评判，没有对错好坏之分；\n\n6. 你出生后经历一系列的感官体验和刺激（光线、色彩、声音），然后死亡。如何诠释这段经历？选择权在你手中；",
+        "link": "https://x.com/vibeverything/status/2004932158981591062",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2004927527064940544%2Fimg%2FyQQSpOYGTL5GRr0l.jpg%3Fname%3Dsmall%26format%3Dwebp"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2005090573934624845",
+      "username": "NavalismHQ",
+      "displayName": "Navalism",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1350045723073671169%2FxB1_K1_z_bigger.jpg",
+      "content": "\"Startup compensation package - Meaningful work, an alumni network, and a lottery ticket.\"\n\n@naval",
+      "contentHtml": "\"Startup compensation package - Meaningful work, an alumni network, and a lottery ticket.\"\n\n<a href=\"/naval\" title=\"Naval\">@naval</a>",
+      "publishedAt": "2025-12-28T01:37:00.000Z",
+      "link": "https://x.com/NavalismHQ/status/2005090573934624845",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2005088048560964050",
       "username": "ai_9684xtpa",
@@ -138,6 +275,31 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9OAJfxbwAAnilg.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2005087090900385817",
+      "username": "chamath",
+      "displayName": "Chamath Palihapitiya",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1883600182165848064%2F-9LbG3md_bigger.jpg",
+      "content": "It’s not 1% a year for 5 years. \n\nIt’s a one time 5% tax on all assets and it will kill entrepreneurship in California. \n\nHere is an example:\n\nJohn Doe starts a company. He takes a nominal salary - say $150k for this example - and the rest in equity in the company. Let’s say he owns 20%. He raises VC capital in 2026 from someone that invests $100M into the company and values the company at $6B. This means his 20% is “worth” $1.2B. \n\nI put it in quotes because he can’t actually sell. He has a paper value that putatively says he’s a billionaire. But he actually lives on $150k because that is what his income is. Just because someone decides to make a bet on the business does not mean some bank account in your name magically gets created with $1.2B in it. \n\nUnder the proposed tax, however, John Doe would now owe $60M in cash to California in 2027. \n\nHow will he pay it? \n\nIs there some buyer you know of, that the rest of the market doesn’t, that will do a deal at the max value when there is a distressed seller like John Doe who needs money he doesn’t have to pay taxes on value he also doesn’t have!\n\nNow imagine that after the tax is assessed, in early 2027, the company takes a write down to $200M. Now his share is $40M. But he still owes $60M. Again, there are no buyers for his shares per se. \n\nHe still only makes $150k/yr. \n\nWhat is this person supposed to do? He now has a “worth” of $40M but owes California $60M. \n\nShould he declare bankruptcy now because he tried to start a business but was retarded enough to do it in California?\n\nSo did you really get the billionaires??\n\nNo. Because the mega billionaires have already left or are tax structured to minimize the tax or will fight it. \n\nYou will, however, drag a bunch of young, energetic folks who want to make things and hire people into bankruptcy court. \n\nAwesome work, Ro. You should be proud.",
+      "contentHtml": "It’s not 1% a year for 5 years. \n\nIt’s a one time 5% tax on all assets and it will kill entrepreneurship in California. \n\nHere is an example:\n\nJohn Doe starts a company. He takes a nominal salary - say $150k for this example - and the rest in equity in the company. Let’s say he owns 20%. He raises VC capital in 2026 from someone that invests $100M into the company and values the company at $6B. This means his 20% is “worth” $1.2B. \n\nI put it in quotes because he can’t actually sell. He has a paper value that putatively says he’s a billionaire. But he actually lives on $150k because that is what his income is. Just because someone decides to make a bet on the business does not mean some bank account in your name magically gets created with $1.2B in it. \n\nUnder the proposed tax, however, John Doe would now owe $60M in cash to California in 2027. \n\nHow will he pay it? \n\nIs there some buyer you know of, that the rest of the market doesn’t, that will do a deal at the max value when there is a distressed seller like John Doe who needs money he doesn’t have to pay taxes on value he also doesn’t have!\n\nNow imagine that after the tax is assessed, in early 2027, the company takes a write down to $200M. Now his share is $40M. But he still owes $60M. Again, there are no buyers for his shares per se. \n\nHe still only makes $150k/yr. \n\nWhat is this person supposed to do? He now has a “worth” of $40M but owes California $60M. \n\nShould he declare bankruptcy now because he tried to start a business but was retarded enough to do it in California?\n\nSo did you really get the billionaires??\n\nNo. Because the mega billionaires have already left or are tax structured to minimize the tax or will fight it. \n\nYou will, however, drag a bunch of young, energetic folks who want to make things and hire people into bankruptcy court. \n\nAwesome work, Ro. You should be proud.",
+      "publishedAt": "2025-12-28T01:23:00.000Z",
+      "link": "https://x.com/chamath/status/2005087090900385817",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "RoKhanna",
+        "displayName": "Ro Khanna",
+        "content": "So putting aside the rhetorical flourish, you genuinely believe that a 1 percent tax on billionaires wealth for 5 years will kill the SV economy? Honest question. Or your concern is if that is expands to beyond that? \n\nEven @chamath has eloquently recognized that those with extreme wealth must do more for society given the backlash and angst people feel.",
+        "link": "https://x.com/RoKhanna/status/2005076271114359098"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11275,189 +11437,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8YBtRsbgAEpCs-.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001288651226140872",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
-      "content": "这孩子配得上",
-      "contentHtml": "这孩子配得上",
-      "publishedAt": "2025-12-17T13:49:00.000Z",
-      "link": "https://x.com/hazenlee/status/2001288651226140872",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8YAyMOaEAANHVP.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001286940008849468",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
-      "content": "光头怎么长得越看越像普罗米修斯呢",
-      "contentHtml": "光头怎么长得越看越像普罗米修斯呢",
-      "publishedAt": "2025-12-17T13:42:00.000Z",
-      "link": "https://x.com/hazenlee/status/2001286940008849468",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8X_3PIbUAAyUgH.jpg"
-        }
-      ],
-      "quote": {
-        "username": "brian_armstrong",
-        "displayName": "Brian Armstrong",
-        "content": "Happy Holidays from my family to yours",
-        "link": "https://x.com/brian_armstrong/status/2001011935597486233",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8UFtp7bMAAYaxz.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001285804111569406",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "这抗衰明星号称2039年可能实现人类永生技术\n\n生理永生，意味着100%终将死于意外\n且“永生者”死亡的代价，变得比普通人大无限倍：\n\n失去未来无限生命vs失去未来n年生命\n\n于是永生者会想把自己关进个安全蛋里，操控化身“阿凡达”代替自己出门承担物理世界意外风险\n\n永生可能会自相矛盾地让人不再真正地活?",
-      "contentHtml": "这抗衰明星号称2039年可能实现人类永生技术\n\n生理永生，意味着100%终将死于意外\n且“永生者”死亡的代价，变得比普通人大无限倍：\n\n失去未来无限生命vs失去未来n年生命\n\n于是永生者会想把自己关进个安全蛋里，操控化身“阿凡达”代替自己出门承担物理世界意外风险\n\n永生可能会自相矛盾地让人不再真正地活?",
-      "publishedAt": "2025-12-17T13:38:00.000Z",
-      "link": "https://x.com/coolish/status/2001285804111569406",
-      "quote": {
-        "username": "bryan_johnson",
-        "displayName": "Bryan Johnson",
-        "content": "I’m going to try and achieve immortality by 2039.\n\nOne year of time passes and I remain the same biological age. \n\nI invite you to join me.\n\nThe search for the fountain of youth is the oldest story ever told. It’s been the dream of dreamers for millennia but always painfully out of reach.\n\nFor the first time in the history of life on earth, in just the past 24 months, the window has opened for a conscious being to realistically strive for this goal. It is an absolutely insane moment.\n\nWe currently do not know how 2039 immortality will be achieved. There are new, promising therapies that can turn back the clock decades, but they’re buggy. Sometimes they mistakenly cause cancer. We gotta fix that. \n\nBut we know immortality is possible because nature has already solved it. This isn’t a physics problem like trying to travel faster than the speed of light, it’s a biological engineering problem that evolution has cracked multiple times. \n\nThe freshwater hydra constantly regenerates its own cells and doesn’t succumb to senescence. It is effectively ageless. The \"immortal jellyfish\" (Turritopsis dohrnii) can revert its cells back to a youthful state and restart its life cycle indefinitely. Lobsters produce an especially active form of an enzyme called telomerase that preserves their telomeres and keeps their DNA from degrading as they age. We need to port the software to humans.\n\n2039 is a reasonable target because of the accelerated, AI-driven rate of innovation. AI is morphing from assistant to scientist.  It is powering current researchers with previously unimagined capabilities to enhance discovery and development.\n\nThat, coupled with enhanced biomarker measurement, creates a closed-loop system of improvement that will speed things up dramatically.\n\nThis is what I’ve been doing for six years. As crude as longevity technology is today, the improvements I’ve personally seen are stunning. \n\nI started as a worn-down, inflamed, aged 42 year old who’d broken himself on the rocks of American food slop and entrepreneurship martyrdom. Six years later, my body largely operates at elite 18 year old levels. That includes my cardiovascular system, fertility, strength, and hormones. \n\nNot all is well though. I have mild to moderate hearing loss in my left ear that we can’t fix and my brain is anatomically age 42 (I’m 48).\n\nStill, unreal results.\n\nMy team and I did this by following the scientific method. We measured the biological age of every organ. We referenced the best scientific evidence on how to slow aging and rejuvenate.  We methodically completed these protocols and measured again. Rinse and repeat.\n\nWe could do so much more and faster if we had better measurement and better therapies. Both of which are cooking all over the world right now.\n\nTo speed things up now, I’m currently having thousands of Bryan Johnson organ clones built in a dish. This will allow me to test drugs and other molecules against my biology to accelerate learning and save my body from potential mishaps.\n\nYes, we’ll make mistakes. Hopefully they won’t be fatal. And of course there’s always bad luck to contend with. But I trust in fate and I believe that destiny is going to grant the human race the pleasure of achieving the ultimate: immortality. \n\nWhile immortality would certainly be cool, the real (secret) objective is to focus our collective attention on a positive goal. Something that helps us feel hope and excitement for the future. I personally love the idea of having a child-like mind, 18-year-old physical vibrancy, and a lifetime of wisdom.\n\nThis 2039 goal is as much about AI as it is about us humans. It’s about how we survive giving birth to superintelligence. It’s kind of a big deal. We haven’t done it before. A lot can go wrong. \n\nI figure that one of the best ways to improve the probability that we build safe AI, and don’t kill each other in the meantime, is to transform our shared aspirations from yolo to don’t die.\n\nRight now, we are a suicidal species. We do all kinds of really primitive shit. We unnecessarily kill ourselves with what we eat and how we live our lives. Companies make profits from killing other people with their products. We trash the only home we have. We celebrate these things as virtue.  It’s really fucked up and backward. Soon enough we’ll realize just how infantile we are right now. \n\nThe 2039 goal points us in the right direction.\n\nTo say yes to life and no to death. Defiance even.\n\nIf you’re interested in doing this with me, I’ll continue to share everything I do for free. I’m also going to build this out in Blueprint. We’ll help you do exactly what I’m doing, at a fraction of the cost and effort, alongside an aligned and motivated community.\n\nI think this is the coolest goal imaginable. I find it hard to believe that of all the people who’ve lived, it’s us who get the opportunity to have this moment. \n\nI pray that we have the courage to appreciate the sacredness of our existence. I pray that we will be brave enough to defend her amidst the onslaught of all the forces that would try to end her. \n\nWe don’t know, but we may be the only intelligent life to exist in our corner of the galaxy. I pray we will be warriors, caretakers and stewards of existence and honor the gift that has been bestowed on us.",
-        "link": "https://x.com/bryan_johnson/status/2001063756445733346",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8UzS0paUAA0urR.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001283424825516417",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "7天20%  $xpt\n玩什么币 啊",
-      "contentHtml": "7天20%  <a href=\"/search?q=%23xpt\">$xpt</a>\n玩什么币 啊",
-      "publishedAt": "2025-12-17T13:28:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2001283424825516417",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8X8QeTaUAA5lSZ.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001281791504834816",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
-      "content": "操你吗的这项目方是人吗？\n还有王法吗？\n还有法律吗？",
-      "contentHtml": "操你吗的这项目方是人吗？\n还有王法吗？\n还有法律吗？",
-      "publishedAt": "2025-12-17T13:22:00.000Z",
-      "link": "https://x.com/hazenlee/status/2001281791504834816",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8X7KtQakAA9DQA.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8X7KtUboAApklP.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8X7KtPbwAAwnSZ.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Web3Tinkle",
-        "displayName": "Tinkle 🔶 BNB 🧑‍🍳⚡",
-        "content": "说实话，做开源产品 @nofx_official 这么久第一次让我感到失望。\n\n一个已经完成融资17M美金、并且成功上线币安的项目。@ChainOpera_AI 本应对开源、创新和基本的行业规范有更高的尊重。\n\n但我们却在他们测试网上看到：\n直接使用并部署了我们 Nofx AI 交易操作系统一个月前的版本，UI 只修改了logo和位置，代码原封不动，代码中甚至仍然保留着我们的品牌标识 Nofx，首页甚至连文案都一模一样，而在整个过程中，团队从未与我们进行任何沟通或联系。\n\n如果只是出于测试或体验目的，其实完全可以直接使用我们的产品版本。我们很难理解，为什么一定要修改 UI、替换 logo，再以自己的名义进行部署。\n\n更让人无奈的是，我们的系统这一个月一直在快速迭代。我们已经接入并合作了 Binance、Hyperliquid、Lighter、OKX、Bitget 等7家交易所平台，新版本也早已上线。继续照搬一个月前的版本，对任何一方来说，都不是一件体面的事情。\n\n在发布这条内容之前，我们已经尝试通过官方账号私下联系对方团队，希望以更友好的方式沟通。如果仍然得不到回应，我们也只能选择公开说明事实，并保留相关证据。\n\n我们始终支持 加密世界的开源精神，也认同 AGPL 所倡导的价值：\n使用、部署、改进，都应当伴随着透明、署名和对社区的尊重，而不是简单复制。我相信尤其是像 @IDGCapital @FinalityCap @RoadCapMgmt @ABCEDLabs @ambergroup_io 这样的投资人，也希望看到团队遵守最基本的规则。\n\n我们是一个只有12个人的小团队，每天开发超过16个小时，Nofx是我们珍惜维护的开源产品，我们致力于让每个普通人都能用自然语言通过AI生成量化策略。\n\n我们仍然愿意与真正尊重技术、尊重开源、尊重他人成果的团队合作，也正在积极寻求更多高质量的合作与融资机会。\n\n希望行业能走得更远，而不是靠重复别人一个月前的版本。\n欢迎大家体验我们的新版本，也请期待我们的开放产品@vergex_ai",
-        "link": "https://x.com/Web3Tinkle/status/2001256530591859120",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8XkM2Ca4AEVoyX.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8XkM2BasAAVrHs.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001278848982466797",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "原始碼照抄就算了文案也照抄，這還有王法？\n開源不是給你這樣用的吧",
-      "contentHtml": "原始碼照抄就算了文案也照抄，這還有王法？\n開源不是給你這樣用的吧",
-      "publishedAt": "2025-12-17T13:10:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2001278848982466797",
-      "quote": {
-        "username": "Tintinx2021",
-        "displayName": "Tintin🏃🏻‍♀️‍➡️ █████",
-        "content": "> Working on open source is always fun.  \n> Nothing beats watching ur fren code come alive on someone else’s testnet.  \n> Especially when a $17M funded project $COAI listed on Binance copy the work of a tiny community team.  \n> Big money, top-tier listings — none of it can match the quiet power of a fam community quietly moving the entire ecosystem forward",
-        "link": "https://x.com/Tintinx2021/status/2001260000501706845"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001276282848632910",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
-      "content": "youtu.be/gW3Y_ve2l3s\n\n你在市场缺的不是机会 缺的是耐心！ ｜李哥夜话 EP03",
-      "contentHtml": "<a href=\"https://youtu.be/gW3Y_ve2l3s\">youtu.be/gW3Y_ve2l3s</a>\n\n你在市场缺的不是机会 缺的是耐心！ ｜李哥夜话 EP03",
-      "publishedAt": "2025-12-17T13:00:00.000Z",
-      "link": "https://x.com/hazenlee/status/2001276282848632910",
       "stats": {
         "replies": 0,
         "retweets": 0,
