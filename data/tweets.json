@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T19:42:34.707Z",
+  "lastUpdated": "2025-12-29T19:51:47.405Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 438,
+    "newFetched": 437,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2005726907137237411",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
+      "content": "那是别人的图\n这种嘴炮空是最垃圾的",
+      "contentHtml": "那是别人的图\n这种嘴炮空是最垃圾的",
+      "publishedAt": "2025-12-29T19:45:00.000Z",
+      "link": "https://x.com/hazenlee/status/2005726907137237411",
+      "quote": {
+        "username": "peterpaomian",
+        "displayName": "泡面侠",
+        "content": "他当初2600做空以太扛到3600 不知道哪来一张图亏了1个亿 不知道真的假的",
+        "link": "https://x.com/peterpaomian/status/2005726267925262643"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2005725050838892750",
       "username": "hazenlee",
@@ -11376,33 +11397,6 @@
       "contentHtml": "让你们不要跟，非要压车，一起毁灭吧😈",
       "publishedAt": "2025-12-19T03:37:00.000Z",
       "link": "https://x.com/Bitfatty/status/2001859326311567694",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001858783589601599",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "这个指标很有意思！\n\n只是样本比较少（只有5次），容易过拟合；如果包括熊市超卖，轨迹可能不同。当然，他的前提就是传统4年周期已经被打破。\n\n就像我们的“三线合一”，样本更少（只有3次），所以我把它归属为玄学指标😂😂。\n\n------------------------------------------\n\n作者的观点：\n\n他认为BTC当前正处于一个典型的“超卖”阶段（RSI指标跌破30），并基于历史数据（过去几次类似情况）绘制了BTC价格的“平均恢复路径”。目前的价格走势几乎完美贴合这个历史平均轨迹：从超卖点开始，先是震荡筑底（chop），然后逐步向上反弹。\n\n他强调传统的“4年周期”其实不是由减半驱动，而是由公共债务再融资周期驱动。COVID后这个周期被推迟一年，现在由于债务期限结构延长，4年周期已经“正式死亡”。\n\n根据他的宏观分析（商业周期、金融条件、全球流动性预期），本轮牛市很可能延续到2026年，而不是很快结束。\n\n因为全球还有大量利息支出需要通过货币化（印钱）来处理，这远超GDP增长，将推动更多流动性注入市场，支持风险资产（如比特币）上涨。\n\n但底部形成需要时间，会有很多波动，如果牛市没结束，这个轨迹图将仍有参考价值。\n\n------------------------------------------\n\n指标的原理\n\n他分享的指标是基于相对强弱指数RSI的“超卖恢复轨迹”模型。\n\n他选取了过去几次比特币RSI跌破30（极度超卖）的历史事件（帖子提到只有5次，且都在牛市中），然后将这些事件对齐（t=0为RSI跌破30的时刻），计算从那天起BTC价格的平均百分比变化，绘制成一条“复合平均轨迹线”。\n\n当前周期的BTC价格走势与这条历史平均线高度吻合，所以他认为未来可能继续跟随：筑底后向上。\n\n这是一种历史复合分析，类似于股票市场中对特定事件的平均表现统计（如美联储降息后的股市表现）。它不是预测精确价格，而是提供概率参考：历史上类似超卖后，价格往往这样恢复。\n\n不过作者也承认指标不是完美的（样本只有5次，且都在上涨周期），也不会一模一样匹配，但作为参考工具很有用。",
-      "contentHtml": "这个指标很有意思！\n\n只是样本比较少（只有5次），容易过拟合；如果包括熊市超卖，轨迹可能不同。当然，他的前提就是传统4年周期已经被打破。\n\n就像我们的“三线合一”，样本更少（只有3次），所以我把它归属为玄学指标😂😂。\n\n------------------------------------------\n\n作者的观点：\n\n他认为BTC当前正处于一个典型的“超卖”阶段（RSI指标跌破30），并基于历史数据（过去几次类似情况）绘制了BTC价格的“平均恢复路径”。目前的价格走势几乎完美贴合这个历史平均轨迹：从超卖点开始，先是震荡筑底（chop），然后逐步向上反弹。\n\n他强调传统的“4年周期”其实不是由减半驱动，而是由公共债务再融资周期驱动。COVID后这个周期被推迟一年，现在由于债务期限结构延长，4年周期已经“正式死亡”。\n\n根据他的宏观分析（商业周期、金融条件、全球流动性预期），本轮牛市很可能延续到2026年，而不是很快结束。\n\n因为全球还有大量利息支出需要通过货币化（印钱）来处理，这远超GDP增长，将推动更多流动性注入市场，支持风险资产（如比特币）上涨。\n\n但底部形成需要时间，会有很多波动，如果牛市没结束，这个轨迹图将仍有参考价值。\n\n------------------------------------------\n\n指标的原理\n\n他分享的指标是基于相对强弱指数RSI的“超卖恢复轨迹”模型。\n\n他选取了过去几次比特币RSI跌破30（极度超卖）的历史事件（帖子提到只有5次，且都在牛市中），然后将这些事件对齐（t=0为RSI跌破30的时刻），计算从那天起BTC价格的平均百分比变化，绘制成一条“复合平均轨迹线”。\n\n当前周期的BTC价格走势与这条历史平均线高度吻合，所以他认为未来可能继续跟随：筑底后向上。\n\n这是一种历史复合分析，类似于股票市场中对特定事件的平均表现统计（如美联储降息后的股市表现）。它不是预测精确价格，而是提供概率参考：历史上类似超卖后，价格往往这样恢复。\n\n不过作者也承认指标不是完美的（样本只有5次，且都在上涨周期），也不会一模一样匹配，但作为参考工具很有用。",
-      "publishedAt": "2025-12-19T03:35:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2001858783589601599",
-      "quote": {
-        "username": "BittelJulien",
-        "displayName": "Julien Bittel, CFA",
-        "content": "A lot of people have been asking for an update on this chart, so I’ll just leave this here for anyone who needs to see it.\n \nThis shows the average BTC trajectory following an oversold RSI reading, with RSI falling below 30 at t=0.\n \nSo far, it’s been pretty bang on.\n \nUnless you believe the 4-year cycle is still in play, which we don’t, this chart should hold up contextually over time.\n\nNo, it won’t be perfect, but assuming the bull market isn’t already over, it’s a useful chart to keep in mind.\n \nAs we’ve outlined many times, based on our work on the business cycle, the current path of financial conditions, and our expectations for overall liquidity, the balance of probabilities is that this cycle extends well into 2026.\n \nIn that world, the 4-year cycle is dead.\n \nRemember, the 4-year cycle was never about the halving, despite widespread belief that it is, but instead has always been driven by the public debt refinancing cycle, as outlined in our work at GMI, which post-COVID was pushed out by one year.\n\nIn our view, the 4-year cycle is now officially broken because the weighted average maturity of the debt term structure has increased. \n\nAnd the bigger picture is that there is still a vast amount of interest expense that needs to be monetized, which has far exceeded GDP growth.\n\nAnother thing to keep in mind is that bases can take time to form and usually come with plenty of chop before the bigger up-move kicks in.\n\nFinally, let me repeat what I said when I first posted this chart last month.\n \nIf you think the bull market is over and we are now facing twelve months of pain, this chart is not for you. Move along...",
-        "link": "https://x.com/BittelJulien/status/2001266989264687239",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8XttxxWkAMu3QW.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
