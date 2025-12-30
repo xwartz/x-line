@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T03:13:10.720Z",
+  "lastUpdated": "2025-12-30T04:10:02.881Z",
   "followers": [
     {
       "username": "naval"
@@ -75,6 +75,64 @@
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2005842573286633475",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "说了八百遍了  不懂的自己问问AI   \n差价合约和永续合约的区别  \n点差\n掉期费\n#tradfi  \n\n1) 差价合约（CFD）是什么\n\nCFD = 你和券商/平台之间的“价格差”合约，不交割标的本身，只结算开仓价与平仓价的差额。\n•你买/卖的是“合约”，不是现货（不持有股票/黄金/加密币本体）\n•多数 CFD 是 场外（OTC） 报价：价格、点差、隔夜费等由平台决定并参考外部市场\n•成本结构通常是：\n•点差（Spread）（很多 CFD 不单独收手续费，而把成本放进点差）\n•隔夜费/持仓费（你持仓过夜就可能付费，做多/做空规则不同）\n•可能还有佣金（有的平台会把点差做窄，然后加佣金）\n\n一句话：CFD 更像“平台给你一个报价，你用它来做杠杆方向交易”。\n\n⸻\n\n2) 永续合约（Perpetual Futures）是什么\n\n永续合约 = 交易所里撮合交易的“无到期日期货”，本质接近期货，但没有交割日。\n•在交易所订单簿撮合（你在和其他交易者成交）\n•主要成本结构是：\n•手续费（maker/taker）\n•资金费率 Funding（关键！用来把永续价格拉回现货指数）\n•滑点（大单冲击订单簿造成成交价偏离）\n\n资金费率逻辑：\n•永续价格高于现货指数 → 多头付钱给空头（鼓励做空/抑制过热）\n•永续价格低于现货指数 → 空头付钱给多头\n\n一句话：永续更像“交易所版的杠杆期货”，价格由市场撮合形成，用资金费率锚定现货。\n\n⸻\n\n3) CFD vs 永续合约：一张脑内对照表\n•交易对象\n•CFD：你 vs 平台（OTC 报价）\n•永续：你 vs 市场（订单簿撮合）\n•价格形成\n•CFD：平台报价（参考市场，但平台有定价权）\n•永续：订单簿供需决定，受指数与资金费率牵引\n•主要成本\n•CFD：点差 + 隔夜费（常见）\n•永续：手续费 + 资金费率 + 滑点\n•持仓时间成本\n•CFD：过夜/持仓费经常是核心成本\n•永续：资金费率可能正可能负（有时你还能“收钱”）\n•风险点\n•CFD：平台报价、滑点、强平规则、风控条款更“平台化”\n•永续：插针、流动性、资金费率飙升、交易所风控/穿仓机制\n\n⸻\n\n4) 你问的「点差（Spread）」到底是什么\n\n点差 = 买价（Ask）和卖价（Bid）之间的差。\n•你一进场就“亏”在点差里：\n•你开多是按 Ask 买入\n•你想立刻平仓只能按 Bid 卖出\n•Ask − Bid = 你的“即时成本”\n\n点差为什么存在？\n•给做市商/流动性提供者的补偿（承担报价和库存风险）\n•市场波动大、流动性差时，点差会变宽（你更难以好价格成交）\n\n点差对交易的实际影响（特别重要）\n•越短线越敏感：你赚的空间如果还没点差大，等于白干\n•挂单/吃单会影响“实际点差成本”：\n•挂单成交（maker）通常更省成本\n•直接吃单（taker）更容易付出点差 + 手续费/冲击成本\n•CFD 里点差往往=主要收费方式（平台可以做宽一点来盈利）\n•永续里点差更像“市场摩擦”，再叠加手续费与资金费率\n\n⸻\n\n5) 一个极简例子（让点差立刻直观）\n\n假设某标的报价：\n•Bid = 100.0\n•Ask = 100.5\n点差 = 0.5\n\n你开多只能用 100.5 买入。\n你马上平仓只能用 100.0 卖出。\n你啥都没做就亏 0.5（再算上手续费/其他费用）。\n所以短线策略必须把点差当成“第一道门槛”\n⸻",
+      "contentHtml": "说了八百遍了  不懂的自己问问AI   \n差价合约和永续合约的区别  \n点差\n掉期费\n<a href=\"/search?q=%23tradfi\">#tradfi</a>  \n\n1) 差价合约（CFD）是什么\n\nCFD = 你和券商/平台之间的“价格差”合约，不交割标的本身，只结算开仓价与平仓价的差额。\n•你买/卖的是“合约”，不是现货（不持有股票/黄金/加密币本体）\n•多数 CFD 是 场外（OTC） 报价：价格、点差、隔夜费等由平台决定并参考外部市场\n•成本结构通常是：\n•点差（Spread）（很多 CFD 不单独收手续费，而把成本放进点差）\n•隔夜费/持仓费（你持仓过夜就可能付费，做多/做空规则不同）\n•可能还有佣金（有的平台会把点差做窄，然后加佣金）\n\n一句话：CFD 更像“平台给你一个报价，你用它来做杠杆方向交易”。\n\n⸻\n\n2) 永续合约（Perpetual Futures）是什么\n\n永续合约 = 交易所里撮合交易的“无到期日期货”，本质接近期货，但没有交割日。\n•在交易所订单簿撮合（你在和其他交易者成交）\n•主要成本结构是：\n•手续费（maker/taker）\n•资金费率 Funding（关键！用来把永续价格拉回现货指数）\n•滑点（大单冲击订单簿造成成交价偏离）\n\n资金费率逻辑：\n•永续价格高于现货指数 → 多头付钱给空头（鼓励做空/抑制过热）\n•永续价格低于现货指数 → 空头付钱给多头\n\n一句话：永续更像“交易所版的杠杆期货”，价格由市场撮合形成，用资金费率锚定现货。\n\n⸻\n\n3) CFD vs 永续合约：一张脑内对照表\n•交易对象\n•CFD：你 vs 平台（OTC 报价）\n•永续：你 vs 市场（订单簿撮合）\n•价格形成\n•CFD：平台报价（参考市场，但平台有定价权）\n•永续：订单簿供需决定，受指数与资金费率牵引\n•主要成本\n•CFD：点差 + 隔夜费（常见）\n•永续：手续费 + 资金费率 + 滑点\n•持仓时间成本\n•CFD：过夜/持仓费经常是核心成本\n•永续：资金费率可能正可能负（有时你还能“收钱”）\n•风险点\n•CFD：平台报价、滑点、强平规则、风控条款更“平台化”\n•永续：插针、流动性、资金费率飙升、交易所风控/穿仓机制\n\n⸻\n\n4) 你问的「点差（Spread）」到底是什么\n\n点差 = 买价（Ask）和卖价（Bid）之间的差。\n•你一进场就“亏”在点差里：\n•你开多是按 Ask 买入\n•你想立刻平仓只能按 Bid 卖出\n•Ask − Bid = 你的“即时成本”\n\n点差为什么存在？\n•给做市商/流动性提供者的补偿（承担报价和库存风险）\n•市场波动大、流动性差时，点差会变宽（你更难以好价格成交）\n\n点差对交易的实际影响（特别重要）\n•越短线越敏感：你赚的空间如果还没点差大，等于白干\n•挂单/吃单会影响“实际点差成本”：\n•挂单成交（maker）通常更省成本\n•直接吃单（taker）更容易付出点差 + 手续费/冲击成本\n•CFD 里点差往往=主要收费方式（平台可以做宽一点来盈利）\n•永续里点差更像“市场摩擦”，再叠加手续费与资金费率\n\n⸻\n\n5) 一个极简例子（让点差立刻直观）\n\n假设某标的报价：\n•Bid = 100.0\n•Ask = 100.5\n点差 = 0.5\n\n你开多只能用 100.5 买入。\n你马上平仓只能用 100.0 卖出。\n你啥都没做就亏 0.5（再算上手续费/其他费用）。\n所以短线策略必须把点差当成“第一道门槛”\n⸻",
+      "publishedAt": "2025-12-30T03:25:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2005842573286633475",
+      "media": [
+        {
+          "type": "video",
+          "url": "",
+          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2005842511290617856%2Fimg%2Fi9LavjZVly4LoFuw.jpg%3Fname%3Dsmall%26format%3Dwebp"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2005842599177843011",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "bitway这个项目我存了一点到他们的存款活动的1个大号一批200u 左右的低保号，赌一把这个项目上现货。不过我是从第一天就开始存了，忘记发推了。现在还有点时间。赎回需要14天注意下",
+      "contentHtml": "bitway这个项目我存了一点到他们的存款活动的1个大号一批200u 左右的低保号，赌一把这个项目上现货。不过我是从第一天就开始存了，忘记发推了。现在还有点时间。赎回需要14天注意下",
+      "publishedAt": "2025-12-30T03:25:00.000Z",
+      "link": "https://x.com/0xleng1/status/2005842599177843011",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2005839601194410287",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "当前图中指标跌至 3.16\n\n2014年该指标从 3.16 跌到 1，花了 285天\n2018年该指标从 3.16 跌至 1，花了 274天\n2022年该指标从 3.16 跌至 1，花了 296天\n\n图中上部指标为 #BTC 价格；\n图中中部指标为比特币已实现盈利（365日MA）和比特币已实现损失（365日MA）；\n图中下部指标为比特币已实现盈利（365日MA）跟比特币已实现损失（365日MA）之比，也即“已实现盈亏比（365日MA）”\n\n该比率通过比较过去365天内投资者实现的盈利（卖出价格高于买入价格的部分）与亏损（卖出价格低于买入价格的部分）的移动平均值，反映了市场参与者的整体盈亏状态\n\n在牛市，盈利亏损比通常较高，因为投资者倾向于在价格高位获利了结\n在熊市，该比率通常较低，因为投资者可能在亏损状态下卖出，反映市场恐慌或投降行为\n\n使用365日移动平均线平滑了短期波动，突出了长期趋势。这个指标适合用来判断市场是否处于过热（过高比率）或过度恐慌（过低比率）的状态，是判断市场周期和趋势的有力工具",
+      "contentHtml": "当前图中指标跌至 3.16\n\n2014年该指标从 3.16 跌到 1，花了 285天\n2018年该指标从 3.16 跌至 1，花了 274天\n2022年该指标从 3.16 跌至 1，花了 296天\n\n图中上部指标为 <a href=\"/search?q=%23BTC\">#BTC</a> 价格；\n图中中部指标为比特币已实现盈利（365日MA）和比特币已实现损失（365日MA）；\n图中下部指标为比特币已实现盈利（365日MA）跟比特币已实现损失（365日MA）之比，也即“已实现盈亏比（365日MA）”\n\n该比率通过比较过去365天内投资者实现的盈利（卖出价格高于买入价格的部分）与亏损（卖出价格低于买入价格的部分）的移动平均值，反映了市场参与者的整体盈亏状态\n\n在牛市，盈利亏损比通常较高，因为投资者倾向于在价格高位获利了结\n在熊市，该比率通常较低，因为投资者可能在亏损状态下卖出，反映市场恐慌或投降行为\n\n使用365日移动平均线平滑了短期波动，突出了长期趋势。这个指标适合用来判断市场是否处于过热（过高比率）或过度恐慌（过低比率）的状态，是判断市场周期和趋势的有力工具",
+      "publishedAt": "2025-12-30T03:13:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2005839601194410287",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9Yq5sBa0AAZDCH.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2005836855892398513",
       "username": "taresky",
@@ -11427,57 +11485,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001928460353081722",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "Generational bottom signal here.\n\nFollow me for more calls.",
-      "contentHtml": "Generational bottom signal here.\n\nFollow me for more calls.",
-      "publishedAt": "2025-12-19T08:11:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2001928460353081722",
-      "quote": {
-        "username": "Cbb0fe",
-        "displayName": "CBB",
-        "content": "In hindsight, the U.S. president shilling crypto to max extract will be seen as such an obvious perma top signal.\n\nI wish you the best but I completely lost faith in this scam industry.",
-        "link": "https://x.com/Cbb0fe/status/2001732513765691407"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001924898504225128",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
-      "content": "万般皆是命 半点不由人",
-      "contentHtml": "万般皆是命 半点不由人",
-      "publishedAt": "2025-12-19T07:57:00.000Z",
-      "link": "https://x.com/hazenlee/status/2001924898504225128",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2001917434408903116",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "我也玩了波  “fat finger”\n\n😭😭😭完美开局又送了\n\n剩2000多，1000“还贷”，1000继续",
-      "contentHtml": "我也玩了波  “fat finger”\n\n😭😭😭完美开局又送了\n\n剩2000多，1000“还贷”，1000继续",
-      "publishedAt": "2025-12-19T07:28:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2001917434408903116",
       "stats": {
         "replies": 0,
         "retweets": 0,
