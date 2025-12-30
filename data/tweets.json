@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T17:44:41.125Z",
+  "lastUpdated": "2025-12-30T17:54:52.366Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 442,
+    "newFetched": 444,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2006059476353511660",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "stable可以合约领了，和上次领stable一样，比较复杂不建议合约小白自己尝试，小白建议走官方的，着急的可以走合约，只是提醒下懂合约的可以自己弄了。\n\n格式如图\n\n从这里取proofs\napi.merkl.xyz/v3/rewards?use…地址\n\n合约 \nstablescan.xyz/address/0x3ef…",
+      "contentHtml": "stable可以合约领了，和上次领stable一样，比较复杂不建议合约小白自己尝试，小白建议走官方的，着急的可以走合约，只是提醒下懂合约的可以自己弄了。\n\n格式如图\n\n从这里取proofs\n<a href=\"https://api.merkl.xyz/v3/rewards?user=\">api.merkl.xyz/v3/rewards?use…</a>地址\n\n合约 \n<a href=\"https://stablescan.xyz/address/0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae#writeProxyContract\">stablescan.xyz/address/0x3ef…</a>",
+      "publishedAt": "2025-12-30T17:47:00.000Z",
+      "link": "https://x.com/0xleng1/status/2006059476353511660",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9bx78oaEAAnbDO.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2006016619697385775",
       "username": "daidaibtc",
@@ -11521,21 +11542,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8kreMfbMAEcDWB.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2002171569121251780",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "这段时间更多的还是在学习英语+看一些行业相关的电影，比如大空头，华尔街之狼，傻钱之类的，会有不一样的感觉。主要是看一些思路。趁着对金融数字敏感和感兴趣的时候多学一点金融和区块链相关的东西，是非常有趣的事情。",
-      "contentHtml": "这段时间更多的还是在学习英语+看一些行业相关的电影，比如大空头，华尔街之狼，傻钱之类的，会有不一样的感觉。主要是看一些思路。趁着对金融数字敏感和感兴趣的时候多学一点金融和区块链相关的东西，是非常有趣的事情。",
-      "publishedAt": "2025-12-20T00:17:00.000Z",
-      "link": "https://x.com/0xleng1/status/2002171569121251780",
       "stats": {
         "replies": 0,
         "retweets": 0,
