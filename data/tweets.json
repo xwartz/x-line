@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T08:26:05.778Z",
+  "lastUpdated": "2025-12-31T08:52:24.555Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,48 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 442,
+    "newFetched": 440,
     "successUsers": 22,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2006281349330764156",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "很多小伙伴问，BTC的筹码集中度现在到多少了？\n\n在此之前，我们先来看一组数据：BTC链上单笔平均交易量的美元价值，从12月14如平均每笔 $46,610 降至12月30日平均每笔 $24,897，而这段时间BTC的价格基本维持在8.7w-8.8w左右。\n\n（图1）\n\n这说明什么？对，代表在这段时间里大资金参与换手的积极性下降了。\n\n这就导致了虽然BTC价格始终在区间内来来回回，但分布在价格两端的筹码往中间段的注入（换手）速度放缓了。所以，我们看到BTC的筹码集中度从25日-30日就几乎没怎么变过（目前是14.4%）。\n\n（图2）\n\n这种情况之前也时有发生，或是市场情绪降至冰点，或是某个事件导致暂时的流动性枯竭。比如现在，主要因为美国投资者正处于假期模式。\n\n等流动性逐渐恢复后，通常就会出现2种情况：\n1、筹码集中度继续上升，到临界点后突然大幅下降；\n2、筹码集中度直接大幅下降；\n\n无论哪种情况，都会伴随着BTC价格大幅波动，要不连续上涨，要不连续下跌。\n\n-------------------------------------------------\nBitget VIP，费率更低，福利更狠",
+      "contentHtml": "很多小伙伴问，BTC的筹码集中度现在到多少了？\n\n在此之前，我们先来看一组数据：BTC链上单笔平均交易量的美元价值，从12月14如平均每笔 $46,610 降至12月30日平均每笔 $24,897，而这段时间BTC的价格基本维持在8.7w-8.8w左右。\n\n（图1）\n\n这说明什么？对，代表在这段时间里大资金参与换手的积极性下降了。\n\n这就导致了虽然BTC价格始终在区间内来来回回，但分布在价格两端的筹码往中间段的注入（换手）速度放缓了。所以，我们看到BTC的筹码集中度从25日-30日就几乎没怎么变过（目前是14.4%）。\n\n（图2）\n\n这种情况之前也时有发生，或是市场情绪降至冰点，或是某个事件导致暂时的流动性枯竭。比如现在，主要因为美国投资者正处于假期模式。\n\n等流动性逐渐恢复后，通常就会出现2种情况：\n1、筹码集中度继续上升，到临界点后突然大幅下降；\n2、筹码集中度直接大幅下降；\n\n无论哪种情况，都会伴随着BTC价格大幅波动，要不连续上涨，要不连续下跌。\n\n-------------------------------------------------\nBitget VIP，费率更低，福利更狠",
+      "publishedAt": "2025-12-31T08:28:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2006281349330764156",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9e9LZ9aYAAI1hw.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9e9WGoacAA4gp4.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "超过13%了！......\n\nBTC现货价格5%范围内的“筹码集中度”已越过我们的警戒线，截止昨天已达13.3%。\n\n也就是说，如果BTC继续在当前位置来回震荡，筹码不断在此集中换手，筹码集中度就会越来越高。\n\n根据过往该数据的多次印证，在13%以上时，大的波动随时会出现。尤其是当高于15%以后是“高风险区”。\n\n注意，这里强调的不是方向，而是波动！\n\n我在图中标注了前几次集中度超过15%以上后BTC的走势，涨跌是无序的。但你可以押注 “RV（实现波动率）” 会大于 “IV (隐含波动率)” ，稳稳的赚钱不好么？\n\n----------------------------------------------\nBitget VIP，费率更低，福利更狠",
+        "link": "https://x.com/Murphychen888/status/2003314041683616180",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG80yOzNagAEEWSq.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2006269256946839759",
       "username": "0xCryptoChan",
@@ -11454,21 +11491,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8mpkMxbMAQ8gun.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2002311696174797272",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "市场用行情来测试策略，用时间来测试一个人的性格。\n\n如果你赚过钱、拿到过结果，但最后还是把利润亏回去了，往往不是策略问题，而是性格问题。\n\n随意开单、逆势扛单，或者顺了几笔之后开始乱出手，本质上都是对自己性格缺乏了解。\n\n策略帮你赚钱，性格决定你能不能把钱留下。",
-      "contentHtml": "市场用行情来测试策略，用时间来测试一个人的性格。\n\n如果你赚过钱、拿到过结果，但最后还是把利润亏回去了，往往不是策略问题，而是性格问题。\n\n随意开单、逆势扛单，或者顺了几笔之后开始乱出手，本质上都是对自己性格缺乏了解。\n\n策略帮你赚钱，性格决定你能不能把钱留下。",
-      "publishedAt": "2025-12-20T09:34:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2002311696174797272",
       "stats": {
         "replies": 0,
         "retweets": 0,
