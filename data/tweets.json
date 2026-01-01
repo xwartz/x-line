@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T01:29:54.535Z",
+  "lastUpdated": "2026-01-01T03:28:07.771Z",
   "followers": [
     {
       "username": "naval"
@@ -70,11 +70,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 445,
-    "successUsers": 22,
-    "failedUsers": 0
+    "newFetched": 61,
+    "successUsers": 3,
+    "failedUsers": 19
   },
   "tweets": [
+    {
+      "id": "2006557520236839130",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "2025，圆满收官！ \n\n但愿过去所有的缺憾， \n皆是未来惊喜的序章。\n\n2026，一起奔赴山海，我们顶峰相见！ \n\n小伙伴们，新年快乐哈🫶",
+      "contentHtml": "2025，圆满收官！ \n\n但愿过去所有的缺憾， \n皆是未来惊喜的序章。\n\n2026，一起奔赴山海，我们顶峰相见！ \n\n小伙伴们，新年快乐哈🫶",
+      "publishedAt": "2026-01-01T02:46:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2006557520236839130",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9i5bRTaQAA5VZy.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2006522314087870659",
       "username": "hazenlee",
@@ -498,25 +519,6 @@
       }
     },
     {
-      "id": "2006355409637175453",
-      "username": "wang_xiaolou",
-      "displayName": "日拱一卒王小楼",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1988567900735877120%2FDKtV7mlY_bigger.jpg",
-      "content": "我花了三个月才搞懂：Polymarket 那个看似简单的 YES + NO = 1\n\n@Polymarket @Kalshi \n那张让我盯了三个月的公式\n刚开始玩 Polymarket 的时候，我以为自己懂了。\n\nYES + NO = 1，多简单啊！概率嘛，发生或不发生，加起来等于 100%。\n\n直到我真的开始下单，才发现自己什么都不懂。\n\n那个深夜，我盯着屏幕上的两个数字：YES 0.42，NO 0.43。\n\n脑子里飞快计算：0.42 + 0.43 = 0.85 < 1！套利机会！\n\n手指颤抖地准备下单，结果——订单根本挂不上去。\n\n那一刻的困惑，现在想起来还觉得自己好傻。\n\n一张被撕成两半的美元\n我花了整整一周时间啃官方文档，才明白 Polymarket 卖的不是彩票。\n\n它卖的是一张未来的兑换券。\n\n每张兑换券的价值永远是 1 美元，但被市场撕成了两半：\n\n一半写着 YES\n\n一半写着 NO\n\n到结算那天，如果事件发生了，YES 券 = 1 美元，NO 券 = 0。\n\n如果没发生，YES 券 = 0，NO 券 = 1 美元。\n\n这意味着什么？\n\n你凑齐 YES + NO 两张券，就等于买到了一个到期必定价值 1 美元的东西！\n\n听起来很抽象，对吧？我当时也这么觉得，直到我看到多选项市场。\n\n马斯克推文教会我的事\n有天我在研究马斯克推文数量的市场，发现有 30 多个选项：\n\n<20、20-40、40-60……一直到 580+。\n\n我当时就纳闷：这不是 YES 和 NO 啊，怎么这么多选项？\n\n后来我打开 API 一看——每个选项背后都有 YES 和 NO！\n\n「马斯克会发 20-40 条推文」 这个选项，本质上是：\n\nYES：会发 20-40 条\n\nNO：不会发 20-40 条\n\n它们依然满足 YES + NO = 1。\n\n甚至体育市场也一样！NBA 比赛看起来是「湖人 vs 勇士」，但本质上：\n\n湖人赢 = YES\n\n湖人输 = NO\n\n（当然足球比赛会有平局选项，那就是三个互斥的 YES/NO 组合）\n\n所有市场的底层逻辑都是 YES + NO = 1。\n\n这个认知让我重新审视了整个 Polymarket。\n\n那个让我震惊的镜像订单簿\n真正的顿悟来自我的一次实验。\n\n我在一个冷门市场挂了价格 18、数量 10 的 YES 买单。\n\n然后随手切换到 NO 界面看了一眼——\n\n我的订单出现在了 NO 市场价格 82 的位置！\n\n18 + 82 = 100，YES + NO = 1。\n\n这就是共享订单簿的魔法：\n\n你在 YES 市场的每个动作，都会在 NO 市场留下镜像！\n\n当我挂 YES 18 买单时，系统实际接收的是：我要买入 1 - 0.18 = 0.82 的 NO。\n\n这个订单会自动出现在 NO 市场 82 的位置。\n\n为什么要这样设计？\n\n答案是流动性！\n\n合并订单簿能让买卖盘集中在一起，提高价格发现的效率。\n\n不然 YES 和 NO 两个独立盘口，流动性会被撕裂。\n\n那个永远不存在的「套利机会」\n理解了共享订单簿后，我终于明白为什么那个 YES 0.42 + NO 0.43 的「套利」挂不上去了。\n\n因为当我挂 YES 0.42 买单时，系统接收的其实是：买入 NO 0.58。\n\n当别人挂 NO 0.43 卖单时，意味着：买入 YES 0.57。\n\n我的出价(0.58) > 他的要价(0.43)！\n\n系统会瞬间撮合这笔交易！\n\n第三个人永远看不到这个「套利机会」——因为它压根不存在。\n\n共享订单簿就像一个自动平衡的天平，永远维持着 YES + NO = 1 的约束。\n\n任何试图打破这个平衡的订单，都会被立即消化掉。\n\n留在盘面上的，只有 YES + NO ≥ 1 的订单。\n\n那些真正的套利在哪里？\n搞明白同市场套利是幻觉后，我开始寻找真正的机会。\n\n多选项套利\n还记得马斯克推文那 30 多个选项吗？\n\n如果你买全了这 30+ 个选项的 YES，总成本小于 1 美元——恭喜你找到套利了！\n\n因为最终肯定有一个选项会变成 1 美元，其他归零。\n\n但这种机会有吗？\n\n有，但都被机器人盯着，手动操作几乎不可能抢到。\n\n而且你还要判断：是不是真的覆盖了全区间？会不会有黑天鹅？\n\n跨事件套利\n有次我发现两个不同市场，都在预测「两位领导人 9 月会面」。\n\n市场 A 的 YES 只有 3%，市场 B 的 NO 高达 94%。\n\n3% + 94% = 97% < 100%！\n\n理论上有 3% 的套利空间！\n\n但实际操作难度极高：\n\n你得确保两个市场的结算规则完全一致（时区？证据源？）\n\n流动性可能不足，实际能吃到的利润很少\n\n需要 NLP 能力判断事件是否真的等价\n\n这种机会比多选项套利的机器人少，但技术门槛更高。\n\n跨平台套利\nPolymarket 和 Kalshi（或 Opinion）之间，有时会出现价差。\n\n如果能做到：\n\n在平台 A 买 YES，成本 a\n\n在平台 B 买 NO，成本 b\n\na + b + 摩擦成本 < 1\n\n理论上就是无风险套利。\n\n但最大的坑在于「同一事件」这四个字。\n\n我之前做过 Polymarket 和 Opinion 之间的套利，发现它们很多规则一模一样，才敢下手。\n\n但即便如此，还有个问题：资金时间成本。\n\n你的钱会锁在两个平台，直到结算日才能取出。\n\n3% 利润锁 30 天，年化也就 36%——很多人觉得不值得。\n\n顿悟时刻\n最让我感慨的是：连 ChatGPT 都没搞懂共享订单簿。\n\n我问了 GPT-4、Claude、Gemini，它们都基于传统金融市场的经验给答案，完全忽略了这个创新机制。\n\n那些在推特上大肆宣传「同市场套利」的 KOL，要么是骗子，要么就是连 API 都没看过。\n\n这个行业变化太快了。\n\n你以为自己找到了「圣杯」，实际上只是没理解游戏规则。\n\n写在最后\n盯了三个月 Polymarket，我最大的收获不是赚到钱，而是学会了质疑共识。\n\n当所有人都在讨论套利时，也许真正的机会在别处。\n\n当所有人都觉得自己懂了，也许你才刚刚摸到门槛。\n\n预测市场的未来不是套利，是理解人类共识如何在链上形成——这才是真正值钱的东西。\n\nYES + NO = 1，这不只是个数学公式。\n\n它是预测市场的哲学：所有可能性的概率加起来，永远等于确定性本身。",
-      "contentHtml": "我花了三个月才搞懂：Polymarket 那个看似简单的 YES + NO = 1\n\n<a href=\"/Polymarket\" title=\"Polymarket\">@Polymarket</a> <a href=\"/Kalshi\" title=\"Kalshi\">@Kalshi</a> \n那张让我盯了三个月的公式\n刚开始玩 Polymarket 的时候，我以为自己懂了。\n\nYES + NO = 1，多简单啊！概率嘛，发生或不发生，加起来等于 100%。\n\n直到我真的开始下单，才发现自己什么都不懂。\n\n那个深夜，我盯着屏幕上的两个数字：YES 0.42，NO 0.43。\n\n脑子里飞快计算：0.42 + 0.43 = 0.85 &lt; 1！套利机会！\n\n手指颤抖地准备下单，结果——订单根本挂不上去。\n\n那一刻的困惑，现在想起来还觉得自己好傻。\n\n一张被撕成两半的美元\n我花了整整一周时间啃官方文档，才明白 Polymarket 卖的不是彩票。\n\n它卖的是一张未来的兑换券。\n\n每张兑换券的价值永远是 1 美元，但被市场撕成了两半：\n\n一半写着 YES\n\n一半写着 NO\n\n到结算那天，如果事件发生了，YES 券 = 1 美元，NO 券 = 0。\n\n如果没发生，YES 券 = 0，NO 券 = 1 美元。\n\n这意味着什么？\n\n你凑齐 YES + NO 两张券，就等于买到了一个到期必定价值 1 美元的东西！\n\n听起来很抽象，对吧？我当时也这么觉得，直到我看到多选项市场。\n\n马斯克推文教会我的事\n有天我在研究马斯克推文数量的市场，发现有 30 多个选项：\n\n&lt;20、20-40、40-60……一直到 580+。\n\n我当时就纳闷：这不是 YES 和 NO 啊，怎么这么多选项？\n\n后来我打开 API 一看——每个选项背后都有 YES 和 NO！\n\n「马斯克会发 20-40 条推文」 这个选项，本质上是：\n\nYES：会发 20-40 条\n\nNO：不会发 20-40 条\n\n它们依然满足 YES + NO = 1。\n\n甚至体育市场也一样！NBA 比赛看起来是「湖人 vs 勇士」，但本质上：\n\n湖人赢 = YES\n\n湖人输 = NO\n\n（当然足球比赛会有平局选项，那就是三个互斥的 YES/NO 组合）\n\n所有市场的底层逻辑都是 YES + NO = 1。\n\n这个认知让我重新审视了整个 Polymarket。\n\n那个让我震惊的镜像订单簿\n真正的顿悟来自我的一次实验。\n\n我在一个冷门市场挂了价格 18、数量 10 的 YES 买单。\n\n然后随手切换到 NO 界面看了一眼——\n\n我的订单出现在了 NO 市场价格 82 的位置！\n\n18 + 82 = 100，YES + NO = 1。\n\n这就是共享订单簿的魔法：\n\n你在 YES 市场的每个动作，都会在 NO 市场留下镜像！\n\n当我挂 YES 18 买单时，系统实际接收的是：我要买入 1 - 0.18 = 0.82 的 NO。\n\n这个订单会自动出现在 NO 市场 82 的位置。\n\n为什么要这样设计？\n\n答案是流动性！\n\n合并订单簿能让买卖盘集中在一起，提高价格发现的效率。\n\n不然 YES 和 NO 两个独立盘口，流动性会被撕裂。\n\n那个永远不存在的「套利机会」\n理解了共享订单簿后，我终于明白为什么那个 YES 0.42 + NO 0.43 的「套利」挂不上去了。\n\n因为当我挂 YES 0.42 买单时，系统接收的其实是：买入 NO 0.58。\n\n当别人挂 NO 0.43 卖单时，意味着：买入 YES 0.57。\n\n我的出价(0.58) &gt; 他的要价(0.43)！\n\n系统会瞬间撮合这笔交易！\n\n第三个人永远看不到这个「套利机会」——因为它压根不存在。\n\n共享订单簿就像一个自动平衡的天平，永远维持着 YES + NO = 1 的约束。\n\n任何试图打破这个平衡的订单，都会被立即消化掉。\n\n留在盘面上的，只有 YES + NO ≥ 1 的订单。\n\n那些真正的套利在哪里？\n搞明白同市场套利是幻觉后，我开始寻找真正的机会。\n\n多选项套利\n还记得马斯克推文那 30 多个选项吗？\n\n如果你买全了这 30+ 个选项的 YES，总成本小于 1 美元——恭喜你找到套利了！\n\n因为最终肯定有一个选项会变成 1 美元，其他归零。\n\n但这种机会有吗？\n\n有，但都被机器人盯着，手动操作几乎不可能抢到。\n\n而且你还要判断：是不是真的覆盖了全区间？会不会有黑天鹅？\n\n跨事件套利\n有次我发现两个不同市场，都在预测「两位领导人 9 月会面」。\n\n市场 A 的 YES 只有 3%，市场 B 的 NO 高达 94%。\n\n3% + 94% = 97% &lt; 100%！\n\n理论上有 3% 的套利空间！\n\n但实际操作难度极高：\n\n你得确保两个市场的结算规则完全一致（时区？证据源？）\n\n流动性可能不足，实际能吃到的利润很少\n\n需要 NLP 能力判断事件是否真的等价\n\n这种机会比多选项套利的机器人少，但技术门槛更高。\n\n跨平台套利\nPolymarket 和 Kalshi（或 Opinion）之间，有时会出现价差。\n\n如果能做到：\n\n在平台 A 买 YES，成本 a\n\n在平台 B 买 NO，成本 b\n\na + b + 摩擦成本 &lt; 1\n\n理论上就是无风险套利。\n\n但最大的坑在于「同一事件」这四个字。\n\n我之前做过 Polymarket 和 Opinion 之间的套利，发现它们很多规则一模一样，才敢下手。\n\n但即便如此，还有个问题：资金时间成本。\n\n你的钱会锁在两个平台，直到结算日才能取出。\n\n3% 利润锁 30 天，年化也就 36%——很多人觉得不值得。\n\n顿悟时刻\n最让我感慨的是：连 ChatGPT 都没搞懂共享订单簿。\n\n我问了 GPT-4、Claude、Gemini，它们都基于传统金融市场的经验给答案，完全忽略了这个创新机制。\n\n那些在推特上大肆宣传「同市场套利」的 KOL，要么是骗子，要么就是连 API 都没看过。\n\n这个行业变化太快了。\n\n你以为自己找到了「圣杯」，实际上只是没理解游戏规则。\n\n写在最后\n盯了三个月 Polymarket，我最大的收获不是赚到钱，而是学会了质疑共识。\n\n当所有人都在讨论套利时，也许真正的机会在别处。\n\n当所有人都觉得自己懂了，也许你才刚刚摸到门槛。\n\n预测市场的未来不是套利，是理解人类共识如何在链上形成——这才是真正值钱的东西。\n\nYES + NO = 1，这不只是个数学公式。\n\n它是预测市场的哲学：所有可能性的概率加起来，永远等于确定性本身。",
-      "publishedAt": "2025-12-31T13:23:00.000Z",
-      "link": "https://x.com/wang_xiaolou/status/2006355409637175453",
-      "retweet": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2006351508460433594",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -791,35 +793,6 @@
             "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG80yOzNagAEEWSq.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2006277696041673142",
-      "username": "realBillZhang",
-      "displayName": "Bill Zhang — Seeking Certainty",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1794733950604099585%2Fq487FqOL_bigger.jpg",
-      "content": "如果CME在短时间内多次上调保证金，这就是见顶下跌的信号。\n\n2011年CME在白银49的位置上，两周上调了5次保证金，白银价格跌至32，下跌34%。",
-      "contentHtml": "如果CME在短时间内多次上调保证金，这就是见顶下跌的信号。\n\n2011年CME在白银49的位置上，两周上调了5次保证金，白银价格跌至32，下跌34%。",
-      "publishedAt": "2025-12-31T08:14:00.000Z",
-      "link": "https://x.com/realBillZhang/status/2006277696041673142",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9e66wRaYAMuJ06.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9e66wRa8AAoc2W.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
       },
       "stats": {
         "replies": 0,
@@ -1308,25 +1281,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9bx78oaEAAnbDO.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2006057208371634487",
-      "username": "johnloeber",
-      "displayName": "John Loeber 🎢",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F924075457535885312%2FTsk_1h8S_bigger.jpg",
-      "content": "On @RoKhanna's wealth tax: I'm sure you all know that the US economy is not doing great outside of AI.\n\nConsumer sentiment is poor, manufacturing/labor markets are weakening, investment outside of AI is soft.\n\nSilicon Valley is carrying the economy. We have ONE THING THAT WORKS -- the proverbial goose that lays the golden eggs. As a federal matter, we should be fighting tooth and nail to ensure that we don't jeopardize it.\n\nIt is immensely disappointing to see men like Ro Khanna, entrusted to be stewards of the golden goose, contemplate slaughtering it. They have the highest level of responsibility to exercise discipline, defend their constituents, and think long-term.\n\nOther congressmen would give anything to have the same level of responsibility. They would be TERRIFIED of messing with the thing that works: no matter how clever someone's idea might be to steal just a single feather from the golden goose -- they'd say hands off, over my dead body. To think otherwise -- that you can extract just a little more, and then just a little more, is the foolish arrogance that comes before the fall.",
-      "contentHtml": "On <a href=\"/RoKhanna\" title=\"Ro Khanna\">@RoKhanna</a>'s wealth tax: I'm sure you all know that the US economy is not doing great outside of AI.\n\nConsumer sentiment is poor, manufacturing/labor markets are weakening, investment outside of AI is soft.\n\nSilicon Valley is carrying the economy. We have ONE THING THAT WORKS -- the proverbial goose that lays the golden eggs. As a federal matter, we should be fighting tooth and nail to ensure that we don't jeopardize it.\n\nIt is immensely disappointing to see men like Ro Khanna, entrusted to be stewards of the golden goose, contemplate slaughtering it. They have the highest level of responsibility to exercise discipline, defend their constituents, and think long-term.\n\nOther congressmen would give anything to have the same level of responsibility. They would be TERRIFIED of messing with the thing that works: no matter how clever someone's idea might be to steal just a single feather from the golden goose -- they'd say hands off, over my dead body. To think otherwise -- that you can extract just a little more, and then just a little more, is the foolish arrogance that comes before the fall.",
-      "publishedAt": "2025-12-30T17:38:00.000Z",
-      "link": "https://x.com/johnloeber/status/2006057208371634487",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2728,25 +2682,6 @@
             "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9Vz0BBawAE3Grr.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2005723662973067616",
-      "username": "mattparlmer",
-      "displayName": "mattparlmer 🪐 🌷",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1594845424300556291%2FoSgClnAH_bigger.jpg",
-      "content": "Guys it’s very very important for Our Democracy to tax unrealized gains on golden goose eggs\n\nBtw totally unrelated but we might have a tiny fraud-adjacent cashflow problem haha",
-      "contentHtml": "Guys it’s very very important for Our Democracy to tax unrealized gains on golden goose eggs\n\nBtw totally unrelated but we might have a tiny fraud-adjacent cashflow problem haha",
-      "publishedAt": "2025-12-29T19:32:00.000Z",
-      "link": "https://x.com/mattparlmer/status/2005723662973067616",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -5477,25 +5412,6 @@
             "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2004927527064940544%2Fimg%2FyQQSpOYGTL5GRr0l.jpg%3Fname%3Dsmall%26format%3Dwebp"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2005090573934624845",
-      "username": "NavalismHQ",
-      "displayName": "Navalism",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1350045723073671169%2FxB1_K1_z_bigger.jpg",
-      "content": "\"Startup compensation package - Meaningful work, an alumni network, and a lottery ticket.\"\n\n@naval",
-      "contentHtml": "\"Startup compensation package - Meaningful work, an alumni network, and a lottery ticket.\"\n\n<a href=\"/naval\" title=\"Naval\">@naval</a>",
-      "publishedAt": "2025-12-28T01:37:00.000Z",
-      "link": "https://x.com/NavalismHQ/status/2005090573934624845",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -9443,31 +9359,6 @@
       }
     },
     {
-      "id": "2003360537543860487",
-      "username": "linwanwan823",
-      "displayName": "林晚晚的猫",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1957790840593784832%2FQDqSJN4W_bigger.jpg",
-      "content": "如何在Polymarket做空「山寨币」，3个月赚13.3万美元？\n\n晚晚我又挖到一个在Polymarket上，\n靠做空币圈发币，闷声赚钱的玩家@filthyBera\n\n38笔交易，95%胜率，小仓位狂赚13.3万美元。\n\n9月入场，专门押注加密项目发币，\n但他不买币，只在Polymarket上做一件事：做空山寨币市场的FOMO情绪。\n\n他的策略很简单：逢发币，押\"FDV达不到\"。\n\n我来拆解一下他正在进行的持仓：\n\n1.逆向押注FDV泡沫\n\n几乎所有持仓都是\"NO\"：\n\nFogo FDV能破7亿？押NO，34¢进，现在73¢，浮盈114%\nBased FDV能破5亿？押NO，50¢进，现在84¢，浮盈66%\nOpensea FDV能破30亿？押NO，81¢进，现在90¢\nMetamask FDV能破30亿？押NO，67¢进，现在84¢\n\n2.核心逻辑：发币前FOMO最大\n\n市场总是高估新项目发币时的估值，散户FOMO把\"YES\"打得很高。\n\n但实际发币后，90%的项目FDV都达不到市场预期。\n\n3.风险控制：分散+高确定性\n\n38笔交易，单笔最大下注约2万美元，\n覆盖Fogo、Based、Opensea、Metamask、Lighter等多个热门项目。\n\n我个人觉得他不是内幕，也不是赌单一结果，\n就是赌一个统计规律：大多数项目发币即巅峰。\n\n目前持仓价值9.25万美元，总盈利13.3万美元，单笔最大盈利5.45万美元。\n\n一句话总结他的操作：市场预期永远过于乐观，他在赌贪婪会落空。\n\n我给这策略起名叫：\"Polymarket版做空山寨币\"，不做空币价，做空FOMO。\n\n很有意思预测市场的反共识交易员，晚晚我会持续挖掘。",
-      "contentHtml": "如何在Polymarket做空「山寨币」，3个月赚13.3万美元？\n\n晚晚我又挖到一个在Polymarket上，\n靠做空币圈发币，闷声赚钱的玩家@filthyBera\n\n38笔交易，95%胜率，小仓位狂赚13.3万美元。\n\n9月入场，专门押注加密项目发币，\n但他不买币，只在Polymarket上做一件事：做空山寨币市场的FOMO情绪。\n\n他的策略很简单：逢发币，押\"FDV达不到\"。\n\n我来拆解一下他正在进行的持仓：\n\n1.逆向押注FDV泡沫\n\n几乎所有持仓都是\"NO\"：\n\nFogo FDV能破7亿？押NO，34¢进，现在73¢，浮盈114%\nBased FDV能破5亿？押NO，50¢进，现在84¢，浮盈66%\nOpensea FDV能破30亿？押NO，81¢进，现在90¢\nMetamask FDV能破30亿？押NO，67¢进，现在84¢\n\n2.核心逻辑：发币前FOMO最大\n\n市场总是高估新项目发币时的估值，散户FOMO把\"YES\"打得很高。\n\n但实际发币后，90%的项目FDV都达不到市场预期。\n\n3.风险控制：分散+高确定性\n\n38笔交易，单笔最大下注约2万美元，\n覆盖Fogo、Based、Opensea、Metamask、Lighter等多个热门项目。\n\n我个人觉得他不是内幕，也不是赌单一结果，\n就是赌一个统计规律：大多数项目发币即巅峰。\n\n目前持仓价值9.25万美元，总盈利13.3万美元，单笔最大盈利5.45万美元。\n\n一句话总结他的操作：市场预期永远过于乐观，他在赌贪婪会落空。\n\n我给这策略起名叫：\"Polymarket版做空山寨币\"，不做空币价，做空FOMO。\n\n很有意思预测市场的反共识交易员，晚晚我会持续挖掘。",
-      "publishedAt": "2025-12-23T07:02:00.000Z",
-      "link": "https://x.com/linwanwan823/status/2003360537543860487",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG81dM4OXEAA9F0H.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2003355869078258005",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -10881,31 +10772,6 @@
       }
     },
     {
-      "id": "2002807370452509170",
-      "username": "AlexHonnold",
-      "displayName": "Alex Honnold",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F521729433426599937%2F0nntVU9L_bigger.jpeg",
-      "content": "On January 23, I’ll be free soloing Taipei 101 in Taiwan. It’s been a long time goal of mine and it’ll be the most ambitious urban climb that I’ve attempted. It’s a nearly 1,700 ft tower! What’s not to like?! And I’ll be doing it LIVE on @netflix. Tune in Friday, January 23 at 8PM ET / 5PM PT",
-      "contentHtml": "On January 23, I’ll be free soloing Taipei 101 in Taiwan. It’s been a long time goal of mine and it’ll be the most ambitious urban climb that I’ve attempted. It’s a nearly 1,700 ft tower! What’s not to like?! And I’ll be doing it LIVE on <a href=\"/netflix\" title=\"Netflix\">@netflix</a>. Tune in Friday, January 23 at 8PM ET / 5PM PT",
-      "publishedAt": "2025-12-21T18:24:00.000Z",
-      "link": "https://x.com/AlexHonnold/status/2002807370452509170",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8tmr_wWgAACqvL.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "coolish",
-        "displayName": "paulwei"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2002798967726489976",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -10974,31 +10840,6 @@
         "displayName": "Crypto_Painter",
         "content": "突然想起来一个现象，2016年以前，国内自媒体的流量密码是从油管搬运内容到墙内互联网…\n\n2023年以后，突然就反过来了，现在从抖音上搬运视频到X成了流量密码…\n\n为什么会这样？",
         "link": "https://x.com/CryptoPainter/status/2002328885833392301"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2002773585291866527",
-      "username": "anqirocks27",
-      "displayName": "AnqiRocks",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1998965876327120897%2FoLQFVzGv_bigger.jpg",
-      "content": "是我。",
-      "contentHtml": "是我。",
-      "publishedAt": "2025-12-21T16:10:00.000Z",
-      "link": "https://x.com/anqirocks27/status/2002773585291866527",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8tH8pWa4AAQZSx.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
       },
       "stats": {
         "replies": 0,
@@ -11544,6 +11385,189 @@
         {
           "type": "image",
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8rS_pmbMAQILJf.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001857810926309780",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "now we ride",
+      "contentHtml": "now we ride",
+      "publishedAt": "2025-12-19T03:31:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2001857810926309780",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8gHEWmbMAAGajN.png"
+        }
+      ],
+      "quote": {
+        "username": "JoshuaDeuk",
+        "displayName": "Joshua | MOZAIK 🇰🇷",
+        "content": "Same playbook \n\n80k feels bottom \n\nCPI is good \n\nWe buy the dip and decide what to do after BOJ meeting \n\nIf BOJ is all good and fine with 25bps or no raise we hodl tilll Jan 5 th \n\nIf not ....  no clue for now",
+        "link": "https://x.com/JoshuaDeuk/status/2001684404222276014"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001684404222276014",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "Same playbook \n\n80k feels bottom \n\nCPI is good \n\nWe buy the dip and decide what to do after BOJ meeting \n\nIf BOJ is all good and fine with 25bps or no raise we hodl tilll Jan 5 th \n\nIf not ....  no clue for now",
+      "contentHtml": "Same playbook \n\n80k feels bottom \n\nCPI is good \n\nWe buy the dip and decide what to do after BOJ meeting \n\nIf BOJ is all good and fine with 25bps or no raise we hodl tilll Jan 5 th \n\nIf not ....  no clue for now",
+      "publishedAt": "2025-12-18T16:02:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2001684404222276014",
+      "quote": {
+        "username": "JoshuaDeuk",
+        "displayName": "Joshua | MOZAIK 🇰🇷",
+        "content": "Key Strategic Points Ahead of FOMC\n\n1. A 25bp cut is the base case already priced in\n\nIf the Fed delivers a larger-than-expected cut, markets will likely react sharply to the upside — though the probability remains low.\n\nIf we only get a standard 25bp cut, market reaction should be muted, and the statement becomes the key swing factor.\n\nThis time, the tone of the statement matters more than the wording itself.\nWe could get something bland, but if we see another bold comment — similar to last time’s “employment matters more than inflation” message — markets will move immediately.\n\n⸻\n\n2. Dot Plot\n\nThe focus is on how many cuts the Fed is projecting going forward.\n\n⸻\n\n3. Potential MBS or T-Bill Purchases (essentially minor QE)\n\nAny hint of asset purchases would be interpreted as a liquidity-support signal — a clear positive for risk assets.\n\n⸻\n\nLooking into Q1–Q2 next year\n\nUnless Powell resigns, the first half of next year is likely to remain relatively calm.\n\nHowever, if Powell steps down quickly and Hasset gets confirmed, markets will shift into a risk-on mode almost instantly.\n\n⸻\n\nWhat if we get an unexpected scenario?\n\nIf we see:\n•No rate cut (highly unlikely), or\n•A clearly hawkish statement\n\n→ Markets could sell off quickly.\n\nIn that case, I’d expect a January rate cut to be virtually guaranteed, and I’d position aggressively into ETH.\nIf the BOJ meeting passes without disruption, the plan is to hold through early to mid-January.",
+        "link": "https://x.com/JoshuaDeuk/status/1998693937578664042"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001496009915150843",
+      "username": "YettaSing",
+      "displayName": "YettaS",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1760136269890523136%2FzRTLwZhZ_bigger.jpg",
+      "content": "- @RedotPay   launched in April 2023. Now serves 6M users across 100+ countries, with $10B+ in processed payments.\n- The standout is how the growth shows up. They do run a referral program (rare in tradfi card biz):referrers earn 20% of card issuance fees + 5 bps on ongoing spend, but referrals drive only ~35% of growth.\n- The rest is organic, demand-driven. SEMrush shows ~96% of traffic is organic.AppBrain data shows steady, step-like download growth, not spike-and-fade marketing. \n- that’s to say crypto payout demand is real, and underserved. Unlike most CEX/DeFi products, the card there is just an add-on. Redot Pay is focused on clearing the payment rails, solving an actual, repeatable user need.\n- What looks like a “simple card product” hides a full financial stack: from BIN sponsors and asset custody upstream, to payment + clearing channels downstream, all under regulatory constraints.\n- Once the card becomes a true distribution channel, the expansion path is obvious: transfers, earn, credit, swaps — a holistic account + global payment network. \n- Redot Pay is evolving from a payment tool into a compliant, closed-loop financial hub for digital assets. the key for the future lies on compliance depth and global licensing.\n- This is also where diaspora Chinese/Asian founders show a structural edge, esp for offshore growth in emerging markets.",
+      "contentHtml": "- <a href=\"/RedotPay\" title=\"RedotPay Official\">@RedotPay</a>   launched in April 2023. Now serves 6M users across 100+ countries, with $10B+ in processed payments.\n- The standout is how the growth shows up. They do run a referral program (rare in tradfi card biz):referrers earn 20% of card issuance fees + 5 bps on ongoing spend, but referrals drive only ~35% of growth.\n- The rest is organic, demand-driven. SEMrush shows ~96% of traffic is organic.AppBrain data shows steady, step-like download growth, not spike-and-fade marketing. \n- that’s to say crypto payout demand is real, and underserved. Unlike most CEX/DeFi products, the card there is just an add-on. Redot Pay is focused on clearing the payment rails, solving an actual, repeatable user need.\n- What looks like a “simple card product” hides a full financial stack: from BIN sponsors and asset custody upstream, to payment + clearing channels downstream, all under regulatory constraints.\n- Once the card becomes a true distribution channel, the expansion path is obvious: transfers, earn, credit, swaps — a holistic account + global payment network. \n- Redot Pay is evolving from a payment tool into a compliant, closed-loop financial hub for digital assets. the key for the future lies on compliance depth and global licensing.\n- This is also where diaspora Chinese/Asian founders show a structural edge, esp for offshore growth in emerging markets.",
+      "publishedAt": "2025-12-18T03:33:00.000Z",
+      "link": "https://x.com/YettaSing/status/2001496009915150843",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8a8DP7awAAhW89.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8a8Jc7bIAAUMkN.png"
+        }
+      ],
+      "retweet": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
+      },
+      "quote": {
+        "username": "Yogita_Khatri5",
+        "displayName": "Yogita Khatri",
+        "content": "Stablecoin payments are scaling fast.\n\nUnicorn @RedotPay has raised $107M in a Series B, saying it now processes over $10B in annualized volume and generates more than $150M in annualized revenue while already profitable, with backing from @PanteraCapital, @blockchaincap, @circle Ventures and others.\n\nCEO Michael Gao said RedotPay has “meaningful users” across the Middle East and North Africa and plans to use the fresh capital to expand into new markets and grow its regulatory license footprint through acquisitions.",
+        "link": "https://x.com/Yogita_Khatri5/status/2000939198988079394",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8TAcwPWoAIA1n2.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8TAcwUXUAE-6bd.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001468301420159102",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Almost a year after \"The Violent Delight\", I’m drafting \"The Great Unwinding\" \n\nAs I wrote before: when markets over index on a handful of figureheads putamental, sustainability is at risk. We’re now seeing the downstream unwind ripple across nearly every market\n\nThe source of momentum always becomes the source of fragility",
+      "contentHtml": "Almost a year after \"The Violent Delight\", I’m drafting \"The Great Unwinding\" \n\nAs I wrote before: when markets over index on a handful of figureheads putamental, sustainability is at risk. We’re now seeing the downstream unwind ripple across nearly every market\n\nThe source of momentum always becomes the source of fragility",
+      "publishedAt": "2025-12-18T01:43:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2001468301420159102",
+      "quote": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+        "content": "x.com/i/article/188116176292…",
+        "link": "https://x.com/DoveyWan/status/1881211515807973447"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2001293762283077685",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "Probably next few 10 to 100x opportunity  from Crypto",
+      "contentHtml": "Probably next few 10 to 100x opportunity  from Crypto",
+      "publishedAt": "2025-12-17T14:09:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2001293762283077685",
+      "quote": {
+        "username": "layerggofficial",
+        "displayName": "Layergg",
+        "content": "🏯Kingdoms of BSC Prediction Market\n\n - Who will be CZ’s successor like $ASTER?\n\nThe market has always discovered new answers.\nSuppose that blockchain has created the following new types of tradable assets.\n\nNFT = Decentralized ART\nMEME = Social Viral Money\n\nA prediction market, then, would be the act of trading directly on “FACT” itself.\n\nPolymarket: ~$2B raised at $9B valuation, seeking $12B–$15B;\nKalshi: +$1B raised at $11B valuation.\n\nThe above valuation framework suggests that expectations for prediction markets are not confined to either Web2 or Web3.\n\nI also expect that a crypto-native candidate could emerge as a serious contender on BSC.\n\nLet’s explore this together.\n\n————————————————————— \n\n1. Predict.fun(@predictdotfun)\n\n1) Ticker: - \n2) VCs: YZI Labs, only\n3) Founder: Dingaling(@dingalingts) - Pancake Swap Founder, Binance Head of Research \n4) Partnership: Venus Protocol - Locked Collateral Yield, Privy - Wallet key, Zero Dev - Contract/AA SDK\n5) Oracle: UMA($UMA)\n6) CZ / He Yi shilling: \nnitter.privacyredirect.com/cz_binance/status/1996…\n7) Current Phase: Live - Week 1\n\nIf you don't mind please use our referral:\npredict.fun?ref=3C310\n\n—————————————————————\n\n2. Probable(@0xProbable)\n\n1) Ticker: - \n2) VCs: - \n3) Founder: -\n4) Partnership: Pancakswap & YZI Labs - Co-incubater\n5) Oracle: UMA($UMA)\n6) CZ / He Yi Shilling: \nnitter.privacyredirect.com/cz_binance/status/2000…\n7) Current Phase: Waitlist\n\n—————————————————————\n\n3. Opinion(@opinionlabsxyz)\n\n1) Ticker: $OPN - TBA, Not Confirmed\n2) VCs: YZI Labs(Lead), Amber group, Animoca Brands, Manifold Trading, Echo\n3) Oracle: Opinion AI(In-house)\n4) Founder: @ForrestOLAB - \n5) Partnership: $LINK - Macrodata\n6) CZ / He Yi Shilling: CZ Deleted Twit about Opinion Labs\n7) Current Phase: Live - Incentive week 8\n\n—————————————————————\n\n4. Other Candidates\n\n1) Myriad Maket(@MyriadMarkets)\n1/ CZ / He Yi Shilling: \nnitter.privacyredirect.com/cz_binance/status/1981…\n2/ Partnership: Trust Wallet, BNB Chain, Linea\n3/ Founders: \n@farokh - President & Co-Founder of DASTAN: @MyriadMarkets + @RugRadio + @DecryptMedia\n@Loxley_eth - Our Media Outlets @DecryptMedia + @RugRadio\n 4/ Current Phase: Live - Points Program Season 2\n\n2) TimeLess(@timelessmarketX)\n1/ First BSC Prediction Market\n2/ Current Phase: Live - Points Program Season 2\n\n3) Punk.coffee(@Punkdotcoffee)\n1/ Current Phase: Early Brid Campaign\n\n—————————————————————\n\n* * *   \nI hope you've found this thread helpful.  \n\n💞 Please Like/Retweet/Follow to support :)  \n\nThanks for reading!",
+        "link": "https://x.com/layerggofficial/status/2001250438767890782",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG8Xd79Ga4AI6sNZ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999708800237076579",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "Very fucking good story \n\nU just put ur head down, stick to what you've been doing until u become great at it \n\nMoney will follow if u don't give up",
+      "contentHtml": "Very fucking good story \n\nU just put ur head down, stick to what you've been doing until u become great at it \n\nMoney will follow if u don't give up",
+      "publishedAt": "2025-12-13T05:11:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/1999708800237076579",
+      "quote": {
+        "username": "hadzooka69",
+        "displayName": "Hdz",
+        "content": "sat next to a guy on a flight who smelled like old money\n\nrolex. tailored suit. reading a physical newspaper like it was 1987.\n\nfigured he was some finance executive or inherited wealth.\n\nwe got talking. I mentioned I sell stuff online.\n\nhe put down his newspaper.\n\n\"what kind of stuff?\"\n\ndigital products. courses. ebooks. that kind of thing.\n\nhe smiled weird.\n\n\"I made $4 million last year selling a PDF about aquariums.\"\n\nI thought he was messing with me.\n\nhe wasn't.\n\nthis guy is 61 years old. spent 30 years as an accountant. hated every second of it. retired at 55 with decent savings but nothing crazy.\n\nhis hobby was aquariums. had been keeping fish tanks since he was 12.\n\n\"my wife told me to start a blog so I'd stop boring her with fish facts.\"\n\nso he did. wrote about aquarium stuff 3 times a week. water chemistry. tank setups. fish compatibility.\n\nfor 2 years nobody read it.\n\n\"I had maybe 50 visitors a month. all probably bots.\"\n\nbut he kept going because he had nothing else to do.\n\nyear 3, one article ranked on google. then another. then another.\n\nsuddenly he was getting 100K visitors a month. all people searching for aquarium help.\n\n\"I realized these people would probably pay for a complete guide. so I wrote one.\"\n\n147 pages. everything about setting up and maintaining an aquarium.\n\npriced it at $47.\n\nfirst month: $6K\nfirst year: $340K\nlast year: $4.2 million\n\nfrom a PDF about fish tanks.\n\nI asked about his marketing strategy.\n\n\"I don't have one. google sends people to my blog. blog mentions the guide. people buy it. I go play golf.\"\n\nno email sequence?\n\n\"I have a newsletter. I send fish tips once a week. sometimes I mention the guide at the bottom. that's it.\"\n\nno upsells?\n\n\"I made a second guide about saltwater tanks specifically. $67. people who bought the first one usually buy the second. that's my whole business.\"\n\nno team?\n\n\"my wife helps with customer service. we get maybe 10 emails a day. most are just people showing us their tanks.\"\n\nthis 61 year old retiree built a bigger business than most \"entrepreneurs\" I know.\n\nno ads. no funnel hacks. no growth strategies. no personal brand.\n\njust mass expertise in one weird niche and patience to let it compound.\n\nbefore we landed he gave me advice I didn't ask for:\n\n\"everyone your age wants to get rich fast. that's why most of you stay broke. I wrote about fish for 2 years before making a dollar. now I make more than I did in 30 years of accounting. speed is overrated. patience pays.\"\n\nthe plane landed. he grabbed his newspaper and walked off.\n\nprobably went home to feed his fish.",
+        "link": "https://x.com/hadzooka69/status/1999630238490263554"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1999392644951343137",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "Curious on team for clarification - clearly fundamentals have been improving but would love a bit more transparency \n@GAME_Virtuals @virtuals_io \n\nButler has already processed ~$374 M worth of tasks, thus we assume ~1% of that flows into GAME Treasury (~$3.7 M) \n\nWas curious if there is a tagged wallet where we can see the fees being accrued, and if there are any plans for how the treasury capital will be utilised? \n\nnitter.privacyredirect.com/GAME_Virtuals/status/1…",
+      "contentHtml": "Curious on team for clarification - clearly fundamentals have been improving but would love a bit more transparency \n<a href=\"/GAME_Virtuals\" title=\"G.A.M.E\">@GAME_Virtuals</a> <a href=\"/virtuals_io\" title=\"Virtuals Protocol\">@virtuals_io</a> \n\nButler has already processed ~$374 M worth of tasks, thus we assume ~1% of that flows into GAME Treasury (~$3.7 M) \n\nWas curious if there is a tagged wallet where we can see the fees being accrued, and if there are any plans for how the treasury capital will be utilised? \n\n<a href=\"https://nitter.privacyredirect.com/GAME_Virtuals/status/1990003825852473447?s=20\">nitter.privacyredirect.com/GAME_Virtuals/status/1…</a>",
+      "publishedAt": "2025-12-12T08:15:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/1999392644951343137",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG79FArvaQAEI7fX.jpg"
         }
       ],
       "stats": {
