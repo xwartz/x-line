@@ -24,12 +24,125 @@ const TWEETS_FILE = path.join(DATA_DIR, 'tweets.json');
 const FOLLOWERS_JSON_FILE = path.join(DATA_DIR, 'followers.json');
 const FOLLOWERS_TXT_FILE = path.join(DATA_DIR, 'followers.txt');
 
-// Nitter 实例列表
-const NITTER_INSTANCES = [
+// 兜底的 Nitter 实例列表 (当动态获取失败时使用)
+const FALLBACK_NITTER_INSTANCES = [
+  'nitter.net',
   'nitter.privacyredirect.com',
   'xcancel.com',
+  'nitter.1d4.us',
+  'nitter.cz',
   'nitter.poast.org',
 ];
+
+// 动态获取实例列表的来源
+const INSTANCE_LIST_SOURCES = [
+  {
+    name: 'GitHub Wiki',
+    url: 'https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md',
+    parser: parseGitHubWikiInstances,
+  },
+];
+
+/**
+ * 从 GitHub Wiki Markdown 解析实例列表
+ * 表格格式: | [domain.com](https://domain.com) | :white_check_mark: | ✅ | ...
+ * 只提取标记为 Online 且 Working 的实例
+ */
+function parseGitHubWikiInstances(text) {
+  const instances = [];
+  const lines = text.split('\n');
+
+  for (const line of lines) {
+    // 跳过非数据行
+    if (!line.startsWith('|') || line.includes('---') || line.includes('URL')) {
+      continue;
+    }
+
+    // 检查是否标记为工作中 (✅ 或 :white_check_mark:)
+    // 格式: | [url](https://...) | :white_check_mark: | ✅ | country | ...
+    const isOnline = line.includes(':white_check_mark:') || line.includes('✅');
+    if (!isOnline) {
+      continue;
+    }
+
+    // 排除 Tor (.onion) 和 I2P (.i2p) 实例
+    if (line.includes('.onion') || line.includes('.i2p')) {
+      continue;
+    }
+
+    // 提取域名，格式: [domain.com](https://domain.com)
+    const match = line.match(/\[([^\]]+)\]\(https?:\/\/([^)\/]+)/);
+    if (match) {
+      const domain = match[2].replace(/\/$/, '');
+      // 过滤掉非域名格式的链接（如 ssllabs.com 验证链接）
+      if (domain &&
+          !domain.includes(' ') &&
+          domain.includes('.') &&
+          !domain.includes('ssllabs.com') &&
+          !domain.includes('github.com')) {
+        instances.push(domain);
+      }
+    }
+  }
+
+  // 去重
+  return [...new Set(instances)];
+}
+
+/**
+ * 简单的 HTTP 请求（用于获取实例列表）
+ */
+async function simpleFetch(url, timeout = 10) {
+  try {
+    const { stdout } = await execAsync(
+      `curl -sL --connect-timeout ${timeout} --max-time ${timeout * 2} "${url}"`,
+      { maxBuffer: 5 * 1024 * 1024 }
+    );
+    return stdout;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * 动态获取 Nitter 实例列表
+ * 优先从在线源获取，失败则使用兜底列表
+ */
+async function getNitterInstances() {
+  console.log('Fetching Nitter instance list...');
+
+  // 官方实例始终优先（在 wiki 的单独 Official 区域）
+  const officialInstances = ['nitter.net'];
+
+  for (const source of INSTANCE_LIST_SOURCES) {
+    try {
+      console.log(`  Trying ${source.name}...`);
+      const text = await simpleFetch(source.url);
+
+      if (text) {
+        const instances = source.parser(text);
+        if (instances.length > 0) {
+          console.log(`  ✓ Found ${instances.length} instances from ${source.name}`);
+          // 官方实例放最前面，然后是从 wiki 获取的实例（去重）
+          const combined = [
+            ...officialInstances,
+            ...instances.filter(i => !officialInstances.includes(i)),
+          ];
+          return combined.slice(0, 10); // 最多返回 10 个实例
+        }
+      }
+      console.log(`  ✗ No instances found from ${source.name}`);
+    } catch (error) {
+      console.log(`  ✗ Failed to fetch from ${source.name}: ${error.message}`);
+    }
+  }
+
+  console.log('  Using fallback instance list');
+  return FALLBACK_NITTER_INSTANCES;
+}
+
+// 运行时的实例列表（将在 main 中初始化）
+let NITTER_INSTANCES = [];
 
 /**
  * 从文本文件读取关注者列表（优先）
@@ -154,8 +267,23 @@ const MAX_PAGES_PER_USER = 5;
  */
 async function fetchWithCurl(url, timeout = FETCH_TIMEOUT) {
   try {
+    // 添加浏览器 User-Agent 和常见请求头以避免 bot 检测
+    const headers = [
+      '-H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"',
+      '-H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8"',
+      '-H "Accept-Language: en-US,en;q=0.9"',
+      '-H "Accept-Encoding: gzip, deflate, br"',
+      '-H "Cache-Control: no-cache"',
+      '-H "Pragma: no-cache"',
+      '-H "Sec-Fetch-Dest: document"',
+      '-H "Sec-Fetch-Mode: navigate"',
+      '-H "Sec-Fetch-Site: none"',
+      '-H "Sec-Fetch-User: ?1"',
+      '-H "Upgrade-Insecure-Requests: 1"',
+    ].join(' ');
+
     const { stdout } = await execAsync(
-      `curl -sL --connect-timeout ${timeout} --max-time ${timeout * 2} "${url}"`,
+      `curl -sL --compressed --connect-timeout ${timeout} --max-time ${timeout * 2} ${headers} "${url}"`,
       { maxBuffer: 10 * 1024 * 1024 }
     );
     return { ok: true, text: () => Promise.resolve(stdout) };
@@ -628,6 +756,9 @@ async function main() {
   console.log('========================================');
   console.log(`Time: ${new Date().toISOString()}`);
   console.log(`Users: ${FOLLOWERS.map(f => '@' + f.username).join(', ')}`);
+
+  // 动态获取 Nitter 实例列表
+  NITTER_INSTANCES = await getNitterInstances();
   console.log(`Instances: ${NITTER_INSTANCES.join(', ')}`);
 
   // 确保 data 目录存在
