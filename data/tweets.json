@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T03:30:29.378Z",
+  "lastUpdated": "2026-01-11T04:35:17.402Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -74,11 +74,53 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 462,
+    "newFetched": 466,
     "successUsers": 23,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2010202400850882992",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "perle labs有东西可以做了，这个perle labs 还没有去申请waitlist的申请一下，热度还不是很高，ai项目。现在也没啥项目可以撸的。这个项目dc目前可以撸og。",
+      "contentHtml": "perle labs有东西可以做了，这个perle labs 还没有去申请waitlist的申请一下，热度还不是很高，ai项目。现在也没啥项目可以撸的。这个项目dc目前可以撸og。",
+      "publishedAt": "2026-01-11T04:09:00.000Z",
+      "link": "https://x.com/0xleng1/status/2010202400850882992",
+      "quote": {
+        "username": "PerleLabs",
+        "displayName": "Perle Labs",
+        "content": "Season 1 is loading\nNew tasks activating\nMore rewards unlocking\n\nComing soon.",
+        "link": "https://x.com/PerleLabs/status/2009315154580918322"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2010196775664295997",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "BSC 基金会于 2 分钟前购入 5 万美元的哈基米，成为其 TOP6 资产\n\n该地址持仓 TOP5 资产分别为：MYX / CAKE / LISTA / SKYAI / 币安人生\n\nintel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
+      "contentHtml": "BSC 基金会于 2 分钟前购入 5 万美元的哈基米，成为其 TOP6 资产\n\n该地址持仓 TOP5 资产分别为：MYX / CAKE / LISTA / SKYAI / 币安人生\n\n<a href=\"https://intel.arkm.com/explorer/address/0x511DfE9E248c887E32ca8bF9d1cb76f101965060\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/search?q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
+      "publishedAt": "2026-01-11T03:47:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2010196775664295997",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-WnTLXasAA4t92.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2010185518672384415",
       "username": "ai_9684xtpa",
@@ -131,6 +173,31 @@
           "url": "https://nitter.net/pic/orig/media%2FG-WbantasAQik0r.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2010148913659940941",
+      "username": "nic_carter",
+      "displayName": "nic carter",
+      "avatar": "https://nitter.net/pic/profile_images%2F1997450474690072576%2FYwtb1Xxr_bigger.jpg",
+      "content": "havent been following closely but just figured out what's going on \n\n- ballot initiative gets voted on in nov 2026, implemented 2027 if it passes\n- to avoid people dodging the tax, it gets backdated to CA residency as of jan 1, 2026\n- a bunch of billionaires leave dec 31, 2025\n- even if it doesn't pass, a bunch of billionaires still left pre-emptively, meaningfully reducing tax revenue \n- hundreds of billions of $ have left already\n\nhilarious",
+      "contentHtml": "havent been following closely but just figured out what's going on \n\n- ballot initiative gets voted on in nov 2026, implemented 2027 if it passes\n- to avoid people dodging the tax, it gets backdated to CA residency as of jan 1, 2026\n- a bunch of billionaires leave dec 31, 2025\n- even if it doesn't pass, a bunch of billionaires still left pre-emptively, meaningfully reducing tax revenue \n- hundreds of billions of $ have left already\n\nhilarious",
+      "publishedAt": "2026-01-11T00:37:00.000Z",
+      "link": "https://x.com/nic_carter/status/2010148913659940941",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "mattyglesias",
+        "displayName": "Matthew Yglesias",
+        "content": "There are a million problems with the California ballot initiative system but experiencing capital flight due to a poorly proposed wealthy tax proposal that has not been adopted and is opposed by almost all the state’s elected officials deserves to be the nail in the coffin.",
+        "link": "https://x.com/mattyglesias/status/2010040951142748541"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -815,37 +882,6 @@
       "contentHtml": "The three forms of capital are knowledge, reputation, and capital.",
       "publishedAt": "2026-01-10T04:39:00.000Z",
       "link": "https://x.com/naval/status/2009847610589491715",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2009841311906763059",
-      "username": "gjurvetson",
-      "displayName": "Genevieve Jurvetson",
-      "avatar": "https://nitter.net/pic/profile_images%2F1867016540689928192%2FrgJ2gJ25_bigger.jpg",
-      "content": "If you think California’s “wealth tax” doesn’t impact you, think again.\n\nSilicon Valley is the innovation center of the world, the engine that drives much of America’s economic growth.\n\nThis isn’t just about a handful of wealthy people. If you work at a founder-led company or inside a richly valued AI firm, this proposal puts a target on your back. It destabilizes the structures that built Silicon Valley, and turns success into a liability.\n\nThe harm is well underway. Even the threat of this bill has driven some of our most important innovators out of the state. You don’t hear enough about it because those leaving are incentivized to stay quiet. The public has no idea how much damage has occurred.\n\nI am genuinely shocked by how impotent our leadership has been, with @MattMahanSJ being an exception.\n\nThat a single union leader can credibly jeopardize the engine of American innovation - without any consequence - is almost impossible to comprehend.\n\nSilicon Valley is the envy of the world. It is where audacious ideas become civilization-shaping realities. It is where America’s AI leadership is being forged. Undermining that ecosystem doesn’t just hurt California, it weakens the United States.\n\nIf this concerns you, please speak up. Reach out to @AGRobBonta, @CAgovernor, @RoKhanna, and to the union leadership driving this effort.\n\nLet’s solve CA’s spending disease, and not dismantle the greatest innovation ecosystem in human history.",
-      "contentHtml": "If you think California’s “wealth tax” doesn’t impact you, think again.\n\nSilicon Valley is the innovation center of the world, the engine that drives much of America’s economic growth.\n\nThis isn’t just about a handful of wealthy people. If you work at a founder-led company or inside a richly valued AI firm, this proposal puts a target on your back. It destabilizes the structures that built Silicon Valley, and turns success into a liability.\n\nThe harm is well underway. Even the threat of this bill has driven some of our most important innovators out of the state. You don’t hear enough about it because those leaving are incentivized to stay quiet. The public has no idea how much damage has occurred.\n\nI am genuinely shocked by how impotent our leadership has been, with <a href=\"/MattMahanSJ\" title=\"Mayor Matt Mahan\">@MattMahanSJ</a> being an exception.\n\nThat a single union leader can credibly jeopardize the engine of American innovation - without any consequence - is almost impossible to comprehend.\n\nSilicon Valley is the envy of the world. It is where audacious ideas become civilization-shaping realities. It is where America’s AI leadership is being forged. Undermining that ecosystem doesn’t just hurt California, it weakens the United States.\n\nIf this concerns you, please speak up. Reach out to <a href=\"/AGRobBonta\" title=\"Rob Bonta\">@AGRobBonta</a>, <a href=\"/CAgovernor\" title=\"Governor Gavin Newsom\">@CAgovernor</a>, <a href=\"/RoKhanna\" title=\"Ro Khanna\">@RoKhanna</a>, and to the union leadership driving this effort.\n\nLet’s solve CA’s spending disease, and not dismantle the greatest innovation ecosystem in human history.",
-      "publishedAt": "2026-01-10T04:14:00.000Z",
-      "link": "https://x.com/gjurvetson/status/2009841311906763059",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "garrytan",
-        "displayName": "Garry Tan",
-        "content": "Larry and Sergey can’t stay in California since the wealth tax as written would confiscate 50% of their Alphabet shares. \n\nEach own ~3% of Alphabet's stock, worth about $120 billion each at today's ~$4 trillion market cap.\n\nBut because their shares have 10x voting power, the SEIU-UHW California billionaire tax would treat them as owning 30% of Alphabet (3% × 10 = 30%). That means each founder's taxable wealth would be $1.2 trillion.\n\nA 5% wealth tax on $1.2 trillion = $60 billion tax bill, each.\n\nThat's 50% of their actual Alphabet holdings—wiped out by a \"5%\" tax.\n\nSection 50303(c)(3)(C) of the 2026 Billionaire Tax Act states: \"For any interests that confer voting or other direct control rights, the percentage of the business entity owned by the taxpayer shall be presumed to be not less than the taxpayer's percentage of the overall voting or other direct control rights.\"\n\nThis means if a founder holds shares representing only 3% of economic interest but 30% of voting control (through Class B supervoting shares), the tax would presume their ownership stake is at least 30% for valuation purposes, not 3%.\n\nThe wealth tax is poorly defined and designed to drive tech innovation out of California.",
-        "link": "https://x.com/garrytan/status/2009776299666223265",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-Qo4n4X0AAoHO0.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10428,7 +10464,7 @@
       "id": "2005316727148790198",
       "username": "taresky",
       "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
       "content": "#外设\n\n键盘收到了，fps 游戏确实非常好，peek 灵敏，身法有提升。\n\n过于好用，被拿走了，重新再买一把 😭",
       "contentHtml": "<a href=\"/search?q=%23外设\">#外设</a>\n\n键盘收到了，fps 游戏确实非常好，peek 灵敏，身法有提升。\n\n过于好用，被拿走了，重新再买一把 😭",
       "publishedAt": "2025-12-28T16:35:00.000Z",
@@ -10436,7 +10472,7 @@
       "media": [
         {
           "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9RQrg7bYAAI_Od.jpg"
+          "url": "https://nitter.net/pic/orig/media%2FG9RQrg7bYAAI_Od.jpg"
         }
       ],
       "stats": {
@@ -11472,72 +11508,6 @@
       "contentHtml": "選擇 Gold 月度試用方案，於結帳時在優惠碼處輸入「first10」，立即享有 14 天免費試用 + 首月只要 $10 美金優惠方案。\n\n🔥 優惠僅到 12/31，最後倒數 4 天：<a href=\"http://coinkarma.co/zh-tw/pricing\">coinkarma.co/zh-tw/pricing</a>",
       "publishedAt": "2025-12-27T07:22:00.000Z",
       "link": "https://x.com/BensonTWN/status/2004815134578110511",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2004812766151147697",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "医药代表听说血赚？",
-      "contentHtml": "医药代表听说血赚？",
-      "publishedAt": "2025-12-27T07:13:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2004812766151147697",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9KGlJCaEAAPpnt.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "彩票店不是才7%的利润么，咋这么多女的开始搞这个？？？",
-        "link": "https://x.com/Bitfatty/status/1998004953978429810",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG7pW6WjaUAEIUOE.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2004810856752926833",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "CoinKarma 今年最大的里程碑，是我們做出了 Strategy Maker（策略編輯器）：一個全圖形化介面 (GUI) 的回測與量化機器人製作工具。\n\n為什麼要做這個？因為這是目前市面上所有數據網站都沒有做到的事。\n\n大部分的數據平台，只會丟給你「一狗票數據」，然後賣你超貴的 API 方案。買了數據之後呢？痛苦才剛開始： 你要自己從數據海裡找 Alpha、自己寫程式回測、自己對接交易所 API、還要自己架伺服器監控部署......\n\n我們決定把這些「累活」全包了。\n\n我們把繁瑣的技術流程封裝成簡單的圖形介面。11 月初功能上線至今才一個多月，平台上已經跑著 300+ 支交易機器人，整體平均 ROI 達 +13%。\n\n這套體系的獲利能力，不僅體現在用戶的自己做的策略上，更由我們的官方策略 Ultron 給出了長期驗證。 \n\nUltron 運行近 600 天，在經歷了各種極端行情後，依然持續跑贏大盤：\nROI：+196% (同期 BTC +36%)\n最大回撤：21% (同期 BTC 35%)\n\n我們堅持「不觸碰用戶資金」。不索取 Trade API 權限，僅透過 Webhook 發送交易訊號，最大化確保用戶資產安全。\n\n截至目前，CoinKarma 全平台 AUM（含 Ultron 與用戶自建策略）已逼近 $20M。\n\n----\n很多人一開始聽到我想做「數據網站」，第一個反應都是：「Crypto 賣數據的平台已經這麼多了，你要怎麼差異化？」\n\n我的答案一直很清楚： \n我們不是想賣更多數據或指標，而是降低「把一個好交易邏輯，真正變成可被長期執行系統」的門檻。\n\nStrategy Maker 這個產品，就是我一直以來的願景： 讓交易者可以把時間用在思考市場，而不是消耗在技術細節上。\n\n我們不碰資金、不做託管，只專注把「交易自動化」這件事，做到簡單、透明、可長期使用。\n\n我們真正想做的，是幫助一個好交易想法，能更容易被驗證、被執行。\n\n這條路正在路上，我相信我們會越做越好。",
-      "contentHtml": "CoinKarma 今年最大的里程碑，是我們做出了 Strategy Maker（策略編輯器）：一個全圖形化介面 (GUI) 的回測與量化機器人製作工具。\n\n為什麼要做這個？因為這是目前市面上所有數據網站都沒有做到的事。\n\n大部分的數據平台，只會丟給你「一狗票數據」，然後賣你超貴的 API 方案。買了數據之後呢？痛苦才剛開始： 你要自己從數據海裡找 Alpha、自己寫程式回測、自己對接交易所 API、還要自己架伺服器監控部署......\n\n我們決定把這些「累活」全包了。\n\n我們把繁瑣的技術流程封裝成簡單的圖形介面。11 月初功能上線至今才一個多月，平台上已經跑著 300+ 支交易機器人，整體平均 ROI 達 +13%。\n\n這套體系的獲利能力，不僅體現在用戶的自己做的策略上，更由我們的官方策略 Ultron 給出了長期驗證。 \n\nUltron 運行近 600 天，在經歷了各種極端行情後，依然持續跑贏大盤：\nROI：+196% (同期 BTC +36%)\n最大回撤：21% (同期 BTC 35%)\n\n我們堅持「不觸碰用戶資金」。不索取 Trade API 權限，僅透過 Webhook 發送交易訊號，最大化確保用戶資產安全。\n\n截至目前，CoinKarma 全平台 AUM（含 Ultron 與用戶自建策略）已逼近 $20M。\n\n----\n很多人一開始聽到我想做「數據網站」，第一個反應都是：「Crypto 賣數據的平台已經這麼多了，你要怎麼差異化？」\n\n我的答案一直很清楚： \n我們不是想賣更多數據或指標，而是降低「把一個好交易邏輯，真正變成可被長期執行系統」的門檻。\n\nStrategy Maker 這個產品，就是我一直以來的願景： 讓交易者可以把時間用在思考市場，而不是消耗在技術細節上。\n\n我們不碰資金、不做託管，只專注把「交易自動化」這件事，做到簡單、透明、可長期使用。\n\n我們真正想做的，是幫助一個好交易想法，能更容易被驗證、被執行。\n\n這條路正在路上，我相信我們會越做越好。",
-      "publishedAt": "2025-12-27T07:05:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2004810856752926833",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9KBLO8bgAAKCvr.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9KBRIgbgAIRMvA.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9KBVY_bgAU18PV.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9KELD2bgAUhCV0.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
