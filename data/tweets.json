@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T11:43:57.973Z",
+  "lastUpdated": "2026-01-11T11:52:52.999Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -74,11 +74,47 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 468,
+    "newFetched": 464,
     "successUsers": 23,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2010318704765284835",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "分享一個我常用的 Claude Code prompt  \n\n寫 spec 最大的問題：你不知道自己漏了什麼。  這段 prompt 的設計邏輯是讓 Claude 扮演資深技術顧問，用 AskUserQuestionTool 對你進行深度訪談。\n\n它會在每個問題前先做 ultrathink 分析，訪談結束後才寫入檔案。  實測下來，這樣產出的 spec 比直接叫 Claude 寫完整很多，因為它會把你腦中模糊的想法逼出來。\n\n完整Prompt:\n\n閱讀這份 SPEC.md，然後使用 AskUserQuestionTool 對我進行深度訪談，涵蓋所有面向：技術實作、UI/UX、潛在疑慮、設計取捨等。問題必須深入且不流於表面。\n\n請啟用 ultrathink 模式：在每個問題之前，先進行深度思考分析，包括：\n- 這個規格可能隱藏的假設是什麼？\n- 哪些邊界情況沒有被考慮到？\n- 技術債務可能在哪裡累積？\n- 這個設計決策的二階、三階效應是什麼？\n\n持續訪談直到所有關鍵面向都被釐清，然後將完整的規格寫入檔案。",
+      "contentHtml": "分享一個我常用的 Claude Code prompt  \n\n寫 spec 最大的問題：你不知道自己漏了什麼。  這段 prompt 的設計邏輯是讓 Claude 扮演資深技術顧問，用 AskUserQuestionTool 對你進行深度訪談。\n\n它會在每個問題前先做 ultrathink 分析，訪談結束後才寫入檔案。  實測下來，這樣產出的 spec 比直接叫 Claude 寫完整很多，因為它會把你腦中模糊的想法逼出來。\n\n完整Prompt:\n\n閱讀這份 <a href=\"http://SPEC.md\">SPEC.md</a>，然後使用 AskUserQuestionTool 對我進行深度訪談，涵蓋所有面向：技術實作、UI/UX、潛在疑慮、設計取捨等。問題必須深入且不流於表面。\n\n請啟用 ultrathink 模式：在每個問題之前，先進行深度思考分析，包括：\n- 這個規格可能隱藏的假設是什麼？\n- 哪些邊界情況沒有被考慮到？\n- 技術債務可能在哪裡累積？\n- 這個設計決策的二階、三階效應是什麼？\n\n持續訪談直到所有關鍵面向都被釐清，然後將完整的規格寫入檔案。",
+      "publishedAt": "2026-01-11T11:51:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2010318704765284835",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2010316707718640078",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "Browser Company創辦人分享公司導入 Claude Code 後的變化：\n\n設計師自己提 PR、非工程師能做原型、工程師有餘裕跑實驗。整個團隊像裝上電動腳踏車，探索速度變快了。\n\n他們開始用「唱片公司對待藝術家」的方式管理團隊：讓人進入心流、留在心流、幫想法落地。公司層面做更少的事，但每件事投入更深，容忍更高風險的嘗試。\n\n人才需求也在變。他們新開了一個 Design Producer 職位，不是傳統的設計主管，而是協調設計師與內外部合作的人。重點是「讓創作者能創作」，不是管人。\n\n這跟我一直在講的概念是同一件事，當 coding 門檻下降，瓶頸就從「誰會寫程式」變成「誰有好想法並且能把它講清楚」。\n\n未來團隊的競爭力在於：想法的品質 × 迭代的速度。",
+      "contentHtml": "Browser Company創辦人分享公司導入 Claude Code 後的變化：\n\n設計師自己提 PR、非工程師能做原型、工程師有餘裕跑實驗。整個團隊像裝上電動腳踏車，探索速度變快了。\n\n他們開始用「唱片公司對待藝術家」的方式管理團隊：讓人進入心流、留在心流、幫想法落地。公司層面做更少的事，但每件事投入更深，容忍更高風險的嘗試。\n\n人才需求也在變。他們新開了一個 Design Producer 職位，不是傳統的設計主管，而是協調設計師與內外部合作的人。重點是「讓創作者能創作」，不是管人。\n\n這跟我一直在講的概念是同一件事，當 coding 門檻下降，瓶頸就從「誰會寫程式」變成「誰有好想法並且能把它講清楚」。\n\n未來團隊的競爭力在於：想法的品質 × 迭代的速度。",
+      "publishedAt": "2026-01-11T11:43:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2010316707718640078",
+      "quote": {
+        "username": "joshm",
+        "displayName": "Josh Miller",
+        "content": "x.com/i/article/200970427580…",
+        "link": "https://x.com/joshm/status/2009705767490990418"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2010312619060846709",
       "username": "coinkarma_",
@@ -11461,62 +11497,6 @@
           "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9OAJfxbwAAnilg.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2005084857492537472",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "早，周末快乐呀",
-      "contentHtml": "早，周末快乐呀",
-      "publishedAt": "2025-12-28T01:14:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2005084857492537472",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9N-DEWbgAEVZ86.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2004971453268336837",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.privacyredirect.com/pic/profile_images%2F1999890528549425152%2FrV_An7mP_bigger.jpg",
-      "content": "论搞抽象还得看人\n这大哥太逗了",
-      "contentHtml": "论搞抽象还得看人\n这大哥太逗了",
-      "publishedAt": "2025-12-27T17:43:00.000Z",
-      "link": "https://x.com/hazenlee/status/2004971453268336837",
-      "media": [
-        {
-          "type": "video",
-          "url": "",
-          "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2004971357793292288%2Fimg%2FhGNgqXHIFvSSJWaR.jpg%3Fname%3Dsmall%26format%3Dwebp"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "马斯克看了要睡不着觉了😂\n宇树科技@UnitreeRobotics \n的机器人在王力宏演唱会火力全开\n效果很炸裂啊，擎天柱还需要VR操控",
-        "link": "https://x.com/hazenlee/status/2002413014059020331",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumbnail": "https://nitter.privacyredirect.com/pic/amplify_video_thumb%2F2002412943959601161%2Fimg%2FyZGpjfQKCM2CslRf.jpg%3Fname%3Dsmall%26format%3Dwebp"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
