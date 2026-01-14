@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T09:27:05.635Z",
+  "lastUpdated": "2026-01-14T09:52:00.649Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -78,9 +78,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 482,
-    "successUsers": 24,
-    "failedUsers": 0
+    "newFetched": 344,
+    "successUsers": 17,
+    "failedUsers": 7
   },
   "tweets": [
     {
@@ -5885,47 +5885,6 @@
       }
     },
     {
-      "id": "2009636703670276440",
-      "username": "adaYen72",
-      "displayName": "AdaYY▀ ▀ ▀ ²’⁰ ¹ ▀ ▀ ▀",
-      "avatar": "https://nitter.net/pic/profile_images%2F1928026735507099648%2FR2Nx7gZ6_bigger.jpg",
-      "content": "Hard to see why Chinese retail would stay in crypto，when China A-shares offer a much easier participation trade:\n> 100+ stocks up more than 200%,\n> 500+ stocks up more than 100%.\nAnd with no capital gains tax and minimal trading friction, the bar to get involved was even lower.\n\nIn crypto, however, the performance has been much narrower.\nOnly the privacy sector is positive (thanks to $ZEC), the rest are mostly negative.\n\nThe recent USDT–CNY discount is often framed as policy driven, but more broadly, this looks like a Chinese capital rotation rather than a sentiment shock.\nLiquidity always takes the path of least resistance.",
-      "contentHtml": "Hard to see why Chinese retail would stay in crypto，when China A-shares offer a much easier participation trade:\n&gt; 100+ stocks up more than 200%,\n&gt; 500+ stocks up more than 100%.\nAnd with no capital gains tax and minimal trading friction, the bar to get involved was even lower.\n\nIn crypto, however, the performance has been much narrower.\nOnly the privacy sector is positive (thanks to <a href=\"/search?q=%23ZEC\">$ZEC</a>), the rest are mostly negative.\n\nThe recent USDT–CNY discount is often framed as policy driven, but more broadly, this looks like a Chinese capital rotation rather than a sentiment shock.\nLiquidity always takes the path of least resistance.",
-      "publishedAt": "2026-01-09T14:41:00.000Z",
-      "link": "https://x.com/adaYen72/status/2009636703670276440",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-OoC11aIAAj7fG.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-OoG9pbkAAs3eo.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
-      },
-      "quote": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-        "content": "Reading our internal book, across all assets we have deployed last year was the first time crypto really decoupled (even though the industry got basically everything we’d hoped for.. \n\nHoping the orange coin flips this in the new year 💪",
-        "link": "https://x.com/DoveyWan/status/2008869028870357066",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-Du7rxbAAAb0Zw.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2009632914724868607",
       "username": "DoveyWan",
       "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
@@ -11402,6 +11361,25 @@
             "url": "https://nitter.privacyredirect.com/pic/orig/media%2FG9GYVG-aQAEk_Ji.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2005971121150328942",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "偏重先行指标要考虑后续被同步/滞后指标证伪的问题，偏重同步/滞后指标要考虑市场预期已经price in的问题\n\n最有效的办法个人觉得是观察利率曲线的变化，无论是先行/同步/滞后还是通胀/就业数据，市场的预期变化都会立刻体现在短端和长端利率的变化上。每次数据公布后用利率曲线去验证自己的想法就好。\n\n比如现在利率曲线已经price in了2026年2次降息，那么如果后续数据不改变这个预期（利率曲线不发生大波动）即使1月继续降息那市场风险偏好也不会有太大变化。\n\n个人觉得如果做投机交易，不用太刻意区分先行or滞后，数据公布的那一刻对于市场交易者来说都是新的。",
+      "contentHtml": "偏重先行指标要考虑后续被同步/滞后指标证伪的问题，偏重同步/滞后指标要考虑市场预期已经price in的问题\n\n最有效的办法个人觉得是观察利率曲线的变化，无论是先行/同步/滞后还是通胀/就业数据，市场的预期变化都会立刻体现在短端和长端利率的变化上。每次数据公布后用利率曲线去验证自己的想法就好。\n\n比如现在利率曲线已经price in了2026年2次降息，那么如果后续数据不改变这个预期（利率曲线不发生大波动）即使1月继续降息那市场风险偏好也不会有太大变化。\n\n个人觉得如果做投机交易，不用太刻意区分先行or滞后，数据公布的那一刻对于市场交易者来说都是新的。",
+      "publishedAt": "2025-12-30T11:55:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2005971121150328942",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
       },
       "stats": {
         "replies": 0,
