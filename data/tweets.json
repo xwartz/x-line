@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T23:19:28.100Z",
+  "lastUpdated": "2026-01-15T23:43:05.499Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 504,
+    "newFetched": 505,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2011943979223265785",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "X要撤銷嘴嚕應用的API了\n終於不用再看到一堆AI評論了",
+      "contentHtml": "X要撤銷嘴嚕應用的API了\n終於不用再看到一堆AI評論了",
+      "publishedAt": "2026-01-15T23:29:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2011943979223265785",
+      "quote": {
+        "username": "nikitabier",
+        "displayName": "Nikita Bier",
+        "content": "We are revising our developer API policies: \n\nWe will no longer allow apps that reward users for posting on X (aka “infofi”). This has led to a tremendous amount of AI slop & reply spam on the platform.\n\nWe have revoked API access from these apps, so your X experience should start improving soon (once the bots realize they’re not getting paid anymore).\n\nIf your developer account was terminated, please reach out and we will assist in transitioning your business to Threads and Bluesky.",
+        "link": "https://x.com/nikitabier/status/2011825522817270230"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2011927965148590484",
       "username": "hazenlee",
@@ -11353,39 +11374,6 @@
       "contentHtml": "Trump gave Xi a perfect playbook for “necessary intervention” justification,  just swap Caracas for Taipei\n\nThe world is going wild",
       "publishedAt": "2026-01-04T09:13:00.000Z",
       "link": "https://x.com/DoveyWan/status/2007742250433093792",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2007735342385016909",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "#BTC 减半周期依旧 = 明牌",
-      "contentHtml": "<a href=\"/search?q=%23BTC\">#BTC</a> 减半周期依旧 = 明牌",
-      "publishedAt": "2026-01-04T08:46:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2007735342385016909",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG9zoV-AbsAAjWG1.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "16年BTC挖矿产量减半522天后，比特币RHODL指标达到牛市峰值（2017年12月14日，币价$16.7k，非K线牛顶）；\n\n20年BTC挖矿产量减半533天后，比特币RHODL指标达到牛市峰值（2021年10月26日，币价$62.7k，非K线牛顶）；\n\n当前，24年BTC挖矿产量减半已过去114天。\n\n图中指标为比特币RHODL (Realized HODL Ratio)，即链上未移动时长小于1周的BTC数量跟未移动时长在1-2年之间的BTC数量之比（不同年龄段的BTC数量需根据其年龄段所有BTC的买入成本总市值进行加权计算）。\n\n其中红线为该指标的⟨13-17年⟩段；蓝线为该指标的⟨17-21年⟩段；黑线为该指标的⟨21年-至今⟩段。三段线将各自周期的BTC挖矿产量减半日对齐。\n\n本文由 #Bitget｜@Bitget_zh 赞助",
-        "link": "https://x.com/0xCryptoChan/status/1822838689573310850",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FGUwBOXIa0AE1BHf.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
