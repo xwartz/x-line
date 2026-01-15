@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T21:54:11.480Z",
+  "lastUpdated": "2026-01-15T22:20:08.549Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 507,
+    "newFetched": 504,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2011924853407039722",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "人类审查别人写的代码因为习惯不同\ndebug简直是地狱级难度\n但是AI审查代码的效率和人类简直不是一个量级的…",
+      "contentHtml": "人类审查别人写的代码因为习惯不同\ndebug简直是地狱级难度\n但是AI审查代码的效率和人类简直不是一个量级的…",
+      "publishedAt": "2026-01-15T22:13:00.000Z",
+      "link": "https://x.com/hazenlee/status/2011924853407039722",
+      "quote": {
+        "username": "iamai_eth",
+        "displayName": "✧ 𝕀𝔸𝕄𝔸𝕀 ✧",
+        "content": "所有的软件公司都结束了。\n\n从零开始构建一个浏览器，稍微有点软件开发经验的工程师都知道这有多难。\n\nAgent 持续运行了将近一周，在 1,000 个文件中写出了超过 100 万行代码。可以在 GitHub 上浏览源码。\n\n尽管代码库规模庞大，新启动的 agent 仍然可以理解它并取得实质性进展。\n\n成百上千个 worker 并发运行，向同一个分支推送代码，而且几乎没有冲突。",
+        "link": "https://x.com/iamai_eth/status/2011693548194914485"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2011867214996259059",
       "username": "taresky",
@@ -11359,27 +11380,6 @@
           "url": "https://nitter.net/pic/orig/media%2FG9zjf1GasAA4Rym.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2007723737731535110",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "+1",
-      "contentHtml": "+1",
-      "publishedAt": "2026-01-04T08:00:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2007723737731535110",
-      "quote": {
-        "username": "shufen46250836",
-        "displayName": "shu fen",
-        "content": "委内瑞拉这事的影响，中长期来看，会是大宗商品牛市的起点\n\n委内瑞拉的石油、智利的铜、阿根廷的锂、玻利维亚的银，这些资源会牢牢的在美国“控制”下\n\n深层次来看，这又是一次加速中美脱钩的进程事件，至少从能源资源上看，中美会互相构建不能被对方干扰的核心资源供应圈子，\n\n而未来石油、黄金、白银、工业金属们，都有各自的抢购周期......",
-        "link": "https://x.com/shufen46250836/status/2007650581150871795"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
