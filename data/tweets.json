@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T18:29:14.389Z",
+  "lastUpdated": "2026-01-16T18:57:52.987Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,42 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 508,
+    "newFetched": 505,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2012234807754007015",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "尴尬了\n需求写错了？",
+      "contentHtml": "尴尬了\n需求写错了？",
+      "publishedAt": "2026-01-16T18:45:00.000Z",
+      "link": "https://x.com/hazenlee/status/2012234807754007015",
+      "quote": {
+        "username": "fxtrader",
+        "displayName": "外汇交易员",
+        "content": "英伟达修正技术论文，大幅下修数据中心铜使用量预期\n英伟达在一份去年的报告称，传统架构中单个1吉瓦的机架则可能需要多达50万吨的铜，也即意味着一个机架就将消耗全球年铜供应量的1.7%。后来报告被广泛传播。\n目前英伟达将数据下修99.96%至“200吨”。猜测很可能是错将50万磅（226.8吨）写为“万吨”。",
+        "link": "https://x.com/fxtrader/status/2011996896433488045",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-wKz5oaIAASjDs.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-wLzX-bQAUo_0d.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2012217822215049483",
       "username": "hazenlee",
@@ -11444,27 +11475,6 @@
         "displayName": "Palmer Luckey",
         "content": "What you are saying is not true in any meaningful way.  \n\nYou can say whatever you want as an untethered hypothetical, but here in reality, what you are actually advocating for is NOT a 1-2% wealth tax for established billionaires - it is a 5% tax calculated all in one year, payable (with interest!) over the subsequent five.  That puts massive risk on founders with zero risk for you or Califorjia - as I just pointed out, one market correction (or worst case but sadly common, the company goes under) and I am homeless on the street with literally billions of dollars in debt that cannot be discharged even in bankruptcy.  \n\nNor does this initiative you are pushing have ANY sort of provision for founders like me with illiquid shares in unprofitable companies - if I have to come up with billions of dollars, how can I possibly keep putting all our profit back into new R&D that keeps our warfighters safer?  You are effectively forcing companies to immediately pivot into profit obsessesion over mission or long-term sustainability!  Again, you say that isn't what you support, but that claim is not consistent with what you are actually doing.  \n\nThis is all extraordinarily frustrating politician-speak that nobody in the industry is dumb enough to fall for.  It is the same as saying you support reasonable speed limits with higher speeds for rural areas even as you explicitly push for a national 55mph speed limit, all the while claiming with a smile that you \"support\" a wide range of speeds.  No, you don't, and no, you don't.",
         "link": "https://x.com/PalmerLuckey/status/2005207525784719414"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2008809508475466094",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
-      "content": "Jensen is liquid. As odious as the precedent is, he can pay it.\n\nHis competitors, startup founders, are illiquid. Their paper valuations can't be cashed in. Even a \"five year payment plan\" wipes them out.\n\nClever framing designed to normalize the estate tax as an annual thing.",
-      "contentHtml": "Jensen is liquid. As odious as the precedent is, he can pay it.\n\nHis competitors, startup founders, are illiquid. Their paper valuations can't be cashed in. Even a \"five year payment plan\" wipes them out.\n\nClever framing designed to normalize the estate tax as an annual thing.",
-      "publishedAt": "2026-01-07T07:54:00.000Z",
-      "link": "https://x.com/naval/status/2008809508475466094",
-      "quote": {
-        "username": "firstadopter",
-        "displayName": "tae kim",
-        "content": "Any framing of this as an endorsement is ridiculous. Nvidia is stuck because its employees live near Santa Clara. Jensen moving states would cause a large business disruption with the way he manages the company. But that doesn’t mean the wealth tax is a good idea for California",
-        "link": "https://x.com/firstadopter/status/2008718345571627122"
       },
       "stats": {
         "replies": 0,
