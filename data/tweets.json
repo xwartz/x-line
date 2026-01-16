@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T11:42:09.569Z",
+  "lastUpdated": "2026-01-16T11:52:58.112Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 507,
+    "newFetched": 505,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2012130455605350739",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "当初那颗子弹要是没打歪\n\n现在世界也不会这么乱😂\n干特么特朗普\n\n存黄片的硬盘都买不起了",
+      "contentHtml": "当初那颗子弹要是没打歪\n\n现在世界也不会这么乱😂\n干特么特朗普\n\n存黄片的硬盘都买不起了",
+      "publishedAt": "2026-01-16T11:50:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2012130455605350739",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "人类历代最强智慧结晶——AI  来炒币\n正常行情还能日赚 40%（加杠杆开合约）  \n\n但是也斗不过  特朗普的嘴  \ndeepseek回撤 4000 多刀利润 \n\n其他的直接被干水下  \n\n所以不要怪自己菜  \n怪当初子弹没打中黄毛",
+        "link": "https://x.com/Bitfatty/status/1980504342198403514",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG3wpjC1XoAArF9v.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2012127012111180216",
       "username": "DoveyWan",
@@ -11447,27 +11474,6 @@
           "url": "https://nitter.net/pic/orig/media%2FG997pugbcAAZNmM.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2008490736162161028",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "因为撮合交易需要有价格，选择市价单的时候是不用填价格的，只填数量。\n\n2个taker撮合没有固定价格，2个maker撮合则有2个价格，所以交易引擎撮合价格的时候是1个taker+1个maker，买卖双方才能匹配相同的成交价和数量。",
-      "contentHtml": "因为撮合交易需要有价格，选择市价单的时候是不用填价格的，只填数量。\n\n2个taker撮合没有固定价格，2个maker撮合则有2个价格，所以交易引擎撮合价格的时候是1个taker+1个maker，买卖双方才能匹配相同的成交价和数量。",
-      "publishedAt": "2026-01-06T10:48:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2008490736162161028",
-      "quote": {
-        "username": "wgl0921",
-        "displayName": "王怪力",
-        "content": "❓有个问题想请教博主关于 taker buy 是否能成交taker sell ,我查阅了大量的资料都说可以成交，但有一些资料显示不能成交，\n\n➡️按我自己的理解是可以成交的，\n当前BTC价格8W，在80.1W 有Maker sell 只有 100枚，某巨鲸想taker buy「马上」买入 500 枚，此時，巨鲸的 taker buy 订单就会马上吃掉这100枚maker sell，剩下的400枚订单，则会继续向上匹配更高价格的Maker sell 订单，直到剩余的400枚全部成交，\n\n如果在匹配剩余的Maker sell订单過程中有 taker sell（马上出售）的订单出现，那巨鲸就不用全部去匹配maker sell单，而是也会匹配过程中出现taker sell单。\n\n❓但看到一些文章说taker buy 和taker sell不会成交，是因为交易所的某些机制导致taker只能成交maker的吗？ 希望博主可以解惑一下",
-        "link": "https://x.com/wgl0921/status/2008408958558761377"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
