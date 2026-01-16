@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T04:12:06.076Z",
+  "lastUpdated": "2026-01-16T04:52:53.293Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,126 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 506,
+    "newFetched": 507,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2012020316483326138",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "这下 Drama 了🙉\n\n海外 KOL @0x_Lens 发现有 110 万枚 $KAITO 将于明日解锁，而用户的质押代币则需要七天解锁期，也就是说解锁代币会先于解质押代币流向市场造成抛压\n\n而更巧合的是：Kaito 团队多签关联地址 0x049…B8E0D 曾在两周前向币安充值 500 万枚代币，价值 282 万美元，（不过当时币价 $0.5642，和现在差不太多），尚不确定该地址归属 👉 intel.arkm.com/explorer/addr…\n\nBTW：团队多签在 2 周前分发的 2400 万枚代币，目前存储在四个地址中，这部分代币暂未移动或卖出\n0xc40f74344380250264E9A188168Da79ce7C69481\n0x8ba85D4e12150aA3657a1C291d53779ABD0ad198\n0xE9711B15b935c9C7661f110b3746C0fabc3cBCa1\n0x7Bb17D9b470AE2AA92B02b9eA138E717b9f99401\n\n等等看团队的回应吧",
+      "contentHtml": "这下 Drama 了🙉\n\n海外 KOL <a href=\"/0x_Lens\" title=\"vasucrypto\">@0x_Lens</a> 发现有 110 万枚 <a href=\"/search?q=%23KAITO\">$KAITO</a> 将于明日解锁，而用户的质押代币则需要七天解锁期，也就是说解锁代币会先于解质押代币流向市场造成抛压\n\n而更巧合的是：Kaito 团队多签关联地址 0x049…B8E0D 曾在两周前向币安充值 500 万枚代币，价值 282 万美元，（不过当时币价 $0.5642，和现在差不太多），尚不确定该地址归属 👉 <a href=\"https://intel.arkm.com/explorer/address/0xa6f37CCfdE42cd5A75D58bf911737e4e2D073367\">intel.arkm.com/explorer/addr…</a>\n\nBTW：团队多签在 2 周前分发的 2400 万枚代币，目前存储在四个地址中，这部分代币暂未移动或卖出\n0xc40f74344380250264E9A188168Da79ce7C69481\n0x8ba85D4e12150aA3657a1C291d53779ABD0ad198\n0xE9711B15b935c9C7661f110b3746C0fabc3cBCa1\n0x7Bb17D9b470AE2AA92B02b9eA138E717b9f99401\n\n等等看团队的回应吧",
+      "publishedAt": "2026-01-16T04:33:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2012020316483326138",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-wht5UbQAUfhdF.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0x_Lens",
+        "displayName": "vasucrypto",
+        "content": "1.1M $KAITO is set to unstake tomorrow\nkaito unstaking takes 7 days did they know this was coming?\n\nthis is the highest bar on the chart lol and after this news massive unstaking started",
+        "link": "https://x.com/0x_Lens/status/2011834885837898063",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-t25ZwbQAE7oTo.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012016759143088416",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "反弹见顶  or  牛市起步 ???\n\n在25年底我和Glassnode团队续约时，他们肯定了我这1年来对中文社区的贡献，特别为我开通原本是只给机构客户的“proprietary signals (内部专属信号)” 的访问权限。说实话，这里的内容完全不同于我过去所看的（太专业了），以至于这么多时间来我还没完全研究明白。\n\n不过有一个指标，我观察下来觉得对于抓反弹的高点区间比较有效，这里分享给小伙伴！—— 比特币风险信号（Bitcoin Risk Signal，BRS）\n\n官方对该指标的解释，只有这一句话：\nThe Bitcoin Risk Signal gauges the amount of risk of a major drawdown in bitcoin price. It is based on a set of proprietary indicators, including bitcoin price data, on-chain data, and a selection of other trading metrics.\n\n也就是说是“基于一系列综合数据”，但具体是什么算法、逻辑、原理？别问我，我也不知道。但用法很简单，即“当BRS从100降至0时，有且只有2种可能：1、牛市起步；2、反弹见顶”；我们先来看几个案例（不愿看推导过程的小伙伴，可以直接跳转到最后图4，看结论）：\n\n🚩 案例1、牛转熊时期\n\n（图1）\n\n在这个阶段，BRS=100意味着短期内BTC下跌风险达到顶峰，此后大概率会出现一波超跌反弹；如果没有信号提醒，我们很难把握反弹到哪里是高点区。当BRS从100降至0时就清晰的给出了答案。\n\n因此，我们从图1可以看到，18年进入熊市周期后的3次反弹的高点，都出现在BRS降至0后且维持了一小段。简单说，就是BRS=100可以搏反弹，100降到0且维持一段就是离场时机。\n\n（图2）\n\n在2022年入熊之前的反弹同样如此；22年1月BRS升至100，中间来回反复，直到3月BRS又降到0，同期对应反弹的高点。22年6月到8月，BTC从$18,000反弹到$24,000，信号也很清楚。\n\n🚩 案例2、牛市起步期\n\n（图3）\n\n在牛市起步阶段，当BRS从100降至0，到下一次再回到100，对应的是BTC一段完整的强趋势行情。在2023-2025年，以及过往几轮牛市周期我们都发现了类似的情况。\n\n所以，对我们来说在使用该信号作为交易参考时，首先要判断在当前牛熊转换期的大方向上是“熊转牛”的可能性更大还是“牛转熊”？在此基础上，我们才能在上述2种可能中选择正确的视角。\n\n我个人认为是后者的概率更大。虽然你们都知道对于BTC我是长期坚定看多的；是乐观派，但也不能盲目乐观。综合各方条件，各项数据，保持理性，尊重客观是我一贯的原则。\n\n（图4）\n\n现在我们看到的是：2025.11.21 BRS升至100，对应BTC跌至$82,000；此后指标一直反复，直到2026.1.14 BRS降至0，对应BTC反弹至$97,000；因此，基于以上大方向的判断，我的观点是这里属于“反弹的高点区”。\n\n但如果你要问“会不会继续反弹上10w”？当然不排除这种可能，就像上文提到，当BRS维持在0的一段时间，都是反弹的高点区域。当你在该范围内选择逐步离场，相对于下一次BRS升至100时BTC的低点，大概率不会错。\n\n当然，如果你在大方向上与我的判断不同，认为现在的方向是“熊转牛”，那么当前BRS降至0反而是牛市起步阶段。那你完全可以不用参考我的观点，坚定拿住就对了。每个人都有自己的理解方式，我说的也未必都对，遵循本心即可。\n\n以上仅作为学习交流，不作为投资建议！\n----------------------------------------------\n本文由 @Bitget 赞助｜\nBitget VIP，费率更低，福利更狠",
+      "contentHtml": "反弹见顶  or  牛市起步 ???\n\n在25年底我和Glassnode团队续约时，他们肯定了我这1年来对中文社区的贡献，特别为我开通原本是只给机构客户的“proprietary signals (内部专属信号)” 的访问权限。说实话，这里的内容完全不同于我过去所看的（太专业了），以至于这么多时间来我还没完全研究明白。\n\n不过有一个指标，我观察下来觉得对于抓反弹的高点区间比较有效，这里分享给小伙伴！—— 比特币风险信号（Bitcoin Risk Signal，BRS）\n\n官方对该指标的解释，只有这一句话：\nThe Bitcoin Risk Signal gauges the amount of risk of a major drawdown in bitcoin price. It is based on a set of proprietary indicators, including bitcoin price data, on-chain data, and a selection of other trading metrics.\n\n也就是说是“基于一系列综合数据”，但具体是什么算法、逻辑、原理？别问我，我也不知道。但用法很简单，即“当BRS从100降至0时，有且只有2种可能：1、牛市起步；2、反弹见顶”；我们先来看几个案例（不愿看推导过程的小伙伴，可以直接跳转到最后图4，看结论）：\n\n🚩 案例1、牛转熊时期\n\n（图1）\n\n在这个阶段，BRS=100意味着短期内BTC下跌风险达到顶峰，此后大概率会出现一波超跌反弹；如果没有信号提醒，我们很难把握反弹到哪里是高点区。当BRS从100降至0时就清晰的给出了答案。\n\n因此，我们从图1可以看到，18年进入熊市周期后的3次反弹的高点，都出现在BRS降至0后且维持了一小段。简单说，就是BRS=100可以搏反弹，100降到0且维持一段就是离场时机。\n\n（图2）\n\n在2022年入熊之前的反弹同样如此；22年1月BRS升至100，中间来回反复，直到3月BRS又降到0，同期对应反弹的高点。22年6月到8月，BTC从$18,000反弹到$24,000，信号也很清楚。\n\n🚩 案例2、牛市起步期\n\n（图3）\n\n在牛市起步阶段，当BRS从100降至0，到下一次再回到100，对应的是BTC一段完整的强趋势行情。在2023-2025年，以及过往几轮牛市周期我们都发现了类似的情况。\n\n所以，对我们来说在使用该信号作为交易参考时，首先要判断在当前牛熊转换期的大方向上是“熊转牛”的可能性更大还是“牛转熊”？在此基础上，我们才能在上述2种可能中选择正确的视角。\n\n我个人认为是后者的概率更大。虽然你们都知道对于BTC我是长期坚定看多的；是乐观派，但也不能盲目乐观。综合各方条件，各项数据，保持理性，尊重客观是我一贯的原则。\n\n（图4）\n\n现在我们看到的是：2025.11.21 BRS升至100，对应BTC跌至$82,000；此后指标一直反复，直到2026.1.14 BRS降至0，对应BTC反弹至$97,000；因此，基于以上大方向的判断，我的观点是这里属于“反弹的高点区”。\n\n但如果你要问“会不会继续反弹上10w”？当然不排除这种可能，就像上文提到，当BRS维持在0的一段时间，都是反弹的高点区域。当你在该范围内选择逐步离场，相对于下一次BRS升至100时BTC的低点，大概率不会错。\n\n当然，如果你在大方向上与我的判断不同，认为现在的方向是“熊转牛”，那么当前BRS降至0反而是牛市起步阶段。那你完全可以不用参考我的观点，坚定拿住就对了。每个人都有自己的理解方式，我说的也未必都对，遵循本心即可。\n\n以上仅作为学习交流，不作为投资建议！\n----------------------------------------------\n本文由 <a href=\"/Bitget\" title=\"Bitget\">@Bitget</a> 赞助｜\nBitget VIP，费率更低，福利更狠",
+      "publishedAt": "2026-01-16T04:19:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2012016759143088416",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-wdkXdbQAA-Hfb.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-wdsLBbQAozndH.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-wd14eacAEWeGh.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-weEeiagAIWlvk.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "剧本，正按照我们的预期在演绎！误差只有123美元，但！也许这会是一道看不见的鸿沟。\n\n从历史上看，BTC在牛熊转换时，从来都无法轻易的一次性越过这被视为“阶段性牛熊分界线”的短期持有者平均成本线的阻拦。\n\n站上去，我们将可以重回牛市预期；反之，则是市场全体参与者用集体情绪和行为告诉我们一个残酷的事实 —— 熊真的来了！\n\n所以，这123美元的背后，隔着天堂与地狱的距离……\n\n本文由 @Bitget 赞助｜\nBitget VIP，费率更低，福利更狠",
+        "link": "https://x.com/Murphychen888/status/2011610233861521652",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-qs18AaQAAIr5V.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-qs12LbQAYhIO3.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012016604553584840",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "比特币跌37%，是熊市开端。\n\n山寨币跌37%，是机会性杀跌。\n\n都是下跌，但是交易者的心境完全不同（笑~\n\n“币安人生”这波走得很有规律：反转超买信号触发后跟随下跌，并在0.18–0.195的支撑区间出现了预期反弹。\n\n但我判断它很难直接V反回前高。\n\n下一笔大的机会得等走出清晰的盘整结构（看高低变化）",
+      "contentHtml": "比特币跌37%，是熊市开端。\n\n山寨币跌37%，是机会性杀跌。\n\n都是下跌，但是交易者的心境完全不同（笑~\n\n“币安人生”这波走得很有规律：反转超买信号触发后跟随下跌，并在0.18–0.195的支撑区间出现了预期反弹。\n\n但我判断它很难直接V反回前高。\n\n下一笔大的机会得等走出清晰的盘整结构（看高低变化）",
+      "publishedAt": "2026-01-16T04:18:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2012016604553584840",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-wcduRbQAM04PV.jpg"
+        }
+      ],
+      "quote": {
+        "username": "CycleStudies",
+        "displayName": "百萬Eric | Day Trader",
+        "content": "币安人生水灵灵回调了27%...\n\n我计划把挂单区间设在0.18~0.195，对应EMA55均线支撑带。\n\n如果价格真能跌到这里，并且4小时图同时出现超卖信号共振，我会考虑试一波反弹...当然，跌太快就不能做了...",
+        "link": "https://x.com/CycleStudies/status/2011728577495265438",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-sW_mXa0AAaZ6y.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2011999246409781347",
       "username": "Bitfatty",
@@ -11293,101 +11408,6 @@
       "contentHtml": "有看到lighter Tge后timeline上还是有充斥各种perp和各种邀请码，我的看法是这样的，在Lit TGE后，对整体赛道的预期应该是调低的，特别是它TGE后的表现只能堪称稳住。所以perp我不觉得还值得全力去做，如果有比较稳定的模式，维系一下就好了，增大成本烧钱我觉得不算明智。如果一个人一直传销他的邀请码并且无脑吹平台，教程一条龙都给你了balabala，你有必要去考虑，自己是否是别人的人肉矿机。我们是Lighter出来的钱去了Standx 和Var，仅此而已，投入的本金和时间精力其实都小了，另外加大了投入的就是预测市场，因为是肉眼可见的明朗的赛道，并且目前还没有任何TGE。",
       "publishedAt": "2026-01-05T04:46:00.000Z",
       "link": "https://x.com/daidaibtc/status/2008037475076448705",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2008034814344224969",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "有小伙伴觉得怎么我分析的是数据和趋势，但做的交易却是短线，其实这是误解。\n\n我所有的现货仓位，都是基于以数据分析的前提，以及我对趋势的判断和理解（图1）。而当我判断会进入一段相对较长的震荡区间时，才会拿出部分资金来做日内短线。\n\n但最终只要是突破或者跌破后形成单边趋势，那么震荡单就会停止，要不打损，要止盈（图2）。\n\n空出的这部分资金就可以拿来做右侧突破单。就像我昨天和前天的推文中都有明确的观点表述，分别以链上数据和K线指标为依据，判断是“真反弹”的概率要大于“假突破”。\n\n所以，在BTC日k线收盘站上下降趋势线$90,588后我选择继续加仓，并把这笔交易的止损设在筹码结构的强支撑位$87,000，做到知行合一。\n\n目前我的现货仓位已增加到80%，但如果你问我是不是看牛回了？很遗憾，我的回答是：并没有！不仅现在没有，我甚至认为在2026年Q2之前可能都未必能看到“牛回”。\n\n我加仓的目的很明确，就是“搏反弹”，等BTC价格进入我的预期范围，或者反向超出我的预期，亦或是数据告诉我可能差不多了，我都会减仓（但不是清仓）。\n\n我永远都会给自己的交易留有余地，提前计划，并保有容错空间。尤其是2026年 —— 在我看来，未来2-3的拐点就会在这里 —— 才更应该为此做好充足的准备，无论是心态还是子弹。\n\n本文由 @Bitget 赞助｜\nBitget VIP，费率更低，福利更狠",
-      "contentHtml": "有小伙伴觉得怎么我分析的是数据和趋势，但做的交易却是短线，其实这是误解。\n\n我所有的现货仓位，都是基于以数据分析的前提，以及我对趋势的判断和理解（图1）。而当我判断会进入一段相对较长的震荡区间时，才会拿出部分资金来做日内短线。\n\n但最终只要是突破或者跌破后形成单边趋势，那么震荡单就会停止，要不打损，要止盈（图2）。\n\n空出的这部分资金就可以拿来做右侧突破单。就像我昨天和前天的推文中都有明确的观点表述，分别以链上数据和K线指标为依据，判断是“真反弹”的概率要大于“假突破”。\n\n所以，在BTC日k线收盘站上下降趋势线$90,588后我选择继续加仓，并把这笔交易的止损设在筹码结构的强支撑位$87,000，做到知行合一。\n\n目前我的现货仓位已增加到80%，但如果你问我是不是看牛回了？很遗憾，我的回答是：并没有！不仅现在没有，我甚至认为在2026年Q2之前可能都未必能看到“牛回”。\n\n我加仓的目的很明确，就是“搏反弹”，等BTC价格进入我的预期范围，或者反向超出我的预期，亦或是数据告诉我可能差不多了，我都会减仓（但不是清仓）。\n\n我永远都会给自己的交易留有余地，提前计划，并保有容错空间。尤其是2026年 —— 在我看来，未来2-3的拐点就会在这里 —— 才更应该为此做好充足的准备，无论是心态还是子弹。\n\n本文由 <a href=\"/Bitget\" title=\"Bitget\">@Bitget</a> 赞助｜\nBitget VIP，费率更低，福利更狠",
-      "publishedAt": "2026-01-05T04:36:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2008034814344224969",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG935BKRaUAAfyHN.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG935BKOaQAAmfhl.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "链上数据有2个关键信号点出现：\n\n1、筹码集中度下降\n\n在2026.1.1 BTC现货价格5%范围内的筹码集中度达到14.9%，距离我们说的波动性高风险区仅一步之遥。但此后在1月2日和1月3日两天不增反降，目前已降至14.5%。同时，BTC的价格在缓慢上涨。\n\n（图1）\n\n虽然说，筹码集中度仅对波动性有影响，并不代表方向。但在过往的数据中，有这样一条隐藏的规律：即当集中度开始拐头向下的时候，会延续BTC价格的走势。\n\n简单说，就是如果是因为BTC价格上涨而导致集中度从上升改为下降，那么在持续下降的过程中，BTC会延续价格上涨的态势，反之亦然。\n\n2、筹码结构支撑有效\n\n目前URPD数据显示，在$87,000处积累的BTC已达到 82.2w 枚；多空双方在此处分歧严重，经过激烈博弈后，逐渐要分出胜负。\n\n（图2）\n\n当换手位开始向右边移动，证明作为目前URPD上最高的一根巨量柱其支撑作用有效。因此，目前我的个人判断是：移动的区间在$92,000-$10,4000之间是属于合理范围。\n\n这一点我在12月26日的推文中也有明确讲到，有兴趣的小伙伴可以回看当时的分析：\nnitter.net/Murphychen888/status/2…\n\n（图3）\n\n再结合昨天的推文：在技术指标上，当日K收盘站上下降趋势线（$90,588）的时候，便是预期反弹开始的信号 —— 这一条也已满足。\n\n不过，昨天看到有小伙伴在评论区说也有可能是假突破。确实不排除有这样的风险，但从目前的数据和指标综合来看，我个人认为，真反弹的概率要大于假突破后继续下探的概率。\n\n除非在此过程中，BTC跌破$87,000的有效支撑点，重回下降趋势线下方，筹码集中度继续上升，那我们就要重新审视了。\n\n-----------------------------------------\nBitget VIP，费率更低，福利更狠",
-        "link": "https://x.com/Murphychen888/status/2007661974625390903",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG9yjToYaAAA3LFD.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG9yjZEmasAEkdM-.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2008028788521873444",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "「易理华严选」现状更新💫\n\n自 11.23-11.26 @Jackyi_ld 明牌满仓至今，六个代币中 5 个处于上涨状态，命中率 83.3%\n\n▶︎ 涨幅最大： $BCH & $WLFI ，分别为 19.6% 和 15.46%\n▶︎ 跌幅最大： $ASTER 是唯一一个下跌的代币，跌幅 53.54%（已割肉止损）\n\n需要说明的是，这里的 ETH 成本是基于这段时间加仓后的平均成本计算的，详情可见引用推文",
-      "contentHtml": "「易理华严选」现状更新💫\n\n自 11.23-11.26 <a href=\"/Jackyi_ld\" title=\"JackYi\">@Jackyi_ld</a> 明牌满仓至今，六个代币中 5 个处于上涨状态，命中率 83.3%\n\n▶︎ 涨幅最大： <a href=\"/search?q=%23BCH\">$BCH</a> & <a href=\"/search?q=%23WLFI\">$WLFI</a> ，分别为 19.6% 和 15.46%\n▶︎ 跌幅最大： <a href=\"/search?q=%23ASTER\">$ASTER</a> 是唯一一个下跌的代币，跌幅 53.54%（已割肉止损）\n\n需要说明的是，这里的 ETH 成本是基于这段时间加仓后的平均成本计算的，详情可见引用推文",
-      "publishedAt": "2026-01-05T04:12:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2008028788521873444",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG93zgOQbsAAd6iW.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "E 理华的 626,574 枚 $ETH 回本了！\n\n补仓策略奏效 —— @Jackyi_ld 他们在 12.29 下跌当日补仓 46036.72 ETH，使得链上持仓平均成本降低至  ~$3,105.5，目前刚好收回  1.1 亿美元浮亏并来到了回本线，真 E 卫兵💂🏻‍♀️\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-        "link": "https://x.com/ai_9684xtpa/status/2007448445855158526",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG9vjsjKa8AA5BA1.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2007998348339667272",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "睡醒一看，被孙哥 @justinsuntron 关注了？ 看来我的刻学密码终究还是藏不住了吗?🐶 感谢孙哥厚爱，这就去给 TRON 贡献点燃烧！🚀 #TRON #JustinSun",
-      "contentHtml": "睡醒一看，被孙哥 <a href=\"/justinsuntron\" title=\"H.E. Justin Sun 👨‍🚀 🌞\">@justinsuntron</a> 关注了？ 看来我的刻学密码终究还是藏不住了吗?🐶 感谢孙哥厚爱，这就去给 TRON 贡献点燃烧！🚀 <a href=\"/search?q=%23TRON\">#TRON</a> <a href=\"/search?q=%23JustinSun\">#JustinSun</a>",
-      "publishedAt": "2026-01-05T02:11:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2007998348339667272",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG93W40NbQAA4T1s.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
