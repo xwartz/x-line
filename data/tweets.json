@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T21:19:34.329Z",
+  "lastUpdated": "2026-01-16T21:43:56.864Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,9 +85,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 480,
-    "successUsers": 24,
-    "failedUsers": 2
+    "newFetched": 508,
+    "successUsers": 25,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -2771,6 +2771,25 @@
           "url": "https://nitter.net/pic/orig/media%2FG-qIYXEbQAknIo1.jpg"
         }
       ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2011506494282309720",
+      "username": "JaredWalczak",
+      "displayName": "Jared Walczak",
+      "avatar": "https://nitter.net/pic/profile_images%2F1955017206032461824%2FYfdsLgqL_bigger.jpg",
+      "content": "The proposed California wealth tax is far higher than 5%.\n\nIntentional and inadvertent drafting choices inflate taxpayers' net worth—potentially many times over. Here are six of those factors:\n\n1. Founders with Class B or other super-voting shares may be taxed on their share of voting interests when they exceed their actual economic stake in the company.\n\n2. Assessment rules for privately held businesses can lead to massive overvaluations, with valuation floors that ignore economic distress and rules preventing adjustments that reflect actual value.\n\n3. Draconian penalties for understatement of tax, which fall on taxpayers and their appraisers alike, encourage padding valuations and have a chilling effect on any challenges to the state's aggressive default assumptions.\n\n4. Poorly drafted anti-avoidance rules can overtax transfers, taxing assets that are already in trusts and taxing the entirety of both an asset and its sale price for any sales deemed to be for less than fair market value.\n\n5. Married couples are subject to both a marriage penalty and the inclusion of a non-resident spouse's assets, while a divorce settlement could require a taxpayer to remit tax on assets obligated to their ex-spouse.\n\n6. Deferral regimes raise costs and introduce risk, since tax can be owed for several years on assets that may have subsequently declined in value.\n\nA link to the full analysis is in the comments.",
+      "contentHtml": "The proposed California wealth tax is far higher than 5%.\n\nIntentional and inadvertent drafting choices inflate taxpayers' net worth—potentially many times over. Here are six of those factors:\n\n1. Founders with Class B or other super-voting shares may be taxed on their share of voting interests when they exceed their actual economic stake in the company.\n\n2. Assessment rules for privately held businesses can lead to massive overvaluations, with valuation floors that ignore economic distress and rules preventing adjustments that reflect actual value.\n\n3. Draconian penalties for understatement of tax, which fall on taxpayers and their appraisers alike, encourage padding valuations and have a chilling effect on any challenges to the state's aggressive default assumptions.\n\n4. Poorly drafted anti-avoidance rules can overtax transfers, taxing assets that are already in trusts and taxing the entirety of both an asset and its sale price for any sales deemed to be for less than fair market value.\n\n5. Married couples are subject to both a marriage penalty and the inclusion of a non-resident spouse's assets, while a divorce settlement could require a taxpayer to remit tax on assets obligated to their ex-spouse.\n\n6. Deferral regimes raise costs and introduce risk, since tax can be owed for several years on assets that may have subsequently declined in value.\n\nA link to the full analysis is in the comments.",
+      "publishedAt": "2026-01-14T18:31:00.000Z",
+      "link": "https://x.com/JaredWalczak/status/2011506494282309720",
       "retweet": {
         "username": "naval",
         "displayName": "Naval"
@@ -11450,27 +11469,6 @@
             "url": "https://nitter.net/pic/orig/media%2FG95EXz-aoAAGe9u.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2008809842958626854",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
-      "content": "See:\nnitter.net/PalmerLuckey/status/20…",
-      "contentHtml": "See:\n<a href=\"https://nitter.net/PalmerLuckey/status/2005207525784719414?s=20\">nitter.net/PalmerLuckey/status/20…</a>",
-      "publishedAt": "2026-01-07T07:56:00.000Z",
-      "link": "https://x.com/naval/status/2008809842958626854",
-      "quote": {
-        "username": "PalmerLuckey",
-        "displayName": "Palmer Luckey",
-        "content": "What you are saying is not true in any meaningful way.  \n\nYou can say whatever you want as an untethered hypothetical, but here in reality, what you are actually advocating for is NOT a 1-2% wealth tax for established billionaires - it is a 5% tax calculated all in one year, payable (with interest!) over the subsequent five.  That puts massive risk on founders with zero risk for you or Califorjia - as I just pointed out, one market correction (or worst case but sadly common, the company goes under) and I am homeless on the street with literally billions of dollars in debt that cannot be discharged even in bankruptcy.  \n\nNor does this initiative you are pushing have ANY sort of provision for founders like me with illiquid shares in unprofitable companies - if I have to come up with billions of dollars, how can I possibly keep putting all our profit back into new R&D that keeps our warfighters safer?  You are effectively forcing companies to immediately pivot into profit obsessesion over mission or long-term sustainability!  Again, you say that isn't what you support, but that claim is not consistent with what you are actually doing.  \n\nThis is all extraordinarily frustrating politician-speak that nobody in the industry is dumb enough to fall for.  It is the same as saying you support reasonable speed limits with higher speeds for rural areas even as you explicitly push for a national 55mph speed limit, all the while claiming with a smile that you \"support\" a wide range of speeds.  No, you don't, and no, you don't.",
-        "link": "https://x.com/PalmerLuckey/status/2005207525784719414"
       },
       "stats": {
         "replies": 0,
