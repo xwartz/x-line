@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T05:49:28.204Z",
+  "lastUpdated": "2026-01-16T06:31:04.317Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,74 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 506,
+    "newFetched": 507,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2012047319605350776",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "$xag  赌了一个月的利息，这次再亏只能下个月才开的起单\n\n反指麻了，让我赢一次！",
+      "contentHtml": "<a href=\"/search?q=%23xag\">$xag</a>  赌了一个月的利息，这次再亏只能下个月才开的起单\n\n反指麻了，让我赢一次！",
+      "publishedAt": "2026-01-16T06:20:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2012047319605350776",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-w6XE5aIAAlDLR.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012046918495715335",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
+      "content": "If you are the founder of a highly valued illiquid startup, set some time aside and read this entire article. The act is designed to bankrupt you and to personally punish any appraiser or accountant who disagrees.",
+      "contentHtml": "If you are the founder of a highly valued illiquid startup, set some time aside and read this entire article. The act is designed to bankrupt you and to personally punish any appraiser or accountant who disagrees.",
+      "publishedAt": "2026-01-16T06:19:00.000Z",
+      "link": "https://x.com/naval/status/2012046918495715335",
+      "quote": {
+        "username": "JaredWalczak",
+        "displayName": "Jared Walczak",
+        "content": "Many in the tech community have flagged the wealth tax's valuation based on voting share (@garrytan, @PalmerLuckey, @DavidSacks, @BillAckman). I offer more detail on that and highlight 5 other burden-increasing provisions that have flown under the radar.\n\ntaxfoundation.org/research/a…",
+        "link": "https://x.com/JaredWalczak/status/2011508565379621266"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012045486673530992",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
+      "content": "It’s not designed to extract, it’s designed to punish.",
+      "contentHtml": "It’s not designed to extract, it’s designed to punish.",
+      "publishedAt": "2026-01-16T06:13:00.000Z",
+      "link": "https://x.com/naval/status/2012045486673530992",
+      "quote": {
+        "username": "JaredWalczak",
+        "displayName": "Jared Walczak",
+        "content": "The proposed California wealth tax is far higher than 5%.\n\nIntentional and inadvertent drafting choices inflate taxpayers' net worth—potentially many times over. Here are six of those factors:\n\n1. Founders with Class B or other super-voting shares may be taxed on their share of voting interests when they exceed their actual economic stake in the company.\n\n2. Assessment rules for privately held businesses can lead to massive overvaluations, with valuation floors that ignore economic distress and rules preventing adjustments that reflect actual value.\n\n3. Draconian penalties for understatement of tax, which fall on taxpayers and their appraisers alike, encourage padding valuations and have a chilling effect on any challenges to the state's aggressive default assumptions.\n\n4. Poorly drafted anti-avoidance rules can overtax transfers, taxing assets that are already in trusts and taxing the entirety of both an asset and its sale price for any sales deemed to be for less than fair market value.\n\n5. Married couples are subject to both a marriage penalty and the inclusion of a non-resident spouse's assets, while a divorce settlement could require a taxpayer to remit tax on assets obligated to their ex-spouse.\n\n6. Deferral regimes raise costs and introduce risk, since tax can be owed for several years on assets that may have subsequently declined in value.\n\nA link to the full analysis is in the comments.",
+        "link": "https://x.com/JaredWalczak/status/2011506494282309720"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2012028158212800608",
       "username": "Bitfatty",
@@ -1970,6 +2033,25 @@
           "url": "https://nitter.net/pic/orig/media%2FG-qIYXEbQAknIo1.jpg"
         }
       ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2011506494282309720",
+      "username": "JaredWalczak",
+      "displayName": "Jared Walczak",
+      "avatar": "https://nitter.net/pic/profile_images%2F1955017206032461824%2FYfdsLgqL_bigger.jpg",
+      "content": "The proposed California wealth tax is far higher than 5%.\n\nIntentional and inadvertent drafting choices inflate taxpayers' net worth—potentially many times over. Here are six of those factors:\n\n1. Founders with Class B or other super-voting shares may be taxed on their share of voting interests when they exceed their actual economic stake in the company.\n\n2. Assessment rules for privately held businesses can lead to massive overvaluations, with valuation floors that ignore economic distress and rules preventing adjustments that reflect actual value.\n\n3. Draconian penalties for understatement of tax, which fall on taxpayers and their appraisers alike, encourage padding valuations and have a chilling effect on any challenges to the state's aggressive default assumptions.\n\n4. Poorly drafted anti-avoidance rules can overtax transfers, taxing assets that are already in trusts and taxing the entirety of both an asset and its sale price for any sales deemed to be for less than fair market value.\n\n5. Married couples are subject to both a marriage penalty and the inclusion of a non-resident spouse's assets, while a divorce settlement could require a taxpayer to remit tax on assets obligated to their ex-spouse.\n\n6. Deferral regimes raise costs and introduce risk, since tax can be owed for several years on assets that may have subsequently declined in value.\n\nA link to the full analysis is in the comments.",
+      "contentHtml": "The proposed California wealth tax is far higher than 5%.\n\nIntentional and inadvertent drafting choices inflate taxpayers' net worth—potentially many times over. Here are six of those factors:\n\n1. Founders with Class B or other super-voting shares may be taxed on their share of voting interests when they exceed their actual economic stake in the company.\n\n2. Assessment rules for privately held businesses can lead to massive overvaluations, with valuation floors that ignore economic distress and rules preventing adjustments that reflect actual value.\n\n3. Draconian penalties for understatement of tax, which fall on taxpayers and their appraisers alike, encourage padding valuations and have a chilling effect on any challenges to the state's aggressive default assumptions.\n\n4. Poorly drafted anti-avoidance rules can overtax transfers, taxing assets that are already in trusts and taxing the entirety of both an asset and its sale price for any sales deemed to be for less than fair market value.\n\n5. Married couples are subject to both a marriage penalty and the inclusion of a non-resident spouse's assets, while a divorce settlement could require a taxpayer to remit tax on assets obligated to their ex-spouse.\n\n6. Deferral regimes raise costs and introduce risk, since tax can be owed for several years on assets that may have subsequently declined in value.\n\nA link to the full analysis is in the comments.",
+      "publishedAt": "2026-01-14T18:31:00.000Z",
+      "link": "https://x.com/JaredWalczak/status/2011506494282309720",
       "retweet": {
         "username": "naval",
         "displayName": "Naval"
@@ -11158,25 +11240,6 @@
       }
     },
     {
-      "id": "2008221980412043516",
-      "username": "StartupArchive_",
-      "displayName": "Startup Archive",
-      "avatar": "https://nitter.net/pic/profile_images%2F1744457101370368000%2FqLqXxHuU_bigger.jpg",
-      "content": "Naval Ravikant: “The future will be almost all startups”\n\n“I firmly believe that the efficient size of a company is shrinking very rapidly, and so the future will be almost all startups.”\n\nIn the clip below from a 2012 interview, Naval speculates that information technology will reverse the centralizing force of economies of scale following the Industrial Revolution.\n\n“I think the contract work trend is going to increase, and I think the size of your average company is going to decrease. I think we’re going to see more and more billion dollar businesses built by four or five people, and it’ll stay at that.”\n\nHe doesn’t think we’ll see many more companies like Facebook or Google with tens of thousands of employees:\n\n“I think any entrepreneur worth their salt could today build Facebook with a few hundred people… Facebook and Google are in the situation that large companies end up in where the founders know that 80% of the people are not really needed, they just don’t know which 80%.”",
-      "contentHtml": "Naval Ravikant: “The future will be almost all startups”\n\n“I firmly believe that the efficient size of a company is shrinking very rapidly, and so the future will be almost all startups.”\n\nIn the clip below from a 2012 interview, Naval speculates that information technology will reverse the centralizing force of economies of scale following the Industrial Revolution.\n\n“I think the contract work trend is going to increase, and I think the size of your average company is going to decrease. I think we’re going to see more and more billion dollar businesses built by four or five people, and it’ll stay at that.”\n\nHe doesn’t think we’ll see many more companies like Facebook or Google with tens of thousands of employees:\n\n“I think any entrepreneur worth their salt could today build Facebook with a few hundred people… Facebook and Google are in the situation that large companies end up in where the founders know that 80% of the people are not really needed, they just don’t know which 80%.”",
-      "publishedAt": "2026-01-05T17:00:00.000Z",
-      "link": "https://x.com/StartupArchive_/status/2008221980412043516",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2008219911634710534",
       "username": "taresky",
       "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
@@ -11351,81 +11414,6 @@
       "contentHtml": "brevis 币安现货也是预期内的，就是不知道空投多少了，打新也没了。可惜了一个理财机会。",
       "publishedAt": "2026-01-05T10:07:00.000Z",
       "link": "https://x.com/0xleng1/status/2008118154330083520",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2008116187658641906",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "振幅有起色，成交无明显起色\n\n小A做多meme收获了利润\n小B做空其他板块也收获了利润\n\n大家都有美好未来",
-      "contentHtml": "振幅有起色，成交无明显起色\n\n小A做多meme收获了利润\n小B做空其他板块也收获了利润\n\n大家都有美好未来",
-      "publishedAt": "2026-01-05T09:59:00.000Z",
-      "link": "https://x.com/follow_clues/status/2008116187658641906",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG95C3evaAAAOFnP.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2008103908183535649",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "$14B volume\n\nWe still believe in invisible points\n\nHyperliquid",
-      "contentHtml": "$14B volume\n\nWe still believe in invisible points\n\nHyperliquid",
-      "publishedAt": "2026-01-05T09:10:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2008103908183535649",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG943zAaXMAAi-mW.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2008059980293837000",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "上上波浅绿区间 VDD 最低 0.53\n\n上波浅绿区间 VDD 最低 0.63\n\n当前 VDD 值为 0.54",
-      "contentHtml": "上上波浅绿区间 VDD 最低 0.53\n\n上波浅绿区间 VDD 最低 0.63\n\n当前 VDD 值为 0.54",
-      "publishedAt": "2026-01-05T06:16:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2008059980293837000",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG94PFWyaQAENhdx.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "坐等浅绿底部信号再次出现\n\n#Bitcoin: Value Days Destroyed Multiple (VDD Multiple) 是一个比特币链上指标，用于衡量短期支出速度与长期平均水平的比率，从而帮助识别市场周期的潜在顶部和底部。它基于 Coin Days Destroyed (CDD)，即销毁的币天数（给长期未移动的比特币更高权重，以反映长期持有者的行为），然后乘以当前比特币价格得到 Value Days Destroyed (VDD)。VDD Multiple 的计算公式为：30 天 VDD 平均值除以 365 天 VDD 平均值\n\n当 VDD Multiple < 0.75 时（图中浅绿区间），它反映了短期支出速度相对于年度平均水平的降低，表明长期持有者出售旧币的活动减少，市场整体支出活力较低。这通常暗示市场处于冷却期、积累阶段或潜在的周期底部，长期持有者更倾向于持有而非抛售，可能代表相对低估或买入机会\n\n注：该指标当前较高的原因是前段时间 Coinbase 整理地址所导致，对该指标造成的数据污染将在此事件发生30天后消除",
-        "link": "https://x.com/0xCryptoChan/status/2001501297925853496",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG8a70r4bIAADVgb.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
