@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T11:18:09.874Z",
+  "lastUpdated": "2026-01-16T11:42:09.569Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,48 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 508,
+    "newFetched": 507,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2012127012111180216",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Meanwhile China has quietly started its nation wide interest bearing e-CNY stablecoin on Jan 1st, officially making eCNY a \"deposit money\"",
+      "contentHtml": "Meanwhile China has quietly started its nation wide interest bearing e-CNY stablecoin on Jan 1st, officially making eCNY a \"deposit money\"",
+      "publishedAt": "2026-01-16T11:37:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2012127012111180216",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-yCbmTbIAAPq6x.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xtony0x",
+        "displayName": "Tony",
+        "content": "No yield for US stablecoin holders whatsoever\n\nGENIUS Act banned issuers from sharing yield. Now, the Clarity Bill draft closes the loophole: it bans \"Digital Service Providers\" (pic2) from paying users\n\nThey are protecting the bank and hurting the retails",
+        "link": "https://x.com/0xtony0x/status/2011950718865768801",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-vb2bMWYAEJNWZ.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-vdl9lawAAm0pM.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2012118200130121854",
       "username": "hazenlee",
@@ -11431,21 +11468,6 @@
         "content": "❓有个问题想请教博主关于 taker buy 是否能成交taker sell ,我查阅了大量的资料都说可以成交，但有一些资料显示不能成交，\n\n➡️按我自己的理解是可以成交的，\n当前BTC价格8W，在80.1W 有Maker sell 只有 100枚，某巨鲸想taker buy「马上」买入 500 枚，此時，巨鲸的 taker buy 订单就会马上吃掉这100枚maker sell，剩下的400枚订单，则会继续向上匹配更高价格的Maker sell 订单，直到剩余的400枚全部成交，\n\n如果在匹配剩余的Maker sell订单過程中有 taker sell（马上出售）的订单出现，那巨鲸就不用全部去匹配maker sell单，而是也会匹配过程中出现taker sell单。\n\n❓但看到一些文章说taker buy 和taker sell不会成交，是因为交易所的某些机制导致taker只能成交maker的吗？ 希望博主可以解惑一下",
         "link": "https://x.com/wgl0921/status/2008408958558761377"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2008424698280112287",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "Polymarket有BD吗？有人知道吗 他们的MM怎么申请",
-      "contentHtml": "Polymarket有BD吗？有人知道吗 他们的MM怎么申请",
-      "publishedAt": "2026-01-06T06:25:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2008424698280112287",
       "stats": {
         "replies": 0,
         "retweets": 0,
