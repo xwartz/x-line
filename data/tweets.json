@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T16:46:43.908Z",
+  "lastUpdated": "2026-01-17T16:57:07.259Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,9 +85,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 504,
-    "successUsers": 25,
-    "failedUsers": 1
+    "newFetched": 242,
+    "successUsers": 12,
+    "failedUsers": 14
   },
   "tweets": [
     {
@@ -652,31 +652,6 @@
           "url": "https://nitter.net/pic/orig/media%2FG-2Dz37bcAANbnY.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2012408302010024176",
-      "username": "passluo",
-      "displayName": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤",
-      "avatar": "https://nitter.net/pic/profile_images%2F1597030973161422848%2FJrgJ5kiR_bigger.jpg",
-      "content": "看到李亚鹏嫣然医院欠房租 2500w 被告那个有点心酸\n\n那个，提醒下「嫣然基金」和「嫣然医院」是相互独立的机构\n\n我更建议大家直接捐款给「嫣然医院」\n\n这样他们能更快使用到这笔资金解决燃眉之急\n\n微信搜索「北京嫣然天使儿童医院」就有捐款入口\n\n给大家搞了一张流程图 ⬇️",
-      "contentHtml": "看到李亚鹏嫣然医院欠房租 2500w 被告那个有点心酸\n\n那个，提醒下「嫣然基金」和「嫣然医院」是相互独立的机构\n\n我更建议大家直接捐款给「嫣然医院」\n\n这样他们能更快使用到这笔资金解决燃眉之急\n\n微信搜索「北京嫣然天使儿童医院」就有捐款入口\n\n给大家搞了一张流程图 ⬇️",
-      "publishedAt": "2026-01-17T06:15:00.000Z",
-      "link": "https://x.com/passluo/status/2012408302010024176",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-2BBembcAAs9EA.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2546,37 +2521,6 @@
           "url": "https://nitter.net/pic/orig/media%2FG-ta3uNbQAIBs6D.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2011799832751452427",
-      "username": "MaggieUSMacro",
-      "displayName": "Maggie",
-      "avatar": "https://nitter.net/pic/profile_images%2F2008884052229771266%2FThxwB8yN_bigger.jpg",
-      "content": "高盛 Marquee 客户调查显示，当前市场的看涨情绪已攀升至过去十年罕见的极值——此前仅在 2017、2020 和 2024 年底出现过。值得注意的是，在这三次历史高点中，有两次市场都在随后的三个月内发生了回调。",
-      "contentHtml": "高盛 Marquee 客户调查显示，当前市场的看涨情绪已攀升至过去十年罕见的极值——此前仅在 2017、2020 和 2024 年底出现过。值得注意的是，在这三次历史高点中，有两次市场都在随后的三个月内发生了回调。",
-      "publishedAt": "2026-01-15T13:57:00.000Z",
-      "link": "https://x.com/MaggieUSMacro/status/2011799832751452427",
-      "retweet": {
-        "username": "follow_clues",
-        "displayName": "Theclues"
-      },
-      "quote": {
-        "username": "dailychartbook",
-        "displayName": "Daily Chartbook",
-        "content": "\"Goldman’s Marquee client poll shows bullishness at levels seen only three other times in the past decade — in late 2017, late 2020, and late 2024. In two of those instances, markets experienced a correction within three months.\"\n\nGoldman Sachs via @NKniazhevich",
-        "link": "https://x.com/dailychartbook/status/2011740391490392405",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-qNP5RXoAAYMFr.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -8669,31 +8613,6 @@
       }
     },
     {
-      "id": "2010277345651990564",
-      "username": "nikitabier",
-      "displayName": "Nikita Bier",
-      "avatar": "https://nitter.net/pic/profile_images%2F1755448801957945344%2FFh2HNw5Y_bigger.jpg",
-      "content": "X is the best source for financial news -- and hundreds of billions of dollars are deployed based on things people read here.\n\nWe are building Smart Cashtags that allow you to specify the exact asset (or smart contract) when posting a ticker. From Timeline, users will be able to tap them to see its real-time price along with all mentions of that asset.\n\nWe're aiming to collect feedback as we iterate toward a public release next month.",
-      "contentHtml": "X is the best source for financial news -- and hundreds of billions of dollars are deployed based on things people read here.\n\nWe are building Smart Cashtags that allow you to specify the exact asset (or smart contract) when posting a ticker. From Timeline, users will be able to tap them to see its real-time price along with all mentions of that asset.\n\nWe're aiming to collect feedback as we iterate toward a public release next month.",
-      "publishedAt": "2026-01-11T09:07:00.000Z",
-      "link": "https://x.com/nikitabier/status/2010277345651990564",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-XwcXxaUAAuX2r.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "follow_clues",
-        "displayName": "Theclues"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2010272725106049076",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -10112,47 +10031,6 @@
       }
     },
     {
-      "id": "2009636703670276440",
-      "username": "adaYen72",
-      "displayName": "AdaYY▀ ▀ ▀ ²’⁰ ¹ ▀ ▀ ▀",
-      "avatar": "https://nitter.net/pic/profile_images%2F1928026735507099648%2FR2Nx7gZ6_bigger.jpg",
-      "content": "Hard to see why Chinese retail would stay in crypto，when China A-shares offer a much easier participation trade:\n> 100+ stocks up more than 200%,\n> 500+ stocks up more than 100%.\nAnd with no capital gains tax and minimal trading friction, the bar to get involved was even lower.\n\nIn crypto, however, the performance has been much narrower.\nOnly the privacy sector is positive (thanks to $ZEC), the rest are mostly negative.\n\nThe recent USDT–CNY discount is often framed as policy driven, but more broadly, this looks like a Chinese capital rotation rather than a sentiment shock.\nLiquidity always takes the path of least resistance.",
-      "contentHtml": "Hard to see why Chinese retail would stay in crypto，when China A-shares offer a much easier participation trade:\n&gt; 100+ stocks up more than 200%,\n&gt; 500+ stocks up more than 100%.\nAnd with no capital gains tax and minimal trading friction, the bar to get involved was even lower.\n\nIn crypto, however, the performance has been much narrower.\nOnly the privacy sector is positive (thanks to <a href=\"/search?q=%23ZEC\">$ZEC</a>), the rest are mostly negative.\n\nThe recent USDT–CNY discount is often framed as policy driven, but more broadly, this looks like a Chinese capital rotation rather than a sentiment shock.\nLiquidity always takes the path of least resistance.",
-      "publishedAt": "2026-01-09T14:41:00.000Z",
-      "link": "https://x.com/adaYen72/status/2009636703670276440",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-OoC11aIAAj7fG.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-OoG9pbkAAs3eo.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
-      },
-      "quote": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-        "content": "Reading our internal book, across all assets we have deployed last year was the first time crypto really decoupled (even though the industry got basically everything we’d hoped for.. \n\nHoping the orange coin flips this in the new year 💪",
-        "link": "https://x.com/DoveyWan/status/2008869028870357066",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-Du7rxbAAAb0Zw.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2009632914724868607",
       "username": "DoveyWan",
       "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
@@ -10385,25 +10263,6 @@
         "displayName": "Joshua | MOZAIK 🇰🇷",
         "content": "Same playbook \n\n80k feels bottom \n\nCPI is good \n\nWe buy the dip and decide what to do after BOJ meeting \n\nIf BOJ is all good and fine with 25bps or no raise we hodl tilll Jan 5 th \n\nIf not ....  no clue for now",
         "link": "https://x.com/JoshuaDeuk/status/2001684404222276014"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2009593995383779570",
-      "username": "heyibinance",
-      "displayName": "Yi He",
-      "avatar": "https://nitter.net/pic/profile_images%2F1974520590410170369%2Fq2Q0S0fa_bigger.jpg",
-      "content": "非常感谢您作为曾经的币安人出来发声。\n我认真读了您的帖子，最大的抱怨是“直接切断电脑权限”，这并不针对您个人，因为您的岗位是安全，对于部分敏感岗位，无论在岗时间长短，都是切断信息，如果因为安全制度，让您的体验不好，在此向您道歉。\n关于裁员原因和赔偿，因为您在5月入职，我也验证了了您的年中刚入职的绩效和年底绩效，会和你的直接上级询问是否有提醒过您年中的绩效可能过不了试用期；但于情于法，确实没有额外的赔偿，我们也不支持任何“按闹分配”，薪水会结算到本月月底，希望互相理解。\n对于您私信我提到的其他人不专业，HR会做360核查，对于您电脑里提到的数据，如果是您的私人信息，会通过HR和您联系。\n一个公司需要的人才，或多或少会有一些差异，拿我自己来说，我就不是一个很好的打工人，更适合创业。\n每个公司每年都有很多人加入，也有很多人离开。币安可能确实不适合所有人。归根结底，能力强的人每个公司都喜欢，而文化的契合可能才是匹配与否的关键。就像球员除了自己要进球，也需要和队友打配合。\n币安想要的人，可能不是那种喜欢讲生活工作平衡的人，我们想要聪明但也务实的人，我们想要能主动发现问题也解决问题的人，我们是一个球队，不是家庭；同样也有人喜欢那些家长式的公司，喜欢那些讲福利，画饼的公司；币安可能直接给奖金，因为顶级的球员值得顶级的待遇，接得住的就接住了，接不住的朋友们，也希望他们有个好前程。",
-      "contentHtml": "非常感谢您作为曾经的币安人出来发声。\n我认真读了您的帖子，最大的抱怨是“直接切断电脑权限”，这并不针对您个人，因为您的岗位是安全，对于部分敏感岗位，无论在岗时间长短，都是切断信息，如果因为安全制度，让您的体验不好，在此向您道歉。\n关于裁员原因和赔偿，因为您在5月入职，我也验证了了您的年中刚入职的绩效和年底绩效，会和你的直接上级询问是否有提醒过您年中的绩效可能过不了试用期；但于情于法，确实没有额外的赔偿，我们也不支持任何“按闹分配”，薪水会结算到本月月底，希望互相理解。\n对于您私信我提到的其他人不专业，HR会做360核查，对于您电脑里提到的数据，如果是您的私人信息，会通过HR和您联系。\n一个公司需要的人才，或多或少会有一些差异，拿我自己来说，我就不是一个很好的打工人，更适合创业。\n每个公司每年都有很多人加入，也有很多人离开。币安可能确实不适合所有人。归根结底，能力强的人每个公司都喜欢，而文化的契合可能才是匹配与否的关键。就像球员除了自己要进球，也需要和队友打配合。\n币安想要的人，可能不是那种喜欢讲生活工作平衡的人，我们想要聪明但也务实的人，我们想要能主动发现问题也解决问题的人，我们是一个球队，不是家庭；同样也有人喜欢那些家长式的公司，喜欢那些讲福利，画饼的公司；币安可能直接给奖金，因为顶级的球员值得顶级的待遇，接得住的就接住了，接不住的朋友们，也希望他们有个好前程。",
-      "publishedAt": "2026-01-09T11:51:00.000Z",
-      "link": "https://x.com/heyibinance/status/2009593995383779570",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
       },
       "stats": {
         "replies": 0,
@@ -11540,6 +11399,81 @@
           }
         ]
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2009213209308483711",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "中文区有自己在Poly上做BTC预测/深耕预测套利的兄弟吗。想交流交流。自己实践策略 自己开发的。而不是在推特写看似专业的长文水文AI文。全盘照搬老外的。",
+      "contentHtml": "中文区有自己在Poly上做BTC预测/深耕预测套利的兄弟吗。想交流交流。自己实践策略 自己开发的。而不是在推特写看似专业的长文水文AI文。全盘照搬老外的。",
+      "publishedAt": "2026-01-08T10:38:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2009213209308483711",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2009201197102870850",
+      "username": "butaidongjiaoyi",
+      "displayName": "如果我不懂",
+      "avatar": "https://nitter.net/pic/profile_images%2F1932458672346873859%2FPwyHZyGA_bigger.jpg",
+      "content": "#OKX年夜饭 ，我踏马来了。",
+      "contentHtml": "<a href=\"/search?q=%23OKX年夜饭\">#OKX年夜饭</a> ，我踏马来了。",
+      "publishedAt": "2026-01-08T09:51:00.000Z",
+      "link": "https://x.com/butaidongjiaoyi/status/2009201197102870850",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2009181502274457969",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "好舔好Low好儿戏 建议清君侧\n喜欢喊爹妈的那些臭sb赶紧死去吧 炒你吗b的币 没眼看",
+      "contentHtml": "好舔好Low好儿戏 建议清君侧\n喜欢喊爹妈的那些臭sb赶紧死去吧 炒你吗b的币 没眼看",
+      "publishedAt": "2026-01-08T08:32:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2009181502274457969",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2009169816113041580",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "自己没娃, 和有娃而且娃教的很好的朋友聊下来, 教娃最重要是教会娃如何选择 @YettaSing Yetta被家里两个男娃每天晚上枪毙200次😆 得出的人生哲理. 与年轻founder相处类似",
+      "contentHtml": "自己没娃, 和有娃而且娃教的很好的朋友聊下来, 教娃最重要是教会娃如何选择 <a href=\"/YettaSing\" title=\"YettaS\">@YettaSing</a> Yetta被家里两个男娃每天晚上枪毙200次😆 得出的人生哲理. 与年轻founder相处类似",
+      "publishedAt": "2026-01-08T07:46:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2009169816113041580",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2009168873824952629",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "2025年成长里最大的一个进步：改掉了自己“喜欢当妈”的坏毛病。以前总觉得，做投资人就该一直 beating the drum，尤其面对第一次创业的 founder, 多提醒、多敲钟，他们就能少踩点坑。\n\n但后投资人永远坐在副驾驶，方向盘在founder 手里。可以赋能、给资源、给视角，但是干预选择和命盘就是不对的. 真正的老师从来是社会和市场。知行不合一的选择, 永远会在下次输回去. \n\n每个人选的路，都是自己的修道场/修罗场, 至少也是修理厂。只有亲自开过、撞过、修过，才能知道脚下的路要怎么走",
+      "contentHtml": "2025年成长里最大的一个进步：改掉了自己“喜欢当妈”的坏毛病。以前总觉得，做投资人就该一直 beating the drum，尤其面对第一次创业的 founder, 多提醒、多敲钟，他们就能少踩点坑。\n\n但后投资人永远坐在副驾驶，方向盘在founder 手里。可以赋能、给资源、给视角，但是干预选择和命盘就是不对的. 真正的老师从来是社会和市场。知行不合一的选择, 永远会在下次输回去. \n\n每个人选的路，都是自己的修道场/修罗场, 至少也是修理厂。只有亲自开过、撞过、修过，才能知道脚下的路要怎么走",
+      "publishedAt": "2026-01-08T07:42:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2009168873824952629",
       "stats": {
         "replies": 0,
         "retweets": 0,
