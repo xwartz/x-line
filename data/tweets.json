@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T01:29:58.136Z",
+  "lastUpdated": "2026-01-18T03:25:53.193Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,196 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 500,
+    "newFetched": 502,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2012719759687606455",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "The real market share of AI coding tools.\n\nClaude code is the 👑",
+      "contentHtml": "The real market share of AI coding tools.\n\nClaude code is the 👑",
+      "publishedAt": "2026-01-18T02:52:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2012719759687606455",
+      "quote": {
+        "username": "jshchnz",
+        "displayName": "Josh Cohenzadeh",
+        "content": "At the Agents Anonymous SF meetup last night we did a little 🙋 AI usage survey, here are the est. numbers:\n\nClaude Code users: 70%\nCodex users: 15%\nCursor users: 10%\nOpenCode users: 2%\nConductor users: 2%\nGemini users: 1%\n\nHave tried MCPs: 85%\nHave tried CC Skills: 70%\nHave tried CC Plugins: 40%",
+        "link": "https://x.com/jshchnz/status/2012228773564060085"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012717888264908906",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "🇪🇺能硬一次么",
+      "contentHtml": "🇪🇺能硬一次么",
+      "publishedAt": "2026-01-18T02:45:00.000Z",
+      "link": "https://x.com/hazenlee/status/2012717888264908906",
+      "quote": {
+        "username": "NXT4EU",
+        "displayName": "NXT EU",
+        "content": "Europe will ensure Greenland's safety, no matter what! 🇪🇺",
+        "link": "https://x.com/NXT4EU/status/2012549211544342991",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-4C15lWsAAwIcQ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012712338106057137",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "判斷一個人未來的成長曲線，我看兩件事。\n\n第一，有沒有自我覺察（self awareness）。\n這決定了他能不能誠實面對自己的能力邊界和盲點。沒有這個，再好的工具擺在面前也不知道怎麼用。\n\n第二，他對 AI 的態度和使用方式。\n這本質上是在測試一個人面對「能力槓桿」的反應。\n有人本能排斥，覺得是威脅。有人當成小工具，偶爾查查資料。但真正會起飛的，是把 AI 視為思維夥伴和能力延伸的人。\n\n這兩件事會形成循環。\n\n善於自我覺察的人更容易發現 AI 可以補足自己的短板。而善用 AI 的過程又會加速自我認知的迭代，因為你會不斷在互動中釐清：哪些判斷是自己的，哪些該外包。\n\n我自己用 AI 用得很爽，vibe coding 寫產品、寫自動化，早就是日常。\n\n直到某天我突然發現，團隊裡不是每個人都像我一樣這麼 dive into 這些工具。\n\n這也是一種自我覺察：意識到自己的理所當然，對別人來說卻非常陌生。\n\n所以我開始幫團隊導入 Claude Code Max，鼓勵他們用 vibe coding 做自動化。\n\n但工具只是表層，真正的改變是認知。\n\n我們家客服是一個最好的案例。\n\n我請他用 AI 分析對話紀錄，整理高頻問題與真正造成摩擦的環節。我會提醒他，不要只把自己當成「單純回覆客戶問題的人」，而是站在產品視角看問題。\n\n當視角一轉，行為就跟著變了。\n\n現在客服會先把問題拆成流程缺口，自己畫 sketch，標出用戶卡住的節點，整理成具體需求，直接開 ticket 給開發團隊。我們討論的方向逐漸變成「怎麼讓這個問題下次不再出現」，而不是「要怎麼回答這個問題」。\n\n我現在評估團隊，只看兩件事：自我覺察與對新槓桿的態度。 這種心態轉變，光靠嘴巴講是沒用的。\n\nfounder 必須是那個第一個跳進泥沼、也是第一個挖出金礦的人。只有 founder 親自下去做，讓團隊看到這東西真的能用、真的有價值，他們才會願意跨出第一步。\n\n你沒辦法說服一個人改變，你只能創造一個環境，讓改變自然發生。",
+      "contentHtml": "判斷一個人未來的成長曲線，我看兩件事。\n\n第一，有沒有自我覺察（self awareness）。\n這決定了他能不能誠實面對自己的能力邊界和盲點。沒有這個，再好的工具擺在面前也不知道怎麼用。\n\n第二，他對 AI 的態度和使用方式。\n這本質上是在測試一個人面對「能力槓桿」的反應。\n有人本能排斥，覺得是威脅。有人當成小工具，偶爾查查資料。但真正會起飛的，是把 AI 視為思維夥伴和能力延伸的人。\n\n這兩件事會形成循環。\n\n善於自我覺察的人更容易發現 AI 可以補足自己的短板。而善用 AI 的過程又會加速自我認知的迭代，因為你會不斷在互動中釐清：哪些判斷是自己的，哪些該外包。\n\n我自己用 AI 用得很爽，vibe coding 寫產品、寫自動化，早就是日常。\n\n直到某天我突然發現，團隊裡不是每個人都像我一樣這麼 dive into 這些工具。\n\n這也是一種自我覺察：意識到自己的理所當然，對別人來說卻非常陌生。\n\n所以我開始幫團隊導入 Claude Code Max，鼓勵他們用 vibe coding 做自動化。\n\n但工具只是表層，真正的改變是認知。\n\n我們家客服是一個最好的案例。\n\n我請他用 AI 分析對話紀錄，整理高頻問題與真正造成摩擦的環節。我會提醒他，不要只把自己當成「單純回覆客戶問題的人」，而是站在產品視角看問題。\n\n當視角一轉，行為就跟著變了。\n\n現在客服會先把問題拆成流程缺口，自己畫 sketch，標出用戶卡住的節點，整理成具體需求，直接開 ticket 給開發團隊。我們討論的方向逐漸變成「怎麼讓這個問題下次不再出現」，而不是「要怎麼回答這個問題」。\n\n我現在評估團隊，只看兩件事：自我覺察與對新槓桿的態度。 這種心態轉變，光靠嘴巴講是沒用的。\n\nfounder 必須是那個第一個跳進泥沼、也是第一個挖出金礦的人。只有 founder 親自下去做，讓團隊看到這東西真的能用、真的有價值，他們才會願意跨出第一步。\n\n你沒辦法說服一個人改變，你只能創造一個環境，讓改變自然發生。",
+      "publishedAt": "2026-01-18T02:23:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2012712338106057137",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012711592656609771",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "Floki 团队关联地址正在抛售 $FLOKI ？🤨\n\n地址 0xf12…3739B 1 小时前在链上卖出 274 亿枚 FLOKI 换得 340.61 ETH，价值约 135 万美元；向前追溯代币资金来源，发现是 Floki 部署地址在三年前分发至地址 0xa57…99c19，又通过 0x64c…95527 二次中转获得\n\n抛售地址 intel.arkm.com/explorer/addr…\n中转地址\nintel.arkm.com/explorer/addr…\nintel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
+      "contentHtml": "Floki 团队关联地址正在抛售 <a href=\"/search?q=%23FLOKI\">$FLOKI</a> ？🤨\n\n地址 0xf12…3739B 1 小时前在链上卖出 274 亿枚 FLOKI 换得 340.61 ETH，价值约 135 万美元；向前追溯代币资金来源，发现是 Floki 部署地址在三年前分发至地址 0xa57…99c19，又通过 0x64c…95527 二次中转获得\n\n抛售地址 <a href=\"https://intel.arkm.com/explorer/address/0xf12475AEBa2297606ED68505C449E7C0bB03739B\">intel.arkm.com/explorer/addr…</a>\n中转地址\n<a href=\"https://intel.arkm.com/explorer/address/0x64c74b5Cfe60CB5F36dDebb14B9431BA33E95527\">intel.arkm.com/explorer/addr…</a>\n<a href=\"https://intel.arkm.com/explorer/address/0xa57930732F6DeB41164788B28Bd62E2E3bd99c19\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/search?q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
+      "publishedAt": "2026-01-18T02:20:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2012711592656609771",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-6WbEEWwAESYsP.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012706511940681945",
+      "username": "0xSunNFT",
+      "displayName": "0xSun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820705442735296512%2Fej9BX01I_bigger.png",
+      "content": "I used to pray for times like this",
+      "contentHtml": "I used to pray for times like this",
+      "publishedAt": "2026-01-18T02:00:00.000Z",
+      "link": "https://x.com/0xSunNFT/status/2012706511940681945",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-5djPTWwAAUUEe.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xSunNFT",
+        "displayName": "0xSun",
+        "content": "The rest is history.",
+        "link": "https://x.com/0xSunNFT/status/1880532090716057614",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGhj99wzacAQGCD_.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012706509084364835",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "地主家的日子可能也越来越难了......\n\n有一个数据可以侧面反映当前市场活跃度 —— “BTC在交易所的流量势能”；它通过比较BTC流入和流出交易所总量的月平均值（红线）与年度平均值（绿线），来识别交易所交易量的宏观趋势变化。毕竟BTC代表最大的资金参与度，如果BTC也不好，那么其他ALT就更不用看了。\n\n当月线高于始终处于年线以上时，交易所门庭若市，玩家积极活跃；反之，则变成了门可罗雀，市场情绪低迷。所以，我们看到在月线低于年线的时段，BTC的价格往往也表现不佳（如图1）。\n\n（图1）\n\n交易所的业务不靠BTC上涨赚钱，而要依赖于流量的多少或市场活跃度赚钱。即便是设计再完美的产品和体验，没有了市场热度就等于断了生命线。\n\n在25年4月、7月、9月有三次月线几乎就要低于年线，但最后都反转了，而这一次却没有。说明市场确实发生了一些不一样的变化。所以，BTC交易所流量势能也是当前市场（散户、鲸鱼、机构）所有参与者最真实的情绪反馈 —— 熊市情绪。\n\n不过，“熊市情绪”不代表完全没行情...\n\n在2021年6月，市场受5.19事件的冲击，完成了一轮恐慌盘和杠杆出清（如图2），同时也出现了一段月线低于年线，但之后又迎来强劲反弹的情况。\n\n（图2）\n\n从形态上和现在有点像，但当时的筹码结构、场内购买力、资金流向和现在有较大区别，因此我们也不能简单的刻舟。\n\n但无论如何，在市场活跃度没有完全转变之前，任何时候的价格回升我们都只能以“反弹”来对待。尽管当前BTC仍有冲击10w+的可能性，但显然“时间”并不站在“多头”的这一边，拖的越久会让越多摇摆中的投资者失去耐心。\n\n同时，如果流量势能长期萎靡，除了Binance、OKX、Coinbase 这些头部的底子厚能扛一扛，对于其他平台、机构、项目方势必都将是一次严峻的生存考验！而往往在那时，也容易引发意想不到的黑天鹅事件。\n\n以上仅作为学习交流，不作为投资建议！\n----------------------------------------------\n本文由 @Bitget 赞助｜\nBitget VIP，费率更低，福利更狠",
+      "contentHtml": "地主家的日子可能也越来越难了......\n\n有一个数据可以侧面反映当前市场活跃度 —— “BTC在交易所的流量势能”；它通过比较BTC流入和流出交易所总量的月平均值（红线）与年度平均值（绿线），来识别交易所交易量的宏观趋势变化。毕竟BTC代表最大的资金参与度，如果BTC也不好，那么其他ALT就更不用看了。\n\n当月线高于始终处于年线以上时，交易所门庭若市，玩家积极活跃；反之，则变成了门可罗雀，市场情绪低迷。所以，我们看到在月线低于年线的时段，BTC的价格往往也表现不佳（如图1）。\n\n（图1）\n\n交易所的业务不靠BTC上涨赚钱，而要依赖于流量的多少或市场活跃度赚钱。即便是设计再完美的产品和体验，没有了市场热度就等于断了生命线。\n\n在25年4月、7月、9月有三次月线几乎就要低于年线，但最后都反转了，而这一次却没有。说明市场确实发生了一些不一样的变化。所以，BTC交易所流量势能也是当前市场（散户、鲸鱼、机构）所有参与者最真实的情绪反馈 —— 熊市情绪。\n\n不过，“熊市情绪”不代表完全没行情...\n\n在2021年6月，市场受5.19事件的冲击，完成了一轮恐慌盘和杠杆出清（如图2），同时也出现了一段月线低于年线，但之后又迎来强劲反弹的情况。\n\n（图2）\n\n从形态上和现在有点像，但当时的筹码结构、场内购买力、资金流向和现在有较大区别，因此我们也不能简单的刻舟。\n\n但无论如何，在市场活跃度没有完全转变之前，任何时候的价格回升我们都只能以“反弹”来对待。尽管当前BTC仍有冲击10w+的可能性，但显然“时间”并不站在“多头”的这一边，拖的越久会让越多摇摆中的投资者失去耐心。\n\n同时，如果流量势能长期萎靡，除了Binance、OKX、Coinbase 这些头部的底子厚能扛一扛，对于其他平台、机构、项目方势必都将是一次严峻的生存考验！而往往在那时，也容易引发意想不到的黑天鹅事件。\n\n以上仅作为学习交流，不作为投资建议！\n----------------------------------------------\n本文由 <a href=\"/Bitget\" title=\"Bitget\">@Bitget</a> 赞助｜\nBitget VIP，费率更低，福利更狠",
+      "publishedAt": "2026-01-18T02:00:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2012706509084364835",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-25dvRW8AA3WZJ.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-25dvTXQAEy_Ue.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "反弹见顶  or  牛市起步 ???\n\n在25年底我和Glassnode团队续约时，他们肯定了我这1年来对中文社区的贡献，特别为我开通原本是只给机构客户的“proprietary signals (内部专属信号)” 的访问权限。说实话，这里的内容完全不同于我过去所看的（太专业了），以至于这么多时间来我还没完全研究明白。\n\n不过有一个指标，我观察下来觉得对于抓反弹的高点区间比较有效，这里分享给小伙伴！—— 比特币风险信号（Bitcoin Risk Signal，BRS）\n\n官方对该指标的解释，只有这一句话：\nThe Bitcoin Risk Signal gauges the amount of risk of a major drawdown in bitcoin price. It is based on a set of proprietary indicators, including bitcoin price data, on-chain data, and a selection of other trading metrics.\n\n也就是说是“基于一系列综合数据”，但具体是什么算法、逻辑、原理？别问我，我也不知道。但用法很简单，即“当BRS从100降至0时，有且只有2种可能：1、牛市起步；2、反弹见顶”；我们先来看几个案例（不愿看推导过程的小伙伴，可以直接跳转到最后图4，看结论）：\n\n🚩 案例1、牛转熊时期\n\n（图1）\n\n在这个阶段，BRS=100意味着短期内BTC下跌风险达到顶峰，此后大概率会出现一波超跌反弹；如果没有信号提醒，我们很难把握反弹到哪里是高点区。当BRS从100降至0时就清晰的给出了答案。\n\n因此，我们从图1可以看到，18年进入熊市周期后的3次反弹的高点，都出现在BRS降至0后且维持了一小段。简单说，就是BRS=100可以搏反弹，100降到0且维持一段就是离场时机。\n\n（图2）\n\n在2022年入熊之前的反弹同样如此；22年1月BRS升至100，中间来回反复，直到3月BRS又降到0，同期对应反弹的高点。22年6月到8月，BTC从$18,000反弹到$24,000，信号也很清楚。\n\n🚩 案例2、牛市起步期\n\n（图3）\n\n在牛市起步阶段，当BRS从100降至0，到下一次再回到100，对应的是BTC一段完整的强趋势行情。在2023-2025年，以及过往几轮牛市周期我们都发现了类似的情况。\n\n所以，对我们来说在使用该信号作为交易参考时，首先要判断在当前牛熊转换期的大方向上是“熊转牛”的可能性更大还是“牛转熊”？在此基础上，我们才能在上述2种可能中选择正确的视角。\n\n我个人认为是后者的概率更大。虽然你们都知道对于BTC我是长期坚定看多的；是乐观派，但也不能盲目乐观。综合各方条件，各项数据，保持理性，尊重客观是我一贯的原则。\n\n（图4）\n\n现在我们看到的是：2025.11.21 BRS升至100，对应BTC跌至$82,000；此后指标一直反复，直到2026.1.14 BRS降至0，对应BTC反弹至$97,000；因此，基于以上大方向的判断，我的观点是这里属于“反弹的高点区”。\n\n但如果你要问“会不会继续反弹上10w”？当然不排除这种可能，就像上文提到，当BRS维持在0的一段时间，都是反弹的高点区域。当你在该范围内选择逐步离场，相对于下一次BRS升至100时BTC的低点，大概率不会错。\n\n当然，如果你在大方向上与我的判断不同，认为现在的方向是“熊转牛”，那么当前BRS降至0反而是牛市起步阶段。那你完全可以不用参考我的观点，坚定拿住就对了。每个人都有自己的理解方式，我说的也未必都对，遵循本心即可。\n\n以上仅作为学习交流，不作为投资建议！\n----------------------------------------------\n本文由 @Bitget 赞助｜\nBitget VIP，费率更低，福利更狠",
+        "link": "https://x.com/Murphychen888/status/2012016759143088416",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-wdkXdbQAA-Hfb.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-wdsLBbQAozndH.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012699117676335222",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "你醒啦？今天是2025年1月18号早上9点30分，距离特朗普发币还有半小时，请务必抓住这可能此生仅有1次的机会",
+      "contentHtml": "你醒啦？今天是2025年1月18号早上9点30分，距离特朗普发币还有半小时，请务必抓住这可能此生仅有1次的机会",
+      "publishedAt": "2026-01-18T01:30:00.000Z",
+      "link": "https://x.com/hazenlee/status/2012699117676335222",
+      "quote": {
+        "username": "realDonaldTrump",
+        "displayName": "Donald J. Trump",
+        "content": "My NEW Official Trump Meme is HERE! It’s time to celebrate everything we stand for: WINNING! Join my very special Trump Community. GET YOUR $TRUMP NOW. Go to gettrumpmemes.com/ — Have Fun!",
+        "link": "https://x.com/realDonaldTrump/status/1880446012168249386",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGhivrlDWAAA7Ex3.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2012694267127627983",
       "username": "CycleStudies",
@@ -299,6 +484,31 @@
       "retweet": {
         "username": "naval",
         "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012545563393208459",
+      "username": "dela3499",
+      "displayName": "Carlos De la Guardia",
+      "avatar": "https://nitter.net/pic/profile_images%2F1348761953997647875%2F4ZdY5gCR_bigger.jpg",
+      "content": "Evolution produced many wondrous things - especially human minds - but it did not produce the F-22. And likely could not produce it, even in ten trillion years.\n\nAnd it’s not because it’s complex. It’s actually much, much simpler than a cell.\n\nIt’s because reaching this point in design space is probably unreachable by:\n\n1. Changing only a few genes at a time\n\n2. Requiring every individual to meet strict criteria of survival and reproduction\n\nIt might be possible for *humans* to design a strand of DNA that constructs an advanced fighter jet.\n\nAnd that would be partly because, unlike evolution, we wouldn’t destroy our failed attempts along the way, but save and learn from them.\n\nHumans can make arbitrarily sophisticated changes to a genome - things which never happened in evolution. And we don’t require every step in our problem-solving process to meet any fixed criteria. However bad the idea, we can keep it and learn from it.\n\nIn other words, evolution does variation and selection, but humans do it better. Our variations, our steps in design space, are more sophisticated. Our selection criteria are richer and more flexible, less restrictive.\n\nIn other words, a raptor can evolve, but a Raptor must be designed.",
+      "contentHtml": "Evolution produced many wondrous things - especially human minds - but it did not produce the F-22. And likely could not produce it, even in ten trillion years.\n\nAnd it’s not because it’s complex. It’s actually much, much simpler than a cell.\n\nIt’s because reaching this point in design space is probably unreachable by:\n\n1. Changing only a few genes at a time\n\n2. Requiring every individual to meet strict criteria of survival and reproduction\n\nIt might be possible for *humans* to design a strand of DNA that constructs an advanced fighter jet.\n\nAnd that would be partly because, unlike evolution, we wouldn’t destroy our failed attempts along the way, but save and learn from them.\n\nHumans can make arbitrarily sophisticated changes to a genome - things which never happened in evolution. And we don’t require every step in our problem-solving process to meet any fixed criteria. However bad the idea, we can keep it and learn from it.\n\nIn other words, evolution does variation and selection, but humans do it better. Our variations, our steps in design space, are more sophisticated. Our selection criteria are richer and more flexible, less restrictive.\n\nIn other words, a raptor can evolve, but a Raptor must be designed.",
+      "publishedAt": "2026-01-17T15:20:00.000Z",
+      "link": "https://x.com/dela3499/status/2012545563393208459",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "Rainmaker1973",
+        "displayName": "Massimo",
+        "content": "F22 Raptor filmed with a camera so fancy, you can see the vertical stabilizers get all wobbly",
+        "link": "https://x.com/Rainmaker1973/status/2012419620343267503"
       },
       "stats": {
         "replies": 0,
@@ -5931,31 +6141,6 @@
       }
     },
     {
-      "id": "2011061526518776325",
-      "username": "Austen",
-      "displayName": "Austen Allred",
-      "avatar": "https://nitter.net/pic/profile_images%2F1608281295918096385%2FD2kh-M28_bigger.jpg",
-      "content": "A conversation I had with the founder of a company anyone in tech would recognize.\n\nThe California wealth tax, as currently written, would literally take 100% of his net worth and leave him dead broke.\n\nThis is insanity.",
-      "contentHtml": "A conversation I had with the founder of a company anyone in tech would recognize.\n\nThe California wealth tax, as currently written, would literally take 100% of his net worth and leave him dead broke.\n\nThis is insanity.",
-      "publishedAt": "2026-01-13T13:03:00.000Z",
-      "link": "https://x.com/Austen/status/2011061526518776325",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-i2eSdWEAErQVe.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2011058536223293478",
       "username": "follow_clues",
       "displayName": "Theclues",
@@ -11387,141 +11572,6 @@
         "username": "OwenJin12",
         "displayName": "Owen.btc 🟧"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2009376794537824690",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "我不认为开枪有问题，因为可以从执法人员的角度去出发\n但是我不认同从只司机的角度出发，合理化开枪这件事。\n很多人可能认为两角度是连贯的，我认为不全面，比如执法人员曾经有过执法时的受伤的经历，那就是个人的特殊情况，也必须考虑到最后开枪是否合理的因素里。\n有没有一种可能今天如果换一个执法人员开枪是不合理的，但是因为是这个有过经历的执法人员所以就合理？我没有法律知识，专业人士可以告诉我有没有这种可能性。\n谢谢讨论，今天的恶评只有让我去看眼睛的，已经很客气了😂",
-      "contentHtml": "我不认为开枪有问题，因为可以从执法人员的角度去出发\n但是我不认同从只司机的角度出发，合理化开枪这件事。\n很多人可能认为两角度是连贯的，我认为不全面，比如执法人员曾经有过执法时的受伤的经历，那就是个人的特殊情况，也必须考虑到最后开枪是否合理的因素里。\n有没有一种可能今天如果换一个执法人员开枪是不合理的，但是因为是这个有过经历的执法人员所以就合理？我没有法律知识，专业人士可以告诉我有没有这种可能性。\n谢谢讨论，今天的恶评只有让我去看眼睛的，已经很客气了😂",
-      "publishedAt": "2026-01-08T21:28:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2009376794537824690",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-K9izEW8AAgoHc.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2009355529249018129",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "Grok认为司机有意图撞人，Gemini 说我不做判断😂",
-      "contentHtml": "Grok认为司机有意图撞人，Gemini 说我不做判断😂",
-      "publishedAt": "2026-01-08T20:04:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2009355529249018129",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-KqNKfWAAEcLJN.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2009340706012454952",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "那个ICE的视频我看了好几次，老实讲，从第三者角度讲看不出司机是准备撞ICE人员，并且先倒车，再往前开，也明显不是要撞人的操作。但是，你可以ARGUE说开枪的ICE执法认为自己生命受到威胁了所以开枪，但从开枪的精准时机看，车已经从他身边开过了，而不是冲他而来，开枪更多的目的像是要阻止她逃跑。",
-      "contentHtml": "那个ICE的视频我看了好几次，老实讲，从第三者角度讲看不出司机是准备撞ICE人员，并且先倒车，再往前开，也明显不是要撞人的操作。但是，你可以ARGUE说开枪的ICE执法认为自己生命受到威胁了所以开枪，但从开枪的精准时机看，车已经从他身边开过了，而不是冲他而来，开枪更多的目的像是要阻止她逃跑。",
-      "publishedAt": "2026-01-08T19:05:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2009340706012454952",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2009313637274444007",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "明天高等法院要裁定关税是否合法，现在预期75%不合法。那么问题来了，对于资产价格的影响？\n合理的逻辑应该是：利率上涨，受关税影响企业上涨，比如 $NKE 等，有意思的是市场好像并没有定价",
-      "contentHtml": "明天高等法院要裁定关税是否合法，现在预期75%不合法。那么问题来了，对于资产价格的影响？\n合理的逻辑应该是：利率上涨，受关税影响企业上涨，比如 <a href=\"/search?q=%23NKE\">$NKE</a> 等，有意思的是市场好像并没有定价",
-      "publishedAt": "2026-01-08T17:17:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2009313637274444007",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2009311783602065685",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "Based accounts for only 4.2% of trading volume on Polymarket, but has the largest share of users at 20% 🤔 meaning avg volume per Based user is 0.2× the platform average... what kind of \"users\" are these? sybil ish cohort?",
-      "contentHtml": "Based accounts for only 4.2% of trading volume on Polymarket, but has the largest share of users at 20% 🤔 meaning avg volume per Based user is 0.2× the platform average... what kind of \"users\" are these? sybil ish cohort?",
-      "publishedAt": "2026-01-08T17:10:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2009311783602065685",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-KBJ3mbAAABTty.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2009305948544782448",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "胡总坑我钱！",
-      "contentHtml": "胡总坑我钱！",
-      "publishedAt": "2026-01-08T16:47:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2009305948544782448",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-J9GvcaoAAlYd2.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Mex82446717",
-        "displayName": "Mex",
-        "content": "胡总又超神了吗😅",
-        "link": "https://x.com/Mex82446717/status/2009296115129106942"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2009282091482038294",
-      "username": "JoshuaDeuk",
-      "displayName": "Joshua | MOZAIK 🇰🇷",
-      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
-      "content": "hoping that was the bottom before we go to 100k wewwwwww",
-      "contentHtml": "hoping that was the bottom before we go to 100k wewwwwww",
-      "publishedAt": "2026-01-08T15:12:00.000Z",
-      "link": "https://x.com/JoshuaDeuk/status/2009282091482038294",
       "stats": {
         "replies": 0,
         "retweets": 0,
