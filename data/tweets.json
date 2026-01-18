@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T06:54:48.835Z",
+  "lastUpdated": "2026-01-18T07:18:40.804Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,67 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 503,
+    "newFetched": 502,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2012783876507062378",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "期待某一天 #btc 也出现此“盛况”",
+      "contentHtml": "期待某一天 <a href=\"/search?q=%23btc\">#btc</a> 也出现此“盛况”",
+      "publishedAt": "2026-01-18T07:07:00.000Z",
+      "link": "https://x.com/follow_clues/status/2012783876507062378",
+      "quote": {
+        "username": "MaggieUSMacro",
+        "displayName": "Maggie",
+        "content": "【白银期货：价格操纵的“纸面游戏”？】\n\nJustDario：这波银价不太对劲，现在做空白银的人明显是在操纵市场，因为实物白银库存不足以支持大规模交货。\n\n整理了他最近发的6条推文。简单讲，两件事同时发生：\n\n• 有人在“最不活跃的时段”用几笔大单把价猛砸下去；\n• 市面上的真银很难买到，能交割的货越来越稀缺。\n\n把这俩放一起看——屏幕上的“纸银价”越来越像摆设，裸卖空和人为压价的风险在抬头。\n\n（1）砸盘路径：价格被挑时段砸盘\n\n• 在盘面清淡的时段出现多次“单点巨量”成交，价格瞬间被打穿并触发连锁止损（见图1：多个红圈标注的低流动性时段巨量）。价格暴跌时交易量比周一亚洲时段低70%，说明下跌可能不是由大量真实交易驱动的。\n\n• 不是广泛分布的真实抛压，而是“挑流动性最薄的时候集中出手”——更像交易策略驱动的压价，而非基本面驱动的回调。\n\n（2）仓位信号：量大但总未平仓减少\n\n• 1/15 COMEX银期总成交约239,177手（其中电子盘237,407手），但总未平仓（OI）较前日减少442手至151,229手，其中主力月（26年 3月）OI 约101,871手，日变动+588（见图2）。\n\n• 高成交没有带来更多“新增仓位”，更像在用平仓、跨期或对冲配合短线打压。\n\n（3）实物端：极度紧缺\n• 99.9%纯度的实物银几乎买不到，实物溢价抬升；屏幕价与可交割价格明显脱节。\n\n• 裸卖空风险上升（卖出并无相应实物可交割）。\n#silver #白银",
+        "link": "https://x.com/MaggieUSMacro/status/2012116849610379407",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-x1Ji2bUAAwB_m.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-x1OdbaMAA6-n9.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012783236804661359",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "币安上线了法币提现通道，我测试了下：\n\n1000 U 从币安出发，路径是（图1）：\nUSDT → USD → ZaBank → 提现RMB；\n最终收到 6656.14元；\n\n同样的，1000 U 从Kraken出发，路径是（图2）：\nUSDT → EUR → Wise → 提现RMB；\n最终收到 6717.15元；\n\n对比下来在损耗上似乎还是路径2更小，效率也更高（路径1：最高限额 6600 USD，路径2：单日限额 100,000 USD）。",
+      "contentHtml": "币安上线了法币提现通道，我测试了下：\n\n1000 U 从币安出发，路径是（图1）：\nUSDT → USD → ZaBank → 提现RMB；\n最终收到 6656.14元；\n\n同样的，1000 U 从Kraken出发，路径是（图2）：\nUSDT → EUR → Wise → 提现RMB；\n最终收到 6717.15元；\n\n对比下来在损耗上似乎还是路径2更小，效率也更高（路径1：最高限额 6600 USD，路径2：单日限额 100,000 USD）。",
+      "publishedAt": "2026-01-18T07:04:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2012783236804661359",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-7WQqKWAAAq5U4.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-7WV8gX0AAsI-q.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2012774461334815168",
       "username": "Bitfatty",
@@ -11553,54 +11609,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FG-BuD8KbcAAqJ_A.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2009475962753438017",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "每次全网在喊的东西  \n说实话，真不是拉升的起点，10 次 9 次都是尾声  \n\n一堆鸟人，光喊不买",
-      "contentHtml": "每次全网在喊的东西  \n说实话，真不是拉升的起点，10 次 9 次都是尾声  \n\n一堆鸟人，光喊不买",
-      "publishedAt": "2026-01-09T04:02:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2009475962753438017",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2009468667776655403",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "距离昨晚鸽子公开建仓 $SOL ，币价已上涨 4.38% ($134 > $139.6)📈\n\n他曾在 01.06 $BTC 突破 9.4w 时表示止盈了大部分代币，这是时隔两天再次建仓并「喊单」的首个代币\n\n被地狱行情创飞多次后，最近的手感似乎回来了啊",
-      "contentHtml": "距离昨晚鸽子公开建仓 <a href=\"/search?q=%23SOL\">$SOL</a> ，币价已上涨 4.38% ($134 &gt; $139.6)📈\n\n他曾在 01.06 <a href=\"/search?q=%23BTC\">$BTC</a> 突破 9.4w 时表示止盈了大部分代币，这是时隔两天再次建仓并「喊单」的首个代币\n\n被地狱行情创飞多次后，最近的手感似乎回来了啊",
-      "publishedAt": "2026-01-09T03:33:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2009468667776655403",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-MRDb3bwAAeOyb.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "鸽子已重新买入 $SOL ！🕊\n\n他表示 SOL 是目前为止三大主流币中表现最好的；技术层面波段交易结构清晰，有望冲 $160，且如果 BTC 能涨到 10w 那么 SOL 或许也能到 $200\n\n最后他补充了一句「现在只祈祷 BTC 能守住 9 万美元，希望这波下跌只是上涨前的一次洗盘」，这句话应该代表了很多小伙伴的心声哈哈",
-        "link": "https://x.com/ai_9684xtpa/status/2009263449822703785",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-JWYmIa8AA6f0D.jpg"
           }
         ]
       },
