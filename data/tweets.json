@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T12:42:46.682Z",
+  "lastUpdated": "2026-01-19T13:34:47.523Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,84 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 504,
+    "newFetched": 506,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2013239055954170118",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "eth各种传闻（网传某所做空），鲸鱼大动作不断",
+      "contentHtml": "eth各种传闻（网传某所做空），鲸鱼大动作不断",
+      "publishedAt": "2026-01-19T13:16:00.000Z",
+      "link": "https://x.com/follow_clues/status/2013239055954170118",
+      "quote": {
+        "username": "OnchainLens",
+        "displayName": "Onchain Lens",
+        "content": "The whale \"0x81D\" has further borrowed $155M $USDT and bought 65,700 $stETH in the past 4 hours.\n\nCurrently, the whale holds 142,777 $ETH, worth $460.11M, across 2 wallets.\n\nintel.arkm.com/explorer/enti…",
+        "link": "https://x.com/OnchainLens/status/2013235826109616187",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_BzT1qbIAALwTk.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_BzT_kbUAAKQyJ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013233707562438818",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "had our internal recap of dats's outlook for 2026 since the max fud of MSTR. the downstream effect that eth dat will have on eth onchain economy and tvl distribution will be interesting to watch\n\ncan follow @0xtony0x for more insider look as this regime evolves.",
+      "contentHtml": "had our internal recap of dats's outlook for 2026 since the max fud of MSTR. the downstream effect that eth dat will have on eth onchain economy and tvl distribution will be interesting to watch\n\ncan follow <a href=\"/0xtony0x\" title=\"Tony\">@0xtony0x</a> for more insider look as this regime evolves.",
+      "publishedAt": "2026-01-19T12:54:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2013233707562438818",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013231970076004655",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Tony’s right @0xtony0x (our Wall Street trench warrior) $MSTR FUD now feels like 2017 Tether FUD. mNAV < 1 is not death spiral, just less room for balancesheet eng\n\nWhat worth watching 👇\n- DATs now hold alarger share of $ETH supply than $BTC (4.5% vs 3.5%) \n- $SOL DATs all under mNAV, seems Wall Street’s not convinced SOL is a balancesheet asset (yet)",
+      "contentHtml": "Tony’s right <a href=\"/0xtony0x\" title=\"Tony\">@0xtony0x</a> (our Wall Street trench warrior) <a href=\"/search?q=%23MSTR\">$MSTR</a> FUD now feels like 2017 Tether FUD. mNAV &lt; 1 is not death spiral, just less room for balancesheet eng\n\nWhat worth watching 👇\n- DATs now hold alarger share of <a href=\"/search?q=%23ETH\">$ETH</a> supply than <a href=\"/search?q=%23BTC\">$BTC</a> (4.5% vs 3.5%) \n- <a href=\"/search?q=%23SOL\">$SOL</a> DATs all under mNAV, seems Wall Street’s not convinced SOL is a balancesheet asset (yet)",
+      "publishedAt": "2026-01-19T12:48:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2013231970076004655",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_BkCGUXUAER79B.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xtony0x",
+        "displayName": "Tony",
+        "content": "See many people fudding Seeing many people fudding $MSTR on my timeline. Here are some of my takes:\n\n- MSTR will not become insolvent anytime soon. It holds ~$60.8B worth of BTC & ~$1.44B cash against outstanding debt of ~$8.2B, implying only ~11% leverage. Additionally, the $1.44B reserve fund raised through the ATM guarantees interest payments for the next 21 months.\n\n- If they got excluded from MSCI (decision by Jan 15 2026), the direct exposure is ~$2.8B of forced selling. If they got broader exclusion from NASDAQ 100 and Russell, it will be additional ~$6-8B forced selling pressure. The latter depends less on MSCI alignment and more on the ICB (Industry Classification Benchmark) annual review in March. If ICB reclassifies MSTR from \"Tech\" to \"Financials,\" it gets excluded from the Nasdaq 100.\n\n- If exclusion happens, mNAV could dip below 1.0 (currently ~1.13). Will Saylor sell BTC? I think it's possible, but not anytime soon. Historically, he never sells just because mNAV compresses (the one past sale was purely for tax harvesting). His playbook is: 1) Stop ATM, 2) Raise debt (he once collateralized his BTC to borrow cash), and), 3) Hodl BTC. He still has some tools to raise capital either through BTC lending or collateralized loans. I don't think he will sell BTC until he tapped in these alternative options for cash, and also he has not upcoming payment obligation for 21 months.\n\n- The only scenario where I could see Saylor capitulate is a confluence of broad index exclusion + the CAMT Tax Bill hitting (IRS demanding ~$1B+ cash tax on paper gains). If he could not raise capital through debt or equity, he might have to consider selling BTC. If that downward reflexivity of MSTR & BTC kicks in, it could be a generational buying opportunity.",
+        "link": "https://x.com/0xtony0x/status/1996234218590831034"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2013227465716699236",
       "username": "Bitfatty",
@@ -11548,97 +11621,6 @@
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "一代雄主 也沦为 “温柔老登”\n以前有能力逆势搞波大的，现在还是喜欢逆势，硬不起来只能拉泡大的\n\n怪不得古代皇帝年老多昏君  一堆人围着\n谁老了不乐意听点好的 \n贱皮子才找骂听",
         "link": "https://x.com/Bitfatty/status/1893983015291834862"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010028862537953766",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "说实话这玩意儿到底哪次灵哪次不灵\n\n上次至少大盘还稳一些\n\n最怕的就是你上的那次是坑，你不上的那次就是财富人生\n如果是心态差的，估计就炸了\n我😂不是第一次赢，也不是第一次输\n所以，就这样了，睡觉睡觉",
-      "contentHtml": "说实话这玩意儿到底哪次灵哪次不灵\n\n上次至少大盘还稳一些\n\n最怕的就是你上的那次是坑，你不上的那次就是财富人生\n如果是心态差的，估计就炸了\n我😂不是第一次赢，也不是第一次输\n所以，就这样了，睡觉睡觉",
-      "publishedAt": "2026-01-10T16:40:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2010028862537953766",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-UOk3QasAcZ693.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "看到晚了\n\n1%舍不得买，要17万u\n\n买了千分之几  尝尝咸淡\n\n$doyr 又是典型的男女混合双推\n\n我对叙事和各种意淫并不感兴趣，我也不会神叨叨发些pua的cx语录\n\n简单思考🤔\n逻辑如下  \n-目前币圈顶流只剩  cz和heyi  曾经的v神 马斯克都没有车头效应  \n-上一波链上行情已经过去很久了  今天又开始双簧了 不知道是不是新一波的起点 值得赌一手\n-大盘连跌了4周，止跌后情绪很差，但是又没有效跌出新的破位  此时又玩人造牛的话，有爆空的条件\n\n废话到此结束，尝尝咸淡的交易思考100字差不多\n如果你也想买的，走我码子谢谢 \n88888A",
-        "link": "https://x.com/Bitfatty/status/1997503352247341241",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG7iOtKzboAAWNDt.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010021838932611435",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "答案有了，过去24小时肯定赚麻了😭😭😭",
-      "contentHtml": "答案有了，过去24小时肯定赚麻了😭😭😭",
-      "publishedAt": "2026-01-10T16:12:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2010021838932611435",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "玩中文meme能挣钱吗\n\n真心问",
-        "link": "https://x.com/Bitfatty/status/2009855086089122027"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010022017341501666",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "糟糕！\n被人捷足先登啦！\n居然拉了么还有竞品！\n滴滴拉屎！",
-      "contentHtml": "糟糕！\n被人捷足先登啦！\n居然拉了么还有竞品！\n滴滴拉屎！",
-      "publishedAt": "2026-01-10T16:12:00.000Z",
-      "link": "https://x.com/hazenlee/status/2010022017341501666",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-UIXiAaEAAYbPY.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-UIXiCasAIqJtg.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "「死了么」登顶App Store榜一\n李哥想开发两款app\n分别是「拉了么」解决出门在外的拉屎问题可以共享自己家和自己店铺的厕所\n还有一款「射了么」解决单身宅男的性生活问题",
-        "link": "https://x.com/hazenlee/status/2009966521385398780",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-TVrwxbgAElo4x.jpg"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
