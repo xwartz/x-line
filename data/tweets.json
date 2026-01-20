@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T06:32:17.302Z",
+  "lastUpdated": "2026-01-20T07:06:16.126Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,52 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 245,
-    "successUsers": 12,
-    "failedUsers": 14
+    "newFetched": 506,
+    "successUsers": 25,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2013503102780088522",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "机构版专用指标有点意思，1月15日BRS降至零看来真的就是反弹的高点。\n\n目前BRS已经逐渐离开零轴，不管它还会不会再回到零轴，至少对我来说这一波做反弹的交易算是圆满结束。\n\n当下一次BRS达到100时（下跌风险值最强），就是我再次进场的时候。\n\n放心！我一定会回来和小伙伴们一起做家人的😀",
+      "contentHtml": "机构版专用指标有点意思，1月15日BRS降至零看来真的就是反弹的高点。\n\n目前BRS已经逐渐离开零轴，不管它还会不会再回到零轴，至少对我来说这一波做反弹的交易算是圆满结束。\n\n当下一次BRS达到100时（下跌风险值最强），就是我再次进场的时候。\n\n放心！我一定会回来和小伙伴们一起做家人的😀",
+      "publishedAt": "2026-01-20T06:45:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2013503102780088522",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_FiwVvXsAAPv8K.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_FjJdkXAAAiXNN.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "反弹见顶  or  牛市起步 ???\n\n在25年底我和Glassnode团队续约时，他们肯定了我这1年来对中文社区的贡献，特别为我开通原本是只给机构客户的“proprietary signals (内部专属信号)” 的访问权限。说实话，这里的内容完全不同于我过去所看的（太专业了），以至于这么多时间来我还没完全研究明白。\n\n不过有一个指标，我观察下来觉得对于抓反弹的高点区间比较有效，这里分享给小伙伴！—— 比特币风险信号（Bitcoin Risk Signal，BRS）\n\n官方对该指标的解释，只有这一句话：\nThe Bitcoin Risk Signal gauges the amount of risk of a major drawdown in bitcoin price. It is based on a set of proprietary indicators, including bitcoin price data, on-chain data, and a selection of other trading metrics.\n\n也就是说是“基于一系列综合数据”，但具体是什么算法、逻辑、原理？别问我，我也不知道。但用法很简单，即“当BRS从100降至0时，有且只有2种可能：1、牛市起步；2、反弹见顶”；我们先来看几个案例（不愿看推导过程的小伙伴，可以直接跳转到最后图4，看结论）：\n\n🚩 案例1、牛转熊时期\n\n（图1）\n\n在这个阶段，BRS=100意味着短期内BTC下跌风险达到顶峰，此后大概率会出现一波超跌反弹；如果没有信号提醒，我们很难把握反弹到哪里是高点区。当BRS从100降至0时就清晰的给出了答案。\n\n因此，我们从图1可以看到，18年进入熊市周期后的3次反弹的高点，都出现在BRS降至0后且维持了一小段。简单说，就是BRS=100可以搏反弹，100降到0且维持一段就是离场时机。\n\n（图2）\n\n在2022年入熊之前的反弹同样如此；22年1月BRS升至100，中间来回反复，直到3月BRS又降到0，同期对应反弹的高点。22年6月到8月，BTC从$18,000反弹到$24,000，信号也很清楚。\n\n🚩 案例2、牛市起步期\n\n（图3）\n\n在牛市起步阶段，当BRS从100降至0，到下一次再回到100，对应的是BTC一段完整的强趋势行情。在2023-2025年，以及过往几轮牛市周期我们都发现了类似的情况。\n\n所以，对我们来说在使用该信号作为交易参考时，首先要判断在当前牛熊转换期的大方向上是“熊转牛”的可能性更大还是“牛转熊”？在此基础上，我们才能在上述2种可能中选择正确的视角。\n\n我个人认为是后者的概率更大。虽然你们都知道对于BTC我是长期坚定看多的；是乐观派，但也不能盲目乐观。综合各方条件，各项数据，保持理性，尊重客观是我一贯的原则。\n\n（图4）\n\n现在我们看到的是：2025.11.21 BRS升至100，对应BTC跌至$82,000；此后指标一直反复，直到2026.1.14 BRS降至0，对应BTC反弹至$97,000；因此，基于以上大方向的判断，我的观点是这里属于“反弹的高点区”。\n\n但如果你要问“会不会继续反弹上10w”？当然不排除这种可能，就像上文提到，当BRS维持在0的一段时间，都是反弹的高点区域。当你在该范围内选择逐步离场，相对于下一次BRS升至100时BTC的低点，大概率不会错。\n\n当然，如果你在大方向上与我的判断不同，认为现在的方向是“熊转牛”，那么当前BRS降至0反而是牛市起步阶段。那你完全可以不用参考我的观点，坚定拿住就对了。每个人都有自己的理解方式，我说的也未必都对，遵循本心即可。\n\n以上仅作为学习交流，不作为投资建议！\n----------------------------------------------\n本文由 @Bitget 赞助｜\nBitget VIP，费率更低，福利更狠",
+        "link": "https://x.com/Murphychen888/status/2012016759143088416",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-wdkXdbQAA-Hfb.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-wdsLBbQAozndH.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2013499305605374461",
       "username": "Cbb0fe",
@@ -99,6 +140,69 @@
       "contentHtml": "The marketing dude at <a href=\"/TroveMarkets\" title=\"TROVE\">@TroveMarkets</a> deleted his socials during the night 😭\n\nIf you are resident in Dubai and got scammed, please DM me.\n\nHappy to help to open a criminal case in Dubai.",
       "publishedAt": "2026-01-20T06:30:00.000Z",
       "link": "https://x.com/Cbb0fe/status/2013499305605374461",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013493448423416181",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "genius 也算是2026年古典撸毛成功的第一个项目了，不论后面如何卷，成本多高，只要前两天跟着做的人没有偷懒的话，多多少少几千u是没问题的，而且几乎没成本。很多人会反驳阿三反撸，其实我觉得格局蛮大的，直接放出去了7500万积分。还增加了空投比例。而且cz顾问在这估值低不了。",
+      "contentHtml": "genius 也算是2026年古典撸毛成功的第一个项目了，不论后面如何卷，成本多高，只要前两天跟着做的人没有偷懒的话，多多少少几千u是没问题的，而且几乎没成本。很多人会反驳阿三反撸，其实我觉得格局蛮大的，直接放出去了7500万积分。还增加了空投比例。而且cz顾问在这估值低不了。",
+      "publishedAt": "2026-01-20T06:07:00.000Z",
+      "link": "https://x.com/0xleng1/status/2013493448423416181",
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "今年可以重拾古典撸毛了，感觉机会很多，让我们验证一下。\n\n也改变一下自己，勤快一点。每天都花一个小时把所有关注的推文都看完，了解一下每个项目方的计划，去年太懒了，今年行动力也得跟上。genius不是懒话手续费能省个七八百u了，积少成多。",
+        "link": "https://x.com/0xleng1/status/2012747048173375641"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013492585319350298",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "我华哥多久没发推了😭😭😭\n嘲讽盖茨的下场吗？\n盖茨下场要干华子了吗😭",
+      "contentHtml": "我华哥多久没发推了😭😭😭\n嘲讽盖茨的下场吗？\n盖茨下场要干华子了吗😭",
+      "publishedAt": "2026-01-20T06:03:00.000Z",
+      "link": "https://x.com/hazenlee/status/2013492585319350298",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_Fc1EuX0AACZmH.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013490038944997725",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "连老马都开始操心起中国人口持续下降的事，看来问题有点严重。人口下降即生育率长期低于死亡率，一旦形成趋势短期内就很难改变。现在的新婚夫妇婚后都不想，不愿，也不敢生孩子。\n\n别的地方我不知道，在上海一个普通家庭的孩子从出生到大学平均要花费100万人民币。但这也是平均数，因为上海中考就要剔除50%的孩子上不了高中，所以上高中和不上高中的孩子家庭的成本又完全不同，大头自然是课外辅导的培训费。\n\n我从身边的一些朋友家庭了解到，把一个孩子培养成才可能要付出300-400万的代价，如果走体制外（比如去美国藤校）那就更烧钱了，普通家庭根本承担不起。还不如不生，拿着钱满世界的吃喝玩乐多开心，还省了被老师在群里各种点名@的焦虑和苦恼。\n\n有时候我也在想，国家出什么样的相关政策才能改变这一趋势？比如，每多生一个娃，中考可以加10分？亦或是恢复一夫多妻制？反正我肯定上手赞成的，哈哈哈....\n\n毕竟人口和国运深度绑定，有人口才有国家经济的底蕴。",
+      "contentHtml": "连老马都开始操心起中国人口持续下降的事，看来问题有点严重。人口下降即生育率长期低于死亡率，一旦形成趋势短期内就很难改变。现在的新婚夫妇婚后都不想，不愿，也不敢生孩子。\n\n别的地方我不知道，在上海一个普通家庭的孩子从出生到大学平均要花费100万人民币。但这也是平均数，因为上海中考就要剔除50%的孩子上不了高中，所以上高中和不上高中的孩子家庭的成本又完全不同，大头自然是课外辅导的培训费。\n\n我从身边的一些朋友家庭了解到，把一个孩子培养成才可能要付出300-400万的代价，如果走体制外（比如去美国藤校）那就更烧钱了，普通家庭根本承担不起。还不如不生，拿着钱满世界的吃喝玩乐多开心，还省了被老师在群里各种点名@的焦虑和苦恼。\n\n有时候我也在想，国家出什么样的相关政策才能改变这一趋势？比如，每多生一个娃，中考可以加10分？亦或是恢复一夫多妻制？反正我肯定上手赞成的，哈哈哈....\n\n毕竟人口和国运深度绑定，有人口才有国家经济的底蕴。",
+      "publishedAt": "2026-01-20T05:53:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2013490038944997725",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_FVGgAXoAA890T.jpg"
+        }
+      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -1929,6 +2033,31 @@
         "displayName": "投资TALK君",
         "content": "看了cpi，前几个月数据缺失，噪音还是很大，加上也不是美联储重点关注的数据，不用过多解读。\n最近短时间需要关注的风险是日元去到159以上了，160是日本央行的底线，要开始打嘴炮了。",
         "link": "https://x.com/TJ_Research/status/2011123257664049403"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013053541712302426",
+      "username": "Phyrex_Ni",
+      "displayName": "Phyrex",
+      "avatar": "https://nitter.net/pic/profile_images%2F1596374669824696320%2FMGne6qLH_bigger.jpg",
+      "content": "第一：目前亚洲时间美股期货开盘了，晚上因为是假期所以美股不开盘。\n\n第二：亚洲时间风险市场开始避险，晚上欧美时间即便是美股不开盘，欧美的机构和投资者也会对 $BTC 做出反应。\n\n风险市场的下跌是因为欧美关税的问题，如果今天川解决了关税美股明天开盘会反弹，而如果没有，明天也很难说。",
+      "contentHtml": "第一：目前亚洲时间美股期货开盘了，晚上因为是假期所以美股不开盘。\n\n第二：亚洲时间风险市场开始避险，晚上欧美时间即便是美股不开盘，欧美的机构和投资者也会对 <a href=\"/search?q=%23BTC\">$BTC</a> 做出反应。\n\n风险市场的下跌是因为欧美关税的问题，如果今天川解决了关税美股明天开盘会反弹，而如果没有，明天也很难说。",
+      "publishedAt": "2026-01-19T00:58:00.000Z",
+      "link": "https://x.com/Phyrex_Ni/status/2013053541712302426",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
+      "quote": {
+        "username": "Phyrex_Ni",
+        "displayName": "Phyrex",
+        "content": "和预期一毛一样。风险市场开始避险了。首先是亚洲，晚上等着看欧美。",
+        "link": "https://x.com/Phyrex_Ni/status/2013049789215027250"
       },
       "stats": {
         "replies": 0,
@@ -4158,6 +4287,31 @@
           "url": "https://nitter.net/pic/orig/media%2FG-2Dz37bcAANbnY.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012408302010024176",
+      "username": "passluo",
+      "displayName": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤",
+      "avatar": "https://nitter.net/pic/profile_images%2F1597030973161422848%2FJrgJ5kiR_bigger.jpg",
+      "content": "看到李亚鹏嫣然医院欠房租 2500w 被告那个有点心酸\n\n那个，提醒下「嫣然基金」和「嫣然医院」是相互独立的机构\n\n我更建议大家直接捐款给「嫣然医院」\n\n这样他们能更快使用到这笔资金解决燃眉之急\n\n微信搜索「北京嫣然天使儿童医院」就有捐款入口\n\n给大家搞了一张流程图 ⬇️",
+      "contentHtml": "看到李亚鹏嫣然医院欠房租 2500w 被告那个有点心酸\n\n那个，提醒下「嫣然基金」和「嫣然医院」是相互独立的机构\n\n我更建议大家直接捐款给「嫣然医院」\n\n这样他们能更快使用到这笔资金解决燃眉之急\n\n微信搜索「北京嫣然天使儿童医院」就有捐款入口\n\n给大家搞了一张流程图 ⬇️",
+      "publishedAt": "2026-01-17T06:15:00.000Z",
+      "link": "https://x.com/passluo/status/2012408302010024176",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-2BBembcAAs9EA.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11542,156 +11696,6 @@
       "contentHtml": "结果真中了大奖\n我:这特么是我买的",
       "publishedAt": "2026-01-11T21:22:00.000Z",
       "link": "https://x.com/hazenlee/status/2010462409748840933",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010418290511032474",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "其实相比faker 更难打败的是ELO吧\ngrok如果能打败ELO就太舒服了",
-      "contentHtml": "其实相比faker 更难打败的是ELO吧\ngrok如果能打败ELO就太舒服了",
-      "publishedAt": "2026-01-11T18:27:00.000Z",
-      "link": "https://x.com/hazenlee/status/2010418290511032474",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-ZwxssaEAAvFgG.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010394745181241746",
-      "username": "0xPickleCati",
-      "displayName": "Pickle Cat",
-      "avatar": "https://nitter.net/pic/profile_images%2F1879537340080869376%2FPV5A5sD2_bigger.jpg",
-      "content": "Are you serious? @nikitabier \n\nTHIS racist slop targeting East Asians can get 18 million views?\n\nTry running this joke with racist, degraded stereotypes of JEWISH or BLACK people.\n\nIt will 100% be shadowbanned, with ZERO chance of ever reaching 18 million views.\n\nI understand X is about free speech.\n\nI support free speech.\n\nBut I don’t support “SELECTIVE FREE SPEECH” disguised as free speech for all.",
-      "contentHtml": "Are you serious? <a href=\"/nikitabier\" title=\"Nikita Bier\">@nikitabier</a> \n\nTHIS racist slop targeting East Asians can get 18 million views?\n\nTry running this joke with racist, degraded stereotypes of JEWISH or BLACK people.\n\nIt will 100% be shadowbanned, with ZERO chance of ever reaching 18 million views.\n\nI understand X is about free speech.\n\nI support free speech.\n\nBut I don’t support “SELECTIVE FREE SPEECH” disguised as free speech for all.",
-      "publishedAt": "2026-01-11T16:53:00.000Z",
-      "link": "https://x.com/0xPickleCati/status/2010394745181241746",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-ZbW-fWEAAP2v9.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010383211592118524",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "好久没见fuck china了\n以前17年每次大跌，hitBTC Bitmex聊天室满屏的fuck china",
-      "contentHtml": "好久没见fuck china了\n以前17年每次大跌，hitBTC Bitmex聊天室满屏的fuck china",
-      "publishedAt": "2026-01-11T16:08:00.000Z",
-      "link": "https://x.com/hazenlee/status/2010383211592118524",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-ZQ34Ca0AAPItb.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010381150498550046",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "好像歇火了？",
-      "contentHtml": "好像歇火了？",
-      "publishedAt": "2026-01-11T15:59:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2010381150498550046",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-ZO_qRa4AA9CdH.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "我知道你很急着空 #币安人生\n 但是你先别急，至少数据还在+",
-        "link": "https://x.com/Bitfatty/status/2010033210076585996",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-USi8YbgAAS3V3.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010370173610656169",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "#POL 触发日线超买...\n\nPOL从EMA21拐头后，头也不回，一路杀到EMA200均线压力位，同时还触发了超买信号。\n\n正常情况下，配到这套信号应该做空的，但是吧，鬼知道这玩意会不会突然来回5%的回首掏反弹，然后下跌...",
-      "contentHtml": "<a href=\"/search?q=%23POL\">#POL</a> 触发日线超买...\n\nPOL从EMA21拐头后，头也不回，一路杀到EMA200均线压力位，同时还触发了超买信号。\n\n正常情况下，配到这套信号应该做空的，但是吧，鬼知道这玩意会不会突然来回5%的回首掏反弹，然后下跌...",
-      "publishedAt": "2026-01-11T15:16:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2010370173610656169",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-ZEnLzb0AAyLjs.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010312619060846709",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://nitter.net/pic/profile_images%2F1801446030657142784%2FK0YAwUJw_bigger.jpg",
-      "content": "$BTC 自年初拉升至 94K 的技術壓力位後，目前出現一波回調，後續行情該如何應對 ?\n\nCoinKarma 於年初透過觀察場內關鍵因子，發現部分場內的資金行為已明顯出現轉折跡象，隨後 $BTC 成功拉升至 94K 的技術壓力位，成功捕捉近 10% 的漲幅。近期 $BTC 於觸及 94K 後出現回調，但從場內重要因子的表現來看，整體仍維持偏多，尚未出現轉弱訊號。\n\n以下將透過 Market Pulse Index 分析後續行情：\n✳️ Market Pulse Index：將 CoinKarma 的 11 種指標綜合計算加權而成。\n\n如圖，年初的這波拉升( A點 )，與前段時間的「 畫門行情 」明顯不同，多頭的拉升較有延續性，代表行情在超過一個月的盤整時間後，目前將有較大概率走出此盤整區間。\n\n我們透過 Market Pulse Index 進行分析，其包含市場整體流動性以及場內重要因子，可以發現 $BTC 目前在觸及 94K 回調後，整體數據與 A 點拉升前的數據相近，同時，A 點上漲至 94K 時，相關數據並未出現明顯過熱訊號，因此，後續行情將有較大的概率延續上漲，而需要注意的是，中長線仍偏空，做多尚需留意趨勢的潛在賣壓。\n\n想掌握即時的交易機會？立即加入 14 天免費試用   \n👉 coinkarma.co/zh-tw/pricing",
-      "contentHtml": "<a href=\"/search?q=%23BTC\">$BTC</a> 自年初拉升至 94K 的技術壓力位後，目前出現一波回調，後續行情該如何應對 ?\n\nCoinKarma 於年初透過觀察場內關鍵因子，發現部分場內的資金行為已明顯出現轉折跡象，隨後 <a href=\"/search?q=%23BTC\">$BTC</a> 成功拉升至 94K 的技術壓力位，成功捕捉近 10% 的漲幅。近期 <a href=\"/search?q=%23BTC\">$BTC</a> 於觸及 94K 後出現回調，但從場內重要因子的表現來看，整體仍維持偏多，尚未出現轉弱訊號。\n\n以下將透過 Market Pulse Index 分析後續行情：\n✳️ Market Pulse Index：將 CoinKarma 的 11 種指標綜合計算加權而成。\n\n如圖，年初的這波拉升( A點 )，與前段時間的「 畫門行情 」明顯不同，多頭的拉升較有延續性，代表行情在超過一個月的盤整時間後，目前將有較大概率走出此盤整區間。\n\n我們透過 Market Pulse Index 進行分析，其包含市場整體流動性以及場內重要因子，可以發現 <a href=\"/search?q=%23BTC\">$BTC</a> 目前在觸及 94K 回調後，整體數據與 A 點拉升前的數據相近，同時，A 點上漲至 94K 時，相關數據並未出現明顯過熱訊號，因此，後續行情將有較大的概率延續上漲，而需要注意的是，中長線仍偏空，做多尚需留意趨勢的潛在賣壓。\n\n想掌握即時的交易機會？立即加入 14 天免費試用   \n👉 <a href=\"https://coinkarma.co/zh-tw/pricing\">coinkarma.co/zh-tw/pricing</a>",
-      "publishedAt": "2026-01-11T11:27:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2010312619060846709",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-YQktpbMAAjOud.png"
-        }
-      ],
-      "quote": {
-        "username": "coinkarma_",
-        "displayName": "CoinKarma",
-        "content": "目前，加密貨幣市場回歸場內博弈階段，場內因子成為短線波動方向的關鍵\n\n在缺乏明確外部增量資金的情況下，目前加密市場以場內資金循環為主，短期的價格波動更多來自於場內資金流向與整體流動性的變化。而 CoinKarma 近期觀察到，市場在經歷一段震盪整理後，部分場內的資金行為已出現轉折跡象。\n\n以下將透過 USDC/USDT Premium、Overall LIQ 進一步判斷，在短線上，場內主導資金的真實動向：\n\n✳️USDC/USDT Premium：衡量 USDC 相對 USDT 的折溢價狀態，其變化可反映短線主導資金的進出方向，並與 BTC 的短期價格行為高度相關。\n✳️Overall LIQ：為整體市場加權的流動性指標。\n\n如圖，當 USDC/USDT Premium 轉為正值，代表 USDC 相對 USDT 出現溢價，其背後主要反映市場主導資金在 BTC/USDT 上的主動賣出行為明顯減弱，又將其搭配流動性指標 Overall LIQ 可以發現，當兩者共震時，容易形成震盪築底或反彈修復的階段－如圖中 A點、B點。\n\n目前，USDC/USDT Premium、Overall LIQ 兩者再次產生共振，短線上，有較大的機率形成築底反彈，需要注意的是，相較圖中 A點、B點，目前中長線仍是偏空，尚需留意趨勢的潛在賣壓。\n\n想掌握即時的交易機會？立即加入 14 天免費試用  \n👉 coinkarma.co/zh-tw/pricing",
-        "link": "https://x.com/coinkarma_/status/2006745642803278210",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG9lkY5IaMAU2_MV.png"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
