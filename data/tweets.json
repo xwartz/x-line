@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T03:18:24.365Z",
+  "lastUpdated": "2026-01-21T04:31:23.479Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -90,6 +90,150 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2013824286503367003",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "最后的体面，《最后的神矿》",
+      "contentHtml": "最后的体面，《最后的神矿》",
+      "publishedAt": "2026-01-21T04:01:00.000Z",
+      "link": "https://x.com/taresky/status/2013824286503367003",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_KKg7sbsAALErw.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013820317463134675",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "我們團隊對 CoinKarma 這套交易體系的 alpha 開發程度可能不到 10%。你沒聽錯，不到 10%。\n\n我自己開發了十幾個策略，最後活下來能跑得不錯的也就兩三個。在海量的資料中，要找出 pattern 並且識別出高勝率的交易機會是一件很難的事情，要做成量化策略就更難了。\n\n人工開發策略的瓶頸在於，一次只能測試一個假設，而且很容易被自己的直覺和偏見限制住搜索空間。想 idea、寫策略、回測、失敗、再想，這個循環太慢了。\n\n所以我們在做一個新東西：讓 AI 來做這件事。\n\n切入點是異常值。當我們的指標出現極端值或罕見組合時，代表市場正趨於某種極端狀態，這些時刻更可能是行情介入機會。我們讓 AI 去系統性地掃歷史上所有的異常時刻，看後面發生了什麼，找出人腦不可能窮舉的 pattern。\n\n以前是人去看數據、人去復盤。現在是系統直接對接過往數年的資料，自動找出高勝率高期望值的交易機會。\n\n具體怎麼挖？我們用 Claude Code 搭配一個叫 Ralph Loop 的 Plugin。流程是這樣：Claude Code 先執行自動化搜索，找出高勝率且有價值的指標樣態組合；找到後交給 Codex 用 GPT 5.2 進行 Review；Review 完產生 Feedback 回傳給 Claude Code 繼續迭代，直到品質達標才停。這套流程可以一口氣跑四、五個小時不中斷。\n\n這個專案去年底就開始做，但當時恰逢 1011 史上最大爆倉事件。我認為這種等級的大崩盤，事後的數據樣態和價格走勢很有研究價值，所以決定等三個月收集資料。現在差不多三個多月了，市場經歷了多次暴跌、反彈、洗盤等結構，這段資料對我們來說極有參考價值。\n\n這個專案叫做 CoinKarma Insight，終極目標是讓系統自動辨識出 pattern，用戶全自動下單，告別人眼復盤跟手動開單。別人 vibe coding，我們 vibe trading。",
+      "contentHtml": "我們團隊對 CoinKarma 這套交易體系的 alpha 開發程度可能不到 10%。你沒聽錯，不到 10%。\n\n我自己開發了十幾個策略，最後活下來能跑得不錯的也就兩三個。在海量的資料中，要找出 pattern 並且識別出高勝率的交易機會是一件很難的事情，要做成量化策略就更難了。\n\n人工開發策略的瓶頸在於，一次只能測試一個假設，而且很容易被自己的直覺和偏見限制住搜索空間。想 idea、寫策略、回測、失敗、再想，這個循環太慢了。\n\n所以我們在做一個新東西：讓 AI 來做這件事。\n\n切入點是異常值。當我們的指標出現極端值或罕見組合時，代表市場正趨於某種極端狀態，這些時刻更可能是行情介入機會。我們讓 AI 去系統性地掃歷史上所有的異常時刻，看後面發生了什麼，找出人腦不可能窮舉的 pattern。\n\n以前是人去看數據、人去復盤。現在是系統直接對接過往數年的資料，自動找出高勝率高期望值的交易機會。\n\n具體怎麼挖？我們用 Claude Code 搭配一個叫 Ralph Loop 的 Plugin。流程是這樣：Claude Code 先執行自動化搜索，找出高勝率且有價值的指標樣態組合；找到後交給 Codex 用 GPT 5.2 進行 Review；Review 完產生 Feedback 回傳給 Claude Code 繼續迭代，直到品質達標才停。這套流程可以一口氣跑四、五個小時不中斷。\n\n這個專案去年底就開始做，但當時恰逢 1011 史上最大爆倉事件。我認為這種等級的大崩盤，事後的數據樣態和價格走勢很有研究價值，所以決定等三個月收集資料。現在差不多三個多月了，市場經歷了多次暴跌、反彈、洗盤等結構，這段資料對我們來說極有參考價值。\n\n這個專案叫做 CoinKarma Insight，終極目標是讓系統自動辨識出 pattern，用戶全自動下單，告別人眼復盤跟手動開單。別人 vibe coding，我們 vibe trading。",
+      "publishedAt": "2026-01-21T03:45:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2013820317463134675",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013817596043198666",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "學習任何領域最快的方式，永遠都是去解決一個實際的問題，而非紙上談兵。",
+      "contentHtml": "學習任何領域最快的方式，永遠都是去解決一個實際的問題，而非紙上談兵。",
+      "publishedAt": "2026-01-21T03:35:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2013817596043198666",
+      "quote": {
+        "username": "BensonTWN",
+        "displayName": "Benson Sun",
+        "content": "You don’t master AI by studying it.\nYou master AI by using it to solve real problems.\n\nWithout pressure, AI stays a chat tool.\nWith pressure, it becomes a builder, analyst, or operator.\n\nWithout deadlines, MCP and multi-agent systems feel complex.\nWith deadlines, they become obvious.\n\nWhen failure is cheap, learning stays theoretical.\nWhen failure is costly, understanding becomes urgent.\n\nThe learning curve flattens when mistakes are no longer optional.",
+        "link": "https://x.com/BensonTWN/status/2013817123857223749"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013817457824407891",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "以前的山寨为什么能赚大钱\n\n因为有大傻逼会花几百万几千万 u 买，机构也信也买，还有海量的散户也信 \n\n现在没有  只有聪明的 00后在 p ，没钱的散户不死心的赌一把  和 老鼠仓听床搞个新地址买点",
+      "contentHtml": "以前的山寨为什么能赚大钱\n\n因为有大傻逼会花几百万几千万 u 买，机构也信也买，还有海量的散户也信 \n\n现在没有  只有聪明的 00后在 p ，没钱的散户不死心的赌一把  和 老鼠仓听床搞个新地址买点",
+      "publishedAt": "2026-01-21T03:34:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2013817457824407891",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_KETAZaoAYkkE0.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013817123857223749",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "You don’t master AI by studying it.\nYou master AI by using it to solve real problems.\n\nWithout pressure, AI stays a chat tool.\nWith pressure, it becomes a builder, analyst, or operator.\n\nWithout deadlines, MCP and multi-agent systems feel complex.\nWith deadlines, they become obvious.\n\nWhen failure is cheap, learning stays theoretical.\nWhen failure is costly, understanding becomes urgent.\n\nThe learning curve flattens when mistakes are no longer optional.",
+      "contentHtml": "You don’t master AI by studying it.\nYou master AI by using it to solve real problems.\n\nWithout pressure, AI stays a chat tool.\nWith pressure, it becomes a builder, analyst, or operator.\n\nWithout deadlines, MCP and multi-agent systems feel complex.\nWith deadlines, they become obvious.\n\nWhen failure is cheap, learning stays theoretical.\nWhen failure is costly, understanding becomes urgent.\n\nThe learning curve flattens when mistakes are no longer optional.",
+      "publishedAt": "2026-01-21T03:33:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2013817123857223749",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013817018806395192",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "大家有没有什么捐助老人的公益渠道推荐？\n\n捐助孩子的有挺多了，针对老人的似乎没有“品牌”做的比较出色。",
+      "contentHtml": "大家有没有什么捐助老人的公益渠道推荐？\n\n捐助孩子的有挺多了，针对老人的似乎没有“品牌”做的比较出色。",
+      "publishedAt": "2026-01-21T03:32:00.000Z",
+      "link": "https://x.com/taresky/status/2013817018806395192",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013815936261017625",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "ETH 波段大户扎堆撤退了，三天跌没 400 刀还是太肉痛\n\n🟩2025.12.20：$2985 买入 5678 ETH（1695 万美元）\n🟥9 小时前：$2998.49 抛售 3380.4 ETH，获利 4.2 万美元\n⬜剩余 2298 枚浮亏 3.23 万美元\n\n谁能想到两天前还浮盈 217.9 万美元，现在估计是想着不亏就不错了\n\n建仓地址 intel.arkm.com/explorer/addr…\n抛售地址 intel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
+      "contentHtml": "ETH 波段大户扎堆撤退了，三天跌没 400 刀还是太肉痛\n\n🟩2025.12.20：$2985 买入 5678 ETH（1695 万美元）\n🟥9 小时前：$2998.49 抛售 3380.4 ETH，获利 4.2 万美元\n⬜剩余 2298 枚浮亏 3.23 万美元\n\n谁能想到两天前还浮盈 217.9 万美元，现在估计是想着不亏就不错了\n\n建仓地址 <a href=\"https://intel.arkm.com/explorer/address/0x0741C7e02d097383861A2c8B9BF7593503B9B748\">intel.arkm.com/explorer/addr…</a>\n抛售地址 <a href=\"https://intel.arkm.com/explorer/address/0x18B44C68eA2Cd6B1E59731af8e49E62e90E92E66\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助 |上 Gate App 抢黄金",
+      "publishedAt": "2026-01-21T03:28:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2013815936261017625",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_KC6NwbcAAJicV.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013813801921945779",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "更正：9万的GEX目前是11.7亿（不是5.9亿），那这个规模还可以，不算小，就看能不能拉回来了",
+      "contentHtml": "更正：9万的GEX目前是11.7亿（不是5.9亿），那这个规模还可以，不算小，就看能不能拉回来了",
+      "publishedAt": "2026-01-21T03:19:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2013813801921945779",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2013803475130556810",
       "username": "ai_9684xtpa",
@@ -419,6 +563,25 @@
             "url": "https://nitter.net/pic/orig/media%2FG_F81NDWEAAWi20.png"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013752920769208627",
+      "username": "MattMahanSJ",
+      "displayName": "Mayor Matt Mahan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1649116637147316224%2Fqbd1tO_f_bigger.jpg",
+      "content": "Residents overwhelmingly passed Prop 36 — but you wouldn’t know it if you looked at our streets today. Rather than carry out the will of the voters, Sacramento has refused to fund the measure, effectively setting it up to fail. That’s not what the people voted for — and it’s not a decision lawmakers should get to make after the fact. When voters approve a measure, implementation isn’t optional. Budgets are a reflection of our values. And if we’re not willing to prioritize public safety, treatment, and accountability with real dollars, then we’re choosing dysfunction over results.",
+      "contentHtml": "Residents overwhelmingly passed Prop 36 — but you wouldn’t know it if you looked at our streets today. Rather than carry out the will of the voters, Sacramento has refused to fund the measure, effectively setting it up to fail. That’s not what the people voted for — and it’s not a decision lawmakers should get to make after the fact. When voters approve a measure, implementation isn’t optional. Budgets are a reflection of our values. And if we’re not willing to prioritize public safety, treatment, and accountability with real dollars, then we’re choosing dysfunction over results.",
+      "publishedAt": "2026-01-20T23:18:00.000Z",
+      "link": "https://x.com/MattMahanSJ/status/2013752920769208627",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -1047,6 +1210,31 @@
           "url": "https://nitter.net/pic/orig/media%2FG_HG-VzXsAAwHtY.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2013604705117622555",
+      "username": "Falliblemusings",
+      "displayName": "Anders K.",
+      "avatar": "https://nitter.net/pic/profile_images%2F2009245629302648832%2FQJ5348GO_bigger.jpg",
+      "content": "I used to think Sapiens was a great book. Sweeping, provocative, the kind of book that makes you feel like you finally understand the big picture of human history. It's on every CEO's bookshelf, assigned in universities, praised as a masterwork of synthesis. Yuval Noah Harari is treated as one of the serious thinkers of our time.\n\nBut something nagged at me. Some passages felt off. Claims that human rights are just figments of our collective imagination, not real things, just stories we tell ourselves. That nations, laws, money, justice, doesn't exist outside our heads. That meaning itself is a delusion we've invented to cope. That we're far more powerful than ever before but not happier. That hunter-gatherers had it better because they had no dishes to wash, no carpets to vacuum, no nappies to change, no bills to pay.\n\nThat sounded depressing to me, but was perhaps just the realistic scientific worldview? What it meant to see the world clearly, without comforting illusions.\n\nThen I read The Beginning of Infinity by  @DavidDeutschOxf. Deutsch has a concept he calls 'bad philosophy.' Not philosophy that's merely false, but philosophy that actively prevents the growth of knowledge. Ideas that close doors rather than open them. That makes problems seem unsolvable by design.\nAfter soaking in Deutsch's framework (it's dense, a bit like digesting a delicious whale), it becomes clear: Harari's books are riddled with bad philosophy. They're smuggling nihilism in under the guise of scientific objectivity. Some examples:\n\nOn meaning: \"Human life has absolutely no meaning. Humans are the outcome of blind evolutionary processes that operate without goal or purpose... any meaning that people inscribe to their lives is just a delusion.\"\n\nOn human rights: \"There are no gods in the universe, no nations, no money, no human rights, no laws, and no justice outside the common imagination of human beings.\"\n\nOn free will: \"Humans are now hackable animals. The idea that humans have this soul or spirit and they have free will, that's over.\"\n\nOn progress: \"We thought we were saving time; instead we revved up the treadmill of life to ten times its former speed.\" The Agricultural Revolution? \"History's biggest fraud.\" We didn't domesticate wheat, \"it domesticated us.\"\n\nOn our cosmic significance: \"If planet Earth were to blow up tomorrow morning, the universe would probably keep going about its business as usual. Human subjectivity would not be missed.\"\n\nOn the future: \"Those who fail in the struggle against irrelevance would constitute a new 'useless class.'\" Homo sapiens will likely \"disappear in a century or two.\"\n\nThis is bad philosophy. It tells us our problems are cosmically insignificant, our solutions are illusions, and that progress is neither desirable nor within our control. It's also perfect nonsense. No one would ever go back to being hunter-gatherers. Would you rather worry about your kid spending too much time on Roblox, or face the 50% chance she won't reach puberty?\n\nAnd our so-called \"fictions\"? They ended slavery. They gave women equal rights. They solved hunger. They eradicated smallpox. They turned sand into computer chips. They got us to the moon, and hopefully soon, to Mars and beyond. These \"fictions\" are already reshaping the universe, and over time they may become the most potent force in it.\n\nNow compare Deutsch:\n\"Humans, people and knowledge are not only objectively significant: they are by far the most significant phenomena in nature.\"\n\n\"Feeling insignificant because the universe is large has exactly the same logic as feeling inadequate for not being a cow.\"\n\n\"Problems are soluble, and each particular evil is a problem that can be solved.\"\n\n\"We are only just scratching the surface, and shall never be doing anything else. If unlimited progress really is going to happen, not only are we now at almost the very beginning of it, we always shall be.\"\n\nWhere Harari sees a species of deluded apes stumbling toward obsolescence, Deutsch sees universal explainers, the only entities we know of capable of creating explanatory knowledge, solving problems, and potentially seeding the universe with intelligence.\n\nThe difference isn't academic. Ideas shape action. If you believe life is meaningless, progress is a trap, and humans are hackable animals with no free will, how does that affect what you build? What you fight for? What you teach your children?\n\nHarari's books sell because they flatter a fashionable pessimism. They let readers feel sophisticated for seeing through the \"delusions\" everyone else lives by. That smug cynicism is corrosive. And it's everywhere: in schools, in media, in bestselling books. More than half of young adults now say they feel little to no purpose or meaning in life. This is what happens when you teach an entire generation bad philosophy. Less progress, less health, less wealth. Less flourishing. And ultimately, a higher chance that civilization and consciousness go extinct.\n\nFortunately, there's another equally well-written, but much truer, account of homo sapiens, appropriately titled 'The Beginning of Infinity'. And this one smuggles no despair in by the backdoor. But let's give Harari credit where it's due. He is right about one thing: if planet Earth blew up tomorrow, we wouldn't be missed. Because there'd be no one left to miss us, just a careless universe, blindly obeying physical laws. We are the only ones who can miss, but we're not going to. We're going to aim, hit, and keep going. \n\nFull credit for the amazing meme to @Ben__Jeff",
+      "contentHtml": "I used to think Sapiens was a great book. Sweeping, provocative, the kind of book that makes you feel like you finally understand the big picture of human history. It's on every CEO's bookshelf, assigned in universities, praised as a masterwork of synthesis. Yuval Noah Harari is treated as one of the serious thinkers of our time.\n\nBut something nagged at me. Some passages felt off. Claims that human rights are just figments of our collective imagination, not real things, just stories we tell ourselves. That nations, laws, money, justice, doesn't exist outside our heads. That meaning itself is a delusion we've invented to cope. That we're far more powerful than ever before but not happier. That hunter-gatherers had it better because they had no dishes to wash, no carpets to vacuum, no nappies to change, no bills to pay.\n\nThat sounded depressing to me, but was perhaps just the realistic scientific worldview? What it meant to see the world clearly, without comforting illusions.\n\nThen I read The Beginning of Infinity by  <a href=\"/DavidDeutschOxf\" title=\"David Deutsch\">@DavidDeutschOxf</a>. Deutsch has a concept he calls 'bad philosophy.' Not philosophy that's merely false, but philosophy that actively prevents the growth of knowledge. Ideas that close doors rather than open them. That makes problems seem unsolvable by design.\nAfter soaking in Deutsch's framework (it's dense, a bit like digesting a delicious whale), it becomes clear: Harari's books are riddled with bad philosophy. They're smuggling nihilism in under the guise of scientific objectivity. Some examples:\n\nOn meaning: \"Human life has absolutely no meaning. Humans are the outcome of blind evolutionary processes that operate without goal or purpose... any meaning that people inscribe to their lives is just a delusion.\"\n\nOn human rights: \"There are no gods in the universe, no nations, no money, no human rights, no laws, and no justice outside the common imagination of human beings.\"\n\nOn free will: \"Humans are now hackable animals. The idea that humans have this soul or spirit and they have free will, that's over.\"\n\nOn progress: \"We thought we were saving time; instead we revved up the treadmill of life to ten times its former speed.\" The Agricultural Revolution? \"History's biggest fraud.\" We didn't domesticate wheat, \"it domesticated us.\"\n\nOn our cosmic significance: \"If planet Earth were to blow up tomorrow morning, the universe would probably keep going about its business as usual. Human subjectivity would not be missed.\"\n\nOn the future: \"Those who fail in the struggle against irrelevance would constitute a new 'useless class.'\" Homo sapiens will likely \"disappear in a century or two.\"\n\nThis is bad philosophy. It tells us our problems are cosmically insignificant, our solutions are illusions, and that progress is neither desirable nor within our control. It's also perfect nonsense. No one would ever go back to being hunter-gatherers. Would you rather worry about your kid spending too much time on Roblox, or face the 50% chance she won't reach puberty?\n\nAnd our so-called \"fictions\"? They ended slavery. They gave women equal rights. They solved hunger. They eradicated smallpox. They turned sand into computer chips. They got us to the moon, and hopefully soon, to Mars and beyond. These \"fictions\" are already reshaping the universe, and over time they may become the most potent force in it.\n\nNow compare Deutsch:\n\"Humans, people and knowledge are not only objectively significant: they are by far the most significant phenomena in nature.\"\n\n\"Feeling insignificant because the universe is large has exactly the same logic as feeling inadequate for not being a cow.\"\n\n\"Problems are soluble, and each particular evil is a problem that can be solved.\"\n\n\"We are only just scratching the surface, and shall never be doing anything else. If unlimited progress really is going to happen, not only are we now at almost the very beginning of it, we always shall be.\"\n\nWhere Harari sees a species of deluded apes stumbling toward obsolescence, Deutsch sees universal explainers, the only entities we know of capable of creating explanatory knowledge, solving problems, and potentially seeding the universe with intelligence.\n\nThe difference isn't academic. Ideas shape action. If you believe life is meaningless, progress is a trap, and humans are hackable animals with no free will, how does that affect what you build? What you fight for? What you teach your children?\n\nHarari's books sell because they flatter a fashionable pessimism. They let readers feel sophisticated for seeing through the \"delusions\" everyone else lives by. That smug cynicism is corrosive. And it's everywhere: in schools, in media, in bestselling books. More than half of young adults now say they feel little to no purpose or meaning in life. This is what happens when you teach an entire generation bad philosophy. Less progress, less health, less wealth. Less flourishing. And ultimately, a higher chance that civilization and consciousness go extinct.\n\nFortunately, there's another equally well-written, but much truer, account of homo sapiens, appropriately titled 'The Beginning of Infinity'. And this one smuggles no despair in by the backdoor. But let's give Harari credit where it's due. He is right about one thing: if planet Earth blew up tomorrow, we wouldn't be missed. Because there'd be no one left to miss us, just a careless universe, blindly obeying physical laws. We are the only ones who can miss, but we're not going to. We're going to aim, hit, and keep going. \n\nFull credit for the amazing meme to <a href=\"/Ben__Jeff\" title=\"Ben 🦉\">@Ben__Jeff</a>",
+      "publishedAt": "2026-01-20T13:29:00.000Z",
+      "link": "https://x.com/Falliblemusings/status/2013604705117622555",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_G4YfsWgAA9uXi.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10825,31 +11013,6 @@
       }
     },
     {
-      "id": "2011061526518776325",
-      "username": "Austen",
-      "displayName": "Austen Allred",
-      "avatar": "https://nitter.net/pic/profile_images%2F1608281295918096385%2FD2kh-M28_bigger.jpg",
-      "content": "A conversation I had with the founder of a company anyone in tech would recognize.\n\nThe California wealth tax, as currently written, would literally take 100% of his net worth and leave him dead broke.\n\nThis is insanity.",
-      "contentHtml": "A conversation I had with the founder of a company anyone in tech would recognize.\n\nThe California wealth tax, as currently written, would literally take 100% of his net worth and leave him dead broke.\n\nThis is insanity.",
-      "publishedAt": "2026-01-13T13:03:00.000Z",
-      "link": "https://x.com/Austen/status/2011061526518776325",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-i2eSdWEAErQVe.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2011058536223293478",
       "username": "follow_clues",
       "displayName": "Theclues",
@@ -11361,215 +11524,6 @@
         "content": "1/ Physical cards are here! Order yours today 🎉\n\nCore, Luxe and Pinnacle cards can now be ordered directly form the website. VIP and corporate cards will be enabled soon.\n\nLearn how it works ↓",
         "link": "https://x.com/ether_fi/status/2010784478374084921"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010930980559962333",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "25年12月10日的推文中，我们测算了当时如果要让PSIP低于50%，BTC的价格要降至$62,000（见引文）。在此前11月20日测算的结果是当价格跌至$59,000，才会让PSIP低于50%。而昨天，我又重新进行了测算，结果仍然是$62,000。\n\n（图1）\n\n这其中隐含的信息是：从11月20日到12月10日这段时间，有大量的低位筹码被换到了高位（获利了结），使得筹码整体成本上升。而从12月10日到1月12日期间，低换高的数量大幅减少，整体成本几乎没变，因此还是6.2w美元。\n\n（图2）\n\n从过去10年的数据来看，当BTC经历重大挫折PSIP都会大幅下降，但相比与前一次“底部”是越来越高的。比如，19年是40%，3.12黑天鹅是45%，ftx暴雷是50%......这说明BTC的“抗击打能力”越来越强了。因此，我们完全有理由相信2026年的底部重构，PSIP很可能会高于50%！\n\n我们假设是55%，那么按当前条件测算出的BTC价格为$72,000；也就是说，未来的底部区间其合理范围应该在$62,000-$72,000，或是$72,000以上；\n\n（图3）\n\n巧合的是，在英文社区有国外分析师画出了一张“比特币幂律（Power Law）价格模型”图，随着时间的推移，BTC价格偏离度回归幂律下轨时，正好与我推算的价格区间重合。\n\n只是方法和角度不同，但这绝不是凭空预测，而是时间赋予 BTC的一个“宏观成本锚 + 时间函数”的动态中枢。短期可以失真，但长期很难违背。\n\n（为了避免理解误会，需要补充一句：并不是预测BTC在2026年会跌到什么价格，而是说如果发生底部重构，其合理的区间会在哪里？）\n\n----------------------------------------------\nBitget VIP，费率更低，福利更狠",
-      "contentHtml": "25年12月10日的推文中，我们测算了当时如果要让PSIP低于50%，BTC的价格要降至$62,000（见引文）。在此前11月20日测算的结果是当价格跌至$59,000，才会让PSIP低于50%。而昨天，我又重新进行了测算，结果仍然是$62,000。\n\n（图1）\n\n这其中隐含的信息是：从11月20日到12月10日这段时间，有大量的低位筹码被换到了高位（获利了结），使得筹码整体成本上升。而从12月10日到1月12日期间，低换高的数量大幅减少，整体成本几乎没变，因此还是6.2w美元。\n\n（图2）\n\n从过去10年的数据来看，当BTC经历重大挫折PSIP都会大幅下降，但相比与前一次“底部”是越来越高的。比如，19年是40%，3.12黑天鹅是45%，ftx暴雷是50%......这说明BTC的“抗击打能力”越来越强了。因此，我们完全有理由相信2026年的底部重构，PSIP很可能会高于50%！\n\n我们假设是55%，那么按当前条件测算出的BTC价格为$72,000；也就是说，未来的底部区间其合理范围应该在$62,000-$72,000，或是$72,000以上；\n\n（图3）\n\n巧合的是，在英文社区有国外分析师画出了一张“比特币幂律（Power Law）价格模型”图，随着时间的推移，BTC价格偏离度回归幂律下轨时，正好与我推算的价格区间重合。\n\n只是方法和角度不同，但这绝不是凭空预测，而是时间赋予 BTC的一个“宏观成本锚 + 时间函数”的动态中枢。短期可以失真，但长期很难违背。\n\n（为了避免理解误会，需要补充一句：并不是预测BTC在2026年会跌到什么价格，而是说如果发生底部重构，其合理的区间会在哪里？）\n\n----------------------------------------------\nBitget VIP，费率更低，福利更狠",
-      "publishedAt": "2026-01-13T04:24:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2010930980559962333",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-g5q1KbwAAW2T_.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-g88TEbQAEAcx6.png"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-g_nWBbQAEUAls.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "在11/22-11/23期间，BTC的PSIP（盈利供应百分比）曾经一度跌破了65%的“荣枯线”，当时这是一个比较危险的信号，因为即便在21年5.19事件发生后，BTC在一轮急跌也未让PSIP低于这根线。直到22年4月最终跌破后，BTC才实质性的踏入深熊阶段。\n\n因此我们在11月20日的推文中也再次提到当情绪被极致压缩后出现反弹的可能性。当前，PSIP已暂时回到了67.6%，但仍然处于65%-70%这样一个“上下五五开”的狭小区间内。向上可以适度恢复信心，向下又将引发恐慌。\n\n（图1）\n\n这里还有一个有意思的变化值得和小伙伴们分享：\n\n上一次大家观察仔细，发现每当PSIP < 50%时都是大周期的熊底区间（18年12月到41%，22年12月到47%），因此有小伙伴希望我可以反推出本轮周期如果要让PSIP低于50%，BTC的价格会是多少？\n\n就如引文中我也解释了这是一个动态值，取决于筹码在价格变化中如何换手。但如果假设低位筹码都不再卖出，那么当价格跌至$59,000时，让PSIP低于50%。\n\n而现在，这个价格不是$59,000了，而是$62,000！\n\n换言之，随着筹码不断换手，如果以PSIP=50%作为熊市抄底区间的定价范围的话，未来至少会在$62,000以上。意味着低于$62,000的BTC将是具备极高的性价比和确定性（这在英文社区会很多分析师都能分析的出来）。\n\n对我而言，这只是一个大致的预期范围。然而，我并不会押注2026年一定能到，但会把它作为一种需要应对的可能性纳入我的交易计划中。无论市场风向如何变，舆论怎么说，要做的只是耐心等待并坚定的执行。\n\n----------------------------------------------\n本文由 @Bitget 赞助｜\nBitget VIP，费率更低，福利更狠",
-        "link": "https://x.com/Murphychen888/status/1998558286128238969",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG7vIahXaEAAu-C0.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010916016461922666",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "为什么你会一而再再而三扛单，直到爆仓？\n\n人在面对非理性亏损会触发巨大的应激痛苦。\n\n此时，大脑会启动双重机制：释放类似‘镇痛剂’的内啡肽，让你暂时麻木，继续扛单，而分泌多巴胺，给你注入强烈的自我美化行为的冲动，比如：“大佬都是扛单才暴富的”的错觉...\n\n最终病态兴奋感就出现了...",
-      "contentHtml": "为什么你会一而再再而三扛单，直到爆仓？\n\n人在面对非理性亏损会触发巨大的应激痛苦。\n\n此时，大脑会启动双重机制：释放类似‘镇痛剂’的内啡肽，让你暂时麻木，继续扛单，而分泌多巴胺，给你注入强烈的自我美化行为的冲动，比如：“大佬都是扛单才暴富的”的错觉...\n\n最终病态兴奋感就出现了...",
-      "publishedAt": "2026-01-13T03:25:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2010916016461922666",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010907891478511701",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
-      "content": "Ecosystems take decades to grow, but only an instant to burn down.",
-      "contentHtml": "Ecosystems take decades to grow, but only an instant to burn down.",
-      "publishedAt": "2026-01-13T02:52:00.000Z",
-      "link": "https://x.com/naval/status/2010907891478511701",
-      "quote": {
-        "username": "jasonlk",
-        "displayName": "Jason ✨👾SaaStr.Ai✨ Lemkin",
-        "content": "My take on California’s “One-Time” Billionaire Tax.  It’s much worse than it looks.\n\n📉 Will it pass? Yes, likely.  \n\nIt only needs 50%+1 voter approval. SEIU + CTA have done this before—Prop 55 won 63% in 2016.\n\n⚖️ Will it get tied up in litigation?\n\nAlmost certainly. Retroactive wealth tax on a tax type CA has never had = due process challenges. Billionaires have the legal budgets for years of fights.\n\n👋 But it’s clearly … only the start.  The goal is an annual tax, not one-time.  And the target is $25m-50m net worth folks, including illiquid foldings (early stage founders raising a Series B).\n\nThe “one-time” framing is strategic, not terminal.\n\nThe same coalition (CTA, CFT, SEIU) already has AB 259 written—an >annual< 1% wealth tax at a >$50M threshold<, with plans to go to $25M. It’s been introduced 3 years running.\n\nThe one-time tax removes the constitutional barrier. Once that’s gone, the annual version becomes a much easier ballot measure.\n\n🔃 CA Policy Center said: “If SEIU hopes to keep Medi-Cal spending growing, it may need to place repeated wealth taxes on the ballot—potentially lowering the threshold as billionaires flee.”\n\nThe real risk for founders:\n\nAt $1B, you’re taxing ~200 people. At $50M, you’re taxing 23,000 households—including most successful founders on paper before any liquidity event.\n\nThe rational move isn’t to leave when you hit the threshold. It’s to leave—or never incorporate in CA—before you get anywhere close. \n\n✈️ Net net: it will make sense to leave before the Series B.\n\nVinod Khosla nailed it: “Even people who don’t expect this initiative to pass are still planning to leave because there will be another one.”\n\nThe one-time tax is the constitutional Trojan horse. The annual tax — at a much lower threshold —  is already waiting inside.",
-        "link": "https://x.com/jasonlk/status/2010457619492966836"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010906067753226297",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "前陣子在新加坡認識了一位馬來西亞籍的眼科醫生大叔，他現在在新加坡的醫院開診所。\n\n閒聊之間，他跟我分享了幾個故事，讓我印象深刻。\n\n他說，以前在馬來西亞看診時，常遇到一種現象。\n\n馬來西亞是個很重視階級的社會，像「拿督」這樣的頭銜，連車牌都跟一般人不一樣。而他的診間裡，也常常有人一進來就報身份：「我是拿督的老婆」、「我是部長的外甥」，然後希望用這個身份，提升開刀的順位。\n\n這位大叔的處理方式很妙。\n\n他表面上都會說好好好，沒問題。但實際上，他把這些想走特權的人，全部排到最後面。\n\n對方還以為自己得到禮遇，殊不知正在接受懲罰。\n\n還有另一個故事。\n\n他們醫院的院長，頭銜是「丹斯里」(Tan Sri)，這是比拿督更高的等級。有一次，院長的秘書來跟他說，院長什麼時候要見他。\n\n他直接回：「我那個時間沒空，能不能換個時間？」\n\n秘書整個傻眼，再次強調：「這可是 Tan Sri 要見你。」（秘書已經習慣了單方面約時間）\n\n他說：「我知道院長是 Tan Sri，但我那個時間有手術，我對病人要有交代，請他改個時間吧。」\n\n-----\n\n聽完這兩個故事，我問他：「你怎麼這麼敢？」\n\n他的回答很直接。\n\n他說，他很討厭那種藉著身份特權，到處行各種方便的人。\n\n「你是拿督，我就要幫你調開刀順位？放屁。那些乖乖排隊的病人，他們的命就比較不重要嗎？」\n\n「你是 Tan Sri，你就有權利單方面決定什麼時候見面，完全不用管我的時間？」\n\n他還說，他有一個快速判斷一個人值不值得交往的方法。\n\n如果一個有頭銜的人，第一次見面開口就是：「我是拿督某某某」，而不是單純自報姓名，他就懶得理對方了。\n\n你是拿督，所以呢？我又不靠你吃飯。你第一句話就報頭銜，是想暗示什麼？是想讓我對你另眼相看，還是先打預防針，等等要我幫你開後門？\n\n一個人如果習慣用頭銜開場，某種程度上代表他已經習慣了靠這個身份換取好處。這種人，通常也沒什麼意思。\n\n------\n\n講到這裡，你可能會誤以為這位眼科醫生大叔，是個性格剛烈、甚至有點狂傲不羈的人。\n\n但恰恰相反。\n\n我跟他差了整整 20 歲，但他真的是我看過最酷的人之一。在我跟他面對面交流的時候，他從沒擺出過任何架子，反而給人一種非常舒服的鬆弛感。他並沒有因為自己是醫生，就覺得高人一等，或者對晚輩指指點點。\n\n相反地，他戴著一副粗黑框眼鏡，穿著純色潮T配短褲跟拖鞋，外表看起來比他實際年齡年輕了至少 10 歲以上，看起來就像個鬆弛感點滿的潮男。\n\n他還笑著跟我說，他哥哥是個律師，但是個渾身都是刺青的律師。他開玩笑說：「我們家專門出產看起來不像專業人士的專業人士。」\n\n那天我們還聊了很多關於加密貨幣的話題。按照過往經驗，像他這種傳統菁英背景出身的人，通常聽到幣圈，都會先入為主的帶著有色眼鏡，或者覺得這就是旁門左道。\n\n但他完全沒有。他充滿好奇，客觀地與我交流觀點，沒有偏見，也沒有傲慢。\n\n我慢慢能理解，為什麼我們能聊得這麼深入，為什麼能成為朋友。\n\n因為我們都不在乎對方的頭銜或背景。他不會因為我是做幣圈的就先貼標籤，我也不會因為他是醫生就端著距離。我們就只是兩個人，聊各自感興趣的事，交換彼此真實的看法。\n\n這種交流太稀有了。\n\n在這個充滿標籤與階級的社會裡，還有什麼比一個「不被頭銜綁架、只對事不對人」的靈魂更酷的呢？",
-      "contentHtml": "前陣子在新加坡認識了一位馬來西亞籍的眼科醫生大叔，他現在在新加坡的醫院開診所。\n\n閒聊之間，他跟我分享了幾個故事，讓我印象深刻。\n\n他說，以前在馬來西亞看診時，常遇到一種現象。\n\n馬來西亞是個很重視階級的社會，像「拿督」這樣的頭銜，連車牌都跟一般人不一樣。而他的診間裡，也常常有人一進來就報身份：「我是拿督的老婆」、「我是部長的外甥」，然後希望用這個身份，提升開刀的順位。\n\n這位大叔的處理方式很妙。\n\n他表面上都會說好好好，沒問題。但實際上，他把這些想走特權的人，全部排到最後面。\n\n對方還以為自己得到禮遇，殊不知正在接受懲罰。\n\n還有另一個故事。\n\n他們醫院的院長，頭銜是「丹斯里」(Tan Sri)，這是比拿督更高的等級。有一次，院長的秘書來跟他說，院長什麼時候要見他。\n\n他直接回：「我那個時間沒空，能不能換個時間？」\n\n秘書整個傻眼，再次強調：「這可是 Tan Sri 要見你。」（秘書已經習慣了單方面約時間）\n\n他說：「我知道院長是 Tan Sri，但我那個時間有手術，我對病人要有交代，請他改個時間吧。」\n\n-----\n\n聽完這兩個故事，我問他：「你怎麼這麼敢？」\n\n他的回答很直接。\n\n他說，他很討厭那種藉著身份特權，到處行各種方便的人。\n\n「你是拿督，我就要幫你調開刀順位？放屁。那些乖乖排隊的病人，他們的命就比較不重要嗎？」\n\n「你是 Tan Sri，你就有權利單方面決定什麼時候見面，完全不用管我的時間？」\n\n他還說，他有一個快速判斷一個人值不值得交往的方法。\n\n如果一個有頭銜的人，第一次見面開口就是：「我是拿督某某某」，而不是單純自報姓名，他就懶得理對方了。\n\n你是拿督，所以呢？我又不靠你吃飯。你第一句話就報頭銜，是想暗示什麼？是想讓我對你另眼相看，還是先打預防針，等等要我幫你開後門？\n\n一個人如果習慣用頭銜開場，某種程度上代表他已經習慣了靠這個身份換取好處。這種人，通常也沒什麼意思。\n\n------\n\n講到這裡，你可能會誤以為這位眼科醫生大叔，是個性格剛烈、甚至有點狂傲不羈的人。\n\n但恰恰相反。\n\n我跟他差了整整 20 歲，但他真的是我看過最酷的人之一。在我跟他面對面交流的時候，他從沒擺出過任何架子，反而給人一種非常舒服的鬆弛感。他並沒有因為自己是醫生，就覺得高人一等，或者對晚輩指指點點。\n\n相反地，他戴著一副粗黑框眼鏡，穿著純色潮T配短褲跟拖鞋，外表看起來比他實際年齡年輕了至少 10 歲以上，看起來就像個鬆弛感點滿的潮男。\n\n他還笑著跟我說，他哥哥是個律師，但是個渾身都是刺青的律師。他開玩笑說：「我們家專門出產看起來不像專業人士的專業人士。」\n\n那天我們還聊了很多關於加密貨幣的話題。按照過往經驗，像他這種傳統菁英背景出身的人，通常聽到幣圈，都會先入為主的帶著有色眼鏡，或者覺得這就是旁門左道。\n\n但他完全沒有。他充滿好奇，客觀地與我交流觀點，沒有偏見，也沒有傲慢。\n\n我慢慢能理解，為什麼我們能聊得這麼深入，為什麼能成為朋友。\n\n因為我們都不在乎對方的頭銜或背景。他不會因為我是做幣圈的就先貼標籤，我也不會因為他是醫生就端著距離。我們就只是兩個人，聊各自感興趣的事，交換彼此真實的看法。\n\n這種交流太稀有了。\n\n在這個充滿標籤與階級的社會裡，還有什麼比一個「不被頭銜綁架、只對事不對人」的靈魂更酷的呢？",
-      "publishedAt": "2026-01-13T02:45:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2010906067753226297",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010905688684576924",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "老子曰：道可道，非常道。凡付费而广告者，其币之将倾也。主力欲出，散户必套，此人生（K线）之常也。",
-      "contentHtml": "老子曰：道可道，非常道。凡付费而广告者，其币之将倾也。主力欲出，散户必套，此人生（K线）之常也。",
-      "publishedAt": "2026-01-13T02:44:00.000Z",
-      "link": "https://x.com/follow_clues/status/2010905688684576924",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010903252322443321",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "ETH 已跌至易老板的成本线💡\n\nTrend Research 当前持有 626778.65 枚 $ETH ，总价值 19.4 亿美元，平均成本约 ~$3,105.5\nintel.arkm.com/explorer/enti…\n\n除了已经割肉止损的 ASTER 和略有回调的 ETH，其他代币（ $BTC / $BCH / $BNB / $WLFI ）倒都还是妥妥的浮盈状态\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-      "contentHtml": "ETH 已跌至易老板的成本线💡\n\nTrend Research 当前持有 626778.65 枚 <a href=\"/search?q=%23ETH\">$ETH</a> ，总价值 19.4 亿美元，平均成本约 ~$3,105.5\n<a href=\"https://intel.arkm.com/explorer/entity/474d1c43-f6a9-480a-a4ba-fef4544f34d2\">intel.arkm.com/explorer/enti…</a>\n\n除了已经割肉止损的 ASTER 和略有回调的 ETH，其他代币（ <a href=\"/search?q=%23BTC\">$BTC</a> / <a href=\"/search?q=%23BCH\">$BCH</a> / <a href=\"/search?q=%23BNB\">$BNB</a> / <a href=\"/search?q=%23WLFI\">$WLFI</a> ）倒都还是妥妥的浮盈状态\n\n本文由 <a href=\"/search?q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
-      "publishedAt": "2026-01-13T02:34:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2010903252322443321",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-gm_7FbQAY9cQm.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "「易理华严选」现状更新💫\n\n自 11.23-11.26 @Jackyi_ld 明牌满仓至今，六个代币中 5 个处于上涨状态，命中率 83.3%\n\n▶︎ 涨幅最大： $BCH & $WLFI ，分别为 19.6% 和 15.46%\n▶︎ 跌幅最大： $ASTER 是唯一一个下跌的代币，跌幅 53.54%（已割肉止损）\n\n需要说明的是，这里的 ETH 成本是基于这段时间加仓后的平均成本计算的，详情可见引用推文",
-        "link": "https://x.com/ai_9684xtpa/status/2008028788521873444",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG93zgOQbsAAd6iW.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010898344416276678",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "这一天终究还是来了…\n\n当我打开已经快要包浆的股票账户，\n看看还有哪只没涨的票能买一点防身，\n\n惊奇的发现还有只当初没清干净的ETF，\n无意间，竟然持仓了460天，还盈利50%，\n\n瞬间激动的热泪盈眶……\n\n这460天我全身心投入对Web3的追求，\n却错过了近在眼前的才是真爱。\n\n有意栽花花不发，无心插柳柳成荫。\n\n大A，这次你不会再骗我了吧？",
-      "contentHtml": "这一天终究还是来了…\n\n当我打开已经快要包浆的股票账户，\n看看还有哪只没涨的票能买一点防身，\n\n惊奇的发现还有只当初没清干净的ETF，\n无意间，竟然持仓了460天，还盈利50%，\n\n瞬间激动的热泪盈眶……\n\n这460天我全身心投入对Web3的追求，\n却错过了近在眼前的才是真爱。\n\n有意栽花花不发，无心插柳柳成荫。\n\n大A，这次你不会再骗我了吧？",
-      "publishedAt": "2026-01-13T02:15:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2010898344416276678",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-glWUobAAAZXS4.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-glWUmbQAEr6cU.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-glWUnbQAASDGC.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-glWUrbQAACJvg.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010894434918158803",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "「我們是靠腦袋吃飯，不是靠機器。」\n2000 年代初期，倫敦黑色計程車司機對 GPS 嗤之以鼻。\n\n「靠 GPS 的不是專業司機。」\n「不記路線就不配開計程車。」\n「一旦導航錯誤，這些人全完蛋。」\n\n這群司機花了三到四年背下 25,000 條街道，通過號稱全球最難的「The Knowledge」考試，才拿到那張執照。這張執照不只是飯碗，更是身份認同。\n\n二十年後，倫敦黑色計程車剩不到 15,000 輛，智庫預測，如果趨勢持續，它們將在20年內滅絕。\n\nUber 加上 Google Maps，讓「背下整座城市」這項苦練多年的技能，一夜之間變得無關緊要。\n\n現在，同樣的劇情在工程師圈子上演。\n\n只要提到 AI Coding Agent 或 Vibe Coding，你總會聽到類似的聲音：\n「AI 寫的程式碼還是要人來 review。」\n「複雜的系統架構 AI 不可能懂。」\n「AI 只會製造屎山代碼。」\n\n他們說的都對。就像當年的司機說「GPS 不懂哪裡在修路」一樣，句句是事實，但也搞錯了重點。\n\n寫程式沒那麼神。它的本質就是翻譯：把人類的想法，翻譯成電腦聽得懂的語言。\n\n你心裡想「幫我把這個數字加一」，電腦聽不懂；你寫下 x = x + 1，它懂了。不管是 C++、Python 還是 Rust，都只是不同的翻譯方式。\n\n過去，你需要花幾年學會這套語法，這是工程師版的「The Knowledge」考試。我們以為這層語言障礙是護城河，但它只是工具的使用門檻。\n\nVibe Coding 只是多了一層翻譯。\n\n你用自然語言描述需求，AI 翻譯成程式碼，程式碼再編譯成機器碼。多了一層，但邏輯沒變。以前你得自己翻譯，現在你有一個精通所有程式語言、24 小時待命的翻譯官。\n\n「那 Vibe Coding 寫出來的品質不好怎麼辦？」\n這問題很有趣。人類手寫的程式碼品質就一定好嗎？\n\n工具從來不保證結果，使用工具的人才決定結果。\n\n當 GPS 出現，計程車司機的護城河消失了，但「把乘客安全送到目的地」的需求還在。當 AI 出現，工程師的護城河消失了，但「解決問題」的需求還在。\n\n焦慮的人，通常是把工具的使用門檻誤當成自己的護城河。\n\n真正的護城河不是你會不會寫 for loop或能背出多少 API，而是你能不能定義出一個值得解決的問題，然後想辦法解決它。\n\n這是一個拼審美、拼商業洞察的時代，而不是單純比拼技術的時代。",
-      "contentHtml": "「我們是靠腦袋吃飯，不是靠機器。」\n2000 年代初期，倫敦黑色計程車司機對 GPS 嗤之以鼻。\n\n「靠 GPS 的不是專業司機。」\n「不記路線就不配開計程車。」\n「一旦導航錯誤，這些人全完蛋。」\n\n這群司機花了三到四年背下 25,000 條街道，通過號稱全球最難的「The Knowledge」考試，才拿到那張執照。這張執照不只是飯碗，更是身份認同。\n\n二十年後，倫敦黑色計程車剩不到 15,000 輛，智庫預測，如果趨勢持續，它們將在20年內滅絕。\n\nUber 加上 Google Maps，讓「背下整座城市」這項苦練多年的技能，一夜之間變得無關緊要。\n\n現在，同樣的劇情在工程師圈子上演。\n\n只要提到 AI Coding Agent 或 Vibe Coding，你總會聽到類似的聲音：\n「AI 寫的程式碼還是要人來 review。」\n「複雜的系統架構 AI 不可能懂。」\n「AI 只會製造屎山代碼。」\n\n他們說的都對。就像當年的司機說「GPS 不懂哪裡在修路」一樣，句句是事實，但也搞錯了重點。\n\n寫程式沒那麼神。它的本質就是翻譯：把人類的想法，翻譯成電腦聽得懂的語言。\n\n你心裡想「幫我把這個數字加一」，電腦聽不懂；你寫下 x = x + 1，它懂了。不管是 C++、Python 還是 Rust，都只是不同的翻譯方式。\n\n過去，你需要花幾年學會這套語法，這是工程師版的「The Knowledge」考試。我們以為這層語言障礙是護城河，但它只是工具的使用門檻。\n\nVibe Coding 只是多了一層翻譯。\n\n你用自然語言描述需求，AI 翻譯成程式碼，程式碼再編譯成機器碼。多了一層，但邏輯沒變。以前你得自己翻譯，現在你有一個精通所有程式語言、24 小時待命的翻譯官。\n\n「那 Vibe Coding 寫出來的品質不好怎麼辦？」\n這問題很有趣。人類手寫的程式碼品質就一定好嗎？\n\n工具從來不保證結果，使用工具的人才決定結果。\n\n當 GPS 出現，計程車司機的護城河消失了，但「把乘客安全送到目的地」的需求還在。當 AI 出現，工程師的護城河消失了，但「解決問題」的需求還在。\n\n焦慮的人，通常是把工具的使用門檻誤當成自己的護城河。\n\n真正的護城河不是你會不會寫 for loop或能背出多少 API，而是你能不能定義出一個值得解決的問題，然後想辦法解決它。\n\n這是一個拼審美、拼商業洞察的時代，而不是單純比拼技術的時代。",
-      "publishedAt": "2026-01-13T01:59:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2010894434918158803",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2010891778317337055",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "Bitmine 已累计质押 1,344,224 枚 ETH，价值高达 41.3 亿美元，占总持仓的 32.2%🏦\n\n过去 6 小时，他们再次质押 154208 枚 ETH（约 4.78 亿美元）intel.arkm.com/explorer/enti…\n\nBTW：根据 Bitmine 最新的官推公示，当前持有 $ETH 数量为 4,167,768 枚，另外他们正与 3 家质押服务提供商合作，计划于 2026 年推出其商业化的 MAVAN（美国制造验证网络）\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-      "contentHtml": "Bitmine 已累计质押 1,344,224 枚 ETH，价值高达 41.3 亿美元，占总持仓的 32.2%🏦\n\n过去 6 小时，他们再次质押 154208 枚 ETH（约 4.78 亿美元）<a href=\"https://intel.arkm.com/explorer/entity/bitmine\">intel.arkm.com/explorer/enti…</a>\n\nBTW：根据 Bitmine 最新的官推公示，当前持有 <a href=\"/search?q=%23ETH\">$ETH</a> 数量为 4,167,768 枚，另外他们正与 3 家质押服务提供商合作，计划于 2026 年推出其商业化的 MAVAN（美国制造验证网络）\n\n本文由 <a href=\"/search?q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
-      "publishedAt": "2026-01-13T01:48:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2010891778317337055",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-gfaHzbsAA2QwT.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
