@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T04:34:26.318Z",
+  "lastUpdated": "2026-01-22T05:08:06.846Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,53 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 511,
+    "newFetched": 512,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2014199194580611554",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "還記得我之前寫過的那位醫生大叔嗎？就是那個會把想走後門的病人默默排到最後面，不甩院長頭銜的眼科醫生。\n\n最近他遇到一件事，跑來問我的意見。\n\n他們醫院所屬的醫療集團準備上市，公司開放內部員工認股的機會。他跟他老婆在討論，到底該不該買？買了之後，什麼時候賣最好？\n\n這種問題對我來說太熟悉了，我直接跟他說了幾個觀察重點。\n\n第一，查原始股東的 Lock-in Period。\n大股東能不能賣、什麼時候能賣，這是最關鍵的訊號。如果大股東的閉鎖期很短，代表他們可能急著出貨。如果閉鎖期很長，至少代表他們願意跟公司綁在一起。\n\n第二，你要觀察掛牌前的 Hypeness。\n這檔股票有沒有人在討論？媒體有沒有在報？分析師有沒有在推？如果上市前一片安靜，那掛牌當天你可能連賣給誰都不知道。\n\n第三，也是最重要的，看內部員工認股的比例和平均金額。\n如果公司開放員工認股，比例只佔全流通股數的很小一個部分，譬如1%，這叫福利。但如果比例高到離譜，每個人的認購金額又被設定得很高，那這就不是福利了。這是公司在對內募資。\n\n我跟他說，如果員工認股比例異常高，你要小心。這通常代表外面的錢不好募，公司只好回來找自己人。\n\n那天我們聊到快 12 點才回家。\n\n回到家之後，我洗澡前有大概半小時的空檔。我想說既然都聊到這了，不如直接幫他查一下這間醫療集團的上市細節。\n\n但說實話，我自己懶得查。所以我把這個任務丟給了 Claude。\n\n我用的是 Claude Opus4.5 的 Deep Research 功能，直接跟它說：「幫我查這間醫療集團的上市案，我想知道原始股東的持股結構、各方的 Lock-in Period、員工認股的條件，還有這檔股票目前市場上的討論熱度。」\n\n然後我就去洗澡了。\n\n洗完出來，大概過了半小時，Claude 已經跑完了。\n\n它不只查了我要的東西，還額外整理了這間集團過去幾年的財報數據、同業比較、分析師的觀點，最後產出了一份 PDF 報告。\n\n我看完之後直接傳給醫生大叔。\n\n他隔天回我訊息，說他看完嚇了一跳。他說他本來只是想聽聽我的意見，沒想到我直接丟了一份比他們公司內部簡報還詳細的報告給他。\n\n他問我：「你花了多久做這個？」\n我說：「我洗澡的時間。」",
+      "contentHtml": "還記得我之前寫過的那位醫生大叔嗎？就是那個會把想走後門的病人默默排到最後面，不甩院長頭銜的眼科醫生。\n\n最近他遇到一件事，跑來問我的意見。\n\n他們醫院所屬的醫療集團準備上市，公司開放內部員工認股的機會。他跟他老婆在討論，到底該不該買？買了之後，什麼時候賣最好？\n\n這種問題對我來說太熟悉了，我直接跟他說了幾個觀察重點。\n\n第一，查原始股東的 Lock-in Period。\n大股東能不能賣、什麼時候能賣，這是最關鍵的訊號。如果大股東的閉鎖期很短，代表他們可能急著出貨。如果閉鎖期很長，至少代表他們願意跟公司綁在一起。\n\n第二，你要觀察掛牌前的 Hypeness。\n這檔股票有沒有人在討論？媒體有沒有在報？分析師有沒有在推？如果上市前一片安靜，那掛牌當天你可能連賣給誰都不知道。\n\n第三，也是最重要的，看內部員工認股的比例和平均金額。\n如果公司開放員工認股，比例只佔全流通股數的很小一個部分，譬如1%，這叫福利。但如果比例高到離譜，每個人的認購金額又被設定得很高，那這就不是福利了。這是公司在對內募資。\n\n我跟他說，如果員工認股比例異常高，你要小心。這通常代表外面的錢不好募，公司只好回來找自己人。\n\n那天我們聊到快 12 點才回家。\n\n回到家之後，我洗澡前有大概半小時的空檔。我想說既然都聊到這了，不如直接幫他查一下這間醫療集團的上市細節。\n\n但說實話，我自己懶得查。所以我把這個任務丟給了 Claude。\n\n我用的是 Claude Opus4.5 的 Deep Research 功能，直接跟它說：「幫我查這間醫療集團的上市案，我想知道原始股東的持股結構、各方的 Lock-in Period、員工認股的條件，還有這檔股票目前市場上的討論熱度。」\n\n然後我就去洗澡了。\n\n洗完出來，大概過了半小時，Claude 已經跑完了。\n\n它不只查了我要的東西，還額外整理了這間集團過去幾年的財報數據、同業比較、分析師的觀點，最後產出了一份 PDF 報告。\n\n我看完之後直接傳給醫生大叔。\n\n他隔天回我訊息，說他看完嚇了一跳。他說他本來只是想聽聽我的意見，沒想到我直接丟了一份比他們公司內部簡報還詳細的報告給他。\n\n他問我：「你花了多久做這個？」\n我說：「我洗澡的時間。」",
+      "publishedAt": "2026-01-22T04:51:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2014199194580611554",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_Pe5FoaUAAe_B9.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2014195736469225689",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "短线交易真正的敌人，从来不是策略，是情绪。\n\n而情绪管理最难的地方在于，它分为两层：\n\n第一层，隐性的：你的大脑会本能地分泌激素（多巴胺驱动你追涨，肾上腺素让你恐惧扛单），加上后天环境养成的不自觉习惯（比如亏损后报复性下单）。\n\n第二层，显性的：你是否能清醒地意识到，自己的情绪正在如何影响长期交易表现和收益曲线。意识到，才能管理。这一层可以通过刻意训练和借助工具（比如写交易日志、设定机械规则、阅读《交易心理分析》《思考，快与慢》这类书..\n\n策略决定你怎么看市场，情绪决定你怎么做动作....",
+      "contentHtml": "短线交易真正的敌人，从来不是策略，是情绪。\n\n而情绪管理最难的地方在于，它分为两层：\n\n第一层，隐性的：你的大脑会本能地分泌激素（多巴胺驱动你追涨，肾上腺素让你恐惧扛单），加上后天环境养成的不自觉习惯（比如亏损后报复性下单）。\n\n第二层，显性的：你是否能清醒地意识到，自己的情绪正在如何影响长期交易表现和收益曲线。意识到，才能管理。这一层可以通过刻意训练和借助工具（比如写交易日志、设定机械规则、阅读《交易心理分析》《思考，快与慢》这类书..\n\n策略决定你怎么看市场，情绪决定你怎么做动作....",
+      "publishedAt": "2026-01-22T04:37:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2014195736469225689",
+      "quote": {
+        "username": "CycleStudies",
+        "displayName": "百萬Eric | Day Trader",
+        "content": "小资金短线成功六要素：\n\n身体素质+大脑激素+学习能力+大量时间+情绪管理+交易策略。\n\n身体素质：无损耗专注力的慢性病。\n\n大脑激素：阿斯伯格综合征、高能ADHD、血清素+多巴胺分泌超过常人。\n\n学习能力：相信指数增长，而非线性重复。\n\n大量时间：专注才能产生深度思考。\n\n情绪管理：连续亏损后可能掌握思维主动性。\n\n交易策略：美股做动量策略，加密货币做区间波段。\n\n短线交易，九死一生，策略为末，人为本。\n\n磨刀之前，先问自己是不是那块铁。",
+        "link": "https://x.com/CycleStudies/status/2012794071929278698"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2014192551910347263",
       "username": "BensonTWN",
@@ -479,6 +521,31 @@
         "displayName": "BitMEX 中文频道",
         "content": "🛠 挖掘对冲基金级的 Alpha 收益\n\n我们最新的配对交易策略表现跑赢 BTC 超25%。\n\n以下是该策略内容：\n交易策略：\n🟢 做多：COINUSDT\n🔴 做空：CRCLUSDT\n\n具体参数：\n⚡️ 保证金：BTC 或 USDT 保证金\n⚡️ 杠杆：最高 20 倍\n⚡️ 利率：0% 基准利率（相比传统金融节省约 11% 的年化利息）\n\n不要只是被动地等待市场波动。构建您的多空交易组合，精准赚取价差。\n\n👇点此阅读完整策略：\nbitmex.com/blog/execute-arth…",
         "link": "https://x.com/Bitmex_zh/status/2013564184634834947"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2014129726500327752",
+      "username": "ohyishi",
+      "displayName": "Yishi",
+      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
+      "content": "目前还有多个岗位在招聘，包括嵌入式工程师、品牌视觉设计师、产品经理（校招）、增长、运维工程师、后端工程师（Node.js）、安全工程师、前端工程师，以及原帖中的 Sales Pilot。\n\n具体 JD 在这里：onekeyhq.atlassian.net/wiki/…\n\n目前团队接近 100 人，任务重、责任大，需要能踏实 build 的人。\n\n公司除全额报销所有 AI 工具费用外（Claude Max 放开用），内部还会持续举办 AI 最佳实践挑战，拿奖并不难。\n\n第二赛季尚未结束，本赛季奖金接近 20 万人民币，如果你在 2 月上旬前入职，兴许还来得及。",
+      "contentHtml": "目前还有多个岗位在招聘，包括嵌入式工程师、品牌视觉设计师、产品经理（校招）、增长、运维工程师、后端工程师（Node.js）、安全工程师、前端工程师，以及原帖中的 Sales Pilot。\n\n具体 JD 在这里：<a href=\"https://onekeyhq.atlassian.net/wiki/spaces/OC/overview\">onekeyhq.atlassian.net/wiki/…</a>\n\n目前团队接近 100 人，任务重、责任大，需要能踏实 build 的人。\n\n公司除全额报销所有 AI 工具费用外（Claude Max 放开用），内部还会持续举办 AI 最佳实践挑战，拿奖并不难。\n\n第二赛季尚未结束，本赛季奖金接近 20 万人民币，如果你在 2 月上旬前入职，兴许还来得及。",
+      "publishedAt": "2026-01-22T00:15:00.000Z",
+      "link": "https://x.com/ohyishi/status/2014129726500327752",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "quote": {
+        "username": "ohyishi",
+        "displayName": "Yishi",
+        "content": "OneKey 团队招人\n\n我们从2021年开始创业，今年是第6年，公司处于 Pre-C 轮阶段，主营业务是硬件钱包。\n\n这次是为 Sales Pilot 小组招人，实习生或应届毕业生，公司内部新成立的 DTC 销售和商务团队。\n\n这个团队由我直接带领，我将其视为内部再创业，目标很明确：在有限预算下，把一个产品直接卖给终端用户，跑出可复现的获客、转化和复购模型。\n\n你会跟我一起工作，需要在高度不确定的环境中，亲手把结果做出来。\n\n你要做什么：\n\n- 从 0 搭建 DTC 渠道（X / Reddit / Tiktok / 小红薯 / Instagram 等）\n- 建立电销渠道、达成合作、追踪转化和各类指标\n- 快速试错，淘汰无效方案，沉淀可复制方法\n\n我看重什么：\n\n- 有基本的网感，对赚钱有动力\n- 亲手做过/推广过 DTC 或类似 0→1 项目（成功或失败都可以）\n- 能把一单生意的账算清楚\n- 能在资源有限情况下主动推进事情\n- 如果上面的都做不到，脸皮厚也可以\n\n不适合这个岗位的人：\n\n- 抵触 AI\n- 心气、期望值太高\n- 只做过大厂成熟模块\n- 沉迷宏大叙事、互联网黑话爱好者、眼高手低、说得比做的好\n\n简历要求：不要有错别字\n \n学历要求：全日制大学本科，实习生或应届生\n\n经验要求：无，没上过班也无妨\n\n工作地点：可远程或现场办公\n\n薪资待遇：基本工资 + 奖金 + 提成，工作达标的情况下，足以在一线城市过上体面生活\n\n投递方式：见评论区链接，岗位选择「商务推广与销售经理」，备注 「Yishi 直聘」\n\n试用期：3个月，且有硬性考核指标",
+        "link": "https://x.com/ohyishi/status/2008203780010189263"
       },
       "stats": {
         "replies": 0,
@@ -11399,85 +11466,6 @@
           "url": "https://nitter.net/pic/orig/media%2FG-nrdBxagAA9roM.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2011396679799550436",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "刷到B哥的MSX RWA现货交易调整费率的公告\n卖出直接0费率了\nMSX一直在踏实的做好产品\n保持RWA领域创新的稳定发力\n从最先上线的RWA美股现货，再到美股合约，现在RWA美股现货的手续费又进一步实打实的优化给大家更好的体验\n强烈支持这波优化\n有个小请求，MSX的app啥时候上线😂",
-      "contentHtml": "刷到B哥的MSX RWA现货交易调整费率的公告\n卖出直接0费率了\nMSX一直在踏实的做好产品\n保持RWA领域创新的稳定发力\n从最先上线的RWA美股现货，再到美股合约，现在RWA美股现货的手续费又进一步实打实的优化给大家更好的体验\n强烈支持这波优化\n有个小请求，MSX的app啥时候上线😂",
-      "publishedAt": "2026-01-14T11:15:00.000Z",
-      "link": "https://x.com/hazenlee/status/2011396679799550436",
-      "quote": {
-        "username": "MSX_CN",
-        "displayName": "麦通MSX",
-        "content": "关于 MSX 调整 RWA 现货交易手续费模式\n\n自 2026 年 1 月 13 日 17:00 (UTC+8) 起，MSX 平台 RWA 现货交易板块正式实行「单边收取」模式： \n\n🔹 买入（Buy）： 维持 0.3% \n🔹 卖出（Sell）： 下调至 0%\n\n本次调整旨在降低交易成本，提升 RWA 板块投资体验。系统现已自动生效。\n\n公告链接🔗：msx.com/notice-center-detail…",
-        "link": "https://x.com/MSX_CN/status/2011006019951083599"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2011368077645254843",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "这怎么打，币安钱包深度集成 Aster 了🤪\n\nBinance Wallet 网页版点投资组合，现货旁边的「永续合约」模块直接集成了 Aster 并内置提供 Perp DEX 功能，连积分系统都是共用的，顺势推出了钱包的里程碑挑战赛活动（瓜分 20 万刀奖励）\n\n市场买账吗？ $ASTER 短时上涨 5%，突破 0.78 美金",
-      "contentHtml": "这怎么打，币安钱包深度集成 Aster 了🤪\n\nBinance Wallet 网页版点投资组合，现货旁边的「永续合约」模块直接集成了 Aster 并内置提供 Perp DEX 功能，连积分系统都是共用的，顺势推出了钱包的里程碑挑战赛活动（瓜分 20 万刀奖励）\n\n市场买账吗？ <a href=\"/search?q=%23ASTER\">$ASTER</a> 短时上涨 5%，突破 0.78 美金",
-      "publishedAt": "2026-01-14T09:21:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2011368077645254843",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-nQjnya8AAOacd.png"
-        }
-      ],
-      "quote": {
-        "username": "BinanceWallet",
-        "displayName": "Binance Wallet",
-        "content": "You can now trade Perpetual Futures on Binance Wallet (Web) – provided by @Aster_DEX .\n\n✨Earn Aster points when you trade.\n\n🎁Participate in an exclusive campaign for Binance Wallet users, share up to 200,000 USDT in rewards!\n\nStart now 👇\nbinance.com/en/support/annou…",
-        "link": "https://x.com/BinanceWallet/status/2011362778439938493"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2011366061342589105",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "这猫很好看？\n拉稀糊一屁股屎，臭的不行了\n兽医给它看完还忍不住嘬它两口",
-      "contentHtml": "这猫很好看？\n拉稀糊一屁股屎，臭的不行了\n兽医给它看完还忍不住嘬它两口",
-      "publishedAt": "2026-01-14T09:13:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2011366061342589105",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "征集个猫名字",
-        "link": "https://x.com/Bitfatty/status/2010955088299536501",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-hY_U7bQAMmqyo.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-hY_U6a8AANxma.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
