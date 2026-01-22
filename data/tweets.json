@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T22:28:30.083Z",
+  "lastUpdated": "2026-01-22T22:50:24.643Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,9 +85,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 365,
-    "successUsers": 18,
-    "failedUsers": 8
+    "newFetched": 508,
+    "successUsers": 25,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -1592,6 +1592,31 @@
         "displayName": "BitMEX 中文频道",
         "content": "🛠 挖掘对冲基金级的 Alpha 收益\n\n我们最新的配对交易策略表现跑赢 BTC 超25%。\n\n以下是该策略内容：\n交易策略：\n🟢 做多：COINUSDT\n🔴 做空：CRCLUSDT\n\n具体参数：\n⚡️ 保证金：BTC 或 USDT 保证金\n⚡️ 杠杆：最高 20 倍\n⚡️ 利率：0% 基准利率（相比传统金融节省约 11% 的年化利息）\n\n不要只是被动地等待市场波动。构建您的多空交易组合，精准赚取价差。\n\n👇点此阅读完整策略：\nbitmex.com/blog/execute-arth…",
         "link": "https://x.com/Bitmex_zh/status/2013564184634834947"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2014129726500327752",
+      "username": "ohyishi",
+      "displayName": "Yishi",
+      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
+      "content": "目前还有多个岗位在招聘，包括嵌入式工程师、品牌视觉设计师、产品经理（校招）、增长、运维工程师、后端工程师（Node.js）、安全工程师、前端工程师，以及原帖中的 Sales Pilot。\n\n具体 JD 在这里：onekeyhq.atlassian.net/wiki/…\n\n目前团队接近 100 人，任务重、责任大，需要能踏实 build 的人。\n\n公司除全额报销所有 AI 工具费用外（Claude Max 放开用），内部还会持续举办 AI 最佳实践挑战，拿奖并不难。\n\n第二赛季尚未结束，本赛季奖金接近 20 万人民币，如果你在 2 月上旬前入职，兴许还来得及。",
+      "contentHtml": "目前还有多个岗位在招聘，包括嵌入式工程师、品牌视觉设计师、产品经理（校招）、增长、运维工程师、后端工程师（Node.js）、安全工程师、前端工程师，以及原帖中的 Sales Pilot。\n\n具体 JD 在这里：<a href=\"https://onekeyhq.atlassian.net/wiki/spaces/OC/overview\">onekeyhq.atlassian.net/wiki/…</a>\n\n目前团队接近 100 人，任务重、责任大，需要能踏实 build 的人。\n\n公司除全额报销所有 AI 工具费用外（Claude Max 放开用），内部还会持续举办 AI 最佳实践挑战，拿奖并不难。\n\n第二赛季尚未结束，本赛季奖金接近 20 万人民币，如果你在 2 月上旬前入职，兴许还来得及。",
+      "publishedAt": "2026-01-22T00:15:00.000Z",
+      "link": "https://x.com/ohyishi/status/2014129726500327752",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "quote": {
+        "username": "ohyishi",
+        "displayName": "Yishi",
+        "content": "OneKey 团队招人\n\n我们从2021年开始创业，今年是第6年，公司处于 Pre-C 轮阶段，主营业务是硬件钱包。\n\n这次是为 Sales Pilot 小组招人，实习生或应届毕业生，公司内部新成立的 DTC 销售和商务团队。\n\n这个团队由我直接带领，我将其视为内部再创业，目标很明确：在有限预算下，把一个产品直接卖给终端用户，跑出可复现的获客、转化和复购模型。\n\n你会跟我一起工作，需要在高度不确定的环境中，亲手把结果做出来。\n\n你要做什么：\n\n- 从 0 搭建 DTC 渠道（X / Reddit / Tiktok / 小红薯 / Instagram 等）\n- 建立电销渠道、达成合作、追踪转化和各类指标\n- 快速试错，淘汰无效方案，沉淀可复制方法\n\n我看重什么：\n\n- 有基本的网感，对赚钱有动力\n- 亲手做过/推广过 DTC 或类似 0→1 项目（成功或失败都可以）\n- 能把一单生意的账算清楚\n- 能在资源有限情况下主动推进事情\n- 如果上面的都做不到，脸皮厚也可以\n\n不适合这个岗位的人：\n\n- 抵触 AI\n- 心气、期望值太高\n- 只做过大厂成熟模块\n- 沉迷宏大叙事、互联网黑话爱好者、眼高手低、说得比做的好\n\n简历要求：不要有错别字\n \n学历要求：全日制大学本科，实习生或应届生\n\n经验要求：无，没上过班也无妨\n\n工作地点：可远程或现场办公\n\n薪资待遇：基本工资 + 奖金 + 提成，工作达标的情况下，足以在一线城市过上体面生活\n\n投递方式：见评论区链接，岗位选择「商务推广与销售经理」，备注 「Yishi 直聘」\n\n试用期：3个月，且有硬性考核指标",
+        "link": "https://x.com/ohyishi/status/2008203780010189263"
       },
       "stats": {
         "replies": 0,
@@ -6901,6 +6926,31 @@
       }
     },
     {
+      "id": "2013053541712302426",
+      "username": "Phyrex_Ni",
+      "displayName": "Phyrex",
+      "avatar": "https://nitter.net/pic/profile_images%2F1596374669824696320%2FMGne6qLH_bigger.jpg",
+      "content": "第一：目前亚洲时间美股期货开盘了，晚上因为是假期所以美股不开盘。\n\n第二：亚洲时间风险市场开始避险，晚上欧美时间即便是美股不开盘，欧美的机构和投资者也会对 $BTC 做出反应。\n\n风险市场的下跌是因为欧美关税的问题，如果今天川解决了关税美股明天开盘会反弹，而如果没有，明天也很难说。",
+      "contentHtml": "第一：目前亚洲时间美股期货开盘了，晚上因为是假期所以美股不开盘。\n\n第二：亚洲时间风险市场开始避险，晚上欧美时间即便是美股不开盘，欧美的机构和投资者也会对 <a href=\"/search?q=%23BTC\">$BTC</a> 做出反应。\n\n风险市场的下跌是因为欧美关税的问题，如果今天川解决了关税美股明天开盘会反弹，而如果没有，明天也很难说。",
+      "publishedAt": "2026-01-19T00:58:00.000Z",
+      "link": "https://x.com/Phyrex_Ni/status/2013053541712302426",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
+      "quote": {
+        "username": "Phyrex_Ni",
+        "displayName": "Phyrex",
+        "content": "和预期一毛一样。风险市场开始避险了。首先是亚洲，晚上等着看欧美。",
+        "link": "https://x.com/Phyrex_Ni/status/2013049789215027250"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2013052999510237471",
       "username": "BensonTWN",
       "displayName": "Benson Sun",
@@ -9122,6 +9172,31 @@
           "url": "https://nitter.net/pic/orig/media%2FG-2Dz37bcAANbnY.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2012408302010024176",
+      "username": "passluo",
+      "displayName": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤",
+      "avatar": "https://nitter.net/pic/profile_images%2F1597030973161422848%2FJrgJ5kiR_bigger.jpg",
+      "content": "看到李亚鹏嫣然医院欠房租 2500w 被告那个有点心酸\n\n那个，提醒下「嫣然基金」和「嫣然医院」是相互独立的机构\n\n我更建议大家直接捐款给「嫣然医院」\n\n这样他们能更快使用到这笔资金解决燃眉之急\n\n微信搜索「北京嫣然天使儿童医院」就有捐款入口\n\n给大家搞了一张流程图 ⬇️",
+      "contentHtml": "看到李亚鹏嫣然医院欠房租 2500w 被告那个有点心酸\n\n那个，提醒下「嫣然基金」和「嫣然医院」是相互独立的机构\n\n我更建议大家直接捐款给「嫣然医院」\n\n这样他们能更快使用到这笔资金解决燃眉之急\n\n微信搜索「北京嫣然天使儿童医院」就有捐款入口\n\n给大家搞了一张流程图 ⬇️",
+      "publishedAt": "2026-01-17T06:15:00.000Z",
+      "link": "https://x.com/passluo/status/2012408302010024176",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG-2BBembcAAs9EA.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11356,77 +11431,6 @@
         "displayName": "Mercy",
         "content": "手里拿着 80 亿美金估值的 Term Sheet，一周后却变成了废纸。这就是 2022 年 Amber Group CEO Michael Wu @MichaelWuAmber 亲历的真实噩梦。\n\n他在镜头前承认，自己曾是一个“口是心非”的长期主义者—— 从摩根士丹利交易员到掌管百亿独角兽，再到 FTX 暴雷后的生死裁员... \n\nMichael做客《OKX的朋友们》全新升级栏目——《大OK家》第一期！极其坦诚地聊了聊那几年他所犯的错，听听一个幸存者如何重塑信仰👀",
         "link": "https://x.com/Mercy_okx/status/2011637491271635235"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2011690141778419753",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "There is almost no way to get exposure to on-chain equity perps revolution \n\nHyperliquid",
-      "contentHtml": "There is almost no way to get exposure to on-chain equity perps revolution \n\nHyperliquid",
-      "publishedAt": "2026-01-15T06:41:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2011690141778419753",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2011688389129748762",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "gLighter to those burning money on a hyperliquid cheap copy",
-      "contentHtml": "gLighter to those burning money on a hyperliquid cheap copy",
-      "publishedAt": "2026-01-15T06:34:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2011688389129748762",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2011679867310629297",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "惊喜！绝对的惊喜！\n\n这是我从小到大中过的最大的奖！在此之前，我中的最大奖是一支珍贵的“草珊瑚”牙膏......\n\n在币安广场“100 BNB 广发英雄帖”活动第二期，我的文章被选进“每日精选内容”，并拿到 1 BNB 的大奖。感谢币安 @binancezh ，感谢滢哥 @yingbinance 以及活动评选团队的认可！\n\n可能是运气好......\n\n在这篇“资金结构+筹码结构=市场方向”的文章中，正好提前说对了支撑和阻力位；“短期向下空间有限，向上阻力更小”的观点也和当前BTC的反弹相契合。让这篇在推特上被限流的文章，在币安广场上获得了重生。\n\n很多时候，持续输出并不是缺内容，而是缺反馈。当你知道投入精力和时间所创作的内容，会有人在看、有人在评论、有人在学习，动力自然就会不一样。\n\n这对一位原创内容输出者来说，是最重要的。不是奖励本身有多大，而是你因为被重视，被认可，被认真对待而感动！\n\n币安广场以更丰富的活动形式、零门槛的参与机制和更深度的互动，让创作不再是单向输出，而是一个持续产生正反馈的过程。依托币安垂直领域和用户基础，正在逐步形成一种相比推特更扁平、更直接的创作与交流优势。\n\n感谢这次惊喜，也感谢这个让创作者被看见的环境......\n我会继续写，慢慢写，和币安广场一起，在时间里成长！",
-      "contentHtml": "惊喜！绝对的惊喜！\n\n这是我从小到大中过的最大的奖！在此之前，我中的最大奖是一支珍贵的“草珊瑚”牙膏......\n\n在币安广场“100 BNB 广发英雄帖”活动第二期，我的文章被选进“每日精选内容”，并拿到 1 BNB 的大奖。感谢币安 <a href=\"/binancezh\" title=\"币安Binance华语\">@binancezh</a> ，感谢滢哥 <a href=\"/yingbinance\" title=\"滢哥捡到一个BNB🌖\">@yingbinance</a> 以及活动评选团队的认可！\n\n可能是运气好......\n\n在这篇“资金结构+筹码结构=市场方向”的文章中，正好提前说对了支撑和阻力位；“短期向下空间有限，向上阻力更小”的观点也和当前BTC的反弹相契合。让这篇在推特上被限流的文章，在币安广场上获得了重生。\n\n很多时候，持续输出并不是缺内容，而是缺反馈。当你知道投入精力和时间所创作的内容，会有人在看、有人在评论、有人在学习，动力自然就会不一样。\n\n这对一位原创内容输出者来说，是最重要的。不是奖励本身有多大，而是你因为被重视，被认可，被认真对待而感动！\n\n币安广场以更丰富的活动形式、零门槛的参与机制和更深度的互动，让创作不再是单向输出，而是一个持续产生正反馈的过程。依托币安垂直领域和用户基础，正在逐步形成一种相比推特更扁平、更直接的创作与交流优势。\n\n感谢这次惊喜，也感谢这个让创作者被看见的环境......\n我会继续写，慢慢写，和币安广场一起，在时间里成长！",
-      "publishedAt": "2026-01-15T06:00:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2011679867310629297",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-rFo7NbQAEHumf.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-rFrfQbsAAJjex.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-rFuGIakAA0Tar.png"
-        }
-      ],
-      "quote": {
-        "username": "yingbinance",
-        "displayName": "滢哥捡到一个BNB🌖",
-        "content": "1月14日获奖名单已公布：\n@Murphychen888  @_FORAB @CryptoSociety42 @EmberCN @xiuhuch @SantiLi1021 \n恭喜以上优质的创作者们，每位的1 BNB已到账！狂欢继续！我看看明日花落谁家？🎉",
-        "link": "https://x.com/yingbinance/status/2011462464110768318",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-oihjBasAAbRJw.jpg"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
