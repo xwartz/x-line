@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T21:20:50.387Z",
+  "lastUpdated": "2026-01-22T21:46:37.929Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,47 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 508,
+    "newFetched": 507,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2014453763520565365",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "一天被两个暴击：早上GE下午INTC😉\n昨天和个朋友聊到INTC属于NARATTIVE DRIVEN，最近很多的个股都这样，然后AMZN应该属于EARNINGS DRIVEN，就是必须证明自己的那类。前者的属性是波动很大，后者的属性就是感觉好弱啊。",
+      "contentHtml": "一天被两个暴击：早上GE下午INTC😉\n昨天和个朋友聊到INTC属于NARATTIVE DRIVEN，最近很多的个股都这样，然后AMZN应该属于EARNINGS DRIVEN，就是必须证明自己的那类。前者的属性是波动很大，后者的属性就是感觉好弱啊。",
+      "publishedAt": "2026-01-22T21:42:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2014453763520565365",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2014451348822229106",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "我觉得理想和现实还是有些差距，另外还有很多细节。\n1. 特斯拉刚推出保险的时候都认为无敌了，最后发现特斯拉选择和lemonade合作，把api分享\n2. 这个折扣特斯拉为什么自己给不出？因为给了50%估计就是亏本买卖，但对于lemonade来说也许可以从其他产品赚回来。特斯拉没必要去承担这个“自动驾驶事故的产品险”风险\n3. 汽车险本身不是非常赚钱的业务，因为价格战打得很激烈，所以很多时候出险后的赔付服务也需要考虑\n4. 如果最后真的自动驾驶做到，那定价的变量会变得更透明更简单，比如fsd/waymo accident per mile就够了。这些数据不会成为proprietary ，监管需要，且公开后大大增加你的软件销售\n最后题外话，和保险一样，叫车平台，我认为特斯拉也没必要自己去做🤣",
+      "contentHtml": "我觉得理想和现实还是有些差距，另外还有很多细节。\n1. 特斯拉刚推出保险的时候都认为无敌了，最后发现特斯拉选择和lemonade合作，把api分享\n2. 这个折扣特斯拉为什么自己给不出？因为给了50%估计就是亏本买卖，但对于lemonade来说也许可以从其他产品赚回来。特斯拉没必要去承担这个“自动驾驶事故的产品险”风险\n3. 汽车险本身不是非常赚钱的业务，因为价格战打得很激烈，所以很多时候出险后的赔付服务也需要考虑\n4. 如果最后真的自动驾驶做到，那定价的变量会变得更透明更简单，比如fsd/waymo accident per mile就够了。这些数据不会成为proprietary ，监管需要，且公开后大大增加你的软件销售\n最后题外话，和保险一样，叫车平台，我认为特斯拉也没必要自己去做🤣",
+      "publishedAt": "2026-01-22T21:33:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2014451348822229106",
+      "quote": {
+        "username": "hqinjarsy",
+        "displayName": "Han Qin",
+        "content": "为什么说随着AI的发展，汽车保险作为独立行业会消失？\n\n这里不是说汽车不用做保险了，而是随着自动驾驶与AI的发展，传统的“汽车保险”将被吞并，内化，甚至失去独立存在的必要性。\n\n首先任何保险都是建立在不可靠性上的，汽车保险简历是因为人类开车不可靠。\n\n先回到第一性原理。传统汽车保险本质解决的不是事故，而是驾驶员状态不稳定。比如疲劳驾驶，路怒症，看手机等等。而且出了事故责界定成本高，很时候需要证据，甚至上法律。\n\n就算用了各种新技术做风控，也很难精准定价。本来用年龄，性别，地区，历史事故率等粗糙变量就不合理，其本质是统计学意义上的保险，不是工程学意义上的保险。\n\n所以，保险公司赚的钱是人类系统的不确定性溢价。越不确定，保险公司越有的赚（或者任何保险都是）。\n\n而AI技术和自动驾驶，本质上就是要降低，拉平，甚至消灭风险。\n\n以后得事故会由随机人祸变成确定性工程学问题。AI没情绪，不分心，更不会路怒。同一模型，同一硬件，同一决策逻辑，简直是风控模型的最爱，直接变成了软件质量管理问题。\n\n同时因为责任主体发生了人到公司的根本迁移。制造商与自动驾驶系统运营商把风险直接都集中到了自己身上。事故之后不用再问：“你当时走神了没有？”，而是问：“这是谁的系统，哪个版本？”。风险一旦集中化，保险就可以去市场化了。\n\n当风险集中可预测，保险就不再需要是个“行业”了。保险从单独的概率生意变成了运营商的成本项，比如Tesla的FSD $99 包月，或者以后按$x/mile形式，事故率足够低，自己可以直接囊括了保险。利润由Tesla自己赚，保险直接被“吃进”产品定价里了。\n\n那独立的保险公司就会丧失议价权。数据在车厂，算法在车厂，责任也在车厂。第三方保险公司会变成数据失明者，只能接受极低利润，或被并购。\n\n当然保险业不会完全消失，但会从2C转为2B，成为金融云服务。其核心能力会从精算与销售转为系统安全评估与 极端事故兜底。\n\n所以我们说汽车保险不是会被AI干掉，而是会被确定性吞并。当驾驶从人类个体行为变成软件大规模运行，汽车保险无非就是产品成本而已。\n\n如果我们按照这个思路考虑下去，其实很多其他行为保险也类似，比如工人意外险就会因为工厂AI化而被迫转变。\n\n倒是医疗保险，可能会有不同的演化路径，这个我们之后再单独聊。",
+        "link": "https://x.com/hqinjarsy/status/2014126030190166385"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2014380287820759108",
       "username": "follow_clues",
@@ -11396,60 +11432,6 @@
         "content": "手里拿着 80 亿美金估值的 Term Sheet，一周后却变成了废纸。这就是 2022 年 Amber Group CEO Michael Wu @MichaelWuAmber 亲历的真实噩梦。\n\n他在镜头前承认，自己曾是一个“口是心非”的长期主义者—— 从摩根士丹利交易员到掌管百亿独角兽，再到 FTX 暴雷后的生死裁员... \n\nMichael做客《OKX的朋友们》全新升级栏目——《大OK家》第一期！极其坦诚地聊了聊那几年他所犯的错，听听一个幸存者如何重塑信仰👀",
         "link": "https://x.com/Mercy_okx/status/2011637491271635235"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2011736502120661315",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "BSC 基金会时隔四天再次购入生态代币\n\n▶︎ 币安人生：10 万美元，为第二次购入\n▶︎ 我踏马来了：10 万美元，为第二次购入\n\n说明：推文做了下更新，因为 Arkham 前端显示有数据遗漏，以 Bscscan 数据为准，两个代币都是第二次购入且金额相同\n\n钱包地址 intel.arkm.com/explorer/addr…",
-      "contentHtml": "BSC 基金会时隔四天再次购入生态代币\n\n▶︎ 币安人生：10 万美元，为第二次购入\n▶︎ 我踏马来了：10 万美元，为第二次购入\n\n说明：推文做了下更新，因为 Arkham 前端显示有数据遗漏，以 Bscscan 数据为准，两个代币都是第二次购入且金额相同\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x511DfE9E248c887E32ca8bF9d1cb76f101965060\">intel.arkm.com/explorer/addr…</a>",
-      "publishedAt": "2026-01-15T09:45:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2011736502120661315",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-sfrXDaYAAj5Io.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "BSC 基金会于 2 分钟前购入 5 万美元的哈基米，成为其 TOP6 资产\n\n该地址持仓 TOP5 资产分别为：MYX / CAKE / LISTA / SKYAI / 币安人生\n\nintel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-        "link": "https://x.com/ai_9684xtpa/status/2010196775664295997",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-WnTLXasAA4t92.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2011733089073185229",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "老登 #LTC...\n\n做多？不敢。大盘向上它向下，怕是藏着没公开的利空.....\n\n做空？也不值。价格蹲在日线前低+超卖区，这时候反手空，赔率不划算。\n\n但是当教学案例研究还有点价值，它在大盘、结构、信号三者打架时，最后到底听谁的...",
-      "contentHtml": "老登 <a href=\"/search?q=%23LTC\">#LTC</a>...\n\n做多？不敢。大盘向上它向下，怕是藏着没公开的利空.....\n\n做空？也不值。价格蹲在日线前低+超卖区，这时候反手空，赔率不划算。\n\n但是当教学案例研究还有点价值，它在大盘、结构、信号三者打架时，最后到底听谁的...",
-      "publishedAt": "2026-01-15T09:31:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2011733089073185229",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-saXmRbkAAYFBM.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
