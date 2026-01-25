@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T15:53:21.506Z",
+  "lastUpdated": "2026-01-25T16:22:32.948Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,105 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 511,
+    "newFetched": 508,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2015459482458034470",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "四大皆空！！！！！\n\n$btc \n$eth \n$sol \n$bnb",
+      "contentHtml": "四大皆空！！！！！\n\n<a href=\"/search?q=%23btc\">$btc</a> \n<a href=\"/search?q=%23eth\">$eth</a> \n<a href=\"/search?q=%23sol\">$sol</a> \n<a href=\"/search?q=%23bnb\">$bnb</a>",
+      "publishedAt": "2026-01-25T16:19:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2015459482458034470",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_hZtjfaUAAOkTu.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_hZtjea4AAFK6o.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_hZtimbYAE0GsJ.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_hZtikakAI6CTm.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015458800606880238",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "#crypto \n\n除了这家推特被盗号之外，还有一些顶级项目方的运营人员也被盗号了。\n\n同样是一堆大佬共同关注，靠这一点来钓鱼。\n\n为了看看是谁被盗号，特意没 block 🤣",
+      "contentHtml": "<a href=\"/search?q=%23crypto\">#crypto</a> \n\n除了这家推特被盗号之外，还有一些顶级项目方的运营人员也被盗号了。\n\n同样是一堆大佬共同关注，靠这一点来钓鱼。\n\n为了看看是谁被盗号，特意没 block 🤣",
+      "publishedAt": "2026-01-25T16:16:00.000Z",
+      "link": "https://x.com/taresky/status/2015458800606880238",
+      "quote": {
+        "username": "colinwu",
+        "displayName": "Colin Wu",
+        "content": "我操了，我人生第一次被钓鱼成功了，好在 2FA 救了我！\n\n下午突然看到私信，有个自称 X 的老哥说我账户要被封，要申诉\n\n我点进他的界面，发现一堆大佬关注了他，全是以太坊社区的大佬，甚至还有我们的员工，我于是觉得那应该是靠谱的吧\n\n害怕 X 被封，我就马上点了进去输入 X 密码，但随后就一直 loading 不成功，我又输入了几次\n\n这时候觉得有点问题了，群里一问，被大家嘲讽，才知道被钓鱼了，疯狂 GROK 加 GPT 问怎么办\n\n原来：\n\n1、这是 scoll 联合创始人 Haichen 的账号，所以很多大佬关注，然后被盗了，在狂发钓鱼私信（你大爷的，X 被盗了也不提醒一下社区吗？）\n\n2、幸亏我设置了谷歌 2FA，所有登录 X 行为都需要 2FA，救了我一命（但如果它诱导我又输入了 2FA 呢？那也不是没有可能）\n\n3、我马上更改了所有相同密码的账号与设备，GPT 说基本被盗风险为零了\n\n4、虽然也是我确实菜，但人脑不是机器，总会犯傻比，只能提高安全意识吧，给大家参考\n\n5、也算是知道为什么那么多人 X 被盗了",
+        "link": "https://x.com/colinwu/status/2015333013018788104",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_flCdhb0AIBvbi.png"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_flGBqXEAA19-n.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015458709405839865",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "赎罪券 #merl 终于回到了起点🎉",
+      "contentHtml": "赎罪券 <a href=\"/search?q=%23merl\">#merl</a> 终于回到了起点🎉",
+      "publishedAt": "2026-01-25T16:16:00.000Z",
+      "link": "https://x.com/follow_clues/status/2015458709405839865",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015458355897340397",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "Trump的ICE在今晚为金融市场丢下一枚💣（北京时间）",
+      "contentHtml": "Trump的ICE在今晚为金融市场丢下一枚💣（北京时间）",
+      "publishedAt": "2026-01-25T16:14:00.000Z",
+      "link": "https://x.com/follow_clues/status/2015458355897340397",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2015451123965173767",
       "username": "CycleStudies",
@@ -352,6 +446,18 @@
       "contentHtml": "一群男人光著膀子在沙灘上揮灑汗水，想想就浪漫",
       "publishedAt": "2026-01-25T11:43:00.000Z",
       "link": "https://x.com/BensonTWN/status/2015390180749050305",
+      "quote": {
+        "username": "KuiGas",
+        "displayName": "丰密",
+        "content": "组了个okx沙滩加密奶子小局，看夕阳。\n\n从中午喝到下午，\n酒喝了一杯接一杯，\n海浪一浪接着一浪\n像一轮又一轮牛熊，\n不声不响，但谁都躲不开\n\n聊的是资产、行情、周期、还有那些圈里的人和事。\n\n我忽然觉得，\n能在这种时候坐在一起，\n本身就是一种难得的共鸣\n\n@Haiteng_okx @BensonTWN @cishanjia @connectfarm1 @thecryptoskanda @qinbafrank @Bitwux @fugui8 @crypto_0xhunter\n\n#OKX年夜饭",
+        "link": "https://x.com/KuiGas/status/2015389301044019601",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_gZ4BfbEAA4Cvs.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11268,84 +11374,6 @@
       "contentHtml": "If I had 5-6 figs in crypto, I would spend 100% of my time trading equity perps on HIP-3.\n\nI’m convinced we are farming hidden points and I’m convinced equity perps will be HIGHLY rewarded.\n\nDon’t fade.",
       "publishedAt": "2026-01-18T11:26:00.000Z",
       "link": "https://x.com/Cbb0fe/status/2012849137843061133",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2012848458613367097",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "被 @chessxyz 推坑用 Whoop，剛好這幾天腸胃炎，手環顯示呼吸頻率跟靜息心率都飆高。\n\n這次症狀明顯，自己本來就知道不對勁，但如果是隱疾，可能真的得靠數據才發現，衝著這點就值得買了。",
-      "contentHtml": "被 <a href=\"/chessxyz\" title=\"Chess蔡司🥯\">@chessxyz</a> 推坑用 Whoop，剛好這幾天腸胃炎，手環顯示呼吸頻率跟靜息心率都飆高。\n\n這次症狀明顯，自己本來就知道不對勁，但如果是隱疾，可能真的得靠數據才發現，衝著這點就值得買了。",
-      "publishedAt": "2026-01-18T11:24:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2012848458613367097",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2012848532609446368",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "for anyone who want to chill out with monkey in the onsen addy here \n\nhappy JPOW fellow shredders",
-      "contentHtml": "for anyone who want to chill out with monkey in the onsen addy here \n\nhappy JPOW fellow shredders",
-      "publishedAt": "2026-01-18T11:24:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2012848532609446368",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-8S3ZYXcAAMNLL.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2012847135038050415",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "Passed by this monkey pond made me think  - \n\nMonkeys: unbothered, moisturized, happy for millions of years; Humans: evolved to the top of food chain, busy with a palm size screen and living a life of \"week-days\" and \"week-ends\" \n\nGM all my human fam who are not totally cooked by ai",
-      "contentHtml": "Passed by this monkey pond made me think  - \n\nMonkeys: unbothered, moisturized, happy for millions of years; Humans: evolved to the top of food chain, busy with a palm size screen and living a life of \"week-days\" and \"week-ends\" \n\nGM all my human fam who are not totally cooked by ai",
-      "publishedAt": "2026-01-18T11:18:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2012847135038050415",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-8QjVXXYAABxd8.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2012843129205084307",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "The 70s sharp decline is due to adoption of modern contraception. pt here is all the diffused tech leads to further privatization of all aspects of life& accelerating individualism, granted us seemingly endless optionality to the meaning of life  \n\nit elevates us from our evolutionary instinct to pursue something above it, also kills the family commitment that used to define who we are",
-      "contentHtml": "The 70s sharp decline is due to adoption of modern contraception. pt here is all the diffused tech leads to further privatization of all aspects of life& accelerating individualism, granted us seemingly endless optionality to the meaning of life  \n\nit elevates us from our evolutionary instinct to pursue something above it, also kills the family commitment that used to define who we are",
-      "publishedAt": "2026-01-18T11:02:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2012843129205084307",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG-8OJ-1WMAIhpIw.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
