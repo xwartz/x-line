@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T12:36:51.341Z",
+  "lastUpdated": "2026-01-25T13:22:32.528Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 508,
+    "newFetched": 510,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2015411238344520171",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-01-25T13:07:00.000Z",
+      "link": "https://x.com/coolish/status/2015411238344520171",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_gtQQnb0AAFhZ4.png"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_gtRuHXsAAZtAL.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_gt0RWa0AAZ2m3.png"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_gt1a6bYAApRzO.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2015398272375103992",
       "username": "Bitfatty",
@@ -3610,6 +3643,12 @@
       "contentHtml": "说了老鼠仓要跑，你不信多进去的有福了",
       "publishedAt": "2026-01-22T16:19:00.000Z",
       "link": "https://x.com/Bitfatty/status/2014372382950215736",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "尊敬的老鼠仓sama\n\n该出货然后去PC了",
+        "link": "https://x.com/Bitfatty/status/2014289037797044459"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11307,21 +11346,6 @@
         "content": "2026 is the year of the creator on 𝕏.\n\nWe closed 2025 with the highest payouts since our monetization program launched and we are just getting started. This year, our focus is clear: empower creators to grow on 𝕏 and earn more.\n\nHere is what we’ve already rolled out this year 👇",
         "link": "https://x.com/XCreators/status/2012253925202919521"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2012787421612835178",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "piped.video/live/EEnXNV-lvMQ… nitter.net/i/broadcasts/1YqGolpPb…",
-      "contentHtml": "<a href=\"https://piped.video/live/EEnXNV-lvMQ?feature=share\">piped.video/live/EEnXNV-lvMQ…</a> <a href=\"https://nitter.net/i/broadcasts/1YqGolpPbRlJv\">nitter.net/i/broadcasts/1YqGolpPb…</a>",
-      "publishedAt": "2026-01-18T07:21:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2012787421612835178",
       "stats": {
         "replies": 0,
         "retweets": 0,
