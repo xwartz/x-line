@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T11:54:24.263Z",
+  "lastUpdated": "2026-01-26T12:41:38.908Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,128 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 509,
+    "newFetched": 510,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2015760428207571116",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
+      "content": "Work with hardcore people on hardcore things.",
+      "contentHtml": "Work with hardcore people on hardcore things.",
+      "publishedAt": "2026-01-26T12:15:00.000Z",
+      "link": "https://x.com/naval/status/2015760428207571116",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015758584110563478",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "我認為 Clawdbot 在未來一個月內會出現大量安全事故，Prompt Injection 會是主因。\n\n因為當你讓 AI 讀取「別人可以寫入的地方」，別人就能透過內容操控你的 AI。\n\n為了避免踩坑，我請 AI 把使用情境分成兩類，能用Clawdbot 跟不能用的場景：\n\n✅ 可以用\n寫 code / 開發專案\n讓它改你的 repo、跑測試、重構程式碼。這些都是你自己的檔案，沒有外部輸入，風險極低。\n\n跑爬蟲\n抓資料、處理數據、存進資料庫。只要爬回來的內容只是儲存或顯示，不會被當成指令解析，就沒問題。\n\n檔案管理\n整理資料夾、批次改名、搬移檔案。純粹的本地操作，安全。\n\n生成報告\n拿你自己的數據生成分析報告、圖表、文件。數據來源是你，不是別人。\n\n自動化部署\n跑 CI/CD、打包、部署到伺服器。流程固定，沒有外部輸入。\n\n❌ 不該用\n讀 email\n任何人都可以寄信給你，信裡可以藏指令。這是最經典的攻擊面。\n\n監控社群聊天\n群組裡任何人都能發訊息，等於開了一個讓陌生人操控你 AI 的入口。\n\n處理外部提交的內容\n比如讓它自動處理用戶上傳的檔案、表單、留言。你不知道裡面有什麼。\n\n加入群組聊天\n只用私訊操控。群組裡別人的訊息可能被當成指令執行。\n\n給它密碼或敏感權限\n不要讓它能登入你的銀行、交易所、核心系統。就算被攻擊，損失也要控制在可接受範圍。\n\n---\n\n核心原則\n輸入來源決定風險高低。\n你自己產生的內容 → 安全\n別人可以寫入的內容 → 危險\n想清楚這點，就知道什麼該用、什麼不該用。\n\nMac min i已經下訂啦\n這週就開搞",
+      "contentHtml": "我認為 Clawdbot 在未來一個月內會出現大量安全事故，Prompt Injection 會是主因。\n\n因為當你讓 AI 讀取「別人可以寫入的地方」，別人就能透過內容操控你的 AI。\n\n為了避免踩坑，我請 AI 把使用情境分成兩類，能用Clawdbot 跟不能用的場景：\n\n✅ 可以用\n寫 code / 開發專案\n讓它改你的 repo、跑測試、重構程式碼。這些都是你自己的檔案，沒有外部輸入，風險極低。\n\n跑爬蟲\n抓資料、處理數據、存進資料庫。只要爬回來的內容只是儲存或顯示，不會被當成指令解析，就沒問題。\n\n檔案管理\n整理資料夾、批次改名、搬移檔案。純粹的本地操作，安全。\n\n生成報告\n拿你自己的數據生成分析報告、圖表、文件。數據來源是你，不是別人。\n\n自動化部署\n跑 CI/CD、打包、部署到伺服器。流程固定，沒有外部輸入。\n\n❌ 不該用\n讀 email\n任何人都可以寄信給你，信裡可以藏指令。這是最經典的攻擊面。\n\n監控社群聊天\n群組裡任何人都能發訊息，等於開了一個讓陌生人操控你 AI 的入口。\n\n處理外部提交的內容\n比如讓它自動處理用戶上傳的檔案、表單、留言。你不知道裡面有什麼。\n\n加入群組聊天\n只用私訊操控。群組裡別人的訊息可能被當成指令執行。\n\n給它密碼或敏感權限\n不要讓它能登入你的銀行、交易所、核心系統。就算被攻擊，損失也要控制在可接受範圍。\n\n---\n\n核心原則\n輸入來源決定風險高低。\n你自己產生的內容 → 安全\n別人可以寫入的內容 → 危險\n想清楚這點，就知道什麼該用、什麼不該用。\n\nMac min i已經下訂啦\n這週就開搞",
+      "publishedAt": "2026-01-26T12:07:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2015758584110563478",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015757216939418068",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "巴菲特曾是“白银之王”，但还是卖太早了\n\n沃伦·巴菲特早在1997-1998年以约5美元/盎司买入1.297亿盎司白银（占当时全球年产量约25%），引发市场轰动，后在十年内全部卖出。\n\n他自嘲：“买得早，卖得早，其他都完美。”若持仓至今（当前白银≈100美元+/盎司），价值已超130亿美元！\n\n巴菲特看好白银的理由：供不应求，库存下降——和今天一模一样。\n\n1998年芒格赞叹他的耐心：几十年盯着，只等机会把2%资产砸进去。\n\n历史总是惊人相似。白银过去一年翻倍，2026年迄今已涨40%+。\n\n巴菲特式智慧：需求超供给时，价格终会上涨。但时机最难把握。\n\n（来源：伯克希尔旧公告 + 当前市场数据）",
+      "contentHtml": "巴菲特曾是“白银之王”，但还是卖太早了\n\n沃伦·巴菲特早在1997-1998年以约5美元/盎司买入1.297亿盎司白银（占当时全球年产量约25%），引发市场轰动，后在十年内全部卖出。\n\n他自嘲：“买得早，卖得早，其他都完美。”若持仓至今（当前白银≈100美元+/盎司），价值已超130亿美元！\n\n巴菲特看好白银的理由：供不应求，库存下降——和今天一模一样。\n\n1998年芒格赞叹他的耐心：几十年盯着，只等机会把2%资产砸进去。\n\n历史总是惊人相似。白银过去一年翻倍，2026年迄今已涨40%+。\n\n巴菲特式智慧：需求超供给时，价格终会上涨。但时机最难把握。\n\n（来源：伯克希尔旧公告 + 当前市场数据）",
+      "publishedAt": "2026-01-26T12:02:00.000Z",
+      "link": "https://x.com/hazenlee/status/2015757216939418068",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_logCuaYAAp0Qy.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015755949890494774",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "4/ Just like Chinese Instagram (The RedNote) is no where close to Instagram itself, localization is the path to long term success of prediction market in both product design and market curation\n\nThink we will end up with two different prediction market recipes to serve different taste profiles of users, just as most cultural centric product manifestation",
+      "contentHtml": "4/ Just like Chinese Instagram (The RedNote) is no where close to Instagram itself, localization is the path to long term success of prediction market in both product design and market curation\n\nThink we will end up with two different prediction market recipes to serve different taste profiles of users, just as most cultural centric product manifestation",
+      "publishedAt": "2026-01-26T11:57:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2015755949890494774",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015755947977924941",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "3/ East demand, or simiply what retails cares and knowledgeable with are far more different\n\nPolitics talk is highly constrained in China. Japan retail mostly doesn’t care. Korea retail cares more about pure speculation and pop culture/K-pop drama\n\nThat’s where Opinion has a real edge: local cultural instincts that keep mid/long-tail markets alive",
+      "contentHtml": "3/ East demand, or simiply what retails cares and knowledgeable with are far more different\n\nPolitics talk is highly constrained in China. Japan retail mostly doesn’t care. Korea retail cares more about pure speculation and pop culture/K-pop drama\n\nThat’s where Opinion has a real edge: local cultural instincts that keep mid/long-tail markets alive",
+      "publishedAt": "2026-01-26T11:57:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2015755947977924941",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015755946266628203",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "2/ My current take (after talking to traders across all 3):\nCulture signals demand surface area, curation decides whether that signal compounds into repeat volume\n\nUS users already have deep in betting sports, US politics have turned big reality show so retails are very acumen to politics events. So Kalshi/Polymarket naturally optimize for fewer markets, thicker books, great for whales and prosumers",
+      "contentHtml": "2/ My current take (after talking to traders across all 3):\nCulture signals demand surface area, curation decides whether that signal compounds into repeat volume\n\nUS users already have deep in betting sports, US politics have turned big reality show so retails are very acumen to politics events. So Kalshi/Polymarket naturally optimize for fewer markets, thicker books, great for whales and prosumers",
+      "publishedAt": "2026-01-26T11:57:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2015755946266628203",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015755944177877310",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "1/ Most prediction market comps miss a key point: category mix\n- Kalshi: Sports ~90%\n- Polymarket: Sports + Politics ~80%\n- Opinion: far more balanced across Pre-TGE/Culture/Crypto/Macro\n\nSo what's driving this? culture (regional demand) or curation taste?",
+      "contentHtml": "1/ Most prediction market comps miss a key point: category mix\n- Kalshi: Sports ~90%\n- Polymarket: Sports + Politics ~80%\n- Opinion: far more balanced across Pre-TGE/Culture/Crypto/Macro\n\nSo what's driving this? culture (regional demand) or curation taste?",
+      "publishedAt": "2026-01-26T11:57:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2015755944177877310",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_lfqnWXsAAXfq7.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2015753810023751721",
       "username": "0xleng1",
@@ -11218,189 +11335,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FG_BzT_kbUAAKQyJ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013233707562438818",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "had our internal recap of dats's outlook for 2026 since the max fud of MSTR. the downstream effect that eth dat will have on eth onchain economy and tvl distribution will be interesting to watch\n\ncan follow @0xtony0x for more insider look as this regime evolves.",
-      "contentHtml": "had our internal recap of dats's outlook for 2026 since the max fud of MSTR. the downstream effect that eth dat will have on eth onchain economy and tvl distribution will be interesting to watch\n\ncan follow <a href=\"/0xtony0x\" title=\"Tony\">@0xtony0x</a> for more insider look as this regime evolves.",
-      "publishedAt": "2026-01-19T12:54:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2013233707562438818",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013231970076004655",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "Tony’s right @0xtony0x (our Wall Street trench warrior) $MSTR FUD now feels like 2017 Tether FUD. mNAV < 1 is not death spiral, just less room for balancesheet eng\n\nWhat worth watching 👇\n- DATs now hold alarger share of $ETH supply than $BTC (4.5% vs 3.5%) \n- $SOL DATs all under mNAV, seems Wall Street’s not convinced SOL is a balancesheet asset (yet)",
-      "contentHtml": "Tony’s right <a href=\"/0xtony0x\" title=\"Tony\">@0xtony0x</a> (our Wall Street trench warrior) <a href=\"/search?q=%23MSTR\">$MSTR</a> FUD now feels like 2017 Tether FUD. mNAV &lt; 1 is not death spiral, just less room for balancesheet eng\n\nWhat worth watching 👇\n- DATs now hold alarger share of <a href=\"/search?q=%23ETH\">$ETH</a> supply than <a href=\"/search?q=%23BTC\">$BTC</a> (4.5% vs 3.5%) \n- <a href=\"/search?q=%23SOL\">$SOL</a> DATs all under mNAV, seems Wall Street’s not convinced SOL is a balancesheet asset (yet)",
-      "publishedAt": "2026-01-19T12:48:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2013231970076004655",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_BkCGUXUAER79B.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xtony0x",
-        "displayName": "Tony",
-        "content": "See many people fudding Seeing many people fudding $MSTR on my timeline. Here are some of my takes:\n\n- MSTR will not become insolvent anytime soon. It holds ~$60.8B worth of BTC & ~$1.44B cash against outstanding debt of ~$8.2B, implying only ~11% leverage. Additionally, the $1.44B reserve fund raised through the ATM guarantees interest payments for the next 21 months.\n\n- If they got excluded from MSCI (decision by Jan 15 2026), the direct exposure is ~$2.8B of forced selling. If they got broader exclusion from NASDAQ 100 and Russell, it will be additional ~$6-8B forced selling pressure. The latter depends less on MSCI alignment and more on the ICB (Industry Classification Benchmark) annual review in March. If ICB reclassifies MSTR from \"Tech\" to \"Financials,\" it gets excluded from the Nasdaq 100.\n\n- If exclusion happens, mNAV could dip below 1.0 (currently ~1.13). Will Saylor sell BTC? I think it's possible, but not anytime soon. Historically, he never sells just because mNAV compresses (the one past sale was purely for tax harvesting). His playbook is: 1) Stop ATM, 2) Raise debt (he once collateralized his BTC to borrow cash), and), 3) Hodl BTC. He still has some tools to raise capital either through BTC lending or collateralized loans. I don't think he will sell BTC until he tapped in these alternative options for cash, and also he has not upcoming payment obligation for 21 months.\n\n- The only scenario where I could see Saylor capitulate is a confluence of broad index exclusion + the CAMT Tax Bill hitting (IRS demanding ~$1B+ cash tax on paper gains). If he could not raise capital through debt or equity, he might have to consider selling BTC. If that downward reflexivity of MSTR & BTC kicks in, it could be a generational buying opportunity.",
-        "link": "https://x.com/0xtony0x/status/1996234218590831034"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013227465716699236",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "piped.video/live/Y_pfRWu2UpY… nitter.net/i/broadcasts/1nAKEEYbL…",
-      "contentHtml": "<a href=\"https://piped.video/live/Y_pfRWu2UpY?feature=share\">piped.video/live/Y_pfRWu2UpY…</a> <a href=\"https://nitter.net/i/broadcasts/1nAKEEYbLQOKL\">nitter.net/i/broadcasts/1nAKEEYbL…</a>",
-      "publishedAt": "2026-01-19T12:30:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2013227465716699236",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013227149977702447",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "dtcc erc standard/eth l1 & l2 是肯定会有的. Sol推的很难.. 看看SOL dat就知道,  一个mNav>1 都没有, 华尔街用脚投票 ..",
-      "contentHtml": "dtcc erc standard/eth l1 &amp; l2 是肯定会有的. Sol推的很难.. 看看SOL dat就知道,  一个mNav&gt;1 都没有, 华尔街用脚投票 ..",
-      "publishedAt": "2026-01-19T12:28:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2013227149977702447",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_Bq56cXsAAeLdj.jpg"
-        }
-      ],
-      "quote": {
-        "username": "LNudt",
-        "displayName": "LL",
-        "content": "希望还有sol 这些“边角料链”。\n不然DTCC和高盛这些核心资本cabal都去自己建联盟链了，显得前几年币圈“大干快上”的造“高速路”公链竞赛像个笑话……eth发展了几年的研究成果都被直接拿去搞他们自建的联盟链直接绕开了。",
-        "link": "https://x.com/LNudt/status/2012495266356568391"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013209943885926565",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "买爽了，「单日建仓 42,452.79 ETH」的巨鲸 / 机构再次加仓 11355.06 wstETH！😨\n\n地址 0x81D…74246 过去 1 小时在链上以均价 $3932.8 再次买入 wstETH 并同步将其解封装为 stETH，花费 4466 万美元；过去 24 小时已累计建仓 66,107.49 stETH，总价值 2.12 亿美元\n\n目前链上仍持有 1593 万枚 USDT，或许会继续建仓？钱包地址 debank.com/profile/0x81d0ac9…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-      "contentHtml": "买爽了，「单日建仓 42,452.79 ETH」的巨鲸 / 机构再次加仓 11355.06 wstETH！😨\n\n地址 0x81D…74246 过去 1 小时在链上以均价 $3932.8 再次买入 wstETH 并同步将其解封装为 stETH，花费 4466 万美元；过去 24 小时已累计建仓 66,107.49 stETH，总价值 2.12 亿美元\n\n目前链上仍持有 1593 万枚 USDT，或许会继续建仓？钱包地址 <a href=\"https://debank.com/profile/0x81d0ac9a5f91188074fd753a03885162bec74246\">debank.com/profile/0x81d0ac9…</a>\n\n本文由 <a href=\"/search?q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
-      "publishedAt": "2026-01-19T11:20:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2013209943885926565",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_BbxMlWkAAILoJ.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "单日建仓 42,452.79 ETH！E 卫兵又多一员大将？😲\n\n地址 0x81D…74246 8 小时前从 #Binance 提出 10057 枚 ETH，借出 4500 万枚 USDT，10 分钟前又提出 32395 ETH，提出价格 $3202.77，疑似通过杠杆持续加仓，目前健康度 1.35\n\n当前他这 42452.79 枚 ETH（1.37 亿美元）平均成本约为 $3237.26，浮亏 147.7 万美元，钱包地址 debank.com/profile/0x81d0ac9…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-        "link": "https://x.com/ai_9684xtpa/status/2013162310605681102",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_Awa4QXIAA99ZD.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013208365573275770",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "It seems like Lighter market makers are a bit nervous 😭",
-      "contentHtml": "It seems like Lighter market makers are a bit nervous 😭",
-      "publishedAt": "2026-01-19T11:14:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2013208365573275770",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_BaVXGW0AEEBch.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013206669052780852",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "$dash 草\n\n八字不合\n拉黑永不录用",
-      "contentHtml": "<a href=\"/search?q=%23dash\">$dash</a> 草\n\n八字不合\n拉黑永不录用",
-      "publishedAt": "2026-01-19T11:07:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2013206669052780852",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_BYya6WAAA6hlb.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_BYyalXwAAlUrj.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_BYyasXQAAe6NL.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "要么炒币\n要么草比\n\n别让我看到你们舔🐔，太特么丢人了\n$dusk \n$dash",
-        "link": "https://x.com/Bitfatty/status/2013130695942774839",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_ATsUmW8AEw_8h.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_ATsUoWwAE17gL.jpg"
           }
         ]
       },
