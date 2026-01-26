@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T15:27:13.713Z",
+  "lastUpdated": "2026-01-26T15:53:54.424Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,48 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 511,
+    "newFetched": 510,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2015809184181456946",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "「1011 闪崩后开空内幕大佬」减仓 $ETH 多单，多军头子要投降了？\n—— 别怕，囤的现货数量比减仓的多得多\n\n🔴 Hyperliquid 地址 0xb31…283ae 过去 1 小时割肉减仓 12587.99 枚 ETH，亏损 342.4 万美元\n🟢 新地址 0xcA0…b2998 过去 22 小时累计从 #Binance 提出 11.8 万枚 ETH，总价值 3.38 亿美元，平均提出价格 $2871.4 intel.arkm.com/explorer/addr…\n\n目前，他在 Hyperliquid 仍持有 210,752.65 ETH、1000 枚 BTC 和 51.1 万枚 SOL 的多单，仓位总价值 7.67 亿美元，浮亏 5713 万美元 hyperbot.network/trader/0xb3…",
+      "contentHtml": "「1011 闪崩后开空内幕大佬」减仓 <a href=\"/search?q=%23ETH\">$ETH</a> 多单，多军头子要投降了？\n—— 别怕，囤的现货数量比减仓的多得多\n\n🔴 Hyperliquid 地址 0xb31…283ae 过去 1 小时割肉减仓 12587.99 枚 ETH，亏损 342.4 万美元\n🟢 新地址 0xcA0…b2998 过去 22 小时累计从 <a href=\"/search?q=%23Binance\">#Binance</a> 提出 11.8 万枚 ETH，总价值 3.38 亿美元，平均提出价格 $2871.4 <a href=\"https://intel.arkm.com/explorer/address/0xcA08371f6e9204Dd6927dcc2dB5504EA062b2998\">intel.arkm.com/explorer/addr…</a>\n\n目前，他在 Hyperliquid 仍持有 210,752.65 ETH、1000 枚 BTC 和 51.1 万枚 SOL 的多单，仓位总价值 7.67 亿美元，浮亏 5713 万美元 <a href=\"https://hyperbot.network/trader/0xb317d2bc2d3d2df5fa441b5bae0ab9d8b07283ae?ic=6792001762\">hyperbot.network/trader/0xb3…</a>",
+      "publishedAt": "2026-01-26T15:28:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2015809184181456946",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_mXrWtWEAAOxeE.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_mXumsawAAcLu5.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "近一周的持续利润回吐，让「1011 闪崩后开空内幕大佬」账户总盈利已下降至 2025.10 以来的最低值🥲\n\n当前价值 7.89 亿美元的多单浮亏 7359 万美元，凌晨则一度浮亏逼近 9000 万美元， $BTC 最低跌至 8.6w， $ETH 跌至 $2787，真是血流成河的一晚…\n\n至于清算价格？暂时还不必担心，保证金是足够的杠杆拉得也不高，看来他早已做好长期战斗的准备了\n\n传送门 👉 hyperbot.network/trader/0xb3…",
+        "link": "https://x.com/ai_9684xtpa/status/2015623918900724173",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_jt6AeakAAO4E_.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2015805434754720144",
       "username": "Bitfatty",
@@ -1021,6 +1058,37 @@
         "displayName": "比特币橙子Trader",
         "content": "Clawdbot 玩疯了,强烈推荐！\n\n简单说，Clawdbot就是把 AI 从浏览器里“抠”出来，装进你的 Telegram 里干活。\n\nClawdbot 是一个开源、自托管的“网关”，它把 LLM（大脑）直接塞进了你的即时通讯软件（手脚）里。\n\n传统路径： 打开网页 -> 提示词 -> 复制文本 -> 手动执行。\n\nClawdbot 路径： 在 TG/Signal 发一句指令 -> AI 自动调工具 -> 跑代码 -> 返回结果。\n\n为什么clawdbot值得关注？\n\n它解决了当前 AI 应用的三大痛点，特别是对于 Power User：\n\n⚡️ 场景无缝化 ： 不需要切换 App。你的 AI 助理就像你的微信好友一样，随时在列表里待命。\n\n🛠️ 真正的 Agent 能力 ： 它是“Vibe Coding”的终极形态。通过配置 Skills，你可以用自然语言在手机上指挥服务器跑代码、发邮件、管理日程。\n\n🔒 隐私与安全 ： 数据掌握在自己手里的服务器上。独创 Pairing（配对）机制，只有你批准的账号才能调用你的 AI，默认拒绝陌生人。\n\nClawdbot  vs  Claude Cowork，核心差异在哪？\n\n🔴 Claude Cowork (官方)\n\n定位：打工人的生产力工具\n场景：整理文档、点点鼠标\n数据：托管在云端\n比喻：租房住 (拎包入住)\n\n🟢 Clawdbot (黑客/极客)\n\n定位：私有 AI 基础设施\n场景：服务器监控、自动化任务、跑 Cron\n数据：本地优先 (Local First)\n比喻：自己盖楼 (完全掌控)\n\nClawdbot架构是什么？\n\n我认为简单总结，拆解下来就是三部分：\n\n🧠 Agents (大脑)： 接入 OpenAI、Claude 或本地 Llama，负责理解意图。\n\n📡 Channels (手脚)： 支持 WhatsApp, Telegram, Discord, iMessage (CLI)，负责消息收发。\n\n🛡️ Gateway (中枢)： 运行在你的 Mac 或服务器上，负责鉴权、路由和任务分发。\n\nCrypto 人的实战用法，我简单想了下，利用Clawdbot 可以做：\n\n📊 链上监控哨兵： 结合 Telegram Bot API，让 Clawdbot 定时抓取链上数据，发现异动直接私聊预警。\n\n📰 宏观简报自动化： 每天早上自动搜集美联储动态和宏观新闻，汇总后推送到 Signal。\n\n💻 移动端运维： 在手机上发一条指令，直接让家里的服务器重启服务或执行备份。\n\n无论是 CoWork ，还是Clawdbot ，本质就是让设备更加智能，让AI从被动式逐渐变成主动式，这也是今年AI发展的核心趋势之一。",
         "link": "https://x.com/chengzi_95330/status/2015422507978023370"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015678528025739482",
+      "username": "garrytan",
+      "displayName": "Garry Tan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1922894268403941377%2F-dGWAt3N_bigger.jpg",
+      "content": "They're going to increase gross receipts tax by 800% and some people think the way to fill downtown with businesses is art? \n\nNo, it's actually making a city that encourages business instead of forces it to move away\n\nDowntown will be empty forever if there isn't reform",
+      "contentHtml": "They're going to increase gross receipts tax by 800% and some people think the way to fill downtown with businesses is art? \n\nNo, it's actually making a city that encourages business instead of forces it to move away\n\nDowntown will be empty forever if there isn't reform",
+      "publishedAt": "2026-01-26T06:49:00.000Z",
+      "link": "https://x.com/garrytan/status/2015678528025739482",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_kgvLGaYAAgTuC.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "joffemd",
+        "displayName": "Marc Joffe",
+        "content": "Why does @sfchronicle publish such dumb op-eds?\n\nIt would be great to reactivate the upper levels of Embarcadero Center, but installing a lot of public art isn't going to do it.\n\nLowering the cost of doing business downtown will.\nsfchronicle.com/opinion/arti…",
+        "link": "https://x.com/joffemd/status/2015589506750325222"
       },
       "stats": {
         "replies": 0,
@@ -2383,18 +2451,6 @@
       "contentHtml": "一群男人光著膀子在沙灘上揮灑汗水，想想就浪漫",
       "publishedAt": "2026-01-25T11:43:00.000Z",
       "link": "https://x.com/BensonTWN/status/2015390180749050305",
-      "quote": {
-        "username": "KuiGas",
-        "displayName": "丰密",
-        "content": "组了个okx沙滩加密奶子小局，看夕阳。\n\n从中午喝到下午，\n酒喝了一杯接一杯，\n海浪一浪接着一浪\n像一轮又一轮牛熊，\n不声不响，但谁都躲不开\n\n聊的是资产、行情、周期、还有那些圈里的人和事。\n\n我忽然觉得，\n能在这种时候坐在一起，\n本身就是一种难得的共鸣\n\n@Haiteng_okx @BensonTWN @cishanjia @connectfarm1 @thecryptoskanda @qinbafrank @Bitwux @fugui8 @crypto_0xhunter\n\n#OKX年夜饭",
-        "link": "https://x.com/KuiGas/status/2015389301044019601",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_gZ4BfbEAA4Cvs.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11246,60 +11302,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013269100278268099",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "和比特币不同，#BCH 一直走着自己的节奏。\n\n从去年4月至今，它始终维持着上涨的基调。其间虽有过深度回撤，甚至短暂砸穿形态关键位与EMA支撑，但总能在几天内迅速收回失地，重回多头轨道。\n\n因此，我的判断框架仍然清晰：只要BCH不实质跌破EMA200（假跌破除外），我就继续押注它最终会走出一轮周线级别的突破上涨。\n\n*只做现货，不碰合约。",
-      "contentHtml": "和比特币不同，<a href=\"/search?q=%23BCH\">#BCH</a> 一直走着自己的节奏。\n\n从去年4月至今，它始终维持着上涨的基调。其间虽有过深度回撤，甚至短暂砸穿形态关键位与EMA支撑，但总能在几天内迅速收回失地，重回多头轨道。\n\n因此，我的判断框架仍然清晰：只要BCH不实质跌破EMA200（假跌破除外），我就继续押注它最终会走出一轮周线级别的突破上涨。\n\n*只做现货，不碰合约。",
-      "publishedAt": "2026-01-19T15:15:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2013269100278268099",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_CPooRbIAAXXlR.jpg"
-        }
-      ],
-      "quote": {
-        "username": "CycleStudies",
-        "displayName": "百萬Eric | Day Trader",
-        "content": "#BCH 触发周线突破预警信号。\n\n前三次同级别的预警，结果分别是：下跌 50%，上涨 58%，上涨 102%。\n\n这种级别的信号过去的表现足够极端，这次足够值得期待。\n\n但有一点必须提醒：上一次的突破预警从出现到真正突破，中间整整酝酿了 70 天。\n\n这 70 天里，价格在区间里来回累计波动了接近 50%。\n也就是说，即便我们已经知道它有突破苗头，但随便乱上车仍然会被折腾得很惨。",
-        "link": "https://x.com/CycleStudies/status/1996082324963037623",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG7OBHfVaQAAGvtX.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013262905710363069",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "比特币 #BTC 各种信号开始打架。\n\n价格结构破位了，按理卡关键位置，顺着做空。\n\n可指标又冒出4小时超卖，按理至少该反弹一点...\n\n再一想，过去这一个月，比特币循环多次的“急跌→碎步回血→再急跌→总体上涨的”的剧本…\n\n得，不猜了...",
-      "contentHtml": "比特币 <a href=\"/search?q=%23BTC\">#BTC</a> 各种信号开始打架。\n\n价格结构破位了，按理卡关键位置，顺着做空。\n\n可指标又冒出4小时超卖，按理至少该反弹一点...\n\n再一想，过去这一个月，比特币循环多次的“急跌→碎步回血→再急跌→总体上涨的”的剧本…\n\n得，不猜了...",
-      "publishedAt": "2026-01-19T14:50:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2013262905710363069",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_CJ26KasAAsKny.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
