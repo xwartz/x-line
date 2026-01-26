@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T10:38:35.570Z",
+  "lastUpdated": "2026-01-26T11:00:21.565Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,93 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 513,
+    "newFetched": 510,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2015739491923919118",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "讲个笑话，上赛季买了10W刀RIVER的YT，随着RIVER的价格来到80刀，积分的残值从8000刀来到了3.2W刀。\n\n还好我对做空这些垃圾从来都没什么想法，不然10刀开始套保都能恶心死人了。没钱套爆仓就算了，后手足够真的会被当成燃料恶心死的。你可能不知道，一开始River找到的对手盘，很多都是KOL轮或者真金白银买他们积分支持他们的套保盘。\n\n所以说他们找到好大哥，拉盘拉的牛逼可以，还在嘴撸说项目方多良心的杂碎真的省省吧。",
+      "contentHtml": "讲个笑话，上赛季买了10W刀RIVER的YT，随着RIVER的价格来到80刀，积分的残值从8000刀来到了3.2W刀。\n\n还好我对做空这些垃圾从来都没什么想法，不然10刀开始套保都能恶心死人了。没钱套爆仓就算了，后手足够真的会被当成燃料恶心死的。你可能不知道，一开始River找到的对手盘，很多都是KOL轮或者真金白银买他们积分支持他们的套保盘。\n\n所以说他们找到好大哥，拉盘拉的牛逼可以，还在嘴撸说项目方多良心的杂碎真的省省吧。",
+      "publishedAt": "2026-01-26T10:52:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2015739491923919118",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015737354691174477",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "昨晚，BTC下跌至$86,500时，BRS最高升至55；虽然升速很快，但距离峰值100还有一段距离。如果不破8.7w，短期内仍有反弹的可能性；但对我来说这里不是最理想的介入点，无论是短线最多还是现货加仓。\n\n在价格持续被STH-RP压制，LTH敏感度上升，大型实体累计趋势开始下降之时，我会更加小心谨慎，不能和趋势对抗；在没有较高确定性的前提下，不盲目参与市场博弈。\n\n以上仅作为学习交流，不作为投资建议！\n------------------------------------------------ \n本文由 @bitget 赞助｜ Bitget VIP，费率更低，福利更狠",
+      "contentHtml": "昨晚，BTC下跌至$86,500时，BRS最高升至55；虽然升速很快，但距离峰值100还有一段距离。如果不破8.7w，短期内仍有反弹的可能性；但对我来说这里不是最理想的介入点，无论是短线最多还是现货加仓。\n\n在价格持续被STH-RP压制，LTH敏感度上升，大型实体累计趋势开始下降之时，我会更加小心谨慎，不能和趋势对抗；在没有较高确定性的前提下，不盲目参与市场博弈。\n\n以上仅作为学习交流，不作为投资建议！\n------------------------------------------------ \n本文由 <a href=\"/bitget\" title=\"Bitget\">@bitget</a> 赞助｜ Bitget VIP，费率更低，福利更狠",
+      "publishedAt": "2026-01-26T10:43:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2015737354691174477",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_lRm2VaEAAK1hd.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "反弹见顶  or  牛市起步 ???\n\n在25年底我和Glassnode团队续约时，他们肯定了我这1年来对中文社区的贡献，特别为我开通原本是只给机构客户的“proprietary signals (内部专属信号)” 的访问权限。说实话，这里的内容完全不同于我过去所看的（太专业了），以至于这么多时间来我还没完全研究明白。\n\n不过有一个指标，我观察下来觉得对于抓反弹的高点区间比较有效，这里分享给小伙伴！—— 比特币风险信号（Bitcoin Risk Signal，BRS）\n\n官方对该指标的解释，只有这一句话：\nThe Bitcoin Risk Signal gauges the amount of risk of a major drawdown in bitcoin price. It is based on a set of proprietary indicators, including bitcoin price data, on-chain data, and a selection of other trading metrics.\n\n也就是说是“基于一系列综合数据”，但具体是什么算法、逻辑、原理？别问我，我也不知道。但用法很简单，即“当BRS从100降至0时，有且只有2种可能：1、牛市起步；2、反弹见顶”；我们先来看几个案例（不愿看推导过程的小伙伴，可以直接跳转到最后图4，看结论）：\n\n🚩 案例1、牛转熊时期\n\n（图1）\n\n在这个阶段，BRS=100意味着短期内BTC下跌风险达到顶峰，此后大概率会出现一波超跌反弹；如果没有信号提醒，我们很难把握反弹到哪里是高点区。当BRS从100降至0时就清晰的给出了答案。\n\n因此，我们从图1可以看到，18年进入熊市周期后的3次反弹的高点，都出现在BRS降至0后且维持了一小段。简单说，就是BRS=100可以搏反弹，100降到0且维持一段就是离场时机。\n\n（图2）\n\n在2022年入熊之前的反弹同样如此；22年1月BRS升至100，中间来回反复，直到3月BRS又降到0，同期对应反弹的高点。22年6月到8月，BTC从$18,000反弹到$24,000，信号也很清楚。\n\n🚩 案例2、牛市起步期\n\n（图3）\n\n在牛市起步阶段，当BRS从100降至0，到下一次再回到100，对应的是BTC一段完整的强趋势行情。在2023-2025年，以及过往几轮牛市周期我们都发现了类似的情况。\n\n所以，对我们来说在使用该信号作为交易参考时，首先要判断在当前牛熊转换期的大方向上是“熊转牛”的可能性更大还是“牛转熊”？在此基础上，我们才能在上述2种可能中选择正确的视角。\n\n我个人认为是后者的概率更大。虽然你们都知道对于BTC我是长期坚定看多的；是乐观派，但也不能盲目乐观。综合各方条件，各项数据，保持理性，尊重客观是我一贯的原则。\n\n（图4）\n\n现在我们看到的是：2025.11.21 BRS升至100，对应BTC跌至$82,000；此后指标一直反复，直到2026.1.14 BRS降至0，对应BTC反弹至$97,000；因此，基于以上大方向的判断，我的观点是这里属于“反弹的高点区”。\n\n但如果你要问“会不会继续反弹上10w”？当然不排除这种可能，就像上文提到，当BRS维持在0的一段时间，都是反弹的高点区域。当你在该范围内选择逐步离场，相对于下一次BRS升至100时BTC的低点，大概率不会错。\n\n当然，如果你在大方向上与我的判断不同，认为现在的方向是“熊转牛”，那么当前BRS降至0反而是牛市起步阶段。那你完全可以不用参考我的观点，坚定拿住就对了。每个人都有自己的理解方式，我说的也未必都对，遵循本心即可。\n\n以上仅作为学习交流，不作为投资建议！\n----------------------------------------------\n本文由 @Bitget 赞助｜\nBitget VIP，费率更低，福利更狠",
+        "link": "https://x.com/Murphychen888/status/2012016759143088416",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-wdkXdbQAA-Hfb.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-wdsLBbQAozndH.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015737066177593438",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
+      "content": "The lesson of Substack is that people want to support each other in the concrete, not in the abstract.",
+      "contentHtml": "The lesson of Substack is that people want to support each other in the concrete, not in the abstract.",
+      "publishedAt": "2026-01-26T10:42:00.000Z",
+      "link": "https://x.com/naval/status/2015737066177593438",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015737079301603451",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "想聊聊「運營」這件事。\n\n今天跟色佬@selao_eth 一起從 OKX 年夜飯活動搭飛機回來，途中跟他聊了很多。\n\n色佬說自己一直做運營相關的工作，有一陣子覺得挺迷惘的，覺得運營好像不夠 Hardcore，常懷疑自己做的事情到底有沒有價值。\n\n我完全能同理他的想法。\n\n因為以前的我也這樣想過。好像只要不在開發部門、不會寫程式、不直接負責銷售，單純做運營就有點虛，因為這工作誰都能做。\n\n但自從當了老闆之後，我的想法改變了。\n\n我現在認為，運營是所有領導者都必須學會的能力。當你從技術職轉向管理職，專業能力的重要性會逐漸下降，最後剩下的核心就兩件事：怎麼調度資源、怎麼分配團隊的工作。\n\n換句話說，只要你想往上走，運營能力就是必修課。\n\n那好的運營跟平庸的運營差在哪？\n\n平庸的運營，把交代的事情做完就好。好的運營，會思考整件事的全局，拆解事情的本質，找出問題反覆出現的根源，然後從流程跟制度層面把它解決掉。\n\n一個是執行者，一個是系統設計者。\n\n我認為目前矽谷最偉大的運營者，就是 Tim Cook。Steve Jobs 當年選他接班，看中的就是他極其強大的運營能力。他能管理這麼龐大的商業帝國，靠的不是技術，是把複雜的事情拆解、優化、規模化的本事。\n\n運營做得好，是一種非常頂尖且稀有的才能。關鍵在於你有沒有心把事情拆解到最小的單位，然後針對每個單位去迭代。這種辨識問題的能力，不亞於寫程式，不亞於做銷售，在組織裡同樣關鍵。\n\n所以如果你是運營，真的不用妄自菲薄。這份工作看起來什麼都能碰，但「能做」跟「能做得好」之間，有一道巨大的鴻溝。\n\n能把運營做到極致的人，最後都會成為組織裡不可或缺的人。",
+      "contentHtml": "想聊聊「運營」這件事。\n\n今天跟色佬<a href=\"/selao_eth\" title=\"色佬 Selao\">@selao_eth</a> 一起從 OKX 年夜飯活動搭飛機回來，途中跟他聊了很多。\n\n色佬說自己一直做運營相關的工作，有一陣子覺得挺迷惘的，覺得運營好像不夠 Hardcore，常懷疑自己做的事情到底有沒有價值。\n\n我完全能同理他的想法。\n\n因為以前的我也這樣想過。好像只要不在開發部門、不會寫程式、不直接負責銷售，單純做運營就有點虛，因為這工作誰都能做。\n\n但自從當了老闆之後，我的想法改變了。\n\n我現在認為，運營是所有領導者都必須學會的能力。當你從技術職轉向管理職，專業能力的重要性會逐漸下降，最後剩下的核心就兩件事：怎麼調度資源、怎麼分配團隊的工作。\n\n換句話說，只要你想往上走，運營能力就是必修課。\n\n那好的運營跟平庸的運營差在哪？\n\n平庸的運營，把交代的事情做完就好。好的運營，會思考整件事的全局，拆解事情的本質，找出問題反覆出現的根源，然後從流程跟制度層面把它解決掉。\n\n一個是執行者，一個是系統設計者。\n\n我認為目前矽谷最偉大的運營者，就是 Tim Cook。Steve Jobs 當年選他接班，看中的就是他極其強大的運營能力。他能管理這麼龐大的商業帝國，靠的不是技術，是把複雜的事情拆解、優化、規模化的本事。\n\n運營做得好，是一種非常頂尖且稀有的才能。關鍵在於你有沒有心把事情拆解到最小的單位，然後針對每個單位去迭代。這種辨識問題的能力，不亞於寫程式，不亞於做銷售，在組織裡同樣關鍵。\n\n所以如果你是運營，真的不用妄自菲薄。這份工作看起來什麼都能碰，但「能做」跟「能做得好」之間，有一道巨大的鴻溝。\n\n能把運營做到極致的人，最後都會成為組織裡不可或缺的人。",
+      "publishedAt": "2026-01-26T10:42:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2015737079301603451",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2015734823764324858",
       "username": "0xleng1",
@@ -2328,6 +2410,31 @@
             "url": "https://nitter.net/pic/orig/media%2FG_RkH25a0AAEJgd.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015252565999407199",
+      "username": "StuartBlitz",
+      "displayName": "Stuart Blitz",
+      "avatar": "https://nitter.net/pic/profile_images%2F972182900455206918%2FVutst2xU_bigger.jpg",
+      "content": "VC vs. founder",
+      "contentHtml": "VC vs. founder",
+      "publishedAt": "2026-01-25T02:37:00.000Z",
+      "link": "https://x.com/StuartBlitz/status/2015252565999407199",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_edh1PXoAAygQe.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11279,119 +11386,6 @@
       "contentHtml": "最新一期的ALL-IN又被喷惨了：\n“连续3年喷达沃斯论坛的你们今年被邀请了怎么变嘴脸了？”\nDAVID SACHS“我们不是黑手党社会”\n同样DAVID SACHS“我们会给格林兰一个他们无法拒绝的条件”\n我算是ALL IN的老粉了，过去两年这四个人讨论最多的共识就是美国的财政赤字，2025年，川普执政的第一年，财政赤字的确比24年下降了2%，但其中主要一部分是学生贷款的会计修改，除去后财政赤字仍然在大幅扩大。当然，很大一部分是因为利息支出的增长。\n然后四个人里面感觉最有“人性”的FRIEDBERG在年底采访贝森特的时候竟然没有任何的质疑，理解了他们所在的地位，和因为站队川普所获得的利益，就不难理解立场了。\n所以现在的ALL IN从原来的提出质疑到了川普团队的发声筒，从投资的角度来看倒不见得是坏事。\n找到时间把CHAMATH的AEXA买回来😂",
       "publishedAt": "2026-01-19T06:31:00.000Z",
       "link": "https://x.com/TJ_Research/status/2013137199819026898",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013136603108008065",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "公交车纹这个很正常",
-      "contentHtml": "公交车纹这个很正常",
-      "publishedAt": "2026-01-19T06:29:00.000Z",
-      "link": "https://x.com/hazenlee/status/2013136603108008065",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_AZEHnXQAAGSgT.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013133425352270027",
-      "username": "byersblake",
-      "displayName": "Blake Byers",
-      "avatar": "https://nitter.net/pic/profile_images%2F1628177601864028160%2FOk17wsYu_bigger.jpg",
-      "content": "This is the best summary of the personal impact of the California Wealth Tax I've seen. Founders, if you have super voting shares, your tax liability may be substantially higher than your net worth. Private company shareholders, especially those in heavy industries, face a similar risk. Note this tax can apply to founders and shareholders with far less than $1B in net worth as well. As a lifetime Californian, this pains me to say, but founders of any unicorn company or any startup that could become a unicorn this year, really need to start planning a potential move or many will face 30-50%+ wealth taxes and potential bankruptcy. I'm still hopeful that voters will see the serious negative impact on California's tax revenue, services and jobs and will vote this proposition down... but it's so egregiously bad that you need a backup plan. \n\ntaxfoundation.org/research/a…",
-      "contentHtml": "This is the best summary of the personal impact of the California Wealth Tax I've seen. Founders, if you have super voting shares, your tax liability may be substantially higher than your net worth. Private company shareholders, especially those in heavy industries, face a similar risk. Note this tax can apply to founders and shareholders with far less than $1B in net worth as well. As a lifetime Californian, this pains me to say, but founders of any unicorn company or any startup that could become a unicorn this year, really need to start planning a potential move or many will face 30-50%+ wealth taxes and potential bankruptcy. I'm still hopeful that voters will see the serious negative impact on California's tax revenue, services and jobs and will vote this proposition down... but it's so egregiously bad that you need a backup plan. \n\n<a href=\"https://taxfoundation.org/research/all/state/california-wealth-tax-billionaires-proposal/\">taxfoundation.org/research/a…</a>",
-      "publishedAt": "2026-01-19T06:16:00.000Z",
-      "link": "https://x.com/byersblake/status/2013133425352270027",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013131264316829798",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "为啥说今天是小1011？？？\n上次1011我在做空，实在没感觉\n今天好像也没感觉\n啥情况(¯―¯٥)？",
-      "contentHtml": "为啥说今天是小1011？？？\n上次1011我在做空，实在没感觉\n今天好像也没感觉\n啥情况(¯―¯٥)？",
-      "publishedAt": "2026-01-19T06:07:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2013131264316829798",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013130695942774839",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "要么炒币\n要么草比\n\n别让我看到你们舔🐔，太特么丢人了\n$dusk \n$dash",
-      "contentHtml": "要么炒币\n要么草比\n\n别让我看到你们舔🐔，太特么丢人了\n<a href=\"/search?q=%23dusk\">$dusk</a> \n<a href=\"/search?q=%23dash\">$dash</a>",
-      "publishedAt": "2026-01-19T06:05:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2013130695942774839",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_ATsUmW8AEw_8h.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_ATsUoWwAE17gL.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013118612530200804",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "外面大太阳🌞\n\n我要去晒太阳了\n\n今天白天不播\n\n贵金属损了3万美金，币回血1.5万美金\n\n还差1.5😤",
-      "contentHtml": "外面大太阳🌞\n\n我要去晒太阳了\n\n今天白天不播\n\n贵金属损了3万美金，币回血1.5万美金\n\n还差1.5😤",
-      "publishedAt": "2026-01-19T05:17:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2013118612530200804",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_AIsRSWsAAYZip.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_AIsQdW0AA6eqQ.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_AIsQcXEAIDy4z.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_AIsRZXQAAJ6BN.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
