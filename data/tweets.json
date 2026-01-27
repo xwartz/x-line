@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T13:35:36.916Z",
+  "lastUpdated": "2026-01-27T14:08:09.722Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,87 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 511,
+    "newFetched": 509,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2016150078151655771",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "Bitfinex 巨鯨最近瘋狂加倉，以一天 400-600 BTC 的速度建倉，OTC desk 這幾天注入了3億美元左右的 USDT 到 Bitfinex。\n\n這是 Bitfinex 自去年 11 月 20 號行情觸底以來，最激進的加倉紀錄，這種速度的加倉通常代表兩件事情：\n\n1. 這邊的賣壓比較強，所以他們可以這樣加倉而不太會影響市場行情\n2. 他們認為行情進入了一個新的階段（因為之前在 88K 左右位置時，並沒有像現在一樣激進加倉）\n\n雖然不太確定他們看到了什麼，但他們顯然認為現在這個位置加倉是合理且划算的",
+      "contentHtml": "Bitfinex 巨鯨最近瘋狂加倉，以一天 400-600 BTC 的速度建倉，OTC desk 這幾天注入了3億美元左右的 USDT 到 Bitfinex。\n\n這是 Bitfinex 自去年 11 月 20 號行情觸底以來，最激進的加倉紀錄，這種速度的加倉通常代表兩件事情：\n\n1. 這邊的賣壓比較強，所以他們可以這樣加倉而不太會影響市場行情\n2. 他們認為行情進入了一個新的階段（因為之前在 88K 左右位置時，並沒有像現在一樣激進加倉）\n\n雖然不太確定他們看到了什麼，但他們顯然認為現在這個位置加倉是合理且划算的",
+      "publishedAt": "2026-01-27T14:03:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2016150078151655771",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_rNwyVbAAI7SBp.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2016149330286301240",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "我們公司現在也正在進行激烈的轉型當中。不管是 Marketing 也好、客服也好，或者是我本人以及我們的開發團隊，其實都在快速地 fit in 新時代，思考如何用 AI 來協助工作。\n\n目前我們家的 Marketing 已經學會用 Coding Agent 串接 Supabase 做 Marketing Dashboard，而且這個 Dashboard 還做到了 Authentication，讓只有內部的人員可以進去看，已經不再用 google sheet 複製貼上數據。\n\n甚至Marketing在構思行銷 campaign 的時候， 還會用claude code去讀我們前端的 Codebase，目的是讓 Agent 更能夠了解我們的業務邏輯，進而給出更好的行銷 campaign 建議，還可以直接給前端活動頁 Design 的建議。\n\n這種範式的改變對我們的組織來說，也經歷了很強的痛苦期，但大家的適應速度都很快。",
+      "contentHtml": "我們公司現在也正在進行激烈的轉型當中。不管是 Marketing 也好、客服也好，或者是我本人以及我們的開發團隊，其實都在快速地 fit in 新時代，思考如何用 AI 來協助工作。\n\n目前我們家的 Marketing 已經學會用 Coding Agent 串接 Supabase 做 Marketing Dashboard，而且這個 Dashboard 還做到了 Authentication，讓只有內部的人員可以進去看，已經不再用 google sheet 複製貼上數據。\n\n甚至Marketing在構思行銷 campaign 的時候， 還會用claude code去讀我們前端的 Codebase，目的是讓 Agent 更能夠了解我們的業務邏輯，進而給出更好的行銷 campaign 建議，還可以直接給前端活動頁 Design 的建議。\n\n這種範式的改變對我們的組織來說，也經歷了很強的痛苦期，但大家的適應速度都很快。",
+      "publishedAt": "2026-01-27T14:00:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2016149330286301240",
+      "quote": {
+        "username": "JaneYu611294",
+        "displayName": "Behind The Moon",
+        "content": "我最近真的很喜歡你最近的貼文，尤其是關於 AI 的分享，讓我也開始學習、自己動手開發一些小工具。\n\n謝謝你的分享，我真的覺得整個產業結構正在經歷一個非常巨大的轉變，但大多數人可能還沒有真正意識到這件事。",
+        "link": "https://x.com/JaneYu611294/status/2016142278000328725"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2016149092452463044",
+      "username": "Micpi818",
+      "displayName": "Micpi",
+      "avatar": "https://nitter.net/pic/profile_images%2F2009643006530560001%2FIy_SgNXC_bigger.jpg",
+      "content": "One is a status. The other is a state.",
+      "contentHtml": "One is a status. The other is a state.",
+      "publishedAt": "2026-01-27T13:59:00.000Z",
+      "link": "https://x.com/Micpi818/status/2016149092452463044",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2016148317160538527",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
+      "content": "Better than being loved is to be in love.",
+      "contentHtml": "Better than being loved is to be in love.",
+      "publishedAt": "2026-01-27T13:56:00.000Z",
+      "link": "https://x.com/naval/status/2016148317160538527",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2016130848966512701",
       "username": "BensonTWN",
@@ -3718,6 +3794,18 @@
       "contentHtml": "一群男人光著膀子在沙灘上揮灑汗水，想想就浪漫",
       "publishedAt": "2026-01-25T11:43:00.000Z",
       "link": "https://x.com/BensonTWN/status/2015390180749050305",
+      "quote": {
+        "username": "KuiGas",
+        "displayName": "丰密",
+        "content": "组了个okx沙滩加密奶子小局，看夕阳。\n\n从中午喝到下午，\n酒喝了一杯接一杯，\n海浪一浪接着一浪\n像一轮又一轮牛熊，\n不声不响，但谁都躲不开\n\n聊的是资产、行情、周期、还有那些圈里的人和事。\n\n我忽然觉得，\n能在这种时候坐在一起，\n本身就是一种难得的共鸣\n\n@Haiteng_okx @BensonTWN @cishanjia @connectfarm1 @thecryptoskanda @qinbafrank @Bitwux @fugui8 @crypto_0xhunter\n\n#OKX年夜饭",
+        "link": "https://x.com/KuiGas/status/2015389301044019601",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_gZ4BfbEAA4Cvs.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11190,84 +11278,6 @@
           "url": "https://nitter.net/pic/orig/media%2FG_HUIq5XsAAEgdl.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013622442971861291",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "现在回头看，你最后悔买入的山寨币是谁？",
-      "contentHtml": "现在回头看，你最后悔买入的山寨币是谁？",
-      "publishedAt": "2026-01-20T14:39:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2013622442971861291",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013621251890102519",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "Altcoin正处于流动性被抢夺的前夜，每一次pump都是溺水者的挣扎——看似激烈，实则是庄家完成最后派发的烟雾弹。",
-      "contentHtml": "Altcoin正处于流动性被抢夺的前夜，每一次pump都是溺水者的挣扎——看似激烈，实则是庄家完成最后派发的烟雾弹。",
-      "publishedAt": "2026-01-20T14:34:00.000Z",
-      "link": "https://x.com/follow_clues/status/2013621251890102519",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013616294784852253",
-      "username": "JoshuaDeuk",
-      "displayName": "Joshua | MOZAIK 🇰🇷",
-      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
-      "content": "Probably gotta wait till end of this week before bidding anything",
-      "contentHtml": "Probably gotta wait till end of this week before bidding anything",
-      "publishedAt": "2026-01-20T14:15:00.000Z",
-      "link": "https://x.com/JoshuaDeuk/status/2013616294784852253",
-      "quote": {
-        "username": "JoshuaDeuk",
-        "displayName": "Joshua | MOZAIK 🇰🇷",
-        "content": ":( time to be careful with high levg positons",
-        "link": "https://x.com/JoshuaDeuk/status/2011773628468379695"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013614703017107803",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "“没有后台信息提交的在线vibe coding黑客松”\n有幸通过友情评委的方式和大家学习\n\n1月20日~28日发推介绍自己的项目就能参加，\n具体方式见引用推：",
-      "contentHtml": "“没有后台信息提交的在线vibe coding黑客松”\n有幸通过友情评委的方式和大家学习\n\n1月20日~28日发推介绍自己的项目就能参加，\n具体方式见引用推：",
-      "publishedAt": "2026-01-20T14:08:00.000Z",
-      "link": "https://x.com/coolish/status/2013614703017107803",
-      "quote": {
-        "username": "trendsdotfun",
-        "displayName": "Trends | Capitalized Information Market",
-        "content": "你是不是已经被评论区里的“claim your fee（快去领你的创作者手续费）”烦到不行了？！\n\n来参加 @trendsdotfun 和 @Solana_zh 联合举办的 @solana Vibe Coding 黑客松：\n\n✅ 跟评委一起 vibe\n✅ 如果你是外国开发者，可以假装也说中文，我们不挑\n✅ 不再纠结到底要不要 “claim your fee”，放心领奖\n（……当然如果你其实还挺想领的也行 👀）\n\n奖池：20000 USDC\n时间：2026年1月20日香港时间晚7点 - 2026年1月30日香港时间晚7点\n\n黑客松搞事手册（参加规则）见下文 🔗",
-        "link": "https://x.com/trendsdotfun/status/2013571042988695990",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_Gj49BXYAAu2qt.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
