@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T16:00:51.046Z",
+  "lastUpdated": "2026-01-28T16:50:13.908Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 503,
+    "newFetched": 506,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2016553690996293924",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "看了星巴克 $SBUX 财报，听了管理层会议，经过两年的整顿，消费巨头的回归我认为有希望了。今天高开低走，可以关注，但市场早就开始定价了，什么时候开始的？24年8月份， $CMG CEO跳槽去星巴克的时候，1年多以来，FORWARD P/E涨了近1倍，股价涨了30%，非常标准的P/E先行，EPS跟上",
+      "contentHtml": "看了星巴克 <a href=\"/search?q=%23SBUX\">$SBUX</a> 财报，听了管理层会议，经过两年的整顿，消费巨头的回归我认为有希望了。今天高开低走，可以关注，但市场早就开始定价了，什么时候开始的？24年8月份， <a href=\"/search?q=%23CMG\">$CMG</a> CEO跳槽去星巴克的时候，1年多以来，FORWARD P/E涨了近1倍，股价涨了30%，非常标准的P/E先行，EPS跟上",
+      "publishedAt": "2026-01-28T16:47:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2016553690996293924",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_w8aufX0AooJTv.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2016530478912917792",
       "username": "Bitfatty",
@@ -4072,6 +4093,31 @@
         "displayName": "比特币橙子Trader",
         "content": "Clawdbot 玩疯了,强烈推荐！\n\n简单说，Clawdbot就是把 AI 从浏览器里“抠”出来，装进你的 Telegram 里干活。\n\nClawdbot 是一个开源、自托管的“网关”，它把 LLM（大脑）直接塞进了你的即时通讯软件（手脚）里。\n\n传统路径： 打开网页 -> 提示词 -> 复制文本 -> 手动执行。\n\nClawdbot 路径： 在 TG/Signal 发一句指令 -> AI 自动调工具 -> 跑代码 -> 返回结果。\n\n为什么clawdbot值得关注？\n\n它解决了当前 AI 应用的三大痛点，特别是对于 Power User：\n\n⚡️ 场景无缝化 ： 不需要切换 App。你的 AI 助理就像你的微信好友一样，随时在列表里待命。\n\n🛠️ 真正的 Agent 能力 ： 它是“Vibe Coding”的终极形态。通过配置 Skills，你可以用自然语言在手机上指挥服务器跑代码、发邮件、管理日程。\n\n🔒 隐私与安全 ： 数据掌握在自己手里的服务器上。独创 Pairing（配对）机制，只有你批准的账号才能调用你的 AI，默认拒绝陌生人。\n\nClawdbot  vs  Claude Cowork，核心差异在哪？\n\n🔴 Claude Cowork (官方)\n\n定位：打工人的生产力工具\n场景：整理文档、点点鼠标\n数据：托管在云端\n比喻：租房住 (拎包入住)\n\n🟢 Clawdbot (黑客/极客)\n\n定位：私有 AI 基础设施\n场景：服务器监控、自动化任务、跑 Cron\n数据：本地优先 (Local First)\n比喻：自己盖楼 (完全掌控)\n\nClawdbot架构是什么？\n\n我认为简单总结，拆解下来就是三部分：\n\n🧠 Agents (大脑)： 接入 OpenAI、Claude 或本地 Llama，负责理解意图。\n\n📡 Channels (手脚)： 支持 WhatsApp, Telegram, Discord, iMessage (CLI)，负责消息收发。\n\n🛡️ Gateway (中枢)： 运行在你的 Mac 或服务器上，负责鉴权、路由和任务分发。\n\nCrypto 人的实战用法，我简单想了下，利用Clawdbot 可以做：\n\n📊 链上监控哨兵： 结合 Telegram Bot API，让 Clawdbot 定时抓取链上数据，发现异动直接私聊预警。\n\n📰 宏观简报自动化： 每天早上自动搜集美联储动态和宏观新闻，汇总后推送到 Signal。\n\n💻 移动端运维： 在手机上发一条指令，直接让家里的服务器重启服务或执行备份。\n\n无论是 CoWork ，还是Clawdbot ，本质就是让设备更加智能，让AI从被动式逐渐变成主动式，这也是今年AI发展的核心趋势之一。",
         "link": "https://x.com/chengzi_95330/status/2015422507978023370"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015678528025739482",
+      "username": "garrytan",
+      "displayName": "Garry Tan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1922894268403941377%2F-dGWAt3N_bigger.jpg",
+      "content": "They're going to increase gross receipts tax by 800% and some people think the way to fill downtown with businesses is art? \n\nNo, it's actually making a city that encourages business instead of forces it to move away\n\nDowntown will be empty forever if there isn't reform",
+      "contentHtml": "They're going to increase gross receipts tax by 800% and some people think the way to fill downtown with businesses is art? \n\nNo, it's actually making a city that encourages business instead of forces it to move away\n\nDowntown will be empty forever if there isn't reform",
+      "publishedAt": "2026-01-26T06:49:00.000Z",
+      "link": "https://x.com/garrytan/status/2015678528025739482",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_kgvLGaYAAgTuC.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11148,66 +11194,6 @@
       "contentHtml": "任何新“中文币”上线合约/现货，都是对某人生的分流",
       "publishedAt": "2026-01-21T11:37:00.000Z",
       "link": "https://x.com/follow_clues/status/2013938906241335625",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013936157315248202",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "选择比努力重要, 但是选择比努力更难. 所以大部分人适合先努力. \n\n很多眼高手低的, 即不努力, 更看不上早期不起眼的选择, 还是适合被有缘人供着",
-      "contentHtml": "选择比努力重要, 但是选择比努力更难. 所以大部分人适合先努力. \n\n很多眼高手低的, 即不努力, 更看不上早期不起眼的选择, 还是适合被有缘人供着",
-      "publishedAt": "2026-01-21T11:26:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2013936157315248202",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_LwK6WakAALTjN.jpg"
-        }
-      ],
-      "quote": {
-        "username": "heyibinance",
-        "displayName": "Yi He",
-        "content": "人生实际是一个又一个决策构成的，对年轻人来说，做对事（选行业），跟对人（选老板）已经赢在起跑线，不要被画饼和小恩小惠（带你玩，零食管饱）带偏，你是人才就应该大大方方去最好的公司，要最好的待遇，但也要接受公司对人才有更高的标准和要求，互相尊重，互相理解。",
-        "link": "https://x.com/heyibinance/status/2013603155603530169",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_HBZN9XcAER-V5.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013934553878929780",
-      "username": "0xPickleCati",
-      "displayName": "Pickle Cat",
-      "avatar": "https://nitter.net/pic/profile_images%2F1879537340080869376%2FPV5A5sD2_bigger.jpg",
-      "content": "谢谢 @mia_okx 的邀请。这十多年在币圈印象最深刻的教训依然还是“一个交易员爆仓三次才能真正开始上道。” \n\n最近市场又跌了，折腾了三周的加密pnl又重新回到0，第一反应感觉好像这几周干了很多，又好像啥也没干。\n\n已经习惯了，不能让小挫折影响到信仰。往往在这种时候，当很多人又被波动性轰走时，留下来的那些才是最终能吃到肉的。\n\n加油💪",
-      "contentHtml": "谢谢 <a href=\"/mia_okx\" title=\"Mia米粒儿🩵\">@mia_okx</a> 的邀请。这十多年在币圈印象最深刻的教训依然还是“一个交易员爆仓三次才能真正开始上道。” \n\n最近市场又跌了，折腾了三周的加密pnl又重新回到0，第一反应感觉好像这几周干了很多，又好像啥也没干。\n\n已经习惯了，不能让小挫折影响到信仰。往往在这种时候，当很多人又被波动性轰走时，留下来的那些才是最终能吃到肉的。\n\n加油💪",
-      "publishedAt": "2026-01-21T11:19:00.000Z",
-      "link": "https://x.com/0xPickleCati/status/2013934553878929780",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_Luy2AWsAAeCfP.jpg"
-        }
-      ],
-      "quote": {
-        "username": "mia_okx",
-        "displayName": "Mia米粒儿🩵",
-        "content": "《对话 @0xPickleCati ： 撕掉天才标签：我是个在币圈求生的“疯子”（上）》\n\n她是被贴上“00 后天才女交易员”标签的 Pickle Cat（黄瓜猫），实盘盈利超 4000 万美金。\n\n但她却说：\n“我不是天才交易员，我只是个疯子。”\n\n她不是一路顺风的爽文主角，\n而是在币圈 三次归零、一次次活下来的人。\n\n这是一个关于 A9 收益的故事，\n但更是一个关于求生、失败、复盘与继续下注 的自白。\n\n下集将在周五播出 敬请期待❤️",
-        "link": "https://x.com/mia_okx/status/2013932517003550763"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
