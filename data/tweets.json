@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T14:08:00.190Z",
+  "lastUpdated": "2026-01-28T14:52:37.077Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 506,
+    "newFetched": 505,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2016513602560364587",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "現在幣安如果要逆轉風評，其實可以做一件事。\n\n現在社群最大的不滿，是認為 1011 事件葬送了這輪牛市。\n\n解法很簡單：把一部分幣安的盈利拿來做 BTC DAT。\n\n經營交易所本身就是在做多這個行業。選擇這行，就是相信法幣會持續通膨、BTC 長線會上漲。既然如此，不如直接用真金白銀來支持它，用賺來的盈利買 BTC，就像微策略做的那樣。\n\n我相信幣安肯定有 BTC 儲備，既然早就在做，何不公開透明地做？相信我，這比任何公關聲明都有效。",
+      "contentHtml": "現在幣安如果要逆轉風評，其實可以做一件事。\n\n現在社群最大的不滿，是認為 1011 事件葬送了這輪牛市。\n\n解法很簡單：把一部分幣安的盈利拿來做 BTC DAT。\n\n經營交易所本身就是在做多這個行業。選擇這行，就是相信法幣會持續通膨、BTC 長線會上漲。既然如此，不如直接用真金白銀來支持它，用賺來的盈利買 BTC，就像微策略做的那樣。\n\n我相信幣安肯定有 BTC 儲備，既然早就在做，何不公開透明地做？相信我，這比任何公關聲明都有效。",
+      "publishedAt": "2026-01-28T14:08:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2016513602560364587",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2016511009687736765",
       "username": "hazenlee",
@@ -4023,37 +4038,6 @@
         "displayName": "比特币橙子Trader",
         "content": "Clawdbot 玩疯了,强烈推荐！\n\n简单说，Clawdbot就是把 AI 从浏览器里“抠”出来，装进你的 Telegram 里干活。\n\nClawdbot 是一个开源、自托管的“网关”，它把 LLM（大脑）直接塞进了你的即时通讯软件（手脚）里。\n\n传统路径： 打开网页 -> 提示词 -> 复制文本 -> 手动执行。\n\nClawdbot 路径： 在 TG/Signal 发一句指令 -> AI 自动调工具 -> 跑代码 -> 返回结果。\n\n为什么clawdbot值得关注？\n\n它解决了当前 AI 应用的三大痛点，特别是对于 Power User：\n\n⚡️ 场景无缝化 ： 不需要切换 App。你的 AI 助理就像你的微信好友一样，随时在列表里待命。\n\n🛠️ 真正的 Agent 能力 ： 它是“Vibe Coding”的终极形态。通过配置 Skills，你可以用自然语言在手机上指挥服务器跑代码、发邮件、管理日程。\n\n🔒 隐私与安全 ： 数据掌握在自己手里的服务器上。独创 Pairing（配对）机制，只有你批准的账号才能调用你的 AI，默认拒绝陌生人。\n\nClawdbot  vs  Claude Cowork，核心差异在哪？\n\n🔴 Claude Cowork (官方)\n\n定位：打工人的生产力工具\n场景：整理文档、点点鼠标\n数据：托管在云端\n比喻：租房住 (拎包入住)\n\n🟢 Clawdbot (黑客/极客)\n\n定位：私有 AI 基础设施\n场景：服务器监控、自动化任务、跑 Cron\n数据：本地优先 (Local First)\n比喻：自己盖楼 (完全掌控)\n\nClawdbot架构是什么？\n\n我认为简单总结，拆解下来就是三部分：\n\n🧠 Agents (大脑)： 接入 OpenAI、Claude 或本地 Llama，负责理解意图。\n\n📡 Channels (手脚)： 支持 WhatsApp, Telegram, Discord, iMessage (CLI)，负责消息收发。\n\n🛡️ Gateway (中枢)： 运行在你的 Mac 或服务器上，负责鉴权、路由和任务分发。\n\nCrypto 人的实战用法，我简单想了下，利用Clawdbot 可以做：\n\n📊 链上监控哨兵： 结合 Telegram Bot API，让 Clawdbot 定时抓取链上数据，发现异动直接私聊预警。\n\n📰 宏观简报自动化： 每天早上自动搜集美联储动态和宏观新闻，汇总后推送到 Signal。\n\n💻 移动端运维： 在手机上发一条指令，直接让家里的服务器重启服务或执行备份。\n\n无论是 CoWork ，还是Clawdbot ，本质就是让设备更加智能，让AI从被动式逐渐变成主动式，这也是今年AI发展的核心趋势之一。",
         "link": "https://x.com/chengzi_95330/status/2015422507978023370"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2015678528025739482",
-      "username": "garrytan",
-      "displayName": "Garry Tan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1922894268403941377%2F-dGWAt3N_bigger.jpg",
-      "content": "They're going to increase gross receipts tax by 800% and some people think the way to fill downtown with businesses is art? \n\nNo, it's actually making a city that encourages business instead of forces it to move away\n\nDowntown will be empty forever if there isn't reform",
-      "contentHtml": "They're going to increase gross receipts tax by 800% and some people think the way to fill downtown with businesses is art? \n\nNo, it's actually making a city that encourages business instead of forces it to move away\n\nDowntown will be empty forever if there isn't reform",
-      "publishedAt": "2026-01-26T06:49:00.000Z",
-      "link": "https://x.com/garrytan/status/2015678528025739482",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_kgvLGaYAAgTuC.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "joffemd",
-        "displayName": "Marc Joffe",
-        "content": "Why does @sfchronicle publish such dumb op-eds?\n\nIt would be great to reactivate the upper levels of Embarcadero Center, but installing a lot of public art isn't going to do it.\n\nLowering the cost of doing business downtown will.\nsfchronicle.com/opinion/arti…",
-        "link": "https://x.com/joffemd/status/2015589506750325222"
       },
       "stats": {
         "replies": 0,
