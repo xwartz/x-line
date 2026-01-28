@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T14:52:37.077Z",
+  "lastUpdated": "2026-01-28T15:31:16.609Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 505,
+    "newFetched": 504,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2016530478912917792",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "黄金跌60块，我不知道为啥币圈也集体尿了",
+      "contentHtml": "黄金跌60块，我不知道为啥币圈也集体尿了",
+      "publishedAt": "2026-01-28T15:15:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2016530478912917792",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2016513602560364587",
       "username": "BensonTWN",
@@ -1220,18 +1235,6 @@
       "contentHtml": "他怎么做了这么多事情 全家发meme 全世界关税 taco 伊朗 委内瑞拉 ice 跟elon吵架\n怎么才一年啊啊啊啊啊\n说实话这一年好漫长啊\n我80了精力能有他十分之一就不错了",
       "publishedAt": "2026-01-28T00:05:00.000Z",
       "link": "https://x.com/hazenlee/status/2016301456438235605",
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "这几把DXY是被川普搞烂了😂\n我赚钱的时候我都不敢说我可以像玩悠悠球一样让市场涨跌，\n害得是伟大的川普总统。\n我只能像玩悠悠球一样让我的几把变大变小🥹",
-        "link": "https://x.com/hazenlee/status/2016255003460304945",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_srWr-bAAEfRKf.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -4038,6 +4041,31 @@
         "displayName": "比特币橙子Trader",
         "content": "Clawdbot 玩疯了,强烈推荐！\n\n简单说，Clawdbot就是把 AI 从浏览器里“抠”出来，装进你的 Telegram 里干活。\n\nClawdbot 是一个开源、自托管的“网关”，它把 LLM（大脑）直接塞进了你的即时通讯软件（手脚）里。\n\n传统路径： 打开网页 -> 提示词 -> 复制文本 -> 手动执行。\n\nClawdbot 路径： 在 TG/Signal 发一句指令 -> AI 自动调工具 -> 跑代码 -> 返回结果。\n\n为什么clawdbot值得关注？\n\n它解决了当前 AI 应用的三大痛点，特别是对于 Power User：\n\n⚡️ 场景无缝化 ： 不需要切换 App。你的 AI 助理就像你的微信好友一样，随时在列表里待命。\n\n🛠️ 真正的 Agent 能力 ： 它是“Vibe Coding”的终极形态。通过配置 Skills，你可以用自然语言在手机上指挥服务器跑代码、发邮件、管理日程。\n\n🔒 隐私与安全 ： 数据掌握在自己手里的服务器上。独创 Pairing（配对）机制，只有你批准的账号才能调用你的 AI，默认拒绝陌生人。\n\nClawdbot  vs  Claude Cowork，核心差异在哪？\n\n🔴 Claude Cowork (官方)\n\n定位：打工人的生产力工具\n场景：整理文档、点点鼠标\n数据：托管在云端\n比喻：租房住 (拎包入住)\n\n🟢 Clawdbot (黑客/极客)\n\n定位：私有 AI 基础设施\n场景：服务器监控、自动化任务、跑 Cron\n数据：本地优先 (Local First)\n比喻：自己盖楼 (完全掌控)\n\nClawdbot架构是什么？\n\n我认为简单总结，拆解下来就是三部分：\n\n🧠 Agents (大脑)： 接入 OpenAI、Claude 或本地 Llama，负责理解意图。\n\n📡 Channels (手脚)： 支持 WhatsApp, Telegram, Discord, iMessage (CLI)，负责消息收发。\n\n🛡️ Gateway (中枢)： 运行在你的 Mac 或服务器上，负责鉴权、路由和任务分发。\n\nCrypto 人的实战用法，我简单想了下，利用Clawdbot 可以做：\n\n📊 链上监控哨兵： 结合 Telegram Bot API，让 Clawdbot 定时抓取链上数据，发现异动直接私聊预警。\n\n📰 宏观简报自动化： 每天早上自动搜集美联储动态和宏观新闻，汇总后推送到 Signal。\n\n💻 移动端运维： 在手机上发一条指令，直接让家里的服务器重启服务或执行备份。\n\n无论是 CoWork ，还是Clawdbot ，本质就是让设备更加智能，让AI从被动式逐渐变成主动式，这也是今年AI发展的核心趋势之一。",
         "link": "https://x.com/chengzi_95330/status/2015422507978023370"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2015678528025739482",
+      "username": "garrytan",
+      "displayName": "Garry Tan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1922894268403941377%2F-dGWAt3N_bigger.jpg",
+      "content": "They're going to increase gross receipts tax by 800% and some people think the way to fill downtown with businesses is art? \n\nNo, it's actually making a city that encourages business instead of forces it to move away\n\nDowntown will be empty forever if there isn't reform",
+      "contentHtml": "They're going to increase gross receipts tax by 800% and some people think the way to fill downtown with businesses is art? \n\nNo, it's actually making a city that encourages business instead of forces it to move away\n\nDowntown will be empty forever if there isn't reform",
+      "publishedAt": "2026-01-26T06:49:00.000Z",
+      "link": "https://x.com/garrytan/status/2015678528025739482",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_kgvLGaYAAgTuC.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11152,72 +11180,6 @@
       "contentHtml": "任何新“中文币”上线合约/现货，都是对某人生的分流",
       "publishedAt": "2026-01-21T11:37:00.000Z",
       "link": "https://x.com/follow_clues/status/2013938906241335625",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013938452824199250",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "好奇这些欧洲的养老金是止损美债还是去美元化？🤔",
-      "contentHtml": "好奇这些欧洲的养老金是止损美债还是去美元化？🤔",
-      "publishedAt": "2026-01-21T11:35:00.000Z",
-      "link": "https://x.com/hazenlee/status/2013938452824199250",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_LyWDUagAAj4Yw.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "欧洲联盟要成立了吗？\n那北约名存实亡了\n还记得那句话\n“当美国的敌人是危险的，但是当美国的朋友是致命的”-基辛格\n只有一个丹麦吗？其他国家死了吗？",
-        "link": "https://x.com/hazenlee/status/2013609949943808511",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_HFrTrWkAAWPTv.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2013936157315248202",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "选择比努力重要, 但是选择比努力更难. 所以大部分人适合先努力. \n\n很多眼高手低的, 即不努力, 更看不上早期不起眼的选择, 还是适合被有缘人供着",
-      "contentHtml": "选择比努力重要, 但是选择比努力更难. 所以大部分人适合先努力. \n\n很多眼高手低的, 即不努力, 更看不上早期不起眼的选择, 还是适合被有缘人供着",
-      "publishedAt": "2026-01-21T11:26:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2013936157315248202",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_LwK6WakAALTjN.jpg"
-        }
-      ],
-      "quote": {
-        "username": "heyibinance",
-        "displayName": "Yi He",
-        "content": "人生实际是一个又一个决策构成的，对年轻人来说，做对事（选行业），跟对人（选老板）已经赢在起跑线，不要被画饼和小恩小惠（带你玩，零食管饱）带偏，你是人才就应该大大方方去最好的公司，要最好的待遇，但也要接受公司对人才有更高的标准和要求，互相尊重，互相理解。",
-        "link": "https://x.com/heyibinance/status/2013603155603530169",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_HBZN9XcAER-V5.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
