@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T10:29:17.370Z",
+  "lastUpdated": "2026-01-31T10:53:26.030Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,59 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 505,
+    "newFetched": 504,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2017549897998954805",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "眼药水续上了",
+      "contentHtml": "眼药水续上了",
+      "publishedAt": "2026-01-31T10:45:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2017549897998954805",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG__G7uLbMAAvXl4.jpg"
+        }
+      ],
+      "quote": {
+        "username": "xiaoshenmeyang",
+        "displayName": "Cyril",
+        "content": "小猫可能感冒了 眼屎很多 鼻子也有分泌物 可以带去看看",
+        "link": "https://x.com/xiaoshenmeyang/status/2016935805298917523"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2017547707213353110",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "Binance的主MM不参与合约订单簿，跟很多交易所的对赌成交模式不太一样：\n\n1.“多头亏损”等于“空头盈利”，但不等于“Binance盈利”。合约开仓是1:1的，有多少单位多仓就有多少空仓，是做空头那边的用户赚麻了。\n\n2.我当时体验了下是能够下单抄底的，关键在于理解交易撮合机制是maker&taker\n\n这种行情下用限价单交易，不要用市价单交易。因为清算订单是taker，当订单簿里有大taker sell排队吃买方流动性时，也用市价单taker buy去抄底是很难成交的。用限价单maker  buy放在近盘口则会很快成交，因为清算订单的taker sell会自动来吃掉你的订单。\n\n3. 很多交易所价格波动/清算规模较少的主要原因是用户规模较小，整个行业产品机制的设计是大同小异的。",
+      "contentHtml": "Binance的主MM不参与合约订单簿，跟很多交易所的对赌成交模式不太一样：\n\n1.“多头亏损”等于“空头盈利”，但不等于“Binance盈利”。合约开仓是1:1的，有多少单位多仓就有多少空仓，是做空头那边的用户赚麻了。\n\n2.我当时体验了下是能够下单抄底的，关键在于理解交易撮合机制是maker&taker\n\n这种行情下用限价单交易，不要用市价单交易。因为清算订单是taker，当订单簿里有大taker sell排队吃买方流动性时，也用市价单taker buy去抄底是很难成交的。用限价单maker  buy放在近盘口则会很快成交，因为清算订单的taker sell会自动来吃掉你的订单。\n\n3. 很多交易所价格波动/清算规模较少的主要原因是用户规模较小，整个行业产品机制的设计是大同小异的。",
+      "publishedAt": "2026-01-31T10:37:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2017547707213353110",
+      "quote": {
+        "username": "binancezh",
+        "displayName": "币安Binance华语",
+        "content": "关于 2025 年 10 月 11 日市场闪崩事件回顾报告 👇\nbinance.com/zh-CN/blog/%E7%A…",
+        "link": "https://x.com/binancezh/status/2017329044237488430"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2017525441335357511",
       "username": "ai_9684xtpa",
@@ -1106,25 +1154,6 @@
       "contentHtml": "早安！疯狂的金银🎉",
       "publishedAt": "2026-01-30T21:52:00.000Z",
       "link": "https://x.com/follow_clues/status/2017355350396309948",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017329044237488430",
-      "username": "binancezh",
-      "displayName": "币安Binance华语",
-      "avatar": "https://nitter.net/pic/profile_images%2F1815972658640740354%2FRySOJZ_Q_bigger.jpg",
-      "content": "关于 2025 年 10 月 11 日市场闪崩事件回顾报告 👇\nbinance.com/zh-CN/blog/%E7%A…",
-      "contentHtml": "关于 2025 年 10 月 11 日市场闪崩事件回顾报告 👇\n<a href=\"https://www.binance.com/zh-CN/blog/%E7%A4%BE%E5%8C%BA/8791765134688155261\">binance.com/zh-CN/blog/%E7%A…</a>",
-      "publishedAt": "2026-01-30T20:08:00.000Z",
-      "link": "https://x.com/binancezh/status/2017329044237488430",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11242,37 +11271,6 @@
             "url": "https://nitter.net/pic/orig/media%2FG-63cIGWYAA1A-_.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2015281850575458390",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "股市是有反应的：\n图1：蓝色日元，白色日经期货，红框内，日元迅速升值，日经迅速下跌，时间差不多时周五美东11点03\n图2：缩小到周五日内走势，红色日经期货，白色标普，蓝色QQQ，走势几乎相同，但波动幅度不同。红色框内，日经期货11点开始下跌，标普和QQQ都回落。甚至注意一下绿色框内，日经12点继续跳水，美股没反应，半小时后12：30左右开始跟跌。\n总结，在美国交易的时间内，日经期货跌幅是不小的，所以周一大概率低开，散户和多数机构多使用现货和ETF，日元升值时日本是周六凌晨了，周一开盘后我觉得仍然会给美股带来影响和抛压。\n我的任务是提前提示风险，事件发生了讲清楚背后的原理，不是鼓励去做空，而是理解风险，是不是要应对，如何应对，每个人可以有自己的思路。",
-      "contentHtml": "股市是有反应的：\n图1：蓝色日元，白色日经期货，红框内，日元迅速升值，日经迅速下跌，时间差不多时周五美东11点03\n图2：缩小到周五日内走势，红色日经期货，白色标普，蓝色QQQ，走势几乎相同，但波动幅度不同。红色框内，日经期货11点开始下跌，标普和QQQ都回落。甚至注意一下绿色框内，日经12点继续跳水，美股没反应，半小时后12：30左右开始跟跌。\n总结，在美国交易的时间内，日经期货跌幅是不小的，所以周一大概率低开，散户和多数机构多使用现货和ETF，日元升值时日本是周六凌晨了，周一开盘后我觉得仍然会给美股带来影响和抛压。\n我的任务是提前提示风险，事件发生了讲清楚背后的原理，不是鼓励去做空，而是理解风险，是不是要应对，如何应对，每个人可以有自己的思路。",
-      "publishedAt": "2026-01-25T04:33:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2015281850575458390",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_e2GRaWcAA9-b5.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_e2IBGXAAAGi9c.jpg"
-        }
-      ],
-      "quote": {
-        "username": "DZhan1986",
-        "displayName": "dany_zhan1986",
-        "content": "周五日元升值，股市好像没啥反应？",
-        "link": "https://x.com/DZhan1986/status/2015250491341459889"
       },
       "stats": {
         "replies": 0,
