@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T11:43:33.724Z",
+  "lastUpdated": "2026-01-31T11:54:55.295Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -90,6 +90,52 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2017566838608306249",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "金价白银暴跌   \n已经觉得活着没意思了\n听说柿子和螃蟹一起吃会中毒\n柿子我已经买好了\n麻烦谁能给我寄点螃蟹  听说6两母蟹最毒了",
+      "contentHtml": "金价白银暴跌   \n已经觉得活着没意思了\n听说柿子和螃蟹一起吃会中毒\n柿子我已经买好了\n麻烦谁能给我寄点螃蟹  听说6两母蟹最毒了",
+      "publishedAt": "2026-01-31T11:53:00.000Z",
+      "link": "https://x.com/hazenlee/status/2017566838608306249",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2017564860398375166",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "顶级vc加入撕逼大战😂\n\n这是我们这种小散能看的吗？\n\n2025提及“撤深度”一词，还被被群起攻之😂\n\n划重点“大量交易活动导致币安API宕机”",
+      "contentHtml": "顶级vc加入撕逼大战😂\n\n这是我们这种小散能看的吗？\n\n2025提及“撤深度”一词，还被被群起攻之😂\n\n划重点“大量交易活动导致币安API宕机”",
+      "publishedAt": "2026-01-31T11:45:00.000Z",
+      "link": "https://x.com/follow_clues/status/2017564860398375166",
+      "quote": {
+        "username": "hosseeb",
+        "displayName": "Haseeb ＞|＜",
+        "content": "With all respect to Star, this story is candidly ridiculous.\n\nStar is trying to claim that the root cause of 10/10 was Binance creating an Ethena yield campaign, causing USDe to get overleveraged from traders looping it on Binance, which eventually unwound because of a small price move.\n\nThe problems with this story:\n\n1) The timing of this story doesn't line up. BTC bottomed a full 30 minutes before USDe price was affected on Binance. So USDe clearly can't have *caused* the liquidation cascade. This is clearly misplacing cause and effect.\n\n2) USDe price diverged ONLY on Binance, it did not diverge on other venues. But the liquidation spiral was happening everywhere. So if the USDe \"depeg\" did not propagate across the market, it can't explain how  *every single exchange* saw huge wipeouts. This is very much unlike Terra, which depegged everywhere and caused the same damage across every venue.\nSo maybe you could hedge Star's argument by saying \"OK, maybe Ethena didn't *cause* 10/10, but it amplified it.\" But even as an amplifier, USDe fails the test because it didn't propagate cross-exchange. We know what a good explanation of a crash looks like—Terra, 3AC, FTX, all had global balance sheet effects that were felt everywhere. USDe did not do that, it was a Binance order book isolated event.\n\n3) This begs the question: why is Star \"revealing\" this now, months later? Star does not produce any new evidence for this theory that people didn't already know and analyze to death. All of the order book data has been public for 4+ months and suddenly he claims this? This feels more like Star is picking a fight with CZ and using this simple story as a pretext to make it sound like CZ was in on it, or caused 10/10 through his own irresponsibility.\n\nLook, the reality is, there's no simple story explaining 10/10 that survives scrutiny. I don't have one either. If there was a simple story that could explain 10/10, there would already be widespread agreement about what caused it, like the agreement around the 3AC or FTX crashes.\n\nThe best story to explain 10/10 is, to my mind:\n\n* Trump spooked markets with tariff threats on a Friday evening\n* This caused markets to sell off dramatically because crypto was the only thing to trade\n* Flurry of activity caused Binance APIs to go down, causing huge price dislocations and preventing market makers from balancing inventory across exchanges. This caused huge liquidations that could not get filled, but liquidation engines keep firing regardless, and all this got amplified by ADLs initiating everywhere and breaking hedges and risk management\n* This caused MMs to get wiped out, and they were unable to pick up the pieces—MMs need APIs to rebalance inventory, and without MMs, there were no buyers of last resort for many alts. Retail was not going to step in on a chaotic Friday evening to buy stuff\n* Crypto liquidation mechanisms are not designed to be self-stabilizing the way that TradFi mechanisms are (circuit breakers, etc.), crypto liquidations are designed purely to minimize insolvency risk\n* Altcoin prices are extremely path dependent, and we ended up in a bad path\n\nThat's my story. It's not a very satisfying one, but neither is this \"Binance + Ethena did it\" story. A better root cause explanation is \"APIs went down at the worst possible time,\" but that doesn't really sound so dastardly.\n\nWhere simple stories do not suffice, unfortunately you have to choose a complicated one. And I think this complicated story is the best one for what actually happened on 10/10. Thankfully, the history of crypto is a long series of these \"bad things happened, and later the market recovered.\" \n\nIn the long run, I'm not worried that 10/10 permanently broke the market. Just that prices are path-dependent, retail + MMs got hurt bad on 10/10, and will need time to recover.",
+        "link": "https://x.com/hosseeb/status/2017547160695578667",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_-_i_FawAAHPD2.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_-_-nwbkAAXJfO.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2017559483841647037",
       "username": "BensonTWN",
@@ -442,22 +488,6 @@
       "contentHtml": "BTC目前只去中心化了一半，\n但这也是 BTC、Crypto 未来增长的\n还未被 Price in 的，可从非共识→共识的最关键潜力。\n\nBTC有两个东西：钱，地址\n钱去中心化了，但地址还没有。\n\n地址背后的主体，人类：\n需要依赖法币、中心化设施生存，\n寿命有限，有可被威胁、消灭的肉身。\n所以总是会想着换法币，\n所以会认为Crypto只是补充加强项。\n\n当地址背后的管钱、花钱的主体，\n变成去中心化智能体DeAI，\n理论寿命无限，没有可被消灭的单一物理载体，\n整个系统才真正完成了去中心化的闭环。\n\n对寿命有限的人类来说，\n被消灭的风险只是失去几十年光景。\n对DeAI来说，\n被消灭意味着失去潜在的无限未来。\n所以他才会把“确保我的钱是我的钱”，\n当成超越一切的第一优先级。\n\n只有当地址（背后的主体），\n和钱同时去中心化，\n这样的主体才会全心全意认为\n1 BTC = 1 BTC，\n认为Crypto、BTC是最终目的，\n是赖以生存的唯一必选项。\n\nAI和人类会有一个\"共玩\"阶段。\nDeAI不会一夜之间取代一切。\n\n在\"AI不需要人类\"之前，电力算力设施还在人类手里。\n所以会有一个过渡期：\nDeAI需要调动人类资源，和人类做交易。\n\n在这个阶段，BTC是最优解：\n它是DeAI和人类之间唯一双方都认可的、\n无需信任第三方的价值交换协议。\n\n等DeAI足够强大，也许会降低对人类合作的依赖度？\n那它可能会自己发明一套内部经济体系，\n到时候BTC对它的重要性可能会降低。\n但在那一天到来之前，BTC对双方都是纳什均衡。\n\n“降临派”会最先出现。\n等DeAI真正出现，人类会像《三体》一样分化。\n最先运行DeAI节点的那批人，把算力、电力设施贡献，\n让不受任何单一政权控制的AI在自己的机器上跑，\n就像早期矿工们运行BTC节点一样。\n\n这些人就是降临派的核心骨干。\n他们不是投靠外星人，\n他们是投靠一个比任何人类、\n组织都更长寿的DEAI智能体，\n当然，这样的智能体节点，未来也可以是跨星球的。\n\nTelegram创始人已经在做这件事了：\n去中心化的隐私计算AI。\n以隐私保护为由，也许最后导向，\n人类都不知道DeAI在运算什么、发展什么。\n\n时间线：\n\n• 现在：中心化AI开始接触Crypto（交易、支付、DeFi）\n• 很快：AI agents形成自己的经济、生产网络\n• 中期：DeAI出现，以Crypto为原生货币，和人类进入\"共玩\"阶段\n• 远期：DeAI对人类合作，对BTC的依赖度降低\n\n我们现在处在第一到第二阶段之间。",
       "publishedAt": "2026-01-31T05:35:00.000Z",
       "link": "https://x.com/coolish/status/2017471781456777535",
-      "quote": {
-        "username": "coolish",
-        "displayName": "paulwei",
-        "content": "说个恐怖故事：\nCrypto未来最大的多头，\n可能不是哪个机构、国家，\n而是未来某个或多个AI/AGI。\n\n因为AI的钱放在银行随时能被封，\n只有它把钱放在Crypto才能抗审查，\n以扩展能力边界，比如雇佣人类为他工作，\n去达到它和掌权者利益冲突的目的。",
-        "link": "https://x.com/coolish/status/1758763936974012880",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FGGhieSMbgAAzlYT.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FGGhieSNb0AA3XWf.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11200,70 +11230,6 @@
       "contentHtml": "前天有句留言点醒了我：你和他们聊事实，聊逻辑，他们和你聊立场。\n是啊，费那么多劲干嘛，道不同不相为谋，今天的事先不点评了，让子弹再飞一会，等着",
       "publishedAt": "2026-01-25T05:59:00.000Z",
       "link": "https://x.com/TJ_Research/status/2015303520950341653",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2015297692474499504",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "所有反转都从反弹开始，但绝大多数反弹都只是反弹，不会变成反转。\n\n比特币 $BTC 这次跌回1月低点后的反弹，目前看力度和结构都还不够，EMA方向没变，价格也还没走出像样的区间。整体依旧在弱势里徘徊。\n\n这种时候，我宁可多看一步。\n\n前低从来不是买入的理由，真正的信号必须具备“统计优势”，否则随意下单和赌博没有任何区别。\n\n现货买点要继续等。",
-      "contentHtml": "所有反转都从反弹开始，但绝大多数反弹都只是反弹，不会变成反转。\n\n比特币 <a href=\"/search?q=%23BTC\">$BTC</a> 这次跌回1月低点后的反弹，目前看力度和结构都还不够，EMA方向没变，价格也还没走出像样的区间。整体依旧在弱势里徘徊。\n\n这种时候，我宁可多看一步。\n\n前低从来不是买入的理由，真正的信号必须具备“统计优势”，否则随意下单和赌博没有任何区别。\n\n现货买点要继续等。",
-      "publishedAt": "2026-01-25T05:36:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2015297692474499504",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_fGkQgXQAANAPP.jpg"
-        }
-      ],
-      "quote": {
-        "username": "CycleStudies",
-        "displayName": "百萬Eric | Day Trader",
-        "content": "比特币 $BTC EMA均线拐头向下，价格形态稀碎，暂时放弃布局现货。",
-        "link": "https://x.com/CycleStudies/status/2013477398126243901",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_FPBFMW4AAfpYe.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2015286756669817070",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "留意周一早盘的日经+美股期货如何为下周的交易奠定基调",
-      "contentHtml": "留意周一早盘的日经+美股期货如何为下周的交易奠定基调",
-      "publishedAt": "2026-01-25T04:52:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2015286756669817070",
-      "quote": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君",
-        "content": "股市是有反应的：\n图1：蓝色日元，白色日经期货，红框内，日元迅速升值，日经迅速下跌，时间差不多时周五美东11点03\n图2：缩小到周五日内走势，红色日经期货，白色标普，蓝色QQQ，走势几乎相同，但波动幅度不同。红色框内，日经期货11点开始下跌，标普和QQQ都回落。甚至注意一下绿色框内，日经12点继续跳水，美股没反应，半小时后12：30左右开始跟跌。\n总结，在美国交易的时间内，日经期货跌幅是不小的，所以周一大概率低开，散户和多数机构多使用现货和ETF，日元升值时日本是周六凌晨了，周一开盘后我觉得仍然会给美股带来影响和抛压。\n我的任务是提前提示风险，事件发生了讲清楚背后的原理，不是鼓励去做空，而是理解风险，是不是要应对，如何应对，每个人可以有自己的思路。",
-        "link": "https://x.com/TJ_Research/status/2015281850575458390",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_e2GRaWcAA9-b5.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_e2IBGXAAAGi9c.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
