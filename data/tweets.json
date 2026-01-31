@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T07:57:57.092Z",
+  "lastUpdated": "2026-01-31T08:31:48.629Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -90,6 +90,39 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2017513367242739836",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "这次的筹码集中度更新晚了，其实28日那天我就看到已上升到15.7%，只是没想到波动来的那么快......\n\n随着29日、30日BTC的连续下跌，又让集中度从16%下降到了15%，但仍然处于高位（包括昨天下跌的影响）。\n\n在我看来，集中度高代表：实现波动率（RV）大于隐含波动率（IV）的概率在上升，但不表示方向。\n\n但从过往几次类似的情形及事后来看，似乎是存在这样的规律：\n1、价格上涨造成集中度下降的，大概率会维持上涨；\n2、价格下跌造成集中度下降的，大概率会继续下跌；\n\n即筹码松动的结果是获利派发，那就继续推动向上；反之，筹码松动的结果是恐慌出逃，那就继续推动向下；\n\n不知道这次还是不是这样的规律，小伙伴们可以持续关注！",
+      "contentHtml": "这次的筹码集中度更新晚了，其实28日那天我就看到已上升到15.7%，只是没想到波动来的那么快......\n\n随着29日、30日BTC的连续下跌，又让集中度从16%下降到了15%，但仍然处于高位（包括昨天下跌的影响）。\n\n在我看来，集中度高代表：实现波动率（RV）大于隐含波动率（IV）的概率在上升，但不表示方向。\n\n但从过往几次类似的情形及事后来看，似乎是存在这样的规律：\n1、价格上涨造成集中度下降的，大概率会维持上涨；\n2、价格下跌造成集中度下降的，大概率会继续下跌；\n\n即筹码松动的结果是获利派发，那就继续推动向上；反之，筹码松动的结果是恐慌出逃，那就继续推动向下；\n\n不知道这次还是不是这样的规律，小伙伴们可以持续关注！",
+      "publishedAt": "2026-01-31T08:20:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2017513367242739836",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_-iTcWbcAE6OIb.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "上一次BTC的筹码集中度上升到14.9%就停止了，也恰逢圣诞假期，博弈并不激烈，算是平稳度过。\n\n然而，在1月28日BTC筹码集中度再次上升到16%的高位，已进入潜在的波动高风险区（15%）。\n\n看来这一次，是要来真的了......",
+        "link": "https://x.com/Murphychen888/status/2017154063255720265",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_5BmK_boAE1JQk.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2017503142565581283",
       "username": "follow_clues",
@@ -11238,31 +11271,6 @@
             "url": "https://nitter.net/pic/orig/media%2FG_RkH25a0AAEJgd.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2015252565999407199",
-      "username": "StuartBlitz",
-      "displayName": "Stuart Blitz",
-      "avatar": "https://nitter.net/pic/profile_images%2F972182900455206918%2FVutst2xU_bigger.jpg",
-      "content": "VC vs. founder",
-      "contentHtml": "VC vs. founder",
-      "publishedAt": "2026-01-25T02:37:00.000Z",
-      "link": "https://x.com/StuartBlitz/status/2015252565999407199",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_edh1PXoAAygQe.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
