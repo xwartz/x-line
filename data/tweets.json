@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T03:54:35.258Z",
+  "lastUpdated": "2026-01-31T05:00:51.112Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,92 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 464,
-    "successUsers": 23,
-    "failedUsers": 3
+    "newFetched": 506,
+    "successUsers": 25,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2017461431701279191",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "以太坊未来51小时会暴跌吗？",
+      "contentHtml": "以太坊未来51小时会暴跌吗？",
+      "publishedAt": "2026-01-31T04:54:00.000Z",
+      "link": "https://x.com/follow_clues/status/2017461431701279191",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2017461042134253623",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "STH-RP 的行为含义（教学篇）\n—— 从持币成本到牛熊切换的链上解读\n\nSTH-RP（STH Realized Price）计算的是持币时间 <155 天 的地址最后一次在链上移动时的价格。翻译成人话：过去155天内买入BTC的那批人，当前的“平均成本”在哪里 —— 它是短期持有者的整体成本中枢。\n\n有很多小伙伴将其等同于K线技术理论中的SMA120，但它们本质上完全不同。STH-RP是“人”的成本，SMA120 是“价格”的平均；一个是行为结构，一个是数学平滑。\n\nSMA120几乎会随着价格变化而变化，STH-RP则取决于持币群体上一次和这一次发生换手的位置。理论上说，如果高价筹码在BTC下跌时，全都持币不动，那么STH-RP就不会随着价格下降而下降；反之亦然。\n\n（图1）\n\n甚至在很多时候，我们会发现STH-RP和BTC价格出现了方向关系，即价格下降，STH反而上涨。比如图1中，2025年2月5日BTC $96,000, STH-RP $91,912；到了3月9日 BTC跌至$82,000, 但STH-RP却升至 $93,599；\n\n说明在BTC下跌时，发生换手的筹码大多是低位换低位（短线交易），而很少是高位换低位（割肉离场），还有一些是低位换高位（获利了结），因此STH-RP反而升高了。\n\n（图2）\n\n而这一波回调，目前看来与25年3月有着本质的区别：在价格下跌时，STH-RP同步快速下降；如果曲线的斜率还不够明显，那么我们可以加一个算法 —— 计算“7日变化率”；从波形震动的幅度（对比24年8月和25年3月）就不难发现“向下的程度”有多严重。\n\n说明在这段时间，发生了大量“高位换低位”的情况，市场是真的恐慌了；只有信心崩塌，才会做出如此不计成本，迅速出逃的非理性行为。然而，STH-RP从持续上升到持续下降，拐点就出现在2025年10月11日。\n\n（图3）\n\n所以，我们现在再来回看这张BTC的STH-RP全周期图，就可以理解我画绿色虚线的几个位置，正好都是过去每一轮周期由牛转熊的时期。虽然，过往的历史大背景都有自不同，但同样都出现了STH-RP快速向下，7日变化率大幅度且持续转负的情况。\n\n注意！这里并不是说出现该现象就一定会走深熊模式，而是说在每一次进入熊市（也可能是阶段性熊市），都是由“投资者情绪”发生了根本性转变而引起的。也就是：宏观改变预期，预期影响情绪，情绪传导行为，行为决定供需，供需反映价格。\n\n而我们研究链上数据，本质上是在研究投资者行为，从行为倒推市场情绪，再结合宏观事件来印证当前行为是否具有合理性，如果有，那么情绪就是真实的客观的，最后一定会反映到价格上。\n\n（有的时候，如果我分析错了，那就是我对数据的解读出了问题；或者是有特殊事件改变了预期；前者就需要反思和总结，后者就需要及时调整。错了被打脸不要紧，重要的是不能故步自封，死板的刻舟求剑，最后误认误己。）",
+      "contentHtml": "STH-RP 的行为含义（教学篇）\n—— 从持币成本到牛熊切换的链上解读\n\nSTH-RP（STH Realized Price）计算的是持币时间 &lt;155 天 的地址最后一次在链上移动时的价格。翻译成人话：过去155天内买入BTC的那批人，当前的“平均成本”在哪里 —— 它是短期持有者的整体成本中枢。\n\n有很多小伙伴将其等同于K线技术理论中的SMA120，但它们本质上完全不同。STH-RP是“人”的成本，SMA120 是“价格”的平均；一个是行为结构，一个是数学平滑。\n\nSMA120几乎会随着价格变化而变化，STH-RP则取决于持币群体上一次和这一次发生换手的位置。理论上说，如果高价筹码在BTC下跌时，全都持币不动，那么STH-RP就不会随着价格下降而下降；反之亦然。\n\n（图1）\n\n甚至在很多时候，我们会发现STH-RP和BTC价格出现了方向关系，即价格下降，STH反而上涨。比如图1中，2025年2月5日BTC $96,000, STH-RP $91,912；到了3月9日 BTC跌至$82,000, 但STH-RP却升至 $93,599；\n\n说明在BTC下跌时，发生换手的筹码大多是低位换低位（短线交易），而很少是高位换低位（割肉离场），还有一些是低位换高位（获利了结），因此STH-RP反而升高了。\n\n（图2）\n\n而这一波回调，目前看来与25年3月有着本质的区别：在价格下跌时，STH-RP同步快速下降；如果曲线的斜率还不够明显，那么我们可以加一个算法 —— 计算“7日变化率”；从波形震动的幅度（对比24年8月和25年3月）就不难发现“向下的程度”有多严重。\n\n说明在这段时间，发生了大量“高位换低位”的情况，市场是真的恐慌了；只有信心崩塌，才会做出如此不计成本，迅速出逃的非理性行为。然而，STH-RP从持续上升到持续下降，拐点就出现在2025年10月11日。\n\n（图3）\n\n所以，我们现在再来回看这张BTC的STH-RP全周期图，就可以理解我画绿色虚线的几个位置，正好都是过去每一轮周期由牛转熊的时期。虽然，过往的历史大背景都有自不同，但同样都出现了STH-RP快速向下，7日变化率大幅度且持续转负的情况。\n\n注意！这里并不是说出现该现象就一定会走深熊模式，而是说在每一次进入熊市（也可能是阶段性熊市），都是由“投资者情绪”发生了根本性转变而引起的。也就是：宏观改变预期，预期影响情绪，情绪传导行为，行为决定供需，供需反映价格。\n\n而我们研究链上数据，本质上是在研究投资者行为，从行为倒推市场情绪，再结合宏观事件来印证当前行为是否具有合理性，如果有，那么情绪就是真实的客观的，最后一定会反映到价格上。\n\n（有的时候，如果我分析错了，那就是我对数据的解读出了问题；或者是有特殊事件改变了预期；前者就需要反思和总结，后者就需要及时调整。错了被打脸不要紧，重要的是不能故步自封，死板的刻舟求剑，最后误认误己。）",
+      "publishedAt": "2026-01-31T04:52:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2017461042134253623",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_90LkWbsAA67Vj.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_90VcXaYAAnoqq.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_90fEubEAErpD2.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "下图中红线就是大名鼎鼎 STH-RP（短期持有者已实现价格），在众多链上数据分析师的眼中，它就是阶段性牛熊分界线。价格在STH-RP之上，是牛市情绪；反之就是熊市情绪。\n\n我们目前看到的是：STH-RP高于价格，且自身呈下降形态，7日变化率为负 —— 它的背后隐藏着什么样的重要信息？底层逻辑是什么？对行情又有哪些决定性的影响？\n\n要想把以上问题讲明白，就需要先提出一个问题：\nSTH-RP有时候走高，有时候走低，你觉得这和什么有关系？\nA：与BTC的价格涨跌有关；B：和价格没有直接关系；\n\n请有兴趣的小伙伴们将答案打在评论区，并说说理由。如果大家都知道，那就不用我再费力解释了😀\n\n--------------------------------------\n\n（行情不好，正是静心沉淀和学习的好时机。记得24年3-10月期间，我写了很多包含教学内容的推文，系列化的讲解链上数据的底层逻辑和应用方法。\n\n如果我们暂时赚不到钱，那可以先赚认知，没认知就赚经验，没经验就赚资历，没资历就赚人脉，等这些都赚到了，就不可能赚不到钱）",
+        "link": "https://x.com/Murphychen888/status/2017058006178156903",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_4A-2nbUAMEhu0.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2017446960542994756",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "幹，睡個午覺起來直接世界大戰了\n\n我一開始以為圖一是被人 P 的，沒想到是真的\n\n兩邊的公關有得忙了",
+      "contentHtml": "幹，睡個午覺起來直接世界大戰了\n\n我一開始以為圖一是被人 P 的，沒想到是真的\n\n兩邊的公關有得忙了",
+      "publishedAt": "2026-01-31T03:56:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2017446960542994756",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_9opCybEAAUlE3.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FG_9osKFbEAMX5LL.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2017444500625625402",
       "username": "follow_clues",
@@ -11135,75 +11216,6 @@
       "contentHtml": "什么衰竭形态？\n\n就是姑娘回你短信的间隔，从1分钟、5分钟、30分钟，慢慢拉长到1小时、3小时、5小时。\n\n最后变成经典：“洗澡呢”、“睡了”、“接我爸放学了”。\n\n<a href=\"/hazenlee\" title=\"𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀\">@hazenlee</a> 李老板，这“性压抑形态学”怎么样？",
       "publishedAt": "2026-01-24T13:39:00.000Z",
       "link": "https://x.com/CycleStudies/status/2015056983431475557",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2015052368875020417",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "当你觉得压力大的时候，想想他们的父母",
-      "contentHtml": "当你觉得压力大的时候，想想他们的父母",
-      "publishedAt": "2026-01-24T13:21:00.000Z",
-      "link": "https://x.com/hazenlee/status/2015052368875020417",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2015052191191724271",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "我终于下决心了，开始手动屏蔽我认为是AI自动评论的账号，因为Grok给了我的提高权重和算法推送的建议，其中就包括减少低价值互动，优先高质量对话。\n\n对AI自动回复互动不仅无效还会连带惩罚，虽然这并不是我的主观故意。\n\nGrok对我的推文，从文案，逻辑，专业，吸引力，停留时间等5个纬度进行打分，给出了平均9分的高评价，所以为了维护我在Grok心目中的顶尖水平，我必须做出改变。\n\n第一步就是增加高质量互动，为了不被我误会你是AI，辛苦小伙伴在评论区留言时尽量不要表现出AI特征哈🫶🤝🏻🤝🏻",
-      "contentHtml": "我终于下决心了，开始手动屏蔽我认为是AI自动评论的账号，因为Grok给了我的提高权重和算法推送的建议，其中就包括减少低价值互动，优先高质量对话。\n\n对AI自动回复互动不仅无效还会连带惩罚，虽然这并不是我的主观故意。\n\nGrok对我的推文，从文案，逻辑，专业，吸引力，停留时间等5个纬度进行打分，给出了平均9分的高评价，所以为了维护我在Grok心目中的顶尖水平，我必须做出改变。\n\n第一步就是增加高质量互动，为了不被我误会你是AI，辛苦小伙伴在评论区留言时尽量不要表现出AI特征哈🫶🤝🏻🤝🏻",
-      "publishedAt": "2026-01-24T13:20:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2015052191191724271",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_bnR3CbgAA7THu.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_bnR29aIAA2QOy.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_bnR28akAEg1ap.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_bnR3pWgAA2b-Y.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2015051031948984657",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "？",
-      "contentHtml": "？",
-      "publishedAt": "2026-01-24T13:16:00.000Z",
-      "link": "https://x.com/hazenlee/status/2015051031948984657",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_bmOk8X0AAjzdf.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
