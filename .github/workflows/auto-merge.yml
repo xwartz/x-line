@@ -12,6 +12,8 @@ permissions:
 
 jobs:
   auto-merge:
+    env:
+      AUTO_MERGE_ALLOWED_AUTHORS: github-actions[bot],dependabot[bot]
     if: >
       ${{
         github.event.workflow_run.conclusion == 'success' &&
@@ -34,7 +36,10 @@ jobs:
             });
 
             const labels = data.labels.map((label) => label.name);
-            const allowedAuthors = ['github-actions[bot]', 'dependabot[bot]'];
+            const allowedAuthors = (process.env.AUTO_MERGE_ALLOWED_AUTHORS ?? '')
+              .split(',')
+              .map((author) => author.trim())
+              .filter(Boolean);
             const eligible =
               labels.includes('dependencies') || allowedAuthors.includes(data.user.login);
 
