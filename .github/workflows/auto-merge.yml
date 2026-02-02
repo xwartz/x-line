@@ -23,7 +23,7 @@ jobs:
       - name: Check PR eligibility
         id: check
         uses: actions/github-script@v7
-        # 仅允许依赖更新机器人触发自动合并
+        # 允许依赖更新标签或指定机器人账号触发自动合并
         env:
           AUTO_MERGE_ALLOWED_AUTHORS: github-actions[bot],dependabot[bot]
         with:
