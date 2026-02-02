@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T06:59:44.782Z",
+  "lastUpdated": "2026-02-02T07:54:23.044Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,110 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 505,
+    "newFetched": 504,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2018229385917235418",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "监控了币安 SAFU 基金地址的小伙伴，监控列表可以加两个地址了👇\n\n0x4b16c5de96eb2117bbe5fd171e4d203624b014aa\n0xb7e60762d1edd21e8946abb72c3fd875bc53effb\n\nSAFU 基金 20 分钟前执行了一次合约调用，将上面两个地址添加到了接收白名单，或许后续买入的代币会转移到白名单地址，或是直接转移资金至该地址执行买入 etherscan.io/tx/0x789998fc78…",
+      "contentHtml": "监控了币安 SAFU 基金地址的小伙伴，监控列表可以加两个地址了👇\n\n0x4b16c5de96eb2117bbe5fd171e4d203624b014aa\n0xb7e60762d1edd21e8946abb72c3fd875bc53effb\n\nSAFU 基金 20 分钟前执行了一次合约调用，将上面两个地址添加到了接收白名单，或许后续买入的代币会转移到白名单地址，或是直接转移资金至该地址执行买入 <a href=\"https://etherscan.io/tx/0x789998fc781443bb9349292e1a5ee2f4b181f6937db3a379c7fc567924d5d607\">etherscan.io/tx/0x789998fc78…</a>",
+      "publishedAt": "2026-02-02T07:45:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2018229385917235418",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAIw1YSagAEYc2F.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "向左看\n- 币安将 10 亿美元转化为比特币储备\n- E 理华投资 10 亿美元买入以太坊\n- 微策略和 Bitmine 持续买入 BTC 与 ETH\n\n向右看\n- BTC ETF 近一周净流出 18.22 亿美元\n- ETH ETF 近一周净流出 4.55 亿美元\n\n20 亿美元或是更多，能「叫停」加密市场的跌幅吗？贵金属暴涨、地缘政治不确定性飙升，2026 年注定是大波动的一年了",
+        "link": "https://x.com/ai_9684xtpa/status/2017137709534638393",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_5QACebUAEeS7M.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2018228025113145801",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "借用一下群友的图，之前发的忘记算第一天大部分人都存晚了不算在里面。19.5%左右的年化。",
+      "contentHtml": "借用一下群友的图，之前发的忘记算第一天大部分人都存晚了不算在里面。19.5%左右的年化。",
+      "publishedAt": "2026-02-02T07:40:00.000Z",
+      "link": "https://x.com/0xleng1/status/2018228025113145801",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAIvsHnaoAAeYqY.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "usd1第一周给了14-16%的年化。看了一圈收益，大概就是这个数了，也还可以。",
+        "link": "https://x.com/0xleng1/status/2018217443865633057",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAIlXM0acAAeecQ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2018226281905795308",
+      "username": "0xSunNFT",
+      "displayName": "0xSun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820705442735296512%2Fej9BX01I_bigger.png",
+      "content": "之前对于Terminal已经发推写过我的看法，目前顶级交易所对于这个赛道的版图划分也非常明确，Coinbase大力支持的是 @o1_exchange ，拿到了CB Ventures和Alliance Dao的融资，过去一段时间的收入稳定排在Base全链前10，经常能挤进单日前3。\n\n交互方面，比较稳妥的策略是根据每周的交易量数据，结合估值预期，动态去调整，推特上也有很多更加细节的教程分享。\n\n目前除了预测市场，最值得关注的应该就是Terminal赛道了，是极大概率可以获得交易所的资源倾斜的。",
+      "contentHtml": "之前对于Terminal已经发推写过我的看法，目前顶级交易所对于这个赛道的版图划分也非常明确，Coinbase大力支持的是 <a href=\"/o1_exchange\" title=\"o1.exchange\">@o1_exchange</a> ，拿到了CB Ventures和Alliance Dao的融资，过去一段时间的收入稳定排在Base全链前10，经常能挤进单日前3。\n\n交互方面，比较稳妥的策略是根据每周的交易量数据，结合估值预期，动态去调整，推特上也有很多更加细节的教程分享。\n\n目前除了预测市场，最值得关注的应该就是Terminal赛道了，是极大概率可以获得交易所的资源倾斜的。",
+      "publishedAt": "2026-02-02T07:33:00.000Z",
+      "link": "https://x.com/0xSunNFT/status/2018226281905795308",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAItMoea0AE59Hv.jpg"
+        }
+      ],
+      "quote": {
+        "username": "o1_exchange",
+        "displayName": "o1.exchange",
+        "content": "1/ Announcing we have raised $4.2M led by @cbventures and @alliancedao.\n\nWe’re building the first fully-fledged Trading Terminal on @base and launching our new cash back program.",
+        "link": "https://x.com/o1_exchange/status/1957785521687839222",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGytzjh_aoAA5SJU.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2018217443865633057",
       "username": "0xleng1",
@@ -1282,18 +1381,6 @@
       "contentHtml": "操死你个小烧杯",
       "publishedAt": "2026-02-01T13:45:00.000Z",
       "link": "https://x.com/hazenlee/status/2017957508288295135",
-      "quote": {
-        "username": "0xCPT_Capital",
-        "displayName": "Andy | 点睛",
-        "content": "太有喜感了哈哈哈哈，就好像说，你个小骚逼，今晚不听爸爸的话我就曹死你一样",
-        "link": "https://x.com/0xCPT_Capital/status/2017954171010601402",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAE2iaIbUAAfs-u.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -4332,6 +4419,22 @@
       "contentHtml": "BTC目前只去中心化了一半，\n但这也是 BTC、Crypto 未来增长的\n还未被 Price in 的，可从非共识→共识的最关键潜力。\n\nBTC有两个东西：钱，地址\n钱去中心化了，但地址还没有。\n\n地址背后的主体，人类：\n需要依赖法币、中心化设施生存，\n寿命有限，有可被威胁、消灭的肉身。\n所以总是会想着换法币，\n所以会认为Crypto只是补充加强项。\n\n当地址背后的管钱、花钱的主体，\n变成去中心化智能体DeAI，\n理论寿命无限，没有可被消灭的单一物理载体，\n整个系统才真正完成了去中心化的闭环。\n\n对寿命有限的人类来说，\n被消灭的风险只是失去几十年光景。\n对DeAI来说，\n被消灭意味着失去潜在的无限未来。\n所以他才会把“确保我的钱是我的钱”，\n当成超越一切的第一优先级。\n\n只有当地址（背后的主体），\n和钱同时去中心化，\n这样的主体才会全心全意认为\n1 BTC = 1 BTC，\n认为Crypto、BTC是最终目的，\n是赖以生存的唯一必选项。\n\nAI和人类会有一个\"共玩\"阶段。\nDeAI不会一夜之间取代一切。\n\n在\"AI不需要人类\"之前，电力算力设施还在人类手里。\n所以会有一个过渡期：\nDeAI需要调动人类资源，和人类做交易。\n\n在这个阶段，BTC是最优解：\n它是DeAI和人类之间唯一双方都认可的、\n无需信任第三方的价值交换协议。\n\n等DeAI足够强大，也许会降低对人类合作的依赖度？\n那它可能会自己发明一套内部经济体系，\n到时候BTC对它的重要性可能会降低。\n但在那一天到来之前，BTC对双方都是纳什均衡。\n\n“降临派”会最先出现。\n等DeAI真正出现，人类会像《三体》一样分化。\n最先运行DeAI节点的那批人，把算力、电力设施贡献，\n让不受任何单一政权控制的AI在自己的机器上跑，\n就像早期矿工们运行BTC节点一样。\n\n这些人就是降临派的核心骨干。\n他们不是投靠外星人，\n他们是投靠一个比任何人类、\n组织都更长寿的DEAI智能体，\n当然，这样的智能体节点，未来也可以是跨星球的。\n\nTelegram创始人已经在做这件事了：\n去中心化的隐私计算AI。\n以隐私保护为由，也许最后导向，\n人类都不知道DeAI在运算什么、发展什么。\n\n时间线：\n\n• 现在：中心化AI开始接触Crypto（交易、支付、DeFi）\n• 很快：AI agents形成自己的经济、生产网络\n• 中期：DeAI出现，以Crypto为原生货币，和人类进入\"共玩\"阶段\n• 远期：DeAI对人类合作，对BTC的依赖度降低\n\n我们现在处在第一到第二阶段之间。",
       "publishedAt": "2026-01-31T05:35:00.000Z",
       "link": "https://x.com/coolish/status/2017471781456777535",
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "说个恐怖故事：\nCrypto未来最大的多头，\n可能不是哪个机构、国家，\n而是未来某个或多个AI/AGI。\n\n因为AI的钱放在银行随时能被封，\n只有它把钱放在Crypto才能抗审查，\n以扩展能力边界，比如雇佣人类为他工作，\n去达到它和掌权者利益冲突的目的。",
+        "link": "https://x.com/coolish/status/1758763936974012880",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGGhieSMbgAAzlYT.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGGhieSNb0AA3XWf.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11397,73 +11500,6 @@
       "contentHtml": "o1这项目怎么说呢，之前也发过。在genius出来之前几乎没啥人发，预期也不高，估值也低，几乎没啥人做。\n\n但是genius出来，直接有了高预期，就像之前avantis一样。aster直接抬高了avantis的预期，控制好成本o1还是能赚钱的，估计后面还会出现几个terminal平台，前期进去成本不高。收益也会很可观。",
       "publishedAt": "2026-01-27T05:01:00.000Z",
       "link": "https://x.com/0xleng1/status/2016013755394756678",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2016007932123435141",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "$UNH AI的影响我还没有完全弄明白，仅针对今天CMS费率的事件和盘后的下跌分享一些数据。\n1. CMS建议费率27年增速0.09%，假设最终维持这个费率，对于27年的净利润影响在1-2%左右，其实不大\n2. 根据历史经验，在4月份正式宣布费率之前，还存在上调的可能，平均上调幅度1%\n3. 如果川普丢掉中期选举，27年的费率增长有可能会以其他的形式回补\n4. 盘后跌9%市场定价了27年以外的费率增速也会保持在低位\n5. 单就这一事件来说，我认为短期市场反应过度了。周二早上的财报结果不知道，也不做预测。",
-      "contentHtml": "<a href=\"/search?q=%23UNH\">$UNH</a> AI的影响我还没有完全弄明白，仅针对今天CMS费率的事件和盘后的下跌分享一些数据。\n1. CMS建议费率27年增速0.09%，假设最终维持这个费率，对于27年的净利润影响在1-2%左右，其实不大\n2. 根据历史经验，在4月份正式宣布费率之前，还存在上调的可能，平均上调幅度1%\n3. 如果川普丢掉中期选举，27年的费率增长有可能会以其他的形式回补\n4. 盘后跌9%市场定价了27年以外的费率增速也会保持在低位\n5. 单就这一事件来说，我认为短期市场反应过度了。周二早上的财报结果不知道，也不做预测。",
-      "publishedAt": "2026-01-27T04:38:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2016007932123435141",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2016000155645022493",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "为什么我会认为几乎没有反转的可能？\n\n链上行为提供了一个特别有效的观察视角。从供应端来看，当BTC价格反弹接近短期筹码平均成本线（STH-RP）附近时，已实现亏损主要是由持有3-6个月的投资者造成（图1）。\n\n3-6个月的投资者恰恰是最接近长期持有者的短期持有者。意味着当他们即将实现盈亏平衡时首先考虑的是保本而不是继续承担风险，不愿由STH转变为LTH。\n\n在已实现利润方面，卖出时利润率在0%至20%之间的交易者所占利润份额显著增加（图2）。意味着盈亏平衡的卖家和短期波段交易者的选择在盈利相对较小的情况下平仓，而不是继续持有并等待趋势延续。\n\n这类行为，加剧了BTC在关键阻力位门槛附近的卖压，体现了市场信心的脆弱性。如果下一次反弹至STH-RP，任然表现出这样的谨慎消极的行为，多头的信心将遭受反复打击。\n\n当然，市场永远存在博弈，多方也没那么容易缴械投降。在每一次弱平衡达到临界点时，双方力量的碰撞就要一决胜负。如果一次不行，那就再来一次，直到一方把另一方打服为止，顶和底也就是这样形成的。\n\n链上行为的背后是市场全体参与者的真实情绪反馈。显然，当前并不具备扭转趋势的信心和情绪基础，这并不随我们的个人意愿而改变。但多头的倔强和层层抵抗，会成就每一次短期超跌后的反弹。\n\n以上仅作为学习交流，不作为投资建议！\n--------------------------------------------- \n本文由 @bitget 赞助｜ \nBitget VIP，费率更低，福利更狠",
-      "contentHtml": "为什么我会认为几乎没有反转的可能？\n\n链上行为提供了一个特别有效的观察视角。从供应端来看，当BTC价格反弹接近短期筹码平均成本线（STH-RP）附近时，已实现亏损主要是由持有3-6个月的投资者造成（图1）。\n\n3-6个月的投资者恰恰是最接近长期持有者的短期持有者。意味着当他们即将实现盈亏平衡时首先考虑的是保本而不是继续承担风险，不愿由STH转变为LTH。\n\n在已实现利润方面，卖出时利润率在0%至20%之间的交易者所占利润份额显著增加（图2）。意味着盈亏平衡的卖家和短期波段交易者的选择在盈利相对较小的情况下平仓，而不是继续持有并等待趋势延续。\n\n这类行为，加剧了BTC在关键阻力位门槛附近的卖压，体现了市场信心的脆弱性。如果下一次反弹至STH-RP，任然表现出这样的谨慎消极的行为，多头的信心将遭受反复打击。\n\n当然，市场永远存在博弈，多方也没那么容易缴械投降。在每一次弱平衡达到临界点时，双方力量的碰撞就要一决胜负。如果一次不行，那就再来一次，直到一方把另一方打服为止，顶和底也就是这样形成的。\n\n链上行为的背后是市场全体参与者的真实情绪反馈。显然，当前并不具备扭转趋势的信心和情绪基础，这并不随我们的个人意愿而改变。但多头的倔强和层层抵抗，会成就每一次短期超跌后的反弹。\n\n以上仅作为学习交流，不作为投资建议！\n--------------------------------------------- \n本文由 <a href=\"/bitget\" title=\"Bitget\">@bitget</a> 赞助｜ \nBitget VIP，费率更低，福利更狠",
-      "publishedAt": "2026-01-27T04:07:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2016000155645022493",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_pFczBagAAjmPf.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_pFczGbAAAGU4l.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "基本没有反转的可能，8.7不破，反弹倒是可能的",
-        "link": "https://x.com/Murphychen888/status/2015622851035099187"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2015995206974505416",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "勇哥说餐饮有句话说得透：穷人的钱，好骗，但不好赚。\n\n你让他们花时间学选址、学选品、学经营逻辑，他们会嫌麻烦、觉得慢。\n\n但你要告诉他们“交三十万，每月躺赚”，排队掏钱的人能挤破门槛。\n\n交易市场里，你让他们系统学结构、练风控、磨心态，他们说“太慢、太虚”。\n\n但换个说法，包装成“胜率90%的圣杯指标”、“一键跟单稳赚策略”，“XX大佬站台金狗”，他们立刻就觉得“这次真的不一样”\n\n你看，圈子不一样，但人性是相通的，渴望捷径的土壤，永远长得出最茂盛的韭菜。\n\n多说无益，来360度转一圈…",
-      "contentHtml": "勇哥说餐饮有句话说得透：穷人的钱，好骗，但不好赚。\n\n你让他们花时间学选址、学选品、学经营逻辑，他们会嫌麻烦、觉得慢。\n\n但你要告诉他们“交三十万，每月躺赚”，排队掏钱的人能挤破门槛。\n\n交易市场里，你让他们系统学结构、练风控、磨心态，他们说“太慢、太虚”。\n\n但换个说法，包装成“胜率90%的圣杯指标”、“一键跟单稳赚策略”，“XX大佬站台金狗”，他们立刻就觉得“这次真的不一样”\n\n你看，圈子不一样，但人性是相通的，渴望捷径的土壤，永远长得出最茂盛的韭菜。\n\n多说无益，来360度转一圈…",
-      "publishedAt": "2026-01-27T03:48:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2015995206974505416",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_pA8_yXYAAgR7U.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
