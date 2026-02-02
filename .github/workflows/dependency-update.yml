@@ -2,6 +2,7 @@ name: Update Dependencies
 
 on:
   schedule:
+    # 每周一 UTC 03:00 运行
     - cron: '0 3 * * 1'
   workflow_dispatch:
 

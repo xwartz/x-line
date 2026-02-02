@@ -12,13 +12,13 @@ permissions:
 
 jobs:
   auto-merge:
+    # 仅允许依赖更新机器人触发自动合并
     env:
       AUTO_MERGE_ALLOWED_AUTHORS: github-actions[bot],dependabot[bot]
     if: >
       ${{
         github.event.workflow_run.conclusion == 'success' &&
-        github.event.workflow_run.event == 'pull_request' &&
-        github.event.workflow_run.pull_requests[0]
+        github.event.workflow_run.event == 'pull_request'
       }}
     runs-on: ubuntu-latest
 
@@ -28,11 +28,13 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const [pr] = context.payload.workflow_run.pull_requests;
+            const [pr] = context.payload.workflow_run.pull_requests ?? [];
             if (!pr) {
               core.setOutput('eligible', 'false');
               return;
             }
+
+            core.setOutput('pr-number', pr.number.toString());
 
             const { data } = await github.rest.pulls.get({
               owner: context.repo.owner,
@@ -55,5 +57,5 @@ jobs:
         uses: peter-evans/enable-pull-request-automerge@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          pull-request-number: ${{ github.event.workflow_run.pull_requests[0].number }}
+          pull-request-number: ${{ steps.check.outputs.pr-number }}
           merge-method: squash
