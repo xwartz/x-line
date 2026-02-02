@@ -12,9 +12,6 @@ permissions:
 
 jobs:
   auto-merge:
-    # 仅允许依赖更新机器人触发自动合并
-    env:
-      AUTO_MERGE_ALLOWED_AUTHORS: github-actions[bot],dependabot[bot]
     if: >
       ${{
         github.event.workflow_run.conclusion == 'success' &&
@@ -26,6 +23,9 @@ jobs:
       - name: Check PR eligibility
         id: check
         uses: actions/github-script@v7
+        # 仅允许依赖更新机器人触发自动合并
+        env:
+          AUTO_MERGE_ALLOWED_AUTHORS: github-actions[bot],dependabot[bot]
         with:
           script: |
             const [pr] = context.payload.workflow_run.pull_requests ?? [];
