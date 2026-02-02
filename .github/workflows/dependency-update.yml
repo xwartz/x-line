@@ -52,7 +52,7 @@ jobs:
           title: 'chore: update dependencies'
           body: |
             Automated dependency updates via GitHub Actions.
-          branch: 'chore/update-dependencies'
+          branch: 'chore/update-dependencies-${{ github.run_id }}'
           labels: |
             dependencies
           delete-branch: true
