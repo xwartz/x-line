@@ -69,6 +69,12 @@ pnpm run manage-followers     # 管理关注者（add/remove）
 pnpm run fetch-tweets         # 抓取推文
 ```
 
+## 自动化工作流
+
+- **CI**: 在推送和 PR 时执行 lint/build。
+- **依赖更新**: 每周自动更新依赖并创建 PR。
+- **自动合并**: 当 CI 通过后自动合并 PR。
+
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
