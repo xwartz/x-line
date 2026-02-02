@@ -29,6 +29,11 @@ jobs:
         with:
           script: |
             const [pr] = context.payload.workflow_run.pull_requests;
+            if (!pr) {
+              core.setOutput('eligible', 'false');
+              return;
+            }
+
             const { data } = await github.rest.pulls.get({
               owner: context.repo.owner,
               repo: context.repo.repo,
