@@ -34,7 +34,7 @@ jobs:
 
       - name: Set branch date
         id: branch-date
-        run: echo "date=$(date -u +'%Y-%m-%d-%H%M%S')" >> "$GITHUB_OUTPUT"
+        run: echo "date=$(date -u +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
 
       - name: Update dependencies
         run: pnpm update --latest
@@ -57,7 +57,7 @@ jobs:
           title: 'chore: update dependencies'
           body: |
             Automated dependency updates via GitHub Actions.
-          branch: 'chore/update-dependencies-${{ steps.branch-date.outputs.date }}'
+          branch: 'chore/update-dependencies-${{ steps.branch-date.outputs.date }}-${{ github.run_number }}'
           labels: |
             dependencies
           delete-branch: true

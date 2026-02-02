@@ -28,6 +28,7 @@ jobs:
           AUTO_MERGE_ALLOWED_AUTHORS: github-actions[bot],dependabot[bot]
         with:
           script: |
+            // Only handle the first PR attached to this workflow_run event.
             const pr = context.payload.workflow_run.pull_requests?.[0];
             if (!pr) {
               core.setOutput('eligible', 'false');
