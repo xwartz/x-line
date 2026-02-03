@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T12:03:10.180Z",
+  "lastUpdated": "2026-02-03T13:36:46.788Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,116 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 505,
-    "successUsers": 25,
-    "failedUsers": 1
+    "newFetched": 405,
+    "successUsers": 20,
+    "failedUsers": 6
   },
   "tweets": [
+    {
+      "id": "2018674215969595489",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "piped.video/live/zGn_xYeHZyk…  \n\n随地大小亏 nitter.net/i/broadcasts/1dRKZadyd…",
+      "contentHtml": "<a href=\"https://piped.video/live/zGn_xYeHZyk?feature=share\">piped.video/live/zGn_xYeHZyk…</a>  \n\n随地大小亏 <a href=\"https://nitter.net/i/broadcasts/1dRKZadydgmxB\">nitter.net/i/broadcasts/1dRKZadyd…</a>",
+      "publishedAt": "2026-02-03T13:13:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2018674215969595489",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2018674070544699719",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "nitter.net/i/broadcasts/1dRKZadyd…",
+      "contentHtml": "<a href=\"https://nitter.net/i/broadcasts/1dRKZadydgmxB\">nitter.net/i/broadcasts/1dRKZadyd…</a>",
+      "publishedAt": "2026-02-03T13:12:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2018674070544699719",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2018671150264696968",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "易老板在两小时前又一次将 2 万枚 $ETH 充值进交易所\n\n今天单日疑似卖出数量已增长到 65000 枚，价值 1.5 亿美元，预计亏损 5103 万美元；最新清算区间更新为 [$1,685.77 - $1,973.94]\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
+      "contentHtml": "易老板在两小时前又一次将 2 万枚 <a href=\"/search?q=%23ETH\">$ETH</a> 充值进交易所\n\n今天单日疑似卖出数量已增长到 65000 枚，价值 1.5 亿美元，预计亏损 5103 万美元；最新清算区间更新为 [$1,685.77 - $1,973.94]\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0xFaf1358Fe6a9FA29A169Dfc272B14E709f54840f\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助 |上 Gate App 抢黄金",
+      "publishedAt": "2026-02-03T13:01:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2018671150264696968",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAPCr9dbkAEeXmO.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "难喔，Trend Research 今天再次向币安充值了 3 万枚 $ETH 🥲\n\n02.01 起已将 103,589 ETH 充值进 #Binance 并疑似卖出，平均充值价格 $2308.09，预计亏损 8248 万美元\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
+        "link": "https://x.com/ai_9684xtpa/status/2018546138731983149",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHANQ-C4aYAAZHar.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2018658696868557279",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "澳洲和新西兰作为欧美央行们的领先指标率先加息，所以我们的预期也应该调整为美联储是否之后没有太多降息周期和次数，而停止加息后转为加息？",
+      "contentHtml": "澳洲和新西兰作为欧美央行们的领先指标率先加息，所以我们的预期也应该调整为美联储是否之后没有太多降息周期和次数，而停止加息后转为加息？",
+      "publishedAt": "2026-02-03T12:11:00.000Z",
+      "link": "https://x.com/hazenlee/status/2018658696868557279",
+      "quote": {
+        "username": "NickTimiraos",
+        "displayName": "Nick Timiraos",
+        "content": "Australia’s central bank becomes the first major DM central bank to raise rates after having previously lowered rates following the great tightening of 2022-23.",
+        "link": "https://x.com/NickTimiraos/status/2018658293909221479"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2018658344773492866",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "合并usdc交易对\n黄金白银期货已经变成了宇宙所仅次于BES成交额的资产了\n加密世界正在经历着大浪淘沙\n所谓的新资产在金银这些传统资产和未来的美股多重打压下，生存的空间会越来越小。这也倒闭着crypto的创新者们，不要想着随便几个字母一个单词就想着躺着收割那么简单了。\n所以虽然我们正在经历这个周期的价值回归的阵痛，但是我相信经历熊市的洗礼，下轮币圈能跑出来的新资产会更强大！\nWhat doesn't kill you makes you stronger!",
+      "contentHtml": "合并usdc交易对\n黄金白银期货已经变成了宇宙所仅次于BES成交额的资产了\n加密世界正在经历着大浪淘沙\n所谓的新资产在金银这些传统资产和未来的美股多重打压下，生存的空间会越来越小。这也倒闭着crypto的创新者们，不要想着随便几个字母一个单词就想着躺着收割那么简单了。\n所以虽然我们正在经历这个周期的价值回归的阵痛，但是我相信经历熊市的洗礼，下轮币圈能跑出来的新资产会更强大！\nWhat doesn't kill you makes you stronger!",
+      "publishedAt": "2026-02-03T12:10:00.000Z",
+      "link": "https://x.com/hazenlee/status/2018658344773492866",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAO3D3uaUAA7mFd.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2018654617018814975",
       "username": "hazenlee",
@@ -391,25 +496,6 @@
       "retweet": {
         "username": "naval",
         "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018602947094122559",
-      "username": "ohyishi",
-      "displayName": "Yishi",
-      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
-      "content": "2026 年大概率会是异常动荡、异常混乱的一年。回看我过去所有惨痛的亏损，真正学到的一条只有一句话：不要参与自己看不懂的游戏。\n\n你相信的趋势未必成立，你觉得被低估的资产未必真的低估，你以为的放水也未必是真放水。当市场定价开始失序，几乎所有资产都有可能被错杀。\n\n是时候静下心来问自己了，这场游戏你的优势是什么，为什么是你赢。如果做不到赢，有没有办法让自己不要输？",
-      "contentHtml": "2026 年大概率会是异常动荡、异常混乱的一年。回看我过去所有惨痛的亏损，真正学到的一条只有一句话：不要参与自己看不懂的游戏。\n\n你相信的趋势未必成立，你觉得被低估的资产未必真的低估，你以为的放水也未必是真放水。当市场定价开始失序，几乎所有资产都有可能被错杀。\n\n是时候静下心来问自己了，这场游戏你的优势是什么，为什么是你赢。如果做不到赢，有没有办法让自己不要输？",
-      "publishedAt": "2026-02-03T08:30:00.000Z",
-      "link": "https://x.com/ohyishi/status/2018602947094122559",
-      "retweet": {
-        "username": "follow_clues",
-        "displayName": "Theclues"
       },
       "stats": {
         "replies": 0,
@@ -1855,6 +1941,31 @@
             "url": "https://nitter.net/pic/orig/media%2FHAH9GPWakAA-8LB.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2018230169664975213",
+      "username": "Pxstar_",
+      "displayName": "ratsxp",
+      "avatar": "https://nitter.net/pic/profile_images%2F1600418796912926723%2FQivp30cA_bigger.jpg",
+      "content": "看过爱坡斯坦邮件后，你会意识到Saylor也是一个真正的好人，无论从任何角度，我都不希望Strategy在这轮熊市发生任何意外，因为好人不该被这么对待",
+      "contentHtml": "看过爱坡斯坦邮件后，你会意识到Saylor也是一个真正的好人，无论从任何角度，我都不希望Strategy在这轮熊市发生任何意外，因为好人不该被这么对待",
+      "publishedAt": "2026-02-02T07:49:00.000Z",
+      "link": "https://x.com/Pxstar_/status/2018230169664975213",
+      "retweet": {
+        "username": "doveywancn",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐"
+      },
+      "quote": {
+        "username": "Pxstar_",
+        "displayName": "ratsxp",
+        "content": "x.com/i/article/201680719111…",
+        "link": "https://x.com/Pxstar_/status/2017771995988111674"
       },
       "stats": {
         "replies": 0,
@@ -3763,31 +3874,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHADWhL6acAA3VQk.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017871965953134743",
-      "username": "TiezhuCrypto",
-      "displayName": "铁柱哥在CRYPTO",
-      "avatar": "https://nitter.net/pic/profile_images%2F1806869533002797056%2FSJVZLyx1_bigger.jpg",
-      "content": "我始终不认为一两个人喊的改革可以动摇很多东西。\n\n1、尽管沃什是资历很深，人脉很广的最佳候选人之一。但要想达到鲍威尔在联储内部的威望，还有很长的路要走。就像保罗克鲁格曼说的那样，主席也仅仅只有一票而已，以及沃什是一个具有强大政治野心的犹太人。\n\n2、贝森特上台前也在满嘴攻击耶伦过度发短债。一年过去了，然后呢，在现实的引力下，改革有时候就是竞选口号。时间，还是时间。\n\n3、现实面前，或多或少的，人都会活成自己曾经讨厌的那个样子，政治家也一样，但他们的区别在于，他们毫无负担。\n\n4、把鲍曼拉进来（负责金融监管），最大的可能就是先从放松银行监管开始。\n\n都是一群精明的修补匠而已，不存在什么救世主。",
-      "contentHtml": "我始终不认为一两个人喊的改革可以动摇很多东西。\n\n1、尽管沃什是资历很深，人脉很广的最佳候选人之一。但要想达到鲍威尔在联储内部的威望，还有很长的路要走。就像保罗克鲁格曼说的那样，主席也仅仅只有一票而已，以及沃什是一个具有强大政治野心的犹太人。\n\n2、贝森特上台前也在满嘴攻击耶伦过度发短债。一年过去了，然后呢，在现实的引力下，改革有时候就是竞选口号。时间，还是时间。\n\n3、现实面前，或多或少的，人都会活成自己曾经讨厌的那个样子，政治家也一样，但他们的区别在于，他们毫无负担。\n\n4、把鲍曼拉进来（负责金融监管），最大的可能就是先从放松银行监管开始。\n\n都是一群精明的修补匠而已，不存在什么救世主。",
-      "publishedAt": "2026-02-01T08:05:00.000Z",
-      "link": "https://x.com/TiezhuCrypto/status/2017871965953134743",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "quote": {
-        "username": "TiezhuCrypto",
-        "displayName": "铁柱哥在CRYPTO",
-        "content": "x.com/i/article/201756470108…",
-        "link": "https://x.com/TiezhuCrypto/status/2017568708185755664"
       },
       "stats": {
         "replies": 0,
@@ -11510,94 +11596,6 @@
         "username": "OwenJin12",
         "displayName": "Owen.btc 🟧"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2016443242599117047",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "👀一天之内OI从100m降到50m",
-      "contentHtml": "👀一天之内OI从100m降到50m",
-      "publishedAt": "2026-01-28T09:28:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2016443242599117047",
-      "quote": {
-        "username": "bubblemaps",
-        "displayName": "Bubblemaps",
-        "content": "It gets worse\n\nThat massive cluster of 2,000+ wallets is directly linked to the $RIVER team\n\nHere's what we know 🧵",
-        "link": "https://x.com/bubblemaps/status/2016136431232827799",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_rBZV9bAAcC4Ic.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_rBZlMbAAUW3Cp.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2016436522342629755",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "统计优势为矛，风险管理为盾。  \n  \n前者确保你的开单逻辑具备数学上的正期望，只要执行的次数足够多，盈利自然会站在你这边。  \n  \n后者保证你在单次错误中不会承受致命亏损，毕竟盈亏并非线性：本金亏掉50%，要赚回100%才能回复。  \n  \n这是我的交易底层逻辑，分享给各位。",
-      "contentHtml": "统计优势为矛，风险管理为盾。  \n  \n前者确保你的开单逻辑具备数学上的正期望，只要执行的次数足够多，盈利自然会站在你这边。  \n  \n后者保证你在单次错误中不会承受致命亏损，毕竟盈亏并非线性：本金亏掉50%，要赚回100%才能回复。  \n  \n这是我的交易底层逻辑，分享给各位。",
-      "publishedAt": "2026-01-28T09:01:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2016436522342629755",
-      "quote": {
-        "username": "imaihuang",
-        "displayName": "💭最強村民💭💧🐁",
-        "content": "信王老闆　早日賺到一百萬",
-        "link": "https://x.com/imaihuang/status/2016432650475721051"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2016432956680896610",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "真是一场酣畅淋漓的采购…🍋\n\n新地址 0x9D2…01BfF 过去 7 小时向 Hyperliquid 充值 4499.5 万枚 USDC，随后持续买入 $HYPE 现货，目前已建仓 298,915.34 枚，价值 1006 万美元\n\n剩下的 3500 万刀莫不是要全部买入吧好家伙 👉 hyperbot.network/trader/0x9D…",
-      "contentHtml": "真是一场酣畅淋漓的采购…🍋\n\n新地址 0x9D2…01BfF 过去 7 小时向 Hyperliquid 充值 4499.5 万枚 USDC，随后持续买入 <a href=\"/search?q=%23HYPE\">$HYPE</a> 现货，目前已建仓 298,915.34 枚，价值 1006 万美元\n\n剩下的 3500 万刀莫不是要全部买入吧好家伙 👉 <a href=\"https://hyperbot.network/trader/0x9D26f5Bc7E5C7f767eade0b9De58d94f49301BfF?ic=6792001762\">hyperbot.network/trader/0x9D…</a>",
-      "publishedAt": "2026-01-28T08:47:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2016432956680896610",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_vO_suXUAAFXUV.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2016430104977830259",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "今天在整理自己推特的关注感觉20%的项目都难产了，感兴趣的可以把自己近期在撸的或者比较看好的项目发出来，我来做个空投项目从夯到拉排名，太无聊了，找点事情做做。",
-      "contentHtml": "今天在整理自己推特的关注感觉20%的项目都难产了，感兴趣的可以把自己近期在撸的或者比较看好的项目发出来，我来做个空投项目从夯到拉排名，太无聊了，找点事情做做。",
-      "publishedAt": "2026-01-28T08:36:00.000Z",
-      "link": "https://x.com/0xleng1/status/2016430104977830259",
       "stats": {
         "replies": 0,
         "retweets": 0,
