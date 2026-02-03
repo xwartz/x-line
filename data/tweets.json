@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T23:53:07.384Z",
+  "lastUpdated": "2026-02-03T01:53:04.163Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,65 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 509,
+    "newFetched": 506,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2018501752103047340",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
+      "content": "「藍線的神威」：聊 BTC 下方的強力支撐位 & 歷史覆盤📊\n\n誠如昨日的分析帖所言（下方引文），BTC 現已在下方約 74.5K 的位置，\n再次形成了新的 Equal Lows，也就是 liquidity 聚集區，\n我也因此判定未來有高概率重返 74.5K。\n\n接著此話題，今天再來和深入聊聊目前最接近現價的模型強支撐位👇：\n\n附圖的指標是「偏離度調整的 STH-RP」，在此先幫各位重溫其原理：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：nitter.net/market_beggar/status/1…\n\n//\n\n📊 目前藍線的價格約 = 69,874\n\n之所以想特別把這項數據抓出來和各位聊，其原因很簡單：\n正如昨日的帖子所言，倘若順利走出「74K 的 Stop Hunt」劇本，\n那價格在向下插針、清掃流動性時創出的針尖低點，\n就有很大的概率來到藍線（🔵）的支撐位置，進而形成共振。\n\n為了使各位能夠理解「藍線 🔵」在歷史過往的成績，\n我特別將 2018 年底至今以來，BTC 來到藍線的位置標示如圖，\n以下我將簡單再次以文字的形式說明：\n\n1️⃣ 2018 年底\n價格首次觸碰藍線，並在觸碰藍線後的一個月見底（週期大底）。\n\n2️⃣ 2020 年 3 月\n疫情導致之黑天鵝事件，BTC 恰好跌至藍線支撐，隨後 V 轉上漲。\n\n3️⃣ 2021 年 6~7 月\nBTC 分別於 6 月、7 月觸碰了一次藍線，隨後階段性見底，創出 ATH。\n\n4️⃣ 2022 年 1 月\n跌至藍線後開始反彈，最高幅度約 46%，但最終演變成下跌中繼\n\n5️⃣ 2022 年 6 月\nLuna 事件，BTC 崩跌至藍線區域震盪約 2 個月，\n期間最大反彈幅度約為 43%，但最終因 FTX 事件再次探底。\n\n//\n\n值得注意的是：自 2022 年 6 月的 Luna 事件以來，\nBTC 至今完全沒有再次觸碰藍線，就連觸碰綠線的次數也很少。\n\n基於上述歷史案例，我們不難發現一些結論：\n➡️ 價格在觸碰藍線後，有高概率見底\n➡️ 承上，可能是階段底，也可能是週期大底\n➡️ 來到藍線後，可能迅速 V 轉，也可能停留一段時間才上漲\n➡️ 歷史上無一例外，來到藍線後皆出現一波強力上漲（反彈或反轉皆有）\n\n就我個人的 bias 而言，倘若 BTC 在未來跌破 74.5K 時，\n能夠在踩到藍線的同時完成 Stop Hunt，\n並且出現約 1~2 個月的築底震盪結構（下方盡量不要留下 liquidity），\n那便能大幅提升 BTC 築底成功的概率，而我也將於屆時打滿剩餘的倉位。\n\n此外，比起 V 反，我更希望看到足夠的震盪，以便籌碼於底部進行換手，\n就現階段的市況而言，這將是相對更為穩固的底部基礎形式📈\n\n//\n\n我不知道未來 BTC 在碰到藍線之後，究竟是會出現反彈或反轉；\n不過只要有足夠的底部訊號，我認為就週期性交易的角度而言，\n屆時出手抄底絕對是正期望值的決策。\n\n題外話：我相信在之後跌到藍線的那一刻，如果沒有馬上反彈，\n一定又會有一堆人問：\n👶 「不是說強支撐嗎？怎麼沒有漲？」\n👶 「藍線到了，但感覺沒跌完。」\n👶 「現在藍線是不是失效了？」\n\n如同上述，根據歷史狀況，雖然價格到藍線之後都有高概率迎來一波強彈，\n但不代表是「馬上」，也完全有可能在藍線附近震盪 1~2 個月，\n在此先特別提醒，以便我未來可以直接截圖回覆這些問題🚬\n\n//\n\n最後，由於太多人問了，\n在此簡單和各位聊一下我接下來的操作思路：\n只要下方 74.5K 的 Liquidity（Equal Lows）沒有被清除，\n我就不會將我剩餘的現貨部位打滿。\n\n再次強調：\n由於 Equal Lows 的存在，我相信 BTC 在未來重返 74.5K 的概率極高，\n因此，如果接下來沒有去清掃，而是直接出現一波上漲，\n那我就不會執行任何操作，直到 74.5K 的 Liquidity 被獵取。\n\n詳細的邏輯都寫在下方引文了，有興趣的朋友可以自行參考。\n\n以上就是今天的內容，希望對各位有幫助🫡",
+      "contentHtml": "「藍線的神威」：聊 BTC 下方的強力支撐位 & 歷史覆盤📊\n\n誠如昨日的分析帖所言（下方引文），BTC 現已在下方約 74.5K 的位置，\n再次形成了新的 Equal Lows，也就是 liquidity 聚集區，\n我也因此判定未來有高概率重返 74.5K。\n\n接著此話題，今天再來和深入聊聊目前最接近現價的模型強支撐位👇：\n\n附圖的指標是「偏離度調整的 STH-RP」，在此先幫各位重溫其原理：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：<a href=\"https://nitter.net/market_beggar/status/1902195178993279264\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n📊 目前藍線的價格約 = 69,874\n\n之所以想特別把這項數據抓出來和各位聊，其原因很簡單：\n正如昨日的帖子所言，倘若順利走出「74K 的 Stop Hunt」劇本，\n那價格在向下插針、清掃流動性時創出的針尖低點，\n就有很大的概率來到藍線（🔵）的支撐位置，進而形成共振。\n\n為了使各位能夠理解「藍線 🔵」在歷史過往的成績，\n我特別將 2018 年底至今以來，BTC 來到藍線的位置標示如圖，\n以下我將簡單再次以文字的形式說明：\n\n1️⃣ 2018 年底\n價格首次觸碰藍線，並在觸碰藍線後的一個月見底（週期大底）。\n\n2️⃣ 2020 年 3 月\n疫情導致之黑天鵝事件，BTC 恰好跌至藍線支撐，隨後 V 轉上漲。\n\n3️⃣ 2021 年 6~7 月\nBTC 分別於 6 月、7 月觸碰了一次藍線，隨後階段性見底，創出 ATH。\n\n4️⃣ 2022 年 1 月\n跌至藍線後開始反彈，最高幅度約 46%，但最終演變成下跌中繼\n\n5️⃣ 2022 年 6 月\nLuna 事件，BTC 崩跌至藍線區域震盪約 2 個月，\n期間最大反彈幅度約為 43%，但最終因 FTX 事件再次探底。\n\n//\n\n值得注意的是：自 2022 年 6 月的 Luna 事件以來，\nBTC 至今完全沒有再次觸碰藍線，就連觸碰綠線的次數也很少。\n\n基於上述歷史案例，我們不難發現一些結論：\n➡️ 價格在觸碰藍線後，有高概率見底\n➡️ 承上，可能是階段底，也可能是週期大底\n➡️ 來到藍線後，可能迅速 V 轉，也可能停留一段時間才上漲\n➡️ 歷史上無一例外，來到藍線後皆出現一波強力上漲（反彈或反轉皆有）\n\n就我個人的 bias 而言，倘若 BTC 在未來跌破 74.5K 時，\n能夠在踩到藍線的同時完成 Stop Hunt，\n並且出現約 1~2 個月的築底震盪結構（下方盡量不要留下 liquidity），\n那便能大幅提升 BTC 築底成功的概率，而我也將於屆時打滿剩餘的倉位。\n\n此外，比起 V 反，我更希望看到足夠的震盪，以便籌碼於底部進行換手，\n就現階段的市況而言，這將是相對更為穩固的底部基礎形式📈\n\n//\n\n我不知道未來 BTC 在碰到藍線之後，究竟是會出現反彈或反轉；\n不過只要有足夠的底部訊號，我認為就週期性交易的角度而言，\n屆時出手抄底絕對是正期望值的決策。\n\n題外話：我相信在之後跌到藍線的那一刻，如果沒有馬上反彈，\n一定又會有一堆人問：\n👶 「不是說強支撐嗎？怎麼沒有漲？」\n👶 「藍線到了，但感覺沒跌完。」\n👶 「現在藍線是不是失效了？」\n\n如同上述，根據歷史狀況，雖然價格到藍線之後都有高概率迎來一波強彈，\n但不代表是「馬上」，也完全有可能在藍線附近震盪 1~2 個月，\n在此先特別提醒，以便我未來可以直接截圖回覆這些問題🚬\n\n//\n\n最後，由於太多人問了，\n在此簡單和各位聊一下我接下來的操作思路：\n只要下方 74.5K 的 Liquidity（Equal Lows）沒有被清除，\n我就不會將我剩餘的現貨部位打滿。\n\n再次強調：\n由於 Equal Lows 的存在，我相信 BTC 在未來重返 74.5K 的概率極高，\n因此，如果接下來沒有去清掃，而是直接出現一波上漲，\n那我就不會執行任何操作，直到 74.5K 的 Liquidity 被獵取。\n\n詳細的邏輯都寫在下方引文了，有興趣的朋友可以自行參考。\n\n以上就是今天的內容，希望對各位有幫助🫡",
+      "publishedAt": "2026-02-03T01:48:00.000Z",
+      "link": "https://x.com/market_beggar/status/2018501752103047340",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAMopDaaoAAHP5L.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "「74K 必到」：新的流動性引力區已然形成⚠️\n\n🪧前言：\n本文將結合「Liquidity 分析」和「鏈上分析」的邏輯，\n和各位分享我對於後市的 bias，同時附上接下來的完整交易計畫。\n\n週末突如其來的暴跌，再次引燃了市場的悲觀情緒；\n但或許你沒發現：新的訊號已悄然而至，74K 的獵取已成高概率事件 ...👇：\n\n//\n\n🟡 簡易覆盤\n\n首先，我在先前的帖子曾反覆提及「我對後市的三大劇本」規劃：\n1️⃣ 於 80.5K 完成 Stop Hunt 並築底\n2️⃣ 於 74K 完成 Stop Hunt 並築底\n3️⃣ 上述兩位置皆未出現 Stop Hunt，走更深度的回調\n\n老朋友都知道，所謂 Stop Hunt，需要滿足三大要件才能成立：\n✅ 跌破 liquidity 區域\n✅ 跌破後收回 liquidity 區域之上\n✅ 收回時伴隨強力 taker buy\n\n📖 Stop Hunt 概念詳細解說 & 實盤案例分析\nnitter.net/market_beggar/status/1…\n\nBTC 在週末跌破 80.5K 時，我們並沒有看到強力的 taker buy 出現，\n並且因為是週末時間，即便有 taker buy，根據歷史經驗，\n也有極高的概率是騙炮，當時我在群裡也馬上和各位分享了我的判斷。\n\n💭 貝格先生免費交流群組：nitter.net/market_beggar/status/2…\n\n隨後，BTC 便一路向下貫穿，期間完全沒有 taker buy 願意出來防守，\n至此，我先前規劃的劇本 1 已確定失效，市場方向也漸趨明朗。\n\n//\n\n🟡 新的風險訊號已悄然而至\n\n除了確認劇本 1 的失效以外，週末的這波暴跌還給了另一項重要訊號：\n「BTC 再次於 74K 的位置形成新的 Equal Lows‼️」\n\n所謂 Equal Lows，是指線型上非常接近的水平針尖，\n並且這些針尖在非常接近的同時，皆沒有低於最左側的針尖。\n\nEqual Lows 的存在，意味著「Liquidity 大量聚集」，\n根據我先前反覆提及的「Liquidity 引力效應」，\n價格在未來將有極高的概率，回到 Equal Lows 的位置並獵取該區的流動性。\n\n如附圖所示：\n「週末下跌的最低點，已和 2025 年 4 月的低點形成新的 Equal Lows」，\n這意味著接下來的行情不論如何發展，\n未來都有極高的概率再次重返到 74K 的位置，將 liquidity 清掃完畢‼️\n\nEqual Lows 這類 liquidity 聚集區的實際運用方式，\n我也已在 X 上公開分享多次，前段時間我在暴跌前發布的\n「下行風險的提升 & 暴風雨前的短暫安寧」一文中，\n也正是使用了 Liquidity 的概念去預測 BTC 的走勢，\n而事實也再次證明了 Liquidity 威力。\n\n📖 BTC 技術面更新：下行風險的提升 & 暴風雨前的短暫安寧\nnitter.net/market_beggar/status/2…\n\n如果你依然不信，可以去覆盤 BTC 的歷史 K 線，\n看看是否有「至今完全沒被摸過的 Equal Lows / Highs」，\n相信所有質疑的朋友，在覆盤之後都能理解我的意思。\n\n//\n\n🟡 後續的交易劇本\n\n如同前述，目前我自己瞄準的劇本有二，在此分別細說：\n\n🔸一、在 74K 完成 Stop Hunt 並築底，確認大級別底部\n老規矩，如果要完成 Stop Hunt，以下三要素缺一不可：\n✅ 跌破 74K\n✅ 跌破後收回 74K 之上\n✅ 收回時伴隨強力 taker buy\n\n值得注意的是：74K 下方恰好是另一鏈上模型的超強支撐位，\n也就是我很常和各位分享的「偏離度調整的 STH-RP 模型」📊\n\n📖 向下逼近的短期持有者成本 & 強力支撐區域數據更新\nnitter.net/market_beggar/status/2…\n\n目前此模型的藍線位置約是「70K」，如果真能完成 Stop Hunt，\n那效力恰好能和此模型形成共振，為後續的上漲築出堅實的底部基礎📈\n\n-\n\n🔸二、在 74K 未出現 Stop Hunt，往下尋找支撐\n\n如果未來在跌破 74K 之時，完全沒有出現 taker 願意出來護盤，\n那價格就可能「真正跌破」74K，屆時我們就需透過其他方式來尋找底部。\n\n這部分的內容我曾多次分享，有興趣的朋友可以先閱讀以下帖子：\n📖 BTC 深熊極端估值最新數據\nnitter.net/market_beggar/status/2…\n\n在此附上幾項我個人會特別關注的數據、模型：\n\n➡️ Cointime Price：目前價格約 = 51,667\n指標詳細說明：nitter.net/market_beggar/status/1…\n➡️ Realized Price（全市場平均成本）：目前價格約 = 55,868\n指標詳細說明：nitter.net/market_beggar/status/1…\n➡️ AVIV Heatmap 藍色區域：目前價格約 = 65,220\n指標詳細說明：nitter.net/market_beggar/status/2…\n\n換句話說：倘若未來真跌至這些模型給出的位置，\n我可以向各位擔保「這絕對是週期級別的超級黃金坑」，\n而我也必將身先士卒，在這些位置打入我剩餘的資金，並考慮帶上槓桿💰\n\n如果你感到懷疑，可以直接點進上方附上的「指標說明」，\n內有「以往價格跌至該價位時的表現」，\n你會發現：全是每一輪的週期大底區域，至今無一例外。\n\n//\n\n🟡 2024 年的超級盤整區\n\n在此和各位分享、補充另一項同樣也非常值得注意的支撐區域。\n\n夢回 2024 年，在該年 3 月 BTC 出現了第一次大規模派發之後，\nBTC 便開啟了長達超 200 日的寬幅震盪，最終因 Trump 的勝選，\n才開啟了下一波主升浪，但同時也迎來了第二波大規模派發。\n\n📖 2025 年初逃頂帖：或許你需要做好隨時逃頂的準備\nnitter.net/market_beggar/status/1…\n\n各位或許沒有發現：\nBTC 在同一寬幅區間內震盪超 200 日的案例，可謂少之又少。\n震盪的本質就是「籌碼的換手」，停留的時間愈久，\n說明價格「在該區域的買盤，完全可以抗衡來自老籌碼的拋售」，\n這也就意味著「有大量資金對於該區域的 BTC 是願意買入的」。\n\n按理而言，震盪一段時間就會出方向，因為多空雙方在達到恐怖平衡時，\n任何一絲風吹草動都可能成為 trigger 行情啟動的最後一根稻草🌾\n\n但長達超 200 日之久的震盪，的確實屬罕見，\n當時恰逢 ETF 批准後不久，大量外部資金的入場，\n完全接住了來自老牌巨鯨們的拋售，\n這無疑為該區域打下了堅實的底部基礎，因此我們不難理解：\n「當時的盤整區（49~74K）有極大概率是強力支撐區」。\n\n至此，相信各位都發現了💡：\n上述那些極其強悍的深熊底部估值們，\n給出的位置又恰好完美重合於此大型盤整區。\n\n綜合上述的推論，我認為：\n「BTC 本輪的週期性底部，有不小的概率將在 49~74K 之間完成‼️」\n\n不論你是否相信，話已至此，且待時間驗證。\n\n//\n\n🟡 結語\n\n以下，簡單幫各位做個總結📝：\n\n🔺 跌破 80.5K 時未見 Taker Buy，先前提及的劇本 1 確認失效\n🔺 價格在 74K 形成新的 Equal Lows，未來有極高概率跌破\n🔺 未來的劇本 1：74K 完成 Stop Hunt，和 STH-RP 模型藍線共振\n🔺 未來的劇本 2：74K 沒有 Stop Hunt，向下尋找更強的支撐\n🔺 2024 年 3~11 月的大型盤整區，有不小的概率成為本輪週期的大底\n\n或許很多人對於劇本 1 的失效感到失望、徬徨，\n但我反倒認為「市況正在一步一步的走向明朗」，這並不是壞事。\n\n交易的本質正是如此：「規劃，然後驗證」。\n如今劇本 1 的可能性已被排除，下方又是大量強力支撐，\n如果你和我一樣長期看好 BTC、同意 BTC 的革命性價值，\n那我認為這波下跌應是令所有多軍都感到雀躍的事情，\n因為你不得不承認：BTC 這項優質資產已愈來愈便宜了💎\n\n如果你嫌 10 萬以上的 BTC 太貴了，那現在難道不該感到開心嗎？\n\n本文的篇幅稍嫌有些長了，因為我希望把所有狀況都說明白，還望各位海涵。\n\n以上，希望對各位有幫助；新的一週，祝各位交易順利🫡",
+        "link": "https://x.com/market_beggar/status/2018137806816846181",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAHdolva8AAv8vp.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2018477715524137139",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "只要不执着于预测顶底，分析趋势其实是件相对简单的事。\n\n当价格高低点不断上移（HH,HL），趋势向上；当高低点走平，进入震荡；当价格跌破前低（LH, LL）、高低点持续下移，空头趋势便已确立。\n\n既然分析起来逻辑清晰，为何多数人仍会逆势操作？\n\n因为“分析行情”和“执行交易”根本是两回事。\n\n分析可以站在高处，俯瞰全局，大道至简。\n\n而执行交易，却要俯身进入细节：寻找关键位置、等待高赔率信号、计算仓位风险、管理持仓心态，这些步骤枯燥、反直觉，且无法省略（没有赌起来爽啊！）。\n\n许多人不是看不懂趋势，而是忍受不了在正确的趋势里，用严格的规则一步一步走下去的枯燥。\n\n他们总想跳过计算、逃避等待、绕过心态的磨练，直接拿到结果...",
+      "contentHtml": "只要不执着于预测顶底，分析趋势其实是件相对简单的事。\n\n当价格高低点不断上移（HH,HL），趋势向上；当高低点走平，进入震荡；当价格跌破前低（LH, LL）、高低点持续下移，空头趋势便已确立。\n\n既然分析起来逻辑清晰，为何多数人仍会逆势操作？\n\n因为“分析行情”和“执行交易”根本是两回事。\n\n分析可以站在高处，俯瞰全局，大道至简。\n\n而执行交易，却要俯身进入细节：寻找关键位置、等待高赔率信号、计算仓位风险、管理持仓心态，这些步骤枯燥、反直觉，且无法省略（没有赌起来爽啊！）。\n\n许多人不是看不懂趋势，而是忍受不了在正确的趋势里，用严格的规则一步一步走下去的枯燥。\n\n他们总想跳过计算、逃避等待、绕过心态的磨练，直接拿到结果...",
+      "publishedAt": "2026-02-03T00:12:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2018477715524137139",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAKf-vMbMAAKwKG.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2018447253942206725",
       "username": "TJ_Research",
@@ -1725,10 +1779,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHAHdolva8AAv8vp.jpg"
         }
       ],
-      "retweet": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢"
-      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -1900,6 +1950,25 @@
       "contentHtml": "The fraud being exposed in California is INSANE\n\n- 18% of THE WHOLE COUNTRY’S home health care billing is coming out of Los Angeles County\n- One doctor billed the government $120 million in a single year claiming to oversee 1,900 patients\n- With almost 2,000 hospice agencies, Los Angeles County has more than 36 states combined and 30X MORE than the whole state of Florida and New York\n\n“How is that possible? And take a look at this map, a cluster of 287 hospice providers, in a two-mile radius, some in strip malls, unmarked buildings, even a wrecking yard and vacant lot. All of it is just paperwork. I could fill that out in Kazakhstan if I want and get a hospice license waiting for me.”",
       "publishedAt": "2026-02-01T23:10:00.000Z",
       "link": "https://x.com/WallStreetApes/status/2018099758943084657",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2018095472033087797",
+      "username": "LoveCodeTrade",
+      "displayName": "Boom 💥",
+      "avatar": "https://nitter.net/pic/profile_images%2F1554670044109348870%2FqlVSqZKw_bigger.png",
+      "content": "Bay Area transit is heading for a cliff. MUNI and BART each face $300M+ deficits by 2027. The solution? A ballot measure raising $1 billion annually through sales taxes.\n\nGuess who's funding the campaign. 𝗦𝗘𝗜𝗨 𝟭𝟬𝟮𝟭, the union representing transit workers.\n\n𝗧𝗵𝗲 𝗚𝗿𝗶𝗳𝘁\n\nUnions donate to politicians, politicians negotiate union contracts, taxpayers foot the bill. When the bill gets too high, unions campaign for tax increases to cover the contracts they negotiated. Rinse, repeat.\n\nSEIU isn't donating to \"save transit.\" They're donating to save their contracts. There's a difference.\n\n𝗧𝗵𝗲 𝗕𝗹𝗼𝗮𝘁\n\nLabor costs dominate transit budgets. Not track maintenance. Not new trains. Not more frequent service. Personnel. The SFMTA has grown its administrative headcount while service quality declines.\n\n\"𝗕𝘂𝘁 𝗪𝗼𝗿𝗸𝗲𝗿𝘀 𝗗𝗲𝘀𝗲𝗿𝘃𝗲 𝗙𝗮𝗶𝗿 𝗪𝗮𝗴𝗲𝘀\"\n\nSounds good. But \"fair\" shouldn't mean \"whatever the union extracts from politicians they helped elect.\" That's not negotiation; it's a pay-to-play kickback scheme.\n\n\"𝗜𝘁'𝘀 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗪𝗙𝗛 𝗞𝗶𝗹𝗹𝗶𝗻𝗴 𝗥𝗶𝗱𝗲𝗿𝘀𝗵𝗶𝗽\"\n\nRidership dropped, yes. But agencies were bleeding money before the pandemic. WFH just accelerated the math.\n\n𝗧𝗵𝗲 𝗳𝗶𝘅: Ban public employee unions from taxpayer-funded agencies. Break the politician-union-taxpayer triangle.",
+      "contentHtml": "Bay Area transit is heading for a cliff. MUNI and BART each face $300M+ deficits by 2027. The solution? A ballot measure raising $1 billion annually through sales taxes.\n\nGuess who's funding the campaign. 𝗦𝗘𝗜𝗨 𝟭𝟬𝟮𝟭, the union representing transit workers.\n\n𝗧𝗵𝗲 𝗚𝗿𝗶𝗳𝘁\n\nUnions donate to politicians, politicians negotiate union contracts, taxpayers foot the bill. When the bill gets too high, unions campaign for tax increases to cover the contracts they negotiated. Rinse, repeat.\n\nSEIU isn't donating to \"save transit.\" They're donating to save their contracts. There's a difference.\n\n𝗧𝗵𝗲 𝗕𝗹𝗼𝗮𝘁\n\nLabor costs dominate transit budgets. Not track maintenance. Not new trains. Not more frequent service. Personnel. The SFMTA has grown its administrative headcount while service quality declines.\n\n\"𝗕𝘂𝘁 𝗪𝗼𝗿𝗸𝗲𝗿𝘀 𝗗𝗲𝘀𝗲𝗿𝘃𝗲 𝗙𝗮𝗶𝗿 𝗪𝗮𝗴𝗲𝘀\"\n\nSounds good. But \"fair\" shouldn't mean \"whatever the union extracts from politicians they helped elect.\" That's not negotiation; it's a pay-to-play kickback scheme.\n\n\"𝗜𝘁'𝘀 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗪𝗙𝗛 𝗞𝗶𝗹𝗹𝗶𝗻𝗴 𝗥𝗶𝗱𝗲𝗿𝘀𝗵𝗶𝗽\"\n\nRidership dropped, yes. But agencies were bleeding money before the pandemic. WFH just accelerated the math.\n\n𝗧𝗵𝗲 𝗳𝗶𝘅: Ban public employee unions from taxpayer-funded agencies. Break the politician-union-taxpayer triangle.",
+      "publishedAt": "2026-02-01T22:53:00.000Z",
+      "link": "https://x.com/LoveCodeTrade/status/2018095472033087797",
       "retweet": {
         "username": "naval",
         "displayName": "Naval"
@@ -11485,57 +11554,6 @@
       "contentHtml": "谣传英伟达28年要向英特尔下订单，英特尔盘后上涨4%😂\n这个市场已经完全是消息面主导的，价格上的体现是上下波动大，情绪面上的体现是怕错过和亏了就跑换下一个",
       "publishedAt": "2026-01-27T23:39:00.000Z",
       "link": "https://x.com/TJ_Research/status/2016295030114205968",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2016288884980859187",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "㊙分享一个开法拉利回家过年的办法\n刚看到，赶紧分享给大家。",
-      "contentHtml": "㊙分享一个开法拉利回家过年的办法\n刚看到，赶紧分享给大家。",
-      "publishedAt": "2026-01-27T23:15:00.000Z",
-      "link": "https://x.com/hazenlee/status/2016288884980859187",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_tMDHKawAAWY_C.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2016277924106928198",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "看到最后\n你不如杀了我吧",
-      "contentHtml": "看到最后\n你不如杀了我吧",
-      "publishedAt": "2026-01-27T22:31:00.000Z",
-      "link": "https://x.com/hazenlee/status/2016277924106928198",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2016262847441912211",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "川普：美元走得很好\n黄金：收到",
-      "contentHtml": "川普：美元走得很好\n黄金：收到",
-      "publishedAt": "2026-01-27T21:31:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2016262847441912211",
       "stats": {
         "replies": 0,
         "retweets": 0,
