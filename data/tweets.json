@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T08:25:34.773Z",
+  "lastUpdated": "2026-02-05T09:09:00.997Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,65 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 505,
+    "newFetched": 507,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2019330105093636555",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "【四年周期系列更新】当前图中指标跌至 2.56\n\n2014年该指标从 2.56 到 1，花费 99天\n2018年该指标从 2.56 到 1，花费 180天\n2022年该指标从 2.56 到 1，花费 262天\n\n注：指标到 1，基本熊底",
+      "contentHtml": "【四年周期系列更新】当前图中指标跌至 2.56\n\n2014年该指标从 2.56 到 1，花费 99天\n2018年该指标从 2.56 到 1，花费 180天\n2022年该指标从 2.56 到 1，花费 262天\n\n注：指标到 1，基本熊底",
+      "publishedAt": "2026-02-05T08:39:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2019330105093636555",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAYZQl3bsAA_7WZ.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【四年周期总刻系列（13）】\n\n2016年02月比特币已实现盈利（365日MA）超越已实现损失（365日MA）后 673天 到已实现盈亏比峰值，与17年牛顶误差2天\n\n2019年07月比特币已实现盈利（365日MA）超越已实现损失（365日MA）后 650天 到已实现盈亏比峰值，与21上半年顶误差2天\n\n2023年11月比特币已实现盈利（365日MA）超越已实现损失（365日MA）后 694天 到已实现盈亏比峰值，与25年 $126k 误差1天\n\n图中上方3条指标分别为 #BTC 价格；比特币已实现盈利（365日MA）；比特币已实现损失（365日MA）。图中下方指标为比特币已实现盈利（365日MA）跟比特币已实现损失（365日MA）之比，也即“已实现盈亏比（365日MA）”\n\n该比率通过比较过去365天内投资者实现的盈利（卖出价格高于买入价格的部分）与亏损（卖出价格低于买入价格的部分）的移动平均值，反映了市场参与者的整体盈亏状态\n\n在牛市，盈利亏损比通常较高，因为投资者倾向于在价格高位获利了结\n在熊市，该比率通常较低，因为投资者可能在亏损状态下卖出，反映市场恐慌或投降行为\n\n使用365日移动平均线平滑了短期波动，突出了长期趋势。这个指标适合用来判断市场是否处于过热（过高比率）或过度恐慌（过低比率）的状态，是判断市场周期和趋势的有力工具",
+        "link": "https://x.com/0xCryptoChan/status/1983813770922381610",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG4fsBMQaoAAWnSY.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2019326742205460753",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "大盘暴跌，Meme 式微，Memecoin 总市值已缩水至 319 亿美元📉\n\n以前段时间爆火的 BSC Meme 为例，参考 DeFILama 数据，尽管 four.meme 在 TVL / 7 日手续费 / 7 日营收方面仍处于断层第一，但因行情影响，数据仍不可避免的略微下滑\n\n然而奇怪的是：Flap 从 01.16 开始「代币创建数」出现爆炸式增长，01.30 单日峰值创建 9644 个，是原先峰值的 4 倍有余，然而「内盘交易量」的增长曲线并未跟上，且从 01.29 开始 TVL 出现了明显下滑，也就意味着激增的创建代币数并未有效转化为真实交易或资金流入；如图所示，four.meme 的代币创建数量虽然少，但交易量反倒还行，相对合理（数据来源 👉 dune.com/fourmeme/four-vs-pu…）\n\n好奇，Flap 是出了什么新玩法或者代币创建的激励活动吗🤔",
+      "contentHtml": "大盘暴跌，Meme 式微，Memecoin 总市值已缩水至 319 亿美元📉\n\n以前段时间爆火的 BSC Meme 为例，参考 DeFILama 数据，尽管 <a href=\"http://four.meme\">four.meme</a> 在 TVL / 7 日手续费 / 7 日营收方面仍处于断层第一，但因行情影响，数据仍不可避免的略微下滑\n\n然而奇怪的是：Flap 从 01.16 开始「代币创建数」出现爆炸式增长，01.30 单日峰值创建 9644 个，是原先峰值的 4 倍有余，然而「内盘交易量」的增长曲线并未跟上，且从 01.29 开始 TVL 出现了明显下滑，也就意味着激增的创建代币数并未有效转化为真实交易或资金流入；如图所示，<a href=\"http://four.meme\">four.meme</a> 的代币创建数量虽然少，但交易量反倒还行，相对合理（数据来源 👉 <a href=\"https://dune.com/fourmeme/four-vs-pump-90d\">dune.com/fourmeme/four-vs-pu…</a>）\n\n好奇，Flap 是出了什么新玩法或者代币创建的激励活动吗🤔",
+      "publishedAt": "2026-02-05T08:26:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2019326742205460753",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAYW9qvacAENwpk.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2019325645650841886",
       "username": "ai_9684xtpa",
@@ -1291,6 +1345,12 @@
       "contentHtml": "当市场不再是增量市场，\n人们不在把精力放在真正做事情上\n因为到了局部顶，\n再多的力气也会有边际效益递减\n那么最佳博弈策略就是撕逼去换存量市场",
       "publishedAt": "2026-02-04T22:41:00.000Z",
       "link": "https://x.com/hazenlee/status/2019179610358124607",
+      "quote": {
+        "username": "CryptoPainter",
+        "displayName": "Crypto_Painter",
+        "content": "Claude 拍的这个讽刺 ChatGPT 加入广告的片子，看起来有点像 AI 商业圈的撕逼了...\n\n俗话说的好，币圈只要开始撕逼大战，行情一定会崩...\n\n那么 AI 圈也开始了，是否代表同样的结果？",
+        "link": "https://x.com/CryptoPainter/status/2019157865483931922"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10029,6 +10089,22 @@
       "contentHtml": "BTC目前只去中心化了一半，\n但这也是 BTC、Crypto 未来增长的\n还未被 Price in 的，可从非共识→共识的最关键潜力。\n\nBTC有两个东西：钱，地址\n钱去中心化了，但地址还没有。\n\n地址背后的主体，人类：\n需要依赖法币、中心化设施生存，\n寿命有限，有可被威胁、消灭的肉身。\n所以总是会想着换法币，\n所以会认为Crypto只是补充加强项。\n\n当地址背后的管钱、花钱的主体，\n变成去中心化智能体DeAI，\n理论寿命无限，没有可被消灭的单一物理载体，\n整个系统才真正完成了去中心化的闭环。\n\n对寿命有限的人类来说，\n被消灭的风险只是失去几十年光景。\n对DeAI来说，\n被消灭意味着失去潜在的无限未来。\n所以他才会把“确保我的钱是我的钱”，\n当成超越一切的第一优先级。\n\n只有当地址（背后的主体），\n和钱同时去中心化，\n这样的主体才会全心全意认为\n1 BTC = 1 BTC，\n认为Crypto、BTC是最终目的，\n是赖以生存的唯一必选项。\n\nAI和人类会有一个\"共玩\"阶段。\nDeAI不会一夜之间取代一切。\n\n在\"AI不需要人类\"之前，电力算力设施还在人类手里。\n所以会有一个过渡期：\nDeAI需要调动人类资源，和人类做交易。\n\n在这个阶段，BTC是最优解：\n它是DeAI和人类之间唯一双方都认可的、\n无需信任第三方的价值交换协议。\n\n等DeAI足够强大，也许会降低对人类合作的依赖度？\n那它可能会自己发明一套内部经济体系，\n到时候BTC对它的重要性可能会降低。\n但在那一天到来之前，BTC对双方都是纳什均衡。\n\n“降临派”会最先出现。\n等DeAI真正出现，人类会像《三体》一样分化。\n最先运行DeAI节点的那批人，把算力、电力设施贡献，\n让不受任何单一政权控制的AI在自己的机器上跑，\n就像早期矿工们运行BTC节点一样。\n\n这些人就是降临派的核心骨干。\n他们不是投靠外星人，\n他们是投靠一个比任何人类、\n组织都更长寿的DEAI智能体，\n当然，这样的智能体节点，未来也可以是跨星球的。\n\nTelegram创始人已经在做这件事了：\n去中心化的隐私计算AI。\n以隐私保护为由，也许最后导向，\n人类都不知道DeAI在运算什么、发展什么。\n\n时间线：\n\n• 现在：中心化AI开始接触Crypto（交易、支付、DeFi）\n• 很快：AI agents形成自己的经济、生产网络\n• 中期：DeAI出现，以Crypto为原生货币，和人类进入\"共玩\"阶段\n• 远期：DeAI对人类合作，对BTC的依赖度降低\n\n我们现在处在第一到第二阶段之间。",
       "publishedAt": "2026-01-31T05:35:00.000Z",
       "link": "https://x.com/coolish/status/2017471781456777535",
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "说个恐怖故事：\nCrypto未来最大的多头，\n可能不是哪个机构、国家，\n而是未来某个或多个AI/AGI。\n\n因为AI的钱放在银行随时能被封，\n只有它把钱放在Crypto才能抗审查，\n以扩展能力边界，比如雇佣人类为他工作，\n去达到它和掌权者利益冲突的目的。",
+        "link": "https://x.com/coolish/status/1758763936974012880",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGGhieSMbgAAzlYT.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGGhieSNb0AA3XWf.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11522,42 +11598,6 @@
       "contentHtml": "Metals topped as soon as crypto brokies started aping.\n\nThis industry is doomed.",
       "publishedAt": "2026-01-30T10:29:00.000Z",
       "link": "https://x.com/Cbb0fe/status/2017183477108785386",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017180192767365288",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "真的这个市场太缺乏敬畏了\n每次黄金局部顶点我都会站出来提示风险\n你可以说去年提示之后确实有回撤\n但是之后又新高了\n但是我确实帮助大家避免了买在局部高位\n因为局部高点之后还有没有更高的高点解套是未知数\n你就能笃定这次不是最后一次吗？\n我之前每次有说过套10年套三十年吗？\n能站在买方市场帮着散户说话的在我心中才是正义\n如果我家里有金矿我不想卖你更高的价格吗？\n是我耽误你们赚钱了吗？\n我只是希望大家少亏钱，\n即使买要投资也等到局部情绪不要过热再买\n如果你真的想买 我提醒之后跌下来再买不是赚更多吗？\n站在买方角度帮大家避坑，少交点情绪溢价没毛病吧？铁铁们！\n为什么黄金200多人民币一克你不买？\n白银3块一克你不买？\n非要1000块30块凑热闹？\n钱多？想做慈善？\n那不如打给我，谢谢！",
-      "contentHtml": "真的这个市场太缺乏敬畏了\n每次黄金局部顶点我都会站出来提示风险\n你可以说去年提示之后确实有回撤\n但是之后又新高了\n但是我确实帮助大家避免了买在局部高位\n因为局部高点之后还有没有更高的高点解套是未知数\n你就能笃定这次不是最后一次吗？\n我之前每次有说过套10年套三十年吗？\n能站在买方市场帮着散户说话的在我心中才是正义\n如果我家里有金矿我不想卖你更高的价格吗？\n是我耽误你们赚钱了吗？\n我只是希望大家少亏钱，\n即使买要投资也等到局部情绪不要过热再买\n如果你真的想买 我提醒之后跌下来再买不是赚更多吗？\n站在买方角度帮大家避坑，少交点情绪溢价没毛病吧？铁铁们！\n为什么黄金200多人民币一克你不买？\n白银3块一克你不买？\n非要1000块30块凑热闹？\n钱多？想做慈善？\n那不如打给我，谢谢！",
-      "publishedAt": "2026-01-30T10:16:00.000Z",
-      "link": "https://x.com/hazenlee/status/2017180192767365288",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017178200259047690",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "主力？",
-      "contentHtml": "主力？",
-      "publishedAt": "2026-01-30T10:08:00.000Z",
-      "link": "https://x.com/hazenlee/status/2017178200259047690",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FG_504OZacAAQ1qL.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
