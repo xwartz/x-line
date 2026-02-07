@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T01:45:47.359Z",
+  "lastUpdated": "2026-02-07T03:56:48.422Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,265 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 503,
+    "newFetched": 502,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2019983275994071392",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "【四年周期总刻系列（18）】当前图中指标跌至 1.42\n\n14年该指标跌至 1.42 后 76天 到熊底 ($0.15k)\n18年该指标跌至 1.42 后 82天 到熊底 ($3.1k)\n22年该指标跌至 1.42 后 26天 到次熊底 ($17.6k)\n\n图中上方灰线为 #BTC 价格；黄线为 BTC 短期持有者成本均价；玫红线为 BTC 长期持有者成本均价（剔除持币>10年的筹码）\n图中下方指标为“BTC 短期持有者成本均价”跟“BTC 长期持有者成本均价（剔除>10y筹码版）”之比（即：黄线 / 玫红线）\n\nBTC短期持有者成本均价定义：持有比特币<155天的投资者的平均成本。含义：反映近期买家的成本基础，他们对价格波动敏感，易在下跌时卖出。常作为短期市场情绪指标——牛市中价格高于此均价，熊市中跌破可能加剧抛售\n\nBTC长期持有者成本均价定义：持有比特币>155天的投资者的平均成本，但排除>10年的筹码（这些可能丢失或永不动，如中本聪的币）。含义：聚焦“活跃”长期持有者，提供更现实的成本基础。常作为市场支撑水平参考——熊市中可能成为价格底部\n\n两者比率（短期均价 / 长期均价）含义：反映市场周期阶段和参与者行为：\n比率 >1：短期买家成本高（新资金高价入场），情绪乐观但可能过热\n比率 <1：熊市或底部信号，短期买家成本低（低价入场），弱手出清，市场或将复苏\n总体趋势：比率上升=牛市延续；下降=熊市或分发阶段。排除>10年筹码使比率更准确捕捉周期转折，历史上 <1 时常为长期买入机会",
+      "contentHtml": "【四年周期总刻系列（18）】当前图中指标跌至 1.42\n\n14年该指标跌至 1.42 后 76天 到熊底 ($0.15k)\n18年该指标跌至 1.42 后 82天 到熊底 ($3.1k)\n22年该指标跌至 1.42 后 26天 到次熊底 ($17.6k)\n\n图中上方灰线为 <a href=\"/search?q=%23BTC\">#BTC</a> 价格；黄线为 BTC 短期持有者成本均价；玫红线为 BTC 长期持有者成本均价（剔除持币&gt;10年的筹码）\n图中下方指标为“BTC 短期持有者成本均价”跟“BTC 长期持有者成本均价（剔除&gt;10y筹码版）”之比（即：黄线 / 玫红线）\n\nBTC短期持有者成本均价定义：持有比特币&lt;155天的投资者的平均成本。含义：反映近期买家的成本基础，他们对价格波动敏感，易在下跌时卖出。常作为短期市场情绪指标——牛市中价格高于此均价，熊市中跌破可能加剧抛售\n\nBTC长期持有者成本均价定义：持有比特币&gt;155天的投资者的平均成本，但排除&gt;10年的筹码（这些可能丢失或永不动，如中本聪的币）。含义：聚焦“活跃”长期持有者，提供更现实的成本基础。常作为市场支撑水平参考——熊市中可能成为价格底部\n\n两者比率（短期均价 / 长期均价）含义：反映市场周期阶段和参与者行为：\n比率 &gt;1：短期买家成本高（新资金高价入场），情绪乐观但可能过热\n比率 &lt;1：熊市或底部信号，短期买家成本低（低价入场），弱手出清，市场或将复苏\n总体趋势：比率上升=牛市延续；下降=熊市或分发阶段。排除&gt;10年筹码使比率更准确捕捉周期转折，历史上 &lt;1 时常为长期买入机会",
+      "publishedAt": "2026-02-07T03:55:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2019983275994071392",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAhoELya8AAhXbP.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【四年周期总刻系列（17）】\n\n15年6月该指标峰值跟19年3月该指标峰值相差 1385天\n19年3月该指标峰值跟23年1月该指标峰值相差 1380天\n23年1月该指标峰值距今已过去1068天\n\n图中上方指标为 #BTC 价格；下方指标为“链上长期持币者买币均价”跟“链上短期持币者买币均价”之比",
+        "link": "https://x.com/0xCryptoChan/status/1999007615742070912",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG73k3SubcAAgxbu.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2019982172032278881",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "這次熊市，走的節奏跟以往完全不一樣\n\n比特幣從高點跌了 50%，但 S&P 500 從 All-Time High 才回撤不到 3%。\n\n這件事有多反常？讓我們回顧一下歷史。\n\n2018/12 熊市底部\nBTC 從高點回撤 -84%，當時 S&P 500 從高點回撤 -20%，正好觸及熊市門檻，聖誕夜恐慌性拋售，是 2009 年以來最恐慌的時刻。\n\n2022/11 熊市底部\nBTC 從高點回撤 -78%。當時 S&P 500 從高點回撤 -25%，是 2008 年以來表現最差的一年。\n\n你發現規律了嗎？\n\n過去兩次比特幣熊市的底部，S&P 500 都已經跌了 20-25%，處於長週期的相對低點。但這一次比特幣已經腰斬，S&P 500 才剛從 ATH 回撤了 3%。\n\n這種程度的偏離，歷史上從未發生過。\n\n如果你仔細看比特幣的線圖，會發現一件很詭異的事。從去年 10 月以後，比特幣就像失去了魔力一樣。\n\n美股漲，BTC 不跟。美股小跌，BTC 直接跳樓。\n\n那 10 月到底發生了什麼事？我回顧起來，就兩件大事。\n\n第一：1011 事件\n10 月 10 日，Trump 宣布對中國加徵 100% 關稅。加密市場一夜之間清算 $190 億，160 萬個帳戶爆倉。BTC 從 12 萬爆砸到 10 萬。這是加密貨幣史上最大的單日清算事件。\n\n第二：雙志案\n陳志跟錢志敏，幾乎同一時間被抓。陳志被美國政府沒收了 127,271 顆 BTC。錢志敏被英國政府扣押了 61,000 顆 BTC。加起來將近 19 萬顆比特幣，全部躺進政府的冷錢包。\n\n19 萬顆是什麼概念？\n\n2024/7 德國政府賣了 5 萬顆，三週內就把 BTC 從 7 萬砸到 5 萬。\n\n而這次雙志案的總量，是德國的將近四倍。有了德國賣幣的前車之鑑，這19萬顆 BTC 的潛在賣壓，就是懸在市場頭上的炸彈。\n\n而陳志背後的旺匯（Huione）交易所，對整個加密市場的流動性非常重要。當這個帝國被端掉，等於山寨市場裡一個巨大的流動性提供者突然消失了。\n\n1011 之後 Memecoin 總市值從 $800 億腰斬到 $470 億，至今沒有恢復，就是這件事情的一個縮影。\n\n在過去幾個月，我們普遍聽到一個聲音：比特幣的市值已經很大了，有了 ETF 之後波動會比較小，所以熊市的回撤應該不會像過往一樣那麼劇烈。\n\n但現在看來，1011 跟雙志案的影響可能比我們想像中的都還要大。\n\n所以回到最初的問題：到底了嗎？可以抄底了嗎？\n\n我不知道。但我知道一件事。\n\n如果歷史有任何參考價值，比特幣的底部，通常要等到美股也認錯之後才會出現。\n\n而現在，美股還在派對裡。\n音樂還沒停。",
+      "contentHtml": "這次熊市，走的節奏跟以往完全不一樣\n\n比特幣從高點跌了 50%，但 S&P 500 從 All-Time High 才回撤不到 3%。\n\n這件事有多反常？讓我們回顧一下歷史。\n\n2018/12 熊市底部\nBTC 從高點回撤 -84%，當時 S&P 500 從高點回撤 -20%，正好觸及熊市門檻，聖誕夜恐慌性拋售，是 2009 年以來最恐慌的時刻。\n\n2022/11 熊市底部\nBTC 從高點回撤 -78%。當時 S&P 500 從高點回撤 -25%，是 2008 年以來表現最差的一年。\n\n你發現規律了嗎？\n\n過去兩次比特幣熊市的底部，S&P 500 都已經跌了 20-25%，處於長週期的相對低點。但這一次比特幣已經腰斬，S&P 500 才剛從 ATH 回撤了 3%。\n\n這種程度的偏離，歷史上從未發生過。\n\n如果你仔細看比特幣的線圖，會發現一件很詭異的事。從去年 10 月以後，比特幣就像失去了魔力一樣。\n\n美股漲，BTC 不跟。美股小跌，BTC 直接跳樓。\n\n那 10 月到底發生了什麼事？我回顧起來，就兩件大事。\n\n第一：1011 事件\n10 月 10 日，Trump 宣布對中國加徵 100% 關稅。加密市場一夜之間清算 $190 億，160 萬個帳戶爆倉。BTC 從 12 萬爆砸到 10 萬。這是加密貨幣史上最大的單日清算事件。\n\n第二：雙志案\n陳志跟錢志敏，幾乎同一時間被抓。陳志被美國政府沒收了 127,271 顆 BTC。錢志敏被英國政府扣押了 61,000 顆 BTC。加起來將近 19 萬顆比特幣，全部躺進政府的冷錢包。\n\n19 萬顆是什麼概念？\n\n2024/7 德國政府賣了 5 萬顆，三週內就把 BTC 從 7 萬砸到 5 萬。\n\n而這次雙志案的總量，是德國的將近四倍。有了德國賣幣的前車之鑑，這19萬顆 BTC 的潛在賣壓，就是懸在市場頭上的炸彈。\n\n而陳志背後的旺匯（Huione）交易所，對整個加密市場的流動性非常重要。當這個帝國被端掉，等於山寨市場裡一個巨大的流動性提供者突然消失了。\n\n1011 之後 Memecoin 總市值從 $800 億腰斬到 $470 億，至今沒有恢復，就是這件事情的一個縮影。\n\n在過去幾個月，我們普遍聽到一個聲音：比特幣的市值已經很大了，有了 ETF 之後波動會比較小，所以熊市的回撤應該不會像過往一樣那麼劇烈。\n\n但現在看來，1011 跟雙志案的影響可能比我們想像中的都還要大。\n\n所以回到最初的問題：到底了嗎？可以抄底了嗎？\n\n我不知道。但我知道一件事。\n\n如果歷史有任何參考價值，比特幣的底部，通常要等到美股也認錯之後才會出現。\n\n而現在，美股還在派對裡。\n音樂還沒停。",
+      "publishedAt": "2026-02-07T03:50:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2019982172032278881",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAhrBi9bkAAHTwg.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2019979318970184045",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "SaaS has never thrived in the other side of the world ie China, Japan, Korea. because their GDP isn't service heavy like US. If you want to know which industries are safe from AI, look at what thrives there. My mental model for the \"AI resistant \" portfolio:\n\nConsumer-  Ultra real entertainment, ai can’t fake the \"Authenticity Premium\" kpop and the whole idol industry is the prime example of it, fans here spent $500d just to have a 90 sec calls with idols in Asia which is  the monthly disposable income for avg Chinese fam\n\nIndustrial/machinery/deep tech mfg  - Foxconn/TSMC/Nikon/Cannon and many other deep tech brand thats less obvious like Toto (the toilet, yes which is the key ceramic material supplier for storage now, and stock price went off the roof)\n\nTraditional esoteric industry - ultra clumsy but big efficiency gain. AI thrives in \"clean\" digital environments (code, text, structured data). It struggles in \"messy\" physical environments with legacy process and human work",
+      "contentHtml": "SaaS has never thrived in the other side of the world ie China, Japan, Korea. because their GDP isn't service heavy like US. If you want to know which industries are safe from AI, look at what thrives there. My mental model for the \"AI resistant \" portfolio:\n\nConsumer-  Ultra real entertainment, ai can’t fake the \"Authenticity Premium\" kpop and the whole idol industry is the prime example of it, fans here spent $500d just to have a 90 sec calls with idols in Asia which is  the monthly disposable income for avg Chinese fam\n\nIndustrial/machinery/deep tech mfg  - Foxconn/TSMC/Nikon/Cannon and many other deep tech brand thats less obvious like Toto (the toilet, yes which is the key ceramic material supplier for storage now, and stock price went off the roof)\n\nTraditional esoteric industry - ultra clumsy but big efficiency gain. AI thrives in \"clean\" digital environments (code, text, structured data). It struggles in \"messy\" physical environments with legacy process and human work",
+      "publishedAt": "2026-02-07T03:39:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2019979318970184045",
+      "retweet": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2019973519577346277",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "“Think of it as a digital co-worker for many of the professions within the firm that are scaled, are complex and very process intensive,” he said\n\nso what will happen to the human co workers going forward 👀",
+      "contentHtml": "“Think of it as a digital co-worker for many of the professions within the firm that are scaled, are complex and very process intensive,” he said\n\nso what will happen to the human co workers going forward 👀",
+      "publishedAt": "2026-02-07T03:16:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2019973519577346277",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAhi9GpacAAIF_Y.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2019970973148357118",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "这个情况我理解的是，人们愈发有房价可能继续下跌的想法，导致宁可花更高的溢价（相比从前）去租房，而不冒险买房。",
+      "contentHtml": "这个情况我理解的是，人们愈发有房价可能继续下跌的想法，导致宁可花更高的溢价（相比从前）去租房，而不冒险买房。",
+      "publishedAt": "2026-02-07T03:06:00.000Z",
+      "link": "https://x.com/taresky/status/2019970973148357118",
+      "quote": {
+        "username": "choicky",
+        "displayName": "Choicky",
+        "content": "深圳市区很多二手房租售比达到了2-3%（220万的小房子年租金有5-6万），考虑到现在存款利率才1.x%（经营贷利率2.8%左右），持有房子已经比卖掉房子存银行划算了。大白话就是，如果经济没有加剧恶化，深圳二手房没有下跌空间了。",
+        "link": "https://x.com/choicky/status/2019966470973976680"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2019965717681184810",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "如果要评选最谋财害命的kol\n要流量不要全家好死的kol\n我觉得就是这个人\n装的很高大上的民科土鳖，还逃顶信号指标(也是抄另外一个人的)，这人只是更会做表做图\n\n比特币腰斩126199跌到60000\n以太坊5000跌到1757\nSol 250跌到67\n\n普通割韭菜，甚至犯点事的都没有这位罪恶滔天\n因为小白真容易信这些伪干货指标",
+      "contentHtml": "如果要评选最谋财害命的kol\n要流量不要全家好死的kol\n我觉得就是这个人\n装的很高大上的民科土鳖，还逃顶信号指标(也是抄另外一个人的)，这人只是更会做表做图\n\n比特币腰斩126199跌到60000\n以太坊5000跌到1757\nSol 250跌到67\n\n普通割韭菜，甚至犯点事的都没有这位罪恶滔天\n因为小白真容易信这些伪干货指标",
+      "publishedAt": "2026-02-07T02:45:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2019965717681184810",
+      "quote": {
+        "username": "DtDt666",
+        "displayName": "看不懂的SOL",
+        "content": "牛市逃顶信号指标清单，不要被噪音诱导干扰\n1、本清单覆盖了75项加密货币市场逃顶指标包括：\n🔸价格类型指标：如微策略持仓跟踪、彩虹图指标、9神指标、PI指标等。\n🔸主流类型指标：泡沫指数、黄金与BTC比例乘数、4年平均线、RSI等等。\n🔸综合类型指标：CBBI、BTI指标等。\n🔸链上数据指标：MVRV、Puell Multiple、NUPL、Reserve Risk等等。\n🔸山寨季指标：山寨季指数、山寨市值分析、山寨资金流入分析等。\n🔸时间周期类型指标：包括刻舟历史数据推论、币圈重大时间节点（降息、减半、大选、政策出台节点等）。\n🔸宏观层面指标：包括USDT利率、美股相关宏观指标等。\n\n2、清单数据说明：\n🔹清单共选取了75项指标作为分析要素，其实33项作为展示类型（易懂的），42项作为后端交叉验证类（图表、数据需要理解的）。其中27项指标是前面两轮牛市都命中验证过的模型。\n\n🔹清单会每日更新，指标命中超过50%我们开始预警，超过60%我们视为开始接近牛顶阶段，命中超过70%开始进入市场疯狂状态，命中超过80%视为最后的狂欢。\n\n🔹当日清单表格说明：如今日【指标命中率：0/33，是否可以开启定抛：否！】都没有触发提醒，所以建议继续持有，耐心等待。（如果有命中指标，我会把指标列出来进行详细介绍，本期不做赘述）\n\n🔹清单已经构建了数据爬虫和风控命中规则，每日凌晨12、中午12点会重新爬一次，如出现修改或者需要人为干预的我们会进行通知。\n\n3、清单作用说明：\n🔹本清单核心思想：大道至简，通过逃顶和抄底赚到更多的币。别的KOL分析得云里雾里，花里胡哨的，好的指标就是简单，简单，在简单，简单到连卖菜的大妈都能看懂。\n\n其实大家都看到前面几天 $BTC 9.5万的时候大家恐慌得要死，倪大@Phyrex_Ni 却在买入，因为倪大心无杂念，他每日的数据分析，把控宏观，已经形成了自己的指标，倪大需要做的就是按照他自己心中的指标执行即可。\n\n我的老粉丝也知道我在40U附近买入了SOL，拿到这轮240才出售盈利近600万U，其实我也是做了一个逃顶预期，也许大家会说我240走得太早，其实我也这样想过，但是我已经严格执行了策略，心中无悔，这也是我为什么要建立清单的目的。\n\n🔹越是牛市里最难的是知行合一，该买就买，该卖就卖。怕就怕真到该卖的时候，还是被市场狂热情绪感染，贪婪蒙蔽理性，别说赚了，不亏都难。如何建立自己的逃顶信号，是我们每个交易者需要思考的问题。\n\n所以，逃顶不是一个技术活，它是一个交易心理的问题。最终影响我们逃顶的就是心中的恐惧和贪婪。\n\n图表每日更新，大家可以打开小铃铛，本文最后感谢@0xCryptoChan  @43A6 提供的一些建模思路。",
+        "link": "https://x.com/DtDt666/status/1871520471340257738",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGfj2j88boAAabSt.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2019960598117904608",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "呜呜呜看到泥闷私信我一直在哭",
+      "contentHtml": "呜呜呜看到泥闷私信我一直在哭",
+      "publishedAt": "2026-02-07T02:25:00.000Z",
+      "link": "https://x.com/taresky/status/2019960598117904608",
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#Crypto \n\n最近两年还有散户（非内部人员）从 BSC MEV 上赚钱吗？",
+        "link": "https://x.com/taresky/status/2019662632563913159"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2019958116981567666",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "我通常用四根EMA来抓短线机会、判趋势强弱。它们本质上代表了不同时间维度资金的成本与防线。\n\n20 EMA 是趋势强弱的分水岭。强势行情里，回踩20线常是顺势“上车点”；一旦实体跌破且收不回去，往往意味着上涨动能开始“泄气”。\n\n50 EMA & 100 EMA 属于多空博弈的缓冲带。价格走到这容易“墨迹”，经常来回震荡、选择方向，适合观察结构突破的诚意。\n\n200 EMA 是最后的趋势生命线。这里能不能撑住，基本决定了长期结构还成不成立。如果持续失守，往往意味着原来的趋势逻辑可能要凉凉～\n\n最后，均线确实基于价格计算，天生带有“滞后性”。但这一点也不妨碍它成为交易新手理解市场最直观、最客观的一把标尺。\n\n说白了，它是你交易地图上的等高线，而不是预测山顶和谷底在哪的水晶球。",
+      "contentHtml": "我通常用四根EMA来抓短线机会、判趋势强弱。它们本质上代表了不同时间维度资金的成本与防线。\n\n20 EMA 是趋势强弱的分水岭。强势行情里，回踩20线常是顺势“上车点”；一旦实体跌破且收不回去，往往意味着上涨动能开始“泄气”。\n\n50 EMA & 100 EMA 属于多空博弈的缓冲带。价格走到这容易“墨迹”，经常来回震荡、选择方向，适合观察结构突破的诚意。\n\n200 EMA 是最后的趋势生命线。这里能不能撑住，基本决定了长期结构还成不成立。如果持续失守，往往意味着原来的趋势逻辑可能要凉凉～\n\n最后，均线确实基于价格计算，天生带有“滞后性”。但这一点也不妨碍它成为交易新手理解市场最直观、最客观的一把标尺。\n\n说白了，它是你交易地图上的等高线，而不是预测山顶和谷底在哪的水晶球。",
+      "publishedAt": "2026-02-07T02:15:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2019958116981567666",
+      "quote": {
+        "username": "eg3DcjqJX110022",
+        "displayName": "亿杀",
+        "content": "王老板 一般用天ema20来判断短期分水岭吗",
+        "link": "https://x.com/eg3DcjqJX110022/status/2019700133429137775"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2019957534040424848",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "昨天唱多之后，鸽子对后市仍表示乐观🕊\n\n他在 tg 群表示：就当前行情看，昨天的抄底简直是「神操作」，而 $BTC 下跌至 6 万刀后触底强劲反弹，会继续观察，感觉后面还有得玩",
+      "contentHtml": "昨天唱多之后，鸽子对后市仍表示乐观🕊\n\n他在 tg 群表示：就当前行情看，昨天的抄底简直是「神操作」，而 <a href=\"/search?q=%23BTC\">$BTC</a> 下跌至 6 万刀后触底强劲反弹，会继续观察，感觉后面还有得玩",
+      "publishedAt": "2026-02-07T02:12:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2019957534040424848",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAhUV2EacAEPF8v.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "鸽子也唱多了🕊\n\n“在血流成河时买入，哪怕是你自己的血”",
+        "link": "https://x.com/ai_9684xtpa/status/2019578644541370554",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAb69lqacAMP2T0.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2019953906999259619",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "02.01 亏损超 376.9 万美元的波段大户 nemorino.eth 卷土重来😬\n\n过去 1 小时他以 $2066.61 在链上买入 6250 $ETH ，价值 1291 万美元；这是觉得易老板基本清仓，又可以重新上车了？\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
+      "contentHtml": "02.01 亏损超 376.9 万美元的波段大户 nemorino.eth 卷土重来😬\n\n过去 1 小时他以 $2066.61 在链上买入 6250 <a href=\"/search?q=%23ETH\">$ETH</a> ，价值 1291 万美元；这是觉得易老板基本清仓，又可以重新上车了？\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x8AeCc5526F92A46718f8E68516D22038D8670E0D\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助 |上 Gate App 抢黄金",
+      "publishedAt": "2026-02-07T01:58:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2019953906999259619",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAhRVnGbwAAu2iL.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "一些 $ETH 大户们正在恐慌性割肉🔪\n\n1️⃣ ETH 波段巨鲸 nemorino.eth \n过去 9 小时他以均价 $2514.85 清仓了所有 WETH，而这 7107.08 WETH 的建仓成本高达 $3,045.24，本次卖出亏损超 376.9 万美元\nintel.arkm.com/explorer/addr…\n\n2️⃣ 曾低买高卖 $WBTC 获利 1426 万美金巨鲸\n过去 6 小时前向多个交易所累计充值 3500 枚 ETH，价值 842 万美元，平均充值价格 $2406\nintel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
+        "link": "https://x.com/ai_9684xtpa/status/2017771934021452048",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHACQvAGbgAADhVd.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHACQ0ZNa0AAJDeT.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2019948879333167275",
       "username": "DoveyWan",
@@ -11620,242 +11874,6 @@
       "contentHtml": "離岸交易所 Top 1 跟 Top 2 吵成這樣，對行業真不是什麼好事。 \n\n如果幣安不是離岸所流動性中心，1011 不會造成這麼大傷害。幣安就像高速公路的主幹道，它一塞車，整個交通網都跟著癱瘓。 \n\n正常來說，出事就賠自家用戶，天經地義。 \n\n但幣安太重要了，它家出一點事，整個行業都跟著被波及。幣安當然要負一部分責任，但這也是行業結構性的問題。它大到一點差錯都不能出。 \n\n但是做軟體的都知道，不存在 100% 可用性的系統。在極端行情下，高併發交易產生的延遲幾乎是物理極限。要求幣安「永遠不出錯」，本身就不現實，就算是 Google、Amazon，uptime 也不可能做到 100%。偏偏這次就發生在最糟糕的時機點。\n\nCZ 轉發了 Dragonfly 老闆的貼文，某種程度上也算是間接承認當時幣安 API 有延遲。 \n\n我再講一次我的觀點：這件事幣安有責任，也已經負了一部分責任（賠自家用戶）。如果有用戶覺得賠的不夠要維權，我也完全支持，該爭取就爭取，就讓司法去判定。 \n\n但交易所之間互撕？這對誰都沒好處。 \n\n與其吵，不如想想下次當主幹道塞車時，有沒有備援道路？能不能有更好的解法？ 如果離岸所沒辦法聯合起來建立共同的風控機制，那下次同樣的事還是會再發生。 \n\n去年 12 月何一跟老徐還能同框拍照，甚至聊人才流動的問題，這就證明兩個人是可以對話的。\n\n現在戰成這樣，多少是被輿論推著走了。 人天性嗜血愛看熱鬧，有人舔、有人罵，兩邊都有人在煽風點火。 望大佬們摒棄前嫌，攜手建立離岸所的風控機制，別被社群帶風向。\n\n市況如此，現在正是行業需要團結的時候。 能做到這個位置，兩位都是有格局的人。 相信你們比誰都清楚，這場輿論戰繼續撕下去沒有贏家。",
       "publishedAt": "2026-02-01T03:06:00.000Z",
       "link": "https://x.com/BensonTWN/status/2017796749172347016",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017795672238657668",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "HL 上的 1011 內幕巨鯨還是被爆了，2 億美金灰飛煙滅。\n\n昨天開始 ETH 明顯走得比 BTC 弱很多，今天凌晨碰到巨鯨的清算線才開始反彈。明顯是衝著清算巨鯨去的。\n\n與此同時，BTC 插針到 75K，幣安 BTC 永續合約持倉量炸掉一萬 BTC，差不多把過去一個多月累積的量都釋放完畢了。LSUR 也從高點快速下滑。\n\n這種「下跌過程中持倉量與 LSUR 同步上升」，「插針後持倉量與 LSUR 快速下降」的數據樣態，就是空頭取得優勢後順勢加倉，砸到多頭大規模爆倉後收手的典型走法，去年 11/20 我在頻道有提過一次。\n\n短時間我覺得有反彈的需求。\n第一，微策略成本線會有心理支撐。\n第二，已經沒有更大的槓桿倉位能狙擊了。\n除非宏觀又出事，否則按照場內籌碼結構來看，多頭該爆的都爆得差不多了，空頭沒有繼續往下砸的動力。\n\n手單 84.5K 止損了，80K 以下又重新進場了一些多單，目前均價 78K 左右\n\n量化這段回撤吃好吃滿，不過去年 11 月底跑到現在一直賺錢，逆風期遲早會來，躲不掉。1011 之後，量化的多單一直減半在跑，目前回撤控制在 15% 左右。\n\n這種逆風期一年大概會遇到三、四次，平常順風順水，逆風就是盡量控制回撤。\n\n等價格反彈、MPI 上升後策略會自動出場多單。止損也是交易的一部分，平常心面對就好，過去我們也經歷過很多次了。",
-      "contentHtml": "HL 上的 1011 內幕巨鯨還是被爆了，2 億美金灰飛煙滅。\n\n昨天開始 ETH 明顯走得比 BTC 弱很多，今天凌晨碰到巨鯨的清算線才開始反彈。明顯是衝著清算巨鯨去的。\n\n與此同時，BTC 插針到 75K，幣安 BTC 永續合約持倉量炸掉一萬 BTC，差不多把過去一個多月累積的量都釋放完畢了。LSUR 也從高點快速下滑。\n\n這種「下跌過程中持倉量與 LSUR 同步上升」，「插針後持倉量與 LSUR 快速下降」的數據樣態，就是空頭取得優勢後順勢加倉，砸到多頭大規模爆倉後收手的典型走法，去年 11/20 我在頻道有提過一次。\n\n短時間我覺得有反彈的需求。\n第一，微策略成本線會有心理支撐。\n第二，已經沒有更大的槓桿倉位能狙擊了。\n除非宏觀又出事，否則按照場內籌碼結構來看，多頭該爆的都爆得差不多了，空頭沒有繼續往下砸的動力。\n\n手單 84.5K 止損了，80K 以下又重新進場了一些多單，目前均價 78K 左右\n\n量化這段回撤吃好吃滿，不過去年 11 月底跑到現在一直賺錢，逆風期遲早會來，躲不掉。1011 之後，量化的多單一直減半在跑，目前回撤控制在 15% 左右。\n\n這種逆風期一年大概會遇到三、四次，平常順風順水，逆風就是盡量控制回撤。\n\n等價格反彈、MPI 上升後策略會自動出場多單。止損也是交易的一部分，平常心面對就好，過去我們也經歷過很多次了。",
-      "publishedAt": "2026-02-01T03:02:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2017795672238657668",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017788002291093879",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "【四年周期总刻系列更新】水下火热进行中\n\n注：当前 #BTC: <7y Realized Price 值为 $72,162",
-      "contentHtml": "【四年周期总刻系列更新】水下火热进行中\n\n注：当前 <a href=\"/search?q=%23BTC\">#BTC</a>: &lt;7y Realized Price 值为 $72,162",
-      "publishedAt": "2026-02-01T02:32:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2017788002291093879",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHACeyvba4AAgCWU.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【四年周期总刻系列（16）】\n\n上上轮币价水上总计 1136天\n上轮币价水上总计 1143天\n本轮币价水上总计已 988天\n\n图中指标为 #BTC 价格和 #BTC: Realized Price (修改版，将持币超过7年的筹码从计算中剔除)，币价 > Realized Price 计为水上\n\nBTC: Realized Price 是一个链上指标，计算时排除那些持有时间超过7年的比特币（这些币往往被视为极长期持有、失落或不活跃的供应，不会轻易进入市场流通）\n\n这个指标反映了筹码的平均买入价格。具体来说，它代表了相对更活跃的市场参与者（持币7年内）的平均买入成本价，能够更好地捕捉当前市场动态、潜在卖压和投资者情绪",
-        "link": "https://x.com/0xCryptoChan/status/1991354148000784707",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG6K2ChUacAMdcmA.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017786050991571005",
-      "username": "HaywarZhu",
-      "displayName": "海老师 | Haywar",
-      "avatar": "https://nitter.net/pic/profile_images%2F1904297408273772544%2FTwlamTm3_bigger.jpg",
-      "content": "电瓶车的花语是什么",
-      "contentHtml": "电瓶车的花语是什么",
-      "publishedAt": "2026-02-01T02:24:00.000Z",
-      "link": "https://x.com/HaywarZhu/status/2017786050991571005",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017782274574717420",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "《昨天黄金最高暴跌12%，创下了近46年来的单日最大跌幅》。\n\n交易中最难的莫过于“逆着情绪、顺着计划”的决定。\n\n恭喜自己，也佩服自己，在巨大的心理压力下，依然按计划执行了黄金空单，守得云开，终见月明。\n\n恭喜所有默默执行了计划的人。\n\n*一共空三次黄金，前两次打损。",
-      "contentHtml": "《昨天黄金最高暴跌12%，创下了近46年来的单日最大跌幅》。\n\n交易中最难的莫过于“逆着情绪、顺着计划”的决定。\n\n恭喜自己，也佩服自己，在巨大的心理压力下，依然按计划执行了黄金空单，守得云开，终见月明。\n\n恭喜所有默默执行了计划的人。\n\n*一共空三次黄金，前两次打损。",
-      "publishedAt": "2026-02-01T02:09:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2017782274574717420",
-      "quote": {
-        "username": "CycleStudies",
-        "displayName": "百萬Eric | Day Trader",
-        "content": "当黄金涨到5200，我会开始减仓赤峰黄金。\n\n如果继续涨到5470，我会接着止盈，并考虑尝试摸空。",
-        "link": "https://x.com/CycleStudies/status/2016335159587643767",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_t2IkpaQAA7hvM.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017781026333069581",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "现在在你面前的是：抄底先锋 / $ETH 拥趸者 / 无惧波动的 7 Siblings🦹\n\n过去 11 小时，他们再次出手：在链上以均价 $2429 买入 12805.1 枚 ETH，价值 3110 万美元；自 2024.10 起该神秘组织以均价 $3,260 在链上建仓了 61,393.82 ETH，目前浮亏 5025 万美元\n\n钱包地址 intel.arkm.com/explorer/enti…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
-      "contentHtml": "现在在你面前的是：抄底先锋 / <a href=\"/search?q=%23ETH\">$ETH</a> 拥趸者 / 无惧波动的 7 Siblings🦹\n\n过去 11 小时，他们再次出手：在链上以均价 $2429 买入 12805.1 枚 ETH，价值 3110 万美元；自 2024.10 起该神秘组织以均价 $3,260 在链上建仓了 61,393.82 ETH，目前浮亏 5025 万美元\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/entity/7-siblings\">intel.arkm.com/explorer/enti…</a>\n\n本文由 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助 |上 Gate App 抢黄金",
-      "publishedAt": "2026-02-01T02:04:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2017781026333069581",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHACZJJVbQAABW-2.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "这个 7 Siblings 究竟什么来头， $ETH 大跌抄底总有他们🤨\n\n过去一个月，该神秘机构以 $3481 加仓了 48346 ETH（约 1.68 亿美元）；目前在链上已公开地址中共持有 187,056 枚 ETH，总价值高达 5.71 亿美元，在 ETH 持仓实体中规模都能排到第五\n\n不过需要说明的是：他们倒也不是只买不卖的哈，最近一次卖出是在六个月前，似乎因为「钞能力」足够强，做得都是长线波段了\n\n钱包地址 intel.arkm.com/explorer/enti…；本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-        "link": "https://x.com/ai_9684xtpa/status/1989526447397142546",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG5w3t1faYAA3V-k.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017774075654115544",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "再买入 1 万枚！「ETH 波段获利 9922 万美元的聪明钱」仍在加仓\n\n9 小时前（内幕巨鲸被清算前）该地址又向 Wintermute 充值 2494 万枚 USDC，随后收到 1 万枚 $ETH ，疑似 OTC 买入，成本 $2416.21；近两天该巨鲸 / 机构累计囤积 30000 枚 ETH（8056 万美元），平均成本约 $2685.35\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
-      "contentHtml": "再买入 1 万枚！「ETH 波段获利 9922 万美元的聪明钱」仍在加仓\n\n9 小时前（内幕巨鲸被清算前）该地址又向 Wintermute 充值 2494 万枚 USDC，随后收到 1 万枚 <a href=\"/search?q=%23ETH\">$ETH</a> ，疑似 OTC 买入，成本 $2416.21；近两天该巨鲸 / 机构累计囤积 30000 枚 ETH（8056 万美元），平均成本约 $2685.35\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0xFB78AA8F38843629e89951D9db6FdC398d75e0A3\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助 |上 Gate App 抢黄金",
-      "publishedAt": "2026-02-01T01:36:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2017774075654115544",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHACSzEVbEAUYdIR.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "好在「ETH 波段获利 9922 万美元的聪明钱」还在买😃\n\n3 小时前他向 #FalconX 充值 5605 万枚 USDC，随后从中提出 20000 枚 ETH，大概率为购买行为，成本 $2819.92；2 天前他以 $3011.68 卖出的 1 万枚 ETH，现在又低价买回来了\n\n自 01.21 起囤积的 80013 枚 $ETH 目前成本 $2,885.75，浮亏 643 万美元 👉 intel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
-        "link": "https://x.com/ai_9684xtpa/status/2017040365648564690",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_33gxma4AE1TB9.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017771934021452048",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "一些 $ETH 大户们正在恐慌性割肉🔪\n\n1️⃣ ETH 波段巨鲸 nemorino.eth \n过去 9 小时他以均价 $2514.85 清仓了所有 WETH，而这 7107.08 WETH 的建仓成本高达 $3,045.24，本次卖出亏损超 376.9 万美元\nintel.arkm.com/explorer/addr…\n\n2️⃣ 曾低买高卖 $WBTC 获利 1426 万美金巨鲸\n过去 6 小时前向多个交易所累计充值 3500 枚 ETH，价值 842 万美元，平均充值价格 $2406\nintel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
-      "contentHtml": "一些 <a href=\"/search?q=%23ETH\">$ETH</a> 大户们正在恐慌性割肉🔪\n\n1️⃣ ETH 波段巨鲸 nemorino.eth \n过去 9 小时他以均价 $2514.85 清仓了所有 WETH，而这 7107.08 WETH 的建仓成本高达 $3,045.24，本次卖出亏损超 376.9 万美元\n<a href=\"https://intel.arkm.com/explorer/address/0x8AeCc5526F92A46718f8E68516D22038D8670E0D\">intel.arkm.com/explorer/addr…</a>\n\n2️⃣ 曾低买高卖 <a href=\"/search?q=%23WBTC\">$WBTC</a> 获利 1426 万美金巨鲸\n过去 6 小时前向多个交易所累计充值 3500 枚 ETH，价值 842 万美元，平均充值价格 $2406\n<a href=\"https://intel.arkm.com/explorer/address/0x1E2ac461eDc05bdC7B471CF93AECEEc91f32Ed29\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助 |上 Gate App 抢黄金",
-      "publishedAt": "2026-02-01T01:28:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2017771934021452048",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHACQvAGbgAADhVd.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHACQ0ZNa0AAJDeT.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017771995988111674",
-      "username": "Pxstar_",
-      "displayName": "ratsxp",
-      "avatar": "https://nitter.net/pic/profile_images%2F1600418796912926723%2FQivp30cA_bigger.jpg",
-      "content": "x.com/i/article/201680719111…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2016807191119089664\">x.com/i/article/201680719111…</a>",
-      "publishedAt": "2026-02-01T01:28:00.000Z",
-      "link": "https://x.com/Pxstar_/status/2017771995988111674",
-      "retweet": {
-        "username": "BensonTWN",
-        "displayName": "Benson Sun"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017770769582067727",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "最终发泄到Solana及其生态，利空其全部meme\n\n自然部分资金的脑回路就是：利好bsc meme😂",
-      "contentHtml": "最终发泄到Solana及其生态，利空其全部meme\n\n自然部分资金的脑回路就是：利好bsc meme😂",
-      "publishedAt": "2026-02-01T01:23:00.000Z",
-      "link": "https://x.com/follow_clues/status/2017770769582067727",
-      "quote": {
-        "username": "follow_clues",
-        "displayName": "Theclues",
-        "content": "撕到最后，Solana生态会不会跌的最惨？",
-        "link": "https://x.com/follow_clues/status/2017619702584049968"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017770368090685865",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "我预计，这几天很多人会开始调整预期，“btc 5万见” “不到3万，不买” 等等言论会充实着我们的时间线。屏蔽噪音，回归本心！",
-      "contentHtml": "我预计，这几天很多人会开始调整预期，“btc 5万见” “不到3万，不买” 等等言论会充实着我们的时间线。屏蔽噪音，回归本心！",
-      "publishedAt": "2026-02-01T01:21:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2017770368090685865",
       "stats": {
         "replies": 0,
         "retweets": 0,
