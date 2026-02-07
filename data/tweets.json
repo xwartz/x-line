@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T05:57:39.059Z",
+  "lastUpdated": "2026-02-07T06:40:56.204Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -85,11 +85,40 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 503,
+    "newFetched": 501,
     "successUsers": 25,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2020019138283073573",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "VIDA大神 @Vida_BWE  针对USD1提到了个很好的问题，我们能够去官网看到USD1目前在BN的index price是固定为1的，没有任何的成分，所以在杠杆借贷的清算上不用担心清算带来的脱锚问题：\n\n1. USD1/USDT杠杆借贷的清算固定为1，而不是USD1/USDT的Spot交易价格恒定为1，两者不一样。\n\n2. 这种方式会避免因为个别大户强平清算量过大带来的内生性脱锚风险。\n\n3. 如果脱锚问题产生于外部而非内部的强平规模，那就是另外一个问题。比如链上脱锚导致USD1价格为0.5，若BN仍将index固定为1，那么全市场的用户会链上买入然后转进BN进行“承兑”（在杠杆借贷里当作1用），BN无条件成为了套利的对手方。此时如果WLFI没有及时对BN进行USDT承兑，那么BN可能会承担亏损。\n\n这种固定承兑的方式属于托管方（BN及任何愿意将index固定为1的交易所）的善意举动，当然也有利于稳定抵押品价值避免连环清算。但最终是否能够不脱锚，还是依赖于项目方（WLFI）的承兑速度，并且不要弄出外生性的脱锚。\n\n总的来说，这种合作模式会比ENA模式更靠谱，一般是发行方WLFI跟托管方BN承诺了 1:1 USDT的及时承兑，类似于传统银行市场的承兑业务。",
+      "contentHtml": "VIDA大神 <a href=\"/Vida_BWE\" title=\"Vida\">@Vida_BWE</a>  针对USD1提到了个很好的问题，我们能够去官网看到USD1目前在BN的index price是固定为1的，没有任何的成分，所以在杠杆借贷的清算上不用担心清算带来的脱锚问题：\n\n1. USD1/USDT杠杆借贷的清算固定为1，而不是USD1/USDT的Spot交易价格恒定为1，两者不一样。\n\n2. 这种方式会避免因为个别大户强平清算量过大带来的内生性脱锚风险。\n\n3. 如果脱锚问题产生于外部而非内部的强平规模，那就是另外一个问题。比如链上脱锚导致USD1价格为0.5，若BN仍将index固定为1，那么全市场的用户会链上买入然后转进BN进行“承兑”（在杠杆借贷里当作1用），BN无条件成为了套利的对手方。此时如果WLFI没有及时对BN进行USDT承兑，那么BN可能会承担亏损。\n\n这种固定承兑的方式属于托管方（BN及任何愿意将index固定为1的交易所）的善意举动，当然也有利于稳定抵押品价值避免连环清算。但最终是否能够不脱锚，还是依赖于项目方（WLFI）的承兑速度，并且不要弄出外生性的脱锚。\n\n总的来说，这种合作模式会比ENA模式更靠谱，一般是发行方WLFI跟托管方BN承诺了 1:1 USDT的及时承兑，类似于传统银行市场的承兑业务。",
+      "publishedAt": "2026-02-07T06:17:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2020019138283073573",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAhgUN5agAA6rG2.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAhgyUpacAA3UHx.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAiMsoLacAAwD-m.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2020006320867537168",
       "username": "Murphychen888",
@@ -11911,27 +11940,6 @@
       "contentHtml": "链上热点  \nbase 链+蹭clawbot 衍生产品发的 meme 币\n\n考虑要不要去接盘试试，毕竟 base 也算我的福地（赚过）\n\n合约盈利分三份冲一波？",
       "publishedAt": "2026-02-01T05:01:00.000Z",
       "link": "https://x.com/Bitfatty/status/2017825579404562467",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2017817941954515292",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "眼瞅着比特币 $BTC 这行情，像是把2022年熊市的剧本，又翻出来演了一遍....",
-      "contentHtml": "眼瞅着比特币 <a href=\"/search?q=%23BTC\">$BTC</a> 这行情，像是把2022年熊市的剧本，又翻出来演了一遍....",
-      "publishedAt": "2026-02-01T04:31:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2017817941954515292",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAC6SrWbcAE2BoH.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
