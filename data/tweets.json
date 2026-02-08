@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T17:54:30.747Z",
+  "lastUpdated": "2026-02-08T18:32:57.922Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,53 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 520,
+    "newFetched": 524,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2020562855079367059",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "有了AI的好处，看到高盛预测CTA下周还有卖盘，问了一下，让grok用数据回测CTA的买卖盘对指数有没有参考。结论：不是一个可信的指标",
+      "contentHtml": "有了AI的好处，看到高盛预测CTA下周还有卖盘，问了一下，让grok用数据回测CTA的买卖盘对指数有没有参考。结论：不是一个可信的指标",
+      "publishedAt": "2026-02-08T18:18:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2020562855079367059",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAp7NJlbUAAiN17.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020558644140441733",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "我一直说IBIT里很多是机构套利的资金，真正的Long only基金很少。\n这次没提前想到套利被迫平仓的确想太少了，或者不愿意想",
+      "contentHtml": "我一直说IBIT里很多是机构套利的资金，真正的Long only基金很少。\n这次没提前想到套利被迫平仓的确想太少了，或者不愿意想",
+      "publishedAt": "2026-02-08T18:01:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2020558644140441733",
+      "quote": {
+        "username": "Jiangzhuoer2",
+        "displayName": "江卓尔_莱比特矿池",
+        "content": "谢谢@Phyrex_Ni的讨论，举例一个套利过程：\n\n1、现货ETF IBIT有基金爆仓，在大量卖$IBIT，卖出了折价。\n\n2、（在$IBIT股票价格）vs（每股$IBIT含有BTC净值）出现一定差值时，就有 套利商 买入折价的$IBIT，在BTC现货/期货市场卖出BTC，以此套利。\n\n3、卖出BTC并不需要 做市/套利商 持有BTC，例如可以借BTC现货卖出，可以U本位合约做空BTC，只要 套利商 有足够多的美元，就能卖足够多的BTC。\n\n4、这样就完成了$IBIT卖出到BTC卖出的传导，例如基金爆仓，总共95折砸了相当于6万BTC的$IBIT，全部被 套利商 买进，套利商同时在BTC现货/期货市场卖出6万个BTC 。\n\n5、套利商等待$IBIT的折价恢复，然后把$IBIT按正常价卖出+同时平掉等量空单。这个过程中，不会发生任何的$IBIT赎回BTC。\n\n6、如果$IBIT折价长时间不恢复，或者套利商手上接了太多$IBIT挤占流动性产生风险时，套利商才会把$IBIT赎回为BTC，然后卖出现货BTC+平等量空单。\n\n5是套利商主要的交易方式，6是特殊情况，假设有基金砸了6万BTC，那可能5.4万BTC都被对冲掉了，只有6K BTC会走赎回现货途径。",
+        "link": "https://x.com/Jiangzhuoer2/status/2020496738277282174"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2020546408491671847",
       "username": "TJ_Research",
@@ -11736,36 +11778,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018252006050386239",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "最近關於孫哥的謠言滿天飛，我這邊分享一下自己被孫哥「割」的親身經歷。\n\n當時在 FTX 我有兩個帳號，一個主帳號一個小號。\n\n先講主帳號。那時候我對 FTX 的信仰值超高，所以抄底了一大堆 FTT。\n\n後來官方說法是 FTT 相當於股權的概念，不賠。所以我的大號，歸零了。\n\n再講小號。\n\n小號大概放了 200 萬美金。\n\n那時候信了孫宇晨說的話：在 FTX 的 TRX，他願意 1:1 剛性兌付。\n\n關閉提現後，FTX 當時已經是歡樂豆交易所了，很多人因為孫哥這句話，在 FTX 瘋狂買進 TRX。TRX 的價格直接暴漲到場外價格的 6 倍。\n\n我當時也稀裡糊塗地跟著買，幾乎滿手 TRX。後來 FTX 申請破產，孫哥的講法是：剛性兌付的承諾永遠不會跳票。\n\n然後呢？\n\n然後就沒有然後了。他再也沒出來說明過。\n\n這導致我最後在賣這個小號的時候，帳面價值大幅縮水。\n\n我賣的時候，市場價格大概是 62%，理論上可以賣個 120 萬美金左右。但因為我溢價去買 TRX，債權買家只認場外 TRX 價格，所以最後我只賣了 15 萬美金左右。\n\n120 萬變 15 萬。這些都是拜孫哥所賜。\n\n人在情急之下，真的會狗急跳牆，我早應該想到孫哥以前的行為一直都是非常精明的，他不可能做不利於自己的事情。\n\n但我沒有因為這件事去聲討他。\n\n對我來講，我相信了孫哥然後被割，這就是我自己的問題。我不會拿自己的問題去怪任何人。\n\n在幣圈，每一次被割都是一堂課。學費貴不貴，就看你有沒有真的學到東西。",
-      "contentHtml": "最近關於孫哥的謠言滿天飛，我這邊分享一下自己被孫哥「割」的親身經歷。\n\n當時在 FTX 我有兩個帳號，一個主帳號一個小號。\n\n先講主帳號。那時候我對 FTX 的信仰值超高，所以抄底了一大堆 FTT。\n\n後來官方說法是 FTT 相當於股權的概念，不賠。所以我的大號，歸零了。\n\n再講小號。\n\n小號大概放了 200 萬美金。\n\n那時候信了孫宇晨說的話：在 FTX 的 TRX，他願意 1:1 剛性兌付。\n\n關閉提現後，FTX 當時已經是歡樂豆交易所了，很多人因為孫哥這句話，在 FTX 瘋狂買進 TRX。TRX 的價格直接暴漲到場外價格的 6 倍。\n\n我當時也稀裡糊塗地跟著買，幾乎滿手 TRX。後來 FTX 申請破產，孫哥的講法是：剛性兌付的承諾永遠不會跳票。\n\n然後呢？\n\n然後就沒有然後了。他再也沒出來說明過。\n\n這導致我最後在賣這個小號的時候，帳面價值大幅縮水。\n\n我賣的時候，市場價格大概是 62%，理論上可以賣個 120 萬美金左右。但因為我溢價去買 TRX，債權買家只認場外 TRX 價格，所以最後我只賣了 15 萬美金左右。\n\n120 萬變 15 萬。這些都是拜孫哥所賜。\n\n人在情急之下，真的會狗急跳牆，我早應該想到孫哥以前的行為一直都是非常精明的，他不可能做不利於自己的事情。\n\n但我沒有因為這件事去聲討他。\n\n對我來講，我相信了孫哥然後被割，這就是我自己的問題。我不會拿自己的問題去怪任何人。\n\n在幣圈，每一次被割都是一堂課。學費貴不貴，就看你有沒有真的學到東西。",
-      "publishedAt": "2026-02-02T09:15:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2018252006050386239",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018249784533086262",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "75k > Strategy cost basis\n70k > on chain tea leaf support/last ATH\n60k ish > 200MA \n\nmax draw down 25% from here, the only unknown is how all the AI thing will end (AI is still very toppy). OpenAI new round and Anthropic IPO will be turning pts for all risk assets",
-      "contentHtml": "75k &gt; Strategy cost basis\n70k &gt; on chain tea leaf support/last ATH\n60k ish &gt; 200MA \n\nmax draw down 25% from here, the only unknown is how all the AI thing will end (AI is still very toppy). OpenAI new round and Anthropic IPO will be turning pts for all risk assets",
-      "publishedAt": "2026-02-02T09:07:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2018249784533086262",
       "stats": {
         "replies": 0,
         "retweets": 0,
