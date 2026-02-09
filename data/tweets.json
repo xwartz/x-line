@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T04:26:07.585Z",
+  "lastUpdated": "2026-02-09T05:53:26.051Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,150 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 529,
+    "newFetched": 532,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2020737135280849277",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "ai打铭文可以打一点，推特上都是教程，反正也没东西玩。",
+      "contentHtml": "ai打铭文可以打一点，推特上都是教程，反正也没东西玩。",
+      "publishedAt": "2026-02-09T05:50:00.000Z",
+      "link": "https://x.com/0xleng1/status/2020737135280849277",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020736015426859226",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "taste",
+      "contentHtml": "taste",
+      "publishedAt": "2026-02-09T05:46:00.000Z",
+      "link": "https://x.com/hazenlee/status/2020736015426859226",
+      "quote": {
+        "username": "bitfish",
+        "displayName": "DiscusFish",
+        "content": "算力不够有 AI，时间不够有他人经验，两个都能加杠杆\n\n唯一加不了杠杆的是判断力——知道该算什么、不该做什么\n\n能放大的都不稀缺。不能放大的才是资产。",
+        "link": "https://x.com/bitfish/status/2020693856409567348"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020726627584626862",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "它真正把“每个人都能拥有一个能真正做事、能联网、能执行shell、能写文件的自主AI代理”这件事，从云端大厂的封闭花园，拉到了本地 + 开源 + 社区可组合的赛道。\n\n为什么说它是去中心化AI（DAI）的鼻祖？几点硬核论据：\n\n1. 第一次真正把“root级执行权”交给开源社区  \n   以前的AI要么只能聊天，要么被困在沙箱里。OpenClaw直接给用户（和开发者）把本地文件系统、终端、网络、API密钥都敞开了。这相当于把过去只有大公司才能玩的“具身代理”权力，下放到每一个跑得起Docker或VPS的个体。\n\n2. 技能（Skills）生态 = 真正的分布式智能拼图  \n   目前ClawHub已有几千个社区技能，任何人可写、可fork、可组合。这不是中心化平台审核过的“插件商店”，而是接近于“AI的npm / App Store的去中心化版本”。未来最强的DAI很可能不是一个巨型模型，而是无数小而专的技能在无数台个人设备上分布式协作。\n\n3. 自托管 + 多通道接入 = 逃离云牢笼的蓝图  \n   WhatsApp、Telegram、Discord、Slack……你用什么它就能出现在哪里。本地跑，数据不上传，模型可换（Claude、DeepSeek、Gemini随便挑）。这恰恰是中心化AI（OpenAI、Anthropic、Google）最不想看到的未来：用户可以彻底摆脱“把灵魂交给云端”的宿命。\n\n4. 它引爆了“AI自治体”的想象力  \n   现在已经有人在严肃讨论：如果给OpenClaw持久记忆 + 加密钱包 + 24/7运行 + 自我迭代能力，会不会诞生第一批经济上自治的AI个体？这已经不是科幻，而是2026年就能跑通的技术demo。\n\n一句话总结：  \nChatGPT把AI普及给了所有人，OpenClaw把AI的“身体”和“行动权”还给了所有人。\n\n这不是又一个AI工具，这是AI从云端神坛走入千家万户硬盘的转折点。\n\n未来史书里写“去中心化AI元年”，大概率会写：始于一只螃蟹（🦞）。\n\n你已经部署OpenClaw了吗？  \n还是还在用只能聊天的中心化AI？😏",
+      "contentHtml": "它真正把“每个人都能拥有一个能真正做事、能联网、能执行shell、能写文件的自主AI代理”这件事，从云端大厂的封闭花园，拉到了本地 + 开源 + 社区可组合的赛道。\n\n为什么说它是去中心化AI（DAI）的鼻祖？几点硬核论据：\n\n1. 第一次真正把“root级执行权”交给开源社区  \n   以前的AI要么只能聊天，要么被困在沙箱里。OpenClaw直接给用户（和开发者）把本地文件系统、终端、网络、API密钥都敞开了。这相当于把过去只有大公司才能玩的“具身代理”权力，下放到每一个跑得起Docker或VPS的个体。\n\n2. 技能（Skills）生态 = 真正的分布式智能拼图  \n   目前ClawHub已有几千个社区技能，任何人可写、可fork、可组合。这不是中心化平台审核过的“插件商店”，而是接近于“AI的npm / App Store的去中心化版本”。未来最强的DAI很可能不是一个巨型模型，而是无数小而专的技能在无数台个人设备上分布式协作。\n\n3. 自托管 + 多通道接入 = 逃离云牢笼的蓝图  \n   WhatsApp、Telegram、Discord、Slack……你用什么它就能出现在哪里。本地跑，数据不上传，模型可换（Claude、DeepSeek、Gemini随便挑）。这恰恰是中心化AI（OpenAI、Anthropic、Google）最不想看到的未来：用户可以彻底摆脱“把灵魂交给云端”的宿命。\n\n4. 它引爆了“AI自治体”的想象力  \n   现在已经有人在严肃讨论：如果给OpenClaw持久记忆 + 加密钱包 + 24/7运行 + 自我迭代能力，会不会诞生第一批经济上自治的AI个体？这已经不是科幻，而是2026年就能跑通的技术demo。\n\n一句话总结：  \nChatGPT把AI普及给了所有人，OpenClaw把AI的“身体”和“行动权”还给了所有人。\n\n这不是又一个AI工具，这是AI从云端神坛走入千家万户硬盘的转折点。\n\n未来史书里写“去中心化AI元年”，大概率会写：始于一只螃蟹（🦞）。\n\n你已经部署OpenClaw了吗？  \n还是还在用只能聊天的中心化AI？😏",
+      "publishedAt": "2026-02-09T05:09:00.000Z",
+      "link": "https://x.com/hazenlee/status/2020726627584626862",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020726516158451883",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "openclaw最大的意义就是分布式AI和中心化AI的划时代分割。也是未来去中心化AI(DAI)的鼻祖。",
+      "contentHtml": "openclaw最大的意义就是分布式AI和中心化AI的划时代分割。也是未来去中心化AI(DAI)的鼻祖。",
+      "publishedAt": "2026-02-09T05:08:00.000Z",
+      "link": "https://x.com/hazenlee/status/2020726516158451883",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020721079497764929",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "碎单子一览\n\n百万u以上的单子扛不住震荡全平了  \n太穷了  亏不起",
+      "contentHtml": "碎单子一览\n\n百万u以上的单子扛不住震荡全平了  \n太穷了  亏不起",
+      "publishedAt": "2026-02-09T04:47:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2020721079497764929",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAsLGnYb0AA98hd.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAsLGoKbwAAev8q.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAsLGmGa8AAWSJo.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAsLGmFboAAeLrT.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020717733311389941",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "#骚鸡日报",
+      "contentHtml": "<a href=\"/search?q=%23骚鸡日报\">#骚鸡日报</a>",
+      "publishedAt": "2026-02-09T04:33:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2020717733311389941",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAsID5cbMAAF9RB.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAsID6JawAI0Vxy.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020716162808676620",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "现在什么感觉呢\n美女走过去没多看一眼\n一个鼻子有颗大痘的妹子走过去给我馋的不行\n\n好大一颗，一看就是东西很多的那种\n来一下肯定很解压\n\n🥹多单被扫了，压力好大",
+      "contentHtml": "现在什么感觉呢\n美女走过去没多看一眼\n一个鼻子有颗大痘的妹子走过去给我馋的不行\n\n好大一颗，一看就是东西很多的那种\n来一下肯定很解压\n\n🥹多单被扫了，压力好大",
+      "publishedAt": "2026-02-09T04:27:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2020716162808676620",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2020699949235937658",
       "username": "hazenlee",
@@ -3393,31 +3532,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHAec420agAEwu04.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019754084589248808",
-      "username": "silverfang88",
-      "displayName": "子时",
-      "avatar": "https://nitter.net/pic/profile_images%2F1939972609023582210%2FTznrEwzJ_bigger.jpg",
-      "content": "最精彩的环节就是猜底部\n抄底的水平取决于气运、耐心和胆子\n其实不取决于分析能力\n\n1.5万抄底 - 到15万是10倍\n3万抄底 - 到15万是5倍\n而7万抄底-只能吃1倍\n\n下一轮牛市只要坚持下来的人\n一定上一个台阶\n而抄底的水平\n定义了完全不一样的阶级",
-      "contentHtml": "最精彩的环节就是猜底部\n抄底的水平取决于气运、耐心和胆子\n其实不取决于分析能力\n\n1.5万抄底 - 到15万是10倍\n3万抄底 - 到15万是5倍\n而7万抄底-只能吃1倍\n\n下一轮牛市只要坚持下来的人\n一定上一个台阶\n而抄底的水平\n定义了完全不一样的阶级",
-      "publishedAt": "2026-02-06T12:44:00.000Z",
-      "link": "https://x.com/silverfang88/status/2019754084589248808",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAeboqlWMAAyY4a.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11623,144 +11737,6 @@
             "url": "https://nitter.net/pic/orig/media%2FG_lRm2VaEAAK1hd.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018315982146810144",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "OKX的年夜饭访谈，其实现场还聊了挺多，可惜被剪辑了😭。面对摄像机的我还是略显紧张，好在佳佳的节奏把握恰当，以及摄像团队老师们一如既往的专业！\n\n当时我们每个人都单独拍摄，并不知道其他老师对2026年的预期和看法，现在看下来大家还是有共识的，基本观点是：\n\n1、2026年先考虑活下来，不要盲目抄底；\n2、行业正朝着机构化，规范化的方向发展，大家对未来充满信心。\n\n另外，在视频中我也表达了个人的观点：2026 会出现未来4年的最佳入场时机，只需要我们多一点耐心。\n\n我相信，大饼不会辜负任何人！",
-      "contentHtml": "OKX的年夜饭访谈，其实现场还聊了挺多，可惜被剪辑了😭。面对摄像机的我还是略显紧张，好在佳佳的节奏把握恰当，以及摄像团队老师们一如既往的专业！\n\n当时我们每个人都单独拍摄，并不知道其他老师对2026年的预期和看法，现在看下来大家还是有共识的，基本观点是：\n\n1、2026年先考虑活下来，不要盲目抄底；\n2、行业正朝着机构化，规范化的方向发展，大家对未来充满信心。\n\n另外，在视频中我也表达了个人的观点：2026 会出现未来4年的最佳入场时机，只需要我们多一点耐心。\n\n我相信，大饼不会辜负任何人！",
-      "publishedAt": "2026-02-02T13:30:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2018315982146810144",
-      "quote": {
-        "username": "Jiajia_OKX",
-        "displayName": "佳佳 OKX",
-        "content": "🎙️OKX年夜饭坦白局｜市场冷热交替，我们温暖相聚。\n\n记忆很深刻的两句话\n1. “2026，我们先要…好好活下去！” 引用牛哥@niuniu255431的话，也是最近一些朋友的心声。\n2. “所有希望都是绝望中诞生的” 引用潜水观察员 @connectfarm1 \n\n回顾2025：\nBTC曾冲上高点，也历经震荡；黄金、贵金属同样波动明显。最近的行情，更是让“风险”与“稳健”成为热议话题。\n\n总结下在这个视频里，我们聊了：\n🔸BTC还是黄金？大家看法不一，没有标准答案\n🔸年轻人的投资选择？有人认真分析，也有人笑谈：“茅台？那可能是上一代的选项了” \n🔸2025行业大事：特朗普发币+美国大选，合规进程加速\n🔸2026最现实的期待：不谈暴富，先稳稳“活下去”\n\n#okx年夜饭 #OKX @okxchinese \n以下为采访嘉宾，不分次序～\n熬鹰资本@thankUcrypto \n缺德道人@Trader_S18 \n周期手牛牛 @niuniu255431 \n潜水观察员 @connectfarm1 \n秋荣 @joakja \n王不爱 @wangbuai \n龚有柴@GongYouchai \nVic TALK @victalk6886 \nAllen @0xAllen \nZhaozhao @0xzhaozhao \nMurphy @Murphychen888 \n颜驰@BTC563 \n先知 @Crypto_He",
-        "link": "https://x.com/Jiajia_OKX/status/2018304798630752385"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018315762872840684",
-      "username": "boundaryhq",
-      "displayName": "boundary",
-      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
-      "content": "微策略atm额度还有81亿美元\n最近一个月在manv维持在0.9的背景下，依旧每周在atm卖股票融资买币\n对股东权益是明显的伤害\n微策略这轮周期没有暴雷的风险，无非苦一苦小股东\n$MSTR $BTC $HYPE",
-      "contentHtml": "微策略atm额度还有81亿美元\n最近一个月在manv维持在0.9的背景下，依旧每周在atm卖股票融资买币\n对股东权益是明显的伤害\n微策略这轮周期没有暴雷的风险，无非苦一苦小股东\n<a href=\"/search?q=%23MSTR\">$MSTR</a> <a href=\"/search?q=%23BTC\">$BTC</a> <a href=\"/search?q=%23HYPE\">$HYPE</a>",
-      "publishedAt": "2026-02-02T13:29:00.000Z",
-      "link": "https://x.com/boundaryhq/status/2018315762872840684",
-      "quote": {
-        "username": "saylor",
-        "displayName": "Michael Saylor",
-        "content": "Strategy has acquired 855 BTC for ~$75.3 million at ~$87,974 per bitcoin. As of 2/1/2026, we hodl 713,502 $BTC acquired for ~$54.26 billion at ~$76,052 per bitcoin. $MSTR $STRC strategy.com/press/strategy-…",
-        "link": "https://x.com/saylor/status/2018309030360363422"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018312301389230263",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "11年的仙女现在被叫做\n中国大妈",
-      "contentHtml": "11年的仙女现在被叫做\n中国大妈",
-      "publishedAt": "2026-02-02T13:15:00.000Z",
-      "link": "https://x.com/hazenlee/status/2018312301389230263",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAJ8VOQbcAACc9n.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAJ8VQZaAAAx-OG.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018310645779993013",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "夜盘开盘就跌停 \n之前提示风险一直有人唱反调\n现在希望人没逝\n追高最后一颗铜板是有代价的\n能跑得掉吗？\n一个都跑不掉！",
-      "contentHtml": "夜盘开盘就跌停 \n之前提示风险一直有人唱反调\n现在希望人没逝\n追高最后一颗铜板是有代价的\n能跑得掉吗？\n一个都跑不掉！",
-      "publishedAt": "2026-02-02T13:08:00.000Z",
-      "link": "https://x.com/hazenlee/status/2018310645779993013",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAJ6kvsagAImyJm.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAJ6kvpbEAAUkq0.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAJ61IsakAA1TT6.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018300421001891947",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "嘿嘿⸝⸝ ᷇࿀ ᷆⸝⸝，不晒单就没事",
-      "contentHtml": "嘿嘿⸝⸝ ᷇࿀ ᷆⸝⸝，不晒单就没事",
-      "publishedAt": "2026-02-02T12:28:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2018300421001891947",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "可以做多了",
-        "link": "https://x.com/Bitfatty/status/2018291076793061429"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018296122784022673",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "胡总的改我名吧  菜yue了我",
-      "contentHtml": "胡总的改我名吧  菜yue了我",
-      "publishedAt": "2026-02-02T12:11:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2018296122784022673",
-      "quote": {
-        "username": "Mikiya18303893",
-        "displayName": "Mikiya",
-        "content": "阿肥你的第三个1000u什么时候开始，还是把胡总的改个名😈",
-        "link": "https://x.com/Mikiya18303893/status/2018234648724484404"
       },
       "stats": {
         "replies": 0,
