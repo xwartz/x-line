@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T11:37:52.874Z",
+  "lastUpdated": "2026-02-10T12:38:11.328Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 528,
+    "newFetched": 524,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2021191070676033706",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "两年前转发过这篇文章 再转发一次\n新的生产力之后需要新的生产关系",
+      "contentHtml": "两年前转发过这篇文章 再转发一次\n新的生产力之后需要新的生产关系",
+      "publishedAt": "2026-02-10T11:54:00.000Z",
+      "link": "https://x.com/hazenlee/status/2021191070676033706",
+      "quote": {
+        "username": "VitalikButerin",
+        "displayName": "vitalik.eth",
+        "content": "Two years ago, I wrote this post on the possible areas that I see for ethereum + AI intersections: vitalik.eth.limo/general/202…\n\nThis is a topic that many people are excited about, but where I always worry that we think about the two from completely separate philosophical perspectives.\n\nI am reminded of Toly's recent tweet that I should \"work on AGI\". I appreciate the compliment, for him to think that I am capable of contributing to such a lofty thing. However, I get this feeling that the frame of \"work on AGI\" itself contains an error: it is fundamentally undifferentiated, and has the connotation of \"do the thing that, if you don't do it, someone else will do anyway two months later; the main difference is that you get to be the one at the top\" (though this may not have been Toly's intention). It would be like describing Ethereum as \"working in finance\" or \"working on computing\".\n\nTo me, Ethereum, and my own view of how our civilization should do AGI, are precisely about choosing a positive direction rather than embracing undifferentiated acceleration of the arrow, and also I think it's actually important to integrate the crypto and AI perspectives.\n\nI want an AI future where:\n\n* We foster human freedom and empowerment (ie. we avoid both humans being relegated to retirement by AIs, and permanently stripped of power by human power structures that become impossible to surpass or escape)\n* The world does not blow up (both \"classic\" superintelligent AI doom, and more chaotic scenarios from various forms of offense outpacing defense, cf. the four defense quadrants from the d/acc posts)\n\nIn the long term, this may involve crazy things like humans uploading or merging with AI, for those who want to be able to keep up with highly intelligent entities that can think a million times faster on silicon substrate. In the shorter term, it involves much more \"ordinary\" ideas, but still ideas that require deep rethinking compared to previous computing paradigms.\n\nSo now, my updated view, which definitely focuses on that shorter term, and where Ethereum plays an important role but is only one piece of a bigger puzzle:\n\n# Building tooling to make more trustless and/or private interaction with AIs possible.\n\nThis includes:\n\n* Local LLM tooling\n* ZK-payment for API calls (so you can call remote models without linking your identity from call to call)\n* Ongoing work into cryptographic ways to improve AI privacy\n* Client-side verification of cryptographic proofs, TEE attestations,  and any other forms of server-side assurance\n\nBasically, the kinds of things we might also build for non-LLM compute (see eg. my ethereum privacy roadmap from a year ago ethereum-magicians.org/t/a-m… ), but for LLM calls as the compute we are protecting.\n\n# Ethereum as an economic layer for AI-related interactions\n\nThis includes:\n\n* API calls\n* Bots hiring bots\n* Security deposits, potentially eventually more complicated contraptions like onchain dispute resolution\n* ERC-8004, AI reputation ideas\n\nThe goal here is to enable AIs to interact economically, which makes viable more decentralized AI architectures (as opposed to non-economic coordination between AIs that are all designed and run by one organization \"in-house\"). Economies not for the sake of economies, but to enable more decentralized authority.\n\n# Make the cypherpunk \"mountain man\" vision a reality\n\nBasically, take the vision that cypherpunk radicals have always dreamed of (don't trust; verify everything), that has been nonviable in reality because humans are never actually going to verify all the code ourselves. Now, we can finally make that vision happen, with LLMs doing the hard parts.\n\nThis includes:\n\n* Interacting with ethereum apps without needing third party UIs\n* Having a local model propose transactions for you on its own\n* Having a local model verify transactions created by dapp UIs\n* Local smart contract auditing, and assistance interpreting the meaning of FV proofs provided by others\n* Verifying trust models of applications and protocols\n\n# Make much better markets and governance a reality\n\nPrediction and decision markets, decentralized governance, quadratic voting, combinatorial auctions, universal barter economy, and all kinds of constructions are all beautiful in theory, but have been greatly hampered in reality by one big constraint: limits to human attention and decision-making power.\n\nLLMs remove that limitation, and massively scale human judgement. Hence, we can revisit all of those ideas.\n\nThese are all things that Ethereum can help to make a reality. They are also ideas that are in the d/acc spirit: enabling decentralized cooperation, and improving defense. We can revisit the best ideas from 2014, and add on top many more new and better ones, and with AI (and ZK) we have a whole new set of tools to make them come to life.\n\nWe can describe the above as a 2x2 chart. There's a lot to build!",
+        "link": "https://x.com/VitalikButerin/status/2020963864175657102",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAvn7BNXsAAXjAo.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2021178920096186688",
       "username": "hazenlee",
@@ -11670,27 +11697,6 @@
         "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
         "content": "和@BensonTWN 的缘分非常神奇, 相见恨晚. 补充一下full context: 钱没有以前好用的原因除了主权货币下的实际高通胀外,  (之后主流国家都MMT的话, 那画面更美...), 还有一个更核心的原因：技术本身是高度通缩的, 它不断把“曾经需要大量钱买来的东西/体验打到了近零成本\n\n- 钱的低层意义，是 stress buffer：把烦恼压在可控范围内你能用钱买时间和服务，本质上是把一部分低价值劳动与摩擦转移出去\n- 钱的中层意义，是换取更“meaningful”的体验（当然这个 meaningful 很主观），以及让身边的人生活质量更好\n- 钱的高层意义，是更大的自我实现: 你能选择自己要成为什么样的人，并为此承担代价。\n\n所以我英文推里常常说 “Money will not change men, it will only reveal who they really are\" 钱不会把人“变成”谁，它只是把一个人的底色放大：底色粗劣的，更容易滑向堕落；底色精进的，会更快进入进阶",
         "link": "https://x.com/DoveyWanCN/status/2003309299876134963"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018686774562763186",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "整个经济史就是一部基于假象和谎言的连续剧，经济史的演绎从不基于真实的剧本，但它铺平了积累巨额财富的道路。做法就是认清其假象，投入其中，在假象被公众认识之前退出游戏。\n——索罗斯",
-      "contentHtml": "整个经济史就是一部基于假象和谎言的连续剧，经济史的演绎从不基于真实的剧本，但它铺平了积累巨额财富的道路。做法就是认清其假象，投入其中，在假象被公众认识之前退出游戏。\n——索罗斯",
-      "publishedAt": "2026-02-03T14:03:00.000Z",
-      "link": "https://x.com/hazenlee/status/2018686774562763186",
-      "quote": {
-        "username": "Walden779",
-        "displayName": "贝塔酱",
-        "content": "随便碎碎念顺便聊一下最近市场\n万物都有规律，金融也一样\n涨多了就跌，跌多了就涨 \n但是股市最内核的还是：人性的恐慌和贪婪\n\n如果能理智的把握大周期，知道什么时候投入这浪潮，也知道该在什么时候离场这场泡沫。就没有那么多悲伤的难过的小宝宝了",
-        "link": "https://x.com/Walden779/status/2018474903029326008"
       },
       "stats": {
         "replies": 0,
