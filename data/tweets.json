@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T09:44:15.267Z",
+  "lastUpdated": "2026-02-10T10:39:46.940Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 531,
+    "newFetched": 526,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2021165917552701946",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "先說我目前的解法，我目前的用法是：\n\n1. 主要對話（大腦）： Sonnet 4.5\n2. Heartbeat 跟 Browser Automation（手腳）： Haiku 4.5\n3. Coding：用 Claude Max，直接用訂閱版去處理\n\n現在是這樣子分層去處理。\n\nSonnet 4.5 跟 Opus 4.5 相比其實沒有差太多，而且速度處理起來還比較快，作為大腦應該是挺夠用的。",
+      "contentHtml": "先說我目前的解法，我目前的用法是：\n\n1. 主要對話（大腦）： Sonnet 4.5\n2. Heartbeat 跟 Browser Automation（手腳）： Haiku 4.5\n3. Coding：用 Claude Max，直接用訂閱版去處理\n\n現在是這樣子分層去處理。\n\nSonnet 4.5 跟 Opus 4.5 相比其實沒有差太多，而且速度處理起來還比較快，作為大腦應該是挺夠用的。",
+      "publishedAt": "2026-02-10T10:14:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2021165917552701946",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2021154677635809573",
       "username": "Murphychen888",
@@ -11684,27 +11699,6 @@
         "displayName": "Salonbus",
         "content": "人还是要努力，你看梅拉尼娅，从东欧卖到美国还是做了第一夫人。想想，你努力了吗。",
         "link": "https://x.com/salonbus1024/status/2018680685486039271"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018680198535737588",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "ai时代能快速学习/有agency的人 vs 只会等着人喂饭 “是涨还是跌” 真的差距越来越大了. 优秀的小姐姐 ❤️",
-      "contentHtml": "ai时代能快速学习/有agency的人 vs 只会等着人喂饭 “是涨还是跌” 真的差距越来越大了. 优秀的小姐姐 ❤️",
-      "publishedAt": "2026-02-03T13:37:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2018680198535737588",
-      "quote": {
-        "username": "Mondiscool",
-        "displayName": "Mond",
-        "content": "谢谢 Dovey！现在才算是真的理解了，MSTR 不是在单纯做“追高”，他们的买入决策也像是一个大型的 DCA 策略，在 mNAV 明显大于1时做无脑募资，不管这笔钱是买入 BTC 还是在增加美元储备，都是在增加普通股股东的权益（持有更高的 BTC per share，或者更难做低价卖出的决策）",
-        "link": "https://x.com/Mondiscool/status/2018280256931827814"
       },
       "stats": {
         "replies": 0,
