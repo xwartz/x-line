@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T23:49:39.397Z",
+  "lastUpdated": "2026-02-11T02:02:26.226Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,117 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 526,
+    "newFetched": 524,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2021399682606661737",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
+      "content": "2022 年以來首次：BTC 再次重返藍線支撐區☄️\n\n承接下方引文，上週和各位分享「藍線的神威」時，\nBTC 仍位於 73K 之上；結果在帖子發布後的兩天內，\n價格便直接貫穿到 60K，一口氣來到了藍線區域。\n\n雖然時間已過去了幾天，但我覺得仍有必要正式發帖分享，\n同時我也將一併更新目前的模型最新數據👇：\n\n附圖的指標是「偏離度調整的 STH-RP」，在此先幫各位重溫其原理：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：nitter.net/market_beggar/status/1…\n\n//\n\n📊 目前藍線的價格約 = 67,321\n\n在上篇分析帖中（下方引文），我曾和各位詳細說明了模型藍線的概念：\n自 2018 年底以來，BTC 一共摸了 5 次藍線，每一次都出現了見底跡象。\n\n其中包含階段性底部、也包含最終的週期大底；\n有時是直接 V 反上漲、而有時則是在築底震盪後上漲。\n\n如果你想深入研究這些歷史案例，強力建議可以先參考下方引文，\n我在該篇帖子中都有附上詳細的說明📝\n\n💬坦白說：\n如果你真的沒看過下方引文，我真心建議你多花三分鐘把它看完，\n然後再來讀今天的這篇帖子，你會對目前的市況有更全面的理解。\n\n//\n\n我在昨天的分析帖中（nitter.net/market_beggar/status/2…），\n和各位詳細分享了我對於接下來的市況看法，以下是重點摘要：\n➡️ 2/05 出現極端巨量、恐慌貪婪指數降至極端低位\n➡️ 結合「模型藍線🔵」的支撐效果，接下來有高概率開啟寬幅震盪\n\n綜上所述，我認為藍線的支撐效果，在 2/05 的巨量出現後，\n基本已經得到確認，接下來的寬幅震盪結構，則將決定 BTC 是反彈 or 反轉。\n\n//\n\n再來補充一點💬：\n很多人至今仍沒有搞清楚「鏈上分析的支撐」概念，\n當時我在下方引文中也曾詳細解釋過一次，但現在依然有人在問，\n所以我打算再來說明一次。\n\n鏈上分析中的「支撐」，和技術分析中的支撐概念不太一樣，\n價格完全可以在短時間內跌破、漲破這些位置。\n\n以「支撐」為例：指的不是「這個位置不能被跌破」，\n而是指「一旦跌到這個位置，有高概率出現反彈、甚至反轉行情」。\n\n而本文分享的「偏離度調整的 STH-RP 模型藍線🔵」也是同理，\n以下我將直接引用我在下方引文中的原文：\n\n＂雖然價格到藍線之後都有高概率迎來一波強彈，\n但不代表是「馬上」，也完全有可能在藍線附近震盪 1~2 個月＂\n\n//\n\n最後，我們可以看到目前的藍線和 STH-RP 都在穩步下移，\n隨著時間的推移，會有更多短期持有者參與到換手之中，\n因此只要價格在當前區域磨得愈久，STH-RP 和藍線都將降至更低的位置。\n\n在此，或許我們能做個有趣的猜想💡：\n深熊估值模型中的 Realized Price、Cointime Price，\n都在隨著時間而逐步上移（即便速度緩慢）；\n而模型藍線則又隨著時間在逐步下移。\n\n📖 BTC 深熊極端估值最新數據\nnitter.net/market_beggar/status/2…\n\n那，倘若震盪時間足夠久，是否意味著在未來的某一刻，\n我們能看到 Cointime Price 或 Realized Price 和藍線形成共振呢❓\n\n如果真出現了，那或許就是我們不得不重倉出手的絕佳窗口了 ... 👀\n\n不過現在說這些或許有些為時尚早，震盪才剛開始，\n接下來估計有得磨了，保持耐心方為上策。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「一步之遙的黃金坑」：PSIP 週期性抄底訊號近在咫尺\nnitter.net/market_beggar/status/2…\n\n極端巨量的出現：新一輪震盪博弈的起點\nnitter.net/market_beggar/status/2…",
+      "contentHtml": "2022 年以來首次：BTC 再次重返藍線支撐區☄️\n\n承接下方引文，上週和各位分享「藍線的神威」時，\nBTC 仍位於 73K 之上；結果在帖子發布後的兩天內，\n價格便直接貫穿到 60K，一口氣來到了藍線區域。\n\n雖然時間已過去了幾天，但我覺得仍有必要正式發帖分享，\n同時我也將一併更新目前的模型最新數據👇：\n\n附圖的指標是「偏離度調整的 STH-RP」，在此先幫各位重溫其原理：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：<a href=\"https://nitter.net/market_beggar/status/1902195178993279264\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n📊 目前藍線的價格約 = 67,321\n\n在上篇分析帖中（下方引文），我曾和各位詳細說明了模型藍線的概念：\n自 2018 年底以來，BTC 一共摸了 5 次藍線，每一次都出現了見底跡象。\n\n其中包含階段性底部、也包含最終的週期大底；\n有時是直接 V 反上漲、而有時則是在築底震盪後上漲。\n\n如果你想深入研究這些歷史案例，強力建議可以先參考下方引文，\n我在該篇帖子中都有附上詳細的說明📝\n\n💬坦白說：\n如果你真的沒看過下方引文，我真心建議你多花三分鐘把它看完，\n然後再來讀今天的這篇帖子，你會對目前的市況有更全面的理解。\n\n//\n\n我在昨天的分析帖中（<a href=\"https://nitter.net/market_beggar/status/2021037913686016212\">nitter.net/market_beggar/status/2…</a>），\n和各位詳細分享了我對於接下來的市況看法，以下是重點摘要：\n➡️ 2/05 出現極端巨量、恐慌貪婪指數降至極端低位\n➡️ 結合「模型藍線🔵」的支撐效果，接下來有高概率開啟寬幅震盪\n\n綜上所述，我認為藍線的支撐效果，在 2/05 的巨量出現後，\n基本已經得到確認，接下來的寬幅震盪結構，則將決定 BTC 是反彈 or 反轉。\n\n//\n\n再來補充一點💬：\n很多人至今仍沒有搞清楚「鏈上分析的支撐」概念，\n當時我在下方引文中也曾詳細解釋過一次，但現在依然有人在問，\n所以我打算再來說明一次。\n\n鏈上分析中的「支撐」，和技術分析中的支撐概念不太一樣，\n價格完全可以在短時間內跌破、漲破這些位置。\n\n以「支撐」為例：指的不是「這個位置不能被跌破」，\n而是指「一旦跌到這個位置，有高概率出現反彈、甚至反轉行情」。\n\n而本文分享的「偏離度調整的 STH-RP 模型藍線🔵」也是同理，\n以下我將直接引用我在下方引文中的原文：\n\n＂雖然價格到藍線之後都有高概率迎來一波強彈，\n但不代表是「馬上」，也完全有可能在藍線附近震盪 1~2 個月＂\n\n//\n\n最後，我們可以看到目前的藍線和 STH-RP 都在穩步下移，\n隨著時間的推移，會有更多短期持有者參與到換手之中，\n因此只要價格在當前區域磨得愈久，STH-RP 和藍線都將降至更低的位置。\n\n在此，或許我們能做個有趣的猜想💡：\n深熊估值模型中的 Realized Price、Cointime Price，\n都在隨著時間而逐步上移（即便速度緩慢）；\n而模型藍線則又隨著時間在逐步下移。\n\n📖 BTC 深熊極端估值最新數據\n<a href=\"https://nitter.net/market_beggar/status/2019588384537391573\">nitter.net/market_beggar/status/2…</a>\n\n那，倘若震盪時間足夠久，是否意味著在未來的某一刻，\n我們能看到 Cointime Price 或 Realized Price 和藍線形成共振呢❓\n\n如果真出現了，那或許就是我們不得不重倉出手的絕佳窗口了 ... 👀\n\n不過現在說這些或許有些為時尚早，震盪才剛開始，\n接下來估計有得磨了，保持耐心方為上策。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「一步之遙的黃金坑」：PSIP 週期性抄底訊號近在咫尺\n<a href=\"https://nitter.net/market_beggar/status/2020675527812792811\">nitter.net/market_beggar/status/2…</a>\n\n極端巨量的出現：新一輪震盪博弈的起點\n<a href=\"https://nitter.net/market_beggar/status/2021037913686016212\">nitter.net/market_beggar/status/2…</a>",
+      "publishedAt": "2026-02-11T01:43:00.000Z",
+      "link": "https://x.com/market_beggar/status/2021399682606661737",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHA10Sx_aAAISC5K.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "「藍線的神威」：聊 BTC 下方的強力支撐位 & 歷史覆盤📊\n\n誠如昨日的分析帖所言（下方引文），BTC 現已在下方約 74.5K 的位置，\n再次形成了新的 Equal Lows，也就是 liquidity 聚集區，\n我也因此判定未來有高概率重返 74.5K。\n\n接著此話題，今天再來和深入聊聊目前最接近現價的模型強支撐位👇：\n\n附圖的指標是「偏離度調整的 STH-RP」，在此先幫各位重溫其原理：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：nitter.net/market_beggar/status/1…\n\n//\n\n📊 目前藍線的價格約 = 69,874\n\n之所以想特別把這項數據抓出來和各位聊，其原因很簡單：\n正如昨日的帖子所言，倘若順利走出「74K 的 Stop Hunt」劇本，\n那價格在向下插針、清掃流動性時創出的針尖低點，\n就有很大的概率來到藍線（🔵）的支撐位置，進而形成共振。\n\n為了使各位能夠理解「藍線 🔵」在歷史過往的成績，\n我特別將 2018 年底至今以來，BTC 來到藍線的位置標示如圖，\n以下我將簡單再次以文字的形式說明：\n\n1️⃣ 2018 年底\n價格首次觸碰藍線，並在觸碰藍線後的一個月見底（週期大底）。\n\n2️⃣ 2020 年 3 月\n疫情導致之黑天鵝事件，BTC 恰好跌至藍線支撐，隨後 V 轉上漲。\n\n3️⃣ 2021 年 6~7 月\nBTC 分別於 6 月、7 月觸碰了一次藍線，隨後階段性見底，創出 ATH。\n\n4️⃣ 2022 年 1 月\n跌至藍線後開始反彈，最高幅度約 46%，但最終演變成下跌中繼\n\n5️⃣ 2022 年 6 月\nLuna 事件，BTC 崩跌至藍線區域震盪約 2 個月，\n期間最大反彈幅度約為 43%，但最終因 FTX 事件再次探底。\n\n//\n\n值得注意的是：自 2022 年 6 月的 Luna 事件以來，\nBTC 至今完全沒有再次觸碰藍線，就連觸碰綠線的次數也很少。\n\n基於上述歷史案例，我們不難發現一些結論：\n➡️ 價格在觸碰藍線後，有高概率見底\n➡️ 承上，可能是階段底，也可能是週期大底\n➡️ 來到藍線後，可能迅速 V 轉，也可能停留一段時間才上漲\n➡️ 歷史上無一例外，來到藍線後皆出現一波強力上漲（反彈或反轉皆有）\n\n就我個人的 bias 而言，倘若 BTC 在未來跌破 74.5K 時，\n能夠在踩到藍線的同時完成 Stop Hunt，\n並且出現約 1~2 個月的築底震盪結構（下方盡量不要留下 liquidity），\n那便能大幅提升 BTC 築底成功的概率，而我也將於屆時打滿剩餘的倉位。\n\n此外，比起 V 反，我更希望看到足夠的震盪，以便籌碼於底部進行換手，\n就現階段的市況而言，這將是相對更為穩固的底部基礎形式📈\n\n//\n\n我不知道未來 BTC 在碰到藍線之後，究竟是會出現反彈或反轉；\n不過只要有足夠的底部訊號，我認為就週期性交易的角度而言，\n屆時出手抄底絕對是正期望值的決策。\n\n題外話：我相信在之後跌到藍線的那一刻，如果沒有馬上反彈，\n一定又會有一堆人問：\n👶 「不是說強支撐嗎？怎麼沒有漲？」\n👶 「藍線到了，但感覺沒跌完。」\n👶 「現在藍線是不是失效了？」\n\n如同上述，根據歷史狀況，雖然價格到藍線之後都有高概率迎來一波強彈，\n但不代表是「馬上」，也完全有可能在藍線附近震盪 1~2 個月，\n在此先特別提醒，以便我未來可以直接截圖回覆這些問題🚬\n\n//\n\n最後，由於太多人問了，\n在此簡單和各位聊一下我接下來的操作思路：\n只要下方 74.5K 的 Liquidity（Equal Lows）沒有被清除，\n我就不會將我剩餘的現貨部位打滿。\n\n再次強調：\n由於 Equal Lows 的存在，我相信 BTC 在未來重返 74.5K 的概率極高，\n因此，如果接下來沒有去清掃，而是直接出現一波上漲，\n那我就不會執行任何操作，直到 74.5K 的 Liquidity 被獵取。\n\n詳細的邏輯都寫在下方引文了，有興趣的朋友可以自行參考。\n\n以上就是今天的內容，希望對各位有幫助🫡",
+        "link": "https://x.com/market_beggar/status/2018501752103047340",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAMopDaaoAAHP5L.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2021398691190538748",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "火中取栗！02.06 抄底 $ETH 的大户止盈离场\n\n他在 02.10 上午以 $1925.47 买入 2072.9 枚 ETH，花费 400 万美元，持有五天后决定在 5 小时前以 $2009.56 卖出，最终获利 17.4 万美元\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
+      "contentHtml": "火中取栗！02.06 抄底 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的大户止盈离场\n\n他在 02.10 上午以 $1925.47 买入 2072.9 枚 ETH，花费 400 万美元，持有五天后决定在 5 小时前以 $2009.56 卖出，最终获利 17.4 万美元\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x761F2Ff9dB26E005fc2ea7De1C24B47C78b01b68\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助 |上 Gate App 抢黄金",
+      "publishedAt": "2026-02-11T01:39:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2021398691190538748",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHA1zW2rbcAAAS4R.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2021398455055417830",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "IP被视频AI魔改，对于“老IP”来说\n第一反应是：被侵犯➡️抵制维权（如下图）\n\n但有没有想过，Seedance2.0时刻后\n反而可以是老IP焕发新生的机会：\n授权开放给社区，允许被Mod\n\n或者哪怕像@hazenlee说的：\n“生成含有版权的视频直接交版权费\n而不是直接堵住需求不让生成”\n或者按其他方式比如播放次数、收入来计费/分账？\n并主动提供高质量风格素材包\n（这里甚至可以有一个Github for AIGC视频？）\n把侵权流量引导成可计费的新合规市场机会。\n\n游戏玩家都知道，\n再牛逼的游戏都有生命周期，\n而能让游戏延长、突破生命周期的，\n除自研新作以外只有一条路：可被社区Mod\n\n现代射击电竞的鼻祖CS源自玩家自制Mod，\n王者荣耀LOL鼻祖Dota是魔兽的玩家Mod地图。\n更别提GTA、Roblox、Minecraft这种长命游戏，\n也都是允许，甚至，依赖于玩家社区Mod。\n\n那么在影视领域，像周星驰这种\n随着代际更迭，逐渐式微的老IP，\n原班制作力早已物非人非，失去适应当代的条件，\n与其在无限阴跌中淡出历史舞台，\n不如在Seedance 2.0释放民间生产力后，\n把授权开放给民间社区，\n或许能自下而上地至少回光返照。\n\n比如，同样是周星驰的“大话西游”这种老IP，\n你更想看当代香港导演拍的分支续集？\n还是100万个民间死忠粉里，\n因为视频模型而释放的生产力，\n从而由市场里优胜劣汰出来的爆款分支续集？\n\n游戏行业早早就做了这样的示范：\n独立游戏、社区玩家自制Mod能“倒反天罡”\n是因为在AI加持之前，\n游戏制作本就是一件，个体可以在家里完成的事，\n而影视制作可以由个体在家里完成，才刚刚开始。\n\n第一批敢于、懂得去这么做的老IP，\n也许能因此获得很大的市场新鲜感红利，\n以及更内核的人才红利：\n第一批视频AIGC创作者先锋的支持。\n\n等大家对这种模式习以为常、跟风而至了，\n这种特殊红利时间窗就又过去了。",
+      "contentHtml": "IP被视频AI魔改，对于“老IP”来说\n第一反应是：被侵犯➡️抵制维权（如下图）\n\n但有没有想过，Seedance2.0时刻后\n反而可以是老IP焕发新生的机会：\n授权开放给社区，允许被Mod\n\n或者哪怕像<a href=\"/hazenlee\" title=\"𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀\">@hazenlee</a>说的：\n“生成含有版权的视频直接交版权费\n而不是直接堵住需求不让生成”\n或者按其他方式比如播放次数、收入来计费/分账？\n并主动提供高质量风格素材包\n（这里甚至可以有一个Github for AIGC视频？）\n把侵权流量引导成可计费的新合规市场机会。\n\n游戏玩家都知道，\n再牛逼的游戏都有生命周期，\n而能让游戏延长、突破生命周期的，\n除自研新作以外只有一条路：可被社区Mod\n\n现代射击电竞的鼻祖CS源自玩家自制Mod，\n王者荣耀LOL鼻祖Dota是魔兽的玩家Mod地图。\n更别提GTA、Roblox、Minecraft这种长命游戏，\n也都是允许，甚至，依赖于玩家社区Mod。\n\n那么在影视领域，像周星驰这种\n随着代际更迭，逐渐式微的老IP，\n原班制作力早已物非人非，失去适应当代的条件，\n与其在无限阴跌中淡出历史舞台，\n不如在Seedance 2.0释放民间生产力后，\n把授权开放给民间社区，\n或许能自下而上地至少回光返照。\n\n比如，同样是周星驰的“大话西游”这种老IP，\n你更想看当代香港导演拍的分支续集？\n还是100万个民间死忠粉里，\n因为视频模型而释放的生产力，\n从而由市场里优胜劣汰出来的爆款分支续集？\n\n游戏行业早早就做了这样的示范：\n独立游戏、社区玩家自制Mod能“倒反天罡”\n是因为在AI加持之前，\n游戏制作本就是一件，个体可以在家里完成的事，\n而影视制作可以由个体在家里完成，才刚刚开始。\n\n第一批敢于、懂得去这么做的老IP，\n也许能因此获得很大的市场新鲜感红利，\n以及更内核的人才红利：\n第一批视频AIGC创作者先锋的支持。\n\n等大家对这种模式习以为常、跟风而至了，\n这种特殊红利时间窗就又过去了。",
+      "publishedAt": "2026-02-11T01:38:00.000Z",
+      "link": "https://x.com/coolish/status/2021398455055417830",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHA1zLUhaAAAToak.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xTodd",
+        "displayName": "0xTodd",
+        "content": "同感。\n\n尤其聊到这个 Sora 2 最大 IP 就是山姆奥特曼本人一样。真的，当时看到满坑满谷全是他的视频，确实有点尬，除了 Oliver 谁想天天看他啊😂？\n\n关于 IP 我有一些思考。\n\n作为一个 90 后，我完整地经历了电视→电脑→手机/电脑的变化，相信我，IP 也有阶级滑落的风险。\n\n顶级 IP 的话语权或者议价能力是一直在削弱的。\n\n过去你看电视，就那么一百个频道，曝光有保底，而且顶级 IP 都是饱和式轰炸，所以才能有深入人心的效果（例如 24 小时重播的西游记）。\n\n到了手机时代，我们每天娱乐的总时长没啥变化，甚至由于工作压力开始缩短了，大量新的网红们却拔地而起，这时候大 IP 们陡然发现，人类留给 IP 的时间被分走了。\n\n就好比你看我 0xTodd 这篇文章消耗了 2 分钟，那你就少了 2 分钟去看迪士尼、日漫或者起点小说。\n\n你看了 MrBesat 或者影视飓风一小时，你也同样就少了一小时去看经典 IP。\n\n这倒逼往日的这些顶级 IP 如今必须想办法渗透、搞各种联名，维系它顶级的位置。\n\n否则，它就会从夯/顶级，掉落到人上人/NPC，甚至搞一些狗尾续貂之作，直接变成“拉完了”（例如数码宝贝大冒号）\n\n所以说，你看 Gemini 到第三代了，Nano Banana 2 简直就是法外狂徒，我让生成迪士尼它都直接生成，丝毫不给宇宙最强法务部一点点的面子 👇\n\n而迪士尼，也只能在和 OpenAI 交易之后，才敢姗姗起诉 Google 滥用它的版权（颇有牢蒋在美国宣战之后才一起对日宣战的风范）。\n\n在 AI 时代，IP 们的身段必须比以前更低。你不给素材，你不渗透 AI，你的市场份额就被别人蚕食掉。\n\n比较有代表性的，B 站上现在最火的 AI 人物是科比（老大/牢大），经常看到各种科比整治过年乱问亲戚，科比整顿职场奇葩老板，科比整改校园恶意霸凌等等。\n\nIP 多的是，总有免费的（例如不幸坠机的老大），你不占领 AI 娱乐时间，有的是 IP 排队占领。\n\n而且人们整体来说对新技术是包容的，立法也是。\n\n前一段有个案子就说的就是有人利用 AI 的幻觉起诉，国内互联网法院判 AI 无罪。\n\n外加，很多事情本来就是糊涂账。\n\n例如，我告诉 AI 生成一个，黄色、带电的胖老鼠，AI 自动就生成了非常类似于皮卡丘的东西。这东西太难界定了。\n\n同理，你让字节跳动 Seedance 2.0 生成一个国内的年轻科技博主，它模型自然就想到了这是 Tim 该用 Tim 的声线，甚至赛博丁真何同学也得用 Tim 的声线🤣。\n\n这是海量数据训练的结果，很难确定是侵权。你无法起诉一个“生成了某种画风”的神经网络，这种模糊性是 AI 赠予大众的权力。\n\n我想说的是，IP 下嫁是必然的，看似高雅，最后都要屈从于 AI 巨头们的臭钱、臭流量。\n\n未来 N 年，你还是可以用 AI 爽爽生成 IP 人物，也是大概率的，只不过 AI 会稍贵一点（不考虑算力进步的话）。",
+        "link": "https://x.com/0xTodd/status/2021115900976574712",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAxuwx-aAAUsJSr.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAxu5tRaAAI0Nad.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2021391516909043977",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Our brain is never a truth seeking machine, it's a perceived truth reinforcing machine. this is how LLM works too. With human outsourcing their brains to AI it will only fuel confirmation bias/availability heuristic much more\n\nReal truth seeking is extremely energy consuming",
+      "contentHtml": "Our brain is never a truth seeking machine, it's a perceived truth reinforcing machine. this is how LLM works too. With human outsourcing their brains to AI it will only fuel confirmation bias/availability heuristic much more\n\nReal truth seeking is extremely energy consuming",
+      "publishedAt": "2026-02-11T01:11:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2021391516909043977",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2021292485151010956",
       "username": "TJ_Research",
@@ -11588,72 +11694,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018763062007013777",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "关于SAAS今天的市场看法：来自彭博\n“我问客户：‘跌到什么程度你才愿意捏着鼻子认了（进场买入）？’但就算大家都在认赔出局，我依然没听到有人能确定那个点在哪里，”法武扎说。“人们现在只是在疯狂清仓，价格高低已经无所谓了。”\n\n在24年底的时候，市场认为25年要到SAAS年了，结果是一路被杀跌。主要两个方向：\n1. 营收，对于营收的影响的预期/想象。真的的看行业，具体行业具体分析和现在AI在软件的落地方向\n2. 盈利，非常真实的影响，未来软件不可能按照SEAT收费，因为你的成本不固定了，且会因为使用频率上升而上升。几个月前分析过SEMIANALYSIS DYLAN的采访，讲到了SAAS运营模式的逻辑，以前80%的高利润率被颠覆了，但是SAAS B2B的入场券仍然很高，所以对于已经很多客户的软件公司来说，还是有护城河在那边的，他们的产品要尽快和AI结合，且收费模式可能要更灵活。\n3. 微软，市场财报那天的故事线是云增速不够，实际财报会议里管理层说到只要GPU全部给到云，轻松上40%，所以微软的云增速内部是可以控制的，就像META这季度财报小扎已经从Q3时做出了调整（把更多GPU从研发放到传统业务），马上体现到了营收上。但财报那天我的看法是杀微软更多的是杀整个软件板块。\n4. 软件板块里找被错杀的，说实话，不是非常了解AI的进展和公司本身业务所在的区域，很容易踩雷。微软我还是比较有信心，如论是在软件还是云。FORWARD P/E 22.7倍，如果不是有那么多的不确定性，不会看到那么便宜的估值。是不是值得冒这个风险，各自评断了",
-      "contentHtml": "关于SAAS今天的市场看法：来自彭博\n“我问客户：‘跌到什么程度你才愿意捏着鼻子认了（进场买入）？’但就算大家都在认赔出局，我依然没听到有人能确定那个点在哪里，”法武扎说。“人们现在只是在疯狂清仓，价格高低已经无所谓了。”\n\n在24年底的时候，市场认为25年要到SAAS年了，结果是一路被杀跌。主要两个方向：\n1. 营收，对于营收的影响的预期/想象。真的的看行业，具体行业具体分析和现在AI在软件的落地方向\n2. 盈利，非常真实的影响，未来软件不可能按照SEAT收费，因为你的成本不固定了，且会因为使用频率上升而上升。几个月前分析过SEMIANALYSIS DYLAN的采访，讲到了SAAS运营模式的逻辑，以前80%的高利润率被颠覆了，但是SAAS B2B的入场券仍然很高，所以对于已经很多客户的软件公司来说，还是有护城河在那边的，他们的产品要尽快和AI结合，且收费模式可能要更灵活。\n3. 微软，市场财报那天的故事线是云增速不够，实际财报会议里管理层说到只要GPU全部给到云，轻松上40%，所以微软的云增速内部是可以控制的，就像META这季度财报小扎已经从Q3时做出了调整（把更多GPU从研发放到传统业务），马上体现到了营收上。但财报那天我的看法是杀微软更多的是杀整个软件板块。\n4. 软件板块里找被错杀的，说实话，不是非常了解AI的进展和公司本身业务所在的区域，很容易踩雷。微软我还是比较有信心，如论是在软件还是云。FORWARD P/E 22.7倍，如果不是有那么多的不确定性，不会看到那么便宜的估值。是不是值得冒这个风险，各自评断了",
-      "publishedAt": "2026-02-03T19:06:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2018763062007013777",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018761226151702626",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "不仅仅是资产的行情有价值回归\n人也有",
-      "contentHtml": "不仅仅是资产的行情有价值回归\n人也有",
-      "publishedAt": "2026-02-03T18:59:00.000Z",
-      "link": "https://x.com/hazenlee/status/2018761226151702626",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018756452354244981",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "所以只是顺带着把他杀了？😂",
-      "contentHtml": "所以只是顺带着把他杀了？😂",
-      "publishedAt": "2026-02-03T18:40:00.000Z",
-      "link": "https://x.com/hazenlee/status/2018756452354244981",
-      "quote": {
-        "username": "BTCBruce1",
-        "displayName": "Bruce",
-        "content": "微策略已经被市场狙击过两次了想爆他的 $BTC 均没有成功，而这次市场的目标是Tom Lee的 $BMNR ，并不是易理华。",
-        "link": "https://x.com/BTCBruce1/status/2018756314453967230"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018755255857807548",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "建议华子把清算价放到1400以下\n去年最低点btc74k eth约1400\n现在btc破了74k eth还2开头\n自己掂量办",
-      "contentHtml": "建议华子把清算价放到1400以下\n去年最低点btc74k eth约1400\n现在btc破了74k eth还2开头\n自己掂量办",
-      "publishedAt": "2026-02-03T18:35:00.000Z",
-      "link": "https://x.com/hazenlee/status/2018755255857807548",
       "stats": {
         "replies": 0,
         "retweets": 0,
