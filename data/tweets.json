@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T08:02:26.665Z",
+  "lastUpdated": "2026-02-11T09:08:02.289Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,42 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
+    "newFetched": 522,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2021497110927937836",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "引用推里2023年说的\n“明星脸有偿授权给用户使用”会开始照进现实？\n\n订阅是顶级收益模式，未来：\n明星会是可以被订阅，24小时“陪伴”的？\n就跟在高德导航里换个明星语音包似的？\n\n关于还原真人的精准度方面，\n今天我对 Seedance 2.0 做了进一步的实验，\n发现，别说明星脸的生物特征了，\n它像是无差别对普通人都“建立档案”了一样。\n我也没在网上发过啥精细的五官照片，\n但是它生成还原我生物特征的精细度，\n完全超越我在某些平台“多角度转头扫脸”的程度。\n\n用过Sora2的都有一个体会，\n即使转头扫脸了，但是一旦涉及到生成表情，\n尤其是越大表情的时候，脸越失真。\n\n但是这个SD2.0，我压根都没上传很清楚的照片\n它能达到：\n1. 不同角度张嘴、笑这种大表情的时候，\n动态下脸上每一块肌肉，哪里会凹哪会凸，线条，\n都跟我真人做对应的表情时动态是一样的。\n\n2. 连眉毛哪里淡/浓，\n哪里翘起几根毛的细节，都跟我真人一样，\n但是我给它的照片里根本没体现这么深细节。\n\n表情动态这块，\n感觉像有骨骼 + 肌肉层面基础上的模拟，\n去锁定准确性 + 一致性，\n让普通人都得到Sora2里Sam的那种定制建模程度。\n\n于是我再进一步压力测试它。\n如果你把多张\n因为化妆/镜头或角度拉伸/环境光线等等原因，\n上镜的效果和自己真人有差距，\n和自己真人不太像的照片一并给它，\n它最后能给你完全跟真人效果一样的视频结果出来。\n像是能从多张本是失真的，不同噪音的人脸照里，\n提炼出共性 + 真实的人脸解剖出来。\n\n那么我再进二步压力测试它。\n如图2所示：我只给它我这个正面头像照，\n让它生成转身视频，结果连后脑勺下面的发沿，\n和我真人都能是一样的。\n（去年在X也发过的旅游时后脑勺照片：nitter.net/coolish/status/1972203… ）\n\n距离 Sora2 到现在才半年，\n这样再发展一年会怎么样，细思极恐呀",
+      "contentHtml": "引用推里2023年说的\n“明星脸有偿授权给用户使用”会开始照进现实？\n\n订阅是顶级收益模式，未来：\n明星会是可以被订阅，24小时“陪伴”的？\n就跟在高德导航里换个明星语音包似的？\n\n关于还原真人的精准度方面，\n今天我对 Seedance 2.0 做了进一步的实验，\n发现，别说明星脸的生物特征了，\n它像是无差别对普通人都“建立档案”了一样。\n我也没在网上发过啥精细的五官照片，\n但是它生成还原我生物特征的精细度，\n完全超越我在某些平台“多角度转头扫脸”的程度。\n\n用过Sora2的都有一个体会，\n即使转头扫脸了，但是一旦涉及到生成表情，\n尤其是越大表情的时候，脸越失真。\n\n但是这个SD2.0，我压根都没上传很清楚的照片\n它能达到：\n1. 不同角度张嘴、笑这种大表情的时候，\n动态下脸上每一块肌肉，哪里会凹哪会凸，线条，\n都跟我真人做对应的表情时动态是一样的。\n\n2. 连眉毛哪里淡/浓，\n哪里翘起几根毛的细节，都跟我真人一样，\n但是我给它的照片里根本没体现这么深细节。\n\n表情动态这块，\n感觉像有骨骼 + 肌肉层面基础上的模拟，\n去锁定准确性 + 一致性，\n让普通人都得到Sora2里Sam的那种定制建模程度。\n\n于是我再进一步压力测试它。\n如果你把多张\n因为化妆/镜头或角度拉伸/环境光线等等原因，\n上镜的效果和自己真人有差距，\n和自己真人不太像的照片一并给它，\n它最后能给你完全跟真人效果一样的视频结果出来。\n像是能从多张本是失真的，不同噪音的人脸照里，\n提炼出共性 + 真实的人脸解剖出来。\n\n那么我再进二步压力测试它。\n如图2所示：我只给它我这个正面头像照，\n让它生成转身视频，结果连后脑勺下面的发沿，\n和我真人都能是一样的。\n（去年在X也发过的旅游时后脑勺照片：<a href=\"https://nitter.net/coolish/status/1972203842902413629\">nitter.net/coolish/status/1972203…</a> ）\n\n距离 Sora2 到现在才半年，\n这样再发展一年会怎么样，细思极恐呀",
+      "publishedAt": "2026-02-11T08:10:00.000Z",
+      "link": "https://x.com/coolish/status/2021497110927937836",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHA3M57TagAAxszi.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHA3JgLDa4AAoliv.jpg"
+        }
+      ],
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "并且明星可以从中收取换脸的授权费用，会如何？\n\nAnd what if the celebrities could collect licensing fees for the use of their faces, how would that be?",
+        "link": "https://x.com/coolish/status/1666232759231315968"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2021493273878274234",
       "username": "ai_9684xtpa",
@@ -384,6 +415,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHA2evJhaMAA--SC.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2021446471766409720",
+      "username": "CryptoApprenti1",
+      "displayName": "Dr.Hash“Wesley”",
+      "avatar": "https://nitter.net/pic/profile_images%2F1773897198918651904%2FaSDYiSAb_bigger.jpg",
+      "content": "我发现古早互联网网红都喜欢在币圈立很高大上，真把韭菜当傻子🤣大女主人设，第一个另维，title比名字长20倍，第二个曾颖，第三个徐可，她们还有一个共同特点，都花钱买了 福布斯 30 under 30 🤣…，宣称独立女性，创业精英…自己都亏麻了还要强装镇定，真的都是一个路数，麻烦做下市场调研，现在早就不吃这一套了。",
+      "contentHtml": "我发现古早互联网网红都喜欢在币圈立很高大上，真把韭菜当傻子🤣大女主人设，第一个另维，title比名字长20倍，第二个曾颖，第三个徐可，她们还有一个共同特点，都花钱买了 福布斯 30 under 30 🤣…，宣称独立女性，创业精英…自己都亏麻了还要强装镇定，真的都是一个路数，麻烦做下市场调研，现在早就不吃这一套了。",
+      "publishedAt": "2026-02-11T04:49:00.000Z",
+      "link": "https://x.com/CryptoApprenti1/status/2021446471766409720",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11626,76 +11676,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHAR8KU3boAA_222.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018866216342036750",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "一眼看去都是抛售信息？还是有人在坚定「抄底」的💪\n\n「ETH 波段获利 9922 万美元的聪明钱」过去 8 小时从 #Coinbase 提出 750 枚 $cbBTC ，总价值 5599.9 万美元，平均提出价格 $74665.8\n\n建仓地址 intel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
-      "contentHtml": "一眼看去都是抛售信息？还是有人在坚定「抄底」的💪\n\n「ETH 波段获利 9922 万美元的聪明钱」过去 8 小时从 <a href=\"/search?q=%23Coinbase\">#Coinbase</a> 提出 750 枚 <a href=\"/search?q=%23cbBTC\">$cbBTC</a> ，总价值 5599.9 万美元，平均提出价格 $74665.8\n\n建仓地址 <a href=\"https://intel.arkm.com/explorer/address/0xFB78AA8F38843629e89951D9db6FdC398d75e0A3\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助 |上 Gate App 抢黄金",
-      "publishedAt": "2026-02-04T01:56:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2018866216342036750",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAR0CQpacAAwgM9.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "无限子弹！「ETH 波段获利 9922 万美元的聪明钱」再次豪掷 8,591 万美元抄底 $ETH 和 $BTC 🙌\n\n▶︎ 过去 9 小时从各大交易所提出 20392 ETH，价值 4717 万美元，均价 $2313.35\n▶︎ 过去 2 小时首次建仓 500 枚 cbBTC，价值 3874 万美元，均价 $77484.46\n\n钱包地址\nintel.arkm.com/explorer/addr…\nintel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
-        "link": "https://x.com/ai_9684xtpa/status/2018143506389508387",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAHi0JIaMAAR_yQ.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAHi0KbaUAA7C_l.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2018863164360921376",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
-      "content": "「缺口填補中」：74K 目標如期命中，BTC 跌勢的盡頭在何方🚏\n\n承接下方引文，我在標題中明示的「74K 必到」，\n沒想到在 2 天內就已完成，liquidity 分析的含金量再次獲得印證。\n\n本文，我主要想和各位分享兩件事情：\n1️⃣ 籌碼結構的最新現況\n2️⃣ 後市劇本的重申 & 監測方向\n\n話不多說，咱們進入正文👇：\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n如本文首段所述，今天主要有兩件事要和各位報告，以下分別詳述👇\n\n//\n\n1️⃣ BTC 籌碼結構分布的現況：稀薄區正在被填補\n如果有和我一樣長期追蹤 BTC 籌碼結構的朋友，\n或者說有在關注貝格鏈上週報的朋友，或許都有注意到：\nBTC 在 71~80K 存在一段「接近真空」的區域。\n\n上次我分享 URPD 的帖子是第六十一期的週報，\n從當時的 URPD 圖表中可以清楚看到 71~80K 的稀薄：\nnitter.net/market_beggar/status/2…\n\n如果我們姑且把 71~80K 視作 URPD 真空區，\n那根據 BTC 籌碼結構一致的特性，價格往往會填補每一個真空區域；\n如果在填補前就大幅上漲，日後也將有極大的概率回到此區填補。\n\n📖 URPD 真空缺口的意涵說明\nnitter.net/market_beggar/status/1…\n\n換句話說：如果說上漲的乏力源於填補真空區的需求，\n那這次回到 71~80K 的填補，或許就真正消除了未來主升浪的隱患，\n這對於下一輪牛市的發展，絕對是健康的✅\n\n//\n\n2️⃣ 後市劇本的重申 & 監測方向\n\n首先，為了不浪費各位的時間，對於未來的兩套交易劇本，\n我在下方引文中已有非常詳細、完整的論述，\n有興趣的朋友可以先行閱讀，以下我將不再多作贅述。\n\n首先，昨晚美股時段 BTC 已如期而至來到了 74K，\n清掃了前低（2025 年 4 月留下的針尖）的 liquidity，\n很多朋友也開始詢問：\n💬「劇本 2 出現了嗎？」\n💬「Taker 出現了嗎？有強力 Taker 了嗎？」\n💬「這樣算是完成 Stop Hunt 了嗎？」\n\n由於詢問者太多，在此我打算一次性的回覆這些問題📝：\n➡️ 監測接下來的 1~2 週內，BTC 是否站回 74.5K 之上？\n➡️ 監測站回 74.5K 之上的同時，是否伴隨強力 Taker Buy？\n➡️ 因為級別較大，Taker 並不會馬上跑出來，震盪幾天是可能的\n➡️ 如果一路順暢陰跌，那在 74.5K 作 Stop Hunt 的劇本可能就將失效\n➡️ 承上，屆時將以劇本 3 的方式去應對（詳見下方引文）\n\n如果依然有任何不清楚的地方，可以直接在下方評論區詢問，\n或者直接來公開交流群內（首頁有鏈接），和大家一起討論☕️\n\n//\n\n在此也順便給各位一個比較粗暴的判定方法🔭：\n如果接下來：\n價格始終在「略低於 74.5K」的區域震盪，沒有站回但也沒有一路向下，\n並且在某一天突然出現一根日線的大綠 K 漲回 74.5K 之上，\n那就能提升 74.5K 的 Stop Hunt 成功概率📈\n\n此外，目前稍微美中不足的是「成交量」。\n理想的底部，通常會伴隨「極端巨量（以日線為準）」，\n而此項跡象在目前並沒有出現。\n\n在此順便澄清一些常見的邏輯盲區：\n➡️ 巨量是底部的加分項，但不代表底部必須要有超級巨量❌\n➡️ 底部容易伴隨巨量，但不代表巨量出現就是底部❌\n\n以上就是今天的內容，保持耐心，靜待扳機扣動的黃金時刻🫡\n\n//\n\n📚 相關閱讀資源\n\nBTC 技術面更新：下行風險的提升 & 暴風雨前的短暫安寧\nnitter.net/market_beggar/status/2…\n\n暴風雨如期而至：流動性引力持續發酵，Stop Hunt 近在咫尺\nnitter.net/market_beggar/status/2…\n\n「74K 必到」：新的流動性引力區已然形成\nnitter.net/market_beggar/status/2…\n\n「藍線的神威」：聊 BTC 下方的強力支撐位 & 歷史覆盤\nnitter.net/market_beggar/status/2…\n\n//\n\n【工商時間】\n\n「如果你滿手 U，但又現在不想抄底 ...💰」\n\n來和各位分享一個理財的好去處：Bitget Wallet 鏈上理財\n✅ 長期年化 = 10%，收益來源於 AAVE + Bitget Wallet 長期補貼\n✅ 穩定幣理財（USDC），1 U 起存，支持隨時贖回\n✅ 透明、不碰再質押、不碰循環貸，維持低風險的特性\n\n以上，有興趣的朋友，可以用我以下的邀請碼註冊👇\n邀請碼：「3jTNi6」（需手動綁定）",
-      "contentHtml": "「缺口填補中」：74K 目標如期命中，BTC 跌勢的盡頭在何方🚏\n\n承接下方引文，我在標題中明示的「74K 必到」，\n沒想到在 2 天內就已完成，liquidity 分析的含金量再次獲得印證。\n\n本文，我主要想和各位分享兩件事情：\n1️⃣ 籌碼結構的最新現況\n2️⃣ 後市劇本的重申 & 監測方向\n\n話不多說，咱們進入正文👇：\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\n<a href=\"https://nitter.net/market_beggar/status/1963776996942741931\">nitter.net/market_beggar/status/1…</a>\n\n如本文首段所述，今天主要有兩件事要和各位報告，以下分別詳述👇\n\n//\n\n1️⃣ BTC 籌碼結構分布的現況：稀薄區正在被填補\n如果有和我一樣長期追蹤 BTC 籌碼結構的朋友，\n或者說有在關注貝格鏈上週報的朋友，或許都有注意到：\nBTC 在 71~80K 存在一段「接近真空」的區域。\n\n上次我分享 URPD 的帖子是第六十一期的週報，\n從當時的 URPD 圖表中可以清楚看到 71~80K 的稀薄：\n<a href=\"https://nitter.net/market_beggar/status/2015285111248564358\">nitter.net/market_beggar/status/2…</a>\n\n如果我們姑且把 71~80K 視作 URPD 真空區，\n那根據 BTC 籌碼結構一致的特性，價格往往會填補每一個真空區域；\n如果在填補前就大幅上漲，日後也將有極大的概率回到此區填補。\n\n📖 URPD 真空缺口的意涵說明\n<a href=\"https://nitter.net/market_beggar/status/1884102421485678734\">nitter.net/market_beggar/status/1…</a>\n\n換句話說：如果說上漲的乏力源於填補真空區的需求，\n那這次回到 71~80K 的填補，或許就真正消除了未來主升浪的隱患，\n這對於下一輪牛市的發展，絕對是健康的✅\n\n//\n\n2️⃣ 後市劇本的重申 & 監測方向\n\n首先，為了不浪費各位的時間，對於未來的兩套交易劇本，\n我在下方引文中已有非常詳細、完整的論述，\n有興趣的朋友可以先行閱讀，以下我將不再多作贅述。\n\n首先，昨晚美股時段 BTC 已如期而至來到了 74K，\n清掃了前低（2025 年 4 月留下的針尖）的 liquidity，\n很多朋友也開始詢問：\n💬「劇本 2 出現了嗎？」\n💬「Taker 出現了嗎？有強力 Taker 了嗎？」\n💬「這樣算是完成 Stop Hunt 了嗎？」\n\n由於詢問者太多，在此我打算一次性的回覆這些問題📝：\n➡️ 監測接下來的 1~2 週內，BTC 是否站回 74.5K 之上？\n➡️ 監測站回 74.5K 之上的同時，是否伴隨強力 Taker Buy？\n➡️ 因為級別較大，Taker 並不會馬上跑出來，震盪幾天是可能的\n➡️ 如果一路順暢陰跌，那在 74.5K 作 Stop Hunt 的劇本可能就將失效\n➡️ 承上，屆時將以劇本 3 的方式去應對（詳見下方引文）\n\n如果依然有任何不清楚的地方，可以直接在下方評論區詢問，\n或者直接來公開交流群內（首頁有鏈接），和大家一起討論☕️\n\n//\n\n在此也順便給各位一個比較粗暴的判定方法🔭：\n如果接下來：\n價格始終在「略低於 74.5K」的區域震盪，沒有站回但也沒有一路向下，\n並且在某一天突然出現一根日線的大綠 K 漲回 74.5K 之上，\n那就能提升 74.5K 的 Stop Hunt 成功概率📈\n\n此外，目前稍微美中不足的是「成交量」。\n理想的底部，通常會伴隨「極端巨量（以日線為準）」，\n而此項跡象在目前並沒有出現。\n\n在此順便澄清一些常見的邏輯盲區：\n➡️ 巨量是底部的加分項，但不代表底部必須要有超級巨量❌\n➡️ 底部容易伴隨巨量，但不代表巨量出現就是底部❌\n\n以上就是今天的內容，保持耐心，靜待扳機扣動的黃金時刻🫡\n\n//\n\n📚 相關閱讀資源\n\nBTC 技術面更新：下行風險的提升 & 暴風雨前的短暫安寧\n<a href=\"https://nitter.net/market_beggar/status/2015601869922631908\">nitter.net/market_beggar/status/2…</a>\n\n暴風雨如期而至：流動性引力持續發酵，Stop Hunt 近在咫尺\n<a href=\"https://nitter.net/market_beggar/status/2017051315122426011\">nitter.net/market_beggar/status/2…</a>\n\n「74K 必到」：新的流動性引力區已然形成\n<a href=\"https://nitter.net/market_beggar/status/2018137806816846181\">nitter.net/market_beggar/status/2…</a>\n\n「藍線的神威」：聊 BTC 下方的強力支撐位 & 歷史覆盤\n<a href=\"https://nitter.net/market_beggar/status/2018501752103047340\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n【工商時間】\n\n「如果你滿手 U，但又現在不想抄底 ...💰」\n\n來和各位分享一個理財的好去處：Bitget Wallet 鏈上理財\n✅ 長期年化 = 10%，收益來源於 AAVE + Bitget Wallet 長期補貼\n✅ 穩定幣理財（USDC），1 U 起存，支持隨時贖回\n✅ 透明、不碰再質押、不碰循環貸，維持低風險的特性\n\n以上，有興趣的朋友，可以用我以下的邀請碼註冊👇\n邀請碼：「3jTNi6」（需手動綁定）",
-      "publishedAt": "2026-02-04T01:44:00.000Z",
-      "link": "https://x.com/market_beggar/status/2018863164360921376",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHARxWACbIAInw9S.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「74K 必到」：新的流動性引力區已然形成⚠️\n\n🪧前言：\n本文將結合「Liquidity 分析」和「鏈上分析」的邏輯，\n和各位分享我對於後市的 bias，同時附上接下來的完整交易計畫。\n\n週末突如其來的暴跌，再次引燃了市場的悲觀情緒；\n但或許你沒發現：新的訊號已悄然而至，74K 的獵取已成高概率事件 ...👇：\n\n//\n\n🟡 簡易覆盤\n\n首先，我在先前的帖子曾反覆提及「我對後市的三大劇本」規劃：\n1️⃣ 於 80.5K 完成 Stop Hunt 並築底\n2️⃣ 於 74K 完成 Stop Hunt 並築底\n3️⃣ 上述兩位置皆未出現 Stop Hunt，走更深度的回調\n\n老朋友都知道，所謂 Stop Hunt，需要滿足三大要件才能成立：\n✅ 跌破 liquidity 區域\n✅ 跌破後收回 liquidity 區域之上\n✅ 收回時伴隨強力 taker buy\n\n📖 Stop Hunt 概念詳細解說 & 實盤案例分析\nnitter.net/market_beggar/status/1…\n\nBTC 在週末跌破 80.5K 時，我們並沒有看到強力的 taker buy 出現，\n並且因為是週末時間，即便有 taker buy，根據歷史經驗，\n也有極高的概率是騙炮，當時我在群裡也馬上和各位分享了我的判斷。\n\n💭 貝格先生免費交流群組：nitter.net/market_beggar/status/2…\n\n隨後，BTC 便一路向下貫穿，期間完全沒有 taker buy 願意出來防守，\n至此，我先前規劃的劇本 1 已確定失效，市場方向也漸趨明朗。\n\n//\n\n🟡 新的風險訊號已悄然而至\n\n除了確認劇本 1 的失效以外，週末的這波暴跌還給了另一項重要訊號：\n「BTC 再次於 74K 的位置形成新的 Equal Lows‼️」\n\n所謂 Equal Lows，是指線型上非常接近的水平針尖，\n並且這些針尖在非常接近的同時，皆沒有低於最左側的針尖。\n\nEqual Lows 的存在，意味著「Liquidity 大量聚集」，\n根據我先前反覆提及的「Liquidity 引力效應」，\n價格在未來將有極高的概率，回到 Equal Lows 的位置並獵取該區的流動性。\n\n如附圖所示：\n「週末下跌的最低點，已和 2025 年 4 月的低點形成新的 Equal Lows」，\n這意味著接下來的行情不論如何發展，\n未來都有極高的概率再次重返到 74K 的位置，將 liquidity 清掃完畢‼️\n\nEqual Lows 這類 liquidity 聚集區的實際運用方式，\n我也已在 X 上公開分享多次，前段時間我在暴跌前發布的\n「下行風險的提升 & 暴風雨前的短暫安寧」一文中，\n也正是使用了 Liquidity 的概念去預測 BTC 的走勢，\n而事實也再次證明了 Liquidity 威力。\n\n📖 BTC 技術面更新：下行風險的提升 & 暴風雨前的短暫安寧\nnitter.net/market_beggar/status/2…\n\n如果你依然不信，可以去覆盤 BTC 的歷史 K 線，\n看看是否有「至今完全沒被摸過的 Equal Lows / Highs」，\n相信所有質疑的朋友，在覆盤之後都能理解我的意思。\n\n//\n\n🟡 後續的交易劇本\n\n如同前述，目前我自己瞄準的劇本有二，在此分別細說：\n\n🔸一、在 74K 完成 Stop Hunt 並築底，確認大級別底部\n老規矩，如果要完成 Stop Hunt，以下三要素缺一不可：\n✅ 跌破 74K\n✅ 跌破後收回 74K 之上\n✅ 收回時伴隨強力 taker buy\n\n值得注意的是：74K 下方恰好是另一鏈上模型的超強支撐位，\n也就是我很常和各位分享的「偏離度調整的 STH-RP 模型」📊\n\n📖 向下逼近的短期持有者成本 & 強力支撐區域數據更新\nnitter.net/market_beggar/status/2…\n\n目前此模型的藍線位置約是「70K」，如果真能完成 Stop Hunt，\n那效力恰好能和此模型形成共振，為後續的上漲築出堅實的底部基礎📈\n\n-\n\n🔸二、在 74K 未出現 Stop Hunt，往下尋找支撐\n\n如果未來在跌破 74K 之時，完全沒有出現 taker 願意出來護盤，\n那價格就可能「真正跌破」74K，屆時我們就需透過其他方式來尋找底部。\n\n這部分的內容我曾多次分享，有興趣的朋友可以先閱讀以下帖子：\n📖 BTC 深熊極端估值最新數據\nnitter.net/market_beggar/status/2…\n\n在此附上幾項我個人會特別關注的數據、模型：\n\n➡️ Cointime Price：目前價格約 = 51,667\n指標詳細說明：nitter.net/market_beggar/status/1…\n➡️ Realized Price（全市場平均成本）：目前價格約 = 55,868\n指標詳細說明：nitter.net/market_beggar/status/1…\n➡️ AVIV Heatmap 藍色區域：目前價格約 = 65,220\n指標詳細說明：nitter.net/market_beggar/status/2…\n\n換句話說：倘若未來真跌至這些模型給出的位置，\n我可以向各位擔保「這絕對是週期級別的超級黃金坑」，\n而我也必將身先士卒，在這些位置打入我剩餘的資金，並考慮帶上槓桿💰\n\n如果你感到懷疑，可以直接點進上方附上的「指標說明」，\n內有「以往價格跌至該價位時的表現」，\n你會發現：全是每一輪的週期大底區域，至今無一例外。\n\n//\n\n🟡 2024 年的超級盤整區\n\n在此和各位分享、補充另一項同樣也非常值得注意的支撐區域。\n\n夢回 2024 年，在該年 3 月 BTC 出現了第一次大規模派發之後，\nBTC 便開啟了長達超 200 日的寬幅震盪，最終因 Trump 的勝選，\n才開啟了下一波主升浪，但同時也迎來了第二波大規模派發。\n\n📖 2025 年初逃頂帖：或許你需要做好隨時逃頂的準備\nnitter.net/market_beggar/status/1…\n\n各位或許沒有發現：\nBTC 在同一寬幅區間內震盪超 200 日的案例，可謂少之又少。\n震盪的本質就是「籌碼的換手」，停留的時間愈久，\n說明價格「在該區域的買盤，完全可以抗衡來自老籌碼的拋售」，\n這也就意味著「有大量資金對於該區域的 BTC 是願意買入的」。\n\n按理而言，震盪一段時間就會出方向，因為多空雙方在達到恐怖平衡時，\n任何一絲風吹草動都可能成為 trigger 行情啟動的最後一根稻草🌾\n\n但長達超 200 日之久的震盪，的確實屬罕見，\n當時恰逢 ETF 批准後不久，大量外部資金的入場，\n完全接住了來自老牌巨鯨們的拋售，\n這無疑為該區域打下了堅實的底部基礎，因此我們不難理解：\n「當時的盤整區（49~74K）有極大概率是強力支撐區」。\n\n至此，相信各位都發現了💡：\n上述那些極其強悍的深熊底部估值們，\n給出的位置又恰好完美重合於此大型盤整區。\n\n綜合上述的推論，我認為：\n「BTC 本輪的週期性底部，有不小的概率將在 49~74K 之間完成‼️」\n\n不論你是否相信，話已至此，且待時間驗證。\n\n//\n\n🟡 結語\n\n以下，簡單幫各位做個總結📝：\n\n🔺 跌破 80.5K 時未見 Taker Buy，先前提及的劇本 1 確認失效\n🔺 價格在 74K 形成新的 Equal Lows，未來有極高概率跌破\n🔺 未來的劇本 1：74K 完成 Stop Hunt，和 STH-RP 模型藍線共振\n🔺 未來的劇本 2：74K 沒有 Stop Hunt，向下尋找更強的支撐\n🔺 2024 年 3~11 月的大型盤整區，有不小的概率成為本輪週期的大底\n\n或許很多人對於劇本 1 的失效感到失望、徬徨，\n但我反倒認為「市況正在一步一步的走向明朗」，這並不是壞事。\n\n交易的本質正是如此：「規劃，然後驗證」。\n如今劇本 1 的可能性已被排除，下方又是大量強力支撐，\n如果你和我一樣長期看好 BTC、同意 BTC 的革命性價值，\n那我認為這波下跌應是令所有多軍都感到雀躍的事情，\n因為你不得不承認：BTC 這項優質資產已愈來愈便宜了💎\n\n如果你嫌 10 萬以上的 BTC 太貴了，那現在難道不該感到開心嗎？\n\n本文的篇幅稍嫌有些長了，因為我希望把所有狀況都說明白，還望各位海涵。\n\n以上，希望對各位有幫助；新的一週，祝各位交易順利🫡",
-        "link": "https://x.com/market_beggar/status/2018137806816846181",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAHdolva8AAv8vp.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
