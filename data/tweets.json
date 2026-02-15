@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T06:32:52.194Z",
+  "lastUpdated": "2026-02-15T07:27:59.634Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -94,6 +94,69 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2022928821297516585",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "最近一堆人在吹 GPT 5.3 多強多強，但大家可能忽略了一件事情，5.3 這個版本目前只開放給 Codex 用戶。\n\nAPI 跟 ChatGPT 網頁版用戶都沒辦法用，就是一小撮人在用。\n\n當模型只開放給少量用戶時，算力充裕，推理可以跑得更完整、延遲更低。\n\n一旦全面開放給數百萬 API 和網頁用戶，為了控制成本和延遲，通常會做一些 trade-off，比如更積極的 batching、可能調整 sampling 參數、甚至用蒸餾版本替代等等。\n\n這就是現在那些「GPT 5.3 超猛」體驗文的背景條件。\n\nOpus 4.6 目前是 API 開放，網頁版開放，Claude Code 也開放。全世界的用戶同時在用，它扛的是真實的、大規模的流量。\n\n你拿一個只服務少量用戶的模型體驗，去跟一個全面開放的模型比，這公平嗎？\n\nSam Altman 很聰明，先把最強的模型鎖在 Codex 裡面，製造一波「稀缺感」跟口碑，因為 Coding Tool 很賺錢，而 Codex 是 Claude Code 的追趕者，他必須要創造最好的使用體驗。\n\n所以現在那些吹 5.3 的體驗文，某種程度上就是一個短暫的紅利。\n\nOpus 4.6 是在全量開放的真實戰場上跟你比的。等 GPT 5.3 也上了同一個戰場，再來說誰強誰弱也不遲。",
+      "contentHtml": "最近一堆人在吹 GPT 5.3 多強多強，但大家可能忽略了一件事情，5.3 這個版本目前只開放給 Codex 用戶。\n\nAPI 跟 ChatGPT 網頁版用戶都沒辦法用，就是一小撮人在用。\n\n當模型只開放給少量用戶時，算力充裕，推理可以跑得更完整、延遲更低。\n\n一旦全面開放給數百萬 API 和網頁用戶，為了控制成本和延遲，通常會做一些 trade-off，比如更積極的 batching、可能調整 sampling 參數、甚至用蒸餾版本替代等等。\n\n這就是現在那些「GPT 5.3 超猛」體驗文的背景條件。\n\nOpus 4.6 目前是 API 開放，網頁版開放，Claude Code 也開放。全世界的用戶同時在用，它扛的是真實的、大規模的流量。\n\n你拿一個只服務少量用戶的模型體驗，去跟一個全面開放的模型比，這公平嗎？\n\nSam Altman 很聰明，先把最強的模型鎖在 Codex 裡面，製造一波「稀缺感」跟口碑，因為 Coding Tool 很賺錢，而 Codex 是 Claude Code 的追趕者，他必須要創造最好的使用體驗。\n\n所以現在那些吹 5.3 的體驗文，某種程度上就是一個短暫的紅利。\n\nOpus 4.6 是在全量開放的真實戰場上跟你比的。等 GPT 5.3 也上了同一個戰場，再來說誰強誰弱也不遲。",
+      "publishedAt": "2026-02-15T06:59:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2022928821297516585",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2022926390128247190",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "累计做多 10.5 万枚 $ETH 的多军部分止盈了！💰\n\n过去 24 小时其中一个地址已平掉 28000 枚 ETH 的多单并盈利 126.3 万美元，平仓均价 $2094.02，目前该地址仍持有 32000 ETH ，浮盈 119.3 万美元\n\n此外，他还在 [$2,100 - $2,110] 区间挂了 3000 ETH 的限价卖单，两个地址目前累计持有 77,000 枚 ETH 的多单，总价值 1.6 亿美元\n\n传送门hypurrscan.io/address/0xa5b0…\nhypurrscan.io/address/0x6C85…",
+      "contentHtml": "累计做多 10.5 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的多军部分止盈了！💰\n\n过去 24 小时其中一个地址已平掉 28000 枚 ETH 的多单并盈利 126.3 万美元，平仓均价 $2094.02，目前该地址仍持有 32000 ETH ，浮盈 119.3 万美元\n\n此外，他还在 [$2,100 - $2,110] 区间挂了 3000 ETH 的限价卖单，两个地址目前累计持有 77,000 枚 ETH 的多单，总价值 1.6 亿美元\n\n传送门<a href=\"https://hypurrscan.io/address/0xa5b0edf6b55128e0ddae8e51ac538c3188401d41#perps\">hypurrscan.io/address/0xa5b0…</a>\n<a href=\"https://hypurrscan.io/address/0x6C8512516Ce5669d35113A11Ca8B8DE322fD84F6#perps\">hypurrscan.io/address/0x6C85…</a>",
+      "publishedAt": "2026-02-15T06:50:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2022926390128247190",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBLgsEubAAAhnqA.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "累计做多 10.5 万枚 $ETH 的多军已回到水上，收回超一千万浮亏，现浮盈 216.7 万美元😆\n\n▶︎ 地址 0xa5B…01D41：持仓 6 万枚 ETH（1.23 亿美元），开仓价 $2,048.9，浮赢 74.9 万美元\n▶︎ 地址 0x6C8…D84F6：持仓 4.5 万枚 ETH（9282 万美元），开仓价 $2,029.38，浮赢 141.8 万美元\n\n传送门\nhypurrscan.io/address/0xa5b0…\nhypurrscan.io/address/0x6C85…",
+        "link": "https://x.com/ai_9684xtpa/status/2022583638882460032",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHBGov0ba8AALGU0.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2022924907777249514",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "昨天發了文之後，有人問用本地 proxy 把 Claude CLI 接到 OpenClaw 當大腦，到底算不算違反使用條款？  \n\n先講結論：不算。  \n\n我的做法是直接在本地端用 claude -p 去呼叫 CLI。這是官方內建的 print mode，文件裡寫得清清楚楚可以拿來做 scripting 跟 automation。這是正門，不是後門。  \n\nOpenClaw 呼叫 claude -p 跟你在 terminal 手動打 claude -p 走的是同一條路。都是直接跑官方 binary，沒有攔截 auth、沒有 proxy 改 request、沒有偽裝 client。如果這樣算違規，那 cron job 定時跑也違規？GitHub Actions 裡面跑也違規？  \n\n那 Anthropic 真正在擋的是什麼？看 OpenCode 跟 Crush 的案例就知道。\n\nOpenCode 逆向了 Claude Code 的私有 API，偽裝 client identity 還移除速率限制，被 Anthropic 部署 fingerprinting 後一夕全掛。Crush 也是類似做法，Anthropic 直接聯繫維護者要求移除。  \n\n共同點都是偽裝官方 client，移除官方內建的速率限制，拿訂閱 token 去打私有 API。Anthropic 沒辦法區分這些 request 是誰發的，等於失去用量管控能力。  \n\n我的做法是直接呼叫官方 CLI，速率限制、fingerprint 檢查全部照吃，Anthropic 看到的就是一個正常的 Claude Code 使用者。 主要用途就是我本人透過 TG 跟 Discord 跟 Opus 4.6 互動，機械化的重複性任務交給其他原生的 OpenClaw Agent 代勞。到底有啥問題？  \n\n退一萬步講，之所以用本地 proxy 只是為了跟 OpenClaw 串接，借用它已經寫好的 message tool 跟 orchestration。如果這些 tool 我都自己寫，根本不需要 proxy，大大方方寫一個 app 去控制 CLI 就好了。proxy 是工程上的捷徑，不是繞路的手段。  \n\nAnthropic 在意的是營收損失，跟你有沒有偽裝 client identity 去繞過管控機制。從商業角度來說，Anthropic 要擋我這種用法，等於要擋所有用 claude -p 做 scripting 的人，一定會誤殺大量正常用戶，不可能這樣做的。",
+      "contentHtml": "昨天發了文之後，有人問用本地 proxy 把 Claude CLI 接到 OpenClaw 當大腦，到底算不算違反使用條款？  \n\n先講結論：不算。  \n\n我的做法是直接在本地端用 claude -p 去呼叫 CLI。這是官方內建的 print mode，文件裡寫得清清楚楚可以拿來做 scripting 跟 automation。這是正門，不是後門。  \n\nOpenClaw 呼叫 claude -p 跟你在 terminal 手動打 claude -p 走的是同一條路。都是直接跑官方 binary，沒有攔截 auth、沒有 proxy 改 request、沒有偽裝 client。如果這樣算違規，那 cron job 定時跑也違規？GitHub Actions 裡面跑也違規？  \n\n那 Anthropic 真正在擋的是什麼？看 OpenCode 跟 Crush 的案例就知道。\n\nOpenCode 逆向了 Claude Code 的私有 API，偽裝 client identity 還移除速率限制，被 Anthropic 部署 fingerprinting 後一夕全掛。Crush 也是類似做法，Anthropic 直接聯繫維護者要求移除。  \n\n共同點都是偽裝官方 client，移除官方內建的速率限制，拿訂閱 token 去打私有 API。Anthropic 沒辦法區分這些 request 是誰發的，等於失去用量管控能力。  \n\n我的做法是直接呼叫官方 CLI，速率限制、fingerprint 檢查全部照吃，Anthropic 看到的就是一個正常的 Claude Code 使用者。 主要用途就是我本人透過 TG 跟 Discord 跟 Opus 4.6 互動，機械化的重複性任務交給其他原生的 OpenClaw Agent 代勞。到底有啥問題？  \n\n退一萬步講，之所以用本地 proxy 只是為了跟 OpenClaw 串接，借用它已經寫好的 message tool 跟 orchestration。如果這些 tool 我都自己寫，根本不需要 proxy，大大方方寫一個 app 去控制 CLI 就好了。proxy 是工程上的捷徑，不是繞路的手段。  \n\nAnthropic 在意的是營收損失，跟你有沒有偽裝 client identity 去繞過管控機制。從商業角度來說，Anthropic 要擋我這種用法，等於要擋所有用 claude -p 做 scripting 的人，一定會誤殺大量正常用戶，不可能這樣做的。",
+      "publishedAt": "2026-02-15T06:44:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2022924907777249514",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2022921058450600098",
       "username": "coolish",
@@ -11511,105 +11574,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHAcAawtacAMEqRs.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019581831671427495",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "易老板又是 8000 $ETH 充值进币安，价值 1510 万美元\n\n最新清算区间为  [$1523 - $1681]，当前持仓 455335.03 枚 ETH\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
-      "contentHtml": "易老板又是 8000 <a href=\"/search?q=%23ETH\">$ETH</a> 充值进币安，价值 1510 万美元\n\n最新清算区间为  [$1523 - $1681]，当前持仓 455335.03 枚 ETH\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0xE5C248D8d3F3871bD0f68E9C4743459C43BB4e4c\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助 |上 Gate App 抢黄金",
-      "publishedAt": "2026-02-06T01:20:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2019581831671427495",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAb-9h4acAAfHKG.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "清算当前，易老板割肉了 8000 ETH🔪\n\n4 分钟前他将价值 1481 万美元的 $ETH 充值进了币安，疑似卖出；该地址目前是离清算最近的，在 USDT 没有提回来之前，清算价更新为 $1701\n\n钱包地址 intel.arkm.com/explorer/addr…",
-        "link": "https://x.com/ai_9684xtpa/status/2019574730144251984",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAb4gUiaAAAs3la.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019579111170285910",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "以太坊 $ETH 左侧买入第一笔现货。",
-      "contentHtml": "以太坊 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 左侧买入第一笔现货。",
-      "publishedAt": "2026-02-06T01:09:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2019579111170285910",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAb8fupbYAAqWQ9.jpg"
-        }
-      ],
-      "quote": {
-        "username": "CycleStudies",
-        "displayName": "百萬Eric | Day Trader",
-        "content": "等，可能会错过行情，甚至错过“捡钱”的机会，但这些都是行情走完之后的后话。\n\n而不等，仅凭情绪、感觉直接冲进去，即便这次赚了，最终大概率也会亏回去。\n\n衡量两者，我宁愿错过，也不愿做错。\n\n因此，对于尚未出现买入信号的以太坊 $ETH ，我选择继续等。信号出现时，我会第一时间同步给各位。",
-        "link": "https://x.com/CycleStudies/status/2018145160388071503",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAHkUzHaoAAg02h.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019578644541370554",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "鸽子也唱多了🕊\n\n“在血流成河时买入，哪怕是你自己的血”",
-      "contentHtml": "鸽子也唱多了🕊\n\n“在血流成河时买入，哪怕是你自己的血”",
-      "publishedAt": "2026-02-06T01:07:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2019578644541370554",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAb69lqacAMP2T0.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "方程式创始人 Vida 带着他的 2000 万刀入场了🔫\n\n从 $70500 买到 $60035，目前共花费 800 万美元买入 128.28 BTC，平均成本约 $62,363.57，现浮亏 6 万美元\n\n不过他也提到这次的策略是「scalping」，即短时间博反弹获利",
-        "link": "https://x.com/ai_9684xtpa/status/2019569710157922690",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAbzlvYaMAAIVtD.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
