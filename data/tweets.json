@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T05:40:01.546Z",
+  "lastUpdated": "2026-02-15T06:32:52.194Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,84 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 521,
+    "newFetched": 523,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2022921058450600098",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "nitter.net/coolish/status/1752309…",
+      "contentHtml": "<a href=\"https://nitter.net/coolish/status/1752309033200222243?s=46\">nitter.net/coolish/status/1752309…</a>",
+      "publishedAt": "2026-02-15T06:28:00.000Z",
+      "link": "https://x.com/coolish/status/2022921058450600098",
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "AI叙事，可能是ETH迫切需要的“Web4”，\n可能是ETH/BTC汇率眼前仅剩不多的救命稻草，\n因为这是ETH有机会和BTC加深差异化的utility方向。\n\nRWA什么的，属于新瓶装旧酒，\n但 #AI 相对来说，尚属于新瓶新酒，且“长坡厚雪”+有全局热钱。\n\n另一方面，从“被ETH/BTC汇率套牢”的人群画像来讲，\n受汇率套牢伤害最深的人，\n不是低净值degen玩家，而是中高净值“投资者”，\n尤其是被前两年Defi老故事吸引进场的人群，\n他们需要AI这个“Web4”新叙事，\n但他们还没有来得及搞懂如何换车拥抱它，\n甚至他们还没反应过来自己需要它。\n\n而ETH ETF叙事，不是ETH的内在差异化竞争力，\n如果ETH和BTC的ETF同时在货架上的时候，很有可能还是BTC的ETF更胜一筹，所以炒 #ETH ETF只是短期催化剂，而且还得要求你抢跑，无论是抢跑买还是抢跑卖。",
+        "link": "https://x.com/coolish/status/1752309033200222243",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGFFzT-dawAAJbJo.png"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGFFzWUabcAAd5p-.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2022919832212246793",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "同样这个提示词：\n\nX 全网最早是谁提出，以太坊+AI可能是Web4？\n\n不同的账号去问Grok，会有不一样回答吗？\n\n nitter.net/i/grok/share/360b534e5…",
+      "contentHtml": "同样这个提示词：\n\nX 全网最早是谁提出，以太坊+AI可能是Web4？\n\n不同的账号去问Grok，会有不一样回答吗？\n\n <a href=\"https://nitter.net/i/grok/share/360b534e50a442668c361df756c710ba\">nitter.net/i/grok/share/360b534e5…</a>",
+      "publishedAt": "2026-02-15T06:24:00.000Z",
+      "link": "https://x.com/coolish/status/2022919832212246793",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2022911668553155007",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "True Market Mean Price and AVIV are indeed excellent indicators\n\nI’ve been experimenting with a standardized version: \n(SMA(AVIV, 1440) - N * STD(AVIV, 1440)) * True Market Mean Price\n\nThe results are impressive, especially in fitting historical bear market bottoms. Unlike many other indicators that suffer from \"upward drift\" over time, this model stays remarkably consistent across historical cycle bottoms.\n\nIt further proves that the logic behind True Market Mean Price—specifically filtering out lost or dormant supply—is the gold standard for identifying real floor value. 🛡️\n\nWould love to hear your thoughts! @Checkmatey @glassnode",
+      "contentHtml": "True Market Mean Price and AVIV are indeed excellent indicators\n\nI’ve been experimenting with a standardized version: \n(SMA(AVIV, 1440) - N * STD(AVIV, 1440)) * True Market Mean Price\n\nThe results are impressive, especially in fitting historical bear market bottoms. Unlike many other indicators that suffer from \"upward drift\" over time, this model stays remarkably consistent across historical cycle bottoms.\n\nIt further proves that the logic behind True Market Mean Price—specifically filtering out lost or dormant supply—is the gold standard for identifying real floor value. 🛡️\n\nWould love to hear your thoughts! <a href=\"/Checkmatey\" title=\"Checkmatey\">@Checkmatey</a> <a href=\"/glassnode\" title=\"glassnode\">@glassnode</a>",
+      "publishedAt": "2026-02-15T05:51:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2022911668553155007",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBLNw8XaEAAQ9xw.jpg"
+        }
+      ],
+      "quote": {
+        "username": "_Checkmatey_",
+        "displayName": "_Checkmate 🟠🔑⚡☢️🛢️",
+        "content": "The concept you're touching on is why we developed the True Market Mean.\n\n- Lost and long dormant coins hold tremendous volumes of unrealised profit, but they do not respond to it, often because they cannot (if lost).\n\n- Active supply therefore must carry equivalent unrealised losses to offset that to reach a break-even MVRV of 1.0. However, they CAN and do respond by locking in losses.\n\nYou're thinking about this the right way.",
+        "link": "https://x.com/_Checkmatey_/status/2022848476221182352"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2022900853821313450",
       "username": "0xSunNFT",
@@ -11537,75 +11610,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019578083150557612",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "更新：1493 万枚 USDT 提出来，8 千枚 ETH 以 $1,865.74 卖掉了",
-      "contentHtml": "更新：1493 万枚 USDT 提出来，8 千枚 ETH 以 $1,865.74 卖掉了",
-      "publishedAt": "2026-02-06T01:05:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2019578083150557612",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAb7jqwasAAOYkl.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019576652200911213",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "华子早上卖 晚上扛",
-      "contentHtml": "华子早上卖 晚上扛",
-      "publishedAt": "2026-02-06T00:59:00.000Z",
-      "link": "https://x.com/hazenlee/status/2019576652200911213",
-      "quote": {
-        "username": "EmberCN",
-        "displayName": "余烬",
-        "content": "易老板终于睡醒了，开始减仓了。刚才转了 8000 ETH ($1480 万) 进去币安。\n\nintel.arkm.com/explorer/enti…\n\n---------------------------------------------------------\n本文由 @Bitget 赞助｜Bitget VIP，费率更低，福利更狠",
-        "link": "https://x.com/EmberCN/status/2019573553528807562",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAb3YVaacAMqqkZ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019575711514914937",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "更新：Vida 已止盈 6.3w 买入的 200 万美元 BTC，还有 600 万美元的货在手里",
-      "contentHtml": "更新：Vida 已止盈 6.3w 买入的 200 万美元 BTC，还有 600 万美元的货在手里",
-      "publishedAt": "2026-02-06T00:55:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2019575711514914937",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAb5NyoaAAAhCBZ.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
