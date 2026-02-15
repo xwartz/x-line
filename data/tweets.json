@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T07:27:59.634Z",
+  "lastUpdated": "2026-02-15T07:56:47.622Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,59 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 523,
+    "newFetched": 520,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2022941346395492545",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "哦，对了！这个算法只要T2权限就可以使用，买过Glassnode会员的小伙伴可以自己复刻和学习哦。",
+      "contentHtml": "哦，对了！这个算法只要T2权限就可以使用，买过Glassnode会员的小伙伴可以自己复刻和学习哦。",
+      "publishedAt": "2026-02-15T07:49:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2022941346395492545",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2022940934728782153",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "看到熊猫老师 @0xCryptoChan 在和 Checkmate 讨论关于“因大量丢失或长期沉睡的BTC所蕴藏的巨大的未实现利润，对指标有效性的影响”，对此深有体会，这和前几天我们通过测算 < 10y_RP 来衡量触发深熊概率的初衷是一样的。\n\n因此，我根据他公开的算法：(SMA(AVIV, 1440) - N * STD(AVIV, 1440)) * True Market Mean Price，复刻了这个以“AVIV”为基础的极限价格偏差的指标。\n\nAVIV 极端偏差定价区间（4年滚动窗口）\n\n有以下几点体会，也和小伙伴们一起分享：\n\n1、指标以AVIV为基础，相比与MVRV，它规避了长期不移动和矿工手上的筹码带来的干扰因素。同时，标注差本身也是统计学问题。虽然它还是属于刻学指标，但在算法上已经做到了所有能做的一切；尽量屏蔽干扰，还原真实。\n\n2、纵观全局，以向上1.5个标准差 (+1.5 std，红线) 作为顶部区间的划分，对于判断周期见顶的效果正在减弱，从上轮周期第二个顶部开始就无法触发信号。只能以高于+0.5 std (橙线) 为牛市开启的模糊判断标准。\n\n3、但作为多轮周期熊底的判断标准却非常有效。跌破 -1 std (蓝线) 即代表进入熊市底部区间。未必要”刻“一定会到 -1.5 std (紫线)，有时也会靠近，但只要”触碰“到，就大概率是精准的抄底信号。 \n\n4、在蓝线获得支撑时，反弹到绿线就是阻力位。如果跌破蓝线，且在紫线获得支撑，那么下一次突破蓝线就是熊市结束的信号。\n\n目前，绿线在$79,000左右，蓝线是$65,600，紫线是$52,100，这和我们之前测算的低于< 10y_RP就是熊底区间的结论非常接近，说明把10y+的数据剔除后结论更加趋于一致。\n\n最后，要感谢熊猫老师的无私分享，和极具建设性的探讨！",
+      "contentHtml": "看到熊猫老师 <a href=\"/0xCryptoChan\" title=\"CryptoChan\">@0xCryptoChan</a> 在和 Checkmate 讨论关于“因大量丢失或长期沉睡的BTC所蕴藏的巨大的未实现利润，对指标有效性的影响”，对此深有体会，这和前几天我们通过测算 &lt; 10y_RP 来衡量触发深熊概率的初衷是一样的。\n\n因此，我根据他公开的算法：(SMA(AVIV, 1440) - N * STD(AVIV, 1440)) * True Market Mean Price，复刻了这个以“AVIV”为基础的极限价格偏差的指标。\n\nAVIV 极端偏差定价区间（4年滚动窗口）\n\n有以下几点体会，也和小伙伴们一起分享：\n\n1、指标以AVIV为基础，相比与MVRV，它规避了长期不移动和矿工手上的筹码带来的干扰因素。同时，标注差本身也是统计学问题。虽然它还是属于刻学指标，但在算法上已经做到了所有能做的一切；尽量屏蔽干扰，还原真实。\n\n2、纵观全局，以向上1.5个标准差 (+1.5 std，红线) 作为顶部区间的划分，对于判断周期见顶的效果正在减弱，从上轮周期第二个顶部开始就无法触发信号。只能以高于+0.5 std (橙线) 为牛市开启的模糊判断标准。\n\n3、但作为多轮周期熊底的判断标准却非常有效。跌破 -1 std (蓝线) 即代表进入熊市底部区间。未必要”刻“一定会到 -1.5 std (紫线)，有时也会靠近，但只要”触碰“到，就大概率是精准的抄底信号。 \n\n4、在蓝线获得支撑时，反弹到绿线就是阻力位。如果跌破蓝线，且在紫线获得支撑，那么下一次突破蓝线就是熊市结束的信号。\n\n目前，绿线在$79,000左右，蓝线是$65,600，紫线是$52,100，这和我们之前测算的低于&lt; 10y_RP就是熊底区间的结论非常接近，说明把10y+的数据剔除后结论更加趋于一致。\n\n最后，要感谢熊猫老师的无私分享，和极具建设性的探讨！",
+      "publishedAt": "2026-02-15T07:47:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2022940934728782153",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBLtmQ1bQAAfNGx.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "True Market Mean Price and AVIV are indeed excellent indicators\n\nI’ve been experimenting with a standardized version: \n(SMA(AVIV, 1440) - N * STD(AVIV, 1440)) * True Market Mean Price\n\nThe results are impressive, especially in fitting historical bear market bottoms. Unlike many other indicators that suffer from \"upward drift\" over time, this model stays remarkably consistent across historical cycle bottoms.\n\nIt further proves that the logic behind True Market Mean Price—specifically filtering out lost or dormant supply—is the gold standard for identifying real floor value. 🛡️\n\nWould love to hear your thoughts! @Checkmatey @glassnode",
+        "link": "https://x.com/0xCryptoChan/status/2022911668553155007",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHBLNw8XaEAAQ9xw.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2022928821297516585",
       "username": "BensonTWN",
@@ -11532,48 +11580,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019584449810448595",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "2/ 更新：Vida 在 tg 群表示已完全退出该仓位\n\n另外，他此前抄底的 300 万美元 BTC 现货，成本目前在 5.9w 附近，将坚定持有",
-      "contentHtml": "2/ 更新：Vida 在 tg 群表示已完全退出该仓位\n\n另外，他此前抄底的 300 万美元 BTC 现货，成本目前在 5.9w 附近，将坚定持有",
-      "publishedAt": "2026-02-06T01:30:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2019584449810448595",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAcAqS-acAQE1m_.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019583463620555106",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "更新：再卖 11000 $ETH ，真怕了  \n\n钱包地址 intel.arkm.com/explorer/addr…",
-      "contentHtml": "更新：再卖 11000 <a href=\"/search?q=%23ETH\">$ETH</a> ，真怕了  \n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x85e05C10dB73499fbDeCAb0dfbB794a446feEeC8\">intel.arkm.com/explorer/addr…</a>",
-      "publishedAt": "2026-02-06T01:26:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2019583463620555106",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAcAawtacAMEqRs.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
