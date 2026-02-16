@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T10:46:15.201Z",
+  "lastUpdated": "2026-02-16T11:30:35.983Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
+    "newFetched": 522,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2023358966483517648",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "吃年夜饭聊天，发现现在工作大环境是真的很惨，有几个亲戚家里在省会开连锁店的，普遍已经找本科当店员 工资3-5k。聊了几句，对于币圈10%-20%的理财普遍认为是旁氏和杀猪盘不敢相信。认知决定财富啊。",
+      "contentHtml": "吃年夜饭聊天，发现现在工作大环境是真的很惨，有几个亲戚家里在省会开连锁店的，普遍已经找本科当店员 工资3-5k。聊了几句，对于币圈10%-20%的理财普遍认为是旁氏和杀猪盘不敢相信。认知决定财富啊。",
+      "publishedAt": "2026-02-16T11:29:00.000Z",
+      "link": "https://x.com/0xleng1/status/2023358966483517648",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2023344693778743322",
       "username": "BensonTWN",
@@ -570,6 +585,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHBPuNEfbwAAvwU1.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11424,39 +11443,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FG8W6QahbQAA22A7.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019700837099172035",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "黄金的下一次大机会，在于当前区间的有效突破。\n\n我主观判断，金价可能会在 4690-5150 这个近10%的宽幅区间内反复震荡（乐观点，一个月？）。\n\n需要耐心等待它在震荡中走出明确的结构：通过连续的高点（HH）与低点（LL）变化，来预判下一轮趋势的方向。\n\n若价格形态高低抬高（HH、HL），赌多。\n\n若价格形态高低降低（LH、LL），赌空。\n\n目前，我暂时更倾向于在反弹乏力时，寻找高赔率的做空机会。",
-      "contentHtml": "黄金的下一次大机会，在于当前区间的有效突破。\n\n我主观判断，金价可能会在 4690-5150 这个近10%的宽幅区间内反复震荡（乐观点，一个月？）。\n\n需要耐心等待它在震荡中走出明确的结构：通过连续的高点（HH）与低点（LL）变化，来预判下一轮趋势的方向。\n\n若价格形态高低抬高（HH、HL），赌多。\n\n若价格形态高低降低（LH、LL），赌空。\n\n目前，我暂时更倾向于在反弹乏力时，寻找高赔率的做空机会。",
-      "publishedAt": "2026-02-06T09:12:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2019700837099172035",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAdplm4bwAAzQcD.jpg"
-        }
-      ],
-      "quote": {
-        "username": "CycleStudies",
-        "displayName": "百萬Eric | Day Trader",
-        "content": "大胆假设，小心求证。\n\n如果你错过了5400区域黄金的理想做空位置，即便仍看空后市，此时也不必急于追空。\n\n更好的做法是：等待市场自己走出清晰的下行结构，例如EMA均线明确拐头、出现反弹无力再下的测试形态，同时找到那个止损清晰、风险可控的位置...\n\n大白话：找急头白脸的人先进去，你等着坐轿子...",
-        "link": "https://x.com/CycleStudies/status/2019420330063011898",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAZq8oFacAkVEcC.jpg"
           }
         ]
       },
