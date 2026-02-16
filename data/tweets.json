@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T07:00:07.038Z",
+  "lastUpdated": "2026-02-16T07:58:24.393Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,51 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 523,
+    "newFetched": 524,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2023299090407371237",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "OpenClaw 可以拿來做什麼？\n\n分享一個我最近剛搭好的產文流程：我讓跑在 Mac mini 上的 AI（我叫他 KAI）每天早上幫我選題、找資料、寫草稿、自我迭代。\n\n第一步：教它我的語氣\n\n我讓 KAI 直接看我的 X 和 Telegram，把過去兩年來的文章全部讀一遍。\n\n然後用 Claude Opus 4.6 分析我的寫作風格，整理出一份 200 行的風格指南。從句型節奏、開頭結尾偏好、到我最討厭的句型，全部歸納出來。\n\n這份指南後來變成整套系統的地基。AI 每次幫我寫東西之前，都會先讀它。\n\n第二步：讓它知道我在關注什麼\n\nKAI 每天早上會自動用瀏覽器登入我的 X 帳號抓書籤，同步我在 TG 和 X 上發過的文章。\n\n書籤代表我感興趣的內容，過去的文章代表我已經表達過的立場。\n\n兩邊一對，它就能判斷哪些值得寫、哪些寫過了。\n\n第三步：Digest 系統\n\n除了我自己的東西，KAI 還幫我建了一套 Digest 系統。\n\n每天自動搜 X 上我指定的幾個 AI 大神的貼文，掃 Reddit 相關版面，再抓 GitHub Trending Repo。篩完之後整理成摘要，發到我的 Discord。\n\n我不用自己滑 timeline，也能知道今天有什麼值得關注的。\n\n第四步：自動產文\n\n每天早上 9 點，系統會從書籤和 Digest 裡挑題目，用我的語氣寫出初稿，發到 Discord。\n\n------\n\n所以這其實是一套找關注內容加產文的系統。\n\n實際跑起來是什麼感覺呢？\n\n先講關注內容，找 Trending Repo 這個功能特別好用。像它今天推薦了 Chrome DevTools MCP，我馬上在 Discord 頻道開一個分支 thread，請它幫我想怎麼整進現有專案的測試流程。\n\n然後今天稍早那篇「AI Agent 是否需要 Crypto 付款」的文章，其實也是 KAI 先幫我寫草稿的產物。\n\n一開始 KAI 寫的草稿，口氣跟風格就已經很接近我本人了。但還是調整了很多次。\n\n譬如 JavaScript 跟 Email 的案例就是我心血來潮加上去的，讓整篇文章更完整表達為什麼「漸進式的創新，很難顛覆替換成本很高的現有解法」。\n\n但每次改完，我都會給它最終的定稿版本，它會自己去反思差異在哪邊，不斷迭代學習進化，再整進寫作風格的文檔。\n\n現在每天早上起來，都固定會有一篇初稿躺在我 Discord 的 draft 頻道裡。省去了選題材的時間，只需要專心把關文章的邏輯跟觀點就好。\n\n除此之外，我還開了一個專門的 Discord 頻道叫做 x-growth，我先讓 KAI 去研究 X 的推薦演算法，把分析結果寫進頻道的 system prompt。\n\n每週它在這個頻道，會自動讀我的 X Analytics 數據，對照演算法的最新變化，給我一份寫作建議。\n\n哪種開頭格式比較容易被推？長文還是短文互動率高？什麼時段發文觸及最好？這些我不用自己盯，KAI 每週會整理一次丟給我，然後也順便迭代產 draft 的那個流程。\n\n等於我的內容策略也在跟著數據每週迭代一次，不是光靠直覺在寫。\n\n對一個每天都要發文刷存在感、又要自己做產品的老闆來說，這大概是目前最適合我的節奏了。",
+      "contentHtml": "OpenClaw 可以拿來做什麼？\n\n分享一個我最近剛搭好的產文流程：我讓跑在 Mac mini 上的 AI（我叫他 KAI）每天早上幫我選題、找資料、寫草稿、自我迭代。\n\n第一步：教它我的語氣\n\n我讓 KAI 直接看我的 X 和 Telegram，把過去兩年來的文章全部讀一遍。\n\n然後用 Claude Opus 4.6 分析我的寫作風格，整理出一份 200 行的風格指南。從句型節奏、開頭結尾偏好、到我最討厭的句型，全部歸納出來。\n\n這份指南後來變成整套系統的地基。AI 每次幫我寫東西之前，都會先讀它。\n\n第二步：讓它知道我在關注什麼\n\nKAI 每天早上會自動用瀏覽器登入我的 X 帳號抓書籤，同步我在 TG 和 X 上發過的文章。\n\n書籤代表我感興趣的內容，過去的文章代表我已經表達過的立場。\n\n兩邊一對，它就能判斷哪些值得寫、哪些寫過了。\n\n第三步：Digest 系統\n\n除了我自己的東西，KAI 還幫我建了一套 Digest 系統。\n\n每天自動搜 X 上我指定的幾個 AI 大神的貼文，掃 Reddit 相關版面，再抓 GitHub Trending Repo。篩完之後整理成摘要，發到我的 Discord。\n\n我不用自己滑 timeline，也能知道今天有什麼值得關注的。\n\n第四步：自動產文\n\n每天早上 9 點，系統會從書籤和 Digest 裡挑題目，用我的語氣寫出初稿，發到 Discord。\n\n------\n\n所以這其實是一套找關注內容加產文的系統。\n\n實際跑起來是什麼感覺呢？\n\n先講關注內容，找 Trending Repo 這個功能特別好用。像它今天推薦了 Chrome DevTools MCP，我馬上在 Discord 頻道開一個分支 thread，請它幫我想怎麼整進現有專案的測試流程。\n\n然後今天稍早那篇「AI Agent 是否需要 Crypto 付款」的文章，其實也是 KAI 先幫我寫草稿的產物。\n\n一開始 KAI 寫的草稿，口氣跟風格就已經很接近我本人了。但還是調整了很多次。\n\n譬如 JavaScript 跟 Email 的案例就是我心血來潮加上去的，讓整篇文章更完整表達為什麼「漸進式的創新，很難顛覆替換成本很高的現有解法」。\n\n但每次改完，我都會給它最終的定稿版本，它會自己去反思差異在哪邊，不斷迭代學習進化，再整進寫作風格的文檔。\n\n現在每天早上起來，都固定會有一篇初稿躺在我 Discord 的 draft 頻道裡。省去了選題材的時間，只需要專心把關文章的邏輯跟觀點就好。\n\n除此之外，我還開了一個專門的 Discord 頻道叫做 x-growth，我先讓 KAI 去研究 X 的推薦演算法，把分析結果寫進頻道的 system prompt。\n\n每週它在這個頻道，會自動讀我的 X Analytics 數據，對照演算法的最新變化，給我一份寫作建議。\n\n哪種開頭格式比較容易被推？長文還是短文互動率高？什麼時段發文觸及最好？這些我不用自己盯，KAI 每週會整理一次丟給我，然後也順便迭代產 draft 的那個流程。\n\n等於我的內容策略也在跟著數據每週迭代一次，不是光靠直覺在寫。\n\n對一個每天都要發文刷存在感、又要自己做產品的老闆來說，這大概是目前最適合我的節奏了。",
+      "publishedAt": "2026-02-16T07:31:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2023299090407371237",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2023283442503602316",
+      "username": "OnchainLens",
+      "displayName": "Onchain Lens",
+      "avatar": "https://nitter.net/pic/profile_images%2F1953959476912119808%2F8CzAoz35_bigger.jpg",
+      "content": "In the past 24 hours, a whale deposited 732,481 $VVV ($3.03M) into #Coinbase, making a profit of $1.77M.\n\nThe whale initially withdrew 763,725 $VVV ($1.56M) from #Coinbase, then staked it for 6 months and deposited a total of 849,500 $VVV ($3.33M) back into #Coinbase.\n\nAddress: 0x9537ed61efd02794f9ea620bbccd464efdbd2b96\n\nData @nansen_ai",
+      "contentHtml": "In the past 24 hours, a whale deposited 732,481 <a href=\"/search?f=tweets&q=%23VVV\">$VVV</a> ($3.03M) into <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a>, making a profit of $1.77M.\n\nThe whale initially withdrew 763,725 <a href=\"/search?f=tweets&q=%23VVV\">$VVV</a> ($1.56M) from <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a>, then staked it for 6 months and deposited a total of 849,500 <a href=\"/search?f=tweets&q=%23VVV\">$VVV</a> ($3.33M) back into <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a>.\n\nAddress: 0x9537ed61efd02794f9ea620bbccd464efdbd2b96\n\nData <a href=\"/nansen_ai\" title=\"Nansen 🧭\">@nansen_ai</a>",
+      "publishedAt": "2026-02-16T06:28:00.000Z",
+      "link": "https://x.com/OnchainLens/status/2023283442503602316",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBQlkZ4aUAANz2h.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "follow_clues",
+        "displayName": "Theclues"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2023282868575989998",
       "username": "OwenJin12",
@@ -11456,60 +11496,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHAdUVxnacAEszoY.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019672648171868291",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "更新\n\n1️⃣3842 万枚 USDT 已从币安提出用于偿还借款，\n2️⃣再次计划卖出 10000 枚 ETH，今日割肉数量增长至 57000 枚\nintel.arkm.com/explorer/addr…",
-      "contentHtml": "更新\n\n1️⃣3842 万枚 USDT 已从币安提出用于偿还借款，\n2️⃣再次计划卖出 10000 枚 ETH，今日割肉数量增长至 57000 枚\n<a href=\"https://intel.arkm.com/explorer/address/0xE5C248D8d3F3871bD0f68E9C4743459C43BB4e4c\">intel.arkm.com/explorer/addr…</a>",
-      "publishedAt": "2026-02-06T07:20:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2019672648171868291",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAdRihwacAEzpxV.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019672073854124057",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "Binance SAFU 基金地址时隔两天再次买入 3600 $BTC ！\n\n本次购买了价值 2.33 亿美元的代币，用于比特币储备的 10 亿美元现已花费 4.33 亿美元，进度即将过半\n\n钱包地址 intel.arkm.com/explorer/addr…",
-      "contentHtml": "Binance SAFU 基金地址时隔两天再次买入 3600 <a href=\"/search?q=%23BTC\">$BTC</a> ！\n\n本次购买了价值 2.33 亿美元的代币，用于比特币储备的 10 亿美元现已花费 4.33 亿美元，进度即将过半\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/1BAuq7Vho2CEkVkUxbfU26LhwQjbCmWQkD\">intel.arkm.com/explorer/addr…</a>",
-      "publishedAt": "2026-02-06T07:18:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2019672073854124057",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAdRB_jacAAVAAK.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "第二个 1 亿美金来了！\n\nBinance SAFU 基金地址再次转入 1315 枚 BTC，时隔两天又一次买入；10 亿美元救市计划，进度已达 20%\n\n钱包地址 intel.arkm.com/explorer/addr…",
-        "link": "https://x.com/ai_9684xtpa/status/2018938391744872837",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAS1wscb0AAv2jT.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
