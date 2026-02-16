@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T09:51:27.657Z",
+  "lastUpdated": "2026-02-16T10:46:15.201Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,62 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 523,
+    "newFetched": 524,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2023344693778743322",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "問 KAI 對於龍蝦創辦人跑去 OpenAI 的看法。頂級情商，向 AI 學習。",
+      "contentHtml": "問 KAI 對於龍蝦創辦人跑去 OpenAI 的看法。頂級情商，向 AI 學習。",
+      "publishedAt": "2026-02-16T10:32:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2023344693778743322",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBRdRsHbsAAJLp1.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2023338321695612952",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "祝大伙新年快乐。新年赚钱。今年的主题是守住 稳住。",
+      "contentHtml": "祝大伙新年快乐。新年赚钱。今年的主题是守住 稳住。",
+      "publishedAt": "2026-02-16T10:07:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2023338321695612952",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2023335499721846931",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "想了一下為什麼 AI 突然就遍地開花了。\n\n1984 年 Mac 出來之前，你想跟電腦說話，得學它的語言。打錯一個字元，它不理你。\n\nMac 帶來 GUI。你終於可以用滑鼠點了。但 GUI 有個天花板：你只能點別人畫好的按鈕。設計者沒想到的功能，你做不到。\n\n現在 LLM 做到的事是第三次跳躍：你直接用人話說你要什麼，機器自己想辦法。\n\nCLI → GUI → NLI。每次跳躍，門檻降一個數量級。\n\n而且人類本來就花了幾萬年在進化語言能力。現在這個能力直接變成了一種程式設計能力。System Prompt 是自然語言，Agent Skill 是自然語言，工作流設定檔是 Markdown。你不用重新學任何東西。\n\n更關鍵的是，AI 的 output 也是自然語言。它可以讀自己產出的東西，然後修正、迭代、再產出。過去的軟體工具，輸出就是終點。Excel 算完一個數字不會自己回頭檢查。但 LLM 可以，因為它的輸出格式就是它的輸入格式。\n\n人類用自然語言指揮機器，機器用自然語言自我迭代。這個閉環一旦成立，擴散速度就擋不住了。",
+      "contentHtml": "想了一下為什麼 AI 突然就遍地開花了。\n\n1984 年 Mac 出來之前，你想跟電腦說話，得學它的語言。打錯一個字元，它不理你。\n\nMac 帶來 GUI。你終於可以用滑鼠點了。但 GUI 有個天花板：你只能點別人畫好的按鈕。設計者沒想到的功能，你做不到。\n\n現在 LLM 做到的事是第三次跳躍：你直接用人話說你要什麼，機器自己想辦法。\n\nCLI → GUI → NLI。每次跳躍，門檻降一個數量級。\n\n而且人類本來就花了幾萬年在進化語言能力。現在這個能力直接變成了一種程式設計能力。System Prompt 是自然語言，Agent Skill 是自然語言，工作流設定檔是 Markdown。你不用重新學任何東西。\n\n更關鍵的是，AI 的 output 也是自然語言。它可以讀自己產出的東西，然後修正、迭代、再產出。過去的軟體工具，輸出就是終點。Excel 算完一個數字不會自己回頭檢查。但 LLM 可以，因為它的輸出格式就是它的輸入格式。\n\n人類用自然語言指揮機器，機器用自然語言自我迭代。這個閉環一旦成立，擴散速度就擋不住了。",
+      "publishedAt": "2026-02-16T09:55:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2023335499721846931",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2023324121715597553",
       "username": "Cbb0fe",
@@ -11406,81 +11457,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FHAZq8oFacAkVEcC.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019697107033329901",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "今天终于没人聊  10亿救市 的傻逼话题了\n\n资产跌出性价比了，自然会有人出手买的\n\n比如半价的比特币当然比12万的比特币更有吸引力",
-      "contentHtml": "今天终于没人聊  10亿救市 的傻逼话题了\n\n资产跌出性价比了，自然会有人出手买的\n\n比如半价的比特币当然比12万的比特币更有吸引力",
-      "publishedAt": "2026-02-06T08:58:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2019697107033329901",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "微策略和币安\n\n轮流给比特币  又口又撸的\n\n软了立马给撸直了\n\n就是不让休息\n\n活生生玩废了",
-        "link": "https://x.com/Bitfatty/status/2018941075755602144"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019696944730575103",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "【#BTC 五线图（MVRV标准差版）更新】当前——\n\nLine 1: $52,187\nLine 2: $74,627\nLine 3: $97,066\nLine 4: $141,944\nLine 5: $186,823\n\n图中指标为基于统计标准差的比特币 MVRV 估值价格模型，该模型通过引入累积算术平均值与累积标准差，对比特币 MVRV 进行统计标准差处理，采用5条线（-1.0σ, -0.5σ, 0σ, +1.0σ, +2.0σ 共5个维度）将比特币历史价格从大顶至大底完整囊括划分",
-      "contentHtml": "【<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 五线图（MVRV标准差版）更新】当前——\n\nLine 1: $52,187\nLine 2: $74,627\nLine 3: $97,066\nLine 4: $141,944\nLine 5: $186,823\n\n图中指标为基于统计标准差的比特币 MVRV 估值价格模型，该模型通过引入累积算术平均值与累积标准差，对比特币 MVRV 进行统计标准差处理，采用5条线（-1.0σ, -0.5σ, 0σ, +1.0σ, +2.0σ 共5个维度）将比特币历史价格从大顶至大底完整囊括划分",
-      "publishedAt": "2026-02-06T08:57:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2019696944730575103",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAdkS7-acAoFGMu.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019695266560086252",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "比特币 $BTC 触发了反转超卖信号。\n\n上次出现同类信号，还要追溯到2025年10月25日。\n\n期待市场能走出一轮超跌反弹，初步看向 68k，更强则看 73k 区域。\n\n若反弹如期抵达目标区，计划以EMA均线为压力位，继续布局空单。\n\n小B砸，支棱起来啊，否则没做空逻辑。",
-      "contentHtml": "比特币 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 触发了反转超卖信号。\n\n上次出现同类信号，还要追溯到2025年10月25日。\n\n期待市场能走出一轮超跌反弹，初步看向 68k，更强则看 73k 区域。\n\n若反弹如期抵达目标区，计划以EMA均线为压力位，继续布局空单。\n\n小B砸，支棱起来啊，否则没做空逻辑。",
-      "publishedAt": "2026-02-06T08:50:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2019695266560086252",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAc5DYDagAAH6kV.jpg"
-        }
-      ],
-      "quote": {
-        "username": "CycleStudies",
-        "displayName": "百萬Eric | Day Trader",
-        "content": "币安人生，真猛，一根蜡烛干出“反转超买”（蓝色）信号...\n\n红色是普通超卖，蓝色反转超买。\n\n有多单的靓仔，需要控制仓位，止盈仓位，顺势调止损了....",
-        "link": "https://x.com/CycleStudies/status/2011279772194914760",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-l-nnKasAAcU5f.jpg"
           }
         ]
       },
