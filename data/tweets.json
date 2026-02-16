@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T15:58:42.211Z",
+  "lastUpdated": "2026-02-16T16:46:17.120Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
+    "newFetched": 523,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2023427197424603608",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "李哥携手海绵宝宝(本体)祝大家新年快乐～",
+      "contentHtml": "李哥携手海绵宝宝(本体)祝大家新年快乐～",
+      "publishedAt": "2026-02-16T16:00:00.000Z",
+      "link": "https://x.com/hazenlee/status/2023427197424603608",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2023422510130462798",
       "username": "taresky",
@@ -8505,10 +8520,10 @@
       "publishedAt": "2026-02-08T14:18:00.000Z",
       "link": "https://x.com/follow_clues/status/2020502417079693395",
       "quote": {
-        "username": "Phyrex_Ni",
+        "username": "PhyrexNi",
         "displayName": "Phyrex",
         "content": "非常开心可以和江老师讨论 $IBIT 的清算问题。\n\n首先我们需要搞清楚几个细节。\n\n1. Bitcoin现货ETF 交易的是ETF 而不是 $BTC \n\n2. 贝莱德现货ETF的二级市场交易的是 $IBIT ，而且只有 IBIT \n\n3. 现货ETF涉及到 Bitcoin 的情况只有在一级市场的买入和赎回，这个方面是由各个AP（虽然不是做市商，但可以理解为做市商）向贝莱德提供的。\n\n4. 当一级市场的用户需要增发新 IBIT 的时候，贝莱德就需要 AP 提供 BTC 的现货来作为对应新增发 IBIT 的“凭证”。而这些 BTC 是存在托管钱包中的，贝莱德或任何组织都不能使用或交易，有监管。目前的托管方是 Coinbase 。\n\n5. 当一级市场的用户需要赎回 IBIT 的时候，贝莱德就需要转移 BTC 给 AP ，由 AP 卖出 BTC 然后将资金给贝莱德，并由贝莱德完成赎回。\n\n6. 重点来了，请注意在 AP 提供或出售 BTC 未必是通过市场，尤其是未必通过二级市场。AP 自己都有可能存 BTC，对于 AP 来说，只需要在 T+1 的时间内完成交易需要的 BTC 或者 USD 就可以。所以，周四全美抛售的不到 6,000 枚 BTC 就是 ETF 抛售的所有 BTC ，这部分未必都进入市场，即便是进入最多就是 6,000 枚。\n\n7. IBIT 本身追踪的是 Bitcoin 的价格，这点也非常重要‼️，ETF 对应的是价格，而不是 BTC 本身，这和 $MSTR 很像（只是表现形式像，结构不同），MSTR 涨就一定是 BTC 涨，MSTR跌就一定是 BTC 跌？这大家肯定都不信的。而 MSTR 本身股价的变化会影响到 BTC 的价格吗？直接的传导肯定是没有的，因为 MSTR 是独立的资产。IBIT 也是。\n\nIBIT 就是追踪 BTC 的价格走势，BTC涨了，IBIT 99.99%会涨，但假如今天 BTC 涨了20%，贝莱德突然发出信息储存的 BTC 都被盗了，而且赔偿不了，那么 IBIT 一定就会跌。就是这个道理。\n\n8. IBIT 的二级市场是不是会影响到 BTC 现货的价格，这里没有直接传导的，江老师说二级市场接到了做市商的抛售，这是有可能的，但最多就是 6,000 枚，这是上限了，而且 AP 是几乎不可能抛售给市场的。因为 AP 能拿到的 BTC 只有 包括贝莱德在内所有 ETF 机构的转出，周四 IBIT 转出的 BTC 不到 4,000 枚，所以大幅下跌就是因为这 4,000 枚 BTC ，我是不信的。\n\n9. 不排除是 AP 自己手上有别的 BTC 抛售，但这和 IBIT 本身没有关系，AP 是独立的，自己也有 BTC 的储备和交易。但 AP 能从 IBIT 获得的 BTC 只有一级市场退出的这些，其它的多0.01枚都没有。\n\n10. IBIT 二级市场的所有压力都是在 IBIT 这个票上，用户买卖 IBIT 等于买卖 BTC（的价格波动），并不会实际触及到 BTC 本身。\n\n以上，欢迎江老师 @Jiangzhuoer2 和小伙伴们友好讨论。",
-        "link": "https://x.com/Phyrex_Ni/status/2020332689463881925"
+        "link": "https://x.com/PhyrexNi/status/2020332689463881925"
       },
       "stats": {
         "replies": 0,
@@ -11360,27 +11375,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHAZ45glaUAAKvFs.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019748351520935960",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "BTC是一种共识…",
-      "contentHtml": "BTC是一种共识…",
-      "publishedAt": "2026-02-06T12:21:00.000Z",
-      "link": "https://x.com/hazenlee/status/2019748351520935960",
-      "quote": {
-        "username": "JeffLia12309881",
-        "displayName": "Jeff Liang",
-        "content": "是的，任何人都可以修改比特币代码，然后向市场推出他们的Shitcoins.",
-        "link": "https://x.com/JeffLia12309881/status/2019747549775605778"
       },
       "stats": {
         "replies": 0,
