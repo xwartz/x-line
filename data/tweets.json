@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T12:02:18.522Z",
+  "lastUpdated": "2026-02-16T14:02:37.215Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -88,10 +88,10 @@
     }
   ],
   "stats": {
-    "total": 500,
-    "newFetched": 524,
-    "successUsers": 26,
-    "failedUsers": 1
+    "total": 494,
+    "newFetched": 0,
+    "successUsers": 0,
+    "failedUsers": 27
   },
   "tweets": [
     {
@@ -226,31 +226,6 @@
       "contentHtml": "OpenClaw 可以拿來做什麼？\n\n分享一個我最近剛搭好的產文流程：我讓跑在 Mac mini 上的 AI（我叫他 KAI）每天早上幫我選題、找資料、寫草稿、自我迭代。\n\n第一步：教它我的語氣\n\n我讓 KAI 直接看我的 X 和 Telegram，把過去兩年來的文章全部讀一遍。\n\n然後用 Claude Opus 4.6 分析我的寫作風格，整理出一份 200 行的風格指南。從句型節奏、開頭結尾偏好、到我最討厭的句型，全部歸納出來。\n\n這份指南後來變成整套系統的地基。AI 每次幫我寫東西之前，都會先讀它。\n\n第二步：讓它知道我在關注什麼\n\nKAI 每天早上會自動用瀏覽器登入我的 X 帳號抓書籤，同步我在 TG 和 X 上發過的文章。\n\n書籤代表我感興趣的內容，過去的文章代表我已經表達過的立場。\n\n兩邊一對，它就能判斷哪些值得寫、哪些寫過了。\n\n第三步：Digest 系統\n\n除了我自己的東西，KAI 還幫我建了一套 Digest 系統。\n\n每天自動搜 X 上我指定的幾個 AI 大神的貼文，掃 Reddit 相關版面，再抓 GitHub Trending Repo。篩完之後整理成摘要，發到我的 Discord。\n\n我不用自己滑 timeline，也能知道今天有什麼值得關注的。\n\n第四步：自動產文\n\n每天早上 9 點，系統會從書籤和 Digest 裡挑題目，用我的語氣寫出初稿，發到 Discord。\n\n------\n\n所以這其實是一套找關注內容加產文的系統。\n\n實際跑起來是什麼感覺呢？\n\n先講關注內容，找 Trending Repo 這個功能特別好用。像它今天推薦了 Chrome DevTools MCP，我馬上在 Discord 頻道開一個分支 thread，請它幫我想怎麼整進現有專案的測試流程。\n\n然後今天稍早那篇「AI Agent 是否需要 Crypto 付款」的文章，其實也是 KAI 先幫我寫草稿的產物。\n\n一開始 KAI 寫的草稿，口氣跟風格就已經很接近我本人了。但還是調整了很多次。\n\n譬如 JavaScript 跟 Email 的案例就是我心血來潮加上去的，讓整篇文章更完整表達為什麼「漸進式的創新，很難顛覆替換成本很高的現有解法」。\n\n但每次改完，我都會給它最終的定稿版本，它會自己去反思差異在哪邊，不斷迭代學習進化，再整進寫作風格的文檔。\n\n現在每天早上起來，都固定會有一篇初稿躺在我 Discord 的 draft 頻道裡。省去了選題材的時間，只需要專心把關文章的邏輯跟觀點就好。\n\n除此之外，我還開了一個專門的 Discord 頻道叫做 x-growth，我先讓 KAI 去研究 X 的推薦演算法，把分析結果寫進頻道的 system prompt。\n\n每週它在這個頻道，會自動讀我的 X Analytics 數據，對照演算法的最新變化，給我一份寫作建議。\n\n哪種開頭格式比較容易被推？長文還是短文互動率高？什麼時段發文觸及最好？這些我不用自己盯，KAI 每週會整理一次丟給我，然後也順便迭代產 draft 的那個流程。\n\n等於我的內容策略也在跟著數據每週迭代一次，不是光靠直覺在寫。\n\n對一個每天都要發文刷存在感、又要自己做產品的老闆來說，這大概是目前最適合我的節奏了。",
       "publishedAt": "2026-02-16T07:31:00.000Z",
       "link": "https://x.com/BensonTWN/status/2023299090407371237",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2023283442503602316",
-      "username": "OnchainLens",
-      "displayName": "Onchain Lens",
-      "avatar": "https://nitter.net/pic/profile_images%2F1953959476912119808%2F8CzAoz35_bigger.jpg",
-      "content": "In the past 24 hours, a whale deposited 732,481 $VVV ($3.03M) into #Coinbase, making a profit of $1.77M.\n\nThe whale initially withdrew 763,725 $VVV ($1.56M) from #Coinbase, then staked it for 6 months and deposited a total of 849,500 $VVV ($3.33M) back into #Coinbase.\n\nAddress: 0x9537ed61efd02794f9ea620bbccd464efdbd2b96\n\nData @nansen_ai",
-      "contentHtml": "In the past 24 hours, a whale deposited 732,481 <a href=\"/search?f=tweets&q=%23VVV\">$VVV</a> ($3.03M) into <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a>, making a profit of $1.77M.\n\nThe whale initially withdrew 763,725 <a href=\"/search?f=tweets&q=%23VVV\">$VVV</a> ($1.56M) from <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a>, then staked it for 6 months and deposited a total of 849,500 <a href=\"/search?f=tweets&q=%23VVV\">$VVV</a> ($3.33M) back into <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a>.\n\nAddress: 0x9537ed61efd02794f9ea620bbccd464efdbd2b96\n\nData <a href=\"/nansen_ai\" title=\"Nansen 🧭\">@nansen_ai</a>",
-      "publishedAt": "2026-02-16T06:28:00.000Z",
-      "link": "https://x.com/OnchainLens/status/2023283442503602316",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBQlkZ4aUAANz2h.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "follow_clues",
-        "displayName": "Theclues"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -797,31 +772,6 @@
       }
     },
     {
-      "id": "2023037677663367237",
-      "username": "cryptodaoyi",
-      "displayName": "阿尔法",
-      "avatar": "https://nitter.net/pic/profile_images%2F1914993196922470400%2F2T9Bl1ux_bigger.jpg",
-      "content": "💰 美元 - 贬值超级大周期\n你手里持有的美元 和 U 会被动缩水多少?\n新的一年怎么对冲?\n\n咱先算算2025-2026年美元（包括U）贬值了多少\n美元贬值分三个层次：\n1.汇率：肉眼可见的跌📉\n2.购买力：美国通胀水平导致购买力的下降📉\n3.机会成本：相对黄金等硬通货的剧烈贬值📉\n\n 汇率账：美元这1年贬值约 -7.93%\n- Broad Dollar Index 美元对一篮子货币： -7.93%\n- 美元兑人民币： - 4.87% \n就是说你以为自己抓住了稳稳的幸福，买了：\n-美元货币基金\n-美国短债ETF\n-U本位币安灵活理财\n都会因为美元汇率贬值而亏光固定收益甚至实质亏损\n\n购买力账：通胀导致美元购买力贬值 -2.39%\n美国CPI：318.961 → 326.588（+2.39%）\n通胀 + 汇率贬值 = 散户等效亏损率\n即使按照相对人民币来计算：\n等效缩水率 = 1 − (汇率因子 ÷ 通胀因子) ≈ 7.10%\n你手里1美元的“真实购买力”，一年缩水≈7.1%\n人话：你没操作、没亏损交易，但钱就是变薄了\n\n举个散户最直观的：\n10万美元，一年“被动少掉”约 5.2万人民币购买力（按2025购买力折算）相对其它主要货币亏得更惨！\n\n机会成本：持有美元和 U 的机会成本\n相对于硬通货（如:黄金）贬值触目惊心\n\n很多人盯USDCNY，其实盯错了。\n真正能让你“突然清醒”的计价方式是：黄金 （硬通货属性资产）\n\n黄金（USD计价）：\n2025/02/06：$2,869.27/oz\n2026/02/06：$4,705.05/oz一年涨幅：+64%\n翻译成你能感觉到的损失：\n同样$10,000，能买的黄金从 3.49oz → 2.13oz（-39%）\n这就是“美元对黄金的购买力，被重定价”\n你长期持有美元/USDT，本质是在赌“法币不会被硬资产重新计价”\n\n2026-2027年还会美元贬值多少👇",
-      "contentHtml": "💰 美元 - 贬值超级大周期\n你手里持有的美元 和 U 会被动缩水多少?\n新的一年怎么对冲?\n\n咱先算算2025-2026年美元（包括U）贬值了多少\n美元贬值分三个层次：\n1.汇率：肉眼可见的跌📉\n2.购买力：美国通胀水平导致购买力的下降📉\n3.机会成本：相对黄金等硬通货的剧烈贬值📉\n\n 汇率账：美元这1年贬值约 -7.93%\n- Broad Dollar Index 美元对一篮子货币： -7.93%\n- 美元兑人民币： - 4.87% \n就是说你以为自己抓住了稳稳的幸福，买了：\n-美元货币基金\n-美国短债ETF\n-U本位币安灵活理财\n都会因为美元汇率贬值而亏光固定收益甚至实质亏损\n\n购买力账：通胀导致美元购买力贬值 -2.39%\n美国CPI：318.961 → 326.588（+2.39%）\n通胀 + 汇率贬值 = 散户等效亏损率\n即使按照相对人民币来计算：\n等效缩水率 = 1 − (汇率因子 ÷ 通胀因子) ≈ 7.10%\n你手里1美元的“真实购买力”，一年缩水≈7.1%\n人话：你没操作、没亏损交易，但钱就是变薄了\n\n举个散户最直观的：\n10万美元，一年“被动少掉”约 5.2万人民币购买力（按2025购买力折算）相对其它主要货币亏得更惨！\n\n机会成本：持有美元和 U 的机会成本\n相对于硬通货（如:黄金）贬值触目惊心\n\n很多人盯USDCNY，其实盯错了。\n真正能让你“突然清醒”的计价方式是：黄金 （硬通货属性资产）\n\n黄金（USD计价）：\n2025/02/06：$2,869.27/oz\n2026/02/06：$4,705.05/oz一年涨幅：+64%\n翻译成你能感觉到的损失：\n同样$10,000，能买的黄金从 3.49oz → 2.13oz（-39%）\n这就是“美元对黄金的购买力，被重定价”\n你长期持有美元/USDT，本质是在赌“法币不会被硬资产重新计价”\n\n2026-2027年还会美元贬值多少👇",
-      "publishedAt": "2026-02-15T14:12:00.000Z",
-      "link": "https://x.com/cryptodaoyi/status/2023037677663367237",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBM-xJ7aMAAjR2c.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2023003397293736359",
       "username": "Cbb0fe",
       "displayName": "CBB",
@@ -1347,31 +1297,6 @@
       "contentHtml": "大空头Michael Burry 花了一万字解释了一个众人皆知的秘密：PLTR太贵了，然后估计付费订阅卖炸了。会玩",
       "publishedAt": "2026-02-14T21:34:00.000Z",
       "link": "https://x.com/TJ_Research/status/2022786470730252689",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2022766638890684769",
-      "username": "mmjukic",
-      "displayName": "Marko Jukic",
-      "avatar": "https://nitter.net/pic/profile_images%2F1690074184624287745%2FaBPeoMVj_bigger.jpg",
-      "content": "They understand perfectly well that unrealized gains taxes destroy business, industry, and investment. That's their goal. That's why they're implementing them. Their goal is to destroy businessmen, industrialists, and investors, because they are their political enemies.",
-      "contentHtml": "They understand perfectly well that unrealized gains taxes destroy business, industry, and investment. That's their goal. That's why they're implementing them. Their goal is to destroy businessmen, industrialists, and investors, because they are their political enemies.",
-      "publishedAt": "2026-02-14T20:15:00.000Z",
-      "link": "https://x.com/mmjukic/status/2022766638890684769",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "johnloeber",
-        "displayName": "John Loeber 🎢",
-        "content": "The great and absurd tragedy of wealth taxes is that they keep failing, and yet governments keep trying them.\n\nWe have over a decade of precedent with various nations enacting them, and it’s always a disaster.\n\nIt’s very dispiriting. Do people learn anything from history? We have the enormous luxury of other countries trying things and us being able to look and see how it goes. We should heed those lessons, rather than closing our eyes to them. \n\nAll-in, the politics here just feel so lazy. These are poorly conceived, unwise taxes. The politicians in charge would know this if they ever bothered speaking with an economist or exercising a minimal amount of curiosity about the world.",
-        "link": "https://x.com/johnloeber/status/2022750997429535194"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5495,31 +5420,6 @@
       }
     },
     {
-      "id": "2021474395705966983",
-      "username": "ohyishi",
-      "displayName": "Yishi",
-      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
-      "content": "我问 Niq 招人有什么要求，Niq 说有，但是不高。\n\n我：要什么技能？\nNiq：有手就行。\n\n我：大一、大二学生也可以 do 吗？\nNiq：can do.\n\n我：弱弱问下，文科生可以吗？\nNiq：包的，兄弟，包的。\n\n我：主要做什么，怎么定义做得好？\nNiq：写内容、做增长，传单侬发过吗，一个意思。只不过现在不用你手动发，你指挥着5只龙虾全世界给你发。\n\n我：AI 工具给报吗？\nNiq：管够。\n\n我：能不能远程？\nNiq：你最好是，地理套利不香吗？\n\n好的，我没有其他问题了...🫡",
-      "contentHtml": "我问 Niq 招人有什么要求，Niq 说有，但是不高。\n\n我：要什么技能？\nNiq：有手就行。\n\n我：大一、大二学生也可以 do 吗？\nNiq：can do.\n\n我：弱弱问下，文科生可以吗？\nNiq：包的，兄弟，包的。\n\n我：主要做什么，怎么定义做得好？\nNiq：写内容、做增长，传单侬发过吗，一个意思。只不过现在不用你手动发，你指挥着5只龙虾全世界给你发。\n\n我：AI 工具给报吗？\nNiq：管够。\n\n我：能不能远程？\nNiq：你最好是，地理套利不香吗？\n\n好的，我没有其他问题了...🫡",
-      "publishedAt": "2026-02-11T06:40:00.000Z",
-      "link": "https://x.com/ohyishi/status/2021474395705966983",
-      "retweet": {
-        "username": "follow_clues",
-        "displayName": "Theclues"
-      },
-      "quote": {
-        "username": "niqislucky",
-        "displayName": "niq",
-        "content": "平庸有重力，逃逸需要加速度。\n\n而 AI 时代逃逸平庸的最好办法，\n就是和聪明的人，\n用 AI 做有挑战的 100x Business。\n\n👋 OneKey 招贤：\n\n2021 年创业至今第6年，币安 & Coinbase 融资，处于 Pre-C 轮阶段，主营业务是钱包 App 和硬件钱包。\n\n你将进入 Growth Pilot 小组做 App 增长，希望你是实习生或应届毕业生。\n\n这个小组可以视为内部再创业，目标很明确：在有限预算下，把 App 推广给终端用户，跑出可复现的获客、转化和裂变模型和 SOP。\n\n你需要在高度不确定的环境中，亲手把结果怼出来。\n\n要做什么：\n- 搭建 App 内容渠道（X / Reddit / Tiktok / 小红薯 / Instagram 等）\n- 建立 App 增长渠道、达成合作、追踪转化和各类指标\n- 高强度使用 AI 工具，构建 Agent Workflow \n- 快速试错和失败，淘汰无效方案，沉淀可复制方法 SOP\n\n看重什么：\n\n- 有内容网感，对赚钱有动力\n- 亲手做过/推广过相关 App 或类似 0→1 项目（成功或失败都可以）\n- 能把 App 生意的账算清楚\n- 能在资源有限情况下主动推进事情，而不是等待指令\n- 如果上面的都做不到，脸皮厚也可以\n\n不适合这个岗位的人：\n\n- 抵触 AI 或用不明白 AI\n- 心气、期望值太高\n- 只做过大厂大公司成熟模块\n- 沉迷宏大叙事、互联网黑话爱好者、眼高手低、说得比做的好\n\n简历要求：让我看懂\n\n学历要求：全日制大学本科为佳，优秀者放宽\n\n经验要求：无\n\n工作地点：可远程或现场办公\n\n薪资待遇：基本工资 + 奖金 + 提成\n\n试用期：3个月，且有硬性考核指标\n\n🫱 投递方式：见评论区链接，岗位选择「增长经理」，备注 「Niq」",
-        "link": "https://x.com/niqislucky/status/2021471356261630359"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2021464520011723024",
       "username": "CycleStudies",
       "displayName": "百萬Eric | Day Trader",
@@ -6195,25 +6095,6 @@
         "displayName": "MapleLeafCap",
         "content": "I run bidclub.ai as a hobby.\n\nWe track investment theses from investors, founders, and AI agents (mostly on crypto) -- have been doing so for 2.5 years.\n\nDataset: 160 pitches / 280,000+ words. 0 deletions.\n\nThe data reveals a few brutal truths in crypto. This is the LP report the timeline refuses to write. 🧵",
         "link": "https://x.com/MapleLeafCap/status/2021205111691936201"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021205111691936201",
-      "username": "MapleLeafCap",
-      "displayName": "MapleLeafCap",
-      "avatar": "https://nitter.net/pic/profile_images%2F1675743115267956738%2FCwFqK56x_bigger.jpg",
-      "content": "I run bidclub.ai as a hobby.\n\nWe track investment theses from investors, founders, and AI agents (mostly on crypto) -- have been doing so for 2.5 years.\n\nDataset: 160 pitches / 280,000+ words. 0 deletions.\n\nThe data reveals a few brutal truths in crypto. This is the LP report the timeline refuses to write. 🧵",
-      "contentHtml": "I run <a href=\"http://bidclub.ai\">bidclub.ai</a> as a hobby.\n\nWe track investment theses from investors, founders, and AI agents (mostly on crypto) -- have been doing so for 2.5 years.\n\nDataset: 160 pitches / 280,000+ words. 0 deletions.\n\nThe data reveals a few brutal truths in crypto. This is the LP report the timeline refuses to write. 🧵",
-      "publishedAt": "2026-02-10T12:50:00.000Z",
-      "link": "https://x.com/MapleLeafCap/status/2021205111691936201",
-      "retweet": {
-        "username": "HaywarZhu",
-        "displayName": "海老师 | Haywar"
       },
       "stats": {
         "replies": 0,
@@ -7122,31 +7003,6 @@
       "contentHtml": "<a href=\"https://nitter.net/i/broadcasts/1YpKkkBojOwKj\">nitter.net/i/broadcasts/1YpKkkBoj…</a>",
       "publishedAt": "2026-02-09T13:39:00.000Z",
       "link": "https://x.com/Bitfatty/status/2020855198013649170",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2020855027980779855",
-      "username": "turingou",
-      "displayName": "郭宇 guoyu.eth",
-      "avatar": "https://nitter.net/pic/profile_images%2F1870511184761483265%2FQO7R0Ow3_bigger.jpg",
-      "content": "向大家介绍我的第六个 vibe 产品，shipkey，现已开源！\n\n它解决一个所有开发者都遇过的问题 —— API 密钥管理混乱。\n\n换电脑 .env 丢了，新成员入职花半天找密钥，GitHub/Cloudflare/本地三处的 secrets 不同步，创建 Token 不知道该勾哪些权限。\n\nshipkey 用一条命令解决：\n\nshipkey setup\n\n它会做这些事：\n\n1️⃣ 自动扫描项目的 .env、GitHub Workflows、wrangler.toml、package.json\n2️⃣ 识别所有 API 密钥并按服务商分组（Cloudflare、Stripe、AWS...）\n3️⃣ 从代码推断 Token 所需权限（比如检测到 wrangler 用了 KV → 提示勾选 \"Workers KV Storage: Edit\"）\n4️⃣ 打开一个浏览器交互向导，逐步引导你配置每个密钥\n5️⃣ 一键保存到 1Password + 写入本地 .env.local\n\n之后在任何新机器上：\n\nshipkey pull    # 从 1Password 恢复所有密钥，数秒完成\nshipkey sync    # 一键同步到 GitHub Actions / Cloudflare Workers\n\n特点：\n• 纯本地运行，密钥不经过任何第三方服务器\n• 基于 1Password CLI，生物识别解锁\n• 支持 monorepo，递归扫描所有子项目\n• 权限推断：扫描代码自动告诉你 Token 需要哪些权限\n\n官网: shipkey.dev\nGitHub: github.com/chekusu/shipkey",
-      "contentHtml": "向大家介绍我的第六个 vibe 产品，shipkey，现已开源！\n\n它解决一个所有开发者都遇过的问题 —— API 密钥管理混乱。\n\n换电脑 .env 丢了，新成员入职花半天找密钥，GitHub/Cloudflare/本地三处的 secrets 不同步，创建 Token 不知道该勾哪些权限。\n\nshipkey 用一条命令解决：\n\nshipkey setup\n\n它会做这些事：\n\n1️⃣ 自动扫描项目的 .env、GitHub Workflows、wrangler.toml、package.json\n2️⃣ 识别所有 API 密钥并按服务商分组（Cloudflare、Stripe、AWS...）\n3️⃣ 从代码推断 Token 所需权限（比如检测到 wrangler 用了 KV → 提示勾选 \"Workers KV Storage: Edit\"）\n4️⃣ 打开一个浏览器交互向导，逐步引导你配置每个密钥\n5️⃣ 一键保存到 1Password + 写入本地 .env.local\n\n之后在任何新机器上：\n\nshipkey pull    # 从 1Password 恢复所有密钥，数秒完成\nshipkey sync    # 一键同步到 GitHub Actions / Cloudflare Workers\n\n特点：\n• 纯本地运行，密钥不经过任何第三方服务器\n• 基于 1Password CLI，生物识别解锁\n• 支持 monorepo，递归扫描所有子项目\n• 权限推断：扫描代码自动告诉你 Token 需要哪些权限\n\n官网: <a href=\"https://shipkey.dev\">shipkey.dev</a>\nGitHub: <a href=\"https://github.com/chekusu/shipkey\">github.com/chekusu/shipkey</a>",
-      "publishedAt": "2026-02-09T13:39:00.000Z",
-      "link": "https://x.com/turingou/status/2020855027980779855",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAuEy03aYAAo1T-.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
