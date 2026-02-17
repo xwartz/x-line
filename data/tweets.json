@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-17T05:42:17.416Z",
+  "lastUpdated": "2026-02-17T06:39:17.412Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 523,
+    "newFetched": 522,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2023642425257062798",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "I'm the least optimized human being on my fam CNY dinner table .. it turns out 😭",
+      "contentHtml": "I'm the least optimized human being on my fam CNY dinner table .. it turns out 😭",
+      "publishedAt": "2026-02-17T06:15:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2023642425257062798",
+      "quote": {
+        "username": "DoveyAgeX",
+        "displayName": "Dovey “Rug the Age” Wan",
+        "content": "POV: Your extended fam has 10+ doctors > CNY convo packed with biohacks drills. just learnt for the first time low angle UV is useless for vitD production ..\n\nMe: mentions morning sun for VitD\nUncle (MD precision mode): UVB blocked by atmosphere. Need sun almost straight overhead so only 12-2pm sun counts. Then casually admits he does topless jump rope at lunch for 15 min. Max optimized Vit D + micro HIIT stack achieved LOL",
+        "link": "https://x.com/DoveyAgeX/status/2023642037145530757"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2023626056906011017",
       "username": "BensonTWN",
@@ -11341,33 +11362,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHAe4VjMboAAkyGr.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2019785131884699991",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "彭博社ETF分析师Eric Balchunas用了一个词来形容昨天（2月5日）的市场：\"Brutal\"（残酷）。\n在美东时间收盘后，数据定格在一个令人咋舌的数字上：贝莱德旗下的iShares Bitcoin Trust（IBIT）单日交易额突破100亿美元，换手量达284万股，创下历史新高。\n但这并非买盘的狂欢，而是逃命的拥堵。\n与之伴随的，是比特币价格从7.3万美元高位瞬间闪崩至6.2万美元，全网24小时内爆仓量飙升至25亿美元级别。CoinDesk数据显示，IBIT当日暴跌13%，大量杠杆多头在睡梦中归零。\n究竟是谁按下了核按钮？\nDeFiDev Corp首席投资官Parker White的一份最新分析报告，为我们还原了这场“完美风暴”的微观链条。这并非散户的恐慌，而是一场传统的、血腥的、机构级的Margin Call（追加保证金通知）。\n1\n一家香港对冲基金的生死时速\nParker White在Phemex News上指出，昨天的暴跌并非市场自然波动，其源头指向一家疑似总部位于香港的传统对冲基金。\n作案手法还原：\n这家基金此前并非直接持有BTC现货，而是通过IBIT建立了大规模的多头敞口。为了放大收益并对冲风险，他们构建了一个复杂的组合：“IBIT现货 + 杠杆期权”。\n触发点：\n宏观环境的突变是第一张多米诺骨牌。\n随着“硬钱信徒”Kevin Warsh被提名为下任美联储主席，市场迅速定价长期高利率。叠加美元走强和中东局势升温，比特币价格开始承压下行。\n连锁反应：\n* Margin Call降临： 价格的初步下跌触及了该基金的维持保证金红线。\n* 期权市场泄洪： 为了应对补缴压力，基金被迫在期权市场大规模平仓对冲头寸。MarketChameleon的数据证实了这一点：IBIT期权的权利金在短时间内激增至9亿美元，看跌/看涨偏离度飙升超过25个波动率点，进入“极度恐慌”区间。\n* 裸泳时刻： 对冲头寸被强制平掉后，该基金手里的IBIT现货变成了“裸多头”。在流动性枯竭的下跌途中，经纪商为了风控，不再等待，直接强平IBIT现货。\n这就是为什么IBIT会在昨天出现史诗级成交量的原因——那不是有人在抄底，那是巨鲸被强行拖上岸宰杀时溅起的血水。\n2\n伪机构买盘\n如果说那家香港基金是导火索，那么华尔街流行的“基差交易”就是铺满地板的炸药。\n我们一直以为机构进入比特币市场是来做“长期持有者”的，但CME的持仓报告揭露了残酷的现实：\n杠杆基金持有15,399张空头合约，对应仅3,003张多头合约。\n5:1的空多比，难道机构都在看空？\n不，他们在做Delta中性套利：买入现货ETF（IBIT），同时做空CME期货，赚取两者之间的价差（Basis）。\nSubstack分析师Shanaka Perera将其形容为一道“活板门”：\n* 当市场上涨时，这是稳定的买盘。\n* 当基差收窄且ETF出现资金外流时，这些套利盘会瞬间反转。\n昨晚，当那家香港基金被强平导致IBIT暴跌时，现货与期货的基差瞬间压缩。对于套利机构而言，继续持有现货已无利可图，甚至面临亏损。于是，原本的“机构地板价”瞬间变成了“砸盘主力军”。\nCoinGlass数据显示，全网爆仓的93%为多头持仓，约27万个账户被血洗。这其中，不仅有散户，更有大量像那家香港基金一样玩火的“伪机构”。\n3\n贝莱德的双刃剑：ETF时代的代价\n“没错，贝莱德，我，C。”（\"Yes, BlackRock, Me, C.\"）\n这个神秘的签名或许暗示着昨夜某些顶级玩家的无奈与冷眼旁观。\n这场事件给所有加密货币投资者上了一堂昂贵的课：ETF是一把双刃剑。\n它确实为比特币带来了华尔街的万亿资金，但也带来了华尔街的杠杆结构和冷酷风控。\n在ETF时代之前，比特币的暴跌往往源于矿难或交易所暴雷。\n而在ETF时代，比特币的暴跌可能仅仅是因为某家香港基金在期权表上算错了一个Gamma值，或者是美联储主席换人导致了基差交易的平仓。\n当非原生加密资本占据主导权时，比特币不再仅仅是“数字黄金”，它变成了全球宏观流动性传导链条末端最敏感的那根神经。\n昨夜的100亿美金交易额告诉我们：当华尔街想要离场时，拥挤的出口会踩死所有人。\n(本文基于Parker White分析报告及公开市场数据整理，不构成投资建议)",
-      "contentHtml": "彭博社ETF分析师Eric Balchunas用了一个词来形容昨天（2月5日）的市场：\"Brutal\"（残酷）。\n在美东时间收盘后，数据定格在一个令人咋舌的数字上：贝莱德旗下的iShares Bitcoin Trust（IBIT）单日交易额突破100亿美元，换手量达284万股，创下历史新高。\n但这并非买盘的狂欢，而是逃命的拥堵。\n与之伴随的，是比特币价格从7.3万美元高位瞬间闪崩至6.2万美元，全网24小时内爆仓量飙升至25亿美元级别。CoinDesk数据显示，IBIT当日暴跌13%，大量杠杆多头在睡梦中归零。\n究竟是谁按下了核按钮？\nDeFiDev Corp首席投资官Parker White的一份最新分析报告，为我们还原了这场“完美风暴”的微观链条。这并非散户的恐慌，而是一场传统的、血腥的、机构级的Margin Call（追加保证金通知）。\n1\n一家香港对冲基金的生死时速\nParker White在Phemex News上指出，昨天的暴跌并非市场自然波动，其源头指向一家疑似总部位于香港的传统对冲基金。\n作案手法还原：\n这家基金此前并非直接持有BTC现货，而是通过IBIT建立了大规模的多头敞口。为了放大收益并对冲风险，他们构建了一个复杂的组合：“IBIT现货 + 杠杆期权”。\n触发点：\n宏观环境的突变是第一张多米诺骨牌。\n随着“硬钱信徒”Kevin Warsh被提名为下任美联储主席，市场迅速定价长期高利率。叠加美元走强和中东局势升温，比特币价格开始承压下行。\n连锁反应：\n* Margin Call降临： 价格的初步下跌触及了该基金的维持保证金红线。\n* 期权市场泄洪： 为了应对补缴压力，基金被迫在期权市场大规模平仓对冲头寸。MarketChameleon的数据证实了这一点：IBIT期权的权利金在短时间内激增至9亿美元，看跌/看涨偏离度飙升超过25个波动率点，进入“极度恐慌”区间。\n* 裸泳时刻： 对冲头寸被强制平掉后，该基金手里的IBIT现货变成了“裸多头”。在流动性枯竭的下跌途中，经纪商为了风控，不再等待，直接强平IBIT现货。\n这就是为什么IBIT会在昨天出现史诗级成交量的原因——那不是有人在抄底，那是巨鲸被强行拖上岸宰杀时溅起的血水。\n2\n伪机构买盘\n如果说那家香港基金是导火索，那么华尔街流行的“基差交易”就是铺满地板的炸药。\n我们一直以为机构进入比特币市场是来做“长期持有者”的，但CME的持仓报告揭露了残酷的现实：\n杠杆基金持有15,399张空头合约，对应仅3,003张多头合约。\n5:1的空多比，难道机构都在看空？\n不，他们在做Delta中性套利：买入现货ETF（IBIT），同时做空CME期货，赚取两者之间的价差（Basis）。\nSubstack分析师Shanaka Perera将其形容为一道“活板门”：\n* 当市场上涨时，这是稳定的买盘。\n* 当基差收窄且ETF出现资金外流时，这些套利盘会瞬间反转。\n昨晚，当那家香港基金被强平导致IBIT暴跌时，现货与期货的基差瞬间压缩。对于套利机构而言，继续持有现货已无利可图，甚至面临亏损。于是，原本的“机构地板价”瞬间变成了“砸盘主力军”。\nCoinGlass数据显示，全网爆仓的93%为多头持仓，约27万个账户被血洗。这其中，不仅有散户，更有大量像那家香港基金一样玩火的“伪机构”。\n3\n贝莱德的双刃剑：ETF时代的代价\n“没错，贝莱德，我，C。”（\"Yes, BlackRock, Me, C.\"）\n这个神秘的签名或许暗示着昨夜某些顶级玩家的无奈与冷眼旁观。\n这场事件给所有加密货币投资者上了一堂昂贵的课：ETF是一把双刃剑。\n它确实为比特币带来了华尔街的万亿资金，但也带来了华尔街的杠杆结构和冷酷风控。\n在ETF时代之前，比特币的暴跌往往源于矿难或交易所暴雷。\n而在ETF时代，比特币的暴跌可能仅仅是因为某家香港基金在期权表上算错了一个Gamma值，或者是美联储主席换人导致了基差交易的平仓。\n当非原生加密资本占据主导权时，比特币不再仅仅是“数字黄金”，它变成了全球宏观流动性传导链条末端最敏感的那根神经。\n昨夜的100亿美金交易额告诉我们：当华尔街想要离场时，拥挤的出口会踩死所有人。\n(本文基于Parker White分析报告及公开市场数据整理，不构成投资建议)",
-      "publishedAt": "2026-02-06T14:47:00.000Z",
-      "link": "https://x.com/hazenlee/status/2019785131884699991",
-      "quote": {
-        "username": "EricBalchunas",
-        "displayName": "Eric Balchunas",
-        "content": "$IBIT just crushed its daily volume record with $10b worth of shares traded as its price fell 13%, second worst daily price drop since it launched. Brutal.",
-        "link": "https://x.com/EricBalchunas/status/2019522889435812298",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAbGkHTWAAA_bw9.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
