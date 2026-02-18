@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T08:52:47.527Z",
+  "lastUpdated": "2026-02-18T09:44:13.117Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,98 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 515,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 503,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2024055231307559220",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-02-18T09:35:00.000Z",
+      "link": "https://x.com/hazenlee/status/2024055231307559220",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBbjebda4AAdSTY.jpg"
+        }
+      ],
+      "quote": {
+        "username": "xtony1314",
+        "displayName": "逍遥XTony",
+        "content": "美国完蛋了，美股是一定会崩盘的，\n小崩是到20000，大崩看到15000。\n\n原因是 美国AI 泡沫要被中国戳破了，\n中国AI 大模型价格只有美国大模型的1/20，美国无力跟中国竞争，美国搬起石头砸了自己的脚，这次是真的砸了。\n\n比特币以横代涨，很弱，到时候会跟着美股一起崩盘，\n\n现在是要等的是，一个导火索，市场出现什么利空，要万分重视，随时梭进去，它可能就是下一次趋势性暴跌的开端。\n\n趋势性行情才能赚大钱。",
+        "link": "https://x.com/xtony1314/status/2024054909906117018",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHBbjKtKaYAAi5aT.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2024049834731229270",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "Opus 4.6 最猛的地方，是他的思考過程讀起來非常像真人同事在跟你協作。\n\nLLM 內部真正在推理的時候，運作方式跟你看到的文字可能完全不同。但 Opus 4.6 會把整個思路用自然語言一步步寫出來，讓你完全跟得上。\n\n而且他很聰明，如果發現某個地方搞錯了，他還會自我反思，自己糾正做法。",
+      "contentHtml": "Opus 4.6 最猛的地方，是他的思考過程讀起來非常像真人同事在跟你協作。\n\nLLM 內部真正在推理的時候，運作方式跟你看到的文字可能完全不同。但 Opus 4.6 會把整個思路用自然語言一步步寫出來，讓你完全跟得上。\n\n而且他很聰明，如果發現某個地方搞錯了，他還會自我反思，自己糾正做法。",
+      "publishedAt": "2026-02-18T09:14:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2024049834731229270",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBbdp9wa0AA15Ll.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2024045466967773403",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "$xau 黄金真硬啊",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23xau\">$xau</a> 黄金真硬啊",
+      "publishedAt": "2026-02-18T08:56:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2024045466967773403",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBbanwKaoAANCW3.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "财富密码  $xau",
+        "link": "https://x.com/Bitfatty/status/2023777756342087700",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHBXnI-naMAAFryw.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2024043385082777860",
       "username": "Bitfatty",
@@ -11027,75 +11114,6 @@
         "content": "Wealthier people are not compounding more--this is completely backwards. The less money you have, the easier it is to compound because most edges degrade with scale. \n\nWay easier to turn 1K -> 10K than 1M -> 10M.",
         "link": "https://x.com/hosseeb/status/2020054790143901893"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2020094979084099872",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "体感温度-24, 问题不大 🥶",
-      "contentHtml": "体感温度-24, 问题不大 🥶",
-      "publishedAt": "2026-02-07T11:19:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2020094979084099872",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAjRkDgaMAEznP2.jpg"
-        }
-      ],
-      "quote": {
-        "username": "DoveyWanCN",
-        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-        "content": "因为讨厌冷水, 所以选择2分半液氮罐哈哈哈, 不知道算不算cheating 🤣 另外在滑雪的时候刻意少穿其实也是deliberate cold exposure, 效果类似, 都是可以convert white fat into brown fat, 也是我自己的一个小hack \n\n一般-10度的山, 我就一件硬壳+ 一件速干衣打底, 其实并不冷.",
-        "link": "https://x.com/DoveyWanCN/status/2019412691081896028"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2020091167317311902",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "我还是推荐阅读纸质书。\n\n分享一个简单粗暴的阅读方法：看一页，撕一页。\n\n这习惯是我学生时代从刷题里养成的，专治“好像读了又好像没读”的状态。\n\n别小看撕书这个动作。只有真看懂了，才撕得下去手。\n\n要是没明白，手指捏着纸边，心里就会犹豫：这书是花钱买的，撕了多可惜？万一以后想找这页怎么办……\n\n相比之下，用手机看书时，总在划线、截图、收藏，拇指一滑就切走了。好像标记过，就等于学会了。结果线划了满屏，图存了一堆，再也没打开过。\n\n分割线——\n\n最近“斩杀线”这个概念挺火，推荐感兴趣的朋友看一本叫《在逃》的书。作者在费城一个底层社区泡了六年，记录了很多真实故事。比如警察会闯进单身母亲的家，把一切砸烂，然后当着她的面打电话给儿童福利局，用孩子威胁她配合...\n\n分割线——\n\n如果你人在海外，但有读中文纸质书的需求，可以考虑从国内购书后走海运。运费极其便宜，时间一般快则30天，慢则50天。",
-      "contentHtml": "我还是推荐阅读纸质书。\n\n分享一个简单粗暴的阅读方法：看一页，撕一页。\n\n这习惯是我学生时代从刷题里养成的，专治“好像读了又好像没读”的状态。\n\n别小看撕书这个动作。只有真看懂了，才撕得下去手。\n\n要是没明白，手指捏着纸边，心里就会犹豫：这书是花钱买的，撕了多可惜？万一以后想找这页怎么办……\n\n相比之下，用手机看书时，总在划线、截图、收藏，拇指一滑就切走了。好像标记过，就等于学会了。结果线划了满屏，图存了一堆，再也没打开过。\n\n分割线——\n\n最近“斩杀线”这个概念挺火，推荐感兴趣的朋友看一本叫《在逃》的书。作者在费城一个底层社区泡了六年，记录了很多真实故事。比如警察会闯进单身母亲的家，把一切砸烂，然后当着她的面打电话给儿童福利局，用孩子威胁她配合...\n\n分割线——\n\n如果你人在海外，但有读中文纸质书的需求，可以考虑从国内购书后走海运。运费极其便宜，时间一般快则30天，慢则50天。",
-      "publishedAt": "2026-02-07T11:04:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2020091167317311902",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAixY05acAE-NAW.jpg"
-        }
-      ],
-      "quote": {
-        "username": "1nfinityTrader",
-        "displayName": "BITx_Kirin",
-        "content": "纸质书或者电子书哪个比较有感觉啊🤔",
-        "link": "https://x.com/1nfinityTrader/status/2019087889687310600"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2020075446898160023",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "给空军放几天假吧，我们也不是钢铁牛马",
-      "contentHtml": "给空军放几天假吧，我们也不是钢铁牛马",
-      "publishedAt": "2026-02-07T10:01:00.000Z",
-      "link": "https://x.com/follow_clues/status/2020075446898160023",
       "stats": {
         "replies": 0,
         "retweets": 0,
