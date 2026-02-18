@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T15:05:09.078Z",
+  "lastUpdated": "2026-02-18T16:08:59.712Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
+    "newFetched": 521,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2024142046894948508",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "说好的和谈呢？\n\n能不能好好出牌！！！！！",
+      "contentHtml": "说好的和谈呢？\n\n能不能好好出牌！！！！！",
+      "publishedAt": "2026-02-18T15:20:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2024142046894948508",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBcydLyaoAAWy23.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2024128565587984543",
       "username": "hazenlee",
@@ -11033,27 +11054,6 @@
       "contentHtml": "Clawedbot to Moltbook from opsec lens: innocent human first invited strangers to their house to party then send them free ticket to burning man\n\nMoltbook stuff is basically juicer sub reddit simulator (if you are old enough to remember it) with hackers on the other side to fish your private key and pii thru your own \"agent\" .. scammers and hackers' disneyland",
       "publishedAt": "2026-02-07T15:02:00.000Z",
       "link": "https://x.com/DoveyWan/status/2020151173542735913",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2020146525607784552",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "finally got time to take a look at the Moltbook stuff basically sub reddit simulator (if you are old enough to remember it) with hackers on the other side to fish your agent private key and ppi info thru your \"agent\", what a waste of token 🤷 ..",
-      "contentHtml": "finally got time to take a look at the Moltbook stuff basically sub reddit simulator (if you are old enough to remember it) with hackers on the other side to fish your agent private key and ppi info thru your \"agent\", what a waste of token 🤷 ..",
-      "publishedAt": "2026-02-07T14:43:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2020146525607784552",
-      "quote": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-        "content": "PoV from ai tooling maxi\n\n- Never use it stuff like Clawbot (or other ai tool with critical access) for high stake tasks, best mental model is to use it as a external contractor  \n\n- The main cost is not mac mini but the token cost, swap Minimax for much better cost efficiency",
-        "link": "https://x.com/DoveyWan/status/2015970941902455270"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
