@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T21:42:28.032Z",
+  "lastUpdated": "2026-02-19T22:04:10.961Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 481,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 501,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
     {
@@ -8746,25 +8746,6 @@
       }
     },
     {
-      "id": "2021205111691936201",
-      "username": "MapleLeafCap",
-      "displayName": "MapleLeafCap",
-      "avatar": "https://nitter.net/pic/profile_images%2F1675743115267956738%2FCwFqK56x_bigger.jpg",
-      "content": "I run bidclub.ai as a hobby.\n\nWe track investment theses from investors, founders, and AI agents (mostly on crypto) -- have been doing so for 2.5 years.\n\nDataset: 160 pitches / 280,000+ words. 0 deletions.\n\nThe data reveals a few brutal truths in crypto. This is the LP report the timeline refuses to write. 🧵",
-      "contentHtml": "I run <a href=\"http://bidclub.ai\">bidclub.ai</a> as a hobby.\n\nWe track investment theses from investors, founders, and AI agents (mostly on crypto) -- have been doing so for 2.5 years.\n\nDataset: 160 pitches / 280,000+ words. 0 deletions.\n\nThe data reveals a few brutal truths in crypto. This is the LP report the timeline refuses to write. 🧵",
-      "publishedAt": "2026-02-10T12:50:00.000Z",
-      "link": "https://x.com/MapleLeafCap/status/2021205111691936201",
-      "retweet": {
-        "username": "HaywarZhu",
-        "displayName": "海老师 | Haywar"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2021191070676033706",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -9665,6 +9646,31 @@
       "contentHtml": "<a href=\"https://nitter.net/i/broadcasts/1YpKkkBojOwKj\">nitter.net/i/broadcasts/1YpKkkBoj…</a>",
       "publishedAt": "2026-02-09T13:39:00.000Z",
       "link": "https://x.com/Bitfatty/status/2020855198013649170",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020855027980779855",
+      "username": "turingou",
+      "displayName": "郭宇 guoyu.eth",
+      "avatar": "https://nitter.net/pic/profile_images%2F1870511184761483265%2FQO7R0Ow3_bigger.jpg",
+      "content": "向大家介绍我的第六个 vibe 产品，shipkey，现已开源！\n\n它解决一个所有开发者都遇过的问题 —— API 密钥管理混乱。\n\n换电脑 .env 丢了，新成员入职花半天找密钥，GitHub/Cloudflare/本地三处的 secrets 不同步，创建 Token 不知道该勾哪些权限。\n\nshipkey 用一条命令解决：\n\nshipkey setup\n\n它会做这些事：\n\n1️⃣ 自动扫描项目的 .env、GitHub Workflows、wrangler.toml、package.json\n2️⃣ 识别所有 API 密钥并按服务商分组（Cloudflare、Stripe、AWS...）\n3️⃣ 从代码推断 Token 所需权限（比如检测到 wrangler 用了 KV → 提示勾选 \"Workers KV Storage: Edit\"）\n4️⃣ 打开一个浏览器交互向导，逐步引导你配置每个密钥\n5️⃣ 一键保存到 1Password + 写入本地 .env.local\n\n之后在任何新机器上：\n\nshipkey pull    # 从 1Password 恢复所有密钥，数秒完成\nshipkey sync    # 一键同步到 GitHub Actions / Cloudflare Workers\n\n特点：\n• 纯本地运行，密钥不经过任何第三方服务器\n• 基于 1Password CLI，生物识别解锁\n• 支持 monorepo，递归扫描所有子项目\n• 权限推断：扫描代码自动告诉你 Token 需要哪些权限\n\n官网: shipkey.dev\nGitHub: github.com/chekusu/shipkey",
+      "contentHtml": "向大家介绍我的第六个 vibe 产品，shipkey，现已开源！\n\n它解决一个所有开发者都遇过的问题 —— API 密钥管理混乱。\n\n换电脑 .env 丢了，新成员入职花半天找密钥，GitHub/Cloudflare/本地三处的 secrets 不同步，创建 Token 不知道该勾哪些权限。\n\nshipkey 用一条命令解决：\n\nshipkey setup\n\n它会做这些事：\n\n1️⃣ 自动扫描项目的 .env、GitHub Workflows、wrangler.toml、package.json\n2️⃣ 识别所有 API 密钥并按服务商分组（Cloudflare、Stripe、AWS...）\n3️⃣ 从代码推断 Token 所需权限（比如检测到 wrangler 用了 KV → 提示勾选 \"Workers KV Storage: Edit\"）\n4️⃣ 打开一个浏览器交互向导，逐步引导你配置每个密钥\n5️⃣ 一键保存到 1Password + 写入本地 .env.local\n\n之后在任何新机器上：\n\nshipkey pull    # 从 1Password 恢复所有密钥，数秒完成\nshipkey sync    # 一键同步到 GitHub Actions / Cloudflare Workers\n\n特点：\n• 纯本地运行，密钥不经过任何第三方服务器\n• 基于 1Password CLI，生物识别解锁\n• 支持 monorepo，递归扫描所有子项目\n• 权限推断：扫描代码自动告诉你 Token 需要哪些权限\n\n官网: <a href=\"https://shipkey.dev\">shipkey.dev</a>\nGitHub: <a href=\"https://github.com/chekusu/shipkey\">github.com/chekusu/shipkey</a>",
+      "publishedAt": "2026-02-09T13:39:00.000Z",
+      "link": "https://x.com/turingou/status/2020855027980779855",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAuEy03aYAAo1T-.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
