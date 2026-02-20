@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T01:50:41.896Z",
+  "lastUpdated": "2026-02-20T04:14:11.300Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,81 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 523,
+    "newFetched": 522,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2024674637628535031",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "最近大家讨论比较多的是 $WMT 那么高的P/E（47倍），是一些科技股的2倍。很少人讨论的是其实WMT的P/CF才24倍，是不是合理很多？那么问题来了，为什么P/E那么高，P/CF那么低？原因就是CAPEX，哈哈哈哈哈哈哈哈哈哈哈哈哈",
+      "contentHtml": "最近大家讨论比较多的是 <a href=\"/search?f=tweets&q=%23WMT\">$WMT</a> 那么高的P/E（47倍），是一些科技股的2倍。很少人讨论的是其实WMT的P/CF才24倍，是不是合理很多？那么问题来了，为什么P/E那么高，P/CF那么低？原因就是CAPEX，哈哈哈哈哈哈哈哈哈哈哈哈哈",
+      "publishedAt": "2026-02-20T02:37:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2024674637628535031",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBkWt9hWwAEt8Dr.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2024664344257245584",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
+      "content": "黃金坑追蹤系列（二）：「四大深熊抄底模型」最新數據📊\n\n承接下方引文，如同我在該帖中所述，\n接下來每週我都會更新一次「四大深熊抄底模型」的最新數據。\n\n本文是「黃金坑追蹤系列」的第二篇，文中數據皆有附上原理說明，\n有需要的朋友可以自行參考、研究；\n抄底之路漫漫且艱辛，但你不是一個人🏡：\n\n//\n\n🟡 AVIV Heatmap\n\n📝 指標簡介：\n➡️ 是我個人設計的模型，以 AVIV 為基礎作衍伸\n➡️ 高效的「週期溫度計」，用以識別市場階段\n➡️ AVIV 可視為「活躍籌碼的盈利倍數」，是優化版的 MVRV\n➡️ AVIV Heatmap 是利用 AVIV 存在均值回歸的特性，所設計的模型\n➡️ 概念出自 Cointime Economic 方法論（由 Ark、Glassnode 提出）\n\n🔗指標詳細教程：nitter.net/market_beggar/status/1…\n\n📊 目前 AVIV Heatmap 藍色區域的上界 = 63,759\n\n//\n\n🟡 Cointime Price\n\n📝 指標簡介：\n➡️ 出自 Ark 和 Glassnode 聯合產出的「Cointime Economics」\n➡️ 對 BTC 籌碼採「時間加權」的計算，並進行公允估值\n➡️ 排除了遠古、丟失籌碼的影響，只考慮「有移動」的籌碼\n\n🔗 指標詳細教程：nitter.net/market_beggar/status/1…\n\n📊 目前 Cointime Price = 51,898\n\n//\n\n🟡 Realized Price\n\n📝 指標簡介：\n➡️ 鏈上分析基礎概念，可視作「全市場持有 BTC 的平均成本」\n➡️ 如附圖，以往 BTC 價格低於 Realized Price 之時，全是週期性底部\n➡️ 相比 Cointime Price 較為寬鬆\n\n🔗 指標詳細教程：nitter.net/market_beggar/status/1…\n\n📊 目前的 Realized Price = 54,830\n\n//\n\n🟡 LTH-Realized Price（LTH-RP）\n\n📝 指標簡介：\n➡️ 原理同 Realized Price，但分析的族群是長期持有者（LTH）\n➡️ 由於 LTH 的持倉成本通常更低，因此 LTH-RP 也更嚴格\n➡️ LTH-RP 本身相比 Cointime Price，刻舟性較高，須謹慎使用\n\n🔗 指標詳細教程：nitter.net/market_beggar/status/1…\n\n📊 目前的 LTH-RP = 40,893\n\n//\n\n🟡 小結\n\n本文是「黃金坑追蹤系列」分析帖的第二篇，\n希望本系列的定期追蹤，能對各位在「抄底策略」的設計上有所助益。\n\n距離 BTC 於 2/06 暴跌至 60K 的階段性見底至今，\n已有約兩週的時間，行情如期步入枯燥的震盪階段；\n如同我先前的分析帖所述（詳見本文文末的整理），\n這種震盪估計至少會維持約 1~3 個月，待多空雙方籌碼充分換手之後，\n才可能再次走出趨勢性的行情。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n極端巨量的出現：新一輪震盪博弈的起點\nnitter.net/market_beggar/status/2…\n\n2022 年以來首次：BTC 再次重返藍線支撐區\nnitter.net/market_beggar/status/2…\n\n「一步之遙的黃金坑」：PSIP 週期性抄底訊號近在咫尺\nnitter.net/market_beggar/status/2…\n\nPSIP 抄底訊號「番外篇」：評估底部的另一視角\nnitter.net/market_beggar/status/2…",
+      "contentHtml": "黃金坑追蹤系列（二）：「四大深熊抄底模型」最新數據📊\n\n承接下方引文，如同我在該帖中所述，\n接下來每週我都會更新一次「四大深熊抄底模型」的最新數據。\n\n本文是「黃金坑追蹤系列」的第二篇，文中數據皆有附上原理說明，\n有需要的朋友可以自行參考、研究；\n抄底之路漫漫且艱辛，但你不是一個人🏡：\n\n//\n\n🟡 AVIV Heatmap\n\n📝 指標簡介：\n➡️ 是我個人設計的模型，以 AVIV 為基礎作衍伸\n➡️ 高效的「週期溫度計」，用以識別市場階段\n➡️ AVIV 可視為「活躍籌碼的盈利倍數」，是優化版的 MVRV\n➡️ AVIV Heatmap 是利用 AVIV 存在均值回歸的特性，所設計的模型\n➡️ 概念出自 Cointime Economic 方法論（由 Ark、Glassnode 提出）\n\n🔗指標詳細教程：<a href=\"https://nitter.net/market_beggar/status/1942759255385465186\">nitter.net/market_beggar/status/1…</a>\n\n📊 目前 AVIV Heatmap 藍色區域的上界 = 63,759\n\n//\n\n🟡 Cointime Price\n\n📝 指標簡介：\n➡️ 出自 Ark 和 Glassnode 聯合產出的「Cointime Economics」\n➡️ 對 BTC 籌碼採「時間加權」的計算，並進行公允估值\n➡️ 排除了遠古、丟失籌碼的影響，只考慮「有移動」的籌碼\n\n🔗 指標詳細教程：<a href=\"https://nitter.net/market_beggar/status/1871466038107512855\">nitter.net/market_beggar/status/1…</a>\n\n📊 目前 Cointime Price = 51,898\n\n//\n\n🟡 Realized Price\n\n📝 指標簡介：\n➡️ 鏈上分析基礎概念，可視作「全市場持有 BTC 的平均成本」\n➡️ 如附圖，以往 BTC 價格低於 Realized Price 之時，全是週期性底部\n➡️ 相比 Cointime Price 較為寬鬆\n\n🔗 指標詳細教程：<a href=\"https://nitter.net/market_beggar/status/1862031455070941350\">nitter.net/market_beggar/status/1…</a>\n\n📊 目前的 Realized Price = 54,830\n\n//\n\n🟡 LTH-Realized Price（LTH-RP）\n\n📝 指標簡介：\n➡️ 原理同 Realized Price，但分析的族群是長期持有者（LTH）\n➡️ 由於 LTH 的持倉成本通常更低，因此 LTH-RP 也更嚴格\n➡️ LTH-RP 本身相比 Cointime Price，刻舟性較高，須謹慎使用\n\n🔗 指標詳細教程：<a href=\"https://nitter.net/market_beggar/status/1864600434129948724\">nitter.net/market_beggar/status/1…</a>\n\n📊 目前的 LTH-RP = 40,893\n\n//\n\n🟡 小結\n\n本文是「黃金坑追蹤系列」分析帖的第二篇，\n希望本系列的定期追蹤，能對各位在「抄底策略」的設計上有所助益。\n\n距離 BTC 於 2/06 暴跌至 60K 的階段性見底至今，\n已有約兩週的時間，行情如期步入枯燥的震盪階段；\n如同我先前的分析帖所述（詳見本文文末的整理），\n這種震盪估計至少會維持約 1~3 個月，待多空雙方籌碼充分換手之後，\n才可能再次走出趨勢性的行情。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n極端巨量的出現：新一輪震盪博弈的起點\n<a href=\"https://nitter.net/market_beggar/status/2021037913686016212\">nitter.net/market_beggar/status/2…</a>\n\n2022 年以來首次：BTC 再次重返藍線支撐區\n<a href=\"https://nitter.net/market_beggar/status/2021399682606661737\">nitter.net/market_beggar/status/2…</a>\n\n「一步之遙的黃金坑」：PSIP 週期性抄底訊號近在咫尺\n<a href=\"https://nitter.net/market_beggar/status/2020675527812792811\">nitter.net/market_beggar/status/2…</a>\n\nPSIP 抄底訊號「番外篇」：評估底部的另一視角\n<a href=\"https://nitter.net/market_beggar/status/2024313705262121308\">nitter.net/market_beggar/status/2…</a>",
+      "publishedAt": "2026-02-20T01:56:00.000Z",
+      "link": "https://x.com/market_beggar/status/2024664344257245584",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBkNfDjbsAAumkP.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBkNfDdbUAAkfMd.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBkNfDybUAIeIWs.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBkNfDjacAAGK2_.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "黃金坑追蹤系列：「四大深熊抄底模型」最新數據更新📊\n\n先前和各位多次分享了「歷史勝率 100%」的不同深熊估值模型，\n結果最近愈來愈多人開始關心這些數據的最新狀況了。\n\n因此，接下來我打算每週固定發布一篇「黃金坑追蹤系列」分析帖，\n和各位定期更新這些模型的最新數值，以供各位參考👇：\n\n//\n\n🟡 AVIV Heatmap\n\n📝 指標簡介：\n➡️ 全稱 AVIV Heatmap，是我個人設計的模型\n➡️ AVIV 可視為「活躍籌碼的盈利倍數」，是優化版的 MVRV\n➡️ AVIV Heatmap 是利用 AVIV 存在均值回歸的特性，所設計的模型\n➡️ 概念出自 Cointime Economic 方法論（由 Ark、Glassnode 提出）\n\n🔗指標詳細教程：nitter.net/market_beggar/status/1…\n\nAVIV Heatmap 作為 BTC 誕生至今的高準度週期溫度計，\n自 2023 年初的熊市底部至今，皆未回到藍色區域。\n\n📊 目前 AVIV Heatmap 藍色區域的上界 = 64,106\n\n藍色區域一直以來都是 BTC 最終的週期底部區域，\n雖然 AVIV Heatmap 沒辦法告訴我們最終的底部價格是多少，\n但不同顏色的出現，意味著市場階段的推移，\n而藍色區域正是以往每一輪熊市的終點站🔵。\n\n//\n\n🟡 Cointime Price\n\n📝 指標簡介：\n➡️ 出自 Ark 和 Glassnode 聯合產出的「Cointime Economics」\n➡️ 對 BTC 籌碼採「時間加權」的計算，並進行公允估值\n➡️ 排除了遠古、丟失籌碼的影響，只考慮「有移動」的籌碼\n\n🔗 指標詳細教程：nitter.net/market_beggar/status/1…\n\nCointime Price 一直以來都是我特別偏愛的一項估值模型，\n其原因在於：它的設計邏輯十分縝密且合理，並且在歷史中的表現極佳。\n\n📊 目前 Cointime Price = 51,963\n\n如下圖所示，每當 BTC 價格低於 Cointime Price 之時，\n無一例外的全是週期性的熊市底部。\n\n//\n\n🟡 Realized Price\n\n📝 指標簡介：\n➡️ 鏈上分析基礎概念，可視作「全市場持有 BTC 的平均成本」\n➡️ 如附圖，以往 BTC 價格低於 Realized Price 之時，全是週期性底部\n➡️ 相比 Cointime Price 較為寬鬆\n\n🔗 指標詳細教程：nitter.net/market_beggar/status/1…\n\n📊 目前的 Realized Price = 55,087\n\n值得注意的是，它和 Cointime Price 現在其實非常接近，\n兩者之間的區域或許恰好指明了本輪週期的最佳黃金坑區域。\n\n//\n\n🟡 LTH-Realized Price（LTH-RP）\n\n📝 指標簡介：\n➡️ 原理同 Realized Price，但分析的族群是長期持有者（LTH）\n➡️ 由於 LTH 的持倉成本通常更低，因此 LTH-RP 也更嚴格\n➡️ LTH-RP 本身相比 Cointime Price，刻舟性較高，須謹慎使用\n\n🔗 指標詳細教程：nitter.net/market_beggar/status/1…\n\n📊 目前的 LTH-RP = 40,416\n\n誠如上述，通常熊市的跌勢在 Cointime Price 就會被止住，\n並且受到本輪週期入場的機構、企業影響，「派發程度」也和以往有所不同，\n因此若你想以 LTH-RP 來抄底，或許需考慮「能否到達」的問題。\n\n//\n\n🟡 小結\n\n本文是「黃金坑追蹤系列」分析帖的第一篇，\n希望本系列的定期追蹤，能對各位在「抄底策略」的設計上有所助益。\n\n結合我在下方引文中的詳細論述，我依然認為目前只是寬幅震盪的起點，\n如果你還不清楚我對於後市的看法，強烈建議可以先參考下方引文，\n為即將到來的、可能長達數個月的「上沖下洗」行情做好心理準備。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n2022 年以來首次：BTC 再次重返藍線支撐區\nnitter.net/market_beggar/status/2…\n\n「一步之遙的黃金坑」：PSIP 週期性抄底訊號近在咫尺\nnitter.net/market_beggar/status/2…",
+        "link": "https://x.com/market_beggar/status/2021763207296430279",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHA6-6sgaoAAUI4l.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHA6-6sbbsAE3DES.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2024655253568639047",
       "username": "TJ_Research",
@@ -775,10 +845,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHBfOlOHaEAANieN.jpg"
         }
       ],
-      "retweet": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢"
-      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -10928,42 +10994,6 @@
       "contentHtml": "<a href=\"https://piped.video/live/7qQetN2vCG8?feature=share\">piped.video/live/7qQetN2vCG8…</a> <a href=\"https://nitter.net/i/broadcasts/1lDxLBzbDVaGm\">nitter.net/i/broadcasts/1lDxLBzbD…</a>",
       "publishedAt": "2026-02-08T13:22:00.000Z",
       "link": "https://x.com/Bitfatty/status/2020488348662706412",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2020486341570838924",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "刚刚打开Binance app，2分钟后96110就打来电话。\n\n说系统监测到我可能收到相关投资理财虚拟货币的诈骗信息，提醒我要提高防范意识，不要轻易相信……，不要轻易将资金转入…… \n\n难道苹果手机也被攻破了？我滴个天哪，细思极恐😫😫😫",
-      "contentHtml": "刚刚打开Binance app，2分钟后96110就打来电话。\n\n说系统监测到我可能收到相关投资理财虚拟货币的诈骗信息，提醒我要提高防范意识，不要轻易相信……，不要轻易将资金转入…… \n\n难道苹果手机也被攻破了？我滴个天哪，细思极恐😫😫😫",
-      "publishedAt": "2026-02-08T13:14:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2020486341570838924",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAo1nYCbkAAfor6.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2020475123611111777",
-      "username": "0xSunNFT",
-      "displayName": "0xSun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820705442735296512%2Fej9BX01I_bigger.png",
-      "content": "作为龙头交易所，币安上币的割裂，反映出了行业的割裂。\n\n高估值VC币，市场不太买单了，只能说“不看好可以做空”，“上币不代表推荐购买”，但是又放任某些高控盘币随意拉砸，动辄数倍涨幅搭配费率收割空单，再随时暴跌收网，散户面对山寨币的信息不对等博弈，无论做多做空，长期肯定是负EV，要么亏完，要么不玩。\n\nSOL和Base的Meme，已经一年多没有上币。如果说是为了扶持自己生态的BSC，从商业竞争角度尚可理解，但这一年下来，BSC似乎也算不上多么繁荣。有一些代币凝聚了强大的社区，却得不到资源倾斜，长此以往自然散了人心。\n\n尽管CZ一姐反复强调不要从自己的推文抠字眼，第二个登陆中文合约的仍是抠字眼的产物，也依然逃不过被操盘拉砸，两次单日跌幅50%的命运。\n\n当然，将市场走熊、行业寒冬全部归咎于币安，肯定有失偏颇。但有时候也忍不住遐想，如果作为行业的引领者，能真正支持创新、兼容并包，一切是否会不一样？\n\n归根结底，正是无数散户、无数生态下的开发者构成了行业强大的生命力，假如他们越来越难找到生存的土壤，又如何期待行业焕发下一个春天呢。",
-      "contentHtml": "作为龙头交易所，币安上币的割裂，反映出了行业的割裂。\n\n高估值VC币，市场不太买单了，只能说“不看好可以做空”，“上币不代表推荐购买”，但是又放任某些高控盘币随意拉砸，动辄数倍涨幅搭配费率收割空单，再随时暴跌收网，散户面对山寨币的信息不对等博弈，无论做多做空，长期肯定是负EV，要么亏完，要么不玩。\n\nSOL和Base的Meme，已经一年多没有上币。如果说是为了扶持自己生态的BSC，从商业竞争角度尚可理解，但这一年下来，BSC似乎也算不上多么繁荣。有一些代币凝聚了强大的社区，却得不到资源倾斜，长此以往自然散了人心。\n\n尽管CZ一姐反复强调不要从自己的推文抠字眼，第二个登陆中文合约的仍是抠字眼的产物，也依然逃不过被操盘拉砸，两次单日跌幅50%的命运。\n\n当然，将市场走熊、行业寒冬全部归咎于币安，肯定有失偏颇。但有时候也忍不住遐想，如果作为行业的引领者，能真正支持创新、兼容并包，一切是否会不一样？\n\n归根结底，正是无数散户、无数生态下的开发者构成了行业强大的生命力，假如他们越来越难找到生存的土壤，又如何期待行业焕发下一个春天呢。",
-      "publishedAt": "2026-02-08T12:29:00.000Z",
-      "link": "https://x.com/0xSunNFT/status/2020475123611111777",
       "stats": {
         "replies": 0,
         "retweets": 0,
