@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T08:56:38.378Z",
+  "lastUpdated": "2026-02-21T09:27:52.768Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
+    "newFetched": 523,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2025139825947619804",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "机器人：我tm也是服了",
+      "contentHtml": "机器人：我tm也是服了",
+      "publishedAt": "2026-02-21T09:25:00.000Z",
+      "link": "https://x.com/hazenlee/status/2025139825947619804",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBq97uQasAAJzJj.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2025128080386540019",
       "username": "BensonTWN",
@@ -395,6 +416,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHBpPVX7b0AA173D.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2025008288530845843",
+      "username": "ebfull",
+      "displayName": "Sean Bowe",
+      "avatar": "https://nitter.net/pic/profile_images%2F1934672401687597056%2FSmfyH4L4_bigger.jpg",
+      "content": "Interpretation of the Zcash coinholder sentiment collection... (My personal view is that if coinholders strongly oppose a change, it's *really* hard to argue we should do it anyway.)\n\n1. ZSAs are in bad shape. There is basically no support from coinholders, and I'm not sure there's enough enthusiasm elsewhere to overcome this. I'm personally not bullish about ZSAs for numerous technical reasons. I think an argument still needs to be made for including this feature in the protocol.\n\n2. NSM (modulo fee burning) seems unpopular with coinholders too. My guess is that anything that touches this issuance gives off bad vibes regardless of its merit. I think *because* it touches issuance we should be even more deferential to coinholders.\n\n3. Fee burning seems fine.\n\n4. Memo bundles are broadly disliked from coinholders. Personally I don't like these. It moves us in the wrong direction: memos are not sustainable / scalable in their current form, and we shouldn't be encouraging people to use them in ways we didn't originally anticipate. I appreciate the careful attention to detail and effort put into the ZIP though!\n\n5. Explicit fees seem fine.\n\n6. Sprout removal seems to have more opposition than I expected. We really need to propose this to the community again, perhaps next time with a more clear timeline/warning process. Sprout users are not paying for the ongoing burden that the Sprout pool has on the maintenance of the protocol, and the pool is nearly abandoned.\n\n7. Tachyon has fantastic support from coinholders and from most others that were polled too. Thank you! Making progress on scalability seems very important to ZEC holders and most Zcashers I've talked to. I believe the results show there is a mandate to making progress shipping a shielded pool on mainnet even without wallet support, which is how our other pools have previously been shipped. I think this kind of aggressive deployment strategy is essential to making meaningful progress on scale. More generally, I think this bodes well for other scaling-related objectives being developed such as the ideas coming from the @zkDragon camp (which I think will be vital for Tachyon's success), and so those should feel a similar amount of support here. Take this one with a grain of salt, since Tachyon is my pet project!\n\n8. STARKs haven't quite been sold to the community yet. I haven't seen much enthusiasm for them on a technical level from other protocol devs due to concerns like security levels. Let's maybe keep iterating on this, it doesn't seem dead but it seems like an uphill climb.\n\n9. Dynamic fees don't enjoy much support and there's genuine concern/skepticism about the mechanics design of them (as proposed.) I agree, this needs more work.\n\n10. No real enthusiasm for consensus accounts. This is a weird one, I don't know what to think about it yet.\n\n11. Quantum recoverability is pretty solid across the board. Great work to the ZODL crew on this.",
+      "contentHtml": "Interpretation of the Zcash coinholder sentiment collection... (My personal view is that if coinholders strongly oppose a change, it's *really* hard to argue we should do it anyway.)\n\n1. ZSAs are in bad shape. There is basically no support from coinholders, and I'm not sure there's enough enthusiasm elsewhere to overcome this. I'm personally not bullish about ZSAs for numerous technical reasons. I think an argument still needs to be made for including this feature in the protocol.\n\n2. NSM (modulo fee burning) seems unpopular with coinholders too. My guess is that anything that touches this issuance gives off bad vibes regardless of its merit. I think *because* it touches issuance we should be even more deferential to coinholders.\n\n3. Fee burning seems fine.\n\n4. Memo bundles are broadly disliked from coinholders. Personally I don't like these. It moves us in the wrong direction: memos are not sustainable / scalable in their current form, and we shouldn't be encouraging people to use them in ways we didn't originally anticipate. I appreciate the careful attention to detail and effort put into the ZIP though!\n\n5. Explicit fees seem fine.\n\n6. Sprout removal seems to have more opposition than I expected. We really need to propose this to the community again, perhaps next time with a more clear timeline/warning process. Sprout users are not paying for the ongoing burden that the Sprout pool has on the maintenance of the protocol, and the pool is nearly abandoned.\n\n7. Tachyon has fantastic support from coinholders and from most others that were polled too. Thank you! Making progress on scalability seems very important to ZEC holders and most Zcashers I've talked to. I believe the results show there is a mandate to making progress shipping a shielded pool on mainnet even without wallet support, which is how our other pools have previously been shipped. I think this kind of aggressive deployment strategy is essential to making meaningful progress on scale. More generally, I think this bodes well for other scaling-related objectives being developed such as the ideas coming from the <a href=\"/zkDragon\" title=\"Dev 🧪\">@zkDragon</a> camp (which I think will be vital for Tachyon's success), and so those should feel a similar amount of support here. Take this one with a grain of salt, since Tachyon is my pet project!\n\n8. STARKs haven't quite been sold to the community yet. I haven't seen much enthusiasm for them on a technical level from other protocol devs due to concerns like security levels. Let's maybe keep iterating on this, it doesn't seem dead but it seems like an uphill climb.\n\n9. Dynamic fees don't enjoy much support and there's genuine concern/skepticism about the mechanics design of them (as proposed.) I agree, this needs more work.\n\n10. No real enthusiasm for consensus accounts. This is a weird one, I don't know what to think about it yet.\n\n11. Quantum recoverability is pretty solid across the board. Great work to the ZODL crew on this.",
+      "publishedAt": "2026-02-21T00:42:00.000Z",
+      "link": "https://x.com/ebfull/status/2025008288530845843",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10984,56 +11024,6 @@
       "contentHtml": "<a href=\"https://nitter.net/i/broadcasts/1YpKkkBojOwKj\">nitter.net/i/broadcasts/1YpKkkBoj…</a>",
       "publishedAt": "2026-02-09T13:39:00.000Z",
       "link": "https://x.com/Bitfatty/status/2020855198013649170",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2020855027980779855",
-      "username": "turingou",
-      "displayName": "郭宇 guoyu.eth",
-      "avatar": "https://nitter.net/pic/profile_images%2F1870511184761483265%2FQO7R0Ow3_bigger.jpg",
-      "content": "向大家介绍我的第六个 vibe 产品，shipkey，现已开源！\n\n它解决一个所有开发者都遇过的问题 —— API 密钥管理混乱。\n\n换电脑 .env 丢了，新成员入职花半天找密钥，GitHub/Cloudflare/本地三处的 secrets 不同步，创建 Token 不知道该勾哪些权限。\n\nshipkey 用一条命令解决：\n\nshipkey setup\n\n它会做这些事：\n\n1️⃣ 自动扫描项目的 .env、GitHub Workflows、wrangler.toml、package.json\n2️⃣ 识别所有 API 密钥并按服务商分组（Cloudflare、Stripe、AWS...）\n3️⃣ 从代码推断 Token 所需权限（比如检测到 wrangler 用了 KV → 提示勾选 \"Workers KV Storage: Edit\"）\n4️⃣ 打开一个浏览器交互向导，逐步引导你配置每个密钥\n5️⃣ 一键保存到 1Password + 写入本地 .env.local\n\n之后在任何新机器上：\n\nshipkey pull    # 从 1Password 恢复所有密钥，数秒完成\nshipkey sync    # 一键同步到 GitHub Actions / Cloudflare Workers\n\n特点：\n• 纯本地运行，密钥不经过任何第三方服务器\n• 基于 1Password CLI，生物识别解锁\n• 支持 monorepo，递归扫描所有子项目\n• 权限推断：扫描代码自动告诉你 Token 需要哪些权限\n\n官网: shipkey.dev\nGitHub: github.com/chekusu/shipkey",
-      "contentHtml": "向大家介绍我的第六个 vibe 产品，shipkey，现已开源！\n\n它解决一个所有开发者都遇过的问题 —— API 密钥管理混乱。\n\n换电脑 .env 丢了，新成员入职花半天找密钥，GitHub/Cloudflare/本地三处的 secrets 不同步，创建 Token 不知道该勾哪些权限。\n\nshipkey 用一条命令解决：\n\nshipkey setup\n\n它会做这些事：\n\n1️⃣ 自动扫描项目的 .env、GitHub Workflows、wrangler.toml、package.json\n2️⃣ 识别所有 API 密钥并按服务商分组（Cloudflare、Stripe、AWS...）\n3️⃣ 从代码推断 Token 所需权限（比如检测到 wrangler 用了 KV → 提示勾选 \"Workers KV Storage: Edit\"）\n4️⃣ 打开一个浏览器交互向导，逐步引导你配置每个密钥\n5️⃣ 一键保存到 1Password + 写入本地 .env.local\n\n之后在任何新机器上：\n\nshipkey pull    # 从 1Password 恢复所有密钥，数秒完成\nshipkey sync    # 一键同步到 GitHub Actions / Cloudflare Workers\n\n特点：\n• 纯本地运行，密钥不经过任何第三方服务器\n• 基于 1Password CLI，生物识别解锁\n• 支持 monorepo，递归扫描所有子项目\n• 权限推断：扫描代码自动告诉你 Token 需要哪些权限\n\n官网: <a href=\"https://shipkey.dev\">shipkey.dev</a>\nGitHub: <a href=\"https://github.com/chekusu/shipkey\">github.com/chekusu/shipkey</a>",
-      "publishedAt": "2026-02-09T13:39:00.000Z",
-      "link": "https://x.com/turingou/status/2020855027980779855",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAuEy03aYAAo1T-.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2020845040378294530",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "从此我们两不相欠",
-      "contentHtml": "从此我们两不相欠",
-      "publishedAt": "2026-02-09T12:59:00.000Z",
-      "link": "https://x.com/hazenlee/status/2020845040378294530",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAt71_lbsAA-Dxv.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAt71_WbIAEw2n8.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
