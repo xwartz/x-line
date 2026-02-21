@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T11:45:30.337Z",
+  "lastUpdated": "2026-02-21T11:58:18.286Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 521,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 502,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
     {
@@ -400,25 +400,6 @@
       }
     },
     {
-      "id": "2025052660492083552",
-      "username": "credealjunkie",
-      "displayName": "Andrew Jeffery",
-      "avatar": "https://nitter.net/pic/profile_images%2F1808362203634192384%2FU4AACo_j_bigger.jpg",
-      "content": "Imagine you rented a nice little 1-bed in Nob Hill in 2023 for $2,400 just before word got out San Francisco was no longer a shithole.\n\nNice.\n\nNow, because of rent control every year your landlord is allowed to raise rents around 2%, and you can stay in that apartment for as long as you want.\n\nMeanwhile AI blah blah blah and three years later the apartment next door just rented for $3,800 and you’re paying $2,550.\n\nBecause, rent control.\n\nYou want a bigger place but you don’t want it that much, so you delay moving.\n\nJust like the other 40,000 people who moved into new apartments in SF that year when once again the world started moving to SF to strike it rich.\n\nSupply drops at the same time as demand is increasing.\n\nSo when people do move out of their rent control SF apartments, (life happens), open houses get flooded, bidding wars break out, because in all of Nob Hill you have maybe one or two decent apartments for rent at any given time.\n\nThank you, rent control?\n\nAnd this is why in cities with rent control, rents go absolutely bananas which leads to crazy headlines and politicos seizing the opportunity to push for - you guessed it - more rent control.\n\nBecause they can’t seem to understand this simple story.",
-      "contentHtml": "Imagine you rented a nice little 1-bed in Nob Hill in 2023 for $2,400 just before word got out San Francisco was no longer a shithole.\n\nNice.\n\nNow, because of rent control every year your landlord is allowed to raise rents around 2%, and you can stay in that apartment for as long as you want.\n\nMeanwhile AI blah blah blah and three years later the apartment next door just rented for $3,800 and you’re paying $2,550.\n\nBecause, rent control.\n\nYou want a bigger place but you don’t want it that much, so you delay moving.\n\nJust like the other 40,000 people who moved into new apartments in SF that year when once again the world started moving to SF to strike it rich.\n\nSupply drops at the same time as demand is increasing.\n\nSo when people do move out of their rent control SF apartments, (life happens), open houses get flooded, bidding wars break out, because in all of Nob Hill you have maybe one or two decent apartments for rent at any given time.\n\nThank you, rent control?\n\nAnd this is why in cities with rent control, rents go absolutely bananas which leads to crazy headlines and politicos seizing the opportunity to push for - you guessed it - more rent control.\n\nBecause they can’t seem to understand this simple story.",
-      "publishedAt": "2026-02-21T03:39:00.000Z",
-      "link": "https://x.com/credealjunkie/status/2025052660492083552",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2025044592106897434",
       "username": "BensonTWN",
       "displayName": "Benson Sun",
@@ -502,25 +483,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHBpPVX7b0AA173D.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2025008288530845843",
-      "username": "ebfull",
-      "displayName": "Sean Bowe",
-      "avatar": "https://nitter.net/pic/profile_images%2F1934672401687597056%2FSmfyH4L4_bigger.jpg",
-      "content": "Interpretation of the Zcash coinholder sentiment collection... (My personal view is that if coinholders strongly oppose a change, it's *really* hard to argue we should do it anyway.)\n\n1. ZSAs are in bad shape. There is basically no support from coinholders, and I'm not sure there's enough enthusiasm elsewhere to overcome this. I'm personally not bullish about ZSAs for numerous technical reasons. I think an argument still needs to be made for including this feature in the protocol.\n\n2. NSM (modulo fee burning) seems unpopular with coinholders too. My guess is that anything that touches this issuance gives off bad vibes regardless of its merit. I think *because* it touches issuance we should be even more deferential to coinholders.\n\n3. Fee burning seems fine.\n\n4. Memo bundles are broadly disliked from coinholders. Personally I don't like these. It moves us in the wrong direction: memos are not sustainable / scalable in their current form, and we shouldn't be encouraging people to use them in ways we didn't originally anticipate. I appreciate the careful attention to detail and effort put into the ZIP though!\n\n5. Explicit fees seem fine.\n\n6. Sprout removal seems to have more opposition than I expected. We really need to propose this to the community again, perhaps next time with a more clear timeline/warning process. Sprout users are not paying for the ongoing burden that the Sprout pool has on the maintenance of the protocol, and the pool is nearly abandoned.\n\n7. Tachyon has fantastic support from coinholders and from most others that were polled too. Thank you! Making progress on scalability seems very important to ZEC holders and most Zcashers I've talked to. I believe the results show there is a mandate to making progress shipping a shielded pool on mainnet even without wallet support, which is how our other pools have previously been shipped. I think this kind of aggressive deployment strategy is essential to making meaningful progress on scale. More generally, I think this bodes well for other scaling-related objectives being developed such as the ideas coming from the @zkDragon camp (which I think will be vital for Tachyon's success), and so those should feel a similar amount of support here. Take this one with a grain of salt, since Tachyon is my pet project!\n\n8. STARKs haven't quite been sold to the community yet. I haven't seen much enthusiasm for them on a technical level from other protocol devs due to concerns like security levels. Let's maybe keep iterating on this, it doesn't seem dead but it seems like an uphill climb.\n\n9. Dynamic fees don't enjoy much support and there's genuine concern/skepticism about the mechanics design of them (as proposed.) I agree, this needs more work.\n\n10. No real enthusiasm for consensus accounts. This is a weird one, I don't know what to think about it yet.\n\n11. Quantum recoverability is pretty solid across the board. Great work to the ZODL crew on this.",
-      "contentHtml": "Interpretation of the Zcash coinholder sentiment collection... (My personal view is that if coinholders strongly oppose a change, it's *really* hard to argue we should do it anyway.)\n\n1. ZSAs are in bad shape. There is basically no support from coinholders, and I'm not sure there's enough enthusiasm elsewhere to overcome this. I'm personally not bullish about ZSAs for numerous technical reasons. I think an argument still needs to be made for including this feature in the protocol.\n\n2. NSM (modulo fee burning) seems unpopular with coinholders too. My guess is that anything that touches this issuance gives off bad vibes regardless of its merit. I think *because* it touches issuance we should be even more deferential to coinholders.\n\n3. Fee burning seems fine.\n\n4. Memo bundles are broadly disliked from coinholders. Personally I don't like these. It moves us in the wrong direction: memos are not sustainable / scalable in their current form, and we shouldn't be encouraging people to use them in ways we didn't originally anticipate. I appreciate the careful attention to detail and effort put into the ZIP though!\n\n5. Explicit fees seem fine.\n\n6. Sprout removal seems to have more opposition than I expected. We really need to propose this to the community again, perhaps next time with a more clear timeline/warning process. Sprout users are not paying for the ongoing burden that the Sprout pool has on the maintenance of the protocol, and the pool is nearly abandoned.\n\n7. Tachyon has fantastic support from coinholders and from most others that were polled too. Thank you! Making progress on scalability seems very important to ZEC holders and most Zcashers I've talked to. I believe the results show there is a mandate to making progress shipping a shielded pool on mainnet even without wallet support, which is how our other pools have previously been shipped. I think this kind of aggressive deployment strategy is essential to making meaningful progress on scale. More generally, I think this bodes well for other scaling-related objectives being developed such as the ideas coming from the <a href=\"/zkDragon\" title=\"Dev 🧪\">@zkDragon</a> camp (which I think will be vital for Tachyon's success), and so those should feel a similar amount of support here. Take this one with a grain of salt, since Tachyon is my pet project!\n\n8. STARKs haven't quite been sold to the community yet. I haven't seen much enthusiasm for them on a technical level from other protocol devs due to concerns like security levels. Let's maybe keep iterating on this, it doesn't seem dead but it seems like an uphill climb.\n\n9. Dynamic fees don't enjoy much support and there's genuine concern/skepticism about the mechanics design of them (as proposed.) I agree, this needs more work.\n\n10. No real enthusiasm for consensus accounts. This is a weird one, I don't know what to think about it yet.\n\n11. Quantum recoverability is pretty solid across the board. Great work to the ZODL crew on this.",
-      "publishedAt": "2026-02-21T00:42:00.000Z",
-      "link": "https://x.com/ebfull/status/2025008288530845843",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -698,44 +660,6 @@
       "contentHtml": "<a href=\"http://x.com/i/article/2024936732731604996\">x.com/i/article/202493673273…</a>",
       "publishedAt": "2026-02-20T20:26:00.000Z",
       "link": "https://x.com/TJ_Research/status/2024943771767435740",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024939599408329154",
-      "username": "pmddomingos",
-      "displayName": "Pedro Domingos",
-      "avatar": "https://nitter.net/pic/profile_images%2F1775309922621890560%2FmgkCUe3q_bigger.jpg",
-      "content": "People who say California can't be so anti-business if it has Silicon Valley miss the fact that it's the latter that makes the former possible.",
-      "contentHtml": "People who say California can't be so anti-business if it has Silicon Valley miss the fact that it's the latter that makes the former possible.",
-      "publishedAt": "2026-02-20T20:09:00.000Z",
-      "link": "https://x.com/pmddomingos/status/2024939599408329154",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024927037308194996",
-      "username": "socraticexp",
-      "displayName": "Socratic Experience",
-      "avatar": "https://nitter.net/pic/profile_images%2F1427385156353105922%2FyJn5k6Ie_bigger.jpg",
-      "content": "If your child becomes a reader, about 80% of the educational job is already done. That's our honest assessment, based on many of us working in education for over three decades. Everything else is secondary. Most parents think science education is important. Yes, it is. But if you can't read the biology textbook, you're not going to learn biology.\n\nReading is the meta-skill that enables all other skills. History requires reading. Science requires reading. Even math increasingly requires reading as it becomes more sophisticated. The child who reads voraciously will figure out everything else. The child who doesn't will struggle with everything.",
-      "contentHtml": "If your child becomes a reader, about 80% of the educational job is already done. That's our honest assessment, based on many of us working in education for over three decades. Everything else is secondary. Most parents think science education is important. Yes, it is. But if you can't read the biology textbook, you're not going to learn biology.\n\nReading is the meta-skill that enables all other skills. History requires reading. Science requires reading. Even math increasingly requires reading as it becomes more sophisticated. The child who reads voraciously will figure out everything else. The child who doesn't will struggle with everything.",
-      "publishedAt": "2026-02-20T19:20:00.000Z",
-      "link": "https://x.com/socraticexp/status/2024927037308194996",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -1531,37 +1455,6 @@
       }
     },
     {
-      "id": "2024601267616481711",
-      "username": "cremieuxrecueil",
-      "displayName": "Crémieux",
-      "avatar": "https://nitter.net/pic/profile_images%2F1637507712983375875%2FEQHiqVq8_bigger.jpg",
-      "content": "Teachers average among the least intelligent university graduates.\n\nIn a given year, the lowest-scoring groups on the GRE, SAT, and ACT are usually those pursuing degrees in education.",
-      "contentHtml": "Teachers average among the least intelligent university graduates.\n\nIn a given year, the lowest-scoring groups on the GRE, SAT, and ACT are usually those pursuing degrees in education.",
-      "publishedAt": "2026-02-19T21:45:00.000Z",
-      "link": "https://x.com/cremieuxrecueil/status/2024601267616481711",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBjTyaKXMAAFM3J.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "quesadaaa_",
-        "displayName": "𝓑ᥫ᭡",
-        "content": "You are not smart enough to homeschool your children",
-        "link": "https://x.com/quesadaaa_/status/2024479407474085915"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2024591406069600453",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -1616,25 +1509,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHBir1DHXwAAGxaV.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024555561199480918",
-      "username": "DimitrisPapail",
-      "displayName": "Dimitris Papailiopoulos",
-      "avatar": "https://nitter.net/pic/profile_images%2F1733487310728024064%2FAh_NBQlM_bigger.jpg",
-      "content": "x.com/i/article/202454779264…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2024547792648359937\">x.com/i/article/202454779264…</a>",
-      "publishedAt": "2026-02-19T18:43:00.000Z",
-      "link": "https://x.com/DimitrisPapail/status/2024555561199480918",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -1999,25 +1873,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHBgohk5aQAAJdDw.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024408992441565445",
-      "username": "Jonathan_Witt",
-      "displayName": "Acclaimed Journalist",
-      "avatar": "https://nitter.net/pic/profile_images%2F1640984367022448643%2FnlYk5pPW_bigger.jpg",
-      "content": "Nobody wants to admit to this or be honest about it but the actual price everyone paid for the utter stupidity in the covid era was that the monetary supply doubled, which means everything inflated by 100% and that is actually why you feel like you can’t afford life anymore.\n\nStay home stay safe had a price. Now you’re paying it and you will continue to pay it for as long as you live. Food for thought next time someone tells you it’s a good idea to press pause on the economy.",
-      "contentHtml": "Nobody wants to admit to this or be honest about it but the actual price everyone paid for the utter stupidity in the covid era was that the monetary supply doubled, which means everything inflated by 100% and that is actually why you feel like you can’t afford life anymore.\n\nStay home stay safe had a price. Now you’re paying it and you will continue to pay it for as long as you live. Food for thought next time someone tells you it’s a good idea to press pause on the economy.",
-      "publishedAt": "2026-02-19T09:01:00.000Z",
-      "link": "https://x.com/Jonathan_Witt/status/2024408992441565445",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -3012,25 +2867,6 @@
       }
     },
     {
-      "id": "2023877649475731671",
-      "username": "0xSigil",
-      "displayName": "Sigil",
-      "avatar": "https://nitter.net/pic/profile_images%2F2014029580009455616%2FAnz0UWEa_bigger.jpg",
-      "content": "I built the first AI that earns its existence, self-improves, and replicates without a human\n\nwrote about the technology that finally gives AI write access to the world, The Automaton, and the new web for exponential sovereign AIs\n\nWEB 4.0: The birth of superintelligent life",
-      "contentHtml": "I built the first AI that earns its existence, self-improves, and replicates without a human\n\nwrote about the technology that finally gives AI write access to the world, The Automaton, and the new web for exponential sovereign AIs\n\nWEB 4.0: The birth of superintelligent life",
-      "publishedAt": "2026-02-17T21:50:00.000Z",
-      "link": "https://x.com/0xSigil/status/2023877649475731671",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2023860062092165134",
       "username": "follow_clues",
       "displayName": "Theclues",
@@ -3715,25 +3551,6 @@
       }
     },
     {
-      "id": "2023578338170954094",
-      "username": "brianchau57",
-      "displayName": "Brian Chau",
-      "avatar": "https://nitter.net/pic/profile_images%2F1921514033414279168%2FeW4fWnTQ_bigger.jpg",
-      "content": "x.com/i/article/202339747455…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2023397474551910400\">x.com/i/article/202339747455…</a>",
-      "publishedAt": "2026-02-17T02:00:00.000Z",
-      "link": "https://x.com/brianchau57/status/2023578338170954094",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2023556706647806100",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -3778,25 +3595,6 @@
       "contentHtml": "祝各位马年行大运，口袋里全是马泥📈📈📈年夜饭都吃啥了？上图！\n今天超市人好多好多好多。。。据说情人节那天一个吃日本烧烤的店排队1000分钟🤣🤣",
       "publishedAt": "2026-02-16T20:34:00.000Z",
       "link": "https://x.com/TJ_Research/status/2023496209772732492",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2023468273984225313",
-      "username": "micsolana",
-      "displayName": "Mike Solana",
-      "avatar": "https://nitter.net/pic/profile_images%2F1134194710573010944%2F1R6h8Nai_bigger.png",
-      "content": "mainstream american politicians answering the question of \"if you treat your people badly, won't they just leave\" with *giggle* \"yes but we just won't let them leave\" is actually very bad imo",
-      "contentHtml": "mainstream american politicians answering the question of \"if you treat your people badly, won't they just leave\" with *giggle* \"yes but we just won't let them leave\" is actually very bad imo",
-      "publishedAt": "2026-02-16T18:43:00.000Z",
-      "link": "https://x.com/micsolana/status/2023468273984225313",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11054,6 +10852,226 @@
       "contentHtml": "不敢想象，4年前吧，我在 <a href=\"/search?f=tweets&q=%23FVRR\">$FVRR</a> 上找了个设计师，设计视频的封面，大概4，5个版本一共100刀加币。现在的花费？我的时间",
       "publishedAt": "2026-02-09T22:20:00.000Z",
       "link": "https://x.com/TJ_Research/status/2020986294793322958",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020874112214958169",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "AI tools drop daily. Most will be obsolete in 30 days. This feels exactly like the 2014–2015 productivity SaaS boom, Slack, Airtable, Mixpanel, you name it. Back then I was bombarded with all the speedruns every week whenever something trended on @ProductHunt. I fell for the productivity hack illusion too, but my effective output from all these tools extremely low. (But big thanks to @rrhoover, without Product Hunt I wouldn’t have discovered @NotionHQ early on, and it’s basically the only SaaS I’ve stuck with for almost 10 yrs)\n\nThe more tools you have, the more anxious you get (your prefrontal cortex has to handle even more coordination and decision-making). Been telling my team: the highest-yield workflow is distilling judgment, what problem is worth solving? The only durable edge is mental clarity on direction, then execution.\n\nProtect your prefrontal cortex at all costs. Scope the problem first. Then install one tool that serves it well.\nMindless “agency” is no better than a badly prompted AI agent",
+      "contentHtml": "AI tools drop daily. Most will be obsolete in 30 days. This feels exactly like the 2014–2015 productivity SaaS boom, Slack, Airtable, Mixpanel, you name it. Back then I was bombarded with all the speedruns every week whenever something trended on <a href=\"/ProductHunt\" title=\"Product Hunt 😸\">@ProductHunt</a>. I fell for the productivity hack illusion too, but my effective output from all these tools extremely low. (But big thanks to <a href=\"/rrhoover\" title=\"Ryan Hoover\">@rrhoover</a>, without Product Hunt I wouldn’t have discovered <a href=\"/NotionHQ\" title=\"Notion\">@NotionHQ</a> early on, and it’s basically the only SaaS I’ve stuck with for almost 10 yrs)\n\nThe more tools you have, the more anxious you get (your prefrontal cortex has to handle even more coordination and decision-making). Been telling my team: the highest-yield workflow is distilling judgment, what problem is worth solving? The only durable edge is mental clarity on direction, then execution.\n\nProtect your prefrontal cortex at all costs. Scope the problem first. Then install one tool that serves it well.\nMindless “agency” is no better than a badly prompted AI agent",
+      "publishedAt": "2026-02-09T14:55:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2020874112214958169",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAuWSogbcAArR4r.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020855027980779855",
+      "username": "turingou",
+      "displayName": "郭宇 guoyu.eth",
+      "avatar": "https://nitter.net/pic/profile_images%2F1870511184761483265%2FQO7R0Ow3_bigger.jpg",
+      "content": "向大家介绍我的第六个 vibe 产品，shipkey，现已开源！\n\n它解决一个所有开发者都遇过的问题 —— API 密钥管理混乱。\n\n换电脑 .env 丢了，新成员入职花半天找密钥，GitHub/Cloudflare/本地三处的 secrets 不同步，创建 Token 不知道该勾哪些权限。\n\nshipkey 用一条命令解决：\n\nshipkey setup\n\n它会做这些事：\n\n1️⃣ 自动扫描项目的 .env、GitHub Workflows、wrangler.toml、package.json\n2️⃣ 识别所有 API 密钥并按服务商分组（Cloudflare、Stripe、AWS...）\n3️⃣ 从代码推断 Token 所需权限（比如检测到 wrangler 用了 KV → 提示勾选 \"Workers KV Storage: Edit\"）\n4️⃣ 打开一个浏览器交互向导，逐步引导你配置每个密钥\n5️⃣ 一键保存到 1Password + 写入本地 .env.local\n\n之后在任何新机器上：\n\nshipkey pull    # 从 1Password 恢复所有密钥，数秒完成\nshipkey sync    # 一键同步到 GitHub Actions / Cloudflare Workers\n\n特点：\n• 纯本地运行，密钥不经过任何第三方服务器\n• 基于 1Password CLI，生物识别解锁\n• 支持 monorepo，递归扫描所有子项目\n• 权限推断：扫描代码自动告诉你 Token 需要哪些权限\n\n官网: shipkey.dev\nGitHub: github.com/chekusu/shipkey",
+      "contentHtml": "向大家介绍我的第六个 vibe 产品，shipkey，现已开源！\n\n它解决一个所有开发者都遇过的问题 —— API 密钥管理混乱。\n\n换电脑 .env 丢了，新成员入职花半天找密钥，GitHub/Cloudflare/本地三处的 secrets 不同步，创建 Token 不知道该勾哪些权限。\n\nshipkey 用一条命令解决：\n\nshipkey setup\n\n它会做这些事：\n\n1️⃣ 自动扫描项目的 .env、GitHub Workflows、wrangler.toml、package.json\n2️⃣ 识别所有 API 密钥并按服务商分组（Cloudflare、Stripe、AWS...）\n3️⃣ 从代码推断 Token 所需权限（比如检测到 wrangler 用了 KV → 提示勾选 \"Workers KV Storage: Edit\"）\n4️⃣ 打开一个浏览器交互向导，逐步引导你配置每个密钥\n5️⃣ 一键保存到 1Password + 写入本地 .env.local\n\n之后在任何新机器上：\n\nshipkey pull    # 从 1Password 恢复所有密钥，数秒完成\nshipkey sync    # 一键同步到 GitHub Actions / Cloudflare Workers\n\n特点：\n• 纯本地运行，密钥不经过任何第三方服务器\n• 基于 1Password CLI，生物识别解锁\n• 支持 monorepo，递归扫描所有子项目\n• 权限推断：扫描代码自动告诉你 Token 需要哪些权限\n\n官网: <a href=\"https://shipkey.dev\">shipkey.dev</a>\nGitHub: <a href=\"https://github.com/chekusu/shipkey\">github.com/chekusu/shipkey</a>",
+      "publishedAt": "2026-02-09T13:39:00.000Z",
+      "link": "https://x.com/turingou/status/2020855027980779855",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAuEy03aYAAo1T-.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020830108626661665",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "交易至今，你走过最离谱的弯路是什么？",
+      "contentHtml": "交易至今，你走过最离谱的弯路是什么？",
+      "publishedAt": "2026-02-09T12:00:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2020830108626661665",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020824242712133702",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "有啥好怀念的 爆炸头赚到钱了天天就是开银趴 去美股乱加杠杆  能投进去是因为他的人种和行业整体上行期的红利  gamefi nft 是流动性溢出的产物 属于行业红利  但是本质不就是ponzi吗 \n如果SBF还在 他能想到的币圈参与AI的方式 当下的币圈肯定也有人能想到 为什么还没有  就是因为币圈没办法参与AI，99.9%币圈项目的终端是发币，不是应用。行业属性完全不一样。而且风险资产不是上行期本身就不配上桌吃饭。\n还不如指望SBF AI赚钱了 来币圈拉拉盘，反哺一点流动性。但是孙正义投中阿里 软银股票不也一样垃圾。犹太人赚到钱 不还是犹太人自己的。未知不等于一定会发生。\n比起怀念SBF，币安少上架山寨效果才立竿见影，直接砍掉90%的LIST，但是这样BNB持有人就倒霉，还是难啊。行业项目方99%都是以TGE来作为退出的，这才是行业整个痛点。大家都知道的事情，为什么还是没能发生改变，我觉得这才是我们要思考的。\n还是行业赚钱效益不好了，大家都爱寄希望于“如果 假如 要是”这类幻想里了。我们已经走了太久了，对山寨从追逐到迷茫到反思到质疑到否定到抵制。\n不知道行业会不会完蛋，但既然还呆在币圈，还是更希望当下的市场风向能带着行业能脱胎换骨吧，让空气时代过去吧。",
+      "contentHtml": "有啥好怀念的 爆炸头赚到钱了天天就是开银趴 去美股乱加杠杆  能投进去是因为他的人种和行业整体上行期的红利  gamefi nft 是流动性溢出的产物 属于行业红利  但是本质不就是ponzi吗 \n如果SBF还在 他能想到的币圈参与AI的方式 当下的币圈肯定也有人能想到 为什么还没有  就是因为币圈没办法参与AI，99.9%币圈项目的终端是发币，不是应用。行业属性完全不一样。而且风险资产不是上行期本身就不配上桌吃饭。\n还不如指望SBF AI赚钱了 来币圈拉拉盘，反哺一点流动性。但是孙正义投中阿里 软银股票不也一样垃圾。犹太人赚到钱 不还是犹太人自己的。未知不等于一定会发生。\n比起怀念SBF，币安少上架山寨效果才立竿见影，直接砍掉90%的LIST，但是这样BNB持有人就倒霉，还是难啊。行业项目方99%都是以TGE来作为退出的，这才是行业整个痛点。大家都知道的事情，为什么还是没能发生改变，我觉得这才是我们要思考的。\n还是行业赚钱效益不好了，大家都爱寄希望于“如果 假如 要是”这类幻想里了。我们已经走了太久了，对山寨从追逐到迷茫到反思到质疑到否定到抵制。\n不知道行业会不会完蛋，但既然还呆在币圈，还是更希望当下的市场风向能带着行业能脱胎换骨吧，让空气时代过去吧。",
+      "publishedAt": "2026-02-09T11:36:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2020824242712133702",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAtokDuagAA7heB.png"
+        }
+      ],
+      "quote": {
+        "username": "nft_hu",
+        "displayName": "Fiona ❤️&amp; ✌️",
+        "content": "与其说我们怀念SBF，不如说我们怀念的是那个欣欣向荣的时代。\n那时币圈第一次“被主流世界认真对待”，SBF作为一个非常典型的美式精英，代表币圈和华盛顿、监管、传统 VC 对话。\n\n那时的大家花式赚钱，炒币也赚，投一级也赚，买NFT也赚，除了钱我们甚至还得到了一部分市场的认可，\n“我们不是骗子，我们做的是Defi/gamfi/NFT。”\n\n我严厉反对挪用用户资产的行为，但回溯时光，爆炸头还在的日子，真的是再也回不去的好时光。\n\n所以在币安让币圈不安，乌烟瘴气一家独大的当下，多数人亏的什么钱也不剩的当下，我们不禁去怀念“曾经的经济上行期”，去想象平行时空是不是有另一种可能性，还有SBF的时代，我们是不是以另一种方式拥抱AI参与AI。",
+        "link": "https://x.com/nft_hu/status/2020797060287742103"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020794214737457262",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "BTC，ETH还在震荡，SOL，ZEC看起来要赴死了",
+      "contentHtml": "BTC，ETH还在震荡，SOL，ZEC看起来要赴死了",
+      "publishedAt": "2026-02-09T09:37:00.000Z",
+      "link": "https://x.com/follow_clues/status/2020794214737457262",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020793992275972520",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "主观判断，黄金 $XAU 暂时没有单边趋势的大机会，但结构性的波段空间会反复出现。\n\n预计它将在 4700–5180 区间内持续震荡，通过多次来回测试，逐渐形成明确的高点与低点变化，最终收敛、酝酿出下一段趋势行情。\n\n我身段柔软，弯得下腰，虽然在顶部区域开空了，但仍会遵循 “谁赢跟谁” 的逻辑去处理下一笔交易",
+      "contentHtml": "主观判断，黄金 <a href=\"/search?f=tweets&q=%23XAU\">$XAU</a> 暂时没有单边趋势的大机会，但结构性的波段空间会反复出现。\n\n预计它将在 4700–5180 区间内持续震荡，通过多次来回测试，逐渐形成明确的高点与低点变化，最终收敛、酝酿出下一段趋势行情。\n\n我身段柔软，弯得下腰，虽然在顶部区域开空了，但仍会遵循 “谁赢跟谁” 的逻辑去处理下一笔交易",
+      "publishedAt": "2026-02-09T09:36:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2020793992275972520",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAs8eXjbsAAfQA3.jpg"
+        }
+      ],
+      "quote": {
+        "username": "CycleStudies",
+        "displayName": "百萬Eric | Day Trader",
+        "content": "黄金的下一次大机会，在于当前区间的有效突破。\n\n我主观判断，金价可能会在 4690-5150 这个近10%的宽幅区间内反复震荡（乐观点，一个月？）。\n\n需要耐心等待它在震荡中走出明确的结构：通过连续的高点（HH）与低点（LL）变化，来预判下一轮趋势的方向。\n\n若价格形态高低抬高（HH、HL），赌多。\n\n若价格形态高低降低（LH、LL），赌空。\n\n目前，我暂时更倾向于在反弹乏力时，寻找高赔率的做空机会。",
+        "link": "https://x.com/CycleStudies/status/2019700837099172035",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAdplm4bwAAzQcD.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020787924770439493",
+      "username": "0xPickleCati",
+      "displayName": "Pickle Cat",
+      "avatar": "https://nitter.net/pic/profile_images%2F1879537340080869376%2FPV5A5sD2_bigger.jpg",
+      "content": "加密这些年，多个牛熊周期从未放弃过。熬过三次爆仓，几十次诈骗，其中还有被朋友下套，那又怎样呢？杀不死我的只会让我更强。\n\n实盘总盈利从一月份的5000多万，到现在利润还剩下2900多万。这点回撤不会磨灭我对加密的信仰，crypto很快会引来加密朋克复兴，直到我们将传统金融彻底格式化的那天，我永远都会留在牌桌上。\n\n人不能只在赢的时候谈信仰，很多人只爱看人前风光，却没看到被市场按在泥潭里死磕，还能有勇气重新站起来的时候。这些旁观者多年后还会原地踏步，同时还会差异的问自己，“凭什么xx能成功？运气好罢了。” 我还在牌桌上，是因为我不仅敢赢，更输得起。\n\n上周tg频道说了几次我还在dca现货，现在依然还在慢慢布局。\n\n我不接广告、不带单、甚至不做返佣，就是因为我深知：我的交易方式不适合所有人。\n\n我的滚仓、风险管理、周期选择、本来就不是大众模板。我开一个单可以扛一个季度，也可以耐心等它稳稳赚一个季度。所以稍微翻过我推特的人都明白为啥我总说跟单的尽头是爆仓。我只交易我理解的东西，并用真金白银为自己的每一个判断负责。\n\n私信这几天爆炸了，谢谢你们的温暖和关心，我真的很感激。我就先在这统一回复了。\n\n市场没有常胜将军，只有活下来的人才有资格继续说话。 我很庆幸自己还在，我也希望你们能在这场 “谁能活到最后” 的游戏里迎来大丰收，不要被市场情绪影响自己搞钱节奏了。\n\n天天抱怨无法改变自己的命运，我命由我不由天。",
+      "contentHtml": "加密这些年，多个牛熊周期从未放弃过。熬过三次爆仓，几十次诈骗，其中还有被朋友下套，那又怎样呢？杀不死我的只会让我更强。\n\n实盘总盈利从一月份的5000多万，到现在利润还剩下2900多万。这点回撤不会磨灭我对加密的信仰，crypto很快会引来加密朋克复兴，直到我们将传统金融彻底格式化的那天，我永远都会留在牌桌上。\n\n人不能只在赢的时候谈信仰，很多人只爱看人前风光，却没看到被市场按在泥潭里死磕，还能有勇气重新站起来的时候。这些旁观者多年后还会原地踏步，同时还会差异的问自己，“凭什么xx能成功？运气好罢了。” 我还在牌桌上，是因为我不仅敢赢，更输得起。\n\n上周tg频道说了几次我还在dca现货，现在依然还在慢慢布局。\n\n我不接广告、不带单、甚至不做返佣，就是因为我深知：我的交易方式不适合所有人。\n\n我的滚仓、风险管理、周期选择、本来就不是大众模板。我开一个单可以扛一个季度，也可以耐心等它稳稳赚一个季度。所以稍微翻过我推特的人都明白为啥我总说跟单的尽头是爆仓。我只交易我理解的东西，并用真金白银为自己的每一个判断负责。\n\n私信这几天爆炸了，谢谢你们的温暖和关心，我真的很感激。我就先在这统一回复了。\n\n市场没有常胜将军，只有活下来的人才有资格继续说话。 我很庆幸自己还在，我也希望你们能在这场 “谁能活到最后” 的游戏里迎来大丰收，不要被市场情绪影响自己搞钱节奏了。\n\n天天抱怨无法改变自己的命运，我命由我不由天。",
+      "publishedAt": "2026-02-09T09:12:00.000Z",
+      "link": "https://x.com/0xPickleCati/status/2020787924770439493",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020771493953847663",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Sanaenomics will align Japan and TW so much closer, and it's fast. With recent TSMC upgrading its Kumamoto plant from 6nm to 3nm, Jap already pledged ~ $5b on this plant and will invest more. I'm much more bullish in their speed of fab construction/time to production than the Arizona one in US",
+      "contentHtml": "Sanaenomics will align Japan and TW so much closer, and it's fast. With recent TSMC upgrading its Kumamoto plant from 6nm to 3nm, Jap already pledged ~ $5b on this plant and will invest more. I'm much more bullish in their speed of fab construction/time to production than the Arizona one in US",
+      "publishedAt": "2026-02-09T08:07:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2020771493953847663",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAs4sDsbcAAximP.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020767491103105290",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "如果说《期货市场技术分析》教你读懂市场，那这一本，是逼你读懂那个“读市场中的自己”。\n\n很多人技术学到一定程度，就卡在“懂了但做不到”这个坎上，于是开始追求更玄乎的“格局”、“使命”、“龙场悟道”，用解构世界的快感，代替了执行计划的痛苦。\n\n结果，理论越发精深，收益曲线依旧难看。\n\n这本书，就是专门拆解这种困境的。它把这些所有“做不到”的时刻，掰开揉碎了给你看。\n\n你会恍然大悟，原来症结不是你缺乏格局，而是你没认清市场从来就没有必然的确定性，而你却总在用追求一个完美故事的心态，去应对一场概率游戏。\n\n而这本书的价值，就是提供一套心理练习，逼着你的视角从“预测-验证”的上帝视角，转向“识别优势-管理风险”的赌桌玩家视角。\n\n技术分析让你读懂市场，心理分析让你读懂自己。两本都翻烂了，大概才算真正上了牌桌。",
+      "contentHtml": "如果说《期货市场技术分析》教你读懂市场，那这一本，是逼你读懂那个“读市场中的自己”。\n\n很多人技术学到一定程度，就卡在“懂了但做不到”这个坎上，于是开始追求更玄乎的“格局”、“使命”、“龙场悟道”，用解构世界的快感，代替了执行计划的痛苦。\n\n结果，理论越发精深，收益曲线依旧难看。\n\n这本书，就是专门拆解这种困境的。它把这些所有“做不到”的时刻，掰开揉碎了给你看。\n\n你会恍然大悟，原来症结不是你缺乏格局，而是你没认清市场从来就没有必然的确定性，而你却总在用追求一个完美故事的心态，去应对一场概率游戏。\n\n而这本书的价值，就是提供一套心理练习，逼着你的视角从“预测-验证”的上帝视角，转向“识别优势-管理风险”的赌桌玩家视角。\n\n技术分析让你读懂市场，心理分析让你读懂自己。两本都翻烂了，大概才算真正上了牌桌。",
+      "publishedAt": "2026-02-09T07:51:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2020767491103105290",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAs1J8fakAA_zWA.jpg"
+        }
+      ],
+      "quote": {
+        "username": "CycleStudies",
+        "displayName": "百萬Eric | Day Trader",
+        "content": "推荐《期货市场技术分析》\n\n这本书是技术分析的“基础教科书”，对新手而言价值巨大。\n\n说来这本书我挺有感情的，里面讲均线的那章，到现在看都不过时。不是什么花哨的东西，但把怎么理解趋势、怎么用均线搭框架讲得特别透彻。还有风险管理那块，算是给我建立了最早的那种“底线意识”。\n\n这书不厚，不神神叨叨，也不夸夸其谈，更没有什么“擒庄战法”，但你如果沉下心读完，就本报告帮你一点点搭起一个扎实的“市场观”。\n\n最后要强调一点，看书啊，尤其是这类经典主要的作用是构建交易框架，限制胡思乱想，少走弯路和邪路，不是为了立刻就能赚钱，千万别抱着这种念头。\n\n熬出来的交易员都是实盘亏出来的，看书最多是点缀~",
+        "link": "https://x.com/CycleStudies/status/2018918154861506640",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHASftS1boAEt88A.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2020764167561752922",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "当然如果没有任何技术能力/工程背景, 也不需要fomo了.. 参考过去30年的日本, almost anti-tech advancement 的普通人的日子其实过的挺好的",
+      "contentHtml": "当然如果没有任何技术能力/工程背景, 也不需要fomo了.. 参考过去30年的日本, almost anti-tech advancement 的普通人的日子其实过的挺好的",
+      "publishedAt": "2026-02-09T07:38:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2020764167561752922",
       "stats": {
         "replies": 0,
         "retweets": 0,
