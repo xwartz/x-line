@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T02:40:02.745Z",
+  "lastUpdated": "2026-02-22T04:32:24.236Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,47 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 507,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2025421234704711735",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "度假小半个月，回来一看，比特币价格没动，感觉“赚到了”（苦笑🥹",
+      "contentHtml": "度假小半个月，回来一看，比特币价格没动，感觉“赚到了”（苦笑🥹",
+      "publishedAt": "2026-02-22T04:03:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2025421234704711735",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2025408635099332969",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "大过年的，怎么还有人在悄悄赚钱啊🫤\n\n币安合约实盘聪明钱 7D 收益 TOP1 账户「投机投机之路」假期已盈利 48.7 万美元，主要是靠做多白银（XAG）赚到的，当前 6.2 万枚 XAG 多单仍浮盈 33.5 万美元，最近已平仓的三笔交易则累计盈利 22.4 万美元\n\n不过总体而言他的交易还是有赚有亏的，半个月前也因做多白银单笔交易亏过 58 万美金，而历史总亏损则超 1326 万美元，又平衡一些了…\n\n传送门 👉 binance.com/zh-CN/smart-mone…",
+      "contentHtml": "大过年的，怎么还有人在悄悄赚钱啊🫤\n\n币安合约实盘聪明钱 7D 收益 TOP1 账户「投机投机之路」假期已盈利 48.7 万美元，主要是靠做多白银（XAG）赚到的，当前 6.2 万枚 XAG 多单仍浮盈 33.5 万美元，最近已平仓的三笔交易则累计盈利 22.4 万美元\n\n不过总体而言他的交易还是有赚有亏的，半个月前也因做多白银单笔交易亏过 58 万美金，而历史总亏损则超 1326 万美元，又平衡一些了…\n\n传送门 👉 <a href=\"https://www.binance.com/zh-CN/smart-money/profile/4808778158325714688?rankingType=PNL&timeRange=7D\">binance.com/zh-CN/smart-mone…</a>",
+      "publishedAt": "2026-02-22T03:13:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2025408635099332969",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBuyaLFbgAIUYSX.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2025398790874939583",
       "username": "boundaryhq",
@@ -4528,31 +4564,6 @@
       "contentHtml": "OpenClaw 可以拿來做什麼？\n\n分享一個我最近剛搭好的產文流程：我讓跑在 Mac mini 上的 AI（我叫他 KAI）每天早上幫我選題、找資料、寫草稿、自我迭代。\n\n第一步：教它我的語氣\n\n我讓 KAI 直接看我的 X 和 Telegram，把過去兩年來的文章全部讀一遍。\n\n然後用 Claude Opus 4.6 分析我的寫作風格，整理出一份 200 行的風格指南。從句型節奏、開頭結尾偏好、到我最討厭的句型，全部歸納出來。\n\n這份指南後來變成整套系統的地基。AI 每次幫我寫東西之前，都會先讀它。\n\n第二步：讓它知道我在關注什麼\n\nKAI 每天早上會自動用瀏覽器登入我的 X 帳號抓書籤，同步我在 TG 和 X 上發過的文章。\n\n書籤代表我感興趣的內容，過去的文章代表我已經表達過的立場。\n\n兩邊一對，它就能判斷哪些值得寫、哪些寫過了。\n\n第三步：Digest 系統\n\n除了我自己的東西，KAI 還幫我建了一套 Digest 系統。\n\n每天自動搜 X 上我指定的幾個 AI 大神的貼文，掃 Reddit 相關版面，再抓 GitHub Trending Repo。篩完之後整理成摘要，發到我的 Discord。\n\n我不用自己滑 timeline，也能知道今天有什麼值得關注的。\n\n第四步：自動產文\n\n每天早上 9 點，系統會從書籤和 Digest 裡挑題目，用我的語氣寫出初稿，發到 Discord。\n\n------\n\n所以這其實是一套找關注內容加產文的系統。\n\n實際跑起來是什麼感覺呢？\n\n先講關注內容，找 Trending Repo 這個功能特別好用。像它今天推薦了 Chrome DevTools MCP，我馬上在 Discord 頻道開一個分支 thread，請它幫我想怎麼整進現有專案的測試流程。\n\n然後今天稍早那篇「AI Agent 是否需要 Crypto 付款」的文章，其實也是 KAI 先幫我寫草稿的產物。\n\n一開始 KAI 寫的草稿，口氣跟風格就已經很接近我本人了。但還是調整了很多次。\n\n譬如 JavaScript 跟 Email 的案例就是我心血來潮加上去的，讓整篇文章更完整表達為什麼「漸進式的創新，很難顛覆替換成本很高的現有解法」。\n\n但每次改完，我都會給它最終的定稿版本，它會自己去反思差異在哪邊，不斷迭代學習進化，再整進寫作風格的文檔。\n\n現在每天早上起來，都固定會有一篇初稿躺在我 Discord 的 draft 頻道裡。省去了選題材的時間，只需要專心把關文章的邏輯跟觀點就好。\n\n除此之外，我還開了一個專門的 Discord 頻道叫做 x-growth，我先讓 KAI 去研究 X 的推薦演算法，把分析結果寫進頻道的 system prompt。\n\n每週它在這個頻道，會自動讀我的 X Analytics 數據，對照演算法的最新變化，給我一份寫作建議。\n\n哪種開頭格式比較容易被推？長文還是短文互動率高？什麼時段發文觸及最好？這些我不用自己盯，KAI 每週會整理一次丟給我，然後也順便迭代產 draft 的那個流程。\n\n等於我的內容策略也在跟著數據每週迭代一次，不是光靠直覺在寫。\n\n對一個每天都要發文刷存在感、又要自己做產品的老闆來說，這大概是目前最適合我的節奏了。",
       "publishedAt": "2026-02-16T07:31:00.000Z",
       "link": "https://x.com/BensonTWN/status/2023299090407371237",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2023283442503602316",
-      "username": "OnchainLens",
-      "displayName": "Onchain Lens",
-      "avatar": "https://nitter.net/pic/profile_images%2F1953959476912119808%2F8CzAoz35_bigger.jpg",
-      "content": "In the past 24 hours, a whale deposited 732,481 $VVV ($3.03M) into #Coinbase, making a profit of $1.77M.\n\nThe whale initially withdrew 763,725 $VVV ($1.56M) from #Coinbase, then staked it for 6 months and deposited a total of 849,500 $VVV ($3.33M) back into #Coinbase.\n\nAddress: 0x9537ed61efd02794f9ea620bbccd464efdbd2b96\n\nData @nansen_ai",
-      "contentHtml": "In the past 24 hours, a whale deposited 732,481 <a href=\"/search?f=tweets&q=%23VVV\">$VVV</a> ($3.03M) into <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a>, making a profit of $1.77M.\n\nThe whale initially withdrew 763,725 <a href=\"/search?f=tweets&q=%23VVV\">$VVV</a> ($1.56M) from <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a>, then staked it for 6 months and deposited a total of 849,500 <a href=\"/search?f=tweets&q=%23VVV\">$VVV</a> ($3.33M) back into <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a>.\n\nAddress: 0x9537ed61efd02794f9ea620bbccd464efdbd2b96\n\nData <a href=\"/nansen_ai\" title=\"Nansen 🧭\">@nansen_ai</a>",
-      "publishedAt": "2026-02-16T06:28:00.000Z",
-      "link": "https://x.com/OnchainLens/status/2023283442503602316",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBQlkZ4aUAANz2h.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "follow_clues",
-        "displayName": "Theclues"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -9765,31 +9776,6 @@
       "contentHtml": "果然有发nft的项目，<a href=\"/EspressoSys\" title=\"Espresso ☕️\">@EspressoSys</a> 在有发币预期的时候就是最值钱的时候，后悔咖啡nft没清仓了，不仅没卖，空投也没有注册。\n\n这种类型的项目只有<a href=\"/InfiniGods\" title=\"InfiniGods⚡️\">@InfiniGods</a> 赚到了钱，发币预期直接最高价（0.55e）卖掉了，钻到底都是亏钱的比如 <a href=\"/gomblegames\" title=\"Gomble Games\">@gomblegames</a> 白嫖的nft（0.15e）不仅没有卖还接盘了一堆。",
       "publishedAt": "2026-02-11T07:00:00.000Z",
       "link": "https://x.com/0xleng1/status/2021479522529681881",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021474395705966983",
-      "username": "ohyishi",
-      "displayName": "Yishi",
-      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
-      "content": "我问 Niq 招人有什么要求，Niq 说有，但是不高。\n\n我：要什么技能？\nNiq：有手就行。\n\n我：大一、大二学生也可以 do 吗？\nNiq：can do.\n\n我：弱弱问下，文科生可以吗？\nNiq：包的，兄弟，包的。\n\n我：主要做什么，怎么定义做得好？\nNiq：写内容、做增长，传单侬发过吗，一个意思。只不过现在不用你手动发，你指挥着5只龙虾全世界给你发。\n\n我：AI 工具给报吗？\nNiq：管够。\n\n我：能不能远程？\nNiq：你最好是，地理套利不香吗？\n\n好的，我没有其他问题了...🫡",
-      "contentHtml": "我问 Niq 招人有什么要求，Niq 说有，但是不高。\n\n我：要什么技能？\nNiq：有手就行。\n\n我：大一、大二学生也可以 do 吗？\nNiq：can do.\n\n我：弱弱问下，文科生可以吗？\nNiq：包的，兄弟，包的。\n\n我：主要做什么，怎么定义做得好？\nNiq：写内容、做增长，传单侬发过吗，一个意思。只不过现在不用你手动发，你指挥着5只龙虾全世界给你发。\n\n我：AI 工具给报吗？\nNiq：管够。\n\n我：能不能远程？\nNiq：你最好是，地理套利不香吗？\n\n好的，我没有其他问题了...🫡",
-      "publishedAt": "2026-02-11T06:40:00.000Z",
-      "link": "https://x.com/ohyishi/status/2021474395705966983",
-      "retweet": {
-        "username": "follow_clues",
-        "displayName": "Theclues"
-      },
-      "quote": {
-        "username": "niqislucky",
-        "displayName": "niq",
-        "content": "平庸有重力，逃逸需要加速度。\n\n而 AI 时代逃逸平庸的最好办法，\n就是和聪明的人，\n用 AI 做有挑战的 100x Business。\n\n👋 OneKey 招贤：\n\n2021 年创业至今第6年，币安 & Coinbase 融资，处于 Pre-C 轮阶段，主营业务是钱包 App 和硬件钱包。\n\n你将进入 Growth Pilot 小组做 App 增长，希望你是实习生或应届毕业生。\n\n这个小组可以视为内部再创业，目标很明确：在有限预算下，把 App 推广给终端用户，跑出可复现的获客、转化和裂变模型和 SOP。\n\n你需要在高度不确定的环境中，亲手把结果怼出来。\n\n要做什么：\n- 搭建 App 内容渠道（X / Reddit / Tiktok / 小红薯 / Instagram 等）\n- 建立 App 增长渠道、达成合作、追踪转化和各类指标\n- 高强度使用 AI 工具，构建 Agent Workflow \n- 快速试错和失败，淘汰无效方案，沉淀可复制方法 SOP\n\n看重什么：\n\n- 有内容网感，对赚钱有动力\n- 亲手做过/推广过相关 App 或类似 0→1 项目（成功或失败都可以）\n- 能把 App 生意的账算清楚\n- 能在资源有限情况下主动推进事情，而不是等待指令\n- 如果上面的都做不到，脸皮厚也可以\n\n不适合这个岗位的人：\n\n- 抵触 AI 或用不明白 AI\n- 心气、期望值太高\n- 只做过大厂大公司成熟模块\n- 沉迷宏大叙事、互联网黑话爱好者、眼高手低、说得比做的好\n\n简历要求：让我看懂\n\n学历要求：全日制大学本科为佳，优秀者放宽\n\n经验要求：无\n\n工作地点：可远程或现场办公\n\n薪资待遇：基本工资 + 奖金 + 提成\n\n试用期：3个月，且有硬性考核指标\n\n🫱 投递方式：见评论区链接，岗位选择「增长经理」，备注 「Niq」",
-        "link": "https://x.com/niqislucky/status/2021471356261630359"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
