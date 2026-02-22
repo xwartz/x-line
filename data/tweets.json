@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T09:35:14.874Z",
+  "lastUpdated": "2026-02-22T09:59:03.757Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,68 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 503,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 525,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2025506719179403486",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "都在弄防失联频道我也弄弄，信息都是同步分享的，问什么问题我看到都会回答。不用担心。\nTG公告群 t.me/+KPL_OCVVwF5lMWFk\nTG聊天群 t.me/+vLAymI80lnozZDQ0",
+      "contentHtml": "都在弄防失联频道我也弄弄，信息都是同步分享的，问什么问题我看到都会回答。不用担心。\nTG公告群 <a href=\"https://t.me/+KPL_OCVVwF5lMWFk\">t.me/+KPL_OCVVwF5lMWFk</a>\nTG聊天群 <a href=\"https://t.me/+vLAymI80lnozZDQ0\">t.me/+vLAymI80lnozZDQ0</a>",
+      "publishedAt": "2026-02-22T09:43:00.000Z",
+      "link": "https://x.com/0xleng1/status/2025506719179403486",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2025506374759977105",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "养🦐这事儿真的太适合PM了.. 终于不用追dev进度每天standup 撕逼的感觉太爽啦哈哈哈, 有什么好的养🦐经验/usecase多多分享~",
+      "contentHtml": "养🦐这事儿真的太适合PM了.. 终于不用追dev进度每天standup 撕逼的感觉太爽啦哈哈哈, 有什么好的养🦐经验/usecase多多分享~",
+      "publishedAt": "2026-02-22T09:42:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2025506374759977105",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2025505847296905460",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "现在的感受是, 和做PM一样, 先把不同的workflow scope好, 给不同agent有角色分工, 想象你要招不同的助理干不同的事情. 前期花一周时间慢慢搞model routing很正常.. cron checks heartbeats这些devops的工作就别大模型了, 所有agents有一个basic SOP, 不同agent根据场景再加. 然后会被反复使用的context尽量export/import, 譬如我把Health OS里的结构化文件都丢给GP agent了. 但是负责吃喝玩乐的只有我的Google Map 收藏夹的export",
+      "contentHtml": "现在的感受是, 和做PM一样, 先把不同的workflow scope好, 给不同agent有角色分工, 想象你要招不同的助理干不同的事情. 前期花一周时间慢慢搞model routing很正常.. cron checks heartbeats这些devops的工作就别大模型了, 所有agents有一个basic SOP, 不同agent根据场景再加. 然后会被反复使用的context尽量export/import, 譬如我把Health OS里的结构化文件都丢给GP agent了. 但是负责吃喝玩乐的只有我的Google Map 收藏夹的export",
+      "publishedAt": "2026-02-22T09:40:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2025505847296905460",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBwKKhAa8AAIGov.jpg"
+        }
+      ],
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "无效社交还不如自己养🦐 ... 有了这群虾兵蟹将之后, 感觉被极大赋能 🤣 过去一周所有的PB/admin 沟通email都是虾发的, 投资部门的后台很快没有存在的意义了",
+        "link": "https://x.com/DoveyWanCN/status/2025208609622389101"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2025472365317292330",
       "username": "BensonTWN",
@@ -1337,10 +1394,6 @@
       "contentHtml": "我帮大家捋一捋关税的影响。\n首先，关税本身是抽水\n然后，关税+大美丽法案的放水 = 政府主导的财富再分配\n现在，且不说已经进口袋的钱要让川普拿出来比登天还难，假设美国政府要退钱给本土进口商，并且假设大美丽法案不变，那其实就是等于政府印钱，补贴进口商，财政刺激，美债利率上升，利好风险资产（多听财报就会发现有很多公司的EPS是受到了关税的影响）",
       "publishedAt": "2026-02-20T17:19:00.000Z",
       "link": "https://x.com/TJ_Research/status/2024896752088674660",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10905,69 +10958,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHAyQscyaAAMe8Ea.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021143587627680120",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "更新：过去 10 分钟又补了 198 万枚 USDC 的保证金\n\n目前 $ETH 做多数量增长到 40000 枚了，总价值 8018 万美元，开仓均价 $2,039.43，清算价 $1,349.10，浮亏 131.3 万美元",
-      "contentHtml": "更新：过去 10 分钟又补了 198 万枚 USDC 的保证金\n\n目前 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 做多数量增长到 40000 枚了，总价值 8018 万美元，开仓均价 $2,039.43，清算价 $1,349.10，浮亏 131.3 万美元",
-      "publishedAt": "2026-02-10T08:45:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2021143587627680120",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHAyK9iLbYAA8VLR.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021139538685591908",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "现在是一个很混乱的时期\n类似于最开始WEB1互联网时代盗版免费CD音乐横行的时代\n这是好事 也是事物的发展规律即\n新的生产力一定走在新的生产关系之前\n想起「社交网络」电影中Facebook的投资人肖恩帕克的片段介绍自己的发家史",
-      "contentHtml": "现在是一个很混乱的时期\n类似于最开始WEB1互联网时代盗版免费CD音乐横行的时代\n这是好事 也是事物的发展规律即\n新的生产力一定走在新的生产关系之前\n想起「社交网络」电影中Facebook的投资人肖恩帕克的片段介绍自己的发家史",
-      "publishedAt": "2026-02-10T08:29:00.000Z",
-      "link": "https://x.com/hazenlee/status/2021139538685591908",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021137341008707940",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "ai视频生成公司应该和版权公司合作\n如果生成含有版权的视频直接交版权费\n而不是直接堵住需求不让生成",
-      "contentHtml": "ai视频生成公司应该和版权公司合作\n如果生成含有版权的视频直接交版权费\n而不是直接堵住需求不让生成",
-      "publishedAt": "2026-02-10T08:21:00.000Z",
-      "link": "https://x.com/hazenlee/status/2021137341008707940",
-      "quote": {
-        "username": "xiaohu",
-        "displayName": "小互",
-        "content": "由于过于火爆\n\n字节开始限制 Seedance 2.0 的部分能力\n\n比如禁止了使用真人肖像进行视频创作，同时有大量用户反应官方收回了他们的内测权限。\n\n他们在打开官网或者APP后发现了内测权限被收回了\n\n官方并没有给出说明，怀疑是由于太过火爆担心被滥用，从而引发一些危机。\n\n大概率是版权和肖像隐私方面...\n\n这些也是早前 Sora 所面临的问题，版权合作和肖像授权是绕不过去的坎...",
-        "link": "https://x.com/xiaohu/status/2020788931223277641",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAtIxlSaoAAbN3Q.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
