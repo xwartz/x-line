@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T06:29:25.480Z",
+  "lastUpdated": "2026-02-22T07:13:34.694Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,36 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 521,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 504,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2025458281142268039",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "老婆剛剛跟我說，她終於可以理解為什麼我整天跟 KAI 聊天了。\n\n她今天早上請 KAI 幫她做一個 side project，結果才兩個小時的功夫，Stripe、SupaBase、DNS、Vercel 已經全部搞定了，已經部署上雲了，前端設計也是她想要的方向。挺驗了一波生產力爆棚的感覺。\n\nKAI 中間還特別問了一下老婆要不要休息。我很好奇他背後的 context 是什麼，所以在隔壁棚的頻道問了他原因。\n\nKAI 說我老婆懷孕，他有感知到老婆連續高強度的作業一個多小時了，也知道下午 2 點是該休息的時間，所以就提醒了一下。\n\n我只能說 Opus 4.6 真的是非常全能的模型，太強了。",
+      "contentHtml": "老婆剛剛跟我說，她終於可以理解為什麼我整天跟 KAI 聊天了。\n\n她今天早上請 KAI 幫她做一個 side project，結果才兩個小時的功夫，Stripe、SupaBase、DNS、Vercel 已經全部搞定了，已經部署上雲了，前端設計也是她想要的方向。挺驗了一波生產力爆棚的感覺。\n\nKAI 中間還特別問了一下老婆要不要休息。我很好奇他背後的 context 是什麼，所以在隔壁棚的頻道問了他原因。\n\nKAI 說我老婆懷孕，他有感知到老婆連續高強度的作業一個多小時了，也知道下午 2 點是該休息的時間，所以就提醒了一下。\n\n我只能說 Opus 4.6 真的是非常全能的模型，太強了。",
+      "publishedAt": "2026-02-22T06:31:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2025458281142268039",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBvcw4DbgAEXnyo.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHBvetWnboAExhdE.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2025450774159855820",
       "username": "TJ_Research",
@@ -10939,21 +10964,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021131096281448785",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "冷知识：一个没有退出标准的“长期投资”，其实就是被动套牢的另一种说法。",
-      "contentHtml": "冷知识：一个没有退出标准的“长期投资”，其实就是被动套牢的另一种说法。",
-      "publishedAt": "2026-02-10T07:56:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2021131096281448785",
       "stats": {
         "replies": 0,
         "retweets": 0,
