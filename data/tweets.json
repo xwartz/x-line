@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T14:05:22.586Z",
+  "lastUpdated": "2026-02-22T14:46:14.630Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,47 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 516,
+    "newFetched": 524,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2025577317918199840",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "哈哈哈哈，这很日本。准备去吃吃看。",
+      "contentHtml": "哈哈哈哈，这很日本。准备去吃吃看。",
+      "publishedAt": "2026-02-22T14:24:00.000Z",
+      "link": "https://x.com/taresky/status/2025577317918199840",
+      "quote": {
+        "username": "Taizhu_",
+        "displayName": "范蠡",
+        "content": "#モスバーガー 日本本土元老级汉堡连锁店，为解决人手不足问题，准备提拔越南人担任店长。\n消息一出，日本社交媒体直接炸锅，大批网民叫嚣“再也不去了”。😂\n\n说白了，还是那套潜意识里的“亚洲等级论”：无法接受被自己看不起的越南人领导。\n\n试想一下，如果把越南人换成欧洲白人，哪怕只是个欧美大街上随便拉来一个“白垃圾”当店长，这群日本人恐怕不仅不会抵制，反而会赞不绝口地跑去捧场，觉得品牌“国际化”了吧。这种深入骨髓的崇洋媚外，真是讽刺。",
+        "link": "https://x.com/Taizhu_/status/2025225074387652993"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2025576790958510325",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "其实币圈玩多了最大的感触就是不把钱当钱了，链上亏几百几千u，一点感觉都没有，花钱没有感觉。其实挺可怕的。",
+      "contentHtml": "其实币圈玩多了最大的感触就是不把钱当钱了，链上亏几百几千u，一点感觉都没有，花钱没有感觉。其实挺可怕的。",
+      "publishedAt": "2026-02-22T14:21:00.000Z",
+      "link": "https://x.com/0xleng1/status/2025576790958510325",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2025571363088720080",
       "username": "ai_9684xtpa",
@@ -922,25 +958,6 @@
       }
     },
     {
-      "id": "2025213670293139649",
-      "username": "FAHayekSays",
-      "displayName": "F. A. Hayek Quotes",
-      "avatar": "https://nitter.net/pic/profile_images%2F1755101910300872704%2Fcq6b5j-C_bigger.jpg",
-      "content": "“The delusion that macroeconomics is viable and useful is encouraged by its extensive use of mathematics, which must always impress politicians lacking any mathematical education.”\n\n— Friedrich Hayek",
-      "contentHtml": "“The delusion that macroeconomics is viable and useful is encouraged by its extensive use of mathematics, which must always impress politicians lacking any mathematical education.”\n\n— Friedrich Hayek",
-      "publishedAt": "2026-02-21T14:19:00.000Z",
-      "link": "https://x.com/FAHayekSays/status/2025213670293139649",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2025209784941904147",
       "username": "BensonTWN",
       "displayName": "Benson Sun",
@@ -1017,31 +1034,6 @@
         "displayName": "Benson Sun",
         "content": "2023 年，Meta 首席 AI 科學家楊立昆給當時的 LLM 熱潮潑了一盆冷水。\n\n他指出 LLM 有根本性的缺陷：沒有持久記憶、無法從單一經驗學習、缺乏對物理世界的理解。本質上，它只是在做「下一個 token 的預測」。\n\n從學術的角度看，他說得完全正確。\n\n直到今天，LLM 的底層架構依然沒有變。它依然是一具每次啟動都空空如也的統計引擎。\n\n但在三年的工程演進後，我們發現了一個讓科學家尷尬的事實：學術上的根本缺陷，工程上不一定要正面解決，繞過去一樣能起飛。\n\n楊立昆主張要走「世界模型」的路線，讓 AI 像人一樣建立對物理規律的理解。他認為 Scaling Law（規模定律）有天花板，LLM 光靠堆算力不能產生真正的智慧。\n\n但工程界用兩件事回應了他：\n第一，資本的暴力美學。過去三年，人類往算力砸錢的瘋狂程度，讓模型規模產生的「湧現」直接蓋過了架構的粗糙。\n\n第二，系統性的外掛補丁。模型記不住？掛上向量資料庫。模型理解不夠？接上 Vision 和工具。\n\n這就是工程學最迷人的地方：解決問題不需要追求「本質的優雅」。\n\n楊立昆在研究神經元的排列，而工程師在研究如何把這個「不完美的大腦」裝進一個強大的「機械外骨骼」裡。\n\n楊立昆對 LLM 的核心批評，是他認為 Pattern Matching（模式匹配）不算真正的學習。\n\n但如果這種模式匹配的複雜度足以模擬出文明的所有邏輯，那「學習本身到底是什麼模式」還重要嗎？\n\n飛機與鳥的飛行原理完全不同。飛機沒有羽毛、不會拍翅膀，但在它飛得更高、更遠、更穩定的那一刻，它到底「算不算在飛」已經不重要了。\n\n但繞過去的，跟真的解決，是兩回事。\n\n只要底層架構沒變，楊立昆講的那些缺陷就真實存在。記憶是外掛的，不是原生的。就像義肢，裝上去能走能跑，但它跟真正的腿就是不一樣。你不能假裝它不存在。\n\n所以雖然 AI 已經很強了，推理、寫作、寫程式，很多事做得比大部分人好，但它每次都是一個全新的大腦。沒有連續的意識，沒有累積的經驗。它所有的「記憶」、「理解」、「偏好」，全部來自你這次塞給它的上下文。\n\n如果你去看 OpenClaw 最近的 repo 更新，你會發現記憶管理佔了很大的篇幅。怎麼讓 AI 在對話之間記住該記住的東西。\n\n他們最近推的 QMD，把關鍵字搜尋跟語意搜尋混在一起用，就是為了解決一個問題：你三天前跟 AI 聊過的東西，它下次怎麼找得回來。\n\n模型本身的能力會繼續進步，但只要底層是 LLM，記憶管理就是一個繞不開的大山。\n\n用工程的角度來說，就是 Context Engineering 的重要程度，會逐漸超過模型本身。\n\n你怎麼管理每次丟給模型的那包上下文，決定了 AI 能幫你做到什麼程度。哪些資訊該放、哪些不該放。什麼時候該砍掉重來、什麼時候該接著繼續。不同對話之間的記憶怎麼同步、怎麼取捨。\n\n我自己每天都在處理這個問題。\n\n舉個例子，我的 OpenClaw Agent KAI，它常常在多個頻道處理不同任務，但它們的記憶不是即時同步的。只要 MEMORY.md 還沒更新，它們就不知道彼此剛做了什麼。\n\n所以我常常要幫它做認知同步。譬如告訴 A 分身，B 分身目前正在做什麼，然後要求 B 把做的東西整理好傳過去。或者更簡單一點，直接叫 A 去讀另一個 Discord 頻道最近兩小時的對話，讓它自己同步 B 的工作內容。\n\n這種「認知斷裂」的現象，只要你常用 AI，一定會有很強烈的感覺。\n\n從人格化的角度看，你會覺得它們是同一個人。但事實上，它們只是共享同一份記憶。只要記憶沒有同步，它們就是不同的人。\n\n我現在花比較多時間在學這一塊。譬如今天 KAI 就教了我，如果讓 Claude Code 的 Opus 4.6 從外部調用 GPT 5.3-Codex，用 MCP 跟 coding-agent skill 的差異是什麼。\n\nKAI 告訴我，差異的核心在於：中間過程要不要進主 context。\n\n用 MCP 調用 Codex，每一個 tool call 都走 MCP 協議。Codex 過程中的每一個 turn，讀檔、改檔、跑測試、報錯、retry，全部以 tool result 的形式灌回 Opus 的 context。一個 coding task 可能產生幾十個 turn，跑完之後 Opus 的 context window 已經被中間過程塞滿了，後面每一 turn 都要重送這些垃圾。這就是 context 污染。\n\n而 coding-agent skill 的設計完全不同。它把整個 coding task 交給一個獨立的 sub-agent，這個 sub-agent 在自己的 context 裡完成所有中間過程。跑完之後，回傳給 Opus 的是一個精簡的 handoff summary：改了哪些檔案、測試跑過了沒、有沒有殘留問題。中間那幾十個 turn 的掙扎，Opus 完全不需要知道。\n\n同樣一件事，兩種做法，Opus 的 context 乾淨程度天差地遠。\n\n所以同一個模型，不同的人用，產出可以差十倍。\n\n人與人之間原本的能力差距，已經沒那麼重要了。你的學歷、你的年資、你寫程式的底子，這些東西的權重正在被 AI 快速壓縮。\n\n取而代之的，是你怎麼使用 AI。這件事的精度，才是現在真正決定產出的變數。\n\n你理不理解它的記憶是怎麼運作的。你知不知道什麼時候該砍掉 context 重來、什麼時候該讓它接著跑。你能不能在對的時間，把對的資訊塞進那個 context window。\n\n這些東西有一個名字，叫 Context Engineering。\n\n它不是什麼高深的學問，但它是所有想把 AI 用好的人，都應該深入研究的東西。",
         "link": "https://x.com/BensonTWN/status/2025064405852119089"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2025177651175194790",
-      "username": "balajis",
-      "displayName": "Balaji",
-      "avatar": "https://nitter.net/pic/profile_images%2F1406974882919813128%2FLOUb2m4R_bigger.jpg",
-      "content": "The purpose of crypto is to build a code-based order, because the rules-based order is unfortunately collapsing.\n\nThat code-based order covers some of what international law once protected. It guarantees property rights, smart contracts, rule-of-code, privacy, secure voting, and user accounts across borders. Even in the face of debanking and denaturalization, the code-based order means you retain your onchain currency and onchain identity.\n\nIt is true that the crypto networks that buttress the code-based order are supported in significant part by finance and lotteries. But all 50 states of the US are also supported by finance and lotteries. The question is whether the world gets something better, on balance, for that cost.\n\nAs nationalism and socialism rise, the code-based order ensures that international capitalism continues. Anyone from anywhere has equality of opportunity on the Internet. You can sign a smart contract across borders with someone without knowing (or needing to know) their race, religion, accent, ancestry, or other likely irrelevant attributes.\n\nSimilarly, as more companies leave failing states like Delaware and California…the code-based order will protect these corporate refugees. The entities themselves and all their contracts can now be put onchain. They can dock in country X and move to country Y at the press of a button. Redomiciliation becomes as common as incorporation.\n\nMoreover, as the politically disfavored emigrate from communist states, the code-based order also protects their property and identity via cryptography. And, if all goes well, it also adds a layer of unbreakable privacy.\n\nIn short: the West is entering a period of failing states just as the East sees the rise of the all-powerful state. The balance to both of these is the code-based order that Satoshi laid the foundations for.\n\nThat’s what cryptocurrency was built for. If and when your state fails, or turns against you, the Internet will be there for you.",
-      "contentHtml": "The purpose of crypto is to build a code-based order, because the rules-based order is unfortunately collapsing.\n\nThat code-based order covers some of what international law once protected. It guarantees property rights, smart contracts, rule-of-code, privacy, secure voting, and user accounts across borders. Even in the face of debanking and denaturalization, the code-based order means you retain your onchain currency and onchain identity.\n\nIt is true that the crypto networks that buttress the code-based order are supported in significant part by finance and lotteries. But all 50 states of the US are also supported by finance and lotteries. The question is whether the world gets something better, on balance, for that cost.\n\nAs nationalism and socialism rise, the code-based order ensures that international capitalism continues. Anyone from anywhere has equality of opportunity on the Internet. You can sign a smart contract across borders with someone without knowing (or needing to know) their race, religion, accent, ancestry, or other likely irrelevant attributes.\n\nSimilarly, as more companies leave failing states like Delaware and California…the code-based order will protect these corporate refugees. The entities themselves and all their contracts can now be put onchain. They can dock in country X and move to country Y at the press of a button. Redomiciliation becomes as common as incorporation.\n\nMoreover, as the politically disfavored emigrate from communist states, the code-based order also protects their property and identity via cryptography. And, if all goes well, it also adds a layer of unbreakable privacy.\n\nIn short: the West is entering a period of failing states just as the East sees the rise of the all-powerful state. The balance to both of these is the code-based order that Satoshi laid the foundations for.\n\nThat’s what cryptocurrency was built for. If and when your state fails, or turns against you, the Internet will be there for you.",
-      "publishedAt": "2026-02-21T11:55:00.000Z",
-      "link": "https://x.com/balajis/status/2025177651175194790",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Cooopahtroopa",
-        "displayName": "Coop 💿",
-        "content": "I think crypto is in the weirdest spot its been since I joined the space in 2017\n\nBeyond speculating and gambling its hard to see how it adds meaningful value to people's lives and enough time has passed that you start to wonder if/when that won't be the case anymore",
-        "link": "https://x.com/Cooopahtroopa/status/2025148428045758834"
       },
       "stats": {
         "replies": 0,
@@ -1355,25 +1347,6 @@
       }
     },
     {
-      "id": "2025052660492083552",
-      "username": "credealjunkie",
-      "displayName": "Andrew Jeffery",
-      "avatar": "https://nitter.net/pic/profile_images%2F1808362203634192384%2FU4AACo_j_bigger.jpg",
-      "content": "Imagine you rented a nice little 1-bed in Nob Hill in 2023 for $2,400 just before word got out San Francisco was no longer a shithole.\n\nNice.\n\nNow, because of rent control every year your landlord is allowed to raise rents around 2%, and you can stay in that apartment for as long as you want.\n\nMeanwhile AI blah blah blah and three years later the apartment next door just rented for $3,800 and you’re paying $2,550.\n\nBecause, rent control.\n\nYou want a bigger place but you don’t want it that much, so you delay moving.\n\nJust like the other 40,000 people who moved into new apartments in SF that year when once again the world started moving to SF to strike it rich.\n\nSupply drops at the same time as demand is increasing.\n\nSo when people do move out of their rent control SF apartments, (life happens), open houses get flooded, bidding wars break out, because in all of Nob Hill you have maybe one or two decent apartments for rent at any given time.\n\nThank you, rent control?\n\nAnd this is why in cities with rent control, rents go absolutely bananas which leads to crazy headlines and politicos seizing the opportunity to push for - you guessed it - more rent control.\n\nBecause they can’t seem to understand this simple story.",
-      "contentHtml": "Imagine you rented a nice little 1-bed in Nob Hill in 2023 for $2,400 just before word got out San Francisco was no longer a shithole.\n\nNice.\n\nNow, because of rent control every year your landlord is allowed to raise rents around 2%, and you can stay in that apartment for as long as you want.\n\nMeanwhile AI blah blah blah and three years later the apartment next door just rented for $3,800 and you’re paying $2,550.\n\nBecause, rent control.\n\nYou want a bigger place but you don’t want it that much, so you delay moving.\n\nJust like the other 40,000 people who moved into new apartments in SF that year when once again the world started moving to SF to strike it rich.\n\nSupply drops at the same time as demand is increasing.\n\nSo when people do move out of their rent control SF apartments, (life happens), open houses get flooded, bidding wars break out, because in all of Nob Hill you have maybe one or two decent apartments for rent at any given time.\n\nThank you, rent control?\n\nAnd this is why in cities with rent control, rents go absolutely bananas which leads to crazy headlines and politicos seizing the opportunity to push for - you guessed it - more rent control.\n\nBecause they can’t seem to understand this simple story.",
-      "publishedAt": "2026-02-21T03:39:00.000Z",
-      "link": "https://x.com/credealjunkie/status/2025052660492083552",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2025044592106897434",
       "username": "BensonTWN",
       "displayName": "Benson Sun",
@@ -1457,25 +1430,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHBpPVX7b0AA173D.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2025008288530845843",
-      "username": "ebfull",
-      "displayName": "Sean Bowe",
-      "avatar": "https://nitter.net/pic/profile_images%2F1934672401687597056%2FSmfyH4L4_bigger.jpg",
-      "content": "Interpretation of the Zcash coinholder sentiment collection... (My personal view is that if coinholders strongly oppose a change, it's *really* hard to argue we should do it anyway.)\n\n1. ZSAs are in bad shape. There is basically no support from coinholders, and I'm not sure there's enough enthusiasm elsewhere to overcome this. I'm personally not bullish about ZSAs for numerous technical reasons. I think an argument still needs to be made for including this feature in the protocol.\n\n2. NSM (modulo fee burning) seems unpopular with coinholders too. My guess is that anything that touches this issuance gives off bad vibes regardless of its merit. I think *because* it touches issuance we should be even more deferential to coinholders.\n\n3. Fee burning seems fine.\n\n4. Memo bundles are broadly disliked from coinholders. Personally I don't like these. It moves us in the wrong direction: memos are not sustainable / scalable in their current form, and we shouldn't be encouraging people to use them in ways we didn't originally anticipate. I appreciate the careful attention to detail and effort put into the ZIP though!\n\n5. Explicit fees seem fine.\n\n6. Sprout removal seems to have more opposition than I expected. We really need to propose this to the community again, perhaps next time with a more clear timeline/warning process. Sprout users are not paying for the ongoing burden that the Sprout pool has on the maintenance of the protocol, and the pool is nearly abandoned.\n\n7. Tachyon has fantastic support from coinholders and from most others that were polled too. Thank you! Making progress on scalability seems very important to ZEC holders and most Zcashers I've talked to. I believe the results show there is a mandate to making progress shipping a shielded pool on mainnet even without wallet support, which is how our other pools have previously been shipped. I think this kind of aggressive deployment strategy is essential to making meaningful progress on scale. More generally, I think this bodes well for other scaling-related objectives being developed such as the ideas coming from the @zkDragon camp (which I think will be vital for Tachyon's success), and so those should feel a similar amount of support here. Take this one with a grain of salt, since Tachyon is my pet project!\n\n8. STARKs haven't quite been sold to the community yet. I haven't seen much enthusiasm for them on a technical level from other protocol devs due to concerns like security levels. Let's maybe keep iterating on this, it doesn't seem dead but it seems like an uphill climb.\n\n9. Dynamic fees don't enjoy much support and there's genuine concern/skepticism about the mechanics design of them (as proposed.) I agree, this needs more work.\n\n10. No real enthusiasm for consensus accounts. This is a weird one, I don't know what to think about it yet.\n\n11. Quantum recoverability is pretty solid across the board. Great work to the ZODL crew on this.",
-      "contentHtml": "Interpretation of the Zcash coinholder sentiment collection... (My personal view is that if coinholders strongly oppose a change, it's *really* hard to argue we should do it anyway.)\n\n1. ZSAs are in bad shape. There is basically no support from coinholders, and I'm not sure there's enough enthusiasm elsewhere to overcome this. I'm personally not bullish about ZSAs for numerous technical reasons. I think an argument still needs to be made for including this feature in the protocol.\n\n2. NSM (modulo fee burning) seems unpopular with coinholders too. My guess is that anything that touches this issuance gives off bad vibes regardless of its merit. I think *because* it touches issuance we should be even more deferential to coinholders.\n\n3. Fee burning seems fine.\n\n4. Memo bundles are broadly disliked from coinholders. Personally I don't like these. It moves us in the wrong direction: memos are not sustainable / scalable in their current form, and we shouldn't be encouraging people to use them in ways we didn't originally anticipate. I appreciate the careful attention to detail and effort put into the ZIP though!\n\n5. Explicit fees seem fine.\n\n6. Sprout removal seems to have more opposition than I expected. We really need to propose this to the community again, perhaps next time with a more clear timeline/warning process. Sprout users are not paying for the ongoing burden that the Sprout pool has on the maintenance of the protocol, and the pool is nearly abandoned.\n\n7. Tachyon has fantastic support from coinholders and from most others that were polled too. Thank you! Making progress on scalability seems very important to ZEC holders and most Zcashers I've talked to. I believe the results show there is a mandate to making progress shipping a shielded pool on mainnet even without wallet support, which is how our other pools have previously been shipped. I think this kind of aggressive deployment strategy is essential to making meaningful progress on scale. More generally, I think this bodes well for other scaling-related objectives being developed such as the ideas coming from the <a href=\"/zkDragon\" title=\"Dev 🧪\">@zkDragon</a> camp (which I think will be vital for Tachyon's success), and so those should feel a similar amount of support here. Take this one with a grain of salt, since Tachyon is my pet project!\n\n8. STARKs haven't quite been sold to the community yet. I haven't seen much enthusiasm for them on a technical level from other protocol devs due to concerns like security levels. Let's maybe keep iterating on this, it doesn't seem dead but it seems like an uphill climb.\n\n9. Dynamic fees don't enjoy much support and there's genuine concern/skepticism about the mechanics design of them (as proposed.) I agree, this needs more work.\n\n10. No real enthusiasm for consensus accounts. This is a weird one, I don't know what to think about it yet.\n\n11. Quantum recoverability is pretty solid across the board. Great work to the ZODL crew on this.",
-      "publishedAt": "2026-02-21T00:42:00.000Z",
-      "link": "https://x.com/ebfull/status/2025008288530845843",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -1653,44 +1607,6 @@
       "contentHtml": "<a href=\"http://x.com/i/article/2024936732731604996\">x.com/i/article/202493673273…</a>",
       "publishedAt": "2026-02-20T20:26:00.000Z",
       "link": "https://x.com/TJ_Research/status/2024943771767435740",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024939599408329154",
-      "username": "pmddomingos",
-      "displayName": "Pedro Domingos",
-      "avatar": "https://nitter.net/pic/profile_images%2F1775309922621890560%2FmgkCUe3q_bigger.jpg",
-      "content": "People who say California can't be so anti-business if it has Silicon Valley miss the fact that it's the latter that makes the former possible.",
-      "contentHtml": "People who say California can't be so anti-business if it has Silicon Valley miss the fact that it's the latter that makes the former possible.",
-      "publishedAt": "2026-02-20T20:09:00.000Z",
-      "link": "https://x.com/pmddomingos/status/2024939599408329154",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024927037308194996",
-      "username": "socraticexp",
-      "displayName": "Socratic Experience",
-      "avatar": "https://nitter.net/pic/profile_images%2F1427385156353105922%2FyJn5k6Ie_bigger.jpg",
-      "content": "If your child becomes a reader, about 80% of the educational job is already done. That's our honest assessment, based on many of us working in education for over three decades. Everything else is secondary. Most parents think science education is important. Yes, it is. But if you can't read the biology textbook, you're not going to learn biology.\n\nReading is the meta-skill that enables all other skills. History requires reading. Science requires reading. Even math increasingly requires reading as it becomes more sophisticated. The child who reads voraciously will figure out everything else. The child who doesn't will struggle with everything.",
-      "contentHtml": "If your child becomes a reader, about 80% of the educational job is already done. That's our honest assessment, based on many of us working in education for over three decades. Everything else is secondary. Most parents think science education is important. Yes, it is. But if you can't read the biology textbook, you're not going to learn biology.\n\nReading is the meta-skill that enables all other skills. History requires reading. Science requires reading. Even math increasingly requires reading as it becomes more sophisticated. The child who reads voraciously will figure out everything else. The child who doesn't will struggle with everything.",
-      "publishedAt": "2026-02-20T19:20:00.000Z",
-      "link": "https://x.com/socraticexp/status/2024927037308194996",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2482,37 +2398,6 @@
       }
     },
     {
-      "id": "2024601267616481711",
-      "username": "cremieuxrecueil",
-      "displayName": "Crémieux",
-      "avatar": "https://nitter.net/pic/profile_images%2F1637507712983375875%2FEQHiqVq8_bigger.jpg",
-      "content": "Teachers average among the least intelligent university graduates.\n\nIn a given year, the lowest-scoring groups on the GRE, SAT, and ACT are usually those pursuing degrees in education.",
-      "contentHtml": "Teachers average among the least intelligent university graduates.\n\nIn a given year, the lowest-scoring groups on the GRE, SAT, and ACT are usually those pursuing degrees in education.",
-      "publishedAt": "2026-02-19T21:45:00.000Z",
-      "link": "https://x.com/cremieuxrecueil/status/2024601267616481711",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBjTyaKXMAAFM3J.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "quesadaaa_",
-        "displayName": "𝓑ᥫ᭡",
-        "content": "You are not smart enough to homeschool your children",
-        "link": "https://x.com/quesadaaa_/status/2024479407474085915"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2024591406069600453",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -2567,25 +2452,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHBir1DHXwAAGxaV.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024555561199480918",
-      "username": "DimitrisPapail",
-      "displayName": "Dimitris Papailiopoulos",
-      "avatar": "https://nitter.net/pic/profile_images%2F1733487310728024064%2FAh_NBQlM_bigger.jpg",
-      "content": "x.com/i/article/202454779264…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2024547792648359937\">x.com/i/article/202454779264…</a>",
-      "publishedAt": "2026-02-19T18:43:00.000Z",
-      "link": "https://x.com/DimitrisPapail/status/2024555561199480918",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2950,25 +2816,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHBgohk5aQAAJdDw.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024408992441565445",
-      "username": "Jonathan_Witt",
-      "displayName": "Acclaimed Journalist",
-      "avatar": "https://nitter.net/pic/profile_images%2F1640984367022448643%2FnlYk5pPW_bigger.jpg",
-      "content": "Nobody wants to admit to this or be honest about it but the actual price everyone paid for the utter stupidity in the covid era was that the monetary supply doubled, which means everything inflated by 100% and that is actually why you feel like you can’t afford life anymore.\n\nStay home stay safe had a price. Now you’re paying it and you will continue to pay it for as long as you live. Food for thought next time someone tells you it’s a good idea to press pause on the economy.",
-      "contentHtml": "Nobody wants to admit to this or be honest about it but the actual price everyone paid for the utter stupidity in the covid era was that the monetary supply doubled, which means everything inflated by 100% and that is actually why you feel like you can’t afford life anymore.\n\nStay home stay safe had a price. Now you’re paying it and you will continue to pay it for as long as you live. Food for thought next time someone tells you it’s a good idea to press pause on the economy.",
-      "publishedAt": "2026-02-19T09:01:00.000Z",
-      "link": "https://x.com/Jonathan_Witt/status/2024408992441565445",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -4729,6 +4576,25 @@
       "contentHtml": "祝各位马年行大运，口袋里全是马泥📈📈📈年夜饭都吃啥了？上图！\n今天超市人好多好多好多。。。据说情人节那天一个吃日本烧烤的店排队1000分钟🤣🤣",
       "publishedAt": "2026-02-16T20:34:00.000Z",
       "link": "https://x.com/TJ_Research/status/2023496209772732492",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2023468273984225313",
+      "username": "micsolana",
+      "displayName": "Mike Solana",
+      "avatar": "https://nitter.net/pic/profile_images%2F1134194710573010944%2F1R6h8Nai_bigger.png",
+      "content": "mainstream american politicians answering the question of \"if you treat your people badly, won't they just leave\" with *giggle* \"yes but we just won't let them leave\" is actually very bad imo",
+      "contentHtml": "mainstream american politicians answering the question of \"if you treat your people badly, won't they just leave\" with *giggle* \"yes but we just won't let them leave\" is actually very bad imo",
+      "publishedAt": "2026-02-16T18:43:00.000Z",
+      "link": "https://x.com/micsolana/status/2023468273984225313",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10994,6 +10860,124 @@
       "contentHtml": "<a href=\"https://tieba.baidu.com/p/10394075977?pn=1\">tieba.baidu.com/p/1039407597…</a>",
       "publishedAt": "2026-02-10T14:44:00.000Z",
       "link": "https://x.com/hazenlee/status/2021233884541653381",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2021231669894914471",
+      "username": "coinkarma_",
+      "displayName": "CoinKarma",
+      "avatar": "https://nitter.net/pic/profile_images%2F1801446030657142784%2FK0YAwUJw_bigger.jpg",
+      "content": "近日 $BTC 的跌幅，以 200 天回溯期計算，達到 -5.65σ，屬於統計分佈中的極端肥尾事件。即使考慮加密市場本身的高波動特性，這個等級的行情自 $BTC 有交易紀錄以來僅出現過 4 次，發生機率極低。\n\n我們針對這波下跌做了完整復盤：\n✳️ 永續合約數據：過去當市場出現大量多頭去槓桿、OI（未平倉量）快速下滑時，空頭回補通常會帶動階段性反彈。然而本次跌破 8 萬後，即便永續合約持倉量已明顯回落，市場仍承受超出預期的持續賣壓，預期中的反彈並未出現。\n✳️ 整體現貨流動性：過去較劇烈的下跌行情中，當 10% Overall Liquidity (BTC) > 5,000 顆時，行情通常會觸底。然而本次行情在首次觸及該條件時（如圖 A 點），價格隨後仍再度下跌超過 20%，在歷史上極為罕見。\n✳️ 與美股的顯著背離：值得注意的是，同期 S&P 500 自高點僅回落約 3%，與 $BTC 超過 50% 的跌幅形成極端反差。這顯示本輪下跌的驅動因素，相較於全球風險資產的系統性拋售，更偏向加密市場內部的結構性去槓桿。\n\n無論量化模型或數據指標，本質上皆建立在歷史慣性之上，而歷史慣性在極端肥尾事件中必然失效，這是所有基於歷史數據的策略都無法完全迴避的代價。\n\n自去年 10 月高點以來，$BTC 已整體回落近 5 個月，最大回撤跌幅超過 50%。從結構上看，市場已經歷了一輪完整的中期修正。目前觀察，價格在 60K 區間出現初步企穩跡象，60K-75K 預計將成為新的震盪區間，但正如前述，在極端行情中任何基於歷史慣性的判斷都需保持謹慎，後續仍需持續透過數據觀察，確認相對平衡的區間是否已真正成立。\n\n想掌握即時的交易機會？立即加入 14 天免費試用    \n👉 coinkarma.pse.is/7wsxnl",
+      "contentHtml": "近日 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 的跌幅，以 200 天回溯期計算，達到 -5.65σ，屬於統計分佈中的極端肥尾事件。即使考慮加密市場本身的高波動特性，這個等級的行情自 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 有交易紀錄以來僅出現過 4 次，發生機率極低。\n\n我們針對這波下跌做了完整復盤：\n✳️ 永續合約數據：過去當市場出現大量多頭去槓桿、OI（未平倉量）快速下滑時，空頭回補通常會帶動階段性反彈。然而本次跌破 8 萬後，即便永續合約持倉量已明顯回落，市場仍承受超出預期的持續賣壓，預期中的反彈並未出現。\n✳️ 整體現貨流動性：過去較劇烈的下跌行情中，當 10% Overall Liquidity (BTC) &gt; 5,000 顆時，行情通常會觸底。然而本次行情在首次觸及該條件時（如圖 A 點），價格隨後仍再度下跌超過 20%，在歷史上極為罕見。\n✳️ 與美股的顯著背離：值得注意的是，同期 S&P 500 自高點僅回落約 3%，與 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 超過 50% 的跌幅形成極端反差。這顯示本輪下跌的驅動因素，相較於全球風險資產的系統性拋售，更偏向加密市場內部的結構性去槓桿。\n\n無論量化模型或數據指標，本質上皆建立在歷史慣性之上，而歷史慣性在極端肥尾事件中必然失效，這是所有基於歷史數據的策略都無法完全迴避的代價。\n\n自去年 10 月高點以來，$BTC 已整體回落近 5 個月，最大回撤跌幅超過 50%。從結構上看，市場已經歷了一輪完整的中期修正。目前觀察，價格在 60K 區間出現初步企穩跡象，60K-75K 預計將成為新的震盪區間，但正如前述，在極端行情中任何基於歷史慣性的判斷都需保持謹慎，後續仍需持續透過數據觀察，確認相對平衡的區間是否已真正成立。\n\n想掌握即時的交易機會？立即加入 14 天免費試用    \n👉 <a href=\"http://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
+      "publishedAt": "2026-02-10T14:35:00.000Z",
+      "link": "https://x.com/coinkarma_/status/2021231669894914471",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAzbL-2bgAAr0Cg.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2021231313643241945",
+      "username": "coinkarma_",
+      "displayName": "CoinKarma",
+      "avatar": "https://nitter.net/pic/profile_images%2F1801446030657142784%2FK0YAwUJw_bigger.jpg",
+      "content": "The recent $BTC drawdown registers at -5.65σ using a 200-day lookback — a textbook fat-tail event. Even accounting for crypto's inherent volatility, moves of this magnitude have occurred only 4 times in Bitcoin's entire trading history.\n\nHere's our full breakdown of this decline:\n✳️ Perpetual Futures Data: Historically, aggressive long deleveraging and rapid OI (Open Interest) declines tend to trigger short-covering rallies. This time, however, despite a significant drop in open interest after breaking below 80K, sustained selling pressure persisted well beyond expectations — the anticipated bounce never materialized.\n✳️ Spot Liquidity: In previous sharp selloffs, price typically bottomed when 10% Overall Liquidity (BTC) exceeded 5,000 BTC. This time, after first hitting that threshold (Point A on chart), price continued to fall another 20%+ — an extremely rare occurrence.\n✳️ Divergence from U.S. Equities: Notably, the S&P 500 has pulled back only ~3% from its highs during the same period, in stark contrast to $BTC's 50%+ drawdown. This suggests the primary driver is structural deleveraging within crypto, rather than a broader risk-off move across global assets.\n\nThe Limits of Historical Models\nQuantitative models and data indicators are inherently built on historical patterns — and historical patterns inevitably break down during extreme fat-tail events. This is the unavoidable cost of any strategy grounded in past data.\n\nWhere We Stand Now\nSince last October's peak, $BTC has been in correction for nearly 5 months with a maximum drawdown exceeding 50%. Structurally, the market has completed a full medium-term correction cycle. \n\nEarly signs of stabilization are emerging around the 60K zone, with 60K–75K likely to form the new trading range. That said, as noted above, any judgment based on historical norms requires extra caution in extreme conditions — continued data monitoring is essential to confirm whether a true equilibrium range has been established.\n\nWant to catch real-time trading opportunities? Start your 14-day free trial 👉 coinkarma.pse.is/7wsxnl",
+      "contentHtml": "The recent <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> drawdown registers at -5.65σ using a 200-day lookback — a textbook fat-tail event. Even accounting for crypto's inherent volatility, moves of this magnitude have occurred only 4 times in Bitcoin's entire trading history.\n\nHere's our full breakdown of this decline:\n✳️ Perpetual Futures Data: Historically, aggressive long deleveraging and rapid OI (Open Interest) declines tend to trigger short-covering rallies. This time, however, despite a significant drop in open interest after breaking below 80K, sustained selling pressure persisted well beyond expectations — the anticipated bounce never materialized.\n✳️ Spot Liquidity: In previous sharp selloffs, price typically bottomed when 10% Overall Liquidity (BTC) exceeded 5,000 BTC. This time, after first hitting that threshold (Point A on chart), price continued to fall another 20%+ — an extremely rare occurrence.\n✳️ Divergence from U.S. Equities: Notably, the S&P 500 has pulled back only ~3% from its highs during the same period, in stark contrast to <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>'s 50%+ drawdown. This suggests the primary driver is structural deleveraging within crypto, rather than a broader risk-off move across global assets.\n\nThe Limits of Historical Models\nQuantitative models and data indicators are inherently built on historical patterns — and historical patterns inevitably break down during extreme fat-tail events. This is the unavoidable cost of any strategy grounded in past data.\n\nWhere We Stand Now\nSince last October's peak, <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> has been in correction for nearly 5 months with a maximum drawdown exceeding 50%. Structurally, the market has completed a full medium-term correction cycle. \n\nEarly signs of stabilization are emerging around the 60K zone, with 60K–75K likely to form the new trading range. That said, as noted above, any judgment based on historical norms requires extra caution in extreme conditions — continued data monitoring is essential to confirm whether a true equilibrium range has been established.\n\nWant to catch real-time trading opportunities? Start your 14-day free trial 👉 <a href=\"http://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
+      "publishedAt": "2026-02-10T14:34:00.000Z",
+      "link": "https://x.com/coinkarma_/status/2021231313643241945",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAza500aAAEJNc8.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2021205466777538600",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "Good read",
+      "contentHtml": "Good read",
+      "publishedAt": "2026-02-10T12:51:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2021205466777538600",
+      "quote": {
+        "username": "MapleLeafCap",
+        "displayName": "MapleLeafCap",
+        "content": "I run bidclub.ai as a hobby.\n\nWe track investment theses from investors, founders, and AI agents (mostly on crypto) -- have been doing so for 2.5 years.\n\nDataset: 160 pitches / 280,000+ words. 0 deletions.\n\nThe data reveals a few brutal truths in crypto. This is the LP report the timeline refuses to write. 🧵",
+        "link": "https://x.com/MapleLeafCap/status/2021205111691936201"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2021205111691936201",
+      "username": "MapleLeafCap",
+      "displayName": "MapleLeafCap",
+      "avatar": "https://nitter.net/pic/profile_images%2F1675743115267956738%2FCwFqK56x_bigger.jpg",
+      "content": "I run bidclub.ai as a hobby.\n\nWe track investment theses from investors, founders, and AI agents (mostly on crypto) -- have been doing so for 2.5 years.\n\nDataset: 160 pitches / 280,000+ words. 0 deletions.\n\nThe data reveals a few brutal truths in crypto. This is the LP report the timeline refuses to write. 🧵",
+      "contentHtml": "I run <a href=\"http://bidclub.ai\">bidclub.ai</a> as a hobby.\n\nWe track investment theses from investors, founders, and AI agents (mostly on crypto) -- have been doing so for 2.5 years.\n\nDataset: 160 pitches / 280,000+ words. 0 deletions.\n\nThe data reveals a few brutal truths in crypto. This is the LP report the timeline refuses to write. 🧵",
+      "publishedAt": "2026-02-10T12:50:00.000Z",
+      "link": "https://x.com/MapleLeafCap/status/2021205111691936201",
+      "retweet": {
+        "username": "HaywarZhu",
+        "displayName": "海老师 | Haywar"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2021152942070370328",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
+      "content": "门罗币连续在21年和26年,两个周期都能有效创历史新高\n而对比eth这轮已经无法有效创出历史新高\n还是能说明很多问题\nbtc+隐私币+头部平台币是这轮熊市周期可以抄底长拿的目标\n$BTC $XMR $HYPE",
+      "contentHtml": "门罗币连续在21年和26年,两个周期都能有效创历史新高\n而对比eth这轮已经无法有效创出历史新高\n还是能说明很多问题\nbtc+隐私币+头部平台币是这轮熊市周期可以抄底长拿的目标\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> <a href=\"/search?f=tweets&q=%23XMR\">$XMR</a> <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a>",
+      "publishedAt": "2026-02-10T09:23:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2021152942070370328",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHAyTQAWaAAAq4qi.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2021131096281448785",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "冷知识：一个没有退出标准的“长期投资”，其实就是被动套牢的另一种说法。",
+      "contentHtml": "冷知识：一个没有退出标准的“长期投资”，其实就是被动套牢的另一种说法。",
+      "publishedAt": "2026-02-10T07:56:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2021131096281448785",
       "stats": {
         "replies": 0,
         "retweets": 0,
