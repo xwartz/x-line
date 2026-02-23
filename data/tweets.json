@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T10:02:01.325Z",
+  "lastUpdated": "2026-02-23T11:08:16.122Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,95 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 525,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 503,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2025888203925004511",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "drone, robots, and if pair with another local Palantir (military ai brain) China will have full package in the future armed forces",
+      "contentHtml": "drone, robots, and if pair with another local Palantir (military ai brain) China will have full package in the future armed forces",
+      "publishedAt": "2026-02-23T10:59:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2025888203925004511",
+      "quote": {
+        "username": "UnitreeRobotics",
+        "displayName": "Unitree",
+        "content": "Unitree Kung Fu Bot   Pray for Blessings at the Temple of Heaven: Wish Everyone All the Best🥳\nUnitree G1 Robots Cluster Show",
+        "link": "https://x.com/UnitreeRobotics/status/2025844809144074249"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2025887154216505631",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "很多人最近在說，X 時間線快被 AI 洗版了。 \n\n我覺得這很正常。 \n\n因為模型的推理能力開始能穩定處理多步任務，大概是去年年底才發生的。\n\n再加上今年一月 OpenClaw 突然爆紅，本地記憶可控了，權限開滿之後，AI 能做的事一下子變得非常多。  \n\n舉兩個我公司實際在跑的例子。  \n\n現在每天 AI 會自動幫我總結 Telegram 會員群內的討論，整理用戶回報了哪些 bug，按照類型分類列給我看。 \n\n我只需要掃一眼，就知道哪些是邏輯錯誤，哪些是 UI 問題，哪些需要進一步設計討論。 然後 AI 會自動開 Ticket 到專案管理系統，發需求給相對應的人。 \n\n如果我判斷可以直接修掉，就讓 AI 直接進 repo 改。改完之後，直接發 Pull Request 給工程師 review。   \n\n自動化測試也是。我用的是 Mac mini，本地環境有完整的 GUI 瀏覽器，AI 可以自己打開網站跑完整的 End-to-End 測試。 邊跑邊看 console 有沒有噴 error，後端有沒有報錯。 \n\n以前的流程是，AI 寫代碼，測試端最多寫到 API E2E 測試，前端介面還是人去前端看有沒有問題，再把錯誤報給 AI 修。 現在都不需要了，AI 自己就搞定整個流程 \n\n如果你是自己創業的老闆或是自由工作者，面對這種等級生產力工具，不碰才奇怪。\n\n注意力在哪裡，分享欲就在哪裡，過年期間都在用 OpenClaw 搞這些流程，自然就都寫這些東西了，相信很多人也都一樣。",
+      "contentHtml": "很多人最近在說，X 時間線快被 AI 洗版了。 \n\n我覺得這很正常。 \n\n因為模型的推理能力開始能穩定處理多步任務，大概是去年年底才發生的。\n\n再加上今年一月 OpenClaw 突然爆紅，本地記憶可控了，權限開滿之後，AI 能做的事一下子變得非常多。  \n\n舉兩個我公司實際在跑的例子。  \n\n現在每天 AI 會自動幫我總結 Telegram 會員群內的討論，整理用戶回報了哪些 bug，按照類型分類列給我看。 \n\n我只需要掃一眼，就知道哪些是邏輯錯誤，哪些是 UI 問題，哪些需要進一步設計討論。 然後 AI 會自動開 Ticket 到專案管理系統，發需求給相對應的人。 \n\n如果我判斷可以直接修掉，就讓 AI 直接進 repo 改。改完之後，直接發 Pull Request 給工程師 review。   \n\n自動化測試也是。我用的是 Mac mini，本地環境有完整的 GUI 瀏覽器，AI 可以自己打開網站跑完整的 End-to-End 測試。 邊跑邊看 console 有沒有噴 error，後端有沒有報錯。 \n\n以前的流程是，AI 寫代碼，測試端最多寫到 API E2E 測試，前端介面還是人去前端看有沒有問題，再把錯誤報給 AI 修。 現在都不需要了，AI 自己就搞定整個流程 \n\n如果你是自己創業的老闆或是自由工作者，面對這種等級生產力工具，不碰才奇怪。\n\n注意力在哪裡，分享欲就在哪裡，過年期間都在用 OpenClaw 搞這些流程，自然就都寫這些東西了，相信很多人也都一樣。",
+      "publishedAt": "2026-02-23T10:55:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2025887154216505631",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2025883531252236784",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "If I had built my career in the service industry, I’d be terrified for my future.\n\nGlad to be jobless.",
+      "contentHtml": "If I had built my career in the service industry, I’d be terrified for my future.\n\nGlad to be jobless.",
+      "publishedAt": "2026-02-23T10:40:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2025883531252236784",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2025874573313663182",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "兄弟们不好意思😂\n我串呢，我早上反手多了",
+      "contentHtml": "兄弟们不好意思😂\n我串呢，我早上反手多了",
+      "publishedAt": "2026-02-23T10:05:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2025874573313663182",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHB1aLx8bkAAErDQ.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "地板追空被套住了会不会爆",
+        "link": "https://x.com/Bitfatty/status/2025871269808447694",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHB1XLZcaUAIXYqD.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2025873473005093341",
       "username": "Murphychen888",
@@ -4412,7 +4496,7 @@
     {
       "id": "2023877649475731671",
       "username": "0xSigil",
-      "displayName": "Sigil",
+      "displayName": "Sigil Wen",
       "avatar": "https://nitter.net/pic/profile_images%2F2014029580009455616%2FAnz0UWEa_bigger.jpg",
       "content": "I built the first AI that earns its existence, self-improves, and replicates without a human\n\nwrote about the technology that finally gives AI write access to the world, The Automaton, and the new web for exponential sovereign AIs\n\nWEB 4.0: The birth of superintelligent life",
       "contentHtml": "I built the first AI that earns its existence, self-improves, and replicates without a human\n\nwrote about the technology that finally gives AI write access to the world, The Automaton, and the new web for exponential sovereign AIs\n\nWEB 4.0: The birth of superintelligent life",
@@ -10833,102 +10917,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHA17AQ0aAAACE-z.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021490350410563927",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "跌了？那继续加仓！🫣\n\n累计做多 10 万枚 $ETH 的多军过去 50 分钟已增持至 10.5 万枚 ETH，总仓位价值 2.04 亿美元，总浮亏超 1,003.2 万美元\n\n▶︎ 地址 0xa5B…01D41：持仓 6 万枚 ETH（1.17 亿美元），开仓价 $2,059.8，浮亏 652.8 万美元\n▶︎ 地址 0x6C8…D84F6：持仓 4.5 万枚 ETH（8782 万美元），开仓价 $2,029.38，浮亏 350.4 万美元\n\n传送门\nhyperbot.network/trader/0xa5…\nhyperbot.network/trader/0x6C…",
-      "contentHtml": "跌了？那继续加仓！🫣\n\n累计做多 10 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的多军过去 50 分钟已增持至 10.5 万枚 ETH，总仓位价值 2.04 亿美元，总浮亏超 1,003.2 万美元\n\n▶︎ 地址 0xa5B…01D41：持仓 6 万枚 ETH（1.17 亿美元），开仓价 $2,059.8，浮亏 652.8 万美元\n▶︎ 地址 0x6C8…D84F6：持仓 4.5 万枚 ETH（8782 万美元），开仓价 $2,029.38，浮亏 350.4 万美元\n\n传送门\n<a href=\"https://hyperbot.network/trader/0xa5B0eDF6B55128E0DdaE8e51aC538c3188401D41\">hyperbot.network/trader/0xa5…</a>\n<a href=\"https://hyperbot.network/trader/0x6C8512516Ce5669d35113A11Ca8B8DE322fD84F6\">hyperbot.network/trader/0x6C…</a>",
-      "publishedAt": "2026-02-11T07:43:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2021490350410563927",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHA3GI1jbcAA8t75.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHA3GKlAbsAAD2z5.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "又搞大晚上偷袭，累计做多 10 万枚 $ETH 的两位多军已浮亏超 448.3 万美元🫣\n\n▶︎ 地址 0xa5B…01D41：持仓 6 万枚 ETH（1.2 亿美元），开仓价 $2,059.8，浮亏 307.8 万美元\n▶︎ 地址 0x6C8…D84F6：持仓 4 万枚 ETH（8038 万美元），开仓价 $2,039.43，浮亏 140 万美元\n\n两个地址疑似归属于同一巨鲸 / 实体；传送门\nhyperbot.network/trader/0xa5…\nhyperbot.network/trader/0x6C…",
-        "link": "https://x.com/ai_9684xtpa/status/2021236996501537149",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAzfsAqaYAAq3D-.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAzfvOVawAAHqW3.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021487254070493523",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "好不容易没有ai文了\n现在被ai视频刷屏了😅",
-      "contentHtml": "好不容易没有ai文了\n现在被ai视频刷屏了😅",
-      "publishedAt": "2026-02-11T07:31:00.000Z",
-      "link": "https://x.com/hazenlee/status/2021487254070493523",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021479522529681881",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "果然有发nft的项目，@EspressoSys 在有发币预期的时候就是最值钱的时候，后悔咖啡nft没清仓了，不仅没卖，空投也没有注册。\n\n这种类型的项目只有@InfiniGods 赚到了钱，发币预期直接最高价（0.55e）卖掉了，钻到底都是亏钱的比如 @gomblegames 白嫖的nft（0.15e）不仅没有卖还接盘了一堆。",
-      "contentHtml": "果然有发nft的项目，<a href=\"/EspressoSys\" title=\"Espresso ☕️\">@EspressoSys</a> 在有发币预期的时候就是最值钱的时候，后悔咖啡nft没清仓了，不仅没卖，空投也没有注册。\n\n这种类型的项目只有<a href=\"/InfiniGods\" title=\"InfiniGods⚡️\">@InfiniGods</a> 赚到了钱，发币预期直接最高价（0.55e）卖掉了，钻到底都是亏钱的比如 <a href=\"/gomblegames\" title=\"Gomble Games\">@gomblegames</a> 白嫖的nft（0.15e）不仅没有卖还接盘了一堆。",
-      "publishedAt": "2026-02-11T07:00:00.000Z",
-      "link": "https://x.com/0xleng1/status/2021479522529681881",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021474395705966983",
-      "username": "ohyishi",
-      "displayName": "Yishi",
-      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
-      "content": "我问 Niq 招人有什么要求，Niq 说有，但是不高。\n\n我：要什么技能？\nNiq：有手就行。\n\n我：大一、大二学生也可以 do 吗？\nNiq：can do.\n\n我：弱弱问下，文科生可以吗？\nNiq：包的，兄弟，包的。\n\n我：主要做什么，怎么定义做得好？\nNiq：写内容、做增长，传单侬发过吗，一个意思。只不过现在不用你手动发，你指挥着5只龙虾全世界给你发。\n\n我：AI 工具给报吗？\nNiq：管够。\n\n我：能不能远程？\nNiq：你最好是，地理套利不香吗？\n\n好的，我没有其他问题了...🫡",
-      "contentHtml": "我问 Niq 招人有什么要求，Niq 说有，但是不高。\n\n我：要什么技能？\nNiq：有手就行。\n\n我：大一、大二学生也可以 do 吗？\nNiq：can do.\n\n我：弱弱问下，文科生可以吗？\nNiq：包的，兄弟，包的。\n\n我：主要做什么，怎么定义做得好？\nNiq：写内容、做增长，传单侬发过吗，一个意思。只不过现在不用你手动发，你指挥着5只龙虾全世界给你发。\n\n我：AI 工具给报吗？\nNiq：管够。\n\n我：能不能远程？\nNiq：你最好是，地理套利不香吗？\n\n好的，我没有其他问题了...🫡",
-      "publishedAt": "2026-02-11T06:40:00.000Z",
-      "link": "https://x.com/ohyishi/status/2021474395705966983",
-      "retweet": {
-        "username": "follow_clues",
-        "displayName": "Theclues"
-      },
-      "quote": {
-        "username": "niqislucky",
-        "displayName": "niq",
-        "content": "平庸有重力，逃逸需要加速度。\n\n而 AI 时代逃逸平庸的最好办法，\n就是和聪明的人，\n用 AI 做有挑战的 100x Business。\n\n👋 OneKey 招贤：\n\n2021 年创业至今第6年，币安 & Coinbase 融资，处于 Pre-C 轮阶段，主营业务是钱包 App 和硬件钱包。\n\n你将进入 Growth Pilot 小组做 App 增长，希望你是实习生或应届毕业生。\n\n这个小组可以视为内部再创业，目标很明确：在有限预算下，把 App 推广给终端用户，跑出可复现的获客、转化和裂变模型和 SOP。\n\n你需要在高度不确定的环境中，亲手把结果怼出来。\n\n要做什么：\n- 搭建 App 内容渠道（X / Reddit / Tiktok / 小红薯 / Instagram 等）\n- 建立 App 增长渠道、达成合作、追踪转化和各类指标\n- 高强度使用 AI 工具，构建 Agent Workflow \n- 快速试错和失败，淘汰无效方案，沉淀可复制方法 SOP\n\n看重什么：\n\n- 有内容网感，对赚钱有动力\n- 亲手做过/推广过相关 App 或类似 0→1 项目（成功或失败都可以）\n- 能把 App 生意的账算清楚\n- 能在资源有限情况下主动推进事情，而不是等待指令\n- 如果上面的都做不到，脸皮厚也可以\n\n不适合这个岗位的人：\n\n- 抵触 AI 或用不明白 AI\n- 心气、期望值太高\n- 只做过大厂大公司成熟模块\n- 沉迷宏大叙事、互联网黑话爱好者、眼高手低、说得比做的好\n\n简历要求：让我看懂\n\n学历要求：全日制大学本科为佳，优秀者放宽\n\n经验要求：无\n\n工作地点：可远程或现场办公\n\n薪资待遇：基本工资 + 奖金 + 提成\n\n试用期：3个月，且有硬性考核指标\n\n🫱 投递方式：见评论区链接，岗位选择「增长经理」，备注 「Niq」",
-        "link": "https://x.com/niqislucky/status/2021471356261630359"
       },
       "stats": {
         "replies": 0,
