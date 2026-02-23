@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T11:08:16.122Z",
+  "lastUpdated": "2026-02-23T11:54:36.139Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 503,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 522,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2025890439807598784",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "我覺得這具體要看你想要達到什麼結果。\n\n如果你只是想試試看這個東西適不適合自己，只是想嚐鮮，先用 VPS 跑會比較好，現在已經有很多針對 OpenClaw 的雲端託管服務了。如果你已經很確定這個東西能帶給你的效益，在半年之內會超過一台 Mac mini 的話，我會建議你直接直攻 Mac mini。\n\n因為龍蝦大部分的設置都是針對 macOS 相關的設定，如果你是跑 Linux 或是 Windows 的話，其實會蠻痛苦的。\n\n再來就是，目前很多雲端 VPS 跑的其實都是 Headless 的環境，如果你想要用 Browser 做一些事情的話，會遇到很大的麻煩。因為有一些服務是不支援 CLI 或是 API token 登入的，一定要用 Browser 登入。",
+      "contentHtml": "我覺得這具體要看你想要達到什麼結果。\n\n如果你只是想試試看這個東西適不適合自己，只是想嚐鮮，先用 VPS 跑會比較好，現在已經有很多針對 OpenClaw 的雲端託管服務了。如果你已經很確定這個東西能帶給你的效益，在半年之內會超過一台 Mac mini 的話，我會建議你直接直攻 Mac mini。\n\n因為龍蝦大部分的設置都是針對 macOS 相關的設定，如果你是跑 Linux 或是 Windows 的話，其實會蠻痛苦的。\n\n再來就是，目前很多雲端 VPS 跑的其實都是 Headless 的環境，如果你想要用 Browser 做一些事情的話，會遇到很大的麻煩。因為有一些服務是不支援 CLI 或是 API token 登入的，一定要用 Browser 登入。",
+      "publishedAt": "2026-02-23T11:08:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2025890439807598784",
+      "quote": {
+        "username": "DavidLin01",
+        "displayName": "David Lin",
+        "content": "想詢問班森，如果要跑open claw 是不是要買一台獨立Mac mini 回比較好",
+        "link": "https://x.com/DavidLin01/status/2025888656591143386"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2025888203925004511",
       "username": "DoveyWan",
@@ -628,6 +649,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHBzncIfbsAEPp62.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -3941,7 +3966,7 @@
       "link": "https://x.com/hazenlee/status/2024127926149791807",
       "quote": {
         "username": "Xiaoniu6161",
-        "displayName": "小牛在抄底",
+        "displayName": "小牛 OTC",
         "content": "2月18日，据腾讯官微消息，元宝日活跃用户(DAU)超过5000万，月活跃用户(MAU)达到 1.14亿。\n\n抖音的豆包数据应该能超过这个吧。。。",
         "link": "https://x.com/Xiaoniu6161/status/2024127277328687235",
         "media": [
@@ -10881,43 +10906,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHA3JWS4bEAAzQ5j.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021491208900714909",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "第一眼看到有5万枚BTC多头合约爆仓，着实吓我一跳！就当前市场的脆弱性哪里还经得起这种打击。再仔细一看，还好还好 ....... 那是2018年的事情。\n\n反正现在行情无聊透顶，我们只能靠吃瓜度日。实在没有，就去翻历史，写个古装剧出来大家也乐意看。\n\n在当时5万枚BTC意味什么？我还真的饶有兴趣的去查了下相关数据：\n\n1、2018年，OKX全年最高峰是BTC余额为62,755枚;\n2、2018年，OKX链上BTC储备金的美元价值为3,418万美元，按当时币价折算大致为8500枚BTC。\n\n这些数据放到现在是不够看，但在当时已属于业内顶级水平了。在此背景下应该没有任何一家交易所会允许这样具备异常潜在风险的事情发生，毕竟这不是赚钱亏钱的事，这是要革命”，革交易所的命。\n\n正所谓吃一堑长一智，随着行业的发展，在经历了一系列风险突发事件之后，如今所有的交易所都提高了“风险准备金”和“链上储备金”的标准。\n\n对于平台来说，安全稳定、服务响应，在剧烈波动中能保持连续的流动性，就是未来能赢得更多用户信赖的核心竞争力。",
-      "contentHtml": "第一眼看到有5万枚BTC多头合约爆仓，着实吓我一跳！就当前市场的脆弱性哪里还经得起这种打击。再仔细一看，还好还好 ....... 那是2018年的事情。\n\n反正现在行情无聊透顶，我们只能靠吃瓜度日。实在没有，就去翻历史，写个古装剧出来大家也乐意看。\n\n在当时5万枚BTC意味什么？我还真的饶有兴趣的去查了下相关数据：\n\n1、2018年，OKX全年最高峰是BTC余额为62,755枚;\n2、2018年，OKX链上BTC储备金的美元价值为3,418万美元，按当时币价折算大致为8500枚BTC。\n\n这些数据放到现在是不够看，但在当时已属于业内顶级水平了。在此背景下应该没有任何一家交易所会允许这样具备异常潜在风险的事情发生，毕竟这不是赚钱亏钱的事，这是要革命”，革交易所的命。\n\n正所谓吃一堑长一智，随着行业的发展，在经历了一系列风险突发事件之后，如今所有的交易所都提高了“风险准备金”和“链上储备金”的标准。\n\n对于平台来说，安全稳定、服务响应，在剧烈波动中能保持连续的流动性，就是未来能赢得更多用户信赖的核心竞争力。",
-      "publishedAt": "2026-02-11T07:47:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2021491208900714909",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHA3GmVXaAAQFSQW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHA3GscWaAAQnBka.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Haiteng_okx",
-        "displayName": "海腾",
-        "content": "这个事件发生在2018年，该用户当年通过高杠杆短时间内建立异常大量的BTC多头仓位，并在平台基于风控多次提出“减仓要求”后拒绝配合，对市场的稳定产生重大影响。根据用户协议对相关账户执行冻结，后续由于杠杆倍率过高和BTC价格下降最终爆仓。如果，当时没有及时制止这种市场操控行为，会对所有交易用户产生巨大冲击。在该事件中，平台也从自有资金中拿出2500个BTC注入到风险准备金池，以降低对其他用户的影响。后续，平台也在通过标记价格、仓位限制等机制持续不断的优化风控体系。\n\n作为中心化交易所承载着信任，承担着运营责任，因此有义务保护正常交易的用户。事件公告如下：okx.com/zh-hans/help/announc…",
-        "link": "https://x.com/Haiteng_okx/status/2021407938825552374",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHA17AQ0aAAACE-z.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
