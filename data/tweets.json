@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T20:27:22.537Z",
+  "lastUpdated": "2026-02-23T21:09:45.911Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 525,
+    "newFetched": 520,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2026038375354863864",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "这样下去Anthropic的估值得是100万亿，然后他们实现了AGI，把自己破坏了，归0🤣",
+      "contentHtml": "这样下去Anthropic的估值得是100万亿，然后他们实现了AGI，把自己破坏了，归0🤣",
+      "publishedAt": "2026-02-23T20:56:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2026038375354863864",
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "At this rate, Anthropic should be valued at 100T by next month😂",
+        "link": "https://x.com/TJ_Research/status/2026027590633275662"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2026030553804288332",
       "username": "TJ_Research",
@@ -10865,21 +10886,6 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n因为无法确认代码真正的底层实现，所以不敢把 AI 产出的代码用于生产环境，尤其涉及大量资金的业务里。\n\n这对于程序员来说确实是头疼的问题。\n\n但对于产品来说，我们本来也不知道你写的是啥…\n\n类似的，当我选择一个开发者合作时，没有三五年来确认这个人的技术水平、靠谱的程度乃至人品，我也很难与他合作。\n\n这是完全一模一样的问题，会被时间解决。\n\n所以即使在 2026 年，计算机依然是时代红利最大的专业，只不过它的性质从工程师变成了类似翻译。\n\n翻译不会通过翻译本身赚大钱，而是精通这门语言，从而实现了业务拓展。\n\n同样开发不会因为写代码赚钱，而是因为理解开发，从而接触所有行业。",
       "publishedAt": "2026-02-12T01:31:00.000Z",
       "link": "https://x.com/taresky/status/2021759051378639095",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2021752050124824843",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "#AI \n\n睡前让 codex 把在跑的程序都重构成适合 worker 的版本，自动完成重构测试和部署。\n\n醒来 worker 提示我付费了😂",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n睡前让 codex 把在跑的程序都重构成适合 worker 的版本，自动完成重构测试和部署。\n\n醒来 worker 提示我付费了😂",
-      "publishedAt": "2026-02-12T01:03:00.000Z",
-      "link": "https://x.com/taresky/status/2021752050124824843",
       "stats": {
         "replies": 0,
         "retweets": 0,
