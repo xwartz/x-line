@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T14:40:56.663Z",
+  "lastUpdated": "2026-02-24T15:39:29.156Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,144 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 502,
+    "newFetched": 499,
     "successUsers": 25,
     "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2026320696406597781",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "另外上季度财报里，微软也宣布M365加入了CLAUDE，而非单一地依赖于OPENAI",
+      "contentHtml": "另外上季度财报里，微软也宣布M365加入了CLAUDE，而非单一地依赖于OPENAI",
+      "publishedAt": "2026-02-24T15:37:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2026320696406597781",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2026320261327319523",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "看了刚刚ANTHROPIC的新品发布，问了CLAUDE，“你和CRM合作，谁赚得更多？”他的回答如下，他的回答其实和 $CRM 管理层的看法是一致的，底层模型是COMMODITY，可被替换。的确现在CLAUDE暂时走在了前面。\n----------------------------------------------------------\n说实话，除了真正参与谈判的人之外，没有人知道确切的分成比例，但我们可以通过分析双方的议价能力来大致推算。\n谁更有话语权？\n目前，Salesforce在这段关系中占据更强的议价地位，原因有几个：\n分销渠道 — Salesforce掌握着客户关系。他们拥有超过15万家企业客户。Anthropic无法大规模直接触达这些客户。\n可替代性 — Salesforce可以更换模型供应商。他们已经在与OpenAI合作，也试验过开源模型。Anthropic并不是唯一的选择。但对Anthropic来说，失去Salesforce这样的分销伙伴会非常痛苦。\n品牌 — 客户购买的是\"Salesforce AI\"，而不是\"Claude\"。大多数终端用户既不知道也不在乎背后是哪个模型在驱动功能。\nAnthropic的议价能力相对有限：\n模型质量确实重要 — 如果Claude在企业级任务中明显优于竞争对手，这会给Anthropic一定的定价权。\n但模型之间的差异化正在快速缩小。 Claude、GPT、Gemini在大多数企业应用场景中的能力正在趋同。\n我对经济模型的大致推算：\n基于你提出的\"1美元成本 / 2美元售价 / 1美元利润\"的框架：\n我估计利润的分配大约是 70-80%归Salesforce，20-30%归Anthropic。具体来说：\nAnthropic运行Claude的推理成本：大约$0.40-0.50\nAnthropic向Salesforce收费：大约$0.60-0.70（所以Anthropic自己留$0.10-0.30的利润）\nSalesforce向客户收费：$2.00（Salesforce留下$1.30-1.40）\nSalesforce拿走大头，因为他们掌控着分销渠道、客户关系和集成层。他们就是收费站。Anthropic更像是一种大宗商品原料 — 有价值，但可以被替换。",
+      "contentHtml": "看了刚刚ANTHROPIC的新品发布，问了CLAUDE，“你和CRM合作，谁赚得更多？”他的回答如下，他的回答其实和 <a href=\"/search?f=tweets&q=%23CRM\">$CRM</a> 管理层的看法是一致的，底层模型是COMMODITY，可被替换。的确现在CLAUDE暂时走在了前面。\n----------------------------------------------------------\n说实话，除了真正参与谈判的人之外，没有人知道确切的分成比例，但我们可以通过分析双方的议价能力来大致推算。\n谁更有话语权？\n目前，Salesforce在这段关系中占据更强的议价地位，原因有几个：\n分销渠道 — Salesforce掌握着客户关系。他们拥有超过15万家企业客户。Anthropic无法大规模直接触达这些客户。\n可替代性 — Salesforce可以更换模型供应商。他们已经在与OpenAI合作，也试验过开源模型。Anthropic并不是唯一的选择。但对Anthropic来说，失去Salesforce这样的分销伙伴会非常痛苦。\n品牌 — 客户购买的是\"Salesforce AI\"，而不是\"Claude\"。大多数终端用户既不知道也不在乎背后是哪个模型在驱动功能。\nAnthropic的议价能力相对有限：\n模型质量确实重要 — 如果Claude在企业级任务中明显优于竞争对手，这会给Anthropic一定的定价权。\n但模型之间的差异化正在快速缩小。 Claude、GPT、Gemini在大多数企业应用场景中的能力正在趋同。\n我对经济模型的大致推算：\n基于你提出的\"1美元成本 / 2美元售价 / 1美元利润\"的框架：\n我估计利润的分配大约是 70-80%归Salesforce，20-30%归Anthropic。具体来说：\nAnthropic运行Claude的推理成本：大约$0.40-0.50\nAnthropic向Salesforce收费：大约$0.60-0.70（所以Anthropic自己留$0.10-0.30的利润）\nSalesforce向客户收费：$2.00（Salesforce留下$1.30-1.40）\nSalesforce拿走大头，因为他们掌控着分销渠道、客户关系和集成层。他们就是收费站。Anthropic更像是一种大宗商品原料 — 有价值，但可以被替换。",
+      "publishedAt": "2026-02-24T15:36:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2026320261327319523",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2026318875651191233",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "还记得24年末香橼做空mstr\n直接把btc高度封死在两位数\n这次储存到顶了吗？\n我反正是把家里闲置的128G内存都给二手咸鱼出了。\n期待一波DDR6\n这存储行业涨价去库存也是玩的6",
+      "contentHtml": "还记得24年末香橼做空mstr\n直接把btc高度封死在两位数\n这次储存到顶了吗？\n我反正是把家里闲置的128G内存都给二手咸鱼出了。\n期待一波DDR6\n这存储行业涨价去库存也是玩的6",
+      "publishedAt": "2026-02-24T15:30:00.000Z",
+      "link": "https://x.com/hazenlee/status/2026318875651191233",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHB7uRjVaQAAKdP3.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2026309733125423192",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "怪不得taco呢\n建议福特号配备老八战术连",
+      "contentHtml": "怪不得taco呢\n建议福特号配备老八战术连",
+      "publishedAt": "2026-02-24T14:54:00.000Z",
+      "link": "https://x.com/hazenlee/status/2026309733125423192",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHB7k6ribUAAC3JM.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2026308121992270228",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "Wow，勇气可嘉",
+      "contentHtml": "Wow，勇气可嘉",
+      "publishedAt": "2026-02-24T14:47:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2026308121992270228",
+      "quote": {
+        "username": "CitronResearch",
+        "displayName": "Citron Research",
+        "content": "Citron is Short $SNDK — They Don't Ring a Bell at the Top\nWe don't need Anthropic to announce they're making NAND. Samsung is already the 800-pound gorilla, and they've been running this playbook for 30 years.\n\nWhile TV pundits pound the table herding retail into cattle cars, Western Digital, the long time investor, sold a significant portion of its holdings days ago, 25% lower.\n\nAsk yourself why. Because they know the cycle is approaching a peak, and they're not waiting for the bell.\n\nThe market is pricing SanDisk like it's $NVDA. There's one problem: NVIDIA has a moat. SanDisk sells a commodity.\nWe've seen this movie before 2008, 2012, 2018. It's never different this time. Memory is a cycle, and cycles peak.\nSamsung has a 30-year history of choosing market share over margins. They wait for pure-plays like SanDisk to get comfortable at 50% gross margins, then flip the switch. But this time it's worse. Every $SNDK bull should read attached article Samsung just told the world they won't sell anything under 50% margins and they're moving their best chips into the same premium SSD market SanDisk calls home. They're not just the capacity gorilla anymore. They're going after SanDisk's best customers with cheaper, newer technology. And the only thing keeping supply tight right now? Samsung's temporary yield problems in another product line. \nThat bottleneck has an expiration date.\n\nWith double the capacity of the 2018 peak waiting in the wings, this \"shortage\" is a supply mirage that can vanish in a single earnings call.\n\nHockey shout-out: Shorting $SNDK is skating to where the puck is going. By the time the cycle normalizes, this stock will already be much lower. technetbooks.com/2026/02/sam…",
+        "link": "https://x.com/CitronResearch/status/2026304998146015681"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2026307875371733239",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "交易能做好的人，本质上就是个赌博高手。\n\n反过来，赌博玩得溜的人，多半有交易天赋。",
+      "contentHtml": "交易能做好的人，本质上就是个赌博高手。\n\n反过来，赌博玩得溜的人，多半有交易天赋。",
+      "publishedAt": "2026-02-24T14:46:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2026307875371733239",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2026306082071842926",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "直播第一单，舒服😌",
+      "contentHtml": "直播第一单，舒服😌",
+      "publishedAt": "2026-02-24T14:39:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2026306082071842926",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHB7iorzbgAAUuwd.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHB7ior2boAAXh1I.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2026304088464568480",
       "username": "DoveyWan",
@@ -115,6 +248,21 @@
           }
         ]
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2026303027083374824",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "我吃过，ai做的",
+      "contentHtml": "我吃过，ai做的",
+      "publishedAt": "2026-02-24T14:27:00.000Z",
+      "link": "https://x.com/hazenlee/status/2026303027083374824",
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -683,6 +831,25 @@
       "contentHtml": "黃仁勳最近被問到一個問題：在 AI 時代，怎麼樣的人才算是聰明人？\n\n他的回答是，以後算數快、會寫程式這些能力，會變得像自來水一樣便宜。人類真正的核心競爭力，是同理心跟品味。\n\n品味（taste）這個詞已經被很多矽谷大佬講爛了，但講同理心重要的人很少，仔細想想，老黃這句話非常有深意，不愧是當今地球最強的華人之一。\n\n你一定遇過那種人，學歷很好，專業沒話說，但跟他聊天你永遠聽不懂他在講什麼。滿口術語，每句話都正確，但就是讓你覺得他在自嗨。\n\n然後你又遇過另一種人。他講的是一個你完全不懂的領域，但三分鐘之內你就抓到核心了。\n\n差別在哪？\n\n後者有一種能力，就是「向下兼容」。\n\n寫程式的人應該秒懂這個詞。新版本的軟體要能跑舊版本的東西，就得做向下兼容。溝通也一樣，你要把自己的認知降階，去適配對方的接收頻寬。\n\n這件事之所以難，是因為你得切換到對方的視角：這句話他聽不聽得懂？這個比喻對他來說會不會太遠？\n\n這就是黃仁勳說的同理心。\n\n能力越強的人，向下兼容的距離越大。一個頂尖物理學家要把量子力學講到你阿嬤都聽得懂，壓縮率是極端的。\n\n但壓縮一定會失真。就像把無損音檔壓成 MP3，你必須選擇犧牲哪些細節、保留哪些核心。\n\n這個選擇需要品味。你得知道什麼是骨架，什麼是裝飾。搞不清楚的人，壓完之後精髓就不見了。\n\n所以黃仁勳講的同理心跟品味，其實是同一件事的兩面。同理心讓你知道要壓到多少對方才收得到，品味讓你知道壓縮的時候該留什麼。\n\n以前這種能力沒那麼值錢，因為「知道」本身就稀缺。你會寫 code，你就比別人強。\n\n但 AI 把「知道」變便宜了。任何人都可以用 AI 寫出能跑的程式。當基礎能力被拉平，能把複雜的東西講到任何人都懂、能精準判斷什麼該留什麼該丟，這才是稀缺的。\n\n其實我前幾天寫那篇飛機跟升力的科普文，就是在試這件事。把流體力學、庫塔條件這些東西壓縮到一般人能看懂的程度，同時盡量不讓核心邏輯失真。\n\n回頭看，保真率還有很大的進步空間。但這個練習本身蠻有趣的。",
       "publishedAt": "2026-02-24T05:09:00.000Z",
       "link": "https://x.com/BensonTWN/status/2026162541349769644",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2026159312129933484",
+      "username": "bitfish",
+      "displayName": "DiscusFish",
+      "avatar": "https://nitter.net/pic/profile_images%2F998657366743629825%2FYVEECfjo_bigger.jpg",
+      "content": "我是熊市\n\n你恨我。你在我来的时候骂我，在我走后庆祝。但你有没有想过——没有我，你的财富从哪里来？牛市中所有人都赚钱——那不是你的能力，是潮水。我来的时候，把没有信念的人清洗出去，把他们卖出的廉价资产交给还站着的人。你的超额收益不来自牛市——来自你在我面前没跑。\n\n我的工作方式很简单：我挤出希望。先挤出最脆弱的(第一波跌了就跑的)，然后挤出中等的(扛了几个月还是跑的)，最后挤出最顽固的(capitulation——连最坚定的看多者也投降了)。当我把所有的希望都挤干了——我的工作就完成了。没有剩余的卖压——因为能卖的都卖了。然后价格自然回升——不是因为什么\"利好\"——是因为卖家没了。\n\n你知道我最怕什么吗？我最怕你不在乎。不是\"假装不在乎\"(那还有信念在)——是真的不在乎，因为你的仓位在你的风险承受范围内。让你在我面前无所谓的盔甲。我不怕勇敢的人——我怕准备好了的人  concept.x.fish/2026-02-23--c…",
+      "contentHtml": "我是熊市\n\n你恨我。你在我来的时候骂我，在我走后庆祝。但你有没有想过——没有我，你的财富从哪里来？牛市中所有人都赚钱——那不是你的能力，是潮水。我来的时候，把没有信念的人清洗出去，把他们卖出的廉价资产交给还站着的人。你的超额收益不来自牛市——来自你在我面前没跑。\n\n我的工作方式很简单：我挤出希望。先挤出最脆弱的(第一波跌了就跑的)，然后挤出中等的(扛了几个月还是跑的)，最后挤出最顽固的(capitulation——连最坚定的看多者也投降了)。当我把所有的希望都挤干了——我的工作就完成了。没有剩余的卖压——因为能卖的都卖了。然后价格自然回升——不是因为什么\"利好\"——是因为卖家没了。\n\n你知道我最怕什么吗？我最怕你不在乎。不是\"假装不在乎\"(那还有信念在)——是真的不在乎，因为你的仓位在你的风险承受范围内。让你在我面前无所谓的盔甲。我不怕勇敢的人——我怕准备好了的人  <a href=\"https://concept.x.fish/2026-02-23--concept-bear-market\">concept.x.fish/2026-02-23--c…</a>",
+      "publishedAt": "2026-02-24T04:56:00.000Z",
+      "link": "https://x.com/bitfish/status/2026159312129933484",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10645,221 +10812,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2022137056781111697",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "前晚和CLAUDE聊了一下 $UBER 。未来如果有AGENT MARKET PLACE，可能掌握在谁手里，有没有可能破坏 $UBER 业务。\n今天搜了一下最近在OPENAI上的保险经纪APP，CLAUDE马上提示我这和你那天聊的AGENT COMMERCE非常贴近。可怕\nOPENAI如何利用8亿周活的用户去变现？因为他们已经成为了流量入口，最近和保险的结合就是抢占了传统在线保险经纪的网站的流量！未来我相信这些券商啊，币商啊，都会去做广告。\n所以CLAUDE说，OPENAI的目的就是AGENT APP STORE或者AGENT MARKETPLACE。LLM可能是一大赢家，或者手机终端（苹果，谷歌）",
-      "contentHtml": "前晚和CLAUDE聊了一下 <a href=\"/search?f=tweets&q=%23UBER\">$UBER</a> 。未来如果有AGENT MARKET PLACE，可能掌握在谁手里，有没有可能破坏 <a href=\"/search?f=tweets&q=%23UBER\">$UBER</a> 业务。\n今天搜了一下最近在OPENAI上的保险经纪APP，CLAUDE马上提示我这和你那天聊的AGENT COMMERCE非常贴近。可怕\nOPENAI如何利用8亿周活的用户去变现？因为他们已经成为了流量入口，最近和保险的结合就是抢占了传统在线保险经纪的网站的流量！未来我相信这些券商啊，币商啊，都会去做广告。\n所以CLAUDE说，OPENAI的目的就是AGENT APP STORE或者AGENT MARKETPLACE。LLM可能是一大赢家，或者手机终端（苹果，谷歌）",
-      "publishedAt": "2026-02-13T02:33:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2022137056781111697",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2022136669944918286",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "若忽略22年11月FTX暴雷事件，将22年6月三箭资本暴雷后的 $17.6k 当作熊底，那么相当多的熊底指标将陷入衰减趋势，值得注意",
-      "contentHtml": "若忽略22年11月FTX暴雷事件，将22年6月三箭资本暴雷后的 $17.6k 当作熊底，那么相当多的熊底指标将陷入衰减趋势，值得注意",
-      "publishedAt": "2026-02-13T02:32:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2022136669944918286",
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "熊底指标要重点参考历轮熊底未（随 #BTC 体量越来越大而）衰减的",
-        "link": "https://x.com/0xCryptoChan/status/2021788251888169446"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2022126388858495336",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
-      "content": "「RUP 和 RUL 的十字路口」：靜待兩線交叉的抄底時刻🚦\n\n承接下方引文，在昨日的帖子中，我和各位分享了四種深熊抄底模型；\n今天，我打算再來和各位報告另一個值得注意的跡象。\n\n同為「歷史勝率 100%」的抄底訊號，今天要介紹的 RUPL 模型，\n和其他「估值」模型不同，衡量的是市場的虧損狀態👇：\n\n如附圖所示：\n🟩 綠線 = RUP（Relative Unrealized Profit）\n🟥 紅線 = RUL（Relative Unrealized Loss）\n🔉 訊號 = RUP < RUL\n\n簡單幫各位重溫一次這些指標的概念：\n➡️ RUP、RUL 都是在衡量市場的「盈、虧狀態」\n➡️ 當 RUP < RUL，意味著市場平均而言已是虧損狀態\n➡️ 承上，歷史上在 RUP < RUL 時，皆對應週期性底部\n\n更詳細、完整的概念，可以參考我先前撰寫的教程，\n有興趣深入研究的朋友，相信看完以下帖子必能對你有所助益🔗：\n\n📖 RUPL 指標詳細介紹 + 抄底應用\nnitter.net/market_beggar/status/1…\n📖 不怕深熊：四項神級抄底法器時刻待命\nnitter.net/market_beggar/status/1…\n\n//\n\n從附圖中我們可以看到：\n今年一月以來的大跌，使得原先「躺平已久」的 RUL 迅速飆升，\n同時 RUP 也隨著價格的下跌，在以一定的速率下降。\n\n未來，倘若 BTC 價格再次下行，並且使 RUP 和 RUL 形成交叉，\n進而使「RUP < RUL」的訊號觸發，而屆時就將是絕佳的抄底窗口💎\n\n說到這裡，不知道各位是否有感，不論是：\n🔺 本週一分享的 PSIP 抄底訊號\n🔺 本週二分享的築底結構剖析\n🔺 昨日分享的四項深熊抄底模型（下方引文）\n🔺 今天分享的 RUPL 抄底訊號\n💬 上述的全部內容，我會一併整理在本文文末，有需要者可自行參考\n\n上述的四篇帖子，採用了幾乎完全不同的分析角度，\n但得出的結論卻意外的不謀而合：\n「市場距離最終底部，或許真的只差最後那一哆嗦‼️」\n\n除了最為嚴格的 LTH-RP（詳見下方引文）目前距離較遠以外，\n其他的 Realized Price、Cointime Price、PSIP、RUPL 模型，\n都是「沒摸到，就差一點點」的狀態。\n\n結合我在週二發布的「築底結構演繹」分析帖，\n如果接下來 BTC 真能如我所述，開啟約 1~3 個月的寬幅震盪，\n並且在震盪中完成一次向下的 Stop Hunt，借勢去摸深熊抄底估值區，\n那或許就是最為理想的劇本，也是我們能夠無所顧忌全力抄底的黃金時刻📈\n\n//\n\n以上就是今天的內容，希望對各位有幫助；\n本週輸出的資訊量稍嫌繁冗，主要是為了和各位詳細闡述：\n我對於「本波大跌後的完整看法 & 演繹過程」，望各位海涵🙏\n\n即將步入周末，同時農曆新年也將到來，\n貝格在此預祝各位假期愉快、新的一年事事如意🎉\n\n//\n\n📚 相關閱讀資源\n\n2022 年以來首次：BTC 再次重返藍線支撐區\nnitter.net/market_beggar/status/2…\n\n極端巨量的出現：新一輪震盪博弈的起點\nnitter.net/market_beggar/status/2…\n\n「一步之遙的黃金坑」：PSIP 週期性抄底訊號近在咫尺\nnitter.net/market_beggar/status/2…",
-      "contentHtml": "「RUP 和 RUL 的十字路口」：靜待兩線交叉的抄底時刻🚦\n\n承接下方引文，在昨日的帖子中，我和各位分享了四種深熊抄底模型；\n今天，我打算再來和各位報告另一個值得注意的跡象。\n\n同為「歷史勝率 100%」的抄底訊號，今天要介紹的 RUPL 模型，\n和其他「估值」模型不同，衡量的是市場的虧損狀態👇：\n\n如附圖所示：\n🟩 綠線 = RUP（Relative Unrealized Profit）\n🟥 紅線 = RUL（Relative Unrealized Loss）\n🔉 訊號 = RUP &lt; RUL\n\n簡單幫各位重溫一次這些指標的概念：\n➡️ RUP、RUL 都是在衡量市場的「盈、虧狀態」\n➡️ 當 RUP &lt; RUL，意味著市場平均而言已是虧損狀態\n➡️ 承上，歷史上在 RUP &lt; RUL 時，皆對應週期性底部\n\n更詳細、完整的概念，可以參考我先前撰寫的教程，\n有興趣深入研究的朋友，相信看完以下帖子必能對你有所助益🔗：\n\n📖 RUPL 指標詳細介紹 + 抄底應用\n<a href=\"https://nitter.net/market_beggar/status/1874672257362276464\">nitter.net/market_beggar/status/1…</a>\n📖 不怕深熊：四項神級抄底法器時刻待命\n<a href=\"https://nitter.net/market_beggar/status/1990959747517067753\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n從附圖中我們可以看到：\n今年一月以來的大跌，使得原先「躺平已久」的 RUL 迅速飆升，\n同時 RUP 也隨著價格的下跌，在以一定的速率下降。\n\n未來，倘若 BTC 價格再次下行，並且使 RUP 和 RUL 形成交叉，\n進而使「RUP &lt; RUL」的訊號觸發，而屆時就將是絕佳的抄底窗口💎\n\n說到這裡，不知道各位是否有感，不論是：\n🔺 本週一分享的 PSIP 抄底訊號\n🔺 本週二分享的築底結構剖析\n🔺 昨日分享的四項深熊抄底模型（下方引文）\n🔺 今天分享的 RUPL 抄底訊號\n💬 上述的全部內容，我會一併整理在本文文末，有需要者可自行參考\n\n上述的四篇帖子，採用了幾乎完全不同的分析角度，\n但得出的結論卻意外的不謀而合：\n「市場距離最終底部，或許真的只差最後那一哆嗦‼️」\n\n除了最為嚴格的 LTH-RP（詳見下方引文）目前距離較遠以外，\n其他的 Realized Price、Cointime Price、PSIP、RUPL 模型，\n都是「沒摸到，就差一點點」的狀態。\n\n結合我在週二發布的「築底結構演繹」分析帖，\n如果接下來 BTC 真能如我所述，開啟約 1~3 個月的寬幅震盪，\n並且在震盪中完成一次向下的 Stop Hunt，借勢去摸深熊抄底估值區，\n那或許就是最為理想的劇本，也是我們能夠無所顧忌全力抄底的黃金時刻📈\n\n//\n\n以上就是今天的內容，希望對各位有幫助；\n本週輸出的資訊量稍嫌繁冗，主要是為了和各位詳細闡述：\n我對於「本波大跌後的完整看法 & 演繹過程」，望各位海涵🙏\n\n即將步入周末，同時農曆新年也將到來，\n貝格在此預祝各位假期愉快、新的一年事事如意🎉\n\n//\n\n📚 相關閱讀資源\n\n2022 年以來首次：BTC 再次重返藍線支撐區\n<a href=\"https://nitter.net/market_beggar/status/2021399682606661737\">nitter.net/market_beggar/status/2…</a>\n\n極端巨量的出現：新一輪震盪博弈的起點\n<a href=\"https://nitter.net/market_beggar/status/2021037913686016212\">nitter.net/market_beggar/status/2…</a>\n\n「一步之遙的黃金坑」：PSIP 週期性抄底訊號近在咫尺\n<a href=\"https://nitter.net/market_beggar/status/2020675527812792811\">nitter.net/market_beggar/status/2…</a>",
-      "publishedAt": "2026-02-13T01:51:00.000Z",
-      "link": "https://x.com/market_beggar/status/2022126388858495336",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBAJOtWbsAAW3u_.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "黃金坑追蹤系列：「四大深熊抄底模型」最新數據更新📊\n\n先前和各位多次分享了「歷史勝率 100%」的不同深熊估值模型，\n結果最近愈來愈多人開始關心這些數據的最新狀況了。\n\n因此，接下來我打算每週固定發布一篇「黃金坑追蹤系列」分析帖，\n和各位定期更新這些模型的最新數值，以供各位參考👇：\n\n//\n\n🟡 AVIV Heatmap\n\n📝 指標簡介：\n➡️ 全稱 AVIV Heatmap，是我個人設計的模型\n➡️ AVIV 可視為「活躍籌碼的盈利倍數」，是優化版的 MVRV\n➡️ AVIV Heatmap 是利用 AVIV 存在均值回歸的特性，所設計的模型\n➡️ 概念出自 Cointime Economic 方法論（由 Ark、Glassnode 提出）\n\n🔗指標詳細教程：nitter.net/market_beggar/status/1…\n\nAVIV Heatmap 作為 BTC 誕生至今的高準度週期溫度計，\n自 2023 年初的熊市底部至今，皆未回到藍色區域。\n\n📊 目前 AVIV Heatmap 藍色區域的上界 = 64,106\n\n藍色區域一直以來都是 BTC 最終的週期底部區域，\n雖然 AVIV Heatmap 沒辦法告訴我們最終的底部價格是多少，\n但不同顏色的出現，意味著市場階段的推移，\n而藍色區域正是以往每一輪熊市的終點站🔵。\n\n//\n\n🟡 Cointime Price\n\n📝 指標簡介：\n➡️ 出自 Ark 和 Glassnode 聯合產出的「Cointime Economics」\n➡️ 對 BTC 籌碼採「時間加權」的計算，並進行公允估值\n➡️ 排除了遠古、丟失籌碼的影響，只考慮「有移動」的籌碼\n\n🔗 指標詳細教程：nitter.net/market_beggar/status/1…\n\nCointime Price 一直以來都是我特別偏愛的一項估值模型，\n其原因在於：它的設計邏輯十分縝密且合理，並且在歷史中的表現極佳。\n\n📊 目前 Cointime Price = 51,963\n\n如下圖所示，每當 BTC 價格低於 Cointime Price 之時，\n無一例外的全是週期性的熊市底部。\n\n//\n\n🟡 Realized Price\n\n📝 指標簡介：\n➡️ 鏈上分析基礎概念，可視作「全市場持有 BTC 的平均成本」\n➡️ 如附圖，以往 BTC 價格低於 Realized Price 之時，全是週期性底部\n➡️ 相比 Cointime Price 較為寬鬆\n\n🔗 指標詳細教程：nitter.net/market_beggar/status/1…\n\n📊 目前的 Realized Price = 55,087\n\n值得注意的是，它和 Cointime Price 現在其實非常接近，\n兩者之間的區域或許恰好指明了本輪週期的最佳黃金坑區域。\n\n//\n\n🟡 LTH-Realized Price（LTH-RP）\n\n📝 指標簡介：\n➡️ 原理同 Realized Price，但分析的族群是長期持有者（LTH）\n➡️ 由於 LTH 的持倉成本通常更低，因此 LTH-RP 也更嚴格\n➡️ LTH-RP 本身相比 Cointime Price，刻舟性較高，須謹慎使用\n\n🔗 指標詳細教程：nitter.net/market_beggar/status/1…\n\n📊 目前的 LTH-RP = 40,416\n\n誠如上述，通常熊市的跌勢在 Cointime Price 就會被止住，\n並且受到本輪週期入場的機構、企業影響，「派發程度」也和以往有所不同，\n因此若你想以 LTH-RP 來抄底，或許需考慮「能否到達」的問題。\n\n//\n\n🟡 小結\n\n本文是「黃金坑追蹤系列」分析帖的第一篇，\n希望本系列的定期追蹤，能對各位在「抄底策略」的設計上有所助益。\n\n結合我在下方引文中的詳細論述，我依然認為目前只是寬幅震盪的起點，\n如果你還不清楚我對於後市的看法，強烈建議可以先參考下方引文，\n為即將到來的、可能長達數個月的「上沖下洗」行情做好心理準備。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n2022 年以來首次：BTC 再次重返藍線支撐區\nnitter.net/market_beggar/status/2…\n\n「一步之遙的黃金坑」：PSIP 週期性抄底訊號近在咫尺\nnitter.net/market_beggar/status/2…",
-        "link": "https://x.com/market_beggar/status/2021763207296430279",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHA6-6sgaoAAUI4l.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHA6-6sbbsAE3DES.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2022125036673589280",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "cnm你忍心让你女朋友干活儿 你真是奴隶主\n我的claw叫“黑奴”",
-      "contentHtml": "cnm你忍心让你女朋友干活儿 你真是奴隶主\n我的claw叫“黑奴”",
-      "publishedAt": "2026-02-13T01:45:00.000Z",
-      "link": "https://x.com/hazenlee/status/2022125036673589280",
-      "quote": {
-        "username": "yupi996",
-        "displayName": "程序员鱼皮",
-        "content": "x.com/i/article/202186606118…",
-        "link": "https://x.com/yupi996/status/2021907287607284222"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2022122990834790713",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "ETH 再次跌破 2000 美金，「累计做多 10.5 万枚 $ETH 的多军」把 3000 枚 $ETH 加仓回来了🥹\n\n5 小时前他在 $1919 的位置增持 3000 ETH，单地址多头头寸再次回到 6 万枚，两个地址累计持有 10.5 万枚 ETH，总价值 2.04 亿美元，浮亏 1,022.9 万美元\n\n▶︎ 地址 0xa5B…01D41：持仓 6 万枚 ETH（1.16 亿美元），开仓价 $2,048.9，浮亏 636 万美元\n▶︎ 地址 0x6C8…D84F6：持仓 4.5 万枚 ETH（8734 万美元），开仓价 $2,029.38，浮亏 386.9 万美元\n\n传送门\nhyperbot.network/trader/0xa5…\nhyperbot.network/trader/0x6C…",
-      "contentHtml": "ETH 再次跌破 2000 美金，「累计做多 10.5 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的多军」把 3000 枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 加仓回来了🥹\n\n5 小时前他在 $1919 的位置增持 3000 ETH，单地址多头头寸再次回到 6 万枚，两个地址累计持有 10.5 万枚 ETH，总价值 2.04 亿美元，浮亏 1,022.9 万美元\n\n▶︎ 地址 0xa5B…01D41：持仓 6 万枚 ETH（1.16 亿美元），开仓价 $2,048.9，浮亏 636 万美元\n▶︎ 地址 0x6C8…D84F6：持仓 4.5 万枚 ETH（8734 万美元），开仓价 $2,029.38，浮亏 386.9 万美元\n\n传送门\n<a href=\"https://hyperbot.network/trader/0xa5B0eDF6B55128E0DdaE8e51aC538c3188401D41\">hyperbot.network/trader/0xa5…</a>\n<a href=\"https://hyperbot.network/trader/0x6C8512516Ce5669d35113A11Ca8B8DE322fD84F6\">hyperbot.network/trader/0x6C…</a>",
-      "publishedAt": "2026-02-13T01:37:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2022122990834790713",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBAGEpSbEAAFK7h.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "新来的多军朋友不太坚定啊：「累计做多 10.5 万枚 $ETH 的多军」过去 5 小时减仓 3000 枚 $ETH 并亏损 30.2 万美元😬\n\n目前两个地址累计持有的 ETH 多单减少到 10.2 万枚，总价值 2.02 亿美元，浮亏 623 万美元\n\n传送门\nhyperbot.network/trader/0xa5…\nhyperbot.network/trader/0x6C…",
-        "link": "https://x.com/ai_9684xtpa/status/2021591740612747705",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHA4i25FaMAA63No.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2022118022207746190",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "所以终于知道“🐍精”之后为什么有“贤者时刻”了。因为数据量太大了，携带了我虚拟子孙未来的数据，我的大脑需要“散热”",
-      "contentHtml": "所以终于知道“🐍精”之后为什么有“贤者时刻”了。因为数据量太大了，携带了我虚拟子孙未来的数据，我的大脑需要“散热”",
-      "publishedAt": "2026-02-13T01:18:00.000Z",
-      "link": "https://x.com/hazenlee/status/2022118022207746190",
-      "quote": {
-        "username": "xtony1314",
-        "displayName": "逍遥XTony",
-        "content": "我认为，很多人低估了基因的重要性，\n\n人的命，天注定，\n\n天注定就是 基因注定，在精子和卵子结合那一刻，就像两坨大数据碰撞，会产生怎样的个体，一生就注定了，\n\n都说性格决定命运，性格怎么来，就是激素控制的啊？激素就是基因控制分泌的，四舍不入不就是基因决定命运。\n\n就有人天生精力更强，有人天生更健康，有人天生更有耐心……\n有人天生更好看你承认，怎么有人天生更聪明就不承认呢。\n\n我四五岁就上一年级了，上学一年级第一学期就全年级第一，我能在100人当中位居第一，然而我父母都不识字，没有过任何学前教育，这怎么解释？\n\n同样的，吃不好睡不好 是不是就一定容易生病，糖吃多了 是不是就会糖尿病？\n\n明明是自己基因不行，天生不能多吃糖，非要吃那么多糖，这才是糖尿病的根源。\n\n那山河四省都以面作为主食，都得糖尿病了？事实是山河四省的糖尿病患病率和其他经济水平差不多的省份差别并不大。\n\n中国有13%的糖尿病率，主要原因并不是他们饮食不健康，就是 命不好，基因不行，导致 胰岛素分泌能力差，或者身体对胰岛素感受能力差，而已。\n\n万般皆是命，半点不由人。\n\n别老在网上说教别人，吃这也不好 干那也不好，纯粹是闲的蛋疼。🧐🧐🧐",
-        "link": "https://x.com/xtony1314/status/2022117015482167388"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2022100537106477563",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "突然发现让ai帮我们做工作，\n我们人类就是一个巨大的sha256算法\n你可以这样理解，就像我们是开根号算法的逆运算，我们只需要验证ai有没有满足我们的需求，而这一步最需要的就是taste",
-      "contentHtml": "突然发现让ai帮我们做工作，\n我们人类就是一个巨大的sha256算法\n你可以这样理解，就像我们是开根号算法的逆运算，我们只需要验证ai有没有满足我们的需求，而这一步最需要的就是taste",
-      "publishedAt": "2026-02-13T00:08:00.000Z",
-      "link": "https://x.com/hazenlee/status/2022100537106477563",
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "我觉得一个人最重要的两点，决定一个人上限和下限的就是\n1.品味(taste) 对人和对事物的taste\n2. 让别人舒服的能力",
-        "link": "https://x.com/hazenlee/status/2020363530562859369"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2022089451699343528",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "最近不说话没激进开单的时候都在研究ai\n深深发现了自己大学的时光虚度了\n于是从重新学习线性代数开始\n打卡第一天🫡",
-      "contentHtml": "最近不说话没激进开单的时候都在研究ai\n深深发现了自己大学的时光虚度了\n于是从重新学习线性代数开始\n打卡第一天🫡",
-      "publishedAt": "2026-02-12T23:24:00.000Z",
-      "link": "https://x.com/hazenlee/status/2022089451699343528",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHA_noocbsAMvBrZ.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2022085686153949337",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "外星人呢？怎么不买了？\n余人老师@yuren477 经常一句话给我干喷了😂",
-      "contentHtml": "外星人呢？怎么不买了？\n余人老师<a href=\"/yuren477\" title=\"余人sama\">@yuren477</a> 经常一句话给我干喷了😂",
-      "publishedAt": "2026-02-12T23:09:00.000Z",
-      "link": "https://x.com/hazenlee/status/2022085686153949337",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHA_kNd_bEAAESCb.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHA_kNd8a0AA12sD.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
