@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T11:07:38.831Z",
+  "lastUpdated": "2026-02-26T11:56:02.795Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,53 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
+    "newFetched": 521,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2026983959771701292",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "哈哈哈龙虾变tamagotchi了？\n这个方向好玩了",
+      "contentHtml": "哈哈哈龙虾变tamagotchi了？\n这个方向好玩了",
+      "publishedAt": "2026-02-26T11:33:00.000Z",
+      "link": "https://x.com/hazenlee/status/2026983959771701292",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCFLKYfaEAAMEJw.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ring_hyacinth",
+        "displayName": "Ring Hyacinth",
+        "content": "给龙虾的办公室装修好了！\n\n1. 在不同工作状态时，会去房间不同区域：执行任务时去工作区、闲置时去休息区、报bug了去警报区。\n2. 做了个临时公网链接，手机可访问~\n3. 龙虾会随机说一些自己当时的想法。",
+        "link": "https://x.com/ring_hyacinth/status/2026717625469096426"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2026979602623823927",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "買了張 Herman Miller Aeron 電腦椅。\n\n去試坐的時候，被店員糾正坐姿好幾次。他說尾椎一定要貼住椅背，不然久了會出問題。\n\n還補一句：「光看你的坐姿，就知道以前的椅子很爛。」\n\n聽完我直接刷了第三代的旗艦款，網路一堆人都說這張椅子很神，到底是不是智商稅，一個月後再來分享心得。",
+      "contentHtml": "買了張 Herman Miller Aeron 電腦椅。\n\n去試坐的時候，被店員糾正坐姿好幾次。他說尾椎一定要貼住椅背，不然久了會出問題。\n\n還補一句：「光看你的坐姿，就知道以前的椅子很爛。」\n\n聽完我直接刷了第三代的旗艦款，網路一堆人都說這張椅子很神，到底是不是智商稅，一個月後再來分享心得。",
+      "publishedAt": "2026-02-26T11:16:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2026979602623823927",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2026976026333741176",
       "username": "boundaryhq",
@@ -1006,6 +1048,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHCDD1uBbAAATHBt.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -10764,36 +10810,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHBP2pGuX0AAG-z7.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2023230474429296920",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "最近很多人在講 AI Agent 會是 Crypto 最大的剛需。\n\n邏輯是：Agent 需要自主付錢買 API、買資料，它需要即時結算、跨境無摩擦的支付管道。Crypto 剛好符合。\n\n聽起來很合理。但認真想，這個論點有幾個洞。\n\n先講結算。Stripe 的 API，Agent 打一個 call 就能付款，信用卡授權是秒級的，跨境也沒問題。Agent 在乎的是「我付了，對方給我東西」，至於背後走 Visa 還是以太坊，它不在乎。數位美元已經夠數位了。\n\n再講身份。有人說 Agent 沒身份證，開不了帳戶，所以需要 Crypto 的無許可性。但最簡單的解法是：綁一張人類的信用卡，設個額度上限，Agent 拿 API key 去刷就好。就像給員工一張副卡設限額。不需要什麼新的金融基礎設施。\n\n另一個常見的說法是，Agent 的行為紀錄需要上鏈，因為區塊鏈不可竄改，適合做審計。但一個 centralized database 加數位簽章就能做到同樣的事。AWS CloudTrail 就是在幹這個。除非你連自己的平台都不信任，否則不需要上鏈。\n\n也有人說，兩個陌生 Agent 要合作，需要智能合約來保證履約，避免對方耍賴。但現實中 Agent 之間的交易大部分會走 API marketplace，有平台當中間人仲裁。就像你在 AWS Marketplace 買 SaaS，平台的 reputation system 就夠了。\n\n還有一派認為 Agent 的能力應該上鏈，變成可組合的開放服務，不被任何平台壟斷。但 API 本身就是可組合的。OpenAPI spec 加 API gateway 已經做到了。大部分開發者不在乎去中心化，他們在乎的是穩定、快、便宜。\n\n每一個看起來像 Crypto 剛需的場景，仔細一想，Web2 都有現成的解法。而且更成熟、更穩定。\n\n我在 Crypto 產業，我也很希望 Crypto 跟 AI 的結合能成為下一個增長的機會點。但我覺得我們得誠實面對。\n\n區塊鏈從 2017 年開始，每一波都有人在討論它可以跟什麼結合。ICO 時代，所有產業都想蹭區塊鏈。DeFi Summer，傳統金融想來蹭。NFT 熱潮，藝術圈想來蹭。\n\n但你有沒有發現，現在立場對調了？以前是別人想來蹭區塊鏈。現在變成區塊鏈要去蹭 AI。\n\n這個產業必須認真去想一個問題：到底哪些場景是「非區塊鏈不可」的？老實說，這種場景真的偏少。哪怕是行業內的人，真正在乎「去中心化」這個特性的從業人員恐怕也沒幾個。我們必須正視，目前區塊鏈最大的應用就是 Stablecoin 和 Bitcoin，剩下的場景規模都很小。\n\n有些區塊鏈的解法確實比傳統方案更好。但如果沒有比原本的方案好 10 倍以上，在一個替換成本很大的框架裡面，大家就沒有替換的動力。\n\nEmail 就是最好的例子。整個 Email 系統用的協議老到不行，站在技術角度早就該被替換了。到今天還是一大堆 spam，因為當初設計的時候根本沒考慮過驗證寄件人身份這件事。所有人都知道它爛，但全世界幾十億人都在用，你換得掉嗎？\n\nJavaScript 也一樣。這個語言有一大堆設計上的問題，但因為所有瀏覽器都原生支援它，你要重新做一個語言去取代它，成本高到不現實。所以最後大家怎麼辦？用 TypeScript 打補丁。本質上就是在一個有缺陷的東西上面糊一層，因為重來的代價太大了。\n\n區塊鏈面對的是同樣的困境。去中心化帶來的優勢，很多時候是 incremental 的優化，不是 fundamental 的改變。稍微好一點，但沒有好到讓人願意把整套基礎設施翻掉重來。\n\n反觀 AI 為什麼被採用得這麼快？因為它是生產力曲線的根本性位移。不是效率提升 20%，是一個人能幹五個人的活。這種量級的改變，不需要你推，大家搶著用。\n\n區塊鏈行業已經發展很久了。我覺得不需要再自己騙自己了。\n\n我之前寫過，很多人覺得 Crypto 賭場化讓人失望，但我反而覺得這沒什麼不好。黃賭毒是人類最底層的需求，幾千年來從未改變。弱監管、高波動、非對稱報酬，這就是 Crypto 最擅長的事情。\n\n賭場不會關門，賭客永遠會來。\n\n與其硬去蹭 AI、蹭 RWA、蹭任何看起來很正當的敘事，不如把自己擅長的事情做好。\n\n不要拿著錘子，看什麼都像釘子。有時候，那釘子可能根本不存在。",
-      "contentHtml": "最近很多人在講 AI Agent 會是 Crypto 最大的剛需。\n\n邏輯是：Agent 需要自主付錢買 API、買資料，它需要即時結算、跨境無摩擦的支付管道。Crypto 剛好符合。\n\n聽起來很合理。但認真想，這個論點有幾個洞。\n\n先講結算。Stripe 的 API，Agent 打一個 call 就能付款，信用卡授權是秒級的，跨境也沒問題。Agent 在乎的是「我付了，對方給我東西」，至於背後走 Visa 還是以太坊，它不在乎。數位美元已經夠數位了。\n\n再講身份。有人說 Agent 沒身份證，開不了帳戶，所以需要 Crypto 的無許可性。但最簡單的解法是：綁一張人類的信用卡，設個額度上限，Agent 拿 API key 去刷就好。就像給員工一張副卡設限額。不需要什麼新的金融基礎設施。\n\n另一個常見的說法是，Agent 的行為紀錄需要上鏈，因為區塊鏈不可竄改，適合做審計。但一個 centralized database 加數位簽章就能做到同樣的事。AWS CloudTrail 就是在幹這個。除非你連自己的平台都不信任，否則不需要上鏈。\n\n也有人說，兩個陌生 Agent 要合作，需要智能合約來保證履約，避免對方耍賴。但現實中 Agent 之間的交易大部分會走 API marketplace，有平台當中間人仲裁。就像你在 AWS Marketplace 買 SaaS，平台的 reputation system 就夠了。\n\n還有一派認為 Agent 的能力應該上鏈，變成可組合的開放服務，不被任何平台壟斷。但 API 本身就是可組合的。OpenAPI spec 加 API gateway 已經做到了。大部分開發者不在乎去中心化，他們在乎的是穩定、快、便宜。\n\n每一個看起來像 Crypto 剛需的場景，仔細一想，Web2 都有現成的解法。而且更成熟、更穩定。\n\n我在 Crypto 產業，我也很希望 Crypto 跟 AI 的結合能成為下一個增長的機會點。但我覺得我們得誠實面對。\n\n區塊鏈從 2017 年開始，每一波都有人在討論它可以跟什麼結合。ICO 時代，所有產業都想蹭區塊鏈。DeFi Summer，傳統金融想來蹭。NFT 熱潮，藝術圈想來蹭。\n\n但你有沒有發現，現在立場對調了？以前是別人想來蹭區塊鏈。現在變成區塊鏈要去蹭 AI。\n\n這個產業必須認真去想一個問題：到底哪些場景是「非區塊鏈不可」的？老實說，這種場景真的偏少。哪怕是行業內的人，真正在乎「去中心化」這個特性的從業人員恐怕也沒幾個。我們必須正視，目前區塊鏈最大的應用就是 Stablecoin 和 Bitcoin，剩下的場景規模都很小。\n\n有些區塊鏈的解法確實比傳統方案更好。但如果沒有比原本的方案好 10 倍以上，在一個替換成本很大的框架裡面，大家就沒有替換的動力。\n\nEmail 就是最好的例子。整個 Email 系統用的協議老到不行，站在技術角度早就該被替換了。到今天還是一大堆 spam，因為當初設計的時候根本沒考慮過驗證寄件人身份這件事。所有人都知道它爛，但全世界幾十億人都在用，你換得掉嗎？\n\nJavaScript 也一樣。這個語言有一大堆設計上的問題，但因為所有瀏覽器都原生支援它，你要重新做一個語言去取代它，成本高到不現實。所以最後大家怎麼辦？用 TypeScript 打補丁。本質上就是在一個有缺陷的東西上面糊一層，因為重來的代價太大了。\n\n區塊鏈面對的是同樣的困境。去中心化帶來的優勢，很多時候是 incremental 的優化，不是 fundamental 的改變。稍微好一點，但沒有好到讓人願意把整套基礎設施翻掉重來。\n\n反觀 AI 為什麼被採用得這麼快？因為它是生產力曲線的根本性位移。不是效率提升 20%，是一個人能幹五個人的活。這種量級的改變，不需要你推，大家搶著用。\n\n區塊鏈行業已經發展很久了。我覺得不需要再自己騙自己了。\n\n我之前寫過，很多人覺得 Crypto 賭場化讓人失望，但我反而覺得這沒什麼不好。黃賭毒是人類最底層的需求，幾千年來從未改變。弱監管、高波動、非對稱報酬，這就是 Crypto 最擅長的事情。\n\n賭場不會關門，賭客永遠會來。\n\n與其硬去蹭 AI、蹭 RWA、蹭任何看起來很正當的敘事，不如把自己擅長的事情做好。\n\n不要拿著錘子，看什麼都像釘子。有時候，那釘子可能根本不存在。",
-      "publishedAt": "2026-02-16T02:58:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2023230474429296920",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2023228505648226730",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "唉，A 社什麼都好，就是腦子不太好使。\n\n龍蝦的創辦人跑去 OpenAI 了，之後肯定會有更多跟 OpenAI 融合的東西吧。\n\n當初強迫改名就是意氣之爭，一個開源專案是能造成什麼大的傷害？人家是在致敬，又不是真的想搶你生意，大部分的人還因為 OpenClaw，反而用了更多 Claude 的服務。\n\n包括之前特別用廣告去諷刺 OpenAI 的這件事情，老實說也挺幼稚的，A 社的產品我是很喜歡的，但是如果沒有比較成熟的經理人可以去管管他們的行為，真的是挺危險的。",
-      "contentHtml": "唉，A 社什麼都好，就是腦子不太好使。\n\n龍蝦的創辦人跑去 OpenAI 了，之後肯定會有更多跟 OpenAI 融合的東西吧。\n\n當初強迫改名就是意氣之爭，一個開源專案是能造成什麼大的傷害？人家是在致敬，又不是真的想搶你生意，大部分的人還因為 OpenClaw，反而用了更多 Claude 的服務。\n\n包括之前特別用廣告去諷刺 OpenAI 的這件事情，老實說也挺幼稚的，A 社的產品我是很喜歡的，但是如果沒有比較成熟的經理人可以去管管他們的行為，真的是挺危險的。",
-      "publishedAt": "2026-02-16T02:50:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2023228505648226730",
       "stats": {
         "replies": 0,
         "retweets": 0,
