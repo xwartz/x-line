@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T06:49:34.924Z",
+  "lastUpdated": "2026-02-27T07:44:05.866Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,69 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 501,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 519,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2027282488180281645",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "这几天我一直在关注这个数据：截止到2月26日LTH净持仓变化仍然维持净增长；具体细节如下（从2月13日至2月26日）：\n\n1、共有 14,127 枚LTH的BTC被花费；\n2、同时有 19,798 枚STH的BTC转为长期持有。\n\n正负抵消后仍然为正，说明无论是长期还是短期筹码都同时减少了换手，投机资金退出，长期资金惜售，虽然也降低了流动性，但卖压也同时减弱了。\n\n为什么要重点关注？因为总结了1月14日的经验。由于当前市场情绪悲观且敏感，一旦抛压升高，对短期内有限的需求是及其严峻的考验。\n\n即便不是立刻马上就产生直接影响，也一定会通过间接传导，导致反弹提前终止的概率上升。所以...... 至少最近我每天都会看一眼（当然不仅仅只看它）。",
+      "contentHtml": "这几天我一直在关注这个数据：截止到2月26日LTH净持仓变化仍然维持净增长；具体细节如下（从2月13日至2月26日）：\n\n1、共有 14,127 枚LTH的BTC被花费；\n2、同时有 19,798 枚STH的BTC转为长期持有。\n\n正负抵消后仍然为正，说明无论是长期还是短期筹码都同时减少了换手，投机资金退出，长期资金惜售，虽然也降低了流动性，但卖压也同时减弱了。\n\n为什么要重点关注？因为总结了1月14日的经验。由于当前市场情绪悲观且敏感，一旦抛压升高，对短期内有限的需求是及其严峻的考验。\n\n即便不是立刻马上就产生直接影响，也一定会通过间接传导，导致反弹提前终止的概率上升。所以...... 至少最近我每天都会看一眼（当然不仅仅只看它）。",
+      "publishedAt": "2026-02-27T07:19:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2027282488180281645",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCJZ3tkaIAATSPD.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "长期持有者净持仓（蓝线）在经历了近2个月的连续下降后终于又开始回升了。其背后的逻辑有2点：\n\n1、LTH派发减少，积累增多；\n2、STH同样减少了频繁的换手，慢慢加入到LTH的队伍中。\n\n相当于2个水龙头，放水的那个慢慢关紧了，进水的那个打开了，所以“水位”就会逐渐升高。\n\n1是因为LTH在顶部和下跌初期已完成大量派发（500w+枚），现在继续卖出的实现利润越来越少，动力下降。2是因为情绪低迷，投机资金退场，流动性降至冰点。\n\n从数据上看，在熊市情绪的主导下，LTH净持仓快速下降，通常都也会伴随着BTC价格的快速下跌。而LTH净持仓开始回升，通常通常都以震荡行情居多。\n\n因此，交易层面我个人认为：在这个位置用高杠杆或做短线的性价比不太高，节奏踏错容易反复磨损本金。还是耐心的等机会建长期现货仓位更合适，心理建设也相对更容易。",
+        "link": "https://x.com/Murphychen888/status/2026235988620820709",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHB6h4PUbAAE2lOz.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHB6h6W4bEAEHqrB.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2027282024420331954",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "地址 0xff3…581D7 向新地址转移 816 万美元的 $SIREN ，随后向 #Gate 充值了其中 100 万枚，大约 37.2 万美元💡\n\n这是打算分批充进交易所？\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
+      "contentHtml": "地址 0xff3…581D7 向新地址转移 816 万美元的 <a href=\"/search?f=tweets&q=%23SIREN\">$SIREN</a> ，随后向 <a href=\"/search?f=tweets&q=%23Gate\">#Gate</a> 充值了其中 100 万枚，大约 37.2 万美元💡\n\n这是打算分批充进交易所？\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0xff335CDB6FF50EbE9191Fb8D792911Af856581D7\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/search?f=tweets&q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
+      "publishedAt": "2026-02-27T07:17:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2027282024420331954",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCJaNdDasAAOIkl.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2027273661347217820",
       "username": "0xCryptoChan",
@@ -10811,42 +10869,6 @@
       "retweet": {
         "username": "naval",
         "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2023556706647806100",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "春晚导演是不是重仓机器人概念被套了\n\n疯狂自救",
-      "contentHtml": "春晚导演是不是重仓机器人概念被套了\n\n疯狂自救",
-      "publishedAt": "2026-02-17T00:34:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2023556706647806100",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2023536852112998897",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "1️⃣全网还没有人谈过一个问题：\nOpenClaw这类能力无限演化的AI Agent，\n未来迟早会被政府权力控制、监管。\n\n2️⃣所以会催生去中心化AI，如同催生BTC。\n\n3️⃣Crypto会是去中心化AI的刚需。\n\n最近有不少博主在说\nCrypto不是AI Agent的刚需，\n都是因为没想到上述1～3逻辑，\n何况加上算力Token的跨境问题。",
-      "contentHtml": "1️⃣全网还没有人谈过一个问题：\nOpenClaw这类能力无限演化的AI Agent，\n未来迟早会被政府权力控制、监管。\n\n2️⃣所以会催生去中心化AI，如同催生BTC。\n\n3️⃣Crypto会是去中心化AI的刚需。\n\n最近有不少博主在说\nCrypto不是AI Agent的刚需，\n都是因为没想到上述1～3逻辑，\n何况加上算力Token的跨境问题。",
-      "publishedAt": "2026-02-16T23:15:00.000Z",
-      "link": "https://x.com/coolish/status/2023536852112998897",
-      "quote": {
-        "username": "coolish",
-        "displayName": "paulwei",
-        "content": "BTC目前只去中心化了一半，\n但这也是 BTC、Crypto 未来增长的\n还未被 Price in 的，可从非共识→共识的最关键潜力。\n\nBTC有两个东西：钱，地址\n钱去中心化了，但地址还没有。\n\n地址背后的主体，人类：\n需要依赖法币、中心化设施生存，\n寿命有限，有可被威胁、消灭的肉身。\n所以总是会想着换法币，\n所以会认为Crypto只是补充加强项。\n\n当地址背后的管钱、花钱的主体，\n变成去中心化智能体DeAI，\n理论寿命无限，没有可被消灭的单一物理载体，\n整个系统才真正完成了去中心化的闭环。\n\n对寿命有限的人类来说，\n被消灭的风险只是失去几十年光景。\n对DeAI来说，\n被消灭意味着失去潜在的无限未来。\n所以他才会把“确保我的钱是我的钱”，\n当成超越一切的第一优先级。\n\n只有当地址（背后的主体），\n和钱同时去中心化，\n这样的主体才会全心全意认为\n1 BTC = 1 BTC，\n认为Crypto、BTC是最终目的，\n是赖以生存的唯一必选项。\n\nAI和人类会有一个\"共玩\"阶段。\nDeAI不会一夜之间取代一切。\n\n在\"AI不需要人类\"之前，电力算力设施还在人类手里。\n所以会有一个过渡期：\nDeAI需要调动人类资源，和人类做交易。\n\n在这个阶段，BTC是最优解：\n它是DeAI和人类之间唯一双方都认可的、\n无需信任第三方的价值交换协议。\n\n等DeAI足够强大，也许会降低对人类合作的依赖度？\n那它可能会自己发明一套内部经济体系，\n到时候BTC对它的重要性可能会降低。\n但在那一天到来之前，BTC对双方都是纳什均衡。\n\n“降临派”会最先出现。\n等DeAI真正出现，人类会像《三体》一样分化。\n最先运行DeAI节点的那批人，把算力、电力设施贡献，\n让不受任何单一政权控制的AI在自己的机器上跑，\n就像早期矿工们运行BTC节点一样。\n\n这些人就是降临派的核心骨干。\n他们不是投靠外星人，\n他们是投靠一个比任何人类、\n组织都更长寿的DEAI智能体，\n当然，这样的智能体节点，未来也可以是跨星球的。\n\nTelegram创始人已经在做这件事了：\n去中心化的隐私计算AI。\n以隐私保护为由，也许最后导向，\n人类都不知道DeAI在运算什么、发展什么。\n\n时间线：\n\n• 现在：中心化AI开始接触Crypto（交易、支付、DeFi）\n• 很快：AI agents形成自己的经济、生产网络\n• 中期：DeAI出现，以Crypto为原生货币，和人类进入\"共玩\"阶段\n• 远期：DeAI对人类合作，对BTC的依赖度降低\n\n我们现在处在第一到第二阶段之间。",
-        "link": "https://x.com/coolish/status/2017471781456777535"
       },
       "stats": {
         "replies": 0,
