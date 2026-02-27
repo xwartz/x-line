@@ -25,7 +25,7 @@ jobs:
         uses: actions/github-script@v8
         # 允许依赖更新标签或指定机器人账号触发自动合并
         env:
-          AUTO_MERGE_ALLOWED_AUTHORS: github-actions[bot],dependabot[bot]
+          AUTO_MERGE_ALLOWED_AUTHORS: github-actions[bot],dependabot[bot],renovate[bot]
         with:
           script: |
             // Only handle the first PR attached to this workflow_run event to keep the flow single-PR.
