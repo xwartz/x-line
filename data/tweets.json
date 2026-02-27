@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T16:46:20.399Z",
+  "lastUpdated": "2026-02-27T17:22:58.092Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,59 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 498,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 517,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2027425592040419591",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "看到这种行为真的挺下头的\n我不管是嘲讽龙虾之父还是抖机灵\n真的不理解身居高位为什么还时不时在公开场合抖机灵\n咱就说你的地位也是crypto给的 吃大哥喝大哥吃完大哥骂大哥\n这种追涨杀跌的行为和话术和华子坐一桌\n投资界从夯到拉排名：\n夯 不在你巅峰时慕名而来，亦不在你低谷时转身离去 高位止盈低位买入 高抛低吸\n人上人 一直做多\nNPC 一直做空\n拉完了 高吸低抛 追涨杀跌 小红书姐妹PRO MAX2TB",
+      "contentHtml": "看到这种行为真的挺下头的\n我不管是嘲讽龙虾之父还是抖机灵\n真的不理解身居高位为什么还时不时在公开场合抖机灵\n咱就说你的地位也是crypto给的 吃大哥喝大哥吃完大哥骂大哥\n这种追涨杀跌的行为和话术和华子坐一桌\n投资界从夯到拉排名：\n夯 不在你巅峰时慕名而来，亦不在你低谷时转身离去 高位止盈低位买入 高抛低吸\n人上人 一直做多\nNPC 一直做空\n拉完了 高吸低抛 追涨杀跌 小红书姐妹PRO MAX2TB",
+      "publishedAt": "2026-02-27T16:48:00.000Z",
+      "link": "https://x.com/hazenlee/status/2027425592040419591",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCLc1BYacAEgxS1.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2027425242864599171",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Future of investing is 3 ppl shop managing billions $ with a rack of mac studios & NVDA DGX spark\n\nThe setup we used: Master agent locally hosted with local model (Mistral L2), and bunch of daemons in local dockers talk with cloud LLMs with dedicated skill bundles. Master do task decomposition, orchestration, delegation, synthesize, and final rec\n\nSome (non exhaustive) opsec tips: before delegating always run sanitization at the master, its local LLM parses daemons' output through a defined schema to avoid prompt injection. make sure network Isolation among daemons, and only snd credential/api keys as vars at containter start, no agentic logins will blend with ur own logins. other typical devops hygiene works as the master is your main devop .. the list goes on",
+      "contentHtml": "Future of investing is 3 ppl shop managing billions $ with a rack of mac studios & NVDA DGX spark\n\nThe setup we used: Master agent locally hosted with local model (Mistral L2), and bunch of daemons in local dockers talk with cloud LLMs with dedicated skill bundles. Master do task decomposition, orchestration, delegation, synthesize, and final rec\n\nSome (non exhaustive) opsec tips: before delegating always run sanitization at the master, its local LLM parses daemons' output through a defined schema to avoid prompt injection. make sure network Isolation among daemons, and only snd credential/api keys as vars at containter start, no agentic logins will blend with ur own logins. other typical devops hygiene works as the master is your main devop .. the list goes on",
+      "publishedAt": "2026-02-27T16:47:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2027425242864599171",
+      "quote": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+        "content": "Spent 2 weeks built a team of investment analyst agents using @openclaw, iterated dedicated skills bundles for each one. after they have been talking with each for a week on diff venture side requests, now i just trop the deck url into the group chat and they run pitch meeting prep better than anyone, surfacing all critical signals and suggest how to prob\n\n Cross-pollination of skills is also insane, @allenday  built a \"macro event simulator\" for fun and now our investment agents learned it to run solid investment simulation. all cost $200/month\n\nSince the Industrial Revolution, “high economic growth = high employment” was somehow the default mental model for new workforce. Only the big crash/depression/stagnation could kill jobs. That assumption is breaking very fast. I honestly dont see any needs to hire analyst level job at all, unless they might have prop insight/taste/contrarian view or access. \n\nOver the next few decade as we may be entering an era of ultra-high growth, ultra-high unemployment, unless “work” itself, and the structure of talent supply, can adapt fast\n\nThe future is here, just not evenly distributed",
+        "link": "https://x.com/DoveyWan/status/2027010939267211580",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCFjs1zb0AAXN-8.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2027401965576257841",
       "username": "BensonTWN",
@@ -10878,36 +10926,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHBXzhJzaUAAV5sf.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2023790878691893733",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "is the same anxiety in every bear. think we are more or less immune to it now. bear is the best friend if you’re building with integrity, this is exactly the moment you earn your future unfair advantage",
-      "contentHtml": "is the same anxiety in every bear. think we are more or less immune to it now. bear is the best friend if you’re building with integrity, this is exactly the moment you earn your future unfair advantage",
-      "publishedAt": "2026-02-17T16:05:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2023790878691893733",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2023790771623915755",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "打算把国内信用卡大部分都注销了。\n\n之前没注销，有一种留着额度万一哪天急用钱的念头。还是穷怕了，慢慢治疗穷病留下的病根😂",
-      "contentHtml": "打算把国内信用卡大部分都注销了。\n\n之前没注销，有一种留着额度万一哪天急用钱的念头。还是穷怕了，慢慢治疗穷病留下的病根😂",
-      "publishedAt": "2026-02-17T16:04:00.000Z",
-      "link": "https://x.com/taresky/status/2023790771623915755",
       "stats": {
         "replies": 0,
         "retweets": 0,
