@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T09:07:15.117Z",
+  "lastUpdated": "2026-02-27T10:00:00.179Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 502,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 518,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2027319739299877258",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "不许再跌了😭😭😭😭\nV啊！草",
+      "contentHtml": "不许再跌了😭😭😭😭\nV啊！草",
+      "publishedAt": "2026-02-27T09:47:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2027319739299877258",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCJ8jbxaAAEWvC3.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "多\n套\n救\n！！！！！！！",
+        "link": "https://x.com/Bitfatty/status/2027289688038588890",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCJhOMJaAAAjyNZ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2027308464536768855",
       "username": "Bitfatty",
@@ -10856,27 +10889,6 @@
         "displayName": "Your Quant Guy",
         "content": "这是一个外行很常见的理解错位。\n\n经常能看到类似说法：“我自己收益都比他高” “买 SPY 都比桥水强” “跑输标普有什么好吹的”。\n\n我大学时其实也这么想，觉得投资就是看收益率，最多再加个sharpe之类的看risk/reward。但工作后对行业有了更多理解才明白，这种比较本身就放错了坐标系。\n\n比如典型的桥水 All Weather 这种基金，本质上做的是资产配置，从一开始就不是拿来和 SPY 比收益的。它的目标是：\n - 降低组合波动\n - 在危机时不大亏甚至赚钱\n - 提供与股票低相关甚至不相关的收益来源\n\n服务对象也不是散户，而是养老金、主权基金、保险资金这类“不能爆仓”的钱。\n\n如果只看最近几年美股大牛市，那当然是直接买 SPY 收益最高。但问题是：资产配置不是只为牛市存在的。\n\n2008 年金融危机就是最典型的例子：\n标普：-37%\nAll Weather：正收益（约 +5%）\n\n如果一定要比较，至少也应该拿桥水做主动收益的 Pure Alpha 宏观基金来比：\n2008 年：+9% 收益 (标普 -37%)\n2025 年：+33% 收益 (标普 +16.4%)\n\n这类基金本来就是在：\n“宏观波动、利率周期切换、政治与经济不确定性上升”\n\n时发挥作用，而不是在单边牛市里拼谁涨得多。",
         "link": "https://x.com/yourQuantGuy/status/2023552847011311723"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2023618623697571965",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "看了看评论区，大部分都说1万u，周期就到2027年过年。\n\ngenius的利润我就不算在里面了。不然直接变成几万u了，bitways的可以算在里面。毕竟算是2026年的理财活动。\n\n等bitways结算算一下数额，接下来就看交易所活动还是链上奖励多了，每一个活动和操作写明时间周期和最后的利润。会公开地址",
-      "contentHtml": "看了看评论区，大部分都说1万u，周期就到2027年过年。\n\ngenius的利润我就不算在里面了。不然直接变成几万u了，bitways的可以算在里面。毕竟算是2026年的理财活动。\n\n等bitways结算算一下数额，接下来就看交易所活动还是链上奖励多了，每一个活动和操作写明时间周期和最后的利润。会公开地址",
-      "publishedAt": "2026-02-17T04:40:00.000Z",
-      "link": "https://x.com/0xleng1/status/2023618623697571965",
-      "quote": {
-        "username": "0xleng1",
-        "displayName": "Leng",
-        "content": "过完年打算弄个实盘，看看一个普通人如果走稳健路径，在不碰二级，合约，meme币的情况下能赚多少钱，本金1万u？5万u？十万u？大概率就是弄弄撸毛打新理财之类的情况下。",
-        "link": "https://x.com/0xleng1/status/2023408371597271364"
       },
       "stats": {
         "replies": 0,
