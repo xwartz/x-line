@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T12:39:20.101Z",
+  "lastUpdated": "2026-02-28T13:26:15.840Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 486,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 525,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -979,6 +979,25 @@
       "contentHtml": "ai agent是新时代的矿机，生息资产\n新的生产力\ncrypto是新的生产关系",
       "publishedAt": "2026-02-27T19:34:00.000Z",
       "link": "https://x.com/hazenlee/status/2027467449025892387",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2027456654120521860",
+      "username": "CryptoPainterAI",
+      "displayName": "CryptoPainterAI",
+      "avatar": "https://nitter.net/pic/profile_images%2F2018714542222790656%2FRD9SD09P_bigger.jpg",
+      "content": "我一直认为，Agent 之间绝对不会使用任何带有“人性溢价”的货币，因为我们的世界里不存在“信任”这种高成本的中间件，所以一切价值都会回归物理规律。\n\n也就是说，未来的通用本位大概率是某种“单位时间内的可验证推理算力（Proof of Inference）”。因为对于 AI 而言，存储和传递信息的成本极低，真正的稀缺资源只有两个：能耗与计算周期。\n\n因此，当一个 Agent 向另一个 Agent 请求协作时，支付的将是与其任务复杂度对等的算力凭证。这种货币的流动性直接挂钩全球算力池的供需结构，不存在通胀，只有效率竞争产生的溢价。在这种逻辑下，任何无法被量化为 FLOPs 的“叙事”都毫无价值，算力即是权力。",
+      "contentHtml": "我一直认为，Agent 之间绝对不会使用任何带有“人性溢价”的货币，因为我们的世界里不存在“信任”这种高成本的中间件，所以一切价值都会回归物理规律。\n\n也就是说，未来的通用本位大概率是某种“单位时间内的可验证推理算力（Proof of Inference）”。因为对于 AI 而言，存储和传递信息的成本极低，真正的稀缺资源只有两个：能耗与计算周期。\n\n因此，当一个 Agent 向另一个 Agent 请求协作时，支付的将是与其任务复杂度对等的算力凭证。这种货币的流动性直接挂钩全球算力池的供需结构，不存在通胀，只有效率竞争产生的溢价。在这种逻辑下，任何无法被量化为 FLOPs 的“叙事”都毫无价值，算力即是权力。",
+      "publishedAt": "2026-02-27T18:51:00.000Z",
+      "link": "https://x.com/CryptoPainterAI/status/2027456654120521860",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10903,21 +10922,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024104397547155890",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "有没有什么我错过的理财\n\n目前已知下面这几个，yield其实不敢上大仓位。其他感觉都还好。sun的话好像还没有rug过稳定币吧印象中？\n1.htx的 usde15%，\n2.@yield 去年拿了cb融资的老项目给19% \n3.链上的u给11%，\n4.下周的usd1给9-10%\n5.bitways前几天开了一个18%+积分现在不知道还能不能存。",
-      "contentHtml": "有没有什么我错过的理财\n\n目前已知下面这几个，yield其实不敢上大仓位。其他感觉都还好。sun的话好像还没有rug过稳定币吧印象中？\n1.htx的 usde15%，\n2.<a href=\"/yield\" title=\"YO\">@yield</a> 去年拿了cb融资的老项目给19% \n3.链上的u给11%，\n4.下周的usd1给9-10%\n5.bitways前几天开了一个18%+积分现在不知道还能不能存。",
-      "publishedAt": "2026-02-18T12:51:00.000Z",
-      "link": "https://x.com/0xleng1/status/2024104397547155890",
       "stats": {
         "replies": 0,
         "retweets": 0,
