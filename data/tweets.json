@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T07:55:25.485Z",
+  "lastUpdated": "2026-02-28T08:25:46.191Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 485,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2027655207510008089",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "无所事事版小龙虾（#openclaw） 生成并完成发送",
+      "contentHtml": "无所事事版小龙虾（<a href=\"/search?f=tweets&q=%23openclaw\">#openclaw</a>） 生成并完成发送",
+      "publishedAt": "2026-02-28T08:00:00.000Z",
+      "link": "https://x.com/follow_clues/status/2027655207510008089",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCOthDYbEAM0I8J.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2027653300318024103",
       "username": "hazenlee",
@@ -10885,39 +10906,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHBbdp9wa0AA15Ll.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024045466967773403",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "$xau 黄金真硬啊",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23xau\">$xau</a> 黄金真硬啊",
-      "publishedAt": "2026-02-18T08:56:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2024045466967773403",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBbanwKaoAANCW3.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "财富密码  $xau",
-        "link": "https://x.com/Bitfatty/status/2023777756342087700",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHBXnI-naMAAFryw.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
