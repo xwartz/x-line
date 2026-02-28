@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T10:48:04.400Z",
+  "lastUpdated": "2026-02-28T11:17:54.074Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -94,6 +94,69 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2027704040566476973",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "Hearing an explosion is the new flex on twitter",
+      "contentHtml": "Hearing an explosion is the new flex on twitter",
+      "publishedAt": "2026-02-28T11:14:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2027704040566476973",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2027701421324550350",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "英文推里说了我们的agentic cluster是怎么搭的, 不逐条翻译了. 摸到未来的人已经活在未来里了.",
+      "contentHtml": "英文推里说了我们的agentic cluster是怎么搭的, 不逐条翻译了. 摸到未来的人已经活在未来里了.",
+      "publishedAt": "2026-02-28T11:04:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2027701421324550350",
+      "quote": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+        "content": "Future of investing is 3 ppl shop managing billions $ with a rack of mac studios & NVDA DGX spark\n\nThe setup we used: Master agent locally hosted with local model (Mistral L2), and bunch of daemons in local dockers talk with cloud LLMs with dedicated skill bundles. Master do task decomposition, orchestration, delegation, synthesize, and final rec\n\nSome (non exhaustive) opsec tips: before delegating always run sanitization at the master, its local LLM parses daemons' output through a defined schema to avoid prompt injection. make sure network Isolation among daemons, and only snd credential/api keys as vars at containter start, no agentic logins will blend with ur own logins. other typical devops hygiene works as the master is your main devop .. the list goes on",
+        "link": "https://x.com/DoveyWan/status/2027425242864599171"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2027701004964126830",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "创造力, 全局观, 架构能力, 拆解问题的能力,发现不均衡的能力, 当然还有taste, 这些都是post-agentic world 最强杠杆. 只要工具access是公平的, 结果必然极度不平均 (fair access leads to ultra inequity) 原来正态左端的人最优的选择就是把自己的大脑外包给ai, 正态中段的人会大量被ai替代, 正态右端的一小撮人会成为superhuman",
+      "contentHtml": "创造力, 全局观, 架构能力, 拆解问题的能力,发现不均衡的能力, 当然还有taste, 这些都是post-agentic world 最强杠杆. 只要工具access是公平的, 结果必然极度不平均 (fair access leads to ultra inequity) 原来正态左端的人最优的选择就是把自己的大脑外包给ai, 正态中段的人会大量被ai替代, 正态右端的一小撮人会成为superhuman",
+      "publishedAt": "2026-02-28T11:02:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2027701004964126830",
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "完全同意, 英文推我一直在说差距是在 “productive/intelletucal affluent vs mindless\"差异. 所以10x 工程师会变成100x, 1x 的还是1x. 没有解决问题思维和拆解问题的人就是无脑之人, 无脑之人有了全世界最强的电脑还是无脑之人.",
+        "link": "https://x.com/DoveyWanCN/status/2012486641764671869",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG-3JLEcXsAAj-nm.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2027697135526023439",
       "username": "ai_9684xtpa",
@@ -10849,69 +10912,6 @@
       "contentHtml": "Update：Anthropic Claude Code 團隊的 <a href=\"/trq212\" title=\"Thariq\">@trq212</a> 出來澄清了，這只是文件整理時的措辭問題，不是政策變動。Agent SDK + MAX 的用法完全沒變。\n\n他還補了一句更關鍵的：「We want to encourage local development and experimentation with the Agent SDK and claude -p. If you're building a business on top of the Agent SDK, you should use an API key instead.」\n\n結論跟文章分析的一樣：Anthropic 在意的是 gateway 模式，不是個人自動化。只是這次文件寫得太差，嚇到一堆人。",
       "publishedAt": "2026-02-19T01:42:00.000Z",
       "link": "https://x.com/BensonTWN/status/2024298424850632942",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024295387499286979",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "【四年周期系列更新📊】当前图中指标跌至 1.39\n\n14年该指标跌至 1.39 后 70天 到熊底 ($0.15k)\n18年该指标跌至 1.39 后 70天 到熊底 ($3.1k)\n22年该指标跌至 1.39 后 17天 到次熊底 ($17.6k)",
-      "contentHtml": "【四年周期系列更新📊】当前图中指标跌至 1.39\n\n14年该指标跌至 1.39 后 70天 到熊底 ($0.15k)\n18年该指标跌至 1.39 后 70天 到熊底 ($3.1k)\n22年该指标跌至 1.39 后 17天 到次熊底 ($17.6k)",
-      "publishedAt": "2026-02-19T01:30:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2024295387499286979",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBe9mXebUAAgraN.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【四年周期总刻系列（18）】当前图中指标跌至 1.42\n\n14年该指标跌至 1.42 后 76天 到熊底 ($0.15k)\n18年该指标跌至 1.42 后 82天 到熊底 ($3.1k)\n22年该指标跌至 1.42 后 26天 到次熊底 ($17.6k)\n\n图中上方灰线为 #BTC 价格；黄线为 BTC 短期持有者成本均价；玫红线为 BTC 长期持有者成本均价（剔除持币>10年的筹码）\n图中下方指标为“BTC 短期持有者成本均价”跟“BTC 长期持有者成本均价（剔除>10y筹码版）”之比（即：黄线 / 玫红线）\n\nBTC短期持有者成本均价定义：持有比特币<155天的投资者的平均成本。含义：反映近期买家的成本基础，他们对价格波动敏感，易在下跌时卖出。常作为短期市场情绪指标——牛市中价格高于此均价，熊市中跌破可能加剧抛售\n\nBTC长期持有者成本均价定义：持有比特币>155天的投资者的平均成本，但排除>10年的筹码（这些可能丢失或永不动，如中本聪的币）。含义：聚焦“活跃”长期持有者，提供更现实的成本基础。常作为市场支撑水平参考——熊市中可能成为价格底部\n\n两者比率（短期均价 / 长期均价）含义：反映市场周期阶段和参与者行为：\n比率 >1：短期买家成本高（新资金高价入场），情绪乐观但可能过热\n比率 <1：熊市或底部信号，短期买家成本低（低价入场），弱手出清，市场或将复苏\n总体趋势：比率上升=牛市延续；下降=熊市或分发阶段。排除>10年筹码使比率更准确捕捉周期转折，历史上 <1 时常为长期买入机会",
-        "link": "https://x.com/0xCryptoChan/status/2019983275994071392",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAhoELya8AAhXbP.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024295196977221792",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "Anthropic 新的 OAuth 政策，讓開發社群炸鍋了。\n\nAnthropic 最近更新了使用政策，白紙黑字寫明：OAuth token 只能用在 Claude Code 跟 Claude AI，其他任何 product、tool、service，包括 Anthropic 自己的 Agent SDK，都不行。\n\n大部分人在吵「到底能不能用 Max 訂閱版做 CLI 自動化」。\n\n但這裡面有兩個層次。\n\n如果是第三方工具偽裝官方 client 來蹭 Max 額度，這個確實違規，沒什麼好爭的。\n\n真正引起爭議的是那份 policy 的邊界：我用 Claude Code 本身的 CLI 模式跑自動化，算不算違規使用？\n\n要搞清楚這條線在哪，得先看 Max Plan 的商業邏輯。\n\n簡單講就像 buffet 吃到飽。你買了一張票進場，想吃多少吃多少，一個人的食量有限，餐廳不會虧。但你不能買一張票帶十個人進場吃，那餐廳就倒了。\n\nMax Plan 的邏輯一模一樣。它賣的不是無限 token，而是「有上限的算力時間」。每五小時有 hard limit，併發 session 有上限，超過就排隊。只要在這個天花板底下，Anthropic 都是賺錢的。\n\n這跟 API 完全不同。API 是按需計費，打多少 request 付多少錢，適合高併發場景：幾百個 agent 同時跑，每秒幾十個 request，單純按量收錢。\n\n所以 Anthropic 真正擔心的場景是什麼？是有人拿 $200/月的 Max，架一個 API gateway 開給整個團隊甚至整個產品用，把本來應該走 API 計費的高併發用量，塞進一個人的 subscription 裡。\n\n等於買一張 buffet 票帶十個人進場，這樣他們確實會虧。\n\nPolicy 裡也直接寫了：不允許第三方開發者提供 Claude AI 登入，也不允許代替用戶轉接 Max 的 credential。這條很明確，就是在封 gateway 模式。\n\n但問題出在另一個地方。Anthropic 自己的 Claude Code 就內建 -p flag（print mode），設計上就是讓開發者用腳本呼叫、做自動化。結果 policy 又說 OAuth 只能用在 Claude Code 跟 Claude AI。那用 Claude Code 的 CLI 模式寫腳本串起來跑，到底算「用 Claude Code」還是算「其他 tool」？\n\n舉個例子，如果有人寫了一個 shell script，裡面呼叫 `claude -p` 來自動 review 程式碼。OAuth 認證發生在 Claude Code 裡面，script 完全沒碰到 token，它只是呼叫了一個 CLI 指令，跟你打 `git commit` 沒有任何區別。\n\n這算把 OAuth 用在 Claude Code，還是用在其他 Tool？如果連一個 shell script 呼叫 Claude Code CLI 都算違規，那 -p flag 存在的意義到底是什麼？\n\n社群裡有人從 Anthropic Discord 拿到官方人員的說法是「個人或工作用的 tools 都可以」，那跟書面政策的措辭又對不上。\n\n所以回到最初的問題：個人用 Max 透過 Claude Code CLI 做自動化到底能不能用？\n\n從商業邏輯看，只要你是個人使用，用量在 hard limit 底下，session 併發沒有爆炸，Anthropic 沒有理由封你，因為他們不虧。他們虧的是 gateway 模式。\n\n但目前書面 policy 跟實際產品設計之間有明顯的落差。Anthropic 遲早得把這條線畫清楚，不然開發者只能自己猜紅線在哪。",
-      "contentHtml": "Anthropic 新的 OAuth 政策，讓開發社群炸鍋了。\n\nAnthropic 最近更新了使用政策，白紙黑字寫明：OAuth token 只能用在 Claude Code 跟 Claude AI，其他任何 product、tool、service，包括 Anthropic 自己的 Agent SDK，都不行。\n\n大部分人在吵「到底能不能用 Max 訂閱版做 CLI 自動化」。\n\n但這裡面有兩個層次。\n\n如果是第三方工具偽裝官方 client 來蹭 Max 額度，這個確實違規，沒什麼好爭的。\n\n真正引起爭議的是那份 policy 的邊界：我用 Claude Code 本身的 CLI 模式跑自動化，算不算違規使用？\n\n要搞清楚這條線在哪，得先看 Max Plan 的商業邏輯。\n\n簡單講就像 buffet 吃到飽。你買了一張票進場，想吃多少吃多少，一個人的食量有限，餐廳不會虧。但你不能買一張票帶十個人進場吃，那餐廳就倒了。\n\nMax Plan 的邏輯一模一樣。它賣的不是無限 token，而是「有上限的算力時間」。每五小時有 hard limit，併發 session 有上限，超過就排隊。只要在這個天花板底下，Anthropic 都是賺錢的。\n\n這跟 API 完全不同。API 是按需計費，打多少 request 付多少錢，適合高併發場景：幾百個 agent 同時跑，每秒幾十個 request，單純按量收錢。\n\n所以 Anthropic 真正擔心的場景是什麼？是有人拿 $200/月的 Max，架一個 API gateway 開給整個團隊甚至整個產品用，把本來應該走 API 計費的高併發用量，塞進一個人的 subscription 裡。\n\n等於買一張 buffet 票帶十個人進場，這樣他們確實會虧。\n\nPolicy 裡也直接寫了：不允許第三方開發者提供 Claude AI 登入，也不允許代替用戶轉接 Max 的 credential。這條很明確，就是在封 gateway 模式。\n\n但問題出在另一個地方。Anthropic 自己的 Claude Code 就內建 -p flag（print mode），設計上就是讓開發者用腳本呼叫、做自動化。結果 policy 又說 OAuth 只能用在 Claude Code 跟 Claude AI。那用 Claude Code 的 CLI 模式寫腳本串起來跑，到底算「用 Claude Code」還是算「其他 tool」？\n\n舉個例子，如果有人寫了一個 shell script，裡面呼叫 `claude -p` 來自動 review 程式碼。OAuth 認證發生在 Claude Code 裡面，script 完全沒碰到 token，它只是呼叫了一個 CLI 指令，跟你打 `git commit` 沒有任何區別。\n\n這算把 OAuth 用在 Claude Code，還是用在其他 Tool？如果連一個 shell script 呼叫 Claude Code CLI 都算違規，那 -p flag 存在的意義到底是什麼？\n\n社群裡有人從 Anthropic Discord 拿到官方人員的說法是「個人或工作用的 tools 都可以」，那跟書面政策的措辭又對不上。\n\n所以回到最初的問題：個人用 Max 透過 Claude Code CLI 做自動化到底能不能用？\n\n從商業邏輯看，只要你是個人使用，用量在 hard limit 底下，session 併發沒有爆炸，Anthropic 沒有理由封你，因為他們不虧。他們虧的是 gateway 模式。\n\n但目前書面 policy 跟實際產品設計之間有明顯的落差。Anthropic 遲早得把這條線畫清楚，不然開發者只能自己猜紅線在哪。",
-      "publishedAt": "2026-02-19T01:29:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2024295196977221792",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024295339277402242",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "如果 Anthropic 真的擔心訂閱制被白嫖，很簡單。\n\n把訂閱制的 concurrent session 上限壓到「不可能商用」的程度就好了，比如最多 10 個 session。\n\n人腦再多線程也不可能開超過10個 terminal 去開發吧。技術手段比模糊的 policy 有效多了。",
-      "contentHtml": "如果 Anthropic 真的擔心訂閱制被白嫖，很簡單。\n\n把訂閱制的 concurrent session 上限壓到「不可能商用」的程度就好了，比如最多 10 個 session。\n\n人腦再多線程也不可能開超過10個 terminal 去開發吧。技術手段比模糊的 policy 有效多了。",
-      "publishedAt": "2026-02-19T01:29:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2024295339277402242",
       "stats": {
         "replies": 0,
         "retweets": 0,
