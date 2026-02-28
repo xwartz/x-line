@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T08:25:46.191Z",
+  "lastUpdated": "2026-02-28T08:52:31.021Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,47 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 485,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 529,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2027667057857466721",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "哈哈哈 打不打脸",
+      "contentHtml": "哈哈哈 打不打脸",
+      "publishedAt": "2026-02-28T08:47:00.000Z",
+      "link": "https://x.com/hazenlee/status/2027667057857466721",
+      "quote": {
+        "username": "realDonaldTrump",
+        "displayName": "Donald J. Trump",
+        "content": "Remember that I predicted a long time ago that President Obama will attack Iran because of his inability to negotiate properly-not skilled!",
+        "link": "https://x.com/realDonaldTrump/status/399731975432728576"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2027661407291117653",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "😂😂😂直播亏钱",
+      "contentHtml": "😂😂😂直播亏钱",
+      "publishedAt": "2026-02-28T08:25:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2027661407291117653",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2027655207510008089",
       "username": "follow_clues",
@@ -10852,60 +10888,6 @@
         "content": "一个KOL能红多久，不看他爬得有多高，而是看他能否向下兼容。\n\n所谓的“向下兼容”，不是居高临下的施舍，而是时刻记得是谁把你托举起来的。\n\n顶级KOL很少晒交易所寄来的月饼或周边。不是他们收不到，而是他们本能地拒绝这种“收编感”。在取悦金主还是取悦用户之间，他们永远选择和用户站在一起。\n\n他们从不靠晒豪车名表来证明实力，因为那是在制造焦虑。\n\n他们更愿意做的是两件事：在不公发生时替沉默者发声，在行情迷茫时提供真正能赚钱的决策建议。\n\n不脱离大众，才是最大的护城河。",
         "link": "https://x.com/mk66623/status/2024032485869551672"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024055231307559220",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "",
-      "contentHtml": "",
-      "publishedAt": "2026-02-18T09:35:00.000Z",
-      "link": "https://x.com/hazenlee/status/2024055231307559220",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBbjebda4AAdSTY.jpg"
-        }
-      ],
-      "quote": {
-        "username": "xtony1314",
-        "displayName": "逍遥XTony",
-        "content": "美国完蛋了，美股是一定会崩盘的，\n小崩是到20000，大崩看到15000。\n\n原因是 美国AI 泡沫要被中国戳破了，\n中国AI 大模型价格只有美国大模型的1/20，美国无力跟中国竞争，美国搬起石头砸了自己的脚，这次是真的砸了。\n\n比特币以横代涨，很弱，到时候会跟着美股一起崩盘，\n\n现在是要等的是，一个导火索，市场出现什么利空，要万分重视，随时梭进去，它可能就是下一次趋势性暴跌的开端。\n\n趋势性行情才能赚大钱。",
-        "link": "https://x.com/xtony1314/status/2024054909906117018",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHBbjKtKaYAAi5aT.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024049834731229270",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "Opus 4.6 最猛的地方，是他的思考過程讀起來非常像真人同事在跟你協作。\n\nLLM 內部真正在推理的時候，運作方式跟你看到的文字可能完全不同。但 Opus 4.6 會把整個思路用自然語言一步步寫出來，讓你完全跟得上。\n\n而且他很聰明，如果發現某個地方搞錯了，他還會自我反思，自己糾正做法。",
-      "contentHtml": "Opus 4.6 最猛的地方，是他的思考過程讀起來非常像真人同事在跟你協作。\n\nLLM 內部真正在推理的時候，運作方式跟你看到的文字可能完全不同。但 Opus 4.6 會把整個思路用自然語言一步步寫出來，讓你完全跟得上。\n\n而且他很聰明，如果發現某個地方搞錯了，他還會自我反思，自己糾正做法。",
-      "publishedAt": "2026-02-18T09:14:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2024049834731229270",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBbdp9wa0AA15Ll.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
