@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T23:21:21.131Z",
+  "lastUpdated": "2026-03-01T23:46:50.033Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,86 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 526,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 503,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2028254964552974766",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "早几年前没有gpt的时候, 硅谷biohack圈什么火就跟风是一把, 各种拿自己做实验lol keto/glp1 全干过.. 把自己的私人医生训练好, 发现全是错的 (训练基于大量个人数据, 从小时候第一次开始的体检报告全丢进去, 还有8年多的oura ring 数据, 还有每个月都会抽血的baseline markers, 自己的WGS, 爸妈的WGS 等等) 🤣",
+      "contentHtml": "早几年前没有gpt的时候, 硅谷biohack圈什么火就跟风是一把, 各种拿自己做实验lol keto/glp1 全干过.. 把自己的私人医生训练好, 发现全是错的 (训练基于大量个人数据, 从小时候第一次开始的体检报告全丢进去, 还有8年多的oura ring 数据, 还有每个月都会抽血的baseline markers, 自己的WGS, 爸妈的WGS 等等) 🤣",
+      "publishedAt": "2026-03-01T23:44:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2028254964552974766",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCXOC15acAEp9A-.jpg"
+        }
+      ],
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "现在的感受是, 和做PM一样, 先把不同的workflow scope好, 给不同agent有角色分工, 想象你要招不同的助理干不同的事情. 前期花一周时间慢慢搞model routing很正常.. cron checks heartbeats这些devops的工作就别大模型了, 所有agents有一个basic SOP, 不同agent根据场景再加. 然后会被反复使用的context尽量export/import, 譬如我把Health OS里的结构化文件都丢给GP agent了. 但是负责吃喝玩乐的只有我的Google Map 收藏夹的export",
+        "link": "https://x.com/DoveyWanCN/status/2025505847296905460",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHBwKKhAa8AAIGov.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2028251450082750889",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "and Beijing's response is .. mild and even sounds neutral ? \n\n\"The spokesperson stated that the Chinese side is deeply concerned about the military strikes by the United States and Israel against Iran, emphasizing that Iran's national sovereignty, security, and territorial integrity must be respected. The Chinese side calls for an immediate halt to military operations, avoiding further escalation of tensions, resuming dialogue and negotiations, and maintaining peace and stability in the Middle East region\"",
+      "contentHtml": "and Beijing's response is .. mild and even sounds neutral ? \n\n\"The spokesperson stated that the Chinese side is deeply concerned about the military strikes by the United States and Israel against Iran, emphasizing that Iran's national sovereignty, security, and territorial integrity must be respected. The Chinese side calls for an immediate halt to military operations, avoiding further escalation of tensions, resuming dialogue and negotiations, and maintaining peace and stability in the Middle East region\"",
+      "publishedAt": "2026-03-01T23:30:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2028251450082750889",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCXLvB-bQAAwV05.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2028251486967255466",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "X新加了披露功能！\n我在用抽象的方式告诉大家以后收钱了就得披露！",
+      "contentHtml": "X新加了披露功能！\n我在用抽象的方式告诉大家以后收钱了就得披露！",
+      "publishedAt": "2026-03-01T23:30:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2028251486967255466",
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "美股危险了🙂",
+        "link": "https://x.com/TJ_Research/status/2028210581111488761"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2028246210361110912",
       "username": "DoveyWan",
@@ -10759,79 +10834,6 @@
         "username": "OwenJin12",
         "displayName": "Owen.btc 🟧"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024893391189016658",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "说实话，目前看不懂后续退税的可能性以及退税方式，所以全部仓位对冲了等等发言\n\n看看怎么个事儿，内忧外患的中期选举年",
-      "contentHtml": "说实话，目前看不懂后续退税的可能性以及退税方式，所以全部仓位对冲了等等发言\n\n看看怎么个事儿，内忧外患的中期选举年",
-      "publishedAt": "2026-02-20T17:06:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2024893391189016658",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBndzNGbEAAZcpw.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024878143165829631",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://nitter.net/pic/profile_images%2F1453864539720601606%2FrEHaWNk1_bigger.jpg",
-      "content": "怎么看川普关税被裁定违法？对市场的影响有哪些？1、这项裁决限制了总统利用《1国际经济紧急状态法案》IEEPA征收大额关税的能力，但并未阻止总统依据其他贸易法征收关税。川普此前已援引其他法律对铜、钢、铝以及其他产品进口加征关税。￼简单说就是对等关税、芬太尼关税都被驳回，行业关税继续。\n\n2、最高法院的裁决本身没有直接命令大规模自动退款，而是确认关税无效，之后的关键在于已收关税是否要退还。实际退还过程将通过美国国际贸易法院（Court of International Trade, CIT）处理，印象中之前贝森特此前也表示如果关税被判无效，将发放退款。\n\n3、如果要退税，对企业来说今年的利润会很乐观、相当于美国公司今年能增加1000多亿美金的利润。同时之后关税降低，进口商压力变小、价格走低、也利好通胀。\n短期内市场会交易利润走高、通胀走低。\n\n4、但是风险在于两点：\n1）川普会怎么样反击？动用如《1974年贸易法》第122条、第232条或第301条来重新征收关税，可能导致贸易政策更碎片化、针对特定行业或国家，至少未来一点时间关税政策走向不确定性又会增加了。\n2）如果退税毫无疑问财政压力进一步放大，得继续发债、债务压力更大、赤字更高。那么长债收益率又得往上走，估值承压。\n这会让市场在未来处在一个利润走高、但是估值又承压的状态。\n\n这应该是川普第二任期内最重大的政治挫折，因为其核心经济议程都是围绕着关税展开的。\n\n​Bitget 买美股：秒级入场，丝滑交易 bitget.com/markets/stocks",
-      "contentHtml": "怎么看川普关税被裁定违法？对市场的影响有哪些？1、这项裁决限制了总统利用《1国际经济紧急状态法案》IEEPA征收大额关税的能力，但并未阻止总统依据其他贸易法征收关税。川普此前已援引其他法律对铜、钢、铝以及其他产品进口加征关税。￼简单说就是对等关税、芬太尼关税都被驳回，行业关税继续。\n\n2、最高法院的裁决本身没有直接命令大规模自动退款，而是确认关税无效，之后的关键在于已收关税是否要退还。实际退还过程将通过美国国际贸易法院（Court of International Trade, CIT）处理，印象中之前贝森特此前也表示如果关税被判无效，将发放退款。\n\n3、如果要退税，对企业来说今年的利润会很乐观、相当于美国公司今年能增加1000多亿美金的利润。同时之后关税降低，进口商压力变小、价格走低、也利好通胀。\n短期内市场会交易利润走高、通胀走低。\n\n4、但是风险在于两点：\n1）川普会怎么样反击？动用如《1974年贸易法》第122条、第232条或第301条来重新征收关税，可能导致贸易政策更碎片化、针对特定行业或国家，至少未来一点时间关税政策走向不确定性又会增加了。\n2）如果退税毫无疑问财政压力进一步放大，得继续发债、债务压力更大、赤字更高。那么长债收益率又得往上走，估值承压。\n这会让市场在未来处在一个利润走高、但是估值又承压的状态。\n\n这应该是川普第二任期内最重大的政治挫折，因为其核心经济议程都是围绕着关税展开的。\n\n​Bitget 买美股：秒级入场，丝滑交易 <a href=\"http://bitget.com/markets/stocks\">bitget.com/markets/stocks</a>",
-      "publishedAt": "2026-02-20T16:05:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2024878143165829631",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "美国最高法院以6比3的投票结果裁定，特朗普无权依据《国际紧急经济权力法》（IEEPA）征收关税。",
-        "link": "https://x.com/qinbafrank/status/2024867895797494066",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHBnGnRTb0AAZAms.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024865378758013206",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "一针赌狗全跪\n\n#黄金\n$xau",
-      "contentHtml": "一针赌狗全跪\n\n<a href=\"/search?f=tweets&q=%23黄金\">#黄金</a>\n<a href=\"/search?f=tweets&q=%23xau\">$xau</a>",
-      "publishedAt": "2026-02-20T15:15:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2024865378758013206",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHBnEU27bIAALQDv.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
