@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T07:10:42.389Z",
+  "lastUpdated": "2026-03-01T07:47:56.642Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,53 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
+    "newFetched": 526,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2028007409235726426",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "其实最近不是不发其他项目了，是真没啥新东西可以发了，看了一圈项目只有几个项目性价比高，撸毛现在必须要看性价比和盈亏比了。多发几个没有意义的项目也是浪费彼此的时间。",
+      "contentHtml": "其实最近不是不发其他项目了，是真没啥新东西可以发了，看了一圈项目只有几个项目性价比高，撸毛现在必须要看性价比和盈亏比了。多发几个没有意义的项目也是浪费彼此的时间。",
+      "publishedAt": "2026-03-01T07:20:00.000Z",
+      "link": "https://x.com/0xleng1/status/2028007409235726426",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2028007368995533037",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "前几天刚刚提到 Stable 涨的不错，不知道是不是因为这个利好。\n\nAI 的进化速度还是挺可怕的，Agent 已经可以接管电脑做很多事情了，未来很多应用，网页都不再需要了。\n\n换到 web3 也一样，链上支付操作不是人而是 Agent 做的，@Stable_CN 不像 eth 或者其他链，用原生的 USDT0, 规避 gas 代币波动风险。Stable 有在做 Agent 相关的基建，TG 最近也有发红包。\n\n这条不是投资建议。",
+      "contentHtml": "前几天刚刚提到 Stable 涨的不错，不知道是不是因为这个利好。\n\nAI 的进化速度还是挺可怕的，Agent 已经可以接管电脑做很多事情了，未来很多应用，网页都不再需要了。\n\n换到 web3 也一样，链上支付操作不是人而是 Agent 做的，<a href=\"/Stable_CN\" title=\"Stable华语社区\">@Stable_CN</a> 不像 eth 或者其他链，用原生的 USDT0, 规避 gas 代币波动风险。Stable 有在做 Agent 相关的基建，TG 最近也有发红包。\n\n这条不是投资建议。",
+      "publishedAt": "2026-03-01T07:20:00.000Z",
+      "link": "https://x.com/0xleng1/status/2028007368995533037",
+      "quote": {
+        "username": "Stable",
+        "displayName": "Stable",
+        "content": "In their latest memo, @Citrini7 said agents would route via stablecoins on existing chains and L2s.\n\nThe thesis holds.\n\nBut @Stable went one step further.\n\nWe built a stablecoin-native blockchain where agents operate without holding separate gas tokens.\n\nSee the difference 👇",
+        "link": "https://x.com/Stable/status/2027050512227672100",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCGHslVbUAABwzY.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2027999214672965833",
       "username": "Bitfatty",
@@ -10881,48 +10923,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHA6-6sbbsAE3DES.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024655253568639047",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "nitter.net/EleanorTerrett/status/…",
-      "contentHtml": "<a href=\"https://nitter.net/EleanorTerrett/status/2024644096569332040?s=20\">nitter.net/EleanorTerrett/status/…</a>",
-      "publishedAt": "2026-02-20T01:20:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2024655253568639047",
-      "quote": {
-        "username": "EleanorTerrett",
-        "displayName": "Eleanor Terrett",
-        "content": "🚨NEW: Per sources in the room, today’s stablecoin meeting was smaller than last week and included reps from @coinbase, @Ripple, @a16z, plus trade groups @BlockchainAssn and @crypto_council. No individual bank reps attended — bank voices were represented via trade associations @ABABankers, @bankpolicy and @ICBA. \n\nPublic statements from attendees are once again being described as “productive” and “constructive.” But what does that actually mean? \n\nSources say there was a notable difference today: the White House took the lead in driving the discussion, rather than letting crypto firms and bank trades steer the discussion, as in prior meetings.\n\nWhite House Crypto Council Executive Director @patrickjwitt brought draft text that served as the central focus of the conversation. The language acknowledged concerns banks raised in last week’s “Yield and Interest Prohibitions Principles” document, while making clear that any future restrictions on rewards would be narrow in scope. Earning yield on idle balances, a key crypto industry goal, is effectively off the table. The debate has narrowed to whether firms can offer rewards linked to certain activities.\n\nOne crypto-side attendee told me bank concerns appear to stem more from competitive pressures than from deposit flight, which had been framed as the original worry. A bank-side source told me they’re still pushing to include a deposit outflow study in the draft — one that would examine the growth of payment stablecoins and their potential impact on bank deposits.\n\nThe same source said they were encouraged by proposed anti-evasion language that would give the SEC, Treasury, and the CFTC authority to enforce a ban on paying yield on idle balances, with civil monetary penalties of $500,000 per violation, per day.\n\nSo what’s next? Bank trade groups will brief their members on today’s discussions and gauge whether there’s room to compromise on allowing crypto firms to offer stablecoin rewards. One source said an end-of-month deadline doesn’t seem unrealistic, with talks set to continue in the coming days.",
-        "link": "https://x.com/EleanorTerrett/status/2024644096569332040"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2024654230523429301",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "$COIN $CRCL 验证了一下，消息是真的，最终还是川普政府和左派之间的协商。稳定币最终可能以某种限制性的形式给YIELD补贴，而不是现在银行利益集团追求的全部禁止补贴",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23COIN\">$COIN</a> <a href=\"/search?f=tweets&q=%23CRCL\">$CRCL</a> 验证了一下，消息是真的，最终还是川普政府和左派之间的协商。稳定币最终可能以某种限制性的形式给YIELD补贴，而不是现在银行利益集团追求的全部禁止补贴",
-      "publishedAt": "2026-02-20T01:15:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2024654230523429301",
-      "quote": {
-        "username": "WatcherGuru",
-        "displayName": "Watcher.Guru",
-        "content": "JUST IN: 🇺🇸 White House pressures banks to agree to stablecoin rewards and advance the crypto market structure bill.",
-        "link": "https://x.com/WatcherGuru/status/2024629598898507850"
       },
       "stats": {
         "replies": 0,
