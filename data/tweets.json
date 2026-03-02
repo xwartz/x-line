@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T21:59:48.245Z",
+  "lastUpdated": "2026-03-02T22:33:24.253Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 531,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 486,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2028599415796125968",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "刷到油管上翁家翌（OpenAI做RL）的采访，对于一个外行人来说也听得津津有味。建议都可以去听听，有时间的话。摘取一些我认为的重点和CLAUDE做的总结\n-----------------------------------------------------------\n1. 对于基座模型大模型来说，生死线是基础设施迭代时间，人，技术，方法都不是。\n2. 可能未来会有一个无限CONTEXT的AI AGENT，来当CEO就好了。（公司大了臃肿了之后很多信息对丢失在传递上的效率）\n-----------------------------------------------------------\n1. Infra是最大瓶颈：他强调\"修bug数量决定模型质量\" \n2. idea是廉价的，关键是快速验证。\n3. 大模型瓶颈在模型本身，系统工程复杂性在于吞吐与扩展的平衡以及对GPU资源的极限压榨。 \n4. 工程 > 研究：在当今AI竞争中，工程能力和迭代速度才是核心。他不太鼓励现在的学生读AI PhD。\n5. 对DeepSeek的看法：真正引发OpenAI内部警觉的是DeepSeek的迭代速度而非榜单成绩，基础设施的吞吐效率才是模型竞争的核心指标。",
+      "contentHtml": "刷到油管上翁家翌（OpenAI做RL）的采访，对于一个外行人来说也听得津津有味。建议都可以去听听，有时间的话。摘取一些我认为的重点和CLAUDE做的总结\n-----------------------------------------------------------\n1. 对于基座模型大模型来说，生死线是基础设施迭代时间，人，技术，方法都不是。\n2. 可能未来会有一个无限CONTEXT的AI AGENT，来当CEO就好了。（公司大了臃肿了之后很多信息对丢失在传递上的效率）\n-----------------------------------------------------------\n1. Infra是最大瓶颈：他强调\"修bug数量决定模型质量\" \n2. idea是廉价的，关键是快速验证。\n3. 大模型瓶颈在模型本身，系统工程复杂性在于吞吐与扩展的平衡以及对GPU资源的极限压榨。 \n4. 工程 &gt; 研究：在当今AI竞争中，工程能力和迭代速度才是核心。他不太鼓励现在的学生读AI PhD。\n5. 对DeepSeek的看法：真正引发OpenAI内部警觉的是DeepSeek的迭代速度而非榜单成绩，基础设施的吞吐效率才是模型竞争的核心指标。",
+      "publishedAt": "2026-03-02T22:32:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2028599415796125968",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2028546548356026644",
       "username": "0xleng1",
@@ -10913,21 +10928,6 @@
       "contentHtml": "最近市场不好，币圈，美股科技股，软件股。然后你会发现一个有意思的观察，一些概念上利好的消息/新闻被媒体解读为负面的。背后有几个深层的原因：\n1. 现在媒体的目的是吸引流量，而非报道事实或者背后的含义\n2. 当情绪面低的时候思考陷入负能量漩涡\n3. 人云亦云",
       "publishedAt": "2026-02-21T20:57:00.000Z",
       "link": "https://x.com/TJ_Research/status/2025313935201558820",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2025287836937957463",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
-      "content": "If you’re unwilling to defend your country in time of war, then you’re a tourist, not a citizen.",
-      "contentHtml": "If you’re unwilling to defend your country in time of war, then you’re a tourist, not a citizen.",
-      "publishedAt": "2026-02-21T19:13:00.000Z",
-      "link": "https://x.com/naval/status/2025287836937957463",
       "stats": {
         "replies": 0,
         "retweets": 0,
