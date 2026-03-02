@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T11:03:18.318Z",
+  "lastUpdated": "2026-03-02T11:46:48.036Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 528,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 506,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
     {
@@ -595,6 +595,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHCXtCtubkAALmUa.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
