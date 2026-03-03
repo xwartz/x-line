@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T20:59:35.690Z",
+  "lastUpdated": "2026-03-03T21:38:19.974Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 508,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 529,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2028944499771359254",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "CBB cartel pulling some rockets in war zone",
+      "contentHtml": "CBB cartel pulling some rockets in war zone",
+      "publishedAt": "2026-03-03T21:23:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2028944499771359254",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2028921482508943697",
       "username": "TJ_Research",
@@ -10874,27 +10889,6 @@
       "retweet": {
         "username": "daidaibtc",
         "displayName": "带带带比特"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2025890439807598784",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "我覺得這具體要看你想要達到什麼結果。\n\n如果你只是想試試看這個東西適不適合自己，只是想嚐鮮，先用 VPS 跑會比較好，現在已經有很多針對 OpenClaw 的雲端託管服務了。如果你已經很確定這個東西能帶給你的效益，在半年之內會超過一台 Mac mini 的話，我會建議你直接直攻 Mac mini。\n\n因為龍蝦大部分的設置都是針對 macOS 相關的設定，如果你是跑 Linux 或是 Windows 的話，其實會蠻痛苦的。\n\n再來就是，目前很多雲端 VPS 跑的其實都是 Headless 的環境，如果你想要用 Browser 做一些事情的話，會遇到很大的麻煩。因為有一些服務是不支援 CLI 或是 API token 登入的，一定要用 Browser 登入。",
-      "contentHtml": "我覺得這具體要看你想要達到什麼結果。\n\n如果你只是想試試看這個東西適不適合自己，只是想嚐鮮，先用 VPS 跑會比較好，現在已經有很多針對 OpenClaw 的雲端託管服務了。如果你已經很確定這個東西能帶給你的效益，在半年之內會超過一台 Mac mini 的話，我會建議你直接直攻 Mac mini。\n\n因為龍蝦大部分的設置都是針對 macOS 相關的設定，如果你是跑 Linux 或是 Windows 的話，其實會蠻痛苦的。\n\n再來就是，目前很多雲端 VPS 跑的其實都是 Headless 的環境，如果你想要用 Browser 做一些事情的話，會遇到很大的麻煩。因為有一些服務是不支援 CLI 或是 API token 登入的，一定要用 Browser 登入。",
-      "publishedAt": "2026-02-23T11:08:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2025890439807598784",
-      "quote": {
-        "username": "DavidLin01",
-        "displayName": "David Lin",
-        "content": "想詢問班森，如果要跑open claw 是不是要買一台獨立Mac mini 回比較好",
-        "link": "https://x.com/DavidLin01/status/2025888656591143386"
       },
       "stats": {
         "replies": 0,
