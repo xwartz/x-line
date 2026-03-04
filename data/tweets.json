@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-04T17:04:17.174Z",
+  "lastUpdated": "2026-03-04T17:58:26.418Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,68 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 494,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 533,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2029250741215609309",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "其实说白了就是市值和现金的区别\n马斯克8000亿刀身价是变现不出来8000亿刀的纯现金的，如果变现可以粗略用微积分计算。同样其实很多人冲meme和山寨都是看市值，但实际上几十m的市值没有足够的换手流动性承接盘你未必可以掏(变现)出来几m的现金。\n一个极限的例子就是左手倒右手的貔貅盘，如果没人接盘那就是一个海市蜃楼。所以如果你是庄家主力，不仅要操盘做市值管理，还需要讲故事刺激需求，这样当你作为卖方派发(止盈)的时候才有足够的高位承接盘，才能尽可能多的变现，这个现就是现金的现。",
+      "contentHtml": "其实说白了就是市值和现金的区别\n马斯克8000亿刀身价是变现不出来8000亿刀的纯现金的，如果变现可以粗略用微积分计算。同样其实很多人冲meme和山寨都是看市值，但实际上几十m的市值没有足够的换手流动性承接盘你未必可以掏(变现)出来几m的现金。\n一个极限的例子就是左手倒右手的貔貅盘，如果没人接盘那就是一个海市蜃楼。所以如果你是庄家主力，不仅要操盘做市值管理，还需要讲故事刺激需求，这样当你作为卖方派发(止盈)的时候才有足够的高位承接盘，才能尽可能多的变现，这个现就是现金的现。",
+      "publishedAt": "2026-03-04T17:40:00.000Z",
+      "link": "https://x.com/hazenlee/status/2029250741215609309",
+      "quote": {
+        "username": "CryptoPainter",
+        "displayName": "Crypto_Painter",
+        "content": "为什么很多人连1w都拿不出来，却会认为100w很少？\n\n这个作者讲的很好，顺带启发了我对于BTC真实价值的思考...",
+        "link": "https://x.com/CryptoPainter/status/2028975308863676456"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029249394135257203",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "想看看豆包语音识别 api 怎么接入。\n\n前后搞了 5 分钟，手机号、实名、人脸。填参数的时候，还要创建 app id。\n\n没找到入口，文档写的稀里糊涂，甚至不确定看的是不是同一个产品。\n\n搞不懂，放弃了。\n\n其他各家语音识别 api，从注册到用上，一般 1 分钟就完事了，最多不超过 3 分钟。\n\n感觉明明是超级简单，一篇小文档就能说清楚的事情... 只能理解是产品经理能力差距了。\n\n幸好... 他们都快下岗了。",
+      "contentHtml": "想看看豆包语音识别 api 怎么接入。\n\n前后搞了 5 分钟，手机号、实名、人脸。填参数的时候，还要创建 app id。\n\n没找到入口，文档写的稀里糊涂，甚至不确定看的是不是同一个产品。\n\n搞不懂，放弃了。\n\n其他各家语音识别 api，从注册到用上，一般 1 分钟就完事了，最多不超过 3 分钟。\n\n感觉明明是超级简单，一篇小文档就能说清楚的事情... 只能理解是产品经理能力差距了。\n\n幸好... 他们都快下岗了。",
+      "publishedAt": "2026-03-04T17:35:00.000Z",
+      "link": "https://x.com/taresky/status/2029249394135257203",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029244280158712282",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "做多也太舒服了✧(≖◡≖✿)吧",
+      "contentHtml": "做多也太舒服了✧(≖◡≖✿)吧",
+      "publishedAt": "2026-03-04T17:15:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2029244280158712282",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHClS6bsawAIdtzZ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2029236237564035286",
       "username": "0xSunNFT",
@@ -10971,63 +11028,6 @@
       "contentHtml": "小资金在投机市场里，其实没多少选择。\n\n要么找一波单边，重仓赌一把。赌对了，翻几倍，然后开始认真学交易；赌错了，爆仓离场，就当交学费（老天爷可能就是不赏你这口饭）\n\n要么猥琐发育，小止损慢慢磨，一笔一笔刷经验。运气好，熬出头；运气不好，熬了三五年发现还不如当初那把赌赢的。\n\n两条路都有人走出来过。站在起点看，谁也别笑谁。\n\n但最忌讳的是：选了第一条，快速亏完后悔；选了第二条，熬不住又去赌。来回横跳，两头挨打。\n\n所以，选一条，认一条。\n\n愿赌服输，才是真男人。",
       "publishedAt": "2026-02-24T06:49:00.000Z",
       "link": "https://x.com/CycleStudies/status/2026187672788902269",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026182117714215347",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "GPT-5.2 推理能力開到 high 其實還滿好用的， 可以當 Opus 4.6 的下位替代，又多了一個續費 GPT Pro 的理由了。",
-      "contentHtml": "GPT-5.2 推理能力開到 high 其實還滿好用的， 可以當 Opus 4.6 的下位替代，又多了一個續費 GPT Pro 的理由了。",
-      "publishedAt": "2026-02-24T06:27:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2026182117714215347",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026178472117469668",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "银金太猛了，还好我爆的早，不然现在亏更多(¯―¯٥)\n\n不能想当时为啥不反手多的事，想了今年没法过了",
-      "contentHtml": "银金太猛了，还好我爆的早，不然现在亏更多(¯―¯٥)\n\n不能想当时为啥不反手多的事，想了今年没法过了",
-      "publishedAt": "2026-02-24T06:12:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2026178472117469668",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHB5uk66awAAdDwn.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026175347155497414",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "向下相容這件事情，還有另外一個議題可以討論，那就是「知識的詛咒」。\n\n當初 Dropbox 剛出來的時候，很多工程師的反應是：「這不就是 rsync + scp 嗎？寫個 cron job 就搞定了。」\n\n沒錯，Dropbox 做的事情，用 Linux 指令 15 分鐘就能搭出來。  \n\n但 Drew Houston 後來靠這家公司上市了。  \n\n因為這世界上 99% 的人不知道什麼是 rsync。他們連 terminal 都沒打開過。他們只想要一件事：把檔案丟到一個資料夾，另一台電腦就有了。  \n\n 一旦你學會了一樣東西，你就很難想像「不會」是什麼感覺。你覺得理所當然的操作，對別人來說跟天書一樣。你以為「這不是常識嗎」的東西，其實只是你的常識。\n\n越專業的人，越容易犯這種錯誤。",
-      "contentHtml": "向下相容這件事情，還有另外一個議題可以討論，那就是「知識的詛咒」。\n\n當初 Dropbox 剛出來的時候，很多工程師的反應是：「這不就是 rsync + scp 嗎？寫個 cron job 就搞定了。」\n\n沒錯，Dropbox 做的事情，用 Linux 指令 15 分鐘就能搭出來。  \n\n但 Drew Houston 後來靠這家公司上市了。  \n\n因為這世界上 99% 的人不知道什麼是 rsync。他們連 terminal 都沒打開過。他們只想要一件事：把檔案丟到一個資料夾，另一台電腦就有了。  \n\n 一旦你學會了一樣東西，你就很難想像「不會」是什麼感覺。你覺得理所當然的操作，對別人來說跟天書一樣。你以為「這不是常識嗎」的東西，其實只是你的常識。\n\n越專業的人，越容易犯這種錯誤。",
-      "publishedAt": "2026-02-24T06:00:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2026175347155497414",
-      "quote": {
-        "username": "BensonTWN",
-        "displayName": "Benson Sun",
-        "content": "黃仁勳最近被問到一個問題：在 AI 時代，怎麼樣的人才算是聰明人？\n\n他的回答是，以後算數快、會寫程式這些能力，會變得像自來水一樣便宜。人類真正的核心競爭力，是同理心跟品味。\n\n品味（taste）這個詞已經被很多矽谷大佬講爛了，但講同理心重要的人很少，仔細想想，老黃這句話非常有深意，不愧是當今地球最強的華人之一。\n\n你一定遇過那種人，學歷很好，專業沒話說，但跟他聊天你永遠聽不懂他在講什麼。滿口術語，每句話都正確，但就是讓你覺得他在自嗨。\n\n然後你又遇過另一種人。他講的是一個你完全不懂的領域，但三分鐘之內你就抓到核心了。\n\n差別在哪？\n\n後者有一種能力，就是「向下兼容」。\n\n寫程式的人應該秒懂這個詞。新版本的軟體要能跑舊版本的東西，就得做向下兼容。溝通也一樣，你要把自己的認知降階，去適配對方的接收頻寬。\n\n這件事之所以難，是因為你得切換到對方的視角：這句話他聽不聽得懂？這個比喻對他來說會不會太遠？\n\n這就是黃仁勳說的同理心。\n\n能力越強的人，向下兼容的距離越大。一個頂尖物理學家要把量子力學講到你阿嬤都聽得懂，壓縮率是極端的。\n\n但壓縮一定會失真。就像把無損音檔壓成 MP3，你必須選擇犧牲哪些細節、保留哪些核心。\n\n這個選擇需要品味。你得知道什麼是骨架，什麼是裝飾。搞不清楚的人，壓完之後精髓就不見了。\n\n所以黃仁勳講的同理心跟品味，其實是同一件事的兩面。同理心讓你知道要壓到多少對方才收得到，品味讓你知道壓縮的時候該留什麼。\n\n以前這種能力沒那麼值錢，因為「知道」本身就稀缺。你會寫 code，你就比別人強。\n\n但 AI 把「知道」變便宜了。任何人都可以用 AI 寫出能跑的程式。當基礎能力被拉平，能把複雜的東西講到任何人都懂、能精準判斷什麼該留什麼該丟，這才是稀缺的。\n\n其實我前幾天寫那篇飛機跟升力的科普文，就是在試這件事。把流體力學、庫塔條件這些東西壓縮到一般人能看懂的程度，同時盡量不讓核心邏輯失真。\n\n回頭看，保真率還有很大的進步空間。但這個練習本身蠻有趣的。",
-        "link": "https://x.com/BensonTWN/status/2026162541349769644"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
