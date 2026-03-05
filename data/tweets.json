@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T07:32:08.218Z",
+  "lastUpdated": "2026-03-05T07:58:06.599Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 529,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 469,
+    "successUsers": 23,
+    "failedUsers": 4
   },
   "tweets": [
     {
@@ -6322,10 +6322,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHCO7u5Ga8AArOmC.png"
         }
       ],
-      "retweet": {
-        "username": "BensonTWN",
-        "displayName": "Benson Sun"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
