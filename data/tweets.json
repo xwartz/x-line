@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T07:58:06.599Z",
+  "lastUpdated": "2026-03-05T08:17:26.047Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 469,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 512,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2029468056108347703",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "贼，不能嘚瑟啊🥹🥹🥹",
+      "contentHtml": "贼，不能嘚瑟啊🥹🥹🥹",
+      "publishedAt": "2026-03-05T08:04:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2029468056108347703",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2029446784590987763",
       "username": "Bitfatty",
@@ -6322,6 +6337,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHCO7u5Ga8AArOmC.png"
         }
       ],
+      "retweet": {
+        "username": "BensonTWN",
+        "displayName": "Benson Sun"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11105,21 +11124,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHB7wRAEb0AAFA2B.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026320696406597781",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "另外上季度财报里，微软也宣布M365加入了CLAUDE，而非单一地依赖于OPENAI",
-      "contentHtml": "另外上季度财报里，微软也宣布M365加入了CLAUDE，而非单一地依赖于OPENAI",
-      "publishedAt": "2026-02-24T15:37:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2026320696406597781",
       "stats": {
         "replies": 0,
         "retweets": 0,
