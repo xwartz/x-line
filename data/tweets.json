@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T15:48:40.257Z",
+  "lastUpdated": "2026-03-05T16:19:49.872Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 489,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 530,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2029585873503932873",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "你们比老徐都激动",
+      "contentHtml": "你们比老徐都激动",
+      "publishedAt": "2026-03-05T15:52:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2029585873503932873",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2029581435812843870",
       "username": "hazenlee",
@@ -11139,27 +11154,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHB-l4m4XkAASve2.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026514265289666929",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "日线看，比特币 $BTC 还在趋势下跌里。\n\n但4小时级别，叠加连续超卖、底背离、通道下沿信号，反弹了一段，2月6号同样的信号组合也出现过，之后也弹了一段。\n\n所以今天的上涨，我更倾向把它看作趋势下跌过程中的一次技术性反弹，而不是趋势反转的信号。\n\n基本功扎实，可以找分时右侧机会做一把，但情况不对要立刻提桶跑路。",
-      "contentHtml": "日线看，比特币 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 还在趋势下跌里。\n\n但4小时级别，叠加连续超卖、底背离、通道下沿信号，反弹了一段，2月6号同样的信号组合也出现过，之后也弹了一段。\n\n所以今天的上涨，我更倾向把它看作趋势下跌过程中的一次技术性反弹，而不是趋势反转的信号。\n\n基本功扎实，可以找分时右侧机会做一把，但情况不对要立刻提桶跑路。",
-      "publishedAt": "2026-02-25T04:27:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2026514265289666929",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHB-eodzbYAAtmAa.jpg"
         }
       ],
       "stats": {
