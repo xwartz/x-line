@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T05:36:50.653Z",
+  "lastUpdated": "2026-03-05T06:03:54.091Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,55 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 512,
+    "newFetched": 510,
     "successUsers": 25,
     "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2029436248063189345",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "感觉自己无论赚了多少钱还是改不了喜欢在pdd捡漏的习惯，1300买的rog夜魔x键盘，2200买的256g ipad17，4700的macbookair，几乎都是比别人同时期便宜20-30%，会有一种捡漏的爽感。。。",
+      "contentHtml": "感觉自己无论赚了多少钱还是改不了喜欢在pdd捡漏的习惯，1300买的rog夜魔x键盘，2200买的256g ipad17，4700的macbookair，几乎都是比别人同时期便宜20-30%，会有一种捡漏的爽感。。。",
+      "publishedAt": "2026-03-05T05:58:00.000Z",
+      "link": "https://x.com/0xleng1/status/2029436248063189345",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCoBghxawAYg-Iy.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCoBghyawAI1_62.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCoBghxaEAAeRA9.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029432412329975966",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "给的三种情况是循序渐进的过程，不是1或者2或者3",
+      "contentHtml": "给的三种情况是循序渐进的过程，不是1或者2或者3",
+      "publishedAt": "2026-03-05T05:42:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2029432412329975966",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2029428137738813780",
       "username": "follow_clues",
@@ -11068,48 +11112,6 @@
       "contentHtml": "看了刚刚ANTHROPIC的新品发布，问了CLAUDE，“你和CRM合作，谁赚得更多？”他的回答如下，他的回答其实和 <a href=\"/search?f=tweets&q=%23CRM\">$CRM</a> 管理层的看法是一致的，底层模型是COMMODITY，可被替换。的确现在CLAUDE暂时走在了前面。\n----------------------------------------------------------\n说实话，除了真正参与谈判的人之外，没有人知道确切的分成比例，但我们可以通过分析双方的议价能力来大致推算。\n谁更有话语权？\n目前，Salesforce在这段关系中占据更强的议价地位，原因有几个：\n分销渠道 — Salesforce掌握着客户关系。他们拥有超过15万家企业客户。Anthropic无法大规模直接触达这些客户。\n可替代性 — Salesforce可以更换模型供应商。他们已经在与OpenAI合作，也试验过开源模型。Anthropic并不是唯一的选择。但对Anthropic来说，失去Salesforce这样的分销伙伴会非常痛苦。\n品牌 — 客户购买的是\"Salesforce AI\"，而不是\"Claude\"。大多数终端用户既不知道也不在乎背后是哪个模型在驱动功能。\nAnthropic的议价能力相对有限：\n模型质量确实重要 — 如果Claude在企业级任务中明显优于竞争对手，这会给Anthropic一定的定价权。\n但模型之间的差异化正在快速缩小。 Claude、GPT、Gemini在大多数企业应用场景中的能力正在趋同。\n我对经济模型的大致推算：\n基于你提出的\"1美元成本 / 2美元售价 / 1美元利润\"的框架：\n我估计利润的分配大约是 70-80%归Salesforce，20-30%归Anthropic。具体来说：\nAnthropic运行Claude的推理成本：大约$0.40-0.50\nAnthropic向Salesforce收费：大约$0.60-0.70（所以Anthropic自己留$0.10-0.30的利润）\nSalesforce向客户收费：$2.00（Salesforce留下$1.30-1.40）\nSalesforce拿走大头，因为他们掌控着分销渠道、客户关系和集成层。他们就是收费站。Anthropic更像是一种大宗商品原料 — 有价值，但可以被替换。",
       "publishedAt": "2026-02-24T15:36:00.000Z",
       "link": "https://x.com/TJ_Research/status/2026320261327319523",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026318875651191233",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "还记得24年末香橼做空mstr\n直接把btc高度封死在两位数\n这次储存到顶了吗？\n我反正是把家里闲置的128G内存都给二手咸鱼出了。\n期待一波DDR6\n这存储行业涨价去库存也是玩的6",
-      "contentHtml": "还记得24年末香橼做空mstr\n直接把btc高度封死在两位数\n这次储存到顶了吗？\n我反正是把家里闲置的128G内存都给二手咸鱼出了。\n期待一波DDR6\n这存储行业涨价去库存也是玩的6",
-      "publishedAt": "2026-02-24T15:30:00.000Z",
-      "link": "https://x.com/hazenlee/status/2026318875651191233",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHB7uRjVaQAAKdP3.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026309733125423192",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "怪不得taco呢\n建议福特号配备老八战术连",
-      "contentHtml": "怪不得taco呢\n建议福特号配备老八战术连",
-      "publishedAt": "2026-02-24T14:54:00.000Z",
-      "link": "https://x.com/hazenlee/status/2026309733125423192",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHB7k6ribUAAC3JM.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
