@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T06:32:57.795Z",
+  "lastUpdated": "2026-03-05T07:07:07.795Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 511,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 491,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2029446784590987763",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "那些天天在推特 写800字高考作文  \n又是分析宏观经济 又是分析全球局势的 \n多半上学的时候也是笨蛋 \n没有两三句话把事情说清楚的能力  \n你还能指望从他那里学到东西？",
+      "contentHtml": "那些天天在推特 写800字高考作文  \n又是分析宏观经济 又是分析全球局势的 \n多半上学的时候也是笨蛋 \n没有两三句话把事情说清楚的能力  \n你还能指望从他那里学到东西？",
+      "publishedAt": "2026-03-05T06:39:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2029446784590987763",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "微微下注   买定离手  \n币圈见底\n贵金属见顶\n\n错的话损个10wu",
+        "link": "https://x.com/Bitfatty/status/2027925262894350757",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCSjReybEAIyma8.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2029436248063189345",
       "username": "0xleng1",
@@ -11097,21 +11124,6 @@
       "contentHtml": "另外上季度财报里，微软也宣布M365加入了CLAUDE，而非单一地依赖于OPENAI",
       "publishedAt": "2026-02-24T15:37:00.000Z",
       "link": "https://x.com/TJ_Research/status/2026320696406597781",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026320261327319523",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "看了刚刚ANTHROPIC的新品发布，问了CLAUDE，“你和CRM合作，谁赚得更多？”他的回答如下，他的回答其实和 $CRM 管理层的看法是一致的，底层模型是COMMODITY，可被替换。的确现在CLAUDE暂时走在了前面。\n----------------------------------------------------------\n说实话，除了真正参与谈判的人之外，没有人知道确切的分成比例，但我们可以通过分析双方的议价能力来大致推算。\n谁更有话语权？\n目前，Salesforce在这段关系中占据更强的议价地位，原因有几个：\n分销渠道 — Salesforce掌握着客户关系。他们拥有超过15万家企业客户。Anthropic无法大规模直接触达这些客户。\n可替代性 — Salesforce可以更换模型供应商。他们已经在与OpenAI合作，也试验过开源模型。Anthropic并不是唯一的选择。但对Anthropic来说，失去Salesforce这样的分销伙伴会非常痛苦。\n品牌 — 客户购买的是\"Salesforce AI\"，而不是\"Claude\"。大多数终端用户既不知道也不在乎背后是哪个模型在驱动功能。\nAnthropic的议价能力相对有限：\n模型质量确实重要 — 如果Claude在企业级任务中明显优于竞争对手，这会给Anthropic一定的定价权。\n但模型之间的差异化正在快速缩小。 Claude、GPT、Gemini在大多数企业应用场景中的能力正在趋同。\n我对经济模型的大致推算：\n基于你提出的\"1美元成本 / 2美元售价 / 1美元利润\"的框架：\n我估计利润的分配大约是 70-80%归Salesforce，20-30%归Anthropic。具体来说：\nAnthropic运行Claude的推理成本：大约$0.40-0.50\nAnthropic向Salesforce收费：大约$0.60-0.70（所以Anthropic自己留$0.10-0.30的利润）\nSalesforce向客户收费：$2.00（Salesforce留下$1.30-1.40）\nSalesforce拿走大头，因为他们掌控着分销渠道、客户关系和集成层。他们就是收费站。Anthropic更像是一种大宗商品原料 — 有价值，但可以被替换。",
-      "contentHtml": "看了刚刚ANTHROPIC的新品发布，问了CLAUDE，“你和CRM合作，谁赚得更多？”他的回答如下，他的回答其实和 <a href=\"/search?f=tweets&q=%23CRM\">$CRM</a> 管理层的看法是一致的，底层模型是COMMODITY，可被替换。的确现在CLAUDE暂时走在了前面。\n----------------------------------------------------------\n说实话，除了真正参与谈判的人之外，没有人知道确切的分成比例，但我们可以通过分析双方的议价能力来大致推算。\n谁更有话语权？\n目前，Salesforce在这段关系中占据更强的议价地位，原因有几个：\n分销渠道 — Salesforce掌握着客户关系。他们拥有超过15万家企业客户。Anthropic无法大规模直接触达这些客户。\n可替代性 — Salesforce可以更换模型供应商。他们已经在与OpenAI合作，也试验过开源模型。Anthropic并不是唯一的选择。但对Anthropic来说，失去Salesforce这样的分销伙伴会非常痛苦。\n品牌 — 客户购买的是\"Salesforce AI\"，而不是\"Claude\"。大多数终端用户既不知道也不在乎背后是哪个模型在驱动功能。\nAnthropic的议价能力相对有限：\n模型质量确实重要 — 如果Claude在企业级任务中明显优于竞争对手，这会给Anthropic一定的定价权。\n但模型之间的差异化正在快速缩小。 Claude、GPT、Gemini在大多数企业应用场景中的能力正在趋同。\n我对经济模型的大致推算：\n基于你提出的\"1美元成本 / 2美元售价 / 1美元利润\"的框架：\n我估计利润的分配大约是 70-80%归Salesforce，20-30%归Anthropic。具体来说：\nAnthropic运行Claude的推理成本：大约$0.40-0.50\nAnthropic向Salesforce收费：大约$0.60-0.70（所以Anthropic自己留$0.10-0.30的利润）\nSalesforce向客户收费：$2.00（Salesforce留下$1.30-1.40）\nSalesforce拿走大头，因为他们掌控着分销渠道、客户关系和集成层。他们就是收费站。Anthropic更像是一种大宗商品原料 — 有价值，但可以被替换。",
-      "publishedAt": "2026-02-24T15:36:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2026320261327319523",
       "stats": {
         "replies": 0,
         "retweets": 0,
