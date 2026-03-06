@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T03:35:57.490Z",
+  "lastUpdated": "2026-03-06T04:22:41.898Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,141 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 511,
+    "newFetched": 508,
     "successUsers": 25,
     "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2029773414890885268",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-03-06T04:17:00.000Z",
+      "link": "https://x.com/hazenlee/status/2029773414890885268",
+      "quote": {
+        "username": "punk2898",
+        "displayName": "Punk（2898 🙌💎）",
+        "content": "那不是你生活里的烦恼，那是你生活里的内容，人生如果一马平川该多无聊啊",
+        "link": "https://x.com/punk2898/status/2029735766168064261"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029772339458756777",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "贷款梭哈 真的6\nopenAI为啥自己不贷？",
+      "contentHtml": "贷款梭哈 真的6\nopenAI为啥自己不贷？",
+      "publishedAt": "2026-03-06T04:13:00.000Z",
+      "link": "https://x.com/hazenlee/status/2029772339458756777",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCszLlBaoAAKwY2.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029771813736329705",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n这个帖子把 AI 中转站的盈利模式说清楚了，推荐阅读。\n\n反过来想，根据这些信息，可以得出结论 —— 个人用户的最佳的使用方式是：\n\n1. 多开几个 20 美元 / 200 美元的账号\n2. 使用自己和家人的实名卡\n3. 使用家庭 IP\n4. 自己做一套 API 反代池子自己用\n\n这已经是最便宜、且最安全的方式了。\n\n一定比你去买其他人的中转站更好。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n这个帖子把 AI 中转站的盈利模式说清楚了，推荐阅读。\n\n反过来想，根据这些信息，可以得出结论 —— 个人用户的最佳的使用方式是：\n\n1. 多开几个 20 美元 / 200 美元的账号\n2. 使用自己和家人的实名卡\n3. 使用家庭 IP\n4. 自己做一套 API 反代池子自己用\n\n这已经是最便宜、且最安全的方式了。\n\n一定比你去买其他人的中转站更好。",
+      "publishedAt": "2026-03-06T04:11:00.000Z",
+      "link": "https://x.com/taresky/status/2029771813736329705",
+      "quote": {
+        "username": "yan5xu",
+        "displayName": "yan5xu",
+        "content": "作为一个行业内的人，做个科普吧 hhh\n从底层往上捋一遍：\n最黑的一层，靠的是盗刷信用卡。有人手里攥着大批黑卡号，利用 OpenAI、Anthropic 等平台在支付验证环节的漏洞，批量注册账号。这种号成本几乎为零，被封了就再开一批。\n拿到账号之后怎么变现？两条路——直接出 API Key 是最简单的，但更常见的玩法是「套壳逆向」：把 ChatGPT、Claude 的网页聊天接口逆向破解，改头换面包装成标准 API 对外出售。你调用的时候看着和官方一模一样，但背后其实是一堆网页 Session 在替你收发消息。\n这两件事不矛盾——黑卡注册来的号，经常就是直接拿去做逆向的。反正号不花钱，当然要把每个号的价值榨到最后一滴。\n再往上，是 Credit 灰色流转。AWS、Azure、GCP 这些云厂商发给初创公司的算力抵扣额度，本意是扶持创业生态。但还是会有一些人有歪心思：一种是初创公司自己用不完，违反服务协议私下低价转手——算灰色地带；还有就是厂商内部一些不合规操作了，这里不细讲。\n最上面那一层才是正经生意——量大到能直接和厂商谈企业折扣协议。合法透明，但利润也最薄。像 OpenRouter 大概率走的就是这条路。不过量大也能吃的饱饱的。\n但以上全是成本侧。中转站真正值得说道的，不在这儿。\n所有经过中转的请求——完整的 prompt 加 response——就是一份现成的的蒸馏数据。\n尤其是 Claude Code 这类编程场景，用户产出的全是复杂推理链和真实的工程决策，这对模型厂商来说是梦寐以求的蒸馏素材。\n所以中转站真正的商业模式很可能是：收你中转费是表面生意，把你的请求数据打包卖给大厂做模型蒸馏，才是核心 margin。\n你是付费客户，同时也是免费的训练数据生产者。一鱼两吃。\n说再直白点——有些中转站上线的核心目的根本不是卖 API，而是为了收集特定场景的高质量蒸馏语料。低价只是获客手段。",
+        "link": "https://x.com/yan5xu/status/2029743983522631698"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029770545328484738",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "猫儿子的长腿媳妇已经送过来相亲了\n守着人家姑娘骚叫了一夜\n都还没到弄口水阶段",
+      "contentHtml": "猫儿子的长腿媳妇已经送过来相亲了\n守着人家姑娘骚叫了一夜\n都还没到弄口水阶段",
+      "publishedAt": "2026-03-06T04:06:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2029770545328484738",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCsxivKWQAAej9T.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCsxivsaUAMEjCr.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029769890580812022",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "6 我严重怀疑这位是低级红高级黑",
+      "contentHtml": "6 我严重怀疑这位是低级红高级黑",
+      "publishedAt": "2026-03-06T04:03:00.000Z",
+      "link": "https://x.com/hazenlee/status/2029769890580812022",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCsw86EaUAQrgiM.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029769528708870295",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "Worldcoin 项目方关联钱包 5 小时前向 #Binance 充值 629 万枚 $WLD ，价值 258 万美元\n\n该地址的资金来源为地址 0xeBC…423DE，再向上追溯则是 WalletSimple(Bitgo) 多签合约，多为资产托管钱包；过去 7 个月已累计向交易所充值 1651 万枚 WLD，总价值 1529 万美元\n\n钱包地址 0x7cB9FFcD5EE60F9f4f5D82Ff1428b4F1f37C73AC",
+      "contentHtml": "Worldcoin 项目方关联钱包 5 小时前向 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 充值 629 万枚 <a href=\"/search?f=tweets&q=%23WLD\">$WLD</a> ，价值 258 万美元\n\n该地址的资金来源为地址 0xeBC…423DE，再向上追溯则是 WalletSimple(Bitgo) 多签合约，多为资产托管钱包；过去 7 个月已累计向交易所充值 1651 万枚 WLD，总价值 1529 万美元\n\n钱包地址 0x7cB9FFcD5EE60F9f4f5D82Ff1428b4F1f37C73AC",
+      "publishedAt": "2026-03-06T04:02:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2029769528708870295",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCswN33bwAACAaQ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2029760995980366112",
       "username": "hazenlee",
@@ -11034,120 +11164,6 @@
       "contentHtml": "为何 <a href=\"/search?f=tweets&q=%23META\">$META</a> 要自己发币？\n1. 内循环系统够大\n2. 自己掌握币的生态（流通，单位经济，玩法）\n3. 试图破圈（凭META的口碑非常难，但绝对是小扎的愿望，他也应该还没放弃METAVERSE！！！）\n自动硬件端22年被苹果卡了之后，小扎意识到掌握硬件的重要性，他看得很远，你可以不喜欢他和他的产品，但他绝对是一个值得信任的FOUNDER",
       "publishedAt": "2026-02-25T13:32:00.000Z",
       "link": "https://x.com/TJ_Research/status/2026651561032573126",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026650187134017545",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "美股的套利可能是币圈套利的新方向了\n这几天eth的费率负得可怜🥺",
-      "contentHtml": "美股的套利可能是币圈套利的新方向了\n这几天eth的费率负得可怜🥺",
-      "publishedAt": "2026-02-25T13:27:00.000Z",
-      "link": "https://x.com/hazenlee/status/2026650187134017545",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCAbmPAaMAEO4qR.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026650383872045347",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "👍",
-      "contentHtml": "👍",
-      "publishedAt": "2026-02-25T13:27:00.000Z",
-      "link": "https://x.com/follow_clues/status/2026650383872045347",
-      "quote": {
-        "username": "Heiter314",
-        "displayName": "Heiter",
-        "content": "最近在Github浏览最时髦的AI项目时, 发现了有趣的现象：纯AI生成的项目, 虽然能运行, 但代码量是[古法编程程序员]的上百倍，却能在短期内轻松拿到几万star。大量issue没人处理，作者挑容易的修一下, 剩下的放任自流。\n\n我突然意识到：AI Coding就是我们的智子。\n\n> 在《三体》系列中，智子是一种假设的质子大小的超级计算机，由外星文明部署，用于干扰人类粒子物理研究，从而有效锁死人类的科学进步。\n\n过去程序员需要努力的练习怎么写优雅高效的代码，创建一个项目，做出有价值的工作，频繁的更新和修复bug，才能得到几千star。\n\n现在完全AI Coding，你可以付出更少得到更多：更多Github star -> 更多HR关注 -> 更好的职业跳板 -> 更高的收入。\n\n激励机制已经彻底崩坏。一个工程师花费许多时间贡献一个开源基础库，得到的认可和回报不成正比。另一个靠AI堆出几十万行臃肿代码的项目，通过营销就能成为超级明星。\n\n建造地基不再有回报，经济价值上没有，情绪价值上也没有。\n\n当然大家都会往这条路走。而这意味着更少真正思考、更少深度经验、更少真实成长。\n\n但关键是：AI生成的代码根本不创造任何新东西。它只是调用几代程序员积累的技术遗产——基础库、框架、工具链。没有这些地基，AI一行能跑的代码都写不出来。\n这些AI项目能跑，纯粹是因为站在巨人的肩膀上。\n\nAI看起来什么都能搞定——Excel、网站、一切, 但如果 pandas/polars/numpy/react 这一类基础库库突然从世界上消失，AI还能正常工作吗？被AI编码训练出来的年轻程序员，未来还有多少人有意愿、并且有能力去维护和贡献这些基础库？\n\n我们这辈子再也看不到另一个新的操作系统诞生了。不会有更多复杂、高性能、大规模协作的基础性项目出现。上限已经被锁死。\n\n软件世界的下限还能靠上一代的程序员留下的技术遗产维持一段时间。但随着那批人退休，下一代既没受过足够的训练, 也没动力去接替，腐朽会加速。\n\n软件世界的天花板已被锁死。",
-        "link": "https://x.com/Heiter314/status/2026646238851166678"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026647140466909574",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "$CRCL 财报，营收超预期3.1%，EPS超预期165%。\n说过很多次，一般营收只超预期3%-5%，EPS不可能超那么多的，之所以高是因为有85万的其他营收算入净利润。如果看运营利润（OPERATING INCOME），55M V.S. 45M，超24%。总体数据还是不错，没有到夸张。\n股权激励/营收比例太高\n亮点也是关注点：其他营收37M，超预期的25M，我感觉华尔街有些估计压低了预期。\n26年预期，其他营收160M，有点低了，约等于4季度的ARR。这种体量，其他营收增速怎么也得100%的同比。剩下的听听财报会议，还不错，但绝对可以更好。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23CRCL\">$CRCL</a> 财报，营收超预期3.1%，EPS超预期165%。\n说过很多次，一般营收只超预期3%-5%，EPS不可能超那么多的，之所以高是因为有85万的其他营收算入净利润。如果看运营利润（OPERATING INCOME），55M V.S. 45M，超24%。总体数据还是不错，没有到夸张。\n股权激励/营收比例太高\n亮点也是关注点：其他营收37M，超预期的25M，我感觉华尔街有些估计压低了预期。\n26年预期，其他营收160M，有点低了，约等于4季度的ARR。这种体量，其他营收增速怎么也得100%的同比。剩下的听听财报会议，还不错，但绝对可以更好。",
-      "publishedAt": "2026-02-25T13:15:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2026647140466909574",
-      "quote": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君",
-        "content": "2c已有不少业务，他们应该是circle最大的竞争对手，非常全面，分发渠道，发行稳定币，B端口，C端口",
-        "link": "https://x.com/TJ_Research/status/2026403699497537993"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026646258669191285",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "piped.video/live/gLv8oKOox-M… nitter.net/i/broadcasts/1pKkOyOpv…",
-      "contentHtml": "<a href=\"https://piped.video/live/gLv8oKOox-M?feature=share\">piped.video/live/gLv8oKOox-M…</a> <a href=\"https://nitter.net/i/broadcasts/1pKkOyOpvoYKj\">nitter.net/i/broadcasts/1pKkOyOpv…</a>",
-      "publishedAt": "2026-02-25T13:11:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2026646258669191285",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026646194274119953",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "近期币圈缺乏叙事，MSTR被“阴谋集团”做空在今天成为了最大的叙事",
-      "contentHtml": "近期币圈缺乏叙事，MSTR被“阴谋集团”做空在今天成为了最大的叙事",
-      "publishedAt": "2026-02-25T13:11:00.000Z",
-      "link": "https://x.com/follow_clues/status/2026646194274119953",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026643198169461040",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "这个股票期货的费率水平真的抽象",
-      "contentHtml": "这个股票期货的费率水平真的抽象",
-      "publishedAt": "2026-02-25T12:59:00.000Z",
-      "link": "https://x.com/follow_clues/status/2026643198169461040",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCAVIZwaMAYTwPR.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
