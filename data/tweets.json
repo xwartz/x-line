@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T19:16:58.266Z",
+  "lastUpdated": "2026-03-06T19:33:04.115Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 508,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 530,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2030000193404555491",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "《别光给她口啊》\n#watta",
+      "contentHtml": "《别光给她口啊》\n<a href=\"/search?f=tweets&q=%23watta\">#watta</a>",
+      "publishedAt": "2026-03-06T19:18:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2030000193404555491",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "《找不到进去的地方》  😱",
+        "link": "https://x.com/Bitfatty/status/2029988532249641081"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2029996386565968083",
       "username": "TJ_Research",
@@ -11125,27 +11146,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHCEeJMcbcAALH5I.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026946502502015205",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "鬼畜的产品设计…",
-      "contentHtml": "鬼畜的产品设计…",
-      "publishedAt": "2026-02-26T09:04:00.000Z",
-      "link": "https://x.com/hazenlee/status/2026946502502015205",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCEpGOjb0AAZut5.jpg"
         }
       ],
       "stats": {
