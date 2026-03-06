@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T12:50:12.016Z",
+  "lastUpdated": "2026-03-06T13:26:18.942Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,102 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 488,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 509,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2029909216513884266",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "BTC累积趋势得分（Accumulation Trend Score，ATS）通过评估不同钱包群体的相对余额变化，并对大型实体赋予更高权重，为衡量链上“累积行为”提供了有效参考。\n\n当ATS越接近1（黑点），则表示大型实体越偏向积累。自2月5日以来，ATS分值始终维持在0.5以下，表明持有者整体缺乏积极的累积行为。\n\n（图1-BTC累积趋势得分）\n\n尤其是在3月1日-4日的反弹时，ATS更是连续下降至0.23（浅黄点）；意味着有大型持有者趁着BTC价格反弹又开始派发了。\n\n同时，我们还看到在1月14日当天，短期持有者合计将20,477枚BTC转入交易所完成获利了结（比2026.1.14还要多），反映出STH对当前行情缺乏信心的行为表现。\n\n（图2-STH转入交易所的BTC数量）\n\n但与之相反的是，传统资本的代表“现货ETF”却在此时起到了关键作用，从2月24日至3月4日持续的净流入吸收了部分供应，为反弹创造了条件（ETF的具体细节我们在明天会有详细分析）。\n\n说明目前市场中的资金又出现了强烈的分歧，有人不看好要卖，有人看好要买。多空双方力量比拼势必又要再次分出胜负，对我们散户来说只能观战了，等局势明朗后再做下一步打算。",
+      "contentHtml": "BTC累积趋势得分（Accumulation Trend Score，ATS）通过评估不同钱包群体的相对余额变化，并对大型实体赋予更高权重，为衡量链上“累积行为”提供了有效参考。\n\n当ATS越接近1（黑点），则表示大型实体越偏向积累。自2月5日以来，ATS分值始终维持在0.5以下，表明持有者整体缺乏积极的累积行为。\n\n（图1-BTC累积趋势得分）\n\n尤其是在3月1日-4日的反弹时，ATS更是连续下降至0.23（浅黄点）；意味着有大型持有者趁着BTC价格反弹又开始派发了。\n\n同时，我们还看到在1月14日当天，短期持有者合计将20,477枚BTC转入交易所完成获利了结（比2026.1.14还要多），反映出STH对当前行情缺乏信心的行为表现。\n\n（图2-STH转入交易所的BTC数量）\n\n但与之相反的是，传统资本的代表“现货ETF”却在此时起到了关键作用，从2月24日至3月4日持续的净流入吸收了部分供应，为反弹创造了条件（ETF的具体细节我们在明天会有详细分析）。\n\n说明目前市场中的资金又出现了强烈的分歧，有人不看好要卖，有人看好要买。多空双方力量比拼势必又要再次分出胜负，对我们散户来说只能观战了，等局势明朗后再做下一步打算。",
+      "publishedAt": "2026-03-06T13:17:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2029909216513884266",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCuu4zxa4AENjuP.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCuvMCxaUAAhLQJ.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "MVRV极端偏差：熊市反弹的概率边界\n\n在熊市日线级别的反弹除了参考BRS信号之外，我还会格外关注“MVRV极限偏差定价区间” —— 同样也是一个在历史样本中表现出较高有效性的参考指标。\n\n所谓极限偏差，其实就是数学统计学中的“离散程度”，在正态分布假设下，标准差可以对应概率区间。从过往10年的数据来看：\n\n（图1-MVRV极端偏差定价区间-全览）\n\n1、当BTC跌破黄线时，代表行情进入熊市的第1阶段，此后日线级别的反弹很难再重新突破黄线，或有小幅突破后又会再次跌破，即是确认了这一信号。（如图中2018年）\n\n2、当BTC跌破绿线时，代表行情进入熊市的第2阶段，同样的，此后反弹很难再突破绿线，直到走出熊底区间。（如图中2014和2022年）\n\n（图2-MVRV极端偏差定价区间-2026）\n\n2026年1月14日，BTC反弹至$97,000，在黄线处遇阻；当时我们结合BRS信号已回到零值，便更加确信了此处为反弹的高点。\n\n相关推文链接如下：nitter.net/Murphychen888/status/2…\n\n（图3-Bitcoin Risk Signal）\n\n而本次反弹在3月4日收盘价最高至$72,691，已无限接近绿线所在位置，而此时BRS还未回到零值。\n\n🚩 对此，我个人的观点是：\n1、本次反弹即便还未结束，应该也已接近顶部区间；\n2、区间大致的预判在$74,000-$78,000左右；\n\n但还有一种最为特殊的情况也需要考虑：\n即当前BTC仍然没有跌破“< 10y_RP”这一更加接近真实水平的“BTC历史平均换手成本”。\n\n相关推文链接如下：nitter.net/Murphychen888/status/2…\n\n也就是说，只要没有跌破“< 10y_RP”的极限位，就仍存在走“浅熊路径”的可能。因此我们要考虑的特殊情况是：\n\n如果这次BTC强势突破“MVRV极限偏差定价区间”中的绿线（$74,000），且在此后的回踩中也不跌破，那么就会是另外一个结论 —— BTC已走出熊底的概率变大了。\n\n当然，目前我认为情况3的可能性较小，而情况1和2仍然是较大概率的事件。（注意：个人观点无法保证100%正确，请小伙伴理性解读！）",
+        "link": "https://x.com/Murphychen888/status/2029781365810680228",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCs6DgBaoAAqhPX.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCs6KUuboAAgJTd.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029904745431978249",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "US AI: Superbowl ads, $1T IPOs, Private co fighting with DOD \n\nChina AI: Grandmas/students queueing 2 hours at Tencent HQ for a free install of OpenClaw... China tech cos' brute force adoption curve is next level (reminds me of digital payment & on demand service of everything)",
+      "contentHtml": "US AI: Superbowl ads, $1T IPOs, Private co fighting with DOD \n\nChina AI: Grandmas/students queueing 2 hours at Tencent HQ for a free install of OpenClaw... China tech cos' brute force adoption curve is next level (reminds me of digital payment &amp; on demand service of everything)",
+      "publishedAt": "2026-03-06T12:59:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2029904745431978249",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCupCElbkAAWb_o.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCupCEjbMAAffEF.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCupCEoacAAoNNl.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029904748133106137",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "and they even give your 🦞 birth certificate once its installed ..",
+      "contentHtml": "and they even give your 🦞 birth certificate once its installed ..",
+      "publishedAt": "2026-03-06T12:59:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2029904748133106137",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCup5BHaUAEZf2c.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2029899249845207460",
       "username": "coolish",
@@ -240,6 +331,31 @@
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "无助的小处男\n\n你爹我也没办法π_π\n自己努力吧",
         "link": "https://x.com/Bitfatty/status/2029838258100916272"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029868167313657914",
+      "username": "elfa_ai",
+      "displayName": "Elfa AI",
+      "avatar": "https://nitter.net/pic/profile_images%2F1904807705027764224%2FZpgfaY9d_bigger.jpg",
+      "content": "Set it up in 2 steps:\n\n1. Download elfa-api.skill from go.elfa.ai/ai-trading-skills\n2. Drag it into Claude or add via Settings > Skills\n\nFree API key included at go.elfa.ai/claude-skills. 1,000 credits.\n\nYou can also access it on Clawdhub: clawhub.ai/nero-sensei/claud…\n\nAccess to Elfa's API endpoint and chat feature is now opened.",
+      "contentHtml": "Set it up in 2 steps:\n\n1. Download elfa-api.skill from <a href=\"https://go.elfa.ai/ai-trading-skills\">go.elfa.ai/ai-trading-skills</a>\n2. Drag it into Claude or add via Settings &gt; Skills\n\nFree API key included at <a href=\"http://go.elfa.ai/claude-skills\">go.elfa.ai/claude-skills</a>. 1,000 credits.\n\nYou can also access it on Clawdhub: <a href=\"https://clawhub.ai/nero-sensei/claude-ai-trading-skill\">clawhub.ai/nero-sensei/claud…</a>\n\nAccess to Elfa's API endpoint and chat feature is now opened.",
+      "publishedAt": "2026-03-06T10:34:00.000Z",
+      "link": "https://x.com/elfa_ai/status/2029868167313657914",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCuKVymaUAYqbUF.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "follow_clues",
+        "displayName": "Theclues"
       },
       "stats": {
         "replies": 0,
@@ -11076,126 +11192,6 @@
       "contentHtml": "为什么明知方向错了，还着迷于加仓？\n\n因为加仓能暂时缓解浮亏带来的心理痛苦，哪怕刚补完就继续向上突破/向下破位，直接被埋。",
       "publishedAt": "2026-02-26T02:43:00.000Z",
       "link": "https://x.com/CycleStudies/status/2026850470803984549",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026845798026326100",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "果然是买涨不买跌啊，拉盘就是最好的广告🙌\n\n地址 0xAb5…0b767 过去 5 小时以均价 $2075 在链上买入 7008.8 枚 ETH，总价值 1454 万美元；这也是该地址第一次囤积 $ETH ，买入时机正是早上猛烈反弹时\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
-      "contentHtml": "果然是买涨不买跌啊，拉盘就是最好的广告🙌\n\n地址 0xAb5…0b767 过去 5 小时以均价 $2075 在链上买入 7008.8 枚 ETH，总价值 1454 万美元；这也是该地址第一次囤积 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> ，买入时机正是早上猛烈反弹时\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0xAb59403c721Eaa64a850474e63919573c0F0b767\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助 |上 Gate App 抢黄金",
-      "publishedAt": "2026-02-26T02:24:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2026845798026326100",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCDM5debMAA_DrX.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026842585550184559",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "【四年周期总刻系列（19）】\n\n大道无形，周期有形\n\n本轮红色熊底区间如常出现并稳步发育中\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详解 ──┐\n\n图中指标为 #BTC 链上处于浮盈状态的筹码数量跟处于浮亏状态的筹码数量之比（将链上>7年未移动的筹码视作长期休眠或丢失从计算中剔除，比值采用7日MA）\n\n比值 < 1 时，使用红色区间显示",
-      "contentHtml": "【四年周期总刻系列（19）】\n\n大道无形，周期有形\n\n本轮红色熊底区间如常出现并稳步发育中\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详解 ──┐\n\n图中指标为 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 链上处于浮盈状态的筹码数量跟处于浮亏状态的筹码数量之比（将链上&gt;7年未移动的筹码视作长期休眠或丢失从计算中剔除，比值采用7日MA）\n\n比值 &lt; 1 时，使用红色区间显示",
-      "publishedAt": "2026-02-26T02:11:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2026842585550184559",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCDH_obakAA103J.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【四年周期总刻系列（18）】当前图中指标跌至 1.42\n\n14年该指标跌至 1.42 后 76天 到熊底 ($0.15k)\n18年该指标跌至 1.42 后 82天 到熊底 ($3.1k)\n22年该指标跌至 1.42 后 26天 到次熊底 ($17.6k)\n\n图中上方灰线为 #BTC 价格；黄线为 BTC 短期持有者成本均价；玫红线为 BTC 长期持有者成本均价（剔除持币>10年的筹码）\n图中下方指标为“BTC 短期持有者成本均价”跟“BTC 长期持有者成本均价（剔除>10y筹码版）”之比（即：黄线 / 玫红线）\n\nBTC短期持有者成本均价定义：持有比特币<155天的投资者的平均成本。含义：反映近期买家的成本基础，他们对价格波动敏感，易在下跌时卖出。常作为短期市场情绪指标——牛市中价格高于此均价，熊市中跌破可能加剧抛售\n\nBTC长期持有者成本均价定义：持有比特币>155天的投资者的平均成本，但排除>10年的筹码（这些可能丢失或永不动，如中本聪的币）。含义：聚焦“活跃”长期持有者，提供更现实的成本基础。常作为市场支撑水平参考——熊市中可能成为价格底部\n\n两者比率（短期均价 / 长期均价）含义：反映市场周期阶段和参与者行为：\n比率 >1：短期买家成本高（新资金高价入场），情绪乐观但可能过热\n比率 <1：熊市或底部信号，短期买家成本低（低价入场），弱手出清，市场或将复苏\n总体趋势：比率上升=牛市延续；下降=熊市或分发阶段。排除>10年筹码使比率更准确捕捉周期转折，历史上 <1 时常为长期买入机会",
-        "link": "https://x.com/0xCryptoChan/status/2019983275994071392",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAhoELya8AAhXbP.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026841525469249702",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "经过一晚猛烈的反弹，累计做多 12 万枚 $ETH 的多军站起来了，现已浮盈 562.2 万美元💪\n\n地址 0xa5b…01d41：持仓 7 万枚，开仓均价 $1,991.53\n地址 0x6C8…D84F6：持仓 5 万枚，开仓均价 $2,012.11\n\n传送门\nhypurrscan.io/address/0xa5b0… hypurrscan.io/address/0x6C85…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
-      "contentHtml": "经过一晚猛烈的反弹，累计做多 12 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的多军站起来了，现已浮盈 562.2 万美元💪\n\n地址 0xa5b…01d41：持仓 7 万枚，开仓均价 $1,991.53\n地址 0x6C8…D84F6：持仓 5 万枚，开仓均价 $2,012.11\n\n传送门\n<a href=\"https://hypurrscan.io/address/0xa5b0edf6b55128e0ddae8e51ac538c3188401d41#perps\">hypurrscan.io/address/0xa5b0…</a> <a href=\"https://hypurrscan.io/address/0x6C8512516Ce5669d35113A11Ca8B8DE322fD84F6#perps\">hypurrscan.io/address/0x6C85…</a>\n\n本文由 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助 |上 Gate App 抢黄金",
-      "publishedAt": "2026-02-26T02:07:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2026841525469249702",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCDJmOXbsAAW8YT.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "累计做多 10.5 万枚 $ETH 的多军再度加仓，浮亏已超 2,059.2 万美元🥶\n\n当前两个地址已累计持有 12 万枚 ETH 的多单，头寸价值 2.19 亿美元，开仓均价分别为 $1,991.53 和 $2,012.11，清算价为 $1,362.75 和 $1,350.22，此外还支付了 47.2 万美元的资金费，两头亏啊…\n\n传送门\nhypurrscan.io/address/0xa5b0… hypurrscan.io/address/0x6C85…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
-        "link": "https://x.com/ai_9684xtpa/status/2026212922519892350",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHB6NpRgboAAvjMb.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026835169404137648",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
-      "content": "流動性獵取如期而至：BTC 劍指區間前高🛩\n\n我在前天的帖子中（下方引文），\n曾和各位分享了 BTC 的中短線波段交易劇本，\n結果就在昨天早晨，BTC 如預期完成了一次區間的 Stop Hunt，\n並且在 retest 之後出現了一波迅速的上漲📈\n\n承接該帖，今天我打算再來和各位聊聊接下來的一些預期👇：\n\n🟡 簡單覆盤一下昨天發生的事情\n\n1️⃣ 強力 Taker buy 的確認訊號\n昨天早上約 09:05 左右，BTC 殺出了一批強力的 taker buy，\n使價格一口氣站回了我們預先規劃的區間（詳見下方引文）。\n至此，Stop Hunt（流動性獵取）基本得到確認，作多訊號出現，\n我當時也在群內同步和各位分享了這個訊號（如附圖右上方所示）。\n\n💬 補充：\nStop Hunt 的確認方式我之前教過非常多次，\n以向下 Stop Hunt 而言，主要有三項條件：\n「跌破 liquidity 聚集區」+「站回」+「站回時伴隨強力 taker」。\n\n2️⃣ 二次測試（Retest）完美命中\n承上，我當時在群內也一併分享了我個人對於 retest 區域的評估，\n如附圖所示：當時我給出的評估位置大約是在 65K，\n結果就在昨日下午 13:00~15:00 左右的時間，\nBTC 回調至最低約 64700 左右，隨後便開啟一波直線上漲🔥\n\n如果你是新朋友，或者是還不太熟悉 Stop Hunt 概念的朋友，\n可以參考本文文末的鏈接，所有使用到的概念，我都有寫過詳細的教程📚\n\n//\n\n🟡 接下來的交易計劃\n\n首先，65K 入場的多單目前基本沒有需要提前平倉的訊號，\n止盈目標設置邏輯和以往的每一次公開波段一樣：區間前高（72.3K）。\n之前我公開建倉的波段交易，我也會一併整理在本文文末，\n有需要的朋友可以自行參考。\n\n📖 個人合約波段系統中的 2 種進場方式\nnitter.net/market_beggar/status/1…\n\n再來是「新的 Retest 測試區域」評估：\n如附圖，我目前評估的 Retest 區域大約在 66.6K。\n但仍要再次提醒各位：Retest 不一定會出現，\n並且出現之後並不能無腦入場，實際情況也要根據屆時的線型 & 數據而定⚠️\n\n最後是群內很多人問的熱門問題：止盈止損的調整。\n我一直強調：我不收費、沒有 VIP 群、不帶單、不賣課，\n我的內容，一直都是基於我個人交易系統的所見所聞，\n旨在分享，如果你只是想抄答案，那你可能來錯地方了。\n\n回到正題，止盈止損的設置，我認為需根據每個人的風險耐受度而定；\n就我自己而言，目前的看法是：\n➡️ 止盈：如上述，依然是放在區間前高（range high）\n➡️ 止損：原先按照 liquidity range trading 的做法，\n是放在 Stop Hunt 產生的低點（62.5K）；但如今漲勢已被確認，\n我認為適時的上調止損是合理的，目前我是已調整到入場位置（65K），\n確保本次波段交易不會虧損，未來可能再次視情況上調，以鎖定利潤✅\n\n//\n\n🟡 結語\n\n距離上一次公開分享 + 操作波段交易，已有約半年的時間了，\n當時操作的是 ETH，揮出了一次完美的全壘打，恍如隔日啊。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\nnitter.net/market_beggar/status/1…\n\n如今，時隔半年，昨天又再次重返合約的戰場，\n公開和各位分享了一次波段交易，目前的狀況都很順利，\n此刻的我只想說一句：「我還沒老」😜\n\n最後想和各位說的是：\n\n➡️ 記得來我的群組玩！\n群內會不定期分享一些中小級別的看法，\n入群鏈接在我主頁的自介，0 門檻，全免費，只求一個熱鬧🔥\n\n➡️ 文章中用到的所有概念，我會全部一次性的整理在文末\n如果對於這些概念有任何不理解的地方，也可以直接在評論區詢問。\n\n以上就是今天的內容，希望對你有幫助，只求一個小心心❤️\n\n//\n\n📚 相關閱讀資源\n\nStop Hunt 流動性獵取概念說明\nnitter.net/market_beggar/status/1…\n\nTaker 強度分析法：成交量篇\nnitter.net/market_beggar/status/1…\n\nTaker 強度分析法：CVD 篇\nnitter.net/market_beggar/status/1…\n\nRektProof 區間交易模型中譯 & 個人見解\nnitter.net/market_beggar/status/1…\n\n詳細說明 Maker 強度分析方法論：以 ETH 為例\nnitter.net/market_beggar/status/1…\n\nLiquidity 交易系統：分 K 公開實戰帖\nnitter.net/market_beggar/status/1…\n\nBTC 公開波段案例（2025 年 7 月發布）\nnitter.net/market_beggar/status/1…",
-      "contentHtml": "流動性獵取如期而至：BTC 劍指區間前高🛩\n\n我在前天的帖子中（下方引文），\n曾和各位分享了 BTC 的中短線波段交易劇本，\n結果就在昨天早晨，BTC 如預期完成了一次區間的 Stop Hunt，\n並且在 retest 之後出現了一波迅速的上漲📈\n\n承接該帖，今天我打算再來和各位聊聊接下來的一些預期👇：\n\n🟡 簡單覆盤一下昨天發生的事情\n\n1️⃣ 強力 Taker buy 的確認訊號\n昨天早上約 09:05 左右，BTC 殺出了一批強力的 taker buy，\n使價格一口氣站回了我們預先規劃的區間（詳見下方引文）。\n至此，Stop Hunt（流動性獵取）基本得到確認，作多訊號出現，\n我當時也在群內同步和各位分享了這個訊號（如附圖右上方所示）。\n\n💬 補充：\nStop Hunt 的確認方式我之前教過非常多次，\n以向下 Stop Hunt 而言，主要有三項條件：\n「跌破 liquidity 聚集區」+「站回」+「站回時伴隨強力 taker」。\n\n2️⃣ 二次測試（Retest）完美命中\n承上，我當時在群內也一併分享了我個人對於 retest 區域的評估，\n如附圖所示：當時我給出的評估位置大約是在 65K，\n結果就在昨日下午 13:00~15:00 左右的時間，\nBTC 回調至最低約 64700 左右，隨後便開啟一波直線上漲🔥\n\n如果你是新朋友，或者是還不太熟悉 Stop Hunt 概念的朋友，\n可以參考本文文末的鏈接，所有使用到的概念，我都有寫過詳細的教程📚\n\n//\n\n🟡 接下來的交易計劃\n\n首先，65K 入場的多單目前基本沒有需要提前平倉的訊號，\n止盈目標設置邏輯和以往的每一次公開波段一樣：區間前高（72.3K）。\n之前我公開建倉的波段交易，我也會一併整理在本文文末，\n有需要的朋友可以自行參考。\n\n📖 個人合約波段系統中的 2 種進場方式\n<a href=\"https://nitter.net/market_beggar/status/1940221638618095904\">nitter.net/market_beggar/status/1…</a>\n\n再來是「新的 Retest 測試區域」評估：\n如附圖，我目前評估的 Retest 區域大約在 66.6K。\n但仍要再次提醒各位：Retest 不一定會出現，\n並且出現之後並不能無腦入場，實際情況也要根據屆時的線型 & 數據而定⚠️\n\n最後是群內很多人問的熱門問題：止盈止損的調整。\n我一直強調：我不收費、沒有 VIP 群、不帶單、不賣課，\n我的內容，一直都是基於我個人交易系統的所見所聞，\n旨在分享，如果你只是想抄答案，那你可能來錯地方了。\n\n回到正題，止盈止損的設置，我認為需根據每個人的風險耐受度而定；\n就我自己而言，目前的看法是：\n➡️ 止盈：如上述，依然是放在區間前高（range high）\n➡️ 止損：原先按照 liquidity range trading 的做法，\n是放在 Stop Hunt 產生的低點（62.5K）；但如今漲勢已被確認，\n我認為適時的上調止損是合理的，目前我是已調整到入場位置（65K），\n確保本次波段交易不會虧損，未來可能再次視情況上調，以鎖定利潤✅\n\n//\n\n🟡 結語\n\n距離上一次公開分享 + 操作波段交易，已有約半年的時間了，\n當時操作的是 ETH，揮出了一次完美的全壘打，恍如隔日啊。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\n如今，時隔半年，昨天又再次重返合約的戰場，\n公開和各位分享了一次波段交易，目前的狀況都很順利，\n此刻的我只想說一句：「我還沒老」😜\n\n最後想和各位說的是：\n\n➡️ 記得來我的群組玩！\n群內會不定期分享一些中小級別的看法，\n入群鏈接在我主頁的自介，0 門檻，全免費，只求一個熱鬧🔥\n\n➡️ 文章中用到的所有概念，我會全部一次性的整理在文末\n如果對於這些概念有任何不理解的地方，也可以直接在評論區詢問。\n\n以上就是今天的內容，希望對你有幫助，只求一個小心心❤️\n\n//\n\n📚 相關閱讀資源\n\nStop Hunt 流動性獵取概念說明\n<a href=\"https://nitter.net/market_beggar/status/1907261008059777200\">nitter.net/market_beggar/status/1…</a>\n\nTaker 強度分析法：成交量篇\n<a href=\"https://nitter.net/market_beggar/status/1902919628940247109\">nitter.net/market_beggar/status/1…</a>\n\nTaker 強度分析法：CVD 篇\n<a href=\"https://nitter.net/market_beggar/status/1905088759550681393\">nitter.net/market_beggar/status/1…</a>\n\nRektProof 區間交易模型中譯 & 個人見解\n<a href=\"https://nitter.net/market_beggar/status/1942398983831445608\">nitter.net/market_beggar/status/1…</a>\n\n詳細說明 Maker 強度分析方法論：以 ETH 為例\n<a href=\"https://nitter.net/market_beggar/status/1952542181044179169\">nitter.net/market_beggar/status/1…</a>\n\nLiquidity 交易系統：分 K 公開實戰帖\n<a href=\"https://nitter.net/market_beggar/status/1919907923926692282\">nitter.net/market_beggar/status/1…</a>\n\nBTC 公開波段案例（2025 年 7 月發布）\n<a href=\"https://nitter.net/market_beggar/status/1943127712870338711\">nitter.net/market_beggar/status/1…</a>",
-      "publishedAt": "2026-02-26T01:42:00.000Z",
-      "link": "https://x.com/market_beggar/status/2026835169404137648",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCDD1uBbAAATHBt.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "BTC 小級別走勢分析：潛在波段交易劇本🧾\n\n承接下方引文的內容，當時我曾和各位強調了一個概念：\n「BTC 即將開啟枯燥的寬幅震盪走勢」🪾\n\n如今 BTC 已如期震盪了約三週，從時間上來看，\n暴跌後的整理期至少都須維持 1 個月以上的時間，耐心為上。\n\n而今天我打算來和各位聊聊一些小級別的看法👇：\n\n💬 正文開始之前，先和新朋友說明：\n➡️ 本人主要採用的分析方式為 Liquidity、Taker、Maker\n➡️ 上述概念，我先前皆有出過詳細的教程，有需要者可參考文末\n\n//\n\n如附圖所示，我畫了一個示意圖，來說明我接下來有興趣的潛在劇本，\n重點摘要如下：\n➡️ BTC 在小級別形成了一個 Range（65K ~ 72.3K）\n➡️ 區間低點（Range Low）已被跌破\n➡️ 承上：觀察是否有出現 Stop Hunt 的跡象\n➡️ 承上：一招鮮，監測是否有「跌破 + 站回 + 站回時伴隨強力 taker」\n➡️ 被動加分項：Maker 狀況正在開始改善\n\n順便補充一點，週一的針尖高點（最高價）和針尖低點（最低價），\n在我的交易系統中，常被視作 Liquidity 聚集區，\n因此我個人都會更傾向於自週二開始，再來做進一步觀察🔬\n\n如果接下來能夠站回區間之上，並且伴隨強力的 taker buy，\n那就可以滿足作多的條件；反之，只要有一項條件不滿足，\n我就沒有任何操作波段的意願。\n\n最後，雖然已經和各位嘮叨很多次，但我還是要再次強調：\n從「大級別」的築底角度而言，我的看法依然相同：\n➡️ 等待「最後一哆嗦」（nitter.net/market_beggar/status/2…）\n➡️ 築底時間至少先抓 1~3 個月，籌碼才可以完成充分換手\n➡️ 理想的築底結構 & 發展方向，可參考下方引文\n\n以上就是今天的內容，希望對各位有幫助；\n如果對於文中的概念有任何不理解的地方，可以參考文末附上的教程，\n如果看了依然不懂，也歡迎直接在下方評論區詢問🫡\n\n//\n\n📚 相關閱讀資源（我的波段交易系統概念詳述）\n\n全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲🔥\nnitter.net/market_beggar/status/1…\n\nStop Hunt 流動性獵取概念說明\nnitter.net/market_beggar/status/1…\n\n個人合約波段系統中的 2 種進場方式\nnitter.net/market_beggar/status/1…\n\nRektProof 模型中譯 & 個人見解\nnitter.net/market_beggar/status/1…\n\n詳細說明 Maker 強度分析方法論：以 ETH 為例\nnitter.net/market_beggar/status/1…\n\nTaker 強度分析法：成交量篇\nnitter.net/market_beggar/status/1…\n\nTaker 強度分析法：CVD 篇\nnitter.net/market_beggar/status/1…",
-        "link": "https://x.com/market_beggar/status/2026111387576287681",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHB4xkHkaoAARTeH.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
