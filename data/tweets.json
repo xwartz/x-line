@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T18:53:15.389Z",
+  "lastUpdated": "2026-03-06T19:16:58.266Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 473,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 508,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2029996386565968083",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "原油和VIX，不能再一致了",
+      "contentHtml": "原油和VIX，不能再一致了",
+      "publishedAt": "2026-03-06T19:03:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2029996386565968083",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCv-xk3aUAEcYF9.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2029992668940431684",
       "username": "TJ_Research",
@@ -11127,39 +11148,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHCEpGOjb0AAZut5.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026932734392938989",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "这些吊毛盯着我！",
-      "contentHtml": "这些吊毛盯着我！",
-      "publishedAt": "2026-02-26T08:09:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2026932734392938989",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCEckBmaMAEfC38.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "空套救！！！！！！！",
-        "link": "https://x.com/Bitfatty/status/2026925786259927058",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCEWQXHboAADq-Y.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
