@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T10:47:11.579Z",
+  "lastUpdated": "2026-03-06T11:11:20.165Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,36 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 527,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 510,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2029868167313657914",
+      "username": "elfa_ai",
+      "displayName": "Elfa AI",
+      "avatar": "https://nitter.net/pic/profile_images%2F1904807705027764224%2FZpgfaY9d_bigger.jpg",
+      "content": "Set it up in 2 steps:\n\n1. Download elfa-api.skill from go.elfa.ai/ai-trading-skills\n2. Drag it into Claude or add via Settings > Skills\n\nFree API key included at go.elfa.ai/claude-skills. 1,000 credits.\n\nYou can also access it on Clawdhub: clawhub.ai/nero-sensei/claud…\n\nAccess to Elfa's API endpoint and chat feature is now opened.",
+      "contentHtml": "Set it up in 2 steps:\n\n1. Download elfa-api.skill from <a href=\"https://go.elfa.ai/ai-trading-skills\">go.elfa.ai/ai-trading-skills</a>\n2. Drag it into Claude or add via Settings &gt; Skills\n\nFree API key included at <a href=\"http://go.elfa.ai/claude-skills\">go.elfa.ai/claude-skills</a>. 1,000 credits.\n\nYou can also access it on Clawdhub: <a href=\"https://clawhub.ai/nero-sensei/claude-ai-trading-skill\">clawhub.ai/nero-sensei/claud…</a>\n\nAccess to Elfa's API endpoint and chat feature is now opened.",
+      "publishedAt": "2026-03-06T10:34:00.000Z",
+      "link": "https://x.com/elfa_ai/status/2029868167313657914",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCuKVymaUAYqbUF.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "follow_clues",
+        "displayName": "Theclues"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2029865832902439316",
       "username": "coinkarma_",
@@ -11151,43 +11176,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHCBdED6aMAEaVCA.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026721358277914825",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "我有罪，多单仓位比空单小多了\n\n踏空牛回行情😭😭😭😭",
-      "contentHtml": "我有罪，多单仓位比空单小多了\n\n踏空牛回行情😭😭😭😭",
-      "publishedAt": "2026-02-25T18:10:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2026721358277914825",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCBcVCIaMAQjx_5.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "我真该死啊🤡\n对不起各位",
-        "link": "https://x.com/Bitfatty/status/2026466250738880848",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHB90TyxaoAA3w8U.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHB90TyraMAA0kJF.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
