@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T00:52:33.542Z",
+  "lastUpdated": "2026-03-06T01:35:58.942Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,96 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 529,
+    "newFetched": 526,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2029731394390290636",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "AI末日论的作者看多 $ORCL",
+      "contentHtml": "AI末日论的作者看多 <a href=\"/search?f=tweets&q=%23ORCL\">$ORCL</a>",
+      "publishedAt": "2026-03-06T01:30:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2029731394390290636",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCsNlcAXEAAbSwI.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029729469116871016",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "指标更新：这一次出现了三次背离，见底时间点是2月27日\n另外一个观察，从比率上其实我们都接近25年4月份了，这个指标和纳指的FORWARD P/E所在的位置匹配\n最后一个解释，白色线上涨，成长股跑赢价值股，RISK ON；白色线下跌，价值股跑赢成长股，RISK OFF。通常RISK OFF表现在指数下跌，这一次表现在非常明显的板块轮动。",
+      "contentHtml": "指标更新：这一次出现了三次背离，见底时间点是2月27日\n另外一个观察，从比率上其实我们都接近25年4月份了，这个指标和纳指的FORWARD P/E所在的位置匹配\n最后一个解释，白色线上涨，成长股跑赢价值股，RISK ON；白色线下跌，价值股跑赢成长股，RISK OFF。通常RISK OFF表现在指数下跌，这一次表现在非常明显的板块轮动。",
+      "publishedAt": "2026-03-06T01:23:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2029729469116871016",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCsLW_tbUAAB8Dl.jpg"
+        }
+      ],
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "轮动\n图1，成长股/价值股比率，准确说从上年10月29日开始\n图2，过去5年，除去22年，上两次轮动发生在24年的CARRY TRADE平仓，和25年1-4月。这个比率已进入超卖，上两次见底都是出现RSI底部背离现在还没看到。如果是同样的剧本，看到成长股一小波反弹，最早今晚谷歌的财报带动，然后再继续轮动到价值股，这个指标再往下才会轮动结束。如果有宏观事件，就参考22年的轮动时长，持续3个月以上了。\nP.S.这里的成长股都是大盘股，和罗素2000不是一个概念",
+        "link": "https://x.com/TJ_Research/status/2019092538741633453",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAU-9YpXYA4-5R_.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAU_vbpXYAkZe63.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029722718908854322",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Korean degen briefly fled to KOSPI as the the tradfi exit liquidity. after tradfi's circuit breaker'd 3 days straight (KOSPI down 20% in 3 days lol) , they will be back",
+      "contentHtml": "Korean degen briefly fled to KOSPI as the the tradfi exit liquidity. after tradfi's circuit breaker'd 3 days straight (KOSPI down 20% in 3 days lol) , they will be back",
+      "publishedAt": "2026-03-06T00:56:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2029722718908854322",
+      "quote": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+        "content": "",
+        "link": "https://x.com/DoveyWan/status/1984002524702240791",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG4iXto1awAAUriv.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2029661489653800972",
       "username": "hazenlee",
@@ -11033,83 +11118,6 @@
         "content": "New in Claude Code: Remote Control.\n\nKick off a task in your terminal and pick it up from your phone while you take a walk or join a meeting. \n\nClaude keeps running on your machine, and you can control the session from the Claude app or claude.ai/code",
         "link": "https://x.com/claudeai/status/2026418433911603668"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026589513246748851",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "行情差了，全员吃瓜🍉\n好消息是，最近的瓜质量明显高多了\n\n▶︎之前：孙哥前女友、币安废太子\n▶︎现在：加密行业最赚钱的公司涉及内幕交易、LUNA 崩盘背后推手另有其人、世界上最神秘最赚钱的量化交易巨头 Jane Street 在海外深陷舆论中心\n\nBTW：如果不清楚 Jane Street 是谁，这里有个简单图示👇",
-      "contentHtml": "行情差了，全员吃瓜🍉\n好消息是，最近的瓜质量明显高多了\n\n▶︎之前：孙哥前女友、币安废太子\n▶︎现在：加密行业最赚钱的公司涉及内幕交易、LUNA 崩盘背后推手另有其人、世界上最神秘最赚钱的量化交易巨头 Jane Street 在海外深陷舆论中心\n\nBTW：如果不清楚 Jane Street 是谁，这里有个简单图示👇",
-      "publishedAt": "2026-02-25T09:26:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2026589513246748851",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHB_kXsIaMAUJ8Nv.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026580088914063827",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "通常来说，到了这时应该没有多少人还敢头铁的逆势做多吧。除了合约，现货中该砸的也已经砸了大半，剩下的都是躺平装死了。\n\n因此，当我们看到有天量级的恐慌盘第2次出现（注意，是第2次！如图中标注2），此后空头的力量将会明显减弱，至少短期内一定会。\n\n所以，在二次回踩时，“已实现亏损（EARL）”已经不可能再超越前面的天花板。就比如昨天BTC跌至6.2w，EARL也只有781M（图1），同样的在21年6月末的二次回踩时也只有940M（图2）。\n\n我个人猜测，接下来BTC很有可能会在上下1w美元（模糊范围）的空间中长时间震荡或者缓跌。而这几乎会耗费掉整个熊市周期的大部分时间。\n\n直到所有人都麻木，没人再讨论行情，然后......再来第3次......那也许就是最后一次！会不会真的有？谁知道呢，反正传统剧本都是这么演的。",
-      "contentHtml": "通常来说，到了这时应该没有多少人还敢头铁的逆势做多吧。除了合约，现货中该砸的也已经砸了大半，剩下的都是躺平装死了。\n\n因此，当我们看到有天量级的恐慌盘第2次出现（注意，是第2次！如图中标注2），此后空头的力量将会明显减弱，至少短期内一定会。\n\n所以，在二次回踩时，“已实现亏损（EARL）”已经不可能再超越前面的天花板。就比如昨天BTC跌至6.2w，EARL也只有781M（图1），同样的在21年6月末的二次回踩时也只有940M（图2）。\n\n我个人猜测，接下来BTC很有可能会在上下1w美元（模糊范围）的空间中长时间震荡或者缓跌。而这几乎会耗费掉整个熊市周期的大部分时间。\n\n直到所有人都麻木，没人再讨论行情，然后......再来第3次......那也许就是最后一次！会不会真的有？谁知道呢，反正传统剧本都是这么演的。",
-      "publishedAt": "2026-02-25T08:48:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2026580088914063827",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHB_bvQ_aMAEiXQe.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHB_bxZzboAAmRBd.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "“大饼为啥涨了？” 朋友在问我，也看到很多小伙伴在问。看来在BTC月线5连阴之后，大家都习惯于每天打开账户资产都在缩水，甚至都不敢打开账户…所以“没跌”反而成了“不习惯”。\n\n就如我们昨天所说“派发减少，积累增多”，行情通常都会以震荡为主，即便任然还在熊市情绪下。因此，对普通交易者来说，这里做短线非常容易踏反节奏，磨损本金。当你以为还要继续跌时它就反弹了，当你以为他会继续反弹它又下去了…\n\n昨天我在62500挂单，结果就差了26.66u，一毛钱没接到 —— 充分说明，运气在交易中也是不可或缺的重要因素！\n\n在这里接现货，自己比较好做心理建设。能接到多少就多少，有反弹就做个波段拉低成本，没有反弹就拿着当长期仓位了。可能你会觉得是不是有点早？但我想说，谁能保证买到绝对的底部？\n\n当然，没接到也没关系，继续按计划执行，不要因为反弹了就去追，以我历经多轮熊市的经验，心态急躁是大忌！一步错，步步错，一旦深陷其中，就难以回头了。\n\n希望下一个顶峰，我们每个人都在！",
-        "link": "https://x.com/Murphychen888/status/2026524406336602325",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHB-pM9jaMAEyYoL.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHB-pM9cbcAAyviC.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2026577450319466881",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "看到两个小学生在罗森吃泡面，吃完了泡面坐那儿刷会儿手机。\n\n牛逼，对小学生来说，还有比这更爽的事情吗？",
-      "contentHtml": "看到两个小学生在罗森吃泡面，吃完了泡面坐那儿刷会儿手机。\n\n牛逼，对小学生来说，还有比这更爽的事情吗？",
-      "publishedAt": "2026-02-25T08:38:00.000Z",
-      "link": "https://x.com/taresky/status/2026577450319466881",
       "stats": {
         "replies": 0,
         "retweets": 0,
