@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T14:41:08.947Z",
+  "lastUpdated": "2026-03-07T14:53:27.767Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 525,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 485,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2030292637622886491",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
+      "content": "规模高达2万亿美元的美国私人信贷市场出现了流动性冲击：\n2月19日，Blue Owl Capital (OBDC II)，停止常规赎回，采用资产出售返还资本，涉及14亿资金出售；\n3月1日，Blackstone (BCRED)，赎回请求高达37亿美元，占比nav 7.9%，超出单季度赎回限制 5%；\n3月6日，BlackRock (HLEND)，赎回请求12亿，占比nav 9.3%, 超过5%限制\n$QQQ $CRCL",
+      "contentHtml": "规模高达2万亿美元的美国私人信贷市场出现了流动性冲击：\n2月19日，Blue Owl Capital (OBDC II)，停止常规赎回，采用资产出售返还资本，涉及14亿资金出售；\n3月1日，Blackstone (BCRED)，赎回请求高达37亿美元，占比nav 7.9%，超出单季度赎回限制 5%；\n3月6日，BlackRock (HLEND)，赎回请求12亿，占比nav 9.3%, 超过5%限制\n<a href=\"/search?f=tweets&q=%23QQQ\">$QQQ</a> <a href=\"/search?f=tweets&q=%23CRCL\">$CRCL</a>",
+      "publishedAt": "2026-03-07T14:41:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2030292637622886491",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2030270957982777428",
       "username": "Bitfatty",
@@ -11177,27 +11192,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHCH_2dKakAA79tO.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027164463586283785",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "What's the tipping culture like in China?\n\n中国的小费文化是什么样的？\n\n比如：吃一顿饭530元，结账的时候老板只收500元，那30元是老板给我的小费。\nFor example: I ate a meal for 530 yuan, but when I paid the bill, the owner only took 500 yuan. The 30 yuan was the tip the owner gave me.\n亲测有效之抹零",
-      "contentHtml": "What's the tipping culture like in China?\n\n中国的小费文化是什么样的？\n\n比如：吃一顿饭530元，结账的时候老板只收500元，那30元是老板给我的小费。\nFor example: I ate a meal for 530 yuan, but when I paid the bill, the owner only took 500 yuan. The 30 yuan was the tip the owner gave me.\n亲测有效之抹零",
-      "publishedAt": "2026-02-26T23:30:00.000Z",
-      "link": "https://x.com/hazenlee/status/2027164463586283785",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCHvPNHaoAABNVH.jpg"
         }
       ],
       "stats": {
