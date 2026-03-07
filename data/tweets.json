@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T07:12:26.260Z",
+  "lastUpdated": "2026-03-07T07:26:43.916Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,57 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 464,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 524,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2030181162652766580",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "中场休息，场外辅导",
+      "contentHtml": "中场休息，场外辅导",
+      "publishedAt": "2026-03-07T07:18:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2030181162652766580",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCynAKNaQAEjBTf.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "《找不到进去的地方》  😱",
+        "link": "https://x.com/Bitfatty/status/2029988532249641081"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030181086584787258",
+      "username": "QiangWei1013",
+      "displayName": "蔓延的蔷薇",
+      "avatar": "https://nitter.net/pic/profile_images%2F1502431380642627584%2F3aHu1ONT_bigger.jpg",
+      "content": "哎现在怎么到处都在教女人什么抽离、祛魅、别上头、别动情、别相信。好像谁先冷漠谁高级，谁先麻木谁就赢？\n我永远恋爱脑。别管感性还是理性，时刻保持恋爱的能力，时刻相信爱，时刻沉浸其中\n都教了些什么啊。让你们对感情祛魅对男人祛魅对爱祛魅？其实你祛的那部分，正是人类的奢侈品、最高深的情怀",
+      "contentHtml": "哎现在怎么到处都在教女人什么抽离、祛魅、别上头、别动情、别相信。好像谁先冷漠谁高级，谁先麻木谁就赢？\n我永远恋爱脑。别管感性还是理性，时刻保持恋爱的能力，时刻相信爱，时刻沉浸其中\n都教了些什么啊。让你们对感情祛魅对男人祛魅对爱祛魅？其实你祛的那部分，正是人类的奢侈品、最高深的情怀",
+      "publishedAt": "2026-03-07T07:17:00.000Z",
+      "link": "https://x.com/QiangWei1013/status/2030181086584787258",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2030171013045272778",
       "username": "hazenlee",
@@ -11120,48 +11166,6 @@
       "contentHtml": "说两个非市场共识：\n英伟达的估值，起码定价了很多AI泡沫论。\n微软能把Copilot做好，切会成为非常成功的产品。",
       "publishedAt": "2026-02-26T20:50:00.000Z",
       "link": "https://x.com/TJ_Research/status/2027124139765420104",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027092735833071866",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "Jane Street: 今天跌不能再怪我了吧\nNVDIA: 怪我咯",
-      "contentHtml": "Jane Street: 今天跌不能再怪我了吧\nNVDIA: 怪我咯",
-      "publishedAt": "2026-02-26T18:45:00.000Z",
-      "link": "https://x.com/hazenlee/status/2027092735833071866",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027087972693340264",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "观察了一天英伟达财报利好但是不涨\n前两天的感受得出的预判正在逐渐得到求证 ai确实见顶了 利好不涨\n大胆假设 小心求证",
-      "contentHtml": "观察了一天英伟达财报利好但是不涨\n前两天的感受得出的预判正在逐渐得到求证 ai确实见顶了 利好不涨\n大胆假设 小心求证",
-      "publishedAt": "2026-02-26T18:26:00.000Z",
-      "link": "https://x.com/hazenlee/status/2027087972693340264",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCGpw2daAAAphHq.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "ai生成一篇文章只需要几十秒，但是看一篇文章要几分钟十几分钟，你真的有耐心看完又臭又长的ai文吗？这x去掉嘴撸现在全是ai文章刷屏，API拔了现在clawd已经把人降智了。什么人都开始畅谈ai了，ai见顶了。未来稀缺的不是ai，是注意力。",
-        "link": "https://x.com/hazenlee/status/2026069184179044427"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
