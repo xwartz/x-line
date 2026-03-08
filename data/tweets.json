@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T14:41:23.280Z",
+  "lastUpdated": "2026-03-08T14:53:38.021Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,36 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 470,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 508,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2030656100874461197",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
+      "content": "友情提示，hyperliquid上的usoil-usdh这个交易对，对应的标的并不是美国的原油期货，而是uso这个基金\nuso基金是一个基于原油期货合约的 etf，持有近期到期的 wti原油期货合约,并不断滚动到下一个月的合约\n这周五uso的收盘价是108.77，按目前115也就是说周末涨了5.7%\n同样的cl-usdc周末上涨4.6%，目前在95.1美元\n千万别以为原油期货周末已经涨到了115美元，两者不是一个标的\n$CL $USO",
+      "contentHtml": "友情提示，hyperliquid上的usoil-usdh这个交易对，对应的标的并不是美国的原油期货，而是uso这个基金\nuso基金是一个基于原油期货合约的 etf，持有近期到期的 wti原油期货合约,并不断滚动到下一个月的合约\n这周五uso的收盘价是108.77，按目前115也就是说周末涨了5.7%\n同样的cl-usdc周末上涨4.6%，目前在95.1美元\n千万别以为原油期货周末已经涨到了115美元，两者不是一个标的\n<a href=\"/search?f=tweets&q=%23CL\">$CL</a> <a href=\"/search?f=tweets&q=%23USO\">$USO</a>",
+      "publishedAt": "2026-03-08T14:45:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2030656100874461197",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC5VNyBboAAfPTi.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC5WpOEbwAA5vlv.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2030626320963834062",
       "username": "daidaibtc",
@@ -11111,27 +11136,6 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n有时候我甚至想私信去问一问，为什么你们在关注这种蠢货？",
       "publishedAt": "2026-02-28T02:52:00.000Z",
       "link": "https://x.com/taresky/status/2027577685875298409",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027577162396791138",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "XAUT 近三周以来金额最大的单笔交易💸 —— 由 Tether 财库地址 4 小时前向英国资管公司 Abraxas Capital Mgmt 转移 28723 枚 $XAUT ，价值 1.51 亿美元\n\n冷知识：Heka Funds (Abraxas Capital) 是 Tether 最大和最重要的机构客户之一，曾一度持有 $USDT 总发行量的 1.5%；目前 Tether 公开的链上地址群中，他们也是交互金额 TOP2 的实体\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-      "contentHtml": "XAUT 近三周以来金额最大的单笔交易💸 —— 由 Tether 财库地址 4 小时前向英国资管公司 Abraxas Capital Mgmt 转移 28723 枚 <a href=\"/search?f=tweets&q=%23XAUT\">$XAUT</a> ，价值 1.51 亿美元\n\n冷知识：Heka Funds (Abraxas Capital) 是 Tether 最大和最重要的机构客户之一，曾一度持有 <a href=\"/search?f=tweets&q=%23USDT\">$USDT</a> 总发行量的 1.5%；目前 Tether 公开的链上地址群中，他们也是交互金额 TOP2 的实体\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x22dDc64A5169A7F67cd8f444B3b48883f95FBC85\">intel.arkm.com/explorer/addr…</a>\n\n本文由 <a href=\"/search?f=tweets&q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
-      "publishedAt": "2026-02-28T02:50:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2027577162396791138",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCNmrBpbEAA48tb.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
