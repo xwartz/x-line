@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T09:55:30.464Z",
+  "lastUpdated": "2026-03-08T10:07:16.654Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,36 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 452,
-    "successUsers": 22,
-    "failedUsers": 5
+    "newFetched": 489,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2030584313511850347",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
+      "content": "有点神奇，同一个模型gpt-5.4，同一个问题\n在openai官网对话，问几次都给不出正确答案，磨磨唧唧一堆废话\n但问接入了gpt-5.4的openclaw，一次性就给出了正确答案\n这是为啥？\n#GPT54",
+      "contentHtml": "有点神奇，同一个模型gpt-5.4，同一个问题\n在openai官网对话，问几次都给不出正确答案，磨磨唧唧一堆废话\n但问接入了gpt-5.4的openclaw，一次性就给出了正确答案\n这是为啥？\n<a href=\"/search?f=tweets&q=%23GPT54\">#GPT54</a>",
+      "publishedAt": "2026-03-08T10:00:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2030584313511850347",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC4Vg1HbMAA6xy2.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC4Vk5DbUAEEw96.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2030576051957764502",
       "username": "OwenJin12",
@@ -11095,27 +11120,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027425592040419591",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "看到这种行为真的挺下头的\n我不管是嘲讽龙虾之父还是抖机灵\n真的不理解身居高位为什么还时不时在公开场合抖机灵\n咱就说你的地位也是crypto给的 吃大哥喝大哥吃完大哥骂大哥\n这种追涨杀跌的行为和话术和华子坐一桌\n投资界从夯到拉排名：\n夯 不在你巅峰时慕名而来，亦不在你低谷时转身离去 高位止盈低位买入 高抛低吸\n人上人 一直做多\nNPC 一直做空\n拉完了 高吸低抛 追涨杀跌 小红书姐妹PRO MAX2TB",
-      "contentHtml": "看到这种行为真的挺下头的\n我不管是嘲讽龙虾之父还是抖机灵\n真的不理解身居高位为什么还时不时在公开场合抖机灵\n咱就说你的地位也是crypto给的 吃大哥喝大哥吃完大哥骂大哥\n这种追涨杀跌的行为和话术和华子坐一桌\n投资界从夯到拉排名：\n夯 不在你巅峰时慕名而来，亦不在你低谷时转身离去 高位止盈低位买入 高抛低吸\n人上人 一直做多\nNPC 一直做空\n拉完了 高吸低抛 追涨杀跌 小红书姐妹PRO MAX2TB",
-      "publishedAt": "2026-02-27T16:48:00.000Z",
-      "link": "https://x.com/hazenlee/status/2027425592040419591",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCLc1BYacAEgxS1.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
