@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T15:25:18.342Z",
+  "lastUpdated": "2026-03-08T15:39:59.716Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 466,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 448,
+    "successUsers": 22,
+    "failedUsers": 5
   },
   "tweets": [
     {
@@ -702,6 +702,31 @@
         "displayName": "Murphy",
         "content": "x.com/i/article/203027869871…",
         "link": "https://x.com/Murphychen888/status/2030459783913124318"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030493668751393246",
+      "username": "TiezhuCrypto",
+      "displayName": "铁柱哥在CRYPTO",
+      "avatar": "https://nitter.net/pic/profile_images%2F1806869533002797056%2FSJVZLyx1_bigger.jpg",
+      "content": "非常好的总结。\n\n银行业和稳定币发行围绕利息的博弈，其实跟当年的出租车和网约车的竞争是类似的。因为银行业和出租车行业都是特许经营的牌照生意。因此，最简单的排挤竞争对手的方式，就是想办法把对方定义成违法。\n\n银行的特许经营从最底层的商业模式上其实是围绕账户构建的整合性优势，账户即支付，账户即储蓄。更进一步来说，银行的商业模式，就是拿账户的特许经营优势，吸收低成本资金去赚钱。其资产负债表全部是建立在账户特许经营这个基础上。\n\n稳定币其实是把这个东西给拆掉了。发行方、钱包、链和协议对应的是不同层面的东西。\n根本上说来，稳定币以及围绕稳定币的体系，挑战的是银行的账户作为一切金融入口的独占体系。",
+      "contentHtml": "非常好的总结。\n\n银行业和稳定币发行围绕利息的博弈，其实跟当年的出租车和网约车的竞争是类似的。因为银行业和出租车行业都是特许经营的牌照生意。因此，最简单的排挤竞争对手的方式，就是想办法把对方定义成违法。\n\n银行的特许经营从最底层的商业模式上其实是围绕账户构建的整合性优势，账户即支付，账户即储蓄。更进一步来说，银行的商业模式，就是拿账户的特许经营优势，吸收低成本资金去赚钱。其资产负债表全部是建立在账户特许经营这个基础上。\n\n稳定币其实是把这个东西给拆掉了。发行方、钱包、链和协议对应的是不同层面的东西。\n根本上说来，稳定币以及围绕稳定币的体系，挑战的是银行的账户作为一切金融入口的独占体系。",
+      "publishedAt": "2026-03-08T03:59:00.000Z",
+      "link": "https://x.com/TiezhuCrypto/status/2030493668751393246",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "quote": {
+        "username": "DrJStrategy",
+        "displayName": "James E. Thorne",
+        "content": "For the record. \n\nBanks’ War on Stablecoin Yields Is a Self‑Defeating Cartel Play\n\nThe banks’ standoff over the Digital Asset Market Clarity Act (CLARITY Act) has moved from caution to farce. They are fighting the one bill that would actually constrain the yield‑bearing stablecoin products they claim will drain their deposits.\n\nBanks have spent months trying to gut provisions that let ordinary Americans earn modest returns, 2-4%, on digital dollars through transactional incentives and liquidity rewards. \n\nTheir fear is clear: if people can hold a dollar‑denominated token in a wallet and earn a real return, hundreds of billions could leak out of low‑yield deposits, squeezing margins and weakening their privileged funding model.\n\nThat concern might be defensible, if their strategy weren’t completely backwards. By blowing up the White House’s narrow compromise and stalling CLARITY past the March 1 deadline, the banks are preserving the very loophole they say terrifies them. Under the existing GENIUS Act, issuers can’t pay interest, but exchanges and wallets can still offer “rewards” on those same stablecoins. That grey zone is exactly what CLARITY is designed to bring inside the perimeter.\n\nThe administration’s offer was hardly radical: ban passive “park‑and‑earn” yield that directly mimics deposits, but allow activity‑based rewards tied to payments, transfers, and liquidity. That protects core funding while letting digital‑asset markets remain competitive. The banking lobby’s response was to demand a near‑total prohibition, effectively conscripting regulators to preserve banks’ ability to pay near‑zero on deposits while shutting down anyone who offers a market‑like return.\n\nAt that point this is no longer prudential oversight; it is naked protectionism. It keeps consumers trapped in a rigged game where incumbents hoard cheap capital and innovation is forced into legal grey zones or offshore. President Trump is right to say the banks are holding the “Crypto Agenda” hostage. Passing CLARITY with the compromise intact, ban idle yield, permit genuine usage‑based rewards—is the only coherent way to protect deposits without strangling a market that already exists.\n\nIf banks kill that outcome, they may get exactly what they fear: stablecoin rewards growing anyway, just further from U.S. law and closer to the edge of the system, while Americans finally see how little value their so‑called guardians of stability are actually willing to deliver.\n\nAs President Trump put it, “We’re not going to let the banks strangle innovation just to protect a broken model, Americans deserve real choice, real yield, and a fair system that works for them, not just for Wall Street.”",
+        "link": "https://x.com/DrJStrategy/status/2030401109433417946"
       },
       "stats": {
         "replies": 0,
@@ -10681,10 +10706,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHCO7u5Ga8AArOmC.png"
         }
       ],
-      "retweet": {
-        "username": "BensonTWN",
-        "displayName": "Benson Sun"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11123,21 +11144,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027577685875298409",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "#Crypto \n\n有时候我甚至想私信去问一问，为什么你们在关注这种蠢货？",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n有时候我甚至想私信去问一问，为什么你们在关注这种蠢货？",
-      "publishedAt": "2026-02-28T02:52:00.000Z",
-      "link": "https://x.com/taresky/status/2027577685875298409",
       "stats": {
         "replies": 0,
         "retweets": 0,
