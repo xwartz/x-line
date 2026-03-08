@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T09:27:36.925Z",
+  "lastUpdated": "2026-03-08T09:43:46.520Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 489,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 428,
+    "successUsers": 21,
+    "failedUsers": 6
   },
   "tweets": [
     {
@@ -103,6 +103,27 @@
       "contentHtml": "最近的交易发现：主线从金属转向能源，油价作为风险偏好指标\n\n1.利率曲线的变化对失业率、非农就业、通胀的敏感度降低；\n2.美联储近期发言对战争的影响，态度比较模糊不清，鹰派的变鸽了，鸽派的变鹰了，总之集体转为中性；\n3.BTC现在回落在67000，这是个什么价格呢？\n2024年11月初特朗普胜选时BTC的计价水平。现在来到了中期选举年，涨幅刚好回吐重新回到了这个价格。\n\n在这个关键节点下，油价成为了短期内很好的风险偏好辅助指标（如果战争只是短期的话）。油价60-70是一个中性区间，大于70则利率曲线易高难低，整体风险偏好下行；反正若轮回60-70则个人倾向于做多风险资产美股BTC，有大量的空头position unwinding。",
       "publishedAt": "2026-03-08T09:27:00.000Z",
       "link": "https://x.com/OwenJin12/status/2030576051957764502",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030576251921158588",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "最近的交易发现：主线从金属转向能源，油价作为风险偏好指标\n\n1.利率曲线的变化对失业率、非农就业、通胀的敏感度降低；\n2.美联储近期发言对战争的影响，态度比较模糊不清，鹰派的变鸽了，鸽派的变鹰了，总之集体转为中性；\n3.BTC现在回落在67000，这是个什么价格呢？\n2024年11月初特朗普胜选时BTC的计价水平。现在来到了中期选举年，涨幅刚好回吐重新回到了这个价格。\n\n在这个关键节点下，油价成为了短期内很好的风险偏好辅助指标（如果战争只是短期的话）。油价60-70是一个中性区间，大于70则利率曲线易高难低，整体风险偏好下行；反正若轮回60-70则个人倾向于做多风险资产美股BTC，有大量的空头position unwinding。",
+      "contentHtml": "最近的交易发现：主线从金属转向能源，油价作为风险偏好指标\n\n1.利率曲线的变化对失业率、非农就业、通胀的敏感度降低；\n2.美联储近期发言对战争的影响，态度比较模糊不清，鹰派的变鸽了，鸽派的变鹰了，总之集体转为中性；\n3.BTC现在回落在67000，这是个什么价格呢？\n2024年11月初特朗普胜选时BTC的计价水平。现在来到了中期选举年，涨幅刚好回吐重新回到了这个价格。\n\n在这个关键节点下，油价成为了短期内很好的风险偏好辅助指标（如果战争只是短期的话）。油价60-70是一个中性区间，大于70则利率曲线易高难低，整体风险偏好下行；反正若轮回60-70则个人倾向于做多风险资产美股BTC，有大量的空头position unwinding。",
+      "publishedAt": "2026-03-08T09:27:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2030576251921158588",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC4OU7-aIAA7mNi.jpg"
+        }
+      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11095,33 +11116,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHCLc1BYacAEgxS1.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027425242864599171",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "Future of investing is 3 ppl shop managing billions $ with a rack of mac studios & NVDA DGX spark\n\nThe setup we used: Master agent locally hosted with local model (Mistral L2), and bunch of daemons in local dockers talk with cloud LLMs with dedicated skill bundles. Master do task decomposition, orchestration, delegation, synthesize, and final rec\n\nSome (non exhaustive) opsec tips: before delegating always run sanitization at the master, its local LLM parses daemons' output through a defined schema to avoid prompt injection. make sure network Isolation among daemons, and only snd credential/api keys as vars at containter start, no agentic logins will blend with ur own logins. other typical devops hygiene works as the master is your main devop .. the list goes on",
-      "contentHtml": "Future of investing is 3 ppl shop managing billions $ with a rack of mac studios & NVDA DGX spark\n\nThe setup we used: Master agent locally hosted with local model (Mistral L2), and bunch of daemons in local dockers talk with cloud LLMs with dedicated skill bundles. Master do task decomposition, orchestration, delegation, synthesize, and final rec\n\nSome (non exhaustive) opsec tips: before delegating always run sanitization at the master, its local LLM parses daemons' output through a defined schema to avoid prompt injection. make sure network Isolation among daemons, and only snd credential/api keys as vars at containter start, no agentic logins will blend with ur own logins. other typical devops hygiene works as the master is your main devop .. the list goes on",
-      "publishedAt": "2026-02-27T16:47:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2027425242864599171",
-      "quote": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-        "content": "Spent 2 weeks built a team of investment analyst agents using @openclaw, iterated dedicated skills bundles for each one. after they have been talking with each for a week on diff venture side requests, now i just trop the deck url into the group chat and they run pitch meeting prep better than anyone, surfacing all critical signals and suggest how to prob\n\n Cross-pollination of skills is also insane, @allenday  built a \"macro event simulator\" for fun and now our investment agents learned it to run solid investment simulation. all cost $200/month\n\nSince the Industrial Revolution, “high economic growth = high employment” was somehow the default mental model for new workforce. Only the big crash/depression/stagnation could kill jobs. That assumption is breaking very fast. I honestly dont see any needs to hire analyst level job at all, unless they might have prop insight/taste/contrarian view or access. \n\nOver the next few decade as we may be entering an era of ultra-high growth, ultra-high unemployment, unless “work” itself, and the structure of talent supply, can adapt fast\n\nThe future is here, just not evenly distributed",
-        "link": "https://x.com/DoveyWan/status/2027010939267211580",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCFjs1zb0AAXN-8.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
