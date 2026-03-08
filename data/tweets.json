@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T19:28:00.598Z",
+  "lastUpdated": "2026-03-08T19:38:39.969Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 423,
-    "successUsers": 21,
-    "failedUsers": 6
+    "newFetched": 486,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
     {
@@ -243,6 +243,37 @@
           "url": "https://nitter.net/pic/orig/media%2FHC5WpOEbwAA5vlv.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030635307624980583",
+      "username": "TiezhuCrypto",
+      "displayName": "铁柱哥在CRYPTO",
+      "avatar": "https://nitter.net/pic/profile_images%2F1806869533002797056%2FSJVZLyx1_bigger.jpg",
+      "content": "两位大佬都讲的很具体，但仍然有不少人认为这就是新的次贷危机，实际上则并非如此。我详细补充一些背景知识。\n1、基本的结论：目前的私募信贷是流动性危机，并不是底层资产的信用危机。尽管因为Ai恐慌导致软件行业暴跌，但是从信用评级上，软件行业的高现金流模式下，下调的并不多。\n\n2、私募信贷高速发展的背景：\n1）主因还是08年以后，巴三协议大幅度提高了银行资本金的要求，导致非银放贷开始迅速填补这个空白。本质就是监管套利的产物。\n2）08年以后，长期的低利率环境，保险、养老基金这种面临比较大的资产配置压力，固收产品的低利率难以覆盖保单刚性兑付的需求。于是私募信贷的高收益，就成为了这类机构追逐的主要标的。也是目前美国私募信贷最大的持有方，但整体比例依然不超过5%。\n3）从需求角度来说，私募信贷有一个好处，就是用途和贷款条款的灵活性，而且还不需要披露。那么，比如杠杆收购就会去找这样的资金去操作。\n\n3、基本的运作模式\n1）资金方主要就是保险、养老金、主权基金、家办这些募资；主做私募信贷的机构一般是私募信贷基金（封闭式）、BDC（公开募资版本的私募信贷）、非上市的BDC（富裕个人投资者，季度赎回）。还有一类就是私募信贷CLO，这块比例并不大。\n\n2）杠杆模式。企业端，一般按照债务和EBITDA比例，中位数大概为5倍。通俗地说，按照全部一年全部现金流还，需要还五年才能还完债务本金。 私募信贷机构本身也会向银行贷款来放大资金，这部分通常大概2倍左右杠杆。目前粗略预估，整个美国大银行这块有3000亿（广义口径）。\n\n4、风险传导和次贷危机的区别\n\n首先就是杠杆倍数是不一样，次贷危机多层衍生品嵌套下来高达十几倍。关键的是，很多银行直接持有次贷机构产品，敞口非常高。\n\n但是最重要的区别还是会计意义上的计价方式。次贷危机就是按照市价来算，信贷则不是，是按照信用模型来算。区别就是在于前者很容易形成负螺旋，会让银行被迫缩减资产负债表。后者并不会看市价，因此形成类似估值崩塌式的连环清算。2025年美联储做过压力测试，基本上在极端情境下，也不构成对银行体系的重大危机。\n\n5、风险有多大\n1）08年以后，尤其是经历过加息周期后，贷款机构在杠杆上并不激进。杠杆收购里面的股权出资比例仍然高于此前的水平。但真正危险的恐怕并不是软件，而是顺周期的行业，比如汽车领域。\n\n2）银行层面，其持有的NBFI贷款其实绝大多数还是商业地产为主。大型银行其实也在分散并控制私募信贷的风险。\n\n3）虽然银行直接层面的风险看起来是可控。但这些风险并不是消失了，而是转移到非银机构了。如果底层资产违约率进一步上升，一方面是私募信贷基金和CLO等结构化产品的压力将迅速累积，可能触发赎回限制；另一方面，由于银行在这些体系中仍通过CLO持仓、融资等方式保持连接，压力最终仍可能通过资产价格、融资渠道或信贷供给的收缩重新传导回银行体系，并对实体经济的融资环境产生更广泛的影响。\n\n4）还有一个风险就是保险行业，如果大规模的信用评级下调，也会冲击资本充足率，对保险流动性压力也会有实质性压力。",
+      "contentHtml": "两位大佬都讲的很具体，但仍然有不少人认为这就是新的次贷危机，实际上则并非如此。我详细补充一些背景知识。\n1、基本的结论：目前的私募信贷是流动性危机，并不是底层资产的信用危机。尽管因为Ai恐慌导致软件行业暴跌，但是从信用评级上，软件行业的高现金流模式下，下调的并不多。\n\n2、私募信贷高速发展的背景：\n1）主因还是08年以后，巴三协议大幅度提高了银行资本金的要求，导致非银放贷开始迅速填补这个空白。本质就是监管套利的产物。\n2）08年以后，长期的低利率环境，保险、养老基金这种面临比较大的资产配置压力，固收产品的低利率难以覆盖保单刚性兑付的需求。于是私募信贷的高收益，就成为了这类机构追逐的主要标的。也是目前美国私募信贷最大的持有方，但整体比例依然不超过5%。\n3）从需求角度来说，私募信贷有一个好处，就是用途和贷款条款的灵活性，而且还不需要披露。那么，比如杠杆收购就会去找这样的资金去操作。\n\n3、基本的运作模式\n1）资金方主要就是保险、养老金、主权基金、家办这些募资；主做私募信贷的机构一般是私募信贷基金（封闭式）、BDC（公开募资版本的私募信贷）、非上市的BDC（富裕个人投资者，季度赎回）。还有一类就是私募信贷CLO，这块比例并不大。\n\n2）杠杆模式。企业端，一般按照债务和EBITDA比例，中位数大概为5倍。通俗地说，按照全部一年全部现金流还，需要还五年才能还完债务本金。 私募信贷机构本身也会向银行贷款来放大资金，这部分通常大概2倍左右杠杆。目前粗略预估，整个美国大银行这块有3000亿（广义口径）。\n\n4、风险传导和次贷危机的区别\n\n首先就是杠杆倍数是不一样，次贷危机多层衍生品嵌套下来高达十几倍。关键的是，很多银行直接持有次贷机构产品，敞口非常高。\n\n但是最重要的区别还是会计意义上的计价方式。次贷危机就是按照市价来算，信贷则不是，是按照信用模型来算。区别就是在于前者很容易形成负螺旋，会让银行被迫缩减资产负债表。后者并不会看市价，因此形成类似估值崩塌式的连环清算。2025年美联储做过压力测试，基本上在极端情境下，也不构成对银行体系的重大危机。\n\n5、风险有多大\n1）08年以后，尤其是经历过加息周期后，贷款机构在杠杆上并不激进。杠杆收购里面的股权出资比例仍然高于此前的水平。但真正危险的恐怕并不是软件，而是顺周期的行业，比如汽车领域。\n\n2）银行层面，其持有的NBFI贷款其实绝大多数还是商业地产为主。大型银行其实也在分散并控制私募信贷的风险。\n\n3）虽然银行直接层面的风险看起来是可控。但这些风险并不是消失了，而是转移到非银机构了。如果底层资产违约率进一步上升，一方面是私募信贷基金和CLO等结构化产品的压力将迅速累积，可能触发赎回限制；另一方面，由于银行在这些体系中仍通过CLO持仓、融资等方式保持连接，压力最终仍可能通过资产价格、融资渠道或信贷供给的收缩重新传导回银行体系，并对实体经济的融资环境产生更广泛的影响。\n\n4）还有一个风险就是保险行业，如果大规模的信用评级下调，也会冲击资本充足率，对保险流动性压力也会有实质性压力。",
+      "publishedAt": "2026-03-08T13:22:00.000Z",
+      "link": "https://x.com/TiezhuCrypto/status/2030635307624980583",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "quote": {
+        "username": "PhyrexNi",
+        "displayName": "Phyrex",
+        "content": "我也阅读过 武兄 的分析，非常同意 武兄 的观点，目前贝莱德和黑石并没有出现核心的问题，赎回还是可以的，都是在正常的赎回范围内，只是用户开始出现了更高的赎回申请。\n\n目前不论是贝莱德还是黑石，都还没有出现真正意义上的核心信用问题，赎回本身也不是完全失控，而是在产品规则允许的框架内处理。贝莱德 HLEND 这次是一季度赎回申请约占净值 9.3%，超过了原本 5% 的季度上限。黑石 BCRED 收到的赎回申请大约是基金份额的 7.9%，黑石则通过提高回购额度和内部注资来应对。也就是说，现在的问题不是发生暴雷或挤兑，而是投资者想走的人明显变多了。\n\n所以我真正想聊的，也不是贝莱德和黑石现在是不是已经出了大问题，而是为什么在还没有出现核心信用事件的时候，申请退出的人会突然创纪录地变多？这件事本身，就是风险的一部分。\n\n对于私募信贷产品来说，投资者的担忧往往都是从账面上的净值、利息收入和违约率，这些数据反应出来的。美国私募信贷借款人的违约率在 2025 年已经升到 9.2% 的纪录高位，市场对底层借款人质量的担心本来就在上升。上市 BDC 的股价也已经明显折价，中位数大约跌到账面价值的 73%。\n\n这也是为什么现在机构在做空信贷 ETF 的原因。甚至 Fitch 也显示，永久型非上市 BDC 在 2025 年四季度平均赎回率已从 1.6% 升到 4.5%。\n\n美国经历过多次的信贷危机了，对于机构来说，信贷风险这玩意要么就是你好我好，要么就是拖累死一堆人，现在在做空信贷并不是认为一定会暴雷，而是在防范可能会出现的危险，而且这种危险随着利率的高位确实会逐渐放大。\n\n所以我个人并不觉得这是在危言耸听，当然也有可能是我能力不足，当最后也有可能什么都没发生，或者美联储更快降息、再融资窗口重新打开，把这些压力重新压回去，但对于已经来到历史高位的信贷 ETF 对冲仓位来说，我更愿意做的，是把可能出现的问题讲清楚，而不是告诉大家现在一切都风平浪静。\n\n毕竟机构是在用真金白银来做空（对冲），而不是嘴上说说。",
+        "link": "https://x.com/PhyrexNi/status/2030567076134555943",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHC4DEsqaUAANLUF.png"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -805,6 +836,31 @@
         "displayName": "Murphy",
         "content": "x.com/i/article/203027869871…",
         "link": "https://x.com/Murphychen888/status/2030459783913124318"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030493668751393246",
+      "username": "TiezhuCrypto",
+      "displayName": "铁柱哥在CRYPTO",
+      "avatar": "https://nitter.net/pic/profile_images%2F1806869533002797056%2FSJVZLyx1_bigger.jpg",
+      "content": "非常好的总结。\n\n银行业和稳定币发行围绕利息的博弈，其实跟当年的出租车和网约车的竞争是类似的。因为银行业和出租车行业都是特许经营的牌照生意。因此，最简单的排挤竞争对手的方式，就是想办法把对方定义成违法。\n\n银行的特许经营从最底层的商业模式上其实是围绕账户构建的整合性优势，账户即支付，账户即储蓄。更进一步来说，银行的商业模式，就是拿账户的特许经营优势，吸收低成本资金去赚钱。其资产负债表全部是建立在账户特许经营这个基础上。\n\n稳定币其实是把这个东西给拆掉了。发行方、钱包、链和协议对应的是不同层面的东西。\n根本上说来，稳定币以及围绕稳定币的体系，挑战的是银行的账户作为一切金融入口的独占体系。",
+      "contentHtml": "非常好的总结。\n\n银行业和稳定币发行围绕利息的博弈，其实跟当年的出租车和网约车的竞争是类似的。因为银行业和出租车行业都是特许经营的牌照生意。因此，最简单的排挤竞争对手的方式，就是想办法把对方定义成违法。\n\n银行的特许经营从最底层的商业模式上其实是围绕账户构建的整合性优势，账户即支付，账户即储蓄。更进一步来说，银行的商业模式，就是拿账户的特许经营优势，吸收低成本资金去赚钱。其资产负债表全部是建立在账户特许经营这个基础上。\n\n稳定币其实是把这个东西给拆掉了。发行方、钱包、链和协议对应的是不同层面的东西。\n根本上说来，稳定币以及围绕稳定币的体系，挑战的是银行的账户作为一切金融入口的独占体系。",
+      "publishedAt": "2026-03-08T03:59:00.000Z",
+      "link": "https://x.com/TiezhuCrypto/status/2030493668751393246",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "quote": {
+        "username": "DrJStrategy",
+        "displayName": "James E. Thorne",
+        "content": "For the record. \n\nBanks’ War on Stablecoin Yields Is a Self‑Defeating Cartel Play\n\nThe banks’ standoff over the Digital Asset Market Clarity Act (CLARITY Act) has moved from caution to farce. They are fighting the one bill that would actually constrain the yield‑bearing stablecoin products they claim will drain their deposits.\n\nBanks have spent months trying to gut provisions that let ordinary Americans earn modest returns, 2-4%, on digital dollars through transactional incentives and liquidity rewards. \n\nTheir fear is clear: if people can hold a dollar‑denominated token in a wallet and earn a real return, hundreds of billions could leak out of low‑yield deposits, squeezing margins and weakening their privileged funding model.\n\nThat concern might be defensible, if their strategy weren’t completely backwards. By blowing up the White House’s narrow compromise and stalling CLARITY past the March 1 deadline, the banks are preserving the very loophole they say terrifies them. Under the existing GENIUS Act, issuers can’t pay interest, but exchanges and wallets can still offer “rewards” on those same stablecoins. That grey zone is exactly what CLARITY is designed to bring inside the perimeter.\n\nThe administration’s offer was hardly radical: ban passive “park‑and‑earn” yield that directly mimics deposits, but allow activity‑based rewards tied to payments, transfers, and liquidity. That protects core funding while letting digital‑asset markets remain competitive. The banking lobby’s response was to demand a near‑total prohibition, effectively conscripting regulators to preserve banks’ ability to pay near‑zero on deposits while shutting down anyone who offers a market‑like return.\n\nAt that point this is no longer prudential oversight; it is naked protectionism. It keeps consumers trapped in a rigged game where incumbents hoard cheap capital and innovation is forced into legal grey zones or offshore. President Trump is right to say the banks are holding the “Crypto Agenda” hostage. Passing CLARITY with the compromise intact, ban idle yield, permit genuine usage‑based rewards—is the only coherent way to protect deposits without strangling a market that already exists.\n\nIf banks kill that outcome, they may get exactly what they fear: stablecoin rewards growing anyway, just further from U.S. law and closer to the edge of the system, while Americans finally see how little value their so‑called guardians of stability are actually willing to deliver.\n\nAs President Trump put it, “We’re not going to let the banks strangle innovation just to protect a broken model, Americans deserve real choice, real yield, and a fair system that works for them, not just for Wall Street.”",
+        "link": "https://x.com/DrJStrategy/status/2030401109433417946"
       },
       "stats": {
         "replies": 0,
@@ -2088,6 +2144,31 @@
       }
     },
     {
+      "id": "2029990020959055930",
+      "username": "thomashawk",
+      "displayName": "Thomas Hawk",
+      "avatar": "https://nitter.net/pic/profile_images%2F52147998%2Fnewavatar_bigger.jpg",
+      "content": "I have been photographing San Francisco for over 30 years.\n\n95% of the social dysfunction we have on our city streets today is drugs. \n\nLet that sink in. \n\nGet rid of the drugs and 95% of our street problems in San Francisco simply disappear.  \n\nThe problem is that the fentanyl/nonprofit industrial complex in San Francisco won’t let that happen. \n\nToo much money is wasted pandering to unhinged, erratic, mentally ill drug addicts in our city.  \n\nEach month the city not only gives cold hard cash to drug addicts, they give them free food, free shelter, and free drug paraphernalia to consume the drugs.\n\nThey then provide “sanctuary” protection for the Honduran cartel foot soldiers who are allowed to sell the drugs in our open air drug markets.\n\nThis is all done in the name of “San Francisco values.”  So I am not surprised that the mayor’s security detail got his ass kicked here. \n\nYou have to keep your head on a swivel in San Francisco if you are walking through the Tenderloin, the Mission, or parts of SOMA. \n\nThe real question is why do we put up with this?  Why do we let a few thousand drug addicts terrorize the city?  Why has San Francisco allowed itself to become the drug tourism capitol of America?\n\nMake no mistake about it, our mayor Daniel Lurie is part of the problem. So are the board supervisors.  London Breed was part of the problem before him. \n\n@realDonaldTrump could probably cleanup San Francisco in about 90 days but @Benioff and @nvidia Jensen talked him out of it. \n\nUnfortunately, for many women and children walking around these bad areas in San Francisco, they don’t have security details like Mayor Lurie does.",
+      "contentHtml": "I have been photographing San Francisco for over 30 years.\n\n95% of the social dysfunction we have on our city streets today is drugs. \n\nLet that sink in. \n\nGet rid of the drugs and 95% of our street problems in San Francisco simply disappear.  \n\nThe problem is that the fentanyl/nonprofit industrial complex in San Francisco won’t let that happen. \n\nToo much money is wasted pandering to unhinged, erratic, mentally ill drug addicts in our city.  \n\nEach month the city not only gives cold hard cash to drug addicts, they give them free food, free shelter, and free drug paraphernalia to consume the drugs.\n\nThey then provide “sanctuary” protection for the Honduran cartel foot soldiers who are allowed to sell the drugs in our open air drug markets.\n\nThis is all done in the name of “San Francisco values.”  So I am not surprised that the mayor’s security detail got his ass kicked here. \n\nYou have to keep your head on a swivel in San Francisco if you are walking through the Tenderloin, the Mission, or parts of SOMA. \n\nThe real question is why do we put up with this?  Why do we let a few thousand drug addicts terrorize the city?  Why has San Francisco allowed itself to become the drug tourism capitol of America?\n\nMake no mistake about it, our mayor Daniel Lurie is part of the problem. So are the board supervisors.  London Breed was part of the problem before him. \n\n<a href=\"/realDonaldTrump\" title=\"Donald J. Trump\">@realDonaldTrump</a> could probably cleanup San Francisco in about 90 days but <a href=\"/Benioff\" title=\"Marc Benioff\">@Benioff</a> and <a href=\"/nvidia\" title=\"NVIDIA\">@nvidia</a> Jensen talked him out of it. \n\nUnfortunately, for many women and children walking around these bad areas in San Francisco, they don’t have security details like Mayor Lurie does.",
+      "publishedAt": "2026-03-06T18:38:00.000Z",
+      "link": "https://x.com/thomashawk/status/2029990020959055930",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "ImMeme0",
+        "displayName": "I Meme Therefore I Am 🇺🇸",
+        "content": "🚨BREAKING: Video of the Democratic mayor of San Francisco is going viral after he calmly walked away while his security detail was being attacked.\n\nMayor Daniel Lurie is seen watching his security officer struggle with a man, then turning and walking away as the officer is slammed to the ground, hits his head on the pavement, and is left bleeding.",
+        "link": "https://x.com/ImMeme0/status/2029933785874088150"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2029988532249641081",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -2426,6 +2507,25 @@
         "displayName": "Theclues",
         "content": "这个场景适用于过去48小时的 #BTC 吗？",
         "link": "https://x.com/follow_clues/status/2029581016411820418"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029931861825442107",
+      "username": "kimmaicutler",
+      "displayName": "Kim-Mai Cutler",
+      "avatar": "https://nitter.net/pic/profile_images%2F1404253821870624769%2FHhbLZL8V_bigger.jpg",
+      "content": "“SEIU is known in California political circles for pioneering and perfecting the art of extortion via ballot initiative.” astralcodexten.com/p/seiu-de…",
+      "contentHtml": "“SEIU is known in California political circles for pioneering and perfecting the art of extortion via ballot initiative.” <a href=\"https://www.astralcodexten.com/p/seiu-delenda-est\">astralcodexten.com/p/seiu-de…</a>",
+      "publishedAt": "2026-03-06T14:47:00.000Z",
+      "link": "https://x.com/kimmaicutler/status/2029931861825442107",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -3759,6 +3859,25 @@
       }
     },
     {
+      "id": "2029707043897028690",
+      "username": "michaeljmcnair",
+      "displayName": "Michael McNair",
+      "avatar": "https://nitter.net/pic/profile_images%2F1749863211912851456%2Fbk2ngGA8_bigger.jpg",
+      "content": "China looked at the lessons of 20th century great power conflict and drew the conclusion that military power alone doesn't determine outcomes, upstream industrial capacity does.\n\nThe Allies won because of overwhelming industrial might. Japan and Germany lost because they lacked critical industrial inputs. Starved of oil, they were forced into gambles that cost them the war…Japan attacking Pearl Harbor to seize the oil in the Dutch East Indies, Germany marching to the Caucasus to take the Baku oil fields. Input scarcity doesn't just weaken you. It steers your decisions. It pulls decisions away from the optimal plan and toward the necessary plan.\n\nChina learned this lesson and decided to be the one holding the chokepoints.  By embedding itself so deeply into the upstream supply chains that feed American military production, a conflict would trigger Western industrial paralysis and neuter its ability to fight a long war.\n\nBut the chokehold only works if the West doesn't rectify its supply chain vulnerabilities before China is ready to move on Taiwan. So China's central strategic requirement was to delay Western recognition of the threat for as long as possible.\n\nThus, China's entire foreign policy posture becomes oriented around appearing non-threatening. And it works because it aligns with the economic incentives of Western elites who benefit from cheap inputs and profitable trade. The cost of denial is kept artificially low. Raising the alarm looks like paranoia or protectionism when cheap goods keep flowing and no shots are being fired.\n\nThe administration is now racing to unwind its supply chain vulnerability before the conflict window opens. But that takes years, and they face significant inertia, both domestically and among allies who remain naively blind to the risk.\n\nChina knows this. So their strategy is to keep the West sleepwalking. Which means they can’t show their hand. If China comes into direct military conflict with the US in order to defend a proxy, the West wakes up. The inertia collapses. The reshoring and remilitarization that China spent decades trying to prevent happens on an emergency timeline.\nBut the US finally realized it could use this against them.\n\nSince China can’t show its hand until it's ready to move on Taiwan, the US realized that it can turn China's greatest strategic asset, the pacifist disguise, into a structural trap.\n\nThey cannot take overtly aggressive action without triggering the Western industrial mobilization their entire strategy depends on preventing.\n\nSo the US can eliminate their proxies and China can’t respond without destroying the disguise.\n\nMaduro removed. Cuba strangled. Now Iran.\n\nBeijing must decide if defending the proxy is worth waking the West up? And the answer keeps being no.\n\nUntil China’s window to move on Taiwan opens, the pacifist posture that enabled its chokeholds constrains their response to US actions.\n\nEverything the US is doing right now is a race to be ready before that moment arrives. Clear the proxies. Arm the allies. Break the chokeholds. And build new ones of its own.",
+      "contentHtml": "China looked at the lessons of 20th century great power conflict and drew the conclusion that military power alone doesn't determine outcomes, upstream industrial capacity does.\n\nThe Allies won because of overwhelming industrial might. Japan and Germany lost because they lacked critical industrial inputs. Starved of oil, they were forced into gambles that cost them the war…Japan attacking Pearl Harbor to seize the oil in the Dutch East Indies, Germany marching to the Caucasus to take the Baku oil fields. Input scarcity doesn't just weaken you. It steers your decisions. It pulls decisions away from the optimal plan and toward the necessary plan.\n\nChina learned this lesson and decided to be the one holding the chokepoints.  By embedding itself so deeply into the upstream supply chains that feed American military production, a conflict would trigger Western industrial paralysis and neuter its ability to fight a long war.\n\nBut the chokehold only works if the West doesn't rectify its supply chain vulnerabilities before China is ready to move on Taiwan. So China's central strategic requirement was to delay Western recognition of the threat for as long as possible.\n\nThus, China's entire foreign policy posture becomes oriented around appearing non-threatening. And it works because it aligns with the economic incentives of Western elites who benefit from cheap inputs and profitable trade. The cost of denial is kept artificially low. Raising the alarm looks like paranoia or protectionism when cheap goods keep flowing and no shots are being fired.\n\nThe administration is now racing to unwind its supply chain vulnerability before the conflict window opens. But that takes years, and they face significant inertia, both domestically and among allies who remain naively blind to the risk.\n\nChina knows this. So their strategy is to keep the West sleepwalking. Which means they can’t show their hand. If China comes into direct military conflict with the US in order to defend a proxy, the West wakes up. The inertia collapses. The reshoring and remilitarization that China spent decades trying to prevent happens on an emergency timeline.\nBut the US finally realized it could use this against them.\n\nSince China can’t show its hand until it's ready to move on Taiwan, the US realized that it can turn China's greatest strategic asset, the pacifist disguise, into a structural trap.\n\nThey cannot take overtly aggressive action without triggering the Western industrial mobilization their entire strategy depends on preventing.\n\nSo the US can eliminate their proxies and China can’t respond without destroying the disguise.\n\nMaduro removed. Cuba strangled. Now Iran.\n\nBeijing must decide if defending the proxy is worth waking the West up? And the answer keeps being no.\n\nUntil China’s window to move on Taiwan opens, the pacifist posture that enabled its chokeholds constrains their response to US actions.\n\nEverything the US is doing right now is a race to be ready before that moment arrives. Clear the proxies. Arm the allies. Break the chokeholds. And build new ones of its own.",
+      "publishedAt": "2026-03-05T23:54:00.000Z",
+      "link": "https://x.com/michaeljmcnair/status/2029707043897028690",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2029661489653800972",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -3939,6 +4058,31 @@
       "contentHtml": "额贼！\n别tm打了，别t打我账户了！",
       "publishedAt": "2026-03-05T17:37:00.000Z",
       "link": "https://x.com/Bitfatty/status/2029612252572307634",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029609997173502235",
+      "username": "joshrauh",
+      "displayName": "Joshua Rauh",
+      "avatar": "https://nitter.net/pic/profile_images%2F1858352263636602880%2FVqHDh8KE_bigger.jpg",
+      "content": "Just out: California's wealth tax proposal has a NEGATIVE $25B net present value. We project only ~$40B collected (vs. $100B claimed), with ~30% of the tax base already gone and lost income taxes wiping out gains. w/ Ben Jaros, @gregkkearney, John Doran & Matheus Cosso: papers.ssrn.com/sol3/papers.…",
+      "contentHtml": "Just out: California's wealth tax proposal has a NEGATIVE $25B net present value. We project only ~$40B collected (vs. $100B claimed), with ~30% of the tax base already gone and lost income taxes wiping out gains. w/ Ben Jaros, <a href=\"/gregkkearney\" title=\"Greg Kearney\">@gregkkearney</a>, John Doran & Matheus Cosso: <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6340778\">papers.ssrn.com/sol3/papers.…</a>",
+      "publishedAt": "2026-03-05T17:28:00.000Z",
+      "link": "https://x.com/joshrauh/status/2029609997173502235",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCqfdKLaUAUG7Yx.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -7180,6 +7324,25 @@
       }
     },
     {
+      "id": "2028821298252493001",
+      "username": "Handrev",
+      "displayName": "Handre",
+      "avatar": "https://nitter.net/pic/profile_images%2F2028824653230194688%2FF_XJq9mx_bigger.jpg",
+      "content": "Central planners still can't grasp what Hayek understood decades ago — the most sophisticated systems emerge precisely because no bureaucrat is pulling the strings. Language, markets, cities, the internet. All spontaneous orders that no government committee could design if they tried for a thousand years.\n\nAnd yet these same politicians think they can micromanage healthcare, education, and monetary policy. The hubris is breathtaking.\n\nBut here's the part that really drives them insane: spontaneous order doesn't just work better than their top-down schemes — it makes their entire profession obsolete. No wonder they fight it so hard. When complex coordination happens without their permission, what exactly are we paying them for?",
+      "contentHtml": "Central planners still can't grasp what Hayek understood decades ago — the most sophisticated systems emerge precisely because no bureaucrat is pulling the strings. Language, markets, cities, the internet. All spontaneous orders that no government committee could design if they tried for a thousand years.\n\nAnd yet these same politicians think they can micromanage healthcare, education, and monetary policy. The hubris is breathtaking.\n\nBut here's the part that really drives them insane: spontaneous order doesn't just work better than their top-down schemes — it makes their entire profession obsolete. No wonder they fight it so hard. When complex coordination happens without their permission, what exactly are we paying them for?",
+      "publishedAt": "2026-03-03T13:14:00.000Z",
+      "link": "https://x.com/Handrev/status/2028821298252493001",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2028820481256870143",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -7276,6 +7439,31 @@
             "url": "https://nitter.net/pic/orig/media%2FHCXuBl5aQAAckQS.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2028804464459591891",
+      "username": "dougponder",
+      "displayName": "Doug Ponder",
+      "avatar": "https://nitter.net/pic/profile_images%2F1826620420302176256%2FCQs4FD-K_bigger.jpg",
+      "content": "G. K. Chesterton anticipated the problem of “toxic empathy” more than 100 years ago, explaining both its origin and its destructive potential:",
+      "contentHtml": "G. K. Chesterton anticipated the problem of “toxic empathy” more than 100 years ago, explaining both its origin and its destructive potential:",
+      "publishedAt": "2026-03-03T12:07:00.000Z",
+      "link": "https://x.com/dougponder/status/2028804464459591891",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCfC6JtWEAAfo27.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -10946,196 +11134,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHCOUnYKaAAA_FcV.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027611116873138411",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "Sam Altmann 是地球上最危險的商人",
-      "contentHtml": "Sam Altmann 是地球上最危險的商人",
-      "publishedAt": "2026-02-28T05:05:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2027611116873138411",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027592508277199124",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "根据URPD数据显示，有 171w 枚BTC在 $63,000 - $68,000 区间发生了换手，而就在1周前该区间的累计筹码还只有153w枚，意味着短短7天时间，多头在这里承接了18w枚BTC。\n\n这与$87,000-$92,000区间的189w枚BTC的堆积形成了一个奇特的“U形”结构，中间的7.1-8w成为了“空挡区”。说明在上一次拉升时（2024年10月），这里没有停留，快速突破。而这次下跌时，又是快速跌破。\n\n（图1：URPD_2026.2.28）\n\n来来回回就是没有在7.1-8w直接停留并形成充分换手，似乎这里变成了不能触碰的“禁区”，这还真的是有点玄学（史无前例）！\n\n但目前来看，$63,000-$68,000区间的筹码越来越厚实，说明有人认为6开头价格的BTC值得介入，那就会产生支撑效应。随着LTH减少派发，也有望再次对上述“缺口”发起挑战。\n\n当前结构在$63,000以下仅存的高筹码柱就只有$16,000 处了，时至今日还留存有39.1w枚BTC（从上一轮熊底到今天没有动过）。\n\n相信应该没人会认为本轮熊底BTC会跌回$16,000吧？\n\n既然不会是$16,000，那么一旦$63,000-$68,000区间被击穿，下面的阻力区间暂时就无法预判了。这将取决于多头会在哪里重新构筑防线，届时会和现在的堆积区形成“W形”的筹码结构，哈哈.....那也会是一道千古奇观了！",
-      "contentHtml": "根据URPD数据显示，有 171w 枚BTC在 $63,000 - $68,000 区间发生了换手，而就在1周前该区间的累计筹码还只有153w枚，意味着短短7天时间，多头在这里承接了18w枚BTC。\n\n这与$87,000-$92,000区间的189w枚BTC的堆积形成了一个奇特的“U形”结构，中间的7.1-8w成为了“空挡区”。说明在上一次拉升时（2024年10月），这里没有停留，快速突破。而这次下跌时，又是快速跌破。\n\n（图1：URPD_2026.2.28）\n\n来来回回就是没有在7.1-8w直接停留并形成充分换手，似乎这里变成了不能触碰的“禁区”，这还真的是有点玄学（史无前例）！\n\n但目前来看，$63,000-$68,000区间的筹码越来越厚实，说明有人认为6开头价格的BTC值得介入，那就会产生支撑效应。随着LTH减少派发，也有望再次对上述“缺口”发起挑战。\n\n当前结构在$63,000以下仅存的高筹码柱就只有$16,000 处了，时至今日还留存有39.1w枚BTC（从上一轮熊底到今天没有动过）。\n\n相信应该没人会认为本轮熊底BTC会跌回$16,000吧？\n\n既然不会是$16,000，那么一旦$63,000-$68,000区间被击穿，下面的阻力区间暂时就无法预判了。这将取决于多头会在哪里重新构筑防线，届时会和现在的堆积区形成“W形”的筹码结构，哈哈.....那也会是一道千古奇观了！",
-      "publishedAt": "2026-02-28T03:51:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2027592508277199124",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCNzP5obEAAdw7A.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "这几天我一直在关注这个数据：截止到2月26日LTH净持仓变化仍然维持净增长；具体细节如下（从2月13日至2月26日）：\n\n1、共有 14,127 枚LTH的BTC被花费；\n2、同时有 19,798 枚STH的BTC转为长期持有。\n\n正负抵消后仍然为正，说明无论是长期还是短期筹码都同时减少了换手，投机资金退出，长期资金惜售，虽然也降低了流动性，但卖压也同时减弱了。\n\n为什么要重点关注？因为总结了1月14日的经验。由于当前市场情绪悲观且敏感，一旦抛压升高，对短期内有限的需求是及其严峻的考验。\n\n即便不是立刻马上就产生直接影响，也一定会通过间接传导，导致反弹提前终止的概率上升。所以...... 至少最近我每天都会看一眼（当然不仅仅只看它）。",
-        "link": "https://x.com/Murphychen888/status/2027282488180281645",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCJZ3tkaIAATSPD.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027425242864599171",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "Future of investing is 3 ppl shop managing billions $ with a rack of mac studios & NVDA DGX spark\n\nThe setup we used: Master agent locally hosted with local model (Mistral L2), and bunch of daemons in local dockers talk with cloud LLMs with dedicated skill bundles. Master do task decomposition, orchestration, delegation, synthesize, and final rec\n\nSome (non exhaustive) opsec tips: before delegating always run sanitization at the master, its local LLM parses daemons' output through a defined schema to avoid prompt injection. make sure network Isolation among daemons, and only snd credential/api keys as vars at containter start, no agentic logins will blend with ur own logins. other typical devops hygiene works as the master is your main devop .. the list goes on",
-      "contentHtml": "Future of investing is 3 ppl shop managing billions $ with a rack of mac studios & NVDA DGX spark\n\nThe setup we used: Master agent locally hosted with local model (Mistral L2), and bunch of daemons in local dockers talk with cloud LLMs with dedicated skill bundles. Master do task decomposition, orchestration, delegation, synthesize, and final rec\n\nSome (non exhaustive) opsec tips: before delegating always run sanitization at the master, its local LLM parses daemons' output through a defined schema to avoid prompt injection. make sure network Isolation among daemons, and only snd credential/api keys as vars at containter start, no agentic logins will blend with ur own logins. other typical devops hygiene works as the master is your main devop .. the list goes on",
-      "publishedAt": "2026-02-27T16:47:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2027425242864599171",
-      "quote": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-        "content": "Spent 2 weeks built a team of investment analyst agents using @openclaw, iterated dedicated skills bundles for each one. after they have been talking with each for a week on diff venture side requests, now i just trop the deck url into the group chat and they run pitch meeting prep better than anyone, surfacing all critical signals and suggest how to prob\n\n Cross-pollination of skills is also insane, @allenday  built a \"macro event simulator\" for fun and now our investment agents learned it to run solid investment simulation. all cost $200/month\n\nSince the Industrial Revolution, “high economic growth = high employment” was somehow the default mental model for new workforce. Only the big crash/depression/stagnation could kill jobs. That assumption is breaking very fast. I honestly dont see any needs to hire analyst level job at all, unless they might have prop insight/taste/contrarian view or access. \n\nOver the next few decade as we may be entering an era of ultra-high growth, ultra-high unemployment, unless “work” itself, and the structure of talent supply, can adapt fast\n\nThe future is here, just not evenly distributed",
-        "link": "https://x.com/DoveyWan/status/2027010939267211580",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCFjs1zb0AAXN-8.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027401965576257841",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "老實說，有些人相信 Jane Street 是比特幣熊市的罪魁禍首，這件事情本身其實是非常荒謬的。\n\n在短時間內，資金龐大的特定實體確實有可能為了清算衍生品的止損線而操縱市場。譬如之前有人說「早上 10 點固定砸盤」這件事情，確實是有可能的。\n\n但是如果要說這件事情會對比特幣的長期走勢造成什麼影響，我覺得就太誇大了。因為影響長期價格所需要花費的 effort，遠比操縱短線價格要高出很多，而且中間還有很多不確定因素。",
-      "contentHtml": "老實說，有些人相信 Jane Street 是比特幣熊市的罪魁禍首，這件事情本身其實是非常荒謬的。\n\n在短時間內，資金龐大的特定實體確實有可能為了清算衍生品的止損線而操縱市場。譬如之前有人說「早上 10 點固定砸盤」這件事情，確實是有可能的。\n\n但是如果要說這件事情會對比特幣的長期走勢造成什麼影響，我覺得就太誇大了。因為影響長期價格所需要花費的 effort，遠比操縱短線價格要高出很多，而且中間還有很多不確定因素。",
-      "publishedAt": "2026-02-27T15:14:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2027401965576257841",
-      "quote": {
-        "username": "AriDavidPaul",
-        "displayName": "Ari Paul ⛓️",
-        "content": "In short: no.  I was a wall st market maker 15 years ago, explicitly exploiting inefficiencies in products like ETFs.  Market makers absolutely do “game the system” in all sorts of ways, but for liquid products like BTC ETF, their actions mostly have the effect of adding meaningful but small costs to consumers; it doesn’t meaningfully change the asset price.  \n\nFor example, market makers may manipulate the price to run stop limit orders.  But that’s typically on an intraday timeframe.  So they might run an asset like MSFT or BTC 2% in a weak market to trigger stops, then a few seconds or minutes later, the price is mostly back to where it was before.  I.e. the price manipulation activities are typically small price moves, made and reverted quickly.  \n\nWhy is BTC down?  Because OGs sold tens of thousands of coins, and not enough people wanted to buy them.  \n\nThere are rare exceptions where wall street manipulates an asset in major ways longer term, but this is quite rare because it’s very risky and not as easy as it looks to profit.  99% of the time that an asset isn’t moving like you want and people are crying “manipulation”, it’s best to embrace the cognitive dissonance, avoid the “easy way out” of blaming manipulation, and work to improve your predictive models to better match reality.  1% of the time it really is manipulation as the primary factor.  Lastly - everything I’ve written only applies to *short* manipulation.  Manipulating stuff *higher* (including bitcoin) happens all the time across many assets.",
-        "link": "https://x.com/AriDavidPaul/status/2027068217206665656"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027368749830193236",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "the context overhead after 2 weeks of usage is annoying, so better prune it just like we human go through synaptics pruning",
-      "contentHtml": "the context overhead after 2 weeks of usage is annoying, so better prune it just like we human go through synaptics pruning",
-      "publishedAt": "2026-02-27T13:02:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2027368749830193236",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCKo2_qbgAATHXs.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027332727771738418",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "The greatest flex is that you are actually chronically offline but seemingly chronically online as your agents have been doing all the meaningful work just as good as you are \n\nIn Rusutsu for entire march who's down for powder BC?",
-      "contentHtml": "The greatest flex is that you are actually chronically offline but seemingly chronically online as your agents have been doing all the meaningful work just as good as you are \n\nIn Rusutsu for entire march who's down for powder BC?",
-      "publishedAt": "2026-02-27T10:39:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2027332727771738418",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027298249141526660",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "it's coming fast, Block/Square lays off almost half and see its productivity increasing/at least maintaining, other tech & fin firm will follow. no one wants to lose in this max productivity and minimal opex race",
-      "contentHtml": "it's coming fast, Block/Square lays off almost half and see its productivity increasing/at least maintaining, other tech &amp; fin firm will follow. no one wants to lose in this max productivity and minimal opex race",
-      "publishedAt": "2026-02-27T08:22:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2027298249141526660",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCJoW8MbEAA5bpO.png"
-        }
-      ],
-      "quote": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-        "content": "The biggest lie of the Industrial era: new tech growth always creates jobs. Exhibit A “computer programmer” employment: Peaked at dotcom, didnt track with proliferation of software/mobile, declined for 20+ years now at ~1980 levels (chart) AI likely much accelerate this trend. The next form factor of tech diffusion may not increase employment even inside its own domain. No one doubt AI will massively grow GDP, but the question is who gets paid? \n\nSince the Industrial Revolution, “high economic growth = high employment” was somehow the default mental model for new workforce, the big crash/depression/stagnation kill jobs. Think that assumption may break over the next few decade as we may be entering an era of ultra-high growth, ultra-high unemployment, unless “work” itself, and the structure of talent supply, can adapt fast. Both Big Tech and Big Fin are sharply cutting new-grad hiring already. NYC reportedly added only ~1,000 new jobs in the first half of last year\n\nDidn’t expect the inflection to arrive this soon",
-        "link": "https://x.com/DoveyWan/status/2018884439217213695",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHASA9nKbYAAIHuW.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHASA-QyakAA3HAR.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027297411593613599",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "今年一共打了两个项目 一个是死了全家的Zama 亏一半止损  另一个是Openmind 我倒要看看什么水平",
-      "contentHtml": "今年一共打了两个项目 一个是死了全家的Zama 亏一半止损  另一个是Openmind 我倒要看看什么水平",
-      "publishedAt": "2026-02-27T08:19:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2027297411593613599",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCJoP0sbYAA1p9D.jpg"
         }
       ],
       "stats": {
