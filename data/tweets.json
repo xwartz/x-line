@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T19:19:46.471Z",
+  "lastUpdated": "2026-03-09T19:46:10.345Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 426,
-    "successUsers": 21,
-    "failedUsers": 6
+    "newFetched": 443,
+    "successUsers": 22,
+    "failedUsers": 5
   },
   "tweets": [
+    {
+      "id": "2031092054864937236",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "刚刚川普：我觉得战争基本是结束了😂",
+      "contentHtml": "刚刚川普：我觉得战争基本是结束了😂",
+      "publishedAt": "2026-03-09T19:37:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2031092054864937236",
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "😂😂😂",
+        "link": "https://x.com/TJ_Research/status/2030157288720199708",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCyRS9MagAA44xO.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2031064625144316039",
       "username": "TJ_Research",
@@ -11219,39 +11246,6 @@
       "contentHtml": "在研究今年一个比较大的机会。\n\n<a href=\"/joinrepublic\" title=\"Republic\">@joinrepublic</a> 会提供一些独角兽企业的preipo 包括但不限于spacex 字节跳动之类的，不知道能不能参与上字节的。\n\n抖音直播还是蓝海，斗鱼虎牙都快歇逼了。抖音团购+商城也吃下很多市场。还不算海外tiktok市场越来越大，豆包用户量都可以算得上国内top1了。",
       "publishedAt": "2026-03-01T05:02:00.000Z",
       "link": "https://x.com/0xleng1/status/2027972721653801275",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027971824840311000",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "【四年周期系列更新📊】当前图中指标跌至 1.36\n\n14年该指标跌至 1.36 后 63天 到熊底 ($0.15k)\n18年该指标跌至 1.36 后 56天 到熊底 ($3.1k)\n22年该指标跌至 1.36 后 07天 到次熊底 ($17.6k)",
-      "contentHtml": "【四年周期系列更新📊】当前图中指标跌至 1.36\n\n14年该指标跌至 1.36 后 63天 到熊底 ($0.15k)\n18年该指标跌至 1.36 后 56天 到熊底 ($3.1k)\n22年该指标跌至 1.36 后 07天 到次熊底 ($17.6k)",
-      "publishedAt": "2026-03-01T04:58:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2027971824840311000",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCTNQUdbEAEwNGp.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【四年周期总刻系列（18）】当前图中指标跌至 1.42\n\n14年该指标跌至 1.42 后 76天 到熊底 ($0.15k)\n18年该指标跌至 1.42 后 82天 到熊底 ($3.1k)\n22年该指标跌至 1.42 后 26天 到次熊底 ($17.6k)\n\n图中上方灰线为 #BTC 价格；黄线为 BTC 短期持有者成本均价；玫红线为 BTC 长期持有者成本均价（剔除持币>10年的筹码）\n图中下方指标为“BTC 短期持有者成本均价”跟“BTC 长期持有者成本均价（剔除>10y筹码版）”之比（即：黄线 / 玫红线）\n\nBTC短期持有者成本均价定义：持有比特币<155天的投资者的平均成本。含义：反映近期买家的成本基础，他们对价格波动敏感，易在下跌时卖出。常作为短期市场情绪指标——牛市中价格高于此均价，熊市中跌破可能加剧抛售\n\nBTC长期持有者成本均价定义：持有比特币>155天的投资者的平均成本，但排除>10年的筹码（这些可能丢失或永不动，如中本聪的币）。含义：聚焦“活跃”长期持有者，提供更现实的成本基础。常作为市场支撑水平参考——熊市中可能成为价格底部\n\n两者比率（短期均价 / 长期均价）含义：反映市场周期阶段和参与者行为：\n比率 >1：短期买家成本高（新资金高价入场），情绪乐观但可能过热\n比率 <1：熊市或底部信号，短期买家成本低（低价入场），弱手出清，市场或将复苏\n总体趋势：比率上升=牛市延续；下降=熊市或分发阶段。排除>10年筹码使比率更准确捕捉周期转折，历史上 <1 时常为长期买入机会",
-        "link": "https://x.com/0xCryptoChan/status/2019983275994071392",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAhoELya8AAhXbP.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
