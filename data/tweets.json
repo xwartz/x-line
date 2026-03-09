@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T21:58:35.820Z",
+  "lastUpdated": "2026-03-09T22:11:42.388Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 464,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 506,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
     {
@@ -768,6 +768,25 @@
             "url": "https://nitter.net/pic/orig/media%2FHCe7HoDbMAAovch.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030911858652418167",
+      "username": "sxzz",
+      "displayName": "老沙",
+      "avatar": "https://nitter.net/pic/profile_images%2F1869962277123960834%2FwYYRsJ5c_bigger.jpg",
+      "content": "x.com/i/article/203090674803…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
+      "publishedAt": "2026-03-09T07:41:00.000Z",
+      "link": "https://x.com/sxzz/status/2030911858652418167",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
       },
       "stats": {
         "replies": 0,
@@ -11197,39 +11216,6 @@
       "contentHtml": "Pure software is rapidly becoming un-investable.",
       "publishedAt": "2026-03-01T05:37:00.000Z",
       "link": "https://x.com/naval/status/2027981651012473197",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027971824840311000",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "【四年周期系列更新📊】当前图中指标跌至 1.36\n\n14年该指标跌至 1.36 后 63天 到熊底 ($0.15k)\n18年该指标跌至 1.36 后 56天 到熊底 ($3.1k)\n22年该指标跌至 1.36 后 07天 到次熊底 ($17.6k)",
-      "contentHtml": "【四年周期系列更新📊】当前图中指标跌至 1.36\n\n14年该指标跌至 1.36 后 63天 到熊底 ($0.15k)\n18年该指标跌至 1.36 后 56天 到熊底 ($3.1k)\n22年该指标跌至 1.36 后 07天 到次熊底 ($17.6k)",
-      "publishedAt": "2026-03-01T04:58:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2027971824840311000",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCTNQUdbEAEwNGp.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【四年周期总刻系列（18）】当前图中指标跌至 1.42\n\n14年该指标跌至 1.42 后 76天 到熊底 ($0.15k)\n18年该指标跌至 1.42 后 82天 到熊底 ($3.1k)\n22年该指标跌至 1.42 后 26天 到次熊底 ($17.6k)\n\n图中上方灰线为 #BTC 价格；黄线为 BTC 短期持有者成本均价；玫红线为 BTC 长期持有者成本均价（剔除持币>10年的筹码）\n图中下方指标为“BTC 短期持有者成本均价”跟“BTC 长期持有者成本均价（剔除>10y筹码版）”之比（即：黄线 / 玫红线）\n\nBTC短期持有者成本均价定义：持有比特币<155天的投资者的平均成本。含义：反映近期买家的成本基础，他们对价格波动敏感，易在下跌时卖出。常作为短期市场情绪指标——牛市中价格高于此均价，熊市中跌破可能加剧抛售\n\nBTC长期持有者成本均价定义：持有比特币>155天的投资者的平均成本，但排除>10年的筹码（这些可能丢失或永不动，如中本聪的币）。含义：聚焦“活跃”长期持有者，提供更现实的成本基础。常作为市场支撑水平参考——熊市中可能成为价格底部\n\n两者比率（短期均价 / 长期均价）含义：反映市场周期阶段和参与者行为：\n比率 >1：短期买家成本高（新资金高价入场），情绪乐观但可能过热\n比率 <1：熊市或底部信号，短期买家成本低（低价入场），弱手出清，市场或将复苏\n总体趋势：比率上升=牛市延续；下降=熊市或分发阶段。排除>10年筹码使比率更准确捕捉周期转折，历史上 <1 时常为长期买入机会",
-        "link": "https://x.com/0xCryptoChan/status/2019983275994071392",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAhoELya8AAhXbP.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
