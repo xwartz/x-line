@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T10:19:21.031Z",
+  "lastUpdated": "2026-03-09T10:47:47.717Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,52 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 423,
-    "successUsers": 21,
-    "failedUsers": 6
+    "newFetched": 527,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2030953522137801132",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "果然，地缘冲突的持续给风险市场带来更多的不确定性。从不同链上群体的行为趋势上看，2月还在积极累积筹码的鲸鱼开始变得谨慎。而持有100枚以下的中小群体全部转为派发（图1）。\n\n从图中我们可以找到前2次出现类似转变后，受其影响BTC的价格皆表现不佳；或弱势震荡，或连续回调。\n\n从筹码结构上看（图2），当前多空双方争夺最激烈的位置在$66,000-$67,000左右，总共有60.7w枚BTC在此处发生了换手。因此，这里也是多头最重要的支撑位，一旦失守后面的情况将变得扑朔迷离。\n\n因为下一个相对较高的筹码柱在$16,000左右，中间没有明显的筹码堆积的共识区了。",
+      "contentHtml": "果然，地缘冲突的持续给风险市场带来更多的不确定性。从不同链上群体的行为趋势上看，2月还在积极累积筹码的鲸鱼开始变得谨慎。而持有100枚以下的中小群体全部转为派发（图1）。\n\n从图中我们可以找到前2次出现类似转变后，受其影响BTC的价格皆表现不佳；或弱势震荡，或连续回调。\n\n从筹码结构上看（图2），当前多空双方争夺最激烈的位置在$66,000-$67,000左右，总共有60.7w枚BTC在此处发生了换手。因此，这里也是多头最重要的支撑位，一旦失守后面的情况将变得扑朔迷离。\n\n因为下一个相对较高的筹码柱在$16,000左右，中间没有明显的筹码堆积的共识区了。",
+      "publishedAt": "2026-03-09T10:27:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2030953522137801132",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC9k69EbkAAX7t-.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC9lBYobQAEHg8u.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "BTC累积趋势得分（Accumulation Trend Score，ATS）通过评估不同钱包群体的相对余额变化，并对大型实体赋予更高权重，为衡量链上“累积行为”提供了有效参考。\n\n当ATS越接近1（黑点），则表示大型实体越偏向积累。自2月5日以来，ATS分值始终维持在0.5以下，表明持有者整体缺乏积极的累积行为。\n\n（图1-BTC累积趋势得分）\n\n尤其是在3月1日-4日的反弹时，ATS更是连续下降至0.23（浅黄点）；意味着有大型持有者趁着BTC价格反弹又开始派发了。\n\n同时，我们还看到在1月14日当天，短期持有者合计将20,477枚BTC转入交易所完成获利了结（比2026.1.14还要多），反映出STH对当前行情缺乏信心的行为表现。\n\n（图2-STH转入交易所的BTC数量）\n\n但与之相反的是，传统资本的代表“现货ETF”却在此时起到了关键作用，从2月24日至3月4日持续的净流入吸收了部分供应，为反弹创造了条件（ETF的具体细节我们在明天会有详细分析）。\n\n说明目前市场中的资金又出现了强烈的分歧，有人不看好要卖，有人看好要买。多空双方力量比拼势必又要再次分出胜负，对我们散户来说只能观战了，等局势明朗后再做下一步打算。",
+        "link": "https://x.com/Murphychen888/status/2029909216513884266",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCuu4zxa4AENjuP.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCuvMCxaUAAhLQJ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2030947568306606540",
       "username": "hazenlee",
@@ -11239,31 +11280,6 @@
         "content": "昨天关盘前28日前打伊朗的赔率还是5.88 足以说明这个不准。我本来打算买的，拍断大腿",
         "link": "https://x.com/AtomLiLiu/status/2027860513808400665"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027859842421968926",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "GROK做的MEME，你们觉得如何？\n说实话，我觉得非常非常一般，图1是给他描述，让他做，图2是经过5次额外的改动之后的结果：中文都是乱码，然后图2里右图的不笑了\n我写ARTICLE让他帮我做封面，中文的封面，根本没法处理。据说GORK图片处理排第一？",
-      "contentHtml": "GROK做的MEME，你们觉得如何？\n说实话，我觉得非常非常一般，图1是给他描述，让他做，图2是经过5次额外的改动之后的结果：中文都是乱码，然后图2里右图的不笑了\n我写ARTICLE让他帮我做封面，中文的封面，根本没法处理。据说GORK图片处理排第一？",
-      "publishedAt": "2026-02-28T21:33:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2027859842421968926",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCRnX0YWEAAgVZD.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCRnlliXYAAwkBZ.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
