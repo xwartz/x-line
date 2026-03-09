@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T15:22:45.042Z",
+  "lastUpdated": "2026-03-09T15:50:07.096Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,51 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 441,
-    "successUsers": 22,
-    "failedUsers": 5
+    "newFetched": 465,
+    "successUsers": 23,
+    "failedUsers": 4
   },
   "tweets": [
+    {
+      "id": "2031031239092867113",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "这NQ 周月线级别的支撑一直摩擦  就是破不了位  到底是怎么做到的",
+      "contentHtml": "这NQ 周月线级别的支撑一直摩擦  就是破不了位  到底是怎么做到的",
+      "publishedAt": "2026-03-09T15:35:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2031031239092867113",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031026411755204968",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "打个广子 币安改绑的  就不介绍了 别人应该都发过了。\n有需要的可以DM  太几把熊了 。。。两个月注册嘉宾1位。",
+      "contentHtml": "打个广子 币安改绑的  就不介绍了 别人应该都发过了。\n有需要的可以DM  太几把熊了 。。。两个月注册嘉宾1位。",
+      "publishedAt": "2026-03-09T15:16:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2031026411755204968",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC-nQ1oasAAG-_r.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC-nZpGbYAA2o4c.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2031021239121428562",
       "username": "0xleng1",
@@ -187,6 +227,27 @@
         "displayName": "Leng",
         "content": "btw昨天刚说完，今天拉到0.025了 半个月500u，只可惜卖飞了都，不然很舒服了，几个号平均下来都是200 多u",
         "link": "https://x.com/0xleng1/status/2030837670809919732"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031019929085108367",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "the next corporate AI arms race will converge on 3 moves to compress human capital structure from 1-5-50 to 1-5-500\n\n1. fork Openclaw, build an onprem orchestration layer, ship it as a corpo desktop app. oneclick skill/tool config, everyone is required to use it \n\n2. build internal skills registries under middle mgmt \nsupervision. frontline knowledge gets distilled and \ncompounded into churn-resistant institutional memory. \n\n3. middle mgmt coordinates cross-team using their own \nagentic workforce. frontline headcount cut at least 50%.\n\nmiddle mgmt is also existential. step 3 is just buying \nthem time",
+      "contentHtml": "the next corporate AI arms race will converge on 3 moves to compress human capital structure from 1-5-50 to 1-5-500\n\n1. fork Openclaw, build an onprem orchestration layer, ship it as a corpo desktop app. oneclick skill/tool config, everyone is required to use it \n\n2. build internal skills registries under middle mgmt \nsupervision. frontline knowledge gets distilled and \ncompounded into churn-resistant institutional memory. \n\n3. middle mgmt coordinates cross-team using their own \nagentic workforce. frontline headcount cut at least 50%.\n\nmiddle mgmt is also existential. step 3 is just buying \nthem time",
+      "publishedAt": "2026-03-09T14:51:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2031019929085108367",
+      "quote": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+        "content": "Future of investing is 3 ppl shop managing billions $ with a rack of mac studios & NVDA DGX spark\n\nThe setup we used: Master agent locally hosted with local model (Mistral L2), and bunch of daemons in local dockers talk with cloud LLMs with dedicated skill bundles. Master do task decomposition, orchestration, delegation, synthesize, and final rec\n\nSome (non exhaustive) opsec tips: before delegating always run sanitization at the master, its local LLM parses daemons' output through a defined schema to avoid prompt injection. make sure network Isolation among daemons, and only snd credential/api keys as vars at containter start, no agentic logins will blend with ur own logins. other typical devops hygiene works as the master is your main devop .. the list goes on",
+        "link": "https://x.com/DoveyWan/status/2027425242864599171"
       },
       "stats": {
         "replies": 0,
@@ -11214,87 +11275,6 @@
         "displayName": "Colin Wu",
         "content": "一旦发生现代战争，什么城市最安全？\n\n答案很简单: 最普通、最边缘、最没有战略意义的城市。\n\n被导弹空袭打击的决定因素排序：是否政治中心、是否军事基地、是否交通枢纽、是否工业核心、是否靠近战区。\n\n最安全的城市: 不靠海、不靠边境热点方向、无重大军工、非金融中心、人口密度低、战略价值极低、打击收益太低。\n\n此外: 真正安全城市还需要农业自给能力和水资源充足。",
         "link": "https://x.com/colinwu/status/2027923614176301199"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027950558699786582",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "piped.video/live/27Vipv5HzXw… nitter.net/i/broadcasts/1oJMvRNvQ…",
-      "contentHtml": "<a href=\"https://piped.video/live/27Vipv5HzXw?feature=share\">piped.video/live/27Vipv5HzXw…</a> <a href=\"https://nitter.net/i/broadcasts/1oJMvRNvQZNxQ\">nitter.net/i/broadcasts/1oJMvRNvQ…</a>",
-      "publishedAt": "2026-03-01T03:34:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2027950558699786582",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027936311009787961",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "现在参与 USD1 持仓空投活动竞争似乎小一些了😌\n\n▶︎ 不用顶着 USD1 溢价冲了，现价 $0.9991\n▶︎ 02.11 起至今 USD1 发行量减少 6.7 亿枚，币安持有 38.3 亿枚 USD1，占总发行量的 81.6%\n▶︎ WLFI 币价仍稳在 $0.1154，假设币安内代币全部参与活动，目前参与的年化大约为 9.23%-11.08%（要看有没有 1.2 倍加成）\n\n现在这行情，能有 10% 左右的躺赚年化也挺不错了，最新一期活动时间是 02.20-03.20",
-      "contentHtml": "现在参与 USD1 持仓空投活动竞争似乎小一些了😌\n\n▶︎ 不用顶着 USD1 溢价冲了，现价 $0.9991\n▶︎ 02.11 起至今 USD1 发行量减少 6.7 亿枚，币安持有 38.3 亿枚 USD1，占总发行量的 81.6%\n▶︎ WLFI 币价仍稳在 $0.1154，假设币安内代币全部参与活动，目前参与的年化大约为 9.23%-11.08%（要看有没有 1.2 倍加成）\n\n现在这行情，能有 10% 左右的躺赚年化也挺不错了，最新一期活动时间是 02.20-03.20",
-      "publishedAt": "2026-03-01T02:37:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2027936311009787961",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCStQRJbEAEoTKa.png"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "币安 USD1 持仓空投活动上线 30 小时，数据杀疯了\n\n🔸USD1 总发行量暴涨 13.3 亿枚，增长至 44.7 亿美元\n🔹币安持仓 34.64 亿枚，占比达 77.5%，若全部用于参加活动，最新年化约为 ~13.8%\n🔸过去 24 小时全网交易量 58.5 亿美元\n🔹以太坊主网持仓占比 46.1%，BSC 占比 44.5%\n🔸Jump Trading 和 Auros Global 活动上线后累计向币安充值 7.4 亿枚 USD1，币安现价回落至 $1.0012\n\n上次硬顶 5 万美金的 20% 年化理财让发行量增长 1.18 亿枚，这次上不封顶的刺激效果确实强太多了…当前 USD1 稳定币排名 TOP6，距离 TOP5 仅剩 3.34 亿，估计等币安活动结束就要第五了",
-        "link": "https://x.com/ai_9684xtpa/status/2014940881426747686",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_aB4TJacAAz4vx.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027925262894350757",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "微微下注   买定离手  \n币圈见底\n贵金属见顶\n\n错的话损个10wu",
-      "contentHtml": "微微下注   买定离手  \n币圈见底\n贵金属见顶\n\n错的话损个10wu",
-      "publishedAt": "2026-03-01T01:53:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2027925262894350757",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCSjReybEAIyma8.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "跳个大神\n125000-130000\n#Bitcoin \n反正装神棍没啥成本\n成了再转发出来\n没成，我一天发好几条，你们都不好翻出来",
-        "link": "https://x.com/Bitfatty/status/1864486602967535914",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FGd_8Krta0AES4Fc.jpg"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
