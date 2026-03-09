@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T11:58:34.891Z",
+  "lastUpdated": "2026-03-09T12:21:40.349Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,36 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 465,
+    "newFetched": 468,
     "successUsers": 23,
     "failedUsers": 4
   },
   "tweets": [
+    {
+      "id": "2030975094164689110",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "同样一篇推特文章，手机端可以看到图文混排，电脑端却看不到。文章编辑时，又不能将图片拉到文字中间了。\n\n最奇葩的是“搜索”功能，永远都找不到我要找的曾经写过的文章 ..... 都 AI 时代了，怎么连最基本的“搜索”和“排版”功能都搞不定？？？\n\n马老板是不是工资没给到位啊~~~",
+      "contentHtml": "同样一篇推特文章，手机端可以看到图文混排，电脑端却看不到。文章编辑时，又不能将图片拉到文字中间了。\n\n最奇葩的是“搜索”功能，永远都找不到我要找的曾经写过的文章 ..... 都 AI 时代了，怎么连最基本的“搜索”和“排版”功能都搞不定？？？\n\n马老板是不是工资没给到位啊~~~",
+      "publishedAt": "2026-03-09T11:52:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2030975094164689110",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC92_1TbUAAXutO.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC93IW5bcAA1i2R.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2030963096211403181",
       "username": "hazenlee",
@@ -1315,37 +1340,6 @@
       }
     },
     {
-      "id": "2030635307624980583",
-      "username": "TiezhuCrypto",
-      "displayName": "铁柱哥在CRYPTO",
-      "avatar": "https://nitter.net/pic/profile_images%2F1806869533002797056%2FSJVZLyx1_bigger.jpg",
-      "content": "两位大佬都讲的很具体，但仍然有不少人认为这就是新的次贷危机，实际上则并非如此。我详细补充一些背景知识。\n1、基本的结论：目前的私募信贷是流动性危机，并不是底层资产的信用危机。尽管因为Ai恐慌导致软件行业暴跌，但是从信用评级上，软件行业的高现金流模式下，下调的并不多。\n\n2、私募信贷高速发展的背景：\n1）主因还是08年以后，巴三协议大幅度提高了银行资本金的要求，导致非银放贷开始迅速填补这个空白。本质就是监管套利的产物。\n2）08年以后，长期的低利率环境，保险、养老基金这种面临比较大的资产配置压力，固收产品的低利率难以覆盖保单刚性兑付的需求。于是私募信贷的高收益，就成为了这类机构追逐的主要标的。也是目前美国私募信贷最大的持有方，但整体比例依然不超过5%。\n3）从需求角度来说，私募信贷有一个好处，就是用途和贷款条款的灵活性，而且还不需要披露。那么，比如杠杆收购就会去找这样的资金去操作。\n\n3、基本的运作模式\n1）资金方主要就是保险、养老金、主权基金、家办这些募资；主做私募信贷的机构一般是私募信贷基金（封闭式）、BDC（公开募资版本的私募信贷）、非上市的BDC（富裕个人投资者，季度赎回）。还有一类就是私募信贷CLO，这块比例并不大。\n\n2）杠杆模式。企业端，一般按照债务和EBITDA比例，中位数大概为5倍。通俗地说，按照全部一年全部现金流还，需要还五年才能还完债务本金。 私募信贷机构本身也会向银行贷款来放大资金，这部分通常大概2倍左右杠杆。目前粗略预估，整个美国大银行这块有3000亿（广义口径）。\n\n4、风险传导和次贷危机的区别\n\n首先就是杠杆倍数是不一样，次贷危机多层衍生品嵌套下来高达十几倍。关键的是，很多银行直接持有次贷机构产品，敞口非常高。\n\n但是最重要的区别还是会计意义上的计价方式。次贷危机就是按照市价来算，信贷则不是，是按照信用模型来算。区别就是在于前者很容易形成负螺旋，会让银行被迫缩减资产负债表。后者并不会看市价，因此形成类似估值崩塌式的连环清算。2025年美联储做过压力测试，基本上在极端情境下，也不构成对银行体系的重大危机。\n\n5、风险有多大\n1）08年以后，尤其是经历过加息周期后，贷款机构在杠杆上并不激进。杠杆收购里面的股权出资比例仍然高于此前的水平。但真正危险的恐怕并不是软件，而是顺周期的行业，比如汽车领域。\n\n2）银行层面，其持有的NBFI贷款其实绝大多数还是商业地产为主。大型银行其实也在分散并控制私募信贷的风险。\n\n3）虽然银行直接层面的风险看起来是可控。但这些风险并不是消失了，而是转移到非银机构了。如果底层资产违约率进一步上升，一方面是私募信贷基金和CLO等结构化产品的压力将迅速累积，可能触发赎回限制；另一方面，由于银行在这些体系中仍通过CLO持仓、融资等方式保持连接，压力最终仍可能通过资产价格、融资渠道或信贷供给的收缩重新传导回银行体系，并对实体经济的融资环境产生更广泛的影响。\n\n4）还有一个风险就是保险行业，如果大规模的信用评级下调，也会冲击资本充足率，对保险流动性压力也会有实质性压力。",
-      "contentHtml": "两位大佬都讲的很具体，但仍然有不少人认为这就是新的次贷危机，实际上则并非如此。我详细补充一些背景知识。\n1、基本的结论：目前的私募信贷是流动性危机，并不是底层资产的信用危机。尽管因为Ai恐慌导致软件行业暴跌，但是从信用评级上，软件行业的高现金流模式下，下调的并不多。\n\n2、私募信贷高速发展的背景：\n1）主因还是08年以后，巴三协议大幅度提高了银行资本金的要求，导致非银放贷开始迅速填补这个空白。本质就是监管套利的产物。\n2）08年以后，长期的低利率环境，保险、养老基金这种面临比较大的资产配置压力，固收产品的低利率难以覆盖保单刚性兑付的需求。于是私募信贷的高收益，就成为了这类机构追逐的主要标的。也是目前美国私募信贷最大的持有方，但整体比例依然不超过5%。\n3）从需求角度来说，私募信贷有一个好处，就是用途和贷款条款的灵活性，而且还不需要披露。那么，比如杠杆收购就会去找这样的资金去操作。\n\n3、基本的运作模式\n1）资金方主要就是保险、养老金、主权基金、家办这些募资；主做私募信贷的机构一般是私募信贷基金（封闭式）、BDC（公开募资版本的私募信贷）、非上市的BDC（富裕个人投资者，季度赎回）。还有一类就是私募信贷CLO，这块比例并不大。\n\n2）杠杆模式。企业端，一般按照债务和EBITDA比例，中位数大概为5倍。通俗地说，按照全部一年全部现金流还，需要还五年才能还完债务本金。 私募信贷机构本身也会向银行贷款来放大资金，这部分通常大概2倍左右杠杆。目前粗略预估，整个美国大银行这块有3000亿（广义口径）。\n\n4、风险传导和次贷危机的区别\n\n首先就是杠杆倍数是不一样，次贷危机多层衍生品嵌套下来高达十几倍。关键的是，很多银行直接持有次贷机构产品，敞口非常高。\n\n但是最重要的区别还是会计意义上的计价方式。次贷危机就是按照市价来算，信贷则不是，是按照信用模型来算。区别就是在于前者很容易形成负螺旋，会让银行被迫缩减资产负债表。后者并不会看市价，因此形成类似估值崩塌式的连环清算。2025年美联储做过压力测试，基本上在极端情境下，也不构成对银行体系的重大危机。\n\n5、风险有多大\n1）08年以后，尤其是经历过加息周期后，贷款机构在杠杆上并不激进。杠杆收购里面的股权出资比例仍然高于此前的水平。但真正危险的恐怕并不是软件，而是顺周期的行业，比如汽车领域。\n\n2）银行层面，其持有的NBFI贷款其实绝大多数还是商业地产为主。大型银行其实也在分散并控制私募信贷的风险。\n\n3）虽然银行直接层面的风险看起来是可控。但这些风险并不是消失了，而是转移到非银机构了。如果底层资产违约率进一步上升，一方面是私募信贷基金和CLO等结构化产品的压力将迅速累积，可能触发赎回限制；另一方面，由于银行在这些体系中仍通过CLO持仓、融资等方式保持连接，压力最终仍可能通过资产价格、融资渠道或信贷供给的收缩重新传导回银行体系，并对实体经济的融资环境产生更广泛的影响。\n\n4）还有一个风险就是保险行业，如果大规模的信用评级下调，也会冲击资本充足率，对保险流动性压力也会有实质性压力。",
-      "publishedAt": "2026-03-08T13:22:00.000Z",
-      "link": "https://x.com/TiezhuCrypto/status/2030635307624980583",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "quote": {
-        "username": "PhyrexNi",
-        "displayName": "Phyrex",
-        "content": "我也阅读过 武兄 的分析，非常同意 武兄 的观点，目前贝莱德和黑石并没有出现核心的问题，赎回还是可以的，都是在正常的赎回范围内，只是用户开始出现了更高的赎回申请。\n\n目前不论是贝莱德还是黑石，都还没有出现真正意义上的核心信用问题，赎回本身也不是完全失控，而是在产品规则允许的框架内处理。贝莱德 HLEND 这次是一季度赎回申请约占净值 9.3%，超过了原本 5% 的季度上限。黑石 BCRED 收到的赎回申请大约是基金份额的 7.9%，黑石则通过提高回购额度和内部注资来应对。也就是说，现在的问题不是发生暴雷或挤兑，而是投资者想走的人明显变多了。\n\n所以我真正想聊的，也不是贝莱德和黑石现在是不是已经出了大问题，而是为什么在还没有出现核心信用事件的时候，申请退出的人会突然创纪录地变多？这件事本身，就是风险的一部分。\n\n对于私募信贷产品来说，投资者的担忧往往都是从账面上的净值、利息收入和违约率，这些数据反应出来的。美国私募信贷借款人的违约率在 2025 年已经升到 9.2% 的纪录高位，市场对底层借款人质量的担心本来就在上升。上市 BDC 的股价也已经明显折价，中位数大约跌到账面价值的 73%。\n\n这也是为什么现在机构在做空信贷 ETF 的原因。甚至 Fitch 也显示，永久型非上市 BDC 在 2025 年四季度平均赎回率已从 1.6% 升到 4.5%。\n\n美国经历过多次的信贷危机了，对于机构来说，信贷风险这玩意要么就是你好我好，要么就是拖累死一堆人，现在在做空信贷并不是认为一定会暴雷，而是在防范可能会出现的危险，而且这种危险随着利率的高位确实会逐渐放大。\n\n所以我个人并不觉得这是在危言耸听，当然也有可能是我能力不足，当最后也有可能什么都没发生，或者美联储更快降息、再融资窗口重新打开，把这些压力重新压回去，但对于已经来到历史高位的信贷 ETF 对冲仓位来说，我更愿意做的，是把可能出现的问题讲清楚，而不是告诉大家现在一切都风平浪静。\n\n毕竟机构是在用真金白银来做空（对冲），而不是嘴上说说。",
-        "link": "https://x.com/PhyrexNi/status/2030567076134555943",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHC4DEsqaUAANLUF.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2030626320963834062",
       "username": "daidaibtc",
       "displayName": "带带带比特",
@@ -1901,31 +1895,6 @@
         "displayName": "Murphy",
         "content": "x.com/i/article/203027869871…",
         "link": "https://x.com/Murphychen888/status/2030459783913124318"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030493668751393246",
-      "username": "TiezhuCrypto",
-      "displayName": "铁柱哥在CRYPTO",
-      "avatar": "https://nitter.net/pic/profile_images%2F1806869533002797056%2FSJVZLyx1_bigger.jpg",
-      "content": "非常好的总结。\n\n银行业和稳定币发行围绕利息的博弈，其实跟当年的出租车和网约车的竞争是类似的。因为银行业和出租车行业都是特许经营的牌照生意。因此，最简单的排挤竞争对手的方式，就是想办法把对方定义成违法。\n\n银行的特许经营从最底层的商业模式上其实是围绕账户构建的整合性优势，账户即支付，账户即储蓄。更进一步来说，银行的商业模式，就是拿账户的特许经营优势，吸收低成本资金去赚钱。其资产负债表全部是建立在账户特许经营这个基础上。\n\n稳定币其实是把这个东西给拆掉了。发行方、钱包、链和协议对应的是不同层面的东西。\n根本上说来，稳定币以及围绕稳定币的体系，挑战的是银行的账户作为一切金融入口的独占体系。",
-      "contentHtml": "非常好的总结。\n\n银行业和稳定币发行围绕利息的博弈，其实跟当年的出租车和网约车的竞争是类似的。因为银行业和出租车行业都是特许经营的牌照生意。因此，最简单的排挤竞争对手的方式，就是想办法把对方定义成违法。\n\n银行的特许经营从最底层的商业模式上其实是围绕账户构建的整合性优势，账户即支付，账户即储蓄。更进一步来说，银行的商业模式，就是拿账户的特许经营优势，吸收低成本资金去赚钱。其资产负债表全部是建立在账户特许经营这个基础上。\n\n稳定币其实是把这个东西给拆掉了。发行方、钱包、链和协议对应的是不同层面的东西。\n根本上说来，稳定币以及围绕稳定币的体系，挑战的是银行的账户作为一切金融入口的独占体系。",
-      "publishedAt": "2026-03-08T03:59:00.000Z",
-      "link": "https://x.com/TiezhuCrypto/status/2030493668751393246",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "quote": {
-        "username": "DrJStrategy",
-        "displayName": "James E. Thorne",
-        "content": "For the record. \n\nBanks’ War on Stablecoin Yields Is a Self‑Defeating Cartel Play\n\nThe banks’ standoff over the Digital Asset Market Clarity Act (CLARITY Act) has moved from caution to farce. They are fighting the one bill that would actually constrain the yield‑bearing stablecoin products they claim will drain their deposits.\n\nBanks have spent months trying to gut provisions that let ordinary Americans earn modest returns, 2-4%, on digital dollars through transactional incentives and liquidity rewards. \n\nTheir fear is clear: if people can hold a dollar‑denominated token in a wallet and earn a real return, hundreds of billions could leak out of low‑yield deposits, squeezing margins and weakening their privileged funding model.\n\nThat concern might be defensible, if their strategy weren’t completely backwards. By blowing up the White House’s narrow compromise and stalling CLARITY past the March 1 deadline, the banks are preserving the very loophole they say terrifies them. Under the existing GENIUS Act, issuers can’t pay interest, but exchanges and wallets can still offer “rewards” on those same stablecoins. That grey zone is exactly what CLARITY is designed to bring inside the perimeter.\n\nThe administration’s offer was hardly radical: ban passive “park‑and‑earn” yield that directly mimics deposits, but allow activity‑based rewards tied to payments, transfers, and liquidity. That protects core funding while letting digital‑asset markets remain competitive. The banking lobby’s response was to demand a near‑total prohibition, effectively conscripting regulators to preserve banks’ ability to pay near‑zero on deposits while shutting down anyone who offers a market‑like return.\n\nAt that point this is no longer prudential oversight; it is naked protectionism. It keeps consumers trapped in a rigged game where incumbents hoard cheap capital and innovation is forced into legal grey zones or offshore. President Trump is right to say the banks are holding the “Crypto Agenda” hostage. Passing CLARITY with the compromise intact, ban idle yield, permit genuine usage‑based rewards—is the only coherent way to protect deposits without strangling a market that already exists.\n\nIf banks kill that outcome, they may get exactly what they fear: stablecoin rewards growing anyway, just further from U.S. law and closer to the edge of the system, while Americans finally see how little value their so‑called guardians of stability are actually willing to deliver.\n\nAs President Trump put it, “We’re not going to let the banks strangle innovation just to protect a broken model, Americans deserve real choice, real yield, and a fair system that works for them, not just for Wall Street.”",
-        "link": "https://x.com/DrJStrategy/status/2030401109433417946"
       },
       "stats": {
         "replies": 0,
@@ -11284,6 +11253,21 @@
           "url": "https://nitter.net/pic/orig/media%2FHCRq5xAXwAAg_Bj.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2027754046124445994",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "we spent years begging for insti adoption\n\nwe got it\n\ncrypto is now tradfi's preferred riskoff short on weekends, maybe the most bullish and most annoying market structure development at the same time 🤷",
+      "contentHtml": "we spent years begging for insti adoption\n\nwe got it\n\ncrypto is now tradfi's preferred riskoff short on weekends, maybe the most bullish and most annoying market structure development at the same time 🤷",
+      "publishedAt": "2026-02-28T14:33:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2027754046124445994",
       "stats": {
         "replies": 0,
         "retweets": 0,
