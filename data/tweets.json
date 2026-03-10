@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T12:18:55.713Z",
+  "lastUpdated": "2026-03-10T12:48:55.995Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 427,
-    "successUsers": 21,
-    "failedUsers": 6
+    "newFetched": 489,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2031347833526518236",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "同一批人又赚第二波钱了吗？",
+      "contentHtml": "同一批人又赚第二波钱了吗？",
+      "publishedAt": "2026-03-10T12:33:00.000Z",
+      "link": "https://x.com/hazenlee/status/2031347833526518236",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDDMFc0aMAUzkkh.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2031326610276889087",
       "username": "OwenJin12",
@@ -11265,21 +11286,6 @@
       "contentHtml": "绝大部分人连超五万美元都带不出国，还想着带金条逃难呢😅",
       "publishedAt": "2026-03-02T05:06:00.000Z",
       "link": "https://x.com/taresky/status/2028336019960152251",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2028314493206585471",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
-      "content": "Is Traditional Software Engineering Dead?\n\n“Does this mean that traditional software engineering is dead? Absolutely not. Software engineers—even the ones who are not necessarily tuning or training AI models—these are now among the most leveraged people on earth. Sure, the guys who are training and tuning models are even more leveraged because they’re building the tool set that software engineers are using.\n\nBut software engineers still have two massive advantages on you. First, they think in code, so they actually know what’s going on underneath. And all abstractions are leaky. So when you have a computer programming for you—when you have Claude Code or equivalent programming for you—it’s going to make mistakes.\n\nIt’s going to have bugs. It’s going to have suboptimal architecture. So it’s not going to be quite right. And someone who understands what’s going on underneath will be able to plug the leaks as they occur.\n\nSo if you want to build a well-architected application, if you want to be able to even specify a well-architected application, if you want to be able to make it run at high performance, if you want it to do its best, if you want to catch the bugs early, then you’re going to want to have a software engineering background.\n\nThe traditional software engineer is going to be able to use these tools much better. And there are still many kinds of problems in software engineering that are out of scope for these AI programs today. The easiest way to think about those is problems that are outside of their data distribution.\n\nFor example, if they need to do a binary sort or reverse a linked list, they’ve seen countless examples of that, so they’re extremely good at it. But when you start getting out of their domain—where you have to write very high-performance code, when you’re running on architectures that are novel or brand new, when you’re actually creating new things or solving new problems, then you still need to get in there and hand code it.\n\nAt least until either there are so many of those examples that new models can be trained on them, or until these models can sufficiently reason at even higher levels of abstraction and crack it on their own…\n\nAnd remember: there is no demand for average. The average app—nobody wants it, at least as long as it’s not filling some niche that is filled by a superior app. The app that is better will win essentially a hundred percent of the market. Maybe there’s some small percentage that will bleed off to the second-best app because it does some little niche feature better than the main app, or it’s cheaper, or something of the sort.\n\nBut generally speaking, people only want the best of anything. So the bad news is there’s no point in being number two or number three—like in the famous Glengarry Glen Ross scene where Alec Baldwin says, “First place gets a Cadillac Eldorado, second place gets a set of steak knives, and third place you’re fired.”\n\nThat’s absolutely true in these winner-take-all markets. That’s the bad news: You have to be the best at something if you want to win.\n\nHowever, the set of things you can be best at is infinite. You can always find some niche that is perfect for you, and you can be the best at that thing. This goes back to an old tweet of mine where I said, “Become the best in the world at what you do. Keep redefining what you do until this is true.”\n\nAnd I think that still applies in this age of AI.”",
-      "contentHtml": "Is Traditional Software Engineering Dead?\n\n“Does this mean that traditional software engineering is dead? Absolutely not. Software engineers—even the ones who are not necessarily tuning or training AI models—these are now among the most leveraged people on earth. Sure, the guys who are training and tuning models are even more leveraged because they’re building the tool set that software engineers are using.\n\nBut software engineers still have two massive advantages on you. First, they think in code, so they actually know what’s going on underneath. And all abstractions are leaky. So when you have a computer programming for you—when you have Claude Code or equivalent programming for you—it’s going to make mistakes.\n\nIt’s going to have bugs. It’s going to have suboptimal architecture. So it’s not going to be quite right. And someone who understands what’s going on underneath will be able to plug the leaks as they occur.\n\nSo if you want to build a well-architected application, if you want to be able to even specify a well-architected application, if you want to be able to make it run at high performance, if you want it to do its best, if you want to catch the bugs early, then you’re going to want to have a software engineering background.\n\nThe traditional software engineer is going to be able to use these tools much better. And there are still many kinds of problems in software engineering that are out of scope for these AI programs today. The easiest way to think about those is problems that are outside of their data distribution.\n\nFor example, if they need to do a binary sort or reverse a linked list, they’ve seen countless examples of that, so they’re extremely good at it. But when you start getting out of their domain—where you have to write very high-performance code, when you’re running on architectures that are novel or brand new, when you’re actually creating new things or solving new problems, then you still need to get in there and hand code it.\n\nAt least until either there are so many of those examples that new models can be trained on them, or until these models can sufficiently reason at even higher levels of abstraction and crack it on their own…\n\nAnd remember: there is no demand for average. The average app—nobody wants it, at least as long as it’s not filling some niche that is filled by a superior app. The app that is better will win essentially a hundred percent of the market. Maybe there’s some small percentage that will bleed off to the second-best app because it does some little niche feature better than the main app, or it’s cheaper, or something of the sort.\n\nBut generally speaking, people only want the best of anything. So the bad news is there’s no point in being number two or number three—like in the famous Glengarry Glen Ross scene where Alec Baldwin says, “First place gets a Cadillac Eldorado, second place gets a set of steak knives, and third place you’re fired.”\n\nThat’s absolutely true in these winner-take-all markets. That’s the bad news: You have to be the best at something if you want to win.\n\nHowever, the set of things you can be best at is infinite. You can always find some niche that is perfect for you, and you can be the best at that thing. This goes back to an old tweet of mine where I said, “Become the best in the world at what you do. Keep redefining what you do until this is true.”\n\nAnd I think that still applies in this age of AI.”",
-      "publishedAt": "2026-03-02T03:40:00.000Z",
-      "link": "https://x.com/naval/status/2028314493206585471",
       "stats": {
         "replies": 0,
         "retweets": 0,
