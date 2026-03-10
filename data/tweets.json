@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T17:47:53.393Z",
+  "lastUpdated": "2026-03-10T18:18:14.742Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,7 +89,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 467,
+    "newFetched": 464,
     "successUsers": 23,
     "failedUsers": 4
   },
@@ -415,6 +415,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHDDMFc0aMAUzkkh.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031340940573684125",
+      "username": "FrontierLab_ZH",
+      "displayName": "Frontier Lab 中文",
+      "avatar": "https://nitter.net/pic/profile_images%2F1777659632871424000%2FhZFVT5tb_bigger.jpg",
+      "content": "x.com/i/article/203096902716…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030969027162673152\">x.com/i/article/203096902716…</a>",
+      "publishedAt": "2026-03-10T12:06:00.000Z",
+      "link": "https://x.com/FrontierLab_ZH/status/2031340940573684125",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2154,25 +2173,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHCe7HoDbMAAovch.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030911858652418167",
-      "username": "sxzz",
-      "displayName": "老沙",
-      "avatar": "https://nitter.net/pic/profile_images%2F1869962277123960834%2FwYYRsJ5c_bigger.jpg",
-      "content": "x.com/i/article/203090674803…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
-      "publishedAt": "2026-03-09T07:41:00.000Z",
-      "link": "https://x.com/sxzz/status/2030911858652418167",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
       },
       "stats": {
         "replies": 0,
