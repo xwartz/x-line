@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T11:26:53.258Z",
+  "lastUpdated": "2026-03-10T11:44:30.177Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 451,
-    "successUsers": 22,
-    "failedUsers": 5
+    "newFetched": 507,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
     {
@@ -936,6 +936,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHDA36YgbgAA7MG8.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -1624,6 +1628,31 @@
             "url": "https://nitter.net/pic/orig/media%2FHCuvMCxaUAAhLQJ.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030948600944144599",
+      "username": "Chris_arnade",
+      "displayName": "Chris Arnade 🐢🐱🚌",
+      "avatar": "https://nitter.net/pic/profile_images%2F1715244769411244032%2F2f6Fc2H5_bigger.jpg",
+      "content": "We don't have public restrooms because they'd be trashed in days.\n\nWe don't build bus stops because they'd become homeless shelters.\n\nWe don't have dense walkable cities because nobody wants to be accosted by strangers.\n\nThis is because we have chosen to accept public disorder, and as the rest of the world shows, it doesn't have to be that way  \n\nwalkingtheworld.substack.com…",
+      "contentHtml": "We don't have public restrooms because they'd be trashed in days.\n\nWe don't build bus stops because they'd become homeless shelters.\n\nWe don't have dense walkable cities because nobody wants to be accosted by strangers.\n\nThis is because we have chosen to accept public disorder, and as the rest of the world shows, it doesn't have to be that way  \n\n<a href=\"https://walkingtheworld.substack.com/p/america-and-public-disorder\">walkingtheworld.substack.com…</a>",
+      "publishedAt": "2026-03-09T10:07:00.000Z",
+      "link": "https://x.com/Chris_arnade/status/2030948600944144599",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC9ggqJb0AA-wfR.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -4943,6 +4972,25 @@
         "displayName": "Theclues",
         "content": "这个场景适用于过去48小时的 #BTC 吗？",
         "link": "https://x.com/follow_clues/status/2029581016411820418"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029931861825442107",
+      "username": "kimmaicutler",
+      "displayName": "Kim-Mai Cutler",
+      "avatar": "https://nitter.net/pic/profile_images%2F1404253821870624769%2FHhbLZL8V_bigger.jpg",
+      "content": "“SEIU is known in California political circles for pioneering and perfecting the art of extortion via ballot initiative.” astralcodexten.com/p/seiu-de…",
+      "contentHtml": "“SEIU is known in California political circles for pioneering and perfecting the art of extortion via ballot initiative.” <a href=\"https://www.astralcodexten.com/p/seiu-delenda-est\">astralcodexten.com/p/seiu-de…</a>",
+      "publishedAt": "2026-03-06T14:47:00.000Z",
+      "link": "https://x.com/kimmaicutler/status/2029931861825442107",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11232,42 +11280,6 @@
       "contentHtml": "Is Traditional Software Engineering Dead?\n\n“Does this mean that traditional software engineering is dead? Absolutely not. Software engineers—even the ones who are not necessarily tuning or training AI models—these are now among the most leveraged people on earth. Sure, the guys who are training and tuning models are even more leveraged because they’re building the tool set that software engineers are using.\n\nBut software engineers still have two massive advantages on you. First, they think in code, so they actually know what’s going on underneath. And all abstractions are leaky. So when you have a computer programming for you—when you have Claude Code or equivalent programming for you—it’s going to make mistakes.\n\nIt’s going to have bugs. It’s going to have suboptimal architecture. So it’s not going to be quite right. And someone who understands what’s going on underneath will be able to plug the leaks as they occur.\n\nSo if you want to build a well-architected application, if you want to be able to even specify a well-architected application, if you want to be able to make it run at high performance, if you want it to do its best, if you want to catch the bugs early, then you’re going to want to have a software engineering background.\n\nThe traditional software engineer is going to be able to use these tools much better. And there are still many kinds of problems in software engineering that are out of scope for these AI programs today. The easiest way to think about those is problems that are outside of their data distribution.\n\nFor example, if they need to do a binary sort or reverse a linked list, they’ve seen countless examples of that, so they’re extremely good at it. But when you start getting out of their domain—where you have to write very high-performance code, when you’re running on architectures that are novel or brand new, when you’re actually creating new things or solving new problems, then you still need to get in there and hand code it.\n\nAt least until either there are so many of those examples that new models can be trained on them, or until these models can sufficiently reason at even higher levels of abstraction and crack it on their own…\n\nAnd remember: there is no demand for average. The average app—nobody wants it, at least as long as it’s not filling some niche that is filled by a superior app. The app that is better will win essentially a hundred percent of the market. Maybe there’s some small percentage that will bleed off to the second-best app because it does some little niche feature better than the main app, or it’s cheaper, or something of the sort.\n\nBut generally speaking, people only want the best of anything. So the bad news is there’s no point in being number two or number three—like in the famous Glengarry Glen Ross scene where Alec Baldwin says, “First place gets a Cadillac Eldorado, second place gets a set of steak knives, and third place you’re fired.”\n\nThat’s absolutely true in these winner-take-all markets. That’s the bad news: You have to be the best at something if you want to win.\n\nHowever, the set of things you can be best at is infinite. You can always find some niche that is perfect for you, and you can be the best at that thing. This goes back to an old tweet of mine where I said, “Become the best in the world at what you do. Keep redefining what you do until this is true.”\n\nAnd I think that still applies in this age of AI.”",
       "publishedAt": "2026-03-02T03:40:00.000Z",
       "link": "https://x.com/naval/status/2028314493206585471",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2028314495253418083",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
-      "content": "Full episode: nitter.net/naval/status/202470022…",
-      "contentHtml": "Full episode: <a href=\"https://nitter.net/naval/status/2024700227111047581?s=20\">nitter.net/naval/status/202470022…</a>",
-      "publishedAt": "2026-03-02T03:40:00.000Z",
-      "link": "https://x.com/naval/status/2028314495253418083",
-      "quote": {
-        "username": "naval",
-        "displayName": "Naval",
-        "content": "New podcast on AI (full episode). Links below.\n\nA Motorcycle for the Mind\n\n0:00 If you want to learn, do\n\n2:13 Vibe coding is the new product management\n\n6:49 Training models is the new coding\n\n10:13 Is traditional software engineering dead?\n\n13:07 There is no demand for average\n\n14:12 The hottest new programming language is English\n\n18:36 AI is adapting to us faster than we are adapting to it\n\n22:56 No entrepreneur is worried about AI taking their job\n\n26:46 The goal is not to have a job\n\n29:49 AIs are not alive\n\n32:55 AI fails the only true test of intelligence\n\n36:49 Early adopters of AI have an enormous edge\n\n39:37 AI meets you exactly where you are\n\n43:02 Always leverage the best intelligence\n\n44:37 If you can't define it, you can't program it\n\n49:37 The solution to AI anxiety is action",
-        "link": "https://x.com/naval/status/2024700227111047581"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2028304226791968868",
-      "username": "boundaryhq",
-      "displayName": "boundary",
-      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
-      "content": "昨日宏观简报（2026-03-01，北京时间）——重点如下：\n\n先看三条主线\n\n1. 能源运输风险成为核心变量\n霍尔木兹附近出现大量油轮/LNG船锚泊与通行受扰，市场关注点从“有没有油”转向“油能不能运出来”。\n2. OPEC+小幅增产，但对冲力度有限\n4月增产 20.6万桶/日，体量偏小；在运输受阻背景下，纸面增产对平抑价格的边际作用不强。\n3. 风险溢价抬升，避险交易升温\n周末场外原油报价明显上行，黄金避险需求同步增强；海湾股市先行承压，全球资产进入再定价阶段。\n\n───\n\n关键事实（精简版）\n\n• 霍尔木兹运输扰动：多艘油轮停滞/受损事件，物流与保险约束收紧。\n• 油价情景上修：交易层面开始定价“高油价区间”，核心取决于航运恢复速度。\n• 亚洲进口方应急：库存、替代货源、航线方案全面评估。\n• 日本航运企业动作：暂停或待命相关航线，强化“运输约束先于供给约束”的判断。\n• 海湾市场先跌：区域风险资产率先反应，给欧美时段定下偏谨慎基调。\n• 韩国出口超预期：2月出口同比 +29%，半导体出口强，显示制造与科技需求仍有韧性。\n• 央行面相对静默：周末无新增重大政策落地，市场更由能源与避险价格主导。",
-      "contentHtml": "昨日宏观简报（2026-03-01，北京时间）——重点如下：\n\n先看三条主线\n\n1. 能源运输风险成为核心变量\n霍尔木兹附近出现大量油轮/LNG船锚泊与通行受扰，市场关注点从“有没有油”转向“油能不能运出来”。\n2. OPEC+小幅增产，但对冲力度有限\n4月增产 20.6万桶/日，体量偏小；在运输受阻背景下，纸面增产对平抑价格的边际作用不强。\n3. 风险溢价抬升，避险交易升温\n周末场外原油报价明显上行，黄金避险需求同步增强；海湾股市先行承压，全球资产进入再定价阶段。\n\n───\n\n关键事实（精简版）\n\n• 霍尔木兹运输扰动：多艘油轮停滞/受损事件，物流与保险约束收紧。\n• 油价情景上修：交易层面开始定价“高油价区间”，核心取决于航运恢复速度。\n• 亚洲进口方应急：库存、替代货源、航线方案全面评估。\n• 日本航运企业动作：暂停或待命相关航线，强化“运输约束先于供给约束”的判断。\n• 海湾市场先跌：区域风险资产率先反应，给欧美时段定下偏谨慎基调。\n• 韩国出口超预期：2月出口同比 +29%，半导体出口强，显示制造与科技需求仍有韧性。\n• 央行面相对静默：周末无新增重大政策落地，市场更由能源与避险价格主导。",
-      "publishedAt": "2026-03-02T02:59:00.000Z",
-      "link": "https://x.com/boundaryhq/status/2028304226791968868",
       "stats": {
         "replies": 0,
         "retweets": 0,
