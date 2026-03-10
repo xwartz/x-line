@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T00:52:02.196Z",
+  "lastUpdated": "2026-03-10T01:36:08.934Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,80 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 448,
-    "successUsers": 22,
-    "failedUsers": 5
+    "newFetched": 507,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2031181782599741797",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "懂王：我的原油多单已平仓😬\n\n近 $120 跌至 $85，一天跌掉 29% 的原油似乎快要故事结束了 —— 03.08 做空 CL 亏损 159.5 万美元的地址也这把终于又靠做空赚回来了，他以 $106.28 的均价做空 6562 CL（557 万美元），现已浮盈 140.5 万美元，即将回本，是 Hyperliquid CL 头寸浮盈 TOP2 的地址\n\n传送门 👉 hyperdash.com/address/0x8af7…",
+      "contentHtml": "懂王：我的原油多单已平仓😬\n\n近 $120 跌至 $85，一天跌掉 29% 的原油似乎快要故事结束了 —— 03.08 做空 CL 亏损 159.5 万美元的地址也这把终于又靠做空赚回来了，他以 $106.28 的均价做空 6562 CL（557 万美元），现已浮盈 140.5 万美元，即将回本，是 Hyperliquid CL 头寸浮盈 TOP2 的地址\n\n传送门 👉 <a href=\"https://hyperdash.com/address/0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05\">hyperdash.com/address/0x8af7…</a>",
+      "publishedAt": "2026-03-10T01:34:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2031181782599741797",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDA07nlaMAImUnz.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "一刷信息流都是原油赚麻了的？那看看这条顺顺气吧🤣\n\n地址 0xf4b…9f3ee 过去 5 天共进行了 8 次 CL 交易，多空都有\n▶︎ 03.04 - 03.07：累计获利 78 万美元\n▶︎ 03.09：早上原油跳涨时追涨做多（$103.38 开仓），持仓不到 4 小时就亏损 124.8 万美元离场（$95.06 离场）\n\n一把亏完之前的所有利润，目前单币仍亏损 46.9 万美元；传送门 👉 hyperdash.com/address/0xf4b8…",
+        "link": "https://x.com/ai_9684xtpa/status/2030997824612286780",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHC-NejMa0AAE_7v.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031172014275494254",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "简单说追求集体认同的都是些废物。\n\n这认同那认同的，无非是你自己不认同自己。",
+      "contentHtml": "简单说追求集体认同的都是些废物。\n\n这认同那认同的，无非是你自己不认同自己。",
+      "publishedAt": "2026-03-10T00:55:00.000Z",
+      "link": "https://x.com/taresky/status/2031172014275494254",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031171535382470960",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "今天应该很多人都在押注  原油\n赌这两天就是回调，回调结束继续喷射？\n$uso",
+      "contentHtml": "今天应该很多人都在押注  原油\n赌这两天就是回调，回调结束继续喷射？\n<a href=\"/search?f=tweets&q=%23uso\">$uso</a>",
+      "publishedAt": "2026-03-10T00:53:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2031171535382470960",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDArvdVaMAIihVC.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2031169377014526239",
       "username": "taresky",
@@ -109,6 +178,27 @@
         "content": "x.com/i/article/203090674803…",
         "link": "https://x.com/sxzz/status/2030911858652418167"
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031166518109818973",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "早   \n币圈挥金如土\n生活缝缝补补\n\n10块钱一碗牛肉米线\n单人vip专座",
+      "contentHtml": "早   \n币圈挥金如土\n生活缝缝补补\n\n10块钱一碗牛肉米线\n单人vip专座",
+      "publishedAt": "2026-03-10T00:33:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2031166518109818973",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDAnKyhaMAAdBkj.jpg"
+        }
+      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11132,84 +11222,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHCUD6UxaIAIsKqc.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2028007409235726426",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "其实最近不是不发其他项目了，是真没啥新东西可以发了，看了一圈项目只有几个项目性价比高，撸毛现在必须要看性价比和盈亏比了。多发几个没有意义的项目也是浪费彼此的时间。",
-      "contentHtml": "其实最近不是不发其他项目了，是真没啥新东西可以发了，看了一圈项目只有几个项目性价比高，撸毛现在必须要看性价比和盈亏比了。多发几个没有意义的项目也是浪费彼此的时间。",
-      "publishedAt": "2026-03-01T07:20:00.000Z",
-      "link": "https://x.com/0xleng1/status/2028007409235726426",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2028007368995533037",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "前几天刚刚提到 Stable 涨的不错，不知道是不是因为这个利好。\n\nAI 的进化速度还是挺可怕的，Agent 已经可以接管电脑做很多事情了，未来很多应用，网页都不再需要了。\n\n换到 web3 也一样，链上支付操作不是人而是 Agent 做的，@Stable_CN 不像 eth 或者其他链，用原生的 USDT0, 规避 gas 代币波动风险。Stable 有在做 Agent 相关的基建，TG 最近也有发红包。\n\n这条不是投资建议。",
-      "contentHtml": "前几天刚刚提到 Stable 涨的不错，不知道是不是因为这个利好。\n\nAI 的进化速度还是挺可怕的，Agent 已经可以接管电脑做很多事情了，未来很多应用，网页都不再需要了。\n\n换到 web3 也一样，链上支付操作不是人而是 Agent 做的，<a href=\"/Stable_CN\" title=\"Stable华语社区\">@Stable_CN</a> 不像 eth 或者其他链，用原生的 USDT0, 规避 gas 代币波动风险。Stable 有在做 Agent 相关的基建，TG 最近也有发红包。\n\n这条不是投资建议。",
-      "publishedAt": "2026-03-01T07:20:00.000Z",
-      "link": "https://x.com/0xleng1/status/2028007368995533037",
-      "quote": {
-        "username": "Stable",
-        "displayName": "Stable",
-        "content": "In their latest memo, @Citrini7 said agents would route via stablecoins on existing chains and L2s.\n\nThe thesis holds.\n\nBut @Stable went one step further.\n\nWe built a stablecoin-native blockchain where agents operate without holding separate gas tokens.\n\nSee the difference 👇",
-        "link": "https://x.com/Stable/status/2027050512227672100",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCGHslVbUAABwzY.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027999214672965833",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "别打了\n别打了\n\n别打击我账户了😤😤😤😤",
-      "contentHtml": "别打了\n别打了\n\n别打击我账户了😤😤😤😤",
-      "publishedAt": "2026-03-01T06:47:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2027999214672965833",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2027997654672953852",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "赌战争结束 + 40x 看多杠杆 = 快爆仓了😨\n\n地址 0xdf1…6f0b0 十点半（即官方宣布伊朗最高领袖哈梅内伊遇害后）开启 1000 $BTC 的 40x 多头杠杆（价值 6683 万美元），开仓价 $67167，清算价 $66594，距离清算只有 573 刀的距离了\n\n好在此外他还持有 $SOL 的 20x 多头杠杆，目前浮盈 79 万美元\n\n传送门 👉 hypurrscan.io/address/0xdf13…",
-      "contentHtml": "赌战争结束 + 40x 看多杠杆 = 快爆仓了😨\n\n地址 0xdf1…6f0b0 十点半（即官方宣布伊朗最高领袖哈梅内伊遇害后）开启 1000 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 的 40x 多头杠杆（价值 6683 万美元），开仓价 $67167，清算价 $66594，距离清算只有 573 刀的距离了\n\n好在此外他还持有 <a href=\"/search?f=tweets&q=%23SOL\">$SOL</a> 的 20x 多头杠杆，目前浮盈 79 万美元\n\n传送门 👉 <a href=\"https://hypurrscan.io/address/0xdf13e8eadca683420c89eb2539ac04a59806f0b0#perps\">hypurrscan.io/address/0xdf13…</a>",
-      "publishedAt": "2026-03-01T06:41:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2027997654672953852",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCTlG9ibEAEt0dk.jpg"
         }
       ],
       "stats": {
