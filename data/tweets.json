@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T22:26:08.778Z",
+  "lastUpdated": "2026-03-10T22:43:59.608Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 509,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 464,
+    "successUsers": 23,
+    "failedUsers": 4
   },
   "tweets": [
+    {
+      "id": "2031500579760164869",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "猜：ETH期货这多头鲸鱼是“多头之心不死”的那个男人吗？😂",
+      "contentHtml": "猜：ETH期货这多头鲸鱼是“多头之心不死”的那个男人吗？😂",
+      "publishedAt": "2026-03-10T22:40:00.000Z",
+      "link": "https://x.com/follow_clues/status/2031500579760164869",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDFW0jdaMAAEobt.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2031476017231962472",
       "username": "TJ_Research",
@@ -574,25 +595,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDDMFc0aMAUzkkh.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031340940573684125",
-      "username": "FrontierLab_ZH",
-      "displayName": "Frontier Lab 中文",
-      "avatar": "https://nitter.net/pic/profile_images%2F1777659632871424000%2FhZFVT5tb_bigger.jpg",
-      "content": "x.com/i/article/203096902716…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2030969027162673152\">x.com/i/article/203096902716…</a>",
-      "publishedAt": "2026-03-10T12:06:00.000Z",
-      "link": "https://x.com/FrontierLab_ZH/status/2031340940573684125",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
