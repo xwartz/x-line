@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T20:45:56.768Z",
+  "lastUpdated": "2026-03-11T20:59:50.581Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 491,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 521,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -2832,6 +2832,21 @@
       }
     },
     {
+      "id": "2031001744214491146",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
+      "content": "RT @Chris_arnade: We don't have public restrooms because they'd be trashed in days.\n\nWe don't build bus stops because they'd become homeles…",
+      "contentHtml": "RT <a href=\"/Chris_arnade\" title=\"Chris Arnade 🐢🐱🚌\">@Chris_arnade</a>: We don't have public restrooms because they'd be trashed in days.\n\nWe don't build bus stops because they'd become homeles…",
+      "publishedAt": "2026-03-09T13:38:00.000Z",
+      "link": "https://x.com/naval/status/2031001744214491146",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2030997824612286780",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -2953,31 +2968,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHCuvMCxaUAAhLQJ.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030948600944144599",
-      "username": "Chris_arnade",
-      "displayName": "Chris Arnade 🐢🐱🚌",
-      "avatar": "https://nitter.net/pic/profile_images%2F1715244769411244032%2F2f6Fc2H5_bigger.jpg",
-      "content": "We don't have public restrooms because they'd be trashed in days.\n\nWe don't build bus stops because they'd become homeless shelters.\n\nWe don't have dense walkable cities because nobody wants to be accosted by strangers.\n\nThis is because we have chosen to accept public disorder, and as the rest of the world shows, it doesn't have to be that way  \n\nwalkingtheworld.substack.com…",
-      "contentHtml": "We don't have public restrooms because they'd be trashed in days.\n\nWe don't build bus stops because they'd become homeless shelters.\n\nWe don't have dense walkable cities because nobody wants to be accosted by strangers.\n\nThis is because we have chosen to accept public disorder, and as the rest of the world shows, it doesn't have to be that way  \n\n<a href=\"https://walkingtheworld.substack.com/p/america-and-public-disorder\">walkingtheworld.substack.com…</a>",
-      "publishedAt": "2026-03-09T10:07:00.000Z",
-      "link": "https://x.com/Chris_arnade/status/2030948600944144599",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHC9ggqJb0AA-wfR.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
