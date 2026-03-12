@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T17:21:03.793Z",
+  "lastUpdated": "2026-03-12T17:48:29.410Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,42 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 526,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 510,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2032151501754507521",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "这就是我说的，随着个人算力的提高，人类会进入一个奇点，随着信息差带来的时间周期(牛市/熊市)会彻底被抹平。",
+      "contentHtml": "这就是我说的，随着个人算力的提高，人类会进入一个奇点，随着信息差带来的时间周期(牛市/熊市)会彻底被抹平。",
+      "publishedAt": "2026-03-12T17:47:00.000Z",
+      "link": "https://x.com/hazenlee/status/2032151501754507521",
+      "quote": {
+        "username": "punk2898",
+        "displayName": "Punk（2898 🙌💎）",
+        "content": "龙虾太火了，币安焦虑了、OKX 焦虑了、Bitget 也焦虑了，现在中国地方政府也焦虑了，我也非常焦虑\n\n一方面 AI 什么都能做，另一方面又不知道要做什么，所以只能是什么出来就赶紧体验\n\nBinance 和 OKX 相继推出 DEX 龙虾，现在 Bitget 也推出了 CEX 龙虾 MCP，我第一时间上手了 Bitget MCP 跟大家分享一下我的感受：\n\n一、交易要变天了 🆕\n\n现在的现货、合约、跟单、理财等等以前能用 API 实现么？\n\n当然可以！但是人为的 API 调用和 AI 自主调用性质完全不一样\n\n以后交易都会默认有一个智慧大脑提醒你你的操作是否理性，止盈止损是否合适，如果没有设置还会用你能听进去的语言劝你设置\n\n所以推演下去，以后非理性的人会越来越少，Fomo 的人越少会导致赚钱的机会更少了\n\n（市场就是聪明钱赚笨蛋钱，笨蛋被 AI 拉平智商了，聪明钱肯定越来越难以赚钱了）\n\n二、安全最近会变成热门话题 🈲\n\n太方便了，以前很麻烦的自动化交易现在有了龙虾变得非常方便，但是同时 Key 的保管问题又会变成新的问题\n\n目前大家都有解决方案，但是感觉又不是最终的形态，因为既然龙虾托管了电脑，那么目前所有的方案都是不安全的方案\n\n比如说“注入攻击”\n\n这是非常常见的攻击方式，但是龙虾目前的权限，很容易被“prompt 注入攻击”\n\n希望有各个交易所能够提供一个好的安全方案\n\n三、自然语言交易是不是伪命题 🤔\n\n大家都在强调自然语言交易，但是对于我们真正交易的人来说，真的是需要说一句话就帮我交易么？\n\n我们需要的是\n\n- 我的持仓有没有问题，这些币出事了能不能第一时间告诉我，或者给我的持仓做一下对冲\n\n- 美联储这个会议会有什么影响，我应该怎么操作\n\n- 特朗普这大嘴巴子又在搞什么幺蛾子，我怎么做一下安全保护\n\n等等这些和交易紧密结合的（我做了一张图供大家参考）\n\n四、我实现的是小众需求，但是是赚钱的需求！💰\n\n大家都在帮我接针！帮我到什么价格提醒，但是这些功能真的能帮你赚钱么？\n\n我最近一直在做一个多空策略，目前效果不错，熟悉我的朋友应该知道了\n\n“基于美股的多空中性策略”\n\n目前已经实现了基于 Hyper 的 DEX 多空策略，年化大概 70%，最大回撤 4%\n\n稳定运行 6 个月，现在我要迁移到美股上测试，那就先以 Bitget 开始吧\n\n这种工作量肯定不是帮我买个什么币这么简单，我需要仔细的设置安全边界、风控措施、Bot 隔离、信号分析、控制后台一大堆东西\n\n好像也没有其他交易所可以选择了😂",
+        "link": "https://x.com/punk2898/status/2031993831034601798",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDMXncZbQAYih91.png"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDMXncZbQAMMpTK.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2032136354252173797",
       "username": "hazenlee",
@@ -4836,13 +4867,7 @@
         "username": "0xleng1",
         "displayName": "Leng",
         "content": "bitways 这个借用下群友的图，150m 应该是没什么问题的。存一万u给300-600u差不多，两周时间6-12% 本息。只有2000人，无脑抢就好了。",
-        "link": "https://x.com/0xleng1/status/2010721912780157212",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG-eE6yXaIAAQLy3.jpg"
-          }
-        ]
+        "link": "https://x.com/0xleng1/status/2010721912780157212"
       },
       "stats": {
         "replies": 0,
@@ -11221,27 +11246,6 @@
       "contentHtml": "成本 120 的人看成本 60 的人果然哪哪都不顺眼😅",
       "publishedAt": "2026-03-04T02:46:00.000Z",
       "link": "https://x.com/taresky/status/2029025754751909991",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029012956659499105",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "分享一个爱用 40x 杠杆的终极搏命赌狗😬\n\n▶︎ 近一个月亏损 499 万美元，50 笔交易 20 笔盈利，胜率 40%\n▶︎ 从 02.18 起死磕 $BTC 40x 杠杆，多空都做，开仓价和清算价往往只有几百刀，极限时甚至少于 100 刀\n▶︎大部分时候都赢小的亏大的，但仍乐此不疲的高频开单，持仓时间不超过 24 小时\n\n莫非你是，麻吉老哥的徒弟？\n\n传送门 👉 0x931153baac031d055389b41d12cd32c9bf0ae7a3",
-      "contentHtml": "分享一个爱用 40x 杠杆的终极搏命赌狗😬\n\n▶︎ 近一个月亏损 499 万美元，50 笔交易 20 笔盈利，胜率 40%\n▶︎ 从 02.18 起死磕 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 40x 杠杆，多空都做，开仓价和清算价往往只有几百刀，极限时甚至少于 100 刀\n▶︎大部分时候都赢小的亏大的，但仍乐此不疲的高频开单，持仓时间不超过 24 小时\n\n莫非你是，麻吉老哥的徒弟？\n\n传送门 👉 0x931153baac031d055389b41d12cd32c9bf0ae7a3",
-      "publishedAt": "2026-03-04T01:56:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2029012956659499105",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCiAY49bAAAtf5K.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
