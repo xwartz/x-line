@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T05:38:19.146Z",
+  "lastUpdated": "2026-03-12T06:05:16.179Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 465,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 488,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
     {
@@ -1650,6 +1650,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHDDMFc0aMAUzkkh.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031340940573684125",
+      "username": "FrontierLab_ZH",
+      "displayName": "Frontier Lab 中文",
+      "avatar": "https://nitter.net/pic/profile_images%2F1777659632871424000%2FhZFVT5tb_bigger.jpg",
+      "content": "x.com/i/article/203096902716…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030969027162673152\">x.com/i/article/203096902716…</a>",
+      "publishedAt": "2026-03-10T12:06:00.000Z",
+      "link": "https://x.com/FrontierLab_ZH/status/2031340940573684125",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11199,21 +11218,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHCfo5vcasAA841Q.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2028842801413206232",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "VIX 27，买\n40，买\n50，买\n60？躺平吧🤣",
-      "contentHtml": "VIX 27，买\n40，买\n50，买\n60？躺平吧🤣",
-      "publishedAt": "2026-03-03T14:39:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2028842801413206232",
       "stats": {
         "replies": 0,
         "retweets": 0,
