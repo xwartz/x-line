@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T08:23:43.985Z",
+  "lastUpdated": "2026-03-12T08:47:21.363Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 427,
-    "successUsers": 21,
-    "failedUsers": 6
+    "newFetched": 493,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2032012212861276298",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "有人問為什麼 Bitfinex 利率這麼高，為什麼巨鯨不去鏈上用更低的利率借錢呢？\n\n大額借方對利率是很敏感的，更何況 Bitfinex 巨鯨借 10-20 億美金，差 1% 一年就是1000萬美元了。\n\n後來我發現， Bitfinex 的榜一大哥很可能就是 Tether 相關實體，因為這位大哥很常在推特吐槽 USDC...\n\n所以我猜是 Tether 有足量保證金槓桿做多，但寧願在自家交易所借錢，而不是去其他地方借。這可能是出於安全考量，不敢放太多保證金在別的平台。\n\n換個角度想，這對放貸方來說其實是好事，代表 Bitfinex 上有長期穩定的大額借貸需求，而且借方的信用跟資金實力都不是一般散戶能比的。\n\n這也說明了，Bitfinex 作為一家市佔率不怎麼高的交易所，長期有這麼大的借貸需求的背後原因。\n\n以上只是我的個人猜測，不一定是真實狀況。",
+      "contentHtml": "有人問為什麼 Bitfinex 利率這麼高，為什麼巨鯨不去鏈上用更低的利率借錢呢？\n\n大額借方對利率是很敏感的，更何況 Bitfinex 巨鯨借 10-20 億美金，差 1% 一年就是1000萬美元了。\n\n後來我發現， Bitfinex 的榜一大哥很可能就是 Tether 相關實體，因為這位大哥很常在推特吐槽 USDC...\n\n所以我猜是 Tether 有足量保證金槓桿做多，但寧願在自家交易所借錢，而不是去其他地方借。這可能是出於安全考量，不敢放太多保證金在別的平台。\n\n換個角度想，這對放貸方來說其實是好事，代表 Bitfinex 上有長期穩定的大額借貸需求，而且借方的信用跟資金實力都不是一般散戶能比的。\n\n這也說明了，Bitfinex 作為一家市佔率不怎麼高的交易所，長期有這麼大的借貸需求的背後原因。\n\n以上只是我的個人猜測，不一定是真實狀況。",
+      "publishedAt": "2026-03-12T08:33:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2032012212861276298",
+      "quote": {
+        "username": "BensonTWN",
+        "displayName": "Benson Sun",
+        "content": "熊市想要穩定生息，Bitfinex 放貸是最好的選擇。\n\n現在 Bifinex USD 的平均放貸利率是 17%左右（日利率0.047%），幣安活存只有 3%多（圖中的綠線跟黃線），其他主流交易所也差不多，差距很明顯。\n\n如果現在放 10 萬美金在 Bitfinex 做放貸，每天大概可以領 35 美金左右的利息。一個月差不多 1000 美金，一年下來就是 12000 美金。\n\n對比一下，現在美債殖利率大概是 4% 到 5%。同樣 10 萬美金，買美債一年大概只能拿 4000 - 5000 美金。差了快三倍。\n\n這麼高的利率，會不會有風險呢？\n\n第一，Bitfinex 的 Margin Lending 機制跟其他交易所不一樣。借出去的錢只能在交易所內交易，沒辦法直接提領。這代表你的錢不會被借走然後人間蒸發。光這一點，就比很多其他平台的融資借貸產品更安全。\n\n第二，Bitfinex 背後是 Tether。 Tether 很有錢大家都知道，即便出事，也具備一定的償付能力，畢竟兩個公司股東結構跟高層都是同一批人。\n\n第三，Bitfinex 放貸市場經歷過 312、519、1011 這些大爆倉行情。中間也有多頭槓桿倉位穿倉過，但交易所都自己把缺口補上了。這家交易所已經經營超過 10 年了，沒有聽過任何借出的資金出現虧空。\n\n為什麼現在利率這麼高？\n\n這跟 Bitfinex 的用戶結構有關。\n\n大部分交易所在行情冷的時候，借貸需求會下降，APY 自然就低。但 Bitfinex 不一樣。借貸市場的需求都是由巨鯨推動的，這些巨鯨的操作邏輯跟散戶相反，總是擅長在市場低迷、大家恐懼的時候槓桿加倉。\n\n所以上一輪週期的熊市，Bitfinex 的放貸年化有很長一段時間都維持在 20% 以上，而其他交易所的USDT利息都不到5%。\n\n所以如果你是那種「不想參與市場波動、但也不想讓錢躺著」的人，Bitfinex 放貸是一個很值得考慮的選項。\n\n再來 Bitfinex 是一個法幣交易所，支援美金、歐元等主流貨幣的出入金。如果你有海外券商帳戶，資金進出其實蠻方便的。\n\n對幣圈人來說，你肯定有時候會需要一個可以讓資金 parking 的地方。Bitfinex 剛好能滿足這個需求：平常放著生利息，需要用錢的時候可以出金。\n\n我七年前寫的第一篇爆火文章，其就是 Bitfinex 的放貸教學。當時 Bitfinex 的放貸規模大概是 3、4 億美元，現在已經超過 10 億美元了。\n\n從那時候到現在，Bitfinex 放貸一直都是一個很穩健的收利息方式。只是市場成熟了，年化利率不像以前動輒 20% 到 30%，但現在 15% 左右的年化，其實也已經是美債的三倍，比現在做期現套利收益還要高出一大截。\n\n說一下操作上需要注意的地方。\n\n首先是錢包設定。Bitfinex 裡面有很多種錢包，當你把資金打進交易所之後，預設會存放在「Exchange（交易）」錢包。記得要把資金轉到「Funding（融資）」錢包，這樣才能進行放貸。\n\n再來是幣種選擇。放貸市場分為 USDT 和 USD 兩種。平均來說，USD 的利率比 USDT 高大約 2%，而且 USD 每天的撮合成交量也比較大，資金被借出去的機率更高。所以如果你追求長期更好的收益率，建議在裡面把 USDT 換成 USD。\n\n然後是利率設定。Bitfinex 的放貸是用「掛單」形式運作的，不像幣安或 OKX 那種一鍵活存，你需要自己設定利率和天數。\n\n如果你沒有特別想法，可以用 FRR（Flash Return Rate，快閃利率）這個功能。簡單說就是平台計算出來的平均利率。你可以設定用 FRR 去自動放貸 7 天或 30 天，一旦有資金被償還進入閒置狀態，系統會幫你處理。\n\n有時候也會出現那種一口氣要借 120 天的單，利率可能會低一點，但如果你想省心，直接借 120 天也行，反正怎樣都比美債高。\n\n它的 UI 說實話不是很友善，這點我承認。但看在它能長期提供比市場平均更高的報酬，這個缺點我覺得可以忽略。\n\n最後總結一下：\n1. 現在 Bitfinex 放貸年化約 17%，比同行高三倍以上\n2. 放貸池量體超過10億美元，支持大額放貸\n2. 資金只在所內交易無法提領，機制上比其他平台更安全\n3. 經歷過多次大行情，從未發生過借款人資金虧空\n4. 支援法幣出入金，資金進出方便\n5. 有 FRR 自動放貸功能，設定好就可以自動運作\n\n如果你現在手上有閒置的美金，不知道該放哪裡，Bitfinex 放貸是一個穩健又有效率的選擇。\n\n推薦連結我放第一個留言。",
+        "link": "https://x.com/BensonTWN/status/2031731597985054997",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDImNEWa8AAkZ6S.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2032005780732592312",
       "username": "hazenlee",
@@ -3340,31 +3367,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHCuvMCxaUAAhLQJ.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030948600944144599",
-      "username": "Chris_arnade",
-      "displayName": "Chris Arnade 🐢🐱🚌",
-      "avatar": "https://nitter.net/pic/profile_images%2F1715244769411244032%2F2f6Fc2H5_bigger.jpg",
-      "content": "We don't have public restrooms because they'd be trashed in days.\n\nWe don't build bus stops because they'd become homeless shelters.\n\nWe don't have dense walkable cities because nobody wants to be accosted by strangers.\n\nThis is because we have chosen to accept public disorder, and as the rest of the world shows, it doesn't have to be that way  \n\nwalkingtheworld.substack.com…",
-      "contentHtml": "We don't have public restrooms because they'd be trashed in days.\n\nWe don't build bus stops because they'd become homeless shelters.\n\nWe don't have dense walkable cities because nobody wants to be accosted by strangers.\n\nThis is because we have chosen to accept public disorder, and as the rest of the world shows, it doesn't have to be that way  \n\n<a href=\"https://walkingtheworld.substack.com/p/america-and-public-disorder\">walkingtheworld.substack.com…</a>",
-      "publishedAt": "2026-03-09T10:07:00.000Z",
-      "link": "https://x.com/Chris_arnade/status/2030948600944144599",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHC9ggqJb0AA-wfR.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -6680,25 +6682,6 @@
         "displayName": "Theclues",
         "content": "这个场景适用于过去48小时的 #BTC 吗？",
         "link": "https://x.com/follow_clues/status/2029581016411820418"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029931861825442107",
-      "username": "kimmaicutler",
-      "displayName": "Kim-Mai Cutler",
-      "avatar": "https://nitter.net/pic/profile_images%2F1404253821870624769%2FHhbLZL8V_bigger.jpg",
-      "content": "“SEIU is known in California political circles for pioneering and perfecting the art of extortion via ballot initiative.” astralcodexten.com/p/seiu-de…",
-      "contentHtml": "“SEIU is known in California political circles for pioneering and perfecting the art of extortion via ballot initiative.” <a href=\"https://www.astralcodexten.com/p/seiu-delenda-est\">astralcodexten.com/p/seiu-de…</a>",
-      "publishedAt": "2026-03-06T14:47:00.000Z",
-      "link": "https://x.com/kimmaicutler/status/2029931861825442107",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11218,6 +11201,21 @@
           "url": "https://nitter.net/pic/orig/media%2FHCf7akZbYAEOcId.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2028860334027735240",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "惠州这地方住过几年，房子在高点卖了，总体一般吧。\n\n如果喜欢广东的食物，又希望离深圳香港近一点，我推荐珠海。\n\n日常晚饭后可以在海边散步，是个有生活的城市。",
+      "contentHtml": "惠州这地方住过几年，房子在高点卖了，总体一般吧。\n\n如果喜欢广东的食物，又希望离深圳香港近一点，我推荐珠海。\n\n日常晚饭后可以在海边散步，是个有生活的城市。",
+      "publishedAt": "2026-03-03T15:49:00.000Z",
+      "link": "https://x.com/taresky/status/2028860334027735240",
       "stats": {
         "replies": 0,
         "retweets": 0,
