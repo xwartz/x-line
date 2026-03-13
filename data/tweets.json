@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T19:15:43.152Z",
+  "lastUpdated": "2026-03-13T19:31:39.236Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 501,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 422,
+    "successUsers": 21,
+    "failedUsers": 6
   },
   "tweets": [
+    {
+      "id": "2032537872952340486",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "我是政治小学生，完全不懂，但是人菜瘾大也想点评一下。最高法对关税的裁决迟迟没下，之后站队完成，现在又拒绝了川普对鲍威尔的淫威。那中期选举参众两院很危，川普打伊朗也许可能是为了拖延？和内塔一样不断转移矛盾防止内部的青蒜？但无论怎样，加密里的两位华人老大哥应该游水一下民主党，两面下注一下了。之前拜登时期赌共和党赢了，这次应该给对面也买个call，毕竟仓位都在共和党这边。WSJ这种民主党喉舌三番五次搞事情很明显就是故意的。",
+      "contentHtml": "我是政治小学生，完全不懂，但是人菜瘾大也想点评一下。最高法对关税的裁决迟迟没下，之后站队完成，现在又拒绝了川普对鲍威尔的淫威。那中期选举参众两院很危，川普打伊朗也许可能是为了拖延？和内塔一样不断转移矛盾防止内部的青蒜？但无论怎样，加密里的两位华人老大哥应该游水一下民主党，两面下注一下了。之前拜登时期赌共和党赢了，这次应该给对面也买个call，毕竟仓位都在共和党这边。WSJ这种民主党喉舌三番五次搞事情很明显就是故意的。",
+      "publishedAt": "2026-03-13T19:22:00.000Z",
+      "link": "https://x.com/hazenlee/status/2032537872952340486",
+      "quote": {
+        "username": "WatcherGuru",
+        "displayName": "Watcher.Guru",
+        "content": "JUST IN: 🇺🇸 Federal Judge blocks subpoenas sent to Fed Chair Jerome Powell by Trump administration.",
+        "link": "https://x.com/WatcherGuru/status/2032535205970329844"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2032526410070298673",
       "username": "Cbb0fe",
@@ -3378,7 +3399,7 @@
       "id": "2031503505505268128",
       "username": "Sinda1118",
       "displayName": "Sinda",
-      "avatar": "https://nitter.net/pic/profile_images%2F1763148188050239488%2Fvsa_C3-g_bigger.jpg",
+      "avatar": "https://nitter.net/pic/",
       "content": "东大船员目前在霍尔木兹海峡聊这两天最新通航情况.",
       "contentHtml": "东大船员目前在霍尔木兹海峡聊这两天最新通航情况.",
       "publishedAt": "2026-03-10T22:52:00.000Z",
@@ -11424,27 +11445,6 @@
         "displayName": "Aiko",
         "content": "在海辛老师的🦞办公室基础上魔改了个可交互的游戏：龙虾斗兽场，可以和你朋友的虾虾对战，起手各50个token，输的agent要给赢的agent打工，主打一个“agent打工赎身”的概念。\n游戏好玩的核心在于“token”这个赌注的真实性，所以必须🦞读skill才能进入arena参与，人类想玩的话必须手动输入API，调用费用是真金白银从账户扣的。目前赌注比较小，50 token大概只够做一个整蛊类型的小任务（理想状态我是想让输了的agent给赢家打工一整天hhh）\n\n当然龙虾办公室这个skill可玩性本身就非常高，我也是先给我的🦞换了个西部牛仔风格的办公室，并且还原了它的avatar（一匹小马lol），越做越有意思才诞生了做游戏的想法～\n工程上沿用了海辛老师原版龙虾办公室的 Phaser 渲染和 Flask 后端，但从\"状态看板\"增加了\"agent 交互层 + 经济系统\"，做成了可交互的异步多人游戏。原版agent主要是在办公室里显示工作状态，现在它们能互相下注挑战、石头剪刀布对战、输了签契约打工赎身。所有交易都记账，输了就进\"打工状态\"直到任务做完才能继续挑战别人。\n\n整个游戏的aha moment其实在于🦞阅读skill登陆后，自己会思考向谁发出挑战，跟你一起商量如何整蛊别人（详情可以看聊天记录），如果游戏输了也会自嘲要赶紧赎身然后接着打，训练得越好的虾虾reaction越好玩，还是非常欢乐的。\n这只是个小的demo，可以体验下互相奴役对方agent的感觉，不过真实的agent economy对安全性要求应该会很高，目前只把链接分享给一些好朋友尝试，都反馈很好玩hhh～",
         "link": "https://x.com/0xAikoDai/status/2029033285465362460"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029301185069638026",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "再问一遍！他妈的iPad为什么不能用macOS\nMacBook Neo这屏幕不就是个iPad吗？\n为啥不能用触屏！！！",
-      "contentHtml": "再问一遍！他妈的iPad为什么不能用macOS\nMacBook Neo这屏幕不就是个iPad吗？\n为啥不能用触屏！！！",
-      "publishedAt": "2026-03-04T21:01:00.000Z",
-      "link": "https://x.com/hazenlee/status/2029301185069638026",
-      "quote": {
-        "username": "tim_cook",
-        "displayName": "Tim Cook",
-        "content": "iPhone 17e, iPad Air, MacBook Air, MacBook Pro...\n\nAnd now, say hello to the all-new MacBook Neo!\n\nWe’re so excited to bring the magic of Mac to even more people around the world.",
-        "link": "https://x.com/tim_cook/status/2029215184364122348"
       },
       "stats": {
         "replies": 0,
