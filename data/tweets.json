@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T03:36:07.447Z",
+  "lastUpdated": "2026-03-13T04:24:53.062Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,108 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 488,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 505,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2032310384447930394",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "【四年周期总刻系列（22）】\n\n历史上每轮 #BTC 熊底筑底的前中期，黑线往往依次下穿橙线、蓝线、绿线。当前——\n\n黑线：$85,942\n橙线：$76,094\n蓝线：$71,083\n绿线：$64,288\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n黑线为链上短期持币者平均购币成本\n橙线为链上持币0-5年投资者平均购币成本\n蓝线为链上持币0-7年投资者平均购币成本\n绿线为链上持币0-10年投资者平均购币成本",
+      "contentHtml": "【四年周期总刻系列（22）】\n\n历史上每轮 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 熊底筑底的前中期，黑线往往依次下穿橙线、蓝线、绿线。当前——\n\n黑线：$85,942\n橙线：$76,094\n蓝线：$71,083\n绿线：$64,288\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n黑线为链上短期持币者平均购币成本\n橙线为链上持币0-5年投资者平均购币成本\n蓝线为链上持币0-7年投资者平均购币成本\n绿线为链上持币0-10年投资者平均购币成本",
+      "publishedAt": "2026-03-13T04:18:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2032310384447930394",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDQpvgaasAA7OI8.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【四年周期总刻系列（21）】当前图中指标值为 0.48\n\n2014年该指标从 0.48 到峰值，花费 301天\n2018年该指标从 0.48 到峰值，花费 266天\n2022年该指标从 0.48 到峰值，花费 244天\n\n值得一提的是，该指标达到峰值一般对应 #BTC 牛市起涨点\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中上方指标为比特币价格；图中下方指标为比特币链上“长期持币者平均购币成本”跟比特币链上“短期持币者平均购币成本”之比",
+        "link": "https://x.com/0xCryptoChan/status/2029791300099396017",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCtEChca4AAcSvM.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032300969330163935",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "這世界上真的很多有錢的傻逼啊",
+      "contentHtml": "這世界上真的很多有錢的傻逼啊",
+      "publishedAt": "2026-03-13T03:41:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2032300969330163935",
+      "quote": {
+        "username": "0xTodd",
+        "displayName": "0xTodd",
+        "content": "今天凌晨，悲惨大户用足足 5000w 美金 $USDT 只换了 3.6w 美金 $AAVE ，真相众说纷纭。\n\n我分析了一下地址，可以初步排除两个选项：\n\n1. 洗米（基本不可能）\n\n首先，他的资金是从 Binance 提出的。\n\n对于这么大一笔资金，倘若交易所允许他一笔提现的话，藏匿来源根本不需要这种高成本方式。\n\n第二，为什么高成本？\n\n资金是这么流动的：5000w USDT 先通过 Uniswap 变成了 ETH 再通过 Sushiswap 变成了 AAVE。\n\n第一步 USDT 变 ETH，怒亏 12M；（≈拉盘 ETH）\n第二步 ETH 变成 AAVE，怒亏 38M。（≈拉盘 AAVE）\n\n这两步是完全公开的，面临全网所有的 MEV BOT 套利，MEV 负责把价格给砸回去。\n\n这些 MEV Bot 竞价激烈，大概率都要把大部分利润贿赂给 ETH 的节点，才能赢得优先记账权。\n\n最终利润：ETH 节点> MEV 机器人>AAVE 抽佣>Cowswap。\n\n这样分散的利润分配，作为洗米来说，磨损太大了。\n\n而且最终受益者，花点功夫就能穿透、排查出到底是哪个ETH 节点赚走了利润大头。\n\n不过这对于大户也是好消息，因为 ETH 节点大部分都是公开的，也许通过协商能够要回一些钱。\n\n2. 龙虾代操（低可能性）\n\nAAVE 创始人 Stani @StaniKulechov 说大户是通过手机操作的。\n\n正常来说，龙虾 openclaw 是通过 Web 或者 API 访问的，反正不是手机。\n\n虽然我们暂时不知道 AAVE  如何得知这笔交易通过手机完成，但是可以排除一些嫌疑。\n\n我也不认为会有任何机构允许把 50M 放给龙虾管理。",
+        "link": "https://x.com/0xTodd/status/2032279713495101585",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDQbB1JaMAAozdf.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDQbE5Ga8AAU_OX.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032299832237588712",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "多单还在\n\n熊市结束了，但是不是立马牛回，资金还有些许恐慌和不信\n\n爆几次就好了",
+      "contentHtml": "多单还在\n\n熊市结束了，但是不是立马牛回，资金还有些许恐慌和不信\n\n爆几次就好了",
+      "publishedAt": "2026-03-13T03:36:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2032299832237588712",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDQt674bQAEYErM.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "蚂蚁仓多单还在！\n\n$btc",
+        "link": "https://x.com/Bitfatty/status/2030918143133245860",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHC9FSEbbYAA5f-o.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2032296777253339608",
       "username": "Murphychen888",
@@ -144,6 +241,21 @@
           "url": "https://nitter.net/pic/orig/media%2FHDQq6mybQAMHBuq.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032292867511664712",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "刚刚拿部分 $DIS 换了 $ADBE ， 一年后看看有没有错😀",
+      "contentHtml": "刚刚拿部分 <a href=\"/search?f=tweets&q=%23DIS\">$DIS</a> 换了 <a href=\"/search?f=tweets&q=%23ADBE\">$ADBE</a> ， 一年后看看有没有错😀",
+      "publishedAt": "2026-03-13T03:09:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2032292867511664712",
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2105,6 +2217,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHDFbQt_WkAAeap_.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031503505505268128",
+      "username": "Sinda1118",
+      "displayName": "Sinda",
+      "avatar": "https://nitter.net/pic/profile_images%2F1763148188050239488%2Fvsa_C3-g_bigger.jpg",
+      "content": "东大船员目前在霍尔木兹海峡聊这两天最新通航情况.",
+      "contentHtml": "东大船员目前在霍尔木兹海峡聊这两天最新通航情况.",
+      "publishedAt": "2026-03-10T22:52:00.000Z",
+      "link": "https://x.com/Sinda1118/status/2031503505505268128",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11269,99 +11400,6 @@
         "content": "500U还有多少",
         "link": "https://x.com/xiaojiujiu7700/status/2029060691165098076"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029076720368996770",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "币安的Swift试了一下，几万刀很丝滑，吊打海妖和BP了，点赞，就是不知道大额会不会导致卡风控",
-      "contentHtml": "币安的Swift试了一下，几万刀很丝滑，吊打海妖和BP了，点赞，就是不知道大额会不会导致卡风控",
-      "publishedAt": "2026-03-04T06:09:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2029076720368996770",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029076345263906978",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "从今天起对币圈刷新\n#牛回  第一天\n长风破浪会有时，直挂云帆济沧海\n鼻涕西 冲啊👻👻👻",
-      "contentHtml": "从今天起对币圈刷新\n<a href=\"/search?f=tweets&q=%23牛回\">#牛回</a>  第一天\n长风破浪会有时，直挂云帆济沧海\n鼻涕西 冲啊👻👻👻",
-      "publishedAt": "2026-03-04T06:07:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2029076345263906978",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCi6LYxawAI2i8q.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029072930043510969",
-      "username": "JoshuaDeuk",
-      "displayName": "Joshua | MOZAIK 🇰🇷",
-      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
-      "content": "Fold pre , bet with pocket AA",
-      "contentHtml": "Fold pre , bet with pocket AA",
-      "publishedAt": "2026-03-04T05:54:00.000Z",
-      "link": "https://x.com/JoshuaDeuk/status/2029072930043510969",
-      "quote": {
-        "username": "ThinkingUSD",
-        "displayName": "Flood",
-        "content": "Crypto traders are notoriously bad waiting on their hands. They’re always unnecessarily trading or making adjustments. \n\nSometimes the alpha is in being still.",
-        "link": "https://x.com/ThinkingUSD/status/2029026796671287713"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029070974646444348",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "一万u实盘的后续操作，把bitways给的300u利息 都拿去刷genius，看看能不能把成本控制在0.04内。策略之前说过。实盘和自己大资金的仓位是分开的。6号bitways可以提现后我会先存okx的katana然后再看看有什么其他靠谱的理财可以续。",
-      "contentHtml": "一万u实盘的后续操作，把bitways给的300u利息 都拿去刷genius，看看能不能把成本控制在0.04内。策略之前说过。实盘和自己大资金的仓位是分开的。6号bitways可以提现后我会先存okx的katana然后再看看有什么其他靠谱的理财可以续。",
-      "publishedAt": "2026-03-04T05:46:00.000Z",
-      "link": "https://x.com/0xleng1/status/2029070974646444348",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029066081395003546",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "Stan Druckenmiller在第四季度加了很多，大佬也不是买完就涨，所以跟单还是要理性，量力而为",
-      "contentHtml": "Stan Druckenmiller在第四季度加了很多，大佬也不是买完就涨，所以跟单还是要理性，量力而为",
-      "publishedAt": "2026-03-04T05:27:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2029066081395003546",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCiw2UCWkAAGp4H.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
