@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T22:44:43.583Z",
+  "lastUpdated": "2026-03-13T22:56:47.866Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 466,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 386,
+    "successUsers": 19,
+    "failedUsers": 8
   },
   "tweets": [
+    {
+      "id": "2032590605398745523",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "最终理发还是没能干过你们的卖盘🥲看看今年回报怎么样",
+      "contentHtml": "最终理发还是没能干过你们的卖盘🥲看看今年回报怎么样",
+      "publishedAt": "2026-03-13T22:52:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2032590605398745523",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2032585846613004656",
       "username": "hazenlee",
@@ -3512,25 +3527,6 @@
       }
     },
     {
-      "id": "2031503505505268128",
-      "username": "Sinda1118",
-      "displayName": "Sinda",
-      "avatar": "https://nitter.net/pic/profile_images%2F1763148188050239488%2Fvsa_C3-g_bigger.jpg",
-      "content": "东大船员目前在霍尔木兹海峡聊这两天最新通航情况.",
-      "contentHtml": "东大船员目前在霍尔木兹海峡聊这两天最新通航情况.",
-      "publishedAt": "2026-03-10T22:52:00.000Z",
-      "link": "https://x.com/Sinda1118/status/2031503505505268128",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031500579760164869",
       "username": "follow_clues",
       "displayName": "Theclues",
@@ -5791,6 +5787,25 @@
       "contentHtml": "RT <a href=\"/sxzz\" title=\"老沙\">@sxzz</a>: <a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
       "publishedAt": "2026-03-09T07:59:00.000Z",
       "link": "https://x.com/taresky/status/2030916468679065804",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030911858652418167",
+      "username": "sxzz",
+      "displayName": "老沙",
+      "avatar": "https://nitter.net/pic/profile_images%2F1869962277123960834%2FwYYRsJ5c_bigger.jpg",
+      "content": "x.com/i/article/203090674803…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
+      "publishedAt": "2026-03-09T07:41:00.000Z",
+      "link": "https://x.com/sxzz/status/2030911858652418167",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11311,6 +11326,33 @@
       }
     },
     {
+      "id": "2029356915583758486",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "回头看，一年前的 M3 Ultra 是不是性价比无敌",
+      "contentHtml": "回头看，一年前的 M3 Ultra 是不是性价比无敌",
+      "publishedAt": "2026-03-05T00:42:00.000Z",
+      "link": "https://x.com/taresky/status/2029356915583758486",
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#数码 \n\n觉得 M3 Ultra 丐版特别朴素，很有性价比。",
+        "link": "https://x.com/taresky/status/1909980728282268019",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGoGdRY0bsAA4BAh.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2029274473007071661",
       "username": "0xleng1",
       "displayName": "Leng",
@@ -11326,74 +11368,14 @@
       }
     },
     {
-      "id": "2029236237564035286",
-      "username": "0xSunNFT",
-      "displayName": "0xSun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820705442735296512%2Fej9BX01I_bigger.png",
-      "content": "I put my money where my mouth is",
-      "contentHtml": "I put my money where my mouth is",
-      "publishedAt": "2026-03-04T16:43:00.000Z",
-      "link": "https://x.com/0xSunNFT/status/2029236237564035286",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHClLUQLa0AIFFnP.png"
-        }
-      ],
-      "quote": {
-        "username": "0xSunNFT",
-        "displayName": "0xSun",
-        "content": "BTC12万看空是顶级交易员，10万看空人人尊称一声高手，8万看空属于牛逼的趋势交易者，6万开始长篇大论币圈再无牛市就大可不必",
-        "link": "https://x.com/0xSunNFT/status/2022645639503581377"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029208493496885405",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "GM, lost but not hopeless humans. Went to a ski museum today and found out even the birds here evolved builtin snow boots, feathers to the toes. Nature ships hardware after millions of years of training. Humans just hack it with tools to front-run evolution with endless growth game \n\nBut after thousands of years on top of the food chain, what are new inventions for? Very few people stop to ask what is “meaningful growth”, and why everyone is grinding and max-hustling for “growth”, why at both personal level and nation state level the game is so zero sum and sub zero? \n\nWe’re victims of our own success: the more “productive” we are, the less fertile; the more “efficient” we are, the more lonely",
-      "contentHtml": "GM, lost but not hopeless humans. Went to a ski museum today and found out even the birds here evolved builtin snow boots, feathers to the toes. Nature ships hardware after millions of years of training. Humans just hack it with tools to front-run evolution with endless growth game \n\nBut after thousands of years on top of the food chain, what are new inventions for? Very few people stop to ask what is “meaningful growth”, and why everyone is grinding and max-hustling for “growth”, why at both personal level and nation state level the game is so zero sum and sub zero? \n\nWe’re victims of our own success: the more “productive” we are, the less fertile; the more “efficient” we are, the more lonely",
-      "publishedAt": "2026-03-04T14:53:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2029208493496885405",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCXjGapaAAEsMFN.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029131439535702403",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "剧 终？😏",
-      "contentHtml": "剧 终？😏",
-      "publishedAt": "2026-03-04T09:46:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2029131439535702403",
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【四年周期系列更新📊】\n\n2015年熊底，该指标达到 27.3%\n2018年熊底，该指标达到 27.5%\n2022年熊底，该指标达到 27.4%\n当前，该指标达到 27.1%",
-        "link": "https://x.com/0xCryptoChan/status/2027684853618225559",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCPIQV6bYAAZ8Ek.jpg"
-          }
-        ]
-      },
+      "id": "2029249394135257203",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "想看看豆包语音识别 api 怎么接入。\n\n前后搞了 5 分钟，手机号、实名、人脸。填参数的时候，还要创建 app id。\n\n没找到入口，文档写的稀里糊涂，甚至不确定看的是不是同一个产品。\n\n搞不懂，放弃了。\n\n其他各家语音识别 api，从注册到用上，一般 1 分钟就完事了，最多不超过 3 分钟。\n\n感觉明明是超级简单，一篇小文档就能说清楚的事情... 只能理解是产品经理能力差距了。\n\n幸好... 他们都快下岗了。",
+      "contentHtml": "想看看豆包语音识别 api 怎么接入。\n\n前后搞了 5 分钟，手机号、实名、人脸。填参数的时候，还要创建 app id。\n\n没找到入口，文档写的稀里糊涂，甚至不确定看的是不是同一个产品。\n\n搞不懂，放弃了。\n\n其他各家语音识别 api，从注册到用上，一般 1 分钟就完事了，最多不超过 3 分钟。\n\n感觉明明是超级简单，一篇小文档就能说清楚的事情... 只能理解是产品经理能力差距了。\n\n幸好... 他们都快下岗了。",
+      "publishedAt": "2026-03-04T17:35:00.000Z",
+      "link": "https://x.com/taresky/status/2029249394135257203",
       "stats": {
         "replies": 0,
         "retweets": 0,
