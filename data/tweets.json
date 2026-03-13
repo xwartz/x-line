@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T11:26:34.768Z",
+  "lastUpdated": "2026-03-13T11:43:09.489Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 511,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 490,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2032419120084561933",
+      "username": "coinkarma_",
+      "displayName": "CoinKarma",
+      "avatar": "https://nitter.net/pic/profile_images%2F1801446030657142784%2FK0YAwUJw_bigger.jpg",
+      "content": "過去一個月，每當 10% Overall Liquidity 指標出現訊號，皆對應行情相對低點。最近一次出現在 66K 附近，隨後 $BTC 於今日上漲至 72.5K，成功捕捉 +10.5% 波段。\n\n「@coinkarma_ 最大的价值是可以「验牌」。同时也说明，群友的情绪不值得参考，开天眼干自己的事情就好了。」—— @OKxiaohai \n\n想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群 \n👉 coinkarma.pse.is/7wsxnl",
+      "contentHtml": "過去一個月，每當 10% Overall Liquidity 指標出現訊號，皆對應行情相對低點。最近一次出現在 66K 附近，隨後 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 於今日上漲至 72.5K，成功捕捉 +10.5% 波段。\n\n「<a href=\"/coinkarma_\" title=\"CoinKarma\">@coinkarma_</a> 最大的价值是可以「验牌」。同时也说明，群友的情绪不值得参考，开天眼干自己的事情就好了。」—— <a href=\"/OKxiaohai\" title=\"阿小小海 🐈 🐈‍⬛\">@OKxiaohai</a> \n\n想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群 \n👉 <a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
+      "publishedAt": "2026-03-13T11:30:00.000Z",
+      "link": "https://x.com/coinkarma_/status/2032419120084561933",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDSZxFXbsAA9TSE.jpg"
+        }
+      ],
+      "quote": {
+        "username": "OKxiaohai",
+        "displayName": "阿小小海 🐈 🐈‍⬛",
+        "content": "徐博数据太真实了。\n\n感觉 @coinkarma_  最大的价值是可以「验牌」，我最近看的看的比较多的数据是一个是「10% Overall Liquidity」，意思是在这个位置，整个市场上下 10% 的挂单差值。\n\n例如我设置的是 6000 枚BTC，意思是在这个位置上下 10% 买单比卖单多出 6000 枚BTC。\n\n这两个位置，我印象中各群的情绪都非常差，有看 58K 的，有看 40K 的。同时也说明，群友的情绪不值得参考，开天眼干自己的事情就好了。\n\n当然这些指标只是市场数据的可视化，如果你认为因为战争外力，这个差值不够大，也是合理的，毕竟工具是工具，并非铁律，有铁律就好了。",
+        "link": "https://x.com/OKxiaohai/status/2029144874315108593",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCj2iD7aoAArS33.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2032416434341679251",
       "username": "Bitfatty",
@@ -928,6 +961,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHDQRo10bQAIulGt.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -3247,25 +3284,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDDMFc0aMAUzkkh.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031340940573684125",
-      "username": "FrontierLab_ZH",
-      "displayName": "Frontier Lab 中文",
-      "avatar": "https://nitter.net/pic/profile_images%2F1777659632871424000%2FhZFVT5tb_bigger.jpg",
-      "content": "x.com/i/article/203096902716…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2030969027162673152\">x.com/i/article/203096902716…</a>",
-      "publishedAt": "2026-03-10T12:06:00.000Z",
-      "link": "https://x.com/FrontierLab_ZH/status/2031340940573684125",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
