@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T16:13:13.794Z",
+  "lastUpdated": "2026-03-13T16:29:18.070Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,47 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 488,
+    "newFetched": 484,
     "successUsers": 24,
     "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2032493269226299524",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "何时能改“美国时间就下跪”的套路😂",
+      "contentHtml": "何时能改“美国时间就下跪”的套路😂",
+      "publishedAt": "2026-03-13T16:25:00.000Z",
+      "link": "https://x.com/follow_clues/status/2032493269226299524",
+      "quote": {
+        "username": "follow_clues",
+        "displayName": "Theclues",
+        "content": "1/4\n本轮行情有几个有意思的细节：\nBTC 涨幅全在亚洲时段，美国时间原地躺平\nUSDT/USD 交易量突然跳到 3-4 倍，平时才 2-3 倍\n\n2/4\n期货驱动痕迹很明显\n涨幅榜的山寨币更绝——\n散户基本没有 · 平时没人交易 · 只有做市商在里面\n\n3/4\n价格拉升方式像是后台算好的：\n暴涨 X% = 触发最大清算量\n不多不少，刚好够\n\n4/4\n这个剧本见过很多次了\n只是这次的人更聪明——\n不靠散户跟风，只做确定性清算\n只能赚，不会亏\n\n熟悉的轮回，不熟悉的打法 🌊，怎么办？不参与",
+        "link": "https://x.com/follow_clues/status/2032317928159527402"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032491632218836994",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "喘不上来气了😓\n头晕正常吗？？？？？",
+      "contentHtml": "喘不上来气了😓\n头晕正常吗？？？？？",
+      "publishedAt": "2026-03-13T16:19:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2032491632218836994",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2032486235571466659",
       "username": "Bitfatty",
@@ -3160,6 +3196,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHDFbQt_WkAAeap_.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031503505505268128",
+      "username": "Sinda1118",
+      "displayName": "Sinda",
+      "avatar": "https://nitter.net/pic/profile_images%2F1763148188050239488%2Fvsa_C3-g_bigger.jpg",
+      "content": "东大船员目前在霍尔木兹海峡聊这两天最新通航情况.",
+      "contentHtml": "东大船员目前在霍尔木兹海峡聊这两天最新通航情况.",
+      "publishedAt": "2026-03-10T22:52:00.000Z",
+      "link": "https://x.com/Sinda1118/status/2031503505505268128",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11378,69 +11433,6 @@
         "displayName": "Crypto_Painter",
         "content": "为什么很多人连1w都拿不出来，却会认为100w很少？\n\n这个作者讲的很好，顺带启发了我对于BTC真实价值的思考...",
         "link": "https://x.com/CryptoPainter/status/2028975308863676456"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029249394135257203",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "想看看豆包语音识别 api 怎么接入。\n\n前后搞了 5 分钟，手机号、实名、人脸。填参数的时候，还要创建 app id。\n\n没找到入口，文档写的稀里糊涂，甚至不确定看的是不是同一个产品。\n\n搞不懂，放弃了。\n\n其他各家语音识别 api，从注册到用上，一般 1 分钟就完事了，最多不超过 3 分钟。\n\n感觉明明是超级简单，一篇小文档就能说清楚的事情... 只能理解是产品经理能力差距了。\n\n幸好... 他们都快下岗了。",
-      "contentHtml": "想看看豆包语音识别 api 怎么接入。\n\n前后搞了 5 分钟，手机号、实名、人脸。填参数的时候，还要创建 app id。\n\n没找到入口，文档写的稀里糊涂，甚至不确定看的是不是同一个产品。\n\n搞不懂，放弃了。\n\n其他各家语音识别 api，从注册到用上，一般 1 分钟就完事了，最多不超过 3 分钟。\n\n感觉明明是超级简单，一篇小文档就能说清楚的事情... 只能理解是产品经理能力差距了。\n\n幸好... 他们都快下岗了。",
-      "publishedAt": "2026-03-04T17:35:00.000Z",
-      "link": "https://x.com/taresky/status/2029249394135257203",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029244280158712282",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "做多也太舒服了✧(≖◡≖✿)吧",
-      "contentHtml": "做多也太舒服了✧(≖◡≖✿)吧",
-      "publishedAt": "2026-03-04T17:15:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2029244280158712282",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHClS6bsawAIdtzZ.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029236237564035286",
-      "username": "0xSunNFT",
-      "displayName": "0xSun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820705442735296512%2Fej9BX01I_bigger.png",
-      "content": "I put my money where my mouth is",
-      "contentHtml": "I put my money where my mouth is",
-      "publishedAt": "2026-03-04T16:43:00.000Z",
-      "link": "https://x.com/0xSunNFT/status/2029236237564035286",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHClLUQLa0AIFFnP.png"
-        }
-      ],
-      "quote": {
-        "username": "0xSunNFT",
-        "displayName": "0xSun",
-        "content": "BTC12万看空是顶级交易员，10万看空人人尊称一声高手，8万看空属于牛逼的趋势交易者，6万开始长篇大论币圈再无牛市就大可不必",
-        "link": "https://x.com/0xSunNFT/status/2022645639503581377"
       },
       "stats": {
         "replies": 0,
