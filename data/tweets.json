@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T11:43:09.489Z",
+  "lastUpdated": "2026-03-13T11:55:57.112Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 490,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 468,
+    "successUsers": 23,
+    "failedUsers": 4
   },
   "tweets": [
     {
@@ -3284,6 +3284,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHDDMFc0aMAUzkkh.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031340940573684125",
+      "username": "FrontierLab_ZH",
+      "displayName": "Frontier Lab 中文",
+      "avatar": "https://nitter.net/pic/profile_images%2F1777659632871424000%2FhZFVT5tb_bigger.jpg",
+      "content": "x.com/i/article/203096902716…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030969027162673152\">x.com/i/article/203096902716…</a>",
+      "publishedAt": "2026-03-10T12:06:00.000Z",
+      "link": "https://x.com/FrontierLab_ZH/status/2031340940573684125",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11379,27 +11398,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029152147322093628",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "我操 你的意思是7200块不到一万rmb做好莱坞级别的电影吗？",
-      "contentHtml": "我操 你的意思是7200块不到一万rmb做好莱坞级别的电影吗？",
-      "publishedAt": "2026-03-04T11:09:00.000Z",
-      "link": "https://x.com/hazenlee/status/2029152147322093628",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCj_HinbgAAW85k.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
