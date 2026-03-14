@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T22:25:26.199Z",
+  "lastUpdated": "2026-03-14T22:43:27.648Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 508,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 490,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2032949775125877099",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "@GROK FACT CHECK",
+      "contentHtml": "<a href=\"/grok\" title=\"Grok\">@GROK</a> FACT CHECK",
+      "publishedAt": "2026-03-14T22:39:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2032949775125877099",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2032934933086290268",
       "username": "TJ_Research",
@@ -6792,25 +6807,6 @@
       "contentHtml": "RT <a href=\"/sxzz\" title=\"老沙\">@sxzz</a>: <a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
       "publishedAt": "2026-03-09T07:59:00.000Z",
       "link": "https://x.com/taresky/status/2030916468679065804",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030911858652418167",
-      "username": "sxzz",
-      "displayName": "老沙",
-      "avatar": "https://nitter.net/pic/profile_images%2F1869962277123960834%2FwYYRsJ5c_bigger.jpg",
-      "content": "x.com/i/article/203090674803…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
-      "publishedAt": "2026-03-09T07:41:00.000Z",
-      "link": "https://x.com/sxzz/status/2030911858652418167",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
