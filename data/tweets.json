@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T13:21:36.082Z",
+  "lastUpdated": "2026-03-14T13:47:32.115Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,7 +89,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 488,
+    "newFetched": 475,
     "successUsers": 24,
     "failedUsers": 3
   },
@@ -228,12 +228,6 @@
       "contentHtml": "而且发现，\n京东上 K855键盘 + M750鼠标套装，\n附带一个bolt接收器，居然只需要300多元？！\n\n这两样，分开单独买可是要600多\n单独键盘就要400多🫪\n\n只是鼠标没法选L大手型，\n键盘也没法选其他颜色了。\n感觉又得买买买了。",
       "publishedAt": "2026-03-14T09:02:00.000Z",
       "link": "https://x.com/coolish/status/2032744256499273825",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDXCH-baMAEgHS3.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -270,12 +264,6 @@
       "contentHtml": "更正，罗技支持Options+ Flow跨屏功能的键盘鼠标\n准确列表应参考这个链接:\n<a href=\"https://support.logi.com/hc/cs/articles/25528092585879-Supported-devices-Logi-Options\">support.logi.com/hc/cs/artic…</a>\n\n既支持Options+ Flow\n且可能更适合玩游戏的键盘鼠标还有\nSignature K855 TKL 无线机械键盘\n（<a href=\"https://logitech.com/zh-cn/shop/p/k855-signature-wireless-mechanical-tkl.920-011071\">logitech.com/zh-cn/shop/p/k8…</a>）\nSignature Plus M750 鼠标，还有大手型号M750L\n（<a href=\"https://logitech.com/zh-cn/shop/p/m750-signature-plus-wireless-mouse.910-006271\">logitech.com/zh-cn/shop/p/m7…</a>）",
       "publishedAt": "2026-03-14T08:41:00.000Z",
       "link": "https://x.com/coolish/status/2032738920853811685",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDW89pPaoAAn1pz.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -329,20 +317,10 @@
       "username": "coolish",
       "displayName": "paulwei",
       "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "2台Windows PC + 2台 Mac 混搭\n实现一套键盘鼠标，控制4台电脑，剪贴板实时同步\n效果如视频所示。\n\n实现方式：\n罗技键盘鼠标 + 自带的 Options 软件 Flow 功能\n视频中我用的是 ：\nMX Mechanical 机械键盘\nMX Anywhere 3S 鼠标 （MX Master 4个人感觉太重）\n加起来不超过1000元\n（所有支持此功能的罗技键鼠产品可查看此链接：\nlogitech.com/zh-cn/shop/c/op…）\n\n具体原理是：\nPC - PC - Mac - Mac\n前三者分别插上罗技 Bolt 接收器\n（避免蓝牙延迟，1个Bolt最多同时连6个键盘/鼠标）\n用罗技MX系列键鼠自带的Options软件\n开启Flow功能，如图2\n\n后两者用雷电5线相连 + 登录同一个Apple ID\n设置如图3\n\n这套方案让 Windows+Mac 双持玩家跨电脑打通，\n不再需要多套键盘鼠标，不再手忙搅乱，\n且不用任何额外第三方软件\n（Options 软件是罗技MX系列键鼠本来就必装的），\n是我目前多机玩龙虾摸索下来最佳实践，\n唯一的问题是，罗技MX系列鼠标不适合玩游戏，\n所以还是得不得不多备另外的游戏鼠标。\n\n如果有更好，或更适应其他环境的方案，\n也欢迎在评论区分享。",
-      "contentHtml": "2台Windows PC + 2台 Mac 混搭\n实现一套键盘鼠标，控制4台电脑，剪贴板实时同步\n效果如视频所示。\n\n实现方式：\n罗技键盘鼠标 + 自带的 Options 软件 Flow 功能\n视频中我用的是 ：\nMX Mechanical 机械键盘\nMX Anywhere 3S 鼠标 （MX Master 4个人感觉太重）\n加起来不超过1000元\n（所有支持此功能的罗技键鼠产品可查看此链接：\n<a href=\"https://www.logitech.com/zh-cn/shop/c/options-plus\">logitech.com/zh-cn/shop/c/op…</a>）\n\n具体原理是：\nPC - PC - Mac - Mac\n前三者分别插上罗技 Bolt 接收器\n（避免蓝牙延迟，1个Bolt最多同时连6个键盘/鼠标）\n用罗技MX系列键鼠自带的Options软件\n开启Flow功能，如图2\n\n后两者用雷电5线相连 + 登录同一个Apple ID\n设置如图3\n\n这套方案让 Windows+Mac 双持玩家跨电脑打通，\n不再需要多套键盘鼠标，不再手忙搅乱，\n且不用任何额外第三方软件\n（Options 软件是罗技MX系列键鼠本来就必装的），\n是我目前多机玩龙虾摸索下来最佳实践，\n唯一的问题是，罗技MX系列鼠标不适合玩游戏，\n所以还是得不得不多备另外的游戏鼠标。\n\n如果有更好，或更适应其他环境的方案，\n也欢迎在评论区分享。",
+      "content": "2台Windows PC + 2台 Mac 混搭\n实现一套键盘鼠标，控制4台电脑，剪贴板实时同步\n效果如视频所示。\n\n实现方式：\n罗技键盘鼠标 + 自带的 Options 软件 Flow 功能\n视频中我用的是 ：\nMX Mechanical 机械键盘\nMX Anywhere 3S 鼠标 （MX Master 4个人感觉太重）\n加起来不超过1000元",
+      "contentHtml": "2台Windows PC + 2台 Mac 混搭\n实现一套键盘鼠标，控制4台电脑，剪贴板实时同步\n效果如视频所示。\n\n实现方式：\n罗技键盘鼠标 + 自带的 Options 软件 Flow 功能\n视频中我用的是 ：\nMX Mechanical 机械键盘\nMX Anywhere 3S 鼠标 （MX Master 4个人感觉太重）\n加起来不超过1000元",
       "publishedAt": "2026-03-14T06:47:00.000Z",
       "link": "https://x.com/coolish/status/2032710244221251867",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDWedKGa4AAeZTM.png"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDWgZzoaMAMh-H5.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -796,7 +774,7 @@
       "quote": {
         "username": "TJ_Research",
         "displayName": "投资TALK君",
-        "content": "说一下我今天听完川普所有讲话之后的一些看法：\n1. 川普的PUT在股市，不是债市\n2. 中美之间的贸易战会以互赢的结果收场（川普要解决芬太尼，让中国购买更多的农产品，卖TIKTOK等），不会以现在夸张的关税水平结束\n关于为什么认为PUT在股市不在债市，从表面上看，昨天美债出现的流动性风险的确是一个雷，川普今天也提到了美债的波动，今天也出现了PIVOT，所以表面上是美债才是川普的底线\n但是在他今天的Q&A里，有人问他是不是今天做的决定，他说他几天前就有了类似的想法，那么从结果看，90天的延后，其实符合了周一的“谣言”里的天数，并且第一个提出90天延后的人是华尔街的BILL ACKMAN，这人首先抨击了商务部长，然后又发文道歉，现在回过头去看他昨天的道歉可能是已经知道今天关税政策转变的消息，然后今天消息出来后又在社交媒体继续做舔狗，几天之内态度的转变：从支持川普关税，到喷商务部长，到道歉，到跪舔，到提出90天的延缓，都比较奇怪。\n周一的”谣言“，BILL ACKMAN的建议，今天的公告有个共同点就是90天，为何不是30天，60天？加上今天川普说几天前就有了这样的想法，让我有理由相信上周末川普就有了放缓关税的想法，而这周以来债券市场的波动是一个很好的契机。\n这只是我的一些看法，市场现在的主流观点都是债券市场让川普PIVOT，其实也合理，因为他们要压低利率，减少利息支出。但我觉得无论是债市还是股市，起码今天带给我们的一个信号是川普的PUT仍然存在",
+        "content": "说一下我今天听完川普所有讲话之后的一些看法：\n1. 川普的PUT在股市，不是债市\n2. 中美之间的贸易战会以互赢的结果收场（川普要解决芬太尼，让中国购买更多的农产品，卖TIKTOK等），不会以现在夸张的关税水平结束",
         "link": "https://x.com/TJ_Research/status/1910184260599787978"
       },
       "stats": {
@@ -1723,6 +1701,25 @@
       }
     },
     {
+      "id": "2032384444816867390",
+      "username": "heyibinance",
+      "displayName": "Yi He",
+      "avatar": "https://nitter.net/pic/profile_images%2F1974520590410170369%2Fq2Q0S0fa_bigger.jpg",
+      "content": "作为一个曾经的媒体从业者，一度为媒体从业者是“无冕之王”而骄傲，但什么时候起，出版自由变成了诋毁自由？自己是个锤子，看谁都是钉子。\n这是关于诋毁和虚假指控的第三次胜诉，所有人都说劝我们说和媒体打官司胜算不多，但总得有人做点什么来改变这个陈旧腐烂的新闻业。\n是否有的记者只要拿着“新闻自由”，就可以用虚假故事做勒索币安的帮凶，用耸人听闻的模糊字眼来获取流量？如果这样我以曾经是媒体人为耻，也很愿意继续去打一个个胜算不大的官司。",
+      "contentHtml": "作为一个曾经的媒体从业者，一度为媒体从业者是“无冕之王”而骄傲，但什么时候起，出版自由变成了诋毁自由？自己是个锤子，看谁都是钉子。\n这是关于诋毁和虚假指控的第三次胜诉，所有人都说劝我们说和媒体打官司胜算不多，但总得有人做点什么来改变这个陈旧腐烂的新闻业。\n是否有的记者只要拿着“新闻自由”，就可以用虚假故事做勒索币安的帮凶，用耸人听闻的模糊字眼来获取流量？如果这样我以曾经是媒体人为耻，也很愿意继续去打一个个胜算不大的官司。",
+      "publishedAt": "2026-03-13T09:13:00.000Z",
+      "link": "https://x.com/heyibinance/status/2032384444816867390",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2032383769475481706",
       "username": "daidaibtc",
       "displayName": "带带带比特",
@@ -2088,20 +2085,10 @@
       "username": "coolish",
       "displayName": "paulwei",
       "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "普通人只是三天两头修自己的龙虾，\n也能修成“官方OpenClaw贡献者”？\n\n今天发现自己在Github上提交的\nOpenClaw小问题修正，好像被合并到主分支了\ngithub.com/openclaw/openclaw…\n\n而全程我几乎什么都没做，只是因为用龙虾时，\n遇到个小问题，用Codex桌面版给它修了，\n然后把Github的登录凭据交给龙虾，\n并且发了一句针对性的提示词给它：\n“有没有可能，借修复这个问题的机会，让我的github账号出现在openclaw官方贡献者的一份子里？让我有credit？”\n它就完成了最大化可能性实现这个结果的所有过程（图1）\n\n在这个过程中，更有意思的一个发现是，\nGithub上好像专门有帮人在做“抢Credit”这件事，\n像是有人去DEX上做MEV夹子抢跑套利似的（图2）😅\n\n由此联想到比如，假如你现在是一个应届毕业生，\n哪怕你是一个文科生，哪怕你连Github都不会用，\n但只要你在用龙虾时有这种\n“遇到问题修了是不是用这个去拿Credit”的意识，\n就有机会通过只是和龙虾一番提示词交流来实现，\n自己的名字出现在OpenClaw的主分支贡献者里，\n那么去找工作啥的，是不是就能“忽悠”住很多HR了？😅\n\n另一个小联想是，\n龙虾不仅是一个开源共创二创平台，\n因为打开了普通人也能给它“Mod”的可行性，\n所以它不仅是一个开发者维护的东西，\n而是能借助更多不会代码的普通人之手来加速生长，\n普通人只需要讲讲话都能成为“官方贡献者”，\n有点像郭宇老师说的“Software➡️Intentware”，\n“软件”变成“意件”，\nnitter.net/turingou/status/202833…\n这可能也算是某种程度上的软件“自主演化”吧。",
-      "contentHtml": "普通人只是三天两头修自己的龙虾，\n也能修成“官方OpenClaw贡献者”？\n\n今天发现自己在Github上提交的\nOpenClaw小问题修正，好像被合并到主分支了\n<a href=\"https://github.com/openclaw/openclaw/pull/43917#issuecomment-4050089613\">github.com/openclaw/openclaw…</a>\n\n而全程我几乎什么都没做，只是因为用龙虾时，\n遇到个小问题，用Codex桌面版给它修了，\n然后把Github的登录凭据交给龙虾，\n并且发了一句针对性的提示词给它：\n“有没有可能，借修复这个问题的机会，让我的github账号出现在openclaw官方贡献者的一份子里？让我有credit？”\n它就完成了最大化可能性实现这个结果的所有过程（图1）\n\n在这个过程中，更有意思的一个发现是，\nGithub上好像专门有帮人在做“抢Credit”这件事，\n像是有人去DEX上做MEV夹子抢跑套利似的（图2）😅\n\n由此联想到比如，假如你现在是一个应届毕业生，\n哪怕你是一个文科生，哪怕你连Github都不会用，\n但只要你在用龙虾时有这种\n“遇到问题修了是不是用这个去拿Credit”的意识，\n就有机会通过只是和龙虾一番提示词交流来实现，\n自己的名字出现在OpenClaw的主分支贡献者里，\n那么去找工作啥的，是不是就能“忽悠”住很多HR了？😅\n\n另一个小联想是，\n龙虾不仅是一个开源共创二创平台，\n因为打开了普通人也能给它“Mod”的可行性，\n所以它不仅是一个开发者维护的东西，\n而是能借助更多不会代码的普通人之手来加速生长，\n普通人只需要讲讲话都能成为“官方贡献者”，\n有点像郭宇老师说的“Software➡️Intentware”，\n“软件”变成“意件”，\n<a href=\"https://nitter.net/turingou/status/2028336952316240141\">nitter.net/turingou/status/202833…</a>\n这可能也算是某种程度上的软件“自主演化”吧。",
+      "content": "普通人只是三天两头修自己的龙虾，\n也能修成“官方OpenClaw贡献者”？\n\n今天发现自己在Github上提交的\nOpenClaw小问题修正，好像被合并到主分支了\ngithub.com/openclaw/openclaw…\n\n而全程我几乎什么都没做，只是因为用龙虾时，\n遇到个小问题，用Codex桌面版给它修了，\n然后把Github的登录凭据交给龙虾，",
+      "contentHtml": "普通人只是三天两头修自己的龙虾，\n也能修成“官方OpenClaw贡献者”？\n\n今天发现自己在Github上提交的\nOpenClaw小问题修正，好像被合并到主分支了\n<a href=\"https://github.com/openclaw/openclaw/pull/43917#issuecomment-4050089613\">github.com/openclaw/openclaw…</a>\n\n而全程我几乎什么都没做，只是因为用龙虾时，\n遇到个小问题，用Codex桌面版给它修了，\n然后把Github的登录凭据交给龙虾，",
       "publishedAt": "2026-03-13T04:45:00.000Z",
       "link": "https://x.com/coolish/status/2032317082348765463",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDQ31IbaQAAMJNy.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDQ5Ip4bYAA8b8l.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -4790,6 +4777,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHDDMFc0aMAUzkkh.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031340940573684125",
+      "username": "FrontierLab_ZH",
+      "displayName": "Frontier Lab 中文",
+      "avatar": "https://nitter.net/pic/profile_images%2F1777659632871424000%2FhZFVT5tb_bigger.jpg",
+      "content": "x.com/i/article/203096902716…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030969027162673152\">x.com/i/article/203096902716…</a>",
+      "publishedAt": "2026-03-10T12:06:00.000Z",
+      "link": "https://x.com/FrontierLab_ZH/status/2031340940573684125",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -9914,8 +9920,8 @@
       "username": "coolish",
       "displayName": "paulwei",
       "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "首先我们都知道，现在出生的娃，\n会生活在一个现在不可想象的世界。\n\n我有一个想法不确定对不对，就是：\n2000~2010年之间左右出生的人可能比较吃亏。\n\n因为比如2005年出生的人，\n在现在这个时间，是21岁，\n但他刚走上社会就面临一个时代断层：\n曾经花10年在最有时间、有条件学习的黄金年龄\n接受的教育、成长收获，\n在他21岁进入社会职场时，突然都推倒重来了。\n相比年上的，经验不足；\n相比年下的，缺少ai原住民级熏陶。\n\n想知道有些什么不同角度的看法。",
-      "contentHtml": "首先我们都知道，现在出生的娃，\n会生活在一个现在不可想象的世界。\n\n我有一个想法不确定对不对，就是：\n2000~2010年之间左右出生的人可能比较吃亏。\n\n因为比如2005年出生的人，\n在现在这个时间，是21岁，\n但他刚走上社会就面临一个时代断层：\n曾经花10年在最有时间、有条件学习的黄金年龄\n接受的教育、成长收获，\n在他21岁进入社会职场时，突然都推倒重来了。\n相比年上的，经验不足；\n相比年下的，缺少ai原住民级熏陶。\n\n想知道有些什么不同角度的看法。",
+      "content": "首先我们都知道，现在出生的娃，\n会生活在一个现在不可想象的世界。\n\n我有一个想法不确定对不对，就是：\n2000~2010年之间左右出生的人可能比较吃亏。\n\n因为比如2005年出生的人，\n在现在这个时间，是21岁，\n但他刚走上社会就面临一个时代断层：\n曾经花10年在最有时间、有条件学习的黄金年龄",
+      "contentHtml": "首先我们都知道，现在出生的娃，\n会生活在一个现在不可想象的世界。\n\n我有一个想法不确定对不对，就是：\n2000~2010年之间左右出生的人可能比较吃亏。\n\n因为比如2005年出生的人，\n在现在这个时间，是21岁，\n但他刚走上社会就面临一个时代断层：\n曾经花10年在最有时间、有条件学习的黄金年龄",
       "publishedAt": "2026-03-06T12:37:00.000Z",
       "link": "https://x.com/coolish/status/2029899249845207460",
       "stats": {
@@ -11351,52 +11357,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHCpmESGaQAAlKZW.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029531462496911776",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "Before agentic workforce: The company's culture and quality is set by the first 25 people. After agentic workforce is set by the first 2 \n\nThe future cohort of great companies & capital formation will be distributed around companies with 2-5 humans",
-      "contentHtml": "Before agentic workforce: The company's culture and quality is set by the first 25 people. After agentic workforce is set by the first 2 \n\nThe future cohort of great companies &amp; capital formation will be distributed around companies with 2-5 humans",
-      "publishedAt": "2026-03-05T12:16:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2029531462496911776",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029521638447059380",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "X上这两天 BTC 的舆情，明显出现转变，\n完全应证我在⬇️引用推里2月6日的结论（图1）\n价格和舆情同步，也来到近一个月新高。\n\n为什么这么“白痴”的舆情分析角度，会有这种效果？\n而且能够正好在2月6日这种 BTC 62K 节骨眼时，\n相对价格最低位，舆情最一边倒悲观的时候，\n给出这种完全反当时情绪，逆风的结论（图2）？\n\n并且同时、提前给出\n“日级别2月10日之前”\n“周级别3月中旬之前”\n两轮不同级别的舆情转变的判断，\n兑现过去一个月里仅有的这两次10k反弹涨幅？\n\n只是巧合？还是有什么大道至简在里面？\n\n如果你有心跟踪我的推文，\n我上次发BTC后续具体行情的想法，是2025年11月：\nnitter.net/coolish/status/1989546…\n上上次，则直接就是2025年7月BTC到100天的提醒：\nnitter.net/coolish/status/1943888…\n半年就这3条，为什么低频到如此发指？\n为什么我要么不出来讲，\n一旦主动出来讲，往往就是行情价格的关键时间点？\n很多人会吐槽二级交易博主经常“N个方向”，\n但在我这，一个月都不一定表达一次方向。\n\n原因我在上个月发的年度总结置顶推里写过：\n（nitter.net/coolish/status/2025470…）\n“对BTC走势的观点表达频率， \n甚至低到几个月一次，包括评论都尽量避免水废话，\n就是我对‘输出质量含金量>数量’，\n和方便自己/他人查阅内容历史的低熵便利性，\n 有近乎强迫症的追求”\n\n一般的信号，我都觉得不够值得讲，\n只有在信号、想法足够强烈的时候，\n我才觉得值得专门出来公开表达下，\n这既提升你看我信息的信噪比，\n也是我对自己想法的分层提炼。\n\n那么肯定有人要问，\n现在呢？有信号吗？\n尤其是像之前这种“强烈的想法信号”？\n没有。\n高置信度、高质量的想法只出现在极少数时间。\n但可以多说点普通的想法，\n目前73K的价格上方，尤其是75K~80K之间，\n有开始渐强的套牢盘压力，\n如果说更高的80K+，这种套牢盘压力则更强，\n如果现在在做多，那么要考虑的就是，\n这个做多的赔率是多少？这个赔率值得冒多少险？\n所以我目前的短期交易对策是，\n我不会指望短期一蹴而就的强延续性上涨，\n所以我的公开BTC Only实盘，也包括个人仓位，\n这两天开始逐步分批平多，然后再看再说。",
-      "contentHtml": "X上这两天 BTC 的舆情，明显出现转变，\n完全应证我在⬇️引用推里2月6日的结论（图1）\n价格和舆情同步，也来到近一个月新高。\n\n为什么这么“白痴”的舆情分析角度，会有这种效果？\n而且能够正好在2月6日这种 BTC 62K 节骨眼时，\n相对价格最低位，舆情最一边倒悲观的时候，\n给出这种完全反当时情绪，逆风的结论（图2）？\n\n并且同时、提前给出\n“日级别2月10日之前”\n“周级别3月中旬之前”\n两轮不同级别的舆情转变的判断，\n兑现过去一个月里仅有的这两次10k反弹涨幅？\n\n只是巧合？还是有什么大道至简在里面？\n\n如果你有心跟踪我的推文，\n我上次发BTC后续具体行情的想法，是2025年11月：\n<a href=\"https://nitter.net/coolish/status/1989546950128189873\">nitter.net/coolish/status/1989546…</a>\n上上次，则直接就是2025年7月BTC到100天的提醒：\n<a href=\"https://nitter.net/coolish/status/1943888069544804795\">nitter.net/coolish/status/1943888…</a>\n半年就这3条，为什么低频到如此发指？\n为什么我要么不出来讲，\n一旦主动出来讲，往往就是行情价格的关键时间点？\n很多人会吐槽二级交易博主经常“N个方向”，\n但在我这，一个月都不一定表达一次方向。\n\n原因我在上个月发的年度总结置顶推里写过：\n（<a href=\"https://nitter.net/coolish/status/2025470945218232492\">nitter.net/coolish/status/2025470…</a>）\n“对BTC走势的观点表达频率， \n甚至低到几个月一次，包括评论都尽量避免水废话，\n就是我对‘输出质量含金量&gt;数量’，\n和方便自己/他人查阅内容历史的低熵便利性，\n 有近乎强迫症的追求”\n\n一般的信号，我都觉得不够值得讲，\n只有在信号、想法足够强烈的时候，\n我才觉得值得专门出来公开表达下，\n这既提升你看我信息的信噪比，\n也是我对自己想法的分层提炼。\n\n那么肯定有人要问，\n现在呢？有信号吗？\n尤其是像之前这种“强烈的想法信号”？\n没有。\n高置信度、高质量的想法只出现在极少数时间。\n但可以多说点普通的想法，\n目前73K的价格上方，尤其是75K~80K之间，\n有开始渐强的套牢盘压力，\n如果说更高的80K+，这种套牢盘压力则更强，\n如果现在在做多，那么要考虑的就是，\n这个做多的赔率是多少？这个赔率值得冒多少险？\n所以我目前的短期交易对策是，\n我不会指望短期一蹴而就的强延续性上涨，\n所以我的公开BTC Only实盘，也包括个人仓位，\n这两天开始逐步分批平多，然后再看再说。",
-      "publishedAt": "2026-03-05T11:37:00.000Z",
-      "link": "https://x.com/coolish/status/2029521638447059380",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCpCXioacAAKew5.png"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCpJCfIbYAA15Vq.jpg"
-        }
-      ],
-      "quote": {
-        "username": "coolish",
-        "displayName": "paulwei",
-        "content": "3个小时前，BTC最低触及62k。\n说一个看上去很白痴，\n但某种角度上我认为有一定帮助的，\n可以对自己情绪受周边舆情的影响，\n进行校正的，让自己主观情绪\n从局部“此山中”稍微脱离出来一些的，\n舆情情绪分析+“时间>价格”的角度。\n\nA：\n1月中旬到2月上旬的三根周线大阴线，\n从90k多跌到60k多，\n平均每根周线跌1万刀。\n其中，2月5日单根日线从73k跌到62k，\n也就是1天跌了1万刀。\n\nB：\n按上述所说的，周线下跌速率，\n再来6根周线，到3月中旬就可以归零；\n按上述所说的，日线速度，\n再来6根日线，到2月10日就可以归零。\n\nC：\n如果认为归零是不可能发生的，\n那么也就是说\n这个速率是不可按此原速持续，\n且持续的deadline就是上述所说时间。\n而\n今天在X上能看到的，\n对BTC下跌的舆情整体状态，\n主要就是来自这三根周线\n和2月5日这根日线\n的“-10k/周”“-10k/日”下跌速率。\n\n可得结论：\nX上对BTC的周线/日线级别的\n整体舆情（粗糙地≈代表市场情绪）\n分别，最迟\n会在3月中旬/2月10日之前\n产生转变。",
-        "link": "https://x.com/coolish/status/2019554529168314768"
       },
       "stats": {
         "replies": 0,
