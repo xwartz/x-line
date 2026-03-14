@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T06:48:10.675Z",
+  "lastUpdated": "2026-03-14T07:17:07.806Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,36 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 528,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 466,
+    "successUsers": 23,
+    "failedUsers": 4
   },
   "tweets": [
+    {
+      "id": "2032710244221251867",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "2台Windows PC + 2台 Mac 混搭\n实现一套键盘鼠标，控制4台电脑，剪贴板实时同步\n效果如视频所示。\n\n实现方式：\n罗技键盘鼠标 + 自带的 Options 软件 Flow 功能\n视频中我用的是 ：\nMX Mechanical 机械键盘\nMX Anywhere 3S 鼠标 （MX Master 4个人感觉太重）\n加起来不超过1000元\n（所有支持此功能的罗技键鼠产品可查看此链接：\nlogitech.com/zh-cn/shop/c/op…）\n\n具体原理是：\nPC - PC - Mac - Mac\n前三者分别插上罗技 Bolt 接收器\n（避免蓝牙延迟，1个Bolt最多同时连6个键盘/鼠标）\n用罗技MX系列键鼠自带的Options软件\n开启Flow功能，如图2\n\n后两者用雷电5线相连 + 登录同一个Apple ID\n设置如图3\n\n这套方案让 Windows+Mac 双持玩家跨电脑打通，\n不再需要多套键盘鼠标，不再手忙搅乱，\n且不用任何额外第三方软件\n（Options 软件是罗技MX系列键鼠本来就必装的），\n是我目前多机玩龙虾摸索下来最佳实践，\n唯一的问题是，罗技MX系列鼠标不适合玩游戏，\n所以还是得不得不多备另外的游戏鼠标。\n\n如果有更好，或更适应其他环境的方案，\n也欢迎在评论区分享。",
+      "contentHtml": "2台Windows PC + 2台 Mac 混搭\n实现一套键盘鼠标，控制4台电脑，剪贴板实时同步\n效果如视频所示。\n\n实现方式：\n罗技键盘鼠标 + 自带的 Options 软件 Flow 功能\n视频中我用的是 ：\nMX Mechanical 机械键盘\nMX Anywhere 3S 鼠标 （MX Master 4个人感觉太重）\n加起来不超过1000元\n（所有支持此功能的罗技键鼠产品可查看此链接：\n<a href=\"https://www.logitech.com/zh-cn/shop/c/options-plus\">logitech.com/zh-cn/shop/c/op…</a>）\n\n具体原理是：\nPC - PC - Mac - Mac\n前三者分别插上罗技 Bolt 接收器\n（避免蓝牙延迟，1个Bolt最多同时连6个键盘/鼠标）\n用罗技MX系列键鼠自带的Options软件\n开启Flow功能，如图2\n\n后两者用雷电5线相连 + 登录同一个Apple ID\n设置如图3\n\n这套方案让 Windows+Mac 双持玩家跨电脑打通，\n不再需要多套键盘鼠标，不再手忙搅乱，\n且不用任何额外第三方软件\n（Options 软件是罗技MX系列键鼠本来就必装的），\n是我目前多机玩龙虾摸索下来最佳实践，\n唯一的问题是，罗技MX系列鼠标不适合玩游戏，\n所以还是得不得不多备另外的游戏鼠标。\n\n如果有更好，或更适应其他环境的方案，\n也欢迎在评论区分享。",
+      "publishedAt": "2026-03-14T06:47:00.000Z",
+      "link": "https://x.com/coolish/status/2032710244221251867",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDWedKGa4AAeZTM.png"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDWgZzoaMAMh-H5.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2032701665028026576",
       "username": "TJ_Research",
@@ -760,25 +785,6 @@
       }
     },
     {
-      "id": "2032511222877401221",
-      "username": "joshrauh",
-      "displayName": "Joshua Rauh",
-      "avatar": "https://nitter.net/pic/profile_images%2F1858352263636602880%2FVqHDh8KE_bigger.jpg",
-      "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
-      "contentHtml": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
-      "publishedAt": "2026-03-13T17:36:00.000Z",
-      "link": "https://x.com/joshrauh/status/2032511222877401221",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032509082603532375",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -1220,25 +1226,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHB6NpRgboAAvjMb.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032448290638504216",
-      "username": "rauchg",
-      "displayName": "Guillermo Rauch",
-      "avatar": "https://nitter.net/pic/profile_images%2F1783856060249595904%2F8TfcCN0r_bigger.jpg",
-      "content": "Obsession is the mother of invention",
-      "contentHtml": "Obsession is the mother of invention",
-      "publishedAt": "2026-03-13T13:26:00.000Z",
-      "link": "https://x.com/rauchg/status/2032448290638504216",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -2909,37 +2896,6 @@
       }
     },
     {
-      "id": "2031956026308678102",
-      "username": "mattwridley",
-      "displayName": "Matt Ridley",
-      "avatar": "https://nitter.net/pic/profile_images%2F1230960194194149380%2FSw7D18gf_bigger.jpg",
-      "content": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
-      "contentHtml": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
-      "publishedAt": "2026-03-12T04:50:00.000Z",
-      "link": "https://x.com/mattwridley/status/2031956026308678102",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Rebecca21951651",
-        "displayName": "Rebecc@ ███████",
-        "content": "So the theory is that there was a virus circulating in bats & then it somehow got an FCS optimally suited to infect humans & it was so perfected to launch a pandemic that the spike initially did not evolve at all?",
-        "link": "https://x.com/Rebecca21951651/status/2031868886488920103",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDKl-Y5aoAAUlSe.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031954767539552324",
       "username": "CycleStudies",
       "displayName": "百萬Eric | Day Trader",
@@ -3116,31 +3072,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHDGErFqaMAEOAy1.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031883482557780365",
-      "username": "cremieuxrecueil",
-      "displayName": "Crémieux",
-      "avatar": "https://nitter.net/pic/profile_images%2F1637507712983375875%2FEQHiqVq8_bigger.jpg",
-      "content": "So the proposed California wealth tax is an effort by a corrupt healthcare union to blackmail Gavin Newsom into giving them a bunch of free stuff.\n\nAnd they don't really care if it passes. They just want free stuff.\n\nCool. Democracy.",
-      "contentHtml": "So the proposed California wealth tax is an effort by a corrupt healthcare union to blackmail Gavin Newsom into giving them a bunch of free stuff.\n\nAnd they don't really care if it passes. They just want free stuff.\n\nCool. Democracy.",
-      "publishedAt": "2026-03-12T00:02:00.000Z",
-      "link": "https://x.com/cremieuxrecueil/status/2031883482557780365",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDKzDyPbAAAP9UF.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11380,6 +11311,99 @@
           "url": "https://nitter.net/pic/orig/media%2FHCoiTRxa0AAyFK8.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029471127081501177",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "顺便说一句去买新款的macbookneo 之类的电子产品，不如找机会蹲4000出头的air m4，当时买了一台其实就是为了安全给主钱包隔离。国补是真国补，比官网教育优惠便宜很多。\n\n小红书上有很多货比三家的方法，全世界的电子产品除了原产地就是国内最便宜了，之前在欧洲生活，国内原价+20%才是欧洲的价格。",
+      "contentHtml": "顺便说一句去买新款的macbookneo 之类的电子产品，不如找机会蹲4000出头的air m4，当时买了一台其实就是为了安全给主钱包隔离。国补是真国补，比官网教育优惠便宜很多。\n\n小红书上有很多货比三家的方法，全世界的电子产品除了原产地就是国内最便宜了，之前在欧洲生活，国内原价+20%才是欧洲的价格。",
+      "publishedAt": "2026-03-05T08:16:00.000Z",
+      "link": "https://x.com/0xleng1/status/2029471127081501177",
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "感觉自己无论赚了多少钱还是改不了喜欢在pdd捡漏的习惯，1300买的rog夜魔x键盘，2200买的256g ipad17，4700的macbookair，几乎都是比别人同时期便宜20-30%，会有一种捡漏的爽感。。。",
+        "link": "https://x.com/0xleng1/status/2029436248063189345",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCoBghxawAYg-Iy.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCoBghyawAI1_62.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029436248063189345",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "感觉自己无论赚了多少钱还是改不了喜欢在pdd捡漏的习惯，1300买的rog夜魔x键盘，2200买的256g ipad17，4700的macbookair，几乎都是比别人同时期便宜20-30%，会有一种捡漏的爽感。。。",
+      "contentHtml": "感觉自己无论赚了多少钱还是改不了喜欢在pdd捡漏的习惯，1300买的rog夜魔x键盘，2200买的256g ipad17，4700的macbookair，几乎都是比别人同时期便宜20-30%，会有一种捡漏的爽感。。。",
+      "publishedAt": "2026-03-05T05:58:00.000Z",
+      "link": "https://x.com/0xleng1/status/2029436248063189345",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCoBghxawAYg-Iy.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCoBghyawAI1_62.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCoBghxaEAAeRA9.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029410125975580849",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "【四年周期系列更新📊】\n\n15年6月该指标峰值跟19年3月该指标峰值相差 1385天\n19年3月该指标峰值跟23年1月该指标峰值相差 1380天\n23年1月该指标峰值距今已过去 1152天\n\n接下来或许应该更多地关注熊底右侧了😏",
+      "contentHtml": "【四年周期系列更新📊】\n\n15年6月该指标峰值跟19年3月该指标峰值相差 1385天\n19年3月该指标峰值跟23年1月该指标峰值相差 1380天\n23年1月该指标峰值距今已过去 1152天\n\n接下来或许应该更多地关注熊底右侧了😏",
+      "publishedAt": "2026-03-05T04:14:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2029410125975580849",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCnnkA1awAMpFWn.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【四年周期总刻系列（17）】\n\n15年6月该指标峰值跟19年3月该指标峰值相差 1385天\n19年3月该指标峰值跟23年1月该指标峰值相差 1380天\n23年1月该指标峰值距今已过去1068天\n\n图中上方指标为 #BTC 价格；下方指标为“链上长期持币者买币均价”跟“链上短期持币者买币均价”之比",
+        "link": "https://x.com/0xCryptoChan/status/1999007615742070912",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG73k3SubcAAgxbu.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
