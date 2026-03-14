@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T02:39:00.554Z",
+  "lastUpdated": "2026-03-14T03:35:48.737Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,52 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 446,
-    "successUsers": 22,
-    "failedUsers": 5
+    "newFetched": 485,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2032657779929067903",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "短期供应曲线可以直观的反映当前市场短线投机资金的活跃度，也是链上流动性的真实写照。因为无论是长期或短期筹码的派发，都需要短期需求来承接（图1）。\n\n目前该曲线所处的位置基本和过往熊市底部区间接近，属于极度不活跃状态。需要注意这里的逻辑是：在熊底区间一定会让供应曲线降至冰点，但反之降至冰点却未必一定是绝对的熊底。\n\n投机资金退场让本身就不充裕的流动性更加吃紧，也让BTC的短期方向变得更加无序，对宏观环境的复杂性更加敏感。\n\n目前BTC反弹到$74,000处再次遇阻（也是昨天我们预期的反弹压力区的下限），但从情绪压力的层面来看，还没有承受极限临界点的考验。\n\n通过STH-SOPR可以直接反映这一现状。在反弹行情中，当STH-SOPR回升至1附近，往往标志着情绪压力的临界点，因为这会让近期买入的投资者抓住机会在接近盈亏平衡时离场，而不是继续持有等待进一步上涨（图2）。\n\n例如，2026.1.14的反弹就是在STH-SOPR触及1后结束；2025.10.28的反弹也是触及1；2022.7.20-2022.10.27的三次反弹都如此......\n\n也许有小伙伴会问：那么这次当STH-SOPR回到1，BTC对应价格是多少？这和STH平均成本有关，目前测算大致在$85,000左右。\n\n但随着时间的推移，该数值正在快速且持续的下降，也就意味着正在逐渐的逼近临界点。届时要不就一举突破（熊市结束），要不一碰就泄（再次下探）。",
+      "contentHtml": "短期供应曲线可以直观的反映当前市场短线投机资金的活跃度，也是链上流动性的真实写照。因为无论是长期或短期筹码的派发，都需要短期需求来承接（图1）。\n\n目前该曲线所处的位置基本和过往熊市底部区间接近，属于极度不活跃状态。需要注意这里的逻辑是：在熊底区间一定会让供应曲线降至冰点，但反之降至冰点却未必一定是绝对的熊底。\n\n投机资金退场让本身就不充裕的流动性更加吃紧，也让BTC的短期方向变得更加无序，对宏观环境的复杂性更加敏感。\n\n目前BTC反弹到$74,000处再次遇阻（也是昨天我们预期的反弹压力区的下限），但从情绪压力的层面来看，还没有承受极限临界点的考验。\n\n通过STH-SOPR可以直接反映这一现状。在反弹行情中，当STH-SOPR回升至1附近，往往标志着情绪压力的临界点，因为这会让近期买入的投资者抓住机会在接近盈亏平衡时离场，而不是继续持有等待进一步上涨（图2）。\n\n例如，2026.1.14的反弹就是在STH-SOPR触及1后结束；2025.10.28的反弹也是触及1；2022.7.20-2022.10.27的三次反弹都如此......\n\n也许有小伙伴会问：那么这次当STH-SOPR回到1，BTC对应价格是多少？这和STH平均成本有关，目前测算大致在$85,000左右。\n\n但随着时间的推移，该数值正在快速且持续的下降，也就意味着正在逐渐的逼近临界点。届时要不就一举突破（熊市结束），要不一碰就泄（再次下探）。",
+      "publishedAt": "2026-03-14T03:19:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2032657779929067903",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDVzCupa0AArBP6.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDVzGHqaMAEYpxf.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "在昨天的推文中我们提到，当交易所内BTC余额持续下降，现货需求阶段性承接可使BTC在短期内维持震荡或弱反弹走势。\n\n如果是弱反弹路径，那么BTC即将遇到的第一重阻力便是“MVRV极端偏差定价区间”中绿线的位置（-0.5 std）—— $74,000（图1）。\n\n从历史轨迹来看，每当BTC跌破绿线时，代表行情进入熊市的第2阶段，此后反弹很难再有效突破此概率区间，直到熊市结束。\n\n如果切换到群体成本的角度，目前BTC可以比较稳定的站上“持有1w-1m”的超短期筹码成本线，说明近期抄底的资金对价格已不敏感，抛压减少价格才能站稳（图2）。\n\n在此上方就是持有1y-2y的长期持有者的平均换手成本，目前是$78,880；这里累积有242w枚的巨量筹码，以现有的整体需求水平来看，我个人认为很难一次性就顺利通过。\n\n另外，期权市场在3月20日的行权日，在$74,000位置是一个Long Gamma状态，目前的Gamma风险敞口（GEX）有1.8亿美元（图3）。\n\n我们知道在Long Gamma状态下，当价格下跌，MM要买入BTC；价格上涨，要卖出BTC对冲；因此形成了Gamma引力。\n\n综上所述，我个人对弱反弹路径的预期就在$74,000 - $79,000 之间，在此范围内我可能会找机会做一笔高位空的尝试，止损位置很清晰，一旦突破$79,000那就说明前期的判断错误，就及时止损。\n\n如果没到，那就继续耐心的在下行趋势中等低位接现货。总之就是少操作，等高确定性的机会。",
+        "link": "https://x.com/Murphychen888/status/2032296777253339608",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDQqigbbQAMPhNI.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDQqmJfbwAAVxcw.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2032645089613205562",
       "username": "TJ_Research",
@@ -103,6 +144,56 @@
       "contentHtml": "扫了一眼账户，以为过去一周很糟糕，结果-0.87%\n因为过去一周 <a href=\"/search?f=tweets&q=%23GE\">$GE</a> 跌了不少，科技股也跌。但是被 <a href=\"/search?f=tweets&q=%23INTC\">$INTC</a> <a href=\"/search?f=tweets&q=%23CRCL\">$CRCL</a> 的涨幅抵消了，没想到上年表现最差的圈圈竟然今年托起所有，风水轮流转。<a href=\"/search?f=tweets&q=%23耐心做投资\">#耐心做投资</a>",
       "publishedAt": "2026-03-14T02:28:00.000Z",
       "link": "https://x.com/TJ_Research/status/2032645089613205562",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032643191829311591",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "老赌狗实测都有猫腻   但是核心标准是“赚了钱能提走”\n任何一家出现 不给提走就换呗，很简单的",
+      "contentHtml": "老赌狗实测都有猫腻   但是核心标准是“赚了钱能提走”\n任何一家出现 不给提走就换呗，很简单的",
+      "publishedAt": "2026-03-14T02:21:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2032643191829311591",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032640753923666058",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "我在社交媒体和直播都反复 强调过  \n差价合约平台 mt4 mt5 经济商 外汇台子 这些东西  \n比币圈交易所老且猫腻不少\n\n你图外盘杠杠高，能开的仓位大 \n你图他下单丝滑  交易顺手\n你图他手续费比币安V8便宜  \n\n那你就要接受 \n那些猫腻\n\n我之前说过一嘴  币圈交易所新开 tradfi 的可以去试着找口子撸  ，因为里面有些雷他们还没踩过\n但是像这种 耍无赖的就悠着点",
+      "contentHtml": "我在社交媒体和直播都反复 强调过  \n差价合约平台 mt4 mt5 经济商 外汇台子 这些东西  \n比币圈交易所老且猫腻不少\n\n你图外盘杠杠高，能开的仓位大 \n你图他下单丝滑  交易顺手\n你图他手续费比币安V8便宜  \n\n那你就要接受 \n那些猫腻\n\n我之前说过一嘴  币圈交易所新开 tradfi 的可以去试着找口子撸  ，因为里面有些雷他们还没踩过\n但是像这种 耍无赖的就悠着点",
+      "publishedAt": "2026-03-14T02:11:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2032640753923666058",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDVhXvsasAAigB6.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDVhybbbQAAlCVV.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDViSl5b0AANHEv.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "推特时间线上，我是为数不多告诉各位，币不好做，黄金好做的\n\n好多问怎么尝试  交易 $xau 的\n\n链接在这里👇🏻 \n免责声明 “外汇台子”比币圈交易所还要古老   猫腻也不少  \n核心标准 是“赚了钱能提走”\n我目前个人实践 赚了几十万美金能提走\n朋友赚了 百万美金以上也提走了\n赚的钱是对手盘的  就这点来看好过所有二线交易所",
+        "link": "https://x.com/Bitfatty/status/1964708870871519322"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -303,6 +394,25 @@
             "url": "https://nitter.net/pic/orig/media%2FHDUaQ9JXwAAd0kT.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032557402520957299",
+      "username": "IamRamenPanda",
+      "displayName": "RamenPanda",
+      "avatar": "https://nitter.net/pic/profile_images%2F1652077879906414593%2FY8cRI8vf_bigger.jpg",
+      "content": "现在日韩一脸懵逼，他们发现过去自己太高看自己了，结果发现在美国人眼里他们都是可以随时抛弃的两条狗\n\n只有以色列才是美国亲爹，才是美国耗尽国运必须要保护的亲爹\n\n大难临头，日韩算根毛啊",
+      "contentHtml": "现在日韩一脸懵逼，他们发现过去自己太高看自己了，结果发现在美国人眼里他们都是可以随时抛弃的两条狗\n\n只有以色列才是美国亲爹，才是美国耗尽国运必须要保护的亲爹\n\n大难临头，日韩算根毛啊",
+      "publishedAt": "2026-03-13T20:40:00.000Z",
+      "link": "https://x.com/IamRamenPanda/status/2032557402520957299",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
       },
       "stats": {
         "replies": 0,
@@ -1563,6 +1673,12 @@
       "contentHtml": "😂",
       "publishedAt": "2026-03-13T04:38:00.000Z",
       "link": "https://x.com/follow_clues/status/2032315342794723619",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDQ8As4bQAYM4kZ.png"
+        }
+      ],
       "quote": {
         "username": "jason_chen998",
         "displayName": "陈剑Jason",
@@ -2929,6 +3045,31 @@
       }
     },
     {
+      "id": "2031828965438984215",
+      "username": "1DollarSol",
+      "displayName": "$1",
+      "avatar": "https://nitter.net/pic/profile_images%2F2013355852506202112%2FcL9SEXHo_bigger.jpg",
+      "content": "when u listen to Trump and cross the Hormuz",
+      "contentHtml": "when u listen to Trump and cross the Hormuz",
+      "publishedAt": "2026-03-11T20:25:00.000Z",
+      "link": "https://x.com/1DollarSol/status/2031828965438984215",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDKBrM2XsAARHFz.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2031806134755963007",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -4140,6 +4281,12 @@
       "contentHtml": "在altcoin如此走势特征之下，朋友开始怀疑自己的动量程序为何没有频繁做多altcoin（同时也说明，他极度看涨crypto）",
       "publishedAt": "2026-03-10T14:22:00.000Z",
       "link": "https://x.com/follow_clues/status/2031375125959020579",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDDkmk0bQAAoLT-.png"
+        }
+      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -9603,6 +9750,12 @@
       "contentHtml": "死，不允许，要维持价格\n生，不出钱，总想钓散户那点钱\n\n这个庄！玩的真抽象",
       "publishedAt": "2026-03-06T09:57:00.000Z",
       "link": "https://x.com/follow_clues/status/2029858868533370917",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCuB4FwaUAIdu3E.jpg"
+        }
+      ],
       "quote": {
         "username": "follow_clues",
         "displayName": "Theclues",
@@ -11224,137 +11377,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHCSjReybEAIyma8.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029436248063189345",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "感觉自己无论赚了多少钱还是改不了喜欢在pdd捡漏的习惯，1300买的rog夜魔x键盘，2200买的256g ipad17，4700的macbookair，几乎都是比别人同时期便宜20-30%，会有一种捡漏的爽感。。。",
-      "contentHtml": "感觉自己无论赚了多少钱还是改不了喜欢在pdd捡漏的习惯，1300买的rog夜魔x键盘，2200买的256g ipad17，4700的macbookair，几乎都是比别人同时期便宜20-30%，会有一种捡漏的爽感。。。",
-      "publishedAt": "2026-03-05T05:58:00.000Z",
-      "link": "https://x.com/0xleng1/status/2029436248063189345",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCoBghxawAYg-Iy.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCoBghyawAI1_62.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCoBghxaEAAeRA9.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029432412329975966",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "给的三种情况是循序渐进的过程，不是1或者2或者3",
-      "contentHtml": "给的三种情况是循序渐进的过程，不是1或者2或者3",
-      "publishedAt": "2026-03-05T05:42:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2029432412329975966",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029428137738813780",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "项目方做庄该换个思路了：\n\n不要想着市场好的时候再做庄，市场好的时候大家都涨，能注意到你？\n\n在市场的不好的时候把价格做上去，然后在市场好的时候开始卖，好的时候流动性会有改善",
-      "contentHtml": "项目方做庄该换个思路了：\n\n不要想着市场好的时候再做庄，市场好的时候大家都涨，能注意到你？\n\n在市场的不好的时候把价格做上去，然后在市场好的时候开始卖，好的时候流动性会有改善",
-      "publishedAt": "2026-03-05T05:25:00.000Z",
-      "link": "https://x.com/follow_clues/status/2029428137738813780",
-      "quote": {
-        "username": "follow_clues",
-        "displayName": "Theclues",
-        "content": "赚钱的拉盘：\n吸引到空头（爆空赚钱）\n吸引到多头（派发赚钱）\n\n抽象的拉盘：吸引到空气\n这种操盘团队除了给VC送钱，还能获得什么？😂",
-        "link": "https://x.com/follow_clues/status/2029420096851198326",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCnyW16bIAACUM3.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029423363941384439",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "“拉盘，卖货”循环",
-      "contentHtml": "“拉盘，卖货”循环",
-      "publishedAt": "2026-03-05T05:06:00.000Z",
-      "link": "https://x.com/follow_clues/status/2029423363941384439",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCn1uuIawAIbpVh.jpg"
-        }
-      ],
-      "quote": {
-        "username": "follow_clues",
-        "displayName": "Theclues",
-        "content": "不同意这个观点：\n1.即使激进的20倍杠杆满仓做空，清算价格集中于74700，这种行为的OI不会占据整体太多\n2.产生足够规模的清算，需要9.5%涨幅，即\n71500*1.095=78292.5",
-        "link": "https://x.com/follow_clues/status/2029421162380525898",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCnzcEGawAAtCk5.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029421162380525898",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "不同意这个观点：\n1.即使激进的20倍杠杆满仓做空，清算价格集中于74700，这种行为的OI不会占据整体太多\n2.产生足够规模的清算，需要9.5%涨幅，即\n71500*1.095=78292.5",
-      "contentHtml": "不同意这个观点：\n1.即使激进的20倍杠杆满仓做空，清算价格集中于74700，这种行为的OI不会占据整体太多\n2.产生足够规模的清算，需要9.5%涨幅，即\n71500*1.095=78292.5",
-      "publishedAt": "2026-03-05T04:58:00.000Z",
-      "link": "https://x.com/follow_clues/status/2029421162380525898",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCnzcEGawAAtCk5.png"
-        }
-      ],
-      "quote": {
-        "username": "ohyishi",
-        "displayName": "Yishi",
-        "content": "关注 75k 附近的 short OI 拥挤度。一旦形成 crowded short + 做市商被动 delta 买盘的正反馈，3 月大概率上演一次经典 gamma squeeze，空头流动性反向成为多头燃料。",
-        "link": "https://x.com/ohyishi/status/2029240197158977709"
       },
       "stats": {
         "replies": 0,
