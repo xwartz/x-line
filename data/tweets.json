@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T22:15:22.981Z",
+  "lastUpdated": "2026-03-16T22:28:23.931Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 448,
-    "successUsers": 22,
-    "failedUsers": 5
+    "newFetched": 492,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2033669619182096805",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "😂",
+      "contentHtml": "😂",
+      "publishedAt": "2026-03-16T22:19:00.000Z",
+      "link": "https://x.com/hazenlee/status/2033669619182096805",
+      "quote": {
+        "username": "Wellutwt",
+        "displayName": "Wellu",
+        "content": "Dubai in Us vs Iran war 😭",
+        "link": "https://x.com/Wellutwt/status/2033528373461532686"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2033663653057335741",
       "username": "TJ_Research",
@@ -236,6 +257,25 @@
       "contentHtml": "The ability of being \"AI fluent\" is massive cognitive gap for the vast majority of white-collar workers... spent a long time explaining to a colleague why we should wrap a CLI rather than letting Claw in session write code, but for someone with no coding/engineering background, it's simply incomprehensible, impossible to \"coach\" at all. However, having coding skills without the ability to break down business logic isn't enough either, so being truly AI fluent really showcases a person's comprehensive future proof capabilities",
       "publishedAt": "2026-03-16T17:24:00.000Z",
       "link": "https://x.com/DoveyWan/status/2033595149037801700",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033572958036173164",
+      "username": "WhitePine009",
+      "displayName": "WhitePine",
+      "avatar": "https://nitter.net/pic/profile_images%2F2032857296045248512%2FbFAwnpx0_bigger.jpg",
+      "content": "x.com/i/article/203211497446…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2032114974462480384\">x.com/i/article/203211497446…</a>",
+      "publishedAt": "2026-03-16T15:55:00.000Z",
+      "link": "https://x.com/WhitePine009/status/2033572958036173164",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2395,6 +2435,25 @@
       }
     },
     {
+      "id": "2032853995790692793",
+      "username": "getjonwithit",
+      "displayName": "Jonathan Gorard",
+      "avatar": "https://nitter.net/pic/profile_images%2F1330192676222865414%2FmhhuGgKB_bigger.jpg",
+      "content": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
+      "contentHtml": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
+      "publishedAt": "2026-03-14T16:18:00.000Z",
+      "link": "https://x.com/getjonwithit/status/2032853995790692793",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2032846785685725251",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -2814,6 +2873,31 @@
       }
     },
     {
+      "id": "2032693451666632916",
+      "username": "beffjezos",
+      "displayName": "Beff (e/acc)",
+      "avatar": "https://nitter.net/pic/profile_images%2F2005482858975023104%2Fs9wmB9qT_bigger.jpg",
+      "content": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
+      "contentHtml": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
+      "publishedAt": "2026-03-14T05:40:00.000Z",
+      "link": "https://x.com/beffjezos/status/2032693451666632916",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "joshrauh",
+        "displayName": "Joshua Rauh",
+        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
+        "link": "https://x.com/joshrauh/status/2032511222877401221"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2032685062177935363",
       "username": "market_beggar",
       "displayName": "貝格先生🐢",
@@ -2878,6 +2962,31 @@
       "contentHtml": "META可能要裁员20%！！！\n市场预计26年运营花费1136亿，20%就是227亿！\n因为前期的资本开支，我说过META其实是所有大科技里最浪费的，因为GPU都用在了科研上，没出成果之前都是0回报！现在裁员可以省227亿，能把利润率拉高到44%，25年是41.4%，去掉裁员的遣散费等等，今年也许还能保住40%（现在市场预期是34.6%）\n市场担心大科技自由现金流没了？一个比较残忍的事实可能是拿OPEX（运营花费）换CAPEX（资本开支）。对于传统企业来说，接下去将会看到他们在软件上的支出只会更多不会更少，拿OPEX换软件支出来增效。",
       "publishedAt": "2026-03-14T04:52:00.000Z",
       "link": "https://x.com/TJ_Research/status/2032681318476059018",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032671617155731876",
+      "username": "moseskagan",
+      "displayName": "Moses Kagan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1784227025940860929%2Fa6t7PV2r_bigger.jpg",
+      "content": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
+      "contentHtml": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
+      "publishedAt": "2026-03-14T04:14:00.000Z",
+      "link": "https://x.com/moseskagan/status/2032671617155731876",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "joshrauh",
+        "displayName": "Joshua Rauh",
+        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
+        "link": "https://x.com/joshrauh/status/2032511222877401221"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -3221,6 +3330,25 @@
       "contentHtml": "RT <a href=\"/IamRamenPanda\" title=\"RamenPanda\">@IamRamenPanda</a>: 现在日韩一脸懵逼，他们发现过去自己太高看自己了，结果发现在美国人眼里他们都是可以随时抛弃的两条狗\n\n只有以色列才是美国亲爹，才是美国耗尽国运必须要保护的亲爹\n\n大难临头，日韩算根毛啊",
       "publishedAt": "2026-03-13T20:44:00.000Z",
       "link": "https://x.com/hazenlee/status/2032558389813998063",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032557402520957299",
+      "username": "IamRamenPanda",
+      "displayName": "RamenPanda",
+      "avatar": "https://nitter.net/pic/profile_images%2F1652077879906414593%2FY8cRI8vf_bigger.jpg",
+      "content": "现在日韩一脸懵逼，他们发现过去自己太高看自己了，结果发现在美国人眼里他们都是可以随时抛弃的两条狗\n\n只有以色列才是美国亲爹，才是美国耗尽国运必须要保护的亲爹\n\n大难临头，日韩算根毛啊",
+      "contentHtml": "现在日韩一脸懵逼，他们发现过去自己太高看自己了，结果发现在美国人眼里他们都是可以随时抛弃的两条狗\n\n只有以色列才是美国亲爹，才是美国耗尽国运必须要保护的亲爹\n\n大难临头，日韩算根毛啊",
+      "publishedAt": "2026-03-13T20:40:00.000Z",
+      "link": "https://x.com/IamRamenPanda/status/2032557402520957299",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -3885,6 +4013,25 @@
             "url": "https://nitter.net/pic/orig/media%2FHB6NpRgboAAvjMb.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032448290638504216",
+      "username": "rauchg",
+      "displayName": "Guillermo Rauch",
+      "avatar": "https://nitter.net/pic/profile_images%2F1783856060249595904%2F8TfcCN0r_bigger.jpg",
+      "content": "Obsession is the mother of invention",
+      "contentHtml": "Obsession is the mother of invention",
+      "publishedAt": "2026-03-13T13:26:00.000Z",
+      "link": "https://x.com/rauchg/status/2032448290638504216",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -5555,6 +5702,37 @@
       }
     },
     {
+      "id": "2031956026308678102",
+      "username": "mattwridley",
+      "displayName": "Matt Ridley",
+      "avatar": "https://nitter.net/pic/profile_images%2F1230960194194149380%2FSw7D18gf_bigger.jpg",
+      "content": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
+      "contentHtml": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
+      "publishedAt": "2026-03-12T04:50:00.000Z",
+      "link": "https://x.com/mattwridley/status/2031956026308678102",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "Rebecca21951651",
+        "displayName": "Rebecc@ ███████",
+        "content": "So the theory is that there was a virus circulating in bats & then it somehow got an FCS optimally suited to infect humans & it was so perfected to launch a pandemic that the spike initially did not evolve at all?",
+        "link": "https://x.com/Rebecca21951651/status/2031868886488920103",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDKl-Y5aoAAUlSe.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2031954767539552324",
       "username": "CycleStudies",
       "displayName": "百萬Eric | Day Trader",
@@ -5739,6 +5917,31 @@
       }
     },
     {
+      "id": "2031883482557780365",
+      "username": "cremieuxrecueil",
+      "displayName": "Crémieux",
+      "avatar": "https://nitter.net/pic/profile_images%2F1637507712983375875%2FEQHiqVq8_bigger.jpg",
+      "content": "So the proposed California wealth tax is an effort by a corrupt healthcare union to blackmail Gavin Newsom into giving them a bunch of free stuff.\n\nAnd they don't really care if it passes. They just want free stuff.\n\nCool. Democracy.",
+      "contentHtml": "So the proposed California wealth tax is an effort by a corrupt healthcare union to blackmail Gavin Newsom into giving them a bunch of free stuff.\n\nAnd they don't really care if it passes. They just want free stuff.\n\nCool. Democracy.",
+      "publishedAt": "2026-03-12T00:02:00.000Z",
+      "link": "https://x.com/cremieuxrecueil/status/2031883482557780365",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDKzDyPbAAAP9UF.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2031880751583535191",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -5768,6 +5971,31 @@
       "contentHtml": "看了一圈，华语圈基本都是短线，要不就是去风险，要不就是大宗；老外圈几个大V，股市静得不合理，要不暴涨要不暴跌，散户看空期权历史高位，可能形成大跌。可能现在的市场做多的都默默买，不发推了？\n风险大家都能看得到，讨论机会的人却很少，只是观察",
       "publishedAt": "2026-03-11T23:06:00.000Z",
       "link": "https://x.com/TJ_Research/status/2031869420503519609",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031828965438984215",
+      "username": "1DollarSol",
+      "displayName": "$1",
+      "avatar": "https://nitter.net/pic/profile_images%2F2013355852506202112%2FcL9SEXHo_bigger.jpg",
+      "content": "when u listen to Trump and cross the Hormuz",
+      "contentHtml": "when u listen to Trump and cross the Hormuz",
+      "publishedAt": "2026-03-11T20:25:00.000Z",
+      "link": "https://x.com/1DollarSol/status/2031828965438984215",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDKBrM2XsAARHFz.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -8822,6 +9050,25 @@
       }
     },
     {
+      "id": "2030911858652418167",
+      "username": "sxzz",
+      "displayName": "老沙",
+      "avatar": "https://nitter.net/pic/profile_images%2F1869962277123960834%2FwYYRsJ5c_bigger.jpg",
+      "content": "x.com/i/article/203090674803…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
+      "publishedAt": "2026-03-09T07:41:00.000Z",
+      "link": "https://x.com/sxzz/status/2030911858652418167",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2030907866656469006",
       "username": "OwenJin12",
       "displayName": "Owen.btc 🟧",
@@ -11066,253 +11313,6 @@
         "displayName": "投资TALK君",
         "content": "大家觉得川普想从这场战争里获得什么？目的是什么？",
         "link": "https://x.com/TJ_Research/status/2030048980743209023"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030160519106285873",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "挺多朋友来感谢我的提醒，\n其实能这样有价值的存在本身就是我最开心的事儿或者说我个人认为活着的意义吧\n其实我是有点小理想主义或者共产主义思想的人，所以我的一切宗旨是利他。\n那如果能提醒大家少犯错，长期在市场上一定会越来越好。\n很多时候我提醒的不只是那个不完美的你，也是曾经的自己。\n在我最痛苦迷茫的时候，我多希望有一个像现在一样的我的大哥哥帮帮我，可惜那时候没有，我痛苦的要死双向差点跳楼…好在都熬过去了，也不希望兄弟姐妹们那样痛苦，我用我的血泪史换来了经验，分享给大家～",
-      "contentHtml": "挺多朋友来感谢我的提醒，\n其实能这样有价值的存在本身就是我最开心的事儿或者说我个人认为活着的意义吧\n其实我是有点小理想主义或者共产主义思想的人，所以我的一切宗旨是利他。\n那如果能提醒大家少犯错，长期在市场上一定会越来越好。\n很多时候我提醒的不只是那个不完美的你，也是曾经的自己。\n在我最痛苦迷茫的时候，我多希望有一个像现在一样的我的大哥哥帮帮我，可惜那时候没有，我痛苦的要死双向差点跳楼…好在都熬过去了，也不希望兄弟姐妹们那样痛苦，我用我的血泪史换来了经验，分享给大家～",
-      "publishedAt": "2026-03-07T05:56:00.000Z",
-      "link": "https://x.com/hazenlee/status/2030160519106285873",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCyUH6zaAAAt6Su.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCyUH62aUAEYD5a.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "提醒的还算及时 希望你没当杂牌多子",
-        "link": "https://x.com/hazenlee/status/2029581435812843870",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCqFjWPbAAAb0mP.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030157288720199708",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "😂😂😂",
-      "contentHtml": "😂😂😂",
-      "publishedAt": "2026-03-07T05:43:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2030157288720199708",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCyRS9MagAA44xO.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "川普说的“无条件投降”并不是你所理解的无条件投降，看看白宫新闻秘书给的定义：“总统的意思是，当他作为美国武装部队总司令认定伊朗不再对美国构成威胁，并且‘史诗狂怒行动’的目标已完全实现时，无论伊朗自己是否承认，他们实际上都将处于无条件投降的状态”。这一刻，川普重新定义了无条件投降🤔",
-        "link": "https://x.com/qinbafrank/status/2030125876462137786",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCx0ZkUbQAEoO5Z.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCx0ZkWaUAEcQ9v.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030129767534727213",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "#btc 换个区间，大家都更容易赚钱",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23btc\">#btc</a> 换个区间，大家都更容易赚钱",
-      "publishedAt": "2026-03-07T03:53:00.000Z",
-      "link": "https://x.com/follow_clues/status/2030129767534727213",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030093765407629449",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "专注力可能是最被低估的一个能力. 特别是当大家都有了“AI赋能幻觉”的时候, 单纯through put的带来的效能产出已经没有那么大了",
-      "contentHtml": "专注力可能是最被低估的一个能力. 特别是当大家都有了“AI赋能幻觉”的时候, 单纯through put的带来的效能产出已经没有那么大了",
-      "publishedAt": "2026-03-07T01:30:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2030093765407629449",
-      "quote": {
-        "username": "DoveyWanCN",
-        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-        "content": "我妈从小毒舌我的金句: 没有情绪稳定和专注力, 智商根本没有机会上场 😂 妈咪有些话说的很直接, 但是想想都是life wisdom.",
-        "link": "https://x.com/DoveyWanCN/status/1929180282521076098"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030008782257029124",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "Lighter was such an easy dump once it became public that they gave 10% of the airdrop to Jump",
-      "contentHtml": "Lighter was such an easy dump once it became public that they gave 10% of the airdrop to Jump",
-      "publishedAt": "2026-03-06T19:53:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2030008782257029124",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029947570613866684",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "68K 的 LIQ 已經超過 4 了，之前 63-65K LIQ 大概也處於這個水平。\n\n感覺摸到 74K 之後，讓整個震盪箱體往上位移了一個台階。\n\n月線已經連五紅了，統計上來說三月收漲機率是比較高的，三月開盤是 67K 左右，離現價也沒有太遠，下好離手吧。",
-      "contentHtml": "68K 的 LIQ 已經超過 4 了，之前 63-65K LIQ 大概也處於這個水平。\n\n感覺摸到 74K 之後，讓整個震盪箱體往上位移了一個台階。\n\n月線已經連五紅了，統計上來說三月收漲機率是比較高的，三月開盤是 67K 左右，離現價也沒有太遠，下好離手吧。",
-      "publishedAt": "2026-03-06T15:49:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2029947570613866684",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCvRxTGbsAA5Rjd.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029946781883322750",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "各大cex/dex的龙虾交易大赛可以举办了，这可是拉新的好机会",
-      "contentHtml": "各大cex/dex的龙虾交易大赛可以举办了，这可是拉新的好机会",
-      "publishedAt": "2026-03-06T15:46:00.000Z",
-      "link": "https://x.com/follow_clues/status/2029946781883322750",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029937145532797215",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "简单来说，油才是主要剧情。",
-      "contentHtml": "简单来说，油才是主要剧情。",
-      "publishedAt": "2026-03-06T15:08:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2029937145532797215",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029935008614600811",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "",
-      "contentHtml": "",
-      "publishedAt": "2026-03-06T14:59:00.000Z",
-      "link": "https://x.com/follow_clues/status/2029935008614600811",
-      "quote": {
-        "username": "follow_clues",
-        "displayName": "Theclues",
-        "content": "大家都害怕 SPX跌破6700点（距离当前170点，2.5%）",
-        "link": "https://x.com/follow_clues/status/2029561889374843381"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029933929751532011",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "非农爆冷的同时油价单日涨幅13%\n\n劳动力市场转冷和潜在通胀反弹（油价）同时发生，究竟谁才是交易的主线？\n\n美股开盘后有了答案，利率曲线在非农公布后整体快速下移，但美区交易时间正式开始后立刻收回失地甚至利率更高了。\n\nDXY同理。\n\n综合来说，仍然延续了利率走高+美元走强的风险偏好下行趋势。看不懂的时候就少做交易，现阶段的宏观环境setup真的挺难看懂的。",
-      "contentHtml": "非农爆冷的同时油价单日涨幅13%\n\n劳动力市场转冷和潜在通胀反弹（油价）同时发生，究竟谁才是交易的主线？\n\n美股开盘后有了答案，利率曲线在非农公布后整体快速下移，但美区交易时间正式开始后立刻收回失地甚至利率更高了。\n\nDXY同理。\n\n综合来说，仍然延续了利率走高+美元走强的风险偏好下行趋势。看不懂的时候就少做交易，现阶段的宏观环境setup真的挺难看懂的。",
-      "publishedAt": "2026-03-06T14:55:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2029933929751532011",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCvGI8vaUAAiMMm.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCvGI8yaUAA-cTE.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCvGI8taUAcrYd7.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029932313849786744",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "😮‍💨猜测成真",
-      "contentHtml": "😮‍💨猜测成真",
-      "publishedAt": "2026-03-06T14:49:00.000Z",
-      "link": "https://x.com/follow_clues/status/2029932313849786744",
-      "quote": {
-        "username": "follow_clues",
-        "displayName": "Theclues",
-        "content": "这个场景适用于过去48小时的 #BTC 吗？",
-        "link": "https://x.com/follow_clues/status/2029581016411820418"
       },
       "stats": {
         "replies": 0,
