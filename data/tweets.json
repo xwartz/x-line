@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T01:56:20.701Z",
+  "lastUpdated": "2026-03-16T03:06:55.458Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,83 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 511,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 465,
+    "successUsers": 23,
+    "failedUsers": 4
   },
   "tweets": [
+    {
+      "id": "2033374747405459805",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "x.com/i/article/203281051584…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2032810515844706306\">x.com/i/article/203281051584…</a>",
+      "publishedAt": "2026-03-16T02:48:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2033374747405459805",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033370960150315031",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "「黑客七擒 Venus」\n\n1️⃣2021.05：XVS 价格操纵，损失 9500 万美元\n2️⃣2022.05：预言机漏洞，1400 万美元坏账\n3️⃣2022.10：跨链桥被盗引发 BNB 滥用，1.5 亿美元坏账\n4️⃣2023.12：预言机漏洞，损失金额未披露\n5️⃣2024.03：预言机漏洞，71.6 万美元坏账\n6️⃣2025.06：MEV / 权限管理漏洞，损失 200 万美元\n7️⃣2026.03：THE 价格操纵，215 万美元坏账\n\n2021 年起 Venus 因攻击产生的可追溯坏账和损失共超 2.6 亿美元…要不，去灵隐寺拜一拜呢？\n\n关于昨天 THE 的借贷事故，@Super4DeFi 整理的非常清晰，就不赘述了",
+      "contentHtml": "「黑客七擒 Venus」\n\n1️⃣2021.05：XVS 价格操纵，损失 9500 万美元\n2️⃣2022.05：预言机漏洞，1400 万美元坏账\n3️⃣2022.10：跨链桥被盗引发 BNB 滥用，1.5 亿美元坏账\n4️⃣2023.12：预言机漏洞，损失金额未披露\n5️⃣2024.03：预言机漏洞，71.6 万美元坏账\n6️⃣2025.06：MEV / 权限管理漏洞，损失 200 万美元\n7️⃣2026.03：THE 价格操纵，215 万美元坏账\n\n2021 年起 Venus 因攻击产生的可追溯坏账和损失共超 2.6 亿美元…要不，去灵隐寺拜一拜呢？\n\n关于昨天 THE 的借贷事故，<a href=\"/Super4DeFi\" title=\"benmo.eth\">@Super4DeFi</a> 整理的非常清晰，就不赘述了",
+      "publishedAt": "2026-03-16T02:33:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2033370960150315031",
+      "quote": {
+        "username": "Super4DeFi",
+        "displayName": "benmo.eth",
+        "content": "今日venus 之 the 借贷事故，简单梳理一下：\n\n背景 1：有一个提案在明天从 core 借贷池子下架 the；\n背景 2：有人在 10.11 前通过龙卷风出来的 4500 个 eth 抵押 aave 借出稳定币，用来不断囤积the（成本据说在 1400w）。\n\n今日，有一个人（疑是黑客？）从囤积 the 的6 个地址，一把扯所有的 the 存进 venus，借出 cake、btc 和 bnb，通过拉高 the 价格，借出更多（没有闪电贷攻击，就是正常借贷），然后任由这个借贷对子自动清算，给 venus 留下了目前价值 1.7M的 cake 坏账（118w 个 cake）。\n\n目前这个人的地址（0x1a35bd28efd46cfc46c2136f878777d69ae16231）里有3,748,850w，和venus 上留下1183952个 cake 的债务（只能由 venus 承担了）。\n\n若是黑客，不择成本，似乎合理，但一切有点太巧合；若不是黑客，就...很奇怪....不管怎么样，venus 的受损是确定的了。",
+        "link": "https://x.com/Super4DeFi/status/2033183877943210254"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033369671895007296",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "很多时候有个别项目没有继续发了，就是及时止损了。有一些项目在当时是个不错的选择，一段时间后一些不确定的因素比如行情变差，要么一直延迟，要么积分总量加倍或者更好获取。那就可以及时止损了。大部分人亏就亏在这上面。也包括时间成本。",
+      "contentHtml": "很多时候有个别项目没有继续发了，就是及时止损了。有一些项目在当时是个不错的选择，一段时间后一些不确定的因素比如行情变差，要么一直延迟，要么积分总量加倍或者更好获取。那就可以及时止损了。大部分人亏就亏在这上面。也包括时间成本。",
+      "publishedAt": "2026-03-16T02:28:00.000Z",
+      "link": "https://x.com/0xleng1/status/2033369671895007296",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033364576038007097",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "肥直播说下周必定拉盘\n谁听到了？",
+      "contentHtml": "肥直播说下周必定拉盘\n谁听到了？",
+      "publishedAt": "2026-03-16T02:07:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2033364576038007097",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "nitter.net/i/broadcasts/1aKbdbMAM…",
+        "link": "https://x.com/Bitfatty/status/2032459081550807286"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2033359397079101623",
       "username": "market_beggar",
@@ -6690,39 +6762,6 @@
       }
     },
     {
-      "id": "2031196547812306984",
-      "username": "Hzzzz666",
-      "displayName": "Hzzzz",
-      "avatar": "https://nitter.net/pic/profile_images%2F1959499539607617536%2F9ZWsHyhY_bigger.jpg",
-      "content": "我在 @Bybit_Official 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n@Bybit_Official @Bybit_ZH @Alpha_Bybit @linabybit @benbybit",
-      "contentHtml": "我在 <a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n<a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> <a href=\"/Bybit_ZH\" title=\"Bybit 华语\">@Bybit_ZH</a> <a href=\"/Alpha_Bybit\" title=\"Bybit Alpha\">@Alpha_Bybit</a> <a href=\"/linabybit\" title=\"Lina🦊Bybit\">@linabybit</a> <a href=\"/benbybit\" title=\"Ben Zhou\">@benbybit</a>",
-      "publishedAt": "2026-03-10T02:32:00.000Z",
-      "link": "https://x.com/Hzzzz666/status/2031196547812306984",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUXaMAQRMzk.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUJaMAIHZqW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfULaMAYYPy9.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "daidaibtc",
-        "displayName": "带带带比特"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031195110927376664",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -11285,83 +11324,6 @@
       "contentHtml": "总感觉polymarket 会像sui一样在各个交易所开启打新。。。要么和ipo有关的东西",
       "publishedAt": "2026-03-06T11:40:00.000Z",
       "link": "https://x.com/0xleng1/status/2029884715357102260",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029883433917514160",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "《无能的丈夫》",
-      "contentHtml": "《无能的丈夫》",
-      "publishedAt": "2026-03-06T11:34:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2029883433917514160",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "无助的小处男\n\n你爹我也没办法π_π\n自己努力吧",
-        "link": "https://x.com/Bitfatty/status/2029838258100916272"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029865832902439316",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://nitter.net/pic/profile_images%2F1801446030657142784%2FK0YAwUJw_bigger.jpg",
-      "content": "我相信 2026 年的行情震荡居多，这会是 Ultron 表现极其亮眼的一年。\n\n经历了 BTC -5.65σ 大暴跌之后，Ultron 做了一次比较大的策略升级，近期两个波段赚了近 10%。\n\n「量化体系算的不是单次预测，而是长期期望值。它不是保证每一笔都赚钱，而是让你在足够长的时间里保持正收益。 其实这一点就是我坚持跟单 Ultron 策略的原因，人会恐慌、会贪婪、会扛单，而机器不会。」 — @erichsu_eth \n\n感謝 Eric 的分享與推薦！歡迎透過 Eric 的邀請連結立即免費體驗，再享 15% 訂閱期回饋 👇\ncoinkarma.co/zh-tw/join/9479…",
-      "contentHtml": "我相信 2026 年的行情震荡居多，这会是 Ultron 表现极其亮眼的一年。\n\n经历了 BTC -5.65σ 大暴跌之后，Ultron 做了一次比较大的策略升级，近期两个波段赚了近 10%。\n\n「量化体系算的不是单次预测，而是长期期望值。它不是保证每一笔都赚钱，而是让你在足够长的时间里保持正收益。 其实这一点就是我坚持跟单 Ultron 策略的原因，人会恐慌、会贪婪、会扛单，而机器不会。」 — <a href=\"/erichsu_eth\" title=\"Erichsu.eth\">@erichsu_eth</a> \n\n感謝 Eric 的分享與推薦！歡迎透過 Eric 的邀請連結立即免費體驗，再享 15% 訂閱期回饋 👇\n<a href=\"https://coinkarma.co/zh-tw/join/94795367\">coinkarma.co/zh-tw/join/9479…</a>",
-      "publishedAt": "2026-03-06T10:25:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2029865832902439316",
-      "quote": {
-        "username": "erichsu_eth",
-        "displayName": "Erichsu.eth",
-        "content": "Erichsu's Dailyshare: 经历了 BTC -5.65σ 大暴跌之后，我的 Ultron 策略跟单怎么样了？先看数据⬇️\n\n1. 上次发推时候，前三单全部平仓后，盈利 15.56%；\n\n2. 紧接着第四单就经历了巨大的回撤，回撤 25%，所有利润全部回吐，直至浮亏；\n\n3. $BTC 开启震荡期，我的 Ultron 第四单开启，截止目前浮盈约 15%+\n\nBTC 前阵子那波暴跌，如果用 200 天滚动周期去算，达到了 -5.65 个标准差。\n\n这个数字有多离谱？@BensonTWN 提到过制造业有个很有名的标准叫 Six Sigma（六标准差），Toyota、Intel 这些公司花几十年才做到，意思是一百万次里只允许 3.4 次错误，基本就是人类对 “几乎不可能发生” 的定义。\n\n而 BTC 这次的波动，距离这个“工业级不可能事件”只差 0.35 个标准差。\n\n自 2010 年 BTC 有交易记录以来，这种级别的波动只出现过 4 次（最近一次是 2020 年 3.12 闪崩），另外 3 次发生在量化模型无法建模的 2015 年以前。换句话说，这波行情对于量化策略来说，基本就是一次极端压力测试\n\n疼不疼？肯定疼啊🤣，但我想说一下为什么我选择留下来继续跟单：\n\n1. 态度\n\n回撤发生后，@coinkarma_  团队没有回避这次回撤，亏损数据一样展示在官网上，亏了就是亏了，先承认后改进。\n\n这种透明度在量化产品里其实不多见，因为大多数策略往往只会在赚钱的时候出来发战报。\n\n2. 改进\n\n这才是真正让我印象深刻的部分。\n\n这次极端行情之后，Ultron 做了一次比较大的策略升级，核心是增加了两层新的风控机制。\n\n第一层是 MA Filter（均线过滤器），当价格跌破关键均线时系统会自动降低多单曝险，原本理论上最高 1.2x 的杠杆会被压到 0.6–1x 左右，大幅降低连续下跌时的风险。\n\n第二层是 Crash Detection（崩盘检测），当 24 小时跌幅、LSUR 多空比以及 OI 持仓量同时出现异常时，系统会直接 全部平仓并进入 72 小时冷静期，等市场稳定之后再重新进场。\n\n回测结果是：加入这两层防护之后，最大回撤几乎减半，而 ROI 提升了。\n\n逻辑也很好理解，很多量化策略不是赚不到钱，而是会被极端行情打一拳，把之前的利润全部吐回去。把回撤压低，其实就是在保护复利。\n\n完整的回测数据和机制说明他们都公开放在了 coinkarma.co/ultron-evolutio…，有兴趣可以自己去看。\n\n3. 改进后的成果验证\n\n数据如下\n\n - 2.5 暴跌后策略升级完成，66.5K 进场做多 → 70.4K 全数平仓，3 天内捕捉 +5.12% \n\n - 2.17 再次进场，64K–69K 区间多次低买高卖的震荡操作，69K 全数获利了结 \n\n - 近期两个波段赚了近 10%，已经在大幅回补之前的损失 \n\n - 2/28 流动性指标显示 65-66K 有明显买盘支撑，预判震荡上行\n\n从暴跌回撤到策略升级再到实战回血，整个过程不到一个月。\nnitter.net/BensonTWN/status/20268…\n\n4. 在我理解，震荡行情才是 Ultron 策略的舒适区\n\n之前那一波 90K 到 96K 的行情，策略在中间进行了 57 次调仓，基本就是不断低买高卖地把震荡吃掉，最后整体收益超过 8%。\n\n最近两次波段也很典型：2 月 5 日暴跌之后在 66.5K 附近做多，70.4K 平仓，单波段 +5.12%；随后在 64K–69K 区间反复震荡操作，慢慢把之前的回撤补回来。\n\n57 次调仓是什么概念？这种操作频率和纪律，人类基本不可能长期做到。\n\n5. 仓位管理才是核心护城河\n\n从策略逻辑来说，Ultron 其实并不是去猜顶猜底，而是基于 @coinkarma_  的 Market Pulse 指标去做仓位管理。\n\n这个指标聚合了 11 项市场数据，用一个很简单的区间去表达：当指数低于 20 的时候，长期统计来看做多的期望值比较高；当指数高于 80 的时候，则倾向于减仓或者离场。\n\n听起来很简单，但真正难的是纪律执行，而这正是自动化策略存在的意义。看到信号就想 All-in，一口气开二三十倍杠杆进去；或者扛单扛到一半心态崩了，在最差的位置砍仓——这些场景是不是很熟悉？🤪\n\n借用 @BensonTWN 的话 ：量化体系算的不是“单次预测”，而是长期期望值。就像 Blackjack，你拿到 20 点输给庄家的 Blackjack，并不代表这个决策是错的；如果同样的情况出现一百次，你依然应该做出同样的选择。交易体系也是一样，它不是保证每一笔都赚钱，而是让你在足够长的时间里保持正收益。\n\n其实这一点就是我坚持跟单 Ultron 策略的原因，人会恐慌、会贪婪、会扛单，而机器不会。\n\n写在最后\n\n从长期数据来看，Ultron 现在已经实盘运行 657+ 天，累计收益 +216%，同期 BTC 只有 +31%。而且策略所有交易记录都放在 Hyperliquid 上公开运行，目前 Vault 的 TVL 已经超过 300 万美元，有 100+ 存款人。\n\n我相信 2026 年的行情震荡居多，这会是 Ultron 表现极其亮眼的一年，期待住。\n\n如果感兴趣，欢迎用我的 Ref：\ncoinkarma.co/zh-tw/account/r…",
-        "link": "https://x.com/erichsu_eth/status/2029020815006810176",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCh6l3raMAASJqz.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCiBTdeawAI_swj.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029860509240250748",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "这东西正经吗？？？",
-      "contentHtml": "这东西正经吗？？？",
-      "publishedAt": "2026-03-06T10:03:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2029860509240250748",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCuDXs_boAA1_sQ.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCuDXtBaUAU3FhC.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
