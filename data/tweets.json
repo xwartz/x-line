@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T20:19:57.925Z",
+  "lastUpdated": "2026-03-16T20:46:56.191Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,36 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 481,
+    "newFetched": 468,
     "successUsers": 24,
     "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2033641240340926579",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "？",
+      "contentHtml": "？",
+      "publishedAt": "2026-03-16T20:27:00.000Z",
+      "link": "https://x.com/hazenlee/status/2033641240340926579",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDjx67WaYAA0rb2.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDjx67Wb0AAcpNg.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2033624155183026402",
       "username": "TJ_Research",
@@ -380,6 +405,12 @@
       "contentHtml": "资产一度缩水超 7365 万美元，「曾通过 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 波段获利超 9818 万美元的聪明钱」似乎要等到天亮了☀️\n\n自 2 月以来他累计囤积了 53392 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 和 4000 枚 <a href=\"/search?f=tweets&q=%23cbBTC\">$cbBTC</a> ，总价值高达 4.2 亿美元，平均建仓价格分别为 $2318.42 和 $74003.92\n\n1 小时前他向 <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a> 以均价 $73841.19 充值了 330 枚 cbBTC（约 2436 万美元），若卖出将仅亏损 5.4 万美元\n\n钱包地址 0xd4584Bf988C9E8994688b56484E2F74cEAEeFB20",
       "publishedAt": "2026-03-16T13:37:00.000Z",
       "link": "https://x.com/ai_9684xtpa/status/2033538117219860495",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDiUHWzbsAAKb80.jpg"
+        }
+      ],
       "quote": {
         "username": "ai_9684xtpa",
         "displayName": "Ai 姨",
@@ -777,7 +808,13 @@
         "username": "ai_9684xtpa",
         "displayName": "Ai 姨",
         "content": "歇了一小时又开始买了，近一周囤积的 $ETH 数量增长至 29,191.82 枚🤑\n\nErik Voorhees 过去 5 分钟再次买入 1915.28 枚 ETH，价值 417 万美元；新建仓 ETH 总价值 6165 万美元，平均成本 $2,112.19，目前分散在 22 个地址中存放\n\n建仓地址 0x3e68AAA486D5Aa73fA1370900414Fb671C1Ef2f7",
-        "link": "https://x.com/ai_9684xtpa/status/2033380500858146898"
+        "link": "https://x.com/ai_9684xtpa/status/2033380500858146898",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDgEsvhbYAA5WR9.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -1129,6 +1166,12 @@
       "contentHtml": "歇了一小时又开始买了，近一周囤积的 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 数量增长至 29,191.82 枚🤑\n\nErik Voorhees 过去 5 分钟再次买入 1915.28 枚 ETH，价值 417 万美元；新建仓 ETH 总价值 6165 万美元，平均成本 $2,112.19，目前分散在 22 个地址中存放\n\n建仓地址 0x3e68AAA486D5Aa73fA1370900414Fb671C1Ef2f7",
       "publishedAt": "2026-03-16T03:11:00.000Z",
       "link": "https://x.com/ai_9684xtpa/status/2033380500858146898",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDgEsvhbYAA5WR9.jpg"
+        }
+      ],
       "quote": {
         "username": "ai_9684xtpa",
         "displayName": "Ai 姨",
@@ -2400,8 +2443,8 @@
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
       "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "成本低至 $0.3283 的 $LINK 巨鲸沉睡一年后疑似再次抛售，回报率 2635%！🫣\n\n5 小时前他将 20 万枚 LINK 充值进了 #Kraken，价值 180 万美元，充值价格 $8.98；而他曾在 2018.03 - 2019.06 期间以 $0.3283 低价建仓，本次若卖出将获利 173 万美元\n\n本次充值后他的 LINK",
-      "contentHtml": "成本低至 $0.3283 的 <a href=\"/search?f=tweets&q=%23LINK\">$LINK</a> 巨鲸沉睡一年后疑似再次抛售，回报率 2635%！🫣\n\n5 小时前他将 20 万枚 LINK 充值进了 <a href=\"/search?f=tweets&q=%23Kraken\">#Kraken</a>，价值 180 万美元，充值价格 $8.98；而他曾在 2018.03 - 2019.06 期间以 $0.3283 低价建仓，本次若卖出将获利 173 万美元\n\n本次充值后他的 LINK",
+      "content": "成本低至 $0.3283 的 $LINK 巨鲸沉睡一年后疑似再次抛售，回报率 2635%！🫣\n\n5 小时前他将 20 万枚 LINK 充值进了 #Kraken，价值 180 万美元，充值价格 $8.98；而他曾在 2018.03 - 2019.06 期间以 $0.3283 低价建仓，本次若卖出将获利 173 万美元\n\n本次充值后他的 LINK 已疑似清仓，钱包地址：0xaF967df9d4a7b336A56f233505C5E38e18f85a44",
+      "contentHtml": "成本低至 $0.3283 的 <a href=\"/search?f=tweets&q=%23LINK\">$LINK</a> 巨鲸沉睡一年后疑似再次抛售，回报率 2635%！🫣\n\n5 小时前他将 20 万枚 LINK 充值进了 <a href=\"/search?f=tweets&q=%23Kraken\">#Kraken</a>，价值 180 万美元，充值价格 $8.98；而他曾在 2018.03 - 2019.06 期间以 $0.3283 低价建仓，本次若卖出将获利 173 万美元\n\n本次充值后他的 LINK 已疑似清仓，钱包地址：0xaF967df9d4a7b336A56f233505C5E38e18f85a44",
       "publishedAt": "2026-03-14T13:51:00.000Z",
       "link": "https://x.com/ai_9684xtpa/status/2032816848946053350",
       "media": [
@@ -4105,10 +4148,6 @@
       "contentHtml": "作为一个曾经的媒体从业者，一度为媒体从业者是“无冕之王”而骄傲，但什么时候起，出版自由变成了诋毁自由？自己是个锤子，看谁都是钉子。\n这是关于诋毁和虚假指控的第三次胜诉，所有人都说劝我们说和媒体打官司胜算不多，但总得有人做点什么来改变这个陈旧腐烂的新闻业。\n是否有的记者只要拿着“新闻自由”，就可以用虚假故事做勒索币安的帮凶，用耸人听闻的模糊字眼来获取流量？如果这样我以曾经是媒体人为耻，也很愿意继续去打一个个胜算不大的官司。",
       "publishedAt": "2026-03-13T09:13:00.000Z",
       "link": "https://x.com/heyibinance/status/2032384444816867390",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -7183,25 +7222,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDDMFc0aMAUzkkh.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031340940573684125",
-      "username": "FrontierLab_ZH",
-      "displayName": "Frontier Lab 中文",
-      "avatar": "https://nitter.net/pic/profile_images%2F1777659632871424000%2FhZFVT5tb_bigger.jpg",
-      "content": "x.com/i/article/203096902716…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2030969027162673152\">x.com/i/article/203096902716…</a>",
-      "publishedAt": "2026-03-10T12:06:00.000Z",
-      "link": "https://x.com/FrontierLab_ZH/status/2031340940573684125",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
