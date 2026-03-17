@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T23:01:12.815Z",
+  "lastUpdated": "2026-03-17T23:30:46.649Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -88,10 +88,10 @@
     }
   ],
   "stats": {
-    "total": 500,
-    "newFetched": 531,
-    "successUsers": 26,
-    "failedUsers": 1
+    "total": 484,
+    "newFetched": 0,
+    "successUsers": 0,
+    "failedUsers": 27
   },
   "tweets": [
     {
@@ -639,31 +639,6 @@
       }
     },
     {
-      "id": "2033820809291026440",
-      "username": "WizardTraderX",
-      "displayName": "巫师 · Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1575642289577271300%2F1sj7-YiZ_bigger.jpg",
-      "content": "达里奥有个套路：（现在他文章我一般不看，看了想吐）\n\n把所有历史事件塞进同一套模板，债务周期、大国冲突、货币贬值，转来转去永远是那几个齿轮咬合。\n\n他说这是洞见，但在我看来就是瞎掰。他不论是文章还是写的书就像一个函数——输入任何现实，输出同一个结论：系统性危机即将到来。\n\n先不讲他说的对不对，而在于一个框架如果对所有情况都适用，它对任何具体情况就都没有预测力。\n\n更值得警惕的是他对自己角色的定位。对历史的痴迷背后是一种先知冲动——我看见了别人看不见的规律，我站在历史的制高点上，我来告诉你们文明的走向。印钞导致崩溃，泡沫导致萧条，民粹导致战争，结论永远指向灾难，因为灾难才配得上先知的体量。\n\n一旦独立判断被先知叙事替代，Dalio就不再只是一个分析师。他成了他自己框架里最危险的那个变量。",
-      "contentHtml": "达里奥有个套路：（现在他文章我一般不看，看了想吐）\n\n把所有历史事件塞进同一套模板，债务周期、大国冲突、货币贬值，转来转去永远是那几个齿轮咬合。\n\n他说这是洞见，但在我看来就是瞎掰。他不论是文章还是写的书就像一个函数——输入任何现实，输出同一个结论：系统性危机即将到来。\n\n先不讲他说的对不对，而在于一个框架如果对所有情况都适用，它对任何具体情况就都没有预测力。\n\n更值得警惕的是他对自己角色的定位。对历史的痴迷背后是一种先知冲动——我看见了别人看不见的规律，我站在历史的制高点上，我来告诉你们文明的走向。印钞导致崩溃，泡沫导致萧条，民粹导致战争，结论永远指向灾难，因为灾难才配得上先知的体量。\n\n一旦独立判断被先知叙事替代，Dalio就不再只是一个分析师。他成了他自己框架里最危险的那个变量。",
-      "publishedAt": "2026-03-17T08:20:00.000Z",
-      "link": "https://x.com/WizardTraderX/status/2033820809291026440",
-      "retweet": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
-      },
-      "quote": {
-        "username": "RayDalio",
-        "displayName": "Ray Dalio",
-        "content": "x.com/i/article/203356547427…",
-        "link": "https://x.com/RayDalio/status/2033567224120692861"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2033801527522197799",
       "username": "BensonTWN",
       "displayName": "Benson Sun",
@@ -1198,25 +1173,6 @@
       }
     },
     {
-      "id": "2033699853889319194",
-      "username": "Citrini7",
-      "displayName": "Citrini",
-      "avatar": "https://nitter.net/pic/profile_images%2F1875761503686582272%2FVhlaZoEp_bigger.jpg",
-      "content": "If sentiment flips positive here it seems like crypto has the most torque",
-      "contentHtml": "If sentiment flips positive here it seems like crypto has the most torque",
-      "publishedAt": "2026-03-17T00:20:00.000Z",
-      "link": "https://x.com/Citrini7/status/2033699853889319194",
-      "retweet": {
-        "username": "JoshuaDeuk",
-        "displayName": "Joshua | MOZAIK 🇰🇷"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2033679789010391402",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -1225,41 +1181,6 @@
       "contentHtml": "没有牛回",
       "publishedAt": "2026-03-16T23:00:00.000Z",
       "link": "https://x.com/hazenlee/status/2033679789010391402",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033671849096433758",
-      "username": "m1ssuo",
-      "displayName": "Vincent Yang",
-      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
-      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
-      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
-      "publishedAt": "2026-03-16T22:28:00.000Z",
-      "link": "https://x.com/m1ssuo/status/2033671849096433758",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "quote": {
-        "username": "landiantech",
-        "displayName": "蓝点网",
-        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
-        "link": "https://x.com/landiantech/status/2032275955432243524",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -1429,25 +1350,6 @@
       "contentHtml": "The ability of being \"AI fluent\" is massive cognitive gap for the vast majority of white-collar workers... spent a long time explaining to a colleague why we should wrap a CLI rather than letting Claw in session write code, but for someone with no coding/engineering background, it's simply incomprehensible, impossible to \"coach\" at all. However, having coding skills without the ability to break down business logic isn't enough either, so being truly AI fluent really showcases a person's comprehensive future proof capabilities",
       "publishedAt": "2026-03-16T17:24:00.000Z",
       "link": "https://x.com/DoveyWan/status/2033595149037801700",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033572958036173164",
-      "username": "WhitePine009",
-      "displayName": "WhitePine",
-      "avatar": "https://nitter.net/pic/profile_images%2F2032857296045248512%2FbFAwnpx0_bigger.jpg",
-      "content": "x.com/i/article/203211497446…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2032114974462480384\">x.com/i/article/203211497446…</a>",
-      "publishedAt": "2026-03-16T15:55:00.000Z",
-      "link": "https://x.com/WhitePine009/status/2033572958036173164",
-      "retweet": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2705,25 +2607,6 @@
       }
     },
     {
-      "id": "2033280792324104379",
-      "username": "usakes_zhang",
-      "displayName": "usakes",
-      "avatar": "https://nitter.net/pic/profile_images%2F1941306528398704644%2FvLx14LTv_bigger.jpg",
-      "content": "投资情绪切勿被股价牵着鼻子走\n\n如果对公司的执行力没信心就清仓不看\n\n一个公司进展是否顺利，普通投资人如果能猜出来那就全都大富翁了\n\n你问我去年为什么敢168买谷歌75买circle，29买intel和lmnd，持续加仓tsla？\n\n那些在股价低迷时质疑声越大的，现在他们就有多后悔🙂",
-      "contentHtml": "投资情绪切勿被股价牵着鼻子走\n\n如果对公司的执行力没信心就清仓不看\n\n一个公司进展是否顺利，普通投资人如果能猜出来那就全都大富翁了\n\n你问我去年为什么敢168买谷歌75买circle，29买intel和lmnd，持续加仓tsla？\n\n那些在股价低迷时质疑声越大的，现在他们就有多后悔🙂",
-      "publishedAt": "2026-03-15T20:34:00.000Z",
-      "link": "https://x.com/usakes_zhang/status/2033280792324104379",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2033254024867360828",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -2898,25 +2781,6 @@
       "contentHtml": "别跌了😓",
       "publishedAt": "2026-03-15T14:38:00.000Z",
       "link": "https://x.com/Bitfatty/status/2033191077256269897",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033182792029294736",
-      "username": "hklst4r",
-      "displayName": "Weilin (William) Li",
-      "avatar": "https://nitter.net/pic/profile_images%2F1694723443516936192%2FP4urhIUm_bigger.jpg",
-      "content": "x.com/i/article/203317473594…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2033174735945609216\">x.com/i/article/203317473594…</a>",
-      "publishedAt": "2026-03-15T14:05:00.000Z",
-      "link": "https://x.com/hklst4r/status/2033182792029294736",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -3622,25 +3486,6 @@
       }
     },
     {
-      "id": "2032853995790692793",
-      "username": "getjonwithit",
-      "displayName": "Jonathan Gorard",
-      "avatar": "https://nitter.net/pic/profile_images%2F1330192676222865414%2FmhhuGgKB_bigger.jpg",
-      "content": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
-      "contentHtml": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
-      "publishedAt": "2026-03-14T16:18:00.000Z",
-      "link": "https://x.com/getjonwithit/status/2032853995790692793",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032846785685725251",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -4060,31 +3905,6 @@
       }
     },
     {
-      "id": "2032693451666632916",
-      "username": "beffjezos",
-      "displayName": "Beff (e/acc)",
-      "avatar": "https://nitter.net/pic/profile_images%2F2005482858975023104%2Fs9wmB9qT_bigger.jpg",
-      "content": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
-      "contentHtml": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
-      "publishedAt": "2026-03-14T05:40:00.000Z",
-      "link": "https://x.com/beffjezos/status/2032693451666632916",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "joshrauh",
-        "displayName": "Joshua Rauh",
-        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
-        "link": "https://x.com/joshrauh/status/2032511222877401221"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032685062177935363",
       "username": "market_beggar",
       "displayName": "貝格先生🐢",
@@ -4149,31 +3969,6 @@
       "contentHtml": "META可能要裁员20%！！！\n市场预计26年运营花费1136亿，20%就是227亿！\n因为前期的资本开支，我说过META其实是所有大科技里最浪费的，因为GPU都用在了科研上，没出成果之前都是0回报！现在裁员可以省227亿，能把利润率拉高到44%，25年是41.4%，去掉裁员的遣散费等等，今年也许还能保住40%（现在市场预期是34.6%）\n市场担心大科技自由现金流没了？一个比较残忍的事实可能是拿OPEX（运营花费）换CAPEX（资本开支）。对于传统企业来说，接下去将会看到他们在软件上的支出只会更多不会更少，拿OPEX换软件支出来增效。",
       "publishedAt": "2026-03-14T04:52:00.000Z",
       "link": "https://x.com/TJ_Research/status/2032681318476059018",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032671617155731876",
-      "username": "moseskagan",
-      "displayName": "Moses Kagan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1784227025940860929%2Fa6t7PV2r_bigger.jpg",
-      "content": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
-      "contentHtml": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
-      "publishedAt": "2026-03-14T04:14:00.000Z",
-      "link": "https://x.com/moseskagan/status/2032671617155731876",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "joshrauh",
-        "displayName": "Joshua Rauh",
-        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
-        "link": "https://x.com/joshrauh/status/2032511222877401221"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5189,25 +4984,6 @@
       }
     },
     {
-      "id": "2032448290638504216",
-      "username": "rauchg",
-      "displayName": "Guillermo Rauch",
-      "avatar": "https://nitter.net/pic/profile_images%2F1783856060249595904%2F8TfcCN0r_bigger.jpg",
-      "content": "Obsession is the mother of invention",
-      "contentHtml": "Obsession is the mother of invention",
-      "publishedAt": "2026-03-13T13:26:00.000Z",
-      "link": "https://x.com/rauchg/status/2032448290638504216",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032446684752748827",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -5357,25 +5133,6 @@
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "piped.video/live/rsXj54tDi90… nitter.net/i/broadcasts/1mGPaLdQZ…",
         "link": "https://x.com/Bitfatty/status/2032344512652263559"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032384444816867390",
-      "username": "heyibinance",
-      "displayName": "Yi He",
-      "avatar": "https://nitter.net/pic/profile_images%2F1974520590410170369%2Fq2Q0S0fa_bigger.jpg",
-      "content": "作为一个曾经的媒体从业者，一度为媒体从业者是“无冕之王”而骄傲，但什么时候起，出版自由变成了诋毁自由？自己是个锤子，看谁都是钉子。\n这是关于诋毁和虚假指控的第三次胜诉，所有人都说劝我们说和媒体打官司胜算不多，但总得有人做点什么来改变这个陈旧腐烂的新闻业。\n是否有的记者只要拿着“新闻自由”，就可以用虚假故事做勒索币安的帮凶，用耸人听闻的模糊字眼来获取流量？如果这样我以曾经是媒体人为耻，也很愿意继续去打一个个胜算不大的官司。",
-      "contentHtml": "作为一个曾经的媒体从业者，一度为媒体从业者是“无冕之王”而骄傲，但什么时候起，出版自由变成了诋毁自由？自己是个锤子，看谁都是钉子。\n这是关于诋毁和虚假指控的第三次胜诉，所有人都说劝我们说和媒体打官司胜算不多，但总得有人做点什么来改变这个陈旧腐烂的新闻业。\n是否有的记者只要拿着“新闻自由”，就可以用虚假故事做勒索币安的帮凶，用耸人听闻的模糊字眼来获取流量？如果这样我以曾经是媒体人为耻，也很愿意继续去打一个个胜算不大的官司。",
-      "publishedAt": "2026-03-13T09:13:00.000Z",
-      "link": "https://x.com/heyibinance/status/2032384444816867390",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
       },
       "stats": {
         "replies": 0,
@@ -6870,37 +6627,6 @@
       }
     },
     {
-      "id": "2031956026308678102",
-      "username": "mattwridley",
-      "displayName": "Matt Ridley",
-      "avatar": "https://nitter.net/pic/profile_images%2F1230960194194149380%2FSw7D18gf_bigger.jpg",
-      "content": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
-      "contentHtml": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
-      "publishedAt": "2026-03-12T04:50:00.000Z",
-      "link": "https://x.com/mattwridley/status/2031956026308678102",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Rebecca21951651",
-        "displayName": "Rebecc@ ███████",
-        "content": "So the theory is that there was a virus circulating in bats & then it somehow got an FCS optimally suited to infect humans & it was so perfected to launch a pandemic that the spike initially did not evolve at all?",
-        "link": "https://x.com/Rebecca21951651/status/2031868886488920103",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDKl-Y5aoAAUlSe.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031954767539552324",
       "username": "CycleStudies",
       "displayName": "百萬Eric | Day Trader",
@@ -7077,31 +6803,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHDGErFqaMAEOAy1.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031883482557780365",
-      "username": "cremieuxrecueil",
-      "displayName": "Crémieux",
-      "avatar": "https://nitter.net/pic/profile_images%2F1637507712983375875%2FEQHiqVq8_bigger.jpg",
-      "content": "So the proposed California wealth tax is an effort by a corrupt healthcare union to blackmail Gavin Newsom into giving them a bunch of free stuff.\n\nAnd they don't really care if it passes. They just want free stuff.\n\nCool. Democracy.",
-      "contentHtml": "So the proposed California wealth tax is an effort by a corrupt healthcare union to blackmail Gavin Newsom into giving them a bunch of free stuff.\n\nAnd they don't really care if it passes. They just want free stuff.\n\nCool. Democracy.",
-      "publishedAt": "2026-03-12T00:02:00.000Z",
-      "link": "https://x.com/cremieuxrecueil/status/2031883482557780365",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDKzDyPbAAAP9UF.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -8433,25 +8134,6 @@
       }
     },
     {
-      "id": "2031340940573684125",
-      "username": "FrontierLab_ZH",
-      "displayName": "Frontier Lab 中文",
-      "avatar": "https://nitter.net/pic/profile_images%2F1777659632871424000%2FhZFVT5tb_bigger.jpg",
-      "content": "x.com/i/article/203096902716…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2030969027162673152\">x.com/i/article/203096902716…</a>",
-      "publishedAt": "2026-03-10T12:06:00.000Z",
-      "link": "https://x.com/FrontierLab_ZH/status/2031340940573684125",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031326610276889087",
       "username": "OwenJin12",
       "displayName": "Owen.btc 🟧",
@@ -9088,39 +8770,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDBDfjvbUAAV8NQ.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031196547812306984",
-      "username": "Hzzzz666",
-      "displayName": "Hzzzz",
-      "avatar": "https://nitter.net/pic/profile_images%2F1959499539607617536%2F9ZWsHyhY_bigger.jpg",
-      "content": "我在 @Bybit_Official 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n@Bybit_Official @Bybit_ZH @Alpha_Bybit @linabybit @benbybit",
-      "contentHtml": "我在 <a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n<a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> <a href=\"/Bybit_ZH\" title=\"Bybit 华语\">@Bybit_ZH</a> <a href=\"/Alpha_Bybit\" title=\"Bybit Alpha\">@Alpha_Bybit</a> <a href=\"/linabybit\" title=\"Lina🦊Bybit\">@linabybit</a> <a href=\"/benbybit\" title=\"Ben Zhou\">@benbybit</a>",
-      "publishedAt": "2026-03-10T02:32:00.000Z",
-      "link": "https://x.com/Hzzzz666/status/2031196547812306984",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUXaMAQRMzk.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUJaMAIHZqW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfULaMAYYPy9.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "daidaibtc",
-        "displayName": "带带带比特"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10186,25 +9835,6 @@
       "contentHtml": "RT <a href=\"/sxzz\" title=\"老沙\">@sxzz</a>: <a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
       "publishedAt": "2026-03-09T07:59:00.000Z",
       "link": "https://x.com/taresky/status/2030916468679065804",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030911858652418167",
-      "username": "sxzz",
-      "displayName": "老沙",
-      "avatar": "https://nitter.net/pic/profile_images%2F1869962277123960834%2FwYYRsJ5c_bigger.jpg",
-      "content": "x.com/i/article/203090674803…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
-      "publishedAt": "2026-03-09T07:41:00.000Z",
-      "link": "https://x.com/sxzz/status/2030911858652418167",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
