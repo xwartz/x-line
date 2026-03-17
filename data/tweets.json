@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T01:11:57.904Z",
+  "lastUpdated": "2026-03-17T01:56:10.140Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,152 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 508,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 490,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2033722975829299704",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
+      "content": "「遲來的藍線神威」：2022 年 6 月的走勢正在被復刻❓\n\n承接下方引文，今天再來和各位分享「偏離度調整的 STH-RP 模型」。\n\nBTC 下跌至 60K 至今，已有 38 日的時間，\n隨著震盪結構的逐步定型，價格也正在釋出更多訊號。\n本文，我將特別比較「2022 年 6 月」和現在的走勢，\n並分享我自己的看法👇：\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，簡單複習一下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：nitter.net/market_beggar/status/1…\n📖 「藍線的神威」詳細歷史覆盤：nitter.net/market_beggar/status/2…\n\n//\n\n誠如先前的內容所分享，由於時間的逐步推移，\n如果要以「比較」的方式來分析現在的市況，\n我們基本已可以排除「摸到藍線後 V 反」的狀況。\n\n就目前的結構而言，我認為 BTC 和 2022 年 6 月的走勢愈趨相似，\n如附圖所示，當時 BTC 在暴跌 + 觸碰藍線後的表現如下：\n➡️ 首次觸碰藍線至反彈高點：63 日\n➡️ 最大反彈幅度：43%\n\n而目前 BTC 自首次觸碰藍線以來，也已過了 41 日，\n目前的最大反彈幅度約為 24%。\n\n值得注意的是：\n在我昨日發布的技術面劇本中（nitter.net/market_beggar/status/2…），\n劇本 2 的預期是反彈至約 81K，以最低點 60K 來算，\n幅度約是 35%，仍位於歷史上觸碰藍線後的合理反彈幅度區域。\n\n除此之外，2022 / 06 / 18 ~ 2022 / 08 / 15 的走勢，\n和現在相比也存在細思極恐的相似度：\n➡️ 橫向震盪，但在下方留下大量 equal lows（liquidity）\n➡️ 反彈高點是由 Stop Hunt 的形式出現\n➡️ 最終再次下跌，將下方的 liquidity 清掃完畢，完成最後一哆嗦\n\n就目前的走勢而言，雖然目前沒有針對 74K 的 Stop Hunt 跡象，\n但和當時相同的是「下方被留下大量的 liquidity」，\n如果 liquidity 引力再次如期發功，那「最後一哆嗦」依然值得期待。\n\n💬 相關的詳細概念，可參考我昨日發布的技術面分析帖\n\n最後，老話一句：市場是走出來的，不是猜出來的。\n我們沒必要去預設立場、猜測最終到底會跑出劇本 1 or 2；\n取而代之，我們只需提前針對不同的情況設計應對策略，\n如此一來我們便可在劇本發生的當下，扮演單純的「執行者」。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
+      "contentHtml": "「遲來的藍線神威」：2022 年 6 月的走勢正在被復刻❓\n\n承接下方引文，今天再來和各位分享「偏離度調整的 STH-RP 模型」。\n\nBTC 下跌至 60K 至今，已有 38 日的時間，\n隨著震盪結構的逐步定型，價格也正在釋出更多訊號。\n本文，我將特別比較「2022 年 6 月」和現在的走勢，\n並分享我自己的看法👇：\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，簡單複習一下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：<a href=\"https://nitter.net/market_beggar/status/1902195178993279264\">nitter.net/market_beggar/status/1…</a>\n📖 「藍線的神威」詳細歷史覆盤：<a href=\"https://nitter.net/market_beggar/status/2018501752103047340\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n誠如先前的內容所分享，由於時間的逐步推移，\n如果要以「比較」的方式來分析現在的市況，\n我們基本已可以排除「摸到藍線後 V 反」的狀況。\n\n就目前的結構而言，我認為 BTC 和 2022 年 6 月的走勢愈趨相似，\n如附圖所示，當時 BTC 在暴跌 + 觸碰藍線後的表現如下：\n➡️ 首次觸碰藍線至反彈高點：63 日\n➡️ 最大反彈幅度：43%\n\n而目前 BTC 自首次觸碰藍線以來，也已過了 41 日，\n目前的最大反彈幅度約為 24%。\n\n值得注意的是：\n在我昨日發布的技術面劇本中（<a href=\"https://nitter.net/market_beggar/status/2033359397079101623\">nitter.net/market_beggar/status/2…</a>），\n劇本 2 的預期是反彈至約 81K，以最低點 60K 來算，\n幅度約是 35%，仍位於歷史上觸碰藍線後的合理反彈幅度區域。\n\n除此之外，2022 / 06 / 18 ~ 2022 / 08 / 15 的走勢，\n和現在相比也存在細思極恐的相似度：\n➡️ 橫向震盪，但在下方留下大量 equal lows（liquidity）\n➡️ 反彈高點是由 Stop Hunt 的形式出現\n➡️ 最終再次下跌，將下方的 liquidity 清掃完畢，完成最後一哆嗦\n\n就目前的走勢而言，雖然目前沒有針對 74K 的 Stop Hunt 跡象，\n但和當時相同的是「下方被留下大量的 liquidity」，\n如果 liquidity 引力再次如期發功，那「最後一哆嗦」依然值得期待。\n\n💬 相關的詳細概念，可參考我昨日發布的技術面分析帖\n\n最後，老話一句：市場是走出來的，不是猜出來的。\n我們沒必要去預設立場、猜測最終到底會跑出劇本 1 or 2；\n取而代之，我們只需提前針對不同的情況設計應對策略，\n如此一來我們便可在劇本發生的當下，扮演單純的「執行者」。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
+      "publishedAt": "2026-03-17T01:51:00.000Z",
+      "link": "https://x.com/market_beggar/status/2033722975829299704",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDk8Q6ibEAIZWxr.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "「偏離度調整的 STH-RP 模型」最新數據 & 築底時間覆盤🗃\n\n有段時間沒和各位更新「藍線」的最新狀況了，\n今天再來和各位簡單報告一下此模型的最新數據，\n順便和各位分享「以往價格摸到藍線後的築底時間」覆盤。\n\n如果你還不知道何謂「藍線」，可以先參考下方引文，\n本文也會簡單幫各位重溫一次👇：\n\n附圖的指標是「偏離度調整的 STH-RP」，簡單複習一下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：nitter.net/market_beggar/status/1…\n\n//\n\n📊 目前藍線的價格約 = 64,960\n\n如附圖所示，我標出了 2018 年以來，\n「價格首次摸到藍線」到「階段性最低價出現」的時長：\n➡️ 2019 年：22 天\n➡️ 2020 年：V 反上漲（非典型底部）\n➡️ 2021 年：43 天\n➡️ 2022 年 1 月：V 反上漲（但最終走成下跌中繼）\n➡️ 2022 年 6 月：5 天，但圍繞藍線橫向震盪約 1 個月\n\n而如今，距離 BTC 此次下跌首次碰到藍線（2/05）至今，\n已過去了 20 日，排除 V 反的情況，目前依然在正常的震盪時間範圍中；\n並且，現在的 BTC 價格幾乎是黏著藍線走，說明藍線的支撐至今仍然有效✅\n\n最後再再再強調一次‼️：鏈上分析的「支撐」和傳統技術分析的「支撐」，\n兩者的概念是不太相同的，鏈上分析的支撐是可以被短暫跌破的，\n之所以被稱為「支撐」，其原因在於這些價位往往能止住跌勢，\n例如從附圖中我們可以發現：價格在跌到藍線之後通常能止跌，\n不太可能在跌破後又出現一波大瀑布。\n\n同理，我近期多次分享的「深熊估值抄底模型」概念也是一樣的，\n有興趣的朋友可以參考以下鏈接🔗：\n📖黃金坑追蹤系列：「四大深熊抄底模型」最新數據更新\nnitter.net/market_beggar/status/2…\n📖 黃金坑追蹤系列（二）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n不得不說，目前行情依然位於一個極其枯燥的震盪階段，\n市場也的確沒有出現太多值得注意的訊號，對於中長期的交易者而言，\n我們能做的就是耐心等待，保護本金免於在上沖下洗的走勢中被磨損。\n\n📖 極端巨量的出現：新一輪震盪博弈的起點\nnitter.net/market_beggar/status/2…\n\n最後，下方引文中有關於此模型的詳細歷史覆盤，如果實在枯燥難耐，\n也不妨花些時間多了解一下此模型的概念，學習的同時亦能充值信仰🔋\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n熊市中後期階段：「已實現利潤 & 虧損」比率正式低於 1\nnitter.net/market_beggar/status/2…\n\n「一步之遙的黃金坑」：PSIP 週期性抄底訊號近在咫尺\nnitter.net/market_beggar/status/2…\n\nPSIP 抄底訊號「番外篇」：評估底部的另一視角\nnitter.net/market_beggar/status/2…",
+        "link": "https://x.com/market_beggar/status/2026474493749989766",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHB97ztua0AAKrty.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033720828139819451",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "现在的劳动力市场不是22年，差太多了。油价上涨+食品价格上涨，大幅压制非必需品消费，将是通缩的力量而非通胀，川普让鲍威尔降息方向是正确的，或者等我们看到今年劳动力市场变得更糟时再被迫降。别动不动就滞涨。",
+      "contentHtml": "现在的劳动力市场不是22年，差太多了。油价上涨+食品价格上涨，大幅压制非必需品消费，将是通缩的力量而非通胀，川普让鲍威尔降息方向是正确的，或者等我们看到今年劳动力市场变得更糟时再被迫降。别动不动就滞涨。",
+      "publishedAt": "2026-03-17T01:43:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2033720828139819451",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033720416423031186",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "“刷新”的含金量\n\n#牛回 第十三天",
+      "contentHtml": "“刷新”的含金量\n\n<a href=\"/search?f=tweets&q=%23牛回\">#牛回</a> 第十三天",
+      "publishedAt": "2026-03-17T01:41:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2033720416423031186",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "从今天起对币圈刷新\n#牛回  第一天\n长风破浪会有时，直挂云帆济沧海\n鼻涕西 冲啊👻👻👻",
+        "link": "https://x.com/Bitfatty/status/2029076345263906978",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCi6LYxawAI2i8q.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033718952304754739",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "累计做多 12 万枚 $ETH 的多军减仓 4 万枚，获利 1450 万美元！🤩\n\n4 小时前他在 $2361 的点位止盈了部分 ETH 多单，目前两个地址仍然持有 2.41 亿美元的持仓\n\n▶︎ ETH 多单：持仓 8 万枚，价值 1.88 亿美元，浮盈 2,917 万美元\n▶︎ $BTC 多单：持仓 700 枚，价值 5184 万美元，浮盈 518.4 万美元\n\n传送门\nhyperdash.com/address/0xa5b0…\nhyperdash.com/address/0x6c85…",
+      "contentHtml": "累计做多 12 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的多军减仓 4 万枚，获利 1450 万美元！🤩\n\n4 小时前他在 $2361 的点位止盈了部分 ETH 多单，目前两个地址仍然持有 2.41 亿美元的持仓\n\n▶︎ ETH 多单：持仓 8 万枚，价值 1.88 亿美元，浮盈 2,917 万美元\n▶︎ <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 多单：持仓 700 枚，价值 5184 万美元，浮盈 518.4 万美元\n\n传送门\n<a href=\"https://hyperdash.com/address/0xa5b0edf6b55128e0ddae8e51ac538c3188401d41\">hyperdash.com/address/0xa5b0…</a>\n<a href=\"https://hyperdash.com/address/0x6c8512516ce5669d35113a11ca8b8de322fd84f6\">hyperdash.com/address/0x6c85…</a>",
+      "publishedAt": "2026-03-17T01:35:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2033718952304754739",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDk4kNRbEAA2a_g.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "ETH 短时突破 $2200📈 累计做多 12 万枚 $ETH 的多军已浮盈 2,596.8 万美元！\n\n▶︎ ETH 多单：持仓 12 万枚，价值 2.62 亿美元，浮盈 2,257.6 万美元\n▶︎ BTC 多单：持仓 700 枚，价值 5128 万美元，浮盈 339.2 万美元\n\n传送门\nhypurrscan.io/address/0xa5b0… hypurrscan.io/address/0x6C85…",
+        "link": "https://x.com/ai_9684xtpa/status/2032450793127985192",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDS3NNGasAA5VJv.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033717455340646527",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "“物极必反” 这一自然规律放到金融市场也一样有效。\n\n在3月2日的推文中，我们看到”投资者信心指数“出现了一个并不常见的“极端负值”。\n\n在历史上但凡能市场情绪能低落到如此程度的，此后要不迎来一段反弹行情，要不实际上已距离熊底不远了。\n\n虽然，时至今日我们仍然不知道当前是否就属于后者，但至少”反弹“是看到了。\n\n与此同时，信心指数正随时间推移不断的向零轴靠近。只要站上零轴，即表示熊市结束。\n\n我们可以做个不那么严谨的测算：如果此后在没有任何意外导致中断的前提下，按近10天的平均速度，回到零轴大约还需要 —— 47天！\n\n我知道，这样的计算可能并不具备任何实际意义。因为往往都是“不出意外的话意外就要出现了......”\n\n但可以给我们自己一点信心，\n比特币的世界，从来没有永夜！\n当第一缕阳光撕开黑暗时，迷雾终将散尽。",
+      "contentHtml": "“物极必反” 这一自然规律放到金融市场也一样有效。\n\n在3月2日的推文中，我们看到”投资者信心指数“出现了一个并不常见的“极端负值”。\n\n在历史上但凡能市场情绪能低落到如此程度的，此后要不迎来一段反弹行情，要不实际上已距离熊底不远了。\n\n虽然，时至今日我们仍然不知道当前是否就属于后者，但至少”反弹“是看到了。\n\n与此同时，信心指数正随时间推移不断的向零轴靠近。只要站上零轴，即表示熊市结束。\n\n我们可以做个不那么严谨的测算：如果此后在没有任何意外导致中断的前提下，按近10天的平均速度，回到零轴大约还需要 —— 47天！\n\n我知道，这样的计算可能并不具备任何实际意义。因为往往都是“不出意外的话意外就要出现了......”\n\n但可以给我们自己一点信心，\n比特币的世界，从来没有永夜！\n当第一缕阳光撕开黑暗时，迷雾终将散尽。",
+      "publishedAt": "2026-03-17T01:30:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2033717455340646527",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDisNiYaEAAUdnd.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "投资者信心指数出现“极端负值”，从2月18日至今已持续多日在-0.3以下。对该信号的解读非常简单，即当前投资者对BTC的趋势信心已近崩溃......\n\n你认为这是坏消息还是好消息？我个人觉得是喜忧参半。\n\n忧的是击溃的信心很难在短期内重塑，走出阴霾的时间大概率要以“月度”甚至“季度”为单位。\n\n喜的是从历史数据上看，但凡能信心指数低到这个程度，要不会迎来一段像样的反弹，要不在空间上距离“熊底”已越来越近了。\n\n所谓“物极必反”，也是自然规律！",
+        "link": "https://x.com/Murphychen888/status/2028448559008551410",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCZ--23a0AAh8jW.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2033700234161778784",
       "username": "TJ_Research",
@@ -1432,10 +1573,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDfxl1ObcAAJUtg.jpg"
         }
       ],
-      "retweet": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢"
-      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11188,121 +11325,6 @@
         "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
         "content": "DongBeiDoll \n说实话一直以为东北话做爱的时候很下头，性缩力拉满。\n和我媳妇儿做爱的时候丫给我讲相声儿，经常给我笑软了滑出来了艹！",
         "link": "https://x.com/hazenlee/status/2029853741940408537"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030193652488949920",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "我们怎么能用一个不好的过程来换一个好的结果呢？所以目的不纯，从一开始就错了。",
-      "contentHtml": "我们怎么能用一个不好的过程来换一个好的结果呢？所以目的不纯，从一开始就错了。",
-      "publishedAt": "2026-03-07T08:07:00.000Z",
-      "link": "https://x.com/hazenlee/status/2030193652488949920",
-      "quote": {
-        "username": "QiangWei1013",
-        "displayName": "蔓延的蔷薇",
-        "content": "哎现在怎么到处都在教女人什么抽离、祛魅、别上头、别动情、别相信。好像谁先冷漠谁高级，谁先麻木谁就赢？\n我永远恋爱脑。别管感性还是理性，时刻保持恋爱的能力，时刻相信爱，时刻沉浸其中\n都教了些什么啊。让你们对感情祛魅对男人祛魅对爱祛魅？其实你祛的那部分，正是人类的奢侈品、最高深的情怀",
-        "link": "https://x.com/QiangWei1013/status/2030181086584787258"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030192627103191177",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "昨天路上看新闻突然想到\n今天正好有空再思考一下\n微观经济学中价格 ≈ 需求 ÷ 供给\n20年疫情导致的虽然和现在都是全球供应链断裂 但原因不同 供需双方也不同\n所以造成了原油的走势不同\n20年是疫情导致停工 供应链断裂\n同时因为停工隔离等 导致人们非生存需求瞬间清零 所以原油价格瞬间向下gamma squeeze甚至负油价\n而今年是因为战争导致的供应链断裂\n但是其余非战争地区的需求没变\n供应瞬间爆减\n所以一切的价格趋势行为都反映了对市场未来的计价\n价格走势的本身就是一种市场算力的集体算力的预言",
-      "contentHtml": "昨天路上看新闻突然想到\n今天正好有空再思考一下\n微观经济学中价格 ≈ 需求 ÷ 供给\n20年疫情导致的虽然和现在都是全球供应链断裂 但原因不同 供需双方也不同\n所以造成了原油的走势不同\n20年是疫情导致停工 供应链断裂\n同时因为停工隔离等 导致人们非生存需求瞬间清零 所以原油价格瞬间向下gamma squeeze甚至负油价\n而今年是因为战争导致的供应链断裂\n但是其余非战争地区的需求没变\n供应瞬间爆减\n所以一切的价格趋势行为都反映了对市场未来的计价\n价格走势的本身就是一种市场算力的集体算力的预言",
-      "publishedAt": "2026-03-07T08:03:00.000Z",
-      "link": "https://x.com/hazenlee/status/2030192627103191177",
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "20年的流动性危机是原油负油价\n这次是原油轧空全世界的剧本吗？",
-        "link": "https://x.com/hazenlee/status/2029917101969002857",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCu21xgaUAMEsfd.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCu21xibYAEw3c_.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030181162652766580",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "中场休息，场外辅导",
-      "contentHtml": "中场休息，场外辅导",
-      "publishedAt": "2026-03-07T07:18:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2030181162652766580",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCynAKNaQAEjBTf.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "《找不到进去的地方》  😱",
-        "link": "https://x.com/Bitfatty/status/2029988532249641081"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030171013045272778",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "早期晓组织捕获九尾珍贵录像\nai目前还理解不了人类的抽象\n这种抽象无可替代",
-      "contentHtml": "早期晓组织捕获九尾珍贵录像\nai目前还理解不了人类的抽象\n这种抽象无可替代",
-      "publishedAt": "2026-03-07T06:37:00.000Z",
-      "link": "https://x.com/hazenlee/status/2030171013045272778",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030170830475563439",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "猫爹：不把儿子抱走 他能一直干 会废掉的",
-      "contentHtml": "猫爹：不把儿子抱走 他能一直干 会废掉的",
-      "publishedAt": "2026-03-07T06:36:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2030170830475563439",
-      "quote": {
-        "username": "yanglele72",
-        "displayName": "洋楽楽",
-        "content": "公猫：《你自己擦擦 我先走了》",
-        "link": "https://x.com/yanglele72/status/2030032817057562801"
       },
       "stats": {
         "replies": 0,
