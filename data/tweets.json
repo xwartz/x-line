@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T10:19:37.532Z",
+  "lastUpdated": "2026-03-17T10:48:27.817Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 530,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 467,
+    "successUsers": 23,
+    "failedUsers": 4
   },
   "tweets": [
+    {
+      "id": "2033854267002654963",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "最近在和几个网上认识十多年的朋友一起在三亚旅游，没事散散心聊聊天也挺舒服。\n\n熊市天天守着电脑，也没什么机会，纯属浪费时间。现在能撸的项目不夸张的讲不超过三个。时间成本也很重要。守财等机会吧。",
+      "contentHtml": "最近在和几个网上认识十多年的朋友一起在三亚旅游，没事散散心聊聊天也挺舒服。\n\n熊市天天守着电脑，也没什么机会，纯属浪费时间。现在能撸的项目不夸张的讲不超过三个。时间成本也很重要。守财等机会吧。",
+      "publishedAt": "2026-03-17T10:33:00.000Z",
+      "link": "https://x.com/0xleng1/status/2033854267002654963",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDmzrA6bEAAmekV.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDmzrA3aEAEyFkn.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDmzrBWbEAIjqAM.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDmzrA3bEAAbesQ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2033840364201906582",
       "username": "hazenlee",
@@ -688,41 +721,6 @@
       "contentHtml": "没有牛回",
       "publishedAt": "2026-03-16T23:00:00.000Z",
       "link": "https://x.com/hazenlee/status/2033679789010391402",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033671849096433758",
-      "username": "m1ssuo",
-      "displayName": "Vincent Yang",
-      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
-      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
-      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
-      "publishedAt": "2026-03-16T22:28:00.000Z",
-      "link": "https://x.com/m1ssuo/status/2033671849096433758",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "quote": {
-        "username": "landiantech",
-        "displayName": "蓝点网",
-        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
-        "link": "https://x.com/landiantech/status/2032275955432243524",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -8558,39 +8556,6 @@
       }
     },
     {
-      "id": "2031196547812306984",
-      "username": "Hzzzz666",
-      "displayName": "Hzzzz",
-      "avatar": "https://nitter.net/pic/profile_images%2F1959499539607617536%2F9ZWsHyhY_bigger.jpg",
-      "content": "我在 @Bybit_Official 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n@Bybit_Official @Bybit_ZH @Alpha_Bybit @linabybit @benbybit",
-      "contentHtml": "我在 <a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n<a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> <a href=\"/Bybit_ZH\" title=\"Bybit 华语\">@Bybit_ZH</a> <a href=\"/Alpha_Bybit\" title=\"Bybit Alpha\">@Alpha_Bybit</a> <a href=\"/linabybit\" title=\"Lina🦊Bybit\">@linabybit</a> <a href=\"/benbybit\" title=\"Ben Zhou\">@benbybit</a>",
-      "publishedAt": "2026-03-10T02:32:00.000Z",
-      "link": "https://x.com/Hzzzz666/status/2031196547812306984",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUXaMAQRMzk.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUJaMAIHZqW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfULaMAYYPy9.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "daidaibtc",
-        "displayName": "带带带比特"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031195110927376664",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -9649,25 +9614,6 @@
       "contentHtml": "RT <a href=\"/sxzz\" title=\"老沙\">@sxzz</a>: <a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
       "publishedAt": "2026-03-09T07:59:00.000Z",
       "link": "https://x.com/taresky/status/2030916468679065804",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030911858652418167",
-      "username": "sxzz",
-      "displayName": "老沙",
-      "avatar": "https://nitter.net/pic/profile_images%2F1869962277123960834%2FwYYRsJ5c_bigger.jpg",
-      "content": "x.com/i/article/203090674803…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
-      "publishedAt": "2026-03-09T07:41:00.000Z",
-      "link": "https://x.com/sxzz/status/2030911858652418167",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11356,6 +11302,36 @@
           }
         ]
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030301305475145920",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "某业内人士调侃\n\n某中小交易所出现“亮眼”数据——某小币种合约持仓量已超越 Binance，但这未必意味着业务真实增长。\n\n更大的可能是：该交易所的对赌做市机制已被该币种庄家盯上，将其视为可收割的对手盘，正在系统性地进行定向收割。",
+      "contentHtml": "某业内人士调侃\n\n某中小交易所出现“亮眼”数据——某小币种合约持仓量已超越 Binance，但这未必意味着业务真实增长。\n\n更大的可能是：该交易所的对赌做市机制已被该币种庄家盯上，将其视为可收割的对手盘，正在系统性地进行定向收割。",
+      "publishedAt": "2026-03-07T15:15:00.000Z",
+      "link": "https://x.com/follow_clues/status/2030301305475145920",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030292637622886491",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
+      "content": "规模高达2万亿美元的美国私人信贷市场出现了流动性冲击：\n2月19日，Blue Owl Capital (OBDC II)，停止常规赎回，采用资产出售返还资本，涉及14亿资金出售；\n3月1日，Blackstone (BCRED)，赎回请求高达37亿美元，占比nav 7.9%，超出单季度赎回限制 5%；\n3月6日，BlackRock (HLEND)，赎回请求12亿，占比nav 9.3%, 超过5%限制\n$QQQ $CRCL",
+      "contentHtml": "规模高达2万亿美元的美国私人信贷市场出现了流动性冲击：\n2月19日，Blue Owl Capital (OBDC II)，停止常规赎回，采用资产出售返还资本，涉及14亿资金出售；\n3月1日，Blackstone (BCRED)，赎回请求高达37亿美元，占比nav 7.9%，超出单季度赎回限制 5%；\n3月6日，BlackRock (HLEND)，赎回请求12亿，占比nav 9.3%, 超过5%限制\n<a href=\"/search?f=tweets&q=%23QQQ\">$QQQ</a> <a href=\"/search?f=tweets&q=%23CRCL\">$CRCL</a>",
+      "publishedAt": "2026-03-07T14:41:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2030292637622886491",
       "stats": {
         "replies": 0,
         "retweets": 0,
