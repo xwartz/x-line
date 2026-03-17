@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T21:51:17.418Z",
+  "lastUpdated": "2026-03-17T22:12:34.708Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,7 +89,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 447,
+    "newFetched": 449,
     "successUsers": 22,
     "failedUsers": 5
   },
@@ -1167,6 +1167,41 @@
       "contentHtml": "没有牛回",
       "publishedAt": "2026-03-16T23:00:00.000Z",
       "link": "https://x.com/hazenlee/status/2033679789010391402",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033671849096433758",
+      "username": "m1ssuo",
+      "displayName": "Vincent Yang",
+      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
+      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
+      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
+      "publishedAt": "2026-03-16T22:28:00.000Z",
+      "link": "https://x.com/m1ssuo/status/2033671849096433758",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "quote": {
+        "username": "landiantech",
+        "displayName": "蓝点网",
+        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
+        "link": "https://x.com/landiantech/status/2032275955432243524",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -8983,39 +9018,6 @@
       }
     },
     {
-      "id": "2031196547812306984",
-      "username": "Hzzzz666",
-      "displayName": "Hzzzz",
-      "avatar": "https://nitter.net/pic/profile_images%2F1959499539607617536%2F9ZWsHyhY_bigger.jpg",
-      "content": "我在 @Bybit_Official 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n@Bybit_Official @Bybit_ZH @Alpha_Bybit @linabybit @benbybit",
-      "contentHtml": "我在 <a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n<a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> <a href=\"/Bybit_ZH\" title=\"Bybit 华语\">@Bybit_ZH</a> <a href=\"/Alpha_Bybit\" title=\"Bybit Alpha\">@Alpha_Bybit</a> <a href=\"/linabybit\" title=\"Lina🦊Bybit\">@linabybit</a> <a href=\"/benbybit\" title=\"Ben Zhou\">@benbybit</a>",
-      "publishedAt": "2026-03-10T02:32:00.000Z",
-      "link": "https://x.com/Hzzzz666/status/2031196547812306984",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUXaMAQRMzk.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUJaMAIHZqW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfULaMAYYPy9.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "daidaibtc",
-        "displayName": "带带带比特"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031195110927376664",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -10074,6 +10076,25 @@
       "contentHtml": "RT <a href=\"/sxzz\" title=\"老沙\">@sxzz</a>: <a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
       "publishedAt": "2026-03-09T07:59:00.000Z",
       "link": "https://x.com/taresky/status/2030916468679065804",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030911858652418167",
+      "username": "sxzz",
+      "displayName": "老沙",
+      "avatar": "https://nitter.net/pic/profile_images%2F1869962277123960834%2FwYYRsJ5c_bigger.jpg",
+      "content": "x.com/i/article/203090674803…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
+      "publishedAt": "2026-03-09T07:41:00.000Z",
+      "link": "https://x.com/sxzz/status/2030911858652418167",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11259,83 +11280,62 @@
       }
     },
     {
-      "id": "2030504605227049079",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
-      "content": "🗞 貝格鏈上週報（六十七）：過山車\n\n本週的行情終於不那麼枯燥，一場流動性絞殺悄無聲息的上演，\n先是在上半週上漲約 13%，又在下半週出現畫門行情，下跌了近 10%。\n相比先前無趣至極的水平線行情，本週總算是等來了交易員熱愛的波動。\n\n按照慣例，今天的週報依然要和各位報告最新的籌碼分布狀況👇：\n\n💬 補充：\nX 的圖片顯示好像有點問題，無法調整到特定位置；\n並且歷史貼文的圖片也都突然跑到文末，請見諒。\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n本週的籌碼分布狀況其實和上週並沒有太大的差異，\n因此本週我打算來稍微和各位更新一下「目前兩大坨堆積區」的狀況。\n\n隨著價格在 60~71K 的區間內震盪了約 1 個月，\n愈來愈多的籌碼在此區域換手，截至目前為止，\n此區域一共堆積了約 246.3 萬枚 BTC，是目前第二大的巨型堆積區。\n\n而在 81K 上方，由於自 2024 年底以來的大量換手，\n目前一共有約 754.3 萬枚的籌碼被套牢在上方，\n其中又以 83~95K 最多、103~117K 次之。\n\n不過，即便上方有恐怖的巨量套牢冤魂，坦白說並不是非常需要擔心，\n其原因在於：這些籌碼即便面臨虧損，拋售的意願也非常的低。\n這種「泰山崩於前而色不改」的持倉方式，加上誇張的巨量，\n很顯然這些人並不是追漲殺跌的散戶，反而更像是新的長期投資者。\n\n我先前曾針對這項主題寫過一篇專帖分析，有興趣的朋友可以參考：\n📖「老狗不慌我不慌」：10 萬上方套牢盤最新數據追蹤\nnitter.net/market_beggar/status/2…\n\n最後，由於目前 BTC 在線型上出現了一些非常值得注意的訊號，\n我會在明天發布一篇專文，來分享我對於接下來的看法 & 操作計畫，\n有興趣的朋友可以期待一下，也可以加入公開群和大家一起交流📬\n\n以上就是今天的內容，祝各位週末愉快⛵️\n\n//\n\n📚 本週文章回顧\n\n半路殺出程咬金：因以伊戰火而扭曲的震盪區間\nnitter.net/market_beggar/status/2…\n\n新買家再次浮現：築底前夕 or 再次騙炮\nnitter.net/market_beggar/status/2…\n\n流動性引力拔河時刻：上下來回的「絞殺」勢在必行\nnitter.net/market_beggar/status/2…\n\n反彈的源動力：美方資金情緒的修復\nnitter.net/market_beggar/status/2…\n\n黃金坑追蹤系列（四）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…",
-      "contentHtml": "🗞 貝格鏈上週報（六十七）：過山車\n\n本週的行情終於不那麼枯燥，一場流動性絞殺悄無聲息的上演，\n先是在上半週上漲約 13%，又在下半週出現畫門行情，下跌了近 10%。\n相比先前無趣至極的水平線行情，本週總算是等來了交易員熱愛的波動。\n\n按照慣例，今天的週報依然要和各位報告最新的籌碼分布狀況👇：\n\n💬 補充：\nX 的圖片顯示好像有點問題，無法調整到特定位置；\n並且歷史貼文的圖片也都突然跑到文末，請見諒。\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\n<a href=\"https://nitter.net/market_beggar/status/1963776996942741931\">nitter.net/market_beggar/status/1…</a>\n\n本週的籌碼分布狀況其實和上週並沒有太大的差異，\n因此本週我打算來稍微和各位更新一下「目前兩大坨堆積區」的狀況。\n\n隨著價格在 60~71K 的區間內震盪了約 1 個月，\n愈來愈多的籌碼在此區域換手，截至目前為止，\n此區域一共堆積了約 246.3 萬枚 BTC，是目前第二大的巨型堆積區。\n\n而在 81K 上方，由於自 2024 年底以來的大量換手，\n目前一共有約 754.3 萬枚的籌碼被套牢在上方，\n其中又以 83~95K 最多、103~117K 次之。\n\n不過，即便上方有恐怖的巨量套牢冤魂，坦白說並不是非常需要擔心，\n其原因在於：這些籌碼即便面臨虧損，拋售的意願也非常的低。\n這種「泰山崩於前而色不改」的持倉方式，加上誇張的巨量，\n很顯然這些人並不是追漲殺跌的散戶，反而更像是新的長期投資者。\n\n我先前曾針對這項主題寫過一篇專帖分析，有興趣的朋友可以參考：\n📖「老狗不慌我不慌」：10 萬上方套牢盤最新數據追蹤\n<a href=\"https://nitter.net/market_beggar/status/2013428574179729645\">nitter.net/market_beggar/status/2…</a>\n\n最後，由於目前 BTC 在線型上出現了一些非常值得注意的訊號，\n我會在明天發布一篇專文，來分享我對於接下來的看法 & 操作計畫，\n有興趣的朋友可以期待一下，也可以加入公開群和大家一起交流📬\n\n以上就是今天的內容，祝各位週末愉快⛵️\n\n//\n\n📚 本週文章回顧\n\n半路殺出程咬金：因以伊戰火而扭曲的震盪區間\n<a href=\"https://nitter.net/market_beggar/status/2028287847267271041\">nitter.net/market_beggar/status/2…</a>\n\n新買家再次浮現：築底前夕 or 再次騙炮\n<a href=\"https://nitter.net/market_beggar/status/2028649877014761888\">nitter.net/market_beggar/status/2…</a>\n\n流動性引力拔河時刻：上下來回的「絞殺」勢在必行\n<a href=\"https://nitter.net/market_beggar/status/2029009955815342588\">nitter.net/market_beggar/status/2…</a>\n\n反彈的源動力：美方資金情緒的修復\n<a href=\"https://nitter.net/market_beggar/status/2029373465422381520\">nitter.net/market_beggar/status/2…</a>\n\n黃金坑追蹤系列（四）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2029735400550674538\">nitter.net/market_beggar/status/2…</a>",
-      "publishedAt": "2026-03-08T04:43:00.000Z",
-      "link": "https://x.com/market_beggar/status/2030504605227049079",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHC3NLGNaEAA8kv0.jpg"
-        }
-      ],
+      "id": "2030535446829338773",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
+      "content": "但是btc提前见顶，也会提前见底\n这里等待btc跌到5w的抄底机会，价格只是预估\n需要要看到当天交易所与链上巨量换手\n想必那个时候，全网都是利空消息遍布的现象\nbtc会在某个时刻走出利空不跌的特征\n同时也跌破了长期持有者成本\n那个时候，那个价格就是历史大底的位置\n要勇敢梭进去现货\n$BTC $MSTR",
+      "contentHtml": "但是btc提前见顶，也会提前见底\n这里等待btc跌到5w的抄底机会，价格只是预估\n需要要看到当天交易所与链上巨量换手\n想必那个时候，全网都是利空消息遍布的现象\nbtc会在某个时刻走出利空不跌的特征\n同时也跌破了长期持有者成本\n那个时候，那个价格就是历史大底的位置\n要勇敢梭进去现货\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> <a href=\"/search?f=tweets&q=%23MSTR\">$MSTR</a>",
+      "publishedAt": "2026-03-08T06:45:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2030535446829338773",
       "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "🗞 貝格鏈上週報（六十六）：硝煙瀰漫的週末\n\n就在昨天，以伊的戰火在本該寧靜的週末中突然打響，\n24 小時交易的加密市場率先給出反應，價格應聲下跌；\n但隨後卻又再次折返、開始上漲，甚至直接漲破起跌位。\n\n從大級別視角來看，BTC 依然在震盪階段，\n縱然硝煙瀰漫，週報也仍將按照慣例如期產出👇：\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n從籌碼分布的角度來看，當前的趨勢其實非常明顯：\n隨著震盪時間的拉長，愈來愈多的籌碼開始在 60~71K 區域堆積，\n例如上週提到的「67K 單一巨量堆積柱」正是如此。\n\n本週，67K 的巨量柱依然聳立，目前的堆積量約為 52.7 萬枚；\n同時在 63K 的位置也開始出現稍微明顯的單一巨量柱，\n目前的堆積量約為 37.7 萬枚。\n\n縱使打仗的消息突然攪亂了本該平靜的週末，\n但 BTC 並沒有因此走出原本的大級別震盪區間，\n換手仍在繼續，戰爭終將成為 K 線圖上的過眼雲煙，\n在大級別的趨勢面前，這些消息只能是雜訊，而不是真正的主導力量。\n\n老朋友都知道我的其中一項交易理念：「週末休息、不操作」。\n其主要原因在於「週末流動性低，很常出現騙炮的狀況❌」。\n這句話我從創立貝格先生至今，已經強調過無數次，\n包含昨天出現的以伊戰火消息，現在看來一開始的下跌似乎又是一次騙炮。\n\n最後，雖然 Crypto 市場已經提前給出了一些反應，\n但我認為最終的走勢仍須以週一的美股開盤而定；\n並且正如歷史上每一次戰爭發生的狀況，\n這些波動始終只是波動，最終並不能決定大級別的方向，\n因此如果你是中長線交易者，那其實就完全不需要在意，靜待趨勢醞釀即可。\n\n以上就是今天的內容，波動加劇，各位記得務必嚴格執行風控🫡\n\n//\n\n📚 本週文章回顧\n\n熊市中後期階段：「已實現利潤 & 虧損」比率正式低於 1\nnitter.net/market_beggar/status/2…\n\nBTC 小級別走勢分析：潛在波段交易劇本\nnitter.net/market_beggar/status/2…\n\n「偏離度調整的 STH-RP 模型」最新數據 & 築底時間覆盤\nnitter.net/market_beggar/status/2…\n\n流動性獵取如期而至：BTC 劍指區間前高\nnitter.net/market_beggar/status/2…\n\n黃金坑追蹤系列（三）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…",
-        "link": "https://x.com/market_beggar/status/2027970430896869645",
+        "username": "boundaryhq",
+        "displayName": "boundary",
+        "content": "流动性收缩的传导现象：\nbtc - 私人信贷市场/高收益债券市场- 银行股压力- 股票市场\nbtc是流动性的金丝雀，对流动性的边际变化最敏感\n私人信贷市场和高收益债市场对流动性也高度敏感\n目前btc在25年10月见顶，上一轮btc在21年11月见顶，美股在21年12月见顶\n私人信贷市场从26年2月开始，面临流动性冲击，赎回要求超出限额，需要卖资产应对\n高收益债券市场信用利差从26年2月初开始上行\n整体流动性收缩已经是事实\n对于长久期的科技股和小盘股，以及靠叙事支撑而不是现金流之称的叙事股票都要小心\n结构性机会在大宗商品及对应的股票\n$QQQ $CL",
+        "link": "https://x.com/boundaryhq/status/2030534146637091124"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030534146637091124",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
+      "content": "流动性收缩的传导现象：\nbtc - 私人信贷市场/高收益债券市场- 银行股压力- 股票市场\nbtc是流动性的金丝雀，对流动性的边际变化最敏感\n私人信贷市场和高收益债市场对流动性也高度敏感\n目前btc在25年10月见顶，上一轮btc在21年11月见顶，美股在21年12月见顶\n私人信贷市场从26年2月开始，面临流动性冲击，赎回要求超出限额，需要卖资产应对\n高收益债券市场信用利差从26年2月初开始上行\n整体流动性收缩已经是事实\n对于长久期的科技股和小盘股，以及靠叙事支撑而不是现金流之称的叙事股票都要小心\n结构性机会在大宗商品及对应的股票\n$QQQ $CL",
+      "contentHtml": "流动性收缩的传导现象：\nbtc - 私人信贷市场/高收益债券市场- 银行股压力- 股票市场\nbtc是流动性的金丝雀，对流动性的边际变化最敏感\n私人信贷市场和高收益债市场对流动性也高度敏感\n目前btc在25年10月见顶，上一轮btc在21年11月见顶，美股在21年12月见顶\n私人信贷市场从26年2月开始，面临流动性冲击，赎回要求超出限额，需要卖资产应对\n高收益债券市场信用利差从26年2月初开始上行\n整体流动性收缩已经是事实\n对于长久期的科技股和小盘股，以及靠叙事支撑而不是现金流之称的叙事股票都要小心\n结构性机会在大宗商品及对应的股票\n<a href=\"/search?f=tweets&q=%23QQQ\">$QQQ</a> <a href=\"/search?f=tweets&q=%23CL\">$CL</a>",
+      "publishedAt": "2026-03-08T06:40:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2030534146637091124",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030528474218426429",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
+      "content": "还是要注意风险，流动性都有传导机制，就像btc是流动性的金丝雀，21年 25年都是btc领先美股先跌。现在私募信贷市场流动性开始出现短缺，说明流动性的收缩已经更进一步了",
+      "contentHtml": "还是要注意风险，流动性都有传导机制，就像btc是流动性的金丝雀，21年 25年都是btc领先美股先跌。现在私募信贷市场流动性开始出现短缺，说明流动性的收缩已经更进一步了",
+      "publishedAt": "2026-03-08T06:18:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2030528474218426429",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "贝莱德私募信贷基金限制赎回，黑石私募信贷基金赎回申请创纪录，真实情况是怎么样的？周五全球最大资产管理公司贝莱德宣布限制旗下规模260亿美元的HPS企业贷款基金（HLEND）的投资者赎回，此前黑石（Blackstone）私募信贷基金遭遇创纪录的7.9%（基金份额）赎回申请，再次引发的市场对私募信贷的担忧。查了一些资料，发现跟很多人恐慌的略不一样，聊聊个人看法：\n\n1、先说贝莱德HLEND的情况\nHLEND（HPS Corporate Lending Fund）是贝莱德旗下规模约260亿美元的非交易型商业开发公司（non-traded BDC），主要投资中上市场企业的优先担保贷款（私募信贷/直接借贷）。它是贝莱德2024年收购HPS后管理的旗舰零售私募信贷产品，面向高净值/合格投资者，每月接受新申购（按NAV净值）、每月分红，但流动性通过季度回购要约提供。\n\n此次赎回正好处于26年第一季度（Q1）回购要约窗口（通常在3月底前后生效）的申请：\n1）基金投资人总申请赎回9.3%的流通股份，价值约12亿美元；这是基金自成立以来首次突破上限（上一期25年Q4仅约4.1%，赎回已全额满足）。\n2）基金董事会决定仅批准5%回购（约6.2亿美元）未满足部分不自动结转，投资者需下季度重新申请（持股不满1年可能额外扣2%提前回购费）。\n\n3）HLENd基金同期收到约8.4亿美元新申购，流动性充裕（现金/可用资金超44亿美元），继续按计划投资。\n\n这里需要注意的是，HLEND最初基金招股书里明确规定了，基金赎回是每季度执行，每次标准赎回上限就是5%（流通股份总数的5%），这也是在SEC备案过的。\n\n所以贝莱德的HLEND限制赎回，并不是说不让投资人赎回，而是限制了投资人赎回申请里超出了招股书规定的单次赎回上限的部分。而一季度HLEND还有8.4亿美金的新申购资金流入。\n\n贝莱德在声明中将此举定性为基金流动性管理的\"基础性\"安排，称若不加限制，将出现投资者资本与私募信贷贷款久期之间的\"结构性错配\"。其实可以理解，因为几乎所有的公开上市的投资基金（特别是投资私募股权、信贷等产品），每一次投资人赎回都是有上限的，不可能说完全无限制让投资人一次性全部赎回，那就是明显的期限部队等了。因为基金投资的标的、退出也是需要时间周期的。\n\n2、再来看黑石的情况\n黑石（Blackstone）的旗舰私募信贷基金BCRED（Blackstone Private Credit Fund，规模约820亿美元）近期面临的赎回压力与HLEND非常类似。\n1）投资者在26年一季度申请赎回7.9%的份额，金额约38亿美元。这也超过了BCRED基金标准的季度回购上限5%的基金条款（与HLEND相同的设计）。\n\n2）黑石的应对\n BCRED基金董事会将回购上限上调至7%（这是允许的最大调整范围，而不需修改基金要约条款，修改条款需要股东会通过并到SEC备案）\n  \n黑石公司自有资金和员工自掏腰包来把剩余多出的0.9%的赎回申请（约4亿美金）给买下来了。\n\n简单说黑石旗下的BCRED基金本季度投资人申请赎回7.9%的份额，7%由基金正常赎回，0.9%被黑石公司和内部员工一起回购掉了。\n\n3）与此同时，BCRED基金一季度新申购资金20亿美金。基金年末可用流动性80亿美元，其实流动性是宽裕的。年化收益9.8%。\n\n3、两者异同点\n1）贝莱德和黑石旗下这两只基金都属于semi-liquid非交易型BDC，每月申购+分红，每季度回购，每次赎回标准上限5%\n\n2）处理差异\n贝莱德的HLEND严格按照基金条款，把一季度赎回限制在5%，未满足部分不结转，下季度重申；\n 而黑石的BCRED更积极，把单次赎回上限上调到7% + 同时自掏4亿美元补足，实现对投资人赎回申请的全额满足。以维护声誉，也强调了管理人与投资人的利益一致性。\n\n4、能看出什么？\n1）并没有流动性的问题，贝莱德和黑石的做法虽然有差异、但都在基金条款范围之内并没有说逾期或者破坏基金条款协议等；\n\n两者都未出现“挤兑”或被迫甩卖资产，但都凸显了零售私募信贷的痛点——非流动性贷款 vs. 有限季度流动性，在情绪差时容易放大赎回\n\n黑石和贝莱德都视之为短期情绪波动，而非基本面崩盘（借款人违约率仍低，回报吸引人）。\n\n2）不是基金的问题、而是投资人恐慌了\n两支基金赎回申请都首次大幅突破上限。明显是部分投资人出现了恐慌情绪或担忧，导致本季度两支基金赎回申请都超过基金最初设计的季度标准上限5%。\n\n当然这也是经济不确定性增大、对某些借款人（如软件、科技相关行业）的担忧等因素都促使投资人纷纷赎回基金份额。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2030447550256599325",
         "media": [
           {
             "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCTMWtGbsAAYRHd.jpg"
+            "url": "https://nitter.net/pic/orig/media%2FHC2ZSLBacAAl9ho.jpg"
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030301305475145920",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "某业内人士调侃\n\n某中小交易所出现“亮眼”数据——某小币种合约持仓量已超越 Binance，但这未必意味着业务真实增长。\n\n更大的可能是：该交易所的对赌做市机制已被该币种庄家盯上，将其视为可收割的对手盘，正在系统性地进行定向收割。",
-      "contentHtml": "某业内人士调侃\n\n某中小交易所出现“亮眼”数据——某小币种合约持仓量已超越 Binance，但这未必意味着业务真实增长。\n\n更大的可能是：该交易所的对赌做市机制已被该币种庄家盯上，将其视为可收割的对手盘，正在系统性地进行定向收割。",
-      "publishedAt": "2026-03-07T15:15:00.000Z",
-      "link": "https://x.com/follow_clues/status/2030301305475145920",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030093765407629449",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "专注力可能是最被低估的一个能力. 特别是当大家都有了“AI赋能幻觉”的时候, 单纯through put的带来的效能产出已经没有那么大了",
-      "contentHtml": "专注力可能是最被低估的一个能力. 特别是当大家都有了“AI赋能幻觉”的时候, 单纯through put的带来的效能产出已经没有那么大了",
-      "publishedAt": "2026-03-07T01:30:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2030093765407629449",
-      "quote": {
-        "username": "DoveyWanCN",
-        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-        "content": "我妈从小毒舌我的金句: 没有情绪稳定和专注力, 智商根本没有机会上场 😂 妈咪有些话说的很直接, 但是想想都是life wisdom.",
-        "link": "https://x.com/DoveyWanCN/status/1929180282521076098"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030008782257029124",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "Lighter was such an easy dump once it became public that they gave 10% of the airdrop to Jump",
-      "contentHtml": "Lighter was such an easy dump once it became public that they gave 10% of the airdrop to Jump",
-      "publishedAt": "2026-03-06T19:53:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2030008782257029124",
       "stats": {
         "replies": 0,
         "retweets": 0,
