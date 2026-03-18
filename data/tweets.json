@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T14:47:22.423Z",
+  "lastUpdated": "2026-03-18T15:16:43.522Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,53 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 464,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 420,
+    "successUsers": 21,
+    "failedUsers": 6
   },
   "tweets": [
+    {
+      "id": "2034284573161378057",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "把可能去掉\n澳洲已经开始加息了",
+      "contentHtml": "把可能去掉\n澳洲已经开始加息了",
+      "publishedAt": "2026-03-18T15:03:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034284573161378057",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDs7B7hWsAAWKc-.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034281138420634067",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "白银还挺像e的 怪不得以太叫加密白银\n黄金跌 他装一会儿 然后反应过来了开始捅自己🤦🏻‍♂️",
+      "contentHtml": "白银还挺像e的 怪不得以太叫加密白银\n黄金跌 他装一会儿 然后反应过来了开始捅自己🤦🏻‍♂️",
+      "publishedAt": "2026-03-18T14:49:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034281138420634067",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDs35zxXQAAvu7B.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2034276954006761891",
       "username": "hazenlee",
@@ -1614,6 +1656,47 @@
       }
     },
     {
+      "id": "2034065157757014041",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://nitter.net/pic/profile_images%2F1453864539720601606%2FrEHaWNk1_bigger.jpg",
+      "content": "监管大动作的落地，昨晚SEC发布了名为《联邦证券法对某些类型加密资产和涉及加密资产某些交易的适用性》最终解释性指引。这是SEC联合CFTC针对加密资产监管提供长期框架的明确指导，结束了过去多年“通过执法来监管”的模式，我们所期待的加密行业监管情绪度更进一步了。\n\n指引的核心要点\n1、加密资产分类，首次给出清晰的五类划分：\n1）Digital Commodities数字商品\n明确提出BTC、ETH、SOL、XRP、ADA、DOGE、SHIB、AVAX、LINK 等加密资产是数字商品不属于证券，价值主要来自功能性网络运行、供需。\n2）Digital Collectibles数字收藏品\n如NFT艺术品、meme币、CryptoPunks等不属于证券，主要具有艺术/社交/收藏价值。\n3）Digital Tools数字工具\n如ENS域名、实用凭证、门票等 — 不属于证券，提供实际功能。\n4）Stablecoins稳定币：\n符合GENIUS Act定义的“payment stablecoin”由许可发行人发行的稳定币也不属于证券；\n5）Digital Securities数字证券/代币化证券代币化股票、债券等依然属于证券\n\n2. 非证券加密资产何时变成/不再是投资合同（Howey Test应用）\n1）当发行人通过承诺“essential managerial efforts”（开发功能、里程碑、使用资金等）诱导投资者合理预期利润时，非证券资产可被视为投资合同（即证券）。\n2）一旦发行人履行完毕承诺，投资合同关系终止，该资产不再受证券法约束。\n\n这是重大转变，过去SEC常认为“永远是证券”，相当于说刚开始ico或者私募时候被视为证券，但是如果代币解锁完，社区化程度高，时候也就不被视为证券了。\n\n3. 几类常见链上活动被明确为非证券（在满足条件时）：\n1）PoW挖矿，包括矿池属于非证券；\n2）协议质押PoS staking（包括自 staking、托管staking、流动性质押/liquid staking）非证券，只要是按协议规则运行、非保证收益、非出借资产。\n3）Staking Receipt Tokens流动性质押凭证，如stETH如果1:1对应底层非证券资产，且按协议自动反映奖励，也属于非证券。\n4）Wrapping / Wrapped Tokens跨链包装，如果是1:1可赎回、无收益承诺、无资金池化 也属于非证券。\n5）Airdrops空投：如果无对价（没花钱、没提供服务/商品）的情况下 — 不满足Howey的“investment of money”要件，也非证券。\n\n做为解释性规则，这份指引立即生效。\n可以说是加密监管的起重大，为大饼、以太、主流Layer1、主流staking、主流NFT、主流空投等提供了相对清晰的“非证券”地位，同时保留了对欺诈性发行和持续承诺型项目的监管空间。",
+      "contentHtml": "监管大动作的落地，昨晚SEC发布了名为《联邦证券法对某些类型加密资产和涉及加密资产某些交易的适用性》最终解释性指引。这是SEC联合CFTC针对加密资产监管提供长期框架的明确指导，结束了过去多年“通过执法来监管”的模式，我们所期待的加密行业监管情绪度更进一步了。\n\n指引的核心要点\n1、加密资产分类，首次给出清晰的五类划分：\n1）Digital Commodities数字商品\n明确提出BTC、ETH、SOL、XRP、ADA、DOGE、SHIB、AVAX、LINK 等加密资产是数字商品不属于证券，价值主要来自功能性网络运行、供需。\n2）Digital Collectibles数字收藏品\n如NFT艺术品、meme币、CryptoPunks等不属于证券，主要具有艺术/社交/收藏价值。\n3）Digital Tools数字工具\n如ENS域名、实用凭证、门票等 — 不属于证券，提供实际功能。\n4）Stablecoins稳定币：\n符合GENIUS Act定义的“payment stablecoin”由许可发行人发行的稳定币也不属于证券；\n5）Digital Securities数字证券/代币化证券代币化股票、债券等依然属于证券\n\n2. 非证券加密资产何时变成/不再是投资合同（Howey Test应用）\n1）当发行人通过承诺“essential managerial efforts”（开发功能、里程碑、使用资金等）诱导投资者合理预期利润时，非证券资产可被视为投资合同（即证券）。\n2）一旦发行人履行完毕承诺，投资合同关系终止，该资产不再受证券法约束。\n\n这是重大转变，过去SEC常认为“永远是证券”，相当于说刚开始ico或者私募时候被视为证券，但是如果代币解锁完，社区化程度高，时候也就不被视为证券了。\n\n3. 几类常见链上活动被明确为非证券（在满足条件时）：\n1）PoW挖矿，包括矿池属于非证券；\n2）协议质押PoS staking（包括自 staking、托管staking、流动性质押/liquid staking）非证券，只要是按协议规则运行、非保证收益、非出借资产。\n3）Staking Receipt Tokens流动性质押凭证，如stETH如果1:1对应底层非证券资产，且按协议自动反映奖励，也属于非证券。\n4）Wrapping / Wrapped Tokens跨链包装，如果是1:1可赎回、无收益承诺、无资金池化 也属于非证券。\n5）Airdrops空投：如果无对价（没花钱、没提供服务/商品）的情况下 — 不满足Howey的“investment of money”要件，也非证券。\n\n做为解释性规则，这份指引立即生效。\n可以说是加密监管的起重大，为大饼、以太、主流Layer1、主流staking、主流NFT、主流空投等提供了相对清晰的“非证券”地位，同时保留了对欺诈性发行和持续承诺型项目的监管空间。",
+      "publishedAt": "2026-03-18T00:31:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2034065157757014041",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDpzemLbEAAYiga.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "这两天政策监管的两个大动作：SEC与CFTC签署谅解备忘录、SEC的极限版“创新豁免”要来了。总结下来就是对加密的监管不确定性消失，代币化可以在美国本土落地了。\n\n前者的意义在于：1）两大监管机构结束长达多年的“管辖权争夺”。过去SEC和CFTC在加密、衍生品等领域经常抢地盘，导致企业要双重注册、遵守两套不同规则，创新被卡住、成本暴增，甚至被迫跑到海外。这次正式握手言和，用“最小有效监管”（minimum effective dose）原则，消除重复、填补漏洞，让监管更高效。\n\n2）给加密行业和创新带来确定性  \n两家明确要为crypto assets制定专门框架，支持“合法创新”。这对DeFi、稳定币、加密衍生品等是重大利好——企业不再担心“今天SEC告你，明天CFTC再来一次”。这将大幅降低美国加密企业的合规不确定性。\n\n后者有限版“创新豁免”的意义：\n1）允许有限交易某些代币化证券，让传统金融公司（TradFi）和加密原生项目开始行动起来。\n\n2）代币化股票、地产、基金等RWA项目终于能在美国本土小范围测试了（之前只能去欧洲、亚洲等其他监管区），这对BlackRock、BNY Mellon、Kraken等已经布局tokenization的大机构是明确信号——“门开了，哪怕只开一条缝”。\n\n3）当然DeFi纯玩家、杠杆衍生品、稳定币大额交易暂时还不在这个窄豁免里（要等后续或国会法案）。短期内不会“爆炸式”创新，但至少结束了“监管真空+执法围剿”的时代。\n\n4）长期看：Atkins强调这是通往“适合目的监管”（fit-for-purpose）的第一步。等数据收集够了，窄豁免很可能扩大成更广的框架。",
+        "link": "https://x.com/qinbafrank/status/2032449834846970151",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDS2NydasAAAQIc.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDS2NyabkAAXJ-g.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2034064095373087059",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -2172,31 +2255,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDmilh0bEAIX4zK.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033820809291026440",
-      "username": "WizardTraderX",
-      "displayName": "巫师 · Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1575642289577271300%2F1sj7-YiZ_bigger.jpg",
-      "content": "达里奥有个套路：（现在他文章我一般不看，看了想吐）\n\n把所有历史事件塞进同一套模板，债务周期、大国冲突、货币贬值，转来转去永远是那几个齿轮咬合。\n\n他说这是洞见，但在我看来就是瞎掰。他不论是文章还是写的书就像一个函数——输入任何现实，输出同一个结论：系统性危机即将到来。\n\n先不讲他说的对不对，而在于一个框架如果对所有情况都适用，它对任何具体情况就都没有预测力。\n\n更值得警惕的是他对自己角色的定位。对历史的痴迷背后是一种先知冲动——我看见了别人看不见的规律，我站在历史的制高点上，我来告诉你们文明的走向。印钞导致崩溃，泡沫导致萧条，民粹导致战争，结论永远指向灾难，因为灾难才配得上先知的体量。\n\n一旦独立判断被先知叙事替代，Dalio就不再只是一个分析师。他成了他自己框架里最危险的那个变量。",
-      "contentHtml": "达里奥有个套路：（现在他文章我一般不看，看了想吐）\n\n把所有历史事件塞进同一套模板，债务周期、大国冲突、货币贬值，转来转去永远是那几个齿轮咬合。\n\n他说这是洞见，但在我看来就是瞎掰。他不论是文章还是写的书就像一个函数——输入任何现实，输出同一个结论：系统性危机即将到来。\n\n先不讲他说的对不对，而在于一个框架如果对所有情况都适用，它对任何具体情况就都没有预测力。\n\n更值得警惕的是他对自己角色的定位。对历史的痴迷背后是一种先知冲动——我看见了别人看不见的规律，我站在历史的制高点上，我来告诉你们文明的走向。印钞导致崩溃，泡沫导致萧条，民粹导致战争，结论永远指向灾难，因为灾难才配得上先知的体量。\n\n一旦独立判断被先知叙事替代，Dalio就不再只是一个分析师。他成了他自己框架里最危险的那个变量。",
-      "publishedAt": "2026-03-17T08:20:00.000Z",
-      "link": "https://x.com/WizardTraderX/status/2033820809291026440",
-      "retweet": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
-      },
-      "quote": {
-        "username": "RayDalio",
-        "displayName": "Ray Dalio",
-        "content": "x.com/i/article/203356547427…",
-        "link": "https://x.com/RayDalio/status/2033567224120692861"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -4209,6 +4267,25 @@
       "contentHtml": "期货开盘前一小时，华尔街日报：美国准备和一些国家一起保护海峡航运安全，谁？一些是哪些？😂\n不如贝森特一会直接干预市场来得直接，配合新闻，再砸一波原油多头，看看。",
       "publishedAt": "2026-03-15T21:22:00.000Z",
       "link": "https://x.com/TJ_Research/status/2033292817716707353",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033280792324104379",
+      "username": "usakes_zhang",
+      "displayName": "usakes",
+      "avatar": "https://nitter.net/pic/profile_images%2F1941306528398704644%2FvLx14LTv_bigger.jpg",
+      "content": "投资情绪切勿被股价牵着鼻子走\n\n如果对公司的执行力没信心就清仓不看\n\n一个公司进展是否顺利，普通投资人如果能猜出来那就全都大富翁了\n\n你问我去年为什么敢168买谷歌75买circle，29买intel和lmnd，持续加仓tsla？\n\n那些在股价低迷时质疑声越大的，现在他们就有多后悔🙂",
+      "contentHtml": "投资情绪切勿被股价牵着鼻子走\n\n如果对公司的执行力没信心就清仓不看\n\n一个公司进展是否顺利，普通投资人如果能猜出来那就全都大富翁了\n\n你问我去年为什么敢168买谷歌75买circle，29买intel和lmnd，持续加仓tsla？\n\n那些在股价低迷时质疑声越大的，现在他们就有多后悔🙂",
+      "publishedAt": "2026-03-15T20:34:00.000Z",
+      "link": "https://x.com/usakes_zhang/status/2033280792324104379",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10587,39 +10664,6 @@
       }
     },
     {
-      "id": "2031196547812306984",
-      "username": "Hzzzz666",
-      "displayName": "Hzzzz",
-      "avatar": "https://nitter.net/pic/profile_images%2F1959499539607617536%2F9ZWsHyhY_bigger.jpg",
-      "content": "我在 @Bybit_Official 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n@Bybit_Official @Bybit_ZH @Alpha_Bybit @linabybit @benbybit",
-      "contentHtml": "我在 <a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n<a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> <a href=\"/Bybit_ZH\" title=\"Bybit 华语\">@Bybit_ZH</a> <a href=\"/Alpha_Bybit\" title=\"Bybit Alpha\">@Alpha_Bybit</a> <a href=\"/linabybit\" title=\"Lina🦊Bybit\">@linabybit</a> <a href=\"/benbybit\" title=\"Ben Zhou\">@benbybit</a>",
-      "publishedAt": "2026-03-10T02:32:00.000Z",
-      "link": "https://x.com/Hzzzz666/status/2031196547812306984",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUXaMAQRMzk.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUJaMAIHZqW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfULaMAYYPy9.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "daidaibtc",
-        "displayName": "带带带比特"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031195110927376664",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -11448,68 +11492,6 @@
         "content": "其实openclaw最大受益者是雷军，雷军一直在追求人车家全生态，但是小爱像脑残，而且你每句话都必须以小爱同学开头，但是搞miclaw就不一样了，相当于小爱变成贴心管家。",
         "link": "https://x.com/1000xgemxcoin/status/2030960088605954503"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030953522137801132",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "果然，地缘冲突的持续给风险市场带来更多的不确定性。从不同链上群体的行为趋势上看，2月还在积极累积筹码的鲸鱼开始变得谨慎。而持有100枚以下的中小群体全部转为派发（图1）。\n\n从图中我们可以找到前2次出现类似转变后，受其影响BTC的价格皆表现不佳；或弱势震荡，或连续回调。\n\n从筹码结构上看（图2），当前多空双方争夺最激烈的位置在$66,000-$67,000左右，总共有60.7w枚BTC在此处发生了换手。因此，这里也是多头最重要的支撑位，一旦失守后面的情况将变得扑朔迷离。\n\n因为下一个相对较高的筹码柱在$16,000左右，中间没有明显的筹码堆积的共识区了。",
-      "contentHtml": "果然，地缘冲突的持续给风险市场带来更多的不确定性。从不同链上群体的行为趋势上看，2月还在积极累积筹码的鲸鱼开始变得谨慎。而持有100枚以下的中小群体全部转为派发（图1）。\n\n从图中我们可以找到前2次出现类似转变后，受其影响BTC的价格皆表现不佳；或弱势震荡，或连续回调。\n\n从筹码结构上看（图2），当前多空双方争夺最激烈的位置在$66,000-$67,000左右，总共有60.7w枚BTC在此处发生了换手。因此，这里也是多头最重要的支撑位，一旦失守后面的情况将变得扑朔迷离。\n\n因为下一个相对较高的筹码柱在$16,000左右，中间没有明显的筹码堆积的共识区了。",
-      "publishedAt": "2026-03-09T10:27:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2030953522137801132",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHC9k69EbkAAX7t-.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHC9lBYobQAEHg8u.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "BTC累积趋势得分（Accumulation Trend Score，ATS）通过评估不同钱包群体的相对余额变化，并对大型实体赋予更高权重，为衡量链上“累积行为”提供了有效参考。\n\n当ATS越接近1（黑点），则表示大型实体越偏向积累。自2月5日以来，ATS分值始终维持在0.5以下，表明持有者整体缺乏积极的累积行为。\n\n（图1-BTC累积趋势得分）\n\n尤其是在3月1日-4日的反弹时，ATS更是连续下降至0.23（浅黄点）；意味着有大型持有者趁着BTC价格反弹又开始派发了。\n\n同时，我们还看到在1月14日当天，短期持有者合计将20,477枚BTC转入交易所完成获利了结（比2026.1.14还要多），反映出STH对当前行情缺乏信心的行为表现。\n\n（图2-STH转入交易所的BTC数量）\n\n但与之相反的是，传统资本的代表“现货ETF”却在此时起到了关键作用，从2月24日至3月4日持续的净流入吸收了部分供应，为反弹创造了条件（ETF的具体细节我们在明天会有详细分析）。\n\n说明目前市场中的资金又出现了强烈的分歧，有人不看好要卖，有人看好要买。多空双方力量比拼势必又要再次分出胜负，对我们散户来说只能观战了，等局势明朗后再做下一步打算。",
-        "link": "https://x.com/Murphychen888/status/2029909216513884266",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCuu4zxa4AENjuP.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCuvMCxaUAAhLQJ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030947568306606540",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "地狱笑话",
-      "contentHtml": "地狱笑话",
-      "publishedAt": "2026-03-09T10:03:00.000Z",
-      "link": "https://x.com/hazenlee/status/2030947568306606540",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHC9gC6kaYAANtKs.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
