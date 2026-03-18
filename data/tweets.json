@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T06:56:21.422Z",
+  "lastUpdated": "2026-03-18T07:15:22.593Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 204,
-    "successUsers": 10,
-    "failedUsers": 17
+    "newFetched": 404,
+    "successUsers": 20,
+    "failedUsers": 7
   },
   "tweets": [
     {
@@ -308,7 +308,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "从今天起对币圈刷新\n#牛回  第一天\n长风破浪会有时，直挂云帆济沧海\n鼻涕西 冲啊👻👻👻",
-        "link": "https://x.com/Bitfatty/status/2029076345263906978"
+        "link": "https://x.com/Bitfatty/status/2029076345263906978",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCi6LYxawAI2i8q.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -371,7 +377,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "Backpack  积分\n\n王者 81472 \n有点追不上其他大神了",
-        "link": "https://x.com/Bitfatty/status/1915633129873948915"
+        "link": "https://x.com/Bitfatty/status/1915633129873948915",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGpWyLFgbYAcLO0E.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -526,47 +538,6 @@
       "contentHtml": "过去75年，平均每年年中下跌14%，无论暂时还没有下跌空间，跌是市场的一部分。",
       "publishedAt": "2026-03-18T00:54:00.000Z",
       "link": "https://x.com/TJ_Research/status/2034070823082906059",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034065157757014041",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://nitter.net/pic/profile_images%2F1453864539720601606%2FrEHaWNk1_bigger.jpg",
-      "content": "监管大动作的落地，昨晚SEC发布了名为《联邦证券法对某些类型加密资产和涉及加密资产某些交易的适用性》最终解释性指引。这是SEC联合CFTC针对加密资产监管提供长期框架的明确指导，结束了过去多年“通过执法来监管”的模式，我们所期待的加密行业监管情绪度更进一步了。\n\n指引的核心要点\n1、加密资产分类，首次给出清晰的五类划分：\n1）Digital Commodities数字商品\n明确提出BTC、ETH、SOL、XRP、ADA、DOGE、SHIB、AVAX、LINK 等加密资产是数字商品不属于证券，价值主要来自功能性网络运行、供需。\n2）Digital Collectibles数字收藏品\n如NFT艺术品、meme币、CryptoPunks等不属于证券，主要具有艺术/社交/收藏价值。\n3）Digital Tools数字工具\n如ENS域名、实用凭证、门票等 — 不属于证券，提供实际功能。\n4）Stablecoins稳定币：\n符合GENIUS Act定义的“payment stablecoin”由许可发行人发行的稳定币也不属于证券；\n5）Digital Securities数字证券/代币化证券代币化股票、债券等依然属于证券\n\n2. 非证券加密资产何时变成/不再是投资合同（Howey Test应用）\n1）当发行人通过承诺“essential managerial efforts”（开发功能、里程碑、使用资金等）诱导投资者合理预期利润时，非证券资产可被视为投资合同（即证券）。\n2）一旦发行人履行完毕承诺，投资合同关系终止，该资产不再受证券法约束。\n\n这是重大转变，过去SEC常认为“永远是证券”，相当于说刚开始ico或者私募时候被视为证券，但是如果代币解锁完，社区化程度高，时候也就不被视为证券了。\n\n3. 几类常见链上活动被明确为非证券（在满足条件时）：\n1）PoW挖矿，包括矿池属于非证券；\n2）协议质押PoS staking（包括自 staking、托管staking、流动性质押/liquid staking）非证券，只要是按协议规则运行、非保证收益、非出借资产。\n3）Staking Receipt Tokens流动性质押凭证，如stETH如果1:1对应底层非证券资产，且按协议自动反映奖励，也属于非证券。\n4）Wrapping / Wrapped Tokens跨链包装，如果是1:1可赎回、无收益承诺、无资金池化 也属于非证券。\n5）Airdrops空投：如果无对价（没花钱、没提供服务/商品）的情况下 — 不满足Howey的“investment of money”要件，也非证券。\n\n做为解释性规则，这份指引立即生效。\n可以说是加密监管的起重大，为大饼、以太、主流Layer1、主流staking、主流NFT、主流空投等提供了相对清晰的“非证券”地位，同时保留了对欺诈性发行和持续承诺型项目的监管空间。",
-      "contentHtml": "监管大动作的落地，昨晚SEC发布了名为《联邦证券法对某些类型加密资产和涉及加密资产某些交易的适用性》最终解释性指引。这是SEC联合CFTC针对加密资产监管提供长期框架的明确指导，结束了过去多年“通过执法来监管”的模式，我们所期待的加密行业监管情绪度更进一步了。\n\n指引的核心要点\n1、加密资产分类，首次给出清晰的五类划分：\n1）Digital Commodities数字商品\n明确提出BTC、ETH、SOL、XRP、ADA、DOGE、SHIB、AVAX、LINK 等加密资产是数字商品不属于证券，价值主要来自功能性网络运行、供需。\n2）Digital Collectibles数字收藏品\n如NFT艺术品、meme币、CryptoPunks等不属于证券，主要具有艺术/社交/收藏价值。\n3）Digital Tools数字工具\n如ENS域名、实用凭证、门票等 — 不属于证券，提供实际功能。\n4）Stablecoins稳定币：\n符合GENIUS Act定义的“payment stablecoin”由许可发行人发行的稳定币也不属于证券；\n5）Digital Securities数字证券/代币化证券代币化股票、债券等依然属于证券\n\n2. 非证券加密资产何时变成/不再是投资合同（Howey Test应用）\n1）当发行人通过承诺“essential managerial efforts”（开发功能、里程碑、使用资金等）诱导投资者合理预期利润时，非证券资产可被视为投资合同（即证券）。\n2）一旦发行人履行完毕承诺，投资合同关系终止，该资产不再受证券法约束。\n\n这是重大转变，过去SEC常认为“永远是证券”，相当于说刚开始ico或者私募时候被视为证券，但是如果代币解锁完，社区化程度高，时候也就不被视为证券了。\n\n3. 几类常见链上活动被明确为非证券（在满足条件时）：\n1）PoW挖矿，包括矿池属于非证券；\n2）协议质押PoS staking（包括自 staking、托管staking、流动性质押/liquid staking）非证券，只要是按协议规则运行、非保证收益、非出借资产。\n3）Staking Receipt Tokens流动性质押凭证，如stETH如果1:1对应底层非证券资产，且按协议自动反映奖励，也属于非证券。\n4）Wrapping / Wrapped Tokens跨链包装，如果是1:1可赎回、无收益承诺、无资金池化 也属于非证券。\n5）Airdrops空投：如果无对价（没花钱、没提供服务/商品）的情况下 — 不满足Howey的“investment of money”要件，也非证券。\n\n做为解释性规则，这份指引立即生效。\n可以说是加密监管的起重大，为大饼、以太、主流Layer1、主流staking、主流NFT、主流空投等提供了相对清晰的“非证券”地位，同时保留了对欺诈性发行和持续承诺型项目的监管空间。",
-      "publishedAt": "2026-03-18T00:31:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2034065157757014041",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDpzemLbEAAYiga.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "这两天政策监管的两个大动作：SEC与CFTC签署谅解备忘录、SEC的极限版“创新豁免”要来了。总结下来就是对加密的监管不确定性消失，代币化可以在美国本土落地了。\n\n前者的意义在于：1）两大监管机构结束长达多年的“管辖权争夺”。过去SEC和CFTC在加密、衍生品等领域经常抢地盘，导致企业要双重注册、遵守两套不同规则，创新被卡住、成本暴增，甚至被迫跑到海外。这次正式握手言和，用“最小有效监管”（minimum effective dose）原则，消除重复、填补漏洞，让监管更高效。\n\n2）给加密行业和创新带来确定性  \n两家明确要为crypto assets制定专门框架，支持“合法创新”。这对DeFi、稳定币、加密衍生品等是重大利好——企业不再担心“今天SEC告你，明天CFTC再来一次”。这将大幅降低美国加密企业的合规不确定性。\n\n后者有限版“创新豁免”的意义：\n1）允许有限交易某些代币化证券，让传统金融公司（TradFi）和加密原生项目开始行动起来。\n\n2）代币化股票、地产、基金等RWA项目终于能在美国本土小范围测试了（之前只能去欧洲、亚洲等其他监管区），这对BlackRock、BNY Mellon、Kraken等已经布局tokenization的大机构是明确信号——“门开了，哪怕只开一条缝”。\n\n3）当然DeFi纯玩家、杠杆衍生品、稳定币大额交易暂时还不在这个窄豁免里（要等后续或国会法案）。短期内不会“爆炸式”创新，但至少结束了“监管真空+执法围剿”的时代。\n\n4）长期看：Atkins强调这是通往“适合目的监管”（fit-for-purpose）的第一步。等数据收集够了，窄豁免很可能扩大成更广的框架。",
-        "link": "https://x.com/qinbafrank/status/2032449834846970151",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDS2NydasAAAQIc.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDS2NyabkAAXJ-g.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -1598,7 +1569,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "从今天起对币圈刷新\n#牛回  第一天\n长风破浪会有时，直挂云帆济沧海\n鼻涕西 冲啊👻👻👻",
-        "link": "https://x.com/Bitfatty/status/2029076345263906978"
+        "link": "https://x.com/Bitfatty/status/2029076345263906978",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCi6LYxawAI2i8q.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -1715,6 +1692,41 @@
       "contentHtml": "没有牛回",
       "publishedAt": "2026-03-16T23:00:00.000Z",
       "link": "https://x.com/hazenlee/status/2033679789010391402",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033671849096433758",
+      "username": "m1ssuo",
+      "displayName": "Vincent Yang",
+      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
+      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
+      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
+      "publishedAt": "2026-03-16T22:28:00.000Z",
+      "link": "https://x.com/m1ssuo/status/2033671849096433758",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "quote": {
+        "username": "landiantech",
+        "displayName": "蓝点网",
+        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
+        "link": "https://x.com/landiantech/status/2032275955432243524",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2686,7 +2698,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "2.6号以后，有反手多的单子，成本低于69k\n比如63000-68000的多单\n拿死了  \n\n还是那句话，12万不空，1011前三天不空，破108000不空，破83000不空\n6万插针都收回来了喊着要空\n熊市都快半年了，转震荡也不值得花太多保证金做空了\n真想空多开点开大点，别止损，你们空单也拿稳了！",
-        "link": "https://x.com/Bitfatty/status/2033011627264717125"
+        "link": "https://x.com/Bitfatty/status/2033011627264717125",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDa1S5zakAE99Rs.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -2761,7 +2779,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "从今天起对币圈刷新\n#牛回  第一天\n长风破浪会有时，直挂云帆济沧海\n鼻涕西 冲啊👻👻👻",
-        "link": "https://x.com/Bitfatty/status/2029076345263906978"
+        "link": "https://x.com/Bitfatty/status/2029076345263906978",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCi6LYxawAI2i8q.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -3142,25 +3166,6 @@
       }
     },
     {
-      "id": "2033280792324104379",
-      "username": "usakes_zhang",
-      "displayName": "usakes",
-      "avatar": "https://nitter.net/pic/profile_images%2F1941306528398704644%2FvLx14LTv_bigger.jpg",
-      "content": "投资情绪切勿被股价牵着鼻子走\n\n如果对公司的执行力没信心就清仓不看\n\n一个公司进展是否顺利，普通投资人如果能猜出来那就全都大富翁了\n\n你问我去年为什么敢168买谷歌75买circle，29买intel和lmnd，持续加仓tsla？\n\n那些在股价低迷时质疑声越大的，现在他们就有多后悔🙂",
-      "contentHtml": "投资情绪切勿被股价牵着鼻子走\n\n如果对公司的执行力没信心就清仓不看\n\n一个公司进展是否顺利，普通投资人如果能猜出来那就全都大富翁了\n\n你问我去年为什么敢168买谷歌75买circle，29买intel和lmnd，持续加仓tsla？\n\n那些在股价低迷时质疑声越大的，现在他们就有多后悔🙂",
-      "publishedAt": "2026-03-15T20:34:00.000Z",
-      "link": "https://x.com/usakes_zhang/status/2033280792324104379",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2033254024867360828",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -3335,6 +3340,25 @@
       "contentHtml": "别跌了😓",
       "publishedAt": "2026-03-15T14:38:00.000Z",
       "link": "https://x.com/Bitfatty/status/2033191077256269897",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033182792029294736",
+      "username": "hklst4r",
+      "displayName": "Weilin (William) Li",
+      "avatar": "https://nitter.net/pic/profile_images%2F1694723443516936192%2FP4urhIUm_bigger.jpg",
+      "content": "x.com/i/article/203317473594…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2033174735945609216\">x.com/i/article/203317473594…</a>",
+      "publishedAt": "2026-03-15T14:05:00.000Z",
+      "link": "https://x.com/hklst4r/status/2033182792029294736",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5687,6 +5711,25 @@
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "piped.video/live/rsXj54tDi90… nitter.net/i/broadcasts/1mGPaLdQZ…",
         "link": "https://x.com/Bitfatty/status/2032344512652263559"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032384444816867390",
+      "username": "heyibinance",
+      "displayName": "Yi He",
+      "avatar": "https://nitter.net/pic/profile_images%2F1974520590410170369%2Fq2Q0S0fa_bigger.jpg",
+      "content": "作为一个曾经的媒体从业者，一度为媒体从业者是“无冕之王”而骄傲，但什么时候起，出版自由变成了诋毁自由？自己是个锤子，看谁都是钉子。\n这是关于诋毁和虚假指控的第三次胜诉，所有人都说劝我们说和媒体打官司胜算不多，但总得有人做点什么来改变这个陈旧腐烂的新闻业。\n是否有的记者只要拿着“新闻自由”，就可以用虚假故事做勒索币安的帮凶，用耸人听闻的模糊字眼来获取流量？如果这样我以曾经是媒体人为耻，也很愿意继续去打一个个胜算不大的官司。",
+      "contentHtml": "作为一个曾经的媒体从业者，一度为媒体从业者是“无冕之王”而骄傲，但什么时候起，出版自由变成了诋毁自由？自己是个锤子，看谁都是钉子。\n这是关于诋毁和虚假指控的第三次胜诉，所有人都说劝我们说和媒体打官司胜算不多，但总得有人做点什么来改变这个陈旧腐烂的新闻业。\n是否有的记者只要拿着“新闻自由”，就可以用虚假故事做勒索币安的帮凶，用耸人听闻的模糊字眼来获取流量？如果这样我以曾经是媒体人为耻，也很愿意继续去打一个个胜算不大的官司。",
+      "publishedAt": "2026-03-13T09:13:00.000Z",
+      "link": "https://x.com/heyibinance/status/2032384444816867390",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
       },
       "stats": {
         "replies": 0,
@@ -8688,6 +8731,25 @@
       }
     },
     {
+      "id": "2031340940573684125",
+      "username": "FrontierLab_ZH",
+      "displayName": "Frontier Lab 中文",
+      "avatar": "https://nitter.net/pic/profile_images%2F1777659632871424000%2FhZFVT5tb_bigger.jpg",
+      "content": "x.com/i/article/203096902716…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030969027162673152\">x.com/i/article/203096902716…</a>",
+      "publishedAt": "2026-03-10T12:06:00.000Z",
+      "link": "https://x.com/FrontierLab_ZH/status/2031340940573684125",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2031326610276889087",
       "username": "OwenJin12",
       "displayName": "Owen.btc 🟧",
@@ -9324,6 +9386,39 @@
           "url": "https://nitter.net/pic/orig/media%2FHDBDfjvbUAAV8NQ.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031196547812306984",
+      "username": "Hzzzz666",
+      "displayName": "Hzzzz",
+      "avatar": "https://nitter.net/pic/profile_images%2F1959499539607617536%2F9ZWsHyhY_bigger.jpg",
+      "content": "我在 @Bybit_Official 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n@Bybit_Official @Bybit_ZH @Alpha_Bybit @linabybit @benbybit",
+      "contentHtml": "我在 <a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n<a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> <a href=\"/Bybit_ZH\" title=\"Bybit 华语\">@Bybit_ZH</a> <a href=\"/Alpha_Bybit\" title=\"Bybit Alpha\">@Alpha_Bybit</a> <a href=\"/linabybit\" title=\"Lina🦊Bybit\">@linabybit</a> <a href=\"/benbybit\" title=\"Ben Zhou\">@benbybit</a>",
+      "publishedAt": "2026-03-10T02:32:00.000Z",
+      "link": "https://x.com/Hzzzz666/status/2031196547812306984",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDBCfUXaMAQRMzk.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDBCfUJaMAIHZqW.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDBCfULaMAYYPy9.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "daidaibtc",
+        "displayName": "带带带比特"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10396,6 +10491,25 @@
       }
     },
     {
+      "id": "2030911858652418167",
+      "username": "sxzz",
+      "displayName": "老沙",
+      "avatar": "https://nitter.net/pic/profile_images%2F1869962277123960834%2FwYYRsJ5c_bigger.jpg",
+      "content": "x.com/i/article/203090674803…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
+      "publishedAt": "2026-03-09T07:41:00.000Z",
+      "link": "https://x.com/sxzz/status/2030911858652418167",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2030907866656469006",
       "username": "OwenJin12",
       "displayName": "Owen.btc 🟧",
@@ -11150,6 +11264,57 @@
       }
     },
     {
+      "id": "2030626320963834062",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "有没有地方可以做空这个逼龙虾",
+      "contentHtml": "有没有地方可以做空这个逼龙虾",
+      "publishedAt": "2026-03-08T12:46:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2030626320963834062",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030609061822308588",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "x.com/i/article/203060697607…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030606976074305536\">x.com/i/article/203060697607…</a>",
+      "publishedAt": "2026-03-08T11:38:00.000Z",
+      "link": "https://x.com/follow_clues/status/2030609061822308588",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030576251921158588",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "最近的交易发现：主线从金属转向能源，油价作为风险偏好指标\n\n1.利率曲线的变化对失业率、非农就业、通胀的敏感度降低；\n2.美联储近期发言对战争的影响，态度比较模糊不清，鹰派的变鸽了，鸽派的变鹰了，总之集体转为中性；\n3.BTC现在回落在67000，这是个什么价格呢？\n2024年11月初特朗普胜选时BTC的计价水平。现在来到了中期选举年，涨幅刚好回吐重新回到了这个价格。\n\n在这个关键节点下，油价成为了短期内很好的风险偏好辅助指标（如果战争只是短期的话）。油价60-70是一个中性区间，大于70则利率曲线易高难低，整体风险偏好下行；反正若轮回60-70则个人倾向于做多风险资产美股BTC，有大量的空头position unwinding。",
+      "contentHtml": "最近的交易发现：主线从金属转向能源，油价作为风险偏好指标\n\n1.利率曲线的变化对失业率、非农就业、通胀的敏感度降低；\n2.美联储近期发言对战争的影响，态度比较模糊不清，鹰派的变鸽了，鸽派的变鹰了，总之集体转为中性；\n3.BTC现在回落在67000，这是个什么价格呢？\n2024年11月初特朗普胜选时BTC的计价水平。现在来到了中期选举年，涨幅刚好回吐重新回到了这个价格。\n\n在这个关键节点下，油价成为了短期内很好的风险偏好辅助指标（如果战争只是短期的话）。油价60-70是一个中性区间，大于70则利率曲线易高难低，整体风险偏好下行；反正若轮回60-70则个人倾向于做多风险资产美股BTC，有大量的空头position unwinding。",
+      "publishedAt": "2026-03-08T09:27:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2030576251921158588",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC4OU7-aIAA7mNi.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2030093765407629449",
       "username": "DoveyWanCN",
       "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
@@ -11207,149 +11372,14 @@
       }
     },
     {
-      "id": "2029886632913162369",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "I had an internship in finance in Paris\n\nI used to do the laundry and clean everything to milk 50 euros per night on airbnb. Then I would go sleep at my gf at the time. She was def the goat.\n\nI saved 2-3k euros to ape ETH in may 17.\n\nLegendary memories in the trenches.",
-      "contentHtml": "I had an internship in finance in Paris\n\nI used to do the laundry and clean everything to milk 50 euros per night on airbnb. Then I would go sleep at my gf at the time. She was def the goat.\n\nI saved 2-3k euros to ape ETH in may 17.\n\nLegendary memories in the trenches.",
-      "publishedAt": "2026-03-06T11:47:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2029886632913162369",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029885487083855985",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "This is where I bought my first ETH back in 2017.\n\n17 square meter in Paris.\n\nNever stop believing.",
-      "contentHtml": "This is where I bought my first ETH back in 2017.\n\n17 square meter in Paris.\n\nNever stop believing.",
-      "publishedAt": "2026-03-06T11:43:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2029885487083855985",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCuZ9b-aAAA-bzy.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029804463301804374",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "有點妙，OpenAI 直接跳過 GPT-5.3 通用版發布 GPT 5.4，感覺 coding 專用模型要分家了",
-      "contentHtml": "有點妙，OpenAI 直接跳過 GPT-5.3 通用版發布 GPT 5.4，感覺 coding 專用模型要分家了",
-      "publishedAt": "2026-03-06T06:21:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2029804463301804374",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029196257051480274",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
-      "content": "国内好吃的实在太多了，根本管不住嘴！🤤",
-      "contentHtml": "国内好吃的实在太多了，根本管不住嘴！🤤",
-      "publishedAt": "2026-03-04T14:04:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2029196257051480274",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCknPJwaUAA0gE4.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029128420530258180",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "$220M volume in 24 hours\n\nWe keep farming these invisible points\n\nHyperliquid",
-      "contentHtml": "$220M volume in 24 hours\n\nWe keep farming these invisible points\n\nHyperliquid",
-      "publishedAt": "2026-03-04T09:34:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2029128420530258180",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCjpIiKawAEeXlL.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029125917038264841",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "硅谷企业AI瘦身的逻辑很清晰: 干掉没有直接产出和产品创新的团队, 干掉各种支持性的团队/各种锦上添花的团队. 干掉过去非常冗余的中层EM/PM/DM. 这不比GLP1瘦身都厉害 🤣 干掉皮下/内脏脂肪还不掉肌肉",
-      "contentHtml": "硅谷企业AI瘦身的逻辑很清晰: 干掉没有直接产出和产品创新的团队, 干掉各种支持性的团队/各种锦上添花的团队. 干掉过去非常冗余的中层EM/PM/DM. 这不比GLP1瘦身都厉害 🤣 干掉皮下/内脏脂肪还不掉肌肉",
-      "publishedAt": "2026-03-04T09:24:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2029125917038264841",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029124753857110057",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "Meta AI Manager:IC 要变成 1:50了. 很快应该是 1:5:50 lol 以后的KPI都不应该是DAU, 应该是DAT Daily Active Token",
-      "contentHtml": "Meta AI Manager:IC 要变成 1:50了. 很快应该是 1:5:50 lol 以后的KPI都不应该是DAU, 应该是DAT Daily Active Token",
-      "publishedAt": "2026-03-04T09:20:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2029124753857110057",
-      "quote": {
-        "username": "DoveyWanCN",
-        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-        "content": "和这波硅谷被裁的几个朋友聊了聊, 都是我觉得能力非常强的朋友.. 毕业后升的非常快, 在公司的绩效基本都是封顶. 过去我觉得是“平庸”会被AI替代, 但是ai大加速的背景下, 企业整体的kpi体系会被颠覆和重写.. 在指数增长的机器效能面前, 过去的“优秀” 也毫无意义. 过去社会定义下的“职业道路”完全是个鱿鱼游戏, 唯一的机会在于找到那些游戏规则本身在就在进化的领域，然后在规则还没彻底明确的时候，极致地玩下去",
-        "link": "https://x.com/DoveyWanCN/status/2028412672283496733"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2029094417748115729",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "You got all your savings rug-pulled by a French dev\n\nYour girl dumped you for a French guy after watching Emily in Paris\n\nAnd if you’re not happy about it, we might nuke your whole country",
-      "contentHtml": "You got all your savings rug-pulled by a French dev\n\nYour girl dumped you for a French guy after watching Emily in Paris\n\nAnd if you’re not happy about it, we might nuke your whole country",
-      "publishedAt": "2026-03-04T07:19:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2029094417748115729",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHCjJrv3bMAAG05h.jpg"
-        }
-      ],
+      "id": "2029937145532797215",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "简单来说，油才是主要剧情。",
+      "contentHtml": "简单来说，油才是主要剧情。",
+      "publishedAt": "2026-03-06T15:08:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2029937145532797215",
       "stats": {
         "replies": 0,
         "retweets": 0,
