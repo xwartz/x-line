@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T06:08:33.643Z",
+  "lastUpdated": "2026-03-18T06:56:21.422Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 502,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 204,
+    "successUsers": 10,
+    "failedUsers": 17
   },
   "tweets": [
+    {
+      "id": "2034156200909037784",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "我的须佐能乎是海绵宝宝",
+      "contentHtml": "我的须佐能乎是海绵宝宝",
+      "publishedAt": "2026-03-18T06:33:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034156200909037784",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDrGRsOXgAAuyh3.jpg"
+        }
+      ],
+      "quote": {
+        "username": "winchrr",
+        "displayName": "Kotasan",
+        "content": "海绵宝宝这部作品我从小非常喜欢，现在也依然喜欢\n这是一部荒诞而写实的作品\n海绵宝宝是疯子，派大星是傻子，章鱼哥是聪明人\n回顾整部作品，你会发现疯子和傻子活得都非常快乐\n而唯独「聪明」的章鱼哥终日郁郁寡欢",
+        "link": "https://x.com/winchrr/status/2034126614955806972",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDqqqnKa4AAJnT5.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2034146697056821677",
       "username": "Bitfatty",
@@ -1682,41 +1715,6 @@
       "contentHtml": "没有牛回",
       "publishedAt": "2026-03-16T23:00:00.000Z",
       "link": "https://x.com/hazenlee/status/2033679789010391402",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033671849096433758",
-      "username": "m1ssuo",
-      "displayName": "Vincent Yang",
-      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
-      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
-      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
-      "publishedAt": "2026-03-16T22:28:00.000Z",
-      "link": "https://x.com/m1ssuo/status/2033671849096433758",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "quote": {
-        "username": "landiantech",
-        "displayName": "蓝点网",
-        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
-        "link": "https://x.com/landiantech/status/2032275955432243524",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -3344,25 +3342,6 @@
       }
     },
     {
-      "id": "2033182792029294736",
-      "username": "hklst4r",
-      "displayName": "Weilin (William) Li",
-      "avatar": "https://nitter.net/pic/profile_images%2F1694723443516936192%2FP4urhIUm_bigger.jpg",
-      "content": "x.com/i/article/203317473594…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2033174735945609216\">x.com/i/article/203317473594…</a>",
-      "publishedAt": "2026-03-15T14:05:00.000Z",
-      "link": "https://x.com/hklst4r/status/2033182792029294736",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2033180831343386895",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -4061,25 +4040,6 @@
       }
     },
     {
-      "id": "2032853995790692793",
-      "username": "getjonwithit",
-      "displayName": "Jonathan Gorard",
-      "avatar": "https://nitter.net/pic/profile_images%2F1330192676222865414%2FmhhuGgKB_bigger.jpg",
-      "content": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
-      "contentHtml": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
-      "publishedAt": "2026-03-14T16:18:00.000Z",
-      "link": "https://x.com/getjonwithit/status/2032853995790692793",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032846785685725251",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -4499,31 +4459,6 @@
       }
     },
     {
-      "id": "2032693451666632916",
-      "username": "beffjezos",
-      "displayName": "Beff (e/acc)",
-      "avatar": "https://nitter.net/pic/profile_images%2F2005482858975023104%2Fs9wmB9qT_bigger.jpg",
-      "content": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
-      "contentHtml": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
-      "publishedAt": "2026-03-14T05:40:00.000Z",
-      "link": "https://x.com/beffjezos/status/2032693451666632916",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "joshrauh",
-        "displayName": "Joshua Rauh",
-        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
-        "link": "https://x.com/joshrauh/status/2032511222877401221"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032685062177935363",
       "username": "market_beggar",
       "displayName": "貝格先生🐢",
@@ -4588,31 +4523,6 @@
       "contentHtml": "META可能要裁员20%！！！\n市场预计26年运营花费1136亿，20%就是227亿！\n因为前期的资本开支，我说过META其实是所有大科技里最浪费的，因为GPU都用在了科研上，没出成果之前都是0回报！现在裁员可以省227亿，能把利润率拉高到44%，25年是41.4%，去掉裁员的遣散费等等，今年也许还能保住40%（现在市场预期是34.6%）\n市场担心大科技自由现金流没了？一个比较残忍的事实可能是拿OPEX（运营花费）换CAPEX（资本开支）。对于传统企业来说，接下去将会看到他们在软件上的支出只会更多不会更少，拿OPEX换软件支出来增效。",
       "publishedAt": "2026-03-14T04:52:00.000Z",
       "link": "https://x.com/TJ_Research/status/2032681318476059018",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032671617155731876",
-      "username": "moseskagan",
-      "displayName": "Moses Kagan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1784227025940860929%2Fa6t7PV2r_bigger.jpg",
-      "content": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
-      "contentHtml": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
-      "publishedAt": "2026-03-14T04:14:00.000Z",
-      "link": "https://x.com/moseskagan/status/2032671617155731876",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "joshrauh",
-        "displayName": "Joshua Rauh",
-        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
-        "link": "https://x.com/joshrauh/status/2032511222877401221"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5628,25 +5538,6 @@
       }
     },
     {
-      "id": "2032448290638504216",
-      "username": "rauchg",
-      "displayName": "Guillermo Rauch",
-      "avatar": "https://nitter.net/pic/profile_images%2F1783856060249595904%2F8TfcCN0r_bigger.jpg",
-      "content": "Obsession is the mother of invention",
-      "contentHtml": "Obsession is the mother of invention",
-      "publishedAt": "2026-03-13T13:26:00.000Z",
-      "link": "https://x.com/rauchg/status/2032448290638504216",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032446684752748827",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -5796,25 +5687,6 @@
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "piped.video/live/rsXj54tDi90… nitter.net/i/broadcasts/1mGPaLdQZ…",
         "link": "https://x.com/Bitfatty/status/2032344512652263559"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032384444816867390",
-      "username": "heyibinance",
-      "displayName": "Yi He",
-      "avatar": "https://nitter.net/pic/profile_images%2F1974520590410170369%2Fq2Q0S0fa_bigger.jpg",
-      "content": "作为一个曾经的媒体从业者，一度为媒体从业者是“无冕之王”而骄傲，但什么时候起，出版自由变成了诋毁自由？自己是个锤子，看谁都是钉子。\n这是关于诋毁和虚假指控的第三次胜诉，所有人都说劝我们说和媒体打官司胜算不多，但总得有人做点什么来改变这个陈旧腐烂的新闻业。\n是否有的记者只要拿着“新闻自由”，就可以用虚假故事做勒索币安的帮凶，用耸人听闻的模糊字眼来获取流量？如果这样我以曾经是媒体人为耻，也很愿意继续去打一个个胜算不大的官司。",
-      "contentHtml": "作为一个曾经的媒体从业者，一度为媒体从业者是“无冕之王”而骄傲，但什么时候起，出版自由变成了诋毁自由？自己是个锤子，看谁都是钉子。\n这是关于诋毁和虚假指控的第三次胜诉，所有人都说劝我们说和媒体打官司胜算不多，但总得有人做点什么来改变这个陈旧腐烂的新闻业。\n是否有的记者只要拿着“新闻自由”，就可以用虚假故事做勒索币安的帮凶，用耸人听闻的模糊字眼来获取流量？如果这样我以曾经是媒体人为耻，也很愿意继续去打一个个胜算不大的官司。",
-      "publishedAt": "2026-03-13T09:13:00.000Z",
-      "link": "https://x.com/heyibinance/status/2032384444816867390",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
       },
       "stats": {
         "replies": 0,
@@ -7309,37 +7181,6 @@
       }
     },
     {
-      "id": "2031956026308678102",
-      "username": "mattwridley",
-      "displayName": "Matt Ridley",
-      "avatar": "https://nitter.net/pic/profile_images%2F1230960194194149380%2FSw7D18gf_bigger.jpg",
-      "content": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
-      "contentHtml": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
-      "publishedAt": "2026-03-12T04:50:00.000Z",
-      "link": "https://x.com/mattwridley/status/2031956026308678102",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Rebecca21951651",
-        "displayName": "Rebecc@ ███████",
-        "content": "So the theory is that there was a virus circulating in bats & then it somehow got an FCS optimally suited to infect humans & it was so perfected to launch a pandemic that the spike initially did not evolve at all?",
-        "link": "https://x.com/Rebecca21951651/status/2031868886488920103",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDKl-Y5aoAAUlSe.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031954767539552324",
       "username": "CycleStudies",
       "displayName": "百萬Eric | Day Trader",
@@ -7516,31 +7357,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHDGErFqaMAEOAy1.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031883482557780365",
-      "username": "cremieuxrecueil",
-      "displayName": "Crémieux",
-      "avatar": "https://nitter.net/pic/profile_images%2F1637507712983375875%2FEQHiqVq8_bigger.jpg",
-      "content": "So the proposed California wealth tax is an effort by a corrupt healthcare union to blackmail Gavin Newsom into giving them a bunch of free stuff.\n\nAnd they don't really care if it passes. They just want free stuff.\n\nCool. Democracy.",
-      "contentHtml": "So the proposed California wealth tax is an effort by a corrupt healthcare union to blackmail Gavin Newsom into giving them a bunch of free stuff.\n\nAnd they don't really care if it passes. They just want free stuff.\n\nCool. Democracy.",
-      "publishedAt": "2026-03-12T00:02:00.000Z",
-      "link": "https://x.com/cremieuxrecueil/status/2031883482557780365",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDKzDyPbAAAP9UF.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -8872,25 +8688,6 @@
       }
     },
     {
-      "id": "2031340940573684125",
-      "username": "FrontierLab_ZH",
-      "displayName": "Frontier Lab 中文",
-      "avatar": "https://nitter.net/pic/profile_images%2F1777659632871424000%2FhZFVT5tb_bigger.jpg",
-      "content": "x.com/i/article/203096902716…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2030969027162673152\">x.com/i/article/203096902716…</a>",
-      "publishedAt": "2026-03-10T12:06:00.000Z",
-      "link": "https://x.com/FrontierLab_ZH/status/2031340940573684125",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031326610276889087",
       "username": "OwenJin12",
       "displayName": "Owen.btc 🟧",
@@ -9527,39 +9324,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDBDfjvbUAAV8NQ.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031196547812306984",
-      "username": "Hzzzz666",
-      "displayName": "Hzzzz",
-      "avatar": "https://nitter.net/pic/profile_images%2F1959499539607617536%2F9ZWsHyhY_bigger.jpg",
-      "content": "我在 @Bybit_Official 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n@Bybit_Official @Bybit_ZH @Alpha_Bybit @linabybit @benbybit",
-      "contentHtml": "我在 <a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n<a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> <a href=\"/Bybit_ZH\" title=\"Bybit 华语\">@Bybit_ZH</a> <a href=\"/Alpha_Bybit\" title=\"Bybit Alpha\">@Alpha_Bybit</a> <a href=\"/linabybit\" title=\"Lina🦊Bybit\">@linabybit</a> <a href=\"/benbybit\" title=\"Ben Zhou\">@benbybit</a>",
-      "publishedAt": "2026-03-10T02:32:00.000Z",
-      "link": "https://x.com/Hzzzz666/status/2031196547812306984",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUXaMAQRMzk.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUJaMAIHZqW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfULaMAYYPy9.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "daidaibtc",
-        "displayName": "带带带比特"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10632,25 +10396,6 @@
       }
     },
     {
-      "id": "2030911858652418167",
-      "username": "sxzz",
-      "displayName": "老沙",
-      "avatar": "https://nitter.net/pic/profile_images%2F1869962277123960834%2FwYYRsJ5c_bigger.jpg",
-      "content": "x.com/i/article/203090674803…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2030906748031381505\">x.com/i/article/203090674803…</a>",
-      "publishedAt": "2026-03-09T07:41:00.000Z",
-      "link": "https://x.com/sxzz/status/2030911858652418167",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2030907866656469006",
       "username": "OwenJin12",
       "displayName": "Owen.btc 🟧",
@@ -11396,6 +11141,213 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHC6jSZyaUAEd0ds.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030093765407629449",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "专注力可能是最被低估的一个能力. 特别是当大家都有了“AI赋能幻觉”的时候, 单纯through put的带来的效能产出已经没有那么大了",
+      "contentHtml": "专注力可能是最被低估的一个能力. 特别是当大家都有了“AI赋能幻觉”的时候, 单纯through put的带来的效能产出已经没有那么大了",
+      "publishedAt": "2026-03-07T01:30:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2030093765407629449",
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "我妈从小毒舌我的金句: 没有情绪稳定和专注力, 智商根本没有机会上场 😂 妈咪有些话说的很直接, 但是想想都是life wisdom.",
+        "link": "https://x.com/DoveyWanCN/status/1929180282521076098"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030008782257029124",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "Lighter was such an easy dump once it became public that they gave 10% of the airdrop to Jump",
+      "contentHtml": "Lighter was such an easy dump once it became public that they gave 10% of the airdrop to Jump",
+      "publishedAt": "2026-03-06T19:53:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2030008782257029124",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029947570613866684",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "68K 的 LIQ 已經超過 4 了，之前 63-65K LIQ 大概也處於這個水平。\n\n感覺摸到 74K 之後，讓整個震盪箱體往上位移了一個台階。\n\n月線已經連五紅了，統計上來說三月收漲機率是比較高的，三月開盤是 67K 左右，離現價也沒有太遠，下好離手吧。",
+      "contentHtml": "68K 的 LIQ 已經超過 4 了，之前 63-65K LIQ 大概也處於這個水平。\n\n感覺摸到 74K 之後，讓整個震盪箱體往上位移了一個台階。\n\n月線已經連五紅了，統計上來說三月收漲機率是比較高的，三月開盤是 67K 左右，離現價也沒有太遠，下好離手吧。",
+      "publishedAt": "2026-03-06T15:49:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2029947570613866684",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCvRxTGbsAA5Rjd.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029886632913162369",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "I had an internship in finance in Paris\n\nI used to do the laundry and clean everything to milk 50 euros per night on airbnb. Then I would go sleep at my gf at the time. She was def the goat.\n\nI saved 2-3k euros to ape ETH in may 17.\n\nLegendary memories in the trenches.",
+      "contentHtml": "I had an internship in finance in Paris\n\nI used to do the laundry and clean everything to milk 50 euros per night on airbnb. Then I would go sleep at my gf at the time. She was def the goat.\n\nI saved 2-3k euros to ape ETH in may 17.\n\nLegendary memories in the trenches.",
+      "publishedAt": "2026-03-06T11:47:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2029886632913162369",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029885487083855985",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "This is where I bought my first ETH back in 2017.\n\n17 square meter in Paris.\n\nNever stop believing.",
+      "contentHtml": "This is where I bought my first ETH back in 2017.\n\n17 square meter in Paris.\n\nNever stop believing.",
+      "publishedAt": "2026-03-06T11:43:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2029885487083855985",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCuZ9b-aAAA-bzy.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029804463301804374",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "有點妙，OpenAI 直接跳過 GPT-5.3 通用版發布 GPT 5.4，感覺 coding 專用模型要分家了",
+      "contentHtml": "有點妙，OpenAI 直接跳過 GPT-5.3 通用版發布 GPT 5.4，感覺 coding 專用模型要分家了",
+      "publishedAt": "2026-03-06T06:21:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2029804463301804374",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029196257051480274",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1982606819244605440%2F2IYiLUQI_bigger.jpg",
+      "content": "国内好吃的实在太多了，根本管不住嘴！🤤",
+      "contentHtml": "国内好吃的实在太多了，根本管不住嘴！🤤",
+      "publishedAt": "2026-03-04T14:04:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2029196257051480274",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCknPJwaUAA0gE4.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029128420530258180",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "$220M volume in 24 hours\n\nWe keep farming these invisible points\n\nHyperliquid",
+      "contentHtml": "$220M volume in 24 hours\n\nWe keep farming these invisible points\n\nHyperliquid",
+      "publishedAt": "2026-03-04T09:34:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2029128420530258180",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCjpIiKawAEeXlL.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029125917038264841",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "硅谷企业AI瘦身的逻辑很清晰: 干掉没有直接产出和产品创新的团队, 干掉各种支持性的团队/各种锦上添花的团队. 干掉过去非常冗余的中层EM/PM/DM. 这不比GLP1瘦身都厉害 🤣 干掉皮下/内脏脂肪还不掉肌肉",
+      "contentHtml": "硅谷企业AI瘦身的逻辑很清晰: 干掉没有直接产出和产品创新的团队, 干掉各种支持性的团队/各种锦上添花的团队. 干掉过去非常冗余的中层EM/PM/DM. 这不比GLP1瘦身都厉害 🤣 干掉皮下/内脏脂肪还不掉肌肉",
+      "publishedAt": "2026-03-04T09:24:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2029125917038264841",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029124753857110057",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "Meta AI Manager:IC 要变成 1:50了. 很快应该是 1:5:50 lol 以后的KPI都不应该是DAU, 应该是DAT Daily Active Token",
+      "contentHtml": "Meta AI Manager:IC 要变成 1:50了. 很快应该是 1:5:50 lol 以后的KPI都不应该是DAU, 应该是DAT Daily Active Token",
+      "publishedAt": "2026-03-04T09:20:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2029124753857110057",
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "和这波硅谷被裁的几个朋友聊了聊, 都是我觉得能力非常强的朋友.. 毕业后升的非常快, 在公司的绩效基本都是封顶. 过去我觉得是“平庸”会被AI替代, 但是ai大加速的背景下, 企业整体的kpi体系会被颠覆和重写.. 在指数增长的机器效能面前, 过去的“优秀” 也毫无意义. 过去社会定义下的“职业道路”完全是个鱿鱼游戏, 唯一的机会在于找到那些游戏规则本身在就在进化的领域，然后在规则还没彻底明确的时候，极致地玩下去",
+        "link": "https://x.com/DoveyWanCN/status/2028412672283496733"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2029094417748115729",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "You got all your savings rug-pulled by a French dev\n\nYour girl dumped you for a French guy after watching Emily in Paris\n\nAnd if you’re not happy about it, we might nuke your whole country",
+      "contentHtml": "You got all your savings rug-pulled by a French dev\n\nYour girl dumped you for a French guy after watching Emily in Paris\n\nAnd if you’re not happy about it, we might nuke your whole country",
+      "publishedAt": "2026-03-04T07:19:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2029094417748115729",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHCjJrv3bMAAG05h.jpg"
         }
       ],
       "stats": {
