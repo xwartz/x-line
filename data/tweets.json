@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T09:48:50.360Z",
+  "lastUpdated": "2026-03-18T10:26:48.810Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,73 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 506,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 446,
+    "successUsers": 22,
+    "failedUsers": 5
   },
   "tweets": [
+    {
+      "id": "2034209211597684822",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "想吃炒菜了\n\n果断 湖蓝菜走起",
+      "contentHtml": "想吃炒菜了\n\n果断 湖蓝菜走起",
+      "publishedAt": "2026-03-18T10:04:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2034209211597684822",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDr2fc_bYAALf7I.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDr2fc_bcAAeorZ.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDr2fdCaEAE_KmN.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034206101416403073",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "肥汉三又杀回来了\n上次本来都三倍了，btc多单没止盈直接打回去了\n\n做多 $zec 也是差点爆了\n\n还好，第一个500u 没亏完",
+      "contentHtml": "肥汉三又杀回来了\n上次本来都三倍了，btc多单没止盈直接打回去了\n\n做多 <a href=\"/search?f=tweets&q=%23zec\">$zec</a> 也是差点爆了\n\n还好，第一个500u 没亏完",
+      "publishedAt": "2026-03-18T09:51:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2034206101416403073",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDrzqfCaAAAFkUW.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "一天翻倍😎",
+        "link": "https://x.com/Bitfatty/status/2029194905290162499",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCkmAlZawAcYWmb.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2034195526540054817",
       "username": "0xleng1",
@@ -667,47 +729,6 @@
       "contentHtml": "过去75年，平均每年年中下跌14%，无论暂时还没有下跌空间，跌是市场的一部分。",
       "publishedAt": "2026-03-18T00:54:00.000Z",
       "link": "https://x.com/TJ_Research/status/2034070823082906059",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034065157757014041",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://nitter.net/pic/profile_images%2F1453864539720601606%2FrEHaWNk1_bigger.jpg",
-      "content": "监管大动作的落地，昨晚SEC发布了名为《联邦证券法对某些类型加密资产和涉及加密资产某些交易的适用性》最终解释性指引。这是SEC联合CFTC针对加密资产监管提供长期框架的明确指导，结束了过去多年“通过执法来监管”的模式，我们所期待的加密行业监管情绪度更进一步了。\n\n指引的核心要点\n1、加密资产分类，首次给出清晰的五类划分：\n1）Digital Commodities数字商品\n明确提出BTC、ETH、SOL、XRP、ADA、DOGE、SHIB、AVAX、LINK 等加密资产是数字商品不属于证券，价值主要来自功能性网络运行、供需。\n2）Digital Collectibles数字收藏品\n如NFT艺术品、meme币、CryptoPunks等不属于证券，主要具有艺术/社交/收藏价值。\n3）Digital Tools数字工具\n如ENS域名、实用凭证、门票等 — 不属于证券，提供实际功能。\n4）Stablecoins稳定币：\n符合GENIUS Act定义的“payment stablecoin”由许可发行人发行的稳定币也不属于证券；\n5）Digital Securities数字证券/代币化证券代币化股票、债券等依然属于证券\n\n2. 非证券加密资产何时变成/不再是投资合同（Howey Test应用）\n1）当发行人通过承诺“essential managerial efforts”（开发功能、里程碑、使用资金等）诱导投资者合理预期利润时，非证券资产可被视为投资合同（即证券）。\n2）一旦发行人履行完毕承诺，投资合同关系终止，该资产不再受证券法约束。\n\n这是重大转变，过去SEC常认为“永远是证券”，相当于说刚开始ico或者私募时候被视为证券，但是如果代币解锁完，社区化程度高，时候也就不被视为证券了。\n\n3. 几类常见链上活动被明确为非证券（在满足条件时）：\n1）PoW挖矿，包括矿池属于非证券；\n2）协议质押PoS staking（包括自 staking、托管staking、流动性质押/liquid staking）非证券，只要是按协议规则运行、非保证收益、非出借资产。\n3）Staking Receipt Tokens流动性质押凭证，如stETH如果1:1对应底层非证券资产，且按协议自动反映奖励，也属于非证券。\n4）Wrapping / Wrapped Tokens跨链包装，如果是1:1可赎回、无收益承诺、无资金池化 也属于非证券。\n5）Airdrops空投：如果无对价（没花钱、没提供服务/商品）的情况下 — 不满足Howey的“investment of money”要件，也非证券。\n\n做为解释性规则，这份指引立即生效。\n可以说是加密监管的起重大，为大饼、以太、主流Layer1、主流staking、主流NFT、主流空投等提供了相对清晰的“非证券”地位，同时保留了对欺诈性发行和持续承诺型项目的监管空间。",
-      "contentHtml": "监管大动作的落地，昨晚SEC发布了名为《联邦证券法对某些类型加密资产和涉及加密资产某些交易的适用性》最终解释性指引。这是SEC联合CFTC针对加密资产监管提供长期框架的明确指导，结束了过去多年“通过执法来监管”的模式，我们所期待的加密行业监管情绪度更进一步了。\n\n指引的核心要点\n1、加密资产分类，首次给出清晰的五类划分：\n1）Digital Commodities数字商品\n明确提出BTC、ETH、SOL、XRP、ADA、DOGE、SHIB、AVAX、LINK 等加密资产是数字商品不属于证券，价值主要来自功能性网络运行、供需。\n2）Digital Collectibles数字收藏品\n如NFT艺术品、meme币、CryptoPunks等不属于证券，主要具有艺术/社交/收藏价值。\n3）Digital Tools数字工具\n如ENS域名、实用凭证、门票等 — 不属于证券，提供实际功能。\n4）Stablecoins稳定币：\n符合GENIUS Act定义的“payment stablecoin”由许可发行人发行的稳定币也不属于证券；\n5）Digital Securities数字证券/代币化证券代币化股票、债券等依然属于证券\n\n2. 非证券加密资产何时变成/不再是投资合同（Howey Test应用）\n1）当发行人通过承诺“essential managerial efforts”（开发功能、里程碑、使用资金等）诱导投资者合理预期利润时，非证券资产可被视为投资合同（即证券）。\n2）一旦发行人履行完毕承诺，投资合同关系终止，该资产不再受证券法约束。\n\n这是重大转变，过去SEC常认为“永远是证券”，相当于说刚开始ico或者私募时候被视为证券，但是如果代币解锁完，社区化程度高，时候也就不被视为证券了。\n\n3. 几类常见链上活动被明确为非证券（在满足条件时）：\n1）PoW挖矿，包括矿池属于非证券；\n2）协议质押PoS staking（包括自 staking、托管staking、流动性质押/liquid staking）非证券，只要是按协议规则运行、非保证收益、非出借资产。\n3）Staking Receipt Tokens流动性质押凭证，如stETH如果1:1对应底层非证券资产，且按协议自动反映奖励，也属于非证券。\n4）Wrapping / Wrapped Tokens跨链包装，如果是1:1可赎回、无收益承诺、无资金池化 也属于非证券。\n5）Airdrops空投：如果无对价（没花钱、没提供服务/商品）的情况下 — 不满足Howey的“investment of money”要件，也非证券。\n\n做为解释性规则，这份指引立即生效。\n可以说是加密监管的起重大，为大饼、以太、主流Layer1、主流staking、主流NFT、主流空投等提供了相对清晰的“非证券”地位，同时保留了对欺诈性发行和持续承诺型项目的监管空间。",
-      "publishedAt": "2026-03-18T00:31:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2034065157757014041",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDpzemLbEAAYiga.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "这两天政策监管的两个大动作：SEC与CFTC签署谅解备忘录、SEC的极限版“创新豁免”要来了。总结下来就是对加密的监管不确定性消失，代币化可以在美国本土落地了。\n\n前者的意义在于：1）两大监管机构结束长达多年的“管辖权争夺”。过去SEC和CFTC在加密、衍生品等领域经常抢地盘，导致企业要双重注册、遵守两套不同规则，创新被卡住、成本暴增，甚至被迫跑到海外。这次正式握手言和，用“最小有效监管”（minimum effective dose）原则，消除重复、填补漏洞，让监管更高效。\n\n2）给加密行业和创新带来确定性  \n两家明确要为crypto assets制定专门框架，支持“合法创新”。这对DeFi、稳定币、加密衍生品等是重大利好——企业不再担心“今天SEC告你，明天CFTC再来一次”。这将大幅降低美国加密企业的合规不确定性。\n\n后者有限版“创新豁免”的意义：\n1）允许有限交易某些代币化证券，让传统金融公司（TradFi）和加密原生项目开始行动起来。\n\n2）代币化股票、地产、基金等RWA项目终于能在美国本土小范围测试了（之前只能去欧洲、亚洲等其他监管区），这对BlackRock、BNY Mellon、Kraken等已经布局tokenization的大机构是明确信号——“门开了，哪怕只开一条缝”。\n\n3）当然DeFi纯玩家、杠杆衍生品、稳定币大额交易暂时还不在这个窄豁免里（要等后续或国会法案）。短期内不会“爆炸式”创新，但至少结束了“监管真空+执法围剿”的时代。\n\n4）长期看：Atkins强调这是通往“适合目的监管”（fit-for-purpose）的第一步。等数据收集够了，窄豁免很可能扩大成更广的框架。",
-        "link": "https://x.com/qinbafrank/status/2032449834846970151",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDS2NydasAAAQIc.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDS2NyabkAAXJ-g.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -1828,25 +1849,6 @@
       "contentHtml": "感觉市场很惊讶英伟达推出了自己的CPU? 上次财报就说过了。另外老黄的下一个饼是PHYSICAL AI，自动驾驶，这块饼没有那么大，因为这些车企没钱，微软一家的资本开支顶他们所有加一起再翻个3倍。到了现在这个体量，英伟达的增速得看大科技和两家大模型的现金流增速，其他的公司和国家，下个几十亿订单已经不够看了。当然还有另外一家到现在没下场的巨无霸",
       "publishedAt": "2026-03-17T00:21:00.000Z",
       "link": "https://x.com/TJ_Research/status/2033700234161778784",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033699853889319194",
-      "username": "Citrini7",
-      "displayName": "Citrini",
-      "avatar": "https://nitter.net/pic/profile_images%2F1875761503686582272%2FVhlaZoEp_bigger.jpg",
-      "content": "If sentiment flips positive here it seems like crypto has the most torque",
-      "contentHtml": "If sentiment flips positive here it seems like crypto has the most torque",
-      "publishedAt": "2026-03-17T00:20:00.000Z",
-      "link": "https://x.com/Citrini7/status/2033699853889319194",
-      "retweet": {
-        "username": "JoshuaDeuk",
-        "displayName": "Joshua | MOZAIK 🇰🇷"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -3329,25 +3331,6 @@
       "contentHtml": "期货开盘前一小时，华尔街日报：美国准备和一些国家一起保护海峡航运安全，谁？一些是哪些？😂\n不如贝森特一会直接干预市场来得直接，配合新闻，再砸一波原油多头，看看。",
       "publishedAt": "2026-03-15T21:22:00.000Z",
       "link": "https://x.com/TJ_Research/status/2033292817716707353",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033280792324104379",
-      "username": "usakes_zhang",
-      "displayName": "usakes",
-      "avatar": "https://nitter.net/pic/profile_images%2F1941306528398704644%2FvLx14LTv_bigger.jpg",
-      "content": "投资情绪切勿被股价牵着鼻子走\n\n如果对公司的执行力没信心就清仓不看\n\n一个公司进展是否顺利，普通投资人如果能猜出来那就全都大富翁了\n\n你问我去年为什么敢168买谷歌75买circle，29买intel和lmnd，持续加仓tsla？\n\n那些在股价低迷时质疑声越大的，现在他们就有多后悔🙂",
-      "contentHtml": "投资情绪切勿被股价牵着鼻子走\n\n如果对公司的执行力没信心就清仓不看\n\n一个公司进展是否顺利，普通投资人如果能猜出来那就全都大富翁了\n\n你问我去年为什么敢168买谷歌75买circle，29买intel和lmnd，持续加仓tsla？\n\n那些在股价低迷时质疑声越大的，现在他们就有多后悔🙂",
-      "publishedAt": "2026-03-15T20:34:00.000Z",
-      "link": "https://x.com/usakes_zhang/status/2033280792324104379",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11393,6 +11376,43 @@
         "displayName": "带带带比特",
         "content": "有没有地方可以做空这个逼龙虾",
         "link": "https://x.com/daidaibtc/status/2030626320963834062"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2030781709768368311",
+      "username": "0xSunNFT",
+      "displayName": "0xSun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820705442735296512%2Fej9BX01I_bigger.png",
+      "content": "去年10月的时候，我提到了自己重点在刷的两个平台，分别是 @Lighter_xyz 和 @tradexyz 。\n\n当时有几个Perp dex的数据逼近甚至超越Lighter，也基本都联系了我希望合作，我在考虑之后都拒绝了，因为我认为Lighter的空投很可能是纯Perp dex赛道的最后一个大毛，目前的情况也比较符合我的判断。\n\n那时候市场还处于Hype和Aster带来的极度Fomo之中，而Lighter从产品力、团队、融资背景等角度都可圈可点，也很早就推出了金属、美股等RWA交易对，是龙二的强有力竞争者，又在恰当的时机选择了发币，因此空投带来了丰厚的奖励。\n\n我选择在$3.3的位置进行套保，并在$2.3的价格平仓，但后续又在$1.7的均价买回了接近100万个，前几天在$1.4割肉，目前已经跌到了$1.1。\n\nLIT持续下跌的主要原因，我认为是两点，第一是LIT目前的最大赋能，是质押可以获得存入LLP的额度，但是LLP的收益率持续走低，近30天的平均年化只有1.52%，甚至低于美债收益率，毫无吸引力；第二是目前整个加密市场都在由交易山寨币向交易RWA资产转变，Lighter本来具有一定的先发优势，但是流动性和深度没有跟上，除了少数四五种资产之外，其他大部分交易对的OI和单日成交量都在1.5M以下，不足以支撑大户的交易需求，零手续费也难以覆盖点差的损失。\n\n这也是为什么我思考过后选择了清仓，我个人还是比较看好Lighter团队的能力的，如果上述两点问题有所改善，并且团队在沟通、交付上都能持续进步，或是继续下跌到足够有性价比的位置，我会考虑重新买入。\n\n目前与Perp dex相关，还比较值得关注的赛道，一个是RWA，另一个是Broker，过几天会再写一条推文，\n\n提到RWA，就绕不过TradeXYZ。数据上，XYZ在全Perp dex赛道的OI和周交易量都已经进入前五，是这个细分品类毫无争议的龙头，尽管XYZ并没有明确的空投预期，但单纯从产品角度，我认为也值得体验。\n\n最大的角度，就在于它背后的真实需求：\n\n7*24开放交易，非常适合在美股盘前盘后的时间针对突发事件、财报等押注。本周末尽管CL原油触及了最大价差限制，也达到了166M的24H交易量，如果你希望赶在期货开盘前针对新闻进行押注，XYZ已经成了少数具有可操作性的选择。值得一提的是，仅仅在刚刚原油期货开盘的第一小时，CL-USDC的交易量就达到了147M。\n\nPermissionless，无需KYC、AML等繁琐步骤，也不需要换汇、跨境转账等等，用链上钱包就能交易全球资产。前段时间整个推特都在Fomo三星和SK海力士，但是大部分人没有办法购买韩股，只能通过各种指数、基金等方式，不惜承受溢价和稀释也要曲线买入，足以说明问题。\n\n当然同样的，这些优点也对应着一些弊端：\n\n高昂的资金费率，很多时候某些资产的费率高达50%以上，长持不现实，只能作为短期波段选择。这里对于有办法打通法币出入金+正股购买渠道的用户而言，也蕴含着巨大的套利机会。\n\n潜在的监管和法律风险，这也是我认为目前Hyperliquid和XYZ最大的潜在利空。\n\n此外，即使是龙头平台XYZ，目前头部资产的单日交易量和OI也只是在50~200M这个数量级，和美股正股相比依然有数百倍的差距，和BTC、ETH合约相比也有数十倍差距，难以容纳真正的大资金。\n\n关于是否空投的推测，目前众说纷纭，部分Hyperliquid社区用户认为，即使XYZ最后选择不发币，Hyperliquid也可能给HIP-3协议项目方发放Hype作为激励。\n\n瑕不掩瑜，Perp dex结合RWA依然是现在币圈最具PMF的方向之一，其实很可能没有之一，无论是为了潜在的空投可能性，还是单纯体验，都绝对值得关注。",
+      "contentHtml": "去年10月的时候，我提到了自己重点在刷的两个平台，分别是 <a href=\"/Lighter_xyz\" title=\"Lighter\">@Lighter_xyz</a> 和 <a href=\"/tradexyz\" title=\"trade.xyz\">@tradexyz</a> 。\n\n当时有几个Perp dex的数据逼近甚至超越Lighter，也基本都联系了我希望合作，我在考虑之后都拒绝了，因为我认为Lighter的空投很可能是纯Perp dex赛道的最后一个大毛，目前的情况也比较符合我的判断。\n\n那时候市场还处于Hype和Aster带来的极度Fomo之中，而Lighter从产品力、团队、融资背景等角度都可圈可点，也很早就推出了金属、美股等RWA交易对，是龙二的强有力竞争者，又在恰当的时机选择了发币，因此空投带来了丰厚的奖励。\n\n我选择在$3.3的位置进行套保，并在$2.3的价格平仓，但后续又在$1.7的均价买回了接近100万个，前几天在$1.4割肉，目前已经跌到了$1.1。\n\nLIT持续下跌的主要原因，我认为是两点，第一是LIT目前的最大赋能，是质押可以获得存入LLP的额度，但是LLP的收益率持续走低，近30天的平均年化只有1.52%，甚至低于美债收益率，毫无吸引力；第二是目前整个加密市场都在由交易山寨币向交易RWA资产转变，Lighter本来具有一定的先发优势，但是流动性和深度没有跟上，除了少数四五种资产之外，其他大部分交易对的OI和单日成交量都在1.5M以下，不足以支撑大户的交易需求，零手续费也难以覆盖点差的损失。\n\n这也是为什么我思考过后选择了清仓，我个人还是比较看好Lighter团队的能力的，如果上述两点问题有所改善，并且团队在沟通、交付上都能持续进步，或是继续下跌到足够有性价比的位置，我会考虑重新买入。\n\n目前与Perp dex相关，还比较值得关注的赛道，一个是RWA，另一个是Broker，过几天会再写一条推文，\n\n提到RWA，就绕不过TradeXYZ。数据上，XYZ在全Perp dex赛道的OI和周交易量都已经进入前五，是这个细分品类毫无争议的龙头，尽管XYZ并没有明确的空投预期，但单纯从产品角度，我认为也值得体验。\n\n最大的角度，就在于它背后的真实需求：\n\n7*24开放交易，非常适合在美股盘前盘后的时间针对突发事件、财报等押注。本周末尽管CL原油触及了最大价差限制，也达到了166M的24H交易量，如果你希望赶在期货开盘前针对新闻进行押注，XYZ已经成了少数具有可操作性的选择。值得一提的是，仅仅在刚刚原油期货开盘的第一小时，CL-USDC的交易量就达到了147M。\n\nPermissionless，无需KYC、AML等繁琐步骤，也不需要换汇、跨境转账等等，用链上钱包就能交易全球资产。前段时间整个推特都在Fomo三星和SK海力士，但是大部分人没有办法购买韩股，只能通过各种指数、基金等方式，不惜承受溢价和稀释也要曲线买入，足以说明问题。\n\n当然同样的，这些优点也对应着一些弊端：\n\n高昂的资金费率，很多时候某些资产的费率高达50%以上，长持不现实，只能作为短期波段选择。这里对于有办法打通法币出入金+正股购买渠道的用户而言，也蕴含着巨大的套利机会。\n\n潜在的监管和法律风险，这也是我认为目前Hyperliquid和XYZ最大的潜在利空。\n\n此外，即使是龙头平台XYZ，目前头部资产的单日交易量和OI也只是在50~200M这个数量级，和美股正股相比依然有数百倍的差距，和BTC、ETH合约相比也有数十倍差距，难以容纳真正的大资金。\n\n关于是否空投的推测，目前众说纷纭，部分Hyperliquid社区用户认为，即使XYZ最后选择不发币，Hyperliquid也可能给HIP-3协议项目方发放Hype作为激励。\n\n瑕不掩瑜，Perp dex结合RWA依然是现在币圈最具PMF的方向之一，其实很可能没有之一，无论是为了潜在的空投可能性，还是单纯体验，都绝对值得关注。",
+      "publishedAt": "2026-03-08T23:04:00.000Z",
+      "link": "https://x.com/0xSunNFT/status/2030781709768368311",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC7JMsdbgAAfKLj.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHC7H-kiaQAAGijg.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xSunNFT",
+        "displayName": "0xSun",
+        "content": "来都来了，打下广告：\n\nHL我是刷交易量排队准备参与 @tradexyz \ntrade.xyz/?ref=0ZT4K6R84\n\n现在Perp Dex我一般用Lighter，交易的同时刷刷分，非常丝滑：\napp.lighter.xyz/trade/ETH?re…",
+        "link": "https://x.com/0xSunNFT/status/1982334510504267943",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG4Kqhq4X0AAshoM.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
