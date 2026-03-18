@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T12:20:11.610Z",
+  "lastUpdated": "2026-03-18T12:50:23.944Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,175 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 507,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 486,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2034250184645898740",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "昨天看见你了哥",
+      "contentHtml": "昨天看见你了哥",
+      "publishedAt": "2026-03-18T12:46:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034250184645898740",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDsbwRjb0AAMvkx.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDsbwQ6XEAAtKf5.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDsbwQ5XIAA5y60.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Jason60704294",
+        "displayName": "jasonleo",
+        "content": "已空莫辜负",
+        "link": "https://x.com/Jason60704294/status/2034249413947003213",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDsbDqibIAAPUQl.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034248434732200340",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "TradFi is learning the hard way: Blue Owl down 33% YTD near 5yr lows, redemptions gated. BlackRock halted withdrawals on their $26B fund. Now imagine looping these assets on-chain at 5x leverage with T+90 settlement...  The real RWA infra's core value prop is building repo mkt for assets that have never been tradeable. Tony breaks down the design space 👇",
+      "contentHtml": "TradFi is learning the hard way: Blue Owl down 33% YTD near 5yr lows, redemptions gated. BlackRock halted withdrawals on their $26B fund. Now imagine looping these assets on-chain at 5x leverage with T+90 settlement...  The real RWA infra's core value prop is building repo mkt for assets that have never been tradeable. Tony breaks down the design space 👇",
+      "publishedAt": "2026-03-18T12:39:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2034248434732200340",
+      "quote": {
+        "username": "0xtony0x",
+        "displayName": "Tony",
+        "content": "rwa looping seems to be the holy grail of why we put real world asset on-chain in the first place. the composability nature of tokenized asset largely increases the utility of that asset, meaning holders can borrow against it to apply leverage to their exposure. \n\nhowever, many rwa asset, especially private credit fund, is by nature illiquid. it is illiquid because its underlying positions are loan to mid-market companies, which are heterogenous so does not have a repo market like treasury note does. it often takes months to sell. this leads to a couple of downstream problems: \n\n1) long settlement period means looping is effectively impractical. because private credit fund like Apollo's ACRED is illiquid, it takes t+1 for minting & redemption only at every quarter. this means that it will takes months if someone wants a 5x leverage through looping and months to deleverage. time is money. during these time period, the nav of ACRED could change meaningfully that liquidate user's borrow positions before they can unwind the leverage. this hurts the user and also hurts the lending protocol (bad debt risk)\n\n2) nav reporting is discrete, not continuous. when credit risk does happen, the nav will jump discretely instead of continuously. this means it will again hurts liquidator, users, and protocol. for liquidators, they hold inventory risk between when they acquired the fund token and when they redeem the fund token for cash. for user, their position can just get liquidated. for protocols, the position could not get liquidated before LTV crosses 100%, leaving protocol having potential bad debt risk \n\nso how do we solve this so that users can loop RWA safely? \n\nget liquidity for illiquid asset. \n\n@multiliquid_xyz is creating a repo market for blue chip rwa assets. this is basically creating a liquidity layer on top so that user can get instant liquidity from liquidity providers (often times market makers). this works for tokenized treasury like Buidl but it is hard to have a deep liquidity for private credit product (or if it does, should be priced at a huge discount to compensate for the inventory risk) \n\n@3f_xyz uses a bridged loan provided by market makers via an auction to effectively outsource the settlement time-drag. they use the bridge loan to purchase the private credit funds and re-financed via morpho to pay back the bridged loan. vice versa for redemption. this is a neat solution but require very granular risk management by setting the optimal LTV ratio and onboarding market maker that are willing to bear the inventory risk. \n\nthis is still largely a nascent area. defi looping has largely been conducted atomically via flash loan. but the long settlement period for many rwa just make atomic mint/redemption impossible. \n\nif you are building around this area, would love to chat. I'm also around during DAS!",
+        "link": "https://x.com/0xtony0x/status/2033685833090314531"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034247584345206876",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "想到个有趣小故事：为什么感觉有些人很难沟通，因为他们可能不是“人”。要知道清末人口才大概3.2亿，而现在有约14亿人。这么多人哪来的呢，都是些草啊木啊猪啊狗啊投胎来的，他们做人的经验不多，所以很多言谈举止会和人有区别。",
+      "contentHtml": "想到个有趣小故事：为什么感觉有些人很难沟通，因为他们可能不是“人”。要知道清末人口才大概3.2亿，而现在有约14亿人。这么多人哪来的呢，都是些草啊木啊猪啊狗啊投胎来的，他们做人的经验不多，所以很多言谈举止会和人有区别。",
+      "publishedAt": "2026-03-18T12:36:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034247584345206876",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034247415872491814",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "卧底身份暴露了川建国同志\n\nDonald Trump\n中文名 川建国\n代号 Paper tiger",
+      "contentHtml": "卧底身份暴露了川建国同志\n\nDonald Trump\n中文名 川建国\n代号 Paper tiger",
+      "publishedAt": "2026-03-18T12:35:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034247415872491814",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDsZO8XX0AAUmYR.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034246957036618082",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "一如既往马前炮call顶🤟🏻\n阿马特拉斯🤦🏻‍♂️",
+      "contentHtml": "一如既往马前炮call顶🤟🏻\n阿马特拉斯🤦🏻‍♂️",
+      "publishedAt": "2026-03-18T12:34:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034246957036618082",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDsY0RJakAA-I88.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDsY0QvWoAA3Q9I.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDsY0QxWQAAj8Cu.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "没有牛回",
+        "link": "https://x.com/hazenlee/status/2033679789010391402"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034244510033510849",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "I told u\n翻了一下1月黄金5开头的评论区\n憋得我要内伤了",
+      "contentHtml": "I told u\n翻了一下1月黄金5开头的评论区\n憋得我要内伤了",
+      "publishedAt": "2026-03-18T12:24:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034244510033510849",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDsWl72aEAAYYy1.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDsWl7fWcAA5oJP.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "5000以上的黄金是福报\n就像接近5000的以小坊",
+        "link": "https://x.com/hazenlee/status/2015901084154470640"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2034240672761561416",
       "username": "Bitfatty",
@@ -130,6 +294,27 @@
       "contentHtml": "<a href=\"https://piped.video/live/EPmMNNrxTeU?feature=share\">piped.video/live/EPmMNNrxTeU…</a>\n\n要不要反手空 <a href=\"https://nitter.net/i/broadcasts/1OxwblmZnqRJB\">nitter.net/i/broadcasts/1OxwblmZn…</a>",
       "publishedAt": "2026-03-18T12:05:00.000Z",
       "link": "https://x.com/Bitfatty/status/2034239792377155594",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034238227033276543",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "明晚锐评一下🤪",
+      "contentHtml": "明晚锐评一下🤪",
+      "publishedAt": "2026-03-18T11:59:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034238227033276543",
+      "quote": {
+        "username": "Jing_MSX",
+        "displayName": "MSX景宝✨",
+        "content": "宝贝们明晚来MSX Space抽奖了🤩\n\n🎙️从本期开始景宝正式接手我们周度AMA的主持工作 和大家一起聊聊当下热门的话题\n\n🎤 嘉宾阵容：\nUNICORN @UnicornBitcoin\n𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀 @hazenlee\n秋荣 @joakja\n\n🔔 预约与收听：\nx.com/i/spaces/1AJEm…\n\n关注 @MSX_CN @msxcom + @Jing_MSX \n转发官方的这条推文，评论区附上你的 MSX 注册地址\n\n🎁 随机抽取 10 位，各赠送 15 刀 $NVDA.M 美股代币！",
+        "link": "https://x.com/Jing_MSX/status/2034209303754879096"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -777,13 +962,7 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "从今天起对币圈刷新\n#牛回  第一天\n长风破浪会有时，直挂云帆济沧海\n鼻涕西 冲啊👻👻👻",
-        "link": "https://x.com/Bitfatty/status/2029076345263906978",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCi6LYxawAI2i8q.jpg"
-          }
-        ]
+        "link": "https://x.com/Bitfatty/status/2029076345263906978"
       },
       "stats": {
         "replies": 0,
@@ -1611,6 +1790,31 @@
           "url": "https://nitter.net/pic/orig/media%2FHDmilh0bEAIX4zK.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033820809291026440",
+      "username": "WizardTraderX",
+      "displayName": "巫师 · Trader",
+      "avatar": "https://nitter.net/pic/profile_images%2F1575642289577271300%2F1sj7-YiZ_bigger.jpg",
+      "content": "达里奥有个套路：（现在他文章我一般不看，看了想吐）\n\n把所有历史事件塞进同一套模板，债务周期、大国冲突、货币贬值，转来转去永远是那几个齿轮咬合。\n\n他说这是洞见，但在我看来就是瞎掰。他不论是文章还是写的书就像一个函数——输入任何现实，输出同一个结论：系统性危机即将到来。\n\n先不讲他说的对不对，而在于一个框架如果对所有情况都适用，它对任何具体情况就都没有预测力。\n\n更值得警惕的是他对自己角色的定位。对历史的痴迷背后是一种先知冲动——我看见了别人看不见的规律，我站在历史的制高点上，我来告诉你们文明的走向。印钞导致崩溃，泡沫导致萧条，民粹导致战争，结论永远指向灾难，因为灾难才配得上先知的体量。\n\n一旦独立判断被先知叙事替代，Dalio就不再只是一个分析师。他成了他自己框架里最危险的那个变量。",
+      "contentHtml": "达里奥有个套路：（现在他文章我一般不看，看了想吐）\n\n把所有历史事件塞进同一套模板，债务周期、大国冲突、货币贬值，转来转去永远是那几个齿轮咬合。\n\n他说这是洞见，但在我看来就是瞎掰。他不论是文章还是写的书就像一个函数——输入任何现实，输出同一个结论：系统性危机即将到来。\n\n先不讲他说的对不对，而在于一个框架如果对所有情况都适用，它对任何具体情况就都没有预测力。\n\n更值得警惕的是他对自己角色的定位。对历史的痴迷背后是一种先知冲动——我看见了别人看不见的规律，我站在历史的制高点上，我来告诉你们文明的走向。印钞导致崩溃，泡沫导致萧条，民粹导致战争，结论永远指向灾难，因为灾难才配得上先知的体量。\n\n一旦独立判断被先知叙事替代，Dalio就不再只是一个分析师。他成了他自己框架里最危险的那个变量。",
+      "publishedAt": "2026-03-17T08:20:00.000Z",
+      "link": "https://x.com/WizardTraderX/status/2033820809291026440",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
+      "quote": {
+        "username": "RayDalio",
+        "displayName": "Ray Dalio",
+        "content": "x.com/i/article/203356547427…",
+        "link": "https://x.com/RayDalio/status/2033567224120692861"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11300,160 +11504,6 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%23KWEB\">$KWEB</a>, 战争都砸不下去？？我要证伪“大盘下跌，个股还得跌”的思维",
       "publishedAt": "2026-03-09T06:23:00.000Z",
       "link": "https://x.com/TJ_Research/status/2030892153191178614",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030889635468189912",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "真正的交易员   自己掌控K线",
-      "contentHtml": "真正的交易员   自己掌控K线",
-      "publishedAt": "2026-03-09T06:13:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2030889635468189912",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHC8rWwwb0AAaq4B.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030889224715530454",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "我发现X上很多人都太认真，我的内容1/3是娱乐，2/3是认真的，带表情的一般都是搞笑的😀",
-      "contentHtml": "我发现X上很多人都太认真，我的内容1/3是娱乐，2/3是认真的，带表情的一般都是搞笑的😀",
-      "publishedAt": "2026-03-09T06:11:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2030889224715530454",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030887513087176997",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "如果这周标普收涨，以后让我理发的开始收钱😀",
-      "contentHtml": "如果这周标普收涨，以后让我理发的开始收钱😀",
-      "publishedAt": "2026-03-09T06:04:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2030887513087176997",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030883501751623698",
-      "username": "JoshuaDeuk",
-      "displayName": "Joshua | MOZAIK 🇰🇷",
-      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
-      "content": "Please BITCOIN this is ur chance to shine ur narrative of digital gold",
-      "contentHtml": "Please BITCOIN this is ur chance to shine ur narrative of digital gold",
-      "publishedAt": "2026-03-09T05:48:00.000Z",
-      "link": "https://x.com/JoshuaDeuk/status/2030883501751623698",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030882943208734782",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "某鲸鱼/机构博弈开盘暴跌失败，平空翻多促成了目前的反弹",
-      "contentHtml": "某鲸鱼/机构博弈开盘暴跌失败，平空翻多促成了目前的反弹",
-      "publishedAt": "2026-03-09T05:46:00.000Z",
-      "link": "https://x.com/follow_clues/status/2030882943208734782",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030882456740717041",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "I can't believe that Blur farmers are still dumping NFT prices in 2026...",
-      "contentHtml": "I can't believe that Blur farmers are still dumping NFT prices in 2026...",
-      "publishedAt": "2026-03-09T05:44:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2030882456740717041",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHC8kxxqacAAQGUb.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030866654893138325",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "川普：贝森特，明天给老子早上8点去CNBC安抚市场😂",
-      "contentHtml": "川普：贝森特，明天给老子早上8点去CNBC安抚市场😂",
-      "publishedAt": "2026-03-09T04:41:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2030866654893138325",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2030859198259712279",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "周一早盘对哈梅内伊之子接班的反馈：\n\nWTI续涨110+利率曲线熊陡=战争预期拉长带来的衰退预期交易\n\n但个人理解，概率最大的情况是正在逐渐形成类似2025年Q1关税战的阶段底🤔",
-      "contentHtml": "周一早盘对哈梅内伊之子接班的反馈：\n\nWTI续涨110+利率曲线熊陡=战争预期拉长带来的衰退预期交易\n\n但个人理解，概率最大的情况是正在逐渐形成类似2025年Q1关税战的阶段底🤔",
-      "publishedAt": "2026-03-09T04:12:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2030859198259712279",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHC8PrJhboAAus6F.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHC8PrJhawAAaZKK.jpg"
-        }
-      ],
-      "quote": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧",
-        "content": "最近的交易发现：主线从金属转向能源，油价作为风险偏好指标\n\n1.利率曲线的变化对失业率、非农就业、通胀的敏感度降低；\n2.美联储近期发言对战争的影响，态度比较模糊不清，鹰派的变鸽了，鸽派的变鹰了，总之集体转为中性；\n3.BTC现在回落在67000，这是个什么价格呢？\n2024年11月初特朗普胜选时BTC的计价水平。现在来到了中期选举年，涨幅刚好回吐重新回到了这个价格。\n\n在这个关键节点下，油价成为了短期内很好的风险偏好辅助指标（如果战争只是短期的话）。油价60-70是一个中性区间，大于70则利率曲线易高难低，整体风险偏好下行；反正若轮回60-70则个人倾向于做多风险资产美股BTC，有大量的空头position unwinding。",
-        "link": "https://x.com/OwenJin12/status/2030576251921158588",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHC4OU7-aIAA7mNi.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
