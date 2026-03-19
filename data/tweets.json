@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T20:16:50.201Z",
+  "lastUpdated": "2026-03-19T20:46:46.274Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 462,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 484,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2034726140758433799",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "欧洲：我不好找理由插进来啊，\n硬着头皮上，俄乌还没结束，又要开辟第二战线，和平的边际成本在不断抬高。这次护航只能派保卫格陵兰级别的35人部队！不能再多辣！",
+      "contentHtml": "欧洲：我不好找理由插进来啊，\n硬着头皮上，俄乌还没结束，又要开辟第二战线，和平的边际成本在不断抬高。这次护航只能派保卫格陵兰级别的35人部队！不能再多辣！",
+      "publishedAt": "2026-03-19T20:18:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034726140758433799",
+      "quote": {
+        "username": "LucretianDelta",
+        "displayName": "墙内偏移",
+        "content": "关于美伊战争，很多老师分析透了，我其实没太大可补充的，K线里见就行了，今天正好和群友们聊到，把我的语音条简化一下。简单来说，美国这样毫无战略目标的和伊朗开战，不仅是重演泥潭，更是一脚踩进了粪坑，现在进退都是一身臭。其实这就是政治的反身性之一，因为美国一直靠这套宣扬这套普世价值来维持自己声誉上的正义性，所以一旦他们需要马基亚维利主义，需要开战的时候，发动的总统就会在国内遭遇巨大的反噬。你天天讲爱与和平，对吧？那就把国内的这些选民们也洗脑成爱与和平了。那你开战就会有大量的反战势力，然后政治对手就会趁机搞你，所以开战必须要像委内瑞拉那样速战速决，否则的话就会进入泥潭，到时候嬉皮士们操来操去的又把战争搞黄了，再加上对当政政府的执政合法性产生一个巨大打击。这步棋走的太糟了，以至于对东大来说，“当对手犯错的时候，不要打扰他。”",
+        "link": "https://x.com/LucretianDelta/status/2034725356205482029"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2034717177694364069",
       "username": "hazenlee",
@@ -1653,6 +1674,25 @@
       "contentHtml": "推上一直在讨论抄底迪拜的地产，\n其实对于中东的富人来说，\n现在抄底香港地产才是最优解。",
       "publishedAt": "2026-03-19T00:11:00.000Z",
       "link": "https://x.com/hazenlee/status/2034422469172347308",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034419236911935721",
+      "username": "ohyishi",
+      "displayName": "Yishi",
+      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
+      "content": "x.com/i/article/203424651860…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2034246518606344192\">x.com/i/article/203424651860…</a>",
+      "publishedAt": "2026-03-18T23:58:00.000Z",
+      "link": "https://x.com/ohyishi/status/2034419236911935721",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -4656,6 +4696,41 @@
       "contentHtml": "没有牛回",
       "publishedAt": "2026-03-16T23:00:00.000Z",
       "link": "https://x.com/hazenlee/status/2033679789010391402",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033671849096433758",
+      "username": "m1ssuo",
+      "displayName": "Vincent Yang",
+      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
+      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
+      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
+      "publishedAt": "2026-03-16T22:28:00.000Z",
+      "link": "https://x.com/m1ssuo/status/2033671849096433758",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "quote": {
+        "username": "landiantech",
+        "displayName": "蓝点网",
+        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
+        "link": "https://x.com/landiantech/status/2032275955432243524",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11571,69 +11646,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDEAa-haMAA1lLz.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031395931623501897",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "吵赢了地缘政治，吵输了账户有屁用呢",
-      "contentHtml": "吵赢了地缘政治，吵输了账户有屁用呢",
-      "publishedAt": "2026-03-10T15:45:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2031395931623501897",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031395345792381391",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "为了战争走向吵翻天，请问账户涨了吗？",
-      "contentHtml": "为了战争走向吵翻天，请问账户涨了吗？",
-      "publishedAt": "2026-03-10T15:42:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2031395345792381391",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031394047169015922",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://nitter.net/pic/profile_images%2F1801446030657142784%2FK0YAwUJw_bigger.jpg",
-      "content": "Ultron Signal 於 2/27 天前在 $BTC 65K 重新進場做多，期間完成多次震盪操作，剛剛已於 71.4K 全數平倉，再次成功捕捉近 +5% 波段收益 📈\n\nUltron Signal 是 CoinKarma 會員專屬的自動化交易策略，透過獨家研發指標 Market Pulse 進行每小時行情監測，持續捕捉高勝率的區間交易機會。\n\nUltron Signal 實盤運行 670 天\n🟧 $BTC 現貨績效：+110%\n✳️ Ultron Signal 累積績效：+271%\n\n想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群\n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "Ultron Signal 於 2/27 天前在 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 65K 重新進場做多，期間完成多次震盪操作，剛剛已於 71.4K 全數平倉，再次成功捕捉近 +5% 波段收益 📈\n\nUltron Signal 是 CoinKarma 會員專屬的自動化交易策略，透過獨家研發指標 Market Pulse 進行每小時行情監測，持續捕捉高勝率的區間交易機會。\n\nUltron Signal 實盤運行 670 天\n🟧 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 現貨績效：+110%\n✳️ Ultron Signal 累積績效：+271%\n\n想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群\n👉 <a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-03-10T15:37:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2031394047169015922",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDD12hoacAAxAaf.jpg"
-        }
-      ],
-      "quote": {
-        "username": "coinkarma_",
-        "displayName": "CoinKarma",
-        "content": "Ultron Signal 於 2/17 重新進場做多 $BTC，期間於 64K-69K 掌握多次低買高賣的震盪操作，並已於 69K 全數平倉獲利\n\nUltron Signal 是 CoinKarma 會員專屬的自動化交易策略，透過獨家研發指標 Market Pulse 進行每小時行情監測，持續捕捉高勝率的區間交易機會。\n\nUltron Signal 實盤運行 657 天\n🟧 $BTC 現貨績效：+5%\n✳️ Ultron Signal 累積績效：+153%\n\n想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群\n👉 coinkarma.pse.is/7wsxnl",
-        "link": "https://x.com/coinkarma_/status/2026857892222230576",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCDYTVZaMAM41S8.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
