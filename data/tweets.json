@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T21:59:04.039Z",
+  "lastUpdated": "2026-03-19T22:13:19.998Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 485,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 400,
+    "successUsers": 20,
+    "failedUsers": 7
   },
   "tweets": [
     {
@@ -3539,6 +3539,47 @@
       }
     },
     {
+      "id": "2034065157757014041",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://nitter.net/pic/profile_images%2F1453864539720601606%2FrEHaWNk1_bigger.jpg",
+      "content": "监管大动作的落地，昨晚SEC发布了名为《联邦证券法对某些类型加密资产和涉及加密资产某些交易的适用性》最终解释性指引。这是SEC联合CFTC针对加密资产监管提供长期框架的明确指导，结束了过去多年“通过执法来监管”的模式，我们所期待的加密行业监管情绪度更进一步了。\n\n指引的核心要点\n1、加密资产分类，首次给出清晰的五类划分：\n1）Digital Commodities数字商品\n明确提出BTC、ETH、SOL、XRP、ADA、DOGE、SHIB、AVAX、LINK 等加密资产是数字商品不属于证券，价值主要来自功能性网络运行、供需。\n2）Digital Collectibles数字收藏品\n如NFT艺术品、meme币、CryptoPunks等不属于证券，主要具有艺术/社交/收藏价值。\n3）Digital Tools数字工具\n如ENS域名、实用凭证、门票等 — 不属于证券，提供实际功能。\n4）Stablecoins稳定币：\n符合GENIUS Act定义的“payment stablecoin”由许可发行人发行的稳定币也不属于证券；\n5）Digital Securities数字证券/代币化证券代币化股票、债券等依然属于证券\n\n2. 非证券加密资产何时变成/不再是投资合同（Howey Test应用）\n1）当发行人通过承诺“essential managerial efforts”（开发功能、里程碑、使用资金等）诱导投资者合理预期利润时，非证券资产可被视为投资合同（即证券）。\n2）一旦发行人履行完毕承诺，投资合同关系终止，该资产不再受证券法约束。\n\n这是重大转变，过去SEC常认为“永远是证券”，相当于说刚开始ico或者私募时候被视为证券，但是如果代币解锁完，社区化程度高，时候也就不被视为证券了。\n\n3. 几类常见链上活动被明确为非证券（在满足条件时）：\n1）PoW挖矿，包括矿池属于非证券；\n2）协议质押PoS staking（包括自 staking、托管staking、流动性质押/liquid staking）非证券，只要是按协议规则运行、非保证收益、非出借资产。\n3）Staking Receipt Tokens流动性质押凭证，如stETH如果1:1对应底层非证券资产，且按协议自动反映奖励，也属于非证券。\n4）Wrapping / Wrapped Tokens跨链包装，如果是1:1可赎回、无收益承诺、无资金池化 也属于非证券。\n5）Airdrops空投：如果无对价（没花钱、没提供服务/商品）的情况下 — 不满足Howey的“investment of money”要件，也非证券。\n\n做为解释性规则，这份指引立即生效。\n可以说是加密监管的起重大，为大饼、以太、主流Layer1、主流staking、主流NFT、主流空投等提供了相对清晰的“非证券”地位，同时保留了对欺诈性发行和持续承诺型项目的监管空间。",
+      "contentHtml": "监管大动作的落地，昨晚SEC发布了名为《联邦证券法对某些类型加密资产和涉及加密资产某些交易的适用性》最终解释性指引。这是SEC联合CFTC针对加密资产监管提供长期框架的明确指导，结束了过去多年“通过执法来监管”的模式，我们所期待的加密行业监管情绪度更进一步了。\n\n指引的核心要点\n1、加密资产分类，首次给出清晰的五类划分：\n1）Digital Commodities数字商品\n明确提出BTC、ETH、SOL、XRP、ADA、DOGE、SHIB、AVAX、LINK 等加密资产是数字商品不属于证券，价值主要来自功能性网络运行、供需。\n2）Digital Collectibles数字收藏品\n如NFT艺术品、meme币、CryptoPunks等不属于证券，主要具有艺术/社交/收藏价值。\n3）Digital Tools数字工具\n如ENS域名、实用凭证、门票等 — 不属于证券，提供实际功能。\n4）Stablecoins稳定币：\n符合GENIUS Act定义的“payment stablecoin”由许可发行人发行的稳定币也不属于证券；\n5）Digital Securities数字证券/代币化证券代币化股票、债券等依然属于证券\n\n2. 非证券加密资产何时变成/不再是投资合同（Howey Test应用）\n1）当发行人通过承诺“essential managerial efforts”（开发功能、里程碑、使用资金等）诱导投资者合理预期利润时，非证券资产可被视为投资合同（即证券）。\n2）一旦发行人履行完毕承诺，投资合同关系终止，该资产不再受证券法约束。\n\n这是重大转变，过去SEC常认为“永远是证券”，相当于说刚开始ico或者私募时候被视为证券，但是如果代币解锁完，社区化程度高，时候也就不被视为证券了。\n\n3. 几类常见链上活动被明确为非证券（在满足条件时）：\n1）PoW挖矿，包括矿池属于非证券；\n2）协议质押PoS staking（包括自 staking、托管staking、流动性质押/liquid staking）非证券，只要是按协议规则运行、非保证收益、非出借资产。\n3）Staking Receipt Tokens流动性质押凭证，如stETH如果1:1对应底层非证券资产，且按协议自动反映奖励，也属于非证券。\n4）Wrapping / Wrapped Tokens跨链包装，如果是1:1可赎回、无收益承诺、无资金池化 也属于非证券。\n5）Airdrops空投：如果无对价（没花钱、没提供服务/商品）的情况下 — 不满足Howey的“investment of money”要件，也非证券。\n\n做为解释性规则，这份指引立即生效。\n可以说是加密监管的起重大，为大饼、以太、主流Layer1、主流staking、主流NFT、主流空投等提供了相对清晰的“非证券”地位，同时保留了对欺诈性发行和持续承诺型项目的监管空间。",
+      "publishedAt": "2026-03-18T00:31:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2034065157757014041",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDpzemLbEAAYiga.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "这两天政策监管的两个大动作：SEC与CFTC签署谅解备忘录、SEC的极限版“创新豁免”要来了。总结下来就是对加密的监管不确定性消失，代币化可以在美国本土落地了。\n\n前者的意义在于：1）两大监管机构结束长达多年的“管辖权争夺”。过去SEC和CFTC在加密、衍生品等领域经常抢地盘，导致企业要双重注册、遵守两套不同规则，创新被卡住、成本暴增，甚至被迫跑到海外。这次正式握手言和，用“最小有效监管”（minimum effective dose）原则，消除重复、填补漏洞，让监管更高效。\n\n2）给加密行业和创新带来确定性  \n两家明确要为crypto assets制定专门框架，支持“合法创新”。这对DeFi、稳定币、加密衍生品等是重大利好——企业不再担心“今天SEC告你，明天CFTC再来一次”。这将大幅降低美国加密企业的合规不确定性。\n\n后者有限版“创新豁免”的意义：\n1）允许有限交易某些代币化证券，让传统金融公司（TradFi）和加密原生项目开始行动起来。\n\n2）代币化股票、地产、基金等RWA项目终于能在美国本土小范围测试了（之前只能去欧洲、亚洲等其他监管区），这对BlackRock、BNY Mellon、Kraken等已经布局tokenization的大机构是明确信号——“门开了，哪怕只开一条缝”。\n\n3）当然DeFi纯玩家、杠杆衍生品、稳定币大额交易暂时还不在这个窄豁免里（要等后续或国会法案）。短期内不会“爆炸式”创新，但至少结束了“监管真空+执法围剿”的时代。\n\n4）长期看：Atkins强调这是通往“适合目的监管”（fit-for-purpose）的第一步。等数据收集够了，窄豁免很可能扩大成更广的框架。",
+        "link": "https://x.com/qinbafrank/status/2032449834846970151",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDS2NydasAAAQIc.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDS2NyabkAAXJ-g.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2034064095373087059",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -4642,25 +4683,6 @@
       "contentHtml": "感觉市场很惊讶英伟达推出了自己的CPU? 上次财报就说过了。另外老黄的下一个饼是PHYSICAL AI，自动驾驶，这块饼没有那么大，因为这些车企没钱，微软一家的资本开支顶他们所有加一起再翻个3倍。到了现在这个体量，英伟达的增速得看大科技和两家大模型的现金流增速，其他的公司和国家，下个几十亿订单已经不够看了。当然还有另外一家到现在没下场的巨无霸",
       "publishedAt": "2026-03-17T00:21:00.000Z",
       "link": "https://x.com/TJ_Research/status/2033700234161778784",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033699853889319194",
-      "username": "Citrini7",
-      "displayName": "Citrini",
-      "avatar": "https://nitter.net/pic/profile_images%2F1875761503686582272%2FVhlaZoEp_bigger.jpg",
-      "content": "If sentiment flips positive here it seems like crypto has the most torque",
-      "contentHtml": "If sentiment flips positive here it seems like crypto has the most torque",
-      "publishedAt": "2026-03-17T00:20:00.000Z",
-      "link": "https://x.com/Citrini7/status/2033699853889319194",
-      "retweet": {
-        "username": "JoshuaDeuk",
-        "displayName": "Joshua | MOZAIK 🇰🇷"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -7029,25 +7051,6 @@
       }
     },
     {
-      "id": "2032853995790692793",
-      "username": "getjonwithit",
-      "displayName": "Jonathan Gorard",
-      "avatar": "https://nitter.net/pic/profile_images%2F1330192676222865414%2FmhhuGgKB_bigger.jpg",
-      "content": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
-      "contentHtml": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
-      "publishedAt": "2026-03-14T16:18:00.000Z",
-      "link": "https://x.com/getjonwithit/status/2032853995790692793",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032846785685725251",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -7497,31 +7500,6 @@
       }
     },
     {
-      "id": "2032693451666632916",
-      "username": "beffjezos",
-      "displayName": "Beff (e/acc)",
-      "avatar": "https://nitter.net/pic/profile_images%2F2005482858975023104%2Fs9wmB9qT_bigger.jpg",
-      "content": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
-      "contentHtml": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
-      "publishedAt": "2026-03-14T05:40:00.000Z",
-      "link": "https://x.com/beffjezos/status/2032693451666632916",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "joshrauh",
-        "displayName": "Joshua Rauh",
-        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
-        "link": "https://x.com/joshrauh/status/2032511222877401221"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032685062177935363",
       "username": "market_beggar",
       "displayName": "貝格先生🐢",
@@ -7586,31 +7564,6 @@
       "contentHtml": "META可能要裁员20%！！！\n市场预计26年运营花费1136亿，20%就是227亿！\n因为前期的资本开支，我说过META其实是所有大科技里最浪费的，因为GPU都用在了科研上，没出成果之前都是0回报！现在裁员可以省227亿，能把利润率拉高到44%，25年是41.4%，去掉裁员的遣散费等等，今年也许还能保住40%（现在市场预期是34.6%）\n市场担心大科技自由现金流没了？一个比较残忍的事实可能是拿OPEX（运营花费）换CAPEX（资本开支）。对于传统企业来说，接下去将会看到他们在软件上的支出只会更多不会更少，拿OPEX换软件支出来增效。",
       "publishedAt": "2026-03-14T04:52:00.000Z",
       "link": "https://x.com/TJ_Research/status/2032681318476059018",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032671617155731876",
-      "username": "moseskagan",
-      "displayName": "Moses Kagan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1784227025940860929%2Fa6t7PV2r_bigger.jpg",
-      "content": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
-      "contentHtml": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
-      "publishedAt": "2026-03-14T04:14:00.000Z",
-      "link": "https://x.com/moseskagan/status/2032671617155731876",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "joshrauh",
-        "displayName": "Joshua Rauh",
-        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
-        "link": "https://x.com/joshrauh/status/2032511222877401221"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -8633,25 +8586,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHB6NpRgboAAvjMb.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032448290638504216",
-      "username": "rauchg",
-      "displayName": "Guillermo Rauch",
-      "avatar": "https://nitter.net/pic/profile_images%2F1783856060249595904%2F8TfcCN0r_bigger.jpg",
-      "content": "Obsession is the mother of invention",
-      "contentHtml": "Obsession is the mother of invention",
-      "publishedAt": "2026-03-13T13:26:00.000Z",
-      "link": "https://x.com/rauchg/status/2032448290638504216",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -10322,37 +10256,6 @@
       }
     },
     {
-      "id": "2031956026308678102",
-      "username": "mattwridley",
-      "displayName": "Matt Ridley",
-      "avatar": "https://nitter.net/pic/profile_images%2F1230960194194149380%2FSw7D18gf_bigger.jpg",
-      "content": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
-      "contentHtml": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
-      "publishedAt": "2026-03-12T04:50:00.000Z",
-      "link": "https://x.com/mattwridley/status/2031956026308678102",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Rebecca21951651",
-        "displayName": "Rebecc@ ███████",
-        "content": "So the theory is that there was a virus circulating in bats & then it somehow got an FCS optimally suited to infect humans & it was so perfected to launch a pandemic that the spike initially did not evolve at all?",
-        "link": "https://x.com/Rebecca21951651/status/2031868886488920103",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDKl-Y5aoAAUlSe.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031954767539552324",
       "username": "CycleStudies",
       "displayName": "百萬Eric | Day Trader",
@@ -10529,31 +10432,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHDGErFqaMAEOAy1.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031883482557780365",
-      "username": "cremieuxrecueil",
-      "displayName": "Crémieux",
-      "avatar": "https://nitter.net/pic/profile_images%2F1637507712983375875%2FEQHiqVq8_bigger.jpg",
-      "content": "So the proposed California wealth tax is an effort by a corrupt healthcare union to blackmail Gavin Newsom into giving them a bunch of free stuff.\n\nAnd they don't really care if it passes. They just want free stuff.\n\nCool. Democracy.",
-      "contentHtml": "So the proposed California wealth tax is an effort by a corrupt healthcare union to blackmail Gavin Newsom into giving them a bunch of free stuff.\n\nAnd they don't really care if it passes. They just want free stuff.\n\nCool. Democracy.",
-      "publishedAt": "2026-03-12T00:02:00.000Z",
-      "link": "https://x.com/cremieuxrecueil/status/2031883482557780365",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDKzDyPbAAAP9UF.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11637,6 +11515,142 @@
             "url": "https://nitter.net/pic/orig/media%2FHCDYTVZaMAM41S8.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031393662983401862",
+      "username": "coinkarma_",
+      "displayName": "CoinKarma",
+      "avatar": "https://nitter.net/pic/profile_images%2F1801446030657142784%2FK0YAwUJw_bigger.jpg",
+      "content": "Ultron Signal re-entered long on $BTC at 65K eleven days ago, executed multiple swing trades throughout the consolidation, and just closed all positions at 71.4K — successfully capturing nearly +5% in swing profits once again 📈\n\nUltron Signal is an automated trading strategy exclusive to CoinKarma members. Powered by our proprietary Market Pulse indicator, it monitors market conditions hourly to consistently capture high-probability range-trading opportunities.\n\nUltron Signal Live Track Record: 670 Days \n🟧 $BTC Spot Performance: +110% \n✳️ Ultron Signal Cumulative Performance: +271%\n\nWant real-time trading signals? Start your 14-day free trial:\n👉 coinkarma.pse.is/7wsxnl",
+      "contentHtml": "Ultron Signal re-entered long on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> at 65K eleven days ago, executed multiple swing trades throughout the consolidation, and just closed all positions at 71.4K — successfully capturing nearly +5% in swing profits once again 📈\n\nUltron Signal is an automated trading strategy exclusive to CoinKarma members. Powered by our proprietary Market Pulse indicator, it monitors market conditions hourly to consistently capture high-probability range-trading opportunities.\n\nUltron Signal Live Track Record: 670 Days \n🟧 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> Spot Performance: +110% \n✳️ Ultron Signal Cumulative Performance: +271%\n\nWant real-time trading signals? Start your 14-day free trial:\n👉 <a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
+      "publishedAt": "2026-03-10T15:36:00.000Z",
+      "link": "https://x.com/coinkarma_/status/2031393662983401862",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDD1ipUboAA25U2.jpg"
+        }
+      ],
+      "quote": {
+        "username": "coinkarma_",
+        "displayName": "CoinKarma",
+        "content": "Ultron Signal re-entered long on $BTC on 2/17, executed multiple swing trades within the 64K–69K range, and closed all positions at 69K for a profit.\n\nUltron Signal is an automated trading strategy exclusive to CoinKarma members. Powered by our proprietary Market Pulse indicator, it monitors market conditions hourly to capture high-probability range trading opportunities.\n\n657 days of live performance:\n🟧 $BTC spot return: +5% \n✳️ Ultron Signal cumulative return: +153%\n\nWant real-time trading signals? Start your 14-day free trial: 👉 coinkarma.pse.is/7wsxnl",
+        "link": "https://x.com/coinkarma_/status/2026857621618307158",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCDYFjcbkAA2kP4.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031375607737864545",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "二级亏钱，一级赚；\n赚不到，机制不好，求修改。",
+      "contentHtml": "二级亏钱，一级赚；\n赚不到，机制不好，求修改。",
+      "publishedAt": "2026-03-10T14:24:00.000Z",
+      "link": "https://x.com/follow_clues/status/2031375607737864545",
+      "quote": {
+        "username": "Jackyi_ld",
+        "displayName": "JackYi",
+        "content": "加密行业这几年最大的问题创新衰退了，这个问题根源来自两方面，一是美国上一届政府加密政策收紧，随着这次加密结构法案通过应该能解决。二是币安要求项目对加密VC的1➕3年锁仓机制，相信币安初心是好意，培养长期投资思维。现在这个机制后果是让项目方，做市商，交易所Liquidity先跑，而VC在漫长的解锁中归零。VC本来承担了一级市场最大的风险，却还要承担最晚退出风险，明显和传统投资市场向背，这样的后果是加密VC集体消亡，优质创业者很难融资，行业创新减少，@cz_binance 给CZ一个建议，给加密VC一个更好的退出机制，激活VC资本活跃起来，才能有利于行业创新，也更加有利于交易所上线优质资产。",
+        "link": "https://x.com/Jackyi_ld/status/2031346731196043403"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031375125959020579",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "在altcoin如此走势特征之下，朋友开始怀疑自己的动量程序为何没有频繁做多altcoin（同时也说明，他极度看涨crypto）",
+      "contentHtml": "在altcoin如此走势特征之下，朋友开始怀疑自己的动量程序为何没有频繁做多altcoin（同时也说明，他极度看涨crypto）",
+      "publishedAt": "2026-03-10T14:22:00.000Z",
+      "link": "https://x.com/follow_clues/status/2031375125959020579",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDDkmk0bQAAoLT-.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031371999050871239",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Spawn out a Brad Pitt to for @0xtony0x \n\nWe need more hot guys run dd, just be hot and nerdy",
+      "contentHtml": "Spawn out a Brad Pitt to for <a href=\"/0xtony0x\" title=\"Tony\">@0xtony0x</a> \n\nWe need more hot guys run dd, just be hot and nerdy",
+      "publishedAt": "2026-03-10T14:10:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2031371999050871239",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDCpxy2aMAMYeaV.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031340940573684125",
+      "username": "FrontierLab_ZH",
+      "displayName": "Frontier Lab 中文",
+      "avatar": "https://nitter.net/pic/profile_images%2F1777659632871424000%2FhZFVT5tb_bigger.jpg",
+      "content": "x.com/i/article/203096902716…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2030969027162673152\">x.com/i/article/203096902716…</a>",
+      "publishedAt": "2026-03-10T12:06:00.000Z",
+      "link": "https://x.com/FrontierLab_ZH/status/2031340940573684125",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031314278603698545",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "看不同人养虾, 有的人号称养了三个月, 结果还不知道什时候用skill嵌套skill, 什么时候script嵌套skill, 什么时候prune system prompts .. 🤦 不敢想象背后是什么💩山",
+      "contentHtml": "看不同人养虾, 有的人号称养了三个月, 结果还不知道什时候用skill嵌套skill, 什么时候script嵌套skill, 什么时候prune system prompts .. 🤦 不敢想象背后是什么💩山",
+      "publishedAt": "2026-03-10T10:20:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2031314278603698545",
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "创造力, 全局观, 架构能力, 拆解问题的能力,发现不均衡的能力, 当然还有taste, 这些都是post-agentic world 最强杠杆. 只要工具access是公平的, 结果必然极度不平均 (fair access leads to ultra inequity) 原来正态左端的人最优的选择就是把自己的大脑外包给ai, 正态中段的人会大量被ai替代, 正态右端的一小撮人会成为superhuman",
+        "link": "https://x.com/DoveyWanCN/status/2027701004964126830"
       },
       "stats": {
         "replies": 0,
