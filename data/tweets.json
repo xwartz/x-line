@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T16:06:20.281Z",
+  "lastUpdated": "2026-03-19T16:36:46.388Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,55 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 485,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 439,
+    "successUsers": 22,
+    "failedUsers": 5
   },
   "tweets": [
+    {
+      "id": "2034666367866282121",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "笑不活了\n\nTradfin: *TRUMP ASKED BY A REPORTER WHY JAPAN WAS NOT INFORMED ABOUT STARTING A WAR WITH IRAN\n\n*TRUMP: WHO KNOWS BETTER ABOUT SURPRISE THAN JAPAN, WHY DIDN'T YOU TELL ME ABOUT PEARL HARBOR?\n\nTradfin: *记者问特朗普，为何没有事先告知日本即将对伊朗开战\n\n*特朗普：还有谁比日本更懂得如何出其不意？为什么你们没告诉我珍珠港事件？\n\n————————————\n2026-03-20 00:15:37",
+      "contentHtml": "笑不活了\n\nTradfin: *TRUMP ASKED BY A REPORTER WHY JAPAN WAS NOT INFORMED ABOUT STARTING A WAR WITH IRAN\n\n*TRUMP: WHO KNOWS BETTER ABOUT SURPRISE THAN JAPAN, WHY DIDN'T YOU TELL ME ABOUT PEARL HARBOR?\n\nTradfin: *记者问特朗普，为何没有事先告知日本即将对伊朗开战\n\n*特朗普：还有谁比日本更懂得如何出其不意？为什么你们没告诉我珍珠港事件？\n\n————————————\n2026-03-20 00:15:37",
+      "publishedAt": "2026-03-19T16:20:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034666367866282121",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034663786620268691",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "天天这新闻推送我有点憋不住了\n俗话说看热闹不嫌事大\n吃瓜是真好玩儿",
+      "contentHtml": "天天这新闻推送我有点憋不住了\n俗话说看热闹不嫌事大\n吃瓜是真好玩儿",
+      "publishedAt": "2026-03-19T16:10:00.000Z",
+      "link": "https://x.com/hazenlee/status/2034663786620268691",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDyT1QraYAEmM14.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDyT1QrbcAAm4bF.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDyT1QraYAA5Zy7.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2034661804677509551",
       "username": "daidaibtc",
@@ -4076,13 +4120,7 @@
         "username": "TiezhuCrypto",
         "displayName": "铁柱哥在CRYPTO",
         "content": "正式通过Claude，在一步步的指导下，coding了一个宏观市场分析的推送。主要包含了：\n1、信用和利率信号\n2、波动率指标以及隐含波动率的交叉分析\n3、美元融资和外汇市场的信号\nClaude是真的强啊。",
-        "link": "https://x.com/TiezhuCrypto/status/2033750515394474231",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDlUs_QbEAI8r8_.jpg"
-          }
-        ]
+        "link": "https://x.com/TiezhuCrypto/status/2033750515394474231"
       },
       "stats": {
         "replies": 0,
@@ -11598,42 +11636,6 @@
       "contentHtml": "很多人問 OpenClaw 到底可以拿來幹嘛。\n\n有些人拿來賺錢，寫程式、做自動化、接案。\n\n我自己的話主要是拿來改善經營公司的工作流程。\n\n我在 Discord 上拆了不同頻道，每個頻道塞不同的 system prompt 跟 skill，對應不同的專案。寫文章的歸寫文章，寫 code 的歸寫 code，研究市場的歸研究市場。\n\n比較複雜的專案會在 system prompt 注入專案資料夾的路徑跟專用meory庫，減少 tool use 浪費 token。\n\n然後我把公司的 Slack、Linear、GitHub repo、還有會員群組的 Telegram group 全部串進去。\n\nAI 會定期掃會員群組的聊天記錄，有人回報 bug 或提功能請求，它自動判斷嚴重程度，直接在 Linear 上開 ticket 派給對應的人。\n\n還有用 Whisper 把每週的會議錄音轉成逐字稿，丟進去產生會議摘要跟 action items。\n\n但要讓這些跑起來，有一個前提：你必須先把基礎資訊灌進去。\n\n最有意思的是，當 AI 掌握的 context 夠多之後，它開始能做你沒設計過的事。\n\n它知道上週會議決定了什麼、知道哪些 ticket 被 assign 給誰、知道哪些東西已經 delay 了。所以當某個任務超過預期時間，它會主動建議我讓 PM 去追進度。\n\n不是我設了一個 rule 叫它這樣做。是它自己根據上下文判斷該做這件事。\n\n這就是 context 的力量。你餵給它的資訊越完整，它能幫你做的事就越多，而且很多是你事先想不到的。\n\n除了公司經營，我最近還開了一個新的頻道分類，跟工作完全無關，就是育兒。\n\n我兒子剛出生，我想認真研究怎麼帶小孩。但育兒資訊太雜了，中文圈的內容品質參差不齊，很多是互相抄的。\n\n所以我讓 OpenClaw 去爬了一些國外高產出的育兒部落格，把那些比較有系統的內容源頭整理出來。然後用 NotebookLM 的 Skill 把這些知識全部丟進去，請它輸出結構化的摘要檔案。\n\n我拿這些摘要建了一個 Knowledge Base。\n\n現在我有任何育兒問題，直接在 Discord 的頻道上問就好，而且能確保儘可能不出現幻覺，因為都是基於我篩選過的高品質來源。\n\n以上這些用法，沒有一個是我裝之前就規劃好的。\n\n裝 OpenClaw 的時候，我不知道我會拿它來管 ticket。不知道我會拿它來追 PM 的進度。更不知道我會拿它來研究怎麼帶小孩。\n\n每一個場景都是裝了之後，碰到一個痛點，然後想到「欸，好像可以用它來解」。\n\n這個「欸，好像可以試試看」的瞬間，只有你手上有工具的人才會有。\n\n沒裝的人，連這個念頭都不會產生。\n\n大部分人對 AI 工具的態度是這樣的：先想清楚要幹嘛，再決定要不要裝。\n\n但這個邏輯有一個致命的問題：你不碰，你根本不知道它能幹嘛。\n\n如果不實際去玩，你腦中對這個工具的認知，停留在別人的描述、別人的截圖、別人的推文。那些都是二手資訊。\n\n二手資訊最大的問題是，它只能告訴你別人覺得有用的部分。\n\n但真正改變你工作方式的，往往是你自己在亂玩的過程中意外發現的東西。那些東西沒有人會寫成教學，因為它太個人化了，只有你自己碰到才會知道。\n\n當初我在研究龍蝦怎麼用在公司經營的時候，我發現根本沒啥資訊，因為大家都在摸索。\n\n龍蝦是去年十一月誕生的專案，真正爆紅是今年一月中，也就是說真的進入大眾視野也就一個多月，所有的用戶都是 pioneer，大家都在摸著石頭過河，也就是說，目前湧現出來的使用案例，其實大部分的人一開始都沒想到可以這樣做。\n\n現在90%的人對 AI 的看法還停留在「GPT 3.5 時代」的聊天機器人， 但科技圈早就天翻地覆了。\n\n今天大家在討論 Context Engineering，你沒碰過 AI agent，你聽不懂。明天大家在聊 multi-agent workflow，你沒跑過，你更聽不懂。\n\n去年有一段時間大家還在抄各種 prompt 模板，後來是一堆人在研究 MCP，現在所有人又都在討論 Skills。每隔幾個月風向就換一輪，如果沒有重度使用，你根本不知道這些東西在幹嘛，更不知道為什麼大家要從上一個跳到下一個。\n\n每一個你選擇「等等再說」的時刻，都在拉大這個差距。\n\n而且這個差距有一個很可怕的特性：你感受不到它在發生。\n\n因為你不知道你不知道什麼。\n\n你以為你只是還沒裝一個工具。但實際上，你錯過的是一整層的認知更新。那些用過的人，他們對問題的思考方式已經不一樣了。他們看到一個任務，腦子裡會自動浮現「這個可以讓 AI 做」的路徑。\n\n這不是知識的差距，是思維模式的差距。\n\n知識可以補，思維模式補不了。思維模式只能靠體驗去長出來。\n\n所以為什麼一定要拿來幹嘛才裝呢？\n\n第一代玩網路的人不是因為知道網路可以做電子商務、打遊戲了才玩的，純粹就是覺得很酷才玩的。\n\n在這個技術迭代超快、沒有標準答案的年代，「先行動再說」這五個字，可能是最被低估的行動準則。",
       "publishedAt": "2026-03-10T14:59:00.000Z",
       "link": "https://x.com/BensonTWN/status/2031384481215750442",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031377184133361684",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "喜欢哪个滑法",
-      "contentHtml": "喜欢哪个滑法",
-      "publishedAt": "2026-03-10T14:30:00.000Z",
-      "link": "https://x.com/hazenlee/status/2031377184133361684",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031375607737864545",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "二级亏钱，一级赚；\n赚不到，机制不好，求修改。",
-      "contentHtml": "二级亏钱，一级赚；\n赚不到，机制不好，求修改。",
-      "publishedAt": "2026-03-10T14:24:00.000Z",
-      "link": "https://x.com/follow_clues/status/2031375607737864545",
-      "quote": {
-        "username": "Jackyi_ld",
-        "displayName": "JackYi",
-        "content": "加密行业这几年最大的问题创新衰退了，这个问题根源来自两方面，一是美国上一届政府加密政策收紧，随着这次加密结构法案通过应该能解决。二是币安要求项目对加密VC的1➕3年锁仓机制，相信币安初心是好意，培养长期投资思维。现在这个机制后果是让项目方，做市商，交易所Liquidity先跑，而VC在漫长的解锁中归零。VC本来承担了一级市场最大的风险，却还要承担最晚退出风险，明显和传统投资市场向背，这样的后果是加密VC集体消亡，优质创业者很难融资，行业创新减少，@cz_binance 给CZ一个建议，给加密VC一个更好的退出机制，激活VC资本活跃起来，才能有利于行业创新，也更加有利于交易所上线优质资产。",
-        "link": "https://x.com/Jackyi_ld/status/2031346731196043403"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
