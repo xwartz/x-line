@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T06:23:29.398Z",
+  "lastUpdated": "2026-03-19T06:49:06.770Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 481,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 448,
+    "successUsers": 22,
+    "failedUsers": 5
   },
   "tweets": [
+    {
+      "id": "2034520106374680844",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "5000块到家那天，一身的屎尿\n\n现在独占大平层  睡主卧\n看在盈利单的份上 默认它是招财猫睡财位吧",
+      "contentHtml": "5000块到家那天，一身的屎尿\n\n现在独占大平层  睡主卧\n看在盈利单的份上 默认它是招财猫睡财位吧",
+      "publishedAt": "2026-03-19T06:39:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2034520106374680844",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDwRPzob0AA3sx3.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "V啊！",
+        "link": "https://x.com/Bitfatty/status/2017971998119608395",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAFG1EvagAEHIDy.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2034514090299728150",
       "username": "TJ_Research",
@@ -566,25 +599,6 @@
       "contentHtml": "推上一直在讨论抄底迪拜的地产，\n其实对于中东的富人来说，\n现在抄底香港地产才是最优解。",
       "publishedAt": "2026-03-19T00:11:00.000Z",
       "link": "https://x.com/hazenlee/status/2034422469172347308",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034419236911935721",
-      "username": "ohyishi",
-      "displayName": "Yishi",
-      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
-      "content": "x.com/i/article/203424651860…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2034246518606344192\">x.com/i/article/203424651860…</a>",
-      "publishedAt": "2026-03-18T23:58:00.000Z",
-      "link": "https://x.com/ohyishi/status/2034419236911935721",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -3588,41 +3602,6 @@
       "contentHtml": "没有牛回",
       "publishedAt": "2026-03-16T23:00:00.000Z",
       "link": "https://x.com/hazenlee/status/2033679789010391402",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033671849096433758",
-      "username": "m1ssuo",
-      "displayName": "Vincent Yang",
-      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
-      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
-      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
-      "publishedAt": "2026-03-16T22:28:00.000Z",
-      "link": "https://x.com/m1ssuo/status/2033671849096433758",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "quote": {
-        "username": "landiantech",
-        "displayName": "蓝点网",
-        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
-        "link": "https://x.com/landiantech/status/2032275955432243524",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11459,39 +11438,6 @@
       }
     },
     {
-      "id": "2031196547812306984",
-      "username": "Hzzzz666",
-      "displayName": "Hzzzz",
-      "avatar": "https://nitter.net/pic/profile_images%2F1959499539607617536%2F9ZWsHyhY_bigger.jpg",
-      "content": "我在 @Bybit_Official 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n@Bybit_Official @Bybit_ZH @Alpha_Bybit @linabybit @benbybit",
-      "contentHtml": "我在 <a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n<a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> <a href=\"/Bybit_ZH\" title=\"Bybit 华语\">@Bybit_ZH</a> <a href=\"/Alpha_Bybit\" title=\"Bybit Alpha\">@Alpha_Bybit</a> <a href=\"/linabybit\" title=\"Lina🦊Bybit\">@linabybit</a> <a href=\"/benbybit\" title=\"Ben Zhou\">@benbybit</a>",
-      "publishedAt": "2026-03-10T02:32:00.000Z",
-      "link": "https://x.com/Hzzzz666/status/2031196547812306984",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUXaMAQRMzk.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfUJaMAIHZqW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDBCfULaMAYYPy9.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "daidaibtc",
-        "displayName": "带带带比特"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031195110927376664",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -11552,6 +11498,54 @@
           "url": "https://nitter.net/pic/orig/media%2FHDA7891aMAEYNfN.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031184918043308235",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
+      "content": "日拱一卒：「持倉時間 1y-3y 籌碼占比」最新數據更新📊\n\n很久沒和各位報告「1y-3y 吸籌占比」的數據了，\n在此期間也常有不少朋友來詢問此組指標的狀況，\n因此，時隔一個多月，今天再來和各位快速更新一下這項指標。\n\n先說結論：\n1y-3y 占比至今依然維持緩步上升的節奏，日拱一卒，從未間斷🧱\n\n//\n\n附圖的指標是「籌碼持有時間介於 1~3 年的市場參與者占比」，\n按照慣例，先幫所有新、老朋友重溫一下此指標的概念📝：\n➡️ 透過「持有時間」將 BTC 籌碼持有者進行分組\n➡️ 將「持有時間介於 1y ~ 3y」的籌碼持有者抓出來\n➡️ 計算這些人在全市場中的占比\n➡️ 占比愈低，說明此族群的人愈少，通常是由拋售造成\n➡️ 占比見底（派發完成），對應到 BTC 的牛市頂部\n➡️ 占比見頂（吸籌完成），對應到 BTC 的熊市底部\n\n更完整的指標概念，可以參考以下鏈接，內有詳細說明🔗：\nnitter.net/market_beggar/status/1…\n\n//\n\n從 2025 年初見底至今，1y-3y 占比始終維持非常穩定的上升節奏，\n占比一路從約 0.11 上升至今日的 0.2。\n\n需要注意的是⚠️：\n雖然我先前強調過很多次，但各位在看這組數據的時候務必記得：\n「不建議單純的刻舟，而是要思考不同時空背景下的狀況」。\n\n舉例而言：\n1️⃣ 每一輪牛市頂部，對應占比的見底，但占比的底部正逐次抬升\n這足以說明：BTC 誕生至今，有愈來愈多的買入者選擇長期持有。\n\n2️⃣ 占比上升速度的放緩\n這點我在上次更新（下方引文）時也有特別提到，\n本次占比上升的速度明顯低於以往任何一輪週期，\n背後的原因，或許正是市場參與者結構的根本性改變。\n\n3️⃣ 占比上升到多高才是熊底？\n同理，如果單純毫無依據的刻舟以往的占比高點，\n很容易陷入 overfitting 的陷阱（nitter.net/market_beggar/status/1…）；\n就我個人的看法而言，如果熊市時間和過往一樣長，\n那占比的確有可能一路上升至以往的高位；\n但如果熊市時間縮短（例如提前到位），那再用占比去反推熊市時間，\n或許就可能存在過度擬合的嫌疑了。\n\n我自己認為，時間上的評估是相對困難的，\n因此我更傾向以「價格」為抄底基準，至於牛市何時啟動，\n我反倒不太在乎，因為在到位之後，我們只需要負責買入，然後靜待福報。\n\n📖 黃金坑追蹤系列（四）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n以上就是今天的內容，希望對各位有幫助🫡",
+      "contentHtml": "日拱一卒：「持倉時間 1y-3y 籌碼占比」最新數據更新📊\n\n很久沒和各位報告「1y-3y 吸籌占比」的數據了，\n在此期間也常有不少朋友來詢問此組指標的狀況，\n因此，時隔一個多月，今天再來和各位快速更新一下這項指標。\n\n先說結論：\n1y-3y 占比至今依然維持緩步上升的節奏，日拱一卒，從未間斷🧱\n\n//\n\n附圖的指標是「籌碼持有時間介於 1~3 年的市場參與者占比」，\n按照慣例，先幫所有新、老朋友重溫一下此指標的概念📝：\n➡️ 透過「持有時間」將 BTC 籌碼持有者進行分組\n➡️ 將「持有時間介於 1y ~ 3y」的籌碼持有者抓出來\n➡️ 計算這些人在全市場中的占比\n➡️ 占比愈低，說明此族群的人愈少，通常是由拋售造成\n➡️ 占比見底（派發完成），對應到 BTC 的牛市頂部\n➡️ 占比見頂（吸籌完成），對應到 BTC 的熊市底部\n\n更完整的指標概念，可以參考以下鏈接，內有詳細說明🔗：\n<a href=\"https://nitter.net/market_beggar/status/1981535929342054585\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n從 2025 年初見底至今，1y-3y 占比始終維持非常穩定的上升節奏，\n占比一路從約 0.11 上升至今日的 0.2。\n\n需要注意的是⚠️：\n雖然我先前強調過很多次，但各位在看這組數據的時候務必記得：\n「不建議單純的刻舟，而是要思考不同時空背景下的狀況」。\n\n舉例而言：\n1️⃣ 每一輪牛市頂部，對應占比的見底，但占比的底部正逐次抬升\n這足以說明：BTC 誕生至今，有愈來愈多的買入者選擇長期持有。\n\n2️⃣ 占比上升速度的放緩\n這點我在上次更新（下方引文）時也有特別提到，\n本次占比上升的速度明顯低於以往任何一輪週期，\n背後的原因，或許正是市場參與者結構的根本性改變。\n\n3️⃣ 占比上升到多高才是熊底？\n同理，如果單純毫無依據的刻舟以往的占比高點，\n很容易陷入 overfitting 的陷阱（<a href=\"https://nitter.net/market_beggar/status/1891335031177851380\">nitter.net/market_beggar/status/1…</a>）；\n就我個人的看法而言，如果熊市時間和過往一樣長，\n那占比的確有可能一路上升至以往的高位；\n但如果熊市時間縮短（例如提前到位），那再用占比去反推熊市時間，\n或許就可能存在過度擬合的嫌疑了。\n\n我自己認為，時間上的評估是相對困難的，\n因此我更傾向以「價格」為抄底基準，至於牛市何時啟動，\n我反倒不太在乎，因為在到位之後，我們只需要負責買入，然後靜待福報。\n\n📖 黃金坑追蹤系列（四）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2029735400550674538\">nitter.net/market_beggar/status/2…</a>\n\n以上就是今天的內容，希望對各位有幫助🫡",
+      "publishedAt": "2026-03-10T01:46:00.000Z",
+      "link": "https://x.com/market_beggar/status/2031184918043308235",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDA36YgbgAA7MG8.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "「新式週期的開始？穩步上升但增速放緩的聰明錢吸籌占比📊」\n\n承接下方引文，時隔一個月，今天再來和各位更新 1y-3y 的占比最新數據。\n\n這項週期性指標的強大，我想老朋友都不陌生；\n作為 BTC 誕生以來的最強主宰族群，他們的吸籌、派發行為，\n基本上完全控制著 BTC 的牛熊更迭，給了我們清晰的指引。\n\n附圖的指標是「籌碼持有時間介於 1~3 年的市場參與者占比」，\n在此簡單幫所有新、老朋友重溫一下此指標的概念📝：\n➡️ 透過「持有時間」將 BTC 籌碼持有者進行分組\n➡️ 將「持有時間介於 1y ~ 3y」的籌碼持有者抓出來\n➡️ 計算這些人在全市場中的占比\n➡️ 占比愈低，說明此族群的人愈少，通常是由拋售造成\n➡️ 占比見底（派發完成），對應到 BTC 的牛市頂部\n➡️ 占比見頂（吸籌完成），對應到 BTC 的熊市底部\n\n更完整的指標概念，可以參考以下鏈接，內有詳細說明🔗：\nnitter.net/market_beggar/status/1…\n\n//\n\n如附圖所示，雖然此項指標的變化速度非常緩慢，\n但我們仍能清晰的看到：1y-3y 占比依然維持著穩步上升的節奏🎶\n\n根據以往 BTC 的強週期性規律：\n1️⃣ 占比見底，牛市頂部出現\n2️⃣ 價格開始下跌，占比開始上升，說明 1y-3y 族群開始重新吸籌\n3️⃣ 占比見頂，說明 1y-3y 族群吸籌完畢，對應熊市底部\n\n值得注意的是：\n不知道各位是否有發現，相比以往的每一輪週期，\n本次「占比見底，隨後開始上升」的節奏，和以往有一項非常大的不同，\n那就是：「占比上升的速度比起以往，慢了非常多‼️」\n\n從附圖中我們可以看到：\n每一次占比見底、開始上升之後，占比上升的速度（斜率）都非常大，\n甚至可以稱得上是「接近 90 度直角式的上升」；\n但在這輪週期占比見底之後的上升，反倒明顯比以往任何一次都來的慢。\n\n背後的理由，不外乎和以下因素有關：\n➡️ 市場參與者結構的根本性改變：機構、企業 ... 等大型參與者入場\n➡️ 承上，以往主宰週期的 1y-3y 族群，目前的影響力正在下降\n\n//\n\n並且，如果我們從另一個角度來切入分析，也能得到相同的結論💡：\n以往每一次占比的上升，都伴隨著價格的連續下跌；\n但就在過去超過 2 個月的橫盤震盪（甚至略微上漲）的過程中，\n1y-3y 的占比依然保持上升的狀態，說明此族群對於當前區域的 BTC，\n是有興趣入手抄底的，即便占比增速沒有以往來的快。\n\n各位發現了嗎？這和我過去兩個月內反覆強調的「淺熊劇本」正在互相印證‼️\n\n📖 淺熊抄底劇本：極端深度回調或將不復存在\nnitter.net/market_beggar/status/1…\n📖 淺熊抄底系列分析帖（全）：精簡版摘要整理\nnitter.net/market_beggar/status/1…\n\n是的，淺熊劇本正是在挑戰傳統深度修正的週期規律，\n而如今隨著 1y-3y 占比數據的逐漸發展，淺熊劇本的成功率也正隨之提升。\n\n其實早在 2025 年四月，我就提出過「新式週期」的概念雛形，\n當時我曾從鏈上分析的角度，和各位詳細剖析了 2021 年以後的「怪狀」，\n有興趣的朋友可以參考以下鏈接🔗：\n\n📖 從鏈上數據的視角，探討 BTC 逐漸消失的週期性\nnitter.net/market_beggar/status/1…\n\n//\n\n雖然我沒有水晶球，沒辦法向各位保證淺熊劇本必然成功，\n但隨著愈來愈多的數據、跡象的逐步浮現，\n如果你仍堅持以刻舟的方式去判斷 BTC 接下來的走勢，\n那或許多少有些不太理性。\n\n的確我們不能排除「未來再次出現極端黑天鵝導致深度修正」的可能性，\n但如果在沒有任何條件支持的情況下，硬要去說「未來一定有黑天鵝」，\n背後承擔的機會成本（上行風險）就會太大；\n便宜的籌碼大家都想買，但如果他未來都不再那麼便宜了呢❓\n\n最後，用上次分析帖（下方引文）中的一句話來作結尾：\n「如果未來場內的主宰資金完成一波『交棒』，或許就代表：\n未來我們並不需要等到 1y ~ 3y 占比上升至極高的位置，就能迎來底部」\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\nAVIV Heatmap 最新數據更新：淺熊三模型依然保持共振\nnitter.net/market_beggar/status/2…\n\n階段性強力底部訊號：以穩定幣供應比率的角度剖析市場\nnitter.net/market_beggar/status/1…\n\n11 月的暴跌：史無前例的巨型投降事件\nnitter.net/market_beggar/status/2…\n\nBTC 派發強度指標：淺熊劇本的另一友軍\nnitter.net/market_beggar/status/2…\n\n靈魂拷問：現在是熊市的下跌中繼階段嗎\nnitter.net/market_beggar/status/2…\n\n//\n\n【工商時間】\n\n「如果你滿手 U，但又現在不想抄底 ...💰」\n\n來和各位分享一個理財的好去處：Bitget Wallet 鏈上理財\n✅ 長期年化 = 10%，收益來源於 AAVE + Bitget Wallet 長期補貼\n✅ 穩定幣理財（USDC），1 U 起存，支持隨時贖回\n✅ 透明、不碰再質押、不碰循環貸，維持低風險的特性\n\n以上，有興趣的朋友，可以用我以下的邀請碼註冊👇\n邀請碼：「3jTNi6」（需手動綁定）",
+        "link": "https://x.com/market_beggar/status/2015964568250724464",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG_olFVTbAAI15kC.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031102231316238483",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "CT is the most powerful trading tool on earth.\n\nThe moment crypto retards start aping something, you know a mega dump is coming within 24 hours.",
+      "contentHtml": "CT is the most powerful trading tool on earth.\n\nThe moment crypto retards start aping something, you know a mega dump is coming within 24 hours.",
+      "publishedAt": "2026-03-09T20:18:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2031102231316238483",
       "stats": {
         "replies": 0,
         "retweets": 0,
