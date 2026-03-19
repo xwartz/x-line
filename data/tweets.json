@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T05:31:27.679Z",
+  "lastUpdated": "2026-03-19T05:55:44.274Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,59 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 507,
+    "newFetched": 506,
     "successUsers": 25,
     "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2034505736714408116",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "《尊贵的贵金属空头之家》\n\n大胜\n大胜\n大胜",
+      "contentHtml": "《尊贵的贵金属空头之家》\n\n大胜\n大胜\n大胜",
+      "publishedAt": "2026-03-19T05:42:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2034505736714408116",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDwELj4bUAAs2dT.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "$xau 人话，言简意赅\n\n真经不需要800字",
+        "link": "https://x.com/Bitfatty/status/2033438241526087998",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDg5TLvawAAuPab.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034503383734784313",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "piped.video/watch?v=Pw7rDmDI…",
+      "contentHtml": "<a href=\"https://piped.video/watch?v=Pw7rDmDIo6U\">piped.video/watch?v=Pw7rDmDI…</a>",
+      "publishedAt": "2026-03-19T05:33:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2034503383734784313",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2034497879260512648",
       "username": "Bitfatty",
@@ -4383,12 +4431,6 @@
       "contentHtml": "永续合约市场：空头拥挤正在积累燃料\n\n在加密永续合约市场，整体上是多头占据主导。在绝大多数时间里，多头需要向空头支付资金费率。行情越拥挤、追涨情绪越强，资金费率的年化水平往往也会越高。\n\n但如果资金费率转负，意味着合约市场结构出现了显著变化——空头仓位开始占据优势。而往往这种负费率的出现，大致对应两种情形：\n\n🚩  市场处于极端恐慌阶段，大量投资者通过做空对冲或押注进一步下跌；\n🚩  市场在短期内空头拥挤，为后续的轧空行情埋下条件。\n\n数据显示：3月11日永续合约资金费率年化一度降至 -5.5%，为近三年来最明显的一次负费率结构。但当前市场并未出现类似系统性恐慌的环境，更像是在逐步消化此前的超卖情绪。\n\n在该背景下，短期集中堆积的空头反而可能成为价格上涨的燃料。一旦价格反弹，空头回补就可能形成典型的Short Squeeze结构：价格上涨 → 空头回补 → 推动价格进一步上涨。\n\n因此，空头拥挤度的上升，正在提升市场出现轧空反弹的概率。\n\n综合来看，负资金费率所反映的空头拥挤，正在为市场积累潜在的轧空动能；再结合上一篇分析中提到的3月20日之后期权市场GEX的结构变化，让$75,000成为新的波动的焦点。\n\n在这种衍生品结构的共振之下，短期行情的弹性正在悄然提升。在敏感时间段，敏感价位，小伙伴应避免高杠杆，谨慎追空；并时刻关注衍生品市场GEX，资金费率、OI等核心数据的变化。",
       "publishedAt": "2026-03-16T06:49:00.000Z",
       "link": "https://x.com/Murphychen888/status/2033435533893161445",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDg1S14bkAExyRI.jpg"
-        }
-      ],
       "quote": {
         "username": "Murphychen888",
         "displayName": "Murphy",
@@ -6510,17 +6552,7 @@
         "username": "Murphychen888",
         "displayName": "Murphy",
         "content": "在昨天的推文中我们提到，当交易所内BTC余额持续下降，现货需求阶段性承接可使BTC在短期内维持震荡或弱反弹走势。\n\n如果是弱反弹路径，那么BTC即将遇到的第一重阻力便是“MVRV极端偏差定价区间”中绿线的位置（-0.5 std）—— $74,000（图1）。\n\n从历史轨迹来看，每当BTC跌破绿线时，代表行情进入熊市的第2阶段，此后反弹很难再有效突破此概率区间，直到熊市结束。\n\n如果切换到群体成本的角度，目前BTC可以比较稳定的站上“持有1w-1m”的超短期筹码成本线，说明近期抄底的资金对价格已不敏感，抛压减少价格才能站稳（图2）。\n\n在此上方就是持有1y-2y的长期持有者的平均换手成本，目前是$78,880；这里累积有242w枚的巨量筹码，以现有的整体需求水平来看，我个人认为很难一次性就顺利通过。\n\n另外，期权市场在3月20日的行权日，在$74,000位置是一个Long Gamma状态，目前的Gamma风险敞口（GEX）有1.8亿美元（图3）。\n\n我们知道在Long Gamma状态下，当价格下跌，MM要买入BTC；价格上涨，要卖出BTC对冲；因此形成了Gamma引力。\n\n综上所述，我个人对弱反弹路径的预期就在$74,000 - $79,000 之间，在此范围内我可能会找机会做一笔高位空的尝试，止损位置很清晰，一旦突破$79,000那就说明前期的判断错误，就及时止损。\n\n如果没到，那就继续耐心的在下行趋势中等低位接现货。总之就是少操作，等高确定性的机会。",
-        "link": "https://x.com/Murphychen888/status/2032296777253339608",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDQqigbbQAMPhNI.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDQqmJfbwAAVxcw.jpg"
-          }
-        ]
+        "link": "https://x.com/Murphychen888/status/2032296777253339608"
       },
       "stats": {
         "replies": 0,
@@ -8203,20 +8235,6 @@
       "contentHtml": "在昨天的推文中我们提到，当交易所内BTC余额持续下降，现货需求阶段性承接可使BTC在短期内维持震荡或弱反弹走势。\n\n如果是弱反弹路径，那么BTC即将遇到的第一重阻力便是“MVRV极端偏差定价区间”中绿线的位置（-0.5 std）—— $74,000（图1）。\n\n从历史轨迹来看，每当BTC跌破绿线时，代表行情进入熊市的第2阶段，此后反弹很难再有效突破此概率区间，直到熊市结束。\n\n如果切换到群体成本的角度，目前BTC可以比较稳定的站上“持有1w-1m”的超短期筹码成本线，说明近期抄底的资金对价格已不敏感，抛压减少价格才能站稳（图2）。\n\n在此上方就是持有1y-2y的长期持有者的平均换手成本，目前是$78,880；这里累积有242w枚的巨量筹码，以现有的整体需求水平来看，我个人认为很难一次性就顺利通过。\n\n另外，期权市场在3月20日的行权日，在$74,000位置是一个Long Gamma状态，目前的Gamma风险敞口（GEX）有1.8亿美元（图3）。\n\n我们知道在Long Gamma状态下，当价格下跌，MM要买入BTC；价格上涨，要卖出BTC对冲；因此形成了Gamma引力。\n\n综上所述，我个人对弱反弹路径的预期就在$74,000 - $79,000 之间，在此范围内我可能会找机会做一笔高位空的尝试，止损位置很清晰，一旦突破$79,000那就说明前期的判断错误，就及时止损。\n\n如果没到，那就继续耐心的在下行趋势中等低位接现货。总之就是少操作，等高确定性的机会。",
       "publishedAt": "2026-03-13T03:24:00.000Z",
       "link": "https://x.com/Murphychen888/status/2032296777253339608",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDQqigbbQAMPhNI.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDQqmJfbwAAVxcw.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDQqp--bQAAl0Rd.jpg"
-        }
-      ],
       "quote": {
         "username": "Murphychen888",
         "displayName": "Murphy",
@@ -11396,6 +11414,39 @@
       }
     },
     {
+      "id": "2031196547812306984",
+      "username": "Hzzzz666",
+      "displayName": "Hzzzz",
+      "avatar": "https://nitter.net/pic/profile_images%2F1959499539607617536%2F9ZWsHyhY_bigger.jpg",
+      "content": "我在 @Bybit_Official 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n@Bybit_Official @Bybit_ZH @Alpha_Bybit @linabybit @benbybit",
+      "contentHtml": "我在 <a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> 的TradFi平台玩期货赚钱了不让提现是什么意思？说我账户中的某些交易违反了交易政策？真刷新我世界观了\n\n我在MT5账户中的所有交易均为本人手动操作，不存在任何违规交易、异常操作、套利或违反平台规则的行为。\n\n本次交易盈利来源于原油行情本身处于主升趋势，我依据市场行情正常开仓、平仓，属于正常的交易判断与投资行为，盈利完全合理、合规。\n\n我从未参与任何涉嫌违规、违法的交易活动，也不存在贵方所说的可疑交易行为。\n\n请尽快解决！我身正不怕影子斜\n<a href=\"/Bybit_Official\" title=\"Bybit\">@Bybit_Official</a> <a href=\"/Bybit_ZH\" title=\"Bybit 华语\">@Bybit_ZH</a> <a href=\"/Alpha_Bybit\" title=\"Bybit Alpha\">@Alpha_Bybit</a> <a href=\"/linabybit\" title=\"Lina🦊Bybit\">@linabybit</a> <a href=\"/benbybit\" title=\"Ben Zhou\">@benbybit</a>",
+      "publishedAt": "2026-03-10T02:32:00.000Z",
+      "link": "https://x.com/Hzzzz666/status/2031196547812306984",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDBCfUXaMAQRMzk.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDBCfUJaMAIHZqW.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDBCfULaMAYYPy9.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "daidaibtc",
+        "displayName": "带带带比特"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2031195110927376664",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -11471,75 +11522,6 @@
       "contentHtml": "我总结了一下，这是已经被特朗普糟蹋完的，所以反应小",
       "publishedAt": "2026-03-10T02:00:00.000Z",
       "link": "https://x.com/Bitfatty/status/2031188333272117329",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031187402073714887",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "😂各种方向全面挨打\n\n说实话，只有币圈的多单还在",
-      "contentHtml": "😂各种方向全面挨打\n\n说实话，只有币圈的多单还在",
-      "publishedAt": "2026-03-10T01:56:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2031187402073714887",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDA6LFVa4AAD8TJ.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031186160391958933",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "白云千载空悠悠。晴川历历鹰酱推\n\n怕了怕了\n\n不信邪不行",
-      "contentHtml": "白云千载空悠悠。晴川历历鹰酱推\n\n怕了怕了\n\n不信邪不行",
-      "publishedAt": "2026-03-10T01:51:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2031186160391958933",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDA4y5HaMAEVPhB.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "现在二级有 3 台大卡车  \n\n凉兮\n川沐\n熬鹰\n\n你本来开车开的好好的\n他们突然加速，超车，变道，急刹车，你没了\n要么开着开着被从屁股后面猛撞一下，直行还好，弯道你直接就飞出去\n飞出去了",
-        "link": "https://x.com/Bitfatty/status/1919019345197539552"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031185437054685356",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "虽然 $AAPL 现在估值不便宜，但每一次产品的延后都是为了AI智能体SIRI的落地，多买点吧，真正的AI落地将会在苹果身上引爆",
-      "contentHtml": "虽然 <a href=\"/search?f=tweets&q=%23AAPL\">$AAPL</a> 现在估值不便宜，但每一次产品的延后都是为了AI智能体SIRI的落地，多买点吧，真正的AI落地将会在苹果身上引爆",
-      "publishedAt": "2026-03-10T01:48:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2031185437054685356",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDA4IsMWQAA_161.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
