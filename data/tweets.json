@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T07:08:23.414Z",
+  "lastUpdated": "2026-03-20T07:34:32.586Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,42 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 520,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 447,
+    "successUsers": 22,
+    "failedUsers": 5
   },
   "tweets": [
+    {
+      "id": "2034894632136663211",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "Crypto交易所里，AI类功能明显增加了，\n但仍主要是“分析项目/资讯/行情/技术”。\n\n其实“分析人”才更有意义，\n也更好玩更容易“产品即传播”，\n让更多人真正用起来的同时，互相分享，\n这里面角度无限。\n\n交易这件事：内观>外观\n\n举个简单例子帮助理解，\n比如交易所同样做“Ai预测”这个点：\n\nA. 根据BTC历史预测今天涨跌\nB. 根据你个人历史预测你今天会想下什么单\n\nA和B哪个你会更想看看？更有分享欲？\n\n这是第一层。\n\n第二层是，\n这类“ai功能”不应该都由交易所官方\n自上而下来吭哧吭哧做，\n应该像可被社区vibe制作和分享的Skill，\n提供一种机制体系，一种“舞台”，\n让社区自下而上来释放无限创造力，\n基于此激发分享交流。\n\n龙虾/Claude code的繁荣，\n相当程度上得益于“社区Skill”这个“舞台”。\n\n然后是第三层：\n交易所纷纷都在做\n“帮你自动做交易的Agent”\n但交易所在这件事上忽视了一个前提：\n你Ai Chatbot首先得“说”得好，\n我才愿意相信你Ai Agent“做”得好，\n愿意放权给你Ai去做。\n\n但现在交易所Ai分析输出“说”的，\n如果主要是公共新闻资讯、价格技术分析，\n量化分析等等这些内容，\n那么要让用户依此下决心让Ai去“做”，\n这里的问题是：\n普通玩家我，对于诸多资讯+技术量化分析知识，\n是不懂、缺乏分辨力、耐心、缺乏信心的，\n太抽象晦涩，缺乏“确信感”去相信并尝试的。\n你问一个普通玩家“你有什么交易策略想法？”\n大部分人根本答不上来。\n普通玩家也不会在公共讨论空间里，\n有互相分享交流这些东西的欲望。\n\n何况，就算用户去尝试了\n“用自然语言描述一个想法，Ai写出这个策略执行”，\n更偏向于是“Ai帮做策略”而不是“Ai交易”，\n即使是Ai帮写策略，对于普通人来说，\n以此去跟正经持续迭代的量化玩家“硬碰硬”，\n很难有edge优势。\n\n但如果，我们把角度切换到上述的第一层\n“围绕人”，而不是“围绕量化技术”，\n那么：\n“某某KOL大佬其实经常反指”\n“某某KOL做短线很厉害”\n“某某实盘KOL牛逼，最低点他发推看多”\n这些围绕人的看法，是大家普遍本就有的。\n对多数普通玩家来说，是认知门槛很低的，\n很具象，也是有主观确信感的，\n也是大家在公共讨论空间里津津乐道，\n主动互相Social分享的。\n\n如果交易所AI可以“说”这类东西，\n用户自然有兴趣尝试让交易所AI去依此“做”。\n\n那么这个时候，举例：\n假如我告诉你，我用交易所MCP，\n做了一个“Skill”+看板：\n同时参考熬鹰、Tony、Yilihua\n3名交易员的交易、社媒信号，\n给予他们不同的正指/反指+百分比权重，\n给你发可视化汇总日报，\n或者可以只有当这三人的信号同时共振时，\n才给你发信号，或者直接下单。\n\n这样的“Skill”+可视化看板，我分享出来，\n在你的交易所Ai Agent里，一键/一句提示词调用。\n这是不是有趣多了？你不会想试试看效果吗？\n\n半年前，我就多次公开提过\n这类“围绕人+ai”的想法建议，包括不限于：\nnitter.net/coolish/status/1984124…\nnitter.net/coolish/status/1984117…\nnitter.net/coolish/status/1984172…\nnitter.net/coolish/status/1986773…\n\n去年我把自己的BTC实盘API key公布与众，\n很多不认识的网友，\n基于我的api数据都vibe了不少产品：\nnitter.net/coolish/status/1993190…\nnitter.net/coolish/status/1995742…\n这就是“围绕人”的Open Intelligence开放智慧力量，\n这还是缺乏交易所MCP等等降低门槛引导的情况下。\n\n交易所手握最有价值的真金白银数据上下文，\n最适合去提供这样的降低二创门槛+分享的“舞台”。\n\n角度，角度，角度。\n如果有了这样的“舞台”，\n大家可以有无数种角度，创造无数种这样的东西。\n而交易所官方根本没法做这些有趣的东西，\n只有社区才行。",
+      "contentHtml": "Crypto交易所里，AI类功能明显增加了，\n但仍主要是“分析项目/资讯/行情/技术”。\n\n其实“分析人”才更有意义，\n也更好玩更容易“产品即传播”，\n让更多人真正用起来的同时，互相分享，\n这里面角度无限。\n\n交易这件事：内观&gt;外观\n\n举个简单例子帮助理解，\n比如交易所同样做“Ai预测”这个点：\n\nA. 根据BTC历史预测今天涨跌\nB. 根据你个人历史预测你今天会想下什么单\n\nA和B哪个你会更想看看？更有分享欲？\n\n这是第一层。\n\n第二层是，\n这类“ai功能”不应该都由交易所官方\n自上而下来吭哧吭哧做，\n应该像可被社区vibe制作和分享的Skill，\n提供一种机制体系，一种“舞台”，\n让社区自下而上来释放无限创造力，\n基于此激发分享交流。\n\n龙虾/Claude code的繁荣，\n相当程度上得益于“社区Skill”这个“舞台”。\n\n然后是第三层：\n交易所纷纷都在做\n“帮你自动做交易的Agent”\n但交易所在这件事上忽视了一个前提：\n你Ai Chatbot首先得“说”得好，\n我才愿意相信你Ai Agent“做”得好，\n愿意放权给你Ai去做。\n\n但现在交易所Ai分析输出“说”的，\n如果主要是公共新闻资讯、价格技术分析，\n量化分析等等这些内容，\n那么要让用户依此下决心让Ai去“做”，\n这里的问题是：\n普通玩家我，对于诸多资讯+技术量化分析知识，\n是不懂、缺乏分辨力、耐心、缺乏信心的，\n太抽象晦涩，缺乏“确信感”去相信并尝试的。\n你问一个普通玩家“你有什么交易策略想法？”\n大部分人根本答不上来。\n普通玩家也不会在公共讨论空间里，\n有互相分享交流这些东西的欲望。\n\n何况，就算用户去尝试了\n“用自然语言描述一个想法，Ai写出这个策略执行”，\n更偏向于是“Ai帮做策略”而不是“Ai交易”，\n即使是Ai帮写策略，对于普通人来说，\n以此去跟正经持续迭代的量化玩家“硬碰硬”，\n很难有edge优势。\n\n但如果，我们把角度切换到上述的第一层\n“围绕人”，而不是“围绕量化技术”，\n那么：\n“某某KOL大佬其实经常反指”\n“某某KOL做短线很厉害”\n“某某实盘KOL牛逼，最低点他发推看多”\n这些围绕人的看法，是大家普遍本就有的。\n对多数普通玩家来说，是认知门槛很低的，\n很具象，也是有主观确信感的，\n也是大家在公共讨论空间里津津乐道，\n主动互相Social分享的。\n\n如果交易所AI可以“说”这类东西，\n用户自然有兴趣尝试让交易所AI去依此“做”。\n\n那么这个时候，举例：\n假如我告诉你，我用交易所MCP，\n做了一个“Skill”+看板：\n同时参考熬鹰、Tony、Yilihua\n3名交易员的交易、社媒信号，\n给予他们不同的正指/反指+百分比权重，\n给你发可视化汇总日报，\n或者可以只有当这三人的信号同时共振时，\n才给你发信号，或者直接下单。\n\n这样的“Skill”+可视化看板，我分享出来，\n在你的交易所Ai Agent里，一键/一句提示词调用。\n这是不是有趣多了？你不会想试试看效果吗？\n\n半年前，我就多次公开提过\n这类“围绕人+ai”的想法建议，包括不限于：\n<a href=\"https://nitter.net/coolish/status/1984124838567670055\">nitter.net/coolish/status/1984124…</a>\n<a href=\"https://nitter.net/coolish/status/1984117602680238368\">nitter.net/coolish/status/1984117…</a>\n<a href=\"https://nitter.net/coolish/status/1984172267740524699\">nitter.net/coolish/status/1984172…</a>\n<a href=\"https://nitter.net/coolish/status/1986773353710186608\">nitter.net/coolish/status/1986773…</a>\n\n去年我把自己的BTC实盘API key公布与众，\n很多不认识的网友，\n基于我的api数据都vibe了不少产品：\n<a href=\"https://nitter.net/coolish/status/1993190610745098589\">nitter.net/coolish/status/1993190…</a>\n<a href=\"https://nitter.net/coolish/status/1995742733324222738\">nitter.net/coolish/status/1995742…</a>\n这就是“围绕人”的Open Intelligence开放智慧力量，\n这还是缺乏交易所MCP等等降低门槛引导的情况下。\n\n交易所手握最有价值的真金白银数据上下文，\n最适合去提供这样的降低二创门槛+分享的“舞台”。\n\n角度，角度，角度。\n如果有了这样的“舞台”，\n大家可以有无数种角度，创造无数种这样的东西。\n而交易所官方根本没法做这些有趣的东西，\n只有社区才行。",
+      "publishedAt": "2026-03-20T07:27:00.000Z",
+      "link": "https://x.com/coolish/status/2034894632136663211",
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "币安这个“聪明钱”列表，如图1\n账号下方应该显示些诸如\nai总结此人实盘概况、特点亮点、风格，\n省去用户自己当数据研究筛选挖掘员的麻烦，\n甚至有个“这些人和我的交易偏好相似”之类的。\n\n另外如图2，既然都支持分享实盘网页出来了，这网页不登录就看不了实盘，很难不感觉很腾讯。\n\n币安和OK在这块都反应迟钝，\n怎么迟迟没有第三方来抢这个机会呢？\n每个人可自己创建的交易所账号api，\n每天源源不断输出的信息，\n这难道不是对每个人自己来说最重要的信息吗？这都不build还build个什么？连项目方都没想到过让用户交api来做任务或者哪怕防女巫？\n这块有机会诞生+ai的好产品出来吗？",
+        "link": "https://x.com/coolish/status/1986773353710186608",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG5Jv0_Na8AAvuT-.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG5Jv0_NaIAAs0Y1.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2034883045577433260",
       "username": "taresky",
@@ -11741,39 +11772,6 @@
       "contentHtml": "速速暴跌",
       "publishedAt": "2026-03-11T03:20:00.000Z",
       "link": "https://x.com/follow_clues/status/2031570950886719815",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031565074012450912",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "【指标更新📊】刻成🧘‍♂️",
-      "contentHtml": "【指标更新📊】刻成🧘‍♂️",
-      "publishedAt": "2026-03-11T02:57:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2031565074012450912",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDGRdkCaMAkBv55.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "刻个三顶🤓\n\n图中上方指标为 #BTC 价格；下方指标为 #BTC: Realized Cap HODL Waves [<90天]\n\nBTC: Realized Cap HODL Waves 是一个链上指标，它将比特币的实现市值（Realized Capitalization，即根据每个币最后一次移动时的价格计算的总价值）按币的持有时长进行分布显示。<90 天的合集是指所有持有时长不足 90 天的币的实现市值占比之和。这个指标主要反映了以下方面：\n\n1. 短期持有者的占比和市场活跃度：它代表了最近进入市场或频繁交易的“热钱”比例。这些币往往由短期投机者、新入场投资者或交易者持有，反映了市场的短期流动性、买卖活跃度和投机情绪。如果这个比例上升，通常表示有大量新资金流入，或短期交易增加；反之，如果下降，则表示币在“老化”，更多持有者转向长期持有\n\n2. 潜在的卖压或买压信号：高比例的 <90 天持有往往与市场顶部相关，因为短期持有者更容易在价格波动时抛售，导致卖压增加。低比例则可能表示市场底部，币被长期持有者积累，减少了流通供给，潜在支撑未来上涨\n\n3. 市场周期的指示：在比特币的历史周期中，这个指标常用于判断牛熊转换：牛市中，<90 天比例往往从低点（<20%）上升到高点（>50%），反映新资金和 FOMO 情绪。熊市中，它会下降，表明投机者离场，长期持有者主导市场",
-        "link": "https://x.com/0xCryptoChan/status/1987735321942098031",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG5XOhmmb0AERXwy.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
