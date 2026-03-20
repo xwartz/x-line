@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T06:34:35.711Z",
+  "lastUpdated": "2026-03-20T07:08:23.414Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 507,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 520,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2034883045577433260",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "现在是 ai 的时代\nai 这么牛逼\n你把 ai 运用地这么娴熟\n\n你怎么还在卖课啊？",
+      "contentHtml": "现在是 ai 的时代\nai 这么牛逼\n你把 ai 运用地这么娴熟\n\n你怎么还在卖课啊？",
+      "publishedAt": "2026-03-20T06:41:00.000Z",
+      "link": "https://x.com/taresky/status/2034883045577433260",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2034878402516459619",
       "username": "0xCryptoChan",
@@ -11758,27 +11773,6 @@
             "url": "https://nitter.net/pic/orig/media%2FG5XOhmmb0AERXwy.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031555565416231197",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "三年前我就說過，RWA 是服務圈內人的。\n\n三年過去了，這句話還是沒變。\n\nCrypto 圈講的 RWA 是所有資產都要上鏈，讓所有人都能買。\n\n但看看真正落地的案例：BlackRock 的 BUIDL。$18B 規模，上了 Ethereum、Solana 等九條鏈。聽起來很厲害對吧？\n\n但申購最低門檻 500 萬美金，限 qualified investors，白話講就是有錢人限定。全部要 KYC，只有白名單錢包能持有。\n\nToken 鎖在白名單錢包裡，不參與 DeFi，不產生交易量，不帶來新用戶。\n\n這些錢只是停在鏈上的國債，不會被借出、不會被 LP、不會產生飛輪效應。對 TVL 沒有任何意義。\n\n鏈本身可替換。BUIDL 同時在 9 條鏈上，對他們來說鏈就是資料庫，哪條便宜用哪條。\n\n而買 BUIDL 的是誰？\n\n不是什麼傳統金融機構湧入 Crypto。就是圈內的機構自己，把閒錢停在裡面吃國債利息、拿去交易所當保證金。\n\n$18B 聽起來很多，但就是 Crypto 的錢在 Crypto 裡面繞，\n增量資金根本不存在。\n\n再來看交易所這邊。\n\n現在一堆交易所在上美股、大宗商品交易，聽起來像是 RWA 的另一種落地。\n\n但很多上的是 CFD 合約，背後根本沒有現貨。連真實資產都不存在，這算哪門子的 Real World Asset？\n\n就算真的有現貨好了，本質上也只是在分流幣圈自己的資金。\n\n你想想，為什麼交易所要上這些東西？因為美股一直漲、黃金一直漲，用戶的注意力跟資金往外跑。交易所怕人跑掉，所以上了一些圈外資產把你留住。\n\n還有人說穩定幣就是 RWA。\n\n對，技術上來說 USDT 跟 USDC 背後是美元資產，確實符合定義。\n\n但穩定幣這兩年市值成長了這麼多，跟幣圈市值有正向關係嗎？\n\n沒有。\n\n穩定幣市值從 2024 年初的 $130B 成長到現在超過 $310B，翻了 1.4 倍。同一段時間，山寨幣市值不增反減。穩定幣的增長跟你手上的幣漲不漲，一點關係也沒有。\n\n我當年說出這句話的時候，還被人靠北，說什麼我看不懂 RWA 就不要亂講話。\n\n其實撇除一堆包裝去看真實的狀況，這句話一直到現在都沒變。",
-      "contentHtml": "三年前我就說過，RWA 是服務圈內人的。\n\n三年過去了，這句話還是沒變。\n\nCrypto 圈講的 RWA 是所有資產都要上鏈，讓所有人都能買。\n\n但看看真正落地的案例：BlackRock 的 BUIDL。$18B 規模，上了 Ethereum、Solana 等九條鏈。聽起來很厲害對吧？\n\n但申購最低門檻 500 萬美金，限 qualified investors，白話講就是有錢人限定。全部要 KYC，只有白名單錢包能持有。\n\nToken 鎖在白名單錢包裡，不參與 DeFi，不產生交易量，不帶來新用戶。\n\n這些錢只是停在鏈上的國債，不會被借出、不會被 LP、不會產生飛輪效應。對 TVL 沒有任何意義。\n\n鏈本身可替換。BUIDL 同時在 9 條鏈上，對他們來說鏈就是資料庫，哪條便宜用哪條。\n\n而買 BUIDL 的是誰？\n\n不是什麼傳統金融機構湧入 Crypto。就是圈內的機構自己，把閒錢停在裡面吃國債利息、拿去交易所當保證金。\n\n$18B 聽起來很多，但就是 Crypto 的錢在 Crypto 裡面繞，\n增量資金根本不存在。\n\n再來看交易所這邊。\n\n現在一堆交易所在上美股、大宗商品交易，聽起來像是 RWA 的另一種落地。\n\n但很多上的是 CFD 合約，背後根本沒有現貨。連真實資產都不存在，這算哪門子的 Real World Asset？\n\n就算真的有現貨好了，本質上也只是在分流幣圈自己的資金。\n\n你想想，為什麼交易所要上這些東西？因為美股一直漲、黃金一直漲，用戶的注意力跟資金往外跑。交易所怕人跑掉，所以上了一些圈外資產把你留住。\n\n還有人說穩定幣就是 RWA。\n\n對，技術上來說 USDT 跟 USDC 背後是美元資產，確實符合定義。\n\n但穩定幣這兩年市值成長了這麼多，跟幣圈市值有正向關係嗎？\n\n沒有。\n\n穩定幣市值從 2024 年初的 $130B 成長到現在超過 $310B，翻了 1.4 倍。同一段時間，山寨幣市值不增反減。穩定幣的增長跟你手上的幣漲不漲，一點關係也沒有。\n\n我當年說出這句話的時候，還被人靠北，說什麼我看不懂 RWA 就不要亂講話。\n\n其實撇除一堆包裝去看真實的狀況，這句話一直到現在都沒變。",
-      "publishedAt": "2026-03-11T02:19:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2031555565416231197",
-      "quote": {
-        "username": "BensonTWN",
-        "displayName": "Benson Sun",
-        "content": "RWA 本質上是服務圈內資金\n在法幣出入口被掐緊、資金進出有匯損的狀況下\n幣圈大量的沈澱資金無處可去\n只能眼巴巴地看 TradFi 的人投資無風險 4-5% 的國債\n由於 TradFi 的無風險利率無法傳導到幣圈來\n這才有了 RWA 的發展空間\n\n只要法幣出入有磨損/阻礙\nDeFi 往 RWA 走就是必然的結果\n不過牛市還是需要有能夠吸引場外資金的敘事\nRWA 這種本質上服務於圈內人的賽道\n注定難以成為牛市的催化劑",
-        "link": "https://x.com/BensonTWN/status/1704353954614870082"
       },
       "stats": {
         "replies": 0,
