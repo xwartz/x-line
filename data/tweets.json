@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T17:47:18.451Z",
+  "lastUpdated": "2026-03-20T18:14:39.718Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,68 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 462,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 489,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2035056437043339286",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "完全同意这个比喻，更可怕的可能是在TOKEN那么贵的早期时候，软件工程师的人力就已经遭到了破坏，难以想象TOKEN便宜到白菜价时可以破坏的市场。这是一股非常强的通缩力量",
+      "contentHtml": "完全同意这个比喻，更可怕的可能是在TOKEN那么贵的早期时候，软件工程师的人力就已经遭到了破坏，难以想象TOKEN便宜到白菜价时可以破坏的市场。这是一股非常强的通缩力量",
+      "publishedAt": "2026-03-20T18:10:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2035056437043339286",
+      "quote": {
+        "username": "StefanShi651815",
+        "displayName": "Baby Mango",
+        "content": "现在的人\ntoken还处于非常早期的阶段，给我的感觉就是我们处于15-20年前中国的移动互联网早期时代，那时候流量一个月500k,1.2m都要花钱买，用流量都要卡着用。但是看看现在，一切应用都建立在几乎无限的流量上面。再也没有人用app顾及流量不够用，消费者也愿意为这个流量买单。token就是过去的流量",
+        "link": "https://x.com/StefanShi651815/status/2035026784023191898"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2035054886644277692",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "#产品经理\n\n我想到以前做产品的时候，提出一个功能和需求，我会去想它背后如何实现。 \n\n有些时候开发给出的方案，会存在很多边界情况，需要去额外做判断。 比较糟糕的情况是，这些边界情况越来越多，最后导致这个实现方法必须完全推翻。\n\n不过有时候我可以想到一种实现方法，一个简洁的描述，竟然包含了所有的边界情况。 \n\n后来我知道这种能力叫抽象能力。 \n\n我不知道它具体应该如何培养，这种能力被我评价为产品经理第二重要的能力。\n\n（最重要的能力是业务理解，最不重要的能力是原型设计😂）",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23产品经理\">#产品经理</a>\n\n我想到以前做产品的时候，提出一个功能和需求，我会去想它背后如何实现。 \n\n有些时候开发给出的方案，会存在很多边界情况，需要去额外做判断。 比较糟糕的情况是，这些边界情况越来越多，最后导致这个实现方法必须完全推翻。\n\n不过有时候我可以想到一种实现方法，一个简洁的描述，竟然包含了所有的边界情况。 \n\n后来我知道这种能力叫抽象能力。 \n\n我不知道它具体应该如何培养，这种能力被我评价为产品经理第二重要的能力。\n\n（最重要的能力是业务理解，最不重要的能力是原型设计😂）",
+      "publishedAt": "2026-03-20T18:04:00.000Z",
+      "link": "https://x.com/taresky/status/2035054886644277692",
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#AI \n\n现在 Vibe Coding 过程最痛苦的是 AI 根据我的需求设计框架，他就算解释给我听，很多名词我都完全不明白...\n\n不过很爽的是一个点是，以前我脑子里抽象出来的，那些非常简洁、兼容性非常强的逻辑。\n\n我自己不知道数学和代码上如何实现，但 AI 果然知道，这些东西在软件工程早就有标准答案和解法。\n\n相信只要准备足够多的 Claude 200 刀账号，迟早能给它磨出来。",
+        "link": "https://x.com/taresky/status/2035052537615970362"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2035052537615970362",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n现在 Vibe Coding 过程最痛苦的是 AI 根据我的需求设计框架，他就算解释给我听，很多名词我都完全不明白...\n\n不过很爽的是一个点是，以前我脑子里抽象出来的，那些非常简洁、兼容性非常强的逻辑。\n\n我自己不知道数学和代码上如何实现，但 AI 果然知道，这些东西在软件工程早就有标准答案和解法。\n\n相信只要准备足够多的 Claude 200 刀账号，迟早能给它磨出来。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n现在 Vibe Coding 过程最痛苦的是 AI 根据我的需求设计框架，他就算解释给我听，很多名词我都完全不明白...\n\n不过很爽的是一个点是，以前我脑子里抽象出来的，那些非常简洁、兼容性非常强的逻辑。\n\n我自己不知道数学和代码上如何实现，但 AI 果然知道，这些东西在软件工程早就有标准答案和解法。\n\n相信只要准备足够多的 Claude 200 刀账号，迟早能给它磨出来。",
+      "publishedAt": "2026-03-20T17:55:00.000Z",
+      "link": "https://x.com/taresky/status/2035052537615970362",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2035044971804561720",
       "username": "follow_clues",
@@ -3363,31 +3420,6 @@
         "displayName": "欧德曼",
         "content": "同时违背了老师只做龙头不做补涨和做不成xxx币安就不用干了两项原则",
         "link": "https://x.com/theold1926/status/2033908146557882668"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034263055971110987",
-      "username": "MaggieUSMacro",
-      "displayName": "Maggie",
-      "avatar": "https://nitter.net/pic/profile_images%2F2008884052229771266%2FThxwB8yN_bigger.jpg",
-      "content": "【散户接盘黄金和白银，机构已悄悄跑路。】\n\n国际清算银行（BIS）数据：从2025年到2026年初，\n\n黄金市场：\n散户投资者（黄色）买入超过 600亿美元；\n机构投资者（红色）在 2026 年第一季度加速抛售撤离，卖出金额突破 10亿美元。\n重点是下降斜率很大，而不是平缓的阶梯状（正常止盈曲线特征）。这说明机构不是在“慢慢收割利润”，而是在抢跑。\n\n白银市场：同黄金市场趋势但规模小\n散户投资者（紫色）买入约100亿美元；\n机构投资者（蓝色）在 2026 年第一季度抛售撤离，卖出金额约5亿美元。\n#黄金 #白银",
-      "contentHtml": "【散户接盘黄金和白银，机构已悄悄跑路。】\n\n国际清算银行（BIS）数据：从2025年到2026年初，\n\n黄金市场：\n散户投资者（黄色）买入超过 600亿美元；\n机构投资者（红色）在 2026 年第一季度加速抛售撤离，卖出金额突破 10亿美元。\n重点是下降斜率很大，而不是平缓的阶梯状（正常止盈曲线特征）。这说明机构不是在“慢慢收割利润”，而是在抢跑。\n\n白银市场：同黄金市场趋势但规模小\n散户投资者（紫色）买入约100亿美元；\n机构投资者（蓝色）在 2026 年第一季度抛售撤离，卖出金额约5亿美元。\n<a href=\"/search?f=tweets&q=%23黄金\">#黄金</a> <a href=\"/search?f=tweets&q=%23白银\">#白银</a>",
-      "publishedAt": "2026-03-18T13:38:00.000Z",
-      "link": "https://x.com/MaggieUSMacro/status/2034263055971110987",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDsnRlBbgAAumuB.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "follow_clues",
-        "displayName": "Theclues"
       },
       "stats": {
         "replies": 0,
@@ -11758,36 +11790,6 @@
       "contentHtml": "看了一圈，华语圈基本都是短线，要不就是去风险，要不就是大宗；老外圈几个大V，股市静得不合理，要不暴涨要不暴跌，散户看空期权历史高位，可能形成大跌。可能现在的市场做多的都默默买，不发推了？\n风险大家都能看得到，讨论机会的人却很少，只是观察",
       "publishedAt": "2026-03-11T23:06:00.000Z",
       "link": "https://x.com/TJ_Research/status/2031869420503519609",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031806134755963007",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "伊朗要赔偿加国际保证不再被侵略\n川普最好的接招方式：赔偿被炸的小学，推卸责任到战场负责人；国际保证短时间就挺难实现的，但条件已经开出来了，慢慢磋商",
-      "contentHtml": "伊朗要赔偿加国际保证不再被侵略\n川普最好的接招方式：赔偿被炸的小学，推卸责任到战场负责人；国际保证短时间就挺难实现的，但条件已经开出来了，慢慢磋商",
-      "publishedAt": "2026-03-11T18:55:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2031806134755963007",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031802668482703397",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "背包的话100-150m 某种程度来说还是蛮便宜的，毕竟是cex，虽然没什么真实用户，也吸引不了正常用户用bp，适量买一点平台币还可以。在贵一点就算了",
-      "contentHtml": "背包的话100-150m 某种程度来说还是蛮便宜的，毕竟是cex，虽然没什么真实用户，也吸引不了正常用户用bp，适量买一点平台币还可以。在贵一点就算了",
-      "publishedAt": "2026-03-11T18:41:00.000Z",
-      "link": "https://x.com/0xleng1/status/2031802668482703397",
       "stats": {
         "replies": 0,
         "retweets": 0,
