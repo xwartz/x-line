@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T18:54:23.889Z",
+  "lastUpdated": "2026-03-20T19:17:32.271Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 483,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 468,
+    "successUsers": 23,
+    "failedUsers": 4
   },
   "tweets": [
     {
@@ -2940,6 +2940,25 @@
       "contentHtml": "推上一直在讨论抄底迪拜的地产，\n其实对于中东的富人来说，\n现在抄底香港地产才是最优解。",
       "publishedAt": "2026-03-19T00:11:00.000Z",
       "link": "https://x.com/hazenlee/status/2034422469172347308",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034419236911935721",
+      "username": "ohyishi",
+      "displayName": "Yishi",
+      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
+      "content": "x.com/i/article/203424651860…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2034246518606344192\">x.com/i/article/203424651860…</a>",
+      "publishedAt": "2026-03-18T23:58:00.000Z",
+      "link": "https://x.com/ohyishi/status/2034419236911935721",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5902,6 +5921,41 @@
       "contentHtml": "没有牛回",
       "publishedAt": "2026-03-16T23:00:00.000Z",
       "link": "https://x.com/hazenlee/status/2033679789010391402",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033671849096433758",
+      "username": "m1ssuo",
+      "displayName": "Vincent Yang",
+      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
+      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
+      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
+      "publishedAt": "2026-03-16T22:28:00.000Z",
+      "link": "https://x.com/m1ssuo/status/2033671849096433758",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "quote": {
+        "username": "landiantech",
+        "displayName": "蓝点网",
+        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
+        "link": "https://x.com/landiantech/status/2032275955432243524",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11746,42 +11800,6 @@
         "username": "naval",
         "displayName": "Naval"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031880751583535191",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "网友最喜欢的就是逼大V表态，你必须给我立场鲜明！典型的二极管思维。我基本不删帖，如果删帖一定是有我认为表达不妥的地方，和我立场无关。\n网络上有一类人是靠踩别人来获取流量，很low的方法，但有人喜欢看，因为很多人心底里都有八卦的心，喜欢看别人的不好，所谓存在即合理，对于这类人我多搭理一句都是浪费时间。\n关于我是不是认为中国要打台湾，群都有聊天记录的，我不需要贴，也懒得贴。\n关于我对于台湾的看法，前两天我已经说过了，“我是台湾人我也不愿意改变，但是我支持沟通与交流，真要打起来谁赢我都不开心”\n这个回复本来也是多余，你们自己要有判断是非黑白的能力。如果觉得我们三观不符的，我没必要解释，道不同不相为谋，别来试图改变我或者认为自己就是真理，我根本不Care你的真理，直接取关我就好，祝好。\nP.S 以后再回复这种留言我就是🐶",
-      "contentHtml": "网友最喜欢的就是逼大V表态，你必须给我立场鲜明！典型的二极管思维。我基本不删帖，如果删帖一定是有我认为表达不妥的地方，和我立场无关。\n网络上有一类人是靠踩别人来获取流量，很low的方法，但有人喜欢看，因为很多人心底里都有八卦的心，喜欢看别人的不好，所谓存在即合理，对于这类人我多搭理一句都是浪费时间。\n关于我是不是认为中国要打台湾，群都有聊天记录的，我不需要贴，也懒得贴。\n关于我对于台湾的看法，前两天我已经说过了，“我是台湾人我也不愿意改变，但是我支持沟通与交流，真要打起来谁赢我都不开心”\n这个回复本来也是多余，你们自己要有判断是非黑白的能力。如果觉得我们三观不符的，我没必要解释，道不同不相为谋，别来试图改变我或者认为自己就是真理，我根本不Care你的真理，直接取关我就好，祝好。\nP.S 以后再回复这种留言我就是🐶",
-      "publishedAt": "2026-03-11T23:51:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2031880751583535191",
-      "quote": {
-        "username": "yzhlvyzh",
-        "displayName": "equatorial",
-        "content": "事实就是事实，事实能反应价值观/立场，跟什么皮肤有关吗？\n你总是含糊你的价值观/立场，难得一次你还删帖了。那次跟你那个什么“李哥”呼应，响应新华社报道威胁炸日本还是台湾？\n你的APP和台湾合作的，还要去台湾线下活动，能态度鲜明一点不？",
-        "link": "https://x.com/yzhlvyzh/status/2031872990695342195"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031869420503519609",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "看了一圈，华语圈基本都是短线，要不就是去风险，要不就是大宗；老外圈几个大V，股市静得不合理，要不暴涨要不暴跌，散户看空期权历史高位，可能形成大跌。可能现在的市场做多的都默默买，不发推了？\n风险大家都能看得到，讨论机会的人却很少，只是观察",
-      "contentHtml": "看了一圈，华语圈基本都是短线，要不就是去风险，要不就是大宗；老外圈几个大V，股市静得不合理，要不暴涨要不暴跌，散户看空期权历史高位，可能形成大跌。可能现在的市场做多的都默默买，不发推了？\n风险大家都能看得到，讨论机会的人却很少，只是观察",
-      "publishedAt": "2026-03-11T23:06:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2031869420503519609",
       "stats": {
         "replies": 0,
         "retweets": 0,
