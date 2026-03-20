@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T11:43:23.142Z",
+  "lastUpdated": "2026-03-20T11:56:06.266Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 462,
-    "successUsers": 23,
-    "failedUsers": 4
+    "newFetched": 486,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
     {
@@ -2459,6 +2459,25 @@
       }
     },
     {
+      "id": "2034419236911935721",
+      "username": "ohyishi",
+      "displayName": "Yishi",
+      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
+      "content": "x.com/i/article/203424651860…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2034246518606344192\">x.com/i/article/203424651860…</a>",
+      "publishedAt": "2026-03-18T23:58:00.000Z",
+      "link": "https://x.com/ohyishi/status/2034419236911935721",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2034391146277810503",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -2934,31 +2953,6 @@
         "displayName": "欧德曼",
         "content": "同时违背了老师只做龙头不做补涨和做不成xxx币安就不用干了两项原则",
         "link": "https://x.com/theold1926/status/2033908146557882668"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034263055971110987",
-      "username": "MaggieUSMacro",
-      "displayName": "Maggie",
-      "avatar": "https://nitter.net/pic/profile_images%2F2008884052229771266%2FThxwB8yN_bigger.jpg",
-      "content": "【散户接盘黄金和白银，机构已悄悄跑路。】\n\n国际清算银行（BIS）数据：从2025年到2026年初，\n\n黄金市场：\n散户投资者（黄色）买入超过 600亿美元；\n机构投资者（红色）在 2026 年第一季度加速抛售撤离，卖出金额突破 10亿美元。\n重点是下降斜率很大，而不是平缓的阶梯状（正常止盈曲线特征）。这说明机构不是在“慢慢收割利润”，而是在抢跑。\n\n白银市场：同黄金市场趋势但规模小\n散户投资者（紫色）买入约100亿美元；\n机构投资者（蓝色）在 2026 年第一季度抛售撤离，卖出金额约5亿美元。\n#黄金 #白银",
-      "contentHtml": "【散户接盘黄金和白银，机构已悄悄跑路。】\n\n国际清算银行（BIS）数据：从2025年到2026年初，\n\n黄金市场：\n散户投资者（黄色）买入超过 600亿美元；\n机构投资者（红色）在 2026 年第一季度加速抛售撤离，卖出金额突破 10亿美元。\n重点是下降斜率很大，而不是平缓的阶梯状（正常止盈曲线特征）。这说明机构不是在“慢慢收割利润”，而是在抢跑。\n\n白银市场：同黄金市场趋势但规模小\n散户投资者（紫色）买入约100亿美元；\n机构投资者（蓝色）在 2026 年第一季度抛售撤离，卖出金额约5亿美元。\n<a href=\"/search?f=tweets&q=%23黄金\">#黄金</a> <a href=\"/search?f=tweets&q=%23白银\">#白银</a>",
-      "publishedAt": "2026-03-18T13:38:00.000Z",
-      "link": "https://x.com/MaggieUSMacro/status/2034263055971110987",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDsnRlBbgAAumuB.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "follow_clues",
-        "displayName": "Theclues"
       },
       "stats": {
         "replies": 0,
@@ -5462,6 +5456,41 @@
       }
     },
     {
+      "id": "2033671849096433758",
+      "username": "m1ssuo",
+      "displayName": "Vincent Yang",
+      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
+      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
+      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
+      "publishedAt": "2026-03-16T22:28:00.000Z",
+      "link": "https://x.com/m1ssuo/status/2033671849096433758",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "quote": {
+        "username": "landiantech",
+        "displayName": "蓝点网",
+        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
+        "link": "https://x.com/landiantech/status/2032275955432243524",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2033669619182096805",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -7049,25 +7078,6 @@
       "contentHtml": "别跌了😓",
       "publishedAt": "2026-03-15T14:38:00.000Z",
       "link": "https://x.com/Bitfatty/status/2033191077256269897",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033182792029294736",
-      "username": "hklst4r",
-      "displayName": "Weilin (William) Li",
-      "avatar": "https://nitter.net/pic/profile_images%2F1694723443516936192%2FP4urhIUm_bigger.jpg",
-      "content": "x.com/i/article/203317473594…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2033174735945609216\">x.com/i/article/203317473594…</a>",
-      "publishedAt": "2026-03-15T14:05:00.000Z",
-      "link": "https://x.com/hklst4r/status/2033182792029294736",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -9561,25 +9571,6 @@
       }
     },
     {
-      "id": "2032384444816867390",
-      "username": "heyibinance",
-      "displayName": "Yi He",
-      "avatar": "https://nitter.net/pic/profile_images%2F1974520590410170369%2Fq2Q0S0fa_bigger.jpg",
-      "content": "作为一个曾经的媒体从业者，一度为媒体从业者是“无冕之王”而骄傲，但什么时候起，出版自由变成了诋毁自由？自己是个锤子，看谁都是钉子。\n这是关于诋毁和虚假指控的第三次胜诉，所有人都说劝我们说和媒体打官司胜算不多，但总得有人做点什么来改变这个陈旧腐烂的新闻业。\n是否有的记者只要拿着“新闻自由”，就可以用虚假故事做勒索币安的帮凶，用耸人听闻的模糊字眼来获取流量？如果这样我以曾经是媒体人为耻，也很愿意继续去打一个个胜算不大的官司。",
-      "contentHtml": "作为一个曾经的媒体从业者，一度为媒体从业者是“无冕之王”而骄傲，但什么时候起，出版自由变成了诋毁自由？自己是个锤子，看谁都是钉子。\n这是关于诋毁和虚假指控的第三次胜诉，所有人都说劝我们说和媒体打官司胜算不多，但总得有人做点什么来改变这个陈旧腐烂的新闻业。\n是否有的记者只要拿着“新闻自由”，就可以用虚假故事做勒索币安的帮凶，用耸人听闻的模糊字眼来获取流量？如果这样我以曾经是媒体人为耻，也很愿意继续去打一个个胜算不大的官司。",
-      "publishedAt": "2026-03-13T09:13:00.000Z",
-      "link": "https://x.com/heyibinance/status/2032384444816867390",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032383769475481706",
       "username": "daidaibtc",
       "displayName": "带带带比特",
@@ -11734,6 +11725,39 @@
       "contentHtml": "When I was a student in the 2010s, the dream was to “make it” by launching a startup.\n\nBe the Uber of something. Raise VC money. Exit with a huge check.\n\nIt never appealed to me. I just wanted to sit on my computer 16 hours a day like a retard.\n\nPeople in CBB cartel universities launched startups. Some even raised 8 figures right after COVID.\n\nAt the time we thought we were missing something.\n\n6 years later almost none of them exited.\n\nThe real success stories are actually us.\n\nThe dorks clicking on their computers 16 hours a day.\n\nFor the last decade, crypto was the place to go from zero to self-made multimillionaire.\n\nNever stop clicking.",
       "publishedAt": "2026-03-11T04:56:00.000Z",
       "link": "https://x.com/Cbb0fe/status/2031595002149638535",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031565074012450912",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "【指标更新📊】刻成🧘‍♂️",
+      "contentHtml": "【指标更新📊】刻成🧘‍♂️",
+      "publishedAt": "2026-03-11T02:57:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2031565074012450912",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDGRdkCaMAkBv55.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "刻个三顶🤓\n\n图中上方指标为 #BTC 价格；下方指标为 #BTC: Realized Cap HODL Waves [<90天]\n\nBTC: Realized Cap HODL Waves 是一个链上指标，它将比特币的实现市值（Realized Capitalization，即根据每个币最后一次移动时的价格计算的总价值）按币的持有时长进行分布显示。<90 天的合集是指所有持有时长不足 90 天的币的实现市值占比之和。这个指标主要反映了以下方面：\n\n1. 短期持有者的占比和市场活跃度：它代表了最近进入市场或频繁交易的“热钱”比例。这些币往往由短期投机者、新入场投资者或交易者持有，反映了市场的短期流动性、买卖活跃度和投机情绪。如果这个比例上升，通常表示有大量新资金流入，或短期交易增加；反之，如果下降，则表示币在“老化”，更多持有者转向长期持有\n\n2. 潜在的卖压或买压信号：高比例的 <90 天持有往往与市场顶部相关，因为短期持有者更容易在价格波动时抛售，导致卖压增加。低比例则可能表示市场底部，币被长期持有者积累，减少了流通供给，潜在支撑未来上涨\n\n3. 市场周期的指示：在比特币的历史周期中，这个指标常用于判断牛熊转换：牛市中，<90 天比例往往从低点（<20%）上升到高点（>50%），反映新资金和 FOMO 情绪。熊市中，它会下降，表明投机者离场，长期持有者主导市场",
+        "link": "https://x.com/0xCryptoChan/status/1987735321942098031",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG5XOhmmb0AERXwy.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
