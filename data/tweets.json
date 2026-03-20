@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T11:26:19.687Z",
+  "lastUpdated": "2026-03-20T11:43:23.142Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 501,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 462,
+    "successUsers": 23,
+    "failedUsers": 4
   },
   "tweets": [
+    {
+      "id": "2034955070366965907",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "目前唯一的妖币 #SIREN\n指数最大的所gate，存量约19万枚，价值19万美元\nkucoin约100万枚，价值100万美元\n\n各平台期货持仓过亿美元（100万美元的底层资产影响10000万美元的期货交易）\n\n所有交易所的做市商都是这个币主力的目标（恭喜各大冤种）",
+      "contentHtml": "目前唯一的妖币 <a href=\"/search?f=tweets&q=%23SIREN\">#SIREN</a>\n指数最大的所gate，存量约19万枚，价值19万美元\nkucoin约100万枚，价值100万美元\n\n各平台期货持仓过亿美元（100万美元的底层资产影响10000万美元的期货交易）\n\n所有交易所的做市商都是这个币主力的目标（恭喜各大冤种）",
+      "publishedAt": "2026-03-20T11:27:00.000Z",
+      "link": "https://x.com/follow_clues/status/2034955070366965907",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2034951821865930982",
       "username": "Bitfatty",
@@ -582,6 +597,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHD0ZY9XbkAApSY2.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -2433,25 +2452,6 @@
       "contentHtml": "推上一直在讨论抄底迪拜的地产，\n其实对于中东的富人来说，\n现在抄底香港地产才是最优解。",
       "publishedAt": "2026-03-19T00:11:00.000Z",
       "link": "https://x.com/hazenlee/status/2034422469172347308",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034419236911935721",
-      "username": "ohyishi",
-      "displayName": "Yishi",
-      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
-      "content": "x.com/i/article/203424651860…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2034246518606344192\">x.com/i/article/203424651860…</a>",
-      "publishedAt": "2026-03-18T23:58:00.000Z",
-      "link": "https://x.com/ohyishi/status/2034419236911935721",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5455,41 +5455,6 @@
       "contentHtml": "没有牛回",
       "publishedAt": "2026-03-16T23:00:00.000Z",
       "link": "https://x.com/hazenlee/status/2033679789010391402",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033671849096433758",
-      "username": "m1ssuo",
-      "displayName": "Vincent Yang",
-      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
-      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
-      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
-      "publishedAt": "2026-03-16T22:28:00.000Z",
-      "link": "https://x.com/m1ssuo/status/2033671849096433758",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "quote": {
-        "username": "landiantech",
-        "displayName": "蓝点网",
-        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
-        "link": "https://x.com/landiantech/status/2032275955432243524",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11754,6 +11719,21 @@
           "url": "https://nitter.net/pic/orig/media%2FHDHTnhlaMAM4H2N.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031595002149638535",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "When I was a student in the 2010s, the dream was to “make it” by launching a startup.\n\nBe the Uber of something. Raise VC money. Exit with a huge check.\n\nIt never appealed to me. I just wanted to sit on my computer 16 hours a day like a retard.\n\nPeople in CBB cartel universities launched startups. Some even raised 8 figures right after COVID.\n\nAt the time we thought we were missing something.\n\n6 years later almost none of them exited.\n\nThe real success stories are actually us.\n\nThe dorks clicking on their computers 16 hours a day.\n\nFor the last decade, crypto was the place to go from zero to self-made multimillionaire.\n\nNever stop clicking.",
+      "contentHtml": "When I was a student in the 2010s, the dream was to “make it” by launching a startup.\n\nBe the Uber of something. Raise VC money. Exit with a huge check.\n\nIt never appealed to me. I just wanted to sit on my computer 16 hours a day like a retard.\n\nPeople in CBB cartel universities launched startups. Some even raised 8 figures right after COVID.\n\nAt the time we thought we were missing something.\n\n6 years later almost none of them exited.\n\nThe real success stories are actually us.\n\nThe dorks clicking on their computers 16 hours a day.\n\nFor the last decade, crypto was the place to go from zero to self-made multimillionaire.\n\nNever stop clicking.",
+      "publishedAt": "2026-03-11T04:56:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2031595002149638535",
       "stats": {
         "replies": 0,
         "retweets": 0,
