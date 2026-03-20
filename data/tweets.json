@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T21:30:54.786Z",
+  "lastUpdated": "2026-03-20T21:46:07.442Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,59 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 462,
+    "newFetched": 463,
     "successUsers": 23,
     "failedUsers": 4
   },
   "tweets": [
+    {
+      "id": "2035109572105609694",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "主动权貌似不在川普\n现在不是阿川想taco就能taco\n爱情不是你想买 想买就能买\n现在你要用真爱把我哄回来",
+      "contentHtml": "主动权貌似不在川普\n现在不是阿川想taco就能taco\n爱情不是你想买 想买就能买\n现在你要用真爱把我哄回来",
+      "publishedAt": "2026-03-20T21:41:00.000Z",
+      "link": "https://x.com/hazenlee/status/2035109572105609694",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "盘后伟大的川普总统有点想taco了\n但是美国不参与很难维持霍尔木兹海峡的畅通\n如果盟友交保护费的形式那伊朗又成中东王了\n霍尔木兹海峡就是中东的睾丸，伊朗掐着就难受啊",
+        "link": "https://x.com/hazenlee/status/2035108982961185100",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHD4o1FOaYAAsCu_.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2035108982961185100",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "盘后伟大的川普总统有点想taco了\n但是美国不参与很难维持霍尔木兹海峡的畅通\n如果盟友交保护费的形式那伊朗又成中东王了\n霍尔木兹海峡就是中东的睾丸，伊朗掐着就难受啊",
+      "contentHtml": "盘后伟大的川普总统有点想taco了\n但是美国不参与很难维持霍尔木兹海峡的畅通\n如果盟友交保护费的形式那伊朗又成中东王了\n霍尔木兹海峡就是中东的睾丸，伊朗掐着就难受啊",
+      "publishedAt": "2026-03-20T21:39:00.000Z",
+      "link": "https://x.com/hazenlee/status/2035108982961185100",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHD4o1FOaYAAsCu_.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2035103218829856894",
       "username": "hazenlee",
@@ -3095,25 +3143,6 @@
       }
     },
     {
-      "id": "2034419236911935721",
-      "username": "ohyishi",
-      "displayName": "Yishi",
-      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
-      "content": "x.com/i/article/203424651860…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2034246518606344192\">x.com/i/article/203424651860…</a>",
-      "publishedAt": "2026-03-18T23:58:00.000Z",
-      "link": "https://x.com/ohyishi/status/2034419236911935721",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2034391146277810503",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -6076,41 +6105,6 @@
       }
     },
     {
-      "id": "2033671849096433758",
-      "username": "m1ssuo",
-      "displayName": "Vincent Yang",
-      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
-      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
-      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
-      "publishedAt": "2026-03-16T22:28:00.000Z",
-      "link": "https://x.com/m1ssuo/status/2033671849096433758",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "quote": {
-        "username": "landiantech",
-        "displayName": "蓝点网",
-        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
-        "link": "https://x.com/landiantech/status/2032275955432243524",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2033669619182096805",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -8422,6 +8416,25 @@
       }
     },
     {
+      "id": "2032853995790692793",
+      "username": "getjonwithit",
+      "displayName": "Jonathan Gorard",
+      "avatar": "https://nitter.net/pic/profile_images%2F1330192676222865414%2FmhhuGgKB_bigger.jpg",
+      "content": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
+      "contentHtml": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
+      "publishedAt": "2026-03-14T16:18:00.000Z",
+      "link": "https://x.com/getjonwithit/status/2032853995790692793",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2032846785685725251",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -8871,6 +8884,31 @@
       }
     },
     {
+      "id": "2032693451666632916",
+      "username": "beffjezos",
+      "displayName": "Beff (e/acc)",
+      "avatar": "https://nitter.net/pic/profile_images%2F2005482858975023104%2Fs9wmB9qT_bigger.jpg",
+      "content": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
+      "contentHtml": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
+      "publishedAt": "2026-03-14T05:40:00.000Z",
+      "link": "https://x.com/beffjezos/status/2032693451666632916",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "joshrauh",
+        "displayName": "Joshua Rauh",
+        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
+        "link": "https://x.com/joshrauh/status/2032511222877401221"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2032685062177935363",
       "username": "market_beggar",
       "displayName": "貝格先生🐢",
@@ -8935,6 +8973,31 @@
       "contentHtml": "META可能要裁员20%！！！\n市场预计26年运营花费1136亿，20%就是227亿！\n因为前期的资本开支，我说过META其实是所有大科技里最浪费的，因为GPU都用在了科研上，没出成果之前都是0回报！现在裁员可以省227亿，能把利润率拉高到44%，25年是41.4%，去掉裁员的遣散费等等，今年也许还能保住40%（现在市场预期是34.6%）\n市场担心大科技自由现金流没了？一个比较残忍的事实可能是拿OPEX（运营花费）换CAPEX（资本开支）。对于传统企业来说，接下去将会看到他们在软件上的支出只会更多不会更少，拿OPEX换软件支出来增效。",
       "publishedAt": "2026-03-14T04:52:00.000Z",
       "link": "https://x.com/TJ_Research/status/2032681318476059018",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032671617155731876",
+      "username": "moseskagan",
+      "displayName": "Moses Kagan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1784227025940860929%2Fa6t7PV2r_bigger.jpg",
+      "content": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
+      "contentHtml": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
+      "publishedAt": "2026-03-14T04:14:00.000Z",
+      "link": "https://x.com/moseskagan/status/2032671617155731876",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "joshrauh",
+        "displayName": "Joshua Rauh",
+        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
+        "link": "https://x.com/joshrauh/status/2032511222877401221"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -9957,6 +10020,25 @@
             "url": "https://nitter.net/pic/orig/media%2FHB6NpRgboAAvjMb.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2032448290638504216",
+      "username": "rauchg",
+      "displayName": "Guillermo Rauch",
+      "avatar": "https://nitter.net/pic/profile_images%2F1783856060249595904%2F8TfcCN0r_bigger.jpg",
+      "content": "Obsession is the mother of invention",
+      "contentHtml": "Obsession is the mother of invention",
+      "publishedAt": "2026-03-13T13:26:00.000Z",
+      "link": "https://x.com/rauchg/status/2032448290638504216",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11627,6 +11709,37 @@
       }
     },
     {
+      "id": "2031956026308678102",
+      "username": "mattwridley",
+      "displayName": "Matt Ridley",
+      "avatar": "https://nitter.net/pic/profile_images%2F1230960194194149380%2FSw7D18gf_bigger.jpg",
+      "content": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
+      "contentHtml": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
+      "publishedAt": "2026-03-12T04:50:00.000Z",
+      "link": "https://x.com/mattwridley/status/2031956026308678102",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "Rebecca21951651",
+        "displayName": "Rebecc@ ███████",
+        "content": "So the theory is that there was a virus circulating in bats & then it somehow got an FCS optimally suited to infect humans & it was so perfected to launch a pandemic that the spike initially did not evolve at all?",
+        "link": "https://x.com/Rebecca21951651/status/2031868886488920103",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDKl-Y5aoAAUlSe.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2031954767539552324",
       "username": "CycleStudies",
       "displayName": "百萬Eric | Day Trader",
@@ -11683,87 +11796,6 @@
         "content": "x.com/i/article/203164748503…",
         "link": "https://x.com/CuiMao/status/2031647752061641071"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031928100871606600",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "Stanley Druckenmiller分析心得：\n1. 知道什么时候停止分析：先上车再分析\n2. 最误导人的宏观数据：失业率，太后视镜了\n3. 投资秘诀来自于哪：市场内部的声音，衡量经济不看数据，把公司分类，有些公司可以提前告诉你经济走向，利用宏观数据进场/离场\n4. 2026最担心的：故事线驱动的泡沫\n哪个心得最有用？",
-      "contentHtml": "Stanley Druckenmiller分析心得：\n1. 知道什么时候停止分析：先上车再分析\n2. 最误导人的宏观数据：失业率，太后视镜了\n3. 投资秘诀来自于哪：市场内部的声音，衡量经济不看数据，把公司分类，有些公司可以提前告诉你经济走向，利用宏观数据进场/离场\n4. 2026最担心的：故事线驱动的泡沫\n哪个心得最有用？",
-      "publishedAt": "2026-03-12T02:59:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2031928100871606600",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031918811717235194",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "现在的仓位",
-      "contentHtml": "现在的仓位",
-      "publishedAt": "2026-03-12T02:22:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2031918811717235194",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031780554694410353",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "吗的 正解了 全是几把一篇长文猛如虎 结果不是Ai文就是翻译文或者结果倒推过程\n几把一共几百刀200%收益率有啥几把用啊",
-      "contentHtml": "吗的 正解了 全是几把一篇长文猛如虎 结果不是Ai文就是翻译文或者结果倒推过程\n几把一共几百刀200%收益率有啥几把用啊",
-      "publishedAt": "2026-03-11T17:13:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2031780554694410353",
-      "quote": {
-        "username": "Hueryu270",
-        "displayName": "Hueryu",
-        "content": "回测了一堆x上说赚钱的poly策略，没一个能正向",
-        "link": "https://x.com/Hueryu270/status/2031751858247925760"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031735388587585689",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "補充說明一下：10 萬美金一個月收入1000美金是比較合理的數字，因為實際還要計入放貸空窗期（被還款之後不會馬上又借出），還要扣掉交易所抽成，所以實際的放貸年利率不會到日利率換算的 17% 這麼高，但怎樣都很強了。",
-      "contentHtml": "補充說明一下：10 萬美金一個月收入1000美金是比較合理的數字，因為實際還要計入放貸空窗期（被還款之後不會馬上又借出），還要扣掉交易所抽成，所以實際的放貸年利率不會到日利率換算的 17% 這麼高，但怎樣都很強了。",
-      "publishedAt": "2026-03-11T14:13:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2031735388587585689",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031732098835562933",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "bitfinex.com/sign-up?refcode…",
-      "contentHtml": "<a href=\"https://www.bitfinex.com/sign-up?refcode=AACaNW07v\">bitfinex.com/sign-up?refcode…</a>",
-      "publishedAt": "2026-03-11T14:00:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2031732098835562933",
       "stats": {
         "replies": 0,
         "retweets": 0,
