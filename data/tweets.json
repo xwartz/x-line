@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T20:46:17.366Z",
+  "lastUpdated": "2026-03-20T21:00:23.608Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 484,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 524,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2035096688856285406",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "一个人最大的能力是要分清什么是真逼什么是装逼，经常听到“好硬”“大佬”\n结果没过一会就暴跌拉稀，暴雷塌方。\n如果你连装逼和真逼都分不清，只能说你品味极低且算力低下，大概和草履虫的算力不相上下，所以会成为霉逼反指，是趋势的最后一棒，你上钩趋势就终结了，你买入就跌了，你割肉就涨了😁",
+      "contentHtml": "一个人最大的能力是要分清什么是真逼什么是装逼，经常听到“好硬”“大佬”\n结果没过一会就暴跌拉稀，暴雷塌方。\n如果你连装逼和真逼都分不清，只能说你品味极低且算力低下，大概和草履虫的算力不相上下，所以会成为霉逼反指，是趋势的最后一棒，你上钩趋势就终结了，你买入就跌了，你割肉就涨了😁",
+      "publishedAt": "2026-03-20T20:50:00.000Z",
+      "link": "https://x.com/hazenlee/status/2035096688856285406",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2035093910176113082",
       "username": "hazenlee",
@@ -3037,6 +3052,25 @@
       "contentHtml": "推上一直在讨论抄底迪拜的地产，\n其实对于中东的富人来说，\n现在抄底香港地产才是最优解。",
       "publishedAt": "2026-03-19T00:11:00.000Z",
       "link": "https://x.com/hazenlee/status/2034422469172347308",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034419236911935721",
+      "username": "ohyishi",
+      "displayName": "Yishi",
+      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
+      "content": "x.com/i/article/203424651860…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2034246518606344192\">x.com/i/article/203424651860…</a>",
+      "publishedAt": "2026-03-18T23:58:00.000Z",
+      "link": "https://x.com/ohyishi/status/2034419236911935721",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5999,6 +6033,41 @@
       "contentHtml": "没有牛回",
       "publishedAt": "2026-03-16T23:00:00.000Z",
       "link": "https://x.com/hazenlee/status/2033679789010391402",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2033671849096433758",
+      "username": "m1ssuo",
+      "displayName": "Vincent Yang",
+      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
+      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
+      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
+      "publishedAt": "2026-03-16T22:28:00.000Z",
+      "link": "https://x.com/m1ssuo/status/2033671849096433758",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "quote": {
+        "username": "landiantech",
+        "displayName": "蓝点网",
+        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
+        "link": "https://x.com/landiantech/status/2032275955432243524",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11727,97 +11796,6 @@
       "contentHtml": "现在的仓位",
       "publishedAt": "2026-03-12T02:22:00.000Z",
       "link": "https://x.com/TJ_Research/status/2031918811717235194",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031917747995832698",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "好消息：ACX 24 小时暴涨 93%\n坏消息：再涨 5.66 倍 TOP1 个人 / 机构持仓者才能回本😂\n\n受 Across Protocol 转型消息影响，ACX 上涨至 $0.0644，回到了去年 11 月的价格；而地址 0xDf5…2A0D5 作为链上持仓 TOP1 地址（除交易所和项目方），其提出价格为 $0.3655，几乎是币价峰值，不过真实成本暂不可知\n\n他持有的 5199 万枚代币当时价值 1900 万美元，目前缩水至 341 万美元，钻石手不好当啊…\n\n钱包地址 0xDf53D43608c9546E103af98D95d12E1e4eB2A0D5",
-      "contentHtml": "好消息：ACX 24 小时暴涨 93%\n坏消息：再涨 5.66 倍 TOP1 个人 / 机构持仓者才能回本😂\n\n受 Across Protocol 转型消息影响，ACX 上涨至 $0.0644，回到了去年 11 月的价格；而地址 0xDf5…2A0D5 作为链上持仓 TOP1 地址（除交易所和项目方），其提出价格为 $0.3655，几乎是币价峰值，不过真实成本暂不可知\n\n他持有的 5199 万枚代币当时价值 1900 万美元，目前缩水至 341 万美元，钻石手不好当啊…\n\n钱包地址 0xDf53D43608c9546E103af98D95d12E1e4eB2A0D5",
-      "publishedAt": "2026-03-12T02:18:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2031917747995832698",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDLSXNmaIAAlJuV.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031909263791329761",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
-      "content": "「Retest 走勢已至」：靜待下方 liquidity 引力的發威🏗\n\n承接本週一的更新（下方引文），BTC 在過去兩天內，\n走出了我們預先規劃的其中一個劇本：「Retest（二次測試）」。\n\n目前，60~65K 的 Liquidity 依然存在被清掃的需求，\n而我自己也根據當時下方引文中和各位分享的思路，身先士卒了👇：\n\n//\n\n起初，BTC 在初次摸到我規劃的 Retest 區域（紅色區域🟥）時，\n給出的反應其實是很不錯的，但昨晚美股開盤時的拉升，\n反倒又使走勢增添了幾分不確定性，價格目前呈現多空膠著的狀態。\n\n按理而言，紅色區域是當初針對 72.3K 進行 Stop Hunt 的區域，\n如果價格確認在此區域受阻，說明我當時對於 Stop Hunt 的判斷正確；\n反之，如果紅色區域被漲破，那就說明當時的判斷可能有誤，\n又或者是出現了外部因素導致原先的假設被證偽。\n\n中短期內我大概都不會有其他的操作計畫，\n我也已把這張單子的止盈、止損都設置完畢：\n➡️ 止盈：62.5K、60K（下方 liquidity 聚集區）\n➡️ 止損：73.5K（紅色區域上界）\n\n以上，快速和各位更新一次目前的狀況，\n未來我也將持續追蹤 + 覆盤，希望此類內容對各位有幫助🫡\n\n⚠️ 本文內容僅是個人交易思路分享，不構成投資建議\n\n//\n\n📚 相關閱讀資源\n\n全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\nnitter.net/market_beggar/status/1…\n\n我決不做突破單的原因：莊家獵取流動性的陷阱\nnitter.net/market_beggar/status/1…\n\n交易答疑：個人合約波段系統中的 2 種進場方式\nnitter.net/market_beggar/status/1…\n\nRektProof 模型中譯 & 個人見解\nnitter.net/market_beggar/status/1…",
-      "contentHtml": "「Retest 走勢已至」：靜待下方 liquidity 引力的發威🏗\n\n承接本週一的更新（下方引文），BTC 在過去兩天內，\n走出了我們預先規劃的其中一個劇本：「Retest（二次測試）」。\n\n目前，60~65K 的 Liquidity 依然存在被清掃的需求，\n而我自己也根據當時下方引文中和各位分享的思路，身先士卒了👇：\n\n//\n\n起初，BTC 在初次摸到我規劃的 Retest 區域（紅色區域🟥）時，\n給出的反應其實是很不錯的，但昨晚美股開盤時的拉升，\n反倒又使走勢增添了幾分不確定性，價格目前呈現多空膠著的狀態。\n\n按理而言，紅色區域是當初針對 72.3K 進行 Stop Hunt 的區域，\n如果價格確認在此區域受阻，說明我當時對於 Stop Hunt 的判斷正確；\n反之，如果紅色區域被漲破，那就說明當時的判斷可能有誤，\n又或者是出現了外部因素導致原先的假設被證偽。\n\n中短期內我大概都不會有其他的操作計畫，\n我也已把這張單子的止盈、止損都設置完畢：\n➡️ 止盈：62.5K、60K（下方 liquidity 聚集區）\n➡️ 止損：73.5K（紅色區域上界）\n\n以上，快速和各位更新一次目前的狀況，\n未來我也將持續追蹤 + 覆盤，希望此類內容對各位有幫助🫡\n\n⚠️ 本文內容僅是個人交易思路分享，不構成投資建議\n\n//\n\n📚 相關閱讀資源\n\n全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\n我決不做突破單的原因：莊家獵取流動性的陷阱\n<a href=\"https://nitter.net/market_beggar/status/1907261008059777200\">nitter.net/market_beggar/status/1…</a>\n\n交易答疑：個人合約波段系統中的 2 種進場方式\n<a href=\"https://nitter.net/market_beggar/status/1940221638618095904\">nitter.net/market_beggar/status/1…</a>\n\nRektProof 模型中譯 & 個人見解\n<a href=\"https://nitter.net/market_beggar/status/1942398983831445608\">nitter.net/market_beggar/status/1…</a>",
-      "publishedAt": "2026-03-12T01:44:00.000Z",
-      "link": "https://x.com/market_beggar/status/2031909263791329761",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDLKtAdaUAA8yV2.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「流動性絞殺」如期出現：警惕下方 liquidity 的清掃需求⚠️\n\n承接下方引文，我在上週提及的流動性絞殺已如期出現，\nBTC 在短暫突破區間前高（72.3K）後便迅速跌回，\n強烈的下跌動量，更是成為了本次流動性獵取的確認訊號🚨\n\n本文，我將再次來和各位分享我對於後市的 bias，\n以及潛在的交易計畫👇：\n\n//\n\n如附圖所示：\n\n🔺 先前在下方引文提到的「70.1 ~ 72.3K」liquidity 已完全清掃\n在下方引文中，我曾和各位報告了上、下方的 liquidity 分布狀況，\n隨後，上方的 liq 引力率先發功，將 BTC 一口氣吸到上方，\n並且完成了一次典型的 Stop Hunt。\n\n📖 Stop Hunt 概念詳細說明\nnitter.net/market_beggar/status/1…\n\n🔺 下方現存的 liquidity 存在清掃需求\n在 72.3K 的 Stop Hunt 被確認之後，\n下方留下的 liquidity 就成了本次獵取的下跌目標位。\n目前，下方的 liquidity 包含位於約 65K 的 Monday low，\n以及 62.5K 的 Equal Lows（下方引文中亦有提及）；\n並且倘若 62.5K 被獵取，又有極高的概率和 60K 形成新的 Equal lows，\n因此最終的目標完全可能位於 60K‼️\n\n📖 個人合約波段交易系統的 2 種進場方式\nnitter.net/market_beggar/status/1…\n\n🔺 Retest 波段做空計畫\n接下來，倘若 BTC 反彈至約 70.5K 上方（附圖的紅色區域🟥），\n在我的系統中會是一個值得操作的高盈虧比波段空單介入點；\n但我並不能預測 Retest 是否發生，倘若沒有，那我就不打算介入。\n\n📖 褓姆級實戰：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\nnitter.net/market_beggar/status/1…\n\n//\n\n最後，我認為自 2/06 以來的震盪走勢，至今已逐漸清晰：\n下方存在太多的 liquidity 引力，將其完成清掃之後，\n才更利於形成更健康的「大級別築底結構」。\n\n同時，也因為下方現存的大量 liquidity，\n目前的市況也更支持我在過去一個月內反覆提及的「最後一哆嗦」☄️\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡",
-        "link": "https://x.com/market_beggar/status/2030822370290835853",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHC7uLcrbkAA0Szc.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2031905808456565068",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "有什么说法？03.11 囤积 44888 ETH 的巨鲸再次建仓 18436 $ETH 😲\n\n地址 0x8E3…64170 8 小时前又从 #Kraken 提出价值 3826 万美元的 ETH，昨天起已累计囤积 63324.36 枚，总价值 1.31 亿美元，平均提出价格 $2072.23\n\n和之前一样，都是提出后分散到新地址存放的，看看后续有什么动作吧\n\n钱包地址 0x8E34dFb6b5aF9ae7bAF421f5C67E2ce2FA964170",
-      "contentHtml": "有什么说法？03.11 囤积 44888 ETH 的巨鲸再次建仓 18436 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 😲\n\n地址 0x8E3…64170 8 小时前又从 <a href=\"/search?f=tweets&q=%23Kraken\">#Kraken</a> 提出价值 3826 万美元的 ETH，昨天起已累计囤积 63324.36 枚，总价值 1.31 亿美元，平均提出价格 $2072.23\n\n和之前一样，都是提出后分散到新地址存放的，看看后续有什么动作吧\n\n钱包地址 0x8E34dFb6b5aF9ae7bAF421f5C67E2ce2FA964170",
-      "publishedAt": "2026-03-12T01:31:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2031905808456565068",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDLHjzxboAAR37E.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "好起来了？三个地址正在大额囤积 $ETH ，累计达 49,424 枚😆\n\n1️⃣ 地址 0x8E34dFb6b5aF9ae7bAF421f5C67E2ce2FA964170\n10 小时前从 #Kraken 提出 44888 ETH，价值 9297 万美元，提出价格 $2071.1，现已转移至 2 个地址\n\n2️⃣ 地址 0x861F7492476c7382B63A6a58E5530Ebe9257c431\n10 小时前从 #Binance 提出 2063 ETH，价值 427 万美元，提出价格 $2069.03\n\n3️⃣ 地址 0xAD534BC6E6a6e9bC221E5122dc1bf42474d528C3\n10 小时前通过 Cowswap 在链上买入 2472 ETH，价值 512 万美元，成本 $2080.38",
-        "link": "https://x.com/ai_9684xtpa/status/2031550941468700991",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDGEn5WbgAARFEd.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDGErFqaMAEOAy1.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
