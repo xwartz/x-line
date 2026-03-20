@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T21:15:36.407Z",
+  "lastUpdated": "2026-03-20T21:30:54.786Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,47 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 482,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 462,
+    "successUsers": 23,
+    "failedUsers": 4
   },
   "tweets": [
+    {
+      "id": "2035103218829856894",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "今天的美股多头和金银多头如图👇🏻\n被抱起来操",
+      "contentHtml": "今天的美股多头和金银多头如图👇🏻\n被抱起来操",
+      "publishedAt": "2026-03-20T21:16:00.000Z",
+      "link": "https://x.com/hazenlee/status/2035103218829856894",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2035103024683917423",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "先走流动性好的，再走流动性差的\n不然先卖流动性差的流动性好的别人跑完了。\n这叫 “领导先走”",
+      "contentHtml": "先走流动性好的，再走流动性差的\n不然先卖流动性差的流动性好的别人跑完了。\n这叫 “领导先走”",
+      "publishedAt": "2026-03-20T21:15:00.000Z",
+      "link": "https://x.com/hazenlee/status/2035103024683917423",
+      "quote": {
+        "username": "LucretianDelta",
+        "displayName": "墙内偏移",
+        "content": "休息一个月了，除了偶尔发点段子基本没聊市场。明天又要出门，临走前简单说两句。\n\n这周美股算是把“嘴硬”演到极致了，一直扛着不跌的市场终于迎来普跌，尤其是周四、周五的加速下杀，连贵金属这种传统避险资产也一起被砸。真正反直觉的地方在于，过去几个月里跟跌不跟涨的加密，反而在这一轮里显得异常坚挺。今天纳指连续下破趋势线，btc、eth几乎没怎么动，于是各种叙事开始冒出来，什么战争中的真正避险，不再作为科技股beta等等。\n\n但市场越是在这种时候开始讲新故事，风险往往越大。\n\n这里给刚接触交易不久的朋友讲一个很基础但极其关键的概念，叫做处置效应（Disposition Effect），这个概念最早来自 Hersh Shefrin 和 Meir Statman 的研究，简单来说就是：\n\n还在盈利的仓位被抛售，而亏损扛单的部分却不动；或者可以说是流动性较好的标的先退出，较差的则有滞后性。\n\n当市场中各类资产进入普跌阶段时，大多数人会下意识做两件事，一是把还没怎么跌的资产先卖掉，因为还能赚钱或者亏得少，二是把已经亏很多的资产继续拿着，因为不甘心认亏。结果就是，好资产先被卖，坏资产被动锁仓。这个机制背后是三个行为金融学的基础，分别是前景理论（Prospect Theory，人对“损失”的痛苦 > 对“收益”的快乐），心理账户（Mental Accounting，投资者会把每一笔交易“单独记账”）和后悔厌恶（Regret Aversion，卖亏损 → 承认自己错了；不卖 → 还有希望）。\n\n在普跌环境中，盈利资产变成“稀缺品”，这些跌得少的资产，投资者更倾向于快速卖掉它们；而亏损资产，“都跌成这样了，再卖没意义”。结果而言，就是风险暴露更差了，形成“市场级负反馈循环”。从系统层面来看，简单分为五步（当然这五步可以是在全剧中连续或者同时发生的)：\n1.先卖赢家：机构/散户优先卖流动性好的资产\n2. 优质资产也开始下跌：因为被集中卖\n3. 恐慌扩大：“连好资产都跌了”\n4. 被迫卖出：对机构来说可以由于margin call / risk control等系统性原因，对个人来说也可以是心理压力。\n5. 全面踩踏（liquidity cascade），或者我们常讲的”多杀多“，每一个反弹都被拿来出货，多头（尤其是带了杠杆的）变成了实际上的卖盘。\n\n从流动性机制的角度思考：\n盈利仓位 = 可快速变现\n亏损仓位 = 流动性差 / 不愿卖\n\n在市场普跌时，处置效应会让资金从“好资产”流向“坏资产”，从而放大下跌，并制造结构性错价。\n\n显然，这种结构性错价不会持续太久，在这里劝朋友们一句，逃命的机会要珍惜；浮盈不是赚，浮亏是真的在亏。\n\n周末愉快！",
+        "link": "https://x.com/LucretianDelta/status/2035102082659918129"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2035096688856285406",
       "username": "hazenlee",
@@ -8386,25 +8422,6 @@
       }
     },
     {
-      "id": "2032853995790692793",
-      "username": "getjonwithit",
-      "displayName": "Jonathan Gorard",
-      "avatar": "https://nitter.net/pic/profile_images%2F1330192676222865414%2FmhhuGgKB_bigger.jpg",
-      "content": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
-      "contentHtml": "I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.\n\nWe are entering an era where the minimal representation of a human cultural artifact... (1/12)",
-      "publishedAt": "2026-03-14T16:18:00.000Z",
-      "link": "https://x.com/getjonwithit/status/2032853995790692793",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032846785685725251",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -8854,31 +8871,6 @@
       }
     },
     {
-      "id": "2032693451666632916",
-      "username": "beffjezos",
-      "displayName": "Beff (e/acc)",
-      "avatar": "https://nitter.net/pic/profile_images%2F2005482858975023104%2Fs9wmB9qT_bigger.jpg",
-      "content": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
-      "contentHtml": "European style destruction of economic value via overbearing state and runaway bureaucratic bloat\n\nThis is a systematic sabotage of the American tech ecosystem\n\nBureaucratic-political form of warfare",
-      "publishedAt": "2026-03-14T05:40:00.000Z",
-      "link": "https://x.com/beffjezos/status/2032693451666632916",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "joshrauh",
-        "displayName": "Joshua Rauh",
-        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
-        "link": "https://x.com/joshrauh/status/2032511222877401221"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2032685062177935363",
       "username": "market_beggar",
       "displayName": "貝格先生🐢",
@@ -8943,31 +8935,6 @@
       "contentHtml": "META可能要裁员20%！！！\n市场预计26年运营花费1136亿，20%就是227亿！\n因为前期的资本开支，我说过META其实是所有大科技里最浪费的，因为GPU都用在了科研上，没出成果之前都是0回报！现在裁员可以省227亿，能把利润率拉高到44%，25年是41.4%，去掉裁员的遣散费等等，今年也许还能保住40%（现在市场预期是34.6%）\n市场担心大科技自由现金流没了？一个比较残忍的事实可能是拿OPEX（运营花费）换CAPEX（资本开支）。对于传统企业来说，接下去将会看到他们在软件上的支出只会更多不会更少，拿OPEX换软件支出来增效。",
       "publishedAt": "2026-03-14T04:52:00.000Z",
       "link": "https://x.com/TJ_Research/status/2032681318476059018",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032671617155731876",
-      "username": "moseskagan",
-      "displayName": "Moses Kagan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1784227025940860929%2Fa6t7PV2r_bigger.jpg",
-      "content": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
-      "contentHtml": "Yet another example of a socialist obsessed with splitting up the pie that exists, while totally ignoring what makes the pie grow.\n\nThis *exact* line of thinking leads to Cubans squatting in the ruins of buildings the capitalists built in the '40 and '50s, which the communists can no longer maintain, let alone replace.",
-      "publishedAt": "2026-03-14T04:14:00.000Z",
-      "link": "https://x.com/moseskagan/status/2032671617155731876",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "joshrauh",
-        "displayName": "Joshua Rauh",
-        "content": "Let this sink in. California wealth tax architect Saez admits it here: he would let 80% of billionaires leave CA, liquidating Silicon Valley and its jobs, for an extra $2 billion per year in revenues. This is in a state that spends $325 billion per year, up by 68% since 2019.",
-        "link": "https://x.com/joshrauh/status/2032511222877401221"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -9990,25 +9957,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHB6NpRgboAAvjMb.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032448290638504216",
-      "username": "rauchg",
-      "displayName": "Guillermo Rauch",
-      "avatar": "https://nitter.net/pic/profile_images%2F1783856060249595904%2F8TfcCN0r_bigger.jpg",
-      "content": "Obsession is the mother of invention",
-      "contentHtml": "Obsession is the mother of invention",
-      "publishedAt": "2026-03-13T13:26:00.000Z",
-      "link": "https://x.com/rauchg/status/2032448290638504216",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11679,37 +11627,6 @@
       }
     },
     {
-      "id": "2031956026308678102",
-      "username": "mattwridley",
-      "displayName": "Matt Ridley",
-      "avatar": "https://nitter.net/pic/profile_images%2F1230960194194149380%2FSw7D18gf_bigger.jpg",
-      "content": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
-      "contentHtml": "So weird that in all the thousands of years of Chinese history this virus first infected humans the year after a plan was hatched to put a furin cleavage site into a sarbecovirus for the very first time - in the very same city.",
-      "publishedAt": "2026-03-12T04:50:00.000Z",
-      "link": "https://x.com/mattwridley/status/2031956026308678102",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Rebecca21951651",
-        "displayName": "Rebecc@ ███████",
-        "content": "So the theory is that there was a virus circulating in bats & then it somehow got an FCS optimally suited to infect humans & it was so perfected to launch a pandemic that the spike initially did not evolve at all?",
-        "link": "https://x.com/Rebecca21951651/status/2031868886488920103",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDKl-Y5aoAAUlSe.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2031954767539552324",
       "username": "CycleStudies",
       "displayName": "百萬Eric | Day Trader",
@@ -11796,6 +11713,57 @@
       "contentHtml": "现在的仓位",
       "publishedAt": "2026-03-12T02:22:00.000Z",
       "link": "https://x.com/TJ_Research/status/2031918811717235194",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031780554694410353",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "吗的 正解了 全是几把一篇长文猛如虎 结果不是Ai文就是翻译文或者结果倒推过程\n几把一共几百刀200%收益率有啥几把用啊",
+      "contentHtml": "吗的 正解了 全是几把一篇长文猛如虎 结果不是Ai文就是翻译文或者结果倒推过程\n几把一共几百刀200%收益率有啥几把用啊",
+      "publishedAt": "2026-03-11T17:13:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2031780554694410353",
+      "quote": {
+        "username": "Hueryu270",
+        "displayName": "Hueryu",
+        "content": "回测了一堆x上说赚钱的poly策略，没一个能正向",
+        "link": "https://x.com/Hueryu270/status/2031751858247925760"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031735388587585689",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "補充說明一下：10 萬美金一個月收入1000美金是比較合理的數字，因為實際還要計入放貸空窗期（被還款之後不會馬上又借出），還要扣掉交易所抽成，所以實際的放貸年利率不會到日利率換算的 17% 這麼高，但怎樣都很強了。",
+      "contentHtml": "補充說明一下：10 萬美金一個月收入1000美金是比較合理的數字，因為實際還要計入放貸空窗期（被還款之後不會馬上又借出），還要扣掉交易所抽成，所以實際的放貸年利率不會到日利率換算的 17% 這麼高，但怎樣都很強了。",
+      "publishedAt": "2026-03-11T14:13:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2031735388587585689",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031732098835562933",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "bitfinex.com/sign-up?refcode…",
+      "contentHtml": "<a href=\"https://www.bitfinex.com/sign-up?refcode=AACaNW07v\">bitfinex.com/sign-up?refcode…</a>",
+      "publishedAt": "2026-03-11T14:00:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2031732098835562933",
       "stats": {
         "replies": 0,
         "retweets": 0,
