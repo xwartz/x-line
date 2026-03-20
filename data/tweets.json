@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T09:15:37.260Z",
+  "lastUpdated": "2026-03-20T09:32:50.451Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,7 +89,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 467,
+    "newFetched": 466,
     "successUsers": 23,
     "failedUsers": 4
   },
@@ -2320,25 +2320,6 @@
       }
     },
     {
-      "id": "2034419236911935721",
-      "username": "ohyishi",
-      "displayName": "Yishi",
-      "avatar": "https://nitter.net/pic/profile_images%2F1927515593592213504%2FOlm9TKXc_bigger.jpg",
-      "content": "x.com/i/article/203424651860…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2034246518606344192\">x.com/i/article/203424651860…</a>",
-      "publishedAt": "2026-03-18T23:58:00.000Z",
-      "link": "https://x.com/ohyishi/status/2034419236911935721",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2034391146277810503",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -2814,31 +2795,6 @@
         "displayName": "欧德曼",
         "content": "同时违背了老师只做龙头不做补涨和做不成xxx币安就不用干了两项原则",
         "link": "https://x.com/theold1926/status/2033908146557882668"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034263055971110987",
-      "username": "MaggieUSMacro",
-      "displayName": "Maggie",
-      "avatar": "https://nitter.net/pic/profile_images%2F2008884052229771266%2FThxwB8yN_bigger.jpg",
-      "content": "【散户接盘黄金和白银，机构已悄悄跑路。】\n\n国际清算银行（BIS）数据：从2025年到2026年初，\n\n黄金市场：\n散户投资者（黄色）买入超过 600亿美元；\n机构投资者（红色）在 2026 年第一季度加速抛售撤离，卖出金额突破 10亿美元。\n重点是下降斜率很大，而不是平缓的阶梯状（正常止盈曲线特征）。这说明机构不是在“慢慢收割利润”，而是在抢跑。\n\n白银市场：同黄金市场趋势但规模小\n散户投资者（紫色）买入约100亿美元；\n机构投资者（蓝色）在 2026 年第一季度抛售撤离，卖出金额约5亿美元。\n#黄金 #白银",
-      "contentHtml": "【散户接盘黄金和白银，机构已悄悄跑路。】\n\n国际清算银行（BIS）数据：从2025年到2026年初，\n\n黄金市场：\n散户投资者（黄色）买入超过 600亿美元；\n机构投资者（红色）在 2026 年第一季度加速抛售撤离，卖出金额突破 10亿美元。\n重点是下降斜率很大，而不是平缓的阶梯状（正常止盈曲线特征）。这说明机构不是在“慢慢收割利润”，而是在抢跑。\n\n白银市场：同黄金市场趋势但规模小\n散户投资者（紫色）买入约100亿美元；\n机构投资者（蓝色）在 2026 年第一季度抛售撤离，卖出金额约5亿美元。\n<a href=\"/search?f=tweets&q=%23黄金\">#黄金</a> <a href=\"/search?f=tweets&q=%23白银\">#白银</a>",
-      "publishedAt": "2026-03-18T13:38:00.000Z",
-      "link": "https://x.com/MaggieUSMacro/status/2034263055971110987",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDsnRlBbgAAumuB.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "follow_clues",
-        "displayName": "Theclues"
       },
       "stats": {
         "replies": 0,
@@ -5335,41 +5291,6 @@
       "contentHtml": "没有牛回",
       "publishedAt": "2026-03-16T23:00:00.000Z",
       "link": "https://x.com/hazenlee/status/2033679789010391402",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033671849096433758",
-      "username": "m1ssuo",
-      "displayName": "Vincent Yang",
-      "avatar": "https://nitter.net/pic/profile_images%2F1589233256175923202%2FCsyqQfsK_bigger.png",
-      "content": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\ngithub.com/missuo/remodex-re…",
-      "contentHtml": "重写了一下 Remodex 的 Relay 部分，并且支持了 Docker 部署。你也可以选择使用我提供的 Relay（部署在日本东京，三网优化，到江浙沪的延迟在 30ms 左右）。\n\n<a href=\"https://github.com/missuo/remodex-relay\">github.com/missuo/remodex-re…</a>",
-      "publishedAt": "2026-03-16T22:28:00.000Z",
-      "link": "https://x.com/m1ssuo/status/2033671849096433758",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "quote": {
-        "username": "landiantech",
-        "displayName": "蓝点网",
-        "content": "[开源] [TF版] Remodex - 适用于 OpenAI Codex CLI 和桌面客户端版的手机远程控制应用，可以对话和发送指令进行远程开发操作。这是开发者 @Emanueledpt 推出的开源应用，支持读取现有会话并继续开发，缺点是每次都必须在 PC/Mac 上运行命令生成二维码，手机端扫码才能配对：ourl.co/112139?x",
-        "link": "https://x.com/landiantech/status/2032275955432243524",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz0bUAAdztD.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDOWSz6bQAAJZLz.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11760,6 +11681,97 @@
       "contentHtml": "When I was a student in the 2010s, the dream was to “make it” by launching a startup.\n\nBe the Uber of something. Raise VC money. Exit with a huge check.\n\nIt never appealed to me. I just wanted to sit on my computer 16 hours a day like a retard.\n\nPeople in CBB cartel universities launched startups. Some even raised 8 figures right after COVID.\n\nAt the time we thought we were missing something.\n\n6 years later almost none of them exited.\n\nThe real success stories are actually us.\n\nThe dorks clicking on their computers 16 hours a day.\n\nFor the last decade, crypto was the place to go from zero to self-made multimillionaire.\n\nNever stop clicking.",
       "publishedAt": "2026-03-11T04:56:00.000Z",
       "link": "https://x.com/Cbb0fe/status/2031595002149638535",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031565074012450912",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "【指标更新📊】刻成🧘‍♂️",
+      "contentHtml": "【指标更新📊】刻成🧘‍♂️",
+      "publishedAt": "2026-03-11T02:57:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2031565074012450912",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDGRdkCaMAkBv55.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "刻个三顶🤓\n\n图中上方指标为 #BTC 价格；下方指标为 #BTC: Realized Cap HODL Waves [<90天]\n\nBTC: Realized Cap HODL Waves 是一个链上指标，它将比特币的实现市值（Realized Capitalization，即根据每个币最后一次移动时的价格计算的总价值）按币的持有时长进行分布显示。<90 天的合集是指所有持有时长不足 90 天的币的实现市值占比之和。这个指标主要反映了以下方面：\n\n1. 短期持有者的占比和市场活跃度：它代表了最近进入市场或频繁交易的“热钱”比例。这些币往往由短期投机者、新入场投资者或交易者持有，反映了市场的短期流动性、买卖活跃度和投机情绪。如果这个比例上升，通常表示有大量新资金流入，或短期交易增加；反之，如果下降，则表示币在“老化”，更多持有者转向长期持有\n\n2. 潜在的卖压或买压信号：高比例的 <90 天持有往往与市场顶部相关，因为短期持有者更容易在价格波动时抛售，导致卖压增加。低比例则可能表示市场底部，币被长期持有者积累，减少了流通供给，潜在支撑未来上涨\n\n3. 市场周期的指示：在比特币的历史周期中，这个指标常用于判断牛熊转换：牛市中，<90 天比例往往从低点（<20%）上升到高点（>50%），反映新资金和 FOMO 情绪。熊市中，它会下降，表明投机者离场，长期持有者主导市场",
+        "link": "https://x.com/0xCryptoChan/status/1987735321942098031",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FG5XOhmmb0AERXwy.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031555565416231197",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "三年前我就說過，RWA 是服務圈內人的。\n\n三年過去了，這句話還是沒變。\n\nCrypto 圈講的 RWA 是所有資產都要上鏈，讓所有人都能買。\n\n但看看真正落地的案例：BlackRock 的 BUIDL。$18B 規模，上了 Ethereum、Solana 等九條鏈。聽起來很厲害對吧？\n\n但申購最低門檻 500 萬美金，限 qualified investors，白話講就是有錢人限定。全部要 KYC，只有白名單錢包能持有。\n\nToken 鎖在白名單錢包裡，不參與 DeFi，不產生交易量，不帶來新用戶。\n\n這些錢只是停在鏈上的國債，不會被借出、不會被 LP、不會產生飛輪效應。對 TVL 沒有任何意義。\n\n鏈本身可替換。BUIDL 同時在 9 條鏈上，對他們來說鏈就是資料庫，哪條便宜用哪條。\n\n而買 BUIDL 的是誰？\n\n不是什麼傳統金融機構湧入 Crypto。就是圈內的機構自己，把閒錢停在裡面吃國債利息、拿去交易所當保證金。\n\n$18B 聽起來很多，但就是 Crypto 的錢在 Crypto 裡面繞，\n增量資金根本不存在。\n\n再來看交易所這邊。\n\n現在一堆交易所在上美股、大宗商品交易，聽起來像是 RWA 的另一種落地。\n\n但很多上的是 CFD 合約，背後根本沒有現貨。連真實資產都不存在，這算哪門子的 Real World Asset？\n\n就算真的有現貨好了，本質上也只是在分流幣圈自己的資金。\n\n你想想，為什麼交易所要上這些東西？因為美股一直漲、黃金一直漲，用戶的注意力跟資金往外跑。交易所怕人跑掉，所以上了一些圈外資產把你留住。\n\n還有人說穩定幣就是 RWA。\n\n對，技術上來說 USDT 跟 USDC 背後是美元資產，確實符合定義。\n\n但穩定幣這兩年市值成長了這麼多，跟幣圈市值有正向關係嗎？\n\n沒有。\n\n穩定幣市值從 2024 年初的 $130B 成長到現在超過 $310B，翻了 1.4 倍。同一段時間，山寨幣市值不增反減。穩定幣的增長跟你手上的幣漲不漲，一點關係也沒有。\n\n我當年說出這句話的時候，還被人靠北，說什麼我看不懂 RWA 就不要亂講話。\n\n其實撇除一堆包裝去看真實的狀況，這句話一直到現在都沒變。",
+      "contentHtml": "三年前我就說過，RWA 是服務圈內人的。\n\n三年過去了，這句話還是沒變。\n\nCrypto 圈講的 RWA 是所有資產都要上鏈，讓所有人都能買。\n\n但看看真正落地的案例：BlackRock 的 BUIDL。$18B 規模，上了 Ethereum、Solana 等九條鏈。聽起來很厲害對吧？\n\n但申購最低門檻 500 萬美金，限 qualified investors，白話講就是有錢人限定。全部要 KYC，只有白名單錢包能持有。\n\nToken 鎖在白名單錢包裡，不參與 DeFi，不產生交易量，不帶來新用戶。\n\n這些錢只是停在鏈上的國債，不會被借出、不會被 LP、不會產生飛輪效應。對 TVL 沒有任何意義。\n\n鏈本身可替換。BUIDL 同時在 9 條鏈上，對他們來說鏈就是資料庫，哪條便宜用哪條。\n\n而買 BUIDL 的是誰？\n\n不是什麼傳統金融機構湧入 Crypto。就是圈內的機構自己，把閒錢停在裡面吃國債利息、拿去交易所當保證金。\n\n$18B 聽起來很多，但就是 Crypto 的錢在 Crypto 裡面繞，\n增量資金根本不存在。\n\n再來看交易所這邊。\n\n現在一堆交易所在上美股、大宗商品交易，聽起來像是 RWA 的另一種落地。\n\n但很多上的是 CFD 合約，背後根本沒有現貨。連真實資產都不存在，這算哪門子的 Real World Asset？\n\n就算真的有現貨好了，本質上也只是在分流幣圈自己的資金。\n\n你想想，為什麼交易所要上這些東西？因為美股一直漲、黃金一直漲，用戶的注意力跟資金往外跑。交易所怕人跑掉，所以上了一些圈外資產把你留住。\n\n還有人說穩定幣就是 RWA。\n\n對，技術上來說 USDT 跟 USDC 背後是美元資產，確實符合定義。\n\n但穩定幣這兩年市值成長了這麼多，跟幣圈市值有正向關係嗎？\n\n沒有。\n\n穩定幣市值從 2024 年初的 $130B 成長到現在超過 $310B，翻了 1.4 倍。同一段時間，山寨幣市值不增反減。穩定幣的增長跟你手上的幣漲不漲，一點關係也沒有。\n\n我當年說出這句話的時候，還被人靠北，說什麼我看不懂 RWA 就不要亂講話。\n\n其實撇除一堆包裝去看真實的狀況，這句話一直到現在都沒變。",
+      "publishedAt": "2026-03-11T02:19:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2031555565416231197",
+      "quote": {
+        "username": "BensonTWN",
+        "displayName": "Benson Sun",
+        "content": "RWA 本質上是服務圈內資金\n在法幣出入口被掐緊、資金進出有匯損的狀況下\n幣圈大量的沈澱資金無處可去\n只能眼巴巴地看 TradFi 的人投資無風險 4-5% 的國債\n由於 TradFi 的無風險利率無法傳導到幣圈來\n這才有了 RWA 的發展空間\n\n只要法幣出入有磨損/阻礙\nDeFi 往 RWA 走就是必然的結果\n不過牛市還是需要有能夠吸引場外資金的敘事\nRWA 這種本質上服務於圈內人的賽道\n注定難以成為牛市的催化劑",
+        "link": "https://x.com/BensonTWN/status/1704353954614870082"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2031547406601564659",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
+      "content": "再談 Taker 分析法的原理：一文幫你掃盲所有誤區💡\n\n自我在一年前首次分享了「Taker」分析法至今，\n一直都有不少新、老朋友來詢問相關的問題，\n因此，時隔接近一年，今天我打算再來和各位聊一次 Taker 的概念，\n在重溫原理的同時，也藉本文來一次性回答所有常見的疑難雜症⚗️\n\n以下進入正文👇：\n\n//\n\n🟡 Taker 概念溫習\n\n如果你是新朋友，或者不知道何謂「Taker」的朋友，\n我先前曾寫過一系列的教程在解釋 Taker 的概念，\n有興趣的朋友可以先參考以下鏈接🔗：\n\n📖 交易概念大補帖（二）：Taker、Maker、價格移動的原理\nnitter.net/market_beggar/status/1…\n📖 交易概念大補帖（四）：上漲的驅動力，跟著主力資金進場\nnitter.net/market_beggar/status/1…\n📖 交易概念大補帖（五）：可視化的 taker 強度指標 & 用法\nnitter.net/market_beggar/status/1…\n\n為了避免贅述，本文主要將以「解答常見問題、誤區」為主，\n如果你尚未看過以上鏈接中的內容，強烈建議可以先看一眼。\n\n//\n\n🟡 為啥要看分 K，四小時 K 不行嗎？\n\n這題是我最常被問到的問題之一，因為一年前，\n我在首次分享 Taker 概念時（下方引文）有提到要使用分 K，\n自此之後就有非常多朋友來問這個問題。\n\n在此再次做一次完整的回答：\n📝 概念複習：分 K + 實體占比大 + 巨量 = Taker 出現\n➡️ 假設有兩根「實體占比大」的 K 棒，分別是分 K 和四小時 K\n➡️ 分 K 只統計 1 分鐘，因此容錯率低，Taker 存在的可能性更高\n➡️ 四小時 K，完全有可能是「前 3 小時 59 分在跌」，\n結果最後一分鐘在低流動性的狀況下出現「低量拉升」，\n這種狀況很明顯不是我們想要找的「強力 taker buy」，\n但在這根 4 小時 K 棒收線後，看起來也是「實體占比大的巨量 K」。\n\n換句話說：分 K 因為統計的時間短，所以相較於四小時 K，\n出現那種「低量拉升造成的假強勢」的概率就低很多，\n這就是為什麼我在下方引文中，提到要看分 K 的核心原因‼️。\n\n//\n\n🟡 有 Taker Buy 入場了，我能作多嗎？\n\n這也是我在過去一年內，被問到 n 次的問題。\n\n我曾多次和各位分享過，我個人的合約波段交易系統，\n主要由三個核心元素所組成，分別是：\n🔺 Liquidity（找尋 Stop Hunt 的痕跡）\n🔺 Taker 強度分析\n🔺 Maker 強度分析\n\n其中，之所以我會想要納入 Taker 分析，其主因在於：\n「我需要藉著 Taker 的強弱狀況，來幫助我判斷 Stop Hunt 是否成立」\n\nStop Hunt，特指「聰明錢在流動性聚集區的獵取行為」，\n詳細的概念我也寫過完整的教程，有興趣的朋友可以參考以下鏈接🔗\n📖 我決不做突破單的原因：莊家獵取流動性的陷阱\nnitter.net/market_beggar/status/1…\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\nnitter.net/market_beggar/status/1…\n\n如附圖所示：\n價格在跌破前低時，市場會不謀而合的出現兩類訂單：\n1️⃣ 突破交易者（跌破就做空）\n2️⃣ 做多止損者（原先在前低之上做多的人，止損通常設於前低）\n\n這兩類訂單都是「Sell」，因此如果有大資金想在此區域做多，\n他們可以先把價格砸到前低之下，引出上述兩類訂單的 liquidity，\n再把他們的 liquidity 吃掉，以降低自己建倉時的磨損成本。\n\n但很多時候，價格常常出現「跌破前低又站回前低之上」的情況，\n其中有些是聰明錢的 Stop Hunt 行為，有些則是單純的弱反彈。\n為了區分上述兩者，此時我們就可以借用 Taker 的概念：\n「如真是聰明錢建倉，那在站回前低時，高概率伴隨強力 Taker Buy」\n\n同理，如果是看跌的 Stop Hunt，則是需要出現：\n「短暫突破前高 + 跌回前高之下 + 跌回時伴隨強力 Taker Sell」。\n\n因此，在我的交易系統而言，我並不是隨時都在監測 Taker，\n而是只在價格來到特定 liquidity 聚集區之時，才來關注 Taker 是否出現‼️\n\n至於平時為何不需要監測 Taker，理由很簡單：\n你在隨便一個時間點看到的強力 Taker Buy，\n搞不好只是因為某個巨鯨，突然心情好想買 1000 顆 BTC，\n很顯然這種狀況並不是我們要找的聰明錢。\n\n//\n\n🟡 結語\n\n本文算是接續下方引文的「Taker 教程番外篇」，\n如果你還沒有看過「交易概念大補帖」系列教程，\n那這篇文對你而言或許會有些深澀；如果想全面理解，\n建議可以先將本文文中附上的鏈接先看一次。\n\n如果對於文中的內容有任何不理解的地方，\n都可以隨時在底下的評論區發問，老規矩：有問必答。\n\n順帶一提，平時群內也有很多朋友會一起交流行情，\n其中就包含 Taker 的判定、Stop Hunt 是否發生 ... 等，\n如果想和大家一起交流，也歡迎所有朋友一起入群討論，\n鏈接在我 X 主頁的自介區💬\n\n以上就是今天的內容，希望對各位有幫助🫡",
+      "contentHtml": "再談 Taker 分析法的原理：一文幫你掃盲所有誤區💡\n\n自我在一年前首次分享了「Taker」分析法至今，\n一直都有不少新、老朋友來詢問相關的問題，\n因此，時隔接近一年，今天我打算再來和各位聊一次 Taker 的概念，\n在重溫原理的同時，也藉本文來一次性回答所有常見的疑難雜症⚗️\n\n以下進入正文👇：\n\n//\n\n🟡 Taker 概念溫習\n\n如果你是新朋友，或者不知道何謂「Taker」的朋友，\n我先前曾寫過一系列的教程在解釋 Taker 的概念，\n有興趣的朋友可以先參考以下鏈接🔗：\n\n📖 交易概念大補帖（二）：Taker、Maker、價格移動的原理\n<a href=\"https://nitter.net/market_beggar/status/1899653835729297424\">nitter.net/market_beggar/status/1…</a>\n📖 交易概念大補帖（四）：上漲的驅動力，跟著主力資金進場\n<a href=\"https://nitter.net/market_beggar/status/1902919628940247109\">nitter.net/market_beggar/status/1…</a>\n📖 交易概念大補帖（五）：可視化的 taker 強度指標 & 用法\n<a href=\"https://nitter.net/market_beggar/status/1905088759550681393\">nitter.net/market_beggar/status/1…</a>\n\n為了避免贅述，本文主要將以「解答常見問題、誤區」為主，\n如果你尚未看過以上鏈接中的內容，強烈建議可以先看一眼。\n\n//\n\n🟡 為啥要看分 K，四小時 K 不行嗎？\n\n這題是我最常被問到的問題之一，因為一年前，\n我在首次分享 Taker 概念時（下方引文）有提到要使用分 K，\n自此之後就有非常多朋友來問這個問題。\n\n在此再次做一次完整的回答：\n📝 概念複習：分 K + 實體占比大 + 巨量 = Taker 出現\n➡️ 假設有兩根「實體占比大」的 K 棒，分別是分 K 和四小時 K\n➡️ 分 K 只統計 1 分鐘，因此容錯率低，Taker 存在的可能性更高\n➡️ 四小時 K，完全有可能是「前 3 小時 59 分在跌」，\n結果最後一分鐘在低流動性的狀況下出現「低量拉升」，\n這種狀況很明顯不是我們想要找的「強力 taker buy」，\n但在這根 4 小時 K 棒收線後，看起來也是「實體占比大的巨量 K」。\n\n換句話說：分 K 因為統計的時間短，所以相較於四小時 K，\n出現那種「低量拉升造成的假強勢」的概率就低很多，\n這就是為什麼我在下方引文中，提到要看分 K 的核心原因‼️。\n\n//\n\n🟡 有 Taker Buy 入場了，我能作多嗎？\n\n這也是我在過去一年內，被問到 n 次的問題。\n\n我曾多次和各位分享過，我個人的合約波段交易系統，\n主要由三個核心元素所組成，分別是：\n🔺 Liquidity（找尋 Stop Hunt 的痕跡）\n🔺 Taker 強度分析\n🔺 Maker 強度分析\n\n其中，之所以我會想要納入 Taker 分析，其主因在於：\n「我需要藉著 Taker 的強弱狀況，來幫助我判斷 Stop Hunt 是否成立」\n\nStop Hunt，特指「聰明錢在流動性聚集區的獵取行為」，\n詳細的概念我也寫過完整的教程，有興趣的朋友可以參考以下鏈接🔗\n📖 我決不做突破單的原因：莊家獵取流動性的陷阱\n<a href=\"https://nitter.net/market_beggar/status/1907261008059777200\">nitter.net/market_beggar/status/1…</a>\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\n如附圖所示：\n價格在跌破前低時，市場會不謀而合的出現兩類訂單：\n1️⃣ 突破交易者（跌破就做空）\n2️⃣ 做多止損者（原先在前低之上做多的人，止損通常設於前低）\n\n這兩類訂單都是「Sell」，因此如果有大資金想在此區域做多，\n他們可以先把價格砸到前低之下，引出上述兩類訂單的 liquidity，\n再把他們的 liquidity 吃掉，以降低自己建倉時的磨損成本。\n\n但很多時候，價格常常出現「跌破前低又站回前低之上」的情況，\n其中有些是聰明錢的 Stop Hunt 行為，有些則是單純的弱反彈。\n為了區分上述兩者，此時我們就可以借用 Taker 的概念：\n「如真是聰明錢建倉，那在站回前低時，高概率伴隨強力 Taker Buy」\n\n同理，如果是看跌的 Stop Hunt，則是需要出現：\n「短暫突破前高 + 跌回前高之下 + 跌回時伴隨強力 Taker Sell」。\n\n因此，在我的交易系統而言，我並不是隨時都在監測 Taker，\n而是只在價格來到特定 liquidity 聚集區之時，才來關注 Taker 是否出現‼️\n\n至於平時為何不需要監測 Taker，理由很簡單：\n你在隨便一個時間點看到的強力 Taker Buy，\n搞不好只是因為某個巨鯨，突然心情好想買 1000 顆 BTC，\n很顯然這種狀況並不是我們要找的聰明錢。\n\n//\n\n🟡 結語\n\n本文算是接續下方引文的「Taker 教程番外篇」，\n如果你還沒有看過「交易概念大補帖」系列教程，\n那這篇文對你而言或許會有些深澀；如果想全面理解，\n建議可以先將本文文中附上的鏈接先看一次。\n\n如果對於文中的內容有任何不理解的地方，\n都可以隨時在底下的評論區發問，老規矩：有問必答。\n\n順帶一提，平時群內也有很多朋友會一起交流行情，\n其中就包含 Taker 的判定、Stop Hunt 是否發生 ... 等，\n如果想和大家一起交流，也歡迎所有朋友一起入群討論，\n鏈接在我 X 主頁的自介區💬\n\n以上就是今天的內容，希望對各位有幫助🫡",
+      "publishedAt": "2026-03-11T01:47:00.000Z",
+      "link": "https://x.com/market_beggar/status/2031547406601564659",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDGBmG5aMAM_WEH.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "交易概念大補帖（四）：上漲的驅動力，跟著主力資金進場🐳\n\n⚠️ 本文內容略微硬核，請務必先行閱讀前兩篇文章\n⚠️ 適合想學習觀測主力動態的讀者\n\nKey Points：\n🔺分析 Taker 的強度的原因：沒慧根，要會跟\n🔺量價原理的進階分析方式\n🔺如何透過成交量判斷 Taker 的強度\n🔺實盤案例解析\n\n//\n\n🟡 為什麼我們要分析 Taker 的強度\n\n「沒有慧根，你要會跟」\n\n在 crypto，特別是合約市場，屬於一個零和博弈的賽局。\n換句話說，你的收益來自於別人的虧損；反之依然。\n\n你的對手盤，往往包含那些在華爾街狩獵幾十年的巨鱷，\n你憑什麼覺得自己賺得過他們❓\n\n至少我自認能力不足，在這種狀況下，\n如果我們將策略的切入點聚焦在「追隨主力資金」，\n勝率往往會比自己瞎操作，還高出許多。\n\n在前兩篇文章中（如果還沒讀過，請務必先去閱讀‼️），\n我詳細解析了 Maker、Taker 兩種訂單與價格移動的原理：\n\n📖交易概念大補帖（二）：Taker、Maker、價格移動的原理\nnitter.net/market_beggar/status/1…\n📖交易概念大補帖（三）：市場最小阻力方向🚀\nnitter.net/market_beggar/status/1…\n\n簡單複習一下：\n➡️ Maker = 掛單（被動防守方）\n➡️ Taker = 市價單（主動進攻方）\n\n而今天的文章，將著重解析「如何分析 Taker 的動向」。\n\n//\n\n🟡 量價原理的進階分析方式\n\n所謂成交量，是指「買、賣兩方互相匹配後」的量。\n換言之，每一根成交量背後，必然代表「等量的買、賣量」‼️\n\n我們常聽到的「爆量、巨量」，\n指的就是有大量的買、賣單被匹配，大量資金入場在此交鋒。\n\n但，各位可曾思考過「成交量的組成」❓\n\n巨大的成交量，可能代表的狀況有兩種，以暴跌 + 巨量為例：\n1️⃣ 大量 Taker sell 砸盤 +  Maker buy 接盤\n2️⃣ 大量 Taker sell 砸盤 +  Taker buy 護盤\n\n腦力激盪的時間到了：以上兩者的差別是什麼❓\n\n情況1️⃣：\n如果 Taker sell 強度很大，Maker buy 只會不斷被擊穿，\n最終在 K 線上的表態就是「實體佔比很大的下跌陰 K」\n\n情況2️⃣：\n如果 Taker sell 強度很大，但同時 Taker buy 也介入交戰，\n雙方拉扯之下，最終 K 線的表態「實體佔比可能較小」\n\n📝核心重點：同樣是巨量，代表的意義可以完全不一樣\n\n因此，在出現巨量時，如果能辨別以上兩種狀況，\n就能更清楚的掌握到主力資金的意圖‼️\n\n畢竟只有 Taker 才是「驅動價格的原動力」，\n如果市場上只有 maker buy + maker sell，資金是無法交鋒的。\n（詳見：交易概念大補帖（二））\n\n//\n\n🟡 如何透過成交量，判斷 Taker 的強度（實盤解析）\n\n如果你能理解我上面描述的內容，接下來我將引入兩個實盤案例，\n讓各位能夠更直接的理解「如何透過成交量，判斷 Taker」。\n\n如上圖，我標記了一根 1hr 的「巨量下跌 + 收針的 K 棒」。\n\n或許有人會這樣解讀：\n➡️ 成交量 = 買、賣雙方等量，所以有很多人在這買\n➡️ 價格收針了，說明買盤力度很強勁\n➡️ 根據以上，判定為看漲訊號\n\n但上帝視角告訴你，後續仍然繼續下跌，為什麼❓\n\n接著往下看：\n\n我們把同一段圖表，切換成 1 min K 線圖來看。\n\n可以看到，雖然在 1hr 的圖表上看到「單根巨量 K 線」，\n但切到 1 min K 上，可以清楚的發現：\n1️⃣ 巨量的來源，幾乎都來自於幾分鐘內的暴跌\n2️⃣ 那幾分鐘的下跌 K 線，幾乎都是「實體佔比大」\n\n各位在此可以暫停思考一下，以「一根 1 min K 而言」：\n「巨量 + 實體佔比大」意味著什麼❓\n\n無疑，絕對是 Taker sell 打出來的巨量，\n如果期間有 Taker buy 出來抗衡，就不至於讓實體佔比這麼大‼️\n\n因此，雖然在 1hr 圖表上看到「巨量」+「收針」，\n但在切到 1min 圖表後就可以明顯看到：\n「這根本只是 taker sell 的單方面屠城，只有 maker buy 接盤」⚠️\n\n據此，我們在 K 線圖上，基本看不到 taker buy 出來護盤。\n既然沒有「主力資金」出來介入護盤，我們又何必進場做多呢❓\n\n-\n\n我們再看一個例子：\n\n上圖是另一個時段的 1min K 圖表，同樣也是在 1hr K 出現巨量。\n\n從 1min K 圖表上可以看到：\n➡️ 前段下跌（紅色標記區）出現大量 taker sell 砸盤\n➡️ 後面（黃色標記區）出現一根巨量 taker buy\n\n為什麼說有 taker buy 介入？\n\n同理，黃色標記處是一根「實體佔比大的上漲 1min K」，\n並且對應的成交量也是「巨量」，\n與第一個案例相比而言，明顯有主力資金（taker buy）介入‼️\n\n因此，相比第一個案例，這個案例顯然更具備做多的條件📈\n\n//\n\n🟡 結語\n\n以上就是今天的內容，全文硬核，網路上基本沒人在教這個 ...。\n發文前，大概就能猜到，這篇的流量不會太好🥲\n畢竟寫的內容越深，通常願意看的人就越少 QAQ\n\n其實關於 taker、maker、成交量的分析方式，\n還有很多角度可以聊，今天分享的只是其中一種。\n\n如果這篇流量夠好，我再考慮寫更深入的內容😅\n\n以上，老樣子：有問必答🫡\n\n//\n\n【工商時間】\n\n我跟 #OKX 合作啦🎉\n\n值得一提的是，OKX 的看盤功能中，\n可以讓我們看到「秒 K」，這相比 1min K 能觀察的更細微，\n對於想要觀測 taker 動向的交易者，絕對算是一大福音👍\n\n如果你也想加入，可以直接點擊我 X 主頁的連結，\n可享有全網最高的 20% 的手續費折扣💵",
+        "link": "https://x.com/market_beggar/status/1902919628940247109",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGmiCnF4aEAEOjD1.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGmiDVmybMAAVNWY.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
