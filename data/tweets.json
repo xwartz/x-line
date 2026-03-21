@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T22:05:56.767Z",
+  "lastUpdated": "2026-03-21T22:25:09.537Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 521,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 502,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2035479081169686957",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "真实的自动驾驶：遇到问题从新的输入(风挡)找答案\n虚假的自动驾驶：遇到问题从后视镜(统计学)中找答案",
+      "contentHtml": "真实的自动驾驶：遇到问题从新的输入(风挡)找答案\n虚假的自动驾驶：遇到问题从后视镜(统计学)中找答案",
+      "publishedAt": "2026-03-21T22:10:00.000Z",
+      "link": "https://x.com/hazenlee/status/2035479081169686957",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "自动驾驶算法的底层原理和我们做趋势交易最科学的原理是一样的，这就是为何我一直提醒大家不要历史归纳法，统计学的多样本概率学适用于高频量化的类似于物理学当中的量子力学，但宏观世界当中“相对论”更有效。这也是为何我做量化多年发现剩下的最有效的因子就是“动能因子”，不只是因为样本足够，物理学中空气动力学的应用在趋势交易中格外有效。",
+        "link": "https://x.com/hazenlee/status/2030418588495167970"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2035477655873896610",
       "username": "TJ_Research",
@@ -10626,7 +10647,7 @@
       "quote": {
         "username": "follow_clues",
         "displayName": "Theclues",
-        "content": "1/4\n本轮行情有几个有意思的细节：\nBTC 涨幅全在亚洲时段，美国时间原地躺平\nUSDT/USD 交易量突然跳到 3-4 倍，平时才 2-3 倍\n\n2/4\n期货驱动痕迹很明显\n涨幅榜的山寨币更绝——\n散户基本没有 · 平时没人交易 · 只有做市商在里面\n\n3/4\n价格拉升方式像是后台算好的：\n暴涨 X% = 触发最大清算量",
+        "content": "1/4\n本轮行情有几个有意思的细节：\nBTC 涨幅全在亚洲时段，美国时间原地躺平\nUSDT/USD 交易量突然跳到 3-4 倍，平时才 2-3 倍\n\n2/4\n期货驱动痕迹很明显\n涨幅榜的山寨币更绝——\n散户基本没有 · 平时没人交易 · 只有做市商在里面\n\n3/4\n价格拉升方式像是后台算好的：\n暴涨 X% = 触发最大清算量\n不多不少，刚好够\n\n4/4\n这个剧本见过很多次了\n只是这次的人更聪明——\n不靠散户跟风，只做确定性清算\n只能赚，不会亏\n\n熟悉的轮回，不熟悉的打法 🌊，怎么办？不参与",
         "link": "https://x.com/follow_clues/status/2032317928159527402"
       },
       "stats": {
@@ -11698,41 +11719,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHC9FSEbbYAA5f-o.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032296777253339608",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "在昨天的推文中我们提到，当交易所内BTC余额持续下降，现货需求阶段性承接可使BTC在短期内维持震荡或弱反弹走势。\n\n如果是弱反弹路径，那么BTC即将遇到的第一重阻力便是“MVRV极端偏差定价区间”中绿线的位置（-0.5 std）—— $74,000（图1）。\n\n从历史轨迹来看，每当BTC跌破绿线时，代表行情进入熊市的第2阶段，此后反弹很难再有效突破此概率区间，直到熊市结束。\n\n如果切换到群体成本的角度，目前BTC可以比较稳定的站上“持有1w-1m”的超短期筹码成本线，说明近期抄底的资金对价格已不敏感，抛压减少价格才能站稳（图2）。\n\n在此上方就是持有1y-2y的长期持有者的平均换手成本，目前是$78,880；这里累积有242w枚的巨量筹码，以现有的整体需求水平来看，我个人认为很难一次性就顺利通过。\n\n另外，期权市场在3月20日的行权日，在$74,000位置是一个Long Gamma状态，目前的Gamma风险敞口（GEX）有1.8亿美元（图3）。\n\n我们知道在Long Gamma状态下，当价格下跌，MM要买入BTC；价格上涨，要卖出BTC对冲；因此形成了Gamma引力。\n\n综上所述，我个人对弱反弹路径的预期就在$74,000 - $79,000 之间，在此范围内我可能会找机会做一笔高位空的尝试，止损位置很清晰，一旦突破$79,000那就说明前期的判断错误，就及时止损。\n\n如果没到，那就继续耐心的在下行趋势中等低位接现货。总之就是少操作，等高确定性的机会。",
-      "contentHtml": "在昨天的推文中我们提到，当交易所内BTC余额持续下降，现货需求阶段性承接可使BTC在短期内维持震荡或弱反弹走势。\n\n如果是弱反弹路径，那么BTC即将遇到的第一重阻力便是“MVRV极端偏差定价区间”中绿线的位置（-0.5 std）—— $74,000（图1）。\n\n从历史轨迹来看，每当BTC跌破绿线时，代表行情进入熊市的第2阶段，此后反弹很难再有效突破此概率区间，直到熊市结束。\n\n如果切换到群体成本的角度，目前BTC可以比较稳定的站上“持有1w-1m”的超短期筹码成本线，说明近期抄底的资金对价格已不敏感，抛压减少价格才能站稳（图2）。\n\n在此上方就是持有1y-2y的长期持有者的平均换手成本，目前是$78,880；这里累积有242w枚的巨量筹码，以现有的整体需求水平来看，我个人认为很难一次性就顺利通过。\n\n另外，期权市场在3月20日的行权日，在$74,000位置是一个Long Gamma状态，目前的Gamma风险敞口（GEX）有1.8亿美元（图3）。\n\n我们知道在Long Gamma状态下，当价格下跌，MM要买入BTC；价格上涨，要卖出BTC对冲；因此形成了Gamma引力。\n\n综上所述，我个人对弱反弹路径的预期就在$74,000 - $79,000 之间，在此范围内我可能会找机会做一笔高位空的尝试，止损位置很清晰，一旦突破$79,000那就说明前期的判断错误，就及时止损。\n\n如果没到，那就继续耐心的在下行趋势中等低位接现货。总之就是少操作，等高确定性的机会。",
-      "publishedAt": "2026-03-13T03:24:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2032296777253339608",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDQqigbbQAMPhNI.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDQqmJfbwAAVxcw.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDQqp--bQAAl0Rd.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "x.com/i/article/203196768164…",
-        "link": "https://x.com/Murphychen888/status/2031975470980530181"
       },
       "stats": {
         "replies": 0,
