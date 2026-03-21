@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T18:46:22.064Z",
+  "lastUpdated": "2026-03-21T19:01:37.779Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,42 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 521,
+    "newFetched": 526,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2035430739635015824",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
+      "content": "这是个好平台",
+      "contentHtml": "这是个好平台",
+      "publishedAt": "2026-03-21T18:57:00.000Z",
+      "link": "https://x.com/hazenlee/status/2035430739635015824",
+      "quote": {
+        "username": "iam678",
+        "displayName": "梁",
+        "content": "福利姬鉴别平台差不多可以用了，\n每次的搜索结果进行分类并根据分数进行排名，\n主页新增排行榜，\n更新了鉴定机制，更直观的给用户参考。\n取消了登录搜索限制，\n改为登录用户可以给搜索结果进行投票评分与评论。\n会在全网抓取对检索账户的负面评价，\n哪怕被隐藏的评论也会被抓取，\n全面减少门槛诈骗。",
+        "link": "https://x.com/iam678/status/2035362236114563245",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHD8M8GWaMAAcD_h.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHD8M8MUagAAqBQ1.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2035424599153037351",
       "username": "TJ_Research",
@@ -11703,39 +11734,6 @@
       "contentHtml": "刚刚拿部分 <a href=\"/search?f=tweets&q=%23DIS\">$DIS</a> 换了 <a href=\"/search?f=tweets&q=%23ADBE\">$ADBE</a> ， 一年后看看有没有错😀",
       "publishedAt": "2026-03-13T03:09:00.000Z",
       "link": "https://x.com/TJ_Research/status/2032292867511664712",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032290958344405503",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "啊哈，因高滑点单币交易亏损超 5000 万美元的正主出现了😅\n\n他表示的确看到了滑点警告但觉得「应该没事」，仍然选择执行了这笔交易 —— 而这甚至只排得上「第二糟糕的交易」\n\n人怎么能在这么造作的情况下，还这么有钱（摔",
-      "contentHtml": "啊哈，因高滑点单币交易亏损超 5000 万美元的正主出现了😅\n\n他表示的确看到了滑点警告但觉得「应该没事」，仍然选择执行了这笔交易 —— 而这甚至只排得上「第二糟糕的交易」\n\n人怎么能在这么造作的情况下，还这么有钱（摔",
-      "publishedAt": "2026-03-13T03:01:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2032290958344405503",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDQl2UNasAAHUMj.jpg"
-        }
-      ],
-      "quote": {
-        "username": "kingfxyo",
-        "displayName": "fxyo",
-        "content": "well… today I managed to completely nuke $50M on a swap.\n\ntried to buy AAVE with $50M USDT, got the slippage warning, clicked the confirmation box anyway on my phone thinking it would be fine.\n\nit's not fine\n\nended up receiving 324 AAVE\n\nsecond worst trade i've ever done",
-        "link": "https://x.com/kingfxyo/status/2032204879599428006",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDPXi1pWMAES27Q.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
