@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T13:47:19.204Z",
+  "lastUpdated": "2026-03-22T14:10:04.406Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 521,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 505,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
     {
@@ -2241,6 +2241,12 @@
       "contentHtml": "【四年周期总刻系列（25）】\n\n2015年1月，该指标跌至 0.75，7天后是熊底\n2018年12月，该指标跌至 0.75，9天前是熊底\n2022年9月，该指标跌至 0.75，48天后是熊底\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中上方灰线为 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 价格；红线为比特币短期持有者平均购币成本 (Short-Term Holder Realized Price)；蓝线为比特币真实市场平均购币成本 (True Market Mean Price)\n\n图中下方指标为红线跟蓝线之比（&gt;0.75 为绿；&lt;0.75 为红）\n\n比特币短期持有者平均购币成本，反映了近期市场新入场者（持币&lt;155天）的平均购币成本\n\n比特币真实市场平均购币成本，计算公式为“投资者市值“（排除掉矿工挖出但没有进入二级市场交易的比特币）除以“时间加权活跃供应量”（剔除长期休眠和丢失币）。反映了：市场中真正活跃投资者（排除矿工新铸币、丢失币和长期不动仓）的真实平均购币成本",
       "publishedAt": "2026-03-21T02:52:00.000Z",
       "link": "https://x.com/0xCryptoChan/status/2035187664207610079",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHD5uQdgboAALvml.jpg"
+        }
+      ],
       "quote": {
         "username": "0xCryptoChan",
         "displayName": "CryptoChan",
@@ -3752,6 +3758,12 @@
       "contentHtml": "历史不会简单地重复，而是…100%复刻？🐶",
       "publishedAt": "2026-03-20T01:47:00.000Z",
       "link": "https://x.com/0xCryptoChan/status/2034808921475649812",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHD0XswrboAE6Xz8.jpg"
+        }
+      ],
       "quote": {
         "username": "0xCryptoChan",
         "displayName": "CryptoChan",
