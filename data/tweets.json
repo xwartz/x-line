@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T05:39:09.819Z",
+  "lastUpdated": "2026-03-22T06:05:23.818Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,48 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 519,
+    "newFetched": 521,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2035595815583129885",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "反应快的，\n已经去闲鱼上架 微信 Clawbot 安装服务了。\n\n甚至不用安装，直接在自己龙虾里设置：\nopenclaw config set session.dmScope per-account-channel-peer\n（不同微信号Clawbot对话，独立上下文）\nopenclaw channels login --channel openclaw-weixin\n（创建多个微信Clawbot）\n让买家扫码即用。",
+      "contentHtml": "反应快的，\n已经去闲鱼上架 微信 Clawbot 安装服务了。\n\n甚至不用安装，直接在自己龙虾里设置：\nopenclaw config set session.dmScope per-account-channel-peer\n（不同微信号Clawbot对话，独立上下文）\nopenclaw channels login --channel openclaw-weixin\n（创建多个微信Clawbot）\n让买家扫码即用。",
+      "publishedAt": "2026-03-22T05:53:00.000Z",
+      "link": "https://x.com/coolish/status/2035595815583129885",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHD_jmaJaQAAumRO.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Weixin_WeChat",
+        "displayName": "WeChat",
+        "content": "Today, we are officially opening the capability to integrate #OpenClaw into #Weixin.\n\nWith the launch of the #WeixinClawBot, users can use Weixin as a dedicated messaging channel for OpenClaw.\n\nNow, you can send and receive messages with OpenClaw just like texting a friend.\n#AIAutomation #AI",
+        "link": "https://x.com/Weixin_WeChat/status/2035537088314290236",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHD-uMLaacAAZH87.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHD-uMLYaAAAX4UD.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2035585294309945827",
       "username": "DoveyWanCN",
@@ -2957,10 +2994,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHD0ZY9XbkAApSY2.jpg"
         }
       ],
-      "retweet": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢"
-      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11643,21 +11676,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDTJnhta4AEuzJp.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2032470235593240811",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "Digital iron curtain makes tech diffusion backwarding despite all the acceleration: need VPN in china for the open internet/USA LLMs; need VPN in Taiwan for Rednote (Chinese IG); Chinese LLMs are blocked in the US... when every piece of tech become \"sovereign\", the meta-sovereign permissionless rails matter. no gov can block what no gov controls",
-      "contentHtml": "Digital iron curtain makes tech diffusion backwarding despite all the acceleration: need VPN in china for the open internet/USA LLMs; need VPN in Taiwan for Rednote (Chinese IG); Chinese LLMs are blocked in the US... when every piece of tech become \"sovereign\", the meta-sovereign permissionless rails matter. no gov can block what no gov controls",
-      "publishedAt": "2026-03-13T14:54:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2032470235593240811",
       "stats": {
         "replies": 0,
         "retweets": 0,
