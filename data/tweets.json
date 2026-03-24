@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T00:38:07.166Z",
+  "lastUpdated": "2026-03-24T01:11:57.939Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 523,
+    "newFetched": 524,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2036247657145082162",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "nitter.net/taresky/status/2035220…\n\n之前说什么来着…",
+      "contentHtml": "<a href=\"https://nitter.net/taresky/status/2035220818880602275?s=46\">nitter.net/taresky/status/2035220…</a>\n\n之前说什么来着…",
+      "publishedAt": "2026-03-24T01:04:00.000Z",
+      "link": "https://x.com/taresky/status/2036247657145082162",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEI0c60bQAAfPMV.jpg"
+        }
+      ],
+      "quote": {
+        "username": "claudeai",
+        "displayName": "Claude",
+        "content": "You can now enable Claude to use your computer to complete tasks.\n\nIt opens your apps, navigates your browser, fills in spreadsheets—anything you'd do sitting at your desk.\n\nResearch preview in Claude Cowork and Claude Code, macOS only.",
+        "link": "https://x.com/claudeai/status/2036195789601374705"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2036237066153910722",
       "username": "TJ_Research",
@@ -11939,33 +11966,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDg5TLvawAAuPab.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033435533893161445",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "永续合约市场：空头拥挤正在积累燃料\n\n在加密永续合约市场，整体上是多头占据主导。在绝大多数时间里，多头需要向空头支付资金费率。行情越拥挤、追涨情绪越强，资金费率的年化水平往往也会越高。\n\n但如果资金费率转负，意味着合约市场结构出现了显著变化——空头仓位开始占据优势。而往往这种负费率的出现，大致对应两种情形：\n\n🚩  市场处于极端恐慌阶段，大量投资者通过做空对冲或押注进一步下跌；\n🚩  市场在短期内空头拥挤，为后续的轧空行情埋下条件。\n\n数据显示：3月11日永续合约资金费率年化一度降至 -5.5%，为近三年来最明显的一次负费率结构。但当前市场并未出现类似系统性恐慌的环境，更像是在逐步消化此前的超卖情绪。\n\n在该背景下，短期集中堆积的空头反而可能成为价格上涨的燃料。一旦价格反弹，空头回补就可能形成典型的Short Squeeze结构：价格上涨 → 空头回补 → 推动价格进一步上涨。\n\n因此，空头拥挤度的上升，正在提升市场出现轧空反弹的概率。\n\n综合来看，负资金费率所反映的空头拥挤，正在为市场积累潜在的轧空动能；再结合上一篇分析中提到的3月20日之后期权市场GEX的结构变化，让$75,000成为新的波动的焦点。\n\n在这种衍生品结构的共振之下，短期行情的弹性正在悄然提升。在敏感时间段，敏感价位，小伙伴应避免高杠杆，谨慎追空；并时刻关注衍生品市场GEX，资金费率、OI等核心数据的变化。",
-      "contentHtml": "永续合约市场：空头拥挤正在积累燃料\n\n在加密永续合约市场，整体上是多头占据主导。在绝大多数时间里，多头需要向空头支付资金费率。行情越拥挤、追涨情绪越强，资金费率的年化水平往往也会越高。\n\n但如果资金费率转负，意味着合约市场结构出现了显著变化——空头仓位开始占据优势。而往往这种负费率的出现，大致对应两种情形：\n\n🚩  市场处于极端恐慌阶段，大量投资者通过做空对冲或押注进一步下跌；\n🚩  市场在短期内空头拥挤，为后续的轧空行情埋下条件。\n\n数据显示：3月11日永续合约资金费率年化一度降至 -5.5%，为近三年来最明显的一次负费率结构。但当前市场并未出现类似系统性恐慌的环境，更像是在逐步消化此前的超卖情绪。\n\n在该背景下，短期集中堆积的空头反而可能成为价格上涨的燃料。一旦价格反弹，空头回补就可能形成典型的Short Squeeze结构：价格上涨 → 空头回补 → 推动价格进一步上涨。\n\n因此，空头拥挤度的上升，正在提升市场出现轧空反弹的概率。\n\n综合来看，负资金费率所反映的空头拥挤，正在为市场积累潜在的轧空动能；再结合上一篇分析中提到的3月20日之后期权市场GEX的结构变化，让$75,000成为新的波动的焦点。\n\n在这种衍生品结构的共振之下，短期行情的弹性正在悄然提升。在敏感时间段，敏感价位，小伙伴应避免高杠杆，谨慎追空；并时刻关注衍生品市场GEX，资金费率、OI等核心数据的变化。",
-      "publishedAt": "2026-03-16T06:49:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2033435533893161445",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDg1S14bkAExyRI.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "x.com/i/article/203281051584…",
-        "link": "https://x.com/Murphychen888/status/2033374747405459805"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
