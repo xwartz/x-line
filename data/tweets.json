@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T19:09:22.634Z",
+  "lastUpdated": "2026-03-24T19:37:15.139Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 505,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2036525920241197468",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "看来拼夕夕是得到了拉马努金的真传了……🤣",
+      "contentHtml": "看来拼夕夕是得到了拉马努金的真传了……🤣",
+      "publishedAt": "2026-03-24T19:29:00.000Z",
+      "link": "https://x.com/hazenlee/status/2036525920241197468",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2036498492596572497",
       "username": "TJ_Research",
@@ -11947,39 +11962,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDlAREMbEAAcjQL.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033722975829299704",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
-      "content": "「遲來的藍線神威」：2022 年 6 月的走勢正在被復刻❓\n\n承接下方引文，今天再來和各位分享「偏離度調整的 STH-RP 模型」。\n\nBTC 下跌至 60K 至今，已有 38 日的時間，\n隨著震盪結構的逐步定型，價格也正在釋出更多訊號。\n本文，我將特別比較「2022 年 6 月」和現在的走勢，\n並分享我自己的看法👇：\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，簡單複習一下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：nitter.net/market_beggar/status/1…\n📖 「藍線的神威」詳細歷史覆盤：nitter.net/market_beggar/status/2…\n\n//\n\n誠如先前的內容所分享，由於時間的逐步推移，\n如果要以「比較」的方式來分析現在的市況，\n我們基本已可以排除「摸到藍線後 V 反」的狀況。\n\n就目前的結構而言，我認為 BTC 和 2022 年 6 月的走勢愈趨相似，\n如附圖所示，當時 BTC 在暴跌 + 觸碰藍線後的表現如下：\n➡️ 首次觸碰藍線至反彈高點：63 日\n➡️ 最大反彈幅度：43%\n\n而目前 BTC 自首次觸碰藍線以來，也已過了 41 日，\n目前的最大反彈幅度約為 24%。\n\n值得注意的是：\n在我昨日發布的技術面劇本中（nitter.net/market_beggar/status/2…），\n劇本 2 的預期是反彈至約 81K，以最低點 60K 來算，\n幅度約是 35%，仍位於歷史上觸碰藍線後的合理反彈幅度區域。\n\n除此之外，2022 / 06 / 18 ~ 2022 / 08 / 15 的走勢，\n和現在相比也存在細思極恐的相似度：\n➡️ 橫向震盪，但在下方留下大量 equal lows（liquidity）\n➡️ 反彈高點是由 Stop Hunt 的形式出現\n➡️ 最終再次下跌，將下方的 liquidity 清掃完畢，完成最後一哆嗦\n\n就目前的走勢而言，雖然目前沒有針對 74K 的 Stop Hunt 跡象，\n但和當時相同的是「下方被留下大量的 liquidity」，\n如果 liquidity 引力再次如期發功，那「最後一哆嗦」依然值得期待。\n\n💬 相關的詳細概念，可參考我昨日發布的技術面分析帖\n\n最後，老話一句：市場是走出來的，不是猜出來的。\n我們沒必要去預設立場、猜測最終到底會跑出劇本 1 or 2；\n取而代之，我們只需提前針對不同的情況設計應對策略，\n如此一來我們便可在劇本發生的當下，扮演單純的「執行者」。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
-      "contentHtml": "「遲來的藍線神威」：2022 年 6 月的走勢正在被復刻❓\n\n承接下方引文，今天再來和各位分享「偏離度調整的 STH-RP 模型」。\n\nBTC 下跌至 60K 至今，已有 38 日的時間，\n隨著震盪結構的逐步定型，價格也正在釋出更多訊號。\n本文，我將特別比較「2022 年 6 月」和現在的走勢，\n並分享我自己的看法👇：\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，簡單複習一下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：<a href=\"https://nitter.net/market_beggar/status/1902195178993279264\">nitter.net/market_beggar/status/1…</a>\n📖 「藍線的神威」詳細歷史覆盤：<a href=\"https://nitter.net/market_beggar/status/2018501752103047340\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n誠如先前的內容所分享，由於時間的逐步推移，\n如果要以「比較」的方式來分析現在的市況，\n我們基本已可以排除「摸到藍線後 V 反」的狀況。\n\n就目前的結構而言，我認為 BTC 和 2022 年 6 月的走勢愈趨相似，\n如附圖所示，當時 BTC 在暴跌 + 觸碰藍線後的表現如下：\n➡️ 首次觸碰藍線至反彈高點：63 日\n➡️ 最大反彈幅度：43%\n\n而目前 BTC 自首次觸碰藍線以來，也已過了 41 日，\n目前的最大反彈幅度約為 24%。\n\n值得注意的是：\n在我昨日發布的技術面劇本中（<a href=\"https://nitter.net/market_beggar/status/2033359397079101623\">nitter.net/market_beggar/status/2…</a>），\n劇本 2 的預期是反彈至約 81K，以最低點 60K 來算，\n幅度約是 35%，仍位於歷史上觸碰藍線後的合理反彈幅度區域。\n\n除此之外，2022 / 06 / 18 ~ 2022 / 08 / 15 的走勢，\n和現在相比也存在細思極恐的相似度：\n➡️ 橫向震盪，但在下方留下大量 equal lows（liquidity）\n➡️ 反彈高點是由 Stop Hunt 的形式出現\n➡️ 最終再次下跌，將下方的 liquidity 清掃完畢，完成最後一哆嗦\n\n就目前的走勢而言，雖然目前沒有針對 74K 的 Stop Hunt 跡象，\n但和當時相同的是「下方被留下大量的 liquidity」，\n如果 liquidity 引力再次如期發功，那「最後一哆嗦」依然值得期待。\n\n💬 相關的詳細概念，可參考我昨日發布的技術面分析帖\n\n最後，老話一句：市場是走出來的，不是猜出來的。\n我們沒必要去預設立場、猜測最終到底會跑出劇本 1 or 2；\n取而代之，我們只需提前針對不同的情況設計應對策略，\n如此一來我們便可在劇本發生的當下，扮演單純的「執行者」。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
-      "publishedAt": "2026-03-17T01:51:00.000Z",
-      "link": "https://x.com/market_beggar/status/2033722975829299704",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDk8Q6ibEAIZWxr.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「偏離度調整的 STH-RP 模型」最新數據 & 築底時間覆盤🗃\n\n有段時間沒和各位更新「藍線」的最新狀況了，\n今天再來和各位簡單報告一下此模型的最新數據，\n順便和各位分享「以往價格摸到藍線後的築底時間」覆盤。\n\n如果你還不知道何謂「藍線」，可以先參考下方引文，\n本文也會簡單幫各位重溫一次👇：\n\n附圖的指標是「偏離度調整的 STH-RP」，簡單複習一下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：nitter.net/market_beggar/status/1…\n\n//\n\n📊 目前藍線的價格約 = 64,960\n\n如附圖所示，我標出了 2018 年以來，\n「價格首次摸到藍線」到「階段性最低價出現」的時長：\n➡️ 2019 年：22 天\n➡️ 2020 年：V 反上漲（非典型底部）\n➡️ 2021 年：43 天\n➡️ 2022 年 1 月：V 反上漲（但最終走成下跌中繼）\n➡️ 2022 年 6 月：5 天，但圍繞藍線橫向震盪約 1 個月\n\n而如今，距離 BTC 此次下跌首次碰到藍線（2/05）至今，\n已過去了 20 日，排除 V 反的情況，目前依然在正常的震盪時間範圍中；\n並且，現在的 BTC 價格幾乎是黏著藍線走，說明藍線的支撐至今仍然有效✅\n\n最後再再再強調一次‼️：鏈上分析的「支撐」和傳統技術分析的「支撐」，\n兩者的概念是不太相同的，鏈上分析的支撐是可以被短暫跌破的，\n之所以被稱為「支撐」，其原因在於這些價位往往能止住跌勢，\n例如從附圖中我們可以發現：價格在跌到藍線之後通常能止跌，\n不太可能在跌破後又出現一波大瀑布。\n\n同理，我近期多次分享的「深熊估值抄底模型」概念也是一樣的，\n有興趣的朋友可以參考以下鏈接🔗：\n📖黃金坑追蹤系列：「四大深熊抄底模型」最新數據更新\nnitter.net/market_beggar/status/2…\n📖 黃金坑追蹤系列（二）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n不得不說，目前行情依然位於一個極其枯燥的震盪階段，\n市場也的確沒有出現太多值得注意的訊號，對於中長期的交易者而言，\n我們能做的就是耐心等待，保護本金免於在上沖下洗的走勢中被磨損。\n\n📖 極端巨量的出現：新一輪震盪博弈的起點\nnitter.net/market_beggar/status/2…\n\n最後，下方引文中有關於此模型的詳細歷史覆盤，如果實在枯燥難耐，\n也不妨花些時間多了解一下此模型的概念，學習的同時亦能充值信仰🔋\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n熊市中後期階段：「已實現利潤 & 虧損」比率正式低於 1\nnitter.net/market_beggar/status/2…\n\n「一步之遙的黃金坑」：PSIP 週期性抄底訊號近在咫尺\nnitter.net/market_beggar/status/2…\n\nPSIP 抄底訊號「番外篇」：評估底部的另一視角\nnitter.net/market_beggar/status/2…",
-        "link": "https://x.com/market_beggar/status/2026474493749989766",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHB97ztua0AAKrty.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
