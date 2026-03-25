@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T01:38:10.933Z",
+  "lastUpdated": "2026-03-25T02:39:07.724Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,119 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 528,
+    "newFetched": 525,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2036631928355574097",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "手牌一戴   谁也不爱",
+      "contentHtml": "手牌一戴   谁也不爱",
+      "publishedAt": "2026-03-25T02:31:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2036631928355574097",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEOR8H1aAAAmYoZ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036629679470456979",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "搏命选手又多一位！在美伊谈判陷入罗生门时，地址 0x94d…33814 已经在用仓位做判断了 🫡\n\n—— 昨晚到凌晨，他选择做空 $BTC 同时做多原油，总仓位价值 8,979 万美元，已成为 Hyperliquid BTC TOP1 头寸\n\n▶︎ BTC 40x 空单：持仓 1000 枚，价值 7065 万美元，开仓价 $69614\n▶︎ BRENTOIL 20x 多单：持仓 20.2 万枚，价值 1916 万美元，开仓价 $98.32\n\n目前都在水下，浮亏超 170 万美元 👉 hyperdash.com/view/0x94d3735…",
+      "contentHtml": "搏命选手又多一位！在美伊谈判陷入罗生门时，地址 0x94d…33814 已经在用仓位做判断了 🫡\n\n—— 昨晚到凌晨，他选择做空 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 同时做多原油，总仓位价值 8,979 万美元，已成为 Hyperliquid BTC TOP1 头寸\n\n▶︎ BTC 40x 空单：持仓 1000 枚，价值 7065 万美元，开仓价 $69614\n▶︎ BRENTOIL 20x 多单：持仓 20.2 万枚，价值 1916 万美元，开仓价 $98.32\n\n目前都在水下，浮亏超 170 万美元 👉 <a href=\"https://hyperdash.com/view/0x94d3735543ecb3d339064151118644501c933814\">hyperdash.com/view/0x94d3735…</a>",
+      "publishedAt": "2026-03-25T02:22:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2036629679470456979",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEOP42naEAAncAO.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036621311276179466",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
+      "content": "識別 Liquidity：淺談何謂「Trendline Liquidity」💡\n\n「如果你看不出流動性在哪，那你就是流動性。」\n\n距離我和各位介紹「Stop Hunt」概念至今也快滿一年了，\n如果你還不知道何謂 Stop Hunt，可先參考下方引文，\n我也會將相關資源整理在本文文末。\n\n本文，我將和各位分享另一種常見的流動性形式👇：\n\n//\n\n首先，如果你是貝格先生的老朋友，那你對於 liquidity 肯定不陌生。\n\n我的交易系統主要可分為兩塊：\n1️⃣ 現貨：週期性交易，瞄準牛熊週期，以鏈上分析為依據\n2️⃣ 合約：波段交易，以 liquidity、taker、maker 分析為依據\n\n而今天要聊的主要是 2️⃣ 中的「liquidity」。\n\n在我過往幾十篇的技術分析帖中，我最常提到的 liquidity，\n不外乎就是「Equal lows」和「Equal highs」，\n也就是在線型上出現的「非常接近的針尖低點、高點」，\n這些接近水平的針尖，就是經典的流動性聚集區。\n\n而今天要再和各位介紹另一種也是十分常見的 liquidity 形式，\n也就是「Trendline Liquidity」：\n🔺 由一系列 lower highs 或 higher lows 所組成\n🔺 也是流動性聚集區的一種，同樣對價格存在引力效果\n🔺 效力僅次於 equal highs / equal lows\n🔺 承上，在交易決策中的地位主要是「輔助性質」\n🔺 和所有其他 liquidity 類型相同：清掃後便不再需要觀察\n\nTrendline Liquidity 的原理非常簡單🔦：\n1️⃣ 假設是一系列的 lower highs（如附圖的左上角）：\n在價格來到此區域時，假設沒有一口氣突破到最高的針尖，\n那也有極高的機率和第二高、第三高的針尖，形成新的 equal highs，\n而 equal highs 同樣也是 liquidity 聚集區，換言之：同樣具有引力效果。\n2️⃣ 假設是一系列的 higher lows（如附圖的下方）：\n同理，在價格來到此區域時，假設沒有一口氣跌破最低的針尖，\n那就有極高的機率和第二高、第三高的針尖，形成新的 equal lows，\n而這些 equal lows 同樣也是具備引力效果的 liquidity 聚集區。\n\n在我平時分享的技術分析帖子中，其實我滿常繪製 trendline liquidity，\n我通常會以「附上 $ 符號的斜向趨勢線」作為標記，\n我隨便抓了幾篇以前的帖子作為範例，有需要的朋友可以自行參考：\n📖 20260121 分析（提前預測了 BTC 的下跌）\nnitter.net/market_beggar/status/2…\n📖 20260116 分析（文中的附圖有引入 trendline liq 的概念）\nnitter.net/market_beggar/status/2…\n📖 20250414（回覆其他大佬的技術分析圖）\nnitter.net/market_beggar/status/1…\n\n最後，如果你是初次接觸我 liquidity 交易系統的朋友，\n我的建議是「先從最基本的 equal highs / lows」開始理解，\n如同前述，trendline liquidity 本身更像是輔助性質的存在，\n就學習順序而言，理解 Stop Hunt 的原理才是真正的核心。\n\n以上就是今天的內容，希望對各位有幫助；\n如果你想深入研究 Stop Hunt、liquiduity、taker、maker 的概念，\n我會把相關閱讀資源整理在文末，供有需要的朋友研究；\n如果過程中有任何疑問，也歡迎隨時來下方評論區交流，老規矩：有問必答🫡\n\n//\n\n📚 相關閱讀資源\n\n全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲（強力推薦閱讀🔥）\nnitter.net/market_beggar/status/1…\n\nTaker、Maker、價格移動的原理\nnitter.net/market_beggar/status/1…\n\nMaker 分析法：市場最小阻力方向\nnitter.net/market_beggar/status/1…\n\n詳細說明 Maker 強度分析方法論：以 ETH 為例\nnitter.net/market_beggar/status/1…\n\nTaker 分析法（成交量篇）\nnitter.net/market_beggar/status/1…\n\nTaker 分析法（CVD 篇）\nnitter.net/market_beggar/status/1…\n\n交易答疑：個人合約波段系統中的 2 種進場方式\nnitter.net/market_beggar/status/1…\n\nStop Hunt 概念詳解\nnitter.net/market_beggar/status/1…",
+      "contentHtml": "識別 Liquidity：淺談何謂「Trendline Liquidity」💡\n\n「如果你看不出流動性在哪，那你就是流動性。」\n\n距離我和各位介紹「Stop Hunt」概念至今也快滿一年了，\n如果你還不知道何謂 Stop Hunt，可先參考下方引文，\n我也會將相關資源整理在本文文末。\n\n本文，我將和各位分享另一種常見的流動性形式👇：\n\n//\n\n首先，如果你是貝格先生的老朋友，那你對於 liquidity 肯定不陌生。\n\n我的交易系統主要可分為兩塊：\n1️⃣ 現貨：週期性交易，瞄準牛熊週期，以鏈上分析為依據\n2️⃣ 合約：波段交易，以 liquidity、taker、maker 分析為依據\n\n而今天要聊的主要是 2️⃣ 中的「liquidity」。\n\n在我過往幾十篇的技術分析帖中，我最常提到的 liquidity，\n不外乎就是「Equal lows」和「Equal highs」，\n也就是在線型上出現的「非常接近的針尖低點、高點」，\n這些接近水平的針尖，就是經典的流動性聚集區。\n\n而今天要再和各位介紹另一種也是十分常見的 liquidity 形式，\n也就是「Trendline Liquidity」：\n🔺 由一系列 lower highs 或 higher lows 所組成\n🔺 也是流動性聚集區的一種，同樣對價格存在引力效果\n🔺 效力僅次於 equal highs / equal lows\n🔺 承上，在交易決策中的地位主要是「輔助性質」\n🔺 和所有其他 liquidity 類型相同：清掃後便不再需要觀察\n\nTrendline Liquidity 的原理非常簡單🔦：\n1️⃣ 假設是一系列的 lower highs（如附圖的左上角）：\n在價格來到此區域時，假設沒有一口氣突破到最高的針尖，\n那也有極高的機率和第二高、第三高的針尖，形成新的 equal highs，\n而 equal highs 同樣也是 liquidity 聚集區，換言之：同樣具有引力效果。\n2️⃣ 假設是一系列的 higher lows（如附圖的下方）：\n同理，在價格來到此區域時，假設沒有一口氣跌破最低的針尖，\n那就有極高的機率和第二高、第三高的針尖，形成新的 equal lows，\n而這些 equal lows 同樣也是具備引力效果的 liquidity 聚集區。\n\n在我平時分享的技術分析帖子中，其實我滿常繪製 trendline liquidity，\n我通常會以「附上 $ 符號的斜向趨勢線」作為標記，\n我隨便抓了幾篇以前的帖子作為範例，有需要的朋友可以自行參考：\n📖 20260121 分析（提前預測了 BTC 的下跌）\n<a href=\"https://nitter.net/market_beggar/status/2013790709250396453/\">nitter.net/market_beggar/status/2…</a>\n📖 20260116 分析（文中的附圖有引入 trendline liq 的概念）\n<a href=\"https://nitter.net/market_beggar/status/2011978392116347339\">nitter.net/market_beggar/status/2…</a>\n📖 20250414（回覆其他大佬的技術分析圖）\n<a href=\"https://nitter.net/market_beggar/status/1911774039187837132/photo/1\">nitter.net/market_beggar/status/1…</a>\n\n最後，如果你是初次接觸我 liquidity 交易系統的朋友，\n我的建議是「先從最基本的 equal highs / lows」開始理解，\n如同前述，trendline liquidity 本身更像是輔助性質的存在，\n就學習順序而言，理解 Stop Hunt 的原理才是真正的核心。\n\n以上就是今天的內容，希望對各位有幫助；\n如果你想深入研究 Stop Hunt、liquiduity、taker、maker 的概念，\n我會把相關閱讀資源整理在文末，供有需要的朋友研究；\n如果過程中有任何疑問，也歡迎隨時來下方評論區交流，老規矩：有問必答🫡\n\n//\n\n📚 相關閱讀資源\n\n全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲（強力推薦閱讀🔥）\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\nTaker、Maker、價格移動的原理\n<a href=\"https://nitter.net/market_beggar/status/1899653835729297424\">nitter.net/market_beggar/status/1…</a>\n\nMaker 分析法：市場最小阻力方向\n<a href=\"https://nitter.net/market_beggar/status/1901465603313156602\">nitter.net/market_beggar/status/1…</a>\n\n詳細說明 Maker 強度分析方法論：以 ETH 為例\n<a href=\"https://nitter.net/market_beggar/status/1952542181044179169\">nitter.net/market_beggar/status/1…</a>\n\nTaker 分析法（成交量篇）\n<a href=\"https://nitter.net/market_beggar/status/1902919628940247109\">nitter.net/market_beggar/status/1…</a>\n\nTaker 分析法（CVD 篇）\n<a href=\"https://nitter.net/market_beggar/status/1905088759550681393\">nitter.net/market_beggar/status/1…</a>\n\n交易答疑：個人合約波段系統中的 2 種進場方式\n<a href=\"https://nitter.net/market_beggar/status/1940221638618095904\">nitter.net/market_beggar/status/1…</a>\n\nStop Hunt 概念詳解\n<a href=\"https://nitter.net/market_beggar/status/1907261008059777200\">nitter.net/market_beggar/status/1…</a>",
+      "publishedAt": "2026-03-25T01:48:00.000Z",
+      "link": "https://x.com/market_beggar/status/2036621311276179466",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEOISLCaIAAXnhO.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "我決不做突破單的原因：莊家獵取流動性的陷阱🪓\n\nKey Points：\n🔺 $BTC 沒有莊家，但短期價格走勢存在被操縱的可能性\n🔺 屠殺散戶的利刃：獵取流動性（Stop Hunt）的手法介紹與案例\n🔺 Stop Hunt 的判斷：並非每次 Stop Hunt 都是反轉\n🔺 Stop Hunt 是一個概念，若要形成系統則須其他條件\n\n//\n\n🟡 BTC 沒有莊家，但短期價格走勢存在被操縱的可能性\n\n就通俗的定義而言：\n「莊家」一詞指的是「對單一標的存在高度控盤的能力」。\n\nBTC 市值過大、流動性相對較佳，並且籌碼足夠分散，\n因此 BTC 市場中不存在「能夠控盤的單一群體」‼️\n\n然而，有趣的是，在流動性枯竭的狀況下，\n即便市值大如 BTC，短期的價格走勢仍存在被操縱的可能性⚠️\n\n雖然這些「操縱方」無法完全控制 BTC 的走勢，\n但同時卻也能夠在小級別的 K 線圖上「製造陷阱」，\n進而達成自己的目的。\n\n本文將針對這種狀況，進行詳細的拆解🔬\n\n//\n\n🟡 屠殺散戶的利刃：獵取流動性（Stop Hunt）的手法介紹\n\n如果你相信「市場短期走勢可能被操縱」，\n那你就不得不理解「何謂流動性獵取（Stop Hunt）」‼️\n\n📝 Stop Hunt，顧名思義：獵取止損。\n\n原理如下：\n1️⃣ 大資金（例如機構）建倉，會導致價格大幅移動\n2️⃣ 大資金不是笨蛋，他們會想辦法降低建倉時的「損耗」\n3️⃣ 透過 Stop Hunt，讓散戶提供流動性，進而降低損耗\n\n現在問題來了：如何讓散戶提供流動性❓\n\n散戶的行為存在高度「無序性」，但在特定時間點，\n散戶的操作很可能形成高度的一致性，\n而這種時間點，就為 Stop Hunt 的操作提供了足夠的空間‼️\n\n舉例來說：\n當一個「非常明顯的『支撐區間』」被跌破之後，\n市場上會出現兩種「一致性極高」的訂單，分別是：\n1️⃣ 在支撐區間之上作多的止損訂單（sell）\n2️⃣ 跌破支撐區間後的「突破交易者」的訂單（sell）\n\n各位有發現嗎？兩種訂單都是「sell」，\n這對於「想要建倉多單」的大資金，就是能夠降低損耗的流動性‼️\n\n口說無憑，我們來看看實際案例。\n\n//\n\n🟡 獵取流動性（Stop Hunt）的實盤案例\n\n我簡單找了 4 個標的，分別是 BTC、ETH、SOL、LINK，\n其他標的也可以發現很多蛛絲馬跡，有興趣的讀者可以深入研究。\n\n首先是 BTC，這是去年 ETF 通過前後時的走勢。\n\n可以看到：\n1️⃣ 四個黃點🟨的位置非常接近，形成明顯的「支撐區間」\n2️⃣ 隨後價格跌破，引入大量突破交易者、以及多頭的止損訂單\n3️⃣ 這些訂單成為了「大資金的流動性」，最後引發新一輪暴漲\n\n其他「紅色方框」標記的位置，也是 Stop Hunt 的表現方式之一。\n\n因為除了「支撐、阻力區間」以外，\n「前高、前低」也是散戶常常放置止損的位置、\n同時也是突破交易者的錨定位置之一❗️\n\n-\n\n再來是 ETH。\n\n我標記了 5 個紅色方框，每一個都是非常經典的 Stop Hunt。\n\n-\n\n接著看看 SOL。\n\n圖片左側的 Pattern 幾乎與 BTC 的跑法相同，\n市場操縱的痕跡顯露無遺。\n\n-\n\n最後是 Link。\n\n如圖，處處都是 Stop Hunt、處處都是流動性絞殺。\n\n//\n\n🟡 概念澄清：Stop Hunt 的分辨 & 系統的建構\n\n很多人在理解完 Stop Hunt 之後，會開始對盤面有「被迫害妄想症」👾\n\n實際上，不是每次突破、跌破特定位置，都是 Stop Hunt。\n\n在實盤的判斷上：\n❌ 不是每次都去猜「資金會在這裡做 Stop Hunt」\n✅ 而是需要盯盤，觀察大資金是否有入場操縱的痕跡\n\n而這裡提到的「痕跡」，在觀察上，\n之前教過的 taker 分析方式就派上用場了‼️\n\n如果你還不知道 Taker 是什麼，可以先行閱讀下方的引文，\n相信會讓你對市場有所改觀👀\n\n最後，Stop Hunt 只是一種市場操縱的「形式」，\n而不是一個「交易系統」。\n很多初新者在知道 Stop Hunt 後，就會不斷的去盤面「賭」，\n但這種作法並不可取，有時候反而會「懂愈多、虧愈多」📉\n\n再次強調，這種「賭他會 Stop Hunt」的作法並不可取‼️\n\n要形成一個交易系統，必然需要更多的條件來配合，\n例如搭配 Taker 的分析方式、搭配其他數據、指標 ... 等，\n畢竟金融市場是帶血的，如果只有單一分析方式，\n是不可能在市場上穩定盈利的。\n\n以上就是今天的分享，希望對各位有幫助🫡\n\n//\n\n【工商時間】\n\n我跟 #OKX 合作啦🎉\n\n個人一直以來都會選擇使用排名靠前的大所，\n主要原因無非就是「安全性」、「客服管道」、「交易深度」三個考量。\n\n有一說一，OKX 在這三個方面都做得相當不錯，在此推薦給各位讀者！\n\n如果你也想加入，可以直接點擊我 X 主頁的連結，\n可享有全網最高的 20% 的手續費折扣💵",
+        "link": "https://x.com/market_beggar/status/1907261008059777200",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGnfwgoqbcAA-gSm.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGnfxUyqaAAAM-w-.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036621151238291903",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "练功房买家秀广告",
+      "contentHtml": "练功房买家秀广告",
+      "publishedAt": "2026-03-25T01:48:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2036621151238291903",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEOEkI7aIAA5j_Y.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEOEkInaMAAgI5f.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEOEkIma8AALgie.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2036617678312677471",
       "username": "ai_9684xtpa",
@@ -1423,10 +1531,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEI-KpObkAAtGHQ.jpg"
         }
       ],
-      "retweet": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢"
-      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11846,78 +11950,6 @@
       "contentHtml": "《勇哥说餐饮》真的超好看。\n\n最经典的一类人：\n\n想加盟知名品牌 👉 搜不到正确的官网 👉 被骗子引导加盟了一个杂牌\n\n虽然整个过程自己也觉得很贵、很可疑，但全程都有总部的人给他画饼，畅想美好的未来。\n\n帮他加盟，培训，选址，提供物料，全流程不用动脑子，只要交钱就能发财。\n\n然后乖乖交钱，然后乖乖亏完，不闹事不起诉自认倒霉。\n\n咋这么耳熟😂",
       "publishedAt": "2026-03-17T10:29:00.000Z",
       "link": "https://x.com/taresky/status/2033853250164953378",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033840364201906582",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "不知道大家有没有这种感觉，可能因为我是理科生，每次投资交易决策，我都当作一道数理化压轴题，结合所有已知信息和条件，去求解答案。\n\n做对了，最让我兴奋的不是账户的盈利，而是求解过程逻辑推导正确的成就感。\n\n所以，投资和交易本质上是一个人对自己认知的变现。希望大家也能用这种心态去决策：做对了别太执着于“钱”，做错了也别气馁，好好复盘，下一题争取做对。\n\n祝大家都能把握好心态，做好你的“下一题”。",
-      "contentHtml": "不知道大家有没有这种感觉，可能因为我是理科生，每次投资交易决策，我都当作一道数理化压轴题，结合所有已知信息和条件，去求解答案。\n\n做对了，最让我兴奋的不是账户的盈利，而是求解过程逻辑推导正确的成就感。\n\n所以，投资和交易本质上是一个人对自己认知的变现。希望大家也能用这种心态去决策：做对了别太执着于“钱”，做错了也别气馁，好好复盘，下一题争取做对。\n\n祝大家都能把握好心态，做好你的“下一题”。",
-      "publishedAt": "2026-03-17T09:38:00.000Z",
-      "link": "https://x.com/hazenlee/status/2033840364201906582",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033835481436459410",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "马斯克:？",
-      "contentHtml": "马斯克:？",
-      "publishedAt": "2026-03-17T09:19:00.000Z",
-      "link": "https://x.com/hazenlee/status/2033835481436459410",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDmilh0bEAIX4zK.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033801527522197799",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "Ultron 倉位四連勝後淨值打回 12 月的水平了，離淨值 ATH 還有 14% ，再接再厲。",
-      "contentHtml": "Ultron 倉位四連勝後淨值打回 12 月的水平了，離淨值 ATH 還有 14% ，再接再厲。",
-      "publishedAt": "2026-03-17T07:04:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2033801527522197799",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDmDtRgbEAE646y.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033791577378980243",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "@ericlu_86 good job",
-      "contentHtml": "<a href=\"/ericlu_86\" title=\"EricLu\">@ericlu_86</a> good job",
-      "publishedAt": "2026-03-17T06:24:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2033791577378980243",
       "stats": {
         "replies": 0,
         "retweets": 0,
