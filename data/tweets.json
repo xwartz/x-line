@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T07:38:46.041Z",
+  "lastUpdated": "2026-03-25T08:02:35.489Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,7 +89,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 525,
+    "newFetched": 527,
     "successUsers": 26,
     "failedUsers": 1
   },
@@ -135,6 +135,25 @@
         "displayName": "Andrej Karpathy",
         "content": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database passwords.\n\nLiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depended on litellm>=1.64.0), you'd also be pwnd. Same for any other large project that depended on litellm.\n\nAfaict the poisoned version was up for only less than ~1 hour. The attack had a bug which led to its discovery - Callum McMahon was using an MCP plugin inside Cursor that pulled in litellm as a transitive dependency. When litellm 1.82.8 installed, their machine ran out of RAM and crashed. So if the attacker didn't vibe code this attack it could have been undetected for many days or weeks.\n\nSupply chain attacks like this are basically the scariest thing imaginable in modern software. Every time you install any depedency you could be pulling in a poisoned package anywhere deep inside its entire depedency tree. This is especially risky with large projects that might have lots and lots of dependencies. The credentials that do get stolen in each attack can then be used to take over more accounts and compromise more packages.\n\nClassical software engineering would have you believe that dependencies are good (we're building pyramids from bricks), but imo this has to be re-evaluated, and it's why I've been so growingly averse to them, preferring to use LLMs to \"yoink\" functionality when it's simple enough and possible.",
         "link": "https://x.com/karpathy/status/2036487306585268612"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036694843121099068",
+      "username": "CMGS1988",
+      "displayName": "CMGS",
+      "avatar": "https://nitter.net/pic/profile_images%2F1620065651552567299%2FjsDz8bjQ_bigger.jpg",
+      "content": "写得差不多了，可以拿过去玩玩，回头有时间把 gemini 和 codex 接进去，前端的话目前只会有 wechat，只要命令行 setup 一次，后续加别人可以用 /share 命令，全家老小一起用一个套餐哈哈哈哈…runtime 目前是 tmux，接我的 cocoon 也不是不行，但明天开大米了，要冲层了…github.com/CMGS/gua",
+      "contentHtml": "写得差不多了，可以拿过去玩玩，回头有时间把 gemini 和 codex 接进去，前端的话目前只会有 wechat，只要命令行 setup 一次，后续加别人可以用 /share 命令，全家老小一起用一个套餐哈哈哈哈…runtime 目前是 tmux，接我的 cocoon 也不是不行，但明天开大米了，要冲层了…<a href=\"https://github.com/CMGS/gua\">github.com/CMGS/gua</a>",
+      "publishedAt": "2026-03-25T06:41:00.000Z",
+      "link": "https://x.com/CMGS1988/status/2036694843121099068",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
       },
       "stats": {
         "replies": 0,
@@ -11963,27 +11982,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033900984032956851",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "没有喊单 不是广告。我要是没有期货，我自己也不会买。\n只是基于自己的思考。\n大家现在都很厌恶山寨  我也很久没有说过山寨的名字了。\n所以补充一下 。风声鹤唳了只能说。",
-      "contentHtml": "没有喊单 不是广告。我要是没有期货，我自己也不会买。\n只是基于自己的思考。\n大家现在都很厌恶山寨  我也很久没有说过山寨的名字了。\n所以补充一下 。风声鹤唳了只能说。",
-      "publishedAt": "2026-03-17T13:39:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2033900984032956851",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDndWZYaQAA9_uS.png"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
