@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T05:42:35.422Z",
+  "lastUpdated": "2026-03-25T06:09:04.981Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,59 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
+    "newFetched": 525,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2036685493023416803",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "这年头，继智商情商之后，\n值得独立出来一个健商了。\n\n顺便再次分享我的\n7天 x 4盒 补剂可视化管理物理工具：\nnitter.net/coolish/status/1905622…",
+      "contentHtml": "这年头，继智商情商之后，\n值得独立出来一个健商了。\n\n顺便再次分享我的\n7天 x 4盒 补剂可视化管理物理工具：\n<a href=\"https://nitter.net/coolish/status/1905622970955157904\">nitter.net/coolish/status/1905622…</a>",
+      "publishedAt": "2026-03-25T06:03:00.000Z",
+      "link": "https://x.com/coolish/status/2036685493023416803",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEPCpfOaAAAY9Np.jpg"
+        }
+      ],
+      "quote": {
+        "username": "runes_leo",
+        "displayName": "Leo",
+        "content": "一直想给自己和家人搭一套 AI 健康管理体系，每次体检、看病、用药都慢慢往里填。这两天趁在父母身边，把他们的也一起搞了。\n\n受 @coolish 之前分享的健康管理思路启发，用 Claude Code + Obsidian 一天搭建起来：\n\n📸 拍药盒 → AI 自动识别药名、剂量、频次\n📋 拍体检报告（30+ 张）→ AI 逐张读取，提取异常指标、建立趋势对比\n🗂️  按家庭成员分档建库 → 既往病史、用药清单、复查时间线\n📅 生成复查日历 → 哪项该查了、哪项过期了，一目了然\n📝 输出日常管理方案 → 饮食禁忌、运动建议、就医信号\n💬 微信版 → 把要点转成口语化发给父母\n\n最大收获不是技术层面的：\n\n做的过程中发现了好几个我之前完全不知道的情况——某项指标已经连续偏高，某种药的剂量需要调整，某个复查已经过期 1 个月。\n\n老人不是故意瞒你，是他们自己也记不清、也不当回事。\n\n顺手把自己 Apple Watch 4 年的健康数据也导出来让 AI 分析了一遍。339 万条记录，几分钟跑完：VO2Max 半年掉了 5 个点，工作日步数比周末少 2000 步。久坐写代码的代价，数据不会骗人。\n\n工具很简单：Claude Code 当入口，Obsidian 当存储，Mac 日历做提醒。不需要任何医疗 AI 产品，现有工具就能跑起来。\n\n今天看到张雪峰的消息，更觉得这件事不能拖。一年一次体检是拍快照，日常健康管理才是开监控。\n\n长期目标是给每个家人都配一个能对话的 AI 健康助手，不懂 AI 也能用，日常有问题直接问它。现在先把数据基础打好。",
+        "link": "https://x.com/runes_leo/status/2036468625171763599",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHEL9ZQba8AAuwv8.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036680797231682042",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "Fyi I longed eth feels dirt cheap here",
+      "contentHtml": "Fyi I longed eth feels dirt cheap here",
+      "publishedAt": "2026-03-25T05:45:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2036680797231682042",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2036679621937389620",
       "username": "ai_9684xtpa",
@@ -11912,48 +11960,6 @@
       "contentHtml": "最近在刷脂，规律了饮食和训练，今天练腿练的头晕想吐。但回来的路上又想到，健身其实算是通过坚持和努力就能很直接的拿到结果的事情了。\n\n你说学习，可能再努力，也打不过天赋怪。工作，你再努力，也拼不过关系户。炒股炒币，再努力再坚持依旧可能亏的死去活来。\n\n但健身确实往往只要坚持住，就能拿到很直接的结果（身材管理）。\n\n同理发散的去想，水电工，泥瓦匠，管道维修等等这些看似不体面，但依赖自身经验（长期坚持实践）的工种，其实薪资不低，尤其是发达国家，且不用担心被AI取代。反而在AI加速的现代社会里，是大量的困在信息茧房里的体面人，活的很焦虑，很惶惶不可终日，因为这世界大部分工作的性质，就是谁来都可以，年轻便宜就好。\n\n最近抖音刷到一个叫大宇的，从0开始单排跑到澳大利亚去送外卖了，真从头开始，英语也不流畅，抖音记录的还蛮详细的。真的越来越觉得，在Ai时代里，能仔细想清楚自己想干嘛，能干嘛，适合干嘛，远比使用Ai的技能重要多了。",
       "publishedAt": "2026-03-17T13:09:00.000Z",
       "link": "https://x.com/daidaibtc/status/2033893588476584267",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033893316375584898",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "thank u crypto",
-      "contentHtml": "thank u crypto",
-      "publishedAt": "2026-03-17T13:08:00.000Z",
-      "link": "https://x.com/hazenlee/status/2033893316375584898",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDnXL3_bEAMIOW4.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033887901772357736",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "中文语料库是不是阿里的。",
-      "contentHtml": "中文语料库是不是阿里的。",
-      "publishedAt": "2026-03-17T12:47:00.000Z",
-      "link": "https://x.com/taresky/status/2033887901772357736",
-      "quote": {
-        "username": "turingou",
-        "displayName": "郭宇 guoyu.eth",
-        "content": "codex 真的黑话好多，到底在叽里咕噜什么？\n\n- 现在我打算做一个更硬的排除法\n- 我已经把差异收窄了\n- 它还和我刚抓到的现象对上了\n- 启动截图已经坐实了\n\n好油腻啊！能不能正常一点 debug",
-        "link": "https://x.com/turingou/status/2033814030230646968"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
