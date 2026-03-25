@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T10:05:56.354Z",
+  "lastUpdated": "2026-03-25T10:33:10.092Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
+    "newFetched": 522,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2036750317233070240",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "这是赌还是数学题 还是收藏😂",
+      "contentHtml": "这是赌还是数学题 还是收藏😂",
+      "publishedAt": "2026-03-25T10:21:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2036750317233070240",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEP9nL-WQAAp8gl.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2036745561051644010",
       "username": "Bitfatty",
@@ -312,6 +333,31 @@
         "displayName": "Andrej Karpathy",
         "content": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database passwords.\n\nLiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depended on litellm>=1.64.0), you'd also be pwnd. Same for any other large project that depended on litellm.\n\nAfaict the poisoned version was up for only less than ~1 hour. The attack had a bug which led to its discovery - Callum McMahon was using an MCP plugin inside Cursor that pulled in litellm as a transitive dependency. When litellm 1.82.8 installed, their machine ran out of RAM and crashed. So if the attacker didn't vibe code this attack it could have been undetected for many days or weeks.\n\nSupply chain attacks like this are basically the scariest thing imaginable in modern software. Every time you install any depedency you could be pulling in a poisoned package anywhere deep inside its entire depedency tree. This is especially risky with large projects that might have lots and lots of dependencies. The credentials that do get stolen in each attack can then be used to take over more accounts and compromise more packages.\n\nClassical software engineering would have you believe that dependencies are good (we're building pyramids from bricks), but imo this has to be re-evaluated, and it's why I've been so growingly averse to them, preferring to use LLMs to \"yoink\" functionality when it's simple enough and possible.",
         "link": "https://x.com/karpathy/status/2036487306585268612"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036695743176868343",
+      "username": "Christianeth",
+      "displayName": "Christian (Building @0xinfini)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1894561803939844098%2FujnP_69d_bigger.jpg",
+      "content": "经过半年时间的打磨和完善，今天Infini的新产品正式上线啦！最需要感谢的是团队每一个小伙伴的付出，以及现在几百个企业客户的信任和建议🫶\n\n我们想做什么：为每一位创始人和创业团队打造自动化、易用、最懂你的金融操作系统，希望能够帮助你们在收款、付款、资金管理和财务管理等方面降本增效。\n\n使用Infini能获得的是：\n\n-免费的企业账户来存放和管理你的稳定币资金\n-完善、易集成的收单功能，实时到账提现，手续费行业最低标准，无固定费用，服务响应及时\n-行业领先的活期理财收益（6%-7%）\n-支持所有AI和软件订阅的企业卡，没有任何附加费用，通过AI自动化来处理账务，帮你节省支出成本\n-可以通过稳定币和几十个法币及本地通道，给全球上百个国家的银行账户付款，合规可审计，支持上传凭证和财务对账\n-一个更懂你的AI财务助手，高效帮忙解决记账、对账、审批、财务分析、报表审计，并且未来会通过不断累积的数据和记忆，能够像CFO一样为你考虑所有问题（持续完善）\n\n我们相信在稳定币和AI经济高速增长的未来，每个人除了释放自己最大的潜力和生产力之外，也一定需要一个能陪伴你成长的AI财务管家。Infini不希望成为一个同质化、无趣和不透明的支付公司，我们会尽力服务好每一个对效率和审美有所追求的团队，并且以十倍的交付速度来匹配上你们增长的步伐。",
+      "contentHtml": "经过半年时间的打磨和完善，今天Infini的新产品正式上线啦！最需要感谢的是团队每一个小伙伴的付出，以及现在几百个企业客户的信任和建议🫶\n\n我们想做什么：为每一位创始人和创业团队打造自动化、易用、最懂你的金融操作系统，希望能够帮助你们在收款、付款、资金管理和财务管理等方面降本增效。\n\n使用Infini能获得的是：\n\n-免费的企业账户来存放和管理你的稳定币资金\n-完善、易集成的收单功能，实时到账提现，手续费行业最低标准，无固定费用，服务响应及时\n-行业领先的活期理财收益（6%-7%）\n-支持所有AI和软件订阅的企业卡，没有任何附加费用，通过AI自动化来处理账务，帮你节省支出成本\n-可以通过稳定币和几十个法币及本地通道，给全球上百个国家的银行账户付款，合规可审计，支持上传凭证和财务对账\n-一个更懂你的AI财务助手，高效帮忙解决记账、对账、审批、财务分析、报表审计，并且未来会通过不断累积的数据和记忆，能够像CFO一样为你考虑所有问题（持续完善）\n\n我们相信在稳定币和AI经济高速增长的未来，每个人除了释放自己最大的潜力和生产力之外，也一定需要一个能陪伴你成长的AI财务管家。Infini不希望成为一个同质化、无趣和不透明的支付公司，我们会尽力服务好每一个对效率和审美有所追求的团队，并且以十倍的交付速度来匹配上你们增长的步伐。",
+      "publishedAt": "2026-03-25T06:44:00.000Z",
+      "link": "https://x.com/Christianeth/status/2036695743176868343",
+      "retweet": {
+        "username": "0xSunNFT",
+        "displayName": "0xSun"
+      },
+      "quote": {
+        "username": "0xinfini",
+        "displayName": "Infini",
+        "content": "Some traditional banking services weren't built for the internet economy. They were built for borders.\n\nSo we built Infini — an AI-powered financial OS for global business.\n\nCollect payments. Issue corporate cards. Let AI manage the rest.\n\nTry it → infini.money/signup?click_id…",
+        "link": "https://x.com/0xinfini/status/2036686673917128764"
       },
       "stats": {
         "replies": 0,
@@ -11959,48 +12005,6 @@
         "displayName": "曾颖",
         "content": "第一次分手那天，他在电话里和我说\"我们咖位都不一样了。\"\n\n他忘了那些海誓山盟，他忘了曾经说过一生一世都只和我一起搭档讲搞笑段子的约定。那种痛苦，不亚于曹云金火了，就想离开郭德纲单飞。\n\n不知道分手是不是因为最后一次见面，我多夹了几块鸡。\n\n为了挽留这段感情，我在超市买了一只冰冻的鸡。跨越13个小时的重洋，只为用高端又朴素的料理技巧，让他回味起恋爱的滋味。\n非常遗憾，在美国海关，这只鸡被没收了。\n\n我失去了全部的胜算。",
         "link": "https://x.com/zengying1107/status/2033515857977168193"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033983592041218388",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "Neocloud本质是水电公司，加上高利润的增值服务\n拿订单，股价涨\n融资，股价跌，造厂房\n反应在财报，如此反复\n每拿一次订单，股价就应该涨！但要履行这个订单，就必须融资，股价就应该跌，如此反复，剩下的时间投资者互博。\n另外租赁价格涨，他们股价也得涨\n下图是过去1年H100的租赁价格",
-      "contentHtml": "Neocloud本质是水电公司，加上高利润的增值服务\n拿订单，股价涨\n融资，股价跌，造厂房\n反应在财报，如此反复\n每拿一次订单，股价就应该涨！但要履行这个订单，就必须融资，股价就应该跌，如此反复，剩下的时间投资者互博。\n另外租赁价格涨，他们股价也得涨\n下图是过去1年H100的租赁价格",
-      "publishedAt": "2026-03-17T19:07:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2033983592041218388",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDopDrIXUAAF8rN.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2033976409777991717",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "如果不是伊朗反霸权反美，\n有其他中东王爷们什么事？",
-      "contentHtml": "如果不是伊朗反霸权反美，\n有其他中东王爷们什么事？",
-      "publishedAt": "2026-03-17T18:39:00.000Z",
-      "link": "https://x.com/hazenlee/status/2033976409777991717",
-      "quote": {
-        "username": "IamRamenPanda",
-        "displayName": "RamenPanda",
-        "content": "中东，我们扒开面子，看看里子到底是什么样的：\n\n伊朗：在全面制裁下深耕理工40年，打造了完整的工业体系\n\n海湾王爷国家：骄横跋扈，依靠卖石油，王爷们除了会喂老鹰，就是在迪拜日夜嫖娼；王爷的老婆们除了养膘就是使唤印度奴隶们干事\n\n真正打起仗来，没里子的，瞬间露馅",
-        "link": "https://x.com/IamRamenPanda/status/2033640023841771916"
       },
       "stats": {
         "replies": 0,
