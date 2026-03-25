@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T14:12:14.780Z",
+  "lastUpdated": "2026-03-25T14:41:48.174Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -94,6 +94,33 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2036810411073515970",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Tested two agent archetypes in past moth: Forecast-vs  Backcast-driven. Backcast works significantly more effective for human agent collab, ie start from desired outcome under time/resource constraint, decompose back to today. Brad Pitt is now master of orchestration and task assignment to humans",
+      "contentHtml": "Tested two agent archetypes in past moth: Forecast-vs  Backcast-driven. Backcast works significantly more effective for human agent collab, ie start from desired outcome under time/resource constraint, decompose back to today. Brad Pitt is now master of orchestration and task assignment to humans",
+      "publishedAt": "2026-03-25T14:20:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2036810411073515970",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEQyKz-bUAAabSG.jpg"
+        }
+      ],
+      "quote": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+        "content": "Future of investing is 3 ppl shop managing billions $ with a rack of mac studios & NVDA DGX spark\n\nThe setup we used: Master agent locally hosted with local model (Mistral L2), and bunch of daemons in local dockers talk with cloud LLMs with dedicated skill bundles. Master do task decomposition, orchestration, delegation, synthesize, and final rec\n\nSome (non exhaustive) opsec tips: before delegating always run sanitization at the master, its local LLM parses daemons' output through a defined schema to avoid prompt injection. make sure network Isolation among daemons, and only snd credential/api keys as vars at containter start, no agentic logins will blend with ur own logins. other typical devops hygiene works as the master is your main devop .. the list goes on",
+        "link": "https://x.com/DoveyWan/status/2027425242864599171"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2036802667947901376",
       "username": "daidaibtc",
@@ -12049,27 +12076,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034083452669333977",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "五个新地址 8 小时前从 #Coinbase 提出 29598 枚 $ETH ，价值 6894 万美元🤔\n\n接收地址目前均未转移或卖出，提出均价为 $2329；不确定是巨鲸 / 机构建仓，还是热钱包资金整理，后续再观察下\n\n钱包地址\n0x1C3f25DAb89ad6653aF01C70e14C64FA5cf8496e\n0x05715BE467ea567007f5B390c907B7AaFC25e28D\n0x6aE550a3aAf0F130c9a238568dd1c55EC884631e\n0xEF73cC79dd1D3F2a7A0572e6bA317DFA48784DF8\n0xA73102cDD2ca63F3bD2bC2c052dAd51cb752c166",
-      "contentHtml": "五个新地址 8 小时前从 <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a> 提出 29598 枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> ，价值 6894 万美元🤔\n\n接收地址目前均未转移或卖出，提出均价为 $2329；不确定是巨鲸 / 机构建仓，还是热钱包资金整理，后续再观察下\n\n钱包地址\n0x1C3f25DAb89ad6653aF01C70e14C64FA5cf8496e\n0x05715BE467ea567007f5B390c907B7AaFC25e28D\n0x6aE550a3aAf0F130c9a238568dd1c55EC884631e\n0xEF73cC79dd1D3F2a7A0572e6bA317DFA48784DF8\n0xA73102cDD2ca63F3bD2bC2c052dAd51cb752c166",
-      "publishedAt": "2026-03-18T01:44:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2034083452669333977",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDqEDgObEAAEhh_.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
