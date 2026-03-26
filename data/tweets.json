@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T13:10:52.118Z",
+  "lastUpdated": "2026-03-26T13:52:44.725Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 522,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 505,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2037163876631142905",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "$meta 576 了  空单在家里  浮盈！！！",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23meta\">$meta</a> 576 了  空单在家里  浮盈！！！",
+      "publishedAt": "2026-03-26T13:44:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2037163876631142905",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEV1vu9aIAAhQid.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "蚂蚁仓空了美股\n\n赌一波美股  股灾式暴跌 \n小止损5万",
+        "link": "https://x.com/Bitfatty/status/2035965158506254595",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHEEzg-4a0AAg84C.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2037151802215580037",
       "username": "daidaibtc",
@@ -12017,21 +12050,6 @@
         "content": "rwa looping seems to be the holy grail of why we put real world asset on-chain in the first place. the composability nature of tokenized asset largely increases the utility of that asset, meaning holders can borrow against it to apply leverage to their exposure. \n\nhowever, many rwa asset, especially private credit fund, is by nature illiquid. it is illiquid because its underlying positions are loan to mid-market companies, which are heterogenous so does not have a repo market like treasury note does. it often takes months to sell. this leads to a couple of downstream problems: \n\n1) long settlement period means looping is effectively impractical. because private credit fund like Apollo's ACRED is illiquid, it takes t+1 for minting & redemption only at every quarter. this means that it will takes months if someone wants a 5x leverage through looping and months to deleverage. time is money. during these time period, the nav of ACRED could change meaningfully that liquidate user's borrow positions before they can unwind the leverage. this hurts the user and also hurts the lending protocol (bad debt risk)\n\n2) nav reporting is discrete, not continuous. when credit risk does happen, the nav will jump discretely instead of continuously. this means it will again hurts liquidator, users, and protocol. for liquidators, they hold inventory risk between when they acquired the fund token and when they redeem the fund token for cash. for user, their position can just get liquidated. for protocols, the position could not get liquidated before LTV crosses 100%, leaving protocol having potential bad debt risk \n\nso how do we solve this so that users can loop RWA safely? \n\nget liquidity for illiquid asset. \n\n@multiliquid_xyz is creating a repo market for blue chip rwa assets. this is basically creating a liquidity layer on top so that user can get instant liquidity from liquidity providers (often times market makers). this works for tokenized treasury like Buidl but it is hard to have a deep liquidity for private credit product (or if it does, should be priced at a huge discount to compensate for the inventory risk) \n\n@3f_xyz uses a bridged loan provided by market makers via an auction to effectively outsource the settlement time-drag. they use the bridge loan to purchase the private credit funds and re-financed via morpho to pay back the bridged loan. vice versa for redemption. this is a neat solution but require very granular risk management by setting the optimal LTV ratio and onboarding market maker that are willing to bear the inventory risk. \n\nthis is still largely a nascent area. defi looping has largely been conducted atomically via flash loan. but the long settlement period for many rwa just make atomic mint/redemption impossible. \n\nif you are building around this area, would love to chat. I'm also around during DAS!",
         "link": "https://x.com/0xtony0x/status/2033685833090314531"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034247584345206876",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "想到个有趣小故事：为什么感觉有些人很难沟通，因为他们可能不是“人”。要知道清末人口才大概3.2亿，而现在有约14亿人。这么多人哪来的呢，都是些草啊木啊猪啊狗啊投胎来的，他们做人的经验不多，所以很多言谈举止会和人有区别。",
-      "contentHtml": "想到个有趣小故事：为什么感觉有些人很难沟通，因为他们可能不是“人”。要知道清末人口才大概3.2亿，而现在有约14亿人。这么多人哪来的呢，都是些草啊木啊猪啊狗啊投胎来的，他们做人的经验不多，所以很多言谈举止会和人有区别。",
-      "publishedAt": "2026-03-18T12:36:00.000Z",
-      "link": "https://x.com/hazenlee/status/2034247584345206876",
       "stats": {
         "replies": 0,
         "retweets": 0,
