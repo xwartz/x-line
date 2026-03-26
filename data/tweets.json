@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T07:41:33.737Z",
+  "lastUpdated": "2026-03-26T08:07:39.030Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 503,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 526,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2037073046222364983",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "好像可以点倒赞了，轻点。",
+      "contentHtml": "好像可以点倒赞了，轻点。",
+      "publishedAt": "2026-03-26T07:43:00.000Z",
+      "link": "https://x.com/taresky/status/2037073046222364983",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEUjI5SbYAEN7uS.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2037070347787522273",
       "username": "Bitfatty",
@@ -12016,39 +12037,6 @@
         "displayName": "Crypto🍀Lyh",
         "content": "能不能到4600在发 我怕发没了....",
         "link": "https://x.com/jinlaini666/status/2034225913005785444"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034225378789917089",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "$xau see the future",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23xau\">$xau</a> see the future",
-      "publishedAt": "2026-03-18T11:08:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2034225378789917089",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDsFMnrboAAktyi.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "$xau 人话，言简意赅\n\n真经不需要800字",
-        "link": "https://x.com/Bitfatty/status/2033438241526087998",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDg5TLvawAAuPab.jpg"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
