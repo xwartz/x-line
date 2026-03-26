@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T07:10:04.480Z",
+  "lastUpdated": "2026-03-26T07:41:33.737Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 323,
-    "successUsers": 16,
-    "failedUsers": 11
+    "newFetched": 503,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2037070347787522273",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "洗脚方可悟道",
+      "contentHtml": "洗脚方可悟道",
+      "publishedAt": "2026-03-26T07:33:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2037070347787522273",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEUgrlZbYAIAsxn.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "手牌一戴   谁也不爱",
+        "link": "https://x.com/Bitfatty/status/2036631928355574097",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHEOR8H1aAAAmYoZ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2037062413359735030",
       "username": "hazenlee",
@@ -1159,6 +1192,31 @@
         "displayName": "Andrej Karpathy",
         "content": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database passwords.\n\nLiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depended on litellm>=1.64.0), you'd also be pwnd. Same for any other large project that depended on litellm.\n\nAfaict the poisoned version was up for only less than ~1 hour. The attack had a bug which led to its discovery - Callum McMahon was using an MCP plugin inside Cursor that pulled in litellm as a transitive dependency. When litellm 1.82.8 installed, their machine ran out of RAM and crashed. So if the attacker didn't vibe code this attack it could have been undetected for many days or weeks.\n\nSupply chain attacks like this are basically the scariest thing imaginable in modern software. Every time you install any depedency you could be pulling in a poisoned package anywhere deep inside its entire depedency tree. This is especially risky with large projects that might have lots and lots of dependencies. The credentials that do get stolen in each attack can then be used to take over more accounts and compromise more packages.\n\nClassical software engineering would have you believe that dependencies are good (we're building pyramids from bricks), but imo this has to be re-evaluated, and it's why I've been so growingly averse to them, preferring to use LLMs to \"yoink\" functionality when it's simple enough and possible.",
         "link": "https://x.com/karpathy/status/2036487306585268612"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036695743176868343",
+      "username": "Christianeth",
+      "displayName": "Christian (Building @0xinfini)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1894561803939844098%2FujnP_69d_bigger.jpg",
+      "content": "经过半年时间的打磨和完善，今天Infini的新产品正式上线啦！最需要感谢的是团队每一个小伙伴的付出，以及现在几百个企业客户的信任和建议🫶\n\n我们想做什么：为每一位创始人和创业团队打造自动化、易用、最懂你的金融操作系统，希望能够帮助你们在收款、付款、资金管理和财务管理等方面降本增效。\n\n使用Infini能获得的是：\n\n-免费的企业账户来存放和管理你的稳定币资金\n-完善、易集成的收单功能，实时到账提现，手续费行业最低标准，无固定费用，服务响应及时\n-行业领先的活期理财收益（6%-7%）\n-支持所有AI和软件订阅的企业卡，没有任何附加费用，通过AI自动化来处理账务，帮你节省支出成本\n-可以通过稳定币和几十个法币及本地通道，给全球上百个国家的银行账户付款，合规可审计，支持上传凭证和财务对账\n-一个更懂你的AI财务助手，高效帮忙解决记账、对账、审批、财务分析、报表审计，并且未来会通过不断累积的数据和记忆，能够像CFO一样为你考虑所有问题（持续完善）\n\n我们相信在稳定币和AI经济高速增长的未来，每个人除了释放自己最大的潜力和生产力之外，也一定需要一个能陪伴你成长的AI财务管家。Infini不希望成为一个同质化、无趣和不透明的支付公司，我们会尽力服务好每一个对效率和审美有所追求的团队，并且以十倍的交付速度来匹配上你们增长的步伐。",
+      "contentHtml": "经过半年时间的打磨和完善，今天Infini的新产品正式上线啦！最需要感谢的是团队每一个小伙伴的付出，以及现在几百个企业客户的信任和建议🫶\n\n我们想做什么：为每一位创始人和创业团队打造自动化、易用、最懂你的金融操作系统，希望能够帮助你们在收款、付款、资金管理和财务管理等方面降本增效。\n\n使用Infini能获得的是：\n\n-免费的企业账户来存放和管理你的稳定币资金\n-完善、易集成的收单功能，实时到账提现，手续费行业最低标准，无固定费用，服务响应及时\n-行业领先的活期理财收益（6%-7%）\n-支持所有AI和软件订阅的企业卡，没有任何附加费用，通过AI自动化来处理账务，帮你节省支出成本\n-可以通过稳定币和几十个法币及本地通道，给全球上百个国家的银行账户付款，合规可审计，支持上传凭证和财务对账\n-一个更懂你的AI财务助手，高效帮忙解决记账、对账、审批、财务分析、报表审计，并且未来会通过不断累积的数据和记忆，能够像CFO一样为你考虑所有问题（持续完善）\n\n我们相信在稳定币和AI经济高速增长的未来，每个人除了释放自己最大的潜力和生产力之外，也一定需要一个能陪伴你成长的AI财务管家。Infini不希望成为一个同质化、无趣和不透明的支付公司，我们会尽力服务好每一个对效率和审美有所追求的团队，并且以十倍的交付速度来匹配上你们增长的步伐。",
+      "publishedAt": "2026-03-25T06:44:00.000Z",
+      "link": "https://x.com/Christianeth/status/2036695743176868343",
+      "retweet": {
+        "username": "0xSunNFT",
+        "displayName": "0xSun"
+      },
+      "quote": {
+        "username": "0xinfini",
+        "displayName": "Infini",
+        "content": "Some traditional banking services weren't built for the internet economy. They were built for borders.\n\nSo we built Infini — an AI-powered financial OS for global business.\n\nCollect payments. Issue corporate cards. Let AI manage the rest.\n\nTry it → infini.money/signup?click_id…",
+        "link": "https://x.com/0xinfini/status/2036686673917128764"
       },
       "stats": {
         "replies": 0,
@@ -3160,6 +3218,31 @@
           "url": "https://nitter.net/pic/orig/media%2FHEGlNnma4AATe0J.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036088162930377064",
+      "username": "TheMarketMemo",
+      "displayName": "LEI",
+      "avatar": "https://nitter.net/pic/profile_images%2F1679329277660246017%2FVvk10ATc_bigger.jpg",
+      "content": "全球最大的實物黃金ETF $GLD 在3月迄今已出現 -70.7 億美元的資金流出，這是該基金自 2012 年成立以來最大單月資金流出。該基金已連續三週遭遇大規模贖回，由此導致金價上週下跌超過 -10%，創下自 1983年以來最大的單週跌幅。 \n\n1983年，中東石油出口國在石油市場衝擊期間拋售黃金換取現金。這次的劇本應該也差不多。",
+      "contentHtml": "全球最大的實物黃金ETF <a href=\"/search?f=tweets&q=%23GLD\">$GLD</a> 在3月迄今已出現 -70.7 億美元的資金流出，這是該基金自 2012 年成立以來最大單月資金流出。該基金已連續三週遭遇大規模贖回，由此導致金價上週下跌超過 -10%，創下自 1983年以來最大的單週跌幅。 \n\n1983年，中東石油出口國在石油市場衝擊期間拋售黃金換取現金。這次的劇本應該也差不多。",
+      "publishedAt": "2026-03-23T14:30:00.000Z",
+      "link": "https://x.com/TheMarketMemo/status/2036088162930377064",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEGjY-dXkAE8dul.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5534,6 +5617,31 @@
             "url": "https://nitter.net/pic/orig/media%2FHEABus-bEAAV5yK.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2035691241761865892",
+      "username": "TheMarketMemo",
+      "displayName": "LEI",
+      "avatar": "https://nitter.net/pic/profile_images%2F1679329277660246017%2FVvk10ATc_bigger.jpg",
+      "content": "瑞銀2026年3月20日發布的投資組合策略報告表明看好大宗商品（Favor commodities），其核心觀點與數據如下：\n\n 配置邏輯與時機：大宗商品可對沖通膨，且與股票及債券的歷史相關性較低，在市場波動期能提供投資組合韌性。伊朗衝突帶來的供應短缺、地緣政治風險、央行買盤及銅市場的赤字擴大，為當前看好該資產類別的主要因素。\n\n黃金與貴金屬：儘管受美國利率前景不確定性及流動性需求影響而波動，但去美元化趨勢、全球債務擔憂與央行持續買入形成強烈結構性支撐。預期 2026 年年中，黃金價格將達每盎司 6,200 美元，白銀亦將受惠於金價上漲與基本面支撐。\n\n能源板塊：荷姆茲海峽（Strait of Hormuz）近乎關閉導致供應嚴重受阻，戰略儲備釋放僅能部分彌補缺口。布蘭特原油（Brent crude）的預測價格已上調：2026 年 6 月底預估為每桶 90 美元，9 月底與 12 月底預估為每桶 85 美元。\n\n工業金屬：受電氣化、能源轉型及 AI 基礎設施擴建的長期需求驅動，銅面臨持續性的結構性短缺。2026 年年底銅價目標定為每公噸 14,500 美元。此外，中東地區的衝突與能源問題干擾了鋁的生產，進一步收緊工業供應鏈。",
+      "contentHtml": "瑞銀2026年3月20日發布的投資組合策略報告表明看好大宗商品（Favor commodities），其核心觀點與數據如下：\n\n 配置邏輯與時機：大宗商品可對沖通膨，且與股票及債券的歷史相關性較低，在市場波動期能提供投資組合韌性。伊朗衝突帶來的供應短缺、地緣政治風險、央行買盤及銅市場的赤字擴大，為當前看好該資產類別的主要因素。\n\n黃金與貴金屬：儘管受美國利率前景不確定性及流動性需求影響而波動，但去美元化趨勢、全球債務擔憂與央行持續買入形成強烈結構性支撐。預期 2026 年年中，黃金價格將達每盎司 6,200 美元，白銀亦將受惠於金價上漲與基本面支撐。\n\n能源板塊：荷姆茲海峽（Strait of Hormuz）近乎關閉導致供應嚴重受阻，戰略儲備釋放僅能部分彌補缺口。布蘭特原油（Brent crude）的預測價格已上調：2026 年 6 月底預估為每桶 90 美元，9 月底與 12 月底預估為每桶 85 美元。\n\n工業金屬：受電氣化、能源轉型及 AI 基礎設施擴建的長期需求驅動，銅面臨持續性的結構性短缺。2026 年年底銅價目標定為每公噸 14,500 美元。此外，中東地區的衝突與能源問題干擾了鋁的生產，進一步收緊工業供應鏈。",
+      "publishedAt": "2026-03-22T12:13:00.000Z",
+      "link": "https://x.com/TheMarketMemo/status/2035691241761865892",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEA6ZGAbsAAmaNo.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
       },
       "stats": {
         "replies": 0,
@@ -11942,104 +12050,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034218441113219495",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "《6u变2600u》",
-      "contentHtml": "《6u变2600u》",
-      "publishedAt": "2026-03-18T10:40:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2034218441113219495",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDr-40nawAAZnVQ.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDr-402aUAAu4Ij.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "喜欢看广告的有福了\n\n很多人问没有美股账户，想空 疯狗 $crcl\n去哪里\n\nBybit搞了个tradefi ，简单来说就是个外汇台子包进了bybit交易所 ，股票也陆续上了\n\n没账户的这边注册，邀请码恭喜发财拼音缩写，自带33%自动返佣\npartner.bybit.com/b/GXFC  \n\n风险提示：老赌狗都知道这类台子有一些猫腻风险，如遇极端特殊情况记得录屏截图啥的，方便维权  \n大部分情况都相对公平可用，钱多仓位大的注意我上面说的情况",
-        "link": "https://x.com/Bitfatty/status/1937881390965817758",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FGuS81zyasAETIOj.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FGuS81zpa4AACOKF.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034217266049667399",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "这版本的币圈滚个粑粑啊\n刚一滚仓，做市商就让你滚回老家了",
-      "contentHtml": "这版本的币圈滚个粑粑啊\n刚一滚仓，做市商就让你滚回老家了",
-      "publishedAt": "2026-03-18T10:36:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2034217266049667399",
-      "quote": {
-        "username": "Magicstarsx",
-        "displayName": "魔法星magicstar",
-        "content": "没滚仓吗？",
-        "link": "https://x.com/Magicstarsx/status/2034215618606727537"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034189367413965095",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "I don't think tradeXYZ will ever launch a token\n\nBut I believe that what's coming is even better\n\nHyperliquid",
-      "contentHtml": "I don't think tradeXYZ will ever launch a token\n\nBut I believe that what's coming is even better\n\nHyperliquid",
-      "publishedAt": "2026-03-18T08:45:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2034189367413965095",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034146643520721381",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "OpenAI，爹味最浓的大模型",
-      "contentHtml": "OpenAI，爹味最浓的大模型",
-      "publishedAt": "2026-03-18T05:55:00.000Z",
-      "link": "https://x.com/follow_clues/status/2034146643520721381",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDq9EWlbEAAM4G7.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
