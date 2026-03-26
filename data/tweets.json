@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T17:11:02.078Z",
+  "lastUpdated": "2026-03-26T17:38:27.942Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 521,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 484,
+    "successUsers": 24,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2037218692585709991",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "被wildcard割惨了，什么项目来了这行情都不好使0.1的成本现在0.02，直接变成土狗meme项目了，项目方也没格局。",
+      "contentHtml": "被wildcard割惨了，什么项目来了这行情都不好使0.1的成本现在0.02，直接变成土狗meme项目了，项目方也没格局。",
+      "publishedAt": "2026-03-26T17:22:00.000Z",
+      "link": "https://x.com/0xleng1/status/2037218692585709991",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2037206081727062427",
       "username": "taresky",
@@ -12020,47 +12035,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FHDsY0QvWoAA3Q9I.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034250184645898740",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "昨天看见你了哥",
-      "contentHtml": "昨天看见你了哥",
-      "publishedAt": "2026-03-18T12:46:00.000Z",
-      "link": "https://x.com/hazenlee/status/2034250184645898740",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDsbwRjb0AAMvkx.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDsbwQ6XEAAtKf5.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDsbwQ5XIAA5y60.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Jason60704294",
-        "displayName": "jasonleo",
-        "content": "已空莫辜负",
-        "link": "https://x.com/Jason60704294/status/2034249413947003213",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDsbDqibIAAPUQl.jpg"
           }
         ]
       },
