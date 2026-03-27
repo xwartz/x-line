@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T05:24:20.921Z",
+  "lastUpdated": "2026-03-27T06:00:51.365Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,47 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 481,
-    "successUsers": 24,
-    "failedUsers": 3
+    "newFetched": 522,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2037407698053206478",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "这两年撸毛踩的坑都是拖了一轮牛市不发币最后匆匆发币的交代盘，这辈子不会再碰了，一个gomble一个wildcard一个fleek，fleek撸毛还好，打新是砍到脚底了。",
+      "contentHtml": "这两年撸毛踩的坑都是拖了一轮牛市不发币最后匆匆发币的交代盘，这辈子不会再碰了，一个gomble一个wildcard一个fleek，fleek撸毛还好，打新是砍到脚底了。",
+      "publishedAt": "2026-03-27T05:53:00.000Z",
+      "link": "https://x.com/0xleng1/status/2037407698053206478",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2037403072507658672",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "$btc  给个痛快  无论上下  别磨了\n摸出水了都\n\n上扣1\n下扣2",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23btc\">$btc</a>  给个痛快  无论上下  别磨了\n摸出水了都\n\n上扣1\n下扣2",
+      "publishedAt": "2026-03-27T05:35:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2037403072507658672",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEZKYGAbMAA_T-T.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2037387825394647372",
       "username": "DoveyWanCN",
@@ -2112,6 +2148,31 @@
         "displayName": "Andrej Karpathy",
         "content": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database passwords.\n\nLiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depended on litellm>=1.64.0), you'd also be pwnd. Same for any other large project that depended on litellm.\n\nAfaict the poisoned version was up for only less than ~1 hour. The attack had a bug which led to its discovery - Callum McMahon was using an MCP plugin inside Cursor that pulled in litellm as a transitive dependency. When litellm 1.82.8 installed, their machine ran out of RAM and crashed. So if the attacker didn't vibe code this attack it could have been undetected for many days or weeks.\n\nSupply chain attacks like this are basically the scariest thing imaginable in modern software. Every time you install any depedency you could be pulling in a poisoned package anywhere deep inside its entire depedency tree. This is especially risky with large projects that might have lots and lots of dependencies. The credentials that do get stolen in each attack can then be used to take over more accounts and compromise more packages.\n\nClassical software engineering would have you believe that dependencies are good (we're building pyramids from bricks), but imo this has to be re-evaluated, and it's why I've been so growingly averse to them, preferring to use LLMs to \"yoink\" functionality when it's simple enough and possible.",
         "link": "https://x.com/karpathy/status/2036487306585268612"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036695743176868343",
+      "username": "Christianeth",
+      "displayName": "Christian (Building @0xinfini)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1894561803939844098%2FujnP_69d_bigger.jpg",
+      "content": "经过半年时间的打磨和完善，今天Infini的新产品正式上线啦！最需要感谢的是团队每一个小伙伴的付出，以及现在几百个企业客户的信任和建议🫶\n\n我们想做什么：为每一位创始人和创业团队打造自动化、易用、最懂你的金融操作系统，希望能够帮助你们在收款、付款、资金管理和财务管理等方面降本增效。\n\n使用Infini能获得的是：\n\n-免费的企业账户来存放和管理你的稳定币资金\n-完善、易集成的收单功能，实时到账提现，手续费行业最低标准，无固定费用，服务响应及时\n-行业领先的活期理财收益（6%-7%）\n-支持所有AI和软件订阅的企业卡，没有任何附加费用，通过AI自动化来处理账务，帮你节省支出成本\n-可以通过稳定币和几十个法币及本地通道，给全球上百个国家的银行账户付款，合规可审计，支持上传凭证和财务对账\n-一个更懂你的AI财务助手，高效帮忙解决记账、对账、审批、财务分析、报表审计，并且未来会通过不断累积的数据和记忆，能够像CFO一样为你考虑所有问题（持续完善）\n\n我们相信在稳定币和AI经济高速增长的未来，每个人除了释放自己最大的潜力和生产力之外，也一定需要一个能陪伴你成长的AI财务管家。Infini不希望成为一个同质化、无趣和不透明的支付公司，我们会尽力服务好每一个对效率和审美有所追求的团队，并且以十倍的交付速度来匹配上你们增长的步伐。",
+      "contentHtml": "经过半年时间的打磨和完善，今天Infini的新产品正式上线啦！最需要感谢的是团队每一个小伙伴的付出，以及现在几百个企业客户的信任和建议🫶\n\n我们想做什么：为每一位创始人和创业团队打造自动化、易用、最懂你的金融操作系统，希望能够帮助你们在收款、付款、资金管理和财务管理等方面降本增效。\n\n使用Infini能获得的是：\n\n-免费的企业账户来存放和管理你的稳定币资金\n-完善、易集成的收单功能，实时到账提现，手续费行业最低标准，无固定费用，服务响应及时\n-行业领先的活期理财收益（6%-7%）\n-支持所有AI和软件订阅的企业卡，没有任何附加费用，通过AI自动化来处理账务，帮你节省支出成本\n-可以通过稳定币和几十个法币及本地通道，给全球上百个国家的银行账户付款，合规可审计，支持上传凭证和财务对账\n-一个更懂你的AI财务助手，高效帮忙解决记账、对账、审批、财务分析、报表审计，并且未来会通过不断累积的数据和记忆，能够像CFO一样为你考虑所有问题（持续完善）\n\n我们相信在稳定币和AI经济高速增长的未来，每个人除了释放自己最大的潜力和生产力之外，也一定需要一个能陪伴你成长的AI财务管家。Infini不希望成为一个同质化、无趣和不透明的支付公司，我们会尽力服务好每一个对效率和审美有所追求的团队，并且以十倍的交付速度来匹配上你们增长的步伐。",
+      "publishedAt": "2026-03-25T06:44:00.000Z",
+      "link": "https://x.com/Christianeth/status/2036695743176868343",
+      "retweet": {
+        "username": "0xSunNFT",
+        "displayName": "0xSun"
+      },
+      "quote": {
+        "username": "0xinfini",
+        "displayName": "Infini",
+        "content": "Some traditional banking services weren't built for the internet economy. They were built for borders.\n\nSo we built Infini — an AI-powered financial OS for global business.\n\nCollect payments. Issue corporate cards. Let AI manage the rest.\n\nTry it → infini.money/signup?click_id…",
+        "link": "https://x.com/0xinfini/status/2036686673917128764"
       },
       "stats": {
         "replies": 0,
@@ -11885,85 +11946,6 @@
       "contentHtml": "联储会议：\n1. 如果可以跳过一次会议，这次应该跳过，因为不确定性太大，SEP看看就好，别太当真\n2. 如果针对鲍威尔的指控不结束，不会主动离开委员会。（和川普硬刚）\n3. 现在的利率处在中性和仅仅一点点紧缩的阶段。（现在不会考虑加息的，没数据支持他们做出任何的指引和暗示）\n总体来说没有太特别的，我认为偏中性。",
       "publishedAt": "2026-03-18T20:01:00.000Z",
       "link": "https://x.com/TJ_Research/status/2034359562396905748",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034349811571278304",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "提到加息就不是一件好事，代表了有这个可能，以前根本不提。",
-      "contentHtml": "提到加息就不是一件好事，代表了有这个可能，以前根本不提。",
-      "publishedAt": "2026-03-18T19:22:00.000Z",
-      "link": "https://x.com/hazenlee/status/2034349811571278304",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDt2XRjX0AA1aeR.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034339313295782300",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "2单4倍\n霉比上车我直接关闭\n《500u一周就翻了三个身》\n\n完结撒花🎆",
-      "contentHtml": "2单4倍\n霉比上车我直接关闭\n《500u一周就翻了三个身》\n\n完结撒花🎆",
-      "publishedAt": "2026-03-18T18:41:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2034339313295782300",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDts0ctaUAAterN.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDts0cEaUAAwEuQ.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "肥汉三又杀回来了\n上次本来都三倍了，btc多单没止盈直接打回去了\n\n做多 $zec 也是差点爆了\n\n还好，第一个500u 没亏完",
-        "link": "https://x.com/Bitfatty/status/2034206101416403073",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDrzqfCaAAAFkUW.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034270680762708311",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "镜像一下也成立, 只擅长和机器/代码/软件/数字 交互的会最快被取代. 程序员第一批次, 然后现阶段大量的白领其实就是用软件的人, 人肉API, 而且只会被动回复prompt,  所以被取代也很合理. 未来是巨大的K形曲线分布, 中间态不存在",
-      "contentHtml": "镜像一下也成立, 只擅长和机器/代码/软件/数字 交互的会最快被取代. 程序员第一批次, 然后现阶段大量的白领其实就是用软件的人, 人肉API, 而且只会被动回复prompt,  所以被取代也很合理. 未来是巨大的K形曲线分布, 中间态不存在",
-      "publishedAt": "2026-03-18T14:08:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2034270680762708311",
-      "quote": {
-        "username": "DoveyWanCN",
-        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-        "content": "能处理复杂关系的人不会被ai替代, 在很长的未来都会是这样. 因为情绪, 价值体系, 自我认知 (self awareness), 身份认同 (identity orientation) 等等是人之所以为人的内在价值函数, ai缺乏这种可以追溯到几千年进化形成的价值函数, 自然无法和人真正的共情",
-        "link": "https://x.com/DoveyWanCN/status/1997203937431375916"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
