@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T09:35:17.516Z",
+  "lastUpdated": "2026-03-27T10:05:06.727Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 521,
+    "newFetched": 522,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2037463544074305849",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "☁️🏂",
+      "contentHtml": "☁️🏂",
+      "publishedAt": "2026-03-27T09:35:00.000Z",
+      "link": "https://x.com/coolish/status/2037463544074305849",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEaGSYGasAA_0i0.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEaGSYFbIAEUT86.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEaGSYEaQAA2HJU.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEaGSYJbAAAEQV8.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2037451845355143351",
       "username": "hazenlee",
@@ -11969,27 +12002,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHDvDl74bEAAG3n6.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034432926444822869",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "孙迟但到",
-      "contentHtml": "孙迟但到",
-      "publishedAt": "2026-03-19T00:53:00.000Z",
-      "link": "https://x.com/hazenlee/status/2034432926444822869",
-      "quote": {
-        "username": "sunyuchentron",
-        "displayName": "孙宇晨（去过太空版）🧑‍🚀",
-        "content": "现在华尔街一直在问：CRCL 的中国版本是什么？因为他们想投资一个效率更高、估值更低、利润更高的“CRCL”。\n\n现在答案来了：TRON。\n\nTRON 的发行规模与 CRCL 处于同一量级。过去一年，TRON 实现了 33 亿美元的利润，而 CRCL 仍处于亏损状态。TRON 当前市值约为 5 亿美元，而 CRCL 为 350 亿美元，也就是说，TRON 的估值大约只有 CRCL 的 1/70。\n\n另外需要澄清的是，TRON 并不是一家中国公司，目前仍然是一家美国公司。",
-        "link": "https://x.com/sunyuchentron/status/2034208659161694458"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
