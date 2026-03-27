@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T22:09:38.453Z",
+  "lastUpdated": "2026-03-27T22:26:14.683Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 521,
+    "newFetched": 522,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2037653572360569167",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "对不起 欢迎来到高通胀和高利率时代\n我想要个185八块腹肌的几把18cm的大帅哥",
+      "contentHtml": "对不起 欢迎来到高通胀和高利率时代\n我想要个185八块腹肌的几把18cm的大帅哥",
+      "publishedAt": "2026-03-27T22:10:00.000Z",
+      "link": "https://x.com/hazenlee/status/2037653572360569167",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEczH0SaYAALZ3Y.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2037648377283031090",
       "username": "hazenlee",
@@ -11866,47 +11887,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FGuS81zpa4AACOKF.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034570577936371760",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "BRS在3/18最低降至10，没有触碰到零轴，意味着目前的回调不代表反弹已结束。但BRS已降至25以下，通常都表示反弹的进程已近尾声。等BRS=0时，对应BTC价格高点可能不会比$76,000（前高）再高出很多。\n\n最大的变数，就是3月20日期权行权日后，到3月27日季度期权行权日之前，$75,000处的Short Gamma对价格波动产生的影响。\n\n交易上，我在74,400挂过一笔5倍空（已成交），计划是如果继续反弹到7.8-7.9w就再补一笔，或者拿到6.5-6.7w左右分批止盈；反之，如果突破8w就全部止损。仓位不大，仅作为对自己分析判断的一种验证而已。",
-      "contentHtml": "BRS在3/18最低降至10，没有触碰到零轴，意味着目前的回调不代表反弹已结束。但BRS已降至25以下，通常都表示反弹的进程已近尾声。等BRS=0时，对应BTC价格高点可能不会比$76,000（前高）再高出很多。\n\n最大的变数，就是3月20日期权行权日后，到3月27日季度期权行权日之前，$75,000处的Short Gamma对价格波动产生的影响。\n\n交易上，我在74,400挂过一笔5倍空（已成交），计划是如果继续反弹到7.8-7.9w就再补一笔，或者拿到6.5-6.7w左右分批止盈；反之，如果突破8w就全部止损。仓位不大，仅作为对自己分析判断的一种验证而已。",
-      "publishedAt": "2026-03-19T10:00:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2034570577936371760",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDwiijvbUAAJwBX.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDwixx8a0AAvlU6.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "在昨天的推文中我们提到，当交易所内BTC余额持续下降，现货需求阶段性承接可使BTC在短期内维持震荡或弱反弹走势。\n\n如果是弱反弹路径，那么BTC即将遇到的第一重阻力便是“MVRV极端偏差定价区间”中绿线的位置（-0.5 std）—— $74,000（图1）。\n\n从历史轨迹来看，每当BTC跌破绿线时，代表行情进入熊市的第2阶段，此后反弹很难再有效突破此概率区间，直到熊市结束。\n\n如果切换到群体成本的角度，目前BTC可以比较稳定的站上“持有1w-1m”的超短期筹码成本线，说明近期抄底的资金对价格已不敏感，抛压减少价格才能站稳（图2）。\n\n在此上方就是持有1y-2y的长期持有者的平均换手成本，目前是$78,880；这里累积有242w枚的巨量筹码，以现有的整体需求水平来看，我个人认为很难一次性就顺利通过。\n\n另外，期权市场在3月20日的行权日，在$74,000位置是一个Long Gamma状态，目前的Gamma风险敞口（GEX）有1.8亿美元（图3）。\n\n我们知道在Long Gamma状态下，当价格下跌，MM要买入BTC；价格上涨，要卖出BTC对冲；因此形成了Gamma引力。\n\n综上所述，我个人对弱反弹路径的预期就在$74,000 - $79,000 之间，在此范围内我可能会找机会做一笔高位空的尝试，止损位置很清晰，一旦突破$79,000那就说明前期的判断错误，就及时止损。\n\n如果没到，那就继续耐心的在下行趋势中等低位接现货。总之就是少操作，等高确定性的机会。",
-        "link": "https://x.com/Murphychen888/status/2032296777253339608",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDQqigbbQAMPhNI.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDQqmJfbwAAVxcw.jpg"
           }
         ]
       },
