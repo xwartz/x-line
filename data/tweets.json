@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T01:01:08.296Z",
+  "lastUpdated": "2026-03-27T01:44:59.857Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,95 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 525,
+    "newFetched": 526,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2037341378695631319",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "一笔买入 7543 枚，囤积 1557 万美元 $ETH ，一下跌就有大户出手了💰\n\n地址 0xBEE…5c555 7 小时前花费 USDT 和 $WBTC 在链上买入 7543 枚 ETH，成本 $2048.69，几乎买在了短时最低点\n\n钱包地址 0xBEea3FC7F306CBBa9b292F247455b92ad66B3500\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
+      "contentHtml": "一笔买入 7543 枚，囤积 1557 万美元 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> ，一下跌就有大户出手了💰\n\n地址 0xBEE…5c555 7 小时前花费 USDT 和 <a href=\"/search?f=tweets&q=%23WBTC\">$WBTC</a> 在链上买入 7543 枚 ETH，成本 $2048.69，几乎买在了短时最低点\n\n钱包地址 0xBEea3FC7F306CBBa9b292F247455b92ad66B3500\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
+      "publishedAt": "2026-03-27T01:30:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2037341378695631319",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEYXLNraYAAITCO.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2037341359363817691",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "BUY MORE!\n苹果今天宣布将会允许SIRI和所有大模型整合，怎么理解？\n1. 苹果内部自研模型解决最基本用户需求\n2. 智商不够的，通过和GEMINI合作的模型在私云上运行，保护用户数据\n3. SIRI现在只和CHATGPT合作，未来和所有LLM合作，意味着不同的模型将会在不同的问题/需求胜出\n4. SIRI做为个人智能体助理将会掌握流量入口，对于所有大模型都会是增量，SIRI成为了他们的分销商\n\n最后是一个讨论，先给一个我认为以后AI执行任务的路径：\n你对Siri说话（苹果的入口层），Siri把请求路由给Claude智能体（Anthropic的模型），Claude通过MCP协议去调取数据，再通过A2A协议（谷歌主导的开源协议）与其他智能体对话协商，最终通过AP2协议使用USDC（Circle的结算轨道）完成支付，而这一切运行在谷歌云的基础设施上\n以上的整条路径，有很多是可以替代的，比如CLAUDE变成GPT，USDC变成VISA，谷歌云变成AWS，SIRI可以变成任何一个个人助理智能体，但必须在操作系统层面。哪些容易替代，哪些是绝对的增量市场？",
+      "contentHtml": "BUY MORE!\n苹果今天宣布将会允许SIRI和所有大模型整合，怎么理解？\n1. 苹果内部自研模型解决最基本用户需求\n2. 智商不够的，通过和GEMINI合作的模型在私云上运行，保护用户数据\n3. SIRI现在只和CHATGPT合作，未来和所有LLM合作，意味着不同的模型将会在不同的问题/需求胜出\n4. SIRI做为个人智能体助理将会掌握流量入口，对于所有大模型都会是增量，SIRI成为了他们的分销商\n\n最后是一个讨论，先给一个我认为以后AI执行任务的路径：\n你对Siri说话（苹果的入口层），Siri把请求路由给Claude智能体（Anthropic的模型），Claude通过MCP协议去调取数据，再通过A2A协议（谷歌主导的开源协议）与其他智能体对话协商，最终通过AP2协议使用USDC（Circle的结算轨道）完成支付，而这一切运行在谷歌云的基础设施上\n以上的整条路径，有很多是可以替代的，比如CLAUDE变成GPT，USDC变成VISA，谷歌云变成AWS，SIRI可以变成任何一个个人助理智能体，但必须在操作系统层面。哪些容易替代，哪些是绝对的增量市场？",
+      "publishedAt": "2026-03-27T01:30:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2037341359363817691",
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "虽然 $AAPL 现在估值不便宜，但每一次产品的延后都是为了AI智能体SIRI的落地，多买点吧，真正的AI落地将会在苹果身上引爆",
+        "link": "https://x.com/TJ_Research/status/2031185437054685356",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDA4IsMWQAA_161.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2037336667510722709",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "built a 3 layer write boundaries so that our agents can SLOW THE FUCK DOWN while still have most freedom when access SaaS.. dev ops for agent is such a pain in the ass, anyone is building this or any good practice can ref to? whats the best learning on agent <> GUI policy?",
+      "contentHtml": "built a 3 layer write boundaries so that our agents can SLOW THE FUCK DOWN while still have most freedom when access SaaS.. dev ops for agent is such a pain in the ass, anyone is building this or any good practice can ref to? whats the best learning on agent &lt;&gt; GUI policy?",
+      "publishedAt": "2026-03-27T01:11:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2037336667510722709",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEYStGGaEAA2-uT.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2037334965869048125",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "the most expensive hire in 2027 will be the last person\nwho can actually audit the machine",
+      "contentHtml": "the most expensive hire in 2027 will be the last person\nwho can actually audit the machine",
+      "publishedAt": "2026-03-27T01:04:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2037334965869048125",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2037319792718237985",
       "username": "TJ_Research",
@@ -3604,25 +3688,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEHI5sgaIAIbeI4.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036128554119827628",
-      "username": "TheDefiantGhost",
-      "displayName": "Defiant Ghost",
-      "avatar": "https://nitter.net/pic/profile_images%2F1999544069224120321%2F7k-PaN27_bigger.jpg",
-      "content": "Joe Rogan: \"What they've done to Gaza is f*cking insane.\"\n\n\"And if you can't see that, if you can't say that, and your response is, Israel has the right to defend itself. Like, What are you talking about? Against what, children?\"",
-      "contentHtml": "Joe Rogan: \"What they've done to Gaza is f*cking insane.\"\n\n\"And if you can't see that, if you can't say that, and your response is, Israel has the right to defend itself. Like, What are you talking about? Against what, children?\"",
-      "publishedAt": "2026-03-23T17:10:00.000Z",
-      "link": "https://x.com/TheDefiantGhost/status/2036128554119827628",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11890,69 +11955,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHDmXwo7bQAA9OU6.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034270680762708311",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "镜像一下也成立, 只擅长和机器/代码/软件/数字 交互的会最快被取代. 程序员第一批次, 然后现阶段大量的白领其实就是用软件的人, 人肉API, 而且只会被动回复prompt,  所以被取代也很合理. 未来是巨大的K形曲线分布, 中间态不存在",
-      "contentHtml": "镜像一下也成立, 只擅长和机器/代码/软件/数字 交互的会最快被取代. 程序员第一批次, 然后现阶段大量的白领其实就是用软件的人, 人肉API, 而且只会被动回复prompt,  所以被取代也很合理. 未来是巨大的K形曲线分布, 中间态不存在",
-      "publishedAt": "2026-03-18T14:08:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2034270680762708311",
-      "quote": {
-        "username": "DoveyWanCN",
-        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-        "content": "能处理复杂关系的人不会被ai替代, 在很长的未来都会是这样. 因为情绪, 价值体系, 自我认知 (self awareness), 身份认同 (identity orientation) 等等是人之所以为人的内在价值函数, ai缺乏这种可以追溯到几千年进化形成的价值函数, 自然无法和人真正的共情",
-        "link": "https://x.com/DoveyWanCN/status/1997203937431375916"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034266167242801335",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "Aster Chain 的首个合作伙伴：USD1🦅\n\nBSC 生态的老朋友了属于是，不意外；除了 USD1 可作为保证金 / 抵押品外，活动还包括\n\n▶︎ 针对 USD1 交易对发放激励，每月 250 万枚 WLFI\n▶︎ 既币安之后，在 Aster 持有 USD1 也有持仓奖励\n▶︎ Taker 手续费 0.5 bps，maker 则为 0 bps\n\n很老钱，没别的，就是撒币…",
-      "contentHtml": "Aster Chain 的首个合作伙伴：USD1🦅\n\nBSC 生态的老朋友了属于是，不意外；除了 USD1 可作为保证金 / 抵押品外，活动还包括\n\n▶︎ 针对 USD1 交易对发放激励，每月 250 万枚 WLFI\n▶︎ 既币安之后，在 Aster 持有 USD1 也有持仓奖励\n▶︎ Taker 手续费 0.5 bps，maker 则为 0 bps\n\n很老钱，没别的，就是撒币…",
-      "publishedAt": "2026-03-18T13:50:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2034266167242801335",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDsqQdka8AAoxSM.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034265166217642245",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "好骂 绝世好骂 \n所有不遵守纪律抱有幻想的人都会得到它应有的惩罚",
-      "contentHtml": "好骂 绝世好骂 \n所有不遵守纪律抱有幻想的人都会得到它应有的惩罚",
-      "publishedAt": "2026-03-18T13:46:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2034265166217642245",
-      "quote": {
-        "username": "theold1926",
-        "displayName": "欧德曼",
-        "content": "同时违背了老师只做龙头不做补涨和做不成xxx币安就不用干了两项原则",
-        "link": "https://x.com/theold1926/status/2033908146557882668"
       },
       "stats": {
         "replies": 0,
