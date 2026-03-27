@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T07:41:12.182Z",
+  "lastUpdated": "2026-03-27T08:05:38.775Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 501,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 523,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -2277,6 +2277,25 @@
       }
     },
     {
+      "id": "2036694843121099068",
+      "username": "CMGS1988",
+      "displayName": "CMGS",
+      "avatar": "https://nitter.net/pic/profile_images%2F1620065651552567299%2FjsDz8bjQ_bigger.jpg",
+      "content": "写得差不多了，可以拿过去玩玩，回头有时间把 gemini 和 codex 接进去，前端的话目前只会有 wechat，只要命令行 setup 一次，后续加别人可以用 /share 命令，全家老小一起用一个套餐哈哈哈哈…runtime 目前是 tmux，接我的 cocoon 也不是不行，但明天开大米了，要冲层了…github.com/CMGS/gua",
+      "contentHtml": "写得差不多了，可以拿过去玩玩，回头有时间把 gemini 和 codex 接进去，前端的话目前只会有 wechat，只要命令行 setup 一次，后续加别人可以用 /share 命令，全家老小一起用一个套餐哈哈哈哈…runtime 目前是 tmux，接我的 cocoon 也不是不行，但明天开大米了，要冲层了…<a href=\"https://github.com/CMGS/gua\">github.com/CMGS/gua</a>",
+      "publishedAt": "2026-03-25T06:41:00.000Z",
+      "link": "https://x.com/CMGS1988/status/2036694843121099068",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2036692132400865365",
       "username": "Murphychen888",
       "displayName": "Murphy",
@@ -3491,6 +3510,31 @@
       }
     },
     {
+      "id": "2036343520680878234",
+      "username": "DIYgod",
+      "displayName": "DIŸgöd ☀️",
+      "avatar": "https://nitter.net/pic/profile_images%2F1628393369029181440%2Fr23HDDJk_bigger.jpg",
+      "content": "Autoresearch 这种 修改 -> 评估 -> 保留/舍弃 -> 修改... 无限循环迭代的思路太好用了，终于可以实现让 Codex 无人值守 24 小时不停工作了，就是 token 消耗太恐怖了，试了下只是跑 2 个循环任务，4 个 Pro 账号是不够用的",
+      "contentHtml": "Autoresearch 这种 修改 -&gt; 评估 -&gt; 保留/舍弃 -&gt; 修改... 无限循环迭代的思路太好用了，终于可以实现让 Codex 无人值守 24 小时不停工作了，就是 token 消耗太恐怖了，试了下只是跑 2 个循环任务，4 个 Pro 账号是不够用的",
+      "publishedAt": "2026-03-24T07:25:00.000Z",
+      "link": "https://x.com/DIYgod/status/2036343520680878234",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEKJXQObkAAQ5dY.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2036338669297320221",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -3536,6 +3580,25 @@
       "contentHtml": "在这个寒冷的冬天，大家都意识到了，原来自己才是毛，原来自己才是区块链诈骗的终章。\n有点想 vibe一个网站，主要就是回溯作恶项目和团队成员，总结特像，给还没TGE的项目做反撸评级。\n但转念一想，区块链项目方不是全员恶人吗，工作量有点过大了。",
       "publishedAt": "2026-03-24T06:05:00.000Z",
       "link": "https://x.com/daidaibtc/status/2036323525259317331",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036318178092130655",
+      "username": "aliez_ren",
+      "displayName": "Aliez Ren",
+      "avatar": "https://nitter.net/pic/profile_images%2F2032458974470262785%2FECR72V3E_bigger.jpg",
+      "content": "x.com/i/article/203628332988…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2036283329889054720\">x.com/i/article/203628332988…</a>",
+      "publishedAt": "2026-03-24T05:44:00.000Z",
+      "link": "https://x.com/aliez_ren/status/2036318178092130655",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11879,91 +11942,6 @@
       "contentHtml": "美国已经再一次掉入中东泥潭\n如果现在美国说撤军 以色列就没了\n如果川普继续打下去 川普中期选举就没了",
       "publishedAt": "2026-03-18T21:28:00.000Z",
       "link": "https://x.com/hazenlee/status/2034381461193626020",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034372642883391651",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "这盛世如你所愿",
-      "contentHtml": "这盛世如你所愿",
-      "publishedAt": "2026-03-18T20:53:00.000Z",
-      "link": "https://x.com/hazenlee/status/2034372642883391651",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHDuLIUeXIAA44uQ.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "麻烦这个剧本 谢谢",
-        "link": "https://x.com/hazenlee/status/2017064442916458912",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG_4NavRbUAU_WVE.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034371232842272959",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2007078627876421632%2FTpq7agFk_bigger.jpg",
-      "content": "别慌，会更糟",
-      "contentHtml": "别慌，会更糟",
-      "publishedAt": "2026-03-18T20:47:00.000Z",
-      "link": "https://x.com/hazenlee/status/2034371232842272959",
-      "quote": {
-        "username": "WatcherGuru",
-        "displayName": "Watcher.Guru",
-        "content": "JUST IN: $820,000,000,000 wiped out from the US stock market today.\n\n$120,000,000,000 wiped out from the crypto market cap.",
-        "link": "https://x.com/WatcherGuru/status/2034371124583190841",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDuJwAnXIAA7Rvr.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDuJwAoXYAAl_Ot.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034270680762708311",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "镜像一下也成立, 只擅长和机器/代码/软件/数字 交互的会最快被取代. 程序员第一批次, 然后现阶段大量的白领其实就是用软件的人, 人肉API, 而且只会被动回复prompt,  所以被取代也很合理. 未来是巨大的K形曲线分布, 中间态不存在",
-      "contentHtml": "镜像一下也成立, 只擅长和机器/代码/软件/数字 交互的会最快被取代. 程序员第一批次, 然后现阶段大量的白领其实就是用软件的人, 人肉API, 而且只会被动回复prompt,  所以被取代也很合理. 未来是巨大的K形曲线分布, 中间态不存在",
-      "publishedAt": "2026-03-18T14:08:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2034270680762708311",
-      "quote": {
-        "username": "DoveyWanCN",
-        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-        "content": "能处理复杂关系的人不会被ai替代, 在很长的未来都会是这样. 因为情绪, 价值体系, 自我认知 (self awareness), 身份认同 (identity orientation) 等等是人之所以为人的内在价值函数, ai缺乏这种可以追溯到几千年进化形成的价值函数, 自然无法和人真正的共情",
-        "link": "https://x.com/DoveyWanCN/status/1997203937431375916"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
