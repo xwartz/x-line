@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T01:36:21.424Z",
+  "lastUpdated": "2026-03-28T02:39:20.620Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -94,6 +94,21 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2037717132121899441",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n之前提到 Toki 日历还不够智能，丢失了上下文，于是很简单手搓一个：\n\n1️⃣ 在 Google Cloud Console 创建项目，启用 Calendar API 和 Gmail API\n2️⃣ 在本机安装 gws CLI 并做好授权和配置\n3️⃣ 写一个 Skill 文件，告诉 AI 怎么用 gws 命令操作你的日历——查日程、建事件、删事件、扫邮件的指令映射全写进去\n4️⃣ 后续通过 Chat 直接输出需求即可，遇到不顺利的地方还可以让 AI 自己进化 Skills\n\n好处有：\n\n1️⃣ 项目都是自己创建的，不担心泄露邮件和日历。上下文更多，因此更强\n2️⃣ 通用可迁移，永远使用最新的 AI 模型和客户端工具\n3️⃣ 免费\n\n以上提到的全部流程，都只使用了 Alma 一个工具。\n\n甚至你复制这段文本给你的 AI 也能搞定😉",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n之前提到 Toki 日历还不够智能，丢失了上下文，于是很简单手搓一个：\n\n1️⃣ 在 Google Cloud Console 创建项目，启用 Calendar API 和 Gmail API\n2️⃣ 在本机安装 gws CLI 并做好授权和配置\n3️⃣ 写一个 Skill 文件，告诉 AI 怎么用 gws 命令操作你的日历——查日程、建事件、删事件、扫邮件的指令映射全写进去\n4️⃣ 后续通过 Chat 直接输出需求即可，遇到不顺利的地方还可以让 AI 自己进化 Skills\n\n好处有：\n\n1️⃣ 项目都是自己创建的，不担心泄露邮件和日历。上下文更多，因此更强\n2️⃣ 通用可迁移，永远使用最新的 AI 模型和客户端工具\n3️⃣ 免费\n\n以上提到的全部流程，都只使用了 Alma 一个工具。\n\n甚至你复制这段文本给你的 AI 也能搞定😉",
+      "publishedAt": "2026-03-28T02:23:00.000Z",
+      "link": "https://x.com/taresky/status/2037717132121899441",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2037702528935333989",
       "username": "ai_9684xtpa",
@@ -11825,21 +11840,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034613917482434851",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "10分钟后直播   我拉个💩先",
-      "contentHtml": "10分钟后直播   我拉个💩先",
-      "publishedAt": "2026-03-19T12:52:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2034613917482434851",
       "stats": {
         "replies": 0,
         "retweets": 0,
