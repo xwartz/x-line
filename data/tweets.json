@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T10:10:49.445Z",
+  "lastUpdated": "2026-03-28T10:26:12.747Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 525,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 506,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2037837510416777691",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "在昨天的下跌中，实体调整后的已实现亏损（EARL）为562M。亏损盘的规模并不大，说明这不是恐慌情绪的再次释放，毕竟就在不久之前（2月5日）已经有过一次天量级的恐慌盘出清（EARL：2.9B）。\n\n只要不是极端的意外事件，那么现在大概就处于天量出清后“卖无可卖”的阶段。只不过流动性枯竭，风吹草动都会让价格变得更加敏感。\n\n回看上轮周期，EARL在500M左右，大致就等等同于22年7月-11月的时间段（悲观情绪下产生的实现亏损的美元价值接近）。同样也是在7月初出现过一波天量级的恐慌盘出清（Luna暴露，EARL：2.7B）。\n\n因此，我们可以沿用这个逻辑继续观察：如果此后BTC出现更低的价格，但EARL并未创出新高，那么就是一个比较清晰的见底信号。\n\n----------------------------------\n\n备注：EARL剔除了同一实体集群内地址互相之间的链上转账，即“内部互转”不会产生任何价值。",
+      "contentHtml": "在昨天的下跌中，实体调整后的已实现亏损（EARL）为562M。亏损盘的规模并不大，说明这不是恐慌情绪的再次释放，毕竟就在不久之前（2月5日）已经有过一次天量级的恐慌盘出清（EARL：2.9B）。\n\n只要不是极端的意外事件，那么现在大概就处于天量出清后“卖无可卖”的阶段。只不过流动性枯竭，风吹草动都会让价格变得更加敏感。\n\n回看上轮周期，EARL在500M左右，大致就等等同于22年7月-11月的时间段（悲观情绪下产生的实现亏损的美元价值接近）。同样也是在7月初出现过一波天量级的恐慌盘出清（Luna暴露，EARL：2.7B）。\n\n因此，我们可以沿用这个逻辑继续观察：如果此后BTC出现更低的价格，但EARL并未创出新高，那么就是一个比较清晰的见底信号。\n\n----------------------------------\n\n备注：EARL剔除了同一实体集群内地址互相之间的链上转账，即“内部互转”不会产生任何价值。",
+      "publishedAt": "2026-03-28T10:21:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2037837510416777691",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEfZaZ6bQAErVxb.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "Glassnode 官方研究团队推荐关注这个指标 —— BTC已实现盈亏比（90日均值）；既然用了大级别平滑参数，指标就变得不敏感，因此不会受到某一天的数据干扰。但是，一旦形成趋势，同样也不会在短期内改变/反转。\n\n已实现盈亏比是衡量每亏损1美元所带来的平均已实现利润，来反映资本流动动态。因此官方将其作为市场流动性的指标。当跌至1以下区间（红色部分），说明此时已实现亏损开始占据主导。市场完全失去了盈利能力，资金流转严重受限。\n\n纵观历史，熊市底部往往都出现在指标进入红色区域后。也就是说，到此位置前面该跌的都跌完了，就差“最后一哆嗦”了。同时，一旦进入红色区短期内不可能马上转出来；在过往周期最长用了12个月，最短用时8个月。\n\n然而一旦指标重新回到1以上（绿色区），意味着熊市结束，这里也是牛市开启前最后一次右侧加仓的机会。\n\n所以，从交易的层面来看，我们完全不用担心踏空，即便没有抄到最底部，还有右侧上车的机会。拉长时间，到下一个顶部再回看，不会损失多少利润空间，且确定性更高。",
+        "link": "https://x.com/Murphychen888/status/2036288469564113066",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHEJZKNhaIAEzpRy.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2037831095073534280",
       "username": "deng_mr33656",
@@ -3722,25 +3755,6 @@
       }
     },
     {
-      "id": "2036694843121099068",
-      "username": "CMGS1988",
-      "displayName": "CMGS",
-      "avatar": "https://nitter.net/pic/profile_images%2F1620065651552567299%2FjsDz8bjQ_bigger.jpg",
-      "content": "写得差不多了，可以拿过去玩玩，回头有时间把 gemini 和 codex 接进去，前端的话目前只会有 wechat，只要命令行 setup 一次，后续加别人可以用 /share 命令，全家老小一起用一个套餐哈哈哈哈…runtime 目前是 tmux，接我的 cocoon 也不是不行，但明天开大米了，要冲层了…github.com/CMGS/gua",
-      "contentHtml": "写得差不多了，可以拿过去玩玩，回头有时间把 gemini 和 codex 接进去，前端的话目前只会有 wechat，只要命令行 setup 一次，后续加别人可以用 /share 命令，全家老小一起用一个套餐哈哈哈哈…runtime 目前是 tmux，接我的 cocoon 也不是不行，但明天开大米了，要冲层了…<a href=\"https://github.com/CMGS/gua\">github.com/CMGS/gua</a>",
-      "publishedAt": "2026-03-25T06:41:00.000Z",
-      "link": "https://x.com/CMGS1988/status/2036694843121099068",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2036692132400865365",
       "username": "Murphychen888",
       "displayName": "Murphy",
@@ -4955,31 +4969,6 @@
       }
     },
     {
-      "id": "2036343520680878234",
-      "username": "DIYgod",
-      "displayName": "DIŸgöd ☀️",
-      "avatar": "https://nitter.net/pic/profile_images%2F1628393369029181440%2Fr23HDDJk_bigger.jpg",
-      "content": "Autoresearch 这种 修改 -> 评估 -> 保留/舍弃 -> 修改... 无限循环迭代的思路太好用了，终于可以实现让 Codex 无人值守 24 小时不停工作了，就是 token 消耗太恐怖了，试了下只是跑 2 个循环任务，4 个 Pro 账号是不够用的",
-      "contentHtml": "Autoresearch 这种 修改 -&gt; 评估 -&gt; 保留/舍弃 -&gt; 修改... 无限循环迭代的思路太好用了，终于可以实现让 Codex 无人值守 24 小时不停工作了，就是 token 消耗太恐怖了，试了下只是跑 2 个循环任务，4 个 Pro 账号是不够用的",
-      "publishedAt": "2026-03-24T07:25:00.000Z",
-      "link": "https://x.com/DIYgod/status/2036343520680878234",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEKJXQObkAAQ5dY.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2036338669297320221",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -5025,25 +5014,6 @@
       "contentHtml": "在这个寒冷的冬天，大家都意识到了，原来自己才是毛，原来自己才是区块链诈骗的终章。\n有点想 vibe一个网站，主要就是回溯作恶项目和团队成员，总结特像，给还没TGE的项目做反撸评级。\n但转念一想，区块链项目方不是全员恶人吗，工作量有点过大了。",
       "publishedAt": "2026-03-24T06:05:00.000Z",
       "link": "https://x.com/daidaibtc/status/2036323525259317331",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036318178092130655",
-      "username": "aliez_ren",
-      "displayName": "Aliez Ren",
-      "avatar": "https://nitter.net/pic/profile_images%2F2032458974470262785%2FECR72V3E_bigger.jpg",
-      "content": "x.com/i/article/203628332988…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2036283329889054720\">x.com/i/article/203628332988…</a>",
-      "publishedAt": "2026-03-24T05:44:00.000Z",
-      "link": "https://x.com/aliez_ren/status/2036318178092130655",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11926,6 +11896,42 @@
       "contentHtml": "笑不活了\n\nTradfin: *TRUMP ASKED BY A REPORTER WHY JAPAN WAS NOT INFORMED ABOUT STARTING A WAR WITH IRAN\n\n*TRUMP: WHO KNOWS BETTER ABOUT SURPRISE THAN JAPAN, WHY DIDN'T YOU TELL ME ABOUT PEARL HARBOR?\n\nTradfin: *记者问特朗普，为何没有事先告知日本即将对伊朗开战\n\n*特朗普：还有谁比日本更懂得如何出其不意？为什么你们没告诉我珍珠港事件？\n\n————————————\n2026-03-20 00:15:37",
       "publishedAt": "2026-03-19T16:20:00.000Z",
       "link": "https://x.com/hazenlee/status/2034666367866282121",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034661804677509551",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "如果唯结局论。只要是定期锁死。回撤多少投资人都无所谓。\n那我也可以开，并且LP有多少，我自己加多少。LP有10M，我自己就上10M。\n那我现在就可以开个BTC基金，我也可以啊。反正赚钱抽水不就行了吗？亏钱我还一起亏呢，LP亏多少我亏多少，可以全链上操作。全公开。\n钱真就这么好赚的？做一个大概率对的事情不是很简单吗？我也买了Cr，但诚实的讲80我就卖完了。留了几万刀，120全卖了。\n我21到25，年最少收益也有30%。那我不是也可以无脑开了？但凡允许我黑盒不映射，我认真的思考了下还是敢保证7%➕，少了我可以自己补。\n我还是不能理解。没有针对谁，但实实在在的无法理解。我今天是喝了一点酒，但我真的理解不了。只要结果相对正确，回撤多少都无所谓也有受众？",
+      "contentHtml": "如果唯结局论。只要是定期锁死。回撤多少投资人都无所谓。\n那我也可以开，并且LP有多少，我自己加多少。LP有10M，我自己就上10M。\n那我现在就可以开个BTC基金，我也可以啊。反正赚钱抽水不就行了吗？亏钱我还一起亏呢，LP亏多少我亏多少，可以全链上操作。全公开。\n钱真就这么好赚的？做一个大概率对的事情不是很简单吗？我也买了Cr，但诚实的讲80我就卖完了。留了几万刀，120全卖了。\n我21到25，年最少收益也有30%。那我不是也可以无脑开了？但凡允许我黑盒不映射，我认真的思考了下还是敢保证7%➕，少了我可以自己补。\n我还是不能理解。没有针对谁，但实实在在的无法理解。我今天是喝了一点酒，但我真的理解不了。只要结果相对正确，回撤多少都无所谓也有受众？",
+      "publishedAt": "2026-03-19T16:02:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2034661804677509551",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2034658586115391807",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-03-19T15:49:00.000Z",
+      "link": "https://x.com/follow_clues/status/2034658586115391807",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHDyO_CIbQAAmXTt.jpg"
+        }
+      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
