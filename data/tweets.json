@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T08:00:14.312Z",
+  "lastUpdated": "2026-03-29T08:21:21.248Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 496,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 519,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -688,6 +688,25 @@
         "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
         "content": "In this decade people will be chasing: \n\nThe hardest money \n\nThe cheapest dopamine \n\nThe fastest info stream \n\nThe slowest aging \n\nTrends, narratives, values and cultures will be created from above fundamental drives",
         "link": "https://x.com/DoveyWan/status/1374390028218994688"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2037866170963931277",
+      "username": "dampedspring",
+      "displayName": "Andy Constan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1736879352908828672%2Fr0K5Sk55_bigger.jpg",
+      "content": "If you are persistently leveraged long assets above your risk target  you are doing it wrong and this month is a lesson.  Consider moving to your risk target \n\nIf you are perma bear and always underinvested and in cash you have been a failure and your career as in investor is your lesson\n\nIf you have been cautiously scaling out of stocks and bonds and are underweight, great job. BUT the only reason to have done that is to get back to target risk. You probably didn't call the top and you won't call the bottom. If you're comfortable deviating from your risk target modestly feel free to leverage a bit into a real decline.  Don't miss either side. \n\nIf you are always long beta at your risk target as a long term investor you are almost certainly NOT reading this and are out enjoying your life.  \n\nAlways own beta",
+      "contentHtml": "If you are persistently leveraged long assets above your risk target  you are doing it wrong and this month is a lesson.  Consider moving to your risk target \n\nIf you are perma bear and always underinvested and in cash you have been a failure and your career as in investor is your lesson\n\nIf you have been cautiously scaling out of stocks and bonds and are underweight, great job. BUT the only reason to have done that is to get back to target risk. You probably didn't call the top and you won't call the bottom. If you're comfortable deviating from your risk target modestly feel free to leverage a bit into a real decline.  Don't miss either side. \n\nIf you are always long beta at your risk target as a long term investor you are almost certainly NOT reading this and are out enjoying your life.  \n\nAlways own beta",
+      "publishedAt": "2026-03-28T12:15:00.000Z",
+      "link": "https://x.com/dampedspring/status/2037866170963931277",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
       },
       "stats": {
         "replies": 0,
@@ -11823,27 +11842,6 @@
       "contentHtml": "其实我发现有好多人还在推okx usdg 4%的年化，明明有很多更好的选择，是因为广吗，还是合作？现在这行情，不应该信息差到这种程度啊🤔",
       "publishedAt": "2026-03-20T09:03:00.000Z",
       "link": "https://x.com/0xleng1/status/2034918684431716477",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034913511445516451",
-      "username": "JoshuaDeuk",
-      "displayName": "Joshua | MOZAIK 🇰🇷",
-      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
-      "content": "The sooner you adopt, I think the upside gets bigger every day.",
-      "contentHtml": "The sooner you adopt, I think the upside gets bigger every day.",
-      "publishedAt": "2026-03-20T08:42:00.000Z",
-      "link": "https://x.com/JoshuaDeuk/status/2034913511445516451",
-      "quote": {
-        "username": "cptn3mox",
-        "displayName": "cpt n3mo",
-        "content": "all these open source repos coming out are fantastic but ALWAYS run it through your agent before getting sold on its pros + it may not always work for your architecture\n\nfrom my agent on why NOT to adopt the whole thing:\n- early and not fully hardened.\n- had a serious security bug on 28 Feb where importing a package could write files outside the expected directory\n- better suited for a single-agent or experimental setup than shared, security-sensitive infra\n\nyet, it has PROs:\n- stores context in layers (short, medium, full content - helps agent load only what it needs and saves tokens)\n- keeps track of how context was retrieved (makes debugging easier when agent uses the wrong memory or misses something)\n- supports writing back useful memories after a task finishes\n\nfrom there, your agent should extract what it can \"steal\" from the repo, which best suits your setup.",
-        "link": "https://x.com/cptn3mox/status/2034912886276161845"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
