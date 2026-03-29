@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T00:49:57.489Z",
+  "lastUpdated": "2026-03-29T01:35:54.049Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 500,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 521,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -4057,6 +4057,25 @@
       }
     },
     {
+      "id": "2036694843121099068",
+      "username": "CMGS1988",
+      "displayName": "CMGS",
+      "avatar": "https://nitter.net/pic/profile_images%2F1620065651552567299%2FjsDz8bjQ_bigger.jpg",
+      "content": "写得差不多了，可以拿过去玩玩，回头有时间把 gemini 和 codex 接进去，前端的话目前只会有 wechat，只要命令行 setup 一次，后续加别人可以用 /share 命令，全家老小一起用一个套餐哈哈哈哈…runtime 目前是 tmux，接我的 cocoon 也不是不行，但明天开大米了，要冲层了…github.com/CMGS/gua",
+      "contentHtml": "写得差不多了，可以拿过去玩玩，回头有时间把 gemini 和 codex 接进去，前端的话目前只会有 wechat，只要命令行 setup 一次，后续加别人可以用 /share 命令，全家老小一起用一个套餐哈哈哈哈…runtime 目前是 tmux，接我的 cocoon 也不是不行，但明天开大米了，要冲层了…<a href=\"https://github.com/CMGS/gua\">github.com/CMGS/gua</a>",
+      "publishedAt": "2026-03-25T06:41:00.000Z",
+      "link": "https://x.com/CMGS1988/status/2036694843121099068",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2036692132400865365",
       "username": "Murphychen888",
       "displayName": "Murphy",
@@ -5271,6 +5290,31 @@
       }
     },
     {
+      "id": "2036343520680878234",
+      "username": "DIYgod",
+      "displayName": "DIŸgöd ☀️",
+      "avatar": "https://nitter.net/pic/profile_images%2F1628393369029181440%2Fr23HDDJk_bigger.jpg",
+      "content": "Autoresearch 这种 修改 -> 评估 -> 保留/舍弃 -> 修改... 无限循环迭代的思路太好用了，终于可以实现让 Codex 无人值守 24 小时不停工作了，就是 token 消耗太恐怖了，试了下只是跑 2 个循环任务，4 个 Pro 账号是不够用的",
+      "contentHtml": "Autoresearch 这种 修改 -&gt; 评估 -&gt; 保留/舍弃 -&gt; 修改... 无限循环迭代的思路太好用了，终于可以实现让 Codex 无人值守 24 小时不停工作了，就是 token 消耗太恐怖了，试了下只是跑 2 个循环任务，4 个 Pro 账号是不够用的",
+      "publishedAt": "2026-03-24T07:25:00.000Z",
+      "link": "https://x.com/DIYgod/status/2036343520680878234",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEKJXQObkAAQ5dY.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2036338669297320221",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -5316,6 +5360,25 @@
       "contentHtml": "在这个寒冷的冬天，大家都意识到了，原来自己才是毛，原来自己才是区块链诈骗的终章。\n有点想 vibe一个网站，主要就是回溯作恶项目和团队成员，总结特像，给还没TGE的项目做反撸评级。\n但转念一想，区块链项目方不是全员恶人吗，工作量有点过大了。",
       "publishedAt": "2026-03-24T06:05:00.000Z",
       "link": "https://x.com/daidaibtc/status/2036323525259317331",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036318178092130655",
+      "username": "aliez_ren",
+      "displayName": "Aliez Ren",
+      "avatar": "https://nitter.net/pic/profile_images%2F2032458974470262785%2FECR72V3E_bigger.jpg",
+      "content": "x.com/i/article/203628332988…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2036283329889054720\">x.com/i/article/203628332988…</a>",
+      "publishedAt": "2026-03-24T05:44:00.000Z",
+      "link": "https://x.com/aliez_ren/status/2036318178092130655",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11881,73 +11944,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHD0Q4cGaoAAY2wc.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034800573384405112",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "这个人在X上很火，聊的很多标的的确走很好，也少有踩坑的。\n很多标的我不懂所以不评价他对于标的理解的深度，但单就下面这个点评起码说明他在crcl v ma上不知道自己在说什么，9个月4300万的交易量和v ma完全不能比。\n我想提醒的是：\n1. 他聊的很多都是非常小的标的，KOL是可以带动小标的的，有些小公司都会给钱让人带货，几十亿市值的都有，不要问我怎么知道的\n2. 不可能有人天天给你一个新的标的去投资，所以不要被所谓的基本面忽悠了\n3. 小心小型的对冲基金和做空机构在背后，在你all in的时候给你当头一棒，常在河边走，哪有不湿鞋\n4. 我的建议是要跟这类的标的可以，日内，别过夜，任何单都带止损",
-      "contentHtml": "这个人在X上很火，聊的很多标的的确走很好，也少有踩坑的。\n很多标的我不懂所以不评价他对于标的理解的深度，但单就下面这个点评起码说明他在crcl v ma上不知道自己在说什么，9个月4300万的交易量和v ma完全不能比。\n我想提醒的是：\n1. 他聊的很多都是非常小的标的，KOL是可以带动小标的的，有些小公司都会给钱让人带货，几十亿市值的都有，不要问我怎么知道的\n2. 不可能有人天天给你一个新的标的去投资，所以不要被所谓的基本面忽悠了\n3. 小心小型的对冲基金和做空机构在背后，在你all in的时候给你当头一棒，常在河边走，哪有不湿鞋\n4. 我的建议是要跟这类的标的可以，日内，别过夜，任何单都带止损",
-      "publishedAt": "2026-03-20T01:13:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2034800573384405112",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD0QVsEWAAAxwhV.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034795327556132956",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "平空短多的时机还可以吧😈",
-      "contentHtml": "平空短多的时机还可以吧😈",
-      "publishedAt": "2026-03-20T00:53:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2034795327556132956",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD0LjtpboAAB1gm.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD0LjtpboAIq56-.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "直播过程中，平了90%的黄金白银空单\n\n等日线震一震，弹一弹，再空下一波",
-        "link": "https://x.com/Bitfatty/status/2034631856726147198"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034768526146158730",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "市场下跌，很多人说没有流动性了，真的吗？\nTGA账户一月底到现在是下降的，接下去会持续下降，因为退税季度已经打开\n年初开始美联储的小型\"QE\"就为了调节短债流动性\n同时财政部的回购调节债务久期结构\n巴塞尔协议马上对银行也要松绑，鼓励借贷\n年初就已经有了SLR对于银行持有美债的松绑\n拜托，流动性可不背这个锅",
-      "contentHtml": "市场下跌，很多人说没有流动性了，真的吗？\nTGA账户一月底到现在是下降的，接下去会持续下降，因为退税季度已经打开\n年初开始美联储的小型\"QE\"就为了调节短债流动性\n同时财政部的回购调节债务久期结构\n巴塞尔协议马上对银行也要松绑，鼓励借贷\n年初就已经有了SLR对于银行持有美债的松绑\n拜托，流动性可不背这个锅",
-      "publishedAt": "2026-03-19T23:06:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2034768526146158730",
       "stats": {
         "replies": 0,
         "retweets": 0,
