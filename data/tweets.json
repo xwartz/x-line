@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T07:09:30.667Z",
+  "lastUpdated": "2026-03-29T07:36:27.052Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,92 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
+    "newFetched": 520,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2038152255841689700",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "下山后的这周可能是除了CMU final之后我最认真(vibe) coding的一周.. 😂 下周要出去吸吸人气了..",
+      "contentHtml": "下山后的这周可能是除了CMU final之后我最认真(vibe) coding的一周.. 😂 下周要出去吸吸人气了..",
+      "publishedAt": "2026-03-29T07:12:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2038152255841689700",
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "美好的雪季结束了. 8月份新西兰见!",
+        "link": "https://x.com/DoveyWanCN/status/2035579963207016559",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHD_VEIRbkAAFh8x.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038151736804962470",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "和non admin人类直聊的agent现在研究下来最安全的做法还是dockerization + relay, 上线之前疯狂让另外个agent社工测试哈哈哈\n\n我现在的setup是debris messaging relay, frontline agent is only the messenger > relay everything from human group to the local master brain agent > frontline 有個routing classifier and guardrails > 然後brain在回复之前也会做sanitization.",
+      "contentHtml": "和non admin人类直聊的agent现在研究下来最安全的做法还是dockerization + relay, 上线之前疯狂让另外个agent社工测试哈哈哈\n\n我现在的setup是debris messaging relay, frontline agent is only the messenger &gt; relay everything from human group to the local master brain agent &gt; frontline 有個routing classifier and guardrails &gt; 然後brain在回复之前也会做sanitization.",
+      "publishedAt": "2026-03-29T07:10:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2038151736804962470",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEj3qQea0AAy_y_.png"
+        }
+      ],
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "agent时代的dev ops真的太难了, 原来压根没做过. 昨天折腾了一个晚上怎么让我们公司里的agents在和saas交互的时候有足够的自由度又会不会瞎搞.. 思路就是搭三层, 类似大公司需要有个内网, 网关去监控异常流量/放行，员工办公需要先连上内网.. 管agent和管人真的很不一样",
+        "link": "https://x.com/DoveyWanCN/status/2037387825394647372",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHEZAvOqaYAA8psK.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038151628621230114",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "酒店偶遇美国大兵\n全都在调集去中东\n目测美国会输 美军现在全是DEI和歪瓜裂枣\n男大哥女大姐 行李比人都壮🤣\n图片的是以前的老长官 唯一一个能看的\n新兵真完犊子啦",
+      "contentHtml": "酒店偶遇美国大兵\n全都在调集去中东\n目测美国会输 美军现在全是DEI和歪瓜裂枣\n男大哥女大姐 行李比人都壮🤣\n图片的是以前的老长官 唯一一个能看的\n新兵真完犊子啦",
+      "publishedAt": "2026-03-29T07:09:00.000Z",
+      "link": "https://x.com/hazenlee/status/2038151628621230114",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEj3tuVboAAOYuC.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2038151211636170891",
       "username": "hazenlee",
@@ -11765,69 +11846,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034883045577433260",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "现在是 ai 的时代\nai 这么牛逼\n你把 ai 运用地这么娴熟\n\n你怎么还在卖课啊？",
-      "contentHtml": "现在是 ai 的时代\nai 这么牛逼\n你把 ai 运用地这么娴熟\n\n你怎么还在卖课啊？",
-      "publishedAt": "2026-03-20T06:41:00.000Z",
-      "link": "https://x.com/taresky/status/2034883045577433260",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034878402516459619",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "【四年周期总刻系列（24）】\n\n2014年红线死叉蓝线，182天 后到熊底\n2018年红线死叉蓝线，128天 后到熊底\n2022年红线死叉蓝线，160天 后到熊底\n\n当前距离红线死叉蓝线还差 5899刀\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中灰线为 #BTC 价格；红线为比特币短期持有者平均购币成本 (Short-Term Holder Realized Price)；蓝线为比特币真实市场平均购币成本 (True Market Mean Price)\n\n比特币短期持有者平均购币成本，计算的是短期持有者（Short-Term Holders，通常定义为持有比特币少于 155 天、最近链上移动的币）所持有筹码的平均购入成本。反映了近期市场新入场者（常被称为“弱手”或活跃交易者）的平均购币成本\n\n比特币真实市场平均购币成本，也被称为“活跃投资者价格”。它不是简单所有币的平均实现价格，而是专门针对二级市场活跃交易的币：计算公式为 Investor Cap（投资者市值，排除掉矿工挖出但没有进入二级市场交易的比特币）除以 Active Supply（时间加权活跃供应量，剔除长期休眠和丢失币）。反映了：市场中真正活跃投资者（排除矿工新铸币、丢失币和长期不动仓）的真实平均购币成本，被视为最接近“市场真实均值”的聚合购币成本模型\n\n短期持有者平均购币成本聚焦“短期、敏感群体”的成本，适合短线情绪和支撑/压力判断；真实市场平均购币成本聚焦“全市场活跃投资者”的真实均值，适合中长线趋势和牛熊分界判断\n\n两者结合使用，能更全面地理解比特币不同持有者群体的成本结构和市场长短期趋势",
-      "contentHtml": "【四年周期总刻系列（24）】\n\n2014年红线死叉蓝线，182天 后到熊底\n2018年红线死叉蓝线，128天 后到熊底\n2022年红线死叉蓝线，160天 后到熊底\n\n当前距离红线死叉蓝线还差 5899刀\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中灰线为 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 价格；红线为比特币短期持有者平均购币成本 (Short-Term Holder Realized Price)；蓝线为比特币真实市场平均购币成本 (True Market Mean Price)\n\n比特币短期持有者平均购币成本，计算的是短期持有者（Short-Term Holders，通常定义为持有比特币少于 155 天、最近链上移动的币）所持有筹码的平均购入成本。反映了近期市场新入场者（常被称为“弱手”或活跃交易者）的平均购币成本\n\n比特币真实市场平均购币成本，也被称为“活跃投资者价格”。它不是简单所有币的平均实现价格，而是专门针对二级市场活跃交易的币：计算公式为 Investor Cap（投资者市值，排除掉矿工挖出但没有进入二级市场交易的比特币）除以 Active Supply（时间加权活跃供应量，剔除长期休眠和丢失币）。反映了：市场中真正活跃投资者（排除矿工新铸币、丢失币和长期不动仓）的真实平均购币成本，被视为最接近“市场真实均值”的聚合购币成本模型\n\n短期持有者平均购币成本聚焦“短期、敏感群体”的成本，适合短线情绪和支撑/压力判断；真实市场平均购币成本聚焦“全市场活跃投资者”的真实均值，适合中长线趋势和牛熊分界判断\n\n两者结合使用，能更全面地理解比特币不同持有者群体的成本结构和市场长短期趋势",
-      "publishedAt": "2026-03-20T06:23:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2034878402516459619",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD1VjSNboAE78w0.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【四年周期总刻系列（23）】\n\n历史上 #BTC 每轮熊市最后一跌前后，黑线均会依次下穿橙线、蓝线、绿线\n\n当前黑线已下穿橙线\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n黑线为链上持币0-10年投资者平均购币成本\n橙线为链上持币6个月-5年投资者平均购币成本\n蓝线为链上持币6个月-7年投资者平均购币成本\n绿线为链上持币6个月-10年投资者平均购币成本",
-        "link": "https://x.com/0xCryptoChan/status/2033373539106214133",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDf8zScacAApoj5.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034877399742169179",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "又抓到几个关注的推友转做营销号了。\n\n找 B 站抖音小红书的热门帖子和视频直接搬运，不留原链接。\n\n为的就是让他的推文获得更多留存时间。\n\n可能不好听，人穷志短，大概就是这个意思。\n\n以前推友可是最珍惜羽毛的那批人了。",
-      "contentHtml": "又抓到几个关注的推友转做营销号了。\n\n找 B 站抖音小红书的热门帖子和视频直接搬运，不留原链接。\n\n为的就是让他的推文获得更多留存时间。\n\n可能不好听，人穷志短，大概就是这个意思。\n\n以前推友可是最珍惜羽毛的那批人了。",
-      "publishedAt": "2026-03-20T06:19:00.000Z",
-      "link": "https://x.com/taresky/status/2034877399742169179",
       "stats": {
         "replies": 0,
         "retweets": 0,
