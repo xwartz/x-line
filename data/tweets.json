@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T05:35:51.891Z",
+  "lastUpdated": "2026-03-29T06:10:56.198Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 523,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 503,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2038135245179122162",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "个人觉得如果不是有足够的基础和经验，是完全没必要看到timeline上那些关于poly的量化套利等ai文就fomo的。可以说研究大多是在浪费时间。首先那些策略就没有有用的，即使少数有价值的要么过时，要么就是你完全看不懂（能力范围外的）。其次，你可能以为poly上傻逼很多，但实际上你的对手盘bot mm们大多又快又聪明，无脑冲进去你只会是他们的利。",
+      "contentHtml": "个人觉得如果不是有足够的基础和经验，是完全没必要看到timeline上那些关于poly的量化套利等ai文就fomo的。可以说研究大多是在浪费时间。首先那些策略就没有有用的，即使少数有价值的要么过时，要么就是你完全看不懂（能力范围外的）。其次，你可能以为poly上傻逼很多，但实际上你的对手盘bot mm们大多又快又聪明，无脑冲进去你只会是他们的利。",
+      "publishedAt": "2026-03-29T06:04:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2038135245179122162",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2038127346599985170",
       "username": "Murphychen888",
@@ -11813,43 +11828,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHD1Pvu9asAAnus-.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2034842837356093507",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "从“MVRV极端偏差模型”来看，目前BTC正在反复尝试突破绿线（-0.5 std）位置。纵观历史数据，在大级别下降趋势中，但凡是在关键区间上限遇阻，或反复遇阻，那接下来继续向下的概率更大（见图中红色箭头标注）。\n\n当然，时而也有“假突破”的事件发生。小级别要服从大级别，所以这里短线做多不能恋战，真正值得下重注的是大级别趋势行情。在此之前，如果能达到或靠近下方蓝线位置（目前在$51,000左右），那就完美了...... 直接甩杯，干他！",
-      "contentHtml": "从“MVRV极端偏差模型”来看，目前BTC正在反复尝试突破绿线（-0.5 std）位置。纵观历史数据，在大级别下降趋势中，但凡是在关键区间上限遇阻，或反复遇阻，那接下来继续向下的概率更大（见图中红色箭头标注）。\n\n当然，时而也有“假突破”的事件发生。小级别要服从大级别，所以这里短线做多不能恋战，真正值得下重注的是大级别趋势行情。在此之前，如果能达到或靠近下方蓝线位置（目前在$51,000左右），那就完美了...... 直接甩杯，干他！",
-      "publishedAt": "2026-03-20T04:01:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2034842837356093507",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD02SQHboAUgzaT.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "昨天在6.9平空并反手开多。原计划是拿到6.7w止盈，之所以提前平，是根据客观情况的变化做出的临时调整，主要有以下几点思考：\n\n1、20日之后，期权做市商GEX的Long Gamma结构几乎全部清除。比如3/21的$69,000，3/22的$70,000几乎清一色的Short Gamma；意味在短期内7.4w左右来自期权市场的阻力消除了。\n\n2、尤其是27日为季度期权行权日，OI和GEX规模庞大；因此，从21日至27日容易形成Gamma磁吸效应，即做市商买入/做多对冲Delta风险，将价格向$75,000方向推动。\n\n3、结合技术指标，底部红色信号代表4小时级别的“超卖”，等2根线发生底部交叉就是确认了短线趋势拐头。\n\n因此，这里平空并反手开多是综合了期权+技术指标的一次短线交易决策。结合GEX来看，如果继续下探到6.8w，会考虑再补一次；跌破6.6w止损（3/27的Long Gamma结构，有3亿美元的GEX）。\n\n止盈条件放在7.6-7.8w左右，并结合BRS信号，如果提前回归零轴，触发信号，也会提前止盈。\n\nps: 除了GEX，还要结合对应日期和位置的OI数据，以判断强度。图放不下就不放了，有兴趣的小伙伴可以自己查，都是公开数据。",
-        "link": "https://x.com/Murphychen888/status/2034828145745174693",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHD0oQZNboAAlSu_.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHD0oS1hboAEonrq.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
