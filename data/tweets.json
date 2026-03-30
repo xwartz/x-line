@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T09:49:19.954Z",
+  "lastUpdated": "2026-03-30T10:32:02.246Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,149 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 499,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 518,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2038561493973917959",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "每轮熊市BTC都会跌破挖矿成本价？\n\n根据数据统计，当前按$0.060/kWh的电费，功耗比为9.5w/TH的矿机关机价为 $29,115，所以本轮熊底会在3万美元以下？\n\n我认为这是一个熊市“路径预设”的误区。\n\n会不会低于挖矿成本价我不知道，但我知道“矿机关机价”≠“挖矿成本价”。\n\n小矿场的实际成本不好统计，但上市公司的财报和公告是透明的。\n\n我让AI跑了一下 Marathon、Riot、CleanSpark和Bitfarms 这4家上市矿企的数据，方法如下：\n\n1、根据财报将4家矿企的电费、人工、财务、折旧等成本占比分别是多少？\n2、4家矿企目前的主力矿机分别有哪些，占比多少？\n3、4家矿企公布的电费区间时多少？\n4、最后让AI根据不同矿机和不同电费计算出每挖1枚BTC的成本评估。\n\n🚩 结果显示：\n1、成本最高的是Riot：$63,971 -$73,109左右；\n2、成本最低的是CleanSpark：$53,468-$61,106左右。\n\n所以，如果“每轮熊市BTC都会跌破挖矿成本价”这个说法成立，那么现在就是熊底了！\n\n因为上市公司出人出钱出力，辛辛苦苦挖的币，还不如你在交易所用鼠标点一下。\n\n看到这里，你还觉得6w+的BTC很贵吗？",
+      "contentHtml": "每轮熊市BTC都会跌破挖矿成本价？\n\n根据数据统计，当前按$0.060/kWh的电费，功耗比为9.5w/TH的矿机关机价为 $29,115，所以本轮熊底会在3万美元以下？\n\n我认为这是一个熊市“路径预设”的误区。\n\n会不会低于挖矿成本价我不知道，但我知道“矿机关机价”≠“挖矿成本价”。\n\n小矿场的实际成本不好统计，但上市公司的财报和公告是透明的。\n\n我让AI跑了一下 Marathon、Riot、CleanSpark和Bitfarms 这4家上市矿企的数据，方法如下：\n\n1、根据财报将4家矿企的电费、人工、财务、折旧等成本占比分别是多少？\n2、4家矿企目前的主力矿机分别有哪些，占比多少？\n3、4家矿企公布的电费区间时多少？\n4、最后让AI根据不同矿机和不同电费计算出每挖1枚BTC的成本评估。\n\n🚩 结果显示：\n1、成本最高的是Riot：$63,971 -$73,109左右；\n2、成本最低的是CleanSpark：$53,468-$61,106左右。\n\n所以，如果“每轮熊市BTC都会跌破挖矿成本价”这个说法成立，那么现在就是熊底了！\n\n因为上市公司出人出钱出力，辛辛苦苦挖的币，还不如你在交易所用鼠标点一下。\n\n看到这里，你还觉得6w+的BTC很贵吗？",
+      "publishedAt": "2026-03-30T10:18:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2038561493973917959",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEpsdq6boAEif9e.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEpss73bcAAoq-o.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038560360605548630",
+      "username": "IManghaila",
+      "displayName": "MARKET INSIGHTS!",
+      "avatar": "https://nitter.net/pic/profile_images%2F1724829421209628672%2F69BX6cFI_bigger.jpg",
+      "content": "“Markets are never wrong—opinions often are.”",
+      "contentHtml": "“Markets are never wrong—opinions often are.”",
+      "publishedAt": "2026-03-30T10:13:00.000Z",
+      "link": "https://x.com/IManghaila/status/2038560360605548630",
+      "retweet": {
+        "username": "CycleStudies",
+        "displayName": "百萬Eric | Day Trader"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038559412630204612",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "Binance公告后，OI紧箍咒上线了\n\n单个账户/单个用户在单个合约的持仓名义价值、OI比例未来将将受到限制",
+      "contentHtml": "Binance公告后，OI紧箍咒上线了\n\n单个账户/单个用户在单个合约的持仓名义价值、OI比例未来将将受到限制",
+      "publishedAt": "2026-03-30T10:10:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2038559412630204612",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEpq-nHaIAA48kG.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEpq-nIaQAAQuJV.jpg"
+        }
+      ],
+      "quote": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧",
+        "content": "大家更希望做到什么程度🤔？不同风险偏好的用户可能会有不同的答案\n\n激进：让主动型mm和项目方都退出市场，之后只留下被动提供流动性的mm和中高市值\n\n折中：用户层面的OI限制，合约整体的OI限制，提示OI/市值的比例，提示该合约的逼仓风险\n\n保守：降低杠杆，降低波动率",
+        "link": "https://x.com/OwenJin12/status/2037126038078316712"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038559221151879281",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "咱这么多年，也没用过你们家啊……",
+      "contentHtml": "咱这么多年，也没用过你们家啊……",
+      "publishedAt": "2026-03-30T10:09:00.000Z",
+      "link": "https://x.com/taresky/status/2038559221151879281",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEpqzqXbsAAWIR_.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038559120488628427",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "「我从不会输，要么赢，要么爆仓」\n\n麻吉和懂王或许可以成为好朋友😬",
+      "contentHtml": "「我从不会输，要么赢，要么爆仓」\n\n麻吉和懂王或许可以成为好朋友😬",
+      "publishedAt": "2026-03-30T10:09:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2038559120488628427",
+      "quote": {
+        "username": "machibigbrother",
+        "displayName": "Machi Big Brother",
+        "content": "I never lose. I always win or get liquidated. $MACHI",
+        "link": "https://x.com/machibigbrother/status/2038471533879013799"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038556917912797457",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "数字黄金（PAXG & XAUT）的 24 小时交易量仍然维持在代币 TOP10👩‍💻\n\n地址 0x3Cc….D87Cf 时隔一个月再次开启黄金波段，于 3 小时前从 #Binance 提出 586 枚 PAXG（266 万美元），本轮波段共囤积价值 338.8 万美元的代币，均价 $4684；上一轮价值 684 万美元的波段最终亏损了 26.7 万美元\n\n钱包地址 0x3Cc5e0388Ecbdc77cD42655129ede0253d4D87Cf\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
+      "contentHtml": "数字黄金（PAXG & XAUT）的 24 小时交易量仍然维持在代币 TOP10👩‍💻\n\n地址 0x3Cc….D87Cf 时隔一个月再次开启黄金波段，于 3 小时前从 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 提出 586 枚 PAXG（266 万美元），本轮波段共囤积价值 338.8 万美元的代币，均价 $4684；上一轮价值 684 万美元的波段最终亏损了 26.7 万美元\n\n钱包地址 0x3Cc5e0388Ecbdc77cD42655129ede0253d4D87Cf\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
+      "publishedAt": "2026-03-30T10:00:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2038556917912797457",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEpos8AakAA_EHQ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2038540137798488574",
       "username": "CycleStudies",
@@ -262,6 +400,31 @@
       "contentHtml": "体验了一把  中医的“放血”\n\n🫩真空罐子把背上的肉吸起来一坨\n然后针快速刺几下\n然后又用真空罐子继续吸   吸出一滩血\n\n大概10个罐子吸背上   \n\n真tm刺激啊   \n图就免了😅",
       "publishedAt": "2026-03-30T06:46:00.000Z",
       "link": "https://x.com/Bitfatty/status/2038508178753954273",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038504584096997611",
+      "username": "pearbinance",
+      "displayName": "梨子酱 🔶 BNB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1927019483803070464%2FZ7jVikrc_bigger.jpg",
+      "content": "谢谢老师的分享，说出了很多我们想说但不方便说的话🙏\n\n很多人不知道，币安的风控和合规团队是行业里投入最大的之一。我们和全球执法机构合作，协助追回了数十亿美元的涉案资金。这些事不会上热搜，但确实在发生。\n\n风控其实不是为了为难谁，是为了让这个行业能走得更远。短期可能有人不理解，但长期来看，一个安全的交易环境对每个人都有好处。\n作为全球最大的加密货币交易平台，我们理应用更高的标准规范自身，这是我们的责任。我们也会继续做难而正确的事💪💪",
+      "contentHtml": "谢谢老师的分享，说出了很多我们想说但不方便说的话🙏\n\n很多人不知道，币安的风控和合规团队是行业里投入最大的之一。我们和全球执法机构合作，协助追回了数十亿美元的涉案资金。这些事不会上热搜，但确实在发生。\n\n风控其实不是为了为难谁，是为了让这个行业能走得更远。短期可能有人不理解，但长期来看，一个安全的交易环境对每个人都有好处。\n作为全球最大的加密货币交易平台，我们理应用更高的标准规范自身，这是我们的责任。我们也会继续做难而正确的事💪💪",
+      "publishedAt": "2026-03-30T06:32:00.000Z",
+      "link": "https://x.com/pearbinance/status/2038504584096997611",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
+      "quote": {
+        "username": "aoke_quant",
+        "displayName": "Aoke Quant 奥克队长🚩ΙΧΘΥΣ",
+        "content": "恕我直言，被币安封号的，99.99% 都不是无辜的。\n\n以前也帮几个封号的用户反馈给币安解封的问题，跟币安的同学交涉了几个来回。结果币安给我反馈的信息和用户反馈给我的信息完全不符。\n\n用户反馈给我的信息只说对他被封号怎么惨，比如说很着急，没生活费，等着看病等等... \n\n实际上被封号的用户自己是清楚做了违规的事情，但是想试着看能不能解封掉，结果就是我被当枪使🤡\n\n所以，以后凡是有人找我推进解封币安账号的问题全部回复让他们自己联系客服。封了号的，肯定是有原因的，而且最后资金肯定不会不让提现的。\n\n想起当年孙割的 huobi上线 Pi 币。我们团队开盘以第二名 0.02的价格买进去，最高涨到 300 多刀，然后被孙割封号，辛亏盈利和本金提前出来了。第一名买进去的朋友也提前跑了，提到了币安，结果孙割追到币安封人家号。不过，经过向币安的申诉反馈，不到半天就解封了。\n\n币安可能会误封好人，但一定不会放过坏蛋。",
+        "link": "https://x.com/aoke_quant/status/2038433175182143744"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -6834,31 +6997,6 @@
       }
     },
     {
-      "id": "2036343520680878234",
-      "username": "DIYgod",
-      "displayName": "DIŸgöd ☀️",
-      "avatar": "https://nitter.net/pic/profile_images%2F1628393369029181440%2Fr23HDDJk_bigger.jpg",
-      "content": "Autoresearch 这种 修改 -> 评估 -> 保留/舍弃 -> 修改... 无限循环迭代的思路太好用了，终于可以实现让 Codex 无人值守 24 小时不停工作了，就是 token 消耗太恐怖了，试了下只是跑 2 个循环任务，4 个 Pro 账号是不够用的",
-      "contentHtml": "Autoresearch 这种 修改 -&gt; 评估 -&gt; 保留/舍弃 -&gt; 修改... 无限循环迭代的思路太好用了，终于可以实现让 Codex 无人值守 24 小时不停工作了，就是 token 消耗太恐怖了，试了下只是跑 2 个循环任务，4 个 Pro 账号是不够用的",
-      "publishedAt": "2026-03-24T07:25:00.000Z",
-      "link": "https://x.com/DIYgod/status/2036343520680878234",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEKJXQObkAAQ5dY.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2036338669297320221",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -11729,172 +11867,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FGQWwZkBaEAAGGHo.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035265176396865770",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "现在，对于有严重财务压力的个人或机构投资者来说，大饼每反弹1000美元都是一种煎熬。相当于市场在给你出选择题：给机会了，卖不卖吧？\n\n卖了，就是往自己身上递刀子；不卖，后面还可能再给你来个更狠的…… 没经历过，很难感同身受这种痛苦。\n\n正因如此，往往到了熊市的后半程，会出现意想不到的黑天鹅，因为大家都熬不住了。由一小波恐慌和焦虑，引发更大范围更深层次的亏损和清算。\n\n当然，你也可以认为，这才是见底信号。\n\n看到有小伙伴说也可能是套利单。确实，不排除这种可能，但从目前3个月滚动基差年化收益来看，要小于同期美国国债收益，大资金套利的条件并不够充分。",
-      "contentHtml": "现在，对于有严重财务压力的个人或机构投资者来说，大饼每反弹1000美元都是一种煎熬。相当于市场在给你出选择题：给机会了，卖不卖吧？\n\n卖了，就是往自己身上递刀子；不卖，后面还可能再给你来个更狠的…… 没经历过，很难感同身受这种痛苦。\n\n正因如此，往往到了熊市的后半程，会出现意想不到的黑天鹅，因为大家都熬不住了。由一小波恐慌和焦虑，引发更大范围更深层次的亏损和清算。\n\n当然，你也可以认为，这才是见底信号。\n\n看到有小伙伴说也可能是套利单。确实，不排除这种可能，但从目前3个月滚动基差年化收益来看，要小于同期美国国债收益，大资金套利的条件并不够充分。",
-      "publishedAt": "2026-03-21T08:00:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2035265176396865770",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD624QeagAAFi82.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "如果你的BTC亏了50%，你还会卖吗？\n\n我想大多数小伙伴的答案应该都是否定的——“现货怕个毛线！”。但偏偏有人就是把“浮亏”变“实亏”，以损失10亿美元的代价割肉离场，你能想象吗？\n\n在复盘过去一周的数据时，一个异常行为引起了我的注意：\n\n1、在3月11日和13日，当BTC反弹到7-7.1w美元时，有一组鲸鱼群体将其在6-12个月之前买入的BTC卖出（花费），这些鲸鱼地址平均每一个都持有1000多枚BTC（图1）。\n\n2、在这2天他们分别派发了24,867枚和17,818枚BTC（图2）。\n\n3、尤其是3月11日这天，平均实现亏损比竟然达到-50%（图3）。也就是说，相对于成本已经腰斩。而3月13日的实现亏损比在-10%以内。\n\n4、按此推算，3月11日卖出的筹码是在25年5月-7月之间买入的，而3月13日卖出的筹码是在25年4月7日-8日因关税危机BTC阶段性回调的最低点买入的。\n\n一个是严重亏损后的绝望，一个是精准抄底又做了轮过山车，最终都离场了，令人唏嘘不已。\n\n此后在3月17日MSTR宣布再次买入22,337枚BTC（图4），将这部分超额供应消化了大半。\n\n如果没有MSTR的强劲需求，或许BTC早已重回了6w了。\n\n然而，这一异常现象也引起我的警觉，虽然早期获利筹码减少了派发，但是一旦价格反弹，还会有亏损筹码涌现出来让市场承压。（一旦MSTR也失去购买力，那......)\n\n如此毅然决绝，也不知是不是看到了我们还没看到的潜在风险，但至少可以说明当前市场情绪仍然极其脆弱，让持有近1年的投资者内心着承受煎熬，并逐渐失去耐心。\n\n这一点，和2022年7月及其相似（图3）！",
-        "link": "https://x.com/Murphychen888/status/2035211339220885923",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHD6FOheboAIzFBk.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHD6FS8BaYAA9zjO.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035220818880602275",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "尝试从备用 Mac + openclaw 转移到 主力 Mac + Claude Cowork。",
-      "contentHtml": "尝试从备用 Mac + openclaw 转移到 主力 Mac + Claude Cowork。",
-      "publishedAt": "2026-03-21T05:03:00.000Z",
-      "link": "https://x.com/taresky/status/2035220818880602275",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035212205264969802",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "查了下 Claude、OpenAI、gemini 对第三方客户端的态度，只有 OpenAI 相对比较 open 了..",
-      "contentHtml": "查了下 Claude、OpenAI、gemini 对第三方客户端的态度，只有 OpenAI 相对比较 open 了..",
-      "publishedAt": "2026-03-21T04:29:00.000Z",
-      "link": "https://x.com/taresky/status/2035212205264969802",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035211339220885923",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "如果你的BTC亏了50%，你还会卖吗？\n\n我想大多数小伙伴的答案应该都是否定的——“现货怕个毛线！”。但偏偏有人就是把“浮亏”变“实亏”，以损失10亿美元的代价割肉离场，你能想象吗？\n\n在复盘过去一周的数据时，一个异常行为引起了我的注意：\n\n1、在3月11日和13日，当BTC反弹到7-7.1w美元时，有一组鲸鱼群体将其在6-12个月之前买入的BTC卖出（花费），这些鲸鱼地址平均每一个都持有1000多枚BTC（图1）。\n\n2、在这2天他们分别派发了24,867枚和17,818枚BTC（图2）。\n\n3、尤其是3月11日这天，平均实现亏损比竟然达到-50%（图3）。也就是说，相对于成本已经腰斩。而3月13日的实现亏损比在-10%以内。\n\n4、按此推算，3月11日卖出的筹码是在25年5月-7月之间买入的，而3月13日卖出的筹码是在25年4月7日-8日因关税危机BTC阶段性回调的最低点买入的。\n\n一个是严重亏损后的绝望，一个是精准抄底又做了轮过山车，最终都离场了，令人唏嘘不已。\n\n此后在3月17日MSTR宣布再次买入22,337枚BTC（图4），将这部分超额供应消化了大半。\n\n如果没有MSTR的强劲需求，或许BTC早已重回了6w了。\n\n然而，这一异常现象也引起我的警觉，虽然早期获利筹码减少了派发，但是一旦价格反弹，还会有亏损筹码涌现出来让市场承压。（一旦MSTR也失去购买力，那......)\n\n如此毅然决绝，也不知是不是看到了我们还没看到的潜在风险，但至少可以说明当前市场情绪仍然极其脆弱，让持有近1年的投资者内心着承受煎熬，并逐渐失去耐心。\n\n这一点，和2022年7月及其相似（图3）！",
-      "contentHtml": "如果你的BTC亏了50%，你还会卖吗？\n\n我想大多数小伙伴的答案应该都是否定的——“现货怕个毛线！”。但偏偏有人就是把“浮亏”变“实亏”，以损失10亿美元的代价割肉离场，你能想象吗？\n\n在复盘过去一周的数据时，一个异常行为引起了我的注意：\n\n1、在3月11日和13日，当BTC反弹到7-7.1w美元时，有一组鲸鱼群体将其在6-12个月之前买入的BTC卖出（花费），这些鲸鱼地址平均每一个都持有1000多枚BTC（图1）。\n\n2、在这2天他们分别派发了24,867枚和17,818枚BTC（图2）。\n\n3、尤其是3月11日这天，平均实现亏损比竟然达到-50%（图3）。也就是说，相对于成本已经腰斩。而3月13日的实现亏损比在-10%以内。\n\n4、按此推算，3月11日卖出的筹码是在25年5月-7月之间买入的，而3月13日卖出的筹码是在25年4月7日-8日因关税危机BTC阶段性回调的最低点买入的。\n\n一个是严重亏损后的绝望，一个是精准抄底又做了轮过山车，最终都离场了，令人唏嘘不已。\n\n此后在3月17日MSTR宣布再次买入22,337枚BTC（图4），将这部分超额供应消化了大半。\n\n如果没有MSTR的强劲需求，或许BTC早已重回了6w了。\n\n然而，这一异常现象也引起我的警觉，虽然早期获利筹码减少了派发，但是一旦价格反弹，还会有亏损筹码涌现出来让市场承压。（一旦MSTR也失去购买力，那......)\n\n如此毅然决绝，也不知是不是看到了我们还没看到的潜在风险，但至少可以说明当前市场情绪仍然极其脆弱，让持有近1年的投资者内心着承受煎熬，并逐渐失去耐心。\n\n这一点，和2022年7月及其相似（图3）！",
-      "publishedAt": "2026-03-21T04:26:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2035211339220885923",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD6FOheboAIzFBk.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD6FS8BaYAA9zjO.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD6FXHhbgAA5HPH.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD6FdPWa8AAr03c.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "从“MVRV极端偏差模型”来看，目前BTC正在反复尝试突破绿线（-0.5 std）位置。纵观历史数据，在大级别下降趋势中，但凡是在关键区间上限遇阻，或反复遇阻，那接下来继续向下的概率更大（见图中红色箭头标注）。\n\n当然，时而也有“假突破”的事件发生。小级别要服从大级别，所以这里短线做多不能恋战，真正值得下重注的是大级别趋势行情。在此之前，如果能达到或靠近下方蓝线位置（目前在$51,000左右），那就完美了...... 直接甩杯，干他！",
-        "link": "https://x.com/Murphychen888/status/2034842837356093507",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHD02SQHboAUgzaT.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035205231710281820",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "看到现在所有 Claude 被封号的案例里，我觉得唯一的风控指标是 IP，其他都是辅助判断（支付方式、用量等等）\n\n有没有一个反例能够帮我推翻这一点：\n\n也就是说，你本身生活在美国或者日本，全程都使用自己的家庭宽带 IP，没有任何干扰的情况下，最后也被封号了。\n\n我自己唯一一次封号也是因为旅游出现了他国 IP…",
-      "contentHtml": "看到现在所有 Claude 被封号的案例里，我觉得唯一的风控指标是 IP，其他都是辅助判断（支付方式、用量等等）\n\n有没有一个反例能够帮我推翻这一点：\n\n也就是说，你本身生活在美国或者日本，全程都使用自己的家庭宽带 IP，没有任何干扰的情况下，最后也被封号了。\n\n我自己唯一一次封号也是因为旅游出现了他国 IP…",
-      "publishedAt": "2026-03-21T04:01:00.000Z",
-      "link": "https://x.com/taresky/status/2035205231710281820",
-      "quote": {
-        "username": "levineeet",
-        "displayName": "Steve",
-        "content": "还是 IP 质量吧？我订阅用的美卡 + Apple Pay，开了几天之后都没事，昨晚用 Xcode 调用 Claude Agent 半夜就给我封了",
-        "link": "https://x.com/levineeet/status/2035201677989646505"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035187664207610079",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "【四年周期总刻系列（25）】\n\n2015年1月，该指标跌至 0.75，7天后是熊底\n2018年12月，该指标跌至 0.75，9天前是熊底\n2022年9月，该指标跌至 0.75，48天后是熊底\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中上方灰线为 #BTC 价格；红线为比特币短期持有者平均购币成本 (Short-Term Holder Realized Price)；蓝线为比特币真实市场平均购币成本 (True Market Mean Price)\n\n图中下方指标为红线跟蓝线之比（>0.75 为绿；<0.75 为红）\n\n比特币短期持有者平均购币成本，反映了近期市场新入场者（持币<155天）的平均购币成本\n\n比特币真实市场平均购币成本，计算公式为“投资者市值“（排除掉矿工挖出但没有进入二级市场交易的比特币）除以“时间加权活跃供应量”（剔除长期休眠和丢失币）。反映了：市场中真正活跃投资者（排除矿工新铸币、丢失币和长期不动仓）的真实平均购币成本",
-      "contentHtml": "【四年周期总刻系列（25）】\n\n2015年1月，该指标跌至 0.75，7天后是熊底\n2018年12月，该指标跌至 0.75，9天前是熊底\n2022年9月，该指标跌至 0.75，48天后是熊底\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中上方灰线为 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 价格；红线为比特币短期持有者平均购币成本 (Short-Term Holder Realized Price)；蓝线为比特币真实市场平均购币成本 (True Market Mean Price)\n\n图中下方指标为红线跟蓝线之比（&gt;0.75 为绿；&lt;0.75 为红）\n\n比特币短期持有者平均购币成本，反映了近期市场新入场者（持币&lt;155天）的平均购币成本\n\n比特币真实市场平均购币成本，计算公式为“投资者市值“（排除掉矿工挖出但没有进入二级市场交易的比特币）除以“时间加权活跃供应量”（剔除长期休眠和丢失币）。反映了：市场中真正活跃投资者（排除矿工新铸币、丢失币和长期不动仓）的真实平均购币成本",
-      "publishedAt": "2026-03-21T02:52:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2035187664207610079",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD5uQdgboAALvml.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【四年周期总刻系列（24）】\n\n2014年红线死叉蓝线，182天 后到熊底\n2018年红线死叉蓝线，128天 后到熊底\n2022年红线死叉蓝线，160天 后到熊底\n\n当前距离红线死叉蓝线还差 5899刀\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中灰线为 #BTC 价格；红线为比特币短期持有者平均购币成本 (Short-Term Holder Realized Price)；蓝线为比特币真实市场平均购币成本 (True Market Mean Price)\n\n比特币短期持有者平均购币成本，计算的是短期持有者（Short-Term Holders，通常定义为持有比特币少于 155 天、最近链上移动的币）所持有筹码的平均购入成本。反映了近期市场新入场者（常被称为“弱手”或活跃交易者）的平均购币成本\n\n比特币真实市场平均购币成本，也被称为“活跃投资者价格”。它不是简单所有币的平均实现价格，而是专门针对二级市场活跃交易的币：计算公式为 Investor Cap（投资者市值，排除掉矿工挖出但没有进入二级市场交易的比特币）除以 Active Supply（时间加权活跃供应量，剔除长期休眠和丢失币）。反映了：市场中真正活跃投资者（排除矿工新铸币、丢失币和长期不动仓）的真实平均购币成本，被视为最接近“市场真实均值”的聚合购币成本模型\n\n短期持有者平均购币成本聚焦“短期、敏感群体”的成本，适合短线情绪和支撑/压力判断；真实市场平均购币成本聚焦“全市场活跃投资者”的真实均值，适合中长线趋势和牛熊分界判断\n\n两者结合使用，能更全面地理解比特币不同持有者群体的成本结构和市场长短期趋势",
-        "link": "https://x.com/0xCryptoChan/status/2034878402516459619",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHD1VjSNboAE78w0.jpg"
           }
         ]
       },
