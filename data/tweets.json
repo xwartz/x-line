@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T11:21:13.526Z",
+  "lastUpdated": "2026-03-31T11:48:37.063Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 523,
+    "newFetched": 525,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2038941748861297008",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "$19B volume after 1 year on Hyperliquid\n\nBelieving in invisible points\n\nHyperliquid",
+      "contentHtml": "$19B volume after 1 year on Hyperliquid\n\nBelieving in invisible points\n\nHyperliquid",
+      "publishedAt": "2026-03-31T11:29:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2038941748861297008",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEvGH0pWgAAOhoo.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2038938557658853685",
       "username": "hazenlee",
@@ -683,6 +704,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHEtCgmxacAAwt3Z.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11907,27 +11932,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHD_qLy3aoAA2zBX.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035600498838135248",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "nitter.net/woaitaoershi/status/20…",
-      "contentHtml": "<a href=\"https://nitter.net/woaitaoershi/status/2035598312691368150\">nitter.net/woaitaoershi/status/20…</a>",
-      "publishedAt": "2026-03-22T06:12:00.000Z",
-      "link": "https://x.com/coolish/status/2035600498838135248",
-      "quote": {
-        "username": "woaitaoershi",
-        "displayName": "超级飞行员",
-        "content": "魏神说的真可以，兄弟们，codex我是pro，用的也用不完，我服务器上多开几个session，去闲鱼卖给不懂ai的人，让他们扫码就能用最强模型，给他们每个人设置个限额就行，大家觉得如何？",
-        "link": "https://x.com/woaitaoershi/status/2035598312691368150"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
