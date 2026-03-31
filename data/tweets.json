@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T09:52:18.345Z",
+  "lastUpdated": "2026-03-31T10:23:54.473Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,95 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 504,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 524,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2038923973782806701",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "眼睛有点花，企鹅怎么也在",
+      "contentHtml": "眼睛有点花，企鹅怎么也在",
+      "publishedAt": "2026-03-31T10:18:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2038923973782806701",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEu2dvdaIAAxM0N.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038922183364497652",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "早\n睡的昏天地暗的  \n打开手机一看  天塌了  价格没变 仓位没了\nGTM 川普 \n$BTC",
+      "contentHtml": "早\n睡的昏天地暗的  \n打开手机一看  天塌了  价格没变 仓位没了\nGTM 川普 \n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
+      "publishedAt": "2026-03-31T10:11:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2038922183364497652",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEu0u_yaIAAZNW1.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038918841724707089",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "强烈建议各位都加一个这个, 加了之后agents自我迭代然后收敛到最优. agents管理和管人有一些类似的地方, 但是过去管理上HR很多的psyop和behavioral constraint 都不存在了. 而且有绝对的enforceability & RL guarantee. 未来的工作形态和管理要被极大的颠覆, 太有趣了..",
+      "contentHtml": "强烈建议各位都加一个这个, 加了之后agents自我迭代然后收敛到最优. agents管理和管人有一些类似的地方, 但是过去管理上HR很多的psyop和behavioral constraint 都不存在了. 而且有绝对的enforceability &amp; RL guarantee. 未来的工作形态和管理要被极大的颠覆, 太有趣了..",
+      "publishedAt": "2026-03-31T09:58:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2038918841724707089",
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "可以写个简单的本地RL, 去自动review 有什么skill需要update based on workflow 调用的质量和feedback. 我现在有两层RL一个是behaviral层的, 一层就是skill层的. 下面是我health agent的一个behavioral rl",
+        "link": "https://x.com/DoveyWanCN/status/2038445305918857439",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHEoC_PMaAAAnPh1.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038918789539246266",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "这一轮熊确实是最枯燥的，有点看不到希望，后续山寨应该会死掉99%。以前总还会有一些预期内可以看的到的利好，这一轮完全想不到还有什么新的了。感觉能活下来的可能也只有bnb，eth，sol，xrp，btc，hyper以及个别主流币。甚至之后我都只敢买btc，其他几个都不敢抄底。",
+      "contentHtml": "这一轮熊确实是最枯燥的，有点看不到希望，后续山寨应该会死掉99%。以前总还会有一些预期内可以看的到的利好，这一轮完全想不到还有什么新的了。感觉能活下来的可能也只有bnb，eth，sol，xrp，btc，hyper以及个别主流币。甚至之后我都只敢买btc，其他几个都不敢抄底。",
+      "publishedAt": "2026-03-31T09:58:00.000Z",
+      "link": "https://x.com/0xleng1/status/2038918789539246266",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2038911991507780088",
       "username": "hazenlee",
@@ -1392,6 +1476,31 @@
         "displayName": "在韩男青年",
         "content": "你是不是认为战争很快结束啊？ 熊市看什么PE",
         "link": "https://x.com/tnglxn4/status/2038063339109269978"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038516832307671503",
+      "username": "YettaSing",
+      "displayName": "YettaS",
+      "avatar": "https://nitter.net/pic/profile_images%2F1760136269890523136%2FzRTLwZhZ_bigger.jpg",
+      "content": "跟Mercy聊了非常开心的一小时！\n做妈妈和做投资人，本质上都在做同一件事：在极度不确定中做长期判断，并为结果负责。\n在视频中，我复盘了这个周期的得与失，以及接下来 Crypto 可能的路径。\n很多时候，市场教你的和生活教你的，是同一课。",
+      "contentHtml": "跟Mercy聊了非常开心的一小时！\n做妈妈和做投资人，本质上都在做同一件事：在极度不确定中做长期判断，并为结果负责。\n在视频中，我复盘了这个周期的得与失，以及接下来 Crypto 可能的路径。\n很多时候，市场教你的和生活教你的，是同一课。",
+      "publishedAt": "2026-03-30T07:21:00.000Z",
+      "link": "https://x.com/YettaSing/status/2038516832307671503",
+      "retweet": {
+        "username": "doveywancn",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐"
+      },
+      "quote": {
+        "username": "Mercy_okx",
+        "displayName": "Mercy",
+        "content": "AI 正在吸干流动性，Crypto 还有戏吗？\n\n“AI 确实是当下全球最大的共识，所有的钱都在往那边倾斜”，直面这个残酷现实，亲历三个周期的 Yetta 反而看到了机会：\n\nCrypto 最惨淡的时候，正是 VC 进场的最好时机。她当下依然坚定押注 PayFi 与 CeDeFi，并笃定 AI 与稳定币的结合才刚刚拉开序幕\n\n本期，Mercy很开心可以对话 Primitive Ventures 投资合伙人 Yetta @YettaSing ！ \n\nAI 狂热下 Crypto 的结构性机会——“只要还有人在 AI 里赚钱，流动性迟早会回来”。",
+        "link": "https://x.com/Mercy_okx/status/2038499206491697250"
       },
       "stats": {
         "replies": 0,
@@ -11809,117 +11918,6 @@
       "contentHtml": "dang what happened to Resolve USR?? Morpho Vault ok?? unlimited mint again .. \n\neverytime logged in to CT some defi shits happen .. 🤦",
       "publishedAt": "2026-03-22T04:56:00.000Z",
       "link": "https://x.com/DoveyWan/status/2035581481146540333",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035580393286676755",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "#Crypto \n\n就说时代在发展，现在你们赚钱都不说话了😭",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n就说时代在发展，现在你们赚钱都不说话了😭",
-      "publishedAt": "2026-03-22T04:52:00.000Z",
-      "link": "https://x.com/taresky/status/2035580393286676755",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035579963207016559",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "美好的雪季结束了. 8月份新西兰见!",
-      "contentHtml": "美好的雪季结束了. 8月份新西兰见!",
-      "publishedAt": "2026-03-22T04:50:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2035579963207016559",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD_VEIRbkAAFh8x.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035579389958935004",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
-      "content": "貝格鏈上週報（六十九）：乏力的資金 & 極緩速的堆積\n\n戰火延續，局勢仍然緊張，恰逢 FOMC 於本週放鷹，\n種種跡象產生的市場合力似乎並不支持「馬上牛回」；\n除此之外，BTC 線型又貌似出現了 Stop Hunt，\n這也導致本週的走勢和前一週的上漲形成鮮明對比。\n\n以下，就讓我們進入本週的籌碼分布狀況👇：\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n誠如前言所述，本週 BTC 的週內最大跌幅逼近 10%，\n價格在短暫突破 74K 的前高後迅速跌回，\n針對 74K 的流動性獵取（Stop Hunt）似乎已經悄然完成，\n上週大量「牛回」的聲音也在本週瞬間消失殆盡。\n\n如附圖所示：\n目前 60~71K 區域的堆積量約為 255.5 萬枚，\n相比前兩週的週報所分享的狀況，在過去兩週僅增加了約 9.2 萬枚，\n這說明近期的價格波動主要源於「區間內的籌碼博弈」，\n明顯缺乏來自其他區域的籌碼換手，而這並不是利於築底的訊號⚠️\n\n堆積量的緩慢增速，意味著並沒有太多資金願意在此處換手，\n結合我前幾週反覆強調的「60~65K 未被清掃的 liquidity」，\n至少單就目前的狀況而言，最後一哆嗦的成立可能性仍在提升 ... ‼️\n\n最後，目前 BTC 依然尚未脫離 60~71K 的震盪結構，\n再次強調：只要 60~65K 的 liquidity 尚未被清除，\n目前日線級別的震盪就不是健康的築底盤整結構；\n在這種反覆消耗耐心、考驗人性的熊市中，保持耐心方為唯一正解。\n\n以上就是今天的內容，祝各位週末愉快🌋\n\n//\n\n📚 本週文章回顧\n\n74K 新鮮 liquidity 形成：新一輪流動性拔河正式開始\nnitter.net/market_beggar/status/2…\n\n「通脹風險再起？」劇本 1 的概率悄然上升 ...\nnitter.net/market_beggar/status/2…\n\n「遲來的藍線神威」：2022 年 6 月的走勢正在被復刻？\nnitter.net/market_beggar/status/2…\n\n貝格先生的小小里程碑\nnitter.net/market_beggar/status/2…\n\n黃金坑追蹤系列（六）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
-      "contentHtml": "貝格鏈上週報（六十九）：乏力的資金 & 極緩速的堆積\n\n戰火延續，局勢仍然緊張，恰逢 FOMC 於本週放鷹，\n種種跡象產生的市場合力似乎並不支持「馬上牛回」；\n除此之外，BTC 線型又貌似出現了 Stop Hunt，\n這也導致本週的走勢和前一週的上漲形成鮮明對比。\n\n以下，就讓我們進入本週的籌碼分布狀況👇：\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\n<a href=\"https://nitter.net/market_beggar/status/1963776996942741931\">nitter.net/market_beggar/status/1…</a>\n\n誠如前言所述，本週 BTC 的週內最大跌幅逼近 10%，\n價格在短暫突破 74K 的前高後迅速跌回，\n針對 74K 的流動性獵取（Stop Hunt）似乎已經悄然完成，\n上週大量「牛回」的聲音也在本週瞬間消失殆盡。\n\n如附圖所示：\n目前 60~71K 區域的堆積量約為 255.5 萬枚，\n相比前兩週的週報所分享的狀況，在過去兩週僅增加了約 9.2 萬枚，\n這說明近期的價格波動主要源於「區間內的籌碼博弈」，\n明顯缺乏來自其他區域的籌碼換手，而這並不是利於築底的訊號⚠️\n\n堆積量的緩慢增速，意味著並沒有太多資金願意在此處換手，\n結合我前幾週反覆強調的「60~65K 未被清掃的 liquidity」，\n至少單就目前的狀況而言，最後一哆嗦的成立可能性仍在提升 ... ‼️\n\n最後，目前 BTC 依然尚未脫離 60~71K 的震盪結構，\n再次強調：只要 60~65K 的 liquidity 尚未被清除，\n目前日線級別的震盪就不是健康的築底盤整結構；\n在這種反覆消耗耐心、考驗人性的熊市中，保持耐心方為唯一正解。\n\n以上就是今天的內容，祝各位週末愉快🌋\n\n//\n\n📚 本週文章回顧\n\n74K 新鮮 liquidity 形成：新一輪流動性拔河正式開始\n<a href=\"https://nitter.net/market_beggar/status/2033359397079101623\">nitter.net/market_beggar/status/2…</a>\n\n「通脹風險再起？」劇本 1 的概率悄然上升 ...\n<a href=\"https://nitter.net/market_beggar/status/2034447363188896171\">nitter.net/market_beggar/status/2…</a>\n\n「遲來的藍線神威」：2022 年 6 月的走勢正在被復刻？\n<a href=\"https://nitter.net/market_beggar/status/2033722975829299704\">nitter.net/market_beggar/status/2…</a>\n\n貝格先生的小小里程碑\n<a href=\"https://nitter.net/market_beggar/status/2034085467159990654\">nitter.net/market_beggar/status/2…</a>\n\n黃金坑追蹤系列（六）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2034810531002147176\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
-      "publishedAt": "2026-03-22T04:48:00.000Z",
-      "link": "https://x.com/market_beggar/status/2035579389958935004",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD_UqdVaMAAGM3a.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "🗞 貝格鏈上週報（六十八）：牛氣沖沖的一週\n\n縱使硝煙始終瀰漫，但本週的 BTC 似乎展現出了額外的韌性，\n雖然波動較大，但 BTC 仍自週一至週五連漲了五天。\n在頹勢的美股面前愣是硬氣了一把。\n\n但大致而言，BTC 目前仍位於 60~74K 的寬幅震盪區間之中，\n而籌碼的換手依然在悄無聲息的進行 ...👇：\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n由於本週反彈之勢較為明顯，因此今天我打算藉著目前稍微強勢的走勢，\n來從籌碼分布的狀況，和各位聊聊我認知中「健康的反彈劇本」。\n\n如附圖所示：\n目前 72~82K 依然是全籌碼結構中最稀薄的區域，\n雖然並非真空區，但不得不承認其稀薄程度實在過於搶眼👀\n\n倘若接下來 BTC 延續反彈行情，借勢增加 72~82K 的籌碼堆積量，\n那或許對於整個 BTC 的籌碼分布結構會更為健康。\n\n但結合目前存在於下方 60~65K 的 liquidity，\n我並不認為目前的 BTC 已經完成週期性築底，\n因此，倘若反彈至 80~82K 左右的區域，\n該區域或許是一個相對明顯的阻力區間，最終或許仍要將 60K 的 liq 清掃。\n\n當然，如果能夠直接先把下方的 liquidity 給獵取完畢，\n對於多軍而言也絕非壞消息，因為如此一來才能更快的形成健康的底部結構。\n\n順帶一提，明天我也會再發布一篇技術面的帖子，結合目前 URPD 的狀況，\n和各位分享「反彈劇本」的兩種可能性，各位朋友可以期待一下。\n\n以上就是今天的內容，祝各位週末愉快🌵\n\n//\n\n📚 本週文章回顧\n\n「流動性絞殺」如期出現：警惕下方 liquidity 的清掃需求\nnitter.net/market_beggar/status/2…\n\n日拱一卒：「持倉時間 1y-3y 籌碼占比」最新數據更新\nnitter.net/market_beggar/status/2…\n\n再談 Taker 分析法的原理：一文幫你掃盲所有誤區\nnitter.net/market_beggar/status/2…\n\n「Retest 走勢已至」：靜待下方 liquidity 引力的發威\nnitter.net/market_beggar/status/2…\n\n黃金坑追蹤系列（五）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
-        "link": "https://x.com/market_beggar/status/2033043391714574713",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDbSL1WbkAAd-NC.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035579425836933386",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "End of the down only szn. end of rusutsu spring pow \n\nGM",
-      "contentHtml": "End of the down only szn. end of rusutsu spring pow \n\nGM",
-      "publishedAt": "2026-03-22T04:48:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2035579425836933386",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD_UbDdagAEgMdq.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035575592054313032",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "#Crypto \n\n包括 … Resolv 资产…\n\n希望你 1011 之后已经不玩 DeFi 了。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n包括 … Resolv 资产…\n\n希望你 1011 之后已经不玩 DeFi 了。",
-      "publishedAt": "2026-03-22T04:33:00.000Z",
-      "link": "https://x.com/taresky/status/2035575592054313032",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD_RNmpaIAAB1T8.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
