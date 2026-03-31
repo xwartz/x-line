@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T09:27:02.266Z",
+  "lastUpdated": "2026-03-31T09:52:18.345Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 504,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2038911991507780088",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "别笑 以后你也这样",
+      "contentHtml": "别笑 以后你也这样",
+      "publishedAt": "2026-03-31T09:31:00.000Z",
+      "link": "https://x.com/hazenlee/status/2038911991507780088",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEurpLgasAATykd.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2038899621918069196",
       "username": "hazenlee",
@@ -11899,39 +11920,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHD_RNmpaIAAB1T8.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035570400260985010",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "完犊子了，同样的方法又铸造出了 3000 万枚 $USR 🙃\n\nResolve 攻击者过去 2 小时已用 20 万枚 USDC 累计 Mint 出 8000 万枚 USR，并用这部分资金买入 9191.48 枚 ETH（约 1933 万美元），仍在持续买入中，其中 5500 枚转移至新地址 0x6Db…232Ed\n\n攻击地址 0x04A288a7789DD6Ade935361a4fB1Ec5db513caEd\n接收地址 0x6Db6006c38468CDc0fD7d1c251018b1B696232Ed",
-      "contentHtml": "完犊子了，同样的方法又铸造出了 3000 万枚 <a href=\"/search?f=tweets&q=%23USR\">$USR</a> 🙃\n\nResolve 攻击者过去 2 小时已用 20 万枚 USDC 累计 Mint 出 8000 万枚 USR，并用这部分资金买入 9191.48 枚 ETH（约 1933 万美元），仍在持续买入中，其中 5500 枚转移至新地址 0x6Db…232Ed\n\n攻击地址 0x04A288a7789DD6Ade935361a4fB1Ec5db513caEd\n接收地址 0x6Db6006c38468CDc0fD7d1c251018b1B696232Ed",
-      "publishedAt": "2026-03-22T04:12:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2035570400260985010",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD_MddwbwAAFfcD.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "Resolve 攻击者操作如下\n\n1️⃣用 10 万枚 USDC Mint 出 5000 万枚 USR\n2️⃣将 3500 万枚 USR 转换为 wstUSR\n3️⃣正将 wstUSR 持续换成 USDC 和 USDT\n4️⃣用 USDT 买入 ETH，现已买入 455 万美元的 ETH\n\n攻击者地址 intel.arkm.com/explorer/addr…",
-        "link": "https://x.com/ai_9684xtpa/status/2035558809067049078",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHD_B8EwbEAErwzB.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
