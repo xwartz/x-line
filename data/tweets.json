@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T11:48:37.063Z",
+  "lastUpdated": "2026-03-31T12:21:42.870Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,92 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 525,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 505,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2038954665237471343",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "李哥略微领先市场半个身位\n流动性最好的时候提醒大家减仓\n现在眼看着空头趋势形成了\n🤟🏻",
+      "contentHtml": "李哥略微领先市场半个身位\n流动性最好的时候提醒大家减仓\n现在眼看着空头趋势形成了\n🤟🏻",
+      "publishedAt": "2026-03-31T12:20:00.000Z",
+      "link": "https://x.com/hazenlee/status/2038954665237471343",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEvSdWEboAAQb-i.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "x.com/i/article/198072822271…",
+        "link": "https://x.com/hazenlee/status/1980729435965042950"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038953393587363933",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "川普：放下总统素质  享受印钞人生",
+      "contentHtml": "川普：放下总统素质  享受印钞人生",
+      "publishedAt": "2026-03-31T12:15:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2038953393587363933",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEvRSrcbEAAI7Gl.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "回头细品一下\n特朗普家族又是一波完美的老鼠仓操盘\n\n$btc 地球🌏上第一车头，第一交易员\n\n川普",
+        "link": "https://x.com/Bitfatty/status/1914857033482064276",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGpLwUjFa4AIOQCK.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038949273698709682",
+      "username": "0xPickleCati",
+      "displayName": "Pickle Cat",
+      "avatar": "https://nitter.net/pic/profile_images%2F1879537340080869376%2FPV5A5sD2_bigger.jpg",
+      "content": "google: “we can crack bitcoin in 9 minutes and 2029 is deadline to figure out a solution”\n\nyou know we’re near bear market lows when quantum fud starts trending again.\n\nBut their best chip has 105 qubits, the attack needs 500,000. that’s like a guy with a ladder saying he’s going to the moon.\n\nETH’s been prepping since 2018, BTC has draft proposals (BIP-360) but no coordinated plan yet.\n\nSo next 5 years realistically:\n> quantum hardware improves, stays nowhere near attack-capable\n> ETH finishes migration first, pressures btc to move\n> BTC community starts seriously pushing BIP-360\n> Satoshi’s coins become the loudest talking point forcing urgency\n\n(bottleneck isn’t crypto, it’s consensus)\n\nWhat you can do:\nif you hold coins in old wallets or addresses you’ve already spent from, pay extra attention. those have exposed public keys. \n\nBeyond that:\n> don’t use taproot (bc1p) for long-term cold storage\n> use native segwit (bc1q). your public key stays hidden until you spend\n> this doesn’t make risk zero, but it greatly reduces your exposure window\n\nTHIS IS NOT a doomsday story. If you sell your bag over quantum fud in a bear market and miss the next ath you have no one to blame but yourself lol. \n\nsame energy as the people who panic sold at 16k over ftx in 2022.\n\nBreathe! Accumulate!! we’ve seen this movie before.",
+      "contentHtml": "google: “we can crack bitcoin in 9 minutes and 2029 is deadline to figure out a solution”\n\nyou know we’re near bear market lows when quantum fud starts trending again.\n\nBut their best chip has 105 qubits, the attack needs 500,000. that’s like a guy with a ladder saying he’s going to the moon.\n\nETH’s been prepping since 2018, BTC has draft proposals (BIP-360) but no coordinated plan yet.\n\nSo next 5 years realistically:\n&gt; quantum hardware improves, stays nowhere near attack-capable\n&gt; ETH finishes migration first, pressures btc to move\n&gt; BTC community starts seriously pushing BIP-360\n&gt; Satoshi’s coins become the loudest talking point forcing urgency\n\n(bottleneck isn’t crypto, it’s consensus)\n\nWhat you can do:\nif you hold coins in old wallets or addresses you’ve already spent from, pay extra attention. those have exposed public keys. \n\nBeyond that:\n&gt; don’t use taproot (bc1p) for long-term cold storage\n&gt; use native segwit (bc1q). your public key stays hidden until you spend\n&gt; this doesn’t make risk zero, but it greatly reduces your exposure window\n\nTHIS IS NOT a doomsday story. If you sell your bag over quantum fud in a bear market and miss the next ath you have no one to blame but yourself lol. \n\nsame energy as the people who panic sold at 16k over ftx in 2022.\n\nBreathe! Accumulate!! we’ve seen this movie before.",
+      "publishedAt": "2026-03-31T11:59:00.000Z",
+      "link": "https://x.com/0xPickleCati/status/2038949273698709682",
+      "quote": {
+        "username": "mreiffy",
+        "displayName": "Max the VC 👨‍🚀",
+        "content": "Google is basically saying:\n\n“We’ve cut the quantum resources needed to break Bitcoin’s encryption by 20x. We can now break it. We can prove it. We’re just not going to tell you how.\n\nWe’ve slowed down research to give crypto a chance. You have until 2029 to figure out a solution. Good luck.”",
+        "link": "https://x.com/mreiffy/status/2038878566796988776"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2038941748861297008",
       "username": "Cbb0fe",
@@ -11843,93 +11924,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHD_wvJUa0AA9GPg.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035609201880584337",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "UP/UL-ACVR的中文含义是：平均每一枚BTC的未实现盈亏比在历史交易日中高于当前值的百分比。原理就不多解释了，讲复杂了反而影响阅读体验。\n\n就直接说结论吧：历史上所有的熊底都会出现在ACVR（红线）下降的过程中，即“不下降，不见底”。\n\n所以现在我们看到ACVR刚刚开始拐头，说明熊底或许还未出现，但可以确定的是一定越来越近了。\n\n看到这个，再结合URPD（筹码结构），PSIP（盈利百分比）等数据综合判断，我个人认为不应该再给于过度的看空预期。\n\n诸如“2w/3w见”这种就别喊了，大概率是到不了的。除非世界再来一次严重威胁人类生存的超级黑天鹅。\n\n无论外界如何风向，我仍然相信自己的判断。",
-      "contentHtml": "UP/UL-ACVR的中文含义是：平均每一枚BTC的未实现盈亏比在历史交易日中高于当前值的百分比。原理就不多解释了，讲复杂了反而影响阅读体验。\n\n就直接说结论吧：历史上所有的熊底都会出现在ACVR（红线）下降的过程中，即“不下降，不见底”。\n\n所以现在我们看到ACVR刚刚开始拐头，说明熊底或许还未出现，但可以确定的是一定越来越近了。\n\n看到这个，再结合URPD（筹码结构），PSIP（盈利百分比）等数据综合判断，我个人认为不应该再给于过度的看空预期。\n\n诸如“2w/3w见”这种就别喊了，大概率是到不了的。除非世界再来一次严重威胁人类生存的超级黑天鹅。\n\n无论外界如何风向，我仍然相信自己的判断。",
-      "publishedAt": "2026-03-22T06:47:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2035609201880584337",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD_vXH0akAAQ8Lo.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "现在，对于有严重财务压力的个人或机构投资者来说，大饼每反弹1000美元都是一种煎熬。相当于市场在给你出选择题：给机会了，卖不卖吧？\n\n卖了，就是往自己身上递刀子；不卖，后面还可能再给你来个更狠的…… 没经历过，很难感同身受这种痛苦。\n\n正因如此，往往到了熊市的后半程，会出现意想不到的黑天鹅，因为大家都熬不住了。由一小波恐慌和焦虑，引发更大范围更深层次的亏损和清算。\n\n当然，你也可以认为，这才是见底信号。\n\n看到有小伙伴说也可能是套利单。确实，不排除这种可能，但从目前3个月滚动基差年化收益来看，要小于同期美国国债收益，大资金套利的条件并不够充分。",
-        "link": "https://x.com/Murphychen888/status/2035265176396865770",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHD624QeagAAFi82.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035603315250299382",
-      "username": "boundaryhq",
-      "displayName": "boundary",
-      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
-      "content": "3月 BofA 基金经理调查报告：\n1）现金水平：升到 4.3%（2月 3.4% → 3月 4.3%，+0.9pct；为 2020 年 3 月以来最大单月升幅，显示基金经理明显加现金、去风险）。\n2）情绪：BofA Bull & Bear Indicator 降至 8.5（2月 8.7 → 3月 8.5），说明市场已从前几个月的“极度乐观”明显降温，但仍处在偏热区间，并未到真正恐慌。\n3）最拥挤交易：变成了做多黄金和做多全球半导体并列第一（各 35%）；做多 Mag7 明显降温到 9%。这说明市场拥挤主线已从单纯押注美股大盘科技，转向“避险+AI硬件”的组合。\n纳指100等权etf从高点累计最大跌幅11.6%\n$QQQ $MU",
-      "contentHtml": "3月 BofA 基金经理调查报告：\n1）现金水平：升到 4.3%（2月 3.4% → 3月 4.3%，+0.9pct；为 2020 年 3 月以来最大单月升幅，显示基金经理明显加现金、去风险）。\n2）情绪：BofA Bull & Bear Indicator 降至 8.5（2月 8.7 → 3月 8.5），说明市场已从前几个月的“极度乐观”明显降温，但仍处在偏热区间，并未到真正恐慌。\n3）最拥挤交易：变成了做多黄金和做多全球半导体并列第一（各 35%）；做多 Mag7 明显降温到 9%。这说明市场拥挤主线已从单纯押注美股大盘科技，转向“避险+AI硬件”的组合。\n纳指100等权etf从高点累计最大跌幅11.6%\n<a href=\"/search?f=tweets&q=%23QQQ\">$QQQ</a> <a href=\"/search?f=tweets&q=%23MU\">$MU</a>",
-      "publishedAt": "2026-03-22T06:23:00.000Z",
-      "link": "https://x.com/boundaryhq/status/2035603315250299382",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD_qPaLaUAAwavx.jpg"
-        }
-      ],
-      "quote": {
-        "username": "boundaryhq",
-        "displayName": "boundary",
-        "content": "2月 BofA 基金经理调查报告：\n1）现金水平：从1月3.2%回升到 3.4%，仍处历史低位区间\n2）情绪：BofA Bull & Bear Indicator 从1月9.4升至 9.5，上限10\n3）最拥挤交易：做多黄金仍然是第一大拥挤交易\n纳指100等权etf从高点累计最大跌幅10.8%",
-        "link": "https://x.com/boundaryhq/status/2024386926934184297",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHBgQ0nrb0AAXFr9.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035603059737313709",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "“KOL” 的英文全称是 Key Opinion Leader。\n\n意思是“关键意见领袖”，通常指在某个领域（比如加密货币、科技、时尚等）有影响力、能够影响他人观点和决策的人。\n\n整天把kol挂嘴上的基本都是文盲啊\n\n举个例子，不脱衣服的web3女号算不上kol，黄推脱衣服好歹能让你 🐔动，不脱衣服影响不了别人观点\n她们的粉丝web3公狗 web3龟公不算人  \n\n交易所也是傻逼，多扶持几个凉兮比扶持鸡收益高多了",
-      "contentHtml": "“KOL” 的英文全称是 Key Opinion Leader。\n\n意思是“关键意见领袖”，通常指在某个领域（比如加密货币、科技、时尚等）有影响力、能够影响他人观点和决策的人。\n\n整天把kol挂嘴上的基本都是文盲啊\n\n举个例子，不脱衣服的web3女号算不上kol，黄推脱衣服好歹能让你 🐔动，不脱衣服影响不了别人观点\n她们的粉丝web3公狗 web3龟公不算人  \n\n交易所也是傻逼，多扶持几个凉兮比扶持鸡收益高多了",
-      "publishedAt": "2026-03-22T06:22:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2035603059737313709",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHD_qLy3aoAA2zBX.jpg"
         }
       ],
       "stats": {
