@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T11:48:41.802Z",
+  "lastUpdated": "2026-04-01T12:21:37.946Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,41 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 527,
+    "newFetched": 525,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2039316527086997686",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
+      "content": "最近很多交易所開始接 AI agent，讓用戶可以用自然語言下單、查持倉、設止損。  \n\n聽起來很酷，但仔細想一下，這件事跟 vibe coding 差在哪裡？  Vibe coding 之所以有價值，是因為它用自然語言替代了 programming language。\n\n寫程式本身是有門檻的，大部分人不會。所以當 AI 可以幫你把想法直接變成 code，這個門檻的消除是真實的。  \n\n但交易所的 AI agent 替代的是什麼？是 App 操作。  \n\n你叫 AI 幫你查持倉，跟你自己打開 App 看一眼，差多少？你叫 AI 幫你下止損單，跟你自己點三下設好，差多少？ \n\nApp 本來就是設計給一般人用的，門檻已經很低了。用自然語言去替代一個本來就不難的操作，省下來的東西非常有限。\n\n這就像有人做了一個用嘴巴就能操作的電視遙控器。聽起來方便，但原本用手按也就那麼回事。  \n\n而且就算操作變得更方便了，也不會讓你多賺一塊錢。  \n\n之前有人用 vbie 出了一個長得像 Bloomberg Terminal 的後台，做得有模有樣。但 Bloomberg 厲害的不是介面，是它背後幾十年累積的獨家數據跟分析模型。介面做得再像，沒有那些數據，就是一個好看的空殼。  \n\n交易要有 alpha，靠的是別人拿不到的資料，或是從同樣的資料裡看出別人看不到的東西。K 線跟成交量是公開資訊，技術分析玩了幾十年，該榨的早就榨乾了。AI 幫你看 K 線分析出的結果，跟那些量產型的的技術分析老師其實不會差太多。 \n\n唯一真正有意義的場景是：你本身就有一套自己的交易邏輯，以前要自己寫程式串 API 才能自動化執行。現在透過 AI agent，你可以用自然語言描述策略，讓它幫你轉成下單指令。這確實降低了量化交易的技術門檻。  \n\n問題是，就算部署策略變容易了，策略本身好不好，還是取決於你用什麼資料、用什麼風控模型。工具再方便，沒有 edge 就是沒有 edge。  交易所在 AI 上如果只做到「讓用戶用嘴巴下單」，那就是把一個本來就不難的事情，換了一種方式做而已。",
+      "contentHtml": "最近很多交易所開始接 AI agent，讓用戶可以用自然語言下單、查持倉、設止損。  \n\n聽起來很酷，但仔細想一下，這件事跟 vibe coding 差在哪裡？  Vibe coding 之所以有價值，是因為它用自然語言替代了 programming language。\n\n寫程式本身是有門檻的，大部分人不會。所以當 AI 可以幫你把想法直接變成 code，這個門檻的消除是真實的。  \n\n但交易所的 AI agent 替代的是什麼？是 App 操作。  \n\n你叫 AI 幫你查持倉，跟你自己打開 App 看一眼，差多少？你叫 AI 幫你下止損單，跟你自己點三下設好，差多少？ \n\nApp 本來就是設計給一般人用的，門檻已經很低了。用自然語言去替代一個本來就不難的操作，省下來的東西非常有限。\n\n這就像有人做了一個用嘴巴就能操作的電視遙控器。聽起來方便，但原本用手按也就那麼回事。  \n\n而且就算操作變得更方便了，也不會讓你多賺一塊錢。  \n\n之前有人用 vbie 出了一個長得像 Bloomberg Terminal 的後台，做得有模有樣。但 Bloomberg 厲害的不是介面，是它背後幾十年累積的獨家數據跟分析模型。介面做得再像，沒有那些數據，就是一個好看的空殼。  \n\n交易要有 alpha，靠的是別人拿不到的資料，或是從同樣的資料裡看出別人看不到的東西。K 線跟成交量是公開資訊，技術分析玩了幾十年，該榨的早就榨乾了。AI 幫你看 K 線分析出的結果，跟那些量產型的的技術分析老師其實不會差太多。 \n\n唯一真正有意義的場景是：你本身就有一套自己的交易邏輯，以前要自己寫程式串 API 才能自動化執行。現在透過 AI agent，你可以用自然語言描述策略，讓它幫你轉成下單指令。這確實降低了量化交易的技術門檻。  \n\n問題是，就算部署策略變容易了，策略本身好不好，還是取決於你用什麼資料、用什麼風控模型。工具再方便，沒有 edge 就是沒有 edge。  交易所在 AI 上如果只做到「讓用戶用嘴巴下單」，那就是把一個本來就不難的事情，換了一種方式做而已。",
+      "publishedAt": "2026-04-01T12:18:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2039316527086997686",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2039309091114561632",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "The peace headline everyone has been waiting for might not mean what they think.\n\nTrump is willing to end the war without reopening the Strait of Hormuz. \n\nsoon he addresses the nation on Iran \n\nIran's parliament officially rejected his 10-day ceasefire offer today. No negotiations happened, none will. Week 5 of the war, and Iran still controls Hormuz.\n\nMy read: temporary pause at best. US exits eventually, Iran keeps structural leverage over the strait. The war doesn't end — it pauses. Each side declares victory. The real conflict is years out.\n\nEven after a deal: every country scrambles for their own oil supply. Demand stays structurally elevated regardless of the headline. Countries fend for themselves.\n\nTonight is a volatility event, not a clarity event. The market bounced hard on hope — but hope and resolution are different things. Whatever direction this moves in the next few hours, the macro picture doesn't change overnight.\n\nIn this kind of uncertainty, I'd rather be protective than chase for longs. The next two CPI prints are going to be ugly regardless of what Trump says tonight. That's the trade that actually matters.",
+      "contentHtml": "The peace headline everyone has been waiting for might not mean what they think.\n\nTrump is willing to end the war without reopening the Strait of Hormuz. \n\nsoon he addresses the nation on Iran \n\nIran's parliament officially rejected his 10-day ceasefire offer today. No negotiations happened, none will. Week 5 of the war, and Iran still controls Hormuz.\n\nMy read: temporary pause at best. US exits eventually, Iran keeps structural leverage over the strait. The war doesn't end — it pauses. Each side declares victory. The real conflict is years out.\n\nEven after a deal: every country scrambles for their own oil supply. Demand stays structurally elevated regardless of the headline. Countries fend for themselves.\n\nTonight is a volatility event, not a clarity event. The market bounced hard on hope — but hope and resolution are different things. Whatever direction this moves in the next few hours, the macro picture doesn't change overnight.\n\nIn this kind of uncertainty, I'd rather be protective than chase for longs. The next two CPI prints are going to be ugly regardless of what Trump says tonight. That's the trade that actually matters.",
+      "publishedAt": "2026-04-01T11:49:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2039309091114561632",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2039296188470776274",
       "username": "Bitfatty",
@@ -1608,25 +1638,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEueRg7bQAAUGQ1.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038896717698064513",
-      "username": "mrjasonchoi",
-      "displayName": "Jason Choi",
-      "avatar": "https://nitter.net/pic/profile_images%2F2036826091978178561%2FDF3WwX7A_bigger.jpg",
-      "content": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
-      "contentHtml": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
-      "publishedAt": "2026-03-31T08:30:00.000Z",
-      "link": "https://x.com/mrjasonchoi/status/2038896717698064513",
-      "retweet": {
-        "username": "JoshuaDeuk",
-        "displayName": "Joshua | MOZAIK 🇰🇷"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11797,27 +11808,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHED95gabkAAfIlc.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035906711593373905",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "今天先出一笔\n\n讲道理 美元要涨了，应该持 usdt好点\n不过  “PC策略”大于一切，出一笔严格执行策略，给自己积极的心理暗示",
-      "contentHtml": "今天先出一笔\n\n讲道理 美元要涨了，应该持 usdt好点\n不过  “PC策略”大于一切，出一笔严格执行策略，给自己积极的心理暗示",
-      "publishedAt": "2026-03-23T02:29:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2035906711593373905",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHED-W7mbMAAgo6x.jpg"
         }
       ],
       "stats": {
