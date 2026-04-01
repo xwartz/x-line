@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T23:30:40.544Z",
+  "lastUpdated": "2026-04-01T23:50:06.797Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 497,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 525,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2039487029319455054",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Drift hacker is kyc'ed on Backpack and depositing USDC/USDT which can be blacklisted + highly law enforcement aligned .. feel very amateur for this level of hack",
+      "contentHtml": "Drift hacker is kyc'ed on Backpack and depositing USDC/USDT which can be blacklisted + highly law enforcement aligned .. feel very amateur for this level of hack",
+      "publishedAt": "2026-04-01T23:36:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2039487029319455054",
+      "quote": {
+        "username": "_0xaryan",
+        "displayName": "aryan | 🐂",
+        "content": "so, drift protocol vault was drained and I found some interesting things onchain: \n\ndrainer [ HkG...ZES ] was funded 8 days ago via near intents, but was inactive and suddenly received huge amounts from drift vault (a)\n\ndrainer transferred/swapped the amount to launderer [ 8ub...Gxw and few more ] , all of which were funded just yesterday via @Backpack [ becomes interesting, as backpack must have kyc'd this ]  (b)\n\nthen launderer transferred funds to an eth address via @wormhole which was funded via tornado cash (c)",
+        "link": "https://x.com/_0xaryan/status/2039405258624155906",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHE1m3C4aoAAbxOC.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2039394582983807028",
       "username": "hazenlee",
@@ -8564,6 +8591,31 @@
       }
     },
     {
+      "id": "2036695743176868343",
+      "username": "Christianeth",
+      "displayName": "Christian (Building @0xinfini)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1894561803939844098%2FujnP_69d_bigger.jpg",
+      "content": "经过半年时间的打磨和完善，今天Infini的新产品正式上线啦！最需要感谢的是团队每一个小伙伴的付出，以及现在几百个企业客户的信任和建议🫶\n\n我们想做什么：为每一位创始人和创业团队打造自动化、易用、最懂你的金融操作系统，希望能够帮助你们在收款、付款、资金管理和财务管理等方面降本增效。\n\n使用Infini能获得的是：\n\n-免费的企业账户来存放和管理你的稳定币资金\n-完善、易集成的收单功能，实时到账提现，手续费行业最低标准，无固定费用，服务响应及时\n-行业领先的活期理财收益（6%-7%）\n-支持所有AI和软件订阅的企业卡，没有任何附加费用，通过AI自动化来处理账务，帮你节省支出成本\n-可以通过稳定币和几十个法币及本地通道，给全球上百个国家的银行账户付款，合规可审计，支持上传凭证和财务对账\n-一个更懂你的AI财务助手，高效帮忙解决记账、对账、审批、财务分析、报表审计，并且未来会通过不断累积的数据和记忆，能够像CFO一样为你考虑所有问题（持续完善）\n\n我们相信在稳定币和AI经济高速增长的未来，每个人除了释放自己最大的潜力和生产力之外，也一定需要一个能陪伴你成长的AI财务管家。Infini不希望成为一个同质化、无趣和不透明的支付公司，我们会尽力服务好每一个对效率和审美有所追求的团队，并且以十倍的交付速度来匹配上你们增长的步伐。",
+      "contentHtml": "经过半年时间的打磨和完善，今天Infini的新产品正式上线啦！最需要感谢的是团队每一个小伙伴的付出，以及现在几百个企业客户的信任和建议🫶\n\n我们想做什么：为每一位创始人和创业团队打造自动化、易用、最懂你的金融操作系统，希望能够帮助你们在收款、付款、资金管理和财务管理等方面降本增效。\n\n使用Infini能获得的是：\n\n-免费的企业账户来存放和管理你的稳定币资金\n-完善、易集成的收单功能，实时到账提现，手续费行业最低标准，无固定费用，服务响应及时\n-行业领先的活期理财收益（6%-7%）\n-支持所有AI和软件订阅的企业卡，没有任何附加费用，通过AI自动化来处理账务，帮你节省支出成本\n-可以通过稳定币和几十个法币及本地通道，给全球上百个国家的银行账户付款，合规可审计，支持上传凭证和财务对账\n-一个更懂你的AI财务助手，高效帮忙解决记账、对账、审批、财务分析、报表审计，并且未来会通过不断累积的数据和记忆，能够像CFO一样为你考虑所有问题（持续完善）\n\n我们相信在稳定币和AI经济高速增长的未来，每个人除了释放自己最大的潜力和生产力之外，也一定需要一个能陪伴你成长的AI财务管家。Infini不希望成为一个同质化、无趣和不透明的支付公司，我们会尽力服务好每一个对效率和审美有所追求的团队，并且以十倍的交付速度来匹配上你们增长的步伐。",
+      "publishedAt": "2026-03-25T06:44:00.000Z",
+      "link": "https://x.com/Christianeth/status/2036695743176868343",
+      "retweet": {
+        "username": "0xSunNFT",
+        "displayName": "0xSun"
+      },
+      "quote": {
+        "username": "0xinfini",
+        "displayName": "Infini",
+        "content": "Some traditional banking services weren't built for the internet economy. They were built for borders.\n\nSo we built Infini — an AI-powered financial OS for global business.\n\nCollect payments. Issue corporate cards. Let AI manage the rest.\n\nTry it → infini.money/signup?click_id…",
+        "link": "https://x.com/0xinfini/status/2036686673917128764"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2036694843121099068",
       "username": "CMGS1988",
       "displayName": "CMGS",
@@ -11771,52 +11823,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHCSjReybEAIyma8.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035962967716676093",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "昨天晚还在排队加油，今天起床发现车没了，艹…… 😭😭😭",
-      "contentHtml": "昨天晚还在排队加油，今天起床发现车没了，艹…… 😭😭😭",
-      "publishedAt": "2026-03-23T06:12:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2035962967716676093",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEExhk6aEAEOcl6.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEExhk4aoAABA_D.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035962281612157241",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "Black monday is coming.\n\nCash is king.",
-      "contentHtml": "Black monday is coming.\n\nCash is king.",
-      "publishedAt": "2026-03-23T06:10:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2035962281612157241",
-      "quote": {
-        "username": "Cbb0fe",
-        "displayName": "CBB",
-        "content": "My quant is telling me that a covid-like crash is coming next week\n\nCBB Cartel is ready to ape",
-        "link": "https://x.com/Cbb0fe/status/2032526410070298673"
       },
       "stats": {
         "replies": 0,
