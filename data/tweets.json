@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T17:21:48.530Z",
+  "lastUpdated": "2026-04-01T17:48:15.298Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 489,
-    "successUsers": 25,
-    "failedUsers": 2
+    "newFetched": 526,
+    "successUsers": 26,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2039394582983807028",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "哈哈哈\n你好贱贱货",
+      "contentHtml": "哈哈哈\n你好贱贱货",
+      "publishedAt": "2026-04-01T17:28:00.000Z",
+      "link": "https://x.com/hazenlee/status/2039394582983807028",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHE1ij9obUAAhB6T.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2039351037513920633",
       "username": "JoshuaDeuk",
@@ -11801,27 +11822,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEExhk4aoAABA_D.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035962281612157241",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "Black monday is coming.\n\nCash is king.",
-      "contentHtml": "Black monday is coming.\n\nCash is king.",
-      "publishedAt": "2026-03-23T06:10:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2035962281612157241",
-      "quote": {
-        "username": "Cbb0fe",
-        "displayName": "CBB",
-        "content": "My quant is telling me that a covid-like crash is coming next week\n\nCBB Cartel is ready to ape",
-        "link": "https://x.com/Cbb0fe/status/2032526410070298673"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
