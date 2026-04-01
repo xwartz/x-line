@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T07:51:32.707Z",
+  "lastUpdated": "2026-04-01T08:30:14.412Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,68 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 530,
+    "newFetched": 522,
     "successUsers": 26,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2039256796481917342",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "今天愚人节，本来想在✈的时候给鸡巴开个玩笑，撸一半不撸了，结果鸡巴先给我开了个玩笑，我早泄了。",
+      "contentHtml": "今天愚人节，本来想在✈的时候给鸡巴开个玩笑，撸一半不撸了，结果鸡巴先给我开了个玩笑，我早泄了。",
+      "publishedAt": "2026-04-01T08:21:00.000Z",
+      "link": "https://x.com/hazenlee/status/2039256796481917342",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2039253444746469629",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "持有10年未动的BTC至今共有337.9w枚（其中中本聪的地址可能有108.7w枚）",
+      "contentHtml": "持有10年未动的BTC至今共有337.9w枚（其中中本聪的地址可能有108.7w枚）",
+      "publishedAt": "2026-04-01T08:08:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2039253444746469629",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEziC73a0AA9kkP.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2039252933838295077",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "2029年，会是BTC的一次生死考验吗？\n\n昨天谷歌的这篇文章在BTC社区引发了强烈的震动。他打破了人们对“量子威胁还很遥远”的幻觉，将原本被认为还需10-20年的量子威胁，提前到了2029年（2028年BTC减半后）这一具体的窗口。\n\n谷歌指出，性能足够强大的量子计算机能在9分钟内从公钥推导出私钥。由于BTC平均出块时间为10分钟，这就意味着攻击者可以在交易发出但尚未确认的窗口期内，直接截获并伪造交易。\n\n除此之外，还有一个致命伤是那些早期公钥暴露在链上的地址。从链上数据来看，当前持有10年未动的BTC共计337.9万枚（其中，中本聪的地址就有108w枚）。这些币在理论上都有可能会是“待宰的羔羊”。\n\n因为这些大多是“币没了”或“人没了”的早期筹码，无法主动完成“抗量子迁移”。而一旦落入第一个破解系统的黑客手中，意味着在BTC的世界里，有个“疯子”掌握着一笔为ETF的2.6倍，MSTR的4.4倍的巨额非法财富。\n\n目前，我看到社区的反应主要分为两派：\n\n乐观派认为只需通过一次软分叉引入抗量子签名方案（BIP-360与P2MR），并在量子威胁到来之前完成BTC的钱包迁移即可确保安全。\n\n而悲观派认为即便在技术上可行，但去中心化的治理模式很难在短短3-4年内能达成一致，尤其是如何处理那么多暴露公钥的BTC，一旦处理不好可能引发再一次硬分叉的暴击。\n\n届时，支持保护私产的“保守派”和支持网络安全的“激进派”会再次吵得不可开交。就像17-18年Core开发组和矿工大户在大小区块上的严重分歧，最后导致硬分叉，就差点让比特币分崩离析。\n\n另外，即便最终社区达成共识，有一件事可能还是无法避免。\n\n那就是为了安全升级而被动产生了大量的BTC迁移，这些非经济行为的链上活动，会严重污染BTC的链上数据。作为一个“全球公共账本”在面对生存危机时，不得不牺牲透明度溢价。\n\n使我们在过去十多年里建立起的基于“链上数据分析”的交易模型，可能将面临结构性失效。比如，一切以“持有时间”为基础的数据彻底失真，实现盈利/亏损的估值模型的底层逻辑坍塌等等。\n\n未来的链上分析工具可能不得不将BTC的历史划分为“前量子时代”和“后量子时代”。可能只有拥有顶级数据清洗能力的机构（不知道Glassnode行不行），才能从海量噪音中剥离出真实的交易意图。\n\n当交易决策回归传统，人们又重新开始依赖消息面、情绪面或技术面时，散户将失去一个“唯一有机会和机构站在同一起跑线”的透明且有效的技术工具。\n\n这确实是一个极大的遗憾......\n\nresearch.google/blog/safegua…",
+      "contentHtml": "2029年，会是BTC的一次生死考验吗？\n\n昨天谷歌的这篇文章在BTC社区引发了强烈的震动。他打破了人们对“量子威胁还很遥远”的幻觉，将原本被认为还需10-20年的量子威胁，提前到了2029年（2028年BTC减半后）这一具体的窗口。\n\n谷歌指出，性能足够强大的量子计算机能在9分钟内从公钥推导出私钥。由于BTC平均出块时间为10分钟，这就意味着攻击者可以在交易发出但尚未确认的窗口期内，直接截获并伪造交易。\n\n除此之外，还有一个致命伤是那些早期公钥暴露在链上的地址。从链上数据来看，当前持有10年未动的BTC共计337.9万枚（其中，中本聪的地址就有108w枚）。这些币在理论上都有可能会是“待宰的羔羊”。\n\n因为这些大多是“币没了”或“人没了”的早期筹码，无法主动完成“抗量子迁移”。而一旦落入第一个破解系统的黑客手中，意味着在BTC的世界里，有个“疯子”掌握着一笔为ETF的2.6倍，MSTR的4.4倍的巨额非法财富。\n\n目前，我看到社区的反应主要分为两派：\n\n乐观派认为只需通过一次软分叉引入抗量子签名方案（BIP-360与P2MR），并在量子威胁到来之前完成BTC的钱包迁移即可确保安全。\n\n而悲观派认为即便在技术上可行，但去中心化的治理模式很难在短短3-4年内能达成一致，尤其是如何处理那么多暴露公钥的BTC，一旦处理不好可能引发再一次硬分叉的暴击。\n\n届时，支持保护私产的“保守派”和支持网络安全的“激进派”会再次吵得不可开交。就像17-18年Core开发组和矿工大户在大小区块上的严重分歧，最后导致硬分叉，就差点让比特币分崩离析。\n\n另外，即便最终社区达成共识，有一件事可能还是无法避免。\n\n那就是为了安全升级而被动产生了大量的BTC迁移，这些非经济行为的链上活动，会严重污染BTC的链上数据。作为一个“全球公共账本”在面对生存危机时，不得不牺牲透明度溢价。\n\n使我们在过去十多年里建立起的基于“链上数据分析”的交易模型，可能将面临结构性失效。比如，一切以“持有时间”为基础的数据彻底失真，实现盈利/亏损的估值模型的底层逻辑坍塌等等。\n\n未来的链上分析工具可能不得不将BTC的历史划分为“前量子时代”和“后量子时代”。可能只有拥有顶级数据清洗能力的机构（不知道Glassnode行不行），才能从海量噪音中剥离出真实的交易意图。\n\n当交易决策回归传统，人们又重新开始依赖消息面、情绪面或技术面时，散户将失去一个“唯一有机会和机构站在同一起跑线”的透明且有效的技术工具。\n\n这确实是一个极大的遗憾......\n\n<a href=\"https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/\">research.google/blog/safegua…</a>",
+      "publishedAt": "2026-04-01T08:06:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2039252933838295077",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEzhgPLbwAAEhSR.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2039240869841453218",
       "username": "ai_9684xtpa",
@@ -1511,25 +1568,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEueRg7bQAAUGQ1.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038896717698064513",
-      "username": "mrjasonchoi",
-      "displayName": "Jason Choi",
-      "avatar": "https://nitter.net/pic/profile_images%2F2036826091978178561%2FDF3WwX7A_bigger.jpg",
-      "content": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
-      "contentHtml": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
-      "publishedAt": "2026-03-31T08:30:00.000Z",
-      "link": "https://x.com/mrjasonchoi/status/2038896717698064513",
-      "retweet": {
-        "username": "JoshuaDeuk",
-        "displayName": "Joshua | MOZAIK 🇰🇷"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11818,68 +11856,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035899077129548108",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "cosplay了一把死亡笔记\n全都下地狱！",
-      "contentHtml": "cosplay了一把死亡笔记\n全都下地狱！",
-      "publishedAt": "2026-03-23T01:58:00.000Z",
-      "link": "https://x.com/hazenlee/status/2035899077129548108",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHED3K-3acAAIKUH.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHED3K-1bMAA6eri.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "The price movements of several instruments that I'm monitoring and trading don't seem to be looking good.\nExcept for the last DXY\n\n我关注和交易的几个品种的走势，似乎都不太妙。除了最后的DXY",
-        "link": "https://x.com/hazenlee/status/2032210164544352368",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDPbXGxasAAprM4.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDPbXGzbwAAQ5Y5.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2035896588800008305",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "讲个笑话：如果你反向跟单麻吉老哥\n\n30 天的预期回报是：+5644.9%😅\n\n总有人问我怎么不写麻吉了，这或许是个很直观的概况，老哥整体亏损 2866 万美元，近一个月亏损 217.1 万美元，最近仍在坚定执行做多策略\nhyperdash.com/address/0x020c…",
-      "contentHtml": "讲个笑话：如果你反向跟单麻吉老哥\n\n30 天的预期回报是：+5644.9%😅\n\n总有人问我怎么不写麻吉了，这或许是个很直观的概况，老哥整体亏损 2866 万美元，近一个月亏损 217.1 万美元，最近仍在坚定执行做多策略\n<a href=\"https://hyperdash.com/address/0x020ca66c30bec2c4fe3861a94e4db4a498a35872\">hyperdash.com/address/0x020c…</a>",
-      "publishedAt": "2026-03-23T01:49:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2035896588800008305",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHED0VyDbkAAMFNi.png"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
