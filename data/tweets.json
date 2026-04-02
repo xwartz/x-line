@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T14:53:23.720Z",
+  "lastUpdated": "2026-04-02T15:25:00.762Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,36 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 549,
+    "newFetched": 548,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2039724969601515890",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "大数据真可怕，发了一次双币赢，现在天天都能刷到相关文章。\n\n今天把策略升级了一部分。一部分走2-5天的低风险，35%-45%的策略，剩下的走15-20天的价格还算稳定的50%+年化的策略。打个比方现在btc是67000 2-5天是63000-64000，15-20天是64000-64500。我这部分资金就是抄到了就找机会挂单卖，所以影响不大。\n\n期权确实给的更多大概多20-30%但是太麻烦了。不建议其他人跟着玩，资金比较多的情况下打算低接btc的可以无聊玩一玩。",
+      "contentHtml": "大数据真可怕，发了一次双币赢，现在天天都能刷到相关文章。\n\n今天把策略升级了一部分。一部分走2-5天的低风险，35%-45%的策略，剩下的走15-20天的价格还算稳定的50%+年化的策略。打个比方现在btc是67000 2-5天是63000-64000，15-20天是64000-64500。我这部分资金就是抄到了就找机会挂单卖，所以影响不大。\n\n期权确实给的更多大概多20-30%但是太麻烦了。不建议其他人跟着玩，资金比较多的情况下打算低接btc的可以无聊玩一玩。",
+      "publishedAt": "2026-04-02T15:21:00.000Z",
+      "link": "https://x.com/0xleng1/status/2039724969601515890",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHE6PDBga0AAiDIB.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHE6PDBSaoAAxStc.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2039714363666239904",
       "username": "KillaXBT",
@@ -11704,33 +11729,6 @@
         "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
         "content": "#AI \n\n目前在用的 AI 产品/模型，考虑了性能、价格、速度，以下是我认为的最优解：\n\n1. 工作代码：Claude Code 200u\n\n2. 沟通翻译：claude-sonnet-4-20250514（Claude Code 200u 转 API）\n\n3. 阅读翻译：OpenAI gpt 4.1 nano\n\n4. 语音转文字：ElevenLabs scribe_v1\n\n5. 语音转文字后修正：OpenAI gpt 4.1 mini\n\n6. 联网/信息搜索：Gemini / Claude / Grok 网页三开\n\n7. 家人日常使用：ChatGPT 20u（个人信息记忆确实是护城河）",
         "link": "https://x.com/taresky/status/1957593230968779228"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036247657145082162",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "nitter.net/taresky/status/2035220…\n\n之前说什么来着…",
-      "contentHtml": "<a href=\"https://nitter.net/taresky/status/2035220818880602275?s=46\">nitter.net/taresky/status/2035220…</a>\n\n之前说什么来着…",
-      "publishedAt": "2026-03-24T01:04:00.000Z",
-      "link": "https://x.com/taresky/status/2036247657145082162",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEI0c60bQAAfPMV.jpg"
-        }
-      ],
-      "quote": {
-        "username": "claudeai",
-        "displayName": "Claude",
-        "content": "You can now enable Claude to use your computer to complete tasks.\n\nIt opens your apps, navigates your browser, fills in spreadsheets—anything you'd do sitting at your desk.\n\nResearch preview in Claude Cowork and Claude Code, macOS only.",
-        "link": "https://x.com/claudeai/status/2036195789601374705"
       },
       "stats": {
         "replies": 0,
