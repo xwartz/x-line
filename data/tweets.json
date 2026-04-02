@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T15:25:00.762Z",
+  "lastUpdated": "2026-04-02T15:49:53.276Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 548,
+    "newFetched": 549,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2039730462328033678",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "以后打仗的双方禁止黄毛和神经病\n\n真特么跟小孩过家家一样，今天和好明天又干起来\n\n玩呢？",
+      "contentHtml": "以后打仗的双方禁止黄毛和神经病\n\n真特么跟小孩过家家一样，今天和好明天又干起来\n\n玩呢？",
+      "publishedAt": "2026-04-02T15:43:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2039730462328033678",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2039724969601515890",
       "username": "0xleng1",
@@ -11708,27 +11723,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHED4rhEasAA7VOz.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036255144652972444",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "#AI\n\n目前在用的 AI 产品/模型（2026年3月版）： \n\n1. 代码/投研：ChatGPT 200u + Claude 200u\n2. 语音转文字：ElevenLabs scribe_v2（快） + Soniox stt-rt-v4（好）\n3. 翻译：gpt-5.4-nano\n4. 日历：Toki（已经开始嫌不够聪明，没有读上下文了）\n5. AI 助理/ 远控电脑 / 杂项类：龙虾 + Claude Cowork + Alma（还没有分出胜负）\n\n一些补充 tips：\n1. 投研必定需要代码量。\n2. 全面放弃订阅转 API。出于风控和成本的考量，能用客户端的用客户端，生产环境追求稳定和速度的用 API，不追求速度要求质量的用 ACP。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a>\n\n目前在用的 AI 产品/模型（2026年3月版）： \n\n1. 代码/投研：ChatGPT 200u + Claude 200u\n2. 语音转文字：ElevenLabs scribe_v2（快） + Soniox stt-rt-v4（好）\n3. 翻译：gpt-5.4-nano\n4. 日历：Toki（已经开始嫌不够聪明，没有读上下文了）\n5. AI 助理/ 远控电脑 / 杂项类：龙虾 + Claude Cowork + Alma（还没有分出胜负）\n\n一些补充 tips：\n1. 投研必定需要代码量。\n2. 全面放弃订阅转 API。出于风控和成本的考量，能用客户端的用客户端，生产环境追求稳定和速度的用 API，不追求速度要求质量的用 ACP。",
-      "publishedAt": "2026-03-24T01:33:00.000Z",
-      "link": "https://x.com/taresky/status/2036255144652972444",
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "#AI \n\n目前在用的 AI 产品/模型，考虑了性能、价格、速度，以下是我认为的最优解：\n\n1. 工作代码：Claude Code 200u\n\n2. 沟通翻译：claude-sonnet-4-20250514（Claude Code 200u 转 API）\n\n3. 阅读翻译：OpenAI gpt 4.1 nano\n\n4. 语音转文字：ElevenLabs scribe_v1\n\n5. 语音转文字后修正：OpenAI gpt 4.1 mini\n\n6. 联网/信息搜索：Gemini / Claude / Grok 网页三开\n\n7. 家人日常使用：ChatGPT 20u（个人信息记忆确实是护城河）",
-        "link": "https://x.com/taresky/status/1957593230968779228"
       },
       "stats": {
         "replies": 0,
