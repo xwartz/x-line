@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T11:33:07.625Z",
+  "lastUpdated": "2026-04-02T12:00:51.172Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,9 +89,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 529,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 507,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
     {
@@ -438,31 +438,6 @@
       }
     },
     {
-      "id": "2039553218360025100",
-      "username": "Shinlim522",
-      "displayName": "币圈明灯记忆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986757144906235904%2FAiJiQwB5_bigger.jpg",
-      "content": "2010年7月10日 Bitcoin论坛\n\n中本聪：如果这种（量子电脑）破解是突然发生的，确实会很严重；但如果是渐进式变化，我们仍有时间进行过渡。",
-      "contentHtml": "2010年7月10日 Bitcoin论坛\n\n中本聪：如果这种（量子电脑）破解是突然发生的，确实会很严重；但如果是渐进式变化，我们仍有时间进行过渡。",
-      "publishedAt": "2026-04-02T03:59:00.000Z",
-      "link": "https://x.com/Shinlim522/status/2039553218360025100",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE3y1uXbkAA-T7I.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2039551957636173829",
       "username": "JoshuaDeuk",
       "displayName": "Joshua | MOZAIK 🇰🇷",
@@ -753,6 +728,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHE3UtOrbkAEgvOd.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11762,6 +11741,21 @@
           "url": "https://nitter.net/pic/orig/media%2FHEF4q-DbgAA9dWY.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2036038927182950646",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "任何市场的利好炒作都会逐层衰退，只有老白男的Taco一如既往的威猛。\n\n市场到底还会为这个人买多久的单。",
+      "contentHtml": "任何市场的利好炒作都会逐层衰退，只有老白男的Taco一如既往的威猛。\n\n市场到底还会为这个人买多久的单。",
+      "publishedAt": "2026-03-23T11:14:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2036038927182950646",
       "stats": {
         "replies": 0,
         "retweets": 0,
