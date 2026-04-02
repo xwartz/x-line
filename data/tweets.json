@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T18:48:44.249Z",
+  "lastUpdated": "2026-04-02T19:23:09.364Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -98,6 +98,39 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2039784211884724574",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "April 10th... $BTC\n\nI’m expecting a sweep of either the highs or lows into this pivot.\n\nI’ll be closely watching PA before taking any entries.\n\nIf we sweep the highs, I’ll look to add to my short. If we sweep the lows, I’ll shift focus to potential long setups.",
+      "contentHtml": "April 10th... <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nI’m expecting a sweep of either the highs or lows into this pivot.\n\nI’ll be closely watching PA before taking any entries.\n\nIf we sweep the highs, I’ll look to add to my short. If we sweep the lows, I’ll shift focus to potential long setups.",
+      "publishedAt": "2026-04-02T19:17:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2039784211884724574",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHE7D-R9WcAABwF6.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "10th April. Pay attention.\n\nThe narrative into this pivot will likely reverse within 1–2 weeks.\n\nBullish into the 10th > sweep, then shift to an inverse (bearish) narrative.\n\nBearish into the 10th > sweep of a key wick low, then recovery.",
+        "link": "https://x.com/KillaXBT/status/2038511044507648494",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHEo-aGYaAAAr__b.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2039737938171330879",
       "username": "KillaXBT",
@@ -11685,39 +11718,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEJJ_oNaIAEFNkZ.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036264032592863377",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "【四年周期系列更新📊】当前图中指标跌至 1.31\n\n14年该指标跌至 1.31 后 55天 到熊底 ($0.15k)\n18年该指标跌至 1.31 后 25天 到熊底 ($3.1k)\n22年该指标跌至 1.31 后 3天 到次熊底 ($17.6k)",
-      "contentHtml": "【四年周期系列更新📊】当前图中指标跌至 1.31\n\n14年该指标跌至 1.31 后 55天 到熊底 ($0.15k)\n18年该指标跌至 1.31 后 25天 到熊底 ($3.1k)\n22年该指标跌至 1.31 后 3天 到次熊底 ($17.6k)",
-      "publishedAt": "2026-03-24T02:09:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2036264032592863377",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEJC7BGaIAEFF41.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【四年周期总刻系列（18）】当前图中指标跌至 1.42\n\n14年该指标跌至 1.42 后 76天 到熊底 ($0.15k)\n18年该指标跌至 1.42 后 82天 到熊底 ($3.1k)\n22年该指标跌至 1.42 后 26天 到次熊底 ($17.6k)\n\n图中上方灰线为 #BTC 价格；黄线为 BTC 短期持有者成本均价；玫红线为 BTC 长期持有者成本均价（剔除持币>10年的筹码）\n图中下方指标为“BTC 短期持有者成本均价”跟“BTC 长期持有者成本均价（剔除>10y筹码版）”之比（即：黄线 / 玫红线）\n\nBTC短期持有者成本均价定义：持有比特币<155天的投资者的平均成本。含义：反映近期买家的成本基础，他们对价格波动敏感，易在下跌时卖出。常作为短期市场情绪指标——牛市中价格高于此均价，熊市中跌破可能加剧抛售\n\nBTC长期持有者成本均价定义：持有比特币>155天的投资者的平均成本，但排除>10年的筹码（这些可能丢失或永不动，如中本聪的币）。含义：聚焦“活跃”长期持有者，提供更现实的成本基础。常作为市场支撑水平参考——熊市中可能成为价格底部\n\n两者比率（短期均价 / 长期均价）含义：反映市场周期阶段和参与者行为：\n比率 >1：短期买家成本高（新资金高价入场），情绪乐观但可能过热\n比率 <1：熊市或底部信号，短期买家成本低（低价入场），弱手出清，市场或将复苏\n总体趋势：比率上升=牛市延续；下降=熊市或分发阶段。排除>10年筹码使比率更准确捕捉周期转折，历史上 <1 时常为长期买入机会",
-        "link": "https://x.com/0xCryptoChan/status/2019983275994071392",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAhoELya8AAhXbP.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
