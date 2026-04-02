@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T20:28:00.707Z",
+  "lastUpdated": "2026-04-02T20:47:54.927Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,7 +93,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 547,
+    "newFetched": 549,
     "successUsers": 27,
     "failedUsers": 1
   },
@@ -754,12 +754,6 @@
       "contentHtml": "有一篇很反乌托邦的文章去年压箱底一直没发(下图是文章一个配图), 没想到这个大分化来的这么快. Ted Chang 2000年前在《Nature》上发表的超级短篇科幻 \"Catching Crumbs from the Table\" 现在看起来更像是惊悚小说, 一点都不科幻. 原来在正态分布中间/中轴往左大量滑落, 混乱就真的是滑梯了",
       "publishedAt": "2026-04-02T06:36:00.000Z",
       "link": "https://x.com/DoveyWanCN/status/2039592753198428302",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE4WTQBa4AAgf2T.jpg"
-        }
-      ],
       "quote": {
         "username": "DoveyWanCN",
         "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
@@ -6118,13 +6112,7 @@
         "username": "DoveyWanCN",
         "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
         "content": "agent时代的dev ops真的太难了, 原来压根没做过. 昨天折腾了一个晚上怎么让我们公司里的agents在和saas交互的时候有足够的自由度又会不会瞎搞.. 思路就是搭三层, 类似大公司需要有个内网, 网关去监控异常流量/放行，员工办公需要先连上内网.. 管agent和管人真的很不一样",
-        "link": "https://x.com/DoveyWanCN/status/2037387825394647372",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHEZAvOqaYAA8psK.png"
-          }
-        ]
+        "link": "https://x.com/DoveyWanCN/status/2037387825394647372"
       },
       "stats": {
         "replies": 0,
@@ -8175,12 +8163,6 @@
       "contentHtml": "agent时代的dev ops真的太难了, 原来压根没做过. 昨天折腾了一个晚上怎么让我们公司里的agents在和saas交互的时候有足够的自由度又会不会瞎搞.. 思路就是搭三层, 类似大公司需要有个内网, 网关去监控异常流量/放行，员工办公需要先连上内网.. 管agent和管人真的很不一样",
       "publishedAt": "2026-03-27T04:34:00.000Z",
       "link": "https://x.com/DoveyWanCN/status/2037387825394647372",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEZAvOqaYAA8psK.png"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
