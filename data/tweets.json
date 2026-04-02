@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T08:12:51.919Z",
+  "lastUpdated": "2026-04-02T08:37:21.018Z",
   "followers": [
     {
       "username": "coinkarma_",
@@ -89,11 +89,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 532,
-    "successUsers": 26,
-    "failedUsers": 1
+    "newFetched": 509,
+    "successUsers": 25,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2039617101221224858",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
+      "content": "Vibe coding is more addictive than any video game ever made (if you know what you want to build).",
+      "contentHtml": "Vibe coding is more addictive than any video game ever made (if you know what you want to build).",
+      "publishedAt": "2026-04-02T08:13:00.000Z",
+      "link": "https://x.com/naval/status/2039617101221224858",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2039616694247968805",
       "username": "naval",
@@ -11789,25 +11804,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEF2UW-aMAAXw9p.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036038371529953568",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "具体权重多少其实不重要，因为各个成分之间没有价差",
-      "contentHtml": "具体权重多少其实不重要，因为各个成分之间没有价差",
-      "publishedAt": "2026-03-23T11:12:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2036038371529953568",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
