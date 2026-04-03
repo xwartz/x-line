@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T03:42:06.587Z",
+  "lastUpdated": "2026-04-03T04:38:15.628Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,7 +93,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 549,
+    "newFetched": 546,
     "successUsers": 27,
     "failedUsers": 1
   },
@@ -336,6 +336,39 @@
       "contentHtml": "「人在不自信的时候说大话，恐惧恐慌的时候说胡话，平静下来才开始说实话。」\n\n——特朗普从伊朗开战到现在，完美演绎了人性的三部曲\n\n刚开始多牛逼啊，天天吹：“伊朗已经投降了！地图上我给它抹了！政权我给它更替了！48小时最后通牒！最多五天！”……典型的恐慌式胡言乱语，流氓帝国主义也逃不过这人性。\n\n结果呢？中东基地被端了之后，航母那边福特号又厕所堵又着火，林肯号直接撤到一千海里以外，两大航母编队跑得比兔子还快。霍尔木兹海峡伊朗想控就控呗，特朗普突然冷静下来一句：“谁控谁控，老子要走了。”\n\n航母这种美国最大重器都靠不了边，现在又整两艘两栖攻击舰要登陆？兄弟们，这不是自欺欺人吗？搁这扯犊子呢？航母都跑路了，登陆舰怎么靠？纯属自己骗自己。\n\n本来这场仗就是赶鸭子上架，准备严重不足。现在前脚还硬刚，后脚就开始给自己铺后路：“无论输赢我们撤军”。这明显是把锅甩给万斯，让他接盘保住共和党基本盘。\n\n霸权流氓也一样，三板斧使完，被人反打一顿，立刻原形毕露，措手不及。\n\n老美这次打得太抽象了，哈哈。",
       "publishedAt": "2026-04-02T23:58:00.000Z",
       "link": "https://x.com/hazenlee/status/2039854962159792145",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2039854764201050352",
+      "username": "bh359",
+      "displayName": "bheau",
+      "avatar": "https://nitter.net/pic/profile_images%2F1795102821437546497%2FEu-TuLE3_bigger.jpg",
+      "content": "over a month of HLP pnl wiped out by a few linked addresses trading $XPL today\n\nprocess was:\n- deposit ~$1.3m across 5 wallets\n- twap long 93m XPL (~$10.6m, ~8x leverage)\n- withdraw ~$3.1m total (allowed bc hyperliquid lets you withdraw uPnL as long as you stay above maintenance margin)\n- get liquidated (some was sold into the book, majority was backstopped around $0.13 - unclear exactly how this worked, but it *seems* this went through into resting bids rather than having HLP take it on)\n- still, HLP lost over $400k from bad debt as the attacker accounts went negative at the backstop price. reminiscent of the POPCAT attack from last year\n- attacker netted ~$1.85m in profit\n\nusually HLP takes on and holds these liquidations longer. maybe they had some logic around not doing so given they also had to eat bad debt, and the book could support the liquidation. or maybe it's just the usual system. not sure\n\nanyways, this doesn't seem repeatable, kinda specific to XPL today where there were buyers on other exchanges (hacked account?) + thin spot liq. i assume if you tried this on another coin rn you'd just get liquidated after you finish twapping\n\n(images of HLP pnl, one attacker's backstop liqs, and one attacker's txs where he withdrew some USDC to profit before letting the rest of the position get liquidated)",
+      "contentHtml": "over a month of HLP pnl wiped out by a few linked addresses trading <a href=\"/search?f=tweets&q=%23XPL\">$XPL</a> today\n\nprocess was:\n- deposit ~$1.3m across 5 wallets\n- twap long 93m XPL (~$10.6m, ~8x leverage)\n- withdraw ~$3.1m total (allowed bc hyperliquid lets you withdraw uPnL as long as you stay above maintenance margin)\n- get liquidated (some was sold into the book, majority was backstopped around $0.13 - unclear exactly how this worked, but it *seems* this went through into resting bids rather than having HLP take it on)\n- still, HLP lost over $400k from bad debt as the attacker accounts went negative at the backstop price. reminiscent of the POPCAT attack from last year\n- attacker netted ~$1.85m in profit\n\nusually HLP takes on and holds these liquidations longer. maybe they had some logic around not doing so given they also had to eat bad debt, and the book could support the liquidation. or maybe it's just the usual system. not sure\n\nanyways, this doesn't seem repeatable, kinda specific to XPL today where there were buyers on other exchanges (hacked account?) + thin spot liq. i assume if you tried this on another coin rn you'd just get liquidated after you finish twapping\n\n(images of HLP pnl, one attacker's backstop liqs, and one attacker's txs where he withdrew some USDC to profit before letting the rest of the position get liquidated)",
+      "publishedAt": "2026-04-02T23:57:00.000Z",
+      "link": "https://x.com/bh359/status/2039854764201050352",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHE7_NtDaIAAhuh7.png"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHE7_N3qXIAAErIh.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHE7_OXUWgAEDfNJ.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11703,27 +11736,6 @@
       "contentHtml": "Claude牛逼 那么Claude会是吃小龙虾的人吗？",
       "publishedAt": "2026-03-24T09:45:00.000Z",
       "link": "https://x.com/hazenlee/status/2036378812553064919",
-      "quote": {
-        "username": "claudeai",
-        "displayName": "Claude",
-        "content": "You can now enable Claude to use your computer to complete tasks.\n\nIt opens your apps, navigates your browser, fills in spreadsheets—anything you'd do sitting at your desk.\n\nResearch preview in Claude Cowork and Claude Code, macOS only.",
-        "link": "https://x.com/claudeai/status/2036195789601374705"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036363354768580690",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "牛市因为赚得没别人快而焦虑\n熊市因为进化没AI快而焦虑\n要学的太多了🤷",
-      "contentHtml": "牛市因为赚得没别人快而焦虑\n熊市因为进化没AI快而焦虑\n要学的太多了🤷",
-      "publishedAt": "2026-03-24T08:43:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2036363354768580690",
       "quote": {
         "username": "claudeai",
         "displayName": "Claude",
