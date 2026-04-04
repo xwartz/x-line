@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T21:16:15.939Z",
+  "lastUpdated": "2026-04-04T21:31:45.577Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 526,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 544,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2040541990618866136",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "第一反应\naiporn指日可待",
+      "contentHtml": "第一反应\naiporn指日可待",
+      "publishedAt": "2026-04-04T21:28:00.000Z",
+      "link": "https://x.com/hazenlee/status/2040541990618866136",
+      "quote": {
+        "username": "charliebcurran",
+        "displayName": "Charles Curran",
+        "content": "If you think AI film can’t be art then explain this.",
+        "link": "https://x.com/charliebcurran/status/2040068580356800750"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2040516881833177575",
       "username": "hazenlee",
@@ -11768,27 +11789,6 @@
         "displayName": "Vincent Yang",
         "content": "感谢 @taresky 推荐，LLM 模型换成了 gpt-5.4-nano，速度特别快，目前默认模型已经改为 gpt-5.4-nano。\n\ngithub.com/missuo/koe/releas…",
         "link": "https://x.com/m1ssuo/status/2036732130533974184"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036737026549276803",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "币安超级赚币给的night到账了，还不能提前赎回，先卖掉了，看看还有没有第二期。没有的话就等bitways的钱包活动了。",
-      "contentHtml": "币安超级赚币给的night到账了，还不能提前赎回，先卖掉了，看看还有没有第二期。没有的话就等bitways的钱包活动了。",
-      "publishedAt": "2026-03-25T09:28:00.000Z",
-      "link": "https://x.com/0xleng1/status/2036737026549276803",
-      "quote": {
-        "username": "0xleng1",
-        "displayName": "Leng",
-        "content": "币安这个理财算下来就是平均18%-19%年化，每个可以申购22000-23000u左右 放在币安杠杠账号可以直接借出来参与这个活动。叠加利息，ada是可以直接放22万。自己注意借出来的风险率，别爆了。",
-        "link": "https://x.com/0xleng1/status/2033459653368279418"
       },
       "stats": {
         "replies": 0,
