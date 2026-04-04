@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T01:36:18.096Z",
+  "lastUpdated": "2026-04-04T02:39:07.552Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,42 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 507,
-    "successUsers": 25,
-    "failedUsers": 3
+    "newFetched": 546,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2040247989390754058",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "在 Glassnode 最新的周报中，与我在“一场尚未爆发的平衡博弈”推文中的观点完全一致（见引文）。\n\n有意思的地方，就是不同的视角，却相互印证。我以“筹码结构”为基础，而Glassnode团队用的是期权衍生品。\n\n周报的原文链接如下：insights.glassnode.com/the-w…\n\n可能有些中文区的小伙伴对研报中的英文表述不是很理解，这里我可以简单做些解释和说明：\n\n🚩 图1：是1周隐含波动率（IV，绿线）与1周实现波动率（RV，红线） 的对比。\n\n目前IV远高于RV，这意味着期权很贵，交易员通过支付高溢价来对冲风险或押注大行情，但实际上BTC在这一周的动静并不大。\n\n从图上看，这种“基差”已持续了三周；也就是说，虽然市场表面风平浪静，但交易者内心是担心/焦虑的。这种“高价买保险”的行为体现了大家对行情缺乏信心。\n\n🚩 图2：是Gamma暴露（GEX）；我们关注的重点在那些红色的柱状图，即做市商的负Gamma区域。\n\n当BTC价格下跌时，负Gamma状态的做市商，为了保持中性头寸，不得不卖出更多的BTC现货或期货。\n\n他们的对冲行为会放大市场波动。而当前负Gamma主要都集中在$58,000-$66,000这个区间。\n\n我们把2个数据结合在一起看，可以总结如下：\n\n目前的BTC市场处于一种“脆弱的平衡”中。因为期权定价过高且做市商处于负Gamma状态，一旦有点利空把价格引到敏感负Gamma区间，就会点燃“火药桶”。\n\n前期被压制的波动，会比预期释放的更快、更急。",
+      "contentHtml": "在 Glassnode 最新的周报中，与我在“一场尚未爆发的平衡博弈”推文中的观点完全一致（见引文）。\n\n有意思的地方，就是不同的视角，却相互印证。我以“筹码结构”为基础，而Glassnode团队用的是期权衍生品。\n\n周报的原文链接如下：<a href=\"https://insights.glassnode.com/the-week-onchain-week-13-2026/\">insights.glassnode.com/the-w…</a>\n\n可能有些中文区的小伙伴对研报中的英文表述不是很理解，这里我可以简单做些解释和说明：\n\n🚩 图1：是1周隐含波动率（IV，绿线）与1周实现波动率（RV，红线） 的对比。\n\n目前IV远高于RV，这意味着期权很贵，交易员通过支付高溢价来对冲风险或押注大行情，但实际上BTC在这一周的动静并不大。\n\n从图上看，这种“基差”已持续了三周；也就是说，虽然市场表面风平浪静，但交易者内心是担心/焦虑的。这种“高价买保险”的行为体现了大家对行情缺乏信心。\n\n🚩 图2：是Gamma暴露（GEX）；我们关注的重点在那些红色的柱状图，即做市商的负Gamma区域。\n\n当BTC价格下跌时，负Gamma状态的做市商，为了保持中性头寸，不得不卖出更多的BTC现货或期货。\n\n他们的对冲行为会放大市场波动。而当前负Gamma主要都集中在$58,000-$66,000这个区间。\n\n我们把2个数据结合在一起看，可以总结如下：\n\n目前的BTC市场处于一种“脆弱的平衡”中。因为期权定价过高且做市商处于负Gamma状态，一旦有点利空把价格引到敏感负Gamma区间，就会点燃“火药桶”。\n\n前期被压制的波动，会比预期释放的更快、更急。",
+      "publishedAt": "2026-04-04T02:00:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2040247989390754058",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHE_T2kibQAAlJUH.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHE_T2j2bEAAXIDv.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "x.com/i/article/203957488407…",
+        "link": "https://x.com/Murphychen888/status/2039580016476934176"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2040239625684615304",
       "username": "0xCryptoChan",
@@ -11782,25 +11813,6 @@
         "displayName": "投资TALK君",
         "content": "以色列12号台：停战一个月的计划正在被制定\n竟然是KUSHNER和WITKOFF在谈。同时JD和RUBIO也被派出去了，似乎在和伊朗那边谈",
         "link": "https://x.com/TJ_Research/status/2036547437939105875"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036551544691216649",
-      "username": "gorilla_rape",
-      "displayName": "wyatt",
-      "avatar": "https://nitter.net/pic/profile_images%2F2018415396970188800%2FXL0TTfi7_bigger.jpg",
-      "content": "",
-      "contentHtml": "",
-      "publishedAt": "2026-03-24T21:11:00.000Z",
-      "link": "https://x.com/gorilla_rape/status/2036551544691216649",
-      "retweet": {
-        "username": "HaywarZhu",
-        "displayName": "海老师 | Haywar"
       },
       "stats": {
         "replies": 0,
