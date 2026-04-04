@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T07:35:56.441Z",
+  "lastUpdated": "2026-04-04T08:00:06.016Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,53 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 543,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 505,
+    "successUsers": 25,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2040335406412243322",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "真烦啊…",
+      "contentHtml": "真烦啊…",
+      "publishedAt": "2026-04-04T07:47:00.000Z",
+      "link": "https://x.com/taresky/status/2040335406412243322",
+      "quote": {
+        "username": "dotey",
+        "displayName": "宝玉",
+        "content": "还有一个重要细节值得补充。有开发者追问：那些在本地包装 Claude Code 的个人工具（比如 T3 Code），订阅还能用吗？Boris Cherny 确认可以，并表示正在把这条边界写得更清楚。Theo（T3 Code 作者）随即宣布自家工具安全过关。\n\n但 Anthropic 工程师 Thariq 马上补了一句冷水：这个确认仅限于包装 Claude Code 的本地工具（直接调用 cli 那种），Agent SDK 的使用规则还没定，他们还在厘清。\n\n简单总结下就是：Claude Code 本地使用算合规，通过 Agent SDK 调用目前悬而未决，第三方工具直接用订阅 OAuth 明确封杀。",
+        "link": "https://x.com/dotey/status/2040278308298928335",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFCGDOHWoAA37fE.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2040333804179755059",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n好像现有的 AI 工具，对（技术）设计文档 Battle 这个环节都没有做处理？\n\n官方客户端没有处理好理解，因为只用自家模型。\n\n我自己用的时候，都会让 gpt 和 claude 反复 battle 再定方案。\n\n我猜大部分人都自己在两个客户端之间来回发文档来实现了。\n\n那为啥第三方客户端也没做呢？",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n好像现有的 AI 工具，对（技术）设计文档 Battle 这个环节都没有做处理？\n\n官方客户端没有处理好理解，因为只用自家模型。\n\n我自己用的时候，都会让 gpt 和 claude 反复 battle 再定方案。\n\n我猜大部分人都自己在两个客户端之间来回发文档来实现了。\n\n那为啥第三方客户端也没做呢？",
+      "publishedAt": "2026-04-04T07:41:00.000Z",
+      "link": "https://x.com/taresky/status/2040333804179755059",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2040304314523250933",
       "username": "Bitfatty",
@@ -5523,7 +5565,7 @@
       "quote": {
         "username": "Mercy_okx",
         "displayName": "Mercy",
-        "content": "AI 正在吸干流动性，Crypto 还有戏吗？\n\n“AI 确实是当下全球最大的共识，所有的钱都在往那边倾斜”，直面这个残酷现实，亲历三个周期的 Yetta 反而看到了机会：\n\nCrypto 最惨淡的时候，正是 VC 进场的最好时机。她当下依然坚定押注 PayFi 与 CeDeFi，并笃定 AI 与稳定币的结合才刚刚拉开序幕\n\n本期，Mercy很开心可以对话 Primitive Ventures 投资合伙人 Yetta @YettaSing ！ \n\nAI 狂热下 Crypto 的结构性机会——“只要还有人在 AI 里赚钱，流动性迟早会回来”。",
+        "content": "AI 正在吸干流动性，Crypto 还有戏吗？\n\n“AI 确实是当下全球最大的共识，所有的钱都在往那边倾斜”，直面这个残酷现实，亲历三个周期的 Yetta 反而看到了机会：\n\nCrypto 最惨淡的时候，正是 VC 进场的最好时机。她当下依然坚定押注 PayFi 与 CeDeFi，并笃定 AI 与稳定币的结合才刚刚拉开序幕",
         "link": "https://x.com/Mercy_okx/status/2038499206491697250"
       },
       "stats": {
@@ -11766,48 +11808,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHENqUzjbsAAlB3B.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036568283961315771",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "😂😂😂😂😂😂😂😂",
-      "contentHtml": "😂😂😂😂😂😂😂😂",
-      "publishedAt": "2026-03-24T22:18:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2036568283961315771",
-      "quote": {
-        "username": "alifarhat79",
-        "displayName": "Not Jerome Powell",
-        "content": "Leaked photo of Trump negotiating with Iran",
-        "link": "https://x.com/alifarhat79/status/2036560308223758763",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHENQzXpWQAAetgK.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036563554426396971",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "微软20倍估值，低于22年（20.6），20年（22.1）最低点，接近18年的19.8倍。市场认为软件死了，我愿意站在另外一边，看看谁对谁错。",
-      "contentHtml": "微软20倍估值，低于22年（20.6），20年（22.1）最低点，接近18年的19.8倍。市场认为软件死了，我愿意站在另外一边，看看谁对谁错。",
-      "publishedAt": "2026-03-24T21:59:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2036563554426396971",
       "stats": {
         "replies": 0,
         "retweets": 0,
