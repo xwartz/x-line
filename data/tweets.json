@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T21:47:21.406Z",
+  "lastUpdated": "2026-04-04T22:08:16.162Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 545,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 522,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2040550896799465768",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "people take a flight from point A to point B and act like they are experiencing some crazy shit somehow",
+      "contentHtml": "people take a flight from point A to point B and act like they are experiencing some crazy shit somehow",
+      "publishedAt": "2026-04-04T22:03:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2040550896799465768",
+      "quote": {
+        "username": "0xleegenz",
+        "displayName": "le.hl",
+        "content": "Walking alone through a foreign city at night and realizing how far you’ve come has to be a top 3 peak moment of all time",
+        "link": "https://x.com/0xleegenz/status/2040021505090945404"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2040541990618866136",
       "username": "hazenlee",
@@ -463,7 +484,13 @@
         "username": "DefiIgnas",
         "displayName": "Ignas | DeFi",
         "content": "Crypto easy money era has ended.\n\nHistorically, most easy money periods last 3-7 years:\n\n- California Gold Rush lasted 7 years.\n\n- Tulip mania lasted 3\n\n- The dot-com bubble about 5 years before the Nasdaq dumped by 78%\n\n- Japan's bubble was 6 years, then Nikkei took 34 years to recover\n\nSo most speculative booms in history last 3-7 years.\n\nCrypto easy money started in 2017 with ICOs. Then DeFi summer 2020. NFTs in 2021. Airdrops. Points farming. Memecoins.\n\nThat's  ~8 years of easy money.\n\nWe are already past that as every easy money model has been discovered, exploited, or arbitraged to max competition.\n\nPhilosophical hard-forks like BTC -> BTC Gold or ETH -> ETH classic are over as crypto ossified not just technically.\n\nICOs got regulated.\n\nAirdrops get farmed by industrialized sybils.\n\nMemecoin launches went from community fun projects to extraction tools.\n\nThe gold rush analogy seems quite good here as FOMOs end the same way:\n\nSurface deposits get exhausted and then industrial mining takes over. (Literally same happened to BTC mining moving from retail to institutions who even IPOed from BTC mining.)\n\nSo here’s where crypto is now: TradFi suits moving in, tokenization, RWAs, corpo-sloppo permissioned chains, and regulation. The Trump family & insiders are the last to get easy money from crypto.\n\nFor retail, the surface easy money gold picking is gone.\n\nWhat's left to earn requires real infra, real users, real revenue which means more specialization, specific knowledge and REAL hard effort.\n\nNot sure how many of us who got easy money are ready to grind harder now.\n\nSo many builders, KOLs, projects are extracting as much as they (we) can before leaving crypto coz adapting to the new hard-money period is gonna be hard.\n\nQuestion is: where to pivot for easy money? Asking for a friend.",
-        "link": "https://x.com/DefiIgnas/status/2040046634730766677"
+        "link": "https://x.com/DefiIgnas/status/2040046634730766677",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHE-zmmqaoAAwDFV.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -11763,27 +11790,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEP5SGZbAAAvZDK.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036738056628400177",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "嘻嘻，润色速度快到完全不可察觉。",
-      "contentHtml": "嘻嘻，润色速度快到完全不可察觉。",
-      "publishedAt": "2026-03-25T09:32:00.000Z",
-      "link": "https://x.com/taresky/status/2036738056628400177",
-      "quote": {
-        "username": "m1ssuo",
-        "displayName": "Vincent Yang",
-        "content": "感谢 @taresky 推荐，LLM 模型换成了 gpt-5.4-nano，速度特别快，目前默认模型已经改为 gpt-5.4-nano。\n\ngithub.com/missuo/koe/releas…",
-        "link": "https://x.com/m1ssuo/status/2036732130533974184"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
