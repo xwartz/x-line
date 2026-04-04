@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T08:46:50.819Z",
+  "lastUpdated": "2026-04-04T09:15:45.823Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,9 +93,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 547,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 480,
+    "successUsers": 24,
+    "failedUsers": 4
   },
   "tweets": [
     {
@@ -234,6 +234,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHFCVwVqbwAApnN4.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2040288409273733357",
+      "username": "arjunkhemani",
+      "displayName": "Arjun Khemani",
+      "avatar": "https://nitter.net/pic/profile_images%2F1977979925635215360%2FG3HAlSxE_bigger.jpg",
+      "content": "My conversation with Sean Bowe (@ebfull) and Dev (@zkDragon) on the architecture of freedom.\n\n0:00 - Why Dev’s working on Zcash\n12:24 - AI is surveillance’s ultimate weapon\n13:33 - Encrypted money must scale\n15:49 - Compliant “privacy” is an oxymoron\n19:25 - PIR for scaling Zcash\n36:35 - How Tachyon and PIR work hand in hand\n43:47 - Quantum recoverability\n47:18 - Is quantum the last cryptography problem?\n51:41 - Easier coinholder voting process\n1:03:15 - Zcash roadmap\n1:17:34 - What Zcash looks like at scale",
+      "contentHtml": "My conversation with Sean Bowe (<a href=\"/ebfull\" title=\"Sean Bowe\">@ebfull</a>) and Dev (<a href=\"/zkDragon\" title=\"Dev 🧪\">@zkDragon</a>) on the architecture of freedom.\n\n0:00 - Why Dev’s working on Zcash\n12:24 - AI is surveillance’s ultimate weapon\n13:33 - Encrypted money must scale\n15:49 - Compliant “privacy” is an oxymoron\n19:25 - PIR for scaling Zcash\n36:35 - How Tachyon and PIR work hand in hand\n43:47 - Quantum recoverability\n47:18 - Is quantum the last cryptography problem?\n51:41 - Easier coinholder voting process\n1:03:15 - Zcash roadmap\n1:17:34 - What Zcash looks like at scale",
+      "publishedAt": "2026-04-04T04:40:00.000Z",
+      "link": "https://x.com/arjunkhemani/status/2040288409273733357",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11817,21 +11836,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2036590346457796610",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "各种 skills 看的我头疼，不知道应该配几个，每加减一个都要测测。\n\n这个明显是产品的事，不是用户的事。",
-      "contentHtml": "各种 skills 看的我头疼，不知道应该配几个，每加减一个都要测测。\n\n这个明显是产品的事，不是用户的事。",
-      "publishedAt": "2026-03-24T23:45:00.000Z",
-      "link": "https://x.com/taresky/status/2036590346457796610",
       "stats": {
         "replies": 0,
         "retweets": 0,
