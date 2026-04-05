@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T14:49:06.475Z",
+  "lastUpdated": "2026-04-05T15:11:41.975Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,57 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 545,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 527,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2040806094117978127",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "宇宙所期货指数的权重分配一天不改，这个策略就能一直有效",
+      "contentHtml": "宇宙所期货指数的权重分配一天不改，这个策略就能一直有效",
+      "publishedAt": "2026-04-05T14:57:00.000Z",
+      "link": "https://x.com/follow_clues/status/2040806094117978127",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2040805734477410414",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "小交易所最好的生存路径：\n\n坐庄小币，赚Binance期货的钱\n\n利润买入以太坊，提币走人\n\n如此循环，最后来一次eth大清算",
+      "contentHtml": "小交易所最好的生存路径：\n\n坐庄小币，赚Binance期货的钱\n\n利润买入以太坊，提币走人\n\n如此循环，最后来一次eth大清算",
+      "publishedAt": "2026-04-05T14:56:00.000Z",
+      "link": "https://x.com/follow_clues/status/2040805734477410414",
+      "quote": {
+        "username": "agintender",
+        "displayName": "danny",
+        "content": "气氛烘托得差不多了（其实是我有空了。。。😂），现在来说第一个CoinGlass没敢说的事情\n\n本文的逻辑是：在同一个赛道里，交易近似的标的，服务同一类人群，相同的交易规则，按理说资金使用效率应该也是近似的。所以我们用了专门为交易而生的Hyperliquid的数据指标作为benchmark。看看哪些交易所的数据有异常？\n\n这里用了OI /PoR的指标\n\n交易所按理说有理财、存款、托管的需求，要是交易/持仓比例超过Hyperliquid会不会有点异常？难道你的客户群还特喜欢建仓？\n\nHL这里是1.23x，剩下的cex各位自己看图理解吧，我就不翻译了\n\n别的不说，要是SBF有这个资产沉淀深度，估计都能trade到月球去了\n\n看到这个图你可能就会明白：别看什么用户基数，资产沉淀，Binance和OKX的护城河其实是“稳健”，对，就这么简单直接\n\n不同的是，Binance是“保守”带来的稳健，宁愿慢一点，也要稳一些（ 敢为天下后）\n\nOKX是“克制”带来的稳健，不是认准的事，宁可不做\n\nvol/por ;oi/por 看似简单的算法其实隐藏了好多信息，别老用AI总结，自己去体会\n\n备注：这里的official PoR指的是从官方披露的核心资产总和（BTC+ETH+USDT+USDC)",
+        "link": "https://x.com/agintender/status/2040801827046973614",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFJemBDakAA11LB.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFJhDPVbAAEBI6A.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2040797064490311961",
       "username": "daidaibtc",
@@ -110,7 +156,7 @@
       "quote": {
         "username": "daidaibtc",
         "displayName": "带带带比特",
-        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能",
+        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能是前些年的限量版球鞋？从高溢价到小溢价再到平价，破发。万物都是周期，感觉Q3 Q4开始沽空泡泡玛特毫无问题",
         "link": "https://x.com/daidaibtc/status/1927952630384578808"
       },
       "stats": {
@@ -11710,60 +11756,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2037062413359735030",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "赛博永生",
-      "contentHtml": "赛博永生",
-      "publishedAt": "2026-03-26T07:01:00.000Z",
-      "link": "https://x.com/hazenlee/status/2037062413359735030",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEUZcy1aYAAFOI8.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2037051528553619609",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "优质尿酸",
-      "contentHtml": "优质尿酸",
-      "publishedAt": "2026-03-26T06:18:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2037051528553619609",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEUPij8bYAEZC4j.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEUPjGEbYAU8cWP.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEUPjpNbYAA6QPo.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEUPkMDaYAArbtF.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
