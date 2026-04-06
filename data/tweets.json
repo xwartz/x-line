@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T12:32:08.870Z",
+  "lastUpdated": "2026-04-06T13:47:33.593Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,137 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 545,
+    "newFetched": 546,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2041142276005711953",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "美国白宫：美国总统特朗普尚未批准停火计划。潜在的停火方案只是众多设想之一。\n\n好像空单抗回来一些",
+      "contentHtml": "美国白宫：美国总统特朗普尚未批准停火计划。潜在的停火方案只是众多设想之一。\n\n好像空单抗回来一些",
+      "publishedAt": "2026-04-06T13:13:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2041142276005711953",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2041141529432244347",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "StarCraft 3 leaks thanks to @steipete best game of 2026 for sure",
+      "contentHtml": "StarCraft 3 leaks thanks to <a href=\"/steipete\" title=\"Peter Steinberger 🦞\">@steipete</a> best game of 2026 for sure",
+      "publishedAt": "2026-04-06T13:10:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2041141529432244347",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFOXJemaAAERlfj.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2041139346783293946",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "Working on a big $BTC video update today.\n\nDiscussing why I closed my swing short, and my current plans, thesis & bias.",
+      "contentHtml": "Working on a big <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> video update today.\n\nDiscussing why I closed my swing short, and my current plans, thesis &amp; bias.",
+      "publishedAt": "2026-04-06T13:01:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2041139346783293946",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2041136978654372063",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "exact string match 🤦meaning it's just hardcoded and scanned all incomings plain text. imaging trusting them with you other prompts .. geez it's getting ugly too fast. Theoretically, even their internal agents can READ everything you prompt there",
+      "contentHtml": "exact string match 🤦meaning it's just hardcoded and scanned all incomings plain text. imaging trusting them with you other prompts .. geez it's getting ugly too fast. Theoretically, even their internal agents can READ everything you prompt there",
+      "publishedAt": "2026-04-06T12:52:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2041136978654372063",
+      "quote": {
+        "username": "steipete",
+        "displayName": "Peter Steinberger 🦞",
+        "content": "Anthropic now blocks first-party harness use too 👀\n\nclaude -p --append-system-prompt 'A personal assistant running inside OpenClaw.' 'is clawd here?'\n\n→ 400 Third-party apps now draw from your extra usage, not your plan limits.\n\nSo yeah: bring your own coin 🪙🦞",
+        "link": "https://x.com/steipete/status/2040811558427648357"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2041134377619357862",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "KillaLabs will be open for a short 48-hour window before closing for 3 months.\n\nInside, I share the frameworks and tools I use to analyse markets, including time-based price action concepts for assets like $BTC.\n\nThis content is for educational purposes only and is not financial advice.",
+      "contentHtml": "KillaLabs will be open for a short 48-hour window before closing for 3 months.\n\nInside, I share the frameworks and tools I use to analyse markets, including time-based price action concepts for assets like <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>.\n\nThis content is for educational purposes only and is not financial advice.",
+      "publishedAt": "2026-04-06T12:42:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2041134377619357862",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFOPI5BWUAAnur_.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2041133466839097439",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-04-06T12:38:00.000Z",
+      "link": "https://x.com/hazenlee/status/2041133466839097439",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFOQD07boAA_c0g.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0x_MrFive",
+        "displayName": "Mr.Five",
+        "content": "不亏是小红书，罗技又整活了\n\n上一次把顾客比作狗，现在又来新花样了\n\n如果让你放弃用罗技，有没有鼠标推荐？",
+        "link": "https://x.com/0x_MrFive/status/2041026787648602297",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFMupuiawAEJsRq.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2041115644524171524",
       "username": "coinkarma_",
@@ -11672,120 +11798,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2037345278760538253",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "当然这只是消费者端的AI落地，思考一下未来的广告怎么做？我能想到的是对UBER的广告业务是很大的威胁，但是UBER从平台会变成工具，会被SIRI调用更多，直到UBER下面的商家，司机都拥有了自己的AGENT，通过A2A协议沟通，完全摆脱靠信息差赚钱的平台，以后会有基于A2A协议的编排层公司出现，UBER可以自己做，也会有新竞争者出现",
-      "contentHtml": "当然这只是消费者端的AI落地，思考一下未来的广告怎么做？我能想到的是对UBER的广告业务是很大的威胁，但是UBER从平台会变成工具，会被SIRI调用更多，直到UBER下面的商家，司机都拥有了自己的AGENT，通过A2A协议沟通，完全摆脱靠信息差赚钱的平台，以后会有基于A2A协议的编排层公司出现，UBER可以自己做，也会有新竞争者出现",
-      "publishedAt": "2026-03-27T01:45:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2037345278760538253",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2037341378695631319",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "一笔买入 7543 枚，囤积 1557 万美元 $ETH ，一下跌就有大户出手了💰\n\n地址 0xBEE…5c555 7 小时前花费 USDT 和 $WBTC 在链上买入 7543 枚 ETH，成本 $2048.69，几乎买在了短时最低点\n\n钱包地址 0xBEea3FC7F306CBBa9b292F247455b92ad66B3500\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "一笔买入 7543 枚，囤积 1557 万美元 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> ，一下跌就有大户出手了💰\n\n地址 0xBEE…5c555 7 小时前花费 USDT 和 <a href=\"/search?f=tweets&q=%23WBTC\">$WBTC</a> 在链上买入 7543 枚 ETH，成本 $2048.69，几乎买在了短时最低点\n\n钱包地址 0xBEea3FC7F306CBBa9b292F247455b92ad66B3500\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-03-27T01:30:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2037341378695631319",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEYXLNraYAAITCO.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2037341359363817691",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "BUY MORE!\n苹果今天宣布将会允许SIRI和所有大模型整合，怎么理解？\n1. 苹果内部自研模型解决最基本用户需求\n2. 智商不够的，通过和GEMINI合作的模型在私云上运行，保护用户数据\n3. SIRI现在只和CHATGPT合作，未来和所有LLM合作，意味着不同的模型将会在不同的问题/需求胜出\n4. SIRI做为个人智能体助理将会掌握流量入口，对于所有大模型都会是增量，SIRI成为了他们的分销商\n\n最后是一个讨论，先给一个我认为以后AI执行任务的路径：\n你对Siri说话（苹果的入口层），Siri把请求路由给Claude智能体（Anthropic的模型），Claude通过MCP协议去调取数据，再通过A2A协议（谷歌主导的开源协议）与其他智能体对话协商，最终通过AP2协议使用USDC（Circle的结算轨道）完成支付，而这一切运行在谷歌云的基础设施上\n以上的整条路径，有很多是可以替代的，比如CLAUDE变成GPT，USDC变成VISA，谷歌云变成AWS，SIRI可以变成任何一个个人助理智能体，但必须在操作系统层面。哪些容易替代，哪些是绝对的增量市场？",
-      "contentHtml": "BUY MORE!\n苹果今天宣布将会允许SIRI和所有大模型整合，怎么理解？\n1. 苹果内部自研模型解决最基本用户需求\n2. 智商不够的，通过和GEMINI合作的模型在私云上运行，保护用户数据\n3. SIRI现在只和CHATGPT合作，未来和所有LLM合作，意味着不同的模型将会在不同的问题/需求胜出\n4. SIRI做为个人智能体助理将会掌握流量入口，对于所有大模型都会是增量，SIRI成为了他们的分销商\n\n最后是一个讨论，先给一个我认为以后AI执行任务的路径：\n你对Siri说话（苹果的入口层），Siri把请求路由给Claude智能体（Anthropic的模型），Claude通过MCP协议去调取数据，再通过A2A协议（谷歌主导的开源协议）与其他智能体对话协商，最终通过AP2协议使用USDC（Circle的结算轨道）完成支付，而这一切运行在谷歌云的基础设施上\n以上的整条路径，有很多是可以替代的，比如CLAUDE变成GPT，USDC变成VISA，谷歌云变成AWS，SIRI可以变成任何一个个人助理智能体，但必须在操作系统层面。哪些容易替代，哪些是绝对的增量市场？",
-      "publishedAt": "2026-03-27T01:30:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2037341359363817691",
-      "quote": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君",
-        "content": "虽然 $AAPL 现在估值不便宜，但每一次产品的延后都是为了AI智能体SIRI的落地，多买点吧，真正的AI落地将会在苹果身上引爆",
-        "link": "https://x.com/TJ_Research/status/2031185437054685356",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDA4IsMWQAA_161.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2037336667510722709",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "built a 3 layer write boundaries so that our agents can SLOW THE FUCK DOWN while still have most freedom when access SaaS.. dev ops for agent is such a pain in the ass, anyone is building this or any good practice can ref to? whats the best learning on agent <> GUI policy?",
-      "contentHtml": "built a 3 layer write boundaries so that our agents can SLOW THE FUCK DOWN while still have most freedom when access SaaS.. dev ops for agent is such a pain in the ass, anyone is building this or any good practice can ref to? whats the best learning on agent &lt;&gt; GUI policy?",
-      "publishedAt": "2026-03-27T01:11:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2037336667510722709",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEYStGGaEAA2-uT.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2037334965869048125",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "the most expensive hire in 2027 will be the last person\nwho can actually audit the machine",
-      "contentHtml": "the most expensive hire in 2027 will be the last person\nwho can actually audit the machine",
-      "publishedAt": "2026-03-27T01:04:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2037334965869048125",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2037319792718237985",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "Bill Ackman基金YTD -20%。\n估计马上要建议川普让WITCOFF把位置让给他去代表美国谈判了🙂",
-      "contentHtml": "Bill Ackman基金YTD -20%。\n估计马上要建议川普让WITCOFF把位置让给他去代表美国谈判了🙂",
-      "publishedAt": "2026-03-27T00:04:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2037319792718237985",
       "stats": {
         "replies": 0,
         "retweets": 0,
