@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T00:28:54.624Z",
+  "lastUpdated": "2026-04-07T01:03:48.762Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 545,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 506,
+    "successUsers": 25,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2041317631983300981",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n- 以前做个居民区的街边店是傻瓜生意。什么叫傻瓜生意？你只要食材新鲜，味道做好，就有人会过来吃。这叫傻瓜生意。\n\n- 现在餐饮要讲需求、讲品牌、讲营销、讲渠道、讲管理，你会吗？如果你什么都不会，怎么跟其他人竞争？\n\n- 有的店开的时候已经死了，只是过了 3 个月才埋。\n\n- 你不适合创业，老老实实回去上班。\n\n以上（大致）来自《勇哥说餐饮》，也适用于 AI 时代的编程。\n\n一直上班的程序员，第一次直面市场竞争时，难免震撼。老独立开发者应该已经见怪不怪，风轻云淡了。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n- 以前做个居民区的街边店是傻瓜生意。什么叫傻瓜生意？你只要食材新鲜，味道做好，就有人会过来吃。这叫傻瓜生意。\n\n- 现在餐饮要讲需求、讲品牌、讲营销、讲渠道、讲管理，你会吗？如果你什么都不会，怎么跟其他人竞争？\n\n- 有的店开的时候已经死了，只是过了 3 个月才埋。\n\n- 你不适合创业，老老实实回去上班。\n\n以上（大致）来自《勇哥说餐饮》，也适用于 AI 时代的编程。\n\n一直上班的程序员，第一次直面市场竞争时，难免震撼。老独立开发者应该已经见怪不怪，风轻云淡了。",
+      "publishedAt": "2026-04-07T00:50:00.000Z",
+      "link": "https://x.com/taresky/status/2041317631983300981",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2041309257627308445",
       "username": "KillaXBT",
@@ -124,6 +139,25 @@
             "url": "https://nitter.net/pic/orig/media%2FHFOPI5BWUAAnur_.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2041275563466502560",
+      "username": "AnthropicAI",
+      "displayName": "Anthropic",
+      "avatar": "https://nitter.net/pic/profile_images%2F1798110641414443008%2FXP8gyBaY_bigger.jpg",
+      "content": "Our run-rate revenue has surpassed $30 billion, up from $9 billion at the end of 2025, as demand for Claude continues to accelerate. This partnership gives us the compute to keep pace.\n\nRead more: anthropic.com/news/google-br…",
+      "contentHtml": "Our run-rate revenue has surpassed $30 billion, up from $9 billion at the end of 2025, as demand for Claude continues to accelerate. This partnership gives us the compute to keep pace.\n\nRead more: <a href=\"https://www.anthropic.com/news/google-broadcom-partnership-compute\">anthropic.com/news/google-br…</a>",
+      "publishedAt": "2026-04-06T22:03:00.000Z",
+      "link": "https://x.com/AnthropicAI/status/2041275563466502560",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
       },
       "stats": {
         "replies": 0,
@@ -2854,25 +2888,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFCVwVqbwAApnN4.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040288409273733357",
-      "username": "arjunkhemani",
-      "displayName": "Arjun Khemani",
-      "avatar": "https://nitter.net/pic/profile_images%2F1977979925635215360%2FG3HAlSxE_bigger.jpg",
-      "content": "My conversation with Sean Bowe (@ebfull) and Dev (@zkDragon) on the architecture of freedom.\n\n0:00 - Why Dev’s working on Zcash\n12:24 - AI is surveillance’s ultimate weapon\n13:33 - Encrypted money must scale\n15:49 - Compliant “privacy” is an oxymoron\n19:25 - PIR for scaling Zcash\n36:35 - How Tachyon and PIR work hand in hand\n43:47 - Quantum recoverability\n47:18 - Is quantum the last cryptography problem?\n51:41 - Easier coinholder voting process\n1:03:15 - Zcash roadmap\n1:17:34 - What Zcash looks like at scale",
-      "contentHtml": "My conversation with Sean Bowe (<a href=\"/ebfull\" title=\"Sean Bowe\">@ebfull</a>) and Dev (<a href=\"/zkDragon\" title=\"Dev 🧪\">@zkDragon</a>) on the architecture of freedom.\n\n0:00 - Why Dev’s working on Zcash\n12:24 - AI is surveillance’s ultimate weapon\n13:33 - Encrypted money must scale\n15:49 - Compliant “privacy” is an oxymoron\n19:25 - PIR for scaling Zcash\n36:35 - How Tachyon and PIR work hand in hand\n43:47 - Quantum recoverability\n47:18 - Is quantum the last cryptography problem?\n51:41 - Easier coinholder voting process\n1:03:15 - Zcash roadmap\n1:17:34 - What Zcash looks like at scale",
-      "publishedAt": "2026-04-04T04:40:00.000Z",
-      "link": "https://x.com/arjunkhemani/status/2040288409273733357",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11759,31 +11774,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2037451514046971944",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "木头姐开始抛了？\n晚了 早想啥了\n现在麦就是自杀\n卖也是死 不卖也是死\n横竖都是死😁",
-      "contentHtml": "木头姐开始抛了？\n晚了 早想啥了\n现在麦就是自杀\n卖也是死 不卖也是死\n横竖都是死😁",
-      "publishedAt": "2026-03-27T08:47:00.000Z",
-      "link": "https://x.com/hazenlee/status/2037451514046971944",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEZ7WhAbMAAwqzl.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEZ7WhAa8AA8hff.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
