@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T20:30:48.621Z",
+  "lastUpdated": "2026-04-07T20:52:59.633Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,9 +93,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 479,
-    "successUsers": 24,
-    "failedUsers": 4
+    "newFetched": 460,
+    "successUsers": 23,
+    "failedUsers": 5
   },
   "tweets": [
     {
@@ -3840,6 +3840,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHFCVwVqbwAApnN4.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2040288409273733357",
+      "username": "arjunkhemani",
+      "displayName": "Arjun Khemani",
+      "avatar": "https://nitter.net/pic/profile_images%2F1977979925635215360%2FG3HAlSxE_bigger.jpg",
+      "content": "My conversation with Sean Bowe (@ebfull) and Dev (@zkDragon) on the architecture of freedom.\n\n0:00 - Why Dev’s working on Zcash\n12:24 - AI is surveillance’s ultimate weapon\n13:33 - Encrypted money must scale\n15:49 - Compliant “privacy” is an oxymoron\n19:25 - PIR for scaling Zcash\n36:35 - How Tachyon and PIR work hand in hand\n43:47 - Quantum recoverability\n47:18 - Is quantum the last cryptography problem?\n51:41 - Easier coinholder voting process\n1:03:15 - Zcash roadmap\n1:17:34 - What Zcash looks like at scale",
+      "contentHtml": "My conversation with Sean Bowe (<a href=\"/ebfull\" title=\"Sean Bowe\">@ebfull</a>) and Dev (<a href=\"/zkDragon\" title=\"Dev 🧪\">@zkDragon</a>) on the architecture of freedom.\n\n0:00 - Why Dev’s working on Zcash\n12:24 - AI is surveillance’s ultimate weapon\n13:33 - Encrypted money must scale\n15:49 - Compliant “privacy” is an oxymoron\n19:25 - PIR for scaling Zcash\n36:35 - How Tachyon and PIR work hand in hand\n43:47 - Quantum recoverability\n47:18 - Is quantum the last cryptography problem?\n51:41 - Easier coinholder voting process\n1:03:15 - Zcash roadmap\n1:17:34 - What Zcash looks like at scale",
+      "publishedAt": "2026-04-04T04:40:00.000Z",
+      "link": "https://x.com/arjunkhemani/status/2040288409273733357",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11727,33 +11746,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEbhzkQb0AEssSY.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2037561249622573439",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "genius 公布空投份额了，一共21%。\n每个赛季7%，挺好的，目前看项目方格局挺大的。\n\n300m是我的最低预期，发2100万u我是觉得合理的，下个月就能见分晓了，第一周成本0.0015 后面0.025-0.035 这个成本真的很难亏希望不要打脸。",
-      "contentHtml": "genius 公布空投份额了，一共21%。\n每个赛季7%，挺好的，目前看项目方格局挺大的。\n\n300m是我的最低预期，发2100万u我是觉得合理的，下个月就能见分晓了，第一周成本0.0015 后面0.025-0.035 这个成本真的很难亏希望不要打脸。",
-      "publishedAt": "2026-03-27T16:03:00.000Z",
-      "link": "https://x.com/0xleng1/status/2037561249622573439",
-      "quote": {
-        "username": "GeniusTerminal",
-        "displayName": "Genius",
-        "content": "We're announcing our first 3 seasons.\n\nSeason 1 is closing in... stay Genius 🧠",
-        "link": "https://x.com/GeniusTerminal/status/2037558444325249129",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHEbcm3tacAAc3TP.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
