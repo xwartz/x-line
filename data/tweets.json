@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T07:49:10.381Z",
+  "lastUpdated": "2026-04-07T08:29:20.954Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,9 +93,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 542,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 500,
+    "successUsers": 25,
+    "failedUsers": 3
   },
   "tweets": [
     {
@@ -7777,25 +7777,6 @@
       }
     },
     {
-      "id": "2038896717698064513",
-      "username": "mrjasonchoi",
-      "displayName": "Jason Choi",
-      "avatar": "https://nitter.net/pic/profile_images%2F2036826091978178561%2FDF3WwX7A_bigger.jpg",
-      "content": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
-      "contentHtml": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
-      "publishedAt": "2026-03-31T08:30:00.000Z",
-      "link": "https://x.com/mrjasonchoi/status/2038896717698064513",
-      "retweet": {
-        "username": "JoshuaDeuk",
-        "displayName": "Joshua | MOZAIK 🇰🇷"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2038891498918596933",
       "username": "boundaryhq",
       "displayName": "boundary",
@@ -11723,6 +11704,33 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FHEV1vu9aIAAhQid.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2037561249622573439",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "genius 公布空投份额了，一共21%。\n每个赛季7%，挺好的，目前看项目方格局挺大的。\n\n300m是我的最低预期，发2100万u我是觉得合理的，下个月就能见分晓了，第一周成本0.0015 后面0.025-0.035 这个成本真的很难亏希望不要打脸。",
+      "contentHtml": "genius 公布空投份额了，一共21%。\n每个赛季7%，挺好的，目前看项目方格局挺大的。\n\n300m是我的最低预期，发2100万u我是觉得合理的，下个月就能见分晓了，第一周成本0.0015 后面0.025-0.035 这个成本真的很难亏希望不要打脸。",
+      "publishedAt": "2026-03-27T16:03:00.000Z",
+      "link": "https://x.com/0xleng1/status/2037561249622573439",
+      "quote": {
+        "username": "GeniusTerminal",
+        "displayName": "Genius",
+        "content": "We're announcing our first 3 seasons.\n\nSeason 1 is closing in... stay Genius 🧠",
+        "link": "https://x.com/GeniusTerminal/status/2037558444325249129",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHEbcm3tacAAc3TP.jpg"
           }
         ]
       },
