@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T13:34:23.185Z",
+  "lastUpdated": "2026-04-07T14:17:12.430Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 539,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 523,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2041516992914751848",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "被损11单了  我操你妈！！！！",
+      "contentHtml": "被损11单了  我操你妈！！！！",
+      "publishedAt": "2026-04-07T14:02:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2041516992914751848",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFTs4Roa4AAuCYj.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2041508852752171282",
       "username": "ai_9684xtpa",
@@ -113,37 +134,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFTlcPJb0AApY-V.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2041502088182833531",
-      "username": "LipBuTan1",
-      "displayName": "Lip-Bu Tan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1957589480254377984%2F8aTzyFu4_bigger.jpg",
-      "content": "Elon has a proven track record of reimagining entire industries. This is exactly what is needed in semiconductor manufacturing today. Terafab represents a step change in how silicon logic, memory and packaging will get built in the future. Intel is proud to be a partner and work closely with Elon on this highly strategic project 🚀🚀",
-      "contentHtml": "Elon has a proven track record of reimagining entire industries. This is exactly what is needed in semiconductor manufacturing today. Terafab represents a step change in how silicon logic, memory and packaging will get built in the future. Intel is proud to be a partner and work closely with Elon on this highly strategic project 🚀🚀",
-      "publishedAt": "2026-04-07T13:03:00.000Z",
-      "link": "https://x.com/LipBuTan1/status/2041502088182833531",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "quote": {
-        "username": "intel",
-        "displayName": "Intel",
-        "content": "Intel is proud to join the Terafab project with @SpaceX, @xAI, and @Tesla to help refactor silicon fab technology.\n\nOur ability to design, fabricate, and package ultra-high-performance chips at scale will help accelerate Terafab’s aim to produce 1 TW/year of compute to power future advances in AI and robotics.\n\nIt was fun hosting @elonmusk at Intel this past weekend!",
-        "link": "https://x.com/intel/status/2041501301318766866",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFTb6BbbcAANe5y.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -449,25 +439,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFSNYwdaMAAOM0G.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2041388843887464792",
-      "username": "IranAmbPak",
-      "displayName": "Reza Amiri Moghadam",
-      "avatar": "https://nitter.net/pic/profile_images%2F1848782188663214080%2Fj46Hswtn_bigger.jpg",
-      "content": "Pakistan positive and productive endeavours in Good Will and Good Office to stop the war is approaching a critical, sensitive stage ... \n\nStay Tuned for more",
-      "contentHtml": "Pakistan positive and productive endeavours in Good Will and Good Office to stop the war is approaching a critical, sensitive stage ... \n\nStay Tuned for more",
-      "publishedAt": "2026-04-07T05:33:00.000Z",
-      "link": "https://x.com/IranAmbPak/status/2041388843887464792",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -907,44 +878,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHFOPI5BWUAAnur_.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2041275563466502560",
-      "username": "AnthropicAI",
-      "displayName": "Anthropic",
-      "avatar": "https://nitter.net/pic/profile_images%2F1798110641414443008%2FXP8gyBaY_bigger.jpg",
-      "content": "Our run-rate revenue has surpassed $30 billion, up from $9 billion at the end of 2025, as demand for Claude continues to accelerate. This partnership gives us the compute to keep pace.\n\nRead more: anthropic.com/news/google-br…",
-      "contentHtml": "Our run-rate revenue has surpassed $30 billion, up from $9 billion at the end of 2025, as demand for Claude continues to accelerate. This partnership gives us the compute to keep pace.\n\nRead more: <a href=\"https://www.anthropic.com/news/google-broadcom-partnership-compute\">anthropic.com/news/google-br…</a>",
-      "publishedAt": "2026-04-06T22:03:00.000Z",
-      "link": "https://x.com/AnthropicAI/status/2041275563466502560",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2041268097433174342",
-      "username": "EleanorTerrett",
-      "displayName": "Eleanor Terrett",
-      "avatar": "https://nitter.net/pic/profile_images%2F1760329013107544064%2FpV8mk1ev_bigger.jpg",
-      "content": "Not sure the extra clarity is needed, but to be clear: I reported in my newsletter this morning that two sources close to the process expressed hope a workable solution on yield had been reached following review of new text last week. I also made clear there has, so far, been silence from major stakeholders and it remains UNCLEAR whether the Senate Banking Committee will release text publicly ahead of a markup.\n\nThe account above reported a finalized private deal, with terms expected as soon as this week, and attributed that to me. That is not what I wrote.",
-      "contentHtml": "Not sure the extra clarity is needed, but to be clear: I reported in my newsletter this morning that two sources close to the process expressed hope a workable solution on yield had been reached following review of new text last week. I also made clear there has, so far, been silence from major stakeholders and it remains UNCLEAR whether the Senate Banking Committee will release text publicly ahead of a markup.\n\nThe account above reported a finalized private deal, with terms expected as soon as this week, and attributed that to me. That is not what I wrote.",
-      "publishedAt": "2026-04-06T21:33:00.000Z",
-      "link": "https://x.com/EleanorTerrett/status/2041268097433174342",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
       },
       "stats": {
         "replies": 0,
@@ -1812,25 +1745,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFMB72zbMAAGc3d.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040976918300733790",
-      "username": "BRICSinfo",
-      "displayName": "BRICS News",
-      "avatar": "https://nitter.net/pic/profile_images%2F1926359090973818880%2FFp80oxwf_bigger.jpg",
-      "content": "JUST IN: 🇺🇸🇮🇷 United States and Iran discuss terms for a 45-day ceasefire that could lead to a permanent end to the war, Axios reports.",
-      "contentHtml": "JUST IN: 🇺🇸🇮🇷 United States and Iran discuss terms for a 45-day ceasefire that could lead to a permanent end to the war, Axios reports.",
-      "publishedAt": "2026-04-06T02:16:00.000Z",
-      "link": "https://x.com/BRICSinfo/status/2040976918300733790",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11754,6 +11668,108 @@
           "url": "https://nitter.net/pic/orig/media%2FHEczH0SaYAALZ3Y.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2037587462965621199",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "7%空投都是给gp的，其他就交给市场了。还有2个星期，很快了。",
+      "contentHtml": "7%空投都是给gp的，其他就交给市场了。还有2个星期，很快了。",
+      "publishedAt": "2026-03-27T17:48:00.000Z",
+      "link": "https://x.com/0xleng1/status/2037587462965621199",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEb2_s1aoAAS37_.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "genius 公布空投份额了，一共21%。\n每个赛季7%，挺好的，目前看项目方格局挺大的。\n\n300m是我的最低预期，发2100万u我是觉得合理的，下个月就能见分晓了，第一周成本0.0015 后面0.025-0.035 这个成本真的很难亏希望不要打脸。",
+        "link": "https://x.com/0xleng1/status/2037561249622573439"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2037564655275565142",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "Oil is set to turbo send and Trump can't do shit about it\n\nPosition accordingly",
+      "contentHtml": "Oil is set to turbo send and Trump can't do shit about it\n\nPosition accordingly",
+      "publishedAt": "2026-03-27T16:17:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2037564655275565142",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHEbhzkQb0AEssSY.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2037561249622573439",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "genius 公布空投份额了，一共21%。\n每个赛季7%，挺好的，目前看项目方格局挺大的。\n\n300m是我的最低预期，发2100万u我是觉得合理的，下个月就能见分晓了，第一周成本0.0015 后面0.025-0.035 这个成本真的很难亏希望不要打脸。",
+      "contentHtml": "genius 公布空投份额了，一共21%。\n每个赛季7%，挺好的，目前看项目方格局挺大的。\n\n300m是我的最低预期，发2100万u我是觉得合理的，下个月就能见分晓了，第一周成本0.0015 后面0.025-0.035 这个成本真的很难亏希望不要打脸。",
+      "publishedAt": "2026-03-27T16:03:00.000Z",
+      "link": "https://x.com/0xleng1/status/2037561249622573439",
+      "quote": {
+        "username": "GeniusTerminal",
+        "displayName": "Genius",
+        "content": "We're announcing our first 3 seasons.\n\nSeason 1 is closing in... stay Genius 🧠",
+        "link": "https://x.com/GeniusTerminal/status/2037558444325249129",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHEbcm3tacAAc3TP.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2037555060285272088",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "大空头的下一步，有三条路：\n\n1️⃣ 缓慢止损 → 推土机式上涨\n2️⃣ 快速止损 → 瞬时爆拉\n3️⃣ 等待止盈 → 他对现货有绝对影响力，他在等自己选的时机砸盘\n\n无论哪条路，散户都是棋盘上的棋子。",
+      "contentHtml": "大空头的下一步，有三条路：\n\n1️⃣ 缓慢止损 → 推土机式上涨\n2️⃣ 快速止损 → 瞬时爆拉\n3️⃣ 等待止盈 → 他对现货有绝对影响力，他在等自己选的时机砸盘\n\n无论哪条路，散户都是棋盘上的棋子。",
+      "publishedAt": "2026-03-27T15:39:00.000Z",
+      "link": "https://x.com/follow_clues/status/2037555060285272088",
+      "quote": {
+        "username": "follow_clues",
+        "displayName": "Theclues",
+        "content": "1.主卖方：永续期货（金额巨大）\n2.主买方：Binance现货，IBIT也有资金流入（净流入金额较小）\n\n这是单纯的“我要做空，资金雄厚，比较任性，并未得到场内其他参与者的跟随”\n\n“独狼的做空之旅”",
+        "link": "https://x.com/follow_clues/status/2037552733507801400",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHEbWsibbsAI5TMC.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
