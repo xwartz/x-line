@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T19:39:21.847Z",
+  "lastUpdated": "2026-04-07T20:03:22.921Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,9 +93,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 418,
-    "successUsers": 21,
-    "failedUsers": 7
+    "newFetched": 463,
+    "successUsers": 23,
+    "failedUsers": 5
   },
   "tweets": [
     {
@@ -2307,7 +2307,7 @@
       "quote": {
         "username": "daidaibtc",
         "displayName": "带带带比特",
-        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能",
+        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能是前些年的限量版球鞋？从高溢价到小溢价再到平价，破发。万物都是周期，感觉Q3 Q4开始沽空泡泡玛特毫无问题",
         "link": "https://x.com/daidaibtc/status/1927952630384578808"
       },
       "stats": {
@@ -3844,25 +3844,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFCVwVqbwAApnN4.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040288409273733357",
-      "username": "arjunkhemani",
-      "displayName": "Arjun Khemani",
-      "avatar": "https://nitter.net/pic/profile_images%2F1977979925635215360%2FG3HAlSxE_bigger.jpg",
-      "content": "My conversation with Sean Bowe (@ebfull) and Dev (@zkDragon) on the architecture of freedom.\n\n0:00 - Why Dev’s working on Zcash\n12:24 - AI is surveillance’s ultimate weapon\n13:33 - Encrypted money must scale\n15:49 - Compliant “privacy” is an oxymoron\n19:25 - PIR for scaling Zcash\n36:35 - How Tachyon and PIR work hand in hand\n43:47 - Quantum recoverability\n47:18 - Is quantum the last cryptography problem?\n51:41 - Easier coinholder voting process\n1:03:15 - Zcash roadmap\n1:17:34 - What Zcash looks like at scale",
-      "contentHtml": "My conversation with Sean Bowe (<a href=\"/ebfull\" title=\"Sean Bowe\">@ebfull</a>) and Dev (<a href=\"/zkDragon\" title=\"Dev 🧪\">@zkDragon</a>) on the architecture of freedom.\n\n0:00 - Why Dev’s working on Zcash\n12:24 - AI is surveillance’s ultimate weapon\n13:33 - Encrypted money must scale\n15:49 - Compliant “privacy” is an oxymoron\n19:25 - PIR for scaling Zcash\n36:35 - How Tachyon and PIR work hand in hand\n43:47 - Quantum recoverability\n47:18 - Is quantum the last cryptography problem?\n51:41 - Easier coinholder voting process\n1:03:15 - Zcash roadmap\n1:17:34 - What Zcash looks like at scale",
-      "publishedAt": "2026-04-04T04:40:00.000Z",
-      "link": "https://x.com/arjunkhemani/status/2040288409273733357",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11796,6 +11777,21 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n之前提到 Toki 日历还不够智能，丢失了上下文，于是很简单手搓一个：\n\n1️⃣ 在 Google Cloud Console 创建项目，启用 Calendar API 和 Gmail API\n2️⃣ 在本机安装 gws CLI 并做好授权和配置\n3️⃣ 写一个 Skill 文件，告诉 AI 怎么用 gws 命令操作你的日历——查日程、建事件、删事件、扫邮件的指令映射全写进去\n4️⃣ 后续通过 Chat 直接输出需求即可，遇到不顺利的地方还可以让 AI 自己进化 Skills\n\n好处有：\n\n1️⃣ 项目都是自己创建的，不担心泄露邮件和日历。上下文更多，因此更强\n2️⃣ 通用可迁移，永远使用最新的 AI 模型和客户端工具\n3️⃣ 免费\n\n以上提到的全部流程，都只使用了 Alma 一个工具。\n\n甚至你复制这段文本给你的 AI 也能搞定😉",
       "publishedAt": "2026-03-28T02:23:00.000Z",
       "link": "https://x.com/taresky/status/2037717132121899441",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2037694131116650578",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "真的不如多买几台mac mini + token包月卡...",
+      "contentHtml": "真的不如多买几台mac mini + token包月卡...",
+      "publishedAt": "2026-03-28T00:51:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2037694131116650578",
       "stats": {
         "replies": 0,
         "retweets": 0,
