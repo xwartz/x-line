@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T21:47:11.088Z",
+  "lastUpdated": "2026-04-07T22:14:35.689Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,9 +93,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 501,
-    "successUsers": 25,
-    "failedUsers": 3
+    "newFetched": 541,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -8345,6 +8345,25 @@
       }
     },
     {
+      "id": "2038896717698064513",
+      "username": "mrjasonchoi",
+      "displayName": "Jason Choi",
+      "avatar": "https://nitter.net/pic/profile_images%2F2036826091978178561%2FDF3WwX7A_bigger.jpg",
+      "content": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
+      "contentHtml": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
+      "publishedAt": "2026-03-31T08:30:00.000Z",
+      "link": "https://x.com/mrjasonchoi/status/2038896717698064513",
+      "retweet": {
+        "username": "JoshuaDeuk",
+        "displayName": "Joshua | MOZAIK 🇰🇷"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2038891498918596933",
       "username": "boundaryhq",
       "displayName": "boundary",
@@ -11762,39 +11781,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FHEWD8IubYAIMNcu.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2037738499395522742",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "「ETH 看 $2400，$SOL 看 $100」的鸽子止损离场了🕊\n\n表示 2026 年比 2025 年还要艰难，打算后续减少交易频率，多一些耐心\n\n现在不知道 03.17「满仓看反弹」的易老板仓位现状如何了，当时 $ETH 正处于短期最高点 ~$2300，真的…太巧了",
-      "contentHtml": "「ETH 看 $2400，$SOL 看 $100」的鸽子止损离场了🕊\n\n表示 2026 年比 2025 年还要艰难，打算后续减少交易频率，多一些耐心\n\n现在不知道 03.17「满仓看反弹」的易老板仓位现状如何了，当时 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 正处于短期最高点 ~$2300，真的…太巧了",
-      "publishedAt": "2026-03-28T03:48:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2037738499395522742",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEd_uwwboAAYv19.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "出 师 不 利。\n\n▶︎ 易老板：满仓看反弹\n▶︎ 鸽子：ETH 看 $2400，$SOL 看 $100\n\n然而，BTC 跌破 $70000，ETH 跌破 $2150，24H 跌没了前面三四天的涨幅，抗还是割？",
-        "link": "https://x.com/ai_9684xtpa/status/2034532337539817702",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDwb6Rva4AA_5n1.jpg"
           }
         ]
       },
