@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T22:04:38.806Z",
+  "lastUpdated": "2026-04-08T22:27:46.166Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,7 +93,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 539,
+    "newFetched": 537,
     "successUsers": 27,
     "failedUsers": 1
   },
@@ -3835,25 +3835,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFMB72zbMAAGc3d.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040976918300733790",
-      "username": "BRICSinfo",
-      "displayName": "BRICS News",
-      "avatar": "https://nitter.net/pic/profile_images%2F1926359090973818880%2FFp80oxwf_bigger.jpg",
-      "content": "JUST IN: 🇺🇸🇮🇷 United States and Iran discuss terms for a 45-day ceasefire that could lead to a permanent end to the war, Axios reports.",
-      "contentHtml": "JUST IN: 🇺🇸🇮🇷 United States and Iran discuss terms for a 45-day ceasefire that could lead to a permanent end to the war, Axios reports.",
-      "publishedAt": "2026-04-06T02:16:00.000Z",
-      "link": "https://x.com/BRICSinfo/status/2040976918300733790",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11812,6 +11793,21 @@
           "url": "https://nitter.net/pic/orig/media%2FHEoHOySacAA8QIn.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2038447893091369268",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "看不同人train agent, 差异巨大, 可能总结下来是 系统思维 vs 任务思维的差异. 系统思维的人会定义问题, 有架构的能力, 先架 (scaffolding) 后构 (interaction): 这件事的边界是X，最佳输入是Y，预期输出是Z，失败条件是W, 测试置信区间是I. 任务思维就是很单项的I/O“帮我做这个事, 我来验收” 所以还停留在把LLM当作更好的搜索引擎和对话框的水平",
+      "contentHtml": "看不同人train agent, 差异巨大, 可能总结下来是 系统思维 vs 任务思维的差异. 系统思维的人会定义问题, 有架构的能力, 先架 (scaffolding) 后构 (interaction): 这件事的边界是X，最佳输入是Y，预期输出是Z，失败条件是W, 测试置信区间是I. 任务思维就是很单项的I/O“帮我做这个事, 我来验收” 所以还停留在把LLM当作更好的搜索引擎和对话框的水平",
+      "publishedAt": "2026-03-30T02:47:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2038447893091369268",
       "stats": {
         "replies": 0,
         "retweets": 0,
