@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T21:46:45.564Z",
+  "lastUpdated": "2026-04-08T22:04:38.806Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -113,6 +113,31 @@
           "url": "https://nitter.net/pic/orig/media%2FHFaduJTa8AMKU91.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2041992480279630076",
+      "username": "KobeissiLetter",
+      "displayName": "The Kobeissi Letter",
+      "avatar": "https://nitter.net/pic/profile_images%2F1975243710846640128%2FfwYCe67Y_bigger.jpg",
+      "content": "Retail investor activity has fallen sharply amid the war:\n\nDaily net call option purchases by retail investors are down to ~2 million contracts, the lowest since at least January 2024.\n\nThis tracks the difference between call options purchased and call options sold, measuring how aggressively retail is betting on stocks going higher.\n\nNet daily call option purchases have fallen -12 million contracts, or -85%, since October 2025.\n\nBy comparison, the 2024 average was ~6 million contracts, or +200% higher.\n\nWe expect to see a rebound in retail's risk appetite soon.",
+      "contentHtml": "Retail investor activity has fallen sharply amid the war:\n\nDaily net call option purchases by retail investors are down to ~2 million contracts, the lowest since at least January 2024.\n\nThis tracks the difference between call options purchased and call options sold, measuring how aggressively retail is betting on stocks going higher.\n\nNet daily call option purchases have fallen -12 million contracts, or -85%, since October 2025.\n\nBy comparison, the 2024 average was ~6 million contracts, or +200% higher.\n\nWe expect to see a rebound in retail's risk appetite soon.",
+      "publishedAt": "2026-04-08T21:32:00.000Z",
+      "link": "https://x.com/KobeissiLetter/status/2041992480279630076",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFaWXV5XEAAZDep.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11787,21 +11812,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEoHOySacAA8QIn.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038447893091369268",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "看不同人train agent, 差异巨大, 可能总结下来是 系统思维 vs 任务思维的差异. 系统思维的人会定义问题, 有架构的能力, 先架 (scaffolding) 后构 (interaction): 这件事的边界是X，最佳输入是Y，预期输出是Z，失败条件是W, 测试置信区间是I. 任务思维就是很单项的I/O“帮我做这个事, 我来验收” 所以还停留在把LLM当作更好的搜索引擎和对话框的水平",
-      "contentHtml": "看不同人train agent, 差异巨大, 可能总结下来是 系统思维 vs 任务思维的差异. 系统思维的人会定义问题, 有架构的能力, 先架 (scaffolding) 后构 (interaction): 这件事的边界是X，最佳输入是Y，预期输出是Z，失败条件是W, 测试置信区间是I. 任务思维就是很单项的I/O“帮我做这个事, 我来验收” 所以还停留在把LLM当作更好的搜索引擎和对话框的水平",
-      "publishedAt": "2026-03-30T02:47:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2038447893091369268",
       "stats": {
         "replies": 0,
         "retweets": 0,
