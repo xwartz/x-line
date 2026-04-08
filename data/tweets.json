@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T22:27:46.166Z",
+  "lastUpdated": "2026-04-08T22:48:43.687Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 537,
+    "newFetched": 539,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2042008457847676964",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "猫猫比了一个耶✌🏻可爱捏\n^._.^ฅ",
+      "contentHtml": "猫猫比了一个耶✌🏻可爱捏\n^._.^ฅ",
+      "publishedAt": "2026-04-08T22:35:00.000Z",
+      "link": "https://x.com/hazenlee/status/2042008457847676964",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFar3dQa8AQ2ymA.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "可爱捏 狗庄为何喜欢画猫猫头",
+        "link": "https://x.com/hazenlee/status/2041883530054255017",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFY6Pqja8AMDSgX.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2041992904949035376",
       "username": "hazenlee",
@@ -11793,21 +11826,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEoHOySacAA8QIn.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038447893091369268",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
-      "content": "看不同人train agent, 差异巨大, 可能总结下来是 系统思维 vs 任务思维的差异. 系统思维的人会定义问题, 有架构的能力, 先架 (scaffolding) 后构 (interaction): 这件事的边界是X，最佳输入是Y，预期输出是Z，失败条件是W, 测试置信区间是I. 任务思维就是很单项的I/O“帮我做这个事, 我来验收” 所以还停留在把LLM当作更好的搜索引擎和对话框的水平",
-      "contentHtml": "看不同人train agent, 差异巨大, 可能总结下来是 系统思维 vs 任务思维的差异. 系统思维的人会定义问题, 有架构的能力, 先架 (scaffolding) 后构 (interaction): 这件事的边界是X，最佳输入是Y，预期输出是Z，失败条件是W, 测试置信区间是I. 任务思维就是很单项的I/O“帮我做这个事, 我来验收” 所以还停留在把LLM当作更好的搜索引擎和对话框的水平",
-      "publishedAt": "2026-03-30T02:47:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2038447893091369268",
       "stats": {
         "replies": 0,
         "retweets": 0,
