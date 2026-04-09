@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T11:35:50.326Z",
+  "lastUpdated": "2026-04-09T12:03:45.988Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,53 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 516,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 539,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2042207735849324993",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "真有人看别人传记啊？",
+      "contentHtml": "真有人看别人传记啊？",
+      "publishedAt": "2026-04-09T11:47:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2042207735849324993",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2042204708203352434",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "$BTC\n\nIYKYK. Highs swept, price stalling.\n\nBreak 70K and right back down to fill the CME Gap.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nIYKYK. Highs swept, price stalling.\n\nBreak 70K and right back down to fill the CME Gap.",
+      "publishedAt": "2026-04-09T11:35:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2042204708203352434",
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "$BTC\n\nIt’s time to start focusing more closely on LTF price action.\n\nWe’ve swept the high into the 10th and are building a clearly bullish narrative into it. If price continues to hold this upper region but begins to show signs of accepting back into the range, such as forming lower highs and lower lows, along with structure breaking or signs of exhaustion/stalling, I’d start looking for scalp short opportunities back down.\n\nIt’s common to see a few more liquidity hunts, which is why waiting for clear range acceptance is key before taking any entries.\n\nAs stated, its key to observe the PA & not blindly short.",
+        "link": "https://x.com/KillaXBT/status/2041853136415949216",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFYd5xtWAAIXUqQ.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2042182735049961503",
       "username": "0xleng1",
@@ -10879,6 +10921,25 @@
       }
     },
     {
+      "id": "2038896717698064513",
+      "username": "mrjasonchoi",
+      "displayName": "Jason Choi",
+      "avatar": "https://nitter.net/pic/profile_images%2F2036826091978178561%2FDF3WwX7A_bigger.jpg",
+      "content": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
+      "contentHtml": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
+      "publishedAt": "2026-03-31T08:30:00.000Z",
+      "link": "https://x.com/mrjasonchoi/status/2038896717698064513",
+      "retweet": {
+        "username": "JoshuaDeuk",
+        "displayName": "Joshua | MOZAIK 🇰🇷"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2038891498918596933",
       "username": "boundaryhq",
       "displayName": "boundary",
@@ -11843,83 +11904,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHEpwQGKa0AAoiLb.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038561493973917959",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "每轮熊市BTC都会跌破挖矿成本价？\n\n根据数据统计，当前按$0.060/kWh的电费，功耗比为9.5w/TH的矿机关机价为 $29,115，所以本轮熊底会在3万美元以下？\n\n我认为这是一个熊市“路径预设”的误区。\n\n会不会低于挖矿成本价我不知道，但我知道“矿机关机价”≠“挖矿成本价”。\n\n小矿场的实际成本不好统计，但上市公司的财报和公告是透明的。\n\n我让AI跑了一下 Marathon、Riot、CleanSpark和Bitfarms 这4家上市矿企的数据，方法如下：\n\n1、根据财报将4家矿企的电费、人工、财务、折旧等成本占比分别是多少？\n2、4家矿企目前的主力矿机分别有哪些，占比多少？\n3、4家矿企公布的电费区间时多少？\n4、最后让AI根据不同矿机和不同电费计算出每挖1枚BTC的成本评估。\n\n🚩 结果显示：\n1、成本最高的是Riot：$63,971 -$73,109左右；\n2、成本最低的是CleanSpark：$53,468-$61,106左右。\n\n所以，如果“每轮熊市BTC都会跌破挖矿成本价”这个说法成立，那么现在就是熊底了！\n\n因为上市公司出人出钱出力，辛辛苦苦挖的币，还不如你在交易所用鼠标点一下。\n\n看到这里，你还觉得6w+的BTC很贵吗？",
-      "contentHtml": "每轮熊市BTC都会跌破挖矿成本价？\n\n根据数据统计，当前按$0.060/kWh的电费，功耗比为9.5w/TH的矿机关机价为 $29,115，所以本轮熊底会在3万美元以下？\n\n我认为这是一个熊市“路径预设”的误区。\n\n会不会低于挖矿成本价我不知道，但我知道“矿机关机价”≠“挖矿成本价”。\n\n小矿场的实际成本不好统计，但上市公司的财报和公告是透明的。\n\n我让AI跑了一下 Marathon、Riot、CleanSpark和Bitfarms 这4家上市矿企的数据，方法如下：\n\n1、根据财报将4家矿企的电费、人工、财务、折旧等成本占比分别是多少？\n2、4家矿企目前的主力矿机分别有哪些，占比多少？\n3、4家矿企公布的电费区间时多少？\n4、最后让AI根据不同矿机和不同电费计算出每挖1枚BTC的成本评估。\n\n🚩 结果显示：\n1、成本最高的是Riot：$63,971 -$73,109左右；\n2、成本最低的是CleanSpark：$53,468-$61,106左右。\n\n所以，如果“每轮熊市BTC都会跌破挖矿成本价”这个说法成立，那么现在就是熊底了！\n\n因为上市公司出人出钱出力，辛辛苦苦挖的币，还不如你在交易所用鼠标点一下。\n\n看到这里，你还觉得6w+的BTC很贵吗？",
-      "publishedAt": "2026-03-30T10:18:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2038561493973917959",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEpsdq6boAEif9e.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEpss73bcAAoq-o.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038559412630204612",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "Binance公告后，OI紧箍咒上线了\n\n单个账户/单个用户在单个合约的持仓名义价值、OI比例未来将将受到限制",
-      "contentHtml": "Binance公告后，OI紧箍咒上线了\n\n单个账户/单个用户在单个合约的持仓名义价值、OI比例未来将将受到限制",
-      "publishedAt": "2026-03-30T10:10:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2038559412630204612",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEpq-nHaIAA48kG.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEpq-nIaQAAQuJV.jpg"
-        }
-      ],
-      "quote": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧",
-        "content": "大家更希望做到什么程度🤔？不同风险偏好的用户可能会有不同的答案\n\n激进：让主动型mm和项目方都退出市场，之后只留下被动提供流动性的mm和中高市值\n\n折中：用户层面的OI限制，合约整体的OI限制，提示OI/市值的比例，提示该合约的逼仓风险\n\n保守：降低杠杆，降低波动率",
-        "link": "https://x.com/OwenJin12/status/2037126038078316712"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038559221151879281",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "咱这么多年，也没用过你们家啊……",
-      "contentHtml": "咱这么多年，也没用过你们家啊……",
-      "publishedAt": "2026-03-30T10:09:00.000Z",
-      "link": "https://x.com/taresky/status/2038559221151879281",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEpqzqXbsAAWIR_.jpg"
         }
       ],
       "stats": {
