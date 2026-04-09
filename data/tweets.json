@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T11:08:48.238Z",
+  "lastUpdated": "2026-04-09T11:35:50.326Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,9 +93,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 542,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 516,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
     {
@@ -628,6 +628,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHFbXfg0aoAEkEnb.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -10771,6 +10775,21 @@
       }
     },
     {
+      "id": "2038908417163833565",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "RT @mrjasonchoi: Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggr…",
+      "contentHtml": "RT <a href=\"/mrjasonchoi\" title=\"Jason Choi\">@mrjasonchoi</a>: Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggr…",
+      "publishedAt": "2026-03-31T09:17:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2038908417163833565",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2038900426385297502",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -10853,25 +10872,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEueRg7bQAAUGQ1.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038896717698064513",
-      "username": "mrjasonchoi",
-      "displayName": "Jason Choi",
-      "avatar": "https://nitter.net/pic/profile_images%2F2036826091978178561%2FDF3WwX7A_bigger.jpg",
-      "content": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
-      "contentHtml": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
-      "publishedAt": "2026-03-31T08:30:00.000Z",
-      "link": "https://x.com/mrjasonchoi/status/2038896717698064513",
-      "retweet": {
-        "username": "JoshuaDeuk",
-        "displayName": "Joshua | MOZAIK 🇰🇷"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
