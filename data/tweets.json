@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T03:42:37.966Z",
+  "lastUpdated": "2026-04-09T04:40:04.458Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,52 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 543,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 523,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2042087752452469088",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "最新数据出炉！\n\n在美伊同时宣布暂时停火市场开始反弹后，截止4月8日晚上21点，BTC 24小时平均实现利润的触达峰值为 2,974w 美元（图1）。\n\n这个规模相比昨天我们统计到的（1,879w）要高出不少。也是近2个月的盘整期内，仅次于3/5和3/16的第三大利润兑现的规模。\n\n说明在昨天白天，当BTC在$73,000的关键位置遇阻后，部分获利筹码开始松动，见短期趋势放缓便选择了落袋为安。\n\n按前近期市场平均水平来看，24小时近3000w的利润兑现就会让需求端承受压力。必须要有新的利好预期释放，才能再次刺激承接。\n\n如果没有，那大概率又是回到3/5和3/16的节奏，跌不深，但也涨不高。\n\n另外，我们可以同时观察需求端数据 —— 持有1k-10k的鲸鱼们是目前唯一还在提供需求的链上群体（图2）。\n\n在3/30-4/2他们的趋势积累得分为0.6-0.7，满分是1代表积累，那么0.6就是偏向积累筹码。而4/8的趋势积累得分为0.4，则代表偏向派发。\n\n这一观察和上述在实现利润中反映的市场供需关系，可相互验证。",
+      "contentHtml": "最新数据出炉！\n\n在美伊同时宣布暂时停火市场开始反弹后，截止4月8日晚上21点，BTC 24小时平均实现利润的触达峰值为 2,974w 美元（图1）。\n\n这个规模相比昨天我们统计到的（1,879w）要高出不少。也是近2个月的盘整期内，仅次于3/5和3/16的第三大利润兑现的规模。\n\n说明在昨天白天，当BTC在$73,000的关键位置遇阻后，部分获利筹码开始松动，见短期趋势放缓便选择了落袋为安。\n\n按前近期市场平均水平来看，24小时近3000w的利润兑现就会让需求端承受压力。必须要有新的利好预期释放，才能再次刺激承接。\n\n如果没有，那大概率又是回到3/5和3/16的节奏，跌不深，但也涨不高。\n\n另外，我们可以同时观察需求端数据 —— 持有1k-10k的鲸鱼们是目前唯一还在提供需求的链上群体（图2）。\n\n在3/30-4/2他们的趋势积累得分为0.6-0.7，满分是1代表积累，那么0.6就是偏向积累筹码。而4/8的趋势积累得分为0.4，则代表偏向派发。\n\n这一观察和上述在实现利润中反映的市场供需关系，可相互验证。",
+      "publishedAt": "2026-04-09T03:50:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2042087752452469088",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFbzUQVa8AYJ7nR.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFbzXG0aEAA33rB.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "刚刚看了下最新的数据，这一次BTC反弹到 7.1w-7.2w时，24小时平均实现利润为 1,879w 美元，远小于之前几次反弹时引发的大量获利盘套现离场的规模。\n\n同时，短期持有者近24小时平均实现亏损仅为 606w 美元，这在近期来说是一个非常低的数值。\n\n综合在一起，所反映的信息：就是当前市场投资者情绪慢慢趋于稳定，相比于2月份的极度悲观有明显得到缓解的迹象。价格反弹时，获利盘不着急卖了，亏损盘也不愿在此割肉。\n\n看来市场时在预期更高的反弹空间。那我的这笔空单就不能太执念，虽然指标上有超买+背离修复的需求，但短期给机会还得跑，不能恋战。",
+        "link": "https://x.com/Murphychen888/status/2041753136692654186",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFXDD3ebQAAOfA-.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFXDHW_aQAAkOMT.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2042074937331216385",
       "username": "hazenlee",
@@ -4538,7 +4579,7 @@
       "quote": {
         "username": "daidaibtc",
         "displayName": "带带带比特",
-        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能",
+        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能是前些年的限量版球鞋？从高溢价到小溢价再到平价，破发。万物都是周期，感觉Q3 Q4开始沽空泡泡玛特毫无问题",
         "link": "https://x.com/daidaibtc/status/1927952630384578808"
       },
       "stats": {
@@ -5696,13 +5737,7 @@
         "username": "DefiIgnas",
         "displayName": "Ignas | DeFi",
         "content": "Crypto easy money era has ended.\n\nHistorically, most easy money periods last 3-7 years:\n\n- California Gold Rush lasted 7 years.\n\n- Tulip mania lasted 3\n\n- The dot-com bubble about 5 years before the Nasdaq dumped by 78%\n\n- Japan's bubble was 6 years, then Nikkei took 34 years to recover\n\nSo most speculative booms in history last 3-7 years.\n\nCrypto easy money started in 2017 with ICOs. Then DeFi summer 2020. NFTs in 2021. Airdrops. Points farming. Memecoins.\n\nThat's  ~8 years of easy money.\n\nWe are already past that as every easy money model has been discovered, exploited, or arbitraged to max competition.\n\nPhilosophical hard-forks like BTC -> BTC Gold or ETH -> ETH classic are over as crypto ossified not just technically.\n\nICOs got regulated.\n\nAirdrops get farmed by industrialized sybils.\n\nMemecoin launches went from community fun projects to extraction tools.\n\nThe gold rush analogy seems quite good here as FOMOs end the same way:\n\nSurface deposits get exhausted and then industrial mining takes over. (Literally same happened to BTC mining moving from retail to institutions who even IPOed from BTC mining.)\n\nSo here’s where crypto is now: TradFi suits moving in, tokenization, RWAs, corpo-sloppo permissioned chains, and regulation. The Trump family & insiders are the last to get easy money from crypto.\n\nFor retail, the surface easy money gold picking is gone.\n\nWhat's left to earn requires real infra, real users, real revenue which means more specialization, specific knowledge and REAL hard effort.\n\nNot sure how many of us who got easy money are ready to grind harder now.\n\nSo many builders, KOLs, projects are extracting as much as they (we) can before leaving crypto coz adapting to the new hard-money period is gonna be hard.\n\nQuestion is: where to pivot for easy money? Asking for a friend.",
-        "link": "https://x.com/DefiIgnas/status/2040046634730766677",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHE-zmmqaoAAwDFV.jpg"
-          }
-        ]
+        "link": "https://x.com/DefiIgnas/status/2040046634730766677"
       },
       "stats": {
         "replies": 0,
@@ -11859,21 +11894,6 @@
         "content": "川普现在面临的最现实的问题是如何修补此次鲁莽开战后对美国霸权造成的实质伤害。  \n\n无论夺岛，抢滩登陆还是空降，本质上都是为了证明美军还能打。\n\n很显然，超期服役后不堪重负的水手们并不买账。\n\n不论是马桶也好，洗衣房也罢。\n\n不论是被炸得加油机预警机还是长途飞行2000公里累的嗑药的飞行员也罢。\n\n大家都不想再跟他继续胡闹下去了，尤其是各方都要面对一个现实，即：这么继续加注，输了/没拿到预期战果怎么办？\n\n实际上川普这次狠狠地得罪了太多人，中期选举基本必败无疑，区别只是在只输掉众议院还是参众两院全输。\n\n甚至于伊朗屁股擦不干净吃个弹劾的话，万斯就能提前接手干活了，当然大概不至于这么夸张，众议院提案不难，但参议院三分之二多数就难拿了。\n\n虽然不至于直接下台，但一旦川普政治死亡，2028继任争夺战就要提前上演，这可能也是最近川普万斯疏远的原因之一。\n\n国际盟友，国内基本盘，国际敌人，国内反对派，川儿一口气得罪了所有人，身边只剩那些还需要依靠他的马屁精，想想都头疼。树倒猢狲散，一旦川普下台，现在给家族捞再多的钱也会被清算吐出来。",
         "link": "https://x.com/Trader_S18/status/2038490395420569944"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038508178753954273",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "体验了一把  中医的“放血”\n\n🫩真空罐子把背上的肉吸起来一坨\n然后针快速刺几下\n然后又用真空罐子继续吸   吸出一滩血\n\n大概10个罐子吸背上   \n\n真tm刺激啊   \n图就免了😅",
-      "contentHtml": "体验了一把  中医的“放血”\n\n🫩真空罐子把背上的肉吸起来一坨\n然后针快速刺几下\n然后又用真空罐子继续吸   吸出一滩血\n\n大概10个罐子吸背上   \n\n真tm刺激啊   \n图就免了😅",
-      "publishedAt": "2026-03-30T06:46:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2038508178753954273",
       "stats": {
         "replies": 0,
         "retweets": 0,
