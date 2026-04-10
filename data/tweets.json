@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T03:53:11.700Z",
+  "lastUpdated": "2026-04-10T05:00:37.857Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,134 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 538,
+    "newFetched": 539,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2042463129750356286",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "好快，三个月就落地了\n越南合规交易所",
+      "contentHtml": "好快，三个月就落地了\n越南合规交易所",
+      "publishedAt": "2026-04-10T04:42:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2042463129750356286",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFhJYyqbQAYDzvM.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFhJYyqaIAANLo7.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2042458866781446378",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "I think in the end it just comes down to who actually uses AI. \n\nThere are so many fancy words, frameworks, skills,MCP, Harness, technical layers around it that the barrier to entry feels way heavier than it really is.\n\nBut for now the value is actually pretty simple. It helps you become more productive and make better decisions. \n\nIt won’t do everything you want while you sleep yet(again depends on how ur using it), but if you keep bashing your head against it and actually try to understand it, eventually you fall down the rabbit hole and see how powerful it is.\n\n I genuinely think we are in one of those ChatGPT moments where the way we work, behave, and interact with software changes a lot over the next few years.\n\nIf the market is boring for u right now, this is probably the time to put your head down, sit at the desk for 14 hours like you did with onchain bullmarket , and learn this properly. \n\nMost people won’t. That’s exactly why it’s worth doing.",
+      "contentHtml": "I think in the end it just comes down to who actually uses AI. \n\nThere are so many fancy words, frameworks, skills,MCP, Harness, technical layers around it that the barrier to entry feels way heavier than it really is.\n\nBut for now the value is actually pretty simple. It helps you become more productive and make better decisions. \n\nIt won’t do everything you want while you sleep yet(again depends on how ur using it), but if you keep bashing your head against it and actually try to understand it, eventually you fall down the rabbit hole and see how powerful it is.\n\n I genuinely think we are in one of those ChatGPT moments where the way we work, behave, and interact with software changes a lot over the next few years.\n\nIf the market is boring for u right now, this is probably the time to put your head down, sit at the desk for 14 hours like you did with onchain bullmarket , and learn this properly. \n\nMost people won’t. That’s exactly why it’s worth doing.",
+      "publishedAt": "2026-04-10T04:25:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2042458866781446378",
+      "quote": {
+        "username": "karpathy",
+        "displayName": "Andrej Karpathy",
+        "content": "Judging by my tl there is a growing gap in understanding of AI capability.\n\nThe first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is a group of reactions laughing at various quirks of the models, hallucinations, etc. Yes I also saw the viral videos of OpenAI's Advanced Voice mode fumbling simple queries like \"should I drive or walk to the carwash\". The thing is that these free and old/deprecated models don't reflect the capability in the latest round of state of the art agentic models of this year, especially OpenAI Codex and Claude Code.\n\nBut that brings me to the second issue. Even if people paid $200/month to use the state of the art models, a lot of the capabilities are relatively \"peaky\" in highly technical areas. Typical queries around search, writing, advice, etc. are *not* the domain that has made the most noticeable and dramatic strides in capability. Partly,  this is due to the technical details of reinforcement learning and its use of verifiable rewards. But partly, it's also because these use cases are not sufficiently prioritized by the companies in their hillclimbing because they don't lead to as much $$$ value. The goldmines are elsewhere, and the focus comes along.\n\nSo that brings me to the second group of people, who *both* 1) pay for and use the state of the art frontier agentic models (OpenAI Codex / Claude Code) and 2) do so professionally in technical domains like programming, math and research. This group of people is subject to the highest amount of \"AI Psychosis\" because the recent improvements in these domains as of this year have been nothing short of staggering. When you hand a computer terminal to one of these models, you can now watch them melt programming problems that you'd normally expect to take days/weeks of work. It's this second group of people that assigns a much greater gravity to the capabilities, their slope, and various cyber-related repercussions.\n\nTLDR the people in these two groups are speaking past each other. It really is simultaneously the case that OpenAI's free and I think slightly orphaned (?) \"Advanced Voice Mode\" will fumble the dumbest questions in your Instagram's reels and *at the same time*, OpenAI's highest-tier and paid Codex model will go off for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities in computer systems. This part really works and has made dramatic strides because 2 properties: 1) these domains offer explicit reward functions that are verifiable meaning they are easily amenable to reinforcement learning training (e.g. unit tests passed yes or no, in contrast to writing, which is much harder to explicitly judge),  but also 2) they are a lot more valuable in b2b settings, meaning that the biggest fraction of the team is focused on improving them. So here we are.",
+        "link": "https://x.com/karpathy/status/2042334451611693415"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2042456030018486509",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "5000块长大了应该跟右边这个差不多，当然花色不一样",
+      "contentHtml": "5000块长大了应该跟右边这个差不多，当然花色不一样",
+      "publishedAt": "2026-04-10T04:13:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2042456030018486509",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFhC7eabQAAG6_p.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFhC7eZbQAM2JHK.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFhC7edbQAE9QBf.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2042454934315287021",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "你是我朋友圈里唯一一个没有发sbti的女生，我觉得你和其他女生不一样，你不信那些可以靠几道简单测试题就可以把人蛊惑的套路，你清醒孤傲，给我一种别人都没有的疏离感，我想和你认识一下，听一听你原生家庭的创伤和生活中的不如意。哦对了，你今天能喝冰的吗？",
+      "contentHtml": "你是我朋友圈里唯一一个没有发sbti的女生，我觉得你和其他女生不一样，你不信那些可以靠几道简单测试题就可以把人蛊惑的套路，你清醒孤傲，给我一种别人都没有的疏离感，我想和你认识一下，听一听你原生家庭的创伤和生活中的不如意。哦对了，你今天能喝冰的吗？",
+      "publishedAt": "2026-04-10T04:09:00.000Z",
+      "link": "https://x.com/hazenlee/status/2042454934315287021",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "你们是啥 评论区秀一下🤣",
+        "link": "https://x.com/hazenlee/status/2042269856024650157",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFeZmqtWcAAV_vM.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2042453625323340071",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "币价反弹动能尚在释放\n短筹进场热度却在下降\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n#BTC: RHODL 指标是一个比特币链上宏观指标，本质上是短期（持币<1周） vs 长期（持币1-2年）持有者财富占比的动态比率——\n\n数值越高→ 市场过热\n短期投机者（新钱）主导，大量财富集中在最近买入并快速移动的币上，长期 HODLer 在向新入场者“派发”筹码。这是牛市顶部信号，历史上多次精准对应周期高点（卖出良机）\n\n数值越低→ 市场积累阶段\n长期持有者主导，短期投机活动极低，市场处于恐慌或低迷。这是底部信号，适合建仓\n\n图中红线为该指标的⟨13-17年⟩段；蓝线为该指标的⟨17-21年⟩段；黑线为该指标的⟨21年-至今⟩段。三段线将各自周期的BTC挖矿产量减半日统一对齐",
+      "contentHtml": "币价反弹动能尚在释放\n短筹进场热度却在下降\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a>: RHODL 指标是一个比特币链上宏观指标，本质上是短期（持币&lt;1周） vs 长期（持币1-2年）持有者财富占比的动态比率——\n\n数值越高→ 市场过热\n短期投机者（新钱）主导，大量财富集中在最近买入并快速移动的币上，长期 HODLer 在向新入场者“派发”筹码。这是牛市顶部信号，历史上多次精准对应周期高点（卖出良机）\n\n数值越低→ 市场积累阶段\n长期持有者主导，短期投机活动极低，市场处于恐慌或低迷。这是底部信号，适合建仓\n\n图中红线为该指标的⟨13-17年⟩段；蓝线为该指标的⟨17-21年⟩段；黑线为该指标的⟨21年-至今⟩段。三段线将各自周期的BTC挖矿产量减半日统一对齐",
+      "publishedAt": "2026-04-10T04:04:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2042453625323340071",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFg7U8SbQAQgIki.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2042437308230877599",
       "username": "hazenlee",
@@ -3864,7 +3987,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "好消息没怎么开单\n坏消息，有个空单，忘记忘记平仓了\n\n咋办\n反手多扣1\n扛单等爆仓为区块链做贡献扣2\n$BTCUSD",
-        "link": "https://x.com/Bitfatty/status/2041086554568114476"
+        "link": "https://x.com/Bitfatty/status/2041086554568114476",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFNlZ6AakAAtL9e.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -5774,7 +5903,7 @@
       "quote": {
         "username": "daidaibtc",
         "displayName": "带带带比特",
-        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能",
+        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能是前些年的限量版球鞋？从高溢价到小溢价再到平价，破发。万物都是周期，感觉Q3 Q4开始沽空泡泡玛特毫无问题",
         "link": "https://x.com/daidaibtc/status/1927952630384578808"
       },
       "stats": {
@@ -11763,139 +11892,6 @@
         "content": "酒店没有按摩，于是朋友给我推荐了东郊到家。\n技师按了十分钟就问要不要加钟，我拒绝了。她说这个月业绩要完不成了。\n我追问才知道，东郊就是一个打飞机的app，纯线上运营，最近还叠加了AI。算法推送。技师和客户双向评分。\n十五天按梯队结算一次。业绩满一万四千八，技师拿八成。\n难怪东郊要上市了。",
         "link": "https://x.com/mrbrnzsparrow/status/2038626640046293130"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038897289792754109",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "优衣库？",
-      "contentHtml": "优衣库？",
-      "publishedAt": "2026-03-31T08:32:00.000Z",
-      "link": "https://x.com/hazenlee/status/2038897289792754109",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEueRg7bQAAUGQ1.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038896717698064513",
-      "username": "mrjasonchoi",
-      "displayName": "Jason Choi",
-      "avatar": "https://nitter.net/pic/profile_images%2F2036826091978178561%2FDF3WwX7A_bigger.jpg",
-      "content": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
-      "contentHtml": "Edge + no aggression = win small\n\nNo edge + aggression = blow up \n\nEdge + aggression = dynastic wealth \n\nNo edge + no aggression = consultants",
-      "publishedAt": "2026-03-31T08:30:00.000Z",
-      "link": "https://x.com/mrjasonchoi/status/2038896717698064513",
-      "retweet": {
-        "username": "JoshuaDeuk",
-        "displayName": "Joshua | MOZAIK 🇰🇷"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038891498918596933",
-      "username": "boundaryhq",
-      "displayName": "boundary",
-      "avatar": "https://nitter.net/pic/profile_images%2F1572240794265985024%2FV5q6mkyy_bigger.jpg",
-      "content": "纳指100等权etf从25年12月高点累计回撤16.5%。高beta的叙事股跌幅普遍在30-50%。\n流动性的边际变化是市场最直接的影响因素\n高水位+低现金水平的背景下\n没有伊朗的战争，也会有其他因素来触发回调\n私人信贷市场的暴雷是对流动性边际恶化的确认\n如果发生在低水位+高现金水平时，可以讨论私人信贷市场暴雷是否影响可控\n发生在25年12月-3月的背景下，就应该第一时间减仓加对冲，提高现金比例\n$QQQ $SPACEX",
-      "contentHtml": "纳指100等权etf从25年12月高点累计回撤16.5%。高beta的叙事股跌幅普遍在30-50%。\n流动性的边际变化是市场最直接的影响因素\n高水位+低现金水平的背景下\n没有伊朗的战争，也会有其他因素来触发回调\n私人信贷市场的暴雷是对流动性边际恶化的确认\n如果发生在低水位+高现金水平时，可以讨论私人信贷市场暴雷是否影响可控\n发生在25年12月-3月的背景下，就应该第一时间减仓加对冲，提高现金比例\n<a href=\"/search?f=tweets&q=%23QQQ\">$QQQ</a> <a href=\"/search?f=tweets&q=%23SPACEX\">$SPACEX</a>",
-      "publishedAt": "2026-03-31T08:09:00.000Z",
-      "link": "https://x.com/boundaryhq/status/2038891498918596933",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEuXGxKa0AAi6uJ.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEuX40AbkAA5Ayd.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEuX_7UaIAA_QFq.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEuYMPWaAAA-t4D.jpg"
-        }
-      ],
-      "quote": {
-        "username": "boundaryhq",
-        "displayName": "boundary",
-        "content": "美股现在整体走到了什么位置：参考美股场内杠杆指标，目前美股已经走到了杠杆泡沫化状态。从2025年6月开始，指标突破1个标准差，进入杠杆泡沫化的状态。目前接近2007年7月的状态，离2000年3月还有距离, 已经远高于2009年至今的历次中期顶部。进入杠杆泡沫化阶段后，走势主要受到资金面而不是基本面的影响。\n一旦后续场内开始去杠杆，指标拐头，行情整体会进入中长期的下行状态。而且指标高点的值越高，对应去杠杆后的低值会越低。从这个角度看，这轮一旦向下，市场累计调整幅度很可能会比21年11月-22年12月的调整幅度更大。\n$QQQ $NVDA $TSLA",
-        "link": "https://x.com/boundaryhq/status/2001233803185152056",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG8W6QahbQAA22A7.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038880316123701264",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "所以顶级交易员才是真正的大师\n这些搞流量的网红是个瘠薄\n0成本嘴撸 说错了也无所谓\n可是如果看错做错的话\n我们交易员是会亏钱的\n去年美股最高点我从做多看多美股转到看空做空美股\n遭到了极大的舆论阻力\n甚至有人人身攻击\n可是无所谓\n我连回应都懒得回应\n事实和时间会证明一切\n借用Satoshi先生的一句话\n“如果你不相信或者不明白，我没时间去说服你，抱歉。”",
-      "contentHtml": "所以顶级交易员才是真正的大师\n这些搞流量的网红是个瘠薄\n0成本嘴撸 说错了也无所谓\n可是如果看错做错的话\n我们交易员是会亏钱的\n去年美股最高点我从做多看多美股转到看空做空美股\n遭到了极大的舆论阻力\n甚至有人人身攻击\n可是无所谓\n我连回应都懒得回应\n事实和时间会证明一切\n借用Satoshi先生的一句话\n“如果你不相信或者不明白，我没时间去说服你，抱歉。”",
-      "publishedAt": "2026-03-31T07:25:00.000Z",
-      "link": "https://x.com/hazenlee/status/2038880316123701264",
-      "quote": {
-        "username": "xtony1314",
-        "displayName": "逍遥XTony",
-        "content": "张雪峰的认知，就是基本盘的认知，\n张雪峰的认知，就是没有任何认知，\n张雪峰的认知，远远不如户晨风。\n\n既然没有任何认知，自然也就不存在所谓的，为普罗大众打破信息差，\n张雪峰的本质，就是个脱口秀网红商人，把大量天涯论坛和知乎看来的东西，包装一下，贩卖焦虑卖给基本盘。\n\n一些雪峰赛博好大儿们 说张雪峰的伟大是因为他给底层家庭揭露了什么不为人知的秘密，还有一本正经的欲扬先抑的，说张雪峰不过是把高知家庭都知道的事情告诉了普通老百姓罢了。\n\n真替你和你的后代感到悲哀，你儿子被你射出来，碰到当爹的这种认知，真是倒了八辈子霉了。\n\n单说张雪峰的认知和观点，那不是和基本盘完全保持一致吗。。。说是改变了信息差，请问 差 在哪？\n\n张雪峰的观点，娱乐圈很乱，空姐很乱，文科不如理科好就业，当护士最好的出路是嫁给医生，大企业招聘都要看学历，穷人家孩子唯一出路是读书，学金融要拼关系，美国日本很坏。。。\n\n这些话不都是广大基本盘最认可的话吗？？？\n\n说户晨风给基本盘开智我还能理解，不管户子说的对不对，起码他的想法和观点和基本盘不一样，至少有给出不同角度思考的意义，张雪峰大多数想法观点和大部分人几乎都一模一样。\n\n张雪峰说土木好就业的时候，也是大部分人都认为土木好就业的时候，当年卖地收入是历史最高点，张雪峰又改口说学土木是傻逼的时候，也是大部分人都发现学土木是傻逼的时候，中国卖地收入腰斩了，他只是单纯的嘴替。\n\n还有什么说 新闻专业播音专业不好就业的，在我上高中的时候，全社会的 老师，家长，连未成年的高中生，都有一个共同认知：\n就是在高中的时候，能学理科就学理科，大部分情况下只有理科学不下去/数学成绩差的低能儿才会去学文科，至于艺术生体育生更是弱智中的弱智，只有连文科都读不下去成绩实在不够的，才去学了艺术，体育，\n\n人类弱智中的弱智都知道的事，路边一条狗都知道的事，张雪峰用极其情绪化的语言复述一遍，咋就给你打破信息差了？你是猪吗？\n\n就业形势好的时候就罢了，社会机会多，多多少少都能找到工作，就业形势不好的时候理科生都没班上，轮的上这帮上学时候就被淘汰的文科艺术体育人上吗？\n\n预测就业，本质上就是预测未来行业兴衰，如果他能准确预测到哪个专业好就业哪个专业不好就业，为什么不直接买或者空相关行业概念的股票呢？\n\n说到买卖股票，我现在都在咱们币圈币安APP上买卖美股了，现在币安已经上线了很多美股和大宗商品的交易对，相比传统金融的券商APP存在非常大的优势，\n1. usdt直接玩，没有繁琐的法币出入金\n2. 无CRS，不需要交税，\n3. 操作友好人性化，美股券商非常难用。\n\n现在只是开始，以后在币安的平台上，交易传统金融产品，只会越来越方便。😁😁😁",
-        "link": "https://x.com/xtony1314/status/2038787108819652951",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHEsDJ85agAE02qT.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038878061584675212",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "SKY 今日上线 Upbit 韩元交易对，在币安短时短时触及 $0.087 后回落，涨幅 16%📈\n\n地址 0x6c2…f3f14 在上线公告发布后，从 Sky 质押合约中取出 3145 万枚 SKY 充值进了 #Binance 中，价值 246 万美元，充值价格 $0.078（现价 $0.072）\n\n钱包地址 0x6c240128E56782A389E5F6D5D958865a02cf3f14\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "SKY 今日上线 Upbit 韩元交易对，在币安短时短时触及 $0.087 后回落，涨幅 16%📈\n\n地址 0x6c2…f3f14 在上线公告发布后，从 Sky 质押合约中取出 3145 万枚 SKY 充值进了 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 中，价值 246 万美元，充值价格 $0.078（现价 $0.072）\n\n钱包地址 0x6c240128E56782A389E5F6D5D958865a02cf3f14\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-03-31T07:16:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2038878061584675212",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEuMxChbUAA5MCk.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
