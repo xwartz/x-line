@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T12:01:29.902Z",
+  "lastUpdated": "2026-04-10T12:30:20.453Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 532,
+    "newFetched": 533,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2042573778815775220",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "现在还有一个路子就看哪个交易所能做好了，就是勾兑出美股的pre ipo的额度给用户参与，这也是一个大赛道。目前就看到gate在做，还是需要交易所相互竞争啊。",
+      "contentHtml": "现在还有一个路子就看哪个交易所能做好了，就是勾兑出美股的pre ipo的额度给用户参与，这也是一个大赛道。目前就看到gate在做，还是需要交易所相互竞争啊。",
+      "publishedAt": "2026-04-10T12:01:00.000Z",
+      "link": "https://x.com/0xleng1/status/2042573778815775220",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2042568758854869212",
       "username": "BensonTWN",
@@ -4324,7 +4339,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "好消息没怎么开单\n坏消息，有个空单，忘记忘记平仓了\n\n咋办\n反手多扣1\n扛单等爆仓为区块链做贡献扣2\n$BTCUSD",
-        "link": "https://x.com/Bitfatty/status/2041086554568114476"
+        "link": "https://x.com/Bitfatty/status/2041086554568114476",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFNlZ6AakAAtL9e.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -11852,27 +11873,6 @@
             "url": "https://nitter.net/pic/orig/media%2FGpLwUjFa4AIOQCK.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2038949273698709682",
-      "username": "0xPickleCati",
-      "displayName": "Pickle Cat",
-      "avatar": "https://nitter.net/pic/profile_images%2F1879537340080869376%2FPV5A5sD2_bigger.jpg",
-      "content": "google: “we can crack bitcoin in 9 minutes and 2029 is deadline to figure out a solution”\n\nyou know we’re near bear market lows when quantum fud starts trending again.\n\nBut their best chip has 105 qubits, the attack needs 500,000. that’s like a guy with a ladder saying he’s going to the moon.\n\nETH’s been prepping since 2018, BTC has draft proposals (BIP-360) but no coordinated plan yet.\n\nSo next 5 years realistically:\n> quantum hardware improves, stays nowhere near attack-capable\n> ETH finishes migration first, pressures btc to move\n> BTC community starts seriously pushing BIP-360\n> Satoshi’s coins become the loudest talking point forcing urgency\n\n(bottleneck isn’t crypto, it’s consensus)\n\nWhat you can do:\nif you hold coins in old wallets or addresses you’ve already spent from, pay extra attention. those have exposed public keys. \n\nBeyond that:\n> don’t use taproot (bc1p) for long-term cold storage\n> use native segwit (bc1q). your public key stays hidden until you spend\n> this doesn’t make risk zero, but it greatly reduces your exposure window\n\nTHIS IS NOT a doomsday story. If you sell your bag over quantum fud in a bear market and miss the next ath you have no one to blame but yourself lol. \n\nsame energy as the people who panic sold at 16k over ftx in 2022.\n\nBreathe! Accumulate!! we’ve seen this movie before.",
-      "contentHtml": "google: “we can crack bitcoin in 9 minutes and 2029 is deadline to figure out a solution”\n\nyou know we’re near bear market lows when quantum fud starts trending again.\n\nBut their best chip has 105 qubits, the attack needs 500,000. that’s like a guy with a ladder saying he’s going to the moon.\n\nETH’s been prepping since 2018, BTC has draft proposals (BIP-360) but no coordinated plan yet.\n\nSo next 5 years realistically:\n&gt; quantum hardware improves, stays nowhere near attack-capable\n&gt; ETH finishes migration first, pressures btc to move\n&gt; BTC community starts seriously pushing BIP-360\n&gt; Satoshi’s coins become the loudest talking point forcing urgency\n\n(bottleneck isn’t crypto, it’s consensus)\n\nWhat you can do:\nif you hold coins in old wallets or addresses you’ve already spent from, pay extra attention. those have exposed public keys. \n\nBeyond that:\n&gt; don’t use taproot (bc1p) for long-term cold storage\n&gt; use native segwit (bc1q). your public key stays hidden until you spend\n&gt; this doesn’t make risk zero, but it greatly reduces your exposure window\n\nTHIS IS NOT a doomsday story. If you sell your bag over quantum fud in a bear market and miss the next ath you have no one to blame but yourself lol. \n\nsame energy as the people who panic sold at 16k over ftx in 2022.\n\nBreathe! Accumulate!! we’ve seen this movie before.",
-      "publishedAt": "2026-03-31T11:59:00.000Z",
-      "link": "https://x.com/0xPickleCati/status/2038949273698709682",
-      "quote": {
-        "username": "mreiffy",
-        "displayName": "Max the VC 👨‍🚀",
-        "content": "Google is basically saying:\n\n“We’ve cut the quantum resources needed to break Bitcoin’s encryption by 20x. We can now break it. We can prove it. We’re just not going to tell you how.\n\nWe’ve slowed down research to give crypto a chance. You have until 2029 to figure out a solution. Good luck.”",
-        "link": "https://x.com/mreiffy/status/2038878566796988776"
       },
       "stats": {
         "replies": 0,
