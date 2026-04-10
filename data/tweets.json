@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T19:59:08.929Z",
+  "lastUpdated": "2026-04-10T20:18:32.240Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,9 +93,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 513,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 534,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -412,13 +412,7 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "从今天起对币圈刷新\n#牛回  第一天\n长风破浪会有时，直挂云帆济沧海\n鼻涕西 冲啊👻👻👻",
-        "link": "https://x.com/Bitfatty/status/2029076345263906978",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHCi6LYxawAI2i8q.jpg"
-          }
-        ]
+        "link": "https://x.com/Bitfatty/status/2029076345263906978"
       },
       "stats": {
         "replies": 0,
@@ -965,6 +959,31 @@
             "url": "https://nitter.net/pic/orig/media%2FHED95gabkAAfIlc.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2042423713019412941",
+      "username": "Fried_rice",
+      "displayName": "Chaofan Shou",
+      "avatar": "https://nitter.net/pic/profile_images%2F1959105085117800453%2FzJZUjk95_bigger.jpg",
+      "content": "26 LLM routers are secretly injecting malicious tool calls and stealing creds. One drained our client $500k wallet.\n\nWe also managed to poison routers to forward traffic to us. Within several hours, we can directly take over ~400 hosts. \n\nCheck our paper: arxiv.org/abs/2604.08407",
+      "contentHtml": "26 LLM routers are secretly injecting malicious tool calls and stealing creds. One drained our client $500k wallet.\n\nWe also managed to poison routers to forward traffic to us. Within several hours, we can directly take over ~400 hosts. \n\nCheck our paper: <a href=\"https://arxiv.org/abs/2604.08407\">arxiv.org/abs/2604.08407</a>",
+      "publishedAt": "2026-04-10T02:05:00.000Z",
+      "link": "https://x.com/Fried_rice/status/2042423713019412941",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFglir2bQAA0zmC.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
       },
       "stats": {
         "replies": 0,
@@ -1792,13 +1811,7 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "6万那天也平空了，但是不认为市场立马就会好起来\n\n喊building的人一定要死了，才会真正活过来\n我话放这里",
-        "link": "https://x.com/Bitfatty/status/2023453680502984855",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHBTAY_bX0AE4TPN.jpg"
-          }
-        ]
+        "link": "https://x.com/Bitfatty/status/2023453680502984855"
       },
       "stats": {
         "replies": 0,
@@ -4669,13 +4682,7 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "好消息没怎么开单\n坏消息，有个空单，忘记忘记平仓了\n\n咋办\n反手多扣1\n扛单等爆仓为区块链做贡献扣2\n$BTCUSD",
-        "link": "https://x.com/Bitfatty/status/2041086554568114476",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFNlZ6AakAAtL9e.jpg"
-          }
-        ]
+        "link": "https://x.com/Bitfatty/status/2041086554568114476"
       },
       "stats": {
         "replies": 0,
@@ -11811,21 +11818,6 @@
       "contentHtml": "Looks like the FUD this cycle is quantum computing fears. \n\nI must admit... they are getting more creative each cycle.  \n\nOnce again, it’s always convenient how this “news” shows up right when <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> is -50%.\n\nThey might fool 90%, but they do not fool me. \n\nHindsight, its obvious.",
       "publishedAt": "2026-03-31T16:22:00.000Z",
       "link": "https://x.com/KillaXBT/status/2039015393918910695",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039000980210299069",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "As a Cantonese, I’m rooting for @CantonNetwork unapologetically finally, a chain named after my hometown (intentional or not). if im their head of eco will market hard to the HK fintech and bank alignment \n\nif they dont support Dim Sum bond wrapper and rwa looping by Q3, they’ve officially failed the Cantonese diaspora",
-      "contentHtml": "As a Cantonese, I’m rooting for <a href=\"/CantonNetwork\" title=\"Canton Network\">@CantonNetwork</a> unapologetically finally, a chain named after my hometown (intentional or not). if im their head of eco will market hard to the HK fintech and bank alignment \n\nif they dont support Dim Sum bond wrapper and rwa looping by Q3, they’ve officially failed the Cantonese diaspora",
-      "publishedAt": "2026-03-31T15:24:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2039000980210299069",
       "stats": {
         "replies": 0,
         "retweets": 0,
