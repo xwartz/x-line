@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T19:33:15.476Z",
+  "lastUpdated": "2026-04-10T19:59:08.929Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 535,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 513,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2042689581376536684",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "$BTC bottoms don’t form through clean HLs.\n\nThey’re deliberately messy, involving multiple sweeps. \n\nTops show similar behavior.\n\nDiagonal bottoms rarely play out. \n\nStructurally, it makes more sense to expect a retrace below 70K to sweep untested lows before a true bottom is established.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> bottoms don’t form through clean HLs.\n\nThey’re deliberately messy, involving multiple sweeps. \n\nTops show similar behavior.\n\nDiagonal bottoms rarely play out. \n\nStructurally, it makes more sense to expect a retrace below 70K to sweep untested lows before a true bottom is established.",
+      "publishedAt": "2026-04-10T19:42:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2042689581376536684",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFkWhe9akAAcNVk.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2042665178450272506",
       "username": "KillaXBT",
@@ -391,7 +412,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "从今天起对币圈刷新\n#牛回  第一天\n长风破浪会有时，直挂云帆济沧海\n鼻涕西 冲啊👻👻👻",
-        "link": "https://x.com/Bitfatty/status/2029076345263906978"
+        "link": "https://x.com/Bitfatty/status/2029076345263906978",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCi6LYxawAI2i8q.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -938,31 +965,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHED95gabkAAfIlc.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2042423713019412941",
-      "username": "Fried_rice",
-      "displayName": "Chaofan Shou",
-      "avatar": "https://nitter.net/pic/profile_images%2F1959105085117800453%2FzJZUjk95_bigger.jpg",
-      "content": "26 LLM routers are secretly injecting malicious tool calls and stealing creds. One drained our client $500k wallet.\n\nWe also managed to poison routers to forward traffic to us. Within several hours, we can directly take over ~400 hosts. \n\nCheck our paper: arxiv.org/abs/2604.08407",
-      "contentHtml": "26 LLM routers are secretly injecting malicious tool calls and stealing creds. One drained our client $500k wallet.\n\nWe also managed to poison routers to forward traffic to us. Within several hours, we can directly take over ~400 hosts. \n\nCheck our paper: <a href=\"https://arxiv.org/abs/2604.08407\">arxiv.org/abs/2604.08407</a>",
-      "publishedAt": "2026-04-10T02:05:00.000Z",
-      "link": "https://x.com/Fried_rice/status/2042423713019412941",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFglir2bQAA0zmC.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
       },
       "stats": {
         "replies": 0,
@@ -1790,7 +1792,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "6万那天也平空了，但是不认为市场立马就会好起来\n\n喊building的人一定要死了，才会真正活过来\n我话放这里",
-        "link": "https://x.com/Bitfatty/status/2023453680502984855"
+        "link": "https://x.com/Bitfatty/status/2023453680502984855",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHBTAY_bX0AE4TPN.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
