@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T23:50:05.440Z",
+  "lastUpdated": "2026-04-11T00:28:15.587Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,61 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 535,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 517,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2042757794219081871",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "喊吧😂\n22年买100的Meta\n25年初20的INTC\n留言区疯狂Why，No\n情绪面绝对和现在的微软，ADBE一样了。希望这次也是对的。",
+      "contentHtml": "喊吧😂\n22年买100的Meta\n25年初20的INTC\n留言区疯狂Why，No\n情绪面绝对和现在的微软，ADBE一样了。希望这次也是对的。",
+      "publishedAt": "2026-04-11T00:13:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2042757794219081871",
+      "quote": {
+        "username": "Frostleaf_Ng",
+        "displayName": "くれない",
+        "content": "希望一年后能喊陈爹nb🙏",
+        "link": "https://x.com/Frostleaf_Ng/status/1950345556426891635"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2042746573285663114",
+      "username": "BRICSinfo",
+      "displayName": "BRICS News",
+      "avatar": "https://nitter.net/pic/profile_images%2F1926359090973818880%2FFp80oxwf_bigger.jpg",
+      "content": "JUST IN: 🇮🇷 Iran unable to fully reopen the Strait of Hormuz because it cannot find all the mines it deployed, NYT reports.",
+      "contentHtml": "JUST IN: 🇮🇷 Iran unable to fully reopen the Strait of Hormuz because it cannot find all the mines it deployed, NYT reports.",
+      "publishedAt": "2026-04-10T23:28:00.000Z",
+      "link": "https://x.com/BRICSinfo/status/2042746573285663114",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFlLKFzWwAA735q.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFlLKFKWAAA_uZi.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2042738832597008448",
       "username": "KillaXBT",
@@ -140,6 +190,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHFlC6-Fa4AAvWko.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2042715499960713654",
+      "username": "IraninSA",
+      "displayName": "Iran Embassy SA",
+      "avatar": "https://nitter.net/pic/profile_images%2F2024072376095588352%2FLxnPWIGa_bigger.jpg",
+      "content": "The preconditions have been accepted.",
+      "contentHtml": "The preconditions have been accepted.",
+      "publishedAt": "2026-04-10T21:25:00.000Z",
+      "link": "https://x.com/IraninSA/status/2042715499960713654",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -460,7 +529,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "从今天起对币圈刷新\n#牛回  第一天\n长风破浪会有时，直挂云帆济沧海\n鼻涕西 冲啊👻👻👻",
-        "link": "https://x.com/Bitfatty/status/2029076345263906978"
+        "link": "https://x.com/Bitfatty/status/2029076345263906978",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCi6LYxawAI2i8q.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -2989,31 +3064,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHFLQtfobcAAhxyI.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2041945372134621388",
-      "username": "josephwang",
-      "displayName": "Joseph Wang",
-      "avatar": "https://nitter.net/pic/profile_images%2F1626283713851187207%2F1OsYuZo7_bigger.jpg",
-      "content": "Fed minutes show most Fed officials would cut rates into an negative oil shock due to its impact on employment. But a sizable minority is emphasizing the inflationary impacts and would instead hike rates.",
-      "contentHtml": "Fed minutes show most Fed officials would cut rates into an negative oil shock due to its impact on employment. But a sizable minority is emphasizing the inflationary impacts and would instead hike rates.",
-      "publishedAt": "2026-04-08T18:24:00.000Z",
-      "link": "https://x.com/josephwang/status/2041945372134621388",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFZyK2lXAAAKqw7.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
       },
       "stats": {
         "replies": 0,
@@ -11796,36 +11846,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHEwd_ufWAAElSmC.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039034955347439850",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "今天市场里面有很多噪音:\nJPM COLLAR ROLL, 6475的引力\n季度底养老基金再平衡\n然后就是消息面：川普说把控制霍尔木兹海峡剔除在结束战争的条件里；媒体放话说伊朗总统准备结束战争，前提是有国家提供担保（暂时没看到伊朗账号反驳）\n有一点观察可以提供的是：直到12:40之前，陶氏（YTD 76%) 是随大盘涨的，然后出现下跌，就知道很多标的就是用来做多空策略的，而伊朗的消息出来后，开始平仓了。\n至于消息是不是真的，我不知道。",
-      "contentHtml": "今天市场里面有很多噪音:\nJPM COLLAR ROLL, 6475的引力\n季度底养老基金再平衡\n然后就是消息面：川普说把控制霍尔木兹海峡剔除在结束战争的条件里；媒体放话说伊朗总统准备结束战争，前提是有国家提供担保（暂时没看到伊朗账号反驳）\n有一点观察可以提供的是：直到12:40之前，陶氏（YTD 76%) 是随大盘涨的，然后出现下跌，就知道很多标的就是用来做多空策略的，而伊朗的消息出来后，开始平仓了。\n至于消息是不是真的，我不知道。",
-      "publishedAt": "2026-03-31T17:39:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2039034955347439850",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039022808538493114",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "能不能别在愚人节发消息？？？",
-      "contentHtml": "能不能别在愚人节发消息？？？",
-      "publishedAt": "2026-03-31T16:51:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2039022808538493114",
       "stats": {
         "replies": 0,
         "retweets": 0,
