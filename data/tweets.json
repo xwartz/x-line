@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T00:28:15.587Z",
+  "lastUpdated": "2026-04-11T01:00:42.741Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 517,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 536,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2042763839955972392",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "AI营收占比会越来越高，顺着Andy的逻辑，存储，数据，计算都在我AWS上面，推理也会\n26年AWS 31%的增速，这也是今年资本开支的结果，数据中心交付，亚麻是去年少有没有拖延的。27年26%的增速，现在未知很大，但照这种落地速度，和今年的2000亿资本开支，我认为会再加速，也就是超过今年的31%",
+      "contentHtml": "AI营收占比会越来越高，顺着Andy的逻辑，存储，数据，计算都在我AWS上面，推理也会\n26年AWS 31%的增速，这也是今年资本开支的结果，数据中心交付，亚麻是去年少有没有拖延的。27年26%的增速，现在未知很大，但照这种落地速度，和今年的2000亿资本开支，我认为会再加速，也就是超过今年的31%",
+      "publishedAt": "2026-04-11T00:37:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2042763839955972392",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFla4zHX0AAoZNN.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2042757794219081871",
       "username": "TJ_Research",
@@ -3176,31 +3197,6 @@
             "url": "https://nitter.net/pic/orig/media%2FGVVYeNga8AAVLeB.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2041910915763749257",
-      "username": "KobeissiLetter",
-      "displayName": "The Kobeissi Letter",
-      "avatar": "https://nitter.net/pic/profile_images%2F1975243710846640128%2FfwYCe67Y_bigger.jpg",
-      "content": "BREAKING: Perplexity's revenue has reportedly surged +50% in one month after shifting into AI agents, per FT.\n\nAs a result, Perplexity's revenue has doubled in one quarter to more than $450 million in ARR.\n\nThis follows Anthropic's push into the space which said its ARR hit $19 billion at the end of February.\n\nAI agents are skyrocketing in popularity.",
-      "contentHtml": "BREAKING: Perplexity's revenue has reportedly surged +50% in one month after shifting into AI agents, per FT.\n\nAs a result, Perplexity's revenue has doubled in one quarter to more than $450 million in ARR.\n\nThis follows Anthropic's push into the space which said its ARR hit $19 billion at the end of February.\n\nAI agents are skyrocketing in popularity.",
-      "publishedAt": "2026-04-08T16:07:00.000Z",
-      "link": "https://x.com/KobeissiLetter/status/2041910915763749257",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFZTJ_ua8AAjLvM.png"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
       },
       "stats": {
         "replies": 0,
