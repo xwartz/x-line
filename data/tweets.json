@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T20:29:22.411Z",
+  "lastUpdated": "2026-04-11T20:49:01.597Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 539,
+    "newFetched": 538,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2043063622046220410",
+      "username": "BRICSinfo",
+      "displayName": "BRICS News",
+      "avatar": "https://nitter.net/pic/profile_images%2F1926359090973818880%2FFp80oxwf_bigger.jpg",
+      "content": "JUST IN: Strait of Hormuz remains a major obstacle in US-Iran talks, with the US demanding immediate reopening and Iran insisting on a final peace deal first.",
+      "contentHtml": "JUST IN: Strait of Hormuz remains a major obstacle in US-Iran talks, with the US demanding immediate reopening and Iran insisting on a final peace deal first.",
+      "publishedAt": "2026-04-11T20:28:00.000Z",
+      "link": "https://x.com/BRICSinfo/status/2043063622046220410",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFprh4VbsAAzxJA.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFprh3nWMAA9Ym3.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFprh3tW8AEjqoM.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2043039907505897488",
       "username": "KillaXBT",
@@ -7741,7 +7774,7 @@
       "quote": {
         "username": "daidaibtc",
         "displayName": "带带带比特",
-        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能是前些年的限量版球鞋？从高溢价到小溢价再到平价，破发。万物都是周期，感觉Q3 Q4开始沽空泡泡玛特毫无问题",
+        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能",
         "link": "https://x.com/daidaibtc/status/1927952630384578808"
       },
       "stats": {
@@ -11895,21 +11928,6 @@
       "contentHtml": "最近很多交易所開始接 AI agent，讓用戶可以用自然語言下單、查持倉、設止損。  \n\n聽起來很酷，但仔細想一下，這件事跟 vibe coding 差在哪裡？  Vibe coding 之所以有價值，是因為它用自然語言替代了 programming language。\n\n寫程式本身是有門檻的，大部分人不會。所以當 AI 可以幫你把想法直接變成 code，這個門檻的消除是真實的。  \n\n但交易所的 AI agent 替代的是什麼？是 App 操作。  \n\n你叫 AI 幫你查持倉，跟你自己打開 App 看一眼，差多少？你叫 AI 幫你下止損單，跟你自己點三下設好，差多少？ \n\nApp 本來就是設計給一般人用的，門檻已經很低了。用自然語言去替代一個本來就不難的操作，省下來的東西非常有限。\n\n這就像有人做了一個用嘴巴就能操作的電視遙控器。聽起來方便，但原本用手按也就那麼回事。  \n\n而且就算操作變得更方便了，也不會讓你多賺一塊錢。  \n\n之前有人用 vibe 出了一個長得像 Bloomberg Terminal 的後台，做得有模有樣。但 Bloomberg 厲害的不是介面，是它背後幾十年累積的獨家數據跟分析模型。介面做得再像，沒有那些數據，就是一個好看的空殼。  \n\n交易要有 alpha，靠的是別人拿不到的資料，或是從同樣的資料裡看出別人看不到的東西。K 線跟成交量是公開資訊，技術分析玩了幾十年，該榨的早就榨乾了。AI 幫你看 K 線分析出的結果，跟那些量產型的的技術分析老師其實不會差太多。 \n\n唯一真正有意義的場景是：你本身就有一套自己的交易邏輯，以前要自己寫程式串 API 才能自動化執行。現在透過 AI agent，你可以用自然語言描述策略，讓它幫你轉成下單指令。這確實降低了量化交易的技術門檻。  \n\n問題是，就算部署策略變容易了，策略本身好不好，還是取決於你用什麼資料、用什麼風控模型。工具再方便，沒有 edge 就是沒有 edge。  交易所在 AI 上如果只做到「讓用戶用嘴巴下單」，那就是把一個本來就不難的事情，換了一種方式做而已。",
       "publishedAt": "2026-04-01T12:21:00.000Z",
       "link": "https://x.com/BensonTWN/status/2039317114679709916",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039316527086997686",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "最近很多交易所開始接 AI agent，讓用戶可以用自然語言下單、查持倉、設止損。  \n\n聽起來很酷，但仔細想一下，這件事跟 vibe coding 差在哪裡？  Vibe coding 之所以有價值，是因為它用自然語言替代了 programming language。\n\n寫程式本身是有門檻的，大部分人不會。所以當 AI 可以幫你把想法直接變成 code，這個門檻的消除是真實的。  \n\n但交易所的 AI agent 替代的是什麼？是 App 操作。  \n\n你叫 AI 幫你查持倉，跟你自己打開 App 看一眼，差多少？你叫 AI 幫你下止損單，跟你自己點三下設好，差多少？ \n\nApp 本來就是設計給一般人用的，門檻已經很低了。用自然語言去替代一個本來就不難的操作，省下來的東西非常有限。\n\n這就像有人做了一個用嘴巴就能操作的電視遙控器。聽起來方便，但原本用手按也就那麼回事。  \n\n而且就算操作變得更方便了，也不會讓你多賺一塊錢。  \n\n之前有人用 vbie 出了一個長得像 Bloomberg Terminal 的後台，做得有模有樣。但 Bloomberg 厲害的不是介面，是它背後幾十年累積的獨家數據跟分析模型。介面做得再像，沒有那些數據，就是一個好看的空殼。  \n\n交易要有 alpha，靠的是別人拿不到的資料，或是從同樣的資料裡看出別人看不到的東西。K 線跟成交量是公開資訊，技術分析玩了幾十年，該榨的早就榨乾了。AI 幫你看 K 線分析出的結果，跟那些量產型的的技術分析老師其實不會差太多。 \n\n唯一真正有意義的場景是：你本身就有一套自己的交易邏輯，以前要自己寫程式串 API 才能自動化執行。現在透過 AI agent，你可以用自然語言描述策略，讓它幫你轉成下單指令。這確實降低了量化交易的技術門檻。  \n\n問題是，就算部署策略變容易了，策略本身好不好，還是取決於你用什麼資料、用什麼風控模型。工具再方便，沒有 edge 就是沒有 edge。  交易所在 AI 上如果只做到「讓用戶用嘴巴下單」，那就是把一個本來就不難的事情，換了一種方式做而已。",
-      "contentHtml": "最近很多交易所開始接 AI agent，讓用戶可以用自然語言下單、查持倉、設止損。  \n\n聽起來很酷，但仔細想一下，這件事跟 vibe coding 差在哪裡？  Vibe coding 之所以有價值，是因為它用自然語言替代了 programming language。\n\n寫程式本身是有門檻的，大部分人不會。所以當 AI 可以幫你把想法直接變成 code，這個門檻的消除是真實的。  \n\n但交易所的 AI agent 替代的是什麼？是 App 操作。  \n\n你叫 AI 幫你查持倉，跟你自己打開 App 看一眼，差多少？你叫 AI 幫你下止損單，跟你自己點三下設好，差多少？ \n\nApp 本來就是設計給一般人用的，門檻已經很低了。用自然語言去替代一個本來就不難的操作，省下來的東西非常有限。\n\n這就像有人做了一個用嘴巴就能操作的電視遙控器。聽起來方便，但原本用手按也就那麼回事。  \n\n而且就算操作變得更方便了，也不會讓你多賺一塊錢。  \n\n之前有人用 vbie 出了一個長得像 Bloomberg Terminal 的後台，做得有模有樣。但 Bloomberg 厲害的不是介面，是它背後幾十年累積的獨家數據跟分析模型。介面做得再像，沒有那些數據，就是一個好看的空殼。  \n\n交易要有 alpha，靠的是別人拿不到的資料，或是從同樣的資料裡看出別人看不到的東西。K 線跟成交量是公開資訊，技術分析玩了幾十年，該榨的早就榨乾了。AI 幫你看 K 線分析出的結果，跟那些量產型的的技術分析老師其實不會差太多。 \n\n唯一真正有意義的場景是：你本身就有一套自己的交易邏輯，以前要自己寫程式串 API 才能自動化執行。現在透過 AI agent，你可以用自然語言描述策略，讓它幫你轉成下單指令。這確實降低了量化交易的技術門檻。  \n\n問題是，就算部署策略變容易了，策略本身好不好，還是取決於你用什麼資料、用什麼風控模型。工具再方便，沒有 edge 就是沒有 edge。  交易所在 AI 上如果只做到「讓用戶用嘴巴下單」，那就是把一個本來就不難的事情，換了一種方式做而已。",
-      "publishedAt": "2026-04-01T12:18:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2039316527086997686",
       "stats": {
         "replies": 0,
         "retweets": 0,
