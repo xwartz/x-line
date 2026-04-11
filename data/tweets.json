@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T13:27:13.797Z",
+  "lastUpdated": "2026-04-11T13:49:56.296Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,108 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 539,
+    "newFetched": 536,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2042961560164012352",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "好家伙，持仓仅 15 小时极速撤退🏃\n\n今早成本 $72720.78 建仓 470 万美元的 $WBTC 的看多大户 0x0EA…34a54，已在 4 小时前清仓离场，$72536 抛售了 64.7 枚 WBTC，亏损 1.2 万美元\n\n钱包地址 0x0EA225f92408532403FbFE5357d5d94676F34a54\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
+      "contentHtml": "好家伙，持仓仅 15 小时极速撤退🏃\n\n今早成本 $72720.78 建仓 470 万美元的 <a href=\"/search?f=tweets&q=%23WBTC\">$WBTC</a> 的看多大户 0x0EA…34a54，已在 4 小时前清仓离场，$72536 抛售了 64.7 枚 WBTC，亏损 1.2 万美元\n\n钱包地址 0x0EA225f92408532403FbFE5357d5d94676F34a54\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
+      "publishedAt": "2026-04-11T13:42:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2042961560164012352",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFoOsA4bsAAGvT4.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "反方向的钟🕰️\n\n「先定 10 个大目标」老哥下重注 2.7 亿美元看空时，地址 0x0EA…34a54 从昨天起已累计建仓 470 万美元的 WBTC，平均成本 $72720.78，这也是他时隔一个月的首次建仓操作\n\n钱包地址 0x0EA225f92408532403FbFE5357d5d94676F34a54\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
+        "link": "https://x.com/ai_9684xtpa/status/2042813694695084057",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFmIFIqakAIKk2H.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2042960448841224358",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "偷袭！",
+      "contentHtml": "偷袭！",
+      "publishedAt": "2026-04-11T13:38:00.000Z",
+      "link": "https://x.com/hazenlee/status/2042960448841224358",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFoNsgiakAY9cbk.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFoNsgfakAMNlVt.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "没啥扯的，上次瑞士谈判也挺顺利，\n刚回去，内衣没了",
+        "link": "https://x.com/hazenlee/status/2042955212890214904",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFoI7xuakAkKrO-.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2042960172537253949",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "用过微信 ClawBot (iLink Bot API)的都知道，\n1. 你无法将任何聊天记录，合并转发给ClawBot\n2. 你跟ClawBot的聊天记录，也无法合并转发给别人\n\n这其实是微信在AI Agent这件事上的最核心关键突破口，\n但却几乎没有人提及。\n\n因为多选聊天记录合并转发（双向 Input/Output）\n=AI Agent在微信环境内的社会化“裂变式病毒扩散”\n\n假如1和2的阉割被解锁，那么：\n1.我把我和朋友的聊天信息合并转发给ClawBot分析\n2.我再把ClawBot的分析合并转发给朋友、别人看\n\n其他用户就会觉得很惊讶\n“你这个是微信什么功能？怎么这么方便？”\n\n于是“将微信内上下文丢给AI Agent”\n这个使用场景、惊艳效果、日常使用习惯，\n就会扩散开来，会一下子“裂变式”加速\n广大国内用户对AI Agent的了解认知、使用依赖。\n\n而这种加速，在很多个角度上（此处省略大段），\n对微信来说，可能是被视为有潜在风险，“危险”的，\n需要暂时防微杜渐的。\n\n这种防微杜渐甚至体现到极小的设计细节中：\n你跟ClawBot的聊天记录，虽然不能合并转发，\n但可以单条转发出去，因为单条转发，\n是以你的身份“重发”，不会暴露Bot的存在感，\n不会影响微信环境中的“活人感”（张小龙非常在意），\n不会给广大用户“微信里充斥机器人信息”的体感风险。",
+      "contentHtml": "用过微信 ClawBot (iLink Bot API)的都知道，\n1. 你无法将任何聊天记录，合并转发给ClawBot\n2. 你跟ClawBot的聊天记录，也无法合并转发给别人\n\n这其实是微信在AI Agent这件事上的最核心关键突破口，\n但却几乎没有人提及。\n\n因为多选聊天记录合并转发（双向 Input/Output）\n=AI Agent在微信环境内的社会化“裂变式病毒扩散”\n\n假如1和2的阉割被解锁，那么：\n1.我把我和朋友的聊天信息合并转发给ClawBot分析\n2.我再把ClawBot的分析合并转发给朋友、别人看\n\n其他用户就会觉得很惊讶\n“你这个是微信什么功能？怎么这么方便？”\n\n于是“将微信内上下文丢给AI Agent”\n这个使用场景、惊艳效果、日常使用习惯，\n就会扩散开来，会一下子“裂变式”加速\n广大国内用户对AI Agent的了解认知、使用依赖。\n\n而这种加速，在很多个角度上（此处省略大段），\n对微信来说，可能是被视为有潜在风险，“危险”的，\n需要暂时防微杜渐的。\n\n这种防微杜渐甚至体现到极小的设计细节中：\n你跟ClawBot的聊天记录，虽然不能合并转发，\n但可以单条转发出去，因为单条转发，\n是以你的身份“重发”，不会暴露Bot的存在感，\n不会影响微信环境中的“活人感”（张小龙非常在意），\n不会给广大用户“微信里充斥机器人信息”的体感风险。",
+      "publishedAt": "2026-04-11T13:37:00.000Z",
+      "link": "https://x.com/coolish/status/2042960172537253949",
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "我被误导了，\n我还以为是“让Hermes Agent用一个个人微信号”，\n结果还是跟之前Openclaw接入微信方式一样，\n是用这个“阉割版”的微信ClawBot (iLinkBot)，\n因此“支持群聊”的说法有误导。\n\n其实对多数人而言，更基础且关键的需求是：\n让我能“(合并)转发聊天记录”给 Agent，\n连这个都不让，就是严重阉割。",
+        "link": "https://x.com/coolish/status/2042945643602379250",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFn_J4RakAQ0yrc.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2042955212890214904",
       "username": "hazenlee",
@@ -422,8 +519,8 @@
       "username": "daidaibtc",
       "displayName": "带带带比特",
       "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "其实说实话，如果我的资金还很小，比如只有几千刀，那我肯定还是整天去研究币安涨幅榜的，因为波动率足够大。小资金只用追求波动就好了。就和赌场下注差不多，可以凭借经验或者研究提升一点胜率。输了怎么办？输了就打工充钱。但是资金如果比较大，我觉得是完全不要浪费精力在这些东西上面的，适合的体系只有一种，就是低吸，很便宜的时候买一点去赌，安全边际足够就行了。前阵子币安一堆只剩几M的，有心的，观察过的都知道我说的哪些，比如一些Meme，又比如之前一些有过操纵爆拉过程的，我这两天看，其实基本都涨了，配置的足够分散，选标别选太老的，被下架的风险其实也降低了。我知道币圈的山寨早就不配叫资产配置了，但赌博方式，赌博技巧，也都是有讲究的。",
-      "contentHtml": "其实说实话，如果我的资金还很小，比如只有几千刀，那我肯定还是整天去研究币安涨幅榜的，因为波动率足够大。小资金只用追求波动就好了。就和赌场下注差不多，可以凭借经验或者研究提升一点胜率。输了怎么办？输了就打工充钱。但是资金如果比较大，我觉得是完全不要浪费精力在这些东西上面的，适合的体系只有一种，就是低吸，很便宜的时候买一点去赌，安全边际足够就行了。前阵子币安一堆只剩几M的，有心的，观察过的都知道我说的哪些，比如一些Meme，又比如之前一些有过操纵爆拉过程的，我这两天看，其实基本都涨了，配置的足够分散，选标别选太老的，被下架的风险其实也降低了。我知道币圈的山寨早就不配叫资产配置了，但赌博方式，赌博技巧，也都是有讲究的。",
+      "content": "其实说实话，如果我的资金还很小，比如只有几千刀，那我肯定还是整天去研究币安涨幅榜的，因为波动率足够大。小资金只用追求波动就好了。就和赌场下注差不多，可以凭借经验或者研究提升一点胜率。输了怎么办？输了就打工充钱。但是资金如果比较大，我觉得是完全不要浪费精力在这些东西上面的，适合的体",
+      "contentHtml": "其实说实话，如果我的资金还很小，比如只有几千刀，那我肯定还是整天去研究币安涨幅榜的，因为波动率足够大。小资金只用追求波动就好了。就和赌场下注差不多，可以凭借经验或者研究提升一点胜率。输了怎么办？输了就打工充钱。但是资金如果比较大，我觉得是完全不要浪费精力在这些东西上面的，适合的体",
       "publishedAt": "2026-04-11T06:31:00.000Z",
       "link": "https://x.com/daidaibtc/status/2042852947705630892",
       "stats": {
@@ -11797,63 +11894,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHEziC73a0AA9kkP.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039252933838295077",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "2029年，会是BTC的一次生死考验吗？\n\n昨天谷歌的这篇文章在BTC社区引发了强烈的震动。他打破了人们对“量子威胁还很遥远”的幻觉，将原本被认为还需10-20年的量子威胁，提前到了2029年（2028年BTC减半后）这一具体的窗口。\n\n谷歌指出，性能足够强大的量子计算机能在9分钟内从公钥推导出私钥。由于BTC平均出块时间为10分钟，这就意味着攻击者可以在交易发出但尚未确认的窗口期内，直接截获并伪造交易。\n\n除此之外，还有一个致命伤是那些早期公钥暴露在链上的地址。从链上数据来看，当前持有10年未动的BTC共计337.9万枚（其中，中本聪的地址就有108w枚）。这些币在理论上都有可能会是“待宰的羔羊”。\n\n因为这些大多是“币没了”或“人没了”的早期筹码，无法主动完成“抗量子迁移”。而一旦落入第一个破解系统的黑客手中，意味着在BTC的世界里，有个“疯子”掌握着一笔为ETF的2.6倍，MSTR的4.4倍的巨额非法财富。\n\n目前，我看到社区的反应主要分为两派：\n\n乐观派认为只需通过一次软分叉引入抗量子签名方案（BIP-360与P2MR），并在量子威胁到来之前完成BTC的钱包迁移即可确保安全。\n\n而悲观派认为即便在技术上可行，但去中心化的治理模式很难在短短3-4年内能达成一致，尤其是如何处理那么多暴露公钥的BTC，一旦处理不好可能引发再一次硬分叉的暴击。\n\n届时，支持保护私产的“保守派”和支持网络安全的“激进派”会再次吵得不可开交。就像17-18年Core开发组和矿工大户在大小区块上的严重分歧，最后导致硬分叉，就差点让比特币分崩离析。\n\n另外，即便最终社区达成共识，有一件事可能还是无法避免。\n\n那就是为了安全升级而被动产生了大量的BTC迁移，这些非经济行为的链上活动，会严重污染BTC的链上数据。作为一个“全球公共账本”在面对生存危机时，不得不牺牲透明度溢价。\n\n使我们在过去十多年里建立起的基于“链上数据分析”的交易模型，可能将面临结构性失效。比如，一切以“持有时间”为基础的数据彻底失真，实现盈利/亏损的估值模型的底层逻辑坍塌等等。\n\n未来的链上分析工具可能不得不将BTC的历史划分为“前量子时代”和“后量子时代”。可能只有拥有顶级数据清洗能力的机构（不知道Glassnode行不行），才能从海量噪音中剥离出真实的交易意图。\n\n当交易决策回归传统，人们又重新开始依赖消息面、情绪面或技术面时，散户将失去一个“唯一有机会和机构站在同一起跑线”的透明且有效的技术工具。\n\n这确实是一个极大的遗憾......\n\nresearch.google/blog/safegua…",
-      "contentHtml": "2029年，会是BTC的一次生死考验吗？\n\n昨天谷歌的这篇文章在BTC社区引发了强烈的震动。他打破了人们对“量子威胁还很遥远”的幻觉，将原本被认为还需10-20年的量子威胁，提前到了2029年（2028年BTC减半后）这一具体的窗口。\n\n谷歌指出，性能足够强大的量子计算机能在9分钟内从公钥推导出私钥。由于BTC平均出块时间为10分钟，这就意味着攻击者可以在交易发出但尚未确认的窗口期内，直接截获并伪造交易。\n\n除此之外，还有一个致命伤是那些早期公钥暴露在链上的地址。从链上数据来看，当前持有10年未动的BTC共计337.9万枚（其中，中本聪的地址就有108w枚）。这些币在理论上都有可能会是“待宰的羔羊”。\n\n因为这些大多是“币没了”或“人没了”的早期筹码，无法主动完成“抗量子迁移”。而一旦落入第一个破解系统的黑客手中，意味着在BTC的世界里，有个“疯子”掌握着一笔为ETF的2.6倍，MSTR的4.4倍的巨额非法财富。\n\n目前，我看到社区的反应主要分为两派：\n\n乐观派认为只需通过一次软分叉引入抗量子签名方案（BIP-360与P2MR），并在量子威胁到来之前完成BTC的钱包迁移即可确保安全。\n\n而悲观派认为即便在技术上可行，但去中心化的治理模式很难在短短3-4年内能达成一致，尤其是如何处理那么多暴露公钥的BTC，一旦处理不好可能引发再一次硬分叉的暴击。\n\n届时，支持保护私产的“保守派”和支持网络安全的“激进派”会再次吵得不可开交。就像17-18年Core开发组和矿工大户在大小区块上的严重分歧，最后导致硬分叉，就差点让比特币分崩离析。\n\n另外，即便最终社区达成共识，有一件事可能还是无法避免。\n\n那就是为了安全升级而被动产生了大量的BTC迁移，这些非经济行为的链上活动，会严重污染BTC的链上数据。作为一个“全球公共账本”在面对生存危机时，不得不牺牲透明度溢价。\n\n使我们在过去十多年里建立起的基于“链上数据分析”的交易模型，可能将面临结构性失效。比如，一切以“持有时间”为基础的数据彻底失真，实现盈利/亏损的估值模型的底层逻辑坍塌等等。\n\n未来的链上分析工具可能不得不将BTC的历史划分为“前量子时代”和“后量子时代”。可能只有拥有顶级数据清洗能力的机构（不知道Glassnode行不行），才能从海量噪音中剥离出真实的交易意图。\n\n当交易决策回归传统，人们又重新开始依赖消息面、情绪面或技术面时，散户将失去一个“唯一有机会和机构站在同一起跑线”的透明且有效的技术工具。\n\n这确实是一个极大的遗憾......\n\n<a href=\"https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/\">research.google/blog/safegua…</a>",
-      "publishedAt": "2026-04-01T08:06:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2039252933838295077",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEzhgPLbwAAEhSR.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039247947234230610",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
-      "content": "It was all an experiment, and as always, all good things come to an end. \n\nThis will be my final post on X, I’ve retired.\n\n✌️",
-      "contentHtml": "It was all an experiment, and as always, all good things come to an end. \n\nThis will be my final post on X, I’ve retired.\n\n✌️",
-      "publishedAt": "2026-04-01T07:46:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2039247947234230610",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039240869841453218",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "地址 0x65d…8fC62 疑似清仓 4012 枚 ETH，价值 857.2 万美元\n\n过去 40 分钟，他将一周前从 Lido 赎回的 4012 枚 ETH 充值进了 #Binance，目前链上仅剩最后 0.709 枚 $ETH\n\n钱包地址 0x65d0FAECa0A6AF637D1110D5620656d7c238fC62\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "地址 0x65d…8fC62 疑似清仓 4012 枚 ETH，价值 857.2 万美元\n\n过去 40 分钟，他将一周前从 Lido 赎回的 4012 枚 ETH 充值进了 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a>，目前链上仅剩最后 0.709 枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a>\n\n钱包地址 0x65d0FAECa0A6AF637D1110D5620656d7c238fC62\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-04-01T07:18:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2039240869841453218",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEzWvTua0AAHK78.jpg"
         }
       ],
       "stats": {
