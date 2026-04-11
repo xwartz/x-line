@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T18:47:53.650Z",
+  "lastUpdated": "2026-04-11T19:17:56.289Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -98,6 +98,27 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2043039907505897488",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "Nice little rising wedge forming for $BTC.",
+      "contentHtml": "Nice little rising wedge forming for <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>.",
+      "publishedAt": "2026-04-11T18:54:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2043039907505897488",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFpVzOGWIAAZTdQ.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2043021160896450743",
       "username": "KillaXBT",
@@ -5133,7 +5154,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "血赚3400u\n扛单不死必有后福",
-        "link": "https://x.com/Bitfatty/status/2041523405405728883"
+        "link": "https://x.com/Bitfatty/status/2041523405405728883",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFTyt-7aYAAOsQg.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -5317,7 +5344,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "血赚3400u\n扛单不死必有后福",
-        "link": "https://x.com/Bitfatty/status/2041523405405728883"
+        "link": "https://x.com/Bitfatty/status/2041523405405728883",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFTyt-7aYAAOsQg.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -11877,39 +11910,6 @@
       "contentHtml": "最近很多交易所開始接 AI agent，讓用戶可以用自然語言下單、查持倉、設止損。  \n\n聽起來很酷，但仔細想一下，這件事跟 vibe coding 差在哪裡？  Vibe coding 之所以有價值，是因為它用自然語言替代了 programming language。\n\n寫程式本身是有門檻的，大部分人不會。所以當 AI 可以幫你把想法直接變成 code，這個門檻的消除是真實的。  \n\n但交易所的 AI agent 替代的是什麼？是 App 操作。  \n\n你叫 AI 幫你查持倉，跟你自己打開 App 看一眼，差多少？你叫 AI 幫你下止損單，跟你自己點三下設好，差多少？ \n\nApp 本來就是設計給一般人用的，門檻已經很低了。用自然語言去替代一個本來就不難的操作，省下來的東西非常有限。\n\n這就像有人做了一個用嘴巴就能操作的電視遙控器。聽起來方便，但原本用手按也就那麼回事。  \n\n而且就算操作變得更方便了，也不會讓你多賺一塊錢。  \n\n之前有人用 vbie 出了一個長得像 Bloomberg Terminal 的後台，做得有模有樣。但 Bloomberg 厲害的不是介面，是它背後幾十年累積的獨家數據跟分析模型。介面做得再像，沒有那些數據，就是一個好看的空殼。  \n\n交易要有 alpha，靠的是別人拿不到的資料，或是從同樣的資料裡看出別人看不到的東西。K 線跟成交量是公開資訊，技術分析玩了幾十年，該榨的早就榨乾了。AI 幫你看 K 線分析出的結果，跟那些量產型的的技術分析老師其實不會差太多。 \n\n唯一真正有意義的場景是：你本身就有一套自己的交易邏輯，以前要自己寫程式串 API 才能自動化執行。現在透過 AI agent，你可以用自然語言描述策略，讓它幫你轉成下單指令。這確實降低了量化交易的技術門檻。  \n\n問題是，就算部署策略變容易了，策略本身好不好，還是取決於你用什麼資料、用什麼風控模型。工具再方便，沒有 edge 就是沒有 edge。  交易所在 AI 上如果只做到「讓用戶用嘴巴下單」，那就是把一個本來就不難的事情，換了一種方式做而已。",
       "publishedAt": "2026-04-01T12:18:00.000Z",
       "link": "https://x.com/BensonTWN/status/2039316527086997686",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039315648795263319",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
-      "content": "I remember mentioning this last week.\n\nMonday & Wednesday tend to be the best performing days of the week for $BTC. \n\nMonday saw a pump this week, with a 2% rejection forming Mondays high.\n\nNow it’s Wednesday, the strongest day based on 1Y data.\n\nThursday… the worst. IKYK",
-      "contentHtml": "I remember mentioning this last week.\n\nMonday &amp; Wednesday tend to be the best performing days of the week for <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>. \n\nMonday saw a pump this week, with a 2% rejection forming Mondays high.\n\nNow it’s Wednesday, the strongest day based on 1Y data.\n\nThursday… the worst. IKYK",
-      "publishedAt": "2026-04-01T12:15:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2039315648795263319",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE0aBSlboAAR3kf.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "Typically, Monday and Wednesday are the best performing days for $BTC\n\nThursday however, is usually the worst performing day.\n\nSo if you see any upward movement today, there’s a strong chance those gains could reverse on Thursday.",
-        "link": "https://x.com/KillaXBT/status/2036749730122711540",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHEP540vaIAAZGse.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
