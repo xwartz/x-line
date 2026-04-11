@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T01:44:32.809Z",
+  "lastUpdated": "2026-04-11T02:43:04.117Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,7 +93,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 537,
+    "newFetched": 538,
     "successUsers": 27,
     "failedUsers": 1
   },
@@ -355,6 +355,43 @@
         "displayName": "Akira",
         "content": "When you become rich. who is the first person you will spoil with your money?",
         "link": "https://x.com/Akir_a997/status/2042280328149303571"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2042635218423812098",
+      "username": "safaricheung",
+      "displayName": "safari",
+      "avatar": "https://nitter.net/pic/profile_images%2F1535513461358153728%2FqaYfZwAZ_bigger.jpg",
+      "content": "平时很少发技术 Blog 的内容，没想到随手写点自己的读后感还被人直接无授权，一个字都不改重新拿去发了一遍 …… \n\n原本还感觉奶昔之前发的挺多的内容还是挺实用的，不知道为什么就这点内容都不愿意自己读一遍，一定要拾人牙慧🤡",
+      "contentHtml": "平时很少发技术 Blog 的内容，没想到随手写点自己的读后感还被人直接无授权，一个字都不改重新拿去发了一遍 …… \n\n原本还感觉奶昔之前发的挺多的内容还是挺实用的，不知道为什么就这点内容都不愿意自己读一遍，一定要拾人牙慧🤡",
+      "publishedAt": "2026-04-10T16:06:00.000Z",
+      "link": "https://x.com/safaricheung/status/2042635218423812098",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFjlJJ1bIAAhBgx.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "quote": {
+        "username": "safaricheung",
+        "displayName": "safari",
+        "content": "谷歌之前在 Pixel 10 系列上使用 Quick Share 兼容了 AirDrop 双向互传文件，但当时很多人并没有搞清楚谷歌是如何破解苹果 AirDrop 协议的。\n\n现在谷歌直接自己发了一篇技术 blog，解释了其中使用的哪些小技巧以及未来的发展计划。\n\n整个技术栈使用 Rust 编写，从编译期就消除了内存破坏漏洞。同时，谷歌自己做了第三方渗透测试报告，确保这个漏洞不会被其他有心之人利用。\n\n但目前 Quick Share 与 AirDrop 互传目前只支持 AirDrop 的十分钟内对所有人开放模式，也就是 iPhone 用户在 iOS 16.2 之后被苹果\"降级\"过的那个临时开放窗口。仅联系人模式没有打通。\n\nDan Boneh （斯坦福密码学教授，业界最有公信力的安全学者之一）的结论是：\"鼓励 Google 和 Apple 在这方面更多合作\"。\n\n这算是把球踢回给苹果：现在如果苹果继续拒绝合作（比如不开放 Contacts Only 模式、或者用系统更新去阻断这个兼容层），那么\"破坏互操作性\"的责任就完全落在苹果头上了。Google 已经把自己塑造成那个\"愿意合作、技术上也准备好了\"的一方。\n\n这应该是谷歌第一次公开解析这个功能，以及如何通过逆向苹果技术栈来实现第一方功能；这在很大程度上说明了 Google 并不将其视为一种对苹果功能的侵害，反而将其视为一种拆除围墙的行为。用词也很有趣，推荐一读。",
+        "link": "https://x.com/safaricheung/status/2042562084446310541",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFijXxob0AASg-t.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -11827,27 +11864,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHEwmLoeaIAE5umx.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039042248289976437",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "两周没交易，感觉还不错。不马后炮",
-      "contentHtml": "两周没交易，感觉还不错。不马后炮",
-      "publishedAt": "2026-03-31T18:08:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2039042248289976437",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHEwiHrzXgAEeEod.jpg"
         }
       ],
       "stats": {
