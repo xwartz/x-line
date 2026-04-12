@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T11:02:04.035Z",
+  "lastUpdated": "2026-04-12T11:21:56.953Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 543,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 502,
+    "successUsers": 25,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2043287637939966422",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "好抓",
+      "contentHtml": "好抓",
+      "publishedAt": "2026-04-12T11:18:00.000Z",
+      "link": "https://x.com/hazenlee/status/2043287637939966422",
+      "quote": {
+        "username": "silverfang88",
+        "displayName": "子时",
+        "content": "万科王石疑似被带走调查",
+        "link": "https://x.com/silverfang88/status/2043286110714155089",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFs14FxbgAASakG.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2043282205842248000",
       "username": "ai_9684xtpa",
@@ -4795,47 +4822,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFbhQQAa8AQ5Udk.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2042065337299182028",
-      "username": "Sea_Bitcoin",
-      "displayName": "Sea",
-      "avatar": "https://nitter.net/pic/profile_images%2F1914322023565963264%2FkK4wIKSG_bigger.jpg",
-      "content": "在这本《币安人生》自传中, @cz_binance 提到了很多人物，包括家人、团队成员、行业领袖以及多国政要，我做了个分类和次数统计如下：\n\n1/ 核心人物与家人\n\n◦ 父亲：对 CZ 影响最深的人，没能见到最后一面是很大的遗憾，提及 65 次\n◦ @heyibinance：币安联合创始人、CZ 三个孩子的母亲，提及 56 次\n◦ 姐姐：提及 50 次\n◦ 母亲 (妈妈)：提及 33+13 = 46 次\n◦ Winnie：CZ 两个孩子的母亲，提及 2 次\n\n2/ 行业人物\n\n◦ @SBF_FTX：FTX 创始人，提及 24 次\n◦ @thedaoofwei：币安前 CFO，提及 24 次\n◦ @VitalikButerin：以太坊创始人，提及 20 次\n◦ @star_okx：OKX 创始人，提及 13 次\n◦ @elonmusk: 𝕏 背后的那个男人，提及 9 次\n◦ @LeonHuobi：火币创始人，提及 7 次\n◦ @ChandlerGuo：币圈古早 KOL，提及 7 次\n◦ @RayDalio：桥水基金创办人，提及 6 次\n◦ @bobbyclee：比特币中国的联合创始人，提及 6 次\n◦ 杨林科：比特币中国创始人，提及 6 次\n◦ @justinsuntron：波场创始人，提及 2 次\n\n3/ 币安早期团队\n\n◦ @Teddy_Lin：CZ 中学同学，后加入币安担任 CGO，提及 15 次\n◦ Heina：币安早期财务及后台负责人，提及 14 次。她那个砸电脑的丈夫出现了 4 次。\n◦ Roger：币安创始 CTO，提及 13 次\n◦ Allan：币安创始产品经理，提及 11 次\n◦ Sunny：币安项目经理及运营负责人，提及 10 次\n◦ Helen：币安慈善负责人，提及 9 次\n◦ Michael Santos：监狱顾问，对 CZ 狱中生活提供很大帮助，提及 7 次\n◦ James：币安早期工程师，提及 5 次\n◦ 张灵 @ellazhang516：现 YZi Labs 负责人，提及 5 次\n\n4/ 各国政要及监管官员\n\n◦ Gary Gensler：前美国证监会主席，提及 8 次\n◦ Nayib Bukele：萨尔瓦多总统，提及 4 次\n◦ 川普 (Donald Trump)：提及 4 次\n◦ Joseph Muscat：马耳他前总理，提及 4 次\n◦ David Burt：百慕大总理，提及 3 次\n◦ 吉格梅·凯萨尔·纳姆耶尔·旺楚克：不丹国王，提及 3 次\n◦ 马克宏 (Emmanuel Macron)：法国总统，提及 2 次",
-      "contentHtml": "在这本《币安人生》自传中, <a href=\"/cz_binance\" title=\"CZ 🔶 BNB\">@cz_binance</a> 提到了很多人物，包括家人、团队成员、行业领袖以及多国政要，我做了个分类和次数统计如下：\n\n1/ 核心人物与家人\n\n◦ 父亲：对 CZ 影响最深的人，没能见到最后一面是很大的遗憾，提及 65 次\n◦ <a href=\"/heyibinance\" title=\"Yi He\">@heyibinance</a>：币安联合创始人、CZ 三个孩子的母亲，提及 56 次\n◦ 姐姐：提及 50 次\n◦ 母亲 (妈妈)：提及 33+13 = 46 次\n◦ Winnie：CZ 两个孩子的母亲，提及 2 次\n\n2/ 行业人物\n\n◦ <a href=\"/SBF_FTX\" title=\"SBF\">@SBF_FTX</a>：FTX 创始人，提及 24 次\n◦ <a href=\"/thedaoofwei\" title=\"Wei\">@thedaoofwei</a>：币安前 CFO，提及 24 次\n◦ <a href=\"/VitalikButerin\" title=\"vitalik.eth\">@VitalikButerin</a>：以太坊创始人，提及 20 次\n◦ <a href=\"/star_okx\" title=\"Star_OKX\">@star_okx</a>：OKX 创始人，提及 13 次\n◦ <a href=\"/elonmusk\" title=\"Elon Musk\">@elonmusk</a>: 𝕏 背后的那个男人，提及 9 次\n◦ <a href=\"/LeonHuobi\" title=\"Leon Li\">@LeonHuobi</a>：火币创始人，提及 7 次\n◦ <a href=\"/ChandlerGuo\" title=\"ChandlerGuo 郭宏才 宝二爷\">@ChandlerGuo</a>：币圈古早 KOL，提及 7 次\n◦ <a href=\"/RayDalio\" title=\"Ray Dalio\">@RayDalio</a>：桥水基金创办人，提及 6 次\n◦ <a href=\"/bobbyclee\" title=\"Bobby Lee - Ballet: World's EASIEST Cold Storage!\">@bobbyclee</a>：比特币中国的联合创始人，提及 6 次\n◦ 杨林科：比特币中国创始人，提及 6 次\n◦ <a href=\"/justinsuntron\" title=\"H.E. Justin Sun 👨‍🚀 🌞\">@justinsuntron</a>：波场创始人，提及 2 次\n\n3/ 币安早期团队\n\n◦ <a href=\"/Teddy_Lin\" title=\"Ted Lin\">@Teddy_Lin</a>：CZ 中学同学，后加入币安担任 CGO，提及 15 次\n◦ Heina：币安早期财务及后台负责人，提及 14 次。她那个砸电脑的丈夫出现了 4 次。\n◦ Roger：币安创始 CTO，提及 13 次\n◦ Allan：币安创始产品经理，提及 11 次\n◦ Sunny：币安项目经理及运营负责人，提及 10 次\n◦ Helen：币安慈善负责人，提及 9 次\n◦ Michael Santos：监狱顾问，对 CZ 狱中生活提供很大帮助，提及 7 次\n◦ James：币安早期工程师，提及 5 次\n◦ 张灵 <a href=\"/ellazhang516\" title=\"Ella Zhang\">@ellazhang516</a>：现 YZi Labs 负责人，提及 5 次\n\n4/ 各国政要及监管官员\n\n◦ Gary Gensler：前美国证监会主席，提及 8 次\n◦ Nayib Bukele：萨尔瓦多总统，提及 4 次\n◦ 川普 (Donald Trump)：提及 4 次\n◦ Joseph Muscat：马耳他前总理，提及 4 次\n◦ David Burt：百慕大总理，提及 3 次\n◦ 吉格梅·凯萨尔·纳姆耶尔·旺楚克：不丹国王，提及 3 次\n◦ 马克宏 (Emmanuel Macron)：法国总统，提及 2 次",
-      "publishedAt": "2026-04-09T02:21:00.000Z",
-      "link": "https://x.com/Sea_Bitcoin/status/2042065337299182028",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFbfUWmaYAAf5up.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "quote": {
-        "username": "Sea_Bitcoin",
-        "displayName": "Sea",
-        "content": "今天读完了 @cz_binance 的自传，有几点感受\n\n1/ 家庭的托举很重要\n\n读前两章的时候，我很有共鸣。因为我 12 岁之前也是在农村，10 岁之前村里没有电灯和公路，晚上要点煤油灯，要砍柴、挑水。CZ 少年时期最大的幸运，是他有一个厉害的父亲：村里第一个大学生、恢复高考后去读硕士、进入大学当老师、然后去加拿大读博士，再把一家人接到加拿大生活。\n\n后来在 CZ 13 岁那年，花 7,000 加元买了一台 x286 电脑，这是他父亲整整 7 个月的收入。这种魄力，改变了 CZ 整个人生。\n\n不过有个细节不太明白，2021 年他父亲去世，CZ 说是收到「父亲伴侣」的消息，而不是母亲。\n\n2/ 厚积薄发的爆发力\n\n我们对币安创办后的迅速增长和行为方式比较熟悉，但经常忽略的是，在创办币安之前，CZ 已经有过 2 段创业经历、在钱包软件 Blockchain Info 和交易所 OKCoin 工作过，尤其是为 30 多家客户公司开发过交易所系统，以及过程中积累的初始团队成员。\n\n3/ 深入研究下重注\n\n从 2013 年 7 月接触到 Bitcoin，到 2014 年 1 月卖掉房子拿到房款后分批买入，过去了半年时间。第一次接触一个新东西，确实需要花更多时间研究。当时上海一套房款，对 CZ 来说也是下重注了。\n\n还有一些有意思的细节\n\n◦ 在 94 禁令的前一天，CZ 和一姐飞往东京，一姐让 CZ 拨掉手机上的 SIM 卡防止追踪，CZ 凌晨三点回办公室拆电脑硬盘\n\n◦红杉资本早期跟币安因为投资估值问题，打过官司。后来官司结了，红杉资本现在是 YZi Labs 的 LP。\n\n◦ 帕劳的特色美食是蝙蝠汤。\n\n◦ SBF 发给 CZ 的消息是「我们的关系已经差到连话都不说了吗？」，这特别像幽怨的前任。\n\n◦  CZ 已经拿到了阿联酋护照。\n\n◦面临司法部的罚款要求，律师建议 CZ「如果你多交点罚款，法官判刑时可能会对你轻点」，结果后来司法部在法庭上对 CZ 说「你交了这么多罚款，正说明你问题很大，该重判」。\n\n◦不丹从 2014 年就开始挖矿 BTC 了，比萨尔瓦多要早好几年。\n\n◦ CZ 飞往美国前，上飞机前几分钟还在跟司法部谈条件。\n\n◦ CZ 是美国监狱史上最有钱的人。\n\n◦ 这本书的初稿是用监狱特有的通讯系统写出来的。每次只能用 15 分钟，不超过 3000 字符。",
-        "link": "https://x.com/Sea_Bitcoin/status/2041867722850779338",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFYr3jqa8AMqnZz.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFYr3jkaYAAdwIG.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11463,39 +11449,6 @@
       }
     },
     {
-      "id": "2039854764201050352",
-      "username": "bh359",
-      "displayName": "bheau",
-      "avatar": "https://nitter.net/pic/profile_images%2F1795102821437546497%2FEu-TuLE3_bigger.jpg",
-      "content": "over a month of HLP pnl wiped out by a few linked addresses trading $XPL today\n\nprocess was:\n- deposit ~$1.3m across 5 wallets\n- twap long 93m XPL (~$10.6m, ~8x leverage)\n- withdraw ~$3.1m total (allowed bc hyperliquid lets you withdraw uPnL as long as you stay above maintenance margin)\n- get liquidated (some was sold into the book, majority was backstopped around $0.13 - unclear exactly how this worked, but it *seems* this went through into resting bids rather than having HLP take it on)\n- still, HLP lost over $400k from bad debt as the attacker accounts went negative at the backstop price. reminiscent of the POPCAT attack from last year\n- attacker netted ~$1.85m in profit\n\nusually HLP takes on and holds these liquidations longer. maybe they had some logic around not doing so given they also had to eat bad debt, and the book could support the liquidation. or maybe it's just the usual system. not sure\n\nanyways, this doesn't seem repeatable, kinda specific to XPL today where there were buyers on other exchanges (hacked account?) + thin spot liq. i assume if you tried this on another coin rn you'd just get liquidated after you finish twapping\n\n(images of HLP pnl, one attacker's backstop liqs, and one attacker's txs where he withdrew some USDC to profit before letting the rest of the position get liquidated)",
-      "contentHtml": "over a month of HLP pnl wiped out by a few linked addresses trading <a href=\"/search?f=tweets&q=%23XPL\">$XPL</a> today\n\nprocess was:\n- deposit ~$1.3m across 5 wallets\n- twap long 93m XPL (~$10.6m, ~8x leverage)\n- withdraw ~$3.1m total (allowed bc hyperliquid lets you withdraw uPnL as long as you stay above maintenance margin)\n- get liquidated (some was sold into the book, majority was backstopped around $0.13 - unclear exactly how this worked, but it *seems* this went through into resting bids rather than having HLP take it on)\n- still, HLP lost over $400k from bad debt as the attacker accounts went negative at the backstop price. reminiscent of the POPCAT attack from last year\n- attacker netted ~$1.85m in profit\n\nusually HLP takes on and holds these liquidations longer. maybe they had some logic around not doing so given they also had to eat bad debt, and the book could support the liquidation. or maybe it's just the usual system. not sure\n\nanyways, this doesn't seem repeatable, kinda specific to XPL today where there were buyers on other exchanges (hacked account?) + thin spot liq. i assume if you tried this on another coin rn you'd just get liquidated after you finish twapping\n\n(images of HLP pnl, one attacker's backstop liqs, and one attacker's txs where he withdrew some USDC to profit before letting the rest of the position get liquidated)",
-      "publishedAt": "2026-04-02T23:57:00.000Z",
-      "link": "https://x.com/bh359/status/2039854764201050352",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE7_NtDaIAAhuh7.png"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE7_N3qXIAAErIh.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE7_OXUWgAEDfNJ.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2039852485364400321",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -11988,6 +11941,21 @@
           }
         ]
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2039647031690662229",
+      "username": "0xSunNFT",
+      "displayName": "0xSun",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820705442735296512%2Fej9BX01I_bigger.png",
+      "content": "几乎每次出现STO这种妖币，我都会劝群友看看就好，别去碰。包括之前的RIVER、MMT、TRB等等，这种币本质上是信息不对等的博弈，庄家知道自己手里有多少筹码，知道合约OI有多少是自己的，有无数种方法玩弄对手盘，来实现利益最大化，可以控筹拉盘爆空，可以靠负费率磨死空军，可以建好空单砸现货断头台，也可以反反复复拉砸。\n\n结果每次最被津津乐道的，往往要么是有人底部埋伏进去吃了几倍，要么是有人顶部摸顶空快速获利。其实也很正常，币圈的用户本身就风险偏好很高、喜欢波动、喜欢财富故事。我也相信有人是可以通过合约和链上的各种数据，在面对庄家盘的时候，将胜率提升到高于一般散户的水平。\n\n但是归根结底，一场信息不对等的博弈，散户注定是-EV。体现在时间上，就是你可以对99次，但是只要1次错误加上扛单，结局就是归零。体现在资金面上，一个单机盘从始至终，获利的大概率是庄家加极小部分散户，买单的则是剩下的绝大部分人。\n\n当猫不想和老鼠玩的时候，老鼠没有任何机会，不要心甘情愿去做一只老鼠。",
+      "contentHtml": "几乎每次出现STO这种妖币，我都会劝群友看看就好，别去碰。包括之前的RIVER、MMT、TRB等等，这种币本质上是信息不对等的博弈，庄家知道自己手里有多少筹码，知道合约OI有多少是自己的，有无数种方法玩弄对手盘，来实现利益最大化，可以控筹拉盘爆空，可以靠负费率磨死空军，可以建好空单砸现货断头台，也可以反反复复拉砸。\n\n结果每次最被津津乐道的，往往要么是有人底部埋伏进去吃了几倍，要么是有人顶部摸顶空快速获利。其实也很正常，币圈的用户本身就风险偏好很高、喜欢波动、喜欢财富故事。我也相信有人是可以通过合约和链上的各种数据，在面对庄家盘的时候，将胜率提升到高于一般散户的水平。\n\n但是归根结底，一场信息不对等的博弈，散户注定是-EV。体现在时间上，就是你可以对99次，但是只要1次错误加上扛单，结局就是归零。体现在资金面上，一个单机盘从始至终，获利的大概率是庄家加极小部分散户，买单的则是剩下的绝大部分人。\n\n当猫不想和老鼠玩的时候，老鼠没有任何机会，不要心甘情愿去做一只老鼠。",
+      "publishedAt": "2026-04-02T10:12:00.000Z",
+      "link": "https://x.com/0xSunNFT/status/2039647031690662229",
       "stats": {
         "replies": 0,
         "retweets": 0,
