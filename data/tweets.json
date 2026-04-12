@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T01:44:02.380Z",
+  "lastUpdated": "2026-04-12T02:43:20.489Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,167 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 539,
+    "newFetched": 542,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2043150792916640184",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "15 连胜！麻吉这次不一样了…吗？🤨\n\n▶︎ 四月以来 15 次连胜累计获利 71,451 美元\n▶︎ 今天 1 次止损亏损 191,883 美元\n\n好在剩余的 $ETH 多单还浮盈近 45 万美元，老哥会选择止盈，还是「要么赢，要么被清算」呢",
+      "contentHtml": "15 连胜！麻吉这次不一样了…吗？🤨\n\n▶︎ 四月以来 15 次连胜累计获利 71,451 美元\n▶︎ 今天 1 次止损亏损 191,883 美元\n\n好在剩余的 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 多单还浮盈近 45 万美元，老哥会选择止盈，还是「要么赢，要么被清算」呢",
+      "publishedAt": "2026-04-12T02:14:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2043150792916640184",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFq6wFuaUAAvr-c.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "麻吉已累计为 Hyperliquid 贡献 194 万刀的手续费🫣\n\n封个 VVVIP 客户不过分吧\n\n不过，原来老哥亏了三千万刀还会关心自己的手续费支出吗…\n\n好奇自己的手续费，传送门指路 👉 tradingfees.wtf",
+        "link": "https://x.com/ai_9684xtpa/status/2039327263422869847",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHE0lPMvboAAt7ab.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043149129808011541",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "对于「严格遵守」止损点位 $73500\n\n老哥的解释是为了防止定点爆破，因此上上调了几百刀，结果还真快到了😂nitter.net/Jason60704294/status/2…",
+      "contentHtml": "对于「严格遵守」止损点位 $73500\n\n老哥的解释是为了防止定点爆破，因此上上调了几百刀，结果还真快到了😂<a href=\"https://nitter.net/Jason60704294/status/2043148498644930700\">nitter.net/Jason60704294/status/2…</a>",
+      "publishedAt": "2026-04-12T02:08:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2043149129808011541",
+      "quote": {
+        "username": "Jason60704294",
+        "displayName": "jasonleo",
+        "content": "单子还在，为了防止定点爆破，损位实际比73500上调了几百刀，但是也差点就到了，服了你这个老6",
+        "link": "https://x.com/Jason60704294/status/2043148498644930700",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFq4uwMbAAAPnGv.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043147012825342130",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "传送门 👉 nitter.net/Jason60704294/status/2…",
+      "contentHtml": "传送门 👉 <a href=\"https://nitter.net/Jason60704294/status/2043146525891826068\">nitter.net/Jason60704294/status/2…</a>",
+      "publishedAt": "2026-04-12T01:59:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2043147012825342130",
+      "quote": {
+        "username": "Jason60704294",
+        "displayName": "jasonleo",
+        "content": "单子还在，已盈利",
+        "link": "https://x.com/Jason60704294/status/2043146525891826068"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043146744092074039",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "止损了吗？\n\n“单子还在，已盈利”",
+      "contentHtml": "止损了吗？\n\n“单子还在，已盈利”",
+      "publishedAt": "2026-04-12T01:58:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2043146744092074039",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFq3FIkbwAA8DOk.png"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "穿透 $73500 止损位🥶「先定 10 个大目标」老哥 @Jason60704294 的空单这次止损了吗\n\n12 小时前他曾更新「损位 $73500 一直没到，到了会严格执行纪律」，而凌晨或受美伊谈判影响，BTC 短时涨至 $73790；若策略不变，则这 2567.49 枚 BTC（1.84 亿美元）已平仓并亏损 499.4 万美元\n\n剩余 38465.22 枚 ETH 的止损点位处于未知状态，需等待大哥更新",
+        "link": "https://x.com/ai_9684xtpa/status/2043117788022370367",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFqcsXwagAA-ozF.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043144169124958458",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "补充：啊这，瞬间跌回老哥的开仓均价 $71554.61 了\n\n@Jason60704294 如果抗住没平，又…又要回本了",
+      "contentHtml": "补充：啊这，瞬间跌回老哥的开仓均价 $71554.61 了\n\n<a href=\"/Jason60704294\" title=\"jasonleo\">@Jason60704294</a> 如果抗住没平，又…又要回本了",
+      "publishedAt": "2026-04-12T01:48:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2043144169124958458",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFq0yV6aEAAU8uQ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043143174454149147",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "只能说，这一笔交易运气极差…🤣🤣🤣",
+      "contentHtml": "只能说，这一笔交易运气极差…🤣🤣🤣",
+      "publishedAt": "2026-04-12T01:44:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2043143174454149147",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFqz4tLa4AA-D9p.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2043140582659199236",
       "username": "TJ_Research",
@@ -2059,7 +2215,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "从今天起对币圈刷新\n#牛回  第一天\n长风破浪会有时，直挂云帆济沧海\n鼻涕西 冲啊👻👻👻",
-        "link": "https://x.com/Bitfatty/status/2029076345263906978"
+        "link": "https://x.com/Bitfatty/status/2029076345263906978",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHCi6LYxawAI2i8q.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -3439,7 +3601,13 @@
         "username": "Bitfatty",
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "6万那天也平空了，但是不认为市场立马就会好起来\n\n喊building的人一定要死了，才会真正活过来\n我话放这里",
-        "link": "https://x.com/Bitfatty/status/2023453680502984855"
+        "link": "https://x.com/Bitfatty/status/2023453680502984855",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHBTAY_bX0AE4TPN.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -11751,158 +11919,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FG73k3SubcAAgxbu.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039522094808195492",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "#Crypto \n\n说白了，大部分项目方做协议，不就是为了最后一把掏吗😂",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n说白了，大部分项目方做协议，不就是为了最后一把掏吗😂",
-      "publishedAt": "2026-04-02T01:55:00.000Z",
-      "link": "https://x.com/taresky/status/2039522094808195492",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE3WiSBa4AEjmqO.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039520087422689579",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
-      "content": "「Stop Hunt 系列教程 & 實戰案例」總整理📚\n\n如下方引文所示，距我首次在 X 上科普「Stop Hunt」已正式滿一年。\n\n在過去一年中，我頻繁使用 Stop Hunt 的概念剖析市場，\n期間我多次說明原理，也不乏以實盤操作、歷史案例驗證其有效性。\n\n時隔一年，今天我打算整理過往所有相關的內容，供各位參考👇：\n\n//\n\n一、概念教學篇💡\n\n1️⃣ Stop Hunt 概念完整說明：\nnitter.net/market_beggar/status/1…\n\n2️⃣ Stop Hunt 概念重溫 & 模型簡圖：\nnitter.net/market_beggar/status/1…\n\n3️⃣ Stop Hunt 於山寨幣的運用：\nnitter.net/market_beggar/status/1…\n\n4️⃣ 神級交易員 RektProof 模型中譯 & 個人見解：\nnitter.net/market_beggar/status/1…\n\n5️⃣ Trendline Liquidity 概念詳解：\nnitter.net/market_beggar/status/2…\n\n//\n\n二、實盤案例篇⚔️\n\n1️⃣ 2025 年 8 月：透過 Liquidity 完美預測 ETH 的暴漲🔥\nnitter.net/market_beggar/status/1…\n\n2️⃣ 2025 年 4 月：BTC 分 K 波段實戰\nnitter.net/market_beggar/status/1…\n\n3️⃣ 2025 年 5 月：BTC 分 K 波段實戰（II）\nnitter.net/market_beggar/status/1…\n\n4️⃣ 2025 年 6 月：精準捕捉 BTC 階段性底部\n分析nitter.net/market_beggar/status/1…\n結果：nitter.net/market_beggar/status/1…\n\n5️⃣ 2025 年 1 月：精準捕捉 BTC 階段性底部\nnitter.net/market_beggar/status/1…\n\n6️⃣ 2026 年 1 月：97K 的 Stop Hunt\nnitter.net/market_beggar/status/2…\n\n7️⃣ 2026 年 2 月：「74K 必到」\nnitter.net/market_beggar/status/2…\n\n8️⃣ 鏈上分析結合 Stop Hunt 概念的覆盤\nnitter.net/market_beggar/status/1…\n\n9️⃣ ETH 流動性獵取應用：「狗莊」型態\nnitter.net/market_beggar/status/1…\n\n//\n\n結語\n\n本文是 Stop Hunt 概念相關帖子的整理，不知道有沒有漏掉，\n但相信對於想要鑽研 Stop Hunt 概念的朋友而言，\n上面的教程 & 分析帖應該是夠用了，希望對各位有幫助。\n\n以上就是今天的內容，希望對各位有幫助；\n如果在理解上有任何疑問，也歡迎隨時來下方評論區交流，\n或者可以透過我 X 主頁自介的鏈接加入公開交流群，\n老規矩：有問必答🫡\n\n感謝閱讀至此的你。",
-      "contentHtml": "「Stop Hunt 系列教程 & 實戰案例」總整理📚\n\n如下方引文所示，距我首次在 X 上科普「Stop Hunt」已正式滿一年。\n\n在過去一年中，我頻繁使用 Stop Hunt 的概念剖析市場，\n期間我多次說明原理，也不乏以實盤操作、歷史案例驗證其有效性。\n\n時隔一年，今天我打算整理過往所有相關的內容，供各位參考👇：\n\n//\n\n一、概念教學篇💡\n\n1️⃣ Stop Hunt 概念完整說明：\n<a href=\"https://nitter.net/market_beggar/status/1907261008059777200\">nitter.net/market_beggar/status/1…</a>\n\n2️⃣ Stop Hunt 概念重溫 & 模型簡圖：\n<a href=\"https://nitter.net/market_beggar/status/1935514374631997932\">nitter.net/market_beggar/status/1…</a>\n\n3️⃣ Stop Hunt 於山寨幣的運用：\n<a href=\"https://nitter.net/market_beggar/status/1914178993122840898\">nitter.net/market_beggar/status/1…</a>\n\n4️⃣ 神級交易員 RektProof 模型中譯 & 個人見解：\n<a href=\"https://nitter.net/market_beggar/status/1942398983831445608\">nitter.net/market_beggar/status/1…</a>\n\n5️⃣ Trendline Liquidity 概念詳解：\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n二、實盤案例篇⚔️\n\n1️⃣ 2025 年 8 月：透過 Liquidity 完美預測 ETH 的暴漲🔥\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\n2️⃣ 2025 年 4 月：BTC 分 K 波段實戰\n<a href=\"https://nitter.net/market_beggar/status/1913059999439581436\">nitter.net/market_beggar/status/1…</a>\n\n3️⃣ 2025 年 5 月：BTC 分 K 波段實戰（II）\n<a href=\"https://nitter.net/market_beggar/status/1919907923926692282\">nitter.net/market_beggar/status/1…</a>\n\n4️⃣ 2025 年 6 月：精準捕捉 BTC 階段性底部\n分析<a href=\"https://nitter.net/market_beggar/status/1936963774852014524\">nitter.net/market_beggar/status/1…</a>\n結果：<a href=\"https://nitter.net/market_beggar/status/1943127712870338711\">nitter.net/market_beggar/status/1…</a>\n\n5️⃣ 2025 年 1 月：精準捕捉 BTC 階段性底部\n<a href=\"https://nitter.net/market_beggar/status/1879624945069961629\">nitter.net/market_beggar/status/1…</a>\n\n6️⃣ 2026 年 1 月：97K 的 Stop Hunt\n<a href=\"https://nitter.net/market_beggar/status/2013790709250396453\">nitter.net/market_beggar/status/2…</a>\n\n7️⃣ 2026 年 2 月：「74K 必到」\n<a href=\"https://nitter.net/market_beggar/status/2018137806816846181\">nitter.net/market_beggar/status/2…</a>\n\n8️⃣ 鏈上分析結合 Stop Hunt 概念的覆盤\n<a href=\"https://nitter.net/market_beggar/status/1879746708185514341\">nitter.net/market_beggar/status/1…</a>\n\n9️⃣ ETH 流動性獵取應用：「狗莊」型態\n<a href=\"https://nitter.net/market_beggar/status/1955443038383378858\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n結語\n\n本文是 Stop Hunt 概念相關帖子的整理，不知道有沒有漏掉，\n但相信對於想要鑽研 Stop Hunt 概念的朋友而言，\n上面的教程 & 分析帖應該是夠用了，希望對各位有幫助。\n\n以上就是今天的內容，希望對各位有幫助；\n如果在理解上有任何疑問，也歡迎隨時來下方評論區交流，\n或者可以透過我 X 主頁自介的鏈接加入公開交流群，\n老規矩：有問必答🫡\n\n感謝閱讀至此的你。",
-      "publishedAt": "2026-04-02T01:47:00.000Z",
-      "link": "https://x.com/market_beggar/status/2039520087422689579",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE3UtOrbkAEgvOd.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "我決不做突破單的原因：莊家獵取流動性的陷阱🪓\n\nKey Points：\n🔺 $BTC 沒有莊家，但短期價格走勢存在被操縱的可能性\n🔺 屠殺散戶的利刃：獵取流動性（Stop Hunt）的手法介紹與案例\n🔺 Stop Hunt 的判斷：並非每次 Stop Hunt 都是反轉\n🔺 Stop Hunt 是一個概念，若要形成系統則須其他條件\n\n//\n\n🟡 BTC 沒有莊家，但短期價格走勢存在被操縱的可能性\n\n就通俗的定義而言：\n「莊家」一詞指的是「對單一標的存在高度控盤的能力」。\n\nBTC 市值過大、流動性相對較佳，並且籌碼足夠分散，\n因此 BTC 市場中不存在「能夠控盤的單一群體」‼️\n\n然而，有趣的是，在流動性枯竭的狀況下，\n即便市值大如 BTC，短期的價格走勢仍存在被操縱的可能性⚠️\n\n雖然這些「操縱方」無法完全控制 BTC 的走勢，\n但同時卻也能夠在小級別的 K 線圖上「製造陷阱」，\n進而達成自己的目的。\n\n本文將針對這種狀況，進行詳細的拆解🔬\n\n//\n\n🟡 屠殺散戶的利刃：獵取流動性（Stop Hunt）的手法介紹\n\n如果你相信「市場短期走勢可能被操縱」，\n那你就不得不理解「何謂流動性獵取（Stop Hunt）」‼️\n\n📝 Stop Hunt，顧名思義：獵取止損。\n\n原理如下：\n1️⃣ 大資金（例如機構）建倉，會導致價格大幅移動\n2️⃣ 大資金不是笨蛋，他們會想辦法降低建倉時的「損耗」\n3️⃣ 透過 Stop Hunt，讓散戶提供流動性，進而降低損耗\n\n現在問題來了：如何讓散戶提供流動性❓\n\n散戶的行為存在高度「無序性」，但在特定時間點，\n散戶的操作很可能形成高度的一致性，\n而這種時間點，就為 Stop Hunt 的操作提供了足夠的空間‼️\n\n舉例來說：\n當一個「非常明顯的『支撐區間』」被跌破之後，\n市場上會出現兩種「一致性極高」的訂單，分別是：\n1️⃣ 在支撐區間之上作多的止損訂單（sell）\n2️⃣ 跌破支撐區間後的「突破交易者」的訂單（sell）\n\n各位有發現嗎？兩種訂單都是「sell」，\n這對於「想要建倉多單」的大資金，就是能夠降低損耗的流動性‼️\n\n口說無憑，我們來看看實際案例。\n\n//\n\n🟡 獵取流動性（Stop Hunt）的實盤案例\n\n我簡單找了 4 個標的，分別是 BTC、ETH、SOL、LINK，\n其他標的也可以發現很多蛛絲馬跡，有興趣的讀者可以深入研究。\n\n首先是 BTC，這是去年 ETF 通過前後時的走勢。\n\n可以看到：\n1️⃣ 四個黃點🟨的位置非常接近，形成明顯的「支撐區間」\n2️⃣ 隨後價格跌破，引入大量突破交易者、以及多頭的止損訂單\n3️⃣ 這些訂單成為了「大資金的流動性」，最後引發新一輪暴漲\n\n其他「紅色方框」標記的位置，也是 Stop Hunt 的表現方式之一。\n\n因為除了「支撐、阻力區間」以外，\n「前高、前低」也是散戶常常放置止損的位置、\n同時也是突破交易者的錨定位置之一❗️\n\n-\n\n再來是 ETH。\n\n我標記了 5 個紅色方框，每一個都是非常經典的 Stop Hunt。\n\n-\n\n接著看看 SOL。\n\n圖片左側的 Pattern 幾乎與 BTC 的跑法相同，\n市場操縱的痕跡顯露無遺。\n\n-\n\n最後是 Link。\n\n如圖，處處都是 Stop Hunt、處處都是流動性絞殺。\n\n//\n\n🟡 概念澄清：Stop Hunt 的分辨 & 系統的建構\n\n很多人在理解完 Stop Hunt 之後，會開始對盤面有「被迫害妄想症」👾\n\n實際上，不是每次突破、跌破特定位置，都是 Stop Hunt。\n\n在實盤的判斷上：\n❌ 不是每次都去猜「資金會在這裡做 Stop Hunt」\n✅ 而是需要盯盤，觀察大資金是否有入場操縱的痕跡\n\n而這裡提到的「痕跡」，在觀察上，\n之前教過的 taker 分析方式就派上用場了‼️\n\n如果你還不知道 Taker 是什麼，可以先行閱讀下方的引文，\n相信會讓你對市場有所改觀👀\n\n最後，Stop Hunt 只是一種市場操縱的「形式」，\n而不是一個「交易系統」。\n很多初新者在知道 Stop Hunt 後，就會不斷的去盤面「賭」，\n但這種作法並不可取，有時候反而會「懂愈多、虧愈多」📉\n\n再次強調，這種「賭他會 Stop Hunt」的作法並不可取‼️\n\n要形成一個交易系統，必然需要更多的條件來配合，\n例如搭配 Taker 的分析方式、搭配其他數據、指標 ... 等，\n畢竟金融市場是帶血的，如果只有單一分析方式，\n是不可能在市場上穩定盈利的。\n\n以上就是今天的分享，希望對各位有幫助🫡\n\n//\n\n【工商時間】\n\n我跟 #OKX 合作啦🎉\n\n個人一直以來都會選擇使用排名靠前的大所，\n主要原因無非就是「安全性」、「客服管道」、「交易深度」三個考量。\n\n有一說一，OKX 在這三個方面都做得相當不錯，在此推薦給各位讀者！\n\n如果你也想加入，可以直接點擊我 X 主頁的連結，\n可享有全網最高的 20% 的手續費折扣💵",
-        "link": "https://x.com/market_beggar/status/1907261008059777200",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FGnfwgoqbcAA-gSm.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FGnfxUyqaAAAM-w-.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039520108805238983",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "2026 年的第三起大额黑客攻击事件，一次比一次规模大，哎\n\n1️⃣Venus：因 THE 价格操纵产生 215 万美元坏账\n2️⃣Resolve：超额铸造 8000 万枚 USR（部分已冻结）\n3️⃣Drift：被盗超 2.85 亿美元资产\n\n目前黑客已将被盗资产买为 129,065.54 枚 $ETH ，存放在 4 个新地址中\n\n0x0FE3b6908318B1F630daa5B31B49a15fC5F6B674\n0xD3FEEd5DA83D8e8c449d6CB96ff1eb06ED1cF6C7\n0xAa843eD65C1f061F111B5289169731351c5e57C1\n0xbDdAE987FEe930910fCC5aa403D5688fB440561B\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "2026 年的第三起大额黑客攻击事件，一次比一次规模大，哎\n\n1️⃣Venus：因 THE 价格操纵产生 215 万美元坏账\n2️⃣Resolve：超额铸造 8000 万枚 USR（部分已冻结）\n3️⃣Drift：被盗超 2.85 亿美元资产\n\n目前黑客已将被盗资产买为 129,065.54 枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> ，存放在 4 个新地址中\n\n0x0FE3b6908318B1F630daa5B31B49a15fC5F6B674\n0xD3FEEd5DA83D8e8c449d6CB96ff1eb06ED1cF6C7\n0xAa843eD65C1f061F111B5289169731351c5e57C1\n0xbDdAE987FEe930910fCC5aa403D5688fB440561B\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-04-02T01:47:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2039520108805238983",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE3UtMXbcAAkUR9.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039515149523153184",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "骚话讲完，只留多头 / 空头在风中凌乱🥶\n\n懂王：赢了，赢了，赢了\nTrader：Liquidated, Liquidated, Liquidated\n\n警告频道指路 👉 t.me/hyperdashflows",
-      "contentHtml": "骚话讲完，只留多头 / 空头在风中凌乱🥶\n\n懂王：赢了，赢了，赢了\nTrader：Liquidated, Liquidated, Liquidated\n\n警告频道指路 👉 <a href=\"https://t.me/hyperdashflows\">t.me/hyperdashflows</a>",
-      "publishedAt": "2026-04-02T01:27:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2039515149523153184",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE3PmzJa4AEIjgY.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039514836522955032",
-      "username": "__Inty__",
-      "displayName": "Inty News",
-      "avatar": "https://nitter.net/pic/profile_images%2F1683004187951665153%2F9u75ptcg_bigger.jpg",
-      "content": "刚刚！川普向全体国民发表伊朗战争讲话——全程中文翻译",
-      "contentHtml": "刚刚！川普向全体国民发表伊朗战争讲话——全程中文翻译",
-      "publishedAt": "2026-04-02T01:26:00.000Z",
-      "link": "https://x.com/__Inty__/status/2039514836522955032",
-      "retweet": {
-        "username": "HaywarZhu",
-        "displayName": "海老师 | Haywar"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2039512633968304335",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "「成本低至 $203.22 的 2016 年 $ETH 远古巨鲸」疑似抛售价值 1072 万美元的 $ETH 和 $AAVE ，持有以太 10 年后近乎清仓🤔\n\n该巨鲸沉睡一个月后于昨日苏醒，随后高频整理地址并将 3915 枚 ETH 和 24000 枚 AAVE 充值进了 #Kraken，疑似卖出；此次充值后链上仅剩最后 52 枚 ETH\n\n钱包地址 0x95Bf4d908f60047D689E5fA3c080045b0C3A90e7\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "「成本低至 $203.22 的 2016 年 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 远古巨鲸」疑似抛售价值 1072 万美元的 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 和 <a href=\"/search?f=tweets&q=%23AAVE\">$AAVE</a> ，持有以太 10 年后近乎清仓🤔\n\n该巨鲸沉睡一个月后于昨日苏醒，随后高频整理地址并将 3915 枚 ETH 和 24000 枚 AAVE 充值进了 <a href=\"/search?f=tweets&q=%23Kraken\">#Kraken</a>，疑似卖出；此次充值后链上仅剩最后 52 枚 ETH\n\n钱包地址 0x95Bf4d908f60047D689E5fA3c080045b0C3A90e7\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-04-02T01:17:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2039512633968304335",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE3N4rgbkAAYOKT.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "「成本低至 $203.22 的 2016 年 $ETH 远古巨鲸」近一个月已疑似通过 Wintermute 抛售 7000 ETH，转移均价 $3024，若卖出将获利 1974.5 万美元🐋\n\n最近一次疑似抛售为 1 小时前，向 Wintermute 充值 1000 枚 ETH（价值 301 万美元）；目前该巨鲸仍持有 26,992.67 ETH，总价值约 8099 万美元\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-        "link": "https://x.com/ai_9684xtpa/status/1994963626453778529",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG6-Izq1aAAETrt0.jpg"
           }
         ]
       },
