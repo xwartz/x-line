@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T10:35:49.978Z",
+  "lastUpdated": "2026-04-13T11:12:03.977Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,98 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 540,
+    "newFetched": 544,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2043646861786181873",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "上周还在热议“做市商操纵市场风控措施”，平台风控与否，取决于：\n\n自己参与了对赌，自己的做市商是不是打不过庄家（亏麻了）",
+      "contentHtml": "上周还在热议“做市商操纵市场风控措施”，平台风控与否，取决于：\n\n自己参与了对赌，自己的做市商是不是打不过庄家（亏麻了）",
+      "publishedAt": "2026-04-13T11:05:00.000Z",
+      "link": "https://x.com/follow_clues/status/2043646861786181873",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043645242109534433",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "更正 是DPI",
+      "contentHtml": "更正 是DPI",
+      "publishedAt": "2026-04-13T10:59:00.000Z",
+      "link": "https://x.com/hazenlee/status/2043645242109534433",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHFx8gp4boAAkZDL.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043645107581391146",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "不对是KPI",
+      "contentHtml": "不对是KPI",
+      "publishedAt": "2026-04-13T10:58:00.000Z",
+      "link": "https://x.com/hazenlee/status/2043645107581391146",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043645071481037149",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "打错了 是PPI",
+      "contentHtml": "打错了 是PPI",
+      "publishedAt": "2026-04-13T10:58:00.000Z",
+      "link": "https://x.com/hazenlee/status/2043645071481037149",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043645002279195128",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "亲测真的\n不过撸管也有手臂流和手腕流 \n和电竞fps选手一样\n我很苦恼\n我开始是手臂流 \n后来调高了CPI\n用手腕流就不酸了",
+      "contentHtml": "亲测真的\n不过撸管也有手臂流和手腕流 \n和电竞fps选手一样\n我很苦恼\n我开始是手臂流 \n后来调高了CPI\n用手腕流就不酸了",
+      "publishedAt": "2026-04-13T10:58:00.000Z",
+      "link": "https://x.com/hazenlee/status/2043645002279195128",
+      "quote": {
+        "username": "blueicesamaOwO",
+        "displayName": "蓝冰冰冰蓝蓝（二代目）",
+        "content": "几把如果比较大的话\n🦌的时候因为行程比较长所以胳膊会酸…",
+        "link": "https://x.com/blueicesamaOwO/status/2043607033967268315"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2043632126399287429",
       "username": "ai_9684xtpa",
@@ -10198,7 +10285,7 @@
       "quote": {
         "username": "daidaibtc",
         "displayName": "带带带比特",
-        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能",
+        "content": "一个东西。从明星晒，到富人晒，再到没什么钱的也要咬着牙买来攀比晒。那就大概率在慢慢流失潮流单品最稀缺的装B属性，也就大概率是在进入人声鼎沸的最后加速阶段。FOMO见顶标志包括但不限于把他Token金融化，不再实物交割，直接数字化交易。出现大量的学生群体炒作，价格快速翻倍案例？类似的例子可能是前些年的限量版球鞋？从高溢价到小溢价再到平价，破发。万物都是周期，感觉Q3 Q4开始沽空泡泡玛特毫无问题",
         "link": "https://x.com/daidaibtc/status/1927952630384578808"
       },
       "stats": {
@@ -11925,141 +12012,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFBQg5MaQAA20Uy.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040213054584172976",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "当年看过这段，印象深刻。\n\n太好了。\n\n不是这个世界好，而是文字好，认知好。\n\n真正理解这个世界的人更好了，这个世界就随它烂去吧。",
-      "contentHtml": "当年看过这段，印象深刻。\n\n太好了。\n\n不是这个世界好，而是文字好，认知好。\n\n真正理解这个世界的人更好了，这个世界就随它烂去吧。",
-      "publishedAt": "2026-04-03T23:41:00.000Z",
-      "link": "https://x.com/taresky/status/2040213054584172976",
-      "quote": {
-        "username": "Steven15911051",
-        "displayName": "Steven",
-        "content": "老资历回顾之中国开源与中国开源用户，，，10 年过去了这个世界真的变好了吗？",
-        "link": "https://x.com/Steven15911051/status/2039725064061685903",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHE6PIuybgAA9uC-.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040175318174945410",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
-      "content": "$BTC\n\nMarket structure remains largely unchanged. \n\nBTC is currently trading below the monthly open, and as long as it stays below this level, it keeps the downside target at 64.9K in play.\n\nGiven that we’re still early in the month, both 69.2K and 64.9K are highly probable targets that could be swept. A confirmed break and hold above the monthly high at 69.2K would shift momentum, opening the path toward 71.6K, which marks the upper range extension.\n\nUntil that happens, the structure leans more bearish than bullish, with 64.9K remaining the primary target while price remains below the monthly open.\n\nIf that level fails, the next key area of interest sits around 62–63K, which would be my ideal sweep zone.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nMarket structure remains largely unchanged. \n\nBTC is currently trading below the monthly open, and as long as it stays below this level, it keeps the downside target at 64.9K in play.\n\nGiven that we’re still early in the month, both 69.2K and 64.9K are highly probable targets that could be swept. A confirmed break and hold above the monthly high at 69.2K would shift momentum, opening the path toward 71.6K, which marks the upper range extension.\n\nUntil that happens, the structure leans more bearish than bullish, with 64.9K remaining the primary target while price remains below the monthly open.\n\nIf that level fails, the next key area of interest sits around 62–63K, which would be my ideal sweep zone.",
-      "publishedAt": "2026-04-03T21:11:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2040175318174945410",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFAlkxpaAAAYEkh.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "Monthly closed for $BTC\n\nHere’s what I anticipate:\n\nAs I’ve mentioned before, at the start of the month, we often see a quick move up or down to establish the first part of the “monthly range” pivot.\n\nRight now, as long as BTC holds above the monthly wick low (64.9K), we’re likely to see a push higher to hunt liquidity near the previous wick (70-71K). If we fail to hold the monthly wick low, we could see a move down to 62–63K, which aligns with my previous range bound fractal and could act as a bounce point.\n\nOverall, we’ve closed 5 months red, and this month ended in green with a long wick, typically an area where liquidity is built. From here, we could see one of two scenarios:\n\n1. Hunt the top of the wick at the start of the month, then push down for the remainder of the month.\n\n2. Hunt the bottom of the range (below 64K), then push upwards through April to fill liquidity on the wick.\n\nBoth scenarios are highly plausible. When I’m looking for triggers, I usually wait for my POIs to be tested rather than trying to guess the most likely outcome.",
-        "link": "https://x.com/KillaXBT/status/2039287402578006049",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHE0Ao2Xa4AAGmwL.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040158307797913810",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "黄毛啥时候受过这委屈？\n不在沉默中灭亡就在沉默中爆发！\n黄毛：“我要发疯！都得发懵！”",
-      "contentHtml": "黄毛啥时候受过这委屈？\n不在沉默中灭亡就在沉默中爆发！\n黄毛：“我要发疯！都得发懵！”",
-      "publishedAt": "2026-04-03T20:03:00.000Z",
-      "link": "https://x.com/hazenlee/status/2040158307797913810",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFAZKj4agAAjrLa.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040121509499293720",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "arc出的激励活动，这个项目做一些精品号就可以了。\n\n后续不管是发币还是打新还是分配存款额度这种换汤不换药的玩法都有优先权。\n\n之前一直都在蹲存款活动，存款活动没蹲到，只能撸撸社交任务了。arc的估值低不了。等级越高越好。到处都是教程，就不细说了。目前无非就是每天发帖活跃之类的",
-      "contentHtml": "arc出的激励活动，这个项目做一些精品号就可以了。\n\n后续不管是发币还是打新还是分配存款额度这种换汤不换药的玩法都有优先权。\n\n之前一直都在蹲存款活动，存款活动没蹲到，只能撸撸社交任务了。arc的估值低不了。等级越高越好。到处都是教程，就不细说了。目前无非就是每天发帖活跃之类的",
-      "publishedAt": "2026-04-03T17:37:00.000Z",
-      "link": "https://x.com/0xleng1/status/2040121509499293720",
-      "quote": {
-        "username": "arc",
-        "displayName": "Arc",
-        "content": "Arc House is live.\n\nNow we’re launching Architects: the Arc community program built to recognize the people contributing, showing up, and helping shape the ecosystem.\n\nJoin us live on April 2 at 1 PM ET for a walkthrough of:\n→ Arc House\n→ How Architects works\n→ Points, tiers, benefits, and roles\n→ How to get started\n\nIf you want a clearer path to participate and grow with Arc, start here.\n\ncommunity.arc.network/public…",
-        "link": "https://x.com/arc/status/2039387319166197953"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040111903788199986",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
-      "content": "$BTC\n\nThursday once again turned out to be the worst performing day.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nThursday once again turned out to be the worst performing day.",
-      "publishedAt": "2026-04-03T16:59:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2040111903788199986",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHE_uyyjacAAQ-MJ.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "I remember mentioning this last week.\n\nMonday & Wednesday tend to be the best performing days of the week for $BTC. \n\nMonday saw a pump this week, with a 2% rejection forming Mondays high.\n\nNow it’s Wednesday, the strongest day based on 1Y data.\n\nThursday… the worst. IKYK",
-        "link": "https://x.com/KillaXBT/status/2039315648795263319",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHE0aBSlboAAR3kf.png"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
