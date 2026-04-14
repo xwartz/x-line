@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T11:39:56.794Z",
+  "lastUpdated": "2026-04-14T12:07:48.639Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 541,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 522,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2044017993223663750",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "unique treatment to a core group of loyal customers with **super high switch cost** & **super high LTV** > this is the PB (in finance) & luxury brands' (in consumer) VIC model, and CEX's VIP tiering model, and in the domain where power users contribute to 80% of the rev",
+      "contentHtml": "unique treatment to a core group of loyal customers with **super high switch cost** &amp; **super high LTV** &gt; this is the PB (in finance) &amp; luxury brands' (in consumer) VIC model, and CEX's VIP tiering model, and in the domain where power users contribute to 80% of the rev",
+      "publishedAt": "2026-04-14T11:40:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2044017993223663750",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2044014222284366053",
       "username": "DoveyWan",
@@ -6264,31 +6279,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHED95gabkAAfIlc.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2042423713019412941",
-      "username": "Fried_rice",
-      "displayName": "Chaofan Shou",
-      "avatar": "https://nitter.net/pic/profile_images%2F1959105085117800453%2FzJZUjk95_bigger.jpg",
-      "content": "26 LLM routers are secretly injecting malicious tool calls and stealing creds. One drained our client $500k wallet.\n\nWe also managed to poison routers to forward traffic to us. Within several hours, we can directly take over ~400 hosts. \n\nCheck our paper: arxiv.org/abs/2604.08407",
-      "contentHtml": "26 LLM routers are secretly injecting malicious tool calls and stealing creds. One drained our client $500k wallet.\n\nWe also managed to poison routers to forward traffic to us. Within several hours, we can directly take over ~400 hosts. \n\nCheck our paper: <a href=\"https://arxiv.org/abs/2604.08407\">arxiv.org/abs/2604.08407</a>",
-      "publishedAt": "2026-04-10T02:05:00.000Z",
-      "link": "https://x.com/Fried_rice/status/2042423713019412941",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFglir2bQAA0zmC.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
       },
       "stats": {
         "replies": 0,
