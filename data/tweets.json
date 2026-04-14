@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T00:33:23.546Z",
+  "lastUpdated": "2026-04-14T01:13:12.816Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,42 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 543,
+    "newFetched": 542,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2043858318901317762",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "🤨🙄🤦🤷",
+      "contentHtml": "🤨🙄🤦🤷",
+      "publishedAt": "2026-04-14T01:06:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2043858318901317762",
+      "quote": {
+        "username": "BRICSinfo",
+        "displayName": "BRICS News",
+        "content": "JUST IN: 🇸🇦🇺🇸 Saudi Arabia urges US to end its blockade of the Strait of Hormuz and negotiate with Iran.",
+        "link": "https://x.com/BRICSinfo/status/2043857887248753144",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHF096mDXkAI_oG9.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHF096l6WkAAyrM4.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2043846030748459184",
       "username": "ai_9684xtpa",
@@ -3625,39 +3656,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFp09IDakAI-pPr.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043063622046220410",
-      "username": "BRICSinfo",
-      "displayName": "BRICS News",
-      "avatar": "https://nitter.net/pic/profile_images%2F1926359090973818880%2FFp80oxwf_bigger.jpg",
-      "content": "JUST IN: Strait of Hormuz remains a major obstacle in US-Iran talks, with the US demanding immediate reopening and Iran insisting on a final peace deal first.",
-      "contentHtml": "JUST IN: Strait of Hormuz remains a major obstacle in US-Iran talks, with the US demanding immediate reopening and Iran insisting on a final peace deal first.",
-      "publishedAt": "2026-04-11T20:28:00.000Z",
-      "link": "https://x.com/BRICSinfo/status/2043063622046220410",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFprh4VbsAAzxJA.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFprh3nWMAA9Ym3.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFprh3tW8AEjqoM.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
