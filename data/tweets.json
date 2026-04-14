@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T03:11:56.363Z",
+  "lastUpdated": "2026-04-14T04:19:38.199Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,113 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 542,
+    "newFetched": 543,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2043898332641157519",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "4月2日SEMIANALYSIS的文章，我视频也聊过，算力的紧缺，文中直接聊到了利好NEOCLOUD。可惜那时候多数人都在关注战争的进展🥲",
+      "contentHtml": "4月2日SEMIANALYSIS的文章，我视频也聊过，算力的紧缺，文中直接聊到了利好NEOCLOUD。可惜那时候多数人都在关注战争的进展🥲",
+      "publishedAt": "2026-04-14T03:45:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2043898332641157519",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHF1iPi1asAM4EuQ.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHF1ilIdXwAAecp5.png"
+        }
+      ],
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "最近很多人在抱怨大模型变傻了。如果有关注H100的租赁价格，应该不会感到意外。从CLAUDE CODE落地，到OPENCLAW现象级爆发，一切都能串起来。\n大模型变傻了因为LLM放在推理这里的单位算力减少了，需求太大，所以所有人的体验下降，模型降智。再思考下去就是算力的供给（数据中心上线）跟不上训练+推理的需求。\n从云厂的角度看，他们长期要降低推理的价格，这样才能有更多人用，覆盖面更广，使用场景更多。但现在成本相对比较高的情况下，还是出现了算力不够用的情况，说明推理的需求太强了。DARIO两个月前接受过采访，他说理论上他们会有一个预设的训练和推理算力的分配比例，比如50/50。而最终训练能分到多少，取决于推理有多少需求。如果推理需求太高，营收太高，那训练分到的算力自然就少，但同时公司就赚钱了。公司会赚钱，因为低估了落地的需求。",
+        "link": "https://x.com/TJ_Research/status/2043895086572863809"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043895087952748651",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "59分钟开始\npiped.video/watch?v=n1E9IZfv…",
+      "contentHtml": "59分钟开始\n<a href=\"https://piped.video/watch?v=n1E9IZfvGMA\">piped.video/watch?v=n1E9IZfv…</a>",
+      "publishedAt": "2026-04-14T03:32:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2043895087952748651",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043895086572863809",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "最近很多人在抱怨大模型变傻了。如果有关注H100的租赁价格，应该不会感到意外。从CLAUDE CODE落地，到OPENCLAW现象级爆发，一切都能串起来。\n大模型变傻了因为LLM放在推理这里的单位算力减少了，需求太大，所以所有人的体验下降，模型降智。再思考下去就是算力的供给（数据中心上线）跟不上训练+推理的需求。\n从云厂的角度看，他们长期要降低推理的价格，这样才能有更多人用，覆盖面更广，使用场景更多。但现在成本相对比较高的情况下，还是出现了算力不够用的情况，说明推理的需求太强了。DARIO两个月前接受过采访，他说理论上他们会有一个预设的训练和推理算力的分配比例，比如50/50。而最终训练能分到多少，取决于推理有多少需求。如果推理需求太高，营收太高，那训练分到的算力自然就少，但同时公司就赚钱了。公司会赚钱，因为低估了落地的需求。",
+      "contentHtml": "最近很多人在抱怨大模型变傻了。如果有关注H100的租赁价格，应该不会感到意外。从CLAUDE CODE落地，到OPENCLAW现象级爆发，一切都能串起来。\n大模型变傻了因为LLM放在推理这里的单位算力减少了，需求太大，所以所有人的体验下降，模型降智。再思考下去就是算力的供给（数据中心上线）跟不上训练+推理的需求。\n从云厂的角度看，他们长期要降低推理的价格，这样才能有更多人用，覆盖面更广，使用场景更多。但现在成本相对比较高的情况下，还是出现了算力不够用的情况，说明推理的需求太强了。DARIO两个月前接受过采访，他说理论上他们会有一个预设的训练和推理算力的分配比例，比如50/50。而最终训练能分到多少，取决于推理有多少需求。如果推理需求太高，营收太高，那训练分到的算力自然就少，但同时公司就赚钱了。公司会赚钱，因为低估了落地的需求。",
+      "publishedAt": "2026-04-14T03:32:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2043895086572863809",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2043892860186177694",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "现在回看，4/12的止损是不是很有必要，当时是浮亏 -8.6%，如果不损，现在就要亏-14.8%。\n\n当亏损变多的时候，人的正常心理又会开始纠结了：是不是反弹快要见顶？要不要再扛一下？\n\n然后就有可能-20%，-30%......直到彻底失控，最终就是爆仓。这种情绪交易在来时的路上看的太多太多。\n\n或许你会说，7/13不是回调到70600了吗，可以在那里先止盈，再反手开多啊。\n\n我告诉你：几乎不可能！\n\n如果你在73500的时候不损，侥幸取胜后，那么70600的时候大概率一样不会止盈，因为贪婪会让你对侥幸产生依赖。\n\n我们都不是圣人！\n\n但交易却偏偏就要和人性对抗，这才是最难的地方。我不否认有个别天才交易员，天生就具备这种属性，但大多数交易者都不是天才，甚至穷极一生，也无法领悟。\n\n所以，就更应该从每一次失败的交易中总结教训，否则这“打”就白挨了，而且下次可能被打得更惨。",
+      "contentHtml": "现在回看，4/12的止损是不是很有必要，当时是浮亏 -8.6%，如果不损，现在就要亏-14.8%。\n\n当亏损变多的时候，人的正常心理又会开始纠结了：是不是反弹快要见顶？要不要再扛一下？\n\n然后就有可能-20%，-30%......直到彻底失控，最终就是爆仓。这种情绪交易在来时的路上看的太多太多。\n\n或许你会说，7/13不是回调到70600了吗，可以在那里先止盈，再反手开多啊。\n\n我告诉你：几乎不可能！\n\n如果你在73500的时候不损，侥幸取胜后，那么70600的时候大概率一样不会止盈，因为贪婪会让你对侥幸产生依赖。\n\n我们都不是圣人！\n\n但交易却偏偏就要和人性对抗，这才是最难的地方。我不否认有个别天才交易员，天生就具备这种属性，但大多数交易者都不是天才，甚至穷极一生，也无法领悟。\n\n所以，就更应该从每一次失败的交易中总结教训，否则这“打”就白挨了，而且下次可能被打得更惨。",
+      "publishedAt": "2026-04-14T03:23:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2043892860186177694",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHF1Y7c5asAEXSsE.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHF1ZHooacAA1g9n.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "说实话，这在我的技术指标上是极其罕见的！\n\n4小时级别连续出现3次超买信号（通常1-2次就要回调），叠加上升势能持续的顶背离，但价格却没下来的情况。至少从今年初到现在，是头一次见到（见图1）。\n\n这让之前首次背离+超买信号在$71,500开的空单显得有些早了，但交易的不确定性就是对特殊情况无法提前预期。虽然我在$73,000又补了一单，但短期来看，确实还有向上的可能性。\n\n👉 原因有以下2点：\n\n1、从BTC现货成交量差值（CVD）看，当前Binance（黄线）和其他交易所（灰线）的CVD都已经从底部回升并超过了90日中位数（红线），代表交易所内现货主动买盘的回升（见图2）。这也是对短期价格最直接的支撑力量。\n\n2、从4月8日开始，Binance上USDC/USDT的汇率从之前在1以上，变成持续在1以下，即大量USDC卖出换成USDT；由于USDT的交易深度要远好于USDC，因此可以将其视为资金有“进场意图”的表现。\n\n基于以上判断，我把止损设在$73,500；虽然我不认为趋势就此反转，但该损还得损，不扛单这是纪律。在短期上/下都有可能的敏感位置，不依赖“预判”，只做好“预案”。\n\n但也正如我们昨天所分析的，$73,000是BTC的“实现净盈亏比”正好卡在盈亏平衡的时候，盈亏比波幅逐渐缩小是必然途径，因此向上的空间不会很大。\n\n推文链接如下：nitter.net/Murphychen888/status/2…\n\n如果继续向上，等BRS回到零轴，或价格无限接近关键成本基础时再找机会，那时的盈亏比会更合适。挨打不要紧，总结、复盘、完善系统，不然就白挨了。\n\n（本文写于4月11日晚）",
+        "link": "https://x.com/Murphychen888/status/2043139538176921686",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFoCeHUa8AASCeN.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFoCeHTa0AA5qFu.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2043885126887862278",
       "username": "Bitfatty",
@@ -3721,25 +3823,6 @@
       "contentHtml": "good old times eheh",
       "publishedAt": "2026-04-11T21:50:00.000Z",
       "link": "https://x.com/Cbb0fe/status/2043084213440647478",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043083447787491377",
-      "username": "BRICSinfo",
-      "displayName": "BRICS News",
-      "avatar": "https://nitter.net/pic/profile_images%2F1926359090973818880%2FFp80oxwf_bigger.jpg",
-      "content": "High-level direct negotiations between the United States and Iran grew tense on Saturday in Pakistan's capital. \n\nThe highest-level face-to-face meetings between the two countries since the 1979 Islamic Revolution, are mediated by Pakistani officials and aim to strengthen a fragile ceasefire that ended a six-week regional conflict. \n\nUS Vice President JD Vance leads the American side, joined by special envoy Steve Witkoff and Jared Kushner. Iran's delegation includes senior officials such as Parliamentary Speaker Mohammad Bagher Ghalibaf. \n\nSessions continued into late night with multiple rounds, including trilateral discussions. Reports cite rising tensions over control of the Strait of Hormuz, frozen Iranian assets, sanctions relief, and the ceasefire's scope regarding Lebanon. \n\nHeavy security measures remain in place across Islamabad. No agreement has been announced as of Saturday evening.",
-      "contentHtml": "High-level direct negotiations between the United States and Iran grew tense on Saturday in Pakistan's capital. \n\nThe highest-level face-to-face meetings between the two countries since the 1979 Islamic Revolution, are mediated by Pakistani officials and aim to strengthen a fragile ceasefire that ended a six-week regional conflict. \n\nUS Vice President JD Vance leads the American side, joined by special envoy Steve Witkoff and Jared Kushner. Iran's delegation includes senior officials such as Parliamentary Speaker Mohammad Bagher Ghalibaf. \n\nSessions continued into late night with multiple rounds, including trilateral discussions. Reports cite rising tensions over control of the Strait of Hormuz, frozen Iranian assets, sanctions relief, and the ceasefire's scope regarding Lebanon. \n\nHeavy security measures remain in place across Islamabad. No agreement has been announced as of Saturday evening.",
-      "publishedAt": "2026-04-11T21:47:00.000Z",
-      "link": "https://x.com/BRICSinfo/status/2043083447787491377",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11874,85 +11957,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FHE9N0g9a8AA2YJg.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040635851181535567",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "再说的弱智一点，你监控大额成交 呗 ，监控挂单的几年前早被骗着杀完了",
-      "contentHtml": "再说的弱智一点，你监控大额成交 呗 ，监控挂单的几年前早被骗着杀完了",
-      "publishedAt": "2026-04-05T03:41:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2040635851181535567",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040635336754401540",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "大额挂单纯纯“交易噪音” \n100条大额挂单能有一条拿来参考交易就算不错了\n这有啥好讨论的  \n要是监控大额挂单能交易稳定盈利\n\n号称 瞎几把乱叫的aicoin早就卖会员收入超越币安了",
-      "contentHtml": "大额挂单纯纯“交易噪音” \n100条大额挂单能有一条拿来参考交易就算不错了\n这有啥好讨论的  \n要是监控大额挂单能交易稳定盈利\n\n号称 瞎几把乱叫的aicoin早就卖会员收入超越币安了",
-      "publishedAt": "2026-04-05T03:39:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2040635336754401540",
-      "quote": {
-        "username": "Mrluanluan",
-        "displayName": "水博乱乱",
-        "content": "所以目标哥半夜撤单了.. 跟着那6条一起撤的..   get了..  这些都是你画的对吧...\n我突然又有一个想法....  只要账户里的钱够多...\n你就可以在订单簿上写字....\n\n周末只要离价格远一点就不会被冲击到....\n\n虽然订单簿的数据不在链上.. 但也是在各种量化的库里存着了...\n\n想骂谁？ 想表白？ 除了在链上写，还可以再订单簿上写给全市场看？？ \n\n比如图2的效果....  想嘲讽全市场？ 你可以在订单簿上画个哈哈..\n\n想喷谁？   只要你账户里有钱你也可以....",
-        "link": "https://x.com/Mrluanluan/status/2040615981740109996",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFG5JDSbgAAHUJF.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFG5KblaIAEKoTs.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2040628635003142503",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
-      "content": "【四年周期系列更新📊】\n\n2015年熊底后 1431天 到2018年熊底\n2018年熊底后 1437天 到2022年熊底\n2022年熊底距今已 1231天",
-      "contentHtml": "【四年周期系列更新📊】\n\n2015年熊底后 1431天 到2018年熊底\n2018年熊底后 1437天 到2022年熊底\n2022年熊底距今已 1231天",
-      "publishedAt": "2026-04-05T03:12:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2040628635003142503",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFHD3PGaQAICd0q.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【四年周期总刻系列（4）】\n\n2015年熊底后 1431天 到下轮熊底\n2018年熊底后 1437天 到下轮熊底\n2022年熊底已过去 1060天",
-        "link": "https://x.com/0xCryptoChan/status/1978700293664817158",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FG3XAxDEb0AAXUaZ.jpg"
           }
         ]
       },
