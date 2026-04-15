@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T10:55:22.320Z",
+  "lastUpdated": "2026-04-15T11:24:22.957Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,65 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 500,
-    "successUsers": 25,
-    "failedUsers": 3
+    "newFetched": 541,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2044375557929123979",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "目前看下来对套利用户最友好的地方是Aster🤔\n\nAster 16M OI（多空一起算的话是32M OI）, 按-0.3%/h结算, 10%深度有6-7M",
+      "contentHtml": "目前看下来对套利用户最友好的地方是Aster🤔\n\nAster 16M OI（多空一起算的话是32M OI）, 按-0.3%/h结算, 10%深度有6-7M",
+      "publishedAt": "2026-04-15T11:21:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2044375557929123979",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHF8T7wpagAAzXCB.jpg"
+        }
+      ],
+      "quote": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧",
+        "content": "RAVEUSDT资金费率套利策略的友情提示：ADL Squeeze\n\nBinance 72M OI, 按-0.36%/h结算\nBitget 58M OI, 按-0.35%/h结算\nBybit 54M OI, 按-0.5%/h结算\nBitget 36M OI, 按-0.26%/h结算\n\n比较现有的10%合约订单簿深度，一旦波动率重新开始扩大，大部分的跨所资金费率套利用户会有1条腿被ADL出去。\n\n先不提ADL的平仓价格，只剩下单腿后资金费率套利策略也就失效了，转而变成净头寸持仓，大量浮亏的单腿此时还需要踩踏式平仓去止损。\n\nRAVEUSDT并不是个适合做跨所资金费率套利的标的。",
+        "link": "https://x.com/OwenJin12/status/2044368088985121240",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHF8NsbVawAA_VA8.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2044369868812898754",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "什么行情？\n$BTC",
+      "contentHtml": "什么行情？\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
+      "publishedAt": "2026-04-15T10:58:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2044369868812898754",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHF8Pd6xb0AArABd.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2044368620822954329",
       "username": "hazenlee",
@@ -805,6 +859,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHF6RPlNasAE0Ev0.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11836,72 +11894,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFRQX94a4AAJTHy.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2041341218769244259",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "曾两个月低买高卖 $ETH 获利 505 万美元的波段大户时隔一个月出手，再次获利离场🙌\n\n▶︎ 04.04-04.05：$2047.53 建仓\n▶︎ 04.07：$2100.94 卖出\n\n这 4827 枚 ETH（价值 1014 万美元）过去 3 小时充值进 #Binance 后，已提出对应价值的 USDT，大概率已卖出，本次波段最终获利 25.6 万美元\n\n钱包地址 0x69b590d9d761b396Db4465F3Dee34d43Afa0e378\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "曾两个月低买高卖 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 获利 505 万美元的波段大户时隔一个月出手，再次获利离场🙌\n\n▶︎ 04.04-04.05：$2047.53 建仓\n▶︎ 04.07：$2100.94 卖出\n\n这 4827 枚 ETH（价值 1014 万美元）过去 3 小时充值进 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 后，已提出对应价值的 USDT，大概率已卖出，本次波段最终获利 25.6 万美元\n\n钱包地址 0x69b590d9d761b396Db4465F3Dee34d43Afa0e378\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-04-07T02:24:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2041341218769244259",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFRM-pZbIAAk-YM.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "曾两个月低买高卖 $ETH 获利 505 万美元的波段大户再次止盈离场🤩\n\n地址 0x69b…0e378 在 02.06-02.08 期间以均价 $1973 建仓 4673 枚 ETH（价值 922 万美元），6 小时前他已将这部分 ETH 全部充值进 #Binance，随后提出对应价值的 USDT，大概率已卖出，卖出均价约 $2134，最终获利 75.2 万美元\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n本文由 @Gate_zh 赞助 |上 Gate App 抢黄金",
-        "link": "https://x.com/ai_9684xtpa/status/2021040010523443678",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHAwtFqpasAA6SvW.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2041337304871231627",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "「先定 10 个大目标」老哥 @Jason60704294 凌晨再次加仓 270.37 $BTC 😲\n\n凌晨大盘下跌时，他晒图在 $69574.7 的位置追加 270.37 枚 BTC；截止目前已持有 2,520.52 BTC 的多单，总价值 1.7 亿美元，平均开仓价 $67,449.12，浮盈缩窄至 227.7 万美元\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "「先定 10 个大目标」老哥 <a href=\"/Jason60704294\" title=\"jasonleo\">@Jason60704294</a> 凌晨再次加仓 270.37 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 😲\n\n凌晨大盘下跌时，他晒图在 $69574.7 的位置追加 270.37 枚 BTC；截止目前已持有 2,520.52 BTC 的多单，总价值 1.7 亿美元，平均开仓价 $67,449.12，浮盈缩窄至 227.7 万美元\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-04-07T02:08:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2041337304871231627",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFRJZl5aMAAmeYk.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "更新：「先定 10 个大目标」老哥果然开了 2250.15 $BTC ，已浮盈 552 万美元🤩\n\n多单头寸目前价值 1.56 亿美元，平均开仓价 $67193.72，强平价格 $55423，还是一如以往强悍的钞能力\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-        "link": "https://x.com/ai_9684xtpa/status/2041087940663841193",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFNmpx5akAAAJ1h.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
