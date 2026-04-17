@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T21:46:54.817Z",
+  "lastUpdated": "2026-04-17T22:15:06.590Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -98,6 +98,21 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2045263573732257897",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "20日均线参与度：短期指标\n标普：80，比较超买\n纳指：74，超买\n罗素：89，极度超买\n很多人问我要不要降BETA，我的观点是根据这些情绪面指标，做出一些短期止盈，完全可以，但中期远没到降BETA的时候。今天因为海峡的消息，我认为市场第一天看到了FOMO，几乎所有板块都参与了进来。接下去市场应该更看选股，个股>指数。走太好的需要调整调整。\n仓位大，涨得害怕得做好移动止盈，已经很好了。\n仓位不大等进场的不用急，会有DIP，今年还有7个多月，再来一个5-10%的下跌是大概率事件。短期我认为因为很多散户和机构都被轧空和对战争的担心踏空了，DIP会有资金进场。做为长期投资者，期待下周的财报：GE, GEV, TSLA, NOW, INTC。各位周末愉快，送上一句一个月前直播的话：也许一个月之后没人会再关注战争🫡",
+      "contentHtml": "20日均线参与度：短期指标\n标普：80，比较超买\n纳指：74，超买\n罗素：89，极度超买\n很多人问我要不要降BETA，我的观点是根据这些情绪面指标，做出一些短期止盈，完全可以，但中期远没到降BETA的时候。今天因为海峡的消息，我认为市场第一天看到了FOMO，几乎所有板块都参与了进来。接下去市场应该更看选股，个股&gt;指数。走太好的需要调整调整。\n仓位大，涨得害怕得做好移动止盈，已经很好了。\n仓位不大等进场的不用急，会有DIP，今年还有7个多月，再来一个5-10%的下跌是大概率事件。短期我认为因为很多散户和机构都被轧空和对战争的担心踏空了，DIP会有资金进场。做为长期投资者，期待下周的财报：GE, GEV, TSLA, NOW, INTC。各位周末愉快，送上一句一个月前直播的话：也许一个月之后没人会再关注战争🫡",
+      "publishedAt": "2026-04-17T22:10:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2045263573732257897",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2045255384173023730",
       "username": "TJ_Research",
@@ -3395,31 +3410,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHF8uIDYWQAA-ZX1.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044393222667960714",
-      "username": "Leoskie_L",
-      "displayName": "Leonard",
-      "avatar": "https://nitter.net/pic/profile_images%2F1907451561980104705%2F-UR4x8KR_bigger.jpg",
-      "content": "Intel 的封裝方案正在偷走台積電最肥的客戶。Google TPU v9 是第一槍。\n\n大部分人盯著 Samsung 良率追到 70%。方向錯了。真正的威脅不在前段製程——在封裝層。\n\n等一下。之前寫台積電「不可替代」要修正。不是不可替代。是壟斷的形狀變了。\n\nCoWoS 用整片矽中介層把晶片和 HBM 連起來。互連密度最高。物理代價：翹曲。光罩極限 3.3 倍。\n\nIntel EMIB 不用大片矽中介層。把微小矽橋嵌進載板邊緣。翹曲大幅減少。6 倍光罩，2027 預計 8-12 倍。成本更低。\n\n代價是頻寬較低。所以 NVIDIA Rubin 還是走 CoWoS。但 ASIC 推論晶片、中階 AI？EMIB 完全夠用。\n\nGoogle TPU v9 用 EMIB-T。Meta+Broadcom 2nm AI 加速器也在看。台積電的 CoWoS 壟斷第一次出現替代方案。\n\n台積電在加速 CoPoS 面板級封裝回應。2026 試產。跑通了壟斷延長一代。沒跑通，2027 是 EMIB 翻盤窗口。\n\n要盯的：法說會毛利率 63-65%、Samsung SF2P 量產進度、Google TPU v9 EMIB 實際表現。\n\n大部分人連 transceiver 裡有幾層壟斷都數不清。2026 的故事不是良率追趕。是封裝層在物理上分裂。\n\n文章在這👇\n\nnitter.net/Leoskie_L/status/20443…",
-      "contentHtml": "Intel 的封裝方案正在偷走台積電最肥的客戶。Google TPU v9 是第一槍。\n\n大部分人盯著 Samsung 良率追到 70%。方向錯了。真正的威脅不在前段製程——在封裝層。\n\n等一下。之前寫台積電「不可替代」要修正。不是不可替代。是壟斷的形狀變了。\n\nCoWoS 用整片矽中介層把晶片和 HBM 連起來。互連密度最高。物理代價：翹曲。光罩極限 3.3 倍。\n\nIntel EMIB 不用大片矽中介層。把微小矽橋嵌進載板邊緣。翹曲大幅減少。6 倍光罩，2027 預計 8-12 倍。成本更低。\n\n代價是頻寬較低。所以 NVIDIA Rubin 還是走 CoWoS。但 ASIC 推論晶片、中階 AI？EMIB 完全夠用。\n\nGoogle TPU v9 用 EMIB-T。Meta+Broadcom 2nm AI 加速器也在看。台積電的 CoWoS 壟斷第一次出現替代方案。\n\n台積電在加速 CoPoS 面板級封裝回應。2026 試產。跑通了壟斷延長一代。沒跑通，2027 是 EMIB 翻盤窗口。\n\n要盯的：法說會毛利率 63-65%、Samsung SF2P 量產進度、Google TPU v9 EMIB 實際表現。\n\n大部分人連 transceiver 裡有幾層壟斷都數不清。2026 的故事不是良率追趕。是封裝層在物理上分裂。\n\n文章在這👇\n\n<a href=\"https://nitter.net/Leoskie_L/status/2044391183263109497\">nitter.net/Leoskie_L/status/20443…</a>",
-      "publishedAt": "2026-04-15T12:31:00.000Z",
-      "link": "https://x.com/Leoskie_L/status/2044393222667960714",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF8jRBEWgAAkDQy.png"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
