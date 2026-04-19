@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T22:46:31.398Z",
+  "lastUpdated": "2026-04-19T23:03:38.058Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 543,
+    "newFetched": 544,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2045999786004983958",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "I miss the old days when keys were burned fresh out of contract deployment\n\nthe endgame should be \"ImmutabeFi\" to start with, \"DeFi\" can have a spectrum for the \"de\" part..immutability is binary",
+      "contentHtml": "I miss the old days when keys were burned fresh out of contract deployment\n\nthe endgame should be \"ImmutabeFi\" to start with, \"DeFi\" can have a spectrum for the \"de\" part..immutability is binary",
+      "publishedAt": "2026-04-19T22:55:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2045999786004983958",
+      "quote": {
+        "username": "mert",
+        "displayName": "mert",
+        "content": "shitpost aside\n\nthe obvious problem with cryptographic currencies is that, often, we are not using cryptography but humans to secure them\n\nin this sense, a lot of defi currently is tradfi without the regulation but much more multiplicative in risk due to composability",
+        "link": "https://x.com/mert/status/2045940194516382029"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2045996771105808796",
       "username": "DoveyWan",
@@ -11357,27 +11378,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2042963686067966369",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "哈哈哈 记没记住爸爸的大海峡",
-      "contentHtml": "哈哈哈 记没记住爸爸的大海峡",
-      "publishedAt": "2026-04-11T13:51:00.000Z",
-      "link": "https://x.com/hazenlee/status/2042963686067966369",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFoQo_JakAgLFIS.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
