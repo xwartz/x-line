@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T01:56:23.333Z",
+  "lastUpdated": "2026-04-19T03:06:45.133Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,137 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 542,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 525,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2045698361786048890",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "All cross-chain bridges, all L2s with single sequencers, should immediately do a full security sweep, LayerZero's DVN is a 1/1 validator wtaf???  \n\nAnyswap/Multichain back then left me with massive PTSD as its earliest investor. Kept urging the founder ZJ to get out mainland ASAP since 2020, but he was dead certain nothing would happen to him because he was running a \"decentralized protocol.\" Later on, he got arrested in Shanghai, sentenced, and coerced into handing over assets, only to find out the so-called \"MPC nodes\" were all running on AWS under his own admin key control and 250m+ user's TVL just gone like that 🤦 \n\nThe basic rule of antifragility is to avoid SPoFs. Back then and even now, the industry is still just single points of failure with extra branding/patches.  \n\nThe root causes of fuckups haven't changed much since then:  \n\n1/1 validator set\nsingle operator \nsingle admin domain \nsingle sequencer \nsingle cloud surface\nsingle lib supplychain\n\nThis Kelp/LZ incident is the same, essentially, the whole industry is still treating systemic infra like it's just some regular app. I feel really bad for those who got hit from this type of incidents and the trust of major defi protocols will be under permeant erosion, \n\nhope we eventually can establish a mental standard of \"fiduciary duty\" in the context of defi for everyone working in the space, and the rigor of eradicate SPoF at the best effort thru out the process.",
+      "contentHtml": "All cross-chain bridges, all L2s with single sequencers, should immediately do a full security sweep, LayerZero's DVN is a 1/1 validator wtaf???  \n\nAnyswap/Multichain back then left me with massive PTSD as its earliest investor. Kept urging the founder ZJ to get out mainland ASAP since 2020, but he was dead certain nothing would happen to him because he was running a \"decentralized protocol.\" Later on, he got arrested in Shanghai, sentenced, and coerced into handing over assets, only to find out the so-called \"MPC nodes\" were all running on AWS under his own admin key control and 250m+ user's TVL just gone like that 🤦 \n\nThe basic rule of antifragility is to avoid SPoFs. Back then and even now, the industry is still just single points of failure with extra branding/patches.  \n\nThe root causes of fuckups haven't changed much since then:  \n\n1/1 validator set\nsingle operator \nsingle admin domain \nsingle sequencer \nsingle cloud surface\nsingle lib supplychain\n\nThis Kelp/LZ incident is the same, essentially, the whole industry is still treating systemic infra like it's just some regular app. I feel really bad for those who got hit from this type of incidents and the trust of major defi protocols will be under permeant erosion, \n\nhope we eventually can establish a mental standard of \"fiduciary duty\" in the context of defi for everyone working in the space, and the rigor of eradicate SPoF at the best effort thru out the process.",
+      "publishedAt": "2026-04-19T02:57:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2045698361786048890",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2045694584861405193",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "所有跨链桥, 包括所有 single sequencer 的 L2, 都应该立刻做一次 full security sweep 真的太傻逼了... LayerZero的DVN竟然是1/1 validator... \n\n当年投 Anyswap 给我留下过很巨大的心理阴影。当时一直劝ZJ赶紧出国, 他坚信自己不会有事, 因为跑的是一个“去中心化的协议”, 后来他在上海抓判刑胁迫交出资产，最后才发现所谓的 “MPC nodes” 都跑在他自己 admin key 控制的 AWS 上🤦 \n\n反脆弱反的是什么, 最基本的原则就是不要有SPoF. 当时现在行业依旧还是single point of failure with extra branding\n\n现在桥的架构比当年Anyswap进步很多了。\n但出事的根本原因几乎没变：\n\n1/1 validator set\nsingle operator\nsingle admin domain\nsingle sequencer\nsingle cloud surface\n\n这次 Kelp/LZ 事件也是一样, 本质上是整个行业还在把 systemic infra 当成普通 app 在做。真的都毁灭吧, 累了.",
+      "contentHtml": "所有跨链桥, 包括所有 single sequencer 的 L2, 都应该立刻做一次 full security sweep 真的太傻逼了... LayerZero的DVN竟然是1/1 validator... \n\n当年投 Anyswap 给我留下过很巨大的心理阴影。当时一直劝ZJ赶紧出国, 他坚信自己不会有事, 因为跑的是一个“去中心化的协议”, 后来他在上海抓判刑胁迫交出资产，最后才发现所谓的 “MPC nodes” 都跑在他自己 admin key 控制的 AWS 上🤦 \n\n反脆弱反的是什么, 最基本的原则就是不要有SPoF. 当时现在行业依旧还是single point of failure with extra branding\n\n现在桥的架构比当年Anyswap进步很多了。\n但出事的根本原因几乎没变：\n\n1/1 validator set\nsingle operator\nsingle admin domain\nsingle sequencer\nsingle cloud surface\n\n这次 Kelp/LZ 事件也是一样, 本质上是整个行业还在把 systemic infra 当成普通 app 在做。真的都毁灭吧, 累了.",
+      "publishedAt": "2026-04-19T02:42:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2045694584861405193",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2045684862934540492",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "都先从Defi撤了吧, 太危险了. 这次伤筋动骨比Drift/Cowswap什么都要大多了...",
+      "contentHtml": "都先从Defi撤了吧, 太危险了. 这次伤筋动骨比Drift/Cowswap什么都要大多了...",
+      "publishedAt": "2026-04-19T02:04:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2045684862934540492",
+      "quote": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+        "content": "Defi sat night nightmare now is next level if you are in any of the protocol below better just withdraw\n\nLayerzero (thats the root of the hack)\nAave V3 (might be in a bad debt)\nMellow meta-vault on Lido\nCompound\nFluid\nEuler\nBeefy strategies\nYearn",
+        "link": "https://x.com/DoveyWan/status/2045683127474155640"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2045684733070414153",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "过去三天散户情绪变化：\n🤨->😃->😭",
+      "contentHtml": "过去三天散户情绪变化：\n🤨-&gt;😃-&gt;😭",
+      "publishedAt": "2026-04-19T02:03:00.000Z",
+      "link": "https://x.com/follow_clues/status/2045684733070414153",
+      "quote": {
+        "username": "follow_clues",
+        "displayName": "Theclues",
+        "content": "MM（做市商呢）牛市？\n\n买的人多，直接卖\n空的人多，直接拉（三元博弈后，越来越难）\n\n多看看a股的每日抢板交易手法",
+        "link": "https://x.com/follow_clues/status/2043203338544746650"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2045684297886294225",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "nitter.net/senamakel/status/20456… 🤦 ...",
+      "contentHtml": "<a href=\"https://nitter.net/senamakel/status/2045609152547086382\">nitter.net/senamakel/status/20456…</a> 🤦 ...",
+      "publishedAt": "2026-04-19T02:01:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2045684297886294225",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGO7Aq9bgAAUAqT.png"
+        }
+      ],
+      "quote": {
+        "username": "senamakel",
+        "displayName": "Steven Enamakel",
+        "content": "the issue with the @KelpDAO 280m$ hack was that it was just secured by just 1/1 validator set (DVN) on @LayerZero_Core . Which means one faulty transaction from a validator is all that's needed.\n\nmy belief is that the root cause was possibly that the LZ validator on Unichain was compromised. \n\nthe contagion effects are going to be quite bad. I don't think many people have realized it yet.\n\n- kelp was looping on aave with stETH for a few percentage here and there. Aave is going through a bank run so that means they'll need to unwind their positions\n\n- multiple protocols and chains are now going to be bad debt because their rsETH will get depegged.\n\n- aave's bad debt is more than what they can cover rn so almost anyone who has deposited into their safety net (60mn$) is 100% rekt. all for just staking for a few % in extra yeild.\n\n- trust on LZ & Aave will deteriorate. this is bad for the industry.\n\n- the kelp team (amazing founders) will go through debt\n\ni'd say i feel sorry for everyone who is going to go through the next few hours but unfortunately this is the industry we live in.",
+        "link": "https://x.com/senamakel/status/2045609152547086382",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGN1X7BbkAAZez4.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2045683127474155640",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Defi sat night nightmare now is next level if you are in any of the protocol below better just withdraw\n\nLayerzero (thats the root of the hack)\nAave V3 (might be in a bad debt)\nMellow meta-vault on Lido\nCompound\nFluid\nEuler\nBeefy strategies\nYearn",
+      "contentHtml": "Defi sat night nightmare now is next level if you are in any of the protocol below better just withdraw\n\nLayerzero (thats the root of the hack)\nAave V3 (might be in a bad debt)\nMellow meta-vault on Lido\nCompound\nFluid\nEuler\nBeefy strategies\nYearn",
+      "publishedAt": "2026-04-19T01:57:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2045683127474155640",
+      "quote": {
+        "username": "Marczeller",
+        "displayName": "Marc Zeller",
+        "content": "If you have WETH on Aave V3 Core, withdraw now, ask questions later.",
+        "link": "https://x.com/Marczeller/status/2045583631184282047"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2045669463077663145",
       "username": "ai_9684xtpa",
@@ -11314,150 +11440,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFjXPseWAAACbEL.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2042612818655252524",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "哪里有对手盘 哪里就有黄毛",
-      "contentHtml": "哪里有对手盘 哪里就有黄毛",
-      "publishedAt": "2026-04-10T14:37:00.000Z",
-      "link": "https://x.com/hazenlee/status/2042612818655252524",
-      "quote": {
-        "username": "KobeissiLetter",
-        "displayName": "The Kobeissi Letter",
-        "content": "BREAKING: President Trump says “Palantir has proven to have great war fighting capabilities and equipment. Just ask our enemies.”\n\nPalantir stock, $PLTR, is rising after the statement.",
-        "link": "https://x.com/KobeissiLetter/status/2042612446687330731",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFjRMdMakAABJT8.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2042602596465365450",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "📝📝",
-      "contentHtml": "📝📝",
-      "publishedAt": "2026-04-10T13:56:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2042602596465365450",
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "还没结束… $RAVE 24 小时涨幅已扩大至 333%😳\n\n多签地址 0x0A1...790d7 过去 7 小时已从 #Bitget 累计提出 2978 万枚 RAVE，总价值 3368 万美元\n\n这个地址与今早在币价暴涨起点附近向交易所充值代币的两个地址，存在明确的资金关联\n\n钱包地址 0x0A1F07993a51CcEb4f52CA67765AECeADDA790d7\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-        "link": "https://x.com/ai_9684xtpa/status/2042602174598008939",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFjHr4NakAcQvdA.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2042602729659601311",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "啊这，刚发出去就插针暴跌 22% 吗😅\n\n太妖了",
-      "contentHtml": "啊这，刚发出去就插针暴跌 22% 吗😅\n\n太妖了",
-      "publishedAt": "2026-04-10T13:56:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2042602729659601311",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFjIKkAakAIi4Tp.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2042602174598008939",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "还没结束… $RAVE 24 小时涨幅已扩大至 333%😳\n\n多签地址 0x0A1...790d7 过去 7 小时已从 #Bitget 累计提出 2978 万枚 RAVE，总价值 3368 万美元\n\n这个地址与今早在币价暴涨起点附近向交易所充值代币的两个地址，存在明确的资金关联\n\n钱包地址 0x0A1F07993a51CcEb4f52CA67765AECeADDA790d7\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "还没结束… <a href=\"/search?f=tweets&q=%23RAVE\">$RAVE</a> 24 小时涨幅已扩大至 333%😳\n\n多签地址 0x0A1...790d7 过去 7 小时已从 <a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 累计提出 2978 万枚 RAVE，总价值 3368 万美元\n\n这个地址与今早在币价暴涨起点附近向交易所充值代币的两个地址，存在明确的资金关联\n\n钱包地址 0x0A1F07993a51CcEb4f52CA67765AECeADDA790d7\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-04-10T13:54:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2042602174598008939",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFjHr4NakAcQvdA.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": ". $RAVE 24 小时暴涨 232%，项目方关联地址大额充值代币\n\n—— 这剧本，我好像见过啊😬\n\n疑似归属于同一实体的两个地址在 10 小时前（即 RAVE 币价暴涨起点附近）向 #Bitget 充值 1858 万枚 RAVE，价值 800 万美元，当时币价仅 $0.43（现价 $1.027），现已增值至 1908 万美元\n\n两个地址的资金来源分为两部分：Bitget 提出、RAVE 代币部署地址转移而来\n\n钱包地址\n0xD063ee03Cb86d7050496Ad5C56F7185961100452\n0xff6a7A6D89d49Bc41E4a90eeD1CAe358ce94f5EF\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-        "link": "https://x.com/ai_9684xtpa/status/2042431876586225955",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFgsvW1bEAAbZpu.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2042597725330641284",
-      "username": "JoshuaDeuk",
-      "displayName": "Joshua | MOZAIK 🇰🇷",
-      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
-      "content": "market bit weird not gonna ape back for now",
-      "contentHtml": "market bit weird not gonna ape back for now",
-      "publishedAt": "2026-04-10T13:37:00.000Z",
-      "link": "https://x.com/JoshuaDeuk/status/2042597725330641284",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2042597376029065318",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "不是干啥啊哥，\n不知道以为亏懵逼了要跳楼呢",
-      "contentHtml": "不是干啥啊哥，\n不知道以为亏懵逼了要跳楼呢",
-      "publishedAt": "2026-04-10T13:35:00.000Z",
-      "link": "https://x.com/hazenlee/status/2042597376029065318",
-      "quote": {
-        "username": "saylor",
-        "displayName": "Michael Saylor",
-        "content": "Higher. $BTC",
-        "link": "https://x.com/saylor/status/2042590677725241661"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
