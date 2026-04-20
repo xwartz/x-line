@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T22:17:43.705Z",
+  "lastUpdated": "2026-04-20T22:47:12.915Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 464,
-    "successUsers": 23,
-    "failedUsers": 5
+    "newFetched": 545,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2046356367003488274",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "Everyone abandoned the M2 chart because they never truly understood what it was showing in the first place.\n\n$BTC has consistently topped before M2 peaks. \n\nHowever, once M2 does top out, it has historically led to extended downside for BTC. That pattern has repeated since 2012.\n\nThe sequence has generally been:\n\nBTC tops > M2 keeps rising > BTC ranges until M2 peaks > M2 peaks = prolonged BTC downside.\n\nThis cycle has played out again and again. \n\nM2 still hasn’t topped yet, and when it finally does, do you really think it’s suddenly going to decouple from the way markets have always moved?\n\nNo.",
+      "contentHtml": "Everyone abandoned the M2 chart because they never truly understood what it was showing in the first place.\n\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> has consistently topped before M2 peaks. \n\nHowever, once M2 does top out, it has historically led to extended downside for BTC. That pattern has repeated since 2012.\n\nThe sequence has generally been:\n\nBTC tops &gt; M2 keeps rising &gt; BTC ranges until M2 peaks &gt; M2 peaks = prolonged BTC downside.\n\nThis cycle has played out again and again. \n\nM2 still hasn’t topped yet, and when it finally does, do you really think it’s suddenly going to decouple from the way markets have always moved?\n\nNo.",
+      "publishedAt": "2026-04-20T22:32:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2046356367003488274",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGYdVZ8awAAdCvy.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2046340938432483779",
       "username": "TJ_Research",
@@ -900,6 +921,41 @@
         "displayName": "鹤一",
         "content": "肥肥，怎么看待ordi这轮上涨再下跌，这款币还能玩吗😂😂",
         "link": "https://x.com/Df2Ll/status/2045926678975963236"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2046070313423716686",
+      "username": "AntonLaVay",
+      "displayName": "Manchurius Hao — Greeks.live首席赌狗",
+      "avatar": "https://nitter.net/pic/profile_images%2F1744708794750218240%2FpJYGcl9Q_bigger.jpg",
+      "content": "我觉得这个应该最离谱的是在 $eth 上面。\n\n$btc 矿工只是挖点币，卖卖call，honestly，我不觉得矿工在比特币期权市场里是多大的一条鱼。\n\n但是 $eth 就不一样了，以太的矿机就是以太的币….. pos这个对于 sell call/long put 的需求是系统性的，我觉得以太的曲线就是被他们给压塌的。\n\n欢迎大家来我们Crypto期权社区一起讨论：t.me/GlobalLife2023",
+      "contentHtml": "我觉得这个应该最离谱的是在 <a href=\"/search?f=tweets&q=%23eth\">$eth</a> 上面。\n\n<a href=\"/search?f=tweets&q=%23btc\">$btc</a> 矿工只是挖点币，卖卖call，honestly，我不觉得矿工在比特币期权市场里是多大的一条鱼。\n\n但是 <a href=\"/search?f=tweets&q=%23eth\">$eth</a> 就不一样了，以太的矿机就是以太的币….. pos这个对于 sell call/long put 的需求是系统性的，我觉得以太的曲线就是被他们给压塌的。\n\n欢迎大家来我们Crypto期权社区一起讨论：<a href=\"https://t.me/GlobalLife2023\">t.me/GlobalLife2023</a>",
+      "publishedAt": "2026-04-20T03:35:00.000Z",
+      "link": "https://x.com/AntonLaVay/status/2046070313423716686",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
+      "quote": {
+        "username": "CryptoRounder",
+        "displayName": "Rounder",
+        "content": "难得 @hibtc37 大哥给我们透了“内幕”！ $BTC 持续震荡，期权的隐含波动率持续走低，其“罪魁祸首”之一就是大哥这种玩转衍生品的大矿工。\n\n车震策略：将每周产出的币滚动卖期权，币价涨了收到更多的U，币价跌了收到更多的币。\n\n大哥参与了震荡区间的“绘制”，给大家提供了舒适的车震环境😁",
+        "link": "https://x.com/CryptoRounder/status/2045064516892057990",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGGHTrdaQAA8a-9.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGGHVSUaIAAfnNJ.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -11293,48 +11349,6 @@
         "displayName": "H.E. Justin Sun 👨‍🚀 🌞",
         "content": "我一直是特朗普总统及其加密友好政策的坚定支持者。\n\n作为World Liberty Financial的早期支持者，我在项目初期投入了大量资金，因为我相信该项目向公众展示的愿景：一个促进金融自由、去除中介、将去中心化金融的福祉带给普通民众的DeFi平台。\n\n然而，从未有人向我或任何投资者披露的是：World Liberty在部署WLFI代币的智能合约中暗植了一个后门黑名单功能。该功能赋予公司单方面的权力，可以在无需通知、无需理由、无需救济途径的情况下，冻结、限制乃至实质没收任何代币持有者的财产权利。\n\n这是去中心化的反面。这是一扇伪装成大门的陷阱。\n\n我在此谴责WLFI内部不良行为者持续制造的代币丑闻。\n\n我是第一个也是最大的受害者——早在2025年，他们就非法将我的WLFI代币钱包列入黑名单，这一行为违反了基本的投资者权利和区块链的公平原则。\n\nWLFI团队所采取的一切行为——从用户身上榨取费用、秘密植入后门控制用户资产、在未经披露和正当程序的情况下冻结投资者资金、将加密社区当作个人提款机——所有这些行为都是不正当的，从未经过任何公平、透明、善意的社区治理程序授权。\n\n那些被援引来为上述行为正名的治理投票，并非通过公平或透明的程序进行。关键信息对投票者隐瞒，实质性的参与受到限制，结果早已预定。这些投票代表的不是社区的意志——而是设计它们的人的意志。\n\n这些行为与我无关。与那些相信该项目承诺的投资者无关。我们以最强烈的态度反对上述每一项行为。\n\nWLFI团队的所作所为正在侵蚀社区对项目的信任。解锁代币，维护对社区的透明。让我们以诚信建设，而非以不端行事。",
         "link": "https://x.com/justinsuntron/status/2043235063132037268"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043237675566858707",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "螳螂捕蝉 黄雀在后\n我倒要看看谁最后收割伟大黄毛😁\n青蒜！",
-      "contentHtml": "螳螂捕蝉 黄雀在后\n我倒要看看谁最后收割伟大黄毛😁\n青蒜！",
-      "publishedAt": "2026-04-12T07:59:00.000Z",
-      "link": "https://x.com/hazenlee/status/2043237675566858707",
-      "quote": {
-        "username": "justinsuntron",
-        "displayName": "H.E. Justin Sun 👨‍🚀 🌞",
-        "content": "I have always been an ardent supporter of President Trump and his crypto friendly policy.\n\nAs an early supporter who invested heavily in World Liberty Financial, I did so because I believed in the vision that was presented to the public: a decentralized finance platform that would promote financial freedom, remove intermediaries, and bring the benefits of DeFi to mainstream Americans.\n\nWhat was never disclosed — to me or to any investor — is that World Liberty embedded a backdoor blacklisting function in the smart contract used to deploy WLFI tokens. This function gives the Company unilateral power to freeze, restrict, and effectively confiscate the property rights of any token holder, without notice, without cause, and without recourse.\n\nThis is the opposite of decentralization. This is a trap door marketed as an open door.\n\nI denounce the ongoing token scandals by the bad actors at WLFI. \n\nI am the first and single largest victim, as a result of their wrongful blacklisting of my WLFI token wallet back in 2025, that violates basic investor rights and blockchain principles of fairness.\n\nEvery action taken by the WLFI team to extract fees from users, to secretly implant backdoor controls over user assets, to freeze investor funds without disclosure or due process, and to treat the crypto community as a personal ATM — all of these actions are illegitimate and were never authorized by any fair, transparent, or good-faith community governance process. \n\nThe governance votes cited to justify these actions were not conducted through a fair or transparent process. Key information was withheld from voters, meaningful participation was restricted, and the outcomes were predetermined. These votes do not represent the will of the community — they represent the will of those who designed them.\n\nThese actions have nothing to do with me. They have nothing to do with the investors who believed the promises this project made. We oppose every one of these actions in the strongest possible terms.\n\nThe WLFI team’s actions erode trust in the project. Unlock the tokens and uphold transparency for the community. Let’s build with integrity, not misconduct.",
-        "link": "https://x.com/justinsuntron/status/2043234272622883074"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043230713412235493",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "确实，正如这位小伙伴所说，当前BTC的短线交易真的是地狱难度。对大多数小伙伴来说，最简单的方法就是在接下来的6个月内坚持定投，用时间换空间，胜率几乎可以达到100%。\n\n但这是投资，不是交易！\n\n在交易层面，近2个月里我一共只做了4笔，也都在推特上和小伙伴同步了。包括判断依据、开仓点位、止盈止损等等细节。\n\n前3笔都是盈利，只有这1笔是亏损的。\n\n这笔我第1单开在71500，第2单补在73000，2笔平均成本72300，5倍杠杠，到73500已浮亏-8.6%。我的预期是如果破了73就有可能去75-78，所以如果不损就得扛单。\n\n就在昨晚，我还在犹豫要不要设止损。因为我知道，这里不可能是趋势反转，即便上去了迟早也会下来。\n\n但最终理性告诉我不能扛单，即便最后赌对了，那也是侥幸。而我们不能把侥幸视为能力，因为一旦形成习惯，就是极其危险的交易思维。\n\n这单我损了，还损在了最高位；如果不动，现在就是赚的。然而，很多交易员小盈大亏最后返贫，就是从“侥幸取胜”的那一天开始的。\n\n当然，也不能因为一次的失败，就否定全局。\n\n大趋势，大周期我会做，短线有机会我也会做，如果是大周期的数据，也根本没必要每天分析，追求模糊的正确即可。而分析的目的就是为了指导交易，纸上谈兵有什么意思？\n\n有些人喜欢看热闹，看人亏钱比自己赚钱还高兴。但这对自己的认知和能力的提升没有任何帮助。除非你来币圈是娱乐的。\n\n另外，我看到评论区还有一些讲风凉话的马后炮，你们可以闭嘴了！如果你真这么牛逼，就不需要来关注我，我这点雕虫小技在你永赚大师的眼里岂不是班门弄斧？\n\n赶紧取关吧。",
-      "contentHtml": "确实，正如这位小伙伴所说，当前BTC的短线交易真的是地狱难度。对大多数小伙伴来说，最简单的方法就是在接下来的6个月内坚持定投，用时间换空间，胜率几乎可以达到100%。\n\n但这是投资，不是交易！\n\n在交易层面，近2个月里我一共只做了4笔，也都在推特上和小伙伴同步了。包括判断依据、开仓点位、止盈止损等等细节。\n\n前3笔都是盈利，只有这1笔是亏损的。\n\n这笔我第1单开在71500，第2单补在73000，2笔平均成本72300，5倍杠杠，到73500已浮亏-8.6%。我的预期是如果破了73就有可能去75-78，所以如果不损就得扛单。\n\n就在昨晚，我还在犹豫要不要设止损。因为我知道，这里不可能是趋势反转，即便上去了迟早也会下来。\n\n但最终理性告诉我不能扛单，即便最后赌对了，那也是侥幸。而我们不能把侥幸视为能力，因为一旦形成习惯，就是极其危险的交易思维。\n\n这单我损了，还损在了最高位；如果不动，现在就是赚的。然而，很多交易员小盈大亏最后返贫，就是从“侥幸取胜”的那一天开始的。\n\n当然，也不能因为一次的失败，就否定全局。\n\n大趋势，大周期我会做，短线有机会我也会做，如果是大周期的数据，也根本没必要每天分析，追求模糊的正确即可。而分析的目的就是为了指导交易，纸上谈兵有什么意思？\n\n有些人喜欢看热闹，看人亏钱比自己赚钱还高兴。但这对自己的认知和能力的提升没有任何帮助。除非你来币圈是娱乐的。\n\n另外，我看到评论区还有一些讲风凉话的马后炮，你们可以闭嘴了！如果你真这么牛逼，就不需要来关注我，我这点雕虫小技在你永赚大师的眼里岂不是班门弄斧？\n\n赶紧取关吧。",
-      "publishedAt": "2026-04-12T07:32:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2043230713412235493",
-      "quote": {
-        "username": "luoz_a9",
-        "displayName": "luoz",
-        "content": "我之前就说了别做短线了m哥，盯着大周期顶和底就好了",
-        "link": "https://x.com/luoz_a9/status/2043196448830091509"
       },
       "stats": {
         "replies": 0,
