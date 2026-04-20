@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T11:14:58.464Z",
+  "lastUpdated": "2026-04-20T11:48:04.737Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 545,
+    "newFetched": 543,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2046190008344924645",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "piped.video/live/BkAIK4XdP8k… nitter.net/i/broadcasts/1RJZzjqqA…",
+      "contentHtml": "<a href=\"https://piped.video/live/BkAIK4XdP8k?feature=share\">piped.video/live/BkAIK4XdP8k…</a> <a href=\"https://nitter.net/i/broadcasts/1RJZzjqqARmJB\">nitter.net/i/broadcasts/1RJZzjqqA…</a>",
+      "publishedAt": "2026-04-20T11:31:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2046190008344924645",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2046169322070888692",
       "username": "0xleng1",
@@ -492,6 +507,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHGUCM8MagAASiF3.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11363,21 +11382,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043163587133518229",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "？？？？？？？？？这行情对吗？",
-      "contentHtml": "？？？？？？？？？这行情对吗？",
-      "publishedAt": "2026-04-12T03:05:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2043163587133518229",
       "stats": {
         "replies": 0,
         "retweets": 0,
