@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T17:49:53.141Z",
+  "lastUpdated": "2026-04-20T18:22:46.985Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,7 +93,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 542,
+    "newFetched": 544,
     "successUsers": 27,
     "failedUsers": 1
   },
@@ -580,6 +580,37 @@
           "url": "https://nitter.net/pic/orig/media%2FHGVQ0tkaUAAhiyA.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2046130509970092396",
+      "username": "jukan05",
+      "displayName": "Jukan",
+      "avatar": "https://nitter.net/pic/profile_images%2F2037840794992988160%2FtnSqJgqt_bigger.jpg",
+      "content": "I’m not saying this without evidence.",
+      "contentHtml": "I’m not saying this without evidence.",
+      "publishedAt": "2026-04-20T07:35:00.000Z",
+      "link": "https://x.com/jukan05/status/2046130509970092396",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGVQuKEakAAyVw4.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "quote": {
+        "username": "jukan05",
+        "displayName": "Jukan",
+        "content": "My bold prediction: within the next two years, there will be cases where GPUs cannot be deployed because of CPU shortages.\n\nAccording to industry checks, in some Rubin Ultra configurations, the GPU-to-CPU deployment ratio has already exceeded one GPU to two CPUs.",
+        "link": "https://x.com/jukan05/status/2046122267743240505"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11336,33 +11367,6 @@
         "displayName": "Theclues",
         "content": "新时代坐庄：\n\n1.现货筹码都被各路链上专家盯着，干脆不出货！\n\n2.维持高市值水平，每天保持10-20%波动，期货的波动利润，继续加强对现货的控制。\n\n3.控盘度大于99%，开启收租模式，按照年化100%控制费率，不可太极端，熬死所有镰刀！",
         "link": "https://x.com/follow_clues/status/2042920612512043044"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043206579781300420",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "望周知",
-      "contentHtml": "望周知",
-      "publishedAt": "2026-04-12T05:56:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2043206579781300420",
-      "quote": {
-        "username": "coinkarma_",
-        "displayName": "CoinKarma",
-        "content": "近日，CoinKarma 成功掌握 $BTC 一波超 10% 的漲幅，與此同時，我們也觀察到，短線上當 Bitfinex whale twap 減倉，同時流動性指標出現負值時，有較大的概率形成短線上的區間頂部。\n\n如圖，近期走勢，當 Bitfinex whale 的 BTC 現貨槓桿部位出現 twap 賣出行為，並與流動性指標形成共振時，往往對應短線上的區間頂部。\n\n🟥 賣出訊號（紅框）：Bitfinex BTCUSD LONGS 減倉 ＋ 10% Overall Liquidity 轉負\n\n當前，Bitfinex whale 再次出現 twap 賣出行為，並與流動性指標形成共振，值得密切關注。",
-        "link": "https://x.com/coinkarma_/status/2043188780346274135",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFrdH9YaMAANSGG.jpg"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
