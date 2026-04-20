@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T04:23:57.001Z",
+  "lastUpdated": "2026-04-20T05:28:50.751Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 545,
+    "newFetched": 544,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2046096579413590302",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "The mistake I see far too often is people trying to capture every minor move. In doing so, they usually miss the one move that actually matters. \n\nThe obsession with catching everything is often what causes them to catch nothing of significance.\n\nThen comes the second error… getting stopped out once and immediately reversing bias. One adverse week of price action is not enough to invalidate a HTF thesis.\n\nSometimes the best opportunities require multiple entries. Sometimes you must absorb one or two failed attempts in order to position for the larger asymmetrical move. \n\nThat is the cost of participating in meaningful opportunity.\n\nWhat traps most people is not being early, it is lacking conviction and discipline to remain aligned with a sound plan when short-term price deviates from expectation. They confuse noise for information, and volatility for invalidation.\n\nThe lesson is simple: being early is rarely fatal. What destroys most is abandoning their bias over short term volatility. \n\nUnless your thesis has been structurally invalidated, temporary movement is just noise, not a reason to reverse course.",
+      "contentHtml": "The mistake I see far too often is people trying to capture every minor move. In doing so, they usually miss the one move that actually matters. \n\nThe obsession with catching everything is often what causes them to catch nothing of significance.\n\nThen comes the second error… getting stopped out once and immediately reversing bias. One adverse week of price action is not enough to invalidate a HTF thesis.\n\nSometimes the best opportunities require multiple entries. Sometimes you must absorb one or two failed attempts in order to position for the larger asymmetrical move. \n\nThat is the cost of participating in meaningful opportunity.\n\nWhat traps most people is not being early, it is lacking conviction and discipline to remain aligned with a sound plan when short-term price deviates from expectation. They confuse noise for information, and volatility for invalidation.\n\nThe lesson is simple: being early is rarely fatal. What destroys most is abandoning their bias over short term volatility. \n\nUnless your thesis has been structurally invalidated, temporary movement is just noise, not a reason to reverse course.",
+      "publishedAt": "2026-04-20T05:20:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2046096579413590302",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2046082010364653777",
       "username": "Bitfatty",
@@ -11425,27 +11440,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFqPhGkWcAA8qhZ.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043103174274486644",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "微软的末日？工作场合的AI智能体\n举个例子，我是一家汽车配件的SALES，我需要把内部的数据（存在EXCEL里）和新产品的描述（存在WORD里）做成DECK（POWERPOINT）拿去做路演。\n正常的操作流程是，我下面的分析员打开EXCEL和WORD，把需要东西放入POWERPOINT，发一个PPT文件给我。\n有了AI 智能体后，我把所有需求，数据来源，目的告诉他，他完全取代分析员做的事情，过程里EXCEL和WORD, POWERPOINT需要被调用。这就是老黄说的，软件是工具，被调用，不会被取代。\n然后不要忽略了效率问题，原本分析员一天做一个DECK，现在AI一天做10个DECK，工具被调用次数指数上升。所以AI智能体是一个在所有软件更上一层的软件。\n\n那么问题来了，微软会不会出自己的AI智能体？答案是一定会，也已经有了。那这时候就有了一个分发（DISTRIBUTION）的问题，谁会选ANTHROPIC？一定是现在已经用了他们产品的公司，会付更多的钱订阅COWORK（等于雇佣了一个效率非常高的分析员）。如何让更多的企业知道ANTHROPIC？需要销售跑业务！B2B的行业不会有网络效应，都是企业销售跑出来的。初创公司除外（他们站在科技最前沿，但只是冰山一角）。而对于微软来说，只需要利用现有的渠道，推出自己最新的COPILOT。\n\n最后，也是最重要的，对大多数的企业来说，还记不记得疫情是ZM的例子？明明ZM是个更好的产品，为什么大企业里不用？安全。即使后面ZM解决了所谓的安全问题，到现在6年了，ZM仍然没有威胁到微软。给AI智能体权限调用你公司WORD, EXCEL然后在云上面跑？牵涉到公司隐私的数据不敢的。\n\n所以从大多数的企业角度看，我认为终局有两个最有可能的方向：\n1. 建私云（成本很大，大公司可以），推理在私云上跑\n2. EDGE AI，推理不上云（有点类似于员工/AI去公司上班，下班时啥都不会带走，所有公司信息全部停留在公司电脑上）\n中间状态可能是未来3-5年的主流：混合架构。敏感数据（财务、法律、HR）走本地或私有云推理，非敏感的工作（市场研究、公开数据分析、邮件起草）走云端LLM\n微软不会是末日，反而是AI agent时代的赢家 — 不是因为他们的AI有多强，而是因为他们掌握了企业的数据、信任和分发关系，这就是我一直拿他和苹果做比喻。",
-      "contentHtml": "微软的末日？工作场合的AI智能体\n举个例子，我是一家汽车配件的SALES，我需要把内部的数据（存在EXCEL里）和新产品的描述（存在WORD里）做成DECK（POWERPOINT）拿去做路演。\n正常的操作流程是，我下面的分析员打开EXCEL和WORD，把需要东西放入POWERPOINT，发一个PPT文件给我。\n有了AI 智能体后，我把所有需求，数据来源，目的告诉他，他完全取代分析员做的事情，过程里EXCEL和WORD, POWERPOINT需要被调用。这就是老黄说的，软件是工具，被调用，不会被取代。\n然后不要忽略了效率问题，原本分析员一天做一个DECK，现在AI一天做10个DECK，工具被调用次数指数上升。所以AI智能体是一个在所有软件更上一层的软件。\n\n那么问题来了，微软会不会出自己的AI智能体？答案是一定会，也已经有了。那这时候就有了一个分发（DISTRIBUTION）的问题，谁会选ANTHROPIC？一定是现在已经用了他们产品的公司，会付更多的钱订阅COWORK（等于雇佣了一个效率非常高的分析员）。如何让更多的企业知道ANTHROPIC？需要销售跑业务！B2B的行业不会有网络效应，都是企业销售跑出来的。初创公司除外（他们站在科技最前沿，但只是冰山一角）。而对于微软来说，只需要利用现有的渠道，推出自己最新的COPILOT。\n\n最后，也是最重要的，对大多数的企业来说，还记不记得疫情是ZM的例子？明明ZM是个更好的产品，为什么大企业里不用？安全。即使后面ZM解决了所谓的安全问题，到现在6年了，ZM仍然没有威胁到微软。给AI智能体权限调用你公司WORD, EXCEL然后在云上面跑？牵涉到公司隐私的数据不敢的。\n\n所以从大多数的企业角度看，我认为终局有两个最有可能的方向：\n1. 建私云（成本很大，大公司可以），推理在私云上跑\n2. EDGE AI，推理不上云（有点类似于员工/AI去公司上班，下班时啥都不会带走，所有公司信息全部停留在公司电脑上）\n中间状态可能是未来3-5年的主流：混合架构。敏感数据（财务、法律、HR）走本地或私有云推理，非敏感的工作（市场研究、公开数据分析、邮件起草）走云端LLM\n微软不会是末日，反而是AI agent时代的赢家 — 不是因为他们的AI有多强，而是因为他们掌握了企业的数据、信任和分发关系，这就是我一直拿他和苹果做比喻。",
-      "publishedAt": "2026-04-11T23:05:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2043103174274486644",
-      "quote": {
-        "username": "claudeai",
-        "displayName": "Claude",
-        "content": "Claude for Word is now in beta.\n\nDraft, edit, and revise documents directly from the sidebar. Claude preserves your formatting, and edits appear as tracked changes.\n\nAvailable on Team and Enterprise plans.",
-        "link": "https://x.com/claudeai/status/2042670341915295865"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
