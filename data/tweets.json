@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T21:18:46.182Z",
+  "lastUpdated": "2026-04-20T21:47:34.844Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 545,
+    "newFetched": 546,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2046340938432483779",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "苹果换CEO，TIM COOK退位到执行董事，并非离开苹果，也并非只挂名，而是还会参与公司运营等。通常一家公司换CEO或者管理层都会为公司带来不一样的文化。\n继承CEO位置的是John Ternus，硬件工程师的高级副总，如果说TIM COOK和乔布斯一个偏供应链和策略，一个偏工程和创造。John Ternus更偏向于乔布斯。市场也认为苹果换帅之后将会更加拥抱AI。我个人对于苹果仍然是乐观的，具体的管理风格，做决策是稳健还是激进，有待验证。",
+      "contentHtml": "苹果换CEO，TIM COOK退位到执行董事，并非离开苹果，也并非只挂名，而是还会参与公司运营等。通常一家公司换CEO或者管理层都会为公司带来不一样的文化。\n继承CEO位置的是John Ternus，硬件工程师的高级副总，如果说TIM COOK和乔布斯一个偏供应链和策略，一个偏工程和创造。John Ternus更偏向于乔布斯。市场也认为苹果换帅之后将会更加拥抱AI。我个人对于苹果仍然是乐观的，具体的管理风格，做决策是稳健还是激进，有待验证。",
+      "publishedAt": "2026-04-20T21:31:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2046340938432483779",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2046329898092871981",
       "username": "TJ_Research",
@@ -5335,31 +5350,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHGBustaWAAAQw-2.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044785261393977612",
-      "username": "claudeai",
-      "displayName": "Claude",
-      "avatar": "https://nitter.net/pic/profile_images%2F1950950107937185792%2FQOfEjFoJ_bigger.jpg",
-      "content": "Introducing Claude Opus 4.7, our most capable Opus model yet.\n\nIt handles long-running tasks with more rigor, follows instructions more precisely, and verifies its own outputs before reporting back.\n\nYou can hand off your hardest work with less supervision.",
-      "contentHtml": "Introducing Claude Opus 4.7, our most capable Opus model yet.\n\nIt handles long-running tasks with more rigor, follows instructions more precisely, and verifies its own outputs before reporting back.\n\nYou can hand off your hardest work with less supervision.",
-      "publishedAt": "2026-04-16T14:29:00.000Z",
-      "link": "https://x.com/claudeai/status/2044785261393977612",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGCGugrXUAAKcHp.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
       },
       "stats": {
         "replies": 0,
