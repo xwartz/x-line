@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T03:10:00.685Z",
+  "lastUpdated": "2026-04-21T04:20:42.047Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,44 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 546,
+    "newFetched": 547,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2046430941191811372",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "历史从来不会重演，但会押韵！\n虽说如此，但我也没想要会如此押韵......\n\n“投资者信心指数”几乎走出了与上轮周期完全一致的波动形态。只是相比于2021年12月-2022年1月，如今这段更“迷你”，跨度更短。\n\n截止到4月20日红色区距离回到上方零轴的距离与2022年10月22日一样。\n\n也就是说，如果没有后面FTX暴雷的黑天鹅事件，“投资者信心指数”大致将在20多天后回到零轴。\n\n回到零轴将意味着什么，不用我多说了吧？这将是一个重要的里程碑！\n\n即便后面BTC再次下探，甚至跌破前低，只要红色区的偏离幅度小于之前的低点（标注3），我们就可以确认：这是本轮熊市的“最后一跌”。",
+      "contentHtml": "历史从来不会重演，但会押韵！\n虽说如此，但我也没想要会如此押韵......\n\n“投资者信心指数”几乎走出了与上轮周期完全一致的波动形态。只是相比于2021年12月-2022年1月，如今这段更“迷你”，跨度更短。\n\n截止到4月20日红色区距离回到上方零轴的距离与2022年10月22日一样。\n\n也就是说，如果没有后面FTX暴雷的黑天鹅事件，“投资者信心指数”大致将在20多天后回到零轴。\n\n回到零轴将意味着什么，不用我多说了吧？这将是一个重要的里程碑！\n\n即便后面BTC再次下探，甚至跌破前低，只要红色区的偏离幅度小于之前的低点（标注3），我们就可以确认：这是本轮熊市的“最后一跌”。",
+      "publishedAt": "2026-04-21T03:28:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2046430941191811372",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGZhjA5bkAAP_tw.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "“物极必反” 这一自然规律放到金融市场也一样有效。\n\n在3月2日的推文中，我们看到”投资者信心指数“出现了一个并不常见的“极端负值”。\n\n在历史上但凡能市场情绪能低落到如此程度的，此后要不迎来一段反弹行情，要不实际上已距离熊底不远了。\n\n虽然，时至今日我们仍然不知道当前是否就属于后者，但至少”反弹“是看到了。\n\n与此同时，信心指数正随时间推移不断的向零轴靠近。只要站上零轴，即表示熊市结束。\n\n我们可以做个不那么严谨的测算：如果此后在没有任何意外导致中断的前提下，按近10天的平均速度，回到零轴大约还需要 —— 47天！\n\n我知道，这样的计算可能并不具备任何实际意义。因为往往都是“不出意外的话意外就要出现了......”\n\n但可以给我们自己一点信心，\n比特币的世界，从来没有永夜！\n当第一缕阳光撕开黑暗时，迷雾终将散尽。",
+        "link": "https://x.com/Murphychen888/status/2033717455340646527",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDisNiYaEAAUdnd.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2046418466266366051",
       "username": "Bitfatty",
@@ -307,6 +340,31 @@
             "url": "https://nitter.net/pic/orig/media%2FHGYGRSTbMAAhMkZ.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2046370183309382079",
+      "username": "ChainLinkGod",
+      "displayName": "Zach Rynes | CLG",
+      "avatar": "https://nitter.net/pic/profile_images%2F1799188365302018048%2FadkupUUf_bigger.jpg",
+      "content": "Look guys, it's actually really straightforward, a bunch of people staked their ETH on the Ethereum blockchain to earn yield, except they didn't want their capital to be locked up, so they actually staked with a liquid staking protocol called Lido who provided them a liquid staking receipt token called stETH, except they decided to juice their yield further by depositing their stETH receipt tokens into a restaking protocol called Eigenlayer, except they didn't want to lock up their capital, so they actually restaked with a liquid restaking protocol called KelpDAO who provided them with a liquid restaking receipt token called rsETH, except they decided to juice their yield further by depositing their rsETH tokens into a lending protocol called Aave so that they could open a leveraged looping position that borrows ETH against the rsETH collateral and restakes the ETH into rsETH which is then deposited as collateral, except it turns out rsETH used a cross-chain bridge called LayerZero that was hacked by north koreans causing rsETH to become undercollateralized and now these looping positions are stuck and unprofitable, and everyone is pointing fingers at each other, and also DeFi is a very serious industry",
+      "contentHtml": "Look guys, it's actually really straightforward, a bunch of people staked their ETH on the Ethereum blockchain to earn yield, except they didn't want their capital to be locked up, so they actually staked with a liquid staking protocol called Lido who provided them a liquid staking receipt token called stETH, except they decided to juice their yield further by depositing their stETH receipt tokens into a restaking protocol called Eigenlayer, except they didn't want to lock up their capital, so they actually restaked with a liquid restaking protocol called KelpDAO who provided them with a liquid restaking receipt token called rsETH, except they decided to juice their yield further by depositing their rsETH tokens into a lending protocol called Aave so that they could open a leveraged looping position that borrows ETH against the rsETH collateral and restakes the ETH into rsETH which is then deposited as collateral, except it turns out rsETH used a cross-chain bridge called LayerZero that was hacked by north koreans causing rsETH to become undercollateralized and now these looping positions are stuck and unprofitable, and everyone is pointing fingers at each other, and also DeFi is a very serious industry",
+      "publishedAt": "2026-04-20T23:27:00.000Z",
+      "link": "https://x.com/ChainLinkGod/status/2046370183309382079",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGYqvwZaQAAAJZw.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
       },
       "stats": {
         "replies": 0,
@@ -11294,66 +11352,6 @@
       "contentHtml": "There is only one opportunity left in crypto and it's called tradexyz",
       "publishedAt": "2026-04-12T14:11:00.000Z",
       "link": "https://x.com/Cbb0fe/status/2043331206394040593",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043326193001476486",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "1011前三天开始我每天直播  喊看我直播的人开空\n\n😂1011睡醒人有点恍惚\n因为计划跌2个月才能跌到10万附近，突然单子全没了(直接打到止盈了)\n\n传送门 piped.video/live/aKEM9qiOAz8…",
-      "contentHtml": "1011前三天开始我每天直播  喊看我直播的人开空\n\n😂1011睡醒人有点恍惚\n因为计划跌2个月才能跌到10万附近，突然单子全没了(直接打到止盈了)\n\n传送门 <a href=\"https://piped.video/live/aKEM9qiOAz8?si=Oc2PHnJHQZUfL0d0\">piped.video/live/aKEM9qiOAz8…</a>",
-      "publishedAt": "2026-04-12T13:51:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2043326193001476486",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFtaVpqb0AEqdbr.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Dive94325209",
-        "displayName": "可行路",
-        "content": "10,11把你吓惨了",
-        "link": "https://x.com/Dive94325209/status/2043250138572030102"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043320806982484279",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "庄家：这次的鲸鱼有点难杀🫤\n\n「先定 10 个大目标」老哥 @Jason60704294 的空单已浮盈 321 万美元\n\n▶︎ $BTC 空单：2567.49 枚，开仓价 $71554.61，浮赢 118.5 万美元 \n▶︎ $ETH 空单：38465.22 枚，开仓价 $2248.74，浮赢 202.8 万美元\n\n美伊谈判未果，大盘再次下探，老哥又双叒回到水上了，真是难杀啊",
-      "contentHtml": "庄家：这次的鲸鱼有点难杀🫤\n\n「先定 10 个大目标」老哥 <a href=\"/Jason60704294\" title=\"jasonleo\">@Jason60704294</a> 的空单已浮盈 321 万美元\n\n▶︎ <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 空单：2567.49 枚，开仓价 $71554.61，浮赢 118.5 万美元 \n▶︎ <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 空单：38465.22 枚，开仓价 $2248.74，浮赢 202.8 万美元\n\n美伊谈判未果，大盘再次下探，老哥又双叒回到水上了，真是难杀啊",
-      "publishedAt": "2026-04-12T13:30:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2043320806982484279",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFtVZ7Ia8AAwOg7.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "止损了吗？\n\n“单子还在，已盈利”",
-        "link": "https://x.com/ai_9684xtpa/status/2043146744092074039",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFq3FIkbwAA8DOk.png"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
