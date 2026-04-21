@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T17:09:17.407Z",
+  "lastUpdated": "2026-04-21T17:37:42.840Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,59 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 545,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 523,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2046640374568141162",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "太舒服了！！！！！\n币圈开会，不去跑会在家开单\n好几次都是这样来机会的👻\n\n我不骂了，求交易所多多开会，跪求一个月开三次骚鸡聚会",
+      "contentHtml": "太舒服了！！！！！\n币圈开会，不去跑会在家开单\n好几次都是这样来机会的👻\n\n我不骂了，求交易所多多开会，跪求一个月开三次骚鸡聚会",
+      "publishedAt": "2026-04-21T17:21:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2046640374568141162",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2046637292224450995",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "油涨万物死",
+      "contentHtml": "油涨万物死",
+      "publishedAt": "2026-04-21T17:08:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2046637292224450995",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGcdxAObUAAeDYj.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "损了立马反手\n\n油落万物生！",
+        "link": "https://x.com/Bitfatty/status/2043885126887862278",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHF1WsRkasAAjUc8.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2046632156622200964",
       "username": "TJ_Research",
@@ -1189,45 +1237,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHGXl9DubUAAFohG.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2046289465644368256",
-      "username": "0x_VincentL",
-      "displayName": "Vincent.L /*acc | Alpha ᴺ",
-      "avatar": "https://nitter.net/pic/profile_images%2F1932585661930016768%2FwWfpDSaU_bigger.jpg",
-      "content": "基于 @coolish 自己分享的交易开源数据,用我的Prompt解析了一版数据报告,这里给大家翻译了一版网页:   traderpaul.lovable.app\n\n我认为这类交易方式适合以下几类trader参考:\n有实盘经验的波段交易员\nBTC 本位思维的人\n愿意把交易当系统工程的人\n\n不适合参考的人: \n合约新手\n情绪化交易者\n小资金暴富型玩家",
-      "contentHtml": "基于 <a href=\"/coolish\" title=\"paulwei\">@coolish</a> 自己分享的交易开源数据,用我的Prompt解析了一版数据报告,这里给大家翻译了一版网页:   <a href=\"https://traderpaul.lovable.app\">traderpaul.lovable.app</a>\n\n我认为这类交易方式适合以下几类trader参考:\n有实盘经验的波段交易员\nBTC 本位思维的人\n愿意把交易当系统工程的人\n\n不适合参考的人: \n合约新手\n情绪化交易者\n小资金暴富型玩家",
-      "publishedAt": "2026-04-20T18:06:00.000Z",
-      "link": "https://x.com/0x_VincentL/status/2046289465644368256",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGXf01maAAAve_V.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGXf2mjbIAArVPn.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGXf30MaEAA0U_R.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "coolish",
-        "displayName": "paulwei"
-      },
-      "quote": {
-        "username": "coolish",
-        "displayName": "paulwei",
-        "content": "今天我把近6年BTC历史交易数据，开源到Github了：\ngithub.com/bwjoke/BTC-Tradin…\n\n2020年5月1日至今4万多条订单，17万多条成交明细，\n两轮完整牛熊2000多天日夜博弈，全在这套数据里。\n\nAI时代，最宝贵的就是上下文。\n你在整个互联网，可能都很难找到这种等级的\n真金白银二级市场交易上下文数据，任你下载使用。\n\n去年11月，我把Bitmex只读Api Key公开一两周时，\n还没龙虾，就少数网友vibe了一些数据分析、产品。\n比如：\n@WeWill_Rocky 做的 wsnb.online\n我自己做的交易时光机：nitter.net/coolish/status/1997546…\n当时其他一些相关内容：nitter.net/coolish/status/1993190…\n\n现在更多人有了龙虾、爱马仕，\n把个人二级交易真金白银数据喂给AI Agent这件事，\n门槛大大降低，更多人能做了，也有了更高的含金量。\n\n所以秉承Open Intelligence理念，\n我想向这个混沌的世界贡献自己的减熵Legacy，\n在Hermes-Agent的帮助下，\n开源了这个数据仓库，\n后续可能尝试自动化定期更新。\n\n只要把这个Github网址\ngithub.com/bwjoke/BTC-Tradin…\n发给你的龙虾爱马仕，就能指挥它做任何角度的分析，\n很好奇，大家对这样一份数据，\n能炼化出些什么奇趣的角度？\n希望能在后续看到一些有趣的回响。\nHappy vibing & Happy birthday to myself",
-        "link": "https://x.com/coolish/status/2045420631295242340"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11235,21 +11244,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHFwxoqQb0AA_igl.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043561801510687044",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "正在做MM的大多如履薄冰半句不敢吭声，反倒是不懂MM的半吊子瞎几把编流量文分析，努力表现的很懂很装b，试图找点傻逼冤种项目方过来骗点筹码砸了。能骗一个赚一个，无本万利。",
-      "contentHtml": "正在做MM的大多如履薄冰半句不敢吭声，反倒是不懂MM的半吊子瞎几把编流量文分析，努力表现的很懂很装b，试图找点傻逼冤种项目方过来骗点筹码砸了。能骗一个赚一个，无本万利。",
-      "publishedAt": "2026-04-13T05:27:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2043561801510687044",
       "stats": {
         "replies": 0,
         "retweets": 0,
