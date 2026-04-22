@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T14:36:24.324Z",
+  "lastUpdated": "2026-04-22T15:11:47.132Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,9 +93,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 523,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 542,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -1164,10 +1164,6 @@
       "contentHtml": "新联储主席凯文.沃什的主张：降息+缩表\n降息的理由是不用多聊，主要说说缩表。\n多数人不知道美联储负债表端的组成：\n\n1. 流通货币：2.4万亿。流通货币随着GDP增速，长期一直向上，所以美联储长期扩表是一个自然的过程\n\n2. 银行准备金：3万亿。现在的水平在充足（AMPLE）阶段，不能再降了，所以美联储是上年底开始小型扩表计划\n\n3. TGA（财政部现金账户）：1万亿。应对平时财政支出，当TGA下降，给市场放水，上升，抽水。4月份的退税季度，TGA需要上升，想一下，如果美联储不推出小型QE，那现金就会从银行准备金进入政府的TGA账户。再进一步，如果当TGA下降时，美联储不继续缩表，那钱会从政府账户进入个人在银行的账户，准备金就上升了！无论个人或者银行都可以去做投资或者借贷。\n\n4. ON RRP（逆回购）：0\n\n看懂了这些之后回到沃什的主张，他的确认为美联储不应该持有那么大的负债表，那么问题来了，哪里的表他可以缩？只有银行的准备金，但现在准备金只是在充足阶段，且25年季度底已经看到了短期流动性的紧缺。那即使沃什想缩，也缩不了。除非美联储降低银行准备金的要求，那也就是先给银行松绑！然后可以开启他的缩表。\n\n最后对于资产价格的影响，短期噪音，长期我觉得他会是一个合格的联储主席（该鹰的时候鹰，其他情况下偏鸽）",
       "publishedAt": "2026-04-21T16:48:00.000Z",
       "link": "https://x.com/TJ_Research/status/2046632156622200964",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2734,6 +2730,37 @@
           "url": "https://nitter.net/pic/orig/media%2FHGVQ0tkaUAAhiyA.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2046130509970092396",
+      "username": "jukan05",
+      "displayName": "Jukan",
+      "avatar": "https://nitter.net/pic/profile_images%2F2037840794992988160%2FtnSqJgqt_bigger.jpg",
+      "content": "I’m not saying this without evidence.",
+      "contentHtml": "I’m not saying this without evidence.",
+      "publishedAt": "2026-04-20T07:35:00.000Z",
+      "link": "https://x.com/jukan05/status/2046130509970092396",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGVQuKEakAAyVw4.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "quote": {
+        "username": "jukan05",
+        "displayName": "Jukan",
+        "content": "My bold prediction: within the next two years, there will be cases where GPUs cannot be deployed because of CPU shortages.\n\nAccording to industry checks, in some Rubin Ultra configurations, the GPU-to-CPU deployment ratio has already exceeded one GPU to two CPUs.",
+        "link": "https://x.com/jukan05/status/2046122267743240505"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11306,27 +11333,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHFrmTlfX0AA7fy5.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043762441197388025",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "我还在  \n当年空 $alpaca 很多人已经不在了😂\n\n因为我这币安用起来贼卡，每次开单卡两下，烦躁的很\n所以很久没用币安了，真没关注 币安的山寨\n如果按照以前尿性，估计也是开多赚小钱，反手空亏个大的😂\n\n$rave",
-      "contentHtml": "我还在  \n当年空 <a href=\"/search?f=tweets&q=%23alpaca\">$alpaca</a> 很多人已经不在了😂\n\n因为我这币安用起来贼卡，每次开单卡两下，烦躁的很\n所以很久没用币安了，真没关注 币安的山寨\n如果按照以前尿性，估计也是开多赚小钱，反手空亏个大的😂\n\n<a href=\"/search?f=tweets&q=%23rave\">$rave</a>",
-      "publishedAt": "2026-04-13T18:45:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2043762441197388025",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "惯例给个目标\n\n$alpaca 📈目标🎯\n\n0.125\n0.2\n0.4\n\n亏不起的别参与啊，禁止维权，都是流量节目效果",
-        "link": "https://x.com/Bitfatty/status/1915674504489296069"
       },
       "stats": {
         "replies": 0,
