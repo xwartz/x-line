@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T04:18:13.518Z",
+  "lastUpdated": "2026-04-22T05:19:04.037Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 545,
+    "newFetched": 546,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2046812835922264195",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "非常好的科普框架，推荐阅读。\n\n看到后面业务的部分，更感觉到智力和自驱力的“贫富差距”会越来越大。",
+      "contentHtml": "非常好的科普框架，推荐阅读。\n\n看到后面业务的部分，更感觉到智力和自驱力的“贫富差距”会越来越大。",
+      "publishedAt": "2026-04-22T04:46:00.000Z",
+      "link": "https://x.com/taresky/status/2046812835922264195",
+      "quote": {
+        "username": "riverleaf88",
+        "displayName": "River Leaf",
+        "content": "为了给公司不同业务背景的员工科普什么是Agentic AI，我让Claude Code使用slidev做了个演示文稿。真就是把我自己想要讲的基本要点和基本思路作为prompt，然后微调了几个页面的效果，花了不到半小时做出来的……真是方便啊，效果也真的好。感兴趣的朋友可以拿去用，或者一起探讨学习。\n\nintro-agentic-ai.lishun.me",
+        "link": "https://x.com/riverleaf88/status/2046528462631129447",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGa6qdZb0AAaIyf.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2046798419201835107",
       "username": "Bitfatty",
@@ -11293,27 +11320,6 @@
       "contentHtml": "最霸气的告白语是什么？\n\n你逼我的。",
       "publishedAt": "2026-04-13T14:38:00.000Z",
       "link": "https://x.com/hazenlee/status/2043700441524179100",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043693433643032812",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "出息了，大盘股也能喊上去",
-      "contentHtml": "出息了，大盘股也能喊上去",
-      "publishedAt": "2026-04-13T14:10:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2043693433643032812",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHFynYdKa4AAm4aQ.png"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
