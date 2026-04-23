@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T04:20:37.150Z",
+  "lastUpdated": "2026-04-23T05:20:13.190Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 542,
+    "newFetched": 543,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2047170083416621403",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "朋友锐评：你这是把黄金当山寨币了是吧\n我回：黄金涨的比山寨币流畅多了",
+      "contentHtml": "朋友锐评：你这是把黄金当山寨币了是吧\n我回：黄金涨的比山寨币流畅多了",
+      "publishedAt": "2026-04-23T04:25:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2047170083416621403",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGkCJT0bMAAlcL6.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2047167439407104185",
       "username": "Murphychen888",
@@ -11295,37 +11316,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHF1vwZ-bkAAKUen.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043898332641157519",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "4月2日SEMIANALYSIS的文章，我视频也聊过，算力的紧缺，文中直接聊到了利好NEOCLOUD。可惜那时候多数人都在关注战争的进展🥲",
-      "contentHtml": "4月2日SEMIANALYSIS的文章，我视频也聊过，算力的紧缺，文中直接聊到了利好NEOCLOUD。可惜那时候多数人都在关注战争的进展🥲",
-      "publishedAt": "2026-04-14T03:45:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2043898332641157519",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF1iPi1asAM4EuQ.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF1ilIdXwAAecp5.png"
-        }
-      ],
-      "quote": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君",
-        "content": "最近很多人在抱怨大模型变傻了。如果有关注H100的租赁价格，应该不会感到意外。从CLAUDE CODE落地，到OPENCLAW现象级爆发，一切都能串起来。\n大模型变傻了因为LLM放在推理这里的单位算力减少了，需求太大，所以所有人的体验下降，模型降智。再思考下去就是算力的供给（数据中心上线）跟不上训练+推理的需求。\n从云厂的角度看，他们长期要降低推理的价格，这样才能有更多人用，覆盖面更广，使用场景更多。但现在成本相对比较高的情况下，还是出现了算力不够用的情况，说明推理的需求太强了。DARIO两个月前接受过采访，他说理论上他们会有一个预设的训练和推理算力的分配比例，比如50/50。而最终训练能分到多少，取决于推理有多少需求。如果推理需求太高，营收太高，那训练分到的算力自然就少，但同时公司就赚钱了。公司会赚钱，因为低估了落地的需求。",
-        "link": "https://x.com/TJ_Research/status/2043895086572863809"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
