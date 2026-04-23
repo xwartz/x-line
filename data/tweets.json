@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T03:06:35.199Z",
+  "lastUpdated": "2026-04-23T04:20:37.150Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,153 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 543,
+    "newFetched": 542,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2047167439407104185",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "7.9w了，为什么我仍不想追空？\n\n合约市场对空双方持仓量永远 1:1 对称，在不考虑手续费、资金费、滑点等交易成本时，盈亏近似零和，即多头赚的钱就是空头亏的钱。\n\n所以，空单要能开出来，得有同样仓位的空单平仓或多单开仓来作为对手盘。\n\n如果是“新空头开仓 vs 老空头平仓”撮合，OI（Open Interest）不变；如果是“新空头开仓 vs 新多头开仓”撮合，OI上升；\n\n截止昨天，OI再次回到近期高点（47.2w枚BTC），说明这轮行情中新增仓位重新累积，市场正在堆杠杆（当然，这里包含了方向性押注和套保资金）。\n\n由于永续合“永不交割”，如没有任何机制，永续价格可以无限偏离现货。为了让合约价格可以锚定现货价格，就有了“资金费率”这个东西。\n\n虽然多空持仓对称，但买卖的主动方向不对称。\n\n当大家都急着做空，使得永续价格在现货之下（出现负溢价），那么空头就要向多头付费。换言之，做空的人需要付钱才能找到对手盘。\n\n所以，你看到的付费率不是指空头更多，而是表示做空的人更主动。\n\n昨天高峰期，空头平均每小时向多头支付资金费达到60.4w美元；虽然小于4/17的峰值（79w美元），但仍然远超7日均值（19.7w美元）。\n\n这是巨大的成本压力！\n\n空头每小时烧钱维持仓位，时间越长越不划算。一旦价格反弹，这些空头要么主动平仓（买盘），要么被强平（强制买盘）。\n\n两种情况都会形成short squeeze，从而成为了燃料。\n\n当然，并不是说只要“负费率”就一定会产生轧空行情。只是说OI越高，负溢价越严重，就越容易触发。\n\n比如在3/9和4/13这2天，多头溢价7日均值开始转负，此后都出现了一波反弹：3/9是6.6w到7.5w；4/13是7w到目前7.9w。\n\n在今年1月BTC反弹至$97,000时并没有出现这样的情况，到阻力位后回调也很快。而这次情况有所不同，可能就让短期行情变得更加复杂。\n\n正如4月18日我在推文中所说：“从小老师就告诉我们，人多的地方不要去，可能有危险”；不是“一定”，是“可能”。\n\n也就是说，我觉得这里不是一个赔率特别舒服、逻辑特别顺的开空点。\n\n当然，如果你说“在4/17 7.8w的时候做空，回调到7.4w平仓又反手开多”；那我只能说一声“牛逼！”，我承认自己没那个本事，赚不了这个钱。",
+      "contentHtml": "7.9w了，为什么我仍不想追空？\n\n合约市场对空双方持仓量永远 1:1 对称，在不考虑手续费、资金费、滑点等交易成本时，盈亏近似零和，即多头赚的钱就是空头亏的钱。\n\n所以，空单要能开出来，得有同样仓位的空单平仓或多单开仓来作为对手盘。\n\n如果是“新空头开仓 vs 老空头平仓”撮合，OI（Open Interest）不变；如果是“新空头开仓 vs 新多头开仓”撮合，OI上升；\n\n截止昨天，OI再次回到近期高点（47.2w枚BTC），说明这轮行情中新增仓位重新累积，市场正在堆杠杆（当然，这里包含了方向性押注和套保资金）。\n\n由于永续合“永不交割”，如没有任何机制，永续价格可以无限偏离现货。为了让合约价格可以锚定现货价格，就有了“资金费率”这个东西。\n\n虽然多空持仓对称，但买卖的主动方向不对称。\n\n当大家都急着做空，使得永续价格在现货之下（出现负溢价），那么空头就要向多头付费。换言之，做空的人需要付钱才能找到对手盘。\n\n所以，你看到的付费率不是指空头更多，而是表示做空的人更主动。\n\n昨天高峰期，空头平均每小时向多头支付资金费达到60.4w美元；虽然小于4/17的峰值（79w美元），但仍然远超7日均值（19.7w美元）。\n\n这是巨大的成本压力！\n\n空头每小时烧钱维持仓位，时间越长越不划算。一旦价格反弹，这些空头要么主动平仓（买盘），要么被强平（强制买盘）。\n\n两种情况都会形成short squeeze，从而成为了燃料。\n\n当然，并不是说只要“负费率”就一定会产生轧空行情。只是说OI越高，负溢价越严重，就越容易触发。\n\n比如在3/9和4/13这2天，多头溢价7日均值开始转负，此后都出现了一波反弹：3/9是6.6w到7.5w；4/13是7w到目前7.9w。\n\n在今年1月BTC反弹至$97,000时并没有出现这样的情况，到阻力位后回调也很快。而这次情况有所不同，可能就让短期行情变得更加复杂。\n\n正如4月18日我在推文中所说：“从小老师就告诉我们，人多的地方不要去，可能有危险”；不是“一定”，是“可能”。\n\n也就是说，我觉得这里不是一个赔率特别舒服、逻辑特别顺的开空点。\n\n当然，如果你说“在4/17 7.8w的时候做空，回调到7.4w平仓又反手开多”；那我只能说一声“牛逼！”，我承认自己没那个本事，赚不了这个钱。",
+      "publishedAt": "2026-04-23T04:15:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2047167439407104185",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGj6XvmbwAAEsbX.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGj6bY3agAAqTjQ.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "78以上已经到了我预期中的极端性高点区间，原本是想空一单。但当我看到下面这张图，还是忍住了。\n\n当前期货市场，永续合约空头平均每小时向多头支付资金费达到47.3w美元，负溢价的同时OI还在上升......\n\n（1月14日反弹至9.7w的时候没有这种现象）\n\n从小老师就告诉我们，人多的地方不要去，可能有危险！我一向都是个听话的孩子。",
+        "link": "https://x.com/Murphychen888/status/2045330776552783967",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGJ40VXaUAATlBN.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047157051395338618",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "100% with Ari on this. i turn to handcrafting (knotting especially) & cooking as the process itself will reboot your sense of mastery, which is the innate evolutionary need. and my 93yr old grandpa's zen mastery is calligraphy (work from him this week)",
+      "contentHtml": "100% with Ari on this. i turn to handcrafting (knotting especially) &amp; cooking as the process itself will reboot your sense of mastery, which is the innate evolutionary need. and my 93yr old grandpa's zen mastery is calligraphy (work from him this week)",
+      "publishedAt": "2026-04-23T03:34:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2047157051395338618",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGj2dP7bkAA7Teu.jpg"
+        }
+      ],
+      "quote": {
+        "username": "AriDavidPaul",
+        "displayName": "Ari Paul ⛓️",
+        "content": "A lot of fun and reward happens by embracing chaos.  But when the volatility/unpredictability of markets or life gets tiring, I enjoy turning to basic physical sciences.  A kind of intellectual “touching grass.”  Math and computer science, engineering…anything where you’re learning or engaging in a deterministic process.",
+        "link": "https://x.com/AriDavidPaul/status/2046908173643059345"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047156601682067902",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "能不能 $xau 3600抄底 🥹",
+      "contentHtml": "能不能 <a href=\"/search?f=tweets&q=%23xau\">$xau</a> 3600抄底 🥹",
+      "publishedAt": "2026-04-23T03:32:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2047156601682067902",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGj2E11aQAAIbXX.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047156620371837026",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "太卷了\n卖炸鸡柳的大叔开始卖煎饼果子了\n卖煎饼果子的阿姨开始卖烤冷面了\n这个世界乱了啊",
+      "contentHtml": "太卷了\n卖炸鸡柳的大叔开始卖煎饼果子了\n卖煎饼果子的阿姨开始卖烤冷面了\n这个世界乱了啊",
+      "publishedAt": "2026-04-23T03:32:00.000Z",
+      "link": "https://x.com/hazenlee/status/2047156620371837026",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGj2FIxbsAA2-rd.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047155930287243770",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "有些人的三观是真的很扭曲\nftx挪用资产这是原则问题\n他再怎么牛逼都没用\n就像之前rave操纵\n很多人说不是拉盘怎么也不行一样\n本质不是不允许涨\n是你不能操纵太明显\n这就像打游戏不能开挂\n赚钱不能犯法一样\n如果你觉得这俩事没问题\n成者为王败者寇\n我只能说OK\n你是真特么没下限\n建议别在币圈\n直接去墨西哥",
+      "contentHtml": "有些人的三观是真的很扭曲\nftx挪用资产这是原则问题\n他再怎么牛逼都没用\n就像之前rave操纵\n很多人说不是拉盘怎么也不行一样\n本质不是不允许涨\n是你不能操纵太明显\n这就像打游戏不能开挂\n赚钱不能犯法一样\n如果你觉得这俩事没问题\n成者为王败者寇\n我只能说OK\n你是真特么没下限\n建议别在币圈\n直接去墨西哥",
+      "publishedAt": "2026-04-23T03:29:00.000Z",
+      "link": "https://x.com/hazenlee/status/2047155930287243770",
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "其实不太理解，一个盗用用户资产的人，为什么爆炸头在推特上能天天被吹成神的，ftx倒台不是自己挪用用户资金吗🤔投资项目的钱还是拿的用户的钱。每次看到都尬的不行。",
+        "link": "https://x.com/0xleng1/status/2047130966812979347"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047155886020604258",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "Nope looks bad",
+      "contentHtml": "Nope looks bad",
+      "publishedAt": "2026-04-23T03:29:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2047155886020604258",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2047147351261794716",
       "username": "KillaXBT",
@@ -11183,168 +11325,6 @@
         "displayName": "投资TALK君",
         "content": "最近很多人在抱怨大模型变傻了。如果有关注H100的租赁价格，应该不会感到意外。从CLAUDE CODE落地，到OPENCLAW现象级爆发，一切都能串起来。\n大模型变傻了因为LLM放在推理这里的单位算力减少了，需求太大，所以所有人的体验下降，模型降智。再思考下去就是算力的供给（数据中心上线）跟不上训练+推理的需求。\n从云厂的角度看，他们长期要降低推理的价格，这样才能有更多人用，覆盖面更广，使用场景更多。但现在成本相对比较高的情况下，还是出现了算力不够用的情况，说明推理的需求太强了。DARIO两个月前接受过采访，他说理论上他们会有一个预设的训练和推理算力的分配比例，比如50/50。而最终训练能分到多少，取决于推理有多少需求。如果推理需求太高，营收太高，那训练分到的算力自然就少，但同时公司就赚钱了。公司会赚钱，因为低估了落地的需求。",
         "link": "https://x.com/TJ_Research/status/2043895086572863809"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043895087952748651",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "59分钟开始\npiped.video/watch?v=n1E9IZfv…",
-      "contentHtml": "59分钟开始\n<a href=\"https://piped.video/watch?v=n1E9IZfvGMA\">piped.video/watch?v=n1E9IZfv…</a>",
-      "publishedAt": "2026-04-14T03:32:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2043895087952748651",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043895086572863809",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "最近很多人在抱怨大模型变傻了。如果有关注H100的租赁价格，应该不会感到意外。从CLAUDE CODE落地，到OPENCLAW现象级爆发，一切都能串起来。\n大模型变傻了因为LLM放在推理这里的单位算力减少了，需求太大，所以所有人的体验下降，模型降智。再思考下去就是算力的供给（数据中心上线）跟不上训练+推理的需求。\n从云厂的角度看，他们长期要降低推理的价格，这样才能有更多人用，覆盖面更广，使用场景更多。但现在成本相对比较高的情况下，还是出现了算力不够用的情况，说明推理的需求太强了。DARIO两个月前接受过采访，他说理论上他们会有一个预设的训练和推理算力的分配比例，比如50/50。而最终训练能分到多少，取决于推理有多少需求。如果推理需求太高，营收太高，那训练分到的算力自然就少，但同时公司就赚钱了。公司会赚钱，因为低估了落地的需求。",
-      "contentHtml": "最近很多人在抱怨大模型变傻了。如果有关注H100的租赁价格，应该不会感到意外。从CLAUDE CODE落地，到OPENCLAW现象级爆发，一切都能串起来。\n大模型变傻了因为LLM放在推理这里的单位算力减少了，需求太大，所以所有人的体验下降，模型降智。再思考下去就是算力的供给（数据中心上线）跟不上训练+推理的需求。\n从云厂的角度看，他们长期要降低推理的价格，这样才能有更多人用，覆盖面更广，使用场景更多。但现在成本相对比较高的情况下，还是出现了算力不够用的情况，说明推理的需求太强了。DARIO两个月前接受过采访，他说理论上他们会有一个预设的训练和推理算力的分配比例，比如50/50。而最终训练能分到多少，取决于推理有多少需求。如果推理需求太高，营收太高，那训练分到的算力自然就少，但同时公司就赚钱了。公司会赚钱，因为低估了落地的需求。",
-      "publishedAt": "2026-04-14T03:32:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2043895086572863809",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043892860186177694",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "现在回看，4/12的止损是不是很有必要，当时是浮亏 -8.6%，如果不损，现在就要亏-14.8%。\n\n当亏损变多的时候，人的正常心理又会开始纠结了：是不是反弹快要见顶？要不要再扛一下？\n\n然后就有可能-20%，-30%......直到彻底失控，最终就是爆仓。这种情绪交易在来时的路上看的太多太多。\n\n或许你会说，7/13不是回调到70600了吗，可以在那里先止盈，再反手开多啊。\n\n我告诉你：几乎不可能！\n\n如果你在73500的时候不损，侥幸取胜后，那么70600的时候大概率一样不会止盈，因为贪婪会让你对侥幸产生依赖。\n\n我们都不是圣人！\n\n但交易却偏偏就要和人性对抗，这才是最难的地方。我不否认有个别天才交易员，天生就具备这种属性，但大多数交易者都不是天才，甚至穷极一生，也无法领悟。\n\n所以，就更应该从每一次失败的交易中总结教训，否则这“打”就白挨了，而且下次可能被打得更惨。",
-      "contentHtml": "现在回看，4/12的止损是不是很有必要，当时是浮亏 -8.6%，如果不损，现在就要亏-14.8%。\n\n当亏损变多的时候，人的正常心理又会开始纠结了：是不是反弹快要见顶？要不要再扛一下？\n\n然后就有可能-20%，-30%......直到彻底失控，最终就是爆仓。这种情绪交易在来时的路上看的太多太多。\n\n或许你会说，7/13不是回调到70600了吗，可以在那里先止盈，再反手开多啊。\n\n我告诉你：几乎不可能！\n\n如果你在73500的时候不损，侥幸取胜后，那么70600的时候大概率一样不会止盈，因为贪婪会让你对侥幸产生依赖。\n\n我们都不是圣人！\n\n但交易却偏偏就要和人性对抗，这才是最难的地方。我不否认有个别天才交易员，天生就具备这种属性，但大多数交易者都不是天才，甚至穷极一生，也无法领悟。\n\n所以，就更应该从每一次失败的交易中总结教训，否则这“打”就白挨了，而且下次可能被打得更惨。",
-      "publishedAt": "2026-04-14T03:23:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2043892860186177694",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF1Y7c5asAEXSsE.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF1ZHooacAA1g9n.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "说实话，这在我的技术指标上是极其罕见的！\n\n4小时级别连续出现3次超买信号（通常1-2次就要回调），叠加上升势能持续的顶背离，但价格却没下来的情况。至少从今年初到现在，是头一次见到（见图1）。\n\n这让之前首次背离+超买信号在$71,500开的空单显得有些早了，但交易的不确定性就是对特殊情况无法提前预期。虽然我在$73,000又补了一单，但短期来看，确实还有向上的可能性。\n\n👉 原因有以下2点：\n\n1、从BTC现货成交量差值（CVD）看，当前Binance（黄线）和其他交易所（灰线）的CVD都已经从底部回升并超过了90日中位数（红线），代表交易所内现货主动买盘的回升（见图2）。这也是对短期价格最直接的支撑力量。\n\n2、从4月8日开始，Binance上USDC/USDT的汇率从之前在1以上，变成持续在1以下，即大量USDC卖出换成USDT；由于USDT的交易深度要远好于USDC，因此可以将其视为资金有“进场意图”的表现。\n\n基于以上判断，我把止损设在$73,500；虽然我不认为趋势就此反转，但该损还得损，不扛单这是纪律。在短期上/下都有可能的敏感位置，不依赖“预判”，只做好“预案”。\n\n但也正如我们昨天所分析的，$73,000是BTC的“实现净盈亏比”正好卡在盈亏平衡的时候，盈亏比波幅逐渐缩小是必然途径，因此向上的空间不会很大。\n\n推文链接如下：nitter.net/Murphychen888/status/2…\n\n如果继续向上，等BRS回到零轴，或价格无限接近关键成本基础时再找机会，那时的盈亏比会更合适。挨打不要紧，总结、复盘、完善系统，不然就白挨了。\n\n（本文写于4月11日晚）",
-        "link": "https://x.com/Murphychen888/status/2043139538176921686",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFoCeHUa8AASCeN.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFoCeHTa0AA5qFu.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043885126887862278",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "损了立马反手\n\n油落万物生！",
-      "contentHtml": "损了立马反手\n\n油落万物生！",
-      "publishedAt": "2026-04-14T02:52:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2043885126887862278",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF1WsRkasAAjUc8.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043882388984606721",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://nitter.net/pic/profile_images%2F2044634505223471104%2FQkfdqSWN_bigger.jpg",
-      "content": "回顧 4/12 的分析，當區間頂部指標觸發後， $BTC 從 74K 回落至 70K。Ultron Signal 於 70.7K 重新進場做多。截至今日， $BTC 重返至 75K，強勢反彈 6.3%。\n\n想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群  \n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "回顧 4/12 的分析，當區間頂部指標觸發後， <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 從 74K 回落至 70K。Ultron Signal 於 70.7K 重新進場做多。截至今日， <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 重返至 75K，強勢反彈 6.3%。\n\n想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群  \n👉 <a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-04-14T02:41:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2043882388984606721",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF1RmFsagAAwUSJ.jpg"
-        }
-      ],
-      "quote": {
-        "username": "coinkarma_",
-        "displayName": "CoinKarma",
-        "content": "近日，CoinKarma 成功掌握 $BTC 一波超 10% 的漲幅，與此同時，我們也觀察到，短線上當 Bitfinex whale twap 減倉，同時流動性指標出現負值時，有較大的概率形成短線上的區間頂部。\n\n如圖，近期走勢，當 Bitfinex whale 的 BTC 現貨槓桿部位出現 twap 賣出行為，並與流動性指標形成共振時，往往對應短線上的區間頂部。\n\n🟥 賣出訊號（紅框）：Bitfinex BTCUSD LONGS 減倉 ＋ 10% Overall Liquidity 轉負\n\n當前，Bitfinex whale 再次出現 twap 賣出行為，並與流動性指標形成共振，值得密切關注。",
-        "link": "https://x.com/coinkarma_/status/2043188780346274135",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFrdH9YaMAANSGG.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043872761307931110",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "好一个上涨起点建仓的聪明钱🙌\n\n疑似归属于同一巨鲸 / 实体的四个地址在 10 小时前买入 112.86 WBTC，价值 808.7 万美元，平均成本 $71655，现已浮盈 31.2 万美元\n\n这几个地址的操作时间、买入方式、资金来源地址操作手法都极为相似\n\n钱包地址\n0x7703e90D57bFdf0c30C862708eb41a2f9eF399f2\n0xF87FD272d2FB57Ba0d0A3121701B13425f8668a8\n0x53c60F7264D6588437eFf96f55275A69ed750FB8\n0xE69Ac2D45d88256b67bb8b9e2B209836615268b3\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "好一个上涨起点建仓的聪明钱🙌\n\n疑似归属于同一巨鲸 / 实体的四个地址在 10 小时前买入 112.86 WBTC，价值 808.7 万美元，平均成本 $71655，现已浮盈 31.2 万美元\n\n这几个地址的操作时间、买入方式、资金来源地址操作手法都极为相似\n\n钱包地址\n0x7703e90D57bFdf0c30C862708eb41a2f9eF399f2\n0xF87FD272d2FB57Ba0d0A3121701B13425f8668a8\n0x53c60F7264D6588437eFf96f55275A69ed750FB8\n0xE69Ac2D45d88256b67bb8b9e2B209836615268b3\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-04-14T02:03:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2043872761307931110",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF1K8LCasAEFFqj.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "ETH 短时涨至 ~$2400，多空分歧再次出现，看看大户们的选择吧👀\n\n🔴Intuition 创始人 billΞ.eth\n\n1 小时前短时高点 $2372.24 抛售 3285 枚 ETH，价值 779 万美元，自 03.08 以来累计卖出 8771 $ETH ，总价值高达 1914 万美元，平均卖出价格 $2182，现已近乎清仓\nintel.arkm.com/explorer/addr…\n\n🔴地址 0x455…A433E\n\n1 小时前将 2831 WETH 换仓为 90.46 枚 WBTC，价值 674 万美元，换仓价格 $74607，更看好 BTC 后续涨势\nintel.arkm.com/explorer/addr…\n\n🟢波段大户 nemorino.eth\n\n8 小时前以均价 $2226.54 建仓 1347.37 枚 ETH，价值 300 万美元，看涨并开启新一轮波段\nintel.arkm.com/explorer/addr…\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-        "link": "https://x.com/ai_9684xtpa/status/2043863710478061864",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHF1DE1xasAAhFbx.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHF1DHKaboAA8pTN.jpg"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
