@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T06:15:11.946Z",
+  "lastUpdated": "2026-04-23T07:00:43.934Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,103 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 543,
+    "newFetched": 541,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2047207223731077263",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "BRS从4/16至今，一直被死死的钉在了“0”的位置。在BRS=0的时间段，就是BTC阶段性筑顶的过程。\n\n并不是一回到零就是顶点，但BRS也不可能永远停在零轴，一旦离开就是回调开始，只是我们不知道需要多久。\n\n就像2月3日BRS触及100后意味着BTC进入阶段性的底部区间，这期间BTC到过62，也到过73。\n\n而这次回到零轴，对应BTC是在75左右，所以停留在零的时间段内，BTC会不会上冲到80、81？这我不能确定，尤其永续合约严重的负溢价（具体见引文）。\n\n但我能确定是：当前上升过程伴随的“获利了结”，正在严峻考验“需求端”的承接力。\n\n截止22日，24小时平均已实现利润为4,761万美元；还是小于4月14日至$76,000时的5,478万美元。\n\n而这次不再是“遇到周末”的原因。那么“价格行为”与“实现利润”背离，就是上升势能开始衰减的迹象。\n\n同样的，会背离几次？我也不知道。\n\n也可以反复背离的同时，价格持续突破。直到打破背离（确认趋势反转），或开始回调。\n\n所以，在没有打破背离之前，综合BRS及其他数据指标来看，我认为现在仍然是反弹且接近临界点的状态。\n\n至于短期还能不能再冲一下？那就不是BRS和24h-RP能给出判断依据的了。",
+      "contentHtml": "BRS从4/16至今，一直被死死的钉在了“0”的位置。在BRS=0的时间段，就是BTC阶段性筑顶的过程。\n\n并不是一回到零就是顶点，但BRS也不可能永远停在零轴，一旦离开就是回调开始，只是我们不知道需要多久。\n\n就像2月3日BRS触及100后意味着BTC进入阶段性的底部区间，这期间BTC到过62，也到过73。\n\n而这次回到零轴，对应BTC是在75左右，所以停留在零的时间段内，BTC会不会上冲到80、81？这我不能确定，尤其永续合约严重的负溢价（具体见引文）。\n\n但我能确定是：当前上升过程伴随的“获利了结”，正在严峻考验“需求端”的承接力。\n\n截止22日，24小时平均已实现利润为4,761万美元；还是小于4月14日至$76,000时的5,478万美元。\n\n而这次不再是“遇到周末”的原因。那么“价格行为”与“实现利润”背离，就是上升势能开始衰减的迹象。\n\n同样的，会背离几次？我也不知道。\n\n也可以反复背离的同时，价格持续突破。直到打破背离（确认趋势反转），或开始回调。\n\n所以，在没有打破背离之前，综合BRS及其他数据指标来看，我认为现在仍然是反弹且接近临界点的状态。\n\n至于短期还能不能再冲一下？那就不是BRS和24h-RP能给出判断依据的了。",
+      "publishedAt": "2026-04-23T06:53:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2047207223731077263",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGkjj-nakAAFR0i.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGkjmbdbwAA5YYj.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "7.9w了，为什么我仍不想追空？\n\n合约市场对空双方持仓量永远 1:1 对称，在不考虑手续费、资金费、滑点等交易成本时，盈亏近似零和，即多头赚的钱就是空头亏的钱。\n\n所以，空单要能开出来，得有同样仓位的空单平仓或多单开仓来作为对手盘。\n\n如果是“新空头开仓 vs 老空头平仓”撮合，OI（Open Interest）不变；如果是“新空头开仓 vs 新多头开仓”撮合，OI上升；\n\n截止昨天，OI再次回到近期高点（47.2w枚BTC），说明这轮行情中新增仓位重新累积，市场正在堆杠杆（当然，这里包含了方向性押注和套保资金）。\n\n由于永续合“永不交割”，如没有任何机制，永续价格可以无限偏离现货。为了让合约价格可以锚定现货价格，就有了“资金费率”这个东西。\n\n虽然多空持仓对称，但买卖的主动方向不对称。\n\n当大家都急着做空，使得永续价格在现货之下（出现负溢价），那么空头就要向多头付费。换言之，做空的人需要付钱才能找到对手盘。\n\n所以，你看到的付费率不是指空头更多，而是表示做空的人更主动。\n\n昨天高峰期，空头平均每小时向多头支付资金费达到60.4w美元；虽然小于4/17的峰值（79w美元），但仍然远超7日均值（19.7w美元）。\n\n这是巨大的成本压力！\n\n空头每小时烧钱维持仓位，时间越长越不划算。一旦价格反弹，这些空头要么主动平仓（买盘），要么被强平（强制买盘）。\n\n两种情况都会形成short squeeze，从而成为了燃料。\n\n当然，并不是说只要“负费率”就一定会产生轧空行情。只是说OI越高，负溢价越严重，就越容易触发。\n\n比如在3/9和4/13这2天，多头溢价7日均值开始转负，此后都出现了一波反弹：3/9是6.6w到7.5w；4/13是7w到目前7.9w。\n\n在今年1月BTC反弹至$97,000时并没有出现这样的情况，到阻力位后回调也很快。而这次情况有所不同，可能就让短期行情变得更加复杂。\n\n正如4月18日我在推文中所说：“从小老师就告诉我们，人多的地方不要去，可能有危险”；不是“一定”，是“可能”。\n\n也就是说，我觉得这里不是一个赔率特别舒服、逻辑特别顺的开空点。\n\n当然，如果你说“在4/17 7.8w的时候做空，回调到7.4w平仓又反手开多”；那我只能说一声“牛逼！”，我承认自己没那个本事，赚不了这个钱。",
+        "link": "https://x.com/Murphychen888/status/2047167439407104185",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGj6XvmbwAAEsbX.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGj6bY3agAAqTjQ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047205638535802992",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "@JobberTheGuru “我的 title 叫首席经济学家，但实际上我并不是一个学者，我真正的过去 25 年的核心的经验，也就我们真正在做的事情，就是大家理解的传统的诈骗”",
+      "contentHtml": "<a href=\"/JobberTheGuru\" title=\"召北\">@JobberTheGuru</a> “我的 title 叫首席经济学家，但实际上我并不是一个学者，我真正的过去 25 年的核心的经验，也就我们真正在做的事情，就是大家理解的传统的诈骗”",
+      "publishedAt": "2026-04-23T06:47:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2047205638535802992",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047204123200913914",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "记得前两年吧，应该很多人还记得付鹏有一个长文很火很火，哪儿哪儿都在发，总结下来就是看空一切，超级无敌大悲观。随后两年各种资产都是轰轰烈烈大拉盘，美股a股大宗甚至比特币也拉过。这大哥现在好像来币圈了，这些首席说话写文章倒是洋洋洒洒可结果往往错的离谱。真开个实盘。。打不打得过韭菜我真觉得不好说。又何况我们刷到信息流里那些，别太当真，看分析真就图一乐，交易只能自己做的。三天两个方向也是常有的事。非要看，真的不如看召北老师，老师的长文功底完全不逊于现今各家首席，如果不是当初要不是非要在交易上证明自己，也不会沦落到今天只能提供情绪价值的地步了。",
+      "contentHtml": "记得前两年吧，应该很多人还记得付鹏有一个长文很火很火，哪儿哪儿都在发，总结下来就是看空一切，超级无敌大悲观。随后两年各种资产都是轰轰烈烈大拉盘，美股a股大宗甚至比特币也拉过。这大哥现在好像来币圈了，这些首席说话写文章倒是洋洋洒洒可结果往往错的离谱。真开个实盘。。打不打得过韭菜我真觉得不好说。又何况我们刷到信息流里那些，别太当真，看分析真就图一乐，交易只能自己做的。三天两个方向也是常有的事。非要看，真的不如看召北老师，老师的长文功底完全不逊于现今各家首席，如果不是当初要不是非要在交易上证明自己，也不会沦落到今天只能提供情绪价值的地步了。",
+      "publishedAt": "2026-04-23T06:41:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2047204123200913914",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047200443835769088",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "看多！地址 0x65B…5Ce93 过去 6 小时豪掷 1752 万美元在链上买入 7447.7 枚 $ETH 🧐\n\n他的平均成本是 $2353，目前浮盈 2.4 万美元\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
+      "contentHtml": "看多！地址 0x65B…5Ce93 过去 6 小时豪掷 1752 万美元在链上买入 7447.7 枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 🧐\n\n他的平均成本是 $2353，目前浮盈 2.4 万美元\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x65B424A5655D8224dBA61a31788368268245Ce93\">intel.arkm.com/explorer/addr…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
+      "publishedAt": "2026-04-23T06:26:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2047200443835769088",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGkd0qVacAAMlrX.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2047189455782703508",
       "username": "daidaibtc",
@@ -11214,106 +11306,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHF2WT08asAMp-hH.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043942528404066390",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "arc确定会发币了，现在是真的没有项目可以玩了。除了arc和predict，但是predict又需要策略，不太适合普通人容易反撸。liquid已经停了，分够了。\n\n等风来吧，现在就看看arc有没有机会开存款了以及bitways好像要开新的booster存款了。",
-      "contentHtml": "arc确定会发币了，现在是真的没有项目可以玩了。除了arc和predict，但是predict又需要策略，不太适合普通人容易反撸。liquid已经停了，分够了。\n\n等风来吧，现在就看看arc有没有机会开存款了以及bitways好像要开新的booster存款了。",
-      "publishedAt": "2026-04-14T06:40:00.000Z",
-      "link": "https://x.com/0xleng1/status/2043942528404066390",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043932264430739945",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "一夜之间BTC又从71快速反弹到74。虽然说，从理性的角度，我们不能涨了看涨，跌了看跌。但就目前的整体数据来看，我个人是维持之前“有向上的空间，但空间不会很大”的这一观点。\n\n主要原因有以下4点：\n\n1、Binance 的现货CVD在价格的拉升中，仍持续向上。说明交易所内现货主动买盘表现积极，占据主导。且目前还没看到有拐头的迹象（图1）。\n\n2、于此同时，Binance的BTC余额却在同步减少。说明净流出大于净流入，在现货主动买盘强劲的时候，更多的BTC被提出交易，这是真实需要的表现。\n\n3、从规模上看，单笔在10w-100w美元级别的投资者将BTC充进交易所，而单笔在100w-1000w美元，以及大于1000w美元的大户们，正在将BTC转出。且转出规模可完全覆盖转入的规模。\n\n4、BTC接近$75,000，但BRS仍然没有回到零轴，目前是10；而上次BTC反弹至7.5w的时候，BRS也是10。以此大致估算，BTC要反弹至7.6w-7.8w区间，BRS差不多就会到0。\n\n届时，我们再结合当时的综合数据，来判断有没有反弹见顶的迹象。",
-      "contentHtml": "一夜之间BTC又从71快速反弹到74。虽然说，从理性的角度，我们不能涨了看涨，跌了看跌。但就目前的整体数据来看，我个人是维持之前“有向上的空间，但空间不会很大”的这一观点。\n\n主要原因有以下4点：\n\n1、Binance 的现货CVD在价格的拉升中，仍持续向上。说明交易所内现货主动买盘表现积极，占据主导。且目前还没看到有拐头的迹象（图1）。\n\n2、于此同时，Binance的BTC余额却在同步减少。说明净流出大于净流入，在现货主动买盘强劲的时候，更多的BTC被提出交易，这是真实需要的表现。\n\n3、从规模上看，单笔在10w-100w美元级别的投资者将BTC充进交易所，而单笔在100w-1000w美元，以及大于1000w美元的大户们，正在将BTC转出。且转出规模可完全覆盖转入的规模。\n\n4、BTC接近$75,000，但BRS仍然没有回到零轴，目前是10；而上次BTC反弹至7.5w的时候，BRS也是10。以此大致估算，BTC要反弹至7.6w-7.8w区间，BRS差不多就会到0。\n\n届时，我们再结合当时的综合数据，来判断有没有反弹见顶的迹象。",
-      "publishedAt": "2026-04-14T06:00:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2043932264430739945",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF1v0AnasAQDJDb.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF1v0AcasAE3t2A.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF1v0AaasAARyvx.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF1v0AabkAADHjb.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "小荷才露尖尖角，已有蜻蜓立上头？\n\n在3月22日的时候，ACVR（红线）还只是刚刚出现拐头，那么现在就能明显的看到那时的“尖尖角”已经明显“变长”了。基本可以确认这一趋势不会轻易改变了。\n\n指标下降是衡量筹码平均浮亏程度在历史上比这更严重的时间占比在下降，越低就越趋于极限。\n\n因此，所有熊市的底部，都会出现在ACVR的下降过程中，而不是上升过程中（此后就是熊-牛转换期）。\n\n这就意味着有一点是几乎可以确认的 —— 底部已经离我们越来越近了！\n\n但这里的“近”也是相对之前的“远”来说的，不是指“现在”。从距离上看应该还有一段时间留给我们决策和行动。\n\n接下来对我们来说，最关键的就是要判断6w是否就是本轮熊市的底部。\n\n而这个指标，就像一个倒计时的闹钟，时刻都在提醒我们应该提前做好预案：万一6w就是底，你要如何做？万一跌破6w，又有什么应对方法？\n\n不必做“路径预设”。如果你都提前计划好了，至于还有没有最后一哆嗦，其实也不那么重要了。你说呢？",
-        "link": "https://x.com/Murphychen888/status/2043494380967788658",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFtpw7RbsAEjTEF.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043926777815543964",
-      "username": "psyduck_fomo",
-      "displayName": "Psyduck Fomo(可达鸭)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1641539109410701313%2FmjCsEe0G_bigger.jpg",
-      "content": "x.com/i/article/204391824706…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2043918247066775554\">x.com/i/article/204391824706…</a>",
-      "publishedAt": "2026-04-14T05:38:00.000Z",
-      "link": "https://x.com/psyduck_fomo/status/2043926777815543964",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2043918713188168154",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "历史上的今天\n2016年4月14日，\n科比打完最后一场比赛，\n并且说出了那句台词\n\"man，what can i say\"",
-      "contentHtml": "历史上的今天\n2016年4月14日，\n科比打完最后一场比赛，\n并且说出了那句台词\n\"man，what can i say\"",
-      "publishedAt": "2026-04-14T05:06:00.000Z",
-      "link": "https://x.com/hazenlee/status/2043918713188168154",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF11O-YasAAAhf7.jpg"
         }
       ],
       "stats": {
