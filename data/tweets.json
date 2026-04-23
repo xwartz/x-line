@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T11:10:05.271Z",
+  "lastUpdated": "2026-04-23T11:40:18.560Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 499,
-    "successUsers": 25,
-    "failedUsers": 3
+    "newFetched": 541,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2047274068366553569",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "当我分享擦边视频时，\n兄弟只给我分享抽象视频",
+      "contentHtml": "当我分享擦边视频时，\n兄弟只给我分享抽象视频",
+      "publishedAt": "2026-04-23T11:19:00.000Z",
+      "link": "https://x.com/hazenlee/status/2047274068366553569",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2047269014951621016",
       "username": "hazenlee",
@@ -818,6 +833,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHGje3ooaMAAiD2q.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11311,21 +11330,6 @@
         "content": "是不是各大妖币开启了“包租公”的生活😂",
         "link": "https://x.com/follow_clues/status/2043226105575014812"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044017993223663750",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "unique treatment to a core group of loyal customers with **super high switch cost** & **super high LTV** > this is the PB (in finance) & luxury brands' (in consumer) VIC model, and CEX's VIP tiering model, and in the domain where power users contribute to 80% of the rev",
-      "contentHtml": "unique treatment to a core group of loyal customers with **super high switch cost** &amp; **super high LTV** &gt; this is the PB (in finance) &amp; luxury brands' (in consumer) VIC model, and CEX's VIP tiering model, and in the domain where power users contribute to 80% of the rev",
-      "publishedAt": "2026-04-14T11:40:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2044017993223663750",
       "stats": {
         "replies": 0,
         "retweets": 0,
