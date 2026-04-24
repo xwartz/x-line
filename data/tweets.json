@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T11:27:32.945Z",
+  "lastUpdated": "2026-04-24T11:51:10.888Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,9 +93,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 520,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 536,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -737,6 +737,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHGoolAzaQAAFLwm.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
