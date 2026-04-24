@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T12:50:14.521Z",
+  "lastUpdated": "2026-04-24T13:34:41.284Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,95 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 538,
+    "newFetched": 539,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2047667687615041601",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "DeFi United could have solved world hunger, but instead chose to bail out reckless restaked staked ETH holders",
+      "contentHtml": "DeFi United could have solved world hunger, but instead chose to bail out reckless restaked staked ETH holders",
+      "publishedAt": "2026-04-24T13:23:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2047667687615041601",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047665085972128055",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "七姐妹里，亚麻先破新高了😂\n下一个谁🧐",
+      "contentHtml": "七姐妹里，亚麻先破新高了😂\n下一个谁🧐",
+      "publishedAt": "2026-04-24T13:12:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2047665085972128055",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047662904204468652",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "卧槽，真的挺牛逼！\n\n我们可以来看看，机构信号BSS在过去10年中在牛市主升浪之前的精准提示。\n\n在整个时间线上，绝大多数时间BSS的高点都在0.7-0.72左右。而且几乎都对应着BTC大/小波段的顶部区域。\n\n但唯独有5次，BSS突然大幅攀升，直接超过了0.85。其中1-4全部对应在牛市主升浪启动之前。\n\n只有5是对应在2025.10.6 —— 牛市见顶。但，是指标误报？还是4天后的10.10事件让牛市意外终止？我们就不得而知了。\n\n总之，这种近乎恐怖的有效性是让我感受到了这种专业级指标的威力。非常期待下一次BSS突破0.85的时候，以我摔杯为号！🤣🤣🤣\n\n肯定不是现在哈，目前BSS=0.71。\n\n只要你没有被我拉黑，并且记得打开小铃铛，就能第一时间免费获得原本需要12000美元年费才能看到的机构版信号提示。怎么看都不吃亏，对吧？",
+      "contentHtml": "卧槽，真的挺牛逼！\n\n我们可以来看看，机构信号BSS在过去10年中在牛市主升浪之前的精准提示。\n\n在整个时间线上，绝大多数时间BSS的高点都在0.7-0.72左右。而且几乎都对应着BTC大/小波段的顶部区域。\n\n但唯独有5次，BSS突然大幅攀升，直接超过了0.85。其中1-4全部对应在牛市主升浪启动之前。\n\n只有5是对应在2025.10.6 —— 牛市见顶。但，是指标误报？还是4天后的10.10事件让牛市意外终止？我们就不得而知了。\n\n总之，这种近乎恐怖的有效性是让我感受到了这种专业级指标的威力。非常期待下一次BSS突破0.85的时候，以我摔杯为号！🤣🤣🤣\n\n肯定不是现在哈，目前BSS=0.71。\n\n只要你没有被我拉黑，并且记得打开小铃铛，就能第一时间免费获得原本需要12000美元年费才能看到的机构版信号提示。怎么看都不吃亏，对吧？",
+      "publishedAt": "2026-04-24T13:04:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2047662904204468652",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGrCCAeaAAAkm-v.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "Bitcoin Sharpe Signal（BSS）是最近我在研究 Glassnode机构专属信号时，另一个有意思的发现。\n \n官方对该指标的解释是：\nThe Glassnode Bitcoin Sharpe signal uses a unique ML-based approach with on-chain data to strategically minimize downside risks and capture rising trends in Bitcoin. \n \n看起来，它是一个判断“现在持有BTC划不划算”的风险收益状态指标。\n\n但我发现如果把BSS和BRS（Bitcoin Risk Signal）2个信号结合起来用似乎更有效。比如下图，上面是BRS，下面是BSS：\n \n🚩当BSS > 0.5（深绿色）且同时 BRS = 0，通常可以提升我们对”阶段性顶部“的判断概率（图中红色阴影处）；\n \n🚩当BSS < 0.3（红色）且同时 BRS = 0，通常可以强化对”有性价比的底部区间“的判断概率（图中绿色阴影处）；\n  \n而现在BSS=0.7，BRS=0，即正处于上述条件2的状态。如此看来，$78,000确实有较大概率已经处于阶段性的反弹的顶部区间。\n  \n或许就是$78,000，或许会在$78,000以上一点。是不是真的如此，我们来验证下。",
+        "link": "https://x.com/Murphychen888/status/2045718611910857011",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGPZ0NDaYAAlRlb.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047659988038893875",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "下周来分享rho策略，成本太低了。磨损一点当彩票太合适了。现在也可以自己先做几个号。现在撸空投我都往性价比高的项目走，融资和项目质量没那么重要了。",
+      "contentHtml": "下周来分享rho策略，成本太低了。磨损一点当彩票太合适了。现在也可以自己先做几个号。现在撸空投我都往性价比高的项目走，融资和项目质量没那么重要了。",
+      "publishedAt": "2026-04-24T12:52:00.000Z",
+      "link": "https://x.com/0xleng1/status/2047659988038893875",
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "之前发过的rho @Rho_Labs 也是一个性价比非常高的项目，就是一直反复换规则的积分项目，最低能做到80万u的fdv成本，平均做到2-400万u fdv的成本，这个项目就是积分发太慢了，研究一下策略再来分享。非广，这个项目也是性价比合适我才参与。现在eth gas很高可以等等。",
+        "link": "https://x.com/0xleng1/status/2046883322517709210"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2047657344637837648",
       "username": "ai_9684xtpa",
@@ -11214,96 +11298,6 @@
       "contentHtml": "为什么说一个成功的男人背后一定都有一个贤惠的妻子？你说为什么宝妈能亏这么多？因为她对钱没概念。只有对钱有概念以后，才知道怎么赚钱。现在大家都觉得法拉利不算什么，帕拉梅拉算什么？140万，不吃不喝一个月攒一万，难不难？一辆帕拉梅拉要攒12年，保时捷911要16年。奔驰E也要五十多万，奥迪A6和宝马5系三四十万。这些都是不吃不喝才能买的，她为什么没概念？因为钱不是她挣的。如果是她加班加点挣来的，她绝不会去买白银。她知道钱难赚，不会梭哈。钱是每个月熬尽心血发来的，不是混日子就来了。挣钱犹如针挑土，用钱犹如浪推沙。宝妈对钱没概念，这就是她们亏这么多的原因，还天天想着理财却不带财。照顾家庭辛苦是一回事，闻道有先后，术业有专攻。底层人爬不上来，往往是因为家庭内耗，发动机空转却烧油。积善之家必有余庆，积不善之家必有余殃。家庭没内耗是第一步。看男人水平，直接看老婆。他老婆OK，他再差点也没事；老婆不OK，他再好也有限。看女的就看她妈。没结婚或想做生意的，请客喊带老婆，她不行就拉倒。请他爸妈吃饭，她妈不行也拉倒。糊涂妈教不出清醒娃，媳妇难有牛逼老公。娶妻重在贤惠，不是漂亮。贤是聪明带着善良，善良是选择，聪明是天分。聪明的善良就是贤惠，娶妻当娶贤。定价高但会随时间贬值的东西，一般选择租赁。结婚是双向选择，要想清楚对方选你是因为潜力还是把你当牛马。如果吃完饭不洗碗就板脸，你还能发挥什么？",
       "publishedAt": "2026-04-15T10:36:00.000Z",
       "link": "https://x.com/hazenlee/status/2044364303885893956",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044353994609610982",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "B哥这封信写得很真挚！MSX一周年，链上美股从0到1直接干到300亿交易量，18万用户真金白银投信任票，这就是信仰落地。\n从最早社区小伙伴一起摸索，到现在Pre-IPO都上线了，你们没停在叙事上，而是真把“区块链券商”一步步走出来。\ncrypto的tokenized的使命在币圈真正的基础建设者们的奋斗中不断变为现实🫡",
-      "contentHtml": "B哥这封信写得很真挚！MSX一周年，链上美股从0到1直接干到300亿交易量，18万用户真金白银投信任票，这就是信仰落地。\n从最早社区小伙伴一起摸索，到现在Pre-IPO都上线了，你们没停在叙事上，而是真把“区块链券商”一步步走出来。\ncrypto的tokenized的使命在币圈真正的基础建设者们的奋斗中不断变为现实🫡",
-      "publishedAt": "2026-04-15T09:55:00.000Z",
-      "link": "https://x.com/hazenlee/status/2044353994609610982",
-      "quote": {
-        "username": "BTCBruce1",
-        "displayName": "Bruce J",
-        "content": "x.com/i/article/204434115245…",
-        "link": "https://x.com/BTCBruce1/status/2044350506789965908"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044352837665308854",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "Web3男模是你吗？",
-      "contentHtml": "Web3男模是你吗？",
-      "publishedAt": "2026-04-15T09:51:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2044352837665308854",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF8AENXbQAAoYbU.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044351911382708371",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "补充：刚才发现 Arkham 将其在四个月前的交互地址标记为了「Bitcoin Suisse 热钱包」，即瑞士数字货币经纪公司，因此 OG 地址或归属于该地址",
-      "contentHtml": "补充：刚才发现 Arkham 将其在四个月前的交互地址标记为了「Bitcoin Suisse 热钱包」，即瑞士数字货币经纪公司，因此 OG 地址或归属于该地址",
-      "publishedAt": "2026-04-15T09:47:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2044351911382708371",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044349692734259567",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "「沉睡 14.5 年持有 3000 $BTC 的远古巨鲸」时隔四个月再次苏醒！成本低至 0.37 美金🐋\n\n2 分钟前，他向新地址 bc1q9…h0s2j 转移了 500 枚 BTC，价值 3704 万美元，目前地址仍持有 2359 枚 BTC，价值 1.74 亿美元\n\n接收地址 bc1q97zszy2e69qytvk2044pw8swues6dnwqgh0s2j\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "「沉睡 14.5 年持有 3000 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 的远古巨鲸」时隔四个月再次苏醒！成本低至 0.37 美金🐋\n\n2 分钟前，他向新地址 bc1q9…h0s2j 转移了 500 枚 BTC，价值 3704 万美元，目前地址仍持有 2359 枚 BTC，价值 1.74 亿美元\n\n接收地址 bc1q97zszy2e69qytvk2044pw8swues6dnwqgh0s2j\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-04-15T09:38:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2044349692734259567",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF79MYWaoAAP1eM.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "「沉睡 14.5 年持有 3,963 $BTC 的远古巨鲸」向 Wintermute 关联地址转移 108 枚 BTC，约 1242 万美元\n\n10 小时前 0.001 BTC 充值进 Wintermute Deposit 地址进行小额测试，应该会在近期卖出；目前这位远古巨鲸钱包中仍持有 3360 BTC，约 3.85 亿美元\n\n钱包地址 intel.arkm.com/explorer/enti…\n\n本文由 #Gate 大门交易所 | @Gateio_zh 赞助",
-        "link": "https://x.com/ai_9684xtpa/status/1952555723331891619",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FGxjfB7PaEAAkrtf.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
