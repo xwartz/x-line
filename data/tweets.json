@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T14:18:32.089Z",
+  "lastUpdated": "2026-04-24T14:57:45.421Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,86 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 517,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 537,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2047688716282442143",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "今天的新闻，对鲍威尔撤诉",
+      "contentHtml": "今天的新闻，对鲍威尔撤诉",
+      "publishedAt": "2026-04-24T14:46:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2047688716282442143",
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "有什么新闻说明他不会上位？川普会对鲍威尔撤诉，鲍威尔会退下来的",
+        "link": "https://x.com/TJ_Research/status/2044221652762779721"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047688490553581971",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "卓越的OTC撮合",
+      "contentHtml": "卓越的OTC撮合",
+      "publishedAt": "2026-04-24T14:45:00.000Z",
+      "link": "https://x.com/hazenlee/status/2047688490553581971",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGrZ0ypbgAE4aN7.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047686561295405149",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "基金会又 又卖币了…03.15 以来已累计出售 2 万枚 $ETH 😅\n\n以太坊基金会 DeFi 地址 5 分钟前向新地址转移 10000 枚 ETH，价值 2313 万美元；其官推表示今日通过 OTC 方式完成了这部分代币的出售，买方为 Bitmine\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
+      "contentHtml": "基金会又 又卖币了…03.15 以来已累计出售 2 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 😅\n\n以太坊基金会 DeFi 地址 5 分钟前向新地址转移 10000 枚 ETH，价值 2313 万美元；其官推表示今日通过 OTC 方式完成了这部分代币的出售，买方为 Bitmine\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0xC3FA6Be47fFeECcc39B74Bc7fdc4815822494195\">intel.arkm.com/explorer/addr…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
+      "publishedAt": "2026-04-24T14:38:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2047686561295405149",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGrYD47b0AArhkU.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "基金会的卖币总算告一段落了😮‍💨\n\n过去 9 小时，以太坊基金会 Defi Ecosystem 再次抛售 1250 ETH（约 280.5 万美元），花费 3 天完成了原定的 5000 $ETH 卖币计划，总价值约 1112 万美元，平均卖出价格 $2225\n\n钱包地址 0x9fC3dc011b461664c835F2527fffb1169b3C213e\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
+        "link": "https://x.com/ai_9684xtpa/status/2042806017596232151",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHFmBNKAakAAjgM9.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2047679367598272835",
       "username": "KillaXBT",
@@ -3745,6 +3820,10 @@
       "contentHtml": "新联储主席凯文.沃什的主张：降息+缩表\n降息的理由是不用多聊，主要说说缩表。\n多数人不知道美联储负债表端的组成：\n\n1. 流通货币：2.4万亿。流通货币随着GDP增速，长期一直向上，所以美联储长期扩表是一个自然的过程\n\n2. 银行准备金：3万亿。现在的水平在充足（AMPLE）阶段，不能再降了，所以美联储是上年底开始小型扩表计划\n\n3. TGA（财政部现金账户）：1万亿。应对平时财政支出，当TGA下降，给市场放水，上升，抽水。4月份的退税季度，TGA需要上升，想一下，如果美联储不推出小型QE，那现金就会从银行准备金进入政府的TGA账户。再进一步，如果当TGA下降时，美联储不继续缩表，那钱会从政府账户进入个人在银行的账户，准备金就上升了！无论个人或者银行都可以去做投资或者借贷。\n\n4. ON RRP（逆回购）：0\n\n看懂了这些之后回到沃什的主张，他的确认为美联储不应该持有那么大的负债表，那么问题来了，哪里的表他可以缩？只有银行的准备金，但现在准备金只是在充足阶段，且25年季度底已经看到了短期流动性的紧缺。那即使沃什想缩，也缩不了。除非美联储降低银行准备金的要求，那也就是先给银行松绑！然后可以开启他的缩表。\n\n最后对于资产价格的影响，短期噪音，长期我觉得他会是一个合格的联储主席（该鹰的时候鹰，其他情况下偏鸽）",
       "publishedAt": "2026-04-21T16:48:00.000Z",
       "link": "https://x.com/TJ_Research/status/2046632156622200964",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11261,75 +11340,6 @@
       "contentHtml": "When an investment fails, most people say \"the company failed\". but here are actually three layers of failures:\n\n1.wrong market thesis → stop looking at the category\n2.wrong company archetype → refine \"what can best serve\" this market \n3.wrong founder pick → the bet on market/type of pmf was right, the person wasn't",
       "publishedAt": "2026-04-15T11:57:00.000Z",
       "link": "https://x.com/DoveyWan/status/2044384650530083001",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044383292875771905",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "手误：\nOKX 36M OI, 按-0.26%/h结算",
-      "contentHtml": "手误：\nOKX 36M OI, 按-0.26%/h结算",
-      "publishedAt": "2026-04-15T11:52:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2044383292875771905",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044375557929123979",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
-      "content": "目前看下来对套利用户最友好的地方是Aster🤔\n\nAster 16M OI（多空一起算的话是32M OI）, 按-0.3%/h结算, 10%深度有6-7M",
-      "contentHtml": "目前看下来对套利用户最友好的地方是Aster🤔\n\nAster 16M OI（多空一起算的话是32M OI）, 按-0.3%/h结算, 10%深度有6-7M",
-      "publishedAt": "2026-04-15T11:21:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2044375557929123979",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF8T7wpagAAzXCB.jpg"
-        }
-      ],
-      "quote": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧",
-        "content": "RAVEUSDT资金费率套利策略的友情提示：ADL Squeeze\n\nBinance 72M OI, 按-0.36%/h结算\nBitget 58M OI, 按-0.35%/h结算\nBybit 54M OI, 按-0.5%/h结算\nBitget 36M OI, 按-0.26%/h结算\n\n比较现有的10%合约订单簿深度，一旦波动率重新开始扩大，大部分的跨所资金费率套利用户会有1条腿被ADL出去。\n\n先不提ADL的平仓价格，只剩下单腿后资金费率套利策略也就失效了，转而变成净头寸持仓，大量浮亏的单腿此时还需要踩踏式平仓去止损。\n\nRAVEUSDT并不是个适合做跨所资金费率套利的标的。",
-        "link": "https://x.com/OwenJin12/status/2044368088985121240",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHF8NsbVawAA_VA8.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044369868812898754",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "什么行情？\n$BTC",
-      "contentHtml": "什么行情？\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
-      "publishedAt": "2026-04-15T10:58:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2044369868812898754",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF8Pd6xb0AArABd.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
