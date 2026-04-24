@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T02:01:26.970Z",
+  "lastUpdated": "2026-04-24T03:18:28.504Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,158 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 540,
+    "newFetched": 539,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2047510419565420779",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
+      "content": "nitter.net/nivi/status/2047471220…",
+      "contentHtml": "<a href=\"https://nitter.net/nivi/status/2047471220451578132?s=20\">nitter.net/nivi/status/2047471220…</a>",
+      "publishedAt": "2026-04-24T02:58:00.000Z",
+      "link": "https://x.com/naval/status/2047510419565420779",
+      "quote": {
+        "username": "nivi",
+        "displayName": "Nivi",
+        "content": "I spent the morning digging into USVC fees.\n\nTLDR: In my opinion, there is no lower-cost way to invest in VC other than becoming one. I’m expecting to pay the same or less than it costs to invest in a good VC fund. And a lot less than investing in a fund-of-funds. All while getting the benefits of a fund-of-funds that can do direct, secondary, and fund investments.\n\nCarry. If USVC invests in a fund or SPV, I will pay that manager’s ~20% carry. That’s what I expected. All fund-of-funds do it this way. I’m glad to pay carry to invest with good managers. USVC doesn’t charge additional carry.\n\nDirect investments. There is no underlying carry on USVC’s direct investments and they aim to make this a major portion of the portfolio. This would bring down the blended cost of USVC substantially, compared to a VC fund.\n\nFees. The annual fee in the first year is capped at 2.5%. This includes the fees of the underlying funds that USVC invests in, which is a huge deal. Just investing in a VC fund costs 2-2.5% a year. Also, the fee would be 3.6% but AngelList is subsidizing it in the first year.\n\nThere’s a possibility the annual fee could go up in the future and I’ve told the team that this is extremely confusing and weird, and they are working on it with haste.\n\nOverall, I’m expecting to pay the same or less than it costs to invest in a good VC fund, but I’m actually getting access to a fund-of-funds that can do direct, secondary, and fund investments. A typical fund-of-funds charges another 1/10 (fees/carry) on top of the VC’s 2/20, for a total of 3/30.\n\nSome other things I learned:\n\nEarly-stage. Early-stage deals are planned. I would rather invest now in case those early-stage investments get marked up quickly. These deals will be riskier and more illiquid, so there’s no free lunch here. The current portfolio includes late-stage (OpenAI, Anthropic, xAI) and mid-stage (Sierra, Vercel, Crusoe, Legora).\n\nIlliquidity. This is venture capital. The underlying investments are illiquid. Don’t invest if you’re uncomfortable with illiquidity. That said, USVC is working on redemptions of up to 5% of the fund every quarter. It’s not guaranteed, but if it’s offered, you can choose to get partial liquidity along the way.\n\nInternational. There is a lot of demand from international investors. USVC is not yet set up to accept international investors at scale, but they’re working on it.\n\nSales load. There is no sales load. USVC is only available on usvc dot com and the sales load is waived if you buy through the site. In the future, brokers that list USVC may charge up to a ~3% sales load; that’s how they make their money.\n\nDisclosure: I’m a co-founder of AngelList and have shares in the business.",
+        "link": "https://x.com/nivi/status/2047471220451578132"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047509905289228318",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "我操你妈又4.27了\n没搞好就别定发布日期啊\n这从4.17干到4.27\n一鼓作气再而衰三而竭",
+      "contentHtml": "我操你妈又4.27了\n没搞好就别定发布日期啊\n这从4.17干到4.27\n一鼓作气再而衰三而竭",
+      "publishedAt": "2026-04-24T02:56:00.000Z",
+      "link": "https://x.com/hazenlee/status/2047509905289228318",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGo3Z0La0AADCf0.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "心心念念着\n发布延期到4.23 下周了",
+        "link": "https://x.com/hazenlee/status/2044872573016740286",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGDYw1_aIAAgsDG.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047509523649486848",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "DeFi United🤝\n\n现已有 11 个项目 / 个人宣布将参与 DeFi 救援计划，披露部分资金累计为 43500 ETH（约 1 亿美元）；加上 Arbitrum 冻结的 30,766 ETH（约 7150 万美元）和  Aave 的 Umbrella 保险池 23,507.63 WETH，几方加总已达到 2.2 亿美元 \n\n—— 足以填平低情景坏账，距离高情景数额也差得不多了\n\n救助 Aave，也是 DeFi 行业的一场自救。",
+      "contentHtml": "DeFi United🤝\n\n现已有 11 个项目 / 个人宣布将参与 DeFi 救援计划，披露部分资金累计为 43500 ETH（约 1 亿美元）；加上 Arbitrum 冻结的 30,766 ETH（约 7150 万美元）和  Aave 的 Umbrella 保险池 23,507.63 WETH，几方加总已达到 2.2 亿美元 \n\n—— 足以填平低情景坏账，距离高情景数额也差得不多了\n\n救助 Aave，也是 DeFi 行业的一场自救。",
+      "publishedAt": "2026-04-24T02:54:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2047509523649486848",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGo2-pyawAAdbas.jpg"
+        }
+      ],
+      "quote": {
+        "username": "StaniKulechov",
+        "displayName": "Stani",
+        "content": "DeFi United. Who's next?",
+        "link": "https://x.com/StaniKulechov/status/2047398354343039419"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047502046018851098",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "My $BTC bull market top prediction was $121,362. \n\nI was 5% off & we hit $126,122.\n\nUsing the same math, diminishing returns, and numerology, the next bear market bottom projects to $43,949. \n\nIf we apply the same 5% offset above, like last time, that puts BTC at $48,949 (if the math doesn’t play out exactly, just like my top call).\n\nThat would mean BTC sweeps 60K in the coming months, and that sweep would likely mark the bottom.\n\nThe moral is simple,\n\nIf 60K is the bottom, it breaks every historical pattern Bitcoin has ever followed.\n\nThe diminishing returns model, built on 5 cycles of data points to $48,949 with the offset. \n\nA 60K bottom would require the bear market drawdown to shrink at nearly 3x the historical rate, an anomaly with no precedent in Bitcoin's history.\n\nAs I have stated, I follow history.",
+      "contentHtml": "My <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> bull market top prediction was $121,362. \n\nI was 5% off & we hit $126,122.\n\nUsing the same math, diminishing returns, and numerology, the next bear market bottom projects to $43,949. \n\nIf we apply the same 5% offset above, like last time, that puts BTC at $48,949 (if the math doesn’t play out exactly, just like my top call).\n\nThat would mean BTC sweeps 60K in the coming months, and that sweep would likely mark the bottom.\n\nThe moral is simple,\n\nIf 60K is the bottom, it breaks every historical pattern Bitcoin has ever followed.\n\nThe diminishing returns model, built on 5 cycles of data points to $48,949 with the offset. \n\nA 60K bottom would require the bear market drawdown to shrink at nearly 3x the historical rate, an anomaly with no precedent in Bitcoin's history.\n\nAs I have stated, I follow history.",
+      "publishedAt": "2026-04-24T02:25:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2047502046018851098",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGouk51WQAAO7_J.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "The $BTC bull market top.\n\nBTC nears logarithmic cycle apex, indicating the top is near. \n\nDo not be exit liquidity. It is not worth chasing 10%.\n\nIt was fun.",
+        "link": "https://x.com/KillaXBT/status/1938552790839648347",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FGuce5TIWMAANsVm.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047496813255803205",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "【#BTC 四年周期系列更新📊】\n\n历史上比特币各轮熊底筑底区间的前期，黑线往往依次跌破橙线、蓝线。当前——\n\n黑线：$80,417\n橙线：$75,911\n蓝线：$70,876\n\n┌── 📑指标详情 ──┐\n\n黑线为链上短期持币者平均购币成本\n橙线为链上持币0-5年投资者平均购币成本\n蓝线为链上持币0-7年投资者平均购币成本",
+      "contentHtml": "【<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 四年周期系列更新📊】\n\n历史上比特币各轮熊底筑底区间的前期，黑线往往依次跌破橙线、蓝线。当前——\n\n黑线：$80,417\n橙线：$75,911\n蓝线：$70,876\n\n┌── 📑指标详情 ──┐\n\n黑线为链上短期持币者平均购币成本\n橙线为链上持币0-5年投资者平均购币成本\n蓝线为链上持币0-7年投资者平均购币成本",
+      "publishedAt": "2026-04-24T02:04:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2047496813255803205",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGopicjbMAAxeLg.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【四年周期总刻系列（22）】\n\n历史上每轮 #BTC 熊底筑底的前中期，黑线往往依次下穿橙线、蓝线、绿线。当前——\n\n黑线：$85,942\n橙线：$76,094\n蓝线：$71,083\n绿线：$64,288\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n黑线为链上短期持币者平均购币成本\n橙线为链上持币0-5年投资者平均购币成本\n蓝线为链上持币0-7年投资者平均购币成本\n绿线为链上持币0-10年投资者平均购币成本",
+        "link": "https://x.com/0xCryptoChan/status/2032310384447930394",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHDQpvgaasAA7OI8.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2047495976265629840",
       "username": "ai_9684xtpa",
@@ -232,6 +379,25 @@
       }
     },
     {
+      "id": "2047481012826124516",
+      "username": "Cernovich",
+      "displayName": "Cernovich",
+      "avatar": "https://nitter.net/pic/profile_images%2F1981917778467532800%2F1LpS5x6S_bigger.jpg",
+      "content": "USVC is a new fund being offered by Naval, it's been discussed widely on X. I have some thoughts and why people should look into it. I have no connection with it and not being paid to shill. \n\nBack when I started dating my wife, I told her to set up a Roth IRA and buy Apple. Every year, I'd have her put the max limit into a Roth IRA and buy Apple. Apple was $20 or so. When I checked it earlier this year, I was blown away. It was a small mount of money that grew into something nice.\n\nApple, Facebook, Nvidia, Tesla, etc. would IPO early. You could have MASSIVE outsized gains if you were investing in the early 2010's. \n\nYou couldn't get into them pre-IPO unless you had a connection. There are people on this site who pretend to be geniuses because a friend hooked them up with a tag-along investment into the seed round of Uber. It was a bro favor, good for them, they do leave that part out tho and let the false narrative of being a genius investor flow through. \n\nYou used to be able to buy in pre-IPO with a small check. Now it's almost impossible unless you have a friend, and they set up an SPV, they are usually doing you a favor, because huge funds and institutional investors gobble it all up. (This has also lead to the VC class screwing themselves over, because if you can't buy today's version of Apple at $20, because all the big gains are sucked up before the public offering, then why do you have buy in into this entire system?)\n\nYou could, as a small investor, get huge results pre-IPO via a small check, or also do well after the IPO, because companies IPO'ed earlier. Ie Apple at $20, Amazon in the 20's, etc.\n\nIt's very hard to get big gains now, because companies remain private much longer. Many companies don't want to IPO and then deal with the hassle of lawfare. Look at what happened to Elon in Delaware. \n\nFor us, as an ordinary person, this means that by the time a company goes public, we are \"last money in.\" This is why I always tell friends and family to buy SPY (or FXAIX) and QQQM. Don't day trade. You won't beat the market. (Everyone who claims they do are lying, they use a short timeline and never mention all of the losing trades. Or they are insider trading or beating the market by a relatively small amount. For most of us, day trading is the way of death.) \n\nWith USVC, regular people can get into some of the companies that will IPO, eventually, at high valuations still, but pre-IPO.\n\nI've read all of the negative commentary about the fund. I don't understand the \"illiquid\" complaint. If you started your own business and bought equipment, you wouldn't be paying yourself. If you really had to expand, you might not pay yourself for years. When you put your money in, it's locked up, you grow out the company for several years. Hopefully you can afford to pay yourself after a couple of years. If you QSBS'ed it, maybe you sell in 5-10. Who knows. In the meantime, yes, your money is gone. Every business owner knows this feeling. Your company is \"worth\" some amounts on paper, and you pay yourself a salary to live on. That's if things are going well.\n\nThere's also a lot of discussion around carry and fees. The question is will those fees be less than what the post-IPO price of the companies will be is. That's up to everyone to decide for themselves.\n\nIn any case, I have no financial interest into this fund. I am not telling you to buy into or not. \n\nI do like to flag stuff like this for people who read me, operating under the rule that, \"Cerno writes for the version of Cerno who did not understand any of this stuff, but sure would have liked to have.\" As an example, I didn't know what QSBS was until it was too late. [Frown face.] \n\nAnd I didn't buy Tesla at $2 [panic attack], despite wanting to, because a financial adviser friend told me, \"You shouldn't invest on a feeling, you don't have any edge here.\" \n\nI would tell my prior self: You can't invest EVERYTHING based on vibes, but you can and should absolutely do so now and then. (Note: If you have an addictive personality, this is bad advice. But I am only addicted to X and See's Candies.)\n\nBut I will post the negative comments about the fund. I don't want anyone to ever read me and obtain bad information.\n\nEveryone has to decide for themselves what to do.\n\nI've also learned from experience that if something goes well, nobody sends me money or a box of cigars as a thank you. It was their brilliance that led them to the big gains. If it goes wrong, then the fault is all mine and people hate me for it.\n\nThat's also why I don't even want to post about the fund at all, but here goes.",
+      "contentHtml": "USVC is a new fund being offered by Naval, it's been discussed widely on X. I have some thoughts and why people should look into it. I have no connection with it and not being paid to shill. \n\nBack when I started dating my wife, I told her to set up a Roth IRA and buy Apple. Every year, I'd have her put the max limit into a Roth IRA and buy Apple. Apple was $20 or so. When I checked it earlier this year, I was blown away. It was a small mount of money that grew into something nice.\n\nApple, Facebook, Nvidia, Tesla, etc. would IPO early. You could have MASSIVE outsized gains if you were investing in the early 2010's. \n\nYou couldn't get into them pre-IPO unless you had a connection. There are people on this site who pretend to be geniuses because a friend hooked them up with a tag-along investment into the seed round of Uber. It was a bro favor, good for them, they do leave that part out tho and let the false narrative of being a genius investor flow through. \n\nYou used to be able to buy in pre-IPO with a small check. Now it's almost impossible unless you have a friend, and they set up an SPV, they are usually doing you a favor, because huge funds and institutional investors gobble it all up. (This has also lead to the VC class screwing themselves over, because if you can't buy today's version of Apple at $20, because all the big gains are sucked up before the public offering, then why do you have buy in into this entire system?)\n\nYou could, as a small investor, get huge results pre-IPO via a small check, or also do well after the IPO, because companies IPO'ed earlier. Ie Apple at $20, Amazon in the 20's, etc.\n\nIt's very hard to get big gains now, because companies remain private much longer. Many companies don't want to IPO and then deal with the hassle of lawfare. Look at what happened to Elon in Delaware. \n\nFor us, as an ordinary person, this means that by the time a company goes public, we are \"last money in.\" This is why I always tell friends and family to buy SPY (or FXAIX) and QQQM. Don't day trade. You won't beat the market. (Everyone who claims they do are lying, they use a short timeline and never mention all of the losing trades. Or they are insider trading or beating the market by a relatively small amount. For most of us, day trading is the way of death.) \n\nWith USVC, regular people can get into some of the companies that will IPO, eventually, at high valuations still, but pre-IPO.\n\nI've read all of the negative commentary about the fund. I don't understand the \"illiquid\" complaint. If you started your own business and bought equipment, you wouldn't be paying yourself. If you really had to expand, you might not pay yourself for years. When you put your money in, it's locked up, you grow out the company for several years. Hopefully you can afford to pay yourself after a couple of years. If you QSBS'ed it, maybe you sell in 5-10. Who knows. In the meantime, yes, your money is gone. Every business owner knows this feeling. Your company is \"worth\" some amounts on paper, and you pay yourself a salary to live on. That's if things are going well.\n\nThere's also a lot of discussion around carry and fees. The question is will those fees be less than what the post-IPO price of the companies will be is. That's up to everyone to decide for themselves.\n\nIn any case, I have no financial interest into this fund. I am not telling you to buy into or not. \n\nI do like to flag stuff like this for people who read me, operating under the rule that, \"Cerno writes for the version of Cerno who did not understand any of this stuff, but sure would have liked to have.\" As an example, I didn't know what QSBS was until it was too late. [Frown face.] \n\nAnd I didn't buy Tesla at $2 [panic attack], despite wanting to, because a financial adviser friend told me, \"You shouldn't invest on a feeling, you don't have any edge here.\" \n\nI would tell my prior self: You can't invest EVERYTHING based on vibes, but you can and should absolutely do so now and then. (Note: If you have an addictive personality, this is bad advice. But I am only addicted to X and See's Candies.)\n\nBut I will post the negative comments about the fund. I don't want anyone to ever read me and obtain bad information.\n\nEveryone has to decide for themselves what to do.\n\nI've also learned from experience that if something goes well, nobody sends me money or a box of cigars as a thank you. It was their brilliance that led them to the big gains. If it goes wrong, then the fault is all mine and people hate me for it.\n\nThat's also why I don't even want to post about the fund at all, but here goes.",
+      "publishedAt": "2026-04-24T01:01:00.000Z",
+      "link": "https://x.com/Cernovich/status/2047481012826124516",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2047474863296643364",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -281,6 +447,25 @@
         "displayName": "daz",
         "content": "Billionaires should not exist. \n\nAnything over $1 Billion should be taxed at 100% and go towards funding public services. \n\nThere is no reason for a single person to have that much money or power.",
         "link": "https://x.com/MetamateDaz/status/2047284601643778279"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047471220451578132",
+      "username": "nivi",
+      "displayName": "Nivi",
+      "avatar": "https://nitter.net/pic/profile_images%2F54022207%2FNivi_Favicon_bigger.jpg",
+      "content": "I spent the morning digging into USVC fees.\n\nTLDR: In my opinion, there is no lower-cost way to invest in VC other than becoming one. I’m expecting to pay the same or less than it costs to invest in a good VC fund. And a lot less than investing in a fund-of-funds. All while getting the benefits of a fund-of-funds that can do direct, secondary, and fund investments.\n\nCarry. If USVC invests in a fund or SPV, I will pay that manager’s ~20% carry. That’s what I expected. All fund-of-funds do it this way. I’m glad to pay carry to invest with good managers. USVC doesn’t charge additional carry.\n\nDirect investments. There is no underlying carry on USVC’s direct investments and they aim to make this a major portion of the portfolio. This would bring down the blended cost of USVC substantially, compared to a VC fund.\n\nFees. The annual fee in the first year is capped at 2.5%. This includes the fees of the underlying funds that USVC invests in, which is a huge deal. Just investing in a VC fund costs 2-2.5% a year. Also, the fee would be 3.6% but AngelList is subsidizing it in the first year.\n\nThere’s a possibility the annual fee could go up in the future and I’ve told the team that this is extremely confusing and weird, and they are working on it with haste.\n\nOverall, I’m expecting to pay the same or less than it costs to invest in a good VC fund, but I’m actually getting access to a fund-of-funds that can do direct, secondary, and fund investments. A typical fund-of-funds charges another 1/10 (fees/carry) on top of the VC’s 2/20, for a total of 3/30.\n\nSome other things I learned:\n\nEarly-stage. Early-stage deals are planned. I would rather invest now in case those early-stage investments get marked up quickly. These deals will be riskier and more illiquid, so there’s no free lunch here. The current portfolio includes late-stage (OpenAI, Anthropic, xAI) and mid-stage (Sierra, Vercel, Crusoe, Legora).\n\nIlliquidity. This is venture capital. The underlying investments are illiquid. Don’t invest if you’re uncomfortable with illiquidity. That said, USVC is working on redemptions of up to 5% of the fund every quarter. It’s not guaranteed, but if it’s offered, you can choose to get partial liquidity along the way.\n\nInternational. There is a lot of demand from international investors. USVC is not yet set up to accept international investors at scale, but they’re working on it.\n\nSales load. There is no sales load. USVC is only available on usvc dot com and the sales load is waived if you buy through the site. In the future, brokers that list USVC may charge up to a ~3% sales load; that’s how they make their money.\n\nDisclosure: I’m a co-founder of AngelList and have shares in the business.",
+      "contentHtml": "I spent the morning digging into USVC fees.\n\nTLDR: In my opinion, there is no lower-cost way to invest in VC other than becoming one. I’m expecting to pay the same or less than it costs to invest in a good VC fund. And a lot less than investing in a fund-of-funds. All while getting the benefits of a fund-of-funds that can do direct, secondary, and fund investments.\n\nCarry. If USVC invests in a fund or SPV, I will pay that manager’s ~20% carry. That’s what I expected. All fund-of-funds do it this way. I’m glad to pay carry to invest with good managers. USVC doesn’t charge additional carry.\n\nDirect investments. There is no underlying carry on USVC’s direct investments and they aim to make this a major portion of the portfolio. This would bring down the blended cost of USVC substantially, compared to a VC fund.\n\nFees. The annual fee in the first year is capped at 2.5%. This includes the fees of the underlying funds that USVC invests in, which is a huge deal. Just investing in a VC fund costs 2-2.5% a year. Also, the fee would be 3.6% but AngelList is subsidizing it in the first year.\n\nThere’s a possibility the annual fee could go up in the future and I’ve told the team that this is extremely confusing and weird, and they are working on it with haste.\n\nOverall, I’m expecting to pay the same or less than it costs to invest in a good VC fund, but I’m actually getting access to a fund-of-funds that can do direct, secondary, and fund investments. A typical fund-of-funds charges another 1/10 (fees/carry) on top of the VC’s 2/20, for a total of 3/30.\n\nSome other things I learned:\n\nEarly-stage. Early-stage deals are planned. I would rather invest now in case those early-stage investments get marked up quickly. These deals will be riskier and more illiquid, so there’s no free lunch here. The current portfolio includes late-stage (OpenAI, Anthropic, xAI) and mid-stage (Sierra, Vercel, Crusoe, Legora).\n\nIlliquidity. This is venture capital. The underlying investments are illiquid. Don’t invest if you’re uncomfortable with illiquidity. That said, USVC is working on redemptions of up to 5% of the fund every quarter. It’s not guaranteed, but if it’s offered, you can choose to get partial liquidity along the way.\n\nInternational. There is a lot of demand from international investors. USVC is not yet set up to accept international investors at scale, but they’re working on it.\n\nSales load. There is no sales load. USVC is only available on usvc dot com and the sales load is waived if you buy through the site. In the future, brokers that list USVC may charge up to a ~3% sales load; that’s how they make their money.\n\nDisclosure: I’m a co-founder of AngelList and have shares in the business.",
+      "publishedAt": "2026-04-24T00:22:00.000Z",
+      "link": "https://x.com/nivi/status/2047471220451578132",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11180,171 +11365,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FHF3sRl9asAcQUpN.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044223190071955578",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "今年美股，特别科技股，最大的威胁应该是两家大模型和SPACE X的上市，会对市场非常严重地吸血，因为体量太大了。除此以外，我对大科技的财报非常期待，所以EPS会超预期，FORWARD P/E那从3月底（上年4月份和22年12月份的估值）22倍反弹到24.5倍的估值我并不认为贵。3月底那时我说过最多的就是大科技很便宜，给我舒适度敢左侧加仓的就是对于基本面的信心和历史估值的参考价值。希望经过这样的一轮，这种判断的角度对大家有帮助。",
-      "contentHtml": "今年美股，特别科技股，最大的威胁应该是两家大模型和SPACE X的上市，会对市场非常严重地吸血，因为体量太大了。除此以外，我对大科技的财报非常期待，所以EPS会超预期，FORWARD P/E那从3月底（上年4月份和22年12月份的估值）22倍反弹到24.5倍的估值我并不认为贵。3月底那时我说过最多的就是大科技很便宜，给我舒适度敢左侧加仓的就是对于基本面的信心和历史估值的参考价值。希望经过这样的一轮，这种判断的角度对大家有帮助。",
-      "publishedAt": "2026-04-15T01:16:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2044223190071955578",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF6JQrtWMAAoKa1.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044218403288744434",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "没有一次不是这样的，因为fear sells，这就是为啥主流媒体喜欢散布恐慌，标题越惊悚，点击率越高。市场越差，流量越好。",
-      "contentHtml": "没有一次不是这样的，因为fear sells，这就是为啥主流媒体喜欢散布恐慌，标题越惊悚，点击率越高。市场越差，流量越好。",
-      "publishedAt": "2026-04-15T00:57:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2044218403288744434",
-      "quote": {
-        "username": "nursingorg92673",
-        "displayName": "angiogram",
-        "content": "这波下跌炸出了哪些klo是利用恐慌情绪去吸粉的",
-        "link": "https://x.com/nursingorg92673/status/2044216222154174625"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044202040843252181",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "ink能不能玩取决于他对于平台是bnb还是mantle，就看kraken给不给赋能了，把不把ink当作平台币。感觉kraken做什么都是半吊子，之前做个打新也是没坚持几期。\n\n到时候看看成本怎么样，高的话就放弃，不是每个项目都能做成base，ink完全没有用户和tvl。测试网也是一堆撸子。",
-      "contentHtml": "ink能不能玩取决于他对于平台是bnb还是mantle，就看kraken给不给赋能了，把不把ink当作平台币。感觉kraken做什么都是半吊子，之前做个打新也是没坚持几期。\n\n到时候看看成本怎么样，高的话就放弃，不是每个项目都能做成base，ink完全没有用户和tvl。测试网也是一堆撸子。",
-      "publishedAt": "2026-04-14T23:52:00.000Z",
-      "link": "https://x.com/0xleng1/status/2044202040843252181",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044173542619591004",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
-      "content": "This will be my last $BTC swing short of the cycle.\n\nEither I get stopped out, or I hold it all the way down to my target. \n\nI’m betting that the cycle timing hasn’t shifted this dramatically.\n\nWill I be wrong? Lets see. 🎲",
-      "contentHtml": "This will be my last <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> swing short of the cycle.\n\nEither I get stopped out, or I hold it all the way down to my target. \n\nI’m betting that the cycle timing hasn’t shifted this dramatically.\n\nWill I be wrong? Lets see. 🎲",
-      "publishedAt": "2026-04-14T21:58:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2044173542619591004",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF5cRE7XoAA9rsR.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "Swing shorted $BTC\n\nSSL 80K. 1W Close above.",
-        "link": "https://x.com/KillaXBT/status/2043826707816239329",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHF0hUTvX0AAqgMR.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044145667044716837",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "如果美国和伊朗签和平协议，石油美元要崩溃？\n如果石油美元崩溃，美国资产少了中东买家。\n这是最近我听到比较多的观点。\n提一些质疑，我也没有正确答案。中东国家23，24年就已经和中国有了人民币交割的协议，分散交割货币已是事实。但石油美元崩溃的逻辑最大的漏洞在替代品是什么？答案是现在还没有。\n对于和中国有贸易顺差的国家（出口到中国的体量比进口体量大），如果全部用人民币结算石油出口，那剩下的人民币你怎么做投资？哪类人民币资产可以承接那么大体量的投资？（我聊过过很多次，我不明白中国为什么不刺激股市，把资本市场做起来）\nAI是用美元定价，全世界的好公司是用美元定价，最稳的债券还是美国短债，你是中东国家，从投资和未来发展角度来看，离不开美国资产，这才是底层逻辑。当然，从国家安全的角度看，不单一押注美元资产也是符合国家利益。所以我的结论是慢慢减少依赖美元的过程不会变，但只要创新，好的投资标的是以美元定价的，在保证国家安全的前提下，没有理由放弃石油美元。欢迎讨论。",
-      "contentHtml": "如果美国和伊朗签和平协议，石油美元要崩溃？\n如果石油美元崩溃，美国资产少了中东买家。\n这是最近我听到比较多的观点。\n提一些质疑，我也没有正确答案。中东国家23，24年就已经和中国有了人民币交割的协议，分散交割货币已是事实。但石油美元崩溃的逻辑最大的漏洞在替代品是什么？答案是现在还没有。\n对于和中国有贸易顺差的国家（出口到中国的体量比进口体量大），如果全部用人民币结算石油出口，那剩下的人民币你怎么做投资？哪类人民币资产可以承接那么大体量的投资？（我聊过过很多次，我不明白中国为什么不刺激股市，把资本市场做起来）\nAI是用美元定价，全世界的好公司是用美元定价，最稳的债券还是美国短债，你是中东国家，从投资和未来发展角度来看，离不开美国资产，这才是底层逻辑。当然，从国家安全的角度看，不单一押注美元资产也是符合国家利益。所以我的结论是慢慢减少依赖美元的过程不会变，但只要创新，好的投资标的是以美元定价的，在保证国家安全的前提下，没有理由放弃石油美元。欢迎讨论。",
-      "publishedAt": "2026-04-14T20:08:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2044145667044716837",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044140903976022030",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
-      "content": "$BTC\n\n“They keep telling you everyone is bearish on $BTC and that everyone is shorting”\n\nExtended Green Delta. \n\nPerpetual longs are aping in while spot is selling. \n\nYou can believe whatever you want, but it doesn’t change the facts.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\n“They keep telling you everyone is bearish on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> and that everyone is shorting”\n\nExtended Green Delta. \n\nPerpetual longs are aping in while spot is selling. \n\nYou can believe whatever you want, but it doesn’t change the facts.",
-      "publishedAt": "2026-04-14T19:49:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2044140903976022030",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF499rQXwAApZ7v.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "They keep telling you everyone is bearish on $BTC and that everyone is shorting.\n\nThat couldn’t be further from the truth.\n\nDelta is extended green, and we’ve had 8 consecutive green daily candles. I’ve seen this movie before. Just when people start believing we’re \"back\", the entire move gets erased in a few red candles.\n\nPeople keep saying, “Killa, you’re a perma bear.”\n\nNo, I’m not. It just so happens I created my account during the final year of the bull run.\n\nBelieve me, you’ll know when I’m net long for new ATHs. Right now just isn’t that time. People are too quick to jump the gun, calling bottoms, and months later those tweets get buried. I don’t play that game.\n\nYes, we could extend slightly higher. The 76–78K region is the upper area to watch. But buying there essentially means buying the first bearish retest in a strong macro downtrend.\n\nThe trend is not bullish. It doesn’t take a genius to see that.\n\nThe market hunts leverage, that’s its objective. \n\nThe cartel needs to liquidate traders to make money. \n\nThe house always wins. Once enough liquidity builds below, they’ll erase this artificial move up like it never happened.\n\nYou call it strength. It isn’t. It’s an orchestrated TWAP bid designed to distribute into limit sells when the time is right.\n\nThe big players, the hedge funds, have been shorting since 120K. Yet all it takes is a 10–20% bounce for people to start calling for targets 20–30% higher than their previous ones. It’s a shame.\n\nThe same thing happened at 120K when people were calling for 150K. I remember the names.\n\nThe same thing happened at 96K when people were calling for 100–104K.\n\nAnd now it’s happening again, with people calling for 80–85K.",
-        "link": "https://x.com/KillaXBT/status/2033651129175650360",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHDj4ojLXQAAQn8J.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044136489571750353",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "噪音里面找重点",
-      "contentHtml": "噪音里面找重点",
-      "publishedAt": "2026-04-14T19:31:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2044136489571750353",
-      "quote": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君",
-        "content": "昨天漏了这条X，直到今天THE HILLS新闻报道。\nLINDSEY GRAHAM，以色列最大的无脑支持者之一，让川普结束战争，努力谈一个历史性的和平协议。我一直认为这是一场川普被犹太人带入的战争，现在连LINDSEY GRAHAM都转向，好信号。请别告诉我最终要伊朗决定，革命卫队决定（好像是个秘密一样），战争既然要三方达成一致，现在起码看到两方有意愿了。",
-        "link": "https://x.com/TJ_Research/status/2039038493221925199",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHEwd_ufWAAElSmC.png"
           }
         ]
       },
