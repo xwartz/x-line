@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T12:23:48.191Z",
+  "lastUpdated": "2026-04-24T12:50:14.521Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,65 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 537,
+    "newFetched": 538,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2047657344637837648",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "孙哥疑似抛售价值 551 万美元的 Spark USDS Farming 奖励！🤨\n\n过去 1 小时孙哥从 $SPK 空投申领和 Staking 奖励合约取走了自己累计 1.2 亿枚 SPK 的奖励，随后充值进了 HTX，价值 551 万美元\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
+      "contentHtml": "孙哥疑似抛售价值 551 万美元的 Spark USDS Farming 奖励！🤨\n\n过去 1 小时孙哥从 <a href=\"/search?f=tweets&q=%23SPK\">$SPK</a> 空投申领和 Staking 奖励合约取走了自己累计 1.2 亿枚 SPK 的奖励，随后充值进了 HTX，价值 551 万美元\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x93904eeC579e5bF7a57C2DD4AfbEA0F1C3e6A1D1\">intel.arkm.com/explorer/addr…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
+      "publishedAt": "2026-04-24T12:42:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2047657344637837648",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGq9dRTbIAAtJzQ.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "「DeFi 超人」孙哥已累计向 Spark 存入 13 亿美元资产，USDS Farming 奖励高达 538 万美元🤯\n\n孙哥地址 0x939…6a1d1 过去 3 小时从 Sky 中提出 3 亿枚 USDS，随后存入 Spark，目前在该平台的存款罗列如下\n\n▶︎ USDS：4.36 亿美元，占存款池的 18.72%\n▶︎ USDC：1.35 亿美元，占存款池的 28.17%\n▶︎ USDT：9339 万美元，占存款池的 9.89%\n\n钱包地址 debank.com/profile/0x93904ee…\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
+        "link": "https://x.com/ai_9684xtpa/status/2047309336180031826",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGmA7N5bkAA2g55.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047655818363830618",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "$BTC\n\nAll these lows will be swept in due time...\n\nIt’s just a matter of how high they want to send this LH.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nAll these lows will be swept in due time...\n\nIt’s just a matter of how high they want to send this LH.",
+      "publishedAt": "2026-04-24T12:36:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2047655818363830618",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGq74jTWIAABRcj.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2047652269513195852",
       "username": "Murphychen888",
@@ -262,6 +316,25 @@
           "url": "https://nitter.net/pic/orig/media%2FHGp3CSga4AErbL_.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2047566603521556667",
+      "username": "LinQingV",
+      "displayName": "Macro_Lin｜市场观察员",
+      "avatar": "https://nitter.net/pic/profile_images%2F1877702741306507264%2F0CbIskr3_bigger.jpg",
+      "content": "先进封装的地位转变是过去两年AI硬件领域最大的认知差之一。以前大家把封装当制造链条的尾巴，低附加值的代工环节。\n\n根本原因是带宽。模型越来越大，compute和memory之间的带宽缺口成了核心瓶颈。传统DDR不够用，所以要HBM，把DRAM die垂直堆叠用超宽总线拉带宽。HBM要发挥作用就必须紧贴compute die，所以需要CoWoS把GPU和HBM放在同一块硅中介层上。HBM堆得越高、数量越多，中介层越大，封装复杂度越高。再叠加chiplet趋势，die之间也需要高带宽互联，又是一层封装需求。\n\n所以封装变重要不是因为封装本身有什么突破，是带宽需求把整个系统架构从芯片问题变成了封装问题。AMKR涨的本质是带宽需求的传导。不算嫩，这个认知切换产业链里的人也就早了一两年。",
+      "contentHtml": "先进封装的地位转变是过去两年AI硬件领域最大的认知差之一。以前大家把封装当制造链条的尾巴，低附加值的代工环节。\n\n根本原因是带宽。模型越来越大，compute和memory之间的带宽缺口成了核心瓶颈。传统DDR不够用，所以要HBM，把DRAM die垂直堆叠用超宽总线拉带宽。HBM要发挥作用就必须紧贴compute die，所以需要CoWoS把GPU和HBM放在同一块硅中介层上。HBM堆得越高、数量越多，中介层越大，封装复杂度越高。再叠加chiplet趋势，die之间也需要高带宽互联，又是一层封装需求。\n\n所以封装变重要不是因为封装本身有什么突破，是带宽需求把整个系统架构从芯片问题变成了封装问题。AMKR涨的本质是带宽需求的传导。不算嫩，这个认知切换产业链里的人也就早了一两年。",
+      "publishedAt": "2026-04-24T06:41:00.000Z",
+      "link": "https://x.com/LinQingV/status/2047566603521556667",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11230,69 +11303,6 @@
             "url": "https://nitter.net/pic/orig/media%2FGxjfB7PaEAAkrtf.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044332267267600692",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "他第一次已经搞完了，母猫都怀孕了\n乱尿没发现，味道还好，已经单独放一套房里了\n\n不绝育的烦恼能接受，不用劝了",
-      "contentHtml": "他第一次已经搞完了，母猫都怀孕了\n乱尿没发现，味道还好，已经单独放一套房里了\n\n不绝育的烦恼能接受，不用劝了",
-      "publishedAt": "2026-04-15T08:29:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2044332267267600692",
-      "quote": {
-        "username": "stellailylz",
-        "displayName": "桔子酱🍊",
-        "content": "等它乱拉乱尿的时候你就该头疼了😂那个味道直冲天灵盖",
-        "link": "https://x.com/stellailylz/status/2044330683410080143"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044328662183665792",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "最近最愁的事情不是两周交易没做好\n是🐱儿子又发情了，但是没给他约到炮  \n每天骚哄烘的对我叫  有次抱起来 棒棒糖都伸出来了\n\n约炮刻不容缓，但是又属实约不到  母猫都被绝育完了😤",
-      "contentHtml": "最近最愁的事情不是两周交易没做好\n是🐱儿子又发情了，但是没给他约到炮  \n每天骚哄烘的对我叫  有次抱起来 棒棒糖都伸出来了\n\n约炮刻不容缓，但是又属实约不到  母猫都被绝育完了😤",
-      "publishedAt": "2026-04-15T08:15:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2044328662183665792",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHF7qFEGasAAfIYg.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044327934060544079",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "补充一下tg群，之前的链接用不了了\n，问什么我都会回答的。\nt.me/+ZLuXe6sTPrhhNTlk",
-      "contentHtml": "补充一下tg群，之前的链接用不了了\n，问什么我都会回答的。\n<a href=\"https://t.me/+ZLuXe6sTPrhhNTlk\">t.me/+ZLuXe6sTPrhhNTlk</a>",
-      "publishedAt": "2026-04-15T08:12:00.000Z",
-      "link": "https://x.com/0xleng1/status/2044327934060544079",
-      "quote": {
-        "username": "0xleng1",
-        "displayName": "Leng",
-        "content": "整合一下目前的几个信息整合的群和表格，需要的可以加一下，没有信息差\n电报的alpha call群，如果觉得推特信息太杂也可以直接看这个\nt.me/+KPL_OCVVwF5lMWFk\n电报的交流群\nt.me/+vLAymI80lnozZDQ0\n空投项目表格群，但是最近有点偷懒了，可能更新不及时。但是整体的都在\ndocs.google.com/spreadsheets…",
-        "link": "https://x.com/0xleng1/status/1961742676812026335"
       },
       "stats": {
         "replies": 0,
