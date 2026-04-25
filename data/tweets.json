@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T16:48:08.519Z",
+  "lastUpdated": "2026-04-25T17:16:26.994Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 536,
+    "newFetched": 539,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2048085465664757975",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "$BTC\n\nWe are approaching the short-term holders realized price. \n\nIn simple terms, during bear markets BTC often stays below, rejecting from it multiple times before a macro bottom is formed. \n\nSince we are testing it directly now, there is a strong chance we see a HTF retrace.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nWe are approaching the short-term holders realized price. \n\nIn simple terms, during bear markets BTC often stays below, rejecting from it multiple times before a macro bottom is formed. \n\nSince we are testing it directly now, there is a strong chance we see a HTF retrace.",
+      "publishedAt": "2026-04-25T17:03:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2048085465664757975",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGxCG85W4AA-UUL.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2048074838988960160",
       "username": "hazenlee",
@@ -11339,27 +11360,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHGAT9GpWsAACW0L.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044647694652809552",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "昨天和朋友讨论 @Gate_zh 你们这次的 $SPCX，到底值不值得参与，最后一致觉得有些关键资讯应该先公开：\n1这个产品你们有正规牌照发行吗？合规监管到底是怎么保障的？\n2有真实的SpaceX底层资产支撑吗？还是纯合成/空气产品？\n3不会就是发个空气币，然后跟散户对赌吧？\n另外时间线也太离谱了：申购4月22日就结束了，结果要等到5月6日前才发币，交易估计得拖到5月20号左右才能开？为什么要锁仓这么久？资金一直冻着干嘛？为什么不像Bitget那样，申购一结束马上就开放交易？\n\n希望Gate官方给个痛快、透明的答复，别让大家一直猜来猜去！",
-      "contentHtml": "昨天和朋友讨论 <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 你们这次的 $SPCX，到底值不值得参与，最后一致觉得有些关键资讯应该先公开：\n1这个产品你们有正规牌照发行吗？合规监管到底是怎么保障的？\n2有真实的SpaceX底层资产支撑吗？还是纯合成/空气产品？\n3不会就是发个空气币，然后跟散户对赌吧？\n另外时间线也太离谱了：申购4月22日就结束了，结果要等到5月6日前才发币，交易估计得拖到5月20号左右才能开？为什么要锁仓这么久？资金一直冻着干嘛？为什么不像Bitget那样，申购一结束马上就开放交易？\n\n希望Gate官方给个痛快、透明的答复，别让大家一直猜来猜去！",
-      "publishedAt": "2026-04-16T05:22:00.000Z",
-      "link": "https://x.com/hazenlee/status/2044647694652809552",
-      "quote": {
-        "username": "Eth527",
-        "displayName": "蕉易猿-527",
-        "content": "不是，我想问，Gate @Gate 好歹也是个知名交易所，在 Pre-IPO 这个赛道上这么野鸡吗？作为一名商事律师，我真的都要笑了，这都是啥水平抄出来的作业？\n\n大哥， Pre-IPO 所属的赛道是 RWA，贵在和真实世界高度拟合，讲究的是一个合规，否则 WEB2 的人是不认的。难道是发给 WEB3 的兄弟们玩儿吗？一个知名交易所搞的 RWA 产品，比我去 CX 盘路演的产品路子还野，我也是服了。如果按照 Gate 的产品逻辑，那 TM 我也可以做一个类似的东西出来。但是 PIAPIA  让 WEB2 的人看笑话。\n\n——————————\n\n简单梳理下经过，Gate 看到 Bitget @Bitget_zh  做 SpaceX Pre-IPO 有热度，立马抄了个作业，看起来都是SpaceX 股票打新，但仔细一看，给我整乐了，它自己发行的😂\n\nBitget 为了合规发行 PreIPO 产品，联合 Republic 采用了Mirror Tokens+Reg S 的形式。划重点，后面要考的。我先分别解析下这三个要点：\n\n1⃣ Republic 是美国专业的数字化证券发行平台，有多年 tokenized private market 经验，接受美国监管审查。\n2⃣ Reg S 是美国证券法里专门给非美国人设计的合规发行通道，不需要像公开发行那样全面注册 SEC，法律风险更可控。这个产品框架很更“传统金融化”。\n3⃣ preSPAX 被包装成债务工具，有清晰的支付公式和到期结算机制，法律上更像银行发的结构化理财产品。\n\n这里可以延伸下，为什么是债务工具，我们不是买的 SpaceX 的 IPO 吗？那应该买的是股权或者股票呀？怎么变成债券了。\n\n里要说下现行 Pre-IPO 产品的一些弊端，那就是 SPV。SPV 的意思是注册一个隔离主体，由 SPV 持有真实股票。 再一比一映射成 Token 发给大家。看起来底层有真实资产，实际上层级结构很多，你追溯不到真实的持股情况。而且，透明度也不足，离岸 SPV 也有法律风险。听起来真实，实际上把把风险从“发行方信用”转移到了“多层法律结构 + 运营复杂性”。SPV 风险更隐蔽，是“SPV 底层出问题、股份被卡、审计不透明、锁仓期被动”。直接发股权或 SPV 容易踩到美国证券法红线（股东人数、注册要求、SEC 审查等）。债务票据走的是“或有支付票据”的成熟路径，法律先例多、风险可控。\n\n所以我可以理解 Bitget 又为了合规，又想突破 SPV 带来的各种限制，选择了债券形式的凭证，并由合规主体发售。这对 RWA 而言属于一个非常酷的创新。\n\n——————————\n\n说到这里，，再来对比下 Gate 了，抄袭了 Bitget 的债券框架，但是只抄了一半。\n\n1⃣ Gate 明说发行方是 Gate 自己，老大，你只是持有交易所牌照啊，怎么自己下场发债券了。\n2⃣ 所以从监管和合规的角度，Bitget 的 preSPAX 是符合美国 Regulation S + 债务工具框架的，Gate 属于自营状态，自己发行自己监管，然后文档里面自己给自己各种免责。给我整乐了，自己发、自己卖、自己兜底、自己给自己免责？\n3⃣ 最后他发行的产品性质类似于 Gate 自己打的一个欠条。\n\n我也不知道说啥好，反正就是很无语。🥱\n\n不是，咱们不是 RWA 吗？咱们不是真实资产上链吗？咱们主打的不是一个合规和真实世界认可吗？就这个框架结构，咱也不好说，咱也不敢说。自己打欠条发债券，我真的是要谢。😂\n\n讲到这里，我想 Gate 自己也是知道自己的东西上不了台面，所以就给了 2000WU 的额度。其中最离谱的是交易开启时间，4.20-4.22认购，5.6日才分发，分发了还不一定可以交易，反正认购后30天内可以交易。\n\n相比 Bitget 立马可以拿到筹码卖掉，Gate的延期的原因就藏在活动说明中的一句话：“Gate 通过在市场上取得 SpaceX 股票对冲敞口的方式，为用户提供符合目标企业合理市场价值的多种退出方式或长期持有方式。”\n\n简单说，Bitget 和 Republic  是靠合规机构的债务承诺和信用来支撑，用自己的资产负债表和风险管理能力来保证兑付。而 Gate 没有底的，不管是盘前交易还是 IPO 后的兑换，都要靠自己。所以他得躲在后面观察，看其他交易所开盘以后到底啥情况，尤其是开盘以后充分波动然后稳定定价后才自己开盘，准备时间才相对充足。给我的感觉是发“空气币”，Gate 打着 SpaceX 的名义发的空气币然后Gate自己站台。\n\n只是苦了 Gate 的用户了，先是参与认购的资金可能要被锁1个月才能流通。如果盘前价开盘以后疯涨，然后等 Gate 开盘以后跌麻了，那你们是看着别人赚钱啊。说个阴谋论，如果我是 Gate ，我肯定也希望跌下来再开盘。因为 Gate 是按照 590 的价格给大家打欠条的。如果跌破 590 再开盘，那岂不是妥妥赚一波。\n\n换一句话说，如果 Gate 发现开盘以后一直疯涨，你猜他开盘不开盘？如果拉到了1200，它才开盘，它岂不是要赔 2000W，你猜它会不会这么傻？\n\n如果我是 Gate ，最好的策略是等 Bitget 这边开盘以后先以接近 590 的价格买一堆。如果就此跌了，反正到时候也是按低于 590 的价格赔付的，不亏不赚。如果涨了，他一直拿着不卖，等涨吃力了，他高位抛了，跌下去再开盘，借用户的🐔下蛋。\n\n打的一手好牌啊~\n\n——————————\n\n说实话，蹭热度拉新没什么好诟病的，但是，从长远的角度看，专业的角度看，战略的角度看。Gate 还停留在旧时代，其行为和以前交易所抢先上热点币没啥区别。但新时代来了，WEB3已经走进现实，区块链技术已经被美国运用到金融领域，成为了重要的基础设施。在这个时代背景下，拥抱合规产品、创新合规路径才是交易所的未来走向。\n\n也许这一时，Gate 可以蹭热度，但放长远看，WEB2 的人进来的时候，首先关注的就是专业合规。Gate 这个活动只能说可以再拉拉 WEB3 的存量市场。但合规的RWA才能撬动 WEB2 的增量市场。\n\n希望 Gate 的领导们保持战略眼光，目光放长远一点，不要搞这些小聪明，不然会从 2-3 线所滑向 4-5 线所的。",
-        "link": "https://x.com/Eth527/status/2044635272764432434"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
