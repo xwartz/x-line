@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T20:31:31.261Z",
+  "lastUpdated": "2026-04-26T20:52:28.188Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,7 +93,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 540,
+    "newFetched": 542,
     "successUsers": 27,
     "failedUsers": 1
   },
@@ -5110,25 +5110,6 @@
       "contentHtml": "今年最好的打新usdai 本金三倍了 后面公募好像随便买，“早知道”我就打满了，只打了一个低保。",
       "publishedAt": "2026-04-22T09:16:00.000Z",
       "link": "https://x.com/0xleng1/status/2046880816563687748",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2046872356451209526",
-      "username": "Marczeller",
-      "displayName": "Marc Zeller",
-      "avatar": "https://nitter.net/pic/profile_images%2F1757172379535478784%2F1hreT0cm_bigger.jpg",
-      "content": "Since more than a decade, I've been supporting builders with small angel checks.\n\nMy thesis is simple: I'm good at generating money for both the projects I work on and myself, and I have a decent, low-profile lifestyle, with a reasonable house and a \"boring\" EV rather than mansions and supercars.\n\nSo part of my money is reinjected toward builders in verticals I want exposure to and want to support in their development.\n\n- Most of these checks saw no return, money gone, it's part of the game.\n- Some of them were quite profitable and bankrolled the next wave of investments\n- And some yielded nothing, but I'm still proud of the product built.\nLi.Fi is a good example. While as an investor I saw no return yet, I love their product suite and think @PhilippZentner is a chad.\n\nSometimes I bet on a team, sometimes I have a thesis and bet on a whole vertical hoping one of them ship a good product.\n\nFor example, a couple of cycles ago I was convinced MetaMask was a bad wallet that was hurting the global EVM user experience, so I invested in many alternatives.\n\nWhen Rabby came out, I wasn't an investor. I still pushed them regardless because it was genuinely the best wallet. I think I contributed to its adoption in the ecosystem, and I'm proud of that, even if that meant no yield for me and less exposure to the ones I was invested in.\n\nIn the context of Aave, thinking a $20k angel check vested over years can influence an 8-figure position in a project I spent my sweat and blood on is a bit delusional.\n\nMy thesis on Aave has always been to carefully curate the best team in a vertical and contribute to kingmaking them. When you're managing onchain lending, you need to be opinionated, in terms of relationships and pure risk surface. One good king at $10B TVL is simply superior to 5 unequal guys at $2B each on average. This has yielded amazing results with Lido, Etherfi, Ethena (my pushback on Resolv saved Aave), Maple, and Pendle.\n\nFor Kelp, we onboarded them, after pushing back and voting against due to a weak oracle, locked up with only borrowing wstETH and with clear caps to generate an LRT <> LST <> WETH flywheel generating dozens of millions of dollars of revenue that is currently financing the paychecks of the people who seem less focused on \"leaving no ghost behind\", which was our mantra under my tenure, and more focused on trying to point fingers.\n\nExpanding the scope of assets it was allowed to borrow is something I pushed back on for a while because it was conflicting with our existing relationships.\n\nLiquid (re)staking in a protocol like Aave is a delicate balance with incredibly valuable users who hold their position literally for as long as the carry is profitable. Adding competitors to these guys can increase borrow costs, and throwing Lido users under the bus to benefit some LRT users might be a good short-term idea, but if not carefully tailored (as we did with Etherfi), it will eventually backfire.\n\nReality is more pragmatic. I do not pretend to own domain expertise on every topic, otherwise I was severely underpaid 😭. The rsETH<>wETH borrow proposal was launched in one of the most stressful periods of my life, when I witnessed years of my efforts being destroyed in a few weeks, and when the proposal received a green light from both risk teams and tech analysis. I did exactly what Stani and everyone else did: I didn't push back and voted yes.\n\nI have no issue taking my own weight own responsibility in this and will not pretend otherwise.\n\nBut I'm not allowing anyone to say my decision was influenced by an angel check.",
-      "contentHtml": "Since more than a decade, I've been supporting builders with small angel checks.\n\nMy thesis is simple: I'm good at generating money for both the projects I work on and myself, and I have a decent, low-profile lifestyle, with a reasonable house and a \"boring\" EV rather than mansions and supercars.\n\nSo part of my money is reinjected toward builders in verticals I want exposure to and want to support in their development.\n\n- Most of these checks saw no return, money gone, it's part of the game.\n- Some of them were quite profitable and bankrolled the next wave of investments\n- And some yielded nothing, but I'm still proud of the product built.\n<a href=\"http://Li.Fi\">Li.Fi</a> is a good example. While as an investor I saw no return yet, I love their product suite and think <a href=\"/PhilippZentner\" title=\"Philipp Zentner | LI.FI\">@PhilippZentner</a> is a chad.\n\nSometimes I bet on a team, sometimes I have a thesis and bet on a whole vertical hoping one of them ship a good product.\n\nFor example, a couple of cycles ago I was convinced MetaMask was a bad wallet that was hurting the global EVM user experience, so I invested in many alternatives.\n\nWhen Rabby came out, I wasn't an investor. I still pushed them regardless because it was genuinely the best wallet. I think I contributed to its adoption in the ecosystem, and I'm proud of that, even if that meant no yield for me and less exposure to the ones I was invested in.\n\nIn the context of Aave, thinking a $20k angel check vested over years can influence an 8-figure position in a project I spent my sweat and blood on is a bit delusional.\n\nMy thesis on Aave has always been to carefully curate the best team in a vertical and contribute to kingmaking them. When you're managing onchain lending, you need to be opinionated, in terms of relationships and pure risk surface. One good king at $10B TVL is simply superior to 5 unequal guys at $2B each on average. This has yielded amazing results with Lido, Etherfi, Ethena (my pushback on Resolv saved Aave), Maple, and Pendle.\n\nFor Kelp, we onboarded them, after pushing back and voting against due to a weak oracle, locked up with only borrowing wstETH and with clear caps to generate an LRT &lt;&gt; LST &lt;&gt; WETH flywheel generating dozens of millions of dollars of revenue that is currently financing the paychecks of the people who seem less focused on \"leaving no ghost behind\", which was our mantra under my tenure, and more focused on trying to point fingers.\n\nExpanding the scope of assets it was allowed to borrow is something I pushed back on for a while because it was conflicting with our existing relationships.\n\nLiquid (re)staking in a protocol like Aave is a delicate balance with incredibly valuable users who hold their position literally for as long as the carry is profitable. Adding competitors to these guys can increase borrow costs, and throwing Lido users under the bus to benefit some LRT users might be a good short-term idea, but if not carefully tailored (as we did with Etherfi), it will eventually backfire.\n\nReality is more pragmatic. I do not pretend to own domain expertise on every topic, otherwise I was severely underpaid 😭. The rsETH&lt;&gt;wETH borrow proposal was launched in one of the most stressful periods of my life, when I witnessed years of my efforts being destroyed in a few weeks, and when the proposal received a green light from both risk teams and tech analysis. I did exactly what Stani and everyone else did: I didn't push back and voted yes.\n\nI have no issue taking my own weight own responsibility in this and will not pretend otherwise.\n\nBut I'm not allowing anyone to say my decision was influenced by an angel check.",
-      "publishedAt": "2026-04-22T08:42:00.000Z",
-      "link": "https://x.com/Marczeller/status/2046872356451209526",
-      "retweet": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11382,6 +11363,33 @@
           "url": "https://nitter.net/pic/orig/media%2FHGFjDWCboAAhZdB.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2045023824442507428",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
+      "content": "some shitcoins looks like had good retrace",
+      "contentHtml": "some shitcoins looks like had good retrace",
+      "publishedAt": "2026-04-17T06:17:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2045023824442507428",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGFiU0ob0AAemKo.png"
+        }
+      ],
+      "quote": {
+        "username": "JoshuaDeuk",
+        "displayName": "Joshua | MOZAIK 🇰🇷",
+        "content": "Screening reflexive shitcoin 101\n\nI think it’s better to trade names that are down a lot\nbut had market attention before.\n\nLowerlow after lowerlow \n\nFeels like this is less of a market to chase what already driven by crypto native funds with strong fundamental but more of a market to find the next rotation out of names that have been completely left behind.\n\nThe way I’d screen them is pretty simple.\n\n1. listed on many exchanges\n\nliquidity has to be there.\nif volume is there, once attention comes back the squeeze can happen much faster.\n\n2. high perp risk limit\nthis matters a lot.\nif risk limit is too low, bigger players and whales don’t even want to bother with it.\n\n3. high OI / mcap\nthis matters too.\nyou need enough OI so shorts keep coming in, and that can become fuel for the move higher.\n\n4. narrative we already understand\nI’d rather trade something where we know why it can go up, who might look at it, and what flow it can be tied to, instead of some random weird coin nobody understands.\n\nI think the main point is to stop chasing the names the market already loved, and start finding the ones that are still abandoned but have the right conditions.\n\nEven just screening like this probably removes a lot of useless names",
+        "link": "https://x.com/JoshuaDeuk/status/2044758931793391663"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
