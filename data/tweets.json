@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T11:17:37.980Z",
+  "lastUpdated": "2026-04-26T11:46:07.889Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 539,
+    "newFetched": 540,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2048363801062359415",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "$BTC\n\nThe market rarely gives perfect retests. \n\nIf that were the case, everyone would be rich.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nThe market rarely gives perfect retests. \n\nIf that were the case, everyone would be rich.",
+      "publishedAt": "2026-04-26T11:29:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2048363801062359415",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHG0_zfgbIAAXgmP.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2048359243296944403",
       "username": "coinkarma_",
@@ -648,6 +669,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHGzj_jKbQAACoMC.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11433,27 +11458,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHGEjtV5asAAnMMQ.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044951931916026003",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "美股这几天在我平空后拉了个新高，在不确定新高是否有背离的情况下我还是不太好做决策追涨。不过几个即将IPO的标的让我很感兴趣。比如最近大热的spaceX，Anthropic，openAI…于是我也找了几个PRE-IPO的平台体验了一下。我昨天把 @JarsyInc 的平台 jarsy.com/ 从头到尾走了一遍，注册、KYC、充值、下单、看持仓，全程自己操作。\n\n看到能用几十刀起步买SpaceX、xAI、OpenAI这些以前只有机构能碰的pre-IPO标的，确实觉得门槛被拉低了很多。他们把股权做成token，1:1真实背书，链上还能查proof of reserves，这点透明度比传统私募强不少。\n\n流程很简单，邮箱或者Google注册，身份证KYC大概30秒过，USDC或者法币充进去马上到账。市场页面把估值、费用、NAV都摆得很清楚，点买就行，App里持仓实时跟着波动。\n\n我小仓位买了点AI相关的，现在portfolio里多了一块pre-IPO的仓位。心态上有点变化，以前只能在二级市场追概念，现在能直接卡到一级源头。风险我清楚，流动性差、政策不确定性都在，但Jarsy把尽调和托管都做了，整体比我想象中靠谱。\n\n对我这种Hodler来说，这东西就是把以前看不见的投行高端机会拆成能碰的小块。不是说一定暴富，但多了一种提前布局的方式。以后我也可以和朋友吹牛说我是spaceX的股东了🤣\n想试的可以自己去看看吧，DYOR🤟🏻",
-      "contentHtml": "美股这几天在我平空后拉了个新高，在不确定新高是否有背离的情况下我还是不太好做决策追涨。不过几个即将IPO的标的让我很感兴趣。比如最近大热的spaceX，Anthropic，openAI…于是我也找了几个PRE-IPO的平台体验了一下。我昨天把 <a href=\"/JarsyInc\" title=\"Jarsy\">@JarsyInc</a> 的平台 <a href=\"https://www.jarsy.com/\">jarsy.com/</a> 从头到尾走了一遍，注册、KYC、充值、下单、看持仓，全程自己操作。\n\n看到能用几十刀起步买SpaceX、xAI、OpenAI这些以前只有机构能碰的pre-IPO标的，确实觉得门槛被拉低了很多。他们把股权做成token，1:1真实背书，链上还能查proof of reserves，这点透明度比传统私募强不少。\n\n流程很简单，邮箱或者Google注册，身份证KYC大概30秒过，USDC或者法币充进去马上到账。市场页面把估值、费用、NAV都摆得很清楚，点买就行，App里持仓实时跟着波动。\n\n我小仓位买了点AI相关的，现在portfolio里多了一块pre-IPO的仓位。心态上有点变化，以前只能在二级市场追概念，现在能直接卡到一级源头。风险我清楚，流动性差、政策不确定性都在，但Jarsy把尽调和托管都做了，整体比我想象中靠谱。\n\n对我这种Hodler来说，这东西就是把以前看不见的投行高端机会拆成能碰的小块。不是说一定暴富，但多了一种提前布局的方式。以后我也可以和朋友吹牛说我是spaceX的股东了🤣\n想试的可以自己去看看吧，DYOR🤟🏻",
-      "publishedAt": "2026-04-17T01:31:00.000Z",
-      "link": "https://x.com/hazenlee/status/2044951931916026003",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGEg8K-asAAILmc.jpg"
         }
       ],
       "stats": {
