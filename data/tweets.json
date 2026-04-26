@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T17:03:12.053Z",
+  "lastUpdated": "2026-04-26T17:28:45.433Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,7 +93,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 541,
+    "newFetched": 543,
     "successUsers": 27,
     "failedUsers": 1
   },
@@ -173,6 +173,31 @@
           "url": "https://nitter.net/pic/orig/media%2FHG1pH67a4AAvCNU.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2048406011866947979",
+      "username": "LinQingV",
+      "displayName": "Macro_Lin｜市场观察员",
+      "avatar": "https://nitter.net/pic/profile_images%2F1877702741306507264%2F0CbIskr3_bigger.jpg",
+      "content": "把先进封装设备这条线从头到尾分析了一遍，从工艺原理到设备供应商再到各家存储厂的路线选择，信息量比较大，整理一条长推把脉络串起来。\n\n从封装工艺看，目前主流的把die连在一起的方式有三种。Mass Reflow，就是传统回流焊，把所有bump一次性过炉焊上去，速度快成本低，但pitch不能太细。TCB（热压缩键合），逐颗die加热加压，精度更高，能做更细的pitch，但速度慢。Hybrid Bonding，铜pad直接键合，连bump都取消了，pitch可以压到10μm以下，是终极方案但成本也最高。\n\n这三种工艺对应的场景完全不同。台积电的CoWoS-S，就是英伟达GPU用的那个2.5D封装，把逻辑die和HBM贴到硅中介层上，用的是mass reflow。台积电的SoIC，3D垂直堆叠方案，用的是Hybrid Bonding，AMD的X3D就是这个路线。Intel的Foveros Direct 3D也是HB路线，bond pitch做到9μm，下一代要缩到3μm。\n\nHBM这边更有意思，三家存储厂走了完全不同的路线。SK海力士从HBM2E开始用MR-MUF，一次性回流加模塑底填充，效率高，对翘曲控制好，12层堆叠良率做到了业界最高。三星和美光走的是TC-NCF，逐层热压缩加非导电薄膜。两条路线各有优劣，但SK海力士靠MR-MUF的良率优势建立了HBM市场的绝对领先。\n\n到了HBM4这一代（2026年量产），路线分化更加剧烈。SK海力士的态度是能用MR-MUF就继续用，同时储备HB技术作为备选。三星反过来，要在HBM4上直接跳到Hybrid Bonding，它叫HCB，但目前良率据说只有10%左右。美光继续TC-NCF做12层HBM4。至于HB什么时候真正成为HBM的标配，大概率要等HBM4E甚至HBM5，因为JEDEC把HBM4高度标准从720μm放宽到775μm，给bump方案多续了一代命。\n\n这里面最值得关注的变化在设备端。TCB设备的供应链正在剧烈重组。SK海力士那边，Hanmi原来是独家供应商，现在ASMPT快速切入，拿下了大约一半的份额，Hanmi和Hanwha之间还爆发了专利战，互相消耗。三星用自家SEMES的设备，体系内循环。美光最关键，之前用Shinkawa和Hanmi，但HBM4对精度要求更高，据渠道信息美光将全面转向BESI，而且因为地缘政治因素不太可能用ASMPT。\n\n所以BESI的增长逻辑其实比市场叙事里说的更丰富。市场只盯着Hybrid Bonding的垄断故事，但TCB这条线BESI也在吃份额。HB端，台积电SoIC放量加上Intel Foveros Direct上线，是确定性最高的增量。TCB端，美光HBM4转单是正在发生的事情。两条线同时扩张，这才是花旗把估值从37倍扩到40倍的底层支撑。\n\n但40倍P/E  2027E定价的还是完美执行。设备公司的订单弹性是双向的，台积电如果在2027年调整HB的capex节奏，或者HBM4的bump方案比预期多撑一代，BESI的订单簿都会受到影响。这也是潜在的风险点。\n\nHybrid Bonding的产业方向倒是没有争议，设备供应链的重组也在加速。",
+      "contentHtml": "把先进封装设备这条线从头到尾分析了一遍，从工艺原理到设备供应商再到各家存储厂的路线选择，信息量比较大，整理一条长推把脉络串起来。\n\n从封装工艺看，目前主流的把die连在一起的方式有三种。Mass Reflow，就是传统回流焊，把所有bump一次性过炉焊上去，速度快成本低，但pitch不能太细。TCB（热压缩键合），逐颗die加热加压，精度更高，能做更细的pitch，但速度慢。Hybrid Bonding，铜pad直接键合，连bump都取消了，pitch可以压到10μm以下，是终极方案但成本也最高。\n\n这三种工艺对应的场景完全不同。台积电的CoWoS-S，就是英伟达GPU用的那个2.5D封装，把逻辑die和HBM贴到硅中介层上，用的是mass reflow。台积电的SoIC，3D垂直堆叠方案，用的是Hybrid Bonding，AMD的X3D就是这个路线。Intel的Foveros Direct 3D也是HB路线，bond pitch做到9μm，下一代要缩到3μm。\n\nHBM这边更有意思，三家存储厂走了完全不同的路线。SK海力士从HBM2E开始用MR-MUF，一次性回流加模塑底填充，效率高，对翘曲控制好，12层堆叠良率做到了业界最高。三星和美光走的是TC-NCF，逐层热压缩加非导电薄膜。两条路线各有优劣，但SK海力士靠MR-MUF的良率优势建立了HBM市场的绝对领先。\n\n到了HBM4这一代（2026年量产），路线分化更加剧烈。SK海力士的态度是能用MR-MUF就继续用，同时储备HB技术作为备选。三星反过来，要在HBM4上直接跳到Hybrid Bonding，它叫HCB，但目前良率据说只有10%左右。美光继续TC-NCF做12层HBM4。至于HB什么时候真正成为HBM的标配，大概率要等HBM4E甚至HBM5，因为JEDEC把HBM4高度标准从720μm放宽到775μm，给bump方案多续了一代命。\n\n这里面最值得关注的变化在设备端。TCB设备的供应链正在剧烈重组。SK海力士那边，Hanmi原来是独家供应商，现在ASMPT快速切入，拿下了大约一半的份额，Hanmi和Hanwha之间还爆发了专利战，互相消耗。三星用自家SEMES的设备，体系内循环。美光最关键，之前用Shinkawa和Hanmi，但HBM4对精度要求更高，据渠道信息美光将全面转向BESI，而且因为地缘政治因素不太可能用ASMPT。\n\n所以BESI的增长逻辑其实比市场叙事里说的更丰富。市场只盯着Hybrid Bonding的垄断故事，但TCB这条线BESI也在吃份额。HB端，台积电SoIC放量加上Intel Foveros Direct上线，是确定性最高的增量。TCB端，美光HBM4转单是正在发生的事情。两条线同时扩张，这才是花旗把估值从37倍扩到40倍的底层支撑。\n\n但40倍P/E  2027E定价的还是完美执行。设备公司的订单弹性是双向的，台积电如果在2027年调整HB的capex节奏，或者HBM4的bump方案比预期多撑一代，BESI的订单簿都会受到影响。这也是潜在的风险点。\n\nHybrid Bonding的产业方向倒是没有争议，设备供应链的重组也在加速。",
+      "publishedAt": "2026-04-26T14:17:00.000Z",
+      "link": "https://x.com/LinQingV/status/2048406011866947979",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHG1mJFkbUAA6OmY.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5044,25 +5069,6 @@
       "contentHtml": "今年最好的打新usdai 本金三倍了 后面公募好像随便买，“早知道”我就打满了，只打了一个低保。",
       "publishedAt": "2026-04-22T09:16:00.000Z",
       "link": "https://x.com/0xleng1/status/2046880816563687748",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2046872356451209526",
-      "username": "Marczeller",
-      "displayName": "Marc Zeller",
-      "avatar": "https://nitter.net/pic/profile_images%2F1757172379535478784%2F1hreT0cm_bigger.jpg",
-      "content": "Since more than a decade, I've been supporting builders with small angel checks.\n\nMy thesis is simple: I'm good at generating money for both the projects I work on and myself, and I have a decent, low-profile lifestyle, with a reasonable house and a \"boring\" EV rather than mansions and supercars.\n\nSo part of my money is reinjected toward builders in verticals I want exposure to and want to support in their development.\n\n- Most of these checks saw no return, money gone, it's part of the game.\n- Some of them were quite profitable and bankrolled the next wave of investments\n- And some yielded nothing, but I'm still proud of the product built.\nLi.Fi is a good example. While as an investor I saw no return yet, I love their product suite and think @PhilippZentner is a chad.\n\nSometimes I bet on a team, sometimes I have a thesis and bet on a whole vertical hoping one of them ship a good product.\n\nFor example, a couple of cycles ago I was convinced MetaMask was a bad wallet that was hurting the global EVM user experience, so I invested in many alternatives.\n\nWhen Rabby came out, I wasn't an investor. I still pushed them regardless because it was genuinely the best wallet. I think I contributed to its adoption in the ecosystem, and I'm proud of that, even if that meant no yield for me and less exposure to the ones I was invested in.\n\nIn the context of Aave, thinking a $20k angel check vested over years can influence an 8-figure position in a project I spent my sweat and blood on is a bit delusional.\n\nMy thesis on Aave has always been to carefully curate the best team in a vertical and contribute to kingmaking them. When you're managing onchain lending, you need to be opinionated, in terms of relationships and pure risk surface. One good king at $10B TVL is simply superior to 5 unequal guys at $2B each on average. This has yielded amazing results with Lido, Etherfi, Ethena (my pushback on Resolv saved Aave), Maple, and Pendle.\n\nFor Kelp, we onboarded them, after pushing back and voting against due to a weak oracle, locked up with only borrowing wstETH and with clear caps to generate an LRT <> LST <> WETH flywheel generating dozens of millions of dollars of revenue that is currently financing the paychecks of the people who seem less focused on \"leaving no ghost behind\", which was our mantra under my tenure, and more focused on trying to point fingers.\n\nExpanding the scope of assets it was allowed to borrow is something I pushed back on for a while because it was conflicting with our existing relationships.\n\nLiquid (re)staking in a protocol like Aave is a delicate balance with incredibly valuable users who hold their position literally for as long as the carry is profitable. Adding competitors to these guys can increase borrow costs, and throwing Lido users under the bus to benefit some LRT users might be a good short-term idea, but if not carefully tailored (as we did with Etherfi), it will eventually backfire.\n\nReality is more pragmatic. I do not pretend to own domain expertise on every topic, otherwise I was severely underpaid 😭. The rsETH<>wETH borrow proposal was launched in one of the most stressful periods of my life, when I witnessed years of my efforts being destroyed in a few weeks, and when the proposal received a green light from both risk teams and tech analysis. I did exactly what Stani and everyone else did: I didn't push back and voted yes.\n\nI have no issue taking my own weight own responsibility in this and will not pretend otherwise.\n\nBut I'm not allowing anyone to say my decision was influenced by an angel check.",
-      "contentHtml": "Since more than a decade, I've been supporting builders with small angel checks.\n\nMy thesis is simple: I'm good at generating money for both the projects I work on and myself, and I have a decent, low-profile lifestyle, with a reasonable house and a \"boring\" EV rather than mansions and supercars.\n\nSo part of my money is reinjected toward builders in verticals I want exposure to and want to support in their development.\n\n- Most of these checks saw no return, money gone, it's part of the game.\n- Some of them were quite profitable and bankrolled the next wave of investments\n- And some yielded nothing, but I'm still proud of the product built.\n<a href=\"http://Li.Fi\">Li.Fi</a> is a good example. While as an investor I saw no return yet, I love their product suite and think <a href=\"/PhilippZentner\" title=\"Philipp Zentner | LI.FI\">@PhilippZentner</a> is a chad.\n\nSometimes I bet on a team, sometimes I have a thesis and bet on a whole vertical hoping one of them ship a good product.\n\nFor example, a couple of cycles ago I was convinced MetaMask was a bad wallet that was hurting the global EVM user experience, so I invested in many alternatives.\n\nWhen Rabby came out, I wasn't an investor. I still pushed them regardless because it was genuinely the best wallet. I think I contributed to its adoption in the ecosystem, and I'm proud of that, even if that meant no yield for me and less exposure to the ones I was invested in.\n\nIn the context of Aave, thinking a $20k angel check vested over years can influence an 8-figure position in a project I spent my sweat and blood on is a bit delusional.\n\nMy thesis on Aave has always been to carefully curate the best team in a vertical and contribute to kingmaking them. When you're managing onchain lending, you need to be opinionated, in terms of relationships and pure risk surface. One good king at $10B TVL is simply superior to 5 unequal guys at $2B each on average. This has yielded amazing results with Lido, Etherfi, Ethena (my pushback on Resolv saved Aave), Maple, and Pendle.\n\nFor Kelp, we onboarded them, after pushing back and voting against due to a weak oracle, locked up with only borrowing wstETH and with clear caps to generate an LRT &lt;&gt; LST &lt;&gt; WETH flywheel generating dozens of millions of dollars of revenue that is currently financing the paychecks of the people who seem less focused on \"leaving no ghost behind\", which was our mantra under my tenure, and more focused on trying to point fingers.\n\nExpanding the scope of assets it was allowed to borrow is something I pushed back on for a while because it was conflicting with our existing relationships.\n\nLiquid (re)staking in a protocol like Aave is a delicate balance with incredibly valuable users who hold their position literally for as long as the carry is profitable. Adding competitors to these guys can increase borrow costs, and throwing Lido users under the bus to benefit some LRT users might be a good short-term idea, but if not carefully tailored (as we did with Etherfi), it will eventually backfire.\n\nReality is more pragmatic. I do not pretend to own domain expertise on every topic, otherwise I was severely underpaid 😭. The rsETH&lt;&gt;wETH borrow proposal was launched in one of the most stressful periods of my life, when I witnessed years of my efforts being destroyed in a few weeks, and when the proposal received a green light from both risk teams and tech analysis. I did exactly what Stani and everyone else did: I didn't push back and voted yes.\n\nI have no issue taking my own weight own responsibility in this and will not pretend otherwise.\n\nBut I'm not allowing anyone to say my decision was influenced by an angel check.",
-      "publishedAt": "2026-04-22T08:42:00.000Z",
-      "link": "https://x.com/Marczeller/status/2046872356451209526",
-      "retweet": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
