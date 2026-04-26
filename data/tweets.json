@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T14:31:22.115Z",
+  "lastUpdated": "2026-04-26T14:53:20.619Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 541,
+    "newFetched": 542,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2048409345205981480",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "Truly... Ironic... $BTC",
+      "contentHtml": "Truly... Ironic... <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
+      "publishedAt": "2026-04-26T14:30:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2048409345205981480",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHG1pH67a4AAvCNU.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2048405553823752435",
       "username": "daidaibtc",
@@ -11382,27 +11403,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHGCnEl9WkAAy3SV.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2044972571293306996",
-      "username": "JoshuaDeuk",
-      "displayName": "Joshua | MOZAIK 🇰🇷",
-      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
-      "content": "we saw dogs getting cured with ai\n\nwouldn’t this make DeSci more legit than before?\n\nCrossBridge Bio, backed by VitaDAO, got acquired by Eli Lilly for up to $300M, which proves decentralized bootstrapping for medical IPs can actually work\n\nrecent medical breakthrough with an ADHD peptide\n\nBixBench research product is already live with real users including Harvard, Stanford, Cambridge, and Pfizer\n\ninteresting spot to watch here\n\nobviously we still need actual flow to come back into the token, but yeah I think $BIO looks cheap here",
-      "contentHtml": "we saw dogs getting cured with ai\n\nwouldn’t this make DeSci more legit than before?\n\nCrossBridge Bio, backed by VitaDAO, got acquired by Eli Lilly for up to $300M, which proves decentralized bootstrapping for medical IPs can actually work\n\nrecent medical breakthrough with an ADHD peptide\n\nBixBench research product is already live with real users including Harvard, Stanford, Cambridge, and Pfizer\n\ninteresting spot to watch here\n\nobviously we still need actual flow to come back into the token, but yeah I think <a href=\"/search?f=tweets&q=%23BIO\">$BIO</a> looks cheap here",
-      "publishedAt": "2026-04-17T02:53:00.000Z",
-      "link": "https://x.com/JoshuaDeuk/status/2044972571293306996",
-      "quote": {
-        "username": "OpenAI",
-        "displayName": "OpenAI",
-        "content": "Introducing GPT-Rosalind, our frontier reasoning model built to support research across biology, drug discovery, and translational medicine.",
-        "link": "https://x.com/OpenAI/status/2044861690911850863"
       },
       "stats": {
         "replies": 0,
