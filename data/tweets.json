@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T04:26:43.617Z",
+  "lastUpdated": "2026-04-27T05:37:02.119Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,134 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 543,
+    "newFetched": 542,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2048636422970900559",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "我从来没有这么相信过玄学…",
+      "contentHtml": "我从来没有这么相信过玄学…",
+      "publishedAt": "2026-04-27T05:32:00.000Z",
+      "link": "https://x.com/hazenlee/status/2048636422970900559",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2048635491260776702",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "我刚准备反手多🥴\n意思我是霉比？",
+      "contentHtml": "我刚准备反手多🥴\n意思我是霉比？",
+      "publishedAt": "2026-04-27T05:28:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2048635491260776702",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2048632525812126051",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "AI的落地最终看哪？肯定不是芯片公司。而是软件公司，大模型的变现，苹果，传统企业的增效，物理AI，有漏掉的补充。",
+      "contentHtml": "AI的落地最终看哪？肯定不是芯片公司。而是软件公司，大模型的变现，苹果，传统企业的增效，物理AI，有漏掉的补充。",
+      "publishedAt": "2026-04-27T05:17:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2048632525812126051",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2048631513873588420",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "the yield should be above BBB** (BBB has liquid enough active ETF so liquidity is decent) imo onchain pooled style mmf is acting as a venue to those who have hard time borrow in tradfi and have no where else to park their crypto (unbrokered, confiscation etc etc)\n\nAlso it's not a carry trade as the moment you have access to the yield elsewhere, the capital opportunity cost in the formula change completely",
+      "contentHtml": "the yield should be above BBB** (BBB has liquid enough active ETF so liquidity is decent) imo onchain pooled style mmf is acting as a venue to those who have hard time borrow in tradfi and have no where else to park their crypto (unbrokered, confiscation etc etc)\n\nAlso it's not a carry trade as the moment you have access to the yield elsewhere, the capital opportunity cost in the formula change completely",
+      "publishedAt": "2026-04-27T05:13:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2048631513873588420",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2048630470452359179",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "好熟悉的感觉",
+      "contentHtml": "好熟悉的感觉",
+      "publishedAt": "2026-04-27T05:09:00.000Z",
+      "link": "https://x.com/hazenlee/status/2048630470452359179",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHG4yQreaoAEFWYN.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2048629145853395406",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "Good in theory but hard in practice. onchain money market's allocators profile are mostly \"unbrokered\", a large sum are Chinese whales who value sovereignty & coercion-resistance. almost all defi protocol when boos-trapped TVL targeted Chinese whales. Tether never pays yield since day 1 and proliferated in all the dollar constraints region for the same reason (and Tether is a most sustainable lender of last resort too, their rate is 5%+ SOFR)  \n\nIntuitively onchain mmf should be somewhere above BBB but thats assuming 1) everyone have access to US capital market 2) we know the annualized probability p of total loss from a major exploit or systemic failure",
+      "contentHtml": "Good in theory but hard in practice. onchain money market's allocators profile are mostly \"unbrokered\", a large sum are Chinese whales who value sovereignty & coercion-resistance. almost all defi protocol when boos-trapped TVL targeted Chinese whales. Tether never pays yield since day 1 and proliferated in all the dollar constraints region for the same reason (and Tether is a most sustainable lender of last resort too, their rate is 5%+ SOFR)  \n\nIntuitively onchain mmf should be somewhere above BBB but thats assuming 1) everyone have access to US capital market 2) we know the annualized probability p of total loss from a major exploit or systemic failure",
+      "publishedAt": "2026-04-27T05:03:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2048629145853395406",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHG4wKfpbAAARxNV.jpg"
+        }
+      ],
+      "quote": {
+        "username": "dunleavy89",
+        "displayName": "Tom Dunleavy",
+        "content": "x.com/i/article/204775317285…",
+        "link": "https://x.com/dunleavy89/status/2047759012675125281"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2048622210403995800",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
+      "content": "观察了下，大部分畜生项目tge后装死个把月，陆陆续续也就没人骂了，都当吃了个暗亏。只有红色淫纹backpack这个项目是真的牛逼，tge完装死到现在，我的时间线上还是每天能刷到骂他们的，关键骂的点还都不一点，太屌了。。。",
+      "contentHtml": "观察了下，大部分畜生项目tge后装死个把月，陆陆续续也就没人骂了，都当吃了个暗亏。只有红色淫纹backpack这个项目是真的牛逼，tge完装死到现在，我的时间线上还是每天能刷到骂他们的，关键骂的点还都不一点，太屌了。。。",
+      "publishedAt": "2026-04-27T04:36:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2048622210403995800",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2048612674615845338",
       "username": "TJ_Research",
@@ -3294,25 +3417,6 @@
         "displayName": "hari raghavan",
         "content": "x.com/i/article/204749414345…",
         "link": "https://x.com/haridigresses/status/2047503944839016681"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2047519072112546143",
-      "username": "LinQingV",
-      "displayName": "Macro_Lin｜市场观察员",
-      "avatar": "https://nitter.net/pic/profile_images%2F1877702741306507264%2F0CbIskr3_bigger.jpg",
-      "content": "Intel盘后大涨，这次电话会非常值得看。CEO Lip-Bu Tan讲Intel如何重新回到AI时代的牌桌上？\n\n他把重点放在两个位置。第一，AI从训练走向推理和agent以后，CPU的价值会重新被市场看见。第二，Intel Foundry的现实突破口，可能会先出现在先进封装，不用一上来就在最先进晶圆代工上和台积电正面对撞。\n\n过去两年，市场对AI算力的理解几乎被一个公式统治：GPU + HBM + CoWoS。大模型训练阶段确实如此。但AI不会永远停留在训练阶段。往推理、agentic AI、企业部署走，要接入数据库，处理权限、存储、网络和安全，要和各种内部工具协同，事情远比单纯的矩阵乘法复杂。GPU负责加速，CPU负责把整个系统组织起来。训练集群里CPU和GPU的比例可能是1:8，到推理集群可能变成1:4，agent越来越多、企业系统接入越来越深，CPU的权重还有可能继续上升。\n\n所以这次DCAI收入同比增长22%，市场会特别敏感。AI capex的外溢，已经从GPU扩散到CPU服务器平台。CPU在AI时代不够性感，但可能仍然是最基础、最难绕开的资产。\n\n第二个被低估的点，是先进封装。大家一提Intel Foundry，第一反应就是问18A行不行，14A有没有客户，良率怎么样。这些问题都重要，但先进制程代工拼的是PDK、EDA、IP、良率、产能、交期和客户信任，这些东西很难在一个季度内修复。更现实的切入口可能在别处。\n\n我的判断，现在高端AI芯片领域最紧的瓶颈已经从先进制程晶圆扩散到整个后道。真正卡交付的是HBM、先进封装、高端载板和系统级集成能力。没有足够的2.5D/3D封装能力，前道晶圆做出来也很难变成可以交付的AI加速器模块。AI芯片的竞争，正在从\"谁能设计出更强的芯片\"转向\"谁能把芯片大规模封出来、交出来\"。\n\nLip-Bu Tan把advanced packaging和x86 CPU、manufacturing network放在同一层讲，我觉得是正确的。Intel的EMIB、Foveros很早就在做了，有实际量产经验。过去市场不愿意给这部分资产定价，因为大家盯着的是制程落后和Foundry烧钱。但现在AI芯片进入chiplet和异构集成阶段，封装从制造链条的尾巴变成了系统架构的一部分。一个客户的compute die在台积电做，HBM来自SK海力士，I/O die来自另一个节点，最后谁来把这些东西高效率地封在一起？这就是Intel有机会切进去的位置。\n\n所以Intel Foundry的商业化路径可能是两条线并行。晶圆代工决定长期技术信用，18A和14A需要拿到有分量的外部客户。但先进封装可能更早成为它接触AI客户、形成收入的入口。\n\n盘后这波涨幅，很大一部分贡献应该来自Lip-Bu Tan在电话会上的讲话，因为他讲到了市场心里。AI进入推理和agent阶段，CPU可能重新变重要；AI芯片进入异构集成阶段，先进封装可能重新变稀缺。",
-      "contentHtml": "Intel盘后大涨，这次电话会非常值得看。CEO Lip-Bu Tan讲Intel如何重新回到AI时代的牌桌上？\n\n他把重点放在两个位置。第一，AI从训练走向推理和agent以后，CPU的价值会重新被市场看见。第二，Intel Foundry的现实突破口，可能会先出现在先进封装，不用一上来就在最先进晶圆代工上和台积电正面对撞。\n\n过去两年，市场对AI算力的理解几乎被一个公式统治：GPU + HBM + CoWoS。大模型训练阶段确实如此。但AI不会永远停留在训练阶段。往推理、agentic AI、企业部署走，要接入数据库，处理权限、存储、网络和安全，要和各种内部工具协同，事情远比单纯的矩阵乘法复杂。GPU负责加速，CPU负责把整个系统组织起来。训练集群里CPU和GPU的比例可能是1:8，到推理集群可能变成1:4，agent越来越多、企业系统接入越来越深，CPU的权重还有可能继续上升。\n\n所以这次DCAI收入同比增长22%，市场会特别敏感。AI capex的外溢，已经从GPU扩散到CPU服务器平台。CPU在AI时代不够性感，但可能仍然是最基础、最难绕开的资产。\n\n第二个被低估的点，是先进封装。大家一提Intel Foundry，第一反应就是问18A行不行，14A有没有客户，良率怎么样。这些问题都重要，但先进制程代工拼的是PDK、EDA、IP、良率、产能、交期和客户信任，这些东西很难在一个季度内修复。更现实的切入口可能在别处。\n\n我的判断，现在高端AI芯片领域最紧的瓶颈已经从先进制程晶圆扩散到整个后道。真正卡交付的是HBM、先进封装、高端载板和系统级集成能力。没有足够的2.5D/3D封装能力，前道晶圆做出来也很难变成可以交付的AI加速器模块。AI芯片的竞争，正在从\"谁能设计出更强的芯片\"转向\"谁能把芯片大规模封出来、交出来\"。\n\nLip-Bu Tan把advanced packaging和x86 CPU、manufacturing network放在同一层讲，我觉得是正确的。Intel的EMIB、Foveros很早就在做了，有实际量产经验。过去市场不愿意给这部分资产定价，因为大家盯着的是制程落后和Foundry烧钱。但现在AI芯片进入chiplet和异构集成阶段，封装从制造链条的尾巴变成了系统架构的一部分。一个客户的compute die在台积电做，HBM来自SK海力士，I/O die来自另一个节点，最后谁来把这些东西高效率地封在一起？这就是Intel有机会切进去的位置。\n\n所以Intel Foundry的商业化路径可能是两条线并行。晶圆代工决定长期技术信用，18A和14A需要拿到有分量的外部客户。但先进封装可能更早成为它接触AI客户、形成收入的入口。\n\n盘后这波涨幅，很大一部分贡献应该来自Lip-Bu Tan在电话会上的讲话，因为他讲到了市场心里。AI进入推理和agent阶段，CPU可能重新变重要；AI芯片进入异构集成阶段，先进封装可能重新变稀缺。",
-      "publishedAt": "2026-04-24T03:32:00.000Z",
-      "link": "https://x.com/LinQingV/status/2047519072112546143",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
       },
       "stats": {
         "replies": 0,
@@ -11264,152 +11368,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHGG4hNhawAAB_Ur.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045090199848595614",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "有人说我盯盘干嘛？\n当然是开单啊。",
-      "contentHtml": "有人说我盯盘干嘛？\n当然是开单啊。",
-      "publishedAt": "2026-04-17T10:41:00.000Z",
-      "link": "https://x.com/hazenlee/status/2045090199848595614",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGGesJpasAAqqx8.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGGesJlaYAExsJL.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "tony老师这篇公众号写的很真实\n我几乎是每天盯盘平均40h\n对没错 是40小时 因为用了不同的设备\n一边盯盘一边摄取信息\n盯盘用iPad 几乎24h开着 无意识的盯盘\n经常睡睡觉突然惊醒 到了开单或者止盈止损的位置 操作完继续睡觉\n不想炫耀苦难或者什么\n但是对于大多数人 努力是门槛\n你只有拼尽全力才能显得毫不费力\n对于大多数人还轮不到拼天赋",
-        "link": "https://x.com/hazenlee/status/2045038413729169837",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHGFvmAKawAAgvds.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHGFvmACbMAAFT2E.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045081645557195133",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": ". $SIREN 又在请大家坐跳楼机了🙃\n\n而操纵者在过去 6 小时内复刻此前手法，又一次从 Binance Alpha 钱包提出 136.9 万枚代币，价值 245 万美元，目前筹码集中度已超 93%…\n\n钱包地址\nintel.arkm.com/explorer/addr…\nintel.arkm.com/explorer/addr…\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": ". <a href=\"/search?f=tweets&q=%23SIREN\">$SIREN</a> 又在请大家坐跳楼机了🙃\n\n而操纵者在过去 6 小时内复刻此前手法，又一次从 Binance Alpha 钱包提出 136.9 万枚代币，价值 245 万美元，目前筹码集中度已超 93%…\n\n钱包地址\n<a href=\"https://intel.arkm.com/explorer/address/0xB57a00f0C46585db22926C365B849ec7699f6a45\">intel.arkm.com/explorer/addr…</a>\n<a href=\"https://intel.arkm.com/explorer/address/0x1f979198620F07Bb20EC49fB00530fb0fA3430bA\">intel.arkm.com/explorer/addr…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-04-17T10:07:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2045081645557195133",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGGW4vkbIAA7NUj.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "地址 0x78c...dBE18 你好，所以你的意思是\n\n▶︎ 你是一个散户\n▶︎ 在 2 个月前 $0.07827 的时候囤了 127 万枚 $SIREN\n▶︎ 期间狂暴拉盘 2095% 也不为所动\n▶︎ 终于在 14 小时前以 $1.64 止盈离场\n▶︎ 把 9.97 万美元变成了 209 万美元\n\n是这样吗？OK，那算你厉害🙃\n\nintel.arkm.com/explorer/addr…\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-        "link": "https://x.com/ai_9684xtpa/status/2035906956813271461",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHED95gabkAAfIlc.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045076050288562521",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
-      "content": "打三角洲厉害的陪玩，月收入轻轻松松几万了。\n\n那些上学不行觉得自己打游戏厉害的孩子… 再也… 找不到借口了。",
-      "contentHtml": "打三角洲厉害的陪玩，月收入轻轻松松几万了。\n\n那些上学不行觉得自己打游戏厉害的孩子… 再也… 找不到借口了。",
-      "publishedAt": "2026-04-17T09:45:00.000Z",
-      "link": "https://x.com/taresky/status/2045076050288562521",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045066462356734041",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "都在唱衰币圈，但铭文，Hype 等等，每次大的机会开始都是不被看好的，所以我会尽量不带偏见，参与每个有机会的项目， @ethena 也推了原生 perpDEX，虽然现在大家提到 DEX 都会皱眉头，但确实是上一轮背景比较强的项目做的，有分发超过 $2M 的 USDe 激励，sUSDe 也把解质押sUSDe 解质押从 7 天缩短到最短只要 1 天。@krakenfx 最近有 USDe 的存款激励。\n不过这类项目不能有太高预期，本身有交易需求的顺带刷刷是最好，如果特地去刷是要谨慎考虑的。",
-      "contentHtml": "都在唱衰币圈，但铭文，Hype 等等，每次大的机会开始都是不被看好的，所以我会尽量不带偏见，参与每个有机会的项目， <a href=\"/ethena\" title=\"Ethena\">@ethena</a> 也推了原生 perpDEX，虽然现在大家提到 DEX 都会皱眉头，但确实是上一轮背景比较强的项目做的，有分发超过 $2M 的 USDe 激励，sUSDe 也把解质押sUSDe 解质押从 7 天缩短到最短只要 1 天。<a href=\"/krakenfx\" title=\"Kraken\">@krakenfx</a> 最近有 USDe 的存款激励。\n不过这类项目不能有太高预期，本身有交易需求的顺带刷刷是最好，如果特地去刷是要谨慎考虑的。",
-      "publishedAt": "2026-04-17T09:06:00.000Z",
-      "link": "https://x.com/0xleng1/status/2045066462356734041",
-      "quote": {
-        "username": "ethena",
-        "displayName": "Ethena",
-        "content": "Here's what happened @ethena in March:\n\n• @krakenfx enabled USDe rewards, becoming the first US exchange to offer Ethena-powered savings.\n\n• Launched a dedicated ecosystem environment on @aave V4 with two Spokes, more than any other ecosystem.\n\n• @privy_io integrated Ethena-powered savings into its wallet infrastructure, bringing access to 120m+ accounts.\n\n• Went live on @WalletConnect Pay, enabling merchants to accept USDe at checkout.\n\n• $2m+ in USDe rewards distributed to traders on @etherealdex and @hyenatrade.\n\n• @etherealdex crossed $120m in open interest backed by USDe.\n\n• @hyenatrade crossed $3b in total volume.\n\n• Crossed $150m+ in total Ethena Whitelabel stablecoin supply across three native stablecoins.\n\n• @BasedOneX confirmed a portion of their token supply will go to sENA holders.\n\n• Reduced sUSDe unstaking period from 7 days to 1 day.\n\n• Added USDe as collateral on @Compound_xyz V3.\n\n• Added fixed-rate borrowing for PT-sUSDe on @lista_dao for $USD1 and $U.\n\n• @KappaLab_io listed an open-term USDe market on Wildcat with up to 1m USDe capacity at 10% APR.\n\n• Rolled out Ethena incentives on @hyperion_xyz and @the_goblin_fi.\n\n• Integrated with @lifiprotocol Composer for single-transaction access to Ethena vaults from any chain.\n\n• Presented at @blockworksDAS.\n\n• Launched USDe Learn & Earn on @HTX_Global.\n\n• @strata_markets USDe market reached $250M in TVL.\n\n• Published an engineering blog on the Resolv USR incident and how Ethena's issuance mechanics are built to prevent similar outcomes.",
-        "link": "https://x.com/ethena/status/2039361380760068224",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHE1EXgZaQAAS66h.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045062254853586949",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "siren 主力本想收租，散户推高到2美元…\n\n牛市也不过如此",
-      "contentHtml": "siren 主力本想收租，散户推高到2美元…\n\n牛市也不过如此",
-      "publishedAt": "2026-04-17T08:50:00.000Z",
-      "link": "https://x.com/follow_clues/status/2045062254853586949",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045056565347323942",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "阿姨打扫房间，动了我鼠标，游戏一开感觉调不回来\n\n杀人的心都有了",
-      "contentHtml": "阿姨打扫房间，动了我鼠标，游戏一开感觉调不回来\n\n杀人的心都有了",
-      "publishedAt": "2026-04-17T08:27:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2045056565347323942",
       "stats": {
         "replies": 0,
         "retweets": 0,
