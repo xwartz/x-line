@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T15:25:35.239Z",
+  "lastUpdated": "2026-04-27T16:04:20.844Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,65 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 539,
+    "newFetched": 542,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2048794559191408855",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "按照“古法交易理论”，比特币就是有暴跌预期：\n1.Coinbase的溢价看跌\n2.现货成交量看跌\n3.期货持仓量看跌\n4.图表分析看跌（背离+周线中轨+4H上涨趋势线，后两者吹弹可破的状态）\n\n\"古法交易理论\"得名于事件驱动交易风头压倒一切这一现象（即传统技术面/链上数据分析被嘲讽为\"古法\"）",
+      "contentHtml": "按照“古法交易理论”，比特币就是有暴跌预期：\n1.Coinbase的溢价看跌\n2.现货成交量看跌\n3.期货持仓量看跌\n4.图表分析看跌（背离+周线中轨+4H上涨趋势线，后两者吹弹可破的状态）\n\n\"古法交易理论\"得名于事件驱动交易风头压倒一切这一现象（即传统技术面/链上数据分析被嘲讽为\"古法\"）",
+      "publishedAt": "2026-04-27T16:01:00.000Z",
+      "link": "https://x.com/follow_clues/status/2048794559191408855",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHG7HmCVbYAARfyM.jpg"
+        }
+      ],
+      "quote": {
+        "username": "follow_clues",
+        "displayName": "Theclues",
+        "content": "今晚比特币的博弈状态😂",
+        "link": "https://x.com/follow_clues/status/2048787006046757213",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHG7A2Jyb0AAPO0X.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2048787006046757213",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "今晚比特币的博弈状态😂",
+      "contentHtml": "今晚比特币的博弈状态😂",
+      "publishedAt": "2026-04-27T15:31:00.000Z",
+      "link": "https://x.com/follow_clues/status/2048787006046757213",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHG7A2Jyb0AAPO0X.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2048783468021101051",
       "username": "KillaXBT",
@@ -6210,25 +6264,6 @@
       }
     },
     {
-      "id": "2046872356451209526",
-      "username": "Marczeller",
-      "displayName": "Marc Zeller",
-      "avatar": "https://nitter.net/pic/profile_images%2F1757172379535478784%2F1hreT0cm_bigger.jpg",
-      "content": "Since more than a decade, I've been supporting builders with small angel checks.\n\nMy thesis is simple: I'm good at generating money for both the projects I work on and myself, and I have a decent, low-profile lifestyle, with a reasonable house and a \"boring\" EV rather than mansions and supercars.\n\nSo part of my money is reinjected toward builders in verticals I want exposure to and want to support in their development.\n\n- Most of these checks saw no return, money gone, it's part of the game.\n- Some of them were quite profitable and bankrolled the next wave of investments\n- And some yielded nothing, but I'm still proud of the product built.\nLi.Fi is a good example. While as an investor I saw no return yet, I love their product suite and think @PhilippZentner is a chad.\n\nSometimes I bet on a team, sometimes I have a thesis and bet on a whole vertical hoping one of them ship a good product.\n\nFor example, a couple of cycles ago I was convinced MetaMask was a bad wallet that was hurting the global EVM user experience, so I invested in many alternatives.\n\nWhen Rabby came out, I wasn't an investor. I still pushed them regardless because it was genuinely the best wallet. I think I contributed to its adoption in the ecosystem, and I'm proud of that, even if that meant no yield for me and less exposure to the ones I was invested in.\n\nIn the context of Aave, thinking a $20k angel check vested over years can influence an 8-figure position in a project I spent my sweat and blood on is a bit delusional.\n\nMy thesis on Aave has always been to carefully curate the best team in a vertical and contribute to kingmaking them. When you're managing onchain lending, you need to be opinionated, in terms of relationships and pure risk surface. One good king at $10B TVL is simply superior to 5 unequal guys at $2B each on average. This has yielded amazing results with Lido, Etherfi, Ethena (my pushback on Resolv saved Aave), Maple, and Pendle.\n\nFor Kelp, we onboarded them, after pushing back and voting against due to a weak oracle, locked up with only borrowing wstETH and with clear caps to generate an LRT <> LST <> WETH flywheel generating dozens of millions of dollars of revenue that is currently financing the paychecks of the people who seem less focused on \"leaving no ghost behind\", which was our mantra under my tenure, and more focused on trying to point fingers.\n\nExpanding the scope of assets it was allowed to borrow is something I pushed back on for a while because it was conflicting with our existing relationships.\n\nLiquid (re)staking in a protocol like Aave is a delicate balance with incredibly valuable users who hold their position literally for as long as the carry is profitable. Adding competitors to these guys can increase borrow costs, and throwing Lido users under the bus to benefit some LRT users might be a good short-term idea, but if not carefully tailored (as we did with Etherfi), it will eventually backfire.\n\nReality is more pragmatic. I do not pretend to own domain expertise on every topic, otherwise I was severely underpaid 😭. The rsETH<>wETH borrow proposal was launched in one of the most stressful periods of my life, when I witnessed years of my efforts being destroyed in a few weeks, and when the proposal received a green light from both risk teams and tech analysis. I did exactly what Stani and everyone else did: I didn't push back and voted yes.\n\nI have no issue taking my own weight own responsibility in this and will not pretend otherwise.\n\nBut I'm not allowing anyone to say my decision was influenced by an angel check.",
-      "contentHtml": "Since more than a decade, I've been supporting builders with small angel checks.\n\nMy thesis is simple: I'm good at generating money for both the projects I work on and myself, and I have a decent, low-profile lifestyle, with a reasonable house and a \"boring\" EV rather than mansions and supercars.\n\nSo part of my money is reinjected toward builders in verticals I want exposure to and want to support in their development.\n\n- Most of these checks saw no return, money gone, it's part of the game.\n- Some of them were quite profitable and bankrolled the next wave of investments\n- And some yielded nothing, but I'm still proud of the product built.\n<a href=\"http://Li.Fi\">Li.Fi</a> is a good example. While as an investor I saw no return yet, I love their product suite and think <a href=\"/PhilippZentner\" title=\"Philipp Zentner | LI.FI\">@PhilippZentner</a> is a chad.\n\nSometimes I bet on a team, sometimes I have a thesis and bet on a whole vertical hoping one of them ship a good product.\n\nFor example, a couple of cycles ago I was convinced MetaMask was a bad wallet that was hurting the global EVM user experience, so I invested in many alternatives.\n\nWhen Rabby came out, I wasn't an investor. I still pushed them regardless because it was genuinely the best wallet. I think I contributed to its adoption in the ecosystem, and I'm proud of that, even if that meant no yield for me and less exposure to the ones I was invested in.\n\nIn the context of Aave, thinking a $20k angel check vested over years can influence an 8-figure position in a project I spent my sweat and blood on is a bit delusional.\n\nMy thesis on Aave has always been to carefully curate the best team in a vertical and contribute to kingmaking them. When you're managing onchain lending, you need to be opinionated, in terms of relationships and pure risk surface. One good king at $10B TVL is simply superior to 5 unequal guys at $2B each on average. This has yielded amazing results with Lido, Etherfi, Ethena (my pushback on Resolv saved Aave), Maple, and Pendle.\n\nFor Kelp, we onboarded them, after pushing back and voting against due to a weak oracle, locked up with only borrowing wstETH and with clear caps to generate an LRT &lt;&gt; LST &lt;&gt; WETH flywheel generating dozens of millions of dollars of revenue that is currently financing the paychecks of the people who seem less focused on \"leaving no ghost behind\", which was our mantra under my tenure, and more focused on trying to point fingers.\n\nExpanding the scope of assets it was allowed to borrow is something I pushed back on for a while because it was conflicting with our existing relationships.\n\nLiquid (re)staking in a protocol like Aave is a delicate balance with incredibly valuable users who hold their position literally for as long as the carry is profitable. Adding competitors to these guys can increase borrow costs, and throwing Lido users under the bus to benefit some LRT users might be a good short-term idea, but if not carefully tailored (as we did with Etherfi), it will eventually backfire.\n\nReality is more pragmatic. I do not pretend to own domain expertise on every topic, otherwise I was severely underpaid 😭. The rsETH&lt;&gt;wETH borrow proposal was launched in one of the most stressful periods of my life, when I witnessed years of my efforts being destroyed in a few weeks, and when the proposal received a green light from both risk teams and tech analysis. I did exactly what Stani and everyone else did: I didn't push back and voted yes.\n\nI have no issue taking my own weight own responsibility in this and will not pretend otherwise.\n\nBut I'm not allowing anyone to say my decision was influenced by an angel check.",
-      "publishedAt": "2026-04-22T08:42:00.000Z",
-      "link": "https://x.com/Marczeller/status/2046872356451209526",
-      "retweet": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2046860959852171543",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -11471,37 +11506,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHGIn85VWgAAj41H.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045218347931873773",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "那个杰克船长和他做过一期直播，特别自信➕张口就来，另外一个特色就是喜欢在彭博截图上打自己的水印🤣我不埋汰别的博主，所以早选择了屏蔽，既然是诈骗犯，且还在X上活跃，那就帮忙转发一下",
-      "contentHtml": "那个杰克船长和他做过一期直播，特别自信➕张口就来，另外一个特色就是喜欢在彭博截图上打自己的水印🤣我不埋汰别的博主，所以早选择了屏蔽，既然是诈骗犯，且还在X上活跃，那就帮忙转发一下",
-      "publishedAt": "2026-04-17T19:10:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2045218347931873773",
-      "quote": {
-        "username": "NewYorkgugugu",
-        "displayName": "谷古股",
-        "content": "这个就是抄袭我文章的那个账号，还屏蔽我，改头换面继续招摇撞骗！",
-        "link": "https://x.com/NewYorkgugugu/status/2045199265488630186",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHGIB5HoXUAALktk.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHGIB5HmWoAAk3zT.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
