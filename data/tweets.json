@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T17:33:05.707Z",
+  "lastUpdated": "2026-04-27T18:14:10.398Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 524,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 499,
+    "successUsers": 25,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2048821642919358502",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "Seat + Token额度。必然的趋势。现在Token太抢手了",
+      "contentHtml": "Seat + Token额度。必然的趋势。现在Token太抢手了",
+      "publishedAt": "2026-04-27T17:48:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2048821642919358502",
+      "quote": {
+        "username": "github",
+        "displayName": "GitHub",
+        "content": "Starting June 1st, GitHub Copilot will move to a usage-based billing model as GitHub Copilot supports more agentic and advanced workflows. \n\nIn early May, you'll see a preview bill experience, giving visibility into projected costs before the transition. \n\n👉 Read more about the upcoming change: github.blog/news-insights/co…",
+        "link": "https://x.com/github/status/2048794729274278258"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2048804774187765930",
       "username": "KillaXBT",
@@ -4092,25 +4113,6 @@
       }
     },
     {
-      "id": "2047566603521556667",
-      "username": "LinQingV",
-      "displayName": "Macro_Lin｜市场观察员",
-      "avatar": "https://nitter.net/pic/profile_images%2F1877702741306507264%2F0CbIskr3_bigger.jpg",
-      "content": "先进封装的地位转变是过去两年AI硬件领域最大的认知差之一。以前大家把封装当制造链条的尾巴，低附加值的代工环节。\n\n根本原因是带宽。模型越来越大，compute和memory之间的带宽缺口成了核心瓶颈。传统DDR不够用，所以要HBM，把DRAM die垂直堆叠用超宽总线拉带宽。HBM要发挥作用就必须紧贴compute die，所以需要CoWoS把GPU和HBM放在同一块硅中介层上。HBM堆得越高、数量越多，中介层越大，封装复杂度越高。再叠加chiplet趋势，die之间也需要高带宽互联，又是一层封装需求。\n\n所以封装变重要不是因为封装本身有什么突破，是带宽需求把整个系统架构从芯片问题变成了封装问题。AMKR涨的本质是带宽需求的传导。不算嫩，这个认知切换产业链里的人也就早了一两年。",
-      "contentHtml": "先进封装的地位转变是过去两年AI硬件领域最大的认知差之一。以前大家把封装当制造链条的尾巴，低附加值的代工环节。\n\n根本原因是带宽。模型越来越大，compute和memory之间的带宽缺口成了核心瓶颈。传统DDR不够用，所以要HBM，把DRAM die垂直堆叠用超宽总线拉带宽。HBM要发挥作用就必须紧贴compute die，所以需要CoWoS把GPU和HBM放在同一块硅中介层上。HBM堆得越高、数量越多，中介层越大，封装复杂度越高。再叠加chiplet趋势，die之间也需要高带宽互联，又是一层封装需求。\n\n所以封装变重要不是因为封装本身有什么突破，是带宽需求把整个系统架构从芯片问题变成了封装问题。AMKR涨的本质是带宽需求的传导。不算嫩，这个认知切换产业链里的人也就早了一两年。",
-      "publishedAt": "2026-04-24T06:41:00.000Z",
-      "link": "https://x.com/LinQingV/status/2047566603521556667",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2047565532187222047",
       "username": "Murphychen888",
       "displayName": "Murphy",
@@ -4449,10 +4451,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHGo2-pyawAAdbas.jpg"
         }
       ],
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "quote": {
         "username": "StaniKulechov",
         "displayName": "Stani",
@@ -9715,25 +9713,6 @@
       }
     },
     {
-      "id": "2045813886990069910",
-      "username": "evilcos",
-      "displayName": "Cos(余弦)😶‍🌫️",
-      "avatar": "https://nitter.net/pic/profile_images%2F1681578030811209728%2FXx1RuT6N_bigger.jpg",
-      "content": "都反思两个牛熊周期了，怎么每次大安全事件又都在重复反思，你来告诉我这些攻击手法，哪个是有新意的？\n\n最需要反思的人不应该是那些承载用户巨额资金却选择享受生活不思进取的人吗？",
-      "contentHtml": "都反思两个牛熊周期了，怎么每次大安全事件又都在重复反思，你来告诉我这些攻击手法，哪个是有新意的？\n\n最需要反思的人不应该是那些承载用户巨额资金却选择享受生活不思进取的人吗？",
-      "publishedAt": "2026-04-19T10:36:00.000Z",
-      "link": "https://x.com/evilcos/status/2045813886990069910",
-      "retweet": {
-        "username": "doveywancn",
-        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2045803205809037545",
       "username": "follow_clues",
       "displayName": "Theclues",
@@ -11506,6 +11485,39 @@
       "contentHtml": "牛初经典问题\n\n《什么值得买？》",
       "publishedAt": "2026-04-18T02:31:00.000Z",
       "link": "https://x.com/Bitfatty/status/2045329224832323926",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2045328499897249934",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "18年熊市最后一跌前，比特币 MVRV 最高反弹到 1.63\n\n当前，比特币 MVRV 反弹到 1.42",
+      "contentHtml": "18年熊市最后一跌前，比特币 MVRV 最高反弹到 1.63\n\n当前，比特币 MVRV 反弹到 1.42",
+      "publishedAt": "2026-04-18T02:28:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2045328499897249934",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHGJ3TTNbkAA_Esp.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "18年熊市最后一跌前，比特币 MVRV 最低跌至 1.15\n\n当前这波 $60,000 ，比特币 MVRV 最低跌至 1.14",
+        "link": "https://x.com/0xCryptoChan/status/2021045199456305605",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHAwwhE4aAAo_6SW.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
