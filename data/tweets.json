@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T17:54:00.622Z",
+  "lastUpdated": "2026-04-28T18:34:44.185Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 539,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 518,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2049192008363672023",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "Tonights the night... $BTC",
+      "contentHtml": "Tonights the night... <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
+      "publishedAt": "2026-04-28T18:20:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2049192008363672023",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHAxG4_bMAANFpc.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2049180961485562066",
       "username": "0xleng1",
@@ -11149,25 +11170,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHGQ9aWCWwAAd1Z6.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045813886990069910",
-      "username": "evilcos",
-      "displayName": "Cos(余弦)😶‍🌫️",
-      "avatar": "https://nitter.net/pic/profile_images%2F1681578030811209728%2FXx1RuT6N_bigger.jpg",
-      "content": "都反思两个牛熊周期了，怎么每次大安全事件又都在重复反思，你来告诉我这些攻击手法，哪个是有新意的？\n\n最需要反思的人不应该是那些承载用户巨额资金却选择享受生活不思进取的人吗？",
-      "contentHtml": "都反思两个牛熊周期了，怎么每次大安全事件又都在重复反思，你来告诉我这些攻击手法，哪个是有新意的？\n\n最需要反思的人不应该是那些承载用户巨额资金却选择享受生活不思进取的人吗？",
-      "publishedAt": "2026-04-19T10:36:00.000Z",
-      "link": "https://x.com/evilcos/status/2045813886990069910",
-      "retweet": {
-        "username": "doveywancn",
-        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
