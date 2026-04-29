@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T23:48:54.972Z",
+  "lastUpdated": "2026-04-29T00:38:02.630Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,47 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 519,
+    "newFetched": 518,
     "successUsers": 26,
     "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2049285103143043413",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "亚麻推出了QUICK，DESKTOP的AI AGENT，建立在所有电脑界面APP的上层智能体，竞品是微软的COWORK, CLAUDE, CHATGPT。\n我刚看到消息时想难道微软最大的竞争者是亚麻？但思考了一下，亚麻还是缺乏微软的分发或者大模型的网络效应。但是AWS和中小企业的业务联系，比如通过BEDROCK提供AI服务，帮助企业管理库存，广告投放等等，顺便推出QUICK是很合理的附加路径。\n所以最终应该也不会是哪家公司的AI AGENT通吃，还是看已有分发路径，对大模型来说，AI NATIVE公司会更愿意尝试。",
+      "contentHtml": "亚麻推出了QUICK，DESKTOP的AI AGENT，建立在所有电脑界面APP的上层智能体，竞品是微软的COWORK, CLAUDE, CHATGPT。\n我刚看到消息时想难道微软最大的竞争者是亚麻？但思考了一下，亚麻还是缺乏微软的分发或者大模型的网络效应。但是AWS和中小企业的业务联系，比如通过BEDROCK提供AI服务，帮助企业管理库存，广告投放等等，顺便推出QUICK是很合理的附加路径。\n所以最终应该也不会是哪家公司的AI AGENT通吃，还是看已有分发路径，对大模型来说，AI NATIVE公司会更愿意尝试。",
+      "publishedAt": "2026-04-29T00:30:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2049285103143043413",
+      "quote": {
+        "username": "ajassy",
+        "displayName": "Andy Jassy",
+        "content": "The Quick desktop app is here, and it’s compelling.\n\nConnects to your email, calendar, Slack, local files, and several other apps to flag important communications, retrieve and summarize info, make recommendations, send communications, and create agents that do work you used to have to do yourself. Gets smarter and more personalized the more you use it.\n\nBeen using it a lot recently and is changing how I work. It’s allowing me to use applications like my inbox more like an archive, and Quick as my personalized, prioritized, productivity hub that can multi-task various needs.\n\nStill early days, and a lot more coming, but excited for folks to start using it to make the undifferentiated work so much less complicated. aboutamazon.com/news/aws/ama…",
+        "link": "https://x.com/ajassy/status/2049191826251538833"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2049279064737796507",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "megaeth奥德赛有人做了吗，成本怎么样参考参考。",
+      "contentHtml": "megaeth奥德赛有人做了吗，成本怎么样参考参考。",
+      "publishedAt": "2026-04-29T00:06:00.000Z",
+      "link": "https://x.com/0xleng1/status/2049279064737796507",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2049261958185029902",
       "username": "KillaXBT",
@@ -2285,6 +2321,37 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FG9-S9XqWUAAgAsT.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2048692524391502304",
+      "username": "Mercy_okx",
+      "displayName": "Mercy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1854461470979039232%2F_3AAZ5ng_bigger.jpg",
+      "content": "USDG 在OKX自动赚币里，VIP年化 4.1%。重点是不影响交易——合约保证金、现货挂单照样可以用，同时生息！\n\nP.S：4月30日之前 USDT兑换 USDG 限时0申购费奥😉",
+      "contentHtml": "USDG 在OKX自动赚币里，VIP年化 4.1%。重点是不影响交易——合约保证金、现货挂单照样可以用，同时生息！\n\nP.S：4月30日之前 USDT兑换 USDG 限时0申购费奥😉",
+      "publishedAt": "2026-04-27T09:15:00.000Z",
+      "link": "https://x.com/Mercy_okx/status/2048692524391502304",
+      "retweet": {
+        "username": "daidaibtc",
+        "displayName": "带带带比特"
+      },
+      "quote": {
+        "username": "Bitwux",
+        "displayName": "BITWU.ETH 🔆",
+        "content": "最近在 @BitHappy 的推荐下，我也换了一些 USDG \n\n这里大家可以直接在 OKX 里面兑换，\n\n如果用 USDT 兑换的话可以多兑换一点，如果用 USDC 兑换会有些损耗，但是大家可以学我，先去 Kraken 把 SUDC 兑换成 USDG 再转回来 OKX，这样也是无损的。\n\n因为 Kraken 的 USDC 和 USDG 是1:1兑换的。\n\n为什么我会换一些 USDG：\n\n1️⃣安全性来看在我这里过关：USDG是在新加坡和欧盟同时监管下，由OKX、Kraken、Robinhood、等机构组成的联盟发行的合规稳定币；安全大家自己研究，是否符合你们的安全标准；\n\n2️⃣毕竟现在理财去处并不多，4%的年化挺好的，如果是VIP 1-3的话，单账号20W的额度很舒服。有钱可以冲V4以上可以拿到 400W 的额度。\n\n3️⃣USDG拿收益的同时，还能偶尔参加闪赚，上一期 OKX 闪赚就给了 USDG 权重较高；\n\n4️⃣USDG 也可以参加双币理财，所以可以一边吃收益一边拿期权差价，属于一于多吃。\n\n5️⃣可以用来做合约交易保证金、活期借币抵押等场景。\n\n@star_okx @Mercy_okx @okx @okxchinese  这样的产品以后多来点吧，熊市吃点收益！",
+        "link": "https://x.com/Bitwux/status/2048683814889857188",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHG5iLIWbcAAQhec.jpg"
           }
         ]
       },
@@ -7904,6 +7971,25 @@
       }
     },
     {
+      "id": "2046872356451209526",
+      "username": "Marczeller",
+      "displayName": "Marc Zeller",
+      "avatar": "https://nitter.net/pic/profile_images%2F1757172379535478784%2F1hreT0cm_bigger.jpg",
+      "content": "Since more than a decade, I've been supporting builders with small angel checks.\n\nMy thesis is simple: I'm good at generating money for both the projects I work on and myself, and I have a decent, low-profile lifestyle, with a reasonable house and a \"boring\" EV rather than mansions and supercars.\n\nSo part of my money is reinjected toward builders in verticals I want exposure to and want to support in their development.\n\n- Most of these checks saw no return, money gone, it's part of the game.\n- Some of them were quite profitable and bankrolled the next wave of investments\n- And some yielded nothing, but I'm still proud of the product built.\nLi.Fi is a good example. While as an investor I saw no return yet, I love their product suite and think @PhilippZentner is a chad.\n\nSometimes I bet on a team, sometimes I have a thesis and bet on a whole vertical hoping one of them ship a good product.\n\nFor example, a couple of cycles ago I was convinced MetaMask was a bad wallet that was hurting the global EVM user experience, so I invested in many alternatives.\n\nWhen Rabby came out, I wasn't an investor. I still pushed them regardless because it was genuinely the best wallet. I think I contributed to its adoption in the ecosystem, and I'm proud of that, even if that meant no yield for me and less exposure to the ones I was invested in.\n\nIn the context of Aave, thinking a $20k angel check vested over years can influence an 8-figure position in a project I spent my sweat and blood on is a bit delusional.\n\nMy thesis on Aave has always been to carefully curate the best team in a vertical and contribute to kingmaking them. When you're managing onchain lending, you need to be opinionated, in terms of relationships and pure risk surface. One good king at $10B TVL is simply superior to 5 unequal guys at $2B each on average. This has yielded amazing results with Lido, Etherfi, Ethena (my pushback on Resolv saved Aave), Maple, and Pendle.\n\nFor Kelp, we onboarded them, after pushing back and voting against due to a weak oracle, locked up with only borrowing wstETH and with clear caps to generate an LRT <> LST <> WETH flywheel generating dozens of millions of dollars of revenue that is currently financing the paychecks of the people who seem less focused on \"leaving no ghost behind\", which was our mantra under my tenure, and more focused on trying to point fingers.\n\nExpanding the scope of assets it was allowed to borrow is something I pushed back on for a while because it was conflicting with our existing relationships.\n\nLiquid (re)staking in a protocol like Aave is a delicate balance with incredibly valuable users who hold their position literally for as long as the carry is profitable. Adding competitors to these guys can increase borrow costs, and throwing Lido users under the bus to benefit some LRT users might be a good short-term idea, but if not carefully tailored (as we did with Etherfi), it will eventually backfire.\n\nReality is more pragmatic. I do not pretend to own domain expertise on every topic, otherwise I was severely underpaid 😭. The rsETH<>wETH borrow proposal was launched in one of the most stressful periods of my life, when I witnessed years of my efforts being destroyed in a few weeks, and when the proposal received a green light from both risk teams and tech analysis. I did exactly what Stani and everyone else did: I didn't push back and voted yes.\n\nI have no issue taking my own weight own responsibility in this and will not pretend otherwise.\n\nBut I'm not allowing anyone to say my decision was influenced by an angel check.",
+      "contentHtml": "Since more than a decade, I've been supporting builders with small angel checks.\n\nMy thesis is simple: I'm good at generating money for both the projects I work on and myself, and I have a decent, low-profile lifestyle, with a reasonable house and a \"boring\" EV rather than mansions and supercars.\n\nSo part of my money is reinjected toward builders in verticals I want exposure to and want to support in their development.\n\n- Most of these checks saw no return, money gone, it's part of the game.\n- Some of them were quite profitable and bankrolled the next wave of investments\n- And some yielded nothing, but I'm still proud of the product built.\n<a href=\"http://Li.Fi\">Li.Fi</a> is a good example. While as an investor I saw no return yet, I love their product suite and think <a href=\"/PhilippZentner\" title=\"Philipp Zentner | LI.FI\">@PhilippZentner</a> is a chad.\n\nSometimes I bet on a team, sometimes I have a thesis and bet on a whole vertical hoping one of them ship a good product.\n\nFor example, a couple of cycles ago I was convinced MetaMask was a bad wallet that was hurting the global EVM user experience, so I invested in many alternatives.\n\nWhen Rabby came out, I wasn't an investor. I still pushed them regardless because it was genuinely the best wallet. I think I contributed to its adoption in the ecosystem, and I'm proud of that, even if that meant no yield for me and less exposure to the ones I was invested in.\n\nIn the context of Aave, thinking a $20k angel check vested over years can influence an 8-figure position in a project I spent my sweat and blood on is a bit delusional.\n\nMy thesis on Aave has always been to carefully curate the best team in a vertical and contribute to kingmaking them. When you're managing onchain lending, you need to be opinionated, in terms of relationships and pure risk surface. One good king at $10B TVL is simply superior to 5 unequal guys at $2B each on average. This has yielded amazing results with Lido, Etherfi, Ethena (my pushback on Resolv saved Aave), Maple, and Pendle.\n\nFor Kelp, we onboarded them, after pushing back and voting against due to a weak oracle, locked up with only borrowing wstETH and with clear caps to generate an LRT &lt;&gt; LST &lt;&gt; WETH flywheel generating dozens of millions of dollars of revenue that is currently financing the paychecks of the people who seem less focused on \"leaving no ghost behind\", which was our mantra under my tenure, and more focused on trying to point fingers.\n\nExpanding the scope of assets it was allowed to borrow is something I pushed back on for a while because it was conflicting with our existing relationships.\n\nLiquid (re)staking in a protocol like Aave is a delicate balance with incredibly valuable users who hold their position literally for as long as the carry is profitable. Adding competitors to these guys can increase borrow costs, and throwing Lido users under the bus to benefit some LRT users might be a good short-term idea, but if not carefully tailored (as we did with Etherfi), it will eventually backfire.\n\nReality is more pragmatic. I do not pretend to own domain expertise on every topic, otherwise I was severely underpaid 😭. The rsETH&lt;&gt;wETH borrow proposal was launched in one of the most stressful periods of my life, when I witnessed years of my efforts being destroyed in a few weeks, and when the proposal received a green light from both risk teams and tech analysis. I did exactly what Stani and everyone else did: I didn't push back and voted yes.\n\nI have no issue taking my own weight own responsibility in this and will not pretend otherwise.\n\nBut I'm not allowing anyone to say my decision was influenced by an angel check.",
+      "publishedAt": "2026-04-22T08:42:00.000Z",
+      "link": "https://x.com/Marczeller/status/2046872356451209526",
+      "retweet": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2046860959852171543",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -11525,102 +11611,6 @@
         "displayName": "比特肥 || Bitfatty (🍀,🍀)",
         "content": "做空爆仓是不是意味着  熊市结束了\n\n要把思路转为牛初模式？",
         "link": "https://x.com/Bitfatty/status/2044609163201048943"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045748042507452775",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "既然还在讨论，那就再说说看。\n\n真的厌恶操纵的人应该早早把大仓位在股票或者只玩B E了。去年之后也没见川沐炒币了啊，做空亏钱是很惋惜，但开仓的时候难道不是奔着赚钱去的？所以是恨操纵还是恨方向做反了？不能既贪图来钱快的高波动又想杜绝风险吧。\n\n这么黑森林的地方，诈骗项目方很多本来就是币圈的底色。为什么币圈几次出圈都靠meme？因为meme也是币圈最好的底色。Rave是诈骗，Opnion Backpack就没有更诈骗吗，他们创始人都实名的，咋还活着呢。山寨币有没有价值不需要圈外人怎么看吧？没有Rave就代表币圈不是诈骗？我们留下来的难道心里没数？恨的是操纵，还是自己没早早的就在被操纵的车上呢？\n\n如果不是这样，最近一周的涨幅榜，大家追来追去，又算什么呢？\n\n币圈以前红利不就是来自不成熟不合规吗，成熟监管严格的市场又不是没有，为啥不选？\n\n交易所既然回复了，那就一查到底全查一遍，诈骗历史和诈骗倾向的统统下架，现在应该不少壳子收了筹码摩拳擦掌呢。下呗，下不下呢？下了币圈还剩几个项目？\n\n别说我没同理心，不可能你亏钱我开心，就事论事罢了，而且也说过无数遍，玩不过狗庄就别和他玩了，做空庄币很择时，ev很差。就算我上也一样。亏钱怪操纵，赚钱要分钱给操纵吗。\n\n一直跌的操纵，不是比一直涨的操纵，更能代表币圈是诈骗吗。",
-      "contentHtml": "既然还在讨论，那就再说说看。\n\n真的厌恶操纵的人应该早早把大仓位在股票或者只玩B E了。去年之后也没见川沐炒币了啊，做空亏钱是很惋惜，但开仓的时候难道不是奔着赚钱去的？所以是恨操纵还是恨方向做反了？不能既贪图来钱快的高波动又想杜绝风险吧。\n\n这么黑森林的地方，诈骗项目方很多本来就是币圈的底色。为什么币圈几次出圈都靠meme？因为meme也是币圈最好的底色。Rave是诈骗，Opnion Backpack就没有更诈骗吗，他们创始人都实名的，咋还活着呢。山寨币有没有价值不需要圈外人怎么看吧？没有Rave就代表币圈不是诈骗？我们留下来的难道心里没数？恨的是操纵，还是自己没早早的就在被操纵的车上呢？\n\n如果不是这样，最近一周的涨幅榜，大家追来追去，又算什么呢？\n\n币圈以前红利不就是来自不成熟不合规吗，成熟监管严格的市场又不是没有，为啥不选？\n\n交易所既然回复了，那就一查到底全查一遍，诈骗历史和诈骗倾向的统统下架，现在应该不少壳子收了筹码摩拳擦掌呢。下呗，下不下呢？下了币圈还剩几个项目？\n\n别说我没同理心，不可能你亏钱我开心，就事论事罢了，而且也说过无数遍，玩不过狗庄就别和他玩了，做空庄币很择时，ev很差。就算我上也一样。亏钱怪操纵，赚钱要分钱给操纵吗。\n\n一直跌的操纵，不是比一直涨的操纵，更能代表币圈是诈骗吗。",
-      "publishedAt": "2026-04-19T06:15:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2045748042507452775",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045733035476414973",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "项目方真的感谢韭菜，5-10美元还能出一波货🥩🥩🥩",
-      "contentHtml": "项目方真的感谢韭菜，5-10美元还能出一波货🥩🥩🥩",
-      "publishedAt": "2026-04-19T05:15:00.000Z",
-      "link": "https://x.com/follow_clues/status/2045733035476414973",
-      "quote": {
-        "username": "follow_clues",
-        "displayName": "Theclues",
-        "content": "目的：围观项目方借助期货出货，能参与下更好💸",
-        "link": "https://x.com/follow_clues/status/2045567206013206700",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHGNQYPHaYAE5fuj.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045732878315839923",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "期货出货：\n\n期货10-现货1的卖出，直到期货空头头寸已经足够，开始双边TWAP（或其他算法），现货卖1，期货平空1\n\n下跌阶段：持仓曲线持续走高\n震荡阶段：持仓曲线持续下降，最终沦为无人问津，巨大的散户盘\n\n此过程中，平台的做市商，抄底的散户再次成为庄家的🥩",
-      "contentHtml": "期货出货：\n\n期货10-现货1的卖出，直到期货空头头寸已经足够，开始双边TWAP（或其他算法），现货卖1，期货平空1\n\n下跌阶段：持仓曲线持续走高\n震荡阶段：持仓曲线持续下降，最终沦为无人问津，巨大的散户盘\n\n此过程中，平台的做市商，抄底的散户再次成为庄家的🥩",
-      "publishedAt": "2026-04-19T05:15:00.000Z",
-      "link": "https://x.com/follow_clues/status/2045732878315839923",
-      "quote": {
-        "username": "traderjoe725",
-        "displayName": "RealJoe🎯",
-        "content": "其实昨晚在讨论，可能mm自己也想收盘了，一直往上拉，整个vix也整不上去了，也不可能真的给你慢推到 50/100（到了打我脸）\n\n所以做市商一看“吹哨人”来了，借坡下驴出掉算了... 凌晨看 @follow_clues 老师分析是 期货自己也在砸，这种量应该不是散户自己空下去的，合理。",
-        "link": "https://x.com/traderjoe725/status/2045700286795366846"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045725484575826031",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
-      "content": "🗞 貝格鏈上週報（七十三）：稀薄區填補 ing\n\n本週延續了上週的漲勢，週內最大漲幅約為 11%，\n同時 BTC 也創下過去 2 個多月以來震盪區間的新高，\n市場的看漲情緒開始堆積，但多空分歧也正逐步提升。\n\n值得注意的是：我們一路以來追蹤的「籌碼稀薄區」，\n如今也正隨著本週的上漲開始被填補 ...👇：\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n如附圖所示：\n原先位於 73~81K 的真空稀薄區，在時隔 n 個月之後，\n終於開始有被填補的跡象，這也終於使 BTC 的籌碼分布開始均勻化。\n\n由於稀薄區域中本就不存在太多籌碼堆積（幾乎沒有籌碼在此區買入），\n因此不論是遭遇上漲、下跌，此區域幾乎都給不了實質的支撐 / 阻力效果，\n因此，在沒有出現明顯右側下跌訊號之前，\n或許趁著本波上漲，直接把稀薄區填補完成也是完全合理的。\n\n結合我在技術面提出的「劇本 2」（nitter.net/market_beggar/status/2…），\n從籌碼分布上我們也可以明顯看到：\n「若價格持續上漲，籌碼面給出的最明顯阻力即是 80~81K 的巨量套牢盤」‼️\n\n不過需要注意的是：\n這些人在當初買入之後，即便價格後續下跌至最低 60K，\n他們的拋售意願也並不明顯，因此未來倘若回到他們的成本線，\n我們其實也不好確定他們是否會「逃命」。\n\n就目前的狀況而言，我們能做的其實不多，我也還是那句老話：\n「提前制定交易計畫，擬定自己的擊球區，等待訊號觸發再出手」。\n\n至於我自己的作法 & 規劃，可以參考我在前段附上的鏈接🔗，\n該帖中有我詳細的交易計畫，平時我也會在群內和各位分享自己的 bias。\n\n最後，或許你已因漲勢而動搖、焦慮，但我仍選擇等待「最後一哆嗦」。\n\n以上就是今天的內容，祝各位週末愉快🍨\n\n//\n\n📚 本週文章回顧\n\n美方資金情緒曲線更新：「成也老美，敗也老美」\nnitter.net/market_beggar/status/2…\n\n「熊市中繼結構再現❓」：大級別震盪結構詳細分析\nnitter.net/market_beggar/status/2…\n\n「BTC 短期持有者平均成本（STH-RP）」最新數據更新\nnitter.net/market_beggar/status/2…\n\n黃金坑追蹤系列（十）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
-      "contentHtml": "🗞 貝格鏈上週報（七十三）：稀薄區填補 ing\n\n本週延續了上週的漲勢，週內最大漲幅約為 11%，\n同時 BTC 也創下過去 2 個多月以來震盪區間的新高，\n市場的看漲情緒開始堆積，但多空分歧也正逐步提升。\n\n值得注意的是：我們一路以來追蹤的「籌碼稀薄區」，\n如今也正隨著本週的上漲開始被填補 ...👇：\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\n<a href=\"https://nitter.net/market_beggar/status/1963776996942741931\">nitter.net/market_beggar/status/1…</a>\n\n如附圖所示：\n原先位於 73~81K 的真空稀薄區，在時隔 n 個月之後，\n終於開始有被填補的跡象，這也終於使 BTC 的籌碼分布開始均勻化。\n\n由於稀薄區域中本就不存在太多籌碼堆積（幾乎沒有籌碼在此區買入），\n因此不論是遭遇上漲、下跌，此區域幾乎都給不了實質的支撐 / 阻力效果，\n因此，在沒有出現明顯右側下跌訊號之前，\n或許趁著本波上漲，直接把稀薄區填補完成也是完全合理的。\n\n結合我在技術面提出的「劇本 2」（<a href=\"https://nitter.net/market_beggar/status/2044230985865408890\">nitter.net/market_beggar/status/2…</a>），\n從籌碼分布上我們也可以明顯看到：\n「若價格持續上漲，籌碼面給出的最明顯阻力即是 80~81K 的巨量套牢盤」‼️\n\n不過需要注意的是：\n這些人在當初買入之後，即便價格後續下跌至最低 60K，\n他們的拋售意願也並不明顯，因此未來倘若回到他們的成本線，\n我們其實也不好確定他們是否會「逃命」。\n\n就目前的狀況而言，我們能做的其實不多，我也還是那句老話：\n「提前制定交易計畫，擬定自己的擊球區，等待訊號觸發再出手」。\n\n至於我自己的作法 & 規劃，可以參考我在前段附上的鏈接🔗，\n該帖中有我詳細的交易計畫，平時我也會在群內和各位分享自己的 bias。\n\n最後，或許你已因漲勢而動搖、焦慮，但我仍選擇等待「最後一哆嗦」。\n\n以上就是今天的內容，祝各位週末愉快🍨\n\n//\n\n📚 本週文章回顧\n\n美方資金情緒曲線更新：「成也老美，敗也老美」\n<a href=\"https://nitter.net/market_beggar/status/2043871987878244652\">nitter.net/market_beggar/status/2…</a>\n\n「熊市中繼結構再現❓」：大級別震盪結構詳細分析\n<a href=\"https://nitter.net/market_beggar/status/2044230985865408890\">nitter.net/market_beggar/status/2…</a>\n\n「BTC 短期持有者平均成本（STH-RP）」最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2044595011275358565\">nitter.net/market_beggar/status/2…</a>\n\n黃金坑追蹤系列（十）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2044955869310587127\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
-      "publishedAt": "2026-04-19T04:45:00.000Z",
-      "link": "https://x.com/market_beggar/status/2045725484575826031",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGPgezbacAAIM2z.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "🗞 貝格鏈上週報（七十二）：多軍突起？\n\n在經歷了兩週的「過山車震盪行情」後，\n本週出現了一波略微出乎我意料的連續上漲行情，\n週內行情主基調明顯向上，最大漲幅約為 9%，\n這使得我們不得不去開始關注「籌碼真空區填補」的可能性。\n\n按照慣例，本週我將再次和各位分享 BTC 籌碼分布的最新狀況👇：\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n如附圖所示，隨著走勢逐步上漲至 73K 之上，\nBTC 又又又再次回到目前最明顯的籌碼稀薄區（73~81K）之中。\n\n倘若接下來漲勢不止，那從籌碼分布的角度來看，在填補稀薄區後，\n第一個最明顯的「套牢盤阻力區」大約位於 81~82K 左右；\n細心的朋友或許會馬上想到：這個位置恰好對應我先前提出的「劇本 2」‼️\n\n📖 「劇本 2」概念說明：nitter.net/market_beggar/status/2…\n\n換言之，雖然我在過去一段時間內，主觀認為「劇本 1」概率更高，\n但如果價格持續上漲並突破 76K，那我們就需要修正先前的看法，\n開始琢磨劇本 2 成形的可能性，以及我們的應對策略。\n\n最後，由於下方 60~65K 的 Liquidity 至今仍未清掃，\n因此即便價格漲了一週，我依然更傾向於「最後一哆嗦必須來」的原判。\n\n以上就是今天的內容，祝各位週末愉快🗺\n\n//\n\n📚 本週文章回顧\n\n「小級別趨勢轉變？」：69.3K 成短期多空分水嶺\nnitter.net/market_beggar/status/2…\n\nBTC 的「3 種走勢推演」& 接下來的波段交易計畫\nnitter.net/market_beggar/status/2…\n\n「藍線正式跌至 60K 之下」：盤整時間或已步入尾聲 ...\nnitter.net/market_beggar/status/2…\n\n黃金坑追蹤系列（九）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
-        "link": "https://x.com/market_beggar/status/2043195197232923024",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFrjMuZaMAARMPB.jpg"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
