@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T11:51:40.575Z",
+  "lastUpdated": "2026-04-29T12:35:21.532Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -98,6 +98,81 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2049467225208488146",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "piped.video/live/Iir9ZokyJYM…   nitter.net/i/broadcasts/1mGPaLnBB…",
+      "contentHtml": "<a href=\"https://piped.video/live/Iir9ZokyJYM?feature=share\">piped.video/live/Iir9ZokyJYM…</a>   <a href=\"https://nitter.net/i/broadcasts/1mGPaLnBBNEJN\">nitter.net/i/broadcasts/1mGPaLnBB…</a>",
+      "publishedAt": "2026-04-29T12:33:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2049467225208488146",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2049465520672641082",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "以上内容，Glassnode官方的文本说明如下：\n\n面向短期和长期投资者的链上指标：\ninsights.glassnode.com/sth-l…\n\n量化比特币短期和长期持有者的供应量：\ninsights.glassnode.com/quant…",
+      "contentHtml": "以上内容，Glassnode官方的文本说明如下：\n\n面向短期和长期投资者的链上指标：\n<a href=\"https://insights.glassnode.com/sth-lth-sopr-mvrv/\">insights.glassnode.com/sth-l…</a>\n\n量化比特币短期和长期持有者的供应量：\n<a href=\"https://insights.glassnode.com/quantifying-bitcoin-hodler-supply/\">insights.glassnode.com/quant…</a>",
+      "publishedAt": "2026-04-29T12:27:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2049465520672641082",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2049464905561161746",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "曾经我也对长期持有者（LTH）和短期持有者（STH）具体是如何被划分的表示困惑。如果对数据的逻辑理解有误，就会让分析结果产生片面甚至错误。\n\n为此我和Glassnode开发者团队针对LTH和STH的算法和定义做了深入的探讨。中文社区至今应该没有一篇完备的分析和说明。\n\n正好看到倪大 @PhyrexNi 和 小楚老师 @riyuexiaochu 在讨论这个话题，我就班门弄斧，尝试做些解释：\n\n第一步，为了确定如何根据币龄区分STH和LTH的确切阈值，Glassnode分析了UTXO在各个时间段内内被花费的概率曲线的斜率。结果是在每种情况下，样本最大斜率的币龄恰好为155 天。\n\n也就是说，至少要持有155天后，BTC再次被移动的概率才最小。因此，我们将持有155天作为LTH和STH的基础区分标准。\n\n第二步，在这个基础上，Glassnode工程师们还考虑了每个链上实体自购买日期以来的平均时间，如果该时间超过155天，则该实体被视为长期持有者。\n\n比如，我的钱包里有10枚BTC持有了300天，我今天又买入了5枚持有了1天，那么平均时间就是：(10*300+5*1)÷15=200天；这个时间大于155天，所以我今天买入的5枚会被归入长期持有者。\n\n第三步，为了对尖锐的分类阈值进行细化，并将其转化为一条平滑的权重因子曲线，Glassnode使用了一个中点为155天 + 10天为过渡宽度的逻辑函数。\n\n这样曲线会比较平滑，不会突然暴涨暴跌。大致上说，如果被持有了约177天后，90%的比特币将划分到LTH供应中。\n\n所以，综上所述，LTH净持仓的增加说明了2点：\n🚩 1、老的LTH增持，只要钱包中BTC平均持有时间大于155天；\n🚩 2、STH的BTC一直持有，大约177天后变成了新LTH；\n\n但LTH净持仓增加，不代表LTH不卖。\n\n比如我们看图4：从2025年7月7日开始至今，LTH累计花费了574.7w枚BTC，但实际LTH的净持仓只减少了4.4w枚。这就说明在LTH支出的同时，也有大量STH持有不动，从而补充到LTH中。\n\n而从2026年2月14日开始，LTH净持仓又恢复上升趋势，说明老LTH的增持+STH持有不动而转为新LTH的合计数量，已经大于LTH的花费数量。\n\n那么对市场来说，就是来自供应端的压力减少了。等需求端随着宏观环境的改善而持续积累，我们就会逐渐从熊市的泥潭沼泽中慢慢走出来了。",
+      "contentHtml": "曾经我也对长期持有者（LTH）和短期持有者（STH）具体是如何被划分的表示困惑。如果对数据的逻辑理解有误，就会让分析结果产生片面甚至错误。\n\n为此我和Glassnode开发者团队针对LTH和STH的算法和定义做了深入的探讨。中文社区至今应该没有一篇完备的分析和说明。\n\n正好看到倪大 <a href=\"/PhyrexNi\" title=\"Phyrex\">@PhyrexNi</a> 和 小楚老师 <a href=\"/riyuexiaochu\" title=\"日月小楚\">@riyuexiaochu</a> 在讨论这个话题，我就班门弄斧，尝试做些解释：\n\n第一步，为了确定如何根据币龄区分STH和LTH的确切阈值，Glassnode分析了UTXO在各个时间段内内被花费的概率曲线的斜率。结果是在每种情况下，样本最大斜率的币龄恰好为155 天。\n\n也就是说，至少要持有155天后，BTC再次被移动的概率才最小。因此，我们将持有155天作为LTH和STH的基础区分标准。\n\n第二步，在这个基础上，Glassnode工程师们还考虑了每个链上实体自购买日期以来的平均时间，如果该时间超过155天，则该实体被视为长期持有者。\n\n比如，我的钱包里有10枚BTC持有了300天，我今天又买入了5枚持有了1天，那么平均时间就是：(10*300+5*1)÷15=200天；这个时间大于155天，所以我今天买入的5枚会被归入长期持有者。\n\n第三步，为了对尖锐的分类阈值进行细化，并将其转化为一条平滑的权重因子曲线，Glassnode使用了一个中点为155天 + 10天为过渡宽度的逻辑函数。\n\n这样曲线会比较平滑，不会突然暴涨暴跌。大致上说，如果被持有了约177天后，90%的比特币将划分到LTH供应中。\n\n所以，综上所述，LTH净持仓的增加说明了2点：\n🚩 1、老的LTH增持，只要钱包中BTC平均持有时间大于155天；\n🚩 2、STH的BTC一直持有，大约177天后变成了新LTH；\n\n但LTH净持仓增加，不代表LTH不卖。\n\n比如我们看图4：从2025年7月7日开始至今，LTH累计花费了574.7w枚BTC，但实际LTH的净持仓只减少了4.4w枚。这就说明在LTH支出的同时，也有大量STH持有不动，从而补充到LTH中。\n\n而从2026年2月14日开始，LTH净持仓又恢复上升趋势，说明老LTH的增持+STH持有不动而转为新LTH的合计数量，已经大于LTH的花费数量。\n\n那么对市场来说，就是来自供应端的压力减少了。等需求端随着宏观环境的改善而持续积累，我们就会逐渐从熊市的泥潭沼泽中慢慢走出来了。",
+      "publishedAt": "2026-04-29T12:24:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2049464905561161746",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHEo0MtacAAZHo-.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHEo0_5aEAEx3o2.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHEo2Mna4AA7IIT.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHEo5KabUAAIBi1.jpg"
+        }
+      ],
+      "quote": {
+        "username": "PhyrexNi",
+        "displayName": "Phyrex",
+        "content": "😂😂稍微解释一下：\n\n第一：Glassnode 的长期持有者的定义是 155 天没有移动过，所以从最基础的数据来说，长期持有者的增加代表的是没有参加换手的 Bitcoin 的数据是增涨的。\n\n也就是说当长期持有的 Bitcoin 增加的时候，往往代表的是这部分 bitcoin:native 的持有者对于短期交易的兴趣不大，当然可以认为这部分的投资者是“被套牢” 的。但实际来看，这种因为“套牢”而没有离场的解释是错误的。\n\n比如在上个周期 69,000 美元卖的持有者现在是亏的还是赚的？毕竟长期持有的 Bitcoin 超过了1,477 万枚，这就说明了有超过 70% 的 Bitcoin 持有者是长期持有者。\n\n70% 的长期持有者都是主动被套牢嘛？明显不是。\n\n从数据来看长期持有者目前获利的筹码一共有超过 1,000 万枚，也就是说长期持有者里有超过 67.7% 的 Bitcoin 是盈利的。\n\n现在来看确实 155天 以前的投资者是被套牢的，这没错，但是 2个 155天，3个155天以前呢，长期持有者之所以是长期持有者就是因为并不以短期价格变动作为主导。\n\n第二：也是最重要的，很多小伙伴忽视的，长期持有者持仓的 Bitcoin 增加，说明这部分投资者近期并没有卖出 bitcoin:native  ，或者说长期持有者卖出的 BTC 远低于持仓不动的 Bitcoin 。\n\n说人话，长期持有 Bitcoin 的增加代表的是长期不卖，而且近期也不卖，（近期卖的比长期持有的少）。\n\n而且部分小伙伴不仔细看，图中给的是两个数据，还有一个是交易所存量，之所以说投资者对 60,000 美元到 80,000 美元的 Bitcoin 很感兴趣，是以为在这个区间交易所的存量是大幅降低的。\n\n所以最起码，长期持有的 Bitcoin 是持续增加的，就说明了更多的持有者是持有 Bitcoin 而不是换手 Bitcoin 。",
+        "link": "https://x.com/PhyrexNi/status/2049388419416203765",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHHDj5cQaMAACXCm.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2049454825826402699",
       "username": "0xleng1",
@@ -11657,51 +11732,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045865851895820427",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
-      "content": "“1011” 揭露了几个基本事实真相\n-绝大部分山寨其实早死了且该死  因为做市商维护和挂单墙  该死不死 低位震荡 时不时反弹杀散户\n-流畅的下跌行情需要做市商 “撤单”  真空下跌必定跟做市商有关系  \n-普通大户再有钱再有币很难单独制造出  “真空K”\n\n对应这几天的山寨行情可以推导出几个事实 \n-普通大户无法手动拉出“真空上涨的巨阳”\n-需要做市商“撤卖单”\n-拉盘的币 大概率有“被动吸收了大量筹码的一方”",
-      "contentHtml": "“1011” 揭露了几个基本事实真相\n-绝大部分山寨其实早死了且该死  因为做市商维护和挂单墙  该死不死 低位震荡 时不时反弹杀散户\n-流畅的下跌行情需要做市商 “撤单”  真空下跌必定跟做市商有关系  \n-普通大户再有钱再有币很难单独制造出  “真空K”\n\n对应这几天的山寨行情可以推导出几个事实 \n-普通大户无法手动拉出“真空上涨的巨阳”\n-需要做市商“撤卖单”\n-拉盘的币 大概率有“被动吸收了大量筹码的一方”",
-      "publishedAt": "2026-04-19T14:03:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2045865851895820427",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045865471438627006",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
-      "content": "“Everyone is doing this.”\n\n“Everyone is doing that.”\n\nWhy care so much about what other people are doing with their money?\n\nYou should trade based on what you believe is going to happen, not by following the crowd. \n\nIn the end, for every winner, there’s a loser.",
-      "contentHtml": "“Everyone is doing this.”\n\n“Everyone is doing that.”\n\nWhy care so much about what other people are doing with their money?\n\nYou should trade based on what you believe is going to happen, not by following the crowd. \n\nIn the end, for every winner, there’s a loser.",
-      "publishedAt": "2026-04-19T14:01:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2045865471438627006",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2045850144277442697",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
-      "content": "So basically if kelp hacker had decided to borrow USDC, USDC lenders would be potentially cooked?\n\nYeah it's over for Aave",
-      "contentHtml": "So basically if kelp hacker had decided to borrow USDC, USDC lenders would be potentially cooked?\n\nYeah it's over for Aave",
-      "publishedAt": "2026-04-19T13:00:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2045850144277442697",
       "stats": {
         "replies": 0,
         "retweets": 0,
