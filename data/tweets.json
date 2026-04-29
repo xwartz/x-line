@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T17:49:00.247Z",
+  "lastUpdated": "2026-04-29T18:33:09.888Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -98,6 +98,57 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2049557283273904605",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "鲍威尔第一次迟到？",
+      "contentHtml": "鲍威尔第一次迟到？",
+      "publishedAt": "2026-04-29T18:31:00.000Z",
+      "link": "https://x.com/hazenlee/status/2049557283273904605",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2049550997614399515",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "People who have never made money are always the loudest about how you should spend yours",
+      "contentHtml": "People who have never made money are always the loudest about how you should spend yours",
+      "publishedAt": "2026-04-29T18:06:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2049550997614399515",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2049547576861770001",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "这次是咋回事 厕所又着火了？\n编个好点的理由，不然没面儿",
+      "contentHtml": "这次是咋回事 厕所又着火了？\n编个好点的理由，不然没面儿",
+      "publishedAt": "2026-04-29T17:53:00.000Z",
+      "link": "https://x.com/hazenlee/status/2049547576861770001",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHF0kqvbgAA8Hn2.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2049532923766858079",
       "username": "TJ_Research",
@@ -8927,25 +8978,6 @@
       }
     },
     {
-      "id": "2046872356451209526",
-      "username": "Marczeller",
-      "displayName": "Marc Zeller",
-      "avatar": "https://nitter.net/pic/profile_images%2F1757172379535478784%2F1hreT0cm_bigger.jpg",
-      "content": "Since more than a decade, I've been supporting builders with small angel checks.\n\nMy thesis is simple: I'm good at generating money for both the projects I work on and myself, and I have a decent, low-profile lifestyle, with a reasonable house and a \"boring\" EV rather than mansions and supercars.\n\nSo part of my money is reinjected toward builders in verticals I want exposure to and want to support in their development.\n\n- Most of these checks saw no return, money gone, it's part of the game.\n- Some of them were quite profitable and bankrolled the next wave of investments\n- And some yielded nothing, but I'm still proud of the product built.\nLi.Fi is a good example. While as an investor I saw no return yet, I love their product suite and think @PhilippZentner is a chad.\n\nSometimes I bet on a team, sometimes I have a thesis and bet on a whole vertical hoping one of them ship a good product.\n\nFor example, a couple of cycles ago I was convinced MetaMask was a bad wallet that was hurting the global EVM user experience, so I invested in many alternatives.\n\nWhen Rabby came out, I wasn't an investor. I still pushed them regardless because it was genuinely the best wallet. I think I contributed to its adoption in the ecosystem, and I'm proud of that, even if that meant no yield for me and less exposure to the ones I was invested in.\n\nIn the context of Aave, thinking a $20k angel check vested over years can influence an 8-figure position in a project I spent my sweat and blood on is a bit delusional.\n\nMy thesis on Aave has always been to carefully curate the best team in a vertical and contribute to kingmaking them. When you're managing onchain lending, you need to be opinionated, in terms of relationships and pure risk surface. One good king at $10B TVL is simply superior to 5 unequal guys at $2B each on average. This has yielded amazing results with Lido, Etherfi, Ethena (my pushback on Resolv saved Aave), Maple, and Pendle.\n\nFor Kelp, we onboarded them, after pushing back and voting against due to a weak oracle, locked up with only borrowing wstETH and with clear caps to generate an LRT <> LST <> WETH flywheel generating dozens of millions of dollars of revenue that is currently financing the paychecks of the people who seem less focused on \"leaving no ghost behind\", which was our mantra under my tenure, and more focused on trying to point fingers.\n\nExpanding the scope of assets it was allowed to borrow is something I pushed back on for a while because it was conflicting with our existing relationships.\n\nLiquid (re)staking in a protocol like Aave is a delicate balance with incredibly valuable users who hold their position literally for as long as the carry is profitable. Adding competitors to these guys can increase borrow costs, and throwing Lido users under the bus to benefit some LRT users might be a good short-term idea, but if not carefully tailored (as we did with Etherfi), it will eventually backfire.\n\nReality is more pragmatic. I do not pretend to own domain expertise on every topic, otherwise I was severely underpaid 😭. The rsETH<>wETH borrow proposal was launched in one of the most stressful periods of my life, when I witnessed years of my efforts being destroyed in a few weeks, and when the proposal received a green light from both risk teams and tech analysis. I did exactly what Stani and everyone else did: I didn't push back and voted yes.\n\nI have no issue taking my own weight own responsibility in this and will not pretend otherwise.\n\nBut I'm not allowing anyone to say my decision was influenced by an angel check.",
-      "contentHtml": "Since more than a decade, I've been supporting builders with small angel checks.\n\nMy thesis is simple: I'm good at generating money for both the projects I work on and myself, and I have a decent, low-profile lifestyle, with a reasonable house and a \"boring\" EV rather than mansions and supercars.\n\nSo part of my money is reinjected toward builders in verticals I want exposure to and want to support in their development.\n\n- Most of these checks saw no return, money gone, it's part of the game.\n- Some of them were quite profitable and bankrolled the next wave of investments\n- And some yielded nothing, but I'm still proud of the product built.\n<a href=\"http://Li.Fi\">Li.Fi</a> is a good example. While as an investor I saw no return yet, I love their product suite and think <a href=\"/PhilippZentner\" title=\"Philipp Zentner | LI.FI\">@PhilippZentner</a> is a chad.\n\nSometimes I bet on a team, sometimes I have a thesis and bet on a whole vertical hoping one of them ship a good product.\n\nFor example, a couple of cycles ago I was convinced MetaMask was a bad wallet that was hurting the global EVM user experience, so I invested in many alternatives.\n\nWhen Rabby came out, I wasn't an investor. I still pushed them regardless because it was genuinely the best wallet. I think I contributed to its adoption in the ecosystem, and I'm proud of that, even if that meant no yield for me and less exposure to the ones I was invested in.\n\nIn the context of Aave, thinking a $20k angel check vested over years can influence an 8-figure position in a project I spent my sweat and blood on is a bit delusional.\n\nMy thesis on Aave has always been to carefully curate the best team in a vertical and contribute to kingmaking them. When you're managing onchain lending, you need to be opinionated, in terms of relationships and pure risk surface. One good king at $10B TVL is simply superior to 5 unequal guys at $2B each on average. This has yielded amazing results with Lido, Etherfi, Ethena (my pushback on Resolv saved Aave), Maple, and Pendle.\n\nFor Kelp, we onboarded them, after pushing back and voting against due to a weak oracle, locked up with only borrowing wstETH and with clear caps to generate an LRT &lt;&gt; LST &lt;&gt; WETH flywheel generating dozens of millions of dollars of revenue that is currently financing the paychecks of the people who seem less focused on \"leaving no ghost behind\", which was our mantra under my tenure, and more focused on trying to point fingers.\n\nExpanding the scope of assets it was allowed to borrow is something I pushed back on for a while because it was conflicting with our existing relationships.\n\nLiquid (re)staking in a protocol like Aave is a delicate balance with incredibly valuable users who hold their position literally for as long as the carry is profitable. Adding competitors to these guys can increase borrow costs, and throwing Lido users under the bus to benefit some LRT users might be a good short-term idea, but if not carefully tailored (as we did with Etherfi), it will eventually backfire.\n\nReality is more pragmatic. I do not pretend to own domain expertise on every topic, otherwise I was severely underpaid 😭. The rsETH&lt;&gt;wETH borrow proposal was launched in one of the most stressful periods of my life, when I witnessed years of my efforts being destroyed in a few weeks, and when the proposal received a green light from both risk teams and tech analysis. I did exactly what Stani and everyone else did: I didn't push back and voted yes.\n\nI have no issue taking my own weight own responsibility in this and will not pretend otherwise.\n\nBut I'm not allowing anyone to say my decision was influenced by an angel check.",
-      "publishedAt": "2026-04-22T08:42:00.000Z",
-      "link": "https://x.com/Marczeller/status/2046872356451209526",
-      "retweet": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2046860959852171543",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -11661,60 +11693,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHCNzP5obEAAdw7A.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2046027801669869754",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "彻底结束了，RAVE 链上代币开始向 CEX 转移🤑\n\n$RAVE 代币部署地址 4 小时前通过地址中转，向 #Bitget 充值 2299.6 万枚 RAVE，价值 2430 万美元；凌晨 03:53 充值，随后币价短时下跌 42%($1.13 > $0.65)，目前合约现价 $0.5246\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "彻底结束了，RAVE 链上代币开始向 CEX 转移🤑\n\n<a href=\"/search?f=tweets&q=%23RAVE\">$RAVE</a> 代币部署地址 4 小时前通过地址中转，向 <a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 充值 2299.6 万枚 RAVE，价值 2430 万美元；凌晨 03:53 充值，随后币价短时下跌 42%($1.13 &gt; $0.65)，目前合约现价 $0.5246\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x53d7d52301366DC14E1916b14eFeC1aDD8F3487b\">intel.arkm.com/explorer/addr…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-04-20T00:46:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2046027801669869754",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGTzbwzb0AA9IBB.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "这是 $RAVE 疑似庄家的操盘地址合集🔔\n\n目前持有 7.5 亿枚代币，总价值超 103 亿美元，筹码集中度达到 75%\n\n如果你也在关心后续链上部分的代币异动，可以手动加个监控获得一手信息，右上角点「Create Alert」，将代币筛选为 RAVE，调整下警报金额即可\nintel.arkm.com/explorer/enti…\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-        "link": "https://x.com/ai_9684xtpa/status/2045491827428700530",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHGML9mxbQAAJrfD.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2046025463668310523",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
-      "content": "and dont forget L.S.T.  Eigenlayer was supposed to kill cancer. but it is just Polkadot parachain with worse utility",
-      "contentHtml": "and dont forget L.S.T.  Eigenlayer was supposed to kill cancer. but it is just Polkadot parachain with worse utility",
-      "publishedAt": "2026-04-20T00:37:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2046025463668310523",
-      "quote": {
-        "username": "0xdoug",
-        "displayName": "Doug Colkitt",
-        "content": "Can’t help but reflect on how much of this mess is a downstream consequence of the rollup centric roadmap and misconceptions promulgated in the interest of “alignment”.\n\nFor years users were told:\n\n- “L2s are just Ethereum”. Except when shit hits the fan we learn L2 assets are very much junior to mainnet\n- “Rollups share a security zone”. Only if you use the canonical bridge… which nobody does because the roadmap was launched when the tech was unusable 7 day bridges. \n- “Every app needs their own chain”. An explosion of marginal chains exposing a huge surface area of often barely maintained infra. The hack started on a chain with just 47 rsETH. Why does that chain exist?\n- “Ethereum is the world’s most economically secure asset”. Now we have a million restaking wrappers each with their own vulnerability surface, many treated as secure as ETH. All to support barely any demand",
-        "link": "https://x.com/0xdoug/status/2045988844718453186"
       },
       "stats": {
         "replies": 0,
