@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T09:44:01.742Z",
+  "lastUpdated": "2026-04-30T10:27:25.593Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,75 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 536,
+    "newFetched": 538,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2049793636754509930",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "🤔🤔",
+      "contentHtml": "🤔🤔",
+      "publishedAt": "2026-04-30T10:11:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2049793636754509930",
+      "quote": {
+        "username": "goshenggo",
+        "displayName": "Archer/张狗剩🎄",
+        "content": "【东航MU5735人为操纵坠机核心证据首次公布】NTSB 公布了所有备份的 FDR（飞行数据记录器）数据.MU5735 航班的数据。飞行数据记录器（FDR）显示的情况如下：在飞机最初失控的瞬间，两台发动机被同时关闭。两台发动机的切断开关均从“运行（RUN）”位置被拨至“切断（CUTOFF）”位置——这不是机械故障，而是蓄意行为。就在同一瞬间，自动驾驶仪也被断开——自动驾驶（AP）警告 1 和警告 2 同时触发，且指令飞行控制计算机（CMD FCC）处于关闭状态。在飞机开始俯冲时，这两个蓄意动作同时发生了。在整个失控下坠过程中，飞行数据记录器（FDR）记录到驾驶盘上存在剧烈且连续的操作输入。驾驶舱内有人在主动操纵控制装置。\n\n需要注意的是，在俯冲初期，可能还有另一名飞行员试图挽救这架飞机。操纵面数据显示：副翼（横滚）在整个过程中始终处于活动状态；升降舵（俯仰）仅在最后阶段才向下偏转；而方向舵（偏航）则根本没有被使用过。\n\n这些数据综合在一起，拼凑出了 MU5735 航班最后时刻的画面",
+        "link": "https://x.com/goshenggo/status/2049755491346337888",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHHIvZrObgAA3dKv.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHHIvaWQb0AA1qis.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2049789441997463776",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "「先定 10 个大目标」老哥 @Jason60704294 再次止损离场🩸\n\n根据发推时间估算，他的 $BTC 多单止损点位约 ~$76061，此前他的开仓价格为 $77686.5\n\n▶︎ 若多单为 397.718 枚 $BTC，预计亏损约 64.6 万美元 \n▶︎ 若多单为 2759.11 枚 $BTC，预计亏损约 448.5 万美元",
+      "contentHtml": "「先定 10 个大目标」老哥 <a href=\"/Jason60704294\" title=\"jasonleo\">@Jason60704294</a> 再次止损离场🩸\n\n根据发推时间估算，他的 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 多单止损点位约 ~$76061，此前他的开仓价格为 $77686.5\n\n▶︎ 若多单为 397.718 枚 $BTC，预计亏损约 64.6 万美元 \n▶︎ 若多单为 2759.11 枚 $BTC，预计亏损约 448.5 万美元",
+      "publishedAt": "2026-04-30T09:54:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2049789441997463776",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHJQkSubsAACV1i.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "啊这，「先定 10 个大目标」老哥这把有点悬了\n\n▶︎ 若多单为 397.718 枚 $BTC ，现已浮亏 62 万美元\n▶︎ 若多单为 2759.11 枚 $BTC，现已浮亏 430 万美元\n\n开仓价为 $77686.5，现价 $76127.58，两波下跌直接跌没了 1500 刀📉",
+        "link": "https://x.com/ai_9684xtpa/status/2049119332874231897",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHG_vHoNbkAA1hWP.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2049784805127053439",
       "username": "0xleng1",
@@ -11613,66 +11677,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FHGW-s1-b0AAt0vR.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2046380005022920927",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "Trend Research 时隔一个月再次操作🧐\n\n50 分钟前将 541 万枚 $UNI 和 22.8 万枚 $COMP 转移至新地址 0xfa9…FEB58，总价值 2332 万美元，尚未确定地址归属，易老板这是打算做什么？\n\n接收地址 intel.arkm.com/explorer/addr…\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
-      "contentHtml": "Trend Research 时隔一个月再次操作🧐\n\n50 分钟前将 541 万枚 <a href=\"/search?f=tweets&q=%23UNI\">$UNI</a> 和 22.8 万枚 <a href=\"/search?f=tweets&q=%23COMP\">$COMP</a> 转移至新地址 0xfa9…FEB58，总价值 2332 万美元，尚未确定地址归属，易老板这是打算做什么？\n\n接收地址 <a href=\"https://intel.arkm.com/explorer/address/0xfa9389e80Cd9dd9b0B429287Fd4D1d08185FEB58\">intel.arkm.com/explorer/addr…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
-      "publishedAt": "2026-04-21T00:06:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2046380005022920927",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGYzss2a8AA11ak.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "又来？Trend Research 再次与「爆仓 2.3 亿美元的 1011 巨鲸」产生资金关联😲\n\n地址 0x25F…0CbEAC 10 分钟前向 1011 巨鲸转移了 0.852 ETH，疑似为小额测试\n\n上一次这两位有资金往来还是今年 2 月，即易老板卸杠杆割肉期间，两者共用了同一个币安充值地址💡\n\n钱包地址 0xcA08371f6e9204Dd6927dcc2dB5504EA062b2998",
-        "link": "https://x.com/ai_9684xtpa/status/2035340670488232161",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHD77WFuaEAAs5W-.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2046373521094262933",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "币圈200万大V：罗素破新高了，说明资金从大科技转到高风险标的\n一个有意思的事实：三个月前的一月份，罗素也破了历史新高，大科技也回调了，然后比特币从10万跌到了6万🤷",
-      "contentHtml": "币圈200万大V：罗素破新高了，说明资金从大科技转到高风险标的\n一个有意思的事实：三个月前的一月份，罗素也破了历史新高，大科技也回调了，然后比特币从10万跌到了6万🤷",
-      "publishedAt": "2026-04-20T23:40:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2046373521094262933",
-      "quote": {
-        "username": "AshCrypto",
-        "displayName": "Ash Crypto",
-        "content": "BREAKING: 🇺🇸 Russell 2000 just hit a new all-time high of 2,798 for the first time in history. \n\nThis shows money is rotating from large cap stocks to small caps. \n\nRussell is the biggest indicator for risk assets like Crypto. Historically ETH and altcoins follows Russell 2000 to highs.",
-        "link": "https://x.com/AshCrypto/status/2046329986441957548",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHGYGRSTbMAAhMkZ.jpg"
           }
         ]
       },
