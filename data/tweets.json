@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T08:51:47.998Z",
+  "lastUpdated": "2026-04-30T09:44:01.742Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,62 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 518,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 536,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2049784805127053439",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "听说printr和bybit取消互关了，背书没有了，风险太大了，应该是不会打了。特意等到明天再看情况的，还是出现意外了。",
+      "contentHtml": "听说printr和bybit取消互关了，背书没有了，风险太大了，应该是不会打了。特意等到明天再看情况的，还是出现意外了。",
+      "publishedAt": "2026-04-30T09:35:00.000Z",
+      "link": "https://x.com/0xleng1/status/2049784805127053439",
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "发printr的别人是不是广我不知道，我没收钱。这个项目理财的概率大，只有200万额度平分下来估计也没多少，我会打满一个账号。最后一天看看情况打不打，亏钱应该很难。博弈一下bybit支持的发射台能走多远。其实就看这个项目时候上不上bybit。",
+        "link": "https://x.com/0xleng1/status/2048403548799439118"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2049780834832687133",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "在日本各种偏远地区抽宝可梦卡... 回到了当年boreape sweep floor的记忆 😂 真的是万物皆可庞皆可炒, 而且每次都是美国文化KoL带动的炒作风潮, 不管底层资产是啥. Moneymaxxing和Lookmaxxing真的太符合美国Genalpha的底层驱动力了...",
+      "contentHtml": "在日本各种偏远地区抽宝可梦卡... 回到了当年boreape sweep floor的记忆 😂 真的是万物皆可庞皆可炒, 而且每次都是美国文化KoL带动的炒作风潮, 不管底层资产是啥. Moneymaxxing和Lookmaxxing真的太符合美国Genalpha的底层驱动力了...",
+      "publishedAt": "2026-04-30T09:20:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2049780834832687133",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2049778743707685159",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "比较好奇币圈的人会比较迷信吗，什么本命年，各种玄学的说法。大家会不会去寺庙求签之类的。我真的会觉得我命由我不由天。。。从来不相信这种东西，该是我的就是我的。",
+      "contentHtml": "比较好奇币圈的人会比较迷信吗，什么本命年，各种玄学的说法。大家会不会去寺庙求签之类的。我真的会觉得我命由我不由天。。。从来不相信这种东西，该是我的就是我的。",
+      "publishedAt": "2026-04-30T09:11:00.000Z",
+      "link": "https://x.com/0xleng1/status/2049778743707685159",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2049772276820979793",
       "username": "JoshuaDeuk",
@@ -11625,67 +11676,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2046370183309382079",
-      "username": "ChainLinkGod",
-      "displayName": "Zach Rynes | CLG",
-      "avatar": "https://nitter.net/pic/profile_images%2F1799188365302018048%2FadkupUUf_bigger.jpg",
-      "content": "Look guys, it's actually really straightforward, a bunch of people staked their ETH on the Ethereum blockchain to earn yield, except they didn't want their capital to be locked up, so they actually staked with a liquid staking protocol called Lido who provided them a liquid staking receipt token called stETH, except they decided to juice their yield further by depositing their stETH receipt tokens into a restaking protocol called Eigenlayer, except they didn't want to lock up their capital, so they actually restaked with a liquid restaking protocol called KelpDAO who provided them with a liquid restaking receipt token called rsETH, except they decided to juice their yield further by depositing their rsETH tokens into a lending protocol called Aave so that they could open a leveraged looping position that borrows ETH against the rsETH collateral and restakes the ETH into rsETH which is then deposited as collateral, except it turns out rsETH used a cross-chain bridge called LayerZero that was hacked by north koreans causing rsETH to become undercollateralized and now these looping positions are stuck and unprofitable, and everyone is pointing fingers at each other, and also DeFi is a very serious industry",
-      "contentHtml": "Look guys, it's actually really straightforward, a bunch of people staked their ETH on the Ethereum blockchain to earn yield, except they didn't want their capital to be locked up, so they actually staked with a liquid staking protocol called Lido who provided them a liquid staking receipt token called stETH, except they decided to juice their yield further by depositing their stETH receipt tokens into a restaking protocol called Eigenlayer, except they didn't want to lock up their capital, so they actually restaked with a liquid restaking protocol called KelpDAO who provided them with a liquid restaking receipt token called rsETH, except they decided to juice their yield further by depositing their rsETH tokens into a lending protocol called Aave so that they could open a leveraged looping position that borrows ETH against the rsETH collateral and restakes the ETH into rsETH which is then deposited as collateral, except it turns out rsETH used a cross-chain bridge called LayerZero that was hacked by north koreans causing rsETH to become undercollateralized and now these looping positions are stuck and unprofitable, and everyone is pointing fingers at each other, and also DeFi is a very serious industry",
-      "publishedAt": "2026-04-20T23:27:00.000Z",
-      "link": "https://x.com/ChainLinkGod/status/2046370183309382079",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGYqvwZaQAAAJZw.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "DoveyWan",
-        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2046356367003488274",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
-      "content": "Everyone abandoned the M2 chart because they never truly understood what it was showing in the first place.\n\n$BTC has consistently topped before M2 peaks. \n\nHowever, once M2 does top out, it has historically led to extended downside for BTC. That pattern has repeated since 2012.\n\nThe sequence has generally been:\n\nBTC tops > M2 keeps rising > BTC ranges until M2 peaks > M2 peaks = prolonged BTC downside.\n\nThis cycle has played out again and again. \n\nM2 still hasn’t topped yet, and when it finally does, do you really think it’s suddenly going to decouple from the way markets have always moved?\n\nNo.",
-      "contentHtml": "Everyone abandoned the M2 chart because they never truly understood what it was showing in the first place.\n\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> has consistently topped before M2 peaks. \n\nHowever, once M2 does top out, it has historically led to extended downside for BTC. That pattern has repeated since 2012.\n\nThe sequence has generally been:\n\nBTC tops &gt; M2 keeps rising &gt; BTC ranges until M2 peaks &gt; M2 peaks = prolonged BTC downside.\n\nThis cycle has played out again and again. \n\nM2 still hasn’t topped yet, and when it finally does, do you really think it’s suddenly going to decouple from the way markets have always moved?\n\nNo.",
-      "publishedAt": "2026-04-20T22:32:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2046356367003488274",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGYdVZ8awAAdCvy.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2046340938432483779",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "苹果换CEO，TIM COOK退位到执行董事，并非离开苹果，也并非只挂名，而是还会参与公司运营等。通常一家公司换CEO或者管理层都会为公司带来不一样的文化。\n继承CEO位置的是John Ternus，硬件工程师的高级副总，如果说TIM COOK和乔布斯一个偏供应链和策略，一个偏工程和创造。John Ternus更偏向于乔布斯。市场也认为苹果换帅之后将会更加拥抱AI。我个人对于苹果仍然是乐观的，具体的管理风格，做决策是稳健还是激进，有待验证。",
-      "contentHtml": "苹果换CEO，TIM COOK退位到执行董事，并非离开苹果，也并非只挂名，而是还会参与公司运营等。通常一家公司换CEO或者管理层都会为公司带来不一样的文化。\n继承CEO位置的是John Ternus，硬件工程师的高级副总，如果说TIM COOK和乔布斯一个偏供应链和策略，一个偏工程和创造。John Ternus更偏向于乔布斯。市场也认为苹果换帅之后将会更加拥抱AI。我个人对于苹果仍然是乐观的，具体的管理风格，做决策是稳健还是激进，有待验证。",
-      "publishedAt": "2026-04-20T21:31:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2046340938432483779",
       "stats": {
         "replies": 0,
         "retweets": 0,
