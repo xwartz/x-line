@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T03:45:03.224Z",
+  "lastUpdated": "2026-05-02T04:49:13.404Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,60 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 523,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 544,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2050434276630696076",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "What? ..... BRS又被按到零轴了；\n\n通常意义上，在一段下行趋势中，BRS回到零即意味着进入了筑顶阶段。但有一种情况是比较特殊：\n\n之前在复盘BRS历史数据时我们有提到，如果BTC正在走出“下行趋势”，此时BRS也会被钉在零轴上。\n\n而区分这2种情况的唯一方法，就是观察其停留的时长。\n\n我让Claude分析了过去2轮周期，BRS信号从变成0到再变回非零之间的持续时长：\n\n🚩 在17-19年熊市中，BRS最长停留时间为19天20小时；而此后，2019.3.6开始至2019.6.6停留了92天。\n\n🚩 在21-23年熊市中，BRS最长停留时间为13天5小时；而此后，2023.1.12开始至2023.2.10停留了29天。\n\n可以看到，BRS停留在零轴的时间在20天左右是正常的，如果超过20天就要注意了，因为它有可能是趋势转变的信号。\n\n而当前从4/14开始回到零所持续的时间已有14天左右，按照历史数据回测的结果来看，这个时长已经非常接近是“后一种情况”的临界值。\n\n这与我们在STH-RP和TMMP的阻力位是否突破，以及投资者信心指数进入“犹豫期”上的观察结论是一致的，同样也都是仅一步之遥。\n\n具体可以参考以下链接：\nnitter.net/Murphychen888/status/2…\nnitter.net/Murphychen888/status/2…",
+      "contentHtml": "What? ..... BRS又被按到零轴了；\n\n通常意义上，在一段下行趋势中，BRS回到零即意味着进入了筑顶阶段。但有一种情况是比较特殊：\n\n之前在复盘BRS历史数据时我们有提到，如果BTC正在走出“下行趋势”，此时BRS也会被钉在零轴上。\n\n而区分这2种情况的唯一方法，就是观察其停留的时长。\n\n我让Claude分析了过去2轮周期，BRS信号从变成0到再变回非零之间的持续时长：\n\n🚩 在17-19年熊市中，BRS最长停留时间为19天20小时；而此后，2019.3.6开始至2019.6.6停留了92天。\n\n🚩 在21-23年熊市中，BRS最长停留时间为13天5小时；而此后，2023.1.12开始至2023.2.10停留了29天。\n\n可以看到，BRS停留在零轴的时间在20天左右是正常的，如果超过20天就要注意了，因为它有可能是趋势转变的信号。\n\n而当前从4/14开始回到零所持续的时间已有14天左右，按照历史数据回测的结果来看，这个时长已经非常接近是“后一种情况”的临界值。\n\n这与我们在STH-RP和TMMP的阻力位是否突破，以及投资者信心指数进入“犹豫期”上的观察结论是一致的，同样也都是仅一步之遥。\n\n具体可以参考以下链接：\n<a href=\"https://nitter.net/Murphychen888/status/2049324450651516934\">nitter.net/Murphychen888/status/2…</a>\n<a href=\"https://nitter.net/Murphychen888/status/2048643306473578577\">nitter.net/Murphychen888/status/2…</a>",
+      "publishedAt": "2026-05-02T04:36:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2050434276630696076",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHSZ_D-aYAA57nn.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHSaPrcboAAD_p2.png"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHSakOWasAAmSOl.png"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHSarjeaEAA02wx.png"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "BRS离开零轴了！\n\n正如我们之前所聊到的，并不是BRS一回到零就是顶点，但大概率会是一个阶段性的顶部区间（历史样本准确率达80%+）。\n\nBRS也不可能永远停在零轴，一旦离开就是回调的开始。\n\n昨天晚上当BTC跌至$75,500，BRS离开零轴，目前为6；同时，BSS也从0.68的高位降至0.36。\n\n我们把2个指标结合：\n\n当BSS > 0.5 且同时 BRS = 0，通常可以提升我们对”阶段性顶部“的判断概率；\n\n当BSS < 0.3 且同时 BRS = 100，通常可以强化对”有性价比的底部区间“的判断概率；\n\n所以接下来，我们只要耐心的等待BRS回到100，且BSS < 0.3的时候，这就是有性价比的买点位置。",
+        "link": "https://x.com/Murphychen888/status/2049721610287067629",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHHISunVbkAAH0AL.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHHISyMlaoAAYnc4.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2050420556298850818",
       "username": "Bitfatty",
@@ -11601,33 +11650,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHGiMPlpW4AAlM7n.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2047002913625817413",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "韭菜的记忆只有三秒",
-      "contentHtml": "韭菜的记忆只有三秒",
-      "publishedAt": "2026-04-22T17:21:00.000Z",
-      "link": "https://x.com/hazenlee/status/2047002913625817413",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGhqTEAa4AA7xiO.jpg"
-        }
-      ],
-      "quote": {
-        "username": "xtony1314",
-        "displayName": "逍遥XTony",
-        "content": "卖牛肉的臭宝，是个良心非常差的人，人品极差！\n道不道德的倒是其次，做人最起码的，不能坑别人的钱吧。\n\n早年靠挖矿的比特币早就全亏完了，然后依仗自己的名气，别人对他的信任，天天站台喊单各种空气币，又赚了几十亿。\n\n只要能赚钱，什么项目都喊，甚至要 项目方 5% 10% 的筹码。\n\n币圈只要有热点，就有他出来发币。\n\n人有钱后多多少少都有点底线，但他毫无底线，只要钱，\n可以说这是币圈最无耻的老人之一，可能都没有之一，那些有名气的老人之中，我都想不到有谁比他还无耻，有谁比他底线还低，\n\n这是他跑路美国不敢回国的主要原因。\n\nCZ 居然给他写在书里，说他捐了所有的 BNB，说他人品好，拜托，他就是菜，不知道 BNB 能涨，不然你看他会捐？\n\n今天居然连这种人都洗白了，看来币圈真没几个老韭菜了。\n\n还宝二爷，你爷死了，命里缺👴？🤡🤡🤡",
-        "link": "https://x.com/xtony1314/status/2046752343752839466"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
