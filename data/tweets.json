@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T15:32:14.640Z",
+  "lastUpdated": "2026-05-03T16:02:11.825Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,38 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 531,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 550,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2050966175887077544",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "$BTC \n\nStill the main plan.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nStill the main plan.",
+      "publishedAt": "2026-05-03T15:50:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2050966175887077544",
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "I will see you in the next few months $BTC.",
+        "link": "https://x.com/KillaXBT/status/2044853971861266899",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGDHxJQakAAxVa4.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2050947571208921104",
       "username": "Bitfatty",
@@ -11500,27 +11527,6 @@
         "displayName": "fenhae gan",
         "content": "昨晚我把arm卖了, 换去adobe",
         "link": "https://x.com/fenhae/status/2047471700330311895"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2047520212787015748",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
-      "content": "Hari nails it:\n\n“Don’t listen to people who don’t know how private markets work.”",
-      "contentHtml": "Hari nails it:\n\n“Don’t listen to people who don’t know how private markets work.”",
-      "publishedAt": "2026-04-24T03:37:00.000Z",
-      "link": "https://x.com/naval/status/2047520212787015748",
-      "quote": {
-        "username": "haridigresses",
-        "displayName": "hari raghavan",
-        "content": "x.com/i/article/204749414345…",
-        "link": "https://x.com/haridigresses/status/2047503944839016681"
       },
       "stats": {
         "replies": 0,
