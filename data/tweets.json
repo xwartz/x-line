@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T18:20:42.084Z",
+  "lastUpdated": "2026-05-03T18:48:54.582Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,9 +93,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 549,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 529,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
     {
@@ -710,6 +710,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHHXC_igboAEZYLA.jpg"
         }
       ],
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
