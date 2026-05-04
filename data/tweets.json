@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T17:06:27.702Z",
+  "lastUpdated": "2026-05-04T17:51:04.977Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,7 +93,7 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 549,
+    "newFetched": 548,
     "successUsers": 27,
     "failedUsers": 1
   },
@@ -833,6 +833,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHHdpn-SWgAE2z9h.jpg"
         }
       ],
+      "retweet": {
+        "username": "killaxbt",
+        "displayName": "Killa"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
