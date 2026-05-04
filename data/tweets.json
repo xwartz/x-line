@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T22:23:18.369Z",
+  "lastUpdated": "2026-05-04T22:49:24.976Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 548,
+    "newFetched": 549,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2051431075251962033",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "亚麻开放供应链业务向所有企业\n联邦快递📉9%\nUPS📉10%\n亚麻成了新的Anthropic？\n两个月前有人问我亚麻过去5年回报是大科技里最差的，所以不值得投资。两个月后现在的亚麻香饽饽😂\n以前所有的实体资本开支都成了现在的电商的护城河\n云的资本开支造就了最大的云厂，今年营收增速加速，利润率扩张，基本面一切如上年底的预期走，就是价格出现了些波动，回头看只有站在更高的逻辑线才能看到是机会，拿好",
+      "contentHtml": "亚麻开放供应链业务向所有企业\n联邦快递📉9%\nUPS📉10%\n亚麻成了新的Anthropic？\n两个月前有人问我亚麻过去5年回报是大科技里最差的，所以不值得投资。两个月后现在的亚麻香饽饽😂\n以前所有的实体资本开支都成了现在的电商的护城河\n云的资本开支造就了最大的云厂，今年营收增速加速，利润率扩张，基本面一切如上年底的预期走，就是价格出现了些波动，回头看只有站在更高的逻辑线才能看到是机会，拿好",
+      "publishedAt": "2026-05-04T22:37:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2051431075251962033",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2051394810175697186",
       "username": "hazenlee",
@@ -11507,27 +11522,6 @@
       "contentHtml": "現在 AI 做 Vibe Coding 其實很容易，所以很多人會用 PineScript 或者是 MultiCharts 之類的工具去做策略回測。新手做回測時，都會遇到一個核心難題，就是如何避免 over-fitting 。\n\n說實在，不管你選用蒙地卡羅還是 Bootstrap ，核心重點都是 OOS 樣本外測試，差別只在抽樣的方式不一樣。所謂的蒙地卡羅 CV，本質上只是在資料樣本切片時，重複進行多次隨機切片而已。\n\n我認為最重要的是，策略開發出來後，一定要上 Live Trading。\n\n上實盤一個月，比對回測數據。如果你的回測說這個月應該賺 5%，實盤也差不多 5%，那你的策略大概沒問題。如果差距很大，那就是回測有問題。\n\n很多人回測曲線超漂亮，可能原因不是 over-fitting，而是 look-ahead bias ，用了未來的資訊做決策。譬如在還沒收盤的時候，就用了收盤才會知道的技術指標。\n\n這種 bug 比 over-fitting 更難抓，因為回測報告上完全看不出來，只有上了實盤，績效才會現形。\n\n很多在網路上寫量化交易的人，沒有說過自己實盤跑了多久、管多少錢、做什麼市場。曲線貼出來都很漂亮，但全部都是回測。\n\n我們公司的策略已經跑了兩年實盤，只做 BTC ，OKX+Hyperliquid 的 AUM加起來 2000 多萬美金，每小時公布淨值曲線跟倉位紀錄，早期玩量化踩的坑我都踩過了。\n\n如果你剛開始做量化，不小心做出了一個回測可以買地球的策略，先不要太興奮。先上小倉位的實盤，跑一個月，把實盤績效跟回測數據放在一起看。\n\n那個差距會告訴你所有你需要知道的事。",
       "publishedAt": "2026-04-25T08:01:00.000Z",
       "link": "https://x.com/BensonTWN/status/2047949179734073475",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2047948316764152251",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "今年第一个理财局printr超募模式，每个人最多20万u，分4%一共200万的额度。需要有echo的kyc",
-      "contentHtml": "今年第一个理财局printr超募模式，每个人最多20万u，分4%一共200万的额度。需要有echo的kyc",
-      "publishedAt": "2026-04-25T07:58:00.000Z",
-      "link": "https://x.com/0xleng1/status/2047948316764152251",
-      "quote": {
-        "username": "printr",
-        "displayName": "Printr",
-        "content": "$PRINT is coming.\n\nWe're excited to announce that $PRINT will be the first token sale powered by Sonar, on Solana\n\nJoin us to reshape token creation onchain.\n\nRegistration open now\n👉 sale.printr.money\n\nMore info below 🧵",
-        "link": "https://x.com/printr/status/2047755661845606463"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
