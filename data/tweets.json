@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T03:46:38.725Z",
+  "lastUpdated": "2026-05-04T05:01:39.714Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 530,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 549,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2051162735191425421",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "可以看看评论区，当我说链上行为有信号出现的时候，有人信心满满，有人嗤之以鼻，有人半信半疑……这就是市场，任何时候都有分歧。\n\n正所谓“当局者迷，旁观者清”，我们要尽可能的让自己的意识从中局面中跳出来，以一个旁观者的视角去观察和思考。而不要作为当局者深陷其中，反受其乱。",
+      "contentHtml": "可以看看评论区，当我说链上行为有信号出现的时候，有人信心满满，有人嗤之以鼻，有人半信半疑……这就是市场，任何时候都有分歧。\n\n正所谓“当局者迷，旁观者清”，我们要尽可能的让自己的意识从中局面中跳出来，以一个旁观者的视角去观察和思考。而不要作为当局者深陷其中，反受其乱。",
+      "publishedAt": "2026-05-04T04:51:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2051162735191425421",
+      "quote": {
+        "username": "dlkgod1",
+        "displayName": "king",
+        "content": "我怎么觉得 一旦市场开始有这种声音的时候。基本就是要 二次探底了。之前的周期，每次我信心满满的时候，都会挨一棒子",
+        "link": "https://x.com/dlkgod1/status/2051118552808407353"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2051144722752913746",
       "username": "coinkarma_",
@@ -11499,27 +11520,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHGqAP2rbIAEGfA7.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2047586700034204007",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "用吹风机干扰气温的押注结果\n参与逮捕委内瑞拉总统的美军士兵成了老鼠仓\n\n一方面，预测市场几乎成了加密世界的「热搜排行榜」，因为破圈效应和极其丰富的押注题材，看点不断；另一方面，预测市场已成为当前行情资金最活跃的板块之一，DeFILama 数据显示其总 TVL 高达 5 亿美元，7 日交易量则高达 25.7 亿美元\n\n2026 年世界杯开赛在即（6 月），预测市场或将迎来一波史诗级流量，统计了目前值得关注的六大预测市场 / 相关生态，这次会希望按照不同网络和场景进行梳理，提供更多视角💁‍♀️\n\n1️⃣ Polymarket\n网络：Polygon\n毫无疑问的预测市场龙一，单平台 TVL 占整个赛道的 90%，7 日交易量高达 9.72 亿美元；有发 token 的计划，但具体的经济模型、发放时间等细节尚未公布\n\n2️⃣ Kalshi\n网络：多链集成\n选择了合规路线，属于受监管的中心化预测市场，主要面向主流事件进行押注，和 Polymarket 选择的路线不同，面向群体也就存在区别，除散户外有更多机构级参与者\n\n3️⃣ Opinion\n网络：BSC\nBSC 首个 TGE 的预测市场，目前 30 天交易量排名第 4，仅次于 Predict Fun；其单周交易量在 TGE 前一度登顶预测市场，后续有所回落\n\n4️⃣ Limitless\n网络：Base\n主攻高频、短期的预测交易，你可以在 Polymarket 押注「世界杯冠军是哪只球队」这类时间线较长的问题，就可以在 Limitless 交易「一小时后 BTC 能否突破 70000 美元」这类超短周期事件\n\n5️⃣ EVAA Protocol\n网络：Ton\nTON 首个去中心化借贷协议，EVAA 本身并不运营预测市场，但其借贷基础设施可为预测市场用户提供关键支持，从获取资金到放大杠杆；结合 Telegram 原生的入口优势，在 EVAA 的帮助下用户就可以无需脱离 TG 完成信息获取 > 资金流转 > 交易执行的完整链路\n\n6️⃣ Zeus Network\n网络：Solana × Bitcoin\n部署在 SVM 上的跨链通信层，核心目标是将比特币流动性引入Solana生态，正进一步扩展为以 BTC / zBTC 为核心结算资产的预测市场基础设施，让 BTC 参与未来定价\n\n这个赛道除了 Polymarket / Limitless 这类直接的预测平台，EVAA / Zeus 这类场景和生态入口或许同样值得关注",
-      "contentHtml": "用吹风机干扰气温的押注结果\n参与逮捕委内瑞拉总统的美军士兵成了老鼠仓\n\n一方面，预测市场几乎成了加密世界的「热搜排行榜」，因为破圈效应和极其丰富的押注题材，看点不断；另一方面，预测市场已成为当前行情资金最活跃的板块之一，DeFILama 数据显示其总 TVL 高达 5 亿美元，7 日交易量则高达 25.7 亿美元\n\n2026 年世界杯开赛在即（6 月），预测市场或将迎来一波史诗级流量，统计了目前值得关注的六大预测市场 / 相关生态，这次会希望按照不同网络和场景进行梳理，提供更多视角💁‍♀️\n\n1️⃣ Polymarket\n网络：Polygon\n毫无疑问的预测市场龙一，单平台 TVL 占整个赛道的 90%，7 日交易量高达 9.72 亿美元；有发 token 的计划，但具体的经济模型、发放时间等细节尚未公布\n\n2️⃣ Kalshi\n网络：多链集成\n选择了合规路线，属于受监管的中心化预测市场，主要面向主流事件进行押注，和 Polymarket 选择的路线不同，面向群体也就存在区别，除散户外有更多机构级参与者\n\n3️⃣ Opinion\n网络：BSC\nBSC 首个 TGE 的预测市场，目前 30 天交易量排名第 4，仅次于 Predict Fun；其单周交易量在 TGE 前一度登顶预测市场，后续有所回落\n\n4️⃣ Limitless\n网络：Base\n主攻高频、短期的预测交易，你可以在 Polymarket 押注「世界杯冠军是哪只球队」这类时间线较长的问题，就可以在 Limitless 交易「一小时后 BTC 能否突破 70000 美元」这类超短周期事件\n\n5️⃣ EVAA Protocol\n网络：Ton\nTON 首个去中心化借贷协议，EVAA 本身并不运营预测市场，但其借贷基础设施可为预测市场用户提供关键支持，从获取资金到放大杠杆；结合 Telegram 原生的入口优势，在 EVAA 的帮助下用户就可以无需脱离 TG 完成信息获取 &gt; 资金流转 &gt; 交易执行的完整链路\n\n6️⃣ Zeus Network\n网络：Solana × Bitcoin\n部署在 SVM 上的跨链通信层，核心目标是将比特币流动性引入Solana生态，正进一步扩展为以 BTC / zBTC 为核心结算资产的预测市场基础设施，让 BTC 参与未来定价\n\n这个赛道除了 Polymarket / Limitless 这类直接的预测平台，EVAA / Zeus 这类场景和生态入口或许同样值得关注",
-      "publishedAt": "2026-04-24T08:01:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2047586700034204007",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGp9MPWagAAeR7q.jpg"
         }
       ],
       "stats": {
