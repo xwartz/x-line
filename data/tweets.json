@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T05:01:39.714Z",
+  "lastUpdated": "2026-05-04T06:10:37.279Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,63 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 549,
+    "newFetched": 550,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2051172130679853484",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "有人会想玩这个吗？《三体的游戏》",
+      "contentHtml": "有人会想玩这个吗？《三体的游戏》",
+      "publishedAt": "2026-05-04T05:28:00.000Z",
+      "link": "https://x.com/coolish/status/2051172130679853484",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHc6F7nbsAAXPLt.jpg"
+        }
+      ],
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "我Steam里有800多个游戏（图2），\n强烈推荐对 游戏+AI化 感兴趣的人，\n玩一下《苏丹的游戏》（图1，Win/Mac都有）\n\n1. 是我近一年玩过最与众不同的游戏。\n2. 是国产游戏，但题材背景却是中世纪中东。\n3. 文字演绎，但自由度前无古人，尺度无下限。\n\n游戏通过每回合，在不同场景，\n打出不同的人物、道具等卡牌，来推进剧情。\n举例：\n在某野外场景，遇到一头“犀牛”，\n那么如果你打出“主角+纵欲”二张卡，\n这三张卡就会组合产生一些无下限的剧情...\n而且同样的场景、卡牌组合，还根据骰子检定变化，\n比如这头犀牛可能是先死了，然后...（不能说了）\n\n你的任何一次行为，\n都可能对游戏剧情产生千丝万缕的影响，\n导致数不清的交叉后果、分支和结局。\n\n重点来了：\n暗黑无下限只是表面，重点是这个自由度，\n和这个游戏玩法模式，\n意外地是一个极佳的AI化“底座”。\n\n通常我们谈到游戏+AI，\n往往是用AI来做游戏，\n本质上只是在说Vibe Coding游戏软件而已。\n\n而游戏AI化，则完全是不同的其他几种语境\n比如：\n1. 像《燕云十六声》里NPC对话、次要行为由AI生成\n2. AI实时生成游戏画面\n\n但这两种\n1不是游戏主线玩法\n2估计还需要几年发展才可做可玩\n\n而《苏丹的游戏》，\n其主线玩法就是文字，\n作为主要甚至唯一驱动，和表现形式。\n你可以理解为\n“互动文字小说+RPG+卡牌”，\n但其剧情本质还是If-Else构成\n（虽然光靠If-Else都实现了数不清的故事线）。\n\n如果用AI来改造这个独特的游戏类型，\n就能做出，或者魔改出\n一款完全由AI来实时驱动“无限剧情”走向的游戏，\n这会是最快能诞生此类次世代AI游戏的路径，\n原因是：\n这类游戏的核心反馈，也就是无限变化的剧情产出，\n不需要用图片、视频素材形式来交付，只需文字。\n加上，此游戏核心玩法中的“出牌”组合，\n本质上就是AI生成剧情的“提示词”组合，\n这就完美契合了当下大语言模型已充分成熟的能力阶段。\n\n甚至B站还有此游戏完整WIKI资源数据库可供取用：\nwiki.biligame.com/sultansgam…\n\n从玩家角度来说，\n这个游戏类型和玩法，虽说独特，\n但却绝不算是小众游戏，\n《苏丹的游戏》作为一款国产游戏，\n在Steam上有2万多“特别好评”。\n\n我以Steam库800多个游戏履历担保：\n1.\n即使你对AI没什么兴趣，\n只要喜欢卡牌/RPG，甚至只是爱看小说，\n这个游戏非常适合，新颖体验且耐玩度极高。\n\n2.\n而对AI驱动游戏的未来形态感兴趣的人来说，\n这是真正的AI游戏到来之前，\n此刻马上就能获得类似体验的尝鲜。\n\n3.\n而对于更进阶的个人Vibe Coder，\n想要尝试不仅仅是Vibe做一个游戏，\n而是做一种，\n既是市面上还没有的创新游戏，\n也是已有广泛玩家数基础，同时运行性能需求低，\n玩法机制定义边界清晰，开发门槛低的尝试。\n那么先至少体验一下它，\n一定能获得很大的启发。",
+        "link": "https://x.com/coolish/status/2050541619561341310",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHHTyiaDbsAAhjXS.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHHTyxRPakAALXqH.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2051170279402189002",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "答应我，不要喊那两个字好吗？\n我有个兄弟尸体很不舒服•ᴗ•💧",
+      "contentHtml": "答应我，不要喊那两个字好吗？\n我有个兄弟尸体很不舒服•ᴗ•💧",
+      "publishedAt": "2026-05-04T05:21:00.000Z",
+      "link": "https://x.com/hazenlee/status/2051170279402189002",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2051162735191425421",
       "username": "Murphychen888",
@@ -4418,31 +4470,6 @@
       "contentHtml": "真正抽你血的是多空都能赚你钱的\n不是某个方向\n牛市是被这些人给抽没的\n不是空狗\n哪有几个屌人做空的\n大家都做空就轧空了\n看特么OI全是多头自己割肉自己杀自己罢了\n傻篮子的cpu处理不了这么多信息\n只能骂空狗\n我也一起骂\n打倒空狗\n做空的看空的都是臭傻逼\n金融市场真是个神奇的地方\n买方帮卖方说话\n你但凡理智提醒一句\n傻篮子买方都要骂你别耽误他赚钱🤣\n希望你在菜市场的时候也要这样\n别讲价\n给大姨多塞点",
       "publishedAt": "2026-04-30T04:19:00.000Z",
       "link": "https://x.com/hazenlee/status/2049705065632747677",
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "在这天天骂空狗空狗的有一个算一个都是傻篮子\n谁不希望买进去躺着涨就赚钱\n时代变了\n项目方要赚钱，交易所要抽水，做市商做空波动率，大户要收租，所有人都要赚钱，你告诉我他们赚谁的钱\n当你不知道代价是谁的时候你就是代价\n我是真心希望大家都赚钱\n大家来市场都是来赚钱的\n不是证明谁对谁错的\n你觉得你自己是对的可以啊\n你满仓梭哈做多别加杠杆\n赚钱就行 我恭喜你啊\n市场和事实会证明谁是对的\n不是用嘴 用键盘\n看谁说话声大\n有理不在声高\n我发现有些人是真的亏破防了\n天天把人当假想敌\n以为让他们亏钱的根源是看空的人\n但是问题的本质不是某个人\n市场不会因为某个人的看空而下跌\n别再当傻篮子\n忽略客观事实不听好言相劝往火坑里冲的才是傻篮子",
-        "link": "https://x.com/hazenlee/status/2049702215053627889"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2049704402995618130",
-      "username": "LucretianDelta",
-      "displayName": "墙内偏移",
-      "avatar": "https://nitter.net/pic/profile_images%2F1905850895533064192%2FMJUUGifX_bigger.jpg",
-      "content": "前几天看到有人骂jane street量化砸盘恶意操控btc，其实那也是因为整体流动性退出了才砸的动，牛市单边上涨的时候也没见有人怪罪华尔街助推火箭。之前在@luanluanhey 那里看过一句听起来很残忍的话，但很现实也说得很好，“没有人有义务少赚一分钱”。\n能否接受这个“没有人有义务少赚一分钱”的事实，形而上地决定了一个交易者能否在最差的市场环境中活下来，坚持到下一个周期，当然，还需要许多其他的品质",
-      "contentHtml": "前几天看到有人骂jane street量化砸盘恶意操控btc，其实那也是因为整体流动性退出了才砸的动，牛市单边上涨的时候也没见有人怪罪华尔街助推火箭。之前在<a href=\"/luanluanhey\" title=\"luanluan（coding版）\">@luanluanhey</a> 那里看过一句听起来很残忍的话，但很现实也说得很好，“没有人有义务少赚一分钱”。\n能否接受这个“没有人有义务少赚一分钱”的事实，形而上地决定了一个交易者能否在最差的市场环境中活下来，坚持到下一个周期，当然，还需要许多其他的品质",
-      "publishedAt": "2026-04-30T04:16:00.000Z",
-      "link": "https://x.com/LucretianDelta/status/2049704402995618130",
-      "retweet": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
-      },
       "quote": {
         "username": "hazenlee",
         "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -11501,27 +11528,6 @@
       "contentHtml": "GPT5.5蛮聪明的诶，grok越用越弱智。。",
       "publishedAt": "2026-04-24T08:55:00.000Z",
       "link": "https://x.com/daidaibtc/status/2047600251595546783",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2047591812035231811",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "诶不是 你凑啥热闹啊 \n跟你有鸡毛关系啊\n我家门口暂无通行费🤡\n我暂无计划收取所有朋友对我朋友圈的订阅费，望周知！",
-      "contentHtml": "诶不是 你凑啥热闹啊 \n跟你有鸡毛关系啊\n我家门口暂无通行费🤡\n我暂无计划收取所有朋友对我朋友圈的订阅费，望周知！",
-      "publishedAt": "2026-04-24T08:21:00.000Z",
-      "link": "https://x.com/hazenlee/status/2047591812035231811",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGqAP2rbIAEGfA7.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
