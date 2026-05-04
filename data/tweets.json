@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T14:00:24.726Z",
+  "lastUpdated": "2026-05-04T14:55:08.045Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,95 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 547,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 528,
+    "successUsers": 26,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2051312214284677408",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "【Binance原油合约CLUSDT资金费率解析：周末非交易时间段的“抢跑”交易vs资金成本】\n这周看到很多人在X上说这是不是设计问题（甚至有的说是市场操纵，哪个币圈用户这么大体量能操纵原油😂），就想着来仔细拆解一下吧，以便大家能够根据交易策略选择合适的合约去持仓。\n\n【1.指数价格】\n很多crypto友友们也许是第一次参与大宗商品交易，对大宗商品的市场结构并不了解，大宗商品市场有3个特点：\n1) 大宗商品是一个期货定价为主的市场；\n2) 传统金融没有永续合约这个产品，主要定价是靠交割合约进行价格发现，一般做法是锚定交易量最大的月度交割合约；\n3) 传统金融的交易分为交易时间和非交易时间。\n\n因此在进行原油永续合约的指数价格index price设计时，基于以上3个特点，就会有3个指数价格的特殊处理办法：\n1) 指数价格锚定期货，而非锚定CFD。CFD是中心化MM明牌坐庄的产品，MM对用户进行报价，这种锚定方式更容易被操纵。所以我们可以看到Binance的CLUSDT锚定的是99%的Pyth的6月交割合约+1%的hyperliquid永续合约价格；\n2) 选择锚定交割合约，所以就存在“展期换月”Rolling这个环节，比如把5月合约换成6月合约，此时index price波动率可能会增加；\n3) 非交易时间必须有crypto market独特的定价机制。\n\n【2.非交易时间的定价】\n有关非交易时间的定价机制，并没有统一的做法，主要是看各家交易所对于衍生品的设计理念是什么。Binance在非交易时间的index price，采用了“固定价格制”，将index price固定在周五收盘价。\n\n特点：\n1) 非交易时间的定价会更加受到底层原油期货价格的影响，如果想要在非交易时间根据突发新闻抢跑交易，虽然获得了价格优势，但仍然会因为index price固定在周五收盘而付出较高的资金费率成本；\n2) index被固定住，整体交易价格会更加难以被操纵，非交易时间的定价基本还是围绕周五收盘价进行；\n3) 资金费率是双向的，一方觉得扣得多，另一方一定觉得有利可图，所以高资金费率同样也带来了很多套利策略。\n\n而Hyperliquid则是采用了一套基于平均移动线的算法，允许价格在非交易时间内也能在一定范围内波动。\n\n特点：\n1) 放开了index price，资金费率成本下降，相应资金费率套利策略减少，用户更加专注于价差投机；\n2) 在非交易时间的潜在价格波动幅度更大，对于原油来说，mark price有了额外约15.8%的潜在波动幅度\n\n【3.资金费率】\n所以我们可以得出结论——资金费率的差异主要是因为对指数价格index price在非交易时间段的处理方式不同，而非市场操纵行为：\n\n1)为什么原油合约资金费率突然在非交易时间段变高？\n很有可能是因为突发新闻，导致用户正在非交易时间“抢跑”。这部分用户提前获得了价格优势（也就是永续合约价格抢跑了底层的交割合约价格），而这个价格优势必须建立在一定的成本之上，这样才是对多空两侧都公平的市场。\n如果永续合约既能抢跑，资金成本又低，那么在非交易时间，永续合约价格更有可能大幅偏离金融市场交割合约的价格，进而被质疑价格偏离了真实的原油价格。\n\n2)为什么原油合约资金费率在月初可能不稳定？\n因为月初一般是交割合约“展期换月”的时间，传统金融市场对于远期合约的定价很复杂：\n既有可能是越远价格越高的看涨结构，也有可能是越远价格越低的看跌结构，还有可能是跟特定时间点相关的凸型结构。\n所以当rolling发生时，权重波动也会引发index price的波动。\n\n所以最重要的是在交易之前尽可能多了解将要交易什么产品，再根据自己的策略去选择相匹配的金融产品。",
+      "contentHtml": "【Binance原油合约CLUSDT资金费率解析：周末非交易时间段的“抢跑”交易vs资金成本】\n这周看到很多人在X上说这是不是设计问题（甚至有的说是市场操纵，哪个币圈用户这么大体量能操纵原油😂），就想着来仔细拆解一下吧，以便大家能够根据交易策略选择合适的合约去持仓。\n\n【1.指数价格】\n很多crypto友友们也许是第一次参与大宗商品交易，对大宗商品的市场结构并不了解，大宗商品市场有3个特点：\n1) 大宗商品是一个期货定价为主的市场；\n2) 传统金融没有永续合约这个产品，主要定价是靠交割合约进行价格发现，一般做法是锚定交易量最大的月度交割合约；\n3) 传统金融的交易分为交易时间和非交易时间。\n\n因此在进行原油永续合约的指数价格index price设计时，基于以上3个特点，就会有3个指数价格的特殊处理办法：\n1) 指数价格锚定期货，而非锚定CFD。CFD是中心化MM明牌坐庄的产品，MM对用户进行报价，这种锚定方式更容易被操纵。所以我们可以看到Binance的CLUSDT锚定的是99%的Pyth的6月交割合约+1%的hyperliquid永续合约价格；\n2) 选择锚定交割合约，所以就存在“展期换月”Rolling这个环节，比如把5月合约换成6月合约，此时index price波动率可能会增加；\n3) 非交易时间必须有crypto market独特的定价机制。\n\n【2.非交易时间的定价】\n有关非交易时间的定价机制，并没有统一的做法，主要是看各家交易所对于衍生品的设计理念是什么。Binance在非交易时间的index price，采用了“固定价格制”，将index price固定在周五收盘价。\n\n特点：\n1) 非交易时间的定价会更加受到底层原油期货价格的影响，如果想要在非交易时间根据突发新闻抢跑交易，虽然获得了价格优势，但仍然会因为index price固定在周五收盘而付出较高的资金费率成本；\n2) index被固定住，整体交易价格会更加难以被操纵，非交易时间的定价基本还是围绕周五收盘价进行；\n3) 资金费率是双向的，一方觉得扣得多，另一方一定觉得有利可图，所以高资金费率同样也带来了很多套利策略。\n\n而Hyperliquid则是采用了一套基于平均移动线的算法，允许价格在非交易时间内也能在一定范围内波动。\n\n特点：\n1) 放开了index price，资金费率成本下降，相应资金费率套利策略减少，用户更加专注于价差投机；\n2) 在非交易时间的潜在价格波动幅度更大，对于原油来说，mark price有了额外约15.8%的潜在波动幅度\n\n【3.资金费率】\n所以我们可以得出结论——资金费率的差异主要是因为对指数价格index price在非交易时间段的处理方式不同，而非市场操纵行为：\n\n1)为什么原油合约资金费率突然在非交易时间段变高？\n很有可能是因为突发新闻，导致用户正在非交易时间“抢跑”。这部分用户提前获得了价格优势（也就是永续合约价格抢跑了底层的交割合约价格），而这个价格优势必须建立在一定的成本之上，这样才是对多空两侧都公平的市场。\n如果永续合约既能抢跑，资金成本又低，那么在非交易时间，永续合约价格更有可能大幅偏离金融市场交割合约的价格，进而被质疑价格偏离了真实的原油价格。\n\n2)为什么原油合约资金费率在月初可能不稳定？\n因为月初一般是交割合约“展期换月”的时间，传统金融市场对于远期合约的定价很复杂：\n既有可能是越远价格越高的看涨结构，也有可能是越远价格越低的看跌结构，还有可能是跟特定时间点相关的凸型结构。\n所以当rolling发生时，权重波动也会引发index price的波动。\n\n所以最重要的是在交易之前尽可能多了解将要交易什么产品，再根据自己的策略去选择相匹配的金融产品。",
+      "publishedAt": "2026-05-04T14:45:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2051312214284677408",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHe3zA_aYAApY0y.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHe37aiasAA8L1c.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHe39ZFaYAAc8Nc.png"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHe4B8gboAEgccV.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2051302405405368609",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "真好啊，现在的撸毛环境又充满了活力，每天开始像打卡一样刷三四个项目。",
+      "contentHtml": "真好啊，现在的撸毛环境又充满了活力，每天开始像打卡一样刷三四个项目。",
+      "publishedAt": "2026-05-04T14:06:00.000Z",
+      "link": "https://x.com/0xleng1/status/2051302405405368609",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2051301768672481437",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1842438817397297152%2F0WZDqXBE_bigger.jpg",
+      "content": "tagged alone w/ genalpha's sunday pokemon card hunt",
+      "contentHtml": "tagged alone w/ genalpha's sunday pokemon card hunt",
+      "publishedAt": "2026-05-04T14:03:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2051301768672481437",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2051300985956364362",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
+      "content": "有一说一，我应该是中文圈第一时间转发的了，周五盘后。X上要打开小铃铛，关注正确的账号。🤪",
+      "contentHtml": "有一说一，我应该是中文圈第一时间转发的了，周五盘后。X上要打开小铃铛，关注正确的账号。🤪",
+      "publishedAt": "2026-05-04T14:00:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2051300985956364362",
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "- bans rewards that are “economically or functionally equivalent” to deposit interest\n\n- balances *can* be used for rewards if companies clear the “equivalent” test\n最新版本的清晰法案，如果最终确定，我的理解这很宽松了。利好 $coin $crcl",
+        "link": "https://x.com/TJ_Research/status/2050322696664158452"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2051300027059069006",
       "username": "DoveyWanCN",
@@ -11460,96 +11544,6 @@
         "content": "桃总有翻车经历吗？INTC 买入时机和一路持有点封神了",
         "link": "https://x.com/hhqy/status/2047825573649793118"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2047818675768480213",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "左侧做空是送钱，NVDA, SNDK, MU，哪个不是被埋的？\n做对一次，最多发个截图秀一下，且都不敢上大仓位。\n即使通过小波段赚钱了，那为何不一路大仓位做多呢？趋势明显做错了。",
-      "contentHtml": "左侧做空是送钱，NVDA, SNDK, MU，哪个不是被埋的？\n做对一次，最多发个截图秀一下，且都不敢上大仓位。\n即使通过小波段赚钱了，那为何不一路大仓位做多呢？趋势明显做错了。",
-      "publishedAt": "2026-04-24T23:23:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2047818675768480213",
-      "quote": {
-        "username": "himself65",
-        "displayName": "Bread🍞",
-        "content": "小红书集美今天开始入场soxs了，\n只要空头不死心，就可以一直扎空，\n财富会从低认知转向高认知",
-        "link": "https://x.com/himself65/status/2047801262809247874",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHGtAZFuWUAAISRd.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2047817600671895562",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "非常有信心，过去1个季度看看SATYA的X发得多卖力。\n我没信心和把握的是财报后涨还是跌",
-      "contentHtml": "非常有信心，过去1个季度看看SATYA的X发得多卖力。\n我没信心和把握的是财报后涨还是跌",
-      "publishedAt": "2026-04-24T23:18:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2047817600671895562",
-      "quote": {
-        "username": "joblee333333",
-        "displayName": "🔆都叫我TANG老师",
-        "content": "🍑课代表对下周微软的财报有信心吗？觉得高出市场预期的概率大吗",
-        "link": "https://x.com/joblee333333/status/2047683565773598880"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2047783465626534289",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
-      "content": "Every single time $BTC has deviated above the 0.5, it has resulted in a lower high.",
-      "contentHtml": "Every single time <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> has deviated above the 0.5, it has resulted in a lower high.",
-      "publishedAt": "2026-04-24T21:03:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2047783465626534289",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGswE2_XwAAOZ61.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2047748989391417461",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
-      "content": "$BTC\n\nBTC has tested a major structural zone, the February wick high combined with the previous February open.\n\nPut simply: if BTC is going below $60K in the coming months, this large grey box should not be reclaimed from a monthly timeframe perspective.\n\nWith the monthly close next week, volatility and fakeouts are likely. If May opens strong and pushes higher early in the month, there’s a good chance that move could mark the pivot high before a bearish May follows.\n\nEither way, a close above resistance does not always mean true acceptance. In a broader macro downtrend, breaks above key levels can often be used to trap late positions.\n\nGiven the monthly close is approaching, there’s also a strong chance BTC revisits both the $73K region and potentially $79K.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nBTC has tested a major structural zone, the February wick high combined with the previous February open.\n\nPut simply: if BTC is going below $60K in the coming months, this large grey box should not be reclaimed from a monthly timeframe perspective.\n\nWith the monthly close next week, volatility and fakeouts are likely. If May opens strong and pushes higher early in the month, there’s a good chance that move could mark the pivot high before a bearish May follows.\n\nEither way, a close above resistance does not always mean true acceptance. In a broader macro downtrend, breaks above key levels can often be used to trap late positions.\n\nGiven the monthly close is approaching, there’s also a strong chance BTC revisits both the $73K region and potentially $79K.",
-      "publishedAt": "2026-04-24T18:46:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2047748989391417461",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGsP6hfW4AAlD-s.png"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
