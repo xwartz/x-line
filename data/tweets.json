@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T07:41:07.801Z",
+  "lastUpdated": "2026-05-05T08:30:24.368Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -98,6 +98,102 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2051577876051329397",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://nitter.net/pic/profile_images%2F1872626142034739200%2FEIM6NL_5_bigger.jpg",
+      "content": "If I had $50-100k in crypto\n\nI would literally spend my whole day on HIP-3 trading small illiquid markets\n\nStill so many inefficiencies there, it's EASY to make money\n\nIt has been live for +6 months now\n\nYou have ZERO excuse",
+      "contentHtml": "If I had $50-100k in crypto\n\nI would literally spend my whole day on HIP-3 trading small illiquid markets\n\nStill so many inefficiencies there, it's EASY to make money\n\nIt has been live for +6 months now\n\nYou have ZERO excuse",
+      "publishedAt": "2026-05-05T08:20:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2051577876051329397",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2051576906344972557",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "首席直播监督总监",
+      "contentHtml": "首席直播监督总监",
+      "publishedAt": "2026-05-05T08:17:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2051576906344972557",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHiqURxXMAQHccb.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2051568473499934764",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "我两套服役中的NAS硬盘有200TB（如图）\n但AI Agent却没法记录我点外卖的口味，喜欢吃啥。\n\n今天我想把大众点评收藏餐厅列表导出，\n给我的Agent让它了解我的美食记忆上下文，\n我点“个人信息下载”-填写邮箱，像X的导出似的，\n它也郑重其事地给我发了一个邮件，带了个TXT附件，\n打开一看，好家伙，就是份几十个字的个人资料。\n想导出外卖订单记录，更是无果。\n可这些数据明明是我自己的不是吗？\n\n我在屏幕上可以看，却不让我导出。\n巧妇难为无米之炊。\n\n当今Agent的记忆，全靠用户花费时间精力注意力，\n主动去喂，无论是打字、说话、传数据，都是如此，\n即使是国际互联网生态的个人上下文走MCP/API流动，\n对普通人来说也是处处壁垒门槛和麻烦。\n\n人的注意力，就是Agent记忆上下文的最大瓶颈，\n而个人上下文记忆，就是Agent用例的最大瓶颈。\n\n也许你在想，如果穿戴式摄像头发展到位，\n就能实现“自动无感输入上下文”了，\n比如智能眼镜，挂脖子的项链记录仪，\n甚至带摄像头的耳机“VisionPods”\n等等形态。\n但这些都还需时日，且物理世界的视觉\n信息密度低，隐私阻力大，识别复杂度高等等。\n\n当代人大部分信息都在手机/电脑屏幕上了，\n所以最快可行的视觉记忆“自动记录仪”形态，\n就是Plaud AI这种吸在手机背面的录音卡片，\n加上USB-C连接，就能24小时录屏手机画面\n（原理同XReal智能眼镜投屏），\n比磁吸充电宝轻巧得多；\n或者电脑HDMI口插上视频采集盒，\n并配套从录屏解析导出结构化上下文的软件。\n\n那么无论你在手机/电脑上做什么，\n点外卖网购、打游戏看剧、聊天、刷推、工作...\n录屏卡片都能以视频数据的形式，\n记录下来，同时作为上下文喂给Agent。\n\nC端个人AI时代下，\nAPI/MCP/CLI...\n是理想主义者眼中的结构化世界入口，\n而屏幕视频流才是混沌APP世界的现实入口，\n让我的个人数据真正能为我所用。\n\n就像Elon Musk用坚持第一性原理，\n坚持用视觉模型做真正的自动驾驶，\n而不是指望“精确的激光雷达”，\n也不是指望全球道路来兼容自动驾驶。\n\n豆包手机团队与其做掀桌子的操作系统+手机，\n跟各大应用、平台生态的封杀巨头斗智斗勇，\n不如去做这样的手机电脑录屏卡片来切入，\n做一个感染所有手机的硬件“外挂病毒”。\n\n包括今天看到消息，说OpenAI可能在做\n最快2027年发布的AI手机+OS，\n特性是“提升真实物理世界视觉感知”，\n但你想想，你每天用的手机，\n是手机摄像头拍到的上下文价值多，\n还是手机屏幕本身显示的上下文价值多？\n\n很可能哪一天，OpenClaw/Hermes进化到\n标配从屏幕视频流，解析保存索引记忆上下文，\n对\"个人上下文黑匣子\"相关硬件的需求就觉醒了。\n\n普通人在龙虾热潮后，即使他装上了龙虾，\n不就还是不知道用来干嘛吗？\n而不知道用来干嘛，主要瓶颈不就是在于，\n他的个人上下文，难以进入龙虾记忆吗？\n而普通人的衣食住行工作生活娱乐上下文，\n不都在手机屏幕上吗？\n\n基于屏幕的视觉\n通杀一切，无需逐个APP去配置，\n无视软件霸王限制，无需兼容，24H全自动，\n录屏卡片独立工作不额外干扰手机电脑使用，\n让Agent真正成为自动了解自己的个人管家。",
+      "contentHtml": "我两套服役中的NAS硬盘有200TB（如图）\n但AI Agent却没法记录我点外卖的口味，喜欢吃啥。\n\n今天我想把大众点评收藏餐厅列表导出，\n给我的Agent让它了解我的美食记忆上下文，\n我点“个人信息下载”-填写邮箱，像X的导出似的，\n它也郑重其事地给我发了一个邮件，带了个TXT附件，\n打开一看，好家伙，就是份几十个字的个人资料。\n想导出外卖订单记录，更是无果。\n可这些数据明明是我自己的不是吗？\n\n我在屏幕上可以看，却不让我导出。\n巧妇难为无米之炊。\n\n当今Agent的记忆，全靠用户花费时间精力注意力，\n主动去喂，无论是打字、说话、传数据，都是如此，\n即使是国际互联网生态的个人上下文走MCP/API流动，\n对普通人来说也是处处壁垒门槛和麻烦。\n\n人的注意力，就是Agent记忆上下文的最大瓶颈，\n而个人上下文记忆，就是Agent用例的最大瓶颈。\n\n也许你在想，如果穿戴式摄像头发展到位，\n就能实现“自动无感输入上下文”了，\n比如智能眼镜，挂脖子的项链记录仪，\n甚至带摄像头的耳机“VisionPods”\n等等形态。\n但这些都还需时日，且物理世界的视觉\n信息密度低，隐私阻力大，识别复杂度高等等。\n\n当代人大部分信息都在手机/电脑屏幕上了，\n所以最快可行的视觉记忆“自动记录仪”形态，\n就是Plaud AI这种吸在手机背面的录音卡片，\n加上USB-C连接，就能24小时录屏手机画面\n（原理同XReal智能眼镜投屏），\n比磁吸充电宝轻巧得多；\n或者电脑HDMI口插上视频采集盒，\n并配套从录屏解析导出结构化上下文的软件。\n\n那么无论你在手机/电脑上做什么，\n点外卖网购、打游戏看剧、聊天、刷推、工作...\n录屏卡片都能以视频数据的形式，\n记录下来，同时作为上下文喂给Agent。\n\nC端个人AI时代下，\nAPI/MCP/CLI...\n是理想主义者眼中的结构化世界入口，\n而屏幕视频流才是混沌APP世界的现实入口，\n让我的个人数据真正能为我所用。\n\n就像Elon Musk用坚持第一性原理，\n坚持用视觉模型做真正的自动驾驶，\n而不是指望“精确的激光雷达”，\n也不是指望全球道路来兼容自动驾驶。\n\n豆包手机团队与其做掀桌子的操作系统+手机，\n跟各大应用、平台生态的封杀巨头斗智斗勇，\n不如去做这样的手机电脑录屏卡片来切入，\n做一个感染所有手机的硬件“外挂病毒”。\n\n包括今天看到消息，说OpenAI可能在做\n最快2027年发布的AI手机+OS，\n特性是“提升真实物理世界视觉感知”，\n但你想想，你每天用的手机，\n是手机摄像头拍到的上下文价值多，\n还是手机屏幕本身显示的上下文价值多？\n\n很可能哪一天，OpenClaw/Hermes进化到\n标配从屏幕视频流，解析保存索引记忆上下文，\n对\"个人上下文黑匣子\"相关硬件的需求就觉醒了。\n\n普通人在龙虾热潮后，即使他装上了龙虾，\n不就还是不知道用来干嘛吗？\n而不知道用来干嘛，主要瓶颈不就是在于，\n他的个人上下文，难以进入龙虾记忆吗？\n而普通人的衣食住行工作生活娱乐上下文，\n不都在手机屏幕上吗？\n\n基于屏幕的视觉\n通杀一切，无需逐个APP去配置，\n无视软件霸王限制，无需兼容，24H全自动，\n录屏卡片独立工作不额外干扰手机电脑使用，\n让Agent真正成为自动了解自己的个人管家。",
+      "publishedAt": "2026-05-05T07:43:00.000Z",
+      "link": "https://x.com/coolish/status/2051568473499934764",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHiTnIebUAAeuK1.jpg"
+        }
+      ],
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "现在都在做可穿戴摄像头，也许还不如先做个：\n从 手机电脑USB-C / HDMI 插口录屏记录仪\n+配套从录屏视频解析导出结构化上下文软件\n（导出给AI Agent用）\n\n相当于录屏版的 Plaud AI，\n且录屏分析需求，比录音分析需求更高频，\n使用场景更广泛无数倍，\n也许能成为未来 AI 视觉方案的最佳切入口。",
+        "link": "https://x.com/coolish/status/2051242646128246984"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2051568515996660207",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "终于，BTC要把自2024年11月之后在筹码结构上留下的缺口给补齐了。距离最近的筹码密集区在$78,000左右，共有42.3w枚BTC在此发生了换手。\n\n很明显，是有大资金在这里入场，从而对价格产生了支撑。此后在$79,000-$80,000区间换手开始变少，有可能是临近整数关口和压力位，一些右侧资金希望等更明确的信号吧。\n\n因此，我认为，包括上方剩余的在$81,000-$82,000还没补齐的缺口，BTC应该会在这里做些停留。等筹码充分换手后，再下一步就该向下一个筹码堆积区发起挑战了。\n\n这里需要注意的是，不是8.3-8.4w，那里筹码柱高是因为 Coinbase 整理钱包造成的。当BTC站稳8.2w后，再要向上，真正的阻力会来自$87,000以上的筹码密集区的压力。",
+      "contentHtml": "终于，BTC要把自2024年11月之后在筹码结构上留下的缺口给补齐了。距离最近的筹码密集区在$78,000左右，共有42.3w枚BTC在此发生了换手。\n\n很明显，是有大资金在这里入场，从而对价格产生了支撑。此后在$79,000-$80,000区间换手开始变少，有可能是临近整数关口和压力位，一些右侧资金希望等更明确的信号吧。\n\n因此，我认为，包括上方剩余的在$81,000-$82,000还没补齐的缺口，BTC应该会在这里做些停留。等筹码充分换手后，再下一步就该向下一个筹码堆积区发起挑战了。\n\n这里需要注意的是，不是8.3-8.4w，那里筹码柱高是因为 Coinbase 整理钱包造成的。当BTC站稳8.2w后，再要向上，真正的阻力会来自$87,000以上的筹码密集区的压力。",
+      "publishedAt": "2026-05-05T07:43:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2051568515996660207",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHiiFW1bAAAGZ2J.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "BTC 终于开始补缺口了！\n\n本轮周期在BTC的筹码结构上，有一个被“诅咒”的玄学区间 —— $72,000-$80,000。\n\n之所以说是被“诅咒”，是因为无论是24年上涨，还是26年下跌，到该区间时都快速通过，以至于始终都没有在此完成必要的筹码换手。\n\n也就在结构上留下了一个奇怪的断层区间。\n\n如今，这个缺口终于开始慢慢缩小到 $78,000-$80,000了。其中，4/17-4/18 仅仅2天时间，就有近20w枚BTC在7.6w-7.7w的位置换手。\n\n价格到位，同时有资金在此处承接，这是市场信心逐渐修复的体现。充分换手后让筹码在价格线上均衡分布，有利于加快底部结构的形成。\n\n如果未来可以全部“补齐”，那么在URPD上将形成一个跨度从$63,000-$92,000 的厚实的“筹码墙”，他所产生的“引力”能很大程度上支持价格不轻易跌穿或大幅跌穿。\n\n就如引文中我们曾经的讨论，如今 $63,000-$68,000 筹码堆积区并没有被击穿，反过来还补了上面的缺口。这也无形中增加了该区间成为底部范围的概率。\n\n当然，此后并非就一帆风顺，直通罗马。而是过程曲折，但前途光明。无论如何，开始补缺口就是好事！\n\n以往周期，我们常常会用诸如：“跌幅达到70-80%”、“Q4才会见底”、“全网喊BTC骗局”等信息作为判断熊市真正见底的方法。\n\n但随着BTC筹码分布上的微妙变化及其背后的市场行为，或许以上这些“传统特征”未必还能再见到。",
+        "link": "https://x.com/Murphychen888/status/2046031093405519886",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHGRg_GrbwAE7uCl.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2051563075653025892",
       "username": "ai_9684xtpa",
@@ -11385,120 +11481,6 @@
         "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
         "content": "从青少年当中走出来之后 ，\n发现确实需要警惕和自己谈恋爱。\n警惕把一个自己想象出来的人格附加在对方身上的恋爱。",
         "link": "https://x.com/hazenlee/status/2048263362858160369"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2048263362858160369",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "从青少年当中走出来之后 ，\n发现确实需要警惕和自己谈恋爱。\n警惕把一个自己想象出来的人格附加在对方身上的恋爱。",
-      "contentHtml": "从青少年当中走出来之后 ，\n发现确实需要警惕和自己谈恋爱。\n警惕把一个自己想象出来的人格附加在对方身上的恋爱。",
-      "publishedAt": "2026-04-26T04:50:00.000Z",
-      "link": "https://x.com/hazenlee/status/2048263362858160369",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2048262618759262545",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://nitter.net/pic/profile_images%2F1904972550347894784%2FdA544s8Q_bigger.jpg",
-      "content": "🗞 貝格鏈上週報（七十四）：最後一里路\n\n本週是 BTC 連續上漲的第四週，週內最大漲幅接近 8%；\n與此同時，四月即將結束，這是一個令所有多軍為之雀躍的上漲之月。\n\n按照慣例，本週依然要從籌碼結構的角度，\n和各位快速報告 BTC 最新的籌碼分布狀況；\n同時，BTC 目前也正處於關鍵的分水嶺 ...👇：\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n如附圖所示：\n隨著本週延續的漲勢，我們可以看到目前 BTC 的籌碼稀薄區，\n已僅僅剩下 79~80K 的區域尚未被填補，其餘區域皆已補上。\n\n在稀薄區被完全填補之後，上方緊鄰的正是位於 81K 巨量堆積柱，\n換言之：多空交戰之成敗，或許在填補真空區後很快就能見真章‼️\n\n📖「BTC 短期持有者平均成本（STH-RP）」最新數據更新\nnitter.net/market_beggar/status/2…\n\n老朋友都知道，這正是我一個半月前提出「劇本 2」的黃金交戰口，\n再次強調核心概念：\n「如果你和我相同，認為過去兩個多月的震盪結構並不利於築底；\n或者說，你也不認為 60K 是最終底部，\n那 80~81K 就是非常值得關注的潛在強阻力區🪨」\n\n關於「劇本 2」以及築底結構的詳細分析，可以參考以下分析帖🔗：\nnitter.net/market_beggar/status/2…\n\n結構性多空分水嶺將至，下好離手。\n\n以上就是今天的內容，祝各位週末愉快🪆\n\n//\n\n📚 本週文章回顧\n\n「結構性頂部已至？」接下來的兩種走勢推演\nnitter.net/market_beggar/status/2…\n\n「勝率 100% 的 PSIP 週期抄底線」最新數據更新\nnitter.net/market_beggar/status/2…\n\n「深熊估值的共振❓」持續上升的長期持有者平均成本\nnitter.net/market_beggar/status/2…\n\n「直奔劇本 2」：緊盯 80~81K 失衡區填補後的價格行為\nnitter.net/market_beggar/status/2…\n\n黃金坑追蹤系列（十一）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…",
-      "contentHtml": "🗞 貝格鏈上週報（七十四）：最後一里路\n\n本週是 BTC 連續上漲的第四週，週內最大漲幅接近 8%；\n與此同時，四月即將結束，這是一個令所有多軍為之雀躍的上漲之月。\n\n按照慣例，本週依然要從籌碼結構的角度，\n和各位快速報告 BTC 最新的籌碼分布狀況；\n同時，BTC 目前也正處於關鍵的分水嶺 ...👇：\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\n<a href=\"https://nitter.net/market_beggar/status/1963776996942741931\">nitter.net/market_beggar/status/1…</a>\n\n如附圖所示：\n隨著本週延續的漲勢，我們可以看到目前 BTC 的籌碼稀薄區，\n已僅僅剩下 79~80K 的區域尚未被填補，其餘區域皆已補上。\n\n在稀薄區被完全填補之後，上方緊鄰的正是位於 81K 巨量堆積柱，\n換言之：多空交戰之成敗，或許在填補真空區後很快就能見真章‼️\n\n📖「BTC 短期持有者平均成本（STH-RP）」最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2044595011275358565\">nitter.net/market_beggar/status/2…</a>\n\n老朋友都知道，這正是我一個半月前提出「劇本 2」的黃金交戰口，\n再次強調核心概念：\n「如果你和我相同，認為過去兩個多月的震盪結構並不利於築底；\n或者說，你也不認為 60K 是最終底部，\n那 80~81K 就是非常值得關注的潛在強阻力區🪨」\n\n關於「劇本 2」以及築底結構的詳細分析，可以參考以下分析帖🔗：\n<a href=\"https://nitter.net/market_beggar/status/2047131086883524724\">nitter.net/market_beggar/status/2…</a>\n\n結構性多空分水嶺將至，下好離手。\n\n以上就是今天的內容，祝各位週末愉快🪆\n\n//\n\n📚 本週文章回顧\n\n「結構性頂部已至？」接下來的兩種走勢推演\n<a href=\"https://nitter.net/market_beggar/status/2046044037602578643\">nitter.net/market_beggar/status/2…</a>\n\n「勝率 100% 的 PSIP 週期抄底線」最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2046405843340693984\">nitter.net/market_beggar/status/2…</a>\n\n「深熊估值的共振❓」持續上升的長期持有者平均成本\n<a href=\"https://nitter.net/market_beggar/status/2046768212197683636\">nitter.net/market_beggar/status/2…</a>\n\n「直奔劇本 2」：緊盯 80~81K 失衡區填補後的價格行為\n<a href=\"https://nitter.net/market_beggar/status/2047131086883524724\">nitter.net/market_beggar/status/2…</a>\n\n黃金坑追蹤系列（十一）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2047493606156738885\">nitter.net/market_beggar/status/2…</a>",
-      "publishedAt": "2026-04-26T04:47:00.000Z",
-      "link": "https://x.com/market_beggar/status/2048262618759262545",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGzj_jKbQAACoMC.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "🗞 貝格鏈上週報（七十三）：稀薄區填補 ing\n\n本週延續了上週的漲勢，週內最大漲幅約為 11%，\n同時 BTC 也創下過去 2 個多月以來震盪區間的新高，\n市場的看漲情緒開始堆積，但多空分歧也正逐步提升。\n\n值得注意的是：我們一路以來追蹤的「籌碼稀薄區」，\n如今也正隨著本週的上漲開始被填補 ...👇：\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n如附圖所示：\n原先位於 73~81K 的真空稀薄區，在時隔 n 個月之後，\n終於開始有被填補的跡象，這也終於使 BTC 的籌碼分布開始均勻化。\n\n由於稀薄區域中本就不存在太多籌碼堆積（幾乎沒有籌碼在此區買入），\n因此不論是遭遇上漲、下跌，此區域幾乎都給不了實質的支撐 / 阻力效果，\n因此，在沒有出現明顯右側下跌訊號之前，\n或許趁著本波上漲，直接把稀薄區填補完成也是完全合理的。\n\n結合我在技術面提出的「劇本 2」（nitter.net/market_beggar/status/2…），\n從籌碼分布上我們也可以明顯看到：\n「若價格持續上漲，籌碼面給出的最明顯阻力即是 80~81K 的巨量套牢盤」‼️\n\n不過需要注意的是：\n這些人在當初買入之後，即便價格後續下跌至最低 60K，\n他們的拋售意願也並不明顯，因此未來倘若回到他們的成本線，\n我們其實也不好確定他們是否會「逃命」。\n\n就目前的狀況而言，我們能做的其實不多，我也還是那句老話：\n「提前制定交易計畫，擬定自己的擊球區，等待訊號觸發再出手」。\n\n至於我自己的作法 & 規劃，可以參考我在前段附上的鏈接🔗，\n該帖中有我詳細的交易計畫，平時我也會在群內和各位分享自己的 bias。\n\n最後，或許你已因漲勢而動搖、焦慮，但我仍選擇等待「最後一哆嗦」。\n\n以上就是今天的內容，祝各位週末愉快🍨\n\n//\n\n📚 本週文章回顧\n\n美方資金情緒曲線更新：「成也老美，敗也老美」\nnitter.net/market_beggar/status/2…\n\n「熊市中繼結構再現❓」：大級別震盪結構詳細分析\nnitter.net/market_beggar/status/2…\n\n「BTC 短期持有者平均成本（STH-RP）」最新數據更新\nnitter.net/market_beggar/status/2…\n\n黃金坑追蹤系列（十）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
-        "link": "https://x.com/market_beggar/status/2045725484575826031",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHGPgezbacAAIM2z.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2048262591806603644",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
-      "content": "叠加3组数据（Options Gamma Exposure、Options Open Interest by Strike Price、Options ATM Implied Volatility），从期权的角度看对BTC的影响：\n\n$80,000是当前BTC上方第一道有效阻力。该位置同时具备高Call OI、正Gamma和低 IV的条件。\n\n当价格从向上推进时，做市商的动态对冲容易形成卖压；而IV越低，使做市商对冲调仓的边际敏感度也越高。\n\n因此这墙的厚度（OI 7,200 枚BTC + 正Gamma量级）让8w美元成为5月份“比较难啃的骨头”。\n\n但这不是绝对天花板！\n\n一旦突破并接近$82,000时，由于此处存在更大规模的负Gamma（OI 4,644 枚BTC），市场可能迅速从被压制而切换为“放大波动”模式。",
-      "contentHtml": "叠加3组数据（Options Gamma Exposure、Options Open Interest by Strike Price、Options ATM Implied Volatility），从期权的角度看对BTC的影响：\n\n$80,000是当前BTC上方第一道有效阻力。该位置同时具备高Call OI、正Gamma和低 IV的条件。\n\n当价格从向上推进时，做市商的动态对冲容易形成卖压；而IV越低，使做市商对冲调仓的边际敏感度也越高。\n\n因此这墙的厚度（OI 7,200 枚BTC + 正Gamma量级）让8w美元成为5月份“比较难啃的骨头”。\n\n但这不是绝对天花板！\n\n一旦突破并接近$82,000时，由于此处存在更大规模的负Gamma（OI 4,644 枚BTC），市场可能迅速从被压制而切换为“放大波动”模式。",
-      "publishedAt": "2026-04-26T04:47:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2048262591806603644",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGzjvZcaoAARsic.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGzjyndbQAA7Pz6.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHGzj2Awa8AA-YQl.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "哈....看到这个我就放心了！\n\n从4月20日开始，LTH净持仓开始减少，直至24日累计花费98,154枚BTC，净减持24,205枚BTC。\n\n截止到4月24日，LTH的7日净持仓已开始转负。\n\n说明“不是不卖，而是价格没到位” —— LTH手上仍然有不坚定的筹码，一旦获利回报不错，就会卖出。\n\n且在此期间价格明显承压，BTC在接近8w美元的整数心理关口处遇阻。\n\n如果你去复盘过往数据就不难发现：如果是牛市启动，LTH派发的同时价格会同步拉升的，即有充足的需求源源不断的承接供应。\n\n所以，价格拉升 → LTH派发 → 价格承压，这就不是牛市启动的征兆。\n\n本质上其背后的逻辑还是情绪谨慎（有利润就急于获利了结），以及需求不足（承接不住超额供应）。\n\n但是，你不要以为这样就能来一波大的。\n\n我觉得不会。\n\n按目前情况综合来看，一旦价格回调，LTH的派发大概率就会变少，价格又能稳住。因此，会形成了一个很微妙的上下波动的空间。\n\n在“供需弱平衡”下，慢慢磨完熊市的后半段。",
-        "link": "https://x.com/Murphychen888/status/2047882376773333128",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHGuHXWCaUAA52zk.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHGuHaaabAAAg07w.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2048258356717203655",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://nitter.net/pic/profile_images%2F1753543065292431360%2Fj4831bJN_bigger.jpg",
-      "content": "从来没有首席胆敢开实盘证明自己\n除了召北老师\n所以召北老师身败名裂流窜海外了",
-      "contentHtml": "从来没有首席胆敢开实盘证明自己\n除了召北老师\n所以召北老师身败名裂流窜海外了",
-      "publishedAt": "2026-04-26T04:30:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2048258356717203655",
-      "quote": {
-        "username": "Web3Feng",
-        "displayName": "风无向🦅",
-        "content": "我一个半圈外朋友评价币圈的人：\n\n没有边界感，没有阶级感，没有一个正常人。什么权威不存在的。\n\n没点心理素质怎么来币圈做首席？Musk都要天天被喷，你被喷下咋了？\n\n看看我们币圈曾经的首席-召北老师，水平不说多高，心理素质不知道高到哪里去了。",
-        "link": "https://x.com/Web3Feng/status/2048230767449539071"
       },
       "stats": {
         "replies": 0,
