@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T22:32:23.767Z",
+  "lastUpdated": "2026-05-06T23:05:27.149Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 553,
-    "successUsers": 27,
-    "failedUsers": 1
+    "newFetched": 512,
+    "successUsers": 25,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2052159173811732758",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://nitter.net/pic/profile_images%2F1218904499315564544%2FhdVJuLX-_bigger.jpg",
+      "content": "codex 好乖啊，自己在那调 UI。",
+      "contentHtml": "codex 好乖啊，自己在那调 UI。",
+      "publishedAt": "2026-05-06T22:50:00.000Z",
+      "link": "https://x.com/taresky/status/2052159173811732758",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2052140159643345069",
       "username": "Cbb0fe",
@@ -11426,27 +11441,6 @@
             "url": "https://nitter.net/pic/orig/media%2FHGyTSDjasAAmF_8.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2048821642919358502",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "Seat + Token额度。必然的趋势。现在Token太抢手了",
-      "contentHtml": "Seat + Token额度。必然的趋势。现在Token太抢手了",
-      "publishedAt": "2026-04-27T17:48:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2048821642919358502",
-      "quote": {
-        "username": "github",
-        "displayName": "GitHub",
-        "content": "Starting June 1st, GitHub Copilot will move to a usage-based billing model as GitHub Copilot supports more agentic and advanced workflows. \n\nIn early May, you'll see a preview bill experience, giving visibility into projected costs before the transition. \n\n👉 Read more about the upcoming change: github.blog/news-insights/co…",
-        "link": "https://x.com/github/status/2048794729274278258"
       },
       "stats": {
         "replies": 0,
