@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T17:04:14.749Z",
+  "lastUpdated": "2026-05-06T17:50:51.905Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,9 +93,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 534,
-    "successUsers": 26,
-    "failedUsers": 2
+    "newFetched": 552,
+    "successUsers": 27,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -120,6 +120,43 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FHHpj85UWkAIv3UD.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2052069007247708587",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "$BTC \n\nIf the current yearly candle pulls off something like this, it would be the craziest sh*t I’ve seen in 7 years.\n\nI think hitting 100K this year is quite unlikely, but only time will tell. \n\n50% of people think otherwise, lets see. 🤟",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nIf the current yearly candle pulls off something like this, it would be the craziest sh*t I’ve seen in 7 years.\n\nI think hitting 100K this year is quite unlikely, but only time will tell. \n\n50% of people think otherwise, lets see. 🤟",
+      "publishedAt": "2026-05-06T16:52:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2052069007247708587",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHpo89yXgAUDUuO.png"
+        }
+      ],
+      "quote": {
+        "username": "Kalshi_Crypto",
+        "displayName": "Kalshi Crypto",
+        "content": "BREAKING: 50% chance Bitcoin hits $100,000 this year\n\n7% chance it happens this month",
+        "link": "https://x.com/Kalshi_Crypto/status/2052023831355707617",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHHpArh4X0AAz6CY.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHHpAtTMXUAA_3jI.png"
           }
         ]
       },
@@ -11417,39 +11454,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHG7JIX8a0AAL2og.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2048794559191408855",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "按照“古法交易理论”，比特币就是有暴跌预期：\n1.Coinbase的溢价看跌\n2.现货成交量看跌\n3.期货持仓量看跌\n4.图表分析看跌（背离+周线中轨+4H上涨趋势线，后两者吹弹可破的状态）\n\n\"古法交易理论\"得名于事件驱动交易风头压倒一切这一现象（即传统技术面/链上数据分析被嘲讽为\"古法\"）",
-      "contentHtml": "按照“古法交易理论”，比特币就是有暴跌预期：\n1.Coinbase的溢价看跌\n2.现货成交量看跌\n3.期货持仓量看跌\n4.图表分析看跌（背离+周线中轨+4H上涨趋势线，后两者吹弹可破的状态）\n\n\"古法交易理论\"得名于事件驱动交易风头压倒一切这一现象（即传统技术面/链上数据分析被嘲讽为\"古法\"）",
-      "publishedAt": "2026-04-27T16:01:00.000Z",
-      "link": "https://x.com/follow_clues/status/2048794559191408855",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHG7HmCVbYAARfyM.jpg"
-        }
-      ],
-      "quote": {
-        "username": "follow_clues",
-        "displayName": "Theclues",
-        "content": "今晚比特币的博弈状态😂",
-        "link": "https://x.com/follow_clues/status/2048787006046757213",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHG7A2Jyb0AAPO0X.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
