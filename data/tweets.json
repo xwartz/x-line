@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T01:57:31.126Z",
+  "lastUpdated": "2026-05-07T03:09:39.112Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -93,11 +93,65 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 552,
+    "newFetched": 556,
     "successUsers": 27,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2052211130278543547",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://nitter.net/pic/profile_images%2F1497930379453292552%2F4MXcOxdC_bigger.jpg",
+      "content": "【#BTC 年更系列】\n\n当前比特币已实现盈亏比（90日均值）已摸到 1.0 牛熊切换关键位\n\n上次摸到还是在23年2月☝️🤓",
+      "contentHtml": "【<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 年更系列】\n\n当前比特币已实现盈亏比（90日均值）已摸到 1.0 牛熊切换关键位\n\n上次摸到还是在23年2月☝️🤓",
+      "publishedAt": "2026-05-07T02:17:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2052211130278543547",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHHro_OjaoAAz1Wk.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【里程碑时刻】当前随着比特币已实现盈亏比(#Bitcoin: Realized Profit/Loss Ratio)90日移动平均值指标突破1.0的牛回大压力位，本轮周期的底部区间彻底终结。",
+        "link": "https://x.com/0xCryptoChan/status/1628580950203592705",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FFpnhvFmaEAAj6tJ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2052210768117199075",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "跌了吗？",
+      "contentHtml": "跌了吗？",
+      "publishedAt": "2026-05-07T02:15:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2052210768117199075",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "可以中🈳一波比特币了",
+        "link": "https://x.com/Bitfatty/status/2052022281254367368"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2052205146827116790",
       "username": "market_beggar",
@@ -11422,60 +11476,6 @@
       "contentHtml": "A hard SL makes your position visible in the orderbooks. \n\nThey want traders to rely on hard stops because it publicly reveals where your invalidation level sits, data that algos and MMs can use. \n\nThey frame trading without hard stops as reckless or poor risk management, but that isn’t necessarily true.\n\nYou can still manage risk by manually closing the trade once your thesis is invalidated, without exposing your exit level to the market in advance.\n\nYou should know by now that <a href=\"/binance\" title=\"Binance\">@binance</a> has access to users positions and trading data. There are levels to this game.",
       "publishedAt": "2026-04-27T21:20:00.000Z",
       "link": "https://x.com/KillaXBT/status/2048875037575262681",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2048796061343601127",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "4H配图",
-      "contentHtml": "4H配图",
-      "publishedAt": "2026-04-27T16:07:00.000Z",
-      "link": "https://x.com/follow_clues/status/2048796061343601127",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHG7JIX8a0AAL2og.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2048794559191408855",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
-      "content": "按照“古法交易理论”，比特币就是有暴跌预期：\n1.Coinbase的溢价看跌\n2.现货成交量看跌\n3.期货持仓量看跌\n4.图表分析看跌（背离+周线中轨+4H上涨趋势线，后两者吹弹可破的状态）\n\n\"古法交易理论\"得名于事件驱动交易风头压倒一切这一现象（即传统技术面/链上数据分析被嘲讽为\"古法\"）",
-      "contentHtml": "按照“古法交易理论”，比特币就是有暴跌预期：\n1.Coinbase的溢价看跌\n2.现货成交量看跌\n3.期货持仓量看跌\n4.图表分析看跌（背离+周线中轨+4H上涨趋势线，后两者吹弹可破的状态）\n\n\"古法交易理论\"得名于事件驱动交易风头压倒一切这一现象（即传统技术面/链上数据分析被嘲讽为\"古法\"）",
-      "publishedAt": "2026-04-27T16:01:00.000Z",
-      "link": "https://x.com/follow_clues/status/2048794559191408855",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHG7HmCVbYAARfyM.jpg"
-        }
-      ],
-      "quote": {
-        "username": "follow_clues",
-        "displayName": "Theclues",
-        "content": "今晚比特币的博弈状态😂",
-        "link": "https://x.com/follow_clues/status/2048787006046757213",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHG7A2Jyb0AAPO0X.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
