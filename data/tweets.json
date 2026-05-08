@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T22:35:02.627Z",
+  "lastUpdated": "2026-05-08T23:07:01.712Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -101,6 +101,35 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2052880163336311221",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "通宵手搓了个逆天的全网首创“X Skill”，\n去睡前先大致说下：\n实时语音Agent，不仅能拉它上 X Space 跟多人语音，\n而且还能在语音中，光动嘴就指挥它在 X 上“做事”。\n\n如图1，在实时语音中，\n我（或者甚至其他发言人）可以跟Agent说：\n\n“你搜一下 X 上关于减肥针风险的推文，\n把最靠谱的推文 URL 发到这个 Space 下的评论区。”\n\n然后它就真的做到了！（图2）\n\n核心是：\nGrok 的各个模型，包括实时语音模型API，\n都具有自然语言发起“Function Calling”的能力\n（图3）\n用这个去调用 X 账号的OAuth，那么就相当于：\n\n利用 Grok API 原生自带对 X 的自然语义检索能力\n乘以\nX API的读写能力（发推甚至发私信）\n\n这两个互相一乘，可玩空间太大了。\n\n不得不说，\nOpenAI GPT-Realtime-2 实时语音模型再好，\n可是架不住\nGrok Realtime API 实时语音API能玩转X啊。\n\n三言两语说的不是很清楚，\n后续我再让 Codex 整理个更清楚的说明书。\n\n明后天我可以找时间另开 Space 公开演示说明。",
+      "contentHtml": "通宵手搓了个逆天的全网首创“X Skill”，\n去睡前先大致说下：\n实时语音Agent，不仅能拉它上 X Space 跟多人语音，\n而且还能在语音中，光动嘴就指挥它在 X 上“做事”。\n\n如图1，在实时语音中，\n我（或者甚至其他发言人）可以跟Agent说：\n\n“你搜一下 X 上关于减肥针风险的推文，\n把最靠谱的推文 URL 发到这个 Space 下的评论区。”\n\n然后它就真的做到了！（图2）\n\n核心是：\nGrok 的各个模型，包括实时语音模型API，\n都具有自然语言发起“Function Calling”的能力\n（图3）\n用这个去调用 X 账号的OAuth，那么就相当于：\n\n利用 Grok API 原生自带对 X 的自然语义检索能力\n乘以\nX API的读写能力（发推甚至发私信）\n\n这两个互相一乘，可玩空间太大了。\n\n不得不说，\nOpenAI GPT-Realtime-2 实时语音模型再好，\n可是架不住\nGrok Realtime API 实时语音API能玩转X啊。\n\n三言两语说的不是很清楚，\n后续我再让 Codex 整理个更清楚的说明书。\n\n明后天我可以找时间另开 Space 公开演示说明。",
+      "publishedAt": "2026-05-08T22:35:00.000Z",
+      "link": "https://x.com/coolish/status/2052880163336311221",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHH1IoY2akAAJ_yc.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHH1Isy7a0AA-JgA.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHH1K-DUakAADR72.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2052877597789311219",
       "username": "TJ_Research",
@@ -11485,39 +11514,6 @@
         "displayName": "Naval Podcast",
         "content": "Vibe Coding is a Video Game with Real-World Rewards.",
         "link": "https://x.com/navalpodcast/status/2049655573709484454"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2049666406120411451",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
-      "content": "80000 枚 $ETH 看多！这是想靠多单复现上一波 4461 万美元的盈利吗😲\n\n曾累计做多 12 万枚 ETH 的多军在过去 2 个月通过做多 ETH 巨额获利，目前他的两个地址再次加仓，手握 1.82 亿美元的仓位，开仓价为 ~$2265，现浮盈 51.4 万美元 —— 已再次成为 Hyperliquid ETH TOP1 头寸\n\n传送门\nd.pro/portfolio/0xa5b0edf6b5…\nd.pro/portfolio/0x6c8512516c…",
-      "contentHtml": "80000 枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 看多！这是想靠多单复现上一波 4461 万美元的盈利吗😲\n\n曾累计做多 12 万枚 ETH 的多军在过去 2 个月通过做多 ETH 巨额获利，目前他的两个地址再次加仓，手握 1.82 亿美元的仓位，开仓价为 ~$2265，现浮盈 51.4 万美元 —— 已再次成为 Hyperliquid ETH TOP1 头寸\n\n传送门\n<a href=\"https://www.d.pro/portfolio/0xa5b0edf6b55128e0ddae8e51ac538c3188401d41\">d.pro/portfolio/0xa5b0edf6b5…</a>\n<a href=\"https://www.d.pro/portfolio/0x6c8512516ce5669d35113a11ca8b8de322fd84f6\">d.pro/portfolio/0x6c8512516c…</a>",
-      "publishedAt": "2026-04-30T01:45:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2049666406120411451",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHHHguILakAASFmi.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "勇士！同样看多的还有「两个月盈利 4,461 万刀的 $ETH 杠杆巨鲸」\n\n他的另一地址 0xa5b…01d41 同步开启了 2 万枚 ETH 的多单（价值 4542 万美元），开仓价 $2268.8；目前两个地址已累计持有 4 万枚 ETH，总仓位价值 9,084 万美元，浮亏约 20 万美元\n\n传送门 👉 d.pro/portfolio/0xa5b0edf6b5…",
-        "link": "https://x.com/ai_9684xtpa/status/2049120942526484532",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHG_wkb1bMAE1KDs.jpg"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
