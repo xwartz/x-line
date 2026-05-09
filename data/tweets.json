@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T22:47:18.679Z",
+  "lastUpdated": "2026-05-09T23:19:12.300Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -96,11 +96,42 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 568,
+    "newFetched": 569,
     "successUsers": 28,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2053246840028774459",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "Grok 实时语音模型 + X API 的化学反应，\n实在太被忽视了，整个 X 没人原创下这方面？\n\n原生内置“24小时更新的 X 全网上下文”加持下，\n跟 OpenAI 实时语音那种傻快，根本不是一个物种。\n\nAGI 还没来，我手搓“XGI”，这又搓了个通宵。\n希望明天有时间开 Space ，让大家来多人一起玩。\n\n先从视频感受下⬇️",
+      "contentHtml": "Grok 实时语音模型 + X API 的化学反应，\n实在太被忽视了，整个 X 没人原创下这方面？\n\n原生内置“24小时更新的 X 全网上下文”加持下，\n跟 OpenAI 实时语音那种傻快，根本不是一个物种。\n\nAGI 还没来，我手搓“XGI”，这又搓了个通宵。\n希望明天有时间开 Space ，让大家来多人一起玩。\n\n先从视频感受下⬇️",
+      "publishedAt": "2026-05-09T22:52:00.000Z",
+      "link": "https://x.com/coolish/status/2053246840028774459",
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "通宵手搓了个逆天的全网首创“X Skill”，\n去睡前先大致说下：\n实时语音Agent，不仅能拉它上 X Space 跟多人语音，\n而且还能在语音中，光动嘴就指挥它在 X 上“做事”。\n\n如图1，在实时语音中，\n我（或者甚至其他发言人）可以跟Agent说：\n\n“你搜一下 X 上关于减肥针风险的推文，\n把最靠谱的推文 URL 发到这个 Space 下的评论区。”\n\n然后它就真的做到了！（图2）\n\n核心是：\nGrok 的各个模型，包括实时语音模型API，\n都具有自然语言发起“Function Calling”的能力\n（图3）\n用这个去调用 X 账号的OAuth，那么就相当于：\n\n利用 Grok API 原生自带对 X 的自然语义检索能力\n乘以\nX API的读写能力（发推甚至发私信）\n\n这两个互相一乘，可玩空间太大了。\n\n不得不说，\nOpenAI GPT-Realtime-2 实时语音模型再好，\n可是架不住\nGrok Realtime API 实时语音API能玩转X啊。\n\n三言两语说的不是很清楚，\n后续我再让 Codex 整理个更清楚的说明书。\n\n明后天我可以找时间另开 Space 公开演示说明。",
+        "link": "https://x.com/coolish/status/2052880163336311221",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHH1IoY2akAAJ_yc.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHH1Isy7a0AA-JgA.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2053241047778722071",
       "username": "TJ_Research",
@@ -11510,31 +11541,6 @@
         {
           "type": "image",
           "url": "https://nitter.net/pic/orig/media%2FHHK-ig6aQAA_qon.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2049904438744343018",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "封鎖已久，以為這流量小丑早就從幣圈消失了\n\n原來還在，已經淪落到需要去其他平台偷搬別人內容了\n\n可悲",
-      "contentHtml": "封鎖已久，以為這流量小丑早就從幣圈消失了\n\n原來還在，已經淪落到需要去其他平台偷搬別人內容了\n\n可悲",
-      "publishedAt": "2026-04-30T17:31:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2049904438744343018",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHHK0Xola4AASkha.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHHK2UyEbQAAJMmO.jpg"
         }
       ],
       "stats": {
