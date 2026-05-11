@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T03:47:17.173Z",
+  "lastUpdated": "2026-05-11T05:22:02.718Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -96,11 +96,138 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 569,
+    "newFetched": 570,
     "successUsers": 28,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2053693962649763850",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://nitter.net/pic/profile_images%2F1886766041419931648%2F5seFXKGC_bigger.jpg",
+      "content": "Bitget IPO Prime的第1期preSPAX，不知道有多少小伙伴抢到了，如果没有也没关系，第2期今晚18:00就会公布。\n\n别问会是什么，要问就是老夫夜观星象告诉你 —— OpenAI！\n\n链上数据显示，preOPAI已于5月7日由Republic在Solana链上完成铸造，首批29,082枚进入项目方托管账户，距离正式上Bitget IPO Prime还差最后一步分发。\n\n顶层指令是Mint_securities，调用的程序是4X79YR...zMJwr3（这就是Republic的access_control/证券发行程序）。\n\n基于上一次preSPAX就是Bitget和Republic的合作，所以这次大概率就是了。\n\nTxid链接：solscan.io/tx/5AzGVUDiv17RCE…",
+      "contentHtml": "Bitget IPO Prime的第1期preSPAX，不知道有多少小伙伴抢到了，如果没有也没关系，第2期今晚18:00就会公布。\n\n别问会是什么，要问就是老夫夜观星象告诉你 —— OpenAI！\n\n链上数据显示，preOPAI已于5月7日由Republic在Solana链上完成铸造，首批29,082枚进入项目方托管账户，距离正式上Bitget IPO Prime还差最后一步分发。\n\n顶层指令是Mint_securities，调用的程序是4X79YR...zMJwr3（这就是Republic的access_control/证券发行程序）。\n\n基于上一次preSPAX就是Bitget和Republic的合作，所以这次大概率就是了。\n\nTxid链接：<a href=\"https://solscan.io/tx/5AzGVUDiv17RCEMkXt28xzNSvNb6PDmAvvFbMkJ1to75zirYLUJai5HwwnM3bVteyrEtVQQq7wW3V8aKy92sXgcg\">solscan.io/tx/5AzGVUDiv17RCE…</a>",
+      "publishedAt": "2026-05-11T04:29:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2053693962649763850",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHIAtJ9gagAA9RuF.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitget_zh",
+        "displayName": "Bitget中文",
+        "content": "IPO Prime 下一个项目，即将亮相。\n\n北京时间今晚 18:00 揭晓⏳\n\n猜猜是哪家公司👇",
+        "link": "https://x.com/Bitget_zh/status/2053674019170525504"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2053691147902759105",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "硅谷的软件就业就业环境非常诡谲 (EE就不说了, 那简直是疯了, 整个湾区房价涨最多的就是最南边和最北边lol Man Jose突然硬气了) 好朋友参与组织了一个(Un)PTO (un-paid-time-off)的 “layoff to hikeoff\"的club j就是失业人群一起去徒步的, 人数激增, 不乏原来star eng/product被干掉的. 但是过去有企业级产品开发和部署经验的没那么酷的position, AOMG家offer拿到手软",
+      "contentHtml": "硅谷的软件就业就业环境非常诡谲 (EE就不说了, 那简直是疯了, 整个湾区房价涨最多的就是最南边和最北边lol Man Jose突然硬气了) 好朋友参与组织了一个(Un)PTO (un-paid-time-off)的 “layoff to hikeoff\"的club j就是失业人群一起去徒步的, 人数激增, 不乏原来star eng/product被干掉的. 但是过去有企业级产品开发和部署经验的没那么酷的position, AOMG家offer拿到手软",
+      "publishedAt": "2026-05-11T04:18:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2053691147902759105",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2053689173216047428",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://nitter.net/pic/profile_images%2F1532938119359524864%2FwdSAkS5F_bigger.jpg",
+      "content": "当时学术界包括工业界对GenAI要么看不上要么颇有微词, 我记得当时有一次去NeurIPS (2018还是17) 学术界都觉CV基本卷到到头了, GAN的产业化那个时候还停留在讨论Deepfake和电影特效, NLP还至少要再卷10年才能摸到大规模产业化的边 (确实是10年, 不过完全不是原来主流NLP的路径 😂) transformer不够“elegant”",
+      "contentHtml": "当时学术界包括工业界对GenAI要么看不上要么颇有微词, 我记得当时有一次去NeurIPS (2018还是17) 学术界都觉CV基本卷到到头了, GAN的产业化那个时候还停留在讨论Deepfake和电影特效, NLP还至少要再卷10年才能摸到大规模产业化的边 (确实是10年, 不过完全不是原来主流NLP的路径 😂) transformer不够“elegant”",
+      "publishedAt": "2026-05-11T04:10:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2053689173216047428",
+      "quote": {
+        "username": "fi56622380",
+        "displayName": "fin",
+        "content": "几家AI startup其实都是照着上个时代的AI workload来做的，架构在Transformer 成为工业主范式之前就已经形成，到了LLM时代的转型期也挺艰难曲折\n\n比如groq的主要架构基本上是17年就完成了，那是CNN的时代，架构也是以CNN/LSTM为主要的target，当时测试benchmark都是ResNet50，SRAM容量是绰绰有余的\n\n结果进入LLM时代，一个LLAMA 70B模型的参数量占内存就相当于3000个ResNet50，就不够看了。groq幸好在片间延迟做的好，把scale out做出来了，才有了后来come back story的底层基础\n\n到了20~21年，其实传统ML workload市场，ai 加速器已经是一片红海了 ，毕竟对硬件要求没那么高，但好在融资市场环境还很好，过的还不错\n\n到了22~24年，这批SRAM路线的startup处境极其艰难，LLM吃掉了其他路线的份额，整个AI加速器全都是训练份额，推理市场极小，而startup们又完全无法在LLM训练上分到哪怕一点点汤，看不到前景，人员流失特别厉害，太多人在黎明前放弃\n\n到了24~25年开始，AI 推理的市场逐渐被重视起来，startup们才开始慢慢缓过来，靠token速度刷PR，但依旧是叫好不叫座，TCO成本和Nvidia比高出一个数量级而且差距在拉大\n\n到了25~26年，agent发展达到了一个质变拐点，推理token速度终于进入重要KPI，SRAM路线终于又焕发了第二春，Nvidia用LPU推进pareto frontier, Google TPU也开始跟进同样的路线，cerebras并不是LLM native的设计，但胜在多年积累成熟，也拿到了trainium+cerebras和openai的合作\n\nAI startup们在迷雾中模糊的感知到一个远景方向，几经曲折，在各种山穷水尽中反复，实现的路径和方式和最初看到的已经完全不同，终于找到了属于自己的那块拼图的位置\n\n大家也只是在19~20年附近，才开始模糊的感知到the bitter lesson，the scaling law，即便是GPT3把路趟出来了，也还是有如此多的迷雾，又经历了六年，这群AI startup才终于走出来\n\n从后视镜回看，他们并不是精准预见了未来，而是艰难地活到了未来终于需要他们的那一刻。有一种惊心动魄而又柳暗花明的历史美感",
+        "link": "https://x.com/fi56622380/status/2053540235326402717"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2053685426574295472",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "微信群没有了，dc免费的  \nDiscord.gg/btc100000",
+      "contentHtml": "微信群没有了，dc免费的  \n<a href=\"http://Discord.gg/btc100000\">Discord.gg/btc100000</a>",
+      "publishedAt": "2026-05-11T03:55:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2053685426574295472",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHIAoAd4boAAuaP8.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "😂重启  笨比之家收费群 刻不容缓",
+        "link": "https://x.com/Bitfatty/status/2053348812513833092",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHH7121TbMAAXBhR.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHH7121XbYAAQL4R.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2053684982871441746",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "反手反手再反手\n\n油落万物生\n油升万物死",
+      "contentHtml": "反手反手再反手\n\n油落万物生\n油升万物死",
+      "publishedAt": "2026-05-11T03:53:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2053684982871441746",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "损了立马反手\n\n油落万物生！",
+        "link": "https://x.com/Bitfatty/status/2043885126887862278",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHF1WsRkasAAjUc8.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2053676906411856091",
       "username": "Bitfatty",
@@ -11394,119 +11521,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2050570344256430563",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://nitter.net/pic/profile_images%2F1668618508853477381%2FdEpVvzxO_bigger.jpg",
-      "content": "說到搬運，我想分享一個小故事。\n\n幾年前，腦哥在製作 Bitfinex 放貸影片時，特地跑來問我，能不能致敬我當初在 Medium 上發表的那篇文章標題：「用 300 萬創造每月 6 萬被動收入」。他說很喜歡這個文案，想借用這個格式，問我會不會介意。\n\n我當然說不會，儘管拿去用。\n\n當下對腦哥這個舉動印象就很深刻。那時他還只是個小 YouTuber，就算他沒問我，我也覺得無所謂，畢竟文章和影片是完全不同的創作形式，更何況致敬的只是標題而已。\n\n後來他成為中文圈數一數二的 YouTuber，我一點都不意外。\n\n因為會在意內容產權的人，大多都是真正認真的創作者。\n\n我出道至今被抄襲過無數次，本身對抄襲這件事就非常反感。生涯中僅有的兩次公開靠北其他 KOL（包括這一次），都跟搬運有關。\n\nMaster 專業黑我已經很多年了，誰都知道他就是想引戰收割流量而已。早年帶單失誤的部分，我早就公開說明過很多次。而且我早就不靠流量賺錢，他繼續臭也完全影響不到我，我是真的懶得理他。\n\n但這次我決定跳出來，是真心對搬運這件事感到憤怒。\n\n圈內真正用心產出的好內容創作者本來就沒剩幾個，剩下這些珍貴的養分，還要被自己人搬運消耗，整個生態只會越來越乾。\n\n在我看來，任何不尊重其他內容創作者的 KOL 都是垃圾，真的沒什麼好說的。\n\n自媒體時代，優質流量就是錢，偷別人的內容就等於偷錢。把別人在 Threads 上嘔心瀝血寫出來的文字，搬到 X 這裡來領老馬的低保，就是純純的垃圾行為。\n\n希望大家以後看到搬運的內容，不要再點讚、不要再轉發，直接檢舉就好。\n\n流量是創作者唯一的回報，給對人，這個圈子才有未來。",
-      "contentHtml": "說到搬運，我想分享一個小故事。\n\n幾年前，腦哥在製作 Bitfinex 放貸影片時，特地跑來問我，能不能致敬我當初在 Medium 上發表的那篇文章標題：「用 300 萬創造每月 6 萬被動收入」。他說很喜歡這個文案，想借用這個格式，問我會不會介意。\n\n我當然說不會，儘管拿去用。\n\n當下對腦哥這個舉動印象就很深刻。那時他還只是個小 YouTuber，就算他沒問我，我也覺得無所謂，畢竟文章和影片是完全不同的創作形式，更何況致敬的只是標題而已。\n\n後來他成為中文圈數一數二的 YouTuber，我一點都不意外。\n\n因為會在意內容產權的人，大多都是真正認真的創作者。\n\n我出道至今被抄襲過無數次，本身對抄襲這件事就非常反感。生涯中僅有的兩次公開靠北其他 KOL（包括這一次），都跟搬運有關。\n\nMaster 專業黑我已經很多年了，誰都知道他就是想引戰收割流量而已。早年帶單失誤的部分，我早就公開說明過很多次。而且我早就不靠流量賺錢，他繼續臭也完全影響不到我，我是真的懶得理他。\n\n但這次我決定跳出來，是真心對搬運這件事感到憤怒。\n\n圈內真正用心產出的好內容創作者本來就沒剩幾個，剩下這些珍貴的養分，還要被自己人搬運消耗，整個生態只會越來越乾。\n\n在我看來，任何不尊重其他內容創作者的 KOL 都是垃圾，真的沒什麼好說的。\n\n自媒體時代，優質流量就是錢，偷別人的內容就等於偷錢。把別人在 Threads 上嘔心瀝血寫出來的文字，搬到 X 這裡來領老馬的低保，就是純純的垃圾行為。\n\n希望大家以後看到搬運的內容，不要再點讚、不要再轉發，直接檢舉就好。\n\n流量是創作者唯一的回報，給對人，這個圈子才有未來。",
-      "publishedAt": "2026-05-02T13:37:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2050570344256430563",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2050570486455955513",
-      "username": "JoshuaDeuk",
-      "displayName": "Joshua | MOZAIK 🇰🇷",
-      "avatar": "https://nitter.net/pic/profile_images%2F1801869779344703488%2FLfOPOolq_bigger.jpg",
-      "content": "crypto is so dull that it takes weeks for thesis to play out",
-      "contentHtml": "crypto is so dull that it takes weeks for thesis to play out",
-      "publishedAt": "2026-05-02T13:37:00.000Z",
-      "link": "https://x.com/JoshuaDeuk/status/2050570486455955513",
-      "quote": {
-        "username": "JoshuaDeuk",
-        "displayName": "Joshua | MOZAIK 🇰🇷",
-        "content": "we saw dogs getting cured with ai\n\nwouldn’t this make DeSci more legit than before?\n\nCrossBridge Bio, backed by VitaDAO, got acquired by Eli Lilly for up to $300M, which proves decentralized bootstrapping for medical IPs can actually work\n\nrecent medical breakthrough with an ADHD peptide\n\nBixBench research product is already live with real users including Harvard, Stanford, Cambridge, and Pfizer\n\ninteresting spot to watch here\n\nobviously we still need actual flow to come back into the token, but yeah I think $BIO looks cheap here",
-        "link": "https://x.com/JoshuaDeuk/status/2044972571293306996"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2050560057675522500",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://nitter.net/pic/profile_images%2F1256841238298292232%2FycqwaMI2_bigger.jpg",
-      "content": "AIs replace UIs and APIs.",
-      "contentHtml": "AIs replace UIs and APIs.",
-      "publishedAt": "2026-05-02T12:56:00.000Z",
-      "link": "https://x.com/naval/status/2050560057675522500",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2050558075447468154",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
-      "content": "三冠🏆",
-      "contentHtml": "三冠🏆",
-      "publishedAt": "2026-05-02T12:48:00.000Z",
-      "link": "https://x.com/hazenlee/status/2050558075447468154",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHHULsW6a8AAwOdO.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "张雪下一站直接杀去荷兰了！\n\n4月17-19号，TT Circuit Assen（斯尔克加阿森），赛道大小跟葡萄牙站差不多，但弯道更多、更考验骑手和赛车的弯道博弈能力。去年SSP组最快圈速1分36秒多，张雪这台820现在直线弯道都没短板，唯一弱点就是起步——但张雪本人在央视采访里已经放话了：已经找到解决办法，预计5月份就能彻底搞定起步拿第一的问题。\n这两天张雪的采访满天飞，越看越特么澎湃。一个从修车学徒干到把中国摩托车干上世界SSP领奖台的狠人，眼神里全是火。\n现在很多人开始阴阳：WSPK有BOP（性能平衡）规则，会不会针对张雪这台新车砍刀？毕竟杜卡迪、雅马哈这些老牌子已经被砍过好几轮了，张雪是新人，还没挨刀，所以强势。\n我直接说：扯淡。\n张雪这台三缸发动机的核心竞争力根本不是你调个油门开度15%就能解决的。从空档3000转拉到13000转，只需要0.29秒！极致轻量化的活塞、曲轴、连杆，让动力爆发能力直接断代领先。雅马哈要0.9秒，杜卡迪比亚要1秒左右。这是从根子上碾压的硬件代差。\n更牛逼的是820这台车的逻辑和其他竞品完全不一样。\n别人是：先搞一台能卖钱的运动型商品车，赚完钱再稍微改改去比赛。\n张雪是：先造一台能在SBK战场干翻所有老牌竞品的顶级赛车，一切调校、设计、标定都奔着赢比赛去的。然后在中国顶级供应链加持下，4万多块钱就量产卖给所有中国车友。\n这他妈就是不讲武德啊！杜卡迪、川崎、雅马哈、本田、奥古斯塔被打懵太正常了。\n记者问张雪今年的赛事目标是什么？他非常严肃地回答：年度总冠军是肯定的。\n瓦伦丁·德比斯 + 张雪820，这对组合在2026年的WSPK战场，我觉得就是无解的。\n所以荷兰站能不能夺冠？除非出重大意外，否则没悬念。\n中国摩托车，从代步工具卷到世界赛道，这波真的太爽了。\n张雪牛逼！820牛逼！中国车友，准备好一起嗨吧！\n（转发扩散，让更多人看到这股中国制造旋风）",
-        "link": "https://x.com/hazenlee/status/2043134624344559630",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFqsGppbgAAJQS9.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHFqsGpqagAAdMuZ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2050541619561341310",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "我Steam里有800多个游戏（图2），\n强烈推荐对 游戏+AI化 感兴趣的人，\n玩一下《苏丹的游戏》（图1，Win/Mac都有）\n\n1. 是我近一年玩过最与众不同的游戏。\n2. 是国产游戏，但题材背景却是中世纪中东。\n3. 文字演绎，但自由度前无古人，尺度无下限。\n\n游戏通过每回合，在不同场景，\n打出不同的人物、道具等卡牌，来推进剧情。\n举例：\n在某野外场景，遇到一头“犀牛”，\n那么如果你打出“主角+纵欲”二张卡，\n这三张卡就会组合产生一些无下限的剧情...\n而且同样的场景、卡牌组合，还根据骰子检定变化，\n比如这头犀牛可能是先死了，然后...（不能说了）\n\n你的任何一次行为，\n都可能对游戏剧情产生千丝万缕的影响，\n导致数不清的交叉后果、分支和结局。\n\n重点来了：\n暗黑无下限只是表面，重点是这个自由度，\n和这个游戏玩法模式，\n意外地是一个极佳的AI化“底座”。\n\n通常我们谈到游戏+AI，\n往往是用AI来做游戏，\n本质上只是在说Vibe Coding游戏软件而已。\n\n而游戏AI化，则完全是不同的其他几种语境\n比如：\n1. 像《燕云十六声》里NPC对话、次要行为由AI生成\n2. AI实时生成游戏画面\n\n但这两种\n1不是游戏主线玩法\n2估计还需要几年发展才可做可玩\n\n而《苏丹的游戏》，\n其主线玩法就是文字，\n作为主要甚至唯一驱动，和表现形式。\n你可以理解为\n“互动文字小说+RPG+卡牌”，\n但其剧情本质还是If-Else构成\n（虽然光靠If-Else都实现了数不清的故事线）。\n\n如果用AI来改造这个独特的游戏类型，\n就能做出，或者魔改出\n一款完全由AI来实时驱动“无限剧情”走向的游戏，\n这会是最快能诞生此类次世代AI游戏的路径，\n原因是：\n这类游戏的核心反馈，也就是无限变化的剧情产出，\n不需要用图片、视频素材形式来交付，只需文字。\n加上，此游戏核心玩法中的“出牌”组合，\n本质上就是AI生成剧情的“提示词”组合，\n这就完美契合了当下大语言模型已充分成熟的能力阶段。\n\n甚至B站还有此游戏完整WIKI资源数据库可供取用：\nwiki.biligame.com/sultansgam…\n\n从玩家角度来说，\n这个游戏类型和玩法，虽说独特，\n但却绝不算是小众游戏，\n《苏丹的游戏》作为一款国产游戏，\n在Steam上有2万多“特别好评”。\n\n我以Steam库800多个游戏履历担保：\n1.\n即使你对AI没什么兴趣，\n只要喜欢卡牌/RPG，甚至只是爱看小说，\n这个游戏非常适合，新颖体验且耐玩度极高。\n\n2.\n而对AI驱动游戏的未来形态感兴趣的人来说，\n这是真正的AI游戏到来之前，\n此刻马上就能获得类似体验的尝鲜。\n\n3.\n而对于更进阶的个人Vibe Coder，\n想要尝试不仅仅是Vibe做一个游戏，\n而是做一种，\n既是市面上还没有的创新游戏，\n也是已有广泛玩家数基础，同时运行性能需求低，\n玩法机制定义边界清晰，开发门槛低的尝试。\n那么先至少体验一下它，\n一定能获得很大的启发。",
-      "contentHtml": "我Steam里有800多个游戏（图2），\n强烈推荐对 游戏+AI化 感兴趣的人，\n玩一下《苏丹的游戏》（图1，Win/Mac都有）\n\n1. 是我近一年玩过最与众不同的游戏。\n2. 是国产游戏，但题材背景却是中世纪中东。\n3. 文字演绎，但自由度前无古人，尺度无下限。\n\n游戏通过每回合，在不同场景，\n打出不同的人物、道具等卡牌，来推进剧情。\n举例：\n在某野外场景，遇到一头“犀牛”，\n那么如果你打出“主角+纵欲”二张卡，\n这三张卡就会组合产生一些无下限的剧情...\n而且同样的场景、卡牌组合，还根据骰子检定变化，\n比如这头犀牛可能是先死了，然后...（不能说了）\n\n你的任何一次行为，\n都可能对游戏剧情产生千丝万缕的影响，\n导致数不清的交叉后果、分支和结局。\n\n重点来了：\n暗黑无下限只是表面，重点是这个自由度，\n和这个游戏玩法模式，\n意外地是一个极佳的AI化“底座”。\n\n通常我们谈到游戏+AI，\n往往是用AI来做游戏，\n本质上只是在说Vibe Coding游戏软件而已。\n\n而游戏AI化，则完全是不同的其他几种语境\n比如：\n1. 像《燕云十六声》里NPC对话、次要行为由AI生成\n2. AI实时生成游戏画面\n\n但这两种\n1不是游戏主线玩法\n2估计还需要几年发展才可做可玩\n\n而《苏丹的游戏》，\n其主线玩法就是文字，\n作为主要甚至唯一驱动，和表现形式。\n你可以理解为\n“互动文字小说+RPG+卡牌”，\n但其剧情本质还是If-Else构成\n（虽然光靠If-Else都实现了数不清的故事线）。\n\n如果用AI来改造这个独特的游戏类型，\n就能做出，或者魔改出\n一款完全由AI来实时驱动“无限剧情”走向的游戏，\n这会是最快能诞生此类次世代AI游戏的路径，\n原因是：\n这类游戏的核心反馈，也就是无限变化的剧情产出，\n不需要用图片、视频素材形式来交付，只需文字。\n加上，此游戏核心玩法中的“出牌”组合，\n本质上就是AI生成剧情的“提示词”组合，\n这就完美契合了当下大语言模型已充分成熟的能力阶段。\n\n甚至B站还有此游戏完整WIKI资源数据库可供取用：\n<a href=\"https://wiki.biligame.com/sultansgame\">wiki.biligame.com/sultansgam…</a>\n\n从玩家角度来说，\n这个游戏类型和玩法，虽说独特，\n但却绝不算是小众游戏，\n《苏丹的游戏》作为一款国产游戏，\n在Steam上有2万多“特别好评”。\n\n我以Steam库800多个游戏履历担保：\n1.\n即使你对AI没什么兴趣，\n只要喜欢卡牌/RPG，甚至只是爱看小说，\n这个游戏非常适合，新颖体验且耐玩度极高。\n\n2.\n而对AI驱动游戏的未来形态感兴趣的人来说，\n这是真正的AI游戏到来之前，\n此刻马上就能获得类似体验的尝鲜。\n\n3.\n而对于更进阶的个人Vibe Coder，\n想要尝试不仅仅是Vibe做一个游戏，\n而是做一种，\n既是市面上还没有的创新游戏，\n也是已有广泛玩家数基础，同时运行性能需求低，\n玩法机制定义边界清晰，开发门槛低的尝试。\n那么先至少体验一下它，\n一定能获得很大的启发。",
-      "publishedAt": "2026-05-02T11:43:00.000Z",
-      "link": "https://x.com/coolish/status/2050541619561341310",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHHTyiaDbsAAhjXS.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHHTyxRPakAALXqH.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
