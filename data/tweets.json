@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T10:44:00.061Z",
+  "lastUpdated": "2026-05-11T11:49:42.871Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,143 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 587,
+    "newFetched": 586,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2053804233720561685",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
+      "content": "nitter.net/i/spaces/1DxleEQNqYjKL",
+      "contentHtml": "<a href=\"https://nitter.net/i/spaces/1DxleEQNqYjKL\">nitter.net/i/spaces/1DxleEQNqYjKL</a>",
+      "publishedAt": "2026-05-11T11:47:00.000Z",
+      "link": "https://x.com/coolish/status/2053804233720561685",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2053801364753633771",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://nitter.net/pic/profile_images%2F1986442283433254912%2FO0egVwxK_bigger.jpg",
+      "content": "倪老师指出了现在tradfi perp很关键的2个问题：\n1.非交易时间的持仓成本\n2.合约作为衍生品，没有对tradfi起到真正的对冲风险的作用\n\n未来的all in one的交易所一定是这样去做tradfi业务的：\n1.上线tradfi的 1:1 rwa现货\n2.将rwa现货以较高的抵押率(至少50%)纳入统一账户支持资产\n3.在统一账户内，用spot&margin购买tradfi现货，然后到了非交易时间想要对冲就开合约，实现delta nectral（也就顺便实现了正funding rate时的套利策略）",
+      "contentHtml": "倪老师指出了现在tradfi perp很关键的2个问题：\n1.非交易时间的持仓成本\n2.合约作为衍生品，没有对tradfi起到真正的对冲风险的作用\n\n未来的all in one的交易所一定是这样去做tradfi业务的：\n1.上线tradfi的 1:1 rwa现货\n2.将rwa现货以较高的抵押率(至少50%)纳入统一账户支持资产\n3.在统一账户内，用spot&margin购买tradfi现货，然后到了非交易时间想要对冲就开合约，实现delta nectral（也就顺便实现了正funding rate时的套利策略）",
+      "publishedAt": "2026-05-11T11:36:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2053801364753633771",
+      "quote": {
+        "username": "PhyrexNi",
+        "displayName": "Phyrex",
+        "content": "最近我也在研究这个方向，但自己还是小白一些，所以希望和大佬们学习。\n\n按照午饭老师的说法，目前 $CRCL 在 Binance 的资金费率确实高的离谱，那么套资金费率应该是不错的方案。\n\n既然是套利，必然是风险较低的方案，我目前想到的就是在券商买假如 10万 美元的 CRCL 的股票，然后在 Binance 10万 美元 1倍 做空 CRCLUSDT ，来吃资金费率。\n\n这应该是最基础的方式，但考虑到如果 CRCL 暴涨的话，有可能会出现风险，所以我会增加两步，第一步，是买 OTM 的 CALL ，比如买到 150 美元的 CRCL ，然后在 Binance 的准备金多准备 1.5 倍，来防止极端行情。\n\nOTM 的 CALL 我打算是买 3 张就差不多了，这里有个公式。\n\n比如我做空 10 万美元 CRCLUSDT，资金费是 0.5% / 8 小时。\n\n一天三期，大概是：\n\n10 万 × 0.5% × 3 = 1,500 美元 / 天\n\n如果我准备拿 3 天，理论资金费大概：\n\n1,500 × 3 = 4,500 美元\n\n但是我需要撬动的总资金是在 28 万美元左右，扣除 OTM ALL 的 1,500 美元成本，在扣去一些乱七八糟的费用，大概的收益是在 2,800 美元左右，实际的年化收益是 100% 左右。\n\n如果是我的话，我会建议小伙伴们如果有 $CRCL 的仓位，短期去套一下资金费率是可以的，如果本身并没有 CRCL 的仓位，这种套利感觉有点累。",
+        "link": "https://x.com/PhyrexNi/status/2053557257024188736"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2053795460050030788",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
+      "content": "看看怎么参与arc了，3b估值，60%分配给生态🤔",
+      "contentHtml": "看看怎么参与arc了，3b估值，60%分配给生态🤔",
+      "publishedAt": "2026-05-11T11:12:00.000Z",
+      "link": "https://x.com/0xleng1/status/2053795460050030788",
+      "quote": {
+        "username": "wublockchain12",
+        "displayName": "吴说区块链",
+        "content": "Circle 完成其新公链 Arc 原生代币预售融资，募资 2.22 亿美元，对应完全稀释估值约 30 亿美元。a16z 领投 7500 万美元，BlackRock、Apollo、ICE、SBI、ARK Invest 等参投。Circle CEO Jeremy Allaire 表示，Arc 定位为面向机构金融的公链基础设施，目标是让 Circle 从稳定币发行商扩展为“互联网平台公司”。Arc 初始总供应量为 100 亿枚代币，其中 25% 分配给 Circle，60% 分配给生态参与者。wublock123.com/news/circle-a…",
+        "link": "https://x.com/wublockchain12/status/2053785060545822950"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2053793577583464477",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://nitter.net/pic/profile_images%2F1931922506090455042%2F3Ae8A5o1_bigger.jpg",
+      "content": "#DRAM\n\n火箭般上涨的全球第一支细分行业半导体ETF\n对于不喜欢买个股，想无脑参与半导体存储，想定投的兄弟，关注 #DRAM 即可，合约已经上了 #OKX 和 #BITGET，但当前费率特别感人，可见其火爆程度\n\n主要持仓个股为：\n三星电子        \nSK 海力士\n美光科技\n铠侠\n闪迪\n西部数据\n希捷科技\n南亚科技\n华邦电子\n\nAI模型、AI服务器、AI手机、AI机器人\n本质上都离不开算力\n而算力背后，离不开存储\n存储其实就是AI时代的“水电煤”\n\n如果你有钱\n但不知道买什么\n\n那请看一下DRAM\n如果未来AI机器人真的走进千家万户\n那么DRAM这类底层基础设施\n可能才是最值得长期跟踪的方向之一\n\n短期存储已经非常火热，一定要小心回调风险，#DRAM 是长周期追踪目标，不是短期梭哈标的",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23DRAM\">#DRAM</a>\n\n火箭般上涨的全球第一支细分行业半导体ETF\n对于不喜欢买个股，想无脑参与半导体存储，想定投的兄弟，关注 <a href=\"/search?f=tweets&q=%23DRAM\">#DRAM</a> 即可，合约已经上了 <a href=\"/search?f=tweets&q=%23OKX\">#OKX</a> 和 <a href=\"/search?f=tweets&q=%23BITGET\">#BITGET</a>，但当前费率特别感人，可见其火爆程度\n\n主要持仓个股为：\n三星电子        \nSK 海力士\n美光科技\n铠侠\n闪迪\n西部数据\n希捷科技\n南亚科技\n华邦电子\n\nAI模型、AI服务器、AI手机、AI机器人\n本质上都离不开算力\n而算力背后，离不开存储\n存储其实就是AI时代的“水电煤”\n\n如果你有钱\n但不知道买什么\n\n那请看一下DRAM\n如果未来AI机器人真的走进千家万户\n那么DRAM这类底层基础设施\n可能才是最值得长期跟踪的方向之一\n\n短期存储已经非常火热，一定要小心回调风险，<a href=\"/search?f=tweets&q=%23DRAM\">#DRAM</a> 是长周期追踪目标，不是短期梭哈标的",
+      "publishedAt": "2026-05-11T11:05:00.000Z",
+      "link": "https://x.com/dongbimao/status/2053793577583464477",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHICJoSbWcAAe4I0.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2053792763981017474",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://nitter.net/pic/profile_images%2F1820869369540345856%2FIqS5VLNX_bigger.jpg",
+      "content": "将是本周最火爆的交易",
+      "contentHtml": "将是本周最火爆的交易",
+      "publishedAt": "2026-05-11T11:02:00.000Z",
+      "link": "https://x.com/follow_clues/status/2053792763981017474",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "Cerebras的IPO火爆，官方考虑大幅上调IPO定价区间。看路透社报道，Cerebras正考虑将IPO定价区间从此前的每股115至125美元上调至150至160美元，涨幅高达约28%。与此同时，公司还计划将发行股数从2800万股增至3000万股。若最终以每股160美元定价，Cerebras此次IPO募资规模将达约48亿美元。\n\n个人看Cerwbras的核心优势在于：WSE-3推理领域已建立一定优势，tokens/second 可达GPU集群的15-20倍（低延迟场景下尤其突出）。Agentic workflow、reasoning models、长上下文推理正是其优势凸显的领域。\n\n也拿到了大客户订单，OpenAI既是其股东也是签署了长期供货协议。而AWS已将CS-3集成到Bedrock，提供混合Trainium+ Cerebras推理方案。\n\n相当于技术和产品已经得到了验证、商业化正在落地。\n\n这个时机也很好，现在推理正在快速拓展、市场也希望能找到新的潜在英伟达挑战者、也会给更高的定价和预期。\n\n个人看未来的空间看WSE-4如果能成功落地，成本/性能比将进一步拉大差距，让Cerebras从“高端替代”变成“主流基础设施”。\n\n未来如果WSE-4成功=从“推理利基冠军”跃升为“AI基础设施第二梯队核心玩家”，市场空间进一步打开。\n\n看到两篇关于Cerebras的推文，值得细看：\n@LinQingV 的这篇nitter.net/linqingv/status/205337…\n@roger9949 的这篇nitter.net/roger9949/status/20533…",
+        "link": "https://x.com/qinbafrank/status/2053642250446573611",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHIAAvADaAAAWbqn.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2053788701445218815",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://nitter.net/pic/profile_images%2F2035501616569409536%2F_HTVJVew_bigger.jpg",
+      "content": "大多数人现在对 AI 还停留在“就是个好用的工具”这个阶段。\n\n但资本市场早就把它当成了下一代基础设施在重仓。\n\n从移动互联网 → 云时代 → 现在的 Agentic AI，真正吃到时代红利的，从来不是等所有人都看懂了才上车的人。\n\n最近看到 Bitget 官方搞的 IPO Prime 第二期 —— preOPAI，挺有意思。\n\n这玩意儿不是在炒概念币，而是在把过去只有 VC、家办、合格投资者才能碰的 Pre-IPO 机会，第一次向普通用户拆分。\n\n很多人还没反应过来，现在的 OpenAI 早就不是一家单纯的 AI 公司了。\n\nChatGPT 周活快 9 亿，ARR 破 250 亿美金，背后站着微软、英伟达、亚马逊、软银……\n\nAI 的战争早就从“模型谁更好玩”打成了算力 × 数据 × 用户规模的基础设施肉搏战。\n\n这种级别的仗，最后大概率只会剩下一两个王者。\n\n所以市场现在讨论的已经不是“OpenAI 会不会 IPO”，而是“它到底会以什么估值 IPO”。\n\nBitget 这次 IPO Prime 让我觉得有戏的地方在于：\n\n它把门槛拉到 100U 起，现货化流通，还有 Republic 做底层支持。\n\n直接把一级市场最痛的几个点——门槛高、流动性差、普通人摸不着——给解决了。\n\n当然，Pre-IPO 永远是高风险，尤其是 AI 现在估值已经很疯，波动肯定剧烈。\n\n但如果你也相信：\n\n未来十年最大的财富迁移，就发生在 AI 基础设施层。\n\n那相比天天在 meme 和情绪里杀来杀去，这种能映射真实企业收益的东西，反而更值得长期关注。\n\n时代真正的红利，从来不是等所有人确认以后才来的。\n\n而是在大多数人还没醒、资本已经开始重新给世界定价的时候。\n\n这次 preOPAI，我会持续关注。\n\n尤其是：AI 会不会像当年的互联网一样，重新编织出一张新的超级资本网络。\n\n#OpenAI #AI #Crypto #Bitget #IPOPrime",
+      "contentHtml": "大多数人现在对 AI 还停留在“就是个好用的工具”这个阶段。\n\n但资本市场早就把它当成了下一代基础设施在重仓。\n\n从移动互联网 → 云时代 → 现在的 Agentic AI，真正吃到时代红利的，从来不是等所有人都看懂了才上车的人。\n\n最近看到 Bitget 官方搞的 IPO Prime 第二期 —— preOPAI，挺有意思。\n\n这玩意儿不是在炒概念币，而是在把过去只有 VC、家办、合格投资者才能碰的 Pre-IPO 机会，第一次向普通用户拆分。\n\n很多人还没反应过来，现在的 OpenAI 早就不是一家单纯的 AI 公司了。\n\nChatGPT 周活快 9 亿，ARR 破 250 亿美金，背后站着微软、英伟达、亚马逊、软银……\n\nAI 的战争早就从“模型谁更好玩”打成了算力 × 数据 × 用户规模的基础设施肉搏战。\n\n这种级别的仗，最后大概率只会剩下一两个王者。\n\n所以市场现在讨论的已经不是“OpenAI 会不会 IPO”，而是“它到底会以什么估值 IPO”。\n\nBitget 这次 IPO Prime 让我觉得有戏的地方在于：\n\n它把门槛拉到 100U 起，现货化流通，还有 Republic 做底层支持。\n\n直接把一级市场最痛的几个点——门槛高、流动性差、普通人摸不着——给解决了。\n\n当然，Pre-IPO 永远是高风险，尤其是 AI 现在估值已经很疯，波动肯定剧烈。\n\n但如果你也相信：\n\n未来十年最大的财富迁移，就发生在 AI 基础设施层。\n\n那相比天天在 meme 和情绪里杀来杀去，这种能映射真实企业收益的东西，反而更值得长期关注。\n\n时代真正的红利，从来不是等所有人确认以后才来的。\n\n而是在大多数人还没醒、资本已经开始重新给世界定价的时候。\n\n这次 preOPAI，我会持续关注。\n\n尤其是：AI 会不会像当年的互联网一样，重新编织出一张新的超级资本网络。\n\n<a href=\"/search?f=tweets&q=%23OpenAI\">#OpenAI</a> <a href=\"/search?f=tweets&q=%23AI\">#AI</a> <a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> <a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> <a href=\"/search?f=tweets&q=%23IPOPrime\">#IPOPrime</a>",
+      "publishedAt": "2026-05-11T10:45:00.000Z",
+      "link": "https://x.com/hazenlee/status/2053788701445218815",
+      "quote": {
+        "username": "Bitget_zh",
+        "displayName": "Bitget中文",
+        "content": "OpenAI（preOPAI）正式登陆 Bitget IPO Prime！\n\n现在，你可以提前布局——在全球顶尖的AI公司OpenAI正式上市前，抢先获得早期敞口。\n\npreOPAI由受监管发行方 @joinrepublic 在 @solana 链上发行，旨在1:1镜像OpenAI IPO上市后的股价表现。符合条件的用户最低仅需$100即可参与认购。\n\n认购期：2026年5月12日 16:00:00 至 2026年5月15日 16:00:00 (UTC+8)",
+        "link": "https://x.com/Bitget_zh/status/2053782579699237043",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHICAX1sbkAAwNsY.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2053779307819045128",
       "username": "DoveyWanCN",
@@ -816,6 +948,10 @@
           "url": "https://nitter.net/pic/orig/media%2FHIAKxjJaYAAbhBo.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11399,114 +11535,6 @@
           "url": "https://nitter.net/pic/orig/media%2FHHY1bvdaUAEIH3e.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2050885482838728879",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://nitter.net/pic/profile_images%2F2044634505223471104%2FQkfdqSWN_bigger.jpg",
-      "content": "想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群    \n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群    \n👉 <a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-05-03T10:29:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2050885482838728879",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2050885480150180345",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://nitter.net/pic/profile_images%2F2044634505223471104%2FQkfdqSWN_bigger.jpg",
-      "content": "CoinKarma 自四月中皆維持「 逢低做多 」的方式來應對行情。直至截稿日，短線上多頭仍相對強勢，復盤看，短線的上漲趨勢中，透過 CoinKarma 獨家流動性指標，短期逢低做多的機會幾乎都有所掌握。\n\n如圖， $BTC 鄰近壓力位仍未見明顯賣壓，因此維持「 逢低做多 」的方式應對後續行情較為合適，而透過 CoinKarma 獨家流動性指標 - Overall LIQ，可以有效掌握逢低做多的機會。",
-      "contentHtml": "CoinKarma 自四月中皆維持「 逢低做多 」的方式來應對行情。直至截稿日，短線上多頭仍相對強勢，復盤看，短線的上漲趨勢中，透過 CoinKarma 獨家流動性指標，短期逢低做多的機會幾乎都有所掌握。\n\n如圖， <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 鄰近壓力位仍未見明顯賣壓，因此維持「 逢低做多 」的方式應對後續行情較為合適，而透過 CoinKarma 獨家流動性指標 - Overall LIQ，可以有效掌握逢低做多的機會。",
-      "publishedAt": "2026-05-03T10:29:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2050885480150180345",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHHY1bvdaUAEIH3e.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2050885353712849311",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://nitter.net/pic/profile_images%2F2044634505223471104%2FQkfdqSWN_bigger.jpg",
-      "content": "Want to stay ahead of the next trading opportunity? Start your 14-day free trial now.    \n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "Want to stay ahead of the next trading opportunity? Start your 14-day free trial now.    \n👉 <a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-05-03T10:29:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2050885353712849311",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2050885351426912566",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://nitter.net/pic/profile_images%2F2044634505223471104%2FQkfdqSWN_bigger.jpg",
-      "content": "Since mid-April, CoinKarma has consistently maintained a buy-the-dip strategy. As of the time of writing, short-term bullish momentum remains relatively strong. Looking back, our proprietary liquidity indicators have captured nearly every dip-buying opportunity throughout this uptrend.\n\nAs shown in the chart, $BTC is approaching key resistance levels with still no significant selling pressure detected. Therefore, maintaining a buy-the-dip approach remains the most appropriate strategy going forward. By leveraging CoinKarma's proprietary liquidity indicator \"Overall LIQ\" traders can effectively identify optimal dip-buying opportunities.",
-      "contentHtml": "Since mid-April, CoinKarma has consistently maintained a buy-the-dip strategy. As of the time of writing, short-term bullish momentum remains relatively strong. Looking back, our proprietary liquidity indicators have captured nearly every dip-buying opportunity throughout this uptrend.\n\nAs shown in the chart, <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> is approaching key resistance levels with still no significant selling pressure detected. Therefore, maintaining a buy-the-dip approach remains the most appropriate strategy going forward. By leveraging CoinKarma's proprietary liquidity indicator \"Overall LIQ\" traders can effectively identify optimal dip-buying opportunities.",
-      "publishedAt": "2026-05-03T10:29:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2050885351426912566",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHHY1RiHaMAAllfe.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2050880185491235198",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://nitter.net/pic/profile_images%2F1985745032691728384%2F0qhoMtLw_bigger.jpg",
-      "content": "genius这几天因为拉盘交易量上来了，好在之前刷的成本少一半。已经拿了大几十万的gp了。\n\n后面就看上不上现货了交易量肯定还会涨。之前刷低保成本都在0.04-0.045 空间还是很大的。这几天我会少刷一些，成本太高了。",
-      "contentHtml": "genius这几天因为拉盘交易量上来了，好在之前刷的成本少一半。已经拿了大几十万的gp了。\n\n后面就看上不上现货了交易量肯定还会涨。之前刷低保成本都在0.04-0.045 空间还是很大的。这几天我会少刷一些，成本太高了。",
-      "publishedAt": "2026-05-03T10:08:00.000Z",
-      "link": "https://x.com/0xleng1/status/2050880185491235198",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2050848952292127100",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://nitter.net/pic/profile_images%2F1548729057994452992%2FKcs8r3YR_bigger.jpg",
-      "content": "BTC-Trading-Since-2020更新至2026.5.3：\ngithub.com/bwjoke/BTC-Tradin…\n\n统一回复下BTC实盘API前两周失效的问题\n(影响币coin实盘和wsnb.online)\n4月18日发布仓库当晚，账号就遭遇了黑客攻击，\n但没造成资金损失。\n后续一周多做了调查和安全修复，目前已恢复正常。\n\n常在路边走，谨记安全第一。",
-      "contentHtml": "BTC-Trading-Since-2020更新至2026.5.3：\n<a href=\"https://github.com/bwjoke/BTC-Trading-Since-2020\">github.com/bwjoke/BTC-Tradin…</a>\n\n统一回复下BTC实盘API前两周失效的问题\n(影响币coin实盘和<a href=\"http://wsnb.online\">wsnb.online</a>)\n4月18日发布仓库当晚，账号就遭遇了黑客攻击，\n但没造成资金损失。\n后续一周多做了调查和安全修复，目前已恢复正常。\n\n常在路边走，谨记安全第一。",
-      "publishedAt": "2026-05-03T08:04:00.000Z",
-      "link": "https://x.com/coolish/status/2050848952292127100",
-      "quote": {
-        "username": "coolish",
-        "displayName": "paulwei",
-        "content": "今天我把近6年BTC历史交易数据，开源到Github了：\ngithub.com/bwjoke/BTC-Tradin…\n\n2020年5月1日至今4万多条订单，17万多条成交明细，\n两轮完整牛熊2000多天日夜博弈，全在这套数据里。\n\nAI时代，最宝贵的就是上下文。\n你在整个互联网，可能都很难找到这种等级的\n真金白银二级市场交易上下文数据，任你下载使用。\n\n去年11月，我把Bitmex只读Api Key公开一两周时，\n还没龙虾，就少数网友vibe了一些数据分析、产品。\n比如：\n@WeWill_Rocky 做的 wsnb.online\n我自己做的交易时光机：nitter.net/coolish/status/1997546…\n当时其他一些相关内容：nitter.net/coolish/status/1993190…\n\n现在更多人有了龙虾、爱马仕，\n把个人二级交易真金白银数据喂给AI Agent这件事，\n门槛大大降低，更多人能做了，也有了更高的含金量。\n\n所以秉承Open Intelligence理念，\n我想向这个混沌的世界贡献自己的减熵Legacy，\n在Hermes-Agent的帮助下，\n开源了这个数据仓库，\n后续可能尝试自动化定期更新。\n\n只要把这个Github网址\ngithub.com/bwjoke/BTC-Tradin…\n发给你的龙虾爱马仕，就能指挥它做任何角度的分析，\n很好奇，大家对这样一份数据，\n能炼化出些什么奇趣的角度？\n希望能在后续看到一些有趣的回响。\nHappy vibing & Happy birthday to myself",
-        "link": "https://x.com/coolish/status/2045420631295242340"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
