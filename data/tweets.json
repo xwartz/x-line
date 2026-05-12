@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T13:46:33.830Z",
+  "lastUpdated": "2026-05-12T14:45:25.847Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,80 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 594,
+    "newFetched": 595,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2054209687206138332",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
+      "content": "But everyone is short on $BTC right? \n\nMeanwhile we have 14.38B Long Liquidations vs 8.35B Short Liquidations.",
+      "contentHtml": "But everyone is short on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> right? \n\nMeanwhile we have 14.38B Long Liquidations vs 8.35B Short Liquidations.",
+      "publishedAt": "2026-05-12T14:38:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2054209687206138332",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHIIEPkaW8AA4Unh.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054202791321858547",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://nitter.net/pic/profile_images%2F1525287875876913152%2FToCxWImL_bigger.jpg",
+      "content": "piped.video/live/zfABQlPbK48… nitter.net/i/broadcasts/1kJzDMmyj…",
+      "contentHtml": "<a href=\"https://piped.video/live/zfABQlPbK48?feature=share\">piped.video/live/zfABQlPbK48…</a> <a href=\"https://nitter.net/i/broadcasts/1kJzDMmyjDNKv\">nitter.net/i/broadcasts/1kJzDMmyj…</a>",
+      "publishedAt": "2026-05-12T14:11:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2054202791321858547",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054196748114108553",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://nitter.net/pic/profile_images%2F1599605643744116736%2FPstsnsb6_bigger.jpg",
+      "content": "嗷，这些大额 $WLFI 转移果然与解锁提案有关😆\n\nWLFI 官推 1 小时前发布了早期公募投资者的「代币解锁激活入口」，我尝试了下激活会调用一个名为「Elect Vesting Update」的命令，应该就是将代币转移至 Unlock 合约了，显示解锁时间为 2028.05.07\n\n申请入口见 @worldlibertyfi 推文（避免出现钓鱼），具体的已转入代币数量可以在这里追踪 👉 intel.arkm.com/explorer/addr…",
+      "contentHtml": "嗷，这些大额 <a href=\"/search?f=tweets&q=%23WLFI\">$WLFI</a> 转移果然与解锁提案有关😆\n\nWLFI 官推 1 小时前发布了早期公募投资者的「代币解锁激活入口」，我尝试了下激活会调用一个名为「Elect Vesting Update」的命令，应该就是将代币转移至 Unlock 合约了，显示解锁时间为 2028.05.07\n\n申请入口见 <a href=\"/worldlibertyfi\" title=\"WLFI\">@worldlibertyfi</a> 推文（避免出现钓鱼），具体的已转入代币数量可以在这里追踪 👉 <a href=\"https://intel.arkm.com/explorer/address/0x74B4f6A2E579D730aAcb9dD23cfbbAEb95029583\">intel.arkm.com/explorer/addr…</a>",
+      "publishedAt": "2026-05-12T13:47:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2054196748114108553",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://nitter.net/pic/orig/media%2FHIH4NkcbQAAJAGI.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "WLFI 团队关联地址向 Unlock Contract（解锁合约） 转入价值 5557 万美元的 WLFI🔍\n\n三个地址在过去 24 小时内分批转移了 8.33 亿枚代币，其资金来源为 WLFI 多签和 Strategic Reserve（战略储备）地址；目前该接收地址已持有 178.2 亿枚 WLFI，总价值高达 11.9 亿美元，不确定是否与上周刚通过的「两年后解锁 622 亿枚 WLFI 代币提案」有关\n\n近十天 $WLFI 从低点 $0.0512 最高涨至 $0.0763，最大涨幅 49%，现价 $0.0672📈\n\n钱包地址 intel.arkm.com/explorer/addr…",
+        "link": "https://x.com/ai_9684xtpa/status/2054191083605922040",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://nitter.net/pic/orig/media%2FHIHz2PDagAA0W6M.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2054192961425133870",
       "username": "ai_9684xtpa",
@@ -11541,81 +11610,6 @@
           {
             "type": "image",
             "url": "https://nitter.net/pic/orig/media%2FHHEo0_5aEAEx3o2.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2051465965771034829",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "$PLTR 炸裂的财报\n1. 营收增速85%，美国100%+\n2. 87%的毛利润率（远超同行SAAS）\n3. 运营利润率46%，5个季度前是1%，1年前是20%\n随着最近股价的回调，TTM PE来到了154倍，算上现在市场预期，2.8倍的PEG RATIO，如果算上公司超预期的EPS，我预估2.4的PEG RATIO。绝对没有上年8月份或者11月份那么贵了，我认为现在PLTR属于有点贵，但没有到离谱的程度。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23PLTR\">$PLTR</a> 炸裂的财报\n1. 营收增速85%，美国100%+\n2. 87%的毛利润率（远超同行SAAS）\n3. 运营利润率46%，5个季度前是1%，1年前是20%\n随着最近股价的回调，TTM PE来到了154倍，算上现在市场预期，2.8倍的PEG RATIO，如果算上公司超预期的EPS，我预估2.4的PEG RATIO。绝对没有上年8月份或者11月份那么贵了，我认为现在PLTR属于有点贵，但没有到离谱的程度。",
-      "publishedAt": "2026-05-05T00:56:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2051465965771034829",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2051444232188039341",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://nitter.net/pic/profile_images%2F1751334877591486464%2FptPeGDbr_bigger.jpg",
-      "content": "银行利益集团对于稳定币的利率问题还有异议，但参议院人员认为所有人应该要向前看了，银行利益集团没必要把一个小胜利变成失败。 $CRCL  $COIN",
-      "contentHtml": "银行利益集团对于稳定币的利率问题还有异议，但参议院人员认为所有人应该要向前看了，银行利益集团没必要把一个小胜利变成失败。 <a href=\"/search?f=tweets&q=%23CRCL\">$CRCL</a>  <a href=\"/search?f=tweets&q=%23COIN\">$COIN</a>",
-      "publishedAt": "2026-05-04T23:29:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2051444232188039341",
-      "quote": {
-        "username": "EleanorTerrett",
-        "displayName": "Eleanor Terrett",
-        "content": "🚨JUST IN: Banking trade groups weigh in on the stablecoin yield compromise, saying it “falls short” of fully prohibiting the payment of yield and interest on stablecoins, but avoid criticizing it heavily. They say lawmakers can expect suggested edits in the coming days, but it’s unlikely the language will shift now that the text is public.\n\nAs I reported in my @CryptoAmerica_ newsletter this morning, one Senate staffer put it bluntly: “Time for everyone to move on from yield. Banks should not turn a modest win into a loss.”",
-        "link": "https://x.com/EleanorTerrett/status/2051442557234852036",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHHgwIePagAAxJlH.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2051441693753328055",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://nitter.net/pic/profile_images%2F1970387533675610113%2FYT8_qH0j_bigger.jpg",
-      "content": "$BTC \n\nIts the 5th of May soon.\n\n12/12 times we have seen a inverse narrative movement around the 5th of each month. \n\nThis time around, we are seeing a strong bullish narrative. \n\nWill we see the same pattern unfold based on the past year of data?",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nIts the 5th of May soon.\n\n12/12 times we have seen a inverse narrative movement around the 5th of each month. \n\nThis time around, we are seeing a strong bullish narrative. \n\nWill we see the same pattern unfold based on the past year of data?",
-      "publishedAt": "2026-05-04T23:19:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2051441693753328055",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://nitter.net/pic/orig/media%2FHHguu1BXAAAtJSu.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "Nobody knows what happens on the 5th of every month.\n\nSo I will show you,\n\nFor the past 9 months, you could have countered every bullish/bearish narrative, and been right every single time.\n\nStart paying attention. It lines up with the other $BTC pivots I’ve been posting.😉",
-        "link": "https://x.com/KillaXBT/status/2049893975839158466",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://nitter.net/pic/orig/media%2FHHKsjsWX0AA01fO.png"
           }
         ]
       },
