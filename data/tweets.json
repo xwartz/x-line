@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T18:37:21.819Z",
+  "lastUpdated": "2026-05-13T19:34:28.736Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,80 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 593,
+    "newFetched": 596,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2054638716988383372",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
+      "content": "沃什登基",
+      "contentHtml": "沃什登基",
+      "publishedAt": "2026-05-13T19:03:00.000Z",
+      "link": "https://x.com/hazenlee/status/2054638716988383372",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIOLBHkbYAAKrnm.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIOLBHkaIAAleuu.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054635956649820211",
+      "username": "GracyBitget",
+      "displayName": "Gracy Chen @Bitget",
+      "avatar": "https://pbs.twimg.com/profile_images/2014362536133750784/uoV-XJHF_bigger.jpg",
+      "content": "x.com/i/article/205463048403…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2054630484035178496\">x.com/i/article/205463048403…</a>",
+      "publishedAt": "2026-05-13T18:52:00.000Z",
+      "link": "https://x.com/GracyBitget/status/2054635956649820211",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054634078717272552",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
+      "content": "罗永浩的 X 字路口",
+      "contentHtml": "罗永浩的 X 字路口",
+      "publishedAt": "2026-05-13T18:45:00.000Z",
+      "link": "https://x.com/coolish/status/2054634078717272552",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIOGt-kbsAA5Mzh.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "coolish",
+        "displayName": "paulwei"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2054623001979543973",
       "username": "KillaXBT",
@@ -11695,57 +11764,6 @@
       "contentHtml": "啊。。。。。",
       "publishedAt": "2026-05-06T08:01:00.000Z",
       "link": "https://x.com/Bitfatty/status/2051935261953499347",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2051928399241945317",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
-      "content": "😂",
-      "contentHtml": "😂",
-      "publishedAt": "2026-05-06T07:33:00.000Z",
-      "link": "https://x.com/hazenlee/status/2051928399241945317",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHnqACobAAAb463.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2051916989116150251",
-      "username": "BensonTWN",
-      "displayName": "Benson Sun",
-      "avatar": "https://pbs.twimg.com/profile_images/1668618508853477381/dEpVvzxO_bigger.jpg",
-      "content": "MSTR 的消息算利空不跌吧\n如果是一月那種盤應該早就跌爛了\n\n看OI和資費都有繼續往上攻的動能",
-      "contentHtml": "MSTR 的消息算利空不跌吧\n如果是一月那種盤應該早就跌爛了\n\n看OI和資費都有繼續往上攻的動能",
-      "publishedAt": "2026-05-06T06:48:00.000Z",
-      "link": "https://x.com/BensonTWN/status/2051916989116150251",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2051916091451191804",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "猛攻节，囤货节",
-      "contentHtml": "猛攻节，囤货节",
-      "publishedAt": "2026-05-06T06:44:00.000Z",
-      "link": "https://x.com/taresky/status/2051916091451191804",
       "stats": {
         "replies": 0,
         "retweets": 0,
