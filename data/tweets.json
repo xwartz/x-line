@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T14:19:01.121Z",
+  "lastUpdated": "2026-05-13T15:33:18.846Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,143 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 595,
+    "newFetched": 594,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2054585146951819311",
+      "username": "coinkarma_",
+      "displayName": "CoinKarma",
+      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
+      "content": "$ETH 的流動性指標於前天在 $2,370 處觸發賣出警訊 🚨 截至今日， ETH 已下跌至 $2,250，成功預警 -5% 跌幅。\n\n歡迎透過小小海的專屬推薦連結，立即開始 14 天免費體驗\n👉 coinkarma.co/zh-cn/join/8390…",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的流動性指標於前天在 $2,370 處觸發賣出警訊 🚨 截至今日， ETH 已下跌至 $2,250，成功預警 -5% 跌幅。\n\n歡迎透過小小海的專屬推薦連結，立即開始 14 天免費體驗\n👉 <a href=\"https://coinkarma.co/zh-cn/join/83905867\">coinkarma.co/zh-cn/join/8390…</a>",
+      "publishedAt": "2026-05-13T15:30:00.000Z",
+      "link": "https://x.com/coinkarma_/status/2054585146951819311",
+      "quote": {
+        "username": "OKxiaohai",
+        "displayName": "阿小小海 🐈 🐈‍⬛",
+        "content": "许久未见的红⬇️卖出信号来了，来自我自定义额度指标，这次会不一样吗？idk 🤦\n\n猜测这次的卖压突然增加，要自 @GarrettBullish 的 ETH，时间吻合，限价单上全是他的货😂。\n\n自定义指标来自：coinkarma.co/zh-cn/join/8390…",
+        "contentHtml": "许久未见的红⬇️卖出信号来了，来自我自定义额度指标，这次会不一样吗？idk 🤦\n\n猜测这次的卖压突然增加，要自 <a href=\"/GarrettBullish\" title=\"Garrett\">@GarrettBullish</a> 的 ETH，时间吻合，限价单上全是他的货😂。\n\n自定义指标来自：<a href=\"https://www.coinkarma.co/zh-cn/join/83905867\">coinkarma.co/zh-cn/join/8390…</a>",
+        "link": "https://x.com/OKxiaohai/status/2053518452963635291",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HH-PGhRaoAA5cEx.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HH-PwZ_aIAApZ3x.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054583995904782435",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
+      "content": "经过了多日的鏖战 \n多次的假突破假跌破假突破\n大饼终于要选择正确的方向了\n过程很难熬\n但是坚持住就是好样的\n投资和交易往往到最后比拼的是意志品质",
+      "contentHtml": "经过了多日的鏖战 \n多次的假突破假跌破假突破\n大饼终于要选择正确的方向了\n过程很难熬\n但是坚持住就是好样的\n投资和交易往往到最后比拼的是意志品质",
+      "publishedAt": "2026-05-13T15:26:00.000Z",
+      "link": "https://x.com/hazenlee/status/2054583995904782435",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HINZQB9bcAAEhzJ.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "假突破了，非常非常不妙。\n祈祷🙏",
+        "contentHtml": "假突破了，非常非常不妙。\n祈祷🙏",
+        "link": "https://x.com/hazenlee/status/2052334282786640344",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HHta3AibAAAlv_9.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054578161602695183",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n正好这周 token 有余，用 /goal 模式给自己的翻译工具跑了一轮测试。\n\n用的是我自己日常实际的语料库（当时存了原数据，为了以后回测效果）。\n\n结果是 Soniox + gpt4o mini 的效果最好，具体如下⬇️",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n正好这周 token 有余，用 /goal 模式给自己的翻译工具跑了一轮测试。\n\n用的是我自己日常实际的语料库（当时存了原数据，为了以后回测效果）。\n\n结果是 Soniox + gpt4o mini 的效果最好，具体如下⬇️",
+      "publishedAt": "2026-05-13T15:03:00.000Z",
+      "link": "https://x.com/taresky/status/2054578161602695183",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HINTL6ua4AAwrzk.png"
+        }
+      ],
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#AI \n\n至今仍然一行代码都看不懂，也用 AI 写了一些小东西。\n\n1. Gmail 邮件分类处理，解决 Gmail 垃圾/营销邮件识别不准的问题。AI 识别、程序细分、Gmail filter 兜底，收集历史数据，自动改善准确率。\n\n2. Google 日历助理，根据日历和邮件自动添加和调整事项。替代了一大堆日历工具。\n\n3. 翻译工具，识别速度、准确率、个性化都碾压现成的翻译工具。还带历史内容整理和导出。其实只要用 Soniox API 即可，需要的话加上 openai API。\n\n4. 一个多端 fallback 的代理工具，解决 cloudflare 不能接 Binance API 的老问题。从此以后我大部分程序都可以直接丢给 cloudflare 了。\n\n5. 一个交易风控提醒工具，非常非常简单的代码，实现了世界顶级的稳定性和可用性。当我想到这个实现方式的时候就很开心。\n\n没有发过关于 AI 的文章，因为自己关于 AI 的很多观点，说是来太狂妄了。能产生收益的具体内容又不可说，这对大部分朋友没有价值。\n\n简而言之，又保守地说 —— 对所有智力工作者而言，这是一生难求，公平重新出发的机会。\n\n快用吧。",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n至今仍然一行代码都看不懂，也用 AI 写了一些小东西。\n\n1. Gmail 邮件分类处理，解决 Gmail 垃圾/营销邮件识别不准的问题。AI 识别、程序细分、Gmail filter 兜底，收集历史数据，自动改善准确率。\n\n2. Google 日历助理，根据日历和邮件自动添加和调整事项。替代了一大堆日历工具。\n\n3. 翻译工具，识别速度、准确率、个性化都碾压现成的翻译工具。还带历史内容整理和导出。其实只要用 Soniox API 即可，需要的话加上 openai API。\n\n4. 一个多端 fallback 的代理工具，解决 cloudflare 不能接 Binance API 的老问题。从此以后我大部分程序都可以直接丢给 cloudflare 了。\n\n5. 一个交易风控提醒工具，非常非常简单的代码，实现了世界顶级的稳定性和可用性。当我想到这个实现方式的时候就很开心。\n\n没有发过关于 AI 的文章，因为自己关于 AI 的很多观点，说是来太狂妄了。能产生收益的具体内容又不可说，这对大部分朋友没有价值。\n\n简而言之，又保守地说 —— 对所有智力工作者而言，这是一生难求，公平重新出发的机会。\n\n快用吧。",
+        "link": "https://x.com/taresky/status/2051843268904944073"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054568943843725314",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "川普抵京，中概互联终于小小表现了下，埋伏太早也不是好事太耗费时间，以为市场对此已经漠视。所幸逻辑有所兑现，还得看中美聊的如何：\n聊得好中概还能继续强势；\n聊不好估计又要被打回原形。",
+      "contentHtml": "川普抵京，中概互联终于小小表现了下，埋伏太早也不是好事太耗费时间，以为市场对此已经漠视。所幸逻辑有所兑现，还得看中美聊的如何：\n聊得好中概还能继续强势；\n聊不好估计又要被打回原形。",
+      "publishedAt": "2026-05-13T14:26:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2054568943843725314",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HINLkGda4AE7KxC.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "川普五月访华，中美关系进入一小段蜜月期，然后最近的地缘局势又让东大站在一个相对有利的位置上。中国资产大会不会迎来一波关注和重估？看kwb和cweb基本上也是一个相对底部的区域，而且KWB前几大持仓位标的基本面也都越来越好。",
+        "contentHtml": "川普五月访华，中美关系进入一小段蜜月期，然后最近的地缘局势又让东大站在一个相对有利的位置上。中国资产大会不会迎来一波关注和重估？看kwb和cweb基本上也是一个相对底部的区域，而且KWB前几大持仓位标的基本面也都越来越好。",
+        "link": "https://x.com/qinbafrank/status/2044108965706187209",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HF4iRGibQAA-kvL.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HF4iRGmasAg0F-g.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2054566298957607247",
       "username": "ai_9684xtpa",
@@ -171,6 +303,25 @@
           "url": "https://pbs.twimg.com/media/HINEUGuX0AAUh2k.png"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054552885376016718",
+      "username": "brian_armstrong",
+      "displayName": "Brian Armstrong",
+      "avatar": "https://pbs.twimg.com/profile_images/1516832438818770944/n77EwnKU_bigger.png",
+      "content": "CLARITY is closer than ever.\n\nThe bill is strong. It will benefit the American people by making the US financial system faster, cheaper and more accessible. It will also ensure that the US leads in the global race to build the next generation of our financial system.\n\nHuge thank you to the Senate, their staff, and 3.7m @standwithcrypto advocates for helping to get this legislation to where it is today.\n\nMark it up.",
+      "contentHtml": "CLARITY is closer than ever.\n\nThe bill is strong. It will benefit the American people by making the US financial system faster, cheaper and more accessible. It will also ensure that the US leads in the global race to build the next generation of our financial system.\n\nHuge thank you to the Senate, their staff, and 3.7m <a href=\"/standwithcrypto\" title=\"Stand With Crypto🛡️\">@standwithcrypto</a> advocates for helping to get this legislation to where it is today.\n\nMark it up.",
+      "publishedAt": "2026-05-13T13:22:00.000Z",
+      "link": "https://x.com/brian_armstrong/status/2054552885376016718",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11601,134 +11752,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2051868678279266468",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "他说他想草丕  咋整啊\n感觉全城的母猫都绝育了😓",
-      "contentHtml": "他说他想草丕  咋整啊\n感觉全城的母猫都绝育了😓",
-      "publishedAt": "2026-05-06T03:36:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2051868678279266468",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHmzq7WWsAM2EgH.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2051867197778309209",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "已实现净盈亏（NRPL）在零轴以上，说明在市场全部已实现价值中，实现盈利要大于实现亏损，说明市场具备盈利能力。\n\n反之，如果在零轴以下，说明BTC持有者以亏损卖出为主导，彻底失去了新的“造血功能”。\n\n理解以上逻辑，我们来看图中的标注1-3，正是描绘了比特币周期循环从“牛转熊 → 深熊 → 熊牛转换 → 牛回”的整个过程。\n\n阶段1：NRPL越来越低，直到后期已无法突破零轴。\n阶段2：价格新低但实现亏损没有更高，恐慌盘出清。\n阶段3：NRPL逐步重回到零轴之上，进入熊牛转换期。\n\n所以目前来看，本轮熊市的“阶段1”几乎是复刻了上轮周期的形态，过程也如出一辙。但不同的是，没有出现“阶段2”就直接跳到了“阶段3”。\n\nNRPL逐步重回到零轴之上，说明市场盈利能力正在恢复，就是有新的资金入场来承接前面的利润兑现。同时，BTC价格也突破STH-RP和TMMP的双重阻力。\n\n从这个角度，我们必须客观的说，现在对阶段的定义应该是“逐渐走出深熊，进入熊牛转换”。即便后面还有像20年3.12事件发生，也无法从根本上改变大趋势的方向。\n\n短期我们或许无法预测涨跌，但拉长时间看，2026一定会是一个史无前例的“熊市周期”。",
-      "contentHtml": "已实现净盈亏（NRPL）在零轴以上，说明在市场全部已实现价值中，实现盈利要大于实现亏损，说明市场具备盈利能力。\n\n反之，如果在零轴以下，说明BTC持有者以亏损卖出为主导，彻底失去了新的“造血功能”。\n\n理解以上逻辑，我们来看图中的标注1-3，正是描绘了比特币周期循环从“牛转熊 → 深熊 → 熊牛转换 → 牛回”的整个过程。\n\n阶段1：NRPL越来越低，直到后期已无法突破零轴。\n阶段2：价格新低但实现亏损没有更高，恐慌盘出清。\n阶段3：NRPL逐步重回到零轴之上，进入熊牛转换期。\n\n所以目前来看，本轮熊市的“阶段1”几乎是复刻了上轮周期的形态，过程也如出一辙。但不同的是，没有出现“阶段2”就直接跳到了“阶段3”。\n\nNRPL逐步重回到零轴之上，说明市场盈利能力正在恢复，就是有新的资金入场来承接前面的利润兑现。同时，BTC价格也突破STH-RP和TMMP的双重阻力。\n\n从这个角度，我们必须客观的说，现在对阶段的定义应该是“逐渐走出深熊，进入熊牛转换”。即便后面还有像20年3.12事件发生，也无法从根本上改变大趋势的方向。\n\n短期我们或许无法预测涨跌，但拉长时间看，2026一定会是一个史无前例的“熊市周期”。",
-      "publishedAt": "2026-05-06T03:30:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2051867197778309209",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHmx_Q7bsAAXmKe.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHmyB_6bAAAKfWf.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "🔥 7.3w = 盈亏平衡点！熊市后半段结构性特征已现\n\n理论上说，一段完整的熊市应该能从整体市场的“已实现净盈亏比”上清晰的体现。\n\n从牛转熊开始，至熊市的前半段，盈亏比“正向偏移”的幅度会逐渐缩小，代表了市场盈利能力的下降。因为亏损筹码越来越多，所以每一次反弹所能兑现的盈利肯定越来越少。\n\n直到进入熊市的中后期，中间的零轴，即盈亏平衡点 —— 就是反弹路上一道不可逾越鸿沟。\n\n而到了熊市的后半段，即便价格没有回升，甚至还在继续下跌，但盈亏比每一次极端的负向偏移，幅度都比上一次更小。\n\n这就说明大量高位套牢的筹码被换到了低位，因此当价格再次下跌时，亏损程度以不比之前那么严重，所以盈亏比的“负向偏移”幅度逐渐缩小。\n\n我们看到，上轮周期从21年12月到23年4月，就完美的呈现了这一过程。\n\n而本轮周期，从25年10月至26年1月，也同样经历了前半段 —— 盈亏比越过零轴的幅度逐渐缩小。\n\n随着熊市进入后半程，我们应该也会再次见证，反弹到中间的零轴盈亏平衡点而终止，以及盈亏比负向幅度逐渐缩小的结构性特征。\n\n因为它有着符合市场运行规则的顶层逻辑，所以我认为这一观察路径是可以复制的。\n\n回到当前，BTC价格$73,000对应的“已实现净盈亏比”正好就在零轴附近。根据上述逻辑，这里就是盈亏平衡的敏感位置。\n\n也许就到此为止了，也许还会小幅越过一点，就像今年1月反弹至9.7w的时候。但可以肯定的是，即便越过零轴幅度也不会很大，对应到价格应该就在几千美元范围。\n\n据此，短线交易我无法精确判断点位。但在大方向上，我个人认为：熊市的后半段还没走完，但趋近底部的结构性特征已逐渐显现。",
-        "link": "https://x.com/Murphychen888/status/2042777151246618990",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HFiy4hXakAYbO7I.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2051859313661006327",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "以前蓝狐 CM这种喊单的是真可以买了拿着睡两个月发财\n现在这些新kol喊的 我真是草了他们全家\n上一分钟革命范式 下一分钟团队老鼠仓 预留漏洞 被黑被盗 分流 新盘仿盘 nitter.net/abyssofgambling/status…",
-      "contentHtml": "以前蓝狐 CM这种喊单的是真可以买了拿着睡两个月发财\n现在这些新kol喊的 我真是草了他们全家\n上一分钟革命范式 下一分钟团队老鼠仓 预留漏洞 被黑被盗 分流 新盘仿盘 <a href=\"https://nitter.net/abyssofgambling/status/2051853462745575455\">nitter.net/abyssofgambling/status…</a>",
-      "publishedAt": "2026-05-06T02:59:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2051859313661006327",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2051855089195966638",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
-      "content": "【#BTC 四年周期总刻系列（35）】\n\n2021年02月 MSTR 见顶后 457天 到次熊底\n2024年11月 MSTR 见顶后 441天 到 $104",
-      "contentHtml": "【<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 四年周期总刻系列（35）】\n\n2021年02月 MSTR 见顶后 457天 到次熊底\n2024年11月 MSTR 见顶后 441天 到 $104",
-      "publishedAt": "2026-05-06T02:42:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2051855089195966638",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHmmX_dbkAAKuq2.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【#BTC 四年周期总刻系列（34）】\n\n22年6月币价暴跌至 17.6k，该指标最低跌至 1.0\n26年2月币价暴跌至 60k，该指标最低跌至 1.0\n\n22年8月随着币价超跌反弹，该指标最高达到 1.26\n当前随着币价超跌反弹，该指标最高达到 1.23\n\n┌── 🐼 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中黑线为比特币价格；橙线指标为比特币中位数 MVRV\n\n比特币中位数 MVRV (Median MVRV) = 当前比特币市场价格 ÷ 比特币中位数实现价格\n\n比特币中位数实现价格：是比特币供应量中，所有代币最后一次链上移动时的价格的中位数（一半比特币高于此价格移动；一半比特币低于此价格移动）。不同于平均值，它取中间值，能更好地代表所有投资者购币成本的中位数（当前中位数实现价格为 $64,144）\n\nMedian MVRV 相比 标准MVRV 更能捕捉散户或中型持有者的视角，因为中位数忽略了极端大/小值",
-        "contentHtml": "【<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 四年周期总刻系列（34）】\n\n22年6月币价暴跌至 17.6k，该指标最低跌至 1.0\n26年2月币价暴跌至 60k，该指标最低跌至 1.0\n\n22年8月随着币价超跌反弹，该指标最高达到 1.26\n当前随着币价超跌反弹，该指标最高达到 1.23\n\n┌── 🐼 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中黑线为比特币价格；橙线指标为比特币中位数 MVRV\n\n比特币中位数 MVRV (Median MVRV) = 当前比特币市场价格 ÷ 比特币中位数实现价格\n\n比特币中位数实现价格：是比特币供应量中，所有代币最后一次链上移动时的价格的中位数（一半比特币高于此价格移动；一半比特币低于此价格移动）。不同于平均值，它取中间值，能更好地代表所有投资者购币成本的中位数（当前中位数实现价格为 $64,144）\n\nMedian MVRV 相比 标准MVRV 更能捕捉散户或中型持有者的视角，因为中位数忽略了极端大/小值",
-        "link": "https://x.com/0xCryptoChan/status/2049768984879518138",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHI5m4_bMAAYcPJ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2051854028217454748",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "我去！闪迪这是要去日破苍穹？\n\n#sndk",
-      "contentHtml": "我去！闪迪这是要去日破苍穹？\n\n<a href=\"/search?f=tweets&q=%23sndk\">#sndk</a>",
-      "publishedAt": "2026-05-06T02:38:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2051854028217454748",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHmmW08a4AAm9WX.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
