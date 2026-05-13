@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState, type ImgHTMLAttributes } from 'react'
+import { type ImgHTMLAttributes, useMemo, useState } from 'react'
 import { buildImageFallbackChain } from '../utils/image'
 
 interface SmartImageProps extends ImgHTMLAttributes<HTMLImageElement> {
@@ -20,11 +20,13 @@ export function SmartImage({
     [fallbackSrc, src]
   )
   const chainKey = fallbackChain.join('|')
-  const [currentIndex, setCurrentIndex] = useState(0)
+  const [imageState, setImageState] = useState(() => ({
+    chainKey,
+    currentIndex: 0
+  }))
 
-  useEffect(() => {
-    setCurrentIndex(0)
-  }, [chainKey])
+  const currentIndex =
+    imageState.chainKey === chainKey ? imageState.currentIndex : 0
 
   const currentSrc = fallbackChain[currentIndex]
 
@@ -33,9 +35,17 @@ export function SmartImage({
       {...props}
       src={currentSrc}
       onError={event => {
-        if (currentIndex < fallbackChain.length - 1) {
-          setCurrentIndex(currentIndex + 1)
-        }
+        setImageState(previousState => {
+          const nextIndex =
+            previousState.chainKey === chainKey ? previousState.currentIndex : 0
+
+          return {
+            chainKey,
+            currentIndex:
+              nextIndex < fallbackChain.length - 1 ? nextIndex + 1 : nextIndex
+          }
+        })
+
         onError?.(event)
       }}
     />

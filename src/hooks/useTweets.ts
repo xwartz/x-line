@@ -13,13 +13,13 @@ export function useTweets() {
   const tweets = useMemo(() => {
     return data.tweets.map(tweet => ({
       ...tweet,
-      publishedAt: new Date(tweet.publishedAt),
+      publishedAt: new Date(tweet.publishedAt)
     }))
   }, [data.tweets])
 
   return {
     tweets,
     lastUpdated: data.lastUpdated ? new Date(data.lastUpdated) : null,
-    isLoading: false,
+    isLoading: false
   }
 }

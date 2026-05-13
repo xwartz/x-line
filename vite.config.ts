@@ -1,7 +1,7 @@
-import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import { VitePWA } from 'vite-plugin-pwa'
 import path from 'path'
+import { defineConfig } from 'vite'
+import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
   plugins: [
@@ -23,15 +23,15 @@ export default defineConfig({
             src: '/pwa-icon.svg',
             sizes: 'any',
             type: 'image/svg+xml',
-            purpose: 'any',
+            purpose: 'any'
           },
           {
             src: '/mask-icon.svg',
             sizes: 'any',
             type: 'image/svg+xml',
-            purpose: 'maskable',
-          },
-        ],
+            purpose: 'maskable'
+          }
+        ]
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,ico,png,json}'],
@@ -44,12 +44,12 @@ export default defineConfig({
               cacheName: 'tweet-media',
               expiration: {
                 maxEntries: 240,
-                maxAgeSeconds: 60 * 60 * 24 * 14,
+                maxAgeSeconds: 60 * 60 * 24 * 14
               },
               cacheableResponse: {
-                statuses: [0, 200],
-              },
-            },
+                statuses: [0, 200]
+              }
+            }
           },
           {
             urlPattern: /^https:\/\/abs\.twimg\.com\/.*$/i,
@@ -57,24 +57,24 @@ export default defineConfig({
             options: {
               cacheName: 'twitter-assets',
               cacheableResponse: {
-                statuses: [0, 200],
-              },
-            },
-          },
-        ],
-      },
-    }),
+                statuses: [0, 200]
+              }
+            }
+          }
+        ]
+      }
+    })
   ],
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, './src'),
-    },
+      '@': path.resolve(__dirname, './src')
+    }
   },
   server: {
-    port: 3000,
+    port: 3000
   },
   build: {
     outDir: 'dist',
-    sourcemap: true,
-  },
+    sourcemap: true
+  }
 })

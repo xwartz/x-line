@@ -11,7 +11,7 @@ interface AvatarProps {
 const sizeMap = {
   sm: 32,
   md: 48,
-  lg: 64,
+  lg: 64
 }
 
 const defaultAvatar =
@@ -30,7 +30,7 @@ export function Avatar({ src, alt, size = 'md', className }: AvatarProps) {
         width: dimension,
         height: dimension,
         minWidth: dimension,
-        minHeight: dimension,
+        minHeight: dimension
       }}
     >
       <SmartImage

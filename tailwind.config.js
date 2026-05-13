@@ -9,24 +9,24 @@ export default {
           blue: '#1DA1F2',
           dark: '#15202B',
           darker: '#192734',
-          border: '#38444D',
-        },
+          border: '#38444D'
+        }
       },
       animation: {
         'fade-in': 'fadeIn 0.3s ease-in-out',
-        'slide-up': 'slideUp 0.3s ease-out',
+        'slide-up': 'slideUp 0.3s ease-out'
       },
       keyframes: {
         fadeIn: {
           '0%': { opacity: '0' },
-          '100%': { opacity: '1' },
+          '100%': { opacity: '1' }
         },
         slideUp: {
           '0%': { opacity: '0', transform: 'translateY(10px)' },
-          '100%': { opacity: '1', transform: 'translateY(0)' },
-        },
-      },
-    },
+          '100%': { opacity: '1', transform: 'translateY(0)' }
+        }
+      }
+    }
   },
-  plugins: [],
+  plugins: []
 }

@@ -1,12 +1,12 @@
-import { RefreshCw, X } from 'lucide-react'
 import { useRegisterSW } from 'virtual:pwa-register/react'
+import { RefreshCw, X } from 'lucide-react'
 import { Button } from './Button'
 
 export function PwaUpdatePrompt() {
   const {
     offlineReady: [offlineReady, setOfflineReady],
     needRefresh: [needRefresh, setNeedRefresh],
-    updateServiceWorker,
+    updateServiceWorker
   } = useRegisterSW({
     onRegisteredSW(
       _swUrl: string,
@@ -22,7 +22,7 @@ export function PwaUpdatePrompt() {
         },
         60 * 60 * 1000
       )
-    },
+    }
   })
 
   if (!offlineReady && !needRefresh) {

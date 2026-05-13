@@ -1,5 +1,5 @@
-import type { Follower } from '../types'
 import followersData from '../../data/followers.json'
+import type { Follower } from '../types'
 
 /**
  * 关注者列表配置

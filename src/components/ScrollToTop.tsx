@@ -1,5 +1,5 @@
-import { useState, useEffect } from 'react'
 import { ArrowUp } from 'lucide-react'
+import { useEffect, useState } from 'react'
 
 export function ScrollToTop() {
   const [isVisible, setIsVisible] = useState(false)
@@ -28,7 +28,7 @@ export function ScrollToTop() {
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
-      behavior: 'smooth',
+      behavior: 'smooth'
     })
   }
 

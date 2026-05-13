@@ -38,7 +38,7 @@ export function buildImageFallbackChain(url?: string, fallbackUrl?: string) {
   const candidates = [
     normalizeImageUrl(url),
     url ? toHttps(url) : undefined,
-    fallbackUrl,
+    fallbackUrl
   ]
 
   return candidates.filter((candidate, index, items): candidate is string => {

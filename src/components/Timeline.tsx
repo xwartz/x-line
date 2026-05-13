@@ -1,9 +1,9 @@
 import { formatDistanceToNow } from 'date-fns'
 import { zhCN } from 'date-fns/locale'
 import { MessageSquare } from 'lucide-react'
+import type { Tweet } from '../types'
 import { TweetCard } from './TweetCard'
 import { TimelineSkeleton } from './TweetSkeleton'
-import type { Tweet } from '../types'
 
 interface TimelineProps {
   tweets: Tweet[]
@@ -28,14 +28,14 @@ export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
             <span className="sm:hidden">
               {formatDistanceToNow(lastUpdated, {
                 addSuffix: true,
-                locale: zhCN,
+                locale: zhCN
               })}
             </span>
             <span className="hidden sm:inline">
               更新于{' '}
               {formatDistanceToNow(lastUpdated, {
                 addSuffix: true,
-                locale: zhCN,
+                locale: zhCN
               })}
             </span>
           </span>

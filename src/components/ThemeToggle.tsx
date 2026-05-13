@@ -1,4 +1,4 @@
-import { Moon, Sun, Monitor } from 'lucide-react'
+import { Monitor, Moon, Sun } from 'lucide-react'
 import { useTheme } from './ThemeProvider'
 
 export function ThemeToggle() {
@@ -8,7 +8,7 @@ export function ThemeToggle() {
     const themes: Array<'light' | 'dark' | 'system'> = [
       'light',
       'dark',
-      'system',
+      'system'
     ]
     const currentIndex = themes.indexOf(theme)
     const nextIndex = (currentIndex + 1) % themes.length

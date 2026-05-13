@@ -1,12 +1,12 @@
 import { useCallback, useMemo } from 'react'
-import { Header } from './components/Header'
-import { Timeline } from './components/Timeline'
 import { FollowerList } from './components/FollowerList'
-import { ScrollToTop } from './components/ScrollToTop'
+import { Header } from './components/Header'
 import { PwaUpdatePrompt } from './components/PwaUpdatePrompt'
-import { useTweets } from './hooks/useTweets'
-import { useLocalStorage } from './hooks/useLocalStorage'
+import { ScrollToTop } from './components/ScrollToTop'
+import { Timeline } from './components/Timeline'
 import { followers } from './config/followers'
+import { useLocalStorage } from './hooks/useLocalStorage'
+import { useTweets } from './hooks/useTweets'
 
 export function App() {
   const [selectedUsers, setSelectedUsers] = useLocalStorage<string[]>(

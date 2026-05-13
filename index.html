@@ -24,7 +24,7 @@
             try {
               // useLocalStorage 使用 JSON.stringify，所以需要解析
               theme = JSON.parse(stored);
-            } catch (e) {
+            } catch {
               // 如果不是 JSON 格式，直接使用原始值（向后兼容）
               theme = stored;
             }
@@ -41,7 +41,7 @@
           } else {
             document.documentElement.style.colorScheme = 'light';
           }
-        } catch (e) {
+        } catch {
           // Ignore errors
         }
       })();

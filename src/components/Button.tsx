@@ -33,7 +33,7 @@ export function Button({
             variant === 'ghost',
           'h-10 px-4 text-[11px]': size === 'sm',
           'h-11 px-5 text-xs': size === 'md',
-          'h-12 px-6 text-sm': size === 'lg',
+          'h-12 px-6 text-sm': size === 'lg'
         },
         className
       )}

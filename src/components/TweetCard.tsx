@@ -1,10 +1,10 @@
-import { Fragment, type ReactNode } from 'react'
-import { formatDistanceToNow, format } from 'date-fns'
+import { format, formatDistanceToNow } from 'date-fns'
 import { zhCN } from 'date-fns/locale'
 import { ArrowUpRight, FileText, Link2, Repeat2 } from 'lucide-react'
+import { Fragment, type ReactNode } from 'react'
+import type { Tweet } from '../types'
 import { Avatar } from './Avatar'
 import { SmartImage } from './SmartImage'
-import type { Tweet } from '../types'
 
 interface TweetCardProps {
   tweet: Tweet
@@ -22,7 +22,7 @@ const HTML_ENTITY_MAP: Record<string, string> = {
   '&gt;': '>',
   '&quot;': '"',
   '&#39;': "'",
-  '&nbsp;': ' ',
+  '&nbsp;': ' '
 }
 
 const INLINE_TOKEN_REGEX = /([#@][^\s#@，。！？、；：,.!?()[\]{}<>]+)/gu
@@ -353,7 +353,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
   const publishedDate = new Date(tweet.publishedAt)
   const timeAgo = formatDistanceToNow(publishedDate, {
     addSuffix: true,
-    locale: zhCN,
+    locale: zhCN
   })
 
   // 格式化具体时间：年-月-日 时:分:秒 +时区
@@ -421,7 +421,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
             {renderTweetContent(tweet.content, tweet.contentHtml, {
               authorName: tweet.displayName,
               username: tweet.username,
-              sharedByName: tweet.retweet?.displayName,
+              sharedByName: tweet.retweet?.displayName
             })}
           </div>
 
@@ -501,7 +501,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
                       tweet.quote.contentHtml,
                       {
                         authorName: tweet.quote.displayName,
-                        username: tweet.quote.username,
+                        username: tweet.quote.username
                       }
                     )}
                   </div>

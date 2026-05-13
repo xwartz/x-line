@@ -1,8 +1,8 @@
-import { useEffect, useMemo, useState } from 'react'
 import { clsx } from 'clsx'
 import { Filter, X } from 'lucide-react'
-import { Avatar } from './Avatar'
+import { useEffect, useMemo, useState } from 'react'
 import type { Follower, Tweet } from '../types'
+import { Avatar } from './Avatar'
 
 interface FollowerListProps {
   followers: Follower[]
@@ -15,7 +15,7 @@ export function FollowerList({
   followers,
   selectedUsers,
   onToggleUser,
-  tweets = [],
+  tweets = []
 }: FollowerListProps) {
   const [isMobileDrawerOpen, setIsMobileDrawerOpen] = useState(false)
   const isAllSelected = selectedUsers.length === 0
