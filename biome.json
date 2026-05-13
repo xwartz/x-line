@@ -7,7 +7,7 @@
   },
   "files": {
     "ignoreUnknown": true,
-    "includes": ["**", "!dist", "!dev-dist", "!node_modules"],
+    "includes": ["**", "!dist", "!dev-dist", "!node_modules", "!data"],
     "maxSize": 2097152
   },
   "formatter": {

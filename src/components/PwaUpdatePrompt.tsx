@@ -37,7 +37,7 @@ export function PwaUpdatePrompt() {
         </div>
 
         <div className="min-w-0 flex-1">
-          <div className="[font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.16em] text-[var(--muted-foreground)]">
+          <div className="[font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.16em] text-[var(--muted-foreground)]">
             {needRefresh ? 'Update Ready' : 'Offline Ready'}
           </div>
           <p className="mt-2 text-[16px] leading-7 text-[var(--foreground)]">

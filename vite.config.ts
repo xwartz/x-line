@@ -8,7 +8,18 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.svg', 'pwa-icon.svg', 'mask-icon.svg'],
+      includeAssets: [
+        'favicon.svg',
+        'favicon-16x16.png',
+        'favicon-32x32.png',
+        'apple-touch-icon.png',
+        'mask-icon.svg',
+        'pwa-icon.svg',
+        'pwa-icon-maskable.svg',
+        'web-app-manifest-192x192.png',
+        'web-app-manifest-512x512.png',
+        'web-app-manifest-512x512-maskable.png'
+      ],
       manifest: {
         name: 'X-Line',
         short_name: 'X-Line',
@@ -20,15 +31,21 @@ export default defineConfig({
         lang: 'zh-CN',
         icons: [
           {
-            src: '/pwa-icon.svg',
-            sizes: 'any',
-            type: 'image/svg+xml',
+            src: 'web-app-manifest-192x192.png',
+            sizes: '192x192',
+            type: 'image/png',
             purpose: 'any'
           },
           {
-            src: '/mask-icon.svg',
-            sizes: 'any',
-            type: 'image/svg+xml',
+            src: 'web-app-manifest-512x512.png',
+            sizes: '512x512',
+            type: 'image/png',
+            purpose: 'any'
+          },
+          {
+            src: 'web-app-manifest-512x512-maskable.png',
+            sizes: '512x512',
+            type: 'image/png',
             purpose: 'maskable'
           }
         ]

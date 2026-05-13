@@ -94,7 +94,6 @@ export function App() {
             >
               Data source: Nitter
             </a>
-            <span>Installable PWA with offline cache.</span>
           </div>
         </div>
       </footer>

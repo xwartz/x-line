@@ -24,7 +24,7 @@ export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
           </h2>
         </div>
         {lastUpdated && (
-          <span className="[font-family:var(--font-sans)] text-xs uppercase tracking-[0.14em] text-[var(--muted-foreground)] sm:text-sm sm:normal-case sm:tracking-normal">
+          <span className="[font-family:var(--font-sans)] text-xs tracking-[0.14em] text-[var(--muted-foreground)] sm:text-sm sm:normal-case sm:tracking-normal">
             <span className="sm:hidden">
               {formatDistanceToNow(lastUpdated, {
                 addSuffix: true,
@@ -69,7 +69,7 @@ export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
               ))}
             </div>
             <div className="border-t border-[var(--border)] py-4 text-center">
-              <span className="[font-family:var(--font-sans)] text-xs uppercase tracking-[0.14em] text-[var(--muted-foreground)]">
+              <span className="[font-family:var(--font-sans)] text-xs tracking-[0.14em] text-[var(--muted-foreground)]">
                 共 {tweets.length} 条推文
               </span>
             </div>

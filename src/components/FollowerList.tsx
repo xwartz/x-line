@@ -114,7 +114,7 @@ export function FollowerList({
         </div>
       </div>
 
-      <div className="mt-3 hidden [font-family:var(--font-sans)] text-xs uppercase tracking-[0.14em] text-[var(--muted-foreground)] xl:block">
+      <div className="mt-3 hidden [font-family:var(--font-sans)] text-xs tracking-[0.14em] text-[var(--muted-foreground)] xl:block">
         {isAllSelected ? `全部 ${selectedCount}` : `已选 ${selectedCount}`}
       </div>
 
@@ -130,7 +130,7 @@ export function FollowerList({
         >
           <div
             className={clsx(
-              'flex h-11 w-11 flex-shrink-0 items-center justify-center border text-xs font-bold uppercase tracking-[0.16em] transition-colors duration-150 [font-family:var(--font-sans)]',
+              'flex h-11 w-11 flex-shrink-0 items-center justify-center border text-xs font-bold tracking-[0.16em] transition-colors duration-150 [font-family:var(--font-sans)]',
               isAllSelected
                 ? 'border-[var(--background)] text-[var(--background)]'
                 : 'border-[var(--border)] text-[var(--muted-foreground)]'
@@ -139,7 +139,7 @@ export function FollowerList({
             全
           </div>
           <div className="min-w-0 flex-1">
-            <div className="[font-family:var(--font-sans)] text-sm font-bold uppercase tracking-[0.12em]">
+            <div className="[font-family:var(--font-sans)] text-sm font-bold tracking-[0.12em]">
               全部
             </div>
             <div
@@ -154,7 +154,7 @@ export function FollowerList({
             </div>
           </div>
           {isAllSelected && (
-            <span className="ml-auto [font-family:var(--font-sans)] text-xs font-bold uppercase tracking-[0.14em] text-[var(--background)]">
+            <span className="ml-auto [font-family:var(--font-sans)] text-xs font-bold tracking-[0.14em] text-[var(--background)]">
               {followers.length}
             </span>
           )}
@@ -181,7 +181,7 @@ export function FollowerList({
                 />
               </div>
               <div className="flex-1 min-w-0">
-                <div className="truncate [font-family:var(--font-sans)] text-sm font-bold uppercase tracking-[0.1em]">
+                <div className="truncate [font-family:var(--font-sans)] text-sm font-bold tracking-[0.1em]">
                   {getFollowerDisplayName(follower)}
                 </div>
                 <div
@@ -196,7 +196,7 @@ export function FollowerList({
                 </div>
               </div>
               {isSelected && (
-                <span className="flex-shrink-0 [font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.14em] text-[var(--background)]">
+                <span className="flex-shrink-0 [font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.14em] text-[var(--background)]">
                   已选
                 </span>
               )}
@@ -209,7 +209,7 @@ export function FollowerList({
         <button
           type="button"
           onClick={() => setIsMobileDrawerOpen(true)}
-          className="fixed bottom-4 left-4 z-40 inline-flex h-12 items-center gap-2 border border-[var(--foreground)] bg-[var(--background)] px-4 [font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.16em] text-[var(--foreground)] shadow-[0_10px_30px_rgba(0,0,0,0.08)] transition-colors duration-150 hover:bg-[var(--muted)]"
+          className="fixed bottom-4 left-4 z-40 inline-flex h-12 items-center gap-2 border border-[var(--foreground)] bg-[var(--background)] px-4 [font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.16em] text-[var(--foreground)] shadow-[0_10px_30px_rgba(0,0,0,0.08)] transition-colors duration-150 hover:bg-[var(--muted)]"
           aria-label="打开作者筛选"
         >
           <Filter className="h-4 w-4" />
@@ -251,7 +251,7 @@ export function FollowerList({
                 </button>
               </div>
 
-              <div className="flex items-center justify-between gap-3 border-b border-[var(--border)] px-4 py-3 [font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.14em] text-[var(--muted-foreground)]">
+              <div className="flex items-center justify-between gap-3 border-b border-[var(--border)] px-4 py-3 [font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.14em] text-[var(--muted-foreground)]">
                 <span>
                   {isAllSelected
                     ? `全部 ${selectedCount}`
@@ -282,7 +282,7 @@ export function FollowerList({
                   >
                     <div
                       className={clsx(
-                        'flex h-10 w-10 flex-shrink-0 items-center justify-center border [font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.14em]',
+                        'flex h-10 w-10 flex-shrink-0 items-center justify-center border [font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.14em]',
                         isAllSelected
                           ? 'border-[var(--background)] text-[var(--background)]'
                           : 'border-[var(--border)] text-[var(--muted-foreground)]'
@@ -291,7 +291,7 @@ export function FollowerList({
                       全
                     </div>
                     <div className="min-w-0 flex-1">
-                      <div className="[font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.14em]">
+                      <div className="[font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.14em]">
                         全部
                       </div>
                       <div
@@ -329,7 +329,7 @@ export function FollowerList({
                           />
                         </div>
                         <div className="min-w-0 flex-1">
-                          <div className="truncate [font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.12em]">
+                          <div className="truncate [font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.12em]">
                             {getFollowerDisplayName(follower)}
                           </div>
                           <div
@@ -344,7 +344,7 @@ export function FollowerList({
                           </div>
                         </div>
                         {isSelected && (
-                          <span className="[font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.14em]">
+                          <span className="[font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.14em]">
                             已选
                           </span>
                         )}

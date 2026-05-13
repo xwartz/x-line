@@ -249,7 +249,7 @@ function renderContentLink(
             <FileText className="h-4 w-4" />
           </span>
           <span className="min-w-0">
-            <span className="[font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.16em] text-[var(--muted-foreground)]">
+            <span className="[font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.16em] text-[var(--muted-foreground)]">
               Longform
             </span>
             <span className="mt-1 block text-[17px] leading-7 text-[var(--foreground)] sm:text-[18px]">
@@ -272,7 +272,7 @@ function renderContentLink(
         href={href}
         target="_blank"
         rel="noopener noreferrer"
-        className="my-3 inline-flex max-w-full items-center gap-2 border border-[var(--foreground)] px-3 py-2 [font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.14em] text-[var(--foreground)] no-underline transition-colors hover:bg-[var(--muted)]"
+        className="my-3 inline-flex max-w-full items-center gap-2 border border-[var(--foreground)] px-3 py-2 [font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.14em] text-[var(--foreground)] no-underline transition-colors hover:bg-[var(--muted)]"
         title={href}
       >
         <Link2 className="h-4 w-4 shrink-0" />
@@ -363,7 +363,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
   return (
     <article className="animate-fade-in card-hover relative px-0 py-4 first:pt-6 sm:py-7">
       {tweet.retweet && (
-        <div className="mb-3 flex items-center gap-1.5 [font-family:var(--font-sans)] text-[10px] font-bold uppercase tracking-[0.16em] text-[var(--muted-foreground)] sm:mb-4 sm:text-[11px]">
+        <div className="mb-3 flex items-center gap-1.5 [font-family:var(--font-sans)] text-[10px] font-bold tracking-[0.16em] text-[var(--muted-foreground)] sm:mb-4 sm:text-[11px]">
           <Repeat2 className="h-3 w-3 sm:h-3.5 sm:w-3.5" />
           <span>{tweet.retweet.displayName} 转发</span>
         </div>
@@ -396,7 +396,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
               href={`https://x.com/${tweet.username}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="truncate text-[13px] font-bold uppercase leading-5 tracking-[0.12em] text-[var(--foreground)] hover:underline sm:text-[15px]"
+              className="truncate text-[13px] font-bold leading-5 tracking-[0.12em] text-[var(--foreground)] hover:underline sm:text-[15px]"
             >
               {tweet.displayName}
             </a>
@@ -458,7 +458,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
                     />
                     {(media.type === 'video' || media.type === 'gif') && (
                       <div className="absolute left-2 top-2 border border-[var(--foreground)] bg-[var(--background)] px-2 py-1 sm:left-3 sm:top-3">
-                        <span className="[font-family:var(--font-sans)] text-[9px] font-bold uppercase tracking-[0.14em] text-[var(--foreground)] sm:text-xs">
+                        <span className="[font-family:var(--font-sans)] text-[9px] font-bold tracking-[0.14em] text-[var(--foreground)] sm:text-xs">
                           {media.type === 'video' ? '▶ Video' : 'GIF'}
                         </span>
                       </div>
@@ -472,21 +472,21 @@ export function TweetCard({ tweet }: TweetCardProps) {
           {tweet.quote && (
             <div className="mt-4 border-t border-[var(--border)] pt-4 sm:mt-5 sm:pt-5">
               <div className="flex items-center justify-between gap-3">
-                <div className="[font-family:var(--font-sans)] text-[10px] font-bold uppercase tracking-[0.16em] text-[var(--muted-foreground)] sm:text-[11px]">
+                <div className="[font-family:var(--font-sans)] text-[10px] font-bold tracking-[0.16em] text-[var(--muted-foreground)] sm:text-[11px]">
                   {quoteLabel}
                 </div>
                 <a
                   href={tweet.quote.link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="[font-family:var(--font-sans)] text-[10px] font-bold uppercase tracking-[0.14em] text-[var(--muted-foreground)] transition-colors hover:text-[var(--foreground)] sm:text-[11px]"
+                  className="[font-family:var(--font-sans)] text-[10px] font-bold tracking-[0.14em] text-[var(--muted-foreground)] transition-colors hover:text-[var(--foreground)] sm:text-[11px]"
                 >
                   查看原帖
                 </a>
               </div>
               <div className="mt-2.5 border border-[var(--border)] bg-[var(--background)] p-3 transition-colors duration-150 hover:bg-[var(--muted)] sm:mt-3 sm:p-4">
                 <div className="flex flex-wrap items-center gap-x-2 gap-y-1 [font-family:var(--font-sans)]">
-                  <span className="text-[13px] font-bold uppercase tracking-[0.1em] text-[var(--foreground)] sm:text-sm">
+                  <span className="text-[13px] font-bold tracking-[0.1em] text-[var(--foreground)] sm:text-sm">
                     {tweet.quote.displayName}
                   </span>
                   <span className="text-[13px] text-[var(--muted-foreground)] sm:text-sm">
@@ -546,7 +546,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
                           />
                           {(media.type === 'video' || media.type === 'gif') && (
                             <div className="absolute left-2 top-2 border border-[var(--foreground)] bg-[var(--background)] px-2 py-1 sm:left-3 sm:top-3">
-                              <span className="[font-family:var(--font-sans)] text-[9px] font-bold uppercase tracking-[0.14em] text-[var(--foreground)] sm:text-xs">
+                              <span className="[font-family:var(--font-sans)] text-[9px] font-bold tracking-[0.14em] text-[var(--foreground)] sm:text-xs">
                                 {media.type === 'video' ? '▶' : 'GIF'}
                               </span>
                             </div>
@@ -559,7 +559,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
 
                 {!tweet.quote.content &&
                   (!tweet.quote.media || tweet.quote.media.length === 0) && (
-                    <div className="mt-3 [font-family:var(--font-sans)] text-xs font-bold uppercase tracking-[0.14em] text-[var(--muted-foreground)]">
+                    <div className="mt-3 [font-family:var(--font-sans)] text-xs font-bold tracking-[0.14em] text-[var(--muted-foreground)]">
                       查看原帖
                     </div>
                   )}
