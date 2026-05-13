@@ -294,19 +294,41 @@ async function fetchWithCurl(url, timeout = FETCH_TIMEOUT) {
 
 /**
  * 解码 Nitter 图片 URL
- * Nitter 格式: /pic/https%3A%2F%2Fpbs.twimg.com%2F... 或 /pic/pbs.twimg.com%2F...
+ * Nitter 格式: /pic/https%3A%2F%2Fpbs.twimg.com%2F... 或 /pic/orig/media%2F...
  */
 /**
- * 将 Nitter 的相对 URL 转换为完整的代理 URL
+ * 将 Nitter 的相对 URL 还原为原始图片 URL，优先使用 pbs.twimg.com 直链
  */
 function decodeNitterUrl(url, instance) {
-  if (!url || !url.startsWith('/pic/')) {
+  if (!url) {
     return url;
   }
 
-  // 保留 Nitter 代理 URL，因为 Twitter 图片需要通过代理访问
-  // 使用提供的实例域名
-  return `https://${instance}${url}`;
+  try {
+    const normalizedUrl = /^https?:\/\//i.test(url)
+      ? url.replace(/^http:\/\//i, 'https://')
+      : `https://${instance}${url}`;
+    const parsed = new URL(normalizedUrl);
+    const match = parsed.pathname.match(/^\/pic\/(?:orig\/)?(.+)$/);
+    if (!match) {
+      return normalizedUrl;
+    }
+
+    const decodedPath = decodeURIComponent(match[1]);
+    if (!decodedPath) {
+      return normalizedUrl;
+    }
+
+    if (/^https?:\/\//i.test(decodedPath)) {
+      return decodedPath.replace(/^http:\/\//i, 'https://');
+    }
+
+    return `https://pbs.twimg.com/${decodedPath.replace(/^\/+/, '')}`;
+  } catch {
+    return /^https?:\/\//i.test(url)
+      ? url.replace(/^http:\/\//i, 'https://')
+      : `https://${instance}${url}`;
+  }
 }
 
 /**
@@ -469,53 +491,55 @@ function parseNitterHTML(html, instance, currentUser) {
 
         // 提取引用推文的用户名
         const quoteUserMatch = quoteHtml.match(/<a class="username"[^>]*>@(\w+)<\/a>/);
-        if (!quoteUserMatch) continue;
+        if (quoteUserMatch) {
+          const quoteUsername = quoteUserMatch[1];
 
-        const quoteUsername = quoteUserMatch[1];
+          // 提取引用推文的显示名称
+          const quoteDisplayNameMatch = quoteHtml.match(/<a class="fullname"[^>]*title="([^"]*)"[^>]*>/);
+          const quoteDisplayName = quoteDisplayNameMatch ? quoteDisplayNameMatch[1] : quoteUsername;
 
-        // 提取引用推文的显示名称
-        const quoteDisplayNameMatch = quoteHtml.match(/<a class="fullname"[^>]*title="([^"]*)"[^>]*>/);
-        const quoteDisplayName = quoteDisplayNameMatch ? quoteDisplayNameMatch[1] : quoteUsername;
+          // 提取引用推文的 ID
+          const quoteLinkMatch = quoteHtml.match(/href="\/[^/]+\/status\/(\d+)/);
+          const quoteId = quoteLinkMatch ? quoteLinkMatch[1] : '';
 
-        // 提取引用推文的 ID
-        const quoteLinkMatch = quoteHtml.match(/href="\/[^/]+\/status\/(\d+)/);
-        const quoteId = quoteLinkMatch ? quoteLinkMatch[1] : '';
+          // 提取引用推文的文本内容
+          const quoteTextMatch = quoteHtml.match(/<div class="quote-text"[^>]*>([\s\S]*?)<\/div>/);
+          const quoteContentHtml = quoteTextMatch ? quoteTextMatch[1] : '';
+          const quoteContent = quoteTextMatch ? extractText(quoteContentHtml) : '';
 
-        // 提取引用推文的文本内容
-        const quoteTextMatch = quoteHtml.match(/<div class="quote-text"[^>]*>([\s\S]*?)<\/div>/);
-        const quoteContent = quoteTextMatch ? extractText(quoteTextMatch[1]) : '';
+          // 提取引用推文的媒体
+          const quoteMedia = [];
+          const quoteMediaMatch = quoteHtml.match(/<div class="quote-media-container">([\s\S]*?)<\/div>\s*<\/div>/);
+          if (quoteMediaMatch) {
+            const quoteMediaHtml = quoteMediaMatch[1];
 
-        // 提取引用推文的媒体
-        const quoteMedia = [];
-        const quoteMediaMatch = quoteHtml.match(/<div class="quote-media-container">([\s\S]*?)<\/div>\s*<\/div>/);
-        if (quoteMediaMatch) {
-          const quoteMediaHtml = quoteMediaMatch[1];
+            // 图片
+            const quoteImgRegex = /<a[^>]*class="still-image"[^>]*href="([^"]*)"[^>]*>/g;
+            let quoteImgMatch;
+            while ((quoteImgMatch = quoteImgRegex.exec(quoteMediaHtml)) !== null) {
+              const url = decodeNitterUrl(quoteImgMatch[1], instance);
+              quoteMedia.push({ type: 'image', url });
+            }
 
-          // 图片
-          const quoteImgRegex = /<a[^>]*class="still-image"[^>]*href="([^"]*)"[^>]*>/g;
-          let quoteImgMatch;
-          while ((quoteImgMatch = quoteImgRegex.exec(quoteMediaHtml)) !== null) {
-            const url = decodeNitterUrl(quoteImgMatch[1], instance);
-            quoteMedia.push({ type: 'image', url });
-          }
-
-          // 视频
-          if (quoteMediaHtml.includes('gallery-video') || quoteMediaHtml.includes('video-container')) {
-            const quotePosterMatch = quoteMediaHtml.match(/poster="([^"]*)"/);
-            if (quotePosterMatch) {
-              const thumbnail = decodeNitterUrl(quotePosterMatch[1], instance);
-              quoteMedia.push({ type: 'video', url: '', thumbnail });
+            // 视频
+            if (quoteMediaHtml.includes('gallery-video') || quoteMediaHtml.includes('video-container')) {
+              const quotePosterMatch = quoteMediaHtml.match(/poster="([^"]*)"/);
+              if (quotePosterMatch) {
+                const thumbnail = decodeNitterUrl(quotePosterMatch[1], instance);
+                quoteMedia.push({ type: 'video', url: '', thumbnail });
+              }
             }
           }
-        }
 
-        quote = {
-          username: quoteUsername,
-          displayName: quoteDisplayName,
-          content: quoteContent,
-          link: quoteId ? `https://x.com/${quoteUsername}/status/${quoteId}` : `https://x.com/${quoteUsername}`,
-          media: quoteMedia.length > 0 ? quoteMedia : undefined,
-        };
+          quote = {
+            username: quoteUsername,
+            displayName: quoteDisplayName,
+            content: quoteContent,
+            contentHtml: quoteContentHtml || undefined,
+            link: quoteId ? `https://x.com/${quoteUsername}/status/${quoteId}` : `https://x.com/${quoteUsername}`,
+            media: quoteMedia.length > 0 ? quoteMedia : undefined,
+          };
+        }
       }
 
       tweets.push({
@@ -538,6 +562,38 @@ function parseNitterHTML(html, instance, currentUser) {
   }
 
   return tweets;
+}
+
+function normalizeMediaItem(media) {
+  if (!media) {
+    return media;
+  }
+
+  return {
+    ...media,
+    url: decodeNitterUrl(media.url, 'nitter.net'),
+    thumbnail: media.thumbnail
+      ? decodeNitterUrl(media.thumbnail, 'nitter.net')
+      : undefined,
+  };
+}
+
+function normalizeTweetRecord(tweet) {
+  if (!tweet) {
+    return tweet;
+  }
+
+  return {
+    ...tweet,
+    avatar: tweet.avatar ? decodeNitterUrl(tweet.avatar, 'nitter.net') : tweet.avatar,
+    media: tweet.media?.map(normalizeMediaItem),
+    quote: tweet.quote
+      ? {
+          ...tweet.quote,
+          media: tweet.quote.media?.map(normalizeMediaItem),
+        }
+      : undefined,
+  };
 }
 
 /**
@@ -811,13 +867,15 @@ async function main() {
   for (const tweet of existingTweets) {
     // 只保留当前 followers 列表中的用户的推文
     if (currentFollowerUsernames.has(tweet.username.toLowerCase())) {
-      tweetMap.set(tweet.id, tweet);
+      const normalizedTweet = normalizeTweetRecord(tweet);
+      tweetMap.set(normalizedTweet.id, normalizedTweet);
     }
   }
 
   // 新数据覆盖旧数据
   for (const tweet of allTweets) {
-    tweetMap.set(tweet.id, tweet);
+    const normalizedTweet = normalizeTweetRecord(tweet);
+    tweetMap.set(normalizedTweet.id, normalizedTweet);
   }
 
   // 按时间排序

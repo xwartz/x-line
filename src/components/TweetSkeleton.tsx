@@ -1,33 +1,28 @@
 export function TweetSkeleton() {
   return (
-    <div className="px-4 py-6 sm:px-6 border-b border-[var(--border)] animate-pulse">
+    <div className="animate-pulse px-0 py-6 first:pt-8 sm:py-7">
       <div className="flex gap-4">
-        {/* Avatar skeleton */}
         <div className="w-12 h-12 rounded-full skeleton flex-shrink-0" />
 
         <div className="flex-1 space-y-3">
-          {/* Header skeleton */}
           <div className="flex items-center gap-2 flex-wrap">
-            <div className="h-5 w-24 skeleton rounded" />
-            <div className="h-5 w-20 skeleton rounded" />
-            <div className="h-5 w-16 skeleton rounded" />
+            <div className="h-5 w-24 skeleton" />
+            <div className="h-5 w-20 skeleton" />
+            <div className="h-5 w-16 skeleton" />
           </div>
 
-          {/* Content skeleton */}
           <div className="space-y-2">
-            <div className="h-4 w-full skeleton rounded" />
-            <div className="h-4 w-full skeleton rounded" />
-            <div className="h-4 w-3/4 skeleton rounded" />
+            <div className="h-4 w-full skeleton" />
+            <div className="h-4 w-full skeleton" />
+            <div className="h-4 w-3/4 skeleton" />
           </div>
 
-          {/* Media skeleton (optional) */}
-          <div className="h-48 w-full skeleton rounded-2xl" />
+          <div className="h-48 w-full skeleton" />
 
-          {/* Actions skeleton */}
           <div className="flex items-center gap-8 mt-4">
-            <div className="h-4 w-12 skeleton rounded" />
-            <div className="h-4 w-12 skeleton rounded" />
-            <div className="h-4 w-12 skeleton rounded" />
+            <div className="h-4 w-12 skeleton" />
+            <div className="h-4 w-12 skeleton" />
+            <div className="h-4 w-12 skeleton" />
           </div>
         </div>
       </div>

@@ -21,25 +21,26 @@ export function Button({
   return (
     <button
       className={clsx(
-        'inline-flex items-center justify-center rounded-full font-medium transition-colors',
-        'focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[var(--accent)]',
+        'inline-flex items-center justify-center border [font-family:var(--font-sans)] font-bold uppercase tracking-[0.16em] transition-colors',
+        'focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[var(--foreground)]',
         'disabled:opacity-50 disabled:cursor-not-allowed',
         {
-          'bg-[var(--accent)] text-white hover:bg-[var(--accent)]/90':
+          'border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)] hover:bg-[var(--muted)] hover:text-[var(--foreground)]':
             variant === 'primary',
-          'bg-[var(--muted)] text-[var(--foreground)] hover:bg-[var(--border)]':
+          'border-[var(--foreground)] bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--muted)]':
             variant === 'secondary',
-          'bg-transparent hover:bg-[var(--muted)]': variant === 'ghost',
-          'px-3 py-1.5 text-sm': size === 'sm',
-          'px-4 py-2 text-base': size === 'md',
-          'px-6 py-3 text-lg': size === 'lg',
+          'border-[var(--border)] bg-transparent text-[var(--muted-foreground)] hover:bg-[var(--muted)] hover:text-[var(--foreground)]':
+            variant === 'ghost',
+          'h-10 px-4 text-[11px]': size === 'sm',
+          'h-11 px-5 text-xs': size === 'md',
+          'h-12 px-6 text-sm': size === 'lg',
         },
         className
       )}
       disabled={disabled || loading}
       {...props}
     >
-      {loading && <Loader2 className="w-4 h-4 mr-2 animate-spin" />}
+      {loading && <Loader2 className="mr-2 h-4 w-4 animate-spin" />}
       {children}
     </button>
   )

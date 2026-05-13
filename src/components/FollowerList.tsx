@@ -1,5 +1,6 @@
-import { useMemo } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { clsx } from 'clsx'
+import { Filter, X } from 'lucide-react'
 import { Avatar } from './Avatar'
 import type { Follower, Tweet } from '../types'
 
@@ -16,7 +17,38 @@ export function FollowerList({
   onToggleUser,
   tweets = [],
 }: FollowerListProps) {
+  const [isMobileDrawerOpen, setIsMobileDrawerOpen] = useState(false)
   const isAllSelected = selectedUsers.length === 0
+  const selectedCount = isAllSelected ? followers.length : selectedUsers.length
+
+  useEffect(() => {
+    if (!isMobileDrawerOpen) {
+      return
+    }
+
+    const previousBodyOverflow = document.body.style.overflow
+    const previousHtmlOverflow = document.documentElement.style.overflow
+
+    document.body.style.overflow = 'hidden'
+    document.documentElement.style.overflow = 'hidden'
+
+    return () => {
+      document.body.style.overflow = previousBodyOverflow
+      document.documentElement.style.overflow = previousHtmlOverflow
+    }
+  }, [isMobileDrawerOpen])
+
+  useEffect(() => {
+    const mediaQuery = window.matchMedia('(min-width: 1280px)')
+    const handleChange = (event: MediaQueryListEvent) => {
+      if (event.matches) {
+        setIsMobileDrawerOpen(false)
+      }
+    }
+
+    mediaQuery.addEventListener('change', handleChange)
+    return () => mediaQuery.removeEventListener('change', handleChange)
+  }, [])
 
   // 从推文数据中提取每个关注者的最新头像和显示名称
   const followerData = useMemo(() => {
@@ -71,41 +103,63 @@ export function FollowerList({
 
   return (
     <div>
-      {/* Desktop: Title */}
-      <h3 className="hidden lg:block text-sm font-semibold text-[var(--muted-foreground)] mb-4 uppercase tracking-wide lg:mb-6">
-        关注者
-      </h3>
-      {/* Desktop: Vertical layout */}
-      <div className="hidden lg:flex flex-col gap-2">
-        {/* All button */}
+      <div className="hidden border-b border-[var(--border)] pb-4 xl:block">
+        <div>
+          <h3 className="[font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.18em] text-[var(--muted-foreground)]">
+            Sources
+          </h3>
+          <p className="mt-2 [font-family:var(--font-serif)] text-[18px] leading-7 text-[var(--foreground)]">
+            按作者筛选时间线
+          </p>
+        </div>
+      </div>
+
+      <div className="mt-3 hidden [font-family:var(--font-sans)] text-xs uppercase tracking-[0.14em] text-[var(--muted-foreground)] xl:block">
+        {isAllSelected ? `全部 ${selectedCount}` : `已选 ${selectedCount}`}
+      </div>
+
+      <div className="hidden xl:block border-y border-[var(--border)] mt-4">
         <button
           onClick={() => onToggleUser('')}
           className={clsx(
-            'flex items-center gap-3 p-3 rounded-xl transition-all duration-150 text-left w-full',
+            'flex w-full items-center gap-3 border-b border-[var(--border)] px-3 py-3 text-left transition-colors duration-150',
             isAllSelected
-              ? 'bg-[var(--accent)]/10 text-[var(--accent)]'
-              : 'hover:bg-[var(--muted)] text-[var(--muted-foreground)]'
+              ? 'bg-[var(--foreground)] text-[var(--background)]'
+              : 'bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--muted)]'
           )}
         >
           <div
             className={clsx(
-              'w-10 h-10 rounded-full flex items-center justify-center text-sm font-semibold transition-all duration-150 flex-shrink-0',
+              'flex h-11 w-11 flex-shrink-0 items-center justify-center border text-xs font-bold uppercase tracking-[0.16em] transition-colors duration-150 [font-family:var(--font-sans)]',
               isAllSelected
-                ? 'bg-[var(--accent)] text-white shadow-sm'
-                : 'bg-[var(--muted)] text-[var(--muted-foreground)]'
+                ? 'border-[var(--background)] text-[var(--background)]'
+                : 'border-[var(--border)] text-[var(--muted-foreground)]'
             )}
           >
             全
           </div>
-          <span className="text-sm font-medium">全部</span>
+          <div className="min-w-0 flex-1">
+            <div className="[font-family:var(--font-sans)] text-sm font-bold uppercase tracking-[0.12em]">
+              全部
+            </div>
+            <div
+              className={clsx(
+                '[font-family:var(--font-sans)] text-xs',
+                isAllSelected
+                  ? 'text-white/72'
+                  : 'text-[var(--muted-foreground)]'
+              )}
+            >
+              显示所有关注者的推文
+            </div>
+          </div>
           {isAllSelected && (
-            <span className="ml-auto text-xs text-[var(--accent)]">
+            <span className="ml-auto [font-family:var(--font-sans)] text-xs font-bold uppercase tracking-[0.14em] text-[var(--background)]">
               {followers.length}
             </span>
           )}
         </button>
 
-        {/* User avatars */}
         {followers.map(follower => {
           const isSelected = selectedUsers.includes(follower.username)
           return (
@@ -113,17 +167,13 @@ export function FollowerList({
               key={follower.username}
               onClick={() => onToggleUser(follower.username)}
               className={clsx(
-                'flex items-center gap-3 p-3 rounded-xl transition-all duration-150 text-left w-full',
-                isSelected ? 'bg-[var(--accent)]/10' : 'hover:bg-[var(--muted)]'
+                'flex w-full items-center gap-3 border-b border-[var(--border)] px-3 py-3 text-left transition-colors duration-150 last:border-b-0',
+                isSelected
+                  ? 'bg-[var(--foreground)] text-[var(--background)]'
+                  : 'bg-[var(--background)] hover:bg-[var(--muted)]'
               )}
             >
-              <div
-                className={clsx(
-                  'rounded-full transition-all duration-150 flex-shrink-0',
-                  isSelected &&
-                    'ring-2 ring-[var(--accent)] ring-offset-2 ring-offset-[var(--background)] shadow-sm'
-                )}
-              >
+              <div className="flex-shrink-0">
                 <Avatar
                   src={getFollowerAvatar(follower)}
                   alt={follower.displayName || follower.username}
@@ -131,87 +181,181 @@ export function FollowerList({
                 />
               </div>
               <div className="flex-1 min-w-0">
-                <div className="text-sm font-medium truncate">
+                <div className="truncate [font-family:var(--font-sans)] text-sm font-bold uppercase tracking-[0.1em]">
                   {getFollowerDisplayName(follower)}
                 </div>
-                <div className="text-xs text-[var(--muted-foreground)] truncate">
+                <div
+                  className={clsx(
+                    'truncate [font-family:var(--font-sans)] text-xs',
+                    isSelected
+                      ? 'text-white/72'
+                      : 'text-[var(--muted-foreground)]'
+                  )}
+                >
                   @{follower.username}
                 </div>
               </div>
               {isSelected && (
-                <span className="text-xs text-[var(--accent)] flex-shrink-0 font-semibold">
-                  ✓
+                <span className="flex-shrink-0 [font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.14em] text-[var(--background)]">
+                  已选
                 </span>
               )}
             </button>
           )
         })}
       </div>
-      {/* Mobile: Compact horizontal scroll layout */}
-      <div className="flex gap-1.5 overflow-x-auto scrollbar-hide pb-2 -mx-2 px-2 lg:hidden snap-x snap-mandatory">
-        {/* All button */}
+
+      <div className="xl:hidden">
         <button
-          onClick={() => onToggleUser('')}
-          className={clsx(
-            'flex flex-col items-center gap-1 min-w-[52px] p-1.5 rounded-lg transition-all duration-150 flex-shrink-0 snap-start active:scale-95',
-            isAllSelected
-              ? 'bg-[var(--accent)]/10 text-[var(--accent)]'
-              : 'hover:bg-[var(--muted)] active:bg-[var(--muted)] text-[var(--muted-foreground)]'
-          )}
+          type="button"
+          onClick={() => setIsMobileDrawerOpen(true)}
+          className="fixed bottom-4 left-4 z-40 inline-flex h-12 items-center gap-2 border border-[var(--foreground)] bg-[var(--background)] px-4 [font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.16em] text-[var(--foreground)] shadow-[0_10px_30px_rgba(0,0,0,0.08)] transition-colors duration-150 hover:bg-[var(--muted)]"
+          aria-label="打开作者筛选"
         >
-          <div
-            className={clsx(
-              'w-9 h-9 rounded-full flex items-center justify-center text-xs font-semibold transition-all duration-150 flex-shrink-0',
-              isAllSelected
-                ? 'bg-[var(--accent)] text-white shadow-sm'
-                : 'bg-[var(--muted)] text-[var(--muted-foreground)]'
-            )}
-          >
-            全
-          </div>
-          <span className="text-[9px] font-medium truncate w-full text-center leading-tight">
-            全部
+          <Filter className="h-4 w-4" />
+          <span>来源</span>
+          <span className="border-l border-[var(--border)] pl-2 text-[var(--muted-foreground)]">
+            {isAllSelected ? `全部 ${selectedCount}` : `已选 ${selectedCount}`}
           </span>
         </button>
 
-        {/* User avatars */}
-        {followers.map(follower => {
-          const isSelected = selectedUsers.includes(follower.username)
-          return (
+        {isMobileDrawerOpen && (
+          <>
             <button
-              key={follower.username}
-              onClick={() => onToggleUser(follower.username)}
-              className={clsx(
-                'flex flex-col items-center gap-1 min-w-[52px] p-1.5 rounded-lg transition-all duration-150 flex-shrink-0 snap-start active:scale-95',
-                isSelected
-                  ? 'bg-[var(--accent)]/10'
-                  : 'hover:bg-[var(--muted)] active:bg-[var(--muted)]'
-              )}
-            >
-              <div
-                className={clsx(
-                  'flex-shrink-0 transition-all duration-150 inline-flex items-center justify-center',
-                  isSelected &&
-                    'ring-2 ring-[var(--accent)] ring-offset-1 ring-offset-[var(--background)] shadow-sm rounded-full'
-                )}
-              >
-                <Avatar
-                  src={getFollowerAvatar(follower)}
-                  alt={follower.displayName || follower.username}
-                  size="sm"
-                />
+              type="button"
+              className="fixed inset-0 z-50 bg-black/35 backdrop-blur-[2px]"
+              onClick={() => setIsMobileDrawerOpen(false)}
+              aria-label="关闭作者筛选"
+            />
+
+            <div className="fixed inset-x-0 bottom-0 z-[60] max-h-[78vh] overflow-hidden border-t border-[var(--foreground)] bg-[var(--background)]">
+              <div className="mx-auto mt-3 h-1.5 w-12 bg-[var(--border)]" />
+
+              <div className="flex items-start justify-between gap-4 border-b border-[var(--border)] px-4 pb-4 pt-4">
+                <div>
+                  <div className="[font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.16em] text-[var(--muted-foreground)]">
+                    Sources
+                  </div>
+                  <div className="mt-2 [font-family:var(--font-serif)] text-[22px] leading-none text-[var(--foreground)]">
+                    筛选作者
+                  </div>
+                </div>
+
+                <button
+                  type="button"
+                  onClick={() => setIsMobileDrawerOpen(false)}
+                  className="flex h-10 w-10 items-center justify-center border border-[var(--border)] text-[var(--muted-foreground)] transition-colors hover:bg-[var(--muted)] hover:text-[var(--foreground)]"
+                  aria-label="关闭筛选抽屉"
+                >
+                  <X className="h-4 w-4" />
+                </button>
               </div>
-              <span className="text-[9px] font-medium truncate max-w-[52px] text-center leading-tight">
-                {getFollowerDisplayName(follower)}
-              </span>
-              {isSelected && (
-                <span className="text-[8px] text-[var(--accent)] font-bold mt-[-2px]">
-                  ✓
+
+              <div className="flex items-center justify-between gap-3 border-b border-[var(--border)] px-4 py-3 [font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.14em] text-[var(--muted-foreground)]">
+                <span>
+                  {isAllSelected
+                    ? `全部 ${selectedCount}`
+                    : `已选 ${selectedCount}`}
                 </span>
-              )}
-            </button>
-          )
-        })}
+                {!isAllSelected && (
+                  <button
+                    type="button"
+                    onClick={() => onToggleUser('')}
+                    className="text-[var(--foreground)]"
+                  >
+                    清空
+                  </button>
+                )}
+              </div>
+
+              <div className="max-h-[calc(78vh-9.5rem)] overflow-y-auto px-4 pb-6 pt-3">
+                <div className="grid gap-2">
+                  <button
+                    type="button"
+                    onClick={() => onToggleUser('')}
+                    className={clsx(
+                      'flex w-full items-center gap-3 border px-3 py-3 text-left transition-colors duration-150',
+                      isAllSelected
+                        ? 'border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)]'
+                        : 'border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--muted)]'
+                    )}
+                  >
+                    <div
+                      className={clsx(
+                        'flex h-10 w-10 flex-shrink-0 items-center justify-center border [font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.14em]',
+                        isAllSelected
+                          ? 'border-[var(--background)] text-[var(--background)]'
+                          : 'border-[var(--border)] text-[var(--muted-foreground)]'
+                      )}
+                    >
+                      全
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <div className="[font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.14em]">
+                        全部
+                      </div>
+                      <div
+                        className={clsx(
+                          'mt-1 [font-family:var(--font-sans)] text-xs',
+                          isAllSelected
+                            ? 'text-white/72'
+                            : 'text-[var(--muted-foreground)]'
+                        )}
+                      >
+                        显示所有来源
+                      </div>
+                    </div>
+                  </button>
+
+                  {followers.map(follower => {
+                    const isSelected = selectedUsers.includes(follower.username)
+                    return (
+                      <button
+                        key={follower.username}
+                        type="button"
+                        onClick={() => onToggleUser(follower.username)}
+                        className={clsx(
+                          'flex w-full items-center gap-3 border px-3 py-3 text-left transition-colors duration-150',
+                          isSelected
+                            ? 'border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)]'
+                            : 'border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--muted)]'
+                        )}
+                      >
+                        <div className="flex-shrink-0">
+                          <Avatar
+                            src={getFollowerAvatar(follower)}
+                            alt={follower.displayName || follower.username}
+                            size="sm"
+                          />
+                        </div>
+                        <div className="min-w-0 flex-1">
+                          <div className="truncate [font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.12em]">
+                            {getFollowerDisplayName(follower)}
+                          </div>
+                          <div
+                            className={clsx(
+                              'mt-1 truncate [font-family:var(--font-sans)] text-xs',
+                              isSelected
+                                ? 'text-white/72'
+                                : 'text-[var(--muted-foreground)]'
+                            )}
+                          >
+                            @{follower.username}
+                          </div>
+                        </div>
+                        {isSelected && (
+                          <span className="[font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.14em]">
+                            已选
+                          </span>
+                        )}
+                      </button>
+                    )
+                  })}
+                </div>
+              </div>
+            </div>
+          </>
+        )}
       </div>
     </div>
   )

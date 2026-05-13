@@ -49,4 +49,3 @@ export function useScrollDirection(options: UseScrollDirectionOptions = {}) {
 
   return { scrollDirection, isAtTop }
 }
-

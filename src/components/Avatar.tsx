@@ -1,4 +1,5 @@
 import { clsx } from 'clsx'
+import { SmartImage } from './SmartImage'
 
 interface AvatarProps {
   src?: string
@@ -18,7 +19,6 @@ const defaultAvatar =
 
 export function Avatar({ src, alt, size = 'md', className }: AvatarProps) {
   const dimension = sizeMap[size]
-  const imageSrc = src || defaultAvatar
 
   return (
     <div
@@ -33,20 +33,14 @@ export function Avatar({ src, alt, size = 'md', className }: AvatarProps) {
         minHeight: dimension,
       }}
     >
-      <img
-        src={imageSrc}
+      <SmartImage
+        src={src}
+        fallbackSrc={defaultAvatar}
         alt={alt}
         width={dimension}
         height={dimension}
         className="object-cover w-full h-full block"
         loading="lazy"
-        onError={e => {
-          // Fallback to default avatar if image fails to load
-          const target = e.target as HTMLImageElement
-          if (target.src !== defaultAvatar) {
-            target.src = defaultAvatar
-          }
-        }}
       />
     </div>
   )

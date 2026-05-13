@@ -39,7 +39,7 @@ export function ScrollToTop() {
   return (
     <button
       onClick={scrollToTop}
-      className="fixed bottom-8 right-8 z-50 p-3 bg-[var(--accent)] text-white rounded-full shadow-lg hover:bg-[var(--accent)]/90 transition-all duration-200 hover:scale-110 active:scale-95 focus:outline-none focus:ring-2 focus:ring-[var(--accent)] focus:ring-offset-2"
+      className="fixed bottom-5 right-4 z-50 flex h-11 w-11 items-center justify-center border border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)] transition-colors duration-200 hover:bg-[var(--muted)] hover:text-[var(--foreground)] focus:outline-none focus:ring-2 focus:ring-[var(--foreground)] focus:ring-offset-2 sm:bottom-8 sm:right-8"
       aria-label="滚动到顶部"
     >
       <ArrowUp className="w-5 h-5" />

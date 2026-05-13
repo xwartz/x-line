@@ -23,6 +23,7 @@ export interface Tweet {
     username: string
     displayName: string
     content: string
+    contentHtml?: string
     link: string
     media?: TweetMedia[]
   }
