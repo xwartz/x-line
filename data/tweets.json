@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T06:35:31.004Z",
+  "lastUpdated": "2026-05-14T07:57:57.364Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,111 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 594,
+    "newFetched": 592,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2054832139385077784",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
+      "content": "历史上，持币<90天的 #BTC: Realized Cap HODL Waves 指标 V 反往往对应熊底筑底区间右侧\n\n注：该指标 V 反说明短线玩家从净离场切换到净入场，或意味着熊牛趋势切换",
+      "contentHtml": "历史上，持币&lt;90天的 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a>: Realized Cap HODL Waves 指标 V 反往往对应熊底筑底区间右侧\n\n注：该指标 V 反说明短线玩家从净离场切换到净入场，或意味着熊牛趋势切换",
+      "publishedAt": "2026-05-14T07:52:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2054832139385077784",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIQ5c9Fb0AEPO8M.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054830247820874015",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#美股 #AI #美联储换届\n\n美联储换届到底有没有影响，是不是要暴跌？\n该不该清仓美股？\n\n最近社区讨论非常多的问题，大家手握多单生怕暴跌了\n\n我过了一下最近几次联储主席换届的纳指走势\n一起看看数据如何说话\n\n当天：      2涨2跌，平均 -1.2%\n后5日：    2涨2跌，平均 -0.1%\n后10日：  3涨1跌，平均 +2.5%\n后30日：  2涨2跌，平均 +2.4%\n后3月：    2涨2跌，平均 -5.5%\n后12月：  3涨1跌，平均 +4.8%\n\n牛市该涨就涨\n熊市该跌就跌",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23美股\">#美股</a> <a href=\"/search?f=tweets&q=%23AI\">#AI</a> <a href=\"/search?f=tweets&q=%23美联储换届\">#美联储换届</a>\n\n美联储换届到底有没有影响，是不是要暴跌？\n该不该清仓美股？\n\n最近社区讨论非常多的问题，大家手握多单生怕暴跌了\n\n我过了一下最近几次联储主席换届的纳指走势\n一起看看数据如何说话\n\n当天：      2涨2跌，平均 -1.2%\n后5日：    2涨2跌，平均 -0.1%\n后10日：  3涨1跌，平均 +2.5%\n后30日：  2涨2跌，平均 +2.4%\n后3月：    2涨2跌，平均 -5.5%\n后12月：  3涨1跌，平均 +4.8%\n\n牛市该涨就涨\n熊市该跌就跌",
+      "publishedAt": "2026-05-14T07:44:00.000Z",
+      "link": "https://x.com/dongbimao/status/2054830247820874015",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIQ4J1nWwAAaaWk.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054819878734106792",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://pbs.twimg.com/profile_images/1842438817397297152/0WZDqXBE_bigger.jpg",
+      "content": "reuters.com/business/retail-…",
+      "contentHtml": "<a href=\"https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/\">reuters.com/business/retail-…</a>",
+      "publishedAt": "2026-05-14T07:03:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2054819878734106792",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054819687851335832",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://pbs.twimg.com/profile_images/1842438817397297152/0WZDqXBE_bigger.jpg",
+      "content": "We all know H200s have been \"stealth-shipping\" into China for months in big size, will be interesting to see watch how Nvidia’s sales numbers after this 👀\n-----\nExclusive: US clears H200 chip sales to 10 China firms (Alibaba, Tencent, Bytedance, JD, Meituan, Baidu, BYD, Lenovo etc with a cap up to 75,000) as Nvidia CEO looks for breakthrough \n1 hour ago By Reuters",
+      "contentHtml": "We all know H200s have been \"stealth-shipping\" into China for months in big size, will be interesting to see watch how Nvidia’s sales numbers after this 👀\n-----\nExclusive: US clears H200 chip sales to 10 China firms (Alibaba, Tencent, Bytedance, JD, Meituan, Baidu, BYD, Lenovo etc with a cap up to 75,000) as Nvidia CEO looks for breakthrough \n1 hour ago By Reuters",
+      "publishedAt": "2026-05-14T07:02:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2054819687851335832",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2054815723474849877",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "多谢邀请，晚上跟两位老师一起聊聊今晚IPO大热的CBRS",
+      "contentHtml": "多谢邀请，晚上跟两位老师一起聊聊今晚IPO大热的CBRS",
+      "publishedAt": "2026-05-14T06:46:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2054815723474849877",
+      "quote": {
+        "username": "StableStock_CN",
+        "displayName": "StableStock_華語",
+        "content": "Cerebras IPO 之夜｜美股盛宴的臨界點\n\n5 月 14 日,英偉達最強勁敵 Cerebras 掛牌上市 —— 衝擊 2026 年美國最大 IPO\n\n片上記憶體達 GPU 的 880 倍。OpenAI 200 億美元訂單。2030 年營收看至 50 億美元,華爾街高度關注\n\n明晚 8 點,跟 @qinbafrank 、@iamai_omni 、@ZixiStablestock 一起聊:\n\n🎯 Cerebras 拆解、AI 晶片格局\n🎯 現在是泡沫,還是價值未盡?\n🎯 我們站在週期的哪個位置?\n\n📅 5 月 14 日 (周四) 20:00 (UTC+8)\n\n📍 X Space｜nitter.net/i/spaces/1lJQRvP…\n\n是泡沫的尾聲,還是新故事的起點?",
+        "contentHtml": "Cerebras IPO 之夜｜美股盛宴的臨界點\n\n5 月 14 日,英偉達最強勁敵 Cerebras 掛牌上市 —— 衝擊 2026 年美國最大 IPO\n\n片上記憶體達 GPU 的 880 倍。OpenAI 200 億美元訂單。2030 年營收看至 50 億美元,華爾街高度關注\n\n明晚 8 點,跟 <a href=\"/qinbafrank\" title=\"qinbafrank\">@qinbafrank</a> 、<a href=\"/iamai_omni\" title=\"✧ 𝕀𝔸𝕄𝔸𝕀 ✧\">@iamai_omni</a> 、<a href=\"/ZixiStablestock\" title=\"Zixi@We're building Stablestock\">@ZixiStablestock</a> 一起聊:\n\n🎯 Cerebras 拆解、AI 晶片格局\n🎯 現在是泡沫,還是價值未盡?\n🎯 我們站在週期的哪個位置?\n\n📅 5 月 14 日 (周四) 20:00 (UTC+8)\n\n📍 X Space｜<a href=\"https://nitter.net/i/spaces/1lJQRvPlZrkxE\">nitter.net/i/spaces/1lJQRvP…</a>\n\n是泡沫的尾聲,還是新故事的起點?",
+        "link": "https://x.com/StableStock_CN/status/2054537338425078101",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIMutTIaUAE66go.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2054795845745393851",
       "username": "Bitfatty",
@@ -11710,91 +11810,6 @@
           "url": "https://pbs.twimg.com/media/HHpTJDwXQAg6Wai.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052038753141834031",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "这个世界有多离谱，你写小说都不敢这么写\n偏偏事实就这么发生！\n#老鼠仓",
-      "contentHtml": "这个世界有多离谱，你写小说都不敢这么写\n偏偏事实就这么发生！\n<a href=\"/search?f=tweets&q=%23老鼠仓\">#老鼠仓</a>",
-      "publishedAt": "2026-05-06T14:52:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2052038753141834031",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHpOXcobEAAlq72.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHpOXcwbsAA91oa.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052037193900888422",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "怎么还没暴跌？",
-      "contentHtml": "怎么还没暴跌？",
-      "publishedAt": "2026-05-06T14:46:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2052037193900888422",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052035864859926864",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "What I am looking at next for $BTC \n\nLet me know if I should post more of these on X.",
-      "contentHtml": "What I am looking at next for <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nLet me know if I should post more of these on X.",
-      "publishedAt": "2026-05-06T14:40:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2052035864859926864",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052032458862862741",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "芯片高开低走，受战争影响的标的开始接力，涨幅在扩散，好事\n昨天视频没做，太累了，今天补上",
-      "contentHtml": "芯片高开低走，受战争影响的标的开始接力，涨幅在扩散，好事\n昨天视频没做，太累了，今天补上",
-      "publishedAt": "2026-05-06T14:27:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2052032458862862741",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052031764840022108",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
-      "content": "nitter.net/i/spaces/1wxWjaWLbmZJQ",
-      "contentHtml": "<a href=\"https://nitter.net/i/spaces/1wxWjaWLbmZJQ\">nitter.net/i/spaces/1wxWjaWLbmZJQ</a>",
-      "publishedAt": "2026-05-06T14:24:00.000Z",
-      "link": "https://x.com/coolish/status/2052031764840022108",
       "stats": {
         "replies": 0,
         "retweets": 0,
