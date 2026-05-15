@@ -361,7 +361,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
   const quoteLabel = tweet.retweet ? '转评原帖' : '引用推文'
 
   return (
-    <article className="animate-fade-in card-hover relative px-0 py-4 first:pt-6 sm:py-7">
+    <article className="animate-fade-in card-hover relative px-2 py-4 first:pt-6 sm:py-7">
       {tweet.retweet && (
         <div className="mb-3 flex items-center gap-1.5 [font-family:var(--font-sans)] text-[10px] font-bold tracking-[0.16em] text-[var(--muted-foreground)] sm:mb-4 sm:text-[11px]">
           <Repeat2 className="h-3 w-3 sm:h-3.5 sm:w-3.5" />
