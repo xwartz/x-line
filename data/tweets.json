@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T23:20:48.873Z",
+  "lastUpdated": "2026-05-15T23:48:19.248Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,9 +100,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 567,
-    "successUsers": 28,
-    "failedUsers": 2
+    "newFetched": 589,
+    "successUsers": 29,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -9318,6 +9318,10 @@
           "url": "https://pbs.twimg.com/media/HH8O76SaIAAqXXh.jpg"
         }
       ],
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "quote": {
         "username": "Murphychen888",
         "displayName": "Murphy",
