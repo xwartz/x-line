@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T17:05:25.773Z",
+  "lastUpdated": "2026-05-15T18:02:56.347Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,48 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 587,
+    "newFetched": 589,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2055342987396198850",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "皮衣内有水冷🤣",
+      "contentHtml": "皮衣内有水冷🤣",
+      "publishedAt": "2026-05-15T17:42:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2055342987396198850",
+      "quote": {
+        "username": "AirdropAlchemis",
+        "displayName": "炼金叔叔",
+        "content": "黄仁勋不愧是做显卡的，散热够强，北京今天30度，哥们依旧穿皮衣👍",
+        "contentHtml": "黄仁勋不愧是做显卡的，散热够强，北京今天30度，哥们依旧穿皮衣👍",
+        "link": "https://x.com/AirdropAlchemis/status/2055201919325589518"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055338270628651427",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "码了很长一段字，不小心丢失了，稍微简单的复述下。\n美股的核心是基本面大于宏观：EPS > PE\n在基本面的大框架下，情绪面太高，宏观的风险就会凸显\n08年后市场的假设是低利率利好美股。但其实08年以前，养老基金60/40的股债配置就是为了彼此之间对冲：经济好，利率涨，美债跌，美股涨。70，80年代的高利率时代，只要企业能够创造更高的价值（远大于融资成本的上升），美股上涨的动力会大于宏观带来的阻碍。",
+      "contentHtml": "码了很长一段字，不小心丢失了，稍微简单的复述下。\n美股的核心是基本面大于宏观：EPS &gt; PE\n在基本面的大框架下，情绪面太高，宏观的风险就会凸显\n08年后市场的假设是低利率利好美股。但其实08年以前，养老基金60/40的股债配置就是为了彼此之间对冲：经济好，利率涨，美债跌，美股涨。70，80年代的高利率时代，只要企业能够创造更高的价值（远大于融资成本的上升），美股上涨的动力会大于宏观带来的阻碍。",
+      "publishedAt": "2026-05-15T17:23:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2055338270628651427",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2055333676066525427",
       "username": "TJ_Research",
@@ -5839,31 +5876,6 @@
             "url": "https://pbs.twimg.com/media/HICs_u_acAAC6bG.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054162077061926913",
-      "username": "LinQingV",
-      "displayName": "Macro_Lin ｜ 市场观察员",
-      "avatar": "https://pbs.twimg.com/profile_images/1877702741306507264/0CbIskr3_bigger.jpg",
-      "content": "聊一下Intel的EMIB-T，这个技术可能在未来两年改变先进封装的竞争格局。\n\n先说背景。AI加速器的封装面积越来越大，一颗芯片装不下的计算和内存，需要把多颗die封装在一起协同工作。当封装面积超过单次光刻曝光的极限，就需要用”局部硅桥”来连接相邻的die。这个思路，TSMC和Intel各自走出了不同的实现路径。\n\nTSMC的CoWoS-L，L代表LSI（Local Silicon Interconnect），用局部硅桥做相邻die之间的高密度互连，全局布线靠InFO RDL扇出层完成，整个工艺在圆形晶圆载板上加工。Intel的EMIB，同样是局部硅桥，但嵌入的是矩形有机基板，全局布线靠基板上的金属层完成。两者底层思路相近，但制造平台和全局布线的密度存在本质差异。\n\n早期EMIB有一个结构性短板。硅桥里没有垂直通孔，电源从基板底部送不穿桥，只能绕路。偏偏最需要电的PHY电路就坐在桥的正上方（信号线越短越好，所以PHY放在die最边缘），电源反而要从die中心横向传过来。路径长，压降大，瞬态响应差。HBM3e时代还能应对，到HBM4接口宽度翻倍、pin速率推到6.4Gbps以上，这条供电路径就成了瓶颈。\n\nEMIB-T就是解这个问题的。T代表TSV，在桥里打铜通孔，电源从基板直接垂直穿过桥送到上面的PHY。同时桥里集成MIM电容和接地铜网格，就地稳压滤噪。供电路径从横向绕行变成垂直直连。\n\n这个改动释放了两层约束。第一层是供电能力，可以支撑HBM4/4e级别的功耗需求。第二层是封装面积上限，Intel目标是2026年做到120×120mm封装、集成8倍光罩面积的硅，2028年推进到120×180mm、超过12倍光罩。\n\n跟CoWoS-L的竞争，核心差异在制造平台。CoWoS-L在圆形晶圆载板上完成全部工艺，面积越大，晶圆边缘的浪费越大，RDL层的均匀性和翘曲控制难度也非线性上升。EMIB-T在矩形有机基板上多放桥，每个桥的工艺独立重复，整体良率虽然也随桥数量指数衰减，但衰减速率稳定可控。封装越大，EMIB-T在成本上的优势越明显，良率的可控性也越高。反过来说，CoWoS-L的InFO RDL层提供了更高密度的全局布线和电源分配能力，加上NVIDIA等客户的设计生态已经深度适配CoWoS工艺，迁移成本极高，这是CoWoS短期内不可替代的护城河。\n\n目前的状态是，标准EMIB量产良率90%，Intel表示已接近传统FCBGA封装水平。EMIB-T验证良率也到了90%，但这是小批量数据，量产目标98%。郭明錤的评价很准确，从90%到98%比从零到90%难得多。2026年EMIB-T进产线验证，2027年可能出现第一批产品（Jaguar Shores），Google TPU等外部客户也在评估EMIB-T方案，2028年才是真正的放量年。当然，Intel近几年的产品节奏有过多次延期，这个时间线能否如期兑现本身就是一个需要追踪的变量。\n\n对TSMC的影响，我的判断是分流，不是替代。NVIDIA跟TSMC的全栈绑定短期内动不了，但Google、Meta这些做自研AI ASIC的客户，以及Apple等寻求封装供应链多元化的厂商，封装面积需求大、成本敏感、又有分散供应链的动力，EMIB-T给了它们一个真实可用的备选。Bernstein估算，EMIB平台封装每颗芯片成本在几百美元量级，而Rubin级别加速器上CoWoS-L封装成本约900到1000美元。即便只从边缘蚕食，打破CoWoS垄断定价权这件事本身，对整个产业链的影响也远超实际转移的份额。\n\nSK hynix这两天也传出在跟Intel合作研发EMIB封装。HBM供应商主动拥抱EMIB生态，说明连它们自己都不想被CoWoS产能卡住出货节奏。\n\nIntel的EMIB-T，正在把先进封装的竞争从”谁的技术更好”转向”谁能在超大面积上同时控住成本和良率”。从目前的市场叙事来看，EMIB-T的结构性优势应该还没被充分讨论。",
-      "contentHtml": "聊一下Intel的EMIB-T，这个技术可能在未来两年改变先进封装的竞争格局。\n\n先说背景。AI加速器的封装面积越来越大，一颗芯片装不下的计算和内存，需要把多颗die封装在一起协同工作。当封装面积超过单次光刻曝光的极限，就需要用”局部硅桥”来连接相邻的die。这个思路，TSMC和Intel各自走出了不同的实现路径。\n\nTSMC的CoWoS-L，L代表LSI（Local Silicon Interconnect），用局部硅桥做相邻die之间的高密度互连，全局布线靠InFO RDL扇出层完成，整个工艺在圆形晶圆载板上加工。Intel的EMIB，同样是局部硅桥，但嵌入的是矩形有机基板，全局布线靠基板上的金属层完成。两者底层思路相近，但制造平台和全局布线的密度存在本质差异。\n\n早期EMIB有一个结构性短板。硅桥里没有垂直通孔，电源从基板底部送不穿桥，只能绕路。偏偏最需要电的PHY电路就坐在桥的正上方（信号线越短越好，所以PHY放在die最边缘），电源反而要从die中心横向传过来。路径长，压降大，瞬态响应差。HBM3e时代还能应对，到HBM4接口宽度翻倍、pin速率推到6.4Gbps以上，这条供电路径就成了瓶颈。\n\nEMIB-T就是解这个问题的。T代表TSV，在桥里打铜通孔，电源从基板直接垂直穿过桥送到上面的PHY。同时桥里集成MIM电容和接地铜网格，就地稳压滤噪。供电路径从横向绕行变成垂直直连。\n\n这个改动释放了两层约束。第一层是供电能力，可以支撑HBM4/4e级别的功耗需求。第二层是封装面积上限，Intel目标是2026年做到120×120mm封装、集成8倍光罩面积的硅，2028年推进到120×180mm、超过12倍光罩。\n\n跟CoWoS-L的竞争，核心差异在制造平台。CoWoS-L在圆形晶圆载板上完成全部工艺，面积越大，晶圆边缘的浪费越大，RDL层的均匀性和翘曲控制难度也非线性上升。EMIB-T在矩形有机基板上多放桥，每个桥的工艺独立重复，整体良率虽然也随桥数量指数衰减，但衰减速率稳定可控。封装越大，EMIB-T在成本上的优势越明显，良率的可控性也越高。反过来说，CoWoS-L的InFO RDL层提供了更高密度的全局布线和电源分配能力，加上NVIDIA等客户的设计生态已经深度适配CoWoS工艺，迁移成本极高，这是CoWoS短期内不可替代的护城河。\n\n目前的状态是，标准EMIB量产良率90%，Intel表示已接近传统FCBGA封装水平。EMIB-T验证良率也到了90%，但这是小批量数据，量产目标98%。郭明錤的评价很准确，从90%到98%比从零到90%难得多。2026年EMIB-T进产线验证，2027年可能出现第一批产品（Jaguar Shores），Google TPU等外部客户也在评估EMIB-T方案，2028年才是真正的放量年。当然，Intel近几年的产品节奏有过多次延期，这个时间线能否如期兑现本身就是一个需要追踪的变量。\n\n对TSMC的影响，我的判断是分流，不是替代。NVIDIA跟TSMC的全栈绑定短期内动不了，但Google、Meta这些做自研AI ASIC的客户，以及Apple等寻求封装供应链多元化的厂商，封装面积需求大、成本敏感、又有分散供应链的动力，EMIB-T给了它们一个真实可用的备选。Bernstein估算，EMIB平台封装每颗芯片成本在几百美元量级，而Rubin级别加速器上CoWoS-L封装成本约900到1000美元。即便只从边缘蚕食，打破CoWoS垄断定价权这件事本身，对整个产业链的影响也远超实际转移的份额。\n\nSK hynix这两天也传出在跟Intel合作研发EMIB封装。HBM供应商主动拥抱EMIB生态，说明连它们自己都不想被CoWoS产能卡住出货节奏。\n\nIntel的EMIB-T，正在把先进封装的竞争从”谁的技术更好”转向”谁能在超大面积上同时控住成本和良率”。从目前的市场叙事来看，EMIB-T的结构性优势应该还没被充分讨论。",
-      "publishedAt": "2026-05-12T11:29:00.000Z",
-      "link": "https://x.com/LinQingV/status/2054162077061926913",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIHZhG3aMAAfD4j.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
       },
       "stats": {
         "replies": 0,
@@ -11703,43 +11715,6 @@
           "url": "https://pbs.twimg.com/media/HHyBUD8bMAAP-Ra.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052656792073867766",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "中外媒体都报道了大基金（国家集成电路产业投资基金）正与深度求索（DeepSeek）洽谈主导其首轮外部融资，投后估值有望达到450亿美元左右。看来DeepSeek要成为国家队",
-      "contentHtml": "中外媒体都报道了大基金（国家集成电路产业投资基金）正与深度求索（DeepSeek）洽谈主导其首轮外部融资，投后估值有望达到450亿美元左右。看来DeepSeek要成为国家队",
-      "publishedAt": "2026-05-08T07:48:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2052656792073867766",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHyAeHBakAAxJLw.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHyAeHCbwAA8STa.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "100亿美金估值的DeepSeek是不是有点香？只有OpenAI估值的1/90，Authropic估值的1/60，机构们应该会抢破头。",
-        "link": "https://x.com/qinbafrank/status/2045156366881583604",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HGHa3vxbQAAzW2R.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
