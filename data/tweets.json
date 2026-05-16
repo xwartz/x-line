@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T08:15:28.082Z",
+  "lastUpdated": "2026-05-16T09:06:22.343Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,132 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 588,
+    "newFetched": 587,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2055573789182996509",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
+      "content": "本来出远门还担心，\n就算有 Codex 手机版，但家里电脑\n弹出 1Password 授权窗口时怎么办？\n\n结果配合 Computer Use，\n只要在手机版上讲几句话，\n它帮我设置服务/注册账号、把账号密码存到1Password，还把相关说明写到备注栏里清清楚楚一气呵成，感觉比Tailscale+远程桌面/SSH更省心方便且安全。\n\n顺便强调一个点，\n只要你在用 AI Agent \n无论是龙虾爱马仕还是克劳德Codex，\n一定要配合 1Password 一起用，\n简直解放了人的注意力、肉身自由。\n\n安全这件事，就像人的健康一样，\n只有遇到过问题的人，才会开始重视。\n大部分人默认 越安全 = 越麻烦，\n大多是因为还在用原始的方式，\n管理账号密码、API key，信用卡信息等等。\n\n我以前用LastPass，但迁移到1Password后，\n才发现以前用的 LastPass 是什么玩意啊。\n\n之所以特地提这点是因为我发现，\n1Password 在普通 AI 用户人群中，\n配合 Agent 去用的使用率似乎很低，\n不少人已经知道，\n给 Agent 一套它自己的邮箱账号等等啥的，\n但随着账号密码越来越多，却不知道，\n你和Agent的账号密码，\n怎么优雅管理，怎么设置父子权限分离，\n是既方便又安全的最佳实践。\n\n甚至我估计，\n哪怕10个已经在用 1Password 的人里，\n知道 1Password Service Account 功能的人，\n可能都不超过2个，因为这新功能不明显，\n设置起来也有一丁点繁琐，但弄好后，\n就是一劳永逸的优雅复利。\n\n因为在刚出远门的路上，\n所以只提一下来抛砖引玉，\n期待各位教程大神，\n有人能来接住这个功德无量的输出机会。",
+      "contentHtml": "本来出远门还担心，\n就算有 Codex 手机版，但家里电脑\n弹出 1Password 授权窗口时怎么办？\n\n结果配合 Computer Use，\n只要在手机版上讲几句话，\n它帮我设置服务/注册账号、把账号密码存到1Password，还把相关说明写到备注栏里清清楚楚一气呵成，感觉比Tailscale+远程桌面/SSH更省心方便且安全。\n\n顺便强调一个点，\n只要你在用 AI Agent \n无论是龙虾爱马仕还是克劳德Codex，\n一定要配合 1Password 一起用，\n简直解放了人的注意力、肉身自由。\n\n安全这件事，就像人的健康一样，\n只有遇到过问题的人，才会开始重视。\n大部分人默认 越安全 = 越麻烦，\n大多是因为还在用原始的方式，\n管理账号密码、API key，信用卡信息等等。\n\n我以前用LastPass，但迁移到1Password后，\n才发现以前用的 LastPass 是什么玩意啊。\n\n之所以特地提这点是因为我发现，\n1Password 在普通 AI 用户人群中，\n配合 Agent 去用的使用率似乎很低，\n不少人已经知道，\n给 Agent 一套它自己的邮箱账号等等啥的，\n但随着账号密码越来越多，却不知道，\n你和Agent的账号密码，\n怎么优雅管理，怎么设置父子权限分离，\n是既方便又安全的最佳实践。\n\n甚至我估计，\n哪怕10个已经在用 1Password 的人里，\n知道 1Password Service Account 功能的人，\n可能都不超过2个，因为这新功能不明显，\n设置起来也有一丁点繁琐，但弄好后，\n就是一劳永逸的优雅复利。\n\n因为在刚出远门的路上，\n所以只提一下来抛砖引玉，\n期待各位教程大神，\n有人能来接住这个功德无量的输出机会。",
+      "publishedAt": "2026-05-16T08:59:00.000Z",
+      "link": "https://x.com/coolish/status/2055573789182996509",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIbddb6a8AA0qDy.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIbddbJaIAAonlh.jpg"
+        }
+      ],
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "Codex 手机版 ✅\n\n可以放心出去旅游了。",
+        "contentHtml": "Codex 手机版 ✅\n\n可以放心出去旅游了。",
+        "link": "https://x.com/coolish/status/2055039289608871941",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIT3VqUbAAA5rK-.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055573144732086450",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "特朗普回来发的第一条内容就说这次访华结果非常好\n\n一图了解特朗普访华后的投资机会\n看看哪些板块会出现变化\n\n目前来说不是全面放松的开始\n是之前比较悲观的预期开始松动了\n\n对交易员来说，这就够重要了",
+      "contentHtml": "特朗普回来发的第一条内容就说这次访华结果非常好\n\n一图了解特朗普访华后的投资机会\n看看哪些板块会出现变化\n\n目前来说不是全面放松的开始\n是之前比较悲观的预期开始松动了\n\n对交易员来说，这就够重要了",
+      "publishedAt": "2026-05-16T08:56:00.000Z",
+      "link": "https://x.com/dongbimao/status/2055573144732086450",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIba-BUXoAAO6gV.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055572001209856094",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://pbs.twimg.com/profile_images/1842438817397297152/0WZDqXBE_bigger.jpg",
+      "content": "Trump's Beijing visit rerated the Taiwan weight a lot: now Taiwan is officially a very good negotiation chip for him (his own word lol) \n\nNo US president since the Chinese Civil War has negotiated Taiwan arms sales with Beijing. When a \"non-negotiable\" red line becomes a line item on the table this tells you a lot abt the new geopolitical power dynamics. Welcome to the transaction era",
+      "contentHtml": "Trump's Beijing visit rerated the Taiwan weight a lot: now Taiwan is officially a very good negotiation chip for him (his own word lol) \n\nNo US president since the Chinese Civil War has negotiated Taiwan arms sales with Beijing. When a \"non-negotiable\" red line becomes a line item on the table this tells you a lot abt the new geopolitical power dynamics. Welcome to the transaction era",
+      "publishedAt": "2026-05-16T08:52:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2055572001209856094",
+      "quote": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+        "content": "maybe im overthinking here ... The Taiwan talk just got very, very different. Trump's China visit (Mar 31) was locked before Operation Epic Furry.Then Khamenei dies 3 weeks prior.. timing seems to be too convenient to be accidental. This is a major trigger to tests Xi's response model before the visit to position pre-negotiation: China's entire asymmetric play was built on Iran escalation optionality. That card is now gone. Trump basically said \"Your Belt and Road ally is decapitated. Now let's talk about trade/Taiwan\"",
+        "contentHtml": "maybe im overthinking here ... The Taiwan talk just got very, very different. Trump's China visit (Mar 31) was locked before Operation Epic Furry.Then Khamenei dies 3 weeks prior.. timing seems to be too convenient to be accidental. This is a major trigger to tests Xi's response model before the visit to position pre-negotiation: China's entire asymmetric play was built on Iran escalation optionality. That card is now gone. Trump basically said \"Your Belt and Road ally is decapitated. Now let's talk about trade/Taiwan\"",
+        "link": "https://x.com/DoveyWan/status/2028246210361110912",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HCXEqV3aEAA28RH.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055568839291896011",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "有大神出手了！建仓以太🤨\n\n曾在 2016 年以均价 $3.45 建仓 11004 枚 $ETH 并获利 3038 万美金的聪明钱，时隔一年再次建仓 ETH，1 小时前在链上以均价 $2211.49 买入 647.137 ETH，价值 143 万美元\n\n目前他仍有 1419 万枚 USDC 可用，看看后续是否会加仓吧；钱包地址 intel.arkm.com/explorer/addr…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "contentHtml": "有大神出手了！建仓以太🤨\n\n曾在 2016 年以均价 $3.45 建仓 11004 枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 并获利 3038 万美金的聪明钱，时隔一年再次建仓 ETH，1 小时前在链上以均价 $2211.49 买入 647.137 ETH，价值 143 万美元\n\n目前他仍有 1419 万枚 USDC 可用，看看后续是否会加仓吧；钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x3cddC25721dB851BFaD5c87F812051278A8F0a40\">intel.arkm.com/explorer/addr…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "publishedAt": "2026-05-16T08:39:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2055568839291896011",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIbY9QIaEAALvvn.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "ETH 突破 2800 美金🚀 2016 年以均价 $3.45 建仓 11004 枚 ETH 的远古巨鲸已清仓，获利 3038 万美金！\n\n该巨鲸过去 3 小时在链上以均价 $2764 抛售了所有的 WETH，在坚定持有 8 年后止盈离场；前有 ICO 巨鲸抛售，后有远古巨鲸苏醒，大佬们都不看好后市吗？🤔\n\n钱包地址 platform.arkhamintelligence.…",
+        "contentHtml": "ETH 突破 2800 美金🚀 2016 年以均价 $3.45 建仓 11004 枚 ETH 的远古巨鲸已清仓，获利 3038 万美金！\n\n该巨鲸过去 3 小时在链上以均价 $2764 抛售了所有的 WETH，在坚定持有 8 年后止盈离场；前有 ICO 巨鲸抛售，后有远古巨鲸苏醒，大佬们都不看好后市吗？🤔\n\n钱包地址 <a href=\"https://platform.arkhamintelligence.com/explorer/address/0x9008D19f58AAbD9eD0D60971565AA8510560ab41\">platform.arkhamintelligence.…</a>",
+        "link": "https://x.com/ai_9684xtpa/status/1854355206169043453",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/Gbv95OhaQAA8p2I.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2055562131538628619",
       "username": "CycleStudies",
@@ -11655,100 +11776,6 @@
           "url": "https://pbs.twimg.com/media/HHz66DeXsAIPkho.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052791126676193657",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
-      "content": "最der的就是感觉是个屁 放出来是屎🤡",
-      "contentHtml": "最der的就是感觉是个屁 放出来是屎🤡",
-      "publishedAt": "2026-05-08T16:41:00.000Z",
-      "link": "https://x.com/hazenlee/status/2052791126676193657",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHz6oIuaQAAahac.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052790291669667888",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "It has been an expensive week on hyperliquid",
-      "contentHtml": "It has been an expensive week on hyperliquid",
-      "publishedAt": "2026-05-08T16:38:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2052790291669667888",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHz52_CXUAAysJ8.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052783194043465943",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
-      "content": "现在的美股英伟达高位横盘新高将至，主流股票新高齐飞。有种17年21年主流币的即视感。\n可现在币圈还有所谓的主流币了吗？\n从24-25年就变成了大家口中的“老登币”\n币圈老了…🥹😭",
-      "contentHtml": "现在的美股英伟达高位横盘新高将至，主流股票新高齐飞。有种17年21年主流币的即视感。\n可现在币圈还有所谓的主流币了吗？\n从24-25年就变成了大家口中的“老登币”\n币圈老了…🥹😭",
-      "publishedAt": "2026-05-08T16:10:00.000Z",
-      "link": "https://x.com/hazenlee/status/2052783194043465943",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052773377752879421",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "$BTC \n\nWe’ve officially filled the 84K CME gap, something I honestly didn’t expect either, especially given how differently price behaved in 2022.\n\nWhat would be truly ironic is if 85K gets front-run and this ends up being the HTF reversal zone. At the same time, it wouldn’t be all that surprising. \n\nIn downtrends, the first attempt to flip an exhaustion gap usually gets rejected on the first try, especially when price runs into overhead liquidity after an aggressive relief move.\n\nSo having a retrace lower from here would actually make sense & 85K would be front ran for now.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWe’ve officially filled the 84K CME gap, something I honestly didn’t expect either, especially given how differently price behaved in 2022.\n\nWhat would be truly ironic is if 85K gets front-run and this ends up being the HTF reversal zone. At the same time, it wouldn’t be all that surprising. \n\nIn downtrends, the first attempt to flip an exhaustion gap usually gets rejected on the first try, especially when price runs into overhead liquidity after an aggressive relief move.\n\nSo having a retrace lower from here would actually make sense & 85K would be front ran for now.",
-      "publishedAt": "2026-05-08T15:31:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2052773377752879421",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HHzqfsOXoAcj89p.png"
-        }
-      ],
-      "quote": {
-        "username": "Kalshi_Crypto",
-        "displayName": "Kalshi Crypto",
-        "content": "BREAKING: Our traders forecast Bitcoin will hit $85,000 this month",
-        "link": "https://x.com/Kalshi_Crypto/status/2052750156668256635",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHzVYx3XkAI6ufM.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHzVYx0W8AYh-Ni.png"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
