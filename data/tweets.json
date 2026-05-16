@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T22:46:42.059Z",
+  "lastUpdated": "2026-05-16T23:18:08.014Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 591,
+    "newFetched": 589,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2055787146582405283",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://pbs.twimg.com/profile_images/1842438817397297152/0WZDqXBE_bigger.jpg",
+      "content": "A lot of smart founders are being emotionally manipulated by the idea that if they are not building a category defining AI stuff or a trillion dollar industrial winner, they are somehow wasting their life or live in the permanent underclass \n\nThat is nonsense. There will be a massive class of businesses in this cycle built around hyper-personalization, hyper-financialization, serving niche demand with real spending power, yield anywhere from 5m to 100m gross without raising too much, managed by solo founders or tiny team\n\nThese are huge success too, these are founder's dream too",
+      "contentHtml": "A lot of smart founders are being emotionally manipulated by the idea that if they are not building a category defining AI stuff or a trillion dollar industrial winner, they are somehow wasting their life or live in the permanent underclass \n\nThat is nonsense. There will be a massive class of businesses in this cycle built around hyper-personalization, hyper-financialization, serving niche demand with real spending power, yield anywhere from 5m to 100m gross without raising too much, managed by solo founders or tiny team\n\nThese are huge success too, these are founder's dream too",
+      "publishedAt": "2026-05-16T23:07:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2055787146582405283",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2055709747299672416",
       "username": "hazenlee",
@@ -11918,33 +11933,6 @@
         "content": "这日本老哥，靠每天发风俗店记录，一个月收入42万日元，然后他说可以靠发这个来实现天天去风俗店，哈哈哈哈实现了风俗店永动机",
         "contentHtml": "这日本老哥，靠每天发风俗店记录，一个月收入42万日元，然后他说可以靠发这个来实现天天去风俗店，哈哈哈哈实现了风俗店永动机",
         "link": "https://x.com/turingou/status/2052947674555720061"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052949436985434604",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "hood的节奏何时到来？hood财报后比较低迷，也有不少朋友问，只能说市场节奏还没到它。而且还要对抗市场部分人的偏见，很多人还是把它当作加密概念，但其加密营收占比只有15%左右（之前加密营收占最高能占比五六成）。看其一季度财报亮点依然不少，业务多元化势头很好：\n1）预测市场合约收入暴增 320%，成为最大增量来源；\n2）净利息收入增长 24% 至 3.59 亿美元；3）Gold 订阅服务收入增长 32% 至 5000 万美元。\n一季度Robinhood 还拿下了特朗普账户的唯一初始受托人资格，并为此额外投入约 1 亿美元建设成本（也是一季度财报后跌的一个主要原因）。\n还推出了一个pre-ipo的基金，反响也很不错。\n\n但hood业务上还是有些问题：\n1、资产品类拓展和国际化问题\n1）IB在4月开通韩、日、台、澳等热门新兴市场股市的权限，用户在ib上直接可以买这些股市的正股。这其实会带动交易量进一步活跃。这一块hood做的还是不够\n\n2）还有国际化，亚太地区、美国在美国以外地区、欧洲很多国家都不能开hood的股票账户。可能是起步晚，尚未建立针对高监管复杂地区的国际账户体系，但这块确实得加快了。\n\n上面两点是个人认为hood动作比较慢也是很关键的部分。第一点拓展资产品类、第二点拓展增量人群。如果未来能打开，能带来很大的边际增量，空间可期。\n当然现状还是没有\n\n2、产品线本身问题\n然后他的主要产品期权交易流程上也有问题，不支持市价单，限价单在极端行情喜下，取消也是小问题。\n\n然后也没有利率产品，不支持国债、市政债券、货币基金的交易，这不利于资金沉淀。其他平台用户能直接买 T-bills 做梯子策略、买个债组合拿稳定票息、或用 MMF 赚 4-5% 低风险收益，Robinhood 只能靠 ETF 曲线救国，或者付月费赚 3.35% 现金息。\n\n这个可能跟早期定位相关，但长期要进阶成综合性金融平台，这些都是必修课。\n\n长期怎么看hood\n1、抛开财务数据，来看一季度的业务数据\n• 资金账户数：2740 万，同比 +1.7M（+6%）\n• 平台总资产 AUC：$3070 亿，同比 +39%\n• 退休账户 AUC：$274 亿，同比 +90%\n• 净存款：$180 亿，年化增长率 >20%，单季度第三高\n• Gold 订阅数：430 万，同比 +36%；新客户附加率 40%，老客户基础附加率 16%\n• 股票名义交易量：$6380 亿，同比 +54%\n• 其他交易收入（含事件合约）：$1.47 亿，同比 +320%，来自 88 亿份事件合约\n\n这些数据能看出另一个版本：用户还在持续增加，钱在持续转入、产品矩阵在持续吃掉客户钱包份额。Crypto 收入掉了，但客户没有走，账户还在，钱还在加。\n\nHOOD 已经从一家\"以 PFOF 和 crypto 为命脉的零售经纪\"，悄悄进化成了一家\"利息 + 订阅 + 期权 + 长尾产品\"的多源现金流公司\n\n事实上hood跟coin路线已经越来越不一样了。\n\n但加密还是HOOD 报表里最弹性、最显眼、最容易被叙事化的部分。\n\n2、之前在这里nitter.net/qinbafrank/status/2044…聊过hood长期想成为综合性金融财富管理平台。未来核心是看\n1）资金账户数（funded accounts，本质上的 MAU）\n2）AUC（托管资产）\nQ1 2026 平台总 AUC 为 $3070 亿，同比 +39%。退休账户单独 AUC 为 $274 亿，同比 +90%。\n\n退休账户这个数字必须单独看。401(k) rollover、IRA、Roth IRA——这是美国家庭资产负债表里最黏性的那一档资产，平均换券商难度极高，平均持仓周期 5 年以上。HOOD 三年前几乎没有这块业务，现在以 90% 同比增速吃掉这个市场，意味着它正在从\"年轻人买股票\"升级为\"中产用户管理终身资产\"。\n\n3）Gold 订阅渗透率\n430 万 Gold 订阅，同比 +36%。客户基础附加率 16%，新客户附加率 40%。\nGold 是订阅制（年费 $50 起）、是高黏性、是直接现金流，且新客户附加率从过去的个位数提升到 40%。\n\nRobinhood Gold订阅正在逐渐构筑新的护城河啊（免佣交易已经不是优势了），Gold = 3.5%闲置资金收益率+3%的 IRA 供款匹配+优惠保证金利率+Gold信用卡\n可以提供终身价值。\n\nRobinhood 的最初客户是只有几百美元第一次尝试股票的千禧一代。现在Golde 目标客户现在是拥有超过 10 万美元储蓄余额、IRA，并希望将整个财务生活集中管理于一处的人。以及当富裕客户将资产传承给他们的千禧一代子女时，这些子女通常已经是 Robinhood 用户\n\n当然长期看财富管理这块、hood对比嘉信和盈透还有差距、之前看过一个数据：\n也就是根据美国人的年龄层与财富量级的分布来看，HOOD目前用户平均年龄不到30岁，平均平台资产1万美元。而IBKR和嘉信理财在15万美元。嘉信的用户平均年龄45岁且65%收入来自财富管理。差距还是很明显的。\n\n但机会在于只要HOOD抓住当下这批用户，随着他们财富的自然跳跃式增长，在这批用户人均35岁的时候，平台人均资产起码翻倍甚至更高，更不要说HOOD互联网打法对于年轻人的获取\n\n这些问题只能靠时间和团队的战略视野和执行力来迭代进化了。所幸vlad tenev这个人狼性十足，典型的坏小孩风格，一旦看准了动作很快。\n\n但也的承认过去这一个月hood的仓位拿了个寂寞，坐了一轮过山车，只能说得更耐心一些。😅",
-      "contentHtml": "hood的节奏何时到来？hood财报后比较低迷，也有不少朋友问，只能说市场节奏还没到它。而且还要对抗市场部分人的偏见，很多人还是把它当作加密概念，但其加密营收占比只有15%左右（之前加密营收占最高能占比五六成）。看其一季度财报亮点依然不少，业务多元化势头很好：\n1）预测市场合约收入暴增 320%，成为最大增量来源；\n2）净利息收入增长 24% 至 3.59 亿美元；3）Gold 订阅服务收入增长 32% 至 5000 万美元。\n一季度Robinhood 还拿下了特朗普账户的唯一初始受托人资格，并为此额外投入约 1 亿美元建设成本（也是一季度财报后跌的一个主要原因）。\n还推出了一个pre-ipo的基金，反响也很不错。\n\n但hood业务上还是有些问题：\n1、资产品类拓展和国际化问题\n1）IB在4月开通韩、日、台、澳等热门新兴市场股市的权限，用户在ib上直接可以买这些股市的正股。这其实会带动交易量进一步活跃。这一块hood做的还是不够\n\n2）还有国际化，亚太地区、美国在美国以外地区、欧洲很多国家都不能开hood的股票账户。可能是起步晚，尚未建立针对高监管复杂地区的国际账户体系，但这块确实得加快了。\n\n上面两点是个人认为hood动作比较慢也是很关键的部分。第一点拓展资产品类、第二点拓展增量人群。如果未来能打开，能带来很大的边际增量，空间可期。\n当然现状还是没有\n\n2、产品线本身问题\n然后他的主要产品期权交易流程上也有问题，不支持市价单，限价单在极端行情喜下，取消也是小问题。\n\n然后也没有利率产品，不支持国债、市政债券、货币基金的交易，这不利于资金沉淀。其他平台用户能直接买 T-bills 做梯子策略、买个债组合拿稳定票息、或用 MMF 赚 4-5% 低风险收益，Robinhood 只能靠 ETF 曲线救国，或者付月费赚 3.35% 现金息。\n\n这个可能跟早期定位相关，但长期要进阶成综合性金融平台，这些都是必修课。\n\n长期怎么看hood\n1、抛开财务数据，来看一季度的业务数据\n• 资金账户数：2740 万，同比 +1.7M（+6%）\n• 平台总资产 AUC：$3070 亿，同比 +39%\n• 退休账户 AUC：$274 亿，同比 +90%\n• 净存款：$180 亿，年化增长率 &gt;20%，单季度第三高\n• Gold 订阅数：430 万，同比 +36%；新客户附加率 40%，老客户基础附加率 16%\n• 股票名义交易量：$6380 亿，同比 +54%\n• 其他交易收入（含事件合约）：$1.47 亿，同比 +320%，来自 88 亿份事件合约\n\n这些数据能看出另一个版本：用户还在持续增加，钱在持续转入、产品矩阵在持续吃掉客户钱包份额。Crypto 收入掉了，但客户没有走，账户还在，钱还在加。\n\nHOOD 已经从一家\"以 PFOF 和 crypto 为命脉的零售经纪\"，悄悄进化成了一家\"利息 + 订阅 + 期权 + 长尾产品\"的多源现金流公司\n\n事实上hood跟coin路线已经越来越不一样了。\n\n但加密还是HOOD 报表里最弹性、最显眼、最容易被叙事化的部分。\n\n2、之前在这里<a href=\"https://nitter.net/qinbafrank/status/2044758715967156502?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2044…</a>聊过hood长期想成为综合性金融财富管理平台。未来核心是看\n1）资金账户数（funded accounts，本质上的 MAU）\n2）AUC（托管资产）\nQ1 2026 平台总 AUC 为 $3070 亿，同比 +39%。退休账户单独 AUC 为 $274 亿，同比 +90%。\n\n退休账户这个数字必须单独看。401(k) rollover、IRA、Roth IRA——这是美国家庭资产负债表里最黏性的那一档资产，平均换券商难度极高，平均持仓周期 5 年以上。HOOD 三年前几乎没有这块业务，现在以 90% 同比增速吃掉这个市场，意味着它正在从\"年轻人买股票\"升级为\"中产用户管理终身资产\"。\n\n3）Gold 订阅渗透率\n430 万 Gold 订阅，同比 +36%。客户基础附加率 16%，新客户附加率 40%。\nGold 是订阅制（年费 $50 起）、是高黏性、是直接现金流，且新客户附加率从过去的个位数提升到 40%。\n\nRobinhood Gold订阅正在逐渐构筑新的护城河啊（免佣交易已经不是优势了），Gold = 3.5%闲置资金收益率+3%的 IRA 供款匹配+优惠保证金利率+Gold信用卡\n可以提供终身价值。\n\nRobinhood 的最初客户是只有几百美元第一次尝试股票的千禧一代。现在Golde 目标客户现在是拥有超过 10 万美元储蓄余额、IRA，并希望将整个财务生活集中管理于一处的人。以及当富裕客户将资产传承给他们的千禧一代子女时，这些子女通常已经是 Robinhood 用户\n\n当然长期看财富管理这块、hood对比嘉信和盈透还有差距、之前看过一个数据：\n也就是根据美国人的年龄层与财富量级的分布来看，HOOD目前用户平均年龄不到30岁，平均平台资产1万美元。而IBKR和嘉信理财在15万美元。嘉信的用户平均年龄45岁且65%收入来自财富管理。差距还是很明显的。\n\n但机会在于只要HOOD抓住当下这批用户，随着他们财富的自然跳跃式增长，在这批用户人均35岁的时候，平台人均资产起码翻倍甚至更高，更不要说HOOD互联网打法对于年轻人的获取\n\n这些问题只能靠时间和团队的战略视野和执行力来迭代进化了。所幸vlad tenev这个人狼性十足，典型的坏小孩风格，一旦看准了动作很快。\n\n但也的承认过去这一个月hood的仓位拿了个寂寞，坐了一轮过山车，只能说得更耐心一些。😅",
-      "publishedAt": "2026-05-09T03:11:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2052949436985434604",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH2KciQaYAA1Sxr.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "Robinhood一季度财报公布，盘后大跌。跌的原因可能是两个：1）公司声明第一季度支出跃升了18%，并警告称其“特朗普账户”推广计划将需要额外1亿美元的投资，“我们为特朗普账户提供服务的合同是基于成本加成的模式，利润率较低，因此我们预计收入将超过成本”；\n2）来自加密的营收1.34亿美元（-47%）——最大拖累，受比特币等数字资产交易低迷影响（Robinhood App加密交易量下降48%）。\n\n详细聊聊hood的财报\n1、数据指标\n总净收入同比增长15%，但未能达到分析师共识（约11.3-11.7亿美元）；EPS微增3%，同样小幅不及预期。\n1. 核心财务数据一览\n总净收入：10.7亿美元（+15% YoY，从9.27亿美元增长）\n交易收入：6.23亿美元（+7% YoY）\n净利息收入：3.59亿美元（+24% YoY）\n其他收入：0.85亿美元（+57% YoY）\n净利润：3.46亿美元（+3% YoY）\n摊薄后EPS：0.38美元（+3% YoY，从0.37美元增长）\n运营费用：6.56亿美元（+18% YoY）\n\n与预期对比：收入不及预期（市场预期约11.3-11.7亿美元），EPS基本持平或小幅不及（预期0.39-0.41美元）。营收增速较2025年全年高增长阶段明显放缓。\n\n2. 营收拆解：多元化驱动，但加密拖累明显\nRobinhood持续从“交易佣金依赖”向“利息+订阅+多元化交易”转型，本季表现如下：\n1）交易收入（Transaction-Based Revenues，占总收入58%）：6.23亿美元（+7%）\n2）期权：2.60亿美元（+8%）——受益于市场波动，用户活跃度高\n3）股票：0.82亿美元（+46%）——交易量强劲，权益名义交易量6,380亿美元（+54%）\n4）加密货币：1.34亿美元（-47%）——最大拖累\n5）其他交易收入：1.47亿美元（+320%）——主要来自事件合约（Event Contracts）、期货、指数期权等创新产品，创纪录交易量88亿份，成为新增长点\n6）净利息收入（Net Interest Revenues，占总收入34%）：3.59亿美元（+24%）——核心稳定增长点，来自现金扫荡（Cash Sweep）、保证金贷款等。现金及存款余额167亿美元（+71%），保证金账簿170亿美元（+93%）\n7）其他收入（Other Revenues，占总收入8%）：0.85亿美元（+57%）——Robinhood Gold订阅收入0.50亿美元（+32%），显示高价值用户黏性增强\n\n3、用户与平台指标：增长稳健，Gold渗透率提升\n1）资金账户用户：2,740万（+170万，+6% YoY）\n2）投资账户：2,910万（+8% YoY）\n3）Robinhood Gold订阅用户：430万（+120万，+36% YoY，历史新高），渗透率约15.7%\n4）平台总资产（Total Platform Assets）：3,070亿美元（+39% YoY）——净存款、权益估值上涨及收购共同驱动\n5）净存款：177亿美元（年化增长率22%），过去12个月678亿美元（+31%）\n\nRobinhood正从“用户爆炸式增长”转向“深度货币化”阶段。Gold订阅和产品创新（退休、信用卡、银行账户）是未来关键。\n\n整体亮点\n受加密低迷和开支大增影响增速放缓，但亮点还是有的：\n1）营收非常多元化、加密营收占比从最高的接近50%，现在也就15%左右；\n2）预测市场业务增速很快，一季度事件合约88亿份、同比320%，事件合约为主的其他交易收入已经超过加密营收。二季度有世界杯，事件合约暴增估计也是大概率；\n3）多元化成功（净利息+订阅+新交易产品），平台资产与存款高速增长，买回股票+强劲现金流。经营活动现金流20亿美元，自由现金流强劲，现金及等价物50亿美元。\n\n看Vlad Tenev的表态：\n公司正处于“伟大财富转移”中心，产品创新速度加快，用户将Robinhood视为金融生活核心。\n\n短期承压，但基本面的亮点还是不少。再度爆发还需要时间",
-        "link": "https://x.com/qinbafrank/status/2049326110027239795"
       },
       "stats": {
         "replies": 0,
