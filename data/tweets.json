@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T11:53:39.314Z",
+  "lastUpdated": "2026-05-17T12:18:35.623Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,60 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 587,
+    "newFetched": 586,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2055984432834613425",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_bigger.jpg",
+      "content": "把cascade @cascade_xyz 的钱取出来了，可以去dc开票，但是积分清零。自己要想好。\n\n打算把这部分资金合理化运用，拿去刷手头上几个消耗性项目更划算一点，留一部分准备盯着mct打nft，再看看能不能找到一些比较有意思的nft项目。",
+      "contentHtml": "把cascade <a href=\"/cascade_xyz\" title=\"Cascade\">@cascade_xyz</a> 的钱取出来了，可以去dc开票，但是积分清零。自己要想好。\n\n打算把这部分资金合理化运用，拿去刷手头上几个消耗性项目更划算一点，留一部分准备盯着mct打nft，再看看能不能找到一些比较有意思的nft项目。",
+      "publishedAt": "2026-05-17T12:11:00.000Z",
+      "link": "https://x.com/0xleng1/status/2055984432834613425",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055980893379133531",
+      "username": "0xPickleCati",
+      "displayName": "Pickle Cat",
+      "avatar": "https://pbs.twimg.com/profile_images/1879537340080869376/PV5A5sD2_bigger.jpg",
+      "content": "什么叫做真builder：\n\n和 @suji_yan 刚带着猫猫教地推eth队伍轰炸edc了",
+      "contentHtml": "什么叫做真builder：\n\n和 <a href=\"/suji_yan\" title=\"Suji Yan 💜🔥🎭\">@suji_yan</a> 刚带着猫猫教地推eth队伍轰炸edc了",
+      "publishedAt": "2026-05-17T11:56:00.000Z",
+      "link": "https://x.com/0xPickleCati/status/2055980893379133531",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIhPtcDaYAAqua6.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xPickleCati",
+        "displayName": "Pickle Cat",
+        "content": "“如果我们有地推盘大爷大妈一半的信仰btc早100w一枚了”\n\n嘴撸建设有卵用，下楼地推才是真赋能\n\n本猫已被大爷大妈精神附身，与@sukie234 在百老汇地推eth的第一天。\n\n谁要加入？以太养生会猫猫教分部正式收家人…🐈\n\n赋能以太坊，相爱每一天",
+        "contentHtml": "“如果我们有地推盘大爷大妈一半的信仰btc早100w一枚了”\n\n嘴撸建设有卵用，下楼地推才是真赋能\n\n本猫已被大爷大妈精神附身，与<a href=\"/sukie234\" title=\"sukie\">@sukie234</a> 在百老汇地推eth的第一天。\n\n谁要加入？以太养生会猫猫教分部正式收家人…🐈\n\n赋能以太坊，相爱每一天",
+        "link": "https://x.com/0xPickleCati/status/2048244383221510468",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HGzTaBkaYAAO6Vy.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2055959711392870713",
       "username": "KillaXBT",
@@ -11969,49 +12018,6 @@
           "url": "https://pbs.twimg.com/media/HH3waPlbgAEP7mt.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053057545250742406",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "SpaceX之前最重磅的IPO估计就是下周这个超大晶圆制造商Cerebras Systems的上市了，Cerebras是一家专注于AI加速器的美国公司，总部位于加州Sunnyvale，成立于2016年。公司以“晶圆级集成”（Wafer-Scale Engine，简称WSE）技术闻名，核心产品是将整个300mm硅晶圆直接做成一颗超级大的AI处理器，而不是像传统GPU那样切成小芯片再封装。这解决了AI训练/推理中常见的内存带宽和芯片间通信瓶颈问题，被誉为“世界上最大的AI芯片”。树立了下关于Cerebras几部分关键信息。\n\n1、核心技术和产品\n1）晶圆级引擎（WSE）\n传统AI芯片（如NVIDIA H100/B200）采用多芯片模块（MCM）或小型die，通过NVLink/HBM等外部互联扩展。但Cerebras的WSE把整个晶圆做成单一die，避免了芯片间通信延迟和带宽损失，实现了“片上”海量并行计算。\n\nWSE-3采用“Weight Streaming”架构，将计算和内存解耦，支持外部MemoryX扩展（1.5TB、12TB、120TB甚至1.2 PB），单系统即可训练高达24万亿参数的超大模型。\n\n2）CS-3系统\n单台15U机柜，内置1颗WSE-3，支持水冷。通过SwarmX互联可扩展至2048台集群，峰值达256 exaFLOPS。单台CS-3就能在不到1天内从零训练Llama 2 70B模型（Meta GPU集群需约1个月）。\n\n3）性能优势\nCerebras强调“消除数据移动瓶颈”：\n比上一代CS-2（WSE-2）：性能翻倍，功耗和成本不变（CS-2用7nm，2.6万亿晶体管，40 GB SRAM）。\n\n比NVIDIA H100/B200：在内存密集型大模型任务中优势显著。CS-3单系统内存容量远超10,000节点GPU集群；推理速度可达GPU云的数倍（尤其是长上下文/大模型）。公司声称在Llama/Falcon等模型上tokens/second提升2倍。\n\n实际基准：Condor Galaxy 3（64台CS-3集群，8 exaFLOPS）已于2024年Q2上线，与G42合作。集群编程像“单芯片”一样简单，无需复杂分布式框架。\n\n优势：\n极致内存带宽 → 适合万亿/十万亿参数模型训练与推理。\n扩展性强 → 集群像单机一样编程，开发效率高。\n能效/成本在特定 workloads 上优于GPU（同功耗下性能翻倍）。\n\n挑战：\n单系统功耗高（25kW），部署门槛高（需专用数据中心基础设施）。\n晶圆级制造良率和缺陷容忍技术虽成熟，但整体成本高（单系统硬件估算数百万美元）。\n生态不如CUDA成熟，主要针对AI训练/推理大模型，不如GPU通用。\n\n总体上Cerebras是“垂直优化”的AI超级计算机方案，适合追求极致规模和速度的 hyperscaler、主权AI项目、国家实验室，而非通用GPU替代品。\n\n2、发展历程\nCerebras从“卖硬件”转向“AI超级计算平台”，已从早期科研验证走向商用落地（Condor Galaxy等主权AI项目）。\n\n从SeaMicro老兵到AI晶圆级先锋\nCerebras成立于2015-2016年（官方多以2016年计），总部位于加州Sunnyvale。创始人团队全部来自SeaMicro（2012年被AMD以3.34亿美元收购），早期处于stealth模式四年，专注解决“晶圆级集成良率难题”。\n\n1）2019年：发布首代WSE-1，开启晶圆级AI芯片时代。\n2）2020-2022年：推出CS-1/CS-2系统，完成从“芯片”到“系统+软件栈”的闭环，与TSMC深度绑定实现量产。\n3）2024年：WSE-3及CS-3系统落地，性能翻倍；同期首次递交S-1（后因业务优化于2025年10月撤回）。\n4）2025-2026年：转向云推理服务+混合模式，与OpenAI签署巨额合作；\n5）2026年2月完成Series H，4月重启S-1，5月启动路演，计划Nasdaq上市（代码CBRS）。\n\n3、核心团队及融资\n1）核心团队\nAndrew Feldman（CEO、联合创始人）：连续创业者，曾任SeaMicro CEO、Force10 Networks产品VP（后被Dell收购）、Riverstone Networks营销VP。斯坦福MBA背景，擅长产品化与资本运作。\n\nGary Lauterbach（联合创始人、前CTO）：Sun Microsystems UltraSPARC首席架构师，58项专利，曾主导AMD数据中心业务。\n\nSean Lie（联合创始人、现CTO）：MIT本科+硕士，AMD高级架构师，29项专利。\n\nMichael James（首席架构师）：SeaMicro软件架构师，后任AMD对应岗位。\n\nJean-Philippe Fricker（首席系统架构师）：DSSD/SeaMicro资深硬件架构师，30项专利。\n\n团队优势在于“系统思维”而非单纯芯片设计：他们深谙数据中心功耗、互联与软件优化，曾用fabric架构重塑服务器。这正是Cerebras能解决晶圆级缺陷容忍与Weight Streaming架构的关键。\n\n2）融资历程\n累计融资约29-37亿美元（含多轮），估值从早期数百M美元飙升至IPO前230-266亿美元：\n早期：Series B/C/D（2016-2018）累计约1.7亿美元，投资者包括Foundation Capital、Eclipse、Sequoia、Benchmark。\n\n中后期：2019 Series E（2.72亿美元，估值24亿美元）；2021 Series F（2.54亿美元，估值41亿美元）。\n\n2025-2026：Series G（11亿美元，估值81亿美元）；Series H（10亿美元，估值230亿美元，Tiger Global领投，Benchmark、Fidelity、AMD等跟投）。\n\n4、业务模式与财务表现\nCerebras早期卖硬件（CS-2/CS-3系统），后来转向云服务（Cerebras Inference，云端提供超快AI推理）和混合模式。客户包括CSP、 hyperscaler、企业、主权AI项目（如G42）、研究机构。\n\n2025财年财务：收入5.1亿美元（同比+76%，2024年2.9亿美元，2023年0.787亿美元，2022年0.246亿美元，20倍增长）。硬件收入约3.58亿美元，云及其他服务1.52亿美元。\n\nGAAP净利润：约0.879亿美元（2024年净亏损4.85亿美元），首次实现盈利（不过非GAAP仍有亏损）。\n\n剩余履约义务（backlog）：246亿美元（OpenAI等多年前期大单贡献），2026-2027年预计确认15%。\n\n客户集中度：2025年G42占24%（此前曾高达87%），另一UAE客户占62%，但已显著多元化；OpenAI签署超100-200亿美元多年前期合作（含1亿美元贷款+认股权证）。\n\n公司定位从“卖芯片”转向“AI基础设施平台+云”，并与Qualcomm等合作加速边缘部署。\n\n5、IPO相关信息：\nIPO 基础发行2800万A类普通股，超额配售420万A类普通股，核心管理层和投资人不卖股。纯公司发行新股用于募资，无大量旧股套现。\n\nIPO定价$115–$125/股，因需求超20倍，已计划上调至$125–$135/股（可能进一步调整）。高区间（$125）募资约35亿美元（基础28M股），含超额配售最高约40.25亿美元。\n\n高估值下（$125/股）对应市值约266亿美元IPO后总流通股本约 2.13亿百万股（包括Class A、B、N等）。其中：\nClass A（上市交易股）为IPO发行的28M股 + 超额部分；\n其余Class B（高投票权，创始团队/早期投资者/优先股转换后）和Class N（非投票权，如OpenAI认股权证相关）。\n\nipo后解禁期前的流通比例\n标准锁定期：\n180天或提前至Q3 2026财报发布后两个交易日（取较早者）。\n解禁前初始流通股（Initial Float）：\n仅IPO发行的 28百万股（基础）或最高 32.2百万股（含超额）。\n锁定期内真实流通比例：\n约 13.1%–15.1%（28M / 213M ≈ 13.1%；32.2M / 213M ≈ 15.1%）\n\n预期定价日：下周三5月13日，预期上市交易日：5月14日（周四），代码CBRS。\n\n整体而言估值虽高，但增长潜力和技术壁垒值得关注\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "SpaceX之前最重磅的IPO估计就是下周这个超大晶圆制造商Cerebras Systems的上市了，Cerebras是一家专注于AI加速器的美国公司，总部位于加州Sunnyvale，成立于2016年。公司以“晶圆级集成”（Wafer-Scale Engine，简称WSE）技术闻名，核心产品是将整个300mm硅晶圆直接做成一颗超级大的AI处理器，而不是像传统GPU那样切成小芯片再封装。这解决了AI训练/推理中常见的内存带宽和芯片间通信瓶颈问题，被誉为“世界上最大的AI芯片”。树立了下关于Cerebras几部分关键信息。\n\n1、核心技术和产品\n1）晶圆级引擎（WSE）\n传统AI芯片（如NVIDIA H100/B200）采用多芯片模块（MCM）或小型die，通过NVLink/HBM等外部互联扩展。但Cerebras的WSE把整个晶圆做成单一die，避免了芯片间通信延迟和带宽损失，实现了“片上”海量并行计算。\n\nWSE-3采用“Weight Streaming”架构，将计算和内存解耦，支持外部MemoryX扩展（1.5TB、12TB、120TB甚至1.2 PB），单系统即可训练高达24万亿参数的超大模型。\n\n2）CS-3系统\n单台15U机柜，内置1颗WSE-3，支持水冷。通过SwarmX互联可扩展至2048台集群，峰值达256 exaFLOPS。单台CS-3就能在不到1天内从零训练Llama 2 70B模型（Meta GPU集群需约1个月）。\n\n3）性能优势\nCerebras强调“消除数据移动瓶颈”：\n比上一代CS-2（WSE-2）：性能翻倍，功耗和成本不变（CS-2用7nm，2.6万亿晶体管，40 GB SRAM）。\n\n比NVIDIA H100/B200：在内存密集型大模型任务中优势显著。CS-3单系统内存容量远超10,000节点GPU集群；推理速度可达GPU云的数倍（尤其是长上下文/大模型）。公司声称在Llama/Falcon等模型上tokens/second提升2倍。\n\n实际基准：Condor Galaxy 3（64台CS-3集群，8 exaFLOPS）已于2024年Q2上线，与G42合作。集群编程像“单芯片”一样简单，无需复杂分布式框架。\n\n优势：\n极致内存带宽 → 适合万亿/十万亿参数模型训练与推理。\n扩展性强 → 集群像单机一样编程，开发效率高。\n能效/成本在特定 workloads 上优于GPU（同功耗下性能翻倍）。\n\n挑战：\n单系统功耗高（25kW），部署门槛高（需专用数据中心基础设施）。\n晶圆级制造良率和缺陷容忍技术虽成熟，但整体成本高（单系统硬件估算数百万美元）。\n生态不如CUDA成熟，主要针对AI训练/推理大模型，不如GPU通用。\n\n总体上Cerebras是“垂直优化”的AI超级计算机方案，适合追求极致规模和速度的 hyperscaler、主权AI项目、国家实验室，而非通用GPU替代品。\n\n2、发展历程\nCerebras从“卖硬件”转向“AI超级计算平台”，已从早期科研验证走向商用落地（Condor Galaxy等主权AI项目）。\n\n从SeaMicro老兵到AI晶圆级先锋\nCerebras成立于2015-2016年（官方多以2016年计），总部位于加州Sunnyvale。创始人团队全部来自SeaMicro（2012年被AMD以3.34亿美元收购），早期处于stealth模式四年，专注解决“晶圆级集成良率难题”。\n\n1）2019年：发布首代WSE-1，开启晶圆级AI芯片时代。\n2）2020-2022年：推出CS-1/CS-2系统，完成从“芯片”到“系统+软件栈”的闭环，与TSMC深度绑定实现量产。\n3）2024年：WSE-3及CS-3系统落地，性能翻倍；同期首次递交S-1（后因业务优化于2025年10月撤回）。\n4）2025-2026年：转向云推理服务+混合模式，与OpenAI签署巨额合作；\n5）2026年2月完成Series H，4月重启S-1，5月启动路演，计划Nasdaq上市（代码CBRS）。\n\n3、核心团队及融资\n1）核心团队\nAndrew Feldman（CEO、联合创始人）：连续创业者，曾任SeaMicro CEO、Force10 Networks产品VP（后被Dell收购）、Riverstone Networks营销VP。斯坦福MBA背景，擅长产品化与资本运作。\n\nGary Lauterbach（联合创始人、前CTO）：Sun Microsystems UltraSPARC首席架构师，58项专利，曾主导AMD数据中心业务。\n\nSean Lie（联合创始人、现CTO）：MIT本科+硕士，AMD高级架构师，29项专利。\n\nMichael James（首席架构师）：SeaMicro软件架构师，后任AMD对应岗位。\n\nJean-Philippe Fricker（首席系统架构师）：DSSD/SeaMicro资深硬件架构师，30项专利。\n\n团队优势在于“系统思维”而非单纯芯片设计：他们深谙数据中心功耗、互联与软件优化，曾用fabric架构重塑服务器。这正是Cerebras能解决晶圆级缺陷容忍与Weight Streaming架构的关键。\n\n2）融资历程\n累计融资约29-37亿美元（含多轮），估值从早期数百M美元飙升至IPO前230-266亿美元：\n早期：Series B/C/D（2016-2018）累计约1.7亿美元，投资者包括Foundation Capital、Eclipse、Sequoia、Benchmark。\n\n中后期：2019 Series E（2.72亿美元，估值24亿美元）；2021 Series F（2.54亿美元，估值41亿美元）。\n\n2025-2026：Series G（11亿美元，估值81亿美元）；Series H（10亿美元，估值230亿美元，Tiger Global领投，Benchmark、Fidelity、AMD等跟投）。\n\n4、业务模式与财务表现\nCerebras早期卖硬件（CS-2/CS-3系统），后来转向云服务（Cerebras Inference，云端提供超快AI推理）和混合模式。客户包括CSP、 hyperscaler、企业、主权AI项目（如G42）、研究机构。\n\n2025财年财务：收入5.1亿美元（同比+76%，2024年2.9亿美元，2023年0.787亿美元，2022年0.246亿美元，20倍增长）。硬件收入约3.58亿美元，云及其他服务1.52亿美元。\n\nGAAP净利润：约0.879亿美元（2024年净亏损4.85亿美元），首次实现盈利（不过非GAAP仍有亏损）。\n\n剩余履约义务（backlog）：246亿美元（OpenAI等多年前期大单贡献），2026-2027年预计确认15%。\n\n客户集中度：2025年G42占24%（此前曾高达87%），另一UAE客户占62%，但已显著多元化；OpenAI签署超100-200亿美元多年前期合作（含1亿美元贷款+认股权证）。\n\n公司定位从“卖芯片”转向“AI基础设施平台+云”，并与Qualcomm等合作加速边缘部署。\n\n5、IPO相关信息：\nIPO 基础发行2800万A类普通股，超额配售420万A类普通股，核心管理层和投资人不卖股。纯公司发行新股用于募资，无大量旧股套现。\n\nIPO定价$115–$125/股，因需求超20倍，已计划上调至$125–$135/股（可能进一步调整）。高区间（$125）募资约35亿美元（基础28M股），含超额配售最高约40.25亿美元。\n\n高估值下（$125/股）对应市值约266亿美元IPO后总流通股本约 2.13亿百万股（包括Class A、B、N等）。其中：\nClass A（上市交易股）为IPO发行的28M股 + 超额部分；\n其余Class B（高投票权，创始团队/早期投资者/优先股转换后）和Class N（非投票权，如OpenAI认股权证相关）。\n\nipo后解禁期前的流通比例\n标准锁定期：\n180天或提前至Q3 2026财报发布后两个交易日（取较早者）。\n解禁前初始流通股（Initial Float）：\n仅IPO发行的 28百万股（基础）或最高 32.2百万股（含超额）。\n锁定期内真实流通比例：\n约 13.1%–15.1%（28M / 213M ≈ 13.1%；32.2M / 213M ≈ 15.1%）\n\n预期定价日：下周三5月13日，预期上市交易日：5月14日（周四），代码CBRS。\n\n整体而言估值虽高，但增长潜力和技术壁垒值得关注\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-05-09T10:20:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2053057545250742406",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH3mlpga0AAdvrm.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "x.com/i/article/204364414113…",
-        "contentHtml": "<a href=\"http://x.com/i/article/2043644141134094336\">x.com/i/article/204364414113…</a>",
-        "link": "https://x.com/qinbafrank/status/2043653387271712962"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053053050684924264",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "隐私币涨的  说明  黑市灰产匿名转账洗钱还是有大量刚需  \n以前比特币能消化，自从陈志被没收比特币资产后，这个需求就转移到古典隐私币上了",
-      "contentHtml": "隐私币涨的  说明  黑市灰产匿名转账洗钱还是有大量刚需  \n以前比特币能消化，自从陈志被没收比特币资产后，这个需求就转移到古典隐私币上了",
-      "publishedAt": "2026-05-09T10:02:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2053053050684924264",
       "stats": {
         "replies": 0,
         "retweets": 0,
