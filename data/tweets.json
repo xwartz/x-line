@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T00:28:46.193Z",
+  "lastUpdated": "2026-05-17T01:23:07.416Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,63 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 590,
+    "newFetched": 589,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2055816407691248005",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n砍掉了一些不重要的功能，把很多数据覆盖写入改成增量写入。应该能降低 95% 以上的写入量。\n\n现在开始担心 5 月 16 号的账单，毕竟这里的账单延迟一天，我昨晚才开始做优化...\n\n先把 Cloudflare 的支付卡绑定在一张没有额度的虚拟卡上。万一出现天价账单，我就赖账吧。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n砍掉了一些不重要的功能，把很多数据覆盖写入改成增量写入。应该能降低 95% 以上的写入量。\n\n现在开始担心 5 月 16 号的账单，毕竟这里的账单延迟一天，我昨晚才开始做优化...\n\n先把 Cloudflare 的支付卡绑定在一张没有额度的虚拟卡上。万一出现天价账单，我就赖账吧。",
+      "publishedAt": "2026-05-17T01:03:00.000Z",
+      "link": "https://x.com/taresky/status/2055816407691248005",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055816049535447492",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "为了应对 codex 突发性地重置额度，我只能把 /fast 打开以降低损失。\n\n没有用完，就是损失！",
+      "contentHtml": "为了应对 codex 突发性地重置额度，我只能把 /fast 打开以降低损失。\n\n没有用完，就是损失！",
+      "publishedAt": "2026-05-17T01:01:00.000Z",
+      "link": "https://x.com/taresky/status/2055816049535447492",
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#AI\n\n看了一下统计，200U 的 codex 账号基本每周能跑 1800U 的 token，美滋滋 😌",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a>\n\n看了一下统计，200U 的 codex 账号基本每周能跑 1800U 的 token，美滋滋 😌",
+        "link": "https://x.com/taresky/status/2054354348449431940"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055814937918972253",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "一定要少吃多睡，多存钱，多健身\n别总觉得没找对人，压根没有对的人，只有越来越好的自己\n\n向外求求而不得，向内求生生不息\n其实很多人都没有你早上喝的那杯水重要\n\n向内求，生生不息；向外求，求而不得\nSeek endless life within, seek what cannot be obtained outside\n\n跟迷茫的兄弟一起互勉",
+      "contentHtml": "一定要少吃多睡，多存钱，多健身\n别总觉得没找对人，压根没有对的人，只有越来越好的自己\n\n向外求求而不得，向内求生生不息\n其实很多人都没有你早上喝的那杯水重要\n\n向内求，生生不息；向外求，求而不得\nSeek endless life within, seek what cannot be obtained outside\n\n跟迷茫的兄弟一起互勉",
+      "publishedAt": "2026-05-17T00:57:00.000Z",
+      "link": "https://x.com/dongbimao/status/2055814937918972253",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2055790294252314660",
       "username": "DoveyWan",
@@ -274,6 +326,25 @@
         "content": "嗯，对了大书特书，错了，打个马虎眼，这么多年无非就想搞点收费群，搞那么多节目无利不起早，收费本来违法的，早点收手吧，别到时候秋后算账",
         "contentHtml": "嗯，对了大书特书，错了，打个马虎眼，这么多年无非就想搞点收费群，搞那么多节目无利不起早，收费本来违法的，早点收手吧，别到时候秋后算账",
         "link": "https://x.com/xujuan111/status/2055653819246329975"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055662777898078217",
+      "username": "navalpodcast",
+      "displayName": "Naval Podcast",
+      "avatar": "https://pbs.twimg.com/profile_images/2049248689680732160/St8fBFAj_bigger.jpg",
+      "content": "“All frameworks in life—your workout framework, your sales framework, even your building-an-app framework—are all a distant second to your motivation.”\n\n— @naval",
+      "contentHtml": "“All frameworks in life—your workout framework, your sales framework, even your building-an-app framework—are all a distant second to your motivation.”\n\n— <a href=\"/naval\" title=\"Naval\">@naval</a>",
+      "publishedAt": "2026-05-16T14:52:00.000Z",
+      "link": "https://x.com/navalpodcast/status/2055662777898078217",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11826,114 +11897,6 @@
           "url": "https://pbs.twimg.com/media/HH2dQyQbIAAdJr9.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052964430011621607",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
-      "content": "秋田线下比线上温润好多, 而且真的很P哈哈哈. 珍惜秋田老师的高密度干货! 感觉和我另外个老朋友超级像 @coolish (你两见面应该很有意思🤭)",
-      "contentHtml": "秋田线下比线上温润好多, 而且真的很P哈哈哈. 珍惜秋田老师的高密度干货! 感觉和我另外个老朋友超级像 <a href=\"/coolish\" title=\"paulwei\">@coolish</a> (你两见面应该很有意思🤭)",
-      "publishedAt": "2026-05-09T04:10:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2052964430011621607",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH2X8lIaYAAgb2G.png"
-        }
-      ],
-      "quote": {
-        "username": "lnkybtc",
-        "displayName": "秋田散人 Mr.Akita",
-        "content": "今天收到 follower DM，甩给我了去年 @jeff_run_faster 帮我蒸馏的这个推特的数据（估计烧掉不少 token），瞄了几眼挺多话还是很能震慑到自己——确实能教育好自己的还是过去的自己。\n\n过几个月 30 岁了，很幸运自己去年比较闲发了很多推，一方面是连接了很多新朋友，一方面是输出了 20 来岁这十年最必要的一些心血和经验总结。无论是见解积淀还是社交关系自己都将长期受益。\n\n这个推特还是会勤于落笔，给行业一线的朋友提供更多有效信息。",
-        "contentHtml": "今天收到 follower DM，甩给我了去年 <a href=\"/jeff_run_faster\" title=\"小鳄鱼\">@jeff_run_faster</a> 帮我蒸馏的这个推特的数据（估计烧掉不少 token），瞄了几眼挺多话还是很能震慑到自己——确实能教育好自己的还是过去的自己。\n\n过几个月 30 岁了，很幸运自己去年比较闲发了很多推，一方面是连接了很多新朋友，一方面是输出了 20 来岁这十年最必要的一些心血和经验总结。无论是见解积淀还是社交关系自己都将长期受益。\n\n这个推特还是会勤于落笔，给行业一线的朋友提供更多有效信息。",
-        "link": "https://x.com/lnkybtc/status/2052783145435668701",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHzq-0ka4AA_KXi.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHzwTQAaIAA9JPt.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052963046847635815",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "昨日 $SUI 的流動性指標於 0.95-0.96 區間觸發了買入訊號，隨後於今日上漲至 $1.1，一日內成功捕捉 +15.4% 漲幅。\n\n想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群  \n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "昨日 <a href=\"/search?f=tweets&q=%23SUI\">$SUI</a> 的流動性指標於 0.95-0.96 區間觸發了買入訊號，隨後於今日上漲至 $1.1，一日內成功捕捉 +15.4% 漲幅。\n\n想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群  \n👉 <a href=\"http://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-05-09T04:05:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2052963046847635815",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH2W4MQbIAA2YLT.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052962888558780801",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "$SUI's liquidity indicator triggered a buy signal in the $0.95–0.96 range yesterday, and price has since climbed to $1.10. Capturing a +15.4% gain in just one day.\n\nWant to catch real-time trading opportunities? Start your 14-day free trial now  \n👉coinkarma.pse.is/7wsxnl",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23SUI\">$SUI</a>'s liquidity indicator triggered a buy signal in the $0.95–0.96 range yesterday, and price has since climbed to $1.10. Capturing a +15.4% gain in just one day.\n\nWant to catch real-time trading opportunities? Start your 14-day free trial now  \n👉<a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-05-09T04:04:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2052962888558780801",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH2W29waEAAStFJ.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052958835699339323",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "coin昨天盘面有意思，财报差盘前大跌，盘中一路走高，振幅十几个点。又有点2月中当时财报发出后的盘面走势的感觉，又要来来一波了？🤔",
-      "contentHtml": "coin昨天盘面有意思，财报差盘前大跌，盘中一路走高，振幅十几个点。又有点2月中当时财报发出后的盘面走势的感觉，又要来来一波了？🤔",
-      "publishedAt": "2026-05-09T03:48:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2052958835699339323",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH2TLWoboAER0T2.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "coinbase财报后的走势很有意思，一份大幅低于预期甚至亏损的财报发出后很多人看到更低的时候股价反倒大涨，也是昨天聊到的过去几个月coin股价从最高400多跌到当下的140多，这个跌幅就是在计价币市大跌coin财报也不会好到哪里去。\n\n当然利空被计价的差不多了，部分投资人反倒去关注coin的机构业务，股票代币、预测市场登多元化战略业务的表现了，这些业务的意义在于：\n能降低加密资产交易在coinbase整个营收体系里的占比；\n能带动整体业绩走出来的重要边际变量。",
-        "contentHtml": "coinbase财报后的走势很有意思，一份大幅低于预期甚至亏损的财报发出后很多人看到更低的时候股价反倒大涨，也是昨天聊到的过去几个月coin股价从最高400多跌到当下的140多，这个跌幅就是在计价币市大跌coin财报也不会好到哪里去。\n\n当然利空被计价的差不多了，部分投资人反倒去关注coin的机构业务，股票代币、预测市场登多元化战略业务的表现了，这些业务的意义在于：\n能降低加密资产交易在coinbase整个营收体系里的占比；\n能带动整体业绩走出来的重要边际变量。",
-        "link": "https://x.com/qinbafrank/status/2022482645624721920"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
