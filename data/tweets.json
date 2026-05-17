@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T01:23:07.416Z",
+  "lastUpdated": "2026-05-17T02:19:37.536Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -105,6 +105,106 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2055828480433205487",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "目前 iOS 版本已上线，仅需 $2.99 😭\n\napps.apple.com/us/app/muxy/i…",
+      "contentHtml": "目前 iOS 版本已上线，仅需 $2.99 😭\n\n<a href=\"https://apps.apple.com/us/app/muxy/id6762464046\">apps.apple.com/us/app/muxy/i…</a>",
+      "publishedAt": "2026-05-17T01:51:00.000Z",
+      "link": "https://x.com/taresky/status/2055828480433205487",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIfFFrVbQAAN7sV.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055825636326076531",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n经过多天的使用，muxy 是目前我认为 remote vibe coding 的最优解。\n\n1. 连接体验极佳。连接和切换设备都在 0.5s 内完成，哪怕移动网络弱信号下也极快。相对而言最近的 Codex on iOS 连接极其慢，非常不稳定。\n\n2. 可以同时用 Codex、Claude Code、AMP。全功能。\n\n3. 很聪明地放弃了“同步”。同时只能在一台设备上激活窗口，切换设备时点击就秒切。完美避开了其他竞品想做同步，反而带来的各种不同步体验。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n经过多天的使用，muxy 是目前我认为 remote vibe coding 的最优解。\n\n1. 连接体验极佳。连接和切换设备都在 0.5s 内完成，哪怕移动网络弱信号下也极快。相对而言最近的 Codex on iOS 连接极其慢，非常不稳定。\n\n2. 可以同时用 Codex、Claude Code、AMP。全功能。\n\n3. 很聪明地放弃了“同步”。同时只能在一台设备上激活窗口，切换设备时点击就秒切。完美避开了其他竞品想做同步，反而带来的各种不同步体验。",
+      "publishedAt": "2026-05-17T01:40:00.000Z",
+      "link": "https://x.com/taresky/status/2055825636326076531",
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#AI \n\n如果 SuperSet 支持 iOS remote，就完美了。\n\n尤其是 Remote 的是 SuperSet macOS App，而不是各种 AI CLI。\n\n现在主流的应该是 AI CLI 的 remote bridge，而我认为更合理的是 AI agent workspace app 本身的 remote  工具。\n\n可以完美解决各种兼容性和使用政策变卦的问题。",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n如果 SuperSet 支持 iOS remote，就完美了。\n\n尤其是 Remote 的是 SuperSet macOS App，而不是各种 AI CLI。\n\n现在主流的应该是 AI CLI 的 remote bridge，而我认为更合理的是 AI agent workspace app 本身的 remote  工具。\n\n可以完美解决各种兼容性和使用政策变卦的问题。",
+        "link": "https://x.com/taresky/status/2054775941021454373"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055823497662734594",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_bigger.jpg",
+      "content": "这几天在疯狂补习这段时间错过的东西，也算研究明白一些了，本质还是换汤不换药的“新玩法”",
+      "contentHtml": "这几天在疯狂补习这段时间错过的东西，也算研究明白一些了，本质还是换汤不换药的“新玩法”",
+      "publishedAt": "2026-05-17T01:31:00.000Z",
+      "link": "https://x.com/0xleng1/status/2055823497662734594",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055823114513404329",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "BTC的“暖冬”是好？是坏？\n\n昨天和朋友聊起对当前市场的看法，大家都感觉在情绪上本轮熊市没有过去那么恐惧，没有产生那种“CNM！BTC是骗局！” 的绝望感。\n\n对此，我在数据上做了统计和对比。以BTC大跌当天，链上产生的已实现亏损（Entity-Adjusted Realized Loss，EARL）规模大小来反映市场恐慌和痛苦程度。\n\n在18-19年熊市，大规模实现亏损出现过3次；22-23年熊市出现过4次。而本轮熊市至今只有2次，但2026.2.5 这次创下历史记录，亏损金额高达30亿美元（如图1）。\n\n所以，你说这不恐慌？那是假的。\n\n只是类似这种把市场打骨折的次数确实少了点。\n\n如果我们把不同周期BTC的市值也不同这一因素考虑进去，结果会变得更加清晰：\n\n在18-19年熊市，3次大规模的实现亏损金额，相对于当时市值的占比大致在3%-6%之间；22-23年熊市的4次也大致在这个范围（如图2）。\n\n而本轮熊市的2次大跌，一次是占比0.11%，一次是0.24%；\n\n从这个角度看，相对于BTC市值变大，抗风险能力增强后，让投资者整体所产生的绝望和痛苦程度，确实是历史以来最小的一次。\n\n如果我们把熊市视为“市场冬季”，那么18年和22年是“寒冬”，而2026年只算“暖冬”。\n\n按自然规律，冬天低温不足会打乱植物、动物、病虫害和水资源的正常节奏，生态节奏容易错位。\n\n所以，这一次BTC也可能会在这样一个“熊不熊，牛不牛”的过度阶段中，比以往走的更纠结，耗时更长。\n\n这也会极大的考验交易者的耐心和定力，也许把一切交给时间才是最好的选择......",
+      "contentHtml": "BTC的“暖冬”是好？是坏？\n\n昨天和朋友聊起对当前市场的看法，大家都感觉在情绪上本轮熊市没有过去那么恐惧，没有产生那种“CNM！BTC是骗局！” 的绝望感。\n\n对此，我在数据上做了统计和对比。以BTC大跌当天，链上产生的已实现亏损（Entity-Adjusted Realized Loss，EARL）规模大小来反映市场恐慌和痛苦程度。\n\n在18-19年熊市，大规模实现亏损出现过3次；22-23年熊市出现过4次。而本轮熊市至今只有2次，但2026.2.5 这次创下历史记录，亏损金额高达30亿美元（如图1）。\n\n所以，你说这不恐慌？那是假的。\n\n只是类似这种把市场打骨折的次数确实少了点。\n\n如果我们把不同周期BTC的市值也不同这一因素考虑进去，结果会变得更加清晰：\n\n在18-19年熊市，3次大规模的实现亏损金额，相对于当时市值的占比大致在3%-6%之间；22-23年熊市的4次也大致在这个范围（如图2）。\n\n而本轮熊市的2次大跌，一次是占比0.11%，一次是0.24%；\n\n从这个角度看，相对于BTC市值变大，抗风险能力增强后，让投资者整体所产生的绝望和痛苦程度，确实是历史以来最小的一次。\n\n如果我们把熊市视为“市场冬季”，那么18年和22年是“寒冬”，而2026年只算“暖冬”。\n\n按自然规律，冬天低温不足会打乱植物、动物、病虫害和水资源的正常节奏，生态节奏容易错位。\n\n所以，这一次BTC也可能会在这样一个“熊不熊，牛不牛”的过度阶段中，比以往走的更纠结，耗时更长。\n\n这也会极大的考验交易者的耐心和定力，也许把一切交给时间才是最好的选择......",
+      "publishedAt": "2026-05-17T01:30:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2055823114513404329",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIcRDHHa4AAGPxl.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIcRHigbgAA_EMa.png"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "从链上数据的角度，聊聊对短期行情的见解\n\nBTC正在连续考验STH-RP的支撑作用。在没有突破之前，STH-RP & TMMP 是双重阻力，反过来现在变成了双重支撑。当价格接近成本基础附近时抛压减少，证明当前市场情绪还比较稳定。\n\n我们知道，市场总会选择朝阻力更小的方向发展，如果在STH-RP持续支撑，即表示向下有阻力，那么就继续向上直到下一个阻力区。\n\n即便跌破支撑，也不意味着就一定是奔着破新低而去。在熊市后半段，价格围绕STH-RP上下徘徊是很常见的情况。\n\n即便我们不考虑目前在6.6w-7w之间有一段筹码密集区（大资金抄底区间），要跌出新低至少要先跌破 <10y_RP —— 一个在今年2-3月市场极端恐慌情绪下被反复考验的支撑位。\n\n每一轮熊市周期都有不同的投资者心理承受极限，之前是可能是Realized Price，LTH-RP等等；但在本轮周期，至少目前看来它就是 <10y_RP（图2）。\n\n不过，短期来看BTC有较大概率要进入一段调整期。\n\nRMMPC中蓝线（美国区）已经明显低于红线（亚洲区），同时Binance USDC/USDT 汇率大于1；Coinbase 溢价指数为负（图3/图4）； \n\n在之前的推文中有提到，如果“美元购买力观测三大核心指标” 的3条全符合，那么BTC在大概率“要涨不动”了；至少不会像之前那么强势，或者以横带跌都有可能。\n\n总之，我仍然坚持：在多项大级别数据已给出提示的前提下，回调是机会不是风险的这一观点。",
+        "contentHtml": "从链上数据的角度，聊聊对短期行情的见解\n\nBTC正在连续考验STH-RP的支撑作用。在没有突破之前，STH-RP & TMMP 是双重阻力，反过来现在变成了双重支撑。当价格接近成本基础附近时抛压减少，证明当前市场情绪还比较稳定。\n\n我们知道，市场总会选择朝阻力更小的方向发展，如果在STH-RP持续支撑，即表示向下有阻力，那么就继续向上直到下一个阻力区。\n\n即便跌破支撑，也不意味着就一定是奔着破新低而去。在熊市后半段，价格围绕STH-RP上下徘徊是很常见的情况。\n\n即便我们不考虑目前在6.6w-7w之间有一段筹码密集区（大资金抄底区间），要跌出新低至少要先跌破 &lt;10y_RP —— 一个在今年2-3月市场极端恐慌情绪下被反复考验的支撑位。\n\n每一轮熊市周期都有不同的投资者心理承受极限，之前是可能是Realized Price，LTH-RP等等；但在本轮周期，至少目前看来它就是 &lt;10y_RP（图2）。\n\n不过，短期来看BTC有较大概率要进入一段调整期。\n\nRMMPC中蓝线（美国区）已经明显低于红线（亚洲区），同时Binance USDC/USDT 汇率大于1；Coinbase 溢价指数为负（图3/图4）； \n\n在之前的推文中有提到，如果“美元购买力观测三大核心指标” 的3条全符合，那么BTC在大概率“要涨不动”了；至少不会像之前那么强势，或者以横带跌都有可能。\n\n总之，我仍然坚持：在多项大级别数据已给出提示的前提下，回调是机会不是风险的这一观点。",
+        "link": "https://x.com/Murphychen888/status/2055508548378112207",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIafRKxbEAAe8ly.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIafUKWbwAAg-sI.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2055816407691248005",
       "username": "taresky",
@@ -11819,84 +11919,6 @@
       "contentHtml": "ride with the flow.",
       "publishedAt": "2026-05-09T05:27:00.000Z",
       "link": "https://x.com/CycleStudies/status/2052983867058053147",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052979214018920516",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "福冈的面包店繁荣到什么程度，你甚至可以找到小麦、鸡蛋、牛奶过敏者的专门面包店。",
-      "contentHtml": "福冈的面包店繁荣到什么程度，你甚至可以找到小麦、鸡蛋、牛奶过敏者的专门面包店。",
-      "publishedAt": "2026-05-09T05:09:00.000Z",
-      "link": "https://x.com/taresky/status/2052979214018920516",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052975282588721230",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "币安会配合我割韭菜，给我安排了大赛冠军，为了显得真实，还特意整了两届亚军\n\n😂剧本是不是这样的？\n我也想割韭菜，你们发个盘子然后把98%筹码发给我吧，我来喊单拉盘",
-      "contentHtml": "币安会配合我割韭菜，给我安排了大赛冠军，为了显得真实，还特意整了两届亚军\n\n😂剧本是不是这样的？\n我也想割韭菜，你们发个盘子然后把98%筹码发给我吧，我来喊单拉盘",
-      "publishedAt": "2026-05-09T04:53:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2052975282588721230",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "第四届比赛结束了，一三届亚军，二四届冠军\n感谢吊毛粉丝捧场，❤️你们\n❗️借这个帖子说明下，本人没有任何的出入金兑换，代理财投资业务，不会主动私聊你要钱，那些都是骗子，千万不要被骗\n❗️另外我的telegram号不是bitfatty，如果你在什么群看到我，一般都是李鬼\n❗️另外我不会站台任何项目，有二逼项目贴我头像做海报的一律是垃圾骗子，勿信\n目前我们还在正经运营的就一个dc和一个知识星球，收割智商税但是不至于做骗子犯法，千万注意⚠️\n祝你们早日在币圈暴富，逆天改命\n奖金发了再搞个抽奖，我这会空单还套着呢，🌿🌿🌿",
-        "link": "https://x.com/Bitfatty/status/1739149526974501041",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/GCKzRedacAAtUDZ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052973346682544576",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "你们推荐的东西比ai好多了\n\n再给我推荐个好用的电脑桌呗\n\n准备再加两个工作(游戏)台",
-      "contentHtml": "你们推荐的东西比ai好多了\n\n再给我推荐个好用的电脑桌呗\n\n准备再加两个工作(游戏)台",
-      "publishedAt": "2026-05-09T04:46:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2052973346682544576",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2052969925309014122",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "看车头身价跟单的\n大抵跟捞女指望上嫁富哥差不多\n\n永远被草  永远吃不到\n那给你看的🥕永远不是你的",
-      "contentHtml": "看车头身价跟单的\n大抵跟捞女指望上嫁富哥差不多\n\n永远被草  永远吃不到\n那给你看的🥕永远不是你的",
-      "publishedAt": "2026-05-09T04:32:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2052969925309014122",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH2dQyQbIAAdJr9.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
