@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T23:19:35.868Z",
+  "lastUpdated": "2026-05-17T23:48:38.645Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,45 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 589,
-    "successUsers": 29,
-    "failedUsers": 1
+    "newFetched": 569,
+    "successUsers": 28,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2056158337318965356",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-05-17T23:42:00.000Z",
+      "link": "https://x.com/hazenlee/status/2056158337318965356",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIjxG5UbsAAVXDX.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "胜负已分，下周下地狱。",
+        "contentHtml": "胜负已分，下周下地狱。",
+        "link": "https://x.com/hazenlee/status/2055533748364653018",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIa5CttboAA20wb.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2056127158196502775",
       "username": "KillaXBT",
@@ -12009,28 +12043,6 @@
         "content": "rho 这个项目这几天刚发刚夸完就改规则，不是成本便宜真不会玩这种项目@Rho_Labs 你能不能当个正常人，三天两头改规则",
         "contentHtml": "rho 这个项目这几天刚发刚夸完就改规则，不是成本便宜真不会玩这种项目<a href=\"/Rho_Labs\" title=\"Rho Labs\">@Rho_Labs</a> 你能不能当个正常人，三天两头改规则",
         "link": "https://x.com/0xleng1/status/2053086953298419832"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053162134347911497",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "文字版：nitter.net/TJ_Research/status/205…",
-      "contentHtml": "文字版：<a href=\"https://nitter.net/TJ_Research/status/2053161978932154400\">nitter.net/TJ_Research/status/205…</a>",
-      "publishedAt": "2026-05-09T17:16:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2053162134347911497",
-      "quote": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君",
-        "content": "x.com/i/article/205315630467…",
-        "contentHtml": "<a href=\"http://x.com/i/article/2053156304672129029\">x.com/i/article/205315630467…</a>",
-        "link": "https://x.com/TJ_Research/status/2053161978932154400"
       },
       "stats": {
         "replies": 0,
