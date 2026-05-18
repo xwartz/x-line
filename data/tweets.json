@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T08:22:07.139Z",
+  "lastUpdated": "2026-05-18T09:48:41.182Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,61 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 566,
-    "successUsers": 28,
-    "failedUsers": 2
+    "newFetched": 586,
+    "successUsers": 29,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2056305873878909167",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "啊，不要再买了啊\n\n受不了了😓",
+      "contentHtml": "啊，不要再买了啊\n\n受不了了😓",
+      "publishedAt": "2026-05-18T09:28:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2056305873878909167",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIl3SmxawAAbf8i.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIl3SmuacAAVv2_.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056304563699794034",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#NVDA \n\n北京时间这周四凌晨，英伟达重磅财报需要关注\n\n英伟达从上周开始突破后缓慢上涨10% \n\n从英伟达的历次财报来看\n\n若财报前强势上涨会延续强势\n\n赌英伟达财报的意义本身并没有那么大",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23NVDA\">#NVDA</a> \n\n北京时间这周四凌晨，英伟达重磅财报需要关注\n\n英伟达从上周开始突破后缓慢上涨10% \n\n从英伟达的历次财报来看\n\n若财报前强势上涨会延续强势\n\n赌英伟达财报的意义本身并没有那么大",
+      "publishedAt": "2026-05-18T09:23:00.000Z",
+      "link": "https://x.com/dongbimao/status/2056304563699794034",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIl2EtXXEAAJG3J.png"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIl2FlwWoAAwfOp.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2056287643697107148",
       "username": "TJ_Research",
@@ -136,6 +186,43 @@
       "contentHtml": "吐血了😓",
       "publishedAt": "2026-05-18T07:30:00.000Z",
       "link": "https://x.com/Bitfatty/status/2056276188533080242",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056269627760807955",
+      "username": "viviennaBTC",
+      "displayName": "vivienna.btc",
+      "avatar": "https://pbs.twimg.com/profile_images/2055180188225597440/aMExf6UQ_bigger.jpg",
+      "content": "终于把磨了好久的四大宏观(美债、美元、黄金、通胀)看板上线啦！ \n最近彻底沉迷 AI Coding，每天用 Claude 写代码写到半夜，一版一版迭代调试，总算把这套自己梦寐以求的实时看板做出来了～  \n\n为什么要做这些？ \n\n宏观因子建模本质上是把高维、噪声大、强相关的时间序列数据，转化为低维、可解释、可预测的信号，用于资产配置、择时和风险管理。\n  \n我把常见的宏观因子分成几大类：\n\n• 利率/货币政策类：真实利率、期限利差、forward curve、政策预期路径\n\n• 通胀类：核心通胀、预期通胀（breakeven）、薪资-通胀螺旋、财政驱动\n\n• 增长/风险偏好类：增长 surprise、信用利差、VIX、美元carry\n\n• 商品/避险类：黄金真实收益率敏感度、地缘风险溢价\n\n• 流动性/供给类：美债净供给、央行资产负债表、美元流动性指数  \n\n我选择了黄金、美元、美债、通胀因子这四个类别。\n\n对资产管理最实际的帮助：\n\n• 快速抓住宏观拐点\n• 看清多因子驱动逻辑\n• 辅助大类资产配置和风险对冲\n• 自己改权重、自己看结果，超级爽  \n\n四大看板亮点：  \n\n美债看板\n实时收益率曲线 + 智能因子计分卡（-2到+2自动打分，帮你判断久期和曲线立场）+ 政策路径 + 供给资金流\n\nus-treasury-bonds-monitor-lu… \n\n美元看板\nDXY多因子估值模型（利率差+风险溢价+便利收益+波动预警）+ 综合评分 + 持仓分析，一眼看美元强弱\n\nusd-monitor.vercel.app/ \n\n黄金看板\n多因子信号强度 + SHAP归因瀑布图 + 体制切换预测，搞懂黄金到底在涨啥\n\ngold-monitor-delta.vercel.ap… \n\n通胀因子看板\n五维通胀压力评分 + 四资产信号塔 + 体制诊断，提前闻到通胀味儿\n\ninflation-monitor-nine.verce… \n\n重要提醒：这些看板仅供教育和研究使用，绝不构成任何投资建议。市场有风险，决策还得靠自己！  \n\n全部免费、数据实时更新，还支持自定义因子权重。感兴趣的同学可以一起开放交流量化建模方法与实际落地流程。  \n欢迎大家来玩、来反馈、来一起交流～ 我继续用 Claude 肝新模块！  \n\n#宏观交易 #黄金 #美债 #美元 #通胀 #AI_Coding #Claude  （vivienna.btc × Claude 沉迷副产物）",
+      "contentHtml": "终于把磨了好久的四大宏观(美债、美元、黄金、通胀)看板上线啦！ \n最近彻底沉迷 AI Coding，每天用 Claude 写代码写到半夜，一版一版迭代调试，总算把这套自己梦寐以求的实时看板做出来了～  \n\n为什么要做这些？ \n\n宏观因子建模本质上是把高维、噪声大、强相关的时间序列数据，转化为低维、可解释、可预测的信号，用于资产配置、择时和风险管理。\n  \n我把常见的宏观因子分成几大类：\n\n• 利率/货币政策类：真实利率、期限利差、forward curve、政策预期路径\n\n• 通胀类：核心通胀、预期通胀（breakeven）、薪资-通胀螺旋、财政驱动\n\n• 增长/风险偏好类：增长 surprise、信用利差、VIX、美元carry\n\n• 商品/避险类：黄金真实收益率敏感度、地缘风险溢价\n\n• 流动性/供给类：美债净供给、央行资产负债表、美元流动性指数  \n\n我选择了黄金、美元、美债、通胀因子这四个类别。\n\n对资产管理最实际的帮助：\n\n• 快速抓住宏观拐点\n• 看清多因子驱动逻辑\n• 辅助大类资产配置和风险对冲\n• 自己改权重、自己看结果，超级爽  \n\n四大看板亮点：  \n\n美债看板\n实时收益率曲线 + 智能因子计分卡（-2到+2自动打分，帮你判断久期和曲线立场）+ 政策路径 + 供给资金流\n\n<a href=\"https://us-treasury-bonds-monitor-luffa.vercel.app/#scorecard\">us-treasury-bonds-monitor-lu…</a> \n\n美元看板\nDXY多因子估值模型（利率差+风险溢价+便利收益+波动预警）+ 综合评分 + 持仓分析，一眼看美元强弱\n\n<a href=\"https://usd-monitor.vercel.app/\">usd-monitor.vercel.app/</a> \n\n黄金看板\n多因子信号强度 + SHAP归因瀑布图 + 体制切换预测，搞懂黄金到底在涨啥\n\n<a href=\"https://gold-monitor-delta.vercel.app/\">gold-monitor-delta.vercel.ap…</a> \n\n通胀因子看板\n五维通胀压力评分 + 四资产信号塔 + 体制诊断，提前闻到通胀味儿\n\n<a href=\"https://inflation-monitor-nine.vercel.app/\">inflation-monitor-nine.verce…</a> \n\n重要提醒：这些看板仅供教育和研究使用，绝不构成任何投资建议。市场有风险，决策还得靠自己！  \n\n全部免费、数据实时更新，还支持自定义因子权重。感兴趣的同学可以一起开放交流量化建模方法与实际落地流程。  \n欢迎大家来玩、来反馈、来一起交流～ 我继续用 Claude 肝新模块！  \n\n<a href=\"/search?f=tweets&q=%23宏观交易\">#宏观交易</a> <a href=\"/search?f=tweets&q=%23黄金\">#黄金</a> <a href=\"/search?f=tweets&q=%23美债\">#美债</a> <a href=\"/search?f=tweets&q=%23美元\">#美元</a> <a href=\"/search?f=tweets&q=%23通胀\">#通胀</a> <a href=\"/search?f=tweets&q=%23AI_Coding\">#AI_Coding</a> <a href=\"/search?f=tweets&q=%23Claude\">#Claude</a>  （vivienna.btc × Claude 沉迷副产物）",
+      "publishedAt": "2026-05-18T07:04:00.000Z",
+      "link": "https://x.com/viviennaBTC/status/2056269627760807955",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIlVMG0boAAlIzY.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIlVL_WboAA4RWP.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIlVMGybgAAR6wp.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIlVMG2bgAA729T.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -12101,63 +12188,6 @@
       "contentHtml": "想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群   \n👉 <a href=\"http://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
       "publishedAt": "2026-05-10T11:05:00.000Z",
       "link": "https://x.com/coinkarma_/status/2053431273511854338",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053431271083405801",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "$BTC 在短線上，當流動性指標與衍伸品數據產生共振時，往往是相對好的買點，我們可以透過兩者數據來判斷介入行情的時機。 \n\n如圖，以整體市場流動性 Overall LIQ 為主，當其與衍生品數據 LSUR Z Index 產生共振時，復盤看短線上是相對好的做多時機。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 在短線上，當流動性指標與衍伸品數據產生共振時，往往是相對好的買點，我們可以透過兩者數據來判斷介入行情的時機。 \n\n如圖，以整體市場流動性 Overall LIQ 為主，當其與衍生品數據 LSUR Z Index 產生共振時，復盤看短線上是相對好的做多時機。",
-      "publishedAt": "2026-05-10T11:05:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2053431271083405801",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH9Au9kbkAAmDL3.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053431108323484000",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "Want to catch real-time trading opportunities? Start your 14-day free trial now   \n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "Want to catch real-time trading opportunities? Start your 14-day free trial now   \n👉 <a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-05-10T11:05:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2053431108323484000",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053431105790017801",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "For short-term $BTC trades, the convergence of liquidity metrics and derivatives data often signals a solid entry point. \n\nBy cross-referencing both, we can better time our entries. As shown in the chart, when Overall LIQ (overall market liquidity) converges with LSUR Z Index (derivatives data), backtesting shows these moments tend to offer favorable long opportunities on the short-term timeframe.",
-      "contentHtml": "For short-term <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> trades, the convergence of liquidity metrics and derivatives data often signals a solid entry point. \n\nBy cross-referencing both, we can better time our entries. As shown in the chart, when Overall LIQ (overall market liquidity) converges with LSUR Z Index (derivatives data), backtesting shows these moments tend to offer favorable long opportunities on the short-term timeframe.",
-      "publishedAt": "2026-05-10T11:05:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2053431105790017801",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH9AHTwbgAAACeB.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
