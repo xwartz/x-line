@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T14:12:59.314Z",
+  "lastUpdated": "2026-05-18T15:46:31.548Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,153 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 588,
+    "newFetched": 585,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2056397292232659243",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "全链上财富管理的闭环，迈出实质一步。最近看到Grvt把Earn产品直接接入Centrifuge上的 JTRSY（美债基金），简单说，你把闲置保证金放在Grvt里，它自动去赚机构级美国国债收益率，同时这笔钱依然 100%可用于交易——无需 bridge、无需切换链、无需转托管，资金效率拉满，流动性完全不牺牲。\n\n这听起来简单，但意义不小。过去 DeFi 的问题是碎片化：交易就交易，Earn就Earn，RWA就RWA，大家各自为政。资金在不同协议间来回跳，gas费、桥风险、时机错配，一堆摩擦成本。Grvt这次整合，直接把交易+稳定收益+RWA 抵押打通成一个自托管的统一余额池。也就构成了全链上财富管理闭环的核心：资金统一。\n\n这里多说下，Centrifuge是一家2017年在瑞士成立专注于资产代币化RWA的公司，并得到Coinbase战略投资，已经累计发行超过18亿美金的资产。\n\n对 Grvt 而言，这是从纯Perp DEX向「链上财富平台」转型的关键一跃。用户把更多资金长期停在平台，既交易又 earn，粘性和 TVL 都会上去。后面如果继续接入更多 Centrifuge RWA（信贷、发票融资、真实资产等），整个闭环会越来越厚实。\n\n更广义看，这也是 RWA 赛道从「单纯代币化」走向「深度可组合」的重要信号。以前tokenized Treasury 更多是机构或 DAO 在玩，现在直接嵌入零售交易场景，证明 RWA可以真正成为日常yield来源。\n\n后续如果更多协议跟进，把 earn、trade、借贷、RWA 真正闭环起来，我们可能真的会看到链上金融从「投机乐园」向「成熟财富基础设施」的进化。个人觉得，这才是 RWA + DeFi 下半场最值得长期跟踪的叙事之一。",
+      "contentHtml": "全链上财富管理的闭环，迈出实质一步。最近看到Grvt把Earn产品直接接入Centrifuge上的 JTRSY（美债基金），简单说，你把闲置保证金放在Grvt里，它自动去赚机构级美国国债收益率，同时这笔钱依然 100%可用于交易——无需 bridge、无需切换链、无需转托管，资金效率拉满，流动性完全不牺牲。\n\n这听起来简单，但意义不小。过去 DeFi 的问题是碎片化：交易就交易，Earn就Earn，RWA就RWA，大家各自为政。资金在不同协议间来回跳，gas费、桥风险、时机错配，一堆摩擦成本。Grvt这次整合，直接把交易+稳定收益+RWA 抵押打通成一个自托管的统一余额池。也就构成了全链上财富管理闭环的核心：资金统一。\n\n这里多说下，Centrifuge是一家2017年在瑞士成立专注于资产代币化RWA的公司，并得到Coinbase战略投资，已经累计发行超过18亿美金的资产。\n\n对 Grvt 而言，这是从纯Perp DEX向「链上财富平台」转型的关键一跃。用户把更多资金长期停在平台，既交易又 earn，粘性和 TVL 都会上去。后面如果继续接入更多 Centrifuge RWA（信贷、发票融资、真实资产等），整个闭环会越来越厚实。\n\n更广义看，这也是 RWA 赛道从「单纯代币化」走向「深度可组合」的重要信号。以前tokenized Treasury 更多是机构或 DAO 在玩，现在直接嵌入零售交易场景，证明 RWA可以真正成为日常yield来源。\n\n后续如果更多协议跟进，把 earn、trade、借贷、RWA 真正闭环起来，我们可能真的会看到链上金融从「投机乐园」向「成熟财富基础设施」的进化。个人觉得，这才是 RWA + DeFi 下半场最值得长期跟踪的叙事之一。",
+      "publishedAt": "2026-05-18T15:31:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2056397292232659243",
+      "quote": {
+        "username": "grvt_io",
+        "displayName": "Grvt",
+        "content": "Grvt x @centrifuge 🤝\n\nThe yield was always there. You just weren't allowed to have it. Until now.\n\nGrvt Earn now offers access to yield backed by @centrifuge's JTRSY (Janus Henderson Anemoy Treasury Fund).",
+        "contentHtml": "Grvt x <a href=\"/centrifuge\" title=\"Centrifuge\">@centrifuge</a> 🤝\n\nThe yield was always there. You just weren't allowed to have it. Until now.\n\nGrvt Earn now offers access to yield backed by <a href=\"/centrifuge\" title=\"Centrifuge\">@centrifuge</a>'s JTRSY (Janus Henderson Anemoy Treasury Fund).",
+        "link": "https://x.com/grvt_io/status/2054925874194256115",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HISQMRqbcAA5P-5.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056396964770598975",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "$BTC \n\nDing Ding Ding! \n\nMarket follows liquidity.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nDing Ding Ding! \n\nMarket follows liquidity.",
+      "publishedAt": "2026-05-18T15:30:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2056396964770598975",
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "Well, on the HTF we have a massive cluster of $BTC liquidations sat at 74-76K\n\nWouldn't be surprised if this get taken at some point soon.",
+        "contentHtml": "Well, on the HTF we have a massive cluster of <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> liquidations sat at 74-76K\n\nWouldn't be surprised if this get taken at some point soon.",
+        "link": "https://x.com/KillaXBT/status/2056073880272347160",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIijT5mXMAAjTUc.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056395788100710695",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "发 5",
+      "contentHtml": "发 5",
+      "publishedAt": "2026-05-18T15:25:00.000Z",
+      "link": "https://x.com/taresky/status/2056395788100710695",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056391099321930000",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
+      "content": "两个祭念日合一个，比较好扫墓。",
+      "contentHtml": "两个祭念日合一个，比较好扫墓。",
+      "publishedAt": "2026-05-18T15:06:00.000Z",
+      "link": "https://x.com/hazenlee/status/2056391099321930000",
+      "quote": {
+        "username": "yuren477",
+        "displayName": "余人sama",
+        "content": "你们不会忘了明天就是519了吧？所有反弹都是滚仓机会🫡",
+        "contentHtml": "你们不会忘了明天就是519了吧？所有反弹都是滚仓机会🫡",
+        "link": "https://x.com/yuren477/status/2056390708509253972"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056384985142263979",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "They let you short a shitcoin at 2.5 trillion market cap on Hyperliquid\n\nAmazing tech",
+      "contentHtml": "They let you short a shitcoin at 2.5 trillion market cap on Hyperliquid\n\nAmazing tech",
+      "publishedAt": "2026-05-18T14:42:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2056384985142263979",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056380208954175984",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "久违了，Pumpfun 疑似抛售 82700 $SOL 的手续费😬\n\n时隔 9 个月其三个手续费地址过去 1 小时向 #Kraken 充值 82700 枚 SOL，价值 701 万美元，目前链上剩余 228 万枚 SOL\n\n遥想公瑾当年，可是几千万几千万的卖啊…\n\n钱包地址 intel.arkm.com/explorer/addr…",
+      "contentHtml": "久违了，Pumpfun 疑似抛售 82700 <a href=\"/search?f=tweets&q=%23SOL\">$SOL</a> 的手续费😬\n\n时隔 9 个月其三个手续费地址过去 1 小时向 <a href=\"/search?f=tweets&q=%23Kraken\">#Kraken</a> 充值 82700 枚 SOL，价值 701 万美元，目前链上剩余 228 万枚 SOL\n\n遥想公瑾当年，可是几千万几千万的卖啊…\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/CebN5WGQ4jvEPvsVU4EoHEpgzq1VV7AbicfhtW4xC9iM\">intel.arkm.com/explorer/addr…</a>",
+      "publishedAt": "2026-05-18T14:23:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2056380208954175984",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIm3pI8a0AASqmf.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "趁着大家伙都在参与 Pancake IDO，Pump.fun 又在偷偷卖 $SOL 了🤣\n\n10 分钟前，其手续费地址向 #Kraken 充值 148,759 枚 SOL，价值 2817 万美金，目前地址仍持有 16,877 SOL\n\nsolscan.io/tx/4LB6fGoX112vqv…",
+        "contentHtml": "趁着大家伙都在参与 Pancake IDO，<a href=\"http://Pump.fun\">Pump.fun</a> 又在偷偷卖 <a href=\"/search?f=tweets&q=%23SOL\">$SOL</a> 了🤣\n\n10 分钟前，其手续费地址向 <a href=\"/search?f=tweets&q=%23Kraken\">#Kraken</a> 充值 148,759 枚 SOL，价值 2817 万美金，目前地址仍持有 16,877 SOL\n\n<a href=\"https://solscan.io/tx/4LB6fGoX112vqvXu1NHbEzL5VUwnnHvr5QhcPm5XfPmrPD34UZBtqKs25PwpdtCvgf53uFdHVEaNCBqaHmthFQnA\">solscan.io/tx/4LB6fGoX112vqv…</a>",
+        "link": "https://x.com/ai_9684xtpa/status/1890044063384297690",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/GjrJBzDa8AI9Zqf.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2056376704881570146",
       "username": "ai_9684xtpa",
@@ -12121,148 +12263,6 @@
           "url": "https://pbs.twimg.com/media/HH-SSVjbcAIzgHY.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053513620378841422",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
-      "content": "是的, 我今天还在和OAI的朋友聊, AI as a whole is more of an industrial story much less of a software story, 整个科技的摆锤又回到hyper-industrialized了   真正的“创业” 机会应该是在AI+ 大航天 大能源 大生科 大工业自动化etc 但是这些都不是只靠优秀独特能卷爱拼human brain power的机会了... \n\n只有Internet commerce and internet capital market 才是给年轻founder最大的杠杠",
-      "contentHtml": "是的, 我今天还在和OAI的朋友聊, AI as a whole is more of an industrial story much less of a software story, 整个科技的摆锤又回到hyper-industrialized了   真正的“创业” 机会应该是在AI+ 大航天 大能源 大生科 大工业自动化etc 但是这些都不是只靠优秀独特能卷爱拼human brain power的机会了... \n\n只有Internet commerce and internet capital market 才是给年轻founder最大的杠杠",
-      "publishedAt": "2026-05-10T16:32:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2053513620378841422",
-      "quote": {
-        "username": "kernel1983",
-        "displayName": "KJ博士 🇨🇦",
-        "content": "搞 AI 像制药，没有临床没有批文，博士单枪匹马是不可能搞出东西了。Crypto还有机会。",
-        "contentHtml": "搞 AI 像制药，没有临床没有批文，博士单枪匹马是不可能搞出东西了。Crypto还有机会。",
-        "link": "https://x.com/kernel1983/status/2053511563449946569"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053511784590627079",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "不同的市场惩罚奖励不同的策略\n\n以前的币圈奖励钻石手惩罚纸手，纸手的代价是一辈子都在后悔那个能让自己财富自由的机会\n\n现在的币圈惩罚钻石手奖励纸手，钻石手的代价是无数次浮盈归零梭哈新机会的勇气被消磨殆尽，现金流差的本金磨没了\n\n美股奖励蓝筹龙头钻石手\n\n仅此而已，之前吐槽谩骂比较多，周末陪家人逛街的时候突然就无所谓了  \n换个场子玩不就跟换张游戏卡带一样简单，何必纠结\n“妈咪呀，这批不行，下一批！”",
-      "contentHtml": "不同的市场惩罚奖励不同的策略\n\n以前的币圈奖励钻石手惩罚纸手，纸手的代价是一辈子都在后悔那个能让自己财富自由的机会\n\n现在的币圈惩罚钻石手奖励纸手，钻石手的代价是无数次浮盈归零梭哈新机会的勇气被消磨殆尽，现金流差的本金磨没了\n\n美股奖励蓝筹龙头钻石手\n\n仅此而已，之前吐槽谩骂比较多，周末陪家人逛街的时候突然就无所谓了  \n换个场子玩不就跟换张游戏卡带一样简单，何必纠结\n“妈咪呀，这批不行，下一批！”",
-      "publishedAt": "2026-05-10T16:25:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2053511784590627079",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH-KFIiboAA-Exe.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053502053687939102",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "税收季过去，流动性确实在改善。从财政部借款预估和再融资计划来看二三季度的流动性情况。截止5月6号，银行准备金已经回升到3.03万亿美金以上，主要是财政部TGA账户加大了支出力度。\n\n看财政部在本周公布的预估借款规模和季度再融资计划，\n1）二季度（Q2）预估： 财政部预计二季度净借款额为 1,890亿美元。这一数字较此前的预估上调了790亿美元，主要原因是净现金流弱于预期。预计6月底的TGA现金余额目标为 9,000亿美元。\n\n2）三季度（Q3）预估： 随着财政支出的增加，三季度的借款需求预计将激增至 6,710亿美元。预计9月底的TGA余额目标为 9,500亿美元，并且财政部提示，TGA账户余额在7月下旬可能会达到 1万亿美元（±500亿美元）的峰值。\n\n财政部在本次再融资计划中选择了“按兵不动”的维稳策略，尽量避免对长端收益率造成额外冲击。\n1）长债发行规模触顶维稳： 财政部计划在5月发行1,250亿美元的中长期国债（3年期、10年期和30年期）。更重要的是，财政部认为目前的拍卖规模已经能够很好地应对未来的财政需求，因此宣布在未来几个季度内 维持所有名义票息国债和浮动利率票据（FRN）的拍卖规模不变。\n\n2）依靠短债（Bills）灵活调节： 面对三季度激增的融资需求，财政部将主要依靠调整短期国库券的供应来应对。预计5月将进一步增加短期基准Bills的发行，并在5月下旬发行现金管理票据（CMB）以度过月末的流动性高峰。随后在6月份，随着月中企业纳税期的到来（税收收入增加），将适度削减短债的拍卖规模。\n\n3）常态化国债回购（Buybacks）： 财政部的定期回购操作正在按计划推进。预计在接下来的季度中，将购买高达380亿美元的非活跃长端债券（用于流动性支持），并在1个月至2年期区间内购买高达250亿美元的债券（用于现金管理）。\n\n看财政部TGA这个支出力度，五六月银行准备金很大概率回升到3.1万亿美金以上，甚至摸到3.2万亿以上。但是6月下旬可能要有抽水时刻，毕竟财政部的目标6月底TGA维持在9000亿美金。\n\n个人角度看\n二季度美国流动性“偏宽”\n但三季度开始会明显转向“抽水”\n\n维持5月4号的判断，流动性改善对大饼这种风险资产是好事。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "税收季过去，流动性确实在改善。从财政部借款预估和再融资计划来看二三季度的流动性情况。截止5月6号，银行准备金已经回升到3.03万亿美金以上，主要是财政部TGA账户加大了支出力度。\n\n看财政部在本周公布的预估借款规模和季度再融资计划，\n1）二季度（Q2）预估： 财政部预计二季度净借款额为 1,890亿美元。这一数字较此前的预估上调了790亿美元，主要原因是净现金流弱于预期。预计6月底的TGA现金余额目标为 9,000亿美元。\n\n2）三季度（Q3）预估： 随着财政支出的增加，三季度的借款需求预计将激增至 6,710亿美元。预计9月底的TGA余额目标为 9,500亿美元，并且财政部提示，TGA账户余额在7月下旬可能会达到 1万亿美元（±500亿美元）的峰值。\n\n财政部在本次再融资计划中选择了“按兵不动”的维稳策略，尽量避免对长端收益率造成额外冲击。\n1）长债发行规模触顶维稳： 财政部计划在5月发行1,250亿美元的中长期国债（3年期、10年期和30年期）。更重要的是，财政部认为目前的拍卖规模已经能够很好地应对未来的财政需求，因此宣布在未来几个季度内 维持所有名义票息国债和浮动利率票据（FRN）的拍卖规模不变。\n\n2）依靠短债（Bills）灵活调节： 面对三季度激增的融资需求，财政部将主要依靠调整短期国库券的供应来应对。预计5月将进一步增加短期基准Bills的发行，并在5月下旬发行现金管理票据（CMB）以度过月末的流动性高峰。随后在6月份，随着月中企业纳税期的到来（税收收入增加），将适度削减短债的拍卖规模。\n\n3）常态化国债回购（Buybacks）： 财政部的定期回购操作正在按计划推进。预计在接下来的季度中，将购买高达380亿美元的非活跃长端债券（用于流动性支持），并在1个月至2年期区间内购买高达250亿美元的债券（用于现金管理）。\n\n看财政部TGA这个支出力度，五六月银行准备金很大概率回升到3.1万亿美金以上，甚至摸到3.2万亿以上。但是6月下旬可能要有抽水时刻，毕竟财政部的目标6月底TGA维持在9000亿美金。\n\n个人角度看\n二季度美国流动性“偏宽”\n但三季度开始会明显转向“抽水”\n\n维持5月4号的判断，流动性改善对大饼这种风险资产是好事。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-05-10T15:46:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2053502053687939102",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH97NoUaMAAWFY_.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "4月税季高峰已过，流动性从收紧转向边际改善（不再大幅抽水，而是小幅企稳）。看联储上周五公布H.4.1文化截止4月29号之前一周内TGA首次明显下降（-240亿），直接释放流动性叠加RMP注入，共同推动准备金一周内增17亿，成功守住2.9万亿美金下方。也可以说4月税季最严重的抽水阶段（TGA曾快速上升至峰值附近）已经过去。\n\n虽然准备金准备金仍低于3万亿心理关口（历史敏感线），但看上去短期趋势已转好，不再是单边下行。\n\n进入五月财政部TGA大概率继续支出下行，财政部通常在5月大规模支出（工资、社保、基建等），TGA余额预计回落1000-1500亿甚至更多 → 直接释放等量流动性到银行准备金。叠加美联储RMP持续（250亿美金/月），准备金有望在5月底回升至3.0-3.1万亿区间。\n\n当然也要看今天美国财政部公布的季度借款预估和周三公布的季度再融资计划，看财政部未来几个月的借款计划和TGA帐户的目标体量，能对二三季度财政发力有一个比较好评估。\n\n但整体上来，流动性改善对大饼这种风险资产还是好事。\n\n5月还有清晰法案通过的预期nitter.net/qinbafrank/status/2050…",
-        "contentHtml": "4月税季高峰已过，流动性从收紧转向边际改善（不再大幅抽水，而是小幅企稳）。看联储上周五公布H.4.1文化截止4月29号之前一周内TGA首次明显下降（-240亿），直接释放流动性叠加RMP注入，共同推动准备金一周内增17亿，成功守住2.9万亿美金下方。也可以说4月税季最严重的抽水阶段（TGA曾快速上升至峰值附近）已经过去。\n\n虽然准备金准备金仍低于3万亿心理关口（历史敏感线），但看上去短期趋势已转好，不再是单边下行。\n\n进入五月财政部TGA大概率继续支出下行，财政部通常在5月大规模支出（工资、社保、基建等），TGA余额预计回落1000-1500亿甚至更多 → 直接释放等量流动性到银行准备金。叠加美联储RMP持续（250亿美金/月），准备金有望在5月底回升至3.0-3.1万亿区间。\n\n当然也要看今天美国财政部公布的季度借款预估和周三公布的季度再融资计划，看财政部未来几个月的借款计划和TGA帐户的目标体量，能对二三季度财政发力有一个比较好评估。\n\n但整体上来，流动性改善对大饼这种风险资产还是好事。\n\n5月还有清晰法案通过的预期<a href=\"https://nitter.net/qinbafrank/status/2050431475053691131?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2050…</a>",
-        "link": "https://x.com/qinbafrank/status/2051130681108169022",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHcUe3LaoAE0xDu.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053501097806029188",
-      "username": "dotyyds1234",
-      "displayName": "憨巴龙王",
-      "avatar": "https://pbs.twimg.com/profile_images/1944702932022104064/pvb8yhxb_bigger.jpg",
-      "content": "有些黑子是真你吗脑子不好使，这才1天呢，就急，你急什么？\n公司的小伙伴周末加班加点写程序扫描核对，然后还有200多个混乱地址（瞎填的，捣乱的，聚合器，各种转入转出）人工核对了一整天。\n还有个B最搞笑，把自己撸毛base的10个地址填上来捣乱，你等着，等base发币我就把你地址提交上去，给你女巫了。\n转账12小时内就会转。大概只有10%的补偿，没办法。我无法覆盖那么多，会公示的。\n后续如果亏损幅度大于60%的，我会额外再自己掏一点。\n有些人真尼玛贱，明明知道是什么情况，我都做到这份上了，还要恶意黑你。\n\n再说几个搞笑的人，我之前认识的人，不认识的就算了\n1.wufan投资\n我前几天没刷推，就有跟我说什么蹭名字。我说饭子这回恶意怎么这么大。\n因为他微博关注我了，你说一个微博关注我的人，还在那故意使坏说我蹭名字，睁着眼睛说瞎话是什么情况呢？\n原来是他觉得带哥之前黑他，还有好几个我认识的朋友阴阳他，就觉得是我使坏的。\n实际上，这2年，我早就心平气和了，我要是看你不爽，直接拿自己的号发，没必要用指示别人。真谢谢了。\n\n2.某圈葫芦娃\n这也是个傻逼，21年在一个10人小群认识的，黄哥和猫哥（镭射猫）都是在那个群认识的。这人也是真知道我啥情况，之前对你毕恭毕敬的请教你，现在应该是亏的有点惨了，又要起号了。\n\n3.凉粉小刀\n这个是18年的群友，之前跟我关系很好。实际上他一直都没赚多少。然后这一年应该亏回去太多了，再加上家庭压力，不知道这次又亏了多少钱，要这么阴阳怪气。\n之前大刀哥（卵金刀），也是老朋友，开了一个NFT群，后来有人要闹退款，他也跟着闹，就特么1个ETH..而且大刀哥是真的在18-21年给了很多密码，带他赚了很多钱。\n这么多年，群友们都上岸了，自己还这么艰难，天天怪这个怪那个。\n\n这个圈子就是这样的，坏人太多了。\n再问一句，有需要space对线的吗？别天天阴阳怪气发文字了，我懒得看推了，直接space解决就好了",
-      "contentHtml": "有些黑子是真你吗脑子不好使，这才1天呢，就急，你急什么？\n公司的小伙伴周末加班加点写程序扫描核对，然后还有200多个混乱地址（瞎填的，捣乱的，聚合器，各种转入转出）人工核对了一整天。\n还有个B最搞笑，把自己撸毛base的10个地址填上来捣乱，你等着，等base发币我就把你地址提交上去，给你女巫了。\n转账12小时内就会转。大概只有10%的补偿，没办法。我无法覆盖那么多，会公示的。\n后续如果亏损幅度大于60%的，我会额外再自己掏一点。\n有些人真尼玛贱，明明知道是什么情况，我都做到这份上了，还要恶意黑你。\n\n再说几个搞笑的人，我之前认识的人，不认识的就算了\n1.wufan投资\n我前几天没刷推，就有跟我说什么蹭名字。我说饭子这回恶意怎么这么大。\n因为他微博关注我了，你说一个微博关注我的人，还在那故意使坏说我蹭名字，睁着眼睛说瞎话是什么情况呢？\n原来是他觉得带哥之前黑他，还有好几个我认识的朋友阴阳他，就觉得是我使坏的。\n实际上，这2年，我早就心平气和了，我要是看你不爽，直接拿自己的号发，没必要用指示别人。真谢谢了。\n\n2.某圈葫芦娃\n这也是个傻逼，21年在一个10人小群认识的，黄哥和猫哥（镭射猫）都是在那个群认识的。这人也是真知道我啥情况，之前对你毕恭毕敬的请教你，现在应该是亏的有点惨了，又要起号了。\n\n3.凉粉小刀\n这个是18年的群友，之前跟我关系很好。实际上他一直都没赚多少。然后这一年应该亏回去太多了，再加上家庭压力，不知道这次又亏了多少钱，要这么阴阳怪气。\n之前大刀哥（卵金刀），也是老朋友，开了一个NFT群，后来有人要闹退款，他也跟着闹，就特么1个ETH..而且大刀哥是真的在18-21年给了很多密码，带他赚了很多钱。\n这么多年，群友们都上岸了，自己还这么艰难，天天怪这个怪那个。\n\n这个圈子就是这样的，坏人太多了。\n再问一句，有需要space对线的吗？别天天阴阳怪气发文字了，我懒得看推了，直接space解决就好了",
-      "publishedAt": "2026-05-10T15:43:00.000Z",
-      "link": "https://x.com/dotyyds1234/status/2053501097806029188",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053499597704843517",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "纯坏",
-      "contentHtml": "纯坏",
-      "publishedAt": "2026-05-10T15:37:00.000Z",
-      "link": "https://x.com/taresky/status/2053499597704843517",
-      "quote": {
-        "username": "amauni667",
-        "displayName": "阿马有你真好",
-        "content": "饭子这把又掉价了\n\n前几年觉得你挺有水平，现在有没有水平另说，做人做事是真不带派。\n\n你先给人扣一顶“有故意碰瓷嫌疑”的帽子，对不知道的新人造成误解，这不就是纯纯的婊子行为么？\n\n你就老老实实募资单吊circle吃点傻篮子们的管理费和抽水就行了，当婊子的事咱不做，好吗？",
-        "contentHtml": "饭子这把又掉价了\n\n前几年觉得你挺有水平，现在有没有水平另说，做人做事是真不带派。\n\n你先给人扣一顶“有故意碰瓷嫌疑”的帽子，对不知道的新人造成误解，这不就是纯纯的婊子行为么？\n\n你就老老实实募资单吊circle吃点傻篮子们的管理费和抽水就行了，当婊子的事咱不做，好吗？",
-        "link": "https://x.com/amauni667/status/2053296019019031021"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2053490481594781798",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "我就说为啥没看到。原来早给我拉黑了。前天本初被那么刷，我都没出来发什么，因为我觉得总会有一个公正的定义。你出来踩一脚是真几把的恶心啊，怎么舔着张脸说出来这种话的？之前你和本初没在微博互关，没互动过？要点b脸行吗。之前只内涵你那狗几把基金没指名道姓就是我觉得你们认识，没好意思。本来别人只用解释一件事情，被你踩一脚还得连id来源都出来解释一遍，这是真悲哀。他这id还是花1个ETH征集的。白龙王我也听过大名，古早大神，也自由退圈了。大名还要被你拿出来阴暗戳戳的使这种坏，也是倒了八辈子血霉。真几把的小人，岳不群，一般在网上，我都只觉得别人傻逼，你还是第一个让我觉得是小人的，你是真几把的坏，一想到我认识的辉哥他们还那么推崇你，更恶心了，祝你的CRCL基金发大财，多抽水。别说老子冤枉你，特意私信本初问他要了个截图，他微博被封了但是还能看到关注的，👎",
-      "contentHtml": "我就说为啥没看到。原来早给我拉黑了。前天本初被那么刷，我都没出来发什么，因为我觉得总会有一个公正的定义。你出来踩一脚是真几把的恶心啊，怎么舔着张脸说出来这种话的？之前你和本初没在微博互关，没互动过？要点b脸行吗。之前只内涵你那狗几把基金没指名道姓就是我觉得你们认识，没好意思。本来别人只用解释一件事情，被你踩一脚还得连id来源都出来解释一遍，这是真悲哀。他这id还是花1个ETH征集的。白龙王我也听过大名，古早大神，也自由退圈了。大名还要被你拿出来阴暗戳戳的使这种坏，也是倒了八辈子血霉。真几把的小人，岳不群，一般在网上，我都只觉得别人傻逼，你还是第一个让我觉得是小人的，你是真几把的坏，一想到我认识的辉哥他们还那么推崇你，更恶心了，祝你的CRCL基金发大财，多抽水。别说老子冤枉你，特意私信本初问他要了个截图，他微博被封了但是还能看到关注的，👎",
-      "publishedAt": "2026-05-10T15:00:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2053490481594781798",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HH92tFGasAAT1R9.jpg"
-        }
-      ],
-      "quote": {
-        "username": "amauni667",
-        "displayName": "阿马有你真好",
-        "content": "饭子这把又掉价了\n\n前几年觉得你挺有水平，现在有没有水平另说，做人做事是真不带派。\n\n你先给人扣一顶“有故意碰瓷嫌疑”的帽子，对不知道的新人造成误解，这不就是纯纯的婊子行为么？\n\n你就老老实实募资单吊circle吃点傻篮子们的管理费和抽水就行了，当婊子的事咱不做，好吗？",
-        "contentHtml": "饭子这把又掉价了\n\n前几年觉得你挺有水平，现在有没有水平另说，做人做事是真不带派。\n\n你先给人扣一顶“有故意碰瓷嫌疑”的帽子，对不知道的新人造成误解，这不就是纯纯的婊子行为么？\n\n你就老老实实募资单吊circle吃点傻篮子们的管理费和抽水就行了，当婊子的事咱不做，好吗？",
-        "link": "https://x.com/amauni667/status/2053296019019031021"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
