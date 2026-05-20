@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T11:58:33.220Z",
+  "lastUpdated": "2026-05-20T13:00:59.512Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,41 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 589,
-    "successUsers": 29,
-    "failedUsers": 1
+    "newFetched": 567,
+    "successUsers": 28,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2057075903117615576",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "Funny how the moment I stopped sharing my pivots publicly… they started working again. \n\nThose who know, know.",
+      "contentHtml": "Funny how the moment I stopped sharing my pivots publicly… they started working again. \n\nThose who know, know.",
+      "publishedAt": "2026-05-20T12:28:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2057075903117615576",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2057069189622624688",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "空\n套\n救\n！",
+      "contentHtml": "空\n套\n救\n！",
+      "publishedAt": "2026-05-20T12:01:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2057069189622624688",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2057068086726103484",
       "username": "Bitfatty",
@@ -3741,43 +3771,6 @@
       }
     },
     {
-      "id": "2056269627760807955",
-      "username": "viviennaBTC",
-      "displayName": "vivienna.btc",
-      "avatar": "https://pbs.twimg.com/profile_images/2055180188225597440/aMExf6UQ_bigger.jpg",
-      "content": "终于把磨了好久的四大宏观(美债、美元、黄金、通胀)看板上线啦！ \n最近彻底沉迷 AI Coding，每天用 Claude 写代码写到半夜，一版一版迭代调试，总算把这套自己梦寐以求的实时看板做出来了～  \n\n为什么要做这些？ \n\n宏观因子建模本质上是把高维、噪声大、强相关的时间序列数据，转化为低维、可解释、可预测的信号，用于资产配置、择时和风险管理。\n  \n我把常见的宏观因子分成几大类：\n\n• 利率/货币政策类：真实利率、期限利差、forward curve、政策预期路径\n\n• 通胀类：核心通胀、预期通胀（breakeven）、薪资-通胀螺旋、财政驱动\n\n• 增长/风险偏好类：增长 surprise、信用利差、VIX、美元carry\n\n• 商品/避险类：黄金真实收益率敏感度、地缘风险溢价\n\n• 流动性/供给类：美债净供给、央行资产负债表、美元流动性指数  \n\n我选择了黄金、美元、美债、通胀因子这四个类别。\n\n对资产管理最实际的帮助：\n\n• 快速抓住宏观拐点\n• 看清多因子驱动逻辑\n• 辅助大类资产配置和风险对冲\n• 自己改权重、自己看结果，超级爽  \n\n四大看板亮点：  \n\n美债看板\n实时收益率曲线 + 智能因子计分卡（-2到+2自动打分，帮你判断久期和曲线立场）+ 政策路径 + 供给资金流\n\nus-treasury-bonds-monitor-lu… \n\n美元看板\nDXY多因子估值模型（利率差+风险溢价+便利收益+波动预警）+ 综合评分 + 持仓分析，一眼看美元强弱\n\nusd-monitor.vercel.app/ \n\n黄金看板\n多因子信号强度 + SHAP归因瀑布图 + 体制切换预测，搞懂黄金到底在涨啥\n\ngold-monitor-delta.vercel.ap… \n\n通胀因子看板\n五维通胀压力评分 + 四资产信号塔 + 体制诊断，提前闻到通胀味儿\n\ninflation-monitor-nine.verce… \n\n重要提醒：这些看板仅供教育和研究使用，绝不构成任何投资建议。市场有风险，决策还得靠自己！  \n\n全部免费、数据实时更新，还支持自定义因子权重。感兴趣的同学可以一起开放交流量化建模方法与实际落地流程。  \n欢迎大家来玩、来反馈、来一起交流～ 我继续用 Claude 肝新模块！  \n\n#宏观交易 #黄金 #美债 #美元 #通胀 #AI_Coding #Claude  （vivienna.btc × Claude 沉迷副产物）",
-      "contentHtml": "终于把磨了好久的四大宏观(美债、美元、黄金、通胀)看板上线啦！ \n最近彻底沉迷 AI Coding，每天用 Claude 写代码写到半夜，一版一版迭代调试，总算把这套自己梦寐以求的实时看板做出来了～  \n\n为什么要做这些？ \n\n宏观因子建模本质上是把高维、噪声大、强相关的时间序列数据，转化为低维、可解释、可预测的信号，用于资产配置、择时和风险管理。\n  \n我把常见的宏观因子分成几大类：\n\n• 利率/货币政策类：真实利率、期限利差、forward curve、政策预期路径\n\n• 通胀类：核心通胀、预期通胀（breakeven）、薪资-通胀螺旋、财政驱动\n\n• 增长/风险偏好类：增长 surprise、信用利差、VIX、美元carry\n\n• 商品/避险类：黄金真实收益率敏感度、地缘风险溢价\n\n• 流动性/供给类：美债净供给、央行资产负债表、美元流动性指数  \n\n我选择了黄金、美元、美债、通胀因子这四个类别。\n\n对资产管理最实际的帮助：\n\n• 快速抓住宏观拐点\n• 看清多因子驱动逻辑\n• 辅助大类资产配置和风险对冲\n• 自己改权重、自己看结果，超级爽  \n\n四大看板亮点：  \n\n美债看板\n实时收益率曲线 + 智能因子计分卡（-2到+2自动打分，帮你判断久期和曲线立场）+ 政策路径 + 供给资金流\n\n<a href=\"https://us-treasury-bonds-monitor-luffa.vercel.app/#scorecard\">us-treasury-bonds-monitor-lu…</a> \n\n美元看板\nDXY多因子估值模型（利率差+风险溢价+便利收益+波动预警）+ 综合评分 + 持仓分析，一眼看美元强弱\n\n<a href=\"https://usd-monitor.vercel.app/\">usd-monitor.vercel.app/</a> \n\n黄金看板\n多因子信号强度 + SHAP归因瀑布图 + 体制切换预测，搞懂黄金到底在涨啥\n\n<a href=\"https://gold-monitor-delta.vercel.app/\">gold-monitor-delta.vercel.ap…</a> \n\n通胀因子看板\n五维通胀压力评分 + 四资产信号塔 + 体制诊断，提前闻到通胀味儿\n\n<a href=\"https://inflation-monitor-nine.vercel.app/\">inflation-monitor-nine.verce…</a> \n\n重要提醒：这些看板仅供教育和研究使用，绝不构成任何投资建议。市场有风险，决策还得靠自己！  \n\n全部免费、数据实时更新，还支持自定义因子权重。感兴趣的同学可以一起开放交流量化建模方法与实际落地流程。  \n欢迎大家来玩、来反馈、来一起交流～ 我继续用 Claude 肝新模块！  \n\n<a href=\"/search?f=tweets&q=%23宏观交易\">#宏观交易</a> <a href=\"/search?f=tweets&q=%23黄金\">#黄金</a> <a href=\"/search?f=tweets&q=%23美债\">#美债</a> <a href=\"/search?f=tweets&q=%23美元\">#美元</a> <a href=\"/search?f=tweets&q=%23通胀\">#通胀</a> <a href=\"/search?f=tweets&q=%23AI_Coding\">#AI_Coding</a> <a href=\"/search?f=tweets&q=%23Claude\">#Claude</a>  （vivienna.btc × Claude 沉迷副产物）",
-      "publishedAt": "2026-05-18T07:04:00.000Z",
-      "link": "https://x.com/viviennaBTC/status/2056269627760807955",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVMG0boAAlIzY.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVL_WboAA4RWP.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVMGybgAAR6wp.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVMG2bgAA729T.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2056260689761866171",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -6064,38 +6057,6 @@
             "url": "https://pbs.twimg.com/media/HIa5CttboAA20wb.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055588207430127978",
-      "username": "PhyrexNi",
-      "displayName": "Phyrex",
-      "avatar": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_bigger.jpg",
-      "content": "最近很多小伙伴都来找我聊 CRS 的问题，估计大家都是美股赚钱了，然后才想起来需要了解一下税收的问题🤣\n\n很多小伙伴都已经知道了用美国的券商是可以和 CRS 隔离的，比如 嘉信理财、盈透证券或者是 前身是 Matrixport 的 BIT 都可以，这是因为美国是没有加入 CRS 的，所以根本不存在 CRS 的数据交换。\n\n（其中 BIT 的持牌是在不丹，和中国没有建交，而且 BIT 也是第一个做持牌美股券商的数字货币平台）\n\n但是不是用了美国的券商就可以完全避免 CRS 的问题，这个答案是否定的，因为 CRS 并不仅仅是券商，还有银行。\n\n也就是说如果你的股票系统走的不是 CRS ，但是资金走的是 CRS ，那么仍然会被 CRS 成员国递交数据，而很多小伙伴应该都交难在美国开银行卡，大多数选择香港卡，虽然香港卡向 嘉信 和 盈透 出入金都没有问题，但香港银行是在 CRS 体系中的。\n\n如果是中国税务居民，在香港银行有账户。那么香港银行识别为中国税务居民就会把账户资料报给香港税务局 IRD\n，然后香港税务局通过 AEOI 机制把资料交换给中国税务机关。\n\n这就变成了，有些小伙伴通过美国的券商来做美股，但是因为资金还是要回到 CRS 体系下的银行，所以实际上所有的资金还是在 CRS 曝光的。\n\n尤其是对于在境内的币圈小伙伴来说，如果是可以直接用 USDT 或 USDC 出入金，并且券商的属性不在 CRS 的体系内可能是比较方便的。\n\n其实 盈透 在某些国家和地区是可以通过 USDC 入金的，但入金有限制，而且出金也只能是法币，这点 BIT 会好一些，可以直接用 USDT 和 USDC 等多种加密货币出入金，基本上就避开的 CRS 的系统。\n\n当然最后还需要说一下，依法纳税是每一个公民应尽的义务。税务的问题还是要谨慎处理。",
-      "contentHtml": "最近很多小伙伴都来找我聊 CRS 的问题，估计大家都是美股赚钱了，然后才想起来需要了解一下税收的问题🤣\n\n很多小伙伴都已经知道了用美国的券商是可以和 CRS 隔离的，比如 嘉信理财、盈透证券或者是 前身是 Matrixport 的 BIT 都可以，这是因为美国是没有加入 CRS 的，所以根本不存在 CRS 的数据交换。\n\n（其中 BIT 的持牌是在不丹，和中国没有建交，而且 BIT 也是第一个做持牌美股券商的数字货币平台）\n\n但是不是用了美国的券商就可以完全避免 CRS 的问题，这个答案是否定的，因为 CRS 并不仅仅是券商，还有银行。\n\n也就是说如果你的股票系统走的不是 CRS ，但是资金走的是 CRS ，那么仍然会被 CRS 成员国递交数据，而很多小伙伴应该都交难在美国开银行卡，大多数选择香港卡，虽然香港卡向 嘉信 和 盈透 出入金都没有问题，但香港银行是在 CRS 体系中的。\n\n如果是中国税务居民，在香港银行有账户。那么香港银行识别为中国税务居民就会把账户资料报给香港税务局 IRD\n，然后香港税务局通过 AEOI 机制把资料交换给中国税务机关。\n\n这就变成了，有些小伙伴通过美国的券商来做美股，但是因为资金还是要回到 CRS 体系下的银行，所以实际上所有的资金还是在 CRS 曝光的。\n\n尤其是对于在境内的币圈小伙伴来说，如果是可以直接用 USDT 或 USDC 出入金，并且券商的属性不在 CRS 的体系内可能是比较方便的。\n\n其实 盈透 在某些国家和地区是可以通过 USDC 入金的，但入金有限制，而且出金也只能是法币，这点 BIT 会好一些，可以直接用 USDT 和 USDC 等多种加密货币出入金，基本上就避开的 CRS 的系统。\n\n当然最后还需要说一下，依法纳税是每一个公民应尽的义务。税务的问题还是要谨慎处理。",
-      "publishedAt": "2026-05-16T09:56:00.000Z",
-      "link": "https://x.com/PhyrexNi/status/2055588207430127978",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIbp80Ca0AAr20k.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "quote": {
-        "username": "PhyrexNi",
-        "displayName": "Phyrex",
-        "content": "这个问题问的不太对，但我能理解应该是想要问从 Binance 走美元提现会不会引发海外收入报税。\n\n从我的了解来看，这其实是很多问题的集合，首先美国和中国是没有 CRS ，也就是说不论是从 Binance 还是从任何一个交易所转钱去你的美国所在地的银行，即便是用中国护照开户的，那么是没有 CRS 相关的。（我们只讨论 CRS）\n\n其次，如果你将这笔钱转移到了新加坡或其它非中国属地首先要看是否和中国有 CRS 的交互，如果有，就要看下一步，你个人是哪里的税务居民。\n\n比如你是新加坡（或当地）的税务居民，那么在2026年前的信息是不会被同步的，而2026年以后中国已经和海外的银行都有过沟通，只要是用中国护照开户的信息都要回传给中国，目前部分银行已经执行，部分私行用户能有大概一年的缓解期。\n\n如果你转钱到香港的银行，即便是香港的税务居民，也会被记录，但未必会交换，而如果你不是香港的税务居民，那就一定会和大陆交换，目前的 CRS 基本就是余额，但 CRS 2.0 2027年开始也会逐渐生效，到时候就不仅仅是余额，而是更细节的信息。\n\n如果资金是通过海外直接进入中国大陆的银行，那就没什么可说的了，也不存在交换不交换了，肯定是会被记录的。\n\nCRS 并不是一定会让你交税，而是了解海外中国人的收入，通过收入来确定你是否需要在中国境内补税，比如你是新加坡的税务居民，你已经在新加坡纳税了，那么你在中国的税就是看在新加坡收入扣除新加坡交税以后，是否还符合在中国境内的交税条件，符合，就要补税，不符合，就可以不用交。\n\n炒股也是一样的道理，不过目前中国是按年计算，亏损不带入下一年，一年内的增值需要交税，比如你第一年有10万美元，结果第二年亏到了 5万 美元，那么是不用交税的，但你第三年增涨到了 8万 美元，那么增涨的 3万 美元是要交税的，第四年你亏到了 1万 美元，是不用交税的，而第五年你运气爆棚，涨回到了 10万 美元，那么有 9万 美元你是要交税的。\n\n总的来说，以前是税务居民大于一切，但从2027年开始起码对于中国来说，护照大于税务居民，除非你已经换了护照，否则中国对你都有长臂管辖。\n\n@bitget VIP，费率更低，福利更狠",
-        "contentHtml": "这个问题问的不太对，但我能理解应该是想要问从 Binance 走美元提现会不会引发海外收入报税。\n\n从我的了解来看，这其实是很多问题的集合，首先美国和中国是没有 CRS ，也就是说不论是从 Binance 还是从任何一个交易所转钱去你的美国所在地的银行，即便是用中国护照开户的，那么是没有 CRS 相关的。（我们只讨论 CRS）\n\n其次，如果你将这笔钱转移到了新加坡或其它非中国属地首先要看是否和中国有 CRS 的交互，如果有，就要看下一步，你个人是哪里的税务居民。\n\n比如你是新加坡（或当地）的税务居民，那么在2026年前的信息是不会被同步的，而2026年以后中国已经和海外的银行都有过沟通，只要是用中国护照开户的信息都要回传给中国，目前部分银行已经执行，部分私行用户能有大概一年的缓解期。\n\n如果你转钱到香港的银行，即便是香港的税务居民，也会被记录，但未必会交换，而如果你不是香港的税务居民，那就一定会和大陆交换，目前的 CRS 基本就是余额，但 CRS 2.0 2027年开始也会逐渐生效，到时候就不仅仅是余额，而是更细节的信息。\n\n如果资金是通过海外直接进入中国大陆的银行，那就没什么可说的了，也不存在交换不交换了，肯定是会被记录的。\n\nCRS 并不是一定会让你交税，而是了解海外中国人的收入，通过收入来确定你是否需要在中国境内补税，比如你是新加坡的税务居民，你已经在新加坡纳税了，那么你在中国的税就是看在新加坡收入扣除新加坡交税以后，是否还符合在中国境内的交税条件，符合，就要补税，不符合，就可以不用交。\n\n炒股也是一样的道理，不过目前中国是按年计算，亏损不带入下一年，一年内的增值需要交税，比如你第一年有10万美元，结果第二年亏到了 5万 美元，那么是不用交税的，但你第三年增涨到了 8万 美元，那么增涨的 3万 美元是要交税的，第四年你亏到了 1万 美元，是不用交税的，而第五年你运气爆棚，涨回到了 10万 美元，那么有 9万 美元你是要交税的。\n\n总的来说，以前是税务居民大于一切，但从2027年开始起码对于中国来说，护照大于税务居民，除非你已经换了护照，否则中国对你都有长臂管辖。\n\n<a href=\"/bitget\" title=\"Bitget\">@bitget</a> VIP，费率更低，福利更狠",
-        "link": "https://x.com/PhyrexNi/status/2013323111618498634"
       },
       "stats": {
         "replies": 0,
