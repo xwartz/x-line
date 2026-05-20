@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T22:31:17.907Z",
+  "lastUpdated": "2026-05-20T23:01:51.630Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 591,
+    "newFetched": 590,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2057234095374057563",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "SpaceX一年营收190亿，亏损26亿。现在收购了XAI，有了ANTHROPIC的订单，预计一年营收150亿，收购来的一个数据中心营收就将近SpaceX的75%。所以接下去财报营收增速会很好看，但是收购来的数据中心就值最多市值700亿，营收190亿的SpaceX可是2万多亿（100多倍的市销率，上次上市后那么贵的公司是 $SNOW ，马斯克溢价很夸张。英伟达市场最多看未来一年的估值，老马的公司都是5年起跳。具体的分析完整看完后写。",
+      "contentHtml": "SpaceX一年营收190亿，亏损26亿。现在收购了XAI，有了ANTHROPIC的订单，预计一年营收150亿，收购来的一个数据中心营收就将近SpaceX的75%。所以接下去财报营收增速会很好看，但是收购来的数据中心就值最多市值700亿，营收190亿的SpaceX可是2万多亿（100多倍的市销率，上次上市后那么贵的公司是 <a href=\"/search?f=tweets&q=%23SNOW\">$SNOW</a> ，马斯克溢价很夸张。英伟达市场最多看未来一年的估值，老马的公司都是5年起跳。具体的分析完整看完后写。",
+      "publishedAt": "2026-05-20T22:56:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2057234095374057563",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2057225283955240991",
       "username": "hazenlee",
@@ -12186,25 +12201,6 @@
           "url": "https://pbs.twimg.com/media/HIJp2qAXgAAa5oc.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054293359821484502",
-      "username": "navalpodcast",
-      "displayName": "Naval Podcast",
-      "avatar": "https://pbs.twimg.com/profile_images/2049248689680732160/St8fBFAj_bigger.jpg",
-      "content": "New:\n\nThe Logic of Violence\nA podcast film",
-      "contentHtml": "New:\n\nThe Logic of Violence\nA podcast film",
-      "publishedAt": "2026-05-12T20:11:00.000Z",
-      "link": "https://x.com/navalpodcast/status/2054293359821484502",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
