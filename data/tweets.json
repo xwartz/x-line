@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T01:41:16.433Z",
+  "lastUpdated": "2026-05-20T03:05:20.706Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -105,6 +105,131 @@
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2056931885125861726",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "Token消耗的爆发式增长，这次谷歌I/O大会个人最关注并不是新产品发布这些很重要，而更重要的是token消耗数据。为什么要关注token消耗数据？这个数据代表最下游B端和C端的用户需求有多大，增速有多快。看看谷歌I/O大会上皮查公布的谷歌全平台Token消耗数据：\n1）全 Google AI surfaces（Search、YouTube、Gemini App、Cloud 等）：\n每月处理3.2quadrillion（3200 万亿）AI tokens。\n较 2025 年 5 月（I/O 2025）增长 7 倍。较 2024 年 5 月增长 330 倍。\n2）企业/Cloud 端：Gemini API 直接处理 超过 16 billion tokens per minute（每分钟 160 亿+），环比增长 60%。3月底openai的api每分钟是150亿+。\n3）内部 Google 开发者使用：每日 token 用量自3月起翻 3 倍，达超3trillion tokens/day。 \n\n从“工具”转向“Agentic AI”（代理式AI）token 消耗爆炸式增长反映多模态（文本+图像+视频+音频）和大规模部署的落地。去年同期 token 处理量约 480 trillion/月，今年已翻7倍。\n\n推理成本降低了100倍，与此而来的是推理需求被极大的激发了，最终但计算账单还是上涨了。\n1）12个月前，100万个前沿级推理tokens的成本大约是60美元。\n如今，相同质量的输出成本大约是0.50美元。\n2）o1级智能的单token价格在一年内下降了约128倍。\nGPT-4级输出的价格自原版GPT-4发布以来下降了大约100倍。\n\n按照任何正常的科技成本曲线解读，这应该是通货紧缩的。它应该为客户节省金钱。\n\n事实并非如此，token价格下跌并没有收缩需求。它们解锁了代理、深度研究、代码编写系统、多步推理、持久内存、整个下一层AI产品。那下一层中的每个产品消耗的计算量比它取代的聊天界面多几个数量级。\n\n这也是Jevons悖论真实体现，Jevons在1865年注意到，提高燃煤效率并没有减少煤炭消耗。它反而增加了，因为效率解锁了之前不经济的用途。蒸汽机在更小规模上变得更实用。那些以前负担不起旧价煤炭的整个行业突然能负担了。英国的煤炭消耗急剧上升。\n\n今天同样的事情现在正发生在AI计算上，而且发生得比任何类似的历史周期都快。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "Token消耗的爆发式增长，这次谷歌I/O大会个人最关注并不是新产品发布这些很重要，而更重要的是token消耗数据。为什么要关注token消耗数据？这个数据代表最下游B端和C端的用户需求有多大，增速有多快。看看谷歌I/O大会上皮查公布的谷歌全平台Token消耗数据：\n1）全 Google AI surfaces（Search、YouTube、Gemini App、Cloud 等）：\n每月处理3.2quadrillion（3200 万亿）AI tokens。\n较 2025 年 5 月（I/O 2025）增长 7 倍。较 2024 年 5 月增长 330 倍。\n2）企业/Cloud 端：Gemini API 直接处理 超过 16 billion tokens per minute（每分钟 160 亿+），环比增长 60%。3月底openai的api每分钟是150亿+。\n3）内部 Google 开发者使用：每日 token 用量自3月起翻 3 倍，达超3trillion tokens/day。 \n\n从“工具”转向“Agentic AI”（代理式AI）token 消耗爆炸式增长反映多模态（文本+图像+视频+音频）和大规模部署的落地。去年同期 token 处理量约 480 trillion/月，今年已翻7倍。\n\n推理成本降低了100倍，与此而来的是推理需求被极大的激发了，最终但计算账单还是上涨了。\n1）12个月前，100万个前沿级推理tokens的成本大约是60美元。\n如今，相同质量的输出成本大约是0.50美元。\n2）o1级智能的单token价格在一年内下降了约128倍。\nGPT-4级输出的价格自原版GPT-4发布以来下降了大约100倍。\n\n按照任何正常的科技成本曲线解读，这应该是通货紧缩的。它应该为客户节省金钱。\n\n事实并非如此，token价格下跌并没有收缩需求。它们解锁了代理、深度研究、代码编写系统、多步推理、持久内存、整个下一层AI产品。那下一层中的每个产品消耗的计算量比它取代的聊天界面多几个数量级。\n\n这也是Jevons悖论真实体现，Jevons在1865年注意到，提高燃煤效率并没有减少煤炭消耗。它反而增加了，因为效率解锁了之前不经济的用途。蒸汽机在更小规模上变得更实用。那些以前负担不起旧价煤炭的整个行业突然能负担了。英国的煤炭消耗急剧上升。\n\n今天同样的事情现在正发生在AI计算上，而且发生得比任何类似的历史周期都快。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-05-20T02:55:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2056931885125861726",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIuwpYPbUAA-pHE.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIuwpYObgAAF4VN.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "算力紧缺已经临界点，我们将面临近几年来最大规模算力紧缺。看OpenAI官方披露openai.com/zh-Hans-CN/index/… 截止到3月底API每分钟处理量已突破150亿Token，而25年10月这个数据是每分钟处理60以Token，不到半年时间增长了2.5倍。\n\nAI Agent的快速普及和爆发应该是算力短缺背后最主要的驱动逻辑，Agent热潮正在耗尽“算力”，导致计算能力严重短缺。看起来，淘金热让“镐和铲”（计算资源）先耗尽了。\n\n我们已经看到了算力短缺的影响：\n1）限量供应：多家 AI 公司对产品进行配给rationing），高频用户不满。\n2）可靠性下降：频繁宕机（outages）。例如 Anthropic 的 Claude 工具出现多次中断，已收紧使用限制（部分“无限”套餐用户45分钟就用完）。\n3）产品调整：OpenAI 部分取消了 Sora 视频生成工具，目的是腾出计算资源给编码、企业级产品和新模型（代号 Spud）。\n4）价格上涨：GPU 租赁价格在两个月内涨了48%。\n据纽约数据服务商Ornn发布的算力价格指数，租用英伟达最新一代Blackwell芯片的每小时费用目前为4.08美元，较两个月前的2.75美元上涨48%。\n\n问题在于，为什么不直接部署更多设备？\n因为交货周期太长，数据中心建设周期太长，而且2026年之前可用的电力容量已经全部提前预订完了。\n\n我们可能是第一次直观的感受算力短缺的严重影响，这意味着AI繁荣正面临“物理极限”。\n\n正好昨天AI算力产业链瓶颈传导的底层逻辑这篇长文里也聊到：这已经不是芯片不够，而是整体基础设施（GPU/TPU、芯片上的如HBM、光模块、数据中心、电力）都跟不上。\n\n算力产业上关键卡脖子环节、算力基础设施、newcould都会进一步受益于紧缺潮。",
+        "contentHtml": "算力紧缺已经临界点，我们将面临近几年来最大规模算力紧缺。看OpenAI官方披露<a href=\"https://openai.com/zh-Hans-CN/index/accelerating-the-next-phase-ai/\">openai.com/zh-Hans-CN/index/…</a> 截止到3月底API每分钟处理量已突破150亿Token，而25年10月这个数据是每分钟处理60以Token，不到半年时间增长了2.5倍。\n\nAI Agent的快速普及和爆发应该是算力短缺背后最主要的驱动逻辑，Agent热潮正在耗尽“算力”，导致计算能力严重短缺。看起来，淘金热让“镐和铲”（计算资源）先耗尽了。\n\n我们已经看到了算力短缺的影响：\n1）限量供应：多家 AI 公司对产品进行配给rationing），高频用户不满。\n2）可靠性下降：频繁宕机（outages）。例如 Anthropic 的 Claude 工具出现多次中断，已收紧使用限制（部分“无限”套餐用户45分钟就用完）。\n3）产品调整：OpenAI 部分取消了 Sora 视频生成工具，目的是腾出计算资源给编码、企业级产品和新模型（代号 Spud）。\n4）价格上涨：GPU 租赁价格在两个月内涨了48%。\n据纽约数据服务商Ornn发布的算力价格指数，租用英伟达最新一代Blackwell芯片的每小时费用目前为4.08美元，较两个月前的2.75美元上涨48%。\n\n问题在于，为什么不直接部署更多设备？\n因为交货周期太长，数据中心建设周期太长，而且2026年之前可用的电力容量已经全部提前预订完了。\n\n我们可能是第一次直观的感受算力短缺的严重影响，这意味着AI繁荣正面临“物理极限”。\n\n正好昨天AI算力产业链瓶颈传导的底层逻辑这篇长文里也聊到：这已经不是芯片不够，而是整体基础设施（GPU/TPU、芯片上的如HBM、光模块、数据中心、电力）都跟不上。\n\n算力产业上关键卡脖子环节、算力基础设施、newcould都会进一步受益于紧缺潮。",
+        "link": "https://x.com/qinbafrank/status/2043910896351883636",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HF1ruhBbEAIVBSs.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HF1tVzqasAMaQLC.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056928069500473390",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "「先定 10 个大目标」老哥 @Jason60704294 已止盈离场，五月累计获利超 1,764 万美元😲\n\n▶︎ 05.12-05.20 做空 $BTC：盈利 1261 万美元\n▶︎ 05.05-05.06 做空 BTC：亏损 349 万美元\n▶︎ 05.04-05.05 做多 BTC：盈利 576 万美元\n▶︎ 05.04 做空 BTC：盈利 276 万美元\n\n今日平仓的空单为本月开仓规模最大的一次，持仓 3294 枚 BTC，价值 2.65 亿美元；太惨了，520 不仅要吃狗粮还要接受大佬的炫酷战绩暴击…",
+      "contentHtml": "「先定 10 个大目标」老哥 <a href=\"/Jason60704294\" title=\"jasonleo\">@Jason60704294</a> 已止盈离场，五月累计获利超 1,764 万美元😲\n\n▶︎ 05.12-05.20 做空 $BTC：盈利 1261 万美元\n▶︎ 05.05-05.06 做空 BTC：亏损 349 万美元\n▶︎ 05.04-05.05 做多 BTC：盈利 576 万美元\n▶︎ 05.04 做空 BTC：盈利 276 万美元\n\n今日平仓的空单为本月开仓规模最大的一次，持仓 3294 枚 BTC，价值 2.65 亿美元；太惨了，520 不仅要吃狗粮还要接受大佬的炫酷战绩暴击…",
+      "publishedAt": "2026-05-20T02:40:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2056928069500473390",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIutG-laoAAySHF.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "燕子回来了！💪\n\n「先定 10 个大目标」老哥晒图展示其 $BTC 空单已浮盈 1222.5 万美元，但具体仓位和开仓点位并未露出\n\n05.06 时他止损 BTC 空单最大亏损约 286.7 万美元，这下一把子都回来了",
+        "contentHtml": "燕子回来了！💪\n\n「先定 10 个大目标」老哥晒图展示其 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 空单已浮盈 1222.5 万美元，但具体仓位和开仓点位并未露出\n\n05.06 时他止损 BTC 空单最大亏损约 286.7 万美元，这下一把子都回来了",
+        "link": "https://x.com/ai_9684xtpa/status/2056554729204003176",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIpZljIagAAuQGf.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056916086310756408",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "赚钱的时候\n特别想赶紧卖掉\n\n亏钱的时候\n反而特别能忍\n\n所以如果交易员都是M体质的话，是不是特别不怕痛？",
+      "contentHtml": "赚钱的时候\n特别想赶紧卖掉\n\n亏钱的时候\n反而特别能忍\n\n所以如果交易员都是M体质的话，是不是特别不怕痛？",
+      "publishedAt": "2026-05-20T01:53:00.000Z",
+      "link": "https://x.com/dongbimao/status/2056916086310756408",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056915885106037245",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
+      "content": "「美資要砸到哪」：從市場成本的角度聊聊下方的兩道強支撐💎\n\n承接下方引文，美方資金的偷跑再次造成了 BTC 的下跌，\n而下跌本身已是既成事實，因此，近期不少朋友開始詢問：\n「那要跌到哪才可以抄底❓」\n\n據此，今天我就再把「偏離度調整的 STH-RP 模型」請出來，\n和各位分享下方潛在的強支撐👇：\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，概念重溫如下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：nitter.net/market_beggar/status/1…\n📖 藍線支撐的築底時間詳細覆盤：\nnitter.net/market_beggar/status/2…\n📖 藍線支撐的所有歷史案例分析：\nnitter.net/market_beggar/status/2…\n\n//\n\n如附圖所示：\n價格近期在來到 STH-RP（短期持有者平均成本）之後，\n波動開始出現明顯的加劇，上沖下洗的行情持續了約兩週之久，\n足以證明這條「牛熊生命線」的威力依然存在。\n\n📖「藍線再顯神威」：強力反彈 38%，硬搶 STH-RP？\nnitter.net/market_beggar/status/2…\n\n根據今天的最新數據顯示📇：\n🟨 STH-RP = 78,309\n🟩 綠線支撐 = 64,751\n🟦 藍線支撐 = 57,015\n\n從現貨抄底（週期性交易）的角度來看，如果你認為：\n1️⃣ 價格不會跌破 60K：那綠線就是值得入場的位置\n2️⃣ 價格必將跌破 60K（最後一哆嗦）：那藍線就是值得入場的位置\n\n當然，如果要問我的看法，我在過去兩個多月的帖子已表明立場：\n\n「我不敢保證跌破 60K 的最後一哆嗦會到來，\n但我堅信價格需要跌破 60K，才能完成健康的最終底部」\n\n📖 最後一哆嗦抄底系列（十四）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n最後，老話一句：\n交易的本質是規劃，而不是預測；每個人都需要根據自己的風險耐受度，\n提前針對不同可能發生的情境，設計嚴謹且有效的應對策略。\n\n交易不是非黑即白，我們沒必要去猜測「到底會不會跌破 60K」，\n而是需要思考：「如果跌破，就 ...」以及「如果沒跌破，就 ...」，\n如此一來，價格在未來走入了其中一種情境時，我們便只需嚴格執行，\n而不必因情緒的波動而導致自亂陣腳、胡亂操作。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「不理想的築頂」：詳述基於 Liq 分析法的最新交易思路\nnitter.net/market_beggar/status/2…\n\n「五大買方族群熱力圖」更新：密切監測新買家何時熄火\nnitter.net/market_beggar/status/2…\n\n老奶奶也能看明白的「市場交易預期」白話概念教學\nnitter.net/market_beggar/status/2…",
+      "contentHtml": "「美資要砸到哪」：從市場成本的角度聊聊下方的兩道強支撐💎\n\n承接下方引文，美方資金的偷跑再次造成了 BTC 的下跌，\n而下跌本身已是既成事實，因此，近期不少朋友開始詢問：\n「那要跌到哪才可以抄底❓」\n\n據此，今天我就再把「偏離度調整的 STH-RP 模型」請出來，\n和各位分享下方潛在的強支撐👇：\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，概念重溫如下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：<a href=\"https://nitter.net/market_beggar/status/1902195178993279264\">nitter.net/market_beggar/status/1…</a>\n📖 藍線支撐的築底時間詳細覆盤：\n<a href=\"https://nitter.net/market_beggar/status/2026474493749989766\">nitter.net/market_beggar/status/2…</a>\n📖 藍線支撐的所有歷史案例分析：\n<a href=\"https://nitter.net/market_beggar/status/2018501752103047340\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n如附圖所示：\n價格近期在來到 STH-RP（短期持有者平均成本）之後，\n波動開始出現明顯的加劇，上沖下洗的行情持續了約兩週之久，\n足以證明這條「牛熊生命線」的威力依然存在。\n\n📖「藍線再顯神威」：強力反彈 38%，硬搶 STH-RP？\n<a href=\"https://nitter.net/market_beggar/status/2052205146827116790\">nitter.net/market_beggar/status/2…</a>\n\n根據今天的最新數據顯示📇：\n🟨 STH-RP = 78,309\n🟩 綠線支撐 = 64,751\n🟦 藍線支撐 = 57,015\n\n從現貨抄底（週期性交易）的角度來看，如果你認為：\n1️⃣ 價格不會跌破 60K：那綠線就是值得入場的位置\n2️⃣ 價格必將跌破 60K（最後一哆嗦）：那藍線就是值得入場的位置\n\n當然，如果要問我的看法，我在過去兩個多月的帖子已表明立場：\n\n「我不敢保證跌破 60K 的最後一哆嗦會到來，\n但我堅信價格需要跌破 60K，才能完成健康的最終底部」\n\n📖 最後一哆嗦抄底系列（十四）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2055103263448682610\">nitter.net/market_beggar/status/2…</a>\n\n最後，老話一句：\n交易的本質是規劃，而不是預測；每個人都需要根據自己的風險耐受度，\n提前針對不同可能發生的情境，設計嚴謹且有效的應對策略。\n\n交易不是非黑即白，我們沒必要去猜測「到底會不會跌破 60K」，\n而是需要思考：「如果跌破，就 ...」以及「如果沒跌破，就 ...」，\n如此一來，價格在未來走入了其中一種情境時，我們便只需嚴格執行，\n而不必因情緒的波動而導致自亂陣腳、胡亂操作。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「不理想的築頂」：詳述基於 Liq 分析法的最新交易思路\n<a href=\"https://nitter.net/market_beggar/status/2056190764347265261\">nitter.net/market_beggar/status/2…</a>\n\n「五大買方族群熱力圖」更新：密切監測新買家何時熄火\n<a href=\"https://nitter.net/market_beggar/status/2054739624992649429\">nitter.net/market_beggar/status/2…</a>\n\n老奶奶也能看明白的「市場交易預期」白話概念教學\n<a href=\"https://nitter.net/market_beggar/status/2054377450893885740\">nitter.net/market_beggar/status/2…</a>",
+      "publishedAt": "2026-05-20T01:52:00.000Z",
+      "link": "https://x.com/market_beggar/status/2056915885106037245",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIue3-QbIAALvf0.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "「美方資金撤資風險」再次印驗🩸\n\n上週一我發布了一篇「美資撤退」的風險提示帖（下方引文），\n當時的 BTC 仍在 82K 之上，且綜觀市場可謂是滿滿的「牛回」之聲。\n\n時隔一週，「老美偷跑」的警訊再次得到印證，\n你總覺得「這次不一樣」，但最終卻「次次都一樣」，\n驀然回首，美資依然領跑市場 ...👇：\n\n//\n\n附圖的指標是「美方、亞方資金情緒曲線」，如果你是新朋友，\n或者還不清楚此指標的原理，建議可以先參考以下鏈接，\n我之前都有寫過詳細的概念教學🔗：\n\n📖 美方資金情緒曲線介紹：\nnitter.net/market_beggar/status/1…\n📖 美方資金情緒曲線的超強逃頂運用：\nnitter.net/market_beggar/status/1…\n📖 超強逃頂訊號「笨蛋錢指標」概念解析：\nnitter.net/market_beggar/status/1…\n\n//\n\n正如同我在下方引文中的原話所述：\n\n＂如今，從美方資金情緒曲線的角度來看，第一道階段性風險已然出現：\n作為市場主宰方的美資，在價格尚未下跌之時，似乎正在悄然撤退＂\n\n如果是貝格的老朋友，或許對相似的案例都早已不陌生，\n不論是 2025 年初暴跌前，或是 2025 年 10 月崩盤前，\n又或者是上週的分析帖（下方引文），美方資金都巧妙地在暴跌前退場，\n又或者說：「正是因為他們的退場，才導致的暴跌📉」。\n\n金融市場一直都不是兒戲，沒人在乎你的開倉成本或爆倉位，\n更沒人在乎你口中的「我感覺 ...」，驅動價格的永遠都是資金和共識，\n而監測上述兩者的最佳管道就是客觀的數據。\n\n時間回到現在，對於接下來市況的看法以及交易執行面的思考，\n我都有詳細寫在昨日的分析帖，有興趣的朋友可以參考以下鏈接🔗：\n📖 「不理想的築頂」：詳述基於 Liq 分析法的最新交易思路\nnitter.net/market_beggar/status/2…\n\n總結來說，結合 Liq 分布和美方資金情緒的狀況，\n我個人認為，目前主要需要監測的重點有二：\n1️⃣ 重新沖擊前高且伴隨 Stop Hunt + 美資情緒背離，則是絕佳做空窗口\n2️⃣ 如果直接跌破 74.8K，則傾向於等待 Retest 反彈再介入操作\n\n最後，作為第三次美資風險訊號的印證，在此再次幫各位加深印象：\n「永遠不要懷疑美方資金的主宰地位，以及他們給出的前瞻性訊號」。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n黃金坑追蹤系列（十四）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n「五大買方族群熱力圖」更新：密切監測新買家何時熄火\nnitter.net/market_beggar/status/2…\n\n「反向笨蛋錢訊號」：美方資金悄悄抄了亞洲資金的底\nnitter.net/market_beggar/status/2…",
+        "contentHtml": "「美方資金撤資風險」再次印驗🩸\n\n上週一我發布了一篇「美資撤退」的風險提示帖（下方引文），\n當時的 BTC 仍在 82K 之上，且綜觀市場可謂是滿滿的「牛回」之聲。\n\n時隔一週，「老美偷跑」的警訊再次得到印證，\n你總覺得「這次不一樣」，但最終卻「次次都一樣」，\n驀然回首，美資依然領跑市場 ...👇：\n\n//\n\n附圖的指標是「美方、亞方資金情緒曲線」，如果你是新朋友，\n或者還不清楚此指標的原理，建議可以先參考以下鏈接，\n我之前都有寫過詳細的概念教學🔗：\n\n📖 美方資金情緒曲線介紹：\n<a href=\"https://nitter.net/market_beggar/status/1884517487238340829\">nitter.net/market_beggar/status/1…</a>\n📖 美方資金情緒曲線的超強逃頂運用：\n<a href=\"https://nitter.net/market_beggar/status/1922851604530897171\">nitter.net/market_beggar/status/1…</a>\n📖 超強逃頂訊號「笨蛋錢指標」概念解析：\n<a href=\"https://nitter.net/market_beggar/status/1985171420469657843\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n正如同我在下方引文中的原話所述：\n\n＂如今，從美方資金情緒曲線的角度來看，第一道階段性風險已然出現：\n作為市場主宰方的美資，在價格尚未下跌之時，似乎正在悄然撤退＂\n\n如果是貝格的老朋友，或許對相似的案例都早已不陌生，\n不論是 2025 年初暴跌前，或是 2025 年 10 月崩盤前，\n又或者是上週的分析帖（下方引文），美方資金都巧妙地在暴跌前退場，\n又或者說：「正是因為他們的退場，才導致的暴跌📉」。\n\n金融市場一直都不是兒戲，沒人在乎你的開倉成本或爆倉位，\n更沒人在乎你口中的「我感覺 ...」，驅動價格的永遠都是資金和共識，\n而監測上述兩者的最佳管道就是客觀的數據。\n\n時間回到現在，對於接下來市況的看法以及交易執行面的思考，\n我都有詳細寫在昨日的分析帖，有興趣的朋友可以參考以下鏈接🔗：\n📖 「不理想的築頂」：詳述基於 Liq 分析法的最新交易思路\n<a href=\"https://nitter.net/market_beggar/status/2056190764347265261\">nitter.net/market_beggar/status/2…</a>\n\n總結來說，結合 Liq 分布和美方資金情緒的狀況，\n我個人認為，目前主要需要監測的重點有二：\n1️⃣ 重新沖擊前高且伴隨 Stop Hunt + 美資情緒背離，則是絕佳做空窗口\n2️⃣ 如果直接跌破 74.8K，則傾向於等待 Retest 反彈再介入操作\n\n最後，作為第三次美資風險訊號的印證，在此再次幫各位加深印象：\n「永遠不要懷疑美方資金的主宰地位，以及他們給出的前瞻性訊號」。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n黃金坑追蹤系列（十四）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2055103263448682610\">nitter.net/market_beggar/status/2…</a>\n\n「五大買方族群熱力圖」更新：密切監測新買家何時熄火\n<a href=\"https://nitter.net/market_beggar/status/2054739624992649429\">nitter.net/market_beggar/status/2…</a>\n\n「反向笨蛋錢訊號」：美方資金悄悄抄了亞洲資金的底\n<a href=\"https://nitter.net/market_beggar/status/2051841355819950286\">nitter.net/market_beggar/status/2…</a>",
+        "link": "https://x.com/market_beggar/status/2056552729682780400",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIpXzddaoAAfO9K.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2056911965092798926",
       "username": "ai_9684xtpa",
@@ -12128,96 +12253,6 @@
         "contentHtml": "1、稳态被打破，一定会有新的稳态诞生。新稳态的必然性，是人类社会发展的规律，这符合经济史上的“创造性破坏”（creativedestruction）理论。技术变革摧毁旧结构，但释放资源创新新平衡。例如农业机械化取代农民，却催生城市化和现代服务业。AI可能类似：解放“双手和大脑”后，人类转向高价值活动、高情绪活动。\n\n2、人们只看到失业和混乱，而忽略了长远创新如火车、飞机带来的繁荣如太空基础设施（利用AI降低发射成本、优化计算）、生物永生研究（AI加速药物发现）。工业革命初期（18-19世纪），蒸汽机确实引发大规模失业（如纺织工人抗议），社会动荡（如卢德派破坏机器），但最终推动了生产力爆炸。从蒸汽到电力，再到铁路、汽车、飞机，这些创新创造了新产业、新职位（如工程师、飞行员），整体提升了人类福祉。历史数据显示，技术革命虽延迟显现效益（如蒸汽机需数十年才显著提升生产力），但总带来净正面：例如，数字革命（计算机、互联网）初期也担忧失业，却创造了软件开发、电商等百万职位。\n\n当前AI发展（如代理工具、生成模型）正重演这一模式：2025-2026年已见生产力提升，创业门槛降低（AI工具让启动成本降70-80%），新企业涌现，新的职位也会诞生。而且让个体的能力和效率得到了极大地提升和扩展。\n\n3、AI对就业岗位的冲击，本质是对人类生产属性的挤压。人类需要对自己的功能再定位，当人不主要负责生产甚至不需要生产时，“有用”将变得廉价，人类的稀缺性将转向有趣：生产属性压缩 → 分配结构重构 → 消费属性释放 →人类价值重估。\n如果人类劳动时间下降，空闲时间上升，人们会把时间投入到娱乐、消费、内容、游戏、购物等领域。AI不会把所有摩擦和消费都替代掉，否则人类就会“变成植物人”。这里的逻辑是：时间是会被重新分配的，而不是被消灭的。劳动者从重复任务转向高价值活动（如创意或监督AI）\n这不是末日，而是重构的过渡期和阵痛期。\n\n4、AI带来生产力和生产效率的极大提升，人类很有可能进入充裕时代。生产力大幅度提升带来的通缩（价格下降）实际上提升购买力，让消费者更富裕。Citrini提到的中介崩塌，实则是资金从中介（rent-seekers）转移到终端用户，推动新消费循环。例如，房地产佣金从2.5-3%降至1%以下，不是破坏市场，而是让卖家净收入增加，买家节省用于装修或家具等新支出。类似地，DoorDash费率下降受益于餐厅、司机和消费者，交易量激增（如Mastercard案例：费率降但收入最终创新高）。历史证明，技术通缩（如计算机革命）总是带来增长，而非崩溃\n\n5、生产力决定生产关系，AI的快速发展，一定会带来整个社会制度、治理结构的变化。这些变化进而导致出现新的分配制度。有潜力推动社会向挪威（以主权财富基金为基础的福利国家）和沙特（资源租金分配模式）式的分配主义制度转型。政府可以通过宏观政策进行对冲，比如财政转移支付、福利体系强化等。\n\n6、当然不是说前方全是坦途，巨大的阵痛期不可避免。前方有坦途，但必须穿越荆棘，这是清醒的现实主义。我们看到最终长期丰裕，但历史也都反复证明，转型过程充满痛苦、颠覆和不平等放大。不能因为“最终繁荣”而忽略短期/中期代价。\n生产力提升收益先流向资本和高技能者（科技巨头、AI专家），导致“伟大脱钩”（great decoupling）：工资停滞、生产力暴涨。低技能/中技能工人受冲击最大，收入差距拉大，也已引发社会不满和动荡。\n也就是倒逼了第5点说到的，政府在政策上必然会做出调整。大规模再培训、失业保险扩展、AI税收资助UBI或主权政策，如挪威主权基金模式。",
         "link": "https://x.com/qinbafrank/status/2026168871569514974"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054061498847342749",
-      "username": "spencerpratt",
-      "displayName": "Spencer Pratt",
-      "avatar": "https://pbs.twimg.com/profile_images/2043484616439595008/HNMqir29_bigger.jpg",
-      "content": "Doing the same thing over and over again, expecting a different result is the definition of insanity. AKA: voting for failure Karen Bass is literally insane. Change the channel. Vote Pratt. I will clean the streets and end this waste of our tax dollars.",
-      "contentHtml": "Doing the same thing over and over again, expecting a different result is the definition of insanity. AKA: voting for failure Karen Bass is literally insane. Change the channel. Vote Pratt. I will clean the streets and end this waste of our tax dollars.",
-      "publishedAt": "2026-05-12T04:49:00.000Z",
-      "link": "https://x.com/spencerpratt/status/2054061498847342749",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "mcdermott",
-        "displayName": "John McDermott",
-        "content": "The City of Los Angeles homelessness budget was $967.9 million in the 2024-2025 fiscal year.\n\nThe city permanently housed 7,396 homeless people that year — $130,868 per person.\n\nThat's 59% more than the median household income in LA ($82,263).",
-        "contentHtml": "The City of Los Angeles homelessness budget was $967.9 million in the 2024-2025 fiscal year.\n\nThe city permanently housed 7,396 homeless people that year — $130,868 per person.\n\nThat's 59% more than the median household income in LA ($82,263).",
-        "link": "https://x.com/mcdermott/status/2054058540566995151"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054057288051343559",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "还是很多人没理解我说的从“深熊”步入“熊/牛转换”，把“熊/牛转换”等同于“牛回”，这是单线思维，不是0就是1，难道不能是0.5吗？建议回看23年3月期间，同样是90d-sma红转绿，当时前有ftx黑天鹅的恐慌，后有美国传统银行暴雷，在这样的背景下，没人会认为这是要“牛回”了。但回头看，这算不算新阶段的开始呢？",
-      "contentHtml": "还是很多人没理解我说的从“深熊”步入“熊/牛转换”，把“熊/牛转换”等同于“牛回”，这是单线思维，不是0就是1，难道不能是0.5吗？建议回看23年3月期间，同样是90d-sma红转绿，当时前有ftx黑天鹅的恐慌，后有美国传统银行暴雷，在这样的背景下，没人会认为这是要“牛回”了。但回头看，这算不算新阶段的开始呢？",
-      "publishedAt": "2026-05-12T04:33:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2054057288051343559",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054051856251531466",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "好像不是2018年的剧本哦！\n\nBTC已实现盈亏比的90d-sma已经坚定的站上1（由红转绿），这是个重要的分水岭。\n\n我在图中用蓝色虚线箭头标出了在过去12年里与之相对应的位置。BTC都无一例外的从“深熊”步入“熊/牛转换”阶段。\n\n直到此刻我都不敢相信，这次竟然只用了短短75天。\n\n主观上我希望BTC再下去一回，最好能破前底，因为我还没买满。但客观上数据告诉我，这个概率已经越来越小了。\n\n啊，真的有点人格分裂了.....\n你们说，我接下来应该喊多，还是喊空好呢？🤣🤣🤣",
-      "contentHtml": "好像不是2018年的剧本哦！\n\nBTC已实现盈亏比的90d-sma已经坚定的站上1（由红转绿），这是个重要的分水岭。\n\n我在图中用蓝色虚线箭头标出了在过去12年里与之相对应的位置。BTC都无一例外的从“深熊”步入“熊/牛转换”阶段。\n\n直到此刻我都不敢相信，这次竟然只用了短短75天。\n\n主观上我希望BTC再下去一回，最好能破前底，因为我还没买满。但客观上数据告诉我，这个概率已经越来越小了。\n\n啊，真的有点人格分裂了.....\n你们说，我接下来应该喊多，还是喊空好呢？🤣🤣🤣",
-      "publishedAt": "2026-05-12T04:11:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2054051856251531466",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIF0S_dbEAAuJdm.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "如果不是亲眼所见，我是绝对不敢相信的！\n\nBTC已实现盈亏比（90日均值）通常都是大级别趋势转换的重要参考。当红线变绿即表示已走出深熊的标志。此后的即便回调，也从没有“再破前低”的先例。\n\n我也曾预想过，本轮相比以往会更快更短，但也没想到会如此之短。从第一轮的375天，缩短到第三轮的241天，而本轮仅仅只用了75天......\n\n除非这次也像2018.10.12那样碰一下又下去了。否则，BTC将开创前所未有的“超级周期”。\n\n如果你不明白我说的，建议务必先看引文的内容！",
-        "contentHtml": "如果不是亲眼所见，我是绝对不敢相信的！\n\nBTC已实现盈亏比（90日均值）通常都是大级别趋势转换的重要参考。当红线变绿即表示已走出深熊的标志。此后的即便回调，也从没有“再破前低”的先例。\n\n我也曾预想过，本轮相比以往会更快更短，但也没想到会如此之短。从第一轮的375天，缩短到第三轮的241天，而本轮仅仅只用了75天......\n\n除非这次也像2018.10.12那样碰一下又下去了。否则，BTC将开创前所未有的“超级周期”。\n\n如果你不明白我说的，建议务必先看引文的内容！",
-        "link": "https://x.com/Murphychen888/status/2052191689872412863",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHpb3u4aEAAyQ2k.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054047800216723934",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#SpaceX #美股 #IPO #懂币猫 \n\n马斯克砍掉 xAI？是被塞进 SpaceX 上市故事里了！普通人想上车，务必搞清楚这三件事！\n\n接下来的绝对热点，是必须要参与的IPO\nSpaceX的打新，已经翻倍了！\n\n去年 #CRCL 上市，一周涨5倍\n这也是去年我美股第一大收益\n\n这次SpaceX不能错过",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23SpaceX\">#SpaceX</a> <a href=\"/search?f=tweets&q=%23美股\">#美股</a> <a href=\"/search?f=tweets&q=%23IPO\">#IPO</a> <a href=\"/search?f=tweets&q=%23懂币猫\">#懂币猫</a> \n\n马斯克砍掉 xAI？是被塞进 SpaceX 上市故事里了！普通人想上车，务必搞清楚这三件事！\n\n接下来的绝对热点，是必须要参与的IPO\nSpaceX的打新，已经翻倍了！\n\n去年 <a href=\"/search?f=tweets&q=%23CRCL\">#CRCL</a> 上市，一周涨5倍\n这也是去年我美股第一大收益\n\n这次SpaceX不能错过",
-      "publishedAt": "2026-05-12T03:55:00.000Z",
-      "link": "https://x.com/dongbimao/status/2054047800216723934",
       "stats": {
         "replies": 0,
         "retweets": 0,
