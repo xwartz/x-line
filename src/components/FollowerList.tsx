@@ -102,7 +102,7 @@ export function FollowerList({
   }
 
   return (
-    <div>
+    <div className="xl:fixed xl:left-[max(2rem,calc(50vw-700px+2rem))] xl:top-28 xl:w-[280px] xl:max-h-[calc(100vh-8rem)] xl:overflow-y-auto xl:overscroll-contain">
       <div className="hidden border-b border-[var(--border)] pb-4 xl:block">
         <div>
           <h3 className="[font-family:var(--font-sans)] text-[11px] font-bold uppercase tracking-[0.18em] text-[var(--muted-foreground)]">

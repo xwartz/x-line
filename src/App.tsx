@@ -50,7 +50,7 @@ export function App() {
       <main className="pb-24 pt-[4.75rem] sm:pb-16 sm:pt-28">
         <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
           <div className="grid gap-5 sm:gap-8 xl:grid-cols-[280px_minmax(0,1fr)] xl:gap-10">
-            <aside className="xl:sticky xl:top-28 xl:self-start">
+            <aside className="xl:self-start">
               <FollowerList
                 followers={followers}
                 selectedUsers={selectedUsers}
