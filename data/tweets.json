@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T21:53:35.880Z",
+  "lastUpdated": "2026-05-22T22:22:39.344Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,39 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 563,
-    "successUsers": 28,
-    "failedUsers": 2
+    "newFetched": 584,
+    "successUsers": 29,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2057943948300009504",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "We’ve swept the lows. I’m still holding the swing short from 77.6K, and I’m also in the hedge long as mentioned.\n\nIdeally, I want to see $BTC reclaim the previous wick low. Within my plan, I’ve got additional entries for the hedge long if we get a slightly deeper retracement (as illustrated in previous update)\n\nI’m essentially sacrificing some profits on the short in case Bitcoin fills the 79K gap. If I’m wrong on the hedge long, invalidation is just below 74K.\n\nAs always, I run manual stops. It gives me flexibility to read price action and candle closes in real time and adjust accordingly, similar to how I held the short through the deviation to 83K, which is now back in small profit.\n\nIt’s time to start paying attention.",
+      "contentHtml": "We’ve swept the lows. I’m still holding the swing short from 77.6K, and I’m also in the hedge long as mentioned.\n\nIdeally, I want to see <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> reclaim the previous wick low. Within my plan, I’ve got additional entries for the hedge long if we get a slightly deeper retracement (as illustrated in previous update)\n\nI’m essentially sacrificing some profits on the short in case Bitcoin fills the 79K gap. If I’m wrong on the hedge long, invalidation is just below 74K.\n\nAs always, I run manual stops. It gives me flexibility to read price action and candle closes in real time and adjust accordingly, similar to how I held the short through the deviation to 83K, which is now back in small profit.\n\nIt’s time to start paying attention.",
+      "publishedAt": "2026-05-22T21:57:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2057943948300009504",
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "$BTC\n\nMarkets follow liquidity. Right now, a major cluster of long liquidations are building around the 74–75K range.\n\nEventually that liquidity is likely to get taken.\n\nMarkets rarely move in a straight line. Most of the time, before price runs toward liquidity in one direction, it first moves the opposite way. 🫡",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nMarkets follow liquidity. Right now, a major cluster of long liquidations are building around the 74–75K range.\n\nEventually that liquidity is likely to get taken.\n\nMarkets rarely move in a straight line. Most of the time, before price runs toward liquidity in one direction, it first moves the opposite way. 🫡",
+        "link": "https://x.com/KillaXBT/status/2057856767313252709",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI74spFWAAAiAkR.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2057930296822030374",
       "username": "KillaXBT",
@@ -9430,6 +9458,25 @@
       }
     },
     {
+      "id": "2056010598618648737",
+      "username": "navalpodcast",
+      "displayName": "Naval Podcast",
+      "avatar": "https://pbs.twimg.com/profile_images/2049248689680732160/St8fBFAj_bigger.jpg",
+      "content": "“A taste of freedom can make you unemployable.”\n\n— @naval",
+      "contentHtml": "“A taste of freedom can make you unemployable.”\n\n— <a href=\"/naval\" title=\"Naval\">@naval</a>",
+      "publishedAt": "2026-05-17T13:55:00.000Z",
+      "link": "https://x.com/navalpodcast/status/2056010598618648737",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2056009189009543432",
       "username": "coolish",
       "displayName": "paulwei",
@@ -10208,6 +10255,25 @@
         "content": "嗯，对了大书特书，错了，打个马虎眼，这么多年无非就想搞点收费群，搞那么多节目无利不起早，收费本来违法的，早点收手吧，别到时候秋后算账",
         "contentHtml": "嗯，对了大书特书，错了，打个马虎眼，这么多年无非就想搞点收费群，搞那么多节目无利不起早，收费本来违法的，早点收手吧，别到时候秋后算账",
         "link": "https://x.com/xujuan111/status/2055653819246329975"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055662777898078217",
+      "username": "navalpodcast",
+      "displayName": "Naval Podcast",
+      "avatar": "https://pbs.twimg.com/profile_images/2049248689680732160/St8fBFAj_bigger.jpg",
+      "content": "“All frameworks in life—your workout framework, your sales framework, even your building-an-app framework—are all a distant second to your motivation.”\n\n— @naval",
+      "contentHtml": "“All frameworks in life—your workout framework, your sales framework, even your building-an-app framework—are all a distant second to your motivation.”\n\n— <a href=\"/naval\" title=\"Naval\">@naval</a>",
+      "publishedAt": "2026-05-16T14:52:00.000Z",
+      "link": "https://x.com/navalpodcast/status/2055662777898078217",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -12203,51 +12269,6 @@
         "contentHtml": "我上调观察位到240🥹",
         "link": "https://x.com/hazenlee/status/2055020781932036504"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055256748068360605",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "GM ☕️",
-      "contentHtml": "GM ☕️",
-      "publishedAt": "2026-05-15T11:59:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2055256748068360605",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055243989352341790",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://pbs.twimg.com/profile_images/1986442283433254912/O0egVwxK_bigger.jpg",
-      "content": "Wink",
-      "contentHtml": "Wink",
-      "publishedAt": "2026-05-15T11:08:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2055243989352341790",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055234005356904466",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
-      "content": "这类机会属于金融老炮+ 科技中登的游戏 (要有钱且有大PE的经验+ 技术部署与改造) 没有操盘过1亿美金以上的M&A deal不能对资产负债表engineering信手拈来的, 是不肯嗯处理这种复杂度资产+ 企业组织重组的",
-      "contentHtml": "这类机会属于金融老炮+ 科技中登的游戏 (要有钱且有大PE的经验+ 技术部署与改造) 没有操盘过1亿美金以上的M&amp;A deal不能对资产负债表engineering信手拈来的, 是不肯嗯处理这种复杂度资产+ 企业组织重组的",
-      "publishedAt": "2026-05-15T10:29:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2055234005356904466",
       "stats": {
         "replies": 0,
         "retweets": 0,
