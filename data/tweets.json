@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T03:05:32.361Z",
+  "lastUpdated": "2026-05-22T04:51:56.630Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,216 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 593,
+    "newFetched": 590,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2057685712645116279",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "昨天大摩分析师对于VR200NVL72的拆解图流传很广，很多人误认为这是VR200的成本构造，说物料总成本这是误读。毕竟780万美金是单一机柜从富士康这类ODM厂商的出厂实际售价（不能说总成本就是780万美金）。所以这张图叫英伟达VR200机柜的价值分布更恰当些。当然这个价值占比分布基本上也能对应的物料成本占比。从这张图以及与上一代GB300价值对比能看出来什么来？\n1、内存价值占比大幅度提高\n内存仅占GB200 NVL72机架物料成本（BOM）的5%-10%；但到了VR200，内存占比已飙升至26%。简单说，rubin系列用到的hbm更多了。\n\n2、PCB（印刷电路板）价值占比增加233%；\nMLCC（多层陶瓷电容）价值占比增加182%；\nABF基板价值占比增加82%\n电源价值占比增加32%；\n冷却价值占比也增加12%。\n\n而且大摩分析师在报告里还提到一个叫SOCAMM（小外形压缩附着内存模块）的采购方式。基准情景下，英伟达负责采购SOCAMM并以70%毛利率转售，机架价格约780万美元。但如果超大规模云厂商（如微软、谷歌、亚马逊等）选择直接采购SOCAMM，绕过英伟达的加价环节，机架价格将降至约670万美元。\n\n除了内存、连接、pcb/abf/MLCC这些关键组件之外，还有一个值得关注的环节就是英伟达力推的800V HVDC。Vera Rubin平台标配110kW电源模块，但已有至少一家美国云服务商在Vera Rubin平台上采用了HVDC（高压直流）独立电源机架。\n分析师预计，800V直流电将在2027年下半年推出的Rubin Ultra平台上得到大规模采用。台达电（Delta）已与至少三家美国云服务商合作推进HVDC平台落地，初步部署预计从2026年下半年开始。\n\n800v hdc的产业链关键环节也值得关注。",
+      "contentHtml": "昨天大摩分析师对于VR200NVL72的拆解图流传很广，很多人误认为这是VR200的成本构造，说物料总成本这是误读。毕竟780万美金是单一机柜从富士康这类ODM厂商的出厂实际售价（不能说总成本就是780万美金）。所以这张图叫英伟达VR200机柜的价值分布更恰当些。当然这个价值占比分布基本上也能对应的物料成本占比。从这张图以及与上一代GB300价值对比能看出来什么来？\n1、内存价值占比大幅度提高\n内存仅占GB200 NVL72机架物料成本（BOM）的5%-10%；但到了VR200，内存占比已飙升至26%。简单说，rubin系列用到的hbm更多了。\n\n2、PCB（印刷电路板）价值占比增加233%；\nMLCC（多层陶瓷电容）价值占比增加182%；\nABF基板价值占比增加82%\n电源价值占比增加32%；\n冷却价值占比也增加12%。\n\n而且大摩分析师在报告里还提到一个叫SOCAMM（小外形压缩附着内存模块）的采购方式。基准情景下，英伟达负责采购SOCAMM并以70%毛利率转售，机架价格约780万美元。但如果超大规模云厂商（如微软、谷歌、亚马逊等）选择直接采购SOCAMM，绕过英伟达的加价环节，机架价格将降至约670万美元。\n\n除了内存、连接、pcb/abf/MLCC这些关键组件之外，还有一个值得关注的环节就是英伟达力推的800V HVDC。Vera Rubin平台标配110kW电源模块，但已有至少一家美国云服务商在Vera Rubin平台上采用了HVDC（高压直流）独立电源机架。\n分析师预计，800V直流电将在2027年下半年推出的Rubin Ultra平台上得到大规模采用。台达电（Delta）已与至少三家美国云服务商合作推进HVDC平台落地，初步部署预计从2026年下半年开始。\n\n800v hdc的产业链关键环节也值得关注。",
+      "publishedAt": "2026-05-22T04:51:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2057685712645116279",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI5eLrXa8AASWiu.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI5eLrWaAAESGfT.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "x.com/i/article/204364414113…",
+        "contentHtml": "<a href=\"http://x.com/i/article/2043644141134094336\">x.com/i/article/204364414113…</a>",
+        "link": "https://x.com/qinbafrank/status/2043653387271712962"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2057684732134187124",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "光通信版 #ETF #DRAM #EUV\n\nDRAM 是内存版 ETF\nEUV 就是光通信版 ETF \n\n新的一支细分行业 ETF，#DRAM 专注内存 #EUV 专注光刻 + 半导体光子学产业链\n\n如果你认为“AI 数据中心越来越大后不仅仅是芯片要更强，还要求芯片之间传数据也得更快”\n那可以关注下EUV这个ETF，可以把它理解成“AI 硬件瓶颈 ETF”：一头押先进制造，一头押光互连\n\n主打光刻 + 半导体光子学产业链\n\n代表持仓\nTSM 9.7%、\nASML 7.88%、\nGLW 5.03%、\nLRCX 4.91%、\nAMAT 4.91%、\nLITE 4.36%\n\n但这只 ETF 刚上市，且持仓集中在热门 AI 硬件链条，当前流动性还不太足，类似于早期的 #DRAM ，光通信的扩产比存储还慢，需要保持关注",
+      "contentHtml": "光通信版 <a href=\"/search?f=tweets&q=%23ETF\">#ETF</a> <a href=\"/search?f=tweets&q=%23DRAM\">#DRAM</a> <a href=\"/search?f=tweets&q=%23EUV\">#EUV</a>\n\nDRAM 是内存版 ETF\nEUV 就是光通信版 ETF \n\n新的一支细分行业 ETF，<a href=\"/search?f=tweets&q=%23DRAM\">#DRAM</a> 专注内存 <a href=\"/search?f=tweets&q=%23EUV\">#EUV</a> 专注光刻 + 半导体光子学产业链\n\n如果你认为“AI 数据中心越来越大后不仅仅是芯片要更强，还要求芯片之间传数据也得更快”\n那可以关注下EUV这个ETF，可以把它理解成“AI 硬件瓶颈 ETF”：一头押先进制造，一头押光互连\n\n主打光刻 + 半导体光子学产业链\n\n代表持仓\nTSM 9.7%、\nASML 7.88%、\nGLW 5.03%、\nLRCX 4.91%、\nAMAT 4.91%、\nLITE 4.36%\n\n但这只 ETF 刚上市，且持仓集中在热门 AI 硬件链条，当前流动性还不太足，类似于早期的 <a href=\"/search?f=tweets&q=%23DRAM\">#DRAM</a> ，光通信的扩产比存储还慢，需要保持关注",
+      "publishedAt": "2026-05-22T04:47:00.000Z",
+      "link": "https://x.com/dongbimao/status/2057684732134187124",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI5PEQVbMAA27kk.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2057684857732653381",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "哪些BTC当前正暴露在量子风险之下？\n\n\"静态量子暴露\" 即公钥已显示在链上、理论上可被量子计算机用 Shor算法反推私钥的那部分已流通的BTC。\n\n据研究，当前有604万枚BTC 处于量子暴露状态。我们将这种风险分为两类:\n\n1⃣  结构性暴露：192 万枚；\n主要源于P2PK、裸多签、Taproot等脚本设计本身就显示公钥。其中，中本聪时代的币最难迁移。\n\n2⃣  操作性暴露：412 万枚；\n主要源于地址复用导致公钥提前泄露，这部分规模更大，但也更容易得到改善。\n\n这其中有166万枚与交易所相关。在标记的余额中，Coinbase只有5%的风险暴露，而其他交易所以及已知实体，都显示出相对较高的风险敞口。\n\n当然，这不是要强调风险排名或量子时间表预测，而是说，多数暴露属于管理问题，是可以通过避免地址复用等操作手段大幅降低风险的。\n\n- 以上数据来自于 Glassnode 的研究报告 -",
+      "contentHtml": "哪些BTC当前正暴露在量子风险之下？\n\n\"静态量子暴露\" 即公钥已显示在链上、理论上可被量子计算机用 Shor算法反推私钥的那部分已流通的BTC。\n\n据研究，当前有604万枚BTC 处于量子暴露状态。我们将这种风险分为两类:\n\n1⃣  结构性暴露：192 万枚；\n主要源于P2PK、裸多签、Taproot等脚本设计本身就显示公钥。其中，中本聪时代的币最难迁移。\n\n2⃣  操作性暴露：412 万枚；\n主要源于地址复用导致公钥提前泄露，这部分规模更大，但也更容易得到改善。\n\n这其中有166万枚与交易所相关。在标记的余额中，Coinbase只有5%的风险暴露，而其他交易所以及已知实体，都显示出相对较高的风险敞口。\n\n当然，这不是要强调风险排名或量子时间表预测，而是说，多数暴露属于管理问题，是可以通过避免地址复用等操作手段大幅降低风险的。\n\n- 以上数据来自于 Glassnode 的研究报告 -",
+      "publishedAt": "2026-05-22T04:47:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2057684857732653381",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI5cjkoakAAhuDV.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI5cnU4aUAAN7vt.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI5cozjboAAikgU.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2057679992226455818",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "这是我在5月8日置顶的帖子，讲述的是估值回到了上年10月份的水平。这两天我一直在和彭博沟通，因为数据似乎出了问题，最新的图1如下：才25倍的估值，我仔细对比了一下和5月8日的图，3月29日之前是一样的，上年10月份超过30倍。差别似乎在3月30，31日两天。和彭博沟通下来的结果是纳指综合指数（3000多个标的）里每个标的的FORWARD EPS没有历史记录，其实是在忽悠我，我去验证了3家大科技（苹果，英伟达，微软），FORWARD P/E的历史数据基本都正确，所以问题可能出在计算综合指数P/E的分母上（并非简单的加权平均），他们背后对历史数据做了修改。\n思考后可能NDX（纳指100），是个更稳定的衡量标准。如图2，白线27.5倍是个比较明显的上区间，现在在24.3倍，还有大概13%的空间（和SOX，SPX的结论类似了）。现在并非在一个非常高的位置。\n昨天直播时有人问了我这个问题：“前段时间我说估值是便宜的，为什么最近认为贵了？”我说并非我主观的看法，而是客观的数据告诉我的。经过这两天的数据验证后，关于标普和芯片的结论没有改变，纳指的估值要进行修正，从已在贵的位置调整为并没有很贵\n最后很多人可能会问的，我是不是会继续降BETA的做法？时间点会往后延，这样的NDX估值数据会给我手里很多科技股的仓位很大一部分的舒适度。",
+      "contentHtml": "这是我在5月8日置顶的帖子，讲述的是估值回到了上年10月份的水平。这两天我一直在和彭博沟通，因为数据似乎出了问题，最新的图1如下：才25倍的估值，我仔细对比了一下和5月8日的图，3月29日之前是一样的，上年10月份超过30倍。差别似乎在3月30，31日两天。和彭博沟通下来的结果是纳指综合指数（3000多个标的）里每个标的的FORWARD EPS没有历史记录，其实是在忽悠我，我去验证了3家大科技（苹果，英伟达，微软），FORWARD P/E的历史数据基本都正确，所以问题可能出在计算综合指数P/E的分母上（并非简单的加权平均），他们背后对历史数据做了修改。\n思考后可能NDX（纳指100），是个更稳定的衡量标准。如图2，白线27.5倍是个比较明显的上区间，现在在24.3倍，还有大概13%的空间（和SOX，SPX的结论类似了）。现在并非在一个非常高的位置。\n昨天直播时有人问了我这个问题：“前段时间我说估值是便宜的，为什么最近认为贵了？”我说并非我主观的看法，而是客观的数据告诉我的。经过这两天的数据验证后，关于标普和芯片的结论没有改变，纳指的估值要进行修正，从已在贵的位置调整为并没有很贵\n最后很多人可能会问的，我是不是会继续降BETA的做法？时间点会往后延，这样的NDX估值数据会给我手里很多科技股的仓位很大一部分的舒适度。",
+      "publishedAt": "2026-05-22T04:28:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2057679992226455818",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI5OzXkWoAA-Td5.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI5Tyu5XQAA9Xlp.jpg"
+        }
+      ],
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "如果你听进了我在三月底大喊科技股太便宜了，并且拿到现在，恭喜大家，这是我们应得的。今天的收盘FORWARD P/E来到了29，上年10月份我开始喊降BETA时是30，我们很接近了。我认为从30以上再次开始降BETA是合理的，也就是再往上3%的距离，无需太讲究点位，因为30不一定就是个顶，情绪面顶部无需预测。\n我认为资金会轮动出去，去价值股，去小盘股，垃圾股。就像很多人觉得今年1月份错过了行情一样，指数涨0.9%，垃圾满天飞。\n我不是要鼓励你们去碰垃圾股，反正我不会买，但我会准备根据情况调整仓位了。",
+        "contentHtml": "如果你听进了我在三月底大喊科技股太便宜了，并且拿到现在，恭喜大家，这是我们应得的。今天的收盘FORWARD P/E来到了29，上年10月份我开始喊降BETA时是30，我们很接近了。我认为从30以上再次开始降BETA是合理的，也就是再往上3%的距离，无需太讲究点位，因为30不一定就是个顶，情绪面顶部无需预测。\n我认为资金会轮动出去，去价值股，去小盘股，垃圾股。就像很多人觉得今年1月份错过了行情一样，指数涨0.9%，垃圾满天飞。\n我不是要鼓励你们去碰垃圾股，反正我不会买，但我会准备根据情况调整仓位了。",
+        "link": "https://x.com/TJ_Research/status/2052877597789311219",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HH1HwRgWQAY-lxL.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2057671027128434833",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "4000 万美金！建仓 $HYPE ，做多 $BTC ，做空 $ZEC\n\n「爆仓 2.3 亿美元的 1011 巨鲸」刚刚开启了 ZEC 空单，目前持有 126 万美元的 3x 空单，还在 [$653.58 - $661.4] 区间限价卖出 122 万美元的 ZEC\n\n此外，他还有 3921 万美元的 BTC 多单仓位，和 249 万美元的 HYPE 现货（挂单买入部分 40.7 万美元暂未成交，未计入）\n\n传送门 👉 d.pro/portfolio/0x92ea19ECeB…",
+      "contentHtml": "4000 万美金！建仓 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> ，做多 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> ，做空 <a href=\"/search?f=tweets&q=%23ZEC\">$ZEC</a>\n\n「爆仓 2.3 亿美元的 1011 巨鲸」刚刚开启了 ZEC 空单，目前持有 126 万美元的 3x 空单，还在 [$653.58 - $661.4] 区间限价卖出 122 万美元的 ZEC\n\n此外，他还有 3921 万美元的 BTC 多单仓位，和 249 万美元的 HYPE 现货（挂单买入部分 40.7 万美元暂未成交，未计入）\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0x92ea19ECeB7a8dE0f50978A1583A5D8b018050e9\">d.pro/portfolio/0x92ea19ECeB…</a>",
+      "publishedAt": "2026-05-22T03:52:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2057671027128434833",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI5QytxboAAfFrF.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "「爆仓 2.3 亿美元的 1011 巨鲸」再次向 Hyperliquid 充值 900 万枚 USDC，昨天起已累计充值 1901 万美元\n\n▶︎ 挂单买入 $HYPE：计划在 [$49.725 - $52.36] 区间内买入 115 万美元的 HYPE（现已持有 248 万美元的现货）\n▶︎ 做多 $BTC：现持有 504.4 枚 5x BTC 多单，价值 3895 万美元，浮亏 8.5 万美元\n\n传送门 👉d.pro/portfolio/0x92ea19ECeB…",
+        "contentHtml": "「爆仓 2.3 亿美元的 1011 巨鲸」再次向 Hyperliquid 充值 900 万枚 USDC，昨天起已累计充值 1901 万美元\n\n▶︎ 挂单买入 $HYPE：计划在 [$49.725 - $52.36] 区间内买入 115 万美元的 HYPE（现已持有 248 万美元的现货）\n▶︎ 做多 $BTC：现持有 504.4 枚 5x BTC 多单，价值 3895 万美元，浮亏 8.5 万美元\n\n传送门 👉<a href=\"https://www.d.pro/portfolio/0x92ea19ECeB7a8dE0f50978A1583A5D8b018050e9\">d.pro/portfolio/0x92ea19ECeB…</a>",
+        "link": "https://x.com/ai_9684xtpa/status/2057453571835388020",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI2LHDHbUAIVOZU.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2057670604648763683",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://pbs.twimg.com/profile_images/1982606819244605440/2IYiLUQI_bigger.jpg",
+      "content": "10万关口在即，就差最后一根放量大阳线。",
+      "contentHtml": "10万关口在即，就差最后一根放量大阳线。",
+      "publishedAt": "2026-05-22T03:51:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2057670604648763683",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI5QgdbaQAA7kqx.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2057661403729887651",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
+      "content": "谁在黑军子啊，他明明对谁都这么谦卑😭",
+      "contentHtml": "谁在黑军子啊，他明明对谁都这么谦卑😭",
+      "publishedAt": "2026-05-22T03:14:00.000Z",
+      "link": "https://x.com/hazenlee/status/2057661403729887651",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2057660156939207036",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "$INTU 个人（企业）退税这种事情，我认为未来一定会被个人/企业的AI AGENT做了，那么问题就是新的AI NATIVE公司做，还是 $INTU 能独占这个市场",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23INTU\">$INTU</a> 个人（企业）退税这种事情，我认为未来一定会被个人/企业的AI AGENT做了，那么问题就是新的AI NATIVE公司做，还是 <a href=\"/search?f=tweets&q=%23INTU\">$INTU</a> 能独占这个市场",
+      "publishedAt": "2026-05-22T03:09:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2057660156939207036",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2057656978600779975",
       "username": "hazenlee",
@@ -12017,212 +12222,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054873197452091874",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "桂林 @Guilin_Chen_ 给我推荐OKX的固定票息产品（FCN，Fixed Coupon Note），说是我只玩BTC的话，可以在搏币价的同时再多吃一个利息。\n\n仔细看下产品规则，第一个感觉是非常类似传统金融中的雪球。它和双币赢的区别在于多了一个“中途观察是否敲出”的机制。\n\n比如，我现在手上有BTC现货，买入当前“BTC 固定票息产品”后，要遵循的规则如下：\n\n1、敲出价格：$75,000，观察周期：每周；\n即在到期前，每周五15:30-16:00期间，观察BTC的平均价格是不是有等于或低于$75,000？\n\n如果低于，产品提前终止，我将收到当初所投入的BTC和截止到该日的应计利息（图中年化是6%）。如果高于，产品继续，到下一个观察日再看。\n\n2、到期日：7月31日；行权价：$95,000；\n即如果中途都没有敲出，在7月31日到期时，如BTC价格等于或低于$95,000，我将收到当初所投入的BTC和对应的利息。\n\n反之，如果BTC价格高于$95,000，除了收到利息之外，我将收到的不是当初投入的BTC，而是按$95,000的价格卖出BTC后的“钱”。\n\n风险点在哪里？我觉得有2个：\n\n1、观察日之前遇到大跌，你无法及时止损。只有等观察日后系统敲出并结算后，我才能拿回BTC。\n\n2、到期日正好遇到大涨，我的BTC在$95,000被卖出后，等结算资金回到我账户，BTC又涨了，那就相当于我卖飞了。\n\n以上是用“BTC 固定票息产品”举例说明，那么另外一个“USDT 固定票息产品”也是同样逻辑，就很好理解了。\n\n简单总结一句话：\n\nFCN就是在到期前每周看“有没有敲出”，敲出了，拿本金收利息，没敲出就继续。到期日看行权价，低于行权价，拿本金收利息；高于行权价，拿利息，但本金会被转换成对应币种。\n\n而双币赢是没有“观察日”和“提前敲出”这个机制，只能等到到期日按约定规则拿本金拿利息，或着拿利息但本金被转换。",
-      "contentHtml": "桂林 <a href=\"/Guilin_Chen_\" title=\"陈桂林\">@Guilin_Chen_</a> 给我推荐OKX的固定票息产品（FCN，Fixed Coupon Note），说是我只玩BTC的话，可以在搏币价的同时再多吃一个利息。\n\n仔细看下产品规则，第一个感觉是非常类似传统金融中的雪球。它和双币赢的区别在于多了一个“中途观察是否敲出”的机制。\n\n比如，我现在手上有BTC现货，买入当前“BTC 固定票息产品”后，要遵循的规则如下：\n\n1、敲出价格：$75,000，观察周期：每周；\n即在到期前，每周五15:30-16:00期间，观察BTC的平均价格是不是有等于或低于$75,000？\n\n如果低于，产品提前终止，我将收到当初所投入的BTC和截止到该日的应计利息（图中年化是6%）。如果高于，产品继续，到下一个观察日再看。\n\n2、到期日：7月31日；行权价：$95,000；\n即如果中途都没有敲出，在7月31日到期时，如BTC价格等于或低于$95,000，我将收到当初所投入的BTC和对应的利息。\n\n反之，如果BTC价格高于$95,000，除了收到利息之外，我将收到的不是当初投入的BTC，而是按$95,000的价格卖出BTC后的“钱”。\n\n风险点在哪里？我觉得有2个：\n\n1、观察日之前遇到大跌，你无法及时止损。只有等观察日后系统敲出并结算后，我才能拿回BTC。\n\n2、到期日正好遇到大涨，我的BTC在$95,000被卖出后，等结算资金回到我账户，BTC又涨了，那就相当于我卖飞了。\n\n以上是用“BTC 固定票息产品”举例说明，那么另外一个“USDT 固定票息产品”也是同样逻辑，就很好理解了。\n\n简单总结一句话：\n\nFCN就是在到期前每周看“有没有敲出”，敲出了，拿本金收利息，没敲出就继续。到期日看行权价，低于行权价，拿本金收利息；高于行权价，拿利息，但本金会被转换成对应币种。\n\n而双币赢是没有“观察日”和“提前敲出”这个机制，只能等到到期日按约定规则拿本金拿利息，或着拿利息但本金被转换。",
-      "publishedAt": "2026-05-14T10:35:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2054873197452091874",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIRfiQUawAAMUiA.jpg"
-        }
-      ],
-      "quote": {
-        "username": "okxchinese",
-        "displayName": "OKX中文",
-        "content": "x.com/i/article/205407994373…",
-        "contentHtml": "<a href=\"http://x.com/i/article/2054079943735480320\">x.com/i/article/205407994373…</a>",
-        "link": "https://x.com/okxchinese/status/2054116224540594181"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054865225787351520",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "啊这，我刚说完榜三很坚挺，高位入场 $sato 的榜二就清仓割肉了😅\n\n20 分钟前他将 37.4 万枚 sato 一笔卖为 139.197 枚 ETH，随后卖为了 USDT；最终买入成本 $1.4157，卖出价格 $0.8393，实质性亏损 21.5 万美元\n\n这笔大额卖出使得 sato 短时跌至 $0.7625，现回升至 $0.9328\n\n传送门 👉 intel.arkm.com/explorer/addr…",
-      "contentHtml": "啊这，我刚说完榜三很坚挺，高位入场 <a href=\"/search?f=tweets&q=%23sato\">$sato</a> 的榜二就清仓割肉了😅\n\n20 分钟前他将 37.4 万枚 sato 一笔卖为 139.197 枚 ETH，随后卖为了 USDT；最终买入成本 $1.4157，卖出价格 $0.8393，实质性亏损 21.5 万美元\n\n这笔大额卖出使得 sato 短时跌至 $0.7625，现回升至 $0.9328\n\n传送门 👉 <a href=\"https://intel.arkm.com/explorer/address/0xE5F63531844FF80a3502eB5b767796666B8CceaF\">intel.arkm.com/explorer/addr…</a>",
-      "publishedAt": "2026-05-14T10:03:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2054865225787351520",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIRY8P_asAAYUhO.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "应评论区小伙伴呼声，更新下 $sato 近期数据\n\n🟢 榜三依然坚挺\n\n榜一 runecrypto.eth：持仓 396,791 枚，成本 ~$0.2471，浮盈约 32.5 万美元\ndebot.ai/address/eth/0x8f14e…\n\n榜二 0xe5f…cceaf：持仓 374,365 枚，成本 $1.4157，浮亏 13.1 万美元\ndebot.ai/address/eth/0xe5f63…\n\n榜三 0x3a1…62691：持仓 291,170 枚，成本 $1.1033，浮亏 1.43 万美元\ndebot.ai/address/eth/0x3a12d…\n\n🔴 主要抛售力量：地址 0x44a…d67e2\n\n于昨日清仓 17.5 万枚 sato 并获利 16.9 万美元，回报率 375.87%，成本$0.2849，卖出价格 $1.3435，他的抛售助推币价短期跌至 $1.03\ndebot.ai/address/bsc/0x44a41…\n\n总体来看，榜三都还满坚挺的，尽管榜二榜三都是较高位置入场但未曾有过减仓行为；近两天暂未发现「巨鲸入场」情况，多为波段或几万美金上下的买入行为（若有，欢迎在评论区补充哈）",
-        "contentHtml": "应评论区小伙伴呼声，更新下 <a href=\"/search?f=tweets&q=%23sato\">$sato</a> 近期数据\n\n🟢 榜三依然坚挺\n\n榜一 runecrypto.eth：持仓 396,791 枚，成本 ~$0.2471，浮盈约 32.5 万美元\n<a href=\"https://debot.ai/address/eth/0x8f14eafbdca23972baf19269177fe5af3bcf8985?ref=174084\">debot.ai/address/eth/0x8f14e…</a>\n\n榜二 0xe5f…cceaf：持仓 374,365 枚，成本 $1.4157，浮亏 13.1 万美元\n<a href=\"https://debot.ai/address/eth/0xe5f63531844ff80a3502eb5b767796666b8cceaf?ref=174084\">debot.ai/address/eth/0xe5f63…</a>\n\n榜三 0x3a1…62691：持仓 291,170 枚，成本 $1.1033，浮亏 1.43 万美元\n<a href=\"https://debot.ai/address/eth/0x3a12dc32d9a9df4f802622a18a78923dcde62691?ref=174084\">debot.ai/address/eth/0x3a12d…</a>\n\n🔴 主要抛售力量：地址 0x44a…d67e2\n\n于昨日清仓 17.5 万枚 sato 并获利 16.9 万美元，回报率 375.87%，成本$0.2849，卖出价格 $1.3435，他的抛售助推币价短期跌至 $1.03\n<a href=\"https://debot.ai/address/bsc/0x44a41650b6ef6021c7e8bae10e435e96105d67e2?ref=174084\">debot.ai/address/bsc/0x44a41…</a>\n\n总体来看，榜三都还满坚挺的，尽管榜二榜三都是较高位置入场但未曾有过减仓行为；近两天暂未发现「巨鲸入场」情况，多为波段或几万美金上下的买入行为（若有，欢迎在评论区补充哈）",
-        "link": "https://x.com/ai_9684xtpa/status/2054842922064056822",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIRD568acAAU2zr.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054863162550436191",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
-      "content": "“好的艺术家拷贝，伟大的艺术家偷窃”",
-      "contentHtml": "“好的艺术家拷贝，伟大的艺术家偷窃”",
-      "publishedAt": "2026-05-14T09:55:00.000Z",
-      "link": "https://x.com/coolish/status/2054863162550436191",
-      "retweet": {
-        "username": "coolish",
-        "displayName": "paulwei"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054855529441226900",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "5月13日直播总结\n\n交易员要像水一样灵活多变，不要像个老斑鸠--固执已见\n\n钓鱼要去有鱼的地方。人家都把鱼毒死完了，你去那个水库怎么可能钓起来?\n\n不要对山寨有信仰。赶紧忘了，它死了\n\n你要是狗庄，现在美股行情好，大家都不关注加密，该亏的亏完了，你会怎么操盘？\n\n挣了钱要守住，很多人有挣钱经历，最后都没守住",
-      "contentHtml": "5月13日直播总结\n\n交易员要像水一样灵活多变，不要像个老斑鸠--固执已见\n\n钓鱼要去有鱼的地方。人家都把鱼毒死完了，你去那个水库怎么可能钓起来?\n\n不要对山寨有信仰。赶紧忘了，它死了\n\n你要是狗庄，现在美股行情好，大家都不关注加密，该亏的亏完了，你会怎么操盘？\n\n挣了钱要守住，很多人有挣钱经历，最后都没守住",
-      "publishedAt": "2026-05-14T09:25:00.000Z",
-      "link": "https://x.com/dongbimao/status/2054855529441226900",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIRQH1xWUAAwjd8.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054842922064056822",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "应评论区小伙伴呼声，更新下 $sato 近期数据\n\n🟢 榜三依然坚挺\n\n榜一 runecrypto.eth：持仓 396,791 枚，成本 ~$0.2471，浮盈约 32.5 万美元\ndebot.ai/address/eth/0x8f14e…\n\n榜二 0xe5f…cceaf：持仓 374,365 枚，成本 $1.4157，浮亏 13.1 万美元\ndebot.ai/address/eth/0xe5f63…\n\n榜三 0x3a1…62691：持仓 291,170 枚，成本 $1.1033，浮亏 1.43 万美元\ndebot.ai/address/eth/0x3a12d…\n\n🔴 主要抛售力量：地址 0x44a…d67e2\n\n于昨日清仓 17.5 万枚 sato 并获利 16.9 万美元，回报率 375.87%，成本$0.2849，卖出价格 $1.3435，他的抛售助推币价短期跌至 $1.03\ndebot.ai/address/bsc/0x44a41…\n\n总体来看，榜三都还满坚挺的，尽管榜二榜三都是较高位置入场但未曾有过减仓行为；近两天暂未发现「巨鲸入场」情况，多为波段或几万美金上下的买入行为（若有，欢迎在评论区补充哈）",
-      "contentHtml": "应评论区小伙伴呼声，更新下 <a href=\"/search?f=tweets&q=%23sato\">$sato</a> 近期数据\n\n🟢 榜三依然坚挺\n\n榜一 runecrypto.eth：持仓 396,791 枚，成本 ~$0.2471，浮盈约 32.5 万美元\n<a href=\"https://debot.ai/address/eth/0x8f14eafbdca23972baf19269177fe5af3bcf8985?ref=174084\">debot.ai/address/eth/0x8f14e…</a>\n\n榜二 0xe5f…cceaf：持仓 374,365 枚，成本 $1.4157，浮亏 13.1 万美元\n<a href=\"https://debot.ai/address/eth/0xe5f63531844ff80a3502eb5b767796666b8cceaf?ref=174084\">debot.ai/address/eth/0xe5f63…</a>\n\n榜三 0x3a1…62691：持仓 291,170 枚，成本 $1.1033，浮亏 1.43 万美元\n<a href=\"https://debot.ai/address/eth/0x3a12dc32d9a9df4f802622a18a78923dcde62691?ref=174084\">debot.ai/address/eth/0x3a12d…</a>\n\n🔴 主要抛售力量：地址 0x44a…d67e2\n\n于昨日清仓 17.5 万枚 sato 并获利 16.9 万美元，回报率 375.87%，成本$0.2849，卖出价格 $1.3435，他的抛售助推币价短期跌至 $1.03\n<a href=\"https://debot.ai/address/bsc/0x44a41650b6ef6021c7e8bae10e435e96105d67e2?ref=174084\">debot.ai/address/bsc/0x44a41…</a>\n\n总体来看，榜三都还满坚挺的，尽管榜二榜三都是较高位置入场但未曾有过减仓行为；近两天暂未发现「巨鲸入场」情况，多为波段或几万美金上下的买入行为（若有，欢迎在评论区补充哈）",
-      "publishedAt": "2026-05-14T08:35:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2054842922064056822",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIRD568acAAU2zr.jpg"
-        }
-      ],
-      "quote": {
-        "username": "jingouwang888",
-        "displayName": "狗哥",
-        "content": "Ai 姨更新一版抄底 $SATO 的巨鲸地址",
-        "contentHtml": "Ai 姨更新一版抄底 <a href=\"/search?f=tweets&q=%23SATO\">$SATO</a> 的巨鲸地址",
-        "link": "https://x.com/jingouwang888/status/2054762690544119884"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054839129557663829",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
-      "content": "视觉方案，是最终吞噬世界的第一通用层。\n\n指望所有线上线下场景，都提供 API / MCP / CLI，\n就像是指望，地球上每条路都为自动驾驶汽车定制。\n\n当两者不兼容时，应该是进化快的，去适应进化慢的，\n而不是反过来。\n\n尤其国内，多数平台甚至不让用户导出自己的数据。\n\n所以我买了这个作为跨平台👁️👂👄：",
-      "contentHtml": "视觉方案，是最终吞噬世界的第一通用层。\n\n指望所有线上线下场景，都提供 API / MCP / CLI，\n就像是指望，地球上每条路都为自动驾驶汽车定制。\n\n当两者不兼容时，应该是进化快的，去适应进化慢的，\n而不是反过来。\n\n尤其国内，多数平台甚至不让用户导出自己的数据。\n\n所以我买了这个作为跨平台👁️👂👄：",
-      "publishedAt": "2026-05-14T08:20:00.000Z",
-      "link": "https://x.com/coolish/status/2054839129557663829",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIQsgLRboAAz6Ax.jpg"
-        }
-      ],
-      "quote": {
-        "username": "steipete",
-        "displayName": "Peter Steinberger 🦞",
-        "content": "Streaming an Android phone to my Mac in a data center via Tailscale + github.com/genymobile/scrcpy and my claw controls it via peekaboo.sh.\n\nNow my claw can order me an Uber.",
-        "contentHtml": "Streaming an Android phone to my Mac in a data center via Tailscale + <a href=\"https://github.com/genymobile/scrcpy\">github.com/genymobile/scrcpy</a> and my claw controls it via <a href=\"http://peekaboo.sh\">peekaboo.sh</a>.\n\nNow my claw can order me an Uber.",
-        "link": "https://x.com/steipete/status/2054647734418756012",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIOTL9YXQAAgKEU.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054832139385077784",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
-      "content": "历史上，持币<90天的 #BTC: Realized Cap HODL Waves 指标 V 反往往对应熊底筑底区间右侧\n\n注：该指标 V 反说明短线玩家从净离场切换到净入场，或意味着熊牛趋势切换",
-      "contentHtml": "历史上，持币&lt;90天的 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a>: Realized Cap HODL Waves 指标 V 反往往对应熊底筑底区间右侧\n\n注：该指标 V 反说明短线玩家从净离场切换到净入场，或意味着熊牛趋势切换",
-      "publishedAt": "2026-05-14T07:52:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2054832139385077784",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIQ5c9Fb0AEPO8M.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054830247820874015",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#美股 #AI #美联储换届\n\n美联储换届到底有没有影响，是不是要暴跌？\n该不该清仓美股？\n\n最近社区讨论非常多的问题，大家手握多单生怕暴跌了\n\n我过了一下最近几次联储主席换届的纳指走势\n一起看看数据如何说话\n\n当天：      2涨2跌，平均 -1.2%\n后5日：    2涨2跌，平均 -0.1%\n后10日：  3涨1跌，平均 +2.5%\n后30日：  2涨2跌，平均 +2.4%\n后3月：    2涨2跌，平均 -5.5%\n后12月：  3涨1跌，平均 +4.8%\n\n牛市该涨就涨\n熊市该跌就跌",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23美股\">#美股</a> <a href=\"/search?f=tweets&q=%23AI\">#AI</a> <a href=\"/search?f=tweets&q=%23美联储换届\">#美联储换届</a>\n\n美联储换届到底有没有影响，是不是要暴跌？\n该不该清仓美股？\n\n最近社区讨论非常多的问题，大家手握多单生怕暴跌了\n\n我过了一下最近几次联储主席换届的纳指走势\n一起看看数据如何说话\n\n当天：      2涨2跌，平均 -1.2%\n后5日：    2涨2跌，平均 -0.1%\n后10日：  3涨1跌，平均 +2.5%\n后30日：  2涨2跌，平均 +2.4%\n后3月：    2涨2跌，平均 -5.5%\n后12月：  3涨1跌，平均 +4.8%\n\n牛市该涨就涨\n熊市该跌就跌",
-      "publishedAt": "2026-05-14T07:44:00.000Z",
-      "link": "https://x.com/dongbimao/status/2054830247820874015",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIQ4J1nWwAAaaWk.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
