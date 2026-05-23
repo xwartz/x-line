@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T20:18:15.399Z",
+  "lastUpdated": "2026-05-23T20:47:49.039Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 585,
+    "newFetched": 582,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2058287494572195883",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
+      "content": "又是几把形态🖕🏻",
+      "contentHtml": "又是几把形态🖕🏻",
+      "publishedAt": "2026-05-23T20:42:00.000Z",
+      "link": "https://x.com/hazenlee/status/2058287494572195883",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJCBkFqa4AAvX1d.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2058269185785090518",
       "username": "OwenJin12",
@@ -12239,44 +12260,6 @@
       "contentHtml": "管理敏感信息这件事上，\n很多人图一时眼下的，自以为的“方便”，\n结果反而变成了日后越来越不方便的麻烦，\n更别提不安全。\n\n经常烦于重设密码。这说的是不是你？\n\n在 AI Agent 时代，\n账号数量爆炸、权限能力/隐私边界爆炸，\n优雅管理敏感信息，不应该只是工程师的专利，\n而应该成为每个人的基本技能。",
       "publishedAt": "2026-05-16T09:12:00.000Z",
       "link": "https://x.com/coolish/status/2055577205301022952",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055573789182996509",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
-      "content": "本来出远门还担心，\n就算有 Codex 手机版，但家里电脑\n弹出 1Password 授权窗口时怎么办？\n\n结果配合 Computer Use，\n只要在手机版上讲几句话，\n它帮我设置服务/注册账号、把账号密码存到1Password，还把相关说明写到备注栏里清清楚楚一气呵成，感觉比Tailscale+远程桌面/SSH更省心方便且安全。\n\n顺便强调一个点，\n只要你在用 AI Agent \n无论是龙虾爱马仕还是克劳德Codex，\n一定要配合 1Password 一起用，\n简直解放了人的注意力、肉身自由。\n\n安全这件事，就像人的健康一样，\n只有遇到过问题的人，才会开始重视。\n大部分人默认 越安全 = 越麻烦，\n大多是因为还在用原始的方式，\n管理账号密码、API key，信用卡信息等等。\n\n我以前用LastPass，但迁移到1Password后，\n才发现以前用的 LastPass 是什么玩意啊。\n\n之所以特地提这点是因为我发现，\n1Password 在普通 AI 用户人群中，\n配合 Agent 去用的使用率似乎很低，\n不少人已经知道，\n给 Agent 一套它自己的邮箱账号等等啥的，\n但随着账号密码越来越多，却不知道，\n你和Agent的账号密码，\n怎么优雅管理，怎么设置父子权限分离，\n是既方便又安全的最佳实践。\n\n甚至我估计，\n哪怕10个已经在用 1Password 的人里，\n知道 1Password Service Account 功能的人，\n可能都不超过2个，因为这新功能不明显，\n设置起来也有一丁点繁琐，但弄好后，\n就是一劳永逸的优雅复利。\n\n因为在刚出远门的路上，\n所以只提一下来抛砖引玉，\n期待各位教程大神，\n有人能来接住这个功德无量的输出机会。",
-      "contentHtml": "本来出远门还担心，\n就算有 Codex 手机版，但家里电脑\n弹出 1Password 授权窗口时怎么办？\n\n结果配合 Computer Use，\n只要在手机版上讲几句话，\n它帮我设置服务/注册账号、把账号密码存到1Password，还把相关说明写到备注栏里清清楚楚一气呵成，感觉比Tailscale+远程桌面/SSH更省心方便且安全。\n\n顺便强调一个点，\n只要你在用 AI Agent \n无论是龙虾爱马仕还是克劳德Codex，\n一定要配合 1Password 一起用，\n简直解放了人的注意力、肉身自由。\n\n安全这件事，就像人的健康一样，\n只有遇到过问题的人，才会开始重视。\n大部分人默认 越安全 = 越麻烦，\n大多是因为还在用原始的方式，\n管理账号密码、API key，信用卡信息等等。\n\n我以前用LastPass，但迁移到1Password后，\n才发现以前用的 LastPass 是什么玩意啊。\n\n之所以特地提这点是因为我发现，\n1Password 在普通 AI 用户人群中，\n配合 Agent 去用的使用率似乎很低，\n不少人已经知道，\n给 Agent 一套它自己的邮箱账号等等啥的，\n但随着账号密码越来越多，却不知道，\n你和Agent的账号密码，\n怎么优雅管理，怎么设置父子权限分离，\n是既方便又安全的最佳实践。\n\n甚至我估计，\n哪怕10个已经在用 1Password 的人里，\n知道 1Password Service Account 功能的人，\n可能都不超过2个，因为这新功能不明显，\n设置起来也有一丁点繁琐，但弄好后，\n就是一劳永逸的优雅复利。\n\n因为在刚出远门的路上，\n所以只提一下来抛砖引玉，\n期待各位教程大神，\n有人能来接住这个功德无量的输出机会。",
-      "publishedAt": "2026-05-16T08:59:00.000Z",
-      "link": "https://x.com/coolish/status/2055573789182996509",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIbddb6a8AA0qDy.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIbddbJaIAAonlh.jpg"
-        }
-      ],
-      "quote": {
-        "username": "coolish",
-        "displayName": "paulwei",
-        "content": "Codex 手机版 ✅\n\n可以放心出去旅游了。",
-        "contentHtml": "Codex 手机版 ✅\n\n可以放心出去旅游了。",
-        "link": "https://x.com/coolish/status/2055039289608871941",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIT3VqUbAAA5rK-.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
