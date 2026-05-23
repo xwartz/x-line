@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T02:19:38.444Z",
+  "lastUpdated": "2026-05-23T03:46:30.581Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,140 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 584,
+    "newFetched": 586,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2058031761742020799",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "昨晚NVTS大涨、昨天下午这篇推文也聊到看好NVTS。正好再聊聊为什么SiC/GaN在HVDC时代至关重要？\n1）HVDC的本质是升压降流，SiC/GaN的本质是让高压高速开关可用。AI数据中心的瓶颈正在从“有没有GPU”扩展到“有没有电、能不能把电高效送到GPU”。\n\n2）800VDC减少铜和转换级数，但增加高压DC保护、热插拔和故障隔离难度，SiC/GaN正好解决这些难题。\n\nSiC承担高压大功率骨架：SST、UPS、BESS、快充、牵引逆变器、固态保护。\nGaN承担高频高密度转换：PSU、PFC、LLC、IBC、800V-to-12V/6V、服务器近负载供电。\n\n3）在AI rack从100kW走向500kW、1MW时，每一个百分点效率都意味着更少热、更少冷却、更高GPU部署密度。\n\n4）未来电力系统会越来越像半导体系统：高频、高压、模块化、软件控制、可热插拔、可双向流动。SiC/GaN就是这套系统的核心开关。\n\nHVDC时代不是SiC和GaN谁替代谁，而是SiC/GaN共同替代传统低压多级硅基电力架构。SiC负责把MW级高压电力安全高效地搬进系统，GaN负责把电力以极高功率密度送到芯片和负载附近。AI数据中心、800V EV、快充、储能和工业微电网会共同推动这两类技术从“高端可选项”变成“基础设施必需品”。\n\n数据中心正在经历电力基础设施的根本性变革，服务器机架额定功率正从千瓦级迅速攀升至接近兆瓦级。行业正转向高压直流（HVDC）架构，以提高效率与可靠性、减少铜材用量，并支持更紧凑的系统设计。第三代半导体——SiC和GaN——正是这一转型的关键推动力。\n\nAI数据中心高压直流趋势以及电动汽车加速采用高压架构，都在推动SiC和GaN技术在全球基础设施中的份额正在持续增长\n\n看好这几类\n1）核心平台型：Infineon、TI\n这类公司有高压器件、控制器、隔离、驱动、保护和系统方案，适合800VDC的复杂架构。\n\n2）Sic/GaN功率半导体核心玩家：Navitas、Innoscience 、Power Integrations。弹性来自AI服务器PSU、800V-to-12V/6V、PFC、LLC、IBC，但风险是客户认证、foundry迁移、价格竞争和可靠性验证。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "昨晚NVTS大涨、昨天下午这篇推文也聊到看好NVTS。正好再聊聊为什么SiC/GaN在HVDC时代至关重要？\n1）HVDC的本质是升压降流，SiC/GaN的本质是让高压高速开关可用。AI数据中心的瓶颈正在从“有没有GPU”扩展到“有没有电、能不能把电高效送到GPU”。\n\n2）800VDC减少铜和转换级数，但增加高压DC保护、热插拔和故障隔离难度，SiC/GaN正好解决这些难题。\n\nSiC承担高压大功率骨架：SST、UPS、BESS、快充、牵引逆变器、固态保护。\nGaN承担高频高密度转换：PSU、PFC、LLC、IBC、800V-to-12V/6V、服务器近负载供电。\n\n3）在AI rack从100kW走向500kW、1MW时，每一个百分点效率都意味着更少热、更少冷却、更高GPU部署密度。\n\n4）未来电力系统会越来越像半导体系统：高频、高压、模块化、软件控制、可热插拔、可双向流动。SiC/GaN就是这套系统的核心开关。\n\nHVDC时代不是SiC和GaN谁替代谁，而是SiC/GaN共同替代传统低压多级硅基电力架构。SiC负责把MW级高压电力安全高效地搬进系统，GaN负责把电力以极高功率密度送到芯片和负载附近。AI数据中心、800V EV、快充、储能和工业微电网会共同推动这两类技术从“高端可选项”变成“基础设施必需品”。\n\n数据中心正在经历电力基础设施的根本性变革，服务器机架额定功率正从千瓦级迅速攀升至接近兆瓦级。行业正转向高压直流（HVDC）架构，以提高效率与可靠性、减少铜材用量，并支持更紧凑的系统设计。第三代半导体——SiC和GaN——正是这一转型的关键推动力。\n\nAI数据中心高压直流趋势以及电动汽车加速采用高压架构，都在推动SiC和GaN技术在全球基础设施中的份额正在持续增长\n\n看好这几类\n1）核心平台型：Infineon、TI\n这类公司有高压器件、控制器、隔离、驱动、保护和系统方案，适合800VDC的复杂架构。\n\n2）Sic/GaN功率半导体核心玩家：Navitas、Innoscience 、Power Integrations。弹性来自AI服务器PSU、800V-to-12V/6V、PFC、LLC、IBC，但风险是客户认证、foundry迁移、价格竞争和可靠性验证。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-05-23T03:46:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2058031761742020799",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "AI数据中心电力上的关键环节：800VHDC，今天在这里nitter.net/qinbafrank/status/2057…聊到大摩拆解VR200NVL72提到，大摩预计800V直流电将在2027年下半年推出的Rubin Ultra平台上得到大规模采用。其实800VHDC并不是全新概念，自从英伟达去年说要推直流供电架构后，市场对此的关注度其实挺高的，这个板块的相关的标的已经炒过一博预期了。但实际上800V直流电在下半年才真正大规模采用，值得关注。聊下几方面的问题：\n\n1、800V HVDC架构是什么？\n传统高密度AI rack的路径大致是：电网中压AC → 变压器/UPS/PDU → 415/480VAC到机架 → 机架内PSU转54VDC/12VDC → GPU核心电压。\n\n达子的800VDC愿景则是：在数据中心边界/电力室把中压AC集中转换成800VDC，用800V DC busway送到IT rack，再在靠近GPU的位置用高比率DC/DC转换。NVIDIA称，54V架构在200kW以上开始撞上物理限制；1MW rack如果继续用54V，单rack铜排最高可能需要约200kg铜，而800V架构通过减少电流、减少转换级数、减少机架内PSU，目标是提升效率、降低铜耗、释放机架空间。\n\n它不是简单的电压升级，也不是“发明了直流供电”，而是AI数据中心供电架构的一次平台级切换，是对整个电力交付架构的系统性重构，旨在解决传统48V/54V机架电源的瓶颈（空间受限、铜缆过载、多级转换损耗高），支持单机架功率从数百kW跃升至1MW+，并为未来GW级AI工厂铺路。\n\n2、800V HVDC的意义和革命性是什么？\n1）首先自然是效率和空间布局\n效率提升：从电网到GPU的转换环节大幅减少，整体能效可提升从以前90%能大幅度提高到98.5%以上传输损耗显著降低，TCO（总拥有成本）降低可达30%\n空间与密度优化：减少铜缆用量和电源单元体积，机架内计算空间利用率提升超80%，支持更高密度GPU集群\n\n2）800V不是单一器件升级，而是生态重构：中央整流、800V DC busway、固态断路器、热插拔保护、sidecar/power rack、BBU/CBU、超容/电池储能、DC/DC、GaN/SiC、液冷都要协同。NVIDIA也明确说需要OCP等组织推动电压范围、连接器、安全标准。\n\n如果大家有关注过新能源汽车产业链，应该有影响这两年国内电动车厂商都在推的“快充”基本上就是800V高压直流充电。现在达子正在把800VDC变成下一代AI rack标准化路线的一部分，所以一部分原来给新能源汽车充电产业链上的关键环节，又开始外溢到AI数据中心上了。\n\n3、800V HVDC空间有多大？\n要看大背景，AI数据中心整体市场从2025年约3440亿美元增长至2032年超2万亿美元（CAGR 27.5%）。 功率基础设施将成为AI建设的核心瓶颈与增长点，NVIDIA的标准将加速 hyperscaler采用，带动固态变压器、GaN/SiC功率器件等子市场爆发。 \n\n2027年后，>300kW/rack、尤其是400kW-1MW rack的AI zones中，800VDC或类似HVDC架构渗透率快速提升。若未来新增AI容量中有30%-60%采用高压DC架构，并且每MW对应的核心800V电力链价值量在几十万到数百万美元区间，累计空间就会进入百亿美元到千亿美元级。\n\n当然这个预测区间也很宽，因为真实取决于Kyber/Rubin Ultra出货节奏、超大云厂接受NVIDIA 800V的程度。\n\n4、800V HVDC产业链构成\n完全是英伟达参考设计主导资格认证，之前英伟达也公开列出的核心合作伙伴分为三类，竞争激烈，份额将取决于认证进度、量产能力和 hyperscaler合同。 \n\n1）硅片/功率半导体供应商（核心器件，如SiC/GaN MOSFET、控制器，用于高效转换）：\n主要玩家：Texas Instruments（TI，已发布完整800V解决方案）、STMicroelectronics（ST，6-18kW功率板）、Infineon、ROHM（SiC器件）、Navitas（GaN/SiC）、Analog Devices、onsemi、Renesas、Innoscience、MPS、AOS、EPC等。\n这些是NVIDIA“硅供应商”名单核心，TI/ST等已演示参考设\n\n2）电源系统组件/模块供应商（电源架、Sidecar、DC-DC转换器等）：\n主要玩家：Delta Electronics（与NVIDIA深度合作，发布800V解决方案）、Flex、LITEON、Megmeet、Lead Wealth、Bizlink等。\nDelta等中国厂商优势明显，已有白皮书和技术落地；LITEON等股价因800V预期已经显著上涨。\n\n3）数据中心电源系统/基础设施供应商（机架级配电、Sidecar、SST、母线等）：\n主要玩家：Vertiv（Hopewind为其800V系统关键子供应商）、Schneider Electric（开发1.2MW Sidecar）、Eaton、ABB、GE Vernova、Siemens、Hitachi Energy、Mitsubishi Electric等。\n这里面Vertiv、Schneider、Eaton等是传统强者。\n\n个人角度看\n1）Vertiv、IFFNY、Schneider、Eaton、Delta、ABB是最可能在早期800VDC相关收入中占到显著份额的几家公司；\n2）LITEON、TI、ST、Infineon、onsemi是第二组确定性较强的受益者；\n3）Navitas、Power Integrations、MPS、BizLink、Megmeet、Innoscience（英诺赛科）属于弹性更大但验证/量产/竞争风险也更高的一组。\n\n个人角度当下比较看好的则是，当然这个还要动态迭代：\nnvts、IFNNY、英诺赛科、vicr\n\n5、后续跟踪落地节奏的几个重要节点\n1）NVIDIA Kyber / Rubin Ultra 2027节奏：是否明确把800VDC作为默认/主推rack电力架构，而且出货节奏也带动800V的落地节奏\n2）OCP标准进展：800V连接器、安全、保护、PDB、BBU/CBU是否标准化。\n\n3）看点电源管理系统组件，功率半导体供应商的点单披露，谁真正进入了进入backlog和量产socket；这个最关键决定了哪家供应商能吃到多大的份额\n\n4）超大云厂路线：800V vs 400V/±400V vs 50V HPR是否分裂。决定了市场对800V hvdc的预期和想象空间。\n\n5）单MW成本下降曲线：如果800VDC使每MW可部署GPU数量、能效和维护成本明显改善，它会从NVIDIA专用架构变成行业事实标准。",
+        "contentHtml": "AI数据中心电力上的关键环节：800VHDC，今天在这里<a href=\"https://nitter.net/qinbafrank/status/2057685712645116279\">nitter.net/qinbafrank/status/2057…</a>聊到大摩拆解VR200NVL72提到，大摩预计800V直流电将在2027年下半年推出的Rubin Ultra平台上得到大规模采用。其实800VHDC并不是全新概念，自从英伟达去年说要推直流供电架构后，市场对此的关注度其实挺高的，这个板块的相关的标的已经炒过一博预期了。但实际上800V直流电在下半年才真正大规模采用，值得关注。聊下几方面的问题：\n\n1、800V HVDC架构是什么？\n传统高密度AI rack的路径大致是：电网中压AC → 变压器/UPS/PDU → 415/480VAC到机架 → 机架内PSU转54VDC/12VDC → GPU核心电压。\n\n达子的800VDC愿景则是：在数据中心边界/电力室把中压AC集中转换成800VDC，用800V DC busway送到IT rack，再在靠近GPU的位置用高比率DC/DC转换。NVIDIA称，54V架构在200kW以上开始撞上物理限制；1MW rack如果继续用54V，单rack铜排最高可能需要约200kg铜，而800V架构通过减少电流、减少转换级数、减少机架内PSU，目标是提升效率、降低铜耗、释放机架空间。\n\n它不是简单的电压升级，也不是“发明了直流供电”，而是AI数据中心供电架构的一次平台级切换，是对整个电力交付架构的系统性重构，旨在解决传统48V/54V机架电源的瓶颈（空间受限、铜缆过载、多级转换损耗高），支持单机架功率从数百kW跃升至1MW+，并为未来GW级AI工厂铺路。\n\n2、800V HVDC的意义和革命性是什么？\n1）首先自然是效率和空间布局\n效率提升：从电网到GPU的转换环节大幅减少，整体能效可提升从以前90%能大幅度提高到98.5%以上传输损耗显著降低，TCO（总拥有成本）降低可达30%\n空间与密度优化：减少铜缆用量和电源单元体积，机架内计算空间利用率提升超80%，支持更高密度GPU集群\n\n2）800V不是单一器件升级，而是生态重构：中央整流、800V DC busway、固态断路器、热插拔保护、sidecar/power rack、BBU/CBU、超容/电池储能、DC/DC、GaN/SiC、液冷都要协同。NVIDIA也明确说需要OCP等组织推动电压范围、连接器、安全标准。\n\n如果大家有关注过新能源汽车产业链，应该有影响这两年国内电动车厂商都在推的“快充”基本上就是800V高压直流充电。现在达子正在把800VDC变成下一代AI rack标准化路线的一部分，所以一部分原来给新能源汽车充电产业链上的关键环节，又开始外溢到AI数据中心上了。\n\n3、800V HVDC空间有多大？\n要看大背景，AI数据中心整体市场从2025年约3440亿美元增长至2032年超2万亿美元（CAGR 27.5%）。 功率基础设施将成为AI建设的核心瓶颈与增长点，NVIDIA的标准将加速 hyperscaler采用，带动固态变压器、GaN/SiC功率器件等子市场爆发。 \n\n2027年后，&gt;300kW/rack、尤其是400kW-1MW rack的AI zones中，800VDC或类似HVDC架构渗透率快速提升。若未来新增AI容量中有30%-60%采用高压DC架构，并且每MW对应的核心800V电力链价值量在几十万到数百万美元区间，累计空间就会进入百亿美元到千亿美元级。\n\n当然这个预测区间也很宽，因为真实取决于Kyber/Rubin Ultra出货节奏、超大云厂接受NVIDIA 800V的程度。\n\n4、800V HVDC产业链构成\n完全是英伟达参考设计主导资格认证，之前英伟达也公开列出的核心合作伙伴分为三类，竞争激烈，份额将取决于认证进度、量产能力和 hyperscaler合同。 \n\n1）硅片/功率半导体供应商（核心器件，如SiC/GaN MOSFET、控制器，用于高效转换）：\n主要玩家：Texas Instruments（TI，已发布完整800V解决方案）、STMicroelectronics（ST，6-18kW功率板）、Infineon、ROHM（SiC器件）、Navitas（GaN/SiC）、Analog Devices、onsemi、Renesas、Innoscience、MPS、AOS、EPC等。\n这些是NVIDIA“硅供应商”名单核心，TI/ST等已演示参考设\n\n2）电源系统组件/模块供应商（电源架、Sidecar、DC-DC转换器等）：\n主要玩家：Delta Electronics（与NVIDIA深度合作，发布800V解决方案）、Flex、LITEON、Megmeet、Lead Wealth、Bizlink等。\nDelta等中国厂商优势明显，已有白皮书和技术落地；LITEON等股价因800V预期已经显著上涨。\n\n3）数据中心电源系统/基础设施供应商（机架级配电、Sidecar、SST、母线等）：\n主要玩家：Vertiv（Hopewind为其800V系统关键子供应商）、Schneider Electric（开发1.2MW Sidecar）、Eaton、ABB、GE Vernova、Siemens、Hitachi Energy、Mitsubishi Electric等。\n这里面Vertiv、Schneider、Eaton等是传统强者。\n\n个人角度看\n1）Vertiv、IFFNY、Schneider、Eaton、Delta、ABB是最可能在早期800VDC相关收入中占到显著份额的几家公司；\n2）LITEON、TI、ST、Infineon、onsemi是第二组确定性较强的受益者；\n3）Navitas、Power Integrations、MPS、BizLink、Megmeet、Innoscience（英诺赛科）属于弹性更大但验证/量产/竞争风险也更高的一组。\n\n个人角度当下比较看好的则是，当然这个还要动态迭代：\nnvts、IFNNY、英诺赛科、vicr\n\n5、后续跟踪落地节奏的几个重要节点\n1）NVIDIA Kyber / Rubin Ultra 2027节奏：是否明确把800VDC作为默认/主推rack电力架构，而且出货节奏也带动800V的落地节奏\n2）OCP标准进展：800V连接器、安全、保护、PDB、BBU/CBU是否标准化。\n\n3）看点电源管理系统组件，功率半导体供应商的点单披露，谁真正进入了进入backlog和量产socket；这个最关键决定了哪家供应商能吃到多大的份额\n\n4）超大云厂路线：800V vs 400V/±400V vs 50V HPR是否分裂。决定了市场对800V hvdc的预期和想象空间。\n\n5）单MW成本下降曲线：如果800VDC使每MW可部署GPU数量、能效和维护成本明显改善，它会从NVIDIA专用架构变成行业事实标准。",
+        "link": "https://x.com/qinbafrank/status/2057739575372706022",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI5-d1TbkAAHtjx.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI6K7-uacAA8Qj-.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058025305089179804",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://pbs.twimg.com/profile_images/1982606819244605440/2IYiLUQI_bigger.jpg",
+      "content": "以太坊 #ETH 触发四小时超卖信号。",
+      "contentHtml": "以太坊 <a href=\"/search?f=tweets&q=%23ETH\">#ETH</a> 触发四小时超卖信号。",
+      "publishedAt": "2026-05-23T03:20:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2058025305089179804",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI-SpmLbIAAvaHU.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058019404324172083",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "每日一囤，a16z 自 2026 年起已累计囤积 593 万枚 HYPE（2.4 亿美元），浮盈 8672 万美元😂\n\nHYPE 第一大外部实体 a16z（疑似）过去 24 小时又双叒从交易所和 MM 提出 114533.98 枚 HYPE，价值 645 万美元，提出均价 $56.31\n\n钱包地址\nintel.arkm.com/explorer/addr…\nintel.arkm.com/explorer/addr…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "contentHtml": "每日一囤，a16z 自 2026 年起已累计囤积 593 万枚 HYPE（2.4 亿美元），浮盈 8672 万美元😂\n\nHYPE 第一大外部实体 a16z（疑似）过去 24 小时又双叒从交易所和 MM 提出 114533.98 枚 HYPE，价值 645 万美元，提出均价 $56.31\n\n钱包地址\n<a href=\"https://intel.arkm.com/explorer/address/0x4c6B8e7D1A5DEc99AA726240e1957F8Df657f828\">intel.arkm.com/explorer/addr…</a>\n<a href=\"https://intel.arkm.com/explorer/address/0xb5E4d21240e9356caFc3a1261d10383f62DFc24e\">intel.arkm.com/explorer/addr…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "publishedAt": "2026-05-23T02:57:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2058019404324172083",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI-NuFYaoAEVEg4.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "太猛了，每天都是几千万美金的囤 $HYPE 吗🥹\n\nHYPE 第一大外部实体 a16z（疑似）过去 24 小时再次从各大交易所提出 580,703 枚 HYPE，价值 3372 万美元，平均提出价格 $58.08；而 HYPE 于昨晚突破 60 美金后，现回落至 $57.07\n\n传送门 👉\nintel.arkm.com/explorer/addr…\nintel.arkm.com/explorer/addr…\nintel.arkm.com/explorer/addr…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "contentHtml": "太猛了，每天都是几千万美金的囤 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> 吗🥹\n\nHYPE 第一大外部实体 a16z（疑似）过去 24 小时再次从各大交易所提出 580,703 枚 HYPE，价值 3372 万美元，平均提出价格 $58.08；而 HYPE 于昨晚突破 60 美金后，现回落至 $57.07\n\n传送门 👉\n<a href=\"https://intel.arkm.com/explorer/address/0x4c6B8e7D1A5DEc99AA726240e1957F8Df657f828\">intel.arkm.com/explorer/addr…</a>\n<a href=\"https://intel.arkm.com/explorer/address/0xb5E4d21240e9356caFc3a1261d10383f62DFc24e\">intel.arkm.com/explorer/addr…</a>\n<a href=\"https://intel.arkm.com/explorer/address/0x8673EA1Bc49A57C6049B12091DACE44A85E69E6D\">intel.arkm.com/explorer/addr…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "link": "https://x.com/ai_9684xtpa/status/2057636570220626190",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI4xisebUAAPhA5.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058017066532421978",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "加仓做空原油！⛽\n\n地址 0x60a…685f6 凌晨三点向 Hyperliquid 追加了 1000 万枚 USDC，随后加仓了 2.85 万枚 $BRENTOIL 和 1000 枚 $CL\n\n目前他累计持有 1549 万美元的原油空单，为 Hyperliquid BRENTOIL TOP3 头寸，但因为入场点位不太好，目前仍浮亏 77.8 万美元（还支付了超 60 万美元的资金费用）\n\n传送门 👉 d.pro/portfolio/0x60a8c761f3…",
+      "contentHtml": "加仓做空原油！⛽\n\n地址 0x60a…685f6 凌晨三点向 Hyperliquid 追加了 1000 万枚 USDC，随后加仓了 2.85 万枚 <a href=\"/search?f=tweets&q=%23BRENTOIL\">$BRENTOIL</a> 和 1000 枚 <a href=\"/search?f=tweets&q=%23CL\">$CL</a>\n\n目前他累计持有 1549 万美元的原油空单，为 Hyperliquid BRENTOIL TOP3 头寸，但因为入场点位不太好，目前仍浮亏 77.8 万美元（还支付了超 60 万美元的资金费用）\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0x60a8c761f39696b3b419f31dcda20b405cb685f6\">d.pro/portfolio/0x60a8c761f3…</a>",
+      "publishedAt": "2026-05-23T02:47:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2058017066532421978",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI-LjW0bUAA8IFd.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058014338204778692",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://pbs.twimg.com/profile_images/1982606819244605440/2IYiLUQI_bigger.jpg",
+      "content": "如何有效避免上头扛单？\n\n在交易中，亏损10%～20%属于常见范围，想要回本只需要后续盈利11%～25%。正常交易节奏下，这个目标不难达成。\n\n但亏损一旦越过40%这条线，情况就完全不同了——回本需要的涨幅变成67%以上，严重时甚至要翻倍。到这种程度，日常的小幅波动已经无力回天，必须等一轮幅度足够大的宽幅震荡行情才有机会。\n\n如果再扛着不止损，让亏损扩大到60%以上，回本就会变得极度困难：资产需要增长超过两倍。这种级别的涨幅，往往只出现在一轮完整的大趋势当中，而一年里这样的机会屈指可数。\n\n换句话说，亏损能被限制住，回本就只是时间问题；亏损任由它放大，回本就几乎等于赌博。\n\n所以，控制亏损跟情绪没什么关系，纯粹是一道数学题。",
+      "contentHtml": "如何有效避免上头扛单？\n\n在交易中，亏损10%～20%属于常见范围，想要回本只需要后续盈利11%～25%。正常交易节奏下，这个目标不难达成。\n\n但亏损一旦越过40%这条线，情况就完全不同了——回本需要的涨幅变成67%以上，严重时甚至要翻倍。到这种程度，日常的小幅波动已经无力回天，必须等一轮幅度足够大的宽幅震荡行情才有机会。\n\n如果再扛着不止损，让亏损扩大到60%以上，回本就会变得极度困难：资产需要增长超过两倍。这种级别的涨幅，往往只出现在一轮完整的大趋势当中，而一年里这样的机会屈指可数。\n\n换句话说，亏损能被限制住，回本就只是时间问题；亏损任由它放大，回本就几乎等于赌博。\n\n所以，控制亏损跟情绪没什么关系，纯粹是一道数学题。",
+      "publishedAt": "2026-05-23T02:37:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2058014338204778692",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI-ImGzbEAAMOlO.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2057999933614276775",
       "username": "taresky",
@@ -12129,111 +12258,6 @@
         "content": "The Clarity Act news has been released while $BTC is testing weekly and monthly resistance.\n\nWe live in a simulation. 🤣\n\nMajor news always lines up with local tops or bottoms.\n\nYou should already know by now, it's priced in.",
         "contentHtml": "The Clarity Act news has been released while <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> is testing weekly and monthly resistance.\n\nWe live in a simulation. 🤣\n\nMajor news always lines up with local tops or bottoms.\n\nYou should already know by now, it's priced in.",
         "link": "https://x.com/KillaXBT/status/2054972172959941062"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055282919053418631",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://pbs.twimg.com/profile_images/1982606819244605440/2IYiLUQI_bigger.jpg",
-      "content": "你鲸鲨和它身边这群鱼，像不像：\n\n美联储\n\n各国政府\n\n机构\n\n游资\n\n散户\n\n散户看K线，大鱼看水流～",
-      "contentHtml": "你鲸鲨和它身边这群鱼，像不像：\n\n美联储\n\n各国政府\n\n机构\n\n游资\n\n散户\n\n散户看K线，大鱼看水流～",
-      "publishedAt": "2026-05-15T13:43:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2055282919053418631",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055282199352705445",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
-      "content": "由于今年厄尔尼诺现象的不确定性\n决定战略增持一股蜜雪冰城！",
-      "contentHtml": "由于今年厄尔尼诺现象的不确定性\n决定战略增持一股蜜雪冰城！",
-      "publishedAt": "2026-05-15T13:40:00.000Z",
-      "link": "https://x.com/hazenlee/status/2055282199352705445",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIXUP1ubwAAPf2S.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIXUP1wasAA9P_3.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055280602719649877",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "这部分仓位赚多少了？\n\n$xau $xag",
-      "contentHtml": "这部分仓位赚多少了？\n\n<a href=\"/search?f=tweets&q=%23xau\">$xau</a> <a href=\"/search?f=tweets&q=%23xag\">$xag</a>",
-      "publishedAt": "2026-05-15T13:34:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2055280602719649877",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "空一波贵金属，给个暴跌求求了！ nitter.net/i/broadcasts/1pJdRbEMn…",
-        "contentHtml": "空一波贵金属，给个暴跌求求了！ <a href=\"https://nitter.net/i/broadcasts/1pJdRbEMnEjKW\">nitter.net/i/broadcasts/1pJdRbEMn…</a>",
-        "link": "https://x.com/Bitfatty/status/2055119745075323370"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055277024475038154",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
-      "content": "开始送外卖了兄弟们",
-      "contentHtml": "开始送外卖了兄弟们",
-      "publishedAt": "2026-05-15T13:20:00.000Z",
-      "link": "https://x.com/hazenlee/status/2055277024475038154",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIXPieYbYAAque1.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055271820396236992",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "The truth is,\n\nPeople want to believe it’s over before it actually is.\n\nAfter being down for so long, most naturally gravitate toward whatever short term price action is showing, usually optimism after the first strong bounce.\n\nThe reality is that market structure almost encourages this behavior. The more participants believe the bear market is over, the more liquidity enters the market.\n\nHistorically, markets spend months ranging before true expansion phases begin. This cycle will likely be no different. Ranges allow larger players to scale large positions and build leverage before the next major move.\n\nWhat we don’t see are instant recoveries.\n\nPeople want to make back everything in one trade, but markets rarely work that way.\n\nThe market chops, ranges, and exhausts participants long before the next real expansion begins.\n\nMost get shaken out emotionally or financially before the larger move finally arrives.\n\nRange. Capitulation. $BTC",
-      "contentHtml": "The truth is,\n\nPeople want to believe it’s over before it actually is.\n\nAfter being down for so long, most naturally gravitate toward whatever short term price action is showing, usually optimism after the first strong bounce.\n\nThe reality is that market structure almost encourages this behavior. The more participants believe the bear market is over, the more liquidity enters the market.\n\nHistorically, markets spend months ranging before true expansion phases begin. This cycle will likely be no different. Ranges allow larger players to scale large positions and build leverage before the next major move.\n\nWhat we don’t see are instant recoveries.\n\nPeople want to make back everything in one trade, but markets rarely work that way.\n\nThe market chops, ranges, and exhausts participants long before the next real expansion begins.\n\nMost get shaken out emotionally or financially before the larger move finally arrives.\n\nRange. Capitulation. <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
-      "publishedAt": "2026-05-15T12:59:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2055271820396236992",
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "Do people really think we’re going to V-shape recover out of a bear market without any prolonged chop or range bound price action?\n\nJust look at how parabolic the S&P 500 has become. \n\nDo you seriously think $BTC is going to keep outperforming once that momentum finally stops?\n\nI don’t think so.",
-        "contentHtml": "Do people really think we’re going to V-shape recover out of a bear market without any prolonged chop or range bound price action?\n\nJust look at how parabolic the S&P 500 has become. \n\nDo you seriously think <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> is going to keep outperforming once that momentum finally stops?\n\nI don’t think so.",
-        "link": "https://x.com/KillaXBT/status/2055025480458273084"
       },
       "stats": {
         "replies": 0,
