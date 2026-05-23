@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T09:27:05.653Z",
+  "lastUpdated": "2026-05-23T10:07:49.801Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -99,12 +99,249 @@
     }
   ],
   "stats": {
-    "total": 493,
-    "newFetched": 0,
-    "successUsers": 0,
-    "failedUsers": 30
+    "total": 500,
+    "newFetched": 585,
+    "successUsers": 29,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2058124246900174872",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
+      "content": "在外住酒店，打开房内订餐的网页如图2，\n用Codex新出的 AppShot 功能\n（同时按左右两边的Command），\n一键把菜单网页，\n从上滚到下全解析进去了。\n\n然后让 Codex 把这个纯英文文字菜单，\n\n变成了一个带图片+分类/排序/筛选的\n中文点餐器😅",
+      "contentHtml": "在外住酒店，打开房内订餐的网页如图2，\n用Codex新出的 AppShot 功能\n（同时按左右两边的Command），\n一键把菜单网页，\n从上滚到下全解析进去了。\n\n然后让 Codex 把这个纯英文文字菜单，\n\n变成了一个带图片+分类/排序/筛选的\n中文点餐器😅",
+      "publishedAt": "2026-05-23T09:53:00.000Z",
+      "link": "https://x.com/coolish/status/2058124246900174872",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI_tFy5aMAABVNu.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI_tFy1agAA-NLT.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058122669120528632",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "一张图看清边缘计算/端侧AI/物理AI的发展趋势及产业链，就能理解为什么英伟达的财报要把边缘计算单列出来",
+      "contentHtml": "一张图看清边缘计算/端侧AI/物理AI的发展趋势及产业链，就能理解为什么英伟达的财报要把边缘计算单列出来",
+      "publishedAt": "2026-05-23T09:47:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2058122669120528632",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI_qwwTbEAAhPAj.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "最新一季财报里英伟达为什么突然把边缘计算单独报出来？英伟达最新财报里明确说，公司正在切换到新的报告框架，未来按两个市场平台披露：数据中心和边缘计算。其中边缘计算包括用于gentic AI和physical AI的数据处理设备，比如 PC、游戏主机、工作站、AI-RAN 基站、机器人和汽车。英伟达还披露，最新季度Edge Computing收入为64亿美元，环比增长10%，同比增长29%；同季度数据中心收入为752亿美元，同比增长92%。\n\n这组数据本身很关键：边缘计算现在还不是英伟达收入主引擎，约占总收入不到8%；但它已经被英伟达放到和数据中心并列的“第二平台”位置。\n\n为什么要把一个占比还很低的板块单列出来，跟主营业务并驾齐驱。个人的理解是：\n1、英伟达在主动重塑叙事：从“卖数据中心GPU”变成“AI全栈操作系统”\n过去英伟达的估值叙事主要集中在云端 AI factory，但新的分类方式，相当于英伟达把自己的业务重新切成两大世界。这不是会计技术问题，而是估值框架问题。\n\n过去英伟达的边缘相关业务散落在 Gaming、Professional Visualization、Automotive、OEM 等口径里。在它把这些重新合并成 Edge Computing，本质是在告诉投资人：这些不是零散业务，而是同一个AI时代的第二增长曲线。\n\n2、它想证明 CUDA 护城河不只在数据中心，也可以延伸到物理世界\n英伟达真正想卖的不是单颗GPU，而是一套从云到边到机器人的平台：\nCUDA + GPU + networking + Isaac + Omniverse + Drive + Jetson + RTX + AI-RAN。\n这套东西如果只停留在云端，英伟达的天花板就是数据中心资本开支。但如果进入汽车、机器人、工厂、边缘服务器、AI PC、AI基站，英伟达的逻辑就从“数据中心芯片公司”变成了：AI时代的通用计算平台公司。\n\n英伟达在财报中也把边缘亮点放在了 RTX 本地 agentic AI、自动驾驶、Cosmos、Isaac GR00T、工业软件、AI-RAN 等方向上。\n这说明它要证明一件事：AI不是只在云里回答问题，AI还要在现实世界里看见、理解、移动、操作和决策。\n\n3、降低市场对“云厂商资本开支周期”的担忧\n现在英伟达最大的问题不是增长不够，而是市场担心：如果微软、谷歌、亚马逊、Meta 某一天放慢AI资本开支，英伟达的增速怎么办？\n\n所以英伟达需要告诉市场：我的下一阶段不是只靠 hyperscaler，我还有企业AI、工业AI、机器人、汽车、AI PC、AI-RAN。\n\n这也是为什么它把 Data Center 里进一步拆成 hyperscale 和 ACIE，同时把 Edge Computing 单列。它在给投资人一张新的地图：\n第一增长曲线：云端AI工厂。\n第二增长曲线：企业和工业AI。\n第三增长曲线：物理AI和边缘AI。\n\n4、提前定义“Physical AI”的投资叙事\n老黄这两年一直在强调 physical AI。所谓 physical AI，不是普通聊天机器人，而是能和物理世界交互的AI，比如自动驾驶、机器人、工厂自动化、仓储机器人、AI摄像头、医疗机器人、无人机、智能电网巡检。\n\n英伟达管理层在财报电话会上说，很多工业公司必须把计算放在有上下文、需要动作发生的地方，不能全部依赖云端；比如芯片工厂不可能所有实时控制都跑去云端再回来。管理层还强调，下一波是 physical AI，未来会有大量自主系统和机器人系统进入物理世界。\n\n这就是英伟达单列 Edge Computing 的核心信号：\n它要把“物理AI”从远期故事，变成可跟踪的收入科目",
+        "contentHtml": "最新一季财报里英伟达为什么突然把边缘计算单独报出来？英伟达最新财报里明确说，公司正在切换到新的报告框架，未来按两个市场平台披露：数据中心和边缘计算。其中边缘计算包括用于gentic AI和physical AI的数据处理设备，比如 PC、游戏主机、工作站、AI-RAN 基站、机器人和汽车。英伟达还披露，最新季度Edge Computing收入为64亿美元，环比增长10%，同比增长29%；同季度数据中心收入为752亿美元，同比增长92%。\n\n这组数据本身很关键：边缘计算现在还不是英伟达收入主引擎，约占总收入不到8%；但它已经被英伟达放到和数据中心并列的“第二平台”位置。\n\n为什么要把一个占比还很低的板块单列出来，跟主营业务并驾齐驱。个人的理解是：\n1、英伟达在主动重塑叙事：从“卖数据中心GPU”变成“AI全栈操作系统”\n过去英伟达的估值叙事主要集中在云端 AI factory，但新的分类方式，相当于英伟达把自己的业务重新切成两大世界。这不是会计技术问题，而是估值框架问题。\n\n过去英伟达的边缘相关业务散落在 Gaming、Professional Visualization、Automotive、OEM 等口径里。在它把这些重新合并成 Edge Computing，本质是在告诉投资人：这些不是零散业务，而是同一个AI时代的第二增长曲线。\n\n2、它想证明 CUDA 护城河不只在数据中心，也可以延伸到物理世界\n英伟达真正想卖的不是单颗GPU，而是一套从云到边到机器人的平台：\nCUDA + GPU + networking + Isaac + Omniverse + Drive + Jetson + RTX + AI-RAN。\n这套东西如果只停留在云端，英伟达的天花板就是数据中心资本开支。但如果进入汽车、机器人、工厂、边缘服务器、AI PC、AI基站，英伟达的逻辑就从“数据中心芯片公司”变成了：AI时代的通用计算平台公司。\n\n英伟达在财报中也把边缘亮点放在了 RTX 本地 agentic AI、自动驾驶、Cosmos、Isaac GR00T、工业软件、AI-RAN 等方向上。\n这说明它要证明一件事：AI不是只在云里回答问题，AI还要在现实世界里看见、理解、移动、操作和决策。\n\n3、降低市场对“云厂商资本开支周期”的担忧\n现在英伟达最大的问题不是增长不够，而是市场担心：如果微软、谷歌、亚马逊、Meta 某一天放慢AI资本开支，英伟达的增速怎么办？\n\n所以英伟达需要告诉市场：我的下一阶段不是只靠 hyperscaler，我还有企业AI、工业AI、机器人、汽车、AI PC、AI-RAN。\n\n这也是为什么它把 Data Center 里进一步拆成 hyperscale 和 ACIE，同时把 Edge Computing 单列。它在给投资人一张新的地图：\n第一增长曲线：云端AI工厂。\n第二增长曲线：企业和工业AI。\n第三增长曲线：物理AI和边缘AI。\n\n4、提前定义“Physical AI”的投资叙事\n老黄这两年一直在强调 physical AI。所谓 physical AI，不是普通聊天机器人，而是能和物理世界交互的AI，比如自动驾驶、机器人、工厂自动化、仓储机器人、AI摄像头、医疗机器人、无人机、智能电网巡检。\n\n英伟达管理层在财报电话会上说，很多工业公司必须把计算放在有上下文、需要动作发生的地方，不能全部依赖云端；比如芯片工厂不可能所有实时控制都跑去云端再回来。管理层还强调，下一波是 physical AI，未来会有大量自主系统和机器人系统进入物理世界。\n\n这就是英伟达单列 Edge Computing 的核心信号：\n它要把“物理AI”从远期故事，变成可跟踪的收入科目",
+        "link": "https://x.com/qinbafrank/status/2057354930474906101",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI0xVL9bQAAUHVE.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058121155895234791",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
+      "content": "男生做spa到底是放松还是找刺激？",
+      "contentHtml": "男生做spa到底是放松还是找刺激？",
+      "publishedAt": "2026-05-23T09:41:00.000Z",
+      "link": "https://x.com/hazenlee/status/2058121155895234791",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058121039910220018",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "恭喜下面五位小伙伴各获得「币安披萨节周边」一份🍕\n\n1. @CroscobSilva\n2. @yidileidilei\n3. @Longzai_crypto\n4. @hecowallet\n5. @meimeijianga \n\n请在明天下午 17:00 私信我提供收货信息，过期作废哟",
+      "contentHtml": "恭喜下面五位小伙伴各获得「币安披萨节周边」一份🍕\n\n1. <a href=\"/CroscobSilva\" title=\"Rosi Croscob 📖❤️\">@CroscobSilva</a>\n2. <a href=\"/yidileidilei\" title=\"一滴泪\">@yidileidilei</a>\n3. <a href=\"/Longzai_crypto\" title=\"龍仔好Q\">@Longzai_crypto</a>\n4. <a href=\"/hecowallet\" title=\"傲骨wbe3反撸季🌊RIVER\">@hecowallet</a>\n5. <a href=\"/meimeijianga\" title=\"浼漁\">@meimeijianga</a> \n\n请在明天下午 17:00 私信我提供收货信息，过期作废哟",
+      "publishedAt": "2026-05-23T09:41:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2058121039910220018",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI_qI7waUAAi7Xv.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "5.22 今天你吃披萨了吗🍕\n\n抽 5 位小伙伴送出币安披萨节周边，关注@ai_9684xtpa 和 @binancezh 即可，将在明天 17:00 截止并公布结果\n\n也欢迎在评论区留言晒晒你的美味披萨哦",
+        "contentHtml": "5.22 今天你吃披萨了吗🍕\n\n抽 5 位小伙伴送出币安披萨节周边，关注<a href=\"/ai_9684xtpa\" title=\"Ai 姨\">@ai_9684xtpa</a> 和 <a href=\"/binancezh\" title=\"币安Binance华语\">@binancezh</a> 即可，将在明天 17:00 截止并公布结果\n\n也欢迎在评论区留言晒晒你的美味披萨哦",
+        "link": "https://x.com/ai_9684xtpa/status/2057749574610305424",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI6YU8WaIAAphtS.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058118492977877322",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "两周了，Binance 上BTC和ETH的主做市商就像个SB：\n\n1.在0.5%范围内，订单买卖比1.5-2\n2.碰到就跑，继续换下一个0.5%范围\n\n每天波动1小时放量下跌，缩量拉回，大家猜这种傻逼做市商还能有谁？",
+      "contentHtml": "两周了，Binance 上BTC和ETH的主做市商就像个SB：\n\n1.在0.5%范围内，订单买卖比1.5-2\n2.碰到就跑，继续换下一个0.5%范围\n\n每天波动1小时放量下跌，缩量拉回，大家猜这种傻逼做市商还能有谁？",
+      "publishedAt": "2026-05-23T09:31:00.000Z",
+      "link": "https://x.com/follow_clues/status/2058118492977877322",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058116849058148673",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n卧槽，连我都能感觉到（昨天和今天） gpt5.5 x-high 降智了...",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n卧槽，连我都能感觉到（昨天和今天） gpt5.5 x-high 降智了...",
+      "publishedAt": "2026-05-23T09:24:00.000Z",
+      "link": "https://x.com/taresky/status/2058116849058148673",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058115763236696110",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#投资 \n\n在网上谁都有靠谱的小道消息，但就是不上仓位，问就是不爱钱。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23投资\">#投资</a> \n\n在网上谁都有靠谱的小道消息，但就是不上仓位，问就是不爱钱。",
+      "publishedAt": "2026-05-23T09:20:00.000Z",
+      "link": "https://x.com/taresky/status/2058115763236696110",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HI_lUrxboAAnypI.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058110471316939200",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "赚5.6倍不要命了啊",
+      "contentHtml": "赚5.6倍不要命了啊",
+      "publishedAt": "2026-05-23T08:59:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2058110471316939200",
+      "quote": {
+        "username": "BaronYaji",
+        "displayName": "拜伦",
+        "content": "肥家军，冲！",
+        "contentHtml": "肥家军，冲！",
+        "link": "https://x.com/BaronYaji/status/2058097057790128327",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI_UWnsaYAAm_MG.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058105439469043758",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "到底是玄学，还是科学？\n\n了解我的小伙伴都知道，在我的分析体系和交易框架中，“玄学”从来都不是主流。尽管有时候，它确实挺准。但没有逻辑的支持，我们也仅做参考。\n\n有小伙伴说“我不信”；即便2019年和2022年的两次熊底，亏损的BTC正好都是1060w枚，2026年也未必一定是，也许这只是巧合。\n\n确实如此！\n\n但我们换一个角度：有没可能是，当流通亏损量达到某个临界值时，就跌不动了，因为供应端枯竭。\n\n这个角度还可以展开，即到底是“因为熊底造成了这么多亏损”，还是“因为亏损到极致，卖无可卖，才形成了熊底”？\n\n我认为是后者。如果这样理解，那就不是玄学，而是逻辑。\n\n1060w枚也好，或是其他某个数字也罢，都有可能是这个所谓的“临界值”。而玄学的1060w枚亏损，只是告诉我们：大概在这个范围，就会是极限。\n\n而随着平均获取BTC的成本基础不断抬高，沉淀的低成本筹码越来越多，理论上每一轮周期的实际亏损数量应该小于上一轮。\n\n2026年2月5日这天，BTC跌至6w时的亏损数量为993w，而经过这段时间的换手之后，如果下一次再跌到6w，亏损量就达到1060w了。\n\n所以，即便上一次的993w枚，也是一个很接近极致的范围，至少我是这样理解的。",
+      "contentHtml": "到底是玄学，还是科学？\n\n了解我的小伙伴都知道，在我的分析体系和交易框架中，“玄学”从来都不是主流。尽管有时候，它确实挺准。但没有逻辑的支持，我们也仅做参考。\n\n有小伙伴说“我不信”；即便2019年和2022年的两次熊底，亏损的BTC正好都是1060w枚，2026年也未必一定是，也许这只是巧合。\n\n确实如此！\n\n但我们换一个角度：有没可能是，当流通亏损量达到某个临界值时，就跌不动了，因为供应端枯竭。\n\n这个角度还可以展开，即到底是“因为熊底造成了这么多亏损”，还是“因为亏损到极致，卖无可卖，才形成了熊底”？\n\n我认为是后者。如果这样理解，那就不是玄学，而是逻辑。\n\n1060w枚也好，或是其他某个数字也罢，都有可能是这个所谓的“临界值”。而玄学的1060w枚亏损，只是告诉我们：大概在这个范围，就会是极限。\n\n而随着平均获取BTC的成本基础不断抬高，沉淀的低成本筹码越来越多，理论上每一轮周期的实际亏损数量应该小于上一轮。\n\n2026年2月5日这天，BTC跌至6w时的亏损数量为993w，而经过这段时间的换手之后，如果下一次再跌到6w，亏损量就达到1060w了。\n\n所以，即便上一次的993w枚，也是一个很接近极致的范围，至少我是这样理解的。",
+      "publishedAt": "2026-05-23T08:39:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2058105439469043758",
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "你相信玄学吗？\n如果信，那请过来看看，这个够不够玄学？\n\n2019年2月，熊底，让 1060w 枚BTC处于亏损状态。\n2022年1月，熊底，亏损的BTC正好也是 1060w 枚！\n\n你以为这就完了？还没，继续看。\n\n假设玄学延续，本轮也要 1060w 枚亏损才是熊底，那么BTC的价格得跌到多少？\n\n正好就是 $60,000 ！\n\n换言之，如果真的二踩6w，就会又是一个 1060w；\n\n经过了这么长时间，流通筹码在增加，换手也完全是随机的，难道冥冥之中自有天意？\n\n卧槽，细思极恐......",
+        "contentHtml": "你相信玄学吗？\n如果信，那请过来看看，这个够不够玄学？\n\n2019年2月，熊底，让 1060w 枚BTC处于亏损状态。\n2022年1月，熊底，亏损的BTC正好也是 1060w 枚！\n\n你以为这就完了？还没，继续看。\n\n假设玄学延续，本轮也要 1060w 枚亏损才是熊底，那么BTC的价格得跌到多少？\n\n正好就是 $60,000 ！\n\n换言之，如果真的二踩6w，就会又是一个 1060w；\n\n经过了这么长时间，流通筹码在增加，换手也完全是随机的，难道冥冥之中自有天意？\n\n卧槽，细思极恐......",
+        "link": "https://x.com/Murphychen888/status/2057989897680482664",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI71S-WbYAEX-af.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058100788409651239",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
+      "content": "说不让买美股利好币圈的，\n这辈子吃不上四个菜\n亏逼脑回路",
+      "contentHtml": "说不让买美股利好币圈的，\n这辈子吃不上四个菜\n亏逼脑回路",
+      "publishedAt": "2026-05-23T08:20:00.000Z",
+      "link": "https://x.com/hazenlee/status/2058100788409651239",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "币圈别演了 不让买美股也不会来买币的",
+        "contentHtml": "币圈别演了 不让买美股也不会来买币的",
+        "link": "https://x.com/hazenlee/status/2057896901710938423"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2058096682605449525",
       "username": "hazenlee",
@@ -202,6 +439,28 @@
             "url": "https://pbs.twimg.com/media/HI0oApwbQAAMT4Z.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058092791218188515",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
+      "content": "把脑门打在舒服上",
+      "contentHtml": "把脑门打在舒服上",
+      "publishedAt": "2026-05-23T07:48:00.000Z",
+      "link": "https://x.com/hazenlee/status/2058092791218188515",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "把脑门打在舒服上",
+        "contentHtml": "把脑门打在舒服上",
+        "link": "https://x.com/hazenlee/status/2057910753756406177"
       },
       "stats": {
         "replies": 0,
@@ -392,6 +651,25 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n测下来通过 ssh 连接是最快的，视不同数据量大概 1～3秒。\n\n也就是说瓶颈在 chatgpt 桌面端自己的连接上，走 ssh 用局域网 ip 跳过了这块。\n\n在外使用的是 Surge 无缝回家，大概多出 0.5 秒。",
       "publishedAt": "2026-05-23T04:37:00.000Z",
       "link": "https://x.com/taresky/status/2058044538925838347",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058044456449056884",
+      "username": "Balder13946731",
+      "displayName": "Balder",
+      "avatar": "https://pbs.twimg.com/profile_images/2042409465748881408/7QQC60Qh_bigger.jpg",
+      "content": "凯文·沃什和特朗普刚刚明确说明了利率为何将走低：\n\n“人工智能将使几乎所有东西的成本降低。\n我们正处于生产力繁荣的前沿。\n经济增长不会带来通胀——我们正处于价格结构性下降的早期阶段。”\n\n埃隆·马斯克、萨姆·奥特曼、杰夫·贝佐斯和斯坦利·德鲁肯米勒都预计人工智能将带来强烈的通缩效应。\n\n我觉得他搞错了一些事情，AI并没有使得生产增加，而是替代了更多劳动力，沃尔玛的财报恰恰说明，AI的进步可能会进一步压缩大众的消费能力，美国正变成一个投资驱动的经济，而这种投资，推高了各种物资和能源的价格，而这恰恰会导致通胀。",
+      "contentHtml": "凯文·沃什和特朗普刚刚明确说明了利率为何将走低：\n\n“人工智能将使几乎所有东西的成本降低。\n我们正处于生产力繁荣的前沿。\n经济增长不会带来通胀——我们正处于价格结构性下降的早期阶段。”\n\n埃隆·马斯克、萨姆·奥特曼、杰夫·贝佐斯和斯坦利·德鲁肯米勒都预计人工智能将带来强烈的通缩效应。\n\n我觉得他搞错了一些事情，AI并没有使得生产增加，而是替代了更多劳动力，沃尔玛的财报恰恰说明，AI的进步可能会进一步压缩大众的消费能力，美国正变成一个投资驱动的经济，而这种投资，推高了各种物资和能源的价格，而这恰恰会导致通胀。",
+      "publishedAt": "2026-05-23T04:36:00.000Z",
+      "link": "https://x.com/Balder13946731/status/2058044456449056884",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5593,6 +5871,32 @@
       }
     },
     {
+      "id": "2057031261634679129",
+      "username": "compoundwater",
+      "displayName": "CompoundWater 複水 🐳",
+      "avatar": "https://pbs.twimg.com/profile_images/1712170728832061441/dwI40nH0_bigger.jpg",
+      "content": "1） 之前分享过的CK指标，也是我交易时很常用的数据流评估（熟悉的Liq绿买红卖, MP<25等） 让我们低买高卖更轻松之外\n\n这次新功能 #Insight  AI 深度覆盘  \n更帮你盯图表、对比历史 K 线，找出规律做交易。透过AI统计样本足够加上塞选，即时TG推播替你盯盘👌🏻\n\n2）@coinkarma_ 欢迎新老朋友们体验 🙌🏻",
+      "contentHtml": "1） 之前分享过的CK指标，也是我交易时很常用的数据流评估（熟悉的Liq绿买红卖, MP&lt;25等） 让我们低买高卖更轻松之外\n\n这次新功能 <a href=\"/search?f=tweets&q=%23Insight\">#Insight</a>  AI 深度覆盘  \n更帮你盯图表、对比历史 K 线，找出规律做交易。透过AI统计样本足够加上塞选，即时TG推播替你盯盘👌🏻\n\n2）<a href=\"/coinkarma_\" title=\"CoinKarma\">@coinkarma_</a> 欢迎新老朋友们体验 🙌🏻",
+      "publishedAt": "2026-05-20T09:30:00.000Z",
+      "link": "https://x.com/compoundwater/status/2057031261634679129",
+      "retweet": {
+        "username": "coinkarma_",
+        "displayName": "CoinKarma"
+      },
+      "quote": {
+        "username": "coinkarma_",
+        "displayName": "CoinKarma",
+        "content": "x.com/i/article/204212729686…",
+        "contentHtml": "<a href=\"http://x.com/i/article/2042127296866529280\">x.com/i/article/204212729686…</a>",
+        "link": "https://x.com/coinkarma_/status/2056568821390123368"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2057030511999308105",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -6298,6 +6602,25 @@
           "url": "https://pbs.twimg.com/media/HIuQNyabsAAoW2Q.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056884788179726685",
+      "username": "github",
+      "displayName": "GitHub",
+      "avatar": "https://pbs.twimg.com/profile_images/2051404708766507008/ATxxTJXO_bigger.jpg",
+      "content": "We are investigating unauthorized access to GitHub’s internal repositories. While we currently have no evidence of impact to customer information stored outside of GitHub’s internal repositories (such as our customers’ enterprises, organizations, and repositories), we are closely monitoring our infrastructure for follow-on activity.",
+      "contentHtml": "We are investigating unauthorized access to GitHub’s internal repositories. While we currently have no evidence of impact to customer information stored outside of GitHub’s internal repositories (such as our customers’ enterprises, organizations, and repositories), we are closely monitoring our infrastructure for follow-on activity.",
+      "publishedAt": "2026-05-19T23:48:00.000Z",
+      "link": "https://x.com/github/status/2056884788179726685",
+      "retweet": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -8880,6 +9203,43 @@
       }
     },
     {
+      "id": "2056269627760807955",
+      "username": "viviennaBTC",
+      "displayName": "vivienna.btc",
+      "avatar": "https://pbs.twimg.com/profile_images/2055180188225597440/aMExf6UQ_bigger.jpg",
+      "content": "终于把磨了好久的四大宏观(美债、美元、黄金、通胀)看板上线啦！ \n最近彻底沉迷 AI Coding，每天用 Claude 写代码写到半夜，一版一版迭代调试，总算把这套自己梦寐以求的实时看板做出来了～  \n\n为什么要做这些？ \n\n宏观因子建模本质上是把高维、噪声大、强相关的时间序列数据，转化为低维、可解释、可预测的信号，用于资产配置、择时和风险管理。\n  \n我把常见的宏观因子分成几大类：\n\n• 利率/货币政策类：真实利率、期限利差、forward curve、政策预期路径\n\n• 通胀类：核心通胀、预期通胀（breakeven）、薪资-通胀螺旋、财政驱动\n\n• 增长/风险偏好类：增长 surprise、信用利差、VIX、美元carry\n\n• 商品/避险类：黄金真实收益率敏感度、地缘风险溢价\n\n• 流动性/供给类：美债净供给、央行资产负债表、美元流动性指数  \n\n我选择了黄金、美元、美债、通胀因子这四个类别。\n\n对资产管理最实际的帮助：\n\n• 快速抓住宏观拐点\n• 看清多因子驱动逻辑\n• 辅助大类资产配置和风险对冲\n• 自己改权重、自己看结果，超级爽  \n\n四大看板亮点：  \n\n美债看板\n实时收益率曲线 + 智能因子计分卡（-2到+2自动打分，帮你判断久期和曲线立场）+ 政策路径 + 供给资金流\n\nus-treasury-bonds-monitor-lu… \n\n美元看板\nDXY多因子估值模型（利率差+风险溢价+便利收益+波动预警）+ 综合评分 + 持仓分析，一眼看美元强弱\n\nusd-monitor.vercel.app/ \n\n黄金看板\n多因子信号强度 + SHAP归因瀑布图 + 体制切换预测，搞懂黄金到底在涨啥\n\ngold-monitor-delta.vercel.ap… \n\n通胀因子看板\n五维通胀压力评分 + 四资产信号塔 + 体制诊断，提前闻到通胀味儿\n\ninflation-monitor-nine.verce… \n\n重要提醒：这些看板仅供教育和研究使用，绝不构成任何投资建议。市场有风险，决策还得靠自己！  \n\n全部免费、数据实时更新，还支持自定义因子权重。感兴趣的同学可以一起开放交流量化建模方法与实际落地流程。  \n欢迎大家来玩、来反馈、来一起交流～ 我继续用 Claude 肝新模块！  \n\n#宏观交易 #黄金 #美债 #美元 #通胀 #AI_Coding #Claude  （vivienna.btc × Claude 沉迷副产物）",
+      "contentHtml": "终于把磨了好久的四大宏观(美债、美元、黄金、通胀)看板上线啦！ \n最近彻底沉迷 AI Coding，每天用 Claude 写代码写到半夜，一版一版迭代调试，总算把这套自己梦寐以求的实时看板做出来了～  \n\n为什么要做这些？ \n\n宏观因子建模本质上是把高维、噪声大、强相关的时间序列数据，转化为低维、可解释、可预测的信号，用于资产配置、择时和风险管理。\n  \n我把常见的宏观因子分成几大类：\n\n• 利率/货币政策类：真实利率、期限利差、forward curve、政策预期路径\n\n• 通胀类：核心通胀、预期通胀（breakeven）、薪资-通胀螺旋、财政驱动\n\n• 增长/风险偏好类：增长 surprise、信用利差、VIX、美元carry\n\n• 商品/避险类：黄金真实收益率敏感度、地缘风险溢价\n\n• 流动性/供给类：美债净供给、央行资产负债表、美元流动性指数  \n\n我选择了黄金、美元、美债、通胀因子这四个类别。\n\n对资产管理最实际的帮助：\n\n• 快速抓住宏观拐点\n• 看清多因子驱动逻辑\n• 辅助大类资产配置和风险对冲\n• 自己改权重、自己看结果，超级爽  \n\n四大看板亮点：  \n\n美债看板\n实时收益率曲线 + 智能因子计分卡（-2到+2自动打分，帮你判断久期和曲线立场）+ 政策路径 + 供给资金流\n\n<a href=\"https://us-treasury-bonds-monitor-luffa.vercel.app/#scorecard\">us-treasury-bonds-monitor-lu…</a> \n\n美元看板\nDXY多因子估值模型（利率差+风险溢价+便利收益+波动预警）+ 综合评分 + 持仓分析，一眼看美元强弱\n\n<a href=\"https://usd-monitor.vercel.app/\">usd-monitor.vercel.app/</a> \n\n黄金看板\n多因子信号强度 + SHAP归因瀑布图 + 体制切换预测，搞懂黄金到底在涨啥\n\n<a href=\"https://gold-monitor-delta.vercel.app/\">gold-monitor-delta.vercel.ap…</a> \n\n通胀因子看板\n五维通胀压力评分 + 四资产信号塔 + 体制诊断，提前闻到通胀味儿\n\n<a href=\"https://inflation-monitor-nine.vercel.app/\">inflation-monitor-nine.verce…</a> \n\n重要提醒：这些看板仅供教育和研究使用，绝不构成任何投资建议。市场有风险，决策还得靠自己！  \n\n全部免费、数据实时更新，还支持自定义因子权重。感兴趣的同学可以一起开放交流量化建模方法与实际落地流程。  \n欢迎大家来玩、来反馈、来一起交流～ 我继续用 Claude 肝新模块！  \n\n<a href=\"/search?f=tweets&q=%23宏观交易\">#宏观交易</a> <a href=\"/search?f=tweets&q=%23黄金\">#黄金</a> <a href=\"/search?f=tweets&q=%23美债\">#美债</a> <a href=\"/search?f=tweets&q=%23美元\">#美元</a> <a href=\"/search?f=tweets&q=%23通胀\">#通胀</a> <a href=\"/search?f=tweets&q=%23AI_Coding\">#AI_Coding</a> <a href=\"/search?f=tweets&q=%23Claude\">#Claude</a>  （vivienna.btc × Claude 沉迷副产物）",
+      "publishedAt": "2026-05-18T07:04:00.000Z",
+      "link": "https://x.com/viviennaBTC/status/2056269627760807955",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIlVMG0boAAlIzY.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIlVL_WboAA4RWP.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIlVMGybgAAR6wp.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIlVMG2bgAA729T.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2056260689761866171",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -9902,6 +10262,25 @@
       }
     },
     {
+      "id": "2056010598618648737",
+      "username": "navalpodcast",
+      "displayName": "Naval Podcast",
+      "avatar": "https://pbs.twimg.com/profile_images/2049248689680732160/St8fBFAj_bigger.jpg",
+      "content": "“A taste of freedom can make you unemployable.”\n\n— @naval",
+      "contentHtml": "“A taste of freedom can make you unemployable.”\n\n— <a href=\"/naval\" title=\"Naval\">@naval</a>",
+      "publishedAt": "2026-05-17T13:55:00.000Z",
+      "link": "https://x.com/navalpodcast/status/2056010598618648737",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2056009189009543432",
       "username": "coolish",
       "displayName": "paulwei",
@@ -10688,6 +11067,25 @@
       }
     },
     {
+      "id": "2055662777898078217",
+      "username": "navalpodcast",
+      "displayName": "Naval Podcast",
+      "avatar": "https://pbs.twimg.com/profile_images/2049248689680732160/St8fBFAj_bigger.jpg",
+      "content": "“All frameworks in life—your workout framework, your sales framework, even your building-an-app framework—are all a distant second to your motivation.”\n\n— @naval",
+      "contentHtml": "“All frameworks in life—your workout framework, your sales framework, even your building-an-app framework—are all a distant second to your motivation.”\n\n— <a href=\"/naval\" title=\"Naval\">@naval</a>",
+      "publishedAt": "2026-05-16T14:52:00.000Z",
+      "link": "https://x.com/navalpodcast/status/2055662777898078217",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2055656375145861138",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -11128,6 +11526,38 @@
             "url": "https://pbs.twimg.com/media/HIa5CttboAA20wb.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2055588207430127978",
+      "username": "PhyrexNi",
+      "displayName": "Phyrex",
+      "avatar": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_bigger.jpg",
+      "content": "最近很多小伙伴都来找我聊 CRS 的问题，估计大家都是美股赚钱了，然后才想起来需要了解一下税收的问题🤣\n\n很多小伙伴都已经知道了用美国的券商是可以和 CRS 隔离的，比如 嘉信理财、盈透证券或者是 前身是 Matrixport 的 BIT 都可以，这是因为美国是没有加入 CRS 的，所以根本不存在 CRS 的数据交换。\n\n（其中 BIT 的持牌是在不丹，和中国没有建交，而且 BIT 也是第一个做持牌美股券商的数字货币平台）\n\n但是不是用了美国的券商就可以完全避免 CRS 的问题，这个答案是否定的，因为 CRS 并不仅仅是券商，还有银行。\n\n也就是说如果你的股票系统走的不是 CRS ，但是资金走的是 CRS ，那么仍然会被 CRS 成员国递交数据，而很多小伙伴应该都交难在美国开银行卡，大多数选择香港卡，虽然香港卡向 嘉信 和 盈透 出入金都没有问题，但香港银行是在 CRS 体系中的。\n\n如果是中国税务居民，在香港银行有账户。那么香港银行识别为中国税务居民就会把账户资料报给香港税务局 IRD\n，然后香港税务局通过 AEOI 机制把资料交换给中国税务机关。\n\n这就变成了，有些小伙伴通过美国的券商来做美股，但是因为资金还是要回到 CRS 体系下的银行，所以实际上所有的资金还是在 CRS 曝光的。\n\n尤其是对于在境内的币圈小伙伴来说，如果是可以直接用 USDT 或 USDC 出入金，并且券商的属性不在 CRS 的体系内可能是比较方便的。\n\n其实 盈透 在某些国家和地区是可以通过 USDC 入金的，但入金有限制，而且出金也只能是法币，这点 BIT 会好一些，可以直接用 USDT 和 USDC 等多种加密货币出入金，基本上就避开的 CRS 的系统。\n\n当然最后还需要说一下，依法纳税是每一个公民应尽的义务。税务的问题还是要谨慎处理。",
+      "contentHtml": "最近很多小伙伴都来找我聊 CRS 的问题，估计大家都是美股赚钱了，然后才想起来需要了解一下税收的问题🤣\n\n很多小伙伴都已经知道了用美国的券商是可以和 CRS 隔离的，比如 嘉信理财、盈透证券或者是 前身是 Matrixport 的 BIT 都可以，这是因为美国是没有加入 CRS 的，所以根本不存在 CRS 的数据交换。\n\n（其中 BIT 的持牌是在不丹，和中国没有建交，而且 BIT 也是第一个做持牌美股券商的数字货币平台）\n\n但是不是用了美国的券商就可以完全避免 CRS 的问题，这个答案是否定的，因为 CRS 并不仅仅是券商，还有银行。\n\n也就是说如果你的股票系统走的不是 CRS ，但是资金走的是 CRS ，那么仍然会被 CRS 成员国递交数据，而很多小伙伴应该都交难在美国开银行卡，大多数选择香港卡，虽然香港卡向 嘉信 和 盈透 出入金都没有问题，但香港银行是在 CRS 体系中的。\n\n如果是中国税务居民，在香港银行有账户。那么香港银行识别为中国税务居民就会把账户资料报给香港税务局 IRD\n，然后香港税务局通过 AEOI 机制把资料交换给中国税务机关。\n\n这就变成了，有些小伙伴通过美国的券商来做美股，但是因为资金还是要回到 CRS 体系下的银行，所以实际上所有的资金还是在 CRS 曝光的。\n\n尤其是对于在境内的币圈小伙伴来说，如果是可以直接用 USDT 或 USDC 出入金，并且券商的属性不在 CRS 的体系内可能是比较方便的。\n\n其实 盈透 在某些国家和地区是可以通过 USDC 入金的，但入金有限制，而且出金也只能是法币，这点 BIT 会好一些，可以直接用 USDT 和 USDC 等多种加密货币出入金，基本上就避开的 CRS 的系统。\n\n当然最后还需要说一下，依法纳税是每一个公民应尽的义务。税务的问题还是要谨慎处理。",
+      "publishedAt": "2026-05-16T09:56:00.000Z",
+      "link": "https://x.com/PhyrexNi/status/2055588207430127978",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HIbp80Ca0AAr20k.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
+      "quote": {
+        "username": "PhyrexNi",
+        "displayName": "Phyrex",
+        "content": "这个问题问的不太对，但我能理解应该是想要问从 Binance 走美元提现会不会引发海外收入报税。\n\n从我的了解来看，这其实是很多问题的集合，首先美国和中国是没有 CRS ，也就是说不论是从 Binance 还是从任何一个交易所转钱去你的美国所在地的银行，即便是用中国护照开户的，那么是没有 CRS 相关的。（我们只讨论 CRS）\n\n其次，如果你将这笔钱转移到了新加坡或其它非中国属地首先要看是否和中国有 CRS 的交互，如果有，就要看下一步，你个人是哪里的税务居民。\n\n比如你是新加坡（或当地）的税务居民，那么在2026年前的信息是不会被同步的，而2026年以后中国已经和海外的银行都有过沟通，只要是用中国护照开户的信息都要回传给中国，目前部分银行已经执行，部分私行用户能有大概一年的缓解期。\n\n如果你转钱到香港的银行，即便是香港的税务居民，也会被记录，但未必会交换，而如果你不是香港的税务居民，那就一定会和大陆交换，目前的 CRS 基本就是余额，但 CRS 2.0 2027年开始也会逐渐生效，到时候就不仅仅是余额，而是更细节的信息。\n\n如果资金是通过海外直接进入中国大陆的银行，那就没什么可说的了，也不存在交换不交换了，肯定是会被记录的。\n\nCRS 并不是一定会让你交税，而是了解海外中国人的收入，通过收入来确定你是否需要在中国境内补税，比如你是新加坡的税务居民，你已经在新加坡纳税了，那么你在中国的税就是看在新加坡收入扣除新加坡交税以后，是否还符合在中国境内的交税条件，符合，就要补税，不符合，就可以不用交。\n\n炒股也是一样的道理，不过目前中国是按年计算，亏损不带入下一年，一年内的增值需要交税，比如你第一年有10万美元，结果第二年亏到了 5万 美元，那么是不用交税的，但你第三年增涨到了 8万 美元，那么增涨的 3万 美元是要交税的，第四年你亏到了 1万 美元，是不用交税的，而第五年你运气爆棚，涨回到了 10万 美元，那么有 9万 美元你是要交税的。\n\n总的来说，以前是税务居民大于一切，但从2027年开始起码对于中国来说，护照大于税务居民，除非你已经换了护照，否则中国对你都有长臂管辖。\n\n@bitget VIP，费率更低，福利更狠",
+        "contentHtml": "这个问题问的不太对，但我能理解应该是想要问从 Binance 走美元提现会不会引发海外收入报税。\n\n从我的了解来看，这其实是很多问题的集合，首先美国和中国是没有 CRS ，也就是说不论是从 Binance 还是从任何一个交易所转钱去你的美国所在地的银行，即便是用中国护照开户的，那么是没有 CRS 相关的。（我们只讨论 CRS）\n\n其次，如果你将这笔钱转移到了新加坡或其它非中国属地首先要看是否和中国有 CRS 的交互，如果有，就要看下一步，你个人是哪里的税务居民。\n\n比如你是新加坡（或当地）的税务居民，那么在2026年前的信息是不会被同步的，而2026年以后中国已经和海外的银行都有过沟通，只要是用中国护照开户的信息都要回传给中国，目前部分银行已经执行，部分私行用户能有大概一年的缓解期。\n\n如果你转钱到香港的银行，即便是香港的税务居民，也会被记录，但未必会交换，而如果你不是香港的税务居民，那就一定会和大陆交换，目前的 CRS 基本就是余额，但 CRS 2.0 2027年开始也会逐渐生效，到时候就不仅仅是余额，而是更细节的信息。\n\n如果资金是通过海外直接进入中国大陆的银行，那就没什么可说的了，也不存在交换不交换了，肯定是会被记录的。\n\nCRS 并不是一定会让你交税，而是了解海外中国人的收入，通过收入来确定你是否需要在中国境内补税，比如你是新加坡的税务居民，你已经在新加坡纳税了，那么你在中国的税就是看在新加坡收入扣除新加坡交税以后，是否还符合在中国境内的交税条件，符合，就要补税，不符合，就可以不用交。\n\n炒股也是一样的道理，不过目前中国是按年计算，亏损不带入下一年，一年内的增值需要交税，比如你第一年有10万美元，结果第二年亏到了 5万 美元，那么是不用交税的，但你第三年增涨到了 8万 美元，那么增涨的 3万 美元是要交税的，第四年你亏到了 1万 美元，是不用交税的，而第五年你运气爆棚，涨回到了 10万 美元，那么有 9万 美元你是要交税的。\n\n总的来说，以前是税务居民大于一切，但从2027年开始起码对于中国来说，护照大于税务居民，除非你已经换了护照，否则中国对你都有长臂管辖。\n\n<a href=\"/bitget\" title=\"Bitget\">@bitget</a> VIP，费率更低，福利更狠",
+        "link": "https://x.com/PhyrexNi/status/2013323111618498634"
       },
       "stats": {
         "replies": 0,
@@ -11890,225 +12320,6 @@
         "contentHtml": "自从 Google 发布 Gemini 以后，币圈几乎没人记得原来还有一家老牌交易所，也叫 Gemini…",
         "link": "https://x.com/CryptoPainter/status/2055340015878881407"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055371611860345254",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
-      "content": "做交易的人和做生意的人是两种截然不同的人格要求。生意人需要学会忽悠，给自己立人设，给客户洗脑，这是商业运作的必要手段。但交易人恰恰相反，你必须对自己百分之百真实，彻底剥掉所有人性的弱点，贪婪，恐惧，情绪化，趋利避害的本能。只有当你把这些东西全部从自己身上剥离，你才有资格坐在交易桌前。",
-      "contentHtml": "做交易的人和做生意的人是两种截然不同的人格要求。生意人需要学会忽悠，给自己立人设，给客户洗脑，这是商业运作的必要手段。但交易人恰恰相反，你必须对自己百分之百真实，彻底剥掉所有人性的弱点，贪婪，恐惧，情绪化，趋利避害的本能。只有当你把这些东西全部从自己身上剥离，你才有资格坐在交易桌前。",
-      "publishedAt": "2026-05-15T19:35:00.000Z",
-      "link": "https://x.com/hazenlee/status/2055371611860345254",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055368573858754974",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
-      "content": "稳定的盈利其实是极端的克制喜欢就会放肆，但爱才会克制现在它终于回归了一种空性。\n股票本身无多空属性。\n你能根据市场的强弱用它获利这个叫空性的妙用。\n你非要认定它必须按你的预期走。\n希望市场按照自己的想法波动的那个欲望这个叫着相。\n然后你跟盘面不断的较劲，跟涨跌做争执这个叫我执，执迷不悟。",
-      "contentHtml": "稳定的盈利其实是极端的克制喜欢就会放肆，但爱才会克制现在它终于回归了一种空性。\n股票本身无多空属性。\n你能根据市场的强弱用它获利这个叫空性的妙用。\n你非要认定它必须按你的预期走。\n希望市场按照自己的想法波动的那个欲望这个叫着相。\n然后你跟盘面不断的较劲，跟涨跌做争执这个叫我执，执迷不悟。",
-      "publishedAt": "2026-05-15T19:23:00.000Z",
-      "link": "https://x.com/hazenlee/status/2055368573858754974",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIYi0fOaUAAE0Bd.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055354312570605893",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "The reason $BTC keeps bouncing is because we’re currently testing a significant level (PWO).\n\nIf we lose the 78.6K region, the monthly open would likely come into play fairly quickly.\n\nWorth watching this area closely for confirmation of direction short term.",
-      "contentHtml": "The reason <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> keeps bouncing is because we’re currently testing a significant level (PWO).\n\nIf we lose the 78.6K region, the monthly open would likely come into play fairly quickly.\n\nWorth watching this area closely for confirmation of direction short term.",
-      "publishedAt": "2026-05-15T18:27:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2055354312570605893",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIYVUiKW4AAZIjf.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055342987396198850",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "皮衣内有水冷🤣",
-      "contentHtml": "皮衣内有水冷🤣",
-      "publishedAt": "2026-05-15T17:42:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2055342987396198850",
-      "quote": {
-        "username": "AirdropAlchemis",
-        "displayName": "炼金叔叔",
-        "content": "黄仁勋不愧是做显卡的，散热够强，北京今天30度，哥们依旧穿皮衣👍",
-        "contentHtml": "黄仁勋不愧是做显卡的，散热够强，北京今天30度，哥们依旧穿皮衣👍",
-        "link": "https://x.com/AirdropAlchemis/status/2055201919325589518"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055338270628651427",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "码了很长一段字，不小心丢失了，稍微简单的复述下。\n美股的核心是基本面大于宏观：EPS > PE\n在基本面的大框架下，情绪面太高，宏观的风险就会凸显\n08年后市场的假设是低利率利好美股。但其实08年以前，养老基金60/40的股债配置就是为了彼此之间对冲：经济好，利率涨，美债跌，美股涨。70，80年代的高利率时代，只要企业能够创造更高的价值（远大于融资成本的上升），美股上涨的动力会大于宏观带来的阻碍。",
-      "contentHtml": "码了很长一段字，不小心丢失了，稍微简单的复述下。\n美股的核心是基本面大于宏观：EPS &gt; PE\n在基本面的大框架下，情绪面太高，宏观的风险就会凸显\n08年后市场的假设是低利率利好美股。但其实08年以前，养老基金60/40的股债配置就是为了彼此之间对冲：经济好，利率涨，美债跌，美股涨。70，80年代的高利率时代，只要企业能够创造更高的价值（远大于融资成本的上升），美股上涨的动力会大于宏观带来的阻碍。",
-      "publishedAt": "2026-05-15T17:23:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2055338270628651427",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055333676066525427",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "即使有老狗和巨软的加持，还是架不住英特尔的小瀑布😂。-2.8%",
-      "contentHtml": "即使有老狗和巨软的加持，还是架不住英特尔的小瀑布😂。-2.8%",
-      "publishedAt": "2026-05-15T17:05:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2055333676066525427",
-      "quote": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君",
-        "content": "所以很多时候别嫌老狗走得慢，那是因为老狗稳：AAPL",
-        "contentHtml": "所以很多时候别嫌老狗走得慢，那是因为老狗稳：AAPL",
-        "link": "https://x.com/TJ_Research/status/2055291807378853968"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055331231055913231",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
-      "content": "nitter.net/i/spaces/1lKQRvaVXzYGE",
-      "contentHtml": "<a href=\"https://nitter.net/i/spaces/1lKQRvaVXzYGE\">nitter.net/i/spaces/1lKQRvaVXzYGE</a>",
-      "publishedAt": "2026-05-15T16:55:00.000Z",
-      "link": "https://x.com/coolish/status/2055331231055913231",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055321249186980107",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "脑满肠肥搔首弄姿\nAI作文蹭热点就为了那点工资\n\n无趣至极",
-      "contentHtml": "脑满肠肥搔首弄姿\nAI作文蹭热点就为了那点工资\n\n无趣至极",
-      "publishedAt": "2026-05-15T16:15:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2055321249186980107",
-      "quote": {
-        "username": "CGHLony",
-        "displayName": "谿",
-        "content": "看了一溜币圈kol，还是啊肥这里有点意思",
-        "contentHtml": "看了一溜币圈kol，还是啊肥这里有点意思",
-        "link": "https://x.com/CGHLony/status/2055319293336891828"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055320822638866805",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "3月黄金跌的最多😂，只不过那波我没晒单",
-      "contentHtml": "3月黄金跌的最多😂，只不过那波我没晒单",
-      "publishedAt": "2026-05-15T16:14:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2055320822638866805",
-      "quote": {
-        "username": "seasonchen18",
-        "displayName": "没想好叫什么",
-        "content": "我操！肥哥，真的喷泉了，那个女生坐地上的照片发了好多回，这回感觉水最多！",
-        "contentHtml": "我操！肥哥，真的喷泉了，那个女生坐地上的照片发了好多回，这回感觉水最多！",
-        "link": "https://x.com/seasonchen18/status/2055320163436969999"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055320537199743383",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "差点破产到2天20倍达成  ✅\n\n没有惊心动魄的曲线，只有秒射的无奈🤷🏻‍♂️\n\n$xau $xag $uso",
-      "contentHtml": "差点破产到2天20倍达成  ✅\n\n没有惊心动魄的曲线，只有秒射的无奈🤷🏻‍♂️\n\n<a href=\"/search?f=tweets&q=%23xau\">$xau</a> <a href=\"/search?f=tweets&q=%23xag\">$xag</a> <a href=\"/search?f=tweets&q=%23uso\">$uso</a>",
-      "publishedAt": "2026-05-15T16:12:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2055320537199743383",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055318305720902053",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "穷逼比倍数\n富逼比曲线",
-      "contentHtml": "穷逼比倍数\n富逼比曲线",
-      "publishedAt": "2026-05-15T16:04:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2055318305720902053",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIX1GDOaUAAfan5.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIX1GCpa0AEA3FL.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIX1GClbUAAj7Vf.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
