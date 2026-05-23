@@ -1,4 +1,4 @@
-import { Monitor, Moon, Sun } from 'lucide-react'
+import { Moon, Sun, SunMoon } from 'lucide-react'
 import { useTheme } from './ThemeProvider'
 
 export function ThemeToggle() {
@@ -24,7 +24,7 @@ export function ThemeToggle() {
     >
       {theme === 'light' && <Sun className="w-5 h-5" />}
       {theme === 'dark' && <Moon className="w-5 h-5" />}
-      {theme === 'system' && <Monitor className="w-5 h-5" />}
+      {theme === 'system' && <SunMoon className="w-5 h-5" />}
     </button>
   )
 }
