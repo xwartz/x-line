@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T01:27:14.683Z",
+  "lastUpdated": "2026-05-24T02:20:26.695Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 584,
-    "successUsers": 29,
-    "failedUsers": 1
+    "newFetched": 563,
+    "successUsers": 28,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2058372088952672649",
+      "username": "CycleStudies",
+      "displayName": "百萬Eric | Day Trader",
+      "avatar": "https://pbs.twimg.com/profile_images/1982606819244605440/2IYiLUQI_bigger.jpg",
+      "content": "一个左侧交易者的噩梦是“抄在半山腰”。\n\n一个右侧交易者的噩梦是“追在最高点”。\n\n如果一个人对浮亏极度敏感，却逼自己去做左侧交易，他会在每一次下跌中怀疑自己，最终割在最低点。\n\n如果一个人对踏空极度敏感，却逼自己去做右侧交易，他会在每一次没回调的突破中追高，最终套在山顶。",
+      "contentHtml": "一个左侧交易者的噩梦是“抄在半山腰”。\n\n一个右侧交易者的噩梦是“追在最高点”。\n\n如果一个人对浮亏极度敏感，却逼自己去做左侧交易，他会在每一次下跌中怀疑自己，最终割在最低点。\n\n如果一个人对踏空极度敏感，却逼自己去做右侧交易，他会在每一次没回调的突破中追高，最终套在山顶。",
+      "publishedAt": "2026-05-24T02:18:00.000Z",
+      "link": "https://x.com/CycleStudies/status/2058372088952672649",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2058353692622106629",
       "username": "Bitfatty",
@@ -1422,25 +1437,6 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n测下来通过 ssh 连接是最快的，视不同数据量大概 1～3秒。\n\n也就是说瓶颈在 chatgpt 桌面端自己的连接上，走 ssh 用局域网 ip 跳过了这块。\n\n在外使用的是 Surge 无缝回家，大概多出 0.5 秒。",
       "publishedAt": "2026-05-23T04:37:00.000Z",
       "link": "https://x.com/taresky/status/2058044538925838347",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058044456449056884",
-      "username": "Balder13946731",
-      "displayName": "Balder",
-      "avatar": "https://pbs.twimg.com/profile_images/2042409465748881408/7QQC60Qh_bigger.jpg",
-      "content": "凯文·沃什和特朗普刚刚明确说明了利率为何将走低：\n\n“人工智能将使几乎所有东西的成本降低。\n我们正处于生产力繁荣的前沿。\n经济增长不会带来通胀——我们正处于价格结构性下降的早期阶段。”\n\n埃隆·马斯克、萨姆·奥特曼、杰夫·贝佐斯和斯坦利·德鲁肯米勒都预计人工智能将带来强烈的通缩效应。\n\n我觉得他搞错了一些事情，AI并没有使得生产增加，而是替代了更多劳动力，沃尔玛的财报恰恰说明，AI的进步可能会进一步压缩大众的消费能力，美国正变成一个投资驱动的经济，而这种投资，推高了各种物资和能源的价格，而这恰恰会导致通胀。",
-      "contentHtml": "凯文·沃什和特朗普刚刚明确说明了利率为何将走低：\n\n“人工智能将使几乎所有东西的成本降低。\n我们正处于生产力繁荣的前沿。\n经济增长不会带来通胀——我们正处于价格结构性下降的早期阶段。”\n\n埃隆·马斯克、萨姆·奥特曼、杰夫·贝佐斯和斯坦利·德鲁肯米勒都预计人工智能将带来强烈的通缩效应。\n\n我觉得他搞错了一些事情，AI并没有使得生产增加，而是替代了更多劳动力，沃尔玛的财报恰恰说明，AI的进步可能会进一步压缩大众的消费能力，美国正变成一个投资驱动的经济，而这种投资，推高了各种物资和能源的价格，而这恰恰会导致通胀。",
-      "publishedAt": "2026-05-23T04:36:00.000Z",
-      "link": "https://x.com/Balder13946731/status/2058044456449056884",
-      "retweet": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
