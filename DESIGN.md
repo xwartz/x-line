@@ -267,6 +267,11 @@ The brand uses no drop-shadows. Surface contrast and hairline borders carry all 
 
 - Properties: `backgroundColor`, `rounded`, `padding`, `typography`
 
+## Implementation Rules
+
+- Component code must consume semantic design tokens only. Raw colour literals such as `#000000`, `#ffffff`, `rgba(...)`, `bg-black/35`, or `text-white/72` belong only in shared token definitions, never directly inside JSX / TSX class strings or inline styles.
+- Hover and focus feedback should stay editorial and restrained: prefer hairline border emphasis, underline shifts, background tint changes, or a 1 px lift before introducing larger motion.
+
 ## Do's and Don'ts
 
 ### Do
@@ -282,5 +287,6 @@ The brand uses no drop-shadows. Surface contrast and hairline borders carry all 
 - Don't introduce a chromatic brand accent. The link blue is reserved for inline body links inside articles only.
 - Don't round button corners. The brand never softens its rectangular geometry.
 - Don't drop a soft drop-shadow on cards. Surface contrast and hairlines carry elevation.
+- Don't hard-code raw colour literals in component implementations. Route every UI colour through semantic tokens first.
 - Don't substitute the proprietary serif faces with a generic sans for display. The serif voice is the brand.
 - Don't promote display weight beyond 400. The brand's elegance is in the typeface design, not bold weight.

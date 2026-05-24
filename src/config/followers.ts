@@ -2,15 +2,15 @@ import followersData from '../../data/followers.json'
 import type { Follower } from '../types'
 
 /**
- * 关注者列表配置
+ * Followed account configuration.
  *
- * 数据源: data/followers.json
- * 可以直接在 GitHub Web UI 编辑此文件来更新关注者列表
+ * Data source: data/followers.json
+ * Update the source data instead of editing generated output by hand.
  */
 export const followers: Follower[] = followersData.followers
 
 /**
- * 获取所有关注者用户名
+ * Get all followed usernames.
  */
 export function getFollowerUsernames(): string[] {
   return followers.map(f => f.username)

@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 
 /**
- * 推文抓取脚本
+ * Tweet fetching script.
  *
- * 使用方式:
+ * Usage:
  *   node scripts/fetch-tweets.mjs
  *
- * 此脚本从 Nitter 实例抓取推文并保存到 data/tweets.json
- * 可在本地运行或通过 GitHub Actions 定时执行
+ * Fetches tweets from Nitter instances and saves them to data/tweets.json.
+ * Can be run locally or on a schedule via GitHub Actions.
  */
 
 import { exec } from 'child_process'
@@ -25,7 +25,7 @@ const TWEETS_FILE = path.join(DATA_DIR, 'tweets.json')
 const FOLLOWERS_JSON_FILE = path.join(DATA_DIR, 'followers.json')
 const FOLLOWERS_TXT_FILE = path.join(DATA_DIR, 'followers.txt')
 
-// 兜底的 Nitter 实例列表 (当动态获取失败时使用)
+// Fallback Nitter instances used when dynamic discovery fails.
 const FALLBACK_NITTER_INSTANCES = [
   'nitter.net',
   'nitter.privacyredirect.com',
@@ -35,7 +35,7 @@ const FALLBACK_NITTER_INSTANCES = [
   'nitter.poast.org'
 ]
 
-// 动态获取实例列表的来源
+// Upstream sources for discovering working instances.
 const INSTANCE_LIST_SOURCES = [
   {
     name: 'GitHub Wiki',
@@ -45,37 +45,37 @@ const INSTANCE_LIST_SOURCES = [
 ]
 
 /**
- * 从 GitHub Wiki Markdown 解析实例列表
- * 表格格式: | [domain.com](https://domain.com) | :white_check_mark: | ✅ | ...
- * 只提取标记为 Online 且 Working 的实例
+ * Parse the instance list from the GitHub Wiki markdown table.
+ * Table format: | [domain.com](https://domain.com) | :white_check_mark: | ✅ | ...
+ * Only keep instances marked as online and working.
  */
 function parseGitHubWikiInstances(text) {
   const instances = []
   const lines = text.split('\n')
 
   for (const line of lines) {
-    // 跳过非数据行
+    // Skip non-data rows.
     if (!line.startsWith('|') || line.includes('---') || line.includes('URL')) {
       continue
     }
 
-    // 检查是否标记为工作中 (✅ 或 :white_check_mark:)
-    // 格式: | [url](https://...) | :white_check_mark: | ✅ | country | ...
+    // Require rows marked as working (✅ or :white_check_mark:).
+    // Format: | [url](https://...) | :white_check_mark: | ✅ | country | ...
     const isOnline = line.includes(':white_check_mark:') || line.includes('✅')
     if (!isOnline) {
       continue
     }
 
-    // 排除 Tor (.onion) 和 I2P (.i2p) 实例
+    // Exclude Tor (.onion) and I2P (.i2p) instances.
     if (line.includes('.onion') || line.includes('.i2p')) {
       continue
     }
 
-    // 提取域名，格式: [domain.com](https://domain.com)
+    // Extract the domain from [domain.com](https://domain.com).
     const match = line.match(/\[([^\]]+)\]\(https?:\/\/([^)\/]+)/)
     if (match) {
       const domain = match[2].replace(/\/$/, '')
-      // 过滤掉非域名格式的链接（如 ssllabs.com 验证链接）
+      // Filter out non-instance links such as SSL Labs checks.
       if (
         domain &&
         !domain.includes(' ') &&
@@ -88,12 +88,12 @@ function parseGitHubWikiInstances(text) {
     }
   }
 
-  // 去重
+  // Deduplicate instances.
   return [...new Set(instances)]
 }
 
 /**
- * 简单的 HTTP 请求（用于获取实例列表）
+ * Small HTTP helper for fetching instance lists.
  */
 async function simpleFetch(url, timeout = 10) {
   try {
@@ -108,13 +108,13 @@ async function simpleFetch(url, timeout = 10) {
 }
 
 /**
- * 动态获取 Nitter 实例列表
- * 优先从在线源获取，失败则使用兜底列表
+ * Discover Nitter instances dynamically.
+ * Prefer online sources and fall back to the static list on failure.
  */
 async function getNitterInstances() {
   console.log('Fetching Nitter instance list...')
 
-  // 官方实例始终优先（在 wiki 的单独 Official 区域）
+  // Keep the official instance first.
   const officialInstances = ['nitter.net']
 
   for (const source of INSTANCE_LIST_SOURCES) {
@@ -128,12 +128,12 @@ async function getNitterInstances() {
           console.log(
             `  ✓ Found ${instances.length} instances from ${source.name}`
           )
-          // 官方实例放最前面，然后是从 wiki 获取的实例（去重）
+          // Put the official instance first, then add deduplicated community instances.
           const combined = [
             ...officialInstances,
             ...instances.filter(i => !officialInstances.includes(i))
           ]
-          return combined.slice(0, 10) // 最多返回 10 个实例
+          return combined.slice(0, 10) // Return at most 10 instances.
         }
       }
       console.log(`  ✗ No instances found from ${source.name}`)
@@ -146,16 +146,16 @@ async function getNitterInstances() {
   return FALLBACK_NITTER_INSTANCES
 }
 
-// 运行时的实例列表（将在 main 中初始化）
+// Runtime instance list, initialized in main().
 let NITTER_INSTANCES = []
 
 /**
- * 从文本文件读取关注者列表（优先）
- * 格式支持：
- * - 简单格式: username
- * - 完整格式: username,displayName,group
- * - 注释行以 # 开头
- * - 空行会被忽略
+ * Read followed accounts from the text source (preferred).
+ * Supported formats:
+ * - Simple format: username
+ * - Grouped format: username,group
+ * - Comment lines starting with #
+ * - Blank lines are ignored
  */
 function loadFollowersFromText() {
   if (!fs.existsSync(FOLLOWERS_TXT_FILE)) {
@@ -170,13 +170,13 @@ function loadFollowersFromText() {
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i].trim()
 
-      // 跳过空行和注释
+      // Skip blank lines and comments.
       if (!line || line.startsWith('#')) {
         continue
       }
 
-      // 解析行：支持 username 或 username,group
-      // displayName 会从推文数据中自动获取，不需要在配置中指定
+      // Support either username or username,group lines.
+      // displayName is derived later from tweet data.
       const parts = line.split(',').map(p => p.trim())
       const username = parts[0]
 
@@ -188,7 +188,7 @@ function loadFollowersFromText() {
         username: username
       }
 
-      // 可选字段：分组（第二个参数是 group，不再是 displayName）
+      // Optional second field: group.
       if (parts[1]) {
         follower.group = parts[1]
       }
@@ -204,7 +204,7 @@ function loadFollowersFromText() {
 }
 
 /**
- * 从 JSON 文件读取关注者列表（向后兼容）
+ * Read followed accounts from JSON (backward compatibility).
  */
 function loadFollowersFromJson() {
   if (!fs.existsSync(FOLLOWERS_JSON_FILE)) {
@@ -217,7 +217,7 @@ function loadFollowersFromJson() {
       return null
     }
 
-    // 验证每个关注者对象
+    // Validate each follower object.
     for (const follower of data.followers) {
       if (!follower.username) {
         throw new Error('Invalid follower: missing "username"')
@@ -232,28 +232,28 @@ function loadFollowersFromJson() {
 }
 
 /**
- * 加载关注者列表（优先使用文本格式）
+ * Load the follower list, preferring the text format.
  */
 function loadFollowers() {
-  // 优先使用文本格式
+  // Prefer the text source.
   let followers = loadFollowersFromText()
 
-  // 如果文本格式不存在，尝试 JSON 格式（向后兼容）
+  // Fall back to JSON if the text source is missing.
   if (!followers) {
     followers = loadFollowersFromJson()
   }
 
-  // 如果都不存在，报错
+  // Fail if neither source exists.
   if (!followers || followers.length === 0) {
     console.error('Error: No followers found!')
     console.error(
       `Please create ${FOLLOWERS_TXT_FILE} with the following format:`
     )
     console.error('')
-    console.error('# 每行一个用户名')
+    console.error('# one username per line')
     console.error('elonmusk,Elon Musk,Tech')
     console.error('jack,Jack Dorsey,Tech')
-    console.error('# 或者简单格式')
+    console.error('# or simple format')
     console.error('naval')
     console.error('VitalikButerin')
     process.exit(1)
@@ -262,19 +262,19 @@ function loadFollowers() {
   return followers
 }
 
-// 加载关注者列表
+// Load the follower list.
 const FOLLOWERS = loadFollowers()
 
 const FETCH_TIMEOUT = 30
-// 每个用户最多抓取的页数（每页约 20-30 条推文）
+// Maximum pages fetched per user (about 20-30 tweets per page).
 const MAX_PAGES_PER_USER = 5
 
 /**
- * 使用 curl 获取页面（绕过 bot 检测）
+ * Fetch a page with curl to reduce bot detection issues.
  */
 async function fetchWithCurl(url, timeout = FETCH_TIMEOUT) {
   try {
-    // 添加浏览器 User-Agent 和常见请求头以避免 bot 检测
+    // Send common browser headers to avoid simple bot checks.
     const headers = [
       '-H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"',
       '-H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8"',
@@ -300,11 +300,12 @@ async function fetchWithCurl(url, timeout = FETCH_TIMEOUT) {
 }
 
 /**
- * 解码 Nitter 图片 URL
- * Nitter 格式: /pic/https%3A%2F%2Fpbs.twimg.com%2F... 或 /pic/orig/media%2F...
+ * Decode Nitter media URLs.
+ * Nitter format: /pic/https%3A%2F%2Fpbs.twimg.com%2F... or /pic/orig/media%2F...
  */
 /**
- * 将 Nitter 的相对 URL 还原为原始图片 URL，优先使用 pbs.twimg.com 直链
+ * Convert relative Nitter media URLs back to the original image URL,
+ * preferring direct pbs.twimg.com links.
  */
 function decodeNitterUrl(url, instance) {
   if (!url) {
@@ -339,7 +340,7 @@ function decodeNitterUrl(url, instance) {
 }
 
 /**
- * 从 HTML 中提取文本内容
+ * Extract plain text from HTML.
  */
 function extractText(html) {
   return html
@@ -356,10 +357,10 @@ function extractText(html) {
 }
 
 /**
- * 解析推文时间
+ * Parse a tweet timestamp.
  */
 function parseTime(timeStr) {
-  // 格式: "Dec 7, 2025 · 5:13 AM UTC"
+  // Format: "Dec 7, 2025 · 5:13 AM UTC"
   const match = timeStr.match(/(\w+ \d+, \d+)\s*·\s*(\d+:\d+ [AP]M)/)
   if (match) {
     const dateStr = `${match[1]} ${match[2]}`
@@ -373,7 +374,7 @@ function parseTime(timeStr) {
 }
 
 /**
- * 从数字字符串中提取数字
+ * Parse numbers from compact counter strings.
  */
 function parseNumber(str) {
   const cleaned = str.replace(/,/g, '').trim()
@@ -391,12 +392,12 @@ function parseNumber(str) {
 }
 
 /**
- * 从 Nitter HTML 解析推文列表
+ * Parse tweets from Nitter HTML.
  */
 function parseNitterHTML(html, instance, currentUser) {
   const tweets = []
 
-  // 匹配所有 timeline-item
+  // Match all timeline items.
   const tweetRegex =
     /<div class="timeline-item[^"]*"[^>]*>([\s\S]*?)(?=<div class="timeline-item|<div class="show-more"|<div class="timeline-footer"|$)/g
 
@@ -405,48 +406,48 @@ function parseNitterHTML(html, instance, currentUser) {
     try {
       const tweetHtml = match[1]
 
-      // 提取推文 ID
+      // Extract the tweet ID.
       const idMatch = tweetHtml.match(/\/status\/(\d+)/)
       const id = idMatch ? idMatch[1] : ''
       if (!id) continue
 
-      // 提取用户名
+      // Extract the username.
       const usernameMatch = tweetHtml.match(
         /<a class="username"[^>]*>@(\w+)<\/a>/
       )
       const username = usernameMatch ? usernameMatch[1] : ''
       if (!username) continue
 
-      // 提取显示名称
+      // Extract the display name.
       const fullnameMatch = tweetHtml.match(
         /<a class="fullname"[^>]*title="([^"]*)"[^>]*>/
       )
       const displayName = fullnameMatch ? fullnameMatch[1] : username
 
-      // 提取头像
+      // Extract the avatar.
       const avatarMatch = tweetHtml.match(
         /<img class="avatar[^"]*"[^>]*src="([^"]*)"[^>]*>/
       )
       let avatar = avatarMatch ? decodeNitterUrl(avatarMatch[1], instance) : ''
 
-      // 提取时间
+      // Extract the timestamp.
       const timeMatch = tweetHtml.match(
         /<span class="tweet-date"[^>]*>[\s\S]*?title="([^"]*)"[^>]*>/
       )
       const timeStr = timeMatch ? timeMatch[1] : ''
       const publishedAt = parseTime(timeStr)
 
-      // 提取内容
+      // Extract the content.
       const contentMatch = tweetHtml.match(
         /<div class="tweet-content[^"]*"[^>]*>([\s\S]*?)<\/div>/
       )
       const contentHtml = contentMatch ? contentMatch[1] : ''
       const content = extractText(contentHtml)
 
-      // 提取媒体（需要排除 quote 区块内的媒体）
+      // Extract media, excluding media inside quote blocks.
       const media = []
 
-      // 先移除 quote 区块，避免提取引用推文的媒体
+      // Remove the quote block first to avoid picking up quoted media.
       let tweetHtmlWithoutQuote = tweetHtml
       const quoteBlockMatch = tweetHtml.match(
         /<div class="quote[^"]*"[^>]*>([\s\S]*?)(?=<div class="tweet-stats|<p class="tweet-published"|$)/
@@ -455,7 +456,7 @@ function parseNitterHTML(html, instance, currentUser) {
         tweetHtmlWithoutQuote = tweetHtml.replace(quoteBlockMatch[0], '')
       }
 
-      // 图片
+      // Images.
       const imgRegex = /<a[^>]*class="still-image"[^>]*href="([^"]*)"[^>]*>/g
       let imgMatch
       while ((imgMatch = imgRegex.exec(tweetHtmlWithoutQuote)) !== null) {
@@ -463,7 +464,7 @@ function parseNitterHTML(html, instance, currentUser) {
         media.push({ type: 'image', url })
       }
 
-      // 视频缩略图
+      // Video thumbnails.
       if (
         tweetHtmlWithoutQuote.includes('gallery-video') ||
         tweetHtmlWithoutQuote.includes('video-container')
@@ -475,7 +476,7 @@ function parseNitterHTML(html, instance, currentUser) {
         }
       }
 
-      // 提取统计数据
+      // Extract engagement counters.
       const stats = { replies: 0, retweets: 0, likes: 0 }
       const statsMatch = tweetHtml.match(
         /<div class="tweet-stat">([\s\S]*?)<\/div>/g
@@ -491,26 +492,26 @@ function parseNitterHTML(html, instance, currentUser) {
         }
       }
 
-      // 检查是否为转推
-      // Nitter HTML 结构: <div class="retweet-header"><span><div class="icon-container">...</div> vitalik.eth retweeted</span></div>
+      // Check whether this is a repost.
+      // Nitter structure: <div class="retweet-header"><span><div class="icon-container">...</div> vitalik.eth retweeted</span></div>
       let retweet
       const retweetHeaderMatch = tweetHtml.match(
         /<div class="retweet-header"[^>]*>([\s\S]*?)<\/div>/
       )
       if (retweetHeaderMatch) {
-        // 提取 "xxx retweeted" 文本
+        // Extract the "xxx retweeted" label.
         const headerText = retweetHeaderMatch[1].replace(/<[^>]*>/g, '').trim()
         const rtNameMatch = headerText.match(/(.+?)\s+retweeted/i)
         if (rtNameMatch) {
           const retweeterName = rtNameMatch[1].trim()
           retweet = {
-            username: currentUser, // 转推者是当前抓取的用户
+            username: currentUser, // The reposting account is the current user.
             displayName: retweeterName
           }
         }
       }
 
-      // 检查引用推文
+      // Extract the quoted post if present.
       let quote
       const quoteMatch = tweetHtml.match(
         /<div class="quote[^"]*"[^>]*>([\s\S]*?)(?=<div class="tweet-stats|$)/
@@ -518,14 +519,14 @@ function parseNitterHTML(html, instance, currentUser) {
       if (quoteMatch) {
         const quoteHtml = quoteMatch[1]
 
-        // 提取引用推文的用户名
+        // Extract the quoted username.
         const quoteUserMatch = quoteHtml.match(
           /<a class="username"[^>]*>@(\w+)<\/a>/
         )
         if (quoteUserMatch) {
           const quoteUsername = quoteUserMatch[1]
 
-          // 提取引用推文的显示名称
+          // Extract the quoted display name.
           const quoteDisplayNameMatch = quoteHtml.match(
             /<a class="fullname"[^>]*title="([^"]*)"[^>]*>/
           )
@@ -533,11 +534,11 @@ function parseNitterHTML(html, instance, currentUser) {
             ? quoteDisplayNameMatch[1]
             : quoteUsername
 
-          // 提取引用推文的 ID
+          // Extract the quoted tweet ID.
           const quoteLinkMatch = quoteHtml.match(/href="\/[^/]+\/status\/(\d+)/)
           const quoteId = quoteLinkMatch ? quoteLinkMatch[1] : ''
 
-          // 提取引用推文的文本内容
+          // Extract the quoted text.
           const quoteTextMatch = quoteHtml.match(
             /<div class="quote-text"[^>]*>([\s\S]*?)<\/div>/
           )
@@ -546,7 +547,7 @@ function parseNitterHTML(html, instance, currentUser) {
             ? extractText(quoteContentHtml)
             : ''
 
-          // 提取引用推文的媒体
+          // Extract quoted media.
           const quoteMedia = []
           const quoteMediaMatch = quoteHtml.match(
             /<div class="quote-media-container">([\s\S]*?)<\/div>\s*<\/div>/
@@ -554,7 +555,7 @@ function parseNitterHTML(html, instance, currentUser) {
           if (quoteMediaMatch) {
             const quoteMediaHtml = quoteMediaMatch[1]
 
-            // 图片
+            // Images.
             const quoteImgRegex =
               /<a[^>]*class="still-image"[^>]*href="([^"]*)"[^>]*>/g
             let quoteImgMatch
@@ -565,7 +566,7 @@ function parseNitterHTML(html, instance, currentUser) {
               quoteMedia.push({ type: 'image', url })
             }
 
-            // 视频
+            // Video thumbnails.
             if (
               quoteMediaHtml.includes('gallery-video') ||
               quoteMediaHtml.includes('video-container')
@@ -648,18 +649,18 @@ function normalizeTweetRecord(tweet) {
 }
 
 /**
- * 从 HTML 中提取分页链接（加载更多）
- * Nitter 的分页链接格式通常是: /{username}?cursor=... 或 /{username}/more?cursor=...
+ * Extract the next-page link from HTML.
+ * Nitter pagination usually looks like: /{username}?cursor=... or /{username}/more?cursor=...
  */
 function extractNextPageUrl(html, username, instance) {
-  // 查找"加载更多"或"Show more"链接
-  // 可能的格式:
+  // Look for a "Show more" link.
+  // Possible shapes:
   // 1. <a href="/{username}?cursor=...">Show more</a>
   // 2. <a href="/{username}/more?cursor=...">Show more</a>
   // 3. <div class="show-more"><a href="...">...</a></div>
   // 4. <a href="/{username}?cursor=..." class="show-more">...</a>
 
-  // 先尝试在 show-more 区域内查找
+  // First try the dedicated show-more block.
   const showMoreBlockMatch = html.match(
     /<div[^>]*class="[^"]*show-more[^"]*"[^>]*>([\s\S]*?)<\/div>/i
   )
@@ -668,13 +669,13 @@ function extractNextPageUrl(html, username, instance) {
     const linkMatch = showMoreBlock.match(/<a[^>]*href="([^"]*)"[^>]*>/i)
     if (linkMatch && linkMatch[1]) {
       const href = linkMatch[1]
-      // 处理相对路径和绝对路径
+      // Handle both relative and absolute URLs.
       if (href.startsWith('/')) {
         if (href.includes(username) || href.includes('cursor=')) {
           return `https://${instance}${href}`
         }
       } else if (href.startsWith('http')) {
-        // 已经是完整 URL
+        // Already a full URL.
         if (href.includes(username) || href.includes('cursor=')) {
           return href
         }
@@ -682,7 +683,7 @@ function extractNextPageUrl(html, username, instance) {
     }
   }
 
-  // 查找包含 "Show more" 文本的链接
+  // Fall back to links containing "Show more" text.
   const showMoreTextPatterns = [
     /<a[^>]*href="([^"]*)"[^>]*>[\s\S]*?Show more/i,
     /<a[^>]*>[\s\S]*?Show more[\s\S]*?href="([^"]*)"/i
@@ -704,7 +705,7 @@ function extractNextPageUrl(html, username, instance) {
     }
   }
 
-  // 查找包含 cursor 参数的链接（通常在 timeline-footer 或 show-more 附近）
+  // Finally, look for any cursor link near the footer or show-more section.
   const cursorPatterns = [
     /href="(\/[^"]*\?cursor=[^"]*)"/i,
     /href="(\/[^"]*\/more\?cursor=[^"]*)"/i
@@ -715,7 +716,7 @@ function extractNextPageUrl(html, username, instance) {
     for (const match of matches) {
       if (match[1]) {
         const href = match[1]
-        // 确保链接属于当前用户
+        // Make sure the link belongs to the current user.
         if (href.includes(username) || href.startsWith(`/${username}`)) {
           return `https://${instance}${href}`
         }
@@ -727,12 +728,12 @@ function extractNextPageUrl(html, username, instance) {
 }
 
 /**
- * 从 Nitter 实例获取用户页面（单页）
+ * Fetch a single user page from a Nitter instance.
  */
 async function fetchUserPageSingle(username, instance, cursor = null) {
   let url
   if (cursor) {
-    // 如果有 cursor，使用分页 URL
+    // Use the pagination URL when a cursor is available.
     url = cursor.startsWith('http')
       ? cursor
       : `https://${instance}/${username}${cursor.startsWith('?') ? cursor : `?cursor=${cursor}`}`
@@ -748,12 +749,12 @@ async function fetchUserPageSingle(username, instance, cursor = null) {
 
   const html = await response.text()
 
-  // 验证是否为有效的用户页面
+  // Confirm that this looks like a valid user timeline page.
   if (html.includes('timeline-item') && html.includes('tweet-content')) {
     return { ok: true, html, instance }
   }
 
-  // 检查是否为错误页面或 bot 检测
+  // Detect error pages or bot challenges.
   if (html.includes('error-panel') || html.includes('User not found')) {
     return { ok: false, error: 'user not found' }
   }
@@ -770,7 +771,7 @@ async function fetchUserPageSingle(username, instance, cursor = null) {
 }
 
 /**
- * 获取单个用户的推文（支持多页）
+ * Fetch tweets for a single user, including pagination.
  */
 async function fetchUserTweets(username, maxPages = 5) {
   console.log(`\nFetching @${username}...`)
@@ -779,7 +780,7 @@ async function fetchUserTweets(username, maxPages = 5) {
   const allTweets = []
   const seenTweetIds = new Set()
 
-  // 先找到一个可用的实例
+  // Find the first working instance.
   for (const instance of NITTER_INSTANCES) {
     try {
       console.log(`  [${instance}] Fetching page 1...`)
@@ -793,7 +794,7 @@ async function fetchUserTweets(username, maxPages = 5) {
 
       let currentPage = 1
 
-      // 解析第一页
+      // Parse the first page.
       const pageTweets = parseNitterHTML(result.html, instance, username)
       for (const tweet of pageTweets) {
         if (!seenTweetIds.has(tweet.id)) {
@@ -805,14 +806,14 @@ async function fetchUserTweets(username, maxPages = 5) {
         `  [${instance}] Page ${currentPage}: ${pageTweets.length} tweets (total: ${allTweets.length})`
       )
 
-      // 继续抓取后续页面
+      // Continue with additional pages when available.
       let nextPageUrl = extractNextPageUrl(result.html, username, instance)
 
       while (nextPageUrl && currentPage < maxPages) {
         currentPage++
         console.log(`  [${instance}] Fetching page ${currentPage}...`)
 
-        // 等待一段时间，避免请求过快
+        // Pause briefly to avoid hitting rate limits.
         await new Promise(resolve => setTimeout(resolve, 1500))
 
         result = await fetchUserPageSingle(username, instance, nextPageUrl)
@@ -824,7 +825,7 @@ async function fetchUserTweets(username, maxPages = 5) {
           break
         }
 
-        // 解析当前页的推文
+        // Parse tweets from the current page.
         const nextPageTweets = parseNitterHTML(result.html, instance, username)
         let newTweetsCount = 0
         for (const tweet of nextPageTweets) {
@@ -838,7 +839,7 @@ async function fetchUserTweets(username, maxPages = 5) {
           `  [${instance}] Page ${currentPage}: ${nextPageTweets.length} tweets (${newTweetsCount} new, total: ${allTweets.length})`
         )
 
-        // 如果这一页没有新推文，可能已经到底了
+        // If a page yields no new tweets, we have probably reached the end.
         if (newTweetsCount === 0 && nextPageTweets.length > 0) {
           console.log(
             `  [${instance}] No new tweets on page ${currentPage}, stopping`
@@ -846,7 +847,7 @@ async function fetchUserTweets(username, maxPages = 5) {
           break
         }
 
-        // 查找下一页链接
+        // Find the next page link.
         nextPageUrl = extractNextPageUrl(result.html, username, instance)
 
         if (!nextPageUrl) {
@@ -871,7 +872,7 @@ async function fetchUserTweets(username, maxPages = 5) {
 }
 
 /**
- * 主函数
+ * Main entry point.
  */
 async function main() {
   console.log('========================================')
@@ -880,16 +881,16 @@ async function main() {
   console.log(`Time: ${new Date().toISOString()}`)
   console.log(`Users: ${FOLLOWERS.map(f => '@' + f.username).join(', ')}`)
 
-  // 动态获取 Nitter 实例列表
+  // Dynamically discover working Nitter instances.
   NITTER_INSTANCES = await getNitterInstances()
   console.log(`Instances: ${NITTER_INSTANCES.join(', ')}`)
 
-  // 确保 data 目录存在
+  // Ensure the data directory exists.
   if (!fs.existsSync(DATA_DIR)) {
     fs.mkdirSync(DATA_DIR, { recursive: true })
   }
 
-  // 读取现有数据（如果有）
+  // Load existing data if it exists.
   let existingTweets = []
   if (fs.existsSync(TWEETS_FILE)) {
     try {
@@ -901,7 +902,7 @@ async function main() {
     }
   }
 
-  // 抓取所有用户的推文
+  // Fetch tweets for every configured follower.
   const allTweets = []
   let successCount = 0
   let failCount = 0
@@ -923,42 +924,42 @@ async function main() {
       failCount++
     }
 
-    // 请求间隔，避免被限制
+    // Add spacing between requests to reduce throttling.
     await new Promise(resolve => setTimeout(resolve, 2000))
   }
 
-  // 创建当前 followers 的用户名集合（用于过滤已删除的 followers 的推文）
+  // Track current followers so removed accounts are filtered out.
   const currentFollowerUsernames = new Set(
     FOLLOWERS.map(f => f.username.toLowerCase())
   )
 
-  // 合并新旧数据，去重
+  // Merge old and new data, deduplicated by tweet ID.
   const tweetMap = new Map()
 
-  // 先添加旧数据（只保留当前 followers 的推文）
+  // Add existing tweets first, but only for current followers.
   for (const tweet of existingTweets) {
-    // 只保留当前 followers 列表中的用户的推文
+    // Keep only tweets from accounts that still exist in followers.txt.
     if (currentFollowerUsernames.has(tweet.username.toLowerCase())) {
       const normalizedTweet = normalizeTweetRecord(tweet)
       tweetMap.set(normalizedTweet.id, normalizedTweet)
     }
   }
 
-  // 新数据覆盖旧数据
+  // Let newly fetched data override older records.
   for (const tweet of allTweets) {
     const normalizedTweet = normalizeTweetRecord(tweet)
     tweetMap.set(normalizedTweet.id, normalizedTweet)
   }
 
-  // 按时间排序
+  // Sort newest first.
   const mergedTweets = Array.from(tweetMap.values())
     .sort(
       (a, b) =>
         new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
     )
-    .slice(0, 500) // 最多保留 500 条
+    .slice(0, 500) // Keep at most 500 tweets.
 
-  // 保存数据
+  // Save the merged output.
   const output = {
     lastUpdated: new Date().toISOString(),
     followers: FOLLOWERS,
@@ -981,7 +982,7 @@ async function main() {
   console.log(`Total tweets: ${mergedTweets.length}`)
   console.log(`Saved to: ${TWEETS_FILE}`)
 
-  // 如果没有成功获取任何推文，返回错误码
+  // Exit with an error code if no tweets were fetched successfully.
   if (successCount === 0) {
     console.error('\nError: Failed to fetch any tweets!')
     process.exit(1)

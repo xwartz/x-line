@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 /**
- * 管理关注者列表脚本
+ * Script for managing followed accounts.
  *
- * 使用方式:
+ * Usage:
  *   node scripts/manage-followers.mjs add <username> [group]
  *   node scripts/manage-followers.mjs remove <username>
  *
- * 此脚本用于添加或删除关注者，更新 followers.txt 文件
+ * Adds or removes followed accounts and updates followers.txt.
  */
 
 import fs from 'fs'
@@ -19,7 +19,7 @@ const DATA_DIR = path.join(ROOT_DIR, 'data')
 const FOLLOWERS_TXT_FILE = path.join(DATA_DIR, 'followers.txt')
 
 /**
- * 读取现有的关注者列表
+ * Read the current follower list.
  */
 function readFollowers() {
   if (!fs.existsSync(FOLLOWERS_TXT_FILE)) {
@@ -40,25 +40,25 @@ function readFollowers() {
     const line = lines[i]
     const trimmed = line.trim()
 
-    // 收集头部注释和空行
+    // Collect leading comments and blank lines.
     if (i < 20 && (trimmed.startsWith('#') || trimmed === '')) {
       header.push(line)
       continue
     }
 
-    // 处理分组注释
+    // Preserve group header comments.
     if (trimmed.startsWith('#') && trimmed.length > 1) {
       header.push(line)
       continue
     }
 
-    // 跳过空行
+    // Keep blank lines intact.
     if (trimmed === '') {
       header.push(line)
       continue
     }
 
-    // 解析关注者行
+    // Parse follower entries.
     if (!trimmed.startsWith('#')) {
       const parts = trimmed.split(',').map(p => p.trim())
       const username = parts[0]
@@ -66,7 +66,7 @@ function readFollowers() {
       if (username) {
         followers.push({
           username: username.toLowerCase(),
-          originalUsername: username, // 保留原始大小写
+          originalUsername: username, // Preserve original casing.
           group: parts[1] || null,
           lineIndex: lineIndex++
         })
@@ -78,10 +78,10 @@ function readFollowers() {
 }
 
 /**
- * 写入关注者列表到文件
+ * Write the follower list back to disk.
  */
 function writeFollowers(header, followers) {
-  // 确保 data 目录存在
+  // Ensure the data directory exists.
   if (!fs.existsSync(DATA_DIR)) {
     fs.mkdirSync(DATA_DIR, { recursive: true })
   }
@@ -89,7 +89,7 @@ function writeFollowers(header, followers) {
   const lines = [...header]
   const groupedFollowers = {}
 
-  // 按分组组织关注者
+  // Organize followers by group.
   followers.forEach(f => {
     const group = f.group || 'default'
     if (!groupedFollowers[group]) {
@@ -98,12 +98,12 @@ function writeFollowers(header, followers) {
     groupedFollowers[group].push(f)
   })
 
-  // 写入分组和关注者
+  // Write groups and followers.
   const groups = Object.keys(groupedFollowers).sort()
   groups.forEach(group => {
     const groupFollowers = groupedFollowers[group]
 
-    // 如果有分组注释，添加分组标题
+    // Add a group title if needed.
     if (group !== 'default' && groupFollowers.length > 0) {
       const groupComment = `# ${group}`
       if (!lines.some(l => l.trim() === groupComment)) {
@@ -114,7 +114,7 @@ function writeFollowers(header, followers) {
       }
     }
 
-    // 写入该分组的关注者
+    // Write the followers in this group.
     groupFollowers.forEach(f => {
       if (f.group) {
         lines.push(`${f.originalUsername},${f.group}`)
@@ -124,13 +124,13 @@ function writeFollowers(header, followers) {
     })
   })
 
-  // 确保文件末尾有换行
+  // Ensure the file ends with a trailing newline.
   const content = lines.join('\n') + '\n'
   fs.writeFileSync(FOLLOWERS_TXT_FILE, content, 'utf-8')
 }
 
 /**
- * 添加关注者
+ * Add a follower.
  */
 function addFollower(username, group = null) {
   if (!username || typeof username !== 'string') {
@@ -140,10 +140,10 @@ function addFollower(username, group = null) {
   const usernameLower = username.toLowerCase().trim()
   const { header, followers } = readFollowers()
 
-  // 检查是否已存在
+  // Check whether the account already exists.
   const existing = followers.find(f => f.username === usernameLower)
   if (existing) {
-    // 如果提供了分组且不同，更新分组
+    // Update the group if a different one was provided.
     if (group && existing.group !== group) {
       existing.group = group
       console.log(`✅ Updated @${username} group to "${group}"`)
@@ -152,7 +152,7 @@ function addFollower(username, group = null) {
       return false
     }
   } else {
-    // 添加新关注者
+    // Add a new follower.
     followers.push({
       username: usernameLower,
       originalUsername: username.trim(),
@@ -167,7 +167,7 @@ function addFollower(username, group = null) {
 }
 
 /**
- * 删除关注者
+ * Remove a follower.
  */
 function removeFollower(username) {
   if (!username || typeof username !== 'string') {
@@ -191,7 +191,7 @@ function removeFollower(username) {
 }
 
 /**
- * 主函数
+ * Main entry point.
  */
 function main() {
   const args = process.argv.slice(2)

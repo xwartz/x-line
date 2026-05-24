@@ -50,12 +50,12 @@ export function FollowerList({
     return () => mediaQuery.removeEventListener('change', handleChange)
   }, [])
 
-  // 从推文数据中提取每个关注者的最新头像和显示名称
+  // Derive the latest avatar and display name for each followed account.
   const followerData = useMemo(() => {
     const avatarMap = new Map<string, string>()
     const displayNameMap = new Map<string, string>()
 
-    // 按时间排序推文（最新的在前），为每个用户名记录最新的头像和显示名称
+    // Sort newest first so the freshest profile metadata wins.
     const sortedTweets = [...tweets].sort((a, b) => {
       const dateA =
         typeof a.publishedAt === 'string'
@@ -68,7 +68,7 @@ export function FollowerList({
       return dateB.getTime() - dateA.getTime()
     })
 
-    // 遍历推文，为每个用户名记录最新的头像和显示名称
+    // Store the first avatar and display name seen for each username.
     for (const tweet of sortedTweets) {
       const username = tweet.username.toLowerCase()
       if (!avatarMap.has(username) && tweet.avatar) {
@@ -82,7 +82,7 @@ export function FollowerList({
     return { avatarMap, displayNameMap }
   }, [tweets])
 
-  // 获取关注者的头像，优先使用推文中的头像
+  // Prefer the configured avatar, then fall back to tweet-derived profile data.
   const getFollowerAvatar = (follower: Follower): string | undefined => {
     if (follower.avatar) {
       return follower.avatar
@@ -90,7 +90,7 @@ export function FollowerList({
     return followerData.avatarMap.get(follower.username.toLowerCase())
   }
 
-  // 获取关注者的显示名称，优先使用配置中的，否则从推文中获取
+  // Prefer the configured display name, then fall back to tweet-derived data.
   const getFollowerDisplayName = (follower: Follower): string => {
     if (follower.displayName) {
       return follower.displayName
@@ -109,23 +109,23 @@ export function FollowerList({
             Sources
           </h3>
           <p className="mt-2 [font-family:var(--font-serif)] text-[18px] leading-7 text-[var(--foreground)]">
-            按作者筛选时间线
+            Filter the timeline by source
           </p>
         </div>
       </div>
 
       <div className="mt-3 hidden [font-family:var(--font-sans)] text-xs tracking-[0.14em] text-[var(--muted-foreground)] xl:block">
-        {isAllSelected ? `全部 ${selectedCount}` : `已选 ${selectedCount}`}
+        {isAllSelected ? `All ${selectedCount}` : `Selected ${selectedCount}`}
       </div>
 
       <div className="hidden xl:block border-y border-[var(--border)] mt-4">
         <button
           onClick={() => onToggleUser('')}
           className={clsx(
-            'flex w-full items-center gap-3 border-b border-[var(--border)] px-3 py-3 text-left transition-colors duration-150',
+            'interactive-control flex w-full items-center gap-3 border-b border-[var(--border)] px-3 py-3 text-left transition-colors duration-150',
             isAllSelected
               ? 'bg-[var(--foreground)] text-[var(--background)]'
-              : 'bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--muted)]'
+              : 'bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--surface-hover)]'
           )}
         >
           <div
@@ -136,21 +136,21 @@ export function FollowerList({
                 : 'border-[var(--border)] text-[var(--muted-foreground)]'
             )}
           >
-            全
+            All
           </div>
           <div className="min-w-0 flex-1">
             <div className="[font-family:var(--font-sans)] text-sm font-bold tracking-[0.12em]">
-              全部
+              All
             </div>
             <div
               className={clsx(
                 '[font-family:var(--font-sans)] text-xs',
                 isAllSelected
-                  ? 'text-white/72'
+                  ? 'text-[var(--inverted-muted-foreground)]'
                   : 'text-[var(--muted-foreground)]'
               )}
             >
-              显示所有关注者的推文
+              Show tweets from every source
             </div>
           </div>
           {isAllSelected && (
@@ -167,10 +167,10 @@ export function FollowerList({
               key={follower.username}
               onClick={() => onToggleUser(follower.username)}
               className={clsx(
-                'flex w-full items-center gap-3 border-b border-[var(--border)] px-3 py-3 text-left transition-colors duration-150 last:border-b-0',
+                'interactive-control flex w-full items-center gap-3 border-b border-[var(--border)] px-3 py-3 text-left transition-colors duration-150 last:border-b-0',
                 isSelected
                   ? 'bg-[var(--foreground)] text-[var(--background)]'
-                  : 'bg-[var(--background)] hover:bg-[var(--muted)]'
+                  : 'bg-[var(--background)] hover:bg-[var(--surface-hover)]'
               )}
             >
               <div className="flex-shrink-0">
@@ -188,7 +188,7 @@ export function FollowerList({
                   className={clsx(
                     'truncate [font-family:var(--font-sans)] text-xs',
                     isSelected
-                      ? 'text-white/72'
+                      ? 'text-[var(--inverted-muted-foreground)]'
                       : 'text-[var(--muted-foreground)]'
                   )}
                 >
@@ -197,7 +197,7 @@ export function FollowerList({
               </div>
               {isSelected && (
                 <span className="flex-shrink-0 [font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.14em] text-[var(--background)]">
-                  已选
+                  Selected
                 </span>
               )}
             </button>
@@ -209,13 +209,15 @@ export function FollowerList({
         <button
           type="button"
           onClick={() => setIsMobileDrawerOpen(true)}
-          className="fixed bottom-4 left-4 z-40 inline-flex h-12 items-center gap-2 border border-[var(--foreground)] bg-[var(--background)] px-4 [font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.16em] text-[var(--foreground)] shadow-[0_10px_30px_rgba(0,0,0,0.08)] transition-colors duration-150 hover:bg-[var(--muted)]"
-          aria-label="打开作者筛选"
+          className="interactive-control fixed bottom-4 left-4 z-40 inline-flex h-12 items-center gap-2 border border-[var(--foreground)] bg-[var(--background-elevated)] px-4 [font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.16em] text-[var(--foreground)] backdrop-blur-sm transition-colors duration-150 hover:bg-[var(--surface-hover)]"
+          aria-label="Open source filters"
         >
           <Filter className="h-4 w-4" />
-          <span>来源</span>
+          <span>Sources</span>
           <span className="border-l border-[var(--border)] pl-2 text-[var(--muted-foreground)]">
-            {isAllSelected ? `全部 ${selectedCount}` : `已选 ${selectedCount}`}
+            {isAllSelected
+              ? `All ${selectedCount}`
+              : `Selected ${selectedCount}`}
           </span>
         </button>
 
@@ -223,12 +225,12 @@ export function FollowerList({
           <>
             <button
               type="button"
-              className="fixed inset-0 z-50 bg-black/35 backdrop-blur-[2px]"
+              className="animate-fade-in fixed inset-0 z-50 bg-[var(--overlay)] backdrop-blur-[2px]"
               onClick={() => setIsMobileDrawerOpen(false)}
-              aria-label="关闭作者筛选"
+              aria-label="Close source filters"
             />
 
-            <div className="fixed inset-x-0 bottom-0 z-[60] max-h-[78vh] overflow-hidden border-t border-[var(--foreground)] bg-[var(--background)]">
+            <div className="animate-panel-in fixed inset-x-0 bottom-0 z-[60] max-h-[78vh] overflow-hidden border-t border-[var(--foreground)] bg-[var(--background)]">
               <div className="mx-auto mt-3 h-1.5 w-12 bg-[var(--border)]" />
 
               <div className="flex items-start justify-between gap-4 border-b border-[var(--border)] px-4 pb-4 pt-4">
@@ -237,15 +239,15 @@ export function FollowerList({
                     Sources
                   </div>
                   <div className="mt-2 [font-family:var(--font-serif)] text-[22px] leading-none text-[var(--foreground)]">
-                    筛选作者
+                    Filter sources
                   </div>
                 </div>
 
                 <button
                   type="button"
                   onClick={() => setIsMobileDrawerOpen(false)}
-                  className="flex h-10 w-10 items-center justify-center border border-[var(--border)] text-[var(--muted-foreground)] transition-colors hover:bg-[var(--muted)] hover:text-[var(--foreground)]"
-                  aria-label="关闭筛选抽屉"
+                  className="interactive-control flex h-10 w-10 items-center justify-center border border-[var(--border)] text-[var(--muted-foreground)] transition-colors hover:bg-[var(--surface-hover)] hover:text-[var(--foreground)]"
+                  aria-label="Close source filter drawer"
                 >
                   <X className="h-4 w-4" />
                 </button>
@@ -254,16 +256,16 @@ export function FollowerList({
               <div className="flex items-center justify-between gap-3 border-b border-[var(--border)] px-4 py-3 [font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.14em] text-[var(--muted-foreground)]">
                 <span>
                   {isAllSelected
-                    ? `全部 ${selectedCount}`
-                    : `已选 ${selectedCount}`}
+                    ? `All ${selectedCount}`
+                    : `Selected ${selectedCount}`}
                 </span>
                 {!isAllSelected && (
                   <button
                     type="button"
                     onClick={() => onToggleUser('')}
-                    className="text-[var(--foreground)]"
+                    className="interactive-link text-[var(--foreground)] underline-offset-4 hover:underline"
                   >
-                    清空
+                    Clear
                   </button>
                 )}
               </div>
@@ -274,10 +276,10 @@ export function FollowerList({
                     type="button"
                     onClick={() => onToggleUser('')}
                     className={clsx(
-                      'flex w-full items-center gap-3 border px-3 py-3 text-left transition-colors duration-150',
+                      'interactive-control flex w-full items-center gap-3 border px-3 py-3 text-left transition-colors duration-150',
                       isAllSelected
                         ? 'border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)]'
-                        : 'border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--muted)]'
+                        : 'border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--surface-hover)]'
                     )}
                   >
                     <div
@@ -288,21 +290,21 @@ export function FollowerList({
                           : 'border-[var(--border)] text-[var(--muted-foreground)]'
                       )}
                     >
-                      全
+                      All
                     </div>
                     <div className="min-w-0 flex-1">
                       <div className="[font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.14em]">
-                        全部
+                        All
                       </div>
                       <div
                         className={clsx(
                           'mt-1 [font-family:var(--font-sans)] text-xs',
                           isAllSelected
-                            ? 'text-white/72'
+                            ? 'text-[var(--inverted-muted-foreground)]'
                             : 'text-[var(--muted-foreground)]'
                         )}
                       >
-                        显示所有来源
+                        Show all sources
                       </div>
                     </div>
                   </button>
@@ -315,10 +317,10 @@ export function FollowerList({
                         type="button"
                         onClick={() => onToggleUser(follower.username)}
                         className={clsx(
-                          'flex w-full items-center gap-3 border px-3 py-3 text-left transition-colors duration-150',
+                          'interactive-control flex w-full items-center gap-3 border px-3 py-3 text-left transition-colors duration-150',
                           isSelected
                             ? 'border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)]'
-                            : 'border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--muted)]'
+                            : 'border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--surface-hover)]'
                         )}
                       >
                         <div className="flex-shrink-0">
@@ -336,7 +338,7 @@ export function FollowerList({
                             className={clsx(
                               'mt-1 truncate [font-family:var(--font-sans)] text-xs',
                               isSelected
-                                ? 'text-white/72'
+                                ? 'text-[var(--inverted-muted-foreground)]'
                                 : 'text-[var(--muted-foreground)]'
                             )}
                           >
@@ -345,7 +347,7 @@ export function FollowerList({
                         </div>
                         {isSelected && (
                           <span className="[font-family:var(--font-sans)] text-[11px] font-bold tracking-[0.14em]">
-                            已选
+                            Selected
                           </span>
                         )}
                       </button>

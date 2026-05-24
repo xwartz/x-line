@@ -21,15 +21,15 @@ export function Button({
   return (
     <button
       className={clsx(
-        'inline-flex items-center justify-center border [font-family:var(--font-sans)] font-bold uppercase tracking-[0.16em] transition-colors',
-        'focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[var(--foreground)]',
+        'interactive-control inline-flex items-center justify-center border [font-family:var(--font-sans)] font-bold uppercase tracking-[0.16em] transition-colors',
+        'focus:outline-none focus:ring-2 focus:ring-[var(--foreground)] focus:ring-offset-2 focus:ring-offset-[var(--background)]',
         'disabled:opacity-50 disabled:cursor-not-allowed',
         {
-          'border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)] hover:bg-[var(--muted)] hover:text-[var(--foreground)]':
+          'border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)] hover:bg-[var(--surface-hover)] hover:text-[var(--foreground)]':
             variant === 'primary',
-          'border-[var(--foreground)] bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--muted)]':
+          'border-[var(--foreground)] bg-[var(--background)] text-[var(--foreground)] hover:bg-[var(--surface-hover)]':
             variant === 'secondary',
-          'border-[var(--border)] bg-transparent text-[var(--muted-foreground)] hover:bg-[var(--muted)] hover:text-[var(--foreground)]':
+          'border-[var(--border)] bg-transparent text-[var(--muted-foreground)] hover:border-[var(--foreground)] hover:bg-[var(--surface-hover)] hover:text-[var(--foreground)]':
             variant === 'ghost',
           'h-10 px-4 text-[11px]': size === 'sm',
           'h-11 px-5 text-xs': size === 'md',

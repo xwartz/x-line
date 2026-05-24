@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 /**
- * 验证关注者列表 JSON 文件格式
+ * Validate follower list configuration.
  *
- * 使用方式:
+ * Usage:
  *   node scripts/validate-followers.mjs
  */
 
@@ -27,13 +27,13 @@ function parseTextFile() {
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i].trim()
 
-    // 跳过空行和注释
+    // Skip blank lines and comments.
     if (!line || line.startsWith('#')) {
       continue
     }
 
-    // 解析行：支持 username 或 username,group
-    // displayName 会从推文数据中自动获取，不需要在配置中指定
+    // Support either username or username,group lines.
+    // displayName is derived automatically from tweet data.
     const parts = line.split(',').map(p => p.trim())
     const username = parts[0]
 
@@ -45,7 +45,7 @@ function parseTextFile() {
       username: username
     }
 
-    // 可选字段：分组（第二个参数是 group，不再是 displayName）
+    // Optional second field: group.
     if (parts[1]) {
       follower.group = parts[1]
     }
@@ -72,12 +72,12 @@ function parseJsonFile() {
 function validateFollowers() {
   console.log('Validating followers configuration...\n')
 
-  // 优先使用文本格式
+  // Prefer the text source format.
   let followers = parseTextFile()
   const sourceFile = followers ? FOLLOWERS_TXT_FILE : FOLLOWERS_JSON_FILE
   const sourceType = followers ? 'text' : 'JSON'
 
-  // 如果文本格式不存在，尝试 JSON 格式（向后兼容）
+  // Fall back to JSON for backward compatibility.
   if (!followers) {
     try {
       followers = parseJsonFile()
@@ -88,23 +88,23 @@ function validateFollowers() {
     }
   }
 
-  // 检查文件是否存在
+  // Ensure a follower source exists.
   if (!followers || followers.length === 0) {
     console.error(`❌ Error: No followers found!`)
     console.error(
       `\nPlease create ${FOLLOWERS_TXT_FILE} with the following format:`
     )
     console.error('')
-    console.error('# 每行一个用户名')
+    console.error('# one username per line')
     console.error('elonmusk,Elon Musk,Tech')
     console.error('jack,Jack Dorsey,Tech')
-    console.error('# 或者简单格式')
+    console.error('# or simple format')
     console.error('naval')
     console.error('VitalikButerin')
     process.exit(1)
   }
 
-  // 验证每个关注者
+  // Validate each follower entry.
   const errors = []
   const usernames = new Set()
 
@@ -122,14 +122,14 @@ function validateFollowers() {
       return
     }
 
-    // 检查重复用户名
+    // Check for duplicate usernames.
     const username = follower.username.toLowerCase()
     if (usernames.has(username)) {
       errors.push(`Duplicate username: ${follower.username}`)
     }
     usernames.add(username)
 
-    // 验证可选字段
+    // Validate optional fields.
     if (follower.displayName && typeof follower.displayName !== 'string') {
       errors.push(
         `Follower "${follower.username}": "displayName" must be a string`
@@ -147,7 +147,7 @@ function validateFollowers() {
     process.exit(1)
   }
 
-  // 成功
+  // Success.
   console.log(`✅ ${sourceFile} is valid! (${sourceType} format)`)
   console.log(`\n   Total followers: ${followers.length}`)
   const groups = [...new Set(followers.map(f => f.group).filter(Boolean))]

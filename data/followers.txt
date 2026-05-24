@@ -1,13 +1,13 @@
-# 关注者列表
+# Followed accounts
 #
-# 格式说明：
-# - 每行一个用户名（必需）
-# - 可选：用逗号分隔添加分组，格式: username,group
-#   例如: elonmusk,Tech
-# - 以 # 开头的行为注释，会被忽略
-# - 空行会被忽略
+# Format notes:
+# - One username per line (required)
+# - Optional group via comma: username,group
+#   Example: elonmusk,Tech
+# - Lines starting with # are comments and will be ignored
+# - Blank lines are ignored
 #
-# 示例：
+# Example:
 # elonmusk,Tech
 # jack,Tech
 # naval,Tech

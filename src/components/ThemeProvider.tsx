@@ -35,7 +35,7 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
     return theme
   }, [theme, systemTheme])
 
-  // 立即应用主题，确保与内联脚本一致
+  // Apply the theme immediately so it matches the inline bootstrap script.
   useEffect(() => {
     const shouldBeDark = resolvedTheme === 'dark'
     const hasDarkClass = document.documentElement.classList.contains('dark')

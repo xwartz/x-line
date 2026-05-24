@@ -1,4 +1,4 @@
-// 推文类型
+// Tweet model
 export interface Tweet {
   id: string
   username: string
@@ -9,16 +9,16 @@ export interface Tweet {
   publishedAt: Date | string
   link: string
 
-  // 媒体内容
+  // Attached media
   media?: TweetMedia[]
 
-  // 转推信息
+  // Repost metadata
   retweet?: {
     username: string
     displayName: string
   }
 
-  // 引用推文
+  // Quoted post
   quote?: {
     username: string
     displayName: string
@@ -28,7 +28,7 @@ export interface Tweet {
     media?: TweetMedia[]
   }
 
-  // 统计数据
+  // Engagement metrics
   stats?: {
     replies: number
     retweets: number
@@ -43,7 +43,7 @@ export interface TweetMedia {
   alt?: string
 }
 
-// 关注者配置
+// Followed account configuration
 export interface Follower {
   username: string
   displayName?: string

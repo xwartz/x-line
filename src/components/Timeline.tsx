@@ -1,5 +1,5 @@
 import { formatDistanceToNow } from 'date-fns'
-import { zhCN } from 'date-fns/locale'
+import { enUS } from 'date-fns/locale'
 import { MessageSquare } from 'lucide-react'
 import type { Tweet } from '../types'
 import { TweetCard } from './TweetCard'
@@ -20,7 +20,7 @@ export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
             Timeline
           </p>
           <h2 className="[font-family:var(--font-display)] text-[24px] font-normal leading-none tracking-[-0.04em] sm:mt-2 sm:text-[32px]">
-            时间线
+            Timeline
           </h2>
         </div>
         {lastUpdated && (
@@ -28,14 +28,14 @@ export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
             <span className="sm:hidden">
               {formatDistanceToNow(lastUpdated, {
                 addSuffix: true,
-                locale: zhCN
+                locale: enUS
               })}
             </span>
             <span className="hidden sm:inline">
-              更新于{' '}
+              Updated{' '}
               {formatDistanceToNow(lastUpdated, {
                 addSuffix: true,
-                locale: zhCN
+                locale: enUS
               })}
             </span>
           </span>
@@ -53,10 +53,10 @@ export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
               </div>
               <div>
                 <h3 className="[font-family:var(--font-display)] text-2xl font-normal text-[var(--foreground)]">
-                  暂无推文
+                  No tweets yet
                 </h3>
                 <p className="mx-auto mt-2 max-w-md [font-family:var(--font-sans)] text-sm leading-6 text-[var(--muted-foreground)]">
-                  请运行脚本获取数据
+                  Run the fetch script to load data.
                 </p>
               </div>
             </div>
@@ -70,7 +70,7 @@ export function Timeline({ tweets, lastUpdated, isLoading }: TimelineProps) {
             </div>
             <div className="border-t border-[var(--border)] py-4 text-center">
               <span className="[font-family:var(--font-sans)] text-xs tracking-[0.14em] text-[var(--muted-foreground)]">
-                共 {tweets.length} 条推文
+                {tweets.length} tweets total
               </span>
             </div>
           </>

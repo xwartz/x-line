@@ -1,84 +1,84 @@
-# 关注者列表配置
+# Follower Configuration
 
-## 概述
+## Overview
 
-关注者列表统一管理在 `data/followers.txt` 文件中（文本格式），通过 `build-followers.mjs` 脚本自动生成 `followers.json` 供前端使用。
+The follower list is managed in `data/followers.txt` as editable text, then converted to `followers.json` by `build-followers.mjs` for frontend use.
 
-## 数据流
+## Data Flow
 
 ```
-data/followers.txt (文本格式)
+data/followers.txt (text format)
     ↓ scripts/build-followers.mjs
-data/followers.json (JSON 格式)
+data/followers.json (generated JSON)
     ↓
-scripts/fetch-tweets.mjs (读取)
-src/config/followers.ts (导入)
+scripts/fetch-tweets.mjs (reads)
+src/config/followers.ts (imports)
 ```
 
-## 使用方法
+## How to Use It
 
-### 方法 1: GitHub Web UI（推荐）
+### Method 1: GitHub Web UI (Recommended)
 
-1. 打开 [`data/followers.txt`](../../data/followers.txt)
-2. 点击 ✏️ 编辑按钮
-3. 编辑文本文件，每行一个用户名
-4. 提交更改后，GitHub Action 会自动触发推文抓取
+1. Open [`data/followers.txt`](../../data/followers.txt)
+2. Click the edit button
+3. Update the text file with one username per line
+4. After you commit the change, GitHub Actions will automatically trigger tweet fetching
 
-### 方法 2: GitHub Actions
+### Method 2: GitHub Actions
 
-1. 访问 Actions → Manage Followers
-2. 点击 Run workflow
-3. 选择操作类型：`add` 或 `remove`
-4. 填写用户名和可选分组
-5. 执行 workflow
+1. Go to Actions → Manage Followers
+2. Click Run workflow
+3. Choose an action: `add` or `remove`
+4. Enter the username and optional group
+5. Run the workflow
 
-### 方法 3: 本地命令行
+### Method 3: Local Command Line
 
 ```bash
-# 添加关注者
+# Add a follower
 pnpm run manage-followers add <username> [group]
 
-# 删除关注者
+# Remove a follower
 pnpm run manage-followers remove <username>
 
-# 验证配置
+# Validate the configuration
 pnpm run validate-followers
 
-# 构建 JSON
+# Build the generated JSON
 pnpm run build-followers
 ```
 
-## 文本格式
+## Text Format
 
-`followers.txt` 使用简单的文本格式：
+`followers.txt` uses a simple text format:
 
 ```
-# 注释行以 # 开头，会被忽略
-# 空行会被忽略
+# Comment lines start with # and are ignored
+# Blank lines are ignored
 
-# 最简单格式（推荐）
+# Simplest format (recommended)
 username
 
-# 带分组格式（可选）
+# Grouped format (optional)
 username,group
 
-# 示例
+# Example
 elonmusk
 naval,Tech
 VitalikButerin,Crypto
 ```
 
-### 格式说明
+### Format Notes
 
-- **简单格式**: `username` - 只写用户名
-- **带分组格式**: `username,group` - 用户名和分组，用逗号分隔
-- **注释**: 以 `#` 开头的行会被忽略
-- **空行**: 会被忽略
-- **displayName**: 会从推文数据中自动获取，无需手动配置
+- **Simple format**: `username` - username only
+- **Grouped format**: `username,group` - username and group separated by a comma
+- **Comments**: lines beginning with `#` are ignored
+- **Blank lines**: ignored
+- **displayName**: automatically derived from tweet data and does not need to be configured manually
 
-## JSON 格式
+## JSON Format
 
-`followers.json` 由脚本自动生成，格式如下：
+`followers.json` is generated automatically in this shape:
 
 ```json
 {
@@ -94,61 +94,61 @@ VitalikButerin,Crypto
 }
 ```
 
-### 字段说明
+### Field Reference
 
-| 字段          | 类型   | 必需 | 说明                           |
-| ------------- | ------ | ---- | ------------------------------ |
-| `username`    | string | ✅   | X 用户名，不包含 @ 符号        |
-| `group`       | string | ❌   | 分组名称，用于分类管理         |
-| `displayName` | string | ❌   | 显示名称，从推文数据中自动获取 |
+| Field         | Type   | Required | Description                              |
+| ------------- | ------ | -------- | ---------------------------------------- |
+| `username`    | string | ✅       | X username, without the `@` symbol       |
+| `group`       | string | ❌       | Group name used for organization         |
+| `displayName` | string | ❌       | Display name derived automatically       |
 
 ## GitHub Actions
 
 ### Fetch Tweets Workflow
 
-以下情况会自动触发推文抓取：
+Tweet fetching runs automatically when any of these conditions are met:
 
-- 定时执行：每 15 分钟
-- 手动触发：在 Actions 页面手动触发
-- 文件变化：`data/followers.txt` 或 `data/followers.json` 被修改时
+- Scheduled run: every 15 minutes
+- Manual run from the Actions page
+- File changes to `data/followers.txt` or `data/followers.json`
 
 ### Manage Followers Workflow
 
-用于通过 GitHub Web UI 添加或删除关注者：
+Use this workflow to add or remove followers from the GitHub Web UI:
 
-- 手动触发：Actions → Manage Followers → Run workflow
-- 操作类型：`add` 或 `remove`
-- 自动处理：更新文件、验证配置、提交更改、触发推文抓取
+- Manual trigger: Actions → Manage Followers → Run workflow
+- Action type: `add` or `remove`
+- Automated steps: update the file, validate config, commit changes, and trigger tweet fetching
 
-## 脚本命令
+## Script Commands
 
 ```bash
-# 管理关注者
+# Manage followers
 pnpm run manage-followers add <username> [group]
 pnpm run manage-followers remove <username>
 
-# 构建 followers.json
+# Build followers.json
 pnpm run build-followers
 
-# 验证配置
+# Validate the configuration
 pnpm run validate-followers
 
-# 抓取推文
+# Fetch tweets
 pnpm run fetch-tweets
 ```
 
-## 故障排除
+## Troubleshooting
 
-### 格式错误
+### Format Errors
 
-运行验证脚本查看详细错误：
+Run the validation script to inspect detailed errors:
 
 ```bash
 pnpm run validate-followers
 ```
 
-### GitHub Action 失败
+### GitHub Action Failures
 
-1. 访问仓库的 Actions 页面
-2. 查看最新的 workflow 运行记录
-3. 检查错误信息
+1. Open the repository Actions page
+2. Inspect the latest workflow run
+3. Review the reported error details

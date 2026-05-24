@@ -15,7 +15,7 @@ export function Logo({ className, size = 24 }: LogoProps) {
       fill="none"
       className={clsx('text-[var(--accent)]', className)}
     >
-      {/* 极简X字母 */}
+      {/* Minimal X mark */}
       <path
         d="M22 22 L42 42 M42 22 L22 42"
         stroke="currentColor"
@@ -23,7 +23,7 @@ export function Logo({ className, size = 24 }: LogoProps) {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      {/* 流动箭头 */}
+      {/* Flowing arrow */}
       <path
         d="M46 20 L52 26 L46 32"
         stroke="currentColor"
@@ -33,7 +33,7 @@ export function Logo({ className, size = 24 }: LogoProps) {
         fill="none"
         opacity="0.7"
       />
-      {/* 辅助流线 */}
+      {/* Supporting motion strokes */}
       <path
         d="M48 16 L54 22"
         stroke="currentColor"

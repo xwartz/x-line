@@ -1,92 +1,92 @@
 <img src="https://img.shields.io/badge/X--Line-Timeline%20Aggregator-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X-Line Logo">
 
-一个简洁优雅的 X 时间线聚合器
+A clean and elegant X timeline aggregator.
 
-## 快速开始
+## Quick Start
 
-### 本地开发
+### Local Development
 
 ```bash
-# 克隆仓库
+# Clone the repository
 git clone https://github.com/xwartz/x-line.git
 cd x-line
 
-# 安装依赖
+# Install dependencies
 pnpm install
 
-# 构建关注者配置
+# Build the follower configuration
 pnpm run build-followers
 
-# 启动开发服务器
+# Start the development server
 pnpm dev
 ```
 
-访问 http://localhost:3000 查看效果。
+Open http://localhost:3000 to view the app.
 
-## 项目结构
+## Project Structure
 
 ```
 x-line/
-├── src/                    # 源代码
-│   ├── components/         # React 组件
-│   ├── config/             # 配置文件
-│   ├── hooks/              # React Hooks
-│   └── types.ts            # 类型定义
-├── scripts/                # 脚本
-│   ├── fetch-tweets.mjs    # 推文抓取
-│   ├── build-followers.mjs # 构建关注者配置
-│   └── manage-followers.mjs # 管理关注者
-├── data/                   # 数据文件
-│   ├── followers.txt       # 关注者列表（文本）
-│   ├── followers.json      # 关注者列表（JSON，自动生成）
-│   └── tweets.json         # 推文数据
+├── src/                    # Source code
+│   ├── components/         # React components
+│   ├── config/             # Configuration
+│   ├── hooks/              # React hooks
+│   └── types.ts            # Type definitions
+├── scripts/                # Utility scripts
+│   ├── fetch-tweets.mjs    # Fetch tweets
+│   ├── build-followers.mjs # Build follower config
+│   └── manage-followers.mjs # Manage followers
+├── data/                   # Data files
+│   ├── followers.txt       # Follower list (editable source)
+│   ├── followers.json      # Follower list (generated JSON)
+│   └── tweets.json         # Tweet data
 ├── .github/workflows/      # GitHub Actions
-└── docs/                   # 文档
+└── docs/                   # Documentation
 ```
 
-## 技术栈
+## Tech Stack
 
-- **构建工具**: [Vite](https://vitejs.dev/)
-- **框架**: [React](https://react.dev/)
-- **语言**: [TypeScript](https://www.typescriptlang.org/)
-- **样式**: [Tailwind CSS](https://tailwindcss.com/)
-- **数据源**: [Nitter](https://github.com/zedeus/nitter)
-- **自动化**: GitHub Actions
+- **Build tool**: [Vite](https://vitejs.dev/)
+- **Framework**: [React](https://react.dev/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Data source**: [Nitter](https://github.com/zedeus/nitter)
+- **Automation**: GitHub Actions
 
-## 脚本命令
+## Script Commands
 
 ```bash
-# 开发
-pnpm dev              # 启动开发服务器
+# Development
+pnpm dev              # Start the dev server
 
-# 构建
-pnpm build            # 构建生产版本
+# Build
+pnpm build            # Build for production
 
-# 数据管理
-pnpm run build-followers      # 构建关注者配置
-pnpm run validate-followers   # 验证关注者配置
-pnpm run manage-followers     # 管理关注者（add/remove）
-pnpm run fetch-tweets         # 抓取推文
+# Data management
+pnpm run build-followers      # Build follower config
+pnpm run validate-followers   # Validate follower config
+pnpm run manage-followers     # Manage followers (add/remove)
+pnpm run fetch-tweets         # Fetch tweets
 ```
 
-## 自动化工作流
+## Automation
 
-- **CI**: 在推送和 PR 时执行 lint/build。
-- **依赖更新**: 每周自动更新依赖并创建 PR。
-- **自动合并**: 当 CI 通过后自动合并符合条件的 PR（依赖更新标签或指定机器人账号）。
+- **CI**: Runs lint and build on pushes and pull requests.
+- **Dependency updates**: Automatically updates dependencies weekly and opens PRs.
+- **Auto-merge**: Automatically merges eligible PRs after CI passes.
 
-## 贡献
+## Contributing
 
-欢迎提交 Issue 和 Pull Request！
+Issues and pull requests are welcome.
 
-## 许可证
+## License
 
 [MIT License](LICENSE)
 
-## 致谢
+## Acknowledgments
 
-- [Nitter](https://github.com/zedeus/nitter) - 提供推文数据源
-- [x-gpt.bwequation.com](https://x-gpt.bwequation.com/) - 功能灵感来源
+- [Nitter](https://github.com/zedeus/nitter) - Provides the tweet data source
+- [x-gpt.bwequation.com](https://x-gpt.bwequation.com/) - Feature inspiration
 
 ---
 

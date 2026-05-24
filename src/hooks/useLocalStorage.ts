@@ -1,16 +1,16 @@
 import { useCallback, useEffect, useState } from 'react'
 
 /**
- * 通用的本地存储 Hook
- * @param key 存储键名
- * @param initialValue 初始值
- * @returns [storedValue, setValue, removeValue] 存储的值、设置函数、删除函数
+ * Generic localStorage hook.
+ * @param key Storage key name.
+ * @param initialValue Initial value.
+ * @returns [storedValue, setValue, removeValue]
  */
 export function useLocalStorage<T>(
   key: string,
   initialValue: T
 ): [T, (value: T | ((val: T) => T)) => void, () => void] {
-  // 状态初始化函数，只在首次渲染时执行
+  // Initialize state only on the first render.
   const [storedValue, setStoredValue] = useState<T>(() => {
     if (typeof window === 'undefined') {
       return initialValue
@@ -25,11 +25,11 @@ export function useLocalStorage<T>(
     }
   })
 
-  // 设置值的函数
+  // Update the stored value.
   const setValue = useCallback(
     (value: T | ((val: T) => T)) => {
       try {
-        // 支持函数式更新
+        // Support functional updates.
         const valueToStore =
           value instanceof Function ? value(storedValue) : value
         setStoredValue(valueToStore)
@@ -44,7 +44,7 @@ export function useLocalStorage<T>(
     [key, storedValue]
   )
 
-  // 删除值的函数
+  // Remove the stored value.
   const removeValue = useCallback(() => {
     try {
       setStoredValue(initialValue)
@@ -56,7 +56,7 @@ export function useLocalStorage<T>(
     }
   }, [key, initialValue])
 
-  // 监听 localStorage 变化（用于多标签页同步）
+  // Listen for localStorage changes to keep tabs in sync.
   useEffect(() => {
     if (typeof window === 'undefined') {
       return

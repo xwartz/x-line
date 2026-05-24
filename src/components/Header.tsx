@@ -11,7 +11,10 @@ export function Header() {
           </span>
         </div>
 
-        <a href="/" className="justify-self-center no-underline">
+        <a
+          href="/"
+          className="interactive-link justify-self-center no-underline transition-opacity duration-150 hover:opacity-80"
+        >
           <span className="[font-family:var(--font-display)] text-[24px] font-normal tracking-[-0.05em] text-[var(--foreground)] sm:text-[34px]">
             X-Line
           </span>
@@ -23,7 +26,7 @@ export function Header() {
             href="https://github.com/xwartz/x-line"
             target="_blank"
             rel="noopener noreferrer"
-            className="hidden h-10 min-w-10 items-center justify-center border border-[var(--foreground)] bg-[var(--background)] px-3 transition-colors duration-150 hover:bg-[var(--muted)] sm:flex"
+            className="interactive-control hidden h-10 min-w-10 items-center justify-center border border-[var(--foreground)] bg-[var(--background)] px-3 transition-colors duration-150 hover:bg-[var(--surface-hover)] sm:flex"
             title="GitHub"
           >
             <svg

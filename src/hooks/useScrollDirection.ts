@@ -19,10 +19,10 @@ export function useScrollDirection(options: UseScrollDirectionOptions = {}) {
     const updateScrollDirection = () => {
       const scrollY = window.scrollY
 
-      // 检查是否在顶部
+      // Check whether the viewport is still near the top.
       setIsAtTop(scrollY < threshold)
 
-      // 计算滚动方向
+      // Determine the current scroll direction.
       const direction = scrollY > lastScrollY ? 'down' : 'up'
       if (
         direction !== scrollDirection &&

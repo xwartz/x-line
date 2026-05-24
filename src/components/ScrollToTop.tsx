@@ -39,8 +39,8 @@ export function ScrollToTop() {
   return (
     <button
       onClick={scrollToTop}
-      className="fixed bottom-5 right-4 z-50 flex h-11 w-11 items-center justify-center border border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)] transition-colors duration-200 hover:bg-[var(--muted)] hover:text-[var(--foreground)] focus:outline-none focus:ring-2 focus:ring-[var(--foreground)] focus:ring-offset-2 sm:bottom-8 sm:right-8"
-      aria-label="滚动到顶部"
+      className="interactive-control animate-panel-in fixed bottom-5 right-4 z-50 flex h-11 w-11 items-center justify-center border border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)] transition-colors duration-200 hover:bg-[var(--surface-hover)] hover:text-[var(--foreground)] focus:outline-none focus:ring-2 focus:ring-[var(--foreground)] focus:ring-offset-2 focus:ring-offset-[var(--background)] sm:bottom-8 sm:right-8"
+      aria-label="Scroll to top"
     >
       <ArrowUp className="w-5 h-5" />
     </button>

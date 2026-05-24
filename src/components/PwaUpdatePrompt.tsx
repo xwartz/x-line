@@ -30,7 +30,7 @@ export function PwaUpdatePrompt() {
   }
 
   return (
-    <div className="fixed inset-x-4 bottom-20 z-50 mx-auto max-w-sm border border-[var(--foreground)] bg-[var(--background)] p-4 sm:bottom-6 sm:left-1/2 sm:w-full sm:-translate-x-1/2 sm:inset-x-auto">
+    <div className="animate-panel-in fixed inset-x-4 bottom-20 z-50 mx-auto max-w-sm border border-[var(--foreground)] bg-[var(--background-elevated)] p-4 backdrop-blur-sm sm:bottom-6 sm:left-1/2 sm:w-full sm:-translate-x-1/2 sm:inset-x-auto">
       <div className="flex items-start gap-3">
         <div className="mt-0.5 flex h-10 w-10 items-center justify-center border border-[var(--border)] bg-[var(--muted)] text-[var(--foreground)]">
           <RefreshCw className="h-4 w-4" />
@@ -41,13 +41,15 @@ export function PwaUpdatePrompt() {
             {needRefresh ? 'Update Ready' : 'Offline Ready'}
           </div>
           <p className="mt-2 text-[16px] leading-7 text-[var(--foreground)]">
-            {needRefresh ? '刷新即可启用最新缓存。' : '当前版本已可离线打开。'}
+            {needRefresh
+              ? 'Refresh to apply the latest cached version.'
+              : 'This version is now available offline.'}
           </p>
 
           <div className="mt-4 flex flex-wrap gap-2">
             {needRefresh ? (
               <Button size="sm" onClick={() => updateServiceWorker(true)}>
-                立即刷新
+                Refresh now
               </Button>
             ) : (
               <Button
@@ -55,7 +57,7 @@ export function PwaUpdatePrompt() {
                 variant="secondary"
                 onClick={() => setOfflineReady(false)}
               >
-                知道了
+                Dismiss
               </Button>
             )}
 
@@ -65,7 +67,7 @@ export function PwaUpdatePrompt() {
                 variant="ghost"
                 onClick={() => setNeedRefresh(false)}
               >
-                稍后
+                Later
               </Button>
             )}
           </div>
@@ -77,8 +79,8 @@ export function PwaUpdatePrompt() {
             setOfflineReady(false)
             setNeedRefresh(false)
           }}
-          className="flex h-8 w-8 items-center justify-center border border-[var(--border)] text-[var(--muted-foreground)] transition-colors hover:bg-[var(--muted)] hover:text-[var(--foreground)]"
-          aria-label="关闭 PWA 提示"
+          className="interactive-control flex h-8 w-8 items-center justify-center border border-[var(--border)] text-[var(--muted-foreground)] transition-colors hover:bg-[var(--surface-hover)] hover:text-[var(--foreground)]"
+          aria-label="Close PWA prompt"
         >
           <X className="h-4 w-4" />
         </button>
