@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T18:52:43.275Z",
+  "lastUpdated": "2026-05-24T19:30:35.295Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,54 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 583,
+    "newFetched": 582,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2058628740884897983",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
+      "content": "？",
+      "contentHtml": "？",
+      "publishedAt": "2026-05-24T19:18:00.000Z",
+      "link": "https://x.com/hazenlee/status/2058628740884897983",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJG37OOaQAAKtfQ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058622690832048148",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
+      "content": "梭哈的不应该是某次机会\n而是一直赚大亏少的能力\n梭哈赚一次 你有一百次亏光也是白费\n竹篮打水一场空\n经常看到赌狗们这波a几就收手\n没见一个上岸的\n最后全都下海了\n没有风控底线的投资不叫投资\n叫消费",
+      "contentHtml": "梭哈的不应该是某次机会\n而是一直赚大亏少的能力\n梭哈赚一次 你有一百次亏光也是白费\n竹篮打水一场空\n经常看到赌狗们这波a几就收手\n没见一个上岸的\n最后全都下海了\n没有风控底线的投资不叫投资\n叫消费",
+      "publishedAt": "2026-05-24T18:54:00.000Z",
+      "link": "https://x.com/hazenlee/status/2058622690832048148",
+      "quote": {
+        "username": "LucretianDelta",
+        "displayName": "墙内偏移",
+        "content": "其实我有时候也挺羡慕那些动不动就敢梭哈的人，我就做不出来这样的事，25年初，和炒股的群友们聊天，我说就算特朗普本人现在打电话告诉我明天拉盘，我也只会梭进去80%而不是全仓，这大概就是我这个人最高的风险偏好。\n\n回想这些年认真玩的和不认真玩的时候，无论是加密、股票还是期货，真的从未有过100%满仓身家全部干进去的时候，甚至连80%都没有过。\n\n我对不确定性既喜爱又尊重，可能一部分是因为天生胆小，一部分是因为成长经历。我是做题家出身，一路学的专业也都是应用物理相关的，直到读博时期一线的接触真正的实验、工艺、制造后才知道不确定性的重要性。这指的倒不是量子力学统计力学之类本身存在的不确定性，而是实验中不可控的东西太多了。一个成熟的半导体工艺，在商业公司中可以盈利的，对良品率的要求其实是很夸张的。在实验室里，我们做的东西不确定的地方太多了，一个器件设计时的工作波长应该是450-550nm，FDTD仿真跑出来可能就是480-580nm比较好，最后去超净间里一步步fab出来再检测，这个工作波长可能是465-565nm（数据我随便说的举个例子，不代表任何实际器件），其他方面可能它的resonance和设计的差的更远。\n\n在基础数学和理论物理中比较习以为常的确定性，在实验中是非常非常脆弱的。这样几年的经历一方面让我抹去了对“科研”的滤镜，一方面也让我更加的尊重不确定性。做纳米级别的光电器件工艺研究，已经算是人类对“精确性”要求最高的事情之一了吧？然而我们处理的大量工作，其实都是在解决“不确定性”的问题：如何补偿、如何降噪；Extinction Ratio低的时候怎么办；还有一些非常小而实际的问题，做出来的超表面结构层和光传感器层用激光刻在一起的时候，旋转角歪了那么0.5度，后续如何通过数据处理解决这个问题，诸如此类。\n\n这段经历让我深刻理解了现实的复杂系统特征和不确定性主导的概念。可以比较暴力地说，试图掌控一切注定是失败的，无论在物理实验中，市场中还是生活中。\n\n梭哈赢了固然能一下逆天改命，但对我来说，比较重要的或许是梭哈输了的时候，我还能不能继续做下去。你可以说我瞻前顾后，胆小如鼠，但我还是会保持对不确定性本身的敬畏，那句话还可以再拿出来说一遍：就算天网AGI本体现在穿越时空过来告诉我梭哈一个票，我也只会拿出80%去赌。",
+        "contentHtml": "其实我有时候也挺羡慕那些动不动就敢梭哈的人，我就做不出来这样的事，25年初，和炒股的群友们聊天，我说就算特朗普本人现在打电话告诉我明天拉盘，我也只会梭进去80%而不是全仓，这大概就是我这个人最高的风险偏好。\n\n回想这些年认真玩的和不认真玩的时候，无论是加密、股票还是期货，真的从未有过100%满仓身家全部干进去的时候，甚至连80%都没有过。\n\n我对不确定性既喜爱又尊重，可能一部分是因为天生胆小，一部分是因为成长经历。我是做题家出身，一路学的专业也都是应用物理相关的，直到读博时期一线的接触真正的实验、工艺、制造后才知道不确定性的重要性。这指的倒不是量子力学统计力学之类本身存在的不确定性，而是实验中不可控的东西太多了。一个成熟的半导体工艺，在商业公司中可以盈利的，对良品率的要求其实是很夸张的。在实验室里，我们做的东西不确定的地方太多了，一个器件设计时的工作波长应该是450-550nm，FDTD仿真跑出来可能就是480-580nm比较好，最后去超净间里一步步fab出来再检测，这个工作波长可能是465-565nm（数据我随便说的举个例子，不代表任何实际器件），其他方面可能它的resonance和设计的差的更远。\n\n在基础数学和理论物理中比较习以为常的确定性，在实验中是非常非常脆弱的。这样几年的经历一方面让我抹去了对“科研”的滤镜，一方面也让我更加的尊重不确定性。做纳米级别的光电器件工艺研究，已经算是人类对“精确性”要求最高的事情之一了吧？然而我们处理的大量工作，其实都是在解决“不确定性”的问题：如何补偿、如何降噪；Extinction Ratio低的时候怎么办；还有一些非常小而实际的问题，做出来的超表面结构层和光传感器层用激光刻在一起的时候，旋转角歪了那么0.5度，后续如何通过数据处理解决这个问题，诸如此类。\n\n这段经历让我深刻理解了现实的复杂系统特征和不确定性主导的概念。可以比较暴力地说，试图掌控一切注定是失败的，无论在物理实验中，市场中还是生活中。\n\n梭哈赢了固然能一下逆天改命，但对我来说，比较重要的或许是梭哈输了的时候，我还能不能继续做下去。你可以说我瞻前顾后，胆小如鼠，但我还是会保持对不确定性本身的敬畏，那句话还可以再拿出来说一遍：就算天网AGI本体现在穿越时空过来告诉我梭哈一个票，我也只会拿出80%去赌。",
+        "link": "https://x.com/LucretianDelta/status/2058580206676574671"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2058594325072671014",
       "username": "0xleng1",
@@ -12103,42 +12146,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HIhY0PDasAA1spW.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055990808407638406",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "Want to catch real-time trading opportunities? Start your 14-day free trial now    \n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "Want to catch real-time trading opportunities? Start your 14-day free trial now    \n👉 <a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-05-17T12:36:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2055990808407638406",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055990805819695130",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "CoinKarma reviewed Bitfinex whale positioning behavior within the consolidation range since February, cross-referencing it with overall liquidity indicators. The two show a remarkably high resonance frequency and these convergence zones have consistently aligned with strong long entry points.\n\n🟩 Green arrows: 10% Overall Liquidity > 3,000 BTC \n🟩 Green boxes: Resonance zones between Bitfinex BTCUSD LONGS and 10% Overall Liquidity\n\nIn theory, these two indicators are entirely unrelated — 10% Overall Liquidity reflects broad market buy/sell-side liquidity, while Bitfinex BTCUSD LONGS tracks leveraged long positions held by Bitfinex whales. Yet in hindsight, the short-term buy signals generated at their convergence points have been remarkably reliable, making this one of the more valuable indicator combinations worth monitoring.",
-      "contentHtml": "CoinKarma reviewed Bitfinex whale positioning behavior within the consolidation range since February, cross-referencing it with overall liquidity indicators. The two show a remarkably high resonance frequency and these convergence zones have consistently aligned with strong long entry points.\n\n🟩 Green arrows: 10% Overall Liquidity &gt; 3,000 BTC \n🟩 Green boxes: Resonance zones between Bitfinex BTCUSD LONGS and 10% Overall Liquidity\n\nIn theory, these two indicators are entirely unrelated — 10% Overall Liquidity reflects broad market buy/sell-side liquidity, while Bitfinex BTCUSD LONGS tracks leveraged long positions held by Bitfinex whales. Yet in hindsight, the short-term buy signals generated at their convergence points have been remarkably reliable, making this one of the more valuable indicator combinations worth monitoring.",
-      "publishedAt": "2026-05-17T12:36:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2055990805819695130",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIhYgMsboAA2pMZ.png"
         }
       ],
       "stats": {
