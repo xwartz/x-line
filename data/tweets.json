@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T22:48:42.019Z",
+  "lastUpdated": "2026-05-24T23:22:18.485Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 584,
+    "newFetched": 583,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2058681862609080463",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "贵金属再次贵起来了",
+      "contentHtml": "贵金属再次贵起来了",
+      "publishedAt": "2026-05-24T22:49:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2058681862609080463",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJHoPXSbcAAYLvP.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2058669201573728514",
       "username": "KillaXBT",
@@ -132,6 +153,25 @@
             "url": "https://pbs.twimg.com/media/HJFuJivXIAAYQxk.png"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058663354512912441",
+      "username": "ArtofSpecuycky",
+      "displayName": "Art of Speculation",
+      "avatar": "https://pbs.twimg.com/profile_images/1974648583057215488/ytfjHPan_bigger.jpg",
+      "content": "跟着黄仁勋的时间线走，每一阶段的钱都在提前切换\n\n过去一年，如果你认真拆老黄每次GTC、财报会、闭门峰会说了什么，会发现AI基建的主线其实一直在切换。真正厉害的资金从来不是等新闻出来再追，而是提前拆下一阶段CapEx会流向哪里。\n\n整个时间线其实非常清晰。\n\n第一阶段：GPU → HBM → CoWoS → Memory\n最早被老黄反复强调的方向。\nBlackwell开始，HBM已经从外围配件升级成AI架构核心。老黄在财报会上明确说了：Blackwell和Vera Rubin的性能瓶颈，越来越取决于HBM带宽与供应。\n很多人还把 $MU当周期股。但老钱已经开始把存储当AI structural asset来定价。\n\n第二阶段：Ethernet → 光通信 → Silicon Photonics\n2026上半年真正爆发的第二条主线。\nAI集群进入十万卡级别后，真正限制效率的已经不是单卡性能，而是GPU之间的数据流动效率。老黄开始疯狂强调Spectrum-X、Ethernet、Scale-Out、Silicon Photonics。\nNVLink解决的是Scale-Up，柜内互联。真正的大规模AI集群最终拼的是Scale-Out，柜外组网。AI越大，Ethernet的地位反而越强。\n$ANET $MRVL $CRDO $ALAB $LITE ——这些AI数据流动收费站开始进入估值扩张阶段。\n\n第三阶段：Inference CPU / Agentic AI\n2026 Q1财报会后华尔街开始重新定价的方向。\n很多人之前觉得AI时代CPU会边缘化。但老黄在5月财报会明确：Inference爆发后，CPU反而重新成为瓶颈。Agentic AI、Inference、Orchestration都需要大量CPU调度。 $ARM $QCOM $ADI $TXN $MCHP开始明显走强。\n很多人还在盯GPU，但老钱已经开始提前布局Inference infrastructure。\n\n第四阶段：AI-RAN + Edge AI + Physical AI\n我认为这是2026下半年到2027真正可能成为主场的方向。\nAI第一阶段是Training，第二阶段是Scale-Out。接下来AI必须真正离开hyperscaler数据中心，进入现实世界。\n老黄已经把话说得很清楚：未来AI会进入运营商网络、边缘节点、基站、机器人、工厂、汽车。AI不会永远只待在云里。\n这一阶段分三类受益方向。\nAI-RAN和边缘网络：未来全球几百万个基站可能都会变成边缘AI节点。真正值钱的是射频、DAC/ADC、FPGA、边缘推理网络。 $NOK是AI−RAN联盟的核心发起人，英伟达直接投资背书。 \nEdge AI和On-Device AI：Agentic AI开始长进PC、手机、汽车、边缘网关。设备端AI最大的问题是低功耗推理加本地memory加实时连接。 $QCOM $SIMO这些传统边缘芯片公司的估值可能会被重新定价。\nPhysical AI和Robotics：散户喜欢炒机器人概念，但真正决定机器人能不能大规模落地的是工业控制、PLC、伺服系统、自动化基础设施。未来真正持续扩估值的，可能不是最性感的人形机器人概念，而是卡住物理世界执行层的工业收费站。 $TSLA $ABB $SYM $ROK。 \n\n总结\nAI的下一阶段已经不只是训练模型。而是让AI真正进入现实世界。每一次老黄开口，都是在提前告诉市场下一阶段的钱会流向哪里。\n\n#PhysicalAI #EdgeAI #AIRAN #光通信 #机器人 #数据中心 #半导体 #AI算力",
+      "contentHtml": "跟着黄仁勋的时间线走，每一阶段的钱都在提前切换\n\n过去一年，如果你认真拆老黄每次GTC、财报会、闭门峰会说了什么，会发现AI基建的主线其实一直在切换。真正厉害的资金从来不是等新闻出来再追，而是提前拆下一阶段CapEx会流向哪里。\n\n整个时间线其实非常清晰。\n\n第一阶段：GPU → HBM → CoWoS → Memory\n最早被老黄反复强调的方向。\nBlackwell开始，HBM已经从外围配件升级成AI架构核心。老黄在财报会上明确说了：Blackwell和Vera Rubin的性能瓶颈，越来越取决于HBM带宽与供应。\n很多人还把 $MU当周期股。但老钱已经开始把存储当AI structural asset来定价。\n\n第二阶段：Ethernet → 光通信 → Silicon Photonics\n2026上半年真正爆发的第二条主线。\nAI集群进入十万卡级别后，真正限制效率的已经不是单卡性能，而是GPU之间的数据流动效率。老黄开始疯狂强调Spectrum-X、Ethernet、Scale-Out、Silicon Photonics。\nNVLink解决的是Scale-Up，柜内互联。真正的大规模AI集群最终拼的是Scale-Out，柜外组网。AI越大，Ethernet的地位反而越强。\n<a href=\"/search?f=tweets&q=%23ANET\">$ANET</a> <a href=\"/search?f=tweets&q=%23MRVL\">$MRVL</a> <a href=\"/search?f=tweets&q=%23CRDO\">$CRDO</a> <a href=\"/search?f=tweets&q=%23ALAB\">$ALAB</a> <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a> ——这些AI数据流动收费站开始进入估值扩张阶段。\n\n第三阶段：Inference CPU / Agentic AI\n2026 Q1财报会后华尔街开始重新定价的方向。\n很多人之前觉得AI时代CPU会边缘化。但老黄在5月财报会明确：Inference爆发后，CPU反而重新成为瓶颈。Agentic AI、Inference、Orchestration都需要大量CPU调度。 <a href=\"/search?f=tweets&q=%23ARM\">$ARM</a> <a href=\"/search?f=tweets&q=%23QCOM\">$QCOM</a> <a href=\"/search?f=tweets&q=%23ADI\">$ADI</a> <a href=\"/search?f=tweets&q=%23TXN\">$TXN</a> $MCHP开始明显走强。\n很多人还在盯GPU，但老钱已经开始提前布局Inference infrastructure。\n\n第四阶段：AI-RAN + Edge AI + Physical AI\n我认为这是2026下半年到2027真正可能成为主场的方向。\nAI第一阶段是Training，第二阶段是Scale-Out。接下来AI必须真正离开hyperscaler数据中心，进入现实世界。\n老黄已经把话说得很清楚：未来AI会进入运营商网络、边缘节点、基站、机器人、工厂、汽车。AI不会永远只待在云里。\n这一阶段分三类受益方向。\nAI-RAN和边缘网络：未来全球几百万个基站可能都会变成边缘AI节点。真正值钱的是射频、DAC/ADC、FPGA、边缘推理网络。 $NOK是AI−RAN联盟的核心发起人，英伟达直接投资背书。 \nEdge AI和On-Device AI：Agentic AI开始长进PC、手机、汽车、边缘网关。设备端AI最大的问题是低功耗推理加本地memory加实时连接。 <a href=\"/search?f=tweets&q=%23QCOM\">$QCOM</a> $SIMO这些传统边缘芯片公司的估值可能会被重新定价。\nPhysical AI和Robotics：散户喜欢炒机器人概念，但真正决定机器人能不能大规模落地的是工业控制、PLC、伺服系统、自动化基础设施。未来真正持续扩估值的，可能不是最性感的人形机器人概念，而是卡住物理世界执行层的工业收费站。 <a href=\"/search?f=tweets&q=%23TSLA\">$TSLA</a> <a href=\"/search?f=tweets&q=%23ABB\">$ABB</a> <a href=\"/search?f=tweets&q=%23SYM\">$SYM</a> $ROK。 \n\n总结\nAI的下一阶段已经不只是训练模型。而是让AI真正进入现实世界。每一次老黄开口，都是在提前告诉市场下一阶段的钱会流向哪里。\n\n<a href=\"/search?f=tweets&q=%23PhysicalAI\">#PhysicalAI</a> <a href=\"/search?f=tweets&q=%23EdgeAI\">#EdgeAI</a> <a href=\"/search?f=tweets&q=%23AIRAN\">#AIRAN</a> <a href=\"/search?f=tweets&q=%23光通信\">#光通信</a> <a href=\"/search?f=tweets&q=%23机器人\">#机器人</a> <a href=\"/search?f=tweets&q=%23数据中心\">#数据中心</a> <a href=\"/search?f=tweets&q=%23半导体\">#半导体</a> <a href=\"/search?f=tweets&q=%23AI算力\">#AI算力</a>",
+      "publishedAt": "2026-05-24T21:36:00.000Z",
+      "link": "https://x.com/ArtofSpecuycky/status/2058663354512912441",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
       },
       "stats": {
         "replies": 0,
@@ -12124,40 +12164,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056010598618648737",
-      "username": "navalpodcast",
-      "displayName": "Naval Podcast",
-      "avatar": "https://pbs.twimg.com/profile_images/2049248689680732160/St8fBFAj_bigger.jpg",
-      "content": "“A taste of freedom can make you unemployable.”\n\n— @naval",
-      "contentHtml": "“A taste of freedom can make you unemployable.”\n\n— <a href=\"/naval\" title=\"Naval\">@naval</a>",
-      "publishedAt": "2026-05-17T13:55:00.000Z",
-      "link": "https://x.com/navalpodcast/status/2056010598618648737",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056009189009543432",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
-      "content": "热知识：\n人类出现以来，几百万年，\n人类发明文字，记录文明以来，5000年。\n\n而现在 2026 年只是，AI 流行并开始用语言模型，\n到多模态学习每个人类以来的，第 4 年 ...\n\n假如现在的你穿越到，\n人类发明文字的第 4 年，你会...？",
-      "contentHtml": "热知识：\n人类出现以来，几百万年，\n人类发明文字，记录文明以来，5000年。\n\n而现在 2026 年只是，AI 流行并开始用语言模型，\n到多模态学习每个人类以来的，第 4 年 ...\n\n假如现在的你穿越到，\n人类发明文字的第 4 年，你会...？",
-      "publishedAt": "2026-05-17T13:49:00.000Z",
-      "link": "https://x.com/coolish/status/2056009189009543432",
       "stats": {
         "replies": 0,
         "retweets": 0,
