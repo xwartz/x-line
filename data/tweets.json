@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T12:22:01.558Z",
+  "lastUpdated": "2026-05-24T12:51:13.786Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 582,
+    "newFetched": 584,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2058529335288414658",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "What I am observing for $BTC \n\nThe next 2-3 months are important.\n\npiped.video/watch?v=raUxi97l…",
+      "contentHtml": "What I am observing for <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nThe next 2-3 months are important.\n\n<a href=\"https://piped.video/watch?v=raUxi97l-1w\">piped.video/watch?v=raUxi97l…</a>",
+      "publishedAt": "2026-05-24T12:43:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2058529335288414658",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJFdaQoWkAAY1iD.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2058515979986940381",
       "username": "0xleng1",
@@ -12167,28 +12188,6 @@
           "url": "https://pbs.twimg.com/media/HIfFFrVbQAAN7sV.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2055825636326076531",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI \n\n经过多天的使用，muxy 是目前我认为 remote vibe coding 的最优解。\n\n1. 连接体验极佳。连接和切换设备都在 0.5s 内完成，哪怕移动网络弱信号下也极快。相对而言最近的 Codex on iOS 连接极其慢，非常不稳定。\n\n2. 可以同时用 Codex、Claude Code、AMP。全功能。\n\n3. 很聪明地放弃了“同步”。同时只能在一台设备上激活窗口，切换设备时点击就秒切。完美避开了其他竞品想做同步，反而带来的各种不同步体验。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n经过多天的使用，muxy 是目前我认为 remote vibe coding 的最优解。\n\n1. 连接体验极佳。连接和切换设备都在 0.5s 内完成，哪怕移动网络弱信号下也极快。相对而言最近的 Codex on iOS 连接极其慢，非常不稳定。\n\n2. 可以同时用 Codex、Claude Code、AMP。全功能。\n\n3. 很聪明地放弃了“同步”。同时只能在一台设备上激活窗口，切换设备时点击就秒切。完美避开了其他竞品想做同步，反而带来的各种不同步体验。",
-      "publishedAt": "2026-05-17T01:40:00.000Z",
-      "link": "https://x.com/taresky/status/2055825636326076531",
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "#AI \n\n如果 SuperSet 支持 iOS remote，就完美了。\n\n尤其是 Remote 的是 SuperSet macOS App，而不是各种 AI CLI。\n\n现在主流的应该是 AI CLI 的 remote bridge，而我认为更合理的是 AI agent workspace app 本身的 remote  工具。\n\n可以完美解决各种兼容性和使用政策变卦的问题。",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n如果 SuperSet 支持 iOS remote，就完美了。\n\n尤其是 Remote 的是 SuperSet macOS App，而不是各种 AI CLI。\n\n现在主流的应该是 AI CLI 的 remote bridge，而我认为更合理的是 AI agent workspace app 本身的 remote  工具。\n\n可以完美解决各种兼容性和使用政策变卦的问题。",
-        "link": "https://x.com/taresky/status/2054775941021454373"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
