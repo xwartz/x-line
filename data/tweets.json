@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T18:33:05.661Z",
+  "lastUpdated": "2026-05-25T19:33:01.554Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,9 +100,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 548,
-    "successUsers": 27,
-    "failedUsers": 3
+    "newFetched": 586,
+    "successUsers": 29,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -1261,6 +1261,50 @@
             "url": "https://pbs.twimg.com/media/HJFuJivXIAAYQxk.png"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058663354512912441",
+      "username": "ArtofSpecuycky",
+      "displayName": "Art of Speculation",
+      "avatar": "https://pbs.twimg.com/profile_images/1974648583057215488/ytfjHPan_bigger.jpg",
+      "content": "跟着黄仁勋的时间线走，每一阶段的钱都在提前切换\n\n过去一年，如果你认真拆老黄每次GTC、财报会、闭门峰会说了什么，会发现AI基建的主线其实一直在切换。真正厉害的资金从来不是等新闻出来再追，而是提前拆下一阶段CapEx会流向哪里。\n\n整个时间线其实非常清晰。\n\n第一阶段：GPU → HBM → CoWoS → Memory\n最早被老黄反复强调的方向。\nBlackwell开始，HBM已经从外围配件升级成AI架构核心。老黄在财报会上明确说了：Blackwell和Vera Rubin的性能瓶颈，越来越取决于HBM带宽与供应。\n很多人还把 $MU当周期股。但老钱已经开始把存储当AI structural asset来定价。\n\n第二阶段：Ethernet → 光通信 → Silicon Photonics\n2026上半年真正爆发的第二条主线。\nAI集群进入十万卡级别后，真正限制效率的已经不是单卡性能，而是GPU之间的数据流动效率。老黄开始疯狂强调Spectrum-X、Ethernet、Scale-Out、Silicon Photonics。\nNVLink解决的是Scale-Up，柜内互联。真正的大规模AI集群最终拼的是Scale-Out，柜外组网。AI越大，Ethernet的地位反而越强。\n$ANET $MRVL $CRDO $ALAB $LITE ——这些AI数据流动收费站开始进入估值扩张阶段。\n\n第三阶段：Inference CPU / Agentic AI\n2026 Q1财报会后华尔街开始重新定价的方向。\n很多人之前觉得AI时代CPU会边缘化。但老黄在5月财报会明确：Inference爆发后，CPU反而重新成为瓶颈。Agentic AI、Inference、Orchestration都需要大量CPU调度。 $ARM $QCOM $ADI $TXN $MCHP开始明显走强。\n很多人还在盯GPU，但老钱已经开始提前布局Inference infrastructure。\n\n第四阶段：AI-RAN + Edge AI + Physical AI\n我认为这是2026下半年到2027真正可能成为主场的方向。\nAI第一阶段是Training，第二阶段是Scale-Out。接下来AI必须真正离开hyperscaler数据中心，进入现实世界。\n老黄已经把话说得很清楚：未来AI会进入运营商网络、边缘节点、基站、机器人、工厂、汽车。AI不会永远只待在云里。\n这一阶段分三类受益方向。\nAI-RAN和边缘网络：未来全球几百万个基站可能都会变成边缘AI节点。真正值钱的是射频、DAC/ADC、FPGA、边缘推理网络。 $NOK是AI−RAN联盟的核心发起人，英伟达直接投资背书。 \nEdge AI和On-Device AI：Agentic AI开始长进PC、手机、汽车、边缘网关。设备端AI最大的问题是低功耗推理加本地memory加实时连接。 $QCOM $SIMO这些传统边缘芯片公司的估值可能会被重新定价。\nPhysical AI和Robotics：散户喜欢炒机器人概念，但真正决定机器人能不能大规模落地的是工业控制、PLC、伺服系统、自动化基础设施。未来真正持续扩估值的，可能不是最性感的人形机器人概念，而是卡住物理世界执行层的工业收费站。 $TSLA $ABB $SYM $ROK。 \n\n总结\nAI的下一阶段已经不只是训练模型。而是让AI真正进入现实世界。每一次老黄开口，都是在提前告诉市场下一阶段的钱会流向哪里。\n\n#PhysicalAI #EdgeAI #AIRAN #光通信 #机器人 #数据中心 #半导体 #AI算力",
+      "contentHtml": "跟着黄仁勋的时间线走，每一阶段的钱都在提前切换\n\n过去一年，如果你认真拆老黄每次GTC、财报会、闭门峰会说了什么，会发现AI基建的主线其实一直在切换。真正厉害的资金从来不是等新闻出来再追，而是提前拆下一阶段CapEx会流向哪里。\n\n整个时间线其实非常清晰。\n\n第一阶段：GPU → HBM → CoWoS → Memory\n最早被老黄反复强调的方向。\nBlackwell开始，HBM已经从外围配件升级成AI架构核心。老黄在财报会上明确说了：Blackwell和Vera Rubin的性能瓶颈，越来越取决于HBM带宽与供应。\n很多人还把 $MU当周期股。但老钱已经开始把存储当AI structural asset来定价。\n\n第二阶段：Ethernet → 光通信 → Silicon Photonics\n2026上半年真正爆发的第二条主线。\nAI集群进入十万卡级别后，真正限制效率的已经不是单卡性能，而是GPU之间的数据流动效率。老黄开始疯狂强调Spectrum-X、Ethernet、Scale-Out、Silicon Photonics。\nNVLink解决的是Scale-Up，柜内互联。真正的大规模AI集群最终拼的是Scale-Out，柜外组网。AI越大，Ethernet的地位反而越强。\n<a href=\"/search?f=tweets&q=%23ANET\">$ANET</a> <a href=\"/search?f=tweets&q=%23MRVL\">$MRVL</a> <a href=\"/search?f=tweets&q=%23CRDO\">$CRDO</a> <a href=\"/search?f=tweets&q=%23ALAB\">$ALAB</a> <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a> ——这些AI数据流动收费站开始进入估值扩张阶段。\n\n第三阶段：Inference CPU / Agentic AI\n2026 Q1财报会后华尔街开始重新定价的方向。\n很多人之前觉得AI时代CPU会边缘化。但老黄在5月财报会明确：Inference爆发后，CPU反而重新成为瓶颈。Agentic AI、Inference、Orchestration都需要大量CPU调度。 <a href=\"/search?f=tweets&q=%23ARM\">$ARM</a> <a href=\"/search?f=tweets&q=%23QCOM\">$QCOM</a> <a href=\"/search?f=tweets&q=%23ADI\">$ADI</a> <a href=\"/search?f=tweets&q=%23TXN\">$TXN</a> $MCHP开始明显走强。\n很多人还在盯GPU，但老钱已经开始提前布局Inference infrastructure。\n\n第四阶段：AI-RAN + Edge AI + Physical AI\n我认为这是2026下半年到2027真正可能成为主场的方向。\nAI第一阶段是Training，第二阶段是Scale-Out。接下来AI必须真正离开hyperscaler数据中心，进入现实世界。\n老黄已经把话说得很清楚：未来AI会进入运营商网络、边缘节点、基站、机器人、工厂、汽车。AI不会永远只待在云里。\n这一阶段分三类受益方向。\nAI-RAN和边缘网络：未来全球几百万个基站可能都会变成边缘AI节点。真正值钱的是射频、DAC/ADC、FPGA、边缘推理网络。 $NOK是AI−RAN联盟的核心发起人，英伟达直接投资背书。 \nEdge AI和On-Device AI：Agentic AI开始长进PC、手机、汽车、边缘网关。设备端AI最大的问题是低功耗推理加本地memory加实时连接。 <a href=\"/search?f=tweets&q=%23QCOM\">$QCOM</a> $SIMO这些传统边缘芯片公司的估值可能会被重新定价。\nPhysical AI和Robotics：散户喜欢炒机器人概念，但真正决定机器人能不能大规模落地的是工业控制、PLC、伺服系统、自动化基础设施。未来真正持续扩估值的，可能不是最性感的人形机器人概念，而是卡住物理世界执行层的工业收费站。 <a href=\"/search?f=tweets&q=%23TSLA\">$TSLA</a> <a href=\"/search?f=tweets&q=%23ABB\">$ABB</a> <a href=\"/search?f=tweets&q=%23SYM\">$SYM</a> $ROK。 \n\n总结\nAI的下一阶段已经不只是训练模型。而是让AI真正进入现实世界。每一次老黄开口，都是在提前告诉市场下一阶段的钱会流向哪里。\n\n<a href=\"/search?f=tweets&q=%23PhysicalAI\">#PhysicalAI</a> <a href=\"/search?f=tweets&q=%23EdgeAI\">#EdgeAI</a> <a href=\"/search?f=tweets&q=%23AIRAN\">#AIRAN</a> <a href=\"/search?f=tweets&q=%23光通信\">#光通信</a> <a href=\"/search?f=tweets&q=%23机器人\">#机器人</a> <a href=\"/search?f=tweets&q=%23数据中心\">#数据中心</a> <a href=\"/search?f=tweets&q=%23半导体\">#半导体</a> <a href=\"/search?f=tweets&q=%23AI算力\">#AI算力</a>",
+      "publishedAt": "2026-05-24T21:36:00.000Z",
+      "link": "https://x.com/ArtofSpecuycky/status/2058663354512912441",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2058652774443716997",
+      "username": "HormuzLetter",
+      "displayName": "The Hormuz Letter",
+      "avatar": "https://pbs.twimg.com/profile_images/2039669923442507776/QiE-cdek_bigger.jpg",
+      "content": "BREAKING: Two sources close to Trump's negotiation team say Trump is now completely backing away from the US-Iran deal, under \"extreme internal pressure from Israel and its US domestic allies,\" urging him not to accept Iran‘s terms. After this, Trump posted an image of Mark 84 bomb on a fighter jet, with his signature \"Thank you for your attention to this matter\" catchphrase stenciled directly on the bomb, on Truth Social.\n\nIran earlier warned already that the agreement \"will be completely cancelled\" due to ongoing US obstruction on key clauses.\n\nThe deal that never existed is now publicly collapsing.",
+      "contentHtml": "BREAKING: Two sources close to Trump's negotiation team say Trump is now completely backing away from the US-Iran deal, under \"extreme internal pressure from Israel and its US domestic allies,\" urging him not to accept Iran‘s terms. After this, Trump posted an image of Mark 84 bomb on a fighter jet, with his signature \"Thank you for your attention to this matter\" catchphrase stenciled directly on the bomb, on Truth Social.\n\nIran earlier warned already that the agreement \"will be completely cancelled\" due to ongoing US obstruction on key clauses.\n\nThe deal that never existed is now publicly collapsing.",
+      "publishedAt": "2026-05-24T20:54:00.000Z",
+      "link": "https://x.com/HormuzLetter/status/2058652774443716997",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJHNyQyXIAAlHVC.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
       },
       "stats": {
         "replies": 0,
@@ -8821,6 +8865,32 @@
       }
     },
     {
+      "id": "2057031261634679129",
+      "username": "compoundwater",
+      "displayName": "CompoundWater 複水 🐳",
+      "avatar": "https://pbs.twimg.com/profile_images/1712170728832061441/dwI40nH0_bigger.jpg",
+      "content": "1） 之前分享过的CK指标，也是我交易时很常用的数据流评估（熟悉的Liq绿买红卖, MP<25等） 让我们低买高卖更轻松之外\n\n这次新功能 #Insight  AI 深度覆盘  \n更帮你盯图表、对比历史 K 线，找出规律做交易。透过AI统计样本足够加上塞选，即时TG推播替你盯盘👌🏻\n\n2）@coinkarma_ 欢迎新老朋友们体验 🙌🏻",
+      "contentHtml": "1） 之前分享过的CK指标，也是我交易时很常用的数据流评估（熟悉的Liq绿买红卖, MP&lt;25等） 让我们低买高卖更轻松之外\n\n这次新功能 <a href=\"/search?f=tweets&q=%23Insight\">#Insight</a>  AI 深度覆盘  \n更帮你盯图表、对比历史 K 线，找出规律做交易。透过AI统计样本足够加上塞选，即时TG推播替你盯盘👌🏻\n\n2）<a href=\"/coinkarma_\" title=\"CoinKarma\">@coinkarma_</a> 欢迎新老朋友们体验 🙌🏻",
+      "publishedAt": "2026-05-20T09:30:00.000Z",
+      "link": "https://x.com/compoundwater/status/2057031261634679129",
+      "retweet": {
+        "username": "coinkarma_",
+        "displayName": "CoinKarma"
+      },
+      "quote": {
+        "username": "coinkarma_",
+        "displayName": "CoinKarma",
+        "content": "x.com/i/article/204212729686…",
+        "contentHtml": "<a href=\"http://x.com/i/article/2042127296866529280\">x.com/i/article/204212729686…</a>",
+        "link": "https://x.com/coinkarma_/status/2056568821390123368"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2057030511999308105",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -12033,106 +12103,6 @@
       "contentHtml": "完了，我废了。\n币圈持仓有eth 股票持仓有拼多多。",
       "publishedAt": "2026-05-18T09:58:00.000Z",
       "link": "https://x.com/daidaibtc/status/2056313508783173841",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056305873878909167",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "啊，不要再买了啊\n\n受不了了😓",
-      "contentHtml": "啊，不要再买了啊\n\n受不了了😓",
-      "publishedAt": "2026-05-18T09:28:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2056305873878909167",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIl3SmxawAAbf8i.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIl3SmuacAAVv2_.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056269627760807955",
-      "username": "viviennaBTC",
-      "displayName": "vivienna.btc",
-      "avatar": "https://pbs.twimg.com/profile_images/2055180188225597440/aMExf6UQ_bigger.jpg",
-      "content": "终于把磨了好久的四大宏观(美债、美元、黄金、通胀)看板上线啦！ \n最近彻底沉迷 AI Coding，每天用 Claude 写代码写到半夜，一版一版迭代调试，总算把这套自己梦寐以求的实时看板做出来了～  \n\n为什么要做这些？ \n\n宏观因子建模本质上是把高维、噪声大、强相关的时间序列数据，转化为低维、可解释、可预测的信号，用于资产配置、择时和风险管理。\n  \n我把常见的宏观因子分成几大类：\n\n• 利率/货币政策类：真实利率、期限利差、forward curve、政策预期路径\n\n• 通胀类：核心通胀、预期通胀（breakeven）、薪资-通胀螺旋、财政驱动\n\n• 增长/风险偏好类：增长 surprise、信用利差、VIX、美元carry\n\n• 商品/避险类：黄金真实收益率敏感度、地缘风险溢价\n\n• 流动性/供给类：美债净供给、央行资产负债表、美元流动性指数  \n\n我选择了黄金、美元、美债、通胀因子这四个类别。\n\n对资产管理最实际的帮助：\n\n• 快速抓住宏观拐点\n• 看清多因子驱动逻辑\n• 辅助大类资产配置和风险对冲\n• 自己改权重、自己看结果，超级爽  \n\n四大看板亮点：  \n\n美债看板\n实时收益率曲线 + 智能因子计分卡（-2到+2自动打分，帮你判断久期和曲线立场）+ 政策路径 + 供给资金流\n\nus-treasury-bonds-monitor-lu… \n\n美元看板\nDXY多因子估值模型（利率差+风险溢价+便利收益+波动预警）+ 综合评分 + 持仓分析，一眼看美元强弱\n\nusd-monitor.vercel.app/ \n\n黄金看板\n多因子信号强度 + SHAP归因瀑布图 + 体制切换预测，搞懂黄金到底在涨啥\n\ngold-monitor-delta.vercel.ap… \n\n通胀因子看板\n五维通胀压力评分 + 四资产信号塔 + 体制诊断，提前闻到通胀味儿\n\ninflation-monitor-nine.verce… \n\n重要提醒：这些看板仅供教育和研究使用，绝不构成任何投资建议。市场有风险，决策还得靠自己！  \n\n全部免费、数据实时更新，还支持自定义因子权重。感兴趣的同学可以一起开放交流量化建模方法与实际落地流程。  \n欢迎大家来玩、来反馈、来一起交流～ 我继续用 Claude 肝新模块！  \n\n#宏观交易 #黄金 #美债 #美元 #通胀 #AI_Coding #Claude  （vivienna.btc × Claude 沉迷副产物）",
-      "contentHtml": "终于把磨了好久的四大宏观(美债、美元、黄金、通胀)看板上线啦！ \n最近彻底沉迷 AI Coding，每天用 Claude 写代码写到半夜，一版一版迭代调试，总算把这套自己梦寐以求的实时看板做出来了～  \n\n为什么要做这些？ \n\n宏观因子建模本质上是把高维、噪声大、强相关的时间序列数据，转化为低维、可解释、可预测的信号，用于资产配置、择时和风险管理。\n  \n我把常见的宏观因子分成几大类：\n\n• 利率/货币政策类：真实利率、期限利差、forward curve、政策预期路径\n\n• 通胀类：核心通胀、预期通胀（breakeven）、薪资-通胀螺旋、财政驱动\n\n• 增长/风险偏好类：增长 surprise、信用利差、VIX、美元carry\n\n• 商品/避险类：黄金真实收益率敏感度、地缘风险溢价\n\n• 流动性/供给类：美债净供给、央行资产负债表、美元流动性指数  \n\n我选择了黄金、美元、美债、通胀因子这四个类别。\n\n对资产管理最实际的帮助：\n\n• 快速抓住宏观拐点\n• 看清多因子驱动逻辑\n• 辅助大类资产配置和风险对冲\n• 自己改权重、自己看结果，超级爽  \n\n四大看板亮点：  \n\n美债看板\n实时收益率曲线 + 智能因子计分卡（-2到+2自动打分，帮你判断久期和曲线立场）+ 政策路径 + 供给资金流\n\n<a href=\"https://us-treasury-bonds-monitor-luffa.vercel.app/#scorecard\">us-treasury-bonds-monitor-lu…</a> \n\n美元看板\nDXY多因子估值模型（利率差+风险溢价+便利收益+波动预警）+ 综合评分 + 持仓分析，一眼看美元强弱\n\n<a href=\"https://usd-monitor.vercel.app/\">usd-monitor.vercel.app/</a> \n\n黄金看板\n多因子信号强度 + SHAP归因瀑布图 + 体制切换预测，搞懂黄金到底在涨啥\n\n<a href=\"https://gold-monitor-delta.vercel.app/\">gold-monitor-delta.vercel.ap…</a> \n\n通胀因子看板\n五维通胀压力评分 + 四资产信号塔 + 体制诊断，提前闻到通胀味儿\n\n<a href=\"https://inflation-monitor-nine.vercel.app/\">inflation-monitor-nine.verce…</a> \n\n重要提醒：这些看板仅供教育和研究使用，绝不构成任何投资建议。市场有风险，决策还得靠自己！  \n\n全部免费、数据实时更新，还支持自定义因子权重。感兴趣的同学可以一起开放交流量化建模方法与实际落地流程。  \n欢迎大家来玩、来反馈、来一起交流～ 我继续用 Claude 肝新模块！  \n\n<a href=\"/search?f=tweets&q=%23宏观交易\">#宏观交易</a> <a href=\"/search?f=tweets&q=%23黄金\">#黄金</a> <a href=\"/search?f=tweets&q=%23美债\">#美债</a> <a href=\"/search?f=tweets&q=%23美元\">#美元</a> <a href=\"/search?f=tweets&q=%23通胀\">#通胀</a> <a href=\"/search?f=tweets&q=%23AI_Coding\">#AI_Coding</a> <a href=\"/search?f=tweets&q=%23Claude\">#Claude</a>  （vivienna.btc × Claude 沉迷副产物）",
-      "publishedAt": "2026-05-18T07:04:00.000Z",
-      "link": "https://x.com/viviennaBTC/status/2056269627760807955",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVMG0boAAlIzY.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVL_WboAA4RWP.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVMGybgAAR6wp.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVMG2bgAA729T.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056190764347265261",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
-      "content": "「不理想的築頂」：詳述基於 Liq 分析法的最新交易思路🔭\n\n隨著 BTC 開始出現一些頹勢，加上美資已有偷跑的跡象，\n今天我打算來從技術面的角度，和各位分享一些個人的 bias。\n\n先說結論📝：\n從 Liquidity 分析的角度而言，目前的頂部結構並不理想，\n因為 BTC 在下跌前，在上方留下了一抹 liq ...👇：\n\n//\n\n如附圖所示，主要重點摘要如下：\n🔺 BTC 在 82K 上方留下 Trendline Liq\n🔺 承上，這使得本次下跌的頂部結構並不理想\n🔺 下方仍存在大量由 Trendline Liq、Equal Lows 形成的流動性引力\n\n如果你不知道 Liquidity 的概念，我先前曾寫過詳細的教程，\n有興趣了解的朋友，可以參考以下鏈接🔗：\n\n📖 Stop Hunt 概念詳解\nnitter.net/market_beggar/status/1…\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n\n//\n\n相信只要你是貝格近兩個月的受眾，\n都知道我始終在強調「我認為最後一哆嗦必須到來」；\n並且，承接下方引文的內容，我在 3 月中規劃的「劇本 2」，\n也就是「81~82K 的失衡強阻力區」，如今回頭來看，\n價格的確也在此區域出現了強烈的多空分歧、交火。\n\n📖 首次提出「劇本 2」走勢的可能性分析：\nnitter.net/market_beggar/status/2…\n\n時間回到現在：\n如果以 Liquidity 系統的角度來看，我在交易執行層面的思考如下：\n➡️ 鑒於 82K 上方的 Trendline Liq 存在，暫時沒有做空打算\n➡️ 若能再次將 82K 上方的 Liq 清掃且出現 Stop Hunt 跡象，則將波段做空\n➡️ 如果直接順暢跌破 74.8K，則有更高概率確認本次階段性的見頂\n\n坦白說，BTC 在沖入「劇本 2」所規劃之失衡區之後，\n價格的走勢可謂是「噁心至極」，反覆在小區間內進行流動性絞殺，\n例如上週四 22:00 突然出現的一根大陽線，隨後卻又畫門向下砸。\n\n對我個人而言，我也對於目前的市場狀況十分反感，\n畢竟美方資金已有偷跑跡象（nitter.net/market_beggar/status/2…），\n價格下跌看似合理，但下跌前卻又在上方留下 Trendline Liq，\n這導致在規劃做空的交易計畫上會有所忌憚。\n\n因此，誠如上述，我認為當前最理想的狀況是：\n「清掃 82K 上方 Liq + 出現 Stop Hunt 跡象 + 美資情緒背離成立」\n這才是我認為最理想的做空窗口，也能提高交易勝率。\n\n就現階段而言，只要上述條件沒有觸發，我都更傾向於等待，\n市場不缺機會，不那麼完美的機會可以嘗試，但不一定有必要。\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n「超乎預期的強勢」：填補失衡區的概率再次上升\nnitter.net/market_beggar/status/2…\n\n「藍線再顯神威」：強力反彈 38%，硬搶 STH-RP？\nnitter.net/market_beggar/status/2…\n\n全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\nnitter.net/market_beggar/status/1…",
-      "contentHtml": "「不理想的築頂」：詳述基於 Liq 分析法的最新交易思路🔭\n\n隨著 BTC 開始出現一些頹勢，加上美資已有偷跑的跡象，\n今天我打算來從技術面的角度，和各位分享一些個人的 bias。\n\n先說結論📝：\n從 Liquidity 分析的角度而言，目前的頂部結構並不理想，\n因為 BTC 在下跌前，在上方留下了一抹 liq ...👇：\n\n//\n\n如附圖所示，主要重點摘要如下：\n🔺 BTC 在 82K 上方留下 Trendline Liq\n🔺 承上，這使得本次下跌的頂部結構並不理想\n🔺 下方仍存在大量由 Trendline Liq、Equal Lows 形成的流動性引力\n\n如果你不知道 Liquidity 的概念，我先前曾寫過詳細的教程，\n有興趣了解的朋友，可以參考以下鏈接🔗：\n\n📖 Stop Hunt 概念詳解\n<a href=\"https://nitter.net/market_beggar/status/1907261008059777200\">nitter.net/market_beggar/status/1…</a>\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n相信只要你是貝格近兩個月的受眾，\n都知道我始終在強調「我認為最後一哆嗦必須到來」；\n並且，承接下方引文的內容，我在 3 月中規劃的「劇本 2」，\n也就是「81~82K 的失衡強阻力區」，如今回頭來看，\n價格的確也在此區域出現了強烈的多空分歧、交火。\n\n📖 首次提出「劇本 2」走勢的可能性分析：\n<a href=\"https://nitter.net/market_beggar/status/2033359397079101623\">nitter.net/market_beggar/status/2…</a>\n\n時間回到現在：\n如果以 Liquidity 系統的角度來看，我在交易執行層面的思考如下：\n➡️ 鑒於 82K 上方的 Trendline Liq 存在，暫時沒有做空打算\n➡️ 若能再次將 82K 上方的 Liq 清掃且出現 Stop Hunt 跡象，則將波段做空\n➡️ 如果直接順暢跌破 74.8K，則有更高概率確認本次階段性的見頂\n\n坦白說，BTC 在沖入「劇本 2」所規劃之失衡區之後，\n價格的走勢可謂是「噁心至極」，反覆在小區間內進行流動性絞殺，\n例如上週四 22:00 突然出現的一根大陽線，隨後卻又畫門向下砸。\n\n對我個人而言，我也對於目前的市場狀況十分反感，\n畢竟美方資金已有偷跑跡象（<a href=\"https://nitter.net/market_beggar/status/2053653283429089554\">nitter.net/market_beggar/status/2…</a>），\n價格下跌看似合理，但下跌前卻又在上方留下 Trendline Liq，\n這導致在規劃做空的交易計畫上會有所忌憚。\n\n因此，誠如上述，我認為當前最理想的狀況是：\n「清掃 82K 上方 Liq + 出現 Stop Hunt 跡象 + 美資情緒背離成立」\n這才是我認為最理想的做空窗口，也能提高交易勝率。\n\n就現階段而言，只要上述條件沒有觸發，我都更傾向於等待，\n市場不缺機會，不那麼完美的機會可以嘗試，但不一定有必要。\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n「超乎預期的強勢」：填補失衡區的概率再次上升\n<a href=\"https://nitter.net/market_beggar/status/2051116573231038974\">nitter.net/market_beggar/status/2…</a>\n\n「藍線再顯神威」：強力反彈 38%，硬搶 STH-RP？\n<a href=\"https://nitter.net/market_beggar/status/2052205146827116790\">nitter.net/market_beggar/status/2…</a>\n\n全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>",
-      "publishedAt": "2026-05-18T01:50:00.000Z",
-      "link": "https://x.com/market_beggar/status/2056190764347265261",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIkOmBrbMAAzvR6.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「決戰 BTC 牛熊分水嶺」：多空強力交火、波動加劇🚧\n\nBTC 週一的波動總是不出意外的令人興奮，\n就在昨日，BTC 再次出現強勢於其他商品的走勢，\n價格一舉攻上 80K，沖入了因 2 月初下跌所形成的失衡區，\n正式進入了我在 3 月中提出的「劇本 2 的射程範圍」🔭\n\n高波動不可能持續，成敗終將分曉 ...👇：\n\n//\n\n我知道各位更感興趣的是「交易計畫」的部分，\n但這部分的分享，我都已寫在昨日的分析帖中，\n有興趣的朋友可以暫時移駕以下鏈接🔗：\nnitter.net/market_beggar/status/2…\n\n而今天，我打算快速和各位分享幾項數據，以及一些對於後市的思考。\n\n首先是我過去一個多月以來，反覆提及的「劇本 2」：\n這是我在今年 03/16 首次提出的走勢推演（如附圖一），\n光陰荏苒，一晃眼價格就以迅雷不及掩耳的速度回到了 80K 之上。\n\n📖 首次提出「劇本 2」走勢的可能性分析：\nnitter.net/market_beggar/status/2…\n\n有錯就要認，坦白說，我當時的確是更傾向於「劇本 1」，\n但市場先生永遠是正確的，後續「劇本 1」被證偽，\n眨眼間 BTC 已回到失衡區（80~81K）的位置進行填補。\n\n//\n\n而就在昨日 BTC 首次沖入 80~81K 的區間之後，\n波動出現了非常明顯的放大，表明多空分歧在此迅速加劇（如附圖二）。\n由於這個區間是明顯的「大級別多空分水嶺」（詳見下方引文），\n除了是線型上的失衡區以外，同時也是 URPD 的巨量堆積阻力區，\n以及 BTC 短期持有者平均成本（STH-RP）的所在位置，\n因此若是貝格先生的老朋友，對於這突如其來的波動或許不會感到意外。\n\n📖「牛熊的楚河漢界」：來自 BTC 短期持有者的壓制\nnitter.net/market_beggar/status/2…\n\n//\n\n如附圖三所示：目前的 STH-RP = 78,896📊\n\n雖然價格現已突破 STH-RP，但由於當前區域的多空分歧度極高，\n因此如果是非常相信 STH-RP 的朋友，我會傾向於留出幾天的觀察期，\n在確認此區域的阻力被完全吸收、價格依然保持強勢之後，\n再行介入的勝率會更高一些。\n\n//\n\n如附圖四所示，我們再來簡單看一眼 URPD 籌碼分布的狀況。\n\n這組數據我在每週日固定更新的週報都會分享，\n有興趣定期追蹤的朋友可以關注。\n\n🗞 貝格鏈上週報（七十五）：LTH-RP 快速上升的主因\nnitter.net/market_beggar/status/2…\n\n昨日 BTC 已正式漲至 80K 之上，正式進入了 80~81K 的稀薄區，\n這意味著「這個存在已久的稀薄區即將被完成填補」，\n在 URPD 真空稀薄區被填補之後，缺口本身的引力就將隨之消散，\n換言之：市場在此「決一生死」、選擇方向的概率也將隨之提升。\n\n📖 URPD 缺口與週期性派發\nnitter.net/market_beggar/status/1…\n\n//\n\n最後，回到交易的計畫上：\n對於大部分無法高強度盯盤的朋友來說，我會強烈建議：\n「不要在價格進入多空強力分歧的區域時進行交易❌」。\n\n如同前文所述，這種強力分歧的區域往往伴隨著極大的波動，\n寬幅上沖下洗的過程，恰好使合約的槓桿屬性成為被針對的命門，\n如果沒有嚴格的風控規則，本金就很容易在此階段被反覆磨損🩸\n\n📖 細談風險控制與倉位管理\nnitter.net/market_beggar/status/1…\n\n因此，我更傾向於在等待線型釋出更多訊號、波動開始放緩之後，\n再考慮介入自己的倉位，否則很容易被市場「多空雙殺」。\n\n當然，或許與我更喜愛「左側交易」的風格有關，\n上述這些也僅是我個人的操作習慣和偏見，\n左、右側交易不是非黑即白，不存在是非，供各位參考。\n\n📖 交易概念大補帖（八）：一文看懂「趨勢結構 & 左側、右側交易」\nnitter.net/market_beggar/status/1…\n\n至於技術面上的詳細看法 & 交易思路，\n有興趣的朋友可以參考昨日的分析帖，在此就不多做贅述了。\n\n以上就是今天的內容，多空爭雄，下好離手🫡\n\n//\n\n📚 相關閱讀資源\n\n「最後一哆嗦」抄底系列（十二）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n\nPSIP 抄底訊號「番外篇」：評估底部的另一視角\nnitter.net/market_beggar/status/2…",
-        "contentHtml": "「決戰 BTC 牛熊分水嶺」：多空強力交火、波動加劇🚧\n\nBTC 週一的波動總是不出意外的令人興奮，\n就在昨日，BTC 再次出現強勢於其他商品的走勢，\n價格一舉攻上 80K，沖入了因 2 月初下跌所形成的失衡區，\n正式進入了我在 3 月中提出的「劇本 2 的射程範圍」🔭\n\n高波動不可能持續，成敗終將分曉 ...👇：\n\n//\n\n我知道各位更感興趣的是「交易計畫」的部分，\n但這部分的分享，我都已寫在昨日的分析帖中，\n有興趣的朋友可以暫時移駕以下鏈接🔗：\n<a href=\"https://nitter.net/market_beggar/status/2051116573231038974\">nitter.net/market_beggar/status/2…</a>\n\n而今天，我打算快速和各位分享幾項數據，以及一些對於後市的思考。\n\n首先是我過去一個多月以來，反覆提及的「劇本 2」：\n這是我在今年 03/16 首次提出的走勢推演（如附圖一），\n光陰荏苒，一晃眼價格就以迅雷不及掩耳的速度回到了 80K 之上。\n\n📖 首次提出「劇本 2」走勢的可能性分析：\n<a href=\"https://nitter.net/market_beggar/status/2033359397079101623\">nitter.net/market_beggar/status/2…</a>\n\n有錯就要認，坦白說，我當時的確是更傾向於「劇本 1」，\n但市場先生永遠是正確的，後續「劇本 1」被證偽，\n眨眼間 BTC 已回到失衡區（80~81K）的位置進行填補。\n\n//\n\n而就在昨日 BTC 首次沖入 80~81K 的區間之後，\n波動出現了非常明顯的放大，表明多空分歧在此迅速加劇（如附圖二）。\n由於這個區間是明顯的「大級別多空分水嶺」（詳見下方引文），\n除了是線型上的失衡區以外，同時也是 URPD 的巨量堆積阻力區，\n以及 BTC 短期持有者平均成本（STH-RP）的所在位置，\n因此若是貝格先生的老朋友，對於這突如其來的波動或許不會感到意外。\n\n📖「牛熊的楚河漢界」：來自 BTC 短期持有者的壓制\n<a href=\"https://nitter.net/market_beggar/status/2048943068414632418\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n如附圖三所示：目前的 STH-RP = 78,896📊\n\n雖然價格現已突破 STH-RP，但由於當前區域的多空分歧度極高，\n因此如果是非常相信 STH-RP 的朋友，我會傾向於留出幾天的觀察期，\n在確認此區域的阻力被完全吸收、價格依然保持強勢之後，\n再行介入的勝率會更高一些。\n\n//\n\n如附圖四所示，我們再來簡單看一眼 URPD 籌碼分布的狀況。\n\n這組數據我在每週日固定更新的週報都會分享，\n有興趣定期追蹤的朋友可以關注。\n\n🗞 貝格鏈上週報（七十五）：LTH-RP 快速上升的主因\n<a href=\"https://nitter.net/market_beggar/status/2050807055628509410\">nitter.net/market_beggar/status/2…</a>\n\n昨日 BTC 已正式漲至 80K 之上，正式進入了 80~81K 的稀薄區，\n這意味著「這個存在已久的稀薄區即將被完成填補」，\n在 URPD 真空稀薄區被填補之後，缺口本身的引力就將隨之消散，\n換言之：市場在此「決一生死」、選擇方向的概率也將隨之提升。\n\n📖 URPD 缺口與週期性派發\n<a href=\"https://nitter.net/market_beggar/status/1884102421485678734\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n最後，回到交易的計畫上：\n對於大部分無法高強度盯盤的朋友來說，我會強烈建議：\n「不要在價格進入多空強力分歧的區域時進行交易❌」。\n\n如同前文所述，這種強力分歧的區域往往伴隨著極大的波動，\n寬幅上沖下洗的過程，恰好使合約的槓桿屬性成為被針對的命門，\n如果沒有嚴格的風控規則，本金就很容易在此階段被反覆磨損🩸\n\n📖 細談風險控制與倉位管理\n<a href=\"https://nitter.net/market_beggar/status/1892777780993282379\">nitter.net/market_beggar/status/1…</a>\n\n因此，我更傾向於在等待線型釋出更多訊號、波動開始放緩之後，\n再考慮介入自己的倉位，否則很容易被市場「多空雙殺」。\n\n當然，或許與我更喜愛「左側交易」的風格有關，\n上述這些也僅是我個人的操作習慣和偏見，\n左、右側交易不是非黑即白，不存在是非，供各位參考。\n\n📖 交易概念大補帖（八）：一文看懂「趨勢結構 & 左側、右側交易」\n<a href=\"https://nitter.net/market_beggar/status/1922471701105017070\">nitter.net/market_beggar/status/1…</a>\n\n至於技術面上的詳細看法 & 交易思路，\n有興趣的朋友可以參考昨日的分析帖，在此就不多做贅述了。\n\n以上就是今天的內容，多空爭雄，下好離手🫡\n\n//\n\n📚 相關閱讀資源\n\n「最後一哆嗦」抄底系列（十二）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2050029916578820271\">nitter.net/market_beggar/status/2…</a>\n\n識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\nPSIP 抄底訊號「番外篇」：評估底部的另一視角\n<a href=\"https://nitter.net/market_beggar/status/2024313705262121308\">nitter.net/market_beggar/status/2…</a>",
-        "link": "https://x.com/market_beggar/status/2051479165527097444",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHhRa5ubwAAfiAs.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHhRa5xbYAA8VDd.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
