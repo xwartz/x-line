@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T23:49:06.942Z",
+  "lastUpdated": "2026-05-25T00:31:59.713Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 585,
+    "newFetched": 581,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2058700805478498733",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
+      "content": "川普的川剧变脸最近就在三个脸谱无缝切换，\n市场随之涨跌\n\n1.我马上要签协议了\n2.我们还得谈\n3.我特么要干伊朗",
+      "contentHtml": "川普的川剧变脸最近就在三个脸谱无缝切换，\n市场随之涨跌\n\n1.我马上要签协议了\n2.我们还得谈\n3.我特么要干伊朗",
+      "publishedAt": "2026-05-25T00:04:00.000Z",
+      "link": "https://x.com/hazenlee/status/2058700805478498733",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2058690565701836853",
       "username": "qinbafrank",
@@ -2573,25 +2588,6 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n测下来通过 ssh 连接是最快的，视不同数据量大概 1～3秒。\n\n也就是说瓶颈在 chatgpt 桌面端自己的连接上，走 ssh 用局域网 ip 跳过了这块。\n\n在外使用的是 Surge 无缝回家，大概多出 0.5 秒。",
       "publishedAt": "2026-05-23T04:37:00.000Z",
       "link": "https://x.com/taresky/status/2058044538925838347",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058044456449056884",
-      "username": "Balder13946731",
-      "displayName": "Balder",
-      "avatar": "https://pbs.twimg.com/profile_images/2042409465748881408/7QQC60Qh_bigger.jpg",
-      "content": "凯文·沃什和特朗普刚刚明确说明了利率为何将走低：\n\n“人工智能将使几乎所有东西的成本降低。\n我们正处于生产力繁荣的前沿。\n经济增长不会带来通胀——我们正处于价格结构性下降的早期阶段。”\n\n埃隆·马斯克、萨姆·奥特曼、杰夫·贝佐斯和斯坦利·德鲁肯米勒都预计人工智能将带来强烈的通缩效应。\n\n我觉得他搞错了一些事情，AI并没有使得生产增加，而是替代了更多劳动力，沃尔玛的财报恰恰说明，AI的进步可能会进一步压缩大众的消费能力，美国正变成一个投资驱动的经济，而这种投资，推高了各种物资和能源的价格，而这恰恰会导致通胀。",
-      "contentHtml": "凯文·沃什和特朗普刚刚明确说明了利率为何将走低：\n\n“人工智能将使几乎所有东西的成本降低。\n我们正处于生产力繁荣的前沿。\n经济增长不会带来通胀——我们正处于价格结构性下降的早期阶段。”\n\n埃隆·马斯克、萨姆·奥特曼、杰夫·贝佐斯和斯坦利·德鲁肯米勒都预计人工智能将带来强烈的通缩效应。\n\n我觉得他搞错了一些事情，AI并没有使得生产增加，而是替代了更多劳动力，沃尔玛的财报恰恰说明，AI的进步可能会进一步压缩大众的消费能力，美国正变成一个投资驱动的经济，而这种投资，推高了各种物资和能源的价格，而这恰恰会导致通胀。",
-      "publishedAt": "2026-05-23T04:36:00.000Z",
-      "link": "https://x.com/Balder13946731/status/2058044456449056884",
-      "retweet": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -6280,11 +6276,11 @@
       "publishedAt": "2026-05-21T10:33:00.000Z",
       "link": "https://x.com/Murphychen888/status/2057409351003058274",
       "quote": {
-        "username": "PANews",
+        "username": "PANewsCN",
         "displayName": "PANews丨APP全面升级",
         "content": "x.com/i/article/205739362472…",
         "contentHtml": "<a href=\"http://x.com/i/article/2057393624728666112\">x.com/i/article/205739362472…</a>",
-        "link": "https://x.com/PANews/status/2057394643323715828"
+        "link": "https://x.com/PANewsCN/status/2057394643323715828"
       },
       "stats": {
         "replies": 0,
