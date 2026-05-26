@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T03:46:30.061Z",
+  "lastUpdated": "2026-05-26T05:20:51.188Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,120 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 585,
+    "newFetched": 582,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2059136011419144694",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "制冷剂企业拉飞了",
+      "contentHtml": "制冷剂企业拉飞了",
+      "publishedAt": "2026-05-26T04:54:00.000Z",
+      "link": "https://x.com/hazenlee/status/2059136011419144694",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJOFSQUbEAAFZPD.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "2026年可能有150年最强的厄尔尼诺现象，届时能源需求将进入被动增长的状态。叠加原油产能和运输限制，将会形成供应和被动需求叠加的“戴维斯双挤”。\n这个夏天会格外的热，但是资本市场会格外的冷。当热死摆在你的面前，无论电费能源费用多高你都需要。而能源的价格是你能支付得起的所有钱。",
+        "contentHtml": "2026年可能有150年最强的厄尔尼诺现象，届时能源需求将进入被动增长的状态。叠加原油产能和运输限制，将会形成供应和被动需求叠加的“戴维斯双挤”。\n这个夏天会格外的热，但是资本市场会格外的冷。当热死摆在你的面前，无论电费能源费用多高你都需要。而能源的价格是你能支付得起的所有钱。",
+        "link": "https://x.com/hazenlee/status/2056569304993435811"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059128831005675684",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "能想象联想集团这种浓眉大眼单日都能20%，一个月也快翻倍了。走强的核心逻辑还是两个：1）CPU紧缺趋势还在持续；\n2）受益于AI算力、CPU紧缺，业绩大改善：联想4QFY26实现营收215.88亿美元，同比增长27%；归母净利润5.21亿美元，同比增长479% 。特别是AI PC出货量季度环比增加228%。\n中芯国际今天也差点创新高，\n\n4月中的这篇推文含金量还在提升。",
+      "contentHtml": "能想象联想集团这种浓眉大眼单日都能20%，一个月也快翻倍了。走强的核心逻辑还是两个：1）CPU紧缺趋势还在持续；\n2）受益于AI算力、CPU紧缺，业绩大改善：联想4QFY26实现营收215.88亿美元，同比增长27%；归母净利润5.21亿美元，同比增长479% 。特别是AI PC出货量季度环比增加228%。\n中芯国际今天也差点创新高，\n\n4月中的这篇推文含金量还在提升。",
+      "publishedAt": "2026-05-26T04:25:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2059128831005675684",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJN-q0fa8AAEQau.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJN-q0abcAAh26N.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "生成式AI往代理式AI迁移中，新的卡脖子环节又出现了，这次是CPU。之前市场关于算力紧缺的讨论都在GPU、HBM、光模块、电力等环节，其实对于CPU的关注比较少。其实Cpu的紧缺传了一段时间了，看最近英特尔、AMD走势最核心驱动力就是来自cpu开始出现紧缺了，甚至连过往不怎么受待见的港股联想集团，最近两周走的也很强。\n\n1、为什agentic ai时代CPU占比会扩大？\n传统AI（主要是大模型训练/推理）高度依赖GPU，因为Transformer的核心是并行矩阵运算，GPU擅长高吞吐的并行计算。这时CPU主要只负责“辅助”：数据路由、内存压缩、GPU调度等，导致数据中心CPU:GPU比例很低（典型1:4~1:8，甚至1颗CPU管8颗GPU）。CPU利用率低，基本是配角。 \n\nAgentic AI完全不同，它不是单次“问答”，而是自主多步循环（Planning → Tool Use → Act → Observe → Reflect → Iterate），涉及：\n1）编排：调度子任务、多智能体协作、分支逻辑、重试机制。\n2）工具调用：网页搜索、API调用、代码执行、数据库查询、向量检索（RAG）、文件处理等。\n3）其他CPU密集任务：上下文管理、KV Cache处理、强化学习（RL）仿真评估、数据预/后处理。\n\n这些任务高度串行、I/O密集、逻辑分支多，GPU并不擅长（甚至会闲置）。研究显示：工具处理阶段在CPU上可占总延迟的50%~90.6%（GPU在等待CPU）。Agentic工作流中CPU动态能耗占比可达44%，比传统AI高3~4倍。\n\n简单说，Agentic AI把“思考”交给GPU，但把“做事/协调”交给CPU。CPU从“管家”变成了“总指挥”，必须大幅增加才能让整个系统高效运转。这就是CPU占比扩大的核心驱动（Intel、AMD、Arm、TrendForce等一致观点）。\n\n2、CPU成为新紧缺环节的现实证据\n今年Q1 Intel/AMD服务器CPU交期已经拉到6-12周，部分型号基本售罄，价格也提了10%以上。厂商自己都说“demand far exceeded expectations”。不是产能不够，而是Agentic AI把CPU从“可有可无”直接干成了“必须配足”的总指挥。\n\n数据中心项目现在除了电力，就是CPU卡脖子最严重。传统x86（Intel/AMD）高功耗+产能紧张，供应链直接打爆。\n\n3、CPU缺口会有多大？\n行业共识是CPU:GPU比例将显著拉近，CPU需求大幅提升：从传统1:4~1:8（CPU:GPU）转向1:1~1:2（部分场景甚至1.4:1，即CPU比GPU还多）。看之前Arm估算，每GW算力需要的CPU核心从3000万激增到1.2亿（4倍增长）\n\nCPU算力份额：在Agentic工作流中，CPU承担的算力比未来机架/集群可能从“GPU主导”转向更平衡，甚至出现专用CPU rack来支撑Agentic编排；AMD/NVIDIA新一代平台已开始按1:2~1:4设计\n\n这就带来了CPU需求的真实拐点，是实打实的硬件重构。\n\n4、特别要说下ARM服务器CPU会更受益一些？\nAgentic AI最需要的就是“高核心数+低功耗+稳定串行处理”。ARM天生多核可扩展、perf/watt领先：Arm AGI CPU（136核，TDP仅300W）对比x86同规格功耗低40%+，每机架性能直接翻倍。风冷机架就能塞8000+核，液冷更能到4万+核，完美解决数据中心的“功耗墙”。\n\n更狠的是生态大转向：AWS Graviton、Google Axion、Microsoft Cobalt早就自研ARM，云巨头集体“去x86化”。Arm 3月直接下场自研AGI CPU（首款量产芯片），Meta、OpenAI、Cerebras都是首发伙伴，OEM有联想、Supermicro。\n\nCounterpoint预测：AI ASIC服务器CPU里，ARM份额从2025年25%干到2029年90%。Arm自己说，这波能把数据中心CPU TAM从30亿版税干到1000亿+，未来几年服务器CPU营收很可能超手机，成为最大增长极。\n\n看下周和5月初英特尔、amd的财报电话会上，cpu实际出货量的变化、以及cpu的真实价格变化。这能说明真的有多紧缺。\n\n5、CPU紧缺哪些公司会受益？\n梳理了下哪些公司会受益，后续关注起来：\n美股最核心：\nIntel (INTC)ntel 依然是服务器 CPU 市场的霸主。短缺潮会提升其过往型号的利润率，且其 Gaudi 与 Xeon 的组合在代理推理端有强劲需求。\n\nAMD (AMD)：理由：在 Agentic AI 服务器市场，AMD 的 EPYC 处理器因多核心优势和高性价比，目前在云厂商中的市占率持续提升，是 GPU+CPU 均衡配置趋势下的首选。\n\nArm Holdings (ARM)：越来越多的云厂商（亚马逊、微软、谷歌）开始自研基于 ARM 架构的 CPU。无论谁赢，只要 Agent 需求推高 CPU 核心数，Arm 的授权费就会大涨。\n\n港股（制造与分销关键点）\n中芯国际 (0981)：虽然其在最先进制程受限，但大量非核心逻辑控制芯片（支持 CPU 运作的辅助芯片）和中端 CPU 的需求外溢，会显著提升其产能利用率。\n\n联想集团 (0992)：全球第一大服务器与 PC 厂商。在短缺潮初期，拥有强大供应链管理能力和库存的大厂能通过提价和保证供应，抢占更多政企市场份额。\n\nA股（国产替代与配套产业链）\n海光信息 (688041)：国产 x86 服务器 CPU 的龙头。在 Agentic AI 时代，由于其架构与全球生态兼容性最好，国内算力中心在补齐 CPU 短缺时，海光是第一顺位替代品。\n\n龙芯中科 (688047)：自主架构 CPU 的代表。随着国产自主可控需求增强，在党政和关键基础设施的 Agent 应用中受益。\n\n深南电路 (002916) / 沪电股份 (002463)：理由：配套受益。CPU 核心数增加和 GPU+CPU 配比调整，要求更复杂的 PCB（印制电路板）和封装基板，这些公司是全球高端服务器 PCB 的主力供应商。\n\n澜起科技 (688008)：内存接口芯片龙头。只要 CPU 多，内存条就多。Agent 时代对内存带宽要求极高，其 MRDIMM 和内存接口芯片是 CPU 性能爆发的必需品。\n\n投资逻辑核心其实两点：\n1）量价齐升：CPU 厂商（AMD, Intel, arm、海光）最直接。\n2）卖铲子的人：由于 Agent 需要高带宽，内存配套（澜起）和先进封装/基板（深南）的需求甚至比 CPU 本身更稳。",
+        "contentHtml": "生成式AI往代理式AI迁移中，新的卡脖子环节又出现了，这次是CPU。之前市场关于算力紧缺的讨论都在GPU、HBM、光模块、电力等环节，其实对于CPU的关注比较少。其实Cpu的紧缺传了一段时间了，看最近英特尔、AMD走势最核心驱动力就是来自cpu开始出现紧缺了，甚至连过往不怎么受待见的港股联想集团，最近两周走的也很强。\n\n1、为什agentic ai时代CPU占比会扩大？\n传统AI（主要是大模型训练/推理）高度依赖GPU，因为Transformer的核心是并行矩阵运算，GPU擅长高吞吐的并行计算。这时CPU主要只负责“辅助”：数据路由、内存压缩、GPU调度等，导致数据中心CPU:GPU比例很低（典型1:4~1:8，甚至1颗CPU管8颗GPU）。CPU利用率低，基本是配角。 \n\nAgentic AI完全不同，它不是单次“问答”，而是自主多步循环（Planning → Tool Use → Act → Observe → Reflect → Iterate），涉及：\n1）编排：调度子任务、多智能体协作、分支逻辑、重试机制。\n2）工具调用：网页搜索、API调用、代码执行、数据库查询、向量检索（RAG）、文件处理等。\n3）其他CPU密集任务：上下文管理、KV Cache处理、强化学习（RL）仿真评估、数据预/后处理。\n\n这些任务高度串行、I/O密集、逻辑分支多，GPU并不擅长（甚至会闲置）。研究显示：工具处理阶段在CPU上可占总延迟的50%~90.6%（GPU在等待CPU）。Agentic工作流中CPU动态能耗占比可达44%，比传统AI高3~4倍。\n\n简单说，Agentic AI把“思考”交给GPU，但把“做事/协调”交给CPU。CPU从“管家”变成了“总指挥”，必须大幅增加才能让整个系统高效运转。这就是CPU占比扩大的核心驱动（Intel、AMD、Arm、TrendForce等一致观点）。\n\n2、CPU成为新紧缺环节的现实证据\n今年Q1 Intel/AMD服务器CPU交期已经拉到6-12周，部分型号基本售罄，价格也提了10%以上。厂商自己都说“demand far exceeded expectations”。不是产能不够，而是Agentic AI把CPU从“可有可无”直接干成了“必须配足”的总指挥。\n\n数据中心项目现在除了电力，就是CPU卡脖子最严重。传统x86（Intel/AMD）高功耗+产能紧张，供应链直接打爆。\n\n3、CPU缺口会有多大？\n行业共识是CPU:GPU比例将显著拉近，CPU需求大幅提升：从传统1:4~1:8（CPU:GPU）转向1:1~1:2（部分场景甚至1.4:1，即CPU比GPU还多）。看之前Arm估算，每GW算力需要的CPU核心从3000万激增到1.2亿（4倍增长）\n\nCPU算力份额：在Agentic工作流中，CPU承担的算力比未来机架/集群可能从“GPU主导”转向更平衡，甚至出现专用CPU rack来支撑Agentic编排；AMD/NVIDIA新一代平台已开始按1:2~1:4设计\n\n这就带来了CPU需求的真实拐点，是实打实的硬件重构。\n\n4、特别要说下ARM服务器CPU会更受益一些？\nAgentic AI最需要的就是“高核心数+低功耗+稳定串行处理”。ARM天生多核可扩展、perf/watt领先：Arm AGI CPU（136核，TDP仅300W）对比x86同规格功耗低40%+，每机架性能直接翻倍。风冷机架就能塞8000+核，液冷更能到4万+核，完美解决数据中心的“功耗墙”。\n\n更狠的是生态大转向：AWS Graviton、Google Axion、Microsoft Cobalt早就自研ARM，云巨头集体“去x86化”。Arm 3月直接下场自研AGI CPU（首款量产芯片），Meta、OpenAI、Cerebras都是首发伙伴，OEM有联想、Supermicro。\n\nCounterpoint预测：AI ASIC服务器CPU里，ARM份额从2025年25%干到2029年90%。Arm自己说，这波能把数据中心CPU TAM从30亿版税干到1000亿+，未来几年服务器CPU营收很可能超手机，成为最大增长极。\n\n看下周和5月初英特尔、amd的财报电话会上，cpu实际出货量的变化、以及cpu的真实价格变化。这能说明真的有多紧缺。\n\n5、CPU紧缺哪些公司会受益？\n梳理了下哪些公司会受益，后续关注起来：\n美股最核心：\nIntel (INTC)ntel 依然是服务器 CPU 市场的霸主。短缺潮会提升其过往型号的利润率，且其 Gaudi 与 Xeon 的组合在代理推理端有强劲需求。\n\nAMD (AMD)：理由：在 Agentic AI 服务器市场，AMD 的 EPYC 处理器因多核心优势和高性价比，目前在云厂商中的市占率持续提升，是 GPU+CPU 均衡配置趋势下的首选。\n\nArm Holdings (ARM)：越来越多的云厂商（亚马逊、微软、谷歌）开始自研基于 ARM 架构的 CPU。无论谁赢，只要 Agent 需求推高 CPU 核心数，Arm 的授权费就会大涨。\n\n港股（制造与分销关键点）\n中芯国际 (0981)：虽然其在最先进制程受限，但大量非核心逻辑控制芯片（支持 CPU 运作的辅助芯片）和中端 CPU 的需求外溢，会显著提升其产能利用率。\n\n联想集团 (0992)：全球第一大服务器与 PC 厂商。在短缺潮初期，拥有强大供应链管理能力和库存的大厂能通过提价和保证供应，抢占更多政企市场份额。\n\nA股（国产替代与配套产业链）\n海光信息 (688041)：国产 x86 服务器 CPU 的龙头。在 Agentic AI 时代，由于其架构与全球生态兼容性最好，国内算力中心在补齐 CPU 短缺时，海光是第一顺位替代品。\n\n龙芯中科 (688047)：自主架构 CPU 的代表。随着国产自主可控需求增强，在党政和关键基础设施的 Agent 应用中受益。\n\n深南电路 (002916) / 沪电股份 (002463)：理由：配套受益。CPU 核心数增加和 GPU+CPU 配比调整，要求更复杂的 PCB（印制电路板）和封装基板，这些公司是全球高端服务器 PCB 的主力供应商。\n\n澜起科技 (688008)：内存接口芯片龙头。只要 CPU 多，内存条就多。Agent 时代对内存带宽要求极高，其 MRDIMM 和内存接口芯片是 CPU 性能爆发的必需品。\n\n投资逻辑核心其实两点：\n1）量价齐升：CPU 厂商（AMD, Intel, arm、海光）最直接。\n2）卖铲子的人：由于 Agent 需要高带宽，内存配套（澜起）和先进封装/基板（深南）的需求甚至比 CPU 本身更稳。",
+        "link": "https://x.com/qinbafrank/status/2045031360004558969",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HGFo_i8aoAEvBou.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059126302398087262",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "之前摸他肚子他不高兴还会咬我手不让\n\n最近几天不知道为啥更乖了，肚子可以撸，别把他搞太痒蹬腿就行\n\n🐱肚子手感绝了！比商k3000的腿好摸！",
+      "contentHtml": "之前摸他肚子他不高兴还会咬我手不让\n\n最近几天不知道为啥更乖了，肚子可以撸，别把他搞太痒蹬腿就行\n\n🐱肚子手感绝了！比商k3000的腿好摸！",
+      "publishedAt": "2026-05-26T04:15:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2059126302398087262",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "他为啥喜欢这样子",
+        "contentHtml": "他为啥喜欢这样子",
+        "link": "https://x.com/Bitfatty/status/2057687856081162443",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI5gMdNawAAgoH_.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059121592714801351",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "1. 不要因估值买入或卖出\n\n2. 半导体公司管理层任何时候都看多\n\n3. 半导体是周期性的；别信\"半导体不再周期\"\n\n4. City Slickers 法则——半导体股一般只受一件事驱动，你的工作是找出那一件事\n\n5. 产品周期对股价/EPS 的拉动通常比你想得更高、更久。反过来（不幸地）也成立\n\n6. 以牺牲毛利换收入，几乎从未成功\n\n7. lead time 拉长时买入，lead time 缩短时卖出\n\n8. 真正\"这次不一样\"极少；会发生，但极少\n\n9. 警惕\"只是一个季度的问题\"这种说法\n\n10. 别指望管理层提前给你预报下行——参见 2\n\n11. 并购成功率最高的是收购方对所购业务有经验；没经验时风险大幅上升\n\n12. 大多数科技公司只做好一件事；当那个模式衰退时，转型到另一业务并做好，极其罕见\n\n13. 二线公司下行时最早最惨、上行时最晚最弱\n\n14. \"价值型\"科技股要起作用，通常需要管理层或商业实践的改变\n\n15. 当股票坏消息不再跌、好消息不再涨时，该停下来重新思考",
+      "contentHtml": "1. 不要因估值买入或卖出\n\n2. 半导体公司管理层任何时候都看多\n\n3. 半导体是周期性的；别信\"半导体不再周期\"\n\n4. City Slickers 法则——半导体股一般只受一件事驱动，你的工作是找出那一件事\n\n5. 产品周期对股价/EPS 的拉动通常比你想得更高、更久。反过来（不幸地）也成立\n\n6. 以牺牲毛利换收入，几乎从未成功\n\n7. lead time 拉长时买入，lead time 缩短时卖出\n\n8. 真正\"这次不一样\"极少；会发生，但极少\n\n9. 警惕\"只是一个季度的问题\"这种说法\n\n10. 别指望管理层提前给你预报下行——参见 2\n\n11. 并购成功率最高的是收购方对所购业务有经验；没经验时风险大幅上升\n\n12. 大多数科技公司只做好一件事；当那个模式衰退时，转型到另一业务并做好，极其罕见\n\n13. 二线公司下行时最早最惨、上行时最晚最弱\n\n14. \"价值型\"科技股要起作用，通常需要管理层或商业实践的改变\n\n15. 当股票坏消息不再跌、好消息不再涨时，该停下来重新思考",
+      "publishedAt": "2026-05-26T03:56:00.000Z",
+      "link": "https://x.com/dongbimao/status/2059121592714801351",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2059116625153122791",
       "username": "qinbafrank",
@@ -12051,102 +12160,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HDS2NyabkAAXJ-g.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056512837200085370",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "全X都在盯着那位重仓BE的大佬一季度调仓，99%都是为了流量，剩下的1%是傻。\n4月份什么行情？空仓也许已经平了，多仓也许也已经止盈了。吃屎都赶不上热乎的。",
-      "contentHtml": "全X都在盯着那位重仓BE的大佬一季度调仓，99%都是为了流量，剩下的1%是傻。\n4月份什么行情？空仓也许已经平了，多仓也许也已经止盈了。吃屎都赶不上热乎的。",
-      "publishedAt": "2026-05-18T23:10:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2056512837200085370",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056502082606350496",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
-      "content": "pre-IPO市场和我之前设想的新版本“ICO”很像，这会是下轮牛市的叙事。",
-      "contentHtml": "pre-IPO市场和我之前设想的新版本“ICO”很像，这会是下轮牛市的叙事。",
-      "publishedAt": "2026-05-18T22:27:00.000Z",
-      "link": "https://x.com/hazenlee/status/2056502082606350496",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIopvL0bUAAehaS.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "最近在旅行，也在路上思考了很多，结合当下的科技金融发展，简单总结一下。\n稳定币是币圈目前唯一跑出来的落地应用。CRCL的涨幅真的让我这个重仓苹果的老登拍断大腿，错失了美股大仓位短时间翻倍的好机会。还有一个落地的币圈玩物是交易所（传统金融模式新瓶装旧酒）\n但稳定币近几年依赖加息周期，所获得的利润率实际上未来并不一定持续，所以稳定币的下一个增长点是基于稳定币的智能合约在现实中的应用。这个其实就是把传统金融的银行搬到了链上。而CEX交易所肯定目前已经到达了瓶颈，DEX值得期待，但我不期待链上合约赌场版本的的DEX。这个承载的市场绝对和稳定币的全球支付底层基建无法比拟。如果未来DEX能有真正的落地机会，我相信是伴随着SEC监管放开的合法ICO市场。相当于把美股粉单市场用ICO链改版承接流动性，各种类似Kickstarter, On Chain Business或者AI Agent的概念合规落地。而通过Dex和这些项目交互 交换价值。而这些新概念的落地项目才是Web3.2时代的“山寨币”。哦对了，之前的古典山寨老币登包括pumpfun的meme，都是Web3.1时代的文化遗址，类似于pet到com这种互联网泡沫时期的域名美股公司一样。随便一个名字就可以割韭菜的事情不止一次在人类金融/科技史上发生。",
-        "contentHtml": "最近在旅行，也在路上思考了很多，结合当下的科技金融发展，简单总结一下。\n稳定币是币圈目前唯一跑出来的落地应用。CRCL的涨幅真的让我这个重仓苹果的老登拍断大腿，错失了美股大仓位短时间翻倍的好机会。还有一个落地的币圈玩物是交易所（传统金融模式新瓶装旧酒）\n但稳定币近几年依赖加息周期，所获得的利润率实际上未来并不一定持续，所以稳定币的下一个增长点是基于稳定币的智能合约在现实中的应用。这个其实就是把传统金融的银行搬到了链上。而CEX交易所肯定目前已经到达了瓶颈，DEX值得期待，但我不期待链上合约赌场版本的的DEX。这个承载的市场绝对和稳定币的全球支付底层基建无法比拟。如果未来DEX能有真正的落地机会，我相信是伴随着SEC监管放开的合法ICO市场。相当于把美股粉单市场用ICO链改版承接流动性，各种类似Kickstarter, On Chain Business或者AI Agent的概念合规落地。而通过Dex和这些项目交互 交换价值。而这些新概念的落地项目才是Web3.2时代的“山寨币”。哦对了，之前的古典山寨老币登包括pumpfun的meme，都是Web3.1时代的文化遗址，类似于pet到com这种互联网泡沫时期的域名美股公司一样。随便一个名字就可以割韭菜的事情不止一次在人类金融/科技史上发生。",
-        "link": "https://x.com/hazenlee/status/1935471673043771696"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056498564810121221",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
-      "content": "兄弟，刚有个妹妹一直打听你5月20号是不是一个人，你不是人还能是什么？我帮你把她骂走了，不用谢，都是哥们儿，你放心打币安欧意游戏",
-      "contentHtml": "兄弟，刚有个妹妹一直打听你5月20号是不是一个人，你不是人还能是什么？我帮你把她骂走了，不用谢，都是哥们儿，你放心打币安欧意游戏",
-      "publishedAt": "2026-05-18T22:14:00.000Z",
-      "link": "https://x.com/hazenlee/status/2056498564810121221",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056494798920372529",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "$BTC \n\nThe best approach is probably just to DCA consistently over the next few months.\n\nHistorically, long term holders have almost always outperformed traders. As for the idea of BTC testing 55K, if history repeats itself, we could definitely see price trend below 60K at some point. \n\nHowever, at some point history will deviate. So calling for 55K specifically is a pretty aggressive prediction. \n\nYou also never want to get too attached to one exact target because that increases the chances of getting front run.\n\nStick to a plan. Keep it simple. 🤟",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nThe best approach is probably just to DCA consistently over the next few months.\n\nHistorically, long term holders have almost always outperformed traders. As for the idea of BTC testing 55K, if history repeats itself, we could definitely see price trend below 60K at some point. \n\nHowever, at some point history will deviate. So calling for 55K specifically is a pretty aggressive prediction. \n\nYou also never want to get too attached to one exact target because that increases the chances of getting front run.\n\nStick to a plan. Keep it simple. 🤟",
-      "publishedAt": "2026-05-18T21:59:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2056494798920372529",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIoi0QjWkAAaq3W.png"
-        }
-      ],
-      "quote": {
-        "username": "Kalshi_Crypto",
-        "displayName": "Kalshi Crypto",
-        "content": "BREAKING: Our traders forecast Bitcoin will crash to $55,000 this year",
-        "contentHtml": "BREAKING: Our traders forecast Bitcoin will crash to $55,000 this year",
-        "link": "https://x.com/Kalshi_Crypto/status/2056376849639367137",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIm32FxXoAA1206.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIm3fqZWQAAyFXW.png"
           }
         ]
       },
