@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T02:19:39.941Z",
+  "lastUpdated": "2026-05-26T03:46:30.061Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,210 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 587,
+    "newFetched": 585,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2059116625153122791",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "聊聊闪迪之前财报披露的长期协议模式，也是能改变存储厂商业务逻辑和估值逻辑的核心。闪迪最近大力推广的“新商业模式”（简称NBMs），核心是与大客户（主要是数据中心、云服务商等）签订多年期长期供应协议，不再像传统存储行业那样靠季度现货议价，而是用强约束力的合同锁定产能、收入和风险。\n\n之前财报电话会上CEO亲自回应市场质疑，明确指出：客户不仅有预付款，还提供了数十亿美元的抵押/金融担保物（collateral），一旦违约立即转化为赔偿。 \n\n基于闪迪财报电话会和10-Q文件披露。梳理下闪迪与客户签的长期协议条款\n1、合同规模和覆盖范围\n1）已签署5份多年期供应协议（最长可达5年）。\n2）这些协议已锁定2027财年超过1/3的NAND出货量，CEO表示随着后续签约推进，这个比例有望突破50%。\n2）其中仅第三季度签署的3份合同，最低合同收入（Remaining Performance Obligations，RPO）就达到约420亿美元。\n\n2、预付款（Prepayments）\n1）部分客户已直接支付现金预付款。截至第三季度末，已体现在资产负债表上的预付款约为4亿美元。\n这部分预付款直接改善了闪迪的现金流，也降低了供应商的产能投资风险。 \n\n3、抵押物 / 金融担保（Collateral / Financial Guarantees）\n1）总金融担保超过110亿美元（5份协议合计）。\n2）除了4亿美元预付款外，其余部分通过第三方金融机构管理的多种金融工具（如信用证、保函、抵押品等）实现。这些担保覆盖整个合同周期（全生命周期有效），不是一次性。\n3）关键约束力：如果客户未能完成季度采购义务，相关金融担保将立即自动转化为违约赔偿，直接补偿闪迪的损失。\n\n4、价格机制 混合模式：短期部分固定价，长期部分引入浮动价，既给客户一定价格缓冲，也让闪迪在市场价格上涨时能额外获利。\n\nCEO Goeckeler原话（大意）： “外界有时质疑这些协议能否落实。我可以明确地说，实际情况完全相反。我们的客户是真实地在以数十亿美元的抵押品为担保——通过由第三方金融机构管理的各类金融工具，在整个合同期内有效。如果他们未能按季度如期履约，相应的财务赔偿将立即支付给我们。” \n\n为什么会变成强约束力的长期协议\n1）主要还是AI驱动的数据中心成为NAND最大需求方，市场从“买方市场”转向“卖方市场”。\n2）闪迪通过这些“带牙齿”的长约，实现营收能见度大幅提升、风险可控，同时激励自己扩大HBF（高比特闪存）等先进产能投资。\n3）不这么做，供应商产能投资犹豫，供给受限，影响的还是下游客户的自身业务。\n4）以前存储行业都是季度现货，价格波动很大，现在存储厂商对此心有余悸。\n\n三星在之前财报会上也明确表示，新型合同加入预付款 + 最低收入保障 + 金融抵押品后，约束力远超过去“基于互信”的老模式。 海力士也有此动作。逐渐这种带有预付款和抵押物的长期协议可能成为存储行业的惯例了。\n\n需要重视这种“长期协议 + 预付款 + 抵押物”的模式，不只是简单锁产能，而是把合同变成了强法律+金融绑定的框架：客户想拿稳定货源，就必须真金白银（预付款+担保）做背书；闪迪则获得稳定现金流和最低收入底线，双方风险共担。\n\n其实更重要的是，这种长期协议机制能让存储厂商未来几年的业务增长变得非常确定，透明性大大提高。",
+      "contentHtml": "聊聊闪迪之前财报披露的长期协议模式，也是能改变存储厂商业务逻辑和估值逻辑的核心。闪迪最近大力推广的“新商业模式”（简称NBMs），核心是与大客户（主要是数据中心、云服务商等）签订多年期长期供应协议，不再像传统存储行业那样靠季度现货议价，而是用强约束力的合同锁定产能、收入和风险。\n\n之前财报电话会上CEO亲自回应市场质疑，明确指出：客户不仅有预付款，还提供了数十亿美元的抵押/金融担保物（collateral），一旦违约立即转化为赔偿。 \n\n基于闪迪财报电话会和10-Q文件披露。梳理下闪迪与客户签的长期协议条款\n1、合同规模和覆盖范围\n1）已签署5份多年期供应协议（最长可达5年）。\n2）这些协议已锁定2027财年超过1/3的NAND出货量，CEO表示随着后续签约推进，这个比例有望突破50%。\n2）其中仅第三季度签署的3份合同，最低合同收入（Remaining Performance Obligations，RPO）就达到约420亿美元。\n\n2、预付款（Prepayments）\n1）部分客户已直接支付现金预付款。截至第三季度末，已体现在资产负债表上的预付款约为4亿美元。\n这部分预付款直接改善了闪迪的现金流，也降低了供应商的产能投资风险。 \n\n3、抵押物 / 金融担保（Collateral / Financial Guarantees）\n1）总金融担保超过110亿美元（5份协议合计）。\n2）除了4亿美元预付款外，其余部分通过第三方金融机构管理的多种金融工具（如信用证、保函、抵押品等）实现。这些担保覆盖整个合同周期（全生命周期有效），不是一次性。\n3）关键约束力：如果客户未能完成季度采购义务，相关金融担保将立即自动转化为违约赔偿，直接补偿闪迪的损失。\n\n4、价格机制 混合模式：短期部分固定价，长期部分引入浮动价，既给客户一定价格缓冲，也让闪迪在市场价格上涨时能额外获利。\n\nCEO Goeckeler原话（大意）： “外界有时质疑这些协议能否落实。我可以明确地说，实际情况完全相反。我们的客户是真实地在以数十亿美元的抵押品为担保——通过由第三方金融机构管理的各类金融工具，在整个合同期内有效。如果他们未能按季度如期履约，相应的财务赔偿将立即支付给我们。” \n\n为什么会变成强约束力的长期协议\n1）主要还是AI驱动的数据中心成为NAND最大需求方，市场从“买方市场”转向“卖方市场”。\n2）闪迪通过这些“带牙齿”的长约，实现营收能见度大幅提升、风险可控，同时激励自己扩大HBF（高比特闪存）等先进产能投资。\n3）不这么做，供应商产能投资犹豫，供给受限，影响的还是下游客户的自身业务。\n4）以前存储行业都是季度现货，价格波动很大，现在存储厂商对此心有余悸。\n\n三星在之前财报会上也明确表示，新型合同加入预付款 + 最低收入保障 + 金融抵押品后，约束力远超过去“基于互信”的老模式。 海力士也有此动作。逐渐这种带有预付款和抵押物的长期协议可能成为存储行业的惯例了。\n\n需要重视这种“长期协议 + 预付款 + 抵押物”的模式，不只是简单锁产能，而是把合同变成了强法律+金融绑定的框架：客户想拿稳定货源，就必须真金白银（预付款+担保）做背书；闪迪则获得稳定现金流和最低收入底线，双方风险共担。\n\n其实更重要的是，这种长期协议机制能让存储厂商未来几年的业务增长变得非常确定，透明性大大提高。",
+      "publishedAt": "2026-05-26T03:37:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2059116625153122791",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "长期协议LTA正在改变AI生态，OpenAI对B端（企业客户）推出的“Guaranteed Capacity”或类似的企业级容量保障计划，实质上就是一份长期协议LTA。不得不说长期协议LTA正在改变AI生态，之前LTA开始于AI算力上游供应链：\n1）存储厂商要求下游芯片客户签订长期供货协议，以锁定需求才能扩产（这也是很多投行认为能改变存储厂商估值方式的核心逻辑）；\n2）英伟达为了推动CPO，跟LIte、cohr签了长期协议，优先获得激光器、光互连的关键零部件供应；\n3）大模型厂商为了获得算力、纷纷抛给云厂商大量的长期算力协议；\n现在OpenAI是把上游供应链的“长协锁产能”模式延伸到下游企业端。\n\n这是AI算力成为稀缺资源背景下，向企业客户提供的优先保障和折扣锁定机制，好处确实不小：\n1）解决算力瓶颈，给企业确定\n企业通过签 1-3 年长期协议，能锁定折扣 token 价格 + 优先访问权（包括 GPT 系列、o 系列、Agent 等前沿模型）。\n\n对企业客户来说、预算可控、成本更低、不会被突然限流或涨价，适合大规模部署 AI Agent、生产力工具等。\n\n2）对大模型厂商来说\n过去 OpenAI 企业收入主要靠 ChatGPT Enterprise + API 按量计费，LTA 让 OpenAI获得可预测的长期高额收入（类似芯片厂的 LTA），帮助其规划巨额 CapEx（资本开支），同时绑定大客户。\n\n当然最核心的意义还是加速 B 端渗透，抢占企业 AI 市场，OpenAI 正在大力转向 B 端（Frontier 平台、Deployment Company、Codex 等），企业收入占比已显著提升。LTA 是绑定头部企业的“护城河”工具，帮助 OpenAI 对抗 Anthropic、Google 等竞争对手。\n\n这么好的玩法和模式，相信Authropic、google等都会快速跟进。\n\n可以说LTA是把“稀缺算力”商品化的关键一步，既给企业吃了“定心丸”，也为大模型厂商锁定了长期现金流和市场主导权。这也算是大模型进一步“基础设施化”的重要一步。",
+        "contentHtml": "长期协议LTA正在改变AI生态，OpenAI对B端（企业客户）推出的“Guaranteed Capacity”或类似的企业级容量保障计划，实质上就是一份长期协议LTA。不得不说长期协议LTA正在改变AI生态，之前LTA开始于AI算力上游供应链：\n1）存储厂商要求下游芯片客户签订长期供货协议，以锁定需求才能扩产（这也是很多投行认为能改变存储厂商估值方式的核心逻辑）；\n2）英伟达为了推动CPO，跟LIte、cohr签了长期协议，优先获得激光器、光互连的关键零部件供应；\n3）大模型厂商为了获得算力、纷纷抛给云厂商大量的长期算力协议；\n现在OpenAI是把上游供应链的“长协锁产能”模式延伸到下游企业端。\n\n这是AI算力成为稀缺资源背景下，向企业客户提供的优先保障和折扣锁定机制，好处确实不小：\n1）解决算力瓶颈，给企业确定\n企业通过签 1-3 年长期协议，能锁定折扣 token 价格 + 优先访问权（包括 GPT 系列、o 系列、Agent 等前沿模型）。\n\n对企业客户来说、预算可控、成本更低、不会被突然限流或涨价，适合大规模部署 AI Agent、生产力工具等。\n\n2）对大模型厂商来说\n过去 OpenAI 企业收入主要靠 ChatGPT Enterprise + API 按量计费，LTA 让 OpenAI获得可预测的长期高额收入（类似芯片厂的 LTA），帮助其规划巨额 CapEx（资本开支），同时绑定大客户。\n\n当然最核心的意义还是加速 B 端渗透，抢占企业 AI 市场，OpenAI 正在大力转向 B 端（Frontier 平台、Deployment Company、Codex 等），企业收入占比已显著提升。LTA 是绑定头部企业的“护城河”工具，帮助 OpenAI 对抗 Anthropic、Google 等竞争对手。\n\n这么好的玩法和模式，相信Authropic、google等都会快速跟进。\n\n可以说LTA是把“稀缺算力”商品化的关键一步，既给企业吃了“定心丸”，也为大模型厂商锁定了长期现金流和市场主导权。这也算是大模型进一步“基础设施化”的重要一步。",
+        "link": "https://x.com/qinbafrank/status/2057008968095207715",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIv2wE5a8AA9zgR.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059110594876526739",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "来点返佣，宝贝儿们\n\n有啥不能空的，一个加息，一个美元起来，干爆多头",
+      "contentHtml": "来点返佣，宝贝儿们\n\n有啥不能空的，一个加息，一个美元起来，干爆多头",
+      "publishedAt": "2026-05-26T03:13:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2059110594876526739",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJNuKonaMAAiJyB.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "喜欢看广告的有福了\n\n很多人问没有美股账户，想空 疯狗 $crcl\n去哪里\n\nBybit搞了个tradefi ，简单来说就是个外汇台子包进了bybit交易所 ，股票也陆续上了\n\n没账户的这边注册，邀请码恭喜发财拼音缩写，自带33%自动返佣\npartner.bybit.com/b/GXFC  \n\n风险提示：老赌狗都知道这类台子有一些猫腻风险，如遇极端特殊情况记得录屏截图啥的，方便维权  \n大部分情况都相对公平可用，钱多仓位大的注意我上面说的情况",
+        "contentHtml": "喜欢看广告的有福了\n\n很多人问没有美股账户，想空 疯狗 <a href=\"/search?f=tweets&q=%23crcl\">$crcl</a>\n去哪里\n\nBybit搞了个tradefi ，简单来说就是个外汇台子包进了bybit交易所 ，股票也陆续上了\n\n没账户的这边注册，邀请码恭喜发财拼音缩写，自带33%自动返佣\n<a href=\"https://partner.bybit.com/b/GXFC\">partner.bybit.com/b/GXFC</a>  \n\n风险提示：老赌狗都知道这类台子有一些猫腻风险，如遇极端特殊情况记得录屏截图啥的，方便维权  \n大部分情况都相对公平可用，钱多仓位大的注意我上面说的情况",
+        "link": "https://x.com/Bitfatty/status/1937881390965817758",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/GuS81zyasAETIOj.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/GuS81zpa4AACOKF.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059110142675943600",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
+      "content": "一个我称之为【熊市三叉】的比特币链上指标，历史上比特币各轮熊市的前期 (B)、中期 (M)、后期 (L)，均会出现标志性死叉\n────────────────────────\n【#BTC 四年周期总刻系列（36）】\n\n⚫️ 黑线为链上持币3-6个月的投资者平均购币成本\n🟠 橙线为链上持币6-12个月的投资者平均购币成本\n🔵 蓝线为链上持币1-2年的投资者平均购币成本\n\n📉 熊市第一叉 ➔ 历史上比特币各轮熊市前期 (B)，黑线往往死叉橙线\n📉 熊市第二叉 ➔ 历史上比特币各轮熊市中期 (M)，黑线往往死叉蓝线\n📉 熊市第三叉 ➔ 历史上比特币各轮熊市后期 (L)，橙线往往死叉蓝线\n\n本轮熊市第一叉已完成，距离第二叉还差 1118 刀",
+      "contentHtml": "一个我称之为【熊市三叉】的比特币链上指标，历史上比特币各轮熊市的前期 (B)、中期 (M)、后期 (L)，均会出现标志性死叉\n────────────────────────\n【<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 四年周期总刻系列（36）】\n\n⚫️ 黑线为链上持币3-6个月的投资者平均购币成本\n🟠 橙线为链上持币6-12个月的投资者平均购币成本\n🔵 蓝线为链上持币1-2年的投资者平均购币成本\n\n📉 熊市第一叉 ➔ 历史上比特币各轮熊市前期 (B)，黑线往往死叉橙线\n📉 熊市第二叉 ➔ 历史上比特币各轮熊市中期 (M)，黑线往往死叉蓝线\n📉 熊市第三叉 ➔ 历史上比特币各轮熊市后期 (L)，橙线往往死叉蓝线\n\n本轮熊市第一叉已完成，距离第二叉还差 1118 刀",
+      "publishedAt": "2026-05-26T03:11:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2059110142675943600",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJNpvv0awAApBMH.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【#BTC 四年周期总刻系列（35）】\n\n2021年02月 MSTR 见顶后 457天 到次熊底\n2024年11月 MSTR 见顶后 441天 到 $104",
+        "contentHtml": "【<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 四年周期总刻系列（35）】\n\n2021年02月 MSTR 见顶后 457天 到次熊底\n2024年11月 MSTR 见顶后 441天 到 $104",
+        "link": "https://x.com/0xCryptoChan/status/2051855089195966638",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HHmmX_dbkAAKuq2.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059107149788360945",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "不出所料  啥都不能信\n\n可问题是出消息的时候，傻逼新闻交易真的跟，烦死了",
+      "contentHtml": "不出所料  啥都不能信\n\n可问题是出消息的时候，傻逼新闻交易真的跟，烦死了",
+      "publishedAt": "2026-05-26T02:59:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2059107149788360945",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJNrCARbwAArof8.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJNrCATbEAAO3f0.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059103246430638418",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#AI  #能源 #A股 #沪电股份\n\n美股的电力股比如 #BE  一直新高，也买点A股的电力股感受下\n\nBE一年涨了18倍\n沪电股份一年涨了5倍\n\n相信中国科技会崛起🥺🥺",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a>  <a href=\"/search?f=tweets&q=%23能源\">#能源</a> <a href=\"/search?f=tweets&q=%23A股\">#A股</a> <a href=\"/search?f=tweets&q=%23沪电股份\">#沪电股份</a>\n\n美股的电力股比如 <a href=\"/search?f=tweets&q=%23BE\">#BE</a>  一直新高，也买点A股的电力股感受下\n\nBE一年涨了18倍\n沪电股份一年涨了5倍\n\n相信中国科技会崛起🥺🥺",
+      "publishedAt": "2026-05-26T02:44:00.000Z",
+      "link": "https://x.com/dongbimao/status/2059103246430638418",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJNnac4aAAA3TBn.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059100028195701163",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "大手笔，投入 1674 万美元开启新一轮 $ETH 波段😆\n\nETH 波段巨鲸 nemorino.eth 13 小时前通过 Cowswap 在链上买入 7908.3 枚 ETH，均价 $2,117.46，其中 2372.71 枚还是通过 Spark 质押借出的 500 万枚 DAI 上杠杆买入的\n\n钱包地址 explorer.cow.fi/address/0x8A…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "contentHtml": "大手笔，投入 1674 万美元开启新一轮 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 波段😆\n\nETH 波段巨鲸 nemorino.eth 13 小时前通过 Cowswap 在链上买入 7908.3 枚 ETH，均价 $2,117.46，其中 2372.71 枚还是通过 Spark 质押借出的 500 万枚 DAI 上杠杆买入的\n\n钱包地址 <a href=\"https://explorer.cow.fi/address/0x8AeCc5526F92A46718f8E68516D22038D8670E0D\">explorer.cow.fi/address/0x8A…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "publishedAt": "2026-05-26T02:31:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2059100028195701163",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJNkjG5aIAAPVlJ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059097307124269240",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "美伊谈判的进展，为何美军又短暂开火？1、首先谈应该真在谈，昨天的公开信息最关键的是除了巴基斯坦外，卡塔尔和阿曼也参与进到谈判和斡旋进程中了。\n1）伊朗首席谈判代表和外长在多哈同卡塔尔首相讨论潜在美伊协议；知情官员称，多哈会谈主要围绕霍尔木兹海峡、伊朗高浓缩铀库存，以及伊朗央行行长参与讨论的被冻结资金释放问题。伊朗最高级别谈判班子转到多哈，说明确实已经进入“收口谈判”阶段。\n2）阿曼和伊朗代表团讨论了依据国际法管理霍尔木兹自由航行的一套原则，并强调要保障航运、贸易和供应链安全。 这说明海峡问题已经从政治口号进入技术性文本和执行机制讨论。阿曼不是主调停人，但在霍尔木兹问题上是天然当事方，因为阿曼与伊朗分处海峡两岸，而且之前伊朗方面也多次表示要与阿曼一起协调管理霍尔木兹海峡。\n\n2、分歧依然存在且不小，如昨晚上这两条消息（图一），美伊双方解决措辞分歧，意味着双方的谈判已经进入了最后关键时刻。解决措辞分歧，可以看双方的潜台词是：\n1）美国：“霍尔木兹必须实质开放，但不想名义上还受伊朗主导；伊朗核武路径必须被切断，高浓缩铀至少要写入可验证处理路径；可接受把核细节放进60天后续谈判，但之前得有个承诺。”\n2）伊朗：“可以恢复通航，可以进入核谈判，可以做某种铀库存安排，但不能被包装成伊朗投降，也不想丢掉在霍尔木兹完全失去管理/协调权。”\n核心本质还是说双方都需要一个体面的说辞，如昨天聊到的一胜各表。\n\n3、早上美军在伊朗南部的“自卫性打击”，个人更视为是一种极限施压。川普希望尽快达成协议，但是也不想在协议中让步太多，就是通过这种方式来施压伊朗，向伊朗表明美军做好了随时动手的准备。个人觉得概率不大\n\n本质还是之前聊到的川普无法忍受封锁消耗战的煎熬，试图尽快打破僵局结束冲突，他无法承受拖延的后果。\n 伊朗也不希望海岸线被继续封锁，石油出口被阻断经济收入受重创，更不希望川普重启战争，虽然有自保和反击能力，但是国内被炸成稀烂民生也是问题。\n\n再加上谈了这么久，再度重启大打出手的意愿其实在一步步减弱的。核心是，即使出手也不一定能拿到自己想要的，有可能是个新泥潭。这很关键。\n越接近战争，也越接近和解。（这个容易被打脸）\n\n4、个人角度，美伊双方还是越来越有可能达成昨天聊到的去年中美贸易战的休战模式。\n1）先结束战争和封锁先降温。 结束或延长目前脆弱停火，降低美伊直接冲突风险，美国逐步解除对伊朗港口和相关海上运输的封锁。让霍尔木兹逐步重新开放；\n\n2）霍尔木兹恢复通航，但执行权争议很大。 美国要的是“国际水道、无收费、无胁迫、完全开放”；伊朗则说“不收通行费”，但可以收取导航服务和环保措施相关费用，并通过与阿曼商定的协议执行。\n\n霍尔木兹最终文本很可能会包装成“伊朗—阿曼—国际法框架下保障自由航行”。 这是给伊朗留面子，也给美国一个可执行的通航机制。\n\n3）高浓缩铀问题先写原则，细节后谈。潜在协议下伊朗会同意放弃高浓缩铀库存，但如何处理将在60天谈判期内解决，可能包括稀释一部分、其余转移到第三国；美国官员称，如果伊朗不放弃库存，就不会有制裁relief。 但伊朗方面口径更谨慎，强调当前MoU不细谈核问题，只承诺进入后续谈判。\n\n4）资金、制裁和油气出口是伊朗的关键交换品。 \n路透社报道称谈判还涉及被冻结的伊朗资金释放；Guardian称伊朗官员提到在卡塔尔被冻结的资产，并指出伊朗央行行长前往卡塔尔。 这说明伊朗不是只要“停战”，而是要可见的经济回报。\n这一点其实还是看前面三点，前面三点差不多了，第四点其实达成一致的可能性很高。\n\n现在谈判局势给我的感觉就是，现在不是“空穴来风”，阶段性协协议备忘录也是在真正最后沟通，细节条款上还在僵持；\n但也不是“已经临门一脚必进”。\n准确说是：球已经在禁区里，但球门前还在混战。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "美伊谈判的进展，为何美军又短暂开火？1、首先谈应该真在谈，昨天的公开信息最关键的是除了巴基斯坦外，卡塔尔和阿曼也参与进到谈判和斡旋进程中了。\n1）伊朗首席谈判代表和外长在多哈同卡塔尔首相讨论潜在美伊协议；知情官员称，多哈会谈主要围绕霍尔木兹海峡、伊朗高浓缩铀库存，以及伊朗央行行长参与讨论的被冻结资金释放问题。伊朗最高级别谈判班子转到多哈，说明确实已经进入“收口谈判”阶段。\n2）阿曼和伊朗代表团讨论了依据国际法管理霍尔木兹自由航行的一套原则，并强调要保障航运、贸易和供应链安全。 这说明海峡问题已经从政治口号进入技术性文本和执行机制讨论。阿曼不是主调停人，但在霍尔木兹问题上是天然当事方，因为阿曼与伊朗分处海峡两岸，而且之前伊朗方面也多次表示要与阿曼一起协调管理霍尔木兹海峡。\n\n2、分歧依然存在且不小，如昨晚上这两条消息（图一），美伊双方解决措辞分歧，意味着双方的谈判已经进入了最后关键时刻。解决措辞分歧，可以看双方的潜台词是：\n1）美国：“霍尔木兹必须实质开放，但不想名义上还受伊朗主导；伊朗核武路径必须被切断，高浓缩铀至少要写入可验证处理路径；可接受把核细节放进60天后续谈判，但之前得有个承诺。”\n2）伊朗：“可以恢复通航，可以进入核谈判，可以做某种铀库存安排，但不能被包装成伊朗投降，也不想丢掉在霍尔木兹完全失去管理/协调权。”\n核心本质还是说双方都需要一个体面的说辞，如昨天聊到的一胜各表。\n\n3、早上美军在伊朗南部的“自卫性打击”，个人更视为是一种极限施压。川普希望尽快达成协议，但是也不想在协议中让步太多，就是通过这种方式来施压伊朗，向伊朗表明美军做好了随时动手的准备。个人觉得概率不大\n\n本质还是之前聊到的川普无法忍受封锁消耗战的煎熬，试图尽快打破僵局结束冲突，他无法承受拖延的后果。\n 伊朗也不希望海岸线被继续封锁，石油出口被阻断经济收入受重创，更不希望川普重启战争，虽然有自保和反击能力，但是国内被炸成稀烂民生也是问题。\n\n再加上谈了这么久，再度重启大打出手的意愿其实在一步步减弱的。核心是，即使出手也不一定能拿到自己想要的，有可能是个新泥潭。这很关键。\n越接近战争，也越接近和解。（这个容易被打脸）\n\n4、个人角度，美伊双方还是越来越有可能达成昨天聊到的去年中美贸易战的休战模式。\n1）先结束战争和封锁先降温。 结束或延长目前脆弱停火，降低美伊直接冲突风险，美国逐步解除对伊朗港口和相关海上运输的封锁。让霍尔木兹逐步重新开放；\n\n2）霍尔木兹恢复通航，但执行权争议很大。 美国要的是“国际水道、无收费、无胁迫、完全开放”；伊朗则说“不收通行费”，但可以收取导航服务和环保措施相关费用，并通过与阿曼商定的协议执行。\n\n霍尔木兹最终文本很可能会包装成“伊朗—阿曼—国际法框架下保障自由航行”。 这是给伊朗留面子，也给美国一个可执行的通航机制。\n\n3）高浓缩铀问题先写原则，细节后谈。潜在协议下伊朗会同意放弃高浓缩铀库存，但如何处理将在60天谈判期内解决，可能包括稀释一部分、其余转移到第三国；美国官员称，如果伊朗不放弃库存，就不会有制裁relief。 但伊朗方面口径更谨慎，强调当前MoU不细谈核问题，只承诺进入后续谈判。\n\n4）资金、制裁和油气出口是伊朗的关键交换品。 \n路透社报道称谈判还涉及被冻结的伊朗资金释放；Guardian称伊朗官员提到在卡塔尔被冻结的资产，并指出伊朗央行行长前往卡塔尔。 这说明伊朗不是只要“停战”，而是要可见的经济回报。\n这一点其实还是看前面三点，前面三点差不多了，第四点其实达成一致的可能性很高。\n\n现在谈判局势给我的感觉就是，现在不是“空穴来风”，阶段性协协议备忘录也是在真正最后沟通，细节条款上还在僵持；\n但也不是“已经临门一脚必进”。\n准确说是：球已经在禁区里，但球门前还在混战。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-05-26T02:20:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2059097307124269240",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJNiFeRb0AAXeaE.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJNdm5EaEAAks8G.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "美伊谈判的进展，到了临门一脚么？昨晚最大的新闻，就是美伊谈判的进展，先看看各方面的表态：1）川普把预期直接推到台前。他公开说，与伊朗有关的和平备忘录已经基本谈妥，最后细节正在讨论，并称霍尔木兹海峡将被重新开放；他还说自己与沙特、阿联酋、卡塔尔、巴基斯坦、土耳其、埃及、约旦、巴林等地区领导人通话，另与以色列总理内塔尼亚胡通话，称进展良好。AP与路透都把这定义为“接近但未完成”的状态，而不是正式签署。\n\n2）伊朗没有否认谈判进展，但立刻否认美国版本的“开放霍尔木兹”。 伊朗半官方Fars报道称，即便有协议，霍尔木兹海峡仍将在伊朗管理之下，并称特朗普关于海峡开放的说法与现实不符；伊朗外交部发言人Baghaei则把当前文本称为“框架协议”，说重点是结束战争、解除制裁和处理伊朗认为重要的问题，核问题不是当前阶段谈判内容。\n\n3）最重要的是巴基斯坦斡旋出现实质推进。 巴基斯坦陆军参谋长Asim Munir元帅在德黑兰与伊朗总统、议长、外长、内政部长等进行了超过24小时的高层接触，巴方称取得认为谈判取得了令人鼓舞的进展并朝最终达成协议推进；巴基斯坦总理Sharif随后表示希望“很快”主办下一轮美伊和平谈判。昨天这里nitter.net/qinbafrank/status/2058…有聊过，巴基斯坦的表态个人认为是最重要的，首先穆尼尔说话有份量，同时他把伊朗温和派和强硬派代表都见到了。\n\n4）相比川普，美国国务卿鲁比奥的表态是“有进展，但底线没变”。 鲁比奥称谈判已有一些进展，未来当天、明天或几天内可能有消息；但他同时强调美国条件包括伊朗不得获得核武、霍尔木兹必须无收费开放、伊朗须交出浓缩铀，并提到若伊朗拒绝开放海峡，美国及盟友需要“Plan B”。\n\n5），伊朗强硬派口径仍然很硬。 伊朗议长、谈判关键人物Qalibaf对Munir说，美国不是诚实的谈判方，伊朗不会在“国家权利”上妥协，并警告若美国重启战争，伊朗反击会更猛烈；路透还指出，伊朗仍保有接近武器级的浓缩铀库存及导弹、无人机和地区代理人能力\n\n把这些信息放在一起，怎么看？\n1、还是之前一直聊到的，美伊双方对于动武兴趣不大，军事上再升级的概率则也不大，双方都不愿意重新回到战争之中。那么最终达成协议的概率是很大的，只是我们并不清楚要达成这个协议的时间节奏和路径会是什么样的？\n\n2、昨晚上各方面的表态，给了我们一个可能的路径。是一个分阶段的框架协议\n第一步正式结束或延长当前战争/停火状态；\n第二步，处理霍尔木兹海峡通航和美国对伊朗港口、船只封锁的问题；\n第三步，开启30到60天左右的后续谈判窗口，之后再谈核问题、制裁、浓缩铀等更难的问题。\n路透报道的框架是“结束战争—解决霍尔木兹—开启更广泛协议谈判”，\nAP报道的版本也包括正式宣布战争结束、恢复海峡通航、美国结束港口封锁，以及随后两个月左右的核问题谈判。还有金融时报昨晚的报道，其实本质上差不多。\n\n3、注意到昨晚伊朗方面表态虽然强调了对霍尔木兹海峡的主权和管理权，但也认同“允许通过霍尔木兹海峡的船只数量恢复到战前水平”就是重大利好。至于是否支付一些费用，资本市场并不太关心，至少不担心石油危机。\n\n伊朗的这个表态非常聪明，先允许数十艘油轮、集装箱船通过海峡（其实这两天每天都有20多艘商船、油轮）通过海峡，这能缓解国际金融市场的焦虑，然后争取时间，把谈判拉长。只要石油能运出来，油价不大幅度飙升，川普的焦虑也能缓解，也不会倒逼他再度暴走动武。因为拖得越久，川普应该是越没有耐心，高油价、通胀持续反弹、利率飙升对他都不利。\n\n只要能有石油运出来，特朗普就不会立即发动打击，就会耐心谈判。\n\n4、越来越感觉美国和伊朗的谈判有点像去年中美贸易战的博弈和谈判过程，谁也不能完全压制住对方。那么中美贸易战的休战模式就变成了很大的可能性。\n1）海峡开放问题极为紧迫，在一定条件下，伊朗对海峡施行一定程度上的开放，美方则予以停止封锁阿曼还和放松制裁的回报，就像中美贸易战中的报复性关税和稀土出口问题；\n2）而像核协议、海峡的地位问题早起尽量模糊化处理，后面慢慢谈。\n\n这里的关键在于川普不想油价继续飙升，带动通胀持续反弹，利率走高，也能从伊朗局势里抽身回归国内事务；\n伊朗也不希望海岸线被继续封锁，石油出口被阻断经济收入受重创，更不希望川普重启战争，虽然有自保和反击能力，但是国内被炸成稀烂民生也是问题。\n\n这种情况下休战式的协议概率大大提高。当然对美国来说，事实上默认了伊朗对海峡的管理权。当然川普可以是美国的封锁逼迫伊朗开放了海峡，伊朗可以说仍然掌握主导权船只要按照伊朗划定的规则通行，一胜各表。\n\n5、看明天周一的油价开盘，会不会出现暴跌。需要注意的是至少双方现在还有分歧——美国说“伊朗必须交出浓缩铀”，伊朗说“核问题以后再谈”。美国说“霍尔木兹必须开放”，伊朗说“先解除港口封锁、先撤军”。\n\n6、下周几天是生死线，看看能不能谈成一份2到3个月的“临时续命（延长停火）”。\n个人角度，最理想剧本是：\n未来几天先出现一个“停战+霍尔木兹恢复商业通航+美国逐步降低封锁+30/60天后续谈判”的声明。 文本会刻意模糊“谁管理霍尔木兹”，可能会写成“依据国际法恢复安全通航，同时由沿岸国/相关机制保障航行安全”。这样，美国能说海峡开放，伊朗能说主权和管理权没有丢。\n\n但这个协议即使宣布，也会是脆弱协议，不是风险出清。真正要观察的是：\n第一批船只是否顺利、无收费、无扣押地通过；\n美国是否真的放松港口和船只封锁；\n伊朗是否停止用“管理权”设置新门槛；\n还要看双方是否在后续谈判中的具体进展，特别是核问题以及海峡定位问题。\n\n如果有这个声明和协议，那么对市场来说就是好消息，强力催化剂；\n如果还是在扯皮、反反复复的，那么市场的耐心会越来越少。\n\n这里核心还是油价的走势，决定了通胀、利率的实际走向。毕竟到了六月：劳动力数据\\cpi 数据\\沃什上台的第一次议息会议，都有可能打击市场信心。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "美伊谈判的进展，到了临门一脚么？昨晚最大的新闻，就是美伊谈判的进展，先看看各方面的表态：1）川普把预期直接推到台前。他公开说，与伊朗有关的和平备忘录已经基本谈妥，最后细节正在讨论，并称霍尔木兹海峡将被重新开放；他还说自己与沙特、阿联酋、卡塔尔、巴基斯坦、土耳其、埃及、约旦、巴林等地区领导人通话，另与以色列总理内塔尼亚胡通话，称进展良好。AP与路透都把这定义为“接近但未完成”的状态，而不是正式签署。\n\n2）伊朗没有否认谈判进展，但立刻否认美国版本的“开放霍尔木兹”。 伊朗半官方Fars报道称，即便有协议，霍尔木兹海峡仍将在伊朗管理之下，并称特朗普关于海峡开放的说法与现实不符；伊朗外交部发言人Baghaei则把当前文本称为“框架协议”，说重点是结束战争、解除制裁和处理伊朗认为重要的问题，核问题不是当前阶段谈判内容。\n\n3）最重要的是巴基斯坦斡旋出现实质推进。 巴基斯坦陆军参谋长Asim Munir元帅在德黑兰与伊朗总统、议长、外长、内政部长等进行了超过24小时的高层接触，巴方称取得认为谈判取得了令人鼓舞的进展并朝最终达成协议推进；巴基斯坦总理Sharif随后表示希望“很快”主办下一轮美伊和平谈判。昨天这里<a href=\"https://nitter.net/qinbafrank/status/2058202543487098994?s=20\">nitter.net/qinbafrank/status/2058…</a>有聊过，巴基斯坦的表态个人认为是最重要的，首先穆尼尔说话有份量，同时他把伊朗温和派和强硬派代表都见到了。\n\n4）相比川普，美国国务卿鲁比奥的表态是“有进展，但底线没变”。 鲁比奥称谈判已有一些进展，未来当天、明天或几天内可能有消息；但他同时强调美国条件包括伊朗不得获得核武、霍尔木兹必须无收费开放、伊朗须交出浓缩铀，并提到若伊朗拒绝开放海峡，美国及盟友需要“Plan B”。\n\n5），伊朗强硬派口径仍然很硬。 伊朗议长、谈判关键人物Qalibaf对Munir说，美国不是诚实的谈判方，伊朗不会在“国家权利”上妥协，并警告若美国重启战争，伊朗反击会更猛烈；路透还指出，伊朗仍保有接近武器级的浓缩铀库存及导弹、无人机和地区代理人能力\n\n把这些信息放在一起，怎么看？\n1、还是之前一直聊到的，美伊双方对于动武兴趣不大，军事上再升级的概率则也不大，双方都不愿意重新回到战争之中。那么最终达成协议的概率是很大的，只是我们并不清楚要达成这个协议的时间节奏和路径会是什么样的？\n\n2、昨晚上各方面的表态，给了我们一个可能的路径。是一个分阶段的框架协议\n第一步正式结束或延长当前战争/停火状态；\n第二步，处理霍尔木兹海峡通航和美国对伊朗港口、船只封锁的问题；\n第三步，开启30到60天左右的后续谈判窗口，之后再谈核问题、制裁、浓缩铀等更难的问题。\n路透报道的框架是“结束战争—解决霍尔木兹—开启更广泛协议谈判”，\nAP报道的版本也包括正式宣布战争结束、恢复海峡通航、美国结束港口封锁，以及随后两个月左右的核问题谈判。还有金融时报昨晚的报道，其实本质上差不多。\n\n3、注意到昨晚伊朗方面表态虽然强调了对霍尔木兹海峡的主权和管理权，但也认同“允许通过霍尔木兹海峡的船只数量恢复到战前水平”就是重大利好。至于是否支付一些费用，资本市场并不太关心，至少不担心石油危机。\n\n伊朗的这个表态非常聪明，先允许数十艘油轮、集装箱船通过海峡（其实这两天每天都有20多艘商船、油轮）通过海峡，这能缓解国际金融市场的焦虑，然后争取时间，把谈判拉长。只要石油能运出来，油价不大幅度飙升，川普的焦虑也能缓解，也不会倒逼他再度暴走动武。因为拖得越久，川普应该是越没有耐心，高油价、通胀持续反弹、利率飙升对他都不利。\n\n只要能有石油运出来，特朗普就不会立即发动打击，就会耐心谈判。\n\n4、越来越感觉美国和伊朗的谈判有点像去年中美贸易战的博弈和谈判过程，谁也不能完全压制住对方。那么中美贸易战的休战模式就变成了很大的可能性。\n1）海峡开放问题极为紧迫，在一定条件下，伊朗对海峡施行一定程度上的开放，美方则予以停止封锁阿曼还和放松制裁的回报，就像中美贸易战中的报复性关税和稀土出口问题；\n2）而像核协议、海峡的地位问题早起尽量模糊化处理，后面慢慢谈。\n\n这里的关键在于川普不想油价继续飙升，带动通胀持续反弹，利率走高，也能从伊朗局势里抽身回归国内事务；\n伊朗也不希望海岸线被继续封锁，石油出口被阻断经济收入受重创，更不希望川普重启战争，虽然有自保和反击能力，但是国内被炸成稀烂民生也是问题。\n\n这种情况下休战式的协议概率大大提高。当然对美国来说，事实上默认了伊朗对海峡的管理权。当然川普可以是美国的封锁逼迫伊朗开放了海峡，伊朗可以说仍然掌握主导权船只要按照伊朗划定的规则通行，一胜各表。\n\n5、看明天周一的油价开盘，会不会出现暴跌。需要注意的是至少双方现在还有分歧——美国说“伊朗必须交出浓缩铀”，伊朗说“核问题以后再谈”。美国说“霍尔木兹必须开放”，伊朗说“先解除港口封锁、先撤军”。\n\n6、下周几天是生死线，看看能不能谈成一份2到3个月的“临时续命（延长停火）”。\n个人角度，最理想剧本是：\n未来几天先出现一个“停战+霍尔木兹恢复商业通航+美国逐步降低封锁+30/60天后续谈判”的声明。 文本会刻意模糊“谁管理霍尔木兹”，可能会写成“依据国际法恢复安全通航，同时由沿岸国/相关机制保障航行安全”。这样，美国能说海峡开放，伊朗能说主权和管理权没有丢。\n\n但这个协议即使宣布，也会是脆弱协议，不是风险出清。真正要观察的是：\n第一批船只是否顺利、无收费、无扣押地通过；\n美国是否真的放松港口和船只封锁；\n伊朗是否停止用“管理权”设置新门槛；\n还要看双方是否在后续谈判中的具体进展，特别是核问题以及海峡定位问题。\n\n如果有这个声明和协议，那么对市场来说就是好消息，强力催化剂；\n如果还是在扯皮、反反复复的，那么市场的耐心会越来越少。\n\n这里核心还是油价的走势，决定了通胀、利率的实际走向。毕竟到了六月：劳动力数据\\cpi 数据\\沃什上台的第一次议息会议，都有可能打击市场信心。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2058405226504397299"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2059094810032800052",
       "username": "ai_9684xtpa",
@@ -11951,157 +12150,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056481163988881467",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "$BTC\n\nI’m tactically long as a hedge into the CME gap fill. I’m not bullish overall. Invalidation is a break below the 74s.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nI’m tactically long as a hedge into the CME gap fill. I’m not bullish overall. Invalidation is a break below the 74s.",
-      "publishedAt": "2026-05-18T21:04:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2056481163988881467",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIoWt1rXQAA06ts.jpg"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "$BTC \n\nI’m gradually building into a small hedge long against the swing short at 77.8K. \n\nYou are probably wondering “why” and the answer is simple:\n\nWe’ve got a CME gap around 79K that could get tested, so because of that I am looking to run an equal hedge to protect my swing short.\n\nIf the gap doesn’t fill and we end up printing another large imbalance like the 84K move, that is unpredictable in my eyes. Because of that, I’m keeping hard stops on the hedge around 74K, while scaling in with fractional entries if we deviate into the 74.8K region.\n\nIf the hedge gets stopped, then we’re likely heading sub 70K. Main focus here is just protecting the short, since these gaps tend to fill more often than not.",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nI’m gradually building into a small hedge long against the swing short at 77.8K. \n\nYou are probably wondering “why” and the answer is simple:\n\nWe’ve got a CME gap around 79K that could get tested, so because of that I am looking to run an equal hedge to protect my swing short.\n\nIf the gap doesn’t fill and we end up printing another large imbalance like the 84K move, that is unpredictable in my eyes. Because of that, I’m keeping hard stops on the hedge around 74K, while scaling in with fractional entries if we deviate into the 74.8K region.\n\nIf the hedge gets stopped, then we’re likely heading sub 70K. Main focus here is just protecting the short, since these gaps tend to fill more often than not.",
-        "link": "https://x.com/KillaXBT/status/2056233665294729432"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056411349136048304",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "Gen Z got flooded with content flexing supercars and expensive watches\n\nThat shit completely distorted their expectations and perception of success\n\nFinancial success is built by being proud of your first $1k / $10k / $100k profit\n\nnot by fantasizing about a Richard Mille",
-      "contentHtml": "Gen Z got flooded with content flexing supercars and expensive watches\n\nThat shit completely distorted their expectations and perception of success\n\nFinancial success is built by being proud of your first $1k / $10k / $100k profit\n\nnot by fantasizing about a Richard Mille",
-      "publishedAt": "2026-05-18T16:27:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2056411349136048304",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056397292232659243",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "全链上财富管理的闭环，迈出实质一步。最近看到Grvt把Earn产品直接接入Centrifuge上的 JTRSY（美债基金），简单说，你把闲置保证金放在Grvt里，它自动去赚机构级美国国债收益率，同时这笔钱依然 100%可用于交易——无需 bridge、无需切换链、无需转托管，资金效率拉满，流动性完全不牺牲。\n\n这听起来简单，但意义不小。过去 DeFi 的问题是碎片化：交易就交易，Earn就Earn，RWA就RWA，大家各自为政。资金在不同协议间来回跳，gas费、桥风险、时机错配，一堆摩擦成本。Grvt这次整合，直接把交易+稳定收益+RWA 抵押打通成一个自托管的统一余额池。也就构成了全链上财富管理闭环的核心：资金统一。\n\n这里多说下，Centrifuge是一家2017年在瑞士成立专注于资产代币化RWA的公司，并得到Coinbase战略投资，已经累计发行超过18亿美金的资产。\n\n对 Grvt 而言，这是从纯Perp DEX向「链上财富平台」转型的关键一跃。用户把更多资金长期停在平台，既交易又 earn，粘性和 TVL 都会上去。后面如果继续接入更多 Centrifuge RWA（信贷、发票融资、真实资产等），整个闭环会越来越厚实。\n\n更广义看，这也是 RWA 赛道从「单纯代币化」走向「深度可组合」的重要信号。以前tokenized Treasury 更多是机构或 DAO 在玩，现在直接嵌入零售交易场景，证明 RWA可以真正成为日常yield来源。\n\n后续如果更多协议跟进，把 earn、trade、借贷、RWA 真正闭环起来，我们可能真的会看到链上金融从「投机乐园」向「成熟财富基础设施」的进化。个人觉得，这才是 RWA + DeFi 下半场最值得长期跟踪的叙事之一。",
-      "contentHtml": "全链上财富管理的闭环，迈出实质一步。最近看到Grvt把Earn产品直接接入Centrifuge上的 JTRSY（美债基金），简单说，你把闲置保证金放在Grvt里，它自动去赚机构级美国国债收益率，同时这笔钱依然 100%可用于交易——无需 bridge、无需切换链、无需转托管，资金效率拉满，流动性完全不牺牲。\n\n这听起来简单，但意义不小。过去 DeFi 的问题是碎片化：交易就交易，Earn就Earn，RWA就RWA，大家各自为政。资金在不同协议间来回跳，gas费、桥风险、时机错配，一堆摩擦成本。Grvt这次整合，直接把交易+稳定收益+RWA 抵押打通成一个自托管的统一余额池。也就构成了全链上财富管理闭环的核心：资金统一。\n\n这里多说下，Centrifuge是一家2017年在瑞士成立专注于资产代币化RWA的公司，并得到Coinbase战略投资，已经累计发行超过18亿美金的资产。\n\n对 Grvt 而言，这是从纯Perp DEX向「链上财富平台」转型的关键一跃。用户把更多资金长期停在平台，既交易又 earn，粘性和 TVL 都会上去。后面如果继续接入更多 Centrifuge RWA（信贷、发票融资、真实资产等），整个闭环会越来越厚实。\n\n更广义看，这也是 RWA 赛道从「单纯代币化」走向「深度可组合」的重要信号。以前tokenized Treasury 更多是机构或 DAO 在玩，现在直接嵌入零售交易场景，证明 RWA可以真正成为日常yield来源。\n\n后续如果更多协议跟进，把 earn、trade、借贷、RWA 真正闭环起来，我们可能真的会看到链上金融从「投机乐园」向「成熟财富基础设施」的进化。个人觉得，这才是 RWA + DeFi 下半场最值得长期跟踪的叙事之一。",
-      "publishedAt": "2026-05-18T15:31:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2056397292232659243",
-      "quote": {
-        "username": "grvt_io",
-        "displayName": "Grvt",
-        "content": "Grvt x @centrifuge 🤝\n\nThe yield was always there. You just weren't allowed to have it. Until now.\n\nGrvt Earn now offers access to yield backed by @centrifuge's JTRSY (Janus Henderson Anemoy Treasury Fund).",
-        "contentHtml": "Grvt x <a href=\"/centrifuge\" title=\"Centrifuge\">@centrifuge</a> 🤝\n\nThe yield was always there. You just weren't allowed to have it. Until now.\n\nGrvt Earn now offers access to yield backed by <a href=\"/centrifuge\" title=\"Centrifuge\">@centrifuge</a>'s JTRSY (Janus Henderson Anemoy Treasury Fund).",
-        "link": "https://x.com/grvt_io/status/2054925874194256115",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HISQMRqbcAA5P-5.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056396964770598975",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "$BTC \n\nDing Ding Ding! \n\nMarket follows liquidity.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nDing Ding Ding! \n\nMarket follows liquidity.",
-      "publishedAt": "2026-05-18T15:30:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2056396964770598975",
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "Well, on the HTF we have a massive cluster of $BTC liquidations sat at 74-76K\n\nWouldn't be surprised if this get taken at some point soon.",
-        "contentHtml": "Well, on the HTF we have a massive cluster of <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> liquidations sat at 74-76K\n\nWouldn't be surprised if this get taken at some point soon.",
-        "link": "https://x.com/KillaXBT/status/2056073880272347160",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIijT5mXMAAjTUc.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056395788100710695",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "发 5",
-      "contentHtml": "发 5",
-      "publishedAt": "2026-05-18T15:25:00.000Z",
-      "link": "https://x.com/taresky/status/2056395788100710695",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056391099321930000",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_bigger.jpg",
-      "content": "两个祭念日合一个，比较好扫墓。",
-      "contentHtml": "两个祭念日合一个，比较好扫墓。",
-      "publishedAt": "2026-05-18T15:06:00.000Z",
-      "link": "https://x.com/hazenlee/status/2056391099321930000",
-      "quote": {
-        "username": "yuren477",
-        "displayName": "余人sama",
-        "content": "你们不会忘了明天就是519了吧？所有反弹都是滚仓机会🫡",
-        "contentHtml": "你们不会忘了明天就是519了吧？所有反弹都是滚仓机会🫡",
-        "link": "https://x.com/yuren477/status/2056390708509253972"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056384985142263979",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "They let you short a shitcoin at 2.5 trillion market cap on Hyperliquid\n\nAmazing tech",
-      "contentHtml": "They let you short a shitcoin at 2.5 trillion market cap on Hyperliquid\n\nAmazing tech",
-      "publishedAt": "2026-05-18T14:42:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2056384985142263979",
       "stats": {
         "replies": 0,
         "retweets": 0,
