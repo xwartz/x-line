@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T01:24:00.813Z",
+  "lastUpdated": "2026-05-26T02:19:39.941Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,117 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 585,
+    "newFetched": 587,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2059094810032800052",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": ". $ESPORTS 链上与币安合约竟然出现了最高 45% 的价差，且资金费率为负🤨\n\n链上现价 $0.04072，币安合约现价 $0.0492，差价还有 20.8%，看了下价格指数的计算方式，原因似乎是这样👇\n\n▶︎ 当前 Gate / Mxc / Bitget 均已暂停代币充值，导致链上与 CEX 出现价差且无法搬平\n▶︎ 币安合约参考了 Gate(10.52%)、Mxc(15.78%)、Bitget(15.78%)、PancakeswapV3(52.63%)、币安合约(5.26%)\n▶︎ 客服回答当其中一个价格源的最新价与其他价格的中间价偏离度超过 3% 时，会将该价格源的值干预为 1.03 或 0.97 倍，因为其他 CEX 的价格均因充值暂停而远高于链上，导致币安合约价格也出现了失真\n\n想了下，在「单一价格源出现价格操纵」时，该策略的确是奏效的，不过对 ESPORTS 而言似乎暂时没用了，是否考虑将 Binance Alpha 的价格源也加进去，两个链上指标也许可以缓解下这个问题？@heyibinance @sisibinance @BinanceFutures",
+      "contentHtml": ". <a href=\"/search?f=tweets&q=%23ESPORTS\">$ESPORTS</a> 链上与币安合约竟然出现了最高 45% 的价差，且资金费率为负🤨\n\n链上现价 $0.04072，币安合约现价 $0.0492，差价还有 20.8%，看了下价格指数的计算方式，原因似乎是这样👇\n\n▶︎ 当前 Gate / Mxc / Bitget 均已暂停代币充值，导致链上与 CEX 出现价差且无法搬平\n▶︎ 币安合约参考了 Gate(10.52%)、Mxc(15.78%)、Bitget(15.78%)、PancakeswapV3(52.63%)、币安合约(5.26%)\n▶︎ 客服回答当其中一个价格源的最新价与其他价格的中间价偏离度超过 3% 时，会将该价格源的值干预为 1.03 或 0.97 倍，因为其他 CEX 的价格均因充值暂停而远高于链上，导致币安合约价格也出现了失真\n\n想了下，在「单一价格源出现价格操纵」时，该策略的确是奏效的，不过对 ESPORTS 而言似乎暂时没用了，是否考虑将 Binance Alpha 的价格源也加进去，两个链上指标也许可以缓解下这个问题？<a href=\"/heyibinance\" title=\"Yi He\">@heyibinance</a> <a href=\"/sisibinance\" title=\"sisi\">@sisibinance</a> <a href=\"/BinanceFutures\" title=\"Binance Futures\">@BinanceFutures</a>",
+      "publishedAt": "2026-05-26T02:10:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2059094810032800052",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJNfyxiasAA84-W.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": ". $ESPORTS 闪崩，跌幅达 92%📉\n我们的老朋友 DWF Labs 好像 似乎 是该代币做市商🤔\n\n五天前地址 0x7Ef…C10dD 曾向 DWF 关联的 #Kraken 地址充值 1990 万枚 ESPORTS，价值 1390 万美元，而该地址的资金上游即为代币部署地址，也是本次闪崩的助推地址之一（高频在链上抛售代币）\n\n钱包地址 intel.arkm.com/explorer/addr…",
+        "contentHtml": ". <a href=\"/search?f=tweets&q=%23ESPORTS\">$ESPORTS</a> 闪崩，跌幅达 92%📉\n我们的老朋友 DWF Labs 好像 似乎 是该代币做市商🤔\n\n五天前地址 0x7Ef…C10dD 曾向 DWF 关联的 <a href=\"/search?f=tweets&q=%23Kraken\">#Kraken</a> 地址充值 1990 万枚 ESPORTS，价值 1390 万美元，而该地址的资金上游即为代币部署地址，也是本次闪崩的助推地址之一（高频在链上抛售代币）\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0x7Ef905f806D4C6E60441fD63563E3b05bB5C10dD\">intel.arkm.com/explorer/addr…</a>",
+        "link": "https://x.com/ai_9684xtpa/status/2058907389362147789",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJK1HxubsAE8d0c.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJK1N41boAAq70X.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059088742678515882",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
+      "content": "亞資追漲又殺跌、美資情緒未見回溫之跡象🌡\n\n歷經了三日的休市、加上美伊戰爭似有緩和的跡象，\n相信今天的美股開盤會引來大量多方資金的博弈，\n趁著今天開盤前，我打算來和各位快速報告一下美、亞資情緒的最新狀況。\n\n先說結論📝：\n美資情緒未見回溫，未來若反彈突破前高，則高概率形成背離。\n\n//\n\n附圖的指標是「美方、亞方資金情緒曲線」，如果你是新朋友，\n或者還不清楚此指標的原理，建議可以先參考以下鏈接，\n我之前都有寫過詳細的概念教學🔗：\n\n📖 美方資金情緒曲線介紹：\nnitter.net/market_beggar/status/1…\n📖 美方資金情緒曲線的超強逃頂運用：\nnitter.net/market_beggar/status/1…\n📖 超強逃頂訊號「笨蛋錢指標」概念解析：\nnitter.net/market_beggar/status/2…\n\n//\n\n在上次 BTC 自 82.8K 暴跌前，我就和各位提示了「美資偷跑」的風險，\n當時的亞資甚至是追漲的，很稱職的又當了一次接盤俠，\n詳細的內容可以參考當時的帖子👇：\n📖 「美方資金撤資風險」再次印驗\nnitter.net/market_beggar/status/2…\n\n隨著 BTC 從 82.8K 的階段性高點開始下跌，\n亞資則再次開始「殺跌」認賠，這點我們從附圖中也能清楚的看到：\n「美資曲線大幅下降（同時亞資接盤）➡️ 價格大跌 ➡️ 亞資認賠出場」\n\n就現階段而言，美方資金情續曲線並沒有出現回升的跡象，\n並且從過去幾天 BTC「Coinbase 報價相對於主流交易所的報價」，\n也能看到 Coinbase 的 BTC 價格明顯更低，說明老美確實在出貨，\n目前的負溢價幅度雖略有收斂，但依然是呈現負溢價狀態。\n\n當然，如果結合技術面給出的訊號（詳見下方引文），\n由於 BTC 在週六進行了一次「74.8K 的精準爆破」，\n並且在小級別出現了疑似 Stop Hunt 的訊號，\n因此我認為小級別的反彈行情也是完全合理的；\n重點在於這波反彈，是否能順利走入我先前規劃的兩種做空劇本之中🔭\n\n📖「2 種潛在的做空窗口」：反彈填補失衡區 or 清掃上方 Liq？\nnitter.net/market_beggar/status/2…\n\n當然，如果未來美資情緒曲線出現不利於做空的訊號，也就是：\n「價格橫盤 + 美方資金情緒曲線大幅上漲」的狀況，\n那屆時在交易策略的設計上就需要再次進行調整。\n\n不過，我的觀點依然維持原判：\n基於大級別結構的 Liq 分布，BTC 須完成一次跌破 60K 的最後一哆嗦，\n才能建構出真正健康的底部，因此我對於中級別的走勢仍是偏看跌的。\n\n不做猜測，只做規劃；見招拆招，動態調整。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「美資要砸到哪」：從市場成本的角度聊聊下方的兩道強支撐\nnitter.net/market_beggar/status/2…\n\n「老美撤資跡象浮現🚨」：亞資是否再次成為大冤種？\nnitter.net/market_beggar/status/2…\n\n「反向笨蛋錢訊號」：美方資金悄悄抄了亞洲資金的底\nnitter.net/market_beggar/status/2…",
+      "contentHtml": "亞資追漲又殺跌、美資情緒未見回溫之跡象🌡\n\n歷經了三日的休市、加上美伊戰爭似有緩和的跡象，\n相信今天的美股開盤會引來大量多方資金的博弈，\n趁著今天開盤前，我打算來和各位快速報告一下美、亞資情緒的最新狀況。\n\n先說結論📝：\n美資情緒未見回溫，未來若反彈突破前高，則高概率形成背離。\n\n//\n\n附圖的指標是「美方、亞方資金情緒曲線」，如果你是新朋友，\n或者還不清楚此指標的原理，建議可以先參考以下鏈接，\n我之前都有寫過詳細的概念教學🔗：\n\n📖 美方資金情緒曲線介紹：\n<a href=\"https://nitter.net/market_beggar/status/1884517487238340829\">nitter.net/market_beggar/status/1…</a>\n📖 美方資金情緒曲線的超強逃頂運用：\n<a href=\"https://nitter.net/market_beggar/status/1922851604530897171\">nitter.net/market_beggar/status/1…</a>\n📖 超強逃頂訊號「笨蛋錢指標」概念解析：\n<a href=\"https://nitter.net/market_beggar/status/2056552729682780400\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n在上次 BTC 自 82.8K 暴跌前，我就和各位提示了「美資偷跑」的風險，\n當時的亞資甚至是追漲的，很稱職的又當了一次接盤俠，\n詳細的內容可以參考當時的帖子👇：\n📖 「美方資金撤資風險」再次印驗\n<a href=\"https://nitter.net/market_beggar/status/2056552729682780400\">nitter.net/market_beggar/status/2…</a>\n\n隨著 BTC 從 82.8K 的階段性高點開始下跌，\n亞資則再次開始「殺跌」認賠，這點我們從附圖中也能清楚的看到：\n「美資曲線大幅下降（同時亞資接盤）➡️ 價格大跌 ➡️ 亞資認賠出場」\n\n就現階段而言，美方資金情續曲線並沒有出現回升的跡象，\n並且從過去幾天 BTC「Coinbase 報價相對於主流交易所的報價」，\n也能看到 Coinbase 的 BTC 價格明顯更低，說明老美確實在出貨，\n目前的負溢價幅度雖略有收斂，但依然是呈現負溢價狀態。\n\n當然，如果結合技術面給出的訊號（詳見下方引文），\n由於 BTC 在週六進行了一次「74.8K 的精準爆破」，\n並且在小級別出現了疑似 Stop Hunt 的訊號，\n因此我認為小級別的反彈行情也是完全合理的；\n重點在於這波反彈，是否能順利走入我先前規劃的兩種做空劇本之中🔭\n\n📖「2 種潛在的做空窗口」：反彈填補失衡區 or 清掃上方 Liq？\n<a href=\"https://nitter.net/market_beggar/status/2057282604311941434\">nitter.net/market_beggar/status/2…</a>\n\n當然，如果未來美資情緒曲線出現不利於做空的訊號，也就是：\n「價格橫盤 + 美方資金情緒曲線大幅上漲」的狀況，\n那屆時在交易策略的設計上就需要再次進行調整。\n\n不過，我的觀點依然維持原判：\n基於大級別結構的 Liq 分布，BTC 須完成一次跌破 60K 的最後一哆嗦，\n才能建構出真正健康的底部，因此我對於中級別的走勢仍是偏看跌的。\n\n不做猜測，只做規劃；見招拆招，動態調整。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「美資要砸到哪」：從市場成本的角度聊聊下方的兩道強支撐\n<a href=\"https://nitter.net/market_beggar/status/2056915885106037245\">nitter.net/market_beggar/status/2…</a>\n\n「老美撤資跡象浮現🚨」：亞資是否再次成為大冤種？\n<a href=\"https://nitter.net/market_beggar/status/2053653283429089554\">nitter.net/market_beggar/status/2…</a>\n\n「反向笨蛋錢訊號」：美方資金悄悄抄了亞洲資金的底\n<a href=\"https://nitter.net/market_beggar/status/2051841355819950286\">nitter.net/market_beggar/status/2…</a>",
+      "publishedAt": "2026-05-26T01:46:00.000Z",
+      "link": "https://x.com/market_beggar/status/2059088742678515882",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJNaS1Ea8AAfJqc.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "「小級別 Liq 定點爆破」：靜待反彈，維持原定計畫🗺\n\nBTC 在過去兩天的週末低流動性時段，上演了一波明顯的「流動性絞殺」，\n先是一路低量下跌，直至清掃了存在於 74.8K 的 Equal Lows，\n隨後又迅速出現一波拉升，完成了一次疑似小級別的 Stop Hunt。\n\n雖然今天美股休市，但貝格的分析絕不會缺席👇：\n\n//\n\n在上週的分析帖（下方引文）中，我和各位分享了兩種做空的計畫，\n有興趣參考詳細邏輯的朋友，可以先行移駕下方引文，簡單來說就是：\n1️⃣ 清掃存在於 82K 上方的 Trendline Liq 後出現 Stop Hunt 跡象\n2️⃣ 回補 79.5~80.3K 的失衡區，順勢造出大級別 Lower High 後下跌\n\n📖 Stop Hunt 概念詳細教學\nnitter.net/market_beggar/status/1…\n\n結合過去兩天週末的「絞殺」走勢，如附圖所示：\n我們可以看到 BTC 曾於四月下旬，在 74.8K 造出 Equal Lows，\n而週六正是精準的「爆破」了 74.8K 的 Liquidity，\n並且在跌破後迅速出現一波拉升，完成了一次疑似小級別的 Stop Hunt。\n\n雖然我們從附圖上仍能清晰的看到，下方依然存在大量的 Liq（$ 標記），\n但前兩天的小級別 Stop Hunt，的確是利於 BTC 出現小級別反彈的，\n因此我們或許可以期待價格反彈至上述兩項交易計畫的射程範圍🔬\n\n當然，最後依然要再次強調我的大級別核心看法：\n「基於 Liq 分布和其他鏈上模型的狀況，\n我始終認為 BTC 需要出現一次跌破 60K 的最後一哆嗦，\n將下方殘存的大量 Liq 全部清除，方能形成真正健康的底部✅」\n\n以上就是今天的內容，今天美股休市，估計不會有太大的波動，\n但依然在此祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n最後一哆嗦抄底系列（十五）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n「美資要砸到哪」：從市場成本的角度聊聊下方的兩道強支撐\nnitter.net/market_beggar/status/2…\n\n「美方資金撤資風險」再次印驗\nnitter.net/market_beggar/status/2…\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
+        "contentHtml": "「小級別 Liq 定點爆破」：靜待反彈，維持原定計畫🗺\n\nBTC 在過去兩天的週末低流動性時段，上演了一波明顯的「流動性絞殺」，\n先是一路低量下跌，直至清掃了存在於 74.8K 的 Equal Lows，\n隨後又迅速出現一波拉升，完成了一次疑似小級別的 Stop Hunt。\n\n雖然今天美股休市，但貝格的分析絕不會缺席👇：\n\n//\n\n在上週的分析帖（下方引文）中，我和各位分享了兩種做空的計畫，\n有興趣參考詳細邏輯的朋友，可以先行移駕下方引文，簡單來說就是：\n1️⃣ 清掃存在於 82K 上方的 Trendline Liq 後出現 Stop Hunt 跡象\n2️⃣ 回補 79.5~80.3K 的失衡區，順勢造出大級別 Lower High 後下跌\n\n📖 Stop Hunt 概念詳細教學\n<a href=\"https://nitter.net/market_beggar/status/1907261008059777200\">nitter.net/market_beggar/status/1…</a>\n\n結合過去兩天週末的「絞殺」走勢，如附圖所示：\n我們可以看到 BTC 曾於四月下旬，在 74.8K 造出 Equal Lows，\n而週六正是精準的「爆破」了 74.8K 的 Liquidity，\n並且在跌破後迅速出現一波拉升，完成了一次疑似小級別的 Stop Hunt。\n\n雖然我們從附圖上仍能清晰的看到，下方依然存在大量的 Liq（$ 標記），\n但前兩天的小級別 Stop Hunt，的確是利於 BTC 出現小級別反彈的，\n因此我們或許可以期待價格反彈至上述兩項交易計畫的射程範圍🔬\n\n當然，最後依然要再次強調我的大級別核心看法：\n「基於 Liq 分布和其他鏈上模型的狀況，\n我始終認為 BTC 需要出現一次跌破 60K 的最後一哆嗦，\n將下方殘存的大量 Liq 全部清除，方能形成真正健康的底部✅」\n\n以上就是今天的內容，今天美股休市，估計不會有太大的波動，\n但依然在此祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n最後一哆嗦抄底系列（十五）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2057655232109433241\">nitter.net/market_beggar/status/2…</a>\n\n「美資要砸到哪」：從市場成本的角度聊聊下方的兩道強支撐\n<a href=\"https://nitter.net/market_beggar/status/2056915885106037245\">nitter.net/market_beggar/status/2…</a>\n\n「美方資金撤資風險」再次印驗\n<a href=\"https://nitter.net/market_beggar/status/2056552729682780400\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n註冊 Bitget 交易所，享最高手續費折扣 + 絲滑交易美股📈",
+        "link": "https://x.com/market_beggar/status/2058726455543263265",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJIQzAqa0AA6ESN.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059084604393345387",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "如果我们以“短期资金在链上的活跃度”权重作为衡量标准，那么现在处于哪个阶段？3种可能（图中浅黄色阴影标注）：\n\n1⃣  熊底区\n2⃣  次底部（还有最后一跌）\n3⃣  启动前的蓄势\n\n这里的逻辑是：并不是说“短期换手降温”就一定是熊底，而是只有在熊底附近才会有这么低的活跃度。\n\n在不同周期，不同环境，不同宏观背景导致该情况出现时，市场给出的预期和定价都是偏低的。但在活跃度逐渐恢复后，必然是要重新定价的。\n\n理性来看，当前我们可以暂时排除“选项3”，但1和2都有可能；所以，我个人不会用全部资金只押注其中任何一项。这也是我目前交易策略的大框架。\n\n（即便有最后一跌，会不会跌破新低，或大幅下破，那就是另外一个话题了）",
+      "contentHtml": "如果我们以“短期资金在链上的活跃度”权重作为衡量标准，那么现在处于哪个阶段？3种可能（图中浅黄色阴影标注）：\n\n1⃣  熊底区\n2⃣  次底部（还有最后一跌）\n3⃣  启动前的蓄势\n\n这里的逻辑是：并不是说“短期换手降温”就一定是熊底，而是只有在熊底附近才会有这么低的活跃度。\n\n在不同周期，不同环境，不同宏观背景导致该情况出现时，市场给出的预期和定价都是偏低的。但在活跃度逐渐恢复后，必然是要重新定价的。\n\n理性来看，当前我们可以暂时排除“选项3”，但1和2都有可能；所以，我个人不会用全部资金只押注其中任何一项。这也是我目前交易策略的大框架。\n\n（即便有最后一跌，会不会跌破新低，或大幅下破，那就是另外一个话题了）",
+      "publishedAt": "2026-05-26T01:30:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2059084604393345387",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJK8ULfbMAA0AB5.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "监测短期筹码换手权重，目的是为了观察“链上新转移的BTC”所承载的美元价值占比；你可以理解为\"短期资金在链上的活跃度权重\"。\n\n这部分通常对应最新的交易行为 —— 短期投机、套利、获利了结、恐慌抛售等,几乎都会先经过这个口径。\n\n数值上升，意味着短期资金主导的换手在加剧，典型场景是行情剧烈波动时；比如每一次牛市主升浪启动时，该指数就会突然暴增。\n\n数值下降 ，意味着短期换手降温，经济价值更多沉淀在更长期的筹码（LTH）那边；通常对应的场景是：横盘或低波动的筑底/蓄势阶段。\n\n图中我用红线画出了当前值。把X轴拉长到BTC过去15年的时间里，可以看到历史上低于当前值（红色阴影处）的时段寥寥无几。\n\n而且每一次都在熊市最低迷的底部区域。所以你是不是看懂了呢？\n\n----------------------------------------------------\n多说一句，我最近所讲的，都是站在长期、大方向、相对位置的判断和观点，短期多空不在讨论范围。\n\n如果你不认可，没问题，请2年后，把这些推文翻出来打我的脸。我保证不删推！",
+        "contentHtml": "监测短期筹码换手权重，目的是为了观察“链上新转移的BTC”所承载的美元价值占比；你可以理解为\"短期资金在链上的活跃度权重\"。\n\n这部分通常对应最新的交易行为 —— 短期投机、套利、获利了结、恐慌抛售等,几乎都会先经过这个口径。\n\n数值上升，意味着短期资金主导的换手在加剧，典型场景是行情剧烈波动时；比如每一次牛市主升浪启动时，该指数就会突然暴增。\n\n数值下降 ，意味着短期换手降温，经济价值更多沉淀在更长期的筹码（LTH）那边；通常对应的场景是：横盘或低波动的筑底/蓄势阶段。\n\n图中我用红线画出了当前值。把X轴拉长到BTC过去15年的时间里，可以看到历史上低于当前值（红色阴影处）的时段寥寥无几。\n\n而且每一次都在熊市最低迷的底部区域。所以你是不是看懂了呢？\n\n----------------------------------------------------\n多说一句，我最近所讲的，都是站在长期、大方向、相对位置的判断和观点，短期多空不在讨论范围。\n\n如果你不认可，没问题，请2年后，把这些推文翻出来打我的脸。我保证不删推！",
+        "link": "https://x.com/Murphychen888/status/2056231100729757811",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIkzPubawAASljN.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2059062697736667250",
       "username": "hazenlee",
@@ -1392,10 +1498,6 @@
           "url": "https://pbs.twimg.com/media/HJIQzAqa0AA6ESN.jpg"
         }
       ],
-      "retweet": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢"
-      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -12000,92 +12102,6 @@
       "contentHtml": "They let you short a shitcoin at 2.5 trillion market cap on Hyperliquid\n\nAmazing tech",
       "publishedAt": "2026-05-18T14:42:00.000Z",
       "link": "https://x.com/Cbb0fe/status/2056384985142263979",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056380208954175984",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "久违了，Pumpfun 疑似抛售 82700 $SOL 的手续费😬\n\n时隔 9 个月其三个手续费地址过去 1 小时向 #Kraken 充值 82700 枚 SOL，价值 701 万美元，目前链上剩余 228 万枚 SOL\n\n遥想公瑾当年，可是几千万几千万的卖啊…\n\n钱包地址 intel.arkm.com/explorer/addr…",
-      "contentHtml": "久违了，Pumpfun 疑似抛售 82700 <a href=\"/search?f=tweets&q=%23SOL\">$SOL</a> 的手续费😬\n\n时隔 9 个月其三个手续费地址过去 1 小时向 <a href=\"/search?f=tweets&q=%23Kraken\">#Kraken</a> 充值 82700 枚 SOL，价值 701 万美元，目前链上剩余 228 万枚 SOL\n\n遥想公瑾当年，可是几千万几千万的卖啊…\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/CebN5WGQ4jvEPvsVU4EoHEpgzq1VV7AbicfhtW4xC9iM\">intel.arkm.com/explorer/addr…</a>",
-      "publishedAt": "2026-05-18T14:23:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2056380208954175984",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIm3pI8a0AASqmf.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "趁着大家伙都在参与 Pancake IDO，Pump.fun 又在偷偷卖 $SOL 了🤣\n\n10 分钟前，其手续费地址向 #Kraken 充值 148,759 枚 SOL，价值 2817 万美金，目前地址仍持有 16,877 SOL\n\nsolscan.io/tx/4LB6fGoX112vqv…",
-        "contentHtml": "趁着大家伙都在参与 Pancake IDO，<a href=\"http://Pump.fun\">Pump.fun</a> 又在偷偷卖 <a href=\"/search?f=tweets&q=%23SOL\">$SOL</a> 了🤣\n\n10 分钟前，其手续费地址向 <a href=\"/search?f=tweets&q=%23Kraken\">#Kraken</a> 充值 148,759 枚 SOL，价值 2817 万美金，目前地址仍持有 16,877 SOL\n\n<a href=\"https://solscan.io/tx/4LB6fGoX112vqvXu1NHbEzL5VUwnnHvr5QhcPm5XfPmrPD34UZBtqKs25PwpdtCvgf53uFdHVEaNCBqaHmthFQnA\">solscan.io/tx/4LB6fGoX112vqv…</a>",
-        "link": "https://x.com/ai_9684xtpa/status/1890044063384297690",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/GjrJBzDa8AI9Zqf.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056313508783173841",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "完了，我废了。\n币圈持仓有eth 股票持仓有拼多多。",
-      "contentHtml": "完了，我废了。\n币圈持仓有eth 股票持仓有拼多多。",
-      "publishedAt": "2026-05-18T09:58:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2056313508783173841",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056269627760807955",
-      "username": "viviennaBTC",
-      "displayName": "vivienna.btc",
-      "avatar": "https://pbs.twimg.com/profile_images/2055180188225597440/aMExf6UQ_bigger.jpg",
-      "content": "终于把磨了好久的四大宏观(美债、美元、黄金、通胀)看板上线啦！ \n最近彻底沉迷 AI Coding，每天用 Claude 写代码写到半夜，一版一版迭代调试，总算把这套自己梦寐以求的实时看板做出来了～  \n\n为什么要做这些？ \n\n宏观因子建模本质上是把高维、噪声大、强相关的时间序列数据，转化为低维、可解释、可预测的信号，用于资产配置、择时和风险管理。\n  \n我把常见的宏观因子分成几大类：\n\n• 利率/货币政策类：真实利率、期限利差、forward curve、政策预期路径\n\n• 通胀类：核心通胀、预期通胀（breakeven）、薪资-通胀螺旋、财政驱动\n\n• 增长/风险偏好类：增长 surprise、信用利差、VIX、美元carry\n\n• 商品/避险类：黄金真实收益率敏感度、地缘风险溢价\n\n• 流动性/供给类：美债净供给、央行资产负债表、美元流动性指数  \n\n我选择了黄金、美元、美债、通胀因子这四个类别。\n\n对资产管理最实际的帮助：\n\n• 快速抓住宏观拐点\n• 看清多因子驱动逻辑\n• 辅助大类资产配置和风险对冲\n• 自己改权重、自己看结果，超级爽  \n\n四大看板亮点：  \n\n美债看板\n实时收益率曲线 + 智能因子计分卡（-2到+2自动打分，帮你判断久期和曲线立场）+ 政策路径 + 供给资金流\n\nus-treasury-bonds-monitor-lu… \n\n美元看板\nDXY多因子估值模型（利率差+风险溢价+便利收益+波动预警）+ 综合评分 + 持仓分析，一眼看美元强弱\n\nusd-monitor.vercel.app/ \n\n黄金看板\n多因子信号强度 + SHAP归因瀑布图 + 体制切换预测，搞懂黄金到底在涨啥\n\ngold-monitor-delta.vercel.ap… \n\n通胀因子看板\n五维通胀压力评分 + 四资产信号塔 + 体制诊断，提前闻到通胀味儿\n\ninflation-monitor-nine.verce… \n\n重要提醒：这些看板仅供教育和研究使用，绝不构成任何投资建议。市场有风险，决策还得靠自己！  \n\n全部免费、数据实时更新，还支持自定义因子权重。感兴趣的同学可以一起开放交流量化建模方法与实际落地流程。  \n欢迎大家来玩、来反馈、来一起交流～ 我继续用 Claude 肝新模块！  \n\n#宏观交易 #黄金 #美债 #美元 #通胀 #AI_Coding #Claude  （vivienna.btc × Claude 沉迷副产物）",
-      "contentHtml": "终于把磨了好久的四大宏观(美债、美元、黄金、通胀)看板上线啦！ \n最近彻底沉迷 AI Coding，每天用 Claude 写代码写到半夜，一版一版迭代调试，总算把这套自己梦寐以求的实时看板做出来了～  \n\n为什么要做这些？ \n\n宏观因子建模本质上是把高维、噪声大、强相关的时间序列数据，转化为低维、可解释、可预测的信号，用于资产配置、择时和风险管理。\n  \n我把常见的宏观因子分成几大类：\n\n• 利率/货币政策类：真实利率、期限利差、forward curve、政策预期路径\n\n• 通胀类：核心通胀、预期通胀（breakeven）、薪资-通胀螺旋、财政驱动\n\n• 增长/风险偏好类：增长 surprise、信用利差、VIX、美元carry\n\n• 商品/避险类：黄金真实收益率敏感度、地缘风险溢价\n\n• 流动性/供给类：美债净供给、央行资产负债表、美元流动性指数  \n\n我选择了黄金、美元、美债、通胀因子这四个类别。\n\n对资产管理最实际的帮助：\n\n• 快速抓住宏观拐点\n• 看清多因子驱动逻辑\n• 辅助大类资产配置和风险对冲\n• 自己改权重、自己看结果，超级爽  \n\n四大看板亮点：  \n\n美债看板\n实时收益率曲线 + 智能因子计分卡（-2到+2自动打分，帮你判断久期和曲线立场）+ 政策路径 + 供给资金流\n\n<a href=\"https://us-treasury-bonds-monitor-luffa.vercel.app/#scorecard\">us-treasury-bonds-monitor-lu…</a> \n\n美元看板\nDXY多因子估值模型（利率差+风险溢价+便利收益+波动预警）+ 综合评分 + 持仓分析，一眼看美元强弱\n\n<a href=\"https://usd-monitor.vercel.app/\">usd-monitor.vercel.app/</a> \n\n黄金看板\n多因子信号强度 + SHAP归因瀑布图 + 体制切换预测，搞懂黄金到底在涨啥\n\n<a href=\"https://gold-monitor-delta.vercel.app/\">gold-monitor-delta.vercel.ap…</a> \n\n通胀因子看板\n五维通胀压力评分 + 四资产信号塔 + 体制诊断，提前闻到通胀味儿\n\n<a href=\"https://inflation-monitor-nine.vercel.app/\">inflation-monitor-nine.verce…</a> \n\n重要提醒：这些看板仅供教育和研究使用，绝不构成任何投资建议。市场有风险，决策还得靠自己！  \n\n全部免费、数据实时更新，还支持自定义因子权重。感兴趣的同学可以一起开放交流量化建模方法与实际落地流程。  \n欢迎大家来玩、来反馈、来一起交流～ 我继续用 Claude 肝新模块！  \n\n<a href=\"/search?f=tweets&q=%23宏观交易\">#宏观交易</a> <a href=\"/search?f=tweets&q=%23黄金\">#黄金</a> <a href=\"/search?f=tweets&q=%23美债\">#美债</a> <a href=\"/search?f=tweets&q=%23美元\">#美元</a> <a href=\"/search?f=tweets&q=%23通胀\">#通胀</a> <a href=\"/search?f=tweets&q=%23AI_Coding\">#AI_Coding</a> <a href=\"/search?f=tweets&q=%23Claude\">#Claude</a>  （vivienna.btc × Claude 沉迷副产物）",
-      "publishedAt": "2026-05-18T07:04:00.000Z",
-      "link": "https://x.com/viviennaBTC/status/2056269627760807955",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVMG0boAAlIzY.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVL_WboAA4RWP.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVMGybgAAR6wp.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIlVMG2bgAA729T.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
