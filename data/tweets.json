@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T14:09:24.305Z",
+  "lastUpdated": "2026-05-27T15:47:20.507Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,102 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 586,
+    "newFetched": 582,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2059652602539966660",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "美股代币化的一大步，终于能看到能把券商级流动性、真实分红和DeFi可组合性结合到一起的美股代币了。Bitget旗下RWA平台Reality昨天宣布推出rToken，这是Bitget在美股代币化赛道上的第二代升级产品。今天仔细看了机制，个人的主观感受是这是当前把券商级流动性、真实分红和DeFi可组合性融合的最好的美股代币化的模式。聊聊个人理解的几个点：\n1、rToken是怎么生成的？\n1）用户在Bitget内直接用稳定币（如USDT/USDC）购买某一支美股的rToken，其实就是一次铸造的过程。\n\n用户的订单先是通过美股合规持牌券商链路直连纽交所、纳斯达克的流动性深度，可以说是无限流动性，为用户买到相应数量的股票，然后Bitget在平台就为铸造对应数量的这支美股rToken（股票在合规经纪商处托管登记在用户名下）。\n\n用户卖出这支股票的rToken，过程自然是反向的，相当于自Bg处赎回、合规经纪商托管的对应数量股票就在纳斯达克或者纽交所上卖掉。\n\n其实这也是之前nitter.net/qinbafrank/status/2058…说的“介绍经纪商+白标模式”的稳定币版，而且更进一步。Bitget把用户用稳定币通过合规经纪商链路购买的美股股票铸造成代币rToken。\n\n2、这样做的好处是什么？\n1）这是1:1真实资产背书的链上代币，底层资产直接来自 Nasdaq + NYSE（通过受保护的券商/经纪商托管）。每个 rToken 对应真实的美股或 ETF 份额（非合成、不是价格指数）\n\n2）券商级流动性，之前美股代币最大的问题就是流动性来自链上搓合、与纽交所、纳斯达克里的流动性深度天差地别。价差大、滑点明显\n\n3）有真实股息\n股息直接以稳定币形式派发到用户的 Bitget 账户，和用户老虎、富途等券商持股完全一致，不再是“价格自动调整”或缺失权益。\n这其实也是Bitget第一代美股代币的问题。\n\n4）盘活资金利用率（最大亮点）\nrToken 可作为保证金使用，支持策略交易、借贷理财、杠杆等 Bitget 平台内的 DeFi 功能。让美股代币真正能在链上流转起来，这就相当于给Defi带来了大量的优质底层可抵押资产。\n\n3、原来美股代币模式的问题\n上面的四点优势本质也是对应了之前美股代币的流通性割裂、深度差、滑点高；\n股东权益确实（享受不到股息）等问题。\n\n从这些角度，rToken的模式已经完全超越了Ondo和xStocks美股代币模式，也完全区别于股票代币合约这种纯CFD差价合约形式。\n\n4、为什么说是美股代币化的一大步，创新之处是什么？\n很多朋友都知道我对加密券商模式很认可，稳定币出入金、通过合规美股经纪商链路享受到美股近似无限流动性。4月下旬还建议过Bitget走直连美股券商的模式，而rToken相当于是Bitget把用户用稳定币通过合规经纪商链路购买的美股股票铸造成代币rToken，又更进一步！\n\n简单说这相当于把加密的效率和TradFi的真实合规结合起来，打造出一种“加密券商”混合模式，准确地说是代币化版本的加密券商。\n\n这样的好处就是可以作为保证金使用，也可以参与各种Defi，真正解锁了代币化美股的defi可组合性。\n\n不得不说Bitget的效率和执行力、这种模式估计后续很多其他CEX也会跟进。\n\n个人跟踪美股代币化算是非常紧密，过去一年写过几十篇关于代币化、RWA、资产上链相关的推文，之前还做过一个梳理，这里可以看：nitter.net/qinbafrank/status/2026…",
+      "contentHtml": "美股代币化的一大步，终于能看到能把券商级流动性、真实分红和DeFi可组合性结合到一起的美股代币了。Bitget旗下RWA平台Reality昨天宣布推出rToken，这是Bitget在美股代币化赛道上的第二代升级产品。今天仔细看了机制，个人的主观感受是这是当前把券商级流动性、真实分红和DeFi可组合性融合的最好的美股代币化的模式。聊聊个人理解的几个点：\n1、rToken是怎么生成的？\n1）用户在Bitget内直接用稳定币（如USDT/USDC）购买某一支美股的rToken，其实就是一次铸造的过程。\n\n用户的订单先是通过美股合规持牌券商链路直连纽交所、纳斯达克的流动性深度，可以说是无限流动性，为用户买到相应数量的股票，然后Bitget在平台就为铸造对应数量的这支美股rToken（股票在合规经纪商处托管登记在用户名下）。\n\n用户卖出这支股票的rToken，过程自然是反向的，相当于自Bg处赎回、合规经纪商托管的对应数量股票就在纳斯达克或者纽交所上卖掉。\n\n其实这也是之前<a href=\"https://nitter.net/qinbafrank/status/2058956787043483760?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2058…</a>说的“介绍经纪商+白标模式”的稳定币版，而且更进一步。Bitget把用户用稳定币通过合规经纪商链路购买的美股股票铸造成代币rToken。\n\n2、这样做的好处是什么？\n1）这是1:1真实资产背书的链上代币，底层资产直接来自 Nasdaq + NYSE（通过受保护的券商/经纪商托管）。每个 rToken 对应真实的美股或 ETF 份额（非合成、不是价格指数）\n\n2）券商级流动性，之前美股代币最大的问题就是流动性来自链上搓合、与纽交所、纳斯达克里的流动性深度天差地别。价差大、滑点明显\n\n3）有真实股息\n股息直接以稳定币形式派发到用户的 Bitget 账户，和用户老虎、富途等券商持股完全一致，不再是“价格自动调整”或缺失权益。\n这其实也是Bitget第一代美股代币的问题。\n\n4）盘活资金利用率（最大亮点）\nrToken 可作为保证金使用，支持策略交易、借贷理财、杠杆等 Bitget 平台内的 DeFi 功能。让美股代币真正能在链上流转起来，这就相当于给Defi带来了大量的优质底层可抵押资产。\n\n3、原来美股代币模式的问题\n上面的四点优势本质也是对应了之前美股代币的流通性割裂、深度差、滑点高；\n股东权益确实（享受不到股息）等问题。\n\n从这些角度，rToken的模式已经完全超越了Ondo和xStocks美股代币模式，也完全区别于股票代币合约这种纯CFD差价合约形式。\n\n4、为什么说是美股代币化的一大步，创新之处是什么？\n很多朋友都知道我对加密券商模式很认可，稳定币出入金、通过合规美股经纪商链路享受到美股近似无限流动性。4月下旬还建议过Bitget走直连美股券商的模式，而rToken相当于是Bitget把用户用稳定币通过合规经纪商链路购买的美股股票铸造成代币rToken，又更进一步！\n\n简单说这相当于把加密的效率和TradFi的真实合规结合起来，打造出一种“加密券商”混合模式，准确地说是代币化版本的加密券商。\n\n这样的好处就是可以作为保证金使用，也可以参与各种Defi，真正解锁了代币化美股的defi可组合性。\n\n不得不说Bitget的效率和执行力、这种模式估计后续很多其他CEX也会跟进。\n\n个人跟踪美股代币化算是非常紧密，过去一年写过几十篇关于代币化、RWA、资产上链相关的推文，之前还做过一个梳理，这里可以看：<a href=\"https://nitter.net/qinbafrank/status/2026602891998539876?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2026…</a>",
+      "publishedAt": "2026-05-27T15:07:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2059652602539966660",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJVa9nBagAEDP5Y.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJVa9nJaUAASZq1.jpg"
+        }
+      ],
+      "quote": {
+        "username": "RealityFi_xyz",
+        "displayName": "Reality",
+        "content": "From electronic mail to email. From smart phone to phone.\n\nHistory shows that the labels we use to define new categories disappear once they become the new norm.\n\nToday, tokenized assets are financial infrastructure, rebuilt.\n\nReality is here to redefine what real-world assets can be.",
+        "contentHtml": "From electronic mail to email. From smart phone to phone.\n\nHistory shows that the labels we use to define new categories disappear once they become the new norm.\n\nToday, tokenized assets are financial infrastructure, rebuilt.\n\nReality is here to redefine what real-world assets can be.",
+        "link": "https://x.com/RealityFi_xyz/status/2059591095886254304"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059651957686493372",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "$BTC \n\nGood luck with that.\n\n32% of people seem to believe we’re going to flip the STH cost basis and break every previous cycle pattern.\n\nI’d rather bet with history than against it.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nGood luck with that.\n\n32% of people seem to believe we’re going to flip the STH cost basis and break every previous cycle pattern.\n\nI’d rather bet with history than against it.",
+      "publishedAt": "2026-05-27T15:04:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2059651957686493372",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJVX0IjWUAoZQVv.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Kalshi_Crypto",
+        "displayName": "Kalshi Crypto",
+        "content": "BREAKING: 32% chance Bitcoin hits $100,000 this year\n\n4% chance it happens next month",
+        "contentHtml": "BREAKING: 32% chance Bitcoin hits $100,000 this year\n\n4% chance it happens next month",
+        "link": "https://x.com/Kalshi_Crypto/status/2059642274619777345",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJVRu0qWUAID-UI.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJVRsjoWUAMxAeU.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059643490351595946",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "不敢吱声了🥹",
+      "contentHtml": "不敢吱声了🥹",
+      "publishedAt": "2026-05-27T14:30:00.000Z",
+      "link": "https://x.com/hazenlee/status/2059643490351595946",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJVS1RnaUAER70E.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2059629213628731634",
       "username": "ai_9684xtpa",
@@ -169,6 +260,31 @@
           "url": "https://pbs.twimg.com/media/HJU9KPoXsAYuo_P.png"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059624449993806039",
+      "username": "QuantusNetwork",
+      "displayName": "Quantus",
+      "avatar": "https://pbs.twimg.com/profile_images/2039378358023462915/djKUyV8I_bigger.jpg",
+      "content": "The crypto industry is on a collision course with quantum computing.\n\nWe just published a report on where it stands, what it does to crypto, and what the industry is and isn't doing.\n\nIntroducing 👇\n\n\"The State of Quantum: What Crypto Can't Afford to Ignore\"\n\nA thank you to our co-collaborators,\n\n@NEARProtocol\n@near_intents\n@quipnetwork\n@cadillion\n@midnightfdn\n@SebastienGllmt\n@KeystoneWallet\n@gnosisguild\n@auryn_macmillan\n@terminal3io\n@SwaynesWord\n@tx_track\n\nLink here 👇\nreport.quantus.com/",
+      "contentHtml": "The crypto industry is on a collision course with quantum computing.\n\nWe just published a report on where it stands, what it does to crypto, and what the industry is and isn't doing.\n\nIntroducing 👇\n\n\"The State of Quantum: What Crypto Can't Afford to Ignore\"\n\nA thank you to our co-collaborators,\n\n<a href=\"/NEARProtocol\" title=\"NEAR Protocol\">@NEARProtocol</a>\n<a href=\"/near_intents\" title=\"NEAR Intents\">@near_intents</a>\n<a href=\"/quipnetwork\" title=\"Quip Network\">@quipnetwork</a>\n<a href=\"/cadillion\" title=\"Colton Dillion\">@cadillion</a>\n<a href=\"/midnightfdn\" title=\"Midnight Foundation\">@midnightfdn</a>\n<a href=\"/SebastienGllmt\" title=\"Sebastien Guillemot\">@SebastienGllmt</a>\n<a href=\"/KeystoneWallet\" title=\"Keystone Hardware Wallet\">@KeystoneWallet</a>\n<a href=\"/gnosisguild\" title=\"gnosis guild 𒆙\">@gnosisguild</a>\n<a href=\"/auryn_macmillan\" title=\"Auryn\">@auryn_macmillan</a>\n<a href=\"/terminal3io\" title=\"Terminal 3\">@terminal3io</a>\n<a href=\"/SwaynesWord\" title=\"Matt Swayne\">@SwaynesWord</a>\n<a href=\"/tx_track\" title=\"Lana | CircuitLabs.io\">@tx_track</a>\n\nLink here 👇\n<a href=\"https://report.quantus.com/\">report.quantus.com/</a>",
+      "publishedAt": "2026-05-27T13:15:00.000Z",
+      "link": "https://x.com/QuantusNetwork/status/2059624449993806039",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJVBfmoWkAA1LEY.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2567,6 +2683,10 @@
           "url": "https://pbs.twimg.com/media/HJNaS1Ea8AAfJqc.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -9192,8 +9312,8 @@
       "username": "Cbb0fe",
       "displayName": "CBB",
       "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "Your biggest enemy in your late teens/early 20s is chasing social status\n\nAt 21, I got into a Master’s in Corporate Finance.\n\nAt the time, the absolute dream was getting a summer internship in investment banking in London.\n\nI had no fucking clue what investment banking actually was.\n\nI just felt like I needed it to prove my value to my classmates.\n\nOne interview at some M&A boutique in Paris was enough to make me give up on investment banking forever.\n\nI walked in and saw two pale dudes asking me dogshit accounting questions with dead eyes.\n\nThe interview barely lasted.\n\nI completely failed it.\n\nThen I looked at the compensation packages people were fighting for after graduation.\n\nIt felt like pure slavery to me.\n\nThat’s when I decided to go full time into crypto instead.\n\nDuring my gap year and final year of Master’s, I locked the fuck in.\n\nDid the bare minimum to get my degree and nothing more.\n\nMost people in my master thought I was a fucking loser.\n\nA few years later, some of the same classmates chasing investment banking came back asking me for angel checks for their new startups.",
-      "contentHtml": "Your biggest enemy in your late teens/early 20s is chasing social status\n\nAt 21, I got into a Master’s in Corporate Finance.\n\nAt the time, the absolute dream was getting a summer internship in investment banking in London.\n\nI had no fucking clue what investment banking actually was.\n\nI just felt like I needed it to prove my value to my classmates.\n\nOne interview at some M&A boutique in Paris was enough to make me give up on investment banking forever.\n\nI walked in and saw two pale dudes asking me dogshit accounting questions with dead eyes.\n\nThe interview barely lasted.\n\nI completely failed it.\n\nThen I looked at the compensation packages people were fighting for after graduation.\n\nIt felt like pure slavery to me.\n\nThat’s when I decided to go full time into crypto instead.\n\nDuring my gap year and final year of Master’s, I locked the fuck in.\n\nDid the bare minimum to get my degree and nothing more.\n\nMost people in my master thought I was a fucking loser.\n\nA few years later, some of the same classmates chasing investment banking came back asking me for angel checks for their new startups.",
+      "content": "Your biggest enemy in your late teens/early 20s is chasing social status\n\nAt 21, I got into a Master’s in Corporate Finance.\n\nAt the time, the absolute dream was getting a summer internship in investment banking in London.\n\nI had no fucking clue what investment banking actually",
+      "contentHtml": "Your biggest enemy in your late teens/early 20s is chasing social status\n\nAt 21, I got into a Master’s in Corporate Finance.\n\nAt the time, the absolute dream was getting a summer internship in investment banking in London.\n\nI had no fucking clue what investment banking actually",
       "publishedAt": "2026-05-21T17:44:00.000Z",
       "link": "https://x.com/Cbb0fe/status/2057517826890776789",
       "stats": {
@@ -11910,90 +12030,6 @@
         "contentHtml": "Through every bull and bear cycle, we've kept backing the founders who look extremely weird but have a real shot at reshaping the industry.💪\n\nIf you missed the live earlier, go back and watch how <a href=\"/DoveyWan\" title=\"Dovey \"Rug the fiat\" Wan (hiring)\">@DoveyWan</a> unpack Primitive's core investment thesis and share her take on the current market.\n\n📺 Binance Square: <a href=\"https://app.binance.com/uni-qr/cspa/40384885552369?r=UCIPZ4L0&l=en&source=share&uc=app_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>",
         "link": "https://x.com/primitivecrypto/status/2056786471013773708"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056958137488261216",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "After 5+ years in Dubai, I started looking for a place in Europe to relocate.\n\nSo I requested a binding tax ruling from the Portuguese tax authority.\n\nI explained my situation and asked how I would be taxed if I moved there.\n\nIt was supposed to take 150 days.\n\nIt took more than a year.\n\nI finally received confirmation that I would pay 0% tax on crypto gains for the next 10 years.\n\nOnly issue is I quit most of crypto in late September.",
-      "contentHtml": "After 5+ years in Dubai, I started looking for a place in Europe to relocate.\n\nSo I requested a binding tax ruling from the Portuguese tax authority.\n\nI explained my situation and asked how I would be taxed if I moved there.\n\nIt was supposed to take 150 days.\n\nIt took more than a year.\n\nI finally received confirmation that I would pay 0% tax on crypto gains for the next 10 years.\n\nOnly issue is I quit most of crypto in late September.",
-      "publishedAt": "2026-05-20T04:40:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2056958137488261216",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056952091415863682",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "聊聊我眼中的宏观、周期和定价\n\n有小伙伴提醒我不能脱离宏观环境而只分析微观。这一点我很认可！在本轮周期只要不是新人小白，任何人都应知道加密和宏观的紧密绑定关系。\n\n而我做的，并非只看链上不看宏观，而是先看链上给出结构信号，再做宏观情绪验证。展开来说，应该是这样的：\n\n我们都知道市场交易的不是事件，而是预期。所以，这其中有一条传导路径：\n\n宏观塑造预期 → 预期影响情绪 → 情绪驱动行为 → 行为改变供需 → 供需决定价格（互相之间也会反向作用）\n\n我们分析宏观经济、货币政策是希望可以提前发现预期，但往往市场的解读是复杂的，多线程的。普通投资者很难做到提前精准预判，甚至交易宏观。\n\n因此我们研究并尝试通过链上数据，观察参与者情绪和行为的变化，再反向验证宏观事件所产生的预期；从而提升交易的概率判断。\n\n既然聊到宏观对交易的指导性，我们不妨梳理一下上轮熊市后半段，宏观上的潜在风险和对风险市场的影响。\n\n2022年9月-2023年3月期间：\n\n1、美联储连续以75bp的步幅暴力加息,半年内累计加息175bp，直接抽干了风险资产的流动性。\n2、加息后果集中暴露。前有FTX暴雷，后有硅谷银行、Signature Bank、Silvergate等加密友好银行倒闭。\n3、2023年初核心CPI仍在5.5%以上,美联储完全没有降息空间。\n4、俄乌战争冲击能源和粮食供应链，欧洲面临天然气危机。\n\n如果时间可以穿梭，让你回到这个时期，单从宏观层面出发，你会认为这是熊底码？绝不会！所以当时绝大多数散户都看破新低，甚至预期BTC会去8,000美元。\n\n然而事后看，这里恰恰就是“逐渐走出深熊”，切换到“熊/牛转换”的新阶段。\n\n2026年5月的风险环境：\n\n1、地缘冲突直接冲击油价，让此前已回落至2.4%的通胀掉头向上。\n2、通胀重新抬头，住房通胀、食品通胀全面反弹，通胀的扩散性比单纯能源冲击更麻烦。\n3、美联储陷入两难，4月会议维持利率，首次有4名官员反对FOMC决定；市场开始定价\"先降后升\"的非线性路径。\n4、日元加息压力增加、美股高位+AI泡沫有回调风险。\n\n这里的每条要展开细说，都能写一出一篇长文。所以，也是目前大家都能看的到，也都比较担心的宏观不确定因素。\n\n这正因如此，我们现在还处于熊市，不是牛回嘛。每一轮熊市都有不同的历史背景和影响作用，既然是熊市，就一定有原因。\n\n但反过来说，如果等通胀、地缘、财政、货币等问题都解决了，都明确了，BTC还会是现在这个价格吗？\n\n2022年9月-2023年3月，在当时的宏观背景下熊底就在我们的眼皮底下出现了。那我们又如何100%肯定的认为，现在不是？\n\n你可以悲观，可以看空，但请告诉我，你是看空2周，还是2个月，还是2年？\n\n如果是2年，那么现在你应该去买美债，币圈不适合你。因为你的风险偏好极低，就应该选择保本保收益的投资品种。\n\n而我看多，是看“长线布局”的节点。即我不认为2年后BTC的价格会比现在还要低。\n\n所以这并不矛盾，只是级别不同（短线偏空的观点，我已经用RMMPC、交易所CVD、USDC汇率和Coinbase溢价指数分析过）。\n\n尽管当前利空的预期有很多，但向好的一面我们也不能视而不见吧？\n\n比如：ETF在4月-5月初大量的净流入，MSTR持续增持，期权市场机构在布局（下方净卖Put），长期持有者净持仓量创历史新高......\n\n这些选择在7w左右的位置入场的资金，难道是看不懂现在宏观环境下的潜在风险？专业的结构的研究能力比我们散户还要弱？\n\n我想应该不会，只是机构在资金、风控、信息渠道、工具多样化上和散户有本质的区别，所以考虑的角度和层面也不同。",
-      "contentHtml": "聊聊我眼中的宏观、周期和定价\n\n有小伙伴提醒我不能脱离宏观环境而只分析微观。这一点我很认可！在本轮周期只要不是新人小白，任何人都应知道加密和宏观的紧密绑定关系。\n\n而我做的，并非只看链上不看宏观，而是先看链上给出结构信号，再做宏观情绪验证。展开来说，应该是这样的：\n\n我们都知道市场交易的不是事件，而是预期。所以，这其中有一条传导路径：\n\n宏观塑造预期 → 预期影响情绪 → 情绪驱动行为 → 行为改变供需 → 供需决定价格（互相之间也会反向作用）\n\n我们分析宏观经济、货币政策是希望可以提前发现预期，但往往市场的解读是复杂的，多线程的。普通投资者很难做到提前精准预判，甚至交易宏观。\n\n因此我们研究并尝试通过链上数据，观察参与者情绪和行为的变化，再反向验证宏观事件所产生的预期；从而提升交易的概率判断。\n\n既然聊到宏观对交易的指导性，我们不妨梳理一下上轮熊市后半段，宏观上的潜在风险和对风险市场的影响。\n\n2022年9月-2023年3月期间：\n\n1、美联储连续以75bp的步幅暴力加息,半年内累计加息175bp，直接抽干了风险资产的流动性。\n2、加息后果集中暴露。前有FTX暴雷，后有硅谷银行、Signature Bank、Silvergate等加密友好银行倒闭。\n3、2023年初核心CPI仍在5.5%以上,美联储完全没有降息空间。\n4、俄乌战争冲击能源和粮食供应链，欧洲面临天然气危机。\n\n如果时间可以穿梭，让你回到这个时期，单从宏观层面出发，你会认为这是熊底码？绝不会！所以当时绝大多数散户都看破新低，甚至预期BTC会去8,000美元。\n\n然而事后看，这里恰恰就是“逐渐走出深熊”，切换到“熊/牛转换”的新阶段。\n\n2026年5月的风险环境：\n\n1、地缘冲突直接冲击油价，让此前已回落至2.4%的通胀掉头向上。\n2、通胀重新抬头，住房通胀、食品通胀全面反弹，通胀的扩散性比单纯能源冲击更麻烦。\n3、美联储陷入两难，4月会议维持利率，首次有4名官员反对FOMC决定；市场开始定价\"先降后升\"的非线性路径。\n4、日元加息压力增加、美股高位+AI泡沫有回调风险。\n\n这里的每条要展开细说，都能写一出一篇长文。所以，也是目前大家都能看的到，也都比较担心的宏观不确定因素。\n\n这正因如此，我们现在还处于熊市，不是牛回嘛。每一轮熊市都有不同的历史背景和影响作用，既然是熊市，就一定有原因。\n\n但反过来说，如果等通胀、地缘、财政、货币等问题都解决了，都明确了，BTC还会是现在这个价格吗？\n\n2022年9月-2023年3月，在当时的宏观背景下熊底就在我们的眼皮底下出现了。那我们又如何100%肯定的认为，现在不是？\n\n你可以悲观，可以看空，但请告诉我，你是看空2周，还是2个月，还是2年？\n\n如果是2年，那么现在你应该去买美债，币圈不适合你。因为你的风险偏好极低，就应该选择保本保收益的投资品种。\n\n而我看多，是看“长线布局”的节点。即我不认为2年后BTC的价格会比现在还要低。\n\n所以这并不矛盾，只是级别不同（短线偏空的观点，我已经用RMMPC、交易所CVD、USDC汇率和Coinbase溢价指数分析过）。\n\n尽管当前利空的预期有很多，但向好的一面我们也不能视而不见吧？\n\n比如：ETF在4月-5月初大量的净流入，MSTR持续增持，期权市场机构在布局（下方净卖Put），长期持有者净持仓量创历史新高......\n\n这些选择在7w左右的位置入场的资金，难道是看不懂现在宏观环境下的潜在风险？专业的结构的研究能力比我们散户还要弱？\n\n我想应该不会，只是机构在资金、风控、信息渠道、工具多样化上和散户有本质的区别，所以考虑的角度和层面也不同。",
-      "publishedAt": "2026-05-20T04:16:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2056952091415863682",
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "10Y美债收益率快速上行，会抬高风险资产的贴现率，BTC这种高贝塔资产形成压力。 \n\n如果地缘冲突长期维持高油价，导致核心ICE CPI等通胀数据持续超预期，压缩美联储降息路径，风险偏好会被压制。 \n\n这些大家都看的到，能被看到的就能提前计价，不是黑天鹅，但有灰犀牛的可能。\n\n比如现在链上已经提前反映部分宏观压力，比如美区RMMPC明显回落，Coinbase负溢价，交易所CVD回落等等。 \n\n在过去类似的“美债收益率冲高 + 通胀粘性”阶段，BTC往往先调整（也有以横代跌），但只要没有系统性流动性崩盘，回调后反而是低吸窗口。 \n\n在链上反映出的实现市值30日净头寸由负转正，90日已实现盈亏比由红转绿，这种大级别数据也都是资金流向和流动性的真实写照。\n\n这些之前都有分享过。所以不是只看链上不看宏观，而是链上先给出结构信号，宏观再做情绪验证。",
-        "contentHtml": "10Y美债收益率快速上行，会抬高风险资产的贴现率，BTC这种高贝塔资产形成压力。 \n\n如果地缘冲突长期维持高油价，导致核心ICE CPI等通胀数据持续超预期，压缩美联储降息路径，风险偏好会被压制。 \n\n这些大家都看的到，能被看到的就能提前计价，不是黑天鹅，但有灰犀牛的可能。\n\n比如现在链上已经提前反映部分宏观压力，比如美区RMMPC明显回落，Coinbase负溢价，交易所CVD回落等等。 \n\n在过去类似的“美债收益率冲高 + 通胀粘性”阶段，BTC往往先调整（也有以横代跌），但只要没有系统性流动性崩盘，回调后反而是低吸窗口。 \n\n在链上反映出的实现市值30日净头寸由负转正，90日已实现盈亏比由红转绿，这种大级别数据也都是资金流向和流动性的真实写照。\n\n这些之前都有分享过。所以不是只看链上不看宏观，而是链上先给出结构信号，宏观再做情绪验证。",
-        "link": "https://x.com/Murphychen888/status/2055527427401543922"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056940553795961160",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#投资 \n\n香港保险销售 和 币圈项目方过的是类似的生活：\n\n全世界旅行，高端、精英、资源、共建 👍👍👍\n\n其实花的都是傻逼的钱 😁",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23投资\">#投资</a> \n\n香港保险销售 和 币圈项目方过的是类似的生活：\n\n全世界旅行，高端、精英、资源、共建 👍👍👍\n\n其实花的都是傻逼的钱 😁",
-      "publishedAt": "2026-05-20T03:30:00.000Z",
-      "link": "https://x.com/taresky/status/2056940553795961160",
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "#投资\n\n我不懂保险，但是我懂人啊😁",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23投资\">#投资</a>\n\n我不懂保险，但是我懂人啊😁",
-        "link": "https://x.com/taresky/status/2056937747928289717",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIu1w8Ua4AA2gv_.png"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIu15yAaIAACgCL.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2056939140118462529",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI \n\n之前说我的 Codex 200美金 账号每周跑出 1800美金 token，又看到朋友 3 个 20美金的账号一个月跑出了 1000+ 美金。\n\n这个月大家都是完全不愁，拼命用的样子。\n\n能搞定账号和搞不定的，使用成本差异巨大。不算实际支付的成本，光心理成本就影响了 90% 以上使用行为。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n之前说我的 Codex 200美金 账号每周跑出 1800美金 token，又看到朋友 3 个 20美金的账号一个月跑出了 1000+ 美金。\n\n这个月大家都是完全不愁，拼命用的样子。\n\n能搞定账号和搞不定的，使用成本差异巨大。不算实际支付的成本，光心理成本就影响了 90% 以上使用行为。",
-      "publishedAt": "2026-05-20T03:24:00.000Z",
-      "link": "https://x.com/taresky/status/2056939140118462529",
       "stats": {
         "replies": 0,
         "retweets": 0,
