@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T23:54:53.074Z",
+  "lastUpdated": "2026-05-27T00:37:17.540Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,71 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 547,
-    "successUsers": 27,
-    "failedUsers": 3
+    "newFetched": 423,
+    "successUsers": 21,
+    "failedUsers": 9
   },
   "tweets": [
+    {
+      "id": "2059431294740959592",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "RKLB宣布收购Motiv，Motiv带来了经过任务验证的火星遗产，配备先进的多种自由度机器人臂、执行器和驱动电子设备，这些技术支持了历史上一些最具雄心的行星探测任务，包括 NASA 的火星 Perseverance 漫游车。\n\nRKLB有着丰富的并购整合经验，之前这里nitter.net/qinbafrank/status/2045…有梳理过，相信这次并购的整合大概率也很顺利。\n\n上周三RKLB宣布30亿美金的ATM增发股票融资，当时有部分人比较慌，认为融资太频繁。当时也有写过，融资短期可能是个利空，但是增加了未来进一步并购和垂直整合的储备弹药，同时为国防项目增加资本缓冲。过去这一周内，RKLB宣布拿到一份美国太空军的订单（储备订单从22亿美金增加到23亿美金），又收购了一家公司。\n\n在上周这篇推文，聊到宣布增发计划并不是RKLB卖出或者减仓的契机，而是\n“买入增发的恐惧\n卖出SpaceX上市后的情绪高涨。”",
+      "contentHtml": "RKLB宣布收购Motiv，Motiv带来了经过任务验证的火星遗产，配备先进的多种自由度机器人臂、执行器和驱动电子设备，这些技术支持了历史上一些最具雄心的行星探测任务，包括 NASA 的火星 Perseverance 漫游车。\n\nRKLB有着丰富的并购整合经验，之前这里<a href=\"https://nitter.net/qinbafrank/status/2045097384750027099?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2045…</a>有梳理过，相信这次并购的整合大概率也很顺利。\n\n上周三RKLB宣布30亿美金的ATM增发股票融资，当时有部分人比较慌，认为融资太频繁。当时也有写过，融资短期可能是个利空，但是增加了未来进一步并购和垂直整合的储备弹药，同时为国防项目增加资本缓冲。过去这一周内，RKLB宣布拿到一份美国太空军的订单（储备订单从22亿美金增加到23亿美金），又收购了一家公司。\n\n在上周这篇推文，聊到宣布增发计划并不是RKLB卖出或者减仓的契机，而是\n“买入增发的恐惧\n卖出SpaceX上市后的情绪高涨。”",
+      "publishedAt": "2026-05-27T00:27:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2059431294740959592",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJSRsjJaAAAWBR4.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJSRsjJa8AAZomV.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "聊聊RKLB最新的ATM发行股票计划，RKLB在昨天签了新的股票分配协议，以ATM方式出售普通股，总额最高30亿美金，从25年3月以来RKLB已经4次ATM增发股票，如果全部操作完毕总计40多接近50亿美金的融资。确实是持续性地从市场上拿钱了。大家讨论很多，聊聊个人看法：\n1、时机很好，当下随着spacex上市临近，未来一段时间太空经济板块关注度比较高，趁着市场行情好增发囤积一笔大钱，从企业经营层面上是非常明智的操作，趁估值走高行情大好时把资产负债表做厚；\n\n2、为什么要融这么多钱？\n公司提交给SEC的文件写的很标准，用于增长、收购以及未来运营支出等。个人看就两点\n1）为未来进一步并购和垂直整合储备弹药，\nrklb过去的发展历程并购还是很多的，这家公司是有非常丰富并购整合经验的，过往的并购也补齐了很多维度上企业的竞争力。\n\n公司刚完成 Mynaric 收购，补强激光光通信能力并建立欧洲业务足迹；又签了 Motiv 收购协议，目的包括把太阳阵列驱动组件、精密运动控制等供应受限/成本高的卫星部件内制化。 这说明管理层的意图不是单纯填补亏损，而是沿着“launch + spacecraft + components + national security”的端到端空间基础设施平台继续扩张。\n\n2）为Neutron发射和国防项目增加资本缓冲\n公司一季度同时披露了 31 个新的 Electron/HASTE 合同、5 个新的 Neutron 发射合同，发射订单数已经超过 2025 年全年；还提到 Space Based Interceptor、MACH-TB、Neutron 首飞硬件集成和 Archimedes 发动机资格认证等项目。 这些项目的共同点是：前期投入、营运资本、库存、工程冗余都很吃现金。\n\n足够深厚的资金储备能让公司在竞标和交付大项目时更有底气，国防和星座客户在看供应商的长期交付能力，资金实力也是很重要的考量标准。\n\n3、当然股东短期会难受\n特别是昨天这次粗略对应约4%的普通股，相当于我们的持仓一下子被稀释了4%，所以也看到不少比较激动的言论，短期股价也承受。之前每次增发也都导致了股价回调\n\n但股价回调可能也是短期买点，这个时点个人不会减仓。还是去年底这里nitter.net/qinbafrank/status/2000…就聊到的逻辑，spacex能带动一波太空经济浪潮，而且之前这里nitter.net/qinbafrank/status/2041…也聊到，太空经济局已经形成自循环：低成本发射 → 海量卫星 → 丰富数据/服务 → 新商业模式（如太空数据中心、零重力制造）→ 更多投资与应用。这里面rklb并不是spacex第二，而是有自己的独特竞争力。这些竞争优势的构建在过去很多年都是花时间和大量的资本构建起来的。\n\n个人角度，是等spacex上市交易后走了一波行情（也会带动板块整体走高），这个时候可能是太空经济的卖点，大概率会在哪个时候择机减些仓位。个人看法，供参考",
+        "contentHtml": "聊聊RKLB最新的ATM发行股票计划，RKLB在昨天签了新的股票分配协议，以ATM方式出售普通股，总额最高30亿美金，从25年3月以来RKLB已经4次ATM增发股票，如果全部操作完毕总计40多接近50亿美金的融资。确实是持续性地从市场上拿钱了。大家讨论很多，聊聊个人看法：\n1、时机很好，当下随着spacex上市临近，未来一段时间太空经济板块关注度比较高，趁着市场行情好增发囤积一笔大钱，从企业经营层面上是非常明智的操作，趁估值走高行情大好时把资产负债表做厚；\n\n2、为什么要融这么多钱？\n公司提交给SEC的文件写的很标准，用于增长、收购以及未来运营支出等。个人看就两点\n1）为未来进一步并购和垂直整合储备弹药，\nrklb过去的发展历程并购还是很多的，这家公司是有非常丰富并购整合经验的，过往的并购也补齐了很多维度上企业的竞争力。\n\n公司刚完成 Mynaric 收购，补强激光光通信能力并建立欧洲业务足迹；又签了 Motiv 收购协议，目的包括把太阳阵列驱动组件、精密运动控制等供应受限/成本高的卫星部件内制化。 这说明管理层的意图不是单纯填补亏损，而是沿着“launch + spacecraft + components + national security”的端到端空间基础设施平台继续扩张。\n\n2）为Neutron发射和国防项目增加资本缓冲\n公司一季度同时披露了 31 个新的 Electron/HASTE 合同、5 个新的 Neutron 发射合同，发射订单数已经超过 2025 年全年；还提到 Space Based Interceptor、MACH-TB、Neutron 首飞硬件集成和 Archimedes 发动机资格认证等项目。 这些项目的共同点是：前期投入、营运资本、库存、工程冗余都很吃现金。\n\n足够深厚的资金储备能让公司在竞标和交付大项目时更有底气，国防和星座客户在看供应商的长期交付能力，资金实力也是很重要的考量标准。\n\n3、当然股东短期会难受\n特别是昨天这次粗略对应约4%的普通股，相当于我们的持仓一下子被稀释了4%，所以也看到不少比较激动的言论，短期股价也承受。之前每次增发也都导致了股价回调\n\n但股价回调可能也是短期买点，这个时点个人不会减仓。还是去年底这里<a href=\"https://nitter.net/qinbafrank/status/2000536724523663822?s=20\">nitter.net/qinbafrank/status/2000…</a>就聊到的逻辑，spacex能带动一波太空经济浪潮，而且之前这里<a href=\"https://nitter.net/qinbafrank/status/2041101310179873226?s=20\">nitter.net/qinbafrank/status/2041…</a>也聊到，太空经济局已经形成自循环：低成本发射 → 海量卫星 → 丰富数据/服务 → 新商业模式（如太空数据中心、零重力制造）→ 更多投资与应用。这里面rklb并不是spacex第二，而是有自己的独特竞争力。这些竞争优势的构建在过去很多年都是花时间和大量的资本构建起来的。\n\n个人角度，是等spacex上市交易后走了一波行情（也会带动板块整体走高），这个时候可能是太空经济的卖点，大概率会在哪个时候择机减些仓位。个人看法，供参考",
+        "link": "https://x.com/qinbafrank/status/2057380467314425920",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI1CMjIb0AAGfer.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059428158395342865",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "有人问过我怎么看他，问问题的跟他单是赚钱的，他也是我App的会员。\n我的回答是：没人可以每天给你推好几个股票让你去投资，即使现在有了AI，基本面也不可能那么快做完，有团队也很难做到。一家公司的基本面发酵是需要时间沉淀的，不是现在的一条新闻出来就涨，就炒。\n另外我最不喜欢的就是推小票的账号，今天还取关了一个推80M万市值的。无论是有意还是无意，这类人不是蠢就是坏。\n我没有证据，但我合理怀疑他背后是有团队操作的，不少标的你就是那个流动性",
+      "contentHtml": "有人问过我怎么看他，问问题的跟他单是赚钱的，他也是我App的会员。\n我的回答是：没人可以每天给你推好几个股票让你去投资，即使现在有了AI，基本面也不可能那么快做完，有团队也很难做到。一家公司的基本面发酵是需要时间沉淀的，不是现在的一条新闻出来就涨，就炒。\n另外我最不喜欢的就是推小票的账号，今天还取关了一个推80M万市值的。无论是有意还是无意，这类人不是蠢就是坏。\n我没有证据，但我合理怀疑他背后是有团队操作的，不少标的你就是那个流动性",
+      "publishedAt": "2026-05-27T00:15:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2059428158395342865",
+      "quote": {
+        "username": "gai_suo",
+        "displayName": "索蓋雅",
+        "content": "在罵Senerity嗎？🤣 我看他推薦的股票快一年了，他每次都推薦一大堆的小盤股，然後把跌幅超過30%的股票和講錯的文章給刪掉，結果很神奇好像大家都沒有發現一樣，還一堆人在推薦他的X。🧐",
+        "contentHtml": "在罵Senerity嗎？🤣 我看他推薦的股票快一年了，他每次都推薦一大堆的小盤股，然後把跌幅超過30%的股票和講錯的文章給刪掉，結果很神奇好像大家都沒有發現一樣，還一堆人在推薦他的X。🧐",
+        "link": "https://x.com/gai_suo/status/2059383224384794900"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2059395882953433330",
       "username": "KillaXBT",
@@ -753,25 +813,6 @@
       }
     },
     {
-      "id": "2059213289691979858",
-      "username": "RealityFi_xyz",
-      "displayName": "Reality",
-      "avatar": "https://pbs.twimg.com/profile_images/2058803046776492032/ytcYI6Iw_bigger.jpg",
-      "content": "x.com/i/article/205916294354…",
-      "contentHtml": "<a href=\"http://x.com/i/article/2059162943548497920\">x.com/i/article/205916294354…</a>",
-      "publishedAt": "2026-05-26T10:01:00.000Z",
-      "link": "https://x.com/RealityFi_xyz/status/2059213289691979858",
-      "retweet": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2059196729690599767",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -1162,32 +1203,6 @@
       "contentHtml": "1. 不要因估值买入或卖出\n\n2. 半导体公司管理层任何时候都看多\n\n3. 半导体是周期性的；别信\"半导体不再周期\"\n\n4. City Slickers 法则——半导体股一般只受一件事驱动，你的工作是找出那一件事\n\n5. 产品周期对股价/EPS 的拉动通常比你想得更高、更久。反过来（不幸地）也成立\n\n6. 以牺牲毛利换收入，几乎从未成功\n\n7. lead time 拉长时买入，lead time 缩短时卖出\n\n8. 真正\"这次不一样\"极少；会发生，但极少\n\n9. 警惕\"只是一个季度的问题\"这种说法\n\n10. 别指望管理层提前给你预报下行——参见 2\n\n11. 并购成功率最高的是收购方对所购业务有经验；没经验时风险大幅上升\n\n12. 大多数科技公司只做好一件事；当那个模式衰退时，转型到另一业务并做好，极其罕见\n\n13. 二线公司下行时最早最惨、上行时最晚最弱\n\n14. \"价值型\"科技股要起作用，通常需要管理层或商业实践的改变\n\n15. 当股票坏消息不再跌、好消息不再涨时，该停下来重新思考",
       "publishedAt": "2026-05-26T03:56:00.000Z",
       "link": "https://x.com/dongbimao/status/2059121592714801351",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059117340034257143",
-      "username": "sciohn_fhanne",
-      "displayName": "Sciohn Fhanne (深梵)",
-      "avatar": "https://pbs.twimg.com/profile_images/2053277811964534787/r0Hrcewa_bigger.jpg",
-      "content": "Not to be a killjoy, but...\n\nToronto Tech Week will pass. We'll congratulate ourselves. Some of our already brain-drained young talent may even fly back briefly from San Francisco. We'll tell ourselves what a vibrant \"scene\" we have.\n\nMeanwhile, our ancient banking, railway, telecom, energy, insurance, and real estate fossils will continue maintaining their vice grip on our economic apparatus. The barriers to scale will remain. The incentives that push ambitious people elsewhere will remain. The structural constraints that limit dynamism will remain.\n\nVibes are easy. Transformation is hard.",
-      "contentHtml": "Not to be a killjoy, but...\n\nToronto Tech Week will pass. We'll congratulate ourselves. Some of our already brain-drained young talent may even fly back briefly from San Francisco. We'll tell ourselves what a vibrant \"scene\" we have.\n\nMeanwhile, our ancient banking, railway, telecom, energy, insurance, and real estate fossils will continue maintaining their vice grip on our economic apparatus. The barriers to scale will remain. The incentives that push ambitious people elsewhere will remain. The structural constraints that limit dynamism will remain.\n\nVibes are easy. Transformation is hard.",
-      "publishedAt": "2026-05-26T03:40:00.000Z",
-      "link": "https://x.com/sciohn_fhanne/status/2059117340034257143",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "DamiDina",
-        "displayName": "Dami Dina",
-        "content": "torontonian / canadian tech scene be like: \n\n- we are like last in developed world with ai adoption and innovation  \n\n- we have no innovative companies \n\n- brain drain is the worst and it is affecting our economics\n\nbut let's ignore all that and pat each other on the back lmao",
-        "contentHtml": "torontonian / canadian tech scene be like: \n\n- we are like last in developed world with ai adoption and innovation  \n\n- we have no innovative companies \n\n- brain drain is the worst and it is affecting our economics\n\nbut let's ignore all that and pat each other on the back lmao",
-        "link": "https://x.com/DamiDina/status/2059093760022040693"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -4271,32 +4286,6 @@
             "url": "https://pbs.twimg.com/media/HH9z1-CWUAEH_Qa.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058212741983158527",
-      "username": "ProofofMaro",
-      "displayName": "maro",
-      "avatar": "https://pbs.twimg.com/profile_images/1961870544682270720/uocyCxAy_bigger.jpg",
-      "content": "A woman expresses love through service.",
-      "contentHtml": "A woman expresses love through service.",
-      "publishedAt": "2026-05-23T15:45:00.000Z",
-      "link": "https://x.com/ProofofMaro/status/2058212741983158527",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "naval",
-        "displayName": "Naval",
-        "content": "A man expresses love through duty.",
-        "contentHtml": "A man expresses love through duty.",
-        "link": "https://x.com/naval/status/2058212450747715730"
       },
       "stats": {
         "replies": 0,
@@ -8770,35 +8759,6 @@
       }
     },
     {
-      "id": "2057437959897444373",
-      "username": "ZetLorento",
-      "displayName": "Zet Lorento",
-      "avatar": "https://pbs.twimg.com/profile_images/1979245417473753088/99tBe5of_bigger.jpg",
-      "content": "ExpressVPN, @torproject, Tuta, Mozilla, @EFF and Mullvad, alongside 13 other organizations advocating for digital privacy rights, have published an open letter.\n\nIn the letter, they express serious concerns regarding the age verification measures planned for implementation across the internet following the introduction of a new child protection law.\n\nThe organizations argue that forcing users to prove their age across most websites and online services could severely undermine privacy, anonymity, and the open nature of the internet.\n\nThe central message of the letter is that protecting children should not come at the cost of jeopardizing the freedom, security, and privacy of all internet users. The signatories are calling for more balanced, privacy preserving solutions to be developed instead.\n\nThe 19 organizations that signed the letter are:\n\n1- Big Brother Watch\n2- Defend Digital Me\n3- Electronic Frontier Foundation\n4- ExpressVPN\n5- Gamers Voice\n6- Global Partners Digital\n7- Index on Censorship\n8- Internet Society\n9- Mozilla\n10- Mullvad\n11- IPVanish\n12- NO2ID\n13- Open Rights Group\n14- Privacymatters\n15- Proton\n16- Stop Killing Games\n17- Tor Project\n18- Tuta\n19- VPN Trust Initiative",
-      "contentHtml": "ExpressVPN, <a href=\"/torproject\" title=\"The Tor Project\">@torproject</a>, Tuta, Mozilla, <a href=\"/EFF\" title=\"EFF\">@EFF</a> and Mullvad, alongside 13 other organizations advocating for digital privacy rights, have published an open letter.\n\nIn the letter, they express serious concerns regarding the age verification measures planned for implementation across the internet following the introduction of a new child protection law.\n\nThe organizations argue that forcing users to prove their age across most websites and online services could severely undermine privacy, anonymity, and the open nature of the internet.\n\nThe central message of the letter is that protecting children should not come at the cost of jeopardizing the freedom, security, and privacy of all internet users. The signatories are calling for more balanced, privacy preserving solutions to be developed instead.\n\nThe 19 organizations that signed the letter are:\n\n1- Big Brother Watch\n2- Defend Digital Me\n3- Electronic Frontier Foundation\n4- ExpressVPN\n5- Gamers Voice\n6- Global Partners Digital\n7- Index on Censorship\n8- Internet Society\n9- Mozilla\n10- Mullvad\n11- IPVanish\n12- NO2ID\n13- Open Rights Group\n14- Privacymatters\n15- Proton\n16- Stop Killing Games\n17- Tor Project\n18- Tuta\n19- VPN Trust Initiative",
-      "publishedAt": "2026-05-21T12:26:00.000Z",
-      "link": "https://x.com/ZetLorento/status/2057437959897444373",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HI16-sVWAAA5ymA.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HI17ACyX0AAmczd.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2057436768035815649",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -10524,32 +10484,6 @@
       }
     },
     {
-      "id": "2057031261634679129",
-      "username": "compoundwater",
-      "displayName": "CompoundWater 複水 🐳",
-      "avatar": "https://pbs.twimg.com/profile_images/1712170728832061441/dwI40nH0_bigger.jpg",
-      "content": "1） 之前分享过的CK指标，也是我交易时很常用的数据流评估（熟悉的Liq绿买红卖, MP<25等） 让我们低买高卖更轻松之外\n\n这次新功能 #Insight  AI 深度覆盘  \n更帮你盯图表、对比历史 K 线，找出规律做交易。透过AI统计样本足够加上塞选，即时TG推播替你盯盘👌🏻\n\n2）@coinkarma_ 欢迎新老朋友们体验 🙌🏻",
-      "contentHtml": "1） 之前分享过的CK指标，也是我交易时很常用的数据流评估（熟悉的Liq绿买红卖, MP&lt;25等） 让我们低买高卖更轻松之外\n\n这次新功能 <a href=\"/search?f=tweets&q=%23Insight\">#Insight</a>  AI 深度覆盘  \n更帮你盯图表、对比历史 K 线，找出规律做交易。透过AI统计样本足够加上塞选，即时TG推播替你盯盘👌🏻\n\n2）<a href=\"/coinkarma_\" title=\"CoinKarma\">@coinkarma_</a> 欢迎新老朋友们体验 🙌🏻",
-      "publishedAt": "2026-05-20T09:30:00.000Z",
-      "link": "https://x.com/compoundwater/status/2057031261634679129",
-      "retweet": {
-        "username": "coinkarma_",
-        "displayName": "CoinKarma"
-      },
-      "quote": {
-        "username": "coinkarma_",
-        "displayName": "CoinKarma",
-        "content": "x.com/i/article/204212729686…",
-        "contentHtml": "<a href=\"http://x.com/i/article/2042127296866529280\">x.com/i/article/204212729686…</a>",
-        "link": "https://x.com/coinkarma_/status/2056568821390123368"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2057030511999308105",
       "username": "ai_9684xtpa",
       "displayName": "Ai 姨",
@@ -12050,6 +11984,51 @@
         "contentHtml": "7.03这么低吗",
         "link": "https://x.com/cyz4ever/status/1990334135769219511"
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056687193632985130",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_bigger.jpg",
+      "content": "buidlpad这个吃相有点太难看了，20%手续费和20%盈利，还要锁仓半年，目前来看bg确实是格局最大的。",
+      "contentHtml": "buidlpad这个吃相有点太难看了，20%手续费和20%盈利，还要锁仓半年，目前来看bg确实是格局最大的。",
+      "publishedAt": "2026-05-19T10:43:00.000Z",
+      "link": "https://x.com/0xleng1/status/2056687193632985130",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056563712644010363",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "即将结束在某省会城市的调研，开拓的眼界：\n1.城投公司全产业链条操盘，实体业务从产->销做成闭环，流水扩充数倍\n2.链条的每个节点都是融资渠道\n3.上级城投绑定下一级，上层要钱，下级要流水\n\n中国GDP永远繁荣",
+      "contentHtml": "即将结束在某省会城市的调研，开拓的眼界：\n1.城投公司全产业链条操盘，实体业务从产-&gt;销做成闭环，流水扩充数倍\n2.链条的每个节点都是融资渠道\n3.上级城投绑定下一级，上层要钱，下级要流水\n\n中国GDP永远繁荣",
+      "publishedAt": "2026-05-19T02:32:00.000Z",
+      "link": "https://x.com/follow_clues/status/2056563712644010363",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2056555295908716655",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://pbs.twimg.com/profile_images/1842438817397297152/0WZDqXBE_bigger.jpg",
+      "content": "x.com/i/article/205586112172…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2055861121727270913\">x.com/i/article/205586112172…</a>",
+      "publishedAt": "2026-05-19T01:59:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2056555295908716655",
       "stats": {
         "replies": 0,
         "retweets": 0,
