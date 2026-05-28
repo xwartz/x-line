@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T09:48:46.885Z",
+  "lastUpdated": "2026-05-28T11:12:38.078Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,163 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 587,
-    "successUsers": 29,
-    "failedUsers": 1
+    "newFetched": 567,
+    "successUsers": 28,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2059952825216426159",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "最近美股热到发烫，也带火了加密原生路线下的“美股代币化”。虽然各家模式有所不同，但核心都是把美股价格敞口接入进来。优势是快速、方便、对加密用户友好，但合规结构和股东权利并不统一。\n\nBinance Wallet 走的是Ondo模式；交易所不发行股票代币，而是接入Ondo RWA协议。代币结构、铸造赎回、分红拆股这些全由Ondo处理。\n\n每个代币1:1由托管券商持有的真实股票背书，Ankura做第三方验证，每天出储备报告。我看了下5/19那份，资产对负债110.61%。\n\n进去逛了一圈，整体上比想象中能打。板块分得很细，按照市场热度排序，像存储、AI芯片、美股七姐妹、ETF指数基金等等都有包括。\n\n也可以享有股息分红。但分红不发现金，而是自动帮你再投回基础证券，体现为代币价格上涨或数量增加。也就是说，它追踪的是含分红的总回报。\n\n此外，还有Kraken的xStocks模式、Robinhood的Stock Tokens、差价合约模式等等。\n\n行业还处于早期，不同路径没有谁一定对。大家各自在链上可组合性、合规监管、股东权益之间做了不同的取舍。最终哪条能跑出来，还得看监管落地和用户用脚投票了。",
+      "contentHtml": "最近美股热到发烫，也带火了加密原生路线下的“美股代币化”。虽然各家模式有所不同，但核心都是把美股价格敞口接入进来。优势是快速、方便、对加密用户友好，但合规结构和股东权利并不统一。\n\nBinance Wallet 走的是Ondo模式；交易所不发行股票代币，而是接入Ondo RWA协议。代币结构、铸造赎回、分红拆股这些全由Ondo处理。\n\n每个代币1:1由托管券商持有的真实股票背书，Ankura做第三方验证，每天出储备报告。我看了下5/19那份，资产对负债110.61%。\n\n进去逛了一圈，整体上比想象中能打。板块分得很细，按照市场热度排序，像存储、AI芯片、美股七姐妹、ETF指数基金等等都有包括。\n\n也可以享有股息分红。但分红不发现金，而是自动帮你再投回基础证券，体现为代币价格上涨或数量增加。也就是说，它追踪的是含分红的总回报。\n\n此外，还有Kraken的xStocks模式、Robinhood的Stock Tokens、差价合约模式等等。\n\n行业还处于早期，不同路径没有谁一定对。大家各自在链上可组合性、合规监管、股东权益之间做了不同的取舍。最终哪条能跑出来，还得看监管落地和用户用脚投票了。",
+      "publishedAt": "2026-05-28T11:00:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2059952825216426159",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJZDFgWbIAEY5cJ.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJZDFgraEAA6wNf.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJZDFgrbYAA2KsW.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJZDFgsaMAARaeW.jpg"
+        }
+      ],
+      "quote": {
+        "username": "binancezh",
+        "displayName": "币安Binance华语",
+        "content": "找到链上股票入口只需两步⬇️",
+        "contentHtml": "找到链上股票入口只需两步⬇️",
+        "link": "https://x.com/binancezh/status/1993535477304184941",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/G6p0ZcSbcAATpT9.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/G6p0aBNbwAID5C3.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059952216228651275",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "$BTC \n\nDon’t say I didn’t warn you countless times.\n\nSignificant weekly resistance levels rarely get flipped on the first attempt, and this was no exception.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nDon’t say I didn’t warn you countless times.\n\nSignificant weekly resistance levels rarely get flipped on the first attempt, and this was no exception.",
+      "publishedAt": "2026-05-28T10:57:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2059952216228651275",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJZrAYkWIAUPYsc.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "Study how $BTC PA has reacted over the past few years. \n\nStudy how nearly every significant weekly resistance gets rejected on the first retest. \n\nStudy how major weekly structural areas almost never flip on the first attempt.\n\nYou know where we are. \n\nYou know what we’re testing for the first time. \n\nThe market has a funny way of making people flip bias at the exact moment it’s least appropriate to flip. \n\nEven in bull markets, price forms ranges. It retests levels. It rejects key areas. You don’t get straight impulsive moves without months of consolidation, ranges, and failed breakouts along the way.\n\nThis is the market maker way & this is exactly what has been happening for years.",
+        "contentHtml": "Study how <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> PA has reacted over the past few years. \n\nStudy how nearly every significant weekly resistance gets rejected on the first retest. \n\nStudy how major weekly structural areas almost never flip on the first attempt.\n\nYou know where we are. \n\nYou know what we’re testing for the first time. \n\nThe market has a funny way of making people flip bias at the exact moment it’s least appropriate to flip. \n\nEven in bull markets, price forms ranges. It retests levels. It rejects key areas. You don’t get straight impulsive moves without months of consolidation, ranges, and failed breakouts along the way.\n\nThis is the market maker way & this is exactly what has been happening for years.",
+        "link": "https://x.com/KillaXBT/status/2053870253659013321",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIDPjIeW8AAewa_.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059951904638058942",
+      "username": "mollys10xmeme",
+      "displayName": "molly",
+      "avatar": "https://pbs.twimg.com/profile_images/1852442683316346880/gyGQWGJ__bigger.jpg",
+      "content": "这是真的，不管别人咋黑你，24 年以太你看多涨到 4800，btc 23 年 24 年 中间回调也一直喊多，25 年下半年才喊空的，美股你也是今年才看空。我美股半仓防御了，也是预感不太好，22 年没跑币股都吃了个大跌，今年虽然少赚但是谨慎了",
+      "contentHtml": "这是真的，不管别人咋黑你，24 年以太你看多涨到 4800，btc 23 年 24 年 中间回调也一直喊多，25 年下半年才喊空的，美股你也是今年才看空。我美股半仓防御了，也是预感不太好，22 年没跑币股都吃了个大跌，今年虽然少赚但是谨慎了",
+      "publishedAt": "2026-05-28T10:56:00.000Z",
+      "link": "https://x.com/mollys10xmeme/status/2059951904638058942",
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059936456731435388",
+      "username": "BensonTWN",
+      "displayName": "Benson Sun",
+      "avatar": "https://pbs.twimg.com/profile_images/1668618508853477381/dEpVvzxO_bigger.jpg",
+      "content": "這陣子很少發文，因為把兒子從月中帶回家後，就正式進入帶娃模式了。\n\n我們白天請了保母幫忙，晚上則是自己帶。老婆印了一張作息表，仔細記錄兒子吃飯、睡覺、換尿布、玩遊戲的時間，方便跟保母交接。在保母跟老婆的努力下，兒子兩個半月大就能睡過夜，從晚上八點一路睡到隔天早上五點。\n\n為了配合小孩的作息，我的生活節奏也做了很多調整，現在的日子就是早上看 NBA、中午遛狗、下午健身、傍晚帶娃、晚上才開始工作，然後睡覺。現在的生活不太允許整天盯盤了，是說這行情好像也沒啥好盯的就是了⋯⋯",
+      "contentHtml": "這陣子很少發文，因為把兒子從月中帶回家後，就正式進入帶娃模式了。\n\n我們白天請了保母幫忙，晚上則是自己帶。老婆印了一張作息表，仔細記錄兒子吃飯、睡覺、換尿布、玩遊戲的時間，方便跟保母交接。在保母跟老婆的努力下，兒子兩個半月大就能睡過夜，從晚上八點一路睡到隔天早上五點。\n\n為了配合小孩的作息，我的生活節奏也做了很多調整，現在的日子就是早上看 NBA、中午遛狗、下午健身、傍晚帶娃、晚上才開始工作，然後睡覺。現在的生活不太允許整天盯盤了，是說這行情好像也沒啥好盯的就是了⋯⋯",
+      "publishedAt": "2026-05-28T09:54:00.000Z",
+      "link": "https://x.com/BensonTWN/status/2059936456731435388",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2059935404158079183",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "$BTC \n\nStandard procedure once again ✅\n\nWe saw clear negative order book depth / weakening demand at the highs, and once again it marked a local top before the correction followed through.\n\nThese are important dynamics to factor in especially when analyzing HTFs. The market was clearly getting heavy in the 80Ks, and the reaction confirmed it.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nStandard procedure once again ✅\n\nWe saw clear negative order book depth / weakening demand at the highs, and once again it marked a local top before the correction followed through.\n\nThese are important dynamics to factor in especially when analyzing HTFs. The market was clearly getting heavy in the 80Ks, and the reaction confirmed it.",
+      "publishedAt": "2026-05-28T09:50:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2059935404158079183",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJZcDq5WkAIJ2y5.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "$BTC \n\nThe order book depth has been significantly red around this price region, which isn’t particularly bullish.\n\nThat’s why it’s perfectly reasonable to remain cautious near the highs.\n\nThe only real time to bid is when delta flips strongly positive and prints green which would signal accumulation.\n\nUntil that happens... risky being a buyer up here. Mainly leverage driven hunts.",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nThe order book depth has been significantly red around this price region, which isn’t particularly bullish.\n\nThat’s why it’s perfectly reasonable to remain cautious near the highs.\n\nThe only real time to bid is when delta flips strongly positive and prints green which would signal accumulation.\n\nUntil that happens... risky being a buyer up here. Mainly leverage driven hunts.",
+        "link": "https://x.com/KillaXBT/status/2055059004473118983",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIUI1QtXEAA-QoY.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2059932148526653933",
       "username": "KillaXBT",
@@ -11984,144 +12136,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HIzpHQXasAAfbk5.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2057290184446886353",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#NVDA \n\n英伟达财报符合预期也超预期\n最重要的是说明一件事情，短期AI的资本投入不会有问题\n\n财报前让不追\n财报后下跌是机会",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23NVDA\">#NVDA</a> \n\n英伟达财报符合预期也超预期\n最重要的是说明一件事情，短期AI的资本投入不会有问题\n\n财报前让不追\n财报后下跌是机会",
-      "publishedAt": "2026-05-21T02:39:00.000Z",
-      "link": "https://x.com/dongbimao/status/2057290184446886353",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIz2HDNbIAAE8Ml.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2057282604311941434",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
-      "content": "「2 種潛在的做空窗口」：反彈填補失衡區 or 清掃上方 Liq❓\n\n在昨天的分析帖中（下方引文），我從鏈上模型的角度，\n和各位分享了 BTC 下方的強支撐區域；\n而今天我打算從 Liq 的角度，和各位聊聊「上方的潛在阻力」。\n\n如果你不認為 60K 是底，且有意介入做空，\n那你或許不會想錯過今天的帖子👇：\n\n//\n\n隨著近期 BTC 線型逐步釋出更多新訊號，\n如果你和我一樣傾向於「最後一哆嗦」的到來，\n那今天的帖子正是在瞄準並嘗試捕捉「最後一哆嗦」的起爆點💉\n\n📖 最後一哆嗦抄底系列（十四）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n如附圖所示，我將接下來 BTC 的走勢總結成兩種可能性：\n1️⃣ 清掃現存於 82K 上方的 Trendline Liq 並產生 Stop Hunt\n2️⃣ 回補位於 79.5~80.3K 的失衡區後，順勢造出大級別 Lower High\n\n先說1️⃣：\n其實第一種可能性的交易思路，我在本週一的帖子中已有提及，\n簡言之就是「清掃 Liq + Stop Hunt + 美資情緒背離」的組合拳，\n詳細的思路可以參考以下鏈接，在此就不多做贅述了：\n📖「不理想的築頂」：詳述基於 Liq 分析法的最新交易思路\nnitter.net/market_beggar/status/2…\n📖「美方資金撤資風險」再次印驗\nnitter.net/market_beggar/status/2…\n\n再來是2️⃣：\n如果價格未能回去 82K 清掃 Liq，反而是提前顯現頹勢，\n那我認為 79.5~80.3K 的失衡區會是一個值得觀察的位置，\n如果價格在此處開始出現頹勢並開始下跌，\n那或許就有更高的概率順勢造出一個「大級別的 Lower High」，\n而這也可能成為 trigger 最後一哆嗦的起爆劑。\n\n📖 Stop Hunt 概念詳解\nnitter.net/market_beggar/status/1…\n\n當然，依然是那句老話：\n以上我分享的兩種可能性，都是我個人願意且有能力介入的「擊球區」，\n價格當然有可能脫離上述兩種框架，例如直接一路瀑布向下，\n又或者直接強勢沖破 82.8K 且持續高歌猛進。\n\n每個人的風險耐受度、擅長的領域皆不太相同，\n我曾多次強調：「交易的思路必須是合乎邏輯且具備連貫性的」，\n而我自己的思路，相信各位在過去兩個多月的帖子都能看出，始終都是：\n➡️ 基於 Liq 和鏈上數據而認為最後一哆嗦必須到來\n➡️ 承上，因此波段策略更傾向於「高空」而非「低多」（例如本文）\n➡️ 現貨則一直都是「週期性交易部位」，故剩餘資金只願在 60K 以下抄底\n\n最後，你同不同意我的思路並不重要，\n重要的是你需要擁有一套自己的分析系統，\n提前思考並規劃在不同情境下的應對策略和操作方式，\n如此一來才能在資訊爆炸、極度容易引起焦慮的網路世界，\n保持自己的獨立思考、不隨市場情緒而搖擺。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「套牢半年的幾十萬枚 BTC」：STH-RP 後的最後一道坎\nnitter.net/market_beggar/status/2…\n\n「決戰 BTC 牛熊分水嶺」：多空強力交火、波動加劇\nnitter.net/market_beggar/status/2…\n\n「深熊估值的共振❓」持續上升的長期持有者平均成本\nnitter.net/market_beggar/status/2…",
-      "contentHtml": "「2 種潛在的做空窗口」：反彈填補失衡區 or 清掃上方 Liq❓\n\n在昨天的分析帖中（下方引文），我從鏈上模型的角度，\n和各位分享了 BTC 下方的強支撐區域；\n而今天我打算從 Liq 的角度，和各位聊聊「上方的潛在阻力」。\n\n如果你不認為 60K 是底，且有意介入做空，\n那你或許不會想錯過今天的帖子👇：\n\n//\n\n隨著近期 BTC 線型逐步釋出更多新訊號，\n如果你和我一樣傾向於「最後一哆嗦」的到來，\n那今天的帖子正是在瞄準並嘗試捕捉「最後一哆嗦」的起爆點💉\n\n📖 最後一哆嗦抄底系列（十四）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2055103263448682610\">nitter.net/market_beggar/status/2…</a>\n\n如附圖所示，我將接下來 BTC 的走勢總結成兩種可能性：\n1️⃣ 清掃現存於 82K 上方的 Trendline Liq 並產生 Stop Hunt\n2️⃣ 回補位於 79.5~80.3K 的失衡區後，順勢造出大級別 Lower High\n\n先說1️⃣：\n其實第一種可能性的交易思路，我在本週一的帖子中已有提及，\n簡言之就是「清掃 Liq + Stop Hunt + 美資情緒背離」的組合拳，\n詳細的思路可以參考以下鏈接，在此就不多做贅述了：\n📖「不理想的築頂」：詳述基於 Liq 分析法的最新交易思路\n<a href=\"https://nitter.net/market_beggar/status/2056190764347265261\">nitter.net/market_beggar/status/2…</a>\n📖「美方資金撤資風險」再次印驗\n<a href=\"https://nitter.net/market_beggar/status/2056552729682780400\">nitter.net/market_beggar/status/2…</a>\n\n再來是2️⃣：\n如果價格未能回去 82K 清掃 Liq，反而是提前顯現頹勢，\n那我認為 79.5~80.3K 的失衡區會是一個值得觀察的位置，\n如果價格在此處開始出現頹勢並開始下跌，\n那或許就有更高的概率順勢造出一個「大級別的 Lower High」，\n而這也可能成為 trigger 最後一哆嗦的起爆劑。\n\n📖 Stop Hunt 概念詳解\n<a href=\"https://nitter.net/market_beggar/status/1907261008059777200\">nitter.net/market_beggar/status/1…</a>\n\n當然，依然是那句老話：\n以上我分享的兩種可能性，都是我個人願意且有能力介入的「擊球區」，\n價格當然有可能脫離上述兩種框架，例如直接一路瀑布向下，\n又或者直接強勢沖破 82.8K 且持續高歌猛進。\n\n每個人的風險耐受度、擅長的領域皆不太相同，\n我曾多次強調：「交易的思路必須是合乎邏輯且具備連貫性的」，\n而我自己的思路，相信各位在過去兩個多月的帖子都能看出，始終都是：\n➡️ 基於 Liq 和鏈上數據而認為最後一哆嗦必須到來\n➡️ 承上，因此波段策略更傾向於「高空」而非「低多」（例如本文）\n➡️ 現貨則一直都是「週期性交易部位」，故剩餘資金只願在 60K 以下抄底\n\n最後，你同不同意我的思路並不重要，\n重要的是你需要擁有一套自己的分析系統，\n提前思考並規劃在不同情境下的應對策略和操作方式，\n如此一來才能在資訊爆炸、極度容易引起焦慮的網路世界，\n保持自己的獨立思考、不隨市場情緒而搖擺。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「套牢半年的幾十萬枚 BTC」：STH-RP 後的最後一道坎\n<a href=\"https://nitter.net/market_beggar/status/2054017583054209315\">nitter.net/market_beggar/status/2…</a>\n\n「決戰 BTC 牛熊分水嶺」：多空強力交火、波動加劇\n<a href=\"https://nitter.net/market_beggar/status/2051479165527097444\">nitter.net/market_beggar/status/2…</a>\n\n「深熊估值的共振❓」持續上升的長期持有者平均成本\n<a href=\"https://nitter.net/market_beggar/status/2046768212197683636\">nitter.net/market_beggar/status/2…</a>",
-      "publishedAt": "2026-05-21T02:09:00.000Z",
-      "link": "https://x.com/market_beggar/status/2057282604311941434",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIzvnmNbgAAgbV7.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「美資要砸到哪」：從市場成本的角度聊聊下方的兩道強支撐💎\n\n承接下方引文，美方資金的偷跑再次造成了 BTC 的下跌，\n而下跌本身已是既成事實，因此，近期不少朋友開始詢問：\n「那要跌到哪才可以抄底❓」\n\n據此，今天我就再把「偏離度調整的 STH-RP 模型」請出來，\n和各位分享下方潛在的強支撐👇：\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，概念重溫如下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：nitter.net/market_beggar/status/1…\n📖 藍線支撐的築底時間詳細覆盤：\nnitter.net/market_beggar/status/2…\n📖 藍線支撐的所有歷史案例分析：\nnitter.net/market_beggar/status/2…\n\n//\n\n如附圖所示：\n價格近期在來到 STH-RP（短期持有者平均成本）之後，\n波動開始出現明顯的加劇，上沖下洗的行情持續了約兩週之久，\n足以證明這條「牛熊生命線」的威力依然存在。\n\n📖「藍線再顯神威」：強力反彈 38%，硬搶 STH-RP？\nnitter.net/market_beggar/status/2…\n\n根據今天的最新數據顯示📇：\n🟨 STH-RP = 78,309\n🟩 綠線支撐 = 64,751\n🟦 藍線支撐 = 57,015\n\n從現貨抄底（週期性交易）的角度來看，如果你認為：\n1️⃣ 價格不會跌破 60K：那綠線就是值得入場的位置\n2️⃣ 價格必將跌破 60K（最後一哆嗦）：那藍線就是值得入場的位置\n\n當然，如果要問我的看法，我在過去兩個多月的帖子已表明立場：\n\n「我不敢保證跌破 60K 的最後一哆嗦會到來，\n但我堅信價格需要跌破 60K，才能完成健康的最終底部」\n\n📖 最後一哆嗦抄底系列（十四）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n最後，老話一句：\n交易的本質是規劃，而不是預測；每個人都需要根據自己的風險耐受度，\n提前針對不同可能發生的情境，設計嚴謹且有效的應對策略。\n\n交易不是非黑即白，我們沒必要去猜測「到底會不會跌破 60K」，\n而是需要思考：「如果跌破，就 ...」以及「如果沒跌破，就 ...」，\n如此一來，價格在未來走入了其中一種情境時，我們便只需嚴格執行，\n而不必因情緒的波動而導致自亂陣腳、胡亂操作。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「不理想的築頂」：詳述基於 Liq 分析法的最新交易思路\nnitter.net/market_beggar/status/2…\n\n「五大買方族群熱力圖」更新：密切監測新買家何時熄火\nnitter.net/market_beggar/status/2…\n\n老奶奶也能看明白的「市場交易預期」白話概念教學\nnitter.net/market_beggar/status/2…",
-        "contentHtml": "「美資要砸到哪」：從市場成本的角度聊聊下方的兩道強支撐💎\n\n承接下方引文，美方資金的偷跑再次造成了 BTC 的下跌，\n而下跌本身已是既成事實，因此，近期不少朋友開始詢問：\n「那要跌到哪才可以抄底❓」\n\n據此，今天我就再把「偏離度調整的 STH-RP 模型」請出來，\n和各位分享下方潛在的強支撐👇：\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，概念重溫如下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 模型詳細概念說明：<a href=\"https://nitter.net/market_beggar/status/1902195178993279264\">nitter.net/market_beggar/status/1…</a>\n📖 藍線支撐的築底時間詳細覆盤：\n<a href=\"https://nitter.net/market_beggar/status/2026474493749989766\">nitter.net/market_beggar/status/2…</a>\n📖 藍線支撐的所有歷史案例分析：\n<a href=\"https://nitter.net/market_beggar/status/2018501752103047340\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n如附圖所示：\n價格近期在來到 STH-RP（短期持有者平均成本）之後，\n波動開始出現明顯的加劇，上沖下洗的行情持續了約兩週之久，\n足以證明這條「牛熊生命線」的威力依然存在。\n\n📖「藍線再顯神威」：強力反彈 38%，硬搶 STH-RP？\n<a href=\"https://nitter.net/market_beggar/status/2052205146827116790\">nitter.net/market_beggar/status/2…</a>\n\n根據今天的最新數據顯示📇：\n🟨 STH-RP = 78,309\n🟩 綠線支撐 = 64,751\n🟦 藍線支撐 = 57,015\n\n從現貨抄底（週期性交易）的角度來看，如果你認為：\n1️⃣ 價格不會跌破 60K：那綠線就是值得入場的位置\n2️⃣ 價格必將跌破 60K（最後一哆嗦）：那藍線就是值得入場的位置\n\n當然，如果要問我的看法，我在過去兩個多月的帖子已表明立場：\n\n「我不敢保證跌破 60K 的最後一哆嗦會到來，\n但我堅信價格需要跌破 60K，才能完成健康的最終底部」\n\n📖 最後一哆嗦抄底系列（十四）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2055103263448682610\">nitter.net/market_beggar/status/2…</a>\n\n最後，老話一句：\n交易的本質是規劃，而不是預測；每個人都需要根據自己的風險耐受度，\n提前針對不同可能發生的情境，設計嚴謹且有效的應對策略。\n\n交易不是非黑即白，我們沒必要去猜測「到底會不會跌破 60K」，\n而是需要思考：「如果跌破，就 ...」以及「如果沒跌破，就 ...」，\n如此一來，價格在未來走入了其中一種情境時，我們便只需嚴格執行，\n而不必因情緒的波動而導致自亂陣腳、胡亂操作。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「不理想的築頂」：詳述基於 Liq 分析法的最新交易思路\n<a href=\"https://nitter.net/market_beggar/status/2056190764347265261\">nitter.net/market_beggar/status/2…</a>\n\n「五大買方族群熱力圖」更新：密切監測新買家何時熄火\n<a href=\"https://nitter.net/market_beggar/status/2054739624992649429\">nitter.net/market_beggar/status/2…</a>\n\n老奶奶也能看明白的「市場交易預期」白話概念教學\n<a href=\"https://nitter.net/market_beggar/status/2054377450893885740\">nitter.net/market_beggar/status/2…</a>",
-        "link": "https://x.com/market_beggar/status/2056915885106037245",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIue3-QbIAALvf0.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2057281422852006028",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "今天发了 4 枚，不过还只处理到上周的私信… 没办法",
-      "contentHtml": "今天发了 4 枚，不过还只处理到上周的私信… 没办法",
-      "publishedAt": "2026-05-21T02:04:00.000Z",
-      "link": "https://x.com/taresky/status/2057281422852006028",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2057278764648919429",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
-      "content": "【#BTC 四年周期系列更新📊】历史上比特币熊市完成筑底前，黑线均会依次跌破橙线、蓝线、绿线\n\n本轮黑线已跌破橙线和蓝线，距离跌破最终绿线还差 $5,319 刀\n\n┌── 🐼 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 链上数据详情 ──┐\n\n⚫️黑线为链上持币0-10年投资者平均购币成本 ($64,414)\n🟠橙线为链上持币6个月-5年投资者平均购币成本 ($73,958)\n🔵蓝线为链上持币6个月-7年投资者平均购币成本 ($67,384)\n🟢绿线为链上持币6个月-10年投资者平均购币成本 ($59,095)",
-      "contentHtml": "【<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 四年周期系列更新📊】历史上比特币熊市完成筑底前，黑线均会依次跌破橙线、蓝线、绿线\n\n本轮黑线已跌破橙线和蓝线，距离跌破最终绿线还差 $5,319 刀\n\n┌── 🐼 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 链上数据详情 ──┐\n\n⚫️黑线为链上持币0-10年投资者平均购币成本 ($64,414)\n🟠橙线为链上持币6个月-5年投资者平均购币成本 ($73,958)\n🔵蓝线为链上持币6个月-7年投资者平均购币成本 ($67,384)\n🟢绿线为链上持币6个月-10年投资者平均购币成本 ($59,095)",
-      "publishedAt": "2026-05-21T01:54:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2057278764648919429",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIzp5rAakAAQ30D.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【四年周期总刻系列（23）】\n\n历史上 #BTC 每轮熊市最后一跌前后，黑线均会依次下穿橙线、蓝线、绿线\n\n当前黑线已下穿橙线\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n黑线为链上持币0-10年投资者平均购币成本\n橙线为链上持币6个月-5年投资者平均购币成本\n蓝线为链上持币6个月-7年投资者平均购币成本\n绿线为链上持币6个月-10年投资者平均购币成本",
-        "contentHtml": "【四年周期总刻系列（23）】\n\n历史上 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 每轮熊市最后一跌前后，黑线均会依次下穿橙线、蓝线、绿线\n\n当前黑线已下穿橙线\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n黑线为链上持币0-10年投资者平均购币成本\n橙线为链上持币6个月-5年投资者平均购币成本\n蓝线为链上持币6个月-7年投资者平均购币成本\n绿线为链上持币6个月-10年投资者平均购币成本",
-        "link": "https://x.com/0xCryptoChan/status/2033373539106214133",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HDf8zScacAApoj5.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2057278704666181982",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "道心破碎，「 $PEPE 波段胜率 100% 巨鲸」似乎是清仓了，预计累计亏损 1712 万美元🥲\n\n过去 12 小时他已将剩余的 639 亿枚 PEPE 全部充值进了 #Bitget，价值 235.7 万美元，充值价格 $0.000003687；其建仓成本约为 $0.00001683，若卖出将亏损 840 万美元，加上 2 个月前充值部分亏损将超 1712 万美元\n\n值得注意的是，本次他除了 PEPE 还充值了其他山寨币如 $UNI / $CAKE 等，不确定是想全部清仓了，还是通过交易所换一个新地址\n\n钱包地址 intel.arkm.com/explorer/addr…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "contentHtml": "道心破碎，「 <a href=\"/search?f=tweets&q=%23PEPE\">$PEPE</a> 波段胜率 100% 巨鲸」似乎是清仓了，预计累计亏损 1712 万美元🥲\n\n过去 12 小时他已将剩余的 639 亿枚 PEPE 全部充值进了 <a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a>，价值 235.7 万美元，充值价格 $0.000003687；其建仓成本约为 $0.00001683，若卖出将亏损 840 万美元，加上 2 个月前充值部分亏损将超 1712 万美元\n\n值得注意的是，本次他除了 PEPE 还充值了其他山寨币如 <a href=\"/search?f=tweets&q=%23UNI\">$UNI</a> / <a href=\"/search?f=tweets&q=%23CAKE\">$CAKE</a> 等，不确定是想全部清仓了，还是通过交易所换一个新地址\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0xa145Bd8C9E421D332718A4C416cbE4016b8992Dd\">intel.arkm.com/explorer/addr…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "publishedAt": "2026-05-21T01:54:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2057278704666181982",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIzrBJ6bYAAxhop.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "终于还是坚持不住了吗？「 $PEPE 波段胜率 100% 巨鲸」疑似减仓割肉，预计亏损 699.5 万美元🐸\n\n5 分钟前他向 #Bitget 充值 5323 亿枚 PEPE，价值 196 万美元，这是时隔两个月他的又一次充值行为；自 2024.06 建仓以来他累计持有 1.31 万亿枚 PEPE ，平均成本 $0.00001683，这部分如果卖出将亏损 78%\n\n目前该地址仍剩余 1068 亿枚 PEPE；钱包地址 intel.arkm.com/explorer/addr…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "contentHtml": "终于还是坚持不住了吗？「 <a href=\"/search?f=tweets&q=%23PEPE\">$PEPE</a> 波段胜率 100% 巨鲸」疑似减仓割肉，预计亏损 699.5 万美元🐸\n\n5 分钟前他向 <a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 充值 5323 亿枚 PEPE，价值 196 万美元，这是时隔两个月他的又一次充值行为；自 2024.06 建仓以来他累计持有 1.31 万亿枚 PEPE ，平均成本 $0.00001683，这部分如果卖出将亏损 78%\n\n目前该地址仍剩余 1068 亿枚 PEPE；钱包地址 <a href=\"https://intel.arkm.com/explorer/address/0xa145Bd8C9E421D332718A4C416cbE4016b8992Dd\">intel.arkm.com/explorer/addr…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "link": "https://x.com/ai_9684xtpa/status/2057090713171694015",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIxBFOPa8AE7oZG.jpg"
           }
         ]
       },
