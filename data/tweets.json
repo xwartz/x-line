@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T04:58:23.481Z",
+  "lastUpdated": "2026-05-29T06:29:48.476Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,141 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 585,
+    "newFetched": 590,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2060240313122476297",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
+      "content": "看了下评论，都在说X自动翻译本身的翻译推理成本，\n没有一条讨论，Grok在这件事上，在翻译以外，\n做了哪些角度的推理（和成本）。\n引用推应该也是在好奇这个。\n\n比如：\n1. 如何决定一条B语言推文，会不会进入A语言信息流。\n2. 在“A语言信息流”中，一条“翻译后的B➡️A语言推文”，是否会和“原生A语言推文”的推荐算法不同？有何不同？\n\n不知道 X 开源推荐逻辑之后，有没有机会再开源这块。\n因为社交媒体的自动翻译功能，\n不只是个需要推理的翻译问题，\n更多是一个需要推理的社会学问题。",
+      "contentHtml": "看了下评论，都在说X自动翻译本身的翻译推理成本，\n没有一条讨论，Grok在这件事上，在翻译以外，\n做了哪些角度的推理（和成本）。\n引用推应该也是在好奇这个。\n\n比如：\n1. 如何决定一条B语言推文，会不会进入A语言信息流。\n2. 在“A语言信息流”中，一条“翻译后的B➡️A语言推文”，是否会和“原生A语言推文”的推荐算法不同？有何不同？\n\n不知道 X 开源推荐逻辑之后，有没有机会再开源这块。\n因为社交媒体的自动翻译功能，\n不只是个需要推理的翻译问题，\n更多是一个需要推理的社会学问题。",
+      "publishedAt": "2026-05-29T06:02:00.000Z",
+      "link": "https://x.com/coolish/status/2060240313122476297",
+      "quote": {
+        "username": "turingou",
+        "displayName": "郭宇 guoyu.eth",
+        "content": "很好奇推特的自动翻译需要匹配多少语言对，Grok 在这件事上一天的推理成本需要多少钱？",
+        "contentHtml": "很好奇推特的自动翻译需要匹配多少语言对，Grok 在这件事上一天的推理成本需要多少钱？",
+        "link": "https://x.com/turingou/status/2060174751726014625"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2060239360050733543",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "除了期货市场的多空博弈，我们还应关注最近一周的筹码流向。\n\n5月21日当天，BTC价格$77,000的下方，$72,000 - $75,000 区间所积累的筹码较少，只有36.4w枚。\n\n因此，能否产生支撑作用要看当价格进入该区间后，资金介入的意愿是否强烈。\n\n我们再对比5月28日的数据，目前BTC价格已进入该区间。经过几天的换手后，区间内所积累的筹码增加到70.9w枚，几乎增长了一倍。\n\n所以虽然价格下跌，但速度并不快。当然，这些换手的筹码并非完全都是真实的现货需求，还包括期货和期权市场中的对冲行为。\n\n但至少可以说明，当价格逼近7w时有部分资金加快了进场节奏。如果你经常跟踪这个数据，就会记得之前当BTC反弹到8w美元时，资金的表现更多的还是谨慎。\n\n如此后继续向下，那么在$66,000-$71,000区间沉淀的筹码墙开始逐渐变厚。在本周的回调中，该区间只减少了2w枚，说明这里的筹码对价格下跌并不敏感。\n\n如回调至此，与$72,000-$75,000区间不同的是，这里有原始积累，加上新增需求的话，所产生的支撑作用会大于之前72-75区间。",
+      "contentHtml": "除了期货市场的多空博弈，我们还应关注最近一周的筹码流向。\n\n5月21日当天，BTC价格$77,000的下方，$72,000 - $75,000 区间所积累的筹码较少，只有36.4w枚。\n\n因此，能否产生支撑作用要看当价格进入该区间后，资金介入的意愿是否强烈。\n\n我们再对比5月28日的数据，目前BTC价格已进入该区间。经过几天的换手后，区间内所积累的筹码增加到70.9w枚，几乎增长了一倍。\n\n所以虽然价格下跌，但速度并不快。当然，这些换手的筹码并非完全都是真实的现货需求，还包括期货和期权市场中的对冲行为。\n\n但至少可以说明，当价格逼近7w时有部分资金加快了进场节奏。如果你经常跟踪这个数据，就会记得之前当BTC反弹到8w美元时，资金的表现更多的还是谨慎。\n\n如此后继续向下，那么在$66,000-$71,000区间沉淀的筹码墙开始逐渐变厚。在本周的回调中，该区间只减少了2w枚，说明这里的筹码对价格下跌并不敏感。\n\n如回调至此，与$72,000-$75,000区间不同的是，这里有原始积累，加上新增需求的话，所产生的支撑作用会大于之前72-75区间。",
+      "publishedAt": "2026-05-29T05:58:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2060239360050733543",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJdv3r4a0AAfsxo.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJdwBVkaYAA3g9g.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "当前的永续合约市场，多头向空头每小时支付39万美元的资金费，远超7日均值（22万美元）。说明市场上做多的人明显占主导，费用越高，即多头愿意付出持仓代价越大。\n\n从5月12日7日均值由负转正后，至今一直维持这样的态势，尤其在近几天更加严重。\n\n资金费极高意味着持仓成本沉重，多头不可能无限期补贴空头，所以时间站在空头一边。只要价格不能快速反弹，部分多头会因成本压力主动平仓。\n\n然而，我们看到 OI 已在下降通道里，说明清算和减仓正在发生。\n\n如果价格再向下击穿关键位，容易触发连环强平，被动卖盘会加速下跌，这正是“多头挤压”的典型路径。\n\n这就是2026.4.14以后价格持续反弹的情况正好相反，当时是多头溢价7日均值由正转负，此后一直持续的负溢价。\n\n不过，有的时候，极端资金费也会先催生一波\"收割多头\"之后的又反向轧空。但主基调我更倾向于\"下行挤压风险大于上行轧空\"。\n\n这个时候，其实就是在提醒合约选手，此时交易难度上升，尤其是在现货需求和链上活跃度降至冰点时，要谨慎下场博弈。\n\n而定投现货或逐步建立长期仓位的小伙伴可以继续，以不变应万变。",
+        "contentHtml": "当前的永续合约市场，多头向空头每小时支付39万美元的资金费，远超7日均值（22万美元）。说明市场上做多的人明显占主导，费用越高，即多头愿意付出持仓代价越大。\n\n从5月12日7日均值由负转正后，至今一直维持这样的态势，尤其在近几天更加严重。\n\n资金费极高意味着持仓成本沉重，多头不可能无限期补贴空头，所以时间站在空头一边。只要价格不能快速反弹，部分多头会因成本压力主动平仓。\n\n然而，我们看到 OI 已在下降通道里，说明清算和减仓正在发生。\n\n如果价格再向下击穿关键位，容易触发连环强平，被动卖盘会加速下跌，这正是“多头挤压”的典型路径。\n\n这就是2026.4.14以后价格持续反弹的情况正好相反，当时是多头溢价7日均值由正转负，此后一直持续的负溢价。\n\n不过，有的时候，极端资金费也会先催生一波\"收割多头\"之后的又反向轧空。但主基调我更倾向于\"下行挤压风险大于上行轧空\"。\n\n这个时候，其实就是在提醒合约选手，此时交易难度上升，尤其是在现货需求和链上活跃度降至冰点时，要谨慎下场博弈。\n\n而定投现货或逐步建立长期仓位的小伙伴可以继续，以不变应万变。",
+        "link": "https://x.com/Murphychen888/status/2059899065002086696",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJY6uP-bcAAP09d.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJY6wqTasAAHHOP.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2060238765424361975",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
+      "content": "如果自以为能看出趋势，我觉得一定要养成鼓起勇气逼迫自己早点重仓的行为习惯，而不是在主升加速的时候东买西买的习惯，前者由于大额利润可以完全躺掉尾部风险，而后者恰好就是亏大钱的时候。我只做到了早点，没能做到重仓，3月抄底ewy和中韩 2x海力士就是的，每天都在买，但还是原生家庭的问题了。如果我和川沐一样重仓，现在就不会焦虑了。",
+      "contentHtml": "如果自以为能看出趋势，我觉得一定要养成鼓起勇气逼迫自己早点重仓的行为习惯，而不是在主升加速的时候东买西买的习惯，前者由于大额利润可以完全躺掉尾部风险，而后者恰好就是亏大钱的时候。我只做到了早点，没能做到重仓，3月抄底ewy和中韩 2x海力士就是的，每天都在买，但还是原生家庭的问题了。如果我和川沐一样重仓，现在就不会焦虑了。",
+      "publishedAt": "2026-05-29T05:56:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2060238765424361975",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2060234791983915218",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#fsd\n\n看到大量国内 FSD 实测视频了，太牛逼了。\n\n一两年前就听说华为的智能驾驶水平碾压特斯拉，不过网上能搜到的视频比较少。\n\n我猜测是华为车主都是那种低调内敛的人，自己用着好东西，一直暗爽不太愿意分享出来。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23fsd\">#fsd</a>\n\n看到大量国内 FSD 实测视频了，太牛逼了。\n\n一两年前就听说华为的智能驾驶水平碾压特斯拉，不过网上能搜到的视频比较少。\n\n我猜测是华为车主都是那种低调内敛的人，自己用着好东西，一直暗爽不太愿意分享出来。",
+      "publishedAt": "2026-05-29T05:40:00.000Z",
+      "link": "https://x.com/taresky/status/2060234791983915218",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2060233262132277341",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "这怎么到处都是",
+      "contentHtml": "这怎么到处都是",
+      "publishedAt": "2026-05-29T05:34:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2060233262132277341",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJdrOeQWUAASkfv.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2060228344780644569",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "Any way to mute every single CT account with a prediction market badge?",
+      "contentHtml": "Any way to mute every single CT account with a prediction market badge?",
+      "publishedAt": "2026-05-29T05:14:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2060228344780644569",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2060219719064387902",
       "username": "Bitfatty",
@@ -12069,162 +12199,6 @@
           "url": "https://pbs.twimg.com/media/HI3Cj2EboAAoE3y.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2057508144696414442",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
-      "content": "弹夹清空过快了…",
-      "contentHtml": "弹夹清空过快了…",
-      "publishedAt": "2026-05-21T17:05:00.000Z",
-      "link": "https://x.com/hazenlee/status/2057508144696414442",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HI28vvSbMAAJ2Hb.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2057499239891255386",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
-      "content": "",
-      "contentHtml": "",
-      "publishedAt": "2026-05-21T16:30:00.000Z",
-      "link": "https://x.com/hazenlee/status/2057499239891255386",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HI20pp1agAAavmo.jpg"
-        }
-      ],
-      "quote": {
-        "username": "yifaer_chen",
-        "displayName": "陈一发儿",
-        "content": "卧槽，我今天光大A亏了44万！\n\n今天上证这么纵身一跃，人都跌傻了。\n\n什么情况啊，为啥砸这么厉害啊\n\n是不是因为那个事啊……我都懵逼了。",
-        "contentHtml": "卧槽，我今天光大A亏了44万！\n\n今天上证这么纵身一跃，人都跌傻了。\n\n什么情况啊，为啥砸这么厉害啊\n\n是不是因为那个事啊……我都懵逼了。",
-        "link": "https://x.com/yifaer_chen/status/2057357880404373892",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HI00FqLaAAACyRj.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HI00FqGbwAA105l.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2057498936408174915",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
-      "content": "“人类最大的误解，不是看错了别人，而是把自己的投影，当成了别人本身。”",
-      "contentHtml": "“人类最大的误解，不是看错了别人，而是把自己的投影，当成了别人本身。”",
-      "publishedAt": "2026-05-21T16:29:00.000Z",
-      "link": "https://x.com/hazenlee/status/2057498936408174915",
-      "quote": {
-        "username": "EvaCmore",
-        "displayName": "Eva 树姐👧🏻",
-        "content": "今天活动现场遇到拉黑我的人\n\n我直接问：你为什么拉黑我？\n\n然后解除拉黑 互相关注😀\n\n有时候真的是误会",
-        "contentHtml": "今天活动现场遇到拉黑我的人\n\n我直接问：你为什么拉黑我？\n\n然后解除拉黑 互相关注😀\n\n有时候真的是误会",
-        "link": "https://x.com/EvaCmore/status/2057487735481573539"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2057491941709767018",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "必须支持，我有时间去试试",
-      "contentHtml": "必须支持，我有时间去试试",
-      "publishedAt": "2026-05-21T16:01:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2057491941709767018",
-      "quote": {
-        "username": "TiezhuCrypto",
-        "displayName": "铁柱",
-        "content": "花了不少时间，从0开始Vibe coding了一个网站，功能上目前已经接近我心目中的60%。剩下的40%需要慢慢修了。 目前限时免费，欢迎大家使用，多提意见。\ntimsun.net/",
-        "contentHtml": "花了不少时间，从0开始Vibe coding了一个网站，功能上目前已经接近我心目中的60%。剩下的40%需要慢慢修了。 目前限时免费，欢迎大家使用，多提意见。\n<a href=\"https://timsun.net/\">timsun.net/</a>",
-        "link": "https://x.com/TiezhuCrypto/status/2056316583476441480"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2057485370107760691",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "🔥 谷歌 I/O 2026 全梳理（看了完整发布会，文章由CLAUDE整理），我认为的重点已经BOLD，你们怎么看？\n\n5 月 19-20 日发布，进入\"Agentic 时代\"。\n一句话总结：谷歌正面接管你的购物车、收件箱、搜索框，并把 Anthropic / OpenAI 的成本优势直接打掉。\n22 个核心产品 👇\n\n1/ Gemini 3.5 Flash\n编码、agentic、多模态全面超越 3.1 Pro 速度比其他前沿模型快 4 倍 成本不到一半\nAPI 定价战已经开打 ⚔️\n\n2/ Gemini Omni\n任意输入 → 任意输出（先从视频开始）\n理解重力、动能、流体动力学等物理规律 生成内容自带 SynthID 水印 角色一致性大幅提升\n\n3/ AI Mode 月活破 10 亿\n25 年来最大的搜索框升级 支持文本、图像、文件、视频、Chrome 标签页一起搜\nAI Overviews 和 AI Mode 已合并为无缝体验\n\n4/ Information Agents 🤖\n24/7 后台跑的信息代理 跨博客、新闻、社交、金融、购物、体育实时监控 主动推送综合更新\n今夏对 AI Pro / Ultra 开放\n\n5/ Generative UI\n搜索现在会为你的问题\"即时设计\"页面 表格、图表、模拟器、迷你 App 实时生成\n婚礼策划、搬家追踪都可以做成持续使用的仪表板\n\n6/ Universal Cart（重磅）🛒\n跨 Search、Gemini、YouTube、Gmail 加入购物车 自动追踪价格、库存、兼容性 基于 Google Wallet 推荐最优支付方式 UCP 协议 + Google Pay 一键结账\nShopify、PayPal、Amazon 需要紧张了\n\n7/ Gemini Spark\n24/7 个人 AI 代理 手机/电脑关机也能后台工作 执行重大操作前会与你确认\n下周向美国 AI Ultra 订户开放 Beta 未来支持短信、邮件、子代理、授权支付\n\n8/ Daily Brief\n夜间分析你的收件箱、日历、任务 早上给你一份个性化简报 + 行动建议 随时间学习你的偏好\n\n9/ Antigravity 2.0 💻\n独立桌面 App，多代理并行编排 一个代理写代码，另一个生成品牌资产 配套 CLI 和 SDK\nGemini CLI 已被引导迁移至此\n直接对标 Claude Code、Cursor、Windsurf\n\n10/ Managed Agents（Gemini API）\n单次 API 调用即可启动远程 Linux 沙盒 代理能推理、调用工具、执行代码、浏览网页 用 AGENTS.md 和 SKILL.md 定义自定义指令\n\n11/ Google AI Studio\n移动 App 即将推出 直接构建原生 Android 应用 一键发布到 Google Play 测试通道 前两个应用免费部署到 GCP，无需信用卡\n\n12/ AI Inbox（Gmail）\n自动生成上下文相关草稿 任务旁直接展示相关 Doc/Sheet/Slide 一键批量已读\n今夏推出 Gmail Live 语音查询\n\n13/ Google Pics 🎨\n基于 Nano Banana 模型 对象分割、文本编辑翻译 传单、信息图都能做 深度集成 Workspace\n\n14/ Docs Live & Talk to Keep\n用语音创建编辑文档 自动从 Gmail、Drive 拉取相关信息 Keep 可把\"脑暴\"自动整理成清单\n\n15/ Google Flow + Agent + Tools 🎬\nOmni Flash 加入 Flow Agent 可多步任务、剧情头脑风暴、批量编辑 Tools 让你用自然语言\"vibe code\"任何创作工具可与其他用户分享和混编\n\n16/ Flow Music\n对话式制作音乐视频 单独编辑特定片段的歌词、风格、乐器 歌词可翻译为其他语言\n\n17/ Ask YouTube\n跨长视频和 Shorts 的对话式搜索 复杂查询如\"如何教孩子骑自行车\" 结构化、交互式答案\n本月在美国桌面端实验性推出\n\n18/ Gemini for Science 🔬\n三大实验工具：\nHypothesis Generation（Co-Scientist 多代理\"想法竞赛\"）\nComputational Discovery（AlphaEvolve 并行测试千种代码）\nLiterature Insights（NotebookLM 结构化文献）\n集成 30+ 生命科学数据库\n\n19/ Android XR 智能眼镜 👓\n两类：音频眼镜 + 显示眼镜 合作品牌：Gentle Monster、Warby Parker、三星 今秋上市，兼容 Android 和 iOS\nEssilorLuxottica × Meta 的独家护城河被撕开\n\n20/ SynthID + C2PA 扩展\n水印验证已用 5000 万次 扩展至 Search 和 Chrome 新增 C2PA Content Credentials，识别相机原图是否被改\nOpenAI、Kakao、ElevenLabs 加入采用\n\n21/ 新 $100 AI Ultra 计划\n为开发者和高级创作者定制 用量上限是 AI Pro 的 5 倍 20TB 云存储\nAI Pro 现免费包含 YouTube Premium Lite（每月 $8.99）",
-      "contentHtml": "🔥 谷歌 I/O 2026 全梳理（看了完整发布会，文章由CLAUDE整理），我认为的重点已经BOLD，你们怎么看？\n\n5 月 19-20 日发布，进入\"Agentic 时代\"。\n一句话总结：谷歌正面接管你的购物车、收件箱、搜索框，并把 Anthropic / OpenAI 的成本优势直接打掉。\n22 个核心产品 👇\n\n1/ Gemini 3.5 Flash\n编码、agentic、多模态全面超越 3.1 Pro 速度比其他前沿模型快 4 倍 成本不到一半\nAPI 定价战已经开打 ⚔️\n\n2/ Gemini Omni\n任意输入 → 任意输出（先从视频开始）\n理解重力、动能、流体动力学等物理规律 生成内容自带 SynthID 水印 角色一致性大幅提升\n\n3/ AI Mode 月活破 10 亿\n25 年来最大的搜索框升级 支持文本、图像、文件、视频、Chrome 标签页一起搜\nAI Overviews 和 AI Mode 已合并为无缝体验\n\n4/ Information Agents 🤖\n24/7 后台跑的信息代理 跨博客、新闻、社交、金融、购物、体育实时监控 主动推送综合更新\n今夏对 AI Pro / Ultra 开放\n\n5/ Generative UI\n搜索现在会为你的问题\"即时设计\"页面 表格、图表、模拟器、迷你 App 实时生成\n婚礼策划、搬家追踪都可以做成持续使用的仪表板\n\n6/ Universal Cart（重磅）🛒\n跨 Search、Gemini、YouTube、Gmail 加入购物车 自动追踪价格、库存、兼容性 基于 Google Wallet 推荐最优支付方式 UCP 协议 + Google Pay 一键结账\nShopify、PayPal、Amazon 需要紧张了\n\n7/ Gemini Spark\n24/7 个人 AI 代理 手机/电脑关机也能后台工作 执行重大操作前会与你确认\n下周向美国 AI Ultra 订户开放 Beta 未来支持短信、邮件、子代理、授权支付\n\n8/ Daily Brief\n夜间分析你的收件箱、日历、任务 早上给你一份个性化简报 + 行动建议 随时间学习你的偏好\n\n9/ Antigravity 2.0 💻\n独立桌面 App，多代理并行编排 一个代理写代码，另一个生成品牌资产 配套 CLI 和 SDK\nGemini CLI 已被引导迁移至此\n直接对标 Claude Code、Cursor、Windsurf\n\n10/ Managed Agents（Gemini API）\n单次 API 调用即可启动远程 Linux 沙盒 代理能推理、调用工具、执行代码、浏览网页 用 AGENTS.md 和 SKILL.md 定义自定义指令\n\n11/ Google AI Studio\n移动 App 即将推出 直接构建原生 Android 应用 一键发布到 Google Play 测试通道 前两个应用免费部署到 GCP，无需信用卡\n\n12/ AI Inbox（Gmail）\n自动生成上下文相关草稿 任务旁直接展示相关 Doc/Sheet/Slide 一键批量已读\n今夏推出 Gmail Live 语音查询\n\n13/ Google Pics 🎨\n基于 Nano Banana 模型 对象分割、文本编辑翻译 传单、信息图都能做 深度集成 Workspace\n\n14/ Docs Live & Talk to Keep\n用语音创建编辑文档 自动从 Gmail、Drive 拉取相关信息 Keep 可把\"脑暴\"自动整理成清单\n\n15/ Google Flow + Agent + Tools 🎬\nOmni Flash 加入 Flow Agent 可多步任务、剧情头脑风暴、批量编辑 Tools 让你用自然语言\"vibe code\"任何创作工具可与其他用户分享和混编\n\n16/ Flow Music\n对话式制作音乐视频 单独编辑特定片段的歌词、风格、乐器 歌词可翻译为其他语言\n\n17/ Ask YouTube\n跨长视频和 Shorts 的对话式搜索 复杂查询如\"如何教孩子骑自行车\" 结构化、交互式答案\n本月在美国桌面端实验性推出\n\n18/ Gemini for Science 🔬\n三大实验工具：\nHypothesis Generation（Co-Scientist 多代理\"想法竞赛\"）\nComputational Discovery（AlphaEvolve 并行测试千种代码）\nLiterature Insights（NotebookLM 结构化文献）\n集成 30+ 生命科学数据库\n\n19/ Android XR 智能眼镜 👓\n两类：音频眼镜 + 显示眼镜 合作品牌：Gentle Monster、Warby Parker、三星 今秋上市，兼容 Android 和 iOS\nEssilorLuxottica × Meta 的独家护城河被撕开\n\n20/ SynthID + C2PA 扩展\n水印验证已用 5000 万次 扩展至 Search 和 Chrome 新增 C2PA Content Credentials，识别相机原图是否被改\nOpenAI、Kakao、ElevenLabs 加入采用\n\n21/ 新 $100 AI Ultra 计划\n为开发者和高级创作者定制 用量上限是 AI Pro 的 5 倍 20TB 云存储\nAI Pro 现免费包含 YouTube Premium Lite（每月 $8.99）",
-      "publishedAt": "2026-05-21T15:35:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2057485370107760691",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2057484182742581524",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
-      "content": "今天还是很弱 守在218\n218是关键支撑阻力互换\n建议作为短期多空分水岭🫡",
-      "contentHtml": "今天还是很弱 守在218\n218是关键支撑阻力互换\n建议作为短期多空分水岭🫡",
-      "publishedAt": "2026-05-21T15:30:00.000Z",
-      "link": "https://x.com/hazenlee/status/2057484182742581524",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HI2m9GfbcAAqDIB.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "明天开盘再确认下\n超预期利好+回购 不涨\n利好不涨=利空",
-        "contentHtml": "明天开盘再确认下\n超预期利好+回购 不涨\n利好不涨=利空",
-        "link": "https://x.com/hazenlee/status/2057219257969332592",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIy2AhZakAAPpHi.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIy2AhZaUAAaWyi.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
