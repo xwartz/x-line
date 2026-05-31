@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T12:45:19.640Z",
+  "lastUpdated": "2026-05-31T13:32:59.998Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 573,
+    "newFetched": 571,
     "successUsers": 28,
     "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2061076586196341052",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "$97006 空 BTC，$3069.6 空 ETH\n天才！🫡\n\n$27.112 空 HYPE\nOK，收回前一句…🫣\n\n地址 0xc72…0517c 早在去年 11 月中旬就开启了三个代币的空单， $BTC 和 $ETH 现价值 732.1 万美元的空单已浮盈 250 万美元，但 $HYPE 价值 170 万美元的空单浮亏 102.9 万美元，抵扣后整个账户仍浮盈 147.1 万美元；还好 HYPE 空的不是很多，不然真麻了\n\n传送门 👉 d.pro/portfolio/0xc7290b4b30…",
+      "contentHtml": "$97006 空 BTC，$3069.6 空 ETH\n天才！🫡\n\n$27.112 空 HYPE\nOK，收回前一句…🫣\n\n地址 0xc72…0517c 早在去年 11 月中旬就开启了三个代币的空单， <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 和 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 现价值 732.1 万美元的空单已浮盈 250 万美元，但 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> 价值 170 万美元的空单浮亏 102.9 万美元，抵扣后整个账户仍浮盈 147.1 万美元；还好 HYPE 空的不是很多，不然真麻了\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0xc7290b4b308431a985fa9e3e8a335c2f7650517c\">d.pro/portfolio/0xc7290b4b30…</a>",
+      "publishedAt": "2026-05-31T13:25:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2061076586196341052",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJpqGMoawAAJ0p6.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2061063226222342350",
       "username": "Bitfatty",
@@ -993,6 +1014,25 @@
       }
     },
     {
+      "id": "2060863647623340377",
+      "username": "nivi",
+      "displayName": "Nivi",
+      "avatar": "https://pbs.twimg.com/profile_images/54022207/Nivi_Favicon_bigger.jpg",
+      "content": "What people call the Singularity is the continuing victory of knowledge over the blind physical evolution of the universe.",
+      "contentHtml": "What people call the Singularity is the continuing victory of knowledge over the blind physical evolution of the universe.",
+      "publishedAt": "2026-05-30T23:19:00.000Z",
+      "link": "https://x.com/nivi/status/2060863647623340377",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2060836918737133601",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -1282,31 +1322,6 @@
             "url": "https://pbs.twimg.com/media/HJW_YA9WwAQsjK_.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060728624114958526",
-      "username": "Blankwonder",
-      "displayName": "Yachen Liu",
-      "avatar": "https://pbs.twimg.com/profile_images/1769760069393281024/vESyD2hO_bigger.jpg",
-      "content": "小机柜折腾完毕，分享一点经验\n\n1. 今天电信师傅来更换了 2000M 套餐的光猫。各家运营商的 2000M 光猫大多都是子母猫设计，而且厂家一般默认母猫放在弱电箱里，所以通常只有子猫带 2.5G 网口。好在这次电信师傅提前预判了我的需求，专门申请了一套母猫带 2.5G 网口的型号，这样就不用额外挂一个子猫了。有类似需求的朋友记得提前和师傅沟通一下。\n\n2. 我的柜体深度是 30cm，刚好够放星维派这款机柜，这个尺寸基本算是卡着上限，差不多刚刚好。不过像 UniFi Dream Machine 这种设备就会因为机身太深而装不进去。（一开始还专门定制了一堆日线短跳线，好好整理下走线，结果发现面板加上网线尾巴之后门根本关不上……最后只能重新买了一批超小水晶头网线替代，可惜只有黑色。）\n\n3. 所有房间的吊顶检修口都预留了两根网线：一根接 AP，一根接小米网关，全部走 PoE 供电。（小米网关本身不支持 PoE，需要额外加一个分离器。）\n\n4. 工作室和客厅电视柜都预留了成品光纤，双 LC 接头，OM4 规格，最高可支持到 100Gbps。\n\n5. 主路由依然是经典的 MikroTik RB5009（没用 UniFi 主要还是因为不支持 Full Cone），不过这东西的 2.5GBase-T 协商经常会出点问题，今天换了光猫又不认，被迫用 SFP+ 去接光猫。\n\n6. Mac mini 上挂了一个 ZTE F50，作为 Surge Ponte 热备。这样不在家时如果主线路断网，还能连回去看看是什么情况。旁边的小屏幕主要用于重启时登录。\n\n7. UniFi Switch XG 6 PoE 的风扇实在太吵，被我拆掉之后又定制了一块超大散热片贴在顶部。用了很多年，目前表现一直很稳定。\n\n8. 侧边这台主机还是很多年前装的 HomeLab PC，MATX 规格。除了偶尔会死机重启之外，整体运行一直很稳定（大概每年不超过两次）。23 年买的 5 块国产 4TB SSD 到现在也全部正常（现在价格已经翻了 5 倍）。目前跑着 Proxmox VE，承载 NAS 和各种服务。\n\n9. 很多人关心散热问题。首先柜门做了百叶设计，但单靠这个确实不够，所以我又在机箱前面板加了一把高性能风扇负责进风，机箱顶部风扇向上排风，再立了一把猫扇往外吹，形成完整的散热风道，现在整体很凉爽。（还有个意外收获：隔壁鞋柜里拿出来的鞋子都是温热的，穿起来很舒服……）",
-      "contentHtml": "小机柜折腾完毕，分享一点经验\n\n1. 今天电信师傅来更换了 2000M 套餐的光猫。各家运营商的 2000M 光猫大多都是子母猫设计，而且厂家一般默认母猫放在弱电箱里，所以通常只有子猫带 2.5G 网口。好在这次电信师傅提前预判了我的需求，专门申请了一套母猫带 2.5G 网口的型号，这样就不用额外挂一个子猫了。有类似需求的朋友记得提前和师傅沟通一下。\n\n2. 我的柜体深度是 30cm，刚好够放星维派这款机柜，这个尺寸基本算是卡着上限，差不多刚刚好。不过像 UniFi Dream Machine 这种设备就会因为机身太深而装不进去。（一开始还专门定制了一堆日线短跳线，好好整理下走线，结果发现面板加上网线尾巴之后门根本关不上……最后只能重新买了一批超小水晶头网线替代，可惜只有黑色。）\n\n3. 所有房间的吊顶检修口都预留了两根网线：一根接 AP，一根接小米网关，全部走 PoE 供电。（小米网关本身不支持 PoE，需要额外加一个分离器。）\n\n4. 工作室和客厅电视柜都预留了成品光纤，双 LC 接头，OM4 规格，最高可支持到 100Gbps。\n\n5. 主路由依然是经典的 MikroTik RB5009（没用 UniFi 主要还是因为不支持 Full Cone），不过这东西的 2.5GBase-T 协商经常会出点问题，今天换了光猫又不认，被迫用 SFP+ 去接光猫。\n\n6. Mac mini 上挂了一个 ZTE F50，作为 Surge Ponte 热备。这样不在家时如果主线路断网，还能连回去看看是什么情况。旁边的小屏幕主要用于重启时登录。\n\n7. UniFi Switch XG 6 PoE 的风扇实在太吵，被我拆掉之后又定制了一块超大散热片贴在顶部。用了很多年，目前表现一直很稳定。\n\n8. 侧边这台主机还是很多年前装的 HomeLab PC，MATX 规格。除了偶尔会死机重启之外，整体运行一直很稳定（大概每年不超过两次）。23 年买的 5 块国产 4TB SSD 到现在也全部正常（现在价格已经翻了 5 倍）。目前跑着 Proxmox VE，承载 NAS 和各种服务。\n\n9. 很多人关心散热问题。首先柜门做了百叶设计，但单靠这个确实不够，所以我又在机箱前面板加了一把高性能风扇负责进风，机箱顶部风扇向上排风，再立了一把猫扇往外吹，形成完整的散热风道，现在整体很凉爽。（还有个意外收获：隔壁鞋柜里拿出来的鞋子都是温热的，穿起来很舒服……）",
-      "publishedAt": "2026-05-30T14:22:00.000Z",
-      "link": "https://x.com/Blankwonder/status/2060728624114958526",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJkmF48awAAqY7-.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
       },
       "stats": {
         "replies": 0,
@@ -8980,25 +8995,6 @@
             "url": "https://pbs.twimg.com/media/HJBEaimXoAAFcqY.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058873662053532080",
-      "username": "HiTw93",
-      "displayName": "Tw93",
-      "avatar": "https://pbs.twimg.com/profile_images/1960753219115868169/EOxKSK4w_bigger.jpg",
-      "content": "当你的表达变成了用于赚钱的时候，表达就变成了表演。",
-      "contentHtml": "当你的表达变成了用于赚钱的时候，表达就变成了表演。",
-      "publishedAt": "2026-05-25T11:31:00.000Z",
-      "link": "https://x.com/HiTw93/status/2058873662053532080",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
       },
       "stats": {
         "replies": 0,
