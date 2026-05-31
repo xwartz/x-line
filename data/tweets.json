@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T15:57:12.263Z",
+  "lastUpdated": "2026-05-31T16:27:40.383Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,43 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 590,
+    "newFetched": 591,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2061116883957616994",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "800V HDC nitter.net/qinbafrank/status/2057…",
+      "contentHtml": "800V HDC <a href=\"https://nitter.net/qinbafrank/status/2057739575372706022?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2057…</a>",
+      "publishedAt": "2026-05-31T16:05:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2061116883957616994",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "AI数据中心电力上的关键环节：800VHDC，今天在这里nitter.net/qinbafrank/status/2057…聊到大摩拆解VR200NVL72提到，大摩预计800V直流电将在2027年下半年推出的Rubin Ultra平台上得到大规模采用。其实800VHDC并不是全新概念，自从英伟达去年说要推直流供电架构后，市场对此的关注度其实挺高的，这个板块的相关的标的已经炒过一博预期了。但实际上800V直流电在下半年才真正大规模采用，值得关注。聊下几方面的问题：\n\n1、800V HVDC架构是什么？\n传统高密度AI rack的路径大致是：电网中压AC → 变压器/UPS/PDU → 415/480VAC到机架 → 机架内PSU转54VDC/12VDC → GPU核心电压。\n\n达子的800VDC愿景则是：在数据中心边界/电力室把中压AC集中转换成800VDC，用800V DC busway送到IT rack，再在靠近GPU的位置用高比率DC/DC转换。NVIDIA称，54V架构在200kW以上开始撞上物理限制；1MW rack如果继续用54V，单rack铜排最高可能需要约200kg铜，而800V架构通过减少电流、减少转换级数、减少机架内PSU，目标是提升效率、降低铜耗、释放机架空间。\n\n它不是简单的电压升级，也不是“发明了直流供电”，而是AI数据中心供电架构的一次平台级切换，是对整个电力交付架构的系统性重构，旨在解决传统48V/54V机架电源的瓶颈（空间受限、铜缆过载、多级转换损耗高），支持单机架功率从数百kW跃升至1MW+，并为未来GW级AI工厂铺路。\n\n2、800V HVDC的意义和革命性是什么？\n1）首先自然是效率和空间布局\n效率提升：从电网到GPU的转换环节大幅减少，整体能效可提升从以前90%能大幅度提高到98.5%以上传输损耗显著降低，TCO（总拥有成本）降低可达30%\n空间与密度优化：减少铜缆用量和电源单元体积，机架内计算空间利用率提升超80%，支持更高密度GPU集群\n\n2）800V不是单一器件升级，而是生态重构：中央整流、800V DC busway、固态断路器、热插拔保护、sidecar/power rack、BBU/CBU、超容/电池储能、DC/DC、GaN/SiC、液冷都要协同。NVIDIA也明确说需要OCP等组织推动电压范围、连接器、安全标准。\n\n如果大家有关注过新能源汽车产业链，应该有影响这两年国内电动车厂商都在推的“快充”基本上就是800V高压直流充电。现在达子正在把800VDC变成下一代AI rack标准化路线的一部分，所以一部分原来给新能源汽车充电产业链上的关键环节，又开始外溢到AI数据中心上了。\n\n3、800V HVDC空间有多大？\n要看大背景，AI数据中心整体市场从2025年约3440亿美元增长至2032年超2万亿美元（CAGR 27.5%）。 功率基础设施将成为AI建设的核心瓶颈与增长点，NVIDIA的标准将加速 hyperscaler采用，带动固态变压器、GaN/SiC功率器件等子市场爆发。 \n\n2027年后，>300kW/rack、尤其是400kW-1MW rack的AI zones中，800VDC或类似HVDC架构渗透率快速提升。若未来新增AI容量中有30%-60%采用高压DC架构，并且每MW对应的核心800V电力链价值量在几十万到数百万美元区间，累计空间就会进入百亿美元到千亿美元级。\n\n当然这个预测区间也很宽，因为真实取决于Kyber/Rubin Ultra出货节奏、超大云厂接受NVIDIA 800V的程度。\n\n4、800V HVDC产业链构成\n完全是英伟达参考设计主导资格认证，之前英伟达也公开列出的核心合作伙伴分为三类，竞争激烈，份额将取决于认证进度、量产能力和 hyperscaler合同。 \n\n1）硅片/功率半导体供应商（核心器件，如SiC/GaN MOSFET、控制器，用于高效转换）：\n主要玩家：Texas Instruments（TI，已发布完整800V解决方案）、STMicroelectronics（ST，6-18kW功率板）、Infineon、ROHM（SiC器件）、Navitas（GaN/SiC）、Analog Devices、onsemi、Renesas、Innoscience、MPS、AOS、EPC等。\n这些是NVIDIA“硅供应商”名单核心，TI/ST等已演示参考设\n\n2）电源系统组件/模块供应商（电源架、Sidecar、DC-DC转换器等）：\n主要玩家：Delta Electronics（与NVIDIA深度合作，发布800V解决方案）、Flex、LITEON、Megmeet、Lead Wealth、Bizlink等。\nDelta等中国厂商优势明显，已有白皮书和技术落地；LITEON等股价因800V预期已经显著上涨。\n\n3）数据中心电源系统/基础设施供应商（机架级配电、Sidecar、SST、母线等）：\n主要玩家：Vertiv（Hopewind为其800V系统关键子供应商）、Schneider Electric（开发1.2MW Sidecar）、Eaton、ABB、GE Vernova、Siemens、Hitachi Energy、Mitsubishi Electric等。\n这里面Vertiv、Schneider、Eaton等是传统强者。\n\n个人角度看\n1）Vertiv、IFFNY、Schneider、Eaton、Delta、ABB是最可能在早期800VDC相关收入中占到显著份额的几家公司；\n2）LITEON、TI、ST、Infineon、onsemi是第二组确定性较强的受益者；\n3）Navitas、Power Integrations、MPS、BizLink、Megmeet、Innoscience（英诺赛科）属于弹性更大但验证/量产/竞争风险也更高的一组。\n\n个人角度当下比较看好的则是，当然这个还要动态迭代：\nnvts、IFNNY、英诺赛科、vicr\n\n5、后续跟踪落地节奏的几个重要节点\n1）NVIDIA Kyber / Rubin Ultra 2027节奏：是否明确把800VDC作为默认/主推rack电力架构，而且出货节奏也带动800V的落地节奏\n2）OCP标准进展：800V连接器、安全、保护、PDB、BBU/CBU是否标准化。\n\n3）看点电源管理系统组件，功率半导体供应商的点单披露，谁真正进入了进入backlog和量产socket；这个最关键决定了哪家供应商能吃到多大的份额\n\n4）超大云厂路线：800V vs 400V/±400V vs 50V HPR是否分裂。决定了市场对800V hvdc的预期和想象空间。\n\n5）单MW成本下降曲线：如果800VDC使每MW可部署GPU数量、能效和维护成本明显改善，它会从NVIDIA专用架构变成行业事实标准。",
+        "contentHtml": "AI数据中心电力上的关键环节：800VHDC，今天在这里<a href=\"https://nitter.net/qinbafrank/status/2057685712645116279\">nitter.net/qinbafrank/status/2057…</a>聊到大摩拆解VR200NVL72提到，大摩预计800V直流电将在2027年下半年推出的Rubin Ultra平台上得到大规模采用。其实800VHDC并不是全新概念，自从英伟达去年说要推直流供电架构后，市场对此的关注度其实挺高的，这个板块的相关的标的已经炒过一博预期了。但实际上800V直流电在下半年才真正大规模采用，值得关注。聊下几方面的问题：\n\n1、800V HVDC架构是什么？\n传统高密度AI rack的路径大致是：电网中压AC → 变压器/UPS/PDU → 415/480VAC到机架 → 机架内PSU转54VDC/12VDC → GPU核心电压。\n\n达子的800VDC愿景则是：在数据中心边界/电力室把中压AC集中转换成800VDC，用800V DC busway送到IT rack，再在靠近GPU的位置用高比率DC/DC转换。NVIDIA称，54V架构在200kW以上开始撞上物理限制；1MW rack如果继续用54V，单rack铜排最高可能需要约200kg铜，而800V架构通过减少电流、减少转换级数、减少机架内PSU，目标是提升效率、降低铜耗、释放机架空间。\n\n它不是简单的电压升级，也不是“发明了直流供电”，而是AI数据中心供电架构的一次平台级切换，是对整个电力交付架构的系统性重构，旨在解决传统48V/54V机架电源的瓶颈（空间受限、铜缆过载、多级转换损耗高），支持单机架功率从数百kW跃升至1MW+，并为未来GW级AI工厂铺路。\n\n2、800V HVDC的意义和革命性是什么？\n1）首先自然是效率和空间布局\n效率提升：从电网到GPU的转换环节大幅减少，整体能效可提升从以前90%能大幅度提高到98.5%以上传输损耗显著降低，TCO（总拥有成本）降低可达30%\n空间与密度优化：减少铜缆用量和电源单元体积，机架内计算空间利用率提升超80%，支持更高密度GPU集群\n\n2）800V不是单一器件升级，而是生态重构：中央整流、800V DC busway、固态断路器、热插拔保护、sidecar/power rack、BBU/CBU、超容/电池储能、DC/DC、GaN/SiC、液冷都要协同。NVIDIA也明确说需要OCP等组织推动电压范围、连接器、安全标准。\n\n如果大家有关注过新能源汽车产业链，应该有影响这两年国内电动车厂商都在推的“快充”基本上就是800V高压直流充电。现在达子正在把800VDC变成下一代AI rack标准化路线的一部分，所以一部分原来给新能源汽车充电产业链上的关键环节，又开始外溢到AI数据中心上了。\n\n3、800V HVDC空间有多大？\n要看大背景，AI数据中心整体市场从2025年约3440亿美元增长至2032年超2万亿美元（CAGR 27.5%）。 功率基础设施将成为AI建设的核心瓶颈与增长点，NVIDIA的标准将加速 hyperscaler采用，带动固态变压器、GaN/SiC功率器件等子市场爆发。 \n\n2027年后，&gt;300kW/rack、尤其是400kW-1MW rack的AI zones中，800VDC或类似HVDC架构渗透率快速提升。若未来新增AI容量中有30%-60%采用高压DC架构，并且每MW对应的核心800V电力链价值量在几十万到数百万美元区间，累计空间就会进入百亿美元到千亿美元级。\n\n当然这个预测区间也很宽，因为真实取决于Kyber/Rubin Ultra出货节奏、超大云厂接受NVIDIA 800V的程度。\n\n4、800V HVDC产业链构成\n完全是英伟达参考设计主导资格认证，之前英伟达也公开列出的核心合作伙伴分为三类，竞争激烈，份额将取决于认证进度、量产能力和 hyperscaler合同。 \n\n1）硅片/功率半导体供应商（核心器件，如SiC/GaN MOSFET、控制器，用于高效转换）：\n主要玩家：Texas Instruments（TI，已发布完整800V解决方案）、STMicroelectronics（ST，6-18kW功率板）、Infineon、ROHM（SiC器件）、Navitas（GaN/SiC）、Analog Devices、onsemi、Renesas、Innoscience、MPS、AOS、EPC等。\n这些是NVIDIA“硅供应商”名单核心，TI/ST等已演示参考设\n\n2）电源系统组件/模块供应商（电源架、Sidecar、DC-DC转换器等）：\n主要玩家：Delta Electronics（与NVIDIA深度合作，发布800V解决方案）、Flex、LITEON、Megmeet、Lead Wealth、Bizlink等。\nDelta等中国厂商优势明显，已有白皮书和技术落地；LITEON等股价因800V预期已经显著上涨。\n\n3）数据中心电源系统/基础设施供应商（机架级配电、Sidecar、SST、母线等）：\n主要玩家：Vertiv（Hopewind为其800V系统关键子供应商）、Schneider Electric（开发1.2MW Sidecar）、Eaton、ABB、GE Vernova、Siemens、Hitachi Energy、Mitsubishi Electric等。\n这里面Vertiv、Schneider、Eaton等是传统强者。\n\n个人角度看\n1）Vertiv、IFFNY、Schneider、Eaton、Delta、ABB是最可能在早期800VDC相关收入中占到显著份额的几家公司；\n2）LITEON、TI、ST、Infineon、onsemi是第二组确定性较强的受益者；\n3）Navitas、Power Integrations、MPS、BizLink、Megmeet、Innoscience（英诺赛科）属于弹性更大但验证/量产/竞争风险也更高的一组。\n\n个人角度当下比较看好的则是，当然这个还要动态迭代：\nnvts、IFNNY、英诺赛科、vicr\n\n5、后续跟踪落地节奏的几个重要节点\n1）NVIDIA Kyber / Rubin Ultra 2027节奏：是否明确把800VDC作为默认/主推rack电力架构，而且出货节奏也带动800V的落地节奏\n2）OCP标准进展：800V连接器、安全、保护、PDB、BBU/CBU是否标准化。\n\n3）看点电源管理系统组件，功率半导体供应商的点单披露，谁真正进入了进入backlog和量产socket；这个最关键决定了哪家供应商能吃到多大的份额\n\n4）超大云厂路线：800V vs 400V/±400V vs 50V HPR是否分裂。决定了市场对800V hvdc的预期和想象空间。\n\n5）单MW成本下降曲线：如果800VDC使每MW可部署GPU数量、能效和维护成本明显改善，它会从NVIDIA专用架构变成行业事实标准。",
+        "link": "https://x.com/qinbafrank/status/2057739575372706022",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI5-d1TbkAAHtjx.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI6K7-uacAA8Qj-.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2061112845933174952",
       "username": "KillaXBT",
@@ -11981,27 +12013,6 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n卧槽，连我都能感觉到（昨天和今天） gpt5.5 x-high 降智了...",
       "publishedAt": "2026-05-23T09:24:00.000Z",
       "link": "https://x.com/taresky/status/2058116849058148673",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058115763236696110",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#投资 \n\n在网上谁都有靠谱的小道消息，但就是不上仓位，问就是不爱钱。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23投资\">#投资</a> \n\n在网上谁都有靠谱的小道消息，但就是不上仓位，问就是不爱钱。",
-      "publishedAt": "2026-05-23T09:20:00.000Z",
-      "link": "https://x.com/taresky/status/2058115763236696110",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HI_lUrxboAAnypI.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
