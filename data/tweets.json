@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T13:21:42.713Z",
+  "lastUpdated": "2026-06-01T15:37:11.431Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,376 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 589,
+    "newFetched": 592,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2061470373716099528",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "$BTC \n\nClosed 25% of my swing short here at 71K. \n\nKeeping the remaining 25% position open until either the full TP target is reached or break even.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nClosed 25% of my swing short here at 71K. \n\nKeeping the remaining 25% position open until either the full TP target is reached or break even.",
+      "publishedAt": "2026-06-01T15:30:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2061470373716099528",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJvPlnJXsAAg9mN.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "$BTC \n\nNothing much to update regarding the swing short position.\n\nI'm still holding 50% of the original size, as mentioned previously. I closed 50% at 80K to reduce risk in case my thesis was wrong.\n\nGiven the current retrace back into the range, I think there's a good chance we test 70K next month. If price continues to hold below 79K, this is increasingly looking like a failed breakout that has retraced back into the range after deviating above the previous highs.\n\nWe can test LTF S/R levels like 75-76K but ideally bulls need to flip the 79K level to be \"bullish\" again.\n\nAdditionally, I expect SP500 to experience a pullback at some point this year, which could add further weakness to BTC. That's another factor I'm monitoring closely.\n\nAt 70.8K, I plan to close another 25% of the short position and leave the remaining 25% open until the final take profit target is reached.",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nNothing much to update regarding the swing short position.\n\nI'm still holding 50% of the original size, as mentioned previously. I closed 50% at 80K to reduce risk in case my thesis was wrong.\n\nGiven the current retrace back into the range, I think there's a good chance we test 70K next month. If price continues to hold below 79K, this is increasingly looking like a failed breakout that has retraced back into the range after deviating above the previous highs.\n\nWe can test LTF S/R levels like 75-76K but ideally bulls need to flip the 79K level to be \"bullish\" again.\n\nAdditionally, I expect SP500 to experience a pullback at some point this year, which could add further weakness to BTC. That's another factor I'm monitoring closely.\n\nAt 70.8K, I plan to close another 25% of the short position and leave the remaining 25% open until the final take profit target is reached.",
+        "link": "https://x.com/KillaXBT/status/2060731956531257420",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJkvyFFWcAINrLJ.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061470031972577786",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "I will always cherish Tom Lee for bailing out my autism of staying bullish on ETH until last summer\n\nProviding an exit above $4,000 that I probably didn't deserve for staying a retard bull for way too long on this failed asset\n\nThank you Tom, you are my legend",
+      "contentHtml": "I will always cherish Tom Lee for bailing out my autism of staying bullish on ETH until last summer\n\nProviding an exit above $4,000 that I probably didn't deserve for staying a retard bull for way too long on this failed asset\n\nThank you Tom, you are my legend",
+      "publishedAt": "2026-06-01T15:28:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2061470031972577786",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061457555499663477",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "知道Arm会很猛，但也没想到会这么猛。",
+      "contentHtml": "知道Arm会很猛，但也没想到会这么猛。",
+      "publishedAt": "2026-06-01T14:39:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2061457555499663477",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJvEuEgbsAAAKCA.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "4月中这篇聊CPU的推文应该是近期财富密码最多最密集的一篇文章了。从4月中开始聊到到现在：\nintel、澜起科技都已翻倍甚至涨的更多；\narm接近翻倍；\namd、深南电路、海光也都有几十个点的涨幅。\n\n昨晚Arm创新高，4月中聊到Agentic AI时代Arm服务器cpu是会更受益，首先其技术架构和功能更符合agentic ai对cpu的需求，然后是包括英伟达在内的几大云厂商的cpu都用的是Arm架构。之前Arm的走势还可以但没这么强势，直到这两天几个催化事件：\n1）先是陈立武再次把gpu和cpu的比例把到很高；\n2）同时陈立武和老黄也都把CPU的TAM推到更高的体量；\n3）然后英伟达vera CPU开始发货。\n市场才反应过来arm是美股cpu御三家（intel、amd、arm）最被低估的，之前认知不够现在赶紧找补回来。\n有时你会发现，正确的逻辑兑现也需要时间。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "4月中这篇聊CPU的推文应该是近期财富密码最多最密集的一篇文章了。从4月中开始聊到到现在：\nintel、澜起科技都已翻倍甚至涨的更多；\narm接近翻倍；\namd、深南电路、海光也都有几十个点的涨幅。\n\n昨晚Arm创新高，4月中聊到Agentic AI时代Arm服务器cpu是会更受益，首先其技术架构和功能更符合agentic ai对cpu的需求，然后是包括英伟达在内的几大云厂商的cpu都用的是Arm架构。之前Arm的走势还可以但没这么强势，直到这两天几个催化事件：\n1）先是陈立武再次把gpu和cpu的比例把到很高；\n2）同时陈立武和老黄也都把CPU的TAM推到更高的体量；\n3）然后英伟达vera CPU开始发货。\n市场才反应过来arm是美股cpu御三家（intel、amd、arm）最被低估的，之前认知不够现在赶紧找补回来。\n有时你会发现，正确的逻辑兑现也需要时间。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2057626359963549955",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI4oREqbAAEWhMJ.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI4oREpbYAAGNgB.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061456447100097003",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "$BTC\n\n\"If we fail to reclaim and hold 74.2K as support, the next likely target is 70.8K.\"\n\nAs we can see, BTC failed to reclaim the 74.2K level, resulting in a significant rejection and a move lower. The next key level to watch is 70.8K.\n\nLose the 70K area & we likely see capitulation to 65K on the HTF.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\n\"If we fail to reclaim and hold 74.2K as support, the next likely target is 70.8K.\"\n\nAs we can see, BTC failed to reclaim the 74.2K level, resulting in a significant rejection and a move lower. The next key level to watch is 70.8K.\n\nLose the 70K area & we likely see capitulation to 65K on the HTF.",
+      "publishedAt": "2026-06-01T14:34:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2061456447100097003",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJvDXRAXgAAPpUn.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "$BTC \n\nWe’re approaching our first key POI on the LTF at 74.2K.\n\nIf we fail to reclaim and hold 74.2K as support, the next likely target is 70.8K. \n\nOn the other hand, if we successfully flip the 74.2K region into support, BTC could continue higher and extend toward the current monthly open around 76K.",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWe’re approaching our first key POI on the LTF at 74.2K.\n\nIf we fail to reclaim and hold 74.2K as support, the next likely target is 70.8K. \n\nOn the other hand, if we successfully flip the 74.2K region into support, BTC could continue higher and extend toward the current monthly open around 76K.",
+        "link": "https://x.com/KillaXBT/status/2060410267993796685",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJgLphSXYAALD3Z.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061454088315842736",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#CRWV \n\n开盘上涨14%\n\nCRWV再次搭上英伟达的顺风车\n\n周末的帖子也是提醒过大家CRWV的技术形态良好，Dell + Nvidia + Vera Rubin的落地更是利好\n\n接下来就看这波顺风车能搭到哪了",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23CRWV\">#CRWV</a> \n\n开盘上涨14%\n\nCRWV再次搭上英伟达的顺风车\n\n周末的帖子也是提醒过大家CRWV的技术形态良好，Dell + Nvidia + Vera Rubin的落地更是利好\n\n接下来就看这波顺风车能搭到哪了",
+      "publishedAt": "2026-06-01T14:25:00.000Z",
+      "link": "https://x.com/dongbimao/status/2061454088315842736",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJvBjl5WAAAFAHr.png"
+        }
+      ],
+      "quote": {
+        "username": "dongbimao",
+        "displayName": "懂币猫",
+        "content": "Michael Dell确认CRWV已经部署首批 Dell + Nvidia Vera Rubin NVL72 AI机柜，并完成初步测试\n\n这已经不是CRWV第一次抢跑了\n\n去年它就是最早拿到 Blackwell Ultra 的云服务商之一，今年又成为首批部署 Vera Rubin 平台的玩家\n\n结合技术面上看：CRWV上市以来一直保持高低点不断抬升的趋势结构\n\n最近几周经历了一轮快速拉升后进入高位震荡\n\n这种走势通常代表两种情况：\n\n第一种是主力出货\n\n第二种是资金等待新的基本面催化\n\n而Dell + Nvidia + Vera Rubin的落地，显然更偏向第二种\n\n只要后续继续站稳关键均线并放量突破前高，趋势仍然属于强势上涨结构\n\n我觉得CRWV最有意思的是它的发展路径\n\n最早服务加密矿工到后来服务AI模型\n\nGPU还是那些GPU\n\n但华尔街给的估值已经完全不是一个量级\n\n币圈的兄弟们想一下如果今年早早的转去做美股，是不是也赚到了不同量级的money呢\n #美股 #DELL #NVDA #CRWV",
+        "contentHtml": "Michael Dell确认CRWV已经部署首批 Dell + Nvidia Vera Rubin NVL72 AI机柜，并完成初步测试\n\n这已经不是CRWV第一次抢跑了\n\n去年它就是最早拿到 Blackwell Ultra 的云服务商之一，今年又成为首批部署 Vera Rubin 平台的玩家\n\n结合技术面上看：CRWV上市以来一直保持高低点不断抬升的趋势结构\n\n最近几周经历了一轮快速拉升后进入高位震荡\n\n这种走势通常代表两种情况：\n\n第一种是主力出货\n\n第二种是资金等待新的基本面催化\n\n而Dell + Nvidia + Vera Rubin的落地，显然更偏向第二种\n\n只要后续继续站稳关键均线并放量突破前高，趋势仍然属于强势上涨结构\n\n我觉得CRWV最有意思的是它的发展路径\n\n最早服务加密矿工到后来服务AI模型\n\nGPU还是那些GPU\n\n但华尔街给的估值已经完全不是一个量级\n\n币圈的兄弟们想一下如果今年早早的转去做美股，是不是也赚到了不同量级的money呢\n <a href=\"/search?f=tweets&q=%23美股\">#美股</a> <a href=\"/search?f=tweets&q=%23DELL\">#DELL</a> <a href=\"/search?f=tweets&q=%23NVDA\">#NVDA</a> <a href=\"/search?f=tweets&q=%23CRWV\">#CRWV</a>",
+        "link": "https://x.com/dongbimao/status/2061093941387178421",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJp6AAOWIAQeEVa.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061452796680163685",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "一年前的推文聊到：1）山寨会面临有基本面、有业绩，同时高速增长的美股很大的冲击和挤压；\n2）用户和资金的迁移，交易所也不得不跟进；\n3）CEX进入美股业务在资产运营和用户运营上面临巨大的挑战。\n现在回头看也确实如此",
+      "contentHtml": "一年前的推文聊到：1）山寨会面临有基本面、有业绩，同时高速增长的美股很大的冲击和挤压；\n2）用户和资金的迁移，交易所也不得不跟进；\n3）CEX进入美股业务在资产运营和用户运营上面临巨大的挑战。\n现在回头看也确实如此",
+      "publishedAt": "2026-06-01T14:20:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2061452796680163685",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJvAZDWaQAAmbuy.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "币市交易所都应该看看一年前的这条推文“币市交易所在美股业务上的挑战”。最近看到不少人都在聊币市资金都转向了美股、山寨被疯狂吸血。其实一年前个人就聊到这一点“没有基本面的空气山寨币会面临大量的有基本面、有业绩、同时也能高速增长股票代币的冲击，近两年美股上的财富效应是远大于币市的，对于币市投资人来说会怎么选，自然会把资金往股票上转移甚至比例越来越高。资金和用户的迁移就是首当其冲”。现在的局面确实也如一年前聊到的，山寨被疯狂挤压，用户和资金都在往美股迁移”\n\n当时也有聊：“币市中心化交易所CEX过去一年多（24-25年）已经感受链上DEx交易崛起的影响，未来一年多（25-16年）估计会越来越感受到美股代币化趋势的影响”。说完这句话还没有满一年，能看到币市交易所都已经把美股业务作为只要战场了。\n\n当时也有聊到币市交易所在美股业务上的挑战其实也不小：\n1）股票代币和山寨币本质上还是完全不同的资产类型，股票代币要去看基本面、产业竞争格局、增长空间，这对交易所在用户运营、资产运营上（现在的很多打新玩法、空投玩法都做不了，存币生息的业务也会被压缩）提出了更大的挑战；\n2）然后就是增长层面现在依托于加密kol的纯流量增长（品牌、带单、返佣等）在未来的空间应该会被压缩，币市CEX需要从更懂股票，更懂产业的渠道或者影响力博主上获取新的流量。\n\n解决之道自然是积极拥抱股票代币的趋势，但是需要资产玩法、运营策略上升级；\n更多去借鉴参考原来的互联网券商的运营模式和策略上，多去看老虎、富途、robinhood早期都是怎么崛起的，哪些运营策略可以被应用。\n\n当然这方面如果展开可以聊很多、后面有机会满满讲。",
+        "contentHtml": "币市交易所都应该看看一年前的这条推文“币市交易所在美股业务上的挑战”。最近看到不少人都在聊币市资金都转向了美股、山寨被疯狂吸血。其实一年前个人就聊到这一点“没有基本面的空气山寨币会面临大量的有基本面、有业绩、同时也能高速增长股票代币的冲击，近两年美股上的财富效应是远大于币市的，对于币市投资人来说会怎么选，自然会把资金往股票上转移甚至比例越来越高。资金和用户的迁移就是首当其冲”。现在的局面确实也如一年前聊到的，山寨被疯狂挤压，用户和资金都在往美股迁移”\n\n当时也有聊：“币市中心化交易所CEX过去一年多（24-25年）已经感受链上DEx交易崛起的影响，未来一年多（25-16年）估计会越来越感受到美股代币化趋势的影响”。说完这句话还没有满一年，能看到币市交易所都已经把美股业务作为只要战场了。\n\n当时也有聊到币市交易所在美股业务上的挑战其实也不小：\n1）股票代币和山寨币本质上还是完全不同的资产类型，股票代币要去看基本面、产业竞争格局、增长空间，这对交易所在用户运营、资产运营上（现在的很多打新玩法、空投玩法都做不了，存币生息的业务也会被压缩）提出了更大的挑战；\n2）然后就是增长层面现在依托于加密kol的纯流量增长（品牌、带单、返佣等）在未来的空间应该会被压缩，币市CEX需要从更懂股票，更懂产业的渠道或者影响力博主上获取新的流量。\n\n解决之道自然是积极拥抱股票代币的趋势，但是需要资产玩法、运营策略上升级；\n更多去借鉴参考原来的互联网券商的运营模式和策略上，多去看老虎、富途、robinhood早期都是怎么崛起的，哪些运营策略可以被应用。\n\n当然这方面如果展开可以聊很多、后面有机会满满讲。",
+        "link": "https://x.com/qinbafrank/status/2060905508119400559",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJnOopwbIAAkXOT.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061451730991370318",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://pbs.twimg.com/profile_images/1986442283433254912/O0egVwxK_bigger.jpg",
+      "content": "🎉🎉🎉",
+      "contentHtml": "🎉🎉🎉",
+      "publishedAt": "2026-06-01T14:16:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2061451730991370318",
+      "quote": {
+        "username": "binance",
+        "displayName": "Binance",
+        "content": "Welcome to a new era.\n\nTrade the brands you love.\n\nDirect Stocks. ETFs. Available 24/5.\n\n👉 binance.com/en/stocks-landin…",
+        "contentHtml": "Welcome to a new era.\n\nTrade the brands you love.\n\nDirect Stocks. ETFs. Available 24/5.\n\n👉 <a href=\"http://binance.com/en/stocks-landing\">binance.com/en/stocks-landin…</a>",
+        "link": "https://x.com/binance/status/2061388581764243937"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061450723146215812",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "跌到趋势线也是熊旗下沿了\n继续跌破看三个点位\n次前低 前低 新低🫡",
+      "contentHtml": "跌到趋势线也是熊旗下沿了\n继续跌破看三个点位\n次前低 前低 新低🫡",
+      "publishedAt": "2026-06-01T14:12:00.000Z",
+      "link": "https://x.com/hazenlee/status/2061450723146215812",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJu-fDeakAADJe4.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "目前到达了新调整的通道下沿\n这个位置很关键\n大家看好价格行为PA关注一下🫡",
+        "contentHtml": "目前到达了新调整的通道下沿\n这个位置很关键\n大家看好价格行为PA关注一下🫡",
+        "link": "https://x.com/hazenlee/status/2059984240033595489",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJaIvQHa4AE2phj.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061442999687758202",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "撸猫结束，上钟直播",
+      "contentHtml": "撸猫结束，上钟直播",
+      "publishedAt": "2026-06-01T13:41:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2061442999687758202",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJu3eR_awAAZQ0K.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061442563018801497",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "油升万物死！",
+      "contentHtml": "油升万物死！",
+      "publishedAt": "2026-06-01T13:39:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2061442563018801497",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "损了立马反手\n\n油落万物生！",
+        "contentHtml": "损了立马反手\n\n油落万物生！",
+        "link": "https://x.com/Bitfatty/status/2043885126887862278",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HF1WsRkasAAjUc8.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061441069095780435",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "发生了啥(・・)?\n\n我仓位最小的时候行情来了？？？？",
+      "contentHtml": "发生了啥(・・)?\n\n我仓位最小的时候行情来了？？？？",
+      "publishedAt": "2026-06-01T13:33:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2061441069095780435",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061439380418629678",
+      "username": "coinkarma_",
+      "displayName": "CoinKarma",
+      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
+      "content": "在 $HYPE 的流動性指標觸發買入信號後，成功掌握 +30% 漲幅，捕獲近 300K 收益 📈\n\n歡迎透過 @zekeyi80  的邀請連結立即體驗 14 天免費試用，輸入「Orion10」再享 Gold 首月 $10 優惠\n👉 coinkarma.co/en/join/3712124…",
+      "contentHtml": "在 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> 的流動性指標觸發買入信號後，成功掌握 +30% 漲幅，捕獲近 300K 收益 📈\n\n歡迎透過 <a href=\"/zekeyi80\" title=\"关东无盐煮\">@zekeyi80</a>  的邀請連結立即體驗 14 天免費試用，輸入「Orion10」再享 Gold 首月 $10 優惠\n👉 <a href=\"https://coinkarma.co/en/join/37121248\">coinkarma.co/en/join/3712124…</a>",
+      "publishedAt": "2026-06-01T13:27:00.000Z",
+      "link": "https://x.com/coinkarma_/status/2061439380418629678",
+      "quote": {
+        "username": "zekeyi80",
+        "displayName": "关东无盐煮",
+        "content": "哪儿需要去羡慕什么MU🤔\n即刻上车 @coinkarma_ \ncoinkarma.co/en/join/3712124…\n优惠码输入 Orion10 首月仅需10$ \n菜鸡也能找到自己发掘的MU\n不好用就来打我 是兄弟就来侃我😎",
+        "contentHtml": "哪儿需要去羡慕什么MU🤔\n即刻上车 <a href=\"/coinkarma_\" title=\"CoinKarma\">@coinkarma_</a> \n<a href=\"https://www.coinkarma.co/en/join/37121248\">coinkarma.co/en/join/3712124…</a>\n优惠码输入 Orion10 首月仅需10$ \n菜鸡也能找到自己发掘的MU\n不好用就来打我 是兄弟就来侃我😎",
+        "link": "https://x.com/zekeyi80/status/2061366060193087872",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJtxgfZaEAAolA9.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061438119019479454",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "爱托收到",
+      "contentHtml": "爱托收到",
+      "publishedAt": "2026-06-01T13:22:00.000Z",
+      "link": "https://x.com/hazenlee/status/2061438119019479454",
+      "quote": {
+        "username": "xtony1314",
+        "displayName": "逍遥XTony（恩师张雪峰）",
+        "content": "多原油，空一切，\n美伊不可能和谈，霍尔木兹海峡不可能打开。\n\n接下来是原油150，A股崩，美股崩，黄金白银崩，比特币崩……",
+        "contentHtml": "多原油，空一切，\n美伊不可能和谈，霍尔木兹海峡不可能打开。\n\n接下来是原油150，A股崩，美股崩，黄金白银崩，比特币崩……",
+        "link": "https://x.com/xtony1314/status/2061437166631485706",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJux8cPbAAELNOo.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2061437414238040205",
       "username": "hazenlee",
@@ -11812,351 +12177,6 @@
       "contentHtml": "Working on a big <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> update video. \n\nWill be posted later today. 🫡",
       "publishedAt": "2026-05-24T11:29:00.000Z",
       "link": "https://x.com/KillaXBT/status/2058510782099255680",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058500693934346314",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "Sec又反悔和犹豫了，本周一彭博报道SEC倾向于允许第三方股票代币，即使没有其追踪的上市公司同意，这些代币可能不具备正常的股东权利。但根据本周五根据SEC的最新提案，SEC正在推迟这一豁免计划，在最新提案中明确要求：任何平台发行或交易这类代币时，必须确保代币持有者享有与传统股票股东一模一样的权利（包括分红权、投票权等）。\n\n核心原因在于：传统交易所（如纽交所）担心“双轨市场”——同一只股票同时有传统版和链上版，流动性分裂、价格差、做空机制乱套（链上裸卖空目前还难实现）。\n\nSEC还要多听反馈，所以先缓一缓。",
-      "contentHtml": "Sec又反悔和犹豫了，本周一彭博报道SEC倾向于允许第三方股票代币，即使没有其追踪的上市公司同意，这些代币可能不具备正常的股东权利。但根据本周五根据SEC的最新提案，SEC正在推迟这一豁免计划，在最新提案中明确要求：任何平台发行或交易这类代币时，必须确保代币持有者享有与传统股票股东一模一样的权利（包括分红权、投票权等）。\n\n核心原因在于：传统交易所（如纽交所）担心“双轨市场”——同一只股票同时有传统版和链上版，流动性分裂、价格差、做空机制乱套（链上裸卖空目前还难实现）。\n\nSEC还要多听反馈，所以先缓一缓。",
-      "publishedAt": "2026-05-24T10:49:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2058500693934346314",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJFDdseaYAAM0nr.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "关于代币化股票力度最大的政策要来了，SEC准备在本周内为代币化股票推出“创新豁免”，看彭博报道SEC倾向于允许第三方股票代币，即使没有其追踪的上市公司同意。这些代币可能不具备正常的股东权利，如投票权或股息。\n\n这意味着一个加密平台可以创建与苹果、特斯拉或亚马逊股票挂钩的代币，而无需发行方参与。\n\n该豁免将涵盖在DeFi平台上的交易，在那里代币化股票可以绕过传统股票市场结构的部分环节进行交易。\n\n这不同于纳斯达克批准的代币化证券模式，后者将交易与现有市场基础设施和 DTC 结算保持绑定。\n\n如果这个政策出台，对现在绝大部分链上的股票代币、CFD差价合约都将是一个巨大的利好，意味着拿到Sec的免死金牌，至少合规问题不再是最主要的关切点了。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "关于代币化股票力度最大的政策要来了，SEC准备在本周内为代币化股票推出“创新豁免”，看彭博报道SEC倾向于允许第三方股票代币，即使没有其追踪的上市公司同意。这些代币可能不具备正常的股东权利，如投票权或股息。\n\n这意味着一个加密平台可以创建与苹果、特斯拉或亚马逊股票挂钩的代币，而无需发行方参与。\n\n该豁免将涵盖在DeFi平台上的交易，在那里代币化股票可以绕过传统股票市场结构的部分环节进行交易。\n\n这不同于纳斯达克批准的代币化证券模式，后者将交易与现有市场基础设施和 DTC 结算保持绑定。\n\n如果这个政策出台，对现在绝大部分链上的股票代币、CFD差价合约都将是一个巨大的利好，意味着拿到Sec的免死金牌，至少合规问题不再是最主要的关切点了。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2056538302120165749",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIpKr1ZasAAwxc4.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058498587038712101",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "$BTC \n\nWe tested the weekly open and swept Saturday’s wick high.\n\nIf we can’t reclaim it with, the move likely fades back down toward 75.9K, the current CME close.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWe tested the weekly open and swept Saturday’s wick high.\n\nIf we can’t reclaim it with, the move likely fades back down toward 75.9K, the current CME close.",
-      "publishedAt": "2026-05-24T10:41:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2058498587038712101",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJFBB99XQAAEG1Y.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "$BTC \n\nAs stated in my previous update, I wasn’t looking to be particularly bearish here, but rather watching for a scalp bounce that forms a lower high. \n\nThese are the main scenarios I’m observing right now.\n\nBTC needs to hold 75.9K to maintain the LTF bullish structure and continue pushing toward the weekly open + CME gap around 79K. If price fails to hold and retraces back below the CME close at 75.9K, we are going to 73.7K.\n\nAt the moment, I still don’t think we reclaim or flip the April monthly highs, but these is my current thoughts at the moment in terms of market structure.\n\nLet me know if these posts help you see what I’m seeing.",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nAs stated in my previous update, I wasn’t looking to be particularly bearish here, but rather watching for a scalp bounce that forms a lower high. \n\nThese are the main scenarios I’m observing right now.\n\nBTC needs to hold 75.9K to maintain the LTF bullish structure and continue pushing toward the weekly open + CME gap around 79K. If price fails to hold and retraces back below the CME close at 75.9K, we are going to 73.7K.\n\nAt the moment, I still don’t think we reclaim or flip the April monthly highs, but these is my current thoughts at the moment in terms of market structure.\n\nLet me know if these posts help you see what I’m seeing.",
-        "link": "https://x.com/KillaXBT/status/2058291060195958910",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJCDvl5WAAE6Usf.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058497172417429901",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "genius现在这个价格应该是怎么亏都亏不了了，大部分人成本都在0.045-0.08之间，这个成本算的是s1的规则。锁70% tge30%。\n\n继续刷低保吧后期成本超过0.13我应该就会停了，低保号成本低一半。普通人刷个200-2000u磨损没什么问题，genius绝对是今年撸空投收益最高的项目之一。",
-      "contentHtml": "genius现在这个价格应该是怎么亏都亏不了了，大部分人成本都在0.045-0.08之间，这个成本算的是s1的规则。锁70% tge30%。\n\n继续刷低保吧后期成本超过0.13我应该就会停了，低保号成本低一半。普通人刷个200-2000u磨损没什么问题，genius绝对是今年撸空投收益最高的项目之一。",
-      "publishedAt": "2026-05-24T10:35:00.000Z",
-      "link": "https://x.com/0xleng1/status/2058497172417429901",
-      "quote": {
-        "username": "0xleng1",
-        "displayName": "Leng",
-        "content": "对于新人目前最适合的撸毛项目，一个是小天才genius 一个是rho\n\n1.rho就每天开关 每个账号磨损0.1u 每个账号准备30u就可以了 5-10个起 博弈一下胜率很高 \n\n2.genius就根据自己的资金量 撸本金的5-10% 1万u交易额是最划算的。现在价格还算稳定\n\n做其他项目回报率我敢说大部分是浪费时间，珍惜机会dyor",
-        "contentHtml": "对于新人目前最适合的撸毛项目，一个是小天才genius 一个是rho\n\n1.rho就每天开关 每个账号磨损0.1u 每个账号准备30u就可以了 5-10个起 博弈一下胜率很高 \n\n2.genius就根据自己的资金量 撸本金的5-10% 1万u交易额是最划算的。现在价格还算稳定\n\n做其他项目回报率我敢说大部分是浪费时间，珍惜机会dyor",
-        "link": "https://x.com/0xleng1/status/2052874181746851885"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058493453861044340",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "HYPE 开启了野兽模式，尤其在熊市中，算是万众瞩目。6天前在订阅区有位小伙伴问我要ETH的数据时，我就明确提到HYPE。\n\n根据个人的风险偏好，除了BTC之外如果说还能有较高确定性的选择，我认为只有2个：BNB 和 HYPE。\n\n这不是我第一次提及。早在今年初HYPE就在我的重点关注列表中。即便现在已经从20+涨到了60+，我仍然这样认为。\n\n刚刚和Glassnode团队建议，希望可以开发HYPE的相关链上数据和指标，比如鲸鱼的平均换手成本，链上实现利润，成本基础分布等等。\n\n有了底层数据和逻辑的支持，能让我们在关键时刻，做出更加有底气的决策。\n\n好消息是，对方明确回复：HYPE 是目前收到反馈的需求量排名第一的资产，团队正在抓紧开发。\n\nBNB我们分析不了，但HYPE应该是没问题的。",
-      "contentHtml": "HYPE 开启了野兽模式，尤其在熊市中，算是万众瞩目。6天前在订阅区有位小伙伴问我要ETH的数据时，我就明确提到HYPE。\n\n根据个人的风险偏好，除了BTC之外如果说还能有较高确定性的选择，我认为只有2个：BNB 和 HYPE。\n\n这不是我第一次提及。早在今年初HYPE就在我的重点关注列表中。即便现在已经从20+涨到了60+，我仍然这样认为。\n\n刚刚和Glassnode团队建议，希望可以开发HYPE的相关链上数据和指标，比如鲸鱼的平均换手成本，链上实现利润，成本基础分布等等。\n\n有了底层数据和逻辑的支持，能让我们在关键时刻，做出更加有底气的决策。\n\n好消息是，对方明确回复：HYPE 是目前收到反馈的需求量排名第一的资产，团队正在抓紧开发。\n\nBNB我们分析不了，但HYPE应该是没问题的。",
-      "publishedAt": "2026-05-24T10:20:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2058493453861044340",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJE82_GbUAAT9GI.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJE82_JbQAA8WA9.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "原本 Aster 和 HYPE 都在我的ALT关注列表中，而且排位靠前（属重点关注对象），但现在看来有可能未来要剔除其中一个了。\n\n如果Aster的方向只是“守株待兔”式的押注在小市值、高波动的加密资产，这不仅是“主动降级，自降身份”，更像是一种迫于无奈的选择。\n\n因为强大的对手把TradFi和RWA这两块大肉给抢占了。在对方最擅长最有优势的领域，自己已无力赶超。\n\n但小市值、高波动的加密资产真的能带来大规模资金和高净值用户么？ \n\n在我看来本轮周期没有出现像以往周期那样全面开花的山寨季，就很能说明问题。加密市场的资金和参与者结构已发生巨变。 \n\n即便未来也会出现十倍、百倍的热点，参与的用户和炒作的资金大概率也只是一波流。 用户粘性仍然存在问题，就像曾经风靡一时的nft，铭文等等。 \n\n如果只是把希望依托于此，就算下限有bn和cz托底，但上限已不会很高，未来与龙头的差距只会越来越大了。 \n\n是拿出置之死地而后生的勇气，还是选择夹缝之中求生存，对Aster来说都是一场压上性命的豪赌！",
-        "contentHtml": "原本 Aster 和 HYPE 都在我的ALT关注列表中，而且排位靠前（属重点关注对象），但现在看来有可能未来要剔除其中一个了。\n\n如果Aster的方向只是“守株待兔”式的押注在小市值、高波动的加密资产，这不仅是“主动降级，自降身份”，更像是一种迫于无奈的选择。\n\n因为强大的对手把TradFi和RWA这两块大肉给抢占了。在对方最擅长最有优势的领域，自己已无力赶超。\n\n但小市值、高波动的加密资产真的能带来大规模资金和高净值用户么？ \n\n在我看来本轮周期没有出现像以往周期那样全面开花的山寨季，就很能说明问题。加密市场的资金和参与者结构已发生巨变。 \n\n即便未来也会出现十倍、百倍的热点，参与的用户和炒作的资金大概率也只是一波流。 用户粘性仍然存在问题，就像曾经风靡一时的nft，铭文等等。 \n\n如果只是把希望依托于此，就算下限有bn和cz托底，但上限已不会很高，未来与龙头的差距只会越来越大了。 \n\n是拿出置之死地而后生的勇气，还是选择夹缝之中求生存，对Aster来说都是一场压上性命的豪赌！",
-        "link": "https://x.com/Murphychen888/status/2036692132400865365"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058470926086447476",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "好！",
-      "contentHtml": "好！",
-      "publishedAt": "2026-05-24T08:51:00.000Z",
-      "link": "https://x.com/taresky/status/2058470926086447476",
-      "quote": {
-        "username": "harry_dunns",
-        "displayName": "Horizon",
-        "content": "According to leaks, the iPhone Ultra/Fold will have a sidebar similar to iPadOS. Here’s my concepts.",
-        "contentHtml": "According to leaks, the iPhone Ultra/Fold will have a sidebar similar to iPadOS. Here’s my concepts.",
-        "link": "https://x.com/harry_dunns/status/2058070508034461743",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HI-8N3GbkAAmdiN.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HI-8N25aIAA7NqM.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058466180604817498",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "？？？",
-      "contentHtml": "？？？",
-      "publishedAt": "2026-05-24T08:32:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2058466180604817498",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJEkEUWakAE5x5W.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJEkEUYbMAAPqGd.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058463062227820570",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "有群友把昨天这条推文做了一张图，很清晰。昨天梳理“介绍经纪商+白标模式”以及两家华人券商合规简史，其实最想说的就是图中最下面的进化路径，券商这种合规体系的搭建需要很长时间，即使像老虎、富途这种从开始创立到完全合规也花了近七八年时间，都需要时间沉淀。",
-      "contentHtml": "有群友把昨天这条推文做了一张图，很清晰。昨天梳理“介绍经纪商+白标模式”以及两家华人券商合规简史，其实最想说的就是图中最下面的进化路径，券商这种合规体系的搭建需要很长时间，即使像老虎、富途这种从开始创立到完全合规也花了近七八年时间，都需要时间沉淀。",
-      "publishedAt": "2026-05-24T08:20:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2058463062227820570",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJEhPewbEAAMAFL.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "聊聊传统金融领域的“介绍经纪商+白标模式”以及华人美股券商合规简史。1、“介绍经纪商 + 白标模式”在业内被称为“前端获客归你，后端清算归我”。介绍经纪商（IB）负责前端，包括市场推广、客户开发、界面功能开发、客户服务。白标模式： 指上游的全面清算商（如RQDClearing、Apex 等）将其底层的交易引擎、清算系统、资产托管能力打包，介绍经纪商换上自己的Logo（即“贴白标”）。\n\n介绍经纪商+白标模式，不是什么灰色或边缘做法，而是行业内被广泛接受、被监管认可的展业模式。\n\n在美股体系下，美国金融业监管局（FINRA）对这种关系有极其严苛且明确的制度约束。上游清算商与下游白标介绍商之间必须签署正式的 《清算协议》（Clearing Agreement），并向监管机构报备（依据 FINRA Rule 4311 ）。该协议会划分双方的合规责任。虽然散户看的是介绍经纪商的界面，但散户开户的法律主体、资金的实际汇入银行、股票的存管机构，全部在底层的上游清算商手里。\n\n2、这里有必要聊聊老虎证券和富途的合规简史\n在2019年老虎和富途自己拿到美国券商牌照之前的好多年里都是采用的“介绍经纪商+白标模式”。而且重要的是——那个时候它们“自己”并不是FINRA（美国金融业监管局）会员注册的介绍经纪商。\n1）老虎在2019年之前通过在纽西兰（新西兰）注册的金融服务商主体（FSP）获取一个相对容易拿到的海外中介资质。然后通过这个主体把客户订单“介绍”给真正的清算经纪商——盈透证券IBKR。\n\n老虎证券的这个模式在业内被称为 “洋葱白标模式”。当时老虎证券的前端运营主体（华人地区获客主体）并没有直接在 SEC 和 FINRA 注册。也就是说在2019年前，老虎在法律意义上只是盈透证券（IB）的全球超级全披露介绍经纪商（Fully Disclosed IB）。\n\n直到2019年3月老虎证券在美国上市之后，通过在美收购了一家拥有数十年历史的老牌美国本土券商 Marsco Investment Corporation（后并入老虎旗下，即现在的 US Tiger 体系），直接通过“买壳”的方式，顺理成章地将自己升级成了真正直接受到 FINRA 监管的美国本土合规券商及直接清算会员。\n\n2）富途早期\n富途早期走的是“香港牌照过桥+美国上游清算”的合规链路。富途在2012年就拿到了香港证监会（SFC）的 第1类（证券交易）法定牌照。2018 年前，当内地的散户通过富途（富途牛牛）开户时，他们签署的开户协议主体是“富途证券国际（香港）有限公司”。富途香港作为一家香港持牌券商，再去对接美国本土的独立清算巨头（如 法国巴黎银行清算、Apex Clearing 等）。富途香港在中间扮演了“香港介绍经纪商”的角色。\n\n2019 年 5 月，富途全资子公司Futu Clearing Inc. 正式拿到美国 SEC 和 FINRA 的清算牌照，富途从此彻底摆脱了美国第三方清算商的制约，成为完全自主清算。\n\n可以看到早期老虎证券在上市之前基本上是无牌的，其在新西兰注册的金融服务商主体（FSP）门槛其实很低。富途在早期至少还有一张香港证券交易牌照。\n\n但整体上来说这两家在早期ipo之前合规资质都很一般，都是业内典型的“介绍经纪商+白标模式”，一直到上市之后他们才完全升级成美股合规零售经纪券商和独立清算商。\n\n3、我们经常说的美股合规券商牌照是什么？\n所谓美股合规券商牌照其实一系列的编号资格的集合，五个方面：\n1）SEC注册编号；\n2）DTC编号（一般在美股转仓/交割时会用到）；\n3）CRD 编号（中央注册登记系统编号）中央注册登记系统编号）是美国金融业监管局（FINRA）分配给美股券商机构以及证券从业人员（经纪人/顾问）的唯一永久性身份识别代码；\n4）FINRA（美国金融业监管局）会员资格：FINRA 的直接日常行业监管，具备合规开展美股零售与机构经纪业务的权限；\n5）SPIC（美国证券投资者保护公司）成员资格：属于 SIPC 会员单位。这意味着在券商面临破产等极端情况下，客户的证券账户享有最高 50 万美元（包含最高 25 万美元现金）的法定保险保护。\n\n看一家机构是否是每股合规券商，看上面五项就可以了。很多券商可能是美股合规券商资格，但不具备独立清算资格需要租用其他独立清算机构的清算链路，这个也没问题。\n\n当然需要注意的华人这几家美股券商富途、老虎和长桥虽然都具备独立的美股合规券商资格，但是只有富途和老虎有独立清算商资格，长桥并不是独立清算商。\n1）富途是目前华人互联网券商中，在美股独立清算走得最远、最彻底的。富途在美国设立的持牌主体名字就叫 Futu Clearing Inc.（富途清算）。它不仅有零售牌照，还拿到了 NSCC、DTC（DTC 编号 4272）以及 OCC（期权清算公司）的直接清算会员资格。\n2）老虎证券其美国主体 US Tiger Securities, Inc. 此前也成功通过申请，成为了 DTC 和 NSCC 的直接清算会员。在部分复杂衍生品或特定国际站点的底层上，仍会选择性地与华尔街清算大厂（如 Apex Clearing 等）保持合作\n3）长桥本身不直接在 DTC/NSCC 层面做大账目的最终交割，而将底层的资产托管和清算外包给像 RQDClearing。\n\n而之前聊到BIT这个加密券商直连的美股合规经纪清算商也是这家RQD Clearing .LLC，\n其SEC 编号： 8-66810、\nCRD 编号： 134284、\nDTC 编号： 4305，\n也具有FINRA会员和SPIC成员资格，\n可以说RQD一家完全合规、资质极高且受美国顶格监管的证券清算商（Clearing Broker-Dealer）\n\n在美股生态中，“清算牌照（Clearing）”是区分头部巨头与中小型券商的分水岭。所有美股券商最终都是想拿到全套牌照和资格，成为集合规零售券商（Broker-Dealer）和独立清算商与一体的证券经纪清算机构。",
-        "contentHtml": "聊聊传统金融领域的“介绍经纪商+白标模式”以及华人美股券商合规简史。1、“介绍经纪商 + 白标模式”在业内被称为“前端获客归你，后端清算归我”。介绍经纪商（IB）负责前端，包括市场推广、客户开发、界面功能开发、客户服务。白标模式： 指上游的全面清算商（如RQDClearing、Apex 等）将其底层的交易引擎、清算系统、资产托管能力打包，介绍经纪商换上自己的Logo（即“贴白标”）。\n\n介绍经纪商+白标模式，不是什么灰色或边缘做法，而是行业内被广泛接受、被监管认可的展业模式。\n\n在美股体系下，美国金融业监管局（FINRA）对这种关系有极其严苛且明确的制度约束。上游清算商与下游白标介绍商之间必须签署正式的 《清算协议》（Clearing Agreement），并向监管机构报备（依据 FINRA Rule 4311 ）。该协议会划分双方的合规责任。虽然散户看的是介绍经纪商的界面，但散户开户的法律主体、资金的实际汇入银行、股票的存管机构，全部在底层的上游清算商手里。\n\n2、这里有必要聊聊老虎证券和富途的合规简史\n在2019年老虎和富途自己拿到美国券商牌照之前的好多年里都是采用的“介绍经纪商+白标模式”。而且重要的是——那个时候它们“自己”并不是FINRA（美国金融业监管局）会员注册的介绍经纪商。\n1）老虎在2019年之前通过在纽西兰（新西兰）注册的金融服务商主体（FSP）获取一个相对容易拿到的海外中介资质。然后通过这个主体把客户订单“介绍”给真正的清算经纪商——盈透证券IBKR。\n\n老虎证券的这个模式在业内被称为 “洋葱白标模式”。当时老虎证券的前端运营主体（华人地区获客主体）并没有直接在 SEC 和 FINRA 注册。也就是说在2019年前，老虎在法律意义上只是盈透证券（IB）的全球超级全披露介绍经纪商（Fully Disclosed IB）。\n\n直到2019年3月老虎证券在美国上市之后，通过在美收购了一家拥有数十年历史的老牌美国本土券商 Marsco Investment Corporation（后并入老虎旗下，即现在的 US Tiger 体系），直接通过“买壳”的方式，顺理成章地将自己升级成了真正直接受到 FINRA 监管的美国本土合规券商及直接清算会员。\n\n2）富途早期\n富途早期走的是“香港牌照过桥+美国上游清算”的合规链路。富途在2012年就拿到了香港证监会（SFC）的 第1类（证券交易）法定牌照。2018 年前，当内地的散户通过富途（富途牛牛）开户时，他们签署的开户协议主体是“富途证券国际（香港）有限公司”。富途香港作为一家香港持牌券商，再去对接美国本土的独立清算巨头（如 法国巴黎银行清算、Apex Clearing 等）。富途香港在中间扮演了“香港介绍经纪商”的角色。\n\n2019 年 5 月，富途全资子公司Futu Clearing Inc. 正式拿到美国 SEC 和 FINRA 的清算牌照，富途从此彻底摆脱了美国第三方清算商的制约，成为完全自主清算。\n\n可以看到早期老虎证券在上市之前基本上是无牌的，其在新西兰注册的金融服务商主体（FSP）门槛其实很低。富途在早期至少还有一张香港证券交易牌照。\n\n但整体上来说这两家在早期ipo之前合规资质都很一般，都是业内典型的“介绍经纪商+白标模式”，一直到上市之后他们才完全升级成美股合规零售经纪券商和独立清算商。\n\n3、我们经常说的美股合规券商牌照是什么？\n所谓美股合规券商牌照其实一系列的编号资格的集合，五个方面：\n1）SEC注册编号；\n2）DTC编号（一般在美股转仓/交割时会用到）；\n3）CRD 编号（中央注册登记系统编号）中央注册登记系统编号）是美国金融业监管局（FINRA）分配给美股券商机构以及证券从业人员（经纪人/顾问）的唯一永久性身份识别代码；\n4）FINRA（美国金融业监管局）会员资格：FINRA 的直接日常行业监管，具备合规开展美股零售与机构经纪业务的权限；\n5）SPIC（美国证券投资者保护公司）成员资格：属于 SIPC 会员单位。这意味着在券商面临破产等极端情况下，客户的证券账户享有最高 50 万美元（包含最高 25 万美元现金）的法定保险保护。\n\n看一家机构是否是每股合规券商，看上面五项就可以了。很多券商可能是美股合规券商资格，但不具备独立清算资格需要租用其他独立清算机构的清算链路，这个也没问题。\n\n当然需要注意的华人这几家美股券商富途、老虎和长桥虽然都具备独立的美股合规券商资格，但是只有富途和老虎有独立清算商资格，长桥并不是独立清算商。\n1）富途是目前华人互联网券商中，在美股独立清算走得最远、最彻底的。富途在美国设立的持牌主体名字就叫 Futu Clearing Inc.（富途清算）。它不仅有零售牌照，还拿到了 NSCC、DTC（DTC 编号 4272）以及 OCC（期权清算公司）的直接清算会员资格。\n2）老虎证券其美国主体 US Tiger Securities, Inc. 此前也成功通过申请，成为了 DTC 和 NSCC 的直接清算会员。在部分复杂衍生品或特定国际站点的底层上，仍会选择性地与华尔街清算大厂（如 Apex Clearing 等）保持合作\n3）长桥本身不直接在 DTC/NSCC 层面做大账目的最终交割，而将底层的资产托管和清算外包给像 RQDClearing。\n\n而之前聊到BIT这个加密券商直连的美股合规经纪清算商也是这家RQD Clearing .LLC，\n其SEC 编号： 8-66810、\nCRD 编号： 134284、\nDTC 编号： 4305，\n也具有FINRA会员和SPIC成员资格，\n可以说RQD一家完全合规、资质极高且受美国顶格监管的证券清算商（Clearing Broker-Dealer）\n\n在美股生态中，“清算牌照（Clearing）”是区分头部巨头与中小型券商的分水岭。所有美股券商最终都是想拿到全套牌照和资格，成为集合规零售券商（Broker-Dealer）和独立清算商与一体的证券经纪清算机构。",
-        "link": "https://x.com/qinbafrank/status/2058155759696019533"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058457682219339993",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "烦死了",
-      "contentHtml": "烦死了",
-      "publishedAt": "2026-05-24T07:58:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2058457682219339993",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJEcWWSaUAAX4sC.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "多单损了，反手开空，把钱挣回来了。",
-        "contentHtml": "多单损了，反手开空，把钱挣回来了。",
-        "link": "https://x.com/Bitfatty/status/2058095079156563983",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HI_Sjy0bEAAawj0.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HI_Sj-3bkAA9gC3.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058449007475851752",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "CoinKarma 發現在此市場位階 Bitfinex whale 以每小時大約 150 萬美金的速度在建倉 $BTC 多頭部位，透過復盤，在 Bitfinex whale 的建倉期間，當 CoinKarma 獨家指標 Market Pulse Index 出現訊號與其產生共振時，往往是相對好的買點。\n\n🟩 綠箭頭：Market Pulse Index  < 20\n🟩 綠框處：Bitfinex BTCUSD LONGS 與 Market Pulse Index 共振處\n\n目前 Bitfinex whale 持續累積多頭部位，近期在 Market Pulse Index 出現訊號後，也出現了一波反彈，形成相對好的買點，我們可以持續觀察 Market Pulse Index 尋找相對好的多單入場點。",
-      "contentHtml": "CoinKarma 發現在此市場位階 Bitfinex whale 以每小時大約 150 萬美金的速度在建倉 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 多頭部位，透過復盤，在 Bitfinex whale 的建倉期間，當 CoinKarma 獨家指標 Market Pulse Index 出現訊號與其產生共振時，往往是相對好的買點。\n\n🟩 綠箭頭：Market Pulse Index  &lt; 20\n🟩 綠框處：Bitfinex BTCUSD LONGS 與 Market Pulse Index 共振處\n\n目前 Bitfinex whale 持續累積多頭部位，近期在 Market Pulse Index 出現訊號後，也出現了一波反彈，形成相對好的買點，我們可以持續觀察 Market Pulse Index 尋找相對好的多單入場點。",
-      "publishedAt": "2026-05-24T07:24:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2058449007475851752",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJEUZ3xbIAA4SaR.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058449009937965386",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群     \n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群     \n👉 <a href=\"http://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-05-24T07:24:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2058449009937965386",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058448833189978428",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "CoinKarma has identified that at current market levels, Bitfinex whales are accumulating $BTC long positions at a rate of approximately $1.5 million per hour. \n\nThrough backtesting, we found that during these whale accumulation phases, when CoinKarma's proprietary Market Pulse Index triggers a signal in resonance with their positioning, it has consistently marked favorable buy entries.\n\n🟩 Green arrows: Market Pulse Index < 20 \n🟩 Green boxes: Resonance zones between Bitfinex BTCUSD LONGS and Market Pulse Index\n\nBitfinex whales continue to build their long exposure. Most recently, a bounce followed shortly after a Market Pulse Index signal fired, once again producing a strong entry point. Traders can continue monitoring the Market Pulse Index to identify optimal long entries going forward.",
-      "contentHtml": "CoinKarma has identified that at current market levels, Bitfinex whales are accumulating <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> long positions at a rate of approximately $1.5 million per hour. \n\nThrough backtesting, we found that during these whale accumulation phases, when CoinKarma's proprietary Market Pulse Index triggers a signal in resonance with their positioning, it has consistently marked favorable buy entries.\n\n🟩 Green arrows: Market Pulse Index &lt; 20 \n🟩 Green boxes: Resonance zones between Bitfinex BTCUSD LONGS and Market Pulse Index\n\nBitfinex whales continue to build their long exposure. Most recently, a bounce followed shortly after a Market Pulse Index signal fired, once again producing a strong entry point. Traders can continue monitoring the Market Pulse Index to identify optimal long entries going forward.",
-      "publishedAt": "2026-05-24T07:23:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2058448833189978428",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJEUNpwboAAG4SQ.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058448835391922479",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "Want to catch real-time trading opportunities? Start your 14-day free trial now     \n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "Want to catch real-time trading opportunities? Start your 14-day free trial now     \n👉 <a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-05-24T07:23:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2058448835391922479",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058429794627584041",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "“熊底预测”是玄学，还是科学？（终极篇）\n\n随着时间推移，BTC流通总量本身在增加，所有如果用亏损筹码数量的绝对值来衡量，会受分母变化的干扰。\n\n要更公允地比较各轮熊市的\"痛苦极限程度\"，应该换成百分比版本(亏损供应占流通量的比例)会更合适。\n\n按此调整后，我们大概率会看到“峰值”是持续下移的，但下移的斜率受成本结构变化的影响，而不只是分母效应。\n\n我们从下图的数据可以看到，在过去的三轮熊底，亏损占比的峰值分别为：2015年8月 64%；2019年2月 60%；2022年11月 55%。\n\n这是玄学吗？这是巧合吗？...... 当然不是！\n\n这背后有几个相互叠加的客观逻辑：\n\n1⃣ 沉淀的低成本筹码越来越多，它们构成了一个不断增厚的\"免疫层\"，于是能被打成亏损的供应量上限就被压低了。\n\n2⃣ 每轮熊市的底部价格本身在抬高，几轮牛顶到熊底的最大回撤在收敛；回撤越浅，被拖入亏损的筹码自然越少。\n\n3⃣ 持有者结构更成熟，随着ETF、机构等长期配置资金进场，持仓更分散、换手更理性。全市场高位接盘的极端集中度下降了，熊市能制造的亏损面也相应变小。\n\n4⃣ 丢失和长期休眠币的BTC占比上升，稀释了“亏损供应”的分母。\n\n至此，我们应该可以跳出玄学的认知范围，回到科学理性的层面。\n\n由于成本结构变化的影响，从过往的3轮周期来看，亏损占比的峰值大致正在按每轮下降5%的幅度在延续。\n\n比如，2019年2月是60%；2022年11月是55%；而2026年2月，当BTC跌至6w美元时，亏损占比恰好是50%。\n\n当然，这有可能是一个巧合！\n\n更科学的评估方法是：按上述4条逻辑线，虽然不意味着亏损占比一定是5%的降幅，但至少每轮都是递减的。\n\n既然上一轮是55%，而本轮暂时的峰值是50%，因此我们推测：本轮的“阈值范围”，在亏损占比到达50%-54%之间形成熊底，是完全合理的。\n\n从这个角度看，2月有可能是“熊底”的概率还不小哦。正如Glassnode前首席分析师 Checkmate所说，他认为概率大约是80%。\n\n如果不是，假如就像很多小伙伴所说，还有2次回踩的话，那么下一次BTC跌至什么价格，会让“亏损占比”进入50-54%的范围呢？\n\n大家可以猜猜看？\n答案会让你觉得很“意外”😀",
-      "contentHtml": "“熊底预测”是玄学，还是科学？（终极篇）\n\n随着时间推移，BTC流通总量本身在增加，所有如果用亏损筹码数量的绝对值来衡量，会受分母变化的干扰。\n\n要更公允地比较各轮熊市的\"痛苦极限程度\"，应该换成百分比版本(亏损供应占流通量的比例)会更合适。\n\n按此调整后，我们大概率会看到“峰值”是持续下移的，但下移的斜率受成本结构变化的影响，而不只是分母效应。\n\n我们从下图的数据可以看到，在过去的三轮熊底，亏损占比的峰值分别为：2015年8月 64%；2019年2月 60%；2022年11月 55%。\n\n这是玄学吗？这是巧合吗？...... 当然不是！\n\n这背后有几个相互叠加的客观逻辑：\n\n1⃣ 沉淀的低成本筹码越来越多，它们构成了一个不断增厚的\"免疫层\"，于是能被打成亏损的供应量上限就被压低了。\n\n2⃣ 每轮熊市的底部价格本身在抬高，几轮牛顶到熊底的最大回撤在收敛；回撤越浅，被拖入亏损的筹码自然越少。\n\n3⃣ 持有者结构更成熟，随着ETF、机构等长期配置资金进场，持仓更分散、换手更理性。全市场高位接盘的极端集中度下降了，熊市能制造的亏损面也相应变小。\n\n4⃣ 丢失和长期休眠币的BTC占比上升，稀释了“亏损供应”的分母。\n\n至此，我们应该可以跳出玄学的认知范围，回到科学理性的层面。\n\n由于成本结构变化的影响，从过往的3轮周期来看，亏损占比的峰值大致正在按每轮下降5%的幅度在延续。\n\n比如，2019年2月是60%；2022年11月是55%；而2026年2月，当BTC跌至6w美元时，亏损占比恰好是50%。\n\n当然，这有可能是一个巧合！\n\n更科学的评估方法是：按上述4条逻辑线，虽然不意味着亏损占比一定是5%的降幅，但至少每轮都是递减的。\n\n既然上一轮是55%，而本轮暂时的峰值是50%，因此我们推测：本轮的“阈值范围”，在亏损占比到达50%-54%之间形成熊底，是完全合理的。\n\n从这个角度看，2月有可能是“熊底”的概率还不小哦。正如Glassnode前首席分析师 Checkmate所说，他认为概率大约是80%。\n\n如果不是，假如就像很多小伙伴所说，还有2次回踩的话，那么下一次BTC跌至什么价格，会让“亏损占比”进入50-54%的范围呢？\n\n大家可以猜猜看？\n答案会让你觉得很“意外”😀",
-      "publishedAt": "2026-05-24T06:08:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2058429794627584041",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJECtfuagAADDKr.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "到底是玄学，还是科学？\n\n了解我的小伙伴都知道，在我的分析体系和交易框架中，“玄学”从来都不是主流。尽管有时候，它确实挺准。但没有逻辑的支持，我们也仅做参考。\n\n有小伙伴说“我不信”；即便2019年和2022年的两次熊底，亏损的BTC正好都是1060w枚，2026年也未必一定是，也许这只是巧合。\n\n确实如此！\n\n但我们换一个角度：有没可能是，当流通亏损量达到某个临界值时，就跌不动了，因为供应端枯竭。\n\n这个角度还可以展开，即到底是“因为熊底造成了这么多亏损”，还是“因为亏损到极致，卖无可卖，才形成了熊底”？\n\n我认为是后者。如果这样理解，那就不是玄学，而是逻辑。\n\n1060w枚也好，或是其他某个数字也罢，都有可能是这个所谓的“临界值”。而玄学的1060w枚亏损，只是告诉我们：大概在这个范围，就会是极限。\n\n而随着平均获取BTC的成本基础不断抬高，沉淀的低成本筹码越来越多，理论上每一轮周期的实际亏损数量应该小于上一轮。\n\n2026年2月5日这天，BTC跌至6w时的亏损数量为993w，而经过这段时间的换手之后，如果下一次再跌到6w，亏损量就达到1060w了。\n\n所以，即便上一次的993w枚，也是一个很接近极致的范围，至少我是这样理解的。",
-        "contentHtml": "到底是玄学，还是科学？\n\n了解我的小伙伴都知道，在我的分析体系和交易框架中，“玄学”从来都不是主流。尽管有时候，它确实挺准。但没有逻辑的支持，我们也仅做参考。\n\n有小伙伴说“我不信”；即便2019年和2022年的两次熊底，亏损的BTC正好都是1060w枚，2026年也未必一定是，也许这只是巧合。\n\n确实如此！\n\n但我们换一个角度：有没可能是，当流通亏损量达到某个临界值时，就跌不动了，因为供应端枯竭。\n\n这个角度还可以展开，即到底是“因为熊底造成了这么多亏损”，还是“因为亏损到极致，卖无可卖，才形成了熊底”？\n\n我认为是后者。如果这样理解，那就不是玄学，而是逻辑。\n\n1060w枚也好，或是其他某个数字也罢，都有可能是这个所谓的“临界值”。而玄学的1060w枚亏损，只是告诉我们：大概在这个范围，就会是极限。\n\n而随着平均获取BTC的成本基础不断抬高，沉淀的低成本筹码越来越多，理论上每一轮周期的实际亏损数量应该小于上一轮。\n\n2026年2月5日这天，BTC跌至6w时的亏损数量为993w，而经过这段时间的换手之后，如果下一次再跌到6w，亏损量就达到1060w了。\n\n所以，即便上一次的993w枚，也是一个很接近极致的范围，至少我是这样理解的。",
-        "link": "https://x.com/Murphychen888/status/2058105439469043758"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
