@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T07:15:50.584Z",
+  "lastUpdated": "2026-06-01T09:19:03.866Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,180 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 565,
-    "successUsers": 28,
-    "failedUsers": 2
+    "newFetched": 588,
+    "successUsers": 29,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2061375928765391185",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "最近两年，那种在大厂搬砖，在网上嚣张跋扈，把平台当个人能力，然后出来创业失败的案例，已经越来越少看到了。\n\n因为现在根本不用出来创业，只要周末用一用 AI 就知道自己肯定会失败了。",
+      "contentHtml": "最近两年，那种在大厂搬砖，在网上嚣张跋扈，把平台当个人能力，然后出来创业失败的案例，已经越来越少看到了。\n\n因为现在根本不用出来创业，只要周末用一用 AI 就知道自己肯定会失败了。",
+      "publishedAt": "2026-06-01T09:14:00.000Z",
+      "link": "https://x.com/taresky/status/2061375928765391185",
+      "quote": {
+        "username": "dingyi",
+        "displayName": "Ding",
+        "content": "要说 OPC 最牛逼的群体，肯定是课外班老师，一个教小学英语的老师，只要水平还不错，自己出去单干，直接把客源带走一大半，200 块钱一节课，每周排的满满当当。我儿子现在上课的那个老师就是。\n\n但如果你是大厂出来的，大部分人那就是个废物，能在五年内做到收入和上班持平都算奇迹了。",
+        "contentHtml": "要说 OPC 最牛逼的群体，肯定是课外班老师，一个教小学英语的老师，只要水平还不错，自己出去单干，直接把客源带走一大半，200 块钱一节课，每周排的满满当当。我儿子现在上课的那个老师就是。\n\n但如果你是大厂出来的，大部分人那就是个废物，能在五年内做到收入和上班持平都算奇迹了。",
+        "link": "https://x.com/dingyi/status/2061370189925822947"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061362095904756145",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "美股盘前看看8-k",
+      "contentHtml": "美股盘前看看8-k",
+      "publishedAt": "2026-06-01T08:19:00.000Z",
+      "link": "https://x.com/hazenlee/status/2061362095904756145",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJtt5Iaa4AACcEk.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "结合这俩新闻看\nMSTR大概率是要卖币了",
+        "contentHtml": "结合这俩新闻看\nMSTR大概率是要卖币了",
+        "link": "https://x.com/hazenlee/status/2060290210102202641",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJefAdpa4AAe1hL.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJefAdsaMAAbCpt.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061355441863401527",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "开少了，只开了平常20%",
+      "contentHtml": "开少了，只开了平常20%",
+      "publishedAt": "2026-06-01T07:53:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2061355441863401527",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJtn1pKXUAANjUM.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061355064027984255",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#BTC \n\n比特币加点油吧，你可是要成为以后硅基生命的支付货币的，随着以后硅基生命一起征服银河系\n\n隔壁又涨到熔断了，三周了，你就跌了不到6% \n\n在这样下去，真的成老登了",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> \n\n比特币加点油吧，你可是要成为以后硅基生命的支付货币的，随着以后硅基生命一起征服银河系\n\n隔壁又涨到熔断了，三周了，你就跌了不到6% \n\n在这样下去，真的成老登了",
+      "publishedAt": "2026-06-01T07:52:00.000Z",
+      "link": "https://x.com/dongbimao/status/2061355064027984255",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJtnd4YXwAMq3Tx.png"
+        }
+      ],
+      "quote": {
+        "username": "dongbimao",
+        "displayName": "懂币猫",
+        "content": "#BTC \n\n两个星期跌了5个点\n可以\n继续努力",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> \n\n两个星期跌了5个点\n可以\n继续努力",
+        "link": "https://x.com/dongbimao/status/2059932038569046424",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJZZCbPaQAE3jio.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061353882526060898",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "GPU涨价，Memory涨价\n大科技资本开支27年的增速估计只能覆盖通胀，甚至还不够。\n现在最新模型的Token太贵，已有公司开始注意运营开支了，Adoption的覆盖面会放缓。只有等模型抬升后用上一代的。",
+      "contentHtml": "GPU涨价，Memory涨价\n大科技资本开支27年的增速估计只能覆盖通胀，甚至还不够。\n现在最新模型的Token太贵，已有公司开始注意运营开支了，Adoption的覆盖面会放缓。只有等模型抬升后用上一代的。",
+      "publishedAt": "2026-06-01T07:47:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2061353882526060898",
+      "quote": {
+        "username": "nft_hu",
+        "displayName": "Fiona ❤️&amp; ✌️",
+        "content": "黄氏算法更新了，之前说1GW 的算力中心成本是500亿，现在提高到了每GW 800亿到1000亿美元。",
+        "contentHtml": "黄氏算法更新了，之前说1GW 的算力中心成本是500亿，现在提高到了每GW 800亿到1000亿美元。",
+        "link": "https://x.com/nft_hu/status/2061340814232666447"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061352199070834801",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "我也有同感\n\n今早看到韩国股市又熔断，感觉今天的交易又废了，也不知道今晚的 #MU #SNDK 美光和闪迪又以什么样的涨幅开场\n\n该买的差不多都买了，已经不知道买啥了，涨太猛的也不好追了\n\n真是万恶的资本主义",
+      "contentHtml": "我也有同感\n\n今早看到韩国股市又熔断，感觉今天的交易又废了，也不知道今晚的 <a href=\"/search?f=tweets&q=%23MU\">#MU</a> <a href=\"/search?f=tweets&q=%23SNDK\">#SNDK</a> 美光和闪迪又以什么样的涨幅开场\n\n该买的差不多都买了，已经不知道买啥了，涨太猛的也不好追了\n\n真是万恶的资本主义",
+      "publishedAt": "2026-06-01T07:40:00.000Z",
+      "link": "https://x.com/dongbimao/status/2061352199070834801",
+      "quote": {
+        "username": "pizzapastamcd1",
+        "displayName": "有田",
+        "content": "市场疯了……\n不想上班了……\n上司邮件都不想回了……\n老婆的line都不想回了……",
+        "contentHtml": "市场疯了……\n不想上班了……\n上司邮件都不想回了……\n老婆的line都不想回了……",
+        "link": "https://x.com/pizzapastamcd1/status/2061270386696991158",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJsafVlacAAr6-f.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJsafViaMAAHDUf.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2061337720140771655",
       "username": "taresky",
@@ -11917,146 +12086,6 @@
           "url": "https://pbs.twimg.com/media/HJBhjjeWgAAiTek.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058253660899979286",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "有了AI，很多问题没啥好吵的，问一下AI答案基本都有了。以下来自于Claude\n这段话整体逻辑是对的，但有几处值得收紧或加注，不然给懂行的人挑刺会比较容易。我直接按你的思路过一遍：\n逻辑上站得住的部分\n\"自清算 vs. 实益所有权\"是两件事——✅ 完全正确。Introducing Broker / Clearing Broker 的分工是 SEC 监管框架明确认可的（Rule 15c3-3 客户保护规则、SEA Rule 17a-3/4 账簿记录）。Robinhood 早期用 Apex 清算、Public.com 用 Apex 和 Velox，都不影响客户股票的实益所有权归属。\nStreet name / beneficial ownership 的解释——✅ 准确。DTCC 旗下 Cede & Co. 是绝大多数美股的\"挂名所有人\"（registered owner），客户是 beneficial owner，券商账簿是这层归属的法律凭证。这是美国证券市场过去 50 年的基础架构，不是 BIT 特有的。\nDTC#4305 / RQD Clearing 这部分——✅ RQD* Clearing Partners 确实是 DTC 参与方，做 introducing broker 后台清算的，Webull、Moomoo 早期也用过类似结构。\"接入真实 DTC 链路\"这个事实判断成立。\n有几个表述建议收一下，避免被反咬\n\"美股业务不是虚假的\"——这个结论下得稍微早一点。DTC 链路真实 ≠ 客户资产 SIPC 受保护 ≠ 出事能拿回钱。三件事要分开。Matrix Gelephu Pte Ltd 是不丹 Gelephu Mindfulness City 的实体，新加坡 Pte Ltd 注册不代表 MAS 监管它的证券经纪业务（MAS 只管它在新加坡境内的受监管活动）。建议改成\"至少证券转仓链路是真实的，不是纯账面数据库\"——也就是你已经写的，但前面那句\"美股业务不是虚假的\"可以删掉或弱化，因为\"业务真实\"和\"权益保护完整\"不是同一件事。\nIntroducing Broker 类比要小心。美国本土 IB 受 FINRA + SEC 双重监管，客户资产受 SIPC 保护（50 万美元，含 25 万现金）。BIT 走的是 BVI/不丹/新加坡的多层结构，最终接入美国清算商。这种\"外国 IB 接美国 Clearing Broker\"的模式，FINRA 有 Rule 4311（Carrying Agreements），但 RQD 对终端客户的责任和对美国本土券商客户的责任不完全一样，尤其在跨境破产清算时。建议措辞上不要让人误以为 BIT 客户和 IBKR 客户拿到的是同一层保护。\n报案那段法律实体写得很清楚，但顺序可以调一下。实际服务主体所在法域（不丹 / BVI / 新加坡）放在前面，DTC 参与方所在的美国 SEC/FINRA 放在后面会更准——因为真正第一道追索是合同对手方所在地，不是清算商所在地。\n一个更核心的反驳框架（如果对方还要纠缠）\n对方的真实担忧大概率不是\"股票不是客户的\"，而是\"出事的时候客户能不能拿回来\"。这两件事要分开打：\n所有权归属（法律层面）：✅ 你说的对，beneficial ownership 在券商账簿。\n取回保障（执行层面）：⚠️ 这才是 BIT 真正的风险点——不在 SIPC、不在 FINRA SRO 体系、跨境破产清算路径不清晰。\n如果你把这两层主动拆开讲，反而更难被攻击。承认执行层有风险（这是事实），但不让对方用执行风险来否定法律层的所有权事实（这是混淆）。\n最后那句\"让时间沉淀\"很好，给自己留了余地。👍",
-      "contentHtml": "有了AI，很多问题没啥好吵的，问一下AI答案基本都有了。以下来自于Claude\n这段话整体逻辑是对的，但有几处值得收紧或加注，不然给懂行的人挑刺会比较容易。我直接按你的思路过一遍：\n逻辑上站得住的部分\n\"自清算 vs. 实益所有权\"是两件事——✅ 完全正确。Introducing Broker / Clearing Broker 的分工是 SEC 监管框架明确认可的（Rule 15c3-3 客户保护规则、SEA Rule 17a-3/4 账簿记录）。Robinhood 早期用 Apex 清算、<a href=\"http://Public.com\">Public.com</a> 用 Apex 和 Velox，都不影响客户股票的实益所有权归属。\nStreet name / beneficial ownership 的解释——✅ 准确。DTCC 旗下 Cede & Co. 是绝大多数美股的\"挂名所有人\"（registered owner），客户是 beneficial owner，券商账簿是这层归属的法律凭证。这是美国证券市场过去 50 年的基础架构，不是 BIT 特有的。\nDTC#4305 / RQD Clearing 这部分——✅ RQD* Clearing Partners 确实是 DTC 参与方，做 introducing broker 后台清算的，Webull、Moomoo 早期也用过类似结构。\"接入真实 DTC 链路\"这个事实判断成立。\n有几个表述建议收一下，避免被反咬\n\"美股业务不是虚假的\"——这个结论下得稍微早一点。DTC 链路真实 ≠ 客户资产 SIPC 受保护 ≠ 出事能拿回钱。三件事要分开。Matrix Gelephu Pte Ltd 是不丹 Gelephu Mindfulness City 的实体，新加坡 Pte Ltd 注册不代表 MAS 监管它的证券经纪业务（MAS 只管它在新加坡境内的受监管活动）。建议改成\"至少证券转仓链路是真实的，不是纯账面数据库\"——也就是你已经写的，但前面那句\"美股业务不是虚假的\"可以删掉或弱化，因为\"业务真实\"和\"权益保护完整\"不是同一件事。\nIntroducing Broker 类比要小心。美国本土 IB 受 FINRA + SEC 双重监管，客户资产受 SIPC 保护（50 万美元，含 25 万现金）。BIT 走的是 BVI/不丹/新加坡的多层结构，最终接入美国清算商。这种\"外国 IB 接美国 Clearing Broker\"的模式，FINRA 有 Rule 4311（Carrying Agreements），但 RQD 对终端客户的责任和对美国本土券商客户的责任不完全一样，尤其在跨境破产清算时。建议措辞上不要让人误以为 BIT 客户和 IBKR 客户拿到的是同一层保护。\n报案那段法律实体写得很清楚，但顺序可以调一下。实际服务主体所在法域（不丹 / BVI / 新加坡）放在前面，DTC 参与方所在的美国 SEC/FINRA 放在后面会更准——因为真正第一道追索是合同对手方所在地，不是清算商所在地。\n一个更核心的反驳框架（如果对方还要纠缠）\n对方的真实担忧大概率不是\"股票不是客户的\"，而是\"出事的时候客户能不能拿回来\"。这两件事要分开打：\n所有权归属（法律层面）：✅ 你说的对，beneficial ownership 在券商账簿。\n取回保障（执行层面）：⚠️ 这才是 BIT 真正的风险点——不在 SIPC、不在 FINRA SRO 体系、跨境破产清算路径不清晰。\n如果你把这两层主动拆开讲，反而更难被攻击。承认执行层有风险（这是事实），但不让对方用执行风险来否定法律层的所有权事实（这是混淆）。\n最后那句\"让时间沉淀\"很好，给自己留了余地。👍",
-      "publishedAt": "2026-05-23T18:28:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2058253660899979286",
-      "quote": {
-        "username": "PhyrexNi",
-        "displayName": "Phyrex",
-        "content": "😂本来不想聊太多，避免变成吵架。但有些基础还是需要普及一下。\n\n这个说法的问题在于，把“有没有清算牌照”和“股票是不是客户的”混在一起了。\n\n我 100% 同意清算牌照确实是券商实力的分水岭。这也是 IBKR、Schwab、Fidelity 这类头部券商的优势。但没有自清算能力，不等于客户买到的股票就不是客户的。\n\n如果是这样的话，其实就不会有 Introducing Broker 这种业务出现了，SEC 也不会对于 Introducing Broker 有监管的需求，直接判断不合规就是了，但实际上 SEC 并不是这么判断的。\n\n美国证券市场本来就是 street name 或 beneficial ownership 结构。绝大多数散户买美股，股票也不是直接登记在自己名字下面，而是登记在券商、清算机构或者 nominee 名下，客户通过券商账簿体现实益所有权。\n\n比如，你在 IBKR 买 Nvidia，DTCC 账本上也不会直接写你的个人名字。这是非常非常基础的知识，这种问题一直拿来说挺没意思的。\n\n其实还有一个重点，就是从转仓信息就可以看到，从其他券商转入 BIT 时，broker name 是 Matrix Gelephu Pte Ltd，DTC 是 DTC#4305，Account Number 填 “Your BIT securities account number”，Account Name 要和转出账户姓名一致。\n\n这最起码说明了 BIT 的美股业务不是虚假的，确实接入了美国清算的 DTC 链路，也有 Matrix Gelephu 这个服务主体和 RQD Clearing 这个 DTC 参与方。至少有真实证券转仓链路，不是纯粹的假股票数据库。\n\n😂最后再说一次，其实我说这些意义都不大，还是让时间沉淀吧。\n\n如果 BIT 美股或稳定币出入金业务出现问题，我会第一时间向相关监管机构和司法渠道报案，包括新加坡 MAS、BVI FSC 以及实际服务主体所在法域的监管机构。同时会根据账户协议、资金流向、实际控制关系和信息披露，追究相关法律实体及责任人的民事、监管甚至刑事责任。",
-        "contentHtml": "😂本来不想聊太多，避免变成吵架。但有些基础还是需要普及一下。\n\n这个说法的问题在于，把“有没有清算牌照”和“股票是不是客户的”混在一起了。\n\n我 100% 同意清算牌照确实是券商实力的分水岭。这也是 IBKR、Schwab、Fidelity 这类头部券商的优势。但没有自清算能力，不等于客户买到的股票就不是客户的。\n\n如果是这样的话，其实就不会有 Introducing Broker 这种业务出现了，SEC 也不会对于 Introducing Broker 有监管的需求，直接判断不合规就是了，但实际上 SEC 并不是这么判断的。\n\n美国证券市场本来就是 street name 或 beneficial ownership 结构。绝大多数散户买美股，股票也不是直接登记在自己名字下面，而是登记在券商、清算机构或者 nominee 名下，客户通过券商账簿体现实益所有权。\n\n比如，你在 IBKR 买 Nvidia，DTCC 账本上也不会直接写你的个人名字。这是非常非常基础的知识，这种问题一直拿来说挺没意思的。\n\n其实还有一个重点，就是从转仓信息就可以看到，从其他券商转入 BIT 时，broker name 是 Matrix Gelephu Pte Ltd，DTC 是 DTC#4305，Account Number 填 “Your BIT securities account number”，Account Name 要和转出账户姓名一致。\n\n这最起码说明了 BIT 的美股业务不是虚假的，确实接入了美国清算的 DTC 链路，也有 Matrix Gelephu 这个服务主体和 RQD Clearing 这个 DTC 参与方。至少有真实证券转仓链路，不是纯粹的假股票数据库。\n\n😂最后再说一次，其实我说这些意义都不大，还是让时间沉淀吧。\n\n如果 BIT 美股或稳定币出入金业务出现问题，我会第一时间向相关监管机构和司法渠道报案，包括新加坡 MAS、BVI FSC 以及实际服务主体所在法域的监管机构。同时会根据账户协议、资金流向、实际控制关系和信息披露，追究相关法律实体及责任人的民事、监管甚至刑事责任。",
-        "link": "https://x.com/PhyrexNi/status/2058196789661143491"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058226519609393217",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "when you’ve been trading equity perps on tradexyz, it’s really hard to go back to IBKR\n\nTradFi UX feels prehistoric",
-      "contentHtml": "when you’ve been trading equity perps on tradexyz, it’s really hard to go back to IBKR\n\nTradFi UX feels prehistoric",
-      "publishedAt": "2026-05-23T16:40:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2058226519609393217",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058220955277672941",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "$BTC \n\nWord of advice, this was a textbook setup. We’ve seen it multiple times on both the LTF and HTF.\n\nStrong closes above resistance in a downtrend are usually perceived as bullish, but more often than not price retraces back down and turns into a swing failure.\n\nPushing up at the start of the month during a downtrend after sweeping external supply is rarely bullish. \n\nAs we can see... textbook start of month hunt.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWord of advice, this was a textbook setup. We’ve seen it multiple times on both the LTF and HTF.\n\nStrong closes above resistance in a downtrend are usually perceived as bullish, but more often than not price retraces back down and turns into a swing failure.\n\nPushing up at the start of the month during a downtrend after sweeping external supply is rarely bullish. \n\nAs we can see... textbook start of month hunt.",
-      "publishedAt": "2026-05-23T16:18:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2058220955277672941",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJBEaimXoAAFcqY.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "$BTC \n\nWouldn’t be surprised if next week’s candle is bearish.\n\nWe just had the first move above April’s monthly high, typically where breakout longs start getting trapped at the start of a new month.\n\nI think 78.5K gets tested, with 74–75K also in play. After a 5 week climb, the structure looks primed for a a proper retest.",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWouldn’t be surprised if next week’s candle is bearish.\n\nWe just had the first move above April’s monthly high, typically where breakout longs start getting trapped at the start of a new month.\n\nI think 78.5K gets tested, with 74–75K also in play. After a 5 week climb, the structure looks primed for a a proper retest.",
-        "link": "https://x.com/KillaXBT/status/2053487933361967593",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HH9z1-CWUAEH_Qa.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058212741983158527",
-      "username": "ProofofMaro",
-      "displayName": "maro",
-      "avatar": "https://pbs.twimg.com/profile_images/1961870544682270720/uocyCxAy_bigger.jpg",
-      "content": "A woman expresses love through service.",
-      "contentHtml": "A woman expresses love through service.",
-      "publishedAt": "2026-05-23T15:45:00.000Z",
-      "link": "https://x.com/ProofofMaro/status/2058212741983158527",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "naval",
-        "displayName": "Naval",
-        "content": "A man expresses love through duty.",
-        "contentHtml": "A man expresses love through duty.",
-        "link": "https://x.com/naval/status/2058212450747715730"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058212450747715730",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
-      "content": "A man expresses love through duty.",
-      "contentHtml": "A man expresses love through duty.",
-      "publishedAt": "2026-05-23T15:44:00.000Z",
-      "link": "https://x.com/naval/status/2058212450747715730",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2058212505802154122",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2057449764300709888/4IwQrBbZ_bigger.jpg",
-      "content": "我操 太效率了 感谢coinank👊🏻\n看rwa美股数据可以试试coinank\n@CoinankCN 注册链接⬇️\ncoinank.com/register?referra…",
-      "contentHtml": "我操 太效率了 感谢coinank👊🏻\n看rwa美股数据可以试试coinank\n<a href=\"/CoinankCN\" title=\"CoinAnk中文\">@CoinankCN</a> 注册链接⬇️\n<a href=\"https://coinank.com/register?referral=97556\">coinank.com/register?referra…</a>",
-      "publishedAt": "2026-05-23T15:44:00.000Z",
-      "link": "https://x.com/hazenlee/status/2058212505802154122",
-      "quote": {
-        "username": "garyvgroup",
-        "displayName": "Gary💙CoinAnk",
-        "content": "CoinAnk可以看美股了，\n\n上次和李哥 @hazenlee 聊天时，他认真地说：你们应该把美股的数据做好。\n今天，第一步已经完成，我们把美股的实时行情，资金流向，持仓变化等关键数据接入进来，让大家能在同一个平台同时看到加密衍生品和美股的联动情况。\n\n后续我们会继续把美股部分打磨得更深，爱李哥。",
-        "contentHtml": "CoinAnk可以看美股了，\n\n上次和李哥 <a href=\"/hazenlee\" title=\"𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀\">@hazenlee</a> 聊天时，他认真地说：你们应该把美股的数据做好。\n今天，第一步已经完成，我们把美股的实时行情，资金流向，持仓变化等关键数据接入进来，让大家能在同一个平台同时看到加密衍生品和美股的联动情况。\n\n后续我们会继续把美股部分打磨得更深，爱李哥。",
-        "link": "https://x.com/garyvgroup/status/2058211207644127424",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJA6t1LaYAAWTKl.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
