@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T20:04:01.258Z",
+  "lastUpdated": "2026-06-02T21:32:25.494Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 569,
-    "successUsers": 28,
-    "failedUsers": 2
+    "newFetched": 546,
+    "successUsers": 27,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2061908863289327970",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "Another month of farming invisible points.\n\nVery tired of winning.\n\nHyperliquid.",
+      "contentHtml": "Another month of farming invisible points.\n\nVery tired of winning.\n\nHyperliquid.",
+      "publishedAt": "2026-06-02T20:32:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2061908863289327970",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJ1e_3oXwAESBlh.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2061900680219042040",
       "username": "KillaXBT",
@@ -12115,38 +12136,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HIkzPubawAASljN.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059062697736667250",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "想不到老黄是个老非主流",
-      "contentHtml": "想不到老黄是个老非主流",
-      "publishedAt": "2026-05-26T00:02:00.000Z",
-      "link": "https://x.com/hazenlee/status/2059062697736667250",
-      "quote": {
-        "username": "CuiMao",
-        "displayName": "CuiMao",
-        "content": "你们发现了吗，他拍照片真的很爱瞪的超大个眼睛，😅😅😅，真的，每一张都是瞪的老大",
-        "contentHtml": "你们发现了吗，他拍照片真的很爱瞪的超大个眼睛，😅😅😅，真的，每一张都是瞪的老大",
-        "link": "https://x.com/CuiMao/status/2058739008751149303",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJIbxbMaMAA7m7v.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJIb15oaIAA-F1G.png"
           }
         ]
       },
