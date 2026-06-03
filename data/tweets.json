@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T07:26:01.615Z",
+  "lastUpdated": "2026-06-03T09:07:52.589Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -99,12 +99,326 @@
     }
   ],
   "stats": {
-    "total": 493,
-    "newFetched": 0,
-    "successUsers": 0,
-    "failedUsers": 30
+    "total": 500,
+    "newFetched": 593,
+    "successUsers": 29,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2062097515223347691",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
+      "content": "It’s the wisdom of markets, and the madness of crowds.",
+      "contentHtml": "It’s the wisdom of markets, and the madness of crowds.",
+      "publishedAt": "2026-06-03T09:02:00.000Z",
+      "link": "https://x.com/naval/status/2062097515223347691",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062091554458923419",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "x.com/i/article/206209089386…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2062090893868572672\">x.com/i/article/206209089386…</a>",
+      "publishedAt": "2026-06-03T08:38:00.000Z",
+      "link": "https://x.com/follow_clues/status/2062091554458923419",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062090893109449056",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "hong的这篇长文写的很到位，传统金融正在全面链上化，但把赚取收益、投资机构产品、交易全球市场三件事融合到一个账户的平台还很少，GRVT正在做这件事。所有资产默认可组合为抵押品，从 1 美元起、无需认证、无锁仓，这不是不是单纯拼收益率，而是把可组合性 + 流动性 + 机构级资产作为核心护城河。\n\n个人角度，这才是真正能把TradFi机构级资产“降维”给普通用户的打法。流动性+可组合性比单纯高 APY 重要多了。6月RWA金库上线也值得关注。",
+      "contentHtml": "hong的这篇长文写的很到位，传统金融正在全面链上化，但把赚取收益、投资机构产品、交易全球市场三件事融合到一个账户的平台还很少，GRVT正在做这件事。所有资产默认可组合为抵押品，从 1 美元起、无需认证、无锁仓，这不是不是单纯拼收益率，而是把可组合性 + 流动性 + 机构级资产作为核心护城河。\n\n个人角度，这才是真正能把TradFi机构级资产“降维”给普通用户的打法。流动性+可组合性比单纯高 APY 重要多了。6月RWA金库上线也值得关注。",
+      "publishedAt": "2026-06-03T08:35:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2062090893109449056",
+      "quote": {
+        "username": "hong_grvt",
+        "displayName": "hong.grvt",
+        "content": "x.com/i/article/205994135805…",
+        "contentHtml": "<a href=\"http://x.com/i/article/2059941358056742912\">x.com/i/article/205994135805…</a>",
+        "link": "https://x.com/hong_grvt/status/2059942285106905119"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062087076292825395",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
+      "content": "链上开始有割肉盘出来了，割肉量一般\n$BTC $ETH",
+      "contentHtml": "链上开始有割肉盘出来了，割肉量一般\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a>",
+      "publishedAt": "2026-06-03T08:20:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2062087076292825395",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJ4BE7fawAAnXrd.png"
+        }
+      ],
+      "quote": {
+        "username": "boundaryhq",
+        "displayName": "boundary",
+        "content": "最近这7天btc下跌了8.3%，ethbtc汇率涨了4.2%，复盘历史这种在btc大跌但eth汇率强势的情况，从2017年开始样本累计60个，60个样本中未来7天 14天 30天 90天eth累计涨幅中位数分别是-0.7%，-0.8%，-3.8%，-8.5%\n$BTC ethereum:native",
+        "contentHtml": "最近这7天btc下跌了8.3%，ethbtc汇率涨了4.2%，复盘历史这种在btc大跌但eth汇率强势的情况，从2017年开始样本累计60个，60个样本中未来7天 14天 30天 90天eth累计涨幅中位数分别是-0.7%，-0.8%，-3.8%，-8.5%\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> ethereum:native",
+        "link": "https://x.com/boundaryhq/status/2061770586536415593",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJzhNNGaoAAlzqt.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062080392967200813",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "讲个鬼故事：此前做多 $ETH 一波获利 4461 万美元的铁头多军，已回吐全部利润🥶\n\n四个归属于同一实体的地址累计做多 12 万枚 ETH，仓位高达 2.25 亿美元，现已浮亏 4601 万美元，清算区间为 [$1,355.8, $1,573.9]，最危险的仓位距离也只有 ~300 美金了\n\n其中两个地址在今早追加了 490 万刀保证金，现在摆在他面前的，是清算风险了\n\n传送门👇\nd.pro/portfolio/0xa5b0edf6b5…\nd.pro/portfolio/0x6c8512516c…\nd.pro/portfolio/0xfd423284f6…\nd.pro/portfolio/0xa875890465…",
+      "contentHtml": "讲个鬼故事：此前做多 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 一波获利 4461 万美元的铁头多军，已回吐全部利润🥶\n\n四个归属于同一实体的地址累计做多 12 万枚 ETH，仓位高达 2.25 亿美元，现已浮亏 4601 万美元，清算区间为 [$1,355.8, $1,573.9]，最危险的仓位距离也只有 ~300 美金了\n\n其中两个地址在今早追加了 490 万刀保证金，现在摆在他面前的，是清算风险了\n\n传送门👇\n<a href=\"https://www.d.pro/portfolio/0xa5b0edf6b55128e0ddae8e51ac538c3188401d41\">d.pro/portfolio/0xa5b0edf6b5…</a>\n<a href=\"https://www.d.pro/portfolio/0x6c8512516ce5669d35113a11ca8b8de322fd84f6\">d.pro/portfolio/0x6c8512516c…</a>\n<a href=\"https://www.d.pro/portfolio/0xfd423284f6a9c73a2a3d53cab8921d6533533d97\">d.pro/portfolio/0xfd423284f6…</a>\n<a href=\"https://www.d.pro/portfolio/0xa875890465da20062bcf3b024bf7d54e69c725a8\">d.pro/portfolio/0xa875890465…</a>",
+      "publishedAt": "2026-06-03T07:54:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2062080392967200813",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJ36_4JaIAAn0fY.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJ37EBoakAAYvH_.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJ37HrFbIAAbZvj.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJ37JWObIAAwLJc.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "上下千万美元的盈亏波动，太能忍了吧🥹\n\n随着 BTC 跌破 8w，做多 8 万枚 $ETH 的铁头多军持仓重新回到水下，目前两个地址共浮亏 290 万美元（做多 8 万枚 ETH），他的入场均价为 ~$2265，11 号时还浮盈超 800 万美元\n\n传送门\nd.pro/portfolio/0xa5b0edf6b5…\nd.pro/portfolio/0x6c8512516c…",
+        "contentHtml": "上下千万美元的盈亏波动，太能忍了吧🥹\n\n随着 BTC 跌破 8w，做多 8 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的铁头多军持仓重新回到水下，目前两个地址共浮亏 290 万美元（做多 8 万枚 ETH），他的入场均价为 ~$2265，11 号时还浮盈超 800 万美元\n\n传送门\n<a href=\"https://www.d.pro/portfolio/0xa5b0edf6b55128e0ddae8e51ac538c3188401d41\">d.pro/portfolio/0xa5b0edf6b5…</a>\n<a href=\"https://www.d.pro/portfolio/0x6c8512516ce5669d35113a11ca8b8de322fd84f6\">d.pro/portfolio/0x6c8512516c…</a>",
+        "link": "https://x.com/ai_9684xtpa/status/2055471695956439478",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIaAkoSaEAALTTM.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062075811277013220",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "Filled on $BTC 💨",
+      "contentHtml": "Filled on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 💨",
+      "publishedAt": "2026-06-03T07:35:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2062075811277013220",
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "Got $BTC long stink bids at 65.5K.",
+        "contentHtml": "Got <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> long stink bids at 65.5K.",
+        "link": "https://x.com/KillaXBT/status/2061746061455077399"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062071510089810163",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "当我们看不到美联储的点阵图的前瞻指引，看金融时报说美联储新任主席沃什可能最早在6月的FOMC会议上启动改革，核心方向是削弱甚至取消长期以来用于引导市场预期的利率前瞻指引。这意味着沃什将重新界定美联储向华尔街传递政策信号的方式，当然这也是他一直强调的。\n\n多名知情的前官员预计，沃什可能逐步退出前瞻指引这一沟通工具，甚至不再提交利率路径预测，也就是放弃作为季度经济预测组成部分的“点阵图”。除预测工具外，沃什还可能调整利率声明中的措辞结构，尤其是删除暗示未来政策方向的“倾向性”表述，例如偏向宽松或紧缩的信号。\n\n其实美联储的沟通体系也是一套构建了好多年的复杂结构，建立需要很长时间，拆掉估计也需要时间。慢慢的就能看到沃什在政策改革的节奏了。\n\n这里核心是节奏：\n陡然取消市场可能会突然陷入迷茫和混乱；\n如果渐进式的对市场的影响就会更缓和。\n\n还是之前在这里nitter.net/qinbafrank/status/2018…聊到的\n“能做的比想做的重要的多，\n政策节奏比政策主张对市场影响很大！“",
+      "contentHtml": "当我们看不到美联储的点阵图的前瞻指引，看金融时报说美联储新任主席沃什可能最早在6月的FOMC会议上启动改革，核心方向是削弱甚至取消长期以来用于引导市场预期的利率前瞻指引。这意味着沃什将重新界定美联储向华尔街传递政策信号的方式，当然这也是他一直强调的。\n\n多名知情的前官员预计，沃什可能逐步退出前瞻指引这一沟通工具，甚至不再提交利率路径预测，也就是放弃作为季度经济预测组成部分的“点阵图”。除预测工具外，沃什还可能调整利率声明中的措辞结构，尤其是删除暗示未来政策方向的“倾向性”表述，例如偏向宽松或紧缩的信号。\n\n其实美联储的沟通体系也是一套构建了好多年的复杂结构，建立需要很长时间，拆掉估计也需要时间。慢慢的就能看到沃什在政策改革的节奏了。\n\n这里核心是节奏：\n陡然取消市场可能会突然陷入迷茫和混乱；\n如果渐进式的对市场的影响就会更缓和。\n\n还是之前在这里<a href=\"https://nitter.net/qinbafrank/status/2018129302114689163?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2018…</a>聊到的\n“能做的比想做的重要的多，\n政策节奏比政策主张对市场影响很大！“",
+      "publishedAt": "2026-06-03T07:18:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2062071510089810163",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJ3zG0IbwAA57WB.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "x.com/i/article/204842974305…",
+        "contentHtml": "<a href=\"http://x.com/i/article/2048429743050211328\">x.com/i/article/204842974305…</a>",
+        "link": "https://x.com/qinbafrank/status/2048568392643465426"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062061599683445129",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "65第一目标到了\n震荡一下再继续",
+      "contentHtml": "65第一目标到了\n震荡一下再继续",
+      "publishedAt": "2026-06-03T06:39:00.000Z",
+      "link": "https://x.com/hazenlee/status/2062061599683445129",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "跌到趋势线也是熊旗下沿了\n继续跌破看三个点位\n次前低 前低 新低🫡",
+        "contentHtml": "跌到趋势线也是熊旗下沿了\n继续跌破看三个点位\n次前低 前低 新低🫡",
+        "link": "https://x.com/hazenlee/status/2061450723146215812",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJu-fDeakAADJe4.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062058266373582941",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "o1 果然当了出生，就看看币价了。其实从去年开始项目方的话听听得了，bulk那个理财说是给30%的代币空投，就是不说是s1 给30%还是好几个赛季。都爱和你玩点文字游戏。",
+      "contentHtml": "o1 果然当了出生，就看看币价了。其实从去年开始项目方的话听听得了，bulk那个理财说是给30%的代币空投，就是不说是s1 给30%还是好几个赛季。都爱和你玩点文字游戏。",
+      "publishedAt": "2026-06-03T06:26:00.000Z",
+      "link": "https://x.com/0xleng1/status/2062058266373582941",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062049072115273756",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
+      "content": "你可算醒啦？好像是做了一个很长的恶梦，一直在不断地念叨着什么微策略卖币、ETF流出、1011乱七八糟的，我都听不懂是什么，快别愣着了，刚才美联储公布QE无限印钞大放水，有个叫Uniswap的新东西出来了随便把ETH扔进去就给到50%收益率呢，对了说到ETH现在200块你觉得贵不贵可以买吗，Opensea上好多人都在炒小图片我也跟风买了一个当头像，我朋友整天玩Axie打游戏就能赚钱，但我不喜欢坐在电脑跟前不健康，下载了个StepN说是跑步赚钱等会去试试，今天新加了个DAO好有趣呀在里面认识了很多朋友，马斯克刚刚宣布买了15亿美金的比特币呢，还说可以用比特币来买特斯拉，不过我觉得比特币已经3万了有点贵，我还是买点马斯克的狗狗币吧毕竟小数点后那么多0看起来好便宜呀。\n你怎么哭了呢？别难过了一切都会好起来的，就当梦一场。",
+      "contentHtml": "你可算醒啦？好像是做了一个很长的恶梦，一直在不断地念叨着什么微策略卖币、ETF流出、1011乱七八糟的，我都听不懂是什么，快别愣着了，刚才美联储公布QE无限印钞大放水，有个叫Uniswap的新东西出来了随便把ETH扔进去就给到50%收益率呢，对了说到ETH现在200块你觉得贵不贵可以买吗，Opensea上好多人都在炒小图片我也跟风买了一个当头像，我朋友整天玩Axie打游戏就能赚钱，但我不喜欢坐在电脑跟前不健康，下载了个StepN说是跑步赚钱等会去试试，今天新加了个DAO好有趣呀在里面认识了很多朋友，马斯克刚刚宣布买了15亿美金的比特币呢，还说可以用比特币来买特斯拉，不过我觉得比特币已经3万了有点贵，我还是买点马斯克的狗狗币吧毕竟小数点后那么多0看起来好便宜呀。\n你怎么哭了呢？别难过了一切都会好起来的，就当梦一场。",
+      "publishedAt": "2026-06-03T05:49:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2062049072115273756",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062045297958903861",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://pbs.twimg.com/profile_images/1842438817397297152/0WZDqXBE_bigger.jpg",
+      "content": "The Bay’s “permanent underclass” narrative is insanely pvp, ppl keep treating today’s prestige ladder like a permanent map of the future. It almost never is.\n\ncaught up with an CMU alum who graduated in 2010 in EE. At the time, EE was absolutely the underclass next to CS, CS kids went to the hottes internet companies, while he quietly joined a company called Nvidia on maybe $120k a year\n\n15yrs later a few years of modest salary + refreshers turned into $50M and he's still perfecting his craftsmanship \n\nThe mistake people keep making is confusing peak fomo with structural opportunity that needs to be dedicated when no one is talking abt. \n\nFocus on what you can do well. Under a the grand scheme of Moore’s Law, massive structural opportunities always emerge for your term",
+      "contentHtml": "The Bay’s “permanent underclass” narrative is insanely pvp, ppl keep treating today’s prestige ladder like a permanent map of the future. It almost never is.\n\ncaught up with an CMU alum who graduated in 2010 in EE. At the time, EE was absolutely the underclass next to CS, CS kids went to the hottes internet companies, while he quietly joined a company called Nvidia on maybe $120k a year\n\n15yrs later a few years of modest salary + refreshers turned into $50M and he's still perfecting his craftsmanship \n\nThe mistake people keep making is confusing peak fomo with structural opportunity that needs to be dedicated when no one is talking abt. \n\nFocus on what you can do well. Under a the grand scheme of Moore’s Law, massive structural opportunities always emerge for your term",
+      "publishedAt": "2026-06-03T05:34:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2062045297958903861",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062044351421882783",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://pbs.twimg.com/profile_images/1986442283433254912/O0egVwxK_bigger.jpg",
+      "content": "去中心化的世界 俺们币圈人最看重“信用”",
+      "contentHtml": "去中心化的世界 俺们币圈人最看重“信用”",
+      "publishedAt": "2026-06-03T05:30:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2062044351421882783",
+      "quote": {
+        "username": "MiduYang21",
+        "displayName": "Midu Yang",
+        "content": "就是因为v神有这种女朋友，白瞎V神这么好的小伙了🤣还有啊，她一直在长篇大论自己多牛逼，貌似背后只有V神一个人吧😥我身后还有港台明星，好莱坞明星，欧美明星，NBA明星，等我一个个发出来哈哈哈哈哈哈。一句话，web3归零，你啥也不是。web3归零，我风生水起。",
+        "contentHtml": "就是因为v神有这种女朋友，白瞎V神这么好的小伙了🤣还有啊，她一直在长篇大论自己多牛逼，貌似背后只有V神一个人吧😥我身后还有港台明星，好莱坞明星，欧美明星，NBA明星，等我一个个发出来哈哈哈哈哈哈。一句话，web3归零，你啥也不是。web3归零，我风生水起。",
+        "link": "https://x.com/MiduYang21/status/2061833338151993465"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062042701646962856",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
+      "content": "😂 湾区现在耸人听闻的 “permanent underclass” 「终身底层, 永不翻身」论调真的太pvp了... 专注自己能做好自己的事情然后在大的摩尔定律下, 总会有巨大的结构性机会. 刚和一个2010年毕业的师兄聚, 师兄是EE的(电气工程) 当年绝对就是同届的underclass, 因为CS隔壁CS系的去的都是各种大热互联网厂, 师兄默默去了一个叫做Nvidia的公司, 自己拿着一年最多120k的薪水. 然后15年后这四年本来不超过50万美金的总包+中间的refresh, 变成了5000万美金.",
+      "contentHtml": "😂 湾区现在耸人听闻的 “permanent underclass” 「终身底层, 永不翻身」论调真的太pvp了... 专注自己能做好自己的事情然后在大的摩尔定律下, 总会有巨大的结构性机会. 刚和一个2010年毕业的师兄聚, 师兄是EE的(电气工程) 当年绝对就是同届的underclass, 因为CS隔壁CS系的去的都是各种大热互联网厂, 师兄默默去了一个叫做Nvidia的公司, 自己拿着一年最多120k的薪水. 然后15年后这四年本来不超过50万美金的总包+中间的refresh, 变成了5000万美金.",
+      "publishedAt": "2026-06-03T05:24:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2062042701646962856",
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "什么是“宿命感”？今天和 CMU 的同学闲聊，两个就在身边的极端例子\n\n1️⃣ 2010年毕业的师兄： 在当时还查无此人的 WhatsApp 和如日中天的 Facebook 之间选了 FB\n2️⃣ 2022年毕业的 JYW： Master 第一年只能在国内上网课，后美国落地不到一年, 扛着h1b巨大压力,在一众大厂和 OpenAI 之间选了OAI\n\n两代人，两个时代的转折点。个人命运的大周期齿轮⚙️就在那一决定的时刻开始转动",
+        "contentHtml": "什么是“宿命感”？今天和 CMU 的同学闲聊，两个就在身边的极端例子\n\n1️⃣ 2010年毕业的师兄： 在当时还查无此人的 WhatsApp 和如日中天的 Facebook 之间选了 FB\n2️⃣ 2022年毕业的 JYW： Master 第一年只能在国内上网课，后美国落地不到一年, 扛着h1b巨大压力,在一众大厂和 OpenAI 之间选了OAI\n\n两代人，两个时代的转折点。个人命运的大周期齿轮⚙️就在那一决定的时刻开始转动",
+        "link": "https://x.com/DoveyWanCN/status/2054185026154303866"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062041838350192908",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://pbs.twimg.com/profile_images/1801869779344703488/LfOPOolq_bigger.jpg",
+      "content": "Ok think we got front ran on most of sell pressure early in the month unlike other last 2 month  should marked bottom at here 66k",
+      "contentHtml": "Ok think we got front ran on most of sell pressure early in the month unlike other last 2 month  should marked bottom at here 66k",
+      "publishedAt": "2026-06-03T05:20:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2062041838350192908",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2062038778097840227",
       "username": "Bitfatty",
@@ -132,6 +446,25 @@
             "url": "https://pbs.twimg.com/media/HJ3D9gTaQAAi6E4.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062034978733764947",
+      "username": "m1ssuo",
+      "displayName": "Vincent Yang",
+      "avatar": "https://pbs.twimg.com/profile_images/1589233256175923202/CsyqQfsK_bigger.png",
+      "content": "x.com/i/article/206179519033…",
+      "contentHtml": "<a href=\"http://x.com/i/article/2061795190336356352\">x.com/i/article/206179519033…</a>",
+      "publishedAt": "2026-06-03T04:53:00.000Z",
+      "link": "https://x.com/m1ssuo/status/2062034978733764947",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
       },
       "stats": {
         "replies": 0,
@@ -886,6 +1219,25 @@
       }
     },
     {
+      "id": "2061905825573327281",
+      "username": "spencerpratt",
+      "displayName": "Spencer Pratt",
+      "avatar": "https://pbs.twimg.com/profile_images/2043484616439595008/HNMqir29_bigger.jpg",
+      "content": "If you don't vote, I don't want to hear you ever complain about any of the filth, crime, or decline in LA again. Get off your butt and VOTE, or enjoy what you get.",
+      "contentHtml": "If you don't vote, I don't want to hear you ever complain about any of the filth, crime, or decline in LA again. Get off your butt and VOTE, or enjoy what you get.",
+      "publishedAt": "2026-06-02T20:20:00.000Z",
+      "link": "https://x.com/spencerpratt/status/2061905825573327281",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2061900680219042040",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -1059,6 +1411,32 @@
       }
     },
     {
+      "id": "2061831535561675224",
+      "username": "perryyeh",
+      "displayName": "叶子",
+      "avatar": "https://pbs.twimg.com/profile_images/1761754549440909312/-Lj6hv-J_bigger.jpg",
+      "content": "终于有人理清上下文了\n\n之前在v2ex上多次见过讨论nas的帖子里有宣传\n\n然后x上不想看直接 b的",
+      "contentHtml": "终于有人理清上下文了\n\n之前在v2ex上多次见过讨论nas的帖子里有宣传\n\n然后x上不想看直接 b的",
+      "publishedAt": "2026-06-02T15:25:00.000Z",
+      "link": "https://x.com/perryyeh/status/2061831535561675224",
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
+      },
+      "quote": {
+        "username": "yuhsiangtuan",
+        "displayName": "Edwin Tuan",
+        "content": "抱歉我要没脸没皮地蹭一下 @manateelazycat 和 @gloridust1024 的流量，但是作为一位开发者，我想有这个必要帮助概括和定调：\n按Tweets时间顺序：\n1. @gloridust1024 发布了github.com/Gloridust/WechatO… 相关内容同时at懒猫微服CEO表示有部分idea受其商业产品启发。\n\n2. @manateelazycat 即刻表示这是赤裸裸的抄袭，言辞激烈，声称已然侵犯其版权，并要求其在README.md加上致辞。\n我认为王勇是自取其辱，首先版权并不保护idea，只在乎具体呈现，遂问及其具体代码实现:\n\n3. @manateelazycat 在评论区曝露出其两年前（时间属实）在Github发布的云上IM方案：github.com/whoamihappyhackin… , 大概是讲 @gloridust1024 抄袭了这部分代码。\n可是大家去看一下这个代码，只有寥寥几个stars，如果不是CEO自己发出来，恐怕没人知道。\n再者，这个代码具体的实现，就是直接用了知名的容器化桌面方案 KasmVNC+apt get下载微信+几行自启动命令，根本就是个启动脚本，代码也就几十行，怎么好意思讲版权？？？\n\n反过来看WechatOnCloud，同样基于KasmVNC，但是有一整套自研的托管平台。孰优孰劣？\nDocker + KasmVNC 的idea成了懒猫微服的专利？你的仓库上也没写对KasmVNC的致辞啊。\n\n更令人愤怒的是，KasmVNC基于GPL-2.0 license是禁止分发的，而王勇恬不知耻地把它用作商业宣传的噱头，底线切换自由，对人对己双重标准，堪比华为的流氓营销手段，还经常污染网络环境，被群起而攻之，很正常。\n\n依照之前我们熟知的几个微信数据库破解软件被处置的经验，随着事情发酵，腾讯一定会先起诉懒猫微服，而不是懒猫微服起诉Ethan Zou。\n奉劝懒猫微服即刻下架微信功能以防被腾讯起诉。",
+        "contentHtml": "抱歉我要没脸没皮地蹭一下 <a href=\"/manateelazycat\" title=\"Andy Stewart\">@manateelazycat</a> 和 <a href=\"/gloridust1024\" title=\"Ethan Zou\">@gloridust1024</a> 的流量，但是作为一位开发者，我想有这个必要帮助概括和定调：\n按Tweets时间顺序：\n1. <a href=\"/gloridust1024\" title=\"Ethan Zou\">@gloridust1024</a> 发布了<a href=\"https://github.com/Gloridust/WechatOnCloud\">github.com/Gloridust/WechatO…</a> 相关内容同时at懒猫微服CEO表示有部分idea受其商业产品启发。\n\n2. <a href=\"/manateelazycat\" title=\"Andy Stewart\">@manateelazycat</a> 即刻表示这是赤裸裸的抄袭，言辞激烈，声称已然侵犯其版权，并要求其在README.md加上致辞。\n我认为王勇是自取其辱，首先版权并不保护idea，只在乎具体呈现，遂问及其具体代码实现:\n\n3. <a href=\"/manateelazycat\" title=\"Andy Stewart\">@manateelazycat</a> 在评论区曝露出其两年前（时间属实）在Github发布的云上IM方案：<a href=\"https://github.com/whoamihappyhacking/lzc-im-all-in-one\">github.com/whoamihappyhackin…</a> , 大概是讲 <a href=\"/gloridust1024\" title=\"Ethan Zou\">@gloridust1024</a> 抄袭了这部分代码。\n可是大家去看一下这个代码，只有寥寥几个stars，如果不是CEO自己发出来，恐怕没人知道。\n再者，这个代码具体的实现，就是直接用了知名的容器化桌面方案 KasmVNC+apt get下载微信+几行自启动命令，根本就是个启动脚本，代码也就几十行，怎么好意思讲版权？？？\n\n反过来看WechatOnCloud，同样基于KasmVNC，但是有一整套自研的托管平台。孰优孰劣？\nDocker + KasmVNC 的idea成了懒猫微服的专利？你的仓库上也没写对KasmVNC的致辞啊。\n\n更令人愤怒的是，KasmVNC基于GPL-2.0 license是禁止分发的，而王勇恬不知耻地把它用作商业宣传的噱头，底线切换自由，对人对己双重标准，堪比华为的流氓营销手段，还经常污染网络环境，被群起而攻之，很正常。\n\n依照之前我们熟知的几个微信数据库破解软件被处置的经验，随着事情发酵，腾讯一定会先起诉懒猫微服，而不是懒猫微服起诉Ethan Zou。\n奉劝懒猫微服即刻下架微信功能以防被腾讯起诉。",
+        "link": "https://x.com/yuhsiangtuan/status/2061815123195695318"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2061818576621994076",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -1128,6 +1506,25 @@
             "url": "https://pbs.twimg.com/media/HIBKcjwXoAAoMXx.png"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2061811334719701059",
+      "username": "JupiterExchange",
+      "displayName": "Jupiter",
+      "avatar": "https://pbs.twimg.com/profile_images/1944921381168099328/mVkHxhxy_bigger.jpg",
+      "content": "We’re hosting a $125,000 World Cup Challenge on @jup_predict\n\nIf you’re a FIFA World Cup 2026 fan, this one’s for you\n\nAll you need to do is correctly predict 5 matches\n\nThis isn’t one to miss. Here’s how to participate:",
+      "contentHtml": "We’re hosting a $125,000 World Cup Challenge on <a href=\"/jup_predict\" title=\"Jupiter Prediction Markets\">@jup_predict</a>\n\nIf you’re a FIFA World Cup 2026 fan, this one’s for you\n\nAll you need to do is correctly predict 5 matches\n\nThis isn’t one to miss. Here’s how to participate:",
+      "publishedAt": "2026-06-02T14:05:00.000Z",
+      "link": "https://x.com/JupiterExchange/status/2061811334719701059",
+      "retweet": {
+        "username": "0xSunNFT",
+        "displayName": "0xSun"
       },
       "stats": {
         "replies": 0,
@@ -5540,6 +5937,25 @@
       }
     },
     {
+      "id": "2060863647623340377",
+      "username": "nivi",
+      "displayName": "Nivi",
+      "avatar": "https://pbs.twimg.com/profile_images/54022207/Nivi_Favicon_bigger.jpg",
+      "content": "What people call the Singularity is the continuing victory of knowledge over the blind physical evolution of the universe.",
+      "contentHtml": "What people call the Singularity is the continuing victory of knowledge over the blind physical evolution of the universe.",
+      "publishedAt": "2026-05-30T23:19:00.000Z",
+      "link": "https://x.com/nivi/status/2060863647623340377",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2060836918737133601",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -5829,6 +6245,31 @@
             "url": "https://pbs.twimg.com/media/HJW_YA9WwAQsjK_.png"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2060728624114958526",
+      "username": "Blankwonder",
+      "displayName": "Yachen Liu",
+      "avatar": "https://pbs.twimg.com/profile_images/1769760069393281024/vESyD2hO_bigger.jpg",
+      "content": "小机柜折腾完毕，分享一点经验\n\n1. 今天电信师傅来更换了 2000M 套餐的光猫。各家运营商的 2000M 光猫大多都是子母猫设计，而且厂家一般默认母猫放在弱电箱里，所以通常只有子猫带 2.5G 网口。好在这次电信师傅提前预判了我的需求，专门申请了一套母猫带 2.5G 网口的型号，这样就不用额外挂一个子猫了。有类似需求的朋友记得提前和师傅沟通一下。\n\n2. 我的柜体深度是 30cm，刚好够放星维派这款机柜，这个尺寸基本算是卡着上限，差不多刚刚好。不过像 UniFi Dream Machine 这种设备就会因为机身太深而装不进去。（一开始还专门定制了一堆日线短跳线，好好整理下走线，结果发现面板加上网线尾巴之后门根本关不上……最后只能重新买了一批超小水晶头网线替代，可惜只有黑色。）\n\n3. 所有房间的吊顶检修口都预留了两根网线：一根接 AP，一根接小米网关，全部走 PoE 供电。（小米网关本身不支持 PoE，需要额外加一个分离器。）\n\n4. 工作室和客厅电视柜都预留了成品光纤，双 LC 接头，OM4 规格，最高可支持到 100Gbps。\n\n5. 主路由依然是经典的 MikroTik RB5009（没用 UniFi 主要还是因为不支持 Full Cone），不过这东西的 2.5GBase-T 协商经常会出点问题，今天换了光猫又不认，被迫用 SFP+ 去接光猫。\n\n6. Mac mini 上挂了一个 ZTE F50，作为 Surge Ponte 热备。这样不在家时如果主线路断网，还能连回去看看是什么情况。旁边的小屏幕主要用于重启时登录。\n\n7. UniFi Switch XG 6 PoE 的风扇实在太吵，被我拆掉之后又定制了一块超大散热片贴在顶部。用了很多年，目前表现一直很稳定。\n\n8. 侧边这台主机还是很多年前装的 HomeLab PC，MATX 规格。除了偶尔会死机重启之外，整体运行一直很稳定（大概每年不超过两次）。23 年买的 5 块国产 4TB SSD 到现在也全部正常（现在价格已经翻了 5 倍）。目前跑着 Proxmox VE，承载 NAS 和各种服务。\n\n9. 很多人关心散热问题。首先柜门做了百叶设计，但单靠这个确实不够，所以我又在机箱前面板加了一把高性能风扇负责进风，机箱顶部风扇向上排风，再立了一把猫扇往外吹，形成完整的散热风道，现在整体很凉爽。（还有个意外收获：隔壁鞋柜里拿出来的鞋子都是温热的，穿起来很舒服……）",
+      "contentHtml": "小机柜折腾完毕，分享一点经验\n\n1. 今天电信师傅来更换了 2000M 套餐的光猫。各家运营商的 2000M 光猫大多都是子母猫设计，而且厂家一般默认母猫放在弱电箱里，所以通常只有子猫带 2.5G 网口。好在这次电信师傅提前预判了我的需求，专门申请了一套母猫带 2.5G 网口的型号，这样就不用额外挂一个子猫了。有类似需求的朋友记得提前和师傅沟通一下。\n\n2. 我的柜体深度是 30cm，刚好够放星维派这款机柜，这个尺寸基本算是卡着上限，差不多刚刚好。不过像 UniFi Dream Machine 这种设备就会因为机身太深而装不进去。（一开始还专门定制了一堆日线短跳线，好好整理下走线，结果发现面板加上网线尾巴之后门根本关不上……最后只能重新买了一批超小水晶头网线替代，可惜只有黑色。）\n\n3. 所有房间的吊顶检修口都预留了两根网线：一根接 AP，一根接小米网关，全部走 PoE 供电。（小米网关本身不支持 PoE，需要额外加一个分离器。）\n\n4. 工作室和客厅电视柜都预留了成品光纤，双 LC 接头，OM4 规格，最高可支持到 100Gbps。\n\n5. 主路由依然是经典的 MikroTik RB5009（没用 UniFi 主要还是因为不支持 Full Cone），不过这东西的 2.5GBase-T 协商经常会出点问题，今天换了光猫又不认，被迫用 SFP+ 去接光猫。\n\n6. Mac mini 上挂了一个 ZTE F50，作为 Surge Ponte 热备。这样不在家时如果主线路断网，还能连回去看看是什么情况。旁边的小屏幕主要用于重启时登录。\n\n7. UniFi Switch XG 6 PoE 的风扇实在太吵，被我拆掉之后又定制了一块超大散热片贴在顶部。用了很多年，目前表现一直很稳定。\n\n8. 侧边这台主机还是很多年前装的 HomeLab PC，MATX 规格。除了偶尔会死机重启之外，整体运行一直很稳定（大概每年不超过两次）。23 年买的 5 块国产 4TB SSD 到现在也全部正常（现在价格已经翻了 5 倍）。目前跑着 Proxmox VE，承载 NAS 和各种服务。\n\n9. 很多人关心散热问题。首先柜门做了百叶设计，但单靠这个确实不够，所以我又在机箱前面板加了一把高性能风扇负责进风，机箱顶部风扇向上排风，再立了一把猫扇往外吹，形成完整的散热风道，现在整体很凉爽。（还有个意外收获：隔壁鞋柜里拿出来的鞋子都是温热的，穿起来很舒服……）",
+      "publishedAt": "2026-05-30T14:22:00.000Z",
+      "link": "https://x.com/Blankwonder/status/2060728624114958526",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HJkmF48awAAqY7-.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
       },
       "stats": {
         "replies": 0,
@@ -6196,6 +6637,25 @@
           "url": "https://pbs.twimg.com/media/HJjMhi8bgAEJMxr.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2060621480208355415",
+      "username": "jukan05",
+      "displayName": "Jukan @COMPUTEX",
+      "avatar": "https://pbs.twimg.com/profile_images/2037840794992988160/tnSqJgqt_bigger.jpg",
+      "content": "What should we take away from Dell's earnings — and what upside is left for the company?\n\nFirst: Dell delivered tremendous growth in general-purpose servers.\n\nAs we've argued all along, agentic AI is a tailwind for general-purpose servers. The growing importance of the CPU naturally raises the importance of CPU servers — that is, general-purpose servers. On top of that, general-purpose servers are built largely from pre-existing, mostly commoditized components and are free from NVIDIA's involvement, which gives them far higher margins than GPU servers.\n\nHere's my thesis: agentic AI is real. And traditional general-purpose server leaders like Dell stand to benefit just as much as the CPU makers.\n\nSecond: Dell is holding up better than expected in PCs.\n\nTier-2 and tier-3 players like ASUS and Xiaomi have been blustering that their LTAs leave them reasonably well defended against the memory crunch. Tier-1 vendors like Dell, by contrast, genuinely appear to have priority in securing memory. They also hold a relative advantage in the B2B market, which gives them some room to pass costs through. Quite a few analysts seem to have underappreciated this. And even if the PC market carries unexpected downside, I'd argue general-purpose servers will more than make up for it.\n\nThird: upside from NVIDIA's next chip.\n\nIf NVIDIA's N1/N1X establishes a real foothold in WoA, this isn't merely a case of one more chip supplier entering the market — it opens up an additional architectural path for the PC. That rattles Intel and AMD's defensive line while, at the same time, representing meaningful upside for OEMs like Dell. Once Lenovo, Dell, HP, and ASUS hold an NVIDIA Arm SoC as an option, they can use it to pressure Intel and AMD on CPU pricing and platform subsidies. In a PC downturn like the current one, that could prove to be unexpected upside — though, of course, it all hinges on the forthcoming Agentic Windows on Arm actually delivering.\n\n$DELL",
+      "contentHtml": "What should we take away from Dell's earnings — and what upside is left for the company?\n\nFirst: Dell delivered tremendous growth in general-purpose servers.\n\nAs we've argued all along, agentic AI is a tailwind for general-purpose servers. The growing importance of the CPU naturally raises the importance of CPU servers — that is, general-purpose servers. On top of that, general-purpose servers are built largely from pre-existing, mostly commoditized components and are free from NVIDIA's involvement, which gives them far higher margins than GPU servers.\n\nHere's my thesis: agentic AI is real. And traditional general-purpose server leaders like Dell stand to benefit just as much as the CPU makers.\n\nSecond: Dell is holding up better than expected in PCs.\n\nTier-2 and tier-3 players like ASUS and Xiaomi have been blustering that their LTAs leave them reasonably well defended against the memory crunch. Tier-1 vendors like Dell, by contrast, genuinely appear to have priority in securing memory. They also hold a relative advantage in the B2B market, which gives them some room to pass costs through. Quite a few analysts seem to have underappreciated this. And even if the PC market carries unexpected downside, I'd argue general-purpose servers will more than make up for it.\n\nThird: upside from NVIDIA's next chip.\n\nIf NVIDIA's N1/N1X establishes a real foothold in WoA, this isn't merely a case of one more chip supplier entering the market — it opens up an additional architectural path for the PC. That rattles Intel and AMD's defensive line while, at the same time, representing meaningful upside for OEMs like Dell. Once Lenovo, Dell, HP, and ASUS hold an NVIDIA Arm SoC as an option, they can use it to pressure Intel and AMD on CPU pricing and platform subsidies. In a PC downturn like the current one, that could prove to be unexpected upside — though, of course, it all hinges on the forthcoming Agentic Windows on Arm actually delivering.\n\n<a href=\"/search?f=tweets&q=%23DELL\">$DELL</a>",
+      "publishedAt": "2026-05-30T07:17:00.000Z",
+      "link": "https://x.com/jukan05/status/2060621480208355415",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -8287,6 +8747,32 @@
       "contentHtml": "不怕告诉你们，我在3月30日抄底的SOXL和SNXX，看看现在📈多少了！",
       "publishedAt": "2026-05-28T19:07:00.000Z",
       "link": "https://x.com/TJ_Research/status/2060075553470779849",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2060069144117105140",
+      "username": "theobjectivist",
+      "displayName": "The Rational Animal 🤔",
+      "avatar": "https://pbs.twimg.com/profile_images/1993173930698481664/3G0PfSmu_bigger.jpg",
+      "content": "\"Fair share\" - the phrase every looter uses when he wants what he didn't earn.\n\nYou call them \"oligarchs\" while proposing to seize 5% of their wealth by force. Who is the one wielding state power here, Senator?\n\nYou just proposed a moratorium on AI data centers - literally trying to freeze the most productive technology of our era. How many jobs, how much wealth, how much human progress does YOUR agenda cost Americans? No one tallies that bill.\n\nCalifornia's billionaires are already fleeing to Nevada. The Hoover Institution estimates this tax will cost the state $25 billion net. You would destroy the golden goose and then call it justice while ignoring the price paid in blood, sweat and tears because of your policies.\n\n\"The people want it\" - 54% voting to confiscate another man's property doesn't make it right. Two wolves and a sheep voting on dinner is not moral governance. Rights are not subject to majority rule. That is why we are a republic.\n\nYou have spent decades producing nothing, creating nothing, building nothing - while demanding an ever-larger share of what others build. That is not fairness. It is the plunder of a man who knows too little.",
+      "contentHtml": "\"Fair share\" - the phrase every looter uses when he wants what he didn't earn.\n\nYou call them \"oligarchs\" while proposing to seize 5% of their wealth by force. Who is the one wielding state power here, Senator?\n\nYou just proposed a moratorium on AI data centers - literally trying to freeze the most productive technology of our era. How many jobs, how much wealth, how much human progress does YOUR agenda cost Americans? No one tallies that bill.\n\nCalifornia's billionaires are already fleeing to Nevada. The Hoover Institution estimates this tax will cost the state $25 billion net. You would destroy the golden goose and then call it justice while ignoring the price paid in blood, sweat and tears because of your policies.\n\n\"The people want it\" - 54% voting to confiscate another man's property doesn't make it right. Two wolves and a sheep voting on dinner is not moral governance. Rights are not subject to majority rule. That is why we are a republic.\n\nYou have spent decades producing nothing, creating nothing, building nothing - while demanding an ever-larger share of what others build. That is not fairness. It is the plunder of a man who knows too little.",
+      "publishedAt": "2026-05-28T18:42:00.000Z",
+      "link": "https://x.com/theobjectivist/status/2060069144117105140",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "BernieSanders",
+        "displayName": "Bernie Sanders",
+        "content": "The oligarchs in CA are spending huge amounts to defeat a union-backed billionaire wealth tax.  \n\nThe Republican establishment is in a frenzy and few Democratic leaders support it. \n\nYet a new poll has it winning 54-45. The people want the rich to start paying their fair share.",
+        "contentHtml": "The oligarchs in CA are spending huge amounts to defeat a union-backed billionaire wealth tax.  \n\nThe Republican establishment is in a frenzy and few Democratic leaders support it. \n\nYet a new poll has it winning 54-45. The people want the rich to start paying their fair share.",
+        "link": "https://x.com/BernieSanders/status/2060054080530067766"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11703,340 +12189,6 @@
         "content": "24年看你的推文20多入了pltr，25年初关税战期间买了小火箭，半年后看你同车了，我就知道这又一个十倍股稳了。🥰",
         "contentHtml": "24年看你的推文20多入了pltr，25年初关税战期间买了小火箭，半年后看你同车了，我就知道这又一个十倍股稳了。🥰",
         "link": "https://x.com/exhuhu/status/2059287350614888842"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059288249181389165",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "$BTC \n\nPick your poison.\n\nThe monthly close will either establish a local top or a local bottom.\n\nThe approach is simple, read the prevailing narrative, then position against it.\n\nRight now, it’s still a bit early to confidently call a pivot high/low. But as we get closer to the monthly close and more price action develops, the picture should become clearer on what’s likely to happen next.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nPick your poison.\n\nThe monthly close will either establish a local top or a local bottom.\n\nThe approach is simple, read the prevailing narrative, then position against it.\n\nRight now, it’s still a bit early to confidently call a pivot high/low. But as we get closer to the monthly close and more price action develops, the picture should become clearer on what’s likely to happen next.",
-      "publishedAt": "2026-05-26T14:59:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2059288249181389165",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJQO419WkAAiNG8.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059287949221527900",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#直播总结 #hype #zec #美股 #BTC\n\n我现在用AI越来越多了，每次直播的AI总结，省掉了很多我手打的分析，时间效率上有很大的提升\n\n对于加密\n“一个星期过去了，比特币跌了0.43%，你怎么挣钱?\n确实很难\n\n还好大部分精力都放在了美股",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23直播总结\">#直播总结</a> <a href=\"/search?f=tweets&q=%23hype\">#hype</a> <a href=\"/search?f=tweets&q=%23zec\">#zec</a> <a href=\"/search?f=tweets&q=%23美股\">#美股</a> <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a>\n\n我现在用AI越来越多了，每次直播的AI总结，省掉了很多我手打的分析，时间效率上有很大的提升\n\n对于加密\n“一个星期过去了，比特币跌了0.43%，你怎么挣钱?\n确实很难\n\n还好大部分精力都放在了美股",
-      "publishedAt": "2026-05-26T14:58:00.000Z",
-      "link": "https://x.com/dongbimao/status/2059287949221527900",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJQPDuqX0AALAx6.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059288190398386421",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "刚才这一根是ibit有大哥受不了了市价砸盘割肉了13亿刀",
-      "contentHtml": "刚才这一根是ibit有大哥受不了了市价砸盘割肉了13亿刀",
-      "publishedAt": "2026-05-26T14:58:00.000Z",
-      "link": "https://x.com/hazenlee/status/2059288190398386421",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJQPsM5acAACjV7.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059281142855958797",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#BTC \n\n比特币突破78000\n如果此时我拿出比特币的多单说明什么",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> \n\n比特币突破78000\n如果此时我拿出比特币的多单说明什么",
-      "publishedAt": "2026-05-26T14:30:00.000Z",
-      "link": "https://x.com/dongbimao/status/2059281142855958797",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJQI68zWsAEhvqh.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059280701376389577",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "今晚太空经济板块集体爆发，正好一周前聊到太空经济板块关注度从龙头往二线扩散，去年底开始Call太空经济板块。4月初这里nitter.net/qinbafrank/status/2041…还专门聊到：这五家公司共同受益2026太空经济爆发：RKLB/LUNR侧重发射/着陆基础设施，RDW提供底层部件，ASTS/PL专注通信与观测应用，互补形成完整产业链闭环，值得关注。到现在基本上都翻倍了",
-      "contentHtml": "今晚太空经济板块集体爆发，正好一周前聊到太空经济板块关注度从龙头往二线扩散，去年底开始Call太空经济板块。4月初这里<a href=\"https://nitter.net/qinbafrank/status/2041101310179873226?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2041…</a>还专门聊到：这五家公司共同受益2026太空经济爆发：RKLB/LUNR侧重发射/着陆基础设施，RDW提供底层部件，ASTS/PL专注通信与观测应用，互补形成完整产业链闭环，值得关注。到现在基本上都翻倍了",
-      "publishedAt": "2026-05-26T14:29:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2059280701376389577",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJQIo8FbgAAvK15.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJQIo8JaAAA1Who.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "昨天市场最亮眼应该就是太空经济板块，都在调整反倒太空经济再往上走。还是4月初聊到的逻辑兑现：25年太空经济已完成技术破局与基础设施铺垫（发射频次、星座部署），26年则是“强弱分野、格局初定”的验证年。太空经济不再仅依赖政府合同，而是形成自循环：低成本发射 → 海量卫星 → 丰富数据/服务 → 新商业模式（如太空数据中心、零重力制造）→ 更多投资与应用。\n\n然后5月上旬RKLB用了一份非常优秀的财报nitter.net/qinbafrank/status/2052…验证了业务正在爆发。本周spacex要披露IPO文件，基本上未来一两个月太空经济都是非常受关注的板块。\n\n而且明显关注度从龙头往二线扩散。",
-        "contentHtml": "昨天市场最亮眼应该就是太空经济板块，都在调整反倒太空经济再往上走。还是4月初聊到的逻辑兑现：25年太空经济已完成技术破局与基础设施铺垫（发射频次、星座部署），26年则是“强弱分野、格局初定”的验证年。太空经济不再仅依赖政府合同，而是形成自循环：低成本发射 → 海量卫星 → 丰富数据/服务 → 新商业模式（如太空数据中心、零重力制造）→ 更多投资与应用。\n\n然后5月上旬RKLB用了一份非常优秀的财报<a href=\"https://nitter.net/qinbafrank/status/2052759972669424085?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2052…</a>验证了业务正在爆发。本周spacex要披露IPO文件，基本上未来一两个月太空经济都是非常受关注的板块。\n\n而且明显关注度从龙头往二线扩散。",
-        "link": "https://x.com/qinbafrank/status/2056644227736682924",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIqrBfMasAAxxYJ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059272230539022690",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "杀疯了，20 天做多美光浮盈 620 万美元🤩\n\n地址 0x577…95fd2 在 05.06-05.08 期间以均价 $575.25 开设了 22,188.647 $MU 的 3x 多单（现价 $852.71），价值 1888 万美元，现已成为 Hyperliquid MU 浮盈 TOP1 的地址\n\n要不怎么都跑去炒美股了呢，这印钞速度…\n\n传送门 👉 d.pro/portfolio/0x577ae91c7b…",
-      "contentHtml": "杀疯了，20 天做多美光浮盈 620 万美元🤩\n\n地址 0x577…95fd2 在 05.06-05.08 期间以均价 $575.25 开设了 22,188.647 <a href=\"/search?f=tweets&q=%23MU\">$MU</a> 的 3x 多单（现价 $852.71），价值 1888 万美元，现已成为 Hyperliquid MU 浮盈 TOP1 的地址\n\n要不怎么都跑去炒美股了呢，这印钞速度…\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0x577ae91c7b74f04ddb3a5b399ded8318e9895fd2\">d.pro/portfolio/0x577ae91c7b…</a>",
-      "publishedAt": "2026-05-26T13:55:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2059272230539022690",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJQBIdXb0AAvE-E.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059268073539162453",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
-      "content": "Brilliant people in beautiful places.",
-      "contentHtml": "Brilliant people in beautiful places.",
-      "publishedAt": "2026-05-26T13:39:00.000Z",
-      "link": "https://x.com/naval/status/2059268073539162453",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059267044793778410",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "好跌 利好小米",
-      "contentHtml": "好跌 利好小米",
-      "publishedAt": "2026-05-26T13:34:00.000Z",
-      "link": "https://x.com/hazenlee/status/2059267044793778410",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJP8dLLaoAAlSHE.jpg"
-        }
-      ],
-      "quote": {
-        "username": "KobeissiLetter",
-        "displayName": "The Kobeissi Letter",
-        "content": "BREAKING: Ferrari stock, $RACE, falls over -7% after revealing the design of its first electric vehicle.",
-        "contentHtml": "BREAKING: Ferrari stock, <a href=\"/search?f=tweets&q=%23RACE\">$RACE</a>, falls over -7% after revealing the design of its first electric vehicle.",
-        "link": "https://x.com/KobeissiLetter/status/2059239373204234386",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJPjTAlXgAE6BzK.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJPjTAeWUAAYL_G.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059267009427447983",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
-      "content": "The new competition isn’t Humans vs AI. It’s Humans with AI vs everyone else.",
-      "contentHtml": "The new competition isn’t Humans vs AI. It’s Humans with AI vs everyone else.",
-      "publishedAt": "2026-05-26T13:34:00.000Z",
-      "link": "https://x.com/naval/status/2059267009427447983",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059258148041711663",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "？",
-      "contentHtml": "？",
-      "publishedAt": "2026-05-26T12:59:00.000Z",
-      "link": "https://x.com/hazenlee/status/2059258148041711663",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059251687324348439",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "GM ☕️",
-      "contentHtml": "GM ☕️",
-      "publishedAt": "2026-05-26T12:33:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2059251687324348439",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059241509409771610",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "真实承诺又要来了吗…\n你俩要不别谈了还给人希望\n毁灭吧累了",
-      "contentHtml": "真实承诺又要来了吗…\n你俩要不别谈了还给人希望\n毁灭吧累了",
-      "publishedAt": "2026-05-26T11:53:00.000Z",
-      "link": "https://x.com/hazenlee/status/2059241509409771610",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJPlPATbcAAUk3s.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059239990878736776",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "RWA 这条赛道现在很热，但我更关心一个问题：\n链上的“美股”，背后到底有没有真实资产？\n\n这次 Bitget 上线 Reality，我觉得值得看一下。\n\nReality 是 Bitget 旗下的合规 RWA 发行平台，简单说，就是把美股这类传统资产做成代币化产品，让用户可以用稳定币参与交易。\n\n它比较关键的地方，不是“又发了一个概念”，而是底层结构相对清楚：\n\n发行方 Parsa Financial Services 持有南非 FSCA 牌照；\n底层资产由 FINRA 注册经纪商独立托管；\n对应证券在 DTCC 登记；\n储备由第三方 CPA 事务所定期核验，保持 100% 以上储备。\n\n这对 RWA 来说很重要。\n\n因为这个赛道最大的信任问题，不是能不能上链，而是链下资产到底在不在、够不够、谁来管。\n\n交易体验上，Reality 也更接近加密用户的习惯：\n稳定币参与，不用传统券商账户；\n支持 24/5 交易；\n底层直连纳斯达克和纽交所流动性；\n代币化股票还能进一步提升资金使用效率。\n\n美股总市值已经是 125 万亿美元级别，但代币化股票渗透率还只有 0.01%。\n所以这件事并不是简单做一个“链上美股”，而是在把传统资产接入加密市场的交易体系。\n\nReality 的意义在于：\n它把真实证券、合规托管、链上交易和稳定币入口放到了一起。\n\nRWA 最后拼的不是口号，而是谁能把资产真实性、合规透明度和交易体验同时做好。\n\n这可能才是代币化股票真正走向主流的开始。",
-      "contentHtml": "RWA 这条赛道现在很热，但我更关心一个问题：\n链上的“美股”，背后到底有没有真实资产？\n\n这次 Bitget 上线 Reality，我觉得值得看一下。\n\nReality 是 Bitget 旗下的合规 RWA 发行平台，简单说，就是把美股这类传统资产做成代币化产品，让用户可以用稳定币参与交易。\n\n它比较关键的地方，不是“又发了一个概念”，而是底层结构相对清楚：\n\n发行方 Parsa Financial Services 持有南非 FSCA 牌照；\n底层资产由 FINRA 注册经纪商独立托管；\n对应证券在 DTCC 登记；\n储备由第三方 CPA 事务所定期核验，保持 100% 以上储备。\n\n这对 RWA 来说很重要。\n\n因为这个赛道最大的信任问题，不是能不能上链，而是链下资产到底在不在、够不够、谁来管。\n\n交易体验上，Reality 也更接近加密用户的习惯：\n稳定币参与，不用传统券商账户；\n支持 24/5 交易；\n底层直连纳斯达克和纽交所流动性；\n代币化股票还能进一步提升资金使用效率。\n\n美股总市值已经是 125 万亿美元级别，但代币化股票渗透率还只有 0.01%。\n所以这件事并不是简单做一个“链上美股”，而是在把传统资产接入加密市场的交易体系。\n\nReality 的意义在于：\n它把真实证券、合规托管、链上交易和稳定币入口放到了一起。\n\nRWA 最后拼的不是口号，而是谁能把资产真实性、合规透明度和交易体验同时做好。\n\n这可能才是代币化股票真正走向主流的开始。",
-      "publishedAt": "2026-05-26T11:47:00.000Z",
-      "link": "https://x.com/hazenlee/status/2059239990878736776",
-      "quote": {
-        "username": "RealityFi_xyz",
-        "displayName": "Reality",
-        "content": "x.com/i/article/205916294354…",
-        "contentHtml": "<a href=\"http://x.com/i/article/2059162943548497920\">x.com/i/article/205916294354…</a>",
-        "link": "https://x.com/RealityFi_xyz/status/2059213289691979858"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059232201145983380",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "来啦家人萌",
-      "contentHtml": "来啦家人萌",
-      "publishedAt": "2026-05-26T11:16:00.000Z",
-      "link": "https://x.com/hazenlee/status/2059232201145983380",
-      "quote": {
-        "username": "MSX_CN",
-        "displayName": "麦通MSX",
-        "content": "🎙️ 麦通 MSX Space｜链上美股 × 星辰大海\n监管格局演变之下，MSX 与 SpaceX 史诗 IPO 共赴星途\n\n⏳ 5/27（周三）20:00｜UTC+8\n\n🔥 我们聊什么：\n1）链上美股对比传统券商，体验上最大的差异在哪里\n2）监管收紧之下，链上美股扮演什么角色\n3）短期和长期来看，链上美股的发展趋势会怎么走\n4）SpaceX招股书最值得关注的信号是什么\n5）SpaceX上市后，太空产业链标的是被带飞还是被抽血\n6）太空经济能不能成为下一个万亿级赛道\n7）太空叙事的标准是什么\n\n👑 主办方： @MSX_CN\n\n🎤 嘉宾阵容：\nUNICORN @UnicornBitcoin\nCato_KT @Cato_KT\n𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀 @hazenlee\nMSX_Mike @msxmike21719\n\n🎙 主持人：\nMSX景宝 @Jing_MSX\n\n🔔 预约与收听：\nnitter.net/i/spaces/1yxBeeP…\n\n#麦通 #MSX #宏观 #美股 #链上美股用麦通 #MSX美股知识大学习 #SpaceX #IPO",
-        "contentHtml": "🎙️ 麦通 MSX Space｜链上美股 × 星辰大海\n监管格局演变之下，MSX 与 SpaceX 史诗 IPO 共赴星途\n\n⏳ 5/27（周三）20:00｜UTC+8\n\n🔥 我们聊什么：\n1）链上美股对比传统券商，体验上最大的差异在哪里\n2）监管收紧之下，链上美股扮演什么角色\n3）短期和长期来看，链上美股的发展趋势会怎么走\n4）SpaceX招股书最值得关注的信号是什么\n5）SpaceX上市后，太空产业链标的是被带飞还是被抽血\n6）太空经济能不能成为下一个万亿级赛道\n7）太空叙事的标准是什么\n\n👑 主办方： <a href=\"/MSX_CN\" title=\"麦通MSX\">@MSX_CN</a>\n\n🎤 嘉宾阵容：\nUNICORN <a href=\"/UnicornBitcoin\" title=\"UNICORN⚡️🦄\">@UnicornBitcoin</a>\nCato_KT <a href=\"/Cato_KT\" title=\"Cato_KT\">@Cato_KT</a>\n𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀 <a href=\"/hazenlee\" title=\"𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀\">@hazenlee</a>\nMSX_Mike <a href=\"/msxmike21719\" title=\"MSX_Mike\">@msxmike21719</a>\n\n🎙 主持人：\nMSX景宝 <a href=\"/Jing_MSX\" title=\"MSX景宝✨\">@Jing_MSX</a>\n\n🔔 预约与收听：\n<a href=\"https://nitter.net/i/spaces/1yxBeePVEeOJN\">nitter.net/i/spaces/1yxBeeP…</a>\n\n<a href=\"/search?f=tweets&q=%23麦通\">#麦通</a> <a href=\"/search?f=tweets&q=%23MSX\">#MSX</a> <a href=\"/search?f=tweets&q=%23宏观\">#宏观</a> <a href=\"/search?f=tweets&q=%23美股\">#美股</a> <a href=\"/search?f=tweets&q=%23链上美股用麦通\">#链上美股用麦通</a> <a href=\"/search?f=tweets&q=%23MSX美股知识大学习\">#MSX美股知识大学习</a> <a href=\"/search?f=tweets&q=%23SpaceX\">#SpaceX</a> <a href=\"/search?f=tweets&q=%23IPO\">#IPO</a>",
-        "link": "https://x.com/MSX_CN/status/2059212953371672920",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJO8xreaQAAV0dy.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059231936690999414",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "又看到有朋友们用物理模型理解交易了\n写得不错分享一下",
-      "contentHtml": "又看到有朋友们用物理模型理解交易了\n写得不错分享一下",
-      "publishedAt": "2026-05-26T11:15:00.000Z",
-      "link": "https://x.com/hazenlee/status/2059231936690999414",
-      "quote": {
-        "username": "hj82272",
-        "displayName": "Alpha李研",
-        "content": "我交易多年最大的感悟：趋势，就是市场的加速度。\n\n交易越久，我越明白一个最通透的真相：股票的趋势运动，和物理学的加速度原理，完全一模一样。\n\n一只股票到底能涨多快、走多远、延续多久、爆发力多强，从来不是单一因素决定的，而是质量、速度、加速度三者共同作用的结果。\n\n资金，就是物体的质量。\n\n体量越大、进场资金越厚重、主力筹码越集中，这只股的\"质量\"就越重。\n\n质量越大，惯性越强。一旦启动，行情就很难轻易停下来，不会被小幅抛压砸崩，具备持续走趋势的底层动能。\n\n股价上涨的速度，就是行情的进攻速度。\n\n速度代表当下多头的强弱、资金的攻击欲望、市场的跟风情绪。\n\n进攻速度越快，说明资金抢筹越猛烈、做多一致性越强，短期爆发力越极致。\n\n而趋势本身，就是市场的加速度。\n\n普通的涨跌是匀速波动，趋势行情是加速运动。\n\n趋势向上，就是多头力量持续大于空头，动能不断叠加，行情越走越强；\n\n趋势向下，就是空头力量持续释放，重心不断下移，下跌不断加速。\n\n很多人纠结高低点、猜顶猜底，本质上是不懂这套逻辑。\n\n市场是动态变量，不是静态公式。\n\n没有任何人能精准预判一只票最终能涨多高、涨多久。\n\n因为资金会变、情绪会变、筹码会变、市场环境会变。\n\n它没有固定终点，没有固定涨幅，完全是动态加速度的延续过程。\n\n我们做趋势交易，根本不是去预测目标价位。\n\n我们只做一件事：跟随加速度。\n\n加速度在，趋势就在，行情就会延续；\n\n加速度减弱、动能衰减、速度放缓，趋势就会减速、震荡、终结。\n\n资金定质量，价格定速度，趋势定加速度。\n\n看懂这三者，你就看懂了整个市场的涨跌本质。\n\n所谓趋势交易，\n\n不靠预判、不靠猜测、不靠感觉。\n\n只跟随资金质量，追随价格速度，持有趋势加速度。\n\n只要加速结构没坏，就坚定持有；\n\n一旦动能衰减、加速终结，就果断离场。\n\n这就是我多年交易，悟透的最顶级的趋势真相。",
-        "contentHtml": "我交易多年最大的感悟：趋势，就是市场的加速度。\n\n交易越久，我越明白一个最通透的真相：股票的趋势运动，和物理学的加速度原理，完全一模一样。\n\n一只股票到底能涨多快、走多远、延续多久、爆发力多强，从来不是单一因素决定的，而是质量、速度、加速度三者共同作用的结果。\n\n资金，就是物体的质量。\n\n体量越大、进场资金越厚重、主力筹码越集中，这只股的\"质量\"就越重。\n\n质量越大，惯性越强。一旦启动，行情就很难轻易停下来，不会被小幅抛压砸崩，具备持续走趋势的底层动能。\n\n股价上涨的速度，就是行情的进攻速度。\n\n速度代表当下多头的强弱、资金的攻击欲望、市场的跟风情绪。\n\n进攻速度越快，说明资金抢筹越猛烈、做多一致性越强，短期爆发力越极致。\n\n而趋势本身，就是市场的加速度。\n\n普通的涨跌是匀速波动，趋势行情是加速运动。\n\n趋势向上，就是多头力量持续大于空头，动能不断叠加，行情越走越强；\n\n趋势向下，就是空头力量持续释放，重心不断下移，下跌不断加速。\n\n很多人纠结高低点、猜顶猜底，本质上是不懂这套逻辑。\n\n市场是动态变量，不是静态公式。\n\n没有任何人能精准预判一只票最终能涨多高、涨多久。\n\n因为资金会变、情绪会变、筹码会变、市场环境会变。\n\n它没有固定终点，没有固定涨幅，完全是动态加速度的延续过程。\n\n我们做趋势交易，根本不是去预测目标价位。\n\n我们只做一件事：跟随加速度。\n\n加速度在，趋势就在，行情就会延续；\n\n加速度减弱、动能衰减、速度放缓，趋势就会减速、震荡、终结。\n\n资金定质量，价格定速度，趋势定加速度。\n\n看懂这三者，你就看懂了整个市场的涨跌本质。\n\n所谓趋势交易，\n\n不靠预判、不靠猜测、不靠感觉。\n\n只跟随资金质量，追随价格速度，持有趋势加速度。\n\n只要加速结构没坏，就坚定持有；\n\n一旦动能衰减、加速终结，就果断离场。\n\n这就是我多年交易，悟透的最顶级的趋势真相。",
-        "link": "https://x.com/hj82272/status/2059098352533512468"
       },
       "stats": {
         "replies": 0,
