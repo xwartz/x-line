@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T05:12:06.072Z",
+  "lastUpdated": "2026-06-03T07:26:01.615Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -99,10 +99,10 @@
     }
   ],
   "stats": {
-    "total": 500,
-    "newFetched": 589,
-    "successUsers": 29,
-    "failedUsers": 1
+    "total": 493,
+    "newFetched": 0,
+    "successUsers": 0,
+    "failedUsers": 30
   },
   "tweets": [
     {
@@ -886,25 +886,6 @@
       }
     },
     {
-      "id": "2061905825573327281",
-      "username": "spencerpratt",
-      "displayName": "Spencer Pratt",
-      "avatar": "https://pbs.twimg.com/profile_images/2043484616439595008/HNMqir29_bigger.jpg",
-      "content": "If you don't vote, I don't want to hear you ever complain about any of the filth, crime, or decline in LA again. Get off your butt and VOTE, or enjoy what you get.",
-      "contentHtml": "If you don't vote, I don't want to hear you ever complain about any of the filth, crime, or decline in LA again. Get off your butt and VOTE, or enjoy what you get.",
-      "publishedAt": "2026-06-02T20:20:00.000Z",
-      "link": "https://x.com/spencerpratt/status/2061905825573327281",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2061900680219042040",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -1078,32 +1059,6 @@
       }
     },
     {
-      "id": "2061831535561675224",
-      "username": "perryyeh",
-      "displayName": "叶子",
-      "avatar": "https://pbs.twimg.com/profile_images/1761754549440909312/-Lj6hv-J_bigger.jpg",
-      "content": "终于有人理清上下文了\n\n之前在v2ex上多次见过讨论nas的帖子里有宣传\n\n然后x上不想看直接 b的",
-      "contentHtml": "终于有人理清上下文了\n\n之前在v2ex上多次见过讨论nas的帖子里有宣传\n\n然后x上不想看直接 b的",
-      "publishedAt": "2026-06-02T15:25:00.000Z",
-      "link": "https://x.com/perryyeh/status/2061831535561675224",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "quote": {
-        "username": "yuhsiangtuan",
-        "displayName": "Edwin Tuan",
-        "content": "抱歉我要没脸没皮地蹭一下 @manateelazycat 和 @gloridust1024 的流量，但是作为一位开发者，我想有这个必要帮助概括和定调：\n按Tweets时间顺序：\n1. @gloridust1024 发布了github.com/Gloridust/WechatO… 相关内容同时at懒猫微服CEO表示有部分idea受其商业产品启发。\n\n2. @manateelazycat 即刻表示这是赤裸裸的抄袭，言辞激烈，声称已然侵犯其版权，并要求其在README.md加上致辞。\n我认为王勇是自取其辱，首先版权并不保护idea，只在乎具体呈现，遂问及其具体代码实现:\n\n3. @manateelazycat 在评论区曝露出其两年前（时间属实）在Github发布的云上IM方案：github.com/whoamihappyhackin… , 大概是讲 @gloridust1024 抄袭了这部分代码。\n可是大家去看一下这个代码，只有寥寥几个stars，如果不是CEO自己发出来，恐怕没人知道。\n再者，这个代码具体的实现，就是直接用了知名的容器化桌面方案 KasmVNC+apt get下载微信+几行自启动命令，根本就是个启动脚本，代码也就几十行，怎么好意思讲版权？？？\n\n反过来看WechatOnCloud，同样基于KasmVNC，但是有一整套自研的托管平台。孰优孰劣？\nDocker + KasmVNC 的idea成了懒猫微服的专利？你的仓库上也没写对KasmVNC的致辞啊。\n\n更令人愤怒的是，KasmVNC基于GPL-2.0 license是禁止分发的，而王勇恬不知耻地把它用作商业宣传的噱头，底线切换自由，对人对己双重标准，堪比华为的流氓营销手段，还经常污染网络环境，被群起而攻之，很正常。\n\n依照之前我们熟知的几个微信数据库破解软件被处置的经验，随着事情发酵，腾讯一定会先起诉懒猫微服，而不是懒猫微服起诉Ethan Zou。\n奉劝懒猫微服即刻下架微信功能以防被腾讯起诉。",
-        "contentHtml": "抱歉我要没脸没皮地蹭一下 <a href=\"/manateelazycat\" title=\"Andy Stewart\">@manateelazycat</a> 和 <a href=\"/gloridust1024\" title=\"Ethan Zou\">@gloridust1024</a> 的流量，但是作为一位开发者，我想有这个必要帮助概括和定调：\n按Tweets时间顺序：\n1. <a href=\"/gloridust1024\" title=\"Ethan Zou\">@gloridust1024</a> 发布了<a href=\"https://github.com/Gloridust/WechatOnCloud\">github.com/Gloridust/WechatO…</a> 相关内容同时at懒猫微服CEO表示有部分idea受其商业产品启发。\n\n2. <a href=\"/manateelazycat\" title=\"Andy Stewart\">@manateelazycat</a> 即刻表示这是赤裸裸的抄袭，言辞激烈，声称已然侵犯其版权，并要求其在README.md加上致辞。\n我认为王勇是自取其辱，首先版权并不保护idea，只在乎具体呈现，遂问及其具体代码实现:\n\n3. <a href=\"/manateelazycat\" title=\"Andy Stewart\">@manateelazycat</a> 在评论区曝露出其两年前（时间属实）在Github发布的云上IM方案：<a href=\"https://github.com/whoamihappyhacking/lzc-im-all-in-one\">github.com/whoamihappyhackin…</a> , 大概是讲 <a href=\"/gloridust1024\" title=\"Ethan Zou\">@gloridust1024</a> 抄袭了这部分代码。\n可是大家去看一下这个代码，只有寥寥几个stars，如果不是CEO自己发出来，恐怕没人知道。\n再者，这个代码具体的实现，就是直接用了知名的容器化桌面方案 KasmVNC+apt get下载微信+几行自启动命令，根本就是个启动脚本，代码也就几十行，怎么好意思讲版权？？？\n\n反过来看WechatOnCloud，同样基于KasmVNC，但是有一整套自研的托管平台。孰优孰劣？\nDocker + KasmVNC 的idea成了懒猫微服的专利？你的仓库上也没写对KasmVNC的致辞啊。\n\n更令人愤怒的是，KasmVNC基于GPL-2.0 license是禁止分发的，而王勇恬不知耻地把它用作商业宣传的噱头，底线切换自由，对人对己双重标准，堪比华为的流氓营销手段，还经常污染网络环境，被群起而攻之，很正常。\n\n依照之前我们熟知的几个微信数据库破解软件被处置的经验，随着事情发酵，腾讯一定会先起诉懒猫微服，而不是懒猫微服起诉Ethan Zou。\n奉劝懒猫微服即刻下架微信功能以防被腾讯起诉。",
-        "link": "https://x.com/yuhsiangtuan/status/2061815123195695318"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2061818576621994076",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -1173,25 +1128,6 @@
             "url": "https://pbs.twimg.com/media/HIBKcjwXoAAoMXx.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061811334719701059",
-      "username": "JupiterExchange",
-      "displayName": "Jupiter",
-      "avatar": "https://pbs.twimg.com/profile_images/1944921381168099328/mVkHxhxy_bigger.jpg",
-      "content": "We’re hosting a $125,000 World Cup Challenge on @jup_predict\n\nIf you’re a FIFA World Cup 2026 fan, this one’s for you\n\nAll you need to do is correctly predict 5 matches\n\nThis isn’t one to miss. Here’s how to participate:",
-      "contentHtml": "We’re hosting a $125,000 World Cup Challenge on <a href=\"/jup_predict\" title=\"Jupiter Prediction Markets\">@jup_predict</a>\n\nIf you’re a FIFA World Cup 2026 fan, this one’s for you\n\nAll you need to do is correctly predict 5 matches\n\nThis isn’t one to miss. Here’s how to participate:",
-      "publishedAt": "2026-06-02T14:05:00.000Z",
-      "link": "https://x.com/JupiterExchange/status/2061811334719701059",
-      "retweet": {
-        "username": "0xSunNFT",
-        "displayName": "0xSun"
       },
       "stats": {
         "replies": 0,
@@ -5604,25 +5540,6 @@
       }
     },
     {
-      "id": "2060863647623340377",
-      "username": "nivi",
-      "displayName": "Nivi",
-      "avatar": "https://pbs.twimg.com/profile_images/54022207/Nivi_Favicon_bigger.jpg",
-      "content": "What people call the Singularity is the continuing victory of knowledge over the blind physical evolution of the universe.",
-      "contentHtml": "What people call the Singularity is the continuing victory of knowledge over the blind physical evolution of the universe.",
-      "publishedAt": "2026-05-30T23:19:00.000Z",
-      "link": "https://x.com/nivi/status/2060863647623340377",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2060836918737133601",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -5912,31 +5829,6 @@
             "url": "https://pbs.twimg.com/media/HJW_YA9WwAQsjK_.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060728624114958526",
-      "username": "Blankwonder",
-      "displayName": "Yachen Liu",
-      "avatar": "https://pbs.twimg.com/profile_images/1769760069393281024/vESyD2hO_bigger.jpg",
-      "content": "小机柜折腾完毕，分享一点经验\n\n1. 今天电信师傅来更换了 2000M 套餐的光猫。各家运营商的 2000M 光猫大多都是子母猫设计，而且厂家一般默认母猫放在弱电箱里，所以通常只有子猫带 2.5G 网口。好在这次电信师傅提前预判了我的需求，专门申请了一套母猫带 2.5G 网口的型号，这样就不用额外挂一个子猫了。有类似需求的朋友记得提前和师傅沟通一下。\n\n2. 我的柜体深度是 30cm，刚好够放星维派这款机柜，这个尺寸基本算是卡着上限，差不多刚刚好。不过像 UniFi Dream Machine 这种设备就会因为机身太深而装不进去。（一开始还专门定制了一堆日线短跳线，好好整理下走线，结果发现面板加上网线尾巴之后门根本关不上……最后只能重新买了一批超小水晶头网线替代，可惜只有黑色。）\n\n3. 所有房间的吊顶检修口都预留了两根网线：一根接 AP，一根接小米网关，全部走 PoE 供电。（小米网关本身不支持 PoE，需要额外加一个分离器。）\n\n4. 工作室和客厅电视柜都预留了成品光纤，双 LC 接头，OM4 规格，最高可支持到 100Gbps。\n\n5. 主路由依然是经典的 MikroTik RB5009（没用 UniFi 主要还是因为不支持 Full Cone），不过这东西的 2.5GBase-T 协商经常会出点问题，今天换了光猫又不认，被迫用 SFP+ 去接光猫。\n\n6. Mac mini 上挂了一个 ZTE F50，作为 Surge Ponte 热备。这样不在家时如果主线路断网，还能连回去看看是什么情况。旁边的小屏幕主要用于重启时登录。\n\n7. UniFi Switch XG 6 PoE 的风扇实在太吵，被我拆掉之后又定制了一块超大散热片贴在顶部。用了很多年，目前表现一直很稳定。\n\n8. 侧边这台主机还是很多年前装的 HomeLab PC，MATX 规格。除了偶尔会死机重启之外，整体运行一直很稳定（大概每年不超过两次）。23 年买的 5 块国产 4TB SSD 到现在也全部正常（现在价格已经翻了 5 倍）。目前跑着 Proxmox VE，承载 NAS 和各种服务。\n\n9. 很多人关心散热问题。首先柜门做了百叶设计，但单靠这个确实不够，所以我又在机箱前面板加了一把高性能风扇负责进风，机箱顶部风扇向上排风，再立了一把猫扇往外吹，形成完整的散热风道，现在整体很凉爽。（还有个意外收获：隔壁鞋柜里拿出来的鞋子都是温热的，穿起来很舒服……）",
-      "contentHtml": "小机柜折腾完毕，分享一点经验\n\n1. 今天电信师傅来更换了 2000M 套餐的光猫。各家运营商的 2000M 光猫大多都是子母猫设计，而且厂家一般默认母猫放在弱电箱里，所以通常只有子猫带 2.5G 网口。好在这次电信师傅提前预判了我的需求，专门申请了一套母猫带 2.5G 网口的型号，这样就不用额外挂一个子猫了。有类似需求的朋友记得提前和师傅沟通一下。\n\n2. 我的柜体深度是 30cm，刚好够放星维派这款机柜，这个尺寸基本算是卡着上限，差不多刚刚好。不过像 UniFi Dream Machine 这种设备就会因为机身太深而装不进去。（一开始还专门定制了一堆日线短跳线，好好整理下走线，结果发现面板加上网线尾巴之后门根本关不上……最后只能重新买了一批超小水晶头网线替代，可惜只有黑色。）\n\n3. 所有房间的吊顶检修口都预留了两根网线：一根接 AP，一根接小米网关，全部走 PoE 供电。（小米网关本身不支持 PoE，需要额外加一个分离器。）\n\n4. 工作室和客厅电视柜都预留了成品光纤，双 LC 接头，OM4 规格，最高可支持到 100Gbps。\n\n5. 主路由依然是经典的 MikroTik RB5009（没用 UniFi 主要还是因为不支持 Full Cone），不过这东西的 2.5GBase-T 协商经常会出点问题，今天换了光猫又不认，被迫用 SFP+ 去接光猫。\n\n6. Mac mini 上挂了一个 ZTE F50，作为 Surge Ponte 热备。这样不在家时如果主线路断网，还能连回去看看是什么情况。旁边的小屏幕主要用于重启时登录。\n\n7. UniFi Switch XG 6 PoE 的风扇实在太吵，被我拆掉之后又定制了一块超大散热片贴在顶部。用了很多年，目前表现一直很稳定。\n\n8. 侧边这台主机还是很多年前装的 HomeLab PC，MATX 规格。除了偶尔会死机重启之外，整体运行一直很稳定（大概每年不超过两次）。23 年买的 5 块国产 4TB SSD 到现在也全部正常（现在价格已经翻了 5 倍）。目前跑着 Proxmox VE，承载 NAS 和各种服务。\n\n9. 很多人关心散热问题。首先柜门做了百叶设计，但单靠这个确实不够，所以我又在机箱前面板加了一把高性能风扇负责进风，机箱顶部风扇向上排风，再立了一把猫扇往外吹，形成完整的散热风道，现在整体很凉爽。（还有个意外收获：隔壁鞋柜里拿出来的鞋子都是温热的，穿起来很舒服……）",
-      "publishedAt": "2026-05-30T14:22:00.000Z",
-      "link": "https://x.com/Blankwonder/status/2060728624114958526",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJkmF48awAAqY7-.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
       },
       "stats": {
         "replies": 0,
@@ -6304,25 +6196,6 @@
           "url": "https://pbs.twimg.com/media/HJjMhi8bgAEJMxr.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060621480208355415",
-      "username": "jukan05",
-      "displayName": "Jukan @COMPUTEX",
-      "avatar": "https://pbs.twimg.com/profile_images/2037840794992988160/tnSqJgqt_bigger.jpg",
-      "content": "What should we take away from Dell's earnings — and what upside is left for the company?\n\nFirst: Dell delivered tremendous growth in general-purpose servers.\n\nAs we've argued all along, agentic AI is a tailwind for general-purpose servers. The growing importance of the CPU naturally raises the importance of CPU servers — that is, general-purpose servers. On top of that, general-purpose servers are built largely from pre-existing, mostly commoditized components and are free from NVIDIA's involvement, which gives them far higher margins than GPU servers.\n\nHere's my thesis: agentic AI is real. And traditional general-purpose server leaders like Dell stand to benefit just as much as the CPU makers.\n\nSecond: Dell is holding up better than expected in PCs.\n\nTier-2 and tier-3 players like ASUS and Xiaomi have been blustering that their LTAs leave them reasonably well defended against the memory crunch. Tier-1 vendors like Dell, by contrast, genuinely appear to have priority in securing memory. They also hold a relative advantage in the B2B market, which gives them some room to pass costs through. Quite a few analysts seem to have underappreciated this. And even if the PC market carries unexpected downside, I'd argue general-purpose servers will more than make up for it.\n\nThird: upside from NVIDIA's next chip.\n\nIf NVIDIA's N1/N1X establishes a real foothold in WoA, this isn't merely a case of one more chip supplier entering the market — it opens up an additional architectural path for the PC. That rattles Intel and AMD's defensive line while, at the same time, representing meaningful upside for OEMs like Dell. Once Lenovo, Dell, HP, and ASUS hold an NVIDIA Arm SoC as an option, they can use it to pressure Intel and AMD on CPU pricing and platform subsidies. In a PC downturn like the current one, that could prove to be unexpected upside — though, of course, it all hinges on the forthcoming Agentic Windows on Arm actually delivering.\n\n$DELL",
-      "contentHtml": "What should we take away from Dell's earnings — and what upside is left for the company?\n\nFirst: Dell delivered tremendous growth in general-purpose servers.\n\nAs we've argued all along, agentic AI is a tailwind for general-purpose servers. The growing importance of the CPU naturally raises the importance of CPU servers — that is, general-purpose servers. On top of that, general-purpose servers are built largely from pre-existing, mostly commoditized components and are free from NVIDIA's involvement, which gives them far higher margins than GPU servers.\n\nHere's my thesis: agentic AI is real. And traditional general-purpose server leaders like Dell stand to benefit just as much as the CPU makers.\n\nSecond: Dell is holding up better than expected in PCs.\n\nTier-2 and tier-3 players like ASUS and Xiaomi have been blustering that their LTAs leave them reasonably well defended against the memory crunch. Tier-1 vendors like Dell, by contrast, genuinely appear to have priority in securing memory. They also hold a relative advantage in the B2B market, which gives them some room to pass costs through. Quite a few analysts seem to have underappreciated this. And even if the PC market carries unexpected downside, I'd argue general-purpose servers will more than make up for it.\n\nThird: upside from NVIDIA's next chip.\n\nIf NVIDIA's N1/N1X establishes a real foothold in WoA, this isn't merely a case of one more chip supplier entering the market — it opens up an additional architectural path for the PC. That rattles Intel and AMD's defensive line while, at the same time, representing meaningful upside for OEMs like Dell. Once Lenovo, Dell, HP, and ASUS hold an NVIDIA Arm SoC as an option, they can use it to pressure Intel and AMD on CPU pricing and platform subsidies. In a PC downturn like the current one, that could prove to be unexpected upside — though, of course, it all hinges on the forthcoming Agentic Windows on Arm actually delivering.\n\n<a href=\"/search?f=tweets&q=%23DELL\">$DELL</a>",
-      "publishedAt": "2026-05-30T07:17:00.000Z",
-      "link": "https://x.com/jukan05/status/2060621480208355415",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -8414,32 +8287,6 @@
       "contentHtml": "不怕告诉你们，我在3月30日抄底的SOXL和SNXX，看看现在📈多少了！",
       "publishedAt": "2026-05-28T19:07:00.000Z",
       "link": "https://x.com/TJ_Research/status/2060075553470779849",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060069144117105140",
-      "username": "theobjectivist",
-      "displayName": "The Rational Animal 🤔",
-      "avatar": "https://pbs.twimg.com/profile_images/1993173930698481664/3G0PfSmu_bigger.jpg",
-      "content": "\"Fair share\" - the phrase every looter uses when he wants what he didn't earn.\n\nYou call them \"oligarchs\" while proposing to seize 5% of their wealth by force. Who is the one wielding state power here, Senator?\n\nYou just proposed a moratorium on AI data centers - literally trying to freeze the most productive technology of our era. How many jobs, how much wealth, how much human progress does YOUR agenda cost Americans? No one tallies that bill.\n\nCalifornia's billionaires are already fleeing to Nevada. The Hoover Institution estimates this tax will cost the state $25 billion net. You would destroy the golden goose and then call it justice while ignoring the price paid in blood, sweat and tears because of your policies.\n\n\"The people want it\" - 54% voting to confiscate another man's property doesn't make it right. Two wolves and a sheep voting on dinner is not moral governance. Rights are not subject to majority rule. That is why we are a republic.\n\nYou have spent decades producing nothing, creating nothing, building nothing - while demanding an ever-larger share of what others build. That is not fairness. It is the plunder of a man who knows too little.",
-      "contentHtml": "\"Fair share\" - the phrase every looter uses when he wants what he didn't earn.\n\nYou call them \"oligarchs\" while proposing to seize 5% of their wealth by force. Who is the one wielding state power here, Senator?\n\nYou just proposed a moratorium on AI data centers - literally trying to freeze the most productive technology of our era. How many jobs, how much wealth, how much human progress does YOUR agenda cost Americans? No one tallies that bill.\n\nCalifornia's billionaires are already fleeing to Nevada. The Hoover Institution estimates this tax will cost the state $25 billion net. You would destroy the golden goose and then call it justice while ignoring the price paid in blood, sweat and tears because of your policies.\n\n\"The people want it\" - 54% voting to confiscate another man's property doesn't make it right. Two wolves and a sheep voting on dinner is not moral governance. Rights are not subject to majority rule. That is why we are a republic.\n\nYou have spent decades producing nothing, creating nothing, building nothing - while demanding an ever-larger share of what others build. That is not fairness. It is the plunder of a man who knows too little.",
-      "publishedAt": "2026-05-28T18:42:00.000Z",
-      "link": "https://x.com/theobjectivist/status/2060069144117105140",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "BernieSanders",
-        "displayName": "Bernie Sanders",
-        "content": "The oligarchs in CA are spending huge amounts to defeat a union-backed billionaire wealth tax.  \n\nThe Republican establishment is in a frenzy and few Democratic leaders support it. \n\nYet a new poll has it winning 54-45. The people want the rich to start paying their fair share.",
-        "contentHtml": "The oligarchs in CA are spending huge amounts to defeat a union-backed billionaire wealth tax.  \n\nThe Republican establishment is in a frenzy and few Democratic leaders support it. \n\nYet a new poll has it winning 54-45. The people want the rich to start paying their fair share.",
-        "link": "https://x.com/BernieSanders/status/2060054080530067766"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
