@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T23:12:27.297Z",
+  "lastUpdated": "2026-06-04T00:07:04.181Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,77 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 587,
+    "newFetched": 588,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2062322725147062385",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "神看空美股了\n神来救我了\n小黑子们受死吧",
+      "contentHtml": "神看空美股了\n神来救我了\n小黑子们受死吧",
+      "publishedAt": "2026-06-03T23:57:00.000Z",
+      "link": "https://x.com/hazenlee/status/2062322725147062385",
+      "quote": {
+        "username": "xtony1314",
+        "displayName": "逍遥XTony（恩师张雪峰）",
+        "content": "美股也到崩盘的边缘了，基本都在震荡。\n\n下一个就是美股，\n\nA股，港股，黄金白银，都要崩。",
+        "contentHtml": "美股也到崩盘的边缘了，基本都在震荡。\n\n下一个就是美股，\n\nA股，港股，黄金白银，都要崩。",
+        "link": "https://x.com/xtony1314/status/2062204766667849850"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062322498314833960",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "塞了抢你老伴儿了？\n你跟他有仇吗你\n盯着人家黑",
+      "contentHtml": "塞了抢你老伴儿了？\n你跟他有仇吗你\n盯着人家黑",
+      "publishedAt": "2026-06-03T23:56:00.000Z",
+      "link": "https://x.com/hazenlee/status/2062322498314833960",
+      "quote": {
+        "username": "PeterSchiff",
+        "displayName": "Peter Schiff",
+        "content": "$STRC is down to $94.85, putting the current yield at 12.12%. The lower the price falls, the higher $MSTR will have to increase the dividend to bring the share price back up to $100. That means MSTR will run out of cash much sooner, pulling forward Bitcoin sales to fund payments.",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23STRC\">$STRC</a> is down to $94.85, putting the current yield at 12.12%. The lower the price falls, the higher <a href=\"/search?f=tweets&q=%23MSTR\">$MSTR</a> will have to increase the dividend to bring the share price back up to $100. That means MSTR will run out of cash much sooner, pulling forward Bitcoin sales to fund payments.",
+        "link": "https://x.com/PeterSchiff/status/2062254359006626010"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062321522451398938",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "利息用本金换的\n利润用本金换的\n这是投资的常识\nSaylor有承诺保本吗？\n有FDIC吗？",
+      "contentHtml": "利息用本金换的\n利润用本金换的\n这是投资的常识\nSaylor有承诺保本吗？\n有FDIC吗？",
+      "publishedAt": "2026-06-03T23:52:00.000Z",
+      "link": "https://x.com/hazenlee/status/2062321522451398938",
+      "quote": {
+        "username": "PeterSchiff",
+        "displayName": "Peter Schiff",
+        "content": "Most $STRC investors will lose most of their money, as the price of STRC eventually collapses when @Saylor is forced to terminate the dividend. Expect a flood of lawsuits to add to $MSTR's problems, as investors burned by deceptive advertising seek to recover their losses.",
+        "contentHtml": "Most <a href=\"/search?f=tweets&q=%23STRC\">$STRC</a> investors will lose most of their money, as the price of STRC eventually collapses when <a href=\"/saylor\" title=\"Michael Saylor\">@Saylor</a> is forced to terminate the dividend. Expect a flood of lawsuits to add to <a href=\"/search?f=tweets&q=%23MSTR\">$MSTR</a>'s problems, as investors burned by deceptive advertising seek to recover their losses.",
+        "link": "https://x.com/PeterSchiff/status/2062264888366432359"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2062297654772498715",
       "username": "KillaXBT",
@@ -12128,57 +12194,6 @@
         "contentHtml": "这才是稳健的交易思路...指数价格index price的意义是让合约价格可以锚定回去，所以必须要是有定价权、有市场公信力的成分。用不在index成分内的现货（失去定价权）配合合约开反向仓位，本质就不是风险对冲，而是赌关闭充值后价差也不扩大。  \n\n当所有成分都关闭了充提、搬砖套利的bot不再运行时，就会发现很多盘口的深度和价差非常差，已经失去了定价能力了，所以这些盘口的价格一旦价格跟Binance拉开后大概率都是要被Binance的index给剔除的（对于所有交易所来说这个规则均适用）。  \n\n比如DRIFT和ESPORTS，当现货没有定价市场时，引入Binance Futures的盘口价再加上2家价差不大的cex价格，配合3%的中位数限制，已经是对Binance自己的用户来说交易风险最小的解法。  \n\n至于昨天看到有人提到为什么不Dex+Binance futures 2家做为指数呢？\n1）只有2个成分的时候，中位数原则就失效了，指数价格会很不稳定 \n2）Dex+Binance futures的组合很容易被市场操纵，属于解决一个小问题带来一个更大的新问题",
         "link": "https://x.com/OwenJin12/status/2059478986133270886"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059494392944054758",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "这并不是一条看空MU的分析，只是告诉你UBS的理由我认为不成立。",
-      "contentHtml": "这并不是一条看空MU的分析，只是告诉你UBS的理由我认为不成立。",
-      "publishedAt": "2026-05-27T04:38:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2059494392944054758",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059488428576874930",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "4500吸铁石🧲\n\n上不去也下不去",
-      "contentHtml": "4500吸铁石🧲\n\n上不去也下不去",
-      "publishedAt": "2026-05-27T04:14:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2059488428576874930",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJTFznAagAAdo2B.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059479496236105926",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "现在巴菲特那一套“别人恐惧我贪婪，别人贪婪我恐惧”仿佛失效了。\n现在的版本随着贝叶斯定理，\n变成了“别人贪婪我更贪婪，别人恐惧我更恐惧。”",
-      "contentHtml": "现在巴菲特那一套“别人恐惧我贪婪，别人贪婪我恐惧”仿佛失效了。\n现在的版本随着贝叶斯定理，\n变成了“别人贪婪我更贪婪，别人恐惧我更恐惧。”",
-      "publishedAt": "2026-05-27T03:39:00.000Z",
-      "link": "https://x.com/hazenlee/status/2059479496236105926",
       "stats": {
         "replies": 0,
         "retweets": 0,
