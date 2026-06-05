@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T11:05:47.875Z",
+  "lastUpdated": "2026-06-05T12:26:52.667Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,164 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 592,
+    "newFetched": 591,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2062872421598933024",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "另外请大家不要只看所提到的几个价格\n这不是我的本意\n而是可以看到我的策略中各种发生情况的应对措施\n行情有几乎无限的可能\n而我们能做的是行情按不按照你的预期都有对策\n不要做一个只跟着价格涨跌盲从\n极致的动物本能趋利避害追涨杀跌的巨婴",
+      "contentHtml": "另外请大家不要只看所提到的几个价格\n这不是我的本意\n而是可以看到我的策略中各种发生情况的应对措施\n行情有几乎无限的可能\n而我们能做的是行情按不按照你的预期都有对策\n不要做一个只跟着价格涨跌盲从\n极致的动物本能趋利避害追涨杀跌的巨婴",
+      "publishedAt": "2026-06-05T12:21:00.000Z",
+      "link": "https://x.com/hazenlee/status/2062872421598933024",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062869469479960754",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "为了方便大家观看 \n部分图表采用了对数图处理",
+      "contentHtml": "为了方便大家观看 \n部分图表采用了对数图处理",
+      "publishedAt": "2026-06-05T12:09:00.000Z",
+      "link": "https://x.com/hazenlee/status/2062869469479960754",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062868882751127715",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "Apparently a lot of people don’t realize that 2× leverage exists. \n\nNot every trader is maxing out leverage and gambling recklessly, some use modest leverage and manage risk responsibly.\n\nBut they wouldn’t know that would they… cause they’re all unprofitable gamblers.",
+      "contentHtml": "Apparently a lot of people don’t realize that 2× leverage exists. \n\nNot every trader is maxing out leverage and gambling recklessly, some use modest leverage and manage risk responsibly.\n\nBut they wouldn’t know that would they… cause they’re all unprofitable gamblers.",
+      "publishedAt": "2026-06-05T12:07:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2062868882751127715",
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "I am officially swing long on $BTC \n\nInvalidation 31950. Target 160,000.\n\nI will see you in 1-2 years from now. \n\nLet the games begin. 🎲",
+        "contentHtml": "I am officially swing long on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nInvalidation 31950. Target 160,000.\n\nI will see you in 1-2 years from now. \n\nLet the games begin. 🎲",
+        "link": "https://x.com/KillaXBT/status/2062592387231166575",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJ_MWkQWAAARR3r.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062868140091162727",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "随着时间流逝，MSTR卖币等一系列利空，BTC目前也开始测试了周线MA200的支撑如图1。按照18年和19年的两次周期底部，周线的MA200均有较好的支撑，但是22年随着BTC的价格更高市值更大，导致周线MA200的支撑性并没有之前的周期强。如果单从周线MA200做一个买入策略或者定投区间，会有较长时间的水下和浮亏期。那么我们该如何看待现在此时此刻对于MA200的理解呢？\n\n这时候我给大家分享一个比普通均线更好用的指标，VWAP--成交量加权平均价格。VWAP的优势比均线更好的就是利用了微积分的原理，将成交量的权重和价格结合，不是单纯的价格平均，还加入了成交量的权重。\n于是我们采用真实的coinbase现货图表，从coinbase的BTC上市以来的VWAP如图。可以看到从19年开始，用VWAP寻找的BTC阶段性周期底部的成本会开始优秀于普通均线如图2。原因就是刚才提到的，价格在高位缩量导致的均线异常抬高，所以目前我们几乎可以确定周线MA200只是一个阶段性支撑，并不是一个周期的局部低点。\n\n所以，我的最新策略⬇️\n在BTC触及coinbase的vwap价格，目前约为28k的位置开始定投，价格如极限插针19.5k附近左侧现货满仓，（参考312的极限插针价格为18年盘整区间POC如图）。如果没有插针且没有满仓，剩余仓位等待右侧确认突破vwap和周线MA200之后再分批加满。\n\n另外题外话，单纯从K线历史归纳和刻舟求剑的角度上来看，目前的行情和22年走的很像。如图4 接下来两周的行情至关重要，如果依然像22年流畅跌破前低，那就很不好了。最后再次祝大家好运，李哥陪大家一起穿越牛熊~",
+      "contentHtml": "随着时间流逝，MSTR卖币等一系列利空，BTC目前也开始测试了周线MA200的支撑如图1。按照18年和19年的两次周期底部，周线的MA200均有较好的支撑，但是22年随着BTC的价格更高市值更大，导致周线MA200的支撑性并没有之前的周期强。如果单从周线MA200做一个买入策略或者定投区间，会有较长时间的水下和浮亏期。那么我们该如何看待现在此时此刻对于MA200的理解呢？\n\n这时候我给大家分享一个比普通均线更好用的指标，VWAP--成交量加权平均价格。VWAP的优势比均线更好的就是利用了微积分的原理，将成交量的权重和价格结合，不是单纯的价格平均，还加入了成交量的权重。\n于是我们采用真实的coinbase现货图表，从coinbase的BTC上市以来的VWAP如图。可以看到从19年开始，用VWAP寻找的BTC阶段性周期底部的成本会开始优秀于普通均线如图2。原因就是刚才提到的，价格在高位缩量导致的均线异常抬高，所以目前我们几乎可以确定周线MA200只是一个阶段性支撑，并不是一个周期的局部低点。\n\n所以，我的最新策略⬇️\n在BTC触及coinbase的vwap价格，目前约为28k的位置开始定投，价格如极限插针19.5k附近左侧现货满仓，（参考312的极限插针价格为18年盘整区间POC如图）。如果没有插针且没有满仓，剩余仓位等待右侧确认突破vwap和周线MA200之后再分批加满。\n\n另外题外话，单纯从K线历史归纳和刻舟求剑的角度上来看，目前的行情和22年走的很像。如图4 接下来两周的行情至关重要，如果依然像22年流畅跌破前低，那就很不好了。最后再次祝大家好运，李哥陪大家一起穿越牛熊~",
+      "publishedAt": "2026-06-05T12:04:00.000Z",
+      "link": "https://x.com/hazenlee/status/2062868140091162727",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKDChfba4AAbJT2.png"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKDEQTubcAAEKji.png"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKDFnkuaoAAqn8s.png"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKDG9UZaYAAnd16.png"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "无聊瞎看指标，不小心翻到了日线ma200，发现每次熊市回抽日线ma200都会有个阶段性高点，之后也都会有机会给低点买入。所以如果踏空的小伙伴们（包括我）可以不用着急，观察一下日线ma200的价格行为。机会有的是，重要的是不要被价格裹挟着情绪做出非理性自己可能会后悔的投资决策。",
+        "contentHtml": "无聊瞎看指标，不小心翻到了日线ma200，发现每次熊市回抽日线ma200都会有个阶段性高点，之后也都会有机会给低点买入。所以如果踏空的小伙伴们（包括我）可以不用着急，观察一下日线ma200的价格行为。机会有的是，重要的是不要被价格裹挟着情绪做出非理性自己可能会后悔的投资决策。",
+        "link": "https://x.com/hazenlee/status/2052056052766855339",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HHpdc-hbUAABGvG.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062868109875355814",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "感谢加印哥的分享，最近有几个个人的券商账户收到了邮件被ban了。最近也体验了一下 Bitget 美股 2.0，我觉得这次升级的重点，不只是“可以交易美股”，而是把美股资产真正接入了交易所生态。\n\n过去很多人想配置美股，通常会遇到几个问题：\n开户流程、换汇、交易时间、出入金效率、资金利用率，以及美股和加密资产之间切换不够顺畅。\n\n而 Bitget 美股 2.0 的逻辑更像是：\n让美股资产像加密现货一样被交易、被组合、被使用。\n\n我比较关注的几个点：\n\n第一，USDT 直接交易美股现货代币。\n这点对加密用户很友好，不需要在不同资产和不同账户之间来回切换，资金路径更短，交易摩擦也更低。\n\n第二，底层资产 1:1 锚定真实美股资产。\n这不是单纯的价格合约，也不是只有价格波动的衍生品，而是通过 rToken 去追踪底层股票的经济表现。股息、拆股、合股等公司行为，也会同步映射到账户里，体验上更接近真实持有美股资产。\n\n第三，交易成本更低。\n基础手续费是 0.1%，叠加 BGB 抵扣和限时折扣后，小额交易和大额交易的实际成本都会进一步下降。对于高频调仓、短线交易，或者经常在美股和加密资产之间切换的用户来说，长期看交易摩擦会差很多。\n\n第四，美股资产可以融入 Bitget 生态。\n这可能是我觉得最有想象力的地方。传统券商里的股票，很多时候只是“买入—持有—卖出”；但在 Bitget 里，美股 2.0 资产未来可以和统一账户、联合保证金、网格、跟单、理财等功能结合起来。\n换句话说，美股不再只是孤立资产，而是进入了一个可组合的交易系统。\n\n第五，交易时间更灵活。\n传统美股交易受开盘时间限制比较明显，而美股 2.0 部分主流股票支持更灵活的交易时段。对于全球用户，尤其是亚洲用户，这一点体验会更明显。\n\n我个人理解，Bitget 美股 2.0 并不是要简单替代传统券商。\n传统券商的优势在于成熟、合规、资产覆盖广；而 Bitget 美股 2.0 的优势在于：更低门槛、更顺滑的资金体验、更强的交易所生态整合能力。\n\n这也是 RWA 真正值得关注的方向：\n不是把股票“搬上链”这么简单，而是让传统资产进入一个新的金融操作系统。\n\n美股资产以前是静态配置工具，\n现在可能正在变成一种可以跨市场流动、组合和使用的链上金融资产。\n\n如果你本来就在交易加密资产，又想配置美股，Bitget 美股 2.0 确实值得体验一下。",
+      "contentHtml": "感谢加印哥的分享，最近有几个个人的券商账户收到了邮件被ban了。最近也体验了一下 Bitget 美股 2.0，我觉得这次升级的重点，不只是“可以交易美股”，而是把美股资产真正接入了交易所生态。\n\n过去很多人想配置美股，通常会遇到几个问题：\n开户流程、换汇、交易时间、出入金效率、资金利用率，以及美股和加密资产之间切换不够顺畅。\n\n而 Bitget 美股 2.0 的逻辑更像是：\n让美股资产像加密现货一样被交易、被组合、被使用。\n\n我比较关注的几个点：\n\n第一，USDT 直接交易美股现货代币。\n这点对加密用户很友好，不需要在不同资产和不同账户之间来回切换，资金路径更短，交易摩擦也更低。\n\n第二，底层资产 1:1 锚定真实美股资产。\n这不是单纯的价格合约，也不是只有价格波动的衍生品，而是通过 rToken 去追踪底层股票的经济表现。股息、拆股、合股等公司行为，也会同步映射到账户里，体验上更接近真实持有美股资产。\n\n第三，交易成本更低。\n基础手续费是 0.1%，叠加 BGB 抵扣和限时折扣后，小额交易和大额交易的实际成本都会进一步下降。对于高频调仓、短线交易，或者经常在美股和加密资产之间切换的用户来说，长期看交易摩擦会差很多。\n\n第四，美股资产可以融入 Bitget 生态。\n这可能是我觉得最有想象力的地方。传统券商里的股票，很多时候只是“买入—持有—卖出”；但在 Bitget 里，美股 2.0 资产未来可以和统一账户、联合保证金、网格、跟单、理财等功能结合起来。\n换句话说，美股不再只是孤立资产，而是进入了一个可组合的交易系统。\n\n第五，交易时间更灵活。\n传统美股交易受开盘时间限制比较明显，而美股 2.0 部分主流股票支持更灵活的交易时段。对于全球用户，尤其是亚洲用户，这一点体验会更明显。\n\n我个人理解，Bitget 美股 2.0 并不是要简单替代传统券商。\n传统券商的优势在于成熟、合规、资产覆盖广；而 Bitget 美股 2.0 的优势在于：更低门槛、更顺滑的资金体验、更强的交易所生态整合能力。\n\n这也是 RWA 真正值得关注的方向：\n不是把股票“搬上链”这么简单，而是让传统资产进入一个新的金融操作系统。\n\n美股资产以前是静态配置工具，\n现在可能正在变成一种可以跨市场流动、组合和使用的链上金融资产。\n\n如果你本来就在交易加密资产，又想配置美股，Bitget 美股 2.0 确实值得体验一下。",
+      "publishedAt": "2026-06-05T12:04:00.000Z",
+      "link": "https://x.com/hazenlee/status/2062868109875355814",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKDHm1ma8AA0VNc.jpg"
+        }
+      ],
+      "quote": {
+        "username": "xiejiayinBitget",
+        "displayName": "谢家印",
+        "content": "交易美股流程，以 $rNOK 诺基亚举例\n\n1、顶部搜索 诺基亚 或 NOK 交易\n2、行情——股票——现货——rNOK\n3、TradFi——股票现货——rNOK\n\n手续费万5，交易体验断崖式领先！在线等你提意见、吐槽🩵",
+        "contentHtml": "交易美股流程，以 <a href=\"/search?f=tweets&q=%23rNOK\">$rNOK</a> 诺基亚举例\n\n1、顶部搜索 诺基亚 或 NOK 交易\n2、行情——股票——现货——rNOK\n3、TradFi——股票现货——rNOK\n\n手续费万5，交易体验断崖式领先！在线等你提意见、吐槽🩵",
+        "link": "https://x.com/xiejiayinBitget/status/2061758637899698582"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062857749290201548",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "讲道理，好像是鸡巴形态，应该用鸡巴交易大法",
+      "contentHtml": "讲道理，好像是鸡巴形态，应该用鸡巴交易大法",
+      "publishedAt": "2026-06-05T11:23:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2062857749290201548",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKC-L5IaYAADtJt.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2062852099508224325",
       "username": "Bitfatty",
@@ -961,6 +1114,10 @@
           "url": "https://pbs.twimg.com/media/HKA7KLjagAAQhKJ.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -12068,140 +12225,6 @@
       "contentHtml": "也不怕告诉你们，我在3月31日卖了🤣<a href=\"/search?f=tweets&q=%23认知内盈亏\">#认知内盈亏</a> <a href=\"/search?f=tweets&q=%23卖飞永赚\">#卖飞永赚</a>",
       "publishedAt": "2026-05-28T19:07:00.000Z",
       "link": "https://x.com/TJ_Research/status/2060075557774069789",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060075553470779849",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "不怕告诉你们，我在3月30日抄底的SOXL和SNXX，看看现在📈多少了！",
-      "contentHtml": "不怕告诉你们，我在3月30日抄底的SOXL和SNXX，看看现在📈多少了！",
-      "publishedAt": "2026-05-28T19:07:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2060075553470779849",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060064349067387049",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "美股指数估值(Forward PE)没有泡沫，因为未来一年预期盈利增速很快。\n那盈利预期有没有泡沫，见仁见智。得具体公司具体看，订单，产能等等。多数硬件公司未来一年产能都满负荷运转。盈利确定性很高，参考过去3年英伟达的盈利，可见订单2-3季度。\n指数参与度有没有泡沫，也没有，因为很多个股都趴地上。\n情绪面有没有泡沫，有。应该都能感觉到：社交媒体晒回报的，造神的帖子处处都是。\n那么哪些判断指标权重更高？对我来说估值和盈利更重要。",
-      "contentHtml": "美股指数估值(Forward PE)没有泡沫，因为未来一年预期盈利增速很快。\n那盈利预期有没有泡沫，见仁见智。得具体公司具体看，订单，产能等等。多数硬件公司未来一年产能都满负荷运转。盈利确定性很高，参考过去3年英伟达的盈利，可见订单2-3季度。\n指数参与度有没有泡沫，也没有，因为很多个股都趴地上。\n情绪面有没有泡沫，有。应该都能感觉到：社交媒体晒回报的，造神的帖子处处都是。\n那么哪些判断指标权重更高？对我来说估值和盈利更重要。",
-      "publishedAt": "2026-05-28T18:23:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2060064349067387049",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060063823860478456",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "$BTC\n\nPatience... ⏳",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nPatience... ⏳",
-      "publishedAt": "2026-05-28T18:21:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2060063823860478456",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJbQ9lVXIAQ-to9.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "$BTC \n\nExpectations v.s Reality. \n\nI will see you lower in the next 3-4 weeks.",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nExpectations v.s Reality. \n\nI will see you lower in the next 3-4 weeks.",
-        "link": "https://x.com/KillaXBT/status/2058924908852207808",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJLFLWQXUAATE7x.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060061953977172297",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "真刚需，罗老师做了一个爆款！",
-      "contentHtml": "真刚需，罗老师做了一个爆款！",
-      "publishedAt": "2026-05-28T18:13:00.000Z",
-      "link": "https://x.com/taresky/status/2060061953977172297",
-      "quote": {
-        "username": "luoleiorg",
-        "displayName": "luolei",
-        "content": "Make X Great Again! 🧹\n人民的 X 人民救！我们推友有力量！✊\n\nMXGA v0.4.0 已正式更新 Chrome 商店 🚀\n\n新增静默处理：后台自动拉黑已确认 Spam，不再弹窗打断正常阅读体验。\n\n✨ 更好的交互弹窗\n📊 更丰富的进度信息展示\n⚡ 更快的上报性能\n\n上架三天时间，MXGA 已经抓到 15k+ Spam 账号，还有 15k+ 待审计 🕵️\n\n视频演示基于 5 月 28 日晚 22 点最新数据库，实测一条被大量 Spam 攻占的推文，净化效果还是很明显的。\n\n🔗 Chrome 插件：chromewebstore.google.com/de…\n\n🌏 官网：x.zuoluo.tv",
-        "contentHtml": "Make X Great Again! 🧹\n人民的 X 人民救！我们推友有力量！✊\n\nMXGA v0.4.0 已正式更新 Chrome 商店 🚀\n\n新增静默处理：后台自动拉黑已确认 Spam，不再弹窗打断正常阅读体验。\n\n✨ 更好的交互弹窗\n📊 更丰富的进度信息展示\n⚡ 更快的上报性能\n\n上架三天时间，MXGA 已经抓到 15k+ Spam 账号，还有 15k+ 待审计 🕵️\n\n视频演示基于 5 月 28 日晚 22 点最新数据库，实测一条被大量 Spam 攻占的推文，净化效果还是很明显的。\n\n🔗 Chrome 插件：<a href=\"https://chromewebstore.google.com/detail/make-x-great-again/aeoldnecphbkkckeedfgfcdcekkljdea\">chromewebstore.google.com/de…</a>\n\n🌏 官网：<a href=\"https://x.zuoluo.tv\">x.zuoluo.tv</a>",
-        "link": "https://x.com/luoleiorg/status/2060001053630964197"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060043698868519125",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "神经病行情😸",
-      "contentHtml": "神经病行情😸",
-      "publishedAt": "2026-05-28T17:01:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2060043698868519125",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJa-z9QW8AIG6k7.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJa-yMpWoAY52Uu.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJa-yMmWEAIDPZh.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJa-yMlXwAEUhgF.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060041673980153911",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "People should be grateful the market has given us another dip.\n\nIt gives you more time to buy $BTC spot.\n\nSure, there’s short term pain, but I have always preached holders almost always outperform in the long run.\n\nI would use this time to start planning your entries and building long term spot positions slowly.\n\nDon’t overthink it too much, in a few years, you’ll probably be glad you bought. \n\nWorst case scenario, we see another 25% downside, which is minor in grand scheme of things.",
-      "contentHtml": "People should be grateful the market has given us another dip.\n\nIt gives you more time to buy <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> spot.\n\nSure, there’s short term pain, but I have always preached holders almost always outperform in the long run.\n\nI would use this time to start planning your entries and building long term spot positions slowly.\n\nDon’t overthink it too much, in a few years, you’ll probably be glad you bought. \n\nWorst case scenario, we see another 25% downside, which is minor in grand scheme of things.",
-      "publishedAt": "2026-05-28T16:53:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2060041673980153911",
       "stats": {
         "replies": 0,
         "retweets": 0,
