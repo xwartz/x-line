@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T15:02:23.267Z",
+  "lastUpdated": "2026-06-05T16:08:29.791Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -106,6 +106,190 @@
   },
   "tweets": [
     {
+      "id": "2062928950112797121",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "最近一直在想一个问题：加密账户能不能更低摩擦地配置美股资产？能不能更好的更灵活的上杠杆？能否买到真实的美股而不仅仅是代币映射？\n\n不是那种单纯价格跟踪，也不是在交易所里挂几个美股代码，而是用户真的可以用自己熟悉的稳定币账户，把美股现货像币种一样配置进去。个人角度，这个变化其实比“某个平台上线美股”本身更值我关注\n\n所以我去试了下 Bitget 美股 2.0\n\n我自己用 USDT 买了一点 NVDA 对应的美股代币，第一感受是路径确实短了很多。整个过程更像是在交易所里买一个普通现货币种，而不是重新开一个券商账户、处理法币入金、再去适应另一套交易系统\n\n这里最舒服的一点是：可以直接用 USDT 交易\n\n这个点看起来很小，但实际用起来影响挺明显。因为很多加密用户的主要资金本来就在 USDT 里，如果还要先做稳定币转换，就会多一层操作，也多一次价格确认和资金调度。Bitget 这里直接用 USDT 下单，交易逻辑更接近所内现货。\n\n买完之后，持仓、成本、资产显示都在账户里，理解门槛比较低。对我来说，这个体验点其实比“上线了多少只美股”更重要，因为它把美股从一个外部券商资产，变成了加密账户里可以直接配置、查看和管理的一类资产\n\n实际用下来，我比较在意的还有几个细节\n\n第一个是底层资产的处理方式。Bitget 美股 2.0 做的是 1:1 实物资产锚定，股票股息、现金股息、拆分、合并这些公司行为也会映射到账户里。比如现金股息会折算为 USDT 入账，并标注时间和金额；拆股、合股也会同步调整持仓比例\n\n这说明它不是单纯做一个价格影子，而是在尽量把美股现货的核心权益放进股票代币结构里。个人角度，股票代币产品能不能长期成立，关键就看这些细节处理得够不够完整。\n\n第二个是手续费感知。#Bitget 本身手续费是 0.1%，用 BGB 支付手续费有 8 折，再叠加额外限时 5 折后，小额交易最终手续费约 1.1 折，大额约 4 折。这个对大额用户可能不是最核心的，但对小额分批买入、定投式配置、或者经常调整仓位的人，会更容易感知到差异\n\n第三个是账户生态的整合。买完之后，这些资产不是孤立存在的，而是可以和所内统一账户、联合保证金、策略跟单、现货网格、合约网格、理财板块、收益产品这些功能产生连接\n\n简单说，以后用户可能不是在券商账户里管理美股、而是在一个加密账户里同时管理稳定币、美股、加密资产和收益策略。整体用下来，我觉得 Bitget 美股 2.0 更像是加密账户向全球资产账户升级的一步\n\n它降低的不是一个单点费用，而是从资金、下单、持仓、派息、账户管理到生态联动的一整套交易摩擦\n\n希望Bitget继续进化，能用加密资产作为保证金，接入到美股券商的流动性，那以后我的主战场一定是在这类加密平台了",
+      "contentHtml": "最近一直在想一个问题：加密账户能不能更低摩擦地配置美股资产？能不能更好的更灵活的上杠杆？能否买到真实的美股而不仅仅是代币映射？\n\n不是那种单纯价格跟踪，也不是在交易所里挂几个美股代码，而是用户真的可以用自己熟悉的稳定币账户，把美股现货像币种一样配置进去。个人角度，这个变化其实比“某个平台上线美股”本身更值我关注\n\n所以我去试了下 Bitget 美股 2.0\n\n我自己用 USDT 买了一点 NVDA 对应的美股代币，第一感受是路径确实短了很多。整个过程更像是在交易所里买一个普通现货币种，而不是重新开一个券商账户、处理法币入金、再去适应另一套交易系统\n\n这里最舒服的一点是：可以直接用 USDT 交易\n\n这个点看起来很小，但实际用起来影响挺明显。因为很多加密用户的主要资金本来就在 USDT 里，如果还要先做稳定币转换，就会多一层操作，也多一次价格确认和资金调度。Bitget 这里直接用 USDT 下单，交易逻辑更接近所内现货。\n\n买完之后，持仓、成本、资产显示都在账户里，理解门槛比较低。对我来说，这个体验点其实比“上线了多少只美股”更重要，因为它把美股从一个外部券商资产，变成了加密账户里可以直接配置、查看和管理的一类资产\n\n实际用下来，我比较在意的还有几个细节\n\n第一个是底层资产的处理方式。Bitget 美股 2.0 做的是 1:1 实物资产锚定，股票股息、现金股息、拆分、合并这些公司行为也会映射到账户里。比如现金股息会折算为 USDT 入账，并标注时间和金额；拆股、合股也会同步调整持仓比例\n\n这说明它不是单纯做一个价格影子，而是在尽量把美股现货的核心权益放进股票代币结构里。个人角度，股票代币产品能不能长期成立，关键就看这些细节处理得够不够完整。\n\n第二个是手续费感知。<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 本身手续费是 0.1%，用 BGB 支付手续费有 8 折，再叠加额外限时 5 折后，小额交易最终手续费约 1.1 折，大额约 4 折。这个对大额用户可能不是最核心的，但对小额分批买入、定投式配置、或者经常调整仓位的人，会更容易感知到差异\n\n第三个是账户生态的整合。买完之后，这些资产不是孤立存在的，而是可以和所内统一账户、联合保证金、策略跟单、现货网格、合约网格、理财板块、收益产品这些功能产生连接\n\n简单说，以后用户可能不是在券商账户里管理美股、而是在一个加密账户里同时管理稳定币、美股、加密资产和收益策略。整体用下来，我觉得 Bitget 美股 2.0 更像是加密账户向全球资产账户升级的一步\n\n它降低的不是一个单点费用，而是从资金、下单、持仓、派息、账户管理到生态联动的一整套交易摩擦\n\n希望Bitget继续进化，能用加密资产作为保证金，接入到美股券商的流动性，那以后我的主战场一定是在这类加密平台了",
+      "publishedAt": "2026-06-05T16:06:00.000Z",
+      "link": "https://x.com/dongbimao/status/2062928950112797121",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKD-3nUWYAAG5B9.jpg"
+        }
+      ],
+      "quote": {
+        "username": "xiejiayinBitget",
+        "displayName": "谢家印",
+        "content": "交易美股流程，以 $rNOK 诺基亚举例\n\n1、顶部搜索 诺基亚 或 NOK 交易\n2、行情——股票——现货——rNOK\n3、TradFi——股票现货——rNOK\n\n手续费万5，交易体验断崖式领先！在线等你提意见、吐槽🩵",
+        "contentHtml": "交易美股流程，以 <a href=\"/search?f=tweets&q=%23rNOK\">$rNOK</a> 诺基亚举例\n\n1、顶部搜索 诺基亚 或 NOK 交易\n2、行情——股票——现货——rNOK\n3、TradFi——股票现货——rNOK\n\n手续费万5，交易体验断崖式领先！在线等你提意见、吐槽🩵",
+        "link": "https://x.com/xiejiayinBitget/status/2061758637899698582"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062928035566006370",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "以太又回到了梦开始的地方，\n去年我是在1500做多的",
+      "contentHtml": "以太又回到了梦开始的地方，\n去年我是在1500做多的",
+      "publishedAt": "2026-06-05T16:02:00.000Z",
+      "link": "https://x.com/hazenlee/status/2062928035566006370",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "其实真没赚多少钱\n只是艺术成分和炫技成分比较高\n另外就是拐点把握得还算凑合\n基本上开完仓就顺便发推记录一下\n感谢兄弟们抬举🫡\n继续沉淀继续精进",
+        "contentHtml": "其实真没赚多少钱\n只是艺术成分和炫技成分比较高\n另外就是拐点把握得还算凑合\n基本上开完仓就顺便发推记录一下\n感谢兄弟们抬举🫡\n继续沉淀继续精进",
+        "link": "https://x.com/hazenlee/status/1988649328794300526",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/G5kaBZuacAMg4OK.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062923439388926340",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "6月3号又拉起来是真的吓人\n\n别觉得几百万u高位追多赚100万u的大赌狗有多牛逼\n大傻逼而已   而且是晚了几年的大傻逼而已\n这事情21年干的人最多",
+      "contentHtml": "6月3号又拉起来是真的吓人\n\n别觉得几百万u高位追多赚100万u的大赌狗有多牛逼\n大傻逼而已   而且是晚了几年的大傻逼而已\n这事情21年干的人最多",
+      "publishedAt": "2026-06-05T15:44:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2062923439388926340",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKD5mzlaMAApMHU.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062923219997163774",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "Generational. Buying. Opportunity.",
+      "contentHtml": "Generational. Buying. Opportunity.",
+      "publishedAt": "2026-06-05T15:43:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2062923219997163774",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062922268590907542",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "直播实况\n6月1日币安全面上线美股交易，重大利空，空一个拿拿味儿\n\n笑死，币安真有点东西",
+      "contentHtml": "直播实况\n6月1日币安全面上线美股交易，重大利空，空一个拿拿味儿\n\n笑死，币安真有点东西",
+      "publishedAt": "2026-06-05T15:39:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2062922268590907542",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKD4tUCaYAA-pFr.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062918754762420507",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "TradeXYZ is great because most traders there are pure retards from crypto so you just have to be a bit less retarded to make money",
+      "contentHtml": "TradeXYZ is great because most traders there are pure retards from crypto so you just have to be a bit less retarded to make money",
+      "publishedAt": "2026-06-05T15:25:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2062918754762420507",
+      "quote": {
+        "username": "mlmabc",
+        "displayName": "MLM",
+        "content": "TradeXYZ gave you the opportunity to short SpaceX at a $3 trillion valuation on Hyperliquid.",
+        "contentHtml": "TradeXYZ gave you the opportunity to short SpaceX at a $3 trillion valuation on Hyperliquid.",
+        "link": "https://x.com/mlmabc/status/2062899007295271407",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKDjtqZWgAAkXfb.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062915818585993631",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "川子taco效果越来越弱\n如果撑不住 将发生惨绝人寰的行情",
+      "contentHtml": "川子taco效果越来越弱\n如果撑不住 将发生惨绝人寰的行情",
+      "publishedAt": "2026-06-05T15:13:00.000Z",
+      "link": "https://x.com/hazenlee/status/2062915818585993631",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "川子taco来了\n短线止盈一波",
+        "contentHtml": "川子taco来了\n短线止盈一波",
+        "link": "https://x.com/hazenlee/status/2062906155329065023",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKDqNfza8AAyyLW.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062914842626056225",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "杀死以太坊☠️☠️☠️",
+      "contentHtml": "杀死以太坊☠️☠️☠️",
+      "publishedAt": "2026-06-05T15:10:00.000Z",
+      "link": "https://x.com/follow_clues/status/2062914842626056225",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2062912854983086556",
       "username": "qinbafrank",
       "displayName": "qinbafrank",
@@ -131,6 +315,21 @@
         "contentHtml": "昨天的对话也有聊到，本周个人感觉也不是特别好，黄仁勋一说要搞AI PC，资金就疯狂涌入PC、CPU产业链；他一说要推AI Factory（AI算力工厂），资金又疯狂涌入液冷、高压电、配电、电力这些环节；昨天他说Marvell会是万亿美元级别的公司，Marvell当天就涨了30%、本来2,000亿美元市值一下子涨了大几百亿，其实有点狂热。任何资产这种抛物线式的上涨都不可持续，总会有调整。没想到昨天刚聊完调整这就来了\n\n现在市场支撑整个逻辑的基点是：AI商业化已经进入拐点、在快速增长。只有商业化快速增长，那么庞大的资本开始开支就能显得合理、同时整个AI算力产业链上下游才能继续受益。\n\n所以关键看AI商业化的增速有没有降速。 \n\n1）只要大模型厂商的年化收入还在增长、大科技云业务还在超预期，那整个业务逻辑就没被逆转；那这时候短期涨太多、price in了预期、资金觉得贵了撤一波，大盘跌个小到中级别、后面一旦再有新契机（像今年 4 月的财报季、加上年化收入的快速增长），市场就又起来了。\n\n2）如果未来大模型厂商的业绩不及预期，那相当于整个市场叙事逻辑的底层出了问题，因为微软、Google、亚马逊的很多算力采购本来就来自大模型厂商，它们更上游、更接近最原点的商业化。这种情况下，至少会是一个中级别的调整，所有逻辑都要重置一下，不是完全推倒重来，而是中等幅度的重置。 然后大家再回去等：你要给新证据，证明它重回快速增长、规模和增速又超预期，信心才能回来。",
         "link": "https://x.com/qinbafrank/status/2062515182363099247"
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062912885983154291",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "nitter.net/i/broadcasts/1OGwbbDPw…",
+      "contentHtml": "<a href=\"https://nitter.net/i/broadcasts/1OGwbbDPwjmKB\">nitter.net/i/broadcasts/1OGwbbDPw…</a>",
+      "publishedAt": "2026-06-05T15:02:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2062912885983154291",
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11927,186 +12126,6 @@
       "contentHtml": "如果自以为能看出趋势，我觉得一定要养成鼓起勇气逼迫自己早点重仓的行为习惯，而不是在主升加速的时候东买西买的习惯，前者由于大额利润可以完全躺掉尾部风险，而后者恰好就是亏大钱的时候。我只做到了早点，没能做到重仓，3月抄底ewy和中韩 2x海力士就是的，每天都在买，但还是原生家庭的问题了。如果我和川沐一样重仓，现在就不会焦虑了。",
       "publishedAt": "2026-05-29T05:56:00.000Z",
       "link": "https://x.com/daidaibtc/status/2060238765424361975",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060234791983915218",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#fsd\n\n看到大量国内 FSD 实测视频了，太牛逼了。\n\n一两年前就听说华为的智能驾驶水平碾压特斯拉，不过网上能搜到的视频比较少。\n\n我猜测是华为车主都是那种低调内敛的人，自己用着好东西，一直暗爽不太愿意分享出来。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23fsd\">#fsd</a>\n\n看到大量国内 FSD 实测视频了，太牛逼了。\n\n一两年前就听说华为的智能驾驶水平碾压特斯拉，不过网上能搜到的视频比较少。\n\n我猜测是华为车主都是那种低调内敛的人，自己用着好东西，一直暗爽不太愿意分享出来。",
-      "publishedAt": "2026-05-29T05:40:00.000Z",
-      "link": "https://x.com/taresky/status/2060234791983915218",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060233262132277341",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "这怎么到处都是",
-      "contentHtml": "这怎么到处都是",
-      "publishedAt": "2026-05-29T05:34:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2060233262132277341",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJdrOeQWUAASkfv.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060228344780644569",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "Any way to mute every single CT account with a prediction market badge?",
-      "contentHtml": "Any way to mute every single CT account with a prediction market badge?",
-      "publishedAt": "2026-05-29T05:14:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2060228344780644569",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060219719064387902",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "我要组建一个探花PC攻坚小组 \n一个人的信息很有限。。。。省略一万字(实在不喜欢打长文)",
-      "contentHtml": "我要组建一个探花PC攻坚小组 \n一个人的信息很有限。。。。省略一万字(实在不喜欢打长文)",
-      "publishedAt": "2026-05-29T04:40:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2060219719064387902",
-      "quote": {
-        "username": "xtony1314",
-        "displayName": "逍遥XTony（恩师张雪峰）",
-        "content": "我要组建一个交易攻坚小组，\n\n一个人的精力或者说注意力，很有限，没法关注多个品种甚至多个市场，\n尤其是一些新闻事件，往往需要第一时间注意到并解读对市场的影响，一个人因为各种原因很难时时刻刻关注市场。\n\n所以我要组建一个小组，大家可以在群分享自己擅长的品种/市场，互帮互助，\n你爱我，我爱你，一起甜蜜蜜。\n无论你擅长 加密/美股/A股/金银/大宗商品，都行。\n\n要求，\n1.  人品端正逻辑清晰善于表达乐于分享，\n2. 交易经验丰富，真做交易/投资\n3. 用于交易的资金超过等值200WU以上，也就是人民币1500W\n\n目前群里有三个人，\n我 @xtony1314\n华尔街之神 @WallStreet0Name \n著名i托 @thewindisfree  20W本金赚到一个亿。\n\n有兴趣的发 自我介绍，资金截图，历史战绩，个人微信ID 到 邮箱：jiamin0407@126.com\n\n一个人的智慧是有限的，一群人的智慧是无限的，如果你符合要求，赶紧发邮件吧。👋👋👋",
-        "contentHtml": "我要组建一个交易攻坚小组，\n\n一个人的精力或者说注意力，很有限，没法关注多个品种甚至多个市场，\n尤其是一些新闻事件，往往需要第一时间注意到并解读对市场的影响，一个人因为各种原因很难时时刻刻关注市场。\n\n所以我要组建一个小组，大家可以在群分享自己擅长的品种/市场，互帮互助，\n你爱我，我爱你，一起甜蜜蜜。\n无论你擅长 加密/美股/A股/金银/大宗商品，都行。\n\n要求，\n1.  人品端正逻辑清晰善于表达乐于分享，\n2. 交易经验丰富，真做交易/投资\n3. 用于交易的资金超过等值200WU以上，也就是人民币1500W\n\n目前群里有三个人，\n我 <a href=\"/xtony1314\" title=\"逍遥XTony（恩师张雪峰）\">@xtony1314</a>\n华尔街之神 <a href=\"/WallStreet0Name\" title=\"华尔街没有名字\">@WallStreet0Name</a> \n著名i托 <a href=\"/thewindisfree\" title=\"Crypto红船投资\">@thewindisfree</a>  20W本金赚到一个亿。\n\n有兴趣的发 自我介绍，资金截图，历史战绩，个人微信ID 到 邮箱：jiamin0407@126.com\n\n一个人的智慧是有限的，一群人的智慧是无限的，如果你符合要求，赶紧发邮件吧。👋👋👋",
-        "link": "https://x.com/xtony1314/status/2060200998715711709"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060215034882785479",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "AI需要数据库（MDB），需要实时可扩展、AI-native的数据云底座（SNOW），应该也需要AI需要更强、更智能的防护墙”。AI时代的安全需求不是“替代”，也会爆发式新增，逻辑在于：\n1）AI Agent、云迁移、多模态数据让攻击面大幅扩大（数据泄露、模型投毒、提示注入等新风险）；\n2）企业部署AI必须同步加强“零信任”、云安全、端点检测（EDR）、AI安全平台；\n之前大摩测AI催生的增量安全机会高达2200亿美元，远超AI可能颠覆现有厂商的负面影响。 \n\n2月中的时候，也明确聊过安全类软件是被误杀的。Agent发展很多原来的软件应用场景都会被Agent替代掉，安全是硬需求，而且agent越普及安全需求会更高。\n\n现在回看2月份这条聊安全股的推文，几乎是Call在安全从去年十月调整跌下来的最底部。当时聊到的cloudfare(net)、CrowdStrike（CRWD)）、Palo Alto Networks（PANW）、Zscaler（ZS）、Fortinet（FTNT）在过去三个月走势都很不错，CRWD接近翻倍。\n\n最近市场对于SaaS的看法不再是整体的一遍倒的负面评价，大家接受AI越发展并不是所有的软件公司都会被冲击，开始区分和筛选哪些是AI受益的软件板块，哪些是AI受损的板块。个人角度，安全应该就是AI受益而非受损的板块。",
-      "contentHtml": "AI需要数据库（MDB），需要实时可扩展、AI-native的数据云底座（SNOW），应该也需要AI需要更强、更智能的防护墙”。AI时代的安全需求不是“替代”，也会爆发式新增，逻辑在于：\n1）AI Agent、云迁移、多模态数据让攻击面大幅扩大（数据泄露、模型投毒、提示注入等新风险）；\n2）企业部署AI必须同步加强“零信任”、云安全、端点检测（EDR）、AI安全平台；\n之前大摩测AI催生的增量安全机会高达2200亿美元，远超AI可能颠覆现有厂商的负面影响。 \n\n2月中的时候，也明确聊过安全类软件是被误杀的。Agent发展很多原来的软件应用场景都会被Agent替代掉，安全是硬需求，而且agent越普及安全需求会更高。\n\n现在回看2月份这条聊安全股的推文，几乎是Call在安全从去年十月调整跌下来的最底部。当时聊到的cloudfare(net)、CrowdStrike（CRWD)）、Palo Alto Networks（PANW）、Zscaler（ZS）、Fortinet（FTNT）在过去三个月走势都很不错，CRWD接近翻倍。\n\n最近市场对于SaaS的看法不再是整体的一遍倒的负面评价，大家接受AI越发展并不是所有的软件公司都会被冲击，开始区分和筛选哪些是AI受益的软件板块，哪些是AI受损的板块。个人角度，安全应该就是AI受益而非受损的板块。",
-      "publishedAt": "2026-05-29T04:21:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2060215034882785479",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJdaAPhboAAimqY.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "被错杀的安全股，Cloudfare强劲财报验证了1月底聊的一个逻辑：在这次软件股被杀跌的风潮里，安全类软件是被误杀的。Agent发展很多原来的软件应用场景都会被Agent替代掉，安全是硬需求，而且agent越普及安全需求会更高。\n\n1、看看Cloudflare的财报\nCloudflare总营收大增34%至6.145亿美元，高于华尔街分析师们平均预期的约5.9亿美元，Non-GAAP 准则下的每股收益约0.28美元，意味着同比大幅增长47%，高于华尔街平均预期的约0.27美元。2025财年全年Cloudflare总营收同比增长30%至21.679亿美元。Cloudflare管理层预计26年一季度总营收区间为6.20亿美元至6.21亿美元，其营收区间中值明显高于华尔街分析师们近日因OpenClaw引发的代理式AI智能体大浪潮席卷全球而不断大幅上调平均预期——约6.155 亿美元。\n\nCloudFlare的CEO Prince在电话会议上表示：“向人工智能和代理式AI智能体(AI and agents)的全球大转变代表了互联网的根本性重组，革新式地推动了市场对于Cloudflare连接云服务与网络安全技术的强劲需求。\n\n如果代理式AI智能体是互联网平台的新用户，那么我们Cloudflare就是他们运行的核心平台和必须要通过的网络。这创造了一个良性的飞轮：更多的代理式AI工作流向Cloudflare Workers订阅平台驱动更多的代码，从而推动了对我们的性能、网络安全和网络连接云服务的需求。我们就是为这一刻和代理互联网的兴起而建立的。”\n\n2、为什么说CloudFlare的优势在AI时代是被加强了？\n1、\n）代理式（agentic）工作负载的爆炸性增长 是目前最大的结构性尾风：AI 代理的请求量远高于传统人类用户（部分场景达 10 倍），而 Cloudflare 的全球边缘网络 + Workers 平台正好是执行这些分布式、低延迟、高并发代理任务的最优基础设施，公司多次在财报和电话会议中将其称为“最大的 tailwind”。\n\n2）不承担 GPU 成本却能捕获 AI 流量价值：Cloudflare 定位为“中立网络层 + 边缘计算平台”，AI 公司把大量推理和代理逻辑迁移到 Workers 上运行，享受 10 倍于超大规模云的效率，却无需 Cloudflare 自己建昂贵的 GPU 集群，这形成了显著的结构性成本优势和毛利率保护。\n\n3）安全与控制需求同步放大：AI 时代带来了海量爬虫、内容抓取、数据泄露和新型攻击，Cloudflare 的 Zero Trust、Bot Management、AI 爬取控制（Pay per Crawl、Bot Audit 等）以及内容货币化工具正好成为出版商、AI 公司和企业的刚需，2025-2026 年相关功能迭代和收购（如 Human Native）都在强化这一护城河。\n\n4）开发者与企业双轮驱动加速：AI 让更多开发者选择边缘 serverless（Workers、R2、D1 等），同时大型企业因 AI 项目而加大对 Cloudflare 的支出（百万美元客户激增、创纪录 ACV），Q4 2025 财报已清晰体现：营收加速到 34%、新 ACV 增长近 50%、指导 2026 年仍保持 28-29% 高增长。\n\n简言之，AI 不是让 Cloudflare “被替代”的威胁，而是让它的全球边缘规模、一体化平台、低成本高性能、开发者友好这些原有优势被放大的超级催化剂。\n\n3、还有哪些安全软件股会受益于AI发展的趋势？\nAI 时代（尤其是 agentic AI、生成式 AI 和 AI 代理爆炸增长的背景下），多家纯安全类软件股的优势同样被 显著加强，类似于 Cloudflare 的逻辑：AI 既制造了海量新型威胁（AI 驱动的攻击、数据泄露、模型投毒、代理滥用等），又让防御侧通过 AI 实现自动化检测、实时响应和规模化防护，形成双重尾风。这些公司不像 GPU 厂商那样直接烧钱建算力，却能捕获 AI 带来的安全支出激增。\n\n让AI梳理了受益于AI趋势的安全类股票\n1）CrowdStrike (CRWD)：最被看好的一家，常被视为“AI 时代 cyber 龙头”。其 Falcon 平台深度集成 AI/ML 用于威胁狩猎、端点检测响应（EDR）和 agentic 安全，2025-2026 年财报显示 AI 威胁情报和自动化响应驱动 ARR 高速增长（23%+），并推出针对 AI 代理的防护。AI 放大了其“单一平台”优势，分析师认为它在 endpoint + cloud + identity 的整合上领先，2026 年被多方视为反弹最强的 cyber 股。\n\n2）Palo Alto Networks (PANW)：网络安全“老大哥”，其 Prisma AI 平台专门保护 AI 应用、模型、代理和数据全生命周期（从开发到部署），AI 时代新攻击向量（如 AI 模型漏洞）直接利好其 Prisma AIRS 等产品。结合下一代防火墙 + XDR，AI 让其从传统防火墙向 AI 驱动的统一平台转型加速，市场视其为“耐久护城河”最强的 cyber 股之一，2026 指导和收购活跃度高。\n\n3）Zscaler (ZS)：零信任架构的云原生代表，其 AI Security、Zero Trust Everywhere 和 Data Security Everywhere 三大支柱已超 10 亿美元 ARR（AI Security 单独接近 5 亿美元并高速增长），专攻 AI 代理防护、数据泄露预防和云/生成式 AI 安全。AI 时代企业对“无处不在零信任”的需求爆炸，其云优先 + AI 增强的优势被放大，分析师认为增长最快、最具弹性。\n\n美股安全类软件股票，有好几只在链上美股平台\n@MSX_CN上都能交易，可以关注起来msx.com",
-        "contentHtml": "被错杀的安全股，Cloudfare强劲财报验证了1月底聊的一个逻辑：在这次软件股被杀跌的风潮里，安全类软件是被误杀的。Agent发展很多原来的软件应用场景都会被Agent替代掉，安全是硬需求，而且agent越普及安全需求会更高。\n\n1、看看Cloudflare的财报\nCloudflare总营收大增34%至6.145亿美元，高于华尔街分析师们平均预期的约5.9亿美元，Non-GAAP 准则下的每股收益约0.28美元，意味着同比大幅增长47%，高于华尔街平均预期的约0.27美元。2025财年全年Cloudflare总营收同比增长30%至21.679亿美元。Cloudflare管理层预计26年一季度总营收区间为6.20亿美元至6.21亿美元，其营收区间中值明显高于华尔街分析师们近日因OpenClaw引发的代理式AI智能体大浪潮席卷全球而不断大幅上调平均预期——约6.155 亿美元。\n\nCloudFlare的CEO Prince在电话会议上表示：“向人工智能和代理式AI智能体(AI and agents)的全球大转变代表了互联网的根本性重组，革新式地推动了市场对于Cloudflare连接云服务与网络安全技术的强劲需求。\n\n如果代理式AI智能体是互联网平台的新用户，那么我们Cloudflare就是他们运行的核心平台和必须要通过的网络。这创造了一个良性的飞轮：更多的代理式AI工作流向Cloudflare Workers订阅平台驱动更多的代码，从而推动了对我们的性能、网络安全和网络连接云服务的需求。我们就是为这一刻和代理互联网的兴起而建立的。”\n\n2、为什么说CloudFlare的优势在AI时代是被加强了？\n1、\n）代理式（agentic）工作负载的爆炸性增长 是目前最大的结构性尾风：AI 代理的请求量远高于传统人类用户（部分场景达 10 倍），而 Cloudflare 的全球边缘网络 + Workers 平台正好是执行这些分布式、低延迟、高并发代理任务的最优基础设施，公司多次在财报和电话会议中将其称为“最大的 tailwind”。\n\n2）不承担 GPU 成本却能捕获 AI 流量价值：Cloudflare 定位为“中立网络层 + 边缘计算平台”，AI 公司把大量推理和代理逻辑迁移到 Workers 上运行，享受 10 倍于超大规模云的效率，却无需 Cloudflare 自己建昂贵的 GPU 集群，这形成了显著的结构性成本优势和毛利率保护。\n\n3）安全与控制需求同步放大：AI 时代带来了海量爬虫、内容抓取、数据泄露和新型攻击，Cloudflare 的 Zero Trust、Bot Management、AI 爬取控制（Pay per Crawl、Bot Audit 等）以及内容货币化工具正好成为出版商、AI 公司和企业的刚需，2025-2026 年相关功能迭代和收购（如 Human Native）都在强化这一护城河。\n\n4）开发者与企业双轮驱动加速：AI 让更多开发者选择边缘 serverless（Workers、R2、D1 等），同时大型企业因 AI 项目而加大对 Cloudflare 的支出（百万美元客户激增、创纪录 ACV），Q4 2025 财报已清晰体现：营收加速到 34%、新 ACV 增长近 50%、指导 2026 年仍保持 28-29% 高增长。\n\n简言之，AI 不是让 Cloudflare “被替代”的威胁，而是让它的全球边缘规模、一体化平台、低成本高性能、开发者友好这些原有优势被放大的超级催化剂。\n\n3、还有哪些安全软件股会受益于AI发展的趋势？\nAI 时代（尤其是 agentic AI、生成式 AI 和 AI 代理爆炸增长的背景下），多家纯安全类软件股的优势同样被 显著加强，类似于 Cloudflare 的逻辑：AI 既制造了海量新型威胁（AI 驱动的攻击、数据泄露、模型投毒、代理滥用等），又让防御侧通过 AI 实现自动化检测、实时响应和规模化防护，形成双重尾风。这些公司不像 GPU 厂商那样直接烧钱建算力，却能捕获 AI 带来的安全支出激增。\n\n让AI梳理了受益于AI趋势的安全类股票\n1）CrowdStrike (CRWD)：最被看好的一家，常被视为“AI 时代 cyber 龙头”。其 Falcon 平台深度集成 AI/ML 用于威胁狩猎、端点检测响应（EDR）和 agentic 安全，2025-2026 年财报显示 AI 威胁情报和自动化响应驱动 ARR 高速增长（23%+），并推出针对 AI 代理的防护。AI 放大了其“单一平台”优势，分析师认为它在 endpoint + cloud + identity 的整合上领先，2026 年被多方视为反弹最强的 cyber 股。\n\n2）Palo Alto Networks (PANW)：网络安全“老大哥”，其 Prisma AI 平台专门保护 AI 应用、模型、代理和数据全生命周期（从开发到部署），AI 时代新攻击向量（如 AI 模型漏洞）直接利好其 Prisma AIRS 等产品。结合下一代防火墙 + XDR，AI 让其从传统防火墙向 AI 驱动的统一平台转型加速，市场视其为“耐久护城河”最强的 cyber 股之一，2026 指导和收购活跃度高。\n\n3）Zscaler (ZS)：零信任架构的云原生代表，其 AI Security、Zero Trust Everywhere 和 Data Security Everywhere 三大支柱已超 10 亿美元 ARR（AI Security 单独接近 5 亿美元并高速增长），专攻 AI 代理防护、数据泄露预防和云/生成式 AI 安全。AI 时代企业对“无处不在零信任”的需求爆炸，其云优先 + AI 增强的优势被放大，分析师认为增长最快、最具弹性。\n\n美股安全类软件股票，有好几只在链上美股平台\n<a href=\"/MSX_CN\" title=\"麦通MSX\">@MSX_CN</a>上都能交易，可以关注起来<a href=\"http://msx.com\">msx.com</a>",
-        "link": "https://x.com/qinbafrank/status/2021506837720498224",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HA3VwJVasAABC2X.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060202592983294273",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "美伊现在舆论战玩的很溜：\n前天晚上伊朗放出一版协议备忘录，美国否认；\n昨晚美国放出一版协议备忘录，伊朗否认。\n不过市场都买单。\n\n本质上都是在通过舆论施压和影响对方，双方想达成的意愿很高，但都不想关键问题上让步或者说即使让步也要考虑国内国际上的影响。通过舆论战，一方面表明态度，另一方面也是向国内其他立场派别喊话，打预防针，美伊皆如此。\n\n还是之前这里nitter.net/qinbafrank/status/2059…聊到的：美伊双方还是越来越有可能达成昨天聊到的去年中美贸易战的休战模式。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "美伊现在舆论战玩的很溜：\n前天晚上伊朗放出一版协议备忘录，美国否认；\n昨晚美国放出一版协议备忘录，伊朗否认。\n不过市场都买单。\n\n本质上都是在通过舆论施压和影响对方，双方想达成的意愿很高，但都不想关键问题上让步或者说即使让步也要考虑国内国际上的影响。通过舆论战，一方面表明态度，另一方面也是向国内其他立场派别喊话，打预防针，美伊皆如此。\n\n还是之前这里<a href=\"https://nitter.net/qinbafrank/status/2059097307124269240?s=20\">nitter.net/qinbafrank/status/2059…</a>聊到的：美伊双方还是越来越有可能达成昨天聊到的去年中美贸易战的休战模式。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-05-29T03:32:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2060202592983294273",
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "聊聊美伊谈判的进展，伊朗放出草案为何白宫强烈否认？双方都在争夺对自己有利的条款，并试图通过舆论和市场影响施压对方。聊聊个人看法。\n\n昨晚上伊朗媒体先放出一个协议草案，说如果美伊达成协议，霍尔木兹商业船流可能在一个月内恢复到战前水平。这个消息出来以后，油价先跌。\n\n但很快，白宫就否认了这个说法。特朗普的口径也没有变软。他说霍尔木兹是国际水道，必须对所有人开放；美国不会接受一个短期协议，也没有准备放松制裁、释放伊朗海外冻结资金，更不同意让其他大国接手伊朗高浓缩铀库存。\n\n1、为什么昨晚伊朗放出草案，意图是什么？\n1）测试市场和国际社会反应。 伊朗把“一个月内恢复商业航运”放出来，油价立刻跌，说明市场非常愿意交易“战争降温”。这给美国制造压力：如果美国否认或继续军事行动，就会被市场和盟友视为阻碍油价回落的一方。\n\n2）把协议文本预先塑造成“伊朗没有投降”。 草案里最敏感的不是“恢复航运”，而是“伊朗与阿曼合作管理海峡交通”和“军舰排除”。这给伊朗国内的解释是：我们可以让商业船走，但不是美国强迫我们开放，而是在伊朗主权/区域管理框架下恢复通行。\n\n3）把核问题后置。路透社后续报道指出，伊朗国家电视台披露的草案没有提伊朗核计划，而美国希望拆除伊朗核能力；伊朗消息源称核问题应放到第二轮谈判，这一点很可能无法让特朗普阵营内的强硬派满意。\n\n所以伊朗的策略是：先谈霍尔木兹、封锁、资金、通航；核问题放进60天后续窗口。 美国的策略正相反：可以谈海峡，但必须同时拿到“核胜利”的可验证承诺。\n\n2、白宫为何强硬反对？\n1）它要防止市场、媒体和伊朗把“非正式草案”当成“美国已接受”。草案如果按伊朗版本传播，美国等于被动接受“撤军、解除封锁、伊朗—阿曼管理海峡、军舰排除”。这些条款对美国国内鹰派、以色列和部分海湾盟友都很难交代。\n\n2) 川普不想让伊朗觉得可以靠油价和美国中期选举压力“拖赢”。AP报道说，川普在内阁会上称伊朗以为可以等到美国中期选举后再谈，但他不在乎中期选举；AP还写道，川普要的是一个既能重开霍尔木兹、又能证明伊朗核能力被大幅削弱的结局。\n\n3）美国要拒绝“霍尔木兹由伊朗/阿曼管理”的叙事。川普明确说霍尔木兹是国际水域，没有国家能控制；搬到电视台还报道，川普甚至对阿曼用了威胁性语言，并称美国国务院随后转发了包含“Oman”的文字记录，说明这不是简单口误。\n\n换句话说，白宫否认的不是“美伊在谈”，而是否认伊朗版本的协议框架已经被美国接受。\n\n3、现在的状态\n现在更像是双方都在博弈对自己最有利的协议：\n一方面其实都希望战争赶紧结束；\n另一方面又都要对国内政治压力交代。\n1）伊朗要资产解冻、制裁松动、石油出口和海上通行权。\n2）美国要霍尔木兹自由通行、高浓缩铀处理、核项目限制，以及不能让伊朗把海峡变成收费和审核工具。\n\n油价大跌，说明市场相信最坏的海峡失控风险在下降。白宫和川普的表态，又说明真正的条款还没谈完。\n\n4、后续怎么演化？\n1）小规模的摩擦，小规模的“边打边谈”其实已经在上演了，美军可能继续对无人机、导弹阵地、布雷船只、雷达/指挥站做有限打击；伊朗则会继续用革命卫队海军、无人机、许可制和代理人战线施压。双方都还不想把谈判彻底打死，所以会尽量把军事动作包装成“防御性”“有限性”“维护停火”。\n\n全面升级在个人框架下并不是基准情景，核心还是双方对此意愿比不大。当然要谨防全面升级的风险\n\n2）还是维持之前聊到的，个美伊双方还是越来越有可能达成昨天聊到的去年中美贸易战的休战模式。只是时间和节奏并不清晰。\n\n现在不是单纯外交博弈，而是“外交文本 + 油价压力 + 军事擦边 + 国内政治”四线同时博弈。\n\n伊朗想要的是：解除封锁、释放资金、保留霍尔木兹管理叙事、保留核权利、避免被国内看成投降。\n美国想要的是：霍尔木兹无条件开放、不能收费、不能由伊朗或阿曼控制、伊朗核库存必须有可验证处理、不给伊朗一个“靠封海峡换钱”的胜利样板。\n海湾国家想要的是：别再打、别再炸能源设施、别让海峡变成伊朗收费站，也别被特朗普强拉进对以正常化交易。\n\n所以，短期最可能不是突然和平，也不是全面战争，而是高压下的有限协议尝试。\n\n如前两天聊到球已经在禁区里，但球门前还在混战。 \n接近一个框架，但双方仍在争夺关键条款的解释权，军事上则进入“边打边谈”的高压阶段。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "聊聊美伊谈判的进展，伊朗放出草案为何白宫强烈否认？双方都在争夺对自己有利的条款，并试图通过舆论和市场影响施压对方。聊聊个人看法。\n\n昨晚上伊朗媒体先放出一个协议草案，说如果美伊达成协议，霍尔木兹商业船流可能在一个月内恢复到战前水平。这个消息出来以后，油价先跌。\n\n但很快，白宫就否认了这个说法。特朗普的口径也没有变软。他说霍尔木兹是国际水道，必须对所有人开放；美国不会接受一个短期协议，也没有准备放松制裁、释放伊朗海外冻结资金，更不同意让其他大国接手伊朗高浓缩铀库存。\n\n1、为什么昨晚伊朗放出草案，意图是什么？\n1）测试市场和国际社会反应。 伊朗把“一个月内恢复商业航运”放出来，油价立刻跌，说明市场非常愿意交易“战争降温”。这给美国制造压力：如果美国否认或继续军事行动，就会被市场和盟友视为阻碍油价回落的一方。\n\n2）把协议文本预先塑造成“伊朗没有投降”。 草案里最敏感的不是“恢复航运”，而是“伊朗与阿曼合作管理海峡交通”和“军舰排除”。这给伊朗国内的解释是：我们可以让商业船走，但不是美国强迫我们开放，而是在伊朗主权/区域管理框架下恢复通行。\n\n3）把核问题后置。路透社后续报道指出，伊朗国家电视台披露的草案没有提伊朗核计划，而美国希望拆除伊朗核能力；伊朗消息源称核问题应放到第二轮谈判，这一点很可能无法让特朗普阵营内的强硬派满意。\n\n所以伊朗的策略是：先谈霍尔木兹、封锁、资金、通航；核问题放进60天后续窗口。 美国的策略正相反：可以谈海峡，但必须同时拿到“核胜利”的可验证承诺。\n\n2、白宫为何强硬反对？\n1）它要防止市场、媒体和伊朗把“非正式草案”当成“美国已接受”。草案如果按伊朗版本传播，美国等于被动接受“撤军、解除封锁、伊朗—阿曼管理海峡、军舰排除”。这些条款对美国国内鹰派、以色列和部分海湾盟友都很难交代。\n\n2) 川普不想让伊朗觉得可以靠油价和美国中期选举压力“拖赢”。AP报道说，川普在内阁会上称伊朗以为可以等到美国中期选举后再谈，但他不在乎中期选举；AP还写道，川普要的是一个既能重开霍尔木兹、又能证明伊朗核能力被大幅削弱的结局。\n\n3）美国要拒绝“霍尔木兹由伊朗/阿曼管理”的叙事。川普明确说霍尔木兹是国际水域，没有国家能控制；搬到电视台还报道，川普甚至对阿曼用了威胁性语言，并称美国国务院随后转发了包含“Oman”的文字记录，说明这不是简单口误。\n\n换句话说，白宫否认的不是“美伊在谈”，而是否认伊朗版本的协议框架已经被美国接受。\n\n3、现在的状态\n现在更像是双方都在博弈对自己最有利的协议：\n一方面其实都希望战争赶紧结束；\n另一方面又都要对国内政治压力交代。\n1）伊朗要资产解冻、制裁松动、石油出口和海上通行权。\n2）美国要霍尔木兹自由通行、高浓缩铀处理、核项目限制，以及不能让伊朗把海峡变成收费和审核工具。\n\n油价大跌，说明市场相信最坏的海峡失控风险在下降。白宫和川普的表态，又说明真正的条款还没谈完。\n\n4、后续怎么演化？\n1）小规模的摩擦，小规模的“边打边谈”其实已经在上演了，美军可能继续对无人机、导弹阵地、布雷船只、雷达/指挥站做有限打击；伊朗则会继续用革命卫队海军、无人机、许可制和代理人战线施压。双方都还不想把谈判彻底打死，所以会尽量把军事动作包装成“防御性”“有限性”“维护停火”。\n\n全面升级在个人框架下并不是基准情景，核心还是双方对此意愿比不大。当然要谨防全面升级的风险\n\n2）还是维持之前聊到的，个美伊双方还是越来越有可能达成昨天聊到的去年中美贸易战的休战模式。只是时间和节奏并不清晰。\n\n现在不是单纯外交博弈，而是“外交文本 + 油价压力 + 军事擦边 + 国内政治”四线同时博弈。\n\n伊朗想要的是：解除封锁、释放资金、保留霍尔木兹管理叙事、保留核权利、避免被国内看成投降。\n美国想要的是：霍尔木兹无条件开放、不能收费、不能由伊朗或阿曼控制、伊朗核库存必须有可验证处理、不给伊朗一个“靠封海峡换钱”的胜利样板。\n海湾国家想要的是：别再打、别再炸能源设施、别让海峡变成伊朗收费站，也别被特朗普强拉进对以正常化交易。\n\n所以，短期最可能不是突然和平，也不是全面战争，而是高压下的有限协议尝试。\n\n如前两天聊到球已经在禁区里，但球门前还在混战。 \n接近一个框架，但双方仍在争夺关键条款的解释权，军事上则进入“边打边谈”的高压阶段。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2059831810524414151",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJX91pla0AAkJIY.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060200173901627830",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
-      "content": "Apple: apple.co/49nD1Zq\n\nYouTube: piped.video/8R_9W9y8Y78\n\nTranscript: nav.al/hardware",
-      "contentHtml": "Apple: <a href=\"http://apple.co/49nD1Zq\">apple.co/49nD1Zq</a>\n\nYouTube: <a href=\"http://piped.video/8R_9W9y8Y78\">piped.video/8R_9W9y8Y78</a>\n\nTranscript: <a href=\"http://nav.al/hardware\">nav.al/hardware</a>",
-      "publishedAt": "2026-05-29T03:22:00.000Z",
-      "link": "https://x.com/naval/status/2060200173901627830",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060200170936250463",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
-      "content": "Part 2 of the @navalpodcast with @rauchg, @maxhodak_, and @bscholl.\n\nVibe Coding Hardware\n\n00:35 Vibe Coding a Turbine Blade\n\n04:04 Open Source AI Compounds China’s Advantage\n\n06:12 You Always Want the Smartest Model\n\n08:41 Software Still Needs Hands\n\n10:40 Humans Are Becoming Verifiers",
-      "contentHtml": "Part 2 of the <a href=\"/navalpodcast\" title=\"Naval Podcast\">@navalpodcast</a> with <a href=\"/rauchg\" title=\"Guillermo Rauch\">@rauchg</a>, <a href=\"/maxhodak_\" title=\"Max Hodak\">@maxhodak_</a>, and <a href=\"/bscholl\" title=\"Blake Scholl 🛫\">@bscholl</a>.\n\nVibe Coding Hardware\n\n00:35 Vibe Coding a Turbine Blade\n\n04:04 Open Source AI Compounds China’s Advantage\n\n06:12 You Always Want the Smartest Model\n\n08:41 Software Still Needs Hands\n\n10:40 Humans Are Becoming Verifiers",
-      "publishedAt": "2026-05-29T03:22:00.000Z",
-      "link": "https://x.com/naval/status/2060200170936250463",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060196533686226947",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "用婚姻的逻辑，重新想了一下股票\n婚姻不能随便选\n股票也一样\n很多人买股票\n就像被催婚一样\n看别人都上车了\n自己也开始焦虑\n“是不是再不买就晚了？”\n但真正的问题不是晚不晚\n而是你到底了不了解它\n好的股票，像好的婚姻\n不是每天都让你激情上头\n而是长期稳定地给你回报\n让你的资产状态越来越健康\n差的股票，像不幸福的婚姻\n一开始只是觉得“还能忍”\n后来才发现\n它消耗的不只是本金\n还有你的情绪、判断力和生活状态",
-      "contentHtml": "用婚姻的逻辑，重新想了一下股票\n婚姻不能随便选\n股票也一样\n很多人买股票\n就像被催婚一样\n看别人都上车了\n自己也开始焦虑\n“是不是再不买就晚了？”\n但真正的问题不是晚不晚\n而是你到底了不了解它\n好的股票，像好的婚姻\n不是每天都让你激情上头\n而是长期稳定地给你回报\n让你的资产状态越来越健康\n差的股票，像不幸福的婚姻\n一开始只是觉得“还能忍”\n后来才发现\n它消耗的不只是本金\n还有你的情绪、判断力和生活状态",
-      "publishedAt": "2026-05-29T03:08:00.000Z",
-      "link": "https://x.com/dongbimao/status/2060196533686226947",
       "stats": {
         "replies": 0,
         "retweets": 0,
