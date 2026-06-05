@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T05:00:39.642Z",
+  "lastUpdated": "2026-06-05T06:36:59.984Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,159 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 591,
+    "newFetched": 592,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2062781804323684678",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "老黄终于喊到了他一直提到的物理AI，他说“机器人技术将成为韩国未来的下一个主要产业。”\n“韩国擅长制造、机电一体化，而且在人工智能方面也非常出色。”\n“所有这些技术的融合非常适合机器人”\n两周前还专门梳理了边缘计算、端侧AI和物理AI的发展态势及产业链。",
+      "contentHtml": "老黄终于喊到了他一直提到的物理AI，他说“机器人技术将成为韩国未来的下一个主要产业。”\n“韩国擅长制造、机电一体化，而且在人工智能方面也非常出色。”\n“所有这些技术的融合非常适合机器人”\n两周前还专门梳理了边缘计算、端侧AI和物理AI的发展态势及产业链。",
+      "publishedAt": "2026-06-05T06:21:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2062781804323684678",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "一张图看清边缘计算/端侧AI/物理AI的发展趋势及产业链，就能理解为什么英伟达的财报要把边缘计算单列出来",
+        "contentHtml": "一张图看清边缘计算/端侧AI/物理AI的发展趋势及产业链，就能理解为什么英伟达的财报要把边缘计算单列出来",
+        "link": "https://x.com/qinbafrank/status/2058122669120528632",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI_qwwTbEAAhPAj.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062773790254535092",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "当CFTC前代理主席+美国法律界最懂加密的前FTX总法律顾问（曾经Coinbase上市核心法律团队成员）聚在Backpack，他们在布局什么？昨天参加了Backpack的AMA，不得不感叹下Backpack核心团队应该是当下加密领域政策合规背景最强大的一支团队。为什么这么说？这里得先特别聊下曾经担任CFTC代理主席的现任Backpack US总裁的Mark Wetjen，以及前FTX总法律顾问和Coinbase上市法律顾问团队核心成员的现任backpack联创Can sun。\n\nMark Wetjen于2026年3月正式出任Backpack US总裁，核心任务是带领Backpack完成美国本土合规扩张，Wetjen的加入直接提升了Backpack机构信任度和监管对话权重。他的背景堪称“完美匹配”：\n1）CFTC资深监管经验：2011-2015年任CFTC（美国商品及期货委员会）委员，并于2013-2014年担任代理主席，负责期货、衍生品（含加密永续合约）的监管框架制定。可以说Mark曾经是美国金融监管的制定者之一。\n\n2）DTCC核心人脉：Mark曾任DTCC全球公共政策负责人——DTCC是美国证券清算结算的“心脏”（全美股票、债券最终都在这里结算）。他现在亲自参与DTCC的tokenized securities行业工作组，推动机构级代币化资产落地。\n\nCan Sun是Backpack Exchange的联合创始人兼合规/法务负责人，耶鲁法学院+普林斯顿博士，曾在美国最顶级律所Fenwick & West领导区块链组，为Coinbase、Kraken等提供合规建议；21年8月加入FTX International GC，负责全球非美辖区牌照和监管对接（包括Dubai VARA等）、后22年FTX出事后离开、被证实从未批准或知晓挪用客户资金情况。\n\n顶级监管大佬 + 加密法律最懂的人，这几乎是传统金融监管天花板 × Crypto法律天花板的最强组合\n\n他们正在做什么？\n1）美国牌照+衍生品注册：推动Backpack在美国各地拿到州MTL（Money Transmitter License），同时正在进行CFTC的DCM（指定合约市场）和DCO（衍生品清算组织）注册，为永续合约、股票期权等提供全合规路径。2026年4月他们已与SEC Crypto Task Force直接会面，讨论证券法适用性。\n\n2）真实股票DTCC结算体系：Backpack Securities是真实股票所有权（走传统经纪商+DTCC/ACATS转仓），同时支持链上（Solana）分发和DeFi使用（白天持真实股票拿股息，晚上转链上做借贷/LP）。\n\n3）全球合规超级应用：目标是建一个真正受监管的全球加密交易所+钱包一体化平台，已获VARA牌照、欧洲MiFID II（通过收购FTX Europe资产）、多州MTL。未来会继续拿牌，而非绕监管。\n\n两人联手能擦出了什么火花？\nMark Wetjen带来监管钥匙+DTCC人脉，也懂懂CFTC/SEC的政策诉求和实际操作，能直接打通美国证券牌照和tokenized securities路径；\n\nCan Sun则把过往的经验、Coinbase上市的证券法经验都带入到Backpack里—从Day1 就并行「产品 + 合规」两条线，也深度了解全球合规牌照流程、监管沟通以及所有坑。\n\n顶级监管大佬 × 全球最懂加密法律的人，汇聚在一起擦出的火花就是：构建了当下最强的合规监管护城河。\n\n这样也会让crypto能走到更高的纬度，只有足够合规，大资金、机构才会真正放心进入，也是真正有crypto情怀的。领导层合规监管背景强大，团队全员优秀，Backpack未来可期！",
+      "contentHtml": "当CFTC前代理主席+美国法律界最懂加密的前FTX总法律顾问（曾经Coinbase上市核心法律团队成员）聚在Backpack，他们在布局什么？昨天参加了Backpack的AMA，不得不感叹下Backpack核心团队应该是当下加密领域政策合规背景最强大的一支团队。为什么这么说？这里得先特别聊下曾经担任CFTC代理主席的现任Backpack US总裁的Mark Wetjen，以及前FTX总法律顾问和Coinbase上市法律顾问团队核心成员的现任backpack联创Can sun。\n\nMark Wetjen于2026年3月正式出任Backpack US总裁，核心任务是带领Backpack完成美国本土合规扩张，Wetjen的加入直接提升了Backpack机构信任度和监管对话权重。他的背景堪称“完美匹配”：\n1）CFTC资深监管经验：2011-2015年任CFTC（美国商品及期货委员会）委员，并于2013-2014年担任代理主席，负责期货、衍生品（含加密永续合约）的监管框架制定。可以说Mark曾经是美国金融监管的制定者之一。\n\n2）DTCC核心人脉：Mark曾任DTCC全球公共政策负责人——DTCC是美国证券清算结算的“心脏”（全美股票、债券最终都在这里结算）。他现在亲自参与DTCC的tokenized securities行业工作组，推动机构级代币化资产落地。\n\nCan Sun是Backpack Exchange的联合创始人兼合规/法务负责人，耶鲁法学院+普林斯顿博士，曾在美国最顶级律所Fenwick & West领导区块链组，为Coinbase、Kraken等提供合规建议；21年8月加入FTX International GC，负责全球非美辖区牌照和监管对接（包括Dubai VARA等）、后22年FTX出事后离开、被证实从未批准或知晓挪用客户资金情况。\n\n顶级监管大佬 + 加密法律最懂的人，这几乎是传统金融监管天花板 × Crypto法律天花板的最强组合\n\n他们正在做什么？\n1）美国牌照+衍生品注册：推动Backpack在美国各地拿到州MTL（Money Transmitter License），同时正在进行CFTC的DCM（指定合约市场）和DCO（衍生品清算组织）注册，为永续合约、股票期权等提供全合规路径。2026年4月他们已与SEC Crypto Task Force直接会面，讨论证券法适用性。\n\n2）真实股票DTCC结算体系：Backpack Securities是真实股票所有权（走传统经纪商+DTCC/ACATS转仓），同时支持链上（Solana）分发和DeFi使用（白天持真实股票拿股息，晚上转链上做借贷/LP）。\n\n3）全球合规超级应用：目标是建一个真正受监管的全球加密交易所+钱包一体化平台，已获VARA牌照、欧洲MiFID II（通过收购FTX Europe资产）、多州MTL。未来会继续拿牌，而非绕监管。\n\n两人联手能擦出了什么火花？\nMark Wetjen带来监管钥匙+DTCC人脉，也懂懂CFTC/SEC的政策诉求和实际操作，能直接打通美国证券牌照和tokenized securities路径；\n\nCan Sun则把过往的经验、Coinbase上市的证券法经验都带入到Backpack里—从Day1 就并行「产品 + 合规」两条线，也深度了解全球合规牌照流程、监管沟通以及所有坑。\n\n顶级监管大佬 × 全球最懂加密法律的人，汇聚在一起擦出的火花就是：构建了当下最强的合规监管护城河。\n\n这样也会让crypto能走到更高的纬度，只有足够合规，大资金、机构才会真正放心进入，也是真正有crypto情怀的。领导层合规监管背景强大，团队全员优秀，Backpack未来可期！",
+      "publishedAt": "2026-06-05T05:49:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2062773790254535092",
+      "quote": {
+        "username": "Backpack_CN",
+        "displayName": "Backpack中文",
+        "content": "Backpack证券第一次AMA来了🖤\n\n这次我们邀请到了前CFTC代理主席，同样也是Backpack US 总裁 Mark Wetjen参与!\n\n一起锁定6月4日 周四晚18:00\n\n转发并且在评论区留下对Backpack证券的问题，我们会挑选好的问题在线解答，并且送出福利！",
+        "contentHtml": "Backpack证券第一次AMA来了🖤\n\n这次我们邀请到了前CFTC代理主席，同样也是Backpack US 总裁 Mark Wetjen参与!\n\n一起锁定6月4日 周四晚18:00\n\n转发并且在评论区留下对Backpack证券的问题，我们会挑选好的问题在线解答，并且送出福利！",
+        "link": "https://x.com/Backpack_CN/status/2062138792467923425",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJ4wS4DbUAA5wZD.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062772030928519593",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
+      "content": "btc在反弹，而eth直接新低，ethbtc前两天强势的汇率涨幅全部回吐。\n又多了一个样本。\n下次再遇到这个组合，就记住直接暴力锤eth\n可惜我的空单昨天二探平完了\n看戏了\n$BTC $ETH",
+      "contentHtml": "btc在反弹，而eth直接新低，ethbtc前两天强势的汇率涨幅全部回吐。\n又多了一个样本。\n下次再遇到这个组合，就记住直接暴力锤eth\n可惜我的空单昨天二探平完了\n看戏了\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a>",
+      "publishedAt": "2026-06-05T05:42:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2062772030928519593",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKBvz0IaEAAp9Qs.jpg"
+        }
+      ],
+      "quote": {
+        "username": "boundaryhq",
+        "displayName": "boundary",
+        "content": "最近这7天btc下跌了8.3%，ethbtc汇率涨了4.2%，复盘历史这种在btc大跌但eth汇率强势的情况，从2017年开始样本累计60个，60个样本中未来7天 14天 30天 90天eth累计涨幅中位数分别是-0.7%，-0.8%，-3.8%，-8.5%\n$BTC ethereum:native",
+        "contentHtml": "最近这7天btc下跌了8.3%，ethbtc汇率涨了4.2%，复盘历史这种在btc大跌但eth汇率强势的情况，从2017年开始样本累计60个，60个样本中未来7天 14天 30天 90天eth累计涨幅中位数分别是-0.7%，-0.8%，-3.8%，-8.5%\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> ethereum:native",
+        "link": "https://x.com/boundaryhq/status/2061770586536415593",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJzhNNGaoAAlzqt.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062766319846695138",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "更新：绿的谐波涨停了，真为大 A 的朋友开心\n\n所以为什么 BTC 又跌回来了呢🥹",
+      "contentHtml": "更新：绿的谐波涨停了，真为大 A 的朋友开心\n\n所以为什么 BTC 又跌回来了呢🥹",
+      "publishedAt": "2026-06-05T05:19:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2062766319846695138",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKBrB7UaoAAqwWe.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062764678171042175",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
+      "content": "新股神 @aleabitoreddit 喊单大a 机器人股票 绿的谐波，直接20%涨幅封板。\n现在看还是加密牛逼，新股神和大统领都喊不动\n$BTC",
+      "contentHtml": "新股神 <a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a> 喊单大a 机器人股票 绿的谐波，直接20%涨幅封板。\n现在看还是加密牛逼，新股神和大统领都喊不动\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
+      "publishedAt": "2026-06-05T05:13:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2062764678171042175",
+      "quote": {
+        "username": "boundaryhq",
+        "displayName": "boundary",
+        "content": "美股喊单王 @aleabitoreddit 今天开始喊单btc和eth。上一个折戟加密的喊单王是美股喊单百战百胜的川大统领\n$BTC $ETH",
+        "contentHtml": "美股喊单王 <a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a> 今天开始喊单btc和eth。上一个折戟加密的喊单王是美股喊单百战百胜的川大统领\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a>",
+        "link": "https://x.com/boundaryhq/status/2062477233990832257"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062762889484861929",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
+      "content": "太屌了，吃到个20cm，原来外面真的没有下雨",
+      "contentHtml": "太屌了，吃到个20cm，原来外面真的没有下雨",
+      "publishedAt": "2026-06-05T05:06:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2062762889484861929",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2062755058081841564",
       "username": "naval",
@@ -212,6 +360,38 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HKBLDaJaMAAyX4w.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062733952729726994",
+      "username": "elonmusk",
+      "displayName": "Elon Musk",
+      "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_bigger.jpg",
+      "content": "Vote them out",
+      "contentHtml": "Vote them out",
+      "publishedAt": "2026-06-05T03:11:00.000Z",
+      "link": "https://x.com/elonmusk/status/2062733952729726994",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "america",
+        "displayName": "America",
+        "content": "The U.S. Senate has just rejected a motion to add the SAVE America Act as part of budget reconciliation on a 48-50 vote.\n\nRepublicans who voted against it:\n-Thom Tillis\n-Lisa Murkowski\n-Mitch McConnell\n-Susan Collins",
+        "contentHtml": "The U.S. Senate has just rejected a motion to add the SAVE America Act as part of budget reconciliation on a 48-50 vote.\n\nRepublicans who voted against it:\n-Thom Tillis\n-Lisa Murkowski\n-Mitch McConnell\n-Susan Collins",
+        "link": "https://x.com/america/status/2062695043631026226",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKAqNe_XcAACw8v.jpg"
           }
         ]
       },
@@ -12015,159 +12195,6 @@
         "content": "美股总共5000多只股票，其中纳斯达克3000多只。\n昨天我在想是否能做一个，把这几千只股票在同一张画布上进行一种巧妙的极简可视化，来鸟瞰观察轮动现象以及你做的这种泡沫阶段演化的。",
         "contentHtml": "美股总共5000多只股票，其中纳斯达克3000多只。\n昨天我在想是否能做一个，把这几千只股票在同一张画布上进行一种巧妙的极简可视化，来鸟瞰观察轮动现象以及你做的这种泡沫阶段演化的。",
         "link": "https://x.com/coolish/status/2059617693423247412"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059984083854467551",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#UMAC 盘前暴涨32%\n\n无人机板块是否会复制“太空概念”的辉煌涨幅呢\n\n5 月 28 日特朗普政府正与美国无人机企业协商资助，涉及UMAC、Neros、Performance Drone Work等，形式可能包括贷款、融资甚至政府持股\n\n背后原因很清楚：无人机已经从“新兴科技”变成战争消耗品。美国需要本土产能、低成本批量制造以及去中国化供应链，联想到24年 #RKLB 大涨360%的原因也是政府需求开始真实落到商业航天公司身上\n\n那目前无人机政策的风来了\n\n第一，国家安全需求明确\n未来战场需要大量低价、可消耗、快速迭代的无人系统\n\n第二，公开市场标的稀缺\n一旦政策资金进入，资金会优先寻找纯度高的股票\n\n第三，产业链国产替代\n整机、飞控、电机、电调、通信、光学、电池都可能被重新定价\n\n目前的无人机板块AVAV基本是最接核心的标的\n\nSwitchblade 巡飞弹、小型无人系统、反无人机能力都有真实军方需求，收购 BlueHalo 后又补强了太空、网络和定向能业务。它的逻辑可以完全对应国防订单的需求，不是单纯的概念股\n\nUMAC更偏无人机供应链国产替代逻辑（唐纳德·小特朗普的公司）\n\n还可以重点关注 #KTOS，#RCAT 等标的",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23UMAC\">#UMAC</a> 盘前暴涨32%\n\n无人机板块是否会复制“太空概念”的辉煌涨幅呢\n\n5 月 28 日特朗普政府正与美国无人机企业协商资助，涉及UMAC、Neros、Performance Drone Work等，形式可能包括贷款、融资甚至政府持股\n\n背后原因很清楚：无人机已经从“新兴科技”变成战争消耗品。美国需要本土产能、低成本批量制造以及去中国化供应链，联想到24年 <a href=\"/search?f=tweets&q=%23RKLB\">#RKLB</a> 大涨360%的原因也是政府需求开始真实落到商业航天公司身上\n\n那目前无人机政策的风来了\n\n第一，国家安全需求明确\n未来战场需要大量低价、可消耗、快速迭代的无人系统\n\n第二，公开市场标的稀缺\n一旦政策资金进入，资金会优先寻找纯度高的股票\n\n第三，产业链国产替代\n整机、飞控、电机、电调、通信、光学、电池都可能被重新定价\n\n目前的无人机板块AVAV基本是最接核心的标的\n\nSwitchblade 巡飞弹、小型无人系统、反无人机能力都有真实军方需求，收购 BlueHalo 后又补强了太空、网络和定向能业务。它的逻辑可以完全对应国防订单的需求，不是单纯的概念股\n\nUMAC更偏无人机供应链国产替代逻辑（唐纳德·小特朗普的公司）\n\n还可以重点关注 <a href=\"/search?f=tweets&q=%23KTOS\">#KTOS</a>，<a href=\"/search?f=tweets&q=%23RCAT\">#RCAT</a> 等标的",
-      "publishedAt": "2026-05-28T13:04:00.000Z",
-      "link": "https://x.com/dongbimao/status/2059984083854467551",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJaImT_a8AAo9MI.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059984240033595489",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "目前到达了新调整的通道下沿\n这个位置很关键\n大家看好价格行为PA关注一下🫡",
-      "contentHtml": "目前到达了新调整的通道下沿\n这个位置很关键\n大家看好价格行为PA关注一下🫡",
-      "publishedAt": "2026-05-28T13:04:00.000Z",
-      "link": "https://x.com/hazenlee/status/2059984240033595489",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJaIvQHa4AE2phj.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "这个位置都在喊牛回提示风险显得我很傻逼\n不过说不说是我的义务\n信不信是你的决策\n盈亏同源 没啥对和错\n就是对和错自己都认就行\n也别拧巴别怕踏空别怕卖飞",
-        "contentHtml": "这个位置都在喊牛回提示风险显得我很傻逼\n不过说不说是我的义务\n信不信是你的决策\n盈亏同源 没啥对和错\n就是对和错自己都认就行\n也别拧巴别怕踏空别怕卖飞",
-        "link": "https://x.com/hazenlee/status/2051542898735530441",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHiLY2JbsAA4fqR.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059982295084220830",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "After losing faith in crypto last year, I kept asking myself what I would do today if I had to start from zero again.\n\nAnd whenever I fud crypto, people ask me that question too.\n\nHonestly, I never really had an answer.\n\nI’ve spent the last 9 years doing nothing but crypto, and I really struggle to imagine myself identifying plays like $SNDK or $MU one year ago.\n\nIf your entire stock market information flow comes from big Twitter accounts and Bloomberg, I highly doubt you will ever build generational wealth there.\n\nBut I’ve been following @crypto_condom for a few months now and I find it very interesting.\n\nI think that if you are willing to spend 16 hours a day grinding online, it is still possible to find alpha in some stocks before it gets officially confirmed on Bloomberg.\n\nThe hard part is filtering the noise.\n\nThere are hundreds of Twitter accounts posting tickers every single day and perma retweeting their winning calls.\n\nYou need to focus on a few stocks and become autistic about them. Follow the founders on all social media, check their interactions, track the job offers etc.\n\nThere is always a bull market somewhere.",
-      "contentHtml": "After losing faith in crypto last year, I kept asking myself what I would do today if I had to start from zero again.\n\nAnd whenever I fud crypto, people ask me that question too.\n\nHonestly, I never really had an answer.\n\nI’ve spent the last 9 years doing nothing but crypto, and I really struggle to imagine myself identifying plays like <a href=\"/search?f=tweets&q=%23SNDK\">$SNDK</a> or <a href=\"/search?f=tweets&q=%23MU\">$MU</a> one year ago.\n\nIf your entire stock market information flow comes from big Twitter accounts and Bloomberg, I highly doubt you will ever build generational wealth there.\n\nBut I’ve been following <a href=\"/crypto_condom\" title=\"CryptoCondom\">@crypto_condom</a> for a few months now and I find it very interesting.\n\nI think that if you are willing to spend 16 hours a day grinding online, it is still possible to find alpha in some stocks before it gets officially confirmed on Bloomberg.\n\nThe hard part is filtering the noise.\n\nThere are hundreds of Twitter accounts posting tickers every single day and perma retweeting their winning calls.\n\nYou need to focus on a few stocks and become autistic about them. Follow the founders on all social media, check their interactions, track the job offers etc.\n\nThere is always a bull market somewhere.",
-      "publishedAt": "2026-05-28T12:57:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2059982295084220830",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059981637421838529",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "雅美蝶，别涨了",
-      "contentHtml": "雅美蝶，别涨了",
-      "publishedAt": "2026-05-28T12:54:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2059981637421838529",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJaGYMvbUAAmuLb.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059978855121842532",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "cz喊了一下genius，至少s2是不用担心了，价格看一手应该可以稳定在0.3-0.4。就怕阿三后面又改规则。成本价格超过0.14我就停。",
-      "contentHtml": "cz喊了一下genius，至少s2是不用担心了，价格看一手应该可以稳定在0.3-0.4。就怕阿三后面又改规则。成本价格超过0.14我就停。",
-      "publishedAt": "2026-05-28T12:43:00.000Z",
-      "link": "https://x.com/0xleng1/status/2059978855121842532",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059974084713496639",
-      "username": "HaywarZhu",
-      "displayName": "海老师 | Haywar",
-      "avatar": "https://pbs.twimg.com/profile_images/1904297408273772544/TwlamTm3_bigger.jpg",
-      "content": "很好，我空的币圈AI，你空的美股AI，都有光明的未来",
-      "contentHtml": "很好，我空的币圈AI，你空的美股AI，都有光明的未来",
-      "publishedAt": "2026-05-28T12:24:00.000Z",
-      "link": "https://x.com/HaywarZhu/status/2059974084713496639",
-      "retweet": {
-        "username": "HaywarZhu",
-        "displayName": "海老师 | Haywar"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2059957993043611684",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "The biggest $BTC psyop was making everyone think I was wrong.\n\nThat’s what the algo was waiting for.\n\nA tweet from the guy who’s been right for 8 months straight getting pushed onto everyone’s timeline.\n\nThanks for playing.  🤟\n\nThe Discord OGs already know what the plan behind that tweet was. \n\nIf you paid close attention to my tweets, positioning, analysis, and expectations, you could probably read between the lines and understand where I was leaning and what I was anticipating based on historical price action.\n\nThe market will probably bounce soon cause MMs are p*ssed.",
-      "contentHtml": "The biggest <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> psyop was making everyone think I was wrong.\n\nThat’s what the algo was waiting for.\n\nA tweet from the guy who’s been right for 8 months straight getting pushed onto everyone’s timeline.\n\nThanks for playing.  🤟\n\nThe Discord OGs already know what the plan behind that tweet was. \n\nIf you paid close attention to my tweets, positioning, analysis, and expectations, you could probably read between the lines and understand where I was leaning and what I was anticipating based on historical price action.\n\nThe market will probably bounce soon cause MMs are p*ssed.",
-      "publishedAt": "2026-05-28T11:20:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2059957993043611684",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJZvrNgW0AMMhux.jpg"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "I was wrong.",
-        "contentHtml": "I was wrong.",
-        "link": "https://x.com/KillaXBT/status/2051658404981088626"
       },
       "stats": {
         "replies": 0,
