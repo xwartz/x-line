@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T08:22:42.958Z",
+  "lastUpdated": "2026-06-05T09:47:13.267Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,70 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 592,
+    "newFetched": 591,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2062830744339403133",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "资金抱团炒股，通常遵循“两V定律”，快速回调两次，均V转新高\n\n第三次嘛，🍜",
+      "contentHtml": "资金抱团炒股，通常遵循“两V定律”，快速回调两次，均V转新高\n\n第三次嘛，🍜",
+      "publishedAt": "2026-06-05T09:35:00.000Z",
+      "link": "https://x.com/follow_clues/status/2062830744339403133",
+      "quote": {
+        "username": "rngzhwn199456",
+        "displayName": "镰刀判官",
+        "content": "AI的\"黑色星期五\"来了吗？\n\nAnthropic呼吁停止训练AI，三星海力士直接崩盘！\n\n今天韩国 KOSPI 综合指数一度暴跌超 6%，触发熔断，程序化交易暂停。\n\n导火索是隔夜美股博通暴跌超 12% 引发的半导体雪崩。但真正的惨案发生在韩国本土：\n\n三星电子盘中一度暴跌超 7%，SK 海力士更是重挫超 9%，双双遭遇毁灭性抛售。\n\n为什么？因为在韩国股市，这两家公司就是 AI 的代名词。它们在 KOSPI 指数中的权重超过 54%。\n\n上涨时叫“AI 核心资产”，下跌时叫“集中性风险炸弹”。\n\n而今天，炸弹的引线被点燃了。这根引线，是从大洋彼岸的 Anthropic 和英伟达那里开始的。\n\n一、 底牌揭露：Anthropic 喊“停训”，是因为钱烧光了\n\n就在韩国股市崩盘的同时，Anthropic 发出了一个耐人寻味的呼吁：要求全球实验室放缓 AI 开发。\n\n听起来很高尚？别天真了。结合他们 IPO 前夕的动向，真相是：\n\n他们根本没有盈利，烧钱已经烧到快断气了。\n\n融资续命：Anthropic 刚紧急融资了 650 亿美元。我们假设他们极其节俭，一分钱不花纯利 IPO，这 650 亿按每季度亏 5 亿算，也只够烧 32 年。\n\n现实骨感：如果算上真实的研发、人力和营销成本，这笔钱可能连 10 年都撑不到。\n言行不一：管理层一边喊着要圈钱，一边哭穷说“算力买多了用不完”。\n这说明：下游的 AI 公司已经开始发现，买来的算力是个吞金兽，投入产出比根本算不过来。\n\n二、 致命一击：连英伟达都开始“减配”了\n\nAnthropic 不买账，直接动摇了整个金字塔的根基。而今天市场暴跌的最核心逻辑，是连“卖铲子”的英伟达，自己都开始向下调配置了。\n\n这不是“技术路线进化”，是供应链和成本把刀架在了脖子上。两条同步发生的“减配现实”很说明问题：\n\n数据中心侧（Vera Rubin）：\n\n英伟达下一代旗舰 SOCAMM/CPU 侧内存方案，被爆出从 192GB 砍到了 96GB。连带单机架 DRAM 总容量直接腰斩。市场立刻读懂：原来“无限堆内存支撑无限上下文”也不是铁律——“能交货”比“纸面天花板”更重要。\n\n消费/游戏侧（RTX 50系）：\n\n显存成本飞涨，产能让给 AI 数据中心，英伟达被迫把 RTX 50 系列的盘子在转——压缩 16GB 型号产出，主力推 8GB 档（5060 / 5060 Ti 8G），甚至有“位宽缩水”的爆料。翻译成人话：不是不想给玩家高端货，是高带宽显存要优先喂给自家最赚钱的 AI 账本；喂不饱就砍配置、砍型号。\n\n三、 逻辑闭环：谁给三星海力士的高估值买单？\n\n把这层跟 Anthropic 的现金流危机接起来，一条完整的死亡传导链就浮现了：\n\nAnthropic 烧不动 ➡️ 买方开始算 ROI ➡️ 英伟达被迫“降本保交付”（Rubin 砍内存、50系砍高显存型号） ➡️ 三星/海力士的“永远紧缺永远溢价”故事被证伪 ➡️ 高盛下调评级 ➡️ KOSPI 熔断。\n\n注意一个致命细节：高盛最近刚刚下调了 SK 海力士的评级。\n\n理由是什么？高盛明确指出，2026 年 HBM 价格可能出现首次下滑。\n\n以前华尔街讲的是“HBM 紧缺到 2030 年”的超级周期神话。今天高盛直接把这个神话撕碎了——定价权正在从卖家（三星/海力士）回流到买家（英伟达/AMD）手中。\n\n写在最后\n\n今天三星和海力士的暴跌，不是什么“技术性回调”。\n\n这是“AI 永远不计成本烧钱”这个底层逻辑，第一次在资本市场公开流血。\n\n当 Anthropic 开始呼吁停训，当英伟达开始偷偷缩配置，当高盛下调 HBM 评级——市场终于意识到：\n\nAI 可能还没改变世界，但已经先把三星海力士的估值抬进了 ICU。\n\n#AI泡沫 #英伟达 #三星 #SK海力士 #KOSPI熔断 #Anthropic #Rubin #HBM #估值回归",
+        "contentHtml": "AI的\"黑色星期五\"来了吗？\n\nAnthropic呼吁停止训练AI，三星海力士直接崩盘！\n\n今天韩国 KOSPI 综合指数一度暴跌超 6%，触发熔断，程序化交易暂停。\n\n导火索是隔夜美股博通暴跌超 12% 引发的半导体雪崩。但真正的惨案发生在韩国本土：\n\n三星电子盘中一度暴跌超 7%，SK 海力士更是重挫超 9%，双双遭遇毁灭性抛售。\n\n为什么？因为在韩国股市，这两家公司就是 AI 的代名词。它们在 KOSPI 指数中的权重超过 54%。\n\n上涨时叫“AI 核心资产”，下跌时叫“集中性风险炸弹”。\n\n而今天，炸弹的引线被点燃了。这根引线，是从大洋彼岸的 Anthropic 和英伟达那里开始的。\n\n一、 底牌揭露：Anthropic 喊“停训”，是因为钱烧光了\n\n就在韩国股市崩盘的同时，Anthropic 发出了一个耐人寻味的呼吁：要求全球实验室放缓 AI 开发。\n\n听起来很高尚？别天真了。结合他们 IPO 前夕的动向，真相是：\n\n他们根本没有盈利，烧钱已经烧到快断气了。\n\n融资续命：Anthropic 刚紧急融资了 650 亿美元。我们假设他们极其节俭，一分钱不花纯利 IPO，这 650 亿按每季度亏 5 亿算，也只够烧 32 年。\n\n现实骨感：如果算上真实的研发、人力和营销成本，这笔钱可能连 10 年都撑不到。\n言行不一：管理层一边喊着要圈钱，一边哭穷说“算力买多了用不完”。\n这说明：下游的 AI 公司已经开始发现，买来的算力是个吞金兽，投入产出比根本算不过来。\n\n二、 致命一击：连英伟达都开始“减配”了\n\nAnthropic 不买账，直接动摇了整个金字塔的根基。而今天市场暴跌的最核心逻辑，是连“卖铲子”的英伟达，自己都开始向下调配置了。\n\n这不是“技术路线进化”，是供应链和成本把刀架在了脖子上。两条同步发生的“减配现实”很说明问题：\n\n数据中心侧（Vera Rubin）：\n\n英伟达下一代旗舰 SOCAMM/CPU 侧内存方案，被爆出从 192GB 砍到了 96GB。连带单机架 DRAM 总容量直接腰斩。市场立刻读懂：原来“无限堆内存支撑无限上下文”也不是铁律——“能交货”比“纸面天花板”更重要。\n\n消费/游戏侧（RTX 50系）：\n\n显存成本飞涨，产能让给 AI 数据中心，英伟达被迫把 RTX 50 系列的盘子在转——压缩 16GB 型号产出，主力推 8GB 档（5060 / 5060 Ti 8G），甚至有“位宽缩水”的爆料。翻译成人话：不是不想给玩家高端货，是高带宽显存要优先喂给自家最赚钱的 AI 账本；喂不饱就砍配置、砍型号。\n\n三、 逻辑闭环：谁给三星海力士的高估值买单？\n\n把这层跟 Anthropic 的现金流危机接起来，一条完整的死亡传导链就浮现了：\n\nAnthropic 烧不动 ➡️ 买方开始算 ROI ➡️ 英伟达被迫“降本保交付”（Rubin 砍内存、50系砍高显存型号） ➡️ 三星/海力士的“永远紧缺永远溢价”故事被证伪 ➡️ 高盛下调评级 ➡️ KOSPI 熔断。\n\n注意一个致命细节：高盛最近刚刚下调了 SK 海力士的评级。\n\n理由是什么？高盛明确指出，2026 年 HBM 价格可能出现首次下滑。\n\n以前华尔街讲的是“HBM 紧缺到 2030 年”的超级周期神话。今天高盛直接把这个神话撕碎了——定价权正在从卖家（三星/海力士）回流到买家（英伟达/AMD）手中。\n\n写在最后\n\n今天三星和海力士的暴跌，不是什么“技术性回调”。\n\n这是“AI 永远不计成本烧钱”这个底层逻辑，第一次在资本市场公开流血。\n\n当 Anthropic 开始呼吁停训，当英伟达开始偷偷缩配置，当高盛下调 HBM 评级——市场终于意识到：\n\nAI 可能还没改变世界，但已经先把三星海力士的估值抬进了 ICU。\n\n<a href=\"/search?f=tweets&q=%23AI泡沫\">#AI泡沫</a> <a href=\"/search?f=tweets&q=%23英伟达\">#英伟达</a> <a href=\"/search?f=tweets&q=%23三星\">#三星</a> <a href=\"/search?f=tweets&q=%23SK海力士\">#SK海力士</a> <a href=\"/search?f=tweets&q=%23KOSPI熔断\">#KOSPI熔断</a> <a href=\"/search?f=tweets&q=%23Anthropic\">#Anthropic</a> <a href=\"/search?f=tweets&q=%23Rubin\">#Rubin</a> <a href=\"/search?f=tweets&q=%23HBM\">#HBM</a> <a href=\"/search?f=tweets&q=%23估值回归\">#估值回归</a>",
+        "link": "https://x.com/rngzhwn199456/status/2062829777678188953"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062829934369013857",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
+      "content": "Software platforms are going to be rebuilt for agent-first.",
+      "contentHtml": "Software platforms are going to be rebuilt for agent-first.",
+      "publishedAt": "2026-06-05T09:32:00.000Z",
+      "link": "https://x.com/naval/status/2062829934369013857",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062825258923803083",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "🐂",
+      "contentHtml": "🐂",
+      "publishedAt": "2026-06-05T09:14:00.000Z",
+      "link": "https://x.com/follow_clues/status/2062825258923803083",
+      "quote": {
+        "username": "Boywus",
+        "displayName": "Boywus",
+        "content": "本文讨论的套利机会本质上建立在产品规则差异、市场预期差异以及流动性错配之上，并不保证最终能够收敛，更不保证能够实现盈利。交易过程中可能面临流动性不足、强制平仓、规则变更、Rebase、Relist、产品下架、交割方式调整等风险。",
+        "contentHtml": "本文讨论的套利机会本质上建立在产品规则差异、市场预期差异以及流动性错配之上，并不保证最终能够收敛，更不保证能够实现盈利。交易过程中可能面临流动性不足、强制平仓、规则变更、Rebase、Relist、产品下架、交割方式调整等风险。",
+        "link": "https://x.com/Boywus/status/2062815319497064466"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2062807139912224935",
       "username": "ai_9684xtpa",
@@ -386,6 +445,25 @@
             "url": "https://pbs.twimg.com/media/HJzhNNGaoAAlzqt.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2062767544025661946",
+      "username": "fi56622380",
+      "displayName": "fin",
+      "avatar": "https://pbs.twimg.com/profile_images/1617438471773360129/PuNEnXyH_bigger.jpg",
+      "content": "以后这种dram配置削减消息可能会时不时发生，因为不削减，dram就是不够用的\n\n市场第一次听到砍配置，还是很敏感的，以后再多次听到这样的消息就脱敏了\n\n只要算完CPU 200B TAM所需要的DRAM总量，就能很清楚的发现，因为CPU需求暴涨，Nvidia年初原定的17GB/core的计划对DRAM产能增长压力太大了\n\n所以五月的时候，Nvidia就已经被迫做trade off了，如果坚持原来配置，那么Rubin出货速度一定会出问题，到了五月底供应链才爆料出来\n\n另外这个配置应该也是客户可以自选的，如果workload真的瓶颈了，客户自己加上去即可\n\n这不是涨价带来的demand destruction，而是产能不足带来的demand destruction\n\nMicron CEO很早就回答过这个问题了：“如果DRAM不够用，那么customer就得自己调整规划，想出办法如何适应更少的DRAM”\n\n市场当时没听懂这意味着什么，从今天的反应来看，还是没听懂这句话\n\n再发生两次，可能就听懂了",
+      "contentHtml": "以后这种dram配置削减消息可能会时不时发生，因为不削减，dram就是不够用的\n\n市场第一次听到砍配置，还是很敏感的，以后再多次听到这样的消息就脱敏了\n\n只要算完CPU 200B TAM所需要的DRAM总量，就能很清楚的发现，因为CPU需求暴涨，Nvidia年初原定的17GB/core的计划对DRAM产能增长压力太大了\n\n所以五月的时候，Nvidia就已经被迫做trade off了，如果坚持原来配置，那么Rubin出货速度一定会出问题，到了五月底供应链才爆料出来\n\n另外这个配置应该也是客户可以自选的，如果workload真的瓶颈了，客户自己加上去即可\n\n这不是涨价带来的demand destruction，而是产能不足带来的demand destruction\n\nMicron CEO很早就回答过这个问题了：“如果DRAM不够用，那么customer就得自己调整规划，想出办法如何适应更少的DRAM”\n\n市场当时没听懂这意味着什么，从今天的反应来看，还是没听懂这句话\n\n再发生两次，可能就听懂了",
+      "publishedAt": "2026-06-05T05:24:00.000Z",
+      "link": "https://x.com/fi56622380/status/2062767544025661946",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
       },
       "stats": {
         "replies": 0,
@@ -12107,119 +12185,6 @@
         "content": "总结的到位了👍，我也很看好mavl、crdo，不过alab关注还不多，学习下",
         "contentHtml": "总结的到位了👍，我也很看好mavl、crdo，不过alab关注还不多，学习下",
         "link": "https://x.com/qinbafrank/status/2056788375383036126"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060030447736799246",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "我先转过去用用，回头送OAI订阅给订阅者\n4月份送了几个Claude，这个月没送，是因为老马一共就发了我62刀🤣",
-      "contentHtml": "我先转过去用用，回头送OAI订阅给订阅者\n4月份送了几个Claude，这个月没送，是因为老马一共就发了我62刀🤣",
-      "publishedAt": "2026-05-28T16:08:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2060030447736799246",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJayxlnWMAkxqQv.jpg"
-        }
-      ],
-      "quote": {
-        "username": "wangxl1234",
-        "displayName": "夏末秋凉X",
-        "content": "我用gemini pro，最新股价都能给错，非常离谱。换了GPT5.5 plus就很棒！体验很好",
-        "contentHtml": "我用gemini pro，最新股价都能给错，非常离谱。换了GPT5.5 plus就很棒！体验很好",
-        "link": "https://x.com/wangxl1234/status/2060029464957108382"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060027119644643438",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "我知道很多人像我一样现在严重依赖AI做调研，的确已经离不开。并且有人深信AI能带来Alpha！有没有可能只是最近市场太好了，你买啥啥都涨？\n我自己用Claude 的感受是很多时候连最简单的摘取数据都是错的，让他修改两次后才能避免很多错误，没有一些数据的敏感度或者自己花时间去校对的话很难在发现这些基本的错误\n如果数据都是错的，那结论就没有意义了，而现在大模型有记忆，很多时候你问问题时他的回答是有严重拍马屁倾向。AI对我来说最有用的是了解行业本身，但行业发展，市占但凡带量化的数据，都不能直接相信。",
-      "contentHtml": "我知道很多人像我一样现在严重依赖AI做调研，的确已经离不开。并且有人深信AI能带来Alpha！有没有可能只是最近市场太好了，你买啥啥都涨？\n我自己用Claude 的感受是很多时候连最简单的摘取数据都是错的，让他修改两次后才能避免很多错误，没有一些数据的敏感度或者自己花时间去校对的话很难在发现这些基本的错误\n如果数据都是错的，那结论就没有意义了，而现在大模型有记忆，很多时候你问问题时他的回答是有严重拍马屁倾向。AI对我来说最有用的是了解行业本身，但行业发展，市占但凡带量化的数据，都不能直接相信。",
-      "publishedAt": "2026-05-28T15:55:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2060027119644643438",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060025158329643050",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "Arm又创新高了，媒体报道字节也要自研CPU了，其实也不用考了，选Arm就得了。毕竟英伟达的Vera CPU，谷歌、亚马逊、微软、meta的自研CPU都是用arm架构。",
-      "contentHtml": "Arm又创新高了，媒体报道字节也要自研CPU了，其实也不用考了，选Arm就得了。毕竟英伟达的Vera CPU，谷歌、亚马逊、微软、meta的自研CPU都是用arm架构。",
-      "publishedAt": "2026-05-28T15:47:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2060025158329643050",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJat9iyaQAAK3DE.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "4月中这篇聊CPU的推文应该是近期财富密码最多最密集的一篇文章了。从4月中开始聊到到现在：\nintel、澜起科技都已翻倍甚至涨的更多；\narm接近翻倍；\namd、深南电路、海光也都有几十个点的涨幅。\n\n昨晚Arm创新高，4月中聊到Agentic AI时代Arm服务器cpu是会更受益，首先其技术架构和功能更符合agentic ai对cpu的需求，然后是包括英伟达在内的几大云厂商的cpu都用的是Arm架构。之前Arm的走势还可以但没这么强势，直到这两天几个催化事件：\n1）先是陈立武再次把gpu和cpu的比例把到很高；\n2）同时陈立武和老黄也都把CPU的TAM推到更高的体量；\n3）然后英伟达vera CPU开始发货。\n市场才反应过来arm是美股cpu御三家（intel、amd、arm）最被低估的，之前认知不够现在赶紧找补回来。\n有时你会发现，正确的逻辑兑现也需要时间。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "4月中这篇聊CPU的推文应该是近期财富密码最多最密集的一篇文章了。从4月中开始聊到到现在：\nintel、澜起科技都已翻倍甚至涨的更多；\narm接近翻倍；\namd、深南电路、海光也都有几十个点的涨幅。\n\n昨晚Arm创新高，4月中聊到Agentic AI时代Arm服务器cpu是会更受益，首先其技术架构和功能更符合agentic ai对cpu的需求，然后是包括英伟达在内的几大云厂商的cpu都用的是Arm架构。之前Arm的走势还可以但没这么强势，直到这两天几个催化事件：\n1）先是陈立武再次把gpu和cpu的比例把到很高；\n2）同时陈立武和老黄也都把CPU的TAM推到更高的体量；\n3）然后英伟达vera CPU开始发货。\n市场才反应过来arm是美股cpu御三家（intel、amd、arm）最被低估的，之前认知不够现在赶紧找补回来。\n有时你会发现，正确的逻辑兑现也需要时间。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2057626359963549955",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HI4oREqbAAEWhMJ.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HI4oREpbYAAGNgB.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060019040014528921",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "那我得有多少辈子啊😱",
-      "contentHtml": "那我得有多少辈子啊😱",
-      "publishedAt": "2026-05-28T15:23:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2060019040014528921",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJaoY7JaQAASFzC.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJaoY7YaAAEmtMu.jpg"
-        }
-      ],
-      "quote": {
-        "username": "LTC00001",
-        "displayName": "羽毛球-张继科",
-        "content": "我就想笑。你一辈子赚过百万吗？还一下没了百来万。。。。",
-        "contentHtml": "我就想笑。你一辈子赚过百万吗？还一下没了百来万。。。。",
-        "link": "https://x.com/LTC00001/status/2060013718566732280"
       },
       "stats": {
         "replies": 0,
