@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T06:12:56.719Z",
+  "lastUpdated": "2026-06-06T07:32:31.043Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,73 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 571,
-    "successUsers": 28,
-    "failedUsers": 2
+    "newFetched": 589,
+    "successUsers": 29,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2063157442708635709",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
+      "content": "涨多了会跌，跌多了会涨。美股涨了这么久，这么多，有调整不是很正常嘛。和币圈有什么关系，币圈人怎么这么敏感自卑，老是自我FUD。至于有没有见顶，见仁见智吧，这么大的趋势下周出下影线或者有好价格我肯定是会买进去的，其实也没有什么好互相嘲讽的，二级市场拿仓位下注说话。",
+      "contentHtml": "涨多了会跌，跌多了会涨。美股涨了这么久，这么多，有调整不是很正常嘛。和币圈有什么关系，币圈人怎么这么敏感自卑，老是自我FUD。至于有没有见顶，见仁见智吧，这么大的趋势下周出下影线或者有好价格我肯定是会买进去的，其实也没有什么好互相嘲讽的，二级市场拿仓位下注说话。",
+      "publishedAt": "2026-06-06T07:14:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2063157442708635709",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2063152173027123575",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "钱养人啊\n论财富增长与形象管理",
+      "contentHtml": "钱养人啊\n论财富增长与形象管理",
+      "publishedAt": "2026-06-06T06:53:00.000Z",
+      "link": "https://x.com/hazenlee/status/2063152173027123575",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKHJ9g5agAAY_C6.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKHJ9g2bwAAFwUv.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2063151843308453916",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "在X中文区，Frank @qinbafrank 是极少数在AI+宏观+供应链+Crypto的综合视野上，能把多条线串起来的“全才型”选手。\n\n也是一位经验丰富、思考框架扎实的跨市场顶流投资者。\n\n这篇访谈记录，全文13个章节，从个人框架到AI三次大辩论、商业化拐点、光互连/CPO、资金轮动逻辑、SpaceX IPO流动性冲击，再到BTC新常态和调整级别判断，层层递进。\n\n我认认真真的看完了。叹为观止，受益匪浅！",
+      "contentHtml": "在X中文区，Frank <a href=\"/qinbafrank\" title=\"qinbafrank\">@qinbafrank</a> 是极少数在AI+宏观+供应链+Crypto的综合视野上，能把多条线串起来的“全才型”选手。\n\n也是一位经验丰富、思考框架扎实的跨市场顶流投资者。\n\n这篇访谈记录，全文13个章节，从个人框架到AI三次大辩论、商业化拐点、光互连/CPO、资金轮动逻辑、SpaceX IPO流动性冲击，再到BTC新常态和调整级别判断，层层递进。\n\n我认认真真的看完了。叹为观止，受益匪浅！",
+      "publishedAt": "2026-06-06T06:51:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2063151843308453916",
+      "quote": {
+        "username": "168X_Fortune",
+        "displayName": "168X",
+        "content": "x.com/i/article/206237668804…",
+        "contentHtml": "<a href=\"http://x.com/i/article/2062376688043044864\">x.com/i/article/206237668804…</a>",
+        "link": "https://x.com/168X_Fortune/status/2062463349573718318"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2063141132008345937",
       "username": "Bitfatty",
@@ -3816,7 +3878,7 @@
       "displayName": "qinbafrank",
       "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
       "content": "昨天跟168X的对话从关于Ai的三次大辩论nitter.net/qinbafrank/status/1988…讲起，逐一拆解渗透率红利、资本开支战争、光互连与CPO、Nokia与边缘计算、当下紧缺／升级／远期三大资金逻辑，然后是美股大盘调整大中小级别的判断框架，以及个股杀估值、杀业绩、杀逻辑的调整框架，再到SpaceX的IPO以及另外两家巨无霸IPO的流动性冲击与加密未来趋势在哪里。基本上把几两年多不成熟的思考和观察都聊到了，推荐给朋友们看看，欢迎指点拍砖。\n\n也多谢@168MrZ @vcmktasa 两位的邀请和非常充分的准备。",
-      "contentHtml": "昨天跟168X的对话从关于Ai的三次大辩论<a href=\"https://nitter.net/qinbafrank/status/1988572662415990801?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/1988…</a>讲起，逐一拆解渗透率红利、资本开支战争、光互连与CPO、Nokia与边缘计算、当下紧缺／升级／远期三大资金逻辑，然后是美股大盘调整大中小级别的判断框架，以及个股杀估值、杀业绩、杀逻辑的调整框架，再到SpaceX的IPO以及另外两家巨无霸IPO的流动性冲击与加密未来趋势在哪里。基本上把几两年多不成熟的思考和观察都聊到了，推荐给朋友们看看，欢迎指点拍砖。\n\n也多谢<a href=\"/168MrZ\" title=\"Mr. Z @COMPUTEX｜ 168X 主持人\">@168MrZ</a> <a href=\"/vcmktasa\" title=\"Victor 🐎 @COMPUTEX\">@vcmktasa</a> 两位的邀请和非常充分的准备。",
+      "contentHtml": "昨天跟168X的对话从关于Ai的三次大辩论<a href=\"https://nitter.net/qinbafrank/status/1988572662415990801?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/1988…</a>讲起，逐一拆解渗透率红利、资本开支战争、光互连与CPO、Nokia与边缘计算、当下紧缺／升级／远期三大资金逻辑，然后是美股大盘调整大中小级别的判断框架，以及个股杀估值、杀业绩、杀逻辑的调整框架，再到SpaceX的IPO以及另外两家巨无霸IPO的流动性冲击与加密未来趋势在哪里。基本上把几两年多不成熟的思考和观察都聊到了，推荐给朋友们看看，欢迎指点拍砖。\n\n也多谢<a href=\"/168MrZ\" title=\"Mr. Z｜168X 主持人\">@168MrZ</a> <a href=\"/vcmktasa\" title=\"Victor 🐎 @COMPUTEX\">@vcmktasa</a> 两位的邀请和非常充分的准备。",
       "publishedAt": "2026-06-04T11:57:00.000Z",
       "link": "https://x.com/qinbafrank/status/2062504080657023206",
       "quote": {
@@ -12054,112 +12116,6 @@
       "contentHtml": "这个月看看6.1号币安上的是美股还是也开放参与pre ipo渠道了，目前已知bg这个月会有新的pre ipo大概率是Anthropic，听说arc也是这个月。",
       "publishedAt": "2026-05-30T05:19:00.000Z",
       "link": "https://x.com/0xleng1/status/2060591967558598661",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060587983334764878",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#U卡\n\n我完全同意大部分人是为了返佣。\n\n不过我不是的，信不信也好，我只是分享好的东西。看到更多人点击和使用，获得一点乐趣。\n\nU 卡用了这么多，很多家是只要中国护照立刻禁止，包括香港居民也一并拒绝，或者进入更严格的审核流程，挺烦的。\n\n就连 EtherFi 最近才支持日本居民，不知道是否误杀，我的中国护照 + 日本地址证明依然不过。\n\n而 Plasma 的 KYC 一开始就是更合理与高效的，外加难得看到一个 UI/UX 颜值在线的“币圈产品”，很难不喜欢。\n\n我昨晚往里面存了 50 万美元，每天的利息大概是 400 人民币，足够我吃拼好饭了，不需要为了一点小钱瞎说😁\n\n需要提醒一下这里不是投资建议，Earn 这块目前信息穿透还不够，建议等完善后再考虑。\n\n以及 AI 真的太强了，在链上顺藤摸瓜找到了我的 50 万底层资产，这笔钱进了 Plasma 上 Aave 的 USDT0 池子（供参考）。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23U卡\">#U卡</a>\n\n我完全同意大部分人是为了返佣。\n\n不过我不是的，信不信也好，我只是分享好的东西。看到更多人点击和使用，获得一点乐趣。\n\nU 卡用了这么多，很多家是只要中国护照立刻禁止，包括香港居民也一并拒绝，或者进入更严格的审核流程，挺烦的。\n\n就连 EtherFi 最近才支持日本居民，不知道是否误杀，我的中国护照 + 日本地址证明依然不过。\n\n而 Plasma 的 KYC 一开始就是更合理与高效的，外加难得看到一个 UI/UX 颜值在线的“币圈产品”，很难不喜欢。\n\n我昨晚往里面存了 50 万美元，每天的利息大概是 400 人民币，足够我吃拼好饭了，不需要为了一点小钱瞎说😁\n\n需要提醒一下这里不是投资建议，Earn 这块目前信息穿透还不够，建议等完善后再考虑。\n\n以及 AI 真的太强了，在链上顺藤摸瓜找到了我的 50 万底层资产，这笔钱进了 Plasma 上 Aave 的 USDT0 池子（供参考）。",
-      "publishedAt": "2026-05-30T05:03:00.000Z",
-      "link": "https://x.com/taresky/status/2060587983334764878",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJitsHYa0AA2Vfh.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJittk7aUAAPm6n.png"
-        }
-      ],
-      "quote": {
-        "username": "DIYgod",
-        "displayName": "DIŸgöd ☀️",
-        "content": "#U卡\n🤔 为什么都在推 Plasma One Card，看起来跟 etherfi 没啥区别，甚至还有 Jupiter Card 可以返 4% 不是更香",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23U卡\">#U卡</a>\n🤔 为什么都在推 Plasma One Card，看起来跟 etherfi 没啥区别，甚至还有 Jupiter Card 可以返 4% 不是更香",
-        "link": "https://x.com/DIYgod/status/2060536042244186163"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060578879170031865",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "看英伟达和Windows官推都在宣布PC新纪元，应该是就是下周英伟达台北GTC大会上宣布推出AI PC（N1/N1X）。这应该带动Agentic时代CPU以及PC领域新的竞争格局。有几点可以聊聊：\n1、英伟达AI PC，核心是 N1（标准版）/ N1X（高性能版）基于Arm的自研SoC，Windows系统，联发科负责CPU部分，英伟达 BlackwellGPU +NPU一手包办，TSMC 3nm 制程。这是一款能本地跑70B模型+打3A大作+续航超长的PC，性能拉满。\n\n2、英伟达为什么要搞AI PC？\n个人角度，核心就是把AI从云端彻底拉到终端，形成全栈闭环，把“入口”抓死。\n1）未来终端才是“战场”。Agentic AI 时代，推理需求爆炸，本地低延迟+隐私+不依赖网络才是王道。英伟达不想只卖 GPU 给云厂商，还想卖 SoC 给每台笔记本/迷你主机。\n\n2）快速切入 Windows 生态，推自家 CUDA + Omniverse + Agent 工具链，让 OEM 必须抱英伟达大腿。同时间接带动 DGX Spark、Jetson Thor 等边缘产品销量，形成“云-边-端”全链路。\n\n3、PC真正要成为AI智能体主机\n老黄一直喊“AI PC 新时代”，本质是把 PC 从“夕阳工具”变成“AI 智能体主机”。微软同步发文+同坐标，就是铁了心要 Windows on Arm 翻身。长期看，英伟达想复制Apple M系列在生态里的统治力，但玩法更狠——我既卖芯片，又卖软件栈，还能把游戏/创作/Agent 全吃下。\n\n4、对CPU和PC领域的影响\n1）CPU 领域彻底多极化：\nx86 不再是唯一答案，Arm在Windows笔记本终于有“能打”的旗舰方案。逼Intel/AMD加速异构 SoC + NPU 布局。\n\n2）PC从“CPU+GPU 分离”→“AI SoC 一体化”，赢家是能把本地 200 TOPS 跑得又稳又省电的玩家。\n\n3）x86霸权被硬撼。Intel笔记本 CPU份额可能继续丢，AMD 也得拼杀。传统 dGPU 部分场景被 iGPU 替代，PC 形态会更碎片化（迷你主机、折叠本、AI 工作站）。\n\n4、对Arm则是超级利好\n1）直接利好自然英伟达 N1/N1X 大规模用 Arm 授权（CPU+整体架构），MediaTek 也深度绑定。每一台出货的 AI PC，Arm 就躺着收钱。\n2）验证了Arm在高性能 PC/游戏/本地 AI 的可行性。后续 AMD（传闻也在搞 Arm PC）、更多OEM 跟进，授权费雪球滚大，躺着收钱。Arm自己也在推AGI CPU + 数据中心业务，看机构预期2030年单 CPU 块就能 150 亿刀的体量。\n\n更关键的是Arm应该是站稳了Agentic时代CPU主架构地位，继续迎来高潮时刻。\n\n利好arm自然也利好微软、逻辑很明显。\n\n利好 $nvda $arm $msft\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "看英伟达和Windows官推都在宣布PC新纪元，应该是就是下周英伟达台北GTC大会上宣布推出AI PC（N1/N1X）。这应该带动Agentic时代CPU以及PC领域新的竞争格局。有几点可以聊聊：\n1、英伟达AI PC，核心是 N1（标准版）/ N1X（高性能版）基于Arm的自研SoC，Windows系统，联发科负责CPU部分，英伟达 BlackwellGPU +NPU一手包办，TSMC 3nm 制程。这是一款能本地跑70B模型+打3A大作+续航超长的PC，性能拉满。\n\n2、英伟达为什么要搞AI PC？\n个人角度，核心就是把AI从云端彻底拉到终端，形成全栈闭环，把“入口”抓死。\n1）未来终端才是“战场”。Agentic AI 时代，推理需求爆炸，本地低延迟+隐私+不依赖网络才是王道。英伟达不想只卖 GPU 给云厂商，还想卖 SoC 给每台笔记本/迷你主机。\n\n2）快速切入 Windows 生态，推自家 CUDA + Omniverse + Agent 工具链，让 OEM 必须抱英伟达大腿。同时间接带动 DGX Spark、Jetson Thor 等边缘产品销量，形成“云-边-端”全链路。\n\n3、PC真正要成为AI智能体主机\n老黄一直喊“AI PC 新时代”，本质是把 PC 从“夕阳工具”变成“AI 智能体主机”。微软同步发文+同坐标，就是铁了心要 Windows on Arm 翻身。长期看，英伟达想复制Apple M系列在生态里的统治力，但玩法更狠——我既卖芯片，又卖软件栈，还能把游戏/创作/Agent 全吃下。\n\n4、对CPU和PC领域的影响\n1）CPU 领域彻底多极化：\nx86 不再是唯一答案，Arm在Windows笔记本终于有“能打”的旗舰方案。逼Intel/AMD加速异构 SoC + NPU 布局。\n\n2）PC从“CPU+GPU 分离”→“AI SoC 一体化”，赢家是能把本地 200 TOPS 跑得又稳又省电的玩家。\n\n3）x86霸权被硬撼。Intel笔记本 CPU份额可能继续丢，AMD 也得拼杀。传统 dGPU 部分场景被 iGPU 替代，PC 形态会更碎片化（迷你主机、折叠本、AI 工作站）。\n\n4、对Arm则是超级利好\n1）直接利好自然英伟达 N1/N1X 大规模用 Arm 授权（CPU+整体架构），MediaTek 也深度绑定。每一台出货的 AI PC，Arm 就躺着收钱。\n2）验证了Arm在高性能 PC/游戏/本地 AI 的可行性。后续 AMD（传闻也在搞 Arm PC）、更多OEM 跟进，授权费雪球滚大，躺着收钱。Arm自己也在推AGI CPU + 数据中心业务，看机构预期2030年单 CPU 块就能 150 亿刀的体量。\n\n更关键的是Arm应该是站稳了Agentic时代CPU主架构地位，继续迎来高潮时刻。\n\n利好arm自然也利好微软、逻辑很明显。\n\n利好 <a href=\"/search?f=tweets&q=%23nvda\">$nvda</a> <a href=\"/search?f=tweets&q=%23arm\">$arm</a> <a href=\"/search?f=tweets&q=%23msft\">$msft</a>\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-05-30T04:27:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2060578879170031865",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJilkNfaoAEreEr.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJilkNfbQAABwKh.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "4月中这篇聊CPU的推文应该是近期财富密码最多最密集的一篇文章了。从4月中开始聊到到现在：\nintel、澜起科技都已翻倍甚至涨的更多；\narm接近翻倍；\namd、深南电路、海光也都有几十个点的涨幅。\n\n昨晚Arm创新高，4月中聊到Agentic AI时代Arm服务器cpu是会更受益，首先其技术架构和功能更符合agentic ai对cpu的需求，然后是包括英伟达在内的几大云厂商的cpu都用的是Arm架构。之前Arm的走势还可以但没这么强势，直到这两天几个催化事件：\n1）先是陈立武再次把gpu和cpu的比例把到很高；\n2）同时陈立武和老黄也都把CPU的TAM推到更高的体量；\n3）然后英伟达vera CPU开始发货。\n市场才反应过来arm是美股cpu御三家（intel、amd、arm）最被低估的，之前认知不够现在赶紧找补回来。\n有时你会发现，正确的逻辑兑现也需要时间。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "4月中这篇聊CPU的推文应该是近期财富密码最多最密集的一篇文章了。从4月中开始聊到到现在：\nintel、澜起科技都已翻倍甚至涨的更多；\narm接近翻倍；\namd、深南电路、海光也都有几十个点的涨幅。\n\n昨晚Arm创新高，4月中聊到Agentic AI时代Arm服务器cpu是会更受益，首先其技术架构和功能更符合agentic ai对cpu的需求，然后是包括英伟达在内的几大云厂商的cpu都用的是Arm架构。之前Arm的走势还可以但没这么强势，直到这两天几个催化事件：\n1）先是陈立武再次把gpu和cpu的比例把到很高；\n2）同时陈立武和老黄也都把CPU的TAM推到更高的体量；\n3）然后英伟达vera CPU开始发货。\n市场才反应过来arm是美股cpu御三家（intel、amd、arm）最被低估的，之前认知不够现在赶紧找补回来。\n有时你会发现，正确的逻辑兑现也需要时间。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2057626359963549955",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HI4oREqbAAEWhMJ.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HI4oREpbYAAGNgB.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060566811859693987",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#U卡 \n\n选 U 卡的几个考量点，分先后：\n\n1. 项目方足够有钱。不跑路，有足够资金持续运营最重要。\n2. 返现和补贴的力度，考虑汇损后的实际收益。但补贴永远是慢慢缩减的，得有这个预期。\n3. 使用体验、实体卡、多虚拟卡等。\n\n目前在用 U卡的 Rank：\n\n1️⃣ Plasma（默认刷，额度够大）\n🌟邀请码：FAFAFA🌟，大概还剩 20% 可用，介绍看看原推。\n\n2️⃣ EtherFi（不支持 CN 护照，有实体卡，可开多张虚拟卡更灵活，项目方同样富裕）\n🔗s.taresky.me/etherfi\n\n3️⃣Juptier Card（返 4%，但不支持大陆和香港用户，TG 频道有写详情。有货转，因此只用来刷 USD）\n🔗s.taresky.me/jupcard\n🌟 邀请码：SE8YQ6VT\n\n4️⃣其他交易所 VIP 卡的高返羊毛，会优先刷，但不适用其他人不提了。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23U卡\">#U卡</a> \n\n选 U 卡的几个考量点，分先后：\n\n1. 项目方足够有钱。不跑路，有足够资金持续运营最重要。\n2. 返现和补贴的力度，考虑汇损后的实际收益。但补贴永远是慢慢缩减的，得有这个预期。\n3. 使用体验、实体卡、多虚拟卡等。\n\n目前在用 U卡的 Rank：\n\n1️⃣ Plasma（默认刷，额度够大）\n🌟邀请码：FAFAFA🌟，大概还剩 20% 可用，介绍看看原推。\n\n2️⃣ EtherFi（不支持 CN 护照，有实体卡，可开多张虚拟卡更灵活，项目方同样富裕）\n🔗<a href=\"https://s.taresky.me/etherfi\">s.taresky.me/etherfi</a>\n\n3️⃣Juptier Card（返 4%，但不支持大陆和香港用户，TG 频道有写详情。有货转，因此只用来刷 USD）\n🔗<a href=\"https://s.taresky.me/jupcard\">s.taresky.me/jupcard</a>\n🌟 邀请码：SE8YQ6VT\n\n4️⃣其他交易所 VIP 卡的高返羊毛，会优先刷，但不适用其他人不提了。",
-      "publishedAt": "2026-05-30T03:39:00.000Z",
-      "link": "https://x.com/taresky/status/2060566811859693987",
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "#U卡 #Plasma\n\n这个月热门的 Plasma One Card，是目前（中国护照可用的）U 卡最优解：\n\n1️⃣ 全类目返 3%\n2️⃣ 中国护照可申\n3️⃣ 支持 Apple Pay、微信、支付宝\n\n🌟邀请码：FAFAFA🌟（有次数限制，需要的上吧）\n\n一些细节：\n1. 有海外 ID 或驾照的优先用，通过效率更高，推荐驾照。\n2. 用护照+海外地址证明（选对应地区居民），推荐银行账单。\n3. 建议用非 +86 手机号接验证码（仅开户需要，绑卡等验证可以走邮箱）。\n4. 全品类返现 3%，汇损 1.2%，卡 BIN 是 454924，和 EtherFi 同门。\n5. AI 类消费返 10%（短期活动）。\n6. 月返上限 $250，对应消费 $8333 😌\n7. UI/UX 做得最好，没有之一，团队有钱更安心。\n8. 站内转账体验很好，用户名允许四字 （建议抢注好记的）。\n\n注意事项：\n1. 如果 KYC 资料识别失败，可以联系客服人工审核，应该是一天内处理。\n2. KYC 服务商是 Sumsub，不要用同一个人脸不同证件注册多个号，过不了🤷‍♀️",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23U卡\">#U卡</a> <a href=\"/search?f=tweets&q=%23Plasma\">#Plasma</a>\n\n这个月热门的 Plasma One Card，是目前（中国护照可用的）U 卡最优解：\n\n1️⃣ 全类目返 3%\n2️⃣ 中国护照可申\n3️⃣ 支持 Apple Pay、微信、支付宝\n\n🌟邀请码：FAFAFA🌟（有次数限制，需要的上吧）\n\n一些细节：\n1. 有海外 ID 或驾照的优先用，通过效率更高，推荐驾照。\n2. 用护照+海外地址证明（选对应地区居民），推荐银行账单。\n3. 建议用非 +86 手机号接验证码（仅开户需要，绑卡等验证可以走邮箱）。\n4. 全品类返现 3%，汇损 1.2%，卡 BIN 是 454924，和 EtherFi 同门。\n5. AI 类消费返 10%（短期活动）。\n6. 月返上限 $250，对应消费 $8333 😌\n7. UI/UX 做得最好，没有之一，团队有钱更安心。\n8. 站内转账体验很好，用户名允许四字 （建议抢注好记的）。\n\n注意事项：\n1. 如果 KYC 资料识别失败，可以联系客服人工审核，应该是一天内处理。\n2. KYC 服务商是 Sumsub，不要用同一个人脸不同证件注册多个号，过不了🤷‍♀️",
-        "link": "https://x.com/taresky/status/2060395883259457996",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJf_CD6bMAIQrXB.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJf_DaCbwAMckyS.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
