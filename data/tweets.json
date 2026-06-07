@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T08:12:28.392Z",
+  "lastUpdated": "2026-06-07T09:39:02.921Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,60 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 591,
-    "successUsers": 29,
-    "failedUsers": 1
+    "newFetched": 570,
+    "successUsers": 28,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2063545193572528303",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "浮盈6300，网友小瘪三",
+      "contentHtml": "浮盈6300，网友小瘪三",
+      "publishedAt": "2026-06-07T08:54:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2063545193572528303",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKMvaFpaQAAqixe.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "浮盈2800，睡醒笑哈哈！",
+        "contentHtml": "浮盈2800，睡醒笑哈哈！",
+        "link": "https://x.com/Bitfatty/status/2063464007332426148",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKLlkoeasAApNfw.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2063543852108280221",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "别弹消息了  我这高考搜答案呢  手机一直响 别弹消息了  我这高考搜答案呢  手机一直响 别弹消息了  我这高考搜答案呢  手机一直响 别弹消息了  我这高考搜答案呢  手机一直响",
+      "contentHtml": "别弹消息了  我这高考搜答案呢  手机一直响 别弹消息了  我这高考搜答案呢  手机一直响 别弹消息了  我这高考搜答案呢  手机一直响 别弹消息了  我这高考搜答案呢  手机一直响",
+      "publishedAt": "2026-06-07T08:49:00.000Z",
+      "link": "https://x.com/hazenlee/status/2063543852108280221",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2063511367257403653",
       "username": "CycleStudies",
@@ -12150,43 +12199,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060904321995387321",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://pbs.twimg.com/profile_images/1986442283433254912/O0egVwxK_bigger.jpg",
-      "content": "🤔🤔🤔",
-      "contentHtml": "🤔🤔🤔",
-      "publishedAt": "2026-05-31T02:00:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2060904321995387321",
-      "quote": {
-        "username": "beiyue66",
-        "displayName": "beiyue1",
-        "content": "和朋友反编译了一晚上得出的结论\n这次币安大概率是接入了真实美股券商业务\n\n大概架构是真实美股托管 + 1:1代币化\n主要是通过 Alpaca Securities 托管和清算，币安自己还做了一套 bStocks 的 1:1 股票代币化体系\n\n如果这份反编译分析正确，那说明币安的股票市场的深度和滑点，理论上和真正的美股市场一样，而不是依赖币安自己的做市商\n关键披露：\"routes your orders ... to Alpaca Securities LLC for execution, clearing, settlement and custody\"\n\nAlpaca是正规美国持牌券商，只不过规模和Schwab这种券商差的比较大，但起码不是野路子\n\n如果是真的，那么 $bnb 也要迎来一波主升浪？",
-        "contentHtml": "和朋友反编译了一晚上得出的结论\n这次币安大概率是接入了真实美股券商业务\n\n大概架构是真实美股托管 + 1:1代币化\n主要是通过 Alpaca Securities 托管和清算，币安自己还做了一套 bStocks 的 1:1 股票代币化体系\n\n如果这份反编译分析正确，那说明币安的股票市场的深度和滑点，理论上和真正的美股市场一样，而不是依赖币安自己的做市商\n关键披露：\"routes your orders ... to Alpaca Securities LLC for execution, clearing, settlement and custody\"\n\nAlpaca是正规美国持牌券商，只不过规模和Schwab这种券商差的比较大，但起码不是野路子\n\n如果是真的，那么 <a href=\"/search?f=tweets&q=%23bnb\">$bnb</a> 也要迎来一波主升浪？",
-        "link": "https://x.com/beiyue66/status/2060810981606031503"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060898785900073015",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "感觉真是一荣俱荣一损俱损啊，hype长得再猛那几天大盘纹丝不动，bnb涨了这波是真把大盘带起来了。至少这一波表面是都带起来了。",
-      "contentHtml": "感觉真是一荣俱荣一损俱损啊，hype长得再猛那几天大盘纹丝不动，bnb涨了这波是真把大盘带起来了。至少这一波表面是都带起来了。",
-      "publishedAt": "2026-05-31T01:38:00.000Z",
-      "link": "https://x.com/0xleng1/status/2060898785900073015",
       "stats": {
         "replies": 0,
         "retweets": 0,
