@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T19:32:09.955Z",
+  "lastUpdated": "2026-06-07T20:26:51.314Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -100,11 +100,100 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 588,
+    "newFetched": 590,
     "successUsers": 29,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2063716398258630742",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "打电话也是打！",
+      "contentHtml": "打电话也是打！",
+      "publishedAt": "2026-06-07T20:15:00.000Z",
+      "link": "https://x.com/hazenlee/status/2063716398258630742",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKPLH0OacAAyZ8K.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "战火再次重燃？",
+        "contentHtml": "战火再次重燃？",
+        "link": "https://x.com/hazenlee/status/2063705429407043945",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKPBJZWaUAA0qVR.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2063713530742964719",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "$BTC \n\nBids are still placed.\n\nHonestly, I think it would be pretty wild for BTC to push into these levels so soon. We’ll probably see some more chop for now.\n\nUsually, when you see a wall like this get placed, it rarely gets pulled because the RR is simply too good on the higher time frames for upside.\n\nThat’s why, in most cases, like I mentioned in my last post, price will temporarily front run these levels before eventually coming back to fill them.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nBids are still placed.\n\nHonestly, I think it would be pretty wild for BTC to push into these levels so soon. We’ll probably see some more chop for now.\n\nUsually, when you see a wall like this get placed, it rarely gets pulled because the RR is simply too good on the higher time frames for upside.\n\nThat’s why, in most cases, like I mentioned in my last post, price will temporarily front run these levels before eventually coming back to fill them.",
+      "publishedAt": "2026-06-07T20:03:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2063713530742964719",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKPH5XZWMAAB9ae.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "Binance plunge protection team is back. \n\nUsually, when large $BTC bids start trailing just below price, MMs and algos tend to front run them temporarily.",
+        "contentHtml": "Binance plunge protection team is back. \n\nUsually, when large <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> bids start trailing just below price, MMs and algos tend to front run them temporarily.",
+        "link": "https://x.com/KillaXBT/status/2062937597207331298",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKEGWmyXMAAOGNA.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2063705429407043945",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "战火再次重燃？",
+      "contentHtml": "战火再次重燃？",
+      "publishedAt": "2026-06-07T19:31:00.000Z",
+      "link": "https://x.com/hazenlee/status/2063705429407043945",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKPBJZWaUAA0qVR.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2063695251680751914",
       "username": "KillaXBT",
@@ -12151,68 +12240,6 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%23投资\">#投资</a> \n\n我好像做过投资这个链路上，所有不同类型的产品了。\n\n1. 最开始做互联网金融（善终了），纯 C 端，用户可感知的是一款活期理财，后端虽然穿透但是用户并不会去了解。\n\n2. 后来负责 Prime Broker 的自营基金，只管公司自营的钱。\n\n3. 再后来做了基于交易所 API 的自动化放贷工具，to C 端，略专业一点的用户。\n\n4. 再后来做了 Crypto Curator，相当于是链上公募基金，to C。\n\n5. 偶尔卖策略和交易执行，这里 to 熟人大户/基金。\n\n这些之外，我的主要职业是交易员，或者说个人投资者。\n\n最终我的经验是：\n\n投资是终极职业，归根到底只能靠自己。\n\n但大部分人需要的是一款理财产品，然后被骗。\n\n或者是一个造富的梦境，然后破产。\n\n无解的矛盾。",
       "publishedAt": "2026-05-31T03:52:00.000Z",
       "link": "https://x.com/taresky/status/2060932483064234087",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060929419850723497",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "个人角度两位聊的其实并不是投资策略的问题，而是产业发展阶段和投资节奏的问题，核心是要去关注产业发展阶段和投资节奏的动态匹配。说说我的理解：\n1、当下产业阶段\n是一个资本开支高涨+需求同步狂飙的节奏，首先是HBM产能供给不足、然后存储御三家海力士、三星和美光在扩产节奏上也很克制（包括了三星韩国平泽的P4/P5工厂、海力士Yongin工厂，美光在台湾和纽约的Tongluo/ID1等这些新厂还在建设，新产线释放产能到27年下半年了），御三家为了hbm的生产又去缩减挤压了DDR的产能，层层传导nand、ssd的产能又都不足了。同时需求还在狂飙，按老黄的说法是抛物线上扬。\n\n在这个阶段，“无死角持仓三大厂 + 少量NAND”就能吃到最肥的红利，因为全市场都在抢DRAM的增量，细分差异还没到必须精确捕捉的地步。 \n\n2、未来\n当AI从“短期上下文”走向“长期上下文 + 智能体工作流 + 海量外部记忆库”时，DRAM和NAND的需求强度会明显分化 。更进一步，如果长期冷存储（HDD）因为成本优势+需求井喷而补涨，NAND和HDD的边界也会被重新定义（WDC剥离SNDK就是历史上的节奏切换案例）。\n  \n到那个时候，同样的“存储”主题，内部的Alpha差距会拉大。届时确实需要去审视不同阶段，AI发展对于存储的需求不同，自然也会影响其在二级市场的表现。\n\n3、当然不能说hbm和dram就需求少，只要AI加速器需求还在增加，hbm的需求也在加。毕竟英伟达马上要交货的rubin系列GPI用到的hbm更多了。\n\n所以“要不要细分”其实是由产业发展阶段决定的，而非投资人主观策略偏好。\n\n从更久远的角度看，谁的成本曲线更低、谁的产能扩张更理性、谁在细分赛道的技术壁垒更高，就成了决定胜负的关键——这已经不是“策略选边”能解决的，而是看你对产业发展阶段的判断准不准，以及能不能动态调整投资节奏来匹配发展阶段。",
-      "contentHtml": "个人角度两位聊的其实并不是投资策略的问题，而是产业发展阶段和投资节奏的问题，核心是要去关注产业发展阶段和投资节奏的动态匹配。说说我的理解：\n1、当下产业阶段\n是一个资本开支高涨+需求同步狂飙的节奏，首先是HBM产能供给不足、然后存储御三家海力士、三星和美光在扩产节奏上也很克制（包括了三星韩国平泽的P4/P5工厂、海力士Yongin工厂，美光在台湾和纽约的Tongluo/ID1等这些新厂还在建设，新产线释放产能到27年下半年了），御三家为了hbm的生产又去缩减挤压了DDR的产能，层层传导nand、ssd的产能又都不足了。同时需求还在狂飙，按老黄的说法是抛物线上扬。\n\n在这个阶段，“无死角持仓三大厂 + 少量NAND”就能吃到最肥的红利，因为全市场都在抢DRAM的增量，细分差异还没到必须精确捕捉的地步。 \n\n2、未来\n当AI从“短期上下文”走向“长期上下文 + 智能体工作流 + 海量外部记忆库”时，DRAM和NAND的需求强度会明显分化 。更进一步，如果长期冷存储（HDD）因为成本优势+需求井喷而补涨，NAND和HDD的边界也会被重新定义（WDC剥离SNDK就是历史上的节奏切换案例）。\n  \n到那个时候，同样的“存储”主题，内部的Alpha差距会拉大。届时确实需要去审视不同阶段，AI发展对于存储的需求不同，自然也会影响其在二级市场的表现。\n\n3、当然不能说hbm和dram就需求少，只要AI加速器需求还在增加，hbm的需求也在加。毕竟英伟达马上要交货的rubin系列GPI用到的hbm更多了。\n\n所以“要不要细分”其实是由产业发展阶段决定的，而非投资人主观策略偏好。\n\n从更久远的角度看，谁的成本曲线更低、谁的产能扩张更理性、谁在细分赛道的技术壁垒更高，就成了决定胜负的关键——这已经不是“策略选边”能解决的，而是看你对产业发展阶段的判断准不准，以及能不能动态调整投资节奏来匹配发展阶段。",
-      "publishedAt": "2026-05-31T03:40:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2060929419850723497",
-      "quote": {
-        "username": "coolish",
-        "displayName": "paulwei",
-        "content": "关于存储赛道下注的看法讨论，见引用推（图1）\n你们怎么看？",
-        "contentHtml": "关于存储赛道下注的看法讨论，见引用推（图1）\n你们怎么看？",
-        "link": "https://x.com/coolish/status/2060663360014946530",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJjxIxPasAAZdMn.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJjx-4aaMAAAVF8.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060919497226375513",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "bg能不能给力一点 把字节的ipo放出来，唯一一个我敢大仓位上的，tiktok+电商+目前视频ai大模型最强的seedande+豆包。",
-      "contentHtml": "bg能不能给力一点 把字节的ipo放出来，唯一一个我敢大仓位上的，tiktok+电商+目前视频ai大模型最强的seedande+豆包。",
-      "publishedAt": "2026-05-31T03:01:00.000Z",
-      "link": "https://x.com/0xleng1/status/2060919497226375513",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2060918006075789783",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "蓝v终于恢复了😓",
-      "contentHtml": "蓝v终于恢复了😓",
-      "publishedAt": "2026-05-31T02:55:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2060918006075789783",
       "stats": {
         "replies": 0,
         "retweets": 0,
