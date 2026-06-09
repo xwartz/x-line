@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T14:24:52.509Z",
+  "lastUpdated": "2026-06-09T15:34:23.897Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -112,11 +112,286 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 650,
+    "newFetched": 649,
     "successUsers": 32,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2064368805997125819",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "整体市场走势应该没有超出周一早上的这篇推文聊到的范畴：需要等待宏观给出第一个信号。当下要真正反转，大概率也要先等宏观层面给一个“止血信号”。市场需要看到分母端不再继续恶化。昨天早上推文里面有讲到宏观止血信号的顺序：至少CPI不能炸（结合上周五聊到的特别是核心CPI不能炸）。只有分母端压力缓和之后，市场才会重新回到AI分子端，重新交易算力短缺、存储涨价、AI capex和商业化加速。",
+      "contentHtml": "整体市场走势应该没有超出周一早上的这篇推文聊到的范畴：需要等待宏观给出第一个信号。当下要真正反转，大概率也要先等宏观层面给一个“止血信号”。市场需要看到分母端不再继续恶化。昨天早上推文里面有讲到宏观止血信号的顺序：至少CPI不能炸（结合上周五聊到的特别是核心CPI不能炸）。只有分母端压力缓和之后，市场才会重新回到AI分子端，重新交易算力短缺、存储涨价、AI capex和商业化加速。",
+      "publishedAt": "2026-06-09T15:27:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2064368805997125819",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "熬过一个焦灼的周末本周市场应该怎么看？上周五晚上有详细梳理美股在上周后半周走势几个变化因素，最早还是上周三晚上的space提示了风险。这次调整的核心逻辑：AI/半导体短期涨幅过大、市场FOMO过强、交易结构过度拥挤，抛物线式上涨本身不可持续；随后又遇到SpaceX巨无霸IPO路演和认购抽水、CPI/PPI/FOMC前的自然避险，以及强就业数据强化“高利率更久甚至重新加息”的担忧，最终触发了热门科技股的集中去杠杆。当然这也是再老话重弹，关键是后续应该怎么看\n\n1、可以先回顾下过去大半年的几次调整\n去年12月也有一次类似的科技股暴跌。当时是 Oracle 先引爆 AI 投入回报率和资本开支担忧，随后 Broadcom 业绩后市场继续杀一波，直到美光强业绩和偏温和的通胀数据才把情绪拉回来。两次相同点都是利率预期扰动，不同点是：去年底今年初市场更担心AI capex的分子端回报，这一次暂时没有形成“AI逻辑崩了”的共识，市场更担心的是分母端——利率、通胀、Fed、地缘和流动性。\n\n存储板块是这一轮AI交易中最强的主线之一，涨幅最大、景气度最高、盈利弹性最强，因此也最容易成为拥挤交易出清时被集中兑现的对象。以美光为例，本轮从6月3日高点1089.29跌到周五收盘864.01，收盘回撤约20.7%；如果按盘中低点850.18算，最大回撤约22.0%。这已经超过5月中旬那轮约20%左右的回撤，但还没有达到3月战争期间更极端的恐慌水平。\n\nKORU作为韩国市场的3倍杠杆ETF，可以近似观察韩国科技/存储交易的风险偏好，但不能直接等同于韩国指数本身。KORU从6月1日高点1279.70跌到6月5日收盘610.01，回撤约52.3%；若按盘中低点599计算，回撤约53.2%。\n\n从空间看，这次已经超过5月中旬那轮回调；\n从时间看，本轮已经连续调整4个交易日，也接近过去几次短线主跌窗口。\n因此一个相对合理的判断是：在AI基本面没有被证伪的大背景下，短线主跌浪可能已经完成了相当大一部分，后面连续暴杀的概率下降。\n\n所以本周不一定继续暴跌，但直接V回去的概率不高，更可能是横盘震荡或缩量缓跌；但只要美债收益率不回落、CPI/FOMC还没落地，市场大概率仍是高波动、偏防守、等待确认和时机好转。\n\n2、再看周末到今天的几个大事件\n1）以色列和黎巴嫩那边还有摩擦，伊朗导弹和无人机开始打击以色列，特朗普一边压内塔尼亚胡不要报复，一边继续保美伊协议线。这条线会扰动油价，也会让市场重新想起通胀压力。\n但目前还没看到重新升温到全面失控的迹象。\n看川普昨晚接受的采访，是极力再确保不会让美伊战争升级的。\n\n2）英伟达和SK预计周一公布合作计划。黄仁勋的口径很直接：内存、晶圆、先进封装、硅光这些环节都短缺，而且短缺可能持续数年。这句话把市场之前炒过的几条线又串回来了。\n\n再当下的市场状态下，会带给市场一定的支撑，但应该很难立马带动反转。今天可以观察市场盘面，低开以后，核心标的能不能稳住？有订单、有客户、有产业位置的公司，会不会先被资金接回去？\n如果核心公司稳，跟风票乱，那就是分化。\n如果核心公司也接不住，这种反抽持续性会很差。\n\n3、等待宏观给出第一个信号\n从4月初以来这两个月的大行情，大涨的契机先是宏观伊朗局势的停火、再是算力短缺、然后是AI商业化加速，这三个时间在4月初到4月中依次展开，由此带动一大波行情。\n4月是“宏观风险解除 → AI产业逻辑重新被放大”；\n现在则是“AI产业逻辑没坏 → 但宏观分母端压住估值 → 所以个人角度也要先等宏观止血”。\n\n那么当下要真正反转，大概率也要先等宏观层面给一个“止血信号”。不一定非要出现一个像4月初“伊朗挺火”那么大的宏观利好；更现实的是，市场需要看到分母端不再继续恶化。\n\n这次为什么需要宏观先给信号？\n因为这次下跌的主要矛盾，不是“AI逻辑崩了”，而是 利率、通胀、依稀会议、地缘、巨无霸IPO抽水、市场太过狂热拥挤度 一起冲击估值，去杠杆。\n\n换句话说，市场现在不是在问：“AI还有没有需求？”\n而是在问：\n“利率如果继续上，AI股票给这么高估值还能不能撑住？”\n所以这一次反转，优先级不是先看产业故事，而是先看宏观压力有没有停止上升。\n\n顺序大概率也类似：先要宏观层面止血，至少CPI不能炸、美债收益率不能继续上冲、SpaceX IPO后是不是释放部分资金流动性，FOMC不能进一步放鹰。只有分母端压力缓和之后，市场才会重新回到AI分子端，重新交易算力短缺、存储涨价、AI capex和商业化加速。\n\n当下要反转，先看宏观信号；但不需要宏观全面转好，只需要宏观不再继续恶化。宏观一旦止血，AI产业逻辑会很快重新接上。所以也是上周五晚上聊到的，短期内说很难完全逆转，需要耐心等。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "熬过一个焦灼的周末本周市场应该怎么看？上周五晚上有详细梳理美股在上周后半周走势几个变化因素，最早还是上周三晚上的space提示了风险。这次调整的核心逻辑：AI/半导体短期涨幅过大、市场FOMO过强、交易结构过度拥挤，抛物线式上涨本身不可持续；随后又遇到SpaceX巨无霸IPO路演和认购抽水、CPI/PPI/FOMC前的自然避险，以及强就业数据强化“高利率更久甚至重新加息”的担忧，最终触发了热门科技股的集中去杠杆。当然这也是再老话重弹，关键是后续应该怎么看\n\n1、可以先回顾下过去大半年的几次调整\n去年12月也有一次类似的科技股暴跌。当时是 Oracle 先引爆 AI 投入回报率和资本开支担忧，随后 Broadcom 业绩后市场继续杀一波，直到美光强业绩和偏温和的通胀数据才把情绪拉回来。两次相同点都是利率预期扰动，不同点是：去年底今年初市场更担心AI capex的分子端回报，这一次暂时没有形成“AI逻辑崩了”的共识，市场更担心的是分母端——利率、通胀、Fed、地缘和流动性。\n\n存储板块是这一轮AI交易中最强的主线之一，涨幅最大、景气度最高、盈利弹性最强，因此也最容易成为拥挤交易出清时被集中兑现的对象。以美光为例，本轮从6月3日高点1089.29跌到周五收盘864.01，收盘回撤约20.7%；如果按盘中低点850.18算，最大回撤约22.0%。这已经超过5月中旬那轮约20%左右的回撤，但还没有达到3月战争期间更极端的恐慌水平。\n\nKORU作为韩国市场的3倍杠杆ETF，可以近似观察韩国科技/存储交易的风险偏好，但不能直接等同于韩国指数本身。KORU从6月1日高点1279.70跌到6月5日收盘610.01，回撤约52.3%；若按盘中低点599计算，回撤约53.2%。\n\n从空间看，这次已经超过5月中旬那轮回调；\n从时间看，本轮已经连续调整4个交易日，也接近过去几次短线主跌窗口。\n因此一个相对合理的判断是：在AI基本面没有被证伪的大背景下，短线主跌浪可能已经完成了相当大一部分，后面连续暴杀的概率下降。\n\n所以本周不一定继续暴跌，但直接V回去的概率不高，更可能是横盘震荡或缩量缓跌；但只要美债收益率不回落、CPI/FOMC还没落地，市场大概率仍是高波动、偏防守、等待确认和时机好转。\n\n2、再看周末到今天的几个大事件\n1）以色列和黎巴嫩那边还有摩擦，伊朗导弹和无人机开始打击以色列，特朗普一边压内塔尼亚胡不要报复，一边继续保美伊协议线。这条线会扰动油价，也会让市场重新想起通胀压力。\n但目前还没看到重新升温到全面失控的迹象。\n看川普昨晚接受的采访，是极力再确保不会让美伊战争升级的。\n\n2）英伟达和SK预计周一公布合作计划。黄仁勋的口径很直接：内存、晶圆、先进封装、硅光这些环节都短缺，而且短缺可能持续数年。这句话把市场之前炒过的几条线又串回来了。\n\n再当下的市场状态下，会带给市场一定的支撑，但应该很难立马带动反转。今天可以观察市场盘面，低开以后，核心标的能不能稳住？有订单、有客户、有产业位置的公司，会不会先被资金接回去？\n如果核心公司稳，跟风票乱，那就是分化。\n如果核心公司也接不住，这种反抽持续性会很差。\n\n3、等待宏观给出第一个信号\n从4月初以来这两个月的大行情，大涨的契机先是宏观伊朗局势的停火、再是算力短缺、然后是AI商业化加速，这三个时间在4月初到4月中依次展开，由此带动一大波行情。\n4月是“宏观风险解除 → AI产业逻辑重新被放大”；\n现在则是“AI产业逻辑没坏 → 但宏观分母端压住估值 → 所以个人角度也要先等宏观止血”。\n\n那么当下要真正反转，大概率也要先等宏观层面给一个“止血信号”。不一定非要出现一个像4月初“伊朗挺火”那么大的宏观利好；更现实的是，市场需要看到分母端不再继续恶化。\n\n这次为什么需要宏观先给信号？\n因为这次下跌的主要矛盾，不是“AI逻辑崩了”，而是 利率、通胀、依稀会议、地缘、巨无霸IPO抽水、市场太过狂热拥挤度 一起冲击估值，去杠杆。\n\n换句话说，市场现在不是在问：“AI还有没有需求？”\n而是在问：\n“利率如果继续上，AI股票给这么高估值还能不能撑住？”\n所以这一次反转，优先级不是先看产业故事，而是先看宏观压力有没有停止上升。\n\n顺序大概率也类似：先要宏观层面止血，至少CPI不能炸、美债收益率不能继续上冲、SpaceX IPO后是不是释放部分资金流动性，FOMC不能进一步放鹰。只有分母端压力缓和之后，市场才会重新回到AI分子端，重新交易算力短缺、存储涨价、AI capex和商业化加速。\n\n当下要反转，先看宏观信号；但不需要宏观全面转好，只需要宏观不再继续恶化。宏观一旦止血，AI产业逻辑会很快重新接上。所以也是上周五晚上聊到的，短期内说很难完全逆转，需要耐心等。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2063804130074775578",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKQaDfEWIAAo3s5.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKQaFpqXYAAqB6C.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064364086058758589",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "我猜收盘价：$268。\n\n逻辑很简单：\n\nSpaceX 的核心问题已经不是值不值钱，而是有多少资金愿意为稀缺性买单。\n\n1.75万亿美元估值看起来不便宜，但SpaceX本身就是全球最稀缺的一级市场资产之一，火箭、Starlink、AI算力基础设施三大叙事叠加，本质上卖的是未来预期。\n\n首日交易的不会是PE，而是情绪、流动性和FOMO。\n\n估值已经提前 Price In，但流通盘有限，如果指数纳入预期和散户抢筹共振，首日大概率依然会出现明显溢价。\n\n我的区间判断：\n\n保守：180-220美元\n中性：240-280美元\n激进：300美元以上\n\n所以我押 $268。\n\n顺便说一下麦通最早发行了pre-IPO的spaceX是真正的美股RWA行业先驱喔\n这波参加spaceX pre-IPO的小伙伴先提前恭喜一下🫡",
+      "contentHtml": "我猜收盘价：$268。\n\n逻辑很简单：\n\nSpaceX 的核心问题已经不是值不值钱，而是有多少资金愿意为稀缺性买单。\n\n1.75万亿美元估值看起来不便宜，但SpaceX本身就是全球最稀缺的一级市场资产之一，火箭、Starlink、AI算力基础设施三大叙事叠加，本质上卖的是未来预期。\n\n首日交易的不会是PE，而是情绪、流动性和FOMO。\n\n估值已经提前 Price In，但流通盘有限，如果指数纳入预期和散户抢筹共振，首日大概率依然会出现明显溢价。\n\n我的区间判断：\n\n保守：180-220美元\n中性：240-280美元\n激进：300美元以上\n\n所以我押 $268。\n\n顺便说一下麦通最早发行了pre-IPO的spaceX是真正的美股RWA行业先驱喔\n这波参加spaceX pre-IPO的小伙伴先提前恭喜一下🫡",
+      "publishedAt": "2026-06-09T15:08:00.000Z",
+      "link": "https://x.com/hazenlee/status/2064364086058758589",
+      "quote": {
+        "username": "MSX_CN",
+        "displayName": "麦通MSX",
+        "content": "🚀 SpaceX IPO 猜价挑战｜火箭升空，下一站纳斯达克！\n\nSpaceX 即将正式上市，\n你觉得 $SPCX.M 美股代币首日收盘价能冲到多少美元？\n\n评论区大胆开个价，\n看看谁最懂这枚「超级火箭」。🛰️\n\n参与方式👇\n1️⃣ 关注 @MSX_CN @msxcom @Jing_MSX\n2️⃣ 转发本推文\n3️⃣ 在评论区留下你的预测价格，并 @ 你的 3 位好友\n\n🎁 最接近真实收盘价的 5 位用户，瓜分 100 USDT：\n\n🥇 第 1 名：40 USDT\n🥈 第 2 名：25 USDT\n🥉 第 3 名：15 USDT\n🏅 第 4 名：10 USDT\n🏅 第 5 名：10 USDT\n\n⏰ 截止时间：2026 年 6 月 12 日 21:30（UTC+8）\n\n从 Pre-IPO 到正式上市，让优质资产自由流通。\n\n#MSX #麦通 #链上美股用麦通 #SpaceX #SPCX #PreIPO #RWA",
+        "contentHtml": "🚀 SpaceX IPO 猜价挑战｜火箭升空，下一站纳斯达克！\n\nSpaceX 即将正式上市，\n你觉得 <a href=\"/search?f=tweets&q=%23SPCX.M\">$SPCX.M</a> 美股代币首日收盘价能冲到多少美元？\n\n评论区大胆开个价，\n看看谁最懂这枚「超级火箭」。🛰️\n\n参与方式👇\n1️⃣ 关注 <a href=\"/MSX_CN\" title=\"麦通MSX\">@MSX_CN</a> <a href=\"/msxcom\" title=\"MSX\">@msxcom</a> <a href=\"/Jing_MSX\" title=\"MSX景宝✨\">@Jing_MSX</a>\n2️⃣ 转发本推文\n3️⃣ 在评论区留下你的预测价格，并 @ 你的 3 位好友\n\n🎁 最接近真实收盘价的 5 位用户，瓜分 100 USDT：\n\n🥇 第 1 名：40 USDT\n🥈 第 2 名：25 USDT\n🥉 第 3 名：15 USDT\n🏅 第 4 名：10 USDT\n🏅 第 5 名：10 USDT\n\n⏰ 截止时间：2026 年 6 月 12 日 21:30（UTC+8）\n\n从 Pre-IPO 到正式上市，让优质资产自由流通。\n\n<a href=\"/search?f=tweets&q=%23MSX\">#MSX</a> <a href=\"/search?f=tweets&q=%23麦通\">#麦通</a> <a href=\"/search?f=tweets&q=%23链上美股用麦通\">#链上美股用麦通</a> <a href=\"/search?f=tweets&q=%23SpaceX\">#SpaceX</a> <a href=\"/search?f=tweets&q=%23SPCX\">#SPCX</a> <a href=\"/search?f=tweets&q=%23PreIPO\">#PreIPO</a> <a href=\"/search?f=tweets&q=%23RWA\">#RWA</a>",
+        "link": "https://x.com/MSX_CN/status/2064275055794696364",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKXDPRfaEAAJTAY.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064363750191423890",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "暂时伟大撤退成功",
+      "contentHtml": "暂时伟大撤退成功",
+      "publishedAt": "2026-06-09T15:07:00.000Z",
+      "link": "https://x.com/octopusycc/status/2064363750191423890",
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "如果市场需要我们在六月伟大撤退，我们可以先进行伟大撤退。",
+        "contentHtml": "如果市场需要我们在六月伟大撤退，我们可以先进行伟大撤退。",
+        "link": "https://x.com/octopusycc/status/2064083913157623819"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064361090969129225",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "十一点bg又开1000万spacex，fcfs保证额度，打完直接套锁定利润。应该是最稳的方式了。三天10%，适合小资金，大资金比较麻烦。不是投资建议，因为最终价格也还没确定，套保也需要注意一下，自己dyor",
+      "contentHtml": "十一点bg又开1000万spacex，fcfs保证额度，打完直接套锁定利润。应该是最稳的方式了。三天10%，适合小资金，大资金比较麻烦。不是投资建议，因为最终价格也还没确定，套保也需要注意一下，自己dyor",
+      "publishedAt": "2026-06-09T14:56:00.000Z",
+      "link": "https://x.com/0xleng1/status/2064361090969129225",
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "bg钱包打了五万spacex，到时候等bn rebase后套保一下5000u到手还是挺舒服的，还好peter提醒及时。",
+        "contentHtml": "bg钱包打了五万spacex，到时候等bn rebase后套保一下5000u到手还是挺舒服的，还好peter提醒及时。",
+        "link": "https://x.com/0xleng1/status/2064279356516839520"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064360554353820148",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "$BTC \n\nThe top line projects Bitcoin towards $54K, and the bottom line projects 32K. \n\nWhichever line is reached at the vertical time markers is expected to form the cycle low.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nThe top line projects Bitcoin towards $54K, and the bottom line projects 32K. \n\nWhichever line is reached at the vertical time markers is expected to form the cycle low.",
+      "publishedAt": "2026-06-09T14:54:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2064360554353820148",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKYURkmXoAAyzpr.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "Just cracked the $BTC bottom.\n\nWhether you like it or not, we are going sub 60K an there is absolutely nothing you can do about it.",
+        "contentHtml": "Just cracked the <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> bottom.\n\nWhether you like it or not, we are going sub 60K an there is absolutely nothing you can do about it.",
+        "link": "https://x.com/KillaXBT/status/2039471983302218148",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HE2o0RrWgAA6Gbc.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064360256592019517",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "我再次Call back这一条\n这是我们这周必须要做到的交易计划",
+      "contentHtml": "我再次Call back这一条\n这是我们这周必须要做到的交易计划",
+      "publishedAt": "2026-06-09T14:53:00.000Z",
+      "link": "https://x.com/octopusycc/status/2064360256592019517",
+      "quote": {
+        "username": "labubu_trader",
+        "displayName": "3X Long Labubu",
+        "content": "You have to be patient to wait until Wednesday .\nLook at 05/19 how spx fought 10d EMA and failed but recovered in the following session.\nBut after today lost 7400 on Tue/Wed would be a big problem. It would lead spx to 7200-7260",
+        "contentHtml": "You have to be patient to wait until Wednesday .\nLook at 05/19 how spx fought 10d EMA and failed but recovered in the following session.\nBut after today lost 7400 on Tue/Wed would be a big problem. It would lead spx to 7200-7260",
+        "link": "https://x.com/labubu_trader/status/2064085711255691709"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064360080146149596",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "绝不可以无视明天的CPI",
+      "contentHtml": "绝不可以无视明天的CPI",
+      "publishedAt": "2026-06-09T14:52:00.000Z",
+      "link": "https://x.com/octopusycc/status/2064360080146149596",
+      "quote": {
+        "username": "AntonLaVay",
+        "displayName": "Manchurius Hao — Greeks.live首席赌狗",
+        "content": "这还真的不太能忽视周三的CPI，至少不能太过分。非农，CPI这些数据，现在要比鲍威尔时代麻烦一些，因为Warsh完全是另一个风格，他不喜欢和市场沟通，美其名曰不想干扰市场本身的定价。\n\n这种风格属于是一种回到08年以前，格林斯潘时代的一种返祖行为。\n\n他希望主要强调联储的原则，而不是直接给前瞻指引。\n\n这里面的麻烦就是，原则并不可靠，比如，OK你有原则，但是你真的能坚持吗？格林斯潘当年也没有能很好的坚持，尤其是LTCM事件之后。\n\n如果 QQQ 再跌 10%，你还坚持吗？\n如果失业率上行但 CPI 还热，你怎么选？\n如果 Treasury auction 出问题，你还缩表吗？\n如果特朗普公开要求降息，你还坚持独立吗？\n如果 repo 利率跳起来，你是说“市场自己定价”，还是立刻开 liquidity backstop？",
+        "contentHtml": "这还真的不太能忽视周三的CPI，至少不能太过分。非农，CPI这些数据，现在要比鲍威尔时代麻烦一些，因为Warsh完全是另一个风格，他不喜欢和市场沟通，美其名曰不想干扰市场本身的定价。\n\n这种风格属于是一种回到08年以前，格林斯潘时代的一种返祖行为。\n\n他希望主要强调联储的原则，而不是直接给前瞻指引。\n\n这里面的麻烦就是，原则并不可靠，比如，OK你有原则，但是你真的能坚持吗？格林斯潘当年也没有能很好的坚持，尤其是LTCM事件之后。\n\n如果 QQQ 再跌 10%，你还坚持吗？\n如果失业率上行但 CPI 还热，你怎么选？\n如果 Treasury auction 出问题，你还缩表吗？\n如果特朗普公开要求降息，你还坚持独立吗？\n如果 repo 利率跳起来，你是说“市场自己定价”，还是立刻开 liquidity backstop？",
+        "link": "https://x.com/AntonLaVay/status/2064324682996707422"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064359801451385263",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "VIX 又20了\n\n市场还是在进行极端的防守",
+      "contentHtml": "VIX 又20了\n\n市场还是在进行极端的防守",
+      "publishedAt": "2026-06-09T14:51:00.000Z",
+      "link": "https://x.com/octopusycc/status/2064359801451385263",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKYUSbZbYAAxrAS.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064359344238661703",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "草，反手空进去死了算了",
+      "contentHtml": "草，反手空进去死了算了",
+      "publishedAt": "2026-06-09T14:49:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2064359344238661703",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKYT4ima4AA0ltt.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064359027929395384",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "怎么突然末日了？？？？",
+      "contentHtml": "怎么突然末日了？？？？",
+      "publishedAt": "2026-06-09T14:48:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2064359027929395384",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064358287815180736",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "20分钟后",
+      "contentHtml": "20分钟后",
+      "publishedAt": "2026-06-09T14:45:00.000Z",
+      "link": "https://x.com/0xleng1/status/2064358287815180736",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064355321234223141",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "原来我一直在严格执行最优解？😂",
+      "contentHtml": "原来我一直在严格执行最优解？😂",
+      "publishedAt": "2026-06-09T14:33:00.000Z",
+      "link": "https://x.com/yuren477/status/2064355321234223141",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKYQNbPakAAGm3i.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2064350858628988957",
       "username": "dongbimao",
@@ -11724,359 +11999,6 @@
           "url": "https://pbs.twimg.com/media/HJ2xR2ZWEAABzvQ.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061998717683806295",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "知名 $ETH 多头 James Fickel(@jamesfickel) 将 10000 枚 ETH 从 Coinbase 托管地址转移至充值地址（价值 1862 万美元），或用于交易\n\n这是他时隔六个月再次执行百万美金的大额资产充值操作；目前在链上还持有 38936.13 枚 ETH，总价值 7243 万美元\n\n钱包地址 intel.arkm.com/explorer/enti…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "contentHtml": "知名 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 多头 James Fickel(<a href=\"/jamesfickel\" title=\"James Fickel\">@jamesfickel</a>) 将 10000 枚 ETH 从 Coinbase 托管地址转移至充值地址（价值 1862 万美元），或用于交易\n\n这是他时隔六个月再次执行百万美金的大额资产充值操作；目前在链上还持有 38936.13 枚 ETH，总价值 7243 万美元\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/entity/james-fickel\">intel.arkm.com/explorer/enti…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "publishedAt": "2026-06-03T02:29:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2061998717683806295",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ2w5gLbwAAg3jW.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "知名 $ETH 多头 James Fickel(@jamesfickel) 10 分钟前将 4400 枚 ETH 充值进 #Coinbase，价值 1828 万美元，疑似抛售\n\n目前他的链上账户仍持有 57071 ETH，总价值 2.37 亿美元\n\n钱包地址 intel.arkm.com/explorer/enti…\n\n本文由 #Gate 大门交易所 | @Gate_zh 赞助",
-        "contentHtml": "知名 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 多头 James Fickel(<a href=\"/jamesfickel\" title=\"James Fickel\">@jamesfickel</a>) 10 分钟前将 4400 枚 ETH 充值进 <a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a>，价值 1828 万美元，疑似抛售\n\n目前他的链上账户仍持有 57071 ETH，总价值 2.37 亿美元\n\n钱包地址 <a href=\"https://intel.arkm.com/explorer/entity/james-fickel\">intel.arkm.com/explorer/enti…</a>\n\n本文由 <a href=\"/search?f=tweets&q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a> 赞助",
-        "link": "https://x.com/ai_9684xtpa/status/1973234328625872914",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/G2JWFplboAAKlrD.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061997806668394848",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
-      "content": "【🚨 #BTC 熊底摔杯！2026抄底计划启动】\n\n感谢大家又4年的陪伴，周期轮动，建仓时刻已至！即日起，本猫正式开启定投抄底，继续保持2022年熊底分批建仓的稳健作风👇\n\n📊 抄底策略速览（分两期执行）：\n\n○ 第一期：筑底区间定投（建仓50%）\n在当前的熊底二次筑底区间，预计花费 九九八十一天（时间划重点！切勿急躁一把梭哈），等量分批完成一半仓位的建立。现货、低倍杠杆均可灵活配置\n\n○ 第二期：右侧拐点确认（建仓剩余50%）\n保留一半子弹，耐心等待熊底区间的 右侧拐点 出现，顺势出击，完成剩下半仓的部署\n\n想了解这套计划背后的深度宏观推演与点位逻辑？\n🔗 后续将发布《抄底计划具体逻辑分析》（订阅专享，敬请期待）\n\n历经 九九八十一难，方取真经。跟上节奏，我们顶峰相见！🚀",
-      "contentHtml": "【🚨 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 熊底摔杯！2026抄底计划启动】\n\n感谢大家又4年的陪伴，周期轮动，建仓时刻已至！即日起，本猫正式开启定投抄底，继续保持2022年熊底分批建仓的稳健作风👇\n\n📊 抄底策略速览（分两期执行）：\n\n○ 第一期：筑底区间定投（建仓50%）\n在当前的熊底二次筑底区间，预计花费 九九八十一天（时间划重点！切勿急躁一把梭哈），等量分批完成一半仓位的建立。现货、低倍杠杆均可灵活配置\n\n○ 第二期：右侧拐点确认（建仓剩余50%）\n保留一半子弹，耐心等待熊底区间的 右侧拐点 出现，顺势出击，完成剩下半仓的部署\n\n想了解这套计划背后的深度宏观推演与点位逻辑？\n🔗 后续将发布《抄底计划具体逻辑分析》（订阅专享，敬请期待）\n\n历经 九九八十一难，方取真经。跟上节奏，我们顶峰相见！🚀",
-      "publishedAt": "2026-06-03T02:26:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2061997806668394848",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ2uzAJaoAAMQR2.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "家人们，随着行情的启动，底部定投抄底计划正式完结（2022年8月23日-2022年11月4日）。\n\n73天，两万的定投均价（现货&合约同步定投，均价相同），底部的每一天都值得铭记。\n\n答应我，家人们，让我们相约牛顶，不见不散！\n\n#BTC #Bitcoin",
-        "contentHtml": "家人们，随着行情的启动，底部定投抄底计划正式完结（2022年8月23日-2022年11月4日）。\n\n73天，两万的定投均价（现货&amp;合约同步定投，均价相同），底部的每一天都值得铭记。\n\n答应我，家人们，让我们相约牛顶，不见不散！\n\n<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> <a href=\"/search?f=tweets&q=%23Bitcoin\">#Bitcoin</a>",
-        "link": "https://x.com/0xCryptoChan/status/1588550637129986049",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/FguqYP9VUAE5w6Y.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061990411934302463",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "$bnb  好像是第5次了\n币安人造行情一波然后全场崩盘\n之前我提过一个观点  \n以前sbf系的联合做市是共振的\n后来他进去了，币圈的做市就乱了\n欧美大哥和币圈原生大哥经常互相猜不准\n干脆就不共振了\n\n最典型的例子还是1011  \n币圈原生大哥猛猛做多\n欧美大哥半夜给你弄死了\n\n这里不是崇洋媚外，而是币圈系的操盘经常喜欢逆势操盘，微策略堵屁眼，币圈系堵马桶然后拉山寨搞行情\n结局就是 💩漫金山 崩",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23bnb\">$bnb</a>  好像是第5次了\n币安人造行情一波然后全场崩盘\n之前我提过一个观点  \n以前sbf系的联合做市是共振的\n后来他进去了，币圈的做市就乱了\n欧美大哥和币圈原生大哥经常互相猜不准\n干脆就不共振了\n\n最典型的例子还是1011  \n币圈原生大哥猛猛做多\n欧美大哥半夜给你弄死了\n\n这里不是崇洋媚外，而是币圈系的操盘经常喜欢逆势操盘，微策略堵屁眼，币圈系堵马桶然后拉山寨搞行情\n结局就是 💩漫金山 崩",
-      "publishedAt": "2026-06-03T01:56:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2061990411934302463",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "上车了\n\n$bnb\n$allo",
-        "contentHtml": "上车了\n\n<a href=\"/search?f=tweets&q=%23bnb\">$bnb</a>\n<a href=\"/search?f=tweets&q=%23allo\">$allo</a>",
-        "link": "https://x.com/Bitfatty/status/2060770742342504783",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJlUDlxWAAUrTaq.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJlUDl5XsAMwDEv.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061990404627865796",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "$219 > $318🚀\n\n一句话让近两千亿市值的公司股票暴涨 45%\nMeme 车头看川普，AI 车头看老黄",
-      "contentHtml": "$219 &gt; $318🚀\n\n一句话让近两千亿市值的公司股票暴涨 45%\nMeme 车头看川普，AI 车头看老黄",
-      "publishedAt": "2026-06-03T01:56:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2061990404627865796",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ2pVKZa0AASQ8i.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "黄仁勋严选💁‍♀️\n\n▶︎ $INTC: +177.63%\n▶︎ $CRWV: +57.36%\n▶︎ $COHR: +86.74%\n▶︎ $NOK: +149.62%\n▶︎ $LITE: +134.39%\n▶︎ $MRVL: +145.47%\n\n以上均为英伟达投资公司股票，部分被黄仁勋在公共场合提及，年内涨幅都非常可观",
-        "contentHtml": "黄仁勋严选💁‍♀️\n\n▶︎ <a href=\"/search?f=tweets&q=%23INTC\">$INTC</a>: +177.63%\n▶︎ <a href=\"/search?f=tweets&q=%23CRWV\">$CRWV</a>: +57.36%\n▶︎ <a href=\"/search?f=tweets&q=%23COHR\">$COHR</a>: +86.74%\n▶︎ <a href=\"/search?f=tweets&q=%23NOK\">$NOK</a>: +149.62%\n▶︎ <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a>: +134.39%\n▶︎ <a href=\"/search?f=tweets&q=%23MRVL\">$MRVL</a>: +145.47%\n\n以上均为英伟达投资公司股票，部分被黄仁勋在公共场合提及，年内涨幅都非常可观",
-        "link": "https://x.com/ai_9684xtpa/status/2061708890623070567",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJypK5jb0AAz-pi.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061989261411303846",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "$BTC has printed 12, 6H red candles in a row since June started.\n\n72 hours of straight annihilation. \n\nIf you know what happens on the 5th… you know. 😉",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> has printed 12, 6H red candles in a row since June started.\n\n72 hours of straight annihilation. \n\nIf you know what happens on the 5th… you know. 😉",
-      "publishedAt": "2026-06-03T01:52:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2061989261411303846",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ2oTdAXgAAjFzm.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061989188967559423",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
-      "content": "「美方資金的屠城」：本次暴跌的階段性覆盤📋\n\n時間回到一個月前，在五月的第一週，BTC 強勢上攻 83K，\n大部分社媒高喊「牛回」，市場情緒高昂。\n做空的人傷痕累累，滿倉的人欣喜若狂，空倉的人則萬分焦慮。\n\n一個月後的今天，BTC 下跌了近 16,000 點，\n那些在五月初喊牛回的 KOL 們，如今噤若寒蟬。\n\n//\n\n我不想自誇，因為這波行情我也沒有完全掌握，\n但請你珍惜「那些逆著市場情緒、提示風險」的博主。\n\n今天不聊別的，大部分的看法都寫在我平時的帖子，\n主要核心看法依然是：「等待下方 Liq 的清掃，完成最後一哆嗦」，\n這在我過去兩個多月的每日分析帖中，幾乎是每天強調。\n\n踏空也好、受傷也罷，K 線走勢已是既成事實，\n重要的是我們必須得從中帶走一些東西，否則只會陷入賠錢的死循環。\n\n因此，今天的帖子我打算幫各位做一次簡易的覆盤，\n聊聊這波下跌存在的可預測性，以便我們未來能夠更從容的設計交易策略。\n\n//\n\n📌 3 月 16 日：首次提出「劇本 2」的走勢規劃\n（貼文鏈接🔗：nitter.net/market_beggar/status/2…）\n技術面上，在 81K 附近因下跌時造成的失衡區，存在填補需求，\n加上該區域存在大量的套牢籌碼、同時又接近短期持有者平均成本，\n因此在 03/16 那天，我提出了評估反彈預期的「劇本 2」。\n\n📌 4 月 06 日：跌勢出現停止跡象，反彈開始\n（貼文鏈接🔗：nitter.net/market_beggar/status/2…）\n這是「劇本 1」失效的起點，小級別的趨勢反轉開始出現級別擴張，\n價格開始高歌猛進，超出了我當時的預期。\n\n📌 4 月 15 日：熊市大級別震盪結構分析，強調最後一哆嗦\n（貼文鏈接🔗：nitter.net/market_beggar/status/2…）\n從 BTC 自 2 月的震盪結構出發，以 Liquidity 的角度，\n和各位再次強調「最後一哆嗦」的高概率和必要性。\n\n📌 5 月 05 日：多空正式交火於「劇本 2」的牛熊分水嶺\n（貼文鏈接🔗：nitter.net/market_beggar/status/2…）\n價格正式進入「劇本 2」的射程範圍，同時撞上 STH-RP，\nBTC 波動率大幅上升，多空交火激烈，最終形成階段性頂部。\n\n📌 5 月 11 日：美方資金先行撤離，亞資接盤，風險驟然上升\n（貼文鏈接🔗：nitter.net/market_beggar/status/2…）\n美方資金先於價格撤退，亞資開始接盤，這是典型的頂部訊號，\n類似的狀況曾出現於 2025 年 11 月的暴跌前，如今再次印驗。\n\n📌 5 月 28 日：BTC 熊市進度評估，指標表明底部尚未到來\n（貼文鏈接🔗：nitter.net/market_beggar/status/2…）\n由 1y-3y 籌碼持有者占比，也支持「最後一哆嗦」的到來。\n\n//\n\n簡言之：\n🔺「劇本 2」的規劃：由失衡區、STH-RP、籌碼套牢狀況而設計\n🔺 下跌的起點：價格交火於「劇本 2」的預定範圍後，美資撤退\n🔺 支持最後一哆嗦的主因：大級別震盪結構的 Liq 分布\n\n我相信，貝格的老朋友可能都看煩了：每天都在強調最後一哆嗦。\n\n但這是事實，是我基於自身交易系統看到的風險（機遇），\n猶記五月初，有些我群內的群友甚至很擔心是否已經牛回而踏空，\n就如同去年 7~10 月，和我一起建倉大級別 BTC 空單的朋友，\n也曾因價格在新高附近反覆拉扯而感到焦慮。\n\n📖 2025 年 7~10 月：公開做空 BTC\nnitter.net/market_beggar/status/1…\n\n如今，順暢的下跌來了，但如果是貝格先生的老觀眾，\n相信對於最近幾天的下跌必然不會感到意外，\n因為這是我們心心念念、期盼已久的「最後一哆嗦」。\n\nEnjoy the ride.",
-      "contentHtml": "「美方資金的屠城」：本次暴跌的階段性覆盤📋\n\n時間回到一個月前，在五月的第一週，BTC 強勢上攻 83K，\n大部分社媒高喊「牛回」，市場情緒高昂。\n做空的人傷痕累累，滿倉的人欣喜若狂，空倉的人則萬分焦慮。\n\n一個月後的今天，BTC 下跌了近 16,000 點，\n那些在五月初喊牛回的 KOL 們，如今噤若寒蟬。\n\n//\n\n我不想自誇，因為這波行情我也沒有完全掌握，\n但請你珍惜「那些逆著市場情緒、提示風險」的博主。\n\n今天不聊別的，大部分的看法都寫在我平時的帖子，\n主要核心看法依然是：「等待下方 Liq 的清掃，完成最後一哆嗦」，\n這在我過去兩個多月的每日分析帖中，幾乎是每天強調。\n\n踏空也好、受傷也罷，K 線走勢已是既成事實，\n重要的是我們必須得從中帶走一些東西，否則只會陷入賠錢的死循環。\n\n因此，今天的帖子我打算幫各位做一次簡易的覆盤，\n聊聊這波下跌存在的可預測性，以便我們未來能夠更從容的設計交易策略。\n\n//\n\n📌 3 月 16 日：首次提出「劇本 2」的走勢規劃\n（貼文鏈接🔗：<a href=\"https://nitter.net/market_beggar/status/2033359397079101623\">nitter.net/market_beggar/status/2…</a>）\n技術面上，在 81K 附近因下跌時造成的失衡區，存在填補需求，\n加上該區域存在大量的套牢籌碼、同時又接近短期持有者平均成本，\n因此在 03/16 那天，我提出了評估反彈預期的「劇本 2」。\n\n📌 4 月 06 日：跌勢出現停止跡象，反彈開始\n（貼文鏈接🔗：<a href=\"https://nitter.net/market_beggar/status/2040974086218887361\">nitter.net/market_beggar/status/2…</a>）\n這是「劇本 1」失效的起點，小級別的趨勢反轉開始出現級別擴張，\n價格開始高歌猛進，超出了我當時的預期。\n\n📌 4 月 15 日：熊市大級別震盪結構分析，強調最後一哆嗦\n（貼文鏈接🔗：<a href=\"https://nitter.net/market_beggar/status/2044230985865408890\">nitter.net/market_beggar/status/2…</a>）\n從 BTC 自 2 月的震盪結構出發，以 Liquidity 的角度，\n和各位再次強調「最後一哆嗦」的高概率和必要性。\n\n📌 5 月 05 日：多空正式交火於「劇本 2」的牛熊分水嶺\n（貼文鏈接🔗：<a href=\"https://nitter.net/market_beggar/status/2051479165527097444\">nitter.net/market_beggar/status/2…</a>）\n價格正式進入「劇本 2」的射程範圍，同時撞上 STH-RP，\nBTC 波動率大幅上升，多空交火激烈，最終形成階段性頂部。\n\n📌 5 月 11 日：美方資金先行撤離，亞資接盤，風險驟然上升\n（貼文鏈接🔗：<a href=\"https://nitter.net/market_beggar/status/2053653283429089554\">nitter.net/market_beggar/status/2…</a>）\n美方資金先於價格撤退，亞資開始接盤，這是典型的頂部訊號，\n類似的狀況曾出現於 2025 年 11 月的暴跌前，如今再次印驗。\n\n📌 5 月 28 日：BTC 熊市進度評估，指標表明底部尚未到來\n（貼文鏈接🔗：<a href=\"https://nitter.net/market_beggar/status/2059814266711245003\">nitter.net/market_beggar/status/2…</a>）\n由 1y-3y 籌碼持有者占比，也支持「最後一哆嗦」的到來。\n\n//\n\n簡言之：\n🔺「劇本 2」的規劃：由失衡區、STH-RP、籌碼套牢狀況而設計\n🔺 下跌的起點：價格交火於「劇本 2」的預定範圍後，美資撤退\n🔺 支持最後一哆嗦的主因：大級別震盪結構的 Liq 分布\n\n我相信，貝格的老朋友可能都看煩了：每天都在強調最後一哆嗦。\n\n但這是事實，是我基於自身交易系統看到的風險（機遇），\n猶記五月初，有些我群內的群友甚至很擔心是否已經牛回而踏空，\n就如同去年 7~10 月，和我一起建倉大級別 BTC 空單的朋友，\n也曾因價格在新高附近反覆拉扯而感到焦慮。\n\n📖 2025 年 7~10 月：公開做空 BTC\n<a href=\"https://nitter.net/market_beggar/status/1991320675865489815\">nitter.net/market_beggar/status/1…</a>\n\n如今，順暢的下跌來了，但如果是貝格先生的老觀眾，\n相信對於最近幾天的下跌必然不會感到意外，\n因為這是我們心心念念、期盼已久的「最後一哆嗦」。\n\nEnjoy the ride.",
-      "publishedAt": "2026-06-03T01:51:00.000Z",
-      "link": "https://x.com/market_beggar/status/2061989188967559423",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ2oPBcbgAAnTQu.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「沒跌完？」來自新買家的拋售風險尚未兌現⚠️\n\n昨日最大的新聞，無非是 Strategy 拋售了微量的 BTC，\n打破了連續數年來的持續買入紀錄，BTC 聞訊下殺。\n\n承接昨天針對 BTC 的 Liquidity 分析（下方引文），\n今天我打算再來從「五大買方族群熱力圖」的角度，\n和各位分享目前 BTC 尚存的另一項風險👇：\n\n//\n\n按照慣例，在此先幫各位重溫一次此指標的概念：\n➡️ First Buyers：首次買入者\n➡️ Momentum Buyers：趨勢買家（上漲時買入）\n➡️ Conviction Buyers：信念買家（下跌時買入）\n➡️ Profit Takers：獲利了結者\n➡️ Loss Sellers：認賠出場者\n\n根據上述的區分後，再以類似 RSI 的方式，呈現不同族群的買賣行為：\n🟩 綠色表明「該族群人數的增加」\n🟥 紅色表明「該族群人數的減少」\n\n📝 指標詳細原理說明：nitter.net/market_beggar/status/1…\n\n//\n\n在過去兩個多月的時間內，我一再和各位強調「最後一哆嗦」，\n認為 BTC 必須完成「跌破 60K 的最後一殺」才能完成健康的底部。\n\n從技術面的角度來看（詳見下方引文），下方尚存的大量 Liq，\n正是驅使 BTC 完成最後一哆嗦的主要催化劑；\n而今天我們再來以「新買家」的角度，和各位分享另一項潛在的下跌動因。\n\n如附圖所示：\n1️⃣ 2025 年初，新買家轉紅之初（🟥），價格開始下殺\n2️⃣ 2025 年底，新買家轉紅之初（🟥），價格再次暴跌\n\n相信貝格的老朋友，或許都記得我先前強調的一項概念💡：\n新買家雖然不是聰明錢，但也的確為市場提供了買盤，\n使 BTC 在下跌時能夠產生緩沖的效果（限制下跌幅度）。\n\n一旦市況不佳，新買家就可能突然撤退（如 2025 年初、年底），\n而他們的撤退又導致市場失去一部分的支撐力，使價格更加脆弱。\n\n附圖中，2025 年初、2025 年底的兩次案例就很明顯：\n價格開始出現頹勢 ➡️ 新買家撤退（轉紅）➡️ 價格再次下殺\n\n時間回到現在，雖然價格已自前高跌了超萬點，\n但目前新買家的狀態依然「充沛（🟩）」，換句話說：\n價格是在「存在新買家支撐力的情況下」下跌的，\n倘若未來新買家再次撤退，BTC 的抗跌性就會更差，\n結合目前 Liq 的分布狀況，價格就可能在上述兩者交互作用之下，\n完成我們心心念念、期待已久的「最後一哆嗦」🌪\n\n如果最後一哆嗦真能出現，屆時我連續更新四個月的「黃金坑抄底系列」，\n就將成為我們全力抄底作多的最大底氣。\n\n📖 黃金坑追蹤系列（十六）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「美資要砸到哪」：從市場成本的角度聊聊下方的兩道強支撐\nnitter.net/market_beggar/status/2…\n\n「五大買方族群熱力圖」更新：密切監測新買家何時熄火\nnitter.net/market_beggar/status/2…\n\n「決戰 BTC 牛熊分水嶺」：多空強力交火、波動加劇\nnitter.net/market_beggar/status/2…",
-        "contentHtml": "「沒跌完？」來自新買家的拋售風險尚未兌現⚠️\n\n昨日最大的新聞，無非是 Strategy 拋售了微量的 BTC，\n打破了連續數年來的持續買入紀錄，BTC 聞訊下殺。\n\n承接昨天針對 BTC 的 Liquidity 分析（下方引文），\n今天我打算再來從「五大買方族群熱力圖」的角度，\n和各位分享目前 BTC 尚存的另一項風險👇：\n\n//\n\n按照慣例，在此先幫各位重溫一次此指標的概念：\n➡️ First Buyers：首次買入者\n➡️ Momentum Buyers：趨勢買家（上漲時買入）\n➡️ Conviction Buyers：信念買家（下跌時買入）\n➡️ Profit Takers：獲利了結者\n➡️ Loss Sellers：認賠出場者\n\n根據上述的區分後，再以類似 RSI 的方式，呈現不同族群的買賣行為：\n🟩 綠色表明「該族群人數的增加」\n🟥 紅色表明「該族群人數的減少」\n\n📝 指標詳細原理說明：<a href=\"https://nitter.net/market_beggar/status/1927539239903764555\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n在過去兩個多月的時間內，我一再和各位強調「最後一哆嗦」，\n認為 BTC 必須完成「跌破 60K 的最後一殺」才能完成健康的底部。\n\n從技術面的角度來看（詳見下方引文），下方尚存的大量 Liq，\n正是驅使 BTC 完成最後一哆嗦的主要催化劑；\n而今天我們再來以「新買家」的角度，和各位分享另一項潛在的下跌動因。\n\n如附圖所示：\n1️⃣ 2025 年初，新買家轉紅之初（🟥），價格開始下殺\n2️⃣ 2025 年底，新買家轉紅之初（🟥），價格再次暴跌\n\n相信貝格的老朋友，或許都記得我先前強調的一項概念💡：\n新買家雖然不是聰明錢，但也的確為市場提供了買盤，\n使 BTC 在下跌時能夠產生緩沖的效果（限制下跌幅度）。\n\n一旦市況不佳，新買家就可能突然撤退（如 2025 年初、年底），\n而他們的撤退又導致市場失去一部分的支撐力，使價格更加脆弱。\n\n附圖中，2025 年初、2025 年底的兩次案例就很明顯：\n價格開始出現頹勢 ➡️ 新買家撤退（轉紅）➡️ 價格再次下殺\n\n時間回到現在，雖然價格已自前高跌了超萬點，\n但目前新買家的狀態依然「充沛（🟩）」，換句話說：\n價格是在「存在新買家支撐力的情況下」下跌的，\n倘若未來新買家再次撤退，BTC 的抗跌性就會更差，\n結合目前 Liq 的分布狀況，價格就可能在上述兩者交互作用之下，\n完成我們心心念念、期待已久的「最後一哆嗦」🌪\n\n如果最後一哆嗦真能出現，屆時我連續更新四個月的「黃金坑抄底系列」，\n就將成為我們全力抄底作多的最大底氣。\n\n📖 黃金坑追蹤系列（十六）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2060179390567477559\">nitter.net/market_beggar/status/2…</a>\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「美資要砸到哪」：從市場成本的角度聊聊下方的兩道強支撐\n<a href=\"https://nitter.net/market_beggar/status/2056915885106037245\">nitter.net/market_beggar/status/2…</a>\n\n「五大買方族群熱力圖」更新：密切監測新買家何時熄火\n<a href=\"https://nitter.net/market_beggar/status/2054739624992649429\">nitter.net/market_beggar/status/2…</a>\n\n「決戰 BTC 牛熊分水嶺」：多空強力交火、波動加劇\n<a href=\"https://nitter.net/market_beggar/status/2051479165527097444\">nitter.net/market_beggar/status/2…</a>",
-        "link": "https://x.com/market_beggar/status/2061626588433953238",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJxec_EaEAAK_OB.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061983707196789214",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "我们把BTC的价格曲线从“不同币龄的成本基础”中隐藏，只看红/黄/绿这3根线似乎可以清晰。\n\n当最短期的成本线（红）上穿最长期的成本线（绿）时，就是一段趋势即将启动的信号。\n\n从2022年至2025年期间，该信号一共出现过4次。\n\n从图中我们可以看到，2026年5月是入熊后红线距离绿线最近的一次，也是最接近趋势反转的一次。\n\n在之前的分析中，我们多次讨论过是“反弹还是反转”，是“熊末还是牛回”；其实所等的，就是这个信号。\n\n差一点，也不是牛回......\n接下来红线怎么走将决定熊有多长。\n\n一种是像22年4-6月那样大幅偏离，另一种是像22年10-12月的小幅偏离。前者对应的是情绪崩盘，瀑布下跌；后者对应的是消化分歧，宽幅震荡。\n\n如是前者，修复期至少6个月以上；如是后者，2-3个月就够了。\n\n我个人认为偏离幅度可能介于两者之间或偏向后者。\n\n因为，从亏损占比的角度，目前已靠近极限范围；但同时也要考虑当前美股对币圈吸血，导致场内资金持续外流的实际情况。",
-      "contentHtml": "我们把BTC的价格曲线从“不同币龄的成本基础”中隐藏，只看红/黄/绿这3根线似乎可以清晰。\n\n当最短期的成本线（红）上穿最长期的成本线（绿）时，就是一段趋势即将启动的信号。\n\n从2022年至2025年期间，该信号一共出现过4次。\n\n从图中我们可以看到，2026年5月是入熊后红线距离绿线最近的一次，也是最接近趋势反转的一次。\n\n在之前的分析中，我们多次讨论过是“反弹还是反转”，是“熊末还是牛回”；其实所等的，就是这个信号。\n\n差一点，也不是牛回......\n接下来红线怎么走将决定熊有多长。\n\n一种是像22年4-6月那样大幅偏离，另一种是像22年10-12月的小幅偏离。前者对应的是情绪崩盘，瀑布下跌；后者对应的是消化分歧，宽幅震荡。\n\n如是前者，修复期至少6个月以上；如是后者，2-3个月就够了。\n\n我个人认为偏离幅度可能介于两者之间或偏向后者。\n\n因为，从亏损占比的角度，目前已靠近极限范围；但同时也要考虑当前美股对币圈吸血，导致场内资金持续外流的实际情况。",
-      "publishedAt": "2026-06-03T01:30:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2061983707196789214",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ0VSjLaAAAD1Xr.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "BTC在绿线遇阻，说明还是在走反弹逻辑（具体见引文）。那么接下来就是回调下方成本基础再次寻求支撑和确认。\n\n随着时间推移，我们看到3条成本基础线已逐渐“收口”；代表不同持币群体的平均成本越来越接近。\n\n当成本线互相粘合，此时价格对短、中和长期筹码的影响趋同，往往就是市场进入方向选择的关键期。\n\n在上轮周期，第1次形成“收口”，BTC选择继续向下（图中标注1），说明不同持币群体都对后市信心不足，当价格接近成本时，先跑为敬。\n\n第2次的“收口”过程更长，恐慌盘都跑完了，当成本线互相粘合后BTC选择了向上突破，完成趋势反转。\n\n本轮周期也有2次，目前我们正在第2次逐渐聚拢的过程中，价格低于红线高于黄线。\n\n如果继续回调，或横盘整理，都将带动绿线和红星向黄线靠近，也就完成了“收口”。于是我们就能看到市场到底选择要往哪个方向了。",
-        "contentHtml": "BTC在绿线遇阻，说明还是在走反弹逻辑（具体见引文）。那么接下来就是回调下方成本基础再次寻求支撑和确认。\n\n随着时间推移，我们看到3条成本基础线已逐渐“收口”；代表不同持币群体的平均成本越来越接近。\n\n当成本线互相粘合，此时价格对短、中和长期筹码的影响趋同，往往就是市场进入方向选择的关键期。\n\n在上轮周期，第1次形成“收口”，BTC选择继续向下（图中标注1），说明不同持币群体都对后市信心不足，当价格接近成本时，先跑为敬。\n\n第2次的“收口”过程更长，恐慌盘都跑完了，当成本线互相粘合后BTC选择了向上突破，完成趋势反转。\n\n本轮周期也有2次，目前我们正在第2次逐渐聚拢的过程中，价格低于红线高于黄线。\n\n如果继续回调，或横盘整理，都将带动绿线和红星向黄线靠近，也就完成了“收口”。于是我们就能看到市场到底选择要往哪个方向了。",
-        "link": "https://x.com/Murphychen888/status/2056583878656376952",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIpz6s9bIAEnzbt.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061983060200153328",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "「先定 10 个大目标」老哥做多 BTC！我们要得救了吗🥹\n\n老哥 @Jason60704294 晒图现持有 281.789 枚 $BTC 多单，价值 1909 万美元，开仓价 $67777；但根据币安同时段同价格的大额成交推测，老哥的真实仓位或为 3076.88 BTC，价值 2.08 亿美元（该数据来源为 @AiCoinzh）\n\n此外，他在 05.28-06.02 期间开空 2739 BTC 还获利了 330.8 万美元",
-      "contentHtml": "「先定 10 个大目标」老哥做多 BTC！我们要得救了吗🥹\n\n老哥 <a href=\"/Jason60704294\" title=\"jasonleo\">@Jason60704294</a> 晒图现持有 281.789 枚 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 多单，价值 1909 万美元，开仓价 $67777；但根据币安同时段同价格的大额成交推测，老哥的真实仓位或为 3076.88 BTC，价值 2.08 亿美元（该数据来源为 <a href=\"/AiCoinzh\" title=\"AiCoin中文\">@AiCoinzh</a>）\n\n此外，他在 05.28-06.02 期间开空 2739 BTC 还获利了 330.8 万美元",
-      "publishedAt": "2026-06-03T01:27:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2061983060200153328",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ2hniQaAAADwHG.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "「先定 10 个大目标」老哥 @Jason60704294 已止盈离场，五月累计获利超 1,764 万美元😲\n\n▶︎ 05.12-05.20 做空 $BTC：盈利 1261 万美元\n▶︎ 05.05-05.06 做空 BTC：亏损 349 万美元\n▶︎ 05.04-05.05 做多 BTC：盈利 576 万美元\n▶︎ 05.04 做空 BTC：盈利 276 万美元\n\n今日平仓的空单为本月开仓规模最大的一次，持仓 3294 枚 BTC，价值 2.65 亿美元；太惨了，520 不仅要吃狗粮还要接受大佬的炫酷战绩暴击…",
-        "contentHtml": "「先定 10 个大目标」老哥 <a href=\"/Jason60704294\" title=\"jasonleo\">@Jason60704294</a> 已止盈离场，五月累计获利超 1,764 万美元😲\n\n▶︎ 05.12-05.20 做空 $BTC：盈利 1261 万美元\n▶︎ 05.05-05.06 做空 BTC：亏损 349 万美元\n▶︎ 05.04-05.05 做多 BTC：盈利 576 万美元\n▶︎ 05.04 做空 BTC：盈利 276 万美元\n\n今日平仓的空单为本月开仓规模最大的一次，持仓 3294 枚 BTC，价值 2.65 亿美元；太惨了，520 不仅要吃狗粮还要接受大佬的炫酷战绩暴击…",
-        "link": "https://x.com/ai_9684xtpa/status/2056928069500473390",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HIutG-laoAAySHF.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061979986584826003",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "SpaceX上市分配5%的IPO份额给内部员工及家人，看到很多如图的评论一股脑就是无锁定然后员工因为这个配售就暴富了。只能说大家是真不了聊美股IPO的流程：\n1、这不是免费送，是内部员工参加定向配售、也是要花钱买的、基本上也都是按照IPO的估值或者打一点折扣来买，也是IPO募资的一部分。这就是港股IPO里的锚定呐，其实A股也有、公司上市的时候拿出一点IPO份额给员工或者合作方客户相当于额外福利。\n\n2、美股IPO时候募资发售的股票份额本身就没有锁定（港股也如此），上市基本上流通的。大家在美股上市后交易的就是这部分IPO的份额。部分战略投资者可能略低折扣拿一部分份额公司会要求锁定、但占IPO募资份额比较小（类似港股IPO里的基石投资人、但美股没有基石这一说法）；\n\n3、IPO份额的5%，按照IPO募资750亿美金来算总值差不多37.5亿美金、占总股本的0.2%多一点。而且按照IP估值或者略低一点价格进去，不算是暴富，但确实是送钱。能赚多少？就按照老马设定第一次解禁日期的绩效来看，高于ipo价格的30%能额外多解锁10%的股份。\n\n可以把30%当作员工参与配售的盈利基准，所以是送钱而不是说就因此暴富了。",
-      "contentHtml": "SpaceX上市分配5%的IPO份额给内部员工及家人，看到很多如图的评论一股脑就是无锁定然后员工因为这个配售就暴富了。只能说大家是真不了聊美股IPO的流程：\n1、这不是免费送，是内部员工参加定向配售、也是要花钱买的、基本上也都是按照IPO的估值或者打一点折扣来买，也是IPO募资的一部分。这就是港股IPO里的锚定呐，其实A股也有、公司上市的时候拿出一点IPO份额给员工或者合作方客户相当于额外福利。\n\n2、美股IPO时候募资发售的股票份额本身就没有锁定（港股也如此），上市基本上流通的。大家在美股上市后交易的就是这部分IPO的份额。部分战略投资者可能略低折扣拿一部分份额公司会要求锁定、但占IPO募资份额比较小（类似港股IPO里的基石投资人、但美股没有基石这一说法）；\n\n3、IPO份额的5%，按照IPO募资750亿美金来算总值差不多37.5亿美金、占总股本的0.2%多一点。而且按照IP估值或者略低一点价格进去，不算是暴富，但确实是送钱。能赚多少？就按照老马设定第一次解禁日期的绩效来看，高于ipo价格的30%能额外多解锁10%的股份。\n\n可以把30%当作员工参与配售的盈利基准，所以是送钱而不是说就因此暴富了。",
-      "publishedAt": "2026-06-03T01:15:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2061979986584826003",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ2f3lFbEAANC3i.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "聊聊SpaceX上市后限售股的解禁节奏以及影响，非常规“分阶段+绩效挂钩”释放，不是传统180天一刀切。SpaceX在最新的S-1文件里中设计了阶梯式锁定期，目的是避免一次性大量抛售冲击股价：\n1）IPO后首个财报（Q2财报，7-9月之间大概率8月中上旬发布）后，可释放20%符合条件的限售股。（如果股价较IPO价格上涨30%，额外多释放10%）；\n2）随后按固定时间表分批：IPO后70/90/105/120/135天各释放约7%；\n3）Q3财报后可能再释放一批（约28%）；\n4）剩余部分在IPO后180天（约12月中旬）全部解禁；\n5）老马本人及部分核心投资者额外签署366天（约1年）锁定期，不参与早期释放。其他员工/早期投资者按上述阶梯执行。\n整体设计比传统IPO更灵活，旨在“计量式”供应流动性，平滑解禁对市场的冲击。\n\n基于上面的信息再多聊几点：\n1、可以看出在6月12IPO之后到8月中旬这两个月是没有任何解禁的，如果股价要表现大概率是这段时间。注意老马设定了一个绩效标准，8月中上旬发布财报时，如果SpaceX股价比IPO价格高30%，则可以额外解锁10%的限售股。\n\n2、IPO后15个交易日即可纳入纳斯达克100指数，这里需要注意的是：考虑新股刚上市并不是充分流通，纳斯达克惠安流通市值的三倍来计算进入指数的权重。举个例子，SpaceX在上市后流通盘5%，如果15个交易日总市值是1.8万亿美金，流通市值900亿美金，那么按照2700亿美金来计算进入纳斯达克100指数的权重，这个权重比例自然也就影响指数ETF这些被动资金的配置比例。\n\n随着Q2财报公布，之后逐步释放，流通比例越高，计入到指数里的权重也越高。可以说是用指数ETF的被动资金买盘来承接阶梯解锁的抛压。\n\n3、对市场的影响体现在哪些方面？\n1）看媒体报道，SpaceX的目标IPO估值定在 1.75万亿至2万亿美元，计划募资约 750亿美元。这在历史上属于较大规模的IPO，机构和散户认购时需要从现有持仓中调配资金，客观上会形成一定流动性抽取效应。估计未来一两周路演期内，这种资金轮动效应可能已提前有所体现。\n\n2）真正的安全期在IPO后的两个月内，具体看Q2财报公布的时间。上市后到首批解禁前（约2个月时间），低流通+指数纳入的供需环境可能支撑一定价格表现；\n\n再加上其业务本身质地也很不错，发射和星链业务妥妥现金牛，25年盈利80亿美金。亏损的xAI业务因为把数据中心租给Authropic每年能带来150亿美金的现金流，也能抹平AI业务的亏损，之前这里nitter.net/qinbafrank/status/2057…有聊过，其实对市场来说预期是不错的。\n\n3）SpaceX的解禁节奏是“前松后紧”的；\nQ2财报后到年底，解禁供应逐步放量（尤其绩效条件若触发），叠加高估值背景（约95倍营收），市场需逐步消化真实卖压。虽然整体设计比传统解禁一刀切更温和，但是毕竟体量太大，股价波动也绝对会放大，这个时期需要谨慎。",
-        "contentHtml": "聊聊SpaceX上市后限售股的解禁节奏以及影响，非常规“分阶段+绩效挂钩”释放，不是传统180天一刀切。SpaceX在最新的S-1文件里中设计了阶梯式锁定期，目的是避免一次性大量抛售冲击股价：\n1）IPO后首个财报（Q2财报，7-9月之间大概率8月中上旬发布）后，可释放20%符合条件的限售股。（如果股价较IPO价格上涨30%，额外多释放10%）；\n2）随后按固定时间表分批：IPO后70/90/105/120/135天各释放约7%；\n3）Q3财报后可能再释放一批（约28%）；\n4）剩余部分在IPO后180天（约12月中旬）全部解禁；\n5）老马本人及部分核心投资者额外签署366天（约1年）锁定期，不参与早期释放。其他员工/早期投资者按上述阶梯执行。\n整体设计比传统IPO更灵活，旨在“计量式”供应流动性，平滑解禁对市场的冲击。\n\n基于上面的信息再多聊几点：\n1、可以看出在6月12IPO之后到8月中旬这两个月是没有任何解禁的，如果股价要表现大概率是这段时间。注意老马设定了一个绩效标准，8月中上旬发布财报时，如果SpaceX股价比IPO价格高30%，则可以额外解锁10%的限售股。\n\n2、IPO后15个交易日即可纳入纳斯达克100指数，这里需要注意的是：考虑新股刚上市并不是充分流通，纳斯达克惠安流通市值的三倍来计算进入指数的权重。举个例子，SpaceX在上市后流通盘5%，如果15个交易日总市值是1.8万亿美金，流通市值900亿美金，那么按照2700亿美金来计算进入纳斯达克100指数的权重，这个权重比例自然也就影响指数ETF这些被动资金的配置比例。\n\n随着Q2财报公布，之后逐步释放，流通比例越高，计入到指数里的权重也越高。可以说是用指数ETF的被动资金买盘来承接阶梯解锁的抛压。\n\n3、对市场的影响体现在哪些方面？\n1）看媒体报道，SpaceX的目标IPO估值定在 1.75万亿至2万亿美元，计划募资约 750亿美元。这在历史上属于较大规模的IPO，机构和散户认购时需要从现有持仓中调配资金，客观上会形成一定流动性抽取效应。估计未来一两周路演期内，这种资金轮动效应可能已提前有所体现。\n\n2）真正的安全期在IPO后的两个月内，具体看Q2财报公布的时间。上市后到首批解禁前（约2个月时间），低流通+指数纳入的供需环境可能支撑一定价格表现；\n\n再加上其业务本身质地也很不错，发射和星链业务妥妥现金牛，25年盈利80亿美金。亏损的xAI业务因为把数据中心租给Authropic每年能带来150亿美金的现金流，也能抹平AI业务的亏损，之前这里<a href=\"https://nitter.net/qinbafrank/status/2057336046204109161?s=20\">nitter.net/qinbafrank/status/2057…</a>有聊过，其实对市场来说预期是不错的。\n\n3）SpaceX的解禁节奏是“前松后紧”的；\nQ2财报后到年底，解禁供应逐步放量（尤其绩效条件若触发），叠加高估值背景（约95倍营收），市场需逐步消化真实卖压。虽然整体设计比传统解禁一刀切更温和，但是毕竟体量太大，股价波动也绝对会放大，这个时期需要谨慎。",
-        "link": "https://x.com/qinbafrank/status/2061389019414696005",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJt_7zJbsAAC4js.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061978366417486166",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "一个真正有智慧的职业交易员，他的内核是悲观的，因为他看清了金融世界的本质——就是杀戮。但他外在是积极的，因为他依然热爱生活。职业交易员都带着忧郁的气质，这不是悲观的消极，而是一种深刻的洞察力，因为他们具备强大的同理心，能看到大众交易者的苦难。悲观不是软弱，而是远见、良知和能力的体现。如果一个职业交易员从未经历黑暗，他的乐观只是无知。只有经历千刀万剐、跌入过深谷的交易员，他的乐观才有力量。",
-      "contentHtml": "一个真正有智慧的职业交易员，他的内核是悲观的，因为他看清了金融世界的本质——就是杀戮。但他外在是积极的，因为他依然热爱生活。职业交易员都带着忧郁的气质，这不是悲观的消极，而是一种深刻的洞察力，因为他们具备强大的同理心，能看到大众交易者的苦难。悲观不是软弱，而是远见、良知和能力的体现。如果一个职业交易员从未经历黑暗，他的乐观只是无知。只有经历千刀万剐、跌入过深谷的交易员，他的乐观才有力量。",
-      "publishedAt": "2026-06-03T01:08:00.000Z",
-      "link": "https://x.com/hazenlee/status/2061978366417486166",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061969622119887282",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "A: 你常用的交易机构，和你所在国的金融监管机构，保持密切、友好的交流。\n\nB: 你常用的交易机构，完全不鸟你所在国监管机构发布声明或文件。\n\n正常人都知道哪个更好吧...",
-      "contentHtml": "A: 你常用的交易机构，和你所在国的金融监管机构，保持密切、友好的交流。\n\nB: 你常用的交易机构，完全不鸟你所在国监管机构发布声明或文件。\n\n正常人都知道哪个更好吧...",
-      "publishedAt": "2026-06-03T00:34:00.000Z",
-      "link": "https://x.com/taresky/status/2061969622119887282",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061969496479564259",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "这两天大饼大跌，很多人归因于Mstr的卖币。但回到前天上午当看到银行准备金开始回落、比特币ETF连续多日大额净流出、稳定币发行量大规模下降的时候，大概率价格一定会进一步承压的。MSTR卖32个比特币可能只是情绪上的那根稻草",
-      "contentHtml": "这两天大饼大跌，很多人归因于Mstr的卖币。但回到前天上午当看到银行准备金开始回落、比特币ETF连续多日大额净流出、稳定币发行量大规模下降的时候，大概率价格一定会进一步承压的。MSTR卖32个比特币可能只是情绪上的那根稻草",
-      "publishedAt": "2026-06-03T00:33:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2061969496479564259",
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "USDT发行量这两天突然有一个大幅度下滑（下降14亿美金），而过去一个月从最高下滑了20亿美金，与此同期USDC发行量大幅下降了26亿美金。相当于过去一个月46亿美金的稳定币撤出了市场，在想稳定币大幅下滑的原因难道是世界杯开幕在即资金准备去赌球了么？只是个思考\n\n看截至上周银行准备金也开始小幅下降，从5月中的3.13万美金下降到3.06万亿，原因有二：1）与此同时财政部TGA账户余额上升到8490亿美金（相比5月中上升了接近1000亿美金）；\n2）还有一个大家聊的不多的因素是美联储的扩表节奏（RMP储备管理购买）进一步放缓：从3月中-4月中，rmp规模400亿美金；4月中-5月中，Rmp规模250亿美金；\n5月中-6月中，rmp规模100亿美金。\n\n财政部发债规模变大导致tga上升，美联储rmp节奏放缓，整体流动性减弱，最直接的影响就是对流动性最敏感的币市资金大幅流出：稳定币大幅流出，大饼ETF过去两周也是大幅度净流出。币价自然是进一步承压\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "USDT发行量这两天突然有一个大幅度下滑（下降14亿美金），而过去一个月从最高下滑了20亿美金，与此同期USDC发行量大幅下降了26亿美金。相当于过去一个月46亿美金的稳定币撤出了市场，在想稳定币大幅下滑的原因难道是世界杯开幕在即资金准备去赌球了么？只是个思考\n\n看截至上周银行准备金也开始小幅下降，从5月中的3.13万美金下降到3.06万亿，原因有二：1）与此同时财政部TGA账户余额上升到8490亿美金（相比5月中上升了接近1000亿美金）；\n2）还有一个大家聊的不多的因素是美联储的扩表节奏（RMP储备管理购买）进一步放缓：从3月中-4月中，rmp规模400亿美金；4月中-5月中，Rmp规模250亿美金；\n5月中-6月中，rmp规模100亿美金。\n\n财政部发债规模变大导致tga上升，美联储rmp节奏放缓，整体流动性减弱，最直接的影响就是对流动性最敏感的币市资金大幅流出：稳定币大幅流出，大饼ETF过去两周也是大幅度净流出。币价自然是进一步承压\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2061262592824520739",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJsTZu6agAAZHrf.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJsTZu7bQAAWstM.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
