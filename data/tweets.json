@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T05:22:41.132Z",
+  "lastUpdated": "2026-06-09T06:47:57.161Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -112,11 +112,117 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 627,
-    "successUsers": 31,
-    "failedUsers": 2
+    "newFetched": 647,
+    "successUsers": 32,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2064229780799787437",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "6、中国供应链优势是报告的第二条主线\nSemiAnalysis强调，宇树背后不是单家公司，而是中国制造生态。中国有庞大的新能源汽车、无人机、电机、减速器、传感器、电池、结构件和自动化供应链。文章提到，中国 2024 年汽车产量 3130 万辆，其中 40.9% 为新能源车；同时 DJI 生态也带出了大量无刷电机、驱动器、编码器、电池和控制器供应商。 \n\n这使得中国机器人公司可以做到：供应商几个小时高铁距离内可达，样品当天或次日能到，硬件改版周期按“周”而不是“季度”计算，零部件成本比西方同类方案低 20%—40%。报告甚至指出，不少美国机器人创业公司也把硬件团队或供应链放在中国，Tesla Optimus 也很可能继续依赖中国供应链。 \n\n7、宇树的纵向一体化比普通中国机器人公司更激进\nSemiAnalysis 认为，即便放在中国机器人生态里，宇树也很突出。它不仅采购便宜零部件，还在自研 BLDC 电机、行星齿轮箱、LiDAR、深度相机等关键部件。报告称，宇树自制电机成本可低至西方同类电机的 30%—40%，并且已经做出全球最便宜的一批人形机器人齿轮箱。 \n\nIPO 资料也能验证这种趋势。Reuters 报道称，宇树计划在上海交易所 IPO，拟募资 42 亿元人民币；2025 年营业收入同比增长 335%，净利润增长 674%，2025 年前九个月人形机器人收入占比已升至 51.5%，2025 年出货约 5500 台人形机器人，全球份额约 32.4%。 \n\n报告还提到，宇树四足机器人的毛利率从 42.36% 提升到 55.49%，同时成本接近腰斩；这说明规模化不是简单牺牲利润降价，而是通过量产、垂直整合和供应链议价形成结构性成本优势。 \n\n8、地缘风险：宇树越强，越会被美国盯上\n这篇报告出来的背景很敏感。美国国防部更新 1260H 中国军工企业名单，把 Unitree、RoboSense、BYD、Alibaba、Baidu、CXMT、YMTC 等公司列入。Reuters 报道称，这个名单本身不等于立即制裁，但会阻止美国军方到 2027 年与相关公司直接或通过第三方采购，并提高未来投资限制、供应链限制和声誉风险。 \n\n这意味着宇树的全球化会出现两条路线：一条是中国本土、亚洲、欧洲、发展中国家和非敏感商业市场继续扩张；另一条是美国政府、军工、关键基础设施和高安全场景会越来越谨慎。对投资来说，这会限制它在美国市场的天花板，但不一定限制它在全球非美市场形成规模。 \n\n9、对产业链和美股的含义\n个人理解这篇报告真正想提醒的是：人形机器人竞争的胜负，短期未必由“大模型最强”决定，而可能由硬件成本、执行器、供应链、制造迭代和部署数量决定。\n\n对美股来说，直接受益和受冲击要分开看：\n1）Nvidia 仍然是机器人“大脑”和开发生态的核心受益方。机器人需要仿真、训练、边缘推理、Isaac/Jetson/Thor 等平台，Nvidia 在高端机器人计算栈里仍然有强位置。Wired 最近也报道了 Nvidia 与 Unitree H2 Plus 相关的机器人蓝图，反映出“美国 AI + 中国硬件”的现实组合仍然存在。 \n\n2）传统西方工业半导体公司会面临中国替代压力。机器人里大量用到 MCU、功率器件、模拟芯片、传感器、驱动芯片和电源管理。过去这些环节对 TI、ADI、NXP、Infineon、ST、onsemi 等公司是自然机会，但如果中国机器人生态快速放量，本土芯片替代会同步加速，类似中国新能源车带动汽车半导体国产化。这个逻辑在 SemiAnalysis 之前机器人文章里也已经提过。 \n\n3）机器人硬件链条里，执行器/减速器/电机/传感器比整机更值得跟踪。报告反复强调，宇树的结构性优势来自执行器和纵向一体化，而不是单纯整机营销。后续要看的是：行星齿轮箱、谐波减速器、无刷电机、编码器、力矩传感器、LiDAR、深度相机、电池、热管理、机器人手、边缘计算模块这些环节谁能放量。\n\n4）西方人形机器人公司如果没有中国级别供应链，很难在成本上竞争。Figure、Agility、Apptronik、Tesla Optimus 等会在软件、自主、安全、系统集成上更强，但如果硬件成本和迭代速度被宇树拉开，商业化节奏可能被迫调整。\n\n这篇报告的价值在于，它把“人形机器人”从概念叙事拉回到制造业现实：谁能把执行器做便宜、做稳定、做出量，谁就有资格主导下一轮机器人生态。\n\n宇树现在还不是“机器人界 iPhone 时刻”，更不是完全自主劳动替代。但它很可能已经站在一个类似早期 DJI Phantom、早期 BYD 电动车的阶段：产品还有缺陷，但价格足够低、迭代足够快、真实用户足够多。一旦轻量仓储、巡检、展示、研究、教育、遥操作等场景持续放量，它的学习曲线会越来越陡。",
+      "contentHtml": "6、中国供应链优势是报告的第二条主线\nSemiAnalysis强调，宇树背后不是单家公司，而是中国制造生态。中国有庞大的新能源汽车、无人机、电机、减速器、传感器、电池、结构件和自动化供应链。文章提到，中国 2024 年汽车产量 3130 万辆，其中 40.9% 为新能源车；同时 DJI 生态也带出了大量无刷电机、驱动器、编码器、电池和控制器供应商。 \n\n这使得中国机器人公司可以做到：供应商几个小时高铁距离内可达，样品当天或次日能到，硬件改版周期按“周”而不是“季度”计算，零部件成本比西方同类方案低 20%—40%。报告甚至指出，不少美国机器人创业公司也把硬件团队或供应链放在中国，Tesla Optimus 也很可能继续依赖中国供应链。 \n\n7、宇树的纵向一体化比普通中国机器人公司更激进\nSemiAnalysis 认为，即便放在中国机器人生态里，宇树也很突出。它不仅采购便宜零部件，还在自研 BLDC 电机、行星齿轮箱、LiDAR、深度相机等关键部件。报告称，宇树自制电机成本可低至西方同类电机的 30%—40%，并且已经做出全球最便宜的一批人形机器人齿轮箱。 \n\nIPO 资料也能验证这种趋势。Reuters 报道称，宇树计划在上海交易所 IPO，拟募资 42 亿元人民币；2025 年营业收入同比增长 335%，净利润增长 674%，2025 年前九个月人形机器人收入占比已升至 51.5%，2025 年出货约 5500 台人形机器人，全球份额约 32.4%。 \n\n报告还提到，宇树四足机器人的毛利率从 42.36% 提升到 55.49%，同时成本接近腰斩；这说明规模化不是简单牺牲利润降价，而是通过量产、垂直整合和供应链议价形成结构性成本优势。 \n\n8、地缘风险：宇树越强，越会被美国盯上\n这篇报告出来的背景很敏感。美国国防部更新 1260H 中国军工企业名单，把 Unitree、RoboSense、BYD、Alibaba、Baidu、CXMT、YMTC 等公司列入。Reuters 报道称，这个名单本身不等于立即制裁，但会阻止美国军方到 2027 年与相关公司直接或通过第三方采购，并提高未来投资限制、供应链限制和声誉风险。 \n\n这意味着宇树的全球化会出现两条路线：一条是中国本土、亚洲、欧洲、发展中国家和非敏感商业市场继续扩张；另一条是美国政府、军工、关键基础设施和高安全场景会越来越谨慎。对投资来说，这会限制它在美国市场的天花板，但不一定限制它在全球非美市场形成规模。 \n\n9、对产业链和美股的含义\n个人理解这篇报告真正想提醒的是：人形机器人竞争的胜负，短期未必由“大模型最强”决定，而可能由硬件成本、执行器、供应链、制造迭代和部署数量决定。\n\n对美股来说，直接受益和受冲击要分开看：\n1）Nvidia 仍然是机器人“大脑”和开发生态的核心受益方。机器人需要仿真、训练、边缘推理、Isaac/Jetson/Thor 等平台，Nvidia 在高端机器人计算栈里仍然有强位置。Wired 最近也报道了 Nvidia 与 Unitree H2 Plus 相关的机器人蓝图，反映出“美国 AI + 中国硬件”的现实组合仍然存在。 \n\n2）传统西方工业半导体公司会面临中国替代压力。机器人里大量用到 MCU、功率器件、模拟芯片、传感器、驱动芯片和电源管理。过去这些环节对 TI、ADI、NXP、Infineon、ST、onsemi 等公司是自然机会，但如果中国机器人生态快速放量，本土芯片替代会同步加速，类似中国新能源车带动汽车半导体国产化。这个逻辑在 SemiAnalysis 之前机器人文章里也已经提过。 \n\n3）机器人硬件链条里，执行器/减速器/电机/传感器比整机更值得跟踪。报告反复强调，宇树的结构性优势来自执行器和纵向一体化，而不是单纯整机营销。后续要看的是：行星齿轮箱、谐波减速器、无刷电机、编码器、力矩传感器、LiDAR、深度相机、电池、热管理、机器人手、边缘计算模块这些环节谁能放量。\n\n4）西方人形机器人公司如果没有中国级别供应链，很难在成本上竞争。Figure、Agility、Apptronik、Tesla Optimus 等会在软件、自主、安全、系统集成上更强，但如果硬件成本和迭代速度被宇树拉开，商业化节奏可能被迫调整。\n\n这篇报告的价值在于，它把“人形机器人”从概念叙事拉回到制造业现实：谁能把执行器做便宜、做稳定、做出量，谁就有资格主导下一轮机器人生态。\n\n宇树现在还不是“机器人界 iPhone 时刻”，更不是完全自主劳动替代。但它很可能已经站在一个类似早期 DJI Phantom、早期 BYD 电动车的阶段：产品还有缺陷，但价格足够低、迭代足够快、真实用户足够多。一旦轻量仓储、巡检、展示、研究、教育、遥操作等场景持续放量，它的学习曲线会越来越陡。",
+      "publishedAt": "2026-06-09T06:15:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2064229780799787437",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064229775833813152",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "宇树会成为机器人时代的“大疆和比亚迪”么？看@SemiAnalysis_ 发布这篇题为《China’s Unitree Will Dominate Global Robotics》，副标题是 “下一代机器人最快迭代周期将带来前所未有的加速”。核心是说宇树正在复制比亚迪和大疆的中国硬件巨头路径，用低成本核心部件、快速迭代、供应链纵深和研究者生态，把人形机器人从“实验室玩具”推向“可部署劳动工具”。拆解下这个报告\n1. 最大结论：宇树可能成为机器人时代的DJI / BYD\nSemiAnalysis的主判断是：宇树不是普通“机器人概念公司”，而是一个正在成形的中国硬件平台型公司。三年前它主要还是四足机器狗公司，但现在已经把四足机器人积累出的执行器、控制、供应链和量产经验迁移到人形机器人上。宇树 G1 已开始进入可用部署阶段，并且还有三款新设计在路线上，其中包括更直接对标西方人形机器人的产品。 \n\nSemiAnalysis把宇树的路径类比成两个中国硬件巨头：\nBYD 先控制电池，再吃下整车；\nDJI 先控制飞控，再吃下无人机；\n宇树则先控制执行器，再向四足机器人、人形机器人和劳动自动化扩张。 这就是报告所谓的“自己生成生态、创造新市场、再吞掉市场”。 \n\n2. 价格曲线是第一条主线：宇树把腿足机器人打到极低价格\nSemiAnalysis梳理了宇树四足机器人价格下降路径：2018 年 Laikago 约 4.5 万美元，2020 年 A1 约 1.5 万美元，2021 年 Go1 起步价约 2700 美元，到今天 Go2 起步价大约 1600—2800 美元。SemiAnalysis 认为，这相当于六年内入门级四足机器人价格下降约 94%—96%，这让宇树从高校/实验室市场，扩展到消费者、开发者和工业部署市场。 \n\n这一点非常关键。宇树不是先等人形机器人完美，再去量产；它先用四足机器人养出真实销量、真实供应链、真实制造经验，然后把同一套执行器、控制器、运动控制和生产流程迁移到人形机器人。报告认为，2024 年 H1 人形机器人本质上更像“四足机器人站起来”，而 G1 才真正打开了新市场。 \n\n3. G1 的意义：不是最强机器人，而是“买得到、足够便宜、可研究”的平台\n\n2024 年中期之前，全球可购买、可研究、可二次开发的人形机器人非常少。Agility 的 Digit 只是少量进入工厂，Apptronik 的 Apollo 仍偏前商业化，Figure 和 BMW 的合作还是个位数/早期部署，Tesla Optimus 也没有对外销售。相比之下，宇树 G1 以 3万—5万美元级别进入市场，直接成为高校、AI 实验室和机器人研究团队能买到的平台。 \n\n这带来的结果是：G1 不一定是“性能最强”的人形机器人，但它可能是研究者生态最强、真实机器数量最多、迭代反馈最快的平台。报告还提到，Nvidia、Apple、Meta 等公司都购买了数百台 G1，用于人形机器人 AI 研究。 \n\n4. 核心技术点：执行器是人形机器人的成本和性能瓶颈\n\n这篇报告最重要的技术分析落在执行器上。SemiAnalysis 认为，执行器占人形机器人 BOM 的 50%—70%，也就是机器人关节中负责运动、承重、扭矩输出的核心部件。宇树选择的路线是 QDD，quasi-direct-drive，准直驱执行器，大致可以理解为“更大的无刷电机 + 较低减速比的行星齿轮箱”。 \n\n传统机器人常用谐波减速器或高减速比方案，精度高、承载强，但成本高、制造难、供应链长。QDD 的好处是结构更简单、效率更高、成本更低、供应商更多、迭代速度更快；报告给出的对比是，QDD 效率可达 95%—98%，而应变波/谐波路线大致为 85%—90%，且 QDD 成本最高可低 80%。 \n\n但 QDD 也有代价：低减速比意味着电机本身要承担更多扭矩，电流更大，发热更严重。早期 G1 的问题就是过热严重，伸直手臂拿 2 公斤物体只能坚持几秒，弯曲手臂拿 2—3 公斤也只能持续几分钟，之后需要长时间冷却。这也是市场过去觉得宇树“便宜但不可靠”的原因。 \n\n5. 报告认为关键拐点：宇树的 QDD 正在从“便宜但热”变成“便宜且可用”\n\nSemiAnalysis 认为，过去两年宇树在执行器上做了多轮改进，包括降低电机电流需求、降低绕组电阻、优化磁钢和定子槽形状以减少 cogging torque 和 torque ripple、提高铜填充率，并在关键关节增加散热设计。报告特别提到，宇树在膝部使用 vapor chamber，后来又在骨盆附近增加主动冷却，这些变化提高了热余量。 \n\n结果是，G1 的可用性出现明显提升。报告称，现在 G1 在弯臂状态下可以搬 5 公斤并持续 10—15 分钟，较早期约 2 倍负载、5 倍持续时间提升；完全伸直手臂拿 5 公斤则可坚持约 1 分钟。对于真正的仓储、周转箱转移等轻量任务，这已经开始接近“可部署”的门槛。 \n\nSemiAnalysis 还提到，一些 2—4 公斤 tote transfer 类似任务中，宇树 G1 的吞吐表现可接近 Agility Digit；不过它仍然不如高端西方机器人稳健，典型情况是工作 10—15 分钟后需要 5—10 分钟冷却，对应约 50%—67% 利用率。即便如此，在保守假设下，比如全程遥操作、15% 服务合同、两年寿命、零残值、两班制，它在某些商业场景中也已经具备经济可行性。",
+      "contentHtml": "宇树会成为机器人时代的“大疆和比亚迪”么？看<a href=\"/SemiAnalysis_\" title=\"SemiAnalysis\">@SemiAnalysis_</a> 发布这篇题为《China’s Unitree Will Dominate Global Robotics》，副标题是 “下一代机器人最快迭代周期将带来前所未有的加速”。核心是说宇树正在复制比亚迪和大疆的中国硬件巨头路径，用低成本核心部件、快速迭代、供应链纵深和研究者生态，把人形机器人从“实验室玩具”推向“可部署劳动工具”。拆解下这个报告\n1. 最大结论：宇树可能成为机器人时代的DJI / BYD\nSemiAnalysis的主判断是：宇树不是普通“机器人概念公司”，而是一个正在成形的中国硬件平台型公司。三年前它主要还是四足机器狗公司，但现在已经把四足机器人积累出的执行器、控制、供应链和量产经验迁移到人形机器人上。宇树 G1 已开始进入可用部署阶段，并且还有三款新设计在路线上，其中包括更直接对标西方人形机器人的产品。 \n\nSemiAnalysis把宇树的路径类比成两个中国硬件巨头：\nBYD 先控制电池，再吃下整车；\nDJI 先控制飞控，再吃下无人机；\n宇树则先控制执行器，再向四足机器人、人形机器人和劳动自动化扩张。 这就是报告所谓的“自己生成生态、创造新市场、再吞掉市场”。 \n\n2. 价格曲线是第一条主线：宇树把腿足机器人打到极低价格\nSemiAnalysis梳理了宇树四足机器人价格下降路径：2018 年 Laikago 约 4.5 万美元，2020 年 A1 约 1.5 万美元，2021 年 Go1 起步价约 2700 美元，到今天 Go2 起步价大约 1600—2800 美元。SemiAnalysis 认为，这相当于六年内入门级四足机器人价格下降约 94%—96%，这让宇树从高校/实验室市场，扩展到消费者、开发者和工业部署市场。 \n\n这一点非常关键。宇树不是先等人形机器人完美，再去量产；它先用四足机器人养出真实销量、真实供应链、真实制造经验，然后把同一套执行器、控制器、运动控制和生产流程迁移到人形机器人。报告认为，2024 年 H1 人形机器人本质上更像“四足机器人站起来”，而 G1 才真正打开了新市场。 \n\n3. G1 的意义：不是最强机器人，而是“买得到、足够便宜、可研究”的平台\n\n2024 年中期之前，全球可购买、可研究、可二次开发的人形机器人非常少。Agility 的 Digit 只是少量进入工厂，Apptronik 的 Apollo 仍偏前商业化，Figure 和 BMW 的合作还是个位数/早期部署，Tesla Optimus 也没有对外销售。相比之下，宇树 G1 以 3万—5万美元级别进入市场，直接成为高校、AI 实验室和机器人研究团队能买到的平台。 \n\n这带来的结果是：G1 不一定是“性能最强”的人形机器人，但它可能是研究者生态最强、真实机器数量最多、迭代反馈最快的平台。报告还提到，Nvidia、Apple、Meta 等公司都购买了数百台 G1，用于人形机器人 AI 研究。 \n\n4. 核心技术点：执行器是人形机器人的成本和性能瓶颈\n\n这篇报告最重要的技术分析落在执行器上。SemiAnalysis 认为，执行器占人形机器人 BOM 的 50%—70%，也就是机器人关节中负责运动、承重、扭矩输出的核心部件。宇树选择的路线是 QDD，quasi-direct-drive，准直驱执行器，大致可以理解为“更大的无刷电机 + 较低减速比的行星齿轮箱”。 \n\n传统机器人常用谐波减速器或高减速比方案，精度高、承载强，但成本高、制造难、供应链长。QDD 的好处是结构更简单、效率更高、成本更低、供应商更多、迭代速度更快；报告给出的对比是，QDD 效率可达 95%—98%，而应变波/谐波路线大致为 85%—90%，且 QDD 成本最高可低 80%。 \n\n但 QDD 也有代价：低减速比意味着电机本身要承担更多扭矩，电流更大，发热更严重。早期 G1 的问题就是过热严重，伸直手臂拿 2 公斤物体只能坚持几秒，弯曲手臂拿 2—3 公斤也只能持续几分钟，之后需要长时间冷却。这也是市场过去觉得宇树“便宜但不可靠”的原因。 \n\n5. 报告认为关键拐点：宇树的 QDD 正在从“便宜但热”变成“便宜且可用”\n\nSemiAnalysis 认为，过去两年宇树在执行器上做了多轮改进，包括降低电机电流需求、降低绕组电阻、优化磁钢和定子槽形状以减少 cogging torque 和 torque ripple、提高铜填充率，并在关键关节增加散热设计。报告特别提到，宇树在膝部使用 vapor chamber，后来又在骨盆附近增加主动冷却，这些变化提高了热余量。 \n\n结果是，G1 的可用性出现明显提升。报告称，现在 G1 在弯臂状态下可以搬 5 公斤并持续 10—15 分钟，较早期约 2 倍负载、5 倍持续时间提升；完全伸直手臂拿 5 公斤则可坚持约 1 分钟。对于真正的仓储、周转箱转移等轻量任务，这已经开始接近“可部署”的门槛。 \n\nSemiAnalysis 还提到，一些 2—4 公斤 tote transfer 类似任务中，宇树 G1 的吞吐表现可接近 Agility Digit；不过它仍然不如高端西方机器人稳健，典型情况是工作 10—15 分钟后需要 5—10 分钟冷却，对应约 50%—67% 利用率。即便如此，在保守假设下，比如全程遥操作、15% 服务合同、两年寿命、零残值、两班制，它在某些商业场景中也已经具备经济可行性。",
+      "publishedAt": "2026-06-09T06:15:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2064229775833813152",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKWeCWxagAA1Ke5.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "一张图拆解全球机器人产业链，虽然老黄喊韩国机器人产业，但事实求是来看中国在机器人领域还是占据了绝对领先优势。最值得关注的三个要点：1、真正的壁垒往往不在“造一台机器人”，而在减速器、伺服系统、传感器、视觉、控制软件和场景集成能力；\n\n2、机器人产业中最关键的上游环节包括减速器、伺服电机、控制器、机器视觉、LiDAR、力传感器、AI芯片和末端执行器。代表公司包括Nabtesco、Harmonic Drive、Yaskawa、Keyence、Cognex、NVIDIA，以及中国的汇川技术、绿的谐波、双环传动、禾赛、速腾聚创、奥比中光等。这些环节通常比单纯本体制造更有壁垒。\n\n3、机器人下一阶段竞争不只是硬件成本，而是具身智能、边缘AI、仿真训练、感知决策和真实场景落地能力。确定性较高的是减速器、伺服、机器视觉、医疗机器人和工业软件；弹性最大的是人形机器人执行器、力传感器、LiDAR和边缘AI芯片；",
+        "contentHtml": "一张图拆解全球机器人产业链，虽然老黄喊韩国机器人产业，但事实求是来看中国在机器人领域还是占据了绝对领先优势。最值得关注的三个要点：1、真正的壁垒往往不在“造一台机器人”，而在减速器、伺服系统、传感器、视觉、控制软件和场景集成能力；\n\n2、机器人产业中最关键的上游环节包括减速器、伺服电机、控制器、机器视觉、LiDAR、力传感器、AI芯片和末端执行器。代表公司包括Nabtesco、Harmonic Drive、Yaskawa、Keyence、Cognex、NVIDIA，以及中国的汇川技术、绿的谐波、双环传动、禾赛、速腾聚创、奥比中光等。这些环节通常比单纯本体制造更有壁垒。\n\n3、机器人下一阶段竞争不只是硬件成本，而是具身智能、边缘AI、仿真训练、感知决策和真实场景落地能力。确定性较高的是减速器、伺服、机器视觉、医疗机器人和工业软件；弹性最大的是人形机器人执行器、力传感器、LiDAR和边缘AI芯片；",
+        "link": "https://x.com/qinbafrank/status/2063448832277614864",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKLXxamb0AAKHbM.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064225695572902045",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "The new meta in crypto to make it as a “builder” is to hire fraudulent market makers, crime the chart into oblivion, then post about an “incident” and an “ongoing investigation.”\n\nSend this industry to fucking zero.",
+      "contentHtml": "The new meta in crypto to make it as a “builder” is to hire fraudulent market makers, crime the chart into oblivion, then post about an “incident” and an “ongoing investigation.”\n\nSend this industry to fucking zero.",
+      "publishedAt": "2026-06-09T05:58:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2064225695572902045",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064223548999405861",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "上轮周期，当LTH-NUPL降为0.2时，对应BTC的价格为$24,700。后续熊底最针尖的低点在$15,600，最大振幅30%+；整个运行过程长达276天。\n\n现在我们回头看，如果当时从$24,000开始买入，一直买到$16,000，并坚持拿到牛市高点$120,000；你觉得这个策略能接受吗？我想大多数人都能接受。\n\n但如果我换一个说法：假如在本轮回调中从$75,000开始买入，一直买到$48000，这个策略你能接受吗？\n\n我估计很多人都不能接受。别说到4.8w了，就是到6w，也会有很多人跳出喷：你这是什么狗屁分析，害我们亏钱！\n\n但其实，这2个策略是一摸一样的。分批买入过程最大回撤都是30%+。区别只是一个有了后面12w作为参照物，一个正处其中而已（没有参照物）。\n\n不识庐山真面目，只缘身在此山中。\n\n看到评论有些小伙伴的留言，我终于知道，为什么无论我如何尽量保持客观，都无法让有些人满意。原因有二：\n\n其一、对文字有理解性障碍，除非你用最简单的语言，比如“看多/看空”、“梭哈/清仓”、“ xxx点位买/卖”；\n\n其二、对自己低要求，对他人高要求；不能接受区间，要求精准给出最低点的预判；但可以允许自己长期处于低认知。\n\n说实话，我承认自己没有这个水平，因为上轮周期我也没能买到$16,000的BTC，但好在运气不错拿到了最后。\n\n所以这一轮，我一直采用\"部分定投+分批买入\"的交易框架。进入预期范围，就开始金字塔挂单。没有进入范围而追反弹的仓位，也会提前设止损，打到了就减仓。\n\n执行到目前，3个月账户浮亏-4.58%；仓位控制也适合自己的风险偏好。\n\n比起很多老师还差的太远，但我自己挺满意的。\n\n所以，如果你对我有太高的预期，我大概率会让你失望，毕竟我们对交易的理解，方式，执行，承受力都完全不同。\n\n不用参考我，遵从本心即可。",
+      "contentHtml": "上轮周期，当LTH-NUPL降为0.2时，对应BTC的价格为$24,700。后续熊底最针尖的低点在$15,600，最大振幅30%+；整个运行过程长达276天。\n\n现在我们回头看，如果当时从$24,000开始买入，一直买到$16,000，并坚持拿到牛市高点$120,000；你觉得这个策略能接受吗？我想大多数人都能接受。\n\n但如果我换一个说法：假如在本轮回调中从$75,000开始买入，一直买到$48000，这个策略你能接受吗？\n\n我估计很多人都不能接受。别说到4.8w了，就是到6w，也会有很多人跳出喷：你这是什么狗屁分析，害我们亏钱！\n\n但其实，这2个策略是一摸一样的。分批买入过程最大回撤都是30%+。区别只是一个有了后面12w作为参照物，一个正处其中而已（没有参照物）。\n\n不识庐山真面目，只缘身在此山中。\n\n看到评论有些小伙伴的留言，我终于知道，为什么无论我如何尽量保持客观，都无法让有些人满意。原因有二：\n\n其一、对文字有理解性障碍，除非你用最简单的语言，比如“看多/看空”、“梭哈/清仓”、“ xxx点位买/卖”；\n\n其二、对自己低要求，对他人高要求；不能接受区间，要求精准给出最低点的预判；但可以允许自己长期处于低认知。\n\n说实话，我承认自己没有这个水平，因为上轮周期我也没能买到$16,000的BTC，但好在运气不错拿到了最后。\n\n所以这一轮，我一直采用\"部分定投+分批买入\"的交易框架。进入预期范围，就开始金字塔挂单。没有进入范围而追反弹的仓位，也会提前设止损，打到了就减仓。\n\n执行到目前，3个月账户浮亏-4.58%；仓位控制也适合自己的风险偏好。\n\n比起很多老师还差的太远，但我自己挺满意的。\n\n所以，如果你对我有太高的预期，我大概率会让你失望，毕竟我们对交易的理解，方式，执行，承受力都完全不同。\n\n不用参考我，遵从本心即可。",
+      "publishedAt": "2026-06-09T05:50:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2064223548999405861",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKWWzI1asAAJ1yg.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKWW2T0aoAEgw9A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKWXIMVbkAAShfv.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "LTH-NUPL作为有效衡量长期持有者压力和情绪的工具之一，也是一个在历史上几乎没有出错的指标。\n\n当LTH情绪压力陷入“红色投降（Capitulation）”范围时，都是极佳的抄底位置。\n\n当前LTH-NUPL为0.2左右。处在“橙色恐慌区（Fear）”。如果我们的目标是为建立长期仓位，那当前可以算是进入射程了。\n\n由于本轮周期LTH的参与结构与过往不太一样，因此我们并不能肯定后期一定会或不会出现“投降区“。\n\n但按历史经验，大概率是会的。\n\n不过由“恐慌”转为“投降”，不代表价格也一定大幅下跌。有时候长时间的区间盘整，也会让NUPL由橙变红。\n\n所以，如想把抄底过程做得更加精细，还是应提前做好计划，合理控制节奏和仓位。",
+        "contentHtml": "LTH-NUPL作为有效衡量长期持有者压力和情绪的工具之一，也是一个在历史上几乎没有出错的指标。\n\n当LTH情绪压力陷入“红色投降（Capitulation）”范围时，都是极佳的抄底位置。\n\n当前LTH-NUPL为0.2左右。处在“橙色恐慌区（Fear）”。如果我们的目标是为建立长期仓位，那当前可以算是进入射程了。\n\n由于本轮周期LTH的参与结构与过往不太一样，因此我们并不能肯定后期一定会或不会出现“投降区“。\n\n但按历史经验，大概率是会的。\n\n不过由“恐慌”转为“投降”，不代表价格也一定大幅下跌。有时候长时间的区间盘整，也会让NUPL由橙变红。\n\n所以，如想把抄底过程做得更加精细，还是应提前做好计划，合理控制节奏和仓位。",
+        "link": "https://x.com/Murphychen888/status/2064158034239050238",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKTPpGUa0AAukCa.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2064215356730941451",
       "username": "octopusycc",
@@ -462,6 +568,25 @@
             "url": "https://pbs.twimg.com/media/HKNy3FWbAAEujps.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064148952774070428",
+      "username": "jmilei_english",
+      "displayName": "Milei in English - Official Account",
+      "avatar": "https://pbs.twimg.com/profile_images/2006105618482962432/6bOhMW6W_bigger.jpg",
+      "content": "For the first time in 123 years, Argentina has achieved a sustained fiscal surplus without being in default. We are one of only 5 countries in the world in this position. \n\nLONG LIVE FREEDOM, DAMN IT...!!!",
+      "contentHtml": "For the first time in 123 years, Argentina has achieved a sustained fiscal surplus without being in default. We are one of only 5 countries in the world in this position. \n\nLONG LIVE FREEDOM, DAMN IT...!!!",
+      "publishedAt": "2026-06-09T00:53:00.000Z",
+      "link": "https://x.com/jmilei_english/status/2064148952774070428",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -892,6 +1017,38 @@
       }
     },
     {
+      "id": "2064054355347874064",
+      "username": "gfodor",
+      "displayName": "gfodor.id",
+      "avatar": "https://pbs.twimg.com/profile_images/1998410261435408384/VvP1BXwE_bigger.jpg",
+      "content": "Opt-out mail-in balloting eliminates the secret ballot. Harvesting then provides the mechanism for a stranger to apply pressure and deliver verified votes.\n\nCalifornia has successfully dismantled the safeguards for free & fair elections. The purpose of a system is what it does.",
+      "contentHtml": "Opt-out mail-in balloting eliminates the secret ballot. Harvesting then provides the mechanism for a stranger to apply pressure and deliver verified votes.\n\nCalifornia has successfully dismantled the safeguards for free &amp; fair elections. The purpose of a system is what it does.",
+      "publishedAt": "2026-06-08T18:38:00.000Z",
+      "link": "https://x.com/gfodor/status/2064054355347874064",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "mottsmith",
+        "displayName": "mottsmith",
+        "content": "I believe LA county is counting votes more or less accurately, but “ballot harvesting” seems like a big problem. \n\nIf you can’t show up to a polling place with a MAGA hat, how is it ok for a DSA organizer to literally sit you and fill out your ballot for you?",
+        "contentHtml": "I believe LA county is counting votes more or less accurately, but “ballot harvesting” seems like a big problem. \n\nIf you can’t show up to a polling place with a MAGA hat, how is it ok for a DSA organizer to literally sit you and fill out your ballot for you?",
+        "link": "https://x.com/mottsmith/status/2064032442043043862",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKTqkUBakAA_QLp.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2064039368747012403",
       "username": "markminervini",
       "displayName": "Mark Minervini",
@@ -942,6 +1099,31 @@
             "url": "https://pbs.twimg.com/media/HKTFYZWXsAAFaFg.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064032442043043862",
+      "username": "mottsmith",
+      "displayName": "mottsmith",
+      "avatar": "https://pbs.twimg.com/profile_images/1716918601687728128/PojUC3B8_bigger.jpg",
+      "content": "I believe LA county is counting votes more or less accurately, but “ballot harvesting” seems like a big problem. \n\nIf you can’t show up to a polling place with a MAGA hat, how is it ok for a DSA organizer to literally sit you and fill out your ballot for you?",
+      "contentHtml": "I believe LA county is counting votes more or less accurately, but “ballot harvesting” seems like a big problem. \n\nIf you can’t show up to a polling place with a MAGA hat, how is it ok for a DSA organizer to literally sit you and fill out your ballot for you?",
+      "publishedAt": "2026-06-08T17:10:00.000Z",
+      "link": "https://x.com/mottsmith/status/2064032442043043862",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKTqkUBakAA_QLp.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -2867,6 +3049,38 @@
           "url": "https://pbs.twimg.com/media/HKPn0QpbYAA_UPR.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2063746733017018694",
+      "username": "ManDaveJobGood",
+      "displayName": "Confirmed Miscer ⚔️🍁🔫",
+      "avatar": "https://pbs.twimg.com/profile_images/2053689564095815680/5NF_nGZL_bigger.jpg",
+      "content": "The reason why Raman got the ballots over Bass is that activists go to homeless shelters and slums and walk out with hundreds of ballots each time. And it's not clear if the people on the ballots really filled them out, or when they arrived. But the people who do this are far left, and so the ballots are breaking for Raman. They probably don't make much money to do it, they're just that dedicated to this city's destruction\n\nRaman herself probably didn't know how many of those people there were looking out for her, though ultimately she's happy to accept the support\n\nCalifornia's system will become every blue state's system, and the purple states too, unless it is dismantled at the federal level",
+      "contentHtml": "The reason why Raman got the ballots over Bass is that activists go to homeless shelters and slums and walk out with hundreds of ballots each time. And it's not clear if the people on the ballots really filled them out, or when they arrived. But the people who do this are far left, and so the ballots are breaking for Raman. They probably don't make much money to do it, they're just that dedicated to this city's destruction\n\nRaman herself probably didn't know how many of those people there were looking out for her, though ultimately she's happy to accept the support\n\nCalifornia's system will become every blue state's system, and the purple states too, unless it is dismantled at the federal level",
+      "publishedAt": "2026-06-07T22:15:00.000Z",
+      "link": "https://x.com/ManDaveJobGood/status/2063746733017018694",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "InezFeltscher",
+        "displayName": "Inez Stepman ⚪️🔴⚪️",
+        "content": "If you disclaim even the possibility of mass fraud looking at this graph and accounting for California's incredibly lax-by-design approach to election security, you're simply not being honest. This graph is hugely suspect and the system is such that there's very little way to even investigate the matter.",
+        "contentHtml": "If you disclaim even the possibility of mass fraud looking at this graph and accounting for California's incredibly lax-by-design approach to election security, you're simply not being honest. This graph is hugely suspect and the system is such that there's very little way to even investigate the matter.",
+        "link": "https://x.com/InezFeltscher/status/2063628744674152747",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKN7RO3XoAAX8uz.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11902,176 +12116,6 @@
             "url": "https://pbs.twimg.com/media/HIDPjIeW8AAewa_.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061770586536415593",
-      "username": "boundaryhq",
-      "displayName": "boundary",
-      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
-      "content": "最近这7天btc下跌了8.3%，ethbtc汇率涨了4.2%，复盘历史这种在btc大跌但eth汇率强势的情况，从2017年开始样本累计60个，60个样本中未来7天 14天 30天 90天eth累计涨幅中位数分别是-0.7%，-0.8%，-3.8%，-8.5%\n$BTC ethereum:native",
-      "contentHtml": "最近这7天btc下跌了8.3%，ethbtc汇率涨了4.2%，复盘历史这种在btc大跌但eth汇率强势的情况，从2017年开始样本累计60个，60个样本中未来7天 14天 30天 90天eth累计涨幅中位数分别是-0.7%，-0.8%，-3.8%，-8.5%\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> ethereum:native",
-      "publishedAt": "2026-06-02T11:23:00.000Z",
-      "link": "https://x.com/boundaryhq/status/2061770586536415593",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJzhNNGaoAAlzqt.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061761083044749316",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "有点意思\n其实保险也是个期权或者预测市场\n比如你买了一台车 保险就是这台车的看空期权\n人寿保险就是购买者的看空期权",
-      "contentHtml": "有点意思\n其实保险也是个期权或者预测市场\n比如你买了一台车 保险就是这台车的看空期权\n人寿保险就是购买者的看空期权",
-      "publishedAt": "2026-06-02T10:45:00.000Z",
-      "link": "https://x.com/hazenlee/status/2061761083044749316",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJzYxHEbMAE0Ip7.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061759880155775102",
-      "username": "DrProfitCrypto",
-      "displayName": "Doctor Profit 🇨🇭",
-      "avatar": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_bigger.jpg",
-      "content": "#Bitcoin: How many times have I said the crash starts from the 80–85k region?\n\nHow many times have I called for shorts in this region?\n\nHow many Sunday Reports have I published and explained it?",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Bitcoin\">#Bitcoin</a>: How many times have I said the crash starts from the 80–85k region?\n\nHow many times have I called for shorts in this region?\n\nHow many Sunday Reports have I published and explained it?",
-      "publishedAt": "2026-06-02T10:40:00.000Z",
-      "link": "https://x.com/DrProfitCrypto/status/2061759880155775102",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJzXrpnW0AA40ZX.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061756656204362066",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "就是说站在光和定制芯片里的MRVL要值万亿市值，那么站在光和边缘计算AI-RAN的诺基亚要值多少市值呢？🤔英伟达持有MRVL2.4%的股份，同时持有诺基亚3.05%的股份。才发现英伟达的投资机构叫GPU ventures，这很英伟达了。",
-      "contentHtml": "就是说站在光和定制芯片里的MRVL要值万亿市值，那么站在光和边缘计算AI-RAN的诺基亚要值多少市值呢？🤔英伟达持有MRVL2.4%的股份，同时持有诺基亚3.05%的股份。才发现英伟达的投资机构叫GPU ventures，这很英伟达了。",
-      "publishedAt": "2026-06-02T10:27:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2061756656204362066",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJzUDI9acAA0HJN.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "站在光和边缘计算AI-RAN里，昨天发边缘计算端侧AI及物理AI趋势，有人问为何看好诺基亚。个人角度它正在被市场重新定价为“AI时代的连接基础设施公司”，正好再聊聊诺基亚，核心是两点：1）光互连/AI数据中心互连是短中期最确定的业绩抓手，已经实打实体现在最近几个季度财报里；\n2）AI-RAN/边缘计算想象空间更大，但商业化节奏会慢一些，算是长期估值期权。\n\n光互连是当下发动机，边缘计算+AI-RAN是未来大期权。诺基亚正从5G卖基站的旧身份，切换到AI云、光网络、数据中心互连、AI-native网络的综合平台。\n\n1、为什么市场今年在重新关注诺基亚？\n六大催化剂\n1）之前英伟达10亿美元入股+战略合作，直接把诺基亚拉进AI叙事（AI-RAN、数据中心交换、SR Linux、光技术）。\n2）Infinera并购完成，在光传输、webscale客户、北美DCI能力大幅升级。\n3）26年一季度财报验证：AI&Cloud收入+49%、订单10亿欧元、光互连+20%，不再是“讲故事”。\n4）战略重塑：\n网络连接基础设施业务定为当下增长发动机；\n移动通信基础设施守基本盘，未来还能进一步拓展到AI-RAN；\n清理非核心业务，把资本和管理力集中到AI连接上。\n5）AI-RAN在MWC 2026大放异彩，与英伟达、T-Mobile、SoftBank、NTT DOCOMO、Vodafone等合作落地，GPU加速AI-RAN测试全面推进。\n6）传统5G capex消化期后，市场需要新增长曲线：AI数据中心DCI、光互连、边缘AI正好接棒。\n\n2、光互连的业绩正在放量被验证\nAI数据中心瓶颈从算力转向网络，光互连分层看，诺基亚之所以在这些领域“最强”，是因为它拥有强大的相干光DSP芯片（Coherent）研发能力。利用这个核心芯片，诺基亚做出了顶级的可插拔模块（Pluggables），并把它们应用在数据中心互联（DCI）和现代的IP over DWDM架构中；同时配合其市场领先的光传输（Optical Transport）骨干网设备和线路系统（Line Systems），在光纤网络市场里占据主导地位。\n\n1）收购Infinera加持后，1.6T/2.4T/3.2T 光模块下游客户开始样品测试27年量产，号称最高70% TCO节省。\n\n2）2026一季度是业绩真正爆发的季度。营收45亿欧元（+3%），运营利润2.81亿欧元（+54%）。其中网络基础设施增加+6%，光互连+20%，AI&Cloud客户收入+49%（占集团8%），单季度新订单10亿欧元。\n 公司直接把2026年Network Infrastructure增长预期上调至12-14%，Optical+IP合计18-20%，AI&Cloud可服务市场CAGR从16%上调至27%。\n财报把AI光网络逻辑从PPT变成了硬指标，这就是股价重估的根本触发。\n\n也要注意诺基亚不是纯光模块股（短距那块是Coherent、Lumentum、中际旭创的战场），它是系统级供应商，吃的是AI网络架构升级的钱\n\n3、边缘计算/AI-RAN：想象力最大，但还需要时间爆发\nAI-RAN核心是把基站+运营商边缘机房变成分布式AI算力节点：低延迟推理、工业AI、机器人、智慧城市全能跑。\n诺基亚优势明显：全球RAN软件、无线集成、运营商关系+英伟达GPU适配+生态（Dell、Supermicro、Red Hat）。目前10个客户公开承诺，2026年晚些启动试验。\n\n诺基亚在光模块/光传输上的技术（如前文提到的 1.6T/3.2T 超高速光网络）将与 AI-RAN 深度结合。未来的边缘基站本身就是一个微型 AI 数据中心，而诺基亚能够提供“边缘算力 + 算力之间超高速光互联”的端到端方案。而且它也成功搭上了英伟达等 AI 巨头的战车，并通过 anyRAN 实现了电信技术与 IT 算力的融合\n\n但它还是早期：技术验证阶段，运营商边缘AI商业模式还没完全跑通。\n短期英伟达把边缘计算在财报里单列是估值催化，中期才是真正RAN升级机会，未来有升级到“卖边缘AI服务”的平台的可能性。\n\n个人看诺基亚会受益于边缘 AI 和光互连，但受益排序是：\n1）光互连AI 数据中心互连：最确定，已体现在收入和订单。\n2）IP 网络和数据中心 fabric：中等确定性，机会大但竞争强。\n3）AI-RAN / 边缘计算：空间最大，但商业化还在早期；\n4）6G标准专利是长期底座和战略价值。\n\n从上面的角度看诺基亚不是纯光模块股，也不是纯 AI 芯片股，而是 AI 时代“连接层”的再定价标的。它的核心价值在于：\nAI 基础设施从 GPU 算力扩展到数据中心互连、城域光网络、运营商边缘网络和未来 AI-RAN 时，诺基亚有可能成为西方阵营（地缘因素也需要考虑）重要的网络基础设施供应商。\n\n个人看法仅供参考。",
-        "contentHtml": "站在光和边缘计算AI-RAN里，昨天发边缘计算端侧AI及物理AI趋势，有人问为何看好诺基亚。个人角度它正在被市场重新定价为“AI时代的连接基础设施公司”，正好再聊聊诺基亚，核心是两点：1）光互连/AI数据中心互连是短中期最确定的业绩抓手，已经实打实体现在最近几个季度财报里；\n2）AI-RAN/边缘计算想象空间更大，但商业化节奏会慢一些，算是长期估值期权。\n\n光互连是当下发动机，边缘计算+AI-RAN是未来大期权。诺基亚正从5G卖基站的旧身份，切换到AI云、光网络、数据中心互连、AI-native网络的综合平台。\n\n1、为什么市场今年在重新关注诺基亚？\n六大催化剂\n1）之前英伟达10亿美元入股+战略合作，直接把诺基亚拉进AI叙事（AI-RAN、数据中心交换、SR Linux、光技术）。\n2）Infinera并购完成，在光传输、webscale客户、北美DCI能力大幅升级。\n3）26年一季度财报验证：AI&Cloud收入+49%、订单10亿欧元、光互连+20%，不再是“讲故事”。\n4）战略重塑：\n网络连接基础设施业务定为当下增长发动机；\n移动通信基础设施守基本盘，未来还能进一步拓展到AI-RAN；\n清理非核心业务，把资本和管理力集中到AI连接上。\n5）AI-RAN在MWC 2026大放异彩，与英伟达、T-Mobile、SoftBank、NTT DOCOMO、Vodafone等合作落地，GPU加速AI-RAN测试全面推进。\n6）传统5G capex消化期后，市场需要新增长曲线：AI数据中心DCI、光互连、边缘AI正好接棒。\n\n2、光互连的业绩正在放量被验证\nAI数据中心瓶颈从算力转向网络，光互连分层看，诺基亚之所以在这些领域“最强”，是因为它拥有强大的相干光DSP芯片（Coherent）研发能力。利用这个核心芯片，诺基亚做出了顶级的可插拔模块（Pluggables），并把它们应用在数据中心互联（DCI）和现代的IP over DWDM架构中；同时配合其市场领先的光传输（Optical Transport）骨干网设备和线路系统（Line Systems），在光纤网络市场里占据主导地位。\n\n1）收购Infinera加持后，1.6T/2.4T/3.2T 光模块下游客户开始样品测试27年量产，号称最高70% TCO节省。\n\n2）2026一季度是业绩真正爆发的季度。营收45亿欧元（+3%），运营利润2.81亿欧元（+54%）。其中网络基础设施增加+6%，光互连+20%，AI&Cloud客户收入+49%（占集团8%），单季度新订单10亿欧元。\n 公司直接把2026年Network Infrastructure增长预期上调至12-14%，Optical+IP合计18-20%，AI&Cloud可服务市场CAGR从16%上调至27%。\n财报把AI光网络逻辑从PPT变成了硬指标，这就是股价重估的根本触发。\n\n也要注意诺基亚不是纯光模块股（短距那块是Coherent、Lumentum、中际旭创的战场），它是系统级供应商，吃的是AI网络架构升级的钱\n\n3、边缘计算/AI-RAN：想象力最大，但还需要时间爆发\nAI-RAN核心是把基站+运营商边缘机房变成分布式AI算力节点：低延迟推理、工业AI、机器人、智慧城市全能跑。\n诺基亚优势明显：全球RAN软件、无线集成、运营商关系+英伟达GPU适配+生态（Dell、Supermicro、Red Hat）。目前10个客户公开承诺，2026年晚些启动试验。\n\n诺基亚在光模块/光传输上的技术（如前文提到的 1.6T/3.2T 超高速光网络）将与 AI-RAN 深度结合。未来的边缘基站本身就是一个微型 AI 数据中心，而诺基亚能够提供“边缘算力 + 算力之间超高速光互联”的端到端方案。而且它也成功搭上了英伟达等 AI 巨头的战车，并通过 anyRAN 实现了电信技术与 IT 算力的融合\n\n但它还是早期：技术验证阶段，运营商边缘AI商业模式还没完全跑通。\n短期英伟达把边缘计算在财报里单列是估值催化，中期才是真正RAN升级机会，未来有升级到“卖边缘AI服务”的平台的可能性。\n\n个人看诺基亚会受益于边缘 AI 和光互连，但受益排序是：\n1）光互连AI 数据中心互连：最确定，已体现在收入和订单。\n2）IP 网络和数据中心 fabric：中等确定性，机会大但竞争强。\n3）AI-RAN / 边缘计算：空间最大，但商业化还在早期；\n4）6G标准专利是长期底座和战略价值。\n\n从上面的角度看诺基亚不是纯光模块股，也不是纯 AI 芯片股，而是 AI 时代“连接层”的再定价标的。它的核心价值在于：\nAI 基础设施从 GPU 算力扩展到数据中心互连、城域光网络、运营商边缘网络和未来 AI-RAN 时，诺基亚有可能成为西方阵营（地缘因素也需要考虑）重要的网络基础设施供应商。\n\n个人看法仅供参考。",
-        "link": "https://x.com/qinbafrank/status/2058578565248204956"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061746061455077399",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "Got $BTC long stink bids at 65.5K.",
-      "contentHtml": "Got <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> long stink bids at 65.5K.",
-      "publishedAt": "2026-06-02T09:45:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2061746061455077399",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061738645783278005",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "btc 怎么这么👎🏻，🈳金被吊起来锤",
-      "contentHtml": "btc 怎么这么👎🏻，🈳金被吊起来锤",
-      "publishedAt": "2026-06-02T09:16:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2061738645783278005",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJzEXzgbIAABzdB.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061724444473905291",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "每个人获得上天眷顾的方式不同，有的人得到了高智商，有的人得到了厚脸皮😄",
-      "contentHtml": "每个人获得上天眷顾的方式不同，有的人得到了高智商，有的人得到了厚脸皮😄",
-      "publishedAt": "2026-06-02T08:19:00.000Z",
-      "link": "https://x.com/taresky/status/2061724444473905291",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2061718814254100559",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "老黄点名了下一个将达到万亿美金市值的公司，相比这个Murphy（MRVL的CEO）今天演讲以及他与来黄的对话更值得一看。Murphy用近一个小时的时间，系统阐述Marvell如何押注数据基础设施、为什么光互联将成为AI时代的关键技术，以及这场从铜缆到光纤的转型将如何重塑整个数据中心架构，看完murphy的演讲，相信能对光互联的技术演化有更深的理解和认识，梳理下Murphy的演讲要点：\n1、十年豪赌：如何成为数据中心之王\nMurphy演讲从一段自我剖白开始。2014年加入Marvell 时，这家公司60%的收入来自消费电子市场，数据中心业务占比不到10%。也正是在那个时刻，他做出了一个大胆的判断——半导体行业的下一个增长周期，将由 Google、Amazon、Microsoft、Meta 等平台公司驱动，核心需求是“以大规模移动、存储、处理和保护数据的半导体技术”。\n\n这个判断在当时并不被广泛认可。“数据基础设施”甚至还不是一个被行业承认的市场类别，只是 Marvell 用来描述未来愿景的内部术语。但 Murphy 和他的团队展现了惊人的执行力：通过一系列精准的并购和剥离，Marvell 在十年间投入了约285亿美元（225亿美元收购+60亿美元内部研发-40亿美元资产剥离），系统性地构建了从毫米到千公里、覆盖 AI 基础设施全栈的连接技术平台。\n\n这些并购包括2018年收购 Cavium 强化计算和网络能力；2019年收购 Avera 建立定制芯片业务、收购 Aquantia 增强连接产品组合；\n2021年以100亿美元收购 Inphi 获得世界级数据中心连接技术；\n以及最近12个月内收购 Celestica AI 的光子结构技术和 Xcon 的 scale-up 交换能力。\n\n结果是惊人的：Marvell 从2014年的25亿美元营收增长到2026财年预计的110亿美元，最近几年增速更是达到每年40%。根据上周财报电话会议后的华尔街共识预期，2027财年 Marvell 营收将达到164亿美元。更关键的是，数据中心业务占比已从不到10%飙升至上季度的75%以上。\n\n2、连接性：AI 基础设施的真正瓶颈\nMurphy 在演讲中抛出了一个核心问题：什么定义了 AI 基础设施的性能？大多数人会想到处理器、GPU、制程节点（3nm、2nm 甚至未来的1.4nm、1.6nm），或者高带宽内存。这些当然重要，但 Murphy 指出，这些都不是系统的决定性特征。\n\n“因为一个处理器，无论它有多快、连接了多少内存，对于今天的 AI 工作负载来说根本不够。你需要数万个、最终是数百万个处理器作为一个单一的大规模计算引擎协同工作。这就是为什么这种规模的计算从根本上是一个连接性挑战。”Murphy 说道，“而且越来越多地，正是连接性的架构和特性定义了系统的性能。”\n\n这个判断得到了英伟达 CEO 黄仁勋的呼应。在 Murphy 邀请下登台的黄仁勋强调，AI Agent 的计算模式是“分解和分布式的”（disaggregated and distributed）——当你把一个计算问题分解成许多部分，并分布到整个数据中心时，连接性就成为必需品。“我们分解和分布式计算，使其运行在这些巨大的集群上，这样我们就能聚合总计算量、总内存和总带宽。而使这一切成为可能的，就是连接性。”黄仁勋说，“这就是为什么 Matt 做得这么好，为什么 Marvell 如此关键。”\n\nMurphy 进一步解释了连接性瓶颈的演变逻辑：过去几年，AI 基础设施先后解决了计算瓶颈（英伟达引领的 GPU 革命）和内存瓶颈（HBM 高带宽内存的规模化），现在瓶颈正在再次转移。“现在是连接性将定义基础设施的极限，就像计算和内存一样。”他引用了与最大客户的对话：“世界上最大的超大规模云服务商现在正在重新构想他们的整个网络架构。他们认识到，扩展 AI 基础设施现在首先是一个连接性挑战。”\n\n随着推理模型、专家混合架构（mixture of experts）、生成式 AI 的持续演进，更多数据必须在基础设施中移动，需要更高的带宽和更低的延迟。当工作负载不再适合单个数据中心时，就需要建设更大的数据中心或整个数据中心园区，以及它们之间的所有高速连接。“因此，连接性成为扩展计算的关键推动力，我们的客户越来越认识到光学是前进的方向。”Murphy 说。\n\n3、从千公里到毫米：Marvell 的全栈连接布局\nMurphy 用一张图展示了 AI 基础设施跨越的所有距离——从数据中心之间的数百甚至上千公里，到封装内部的毫米级距离。每一个距离都需要不同的解决方案、不同的技术、不同的工程团队，甚至不同的供应链。“这些不是同一问题的变体，而是根本不同的工程挑战。”\n\n1）跨数据中心连接（数百至上千公里）\n这需要非常专门的相干调制（coherent modulation）技术，核心是专用的数字信号处理器（DSP）。Marvell 是全球少数几家能够构建这种相干 DSP 的公司之一，已经领导了从100Gbps 到400Gbps 再到800Gbps 的代际演进。Murphy 在现场展示了一个相干光模块实物——这是一个极其复杂的工程产品，包含了 Marvell 最复杂的先进制程 CMOS DSP 芯片、第四代硅光子技术（已量产十年），以及用硅锗工艺设计的自研宽带模拟组件。“今年晚些时候，我们将采样世界上首个1Tbit、2nm 制程的相干光学解决方案。”Murphy 宣布。\n\n2）数据中心内部连接（数百米）\n数据中心内部包含成排的计算服务器，每个机架顶部通常有一个交换机，机架级交换机连接到脊柱和核心交换机，通过光纤电缆形成整个数据中心的网络结构。这部分使用的是更节能的 PAM4调制技术。Marvell 构建了业界领先的 PAM4 DSP 解决方案，以及高速模拟组件（包括跨阻放大器 TIA 和激光驱动器），并引领了从25Gbps、100Gbps、200Gbps、400Gbps 到800Gbps 的每一次重大转型。去年，Marvell 开始量产业界领先的1.6Tbps PAM4解决方案。在以太网交换方面，Marvell 拥有从51.2Tbps 到51.2Tbps 的完整产品组合，并在 ComputeX 当天宣布了专为 AI 数据中心设计的新一代102.4Tbps 以太网交换机，具有业界最低功耗。\n\n3、机架内部连接\n目标是以全互联（any-to-any）配置连接尽可能多的处理器——每个处理器都能直接与其他每个处理器通信。英伟达的 NVLink 72（因机架内连接72个 GPU 而得名）首次将这种架构推向市场。这需要完全不同的交换类别，以及通过机架内铜背板驱动超高速信号的能力。“今天，这不是光学的领域，这是铜的领域。”Murphy 说。核心差异化因素是电气 SerDes 技术而非光学。Marvell 拥有目前领先的200Gbps 电气 SerDes，并已在过去几年中演示了面向未来的400Gbps 技术，这些 SerDes 被集成到客户的定制芯片、XPU 以及 Marvell 自己的 scale-up 交换机中。\n\n4）封装内部连接（毫米级）\n当今最先进的芯片内部有多个 chiplet，2.5D 或3D 封装本质上是一种连接技术，允许这些 chiplet 在封装内非常靠近地放置，并通过超高速短距离 die-to-die 接口通信。Marvell 拥有领先的 die-to-die SerDes 和先进封装能力，使客户能够构建业界最复杂、最独特的多 die 芯片。\n\nMurphy 强调，拥有所有这些能力“在一个屋檐下”是不寻常的、独特的。“当我们去竞争时，通常在每个类别中我们面对的是不同的竞争对手。但这就是我们的独特之处——我们是一站式商店，是整个连接堆栈的领导者。”\n\n4、铜墙将移：光互联的物理必然性\nMurphy 演讲的核心洞察集中在一个概念上：铜墙（Copper Wall）。他用一张图清晰地展示了当前 AI 基础设施中的连接分界线——左侧是光学连接（使用光纤电缆传输光信号，两端有复杂的电子设备驱动和调制激光），右侧是电气连接（使用铜缆、PCB 上印刷的铜走线，或封装内部的微观铜布线）。中间是“铜墙”，定义了信号在必须转向光学连接之前可以通过铜传输的最长距离。\n\n“这是一个重要的区别，因为铜很简单、成本低，正如 Jensen 所说，你想尽可能长时间地使用它，这非常实用。但光学更复杂，需要激光器、光子学、复杂的电子设备。”Murphy 说，“而铜墙，我今天要告诉你们的是，它即将移动。它将再次移动，并将接管机架本身。这正在为光学行业创造需求的爆炸式增长。”\n\n这不是偏好问题，而是物理定律。信号通过铜缆传输的距离与带宽成反比——每次带宽翻倍，距离就必须减半。Murphy 给出了具体数据：当今世界上最高速的生产系统运行在每通道200Gbps。在这个带宽下，电缆长度限制在大约1.5米。相比之下，100Gbps 系统可以使用约3米的电缆。而机架的高度约为2米，考虑到机架内部的所有布线，2.5米正好是极限。“所以当我们转向1.6Tbps 时，我们不能再用铜完全连接机架了。墙正在移动，而且是现在。”\n\nMurphy 强调，这不是遥远的未来：“今后，即使是机架内的连接也将变成光学的。整个行业都知道这一点即将到来，所以我们一直在为这一刻做准备——不仅仅是 Marvell，而是整个行业。你可以在台湾看到这一点，在供应链和正在发生的产能爬坡中。”\n\n铜墙每向右移动一步，连接数量至少增加一个数量级。“这正在创造我提到的需求爆炸，光学供应链需要大规模扩展并做好准备。”Murphy 回顾了20年前的类似转型：当时数据中心内部的最先进技术是10Gbps，整个数据中心都使用铜缆，光学基本上只是电信技术，保留用于非常长的距离。但当墙移动时，光学行业迎接了挑战，今天世界上所有的超大规模数据中心都是光学连接的。这次转型催生了新的解决方案——针对数据中心内部优化的 PAM4技术，而 Marvell 是那里的关键创新者之一。\n\n5、CPO：光互联的下一个前沿\n当光学进入机架内部时，需要的新技术叫做共封装光学（Co-Packaged Optics, CPO）。Murphy 花了相当篇幅详细阐述这一技术：“CPO 是一种将光学连接一直带到封装本身、紧邻计算的技术，无论是定制计算还是交换芯片。”\n\nCPO 要解决的根本挑战是密度和功耗。机架内的连接数量是机架之间连接数量的10倍。“如果我们只是尝试使用数据中心机架间使用的相同光学技术，你不会有足够的功率，不会有足够的物理空间，无法容纳所有这些标准光学模块和电缆——这根本行不通，不可能。”Murphy 解释道。\n\nCPO 的概念是将光纤直接带到封装，将驱动光纤信号的电子设备与定制计算或交换芯片紧密耦合。“这是一个巨大的变化，而且很难，因为你要结合芯片行业中一些最先进的技术：领先制程 CMOS、硅光子学、先进封装、光互连，所有这些都在一个小型紧密集成的系统中制造。复杂性非常高，但这是继续扩展带宽并克服我谈到的铜限制同时降低功耗的唯一方法。”\n\nMurphy 强调这不是未来主义的东西，而是正在发生的现实。他在现场进行了实物展示：一边是传统的以太网交换机——当天宣布的102.4Tbps Teralink 交换机，可以看到板中央的交换芯片，PCB 内部的铜走线将信号传输到前面板，所有光学模块都插在那里。另一边是基于 CPO 的交换机——封装中央仍然是交换芯片（51.2Tbps 交换机），但边缘周围是16个3.2Tbps 光学引擎。“16乘以3.2，你得到51.2Tbps。所以光纤现在直接连接到这些引擎，而不是前面板。我们完全消除了 PCB 上的铜走线。光直接从封装中出来。这是一个非常非常复杂的工程作品。”Murphy 说。\n\nMarvell 为 CPO 投入了十多年：硅光子学、光学 DSP、所有周围的模拟宽带组件，以及实现这一切所需的所有先进封装。“这一切实际上都需要在 CPO 中汇聚。”Murphy 说。\n\n6、英伟达的背书与 NVLink Fusion 合作\nMurphy 特别强调了与英伟达的战略合作扩展。几个月前宣布的合作中，英伟达向 Marvell 投资了10亿美元，双方正在扩展跨多个维度的合作，包括光学、光子学和 NVLink Fusion。黄仁勋亲自登台与 Murphy 对话，这本身就是一个强有力的信号。\n\n黄仁勋详细解释了 NVLink Fusion 的战略意义：“有时候，也许云服务提供商想要设计自己的定制芯片。在我们之间，我们也在 NVLink Fusion 上合作，这使得你可以使用相同的系统架构，内部有 Marvell 的一些半定制芯片、大量互连、硅光子和光学技术。我们可以创建一个本质上分解、分布和异构的数据中心。”\n\n关键是系统架构保持一致。“他们的网络技术可以利用大量英伟达的堆栈。CPU 可以是 Vera，但它可以利用大量你们的堆栈。所以 NVLink Fusion 是关于采用英伟达的技术和我们的平台、Marvell 的技术和平台，然后我们融合它。这就是为什么它被称为 fusion。”黄仁勋说。\n\nMurphy 追问了铜到光学的转型时间表。黄仁勋的回答非常务实：“我们应该尽可能长时间地使用铜，但铜有其限制——带宽和距离的限制。所以最终正确的策略是：尽可能长时间地用铜进行 scale up。之后，用光学进一步 scale up，用光学 scale out，用光学跨越连接。所以你在必须的地方使用光学，在可以的地方使用铜。”\n\n但黄仁勋随即给出了乐观的市场预测：“底线是，在未来五到十年，我们将使用大量的铜，也将使用大量大量的光学。这些数据中心现在是基础设施的一部分。我说 AI 现在有用、有用的 AI 已经到来的原因是，现在 AI 是有利可图的，token 是有利可图的。当 token 生产有利可图时，每个人都想制造更多 token，这就是为什么 Marvell 的需求如此之高，我们的需求也如此之高。因为每个人都想生产更多 token，因为它被 Agent 到处使用。”\n\n7、无距离数据中心：光互联的终极愿景\nMurphy 在演讲的最后部分描绘了一个激进的未来愿景：他当数据传输全部变成光学时，距离实际上不再重要。“这是一个深刻的变化。”说。\n\n今天的服务器、机架和整体数据中心架构都是围绕距离的约束设计的，软件工作负载也围绕这些相同的约束进行了优化。但如果距离不再重要呢？\n\n首先，scale-up 网络的规模可以从72个或144个 XPU/GPU 扩展到1000个或更多，全部光学互连。“对工作负载的影响是巨大的。今天，AI 工作负载必须分解成适合 scale-up 集群的更小子问题，因为在集群外部通信今天更慢、带宽低得多。但光学互连系统可以管理数量级更大的工作负载。”\n\n其次，服务器本身可以被解构。现代 AI 服务器由一定数量的 CPU、XPU、内存和网络接口组成，它们都在同一系统上的原因是距离——CPU 和 XPU 需要以非常高的带宽访问内存，这意味着它们需要紧挨着坐在板上，铜走线作为它们之间的连接。“但在这些连接都是光学的未来，距离实际上不重要。你可以想象一个完全解构的架构——XPU 在一个系统中，内存在另一个系统中，巨大的 CPU 在另一个系统中。”\n\n这解锁了另一种可能性：今天系统中 CPU 和 XPU/GPU 的比例是固定的，必须在系统构建和部署时定义。但没有两个工作负载需要完全相同的比例，这意味着在任何给定时间，计算或内存的某些部分可能未被充分利用——这要花钱。“但一旦我们将系统分解为独立的计算池和内存池，并且它们都是光学互连的，我们就可以动态组合专用系统，然后针对任何工作负载进行优化。”\n\nMurphy 的终极愿景是“全球光学互连的数据基础设施”：“我们今天拥有的这些系统中的刚性边界开始消失。计算现在可以被池化，内存可以被池化，基础设施可以大规模动态组合。架构师第一次可以开始围绕模型的需求设计 AI 系统，而不是围绕互连的限制。”\n\n他将这个愿景命名为“无距离数据中心”（data center without distance）：“计算、内存、网络和光子学作为一个统一系统运行，数据中心中的数百万资源可以像一台机器一样协同工作，一个由工作负载需求定义的架构，而不是连接性的限制。我们相信这是计算基础设施的下一个时代，Marvell 正在帮助构建使这一切成为可能的连接基础。”\n\n最后再多说点，\nMarvell的核心竞争力集中在两个细分领域。\n1、定制芯片（ASIC/XPU）设计。 Marvell与博通是全球两大定制AI加速器设计巨头。大厂自研芯片的趋势正在加速——比如微软的Maia 200推理芯片、亚马逊的Trainium系列，背后都有Marvell的参与。TrendForce的预测数据值得留意：2026年定制AI芯片销售增速预计为45%，而同期GPU的增速仅为16%。不是GPU不行，而是超大规模云厂商在推理端的成本压力正在推动它们加速自研定制方案。\n\n2、数据中心互连产品线。 这是Marvell更深的一条护城河。根据其财报，光学互连产品收入保持两位数季度环比增长，数据中心交换机业务预计2027财年将突破5亿美元。Marvell过去十年通过一系列并购累计投入约360亿美元，围绕连接搭建了涵盖定制芯片、高速交换器、光模块、硅光子和先进封装的完整技术平台。",
-      "contentHtml": "老黄点名了下一个将达到万亿美金市值的公司，相比这个Murphy（MRVL的CEO）今天演讲以及他与来黄的对话更值得一看。Murphy用近一个小时的时间，系统阐述Marvell如何押注数据基础设施、为什么光互联将成为AI时代的关键技术，以及这场从铜缆到光纤的转型将如何重塑整个数据中心架构，看完murphy的演讲，相信能对光互联的技术演化有更深的理解和认识，梳理下Murphy的演讲要点：\n1、十年豪赌：如何成为数据中心之王\nMurphy演讲从一段自我剖白开始。2014年加入Marvell 时，这家公司60%的收入来自消费电子市场，数据中心业务占比不到10%。也正是在那个时刻，他做出了一个大胆的判断——半导体行业的下一个增长周期，将由 Google、Amazon、Microsoft、Meta 等平台公司驱动，核心需求是“以大规模移动、存储、处理和保护数据的半导体技术”。\n\n这个判断在当时并不被广泛认可。“数据基础设施”甚至还不是一个被行业承认的市场类别，只是 Marvell 用来描述未来愿景的内部术语。但 Murphy 和他的团队展现了惊人的执行力：通过一系列精准的并购和剥离，Marvell 在十年间投入了约285亿美元（225亿美元收购+60亿美元内部研发-40亿美元资产剥离），系统性地构建了从毫米到千公里、覆盖 AI 基础设施全栈的连接技术平台。\n\n这些并购包括2018年收购 Cavium 强化计算和网络能力；2019年收购 Avera 建立定制芯片业务、收购 Aquantia 增强连接产品组合；\n2021年以100亿美元收购 Inphi 获得世界级数据中心连接技术；\n以及最近12个月内收购 Celestica AI 的光子结构技术和 Xcon 的 scale-up 交换能力。\n\n结果是惊人的：Marvell 从2014年的25亿美元营收增长到2026财年预计的110亿美元，最近几年增速更是达到每年40%。根据上周财报电话会议后的华尔街共识预期，2027财年 Marvell 营收将达到164亿美元。更关键的是，数据中心业务占比已从不到10%飙升至上季度的75%以上。\n\n2、连接性：AI 基础设施的真正瓶颈\nMurphy 在演讲中抛出了一个核心问题：什么定义了 AI 基础设施的性能？大多数人会想到处理器、GPU、制程节点（3nm、2nm 甚至未来的1.4nm、1.6nm），或者高带宽内存。这些当然重要，但 Murphy 指出，这些都不是系统的决定性特征。\n\n“因为一个处理器，无论它有多快、连接了多少内存，对于今天的 AI 工作负载来说根本不够。你需要数万个、最终是数百万个处理器作为一个单一的大规模计算引擎协同工作。这就是为什么这种规模的计算从根本上是一个连接性挑战。”Murphy 说道，“而且越来越多地，正是连接性的架构和特性定义了系统的性能。”\n\n这个判断得到了英伟达 CEO 黄仁勋的呼应。在 Murphy 邀请下登台的黄仁勋强调，AI Agent 的计算模式是“分解和分布式的”（disaggregated and distributed）——当你把一个计算问题分解成许多部分，并分布到整个数据中心时，连接性就成为必需品。“我们分解和分布式计算，使其运行在这些巨大的集群上，这样我们就能聚合总计算量、总内存和总带宽。而使这一切成为可能的，就是连接性。”黄仁勋说，“这就是为什么 Matt 做得这么好，为什么 Marvell 如此关键。”\n\nMurphy 进一步解释了连接性瓶颈的演变逻辑：过去几年，AI 基础设施先后解决了计算瓶颈（英伟达引领的 GPU 革命）和内存瓶颈（HBM 高带宽内存的规模化），现在瓶颈正在再次转移。“现在是连接性将定义基础设施的极限，就像计算和内存一样。”他引用了与最大客户的对话：“世界上最大的超大规模云服务商现在正在重新构想他们的整个网络架构。他们认识到，扩展 AI 基础设施现在首先是一个连接性挑战。”\n\n随着推理模型、专家混合架构（mixture of experts）、生成式 AI 的持续演进，更多数据必须在基础设施中移动，需要更高的带宽和更低的延迟。当工作负载不再适合单个数据中心时，就需要建设更大的数据中心或整个数据中心园区，以及它们之间的所有高速连接。“因此，连接性成为扩展计算的关键推动力，我们的客户越来越认识到光学是前进的方向。”Murphy 说。\n\n3、从千公里到毫米：Marvell 的全栈连接布局\nMurphy 用一张图展示了 AI 基础设施跨越的所有距离——从数据中心之间的数百甚至上千公里，到封装内部的毫米级距离。每一个距离都需要不同的解决方案、不同的技术、不同的工程团队，甚至不同的供应链。“这些不是同一问题的变体，而是根本不同的工程挑战。”\n\n1）跨数据中心连接（数百至上千公里）\n这需要非常专门的相干调制（coherent modulation）技术，核心是专用的数字信号处理器（DSP）。Marvell 是全球少数几家能够构建这种相干 DSP 的公司之一，已经领导了从100Gbps 到400Gbps 再到800Gbps 的代际演进。Murphy 在现场展示了一个相干光模块实物——这是一个极其复杂的工程产品，包含了 Marvell 最复杂的先进制程 CMOS DSP 芯片、第四代硅光子技术（已量产十年），以及用硅锗工艺设计的自研宽带模拟组件。“今年晚些时候，我们将采样世界上首个1Tbit、2nm 制程的相干光学解决方案。”Murphy 宣布。\n\n2）数据中心内部连接（数百米）\n数据中心内部包含成排的计算服务器，每个机架顶部通常有一个交换机，机架级交换机连接到脊柱和核心交换机，通过光纤电缆形成整个数据中心的网络结构。这部分使用的是更节能的 PAM4调制技术。Marvell 构建了业界领先的 PAM4 DSP 解决方案，以及高速模拟组件（包括跨阻放大器 TIA 和激光驱动器），并引领了从25Gbps、100Gbps、200Gbps、400Gbps 到800Gbps 的每一次重大转型。去年，Marvell 开始量产业界领先的1.6Tbps PAM4解决方案。在以太网交换方面，Marvell 拥有从51.2Tbps 到51.2Tbps 的完整产品组合，并在 ComputeX 当天宣布了专为 AI 数据中心设计的新一代102.4Tbps 以太网交换机，具有业界最低功耗。\n\n3、机架内部连接\n目标是以全互联（any-to-any）配置连接尽可能多的处理器——每个处理器都能直接与其他每个处理器通信。英伟达的 NVLink 72（因机架内连接72个 GPU 而得名）首次将这种架构推向市场。这需要完全不同的交换类别，以及通过机架内铜背板驱动超高速信号的能力。“今天，这不是光学的领域，这是铜的领域。”Murphy 说。核心差异化因素是电气 SerDes 技术而非光学。Marvell 拥有目前领先的200Gbps 电气 SerDes，并已在过去几年中演示了面向未来的400Gbps 技术，这些 SerDes 被集成到客户的定制芯片、XPU 以及 Marvell 自己的 scale-up 交换机中。\n\n4）封装内部连接（毫米级）\n当今最先进的芯片内部有多个 chiplet，2.5D 或3D 封装本质上是一种连接技术，允许这些 chiplet 在封装内非常靠近地放置，并通过超高速短距离 die-to-die 接口通信。Marvell 拥有领先的 die-to-die SerDes 和先进封装能力，使客户能够构建业界最复杂、最独特的多 die 芯片。\n\nMurphy 强调，拥有所有这些能力“在一个屋檐下”是不寻常的、独特的。“当我们去竞争时，通常在每个类别中我们面对的是不同的竞争对手。但这就是我们的独特之处——我们是一站式商店，是整个连接堆栈的领导者。”\n\n4、铜墙将移：光互联的物理必然性\nMurphy 演讲的核心洞察集中在一个概念上：铜墙（Copper Wall）。他用一张图清晰地展示了当前 AI 基础设施中的连接分界线——左侧是光学连接（使用光纤电缆传输光信号，两端有复杂的电子设备驱动和调制激光），右侧是电气连接（使用铜缆、PCB 上印刷的铜走线，或封装内部的微观铜布线）。中间是“铜墙”，定义了信号在必须转向光学连接之前可以通过铜传输的最长距离。\n\n“这是一个重要的区别，因为铜很简单、成本低，正如 Jensen 所说，你想尽可能长时间地使用它，这非常实用。但光学更复杂，需要激光器、光子学、复杂的电子设备。”Murphy 说，“而铜墙，我今天要告诉你们的是，它即将移动。它将再次移动，并将接管机架本身。这正在为光学行业创造需求的爆炸式增长。”\n\n这不是偏好问题，而是物理定律。信号通过铜缆传输的距离与带宽成反比——每次带宽翻倍，距离就必须减半。Murphy 给出了具体数据：当今世界上最高速的生产系统运行在每通道200Gbps。在这个带宽下，电缆长度限制在大约1.5米。相比之下，100Gbps 系统可以使用约3米的电缆。而机架的高度约为2米，考虑到机架内部的所有布线，2.5米正好是极限。“所以当我们转向1.6Tbps 时，我们不能再用铜完全连接机架了。墙正在移动，而且是现在。”\n\nMurphy 强调，这不是遥远的未来：“今后，即使是机架内的连接也将变成光学的。整个行业都知道这一点即将到来，所以我们一直在为这一刻做准备——不仅仅是 Marvell，而是整个行业。你可以在台湾看到这一点，在供应链和正在发生的产能爬坡中。”\n\n铜墙每向右移动一步，连接数量至少增加一个数量级。“这正在创造我提到的需求爆炸，光学供应链需要大规模扩展并做好准备。”Murphy 回顾了20年前的类似转型：当时数据中心内部的最先进技术是10Gbps，整个数据中心都使用铜缆，光学基本上只是电信技术，保留用于非常长的距离。但当墙移动时，光学行业迎接了挑战，今天世界上所有的超大规模数据中心都是光学连接的。这次转型催生了新的解决方案——针对数据中心内部优化的 PAM4技术，而 Marvell 是那里的关键创新者之一。\n\n5、CPO：光互联的下一个前沿\n当光学进入机架内部时，需要的新技术叫做共封装光学（Co-Packaged Optics, CPO）。Murphy 花了相当篇幅详细阐述这一技术：“CPO 是一种将光学连接一直带到封装本身、紧邻计算的技术，无论是定制计算还是交换芯片。”\n\nCPO 要解决的根本挑战是密度和功耗。机架内的连接数量是机架之间连接数量的10倍。“如果我们只是尝试使用数据中心机架间使用的相同光学技术，你不会有足够的功率，不会有足够的物理空间，无法容纳所有这些标准光学模块和电缆——这根本行不通，不可能。”Murphy 解释道。\n\nCPO 的概念是将光纤直接带到封装，将驱动光纤信号的电子设备与定制计算或交换芯片紧密耦合。“这是一个巨大的变化，而且很难，因为你要结合芯片行业中一些最先进的技术：领先制程 CMOS、硅光子学、先进封装、光互连，所有这些都在一个小型紧密集成的系统中制造。复杂性非常高，但这是继续扩展带宽并克服我谈到的铜限制同时降低功耗的唯一方法。”\n\nMurphy 强调这不是未来主义的东西，而是正在发生的现实。他在现场进行了实物展示：一边是传统的以太网交换机——当天宣布的102.4Tbps Teralink 交换机，可以看到板中央的交换芯片，PCB 内部的铜走线将信号传输到前面板，所有光学模块都插在那里。另一边是基于 CPO 的交换机——封装中央仍然是交换芯片（51.2Tbps 交换机），但边缘周围是16个3.2Tbps 光学引擎。“16乘以3.2，你得到51.2Tbps。所以光纤现在直接连接到这些引擎，而不是前面板。我们完全消除了 PCB 上的铜走线。光直接从封装中出来。这是一个非常非常复杂的工程作品。”Murphy 说。\n\nMarvell 为 CPO 投入了十多年：硅光子学、光学 DSP、所有周围的模拟宽带组件，以及实现这一切所需的所有先进封装。“这一切实际上都需要在 CPO 中汇聚。”Murphy 说。\n\n6、英伟达的背书与 NVLink Fusion 合作\nMurphy 特别强调了与英伟达的战略合作扩展。几个月前宣布的合作中，英伟达向 Marvell 投资了10亿美元，双方正在扩展跨多个维度的合作，包括光学、光子学和 NVLink Fusion。黄仁勋亲自登台与 Murphy 对话，这本身就是一个强有力的信号。\n\n黄仁勋详细解释了 NVLink Fusion 的战略意义：“有时候，也许云服务提供商想要设计自己的定制芯片。在我们之间，我们也在 NVLink Fusion 上合作，这使得你可以使用相同的系统架构，内部有 Marvell 的一些半定制芯片、大量互连、硅光子和光学技术。我们可以创建一个本质上分解、分布和异构的数据中心。”\n\n关键是系统架构保持一致。“他们的网络技术可以利用大量英伟达的堆栈。CPU 可以是 Vera，但它可以利用大量你们的堆栈。所以 NVLink Fusion 是关于采用英伟达的技术和我们的平台、Marvell 的技术和平台，然后我们融合它。这就是为什么它被称为 fusion。”黄仁勋说。\n\nMurphy 追问了铜到光学的转型时间表。黄仁勋的回答非常务实：“我们应该尽可能长时间地使用铜，但铜有其限制——带宽和距离的限制。所以最终正确的策略是：尽可能长时间地用铜进行 scale up。之后，用光学进一步 scale up，用光学 scale out，用光学跨越连接。所以你在必须的地方使用光学，在可以的地方使用铜。”\n\n但黄仁勋随即给出了乐观的市场预测：“底线是，在未来五到十年，我们将使用大量的铜，也将使用大量大量的光学。这些数据中心现在是基础设施的一部分。我说 AI 现在有用、有用的 AI 已经到来的原因是，现在 AI 是有利可图的，token 是有利可图的。当 token 生产有利可图时，每个人都想制造更多 token，这就是为什么 Marvell 的需求如此之高，我们的需求也如此之高。因为每个人都想生产更多 token，因为它被 Agent 到处使用。”\n\n7、无距离数据中心：光互联的终极愿景\nMurphy 在演讲的最后部分描绘了一个激进的未来愿景：他当数据传输全部变成光学时，距离实际上不再重要。“这是一个深刻的变化。”说。\n\n今天的服务器、机架和整体数据中心架构都是围绕距离的约束设计的，软件工作负载也围绕这些相同的约束进行了优化。但如果距离不再重要呢？\n\n首先，scale-up 网络的规模可以从72个或144个 XPU/GPU 扩展到1000个或更多，全部光学互连。“对工作负载的影响是巨大的。今天，AI 工作负载必须分解成适合 scale-up 集群的更小子问题，因为在集群外部通信今天更慢、带宽低得多。但光学互连系统可以管理数量级更大的工作负载。”\n\n其次，服务器本身可以被解构。现代 AI 服务器由一定数量的 CPU、XPU、内存和网络接口组成，它们都在同一系统上的原因是距离——CPU 和 XPU 需要以非常高的带宽访问内存，这意味着它们需要紧挨着坐在板上，铜走线作为它们之间的连接。“但在这些连接都是光学的未来，距离实际上不重要。你可以想象一个完全解构的架构——XPU 在一个系统中，内存在另一个系统中，巨大的 CPU 在另一个系统中。”\n\n这解锁了另一种可能性：今天系统中 CPU 和 XPU/GPU 的比例是固定的，必须在系统构建和部署时定义。但没有两个工作负载需要完全相同的比例，这意味着在任何给定时间，计算或内存的某些部分可能未被充分利用——这要花钱。“但一旦我们将系统分解为独立的计算池和内存池，并且它们都是光学互连的，我们就可以动态组合专用系统，然后针对任何工作负载进行优化。”\n\nMurphy 的终极愿景是“全球光学互连的数据基础设施”：“我们今天拥有的这些系统中的刚性边界开始消失。计算现在可以被池化，内存可以被池化，基础设施可以大规模动态组合。架构师第一次可以开始围绕模型的需求设计 AI 系统，而不是围绕互连的限制。”\n\n他将这个愿景命名为“无距离数据中心”（data center without distance）：“计算、内存、网络和光子学作为一个统一系统运行，数据中心中的数百万资源可以像一台机器一样协同工作，一个由工作负载需求定义的架构，而不是连接性的限制。我们相信这是计算基础设施的下一个时代，Marvell 正在帮助构建使这一切成为可能的连接基础。”\n\n最后再多说点，\nMarvell的核心竞争力集中在两个细分领域。\n1、定制芯片（ASIC/XPU）设计。 Marvell与博通是全球两大定制AI加速器设计巨头。大厂自研芯片的趋势正在加速——比如微软的Maia 200推理芯片、亚马逊的Trainium系列，背后都有Marvell的参与。TrendForce的预测数据值得留意：2026年定制AI芯片销售增速预计为45%，而同期GPU的增速仅为16%。不是GPU不行，而是超大规模云厂商在推理端的成本压力正在推动它们加速自研定制方案。\n\n2、数据中心互连产品线。 这是Marvell更深的一条护城河。根据其财报，光学互连产品收入保持两位数季度环比增长，数据中心交换机业务预计2027财年将突破5亿美元。Marvell过去十年通过一系列并购累计投入约360亿美元，围绕连接搭建了涵盖定制芯片、高速交换器、光模块、硅光子和先进封装的完整技术平台。",
-      "publishedAt": "2026-06-02T07:57:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2061718814254100559",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJysH-ja4AAddgz.png"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "“我们的数据中心业务燃爆了”，“订单异常强劲”，这是MRVL的CEO在财报电话会上的原话，记录下电话会上值得重视的要点：\n1、连续多个季度上调指引\n1）Q2指引方面，公司预计营收约27亿美元（上下浮动5%），同比增长约35%，高于分析师此前预期的26亿美元\n\n2）Marvell将2027财年营收预期上调至约115亿美元，同比增长约40%。三个月前，公司给出的指引是“接近110亿美元”\n\n2、数据中心业务增速在加速\n1）Q1数据中心营收18.3亿美元，同比增长27%，环比增长11%，占总营收76%。\nMarvell对这块业务的增速预测是：\nFY2026：+46%（已实现）\nFY2027：约+50%\nFY2028：约+55%\n\n2）互联业务\nAI数据中心互联（Interconnect）业务是Marvell数据中心业务中体量最大的部分，覆盖光学互联、DCI模块、相干光等产品线。\n\n这个业务的年度增速预期，在过去几个季度里被连续上调：去年9月前后约为30%，之后上调至50%，如今再度上调至超过70%。\n\nCEO的原话是“Murphy在被分析师追问时直接说：\n我认为这里存在大量向上偏的可能性。我们的传统DSP业务明年将有大幅跃升，1.6T产品线是更高价值的内容，DCI在加速，还有retimer、AEC这些新业务，以及规模化上行光学（scale-up optics）……这是我们一个重大增长周期的开始。”\n\n3、定制芯片\nFY2027定制芯片营收：同比增长超20%\nFY2028定制芯片营收：预计同比翻倍，高于上季度预期\nFY2029目标：超过100亿美元（此前目标为约80亿美元）\n\n这意味着FY2028定制芯片营收在40亿美元以上，然后到FY2029跳升至100亿美元，也就是单年增量超50至60亿美元。\n\n4、与英伟达扩大合作，三大方向落地Marvell宣布与英伟达扩大战略合作，电话会上详细介绍了三个核心方向：\n1）光学互联合作：Marvell长期为英伟达提供DSP、TIA和驱动器，双方现在进一步合作开发硅光子技术，这被认为是纵向扩展（scale-up）网络的关键使能技术。\n\n2）NVLink Fusion集成：允许Marvell构建能与英伟达基础设施无缝对接的自定义芯片和网络半导体。Murphy表示，这为超大规模云厂商提供了更大的灵活性，可以在自定义芯片和英伟达芯片之间自由混搭，\"Marvell独特地提供了这两种架构之间的桥梁\"，并将为双方创造新的市场机会。\n\n3）AI-RAN：Marvell将增强其Octeon基站处理器，使其能与英伟达 GPU直接协同工作，在同一硬件平台上同时运行5G/6G无线工作负载和AI应用。\n\n除了之前市场公认的联接/光互连、定制芯片两大业务板块之外，现在又多了一个AI-ran的边缘计算业务。",
-        "contentHtml": "“我们的数据中心业务燃爆了”，“订单异常强劲”，这是MRVL的CEO在财报电话会上的原话，记录下电话会上值得重视的要点：\n1、连续多个季度上调指引\n1）Q2指引方面，公司预计营收约27亿美元（上下浮动5%），同比增长约35%，高于分析师此前预期的26亿美元\n\n2）Marvell将2027财年营收预期上调至约115亿美元，同比增长约40%。三个月前，公司给出的指引是“接近110亿美元”\n\n2、数据中心业务增速在加速\n1）Q1数据中心营收18.3亿美元，同比增长27%，环比增长11%，占总营收76%。\nMarvell对这块业务的增速预测是：\nFY2026：+46%（已实现）\nFY2027：约+50%\nFY2028：约+55%\n\n2）互联业务\nAI数据中心互联（Interconnect）业务是Marvell数据中心业务中体量最大的部分，覆盖光学互联、DCI模块、相干光等产品线。\n\n这个业务的年度增速预期，在过去几个季度里被连续上调：去年9月前后约为30%，之后上调至50%，如今再度上调至超过70%。\n\nCEO的原话是“Murphy在被分析师追问时直接说：\n我认为这里存在大量向上偏的可能性。我们的传统DSP业务明年将有大幅跃升，1.6T产品线是更高价值的内容，DCI在加速，还有retimer、AEC这些新业务，以及规模化上行光学（scale-up optics）……这是我们一个重大增长周期的开始。”\n\n3、定制芯片\nFY2027定制芯片营收：同比增长超20%\nFY2028定制芯片营收：预计同比翻倍，高于上季度预期\nFY2029目标：超过100亿美元（此前目标为约80亿美元）\n\n这意味着FY2028定制芯片营收在40亿美元以上，然后到FY2029跳升至100亿美元，也就是单年增量超50至60亿美元。\n\n4、与英伟达扩大合作，三大方向落地Marvell宣布与英伟达扩大战略合作，电话会上详细介绍了三个核心方向：\n1）光学互联合作：Marvell长期为英伟达提供DSP、TIA和驱动器，双方现在进一步合作开发硅光子技术，这被认为是纵向扩展（scale-up）网络的关键使能技术。\n\n2）NVLink Fusion集成：允许Marvell构建能与英伟达基础设施无缝对接的自定义芯片和网络半导体。Murphy表示，这为超大规模云厂商提供了更大的灵活性，可以在自定义芯片和英伟达芯片之间自由混搭，\"Marvell独特地提供了这两种架构之间的桥梁\"，并将为双方创造新的市场机会。\n\n3）AI-RAN：Marvell将增强其Octeon基站处理器，使其能与英伟达 GPU直接协同工作，在同一硬件平台上同时运行5G/6G无线工作负载和AI应用。\n\n除了之前市场公认的联接/光互连、定制芯片两大业务板块之外，现在又多了一个AI-ran的边缘计算业务。",
-        "link": "https://x.com/qinbafrank/status/2060037239120511305"
       },
       "stats": {
         "replies": 0,
