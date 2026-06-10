@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T18:21:50.893Z",
+  "lastUpdated": "2026-06-10T19:23:01.901Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,54 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 650,
+    "newFetched": 647,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2064782408835338516",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "对市场流动性有威胁的事情（7月19日前生效）\n\n1. 伊朗（第37次调停失败）\n2. 世界杯（历史上最大、时间最长）\n3. SOX费城半导体指数调仓（数百亿美金头部半导体、AI的被动卖盘）\n4. 历史上最大IPO—SpaceX 市场将需要资金自然挤压流动性\n5. 市场过高的杠杆（主要集中在MU上\n6. FOMC点阵图（CPI）",
+      "contentHtml": "对市场流动性有威胁的事情（7月19日前生效）\n\n1. 伊朗（第37次调停失败）\n2. 世界杯（历史上最大、时间最长）\n3. SOX费城半导体指数调仓（数百亿美金头部半导体、AI的被动卖盘）\n4. 历史上最大IPO—SpaceX 市场将需要资金自然挤压流动性\n5. 市场过高的杠杆（主要集中在MU上\n6. FOMC点阵图（CPI）",
+      "publishedAt": "2026-06-10T18:51:00.000Z",
+      "link": "https://x.com/octopusycc/status/2064782408835338516",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064777106698195283",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "这个图很清楚了",
+      "contentHtml": "这个图很清楚了",
+      "publishedAt": "2026-06-10T18:29:00.000Z",
+      "link": "https://x.com/octopusycc/status/2064777106698195283",
+      "quote": {
+        "username": "alpha101xyz",
+        "displayName": "阿尔法",
+        "content": "AI硬件需求正在扩散到CPU服务器、企业主机、存储、HDD、NAND、电源散热、ODM/EMS、分销渠道\n\nTL:DR:  \n最值得关注 $STX、 $WDC、 $SNDK\nAI数据爆炸 + 供给情况 + 定价权 + 自由现金流\n其次关注 $FLEX、 $CLS、  $DOCN、 $DELL、 $HPE、 $IBM\nAI基础设施扩散的核心受益者，尤其是电力/散热/rack-scale/传统服务器复兴\n\n从整个ai生态的需求扩散角度，分析结构可以分成三层：\nLayer1：GPU / HBM / AI rack\nLayer2：CPU服务器 / 企业主机 / 存储 / HDD / NAND\nLayer3：电源散热 / 网络交换 / ODM-EMS / 分销渠道\n因为第一层已经本分析烂了，咱们重点看二层和三层\n\nHDD可能是最被低估的AI瓶颈\n$STX / $WDC 需求高于供应、客户提前一年下单、供应承诺延伸到2028-2029、容量增长靠areal density而非盲目扩产、FCF接近$1bn/季\n\nAgentic AI让CPU和传统服务器重新吃香\nAgent执行任务、管理流程、编排工作流，需要大量顺序处理和企业本地基础设施。相关代码有 $DELL、 $HPE、  $IBM、 $NTNX \n\nAI PC短期没有那么香\n$HPQ 的AI PC路线有叙事，但报告明确说短期财务贡献有限，组件成本压力更现实，AI PC占比可能要超过出货一半后才更明显改善利润\n\n分销商和EMS是卖铲子的人的铲子\n$FLEX、  $CLS、 $ARW、 $AVT 受益于客户需要供应链管理、库存可见度、长交期协调、电力/液冷/机架/网络互联一体化交付",
+        "contentHtml": "AI硬件需求正在扩散到CPU服务器、企业主机、存储、HDD、NAND、电源散热、ODM/EMS、分销渠道\n\nTL:DR:  \n最值得关注 $STX、 $WDC、 <a href=\"/search?f=tweets&q=%23SNDK\">$SNDK</a>\nAI数据爆炸 + 供给情况 + 定价权 + 自由现金流\n其次关注 $FLEX、 $CLS、  $DOCN、 $DELL、 $HPE、 <a href=\"/search?f=tweets&q=%23IBM\">$IBM</a>\nAI基础设施扩散的核心受益者，尤其是电力/散热/rack-scale/传统服务器复兴\n\n从整个ai生态的需求扩散角度，分析结构可以分成三层：\nLayer1：GPU / HBM / AI rack\nLayer2：CPU服务器 / 企业主机 / 存储 / HDD / NAND\nLayer3：电源散热 / 网络交换 / ODM-EMS / 分销渠道\n因为第一层已经本分析烂了，咱们重点看二层和三层\n\nHDD可能是最被低估的AI瓶颈\n<a href=\"/search?f=tweets&q=%23STX\">$STX</a> / <a href=\"/search?f=tweets&q=%23WDC\">$WDC</a> 需求高于供应、客户提前一年下单、供应承诺延伸到2028-2029、容量增长靠areal density而非盲目扩产、FCF接近$1bn/季\n\nAgentic AI让CPU和传统服务器重新吃香\nAgent执行任务、管理流程、编排工作流，需要大量顺序处理和企业本地基础设施。相关代码有 $DELL、 $HPE、  $IBM、 <a href=\"/search?f=tweets&q=%23NTNX\">$NTNX</a> \n\nAI PC短期没有那么香\n<a href=\"/search?f=tweets&q=%23HPQ\">$HPQ</a> 的AI PC路线有叙事，但报告明确说短期财务贡献有限，组件成本压力更现实，AI PC占比可能要超过出货一半后才更明显改善利润\n\n分销商和EMS是卖铲子的人的铲子\n$FLEX、  $CLS、 $ARW、 <a href=\"/search?f=tweets&q=%23AVT\">$AVT</a> 受益于客户需要供应链管理、库存可见度、长交期协调、电力/液冷/机架/网络互联一体化交付",
+        "link": "https://x.com/alpha101xyz/status/2064626972181835998",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKcD8OOXYAAZrF6.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2064770147160895754",
       "username": "taresky",
@@ -11801,49 +11844,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2062551023710048556",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "iamai兄提到了一个非常好的话题、值得深度探讨下。个人角度粗浅理解，如果AI能大幅度促进货币流通速度，那意味着有一个情景大概率是实现了：就是智能经济体或者机器经济时代真的到来了。\n\nAI对货币流通速度的影响，这里直接指向经济学经典公式MV=PQ（货币数量论）中的 V（货币流通速度）。\n1）V = 货币在一定时期内平均周转的次数（即钱“转得有多快”）。\n2）V越高 → 同样的货币供给（M）就能支撑更大的经济产出（Q）或更高的价格水平（P）。\n\n我理解iamai兄想表达的是：如果AI能让钱在经济里转得更快，那从大环境看，是不是整体情况会更好？\n\n这就回到最开始聊到，如果如果AI能大幅度促进货币流通速度，那意味着有一个情景大概率是实现了：就是智能经济体或者机器经济时代真的到来了。\n\n这意味着\n1）Agent经济里，AI机器人/智能体之间可以瞬间完成交易、支付、结算（摩擦几乎为0）；\n2）自动化金融流程、实时供应链优化、去中介化支付等，都会让钱“转得更快”；\n3）而且在历史上技术革命（如互联网、移动支付）都显著提升过V。\n\n如果V被AI大幅推高，就相当于在不增加M（货币供给）的情况下，经济活动被放大，这可以：\n1）对冲宏观紧缩压力；\n2（同时让通胀更“良性”（增长驱动而非纯货币驱动）；\n\n这一点可以着重聊聊，新的美联储主席沃什的政策主张里很重要的一点就是他认为AI作为结构性反通胀力量（最核心的乐观解） ，之前这里nitter.net/qinbafrank/status/2048…也有聊过：他反复强调：AI是“我们一生中最具生产力提升的一波”，类似90年代互联网革命，能大幅降低认知成本、提升生产率，让经济“热运行”而不推高通胀。“几乎一切成本都会降低，美国将成为大赢家”。这不是短期借口，而是长期供给侧结构性支撑——生产率爆发为降息和低通胀创造空间。\n\n核心就是技术进步带动生产力大爆发、催动生产效率的提升、本质就是通缩的。\n\n这样会让让AI资本开支带来的“重置风险”没那么可怕。\n\n从这个角度AI对货币流通速度的提振效应，其实也会把宏观经济的天花板往上抬，从一个超长时间周期来看确实可以让整体大盘/经济更值得乐观。",
-      "contentHtml": "iamai兄提到了一个非常好的话题、值得深度探讨下。个人角度粗浅理解，如果AI能大幅度促进货币流通速度，那意味着有一个情景大概率是实现了：就是智能经济体或者机器经济时代真的到来了。\n\nAI对货币流通速度的影响，这里直接指向经济学经典公式MV=PQ（货币数量论）中的 V（货币流通速度）。\n1）V = 货币在一定时期内平均周转的次数（即钱“转得有多快”）。\n2）V越高 → 同样的货币供给（M）就能支撑更大的经济产出（Q）或更高的价格水平（P）。\n\n我理解iamai兄想表达的是：如果AI能让钱在经济里转得更快，那从大环境看，是不是整体情况会更好？\n\n这就回到最开始聊到，如果如果AI能大幅度促进货币流通速度，那意味着有一个情景大概率是实现了：就是智能经济体或者机器经济时代真的到来了。\n\n这意味着\n1）Agent经济里，AI机器人/智能体之间可以瞬间完成交易、支付、结算（摩擦几乎为0）；\n2）自动化金融流程、实时供应链优化、去中介化支付等，都会让钱“转得更快”；\n3）而且在历史上技术革命（如互联网、移动支付）都显著提升过V。\n\n如果V被AI大幅推高，就相当于在不增加M（货币供给）的情况下，经济活动被放大，这可以：\n1）对冲宏观紧缩压力；\n2（同时让通胀更“良性”（增长驱动而非纯货币驱动）；\n\n这一点可以着重聊聊，新的美联储主席沃什的政策主张里很重要的一点就是他认为AI作为结构性反通胀力量（最核心的乐观解） ，之前这里<a href=\"https://nitter.net/qinbafrank/status/2048568392643465426?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2048…</a>也有聊过：他反复强调：AI是“我们一生中最具生产力提升的一波”，类似90年代互联网革命，能大幅降低认知成本、提升生产率，让经济“热运行”而不推高通胀。“几乎一切成本都会降低，美国将成为大赢家”。这不是短期借口，而是长期供给侧结构性支撑——生产率爆发为降息和低通胀创造空间。\n\n核心就是技术进步带动生产力大爆发、催动生产效率的提升、本质就是通缩的。\n\n这样会让让AI资本开支带来的“重置风险”没那么可怕。\n\n从这个角度AI对货币流通速度的提振效应，其实也会把宏观经济的天花板往上抬，从一个超长时间周期来看确实可以让整体大盘/经济更值得乐观。",
-      "publishedAt": "2026-06-04T15:04:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2062551023710048556",
-      "quote": {
-        "username": "iamai_omni",
-        "displayName": "✧ 𝕀𝔸𝕄𝔸𝕀 ✧",
-        "content": "如果考虑 AI 对货币流通速度的影响，您是否认为宏观上来看更加乐观？",
-        "contentHtml": "如果考虑 AI 对货币流通速度的影响，您是否认为宏观上来看更加乐观？",
-        "link": "https://x.com/iamai_omni/status/2062541705107456268"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2062550555889971202",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "看起来股神被我搞得很慌啊，@aleabitoreddit \n$sive被我FUD暴跌之后，\n紧急操盘了一波，又一群傻逼哑巴一周之后高潮。\n上个帖子底下最经典的回复: “他sive几十倍了，而且买了0.5-1%的比例”\n\n好厉害哦，你0.5的时候就知道就好了。\n\n我不懂这和币圈操盘一个小市值山寨有什么区别。还是美股的傻子单纯，早点来币圈上上课吧。\n\n所有SIVE持有者现在都应该感谢我，没有我fud庄早就发货给你们了，怎么可能继续操盘。",
-      "contentHtml": "看起来股神被我搞得很慌啊，<a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a> \n$sive被我FUD暴跌之后，\n紧急操盘了一波，又一群傻逼哑巴一周之后高潮。\n上个帖子底下最经典的回复: “他sive几十倍了，而且买了0.5-1%的比例”\n\n好厉害哦，你0.5的时候就知道就好了。\n\n我不懂这和币圈操盘一个小市值山寨有什么区别。还是美股的傻子单纯，早点来币圈上上课吧。\n\n所有SIVE持有者现在都应该感谢我，没有我fud庄早就发货给你们了，怎么可能继续操盘。",
-      "publishedAt": "2026-06-04T15:02:00.000Z",
-      "link": "https://x.com/yuren477/status/2062550555889971202",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ-i6U6bsAAi6nS.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
