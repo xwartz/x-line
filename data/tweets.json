@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T00:46:32.967Z",
+  "lastUpdated": "2026-06-10T01:43:26.353Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -112,11 +112,79 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 650,
+    "newFetched": 649,
     "successUsers": 32,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2064522071317918060",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "难道说？btw没上车只能看看戏了，不过这成交额倒是不高。",
+      "contentHtml": "难道说？btw没上车只能看看戏了，不过这成交额倒是不高。",
+      "publishedAt": "2026-06-10T01:36:00.000Z",
+      "link": "https://x.com/0xleng1/status/2064522071317918060",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKan4QeacAARieu.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKan4QgaUAAJjbz.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064512879651422255",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "短期鲸鱼积累抵消了市场部分抛售压力\n\n累积趋势得分，反映了过去7天在链上积累BTC的实体的相对规模。评分标准，同时考虑2个因素：1、实体的余额；2、增持/减持的数量。\n\n累积趋势评分越接近 1（蓝色），规模较大的实体整体上正在积累BTC；评分越接近 0（红色），则表明他们正在派发或没有积累。黑线是BTC价格。\n\n我们重点关注的是100-1K和10-100这2个群体，因为这种规模的多是真实买家，而更大规模的有可能是交易所或第三方托管机构。\n\n这2个群体在去年11月和今年2月份，2次都是在BTC经历一轮快速的下跌后突然开始积极的累积筹码（图中虚线圈出）。\n\n抵消了当时市场中的部分抛压，也都起到了缓解作用。\n\n有意思的是 1-10 和 <1 这2个散户群体。如果说10-100的大户们还显得比较谨慎的话，而散户的行为却表现的更积极。\n\n这个体量的钱包，多数是由普通投资者从交易所买完后提币到链上保存而留下的印记。但为什么我的体感，似乎更多人都在等待更低呢？\n\n但数据不会说谎。当情绪感受和数据表现产生偏差时，我会选择相信后者。",
+      "contentHtml": "短期鲸鱼积累抵消了市场部分抛售压力\n\n累积趋势得分，反映了过去7天在链上积累BTC的实体的相对规模。评分标准，同时考虑2个因素：1、实体的余额；2、增持/减持的数量。\n\n累积趋势评分越接近 1（蓝色），规模较大的实体整体上正在积累BTC；评分越接近 0（红色），则表明他们正在派发或没有积累。黑线是BTC价格。\n\n我们重点关注的是100-1K和10-100这2个群体，因为这种规模的多是真实买家，而更大规模的有可能是交易所或第三方托管机构。\n\n这2个群体在去年11月和今年2月份，2次都是在BTC经历一轮快速的下跌后突然开始积极的累积筹码（图中虚线圈出）。\n\n抵消了当时市场中的部分抛压，也都起到了缓解作用。\n\n有意思的是 1-10 和 &lt;1 这2个散户群体。如果说10-100的大户们还显得比较谨慎的话，而散户的行为却表现的更积极。\n\n这个体量的钱包，多数是由普通投资者从交易所买完后提币到链上保存而留下的印记。但为什么我的体感，似乎更多人都在等待更低呢？\n\n但数据不会说谎。当情绪感受和数据表现产生偏差时，我会选择相信后者。",
+      "publishedAt": "2026-06-10T01:00:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2064512879651422255",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKYlwg5bYAAiHNK.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2064511652742246781",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "昨晚因为Semianalysis的报告，哪些是被错杀的？CPO大规模落地被推迟到2027-2028年（其实并不算被推迟，按照测试、性能验证、量产这些节奏时间表本来就要到27-28年，如果是真正深入了解产业逻辑的人应该对此都有预期）。26年光互连领域真正兑现业绩的主力仍是1.6T可插拔光模块（特别是LPO线性直驱版本）和NPO近封装方案。核心逻辑：光模块1.6T及以上需求还是很大，LPO通过去DSP线性直驱降低功耗（相比传统DSP模块降30-50%），NPO则把光引擎拉近ASIC（约2-7cm距离），在保留可维护性的前提下实现接近CPO的性能。 \n\n但是光模块（包含LPO）以及NPO对上游核心器件的依赖度依然是极高的：\n1）激光器/光源（Light Source）：最确定、最直接受益。LPO/NPO都需要高功率、低噪声、阵列化激光（VCSEL用于短距MMF，EML/DFB/外置激光源ELS用于SMF 1.6T+）。CPO也用激光，但LPO/NPO先放量，2026年出货指引直接拉动。Lumentum、Coherent、Broadcom等激光器厂，以及国产InP/VCSEL供应链会率先受益。\n\n2）光芯片（Photonic Chips，包括硅光SiPh、InP基芯片）：硅光调制器、MUX/DEMUX、探测器（PIN/APD）是1.6T模块/NPO光引擎的核心。LPO线性驱动对光芯片线性度要求更高，需求不减反增。硅光集成还能降低材料用量，但整体市场规模扩大。\n\n3）光引擎/子组件封装（Optical Engine Assembly）：TOSA/ROSA、光引擎集成（硅光+激光+探测器）。NPO把光引擎放到板上，更接近模块化封装，量大且技术门槛高。\n\n4）设备（Testing & Fab Equipment）：高密度测试设备（高速眼图测试、探针台、光电耦合测试）需求爆发。伯恩斯坦报告明确提到“测试”将是2026年现实收入来源之一。MOCVD外延生长设备、晶圆级封装/对准设备也因量产爬坡而受益。\n\n5）材料（Materials）：InP衬底（高速激光器/探测器核心）、GaAs衬底（VCSEL）、光学晶体、光纤预制棒等。上游材料供需缺口会随800G/1.6T放量而扩大。ABF（Ajinomoto Build-up Film）和CCL（Copper Clad Laminate）高频基板材料也直接受益——NPO需要高性能PCB/基板承载光引擎，模块内部高频线路也依赖这些。\n\n最被错杀的是：\n 1.6T光模块龙头、LPO/NPO能力强的公司、光源/FAU/测试/PCB/CCL/ABF。\n不算错杀的是：\n 只靠CPO概念、缺少订单、缺少客户验证、没有1.6T或LPO/NPO兑现能力的纯题材股。\n\n简单说就是：\n CPO延期（其实也不算延期，之前部分投资人已经对此有预期了），不是光互连退潮；是光互连投资从“远期想象”切回“2026业绩兑现”。所以真正关注的不是最会讲CPO故事的公司，而是已经在1.6T、LPO/NPO、光源、测试、高速板材里拿订单的公司。这正是伯恩斯坦报告强调的“投资节奏”——买已经兑现现金流、最难绕开的瓶颈，而不是纯故事。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "昨晚因为Semianalysis的报告，哪些是被错杀的？CPO大规模落地被推迟到2027-2028年（其实并不算被推迟，按照测试、性能验证、量产这些节奏时间表本来就要到27-28年，如果是真正深入了解产业逻辑的人应该对此都有预期）。26年光互连领域真正兑现业绩的主力仍是1.6T可插拔光模块（特别是LPO线性直驱版本）和NPO近封装方案。核心逻辑：光模块1.6T及以上需求还是很大，LPO通过去DSP线性直驱降低功耗（相比传统DSP模块降30-50%），NPO则把光引擎拉近ASIC（约2-7cm距离），在保留可维护性的前提下实现接近CPO的性能。 \n\n但是光模块（包含LPO）以及NPO对上游核心器件的依赖度依然是极高的：\n1）激光器/光源（Light Source）：最确定、最直接受益。LPO/NPO都需要高功率、低噪声、阵列化激光（VCSEL用于短距MMF，EML/DFB/外置激光源ELS用于SMF 1.6T+）。CPO也用激光，但LPO/NPO先放量，2026年出货指引直接拉动。Lumentum、Coherent、Broadcom等激光器厂，以及国产InP/VCSEL供应链会率先受益。\n\n2）光芯片（Photonic Chips，包括硅光SiPh、InP基芯片）：硅光调制器、MUX/DEMUX、探测器（PIN/APD）是1.6T模块/NPO光引擎的核心。LPO线性驱动对光芯片线性度要求更高，需求不减反增。硅光集成还能降低材料用量，但整体市场规模扩大。\n\n3）光引擎/子组件封装（Optical Engine Assembly）：TOSA/ROSA、光引擎集成（硅光+激光+探测器）。NPO把光引擎放到板上，更接近模块化封装，量大且技术门槛高。\n\n4）设备（Testing & Fab Equipment）：高密度测试设备（高速眼图测试、探针台、光电耦合测试）需求爆发。伯恩斯坦报告明确提到“测试”将是2026年现实收入来源之一。MOCVD外延生长设备、晶圆级封装/对准设备也因量产爬坡而受益。\n\n5）材料（Materials）：InP衬底（高速激光器/探测器核心）、GaAs衬底（VCSEL）、光学晶体、光纤预制棒等。上游材料供需缺口会随800G/1.6T放量而扩大。ABF（Ajinomoto Build-up Film）和CCL（Copper Clad Laminate）高频基板材料也直接受益——NPO需要高性能PCB/基板承载光引擎，模块内部高频线路也依赖这些。\n\n最被错杀的是：\n 1.6T光模块龙头、LPO/NPO能力强的公司、光源/FAU/测试/PCB/CCL/ABF。\n不算错杀的是：\n 只靠CPO概念、缺少订单、缺少客户验证、没有1.6T或LPO/NPO兑现能力的纯题材股。\n\n简单说就是：\n CPO延期（其实也不算延期，之前部分投资人已经对此有预期了），不是光互连退潮；是光互连投资从“远期想象”切回“2026业绩兑现”。所以真正关注的不是最会讲CPO故事的公司，而是已经在1.6T、LPO/NPO、光源、测试、高速板材里拿订单的公司。这正是伯恩斯坦报告强调的“投资节奏”——买已经兑现现金流、最难绕开的瓶颈，而不是纯故事。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-06-10T00:55:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2064511652742246781",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "晚上都在传Semianalysis的Computex2026参会感受CPO大规模落地要延期，可是伯恩斯坦在5月中旬的报告里就明确说到：云厂商不会为了节能牺牲系统可靠性和可维护性。Bernstein与中际旭创沟通，目前没有云厂商计划在2026-2027年大规模部署CPO。CPO是方向，但2026年真正开始兑现业绩的更可能是LPO/NPO过渡阶段\n2026年更现实的收入在 1.6T、LPO/NPO、光源、测试、PCB、ABF、CCL。光也不会立刻消灭铜，铜也不会永远守住所有场景；不同距离和系统层级会选择不同方案。\n为什么当时拆解这么报告，最关键就是这份报告其实说的是光互连领域的投资节奏。\n如果详细看了伯恩斯坦的报告，就不会对今天Semianalysis感到惊讶和意外",
+        "contentHtml": "晚上都在传Semianalysis的Computex2026参会感受CPO大规模落地要延期，可是伯恩斯坦在5月中旬的报告里就明确说到：云厂商不会为了节能牺牲系统可靠性和可维护性。Bernstein与中际旭创沟通，目前没有云厂商计划在2026-2027年大规模部署CPO。CPO是方向，但2026年真正开始兑现业绩的更可能是LPO/NPO过渡阶段\n2026年更现实的收入在 1.6T、LPO/NPO、光源、测试、PCB、ABF、CCL。光也不会立刻消灭铜，铜也不会永远守住所有场景；不同距离和系统层级会选择不同方案。\n为什么当时拆解这么报告，最关键就是这份报告其实说的是光互连领域的投资节奏。\n如果详细看了伯恩斯坦的报告，就不会对今天Semianalysis感到惊讶和意外",
+        "link": "https://x.com/qinbafrank/status/2064390085403894127"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2064509029632835930",
       "username": "ai_9684xtpa",
@@ -11798,74 +11866,6 @@
           "url": "https://pbs.twimg.com/media/HJ49DtbXcAADO4v.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2062148738509082997",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "消息改变不了趋势\n但是特朗普可以让你爆仓",
-      "contentHtml": "消息改变不了趋势\n但是特朗普可以让你爆仓",
-      "publishedAt": "2026-06-03T12:25:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2062148738509082997",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ45V-2bEAE6umz.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ45V-ybwAALXGH.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2062144111985967486",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "Study. Picasso. 4D Chess. \n\nThe real capitulation is $BTC chopping above $60K for weeks.",
-      "contentHtml": "Study. Picasso. 4D Chess. \n\nThe real capitulation is <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> chopping above $60K for weeks.",
-      "publishedAt": "2026-06-03T12:07:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2062144111985967486",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ40y24XYAAq55X.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "I was right.",
-        "contentHtml": "I was right.",
-        "link": "https://x.com/KillaXBT/status/2061946664928084320"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2062138078844867023",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "好消息，今天套利赚了 6000U。坏消息，今天炒币亏了 10000U。\n有点以贩养吸的意思了。",
-      "contentHtml": "好消息，今天套利赚了 6000U。坏消息，今天炒币亏了 10000U。\n有点以贩养吸的意思了。",
-      "publishedAt": "2026-06-03T11:43:00.000Z",
-      "link": "https://x.com/taresky/status/2062138078844867023",
       "stats": {
         "replies": 0,
         "retweets": 0,
