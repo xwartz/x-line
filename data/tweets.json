@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T14:44:12.174Z",
+  "lastUpdated": "2026-06-13T15:33:37.034Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,9 +109,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 652,
-    "successUsers": 32,
-    "failedUsers": 0
+    "newFetched": 630,
+    "successUsers": 31,
+    "failedUsers": 1
   },
   "tweets": [
     {
@@ -955,31 +955,6 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n我说还是别嘲讽了吧...\n\n那些大户们经过一天的怀疑、紧张、兴奋、愤怒、失望。\n\n心有不甘地睡去。\n\n醒来看着账户里空洞的几百万美金，被退回。\n\n和被动套利账户里，一天多出来几千美金的利息。\n\n感叹人生无常，又是新的一天。\n\n你呢，我的朋友。\n\n热闹看完了，你这么聪明，你的柴砍好了吗？",
       "publishedAt": "2026-06-13T02:48:00.000Z",
       "link": "https://x.com/taresky/status/2065627243423084674",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065611832912445550",
-      "username": "kenwheeler",
-      "displayName": "patagucci perf papi",
-      "avatar": "https://pbs.twimg.com/profile_images/2035341404176883712/QpjLnoFQ_bigger.jpg",
-      "content": "oh no my dicks too big better put me in jail before i hurt somebody with this giant dong. it’s a public safety risk somebody do something.",
-      "contentHtml": "oh no my dicks too big better put me in jail before i hurt somebody with this giant dong. it’s a public safety risk somebody do something.",
-      "publishedAt": "2026-06-13T01:46:00.000Z",
-      "link": "https://x.com/kenwheeler/status/2065611832912445550",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKqHBBbXgAA2P7C.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11854,6 +11829,40 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HKQLGG0a0AAcH6P.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2063824250868543929",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
+      "content": "#BTC 探到红线了",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 探到红线了",
+      "publishedAt": "2026-06-08T03:23:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2063824250868543929",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKQtJVNa8AAWCJW.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【四年周期总刻系列（26）】当前该指标升至 0.65\n\n2014年该指标升至 0.65，91天 后黑线死叉红线\n2018年该指标升至 0.65，94天 后黑线死叉红线\n2022年该指标升至 0.65，98天 后黑线死叉红线\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中上方灰线为 #BTC 价格；黑线为比特币短期持有者（持币约<6个月）平均购币成本；红线为持币6个月-10年持有者平均购币成本\n\n图中下方指标为黑线跟红线之比",
+        "contentHtml": "【四年周期总刻系列（26）】当前该指标升至 0.65\n\n2014年该指标升至 0.65，91天 后黑线死叉红线\n2018年该指标升至 0.65，94天 后黑线死叉红线\n2022年该指标升至 0.65，98天 后黑线死叉红线\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中上方灰线为 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 价格；黑线为比特币短期持有者（持币约&lt;6个月）平均购币成本；红线为持币6个月-10年持有者平均购币成本\n\n图中下方指标为黑线跟红线之比",
+        "link": "https://x.com/0xCryptoChan/status/2037082004315869402",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HEUqo1vbYAA_gcD.jpg"
           }
         ]
       },
