@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T20:56:03.437Z",
+  "lastUpdated": "2026-06-13T21:29:04.411Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,45 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 651,
+    "newFetched": 652,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2065901823144132948",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
+      "content": "The Reason I’m Swing Long on bitcoin:native\n\npiped.video/watch?v=9U0jD7NU…",
+      "contentHtml": "The Reason I’m Swing Long on bitcoin:native\n\n<a href=\"https://piped.video/watch?v=9U0jD7NUVmg\">piped.video/watch?v=9U0jD7NU…</a>",
+      "publishedAt": "2026-06-13T20:59:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2065901823144132948",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HKuOvsTXMAAdaNz.jpg"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "I am officially swing long on $BTC \n\nInvalidation 31950. Target 160,000.\n\nI will see you in 1-2 years from now. \n\nLet the games begin. 🎲",
+        "contentHtml": "I am officially swing long on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nInvalidation 31950. Target 160,000.\n\nI will see you in 1-2 years from now. \n\nLet the games begin. 🎲",
+        "link": "https://x.com/KillaXBT/status/2062592387231166575",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJ_MWkQWAAARR3r.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2065874343687557229",
       "username": "KillaXBT",
@@ -11804,40 +11838,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HJUjMuAbAAA0k3U.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2063873697560301701",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "大的，它来了......\n\nBTC从8.1w跌到现在6.1w，跌幅超20%，1周和1月的IV也分别从当时的低值区回升到60%和47%。\n\n波动开始兑现了。\n\n这次下跌的触发因素是多方面的，但IV在低位时的结构已经埋好了\"引线\"，任何超预期事件进来，放大机制就会自动启动。\n\n后续观察，如果市场定价完毕，短期波动预期回归常态，则市场进入震荡整理的概率更高。\n\n如果IV回升后又再度跌回低值，市场重新陷入\"过度平静\"，那么很可能新一轮波动的引线又在积累了。\n\n这里有一点值得再强调一次：IV从来不预判方向，只预判幅度。",
-      "contentHtml": "大的，它来了......\n\nBTC从8.1w跌到现在6.1w，跌幅超20%，1周和1月的IV也分别从当时的低值区回升到60%和47%。\n\n波动开始兑现了。\n\n这次下跌的触发因素是多方面的，但IV在低位时的结构已经埋好了\"引线\"，任何超预期事件进来，放大机制就会自动启动。\n\n后续观察，如果市场定价完毕，短期波动预期回归常态，则市场进入震荡整理的概率更高。\n\n如果IV回升后又再度跌回低值，市场重新陷入\"过度平静\"，那么很可能新一轮波动的引线又在积累了。\n\n这里有一点值得再强调一次：IV从来不预判方向，只预判幅度。",
-      "publishedAt": "2026-06-08T06:40:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2063873697560301701",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKRY5WdbkAABw1A.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "对！大的，可能快来了......\n\n期权隐含波动率（IV）本质上是市场为对冲未来波动愿意支付的价格。期权卖方在定价时会把对未来一段时间价格波动的预期计入权利金，反推出来就是IV。\n\n所以IV不是预判“方向”，而是预判\"幅度\"。\n\n当前，1周的IV为35.04%，1个月的为37.65%；从图上看，过去5年IV大致在30%–130%之间波动；因此，40%以下属于明显偏低的区间。\n\n然而，有很多次当IV跌破40%后都出现了大行情，这是为什么？\n\n其实这里的因果关系并不是“低IV导致了大波动”，而是下面几个机制共同作用的结果：\n\n1、低IV反映的是市场共识过于一致；意味着主流参与者认为接下来不会有大事。但市场的特性恰恰是当所有人都站在同一边时，任何超出预期的事件都会被放大反应。\n\n2、低IV会吸引特定结构性资金进场；对冲基金的波动率套利策略会持续累积多头头寸。一旦价格开动，做空波动率的一方被迫平仓或对冲，又会反过来放大现货端的波动。\n\n3、做市商的仓位在低IV时往往是short gamma状态，持续越久，累积越深。那么一旦价格突破某个关键行权价区间，做市商就必须顺着方向对冲（涨了买，跌了卖），从而又放大波动。\n\n在历史上，IV跌破40%之后的几次大行情，方向并不固定。但是，我们始终可以将其视为一种“反向指标”，越低意味着后续出现波动的概率越高。\n\n我知道你想问什么，“看多还是看空？”；嗯...不如回去看星星吧（夜观星象）...😂",
-        "contentHtml": "对！大的，可能快来了......\n\n期权隐含波动率（IV）本质上是市场为对冲未来波动愿意支付的价格。期权卖方在定价时会把对未来一段时间价格波动的预期计入权利金，反推出来就是IV。\n\n所以IV不是预判“方向”，而是预判\"幅度\"。\n\n当前，1周的IV为35.04%，1个月的为37.65%；从图上看，过去5年IV大致在30%–130%之间波动；因此，40%以下属于明显偏低的区间。\n\n然而，有很多次当IV跌破40%后都出现了大行情，这是为什么？\n\n其实这里的因果关系并不是“低IV导致了大波动”，而是下面几个机制共同作用的结果：\n\n1、低IV反映的是市场共识过于一致；意味着主流参与者认为接下来不会有大事。但市场的特性恰恰是当所有人都站在同一边时，任何超出预期的事件都会被放大反应。\n\n2、低IV会吸引特定结构性资金进场；对冲基金的波动率套利策略会持续累积多头头寸。一旦价格开动，做空波动率的一方被迫平仓或对冲，又会反过来放大现货端的波动。\n\n3、做市商的仓位在低IV时往往是short gamma状态，持续越久，累积越深。那么一旦价格突破某个关键行权价区间，做市商就必须顺着方向对冲（涨了买，跌了卖），从而又放大波动。\n\n在历史上，IV跌破40%之后的几次大行情，方向并不固定。但是，我们始终可以将其视为一种“反向指标”，越低意味着后续出现波动的概率越高。\n\n我知道你想问什么，“看多还是看空？”；嗯...不如回去看星星吧（夜观星象）...😂",
-        "link": "https://x.com/Murphychen888/status/2053641239778799886",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HH9rRjZb0AABuMH.jpg"
           }
         ]
       },
