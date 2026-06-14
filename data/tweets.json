@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T22:55:56.021Z",
+  "lastUpdated": "2026-06-14T23:28:39.649Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 651,
-    "successUsers": 32,
-    "failedUsers": 0
+    "newFetched": 630,
+    "successUsers": 31,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2066299040619266531",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "Chamath最新All-in里说现在1GW数据中心造价1000亿，半年前我们讨论的是500亿，那么问题来了，大科技愿意支付100%的产品迭代+通胀溢价？我不知道。",
+      "contentHtml": "Chamath最新All-in里说现在1GW数据中心造价1000亿，半年前我们讨论的是500亿，那么问题来了，大科技愿意支付100%的产品迭代+通胀溢价？我不知道。",
+      "publishedAt": "2026-06-14T23:17:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2066299040619266531",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2066283435576946924",
       "username": "KillaXBT",
@@ -9609,31 +9624,6 @@
       "contentHtml": "SpaceX的IPO募资情况大超预期\n\n我们需要重新审视SpaceX IPO\n\n这毕竟是全世界最吸引眼球的Elon Musk的公司",
       "publishedAt": "2026-06-09T20:59:00.000Z",
       "link": "https://x.com/octopusycc/status/2064452346680353023",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064449737521234127",
-      "username": "BigbirdflyChan",
-      "displayName": "Pike时政财经分析",
-      "avatar": "https://pbs.twimg.com/profile_images/1279778716969652224/SSu5a0CJ_bigger.jpg",
-      "content": "【高盛认为未来边缘AI的发展速度，可能取决于NAND和存储】--非常有前瞻性的观点，存储投资者值得一看\n\n高盛认为市场可能误读了苹果。多数人看到WWDC后觉得Siri没突破，大模型不够强，Apple Intelligence进展慢，不看好苹果的本地AI（On-device AI）路线。于是AAPL最近下跌了约3.5%。\n\n但高盛认为真正值得关注的是苹果的技术路线。苹果并没有选择像OpenAI、Anthropic那样不断增加计算资源，而是在尝试一种类似“LLM in a Flash”的架构：把核心模型常驻内存，把大量参数存储在NAND闪存中，需要时再动态调入DRAM。这种模式本质上是用存储替代部分计算，因此高盛提出一个非共识观点，未来边缘AI的发展速度，可能更多取决于NAND和存储，而不是HBM和数据中心GPU。\n\n我的看法：推特的老观众都知道我很看好苹果未来在AI时代终端设备中扮演的角色。苹果正在弱化底层模型的重要性，让开发者通过统一接口在本地模型和云端模型之间自由切换。未来真正有价值的可能不是模型本身，而是分发渠道，生态系统，用户入口，这也是苹果最擅长的领域。",
-      "contentHtml": "【高盛认为未来边缘AI的发展速度，可能取决于NAND和存储】--非常有前瞻性的观点，存储投资者值得一看\n\n高盛认为市场可能误读了苹果。多数人看到WWDC后觉得Siri没突破，大模型不够强，Apple Intelligence进展慢，不看好苹果的本地AI（On-device AI）路线。于是AAPL最近下跌了约3.5%。\n\n但高盛认为真正值得关注的是苹果的技术路线。苹果并没有选择像OpenAI、Anthropic那样不断增加计算资源，而是在尝试一种类似“LLM in a Flash”的架构：把核心模型常驻内存，把大量参数存储在NAND闪存中，需要时再动态调入DRAM。这种模式本质上是用存储替代部分计算，因此高盛提出一个非共识观点，未来边缘AI的发展速度，可能更多取决于NAND和存储，而不是HBM和数据中心GPU。\n\n我的看法：推特的老观众都知道我很看好苹果未来在AI时代终端设备中扮演的角色。苹果正在弱化底层模型的重要性，让开发者通过统一接口在本地模型和云端模型之间自由切换。未来真正有价值的可能不是模型本身，而是分发渠道，生态系统，用户入口，这也是苹果最擅长的领域。",
-      "publishedAt": "2026-06-09T20:49:00.000Z",
-      "link": "https://x.com/BigbirdflyChan/status/2064449737521234127",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKZllFFWoAAuaKZ.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
