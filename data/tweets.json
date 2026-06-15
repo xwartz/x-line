@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T03:07:33.069Z",
+  "lastUpdated": "2026-06-15T05:15:39.047Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,327 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 632,
+    "newFetched": 629,
     "successUsers": 31,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2066388954262438326",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "台湾工商时报说，辉达、谷歌新一代AI资料中心可能率先导入800V HVDC，供应链预期第三季开始小量出货。上周SemiAnalysis一篇认为800VDC大规模出货推迟到2028年，CPO也存在延期风险的报告把AI硬件链吓了一跳。也是上周大摩很快出来回应：CPO短期节奏可以更谨慎，但不认同800V量产推迟到2028年。其供应链调研显示，800V机柜仍按计划在2026年下半年推进。\n\n今天工商时报的报道相当于又给加了一码。",
+      "contentHtml": "台湾工商时报说，辉达、谷歌新一代AI资料中心可能率先导入800V HVDC，供应链预期第三季开始小量出货。上周SemiAnalysis一篇认为800VDC大规模出货推迟到2028年，CPO也存在延期风险的报告把AI硬件链吓了一跳。也是上周大摩很快出来回应：CPO短期节奏可以更谨慎，但不认同800V量产推迟到2028年。其供应链调研显示，800V机柜仍按计划在2026年下半年推进。\n\n今天工商时报的报道相当于又给加了一码。",
+      "publishedAt": "2026-06-15T05:14:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2066388954262438326",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK1JzCWaoAAz64s.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK1JzCWaQAAVkOH.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "AI数据中心电力上的关键环节：800VHDC，今天在这里nitter.net/qinbafrank/status/2057…聊到大摩拆解VR200NVL72提到，大摩预计800V直流电将在2027年下半年推出的Rubin Ultra平台上得到大规模采用。其实800VHDC并不是全新概念，自从英伟达去年说要推直流供电架构后，市场对此的关注度其实挺高的，这个板块的相关的标的已经炒过一博预期了。但实际上800V直流电在下半年才真正大规模采用，值得关注。聊下几方面的问题：\n\n1、800V HVDC架构是什么？\n传统高密度AI rack的路径大致是：电网中压AC → 变压器/UPS/PDU → 415/480VAC到机架 → 机架内PSU转54VDC/12VDC → GPU核心电压。\n\n达子的800VDC愿景则是：在数据中心边界/电力室把中压AC集中转换成800VDC，用800V DC busway送到IT rack，再在靠近GPU的位置用高比率DC/DC转换。NVIDIA称，54V架构在200kW以上开始撞上物理限制；1MW rack如果继续用54V，单rack铜排最高可能需要约200kg铜，而800V架构通过减少电流、减少转换级数、减少机架内PSU，目标是提升效率、降低铜耗、释放机架空间。\n\n它不是简单的电压升级，也不是“发明了直流供电”，而是AI数据中心供电架构的一次平台级切换，是对整个电力交付架构的系统性重构，旨在解决传统48V/54V机架电源的瓶颈（空间受限、铜缆过载、多级转换损耗高），支持单机架功率从数百kW跃升至1MW+，并为未来GW级AI工厂铺路。\n\n2、800V HVDC的意义和革命性是什么？\n1）首先自然是效率和空间布局\n效率提升：从电网到GPU的转换环节大幅减少，整体能效可提升从以前90%能大幅度提高到98.5%以上传输损耗显著降低，TCO（总拥有成本）降低可达30%\n空间与密度优化：减少铜缆用量和电源单元体积，机架内计算空间利用率提升超80%，支持更高密度GPU集群\n\n2）800V不是单一器件升级，而是生态重构：中央整流、800V DC busway、固态断路器、热插拔保护、sidecar/power rack、BBU/CBU、超容/电池储能、DC/DC、GaN/SiC、液冷都要协同。NVIDIA也明确说需要OCP等组织推动电压范围、连接器、安全标准。\n\n如果大家有关注过新能源汽车产业链，应该有影响这两年国内电动车厂商都在推的“快充”基本上就是800V高压直流充电。现在达子正在把800VDC变成下一代AI rack标准化路线的一部分，所以一部分原来给新能源汽车充电产业链上的关键环节，又开始外溢到AI数据中心上了。\n\n3、800V HVDC空间有多大？\n要看大背景，AI数据中心整体市场从2025年约3440亿美元增长至2032年超2万亿美元（CAGR 27.5%）。 功率基础设施将成为AI建设的核心瓶颈与增长点，NVIDIA的标准将加速 hyperscaler采用，带动固态变压器、GaN/SiC功率器件等子市场爆发。 \n\n2027年后，>300kW/rack、尤其是400kW-1MW rack的AI zones中，800VDC或类似HVDC架构渗透率快速提升。若未来新增AI容量中有30%-60%采用高压DC架构，并且每MW对应的核心800V电力链价值量在几十万到数百万美元区间，累计空间就会进入百亿美元到千亿美元级。\n\n当然这个预测区间也很宽，因为真实取决于Kyber/Rubin Ultra出货节奏、超大云厂接受NVIDIA 800V的程度。\n\n4、800V HVDC产业链构成\n完全是英伟达参考设计主导资格认证，之前英伟达也公开列出的核心合作伙伴分为三类，竞争激烈，份额将取决于认证进度、量产能力和 hyperscaler合同。 \n\n1）硅片/功率半导体供应商（核心器件，如SiC/GaN MOSFET、控制器，用于高效转换）：\n主要玩家：Texas Instruments（TI，已发布完整800V解决方案）、STMicroelectronics（ST，6-18kW功率板）、Infineon、ROHM（SiC器件）、Navitas（GaN/SiC）、Analog Devices、onsemi、Renesas、Innoscience、MPS、AOS、EPC等。\n这些是NVIDIA“硅供应商”名单核心，TI/ST等已演示参考设\n\n2）电源系统组件/模块供应商（电源架、Sidecar、DC-DC转换器等）：\n主要玩家：Delta Electronics（与NVIDIA深度合作，发布800V解决方案）、Flex、LITEON、Megmeet、Lead Wealth、Bizlink等。\nDelta等中国厂商优势明显，已有白皮书和技术落地；LITEON等股价因800V预期已经显著上涨。\n\n3）数据中心电源系统/基础设施供应商（机架级配电、Sidecar、SST、母线等）：\n主要玩家：Vertiv（Hopewind为其800V系统关键子供应商）、Schneider Electric（开发1.2MW Sidecar）、Eaton、ABB、GE Vernova、Siemens、Hitachi Energy、Mitsubishi Electric等。\n这里面Vertiv、Schneider、Eaton等是传统强者。\n\n个人角度看\n1）Vertiv、IFFNY、Schneider、Eaton、Delta、ABB是最可能在早期800VDC相关收入中占到显著份额的几家公司；\n2）LITEON、TI、ST、Infineon、onsemi是第二组确定性较强的受益者；\n3）Navitas、Power Integrations、MPS、BizLink、Megmeet、Innoscience（英诺赛科）属于弹性更大但验证/量产/竞争风险也更高的一组。\n\n个人角度当下比较看好的则是，当然这个还要动态迭代：\nnvts、IFNNY、英诺赛科、vicr\n\n5、后续跟踪落地节奏的几个重要节点\n1）NVIDIA Kyber / Rubin Ultra 2027节奏：是否明确把800VDC作为默认/主推rack电力架构，而且出货节奏也带动800V的落地节奏\n2）OCP标准进展：800V连接器、安全、保护、PDB、BBU/CBU是否标准化。\n\n3）看点电源管理系统组件，功率半导体供应商的点单披露，谁真正进入了进入backlog和量产socket；这个最关键决定了哪家供应商能吃到多大的份额\n\n4）超大云厂路线：800V vs 400V/±400V vs 50V HPR是否分裂。决定了市场对800V hvdc的预期和想象空间。\n\n5）单MW成本下降曲线：如果800VDC使每MW可部署GPU数量、能效和维护成本明显改善，它会从NVIDIA专用架构变成行业事实标准。",
+        "contentHtml": "AI数据中心电力上的关键环节：800VHDC，今天在这里<a href=\"https://nitter.net/qinbafrank/status/2057685712645116279\">nitter.net/qinbafrank/status/2057…</a>聊到大摩拆解VR200NVL72提到，大摩预计800V直流电将在2027年下半年推出的Rubin Ultra平台上得到大规模采用。其实800VHDC并不是全新概念，自从英伟达去年说要推直流供电架构后，市场对此的关注度其实挺高的，这个板块的相关的标的已经炒过一博预期了。但实际上800V直流电在下半年才真正大规模采用，值得关注。聊下几方面的问题：\n\n1、800V HVDC架构是什么？\n传统高密度AI rack的路径大致是：电网中压AC → 变压器/UPS/PDU → 415/480VAC到机架 → 机架内PSU转54VDC/12VDC → GPU核心电压。\n\n达子的800VDC愿景则是：在数据中心边界/电力室把中压AC集中转换成800VDC，用800V DC busway送到IT rack，再在靠近GPU的位置用高比率DC/DC转换。NVIDIA称，54V架构在200kW以上开始撞上物理限制；1MW rack如果继续用54V，单rack铜排最高可能需要约200kg铜，而800V架构通过减少电流、减少转换级数、减少机架内PSU，目标是提升效率、降低铜耗、释放机架空间。\n\n它不是简单的电压升级，也不是“发明了直流供电”，而是AI数据中心供电架构的一次平台级切换，是对整个电力交付架构的系统性重构，旨在解决传统48V/54V机架电源的瓶颈（空间受限、铜缆过载、多级转换损耗高），支持单机架功率从数百kW跃升至1MW+，并为未来GW级AI工厂铺路。\n\n2、800V HVDC的意义和革命性是什么？\n1）首先自然是效率和空间布局\n效率提升：从电网到GPU的转换环节大幅减少，整体能效可提升从以前90%能大幅度提高到98.5%以上传输损耗显著降低，TCO（总拥有成本）降低可达30%\n空间与密度优化：减少铜缆用量和电源单元体积，机架内计算空间利用率提升超80%，支持更高密度GPU集群\n\n2）800V不是单一器件升级，而是生态重构：中央整流、800V DC busway、固态断路器、热插拔保护、sidecar/power rack、BBU/CBU、超容/电池储能、DC/DC、GaN/SiC、液冷都要协同。NVIDIA也明确说需要OCP等组织推动电压范围、连接器、安全标准。\n\n如果大家有关注过新能源汽车产业链，应该有影响这两年国内电动车厂商都在推的“快充”基本上就是800V高压直流充电。现在达子正在把800VDC变成下一代AI rack标准化路线的一部分，所以一部分原来给新能源汽车充电产业链上的关键环节，又开始外溢到AI数据中心上了。\n\n3、800V HVDC空间有多大？\n要看大背景，AI数据中心整体市场从2025年约3440亿美元增长至2032年超2万亿美元（CAGR 27.5%）。 功率基础设施将成为AI建设的核心瓶颈与增长点，NVIDIA的标准将加速 hyperscaler采用，带动固态变压器、GaN/SiC功率器件等子市场爆发。 \n\n2027年后，&gt;300kW/rack、尤其是400kW-1MW rack的AI zones中，800VDC或类似HVDC架构渗透率快速提升。若未来新增AI容量中有30%-60%采用高压DC架构，并且每MW对应的核心800V电力链价值量在几十万到数百万美元区间，累计空间就会进入百亿美元到千亿美元级。\n\n当然这个预测区间也很宽，因为真实取决于Kyber/Rubin Ultra出货节奏、超大云厂接受NVIDIA 800V的程度。\n\n4、800V HVDC产业链构成\n完全是英伟达参考设计主导资格认证，之前英伟达也公开列出的核心合作伙伴分为三类，竞争激烈，份额将取决于认证进度、量产能力和 hyperscaler合同。 \n\n1）硅片/功率半导体供应商（核心器件，如SiC/GaN MOSFET、控制器，用于高效转换）：\n主要玩家：Texas Instruments（TI，已发布完整800V解决方案）、STMicroelectronics（ST，6-18kW功率板）、Infineon、ROHM（SiC器件）、Navitas（GaN/SiC）、Analog Devices、onsemi、Renesas、Innoscience、MPS、AOS、EPC等。\n这些是NVIDIA“硅供应商”名单核心，TI/ST等已演示参考设\n\n2）电源系统组件/模块供应商（电源架、Sidecar、DC-DC转换器等）：\n主要玩家：Delta Electronics（与NVIDIA深度合作，发布800V解决方案）、Flex、LITEON、Megmeet、Lead Wealth、Bizlink等。\nDelta等中国厂商优势明显，已有白皮书和技术落地；LITEON等股价因800V预期已经显著上涨。\n\n3）数据中心电源系统/基础设施供应商（机架级配电、Sidecar、SST、母线等）：\n主要玩家：Vertiv（Hopewind为其800V系统关键子供应商）、Schneider Electric（开发1.2MW Sidecar）、Eaton、ABB、GE Vernova、Siemens、Hitachi Energy、Mitsubishi Electric等。\n这里面Vertiv、Schneider、Eaton等是传统强者。\n\n个人角度看\n1）Vertiv、IFFNY、Schneider、Eaton、Delta、ABB是最可能在早期800VDC相关收入中占到显著份额的几家公司；\n2）LITEON、TI、ST、Infineon、onsemi是第二组确定性较强的受益者；\n3）Navitas、Power Integrations、MPS、BizLink、Megmeet、Innoscience（英诺赛科）属于弹性更大但验证/量产/竞争风险也更高的一组。\n\n个人角度当下比较看好的则是，当然这个还要动态迭代：\nnvts、IFNNY、英诺赛科、vicr\n\n5、后续跟踪落地节奏的几个重要节点\n1）NVIDIA Kyber / Rubin Ultra 2027节奏：是否明确把800VDC作为默认/主推rack电力架构，而且出货节奏也带动800V的落地节奏\n2）OCP标准进展：800V连接器、安全、保护、PDB、BBU/CBU是否标准化。\n\n3）看点电源管理系统组件，功率半导体供应商的点单披露，谁真正进入了进入backlog和量产socket；这个最关键决定了哪家供应商能吃到多大的份额\n\n4）超大云厂路线：800V vs 400V/±400V vs 50V HPR是否分裂。决定了市场对800V hvdc的预期和想象空间。\n\n5）单MW成本下降曲线：如果800VDC使每MW可部署GPU数量、能效和维护成本明显改善，它会从NVIDIA专用架构变成行业事实标准。",
+        "link": "https://x.com/qinbafrank/status/2057739575372706022",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI5-d1TbkAAHtjx.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HI6K7-uacAA8Qj-.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066381577572217041",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "跟@aleabitoreddit 的观点很类似，未来美伊停战备忘录签署之后随着霍尔木兹海峡打开。三个之前市场预期宏观逻辑可能要重置：1）油价下行带动通胀预期下行，那么之后美联储的利率预期就要重新被定价；\n\n2）商业地产和零售业显示了经济可能没有市场预期的那么弱，如果利率压制解除，增长势头是不是就能显现出来？其实过去两个月的制造业及服务业pmi也能看出迹象；\n\n3）受“利率、通胀、期限溢价、财政赤字、发债压力”这些宏观利率因素驱动，股票与美债受益率负相关到了过去十多年的历史极值，那么反转是不是也要来了。",
+      "contentHtml": "跟<a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a> 的观点很类似，未来美伊停战备忘录签署之后随着霍尔木兹海峡打开。三个之前市场预期宏观逻辑可能要重置：1）油价下行带动通胀预期下行，那么之后美联储的利率预期就要重新被定价；\n\n2）商业地产和零售业显示了经济可能没有市场预期的那么弱，如果利率压制解除，增长势头是不是就能显现出来？其实过去两个月的制造业及服务业pmi也能看出迹象；\n\n3）受“利率、通胀、期限溢价、财政赤字、发债压力”这些宏观利率因素驱动，股票与美债受益率负相关到了过去十多年的历史极值，那么反转是不是也要来了。",
+      "publishedAt": "2026-06-15T04:45:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2066381577572217041",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK1DFXvaoAAhqrr.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "美伊停战备忘录签署，霍尔木兹海峡恢复通行，之前市场预期的哪些重要宏逻辑可能要被重置？这个可以详细聊聊：\n1、市场之前对于年内加息的预期很高\n看CME的利率观察数据，截至上周五市场已计价年底最少加息一次，到年尾前只有34%的机率维持利率不变或减息，而加息最少一次的机率升至惊人的60%以上，相当于市场已经计价了一次年内的加息幅度。\n\n当然市场预期的加息核心根源还是来自通胀的反弹，从2月底伊朗冲突爆发时以来美国广义cpi已经反弹到4.2%这是市场对下半年加息预期的最大依据（当下劳动力市场决定利率下限，劳动力强美联储可能不降息；通胀决定利率上限，通胀持续走强联储可能加息），但这一次广义通胀到4.2%，核心通胀微涨在2.9%，意味着因为油价上涨的通胀还没有传导到核心cpi里。而且大家也清楚，如果美伊备忘录签署，霍尔木兹海峡子华温暖的恢复通行，无论是否收费、油价应该会大幅度下降。\n\n油价大幅度下行，那么通胀预期是不是也要下降？而且好消息是12号公布美国6月一年期通胀预期及五至十年期通胀预期均大幅低于预期和前值。\n\n市场最不可靠的不是爱情，而是市场的加减息预期（因为这会随着地缘态势和宏观数据变动快速变化）。\n\n2、加息预期对经济的影响\n看两个数据\n1）4月以来市场加息预期不断上升，但应该被市场严重看衰的板块，特别是商品地产爆破论的办公室REITS ETF DESK却不跌反升。\n\n2）红皮书同店零售销售指数飇升至按年升9.1%的极端强劲水平，印证经济的实际动能远比表面观察到为强。\n\n按说商业地产这种是最应被加息预期拖累和暴击的板块，却走出不跌反升的结构，是非常值得重视的。\n\n3、标普500日收益率 vs 美国10年期国债收益率日变化的3个月滚动相关性（第四张图）现在读数大约是 -0.62，差不多过去十年最低点。\n说明过去几个月：\n美股上涨时，10年期收益率往往下跌；\n美股下跌时，10年期收益率往往上升。\n因为收益率是债券价格呈反比，意味着股票与债券同涨同跌。\n\n1）而在图上2010到2020年前后，大部分时间相关性为正（股票收益率与国债收益率）也就是：\n股票涨，收益率也涨；股票跌，收益率也跌。\n\n这是典型的“增长主导”市场。逻辑是：\n经济好 → 企业盈利预期上升 → 股票涨；\n同时经济好 → 资金从避险债券流出、通胀/增长预期上升 → 债券收益率上升。\n经济差 → 股票跌；\n同时资金买入美债避险 → 美债价格涨、收益率跌。\n\n这个阶段，债券是比较好的股票对冲工具。现在则不是\n\n2）-0.62 确实到了极值区，相关性本身向上修复的概率在上升。但这不等于股市或债市已经到了明确反转点。当前更合理的判断是：\n利率主导的交易已经很拥挤；下一阶段要么通过10年期收益率稳定来缓解股票压力，要么通过增长走弱让债券重新成为避险资产。\n\n对股票来说，真正的利好是：收益率下行 ，盈利不下修。对债券来说，真正的利好是：通胀和期限溢价都回落，或者增长风险开始压过通胀风险。\n\n所以这张图看到的是，反转的可能性越来越大。\n\n简单说，美伊备忘录签署，霍尔木兹海峡真的恢复通行，三个之前市场预期宏观逻辑可能要重置：\n1）油价下行带动通胀预期下行，那么之后美联储的利率预期就要重新被定价；\n\n2）商业地产和零售业限制了、经济可能没有市场预期的那么弱，如果利率压制解除，增长势头是不是就能显现出来？其实过去两个月的制造业及服务业pmi也能看出迹象；\n\n3）受“利率、通胀、期限溢价、财政赤字、发债压力”这些宏观利率因素驱动，股票与美债受益率负相关到了过去十多年的历史极值，那么反转是不是也要来了？\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "美伊停战备忘录签署，霍尔木兹海峡恢复通行，之前市场预期的哪些重要宏逻辑可能要被重置？这个可以详细聊聊：\n1、市场之前对于年内加息的预期很高\n看CME的利率观察数据，截至上周五市场已计价年底最少加息一次，到年尾前只有34%的机率维持利率不变或减息，而加息最少一次的机率升至惊人的60%以上，相当于市场已经计价了一次年内的加息幅度。\n\n当然市场预期的加息核心根源还是来自通胀的反弹，从2月底伊朗冲突爆发时以来美国广义cpi已经反弹到4.2%这是市场对下半年加息预期的最大依据（当下劳动力市场决定利率下限，劳动力强美联储可能不降息；通胀决定利率上限，通胀持续走强联储可能加息），但这一次广义通胀到4.2%，核心通胀微涨在2.9%，意味着因为油价上涨的通胀还没有传导到核心cpi里。而且大家也清楚，如果美伊备忘录签署，霍尔木兹海峡子华温暖的恢复通行，无论是否收费、油价应该会大幅度下降。\n\n油价大幅度下行，那么通胀预期是不是也要下降？而且好消息是12号公布美国6月一年期通胀预期及五至十年期通胀预期均大幅低于预期和前值。\n\n市场最不可靠的不是爱情，而是市场的加减息预期（因为这会随着地缘态势和宏观数据变动快速变化）。\n\n2、加息预期对经济的影响\n看两个数据\n1）4月以来市场加息预期不断上升，但应该被市场严重看衰的板块，特别是商品地产爆破论的办公室REITS ETF DESK却不跌反升。\n\n2）红皮书同店零售销售指数飇升至按年升9.1%的极端强劲水平，印证经济的实际动能远比表面观察到为强。\n\n按说商业地产这种是最应被加息预期拖累和暴击的板块，却走出不跌反升的结构，是非常值得重视的。\n\n3、标普500日收益率 vs 美国10年期国债收益率日变化的3个月滚动相关性（第四张图）现在读数大约是 -0.62，差不多过去十年最低点。\n说明过去几个月：\n美股上涨时，10年期收益率往往下跌；\n美股下跌时，10年期收益率往往上升。\n因为收益率是债券价格呈反比，意味着股票与债券同涨同跌。\n\n1）而在图上2010到2020年前后，大部分时间相关性为正（股票收益率与国债收益率）也就是：\n股票涨，收益率也涨；股票跌，收益率也跌。\n\n这是典型的“增长主导”市场。逻辑是：\n经济好 → 企业盈利预期上升 → 股票涨；\n同时经济好 → 资金从避险债券流出、通胀/增长预期上升 → 债券收益率上升。\n经济差 → 股票跌；\n同时资金买入美债避险 → 美债价格涨、收益率跌。\n\n这个阶段，债券是比较好的股票对冲工具。现在则不是\n\n2）-0.62 确实到了极值区，相关性本身向上修复的概率在上升。但这不等于股市或债市已经到了明确反转点。当前更合理的判断是：\n利率主导的交易已经很拥挤；下一阶段要么通过10年期收益率稳定来缓解股票压力，要么通过增长走弱让债券重新成为避险资产。\n\n对股票来说，真正的利好是：收益率下行 ，盈利不下修。对债券来说，真正的利好是：通胀和期限溢价都回落，或者增长风险开始压过通胀风险。\n\n所以这张图看到的是，反转的可能性越来越大。\n\n简单说，美伊备忘录签署，霍尔木兹海峡真的恢复通行，三个之前市场预期宏观逻辑可能要重置：\n1）油价下行带动通胀预期下行，那么之后美联储的利率预期就要重新被定价；\n\n2）商业地产和零售业限制了、经济可能没有市场预期的那么弱，如果利率压制解除，增长势头是不是就能显现出来？其实过去两个月的制造业及服务业pmi也能看出迹象；\n\n3）受“利率、通胀、期限溢价、财政赤字、发债压力”这些宏观利率因素驱动，股票与美债受益率负相关到了过去十多年的历史极值，那么反转是不是也要来了？\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2066324061828088265",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HK0OyAPaYAA-Ht4.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HK0OyAOakAAHZ1e.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066375241354670178",
+      "username": "ebfull",
+      "displayName": "Sean Bowe",
+      "avatar": "https://pbs.twimg.com/profile_images/1934672401687597056/SmfyH4L4_bigger.jpg",
+      "content": "We're very grateful that OpenAI has provided our teams with assistance to protect Zcash users from these nasty bugs as well. (We also have no new issues to report!)",
+      "contentHtml": "We're very grateful that OpenAI has provided our teams with assistance to protect Zcash users from these nasty bugs as well. (We also have no new issues to report!)",
+      "publishedAt": "2026-06-15T04:20:00.000Z",
+      "link": "https://x.com/ebfull/status/2066375241354670178",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "zooko",
+        "displayName": "zooko🛡🦓🦓🦓 ⓩ",
+        "content": "Thanks, Anthropic, for helping protect Zcash users. At Shielded Labs’s request, they ran a security audit of Zcash with Mythos. It did not find any more serious bugs in the Zcash protocol. Shielded Labs and others are continuing security hardening work. Stay tuned for updates.",
+        "contentHtml": "Thanks, Anthropic, for helping protect Zcash users. At Shielded Labs’s request, they ran a security audit of Zcash with Mythos. It did not find any more serious bugs in the Zcash protocol. Shielded Labs and others are continuing security hardening work. Stay tuned for updates.",
+        "link": "https://x.com/zooko/status/2065541979979784341"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066372011639615506",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "The idea of superhuman empowered by AI. Who wins the superhuman race, wins the game",
+      "contentHtml": "The idea of superhuman empowered by AI. Who wins the superhuman race, wins the game",
+      "publishedAt": "2026-06-15T04:07:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2066372011639615506",
+      "quote": {
+        "username": "satyanadella",
+        "displayName": "Satya Nadella",
+        "content": "x.com/i/article/206558289479…",
+        "contentHtml": "<a href=\"http://x.com/i/article/2065582894790365184\">x.com/i/article/206558289479…</a>",
+        "link": "https://x.com/satyanadella/status/2066182223213293753"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066368601314197627",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "你们怕啥啊\n\n币圈的人都在做空 $btc  \n跟他们反着来就行",
+      "contentHtml": "你们怕啥啊\n\n币圈的人都在做空 <a href=\"/search?f=tweets&q=%23btc\">$btc</a>  \n跟他们反着来就行",
+      "publishedAt": "2026-06-15T03:54:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2066368601314197627",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK03SQPaMAAt_EF.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "微策略学精了\n周末无聊只能玩大饼了！",
+        "contentHtml": "微策略学精了\n周末无聊只能玩大饼了！",
+        "link": "https://x.com/Bitfatty/status/2065713828151824549",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKrjxg3aQAApv3t.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKrjxiaacAAak8q.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066366457282449783",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
+      "content": "#BTC 跌到 $59k 这波，链上（持币7年内的）浮盈筹码浮亏筹码数量之比淦到历史最低的 0.45",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 跌到 $59k 这波，链上（持币7年内的）浮盈筹码浮亏筹码数量之比淦到历史最低的 0.45",
+      "publishedAt": "2026-06-15T03:45:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2066366457282449783",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK00gsjbQAAroAP.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【四年周期总刻系列（19）】\n\n大道无形，周期有形\n\n本轮红色熊底区间如常出现并稳步发育中\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详解 ──┐\n\n图中指标为 #BTC 链上处于浮盈状态的筹码数量跟处于浮亏状态的筹码数量之比（将链上>7年未移动的筹码视作长期休眠或丢失从计算中剔除，比值采用7日MA）\n\n比值 < 1 时，使用红色区间显示",
+        "contentHtml": "【四年周期总刻系列（19）】\n\n大道无形，周期有形\n\n本轮红色熊底区间如常出现并稳步发育中\n\n┌── 📑 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详解 ──┐\n\n图中指标为 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 链上处于浮盈状态的筹码数量跟处于浮亏状态的筹码数量之比（将链上&gt;7年未移动的筹码视作长期休眠或丢失从计算中剔除，比值采用7日MA）\n\n比值 &lt; 1 时，使用红色区间显示",
+        "link": "https://x.com/0xCryptoChan/status/2026842585550184559",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HCDH_obakAA103J.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066365613136867468",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#数码\n\n针对手机做的 KVM：kickstarter.com/projects/zep…\n\n这东西原理也不复杂，需求也挺明确的（ iOS 自动化），AI 加持下会非常好用。\n\n怎么现在才有人做啊，感觉半年内至少会有 10 个深圳竞品。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23数码\">#数码</a>\n\n针对手机做的 KVM：<a href=\"https://www.kickstarter.com/projects/zepan/nanokvm-go-worlds-first-ai-native-4k-usb-c-kvm?ref=profile_saved_projects_prelaunch&category_id=Q2F0ZWdvcnktNTI=\">kickstarter.com/projects/zep…</a>\n\n这东西原理也不复杂，需求也挺明确的（ iOS 自动化），AI 加持下会非常好用。\n\n怎么现在才有人做啊，感觉半年内至少会有 10 个深圳竞品。",
+      "publishedAt": "2026-06-15T03:42:00.000Z",
+      "link": "https://x.com/taresky/status/2066365613136867468",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066364403763818963",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "不能",
+      "contentHtml": "不能",
+      "publishedAt": "2026-06-15T03:37:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2066364403763818963",
+      "quote": {
+        "username": "yulongzhou6",
+        "displayName": "Kimsssss",
+        "content": "这次也能到5000吗",
+        "contentHtml": "这次也能到5000吗",
+        "link": "https://x.com/yulongzhou6/status/2066342132227752371"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066360147526762997",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "吃了这个🍉\n\n真是恶臭猥琐男啊",
+      "contentHtml": "吃了这个🍉\n\n真是恶臭猥琐男啊",
+      "publishedAt": "2026-06-15T03:20:00.000Z",
+      "link": "https://x.com/taresky/status/2066360147526762997",
+      "quote": {
+        "username": "Kaerigumo1585",
+        "displayName": "内岛氏理🐧",
+        "content": "因为他几年之后突然找北要钱啊还是在北没拿到相机的前提下。当时为了全面考虑甚至站在ki师立场上思考过有没有什么角度能支持他的主张为此还和另一个司法考试合格的M1学妹一起研究过，最后一致结论是完全没有任何请求权基础，然后理性思维退场感性思维看待本件事情时才发现这人怎么这么奇葩干了烂事还试图不让别人知道是怕自己骗不到别的女生吗，死要面子把自己的一切问题都扔到别人头上然后别人真认真了自己就开始打滚了",
+        "contentHtml": "因为他几年之后突然找北要钱啊还是在北没拿到相机的前提下。当时为了全面考虑甚至站在ki师立场上思考过有没有什么角度能支持他的主张为此还和另一个司法考试合格的M1学妹一起研究过，最后一致结论是完全没有任何请求权基础，然后理性思维退场感性思维看待本件事情时才发现这人怎么这么奇葩干了烂事还试图不让别人知道是怕自己骗不到别的女生吗，死要面子把自己的一切问题都扔到别人头上然后别人真认真了自己就开始打滚了",
+        "link": "https://x.com/Kaerigumo1585/status/2066289540323807582"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066359761747280251",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "下次去，给群友定制拍装逼视频",
+      "contentHtml": "下次去，给群友定制拍装逼视频",
+      "publishedAt": "2026-06-15T03:18:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2066359761747280251",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK0vPzJbcAADq3F.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066358921913405605",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "原来有人羡慕能去现场看比赛的啊？\n\n可是我真的有点懒得出门   \n\n出门了吃喝拉撒睡都不稳态，浑身不舒服，看来没有kol/vip 晒活动照的命",
+      "contentHtml": "原来有人羡慕能去现场看比赛的啊？\n\n可是我真的有点懒得出门   \n\n出门了吃喝拉撒睡都不稳态，浑身不舒服，看来没有kol/vip 晒活动照的命",
+      "publishedAt": "2026-06-15T03:15:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2066358921913405605",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK0ue_ZbYAANfmz.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066356751793041454",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "突然感觉predict 性价比蛮低的，根据现在的积分+未知的tge时间以及aspecta上的市值，预期利润在成本2-3倍之间。成本按照0.035算的，市值5亿发5%的前提，感觉小天才genius利润率更高一点。不过已经两周不发返佣了，genius这团队做事磨磨叽叽的。",
+      "contentHtml": "突然感觉predict 性价比蛮低的，根据现在的积分+未知的tge时间以及aspecta上的市值，预期利润在成本2-3倍之间。成本按照0.035算的，市值5亿发5%的前提，感觉小天才genius利润率更高一点。不过已经两周不发返佣了，genius这团队做事磨磨叽叽的。",
+      "publishedAt": "2026-06-15T03:06:00.000Z",
+      "link": "https://x.com/0xleng1/status/2066356751793041454",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2066347809637368279",
       "username": "TJ_Research",
@@ -11646,297 +11962,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HKTPpGUa0AAukCa.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064215356730941451",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "哈哈哈哈哈 操",
-      "contentHtml": "哈哈哈哈哈 操",
-      "publishedAt": "2026-06-09T05:17:00.000Z",
-      "link": "https://x.com/octopusycc/status/2064215356730941451",
-      "quote": {
-        "username": "AntonLaVay",
-        "displayName": "Manchurius Hao — Greeks.live首席赌狗",
-        "content": "😎😎",
-        "contentHtml": "😎😎",
-        "link": "https://x.com/AntonLaVay/status/2064215111569441209",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKWQtCvXEAAI9p3.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064214032362639777",
-      "username": "LucretianDelta",
-      "displayName": "Clinamen",
-      "avatar": "https://pbs.twimg.com/profile_images/1905850895533064192/MJUUGifX_bigger.jpg",
-      "content": "比起CPI，我认为更加需要关注的是周三ORCL earnings\n\n这是连接AI资本投入与AI变现能力，硬件到软件的关键标的，属于 AI Capex 叙事的中期。\n\n而在当下的时间线里，或许比政界的中期选举还重要一些\n\n不仅数据重要，指引也很重要\n\n周一的反弹没有之前几次V的那么快，或许也是资金在观察与等待验证",
-      "contentHtml": "比起CPI，我认为更加需要关注的是周三ORCL earnings\n\n这是连接AI资本投入与AI变现能力，硬件到软件的关键标的，属于 AI Capex 叙事的中期。\n\n而在当下的时间线里，或许比政界的中期选举还重要一些\n\n不仅数据重要，指引也很重要\n\n周一的反弹没有之前几次V的那么快，或许也是资金在观察与等待验证",
-      "publishedAt": "2026-06-09T05:12:00.000Z",
-      "link": "https://x.com/LucretianDelta/status/2064214032362639777",
-      "retweet": {
-        "username": "yuren477",
-        "displayName": "余人sama"
-      },
-      "quote": {
-        "username": "LucretianDelta",
-        "displayName": "Clinamen",
-        "content": "我们应当承认这个世界线已经实际上被AI接管了，因为AI以外的现实里，高油价、国债、就业、消费、住房都指向衰退，但只要AI叙事继续我们就可以无限的buy the generational dip every day，可以认为人类社会的一切已经无关紧要，AI正在从未来倒逼人类为它加速注资",
-        "contentHtml": "我们应当承认这个世界线已经实际上被AI接管了，因为AI以外的现实里，高油价、国债、就业、消费、住房都指向衰退，但只要AI叙事继续我们就可以无限的buy the generational dip every day，可以认为人类社会的一切已经无关紧要，AI正在从未来倒逼人类为它加速注资",
-        "link": "https://x.com/LucretianDelta/status/2051891578822971434"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064213859754442978",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "看似被盗，实际是大概率rug了跑路了\n$H @Humanityprot \n损失3000万U\n\nRug了对所有人都有个交代",
-      "contentHtml": "看似被盗，实际是大概率rug了跑路了\n<a href=\"/search?f=tweets&q=%23H\">$H</a> <a href=\"/Humanityprot\" title=\"Humanity\">@Humanityprot</a> \n损失3000万U\n\nRug了对所有人都有个交代",
-      "publishedAt": "2026-06-09T05:11:00.000Z",
-      "link": "https://x.com/octopusycc/status/2064213859754442978",
-      "quote": {
-        "username": "octopusycc",
-        "displayName": "大老师Bugsbunny ｜DRAM UP only",
-        "content": "大胆猜测 Defi 30天内将会出现被盗事件\n\n引发进一步下跌",
-        "contentHtml": "大胆猜测 Defi 30天内将会出现被盗事件\n\n引发进一步下跌",
-        "link": "https://x.com/octopusycc/status/2062790937877889275"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064213287399788680",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
-      "content": "2022年熊底二次探底期间，比特币中位数 MVRV 最低跌至 0.966（币价 $18k）\n\n当前这波，比特币中位数 MVRV 最低跌至 0.965（币价 $59k）\n\n┌── 指标详情 ──┐\n\n比特币中位数 MVRV 反映了链上购币成本正好处在中位数的投资者盈亏状况\n\n• 指标 > 1：多数人盈利，市场过热  \n• 指标 ≈ 1：盈亏平衡  \n• 指标 < 1：多数人亏损，熊市底部\n\n比特币中位数 MVRV 不受极端老币影响，相比普通 MVRV 更能真实反映“大多数人”成本，周期底部神器之一",
-      "contentHtml": "2022年熊底二次探底期间，比特币中位数 MVRV 最低跌至 0.966（币价 $18k）\n\n当前这波，比特币中位数 MVRV 最低跌至 0.965（币价 $59k）\n\n┌── 指标详情 ──┐\n\n比特币中位数 MVRV 反映了链上购币成本正好处在中位数的投资者盈亏状况\n\n• 指标 &gt; 1：多数人盈利，市场过热  \n• 指标 ≈ 1：盈亏平衡  \n• 指标 &lt; 1：多数人亏损，熊市底部\n\n比特币中位数 MVRV 不受极端老币影响，相比普通 MVRV 更能真实反映“大多数人”成本，周期底部神器之一",
-      "publishedAt": "2026-06-09T05:09:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2064213287399788680",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKWOfTMacAAVwZk.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【#BTC 四年周期总刻系列（34）】\n\n22年6月币价暴跌至 17.6k，该指标最低跌至 1.0\n26年2月币价暴跌至 60k，该指标最低跌至 1.0\n\n22年8月随着币价超跌反弹，该指标最高达到 1.26\n当前随着币价超跌反弹，该指标最高达到 1.23\n\n┌── 🐼 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中黑线为比特币价格；橙线指标为比特币中位数 MVRV\n\n比特币中位数 MVRV (Median MVRV) = 当前比特币市场价格 ÷ 比特币中位数实现价格\n\n比特币中位数实现价格：是比特币供应量中，所有代币最后一次链上移动时的价格的中位数（一半比特币高于此价格移动；一半比特币低于此价格移动）。不同于平均值，它取中间值，能更好地代表所有投资者购币成本的中位数（当前中位数实现价格为 $64,144）\n\nMedian MVRV 相比 标准MVRV 更能捕捉散户或中型持有者的视角，因为中位数忽略了极端大/小值",
-        "contentHtml": "【<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 四年周期总刻系列（34）】\n\n22年6月币价暴跌至 17.6k，该指标最低跌至 1.0\n26年2月币价暴跌至 60k，该指标最低跌至 1.0\n\n22年8月随着币价超跌反弹，该指标最高达到 1.26\n当前随着币价超跌反弹，该指标最高达到 1.23\n\n┌── 🐼 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n图中黑线为比特币价格；橙线指标为比特币中位数 MVRV\n\n比特币中位数 MVRV (Median MVRV) = 当前比特币市场价格 ÷ 比特币中位数实现价格\n\n比特币中位数实现价格：是比特币供应量中，所有代币最后一次链上移动时的价格的中位数（一半比特币高于此价格移动；一半比特币低于此价格移动）。不同于平均值，它取中间值，能更好地代表所有投资者购币成本的中位数（当前中位数实现价格为 $64,144）\n\nMedian MVRV 相比 标准MVRV 更能捕捉散户或中型持有者的视角，因为中位数忽略了极端大/小值",
-        "link": "https://x.com/0xCryptoChan/status/2049768984879518138",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHI5m4_bMAAYcPJ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064212560300396975",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "打spacex ipo的话，俩交易所优缺点都说一下，自己判断一下\n\nbybit 100m额度 优点 流动性好，资金远远大于kraken，分配的额度稳定。缺点是最后一天的时候可能超额\n\nkraken 400m额度 优点 分配可能远远大于bybit，缺点是有概率不分配额度，写的可能全部分配，可能部分分配，可能不分配。流动性不足",
-      "contentHtml": "打spacex ipo的话，俩交易所优缺点都说一下，自己判断一下\n\nbybit 100m额度 优点 流动性好，资金远远大于kraken，分配的额度稳定。缺点是最后一天的时候可能超额\n\nkraken 400m额度 优点 分配可能远远大于bybit，缺点是有概率不分配额度，写的可能全部分配，可能部分分配，可能不分配。流动性不足",
-      "publishedAt": "2026-06-09T05:06:00.000Z",
-      "link": "https://x.com/0xleng1/status/2064212560300396975",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064212006656442422",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "赌神大国",
-      "contentHtml": "赌神大国",
-      "publishedAt": "2026-06-09T05:04:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2064212006656442422",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKWN33jaQAAL6WV.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064211281792717162",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "从棒子到大韩民国...",
-      "contentHtml": "从棒子到大韩民国...",
-      "publishedAt": "2026-06-09T05:01:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2064211281792717162",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064198491706884212",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#BTC #定投计划 \n\n比特币现在可以开启长周期的定投计划了 \n\n现在开始的定投计划，是下一轮牛市必定挣钱的操作",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> <a href=\"/search?f=tweets&q=%23定投计划\">#定投计划</a> \n\n比特币现在可以开启长周期的定投计划了 \n\n现在开始的定投计划，是下一轮牛市必定挣钱的操作",
-      "publishedAt": "2026-06-09T04:10:00.000Z",
-      "link": "https://x.com/dongbimao/status/2064198491706884212",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKWBiyOXgAImm9h.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064198264237486525",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "不要相信野鸡骚鸡整容鸡丑鸡投的kol轮项目\n\n找鸡投项目，项目方是傻逼，并且认为自己的用户是相信鸡kol的傻逼\n\n你如果认为自己是相信鸡推荐产品的傻逼，那我没话说",
-      "contentHtml": "不要相信野鸡骚鸡整容鸡丑鸡投的kol轮项目\n\n找鸡投项目，项目方是傻逼，并且认为自己的用户是相信鸡kol的傻逼\n\n你如果认为自己是相信鸡推荐产品的傻逼，那我没话说",
-      "publishedAt": "2026-06-09T04:09:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2064198264237486525",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKWBWNwaYAAyHn2.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064196918260138267",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "这就是我现在只刷 u 卡的原因…",
-      "contentHtml": "这就是我现在只刷 u 卡的原因…",
-      "publishedAt": "2026-06-09T04:04:00.000Z",
-      "link": "https://x.com/taresky/status/2064196918260138267",
-      "quote": {
-        "username": "LeeMmai",
-        "displayName": "李麦麦",
-        "content": "现在有什么 App 可以解决信用卡管理需求吗？\n\n比如还款日，消费额，刷免条件，权益…用 percento 就不够了，如果卡片变多每次记不同的内容就会变乱\n\n网上一搜大家推荐云闪付 + Excel 表格的方式来管理，我想这也太原始了吧",
-        "contentHtml": "现在有什么 App 可以解决信用卡管理需求吗？\n\n比如还款日，消费额，刷免条件，权益…用 percento 就不够了，如果卡片变多每次记不同的内容就会变乱\n\n网上一搜大家推荐云闪付 + Excel 表格的方式来管理，我想这也太原始了吧",
-        "link": "https://x.com/LeeMmai/status/2064020726060032192"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064188801015050678",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "昨晚的美股走势验证了昨天上午推文聊到的：AI基本面没有被证伪的大背景下，短线主跌浪可能已经完成了相当大一部分，后面连续暴杀的概率下降。所以本周不一定继续暴跌，但直接V回去的概率不高，更可能是横盘震荡或缩量缓跌。昨晚的走势确实如此。\n\n当然也要注意昨晚的反弹主要是集中在AI半导体相关，而且在一些列宏观和产业的利好刺激情况下。昨晚这里有聊nitter.net/qinbafrank/status/2063…，伊朗和以色列收手不打，英特尔、康宁，老黄和老马纷纷出来喊单放在以前就是起飞的状态，昨晚就是一个反弹，有点反弹了还没那么强的感觉。\n\n还有一个压制就是十年美债收益率又晃悠悠到了4.56%，应该是强非农导致的。市场接下来会密切关注周三CPI的走势，关于明晚cpi的通胀最核心点则是：能源通胀是否已经传导了服务业，关键要看核心cpi的同比环比走势。上周五也有聊过nitter.net/qinbafrank/status/2062…\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "昨晚的美股走势验证了昨天上午推文聊到的：AI基本面没有被证伪的大背景下，短线主跌浪可能已经完成了相当大一部分，后面连续暴杀的概率下降。所以本周不一定继续暴跌，但直接V回去的概率不高，更可能是横盘震荡或缩量缓跌。昨晚的走势确实如此。\n\n当然也要注意昨晚的反弹主要是集中在AI半导体相关，而且在一些列宏观和产业的利好刺激情况下。昨晚这里有聊<a href=\"https://nitter.net/qinbafrank/status/2063978912984838620?s=20\">nitter.net/qinbafrank/status/2063…</a>，伊朗和以色列收手不打，英特尔、康宁，老黄和老马纷纷出来喊单放在以前就是起飞的状态，昨晚就是一个反弹，有点反弹了还没那么强的感觉。\n\n还有一个压制就是十年美债收益率又晃悠悠到了4.56%，应该是强非农导致的。市场接下来会密切关注周三CPI的走势，关于明晚cpi的通胀最核心点则是：能源通胀是否已经传导了服务业，关键要看核心cpi的同比环比走势。上周五也有聊过<a href=\"https://nitter.net/qinbafrank/status/2062912854983086556?s=20\">nitter.net/qinbafrank/status/2062…</a>\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-06-09T03:32:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2064188801015050678",
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "熬过一个焦灼的周末本周市场应该怎么看？上周五晚上有详细梳理美股在上周后半周走势几个变化因素，最早还是上周三晚上的space提示了风险。这次调整的核心逻辑：AI/半导体短期涨幅过大、市场FOMO过强、交易结构过度拥挤，抛物线式上涨本身不可持续；随后又遇到SpaceX巨无霸IPO路演和认购抽水、CPI/PPI/FOMC前的自然避险，以及强就业数据强化“高利率更久甚至重新加息”的担忧，最终触发了热门科技股的集中去杠杆。当然这也是再老话重弹，关键是后续应该怎么看\n\n1、可以先回顾下过去大半年的几次调整\n去年12月也有一次类似的科技股暴跌。当时是 Oracle 先引爆 AI 投入回报率和资本开支担忧，随后 Broadcom 业绩后市场继续杀一波，直到美光强业绩和偏温和的通胀数据才把情绪拉回来。两次相同点都是利率预期扰动，不同点是：去年底今年初市场更担心AI capex的分子端回报，这一次暂时没有形成“AI逻辑崩了”的共识，市场更担心的是分母端——利率、通胀、Fed、地缘和流动性。\n\n存储板块是这一轮AI交易中最强的主线之一，涨幅最大、景气度最高、盈利弹性最强，因此也最容易成为拥挤交易出清时被集中兑现的对象。以美光为例，本轮从6月3日高点1089.29跌到周五收盘864.01，收盘回撤约20.7%；如果按盘中低点850.18算，最大回撤约22.0%。这已经超过5月中旬那轮约20%左右的回撤，但还没有达到3月战争期间更极端的恐慌水平。\n\nKORU作为韩国市场的3倍杠杆ETF，可以近似观察韩国科技/存储交易的风险偏好，但不能直接等同于韩国指数本身。KORU从6月1日高点1279.70跌到6月5日收盘610.01，回撤约52.3%；若按盘中低点599计算，回撤约53.2%。\n\n从空间看，这次已经超过5月中旬那轮回调；\n从时间看，本轮已经连续调整4个交易日，也接近过去几次短线主跌窗口。\n因此一个相对合理的判断是：在AI基本面没有被证伪的大背景下，短线主跌浪可能已经完成了相当大一部分，后面连续暴杀的概率下降。\n\n所以本周不一定继续暴跌，但直接V回去的概率不高，更可能是横盘震荡或缩量缓跌；但只要美债收益率不回落、CPI/FOMC还没落地，市场大概率仍是高波动、偏防守、等待确认和时机好转。\n\n2、再看周末到今天的几个大事件\n1）以色列和黎巴嫩那边还有摩擦，伊朗导弹和无人机开始打击以色列，特朗普一边压内塔尼亚胡不要报复，一边继续保美伊协议线。这条线会扰动油价，也会让市场重新想起通胀压力。\n但目前还没看到重新升温到全面失控的迹象。\n看川普昨晚接受的采访，是极力再确保不会让美伊战争升级的。\n\n2）英伟达和SK预计周一公布合作计划。黄仁勋的口径很直接：内存、晶圆、先进封装、硅光这些环节都短缺，而且短缺可能持续数年。这句话把市场之前炒过的几条线又串回来了。\n\n再当下的市场状态下，会带给市场一定的支撑，但应该很难立马带动反转。今天可以观察市场盘面，低开以后，核心标的能不能稳住？有订单、有客户、有产业位置的公司，会不会先被资金接回去？\n如果核心公司稳，跟风票乱，那就是分化。\n如果核心公司也接不住，这种反抽持续性会很差。\n\n3、等待宏观给出第一个信号\n从4月初以来这两个月的大行情，大涨的契机先是宏观伊朗局势的停火、再是算力短缺、然后是AI商业化加速，这三个时间在4月初到4月中依次展开，由此带动一大波行情。\n4月是“宏观风险解除 → AI产业逻辑重新被放大”；\n现在则是“AI产业逻辑没坏 → 但宏观分母端压住估值 → 所以个人角度也要先等宏观止血”。\n\n那么当下要真正反转，大概率也要先等宏观层面给一个“止血信号”。不一定非要出现一个像4月初“伊朗挺火”那么大的宏观利好；更现实的是，市场需要看到分母端不再继续恶化。\n\n这次为什么需要宏观先给信号？\n因为这次下跌的主要矛盾，不是“AI逻辑崩了”，而是 利率、通胀、依稀会议、地缘、巨无霸IPO抽水、市场太过狂热拥挤度 一起冲击估值，去杠杆。\n\n换句话说，市场现在不是在问：“AI还有没有需求？”\n而是在问：\n“利率如果继续上，AI股票给这么高估值还能不能撑住？”\n所以这一次反转，优先级不是先看产业故事，而是先看宏观压力有没有停止上升。\n\n顺序大概率也类似：先要宏观层面止血，至少CPI不能炸、美债收益率不能继续上冲、SpaceX IPO后是不是释放部分资金流动性，FOMC不能进一步放鹰。只有分母端压力缓和之后，市场才会重新回到AI分子端，重新交易算力短缺、存储涨价、AI capex和商业化加速。\n\n当下要反转，先看宏观信号；但不需要宏观全面转好，只需要宏观不再继续恶化。宏观一旦止血，AI产业逻辑会很快重新接上。所以也是上周五晚上聊到的，短期内说很难完全逆转，需要耐心等。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "熬过一个焦灼的周末本周市场应该怎么看？上周五晚上有详细梳理美股在上周后半周走势几个变化因素，最早还是上周三晚上的space提示了风险。这次调整的核心逻辑：AI/半导体短期涨幅过大、市场FOMO过强、交易结构过度拥挤，抛物线式上涨本身不可持续；随后又遇到SpaceX巨无霸IPO路演和认购抽水、CPI/PPI/FOMC前的自然避险，以及强就业数据强化“高利率更久甚至重新加息”的担忧，最终触发了热门科技股的集中去杠杆。当然这也是再老话重弹，关键是后续应该怎么看\n\n1、可以先回顾下过去大半年的几次调整\n去年12月也有一次类似的科技股暴跌。当时是 Oracle 先引爆 AI 投入回报率和资本开支担忧，随后 Broadcom 业绩后市场继续杀一波，直到美光强业绩和偏温和的通胀数据才把情绪拉回来。两次相同点都是利率预期扰动，不同点是：去年底今年初市场更担心AI capex的分子端回报，这一次暂时没有形成“AI逻辑崩了”的共识，市场更担心的是分母端——利率、通胀、Fed、地缘和流动性。\n\n存储板块是这一轮AI交易中最强的主线之一，涨幅最大、景气度最高、盈利弹性最强，因此也最容易成为拥挤交易出清时被集中兑现的对象。以美光为例，本轮从6月3日高点1089.29跌到周五收盘864.01，收盘回撤约20.7%；如果按盘中低点850.18算，最大回撤约22.0%。这已经超过5月中旬那轮约20%左右的回撤，但还没有达到3月战争期间更极端的恐慌水平。\n\nKORU作为韩国市场的3倍杠杆ETF，可以近似观察韩国科技/存储交易的风险偏好，但不能直接等同于韩国指数本身。KORU从6月1日高点1279.70跌到6月5日收盘610.01，回撤约52.3%；若按盘中低点599计算，回撤约53.2%。\n\n从空间看，这次已经超过5月中旬那轮回调；\n从时间看，本轮已经连续调整4个交易日，也接近过去几次短线主跌窗口。\n因此一个相对合理的判断是：在AI基本面没有被证伪的大背景下，短线主跌浪可能已经完成了相当大一部分，后面连续暴杀的概率下降。\n\n所以本周不一定继续暴跌，但直接V回去的概率不高，更可能是横盘震荡或缩量缓跌；但只要美债收益率不回落、CPI/FOMC还没落地，市场大概率仍是高波动、偏防守、等待确认和时机好转。\n\n2、再看周末到今天的几个大事件\n1）以色列和黎巴嫩那边还有摩擦，伊朗导弹和无人机开始打击以色列，特朗普一边压内塔尼亚胡不要报复，一边继续保美伊协议线。这条线会扰动油价，也会让市场重新想起通胀压力。\n但目前还没看到重新升温到全面失控的迹象。\n看川普昨晚接受的采访，是极力再确保不会让美伊战争升级的。\n\n2）英伟达和SK预计周一公布合作计划。黄仁勋的口径很直接：内存、晶圆、先进封装、硅光这些环节都短缺，而且短缺可能持续数年。这句话把市场之前炒过的几条线又串回来了。\n\n再当下的市场状态下，会带给市场一定的支撑，但应该很难立马带动反转。今天可以观察市场盘面，低开以后，核心标的能不能稳住？有订单、有客户、有产业位置的公司，会不会先被资金接回去？\n如果核心公司稳，跟风票乱，那就是分化。\n如果核心公司也接不住，这种反抽持续性会很差。\n\n3、等待宏观给出第一个信号\n从4月初以来这两个月的大行情，大涨的契机先是宏观伊朗局势的停火、再是算力短缺、然后是AI商业化加速，这三个时间在4月初到4月中依次展开，由此带动一大波行情。\n4月是“宏观风险解除 → AI产业逻辑重新被放大”；\n现在则是“AI产业逻辑没坏 → 但宏观分母端压住估值 → 所以个人角度也要先等宏观止血”。\n\n那么当下要真正反转，大概率也要先等宏观层面给一个“止血信号”。不一定非要出现一个像4月初“伊朗挺火”那么大的宏观利好；更现实的是，市场需要看到分母端不再继续恶化。\n\n这次为什么需要宏观先给信号？\n因为这次下跌的主要矛盾，不是“AI逻辑崩了”，而是 利率、通胀、依稀会议、地缘、巨无霸IPO抽水、市场太过狂热拥挤度 一起冲击估值，去杠杆。\n\n换句话说，市场现在不是在问：“AI还有没有需求？”\n而是在问：\n“利率如果继续上，AI股票给这么高估值还能不能撑住？”\n所以这一次反转，优先级不是先看产业故事，而是先看宏观压力有没有停止上升。\n\n顺序大概率也类似：先要宏观层面止血，至少CPI不能炸、美债收益率不能继续上冲、SpaceX IPO后是不是释放部分资金流动性，FOMC不能进一步放鹰。只有分母端压力缓和之后，市场才会重新回到AI分子端，重新交易算力短缺、存储涨价、AI capex和商业化加速。\n\n当下要反转，先看宏观信号；但不需要宏观全面转好，只需要宏观不再继续恶化。宏观一旦止血，AI产业逻辑会很快重新接上。所以也是上周五晚上聊到的，短期内说很难完全逆转，需要耐心等。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2063804130074775578",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKQaDfEWIAAo3s5.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKQaFpqXYAAqB6C.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064187357335867660",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "币圈荒诞轶事+1\n\n> Hex Trust 关联实体在链上疯狂提币\n> 投资人代币原定 06.26 一次性解锁\n> 项目方前阵子还在场外收币\n> KOL 轮纸面百倍回报率\n\n今天：黑客攻击，H 链上币价近乎归零",
-      "contentHtml": "币圈荒诞轶事+1\n\n&gt; Hex Trust 关联实体在链上疯狂提币\n&gt; 投资人代币原定 06.26 一次性解锁\n&gt; 项目方前阵子还在场外收币\n&gt; KOL 轮纸面百倍回报率\n\n今天：黑客攻击，H 链上币价近乎归零",
-      "publishedAt": "2026-06-09T03:26:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2064187357335867660",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKV3dOAaQAA1hvQ.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "Hex Trust 关联实体再次囤积 1301 万美元 $H ，已累计持有 6.42% 的流通代币筹码🤨\n\n过去 20 小时，从各大交易所中提出 1984 万枚 H；近两天累计囤积的 H 数量已达 1.82 亿枚，总价值 1.21 亿美元\n\n钱包地址\narkm.com/explorer/address/0x…\narkm.com/explorer/address/0x…\narkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "contentHtml": "Hex Trust 关联实体再次囤积 1301 万美元 <a href=\"/search?f=tweets&q=%23H\">$H</a> ，已累计持有 6.42% 的流通代币筹码🤨\n\n过去 20 小时，从各大交易所中提出 1984 万枚 H；近两天累计囤积的 H 数量已达 1.82 亿枚，总价值 1.21 亿美元\n\n钱包地址\n<a href=\"https://arkm.com/explorer/address/0xb13d0532bF30D465447bfA5244492fF826F9A3CD\">arkm.com/explorer/address/0x…</a>\n<a href=\"https://arkm.com/explorer/address/0x15c088B42d4A6BF13E4D5d4dc104e29743bfcB1E\">arkm.com/explorer/address/0x…</a>\n<a href=\"https://arkm.com/explorer/address/0x6BE0aeb4Fb611CE9b528D343dBac44B90B3144AC\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "link": "https://x.com/ai_9684xtpa/status/2063445928615510194",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKLVGbDacAA-rGm.jpg"
           }
         ]
       },
