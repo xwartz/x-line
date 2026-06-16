@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T07:18:41.832Z",
+  "lastUpdated": "2026-06-16T09:19:12.433Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,202 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 646,
+    "newFetched": 647,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2066811649491956028",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "BTC 磨底进行中\n\n实现市值（Realized Cap，RC）实现市值30日净减少148亿美元；2月18日时峰值为288亿美元。当 bitcoin:native 下跌到同样价格时，RC净减少的量级在变小，这背后反映哪些重要信息值得我们关注？\n\nRC本质上是\"按成本计价的资金净进出\"。筹码在低于成本的价位移动时，实现市值下修，红色就是这种亏损实现的净规模。\n\n所以，这背后主要有3个原因：\n\n1⃣  整体成本下移；2月的深度投降，等于把一批高成本筹码在低位强制换手。等价格再跌回同一区间，能够实现亏损的那部分供给前面已经消化掉一轮，所以净减少量级自然降低。\n\n这是抛压结构性衰竭的直接证据。最直观的理解，即数据形态和价格行为产生背离。\n\n2⃣ 边际卖家衰竭；愿意在这个价位割肉的筹码越来越少，剩下的要么成本更低信念更强，要么是流动性低且暂时不动的套牢盘。\n\n3⃣ 净减少量级变小也可能只是链上整体活跃度萎缩；换手少了，RC就不怎么变了。因此，为了排除这个反向解释，我们需要结合EA-TRV（实体调整后的总转账量 ）来对比。\n\n从数据上看，6月份7日日均转移10.1w枚BTC；而2月份是13.6w枚；相比之下确实有减少，但却没有低那么多。\n\n因此，对“同样的价格下RC净减少量大幅缩小”这一数据影响最大的原因就是上述1和2，即深度投降中强制换手，使得整体成本下移，以及边际卖家衰竭。\n\n当然，这更像是“磨底进行中”的佐证之一，而并非是“底已到”的直接确认。",
+      "contentHtml": "BTC 磨底进行中\n\n实现市值（Realized Cap，RC）实现市值30日净减少148亿美元；2月18日时峰值为288亿美元。当 bitcoin:native 下跌到同样价格时，RC净减少的量级在变小，这背后反映哪些重要信息值得我们关注？\n\nRC本质上是\"按成本计价的资金净进出\"。筹码在低于成本的价位移动时，实现市值下修，红色就是这种亏损实现的净规模。\n\n所以，这背后主要有3个原因：\n\n1⃣  整体成本下移；2月的深度投降，等于把一批高成本筹码在低位强制换手。等价格再跌回同一区间，能够实现亏损的那部分供给前面已经消化掉一轮，所以净减少量级自然降低。\n\n这是抛压结构性衰竭的直接证据。最直观的理解，即数据形态和价格行为产生背离。\n\n2⃣ 边际卖家衰竭；愿意在这个价位割肉的筹码越来越少，剩下的要么成本更低信念更强，要么是流动性低且暂时不动的套牢盘。\n\n3⃣ 净减少量级变小也可能只是链上整体活跃度萎缩；换手少了，RC就不怎么变了。因此，为了排除这个反向解释，我们需要结合EA-TRV（实体调整后的总转账量 ）来对比。\n\n从数据上看，6月份7日日均转移10.1w枚BTC；而2月份是13.6w枚；相比之下确实有减少，但却没有低那么多。\n\n因此，对“同样的价格下RC净减少量大幅缩小”这一数据影响最大的原因就是上述1和2，即深度投降中强制换手，使得整体成本下移，以及边际卖家衰竭。\n\n当然，这更像是“磨底进行中”的佐证之一，而并非是“底已到”的直接确认。",
+      "publishedAt": "2026-06-16T09:14:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2066811649491956028",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK7JvbQaUAAjmiK.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK7JxAObAAAGFc0.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "Glassnode作为业内首屈一指的数据平台，他们的每一期研报都值得一看。但其表述和结论通常都会秉持中性原则，尽可能不带倾向，以免给产生“投资建议”的嫌疑。\n\n因此，我个人会更重过程，而轻结论。比如在5月13日发布的最新一期周报取名为《缺乏确信的反弹》，顾名思义大体意思就是：\n\n这轮6w~8w的反弹，在链上、ETF、现货、衍生品这4条线索都在转好。但与23–25年牛市启动相比，资本流入强度差了一个数量级。\n\n这其中判断的核心就是：资本流入强度 —— 已实现市值30日净头寸变化（RC 30D NPC）。\n\n官方的表述是，回看上轮牛市每一段真正的主升浪启动时，30D NPC都会从20亿美元/月，在数周内加速冲到100亿美元/月（图1）。而本轮反弹至今也只有28亿美元/月，大约是主升浪门槛的25-30%。\n\n所以，据此判断更像是\"结构性修复\"，而不是\"动能突破确认\"，即不是主升浪启动前的状态。\n\n这个结论和我们最近一直在强调“当前还不是喊牛回的时候”是一致的。相比于此，其实我们更应该关注的是另外个现象 —— 资金的情绪趋势。\n\n正如我们在图2中所看到的，在熊市的后半段，30D NPC是长期处于零轴以下，甚至是深度负值。数值越负，资金的情绪越悲观。\n\n所以真正值得我们思考的问题有3个：\n\n1、熊市后半段，30D NPC为什么会长期深度负值？\n2、熊市中也不乏反弹行情，但30D NPC为何无法重回零轴以上？\n3、当30D NPC从长期负值转为每月28亿美元正增长，这意味着什么？\n\n这才是真正隐藏在Glassnode研报中的核心密码，想明白这3个问题（资本流向），很多困惑就迎刃而解了。",
+        "contentHtml": "Glassnode作为业内首屈一指的数据平台，他们的每一期研报都值得一看。但其表述和结论通常都会秉持中性原则，尽可能不带倾向，以免给产生“投资建议”的嫌疑。\n\n因此，我个人会更重过程，而轻结论。比如在5月13日发布的最新一期周报取名为《缺乏确信的反弹》，顾名思义大体意思就是：\n\n这轮6w~8w的反弹，在链上、ETF、现货、衍生品这4条线索都在转好。但与23–25年牛市启动相比，资本流入强度差了一个数量级。\n\n这其中判断的核心就是：资本流入强度 —— 已实现市值30日净头寸变化（RC 30D NPC）。\n\n官方的表述是，回看上轮牛市每一段真正的主升浪启动时，30D NPC都会从20亿美元/月，在数周内加速冲到100亿美元/月（图1）。而本轮反弹至今也只有28亿美元/月，大约是主升浪门槛的25-30%。\n\n所以，据此判断更像是\"结构性修复\"，而不是\"动能突破确认\"，即不是主升浪启动前的状态。\n\n这个结论和我们最近一直在强调“当前还不是喊牛回的时候”是一致的。相比于此，其实我们更应该关注的是另外个现象 —— 资金的情绪趋势。\n\n正如我们在图2中所看到的，在熊市的后半段，30D NPC是长期处于零轴以下，甚至是深度负值。数值越负，资金的情绪越悲观。\n\n所以真正值得我们思考的问题有3个：\n\n1、熊市后半段，30D NPC为什么会长期深度负值？\n2、熊市中也不乏反弹行情，但30D NPC为何无法重回零轴以上？\n3、当30D NPC从长期负值转为每月28亿美元正增长，这意味着什么？\n\n这才是真正隐藏在Glassnode研报中的核心密码，想明白这3个问题（资本流向），很多困惑就迎刃而解了。",
+        "link": "https://x.com/Murphychen888/status/2055177657348935686",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIV0uvPbkAAxgOG.png"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HIV0xLlbQAAV9hE.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066797270084022276",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "韩国人🇰🇷的黄金时代  羡慕啊",
+      "contentHtml": "韩国人🇰🇷的黄金时代  羡慕啊",
+      "publishedAt": "2026-06-16T08:17:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2066797270084022276",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK69KF-awAAMeM1.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066796120802771267",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
+      "content": "所以上一届世界杯，\n已经是最后一届没有视频 +AI 的了😅",
+      "contentHtml": "所以上一届世界杯，\n已经是最后一届没有视频 +AI 的了😅",
+      "publishedAt": "2026-06-16T08:12:00.000Z",
+      "link": "https://x.com/coolish/status/2066796120802771267",
+      "quote": {
+        "username": "coolish",
+        "displayName": "paulwei",
+        "content": "是否可以做个免费世界杯 AI 直播网站（有延迟也可）\n画面由基于原始直播，由 AI 实时生成显示\n各种贝叶斯概率预测数据/趣味特效/AI毒蛇语音解说，\n甚至球员体力槽，游戏视角等..\n\n可以比较不同模型表现。\n会比较有趣吗？有这类服务吗？\n\n这届世界杯会不会是最后一届\n没有这类+AI实时视频服务的世界杯？",
+        "contentHtml": "是否可以做个免费世界杯 AI 直播网站（有延迟也可）\n画面由基于原始直播，由 AI 实时生成显示\n各种贝叶斯概率预测数据/趣味特效/AI毒蛇语音解说，\n甚至球员体力槽，游戏视角等..\n\n可以比较不同模型表现。\n会比较有趣吗？有这类服务吗？\n\n这届世界杯会不会是最后一届\n没有这类+AI实时视频服务的世界杯？",
+        "link": "https://x.com/coolish/status/2065310169299653089"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066791553738195017",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#MRVL #缺口\n\n迈威尔昨天又涨了10个点，收了一个寓意很好的价格308.88\n\n复盘了整个迈威尔6月走势，6月2号的上涨缺口，是一个非常明显的强势突破缺口，这种突破缺口，是主力资金暴力拉升，急速脱离成本区（“甩人下车”阶段）常用的操作方法 \n\n6月11号缩量回踩缺口，再次确认缺口支撑（“倒车接人”或“骗人下车”阶段），其实这里就是第二次上车机会了，缺口没有回补，简单理解为这是强支撑区即可，我们就围绕迈威尔从224-249的价格缺口，只要后续价格不跌破这个强势缺口，后面行情全部按照多头行情处理即可 \n\n已经出现了一次倒车接人了，真正的突破缺口，是完全“不补”的缺口，只要缺口不补，我就一直拿着",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23MRVL\">#MRVL</a> <a href=\"/search?f=tweets&q=%23缺口\">#缺口</a>\n\n迈威尔昨天又涨了10个点，收了一个寓意很好的价格308.88\n\n复盘了整个迈威尔6月走势，6月2号的上涨缺口，是一个非常明显的强势突破缺口，这种突破缺口，是主力资金暴力拉升，急速脱离成本区（“甩人下车”阶段）常用的操作方法 \n\n6月11号缩量回踩缺口，再次确认缺口支撑（“倒车接人”或“骗人下车”阶段），其实这里就是第二次上车机会了，缺口没有回补，简单理解为这是强支撑区即可，我们就围绕迈威尔从224-249的价格缺口，只要后续价格不跌破这个强势缺口，后面行情全部按照多头行情处理即可 \n\n已经出现了一次倒车接人了，真正的突破缺口，是完全“不补”的缺口，只要缺口不补，我就一直拿着",
+      "publishedAt": "2026-06-16T07:54:00.000Z",
+      "link": "https://x.com/dongbimao/status/2066791553738195017",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK63odzXkAAtopu.png"
+        }
+      ],
+      "quote": {
+        "username": "dongbimao",
+        "displayName": "懂币猫",
+        "content": "#MRVL\n\nMRVL盘前再次突破300，迈威尔在这一波下跌中反弹太猛了，这种标的才是重点观察对象，不随大盘下跌，大盘反弹后往往涨的越猛\n\n黄仁勋喊单没多久，6月22日迈威尔将纳入标普500指数看来看去最近全是利好\n\n他本身的核心逻辑我看没有任何变化而且预期很强。AI 集群变大后，光互联的需求会更快增长。Pod 越大，MoE 和 reasoning model 越多\n\n芯片之间的数据交换越密集，每颗芯片需要的网络带宽和光链路价值量都会上升，所以算力规模翻倍，光互联需求可能不止翻倍\n\n这个趋势已经体现在管理层指引里：Marvell FY27 interconnect 增长预期从约 +30%，上调到 +50%，最新又上调到超过 +70%\n\n同时公司也表示 FY28 interconnect 仍会跑赢 cloud capex 增速。连续上修说明 AI 光互联需求比公司最初预期更强\n\n全是利好啊，我先继续拿着了",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23MRVL\">#MRVL</a>\n\nMRVL盘前再次突破300，迈威尔在这一波下跌中反弹太猛了，这种标的才是重点观察对象，不随大盘下跌，大盘反弹后往往涨的越猛\n\n黄仁勋喊单没多久，6月22日迈威尔将纳入标普500指数看来看去最近全是利好\n\n他本身的核心逻辑我看没有任何变化而且预期很强。AI 集群变大后，光互联的需求会更快增长。Pod 越大，MoE 和 reasoning model 越多\n\n芯片之间的数据交换越密集，每颗芯片需要的网络带宽和光链路价值量都会上升，所以算力规模翻倍，光互联需求可能不止翻倍\n\n这个趋势已经体现在管理层指引里：Marvell FY27 interconnect 增长预期从约 +30%，上调到 +50%，最新又上调到超过 +70%\n\n同时公司也表示 FY28 interconnect 仍会跑赢 cloud capex 增速。连续上修说明 AI 光互联需求比公司最初预期更强\n\n全是利好啊，我先继续拿着了",
+        "link": "https://x.com/dongbimao/status/2064303617700458716",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKXhE1hXMAA-JGE.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066786958744125834",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "ヽ(•ω•。)ノ哇喔，山寨快乐季\n\n$wld 目标2.5 ，冲啊",
+      "contentHtml": "ヽ(•ω•。)ノ哇喔，山寨快乐季\n\n<a href=\"/search?f=tweets&q=%23wld\">$wld</a> 目标2.5 ，冲啊",
+      "publishedAt": "2026-06-16T07:36:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2066786958744125834",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK6zx2iacAAsrz8.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "牛回  感觉可以做山寨了\n\n$hype \n$wld \n哪个好？",
+        "contentHtml": "牛回  感觉可以做山寨了\n\n<a href=\"/search?f=tweets&q=%23hype\">$hype</a> \n<a href=\"/search?f=tweets&q=%23wld\">$wld</a> \n哪个好？",
+        "link": "https://x.com/Bitfatty/status/2066775105519399023",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HK6pAV5aYAAxKe7.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HK6pAPlbwAA8YIg.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2066783996529520901",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "“不喜欢可以做空”？\n\n但做空妖币的成本可太高了，扛单几天资金费直接能把保证金烧穿\n\n这次币安出手了 —— 链上疯狂增发币价归零，合约上下插针多空双爆，基于 $H 的骚操作，合约主战场币安推出了限时「价格保护机制 」\n\n1️⃣ 放弃现货对标记价格的影响（毕竟现货已经归零了），仅从合约盘面的交易价格出发计算\n2️⃣ 将资金费率上下限从 2% 调整至 0.005%，结算周期由每小时调整为每四小时\n\n这么一来，空军终于能喘口气了，后续想搞骚操作的庄家也得再想想了，这波给币安点赞 @heyibinance @sisibinance @cz_binance @binancezh",
+      "contentHtml": "“不喜欢可以做空”？\n\n但做空妖币的成本可太高了，扛单几天资金费直接能把保证金烧穿\n\n这次币安出手了 —— 链上疯狂增发币价归零，合约上下插针多空双爆，基于 <a href=\"/search?f=tweets&q=%23H\">$H</a> 的骚操作，合约主战场币安推出了限时「价格保护机制 」\n\n1️⃣ 放弃现货对标记价格的影响（毕竟现货已经归零了），仅从合约盘面的交易价格出发计算\n2️⃣ 将资金费率上下限从 2% 调整至 0.005%，结算周期由每小时调整为每四小时\n\n这么一来，空军终于能喘口气了，后续想搞骚操作的庄家也得再想想了，这波给币安点赞 <a href=\"/heyibinance\" title=\"Yi He\">@heyibinance</a> <a href=\"/sisibinance\" title=\"sisi\">@sisibinance</a> <a href=\"/cz_binance\" title=\"CZ 🔶 BNB\">@cz_binance</a> <a href=\"/binancezh\" title=\"币安Binance华语\">@binancezh</a>",
+      "publishedAt": "2026-06-16T07:24:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2066783996529520901",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HK6vLOlacAARiQg.png"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "币圈荒诞轶事+1\n\n> Hex Trust 关联实体在链上疯狂提币\n> 投资人代币原定 06.26 一次性解锁\n> 项目方前阵子还在场外收币\n> KOL 轮纸面百倍回报率\n\n今天：黑客攻击，H 链上币价近乎归零",
+        "contentHtml": "币圈荒诞轶事+1\n\n&gt; Hex Trust 关联实体在链上疯狂提币\n&gt; 投资人代币原定 06.26 一次性解锁\n&gt; 项目方前阵子还在场外收币\n&gt; KOL 轮纸面百倍回报率\n\n今天：黑客攻击，H 链上币价近乎归零",
+        "link": "https://x.com/ai_9684xtpa/status/2064187357335867660",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKV3dOAaQAA1hvQ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2066778307081982182",
       "username": "taresky",
@@ -12076,160 +12267,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064583758175711453",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "昨天qqq最高跌了8%\n\n币圈兄弟说跌的太少了",
-      "contentHtml": "昨天qqq最高跌了8%\n\n币圈兄弟说跌的太少了",
-      "publishedAt": "2026-06-10T05:41:00.000Z",
-      "link": "https://x.com/octopusycc/status/2064583758175711453",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKbf-k_aMAArT6-.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKbf-k9asAAavOp.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064580433791332772",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "今晚市场最焦点话题无疑是美国五月通胀走势，之前这里nitter.net/qinbafrank/status/2062…有聊过通胀数据最关键是核心CPI的同比环比数据。看彭博美国首席经济学家Anna的最新推文，她从彭博自己的数据来看：\n计算机相关商品的回升（那次内存芯片和NAND短缺）、强劲的机票价格、体育器材和大型家用电器的通胀加速（基本上是金属含量高的东西——这可能看起来像是关税传导，但并非如此）。商品通胀反弹还在继续，能源通胀自然也是。\n\n但彭博的数据显示核心CPI接近与美联储2%通胀目标一致的水平。该如何解释？主要是娱乐服务通胀疲软，人们正在削减健身房、俱乐部、流媒体服务、兽医就诊、牙科就诊……\n\n简单说就是能源、商品通胀反弹在继续，但是服务业的通胀还是疲软状态。个人角度还有一种可能就是能源和商品的走强压缩了服务业的消费。\n\n市场预期：\n广义cpi和核心cpi的同比是4.2%、2.9%，环比是是0.5%、0.3%。\n看克利夫兰联储通胀实时预测：\n广义cpi和核心cpi的同比是4.18%、2.82%，环比是0.46%、0.23%。\n\n之前克利夫兰联储通胀预测数据跟最终公布出来的通胀数据很接近、预测胜率很高。就看今晚会如何🧐",
-      "contentHtml": "今晚市场最焦点话题无疑是美国五月通胀走势，之前这里<a href=\"https://nitter.net/qinbafrank/status/2062912854983086556?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2062…</a>有聊过通胀数据最关键是核心CPI的同比环比数据。看彭博美国首席经济学家Anna的最新推文，她从彭博自己的数据来看：\n计算机相关商品的回升（那次内存芯片和NAND短缺）、强劲的机票价格、体育器材和大型家用电器的通胀加速（基本上是金属含量高的东西——这可能看起来像是关税传导，但并非如此）。商品通胀反弹还在继续，能源通胀自然也是。\n\n但彭博的数据显示核心CPI接近与美联储2%通胀目标一致的水平。该如何解释？主要是娱乐服务通胀疲软，人们正在削减健身房、俱乐部、流媒体服务、兽医就诊、牙科就诊……\n\n简单说就是能源、商品通胀反弹在继续，但是服务业的通胀还是疲软状态。个人角度还有一种可能就是能源和商品的走强压缩了服务业的消费。\n\n市场预期：\n广义cpi和核心cpi的同比是4.2%、2.9%，环比是是0.5%、0.3%。\n看克利夫兰联储通胀实时预测：\n广义cpi和核心cpi的同比是4.18%、2.82%，环比是0.46%、0.23%。\n\n之前克利夫兰联储通胀预测数据跟最终公布出来的通胀数据很接近、预测胜率很高。就看今晚会如何🧐",
-      "publishedAt": "2026-06-10T05:28:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2064580433791332772",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKbc9dsbUAAlYFQ.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKbc9dsa0AA1iVs.jpg"
-        }
-      ],
-      "quote": {
-        "username": "AnnaEconomist",
-        "displayName": "Anna Wong",
-        "content": "What Bloomberg Price Project (now covering 85% of the basket) is saying about May’s CPI. @tdurie95 \n\nFlagging:\n-pickup in computer related goods (that memory chip and nand shortage)\n\n-strong airfares \n\n-accelerated inflation in sports equipment and major appliances (basically stuff that has high metal component—this may seem like tariffs pass through but is not)\n\nAnd yet…\n\nCore cpi close to the pace consistent with Fed’s 2% inflation target\n\nHow to square?\n\nWeak recreation services inflation.\n\nPeople are cutting back to gyms, clubs, streaming services, vets visits, dental visits….",
-        "contentHtml": "What Bloomberg Price Project (now covering 85% of the basket) is saying about May’s CPI. <a href=\"/tdurie95\" title=\"Troy Durie\">@tdurie95</a> \n\nFlagging:\n-pickup in computer related goods (that memory chip and nand shortage)\n\n-strong airfares \n\n-accelerated inflation in sports equipment and major appliances (basically stuff that has high metal component—this may seem like tariffs pass through but is not)\n\nAnd yet…\n\nCore cpi close to the pace consistent with Fed’s 2% inflation target\n\nHow to square?\n\nWeak recreation services inflation.\n\nPeople are cutting back to gyms, clubs, streaming services, vets visits, dental visits….",
-        "link": "https://x.com/AnnaEconomist/status/2064504857084805204",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKaYNyPbAAAA8_J.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKaYNyZaYAEsaZH.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064570725651079286",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "😆😆😆😆😆😆😆😆😆",
-      "contentHtml": "😆😆😆😆😆😆😆😆😆",
-      "publishedAt": "2026-06-10T04:49:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2064570725651079286",
-      "quote": {
-        "username": "wmngyng47063686",
-        "displayName": "散修阿铭",
-        "content": "做空黄金的，你们的对手盘是各国央行",
-        "contentHtml": "做空黄金的，你们的对手盘是各国央行",
-        "link": "https://x.com/wmngyng47063686/status/2064561297807847591"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064568491127325125",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#成都 \n\n最后选了家连锁的，套房一百多平，连住才 800 块/天。好卷🥲",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23成都\">#成都</a> \n\n最后选了家连锁的，套房一百多平，连住才 800 块/天。好卷🥲",
-      "publishedAt": "2026-06-10T04:41:00.000Z",
-      "link": "https://x.com/taresky/status/2064568491127325125",
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "#成都 \n\n成都有没有你住过印象很好的酒店？尤其是安静 🙏",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23成都\">#成都</a> \n\n成都有没有你住过印象很好的酒店？尤其是安静 🙏",
-        "link": "https://x.com/taresky/status/2062743023038189956"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064568029837668819",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "前SEC委员/代理主席加入Backpack董事会，不得不说BP这是打造了加密领域最强的合规监管政策天团。之前CFTC代理主席（现Backpack US总裁）+前FTX总法律顾问&Coinbase上市核心法律团队成员CanSun（BP联创），已经是“传统金融监管+Crypto法律”的最强组合。现在前SEC代理主席Michael S. Piwowar博士又入局董事会，这简直是把SEC+CFTC双监管钥匙一次性握在手里——应该算是当下加密领域政策合规背景最硬核的一支领导层。\n\n也聊聊这位Michael S. Piwowar博士的含金量：\n1）SEC核心监管经验：2013-2018年担任SEC委员，由奥巴马提名、参议院一致确认；2017年还担任为期半年的SEC代理主席。他是少数拥有金融学PhD的SEC委员之一，任期内参与多项决策，包括100多项规则制定。\n\n2）大家都关注Piwowar在SEC的经历，其实他在国会+白宫经历时间更长：Piwowar还曾是布什/奥巴马两届政府的总统经济顾问委员会（CEA）的高级经济学家，长期在参议院银行委员会担任共和党首席经济学家。直接参与起草了Dodd-Frank Act的核心条款，这项《多德-弗兰克法案》是美国历史上最具里程碑意义的金融改革法案之一，旨在应对2008年金融危机暴露出的监管缺陷，目标是提高金融体系的问责制和透明度，结束“大到不能倒”的政府救助，并全面保护消费者。\n\n可以看出Piwowar博士是真正懂法律制定、懂监管执行、懂政策落地的人。\n\n前SEC委员、代理主席 + 前CFTC委员、代理主席 + 加密法律最懂的人聚在一起，这几乎是SEC监管天花板 × CFTC监管天花板 × Crypto法律天花板的三重最强组合！\n\n这会给Backpack带来什么？\n1）美国牌照+证券法路径彻底打通：Piwowar的SEC经验能直接对接Crypto Task Force、证券法适用性讨论，帮助Backpack更快拿下多州MTL、CFTC DCM/DCO注册，这是不是意味着Backpack也快要拿到美国最早的几张永续合约的牌照了呢？\n\n2）机构信任度和对话权重指数级提升：大资金、养老基金、大型资管机构等对于合规性非常看重，前SEC代理主席+前CFTC代理主席相继加入，相当于给Backpack贴上官方“安全背书”。\n\n3）全球合规超级App加速落地：Backpack已经拿了VARA、欧洲MiFID II，现在再加Piwowar的国会/白宫人脉和政策洞察，未来永续合约、股票期权、真实资产上链这些创新，会走得更快、更稳。\n\n甚至可以说Backpack都能直接影响SEC、CFTC、DTCC这几大美国机构对加密等金融的政策合规方向了。\n\n顶级监管大佬们汇聚在一起，构建的正是**当下加密行业最硬的合规监管护城河。**这波操作会让crypto真正能走到更高纬度——只有足够合规，大资金、大机构才会放心把真金白银放进来，也会让创新走的更稳当。",
-      "contentHtml": "前SEC委员/代理主席加入Backpack董事会，不得不说BP这是打造了加密领域最强的合规监管政策天团。之前CFTC代理主席（现Backpack US总裁）+前FTX总法律顾问&Coinbase上市核心法律团队成员CanSun（BP联创），已经是“传统金融监管+Crypto法律”的最强组合。现在前SEC代理主席Michael S. Piwowar博士又入局董事会，这简直是把SEC+CFTC双监管钥匙一次性握在手里——应该算是当下加密领域政策合规背景最硬核的一支领导层。\n\n也聊聊这位Michael S. Piwowar博士的含金量：\n1）SEC核心监管经验：2013-2018年担任SEC委员，由奥巴马提名、参议院一致确认；2017年还担任为期半年的SEC代理主席。他是少数拥有金融学PhD的SEC委员之一，任期内参与多项决策，包括100多项规则制定。\n\n2）大家都关注Piwowar在SEC的经历，其实他在国会+白宫经历时间更长：Piwowar还曾是布什/奥巴马两届政府的总统经济顾问委员会（CEA）的高级经济学家，长期在参议院银行委员会担任共和党首席经济学家。直接参与起草了Dodd-Frank Act的核心条款，这项《多德-弗兰克法案》是美国历史上最具里程碑意义的金融改革法案之一，旨在应对2008年金融危机暴露出的监管缺陷，目标是提高金融体系的问责制和透明度，结束“大到不能倒”的政府救助，并全面保护消费者。\n\n可以看出Piwowar博士是真正懂法律制定、懂监管执行、懂政策落地的人。\n\n前SEC委员、代理主席 + 前CFTC委员、代理主席 + 加密法律最懂的人聚在一起，这几乎是SEC监管天花板 × CFTC监管天花板 × Crypto法律天花板的三重最强组合！\n\n这会给Backpack带来什么？\n1）美国牌照+证券法路径彻底打通：Piwowar的SEC经验能直接对接Crypto Task Force、证券法适用性讨论，帮助Backpack更快拿下多州MTL、CFTC DCM/DCO注册，这是不是意味着Backpack也快要拿到美国最早的几张永续合约的牌照了呢？\n\n2）机构信任度和对话权重指数级提升：大资金、养老基金、大型资管机构等对于合规性非常看重，前SEC代理主席+前CFTC代理主席相继加入，相当于给Backpack贴上官方“安全背书”。\n\n3）全球合规超级App加速落地：Backpack已经拿了VARA、欧洲MiFID II，现在再加Piwowar的国会/白宫人脉和政策洞察，未来永续合约、股票期权、真实资产上链这些创新，会走得更快、更稳。\n\n甚至可以说Backpack都能直接影响SEC、CFTC、DTCC这几大美国机构对加密等金融的政策合规方向了。\n\n顶级监管大佬们汇聚在一起，构建的正是**当下加密行业最硬的合规监管护城河。**这波操作会让crypto真正能走到更高纬度——只有足够合规，大资金、大机构才会放心把真金白银放进来，也会让创新走的更稳当。",
-      "publishedAt": "2026-06-10T04:39:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2064568029837668819",
-      "quote": {
-        "username": "Backpack_CN",
-        "displayName": "Backpack中文",
-        "content": "我们很高兴地宣布，前 美国证券交易委员会（SEC）代理主席，委员Michael S. Piwowar 博士加入 Backpack US 董事会\n\nPiwowar 博士于 2013 至 2018 年间出任 SEC 委员，后由特朗普总统指定为 SEC 代理主席，是最早公开介入数字资产与 ICO 监管议题的美国高层监管者之一\n\n在 Backpack US 加速推进美国扩张之际，他为团队带来证券监管、资本市场政策、市场结构与投资者保护等领域的深厚专业积累\n\n加上前 CFTC 委员、代理主席 Mark Wetjen 出任 Backpack US 总裁，以及 Piwowar 博士加入董事会，Backpack US 正汇聚一支横跨 SEC、CFTC、DTCC 与美国资本市场的资深领导团队",
-        "contentHtml": "我们很高兴地宣布，前 美国证券交易委员会（SEC）代理主席，委员Michael S. Piwowar 博士加入 Backpack US 董事会\n\nPiwowar 博士于 2013 至 2018 年间出任 SEC 委员，后由特朗普总统指定为 SEC 代理主席，是最早公开介入数字资产与 ICO 监管议题的美国高层监管者之一\n\n在 Backpack US 加速推进美国扩张之际，他为团队带来证券监管、资本市场政策、市场结构与投资者保护等领域的深厚专业积累\n\n加上前 CFTC 委员、代理主席 Mark Wetjen 出任 Backpack US 总裁，以及 Piwowar 博士加入董事会，Backpack US 正汇聚一支横跨 SEC、CFTC、DTCC 与美国资本市场的资深领导团队",
-        "link": "https://x.com/Backpack_CN/status/2064332887982575971",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKX7z0xbsAAtc_J.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064566930540044481",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "珍惜现在交易所给的每一次pre ipo机会，都是一次理财。反正认识的现实朋友玩美股的没几个能有机会参与的这些pre ipo的。现在每个交易所就想靠这个吸点新用户流量，也基本上不会把盘面做的太难看。",
-      "contentHtml": "珍惜现在交易所给的每一次pre ipo机会，都是一次理财。反正认识的现实朋友玩美股的没几个能有机会参与的这些pre ipo的。现在每个交易所就想靠这个吸点新用户流量，也基本上不会把盘面做的太难看。",
-      "publishedAt": "2026-06-10T04:34:00.000Z",
-      "link": "https://x.com/0xleng1/status/2064566930540044481",
       "stats": {
         "replies": 0,
         "retweets": 0,
