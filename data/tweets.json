@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T09:35:36.983Z",
+  "lastUpdated": "2026-06-17T11:34:35.360Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,309 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 651,
+    "newFetched": 647,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2067206009593213301",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "不一定接 我会看看情况",
+      "contentHtml": "不一定接 我会看看情况",
+      "publishedAt": "2026-06-17T11:21:00.000Z",
+      "link": "https://x.com/0xleng1/status/2067206009593213301",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067205296070525025",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Monday Pivot High. ✅\n\nTextbook NY session sweep, exactly as outlined. We rejected my POI perfectly.\n\nThat said, we're now at a critical level. If $BTC fails to hold 64K, be prepared for a move back below 60K.",
+      "contentHtml": "Monday Pivot High. ✅\n\nTextbook NY session sweep, exactly as outlined. We rejected my POI perfectly.\n\nThat said, we're now at a critical level. If <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> fails to hold 64K, be prepared for a move back below 60K.",
+      "publishedAt": "2026-06-17T11:18:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2067205296070525025",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLAv8hQXcAAadpD.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "$BTC Monday.\n\nBulls need to hold 64K. If we hold 64K then we can easily test 67K & squeeze some more shorts. \n\nOn the other hand, unable to hold 64K an we go right back below 60K & this pump was just a scam wick to bait longs. \n\nObserving London/NY today will be key in determining whether Monday marks a pivot high before downside, or if we see continuation for further upside.",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> Monday.\n\nBulls need to hold 64K. If we hold 64K then we can easily test 67K & squeeze some more shorts. \n\nOn the other hand, unable to hold 64K an we go right back below 60K & this pump was just a scam wick to bait longs. \n\nObserving London/NY today will be key in determining whether Monday marks a pivot high before downside, or if we see continuation for further upside.",
+        "link": "https://x.com/KillaXBT/status/2066283435576946924",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKzo-O7XMAAI4Gs.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067203577991553148",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "谁拥有真实瓶颈？谁能把瓶颈兑现成利润、谁在下一代架构迁移中拿到控制点、谁的估值已经提前透支？这是AI算力产业链投资逻辑的新阶段最重要的四个问题。核心逻辑就是当一个产业链上所有环节都被炒过一遍之后，再往后就不能眉毛胡子一把抓，而是要去真正区分哪些公司在产业链真的是不可替代、有极强的核心竞争力，之前市场对其的预期是否已经有足够巨量的订单和超预期的交付在支撑。本质是从撒胡椒面到细细筛选。\n\n换句话说，过去两年可以买“AI 数据中心相关性”；再往后更要去买 稀缺现金流 + 架构控制权 + 可验证的订单持续性。\n\n两大关键问题\n问题一：它是“真实瓶颈”，还是“主题相关”？\n真实瓶颈的特点是：交期拉长、客户愿意预付款或签长期协议、ASP 上行、毛利率扩张、扩产慢。\n主题相关的特点是：收入涨但毛利不涨，客户高度集中，capex 多但 ROIC 不清楚，或者只是“进入供应链”但份额很小。\n当前更接近真实瓶颈的是：HBM、高端 server DRAM/eSSD、先进封装、变压器/开关柜/电网设备、部分高端光互连。\n\n问题二：它的价值会在架构升级中上升，还是被架构升级替代？\n这是光互连、800V DC、CPU 最关键的问题。CPO 会让部分传统 pluggable 模块价值被压缩，但会抬升硅光、光引擎、激光器、连接器、封装测试和 switch ASIC 的价值。800V DC 会抬升高压电源链、SiC/GaN、保护器件和 rack power architecture 的价值，但可能压缩部分传统低压供电部件。\n\n最危险的投资是：\n只因为某家公司“沾 AI 数据中心”就买；只因为它提到 CPO/800V/液冷就给高倍数；\n只看收入增长不看毛利、份额、客户集中和架构替代风险。\n\n最有吸引力的投资是：\n已经涨业绩，但市场低估持续性的瓶颈资产；\n或者尚未完全兑现业绩，但已经被下一代架构平台锁定的控制点资产。\n\n简单说市场都认识到了AI算力产链条的瓶颈和卡脖子，那么投资就要更进一步：不是只站在瓶颈上，不是只处于卡脖子环节就可以了，你还要看这家企业这个在这个瓶颈和卡脖子的节点上是不是独特的、不可替代的、技术路线正确的、不仅订单一大把交付还能持续超预期。同时还要看技术演进和落地的节奏到底是如何的？\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "谁拥有真实瓶颈？谁能把瓶颈兑现成利润、谁在下一代架构迁移中拿到控制点、谁的估值已经提前透支？这是AI算力产业链投资逻辑的新阶段最重要的四个问题。核心逻辑就是当一个产业链上所有环节都被炒过一遍之后，再往后就不能眉毛胡子一把抓，而是要去真正区分哪些公司在产业链真的是不可替代、有极强的核心竞争力，之前市场对其的预期是否已经有足够巨量的订单和超预期的交付在支撑。本质是从撒胡椒面到细细筛选。\n\n换句话说，过去两年可以买“AI 数据中心相关性”；再往后更要去买 稀缺现金流 + 架构控制权 + 可验证的订单持续性。\n\n两大关键问题\n问题一：它是“真实瓶颈”，还是“主题相关”？\n真实瓶颈的特点是：交期拉长、客户愿意预付款或签长期协议、ASP 上行、毛利率扩张、扩产慢。\n主题相关的特点是：收入涨但毛利不涨，客户高度集中，capex 多但 ROIC 不清楚，或者只是“进入供应链”但份额很小。\n当前更接近真实瓶颈的是：HBM、高端 server DRAM/eSSD、先进封装、变压器/开关柜/电网设备、部分高端光互连。\n\n问题二：它的价值会在架构升级中上升，还是被架构升级替代？\n这是光互连、800V DC、CPU 最关键的问题。CPO 会让部分传统 pluggable 模块价值被压缩，但会抬升硅光、光引擎、激光器、连接器、封装测试和 switch ASIC 的价值。800V DC 会抬升高压电源链、SiC/GaN、保护器件和 rack power architecture 的价值，但可能压缩部分传统低压供电部件。\n\n最危险的投资是：\n只因为某家公司“沾 AI 数据中心”就买；只因为它提到 CPO/800V/液冷就给高倍数；\n只看收入增长不看毛利、份额、客户集中和架构替代风险。\n\n最有吸引力的投资是：\n已经涨业绩，但市场低估持续性的瓶颈资产；\n或者尚未完全兑现业绩，但已经被下一代架构平台锁定的控制点资产。\n\n简单说市场都认识到了AI算力产链条的瓶颈和卡脖子，那么投资就要更进一步：不是只站在瓶颈上，不是只处于卡脖子环节就可以了，你还要看这家企业这个在这个瓶颈和卡脖子的节点上是不是独特的、不可替代的、技术路线正确的、不仅订单一大把交付还能持续超预期。同时还要看技术演进和落地的节奏到底是如何的？\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-06-17T11:11:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2067203577991553148",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLAukv3bkAAnxRk.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "",
+        "link": "https://x.com/qinbafrank/status/2067073930503114946"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067200367893373305",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "It's time to start paying attention.\n\nIf $BTC fails to hold this level, there's a strong chance we trend straight back toward the $60K region.",
+      "contentHtml": "It's time to start paying attention.\n\nIf <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> fails to hold this level, there's a strong chance we trend straight back toward the $60K region.",
+      "publishedAt": "2026-06-17T10:59:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2067200367893373305",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLArfWCWwAAq2wo.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "Probably the most important level to watch this month.\n\nIf $BTC fails to hold this area, there's a very strong chance we revisit the $60K region, and potentially even lower.",
+        "contentHtml": "Probably the most important level to watch this month.\n\nIf <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> fails to hold this area, there's a very strong chance we revisit the $60K region, and potentially even lower.",
+        "link": "https://x.com/KillaXBT/status/2066958933713904078",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HK9PbzwXgAAH654.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067200318086283758",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "一会alpha开盘看看o1 表现怎么样，低开的话考虑买一点玩玩看。撸毛来说的话还是证明选择更重要，genius 最差也是35%本金了，退款给退135%。领币的话本金2-3倍的样子。",
+      "contentHtml": "一会alpha开盘看看o1 表现怎么样，低开的话考虑买一点玩玩看。撸毛来说的话还是证明选择更重要，genius 最差也是35%本金了，退款给退135%。领币的话本金2-3倍的样子。",
+      "publishedAt": "2026-06-17T10:58:00.000Z",
+      "link": "https://x.com/0xleng1/status/2067200318086283758",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067197572343853213",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://pbs.twimg.com/profile_images/1986442283433254912/O0egVwxK_bigger.jpg",
+      "content": "正如所兄所说，黑客事件导致的下跌其实在CEX里一直是个很复杂的问题，因为责任方不在用户和交易所，而是一个突发的外生因素。最近的ESPORTS，H，GUA逐渐出现了越来越多因“黑客”被迫单机的合约。\n\n如果直接delist：\n1.黑客攻击前的无辜多头用户会被迫把未实现亏损变成已实现亏损\n2.黑客攻击后想要对冲的用户，将失去对冲仓位变成裸头寸\n\n但是如果不delist而是作为单机币继续运行，项目方or野庄可能会来操纵市场。\n\n所以LPP看起来是一种保护受损用户且限制坐庄的过渡产品，可以顺利把仓位过渡到换币完成后，再重新接回正常的指数index price。多头不用兑现亏损，空头可以继续对冲，投机用户做自己的主观交易。\n\n当然如果有办法在黑客攻击后获得一个多空双方都认可的settlement price也是一个办法，对“自导自演”的项目方应该会很有威慑力，因为相当于自己操盘的壳没了，而且被黑客攻击的主要责任方本来在项目方自己。不过，感觉难度挺高，因为多头空头本来就是对手方，用任何价格都要得罪一边的。",
+      "contentHtml": "正如所兄所说，黑客事件导致的下跌其实在CEX里一直是个很复杂的问题，因为责任方不在用户和交易所，而是一个突发的外生因素。最近的ESPORTS，H，GUA逐渐出现了越来越多因“黑客”被迫单机的合约。\n\n如果直接delist：\n1.黑客攻击前的无辜多头用户会被迫把未实现亏损变成已实现亏损\n2.黑客攻击后想要对冲的用户，将失去对冲仓位变成裸头寸\n\n但是如果不delist而是作为单机币继续运行，项目方or野庄可能会来操纵市场。\n\n所以LPP看起来是一种保护受损用户且限制坐庄的过渡产品，可以顺利把仓位过渡到换币完成后，再重新接回正常的指数index price。多头不用兑现亏损，空头可以继续对冲，投机用户做自己的主观交易。\n\n当然如果有办法在黑客攻击后获得一个多空双方都认可的settlement price也是一个办法，对“自导自演”的项目方应该会很有威慑力，因为相当于自己操盘的壳没了，而且被黑客攻击的主要责任方本来在项目方自己。不过，感觉难度挺高，因为多头空头本来就是对手方，用任何价格都要得罪一边的。",
+      "publishedAt": "2026-06-17T10:48:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2067197572343853213",
+      "quote": {
+        "username": "BTC_Alert_",
+        "displayName": "ALERT的会所",
+        "content": "答群友问： 既然币安风控了 $H ，为什么不直接下架H，难道就想吃手续费吗？\n\n其实我觉得币安风控选择最后成交价保护机制是站在币安整体统筹的角度来考虑。\n\n直接下架H固然大快人心，但是里面有个最关键的问题：\n\n如何保证用公允价格进行最后的交割？\n\n这个公允性无法定义，比如bsc链上已经砸没，其他交易所关了e链的充值成为单机盘。\n\n第二个所在oi中，到底多少是项目方，多少是用户的无法取样，因此贸然下架造成的用户损失会把矛盾转嫁到币安。也很容易造成当时的alpaca最后一波下架收割行情。\n\n我给币安的建议也是采取抹除指数和降低杠杆下的持仓量限制，最后进行和平交割。\n\n我也不知道 @heyibinance @binancezh @yayabinance 看到了没有。\n\n从我这三次追溯币安风控所带来的交易上看，上述都以实现，而且应该会下架。\n\n同时追溯可得，@Humanityprot 这波操作很大程度是有预谋的，而非简单的被盗。\n\n虽然三次交易赚的不多，但是这种验证思路去博弈的感觉会带来的交易的快感。\n\n不要被阴谋论和容易引动情绪的逻辑遮住了自己的思考\n\n静心最好自己的交易。\n\n如上。",
+        "contentHtml": "答群友问： 既然币安风控了 <a href=\"/search?f=tweets&q=%23H\">$H</a> ，为什么不直接下架H，难道就想吃手续费吗？\n\n其实我觉得币安风控选择最后成交价保护机制是站在币安整体统筹的角度来考虑。\n\n直接下架H固然大快人心，但是里面有个最关键的问题：\n\n如何保证用公允价格进行最后的交割？\n\n这个公允性无法定义，比如bsc链上已经砸没，其他交易所关了e链的充值成为单机盘。\n\n第二个所在oi中，到底多少是项目方，多少是用户的无法取样，因此贸然下架造成的用户损失会把矛盾转嫁到币安。也很容易造成当时的alpaca最后一波下架收割行情。\n\n我给币安的建议也是采取抹除指数和降低杠杆下的持仓量限制，最后进行和平交割。\n\n我也不知道 <a href=\"/heyibinance\" title=\"Yi He\">@heyibinance</a> <a href=\"/binancezh\" title=\"币安Binance华语\">@binancezh</a> <a href=\"/yayabinance\" title=\"丫丫🔶BNB\">@yayabinance</a> 看到了没有。\n\n从我这三次追溯币安风控所带来的交易上看，上述都以实现，而且应该会下架。\n\n同时追溯可得，<a href=\"/Humanityprot\" title=\"Humanity\">@Humanityprot</a> 这波操作很大程度是有预谋的，而非简单的被盗。\n\n虽然三次交易赚的不多，但是这种验证思路去博弈的感觉会带来的交易的快感。\n\n不要被阴谋论和容易引动情绪的逻辑遮住了自己的思考\n\n静心最好自己的交易。\n\n如上。",
+        "link": "https://x.com/BTC_Alert_/status/2067138214641406332"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067196162789327306",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "周边不错",
+      "contentHtml": "周边不错",
+      "publishedAt": "2026-06-17T10:42:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2067196162789327306",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLAn8CaaAAAFc4X.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLAn8DVbsAAub8h.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067196179881046019",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "usd1利息今天发下来了 循环了两次 去掉借贷的apy还有53%，后面18号apy就是37%了，不知道还能吃几天。",
+      "contentHtml": "usd1利息今天发下来了 循环了两次 去掉借贷的apy还有53%，后面18号apy就是37%了，不知道还能吃几天。",
+      "publishedAt": "2026-06-17T10:42:00.000Z",
+      "link": "https://x.com/0xleng1/status/2067196179881046019",
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "gate的usd1 apy下调了，现在是15%，我循环了2次借贷，apy38%。正常的话循环一次其实没什么问题。不是投资建议。",
+        "contentHtml": "gate的usd1 apy下调了，现在是15%，我循环了2次借贷，apy38%。正常的话循环一次其实没什么问题。不是投资建议。",
+        "link": "https://x.com/0xleng1/status/2066869873150697849"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067192593872728335",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "所有警察专业都是垃圾专业，除了《警犬技术专业》。",
+      "contentHtml": "所有警察专业都是垃圾专业，除了《警犬技术专业》。",
+      "publishedAt": "2026-06-17T10:28:00.000Z",
+      "link": "https://x.com/taresky/status/2067192593872728335",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLAkmeraYAAF39o.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067188285131112596",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#沪电股份\n\n太巧了，又不小心买到了白毛股神推荐的股票，沪电股份\n挣了20个点了，之前 #绿地谐波 和这次沪电股份，跟白毛股神看法完全相同\n\n难道我也学会了白毛股神的“卡脖子”分析方法了 ？ @aleabitoreddit",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23沪电股份\">#沪电股份</a>\n\n太巧了，又不小心买到了白毛股神推荐的股票，沪电股份\n挣了20个点了，之前 <a href=\"/search?f=tweets&q=%23绿地谐波\">#绿地谐波</a> 和这次沪电股份，跟白毛股神看法完全相同\n\n难道我也学会了白毛股神的“卡脖子”分析方法了 ？ <a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a>",
+      "publishedAt": "2026-06-17T10:11:00.000Z",
+      "link": "https://x.com/dongbimao/status/2067188285131112596",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLAfeABW0AA5JTk.png"
+        }
+      ],
+      "quote": {
+        "username": "dongbimao",
+        "displayName": "懂币猫",
+        "content": "#AI  #能源 #A股 #沪电股份\n\n美股的电力股比如 #BE  一直新高，也买点A股的电力股感受下\n\nBE一年涨了18倍\n沪电股份一年涨了5倍\n\n相信中国科技会崛起🥺🥺",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a>  <a href=\"/search?f=tweets&q=%23能源\">#能源</a> <a href=\"/search?f=tweets&q=%23A股\">#A股</a> <a href=\"/search?f=tweets&q=%23沪电股份\">#沪电股份</a>\n\n美股的电力股比如 <a href=\"/search?f=tweets&q=%23BE\">#BE</a>  一直新高，也买点A股的电力股感受下\n\nBE一年涨了18倍\n沪电股份一年涨了5倍\n\n相信中国科技会崛起🥺🥺",
+        "link": "https://x.com/dongbimao/status/2059103246430638418",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJNnac4aAAA3TBn.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067180766761779308",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "来了，休息了一周他们又开始买买买了😲\n\na16z 关联实体过去半小时从各大交易所提出 88350 枚 $HYPE，价值 640 万美元；自 2026 年以来已疑似建仓 733.5 万美元，总金额 3.4 亿美元，均价 $46.46，现浮盈 1.93 亿美元\n\n钱包地址\narkm.com/explorer/address/0x…\narkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "contentHtml": "来了，休息了一周他们又开始买买买了😲\n\na16z 关联实体过去半小时从各大交易所提出 88350 枚 $HYPE，价值 640 万美元；自 2026 年以来已疑似建仓 733.5 万美元，总金额 3.4 亿美元，均价 $46.46，现浮盈 1.93 亿美元\n\n钱包地址\n<a href=\"https://arkm.com/explorer/address/0xc745044ae202B60d3eF5EE89A5f6738011651464\">arkm.com/explorer/address/0x…</a>\n<a href=\"https://arkm.com/explorer/address/0x6436D88D376Ea7FbDe1AB5A8Db7151579Bc90103\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "publishedAt": "2026-06-17T09:41:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2067180766761779308",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLAZ61YacAAOrXa.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "任尔东西南北风，两眼一睁就是买😆\n\na16z 关联实体过去 10 小时再次囤积 90091 $HYPE ，价值 523.8 万美元；2026 年建仓总额已达到 699.6 万枚 HYPE，总价值 3.27 亿美元，均价 $46.85\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "contentHtml": "任尔东西南北风，两眼一睁就是买😆\n\na16z 关联实体过去 10 小时再次囤积 90091 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> ，价值 523.8 万美元；2026 年建仓总额已达到 699.6 万枚 HYPE，总价值 3.27 亿美元，均价 $46.85\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x6436D88D376Ea7FbDe1AB5A8Db7151579Bc90103\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "link": "https://x.com/ai_9684xtpa/status/2063091845694185902",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKGTD1FbgAAEDw2.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067179425037533547",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "BTC的博弈：\n新的看涨预期形成速度🆚MSTR股债双杀的速度\n\n期待后市的波动🎉",
+      "contentHtml": "BTC的博弈：\n新的看涨预期形成速度🆚MSTR股债双杀的速度\n\n期待后市的波动🎉",
+      "publishedAt": "2026-06-17T09:35:00.000Z",
+      "link": "https://x.com/follow_clues/status/2067179425037533547",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2067174956908355679",
       "username": "yuren477",
@@ -665,6 +963,10 @@
           "url": "https://pbs.twimg.com/media/HK-9A6gbYAAa7Qd.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -12013,277 +12315,6 @@
       "contentHtml": "恶人被天收是人民最喜闻乐见的戏码",
       "publishedAt": "2026-06-11T10:13:00.000Z",
       "link": "https://x.com/octopusycc/status/2065014458045571107",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065013949964173355",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#纳指 #美股\n\n目前AAII情绪调查的美股看空比例已经达到47.7了，接近3月18美伊战争52%的极值了，战争结束后面的事情大家都知道了\n\n在AI基本面没有任何变化的情况下，利空出尽了，大家知道怎么走了吧\n\n所以这个AAII当个反指看看就好了，当所有人极度看空的时候，行情转折点近在眼前",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23纳指\">#纳指</a> <a href=\"/search?f=tweets&q=%23美股\">#美股</a>\n\n目前AAII情绪调查的美股看空比例已经达到47.7了，接近3月18美伊战争52%的极值了，战争结束后面的事情大家都知道了\n\n在AI基本面没有任何变化的情况下，利空出尽了，大家知道怎么走了吧\n\n所以这个AAII当个反指看看就好了，当所有人极度看空的时候，行情转折点近在眼前",
-      "publishedAt": "2026-06-11T10:11:00.000Z",
-      "link": "https://x.com/dongbimao/status/2065013949964173355",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKhnMQjWsAA4J25.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065003677350494714",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "不管怎么说，hype这次嘴硬的问题是很大的，有错应该改，不是嘴硬，如果底层逻辑无法实现也应该好好解释，而不是完全忽视用户权益，这次差币安ok太多了。token价格表现好，可能一次不会影响很大，流失很多用户什么的。但如果一直这样，是会出大问题的，希望不要做大了就膨胀了。",
-      "contentHtml": "不管怎么说，hype这次嘴硬的问题是很大的，有错应该改，不是嘴硬，如果底层逻辑无法实现也应该好好解释，而不是完全忽视用户权益，这次差币安ok太多了。token价格表现好，可能一次不会影响很大，流失很多用户什么的。但如果一直这样，是会出大问题的，希望不要做大了就膨胀了。",
-      "publishedAt": "2026-06-11T09:30:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2065003677350494714",
-      "quote": {
-        "username": "0xLoki_Zeng",
-        "displayName": "0xLoki",
-        "content": "非常不合理\n\n这次只是损失10％，咬咬牙就扛了\n\n下次拆股一拆20，难道要用户抗95％跌幅吗？",
-        "contentHtml": "非常不合理\n\n这次只是损失10％，咬咬牙就扛了\n\n下次拆股一拆20，难道要用户抗95％跌幅吗？",
-        "link": "https://x.com/0xLoki_Zeng/status/2065001594412786160"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065002512294572364",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "一个能在4度冰水里泡十分钟的男人@chessxyz做出来的产品自然也是可圈可点。Chess老板的产品Bagel，其实就是Polymarket 的移动端傻瓜版，把链上预测市场的复杂操作，彻底简化成手机App几秒钟就能下注的体验。不用钱包、不用 gas、不用浏览器，直接邮箱登录，像刷股票软件一样边看球边交易体育、政治、加密热点。\n\n预测市场赛道本身就是把「信息不对称」货币化，Bagel把这事儿从geek玩具变成了大众消费品。类似以前 DeFi 把理财变简单，这次是把 Polymarket 变成“人人能玩”，长期看如果能持续把真实事件（体育、选举、加密）做深，黏性会很强。\n\n今年世界杯开幕，目测预测市场会迎来一大涨流量。不得不说@bagel_win 推出的时机刚刚好。",
-      "contentHtml": "一个能在4度冰水里泡十分钟的男人<a href=\"/chessxyz\" title=\"Chess蔡司🥯\">@chessxyz</a>做出来的产品自然也是可圈可点。Chess老板的产品Bagel，其实就是Polymarket 的移动端傻瓜版，把链上预测市场的复杂操作，彻底简化成手机App几秒钟就能下注的体验。不用钱包、不用 gas、不用浏览器，直接邮箱登录，像刷股票软件一样边看球边交易体育、政治、加密热点。\n\n预测市场赛道本身就是把「信息不对称」货币化，Bagel把这事儿从geek玩具变成了大众消费品。类似以前 DeFi 把理财变简单，这次是把 Polymarket 变成“人人能玩”，长期看如果能持续把真实事件（体育、选举、加密）做深，黏性会很强。\n\n今年世界杯开幕，目测预测市场会迎来一大涨流量。不得不说<a href=\"/bagel_win\" title=\"Bagel🥯\">@bagel_win</a> 推出的时机刚刚好。",
-      "publishedAt": "2026-06-11T09:25:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2065002512294572364",
-      "quote": {
-        "username": "bagel_win",
-        "displayName": "Bagel🥯",
-        "content": "🏆 The 2026 World Cup is here, and we are giving away $20,000!\n\nPredict on easy mode with Bagel and grab your share of the rewards. #WorldCup\n\nHow to win: \n\n1️⃣ Collect & Win ($10k Pool): Trade on ANY market for a 50% chance to drop a World Cup Team Card. Collect them to unlock the prize pool! \n\n2️⃣ Leaderboard ($10k Pool): Climb the ranks! The Top 100 on our Trading Volume Leaderboard will share the remaining $10,000.\n\nGet in early to secure your spot. Check the image below for full details! 👇",
-        "contentHtml": "🏆 The 2026 World Cup is here, and we are giving away $20,000!\n\nPredict on easy mode with Bagel and grab your share of the rewards. <a href=\"/search?f=tweets&q=%23WorldCup\">#WorldCup</a>\n\nHow to win: \n\n1️⃣ Collect & Win ($10k Pool): Trade on ANY market for a 50% chance to drop a World Cup Team Card. Collect them to unlock the prize pool! \n\n2️⃣ Leaderboard ($10k Pool): Climb the ranks! The Top 100 on our Trading Volume Leaderboard will share the remaining $10,000.\n\nGet in early to secure your spot. Check the image below for full details! 👇",
-        "link": "https://x.com/bagel_win/status/2064529674085236821",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKauMWWbMAAdQlQ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064997540098122151",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "麻痹，赚了钱不能直接出了\nUsdt出金现在只有6.78-6.8了",
-      "contentHtml": "麻痹，赚了钱不能直接出了\nUsdt出金现在只有6.78-6.8了",
-      "publishedAt": "2026-06-11T09:05:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2064997540098122151",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKhYT0XasAA7ol8.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "Short $USDCNH\n\nU理财的狗大户注意下",
-        "contentHtml": "Short <a href=\"/search?f=tweets&q=%23USDCNH\">$USDCNH</a>\n\nU理财的狗大户注意下",
-        "link": "https://x.com/Bitfatty/status/1983577023084949802",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/G4cUyZUbQAAFVba.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064996853289292144",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "Get ready for every crypto retard to become a football prediction expert for the next month",
-      "contentHtml": "Get ready for every crypto retard to become a football prediction expert for the next month",
-      "publishedAt": "2026-06-11T09:03:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2064996853289292144",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064990127458582603",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "分析什么几把整天分析的，不是涨就是跌，核心逻辑就是赌。怎么老是有以太人拿币圈去定价美股呢，sb么，跟你说了，币圈没有一丝一毫定价美股的资格。\n赌就行了，最坏的结果就是赌输了亏点呗，整天就几把盯着那几个点你妈套套套，在他吗币圈天天当农民，去了你吗美股还是当农民？我亏钱都不想当农民了，就喜欢一辈子握锄头？",
-      "contentHtml": "分析什么几把整天分析的，不是涨就是跌，核心逻辑就是赌。怎么老是有以太人拿币圈去定价美股呢，sb么，跟你说了，币圈没有一丝一毫定价美股的资格。\n赌就行了，最坏的结果就是赌输了亏点呗，整天就几把盯着那几个点你妈套套套，在他吗币圈天天当农民，去了你吗美股还是当农民？我亏钱都不想当农民了，就喜欢一辈子握锄头？",
-      "publishedAt": "2026-06-11T08:36:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2064990127458582603",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKgsCEEaAAAuS84.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064984577928827256",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#QQQ #美股 \n\n简单的用AI回测了一下近3000个交易日的纳指数据\n结果非常有意思\n\n在跌的越多的时候入场，后期收益会越高\n所以每次回撤都会是良好的买点\n\n不要畏惧下跌，虽然我们说了6月份的鬼故事特别多，但是只有在情绪最差的时候我们才有机会买到打折的优质标的",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23QQQ\">#QQQ</a> <a href=\"/search?f=tweets&q=%23美股\">#美股</a> \n\n简单的用AI回测了一下近3000个交易日的纳指数据\n结果非常有意思\n\n在跌的越多的时候入场，后期收益会越高\n所以每次回撤都会是良好的买点\n\n不要畏惧下跌，虽然我们说了6月份的鬼故事特别多，但是只有在情绪最差的时候我们才有机会买到打折的优质标的",
-      "publishedAt": "2026-06-11T08:14:00.000Z",
-      "link": "https://x.com/dongbimao/status/2064984577928827256",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKhMhRiakAA59Ca.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064982911808602427",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "微策略脏东西行情，突破不果断假突破不反向不流畅，天生克我，亏8000万美金的詹姆斯也是被这种行情给磨死的，早就减了无数次仓位了😓",
-      "contentHtml": "微策略脏东西行情，突破不果断假突破不反向不流畅，天生克我，亏8000万美金的詹姆斯也是被这种行情给磨死的，早就减了无数次仓位了😓",
-      "publishedAt": "2026-06-11T08:07:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2064982911808602427",
-      "quote": {
-        "username": "Devour81329006",
-        "displayName": "青",
-        "content": "肥哥命苦啊，高点做多，低点又反手了🤣",
-        "contentHtml": "肥哥命苦啊，高点做多，低点又反手了🤣",
-        "link": "https://x.com/Devour81329006/status/2064956725493690775"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064981829703401529",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "对了跟大家提醒个事情\n在国内\n炒币是小事，非常小，叔叔都懒得管你\n赌博  网络赌博是大事  别混为一谈",
-      "contentHtml": "对了跟大家提醒个事情\n在国内\n炒币是小事，非常小，叔叔都懒得管你\n赌博  网络赌博是大事  别混为一谈",
-      "publishedAt": "2026-06-11T08:03:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2064981829703401529",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKhKBXabcAAYd0g.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064974034337665230",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "《2天10倍速通50万u》\n1mu还是有点麻烦，要么仓位开2000万u，要么行情波动再赏大一点\n\n算了，就这样吧，下波再说\n\n$xau",
-      "contentHtml": "《2天10倍速通50万u》\n1mu还是有点麻烦，要么仓位开2000万u，要么行情波动再赏大一点\n\n算了，就这样吧，下波再说\n\n<a href=\"/search?f=tweets&q=%23xau\">$xau</a>",
-      "publishedAt": "2026-06-11T07:32:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2064974034337665230",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064972578079539454",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "Binance 美股上线一周，从官方放出了首周数据来看，是第一次比较清晰地勾勒出了\"通过加密轨道进入股市的新一代投资者\"的真实画像。\n\n约25%的用户年龄小于25岁；超过80%的交易量来自新兴市场（而不是发达地区）；近39%的订单金额低于100美元。\n\n这组数据指向同一群人：年轻，身处传统金融服务薄弱的地区，且可投资金不大。\n\n在传统经纪渠道里，低于100美元的订单几乎不可能占到四成。意味着有相当一部分人是人生第一次买股票。说明需求一直有，只是过去没有一条容易走的路。\n\n更有意思的是，约70%的用户选择持有而非频繁交易。加密用户时常给人的印象是高换手，但数据显示大部分人买了美股就拿着。\n\n其标的主要集中在 MRVL、GOOGL、NVDA、NOK、QQQ、CRCL、CRWV、INTC、DRAM 和 MU；说明这批人不是来投机的，而是带着宏观判断来配置资产的。\n\n而稳定币就正好可以充当连接加密和美股之间的桥梁。\n\n当门槛降下来，被传统体系挡在外面的需求会以更快的速度涌进来。可以想象，下一代投资者的金融账户，大概率不在银行，而在一个能同时管理各类资产的超级应用里。\n\n而币安现在抢的，就是这个位置。",
-      "contentHtml": "Binance 美股上线一周，从官方放出了首周数据来看，是第一次比较清晰地勾勒出了\"通过加密轨道进入股市的新一代投资者\"的真实画像。\n\n约25%的用户年龄小于25岁；超过80%的交易量来自新兴市场（而不是发达地区）；近39%的订单金额低于100美元。\n\n这组数据指向同一群人：年轻，身处传统金融服务薄弱的地区，且可投资金不大。\n\n在传统经纪渠道里，低于100美元的订单几乎不可能占到四成。意味着有相当一部分人是人生第一次买股票。说明需求一直有，只是过去没有一条容易走的路。\n\n更有意思的是，约70%的用户选择持有而非频繁交易。加密用户时常给人的印象是高换手，但数据显示大部分人买了美股就拿着。\n\n其标的主要集中在 MRVL、GOOGL、NVDA、NOK、QQQ、CRCL、CRWV、INTC、DRAM 和 MU；说明这批人不是来投机的，而是带着宏观判断来配置资产的。\n\n而稳定币就正好可以充当连接加密和美股之间的桥梁。\n\n当门槛降下来，被传统体系挡在外面的需求会以更快的速度涌进来。可以想象，下一代投资者的金融账户，大概率不在银行，而在一个能同时管理各类资产的超级应用里。\n\n而币安现在抢的，就是这个位置。",
-      "publishedAt": "2026-06-11T07:26:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2064972578079539454",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKhAJIEaAAAWqdC.png"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKhAK74b0AAGbWY.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKhAQrWaoAAsgjD.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2064967198758805878",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "人类历史上最大规模的 IPO $SPCX 开盘在即，而此前爽吃美股流量的 Hyperliquid 这次似乎尴尬了😅\n\n▪️SpaceX 总股本调整为 130.8 亿股，增长 10%\n▪️总估值不变的情况下，盘前合约价格将缩水 10%，此前上线该标的的平台及用户均受影响\n▪️币安等一众交易所跟进 rebase，Perp DEX 中 Aster 同样选择主动调整，以免用户受损\n▪️TradeXYZ 却宣布不进行任何调整，坚持其为“基于价格的永续合约”，导致多头亏麻\n\n关键在于，拆股这一操作在美股并不少见，英伟达之类的大型科技股会因单股价值过高进行正向拆股，便于交易，TradeXYZ 以后要是遇上一拆十，就直接归零了…更别说还有反向拆股的骚操作，到时候真得乱成一锅粥（虽然上这类的可能性很低）\n\n不过团队表示会有解决方案，只能再等等了",
-      "contentHtml": "人类历史上最大规模的 IPO <a href=\"/search?f=tweets&q=%23SPCX\">$SPCX</a> 开盘在即，而此前爽吃美股流量的 Hyperliquid 这次似乎尴尬了😅\n\n▪️SpaceX 总股本调整为 130.8 亿股，增长 10%\n▪️总估值不变的情况下，盘前合约价格将缩水 10%，此前上线该标的的平台及用户均受影响\n▪️币安等一众交易所跟进 rebase，Perp DEX 中 Aster 同样选择主动调整，以免用户受损\n▪️TradeXYZ 却宣布不进行任何调整，坚持其为“基于价格的永续合约”，导致多头亏麻\n\n关键在于，拆股这一操作在美股并不少见，英伟达之类的大型科技股会因单股价值过高进行正向拆股，便于交易，TradeXYZ 以后要是遇上一拆十，就直接归零了…更别说还有反向拆股的骚操作，到时候真得乱成一锅粥（虽然上这类的可能性很低）\n\n不过团队表示会有解决方案，只能再等等了",
-      "publishedAt": "2026-06-11T07:05:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2064967198758805878",
-      "quote": {
-        "username": "tradexyz",
-        "displayName": "trade.xyz",
-        "content": "A note on the SPCX pre-IPO (IPOP) contract: \nTradeXYZ IPOP contracts are price-based perpetual contracts that track the market-implied expected price of one share of Class A or common stock. Neither share count nor market cap are an input to the market specification, oracle methodology, or conversion treatment.  \n\nOur documentation had previously featured educational examples showing how a user might derive their own fair price in a scenario where they started with a view on both market cap and share count. Although these examples were included for context, we received feedback that they caused confusion, so we have removed them from the documentation.  \n\nTradeXYZ does not use, publish, or rely on a share-count or market-cap denominator for SPCX or any other XYZ market. When SpaceX completes their IPO and sufficient external market data becomes available, SPCX is expected to transition to standard external oracle pricing, and the contract is expected to converge toward the public trading price.",
-        "contentHtml": "A note on the SPCX pre-IPO (IPOP) contract: \nTradeXYZ IPOP contracts are price-based perpetual contracts that track the market-implied expected price of one share of Class A or common stock. Neither share count nor market cap are an input to the market specification, oracle methodology, or conversion treatment.  \n\nOur documentation had previously featured educational examples showing how a user might derive their own fair price in a scenario where they started with a view on both market cap and share count. Although these examples were included for context, we received feedback that they caused confusion, so we have removed them from the documentation.  \n\nTradeXYZ does not use, publish, or rely on a share-count or market-cap denominator for SPCX or any other XYZ market. When SpaceX completes their IPO and sufficient external market data becomes available, SPCX is expected to transition to standard external oracle pricing, and the contract is expected to converge toward the public trading price.",
-        "link": "https://x.com/tradexyz/status/2064467412489994699"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
