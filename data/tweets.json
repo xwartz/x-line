@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T11:34:35.360Z",
+  "lastUpdated": "2026-06-17T13:12:26.512Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,183 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 647,
+    "newFetched": 648,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2067232724482719942",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "晚上币安广场见\n\n今天直播FOMC",
+      "contentHtml": "晚上币安广场见\n\n今天直播FOMC",
+      "publishedAt": "2026-06-17T13:07:00.000Z",
+      "link": "https://x.com/octopusycc/status/2067232724482719942",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLBJKBSaAAAE1ns.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067226947831427090",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "链上一直存在一个很核心但长期没被很好解决的问题：缺乏原生的保密基础设施。用户和机构真正需要的，其实是一个能同时满足三件事的东西：余额和转账金额保持隐私、能和DeFi正常组合使用、还要具备可验证性和合规性。\n\n以前的情况是：想隐私，就得牺牲可组合性，资产屏蔽后基本只能躺着；想用DeFi赚收益、做交易，就得把余额和金额暴露在链上，隐私完全没有保障。机构更是进退两难——要么为了合规和风控放弃隐私，要么为了隐私放弃上链。这就导致保密资产长期只能“持有”，却一直无法“生产”。\n\n看到Zama App正式上线，这可能是链上保密基础设施真正成为标准的起点，表面上看只是一个App，但其实它把FHE技术、ERC-7984标准和协议能力第一次做成了普通用户和机构都能方便使用的入口。Zama用全同态加密，让用户可以把现有资产shield 成cUSDC等保密代币，链上记录的是加密后的余额和转账金额，但整个系统依然完全可验证，同时内置合规模块。\n\n这就打破了之前的两难：隐私不再和DeFi使用、收益获取相互冲突。以前的隐私方案，要么做不到和 DeFi组合（用不了），要么合规性太差（机构根本不敢碰）。相当于Zama把隐私 + 可验证 + 可组合 + 合规这几件事，在以太坊原生层级上同时解决了。这才是它和之前隐私项目最大的区别\n\nApp上线之后，用户终于有一个最简单直接的入口去做这件事：把资产shield成保密版，同时还能直接接入后续的保密DeFi场所。后面Q3还有保密交换功能要上线，保密资产的闭环会越来越完整。\n\n更重要的是6月23日，Steakhouse Financial发起的Confidential USDC Prime 金库要在Morpho上线。这是全球首个专门给cUSDC设计的DeFi收益金库。\n\n这意味着什么？以前保密资产最大的问题就是“有隐私，但没效用”。现在cUSDC不仅能保密持有，还能去赚收益。保密资本终于有了生产力。这一步其实补齐了链上保密基础设施最缺的一块拼图。\n\n从更宏观的角度看，Zama这波操作正在把“链上保密基础设施正在成为标准”这个叙事，从技术可行推向产品可用和资本可用。\n\n所以Zama App不是简单的一个前端产品，它是把保密资产从“只能持有”变成“能持有、能交易、能生息”的完整入口。而这个入口背后，站着的是正在成为链上标准的保密基础设施。当机构和用户都能方便、安全、合规地使用保密资本的时候，链上金融的下一阶段才真正开始。值得持续跟踪关注。",
+      "contentHtml": "链上一直存在一个很核心但长期没被很好解决的问题：缺乏原生的保密基础设施。用户和机构真正需要的，其实是一个能同时满足三件事的东西：余额和转账金额保持隐私、能和DeFi正常组合使用、还要具备可验证性和合规性。\n\n以前的情况是：想隐私，就得牺牲可组合性，资产屏蔽后基本只能躺着；想用DeFi赚收益、做交易，就得把余额和金额暴露在链上，隐私完全没有保障。机构更是进退两难——要么为了合规和风控放弃隐私，要么为了隐私放弃上链。这就导致保密资产长期只能“持有”，却一直无法“生产”。\n\n看到Zama App正式上线，这可能是链上保密基础设施真正成为标准的起点，表面上看只是一个App，但其实它把FHE技术、ERC-7984标准和协议能力第一次做成了普通用户和机构都能方便使用的入口。Zama用全同态加密，让用户可以把现有资产shield 成cUSDC等保密代币，链上记录的是加密后的余额和转账金额，但整个系统依然完全可验证，同时内置合规模块。\n\n这就打破了之前的两难：隐私不再和DeFi使用、收益获取相互冲突。以前的隐私方案，要么做不到和 DeFi组合（用不了），要么合规性太差（机构根本不敢碰）。相当于Zama把隐私 + 可验证 + 可组合 + 合规这几件事，在以太坊原生层级上同时解决了。这才是它和之前隐私项目最大的区别\n\nApp上线之后，用户终于有一个最简单直接的入口去做这件事：把资产shield成保密版，同时还能直接接入后续的保密DeFi场所。后面Q3还有保密交换功能要上线，保密资产的闭环会越来越完整。\n\n更重要的是6月23日，Steakhouse Financial发起的Confidential USDC Prime 金库要在Morpho上线。这是全球首个专门给cUSDC设计的DeFi收益金库。\n\n这意味着什么？以前保密资产最大的问题就是“有隐私，但没效用”。现在cUSDC不仅能保密持有，还能去赚收益。保密资本终于有了生产力。这一步其实补齐了链上保密基础设施最缺的一块拼图。\n\n从更宏观的角度看，Zama这波操作正在把“链上保密基础设施正在成为标准”这个叙事，从技术可行推向产品可用和资本可用。\n\n所以Zama App不是简单的一个前端产品，它是把保密资产从“只能持有”变成“能持有、能交易、能生息”的完整入口。而这个入口背后，站着的是正在成为链上标准的保密基础设施。当机构和用户都能方便、安全、合规地使用保密资本的时候，链上金融的下一阶段才真正开始。值得持续跟踪关注。",
+      "publishedAt": "2026-06-17T12:44:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2067226947831427090",
+      "quote": {
+        "username": "zama",
+        "displayName": "Zama",
+        "content": "JUST IN:\n\nThe First DeFi Yield Venue for Confidential USDC (cUSDC) in Partnership with @Morpho and @SteakhouseFi\n\nThe Zama Protocol made confidential tokens possible on Ethereum. The next step is giving them utility.\n\nVault opens June 23.",
+        "contentHtml": "JUST IN:\n\nThe First DeFi Yield Venue for Confidential USDC (cUSDC) in Partnership with <a href=\"/Morpho\" title=\"Morpho 🦋\">@Morpho</a> and <a href=\"/SteakhouseFi\" title=\"Steakhouse Financial\">@SteakhouseFi</a>\n\nThe Zama Protocol made confidential tokens possible on Ethereum. The next step is giving them utility.\n\nVault opens June 23.",
+        "link": "https://x.com/zama/status/2067187138517459107"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067221283813904705",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#U卡 \n\nPlasma One 正式上线，官宣免费赠送 Core 一年了。\n\n经过测试，宣传文案的送套餐，应该是送 100% 返现的对应额度。\n\n比如，Core 送 8 美元 ChatGPT 额度，但你订阅 20 美元套餐，实付款应该是 （20-8）x95%=11.4\n\nPlatinum 送 20 美元，你订阅 200 美元套餐，实付款应该是 （200-20）x90%=162。\n\n我觉得这样很好 👍 cc @rongplace @zaheerebtikar @proofofnathan \n\n⏬下载链接：plasma.org/download/FAFAFA",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23U卡\">#U卡</a> \n\nPlasma One 正式上线，官宣免费赠送 Core 一年了。\n\n经过测试，宣传文案的送套餐，应该是送 100% 返现的对应额度。\n\n比如，Core 送 8 美元 ChatGPT 额度，但你订阅 20 美元套餐，实付款应该是 （20-8）x95%=11.4\n\nPlatinum 送 20 美元，你订阅 200 美元套餐，实付款应该是 （200-20）x90%=162。\n\n我觉得这样很好 👍 cc <a href=\"/rongplace\" title=\"Vinny\">@rongplace</a> <a href=\"/zaheerebtikar\" title=\"Zaheer\">@zaheerebtikar</a> <a href=\"/proofofnathan\" title=\"Nathan\">@proofofnathan</a> \n\n⏬下载链接：<a href=\"https://www.plasma.org/download/FAFAFA\">plasma.org/download/FAFAFA</a>",
+      "publishedAt": "2026-06-17T12:22:00.000Z",
+      "link": "https://x.com/taresky/status/2067221283813904705",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLA-yv-agAAqi5X.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Plasma",
+        "displayName": "Plasma",
+        "content": "Plasma One is live now.\n\nJoin in the next 7 days and get the Core tier free for your first year. Over $1,000 in value, reserved for early users.",
+        "contentHtml": "Plasma One is live now.\n\nJoin in the next 7 days and get the Core tier free for your first year. Over $1,000 in value, reserved for early users.",
+        "link": "https://x.com/Plasma/status/2067215787945779394"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067220166061211759",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "独行半生，奔赴宇宙",
+      "contentHtml": "独行半生，奔赴宇宙",
+      "publishedAt": "2026-06-17T12:17:00.000Z",
+      "link": "https://x.com/octopusycc/status/2067220166061211759",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLA9xqibUAAY9Tt.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067215016261210525",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "第三次世界大战，啊不外卖大战结束了",
+      "contentHtml": "第三次世界大战，啊不外卖大战结束了",
+      "publishedAt": "2026-06-17T11:57:00.000Z",
+      "link": "https://x.com/hazenlee/status/2067215016261210525",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLA5GIvbMAABi3D.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067213385289158719",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "喊多要早，止盈要猥琐\n特朗普平多要跟上",
+      "contentHtml": "喊多要早，止盈要猥琐\n特朗普平多要跟上",
+      "publishedAt": "2026-06-17T11:50:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2067213385289158719",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLA3m5ZXYAApMIL.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "乖宝宝没有追多",
+        "contentHtml": "乖宝宝没有追多",
+        "link": "https://x.com/Bitfatty/status/2067171604803527054",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLARm33XoAAbLT7.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067210366871093268",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "上次看多原油失败了\n这次到了一个局部的反转点\n看看周五这个协议有没有幺蛾子\n油价下来川子就蹦跶\n像极了我赚点钱就想装逼🤡",
+      "contentHtml": "上次看多原油失败了\n这次到了一个局部的反转点\n看看周五这个协议有没有幺蛾子\n油价下来川子就蹦跶\n像极了我赚点钱就想装逼🤡",
+      "publishedAt": "2026-06-17T11:38:00.000Z",
+      "link": "https://x.com/hazenlee/status/2067210366871093268",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLA03iXa4AAuLcd.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLA03iSakAAaJ96.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2067206009593213301",
       "username": "0xleng1",
@@ -1196,6 +1368,25 @@
             "url": "https://pbs.twimg.com/media/HK9sO9dbwAA4fpZ.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2067034044512997481",
+      "username": "infantrydort",
+      "displayName": "InfantryDort",
+      "avatar": "https://pbs.twimg.com/profile_images/1857674949470617600/kXbL43Te_bigger.jpg",
+      "content": "If a civilization cannot protect its children, history will soon appoint a harsher guardian.",
+      "contentHtml": "If a civilization cannot protect its children, history will soon appoint a harsher guardian.",
+      "publishedAt": "2026-06-16T23:58:00.000Z",
+      "link": "https://x.com/infantrydort/status/2067034044512997481",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -7304,6 +7495,25 @@
       }
     },
     {
+      "id": "2065803474164502981",
+      "username": "theallinpod",
+      "displayName": "The All-In Podcast",
+      "avatar": "https://pbs.twimg.com/profile_images/1789812359084519424/hg3j0g2E_bigger.jpg",
+      "content": "David Friedberg: California’s Voting System Looks Fraudulent, But It’s Working Exactly as Designed\n\n@friedberg believes California’s extremely loose election laws enable “appointments” not free elections.\n\nWhy? The voting data in LA makes no statistical sense.\n\n“ Pratt's post-election mail-in ballots declined by 1/3.\n\nSo statistically, the population of people that send in their ballots late reduced for Pratt by 1/3, increased for Nithya Raman by 80%, and Karen Bass 10% less, if you just look at the mail-in ballots before and after election day as a comparison.\n\nI don't know if there's a sociopolitical way that you can assess those statistics and assume that these are individuals casting their individual vote for who they think should be Mayor of LA.\n\nBasically, the concentration of incremental votes that Nithya Raman got came around the Skid Row area in Los Angeles.\n\nBut when you look at the basic statistics of what happened in person, mail-in before, mail-in after Election Day, it becomes a real statistical quagmire on how did this sort of a sociopolitical shift happen in such a way that it did?\n\nNow, there was a report published, and they highlighted the 2018 California midterm elections and the challenges that they saw arise in that midterm election because of some of the legislative changes that were made.\n\nFirst, California Assembly Bill 1921 legalized the practice of unlimited ballot harvesting in the state. What that means is that any individual in the state of California has the right to go and collect ballots from any other individuals, regardless of relationship, fill them out, and send them in.\n\nCalifornia, two years later, 18 months later, also passed a law that made it permanent that every person registered in the state of California would get a ballot, so tens of millions of ballots then get mailed out.\n\nThen there was another series of laws that were passed that said anyone can register to vote. You don't need to prove your citizenship. You can use a gym membership card as an example.\n\nSo anyone can register to vote. There is no proof of ID when you get a ballot. There is no demonstration that the person who fills out the ballot has anything to do with the individual who's supposed to be voting that ballot, and it is legal for an individual to go out and collect hundreds or thousands of ballots, ship them in, and they will all qualify in these kind of mail-in ballot voting processes.\n\nSo there's nothing illegal or fraudulent going on. In fact, the system is operating exactly as intended.\n\nIt has been set up and structured in a way that with the right construct, you can get an individual appointed, not elected, but appointed to a particular role in government under a, quote, ‘free election’ in California.”",
+      "contentHtml": "David Friedberg: California’s Voting System Looks Fraudulent, But It’s Working Exactly as Designed\n\n<a href=\"/friedberg\" title=\"david friedberg\">@friedberg</a> believes California’s extremely loose election laws enable “appointments” not free elections.\n\nWhy? The voting data in LA makes no statistical sense.\n\n“ Pratt's post-election mail-in ballots declined by 1/3.\n\nSo statistically, the population of people that send in their ballots late reduced for Pratt by 1/3, increased for Nithya Raman by 80%, and Karen Bass 10% less, if you just look at the mail-in ballots before and after election day as a comparison.\n\nI don't know if there's a sociopolitical way that you can assess those statistics and assume that these are individuals casting their individual vote for who they think should be Mayor of LA.\n\nBasically, the concentration of incremental votes that Nithya Raman got came around the Skid Row area in Los Angeles.\n\nBut when you look at the basic statistics of what happened in person, mail-in before, mail-in after Election Day, it becomes a real statistical quagmire on how did this sort of a sociopolitical shift happen in such a way that it did?\n\nNow, there was a report published, and they highlighted the 2018 California midterm elections and the challenges that they saw arise in that midterm election because of some of the legislative changes that were made.\n\nFirst, California Assembly Bill 1921 legalized the practice of unlimited ballot harvesting in the state. What that means is that any individual in the state of California has the right to go and collect ballots from any other individuals, regardless of relationship, fill them out, and send them in.\n\nCalifornia, two years later, 18 months later, also passed a law that made it permanent that every person registered in the state of California would get a ballot, so tens of millions of ballots then get mailed out.\n\nThen there was another series of laws that were passed that said anyone can register to vote. You don't need to prove your citizenship. You can use a gym membership card as an example.\n\nSo anyone can register to vote. There is no proof of ID when you get a ballot. There is no demonstration that the person who fills out the ballot has anything to do with the individual who's supposed to be voting that ballot, and it is legal for an individual to go out and collect hundreds or thousands of ballots, ship them in, and they will all qualify in these kind of mail-in ballot voting processes.\n\nSo there's nothing illegal or fraudulent going on. In fact, the system is operating exactly as intended.\n\nIt has been set up and structured in a way that with the right construct, you can get an individual appointed, not elected, but appointed to a particular role in government under a, quote, ‘free election’ in California.”",
+      "publishedAt": "2026-06-13T14:28:00.000Z",
+      "link": "https://x.com/theallinpod/status/2065803474164502981",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2065794791108161926",
       "username": "qinbafrank",
       "displayName": "qinbafrank",
@@ -12104,217 +12314,6 @@
         "contentHtml": "好帅",
         "link": "https://x.com/CryptoNataNata/status/2065034777183580618"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065036824813199526",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "这次下跌表现强势的股票\n\n#SNDK \n#LRCX \n#AMAT\n#ASML\n#INTC",
-      "contentHtml": "这次下跌表现强势的股票\n\n<a href=\"/search?f=tweets&q=%23SNDK\">#SNDK</a> \n<a href=\"/search?f=tweets&q=%23LRCX\">#LRCX</a> \n<a href=\"/search?f=tweets&q=%23AMAT\">#AMAT</a>\n<a href=\"/search?f=tweets&q=%23ASML\">#ASML</a>\n<a href=\"/search?f=tweets&q=%23INTC\">#INTC</a>",
-      "publishedAt": "2026-06-11T11:42:00.000Z",
-      "link": "https://x.com/dongbimao/status/2065036824813199526",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKhoGoMWEAEP50_.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065034055050211694",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "圣地巡礼，有没有懂的？",
-      "contentHtml": "圣地巡礼，有没有懂的？",
-      "publishedAt": "2026-06-11T11:30:00.000Z",
-      "link": "https://x.com/taresky/status/2065034055050211694",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKh5hiwbEAAYlp4.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065029797944934596",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "资本流动性——顶级视角",
-      "contentHtml": "资本流动性——顶级视角",
-      "publishedAt": "2026-06-11T11:14:00.000Z",
-      "link": "https://x.com/octopusycc/status/2065029797944934596",
-      "quote": {
-        "username": "alpha101xyz",
-        "displayName": "阿尔法",
-        "content": "资本的“三流”：流向/流速/流量\n可以帮我们快速判断自己处在什么市场环境里\n这也是卢麒元老师经常用的指标\n同时去掉感性和毫无依据的无脑唱空/唱多\n\n上一篇给大家量化了 #spaceX 的吸血程度 \n而实际上由于4倍超额认购更加激化了流动性的收缩\n各个大类资产出现了普跌 黄金/加密/美股/债券/商品\n而美股又正在虹吸全球的资金\n\n野村证券的最新数据：到上周五为止\n海外资金最近5个交易日净流入美国股票基金 25.59亿美元，美国债券基金几乎没动，只有 0.06亿美元。所以市场没有担忧衰退式标准避险行情，钱没有大规模躲进美债，仍然在追美国风险资产，核心还是美股和AI交易\n\n全球资金潮汐已经迫使外围新兴市场资金退潮\n新兴市场ETF最新5个交易日净流出 2.50亿美元，其中股票ETF流出 3.63亿美元。韩国散户反而回头买美国资产，净买入 1.39亿美元，其中美股 2.35亿美元。台湾投资者继续卖本地美元债ETF，净卖出 1.96亿美元\n\n所以你看完这些数据也应该能理解\n天朝为什么开始整改海外券商/整改高净值海外资产等组合拳，作为新兴市场 - 这种美国资本潮汐对A股/港股非常的危险",
-        "contentHtml": "资本的“三流”：流向/流速/流量\n可以帮我们快速判断自己处在什么市场环境里\n这也是卢麒元老师经常用的指标\n同时去掉感性和毫无依据的无脑唱空/唱多\n\n上一篇给大家量化了 <a href=\"/search?f=tweets&q=%23spaceX\">#spaceX</a> 的吸血程度 \n而实际上由于4倍超额认购更加激化了流动性的收缩\n各个大类资产出现了普跌 黄金/加密/美股/债券/商品\n而美股又正在虹吸全球的资金\n\n野村证券的最新数据：到上周五为止\n海外资金最近5个交易日净流入美国股票基金 25.59亿美元，美国债券基金几乎没动，只有 0.06亿美元。所以市场没有担忧衰退式标准避险行情，钱没有大规模躲进美债，仍然在追美国风险资产，核心还是美股和AI交易\n\n全球资金潮汐已经迫使外围新兴市场资金退潮\n新兴市场ETF最新5个交易日净流出 2.50亿美元，其中股票ETF流出 3.63亿美元。韩国散户反而回头买美国资产，净买入 1.39亿美元，其中美股 2.35亿美元。台湾投资者继续卖本地美元债ETF，净卖出 1.96亿美元\n\n所以你看完这些数据也应该能理解\n天朝为什么开始整改海外券商/整改高净值海外资产等组合拳，作为新兴市场 - 这种美国资本潮汐对A股/港股非常的危险",
-        "link": "https://x.com/alpha101xyz/status/2065026078435934243",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKhyFxQXQAARZFg.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065025172508442795",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
-      "content": "1.这币有庄家，比较凶悍\n2.这币收了上币费，我们不能风控\n3.这币可能是我们自己在坐庄\n\n应该是这意思",
-      "contentHtml": "1.这币有庄家，比较凶悍\n2.这币收了上币费，我们不能风控\n3.这币可能是我们自己在坐庄\n\n应该是这意思",
-      "publishedAt": "2026-06-11T10:55:00.000Z",
-      "link": "https://x.com/follow_clues/status/2065025172508442795",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKhxcUxbQAAr8Ok.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065023882948673708",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "每当y哥要出货的时候 他就会这么说 \n\ny哥已经一个月没有和我私信聊天了\n\n我们的关系破碎了",
-      "contentHtml": "每当y哥要出货的时候 他就会这么说 \n\ny哥已经一个月没有和我私信聊天了\n\n我们的关系破碎了",
-      "publishedAt": "2026-06-11T10:50:00.000Z",
-      "link": "https://x.com/octopusycc/status/2065023882948673708",
-      "quote": {
-        "username": "Fairance",
-        "displayName": "Y",
-        "content": "还是感觉form会起飞\n而且是即将起飞",
-        "contentHtml": "还是感觉form会起飞\n而且是即将起飞",
-        "link": "https://x.com/Fairance/status/2065014061981749332"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065023615163371740",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "顶级交易员认为BTC已见底，要上刺刀？\n\nCryptoQuant的MVRV Percentile指标，把 MVRV在本轮周期内的相对位置换算成百分位，图中橙到蓝的渐变线就是百分位读数。\n\n分区中0–10%（绿区）表示深度低估/投降区。图上黄圈标的是历次百分位打到0%附近的时刻，每次都对应周期级大底。\n\n最右侧当前读数又一次砸到了 0% 附近，Killa想表达的是，按这个指标的历史规律，现在处于和前4次大底同级别的低估区域。\n\n不过，我觉得有个需要注意的点：\n\n这个指标是“当前周期内”的百分位，分母会随周期重置，所以0%只说明MVRV在本轮周期里处于最低位置，不等于绝对估值和 2015、2022一样便宜。\n\n况且，本轮MVRV整体中枢要比早期周期更低。筹码结构、ETF持仓期拉长，都会压低 MVRV波动。\n\n所以，可能更适合用它做左侧信号，但单一指标不足以确认底部。\n\n最好和我们的框架里，比如EARL大级别背离、盈亏供应咬合，LTH净持仓回升等等这类情绪和结构重置的数据交叉验证。\n\n以此获得逻辑上的互相支持。",
-      "contentHtml": "顶级交易员认为BTC已见底，要上刺刀？\n\nCryptoQuant的MVRV Percentile指标，把 MVRV在本轮周期内的相对位置换算成百分位，图中橙到蓝的渐变线就是百分位读数。\n\n分区中0–10%（绿区）表示深度低估/投降区。图上黄圈标的是历次百分位打到0%附近的时刻，每次都对应周期级大底。\n\n最右侧当前读数又一次砸到了 0% 附近，Killa想表达的是，按这个指标的历史规律，现在处于和前4次大底同级别的低估区域。\n\n不过，我觉得有个需要注意的点：\n\n这个指标是“当前周期内”的百分位，分母会随周期重置，所以0%只说明MVRV在本轮周期里处于最低位置，不等于绝对估值和 2015、2022一样便宜。\n\n况且，本轮MVRV整体中枢要比早期周期更低。筹码结构、ETF持仓期拉长，都会压低 MVRV波动。\n\n所以，可能更适合用它做左侧信号，但单一指标不足以确认底部。\n\n最好和我们的框架里，比如EARL大级别背离、盈亏供应咬合，LTH净持仓回升等等这类情绪和结构重置的数据交叉验证。\n\n以此获得逻辑上的互相支持。",
-      "publishedAt": "2026-06-11T10:49:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2065023615163371740",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKhwB4rbMAAIyzs.jpg"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "I'm not betting against a chart like this.\n\nI'm sticking with my 2x long position and accepting the risk. \n\nEither we see a 50% drop and my position is liquidated, or I ride a 150% move to the upside.\n\nThose are odds I'm willing to take... $BTC",
-        "contentHtml": "I'm not betting against a chart like this.\n\nI'm sticking with my 2x long position and accepting the risk. \n\nEither we see a 50% drop and my position is liquidated, or I ride a 150% move to the upside.\n\nThose are odds I'm willing to take... <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
-        "link": "https://x.com/KillaXBT/status/2064801402048684240",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKeld1sWQAEXpIa.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065023302343492008",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/1970387533675610113/YT8_qH0j_bigger.jpg",
-      "content": "$BTC \n\nWith the 14th approaching, paying close attention to the narrative will be crucial in assessing what is likely to unfold over the remainder of this month.\n\nIf a bullish narrative emerges, a reversal after the 14th becomes likely.\n\nOf course, this is simply based on a pattern that has been repeating over the past 10 months.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWith the 14th approaching, paying close attention to the narrative will be crucial in assessing what is likely to unfold over the remainder of this month.\n\nIf a bullish narrative emerges, a reversal after the 14th becomes likely.\n\nOf course, this is simply based on a pattern that has been repeating over the past 10 months.",
-      "publishedAt": "2026-06-11T10:48:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2065023302343492008",
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "I say $BTC pumps into the 14th & then reverses back down.",
-        "contentHtml": "I say <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> pumps into the 14th &amp; then reverses back down.",
-        "link": "https://x.com/KillaXBT/status/2063596686727946431",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKNeLRJWIAAM-Zf.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065022452846199109",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "根据商业大联盟FIFA的狗庄特性\n\n我将会押注南非赢墨西哥\n\n我要赢光你们在okx里的假钱\n\n#okx",
-      "contentHtml": "根据商业大联盟FIFA的狗庄特性\n\n我将会押注南非赢墨西哥\n\n我要赢光你们在okx里的假钱\n\n<a href=\"/search?f=tweets&q=%23okx\">#okx</a>",
-      "publishedAt": "2026-06-11T10:44:00.000Z",
-      "link": "https://x.com/octopusycc/status/2065022452846199109",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKhu-HDawAAUwfK.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2065014458045571107",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "恶人被天收是人民最喜闻乐见的戏码",
-      "contentHtml": "恶人被天收是人民最喜闻乐见的戏码",
-      "publishedAt": "2026-06-11T10:13:00.000Z",
-      "link": "https://x.com/octopusycc/status/2065014458045571107",
       "stats": {
         "replies": 0,
         "retweets": 0,
