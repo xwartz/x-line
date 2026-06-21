@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T00:38:08.391Z",
+  "lastUpdated": "2026-06-21T01:50:15.783Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -114,6 +114,59 @@
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2068506689880649991",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "从下图中我们不难看出要击穿优先股，BTC得跌到$26,000；要击穿债务，得跌到$8,000......事实上，当前优先股并没有偿付危机。\n\n同类产品SATA在这周还稳在$99以上。SATA没脱锚而STRC脱了，说明这次卖压更多是冲着Strategy来的，而不是这类工具本身的设计缺陷。\n\n所以，它更像是一次杠杆和信用的重定价，再叠加现金储备被消耗以及首次卖币信号被放大后的流动性紧缩；但绝非清算危机。\n\nStrategy离强制清算还很远，只是在当前价格下飞轮确实停转了。接下来，BTC的价格路径才是决定这究竟是一次中场休整，还是螺旋的开始。\n\n然而把STRC脱锚对标上轮周期UST脱锚/LUNA暴雷，这种死亡螺旋的叙事明显有些过度了。\n\n如果BTC价格回升，股权ATM重开，飞轮就能重启；又能用普通股补股息，并重建现金储备；也就解决了STRC折价里最危险的那个因素。\n\n所以，正如如倪大 @PhyrexNi  所说，真正的开关一直都是BTC的价格！",
+      "contentHtml": "从下图中我们不难看出要击穿优先股，BTC得跌到$26,000；要击穿债务，得跌到$8,000......事实上，当前优先股并没有偿付危机。\n\n同类产品SATA在这周还稳在$99以上。SATA没脱锚而STRC脱了，说明这次卖压更多是冲着Strategy来的，而不是这类工具本身的设计缺陷。\n\n所以，它更像是一次杠杆和信用的重定价，再叠加现金储备被消耗以及首次卖币信号被放大后的流动性紧缩；但绝非清算危机。\n\nStrategy离强制清算还很远，只是在当前价格下飞轮确实停转了。接下来，BTC的价格路径才是决定这究竟是一次中场休整，还是螺旋的开始。\n\n然而把STRC脱锚对标上轮周期UST脱锚/LUNA暴雷，这种死亡螺旋的叙事明显有些过度了。\n\n如果BTC价格回升，股权ATM重开，飞轮就能重启；又能用普通股补股息，并重建现金储备；也就解决了STRC折价里最危险的那个因素。\n\n所以，正如如倪大 <a href=\"/PhyrexNi\" title=\"Phyrex\">@PhyrexNi</a>  所说，真正的开关一直都是BTC的价格！",
+      "publishedAt": "2026-06-21T01:30:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2068506689880649991",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLRF4y8aoAA7aZK.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLRHz2FakAE_GcZ.jpg"
+        }
+      ],
+      "quote": {
+        "username": "PhyrexNi",
+        "displayName": "Phyrex",
+        "content": "Strategy 和 STRC 以及 LUNA 和 UST 一毛钱的相似度都没有！\n\nUST 当年出问题是因为背后有一套自动强制机制。UST 跌破 1 美元以后，系统会通过制造更多 LUNA 去恢复 UST 的锚定。\n\n市场好的时候 LUNA 价格上涨，市场愿意接盘，UST 能靠 20% 的高息吸引资金，所以这个模型看起来能跑。市场不好的时候 UST 一脱锚，体系越想修复 UST 的价格，就越要制造 LUNA，LUNA 越被制造出来卖，价格越跌，最后 LUNA 和 UST 一起崩。\n\n但 STRC 完全不是这套机制。\n\nSTRC 跌到 80 美元，本质上就是优先股折价交易。100 美元是面值附近，也是 Strategy 希望维持的价格区间，但这不是稳定币的锚定价格。STRC 跌破 100 美元，并不会触发 Strategy 强制卖 BTC，也没有任何机制规定 Strategy 必须卖 bitcoin:native 去把 STRC 拉回 100 美元。\n\nStrategy 能做的是提高 STRC 的股息率，让市场觉得收益足够高以后愿意重新买入。但问题也在这里，股息率越高，未来每年要付的钱就越多，所以 STRC 真正的压力是融资成本上升，不是 UST 那种算法死亡螺旋。\n\n实际上真正的风险应该是 Bitcoin 继续深跌，MSTR 的溢价被压缩，普通股 ATM 变难，优先股 ATM 也变贵，STRC 折价继续放大，市场开始担心 Strategy 未来还能不能继续融资、付息和再融资。\n\n所以我一直想强调的是，Strategy 最大的风险不是 STRC 而是 Bitcoin 。\n\n但说 STRC 跌破 100，Strategy 就必须卖 BTC，BTC 被砸崩以后 STRC 继续崩，这个中间少了最关键的一环，就是强制机制。\n\nLUNA 和 UST 是算法稳定币本身的缺憾，所以到现在已经几乎没有算法稳定币了，就是大家都知道这里的坑太大了，但 Strategy 和 STRC 是公司融资结构的问题，而不是一套强制的机制。\n\n所以 Strategy 虽然不是没有有风险，但主要的风险是 Bitcoin 深跌以后，如果 MSTR 普通股 ATM 卖不动，优先股 ATM 卖不动，可转债也没办法再融资，那才是 Strategy 的风险。\n\n但需要注意的是包括 STRC 在内的优先股，并不是承若利息，这点非常重要，我发现很多小伙伴的阅读能力都不够好，白纸黑字写的很清楚 — — \n\nStrategy 没有必须按期支付优先股股息的债务义务！！\n\nStrategy 没有必须按期支付优先股股息的债务义务！！\n\nStrategy 没有必须按期支付优先股股息的债务义务！！\n\n当然虽然不支付会有一些后果，Strategy 会被限制向普通股和低级别证券支付股息，STRC 的信用和融资能力也会受伤。仅此而已。\n\n所以，真的没必要传播什么 STRC 还不起股息，Strategy 就必须要卖 Bitcoin ，导致 Bitcoin 价格连环踩踏的恐慌。\n\n这完全是错的，应该首先是 Bitcoin 的价格出现了下跌，然后才是 STRC 下跌，然后才是 Strategy 提高股息率，然后才是影响融资能力，重点永远都是 Bitcoin 的价格走在前边，而不是 Strategy 的优先股走在前边！\n\n就更别提什么 LUNA 和 UST ，完全就是错误的对比。",
+        "contentHtml": "Strategy 和 STRC 以及 LUNA 和 UST 一毛钱的相似度都没有！\n\nUST 当年出问题是因为背后有一套自动强制机制。UST 跌破 1 美元以后，系统会通过制造更多 LUNA 去恢复 UST 的锚定。\n\n市场好的时候 LUNA 价格上涨，市场愿意接盘，UST 能靠 20% 的高息吸引资金，所以这个模型看起来能跑。市场不好的时候 UST 一脱锚，体系越想修复 UST 的价格，就越要制造 LUNA，LUNA 越被制造出来卖，价格越跌，最后 LUNA 和 UST 一起崩。\n\n但 STRC 完全不是这套机制。\n\nSTRC 跌到 80 美元，本质上就是优先股折价交易。100 美元是面值附近，也是 Strategy 希望维持的价格区间，但这不是稳定币的锚定价格。STRC 跌破 100 美元，并不会触发 Strategy 强制卖 BTC，也没有任何机制规定 Strategy 必须卖 bitcoin:native 去把 STRC 拉回 100 美元。\n\nStrategy 能做的是提高 STRC 的股息率，让市场觉得收益足够高以后愿意重新买入。但问题也在这里，股息率越高，未来每年要付的钱就越多，所以 STRC 真正的压力是融资成本上升，不是 UST 那种算法死亡螺旋。\n\n实际上真正的风险应该是 Bitcoin 继续深跌，MSTR 的溢价被压缩，普通股 ATM 变难，优先股 ATM 也变贵，STRC 折价继续放大，市场开始担心 Strategy 未来还能不能继续融资、付息和再融资。\n\n所以我一直想强调的是，Strategy 最大的风险不是 STRC 而是 Bitcoin 。\n\n但说 STRC 跌破 100，Strategy 就必须卖 BTC，BTC 被砸崩以后 STRC 继续崩，这个中间少了最关键的一环，就是强制机制。\n\nLUNA 和 UST 是算法稳定币本身的缺憾，所以到现在已经几乎没有算法稳定币了，就是大家都知道这里的坑太大了，但 Strategy 和 STRC 是公司融资结构的问题，而不是一套强制的机制。\n\n所以 Strategy 虽然不是没有有风险，但主要的风险是 Bitcoin 深跌以后，如果 MSTR 普通股 ATM 卖不动，优先股 ATM 卖不动，可转债也没办法再融资，那才是 Strategy 的风险。\n\n但需要注意的是包括 STRC 在内的优先股，并不是承若利息，这点非常重要，我发现很多小伙伴的阅读能力都不够好，白纸黑字写的很清楚 — — \n\nStrategy 没有必须按期支付优先股股息的债务义务！！\n\nStrategy 没有必须按期支付优先股股息的债务义务！！\n\nStrategy 没有必须按期支付优先股股息的债务义务！！\n\n当然虽然不支付会有一些后果，Strategy 会被限制向普通股和低级别证券支付股息，STRC 的信用和融资能力也会受伤。仅此而已。\n\n所以，真的没必要传播什么 STRC 还不起股息，Strategy 就必须要卖 Bitcoin ，导致 Bitcoin 价格连环踩踏的恐慌。\n\n这完全是错的，应该首先是 Bitcoin 的价格出现了下跌，然后才是 STRC 下跌，然后才是 Strategy 提高股息率，然后才是影响融资能力，重点永远都是 Bitcoin 的价格走在前边，而不是 Strategy 的优先股走在前边！\n\n就更别提什么 LUNA 和 UST ，完全就是错误的对比。",
+        "link": "https://x.com/PhyrexNi/status/2067983086072250516"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2068496518508920981",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#Crypto \n\n这篇文章写的不错，今日的推荐阅读。\n\n讲点外行不知道的：\n\n你想写出这样的文章，要花点功夫。\n\n但如果你只是想不亏钱，花个半小时就够了。\n\n哪怕你之前完全没了解过这玩意，和 AI 聊半小时，至少可以得出一个结论：无论做多（持有）还是做空，STRC 它都不是好标的。\n\n现在是多爽的时代啊，AI 这么强，对手这么弱。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n这篇文章写的不错，今日的推荐阅读。\n\n讲点外行不知道的：\n\n你想写出这样的文章，要花点功夫。\n\n但如果你只是想不亏钱，花个半小时就够了。\n\n哪怕你之前完全没了解过这玩意，和 AI 聊半小时，至少可以得出一个结论：无论做多（持有）还是做空，STRC 它都不是好标的。\n\n现在是多爽的时代啊，AI 这么强，对手这么弱。",
+      "publishedAt": "2026-06-21T00:49:00.000Z",
+      "link": "https://x.com/taresky/status/2068496518508920981",
+      "quote": {
+        "username": "0xBoboCrypto",
+        "displayName": "Moon bobo｜Options Trader👨‍🎓",
+        "content": "",
+        "link": "https://x.com/0xBoboCrypto/status/2067900409138852228"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2068489136420639159",
       "username": "taresky",
@@ -12182,42 +12235,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HKwp6w4bMAAq0PU.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2066069899781529653",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群   \n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群   \n👉 <a href=\"http://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-06-14T08:07:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2066069899781529653",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2066069896706879964",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "回顧目前熊市期間較劇烈下跌後的止跌區，可以發現市場通常會伴隨特定的數據特徵。在過往行情中，當整體市場出現買方流動性遠大於賣方流動性時，往往伴隨階段性底部的形成，若再與山寨幣抗跌指標產生共振，則屬於場內因子較為極端的觸底訊號。\n\n由整體市場流動性指標來看 - 10% Overall Liquidity (BTC) 衡量的是買賣雙方流動性的偏差程度，當其達到 +5000 顆 BTC 以上時，已屬於歷史上的極端值，而 ALT Resilient Index 則用於量化山寨幣在市長下跌過程中的抗跌強度，反映場內山寨主力的護盤意願，當其數值 > 3 時，同樣屬於極端訊號。\n\n如圖所示，A、B、C 點皆為本輪熊市期間較劇烈的下跌階段，而在後續止跌區域，通常皆伴隨上述流動性與山寨抗跌指標同步達到極端值。綜合目前數據表現，市場已出現類似的底部數據特徵，因此後續行情較大概率進入震盪修復階段。",
-      "contentHtml": "回顧目前熊市期間較劇烈下跌後的止跌區，可以發現市場通常會伴隨特定的數據特徵。在過往行情中，當整體市場出現買方流動性遠大於賣方流動性時，往往伴隨階段性底部的形成，若再與山寨幣抗跌指標產生共振，則屬於場內因子較為極端的觸底訊號。\n\n由整體市場流動性指標來看 - 10% Overall Liquidity (BTC) 衡量的是買賣雙方流動性的偏差程度，當其達到 +5000 顆 BTC 以上時，已屬於歷史上的極端值，而 ALT Resilient Index 則用於量化山寨幣在市長下跌過程中的抗跌強度，反映場內山寨主力的護盤意願，當其數值 &gt; 3 時，同樣屬於極端訊號。\n\n如圖所示，A、B、C 點皆為本輪熊市期間較劇烈的下跌階段，而在後續止跌區域，通常皆伴隨上述流動性與山寨抗跌指標同步達到極端值。綜合目前數據表現，市場已出現類似的底部數據特徵，因此後續行情較大概率進入震盪修復階段。",
-      "publishedAt": "2026-06-14T08:07:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2066069896706879964",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HKwnghaa8AExlmP.png"
         }
       ],
       "stats": {
