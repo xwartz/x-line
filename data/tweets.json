@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T15:48:17.034Z",
+  "lastUpdated": "2026-06-24T22:29:39.252Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,847 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 642,
+    "newFetched": 645,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2069906978114031732",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Getting some 2022 PTSD right now on $BTC. \n\nI don't even think this will play out, if I'm honest. Very low chance.\n\nJust an interesting pattern I thought was worth sharing.",
+      "contentHtml": "Getting some 2022 PTSD right now on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>. \n\nI don't even think this will play out, if I'm honest. Very low chance.\n\nJust an interesting pattern I thought was worth sharing.",
+      "publishedAt": "2026-06-24T22:14:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2069906978114031732",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLnJMN4XIAACWG7.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069904169050521986",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "一个重要思考\n\n海力士的HBM产能已经被提前锁走\nMU有大量的LTA\n三星正在把AI内存用户转化成3-5年长期合同，效仿MU和海力士\n\n那么三星的增长点是什么？\n\n———————\n\nHBM 追赶成功 + AI server DRAM/NAND/eSSD 长协化 + OpenAI/Stargate 级别需求验证。\nHBM4E的验证\n\n这里就构建了三星估值重构的逻辑",
+      "contentHtml": "一个重要思考\n\n海力士的HBM产能已经被提前锁走\nMU有大量的LTA\n三星正在把AI内存用户转化成3-5年长期合同，效仿MU和海力士\n\n那么三星的增长点是什么？\n\n———————\n\nHBM 追赶成功 + AI server DRAM/NAND/eSSD 长协化 + OpenAI/Stargate 级别需求验证。\nHBM4E的验证\n\n这里就构建了三星估值重构的逻辑",
+      "publishedAt": "2026-06-24T22:03:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069904169050521986",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069903253316239560",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "bitcoin:native \n\nIt indeed seems like we are filling the great wall of china.",
+      "contentHtml": "bitcoin:native \n\nIt indeed seems like we are filling the great wall of china.",
+      "publishedAt": "2026-06-24T21:59:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2069903253316239560",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLnF2NeWAAAxJhq.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "They can see all your bids below $60K, which is exactly why $BTC keeps front-running them.\n\nWe're likely to see more hunts to the upside, squeezing shorts and making them uncomfortable before we even consider filling this monstrous buy wall below us.\n\nAka. Binance Plunge Protection.",
+        "contentHtml": "They can see all your bids below $60K, which is exactly why <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> keeps front-running them.\n\nWe're likely to see more hunts to the upside, squeezing shorts and making them uncomfortable before we even consider filling this monstrous buy wall below us.\n\nAka. Binance Plunge Protection.",
+        "link": "https://x.com/KillaXBT/status/2068651423198322701",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLVSvKuWYAAhjjv.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069902095264985503",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "mu的lta看起来是槽点之一🤔",
+      "contentHtml": "mu的lta看起来是槽点之一🤔",
+      "publishedAt": "2026-06-24T21:54:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069902095264985503",
+      "quote": {
+        "username": "kjage1",
+        "displayName": "kj age",
+        "content": "マイクロン LTA（長期契約）\n\n• 5年契約（2030年まで）\n• 16件の契約締結\n• DRAM生産量の20%、NAND生産量の30%程度\n• 売上の50%までカバー可能な規模\n\nlta 最低保証 売上1000億ドル",
+        "contentHtml": "マイクロン LTA（長期契約）\n\n• 5年契約（2030年まで）\n• 16件の契約締結\n• DRAM生産量の20%、NAND生産量の30%程度\n• 売上の50%までカバー可能な規模\n\nlta 最低保証 売上1000億ドル",
+        "link": "https://x.com/kjage1/status/2069894440567869671",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLm9-qIbIAA6pVc.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069899442296377580",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "很难想象 海力士上美股会把局势搅成什么样",
+      "contentHtml": "很难想象 海力士上美股会把局势搅成什么样",
+      "publishedAt": "2026-06-24T21:44:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069899442296377580",
+      "quote": {
+        "username": "aleabitoreddit",
+        "displayName": "Serenity",
+        "content": "Always amazing looking at $MU earnings: \n\nRevenue: $41.46B vs. $35.8B est.\nEPS: $25.11 vs. $20.78 est.\n\nForecasts:\n\nRevenue: $49B to $51B, vs $43.24B est \nEPS: $30.00 to $32.00, vs. $25.31.\n\n“Micron said on Wednesday that it has signed 16 long-term agreements”\n\n\"When completed, we expect approximately half or more of our company revenue to be under these\"\n\nLooks like memory demand has become structural…\n\nBut great earnings to show up the AI trade is continuing to ramp up.",
+        "contentHtml": "Always amazing looking at <a href=\"/search?f=tweets&q=%23MU\">$MU</a> earnings: \n\nRevenue: $41.46B vs. $35.8B est.\nEPS: $25.11 vs. $20.78 est.\n\nForecasts:\n\nRevenue: $49B to $51B, vs $43.24B est \nEPS: $30.00 to $32.00, vs. $25.31.\n\n“Micron said on Wednesday that it has signed 16 long-term agreements”\n\n\"When completed, we expect approximately half or more of our company revenue to be under these\"\n\nLooks like memory demand has become structural…\n\nBut great earnings to show up the AI trade is continuing to ramp up.",
+        "link": "https://x.com/aleabitoreddit/status/2069892511406100716",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLm8Q_yaMAAf2k-.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLm8Q_wagAAiHnE.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069891612893904986",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#案例 \n\n这个东亚父母的段子大概 15、20 年了？\n\n再发出来还是能获得大量流量。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23案例\">#案例</a> \n\n这个东亚父母的段子大概 15、20 年了？\n\n再发出来还是能获得大量流量。",
+      "publishedAt": "2026-06-24T21:13:00.000Z",
+      "link": "https://x.com/taresky/status/2069891612893904986",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLm7cinacAEyW6T.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069885601789456731",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "谢谢大家",
+      "contentHtml": "谢谢大家",
+      "publishedAt": "2026-06-24T20:49:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069885601789456731",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLm1-JraMAAxGK8.png"
+        }
+      ],
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "MU财报属于美国国运级别的财报\n\n几乎一定高于预期\n\n出现任何问题，白宫和Trump都有极大的动力去补救\n\n所以跌了买 涨了买 不跌不涨还是买\n\n（之前每次MU财报出来都是跌的，按照-2%到-8%的跌幅，这次MU如果刻舟求剑的话，最大会跌到950刀附近）\n\n那么下一个问题是，如果你看到950刀的MU，你会做什么？",
+        "contentHtml": "MU财报属于美国国运级别的财报\n\n几乎一定高于预期\n\n出现任何问题，白宫和Trump都有极大的动力去补救\n\n所以跌了买 涨了买 不跌不涨还是买\n\n（之前每次MU财报出来都是跌的，按照-2%到-8%的跌幅，这次MU如果刻舟求剑的话，最大会跌到950刀附近）\n\n那么下一个问题是，如果你看到950刀的MU，你会做什么？",
+        "link": "https://x.com/octopusycc/status/2069787639608459445"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069881894410551736",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "mu才是真nvda",
+      "contentHtml": "mu才是真nvda",
+      "publishedAt": "2026-06-24T20:34:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069881894410551736",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069879909288448318",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "Micron $MU: “We have now signed 16 strategic customer agreements, which we expect will fundamentally transform our business model. 14 of the 16 SCAs have a cumulative revenue at minimum price per our contracts of approximately $100 billion over the remaining agreement term”\n​\n美光科技宣布已签署16项战略客户协议，其中14项协议在剩余合约期内的最低累计收入约为1000亿美元。公司表示这些协议将从根本上改变其商业模式。",
+      "contentHtml": "Micron <a href=\"/search?f=tweets&q=%23MU\">$MU</a>: “We have now signed 16 strategic customer agreements, which we expect will fundamentally transform our business model. 14 of the 16 SCAs have a cumulative revenue at minimum price per our contracts of approximately $100 billion over the remaining agreement term”\n​\n美光科技宣布已签署16项战略客户协议，其中14项协议在剩余合约期内的最低累计收入约为1000亿美元。公司表示这些协议将从根本上改变其商业模式。",
+      "publishedAt": "2026-06-24T20:26:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069879909288448318",
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "MU财报属于美国国运级别的财报\n\n几乎一定高于预期\n\n出现任何问题，白宫和Trump都有极大的动力去补救\n\n所以跌了买 涨了买 不跌不涨还是买\n\n（之前每次MU财报出来都是跌的，按照-2%到-8%的跌幅，这次MU如果刻舟求剑的话，最大会跌到950刀附近）\n\n那么下一个问题是，如果你看到950刀的MU，你会做什么？",
+        "contentHtml": "MU财报属于美国国运级别的财报\n\n几乎一定高于预期\n\n出现任何问题，白宫和Trump都有极大的动力去补救\n\n所以跌了买 涨了买 不跌不涨还是买\n\n（之前每次MU财报出来都是跌的，按照-2%到-8%的跌幅，这次MU如果刻舟求剑的话，最大会跌到950刀附近）\n\n那么下一个问题是，如果你看到950刀的MU，你会做什么？",
+        "link": "https://x.com/octopusycc/status/2069787639608459445"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069875576568201251",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "高于预期\n\n谢谢大家 \n\n67接到10%的Dram 大力轰入了",
+      "contentHtml": "高于预期\n\n谢谢大家 \n\n67接到10%的Dram 大力轰入了",
+      "publishedAt": "2026-06-24T20:09:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069875576568201251",
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "MU财报属于美国国运级别的财报\n\n几乎一定高于预期\n\n出现任何问题，白宫和Trump都有极大的动力去补救\n\n所以跌了买 涨了买 不跌不涨还是买\n\n（之前每次MU财报出来都是跌的，按照-2%到-8%的跌幅，这次MU如果刻舟求剑的话，最大会跌到950刀附近）\n\n那么下一个问题是，如果你看到950刀的MU，你会做什么？",
+        "contentHtml": "MU财报属于美国国运级别的财报\n\n几乎一定高于预期\n\n出现任何问题，白宫和Trump都有极大的动力去补救\n\n所以跌了买 涨了买 不跌不涨还是买\n\n（之前每次MU财报出来都是跌的，按照-2%到-8%的跌幅，这次MU如果刻舟求剑的话，最大会跌到950刀附近）\n\n那么下一个问题是，如果你看到950刀的MU，你会做什么？",
+        "link": "https://x.com/octopusycc/status/2069787639608459445"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069872444270325985",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "app.binance.com/uni-qr/cspa/…",
+      "contentHtml": "<a href=\"https://app.binance.com/uni-qr/cspa/42209181752922?l=zh-CN&r=MJ6LI1UJ&source=host_share&uc=web_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>",
+      "publishedAt": "2026-06-24T19:57:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069872444270325985",
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "还有人吗",
+        "contentHtml": "还有人吗",
+        "link": "https://x.com/octopusycc/status/2069871563504312749"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069871563504312749",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "还有人吗",
+      "contentHtml": "还有人吗",
+      "publishedAt": "2026-06-24T19:53:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069871563504312749",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069865177919660165",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "你要是一次卖几万个可能今天就不会被解雇了",
+      "contentHtml": "你要是一次卖几万个可能今天就不会被解雇了",
+      "publishedAt": "2026-06-24T19:28:00.000Z",
+      "link": "https://x.com/yuren477/status/2069865177919660165",
+      "quote": {
+        "username": "jords",
+        "displayName": "jords",
+        "content": "yes, i was one of the ethereum foundation employees fired today\n\ni was the guy in charge of selling thousands of eth every time the price went up 3%",
+        "contentHtml": "yes, i was one of the ethereum foundation employees fired today\n\ni was the guy in charge of selling thousands of eth every time the price went up 3%",
+        "link": "https://x.com/jords/status/2069420033449533775"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069864879503368213",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "哥你离职了以后能不卖了不🥹",
+      "contentHtml": "哥你离职了以后能不卖了不🥹",
+      "publishedAt": "2026-06-24T19:26:00.000Z",
+      "link": "https://x.com/hazenlee/status/2069864879503368213",
+      "quote": {
+        "username": "jords",
+        "displayName": "jords",
+        "content": "yes, i was one of the ethereum foundation employees fired today\n\ni was the guy in charge of selling thousands of eth every time the price went up 3%",
+        "contentHtml": "yes, i was one of the ethereum foundation employees fired today\n\ni was the guy in charge of selling thousands of eth every time the price went up 3%",
+        "link": "https://x.com/jords/status/2069420033449533775"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069864640285139397",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "两周前，美股好贵，都下不了手\n两周后，加息了，可怕，要继续跌\n我希望不是同一批人\nX是懂的，今天又给我推一些做空出来晒观点的文\n今年年初银行板块一度跌幅超10%，3个多月后都新高了。一些受战争影响的个股，比如GE，我说只要你相信战争会结束，那这些基本面没问题的公司就会回来\n市场的焦点，媒体的焦点都被这些热点抢走了，冷静下来之后，我们会发现股价长期就是围绕着基本面（EPS增速）展开，宏观啊，消息啊，多数时候都是噪音，利用噪音去调整仓位才是应该做的\n特斯拉今年相对比较弱，年初我也进行了减仓，但我认为今年是累计仓位的时候，投资期的价格低谷。\n买它慢慢消化完前期打水漂的资本开支，基本面会把估值带回来\n比特币今年确实难，年初我提过AI越好，越利空比特币的想法似乎没有错，从矿工转型AI到交易所统统开始加入美股交易，矿工我可以理解，交易所一直在建设币圈，建设到最后鼓励币圈交易美股真的很讽刺，建了那么多年，建了啥？如果不是美国政府背书稳定币，除了比特币有点共识，其他啥都不是。\n26年上半年绝对高难度，一场战争打出了很多美股政治专家，散户机构根本不敢买，4，5两个月的涨幅又非常集中，没有芯片硬件的几乎陪跑，但也就半年的时间，过去的都是后视镜了，往前看，美股仍然不贵，机会大把，我们年底来看，话题可能又得换了。",
+      "contentHtml": "两周前，美股好贵，都下不了手\n两周后，加息了，可怕，要继续跌\n我希望不是同一批人\nX是懂的，今天又给我推一些做空出来晒观点的文\n今年年初银行板块一度跌幅超10%，3个多月后都新高了。一些受战争影响的个股，比如GE，我说只要你相信战争会结束，那这些基本面没问题的公司就会回来\n市场的焦点，媒体的焦点都被这些热点抢走了，冷静下来之后，我们会发现股价长期就是围绕着基本面（EPS增速）展开，宏观啊，消息啊，多数时候都是噪音，利用噪音去调整仓位才是应该做的\n特斯拉今年相对比较弱，年初我也进行了减仓，但我认为今年是累计仓位的时候，投资期的价格低谷。\n买它慢慢消化完前期打水漂的资本开支，基本面会把估值带回来\n比特币今年确实难，年初我提过AI越好，越利空比特币的想法似乎没有错，从矿工转型AI到交易所统统开始加入美股交易，矿工我可以理解，交易所一直在建设币圈，建设到最后鼓励币圈交易美股真的很讽刺，建了那么多年，建了啥？如果不是美国政府背书稳定币，除了比特币有点共识，其他啥都不是。\n26年上半年绝对高难度，一场战争打出了很多美股政治专家，散户机构根本不敢买，4，5两个月的涨幅又非常集中，没有芯片硬件的几乎陪跑，但也就半年的时间，过去的都是后视镜了，往前看，美股仍然不贵，机会大把，我们年底来看，话题可能又得换了。",
+      "publishedAt": "2026-06-24T19:26:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2069864640285139397",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069849127026856211",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "Being a crypto founder is wild.\n\nFor years people hang on every word you say.\n\nYou lowkey start feeling special.\n\nThen TGE happens and suddenly nobody gives a single fuck about your thoughts anymore.",
+      "contentHtml": "Being a crypto founder is wild.\n\nFor years people hang on every word you say.\n\nYou lowkey start feeling special.\n\nThen TGE happens and suddenly nobody gives a single fuck about your thoughts anymore.",
+      "publishedAt": "2026-06-24T18:24:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2069849127026856211",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069839828485841159",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "他会打个j8德州",
+      "contentHtml": "他会打个j8德州",
+      "publishedAt": "2026-06-24T17:47:00.000Z",
+      "link": "https://x.com/yuren477/status/2069839828485841159",
+      "quote": {
+        "username": "CryptoRounder",
+        "displayName": "Rounder",
+        "content": "午饭老师很喜欢用德州扑克举例，这里提到“正 EV 的实现”其实需要良好的资金管理。看好一个东西能涨 10 倍，但不能把全部身家放进去，因为那只是隐含的潜在机会，可能泡汤。\n\n午饭老师看好 Circle 这件事的“资金管理”已经失控了，很多粉丝或真或假大力重仓，个人的名誉和信任也一定程度绑定到了 Circle。\n\n被误解是表达者的宿命。这可能也是有影响力的人只能保持谦卑，总是带上一句“非投资建议”的原因。",
+        "contentHtml": "午饭老师很喜欢用德州扑克举例，这里提到“正 EV 的实现”其实需要良好的资金管理。看好一个东西能涨 10 倍，但不能把全部身家放进去，因为那只是隐含的潜在机会，可能泡汤。\n\n午饭老师看好 Circle 这件事的“资金管理”已经失控了，很多粉丝或真或假大力重仓，个人的名誉和信任也一定程度绑定到了 Circle。\n\n被误解是表达者的宿命。这可能也是有影响力的人只能保持谦卑，总是带上一句“非投资建议”的原因。",
+        "link": "https://x.com/CryptoRounder/status/2069635110723576224"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069838996650467437",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "反观大A挺起脊梁！",
+      "contentHtml": "反观大A挺起脊梁！",
+      "publishedAt": "2026-06-24T17:44:00.000Z",
+      "link": "https://x.com/hazenlee/status/2069838996650467437",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLmLmAKXUAAAgua.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "比赛了，黄金得加油了！怎么还在4字头",
+        "contentHtml": "比赛了，黄金得加油了！怎么还在4字头",
+        "link": "https://x.com/hazenlee/status/1981220375221719157",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/G361bUTXoAAwY1y.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069837902134272023",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "都不许晒单！卸载懂车帝！空舒不救",
+      "contentHtml": "都不许晒单！卸载懂车帝！空舒不救",
+      "publishedAt": "2026-06-24T17:39:00.000Z",
+      "link": "https://x.com/yuren477/status/2069837902134272023",
+      "quote": {
+        "username": "yuren477",
+        "displayName": "余人sama",
+        "content": "美股，金银，油都在跌，微策略爆雷风险没解除，现在要是有傻逼还在堵crypto，我只能建议你去看看精神科了。\n\n需要一场盛大的银河坠落！",
+        "contentHtml": "美股，金银，油都在跌，微策略爆雷风险没解除，现在要是有傻逼还在堵crypto，我只能建议你去看看精神科了。\n\n需要一场盛大的银河坠落！",
+        "link": "https://x.com/yuren477/status/2069339611382641038"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069837353682862326",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "而不是 $MSTR",
+      "contentHtml": "而不是 <a href=\"/search?f=tweets&q=%23MSTR\">$MSTR</a>",
+      "publishedAt": "2026-06-24T17:37:00.000Z",
+      "link": "https://x.com/hazenlee/status/2069837353682862326",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "很后悔做空了 bitcoin:native",
+        "contentHtml": "很后悔做空了 bitcoin:native",
+        "link": "https://x.com/hazenlee/status/2069837274519626122"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069837274519626122",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "很后悔做空了 bitcoin:native",
+      "contentHtml": "很后悔做空了 bitcoin:native",
+      "publishedAt": "2026-06-24T17:37:00.000Z",
+      "link": "https://x.com/hazenlee/status/2069837274519626122",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069836841608450171",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Doesn't change the fact that I'm swing long on $BTC.\n\nWhen the narrative becomes overwhelmingly one sided, it's usually a good indication of how the crowd is positioned. \n\nFrom what I'm seeing, a lot of people are already starting to panic.\n\nWe'll probably get a few more rounds of FUD. Whether it's rumors about $MSTR selling or some other headline designed to shake the market... it changes nothing for me.\n\nMy bullish outlook remains exactly the same on the HTF.",
+      "contentHtml": "Doesn't change the fact that I'm swing long on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>.\n\nWhen the narrative becomes overwhelmingly one sided, it's usually a good indication of how the crowd is positioned. \n\nFrom what I'm seeing, a lot of people are already starting to panic.\n\nWe'll probably get a few more rounds of FUD. Whether it's rumors about <a href=\"/search?f=tweets&q=%23MSTR\">$MSTR</a> selling or some other headline designed to shake the market... it changes nothing for me.\n\nMy bullish outlook remains exactly the same on the HTF.",
+      "publishedAt": "2026-06-24T17:35:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2069836841608450171",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLmIuS6WcAEyAIM.png"
+        }
+      ],
+      "quote": {
+        "username": "Kalshi_Crypto",
+        "displayName": "Kalshi Crypto",
+        "content": "BREAKING: 75% chance Bitcoin hits $50,000 before $100,000",
+        "contentHtml": "BREAKING: 75% chance Bitcoin hits $50,000 before $100,000",
+        "link": "https://x.com/Kalshi_Crypto/status/2069827269648851182",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLmASOcW8AAe2JW.png"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLmA66dXwAA1_w_.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069836286643544451",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "希望一次把傻逼 mstr推到50-60美金啊\n\n这样ndx就可以把他除名了\n\n清算到这一步就可以了",
+      "contentHtml": "希望一次把傻逼 mstr推到50-60美金啊\n\n这样ndx就可以把他除名了\n\n清算到这一步就可以了",
+      "publishedAt": "2026-06-24T17:33:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069836286643544451",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069835718080524643",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "加密的事情我真的不想提太多 \n\n希望加密兄弟早日脱离苦海吧\n\n其实外面都没有雨",
+      "contentHtml": "加密的事情我真的不想提太多 \n\n希望加密兄弟早日脱离苦海吧\n\n其实外面都没有雨",
+      "publishedAt": "2026-06-24T17:31:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069835718080524643",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069834993615163859",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-06-24T17:28:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2069834993615163859",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLmH86gaoAAEX-Q.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069834066833412527",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "今天怎么说话的人有点少？？？？\n\n我记得那些kol每天都会发各种段子长文来着\n\n今天咋刷不到了",
+      "contentHtml": "今天怎么说话的人有点少？？？？\n\n我记得那些kol每天都会发各种段子长文来着\n\n今天咋刷不到了",
+      "publishedAt": "2026-06-24T17:24:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2069834066833412527",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069826989117034621",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Looks like I may end up being wrong on this idea, unfortunately.\n\nThat said, bear market bottoms have always been characterized by choppy, liquidity hunting price action. \n\nThere's not much else to say. We're trading in an environment specifically designed to extract as much as possible from every participant. \n\nMy advice... go AFK for the next few months, continue building your long term $BTC positions, and relax. \n\nLet the market play its games while you focus on the bigger picture.\n\nIf we lose the current wick low at $59K, the only way to validate a move higher is through a reclaim. \n\nOtherwise, the trend remains bearish and we continue pushing lower.",
+      "contentHtml": "Looks like I may end up being wrong on this idea, unfortunately.\n\nThat said, bear market bottoms have always been characterized by choppy, liquidity hunting price action. \n\nThere's not much else to say. We're trading in an environment specifically designed to extract as much as possible from every participant. \n\nMy advice... go AFK for the next few months, continue building your long term <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> positions, and relax. \n\nLet the market play its games while you focus on the bigger picture.\n\nIf we lose the current wick low at $59K, the only way to validate a move higher is through a reclaim. \n\nOtherwise, the trend remains bearish and we continue pushing lower.",
+      "publishedAt": "2026-06-24T16:56:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2069826989117034621",
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "You simply aren't ready.... $BTC",
+        "contentHtml": "You simply aren't ready.... <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
+        "link": "https://x.com/KillaXBT/status/2069784159963230427",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLlZlOIXsAAGoqK.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069825467679744394",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "做空全世界的信号😂",
+      "contentHtml": "做空全世界的信号😂",
+      "publishedAt": "2026-06-24T16:50:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2069825467679744394",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "完了，停不下来了😓\n\n$xau",
+        "contentHtml": "完了，停不下来了😓\n\n<a href=\"/search?f=tweets&q=%23xau\">$xau</a>",
+        "link": "https://x.com/Bitfatty/status/2069086494179180922",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLbfMqhbYAAAtxa.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069824314959151354",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "马前炮Frank！\n\n谢谢大家",
+      "contentHtml": "马前炮Frank！\n\n谢谢大家",
+      "publishedAt": "2026-06-24T16:45:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069824314959151354",
+      "quote": {
+        "username": "Franktradinglog",
+        "displayName": "Frank trading",
+        "content": "无敌了。\n一切都在剧本之中。\n股暴跌，债暴涨；做空股，做多债。\n一切马前炮，谢谢大家！",
+        "contentHtml": "无敌了。\n一切都在剧本之中。\n股暴跌，债暴涨；做空股，做多债。\n一切马前炮，谢谢大家！",
+        "link": "https://x.com/Franktradinglog/status/2069771092265467973",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLlNdX3a8AAVkYy.png"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLlNdX0a8AAsOFU.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069824240979955982",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "再之前都是困在学业里",
+      "contentHtml": "再之前都是困在学业里",
+      "publishedAt": "2026-06-24T16:45:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069824240979955982",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069824235154067720",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "我不玩mstr和crcl的原因\n\n“人生其实没有太多几年\n\n我也就真正活了七八年 \n\n没有那么多时间陪傻逼玩”",
+      "contentHtml": "我不玩mstr和crcl的原因\n\n“人生其实没有太多几年\n\n我也就真正活了七八年 \n\n没有那么多时间陪傻逼玩”",
+      "publishedAt": "2026-06-24T16:45:00.000Z",
+      "link": "https://x.com/octopusycc/status/2069824235154067720",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLl-KjGaMAAr0-y.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069821121315360919",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "都在等美光的财报，那这份美光财报前瞻值得看看。",
+      "contentHtml": "都在等美光的财报，那这份美光财报前瞻值得看看。",
+      "publishedAt": "2026-06-24T16:33:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2069821121315360919",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "美光财报前瞻，核心看哪些点？本周AI产业上最重要的事件可能就是美光的财报了，大家会很关心美光财报之后走势进而带动市场如何走，个人角度这次美光财报不是简单验证“强不强”，而是要看它能强多久。几个点值得聊聊：1、本季业绩不能只超公司指引，还要能达到市场最乐观预期上限；\n上一次财报电话会上美光给本季的指引是335亿美金，但市场目前普遍预期收入已经抬到了348-355亿左右，EPS在19.8-20.7美元。只是超公司指引已经远远不够，还要能超市场的预期才行。\n\n最强beat则是远超市场预期，毛利率83%，并且管理层能清晰拆解出营收的来源：\n1）多少来自ASP（平均销售价格）\n上一季美光说DRAM价格环比涨了60%，NAND价格涨了70%，这就是ASP上涨带来的贡献。ASP上涨通常是周期性最强的部分（供需紧张导致涨价），但也最容易反转；\n2）多少来自bit出货\n实际卖出去的存储容量（用“比特”这个单位来算），核心就是让市场清楚业绩增长多少是来自单价增长，多少是来自出货量增长；\n3）多少来自产品mix（产品组合 / 产品结构）\n高毛利产品和低毛利产品在总销售里的占比变化，即使总bit出货量没变，只要把更多产品卖给高价、高毛利的市场（比如HBM、DDR5高端、企业级SSD），整体收入和毛利率就会上升；\n4）多少来自成本下降\n即使价格和销量都不变，成本降了，毛利率也会自动提高。这是最“硬”的利润来源之一，因为它是公司自己努力的结果，不容易被竞争对手立刻复制。\n\n2、不仅要看本季业绩，还要看下一季度指引\n本季度是过去式，下一季度和2027年的可见度才真正决定卖方模型会不会继续上修。高盛目前给的FYQ4模型非常激进（收入约488亿、毛利率86.1%、EPS 29.95），而市场一致预期大概在404亿收入、23.68美元EPS左右。\n\n如果下一季度指引能到45-49亿收入、EPS 25-30区间，高端卖方模型就有继续支撑，目标价上修潮大概率延续。\n如果只到40-42亿、EPS 23-24附近，数字依然很强，但对当前股价可能只是“兑现”而非进一步催化。\n如果低于高端预期，同时管理层对2027年供需避而不谈，短线回调压力会明显增大。\n\n3、“SCA/LTA长协机制”：这是估值提升的核心\n过去两个月市场开始把存储股票从周期股往成长股看，核心就是长期协议。存储股过去最大问题不是赚不到钱，而是市场不相信高利润能持续。之前这里nitter.net/qinbafrank/status/2059…还聊过闪迪一季度财报时披露的长期协议条款，之前美光也宣布达成多份SCA策略性客户协议，如果SCA能够把未来供给、客户承诺、价格机制、capex回报绑定起来，MU的估值倍数就可能从“周期峰值折价”切到“AI基础设施资产折价较小”。\n\n美光上一季已经确认几点：\n第一，SCA不同于传统LTA，传统LTA通常偏一年期；\n第二，SCA是多年协议；\n第三，包含客户的specific commitments；\n第四，目标是提高业务可见度和稳定性；\n第五，公司已签下首个五年期SCA。\n 但公司也明确说，由于保密原因，不披露价格、取消条款、下行保护等细节。\n\n所以这次电话会要听管理层有没有比上一季更进一步。最重要的不是“再说一遍robust terms”，而是有没有以下信息：\n1）覆盖范围：SCA覆盖HBM、DDR5、LP DRAM、NAND/eSSD，还是只覆盖某些AI数据中心产品？\n2）承诺强度：是take-or-pay、产能预留、预付款、最低采购量，还是偏软性的forecast？\n3）价格机制：有没有价格下限、公式定价、成本+回报、ROIC-linked pricing？\n 4）取消成本：如果客户在2027-2028需求放缓，取消/延后订单是否需要补偿？\n 5)capex绑定：美光新扩产是否以客户承诺为前提，而不是在价格高点主动加杠杆扩产？\n如果管理层只能重复“我们有多年协议、有robust terms”，但不能让市场相信下行毛利率被保护，那么SCA对估值倍数的帮助会被打折。如果管理层能让投资人相信2027利润的一部分已经被合同化，那就会明显支持更高目标价。\n\n4、“HBM4/HBM4E路线图”\n美光已经正式宣布，HBM4 36GB 12H进入高量产，面向NVIDIA Vera Rubin，带宽超过2.8TB/s，能效较HBM3E提升20%以上；同时已经向客户送样HBM4 48GB 16H，单堆容量比36GB 12H高33%。 公司在上一季电话会还表示，HBM4E开发正在推进，预计2027年放量，并将使用1-gamma DRAM。\n\n但这里要补一个反直觉点：当下美光毛利率最强的可能不是HBM，而是非HBM DRAM/DDR5。 TrendForce提到，美光管理层上一季表示“non-HBM margins are currently higher than HBM”，这意味着当前81%+毛利率很大程度来自传统DRAM极端紧缺，而不是HBM本身独立拉高毛利率。\n\n所以电话会听HBM时，不要只听“出货”“认证”“路线图”，还要听：\nHBM4良率是否比HBM3E更快成熟；\nHBM4/HBM4E是否能维持或提升公司在HBM中的份额；\nHBM4E的custom base die/TSMC合作是否带来更强客户绑定；\nHBM mix上升后，整体毛利率是继续上升、持平，还是被先进封装成本稀释；\nNVIDIA Vera Rubin、Rubin Ultra以及其他XPU客户中，美光是核心供应商，还是第三供应商补位。\n竞争也不能忽视。三星已经开始向客户送样HBM4E，SK海力士也已向主要客户送样12层HBM4E，速度最高16Gbps/pin、能效提升超过20%。  这不一定利空美光，但意味着HBM4E不是单边故事，平台认证和份额稳定性非常重要\n\n5、“NAND/eSSD数据中心业务”\n这一块其实被可能被市场低估，这是美光区别于“纯HBM故事”的重要部分。上一季管理层说得很明确：AI推理、向量数据库、KV cache offload正在拉动数据中心NAND bit需求；数据中心SSD市占率连续第四个日历年提升；FY2Q26数据中心NAND收入环比超过翻倍，创下显著新高，并预计下一季继续增长。 同时美光已经量产PCIe Gen6数据中心SSD，Micron 9650面向AI训练和推理，支持最高28GB/s顺序读和550万随机读IOPS。\n\n这条线的意义有三层：\n第一，它让美光不只是HBM供应商，而是AI memory + storage组合供应商。\n第二，它提升NAND周期的质量，因为数据中心SSD比消费NAND更偏高价值池。\n第三，它能解释为什么NAND价格也会强，而不是简单“DRAM涨，NAND跟涨”。\n\n电话会需要去看：\n数据中心NAND收入是否再次大幅环比增长；122TB/245TB高容量SSD采用情况；\nPCIe Gen6 SSD客户验证和放量节奏；\nQLC在数据中心容量层的盈利能力；\n以及NAND供给是否也进入长期紧平衡。\n\n当前“AI内存”不是单一HBM叙事,如果电话会只讲HBM，故事不完整；如果能讲清楚AI服务器、传统服务器refresh、agentic AI带来的CPU内存、LPDRAM、eSSD共同增长，估值逻辑更扎实。\n\n额外需要关注的点\n1）Capex纪律要和SCA一起看\n上一季股价盘后受压，一个重要原因就是强业绩被大幅提高capex部分抵消。当时美光上调FY2026资本开支到250亿美元以上，并预计2027年继续增加，市场担心这意味着未来供给正常化、周期性重新出现。\n\n财报电话会要问：\n新增capex中多少是shell/cleanroom，多少是设备？\n这些产能什么时候形成有效bit supply？\n是HBM相关、DRAM相关、NAND相关，还是通用扩产？\n是否有客户SCA或预付款支撑？\n目标ROIC是多少？\n如果2027需求低于预期，capex能否延后？\n如果capex被描述为“基于客户承诺的长期投资”，这是利多估值；如果像传统周期高点扩产，就是估值折价来源。\n\n2）毛利率不是越高越简单，80%以后要看“可维持性”\nFYQ3公司指引毛利率约81%，已经远高于美光历史常态。上一季管理层也提醒，在这种毛利率水平下，价格继续上涨对毛利率的边际提升会变小。\n 所以市场不会只奖励“毛利率再高2个点”，而会问：\n2027毛利率能不能长期保持70%以上。MarketWatch也提到，投资者关注长期毛利率能否超过70%，这会被视为强积极信号。\n重点不是Q3毛利率82%还是83%，而是管理层是否愿意暗示：即使价格回落，SCA、mix、成本曲线和供需结构也能让毛利率维持在历史高位。\n\n3）需求强不等于没有“需求破坏”\n价格上涨太快会让PC、手机、消费电子客户削配置或延迟采购。上一季管理层已经承认，在价格敏感市场，高价格可能影响部分需求，但整体需求仍强；同时也说公司中期只能满足客户需求的 50%到三分之二。\n\n这次要看：\nPC/手机是否开始降内存配置？OEM是否推迟采购？汽车/工业客户是否接受涨价？客户是否出现提前拉货？如果出现明显需求破坏，市场会担心2027是峰值。\n\n目前MU已经站在1134美元附近，市值接近1.3万亿美元，市场已经在财报前把很大一部分乐观预期提前兑现了。很容易出现稍微指引不及市场最乐观预期，或者某些业务阐述不够细致市场没有拿到足够的预期信息和数据导致波动。但是从中长期来看，还是要深入到业务最底层的逻辑去看增长的驱动力是什么？业绩都来自哪里？未来的业绩增长的持续性和确定性如何？这是最关键的\n\n此内容由@BITstocks_CN 赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。",
+        "contentHtml": "美光财报前瞻，核心看哪些点？本周AI产业上最重要的事件可能就是美光的财报了，大家会很关心美光财报之后走势进而带动市场如何走，个人角度这次美光财报不是简单验证“强不强”，而是要看它能强多久。几个点值得聊聊：1、本季业绩不能只超公司指引，还要能达到市场最乐观预期上限；\n上一次财报电话会上美光给本季的指引是335亿美金，但市场目前普遍预期收入已经抬到了348-355亿左右，EPS在19.8-20.7美元。只是超公司指引已经远远不够，还要能超市场的预期才行。\n\n最强beat则是远超市场预期，毛利率83%，并且管理层能清晰拆解出营收的来源：\n1）多少来自ASP（平均销售价格）\n上一季美光说DRAM价格环比涨了60%，NAND价格涨了70%，这就是ASP上涨带来的贡献。ASP上涨通常是周期性最强的部分（供需紧张导致涨价），但也最容易反转；\n2）多少来自bit出货\n实际卖出去的存储容量（用“比特”这个单位来算），核心就是让市场清楚业绩增长多少是来自单价增长，多少是来自出货量增长；\n3）多少来自产品mix（产品组合 / 产品结构）\n高毛利产品和低毛利产品在总销售里的占比变化，即使总bit出货量没变，只要把更多产品卖给高价、高毛利的市场（比如HBM、DDR5高端、企业级SSD），整体收入和毛利率就会上升；\n4）多少来自成本下降\n即使价格和销量都不变，成本降了，毛利率也会自动提高。这是最“硬”的利润来源之一，因为它是公司自己努力的结果，不容易被竞争对手立刻复制。\n\n2、不仅要看本季业绩，还要看下一季度指引\n本季度是过去式，下一季度和2027年的可见度才真正决定卖方模型会不会继续上修。高盛目前给的FYQ4模型非常激进（收入约488亿、毛利率86.1%、EPS 29.95），而市场一致预期大概在404亿收入、23.68美元EPS左右。\n\n如果下一季度指引能到45-49亿收入、EPS 25-30区间，高端卖方模型就有继续支撑，目标价上修潮大概率延续。\n如果只到40-42亿、EPS 23-24附近，数字依然很强，但对当前股价可能只是“兑现”而非进一步催化。\n如果低于高端预期，同时管理层对2027年供需避而不谈，短线回调压力会明显增大。\n\n3、“SCA/LTA长协机制”：这是估值提升的核心\n过去两个月市场开始把存储股票从周期股往成长股看，核心就是长期协议。存储股过去最大问题不是赚不到钱，而是市场不相信高利润能持续。之前这里<a href=\"https://nitter.net/qinbafrank/status/2059116625153122791?s=20\">nitter.net/qinbafrank/status/2059…</a>还聊过闪迪一季度财报时披露的长期协议条款，之前美光也宣布达成多份SCA策略性客户协议，如果SCA能够把未来供给、客户承诺、价格机制、capex回报绑定起来，MU的估值倍数就可能从“周期峰值折价”切到“AI基础设施资产折价较小”。\n\n美光上一季已经确认几点：\n第一，SCA不同于传统LTA，传统LTA通常偏一年期；\n第二，SCA是多年协议；\n第三，包含客户的specific commitments；\n第四，目标是提高业务可见度和稳定性；\n第五，公司已签下首个五年期SCA。\n 但公司也明确说，由于保密原因，不披露价格、取消条款、下行保护等细节。\n\n所以这次电话会要听管理层有没有比上一季更进一步。最重要的不是“再说一遍robust terms”，而是有没有以下信息：\n1）覆盖范围：SCA覆盖HBM、DDR5、LP DRAM、NAND/eSSD，还是只覆盖某些AI数据中心产品？\n2）承诺强度：是take-or-pay、产能预留、预付款、最低采购量，还是偏软性的forecast？\n3）价格机制：有没有价格下限、公式定价、成本+回报、ROIC-linked pricing？\n 4）取消成本：如果客户在2027-2028需求放缓，取消/延后订单是否需要补偿？\n 5)capex绑定：美光新扩产是否以客户承诺为前提，而不是在价格高点主动加杠杆扩产？\n如果管理层只能重复“我们有多年协议、有robust terms”，但不能让市场相信下行毛利率被保护，那么SCA对估值倍数的帮助会被打折。如果管理层能让投资人相信2027利润的一部分已经被合同化，那就会明显支持更高目标价。\n\n4、“HBM4/HBM4E路线图”\n美光已经正式宣布，HBM4 36GB 12H进入高量产，面向NVIDIA Vera Rubin，带宽超过2.8TB/s，能效较HBM3E提升20%以上；同时已经向客户送样HBM4 48GB 16H，单堆容量比36GB 12H高33%。 公司在上一季电话会还表示，HBM4E开发正在推进，预计2027年放量，并将使用1-gamma DRAM。\n\n但这里要补一个反直觉点：当下美光毛利率最强的可能不是HBM，而是非HBM DRAM/DDR5。 TrendForce提到，美光管理层上一季表示“non-HBM margins are currently higher than HBM”，这意味着当前81%+毛利率很大程度来自传统DRAM极端紧缺，而不是HBM本身独立拉高毛利率。\n\n所以电话会听HBM时，不要只听“出货”“认证”“路线图”，还要听：\nHBM4良率是否比HBM3E更快成熟；\nHBM4/HBM4E是否能维持或提升公司在HBM中的份额；\nHBM4E的custom base die/TSMC合作是否带来更强客户绑定；\nHBM mix上升后，整体毛利率是继续上升、持平，还是被先进封装成本稀释；\nNVIDIA Vera Rubin、Rubin Ultra以及其他XPU客户中，美光是核心供应商，还是第三供应商补位。\n竞争也不能忽视。三星已经开始向客户送样HBM4E，SK海力士也已向主要客户送样12层HBM4E，速度最高16Gbps/pin、能效提升超过20%。  这不一定利空美光，但意味着HBM4E不是单边故事，平台认证和份额稳定性非常重要\n\n5、“NAND/eSSD数据中心业务”\n这一块其实被可能被市场低估，这是美光区别于“纯HBM故事”的重要部分。上一季管理层说得很明确：AI推理、向量数据库、KV cache offload正在拉动数据中心NAND bit需求；数据中心SSD市占率连续第四个日历年提升；FY2Q26数据中心NAND收入环比超过翻倍，创下显著新高，并预计下一季继续增长。 同时美光已经量产PCIe Gen6数据中心SSD，Micron 9650面向AI训练和推理，支持最高28GB/s顺序读和550万随机读IOPS。\n\n这条线的意义有三层：\n第一，它让美光不只是HBM供应商，而是AI memory + storage组合供应商。\n第二，它提升NAND周期的质量，因为数据中心SSD比消费NAND更偏高价值池。\n第三，它能解释为什么NAND价格也会强，而不是简单“DRAM涨，NAND跟涨”。\n\n电话会需要去看：\n数据中心NAND收入是否再次大幅环比增长；122TB/245TB高容量SSD采用情况；\nPCIe Gen6 SSD客户验证和放量节奏；\nQLC在数据中心容量层的盈利能力；\n以及NAND供给是否也进入长期紧平衡。\n\n当前“AI内存”不是单一HBM叙事,如果电话会只讲HBM，故事不完整；如果能讲清楚AI服务器、传统服务器refresh、agentic AI带来的CPU内存、LPDRAM、eSSD共同增长，估值逻辑更扎实。\n\n额外需要关注的点\n1）Capex纪律要和SCA一起看\n上一季股价盘后受压，一个重要原因就是强业绩被大幅提高capex部分抵消。当时美光上调FY2026资本开支到250亿美元以上，并预计2027年继续增加，市场担心这意味着未来供给正常化、周期性重新出现。\n\n财报电话会要问：\n新增capex中多少是shell/cleanroom，多少是设备？\n这些产能什么时候形成有效bit supply？\n是HBM相关、DRAM相关、NAND相关，还是通用扩产？\n是否有客户SCA或预付款支撑？\n目标ROIC是多少？\n如果2027需求低于预期，capex能否延后？\n如果capex被描述为“基于客户承诺的长期投资”，这是利多估值；如果像传统周期高点扩产，就是估值折价来源。\n\n2）毛利率不是越高越简单，80%以后要看“可维持性”\nFYQ3公司指引毛利率约81%，已经远高于美光历史常态。上一季管理层也提醒，在这种毛利率水平下，价格继续上涨对毛利率的边际提升会变小。\n 所以市场不会只奖励“毛利率再高2个点”，而会问：\n2027毛利率能不能长期保持70%以上。MarketWatch也提到，投资者关注长期毛利率能否超过70%，这会被视为强积极信号。\n重点不是Q3毛利率82%还是83%，而是管理层是否愿意暗示：即使价格回落，SCA、mix、成本曲线和供需结构也能让毛利率维持在历史高位。\n\n3）需求强不等于没有“需求破坏”\n价格上涨太快会让PC、手机、消费电子客户削配置或延迟采购。上一季管理层已经承认，在价格敏感市场，高价格可能影响部分需求，但整体需求仍强；同时也说公司中期只能满足客户需求的 50%到三分之二。\n\n这次要看：\nPC/手机是否开始降内存配置？OEM是否推迟采购？汽车/工业客户是否接受涨价？客户是否出现提前拉货？如果出现明显需求破坏，市场会担心2027是峰值。\n\n目前MU已经站在1134美元附近，市值接近1.3万亿美元，市场已经在财报前把很大一部分乐观预期提前兑现了。很容易出现稍微指引不及市场最乐观预期，或者某些业务阐述不够细致市场没有拿到足够的预期信息和数据导致波动。但是从中长期来看，还是要深入到业务最底层的逻辑去看增长的驱动力是什么？业绩都来自哪里？未来的业绩增长的持续性和确定性如何？这是最关键的\n\n此内容由<a href=\"/BITstocks_CN\" title=\"BIT美股频道\">@BITstocks_CN</a> 赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。",
+        "link": "https://x.com/qinbafrank/status/2068979504081469789",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLZ9vXYWoAEUfj5.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069816722547474933",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "If you bought BTC 2,275 days ago, you’re breakeven.\n\nDigital trash.",
+      "contentHtml": "If you bought BTC 2,275 days ago, you’re breakeven.\n\nDigital trash.",
+      "publishedAt": "2026-06-24T16:15:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2069816722547474933",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069813803383193692",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "💤💤💤",
+      "contentHtml": "💤💤💤",
+      "publishedAt": "2026-06-24T16:04:00.000Z",
+      "link": "https://x.com/follow_clues/status/2069813803383193692",
+      "quote": {
+        "username": "follow_clues",
+        "displayName": "Theclues",
+        "content": "做市商加持下，BTC表现出顽强的生命力，但是不妨碍今晚暴跌",
+        "contentHtml": "做市商加持下，BTC表现出顽强的生命力，但是不妨碍今晚暴跌",
+        "link": "https://x.com/follow_clues/status/2069777967128203773"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069813432606392486",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "I don't think I've seen shorts chase $BTC lower this aggressively in a long time.",
+      "contentHtml": "I don't think I've seen shorts chase <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> lower this aggressively in a long time.",
+      "publishedAt": "2026-06-24T16:02:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2069813432606392486",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLl0JZSXwAEohxd.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069812007792992509",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "I think its pretty obvious what they are trying to do here. \n\nThey are trying to make $MSTR collapse.",
+      "contentHtml": "I think its pretty obvious what they are trying to do here. \n\nThey are trying to make <a href=\"/search?f=tweets&q=%23MSTR\">$MSTR</a> collapse.",
+      "publishedAt": "2026-06-24T15:56:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2069812007792992509",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069811065777692718",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "genius可以停了，难道都是阴兵，这价格越跌刷的越多，还是因为要发币了，都赶在最后刷了。不过早期下来平均成本0.063左右 现在估计要0.11+了，歇逼。",
+      "contentHtml": "genius可以停了，难道都是阴兵，这价格越跌刷的越多，还是因为要发币了，都赶在最后刷了。不过早期下来平均成本0.063左右 现在估计要0.11+了，歇逼。",
+      "publishedAt": "2026-06-24T15:53:00.000Z",
+      "link": "https://x.com/0xleng1/status/2069811065777692718",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2069809819591344577",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "英文区的屌丝也不知道世界上有局域网串流这种东西🙂",
+      "contentHtml": "英文区的屌丝也不知道世界上有局域网串流这种东西🙂",
+      "publishedAt": "2026-06-24T15:48:00.000Z",
+      "link": "https://x.com/taresky/status/2069809819591344577",
+      "quote": {
+        "username": "OehoeU",
+        "displayName": "Oehoe de Uil",
+        "content": "The \"my PC outperforms the Steam Machine\" living room:",
+        "contentHtml": "The \"my PC outperforms the Steam Machine\" living room:",
+        "link": "https://x.com/OehoeU/status/2069459896597180658",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLgyXzRXoAAnP-U.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2069808908861145148",
       "username": "taresky",
@@ -10844,915 +11680,6 @@
           "url": "https://pbs.twimg.com/media/HLGV8oraIAAjeQX.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067598517942772020",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "好组合！",
-      "contentHtml": "好组合！",
-      "publishedAt": "2026-06-18T13:21:00.000Z",
-      "link": "https://x.com/taresky/status/2067598517942772020",
-      "quote": {
-        "username": "goando",
-        "displayName": "Go Ando / PREDUCTS",
-        "content": "私のデスクのStream Deck+は Claude Codeコントローラーになっていて、とても快適\n\nClaude Codeの作業中のセッションを監視していて、応答をStream Deck+で完結できる",
-        "contentHtml": "私のデスクのStream Deck+は Claude Codeコントローラーになっていて、とても快適\n\nClaude Codeの作業中のセッションを監視していて、応答をStream Deck+で完結できる",
-        "link": "https://x.com/goando/status/2067512023412584910"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067595641082327382",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "麻吉最近怎么样了？\n\n还在正常发挥：30 天亏损 263.5 万美元😬\n\n坚持做多路线绝不动摇，目前仍持有 2700 $ETH（约 472 万美元），开仓价 $1,762.9，清算价 $1,717.6，现浮亏 3.7 万美元\n\n传送门 👉 d.pro/portfolio/0x020ca66c30…",
-      "contentHtml": "麻吉最近怎么样了？\n\n还在正常发挥：30 天亏损 263.5 万美元😬\n\n坚持做多路线绝不动摇，目前仍持有 2700 $ETH（约 472 万美元），开仓价 $1,762.9，清算价 $1,717.6，现浮亏 3.7 万美元\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0x020ca66c30bec2c4fe3861a94e4db4a498a35872c\">d.pro/portfolio/0x020ca66c30…</a>",
-      "publishedAt": "2026-06-18T13:09:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2067595641082327382",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLGTO_JbMAA0d0Q.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067592209902534877",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "埃森哲 $ACN 财报低于预期，直接崩了 😂\n\n之前赌财报的大单看涨彻底归零",
-      "contentHtml": "埃森哲 <a href=\"/search?f=tweets&q=%23ACN\">$ACN</a> 财报低于预期，直接崩了 😂\n\n之前赌财报的大单看涨彻底归零",
-      "publishedAt": "2026-06-18T12:56:00.000Z",
-      "link": "https://x.com/octopusycc/status/2067592209902534877",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLGP5d0aoAAmOZt.jpg"
-        }
-      ],
-      "quote": {
-        "username": "octopusycc",
-        "displayName": "大老师Bugsbunny ｜DRAM UP only",
-        "content": "ACN 埃森哲咨询公司出现 7/17到期的超大看涨订单\n\n$ACN 权利金累计约250万美金左右 目前价格180美金 \n\n近期AI落地集中在4-5月\n\n一方面可能是财报利好预期的老鼠（疑似）\n另一方面 可能是AI在咨询行业的进一步进展\n\nOpenAI：联邦政府专属合作 + 企业端Agentic AI总包（2025/12大动作延续）\nMistral AI（主权模型）、Palantir、Dell、Schaeffler（人形机器人）等\n\n——————\n\n也可能拿了联邦政府的相关订单（猜测）",
-        "contentHtml": "ACN 埃森哲咨询公司出现 7/17到期的超大看涨订单\n\n<a href=\"/search?f=tweets&q=%23ACN\">$ACN</a> 权利金累计约250万美金左右 目前价格180美金 \n\n近期AI落地集中在4-5月\n\n一方面可能是财报利好预期的老鼠（疑似）\n另一方面 可能是AI在咨询行业的进一步进展\n\nOpenAI：联邦政府专属合作 + 企业端Agentic AI总包（2025/12大动作延续）\nMistral AI（主权模型）、Palantir、Dell、Schaeffler（人形机器人）等\n\n——————\n\n也可能拿了联邦政府的相关订单（猜测）",
-        "link": "https://x.com/octopusycc/status/2060377497213280511",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJfs3YkaEAAmv__.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJfuHfIakAA9KKX.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067570878225776905",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "",
-      "contentHtml": "",
-      "publishedAt": "2026-06-18T11:31:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2067570878225776905",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLF8wMWWoAAtVfo.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067570810320048560",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$BTC \n\n5% Rejection from level ✔️\n\nBut did you short Killa? Yes... I did.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\n5% Rejection from level ✔️\n\nBut did you short Killa? Yes... I did.",
-      "publishedAt": "2026-06-18T11:31:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2067570810320048560",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLF8biNXsAE4fPh.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "$BTC \n\n2.78% Rejection ✔️\n\n64K is going to be a critical level for Bitcoin. \n\nIf we're unable to hold, a revisit of the 60K lows becomes increasingly likely.",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\n2.78% Rejection ✔️\n\n64K is going to be a critical level for Bitcoin. \n\nIf we're unable to hold, a revisit of the 60K lows becomes increasingly likely.",
-        "link": "https://x.com/KillaXBT/status/2066895748906573935",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HK8We91W8AAZGot.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067567903785058562",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "飞流直下三千尺，疑是银河落九天\n\n$xau",
-      "contentHtml": "飞流直下三千尺，疑是银河落九天\n\n<a href=\"/search?f=tweets&q=%23xau\">$xau</a>",
-      "publishedAt": "2026-06-18T11:19:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2067567903785058562",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLF6CxSaEAAbf1D.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067561885021700106",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "时间会扒开雷军这种演员的底裤",
-      "contentHtml": "时间会扒开雷军这种演员的底裤",
-      "publishedAt": "2026-06-18T10:55:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2067561885021700106",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067560270013346105",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "GLM5.2这么猛了，GLM-5.2 (Max)在 CodeArena: Frontend中排名第 2，比 Claude Opus 4.7 (Thinking) 高出 +29 分，仅落后于 Fable 5！之前都说开源大模型比不上前沿大模型，看这样子开源大模型的能力也慢慢追赶上来了。\n\n看到智谱官方公告有这么一段话“GLM-5.2的线上推理依托多个国产算力平台，已在Day 0完成与华为昇腾、平头哥、摩尔线程、寒武纪、昆仑芯、沐曦、海光、壁仞等国产算力平台的推理适配，在国产芯片集群上实现高吞吐、低延迟、大并发的稳定运行。预计下半年昇腾 950 超节点上市后，也将成为GLM-5.2强劲的算力底座。”",
-      "contentHtml": "GLM5.2这么猛了，GLM-5.2 (Max)在 CodeArena: Frontend中排名第 2，比 Claude Opus 4.7 (Thinking) 高出 +29 分，仅落后于 Fable 5！之前都说开源大模型比不上前沿大模型，看这样子开源大模型的能力也慢慢追赶上来了。\n\n看到智谱官方公告有这么一段话“GLM-5.2的线上推理依托多个国产算力平台，已在Day 0完成与华为昇腾、平头哥、摩尔线程、寒武纪、昆仑芯、沐曦、海光、壁仞等国产算力平台的推理适配，在国产芯片集群上实现高吞吐、低延迟、大并发的稳定运行。预计下半年昇腾 950 超节点上市后，也将成为GLM-5.2强劲的算力底座。”",
-      "publishedAt": "2026-06-18T10:49:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2067560270013346105",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLFzGskaYAAnJtz.jpg"
-        }
-      ],
-      "quote": {
-        "username": "arena",
-        "displayName": "Arena.ai",
-        "content": "Exciting news: GLM-5.2 (Max) ranks #2 in Code Arena: Frontend, with +29pt over Claude Opus 4.7 (Thinking) and only behind Fable 5! GLM-5.2 is the best open model vs Kimi-K2.6 and Minimax-M3 by a large margin.\n\n- #2 React and #4 HTML sub-leaderboards\n- Ranks as the top model in nearly all sub categories: Brand & Marketing, Reference-Based Design, Data & Analytics, Consumer Product, Gaming, and Simulations.\n\nCongrats @Zai_org for the incredible milestone!",
-        "contentHtml": "Exciting news: GLM-5.2 (Max) ranks #2 in Code Arena: Frontend, with +29pt over Claude Opus 4.7 (Thinking) and only behind Fable 5! GLM-5.2 is the best open model vs Kimi-K2.6 and Minimax-M3 by a large margin.\n\n- #2 React and #4 HTML sub-leaderboards\n- Ranks as the top model in nearly all sub categories: Brand & Marketing, Reference-Based Design, Data & Analytics, Consumer Product, Gaming, and Simulations.\n\nCongrats <a href=\"/Zai_org\" title=\"Z.ai\">@Zai_org</a> for the incredible milestone!",
-        "link": "https://x.com/arena/status/2066957802741043641",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HK9O88SbwAAWoEy.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067557807721713723",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$BTC \n\nWe are currently testing the key POI that must hold.\n\nThis is the do or die level.\n\nLose this, and 62K becomes the minimum target. Lose 62K, and sub-60K is back on the table.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWe are currently testing the key POI that must hold.\n\nThis is the do or die level.\n\nLose this, and 62K becomes the minimum target. Lose 62K, and sub-60K is back on the table.",
-      "publishedAt": "2026-06-18T10:39:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2067557807721713723",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLFuQx7XgAAqJQq.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "Monday Pivot High. ✅\n\nTextbook NY session sweep, exactly as outlined. We rejected my POI perfectly.\n\nThat said, we're now at a critical level. If $BTC fails to hold 64K, be prepared for a move back below 60K.",
-        "contentHtml": "Monday Pivot High. ✅\n\nTextbook NY session sweep, exactly as outlined. We rejected my POI perfectly.\n\nThat said, we're now at a critical level. If <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> fails to hold 64K, be prepared for a move back below 60K.",
-        "link": "https://x.com/KillaXBT/status/2067205296070525025",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLAv8hQXcAAadpD.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067551343326474712",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "DXY这个前高100.643突破了\n关注一下趋势线的拓展延伸100.779\n如果突破这里对所有资产都会产生阶段性的打压",
-      "contentHtml": "DXY这个前高100.643突破了\n关注一下趋势线的拓展延伸100.779\n如果突破这里对所有资产都会产生阶段性的打压",
-      "publishedAt": "2026-06-18T10:13:00.000Z",
-      "link": "https://x.com/hazenlee/status/2067551343326474712",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLFq_DxbAAAdl_Y.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067550728130863207",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "加息预期一起来，市场最先变贵的其实不是风险资产，而是“闲置资金的机会成本”。\n\n以前稳定币放着不动，大家可能觉得没什么。\n但在利率环境变化、USDT 汇率波动、资金越来越挑效率的时候，现金仓位本身也要开始算账，无风险收益变得更加重要。\n\n这也是我最近关注 Bitget USDGO 的原因。\n\nUSDGO 的核心逻辑很简单：\n它不是让稳定币单纯躺着，而是让稳定币在保持灵活性的同时，继续产生收益。\n\n目前持有 USDGO 最高可享 6% APR，收益按日发放，不需要锁仓。\n同时 Bitget 支持 USDT ↔ USDGO 一键闪兑，并提供 1:1 滑点补贴，降低从传统稳定币切换到生息稳定币的损耗顾虑。\n\n这点在加息预期下很重要。\n\n因为当市场无风险收益上移，资金会天然追求更高效率。\n稳定币如果只是放在账户里，本质上就是牺牲了一部分潜在收益。\n而 USDGO 相当于把原本闲置的现金仓位，变成了一个可以生息、可交易、可理财、可打新、可参与 Pre-IPO 的底层资产。\n\n更进阶一点，还可以关注 USDGO 的利差循环思路：\n\n持有 USDGO 获取约 6% APR；\n同时用 USDGO 作为抵押借出 USDT；\n如果 USDT 借贷成本低于 USDGO 收益，中间就会形成利差空间；\n再通过有限循环，提高整体资金利用率。\n\n当然，这不是鼓励无脑加杠杆。\n循环策略的核心永远是控制 LTV、控制轮数、控制清算风险，而不是为了多赚一点利息把安全垫打穿。\n\nUSDGO 真正有价值的地方，不只是“6% APR”这个数字，而是它踩中了一个趋势：\n\n当利率重新成为市场定价核心，稳定币也不该只是静态余额，而应该成为能产生收益、还能保持流动性的资金工具。\n\n稳定币未来的竞争，可能不只是看谁更稳，也要看谁能让资金更有效率。",
-      "contentHtml": "加息预期一起来，市场最先变贵的其实不是风险资产，而是“闲置资金的机会成本”。\n\n以前稳定币放着不动，大家可能觉得没什么。\n但在利率环境变化、USDT 汇率波动、资金越来越挑效率的时候，现金仓位本身也要开始算账，无风险收益变得更加重要。\n\n这也是我最近关注 Bitget USDGO 的原因。\n\nUSDGO 的核心逻辑很简单：\n它不是让稳定币单纯躺着，而是让稳定币在保持灵活性的同时，继续产生收益。\n\n目前持有 USDGO 最高可享 6% APR，收益按日发放，不需要锁仓。\n同时 Bitget 支持 USDT ↔ USDGO 一键闪兑，并提供 1:1 滑点补贴，降低从传统稳定币切换到生息稳定币的损耗顾虑。\n\n这点在加息预期下很重要。\n\n因为当市场无风险收益上移，资金会天然追求更高效率。\n稳定币如果只是放在账户里，本质上就是牺牲了一部分潜在收益。\n而 USDGO 相当于把原本闲置的现金仓位，变成了一个可以生息、可交易、可理财、可打新、可参与 Pre-IPO 的底层资产。\n\n更进阶一点，还可以关注 USDGO 的利差循环思路：\n\n持有 USDGO 获取约 6% APR；\n同时用 USDGO 作为抵押借出 USDT；\n如果 USDT 借贷成本低于 USDGO 收益，中间就会形成利差空间；\n再通过有限循环，提高整体资金利用率。\n\n当然，这不是鼓励无脑加杠杆。\n循环策略的核心永远是控制 LTV、控制轮数、控制清算风险，而不是为了多赚一点利息把安全垫打穿。\n\nUSDGO 真正有价值的地方，不只是“6% APR”这个数字，而是它踩中了一个趋势：\n\n当利率重新成为市场定价核心，稳定币也不该只是静态余额，而应该成为能产生收益、还能保持流动性的资金工具。\n\n稳定币未来的竞争，可能不只是看谁更稳，也要看谁能让资金更有效率。",
-      "publishedAt": "2026-06-18T10:11:00.000Z",
-      "link": "https://x.com/hazenlee/status/2067550728130863207",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLFqbQzakAArHPb.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLFqbQuaYAAn-iE.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067547681745178808",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "再聊聊今天的利率决议和沃什首秀：\n1、只盯着点阵图就说鹰是有问题的，沃什说“注意到所有提交都是用铅笔写的，那种带大橡皮擦的铅笔”意思就是这种点阵图预测被修正的概率很大，FOMC票委们也会随着地缘、油价、通胀走势来校正自己的判断，与其看点阵图还不如盯油价，毕竟三月以来通胀反弹最主要的驱动因素就是油价；\n\n为什么9个票委预测年内还要加息，大概凌是他们拿着之前的走势和数据来做预判。毕竟美伊备忘录刚签，地缘刚刚开始缓和、他们也不确定后续走势。那就先按之前的因素来判断、后面再做调整\n\nCME上的利率观察变动很快，FOMC的点阵图变动也不慢。\n\n2、联储利率决议声明里没提就业使命。那很明显对于联储来说，当下的确是通胀优先。其实对联储来说通胀和就业就是个跷跷板，这段时间就业还行，通胀反弹，那么通胀的优先级就很高。未来如果就业就不行了，那么就业的优先级也会被提上来。\n\nFOMC对通胀和就业就是平衡的，谁差谁权重大。要注意五月非农强很大一部分隐私是“世界杯效应”。周二space还聊过这一点nitter.net/qinbafrank/status/2067…\n\n3、因为利率决议声明字数少、强调通胀优先、沃什没提交自己的点阵图预测、在记者会上释放的信息有限，基于这几点认为鹰是有道理。毕竟过去八年内、市场习惯了鲍威尔时期的前瞻预期管理（鲍威尔时期联储理事、地方联储主席对外发声的频次是耶伦时代的三倍），现在突然要减少沟通、那么对于市场来说自然是混乱的，市场需要寻找新的锚定框架。当你过去八年都习以为常的惯例被打破时，自然会无所适从和强烈的不适感。\n\n4、决定长期资产定价的是制度在未来几年内缓慢移动的方向，而这个制度的方向就在于沃什成立的五个特别工作组在年底提出的结论上。这五个特别工作组分别聚焦：美联储沟通、资产负债表、数据源使用、生产率与就业（AI的影响）、通胀框架。\n\n他给定一个很重要的任务就是研究货币政策的效果究竟是来自利率工具还是资产负债表工具。换句话说、货币的价格（利率）和货币的数量（扩/缩表、QE/QT）谁起的作用更大。\n\n你看五个工作组的聚焦方向，就能理解他其实有意再重构一整套美联储的分析、判断、决策以及对外沟通的框架体系：通胀框架（关于通胀目标的设定），沟通方式、用哪些数据来作为判断基准、AI对生产率的提升以及对就业的影响、甚至已经还有对风险和危机的识别与判定界定联储出手的的边界（fed put的触发条件）\n\n这一点我们很难现在就说会变成什么样？但至少现在看他的节奏还是有章法的：\n1）减少沟通也不是立马就不沟通；\n2）体制改革是先来半年的研究，等拿到研究结论再看推动方式和节奏。想想25年年初的D.O.G.E（政府效率部）以及ICE的移民执法，出发点都是好的，但是没有节奏和章法、一上来就大刀阔斧的粗暴执行，最后怨声载道，被反噬。\n\n“治大国若烹小鲜”烹小鲜最核心的不就是讲究火候，节奏比速度更重要。\n火候的稳、节奏的稳、方向的稳这三者最重要。",
-      "contentHtml": "再聊聊今天的利率决议和沃什首秀：\n1、只盯着点阵图就说鹰是有问题的，沃什说“注意到所有提交都是用铅笔写的，那种带大橡皮擦的铅笔”意思就是这种点阵图预测被修正的概率很大，FOMC票委们也会随着地缘、油价、通胀走势来校正自己的判断，与其看点阵图还不如盯油价，毕竟三月以来通胀反弹最主要的驱动因素就是油价；\n\n为什么9个票委预测年内还要加息，大概凌是他们拿着之前的走势和数据来做预判。毕竟美伊备忘录刚签，地缘刚刚开始缓和、他们也不确定后续走势。那就先按之前的因素来判断、后面再做调整\n\nCME上的利率观察变动很快，FOMC的点阵图变动也不慢。\n\n2、联储利率决议声明里没提就业使命。那很明显对于联储来说，当下的确是通胀优先。其实对联储来说通胀和就业就是个跷跷板，这段时间就业还行，通胀反弹，那么通胀的优先级就很高。未来如果就业就不行了，那么就业的优先级也会被提上来。\n\nFOMC对通胀和就业就是平衡的，谁差谁权重大。要注意五月非农强很大一部分隐私是“世界杯效应”。周二space还聊过这一点<a href=\"https://nitter.net/qinbafrank/status/2067519756882833815?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2067…</a>\n\n3、因为利率决议声明字数少、强调通胀优先、沃什没提交自己的点阵图预测、在记者会上释放的信息有限，基于这几点认为鹰是有道理。毕竟过去八年内、市场习惯了鲍威尔时期的前瞻预期管理（鲍威尔时期联储理事、地方联储主席对外发声的频次是耶伦时代的三倍），现在突然要减少沟通、那么对于市场来说自然是混乱的，市场需要寻找新的锚定框架。当你过去八年都习以为常的惯例被打破时，自然会无所适从和强烈的不适感。\n\n4、决定长期资产定价的是制度在未来几年内缓慢移动的方向，而这个制度的方向就在于沃什成立的五个特别工作组在年底提出的结论上。这五个特别工作组分别聚焦：美联储沟通、资产负债表、数据源使用、生产率与就业（AI的影响）、通胀框架。\n\n他给定一个很重要的任务就是研究货币政策的效果究竟是来自利率工具还是资产负债表工具。换句话说、货币的价格（利率）和货币的数量（扩/缩表、QE/QT）谁起的作用更大。\n\n你看五个工作组的聚焦方向，就能理解他其实有意再重构一整套美联储的分析、判断、决策以及对外沟通的框架体系：通胀框架（关于通胀目标的设定），沟通方式、用哪些数据来作为判断基准、AI对生产率的提升以及对就业的影响、甚至已经还有对风险和危机的识别与判定界定联储出手的的边界（fed put的触发条件）\n\n这一点我们很难现在就说会变成什么样？但至少现在看他的节奏还是有章法的：\n1）减少沟通也不是立马就不沟通；\n2）体制改革是先来半年的研究，等拿到研究结论再看推动方式和节奏。想想25年年初的D.O.G.E（政府效率部）以及ICE的移民执法，出发点都是好的，但是没有节奏和章法、一上来就大刀阔斧的粗暴执行，最后怨声载道，被反噬。\n\n“治大国若烹小鲜”烹小鲜最核心的不就是讲究火候，节奏比速度更重要。\n火候的稳、节奏的稳、方向的稳这三者最重要。",
-      "publishedAt": "2026-06-18T09:59:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2067547681745178808",
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "今天凌晨的美联储利率决议和沃什首秀真正值得关注两个点：1、点阵图中九人预计今年加息仅一人预计今年降息 沃什或未提供利率预测。我们需要注意的一点在于，如果新任美联储主席已经不提交自己的点阵图预测、那么FOMC其他票委的点阵图预测还能指导市场预期么？\n\n如果美伊停战备忘录没有签署、今天的点阵图对市场应该还是有相当的指引作用。美伊备忘录签署、油价下行、周一聊到nitter.net/qinbafrank/status/2066…这会到来利率预期的重新定价。能看出Fomc票委们的点阵图预测还是依靠备忘录签署之前的走势和数据，其实对美伊备忘录签署之后的走向并没有充分考虑、这其实反倒是一个预期差。也能理解备忘录刚刚签署，后续走势还不明朗，最稳妥的方式还是拿着之前的数据来做预测，未来还能随时在做修正。\n\n今天联储给出的通胀预测很点阵图其实是一个逻辑。\n\n就像沃什原话说的“我审查了点阵图，当我看到提交的内容时，我注意到所有提交都是用铅笔写的，那种带大橡皮擦的铅笔……对我来说，这对政策实施没有帮助。”也是周一聊到的、市场的利率预期，会随着宏观形势和数据的变动而快速调整、意义其实不大。从这一点上看、点阵图也是如此。\n\n2、政策节奏\n这次政策节奏反倒是沃什首秀最重要的一个信息。沃什宣布将立即成立五个特别工作组，分别聚焦：美联储沟通、资产负债表、数据源使用、生产率与就业（AI的影响）、通胀框架。他期望这些工作组能在今年年底前得出结论。\n\n这印证了从2月初就聊到的中期选举作为一个分水岭：中期选举前沃什不会激进地推动自己的政策主张，中期选举之后明年才可能有所行动。\n\n这也是之前一直聊到：政策的节奏比政策主张对市场影响更大。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "今天凌晨的美联储利率决议和沃什首秀真正值得关注两个点：1、点阵图中九人预计今年加息仅一人预计今年降息 沃什或未提供利率预测。我们需要注意的一点在于，如果新任美联储主席已经不提交自己的点阵图预测、那么FOMC其他票委的点阵图预测还能指导市场预期么？\n\n如果美伊停战备忘录没有签署、今天的点阵图对市场应该还是有相当的指引作用。美伊备忘录签署、油价下行、周一聊到<a href=\"https://nitter.net/qinbafrank/status/2066324061828088265?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2066…</a>这会到来利率预期的重新定价。能看出Fomc票委们的点阵图预测还是依靠备忘录签署之前的走势和数据，其实对美伊备忘录签署之后的走向并没有充分考虑、这其实反倒是一个预期差。也能理解备忘录刚刚签署，后续走势还不明朗，最稳妥的方式还是拿着之前的数据来做预测，未来还能随时在做修正。\n\n今天联储给出的通胀预测很点阵图其实是一个逻辑。\n\n就像沃什原话说的“我审查了点阵图，当我看到提交的内容时，我注意到所有提交都是用铅笔写的，那种带大橡皮擦的铅笔……对我来说，这对政策实施没有帮助。”也是周一聊到的、市场的利率预期，会随着宏观形势和数据的变动而快速调整、意义其实不大。从这一点上看、点阵图也是如此。\n\n2、政策节奏\n这次政策节奏反倒是沃什首秀最重要的一个信息。沃什宣布将立即成立五个特别工作组，分别聚焦：美联储沟通、资产负债表、数据源使用、生产率与就业（AI的影响）、通胀框架。他期望这些工作组能在今年年底前得出结论。\n\n这印证了从2月初就聊到的中期选举作为一个分水岭：中期选举前沃什不会激进地推动自己的政策主张，中期选举之后明年才可能有所行动。\n\n这也是之前一直聊到：政策的节奏比政策主张对市场影响更大。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2067414191846416800",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLDuPlcbIAAj2Jm.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067536474959180185",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "Pumpfun 六月推出的「赏金计划」太会搞效果了🤣\n堪称「花式营销聚集地」，简单感受下赏金前五的任务内容吧…\n\n1️⃣ Enheng 花费 6.3 万美元悬赏「加入 SpaceX 或 Starship 相关载人航天飞行任务的合法路径」\n2️⃣ Howl 花费 5.6 万美元悬赏「在珠峰顶部打开其平台并下注」\n3️⃣ boondocjs 花费 2.6 万美元悬赏「10 名不同国家球迷高喊”$WORLDCUP2026 COIN TO THE MOON”的视频」\n4️⃣ epicsealmultico 花费 2.5 万美元悬赏「对 Henry Nowak 死亡事件家属或警员的采访」\n5️⃣ thememecoincult 花费 1.8 万美元悬赏「穿着 Memecoin 吉祥物服装并突破 3 小时 14 分 46 秒的马拉松记录」\n\nU1S1，@EnHeng456 真蛮会做营销的\n▶︎ 99% 概率没成功，起码赚了吆喝，还不用支付赏金\n▶︎ 1% 概率真成功了，小钱办大事，更是赚麻",
-      "contentHtml": "Pumpfun 六月推出的「赏金计划」太会搞效果了🤣\n堪称「花式营销聚集地」，简单感受下赏金前五的任务内容吧…\n\n1️⃣ Enheng 花费 6.3 万美元悬赏「加入 SpaceX 或 Starship 相关载人航天飞行任务的合法路径」\n2️⃣ Howl 花费 5.6 万美元悬赏「在珠峰顶部打开其平台并下注」\n3️⃣ boondocjs 花费 2.6 万美元悬赏「10 名不同国家球迷高喊”$WORLDCUP2026 COIN TO THE MOON”的视频」\n4️⃣ epicsealmultico 花费 2.5 万美元悬赏「对 Henry Nowak 死亡事件家属或警员的采访」\n5️⃣ thememecoincult 花费 1.8 万美元悬赏「穿着 Memecoin 吉祥物服装并突破 3 小时 14 分 46 秒的马拉松记录」\n\nU1S1，<a href=\"/EnHeng456\" title=\"EnHeng嗯哼.Ai\">@EnHeng456</a> 真蛮会做营销的\n▶︎ 99% 概率没成功，起码赚了吆喝，还不用支付赏金\n▶︎ 1% 概率真成功了，小钱办大事，更是赚麻",
-      "publishedAt": "2026-06-18T09:14:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2067536474959180185",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLFdN6HbMAAtB_F.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067536348484153499",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "Pumpfun 六月推出的「赏金计划」太会搞效果了🤣\n堪称「花式营销聚集地」，简单感受下赏金前五的任务内容吧…\n\n1️⃣ Enheng 花费 6.3 万美元悬赏「加入 SpaceX 或 Starship 相关载人航天飞行任务的合法路径」\n2️⃣ Howl 花费 5.6 万美元悬赏「在珠峰顶部打开其平台并下注」\n3️⃣ boondocjs 花费 2.6 万美元悬赏「10 名不同国家球迷高喊”$WORLDCUP2026 COIN TO THE MOON”的视频」\n4️⃣ epicsealmultico 花费 2.5 万美元悬赏「对 Henry Nowak 死亡事件家属或警员的采访」\n5️⃣ thememecoincult 花费 1.8 万美元悬赏「穿着 Memecoin 吉祥物服装并突破 3 小时 14 分 46 秒的马拉松记录」\n\nU1S1，@EnHeng456 真蛮会做营销的\n▶︎ 99% 概率没成功，起码赚了吆喝，还不用支付赏金\n▶︎ 1% 概率真成功了，小钱办大事，更是赚麻",
-      "contentHtml": "Pumpfun 六月推出的「赏金计划」太会搞效果了🤣\n堪称「花式营销聚集地」，简单感受下赏金前五的任务内容吧…\n\n1️⃣ Enheng 花费 6.3 万美元悬赏「加入 SpaceX 或 Starship 相关载人航天飞行任务的合法路径」\n2️⃣ Howl 花费 5.6 万美元悬赏「在珠峰顶部打开其平台并下注」\n3️⃣ boondocjs 花费 2.6 万美元悬赏「10 名不同国家球迷高喊”$WORLDCUP2026 COIN TO THE MOON”的视频」\n4️⃣ epicsealmultico 花费 2.5 万美元悬赏「对 Henry Nowak 死亡事件家属或警员的采访」\n5️⃣ thememecoincult 花费 1.8 万美元悬赏「穿着 Memecoin 吉祥物服装并突破 3 小时 14 分 46 秒的马拉松记录」\n\nU1S1，<a href=\"/EnHeng456\" title=\"EnHeng嗯哼.Ai\">@EnHeng456</a> 真蛮会做营销的\n▶︎ 99% 概率没成功，起码赚了吆喝，还不用支付赏金\n▶︎ 1% 概率真成功了，小钱办大事，更是赚麻",
-      "publishedAt": "2026-06-18T09:14:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2067536348484153499",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLFdN6HbMAAtB_F.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067535604691480959",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "多谢Musolsol，跟嘉信的首席投资策略师LizAnn放在一起有点诚惶诚恐。不过有一点说的到位，个人确实在画地图：把地缘缓和、油价变动、新主席的节奏串在一起来看，关心的是这些变量叠在一起之后，整个定价逻辑会不会被重置。@LizAnnSonders的解读也是非常务实，特别她指出一个细节：声明里依然没提就业使命。那很明显对于联储来说，当下的确是通胀优先。\n\n再往后在FOMC以Hold为主，鹰派基调的大背景下，核心就是盯着通胀的走势。",
-      "contentHtml": "多谢Musolsol，跟嘉信的首席投资策略师LizAnn放在一起有点诚惶诚恐。不过有一点说的到位，个人确实在画地图：把地缘缓和、油价变动、新主席的节奏串在一起来看，关心的是这些变量叠在一起之后，整个定价逻辑会不会被重置。<a href=\"/LizAnnSonders\" title=\"Liz Ann Sonders\">@LizAnnSonders</a>的解读也是非常务实，特别她指出一个细节：声明里依然没提就业使命。那很明显对于联储来说，当下的确是通胀优先。\n\n再往后在FOMC以Hold为主，鹰派基调的大背景下，核心就是盯着通胀的走势。",
-      "publishedAt": "2026-06-18T09:11:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2067535604691480959",
-      "quote": {
-        "username": "MMMusol",
-        "displayName": "Musolsol.𝟎𝐱𝐔",
-        "content": "世界的共识 Pt.3\n\n一个人习惯从地缘冲突，经济数据推导宏观逻辑的切换，\n一个人专门追踪美联储主席的措辞和政策声明做判断。\n\n这两套观察方法本来不在一个频道上。\n\n但过去一个月，武哥 @qinbafrank 和 Liz Ann @LizAnnSonders 同时把注意力集中到了同一个问题上——通胀和外部因素怎么影响利率路径。\n\n翻完他们近期推文之后发现，虽然路径有一些差异，但落点几乎是一样的。\n\n先说说两个人各自怎么看问题\n\n武哥看 FOMC，永远是放在更大的框里看的。\n油价怎么动、地缘格局怎么变、新主席的节奏是什么\n——他关心的是这些变量叠在一起之后，整个定价逻辑会不会被重置。\n\nLiz Ann 不一样。\n她直接读声明、读主席表态，然后给出判断：\n通胀优先还是双重使命平衡？\n鹰还是鸽？\n风格干脆，不绕弯。\n\n打个比方：一个在画地图，一个在读温度计。\n拼到一起看，反而把美联储当前的位置和外部环境说得更完整了。\n\n第一个共识：这次 FOMC 大概率 Hold，但鹰派基调没变，核心还是通胀\n\n武哥的判断很直接——“按兵不动”。\n他的逻辑链条是这样的：美伊备忘录签了，霍尔木兹海峡要打开，油价往下走，通胀面对的外部压力跟三个月前完全不同了。\n再加上新主席 Warsh 在中期选举前不太可能搞大动作，所以整体节奏就是维持现状，不会像市场担心的那样突然放鹰或者砍掉沟通。\n\nLiz Ann 那边呢？\n她直接摘了 Warsh 的原话——“inflation is a choice”，FOMC 要“deliver price stability”。\n然后她指出一个细节：声明里依然没提就业使命。\n这就很说明问题了。\n\n鹰派基调，板上钉钉。\n\n一个从地缘节奏推出 Hold，一个从主席嘴里确认通胀优先。\n\n殊途同归。\n\n第二个共识：地缘缓和可能把整个宏观逻辑重新洗一遍\n\n这个点武哥讲得比较多。\n美伊停战备忘录落地之后，油价下行会拉着通胀预期一起走低，之前市场定价的年内加息预期，可能得重新算了。\n\n他还提了几个数据：\n零售销售和 PMI 没有市场想的那么差，商业地产也没崩。\n股票和美债收益率的负相关关系已经到了十几年来的极值位置，反转的窗口可能正在打开。\n\nLiz Ann 虽然没展开讲地缘，但她反复强调通胀优先这件事本身，跟油价下行带来的外部环境变化是对得上的。\n\n一个拆外因，一个锁内核，指向同一个方向：\n外部变量正在改变通胀路径，美联储后面的政策空间可能比现在市场预期的要大。\n\n前面提到的风格差异还是有滴\n\n武哥喜欢串线：地缘、原油、数据，最后会问一个问题：“这个变化会不会把整条逻辑链重置？”\n\n时间框架偏向中期，看的是趋势的切换。\n\nLiz Ann 更像实时解读。\n声明出来了，她马上告诉你哪句话是关键、基调偏哪边、双重使命的天平往哪倾。\n\n专业、简洁。\n\n一个告诉你外面的世界在怎么变，\n一个告诉你美联储此刻最在意什么。\n\n所以这期又又想说什么呢？\n\n两个观察角度不同的人，\n最近的思考却是几近相同的：\n\nFOMC 以 Hold 为主，鹰派基调不变，核心盯着通胀。\n同时地缘缓和带来的油价下行，正在重塑宏观逻辑和利率路径的定价基础。\n\n后面要盯的就是：\n通胀数据的实际走向，以及 Warsh 风格下沟通频率降低带来的市场猜测成本。\n\n两个人其实都在说同一个事情：\nFOMC 的 Hold 不是句号，是逗号。\n通胀警惕没完全撤下，外部变量正在重写着世界的剧本",
-        "contentHtml": "世界的共识 Pt.3\n\n一个人习惯从地缘冲突，经济数据推导宏观逻辑的切换，\n一个人专门追踪美联储主席的措辞和政策声明做判断。\n\n这两套观察方法本来不在一个频道上。\n\n但过去一个月，武哥 <a href=\"/qinbafrank\" title=\"qinbafrank\">@qinbafrank</a> 和 Liz Ann <a href=\"/LizAnnSonders\" title=\"Liz Ann Sonders\">@LizAnnSonders</a> 同时把注意力集中到了同一个问题上——通胀和外部因素怎么影响利率路径。\n\n翻完他们近期推文之后发现，虽然路径有一些差异，但落点几乎是一样的。\n\n先说说两个人各自怎么看问题\n\n武哥看 FOMC，永远是放在更大的框里看的。\n油价怎么动、地缘格局怎么变、新主席的节奏是什么\n——他关心的是这些变量叠在一起之后，整个定价逻辑会不会被重置。\n\nLiz Ann 不一样。\n她直接读声明、读主席表态，然后给出判断：\n通胀优先还是双重使命平衡？\n鹰还是鸽？\n风格干脆，不绕弯。\n\n打个比方：一个在画地图，一个在读温度计。\n拼到一起看，反而把美联储当前的位置和外部环境说得更完整了。\n\n第一个共识：这次 FOMC 大概率 Hold，但鹰派基调没变，核心还是通胀\n\n武哥的判断很直接——“按兵不动”。\n他的逻辑链条是这样的：美伊备忘录签了，霍尔木兹海峡要打开，油价往下走，通胀面对的外部压力跟三个月前完全不同了。\n再加上新主席 Warsh 在中期选举前不太可能搞大动作，所以整体节奏就是维持现状，不会像市场担心的那样突然放鹰或者砍掉沟通。\n\nLiz Ann 那边呢？\n她直接摘了 Warsh 的原话——“inflation is a choice”，FOMC 要“deliver price stability”。\n然后她指出一个细节：声明里依然没提就业使命。\n这就很说明问题了。\n\n鹰派基调，板上钉钉。\n\n一个从地缘节奏推出 Hold，一个从主席嘴里确认通胀优先。\n\n殊途同归。\n\n第二个共识：地缘缓和可能把整个宏观逻辑重新洗一遍\n\n这个点武哥讲得比较多。\n美伊停战备忘录落地之后，油价下行会拉着通胀预期一起走低，之前市场定价的年内加息预期，可能得重新算了。\n\n他还提了几个数据：\n零售销售和 PMI 没有市场想的那么差，商业地产也没崩。\n股票和美债收益率的负相关关系已经到了十几年来的极值位置，反转的窗口可能正在打开。\n\nLiz Ann 虽然没展开讲地缘，但她反复强调通胀优先这件事本身，跟油价下行带来的外部环境变化是对得上的。\n\n一个拆外因，一个锁内核，指向同一个方向：\n外部变量正在改变通胀路径，美联储后面的政策空间可能比现在市场预期的要大。\n\n前面提到的风格差异还是有滴\n\n武哥喜欢串线：地缘、原油、数据，最后会问一个问题：“这个变化会不会把整条逻辑链重置？”\n\n时间框架偏向中期，看的是趋势的切换。\n\nLiz Ann 更像实时解读。\n声明出来了，她马上告诉你哪句话是关键、基调偏哪边、双重使命的天平往哪倾。\n\n专业、简洁。\n\n一个告诉你外面的世界在怎么变，\n一个告诉你美联储此刻最在意什么。\n\n所以这期又又想说什么呢？\n\n两个观察角度不同的人，\n最近的思考却是几近相同的：\n\nFOMC 以 Hold 为主，鹰派基调不变，核心盯着通胀。\n同时地缘缓和带来的油价下行，正在重塑宏观逻辑和利率路径的定价基础。\n\n后面要盯的就是：\n通胀数据的实际走向，以及 Warsh 风格下沟通频率降低带来的市场猜测成本。\n\n两个人其实都在说同一个事情：\nFOMC 的 Hold 不是句号，是逗号。\n通胀警惕没完全撤下，外部变量正在重写着世界的剧本",
-        "link": "https://x.com/MMMusol/status/2067527915240304670",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLFVnt3aUAAqU3a.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067529669298315599",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "这次去香港也是听大家抱怨了这个事情，交易近期的一个热门币，莫名其妙的就被风控并回滚了。\n\n没想到不仅封禁账户，还要回滚47000U\n\n这以后还咋玩山寨币合约\n\n本来就不对等，好不容易辛辛苦苦在山寨币里抠点钱出来还被回滚了。\n\n@Cryptowushi 没想到回滚的人是你啊",
-      "contentHtml": "这次去香港也是听大家抱怨了这个事情，交易近期的一个热门币，莫名其妙的就被风控并回滚了。\n\n没想到不仅封禁账户，还要回滚47000U\n\n这以后还咋玩山寨币合约\n\n本来就不对等，好不容易辛辛苦苦在山寨币里抠点钱出来还被回滚了。\n\n<a href=\"/Cryptowushi\" title=\"0xCrypto巫师💢\">@Cryptowushi</a> 没想到回滚的人是你啊",
-      "publishedAt": "2026-06-18T08:47:00.000Z",
-      "link": "https://x.com/octopusycc/status/2067529669298315599",
-      "quote": {
-        "username": "Cryptowushi",
-        "displayName": "0xCrypto巫师💢",
-        "content": "我在Bitget交易$ESPORTS后，账户被风控\n\n我的钱全部提不出来了\n\n客服邮件称，我的交易存在“可疑异常交易或市场操纵行为\"，并通知将扣除47,406.15USDT，后续账户还可能被永久封禁\n\n为啥我交易代币也会被封控？\n\n我理解交易所需要风控\n\n但风控不能只给结论，不给证据\n\n我问客服半天，也不给我回答\n\n不过这操作让我想起了当时 $VOXEL，当时也是封控了一大批账号，符合BG交易所的行事作风\n\n@xiejiayinBitget  @GracyBitget",
-        "contentHtml": "我在Bitget交易$ESPORTS后，账户被风控\n\n我的钱全部提不出来了\n\n客服邮件称，我的交易存在“可疑异常交易或市场操纵行为\"，并通知将扣除47,406.15USDT，后续账户还可能被永久封禁\n\n为啥我交易代币也会被封控？\n\n我理解交易所需要风控\n\n但风控不能只给结论，不给证据\n\n我问客服半天，也不给我回答\n\n不过这操作让我想起了当时 $VOXEL，当时也是封控了一大批账号，符合BG交易所的行事作风\n\n<a href=\"/xiejiayinBitget\" title=\"谢家印\">@xiejiayinBitget</a>  <a href=\"/GracyBitget\" title=\"Gracy Chen @Bitget\">@GracyBitget</a>",
-        "link": "https://x.com/Cryptowushi/status/2066836297302638679",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HK7eDuWbgAA4H_0.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067529328892809331",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
-      "content": "记录下关于A股目前不成熟的猜想：\nA股老登股，像是茅台这种，\n已经沦为末日战车、情绪高潮信号，\n过去几年里，往往茅台出现\n脉冲大涨摸到前期筹码密集压力位，\n就意味着上证大盘后续要歇一下了\n（如图所示）。\n\n结合时间周期角度，\n2024年“爱在深秋”至今600天左右，\n2005～2006那轮A股牛是700多天，\n所以接下来1~2个季度，如果啥时候\n老登股再出现2周级别以上大反弹\n（到时候可能会有“老登股好起来了？”\n“老登股要接力带动继续了”的声音，\n但其实应该放弃这次不一样的幻想）\n我计划会逐步大幅度避险A股，\n将过去两年积累的多数A股仓位退出。\n\n再加上其他一些时间角度考虑，\n以及“构筑双顶形态加时赛”的可能性，\n我会先入为主认为A股 2026 Q4\n（+双顶加时赛至不超过2027 Q1）\n是需要大级别避险的时间窗。",
-      "contentHtml": "记录下关于A股目前不成熟的猜想：\nA股老登股，像是茅台这种，\n已经沦为末日战车、情绪高潮信号，\n过去几年里，往往茅台出现\n脉冲大涨摸到前期筹码密集压力位，\n就意味着上证大盘后续要歇一下了\n（如图所示）。\n\n结合时间周期角度，\n2024年“爱在深秋”至今600天左右，\n2005～2006那轮A股牛是700多天，\n所以接下来1~2个季度，如果啥时候\n老登股再出现2周级别以上大反弹\n（到时候可能会有“老登股好起来了？”\n“老登股要接力带动继续了”的声音，\n但其实应该放弃这次不一样的幻想）\n我计划会逐步大幅度避险A股，\n将过去两年积累的多数A股仓位退出。\n\n再加上其他一些时间角度考虑，\n以及“构筑双顶形态加时赛”的可能性，\n我会先入为主认为A股 2026 Q4\n（+双顶加时赛至不超过2027 Q1）\n是需要大级别避险的时间窗。",
-      "publishedAt": "2026-06-18T08:46:00.000Z",
-      "link": "https://x.com/coolish/status/2067529328892809331",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLFVsVjbMAEAtaG.png"
-        }
-      ],
-      "quote": {
-        "username": "coolish",
-        "displayName": "paulwei",
-        "content": "众里选股千百度，蓦然回首，\n指数ETF却在，灯火阑珊处。\n\n最近有身边朋友来问我\nA股怎么买，我统一回答是，\n打开支付宝买沪深ETF最好，\n这对一个浅经验普通玩家来说，\n远比自己去券商开户→银证转账→选股买卖要好，\n操作体验最简单快捷，各方面坑最少，\n情绪更稳定，睡眠质量更高，\n笑到最后的胜率更大。\n\n（很多去券商排队开户的人，甚至不知道“原来近在咫尺的支付宝也能玩A股？”，更不知道这其实是更适合他的方式）\n\n前期个股是有全体上涨，\n但中后期个股之间的戏剧性轮动，\n让人嫉妒这个，眼红那个，\n“大盘明明涨的/没跌，我这个怎么不涨/跌了？”\n“那个傻X怎么晒单赚那么多，我怎么能比他差？”\n这会把普通玩家心态搞死...\n把前期赚的，通过中后期频繁大聪明动作亏回去...\n\n“为将者未虑胜，先虑败，故可百战不殆矣”\n先考虑如何在最坏的情况下，对结果依然能接受，\n在此基础上，再考虑如何超额收益，伺机取得赫赫之功。\n当仓位的大头是指数ETF时，即使一开始进入的时机是彻底错误的，也能让代价最小化。\n\n且在数学上有个很简单的热知识，\n前面即使赚+100%\n（尤其在这种情况下会信心大增）\n后面的操作让自己-50%，\n就回到原点，白忙一场，\n即使+200%（10万变30万）那么一旦再骚操作-50%就变成只赚50%（30万又变15万），结果也大概率跑输省心省力的指数etf。\n这还算是定力不同凡响的人，更多的情况是，信心大增后追加本金，10万+200%变30万，追加10万本金，只要-50%，那前面这个+200%就没了。\n再加上，普通玩家面对一只个股vs面对指数，在信任度、了解度、知行合一稳定度等等，都是天壤之别。\n\n就像是，\n很多在币圈牛市来了又失望离开的人，\n大多是没有把BTC当做仓位的重心。\n\n等到最后出金落袋的时候，\n“自己搞来搞去，还不如当初买指数”\n会是大部分普通玩家心里声音的写照，",
-        "contentHtml": "众里选股千百度，蓦然回首，\n指数ETF却在，灯火阑珊处。\n\n最近有身边朋友来问我\nA股怎么买，我统一回答是，\n打开支付宝买沪深ETF最好，\n这对一个浅经验普通玩家来说，\n远比自己去券商开户→银证转账→选股买卖要好，\n操作体验最简单快捷，各方面坑最少，\n情绪更稳定，睡眠质量更高，\n笑到最后的胜率更大。\n\n（很多去券商排队开户的人，甚至不知道“原来近在咫尺的支付宝也能玩A股？”，更不知道这其实是更适合他的方式）\n\n前期个股是有全体上涨，\n但中后期个股之间的戏剧性轮动，\n让人嫉妒这个，眼红那个，\n“大盘明明涨的/没跌，我这个怎么不涨/跌了？”\n“那个傻X怎么晒单赚那么多，我怎么能比他差？”\n这会把普通玩家心态搞死...\n把前期赚的，通过中后期频繁大聪明动作亏回去...\n\n“为将者未虑胜，先虑败，故可百战不殆矣”\n先考虑如何在最坏的情况下，对结果依然能接受，\n在此基础上，再考虑如何超额收益，伺机取得赫赫之功。\n当仓位的大头是指数ETF时，即使一开始进入的时机是彻底错误的，也能让代价最小化。\n\n且在数学上有个很简单的热知识，\n前面即使赚+100%\n（尤其在这种情况下会信心大增）\n后面的操作让自己-50%，\n就回到原点，白忙一场，\n即使+200%（10万变30万）那么一旦再骚操作-50%就变成只赚50%（30万又变15万），结果也大概率跑输省心省力的指数etf。\n这还算是定力不同凡响的人，更多的情况是，信心大增后追加本金，10万+200%变30万，追加10万本金，只要-50%，那前面这个+200%就没了。\n再加上，普通玩家面对一只个股vs面对指数，在信任度、了解度、知行合一稳定度等等，都是天壤之别。\n\n就像是，\n很多在币圈牛市来了又失望离开的人，\n大多是没有把BTC当做仓位的重心。\n\n等到最后出金落袋的时候，\n“自己搞来搞去，还不如当初买指数”\n会是大部分普通玩家心里声音的写照，",
-        "link": "https://x.com/coolish/status/1842786535751696526"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067523145452474595",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "Good morning 🌅",
-      "contentHtml": "Good morning 🌅",
-      "publishedAt": "2026-06-18T08:21:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2067523145452474595",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067521744026681384",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "很明显，cz当顾问不如徐明星当顾问好",
-      "contentHtml": "很明显，cz当顾问不如徐明星当顾问好",
-      "publishedAt": "2026-06-18T08:16:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2067521744026681384",
-      "quote": {
-        "username": "star_okx",
-        "displayName": "Star_OKX",
-        "content": "那我再帮你们一次吧？🤣",
-        "contentHtml": "那我再帮你们一次吧？🤣",
-        "link": "https://x.com/star_okx/status/2067485678531993763"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067519756882833815",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "周二16号晚上刚跟168X聊沃什没大家想的那么鹰就被打脸了？不过当时聊到的逻辑还是值得看看的，那天聊的话题很多，这里梳理几个要点：\n1、美伊停战备忘录签署，三个宏观逻辑可能被重置，周一这里有聊过nitter.net/qinbafrank/status/2066…\n2、对于沃什政策节奏比政策主张对市场影响更大，以中期选举作为分水岭。之前大概率延续现有节奏、年内不加息是基准，继续RMP和SLR解绑。他所主张的缩表和机制改革得到中期选举之后明年再落地推进（今天记者会他宣布成立五个工作组，年底给结论大概也是这个节奏）；\n\n3、川普签署停战备忘录是当下最优解，看似丢了面子和里子，但也是及时止损，从泥潭中抽身回归国内事务。劳动力市场的“世界杯效应”，五月非农超预期，线下消费服务业提前为世界杯期间的消费潮储备工作人员，要看世界杯之后否认非农就业会不会回落。\n\n4、如之前一直聊的、当下的市场整个逻辑基点在于大模型厂商的ARR和大科技云业务的增速，他们超预期增长意味着AI商业化或者货币化拐点之后再加速、那么大科技的资本开支、算力产业链传导逻辑都是合理的。这是市场的逻辑的基点或者支柱，之前2月份在资本开支的战争那篇长文也有聊过。所以后面紧盯这个逻辑基点是不是neng持续保持、不会出问题。\n\n5、市场真正的风险在于拥挤交易、杠杆加的有点满。美股证券账户杠杆规模1.3万亿美金，历史新高、这其实埋下了风险和隐患，下半年还会出现类似6月初的那种去杠杆行情。市场处在一个高杠杆、交易拥挤的状态，宏观和产业稍微有风吹草动、就容易出现踩踏、去杠杆一般跌的很急很快。\n\n6、AI算力产业链投资进入第二阶段，从产业链条上的无脑买入进入到紧盯业绩兑现节奏的分化。昨天这里nitter.net/qinbafrank/status/2067…有详细聊到。\n存储为什么是最确定的那条？训练到推理，到agent对数据的需求时越来越大、存储的确定性很高。同时存储产业集中度高、巨大的市场容量就被几家瓜分。其他产业链其实都很碎，产业链环节多公司多、当然不是说不好也自有其未来空间，\n\n详细的可以去看当时对话的文字记录。欢迎交流和指教🫶",
-      "contentHtml": "周二16号晚上刚跟168X聊沃什没大家想的那么鹰就被打脸了？不过当时聊到的逻辑还是值得看看的，那天聊的话题很多，这里梳理几个要点：\n1、美伊停战备忘录签署，三个宏观逻辑可能被重置，周一这里有聊过<a href=\"https://nitter.net/qinbafrank/status/2066324061828088265?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2066…</a>\n2、对于沃什政策节奏比政策主张对市场影响更大，以中期选举作为分水岭。之前大概率延续现有节奏、年内不加息是基准，继续RMP和SLR解绑。他所主张的缩表和机制改革得到中期选举之后明年再落地推进（今天记者会他宣布成立五个工作组，年底给结论大概也是这个节奏）；\n\n3、川普签署停战备忘录是当下最优解，看似丢了面子和里子，但也是及时止损，从泥潭中抽身回归国内事务。劳动力市场的“世界杯效应”，五月非农超预期，线下消费服务业提前为世界杯期间的消费潮储备工作人员，要看世界杯之后否认非农就业会不会回落。\n\n4、如之前一直聊的、当下的市场整个逻辑基点在于大模型厂商的ARR和大科技云业务的增速，他们超预期增长意味着AI商业化或者货币化拐点之后再加速、那么大科技的资本开支、算力产业链传导逻辑都是合理的。这是市场的逻辑的基点或者支柱，之前2月份在资本开支的战争那篇长文也有聊过。所以后面紧盯这个逻辑基点是不是neng持续保持、不会出问题。\n\n5、市场真正的风险在于拥挤交易、杠杆加的有点满。美股证券账户杠杆规模1.3万亿美金，历史新高、这其实埋下了风险和隐患，下半年还会出现类似6月初的那种去杠杆行情。市场处在一个高杠杆、交易拥挤的状态，宏观和产业稍微有风吹草动、就容易出现踩踏、去杠杆一般跌的很急很快。\n\n6、AI算力产业链投资进入第二阶段，从产业链条上的无脑买入进入到紧盯业绩兑现节奏的分化。昨天这里<a href=\"https://nitter.net/qinbafrank/status/2067073930503114946?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2067…</a>有详细聊到。\n存储为什么是最确定的那条？训练到推理，到agent对数据的需求时越来越大、存储的确定性很高。同时存储产业集中度高、巨大的市场容量就被几家瓜分。其他产业链其实都很碎，产业链环节多公司多、当然不是说不好也自有其未来空间，\n\n详细的可以去看当时对话的文字记录。欢迎交流和指教🫶",
-      "publishedAt": "2026-06-18T08:08:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2067519756882833815",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLFOQjsboAAJSsB.jpg"
-        }
-      ],
-      "quote": {
-        "username": "168X_Fortune",
-        "displayName": "168X",
-        "content": "",
-        "link": "https://x.com/168X_Fortune/status/2067231590347162078"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067511170177876293",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
-      "content": "比特币四条大腿：\n1.黑灰产藏钱，卒❌\n2.MSTR/ETF永恒买盘，卒❌\n3.降息周期，流动性金丝雀，卒❌\n4.做市商晃骗订单割韭菜，还活着✅",
-      "contentHtml": "比特币四条大腿：\n1.黑灰产藏钱，卒❌\n2.MSTR/ETF永恒买盘，卒❌\n3.降息周期，流动性金丝雀，卒❌\n4.做市商晃骗订单割韭菜，还活着✅",
-      "publishedAt": "2026-06-18T07:34:00.000Z",
-      "link": "https://x.com/follow_clues/status/2067511170177876293",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067509893226287557",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "我怎么连2000u都没有，之前偶尔会接几个自己撸的项目，这种就是顺手一发。影响不到任何人，这种广是最舒服的。另外一个就是交易所的了，交易所的广告也是，几乎人手都注册了几个top交易所根本影响不到别人。",
-      "contentHtml": "我怎么连2000u都没有，之前偶尔会接几个自己撸的项目，这种就是顺手一发。影响不到任何人，这种广是最舒服的。另外一个就是交易所的了，交易所的广告也是，几乎人手都注册了几个top交易所根本影响不到别人。",
-      "publishedAt": "2026-06-18T07:29:00.000Z",
-      "link": "https://x.com/0xleng1/status/2067509893226287557",
-      "quote": {
-        "username": "DRbitcoin36",
-        "displayName": "比特欧 Elvin",
-        "content": "57% 的 KOL 收入在 2000u 以内\n35% 的 KOL 收入在 6000u 以上\n\n这 35% 博主私信比特欧一下\n给你们备了点礼物，希望你带一下比特欧",
-        "contentHtml": "57% 的 KOL 收入在 2000u 以内\n35% 的 KOL 收入在 6000u 以上\n\n这 35% 博主私信比特欧一下\n给你们备了点礼物，希望你带一下比特欧",
-        "link": "https://x.com/DRbitcoin36/status/2067277719461900360"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067508091885617225",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#INTC\n\n赢了，白宫股神川普再次喊单英特尔，特朗普表示 #AAPL  也确认由 #INTC 帮助设计和制造芯片\n\n6月9号我们说#谷歌  计划向因特尔下单超过300万张TPU，而且 #英伟达 也在评估英特尔的先进封装和18A工艺，用于未来整合新的图形处理器\n\n英特尔这一波在上涨300%的情况下，高位强势整理横盘，整理完成的突破将再次开启暴涨模式，英特尔重点关注名单，突破的第一时间追",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23INTC\">#INTC</a>\n\n赢了，白宫股神川普再次喊单英特尔，特朗普表示 <a href=\"/search?f=tweets&q=%23AAPL\">#AAPL</a>  也确认由 <a href=\"/search?f=tweets&q=%23INTC\">#INTC</a> 帮助设计和制造芯片\n\n6月9号我们说#谷歌  计划向因特尔下单超过300万张TPU，而且 <a href=\"/search?f=tweets&q=%23英伟达\">#英伟达</a> 也在评估英特尔的先进封装和18A工艺，用于未来整合新的图形处理器\n\n英特尔这一波在上涨300%的情况下，高位强势整理横盘，整理完成的突破将再次开启暴涨模式，英特尔重点关注名单，突破的第一时间追",
-      "publishedAt": "2026-06-18T07:21:00.000Z",
-      "link": "https://x.com/dongbimao/status/2067508091885617225",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLFDiI3WgAANBH6.png"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLFDlSLWwAA2bQm.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067497588342112445",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "在成都的外卖里，这家卢记正街饭店算好吃的！",
-      "contentHtml": "在成都的外卖里，这家卢记正街饭店算好吃的！",
-      "publishedAt": "2026-06-18T06:40:00.000Z",
-      "link": "https://x.com/taresky/status/2067497588342112445",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLE6GKzaoAAyc9j.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067496664001343841",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "不过 @Aster_DEX @Ccweb3hub 要不要考虑标注下回购的网络啊，我的第一反应也是在 Arkham 上看 BSC 的数据…\n\nAster 主网数据没有被收录，所以不少小伙伴误会了👇",
-      "contentHtml": "不过 <a href=\"/Aster_DEX\" title=\"Aster 🥷\">@Aster_DEX</a> <a href=\"/Ccweb3hub\" title=\"Cc笑茜茜｜Aster💛\">@Ccweb3hub</a> 要不要考虑标注下回购的网络啊，我的第一反应也是在 Arkham 上看 BSC 的数据…\n\nAster 主网数据没有被收录，所以不少小伙伴误会了👇",
-      "publishedAt": "2026-06-18T06:36:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2067496664001343841",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLE5N5Va4AAPdKA.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067496301244338461",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
-      "content": "It's the Age of Builders.\n\n (sorry financiers and talkers)",
-      "contentHtml": "It's the Age of Builders.\n\n (sorry financiers and talkers)",
-      "publishedAt": "2026-06-18T06:35:00.000Z",
-      "link": "https://x.com/naval/status/2067496301244338461",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067496248253530346",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "“ $ASTER 首日回购仅 17 刀？”\n\n有点过于幽默了…别只看 BSC，也看看 Aster Chain 吧😅\n\n回购地址 0xa0edBaBcb48034e368de286b49F9603C7AfA1b60 在 Aster 主网上的最新余额为 345,374.26 ASTER，即 22.5 万美元\n\n99% 的手续费用于回购，想要交叉验证的话，DeFILama 上也能看到单日 Fee 数据 👉 defillama.com/protocol/aster",
-      "contentHtml": "“ <a href=\"/search?f=tweets&q=%23ASTER\">$ASTER</a> 首日回购仅 17 刀？”\n\n有点过于幽默了…别只看 BSC，也看看 Aster Chain 吧😅\n\n回购地址 0xa0edBaBcb48034e368de286b49F9603C7AfA1b60 在 Aster 主网上的最新余额为 345,374.26 ASTER，即 22.5 万美元\n\n99% 的手续费用于回购，想要交叉验证的话，DeFILama 上也能看到单日 Fee 数据 👉 <a href=\"https://defillama.com/protocol/aster\">defillama.com/protocol/aster</a>",
-      "publishedAt": "2026-06-18T06:34:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2067496248253530346",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLE4xw0aUAA9oJp.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067482208370405850",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI \n\n也就敢跟 AI 说这话了。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n也就敢跟 AI 说这话了。",
-      "publishedAt": "2026-06-18T05:39:00.000Z",
-      "link": "https://x.com/taresky/status/2067482208370405850",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLEsF7ZaMAANjd3.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067480282673090651",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "图片被压缩了，补一下。",
-      "contentHtml": "图片被压缩了，补一下。",
-      "publishedAt": "2026-06-18T05:31:00.000Z",
-      "link": "https://x.com/taresky/status/2067480282673090651",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLEqWt7bQAAb2Sr.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067479033533890827",
-      "username": "DoveyWan",
-      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
-      "avatar": "https://pbs.twimg.com/profile_images/1842438817397297152/0WZDqXBE_bigger.jpg",
-      "content": "Had a 4hr+ dinner with a SpaceX tech lead fren who joined in 2015. Gotta write down the hot take because it is very different from the usual “ @elonmusk is a tech visionary” story \n\nThe less glorified employee perspective is actually more interesting: many core engineers did not stay locked in for 10+ yrs purely because of “the vision.” As frontline operators, they often did not even know what concrete vision to believe in. \n\nGoing to Mars 10 yrs ago sounded too delusional to be a real operating plan. My fren joked that it was more like “believing in the power of believing” lol\n\nWhat they did believe in was Elon’s ability to keep winning the next war chest: capital, debt, federal contracts, customer deposits, attention, narrative, most importantly market patience. That matters a lot more than outsiders realize, and ofc thanks to the big mom who keep all the shits together @Gwynne_Shotwell\n\nIn frontier engineering, morale does not only come from mission. It comes from believing the company will survive long enough for impossible work to compound.\nElon’s real genius may be that he turns capital formation into an engineering input.\n\nPut together marginally enough resources > buy engineering time > ship impossible progress > earn more credibility > unlock more resources > make the next impossible bet fundable\n\nThis is why his companies keep forming silo network effects then Elon threaded them into a massive macro network effect\n\n- x com first\n- Tesla on earth physical traffic + charging grid + solar grid\n- Tesla FSD data network & edge compute network, which was a very underrated E2E track for AV (and most wouldnt bet on that track, ie Waymo spent massive money relying on lidar and HD map) \n- Starlink for connectivity first and now compute \n- Twitter/X for on earth digital traffic \n- xAi and Colossus compute network ... \n\nHe also mentioned how X Money fills in the puzzle, which is not random, as the macro network now is looking for its own banking layer, all of which are high-stakes financial gambits that constantly need capital, debt capacity, payment rails, and balance-sheet engineering load. \n\nHe has apparently hinted more than once that maybe spacex should just build a bank. The X Money card is still beta, but the perks are already wild: 6% APY and 3% cashback. Employees are extremely doped about it, not just for the perks, but because it makes them feel like first-class citizens of “Elon Nation.” and this might ignite another network effect that will connect them all and eventually evolve into a full bank. \n\nTesla built the energy/data network.\nStarlink built the connectivity/orbital compute network.\nX built the attention/distribution network.\nxAI built the reasoning and inference network.\nX Money tries to close the financial network.\n\nYa ofc Elon is one of the biggest \"technology visionary\" in our life time, but I increasingly think the he's the best network effect engineer on earth, which will get us to brute force out of earth itself. And the biggest network of all like @balajis has shared, is the network state.  \n\nWelcome to Elon Nation",
-      "contentHtml": "Had a 4hr+ dinner with a SpaceX tech lead fren who joined in 2015. Gotta write down the hot take because it is very different from the usual “ <a href=\"/elonmusk\" title=\"Elon Musk\">@elonmusk</a> is a tech visionary” story \n\nThe less glorified employee perspective is actually more interesting: many core engineers did not stay locked in for 10+ yrs purely because of “the vision.” As frontline operators, they often did not even know what concrete vision to believe in. \n\nGoing to Mars 10 yrs ago sounded too delusional to be a real operating plan. My fren joked that it was more like “believing in the power of believing” lol\n\nWhat they did believe in was Elon’s ability to keep winning the next war chest: capital, debt, federal contracts, customer deposits, attention, narrative, most importantly market patience. That matters a lot more than outsiders realize, and ofc thanks to the big mom who keep all the shits together <a href=\"/Gwynne_Shotwell\" title=\"Gwynne Shotwell\">@Gwynne_Shotwell</a>\n\nIn frontier engineering, morale does not only come from mission. It comes from believing the company will survive long enough for impossible work to compound.\nElon’s real genius may be that he turns capital formation into an engineering input.\n\nPut together marginally enough resources &gt; buy engineering time &gt; ship impossible progress &gt; earn more credibility &gt; unlock more resources &gt; make the next impossible bet fundable\n\nThis is why his companies keep forming silo network effects then Elon threaded them into a massive macro network effect\n\n- x com first\n- Tesla on earth physical traffic + charging grid + solar grid\n- Tesla FSD data network & edge compute network, which was a very underrated E2E track for AV (and most wouldnt bet on that track, ie Waymo spent massive money relying on lidar and HD map) \n- Starlink for connectivity first and now compute \n- Twitter/X for on earth digital traffic \n- xAi and Colossus compute network ... \n\nHe also mentioned how X Money fills in the puzzle, which is not random, as the macro network now is looking for its own banking layer, all of which are high-stakes financial gambits that constantly need capital, debt capacity, payment rails, and balance-sheet engineering load. \n\nHe has apparently hinted more than once that maybe spacex should just build a bank. The X Money card is still beta, but the perks are already wild: 6% APY and 3% cashback. Employees are extremely doped about it, not just for the perks, but because it makes them feel like first-class citizens of “Elon Nation.” and this might ignite another network effect that will connect them all and eventually evolve into a full bank. \n\nTesla built the energy/data network.\nStarlink built the connectivity/orbital compute network.\nX built the attention/distribution network.\nxAI built the reasoning and inference network.\nX Money tries to close the financial network.\n\nYa ofc Elon is one of the biggest \"technology visionary\" in our life time, but I increasingly think the he's the best network effect engineer on earth, which will get us to brute force out of earth itself. And the biggest network of all like <a href=\"/balajis\" title=\"Balaji\">@balajis</a> has shared, is the network state.  \n\nWelcome to Elon Nation",
-      "publishedAt": "2026-06-18T05:26:00.000Z",
-      "link": "https://x.com/DoveyWan/status/2067479033533890827",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067477489589579943",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "20 人发完",
-      "contentHtml": "20 人发完",
-      "publishedAt": "2026-06-18T05:20:00.000Z",
-      "link": "https://x.com/taresky/status/2067477489589579943",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLEn0STbgAAHiEj.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067474748586729955",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#U卡 \n\n抱歉各位，我要纠正之前的数据。\n\n刚才朋友给我截图，我才发现自己遗漏了重要信息 —— Plasma 新版之后，返现是梯度降低的。关键内容在点击 Cashback 弹框里。\n\n数据错误，用 AI 按新数据重新绘图如下：\n\n1. Lite 用户，实际不存在，忽略。\n\n2. Core 用户，每月只有前 $1,000 返现 3%，不建议超过这个金额。\n\n3. Platinum 用户，每月前 $10,000 返现 4%～3%，不建议超过这个金额。\n\n4. Core 用户，每月白嫖 $8 GPT，没有变化，依然是好福利，希望保持。\n\n5. Core 用户，如果 $1000 不够用，建议用家人的号。Plasma 单号 $1000，EtherFi 单号 $2000，都是优势区间。\n\n---\n\n最后，如果你被我之前的错误信息误导了，再次抱歉，对不起，我不是有意的。\n\n在评论区留下你的 @ Plasma ID，每人发 $5，取前 20 人。\n\n---\n\n🌟 Plasma 邀请码 FAFAFA 🌟\n🔗 EtherFi 邀请链接 s.taresky.me/etherfi",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23U卡\">#U卡</a> \n\n抱歉各位，我要纠正之前的数据。\n\n刚才朋友给我截图，我才发现自己遗漏了重要信息 —— Plasma 新版之后，返现是梯度降低的。关键内容在点击 Cashback 弹框里。\n\n数据错误，用 AI 按新数据重新绘图如下：\n\n1. Lite 用户，实际不存在，忽略。\n\n2. Core 用户，每月只有前 $1,000 返现 3%，不建议超过这个金额。\n\n3. Platinum 用户，每月前 $10,000 返现 4%～3%，不建议超过这个金额。\n\n4. Core 用户，每月白嫖 $8 GPT，没有变化，依然是好福利，希望保持。\n\n5. Core 用户，如果 $1000 不够用，建议用家人的号。Plasma 单号 $1000，EtherFi 单号 $2000，都是优势区间。\n\n---\n\n最后，如果你被我之前的错误信息误导了，再次抱歉，对不起，我不是有意的。\n\n在评论区留下你的 @ Plasma ID，每人发 $5，取前 20 人。\n\n---\n\n🌟 Plasma 邀请码 FAFAFA 🌟\n🔗 EtherFi 邀请链接 <a href=\"http://s.taresky.me/etherfi\">s.taresky.me/etherfi</a>",
-      "publishedAt": "2026-06-18T05:09:00.000Z",
-      "link": "https://x.com/taresky/status/2067474748586729955",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLEhvmBa4AASrtz.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLEh-mqa0AAYl7m.jpg"
-        }
-      ],
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "#U卡 \n\n考虑返现比例、安全性、持久性，Plasma 和 EtherFi 是目前唯二推荐的卡。\n\n让 AI 画了一张返现对比图，更直观一点。\n\n1. 如果你能注册 EtherFi，多一个选项没坏处。\n2. 月消费低于 $9278，Core 都好于 EtherFi。\n3. 随后 EtherFi 反超 Core，但仍不如 Platinum。\n\n尽量在新版发布前激活 Plasma，免费拿一年的 Core。更多详情看原推。\n\n🌟 Plasma 邀请码 FAFAFA 🌟\n🔗 EtherFi 邀请链接 s.taresky.me/etherfi",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23U卡\">#U卡</a> \n\n考虑返现比例、安全性、持久性，Plasma 和 EtherFi 是目前唯二推荐的卡。\n\n让 AI 画了一张返现对比图，更直观一点。\n\n1. 如果你能注册 EtherFi，多一个选项没坏处。\n2. 月消费低于 $9278，Core 都好于 EtherFi。\n3. 随后 EtherFi 反超 Core，但仍不如 Platinum。\n\n尽量在新版发布前激活 Plasma，免费拿一年的 Core。更多详情看原推。\n\n🌟 Plasma 邀请码 FAFAFA 🌟\n🔗 EtherFi 邀请链接 <a href=\"https://s.taresky.me/etherfi\">s.taresky.me/etherfi</a>",
-        "link": "https://x.com/taresky/status/2065643703847277052",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKqgFfIaEAA_-XB.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067469175971566013",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "一旦到了需求空窗期，可以跟 @passluo 聊一下，聊出不少番号。",
-      "contentHtml": "一旦到了需求空窗期，可以跟 <a href=\"/passluo\" title=\"𝙋𝙖𝙨𝙨𝙡𝙪𝙤\">@passluo</a> 聊一下，聊出不少番号。",
-      "publishedAt": "2026-06-18T04:47:00.000Z",
-      "link": "https://x.com/taresky/status/2067469175971566013",
-      "quote": {
-        "username": "yetone",
-        "displayName": "yetone",
-        "content": "发现我已经有了专属的产品经理，一旦到了需求空窗期，可以跟 @passluo 聊一下，聊出不少需求。你们不要跟我抢。",
-        "contentHtml": "发现我已经有了专属的产品经理，一旦到了需求空窗期，可以跟 <a href=\"/passluo\" title=\"𝙋𝙖𝙨𝙨𝙡𝙪𝙤\">@passluo</a> 聊一下，聊出不少需求。你们不要跟我抢。",
-        "link": "https://x.com/yetone/status/2067466352043164014"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067463815705526678",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "这一轮我的 binancecoin:native 仓位主要都建在$500+的位置，总仓位远小于BTC，所以也拿得住。最后在跌破$1,000的时候清了，卖的不算太好。\n\n但BNB一直是我认为除了BTC之外，最有确定性的加密资产之一。它的确定性并非来自链上数据，而是Binance在行业内所拥有的人力、财力、资源的龙头地位，短期内无法撼动。\n\n在我的技术指标上，熊市中的BNB会长期在月线通道范围内盘整，也就是说，我有足够的时间把卖掉的份额买回来。但！时间成本很高，资金效率很低。\n\n另外，从上轮周期来看，BNB月线级别调整一般不会跌破上升趋势线。只要币安本身没有出现重大系统性问题，我认为这一趋势将会延续。\n\n当前月线通道下轨是$552；月线上升趋势线是$497；所以，如果BNB价格进入这个范围时，我会考虑出手。如果没到，还是优先建BTC的长期仓位。\n\n等行情回暖，Binance 重开 launchpool、Megadrop 之时，BNB还可以成为优质的生息资产。\n\n另外，还有一个指标可以作为辅助判断 —— BTC的交易动能；即衡量BTC转入/转出交易所的活跃度，当30d-sma（红线）突破365d-sma（绿线）时，意味着场内活跃度动能的回升。\n\n春江水暖鸭先知！Binance又是场内流动性最集中的地方。交易动能上升，企业营收扩张，即是对BNB最坚实的支撑来源。",
-      "contentHtml": "这一轮我的 binancecoin:native 仓位主要都建在$500+的位置，总仓位远小于BTC，所以也拿得住。最后在跌破$1,000的时候清了，卖的不算太好。\n\n但BNB一直是我认为除了BTC之外，最有确定性的加密资产之一。它的确定性并非来自链上数据，而是Binance在行业内所拥有的人力、财力、资源的龙头地位，短期内无法撼动。\n\n在我的技术指标上，熊市中的BNB会长期在月线通道范围内盘整，也就是说，我有足够的时间把卖掉的份额买回来。但！时间成本很高，资金效率很低。\n\n另外，从上轮周期来看，BNB月线级别调整一般不会跌破上升趋势线。只要币安本身没有出现重大系统性问题，我认为这一趋势将会延续。\n\n当前月线通道下轨是$552；月线上升趋势线是$497；所以，如果BNB价格进入这个范围时，我会考虑出手。如果没到，还是优先建BTC的长期仓位。\n\n等行情回暖，Binance 重开 launchpool、Megadrop 之时，BNB还可以成为优质的生息资产。\n\n另外，还有一个指标可以作为辅助判断 —— BTC的交易动能；即衡量BTC转入/转出交易所的活跃度，当30d-sma（红线）突破365d-sma（绿线）时，意味着场内活跃度动能的回升。\n\n春江水暖鸭先知！Binance又是场内流动性最集中的地方。交易动能上升，企业营收扩张，即是对BNB最坚实的支撑来源。",
-      "publishedAt": "2026-06-18T04:25:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2067463815705526678",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLEaxhpasAAMRqQ.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLEaz_3bUAAefIl.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "我是一位风险厌恶型投资者，在很多时候，我的投资策略都是偏保守的。追求高赔率和押注确定性上，我会更注重后者。\n\n所以，按个人的风险偏好，除了 $BTC 之外如果说还能有较高确定性的，我认为只有BNB 和 HYPE。\n\n把二者视为本轮的熊市之光也不为过。都跑赢了本该是带头大哥的BTC，尤其是HYPE。\n\n对于还钟情ETH和SOL的小伙伴们，也别急着喷，我并不是说他们不好。\n\n只是在当前美股的虹吸效应下，就连BTC也缺乏热度和新需求，ETH/SOL就更难走出独立的叙事行情。\n\nBNB 我们没办法像BTC那样用链上数据来分析背后的投资者行为，但依托 Binance 在行业所拥有的人力，物力，财力的垄断地位，即是最大的确定性。",
-        "contentHtml": "我是一位风险厌恶型投资者，在很多时候，我的投资策略都是偏保守的。追求高赔率和押注确定性上，我会更注重后者。\n\n所以，按个人的风险偏好，除了 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 之外如果说还能有较高确定性的，我认为只有BNB 和 HYPE。\n\n把二者视为本轮的熊市之光也不为过。都跑赢了本该是带头大哥的BTC，尤其是HYPE。\n\n对于还钟情ETH和SOL的小伙伴们，也别急着喷，我并不是说他们不好。\n\n只是在当前美股的虹吸效应下，就连BTC也缺乏热度和新需求，ETH/SOL就更难走出独立的叙事行情。\n\nBNB 我们没办法像BTC那样用链上数据来分析背后的投资者行为，但依托 Binance 在行业所拥有的人力，物力，财力的垄断地位，即是最大的确定性。",
-        "link": "https://x.com/Murphychen888/status/2060961328609804600",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJoBXk5bcAAVGbj.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJoBXl1a8AAwkzo.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067459489104818184",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
-      "content": "今天，吃掉BTC多头💪",
-      "contentHtml": "今天，吃掉BTC多头💪",
-      "publishedAt": "2026-06-18T04:08:00.000Z",
-      "link": "https://x.com/follow_clues/status/2067459489104818184",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067455827909255481",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "🇰🇷韩国KOSPI指数首破9000点\n\n羡慕疯了  🫠夜生活得淫乱成啥样才对得起这大牛市",
-      "contentHtml": "🇰🇷韩国KOSPI指数首破9000点\n\n羡慕疯了  🫠夜生活得淫乱成啥样才对得起这大牛市",
-      "publishedAt": "2026-06-18T03:54:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2067455827909255481",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLEUHCEXgAA5217.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067453829373919729",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
-      "content": "📌 2015年：黑线跌破蓝线后 48天 到熊底二次探底的币价最低点\n📌 2019年：黑线跌破蓝线后 32天 到熊底二次探底的币价最低点\n📌 2022年：黑线跌破蓝线后 26天 到熊底二次探底的币价最低点\n📌 2026年：黑线跌破蓝线后 09天 到 $59k",
-      "contentHtml": "📌 2015年：黑线跌破蓝线后 48天 到熊底二次探底的币价最低点\n📌 2019年：黑线跌破蓝线后 32天 到熊底二次探底的币价最低点\n📌 2022年：黑线跌破蓝线后 26天 到熊底二次探底的币价最低点\n📌 2026年：黑线跌破蓝线后 09天 到 $59k",
-      "publishedAt": "2026-06-18T03:46:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2067453829373919729",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLER9DNbAAAU941.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "比特币【三叉筑底】衍生指标之一，用于捕捉熊底二次探底的币价低点\n────────────────────────\n【#BTC 四年周期总刻系列（36-2）】\n\n📌 2015年：黑线跌破蓝线后 48天 到熊底二次探底的币价最低点\n📌 2019年：黑线跌破蓝线后 32天 到熊底二次探底的币价最低点\n📌 2022年：黑线跌破蓝线后 26天 到熊底二次探底的币价最低点\n\n⏳ 当前，黑线还差 578刀 跌破蓝线\n\n┌── 🐼 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n⚫️ 黑线为链上持币3-6个月的投资者平均购币成本\n🔵 蓝线为链上持币1-2年的投资者平均购币成本",
-        "contentHtml": "比特币【三叉筑底】衍生指标之一，用于捕捉熊底二次探底的币价低点\n────────────────────────\n【<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 四年周期总刻系列（36-2）】\n\n📌 2015年：黑线跌破蓝线后 48天 到熊底二次探底的币价最低点\n📌 2019年：黑线跌破蓝线后 32天 到熊底二次探底的币价最低点\n📌 2022年：黑线跌破蓝线后 26天 到熊底二次探底的币价最低点\n\n⏳ 当前，黑线还差 578刀 跌破蓝线\n\n┌── 🐼 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲 | 指标详情 ──┐\n\n⚫️ 黑线为链上持币3-6个月的投资者平均购币成本\n🔵 蓝线为链上持币1-2年的投资者平均购币成本",
-        "link": "https://x.com/0xCryptoChan/status/2059822252762521833",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJX1YO3a8AAAGd3.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2067451221665853758",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "美联储做正确的事情不代表利好股市。\n最简单的例子，QE的出现已经打破了理应出现的经济周期。所以下次经济出现问题应该QE吗？\n沃什的确说了很多正确的话，但如果代价是价格让市场自己发现，以后Fed put标准在哪也让市场自己发现，我可以保证你不会喜欢那样的沃什。Be careful what you wish for。\n我个人不希望Fed正确，只希望他政治正确",
-      "contentHtml": "美联储做正确的事情不代表利好股市。\n最简单的例子，QE的出现已经打破了理应出现的经济周期。所以下次经济出现问题应该QE吗？\n沃什的确说了很多正确的话，但如果代价是价格让市场自己发现，以后Fed put标准在哪也让市场自己发现，我可以保证你不会喜欢那样的沃什。Be careful what you wish for。\n我个人不希望Fed正确，只希望他政治正确",
-      "publishedAt": "2026-06-18T03:35:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2067451221665853758",
       "stats": {
         "replies": 0,
         "retweets": 0,
