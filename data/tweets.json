@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T07:03:28.069Z",
+  "lastUpdated": "2026-06-27T08:55:05.815Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,82 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 650,
+    "newFetched": 649,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2070786726457446862",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "智谱是中国版的Palantir、MiniMax是中国版的Character AI，豆包则是中国版的ChatGPT。这个说法有点意思\n\nA16Z创始人马克.安德森转发了这条推，研究员FleetingBits认为：\n1）智谱AI靠\"中国版Palantir\"政企本地化部署斩获40%高毛利，年内股价暴涨逾1900%、市值破万亿港元；\n2）MiniMax押注C端出海，大部分收入来自境外；\n3）字节豆包坚守闭源护城河，稳坐国内最受欢迎AI应用宝座。\n\n三条路径撕裂同质化内卷。",
+      "contentHtml": "智谱是中国版的Palantir、MiniMax是中国版的Character AI，豆包则是中国版的ChatGPT。这个说法有点意思\n\nA16Z创始人马克.安德森转发了这条推，研究员FleetingBits认为：\n1）智谱AI靠\"中国版Palantir\"政企本地化部署斩获40%高毛利，年内股价暴涨逾1900%、市值破万亿港元；\n2）MiniMax押注C端出海，大部分收入来自境外；\n3）字节豆包坚守闭源护城河，稳坐国内最受欢迎AI应用宝座。\n\n三条路径撕裂同质化内卷。",
+      "publishedAt": "2026-06-27T08:30:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2070786726457446862",
+      "quote": {
+        "username": "MTSlive",
+        "displayName": "MTS",
+        "content": "SITUATION EXPLAINED: What does the Chinese AI ecosystem actually look like beyond DeepSeek?\n\nGabrierl (.@gbrl_dick) asked @FleetingBits, anonymous AI researcher.\n\n\"Most people are familiar with DeepSeek. But if we look at other Chinese labs like Zhipu, Minimax, Moonshot, ByteDance, they're a little bit less well known.\"\n\n\"Zhipu is sort of the Chinese equivalent of Palantir... it receives state support through contracts with state-owned enterprises. GLM 5.2 was a Zhipu model. And unique among Chinese AI labs, it has actually pretty good gross margins, around 40%. All of its revenue comes from these state-owned enterprises for which it does these Palantir deployments where it takes its GLM models and deploys them locally on their hardware.\"\n\n\"MiniMax is interesting because they're sort of the character AI of China, a companion app called Talky and a video generation app called Hailuo. And the majority of their revenue comes from outside China, including a decent chunk from the United States.\"\n\n\"Doubao, which is ByteDance's equivalent of ChatGPT, is the most popular AI app in China.\"\n\n\"The Chinese ChatGPT is actually ByteDance. And I think they don't make a splash in America because they don't open source any of their models.\"",
+        "contentHtml": "SITUATION EXPLAINED: What does the Chinese AI ecosystem actually look like beyond DeepSeek?\n\nGabrierl (.<a href=\"/gbrl_dick\" title=\"Gabriel\">@gbrl_dick</a>) asked <a href=\"/FleetingBits\" title=\"FleetingBits\">@FleetingBits</a>, anonymous AI researcher.\n\n\"Most people are familiar with DeepSeek. But if we look at other Chinese labs like Zhipu, Minimax, Moonshot, ByteDance, they're a little bit less well known.\"\n\n\"Zhipu is sort of the Chinese equivalent of Palantir... it receives state support through contracts with state-owned enterprises. GLM 5.2 was a Zhipu model. And unique among Chinese AI labs, it has actually pretty good gross margins, around 40%. All of its revenue comes from these state-owned enterprises for which it does these Palantir deployments where it takes its GLM models and deploys them locally on their hardware.\"\n\n\"MiniMax is interesting because they're sort of the character AI of China, a companion app called Talky and a video generation app called Hailuo. And the majority of their revenue comes from outside China, including a decent chunk from the United States.\"\n\n\"Doubao, which is ByteDance's equivalent of ChatGPT, is the most popular AI app in China.\"\n\n\"The Chinese ChatGPT is actually ByteDance. And I think they don't make a splash in America because they don't open source any of their models.\"",
+        "link": "https://x.com/MTSlive/status/2070686950894584145"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2070769119948071258",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "又谈恋爱了？Asian girl 太花钱了",
+      "contentHtml": "又谈恋爱了？Asian girl 太花钱了",
+      "publishedAt": "2026-06-27T07:20:00.000Z",
+      "link": "https://x.com/hazenlee/status/2070769119948071258",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLzZiU7asAAdIqb.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2070765798420005217",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "今天GPT官方文章还藏了一个彩蛋：GPT5.6计划7月在Cerebras平台上线，最高750tokens/秒，限选定客户。CBRS上市后跌了很多，可能是个短期催化剂。",
+      "contentHtml": "今天GPT官方文章还藏了一个彩蛋：GPT5.6计划7月在Cerebras平台上线，最高750tokens/秒，限选定客户。CBRS上市后跌了很多，可能是个短期催化剂。",
+      "publishedAt": "2026-06-27T07:06:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2070765798420005217",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "最配合美国政府的OpenAI都开始认为白宫对前沿模型限制的做法有问题。这次GPT5.6发布，OpenAI也面临了跟Authropic发布Fable5和mythos时同样的问题，就是美国政府对前沿模型的限制。\n\n官方文章表示目前因美国政府要求，仅向 Codex 和 API 中的一小群可信合作伙伴提供有限预览。对此，OpenAI 明确表示：“我们不认为这种政府访问流程应成为长期默认做法。”\n\n但是这一次GPT5.6也表示Sol 是目前最强网络安全模型，显著提升长时程安全任务的性能-效率前沿。\n1）擅长识别漏洞和原语（在 Chromium/Firefox 中），但不会生成完整攻击链，未跨越 Preparedness Framework 的“Cyber Critical”门槛。\n2）帮助防御者（找漏洞、打补丁），同时限制攻击性使用。\n3）加强实时防护，针对高风险网络活动和重复滥用。\n\n还是上次Authropic面临美国政府管控时聊到的，很明显AI已经是战略级资产，上个世纪的冷战核武器是杀手锏，这个时代国家的博弈AI才是那个核武器。\n1）最强AI模型现在被正式当作战略技术，像芯片一样严格管制出口。目的是防止其他国家（很明显东大就是首当其冲）获得最先进的AI能力（尤其是网络安全、agent能力等双用技术）。\n\n2）这其实与核不扩散逻辑几乎一模一样：前沿AI能力被美国政府视为不能让“外国势力”随便获得的战略资产。\n\n3）未来美国最顶级前沿模型可能只对美国及其盟友的“可信实体”开放（类似Mythos 5最初给政府合作伙伴用）。商业公司会被迫配合政府管制。\n\n全球AI分裂加剧：\n美国用出口管制+算力限制卡脖子；\n东大则大力发展本土模型、算力和开源路线。\n未来AI领域的脱钩也势成必然。\n\n今天OpenAI也面临这个问题，之前Authropic信心满满认为很快就能解除管制、看消息白宫都不愿意跟DarioAmodei谈了（认为他不关心白宫的关切），Authropic已经换了一个高管负责跟对接。\n\n这仅仅是政府与商业公司在AI监管领域博弈的开始，远没到高潮；\n更核心是技术奇点信仰者跟政治领导人监管层视角的分化开始。\n未来博弈会越来越多。",
+        "contentHtml": "最配合美国政府的OpenAI都开始认为白宫对前沿模型限制的做法有问题。这次GPT5.6发布，OpenAI也面临了跟Authropic发布Fable5和mythos时同样的问题，就是美国政府对前沿模型的限制。\n\n官方文章表示目前因美国政府要求，仅向 Codex 和 API 中的一小群可信合作伙伴提供有限预览。对此，OpenAI 明确表示：“我们不认为这种政府访问流程应成为长期默认做法。”\n\n但是这一次GPT5.6也表示Sol 是目前最强网络安全模型，显著提升长时程安全任务的性能-效率前沿。\n1）擅长识别漏洞和原语（在 Chromium/Firefox 中），但不会生成完整攻击链，未跨越 Preparedness Framework 的“Cyber Critical”门槛。\n2）帮助防御者（找漏洞、打补丁），同时限制攻击性使用。\n3）加强实时防护，针对高风险网络活动和重复滥用。\n\n还是上次Authropic面临美国政府管控时聊到的，很明显AI已经是战略级资产，上个世纪的冷战核武器是杀手锏，这个时代国家的博弈AI才是那个核武器。\n1）最强AI模型现在被正式当作战略技术，像芯片一样严格管制出口。目的是防止其他国家（很明显东大就是首当其冲）获得最先进的AI能力（尤其是网络安全、agent能力等双用技术）。\n\n2）这其实与核不扩散逻辑几乎一模一样：前沿AI能力被美国政府视为不能让“外国势力”随便获得的战略资产。\n\n3）未来美国最顶级前沿模型可能只对美国及其盟友的“可信实体”开放（类似Mythos 5最初给政府合作伙伴用）。商业公司会被迫配合政府管制。\n\n全球AI分裂加剧：\n美国用出口管制+算力限制卡脖子；\n东大则大力发展本土模型、算力和开源路线。\n未来AI领域的脱钩也势成必然。\n\n今天OpenAI也面临这个问题，之前Authropic信心满满认为很快就能解除管制、看消息白宫都不愿意跟DarioAmodei谈了（认为他不关心白宫的关切），Authropic已经换了一个高管负责跟对接。\n\n这仅仅是政府与商业公司在AI监管领域博弈的开始，远没到高潮；\n更核心是技术奇点信仰者跟政治领导人监管层视角的分化开始。\n未来博弈会越来越多。",
+        "link": "https://x.com/qinbafrank/status/2070695022689935698",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLyV0araAAA13wT.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2070763724298989743",
       "username": "taresky",
@@ -11772,80 +11843,6 @@
         "contentHtml": "濒临死亡 技术赌博. 坚持下来的投资者是不是赌徒？",
         "link": "https://x.com/hktknihao/status/2068677216943399166"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069005574013108359",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "扛不住了，稳定0单，只能打扰一下了，发送一下本季度的广子。\n1：可以给最高级别的反拥，准时诚信实在。\n2：币安不可以换KYC了，如果上家跑路是没办法的，稳定返了四年多了，很多大户在，不用担心我跑路吧。\n3：这阵子VIP 不是闹的很火么，有什么问题可以第一时间联系到交易所协调解决掉。\n4：周边这些就不说了。\n5：想“跟单 带单”的就算了，因为行情的原因在币圈的操作相当低频，策略也很保守。分享出来的东西只能不亏，大赚是很难的。而且最近的身份是股市中的学生，并且就我观察而言，近期币安的涨幅榜玩法，自己试错积累经验扒数据，比去找老师带靠谱太多。\n6：如果你有实在的需求，DM！",
-      "contentHtml": "扛不住了，稳定0单，只能打扰一下了，发送一下本季度的广子。\n1：可以给最高级别的反拥，准时诚信实在。\n2：币安不可以换KYC了，如果上家跑路是没办法的，稳定返了四年多了，很多大户在，不用担心我跑路吧。\n3：这阵子VIP 不是闹的很火么，有什么问题可以第一时间联系到交易所协调解决掉。\n4：周边这些就不说了。\n5：想“跟单 带单”的就算了，因为行情的原因在币圈的操作相当低频，策略也很保守。分享出来的东西只能不亏，大赚是很难的。而且最近的身份是股市中的学生，并且就我观察而言，近期币安的涨幅榜玩法，自己试错积累经验扒数据，比去找老师带靠谱太多。\n6：如果你有实在的需求，DM！",
-      "publishedAt": "2026-06-22T10:32:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2069005574013108359",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLaVmUGb0AAlBBt.jpg"
-        }
-      ],
-      "quote": {
-        "username": "daidaibtc",
-        "displayName": "带带带比特",
-        "content": "区块链流量现状 老师也快只能买kyc过考核了 需要维持一下等级 只能打个广告了。稳定返还 额度优渥 诚信准时无跑路风险 三年好评如潮。熊市更要省一点。老用户也可改绑，登录时长条件比之前宽松了一些。有真实需求的可以DM。",
-        "contentHtml": "区块链流量现状 老师也快只能买kyc过考核了 需要维持一下等级 只能打个广告了。稳定返还 额度优渥 诚信准时无跑路风险 三年好评如潮。熊市更要省一点。老用户也可改绑，登录时长条件比之前宽松了一些。有真实需求的可以DM。",
-        "link": "https://x.com/daidaibtc/status/2046543287369261375",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HGbIROnaAAAHkSA.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2068999675357913270",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "1956年，贝尔实验室物理学家凯利，从信息论里推导出一个公式；1969年，数学家索普把这个思路搬到华尔街，其创立的基金在19年的运行中从未出现亏损年度。\n\n它就是“凯利公式” ，一个几乎可以回答所有”该不该压，该压多少“的问题的神奇公式。\n\n比如，我现在对BTC未来预期的价格是10w美元，而下跌的风险在5w美元，胜率评估为60%，那我应该押注多少仓位？\n\n如果你也觉得这个问题很纠结，即怕踏空又怕被套，那么不妨看看“凯利公式”会怎么说？\n\nf = p/l − q/g = 0.6/0.21875 − 0.4/0.5625 ≈ 2.03；\n\n其中：\nf：最优仓位比例；\np：胜率；这里 p = 0.6；\nq：败率；即1 − p= 0.4；\ng：盈利幅度；入场6.4w涨到10w，g = 0.5625；\nl：亏损幅度；入场6.4w跌到5w，l = 0.21875；\n\n也就是说，满凯利给出的是203%仓位，等于上了2倍杠杆。因为上行空间大，下行空间小，胜率比败率高，三个因素叠加，就把仓位往上推了。\n\n但凯利公式的前提是“p、g、l”完全准确，然而现实中它们都是我自己预估出来的，一旦估错，满凯利的惩罚是极其不对称的。\n\n即估错的代价远大于估对的收益，所以我会选择1/4凯利，即51%的仓位，把自己从右侧危险区拉回左侧安全区，用“少赚一点”去换“万一估错”而不会被直接打趴下。\n\n当然，这不是投资建议！只是给小伙伴们提供一个思路。你可以结合自己对未来价格的预期，风险边界，胜率评估等等，来看看什么样的仓位是适合你自己的？",
-      "contentHtml": "1956年，贝尔实验室物理学家凯利，从信息论里推导出一个公式；1969年，数学家索普把这个思路搬到华尔街，其创立的基金在19年的运行中从未出现亏损年度。\n\n它就是“凯利公式” ，一个几乎可以回答所有”该不该压，该压多少“的问题的神奇公式。\n\n比如，我现在对BTC未来预期的价格是10w美元，而下跌的风险在5w美元，胜率评估为60%，那我应该押注多少仓位？\n\n如果你也觉得这个问题很纠结，即怕踏空又怕被套，那么不妨看看“凯利公式”会怎么说？\n\nf = p/l − q/g = 0.6/0.21875 − 0.4/0.5625 ≈ 2.03；\n\n其中：\nf：最优仓位比例；\np：胜率；这里 p = 0.6；\nq：败率；即1 − p= 0.4；\ng：盈利幅度；入场6.4w涨到10w，g = 0.5625；\nl：亏损幅度；入场6.4w跌到5w，l = 0.21875；\n\n也就是说，满凯利给出的是203%仓位，等于上了2倍杠杆。因为上行空间大，下行空间小，胜率比败率高，三个因素叠加，就把仓位往上推了。\n\n但凯利公式的前提是“p、g、l”完全准确，然而现实中它们都是我自己预估出来的，一旦估错，满凯利的惩罚是极其不对称的。\n\n即估错的代价远大于估对的收益，所以我会选择1/4凯利，即51%的仓位，把自己从右侧危险区拉回左侧安全区，用“少赚一点”去换“万一估错”而不会被直接打趴下。\n\n当然，这不是投资建议！只是给小伙伴们提供一个思路。你可以结合自己对未来价格的预期，风险边界，胜率评估等等，来看看什么样的仓位是适合你自己的？",
-      "publishedAt": "2026-06-22T10:08:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2068999675357913270",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLaPTP4boAA7KwO.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLaQOKZaQAArhbD.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2068997718836641828",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "目测这周应该不是我能赚钱的行情(上周吃肉这周大概率挨揍)\n所以提现不开大仓位，小资金直播整活娱乐应该是最合适的\n\n有几个想法，请军师定夺，哪个亏钱快？",
-      "contentHtml": "目测这周应该不是我能赚钱的行情(上周吃肉这周大概率挨揍)\n所以提现不开大仓位，小资金直播整活娱乐应该是最合适的\n\n有几个想法，请军师定夺，哪个亏钱快？",
-      "publishedAt": "2026-06-22T10:01:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2068997718836641828",
       "stats": {
         "replies": 0,
         "retweets": 0,
