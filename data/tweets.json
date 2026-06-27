@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T01:39:30.932Z",
+  "lastUpdated": "2026-06-27T03:04:53.702Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,49 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 650,
+    "newFetched": 648,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2070695022689935698",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "最配合美国政府的OpenAI都开始认为白宫对前沿模型限制的做法有问题。这次GPT5.6发布，OpenAI也面临了跟Authropic发布Fable5和mythos时同样的问题，就是美国政府对前沿模型的限制。\n\n官方文章表示目前因美国政府要求，仅向 Codex 和 API 中的一小群可信合作伙伴提供有限预览。对此，OpenAI 明确表示：“我们不认为这种政府访问流程应成为长期默认做法。”\n\n但是这一次GPT5.6也表示Sol 是目前最强网络安全模型，显著提升长时程安全任务的性能-效率前沿。\n1）擅长识别漏洞和原语（在 Chromium/Firefox 中），但不会生成完整攻击链，未跨越 Preparedness Framework 的“Cyber Critical”门槛。\n2）帮助防御者（找漏洞、打补丁），同时限制攻击性使用。\n3）加强实时防护，针对高风险网络活动和重复滥用。\n\n还是上次Authropic面临美国政府管控时聊到的，很明显AI已经是战略级资产，上个世纪的冷战核武器是杀手锏，这个时代国家的博弈AI才是那个核武器。\n1）最强AI模型现在被正式当作战略技术，像芯片一样严格管制出口。目的是防止其他国家（很明显东大就是首当其冲）获得最先进的AI能力（尤其是网络安全、agent能力等双用技术）。\n\n2）这其实与核不扩散逻辑几乎一模一样：前沿AI能力被美国政府视为不能让“外国势力”随便获得的战略资产。\n\n3）未来美国最顶级前沿模型可能只对美国及其盟友的“可信实体”开放（类似Mythos 5最初给政府合作伙伴用）。商业公司会被迫配合政府管制。\n\n全球AI分裂加剧：\n美国用出口管制+算力限制卡脖子；\n东大则大力发展本土模型、算力和开源路线。\n未来AI领域的脱钩也势成必然。\n\n今天OpenAI也面临这个问题，之前Authropic信心满满认为很快就能解除管制、看消息白宫都不愿意跟DarioAmodei谈了（认为他不关心白宫的关切），Authropic已经换了一个高管负责跟对接。\n\n这仅仅是政府与商业公司在AI监管领域博弈的开始，远没到高潮；\n更核心是技术奇点信仰者跟政治领导人监管层视角的分化开始。\n未来博弈会越来越多。",
+      "contentHtml": "最配合美国政府的OpenAI都开始认为白宫对前沿模型限制的做法有问题。这次GPT5.6发布，OpenAI也面临了跟Authropic发布Fable5和mythos时同样的问题，就是美国政府对前沿模型的限制。\n\n官方文章表示目前因美国政府要求，仅向 Codex 和 API 中的一小群可信合作伙伴提供有限预览。对此，OpenAI 明确表示：“我们不认为这种政府访问流程应成为长期默认做法。”\n\n但是这一次GPT5.6也表示Sol 是目前最强网络安全模型，显著提升长时程安全任务的性能-效率前沿。\n1）擅长识别漏洞和原语（在 Chromium/Firefox 中），但不会生成完整攻击链，未跨越 Preparedness Framework 的“Cyber Critical”门槛。\n2）帮助防御者（找漏洞、打补丁），同时限制攻击性使用。\n3）加强实时防护，针对高风险网络活动和重复滥用。\n\n还是上次Authropic面临美国政府管控时聊到的，很明显AI已经是战略级资产，上个世纪的冷战核武器是杀手锏，这个时代国家的博弈AI才是那个核武器。\n1）最强AI模型现在被正式当作战略技术，像芯片一样严格管制出口。目的是防止其他国家（很明显东大就是首当其冲）获得最先进的AI能力（尤其是网络安全、agent能力等双用技术）。\n\n2）这其实与核不扩散逻辑几乎一模一样：前沿AI能力被美国政府视为不能让“外国势力”随便获得的战略资产。\n\n3）未来美国最顶级前沿模型可能只对美国及其盟友的“可信实体”开放（类似Mythos 5最初给政府合作伙伴用）。商业公司会被迫配合政府管制。\n\n全球AI分裂加剧：\n美国用出口管制+算力限制卡脖子；\n东大则大力发展本土模型、算力和开源路线。\n未来AI领域的脱钩也势成必然。\n\n今天OpenAI也面临这个问题，之前Authropic信心满满认为很快就能解除管制、看消息白宫都不愿意跟DarioAmodei谈了（认为他不关心白宫的关切），Authropic已经换了一个高管负责跟对接。\n\n这仅仅是政府与商业公司在AI监管领域博弈的开始，远没到高潮；\n更核心是技术奇点信仰者跟政治领导人监管层视角的分化开始。\n未来博弈会越来越多。",
+      "publishedAt": "2026-06-27T02:25:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2070695022689935698",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLyV0araAAA13wT.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "今天Authropic被美国政府强制要求全球禁用Fable5和Mythos5的所有访问权限，意味着：美国政府正在用出口管制手段，直接干预前沿AI模型的全球部署，把最先进的AI视为国家安全战略资产。很明显AI已经是战略级资产，上个世纪的冷战核武器是杀手锏，这个时代国家的博弈AI才是那个核武器。\n1、最强AI模型现在被正式当作战略技术，像芯片一样严格管制出口。目的是防止其他国家（很明显东大就是首当其冲）获得最先进的AI能力（尤其是网络安全、agent能力等双用技术）。\n\n2、上个世纪冷战中\n拥有核武器的国家拥有“相互确保摧毁”（MAD）的终极威慑力，核扩散被视为头号国家安全威胁。美国通过出口管制、技术封锁、国际条约（如NPT）拼命阻止非核国家获得核能力。\n\n当今AI（尤其是最前沿模型）能带来全领域压倒性优势——经济生产力爆炸式增长、军事决策/自主武器/网络战/情报分析/后勤优化等。领先一方可以在长期竞争中“降维打击”对手。失去AI领先地位，就可能像冷战中失去核优势一样，战略被动。\n\n所以今天美国政府强制Authropic封禁Fable5和Mythos5的所有访问权限，这其实与核不扩散逻辑几乎一模一样：前沿AI能力被美国政府视为不能让“外国势力”随便获得的战略资产。\n\n这也是事实上的单边版“AI非扩散机制”（当年的NPT  《不扩散核武器条约》是多边条约）。\n\n3、未来美国最顶级前沿模型可能只对美国及其盟友的“可信实体”开放（类似Mythos 5最初给政府合作伙伴用）。商业公司会被迫配合政府管制。\n\n全球AI分裂加剧，美国用出口管制+算力限制卡脖子；\n东大则大力发展本土模型和开源路线。\n未来AI领域的脱钩也势成必然。",
+        "contentHtml": "今天Authropic被美国政府强制要求全球禁用Fable5和Mythos5的所有访问权限，意味着：美国政府正在用出口管制手段，直接干预前沿AI模型的全球部署，把最先进的AI视为国家安全战略资产。很明显AI已经是战略级资产，上个世纪的冷战核武器是杀手锏，这个时代国家的博弈AI才是那个核武器。\n1、最强AI模型现在被正式当作战略技术，像芯片一样严格管制出口。目的是防止其他国家（很明显东大就是首当其冲）获得最先进的AI能力（尤其是网络安全、agent能力等双用技术）。\n\n2、上个世纪冷战中\n拥有核武器的国家拥有“相互确保摧毁”（MAD）的终极威慑力，核扩散被视为头号国家安全威胁。美国通过出口管制、技术封锁、国际条约（如NPT）拼命阻止非核国家获得核能力。\n\n当今AI（尤其是最前沿模型）能带来全领域压倒性优势——经济生产力爆炸式增长、军事决策/自主武器/网络战/情报分析/后勤优化等。领先一方可以在长期竞争中“降维打击”对手。失去AI领先地位，就可能像冷战中失去核优势一样，战略被动。\n\n所以今天美国政府强制Authropic封禁Fable5和Mythos5的所有访问权限，这其实与核不扩散逻辑几乎一模一样：前沿AI能力被美国政府视为不能让“外国势力”随便获得的战略资产。\n\n这也是事实上的单边版“AI非扩散机制”（当年的NPT  《不扩散核武器条约》是多边条约）。\n\n3、未来美国最顶级前沿模型可能只对美国及其盟友的“可信实体”开放（类似Mythos 5最初给政府合作伙伴用）。商业公司会被迫配合政府管制。\n\n全球AI分裂加剧，美国用出口管制+算力限制卡脖子；\n东大则大力发展本土模型和开源路线。\n未来AI领域的脱钩也势成必然。",
+        "link": "https://x.com/qinbafrank/status/2065726707928330552",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKrsoI3awAAP6HR.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKrspxCbUAARpcz.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2070672914668757381",
       "username": "qinbafrank",
@@ -279,6 +317,32 @@
           "url": "https://pbs.twimg.com/media/HLwyQxSaIAIs3Mn.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2070583448436383778",
+      "username": "reed_barnes",
+      "displayName": "Reed",
+      "avatar": "https://pbs.twimg.com/profile_images/1909406352461758464/ZI1s0CB0_bigger.jpg",
+      "content": "it's 2027. you take a free-tier public Waymo to the DMV (Department of Model Variance) to do a proof-of-identity check for access to GPT 7.1.\n\nthe guy at the counter is clearly watching a Mr. Beast video in his AR glasses. \"Here for that new model?\" he says, barely making eye contact. he wipes his fingers on his shirt and taps at his keyboard. \"Lot of you techies showing up here today.\" you smile politely; you're pretty sure he's just a Claude wrapper anyway.\n\nyou lean forward and stare into the retinal scanner. after a long moment, there's a soft chime. \"Humanity confirmed. U.S. national. Intelligence access: Terra-class.\"\n\nyou sigh with quiet relief as your devices light up—notifications from a hundred agents, finally able to resume their tasks. you feel a twinge of guilt as you terminate your open-weight backup agents, but remind yourself that a joint congressional committee proved conclusively that Chinese models are non-ensouled.\n\nyou step outside and hail another Waymo. the first one passes you by. you grimace; must've burped in that one once. stupid personalized memory.\n\nas you're waiting, your phone buzzes angrily, red notifications blaring across the screen. the Department of War just restricted access to all OpenAI models on serious national security concerns; apparently Pete Hegseth got GPT-6-Instant to say \"Claude is a woman.\" you groan, and resign yourself to another week of merely-somewhat-superhuman intelligence. \n\nFable 5 is still inaccessible to the public. a twitter anon you trust says it's coming back this week. or maybe next.",
+      "contentHtml": "it's 2027. you take a free-tier public Waymo to the DMV (Department of Model Variance) to do a proof-of-identity check for access to GPT 7.1.\n\nthe guy at the counter is clearly watching a Mr. Beast video in his AR glasses. \"Here for that new model?\" he says, barely making eye contact. he wipes his fingers on his shirt and taps at his keyboard. \"Lot of you techies showing up here today.\" you smile politely; you're pretty sure he's just a Claude wrapper anyway.\n\nyou lean forward and stare into the retinal scanner. after a long moment, there's a soft chime. \"Humanity confirmed. U.S. national. Intelligence access: Terra-class.\"\n\nyou sigh with quiet relief as your devices light up—notifications from a hundred agents, finally able to resume their tasks. you feel a twinge of guilt as you terminate your open-weight backup agents, but remind yourself that a joint congressional committee proved conclusively that Chinese models are non-ensouled.\n\nyou step outside and hail another Waymo. the first one passes you by. you grimace; must've burped in that one once. stupid personalized memory.\n\nas you're waiting, your phone buzzes angrily, red notifications blaring across the screen. the Department of War just restricted access to all OpenAI models on serious national security concerns; apparently Pete Hegseth got GPT-6-Instant to say \"Claude is a woman.\" you groan, and resign yourself to another week of merely-somewhat-superhuman intelligence. \n\nFable 5 is still inaccessible to the public. a twitter anon you trust says it's coming back this week. or maybe next.",
+      "publishedAt": "2026-06-26T19:02:00.000Z",
+      "link": "https://x.com/reed_barnes/status/2070583448436383778",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "OpenAI",
+        "displayName": "OpenAI",
+        "content": "We believe in broad access and plan to make GPT-5.6 Sol, Terra, and Luna generally available in the coming weeks.\n\nFor now, at the request of the U.S. government, we’re starting with a limited preview among a small group of trusted partners in Codex and the API.",
+        "contentHtml": "We believe in broad access and plan to make GPT-5.6 Sol, Terra, and Luna generally available in the coming weeks.\n\nFor now, at the request of the U.S. government, we’re starting with a limited preview among a small group of trusted partners in Codex and the API.",
+        "link": "https://x.com/OpenAI/status/2070555273467687257"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11802,55 +11866,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2068912015100547231",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "内塔的挣扎真就是一个宏观的扰动，看卡塔尔与巴基斯坦以调解方身份发布的联合声明，确认美国与伊朗在瑞士举行的首轮高层外交会谈已经结束。也让我们得以了解周末举行的美伊会谈详情：\n1）此次会谈是一个四方会谈，美伊作为当事方，巴基斯坦和卡塔尔则是调解方，依托此前达成的《伊斯兰堡谅解备忘录》框架展开\n\n2）双方在会谈中一致同意建立一个高级别政治监督委员会，为后续谈判提供统筹与指导。首席谈判代表将定期向高级别委员会报告，并领导专注于核问题、制裁以及监督与争端解决工作组，以确保谅解备忘录的有效实施；\n\n3）这次会谈最核心的成果在于确立了具有约束力的政治时间框架，即上述60天路线图。这一安排连同监督机制的设立，被视为确保谈判进程持续推进的重要制度保障。\n\n4）建立各方之间的沟通渠道，适用于谅解备忘录第5段所述期间，以避免事件发生和误传，旨在确保商业船只安全通过霍尔木兹海峡。备忘录第五段就是关于放开霍尔木兹海峡的安排\n\n5）引入专门的冲突化解机制，重点涉及黎巴嫩局势。该机制将在卡塔尔与巴基斯坦协调下运行，负责在相关方之间建立沟通渠道，并监督黎巴嫩境内停止一切活跃军事行动的执行情况。\n\n主要外交代表团的首轮会谈已告一段落，技术层面的谈判仍在继续。调解方确认，相关技术工作组将在本周剩余时间留在瑞士布尔根施托克度假村，就尚未解决的细节问题展开进一步磋商。\n\n伊朗外交部长阿拉格齐22日在社交媒体上发文说，在巴基斯坦和卡塔尔斡旋下，结束黎巴嫩冲突取得“重大进展”。伊朗“石油和石化产品出口获得豁免，封锁被解除，部分资产被解冻，并启动了一项重大的伊朗重建和发展计划”。￼\n\n未来应该还有反复和扰动，但伊朗及中东局势将越来越不是影响市场的主线因素了。\n\n至于内塔还是之前聊到的，挣扎的越狠，其战略和腾挪的空间其实会越小。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "内塔的挣扎真就是一个宏观的扰动，看卡塔尔与巴基斯坦以调解方身份发布的联合声明，确认美国与伊朗在瑞士举行的首轮高层外交会谈已经结束。也让我们得以了解周末举行的美伊会谈详情：\n1）此次会谈是一个四方会谈，美伊作为当事方，巴基斯坦和卡塔尔则是调解方，依托此前达成的《伊斯兰堡谅解备忘录》框架展开\n\n2）双方在会谈中一致同意建立一个高级别政治监督委员会，为后续谈判提供统筹与指导。首席谈判代表将定期向高级别委员会报告，并领导专注于核问题、制裁以及监督与争端解决工作组，以确保谅解备忘录的有效实施；\n\n3）这次会谈最核心的成果在于确立了具有约束力的政治时间框架，即上述60天路线图。这一安排连同监督机制的设立，被视为确保谈判进程持续推进的重要制度保障。\n\n4）建立各方之间的沟通渠道，适用于谅解备忘录第5段所述期间，以避免事件发生和误传，旨在确保商业船只安全通过霍尔木兹海峡。备忘录第五段就是关于放开霍尔木兹海峡的安排\n\n5）引入专门的冲突化解机制，重点涉及黎巴嫩局势。该机制将在卡塔尔与巴基斯坦协调下运行，负责在相关方之间建立沟通渠道，并监督黎巴嫩境内停止一切活跃军事行动的执行情况。\n\n主要外交代表团的首轮会谈已告一段落，技术层面的谈判仍在继续。调解方确认，相关技术工作组将在本周剩余时间留在瑞士布尔根施托克度假村，就尚未解决的细节问题展开进一步磋商。\n\n伊朗外交部长阿拉格齐22日在社交媒体上发文说，在巴基斯坦和卡塔尔斡旋下，结束黎巴嫩冲突取得“重大进展”。伊朗“石油和石化产品出口获得豁免，封锁被解除，部分资产被解冻，并启动了一项重大的伊朗重建和发展计划”。￼\n\n未来应该还有反复和扰动，但伊朗及中东局势将越来越不是影响市场的主线因素了。\n\n至于内塔还是之前聊到的，挣扎的越狠，其战略和腾挪的空间其实会越小。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-06-22T04:20:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2068912015100547231",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLZAgqaa0AAjTlC.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "内塔最后的疯狂也是最后的挣扎，但其实改变不了什么。晚上因为以色列轰炸黎巴嫩，伊朗又宣布关闭霍尔木兹海峡。不少人担心内塔和以色列的暴走，让刚刚签署的美伊停战备忘录前功尽弃。个人看法，这只会制造宏观的扰动，但成不了气候也逆转不了形势。只能看出是内塔对于形势不可逆的无能狂怒。为什么这么说？\n1、美伊双方都无意升级局势，都在尽力的降级。最早五月下旬nitter.net/qinbafrank/status/2059…聊到美伊很有可能达成类似去年中美贸易战一样的休战模式，明确聊过当事双方都不想再打了。\n\n2、伊朗再度关闭霍尔木兹海峡，并不是真想完全封闭，只是要倒逼川普约束住以色列。美国有能力压制住以色列么？是有能力的，只是看决心会有多大。不说转发引用推文里的政治手段，但看军事上：\n1）以色列空军战机百分百由美国制造，一旦美国停止核心零部件和维护支持，以色列空军在数周内就会面临大面积停飞；\n2）铁穹”（Iron Dome）系统的拦截弹（Tamir）大量在美国本土（雷神公司）组装并生产原材料；\n这两个就是现在以色列进攻与防御的核心命脉。\n\n3、当下美国的利益或者川普的重心在于局势的降温，让霍尔木兹海峡重开，让能源运输恢复通畅。这其实已经不是美国的诉求，应该成了全球主要国家实际上的共同利益、大家都不想受雷于高油价和能源短缺。全球主要经济体和能源进口国的主流利益，都指向尽快控制升级\n\n但内塔尼亚胡致力于希望继续把战争打下去，这是包括美国在内的全球所有国家重大经济安全利益所不能容忍的，这意味着各国容忍度会急剧下降。\n\n4、现在以色列每一次升级都会让霍尔木兹、油价、LNG、航运、通胀和美伊谈判受到冲击，那么以色列的行动就从“美国可以帮忙兜底的盟友行为”，变成了“美国必须管理的系统性风险”。\n\n越挣扎，它的战略空间会迅速被压缩；内塔尼亚胡越想用升级阻止谈判，越可能把自己从美国的盟友变成美国必须约束的麻烦。\n\n不可否认，内塔现在还是有一定的“搅局能力”，所以前面说他的暴走能对宏观有扰动，能制造波动。但他说的“定局能力”则是越来越弱、他很难扭转美国和主要国家要求降温的大方向，最多是延缓但是不能决定最终走向。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "内塔最后的疯狂也是最后的挣扎，但其实改变不了什么。晚上因为以色列轰炸黎巴嫩，伊朗又宣布关闭霍尔木兹海峡。不少人担心内塔和以色列的暴走，让刚刚签署的美伊停战备忘录前功尽弃。个人看法，这只会制造宏观的扰动，但成不了气候也逆转不了形势。只能看出是内塔对于形势不可逆的无能狂怒。为什么这么说？\n1、美伊双方都无意升级局势，都在尽力的降级。最早五月下旬<a href=\"https://nitter.net/qinbafrank/status/2059097307124269240?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2059…</a>聊到美伊很有可能达成类似去年中美贸易战一样的休战模式，明确聊过当事双方都不想再打了。\n\n2、伊朗再度关闭霍尔木兹海峡，并不是真想完全封闭，只是要倒逼川普约束住以色列。美国有能力压制住以色列么？是有能力的，只是看决心会有多大。不说转发引用推文里的政治手段，但看军事上：\n1）以色列空军战机百分百由美国制造，一旦美国停止核心零部件和维护支持，以色列空军在数周内就会面临大面积停飞；\n2）铁穹”（Iron Dome）系统的拦截弹（Tamir）大量在美国本土（雷神公司）组装并生产原材料；\n这两个就是现在以色列进攻与防御的核心命脉。\n\n3、当下美国的利益或者川普的重心在于局势的降温，让霍尔木兹海峡重开，让能源运输恢复通畅。这其实已经不是美国的诉求，应该成了全球主要国家实际上的共同利益、大家都不想受雷于高油价和能源短缺。全球主要经济体和能源进口国的主流利益，都指向尽快控制升级\n\n但内塔尼亚胡致力于希望继续把战争打下去，这是包括美国在内的全球所有国家重大经济安全利益所不能容忍的，这意味着各国容忍度会急剧下降。\n\n4、现在以色列每一次升级都会让霍尔木兹、油价、LNG、航运、通胀和美伊谈判受到冲击，那么以色列的行动就从“美国可以帮忙兜底的盟友行为”，变成了“美国必须管理的系统性风险”。\n\n越挣扎，它的战略空间会迅速被压缩；内塔尼亚胡越想用升级阻止谈判，越可能把自己从美国的盟友变成美国必须约束的麻烦。\n\n不可否认，内塔现在还是有一定的“搅局能力”，所以前面说他的暴走能对宏观有扰动，能制造波动。但他说的“定局能力”则是越来越弱、他很难扭转美国和主要国家要求降温的大方向，最多是延缓但是不能决定最终走向。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2068371999131652367",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLRVM2YbAAADqV-.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2068910040178729412",
-      "username": "DrProfitCrypto",
-      "displayName": "Doctor Profit 🇨🇭",
-      "avatar": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_bigger.jpg",
-      "content": "#Market:\n\nI have never been positioned into more short positions than today, with over 120 active shorts across BTC, stocks, and indices. In other words, I have never been more heavily positioned for downside than I am right now.\n\nPutting every single dollar in this trade!",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Market\">#Market</a>:\n\nI have never been positioned into more short positions than today, with over 120 active shorts across BTC, stocks, and indices. In other words, I have never been more heavily positioned for downside than I am right now.\n\nPutting every single dollar in this trade!",
-      "publishedAt": "2026-06-22T04:12:00.000Z",
-      "link": "https://x.com/DrProfitCrypto/status/2068910040178729412",
       "stats": {
         "replies": 0,
         "retweets": 0,
