@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T07:20:07.222Z",
+  "lastUpdated": "2026-06-28T09:02:53.524Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,155 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 628,
-    "successUsers": 31,
-    "failedUsers": 1
+    "newFetched": 650,
+    "successUsers": 32,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2071151529974006162",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "SpaceX为何收购Mesh？不是SpaceX开始站在光里，其实SpaceX的星间激光网络规模已经非常庞大。前两天美国联邦贸易委员会（FTC）已批准马斯克收购Mesh这笔交易被快速通过，属于SpaceX近期一系列并购动作之一，聊聊这笔收购：\n1、Mesh由三位前SpaceX工程师于2025年创立，创始人曾主导Starlink卫星激光星间链路（Inter-Satellite Laser Links）的设计。核心产品就是面向AI数据中心的高速光学收发器（optical transceiver），用光信号代替传统电信号传输数据。\n\n简单说他们把在SpaceX做卫星激光通信的技术，转化成了地面（和未来太空）数据中心用的光模块。\n\n2、SpaceX为什么要收购它？原因无外乎下面几点：\n1）回核心人才 + 技术 三位创始人是SpaceX Starlink激光通信团队的顶尖工程师。他们离开后把这项技术带到了商业化数据中心领域。现在SpaceX通过收购把人+技术一起收回来，避免技术外流。\n\n2）解决AI数据中心最核心的瓶颈：互联功耗和速度 SpaceX目前正在大规模建设地面AI数据中心（田纳西州、密西西比州等地），并已和Anthropic、Google等签订巨额算力合同。 AI集群里成千上万块GPU之间需要极高带宽、低延迟、低功耗的互联。目前电信号互联已经快到物理极限，而光学互联是公认的下一代解决方案。收购Mesh能直接提升SpaceX自家数据中心的能效和性能。\n\n3）为“太空算力”（Orbital Data Center）战略铺路 SpaceX有明确计划在太空部署大规模算力（用卫星做数据中心）。太空环境有天然优势（太阳能免费、散热好），但最大挑战之一就是节点之间的高速通信。\n 而激光/光通信正是SpaceX最擅长的领域（Starlink已经大规模验证）。Mesh的技术本来就源于Starlink激光链路，收购后可以无缝适配到太空场景，实现太空-太空、太空-地面高效光互联。\n\n3、其实还有最重要的因素，很多人忽略SpaceX其实在激光领域布局和应用是最深最广的。\n1）今年spacex的ipo文件就披露截止3月份，拥有超过23,000 inter-satellite lasers」指的是激光器/激光终端数量。一颗卫星上有 3 个激光器，每个激光器和对端的另一个激光器配对，才形成一条可用链路。所以「23,000+ 激光器」对应的活跃星链链路数大致是 1 万条量级。\n\n2）星间激光器（ISL）已经被明确列入产线的标准组件，现在是一个稳态、规模化的工业品，和电源、推进、相控阵天线放在同一层级。\n\n3）SpaceX在ipo文件里明确说到算力卫星最早28年部署，真正值得关注的是轨道选择。太阳同步轨道意味着 AI 算力卫星沿着特定的极轨轨道带分布，过境时间短，不可能像同步轨道卫星那样始终凝视一个地面站，所有数据流量都必须依靠星间激光网络回传。换句话说，Starlink 的激光网络是太空数据中心的回程骨干。\n\n4）SpaceX已将其星链（Starlink）星间激光链路（ISL）技术对外商业化输出的，命名为Plaser（全称 Plug and Plaser）。旨在为其他卫星公司提供“空间激光骨干网”的接入服务。第三方卫星公司可以购买这些激光硬件，并将其安装在自己的卫星上。\n\n第三方卫星通过 Plaser 的激光终端，接入 SpaceX 的星链星间激光网状网络。通过该网络，第三方卫星可以将数据回传至地球上的任意星链地面站，从而绕开第三方自建星间链路和地面站的成本。\n\nPlaser 已于 2024 年 9 月通过 Polaris Dawn 任务完成了首次在轨验证，并已有商业客户（如 Vast 商业空间站）签约使用，标志着该项目已从技术验证阶段正式走向商业化应用。\n\nSpaceX 通过出租星链网络的闲置激光通信容量实现商业化变现，将星链从单纯的卫星互联网服务扩展为空间激光通信的“网络即服务”提供商。\n\n5）通过Plaser，SpaceX 在把激光通信的事实标准向自家产品收拢。要接入Plaser，第三方卫星就得在 SpaceX 定义的硬件接口、电气接口、协议层之内做事。这个角度SpaceX它既是网络运营者，也是接口定义者，还是潜在的硬件竞争者。\n\n对一部分独立做激光终端的公司而言，Plaser 是个新客户；对另一部分计划自建星间链路网络的卫星运营商而言，Plaser 改变了他们的成本曲线。\n\n6）还有一个更长线的判断值得在这里提一下。SpaceX 在把 Plaser 接口推向「事实标准」。\n美国太空发展局 SDA 的 OCT（Optical Communication Terminal）系列规范是当前美方政府卫星激光终端的主流标准之一，已经规定了链路速率、调制格式、波长窗口等关键参数。\n\nPlaser 接口和 OCT 标准之间是否兼容、谁主导成为商业卫星的事实标准，会在未来 1-2 年里逐渐显现。\n\n所以这一次收购、并不是SpaceX第一次站在了光里，而是对他过去星间激光通信网络的一次增强，收购关键核心人才、为了算力卫星部署来铺路。",
+      "contentHtml": "SpaceX为何收购Mesh？不是SpaceX开始站在光里，其实SpaceX的星间激光网络规模已经非常庞大。前两天美国联邦贸易委员会（FTC）已批准马斯克收购Mesh这笔交易被快速通过，属于SpaceX近期一系列并购动作之一，聊聊这笔收购：\n1、Mesh由三位前SpaceX工程师于2025年创立，创始人曾主导Starlink卫星激光星间链路（Inter-Satellite Laser Links）的设计。核心产品就是面向AI数据中心的高速光学收发器（optical transceiver），用光信号代替传统电信号传输数据。\n\n简单说他们把在SpaceX做卫星激光通信的技术，转化成了地面（和未来太空）数据中心用的光模块。\n\n2、SpaceX为什么要收购它？原因无外乎下面几点：\n1）回核心人才 + 技术 三位创始人是SpaceX Starlink激光通信团队的顶尖工程师。他们离开后把这项技术带到了商业化数据中心领域。现在SpaceX通过收购把人+技术一起收回来，避免技术外流。\n\n2）解决AI数据中心最核心的瓶颈：互联功耗和速度 SpaceX目前正在大规模建设地面AI数据中心（田纳西州、密西西比州等地），并已和Anthropic、Google等签订巨额算力合同。 AI集群里成千上万块GPU之间需要极高带宽、低延迟、低功耗的互联。目前电信号互联已经快到物理极限，而光学互联是公认的下一代解决方案。收购Mesh能直接提升SpaceX自家数据中心的能效和性能。\n\n3）为“太空算力”（Orbital Data Center）战略铺路 SpaceX有明确计划在太空部署大规模算力（用卫星做数据中心）。太空环境有天然优势（太阳能免费、散热好），但最大挑战之一就是节点之间的高速通信。\n 而激光/光通信正是SpaceX最擅长的领域（Starlink已经大规模验证）。Mesh的技术本来就源于Starlink激光链路，收购后可以无缝适配到太空场景，实现太空-太空、太空-地面高效光互联。\n\n3、其实还有最重要的因素，很多人忽略SpaceX其实在激光领域布局和应用是最深最广的。\n1）今年spacex的ipo文件就披露截止3月份，拥有超过23,000 inter-satellite lasers」指的是激光器/激光终端数量。一颗卫星上有 3 个激光器，每个激光器和对端的另一个激光器配对，才形成一条可用链路。所以「23,000+ 激光器」对应的活跃星链链路数大致是 1 万条量级。\n\n2）星间激光器（ISL）已经被明确列入产线的标准组件，现在是一个稳态、规模化的工业品，和电源、推进、相控阵天线放在同一层级。\n\n3）SpaceX在ipo文件里明确说到算力卫星最早28年部署，真正值得关注的是轨道选择。太阳同步轨道意味着 AI 算力卫星沿着特定的极轨轨道带分布，过境时间短，不可能像同步轨道卫星那样始终凝视一个地面站，所有数据流量都必须依靠星间激光网络回传。换句话说，Starlink 的激光网络是太空数据中心的回程骨干。\n\n4）SpaceX已将其星链（Starlink）星间激光链路（ISL）技术对外商业化输出的，命名为Plaser（全称 Plug and Plaser）。旨在为其他卫星公司提供“空间激光骨干网”的接入服务。第三方卫星公司可以购买这些激光硬件，并将其安装在自己的卫星上。\n\n第三方卫星通过 Plaser 的激光终端，接入 SpaceX 的星链星间激光网状网络。通过该网络，第三方卫星可以将数据回传至地球上的任意星链地面站，从而绕开第三方自建星间链路和地面站的成本。\n\nPlaser 已于 2024 年 9 月通过 Polaris Dawn 任务完成了首次在轨验证，并已有商业客户（如 Vast 商业空间站）签约使用，标志着该项目已从技术验证阶段正式走向商业化应用。\n\nSpaceX 通过出租星链网络的闲置激光通信容量实现商业化变现，将星链从单纯的卫星互联网服务扩展为空间激光通信的“网络即服务”提供商。\n\n5）通过Plaser，SpaceX 在把激光通信的事实标准向自家产品收拢。要接入Plaser，第三方卫星就得在 SpaceX 定义的硬件接口、电气接口、协议层之内做事。这个角度SpaceX它既是网络运营者，也是接口定义者，还是潜在的硬件竞争者。\n\n对一部分独立做激光终端的公司而言，Plaser 是个新客户；对另一部分计划自建星间链路网络的卫星运营商而言，Plaser 改变了他们的成本曲线。\n\n6）还有一个更长线的判断值得在这里提一下。SpaceX 在把 Plaser 接口推向「事实标准」。\n美国太空发展局 SDA 的 OCT（Optical Communication Terminal）系列规范是当前美方政府卫星激光终端的主流标准之一，已经规定了链路速率、调制格式、波长窗口等关键参数。\n\nPlaser 接口和 OCT 标准之间是否兼容、谁主导成为商业卫星的事实标准，会在未来 1-2 年里逐渐显现。\n\n所以这一次收购、并不是SpaceX第一次站在了光里，而是对他过去星间激光通信网络的一次增强，收购关键核心人才、为了算力卫星部署来铺路。",
+      "publishedAt": "2026-06-28T08:39:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2071151529974006162",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HL41Vg4aYAE24zo.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HL41Vg9b0AAkbVg.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "SpaceX与AI编程工具Cursor的开发商Anysphere签署最终合并协议，以全股票交易方式将其收购，Cursor隐含估值达600亿美元。Cursor股东将按约定比例换得SpaceX A类普通股，交易预计2026年Q3完成。不得不说上市老马前后的三个动作完全改变了市场对SpaceX AI业务的预期：\n1）与authropic和谷歌的算力租赁合作，带来一年接近250亿美金的现金流，未来AI这块业务完全能扭亏为盈；\n2）之前跟Cursor的合作到最终完全收购，也能极大改变市场对SpaceX AI业务的预期。",
+        "contentHtml": "SpaceX与AI编程工具Cursor的开发商Anysphere签署最终合并协议，以全股票交易方式将其收购，Cursor隐含估值达600亿美元。Cursor股东将按约定比例换得SpaceX A类普通股，交易预计2026年Q3完成。不得不说上市老马前后的三个动作完全改变了市场对SpaceX AI业务的预期：\n1）与authropic和谷歌的算力租赁合作，带来一年接近250亿美金的现金流，未来AI这块业务完全能扭亏为盈；\n2）之前跟Cursor的合作到最终完全收购，也能极大改变市场对SpaceX AI业务的预期。",
+        "link": "https://x.com/qinbafrank/status/2066865770643312993",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HK77deqasAAw3HX.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071142819125956998",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "BTC确立底部，MSTR是很好的标的，因为：\n\n其是BTC的杠杆ETF，涨幅大于BTC",
+      "contentHtml": "BTC确立底部，MSTR是很好的标的，因为：\n\n其是BTC的杠杆ETF，涨幅大于BTC",
+      "publishedAt": "2026-06-28T08:05:00.000Z",
+      "link": "https://x.com/follow_clues/status/2071142819125956998",
+      "quote": {
+        "username": "PhyrexNi",
+        "displayName": "Phyrex",
+        "content": "mNAV 小于 1 的 MSTR 值不值得买？折扣买 Bitcoin 的逻辑成立吗？\n\n最近 $MSTR 的 mNAV 跌到了 1 以下，很多小伙伴开始讨论现在买入 MSTR 是否就相当于打折买了 bitcoin:native  。\n\n我聊聊自己的观点，首先这个说法有一定道理，但不能只看 mNAV 这一个数字，毕竟“mNAV”的统计方式未必是和想象中一样的。\n\n在 Strategy 自己的 mNAV 计算中。MSTR 普通股市值是 295.4 亿美元，债务是 67.54 亿美元，优先股是 154.67 亿美元，现金储备是 14 亿美元，所以企业价值大概是 503.61 亿美元。\n\nMSTR 持有的 BTC 储备价值是 509.93 亿美元，用企业价值除以 BTC 储备价值，就是 0.99。这代表整个 MSTR 资本结构的市场定价，已经低于它持有的 BTC 市值。\n\n但这个 mNAV 很容易被误解。\n\n这个 0.99 看的不是普通股股东能拿到多少 BTC，也不是普通股的清算价值。MSTR 普通股排在债务和优先股后面，真正属于普通股股东的应该是剩余价值。更接近的算法应该是 ：\n\n普通股剩余净值 = BTC 市值 + 现金 + 软件业务价值 + 其它资产 - 债务 - 优先股清算权益 - 已累计未支付股息 - 其它负债\n\n如果只用 Strategy 计算方式，先不算软件业务价值，也不算应计股息和其它负债，剩下大概 301.72 亿美元。MSTR 当前普通股市值是 295.4 亿美元。最后的结果折价大概 6.32 亿美元，折价幅度约 2.1%。\n\n所以“折扣买 Bitcoin”这个逻辑有基础，但折扣并没有很多人想象得那么大。2% 左右的折价，对于 MSTR 这种带有债务、优先股、年化股息、未来融资和股权稀释风险的结构来说，不能算很便宜。\n\n更何况这里还没扣应计股息和其它负债，也没有把未来继续融资的成本算进去。\n\nMSTR 最关键的问题在于，BTC 本身没有现金流，但 MSTR 的资本结构需要现金流。债务有到期日，优先股有股息，美元储备会消耗，普通股 ATM 依赖市场愿意接盘。\n\n只要 BTC 价格上涨，mNAV 回到 1 以上，普通股融资窗口重新打开，优先股价格稳定，MSTR 这套模式就还能继续运转。但如果 BTC 继续下跌，mNAV 长时间低于 1，普通股继续低迷，优先股也承压，市场就会开始重新定价 MSTR 的信用风险。\n\n所以现在买 MSTR 到底是不是好机会，取决于你到底想投资什么？\n\n如果只是想买 BTC，直接买 BTC 更简单。\n\n如果买 MSTR，相当于买加了杠杆的 BTC ，意味着准备做多 BTC ，并且还要认为目前 MSTR 相对 BTC 是低估了，这时候买入 MSTR 相当于折扣买入 BTC 。\n\n虽然两者本质都是做多 Bitcoin ，但形式上稍微有些区别，我目前的关注是，看本周 @saylor 会有什么动作，如果和我预期的一样，开始蜷缩过冬，通过普通股 ATM ，并且少量购买 BTC ，更多囤积现金的话，我会准备买入一些 MSTR 和 $STRC 。\n\n当然仅限我个人，这不是一个投资建议。\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "contentHtml": "mNAV 小于 1 的 MSTR 值不值得买？折扣买 Bitcoin 的逻辑成立吗？\n\n最近 <a href=\"/search?f=tweets&q=%23MSTR\">$MSTR</a> 的 mNAV 跌到了 1 以下，很多小伙伴开始讨论现在买入 MSTR 是否就相当于打折买了 bitcoin:native  。\n\n我聊聊自己的观点，首先这个说法有一定道理，但不能只看 mNAV 这一个数字，毕竟“mNAV”的统计方式未必是和想象中一样的。\n\n在 Strategy 自己的 mNAV 计算中。MSTR 普通股市值是 295.4 亿美元，债务是 67.54 亿美元，优先股是 154.67 亿美元，现金储备是 14 亿美元，所以企业价值大概是 503.61 亿美元。\n\nMSTR 持有的 BTC 储备价值是 509.93 亿美元，用企业价值除以 BTC 储备价值，就是 0.99。这代表整个 MSTR 资本结构的市场定价，已经低于它持有的 BTC 市值。\n\n但这个 mNAV 很容易被误解。\n\n这个 0.99 看的不是普通股股东能拿到多少 BTC，也不是普通股的清算价值。MSTR 普通股排在债务和优先股后面，真正属于普通股股东的应该是剩余价值。更接近的算法应该是 ：\n\n普通股剩余净值 = BTC 市值 + 现金 + 软件业务价值 + 其它资产 - 债务 - 优先股清算权益 - 已累计未支付股息 - 其它负债\n\n如果只用 Strategy 计算方式，先不算软件业务价值，也不算应计股息和其它负债，剩下大概 301.72 亿美元。MSTR 当前普通股市值是 295.4 亿美元。最后的结果折价大概 6.32 亿美元，折价幅度约 2.1%。\n\n所以“折扣买 Bitcoin”这个逻辑有基础，但折扣并没有很多人想象得那么大。2% 左右的折价，对于 MSTR 这种带有债务、优先股、年化股息、未来融资和股权稀释风险的结构来说，不能算很便宜。\n\n更何况这里还没扣应计股息和其它负债，也没有把未来继续融资的成本算进去。\n\nMSTR 最关键的问题在于，BTC 本身没有现金流，但 MSTR 的资本结构需要现金流。债务有到期日，优先股有股息，美元储备会消耗，普通股 ATM 依赖市场愿意接盘。\n\n只要 BTC 价格上涨，mNAV 回到 1 以上，普通股融资窗口重新打开，优先股价格稳定，MSTR 这套模式就还能继续运转。但如果 BTC 继续下跌，mNAV 长时间低于 1，普通股继续低迷，优先股也承压，市场就会开始重新定价 MSTR 的信用风险。\n\n所以现在买 MSTR 到底是不是好机会，取决于你到底想投资什么？\n\n如果只是想买 BTC，直接买 BTC 更简单。\n\n如果买 MSTR，相当于买加了杠杆的 BTC ，意味着准备做多 BTC ，并且还要认为目前 MSTR 相对 BTC 是低估了，这时候买入 MSTR 相当于折扣买入 BTC 。\n\n虽然两者本质都是做多 Bitcoin ，但形式上稍微有些区别，我目前的关注是，看本周 <a href=\"/saylor\" title=\"Michael Saylor\">@saylor</a> 会有什么动作，如果和我预期的一样，开始蜷缩过冬，通过普通股 ATM ，并且少量购买 BTC ，更多囤积现金的话，我会准备买入一些 MSTR 和 <a href=\"/search?f=tweets&q=%23STRC\">$STRC</a> 。\n\n当然仅限我个人，这不是一个投资建议。\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "link": "https://x.com/PhyrexNi/status/2071125696340967431",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HL304lBbgAAlvJx.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071138077406539822",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "补充：这种朋友的思路就是每个代币在早期买入 1-2k，近七天的代币胜率仅 37.5%，此前的战绩都一般，近期主要就靠 ANSEM 这个代币了",
+      "contentHtml": "补充：这种朋友的思路就是每个代币在早期买入 1-2k，近七天的代币胜率仅 37.5%，此前的战绩都一般，近期主要就靠 ANSEM 这个代币了",
+      "publishedAt": "2026-06-28T07:46:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2071138077406539822",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HL4orkBaYAAyqos.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HL4pBOdboAAuIJi.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071136906495373414",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "啊哈，11 天前发射的 $ANSEM 今天速通到 6000 万美金了📈\n\n地址 CxCTV…ZrdtT 在该 Meme 发射后 2 小时开始买入，仅花费 2330 美元以 $0.0001638 建仓，现已以 $0.02041 止盈 33.5% 的持仓，累计收益达 65.9 万美元，回报率 28295.9%\n\n钱包地址 debot.ai/address/solana/CxCT…",
+      "contentHtml": "啊哈，11 天前发射的 <a href=\"/search?f=tweets&q=%23ANSEM\">$ANSEM</a> 今天速通到 6000 万美金了📈\n\n地址 CxCTV…ZrdtT 在该 Meme 发射后 2 小时开始买入，仅花费 2330 美元以 $0.0001638 建仓，现已以 $0.02041 止盈 33.5% 的持仓，累计收益达 65.9 万美元，回报率 28295.9%\n\n钱包地址 <a href=\"https://debot.ai/address/solana/CxCTVjvgK3bWcgavMKo8PushR8ycw1atrWiSTruZrdtT?ref=174084\">debot.ai/address/solana/CxCT…</a>",
+      "publishedAt": "2026-06-28T07:41:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2071136906495373414",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HL4n6v7aEAAnxuU.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071134539037262108",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "黑莓周五创新高了，特别是周五市场都还很动荡算是不容易。五月初以来聊过很多篇，这里再聊聊几个点：\n1、QNX的商业模式与普通企业软件不同。它不是单纯靠销售账号、订阅席位、后台管理系统来扩张，而是嵌入汽车、工业设备、机器人、医疗设备等安全关键系统。客户一旦选用实时操作系统，后续替换成本很高，认证周期很长，软件迁移风险也很大。这类业务的收入兑现节奏不一定快，但生命周期更长，客户黏性更强，长期现金流更容易被重新评估。\n\n2、之前披露的接近10亿美金的积压订单，这个数字不等于马上进账，但它改变了投资者对QNX天花板的测算。过去BlackBerry的定价逻辑偏“安全软件+转型折价”，估值很容易被低增长预期压住；现在QNX让市场看到另一种可能：软件定义汽车和边缘AI设备的底层安全授权平台。\n\n3、只要QNX收入继续兑现，未来几个季度的研究员模型里，BB就不会再只被放进网络安全公司的篮子里，而会被拿去和软件定义汽车、嵌入式系统、工业边缘计算这些资产一起讨论。\n\n4、资金扩散也是一个原因，整个产业链上还是最强势当然也是最拥挤，资金自然会寻找第二层扩散方向。软件定义汽车、机器人、工业智能化、边缘AI，正在成为新的风险偏好承接点。它们不像GPU那样直接受益于资本开支爆发，却代表AI从数据中心走向真实设备的下一步。",
+      "contentHtml": "黑莓周五创新高了，特别是周五市场都还很动荡算是不容易。五月初以来聊过很多篇，这里再聊聊几个点：\n1、QNX的商业模式与普通企业软件不同。它不是单纯靠销售账号、订阅席位、后台管理系统来扩张，而是嵌入汽车、工业设备、机器人、医疗设备等安全关键系统。客户一旦选用实时操作系统，后续替换成本很高，认证周期很长，软件迁移风险也很大。这类业务的收入兑现节奏不一定快，但生命周期更长，客户黏性更强，长期现金流更容易被重新评估。\n\n2、之前披露的接近10亿美金的积压订单，这个数字不等于马上进账，但它改变了投资者对QNX天花板的测算。过去BlackBerry的定价逻辑偏“安全软件+转型折价”，估值很容易被低增长预期压住；现在QNX让市场看到另一种可能：软件定义汽车和边缘AI设备的底层安全授权平台。\n\n3、只要QNX收入继续兑现，未来几个季度的研究员模型里，BB就不会再只被放进网络安全公司的篮子里，而会被拿去和软件定义汽车、嵌入式系统、工业边缘计算这些资产一起讨论。\n\n4、资金扩散也是一个原因，整个产业链上还是最强势当然也是最拥挤，资金自然会寻找第二层扩散方向。软件定义汽车、机器人、工业智能化、边缘AI，正在成为新的风险偏好承接点。它们不像GPU那样直接受益于资本开支爆发，却代表AI从数据中心走向真实设备的下一步。",
+      "publishedAt": "2026-06-28T07:32:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2071134539037262108",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "黑莓最新财报出来，今晚大涨成了市场最靓的仔，详细聊聊。\n1、总体财务表现\n1）1QFY2027总营收1.529亿美元（+26% YoY，从1.217亿美元增长）。显著超出市场预期。EPS0.04美元（同比从0.02美元增长；超出预期）。\n2）经营现金流460万美元这是9年来首个正值的Q1财季。\n\n营收大幅增长、盈利能力显著改善、现金流转正，标志转型成功。\n\n2. 各业务细分表现\n1）QNX（核心增长引擎）营收7230万美元（+26% YoY，从5750万美元）。\n创纪录增长，主要来自软件定义车辆（SDV）和嵌入式系统。开发座席（development seats）和版税（royalties）均有贡献。\n合作伙伴：\n包括梅赛德斯-奔驰、宝马、Leapmotor（D19 SUV）等汽车OEM；\n与NVIDIA合作推动安全关键边缘AI（机器人、医疗、工业系统）；\n推出QNX OS for Safety 8.0；\nTKMS用于加拿大潜艇项目等。\n\n2）Secure Communications（安全通信）营收：7360万美元（+24% YoY，从5950万美元）。\n\n亮点：受数字主权解决方案需求和国防预算增加驱动。\nFedRAMP Class D重新认证（AtHoc危机通信）；\n与The IP Company合作海军/军事通信等。\n\n3）Licensing（许可业务）：营收：700万美元（同比增加230万美元，从470万美元）。小但高利润板块，主要为专利许可等。\n\n总结各业务：QNX和Secure Communications贡献绝大部分营收和增长，双双高增长+高利润率，Licensing提供额外利润缓冲。毛利率和EBITDA利润率整体扩张，显示运营杠杆和定价能力提升。\n\n3. 积压订单（Backlog）与可见性\n1）QNX Royalty Backlog（版税积压订单）积压订单约9.50亿美元，Q1 FY2027财报未单独更新，但公司强调“持续添加远超P&L确认金额”，提供多年度耐久增长可见性）。这是黑莓最关键的领先指标，代表已签约但尚未确认的未来版税收入。\n\n2）Secure Communications ARR：2.20亿美元（持续增长，DBNRR 92%显示高客户保留）。\n\n整体可见性：积压订单+ recurring ARR提供强大未来收入管道。QNX backlog增长远超确认收入，表明设计胜出（design wins）和管道强劲。汽车SDV采用加速+非汽车嵌入式扩展，进一步支撑长期增长。积压订单是黑莓估值核心支撑之一\n\n4. 未来展望、战略与指引\nFY2027全年指引（结束于2027年2月28日）：5.94亿–6.21亿美元（较FY2026的5.491亿美元增长约8–13%）。调整后基本EPS：0.16–0.20美元（不含潜在未来回购影响）。\n\n怎么看这份财报：\n1）黑莓已完全转型为软件与网络安全公司，核心业务为QNX（实时操作系统，主要用于汽车软件定义车辆SDV和嵌入式系统）和Secure Communications（安全通信，包括政府/国防级安全解决方案）。\n\n从传统汽车扩展到物理AI、机器人、工业自动化和医疗等领域，多元化降低对单一汽车周期的依赖。\n\n2）财报显示公司延续强劲势头，营收、盈利能力和现金流均超预期，毛利率持续扩张，QNX和Secure Communications双双达成“Rule of 40”（营收同比增长% + 调整后EBITDA利润率% ≥ 40）\n\n3）战略重点（CEO John J. Giamatteo评论）：\nQNX：巩固汽车SDV领导地位（Alloy Kore平台等多年度机会），加速向一般嵌入式市场（物理AI、机器人、工业、医疗）扩张。NVIDIA等合作伙伴强化边缘AI定位。\nSecure Communications：抓住国防预算增加和数字主权需求，扩展政府/关键基础设施业务。\n\n基础比以往任何时候都强，QNX在车辆和嵌入式系统的潜力增强。公司已从转型期转向增长期，两项核心业务都实现了“Rule of 40”业务可持续性。\n\n战略扩展到AI/嵌入式和国防高价值领域。\n\n整体黑莓Q1 FY2027财报非常亮眼：营收超预期增长、盈利转强、现金流改善、毛利率扩张，双核心业务均实现高质量增长。转型成果显著，从昔日手机巨头变为高毛利软件/网络安全公司。\n\n上周末也聊到黑莓正在从转型阵痛中走出来，进入更稳定的增长阶段。\n\n整体个人对黑莓的判断跟5月初没有变化\n“之前与英伟达的深度合作让黑莓进一步打开物理 AI（Physical AI） 的巨大市场。它强化了 BB 从“手机公司”向“安全软件公司”的转型，目标是让 QNX 成为 AI 驱动的机器人/工业/医疗设备里的“看不见的安全基础”。”",
+        "contentHtml": "黑莓最新财报出来，今晚大涨成了市场最靓的仔，详细聊聊。\n1、总体财务表现\n1）1QFY2027总营收1.529亿美元（+26% YoY，从1.217亿美元增长）。显著超出市场预期。EPS0.04美元（同比从0.02美元增长；超出预期）。\n2）经营现金流460万美元这是9年来首个正值的Q1财季。\n\n营收大幅增长、盈利能力显著改善、现金流转正，标志转型成功。\n\n2. 各业务细分表现\n1）QNX（核心增长引擎）营收7230万美元（+26% YoY，从5750万美元）。\n创纪录增长，主要来自软件定义车辆（SDV）和嵌入式系统。开发座席（development seats）和版税（royalties）均有贡献。\n合作伙伴：\n包括梅赛德斯-奔驰、宝马、Leapmotor（D19 SUV）等汽车OEM；\n与NVIDIA合作推动安全关键边缘AI（机器人、医疗、工业系统）；\n推出QNX OS for Safety 8.0；\nTKMS用于加拿大潜艇项目等。\n\n2）Secure Communications（安全通信）营收：7360万美元（+24% YoY，从5950万美元）。\n\n亮点：受数字主权解决方案需求和国防预算增加驱动。\nFedRAMP Class D重新认证（AtHoc危机通信）；\n与The IP Company合作海军/军事通信等。\n\n3）Licensing（许可业务）：营收：700万美元（同比增加230万美元，从470万美元）。小但高利润板块，主要为专利许可等。\n\n总结各业务：QNX和Secure Communications贡献绝大部分营收和增长，双双高增长+高利润率，Licensing提供额外利润缓冲。毛利率和EBITDA利润率整体扩张，显示运营杠杆和定价能力提升。\n\n3. 积压订单（Backlog）与可见性\n1）QNX Royalty Backlog（版税积压订单）积压订单约9.50亿美元，Q1 FY2027财报未单独更新，但公司强调“持续添加远超P&L确认金额”，提供多年度耐久增长可见性）。这是黑莓最关键的领先指标，代表已签约但尚未确认的未来版税收入。\n\n2）Secure Communications ARR：2.20亿美元（持续增长，DBNRR 92%显示高客户保留）。\n\n整体可见性：积压订单+ recurring ARR提供强大未来收入管道。QNX backlog增长远超确认收入，表明设计胜出（design wins）和管道强劲。汽车SDV采用加速+非汽车嵌入式扩展，进一步支撑长期增长。积压订单是黑莓估值核心支撑之一\n\n4. 未来展望、战略与指引\nFY2027全年指引（结束于2027年2月28日）：5.94亿–6.21亿美元（较FY2026的5.491亿美元增长约8–13%）。调整后基本EPS：0.16–0.20美元（不含潜在未来回购影响）。\n\n怎么看这份财报：\n1）黑莓已完全转型为软件与网络安全公司，核心业务为QNX（实时操作系统，主要用于汽车软件定义车辆SDV和嵌入式系统）和Secure Communications（安全通信，包括政府/国防级安全解决方案）。\n\n从传统汽车扩展到物理AI、机器人、工业自动化和医疗等领域，多元化降低对单一汽车周期的依赖。\n\n2）财报显示公司延续强劲势头，营收、盈利能力和现金流均超预期，毛利率持续扩张，QNX和Secure Communications双双达成“Rule of 40”（营收同比增长% + 调整后EBITDA利润率% ≥ 40）\n\n3）战略重点（CEO John J. Giamatteo评论）：\nQNX：巩固汽车SDV领导地位（Alloy Kore平台等多年度机会），加速向一般嵌入式市场（物理AI、机器人、工业、医疗）扩张。NVIDIA等合作伙伴强化边缘AI定位。\nSecure Communications：抓住国防预算增加和数字主权需求，扩展政府/关键基础设施业务。\n\n基础比以往任何时候都强，QNX在车辆和嵌入式系统的潜力增强。公司已从转型期转向增长期，两项核心业务都实现了“Rule of 40”业务可持续性。\n\n战略扩展到AI/嵌入式和国防高价值领域。\n\n整体黑莓Q1 FY2027财报非常亮眼：营收超预期增长、盈利转强、现金流改善、毛利率扩张，双核心业务均实现高质量增长。转型成果显著，从昔日手机巨头变为高毛利软件/网络安全公司。\n\n上周末也聊到黑莓正在从转型阵痛中走出来，进入更稳定的增长阶段。\n\n整体个人对黑莓的判断跟5月初没有变化\n“之前与英伟达的深度合作让黑莓进一步打开物理 AI（Physical AI） 的巨大市场。它强化了 BB 从“手机公司”向“安全软件公司”的转型，目标是让 QNX 成为 AI 驱动的机器人/工业/医疗设备里的“看不见的安全基础”。”",
+        "link": "https://x.com/qinbafrank/status/2070179105543434425",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLrA7C5bcAEicEC.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLrA7C5aoAAjKE3.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2071130846925656114",
       "username": "market_beggar",
@@ -1432,6 +1576,32 @@
             "url": "https://pbs.twimg.com/media/HKrspxCbUAARpcz.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2070690743149285556",
+      "username": "BrendanFoody",
+      "displayName": "Brendan (can/do)",
+      "avatar": "https://pbs.twimg.com/profile_images/1906589691388043264/3ptOiVLO_bigger.jpg",
+      "content": "This is the best way to end America's entrepreneurial culture.\n\nMost founders I know endure 100+ hours of work/week because they are obsessed with their mission and the impact they can have on the world.\n\nThey make < $100K / year, fly economy, and live modest lives. The average American doesn't want their life.\n\nJust because their company's valuation is growing doesn't mean they are \"wealthy\".\n\nWhen you impose a > $100M tax on illiquid stock, they will declare bankruptcy or flee the country.",
+      "contentHtml": "This is the best way to end America's entrepreneurial culture.\n\nMost founders I know endure 100+ hours of work/week because they are obsessed with their mission and the impact they can have on the world.\n\nThey make &lt; $100K / year, fly economy, and live modest lives. The average American doesn't want their life.\n\nJust because their company's valuation is growing doesn't mean they are \"wealthy\".\n\nWhen you impose a &gt; $100M tax on illiquid stock, they will declare bankruptcy or flee the country.",
+      "publishedAt": "2026-06-27T02:08:00.000Z",
+      "link": "https://x.com/BrendanFoody/status/2070690743149285556",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "GavinNewsom",
+        "displayName": "Gavin Newsom",
+        "content": "It's time for a national billionaires tax and a new social contract.\n\n10% of Americans own two-thirds of the wealth. Wages have stagnated. The cost of living has skyrocketed. \n\nThe system is fundamentally broken.\n\nThe federal tax code, a corporate code, and an inheritance code were written for a different set of Americans. \n\nIt’s time for an economic reset.\n\nsubstack.com/@gavinnewsom",
+        "contentHtml": "It's time for a national billionaires tax and a new social contract.\n\n10% of Americans own two-thirds of the wealth. Wages have stagnated. The cost of living has skyrocketed. \n\nThe system is fundamentally broken.\n\nThe federal tax code, a corporate code, and an inheritance code were written for a different set of Americans. \n\nIt’s time for an economic reset.\n\n<a href=\"http://substack.com/@gavinnewsom\">substack.com/@gavinnewsom</a>",
+        "link": "https://x.com/GavinNewsom/status/2070496029280276571"
       },
       "stats": {
         "replies": 0,
@@ -11572,153 +11742,6 @@
       "contentHtml": "大科技是金主爸爸，金主爸爸的股价乱📉，因为市场不喜欢他们写支票。如果你是收支票的，你怕吗？",
       "publishedAt": "2026-06-22T21:38:00.000Z",
       "link": "https://x.com/TJ_Research/status/2069173304993227120",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069152976657318025",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "谢谢大家\n\nIBM尾盘涨飞了",
-      "contentHtml": "谢谢大家\n\nIBM尾盘涨飞了",
-      "publishedAt": "2026-06-22T20:18:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069152976657318025",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLcbqSybkAAUrLs.png"
-        }
-      ],
-      "quote": {
-        "username": "octopusycc",
-        "displayName": "大老师Bugsbunny ｜DRAM UP only",
-        "content": "$BTQ $IONQ $IBM  post-quantum cryptography executive order WH is aiming to issue an EO on quantum tech as soon as this afternoon, according to a person familiar includes post-quantum cryptography WP\n​\n白宫预计今天下午将发布关于量子技术的行政命令，内容包括后量子密码学相关政策。这一消息可能对量子计算相关公司产生影响。",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTQ\">$BTQ</a> <a href=\"/search?f=tweets&q=%23IONQ\">$IONQ</a> <a href=\"/search?f=tweets&q=%23IBM\">$IBM</a>  post-quantum cryptography executive order WH is aiming to issue an EO on quantum tech as soon as this afternoon, according to a person familiar includes post-quantum cryptography WP\n​\n白宫预计今天下午将发布关于量子技术的行政命令，内容包括后量子密码学相关政策。这一消息可能对量子计算相关公司产生影响。",
-        "link": "https://x.com/octopusycc/status/2069086540987539584"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069138005097341401",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$BTC\n\nBy no surprise, \n\n7/7 Mondays have marked a local pivot high during NY. \n\n63.6-64K is the area to hold for bulls. Lose that & we head to 61K.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nBy no surprise, \n\n7/7 Mondays have marked a local pivot high during NY. \n\n63.6-64K is the area to hold for bulls. Lose that &amp; we head to 61K.",
-      "publishedAt": "2026-06-22T19:18:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2069138005097341401",
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "Monday hasn’t been kind to $BTC lately.\n\nOver the past six weeks, 6 out of 6 Mondays have marked a local pivot high before price moved lower.\n\nWorth keeping an eye on if we start seeing strength and a push higher heading into Monday. \n\nIf we start dumping into Monday, the pattern could break & form a pivot low instead.",
-        "contentHtml": "Monday hasn’t been kind to <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> lately.\n\nOver the past six weeks, 6 out of 6 Mondays have marked a local pivot high before price moved lower.\n\nWorth keeping an eye on if we start seeing strength and a push higher heading into Monday. \n\nIf we start dumping into Monday, the pattern could break & form a pivot low instead.",
-        "link": "https://x.com/KillaXBT/status/2068688888055349295",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLV1dUdWAAApNyG.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069124027344629872",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "NOK进了170万的call 谢谢大家\n\n挺浅的\n\n看样子是在炒作光叙事了\n\n今天光板块都不错 \n\n$NOK",
-      "contentHtml": "NOK进了170万的call 谢谢大家\n\n挺浅的\n\n看样子是在炒作光叙事了\n\n今天光板块都不错 \n\n<a href=\"/search?f=tweets&q=%23NOK\">$NOK</a>",
-      "publishedAt": "2026-06-22T18:23:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069124027344629872",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLcBLTVbQAETbu9.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069118626788155795",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "AAOI 173了\n\n单日反弹10%\n\n谢谢大家",
-      "contentHtml": "AAOI 173了\n\n单日反弹10%\n\n谢谢大家",
-      "publishedAt": "2026-06-22T18:01:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069118626788155795",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLb8UVVa4AAsdo1.png"
-        }
-      ],
-      "quote": {
-        "username": "octopusycc",
-        "displayName": "大老师Bugsbunny ｜DRAM UP only",
-        "content": "AAOI出现大额看涨\n$AAOI \n\n4天到期 看涨200\n\nAAOI是一家做 AI 数据中心光通信模块/激光器/光器件的公司，属于高弹性股\nAI 数据中心从 400G 升级到 800G/1.6T 时，光模块需求爆发。\n\n技术面支撑成立 \n\n——————\n\n该期权赌博成分极高，需要留意归零风险",
-        "contentHtml": "AAOI出现大额看涨\n<a href=\"/search?f=tweets&q=%23AAOI\">$AAOI</a> \n\n4天到期 看涨200\n\nAAOI是一家做 AI 数据中心光通信模块/激光器/光器件的公司，属于高弹性股\nAI 数据中心从 400G 升级到 800G/1.6T 时，光模块需求爆发。\n\n技术面支撑成立 \n\n——————\n\n该期权赌博成分极高，需要留意归零风险",
-        "link": "https://x.com/octopusycc/status/2069059062470472085",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLbF7rsaQAAT3Jc.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069104545591075216",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "微策略如果继续卖股票补现金，短期看，当然是在止血。\n它不用立刻卖 BTC，STRC 的持有人能暂时安心。\n债务利息和优先股股息，也看起来还有钱付。\n但问题在于：这不是造血，这是拆船板去堵漏水。\n\n以前的微策略，是一台很漂亮的飞轮。\n发股，买 BTC。\nBTC 涨，MSTR 溢价。\nMSTR 溢价，再发股。\n然后继续买更多 BTC。\n市场愿意相信它，是因为这个飞轮看起来永远都在往前转。\n\n但现在剧本开始变了，\n发股不再主要是为了进攻，不再是为了大手笔买 BTC。\n发股开始变成补美元储备、支付优先股股息、安抚 STRC、维持资本结构的手段。\n这就是质变，当一家公司卖股票不是为了扩张，而是为了让自己的融资工具别继续脱锚，市场就应该意识到：\n飞轮已经开始反着转了。\n\n短期看，这确实能降低爆雷概率。\n但中长期看，它会稀释普通股，压低 MSTR 的弹性，削弱 BTC per share 的叙事。\n\n普通股股东会慢慢发现，自己不再只是 BTC 高 beta 的持有人，他们可能正在变成 preferred 票息的燃料。\n如果卖股补现金只是一次性动作，用来稳住 STRC、修复市场信心，那还能理解。\n但如果这变成常态，微策略就不再是市场想象中的 BTC 永动机。\n\n它会变成一台慢性稀释机器。\n\nSTRC 脱锚，MSTR 发股，现金补储备，普通股被稀释，BTC 买盘变弱，市场继续怀疑。\n\n这不是一天爆炸的雷，这是水面下慢慢进水的船。\n\n真正危险的不是它马上沉，真正危险的是，大家还坐在甲板上，听船长说：“别怕，我们还有很多 BTC。”\n\n可市场已经开始不只看 BTC 了，市场开始看现金流，看优先股，看稀释，看融资能力，看这个飞轮还能不能继续转。\n\n卖股补现金，能止血，但止血不是复活。",
-      "contentHtml": "微策略如果继续卖股票补现金，短期看，当然是在止血。\n它不用立刻卖 BTC，STRC 的持有人能暂时安心。\n债务利息和优先股股息，也看起来还有钱付。\n但问题在于：这不是造血，这是拆船板去堵漏水。\n\n以前的微策略，是一台很漂亮的飞轮。\n发股，买 BTC。\nBTC 涨，MSTR 溢价。\nMSTR 溢价，再发股。\n然后继续买更多 BTC。\n市场愿意相信它，是因为这个飞轮看起来永远都在往前转。\n\n但现在剧本开始变了，\n发股不再主要是为了进攻，不再是为了大手笔买 BTC。\n发股开始变成补美元储备、支付优先股股息、安抚 STRC、维持资本结构的手段。\n这就是质变，当一家公司卖股票不是为了扩张，而是为了让自己的融资工具别继续脱锚，市场就应该意识到：\n飞轮已经开始反着转了。\n\n短期看，这确实能降低爆雷概率。\n但中长期看，它会稀释普通股，压低 MSTR 的弹性，削弱 BTC per share 的叙事。\n\n普通股股东会慢慢发现，自己不再只是 BTC 高 beta 的持有人，他们可能正在变成 preferred 票息的燃料。\n如果卖股补现金只是一次性动作，用来稳住 STRC、修复市场信心，那还能理解。\n但如果这变成常态，微策略就不再是市场想象中的 BTC 永动机。\n\n它会变成一台慢性稀释机器。\n\nSTRC 脱锚，MSTR 发股，现金补储备，普通股被稀释，BTC 买盘变弱，市场继续怀疑。\n\n这不是一天爆炸的雷，这是水面下慢慢进水的船。\n\n真正危险的不是它马上沉，真正危险的是，大家还坐在甲板上，听船长说：“别怕，我们还有很多 BTC。”\n\n可市场已经开始不只看 BTC 了，市场开始看现金流，看优先股，看稀释，看融资能力，看这个飞轮还能不能继续转。\n\n卖股补现金，能止血，但止血不是复活。",
-      "publishedAt": "2026-06-22T17:05:00.000Z",
-      "link": "https://x.com/yuren477/status/2069104545591075216",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069100596905246956",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "Currently searching for something like this on $BTC. \n\nWith the 3 and 6 month candles closing, I'd ideally like to see a sweep of the highs by next month at the latest.",
-      "contentHtml": "Currently searching for something like this on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>. \n\nWith the 3 and 6 month candles closing, I'd ideally like to see a sweep of the highs by next month at the latest.",
-      "publishedAt": "2026-06-22T16:49:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2069100596905246956",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLbrfToXcAAx58M.png"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
