@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T07:16:17.354Z",
+  "lastUpdated": "2026-06-30T09:05:54.608Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,150 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 644,
+    "newFetched": 643,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2071877111745519913",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#美股\n\n6月初，周三晚上公布CPI时就是6月整月的最低点\n\n当时选择抄底的强势个股\n\nSNDK\nLRCX\nAMAT\nINTC\nASML\n\n除了ASML拉跨些，平均涨幅30%+ ，最近几天直播感叹，其实拿住真是一门玄学，越是暴涨的股票越拿不住，越是被套的股票持有越久\n\n股市里最昂贵的四个字，一直都是\n\n\"我本可以\"\n\"对不起，我当时，真的不懂怎么爱你\"",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23美股\">#美股</a>\n\n6月初，周三晚上公布CPI时就是6月整月的最低点\n\n当时选择抄底的强势个股\n\nSNDK\nLRCX\nAMAT\nINTC\nASML\n\n除了ASML拉跨些，平均涨幅30%+ ，最近几天直播感叹，其实拿住真是一门玄学，越是暴涨的股票越拿不住，越是被套的股票持有越久\n\n股市里最昂贵的四个字，一直都是\n\n\"我本可以\"\n\"对不起，我当时，真的不懂怎么爱你\"",
+      "publishedAt": "2026-06-30T08:42:00.000Z",
+      "link": "https://x.com/dongbimao/status/2071877111745519913",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMDJHH2XQAAEfCi.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071876946963915220",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "今天能不能送多头回家找👩🐎？",
+      "contentHtml": "今天能不能送多头回家找👩🐎？",
+      "publishedAt": "2026-06-30T08:42:00.000Z",
+      "link": "https://x.com/follow_clues/status/2071876946963915220",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071872648401842456",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "OPC模式（一人创业公司）的有力工具，最近看到@dappOS_com这条xBubble的VibeCoding演示，挺有意思的。用一张图+一个商业目标，就能在几个小时内搭出了一个完整的在线shop：商品素材、目录筛选、购物车、稳定币钱包支付、Cloudflare部署，还有后台订单管理。不是原型，是能直接收钱的真实店铺。\n\n这其实不是简单的“AI 帮你写代码”，传统工具（Cursor、Lovable 那一类）大多停留在Prompt-to-Code的阶段——你描述需求，它给你页面和逻辑，但后面怎么部署、怎么接支付、怎么长期迭代，还是得你自己或者再找人处理。\n\nxBubble走的是另一条路：SOP-to-Business。\n\n它不是让你去调模型、拼工具、写复杂prompt，而是把常见业务场景的执行流程提前组织好，形成可复用的SOP。Bubble Engine会根据真实案例不断生成和优化这些流程，Bubble Pilot再根据你的目标去调用。用户真正要做的，就是把生意想清楚：卖什么、卖给谁、怎么收钱。\n\n对普通个人用户的好处很直接。\n以前想做一个带支付的独立站，从想法到上线，技术门槛、部署成本、支付接入往往把人劝退。现在这些环节被系统和生态服务商接住了，你用积分统一结算，不用自己去配服务器、绑域名、搞API Key。想改规则、加商品、调整流程，也不用每次都从头折腾代码。\n\n对 OPC（一人公司）来说，这件事的意义更大。\n\n过去几年，AI 主要解决的是“现有团队怎么提效”。现在的问题变成了：一门生意到底需要多少人才能跑起来？很多垂直、小众、生命周期不长的需求，其实一个人就能搞定，但技术执行成本太高，一直做不成。xBubble 把这部分成本大幅压下来，让有客户、有货源、有想法的人，不用先证明自己能养活一支技术团队，就能先把生意跑起来。\n\n它真正瞄准的，是那些懂市场、懂用户，但技术不是核心能力的普通经营者。不是极客型 solo founder，而是现实中大量存在的“一人带货、一人做服务、一人做内容”的小生意。\n\n当然，这套东西目前还在内测，复杂场景的稳定性、SOP 的覆盖度、服务商网络的成熟度，都还需要时间验证。但方向是对的——AI coding 的下一阶段，不是比谁代码写得更快，而是比谁能把一门真实生意更快、更稳地跑通。\n\n之前这里nitter.net/qinbafrank/status/2065…还聊过dappOS通过xBubble推出的买方级别（Buy-Side）股权研究SOP，这次又推出了SOP-to-Business，不得不说DappOS走在正确的方向上。\n\n从 Prompt 到 SOP，从代码到生意，这条路走通了，对个人创业者来说，确实是降维。更关键的是，它让OPC能用极低成本快速跑通第一笔真是收入，而不是把精力耗在技术执行上。\n\n下面的视频就是一个用xBubble VibeCoding快速搭建世界杯周边电商网站的案例，已经能快速产生实际现金流了。",
+      "contentHtml": "OPC模式（一人创业公司）的有力工具，最近看到<a href=\"/dappOS_com\" title=\"DAPPOS\">@dappOS_com</a>这条xBubble的VibeCoding演示，挺有意思的。用一张图+一个商业目标，就能在几个小时内搭出了一个完整的在线shop：商品素材、目录筛选、购物车、稳定币钱包支付、Cloudflare部署，还有后台订单管理。不是原型，是能直接收钱的真实店铺。\n\n这其实不是简单的“AI 帮你写代码”，传统工具（Cursor、Lovable 那一类）大多停留在Prompt-to-Code的阶段——你描述需求，它给你页面和逻辑，但后面怎么部署、怎么接支付、怎么长期迭代，还是得你自己或者再找人处理。\n\nxBubble走的是另一条路：SOP-to-Business。\n\n它不是让你去调模型、拼工具、写复杂prompt，而是把常见业务场景的执行流程提前组织好，形成可复用的SOP。Bubble Engine会根据真实案例不断生成和优化这些流程，Bubble Pilot再根据你的目标去调用。用户真正要做的，就是把生意想清楚：卖什么、卖给谁、怎么收钱。\n\n对普通个人用户的好处很直接。\n以前想做一个带支付的独立站，从想法到上线，技术门槛、部署成本、支付接入往往把人劝退。现在这些环节被系统和生态服务商接住了，你用积分统一结算，不用自己去配服务器、绑域名、搞API Key。想改规则、加商品、调整流程，也不用每次都从头折腾代码。\n\n对 OPC（一人公司）来说，这件事的意义更大。\n\n过去几年，AI 主要解决的是“现有团队怎么提效”。现在的问题变成了：一门生意到底需要多少人才能跑起来？很多垂直、小众、生命周期不长的需求，其实一个人就能搞定，但技术执行成本太高，一直做不成。xBubble 把这部分成本大幅压下来，让有客户、有货源、有想法的人，不用先证明自己能养活一支技术团队，就能先把生意跑起来。\n\n它真正瞄准的，是那些懂市场、懂用户，但技术不是核心能力的普通经营者。不是极客型 solo founder，而是现实中大量存在的“一人带货、一人做服务、一人做内容”的小生意。\n\n当然，这套东西目前还在内测，复杂场景的稳定性、SOP 的覆盖度、服务商网络的成熟度，都还需要时间验证。但方向是对的——AI coding 的下一阶段，不是比谁代码写得更快，而是比谁能把一门真实生意更快、更稳地跑通。\n\n之前这里<a href=\"https://nitter.net/qinbafrank/status/2065263100467773762?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2065…</a>还聊过dappOS通过xBubble推出的买方级别（Buy-Side）股权研究SOP，这次又推出了SOP-to-Business，不得不说DappOS走在正确的方向上。\n\n从 Prompt 到 SOP，从代码到生意，这条路走通了，对个人创业者来说，确实是降维。更关键的是，它让OPC能用极低成本快速跑通第一笔真是收入，而不是把精力耗在技术执行上。\n\n下面的视频就是一个用xBubble VibeCoding快速搭建世界杯周边电商网站的案例，已经能快速产生实际现金流了。",
+      "publishedAt": "2026-06-30T08:25:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2071872648401842456",
+      "quote": {
+        "username": "dappOS_com",
+        "displayName": "DAPPOS",
+        "content": "One Bubble image. One business goal. One live Web3 store.\n\nBubble Code built Bubble’s official merch shop. From product assets, catalog, and filters to USDT checkout, Cloudflare deployment, and backend order management.\n\nThis isn’t a website demo.\n\nIt’s a live business, built in hours.",
+        "contentHtml": "One Bubble image. One business goal. One live Web3 store.\n\nBubble Code built Bubble’s official merch shop. From product assets, catalog, and filters to USDT checkout, Cloudflare deployment, and backend order management.\n\nThis isn’t a website demo.\n\nIt’s a live business, built in hours.",
+        "link": "https://x.com/dappOS_com/status/2070071947132911861"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071868173012582758",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "永远不要怀疑美股车头的能量🚄\n\n🔸 06.29：SHAZ 宣布完成 16 亿美元融资，用于支撑与英伟达为期六年的战略合作\n🔹 11 小时前：Leopold Aschenbrenner 旗下基金公布新增持有 $SHAZ 19.9% 的股份\ncapedge.com/filing/2045724/0…\n\n—— 前者涨幅 1.45%，后者盘后涨幅 14%…\n\n就是这么现实，对于一个市值不足 14 亿的小盘股而言，释放利好不如大资金直接入场\n\nBTW：SEC 要求基金持股比例超 5% 时必须提交公开报告披露，因此说 13F 文件「藏着财富密码」也不为过了；以防万一你还不知道天才少年 Leopold 是谁，可以回顾下引用的推文介绍👇",
+      "contentHtml": "永远不要怀疑美股车头的能量🚄\n\n🔸 06.29：SHAZ 宣布完成 16 亿美元融资，用于支撑与英伟达为期六年的战略合作\n🔹 11 小时前：Leopold Aschenbrenner 旗下基金公布新增持有 <a href=\"/search?f=tweets&q=%23SHAZ\">$SHAZ</a> 19.9% 的股份\n<a href=\"https://capedge.com/filing/2045724/0000935836-26-000334/SCHEDULE-13G\">capedge.com/filing/2045724/0…</a>\n\n—— 前者涨幅 1.45%，后者盘后涨幅 14%…\n\n就是这么现实，对于一个市值不足 14 亿的小盘股而言，释放利好不如大资金直接入场\n\nBTW：SEC 要求基金持股比例超 5% 时必须提交公开报告披露，因此说 13F 文件「藏着财富密码」也不为过了；以防万一你还不知道天才少年 Leopold 是谁，可以回顾下引用的推文介绍👇",
+      "publishedAt": "2026-06-30T08:07:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2071868173012582758",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMDBAMEXoAAgyWk.png"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "美股抄作业系列第二期💫\n\n15 岁考上大学，23 岁加入 OpenAI，24 岁基金表现吊打华尔街 —— 仅两年其基金规模从 2.25 亿美元飙涨至 167 亿，规模增幅超 73 倍！\n\n昨天了解了「华尔街的每日必读」Serenity(@aleabitoreddit)，今天来看看硅谷大佬的 Alpha 基金掌舵人 Leopold Aschenbrenner(@leopoldasch)，潜入他的开挂人生和最新公开持仓👩‍💻👇",
+        "contentHtml": "美股抄作业系列第二期💫\n\n15 岁考上大学，23 岁加入 OpenAI，24 岁基金表现吊打华尔街 —— 仅两年其基金规模从 2.25 亿美元飙涨至 167 亿，规模增幅超 73 倍！\n\n昨天了解了「华尔街的每日必读」Serenity(<a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a>)，今天来看看硅谷大佬的 Alpha 基金掌舵人 Leopold Aschenbrenner(<a href=\"/leopoldasch\" title=\"Leopold Aschenbrenner\">@leopoldasch</a>)，潜入他的开挂人生和最新公开持仓👩‍💻👇",
+        "link": "https://x.com/ai_9684xtpa/status/2060194610614555066",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJdAAkmakAAeRrV.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071865449059672428",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#投资 \n\n我知道字节的人才很多。\n\n但是币圈的天才太多了。\n\n见过的天才太多、太惊艳，看到人才也就那样。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23投资\">#投资</a> \n\n我知道字节的人才很多。\n\n但是币圈的天才太多了。\n\n见过的天才太多、太惊艳，看到人才也就那样。",
+      "publishedAt": "2026-06-30T07:56:00.000Z",
+      "link": "https://x.com/taresky/status/2071865449059672428",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071858486825169208",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "币圈赚钱的机会确实是越来越少了，所有赛道都枯的很，以前撸空投是以小搏大，现在表现最好的几个项目也只是拿本金博个几倍收益，二级更不用说都是阴谋高控赚钱的也是少数。meme更是毫无意义，普通人赚不到。\n\n保住本金吧，看看还有什么新赛道，美股ipo确实是少数几个机会比较确定的，弄了revolut之后要参与一下，之前spacex是有额度了，目光都放在币圈了，可惜。目前也没几个交易所真打通了这个渠道。",
+      "contentHtml": "币圈赚钱的机会确实是越来越少了，所有赛道都枯的很，以前撸空投是以小搏大，现在表现最好的几个项目也只是拿本金博个几倍收益，二级更不用说都是阴谋高控赚钱的也是少数。meme更是毫无意义，普通人赚不到。\n\n保住本金吧，看看还有什么新赛道，美股ipo确实是少数几个机会比较确定的，弄了revolut之后要参与一下，之前spacex是有额度了，目光都放在币圈了，可惜。目前也没几个交易所真打通了这个渠道。",
+      "publishedAt": "2026-06-30T07:28:00.000Z",
+      "link": "https://x.com/0xleng1/status/2071858486825169208",
+      "quote": {
+        "username": "Ice_Frog666666",
+        "displayName": "冰蛙",
+        "content": "经常会有朋友问我这个问题。\n\n我的回答总结就是：\n\n放弃幻想，重找出路！\n\n也别期待牛市了，\n\n熊市过后，btc能活、web3行业能活，\n\n但空投是真死了，真的就再也活不过来了。\n\n可以去找找Ai、美股的机会，或者躺平休息等机会吧。",
+        "contentHtml": "经常会有朋友问我这个问题。\n\n我的回答总结就是：\n\n放弃幻想，重找出路！\n\n也别期待牛市了，\n\n熊市过后，btc能活、web3行业能活，\n\n但空投是真死了，真的就再也活不过来了。\n\n可以去找找Ai、美股的机会，或者躺平休息等机会吧。",
+        "link": "https://x.com/Ice_Frog666666/status/2071789203705487640",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMB5SEoaQAADted.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMB5SuzbUAAHw9g.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2071844623019020388",
       "username": "Bitfatty",
@@ -171,6 +310,25 @@
             "url": "https://pbs.twimg.com/media/HMBo258aIAA-4Ri.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071838556431987150",
+      "username": "DellAnnaLuca",
+      "displayName": "Luca Dellanna",
+      "avatar": "https://pbs.twimg.com/profile_images/2000161043490766854/DfDkDBWD_bigger.jpg",
+      "content": "If Musk stops malaria aid, and people die of it, who killed them, in order of responsibility:\n\n- Mosquitoes (obviously!)\n- Their gov, unable to provide NHS\n- Their families / employers/ etc, unable to provide meds for their close ones\n- People living the other side of the world\n\nI can’t believe this must be said, but here we are.",
+      "contentHtml": "If Musk stops malaria aid, and people die of it, who killed them, in order of responsibility:\n\n- Mosquitoes (obviously!)\n- Their gov, unable to provide NHS\n- Their families / employers/ etc, unable to provide meds for their close ones\n- People living the other side of the world\n\nI can’t believe this must be said, but here we are.",
+      "publishedAt": "2026-06-30T06:09:00.000Z",
+      "link": "https://x.com/DellAnnaLuca/status/2071838556431987150",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -1222,32 +1380,6 @@
       "contentHtml": "When you truly understand cycles, you realize most of this news is straight bullshit.\n\nMfs always react after the move, never before it. Then they grab whatever headline pops up to justify what already happened.\n\nThe news ain’t moving the market. The market moves first, then mfs create a narrative to make sense of it.\n\nLet me keep it real… we’re going down because we’re simply in that part of the cycle where <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> corrects. That’s it.\n\nNot because of <a href=\"/search?f=tweets&q=%23MSTR\">$MSTR</a>, not because of <a href=\"/search?f=tweets&q=%23STRC\">$STRC</a>. \n\nNews is sugar-coated copium people use because they are clueless. \n\nStop with this herd mentality nonsense.",
       "publishedAt": "2026-06-29T14:56:00.000Z",
       "link": "https://x.com/KillaXBT/status/2071608753011491029",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2071608090235949383",
-      "username": "feelsdesperate",
-      "displayName": "Coddled Affluent Professional",
-      "avatar": "https://pbs.twimg.com/profile_images/2029042789896290304/QZx132fv_bigger.jpg",
-      "content": "I’m supportive of international public health aid when it comes to cheap interventions like dispensing HIV and TB and malaria meds. (I am a lib 🤷‍♂️ .)\n\nHowever, Kristof is just making everything worse.\n\nFirst, you can’t hysterically crybully Americans into supporting these programs and trying to do so instead of making a calm, measured case just makes people reactive and oppositional because it’s so obviously a cynical, manipulative tactic.\n\nSecond, it’s not our responsibility to fill up anyone’s gas tank. All of these initiatives have to be completely reconsidered and our obligations need to be clearly defined. That Kristof can’t intuit that Americans would oppose filling foreign gas tanks demonstrates just how out of touch he is and that he’s bound to do more harm than good in attempting to propagandize on behalf of international public health.\n\nThird, none of these vignettes meet even the most basic evidentiary standards to support his assertions. Furthermore, this isn’t how it’s done - big programs need to be supported by population level data and Kristof is obviously trying to be emotionally manipulative with anecdotes rather than addressing the policy questions in the right way with the right type of data.\n\nFourth, it’s lazy and cynical to try to lay this all on Musk. Maybe you shouldn’t have billion dollar ‘managed democracy’ and leftist NGO dark money sinkholes wearing the skin suit of true humanitarian programs.  Maybe the people who designed these programs as such deserve a little more (or a lot more) of the blame for intentionally putting them in proximity to legitimate political targets.\n\nEvery time I read a half-informed journo trying to do advocacy for foreign health aid I cringe because it’s clear they don’t know what they’re talking about and are making lazy, motivated assertions that are bound to backfire and make things worse. If journos really cared about these issues and weren’t just scrounging for cheap partisan artillery they’d be a lot more carful, thoughtful, and reserved in what they’re arguing.",
-      "contentHtml": "I’m supportive of international public health aid when it comes to cheap interventions like dispensing HIV and TB and malaria meds. (I am a lib 🤷‍♂️ .)\n\nHowever, Kristof is just making everything worse.\n\nFirst, you can’t hysterically crybully Americans into supporting these programs and trying to do so instead of making a calm, measured case just makes people reactive and oppositional because it’s so obviously a cynical, manipulative tactic.\n\nSecond, it’s not our responsibility to fill up anyone’s gas tank. All of these initiatives have to be completely reconsidered and our obligations need to be clearly defined. That Kristof can’t intuit that Americans would oppose filling foreign gas tanks demonstrates just how out of touch he is and that he’s bound to do more harm than good in attempting to propagandize on behalf of international public health.\n\nThird, none of these vignettes meet even the most basic evidentiary standards to support his assertions. Furthermore, this isn’t how it’s done - big programs need to be supported by population level data and Kristof is obviously trying to be emotionally manipulative with anecdotes rather than addressing the policy questions in the right way with the right type of data.\n\nFourth, it’s lazy and cynical to try to lay this all on Musk. Maybe you shouldn’t have billion dollar ‘managed democracy’ and leftist NGO dark money sinkholes wearing the skin suit of true humanitarian programs.  Maybe the people who designed these programs as such deserve a little more (or a lot more) of the blame for intentionally putting them in proximity to legitimate political targets.\n\nEvery time I read a half-informed journo trying to do advocacy for foreign health aid I cringe because it’s clear they don’t know what they’re talking about and are making lazy, motivated assertions that are bound to backfire and make things worse. If journos really cared about these issues and weren’t just scrounging for cheap partisan artillery they’d be a lot more carful, thoughtful, and reserved in what they’re arguing.",
-      "publishedAt": "2026-06-29T14:53:00.000Z",
-      "link": "https://x.com/feelsdesperate/status/2071608090235949383",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "NickKristof",
-        "displayName": "Nicholas Kristof",
-        "content": ".@elonmusk says that no one can name a person who died from his aid cuts. In fact, I've met the kids who are dying, and I've talked to the families who lost children. In my columns, I've cited many, many names of people who have died because of Musk's  aid cuts. A few examples:\n*Yamah Freeman was a 23-year-old woman who died in childbirth because Musk cut funding for the diesel for ambulances in her part of Liberia. She couldn't get to a hospital and died as people were carrying her there. I talked to her parents and sister in their village.\n*Gbessey Kiadu, age 1, died of malaria because of his cuts to malaria medication in Liberia. I talked to his mom in her village.\n*Ibrahim Koroma, an infant, died of AIDS in Sierra Leone after he interrupted HIV supplies. I talked to health workers who cared for him.\n*Achol Deng was an 8-year-old girl with HIV in South Sudan who died when Musk cut funding for the health care worker who provided her medicines. I talked to the healthcare workers.\nI could go on and on. In almost every village you go to in South Sudan, Uganda, Liberia, Sierra Leone or other countries I reported in, you find people dying because of aid cuts. I challenge Musk: Come with me on a reporting trip, and we'll talk to these moms and dads, and you'll see the dying children themselves. I think if you see the kids whose lives are at stake, maybe you'll change your mind.",
-        "contentHtml": ".<a href=\"/elonmusk\" title=\"Elon Musk\">@elonmusk</a> says that no one can name a person who died from his aid cuts. In fact, I've met the kids who are dying, and I've talked to the families who lost children. In my columns, I've cited many, many names of people who have died because of Musk's  aid cuts. A few examples:\n*Yamah Freeman was a 23-year-old woman who died in childbirth because Musk cut funding for the diesel for ambulances in her part of Liberia. She couldn't get to a hospital and died as people were carrying her there. I talked to her parents and sister in their village.\n*Gbessey Kiadu, age 1, died of malaria because of his cuts to malaria medication in Liberia. I talked to his mom in her village.\n*Ibrahim Koroma, an infant, died of AIDS in Sierra Leone after he interrupted HIV supplies. I talked to health workers who cared for him.\n*Achol Deng was an 8-year-old girl with HIV in South Sudan who died when Musk cut funding for the health care worker who provided her medicines. I talked to the healthcare workers.\nI could go on and on. In almost every village you go to in South Sudan, Uganda, Liberia, Sierra Leone or other countries I reported in, you find people dying because of aid cuts. I challenge Musk: Come with me on a reporting trip, and we'll talk to these moms and dads, and you'll see the dying children themselves. I think if you see the kids whose lives are at stake, maybe you'll change your mind.",
-        "link": "https://x.com/NickKristof/status/2071402944017453276"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11823,108 +11955,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069510119768158495",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "$ROK Lutnick meeting Lutnick meets with companies including Rokwell, signals possible action on Chinese robots after Commerce review Politico\n​\nLutnick与罗克韦尔自动化等公司会面，在商务部审查后可能对中国机器人采取行动。此消息来自Politico报道。\n\n——————————————\n\n$SYM $RR Select Committee on China announces legislation on Chinese robotics\n​\n美国国会中国问题特别委员会宣布将推出针对中国机器人产业的立法。此举可能影响与中国机器人技术相关的美国公司，包括Symbotic（SYM）和Rolls-Royce（RR）等在自动化和机器人领域有业务的企业。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23ROK\">$ROK</a> Lutnick meeting Lutnick meets with companies including Rokwell, signals possible action on Chinese robots after Commerce review Politico\n​\nLutnick与罗克韦尔自动化等公司会面，在商务部审查后可能对中国机器人采取行动。此消息来自Politico报道。\n\n——————————————\n\n<a href=\"/search?f=tweets&q=%23SYM\">$SYM</a> <a href=\"/search?f=tweets&q=%23RR\">$RR</a> Select Committee on China announces legislation on Chinese robotics\n​\n美国国会中国问题特别委员会宣布将推出针对中国机器人产业的立法。此举可能影响与中国机器人技术相关的美国公司，包括Symbotic（SYM）和Rolls-Royce（RR）等在自动化和机器人领域有业务的企业。",
-      "publishedAt": "2026-06-23T19:57:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069510119768158495",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLhgZ0UbgAAEtdR.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069501820863705437",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "邀请链接： web3.bgw.live/share/414AZl?i…",
-      "contentHtml": "邀请链接： <a href=\"https://web3.bgw.live/share/414AZl?inviteCode=dalaoshi\">web3.bgw.live/share/414AZl?i…</a>",
-      "publishedAt": "2026-06-23T19:24:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069501820863705437",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069501595377946957",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "我觉得这两天 $SMCI  的上涨，市场交易的不是单纯反弹，而是一个更清晰的逻辑：\n\nRubin Vera 正在从“发布会产品”，进入“量产爬坡产品”。\n\n这条线的重点不是 NVDA 又出了一个多强的新 GPU，而是整个 Rubin / Vera 平台能不能被大规模交付。\n\n最近 NVDA 对 Vera CPU 侧内存配置做成本优化，本质上不是简单降配，而是为了让整个平台更容易量产、更容易备料、更容易被客户大规模采购。\n\nAI 服务器最怕的不是单点性能不够，而是 BOM 太贵、供应链太紧、交付周期太长。\n\n如果 CPU 侧内存、整柜设计、液冷、电源、网络都开始围绕“可量产”做优化，那说明 Rubin / Vera 已经开始进入真正的供应链爬坡阶段。\n\n这时候 Dell 已经在量产/交付节奏里，市场自然会往后推演：\n\n$DELL  可以量产，\n那 $HPE 、Lenovo、 $SMCI   的 Rubin / Vera 量产预期也会被重新定价。\n\n————————\n\n而 SMCI 这条线最有弹性。\n\n之前市场看到 SMCI 新增股 + 发债，第一反应是稀释、缺钱、现金流压力。\n但如果放在它潜在 AI 服务器订单量里看，这件事就变成了另一种解读：\n\n不是融资续命，而是为了备料、扩产、接订单。\n\n————————\n\n尤其 SMCI 本身就是高弹性的 AI 服务器、液冷机柜、rack-scale 交付商。\n\n当 Rubin / Vera 开始进入量产逻辑，SMCI 这种公司对订单预期的股价弹性，一定会比 Dell、HPE、Lenovo 更大。\n所以我觉得这两天 SMCI 的涨幅，其实已经在表达一个观点：\n市场开始把 SMCI 的融资，从“财务压力”重新理解成“订单兑现前的资本准备”。\n\n————————\n\n当然风险也很清楚：订单不等于利润。\n后面还要看毛利率、现金流、交付节奏，以及融资带来的稀释压力。\n\n但短期交易层面，Rubin / Vera 量产爬坡 + OEM 交付预期 + SMCI 高弹性融资补货，这条链已经开始被市场交易了。\n\nDELL HPE SMCI都可以在我们的老朋友 @BitgetWalletCN 上进行合约交易\n\n@kajiweb3",
-      "contentHtml": "我觉得这两天 <a href=\"/search?f=tweets&q=%23SMCI\">$SMCI</a>  的上涨，市场交易的不是单纯反弹，而是一个更清晰的逻辑：\n\nRubin Vera 正在从“发布会产品”，进入“量产爬坡产品”。\n\n这条线的重点不是 NVDA 又出了一个多强的新 GPU，而是整个 Rubin / Vera 平台能不能被大规模交付。\n\n最近 NVDA 对 Vera CPU 侧内存配置做成本优化，本质上不是简单降配，而是为了让整个平台更容易量产、更容易备料、更容易被客户大规模采购。\n\nAI 服务器最怕的不是单点性能不够，而是 BOM 太贵、供应链太紧、交付周期太长。\n\n如果 CPU 侧内存、整柜设计、液冷、电源、网络都开始围绕“可量产”做优化，那说明 Rubin / Vera 已经开始进入真正的供应链爬坡阶段。\n\n这时候 Dell 已经在量产/交付节奏里，市场自然会往后推演：\n\n<a href=\"/search?f=tweets&q=%23DELL\">$DELL</a>  可以量产，\n那 <a href=\"/search?f=tweets&q=%23HPE\">$HPE</a> 、Lenovo、 <a href=\"/search?f=tweets&q=%23SMCI\">$SMCI</a>   的 Rubin / Vera 量产预期也会被重新定价。\n\n————————\n\n而 SMCI 这条线最有弹性。\n\n之前市场看到 SMCI 新增股 + 发债，第一反应是稀释、缺钱、现金流压力。\n但如果放在它潜在 AI 服务器订单量里看，这件事就变成了另一种解读：\n\n不是融资续命，而是为了备料、扩产、接订单。\n\n————————\n\n尤其 SMCI 本身就是高弹性的 AI 服务器、液冷机柜、rack-scale 交付商。\n\n当 Rubin / Vera 开始进入量产逻辑，SMCI 这种公司对订单预期的股价弹性，一定会比 Dell、HPE、Lenovo 更大。\n所以我觉得这两天 SMCI 的涨幅，其实已经在表达一个观点：\n市场开始把 SMCI 的融资，从“财务压力”重新理解成“订单兑现前的资本准备”。\n\n————————\n\n当然风险也很清楚：订单不等于利润。\n后面还要看毛利率、现金流、交付节奏，以及融资带来的稀释压力。\n\n但短期交易层面，Rubin / Vera 量产爬坡 + OEM 交付预期 + SMCI 高弹性融资补货，这条链已经开始被市场交易了。\n\nDELL HPE SMCI都可以在我们的老朋友 <a href=\"/BitgetWalletCN\" title=\"Bitget钱包中文频道 🩵\">@BitgetWalletCN</a> 上进行合约交易\n\n<a href=\"/kajiweb3\" title=\"kajiQ\">@kajiweb3</a>",
-      "publishedAt": "2026-06-23T19:23:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069501595377946957",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069497129303974144",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "一国总统时常给人他正在产生幻觉的即视感，最可怕的是大家已经对此习以为常了。",
-      "contentHtml": "一国总统时常给人他正在产生幻觉的即视感，最可怕的是大家已经对此习以为常了。",
-      "publishedAt": "2026-06-23T19:05:00.000Z",
-      "link": "https://x.com/yuren477/status/2069497129303974144",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLhUqe5bEAAjYUK.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069494708213276718",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "阿里巴巴起诉美国国防部了\n\n$BABA sued the U.S. Department of Defense seeking removal from the Pentagon’s 1260H blacklist, per Bloomberg. Alibaba says the Pentagon labeled it a supporter of China’s military without substantial evidence or explanation, violating due process. The list carries limited immediate legal impact, but is viewed as a red flag for U.S. investors and can restrict defense contracts, research funding and lobbying support.\n​\n阿里巴巴起诉美国国防部，要求将其从五角大楼的1260H黑名单中移除。阿里巴巴称五角大楼在没有实质证据或解释的情况下将其标记为支持中国军方，违反了正当程序。该名单虽然没有直接法律影响，但被视为美国投资者的警示信号，可能限制国防合同、研究资金和游说支持。",
-      "contentHtml": "阿里巴巴起诉美国国防部了\n\n<a href=\"/search?f=tweets&q=%23BABA\">$BABA</a> sued the U.S. Department of Defense seeking removal from the Pentagon’s 1260H blacklist, per Bloomberg. Alibaba says the Pentagon labeled it a supporter of China’s military without substantial evidence or explanation, violating due process. The list carries limited immediate legal impact, but is viewed as a red flag for U.S. investors and can restrict defense contracts, research funding and lobbying support.\n​\n阿里巴巴起诉美国国防部，要求将其从五角大楼的1260H黑名单中移除。阿里巴巴称五角大楼在没有实质证据或解释的情况下将其标记为支持中国军方，违反了正当程序。该名单虽然没有直接法律影响，但被视为美国投资者的警示信号，可能限制国防合同、研究资金和游说支持。",
-      "publishedAt": "2026-06-23T18:56:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069494708213276718",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069492407079461023",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "Chamath一直说SpaceX 要收购特斯拉，如果500一股收购，你同意吗？",
-      "contentHtml": "Chamath一直说SpaceX 要收购特斯拉，如果500一股收购，你同意吗？",
-      "publishedAt": "2026-06-23T18:46:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2069492407079461023",
       "stats": {
         "replies": 0,
         "retweets": 0,
