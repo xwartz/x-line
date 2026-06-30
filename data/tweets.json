@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T15:50:47.828Z",
+  "lastUpdated": "2026-06-30T22:27:50.135Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,375 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 647,
+    "newFetched": 646,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2072056453687357476",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Get ready for volatility as the next 3 month candle opens. \n\nThis is the quarter $BTC forms a macro bottom in.",
+      "contentHtml": "Get ready for volatility as the next 3 month candle opens. \n\nThis is the quarter <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> forms a macro bottom in.",
+      "publishedAt": "2026-06-30T20:35:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2072056453687357476",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072035755724324900",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://pbs.twimg.com/profile_images/1986442283433254912/O0egVwxK_bigger.jpg",
+      "content": "今晚有一个很有意思的套利策略:INUSDT\n1.upbit上不知什么原因，IN现货大幅下跌，而其他CEX的现货并没有被波及到。这个单边下跌仅出现在Upbit上\n2.binance和bybit的合约市场随后开始下跌，都分别达到了资金费率的下限，估计是用户在hedge\n3.premium index达到了少见的-55%\n\n这里有2个策略可以做：\n1.最简单的premium均值回归策略，premium总会回归到0%，所以1x杠杆在合约开多，可以吃到premium和每小时2%资金费率的收益\n2.binance和bybit的资金费率套利策略，因为binance的资金费率下限是-2%，而bybit的资金费率下限是-2.5%，所以可以双向开仓，风险中性的情况下去获取每小时0.5%的资金费率收益",
+      "contentHtml": "今晚有一个很有意思的套利策略:INUSDT\n1.upbit上不知什么原因，IN现货大幅下跌，而其他CEX的现货并没有被波及到。这个单边下跌仅出现在Upbit上\n2.binance和bybit的合约市场随后开始下跌，都分别达到了资金费率的下限，估计是用户在hedge\n3.premium index达到了少见的-55%\n\n这里有2个策略可以做：\n1.最简单的premium均值回归策略，premium总会回归到0%，所以1x杠杆在合约开多，可以吃到premium和每小时2%资金费率的收益\n2.binance和bybit的资金费率套利策略，因为binance的资金费率下限是-2%，而bybit的资金费率下限是-2.5%，所以可以双向开仓，风险中性的情况下去获取每小时0.5%的资金费率收益",
+      "publishedAt": "2026-06-30T19:13:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2072035755724324900",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMFV0t0bkAAysy_.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMFWY_6bYAA664x.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMFWaY8bkAANKF0.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072033717317460306",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "今天X上太多关于稳定币牛鬼蛇神的评论了。看看下面的，会引起一些思考。\n很多问题可以问问AI，为什么BRIDGE CEO要做这个项目，对于收购方STRIPE来说意味着什么，对于V，MA意味着什么，他们为什么要加入，问题多过答案。\n我保持开放态度。但不能聊太多，聊太多上头😂多数信息真没啥营养",
+      "contentHtml": "今天X上太多关于稳定币牛鬼蛇神的评论了。看看下面的，会引起一些思考。\n很多问题可以问问AI，为什么BRIDGE CEO要做这个项目，对于收购方STRIPE来说意味着什么，对于V，MA意味着什么，他们为什么要加入，问题多过答案。\n我保持开放态度。但不能聊太多，聊太多上头😂多数信息真没啥营养",
+      "publishedAt": "2026-06-30T19:05:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2072033717317460306",
+      "quote": {
+        "username": "LorenzoARK",
+        "displayName": "Lorenzo Valente",
+        "content": "Every year we get our consortium style initiative around a stablecoin, we have seen this with Diem, Global dollar and now Open USD. While the set of players here is obviously potent, I remain highly skeptical any of these initiatives can hit scale.\n \nA few thoughts on OpenUSD:\n\n1. Liquidity and the cold-start problem. USDC and USDT have massive network effects across exchanges, payment processors, and brokers. This is always repeated but it's true, there are no BTC/sofiUSD pairs to trade on any of these exchanges or markets. These are not stableocin market makers and participants are willing to hold in size, as you can’t really use them anywhere.\nThe fair counter is that crypto markets will be far smaller than remittances or equities/bonds. Probably true, I suspect in the medium term, but those markets are still converging on the same stablecoins. Hyperliquid just struck a massive deal with USDC/Coinbase. Every tokenization initiative so far is built around the incumbents too.\n\n2. A consortium of 500 rivals has no precedent for working. The pace of decision-making across 500 competitors is going to be glacial. Not everyone gets a board seat at Open Standard I imagine, so what happens when decisions cut against some of the players? Circle and Tether ship whatever they want, whenever they want, with zero commitment to anyone.\n\n3. Regulatory and antitrust risk at scale. Circle and Tether are willing to absorb enormous pressure, they have being doing so for years. They hold hundreds of licenses they can use to arbitrage markets, Yes GENIUS act gave a lot of breathing room and clarity, but oversees, this is not the same story. The moment this gets hard under regulatory pressure, I think a lot of these partners just walk away. And a bloc of the largest banks and card networks jointly issuing money is an obvious antitrust target.\n\n4. The \"socialist\" economics starve the issuer. Passing reserve revenue back to partners sounds great in practice, but what does Open Standard actually operate on? Little to no retained capital. People forget Circle doesn't just have marketplace/exchange partnerships; it funds a whole web of rebates across on/off ramps, stablecoin settlement, OTC desks, and more, with each deal being somewhat bespoke depending not he partner. Who funds that at Open Standard? Who decides which deals, on what terms, especially when the counterparty is a rival of an existing member?\nCircle GAAP Opex for 2025 were 900M USD, if you strip out one time cost and IPO related cost, its adjusted OPEX is closer to 500M annually. Let’s say open Standard gets 25 bips, which is what other consortium did, At 10B of supply, open standard is making 25M a year… You don’t fund much with that…. You need to become huge very quickly.\n\n5. The announcement is basically a giant LOI. Read the quotes: BlackRock calls it \"a constructive step,\" BNY \"looks forward to exploring ways to support,\" others say it's \"interesting.\" Meanwhile the partners are backing rivals: Stripe owns Bridge and has its own stack, Coinbase is wedded to USDC, banks are building their own deposit tokens, and the card networks support every token out there. They'll hedge across all of them. Distribution only matters if it's exclusive — and it clearly won't be.\n\n6. The \"mint/redeem fees are a problem\" claim is wrong. In practice every large institution minting and redeeming through Circle and Tether already gets big rebates. The real cost of moving money is FX, not mint/redeem and there's no moat there, because anyone can just match free mint/redeem.\nAll in all: one to monitor, but I'm deeply skeptical that an organization that looks like a DAO of 500 companies can move fast enough to matter long term. Who decides go-to-market? Capital allocation? Anything?\n\nUltimately this reminds me of the DAO experiment. The pitch was identical: no single owner, \"neutral\" governance, aligned incentives, decisions made collectively for the good of the network. In practice DAOs almost universally failed at the thing that actually matters: shipping. Governance turned into endless forum debates and token-weighted voting where nothing decisive got done, capital sat idle because no one could agree how to deploy it, and the projects that won were the ones with a clear owner willing to move fast and take risk. \"Owned by everyone\" almost always means accountable to no one. Open Standard is a DAO of competitors that are not really committed to anything, and I'd bet on the two operators who can ship unilaterally over a committee that has to ask 500 rivals for permission.",
+        "contentHtml": "Every year we get our consortium style initiative around a stablecoin, we have seen this with Diem, Global dollar and now Open USD. While the set of players here is obviously potent, I remain highly skeptical any of these initiatives can hit scale.\n \nA few thoughts on OpenUSD:\n\n1. Liquidity and the cold-start problem. USDC and USDT have massive network effects across exchanges, payment processors, and brokers. This is always repeated but it's true, there are no BTC/sofiUSD pairs to trade on any of these exchanges or markets. These are not stableocin market makers and participants are willing to hold in size, as you can’t really use them anywhere.\nThe fair counter is that crypto markets will be far smaller than remittances or equities/bonds. Probably true, I suspect in the medium term, but those markets are still converging on the same stablecoins. Hyperliquid just struck a massive deal with USDC/Coinbase. Every tokenization initiative so far is built around the incumbents too.\n\n2. A consortium of 500 rivals has no precedent for working. The pace of decision-making across 500 competitors is going to be glacial. Not everyone gets a board seat at Open Standard I imagine, so what happens when decisions cut against some of the players? Circle and Tether ship whatever they want, whenever they want, with zero commitment to anyone.\n\n3. Regulatory and antitrust risk at scale. Circle and Tether are willing to absorb enormous pressure, they have being doing so for years. They hold hundreds of licenses they can use to arbitrage markets, Yes GENIUS act gave a lot of breathing room and clarity, but oversees, this is not the same story. The moment this gets hard under regulatory pressure, I think a lot of these partners just walk away. And a bloc of the largest banks and card networks jointly issuing money is an obvious antitrust target.\n\n4. The \"socialist\" economics starve the issuer. Passing reserve revenue back to partners sounds great in practice, but what does Open Standard actually operate on? Little to no retained capital. People forget Circle doesn't just have marketplace/exchange partnerships; it funds a whole web of rebates across on/off ramps, stablecoin settlement, OTC desks, and more, with each deal being somewhat bespoke depending not he partner. Who funds that at Open Standard? Who decides which deals, on what terms, especially when the counterparty is a rival of an existing member?\nCircle GAAP Opex for 2025 were 900M USD, if you strip out one time cost and IPO related cost, its adjusted OPEX is closer to 500M annually. Let’s say open Standard gets 25 bips, which is what other consortium did, At 10B of supply, open standard is making 25M a year… You don’t fund much with that…. You need to become huge very quickly.\n\n5. The announcement is basically a giant LOI. Read the quotes: BlackRock calls it \"a constructive step,\" BNY \"looks forward to exploring ways to support,\" others say it's \"interesting.\" Meanwhile the partners are backing rivals: Stripe owns Bridge and has its own stack, Coinbase is wedded to USDC, banks are building their own deposit tokens, and the card networks support every token out there. They'll hedge across all of them. Distribution only matters if it's exclusive — and it clearly won't be.\n\n6. The \"mint/redeem fees are a problem\" claim is wrong. In practice every large institution minting and redeeming through Circle and Tether already gets big rebates. The real cost of moving money is FX, not mint/redeem and there's no moat there, because anyone can just match free mint/redeem.\nAll in all: one to monitor, but I'm deeply skeptical that an organization that looks like a DAO of 500 companies can move fast enough to matter long term. Who decides go-to-market? Capital allocation? Anything?\n\nUltimately this reminds me of the DAO experiment. The pitch was identical: no single owner, \"neutral\" governance, aligned incentives, decisions made collectively for the good of the network. In practice DAOs almost universally failed at the thing that actually matters: shipping. Governance turned into endless forum debates and token-weighted voting where nothing decisive got done, capital sat idle because no one could agree how to deploy it, and the projects that won were the ones with a clear owner willing to move fast and take risk. \"Owned by everyone\" almost always means accountable to no one. Open Standard is a DAO of competitors that are not really committed to anything, and I'd bet on the two operators who can ship unilaterally over a committee that has to ask 500 rivals for permission.",
+        "link": "https://x.com/LorenzoARK/status/2071997238713127404"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072032318945104059",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
+      "content": "需要更正一下之前这个帖子, 除了👇之外\n\n「消费 零售 医药这些是“碳基消费” \nGPU 存储 光模 这些是“硅基消费”」\n\n其实硅基生物已经在物理世界蚕食碳基生物了, 好多在偏远地区建数据中心第一件事就是要和当地居民抢饮用水资源... 更不用说耗电量了.",
+      "contentHtml": "需要更正一下之前这个帖子, 除了👇之外\n\n「消费 零售 医药这些是“碳基消费” \nGPU 存储 光模 这些是“硅基消费”」\n\n其实硅基生物已经在物理世界蚕食碳基生物了, 好多在偏远地区建数据中心第一件事就是要和当地居民抢饮用水资源... 更不用说耗电量了.",
+      "publishedAt": "2026-06-30T18:59:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2072032318945104059",
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "一个越来越强烈的感觉是：\n\n资本市场已经不完全是人在给未来定价，\n更像是硅基生命在借人类社会给自己配资源 \n\n消费 零售 医药这些是“碳基消费”\nGPU 存储 光模 这些是“硅基消费”\n\n如果这个类比成立, 本质上更像硅基社会借用碳基里最原始的value function - 情绪, 通过市场完成资源配置\n\n人类(RLHF)其实才是中间那层幻觉",
+        "contentHtml": "一个越来越强烈的感觉是：\n\n资本市场已经不完全是人在给未来定价，\n更像是硅基生命在借人类社会给自己配资源 \n\n消费 零售 医药这些是“碳基消费”\nGPU 存储 光模 这些是“硅基消费”\n\n如果这个类比成立, 本质上更像硅基社会借用碳基里最原始的value function - 情绪, 通过市场完成资源配置\n\n人类(RLHF)其实才是中间那层幻觉",
+        "link": "https://x.com/DoveyWanCN/status/2046119005455536491"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072020369637364155",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "DOCN 尾盘我将会敏捷买入\n\n$DOCN 做云服务商的\n\n6.29进的罗素2000指数\n\n管理层六月有做增长和扩张的更新\n\n当前的k线美如画了\n\n近期以160 170的call 为主（2dte）\n\n期权流来看 非常bullish",
+      "contentHtml": "DOCN 尾盘我将会敏捷买入\n\n<a href=\"/search?f=tweets&q=%23DOCN\">$DOCN</a> 做云服务商的\n\n6.29进的罗素2000指数\n\n管理层六月有做增长和扩张的更新\n\n当前的k线美如画了\n\n近期以160 170的call 为主（2dte）\n\n期权流来看 非常bullish",
+      "publishedAt": "2026-06-30T18:12:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072020369637364155",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMFLiXhboAAKV8U.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072020270651678806",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "OpenUSD成功与否并不重要，对于 $CRCL ：\n\n失去了“稳定币叙事”的独有地位，本身crcl的股价就是靠各种稳定币相关的叙事支撑",
+      "contentHtml": "OpenUSD成功与否并不重要，对于 <a href=\"/search?f=tweets&q=%23CRCL\">$CRCL</a> ：\n\n失去了“稳定币叙事”的独有地位，本身crcl的股价就是靠各种稳定币相关的叙事支撑",
+      "publishedAt": "2026-06-30T18:11:00.000Z",
+      "link": "https://x.com/follow_clues/status/2072020270651678806",
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "银行做稳定币和腾讯发个Q币一样，除非有很大的内部效率抬升，不然没意义，其他机构不可能接受某个银行发稳定币的，发型行必须是企业中性的，结合今天OpenUSD的新闻，看看是人多好办事，还是集中精力好办事。\n最终看产品落地，有没有人用和生态。我强调过很多次了，那点美债利率根本重点，最终企业选择某条稳定币轨道不会为了那点钱，而是轨道好用，安全，便捷。\n@jerallaire 请在产品落地上加把劲🫡",
+        "contentHtml": "银行做稳定币和腾讯发个Q币一样，除非有很大的内部效率抬升，不然没意义，其他机构不可能接受某个银行发稳定币的，发型行必须是企业中性的，结合今天OpenUSD的新闻，看看是人多好办事，还是集中精力好办事。\n最终看产品落地，有没有人用和生态。我强调过很多次了，那点美债利率根本重点，最终企业选择某条稳定币轨道不会为了那点钱，而是轨道好用，安全，便捷。\n<a href=\"/jerallaire\" title=\"Jeremy Allaire - jerallaire.arc\">@jerallaire</a> 请在产品落地上加把劲🫡",
+        "link": "https://x.com/TJ_Research/status/2071998580093604303"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072019609431994497",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "Just deposited $500k to IBKR using @hyperbeat.\n\nStarted with USDC, and it took just 40 minutes from stables to funds hitting IBKR account.\n\nHighly recommend it.\n\nHyperliquid.",
+      "contentHtml": "Just deposited $500k to IBKR using <a href=\"/hyperbeat\" title=\"Hyperbeat\">@hyperbeat</a>.\n\nStarted with USDC, and it took just 40 minutes from stables to funds hitting IBKR account.\n\nHighly recommend it.\n\nHyperliquid.",
+      "publishedAt": "2026-06-30T18:09:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2072019609431994497",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072012037836959906",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "找对象都知道找条件好的，炒股炒币倒是反过来了，喜欢找便宜货\n\n这不是贱逼是什么",
+      "contentHtml": "找对象都知道找条件好的，炒股炒币倒是反过来了，喜欢找便宜货\n\n这不是贱逼是什么",
+      "publishedAt": "2026-06-30T17:39:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072012037836959906",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072011314386612674",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "我真的不知道哪些傻逼在那天天劝人加仓crcl 加仓pdd 加仓mstr\n\n现在好了 舒服了 crcl被踢出指数了",
+      "contentHtml": "我真的不知道哪些傻逼在那天天劝人加仓crcl 加仓pdd 加仓mstr\n\n现在好了 舒服了 crcl被踢出指数了",
+      "publishedAt": "2026-06-30T17:36:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072011314386612674",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072010287277064259",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "CRCL本次 清除出罗素指数 \n\n大概会带来60M-150M的卖盘（直接卖出）\n\n加上追踪指数的主动基金\n\n卖盘将会变成150-250M卖盘\n\n$CRCL \n\n不会到时候大家又说可以捡便宜了吧",
+      "contentHtml": "CRCL本次 清除出罗素指数 \n\n大概会带来60M-150M的卖盘（直接卖出）\n\n加上追踪指数的主动基金\n\n卖盘将会变成150-250M卖盘\n\n<a href=\"/search?f=tweets&q=%23CRCL\">$CRCL</a> \n\n不会到时候大家又说可以捡便宜了吧",
+      "publishedAt": "2026-06-30T17:32:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072010287277064259",
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "恭喜CRCL啊\n\n突发： 富时罗素（FTSE Russell）在最新的年度指数重组中，将 Circle（CRCL）移出了 5 个主要的罗素成长指数 benchmarks。 这对机构持仓是直接打击。\n\n谢谢大家",
+        "contentHtml": "恭喜CRCL啊\n\n突发： 富时罗素（FTSE Russell）在最新的年度指数重组中，将 Circle（CRCL）移出了 5 个主要的罗素成长指数 benchmarks。 这对机构持仓是直接打击。\n\n谢谢大家",
+        "link": "https://x.com/octopusycc/status/2072003681734852663"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072009438387388439",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "The 6 month candle closes in just a few hours.\n\nOver the past 2 cycles, $BTC has never printed more than 2 consecutive red 6 month candles.\n\nAnother interesting observation: in both previous occurrences, Bitcoin never revisited the low of the second red 6-month candle.\n\nEither way, I would bet on the next 6 month candle being green.",
+      "contentHtml": "The 6 month candle closes in just a few hours.\n\nOver the past 2 cycles, <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> has never printed more than 2 consecutive red 6 month candles.\n\nAnother interesting observation: in both previous occurrences, Bitcoin never revisited the low of the second red 6-month candle.\n\nEither way, I would bet on the next 6 month candle being green.",
+      "publishedAt": "2026-06-30T17:28:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2072009438387388439",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMFA57cW4AA2Owt.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "Observing the 6 month chart, $BTC usually prints 2 red 6 month candles before continuing higher.\n\nThe current 6 month candle closes in July, 25 days from now.\n\nSo, based on this theory, the next 6 month candle should be green, meaning the move down we're seeing right now could actually be the capitulation candle. \n\nBecause we topped earlier in this bull cycle (October), Q4 sellers were front run.\n\nIf that's the case, it's reasonable to assume Q4 buyers will get front run as well.",
+        "contentHtml": "Observing the 6 month chart, <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> usually prints 2 red 6 month candles before continuing higher.\n\nThe current 6 month candle closes in July, 25 days from now.\n\nSo, based on this theory, the next 6 month candle should be green, meaning the move down we're seeing right now could actually be the capitulation candle. \n\nBecause we topped earlier in this bull cycle (October), Q4 sellers were front run.\n\nIf that's the case, it's reasonable to assume Q4 buyers will get front run as well.",
+        "link": "https://x.com/KillaXBT/status/2062912129544413265",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKDueCnXIAANW6Z.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072007449587208628",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "GLW按照我的模型曲线 \n\n极限价格会在280刀附近\n\n目前已然在过高估值区间\n\nNFA",
+      "contentHtml": "GLW按照我的模型曲线 \n\n极限价格会在280刀附近\n\n目前已然在过高估值区间\n\nNFA",
+      "publishedAt": "2026-06-30T17:20:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072007449587208628",
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "GLW本条存疑，7月底的财报会是一个约束变量\n\n玻璃桥固然是一个革命级的产品，但股价需要通过动态PE进行约束\n\n$GLW \n\n250刀以上已然处于极限乐观的价格区间\n\n毕竟还是一个上游端\n\n极限估值区间 250-290刀 \n\n当前已然是止盈区间 \n\n正如JPM 所说\n\n“这⼀⾛势越来越多地 是由空头回补和预期升⾼推动的，⽽⾮盈利预期出现实质性上调”\n\n————————\n\n这里给过热的上涨 刹车了\n\n这里我打算止盈了\n\nNFA",
+        "contentHtml": "GLW本条存疑，7月底的财报会是一个约束变量\n\n玻璃桥固然是一个革命级的产品，但股价需要通过动态PE进行约束\n\n<a href=\"/search?f=tweets&q=%23GLW\">$GLW</a> \n\n250刀以上已然处于极限乐观的价格区间\n\n毕竟还是一个上游端\n\n极限估值区间 250-290刀 \n\n当前已然是止盈区间 \n\n正如JPM 所说\n\n“这⼀⾛势越来越多地 是由空头回补和预期升⾼推动的，⽽⾮盈利预期出现实质性上调”\n\n————————\n\n这里给过热的上涨 刹车了\n\n这里我打算止盈了\n\nNFA",
+        "link": "https://x.com/octopusycc/status/2071983222452564290"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072003978079207710",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "Attention过于拥挤",
+      "contentHtml": "Attention过于拥挤",
+      "publishedAt": "2026-06-30T17:06:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072003978079207710",
+      "quote": {
+        "username": "himself65",
+        "displayName": "Bread🍞",
+        "content": "I think storage is about to lose its alpha, not because it's a bad play, but because it's too good and too certain. There's too much leverage stacked on it, and too many retail investors piling in.",
+        "contentHtml": "I think storage is about to lose its alpha, not because it's a bad play, but because it's too good and too certain. There's too much leverage stacked on it, and too many retail investors piling in.",
+        "link": "https://x.com/himself65/status/2072001645345677745"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072003681734852663",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "恭喜CRCL啊\n\n突发： 富时罗素（FTSE Russell）在最新的年度指数重组中，将 Circle（CRCL）移出了 5 个主要的罗素成长指数 benchmarks。 这对机构持仓是直接打击。\n\n谢谢大家",
+      "contentHtml": "恭喜CRCL啊\n\n突发： 富时罗素（FTSE Russell）在最新的年度指数重组中，将 Circle（CRCL）移出了 5 个主要的罗素成长指数 benchmarks。 这对机构持仓是直接打击。\n\n谢谢大家",
+      "publishedAt": "2026-06-30T17:05:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072003681734852663",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072001655709880363",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "相信我的粉丝里，应该没有被crcl伤害的吧…\n这波又累积了无数功德。",
+      "contentHtml": "相信我的粉丝里，应该没有被crcl伤害的吧…\n这波又累积了无数功德。",
+      "publishedAt": "2026-06-30T16:57:00.000Z",
+      "link": "https://x.com/yuren477/status/2072001655709880363",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HME6hQAacAALMhF.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071998580093604303",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "银行做稳定币和腾讯发个Q币一样，除非有很大的内部效率抬升，不然没意义，其他机构不可能接受某个银行发稳定币的，发型行必须是企业中性的，结合今天OpenUSD的新闻，看看是人多好办事，还是集中精力好办事。\n最终看产品落地，有没有人用和生态。我强调过很多次了，那点美债利率根本重点，最终企业选择某条稳定币轨道不会为了那点钱，而是轨道好用，安全，便捷。\n@jerallaire 请在产品落地上加把劲🫡",
+      "contentHtml": "银行做稳定币和腾讯发个Q币一样，除非有很大的内部效率抬升，不然没意义，其他机构不可能接受某个银行发稳定币的，发型行必须是企业中性的，结合今天OpenUSD的新闻，看看是人多好办事，还是集中精力好办事。\n最终看产品落地，有没有人用和生态。我强调过很多次了，那点美债利率根本重点，最终企业选择某条稳定币轨道不会为了那点钱，而是轨道好用，安全，便捷。\n<a href=\"/jerallaire\" title=\"Jeremy Allaire - jerallaire.arc\">@jerallaire</a> 请在产品落地上加把劲🫡",
+      "publishedAt": "2026-06-30T16:45:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2071998580093604303",
+      "quote": {
+        "username": "PhyrexNi",
+        "displayName": "Phyrex",
+        "content": "和麦总稍微有些不同的意见\n\n首先麦总说的是对的，之前不论是交易所扶持的还是和交易所合作的非 USDT 和 USDC 的稳定币确实发展的不好，但我个人觉得发展不起来的主要原因是因为承兑。\n\n从合规来说，USDT 的合规性相比 USDC 要差一些，尤其是资产背书方面，有 20% 以上的资产是高波动的，其中就包括了 Bitcoin ，甚至现在的黄金，还有一部分并不透明的企业债。但这并不妨碍 USDT 仍然是 亚 非 拉 最好用的稳定币。\n\n主要原因就是美元的承兑性，反而欧洲和美国因为 USDC 的承兑性更强，合规性更强，货币管制更加宽松，所以 USDC 的流动性更好。\n\n而对于 亚 非 拉 来说，USDT 就是美元，USDT 不追求合规，所以承兑在货币管制或者是有美元流通需求国家就能取代本国法币。\n\n实际上相对来说稳定币在纯加密货币领域的应用已经越来越少了，毕竟加密货币领域能买的资产是非常有限的，即便是买美股，目前现有的体量和欧美本土相比差距太大了。\n\n所以稳定币的发展如果只是靠加密货币的推广，可能 USDC 就是天花板。\n\n但我为什么说有不同的意见，是因为银行下场。\n\n前边我说了，稳定币主要的推广并不是加密货币，而是稳定的承兑，反而是背书在部分地区没有那么重要，因为稳定的承兑某种意义来说就是背书，其实汇旺就是一个很好的例子，当然如果是稳定的承兑和优质的背书，自然是更好的。\n\n银行下场的稳定币，比如说摩根大通这种存款稳定币。\n\n而银行手里有企业账户，有跨境结算，有支付网络，有机构客户，有现实世界的美元出入金通道。银行发行的美元稳定币或者存款代币，天然就不是为了让散户多炒一个币，而是为了让企业、机构、券商、基金、交易平台在链上完成美元结算。\n\n更重点在于，银行解决的是稳定币最难的一环，也就是承兑。\n\n即便是现在，用户直接拿稳定币去银行结算都不方便，但如果是银行发行的稳定币，就不一样了，越大的跨国银行就越容易做多地区的承兑，所以银行稳定币的逻辑本身就是对应银行体系里的美元负债。\n\n这就完全不是一个层级的竞争了。\n\n就像我前边说的，USDT 的重点在灰色美元流通，USDC 强在美国合规和 Coinbase 生态，银行稳定币强在传统金融账户和机构结算网络。\n\n所以我并不认为未来稳定币一定只有 USDT 和 USDC 两个。短期看 USDT 和 USDC 确实是主流，但长期看，银行稳定币可能会在机构结算、跨境支付、代币化资产、链上基金、链上美股和现实世界资产结算里慢慢划分出自己的领域。\n\n比如贝莱德。\n\n而且稳定币的重点不会永远是散户，目前企业和机构暂时还没有非用不可的必要。\n\n比如一个跨国企业要在不同国家之间调拨美元，一个基金要在链上认购代币化美债，一个券商要处理 24 小时美股和稳定币结算，一个交易所要打通美元出入金和链上资产清算，这些场景里银行稳定币的吸引力就会越来越强。\n\n因为对机构来说稳定币的收益不是最重要的，而是资金进不去、出不来、赎回不稳定、合规解释不清楚等。这也是为什么美国很期待清晰法案的通过，一旦稳定币全面有法可依，我相信别说银行了，就是大型机构都会找机会推出自己的稳定币。",
+        "contentHtml": "和麦总稍微有些不同的意见\n\n首先麦总说的是对的，之前不论是交易所扶持的还是和交易所合作的非 USDT 和 USDC 的稳定币确实发展的不好，但我个人觉得发展不起来的主要原因是因为承兑。\n\n从合规来说，USDT 的合规性相比 USDC 要差一些，尤其是资产背书方面，有 20% 以上的资产是高波动的，其中就包括了 Bitcoin ，甚至现在的黄金，还有一部分并不透明的企业债。但这并不妨碍 USDT 仍然是 亚 非 拉 最好用的稳定币。\n\n主要原因就是美元的承兑性，反而欧洲和美国因为 USDC 的承兑性更强，合规性更强，货币管制更加宽松，所以 USDC 的流动性更好。\n\n而对于 亚 非 拉 来说，USDT 就是美元，USDT 不追求合规，所以承兑在货币管制或者是有美元流通需求国家就能取代本国法币。\n\n实际上相对来说稳定币在纯加密货币领域的应用已经越来越少了，毕竟加密货币领域能买的资产是非常有限的，即便是买美股，目前现有的体量和欧美本土相比差距太大了。\n\n所以稳定币的发展如果只是靠加密货币的推广，可能 USDC 就是天花板。\n\n但我为什么说有不同的意见，是因为银行下场。\n\n前边我说了，稳定币主要的推广并不是加密货币，而是稳定的承兑，反而是背书在部分地区没有那么重要，因为稳定的承兑某种意义来说就是背书，其实汇旺就是一个很好的例子，当然如果是稳定的承兑和优质的背书，自然是更好的。\n\n银行下场的稳定币，比如说摩根大通这种存款稳定币。\n\n而银行手里有企业账户，有跨境结算，有支付网络，有机构客户，有现实世界的美元出入金通道。银行发行的美元稳定币或者存款代币，天然就不是为了让散户多炒一个币，而是为了让企业、机构、券商、基金、交易平台在链上完成美元结算。\n\n更重点在于，银行解决的是稳定币最难的一环，也就是承兑。\n\n即便是现在，用户直接拿稳定币去银行结算都不方便，但如果是银行发行的稳定币，就不一样了，越大的跨国银行就越容易做多地区的承兑，所以银行稳定币的逻辑本身就是对应银行体系里的美元负债。\n\n这就完全不是一个层级的竞争了。\n\n就像我前边说的，USDT 的重点在灰色美元流通，USDC 强在美国合规和 Coinbase 生态，银行稳定币强在传统金融账户和机构结算网络。\n\n所以我并不认为未来稳定币一定只有 USDT 和 USDC 两个。短期看 USDT 和 USDC 确实是主流，但长期看，银行稳定币可能会在机构结算、跨境支付、代币化资产、链上基金、链上美股和现实世界资产结算里慢慢划分出自己的领域。\n\n比如贝莱德。\n\n而且稳定币的重点不会永远是散户，目前企业和机构暂时还没有非用不可的必要。\n\n比如一个跨国企业要在不同国家之间调拨美元，一个基金要在链上认购代币化美债，一个券商要处理 24 小时美股和稳定币结算，一个交易所要打通美元出入金和链上资产清算，这些场景里银行稳定币的吸引力就会越来越强。\n\n因为对机构来说稳定币的收益不是最重要的，而是资金进不去、出不来、赎回不稳定、合规解释不清楚等。这也是为什么美国很期待清晰法案的通过，一旦稳定币全面有法可依，我相信别说银行了，就是大型机构都会找机会推出自己的稳定币。",
+        "link": "https://x.com/PhyrexNi/status/2071896057378959775"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071986886894076376",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "Open USD\n和USDC会是竞争关系，打个比方，安卓和苹果生态，两者是可以共存的。现在稳定币所在的进展还是停留在建设，谈不上生态和ADOPTION，所以前期需要真正客户需要的产品出来。合作企业多有毛用，CIRCLE财报里合作的企业哪家不出名？所以最终还是看你做出了什么产品。\n另外安卓和IOS在美元稳定币的背景下，哪类产品政府更偏好？我认为不是开源。\n仍然持有 $CRCL",
+      "contentHtml": "Open USD\n和USDC会是竞争关系，打个比方，安卓和苹果生态，两者是可以共存的。现在稳定币所在的进展还是停留在建设，谈不上生态和ADOPTION，所以前期需要真正客户需要的产品出来。合作企业多有毛用，CIRCLE财报里合作的企业哪家不出名？所以最终还是看你做出了什么产品。\n另外安卓和IOS在美元稳定币的背景下，哪类产品政府更偏好？我认为不是开源。\n仍然持有 <a href=\"/search?f=tweets&q=%23CRCL\">$CRCL</a>",
+      "publishedAt": "2026-06-30T15:59:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2071986886894076376",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071986512795955592",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
+      "content": "想到了关于alpha和beta的议题，很多币圈发家的兄弟在资金小的时候要么是高杠杆梭哈，赌出来了，要么就是花了大量的心思去寻找alpha。如果是自己做交易做出来的，应该是没有其他方法的。红利期的alpha多一些，那么非红利期呢？所以有一定规模后，还在每天花心思找alpha，甚至单吊alpha其实是很危险的，因为alpha某种意义上是等于陷阱的，你怎么知道你找到的东西是alpha而不是陷阱，你觉得你的审美好，但市场择时或者不认怎么办？掏空心思每天找alpha带来的大量磨损，在你有一定本金后，是会远远跑输躺在beta上的。因为大部分时候alpha是隐形的，但beta总是显而易见的，考验你的往往是能否摆脱路径依赖，把资金打进去罢了",
+      "contentHtml": "想到了关于alpha和beta的议题，很多币圈发家的兄弟在资金小的时候要么是高杠杆梭哈，赌出来了，要么就是花了大量的心思去寻找alpha。如果是自己做交易做出来的，应该是没有其他方法的。红利期的alpha多一些，那么非红利期呢？所以有一定规模后，还在每天花心思找alpha，甚至单吊alpha其实是很危险的，因为alpha某种意义上是等于陷阱的，你怎么知道你找到的东西是alpha而不是陷阱，你觉得你的审美好，但市场择时或者不认怎么办？掏空心思每天找alpha带来的大量磨损，在你有一定本金后，是会远远跑输躺在beta上的。因为大部分时候alpha是隐形的，但beta总是显而易见的，考验你的往往是能否摆脱路径依赖，把资金打进去罢了",
+      "publishedAt": "2026-06-30T15:57:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2071986512795955592",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2071983222452564290",
       "username": "octopusycc",
@@ -11506,417 +11870,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HDxlU3vaYAACYMw.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069766372389978585",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "晚上21:30见 看MU财报前瞻了\n\n盘后也见！\n\napp.binance.com/uni-qr/cspa/…",
-      "contentHtml": "晚上21:30见 看MU财报前瞻了\n\n盘后也见！\n\n<a href=\"https://app.binance.com/uni-qr/cspa/42196233603538?l=zh-CN&r=MJ6LI1UJ&source=host_share&uc=web_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>",
-      "publishedAt": "2026-06-24T12:55:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069766372389978585",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLlJZH2aUAAeswv.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069763795271159917",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "嘘🤫，别说话，让喜欢抄底的多抄点\n\n$xau",
-      "contentHtml": "嘘🤫，别说话，让喜欢抄底的多抄点\n\n<a href=\"/search?f=tweets&q=%23xau\">$xau</a>",
-      "publishedAt": "2026-06-24T12:45:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2069763795271159917",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069753459721511352",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "It doesn't really matter where you buy in the end. \n\n$BTC is going to a new ATH, yet people are still obsessing over catching 10–20% lower. \n\nThat's human nature unfortunately.\n\nGreed convinces people that good prices aren't good enough.\n\nGreed tells them to wait for the perfect entry.\n\nGreed keeps them on the sidelines while opportunity passes them by.\n\nIn the end, greed is responsible for more missed fortunes than bad entries ever were.",
-      "contentHtml": "It doesn't really matter where you buy in the end. \n\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> is going to a new ATH, yet people are still obsessing over catching 10–20% lower. \n\nThat's human nature unfortunately.\n\nGreed convinces people that good prices aren't good enough.\n\nGreed tells them to wait for the perfect entry.\n\nGreed keeps them on the sidelines while opportunity passes them by.\n\nIn the end, greed is responsible for more missed fortunes than bad entries ever were.",
-      "publishedAt": "2026-06-24T12:04:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2069753459721511352",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069752036980408658",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "虽然我也搞了尼日利亚钱包和虚拟卡。\n\n但是根据以往经验，国内信用卡买官网美区的苹果礼品卡是一切正常的。\n\n那么同理，国内信用卡买官网尼日利亚区的礼品卡也应该一切正常。\n\n为啥还有礼品卡涨不涨价的说法？",
-      "contentHtml": "虽然我也搞了尼日利亚钱包和虚拟卡。\n\n但是根据以往经验，国内信用卡买官网美区的苹果礼品卡是一切正常的。\n\n那么同理，国内信用卡买官网尼日利亚区的礼品卡也应该一切正常。\n\n为啥还有礼品卡涨不涨价的说法？",
-      "publishedAt": "2026-06-24T11:58:00.000Z",
-      "link": "https://x.com/taresky/status/2069752036980408658",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069751407696331177",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "今年以来，加密平台陆续吃到年初黄金、白银等贵金属永续合约行情，三月的原油期货永续合约，最近五六月各个平台股票代币永续合约交易量也是不断创新高。RWA、资产上链毫无疑问是26-28年加密领域的重要叙事，而RWA永续应该会是这个大叙事里最重要的一环，也是TradFi和DeFi真正融合的落地点。\n\n加密圈已经把永续合约玩得非常成熟了，现在把“标的物”扩展到真实世界资产，相当于给传统金融开了个“加密版杠杆交易入口”。谁能把流动性、合规、用户体验三者做好，谁就可能吃到最大的一块蛋糕。\n\n多谢GRVT的邀请，晚上跟丰密、陈剑两位老师一起聊聊这个话题",
-      "contentHtml": "今年以来，加密平台陆续吃到年初黄金、白银等贵金属永续合约行情，三月的原油期货永续合约，最近五六月各个平台股票代币永续合约交易量也是不断创新高。RWA、资产上链毫无疑问是26-28年加密领域的重要叙事，而RWA永续应该会是这个大叙事里最重要的一环，也是TradFi和DeFi真正融合的落地点。\n\n加密圈已经把永续合约玩得非常成熟了，现在把“标的物”扩展到真实世界资产，相当于给传统金融开了个“加密版杠杆交易入口”。谁能把流动性、合规、用户体验三者做好，谁就可能吃到最大的一块蛋糕。\n\n多谢GRVT的邀请，晚上跟丰密、陈剑两位老师一起聊聊这个话题",
-      "publishedAt": "2026-06-24T11:56:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2069751407696331177",
-      "quote": {
-        "username": "Grvt_zh",
-        "displayName": "Grvt 华语",
-        "content": "🎉@grvt_io 中文社区AMA 第三场\n\n 📻主题：全球股市上链，RWA永续是下个万亿赛道吗？\n 🗓️时间：6月24日，周三 20:00 (UTC+8)\n\n🎙️主持人： Jade @web3jade_io\n🎙️现场嘉宾：\n▪️Jon Ren @0xOperator ，高级 Insti BD\n▪️特邀嘉宾，丰密 @KuiGas  \n▪️特邀嘉宾，陈剑Jason @jason_chen998 \n▪️特邀嘉宾，qinbafrank @qinbafrank \n \n🔗评论区留下您的问题，预定收听：nitter.net/i/spaces/1nxnRReQAkexO",
-        "contentHtml": "🎉<a href=\"/grvt_io\" title=\"Grvt\">@grvt_io</a> 中文社区AMA 第三场\n\n 📻主题：全球股市上链，RWA永续是下个万亿赛道吗？\n 🗓️时间：6月24日，周三 20:00 (UTC+8)\n\n🎙️主持人： Jade <a href=\"/web3jade_io\" title=\"Jade\">@web3jade_io</a>\n🎙️现场嘉宾：\n▪️Jon Ren <a href=\"/0xOperator\" title=\"Operator\">@0xOperator</a> ，高级 Insti BD\n▪️特邀嘉宾，丰密 <a href=\"/KuiGas\" title=\"丰密\">@KuiGas</a>  \n▪️特邀嘉宾，陈剑Jason <a href=\"/jason_chen998\" title=\"陈剑Jason\">@jason_chen998</a> \n▪️特邀嘉宾，qinbafrank <a href=\"/qinbafrank\" title=\"qinbafrank\">@qinbafrank</a> \n \n🔗评论区留下您的问题，预定收听：<a href=\"https://nitter.net/i/spaces/1nxnRReQAkexO\">nitter.net/i/spaces/1nxnRReQAkexO</a>",
-        "link": "https://x.com/Grvt_zh/status/2069281400537416123",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLeIWuJa0AAyb_9.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069749727910928786",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "Mbappé's aura in the US is actually insane.\n\nEvery time I tell an American I'm French, they immediately go:\n\n\"Mbappé. Mbappé.\" 😭\n\nLike yeah what you wanna say lmao",
-      "contentHtml": "Mbappé's aura in the US is actually insane.\n\nEvery time I tell an American I'm French, they immediately go:\n\n\"Mbappé. Mbappé.\" 😭\n\nLike yeah what you wanna say lmao",
-      "publishedAt": "2026-06-24T11:49:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2069749727910928786",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069748255714353621",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "On my way to Boston for France’s last group-stage game against Norway\n\nMany people are complaining about this World Cup but ngl this has been very well organized\n\nI might stay for more games, if you know a good service to source hospitality tickets without rug, please dm me 🙏",
-      "contentHtml": "On my way to Boston for France’s last group-stage game against Norway\n\nMany people are complaining about this World Cup but ngl this has been very well organized\n\nI might stay for more games, if you know a good service to source hospitality tickets without rug, please dm me 🙏",
-      "publishedAt": "2026-06-24T11:43:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2069748255714353621",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLk5ETVWUAAStyS.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069742027492020624",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "大跳水比赛 白银领先了 率先新低\n接下来是哪个？",
-      "contentHtml": "大跳水比赛 白银领先了 率先新低\n接下来是哪个？",
-      "publishedAt": "2026-06-24T11:18:00.000Z",
-      "link": "https://x.com/hazenlee/status/2069742027492020624",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLkzZnyasAAX7_h.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069739877965713888",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "PC首发吗？",
-      "contentHtml": "PC首发吗？",
-      "publishedAt": "2026-06-24T11:10:00.000Z",
-      "link": "https://x.com/hazenlee/status/2069739877965713888",
-      "quote": {
-        "username": "WatcherGuru",
-        "displayName": "Watcher.Guru",
-        "content": "JUST IN: GTA 6 will officially cost $79.99. \n\nUltimate Edition: $99.99",
-        "contentHtml": "JUST IN: GTA 6 will officially cost $79.99. \n\nUltimate Edition: $99.99",
-        "link": "https://x.com/WatcherGuru/status/2069739708599673118",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLkxSgsbsAAzEAs.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLkxShEXMAAGFFH.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069737638316429692",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "我先抛砖引玉一下吧，\n第一目标是3600\n做短线超跌反弹的目的。\n第二目标2900-3100，\n做长线定投采用现货只买不卖。\n其实对于真正囤资产的投资者来说，\n跌下来应该开心才对，\n能用更低的成本买到自己认可的资产。\n之所以现在情绪不高，\n只是短期没了赚钱效应而已。\n不过有时候真正检验一个投资者意志品质的就是这个时候，\n撇去浮华，你还能坚定几分？",
-      "contentHtml": "我先抛砖引玉一下吧，\n第一目标是3600\n做短线超跌反弹的目的。\n第二目标2900-3100，\n做长线定投采用现货只买不卖。\n其实对于真正囤资产的投资者来说，\n跌下来应该开心才对，\n能用更低的成本买到自己认可的资产。\n之所以现在情绪不高，\n只是短期没了赚钱效应而已。\n不过有时候真正检验一个投资者意志品质的就是这个时候，\n撇去浮华，你还能坚定几分？",
-      "publishedAt": "2026-06-24T11:01:00.000Z",
-      "link": "https://x.com/hazenlee/status/2069737638316429692",
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "抛去了牛市的浮躁，说说金银跌到什么位置，你会开始投资？",
-        "contentHtml": "抛去了牛市的浮躁，说说金银跌到什么位置，你会开始投资？",
-        "link": "https://x.com/hazenlee/status/2069736509234872608"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069737609996456255",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "我先抛砖引玉一下吧，\n第一目标是3600\n做短线超跌反弹的目的。\n第二目标2900-3100，\n做长线定投采用现货只买不卖。\n其实对于真正囤资产的投资者来说，\n跌下来应该开心才对，\n能用更低的成本买到自己认可的资产。\n之所以现在情绪不高，\n只是短期没了赚钱效应而已。\n不过有时候真正检验一个投资者意志品质的就是这个时候，\n撇去浮华，你还能坚定几分？",
-      "contentHtml": "我先抛砖引玉一下吧，\n第一目标是3600\n做短线超跌反弹的目的。\n第二目标2900-3100，\n做长线定投采用现货只买不卖。\n其实对于真正囤资产的投资者来说，\n跌下来应该开心才对，\n能用更低的成本买到自己认可的资产。\n之所以现在情绪不高，\n只是短期没了赚钱效应而已。\n不过有时候真正检验一个投资者意志品质的就是这个时候，\n撇去浮华，你还能坚定几分？",
-      "publishedAt": "2026-06-24T11:01:00.000Z",
-      "link": "https://x.com/hazenlee/status/2069737609996456255",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069736509234872608",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "抛去了牛市的浮躁，说说金银跌到什么位置，你会开始投资？",
-      "contentHtml": "抛去了牛市的浮躁，说说金银跌到什么位置，你会开始投资？",
-      "publishedAt": "2026-06-24T10:56:00.000Z",
-      "link": "https://x.com/hazenlee/status/2069736509234872608",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069729498208321684",
-      "username": "168X_Fortune",
-      "displayName": "168X",
-      "avatar": "https://pbs.twimg.com/profile_images/1983732588268417025/iaNd-Idz_bigger.jpg",
-      "content": "",
-      "contentHtml": "",
-      "publishedAt": "2026-06-24T10:29:00.000Z",
-      "link": "https://x.com/168X_Fortune/status/2069729498208321684",
-      "retweet": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069725555419967666",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "每一轮技术革命，都会重新分配财富\n\n120年前的石油时代创造了大量的财富\n\n30年前的PC时代也是如此\n\nAI时代也不会例外\n\n但币圈的AI是垃圾，垃圾中的垃圾",
-      "contentHtml": "每一轮技术革命，都会重新分配财富\n\n120年前的石油时代创造了大量的财富\n\n30年前的PC时代也是如此\n\nAI时代也不会例外\n\n但币圈的AI是垃圾，垃圾中的垃圾",
-      "publishedAt": "2026-06-24T10:13:00.000Z",
-      "link": "https://x.com/dongbimao/status/2069725555419967666",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069723813957226723",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "For those who don't understand this post:\n\nThis is the quarterly chart (3M).\n\nSo far, $BTC has printed a Doji, and we saw the exact same pattern form in 2022. A Doji often signals a trend reversal.\n\nWhat I'm suggesting is simple, if the bottom isn't already in, it will likely form during Q3. \n\nI do not believe the market bottoms in Q4 as everybody expects. Instead, the bottom forms beforehand, and the majority get left behind waiting for that final Q4 capitulation that never comes.\n\nSimilar to when we topped October 6th. \n\nEveryone was waiting for one final blow-off top in late Q4 that never came. I wasn't. I was net short.",
-      "contentHtml": "For those who don't understand this post:\n\nThis is the quarterly chart (3M).\n\nSo far, <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> has printed a Doji, and we saw the exact same pattern form in 2022. A Doji often signals a trend reversal.\n\nWhat I'm suggesting is simple, if the bottom isn't already in, it will likely form during Q3. \n\nI do not believe the market bottoms in Q4 as everybody expects. Instead, the bottom forms beforehand, and the majority get left behind waiting for that final Q4 capitulation that never comes.\n\nSimilar to when we topped October 6th. \n\nEveryone was waiting for one final blow-off top in late Q4 that never came. I wasn't. I was net short.",
-      "publishedAt": "2026-06-24T10:06:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2069723813957226723",
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "Bottom. Soon. \n\nDon't shoot the messenger... $BTC",
-        "contentHtml": "Bottom. Soon. \n\nDon't shoot the messenger... <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
-        "link": "https://x.com/KillaXBT/status/2069060552064630835",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLbHTH_bYAAon-h.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069717765511131606",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "基亚正在构建多云+Agentic AI+自主网络的完整生态，近期诺基亚真的是动作频频，看这两天的动作：1、与 谷歌云深度合作，把Gemini大模型深度嵌入诺基亚的网络运维平台 Nokia Assurance Center，开发并植入 6 个专业 AI Agent（智能代理），构建了一个多代理生态系统（multi-agent ecosystem），专门针对电信网络的复杂运维场景。\n\n这 6个Agent具体能做什么？\n它们不是直接“植入”到物理网络设备里，而是嵌入到诺基亚的网络保障/运维软件平台中，实时监控、分析整个通信网络（5G/核心网等）产生的大量告警、性能数据、日志等。它们可以独立工作，也可以协作解决复杂问题，属于“glass box 自主”：AI 能分析、推理、推荐甚至在低风险场景下自动执行，但关键决策仍由人类工程师把关（可完全闭环自动化低风险操作）\n\n实际效果：\n1）问题解决时间缩短 50-80%（原来几小时的问题现在几分钟解决）；\n2）大幅减少假警报和人工排查；\n3）支持语音质量下降、光纤中断等真实用例的自动化。\n4）运营商可以用自然语言指挥网络运维\n\n电信网络运维是重运营支出领域，人工排查告警、故障定位成本高、耗时长、容易出错。50-80%的提速 + 减少 downtime，直接省钱。很多运营商已经在用 Nokia Assurance Center，这相当于给老平台装上 AI 大脑，升级成本低、价值高，相当于是对现有产品的增强。\n\n这是诺基亚在 AI-native 自主网络战略上的重要落地，大幅提升 Assurance Center 的竞争力，让它从传统监控工具变成 AI 驱动的智能运维平台。\n\n2、Nokia将把 Autonomous Network Fabric（自主网络平台）部署在 AWS 上运行。\n帮助电信运营商把完整运维栈迁移到云端，目标是实现第四级自主网络，让网络以“机器速度”运行并连接智能。\n\n把这几个动作结合起来看，诺基亚正在构建多云 + Agentic AI + 自主网络的完整生态：\nGoogle Cloud 提供AI大脑（Gemini模型 + Agent开发工具）；\nAWS 提供云底座和弹性算力 ；\n诺基亚自己提供电信Domain Knowledge + Fabric平台\n这是一种典型的hyperscaler 合作策略：不绑定单一云厂商，而是让自己的软件能在多家云上跑，降低运营商迁移门槛。\n\n对诺基亚的意义在于：\n1）从硬件向软件转型：传统诺基亚靠卖基站、路由器赚钱，毛利低、竞争激烈。现在转向高毛利的云软件 + AI服务 + 自主运维平台。\n2）抓住了AI时代网络需求：AI流量爆炸式增长，需要网络能“自我感知、自我决策、自我修复”（autonomous networks）。\n3）多云布局：同时和Google Cloud、AWS合作，显示开放性和市场竞争力。\n4）产品落地加速：Autonomous Network Fabric 不再是概念，而是即将上云的真实产品。\n\n当然转型需要时间，传统硬件业务仍占比较大，同时爱立信，华为也在同样的升级。软件收入需要时间爬坡，这一部分对财务业绩的提振需要时间才能显现。",
-      "contentHtml": "基亚正在构建多云+Agentic AI+自主网络的完整生态，近期诺基亚真的是动作频频，看这两天的动作：1、与 谷歌云深度合作，把Gemini大模型深度嵌入诺基亚的网络运维平台 Nokia Assurance Center，开发并植入 6 个专业 AI Agent（智能代理），构建了一个多代理生态系统（multi-agent ecosystem），专门针对电信网络的复杂运维场景。\n\n这 6个Agent具体能做什么？\n它们不是直接“植入”到物理网络设备里，而是嵌入到诺基亚的网络保障/运维软件平台中，实时监控、分析整个通信网络（5G/核心网等）产生的大量告警、性能数据、日志等。它们可以独立工作，也可以协作解决复杂问题，属于“glass box 自主”：AI 能分析、推理、推荐甚至在低风险场景下自动执行，但关键决策仍由人类工程师把关（可完全闭环自动化低风险操作）\n\n实际效果：\n1）问题解决时间缩短 50-80%（原来几小时的问题现在几分钟解决）；\n2）大幅减少假警报和人工排查；\n3）支持语音质量下降、光纤中断等真实用例的自动化。\n4）运营商可以用自然语言指挥网络运维\n\n电信网络运维是重运营支出领域，人工排查告警、故障定位成本高、耗时长、容易出错。50-80%的提速 + 减少 downtime，直接省钱。很多运营商已经在用 Nokia Assurance Center，这相当于给老平台装上 AI 大脑，升级成本低、价值高，相当于是对现有产品的增强。\n\n这是诺基亚在 AI-native 自主网络战略上的重要落地，大幅提升 Assurance Center 的竞争力，让它从传统监控工具变成 AI 驱动的智能运维平台。\n\n2、Nokia将把 Autonomous Network Fabric（自主网络平台）部署在 AWS 上运行。\n帮助电信运营商把完整运维栈迁移到云端，目标是实现第四级自主网络，让网络以“机器速度”运行并连接智能。\n\n把这几个动作结合起来看，诺基亚正在构建多云 + Agentic AI + 自主网络的完整生态：\nGoogle Cloud 提供AI大脑（Gemini模型 + Agent开发工具）；\nAWS 提供云底座和弹性算力 ；\n诺基亚自己提供电信Domain Knowledge + Fabric平台\n这是一种典型的hyperscaler 合作策略：不绑定单一云厂商，而是让自己的软件能在多家云上跑，降低运营商迁移门槛。\n\n对诺基亚的意义在于：\n1）从硬件向软件转型：传统诺基亚靠卖基站、路由器赚钱，毛利低、竞争激烈。现在转向高毛利的云软件 + AI服务 + 自主运维平台。\n2）抓住了AI时代网络需求：AI流量爆炸式增长，需要网络能“自我感知、自我决策、自我修复”（autonomous networks）。\n3）多云布局：同时和Google Cloud、AWS合作，显示开放性和市场竞争力。\n4）产品落地加速：Autonomous Network Fabric 不再是概念，而是即将上云的真实产品。\n\n当然转型需要时间，传统硬件业务仍占比较大，同时爱立信，华为也在同样的升级。软件收入需要时间爬坡，这一部分对财务业绩的提振需要时间才能显现。",
-      "publishedAt": "2026-06-24T09:42:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2069717765511131606",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLkbvJobwAAY2AC.png"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLkcBT-XcAAjoZN.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLkcDAzXgAATTub.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "诺基亚这两步棋瞄准的不是短期订单，而是AI时代的光学网络主导权。6月中旬，诺基亚在不到48小时内连续放出两条重磅消息：\n一是6月16日宣布宾州Allentown工厂光子芯片先进封装产能扩10倍；\n二是6月18宣布与t3 Broadband、Aureon合作，在北达科他到芝加哥之间落地一条初始100 Tb/s、可扩展至400 Tb/s的超高容量光传输网络。\n\n这两件事放在一起看，就不是简单的产能扩张+项目落地，而是诺基亚在AI基础设施赛道的一次系统性布局。核心逻辑是：把供应链安全和真实商用验证同时抓在手里。\n\n1、Allentown扩产：美国AI光网络的“本土化”底牌\nAllentown工厂目前是美国少数能把光子芯片封装成光模块的设施，全球半导体先进封装（ATP）里美国占比还不到2%。诺基亚这次投3000万美元（含CHIPS法案支持），目标是把产能拉到现在的10倍，新产能Q3末就能用。\n\n这不是简单的“扩产”，而是在关键赛道建立本地制造能力。AI数据中心对光模块的需求爆炸式增长，但供应链高度依赖亚洲。诺基亚这一步，既能响应美国政府对关键技术本土化的诉求，又能降低未来给美国hyperscaler供货时的地缘和关税风险。\n\n更重要的是，它和诺基亚正在推的“AI原生网络”战略高度匹配——光模块功耗更低、集成度更高，直接服务于下一代AI集群对能效和带宽的极致要求。执行官Justin Hotard直接把这事定义为“对AI超级周期的直接投资”。\n\n2、Aureon项目：把技术验证变成可复制的商业模板\n北达科他到芝加哥这条超高容量光传输网络、初始100 Tb/s、可扩展400 Tb/s，用的是诺基亚1830 GX平台+1.2T ICE7相干光学。\n\n这条路线的意义，个人对方搜索验证很有可能是北美“第一个”100 Tb/s+项目，也是真实AI数据中心开发项目驱动的商用落地。\n\n当前北美DCI市场正处于从“城域高纤芯并行”向“长距单纤超高容量”切换的阶段。Dell’Oro数据显示，2025年光学传输市场同比增长10%到160亿美元左右，DCI相关收入同比大增约40%。2026年整体市场还会继续高增，而DCI增速会明显高于平均。\n\n诺基亚这次把最新一代相干光学和C/L波段技术真正用在AI负载场景下，等于给市场打了一针强心剂：我们的方案在真实高负载环境下是work的。这对后续拿类似中西部走廊项目、甚至hyperscaler的scale-across DCI订单，参考价值非常大。\n\n3、和Ciena的对比：诺基亚正在补最关键的一环\n在DCI这个细分赛道，Ciena长期是领跑者，WaveLogic系列在hyperscaler里的渗透率更高，纯光学专注度也更强。\n\n但诺基亚通过Infinera收购补齐了相干引擎和垂直整合能力后，差距正在缩小。\n这次Allentown本土产能+真实北美DCI落地案例，相当于同时补了供应链安全和商用验证两个Ciena相对薄弱的环节。Ciena更像“技术纯玩家”，诺基亚则是“技术+制造+生态”组合拳。长远看，在美国市场这种组合可能更有竞争力，尤其当hyperscaler和运营商越来越在意供应链多元和本地化的时候。\n\n4、对诺基亚Optical Networks的真实影响\n光学网络已经是诺基亚Network Infrastructure里增长最快的板块。Q1 Optical Networks同比+20%，AI&Cloud订单贡献明显。公司已经把光学+IP网络的2026年增长目标上调到18-20%。\nAllentown扩产解决的是“能不能供得上”，Aureon项目解决的是“别人愿不愿意买”。\n两者叠加，对后续订单转化是实质性利好。尤其是北美DCI这块高毛利、增长快的市场，诺基亚如果能持续拿下类似参考案例，Optical业务在公司整体盈利中的权重会进一步提升。\n\n当然，竞争依然激烈。Ciena不会轻易让出份额，hyperscaler自己做可插拔模块的趋势也在继续。但诺基亚现在至少在“美国本土+真实AI场景验证”这两个维度，拿到了比较清晰的差异化标签。\n\n更长远这是为2027-2028布局:\n诺基亚这两步棋，本质上是在为AI时代的光学网络主导权下注。\nAllentown是产能和供应链的长期布局，Aureon是技术和市场的短期验证。\n\n两者结合，传递出一个清晰信号：诺基亚不只想卖设备，更想成为AI基础设施里“关键组件+可靠交付”的系统性玩家。\n对行业来说，这类动作会进一步加速北美DCI（数据中心互联）向更高容量、更低功耗的方向演进，也会倒逼其他玩家在本土制造和真实场景验证上跟进。\n\n对诺基亚自身来说，如果后续能把这种“产能+验证”的组合持续复制，Optical Networks业务大概率会成为其在AI周期里最确定的增长曲线之一。\n\n这不是一两个项目的故事，而是诺基亚在光学赛道从“参与者”向“重要玩家”转变的阶段性标志。",
-        "contentHtml": "诺基亚这两步棋瞄准的不是短期订单，而是AI时代的光学网络主导权。6月中旬，诺基亚在不到48小时内连续放出两条重磅消息：\n一是6月16日宣布宾州Allentown工厂光子芯片先进封装产能扩10倍；\n二是6月18宣布与t3 Broadband、Aureon合作，在北达科他到芝加哥之间落地一条初始100 Tb/s、可扩展至400 Tb/s的超高容量光传输网络。\n\n这两件事放在一起看，就不是简单的产能扩张+项目落地，而是诺基亚在AI基础设施赛道的一次系统性布局。核心逻辑是：把供应链安全和真实商用验证同时抓在手里。\n\n1、Allentown扩产：美国AI光网络的“本土化”底牌\nAllentown工厂目前是美国少数能把光子芯片封装成光模块的设施，全球半导体先进封装（ATP）里美国占比还不到2%。诺基亚这次投3000万美元（含CHIPS法案支持），目标是把产能拉到现在的10倍，新产能Q3末就能用。\n\n这不是简单的“扩产”，而是在关键赛道建立本地制造能力。AI数据中心对光模块的需求爆炸式增长，但供应链高度依赖亚洲。诺基亚这一步，既能响应美国政府对关键技术本土化的诉求，又能降低未来给美国hyperscaler供货时的地缘和关税风险。\n\n更重要的是，它和诺基亚正在推的“AI原生网络”战略高度匹配——光模块功耗更低、集成度更高，直接服务于下一代AI集群对能效和带宽的极致要求。执行官Justin Hotard直接把这事定义为“对AI超级周期的直接投资”。\n\n2、Aureon项目：把技术验证变成可复制的商业模板\n北达科他到芝加哥这条超高容量光传输网络、初始100 Tb/s、可扩展400 Tb/s，用的是诺基亚1830 GX平台+1.2T ICE7相干光学。\n\n这条路线的意义，个人对方搜索验证很有可能是北美“第一个”100 Tb/s+项目，也是真实AI数据中心开发项目驱动的商用落地。\n\n当前北美DCI市场正处于从“城域高纤芯并行”向“长距单纤超高容量”切换的阶段。Dell’Oro数据显示，2025年光学传输市场同比增长10%到160亿美元左右，DCI相关收入同比大增约40%。2026年整体市场还会继续高增，而DCI增速会明显高于平均。\n\n诺基亚这次把最新一代相干光学和C/L波段技术真正用在AI负载场景下，等于给市场打了一针强心剂：我们的方案在真实高负载环境下是work的。这对后续拿类似中西部走廊项目、甚至hyperscaler的scale-across DCI订单，参考价值非常大。\n\n3、和Ciena的对比：诺基亚正在补最关键的一环\n在DCI这个细分赛道，Ciena长期是领跑者，WaveLogic系列在hyperscaler里的渗透率更高，纯光学专注度也更强。\n\n但诺基亚通过Infinera收购补齐了相干引擎和垂直整合能力后，差距正在缩小。\n这次Allentown本土产能+真实北美DCI落地案例，相当于同时补了供应链安全和商用验证两个Ciena相对薄弱的环节。Ciena更像“技术纯玩家”，诺基亚则是“技术+制造+生态”组合拳。长远看，在美国市场这种组合可能更有竞争力，尤其当hyperscaler和运营商越来越在意供应链多元和本地化的时候。\n\n4、对诺基亚Optical Networks的真实影响\n光学网络已经是诺基亚Network Infrastructure里增长最快的板块。Q1 Optical Networks同比+20%，AI&Cloud订单贡献明显。公司已经把光学+IP网络的2026年增长目标上调到18-20%。\nAllentown扩产解决的是“能不能供得上”，Aureon项目解决的是“别人愿不愿意买”。\n两者叠加，对后续订单转化是实质性利好。尤其是北美DCI这块高毛利、增长快的市场，诺基亚如果能持续拿下类似参考案例，Optical业务在公司整体盈利中的权重会进一步提升。\n\n当然，竞争依然激烈。Ciena不会轻易让出份额，hyperscaler自己做可插拔模块的趋势也在继续。但诺基亚现在至少在“美国本土+真实AI场景验证”这两个维度，拿到了比较清晰的差异化标签。\n\n更长远这是为2027-2028布局:\n诺基亚这两步棋，本质上是在为AI时代的光学网络主导权下注。\nAllentown是产能和供应链的长期布局，Aureon是技术和市场的短期验证。\n\n两者结合，传递出一个清晰信号：诺基亚不只想卖设备，更想成为AI基础设施里“关键组件+可靠交付”的系统性玩家。\n对行业来说，这类动作会进一步加速北美DCI（数据中心互联）向更高容量、更低功耗的方向演进，也会倒逼其他玩家在本土制造和真实场景验证上跟进。\n\n对诺基亚自身来说，如果后续能把这种“产能+验证”的组合持续复制，Optical Networks业务大概率会成为其在AI周期里最确定的增长曲线之一。\n\n这不是一两个项目的故事，而是诺基亚在光学赛道从“参与者”向“重要玩家”转变的阶段性标志。",
-        "link": "https://x.com/qinbafrank/status/2068706626396413966",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLWFthfbEAAbaPJ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069712228203503794",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "这是加密玄学！信则有，不信则无。\n\n在6月7日的夜观星象中，“三线合一”给出了的两种可能的剧本。就目前来看，更像是在走路径1，即红线走在了蓝线和绿线之间。\n\n由于本轮周期波动率被压缩，在牛顶时，红线就多次都处在蓝/绿之间，即高点不够高；那么到了熊市，低点不够低，也算是在情理之中吧。\n\n蓝绿线之间的通道上、下沿分别是大致在mvrv 1.30\n和mvrv 1.12；对应 $BTC 的价格范围大致在$70,000 - $59,000 左右。\n\n如果真的按这个剧本走下去，那么接下来最有变盘可能的时间节点将是8月底。不然就还得继续震荡磨底。\n\n至于玄学准不准，那就只能交给时间了。",
-      "contentHtml": "这是加密玄学！信则有，不信则无。\n\n在6月7日的夜观星象中，“三线合一”给出了的两种可能的剧本。就目前来看，更像是在走路径1，即红线走在了蓝线和绿线之间。\n\n由于本轮周期波动率被压缩，在牛顶时，红线就多次都处在蓝/绿之间，即高点不够高；那么到了熊市，低点不够低，也算是在情理之中吧。\n\n蓝绿线之间的通道上、下沿分别是大致在mvrv 1.30\n和mvrv 1.12；对应 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 的价格范围大致在$70,000 - $59,000 左右。\n\n如果真的按这个剧本走下去，那么接下来最有变盘可能的时间节点将是8月底。不然就还得继续震荡磨底。\n\n至于玄学准不准，那就只能交给时间了。",
-      "publishedAt": "2026-06-24T09:20:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2069712228203503794",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLkX3BXXIAEC9gm.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "在上一次夜观星象时，我们就观察到当时红线比蓝线和绿线走的要快大概3-4个月，即同频下跌的顺序为红-蓝-绿。\n\n从图上看，蓝线的最后一跌在8月份，绿线的最后一跌在10月份，而现在红线又是跑到了蓝/绿线的前面，时间也差不多快了3-4个月。\n\n所以，从玄学角度来看，我们当前所经历的这波下跌，有可能就是传说中的“最后一哆嗦”了。\n\n至于会“哆嗦”到哪里？看上去有2种可能：\n\n可能1⃣、红线在蓝/绿之间的空间中震荡。因为红线在牛顶时，多次就都处在蓝/绿之间，反过来，到了熊底时也在期间是合理的。\n\n比如现在，红线就在蓝/绿之间。如按这个剧本，那6w的BTC可以算是无限接近了。\n\n可能2⃣、红线在10月份以后去和蓝/绿两线汇合，完成三线合一，那就是刻4年传统牛熊的时间线。不管当时价格多少，只要三线合一那就是底了。\n\n即便是“剧本2”，现在红线的位置距离也不远，所以6w+一定会处在大周期的底部区间，只是未必是绝对的底部。\n\n----------------------------------------\n\n郑重提示！\n我的分享，只建立在个人对数据或指标的理解上做出的分析和推测，不作为最终确定性结论，更不作为投资建议，\n\n请谨慎参考！",
-        "contentHtml": "在上一次夜观星象时，我们就观察到当时红线比蓝线和绿线走的要快大概3-4个月，即同频下跌的顺序为红-蓝-绿。\n\n从图上看，蓝线的最后一跌在8月份，绿线的最后一跌在10月份，而现在红线又是跑到了蓝/绿线的前面，时间也差不多快了3-4个月。\n\n所以，从玄学角度来看，我们当前所经历的这波下跌，有可能就是传说中的“最后一哆嗦”了。\n\n至于会“哆嗦”到哪里？看上去有2种可能：\n\n可能1⃣、红线在蓝/绿之间的空间中震荡。因为红线在牛顶时，多次就都处在蓝/绿之间，反过来，到了熊底时也在期间是合理的。\n\n比如现在，红线就在蓝/绿之间。如按这个剧本，那6w的BTC可以算是无限接近了。\n\n可能2⃣、红线在10月份以后去和蓝/绿两线汇合，完成三线合一，那就是刻4年传统牛熊的时间线。不管当时价格多少，只要三线合一那就是底了。\n\n即便是“剧本2”，现在红线的位置距离也不远，所以6w+一定会处在大周期的底部区间，只是未必是绝对的底部。\n\n----------------------------------------\n\n郑重提示！\n我的分享，只建立在个人对数据或指标的理解上做出的分析和推测，不作为最终确定性结论，更不作为投资建议，\n\n请谨慎参考！",
-        "link": "https://x.com/Murphychen888/status/2063433259502153962",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKI-y-YbsAAxjwj.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069709792416039070",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "做多  $usdcnh",
-      "contentHtml": "做多  <a href=\"/search?f=tweets&q=%23usdcnh\">$usdcnh</a>",
-      "publishedAt": "2026-06-24T09:10:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2069709792416039070",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLkWFSJaUAAMAqV.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "这两天左侧空了些黄金都损了\n\n都怪特朗普的🐶嘴\n\n草\n\n不过我多美元汇率的单子应该起飞了",
-        "contentHtml": "这两天左侧空了些黄金都损了\n\n都怪特朗普的🐶嘴\n\n草\n\n不过我多美元汇率的单子应该起飞了",
-        "link": "https://x.com/Bitfatty/status/2067307647599325414",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLCNV2sbEAAZ4Bc.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLCNV21akAA9kWn.jpg"
           }
         ]
       },
