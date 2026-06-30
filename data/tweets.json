@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T11:02:30.934Z",
+  "lastUpdated": "2026-06-30T12:39:30.862Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,100 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 626,
-    "successUsers": 31,
-    "failedUsers": 1
+    "newFetched": 646,
+    "successUsers": 32,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2071934404281213438",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "谁能拿到海力士的HBM4测试设备订单？最有可能拿到这笔订单的主要是安德测试和Teradyne（泰瑞达）两者将占据HBM4测试仪（核心ATE自动化测试设备）订单的大头、Onto可能拿到订单中的非ATE设备商份额、韩国本土的UniTest等公司可能分得部分补充设备（如烧录/老化测试仪）、探针卡等配套可能由FormFactor等公司参与。\n\nHBM4测试对速度、并行度、功耗和系统级验证要求极高，技术门槛高，供应链相对集中，属于高价值、高并行、高速内存测试设备。\n1）Advantest（安德测试）：HBM测试设备市场领导者（份额约60-70%），长期为SK海力士、三星、Micron等内存厂商供应HBM/DRAM测试系统（如T5503HS2系列，支持高并行HBM测试）。SK海力士为保障HBM良率，已在使用其设备。AI/HBM需求推动下，其内存测试业务持续受益，是本次订单最稳的候选。\n\n2）Teradyne（泰瑞达）：内存测试领域的另一巨头，2025年推出专为HBM设计的Magnum 7H新一代测试平台，支持HBM3/HBM4高速测试（数据率达4.5 Gbps+），已开始在主要HBM厂商量产出货。Teradyne与SK海力士在HBM测试解决方案上有合作记录（包括获奖认可），具备直接竞争力，尤其在新一代HBM4平台上。\n\n3）Onto是半导体工艺控制领域的领先厂商，核心产品是Dragonfly系列（如Dragonfly G3/G5）高分辨率2D/3D检测与量测系统，专攻先进封装（Advanced Packaging）、HBM堆叠、凸块（bump）量测、TSV深度、RDL高度、亚表面缺陷检测等。\n\nOnto的Dragonfly系统已被多家逻辑与内存厂商用于HBM + GPU的异构集成（AI芯片封装），支持亚微米级检测和3D量测。Onto是本次订单中最值得关注的非ATE设备商之一，大概率能拿到一定份额，尤其如果SK海力士在HBM4量产验证中采用其新系统。\n\n4）韩国本土厂商（如UniTest）：可能拿到部分订单。UniTest已完成SK海力士HBM4烧录测试仪（burn-in tester）的量产认证，适合工厂内的老化/可靠性测试环节。韩国设备商在成本、交付和服务响应上有优势，可能分得补充或配套设备。\n\n配套设备厂商：\n1）探针卡（Probe Card）：FormFactor（美国）是全球领先的MEMS探针卡供应商，广泛用于DRAM/HBM晶圆测试（高针数、高速需求），很可能参与配套。Technoprobe等也有机会。\n\n2）晶圆检测/量测设备：KLA、Applied Materials、东京电子（Tokyo Electron）等，可能涉及光学/缺陷检测部分（广义“检测设备”范畴）。\n\nSK海力士此前与供应商共同开发HBM4系统级测试（SLT/安装测试）设备，部分能力已内部化，但工厂量产仍需外部标准ATE支持。\n\n订单分配逻辑\n1）核心HBM4测试仪（高价值部分）：Advantest + Teradyne大概率拿下大部分（可能70%以上），因为它们在技术、产能和历史供货上领先。设备零部件交期长（已超1年），双方已提前口头协商明年交付量。\n\n2）补充/配套设备：UniTest等韩国厂商、探针卡/探针系统厂商有机会。\n\n总台数约200台并非单一供应商独占，而是多家分担（不同类型设备：ATE、烧录仪、探针系统、检测仪等）。\n\n还是之前推文聊到的，测试与先进封装是容易被低估的环节。过去市场喜欢把封测看成低毛利、低过去市场喜欢把封测看成低毛利、低壁垒后周期资产，但AI/HBM改变了这一点。先进封装越来越接近前道制造，设备壁垒和客户认证壁垒提高",
+      "contentHtml": "谁能拿到海力士的HBM4测试设备订单？最有可能拿到这笔订单的主要是安德测试和Teradyne（泰瑞达）两者将占据HBM4测试仪（核心ATE自动化测试设备）订单的大头、Onto可能拿到订单中的非ATE设备商份额、韩国本土的UniTest等公司可能分得部分补充设备（如烧录/老化测试仪）、探针卡等配套可能由FormFactor等公司参与。\n\nHBM4测试对速度、并行度、功耗和系统级验证要求极高，技术门槛高，供应链相对集中，属于高价值、高并行、高速内存测试设备。\n1）Advantest（安德测试）：HBM测试设备市场领导者（份额约60-70%），长期为SK海力士、三星、Micron等内存厂商供应HBM/DRAM测试系统（如T5503HS2系列，支持高并行HBM测试）。SK海力士为保障HBM良率，已在使用其设备。AI/HBM需求推动下，其内存测试业务持续受益，是本次订单最稳的候选。\n\n2）Teradyne（泰瑞达）：内存测试领域的另一巨头，2025年推出专为HBM设计的Magnum 7H新一代测试平台，支持HBM3/HBM4高速测试（数据率达4.5 Gbps+），已开始在主要HBM厂商量产出货。Teradyne与SK海力士在HBM测试解决方案上有合作记录（包括获奖认可），具备直接竞争力，尤其在新一代HBM4平台上。\n\n3）Onto是半导体工艺控制领域的领先厂商，核心产品是Dragonfly系列（如Dragonfly G3/G5）高分辨率2D/3D检测与量测系统，专攻先进封装（Advanced Packaging）、HBM堆叠、凸块（bump）量测、TSV深度、RDL高度、亚表面缺陷检测等。\n\nOnto的Dragonfly系统已被多家逻辑与内存厂商用于HBM + GPU的异构集成（AI芯片封装），支持亚微米级检测和3D量测。Onto是本次订单中最值得关注的非ATE设备商之一，大概率能拿到一定份额，尤其如果SK海力士在HBM4量产验证中采用其新系统。\n\n4）韩国本土厂商（如UniTest）：可能拿到部分订单。UniTest已完成SK海力士HBM4烧录测试仪（burn-in tester）的量产认证，适合工厂内的老化/可靠性测试环节。韩国设备商在成本、交付和服务响应上有优势，可能分得补充或配套设备。\n\n配套设备厂商：\n1）探针卡（Probe Card）：FormFactor（美国）是全球领先的MEMS探针卡供应商，广泛用于DRAM/HBM晶圆测试（高针数、高速需求），很可能参与配套。Technoprobe等也有机会。\n\n2）晶圆检测/量测设备：KLA、Applied Materials、东京电子（Tokyo Electron）等，可能涉及光学/缺陷检测部分（广义“检测设备”范畴）。\n\nSK海力士此前与供应商共同开发HBM4系统级测试（SLT/安装测试）设备，部分能力已内部化，但工厂量产仍需外部标准ATE支持。\n\n订单分配逻辑\n1）核心HBM4测试仪（高价值部分）：Advantest + Teradyne大概率拿下大部分（可能70%以上），因为它们在技术、产能和历史供货上领先。设备零部件交期长（已超1年），双方已提前口头协商明年交付量。\n\n2）补充/配套设备：UniTest等韩国厂商、探针卡/探针系统厂商有机会。\n\n总台数约200台并非单一供应商独占，而是多家分担（不同类型设备：ATE、烧录仪、探针系统、检测仪等）。\n\n还是之前推文聊到的，测试与先进封装是容易被低估的环节。过去市场喜欢把封测看成低毛利、低过去市场喜欢把封测看成低毛利、低壁垒后周期资产，但AI/HBM改变了这一点。先进封装越来越接近前道制造，设备壁垒和客户认证壁垒提高",
+      "publishedAt": "2026-06-30T12:30:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2071934404281213438",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMD9WXPXsAAeWUx.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "沿着昨天的思路梳理下全球半导体设备、材料和封装测试产业链全景图，之前提到的几只美股相关的票昨晚都在狂拉。从整个产业层面核心以下几点：\n1）AI资本开支正在从GPU、HBM/存储、电力等环节进一步往设备、材料、封装、测试等环节扩散；第一波是超大云厂商云厂商的资本开支驱动，第二波是半导体龙头（链主厂商）驱动。\n2）节奏是台积电、三星、三星海力士，美光，国内长鑫/长存等链主扩产，会首先拉动前道设备，随后拉动材料耗材，再通过HBM/Chiplet/CoWoS拉动先进封装和测试。\n\n3）未来一两年最强的不是泛半导体，而是“先进制程设备 + HBM设备 + 先进封装/测试 + 高纯材料 + 中国国产替代”五条线。\n\n4）测试与先进封装：这轮周期里最容易被低估的环节。过去市场喜欢把封测看成低毛利、低过去市场喜欢把封测看成低毛利、低壁垒后周期资产，但AI/HBM改变了这一点。先进封装越来越接近前道制造，设备壁垒和客户认证壁垒提高。\n\n4）如果只看确定性，全球龙头是 ASML、AMAT、LRCX、KLAC、TEL、SCREEN、Advantest、Teradyne、Disco、Entegris。\n\n如果看弹性，重点是 Hanmi、BESI、ASMPT、FormFactor、WinWay、Leeno、ISC、Ibiden、Shinko、Unimicron，以及A股北方华创、中微、拓荆、盛美、华海、长川、华峰、江丰、安集。\n\n5）如果看中国长期主线，则是 设备国产化率提升 + 材料国产化率提升 + 封测先进化，这条链的周期可能比全球AI设备周期更长。\n\n6）当然也要注意半导体设备、材料、封装测试产业链环节多、公司多。真要全覆盖对普通投资人也很难，而重点覆盖设备、材料、封装测试等股票的ETF更值得关注，其实A股的相关ETF更纯粹。\n美股：SOXX、SMH、EUV\nA股：159516/588710/159558/588170\n港股：3191/3119",
+        "contentHtml": "沿着昨天的思路梳理下全球半导体设备、材料和封装测试产业链全景图，之前提到的几只美股相关的票昨晚都在狂拉。从整个产业层面核心以下几点：\n1）AI资本开支正在从GPU、HBM/存储、电力等环节进一步往设备、材料、封装、测试等环节扩散；第一波是超大云厂商云厂商的资本开支驱动，第二波是半导体龙头（链主厂商）驱动。\n2）节奏是台积电、三星、三星海力士，美光，国内长鑫/长存等链主扩产，会首先拉动前道设备，随后拉动材料耗材，再通过HBM/Chiplet/CoWoS拉动先进封装和测试。\n\n3）未来一两年最强的不是泛半导体，而是“先进制程设备 + HBM设备 + 先进封装/测试 + 高纯材料 + 中国国产替代”五条线。\n\n4）测试与先进封装：这轮周期里最容易被低估的环节。过去市场喜欢把封测看成低毛利、低过去市场喜欢把封测看成低毛利、低壁垒后周期资产，但AI/HBM改变了这一点。先进封装越来越接近前道制造，设备壁垒和客户认证壁垒提高。\n\n4）如果只看确定性，全球龙头是 ASML、AMAT、LRCX、KLAC、TEL、SCREEN、Advantest、Teradyne、Disco、Entegris。\n\n如果看弹性，重点是 Hanmi、BESI、ASMPT、FormFactor、WinWay、Leeno、ISC、Ibiden、Shinko、Unimicron，以及A股北方华创、中微、拓荆、盛美、华海、长川、华峰、江丰、安集。\n\n5）如果看中国长期主线，则是 设备国产化率提升 + 材料国产化率提升 + 封测先进化，这条链的周期可能比全球AI设备周期更长。\n\n6）当然也要注意半导体设备、材料、封装测试产业链环节多、公司多。真要全覆盖对普通投资人也很难，而重点覆盖设备、材料、封装测试等股票的ETF更值得关注，其实A股的相关ETF更纯粹。\n美股：SOXX、SMH、EUV\nA股：159516/588710/159558/588170\n港股：3191/3119",
+        "link": "https://x.com/qinbafrank/status/2071777622271648140",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMBuwwCbwAAtBMh.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071923637922251067",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Bitcoin will eventually break the diminishing cycles pattern.\n\nI ran the numbers on both the diminishing returns above each previous ATH and the progressively shallower bear market retracements since $BTC's first cycle.\n\nFollowing that trajectory forever simply doesn't make sense.\n\nIf the pattern continued indefinitely, Bitcoin would eventually become an asset that barely moves, despite increasing global demand, ongoing monetary expansion + limited supply.\n\nAt some point, the model has to break.\n\nMy view is that the break comes through significantly higher bear market lows than historical mathematics would suggest. Once that happens, the entire diminishing returns model begins to fail as well, leading to stronger upside than the trend currently projects.\n\nPurely mathematically, the model would imply something like this...\n\nThis cycle: 38K bottom\nNext cycle: 46K bottom\nThen: 55K bottom\nThen: 65K bottom\n\nThat trajectory doesn't make much sense. It would also imply progressively smaller upside after each cycle, eventually leaving BTC with very little volatility.\n\nI think reality looks different.\n\nInstead of repeating the shallower bear market retracements forever, we could transition into 60% corrections, then 40-50%, with faster recoveries and stronger returns than the diminishing models imply.\n\nIf that happens, timing cycle bottoms will become increasingly difficult, because the market will eventually stop respecting the historical diminishing factors that everyone expects.\n\nHence why I believe it's always a good time to buy after a significant macro retrace, rather than trying to perfectly time the bottom.\n\nMany will get f*cked & miss the lows in doing so.",
+      "contentHtml": "Bitcoin will eventually break the diminishing cycles pattern.\n\nI ran the numbers on both the diminishing returns above each previous ATH and the progressively shallower bear market retracements since <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>'s first cycle.\n\nFollowing that trajectory forever simply doesn't make sense.\n\nIf the pattern continued indefinitely, Bitcoin would eventually become an asset that barely moves, despite increasing global demand, ongoing monetary expansion + limited supply.\n\nAt some point, the model has to break.\n\nMy view is that the break comes through significantly higher bear market lows than historical mathematics would suggest. Once that happens, the entire diminishing returns model begins to fail as well, leading to stronger upside than the trend currently projects.\n\nPurely mathematically, the model would imply something like this...\n\nThis cycle: 38K bottom\nNext cycle: 46K bottom\nThen: 55K bottom\nThen: 65K bottom\n\nThat trajectory doesn't make much sense. It would also imply progressively smaller upside after each cycle, eventually leaving BTC with very little volatility.\n\nI think reality looks different.\n\nInstead of repeating the shallower bear market retracements forever, we could transition into 60% corrections, then 40-50%, with faster recoveries and stronger returns than the diminishing models imply.\n\nIf that happens, timing cycle bottoms will become increasingly difficult, because the market will eventually stop respecting the historical diminishing factors that everyone expects.\n\nHence why I believe it's always a good time to buy after a significant macro retrace, rather than trying to perfectly time the bottom.\n\nMany will get f*cked & miss the lows in doing so.",
+      "publishedAt": "2026-06-30T11:47:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2071923637922251067",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMDx-hZXgAAetmE.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071913659102875668",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "上期所又来了家人萌\n之前调高保证金比例和涨停板幅度都是不利于多头和流动性\n这会调低了涨跌停和保证金比例\n是个短期的流动性利好缓解信号\n但是目前逆势你说做多吧风险也有\n但是无脑做空性价比就不高了\n短期不要继续无脑看空做空啦\n一定多止盈或者多休息吧\n行情做底需要时间 耐心\n\n具体的比例我分享一下：\n2026年2月9日调整后的保证金比例：\n•黄金期货涨跌停板幅度：17%\n•套保持仓交易保证金比例：18%\n•一般持仓交易保证金比例：19%\n2026年7月2日调整后的保证金比例（根据您提供的图片）：\n•黄金期货涨跌停板幅度：14%\n•套保持仓交易保证金比例：15%\n•一般持仓交易保证金比例：16%\n结论： 这次调整是降低了保证金比例，具体降低了：\n•涨跌停板幅度：从17%降低到14%（降低3个百分点）\n•套保持仓保证金：从18%降低到15%（降低3个百分点）\n•一般持仓保证金：从19%降低到16%（降低3个百分点）\n所以2026年7月2日的调整是调低了保证金比例，这通常意味着交易成本降低，市场流动性可能增加。",
+      "contentHtml": "上期所又来了家人萌\n之前调高保证金比例和涨停板幅度都是不利于多头和流动性\n这会调低了涨跌停和保证金比例\n是个短期的流动性利好缓解信号\n但是目前逆势你说做多吧风险也有\n但是无脑做空性价比就不高了\n短期不要继续无脑看空做空啦\n一定多止盈或者多休息吧\n行情做底需要时间 耐心\n\n具体的比例我分享一下：\n2026年2月9日调整后的保证金比例：\n•黄金期货涨跌停板幅度：17%\n•套保持仓交易保证金比例：18%\n•一般持仓交易保证金比例：19%\n2026年7月2日调整后的保证金比例（根据您提供的图片）：\n•黄金期货涨跌停板幅度：14%\n•套保持仓交易保证金比例：15%\n•一般持仓交易保证金比例：16%\n结论： 这次调整是降低了保证金比例，具体降低了：\n•涨跌停板幅度：从17%降低到14%（降低3个百分点）\n•套保持仓保证金：从18%降低到15%（降低3个百分点）\n•一般持仓保证金：从19%降低到16%（降低3个百分点）\n所以2026年7月2日的调整是调低了保证金比例，这通常意味着交易成本降低，市场流动性可能增加。",
+      "publishedAt": "2026-06-30T11:08:00.000Z",
+      "link": "https://x.com/hazenlee/status/2071913659102875668",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMDqfMJXAAA8Md0.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "上金所很良心\n每次提醒风险都是一个看跌的信号",
+        "contentHtml": "上金所很良心\n每次提醒风险都是一个看跌的信号",
+        "link": "https://x.com/hazenlee/status/2047579871321510334",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HGp3CSga4AErbL_.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2071911171264033092",
       "username": "hazenlee",
@@ -910,6 +999,10 @@
           "url": "https://pbs.twimg.com/media/HMBqpwhasAA4Dwm.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -2966,6 +3059,25 @@
           "url": "https://pbs.twimg.com/media/HL6ApdTWsAA2l_a.png"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2071237378795061281",
+      "username": "heart_",
+      "displayName": "Heart",
+      "avatar": "https://pbs.twimg.com/profile_images/1804118307118694400/mW6yS3Ai_bigger.jpg",
+      "content": "make sure to lose it all on solana memes this summer so you can’t bid the lows in October 👌🏻",
+      "contentHtml": "make sure to lose it all on solana memes this summer so you can’t bid the lows in October 👌🏻",
+      "publishedAt": "2026-06-28T14:20:00.000Z",
+      "link": "https://x.com/heart_/status/2071237378795061281",
+      "retweet": {
+        "username": "yuren477",
+        "displayName": "余人sama"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -6942,6 +7054,31 @@
         "displayName": "Elon Musk",
         "content": "",
         "link": "https://x.com/elonmusk/status/2070253062619328925"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2070259970629681240",
+      "username": "Wild_Randomness",
+      "displayName": "Mandelbrot",
+      "avatar": "https://pbs.twimg.com/profile_images/1583864031852781568/5IrqTaVc_bigger.jpg",
+      "content": "$SIVE\n\nSerenity Lied, People Died",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23SIVE\">$SIVE</a>\n\nSerenity Lied, People Died",
+      "publishedAt": "2026-06-25T21:36:00.000Z",
+      "link": "https://x.com/Wild_Randomness/status/2070259970629681240",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HLsKd-4b0AAkg1W.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "yuren477",
+        "displayName": "余人sama"
       },
       "stats": {
         "replies": 0,
@@ -11846,131 +11983,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069588208254669255",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "DXY继续狂飙\n这波趋势转换关键的指标就是DXY\n在美元的升值预期下\n目前已经看到给各种资产带来的压力了\n不容小觑\n只要DXY涨势依旧\n任何反弹都是最后的逃命的机会",
-      "contentHtml": "DXY继续狂飙\n这波趋势转换关键的指标就是DXY\n在美元的升值预期下\n目前已经看到给各种资产带来的压力了\n不容小觑\n只要DXY涨势依旧\n任何反弹都是最后的逃命的机会",
-      "publishedAt": "2026-06-24T01:07:00.000Z",
-      "link": "https://x.com/hazenlee/status/2069588208254669255",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLinUxga4AAJODV.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "DXY这个前高100.643突破了\n关注一下趋势线的拓展延伸100.779\n如果突破这里对所有资产都会产生阶段性的打压",
-        "contentHtml": "DXY这个前高100.643突破了\n关注一下趋势线的拓展延伸100.779\n如果突破这里对所有资产都会产生阶段性的打压",
-        "link": "https://x.com/hazenlee/status/2067551343326474712",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLFq_DxbAAAdl_Y.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069578281754702326",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "🇰🇷韩国股市好刺激啊\n天堂地狱来回窜",
-      "contentHtml": "🇰🇷韩国股市好刺激啊\n天堂地狱来回窜",
-      "publishedAt": "2026-06-24T00:28:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2069578281754702326",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLieeU5aYAAZjP6.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069570234957402215",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "看了一眼KOSPI的走势，如果等会开盘继续下跌，就跌破了韩股这波从去年四月开始的牛市LPPL下限了，基本上标志着这波韩股和美股疯狂的内存存储的多头趋势结束。\n\n看着韩股的走势心中有点五味杂陈，从后视镜的角度来讲，如果去年8月逃顶以太，能发掘韩股内存板块还有存储板块就好了，可以在大仓位以太3x的基础上再来个3x。但是后视镜怎么看都很容易，难的是当时的决策。所以只能记下这波错过的逻辑，以后加以改进，继续提高未来决策的胜率。\n当时的偏见就是币圈周期末期，以往的币圈都是流动性的最后一棒，所以采取了极端保守的策略，包括去年底金银的行情，和今年的美股行情也都是因为保守没吃到多头末端的尾波冲浪的利润。\n你问我后悔吗？我只能哭着说不后悔。因为我也曾经历过狂热的幻想，当幻想破灭的时候，那种痛苦比财产上的损失更令人难以接受。以前没经历过周期的我，只是在趋势的中后段加入，小仓位尝到了点甜头，然后贪婪让我觉得赚的少，开始加仓重仓，甚至加杠杆，结果这个世界是公平的，多头赚的多，空头赚的快，就像繁花中爷叔说的纽约帝国大厦的梗一样。\n而当舞曲停止的时候，大家都想找那个流动性出口的“凳子”开始玩抢凳子游戏的时候，你会发现所有的浮盈都是虚幻，真正能给你变现的窗口期转瞬即逝，还记得繁花中黄觉饰演的机构负责人的那句“资金只有在涨势中才能撤出来。”而绝大多数参与金融市场博弈的人们，都是可怜的过山车观光客，狗操的韩国监管竟然还要吃干抹净的对未实现盈亏收税。这也就不难理解为啥韩国人这么爱赌，有的时候是迫于无奈。\n还记得最近刷的新闻，首尔江南豪宅购买量暴增，而国内杭州深圳高端豪宅也一样。大概率很多的新晋富豪还没学会防守，像曾经年轻的我一样看着自己的账户赚的飞起，继续消耗场外的流动性提前超额消费。要知道，人最大的错觉就是把盛世当永恒，和现在很多前瞻的PE一样，把时代和周期已经给到的的红利当做了永恒不变的既定未来。但怎么可能呢？唯一不变的就是一直在变，一个行业超额的利润本身就是对需求的反向压制，所以注定乐曲会终结。只希望曲终人散时，你可以放弃幻想，保持流动性和敬畏，耐心等待并发掘下一个趋势。",
-      "contentHtml": "看了一眼KOSPI的走势，如果等会开盘继续下跌，就跌破了韩股这波从去年四月开始的牛市LPPL下限了，基本上标志着这波韩股和美股疯狂的内存存储的多头趋势结束。\n\n看着韩股的走势心中有点五味杂陈，从后视镜的角度来讲，如果去年8月逃顶以太，能发掘韩股内存板块还有存储板块就好了，可以在大仓位以太3x的基础上再来个3x。但是后视镜怎么看都很容易，难的是当时的决策。所以只能记下这波错过的逻辑，以后加以改进，继续提高未来决策的胜率。\n当时的偏见就是币圈周期末期，以往的币圈都是流动性的最后一棒，所以采取了极端保守的策略，包括去年底金银的行情，和今年的美股行情也都是因为保守没吃到多头末端的尾波冲浪的利润。\n你问我后悔吗？我只能哭着说不后悔。因为我也曾经历过狂热的幻想，当幻想破灭的时候，那种痛苦比财产上的损失更令人难以接受。以前没经历过周期的我，只是在趋势的中后段加入，小仓位尝到了点甜头，然后贪婪让我觉得赚的少，开始加仓重仓，甚至加杠杆，结果这个世界是公平的，多头赚的多，空头赚的快，就像繁花中爷叔说的纽约帝国大厦的梗一样。\n而当舞曲停止的时候，大家都想找那个流动性出口的“凳子”开始玩抢凳子游戏的时候，你会发现所有的浮盈都是虚幻，真正能给你变现的窗口期转瞬即逝，还记得繁花中黄觉饰演的机构负责人的那句“资金只有在涨势中才能撤出来。”而绝大多数参与金融市场博弈的人们，都是可怜的过山车观光客，狗操的韩国监管竟然还要吃干抹净的对未实现盈亏收税。这也就不难理解为啥韩国人这么爱赌，有的时候是迫于无奈。\n还记得最近刷的新闻，首尔江南豪宅购买量暴增，而国内杭州深圳高端豪宅也一样。大概率很多的新晋富豪还没学会防守，像曾经年轻的我一样看着自己的账户赚的飞起，继续消耗场外的流动性提前超额消费。要知道，人最大的错觉就是把盛世当永恒，和现在很多前瞻的PE一样，把时代和周期已经给到的的红利当做了永恒不变的既定未来。但怎么可能呢？唯一不变的就是一直在变，一个行业超额的利润本身就是对需求的反向压制，所以注定乐曲会终结。只希望曲终人散时，你可以放弃幻想，保持流动性和敬畏，耐心等待并发掘下一个趋势。",
-      "publishedAt": "2026-06-23T23:56:00.000Z",
-      "link": "https://x.com/hazenlee/status/2069570234957402215",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLiXJ9mW0AA6lZg.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069568125637447844",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "Bitget最终完全进化为一个券商了，关注到他们最新的产品还是选择了券商模式，直接可以从其他券商转入股票，这已经和我们大家用的富途，长桥，盈立等没有本质的区别\n\n之前做美股要2选1，要么币圈交易所做合约要么转去传统券商。现在Bitget打破了这个次元壁，推出了美股2.0，既可以选择美股代币rToken，又可以选择Bitget美股券商直连\n\n简单体验了下Bitget的美股券商直连\n\n第一感觉是回到了传统券商，操作习惯和UI基本和传统券商一致，交易体验非常丝滑，而且支持日内交易，没有次数限制，重要的是支持从传统券商转出股票到Bitget并且接收免手续费，我也试了把之前券商的仓位转一部分过来，简单选一下转出券商和持仓信息就能转了，操作挺简洁的\n\nBitget和美国持牌券商 RQD Clearing深度合作，遵守相关的监管框架，FINRA 披露显示，RQD 具备 fully-disclosed / omnibus clearing、证券清算结算、prime brokerage、证券借贷等业务范围，并可为其他 broker-dealer 提供清算服务。RQD之前合作过AVS，为其零售交易平台提供清算、结算和资产服务支持，也是目前BIT的合作券商之一\n\n流动性问题也不需要担心，Bitget美股券商直连纳斯达克/纽交所，覆盖一万两千只美股/ETF而且持有股票的同时也享有分红和投票权，分红直接到账，如果有拆股或者并购等持仓也会按比例调整\n\n现在Bitget一手抓股代币rToken另一手抓美股券商直连，把加密和传统券商都握在了手里，而且之前我说Bitget如果美股体验直追富途，流动性对接纳斯达克那真是十分期待了，现在看起来基本完美达到了这个高度\n\nBitget，这一次又是币圈老牌交易所在美股领域最前瞻性的一个布局了",
-      "contentHtml": "Bitget最终完全进化为一个券商了，关注到他们最新的产品还是选择了券商模式，直接可以从其他券商转入股票，这已经和我们大家用的富途，长桥，盈立等没有本质的区别\n\n之前做美股要2选1，要么币圈交易所做合约要么转去传统券商。现在Bitget打破了这个次元壁，推出了美股2.0，既可以选择美股代币rToken，又可以选择Bitget美股券商直连\n\n简单体验了下Bitget的美股券商直连\n\n第一感觉是回到了传统券商，操作习惯和UI基本和传统券商一致，交易体验非常丝滑，而且支持日内交易，没有次数限制，重要的是支持从传统券商转出股票到Bitget并且接收免手续费，我也试了把之前券商的仓位转一部分过来，简单选一下转出券商和持仓信息就能转了，操作挺简洁的\n\nBitget和美国持牌券商 RQD Clearing深度合作，遵守相关的监管框架，FINRA 披露显示，RQD 具备 fully-disclosed / omnibus clearing、证券清算结算、prime brokerage、证券借贷等业务范围，并可为其他 broker-dealer 提供清算服务。RQD之前合作过AVS，为其零售交易平台提供清算、结算和资产服务支持，也是目前BIT的合作券商之一\n\n流动性问题也不需要担心，Bitget美股券商直连纳斯达克/纽交所，覆盖一万两千只美股/ETF而且持有股票的同时也享有分红和投票权，分红直接到账，如果有拆股或者并购等持仓也会按比例调整\n\n现在Bitget一手抓股代币rToken另一手抓美股券商直连，把加密和传统券商都握在了手里，而且之前我说Bitget如果美股体验直追富途，流动性对接纳斯达克那真是十分期待了，现在看起来基本完美达到了这个高度\n\nBitget，这一次又是币圈老牌交易所在美股领域最前瞻性的一个布局了",
-      "publishedAt": "2026-06-23T23:47:00.000Z",
-      "link": "https://x.com/dongbimao/status/2069568125637447844",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLiTQ15XsAADppM.png"
-        }
-      ],
-      "quote": {
-        "username": "Bitget_zh",
-        "displayName": "Bitget中文",
-        "content": "Bitget美股直连交易正式上线！\n\n在Bitget通过美国持牌券商交易超过10,000只美国上市股票和ETF，0.0001股起投。\n\n· 支持转仓\n· 用户友好界面，5x24交易\n· 免费实时行情\n· 0门槛碎股\n\n更多功能请更新到v2.86.0版本体验。\n\n买美股，首选Bitget！\n\nbitget.cloud/zh-CN/support/a…",
-        "contentHtml": "Bitget美股直连交易正式上线！\n\n在Bitget通过美国持牌券商交易超过10,000只美国上市股票和ETF，0.0001股起投。\n\n· 支持转仓\n· 用户友好界面，5x24交易\n· 免费实时行情\n· 0门槛碎股\n\n更多功能请更新到v2.86.0版本体验。\n\n买美股，首选Bitget！\n\n<a href=\"https://www.bitget.cloud/zh-CN/support/articles-preview/12560603886230\">bitget.cloud/zh-CN/support/a…</a>",
-        "link": "https://x.com/Bitget_zh/status/2068907184210219311",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLY52UOaYAAetVa.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069558016714604982",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "Being born into a wealthy family is probably the most poisoned gift there is.\n\nRich kids love talking about the \"sacrifices\" they had to make to take over daddy's business.\n\nYeah, shut the fuck up.\n\nNothing comes close to building yourself up from the lower or middle class.",
-      "contentHtml": "Being born into a wealthy family is probably the most poisoned gift there is.\n\nRich kids love talking about the \"sacrifices\" they had to make to take over daddy's business.\n\nYeah, shut the fuck up.\n\nNothing comes close to building yourself up from the lower or middle class.",
-      "publishedAt": "2026-06-23T23:07:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2069558016714604982",
       "stats": {
         "replies": 0,
         "retweets": 0,
