@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T15:57:22.790Z",
+  "lastUpdated": "2026-07-01T22:29:20.401Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,432 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 649,
+    "newFetched": 650,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2072445609949438030",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "这个要是通过了以后除了特斯拉还有个iPhone国行也会更便宜？",
+      "contentHtml": "这个要是通过了以后除了特斯拉还有个iPhone国行也会更便宜？",
+      "publishedAt": "2026-07-01T22:21:00.000Z",
+      "link": "https://x.com/hazenlee/status/2072445609949438030",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMLOStubAAAi7H6.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072431507646615629",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "我觉得 还有一个思路\n\n原本单位价值的Token被HBM涨价所影响，Token也变贵了\n\n而 Meta的新闻改变了这一现状",
+      "contentHtml": "我觉得 还有一个思路\n\n原本单位价值的Token被HBM涨价所影响，Token也变贵了\n\n而 Meta的新闻改变了这一现状",
+      "publishedAt": "2026-07-01T21:25:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072431507646615629",
+      "quote": {
+        "username": "Franktradinglog",
+        "displayName": "Frank trading",
+        "content": "今天AI被一条 Meta 的新闻直接打爆了。\nBloomberg 的消息是，Meta 正在研究把自己多出来的 AI compute 拿出去卖，甚至可能做成一个新的 cloud business。这个计划还在早期，后面也可能调整，但市场已经先交易了：META 被买，Nebius 这些 NeoCloud 和半导体相关股票被砸。\n\n表面上看，这个交易很容易理解。过去两年 NeoCloud 最核心的叙事，就是 GPU 短缺。大厂买不到足够的卡，所以只能找 CoreWeave、Nebius、Oracle 这些外部 provider 锁 capacity。现在 Meta 自己要反过来卖 compute，市场自然会开始怀疑：如果大客户自己都变成供应商了，那这条链是不是要从短缺走向过剩？\n\n但我觉得今天市场的的selloff真的很草履虫。\n\nMeta 现在的行为，其实更像一个重资产公司在做库存管理和资产周转。一边，它确实可能有一部分阶段性富余的 GPU capacity 想拿出来变现。另一边，它还在继续签新的长期 AI capacity。Meta 和 Crusoe 签了新的 AI compute deal，从 Texas Childress 和 Missouri Warrenton 两个数据中心合计拿下大约 1.6GW 的容量。同时Google 曾经限制 Meta 对 Gemini 相关 compute 的使用，因为 Meta 想要的 capacity 超过了 Google 当时能提供的量。\n\n所以“Meta 算力多到要卖”这个事情根本解释不通。一个真的不缺算力的公司，不会一边往外卖 compute，一边继续签 1.6GW 的大单，还一边因为外部 capacity 不够被 Google 限流。\n\n更合理的框架是：Meta 手里不同代际的 GPU，经济价值开始分化了。\n\nH100 / H200 这一代卡，过去两年是绝对核心资产。但 AI 模型继续往前走以后，frontier training 对系统的要求变了。现在拼的已经不只是单卡 FLOPS，而是 memory、interconnect、NVLink domain、scale-out network、cluster utilization、checkpoint、pipeline bubble、expert routing、collective communication。\n\n简单说，H100 当然还能用，而且还能很好地用。但它越来越适合推理、fine-tuning、广告推荐、内容排序、企业模型服务、图像视频生成、中小模型训练，而不是继续承担最前沿模型的最高强度训练任务。\n\n最新一代的 GB200 / GB300 / Rubin，才是 Meta 真正要留给 frontier model 的资源。因为到了这个级别，训练效率不只是技术问题，直接就是成本问题和迭代速度问题。谁能更快跑完下一代模型，谁就有更高的试错频率，最后就可能决定模型差距。\n\n所以 Meta 现在做的事情应该是：最稀缺的新一代集群，继续自己用，继续锁长期 capacity。已经买下来的上一代高端 GPU，尽量不要闲置，能内部消化就内部消化，内部吃不完就对外卖，把 capex 变成 cash flow。这跟XAI把卡租给Anthropic没有任何区别。\n\n这对 AI supply chain也根本不是利空。",
+        "contentHtml": "今天AI被一条 Meta 的新闻直接打爆了。\nBloomberg 的消息是，Meta 正在研究把自己多出来的 AI compute 拿出去卖，甚至可能做成一个新的 cloud business。这个计划还在早期，后面也可能调整，但市场已经先交易了：META 被买，Nebius 这些 NeoCloud 和半导体相关股票被砸。\n\n表面上看，这个交易很容易理解。过去两年 NeoCloud 最核心的叙事，就是 GPU 短缺。大厂买不到足够的卡，所以只能找 CoreWeave、Nebius、Oracle 这些外部 provider 锁 capacity。现在 Meta 自己要反过来卖 compute，市场自然会开始怀疑：如果大客户自己都变成供应商了，那这条链是不是要从短缺走向过剩？\n\n但我觉得今天市场的的selloff真的很草履虫。\n\nMeta 现在的行为，其实更像一个重资产公司在做库存管理和资产周转。一边，它确实可能有一部分阶段性富余的 GPU capacity 想拿出来变现。另一边，它还在继续签新的长期 AI capacity。Meta 和 Crusoe 签了新的 AI compute deal，从 Texas Childress 和 Missouri Warrenton 两个数据中心合计拿下大约 1.6GW 的容量。同时Google 曾经限制 Meta 对 Gemini 相关 compute 的使用，因为 Meta 想要的 capacity 超过了 Google 当时能提供的量。\n\n所以“Meta 算力多到要卖”这个事情根本解释不通。一个真的不缺算力的公司，不会一边往外卖 compute，一边继续签 1.6GW 的大单，还一边因为外部 capacity 不够被 Google 限流。\n\n更合理的框架是：Meta 手里不同代际的 GPU，经济价值开始分化了。\n\nH100 / H200 这一代卡，过去两年是绝对核心资产。但 AI 模型继续往前走以后，frontier training 对系统的要求变了。现在拼的已经不只是单卡 FLOPS，而是 memory、interconnect、NVLink domain、scale-out network、cluster utilization、checkpoint、pipeline bubble、expert routing、collective communication。\n\n简单说，H100 当然还能用，而且还能很好地用。但它越来越适合推理、fine-tuning、广告推荐、内容排序、企业模型服务、图像视频生成、中小模型训练，而不是继续承担最前沿模型的最高强度训练任务。\n\n最新一代的 GB200 / GB300 / Rubin，才是 Meta 真正要留给 frontier model 的资源。因为到了这个级别，训练效率不只是技术问题，直接就是成本问题和迭代速度问题。谁能更快跑完下一代模型，谁就有更高的试错频率，最后就可能决定模型差距。\n\n所以 Meta 现在做的事情应该是：最稀缺的新一代集群，继续自己用，继续锁长期 capacity。已经买下来的上一代高端 GPU，尽量不要闲置，能内部消化就内部消化，内部吃不完就对外卖，把 capex 变成 cash flow。这跟XAI把卡租给Anthropic没有任何区别。\n\n这对 AI supply chain也根本不是利空。",
+        "link": "https://x.com/Franktradinglog/status/2072422078138265794"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072429157192208519",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "本来想总结一下今天的行情，发现兄弟总结的很好，所幸偷懒直接转发了。🫡\n现在市场之所以开始不抱团了就是这个现象，从无脑抱团存储撤出来，开始考虑盈亏比，本质上就是一次从无脑到理智的升维。之后的市场难度只会更大。",
+      "contentHtml": "本来想总结一下今天的行情，发现兄弟总结的很好，所幸偷懒直接转发了。🫡\n现在市场之所以开始不抱团了就是这个现象，从无脑抱团存储撤出来，开始考虑盈亏比，本质上就是一次从无脑到理智的升维。之后的市场难度只会更大。",
+      "publishedAt": "2026-07-01T21:16:00.000Z",
+      "link": "https://x.com/hazenlee/status/2072429157192208519",
+      "quote": {
+        "username": "lisaCat111",
+        "displayName": "lisa",
+        "content": "同时之前跌了很久的btc和黄金1小时顺势大涨，代表了后面如果流动性收紧，会大崩盘，资金开始： 分散 犹豫 比较性价比 寻找低位 寻找补涨。当真的流动性危机时，这都会被抽干水分。因为这里面资金只有在主线里面胆子才大，没有主线时，市场从： “总量行情” 变成 “结构行情”",
+        "contentHtml": "同时之前跌了很久的btc和黄金1小时顺势大涨，代表了后面如果流动性收紧，会大崩盘，资金开始： 分散 犹豫 比较性价比 寻找低位 寻找补涨。当真的流动性危机时，这都会被抽干水分。因为这里面资金只有在主线里面胆子才大，没有主线时，市场从： “总量行情” 变成 “结构行情”",
+        "link": "https://x.com/lisaCat111/status/2072403547199856788"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072424497089831044",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "上一篇讲了，人脑会系统性高估小概率事件。\n\n那么问题来了：\n\n为什么大脑会这样设计？\n\n至少有三个层面的解释，而且三者并不冲突。\n\n第一，行为经济学：可得性启发。\n\n大脑并不会真正统计概率。\n\n它更喜欢问自己一个问题：\n\n「我能不能很快想到这个例子？」\n\n空难、彩票中奖、地震、金融崩盘……\n\n这些事件虽然极其罕见，却足够震撼，情绪冲击极强，因此特别容易被记住。\n\n于是，大脑误把「容易想起来」当成了「经常发生」。\n\n这就是可得性启发。\n\n第二，进化心理学。\n\n对于祖先来说，两种错误的代价完全不同。\n\n把木棍误认为毒蛇，最多只是虚惊一场。\n\n但如果把毒蛇误认为木棍，代价可能就是生命。\n\n因此，自然选择更偏好一种策略：\n\n宁可经常高估危险，也绝不能漏判真正致命的小概率风险。\n\n这种机制极大提高了祖先的生存率。\n\n但放到现代社会，就变成了对灾难、黑天鹅和极端事件的系统性高估。\n\n第三，神经科学。\n\n现代脑科学发现，大脑本身就不是按客观概率编码信息。\n\n面对小概率巨额收益时，多巴胺奖赏系统会产生远高于线性的反应。\n\n这解释了为什么彩票如此吸引人。\n\n而面对空难、灾难等极端损失时，杏仁核又会产生异常强烈的恐惧反应。\n\n最终形成一个共同结果：\n\n大奖被高估，灾难也被高估。\n\n只有负责理性分析的前额叶，才能不断修正这些直觉。\n\n可惜，大多数时候，它都赢不了情绪系统。\n\n所以，\n\n小概率高估，并不是人类的 Bug。\n\n它是行为经济学、进化心理学和神经科学共同指向的结论。\n\n它曾帮助我们的祖先活过丛林。\n\n只是今天，我们生活在概率世界，而大脑仍然运行着几百万年前写好的代码。",
+      "contentHtml": "上一篇讲了，人脑会系统性高估小概率事件。\n\n那么问题来了：\n\n为什么大脑会这样设计？\n\n至少有三个层面的解释，而且三者并不冲突。\n\n第一，行为经济学：可得性启发。\n\n大脑并不会真正统计概率。\n\n它更喜欢问自己一个问题：\n\n「我能不能很快想到这个例子？」\n\n空难、彩票中奖、地震、金融崩盘……\n\n这些事件虽然极其罕见，却足够震撼，情绪冲击极强，因此特别容易被记住。\n\n于是，大脑误把「容易想起来」当成了「经常发生」。\n\n这就是可得性启发。\n\n第二，进化心理学。\n\n对于祖先来说，两种错误的代价完全不同。\n\n把木棍误认为毒蛇，最多只是虚惊一场。\n\n但如果把毒蛇误认为木棍，代价可能就是生命。\n\n因此，自然选择更偏好一种策略：\n\n宁可经常高估危险，也绝不能漏判真正致命的小概率风险。\n\n这种机制极大提高了祖先的生存率。\n\n但放到现代社会，就变成了对灾难、黑天鹅和极端事件的系统性高估。\n\n第三，神经科学。\n\n现代脑科学发现，大脑本身就不是按客观概率编码信息。\n\n面对小概率巨额收益时，多巴胺奖赏系统会产生远高于线性的反应。\n\n这解释了为什么彩票如此吸引人。\n\n而面对空难、灾难等极端损失时，杏仁核又会产生异常强烈的恐惧反应。\n\n最终形成一个共同结果：\n\n大奖被高估，灾难也被高估。\n\n只有负责理性分析的前额叶，才能不断修正这些直觉。\n\n可惜，大多数时候，它都赢不了情绪系统。\n\n所以，\n\n小概率高估，并不是人类的 Bug。\n\n它是行为经济学、进化心理学和神经科学共同指向的结论。\n\n它曾帮助我们的祖先活过丛林。\n\n只是今天，我们生活在概率世界，而大脑仍然运行着几百万年前写好的代码。",
+      "publishedAt": "2026-07-01T20:57:00.000Z",
+      "link": "https://x.com/hazenlee/status/2072424497089831044",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "上一篇讲到，人脑并不是为了理解概率而进化的。\n\n今天继续聊一个更有意思的问题：\n\n人脑到底会把小概率事件高估到什么程度？\n\n答案可能比你想象得更夸张。\n\n这也是为什么有人热衷买彩票、买保险、押末日期权，甚至总觉得自己会遇到极端事件。\n\n因为在人脑眼里，小概率，从来都没有那么“小”。\n\n诺贝尔经济学奖得主丹尼尔·卡尼曼和阿莫斯·特沃斯基，在累积前景理论（Cumulative Prospect Theory）中提出了著名的概率权重函数（Probability Weighting Function）。\n\n它揭示了一个重要事实：\n\n人脑感知的概率，并不是线性的。\n\n而是呈现一条典型的反 S 曲线：\n\n小概率被系统性高估；\n大概率被系统性低估。\n\n例如：\n\n客观概率只有 1% 的事件，大脑往往会感觉它有 4～6% 左右，相当于高估 4～6 倍。\n\n而当真实概率越来越接近 0 时，高估倍数甚至可能超过 10 倍。\n\n现实世界的数据更加夸张。\n\n大量行为经济学研究发现：\n\n人们对保险赔付概率通常高估 3～50 倍；\n对彩票头奖的中奖概率，高估可超过 100 倍；\n对空难等重大灾难发生概率，高估甚至可达到 100～500 倍。\n\n更有趣的是，\n\n这种偏差还会受到新闻和亲身经历的放大。\n\n一次重大空难之后，人们会觉得坐飞机危险得多；一次重大地震之后，保险和彩票销量往往都会明显上升。\n\n2008 年中国雪灾和汶川地震后，就有研究发现，人们购买保险和彩票的意愿都出现了显著提升。\n\n原因不是世界变危险了。\n\n而是大脑对小概率事件的主观权重，被进一步放大了。\n\n所以，人类真正害怕的，从来不是概率。\n\n而是那些容易被记住、容易被想起、情绪冲击极强的小概率事件。\n\n下一篇，我们聊聊：\n\n为什么人脑天生会高估小概率？\n\n这种现象到底是认知错误，还是几百万年进化留下来的生存本能？",
+        "contentHtml": "上一篇讲到，人脑并不是为了理解概率而进化的。\n\n今天继续聊一个更有意思的问题：\n\n人脑到底会把小概率事件高估到什么程度？\n\n答案可能比你想象得更夸张。\n\n这也是为什么有人热衷买彩票、买保险、押末日期权，甚至总觉得自己会遇到极端事件。\n\n因为在人脑眼里，小概率，从来都没有那么“小”。\n\n诺贝尔经济学奖得主丹尼尔·卡尼曼和阿莫斯·特沃斯基，在累积前景理论（Cumulative Prospect Theory）中提出了著名的概率权重函数（Probability Weighting Function）。\n\n它揭示了一个重要事实：\n\n人脑感知的概率，并不是线性的。\n\n而是呈现一条典型的反 S 曲线：\n\n小概率被系统性高估；\n大概率被系统性低估。\n\n例如：\n\n客观概率只有 1% 的事件，大脑往往会感觉它有 4～6% 左右，相当于高估 4～6 倍。\n\n而当真实概率越来越接近 0 时，高估倍数甚至可能超过 10 倍。\n\n现实世界的数据更加夸张。\n\n大量行为经济学研究发现：\n\n人们对保险赔付概率通常高估 3～50 倍；\n对彩票头奖的中奖概率，高估可超过 100 倍；\n对空难等重大灾难发生概率，高估甚至可达到 100～500 倍。\n\n更有趣的是，\n\n这种偏差还会受到新闻和亲身经历的放大。\n\n一次重大空难之后，人们会觉得坐飞机危险得多；一次重大地震之后，保险和彩票销量往往都会明显上升。\n\n2008 年中国雪灾和汶川地震后，就有研究发现，人们购买保险和彩票的意愿都出现了显著提升。\n\n原因不是世界变危险了。\n\n而是大脑对小概率事件的主观权重，被进一步放大了。\n\n所以，人类真正害怕的，从来不是概率。\n\n而是那些容易被记住、容易被想起、情绪冲击极强的小概率事件。\n\n下一篇，我们聊聊：\n\n为什么人脑天生会高估小概率？\n\n这种现象到底是认知错误，还是几百万年进化留下来的生存本能？",
+        "link": "https://x.com/hazenlee/status/2072424384862851162"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072424384862851162",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "上一篇讲到，人脑并不是为了理解概率而进化的。\n\n今天继续聊一个更有意思的问题：\n\n人脑到底会把小概率事件高估到什么程度？\n\n答案可能比你想象得更夸张。\n\n这也是为什么有人热衷买彩票、买保险、押末日期权，甚至总觉得自己会遇到极端事件。\n\n因为在人脑眼里，小概率，从来都没有那么“小”。\n\n诺贝尔经济学奖得主丹尼尔·卡尼曼和阿莫斯·特沃斯基，在累积前景理论（Cumulative Prospect Theory）中提出了著名的概率权重函数（Probability Weighting Function）。\n\n它揭示了一个重要事实：\n\n人脑感知的概率，并不是线性的。\n\n而是呈现一条典型的反 S 曲线：\n\n小概率被系统性高估；\n大概率被系统性低估。\n\n例如：\n\n客观概率只有 1% 的事件，大脑往往会感觉它有 4～6% 左右，相当于高估 4～6 倍。\n\n而当真实概率越来越接近 0 时，高估倍数甚至可能超过 10 倍。\n\n现实世界的数据更加夸张。\n\n大量行为经济学研究发现：\n\n人们对保险赔付概率通常高估 3～50 倍；\n对彩票头奖的中奖概率，高估可超过 100 倍；\n对空难等重大灾难发生概率，高估甚至可达到 100～500 倍。\n\n更有趣的是，\n\n这种偏差还会受到新闻和亲身经历的放大。\n\n一次重大空难之后，人们会觉得坐飞机危险得多；一次重大地震之后，保险和彩票销量往往都会明显上升。\n\n2008 年中国雪灾和汶川地震后，就有研究发现，人们购买保险和彩票的意愿都出现了显著提升。\n\n原因不是世界变危险了。\n\n而是大脑对小概率事件的主观权重，被进一步放大了。\n\n所以，人类真正害怕的，从来不是概率。\n\n而是那些容易被记住、容易被想起、情绪冲击极强的小概率事件。\n\n下一篇，我们聊聊：\n\n为什么人脑天生会高估小概率？\n\n这种现象到底是认知错误，还是几百万年进化留下来的生存本能？",
+      "contentHtml": "上一篇讲到，人脑并不是为了理解概率而进化的。\n\n今天继续聊一个更有意思的问题：\n\n人脑到底会把小概率事件高估到什么程度？\n\n答案可能比你想象得更夸张。\n\n这也是为什么有人热衷买彩票、买保险、押末日期权，甚至总觉得自己会遇到极端事件。\n\n因为在人脑眼里，小概率，从来都没有那么“小”。\n\n诺贝尔经济学奖得主丹尼尔·卡尼曼和阿莫斯·特沃斯基，在累积前景理论（Cumulative Prospect Theory）中提出了著名的概率权重函数（Probability Weighting Function）。\n\n它揭示了一个重要事实：\n\n人脑感知的概率，并不是线性的。\n\n而是呈现一条典型的反 S 曲线：\n\n小概率被系统性高估；\n大概率被系统性低估。\n\n例如：\n\n客观概率只有 1% 的事件，大脑往往会感觉它有 4～6% 左右，相当于高估 4～6 倍。\n\n而当真实概率越来越接近 0 时，高估倍数甚至可能超过 10 倍。\n\n现实世界的数据更加夸张。\n\n大量行为经济学研究发现：\n\n人们对保险赔付概率通常高估 3～50 倍；\n对彩票头奖的中奖概率，高估可超过 100 倍；\n对空难等重大灾难发生概率，高估甚至可达到 100～500 倍。\n\n更有趣的是，\n\n这种偏差还会受到新闻和亲身经历的放大。\n\n一次重大空难之后，人们会觉得坐飞机危险得多；一次重大地震之后，保险和彩票销量往往都会明显上升。\n\n2008 年中国雪灾和汶川地震后，就有研究发现，人们购买保险和彩票的意愿都出现了显著提升。\n\n原因不是世界变危险了。\n\n而是大脑对小概率事件的主观权重，被进一步放大了。\n\n所以，人类真正害怕的，从来不是概率。\n\n而是那些容易被记住、容易被想起、情绪冲击极强的小概率事件。\n\n下一篇，我们聊聊：\n\n为什么人脑天生会高估小概率？\n\n这种现象到底是认知错误，还是几百万年进化留下来的生存本能？",
+      "publishedAt": "2026-07-01T20:57:00.000Z",
+      "link": "https://x.com/hazenlee/status/2072424384862851162",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "人脑并不擅长概率。\n\n这不是缺陷，而是几百万年进化留下来的最优生存策略。\n\n为什么自然选择没有让人类进化成一个「概率计算器」？\n\n因为我们的祖先根本不需要。\n\n在原始环境里，大多数问题都是二元选择。\n\n草丛有动静，要么有野兽，要么没有；\n陌生人，要么是敌人，要么是同伴；\n野果，要么有毒，要么能吃。\n\n生死往往发生在几秒钟内。\n\n这时候，计算「野兽出现概率有多少」毫无意义。\n\n真正能提高生存率的是一句话：\n\n宁可信其有，不可信其无。\n\n计算概率太慢，也太耗能。\n\n而大脑，本身就是一个极致的节能器官。\n\n它只占人体约2%的重量，却消耗约20%的能量。\n\n所以，进化遵循的原则从来不是「最聪明」，而是「够用、够快、够省」。\n\n于是，大脑演化出了大量启发式（Heuristics），用直觉代替复杂计算。\n\n这些机制在远古都是生存神器。\n\n① 代表性启发\n\n看到地上有一条花纹状的东西，先当成蛇，立刻后退。\n\n不用统计附近毒蛇密度，也不用计算概率。\n\n误判一次最多虚惊一场；漏判一次，可能就没有下一次。\n\n代价是到了现代，我们容易忽略基础概率，只凭表象判断。\n\n② 可得性启发\n\n越容易想起来的事情，大脑越觉得风险更高。\n\n祖先记住的，往往都是亲眼见过、亲身经历过的危险。\n\n所以现代人会高估空难、罕见病，却低估真正高频的风险。\n\n③ 锚定启发\n\n原始社会没有时间反复计算。\n\n先确定一个参考点，再快速调整，立即行动。\n\n这种机制提高了决策速度，也提高了存活率。\n\n但放到今天，就变成了商家的价格锚定、促销心理和消费诱导。\n\n问题在于：\n\n概率论和统计学的发展，不过几百年。\n\n而人类大脑的底层架构，却是在几百万年的狩猎时代塑造出来的。\n\n我们的身体生活在现代社会，但大脑依然运行着远古时代的操作系统。\n\n这正是行为经济学研究的核心矛盾。\n\n很多人觉得自己理解不了概率，其实不是数学不好。\n\n而是因为你的大脑，本来就不是为了概率而设计的。\n\n这也是为什么我之前提到那个经典案例：\n\n一种疾病检测准确率高达95%，检测结果呈阳性，真正患病的概率却可能依然很低。\n\n按照贝叶斯概率，这个结论完全合理。\n\n但它却严重违背了人类几百万年形成的直觉。\n\n因此，人类的概率偏差并不是 Bug，而是默认设置。\n\n它曾经帮助我们的祖先活过丛林。\n\n只是到了今天，它已经不再是现代文明中的最优决策工具。",
+        "contentHtml": "人脑并不擅长概率。\n\n这不是缺陷，而是几百万年进化留下来的最优生存策略。\n\n为什么自然选择没有让人类进化成一个「概率计算器」？\n\n因为我们的祖先根本不需要。\n\n在原始环境里，大多数问题都是二元选择。\n\n草丛有动静，要么有野兽，要么没有；\n陌生人，要么是敌人，要么是同伴；\n野果，要么有毒，要么能吃。\n\n生死往往发生在几秒钟内。\n\n这时候，计算「野兽出现概率有多少」毫无意义。\n\n真正能提高生存率的是一句话：\n\n宁可信其有，不可信其无。\n\n计算概率太慢，也太耗能。\n\n而大脑，本身就是一个极致的节能器官。\n\n它只占人体约2%的重量，却消耗约20%的能量。\n\n所以，进化遵循的原则从来不是「最聪明」，而是「够用、够快、够省」。\n\n于是，大脑演化出了大量启发式（Heuristics），用直觉代替复杂计算。\n\n这些机制在远古都是生存神器。\n\n① 代表性启发\n\n看到地上有一条花纹状的东西，先当成蛇，立刻后退。\n\n不用统计附近毒蛇密度，也不用计算概率。\n\n误判一次最多虚惊一场；漏判一次，可能就没有下一次。\n\n代价是到了现代，我们容易忽略基础概率，只凭表象判断。\n\n② 可得性启发\n\n越容易想起来的事情，大脑越觉得风险更高。\n\n祖先记住的，往往都是亲眼见过、亲身经历过的危险。\n\n所以现代人会高估空难、罕见病，却低估真正高频的风险。\n\n③ 锚定启发\n\n原始社会没有时间反复计算。\n\n先确定一个参考点，再快速调整，立即行动。\n\n这种机制提高了决策速度，也提高了存活率。\n\n但放到今天，就变成了商家的价格锚定、促销心理和消费诱导。\n\n问题在于：\n\n概率论和统计学的发展，不过几百年。\n\n而人类大脑的底层架构，却是在几百万年的狩猎时代塑造出来的。\n\n我们的身体生活在现代社会，但大脑依然运行着远古时代的操作系统。\n\n这正是行为经济学研究的核心矛盾。\n\n很多人觉得自己理解不了概率，其实不是数学不好。\n\n而是因为你的大脑，本来就不是为了概率而设计的。\n\n这也是为什么我之前提到那个经典案例：\n\n一种疾病检测准确率高达95%，检测结果呈阳性，真正患病的概率却可能依然很低。\n\n按照贝叶斯概率，这个结论完全合理。\n\n但它却严重违背了人类几百万年形成的直觉。\n\n因此，人类的概率偏差并不是 Bug，而是默认设置。\n\n它曾经帮助我们的祖先活过丛林。\n\n只是到了今天，它已经不再是现代文明中的最优决策工具。",
+        "link": "https://x.com/hazenlee/status/2072423540167700751",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMK6OFIaMAAcGqh.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072423540167700751",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "人脑并不擅长概率。\n\n这不是缺陷，而是几百万年进化留下来的最优生存策略。\n\n为什么自然选择没有让人类进化成一个「概率计算器」？\n\n因为我们的祖先根本不需要。\n\n在原始环境里，大多数问题都是二元选择。\n\n草丛有动静，要么有野兽，要么没有；\n陌生人，要么是敌人，要么是同伴；\n野果，要么有毒，要么能吃。\n\n生死往往发生在几秒钟内。\n\n这时候，计算「野兽出现概率有多少」毫无意义。\n\n真正能提高生存率的是一句话：\n\n宁可信其有，不可信其无。\n\n计算概率太慢，也太耗能。\n\n而大脑，本身就是一个极致的节能器官。\n\n它只占人体约2%的重量，却消耗约20%的能量。\n\n所以，进化遵循的原则从来不是「最聪明」，而是「够用、够快、够省」。\n\n于是，大脑演化出了大量启发式（Heuristics），用直觉代替复杂计算。\n\n这些机制在远古都是生存神器。\n\n① 代表性启发\n\n看到地上有一条花纹状的东西，先当成蛇，立刻后退。\n\n不用统计附近毒蛇密度，也不用计算概率。\n\n误判一次最多虚惊一场；漏判一次，可能就没有下一次。\n\n代价是到了现代，我们容易忽略基础概率，只凭表象判断。\n\n② 可得性启发\n\n越容易想起来的事情，大脑越觉得风险更高。\n\n祖先记住的，往往都是亲眼见过、亲身经历过的危险。\n\n所以现代人会高估空难、罕见病，却低估真正高频的风险。\n\n③ 锚定启发\n\n原始社会没有时间反复计算。\n\n先确定一个参考点，再快速调整，立即行动。\n\n这种机制提高了决策速度，也提高了存活率。\n\n但放到今天，就变成了商家的价格锚定、促销心理和消费诱导。\n\n问题在于：\n\n概率论和统计学的发展，不过几百年。\n\n而人类大脑的底层架构，却是在几百万年的狩猎时代塑造出来的。\n\n我们的身体生活在现代社会，但大脑依然运行着远古时代的操作系统。\n\n这正是行为经济学研究的核心矛盾。\n\n很多人觉得自己理解不了概率，其实不是数学不好。\n\n而是因为你的大脑，本来就不是为了概率而设计的。\n\n这也是为什么我之前提到那个经典案例：\n\n一种疾病检测准确率高达95%，检测结果呈阳性，真正患病的概率却可能依然很低。\n\n按照贝叶斯概率，这个结论完全合理。\n\n但它却严重违背了人类几百万年形成的直觉。\n\n因此，人类的概率偏差并不是 Bug，而是默认设置。\n\n它曾经帮助我们的祖先活过丛林。\n\n只是到了今天，它已经不再是现代文明中的最优决策工具。",
+      "contentHtml": "人脑并不擅长概率。\n\n这不是缺陷，而是几百万年进化留下来的最优生存策略。\n\n为什么自然选择没有让人类进化成一个「概率计算器」？\n\n因为我们的祖先根本不需要。\n\n在原始环境里，大多数问题都是二元选择。\n\n草丛有动静，要么有野兽，要么没有；\n陌生人，要么是敌人，要么是同伴；\n野果，要么有毒，要么能吃。\n\n生死往往发生在几秒钟内。\n\n这时候，计算「野兽出现概率有多少」毫无意义。\n\n真正能提高生存率的是一句话：\n\n宁可信其有，不可信其无。\n\n计算概率太慢，也太耗能。\n\n而大脑，本身就是一个极致的节能器官。\n\n它只占人体约2%的重量，却消耗约20%的能量。\n\n所以，进化遵循的原则从来不是「最聪明」，而是「够用、够快、够省」。\n\n于是，大脑演化出了大量启发式（Heuristics），用直觉代替复杂计算。\n\n这些机制在远古都是生存神器。\n\n① 代表性启发\n\n看到地上有一条花纹状的东西，先当成蛇，立刻后退。\n\n不用统计附近毒蛇密度，也不用计算概率。\n\n误判一次最多虚惊一场；漏判一次，可能就没有下一次。\n\n代价是到了现代，我们容易忽略基础概率，只凭表象判断。\n\n② 可得性启发\n\n越容易想起来的事情，大脑越觉得风险更高。\n\n祖先记住的，往往都是亲眼见过、亲身经历过的危险。\n\n所以现代人会高估空难、罕见病，却低估真正高频的风险。\n\n③ 锚定启发\n\n原始社会没有时间反复计算。\n\n先确定一个参考点，再快速调整，立即行动。\n\n这种机制提高了决策速度，也提高了存活率。\n\n但放到今天，就变成了商家的价格锚定、促销心理和消费诱导。\n\n问题在于：\n\n概率论和统计学的发展，不过几百年。\n\n而人类大脑的底层架构，却是在几百万年的狩猎时代塑造出来的。\n\n我们的身体生活在现代社会，但大脑依然运行着远古时代的操作系统。\n\n这正是行为经济学研究的核心矛盾。\n\n很多人觉得自己理解不了概率，其实不是数学不好。\n\n而是因为你的大脑，本来就不是为了概率而设计的。\n\n这也是为什么我之前提到那个经典案例：\n\n一种疾病检测准确率高达95%，检测结果呈阳性，真正患病的概率却可能依然很低。\n\n按照贝叶斯概率，这个结论完全合理。\n\n但它却严重违背了人类几百万年形成的直觉。\n\n因此，人类的概率偏差并不是 Bug，而是默认设置。\n\n它曾经帮助我们的祖先活过丛林。\n\n只是到了今天，它已经不再是现代文明中的最优决策工具。",
+      "publishedAt": "2026-07-01T20:54:00.000Z",
+      "link": "https://x.com/hazenlee/status/2072423540167700751",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMK6OFIaMAAcGqh.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072410831719911926",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "In a bull market, everyone wants significantly higher prices. \n\nIn a bear market, everyone wants significantly lower prices.\n\nGrow a pair and pull the trigger.",
+      "contentHtml": "In a bull market, everyone wants significantly higher prices. \n\nIn a bear market, everyone wants significantly lower prices.\n\nGrow a pair and pull the trigger.",
+      "publishedAt": "2026-07-01T20:03:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2072410831719911926",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072403544909771055",
+      "username": "lisaCat111",
+      "displayName": "lisa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066029615764910080/RJ5LV15W_bigger.jpg",
+      "content": "主升浪本质上就是： 让踏空的人越来越痛苦，不得不买。让抄顶的人越来越痛苦，不得不卖，也就是一致性加速时刻。从美债月线图来看，还有很大上涨的空间，这里面主要是日债上涨速度太快了，不得用预期管理+拉高美债收益率维持流动性。今天美债1小时图稍微下跌一下，叠加到期日，半导体直接死给你看。",
+      "contentHtml": "主升浪本质上就是： 让踏空的人越来越痛苦，不得不买。让抄顶的人越来越痛苦，不得不卖，也就是一致性加速时刻。从美债月线图来看，还有很大上涨的空间，这里面主要是日债上涨速度太快了，不得用预期管理+拉高美债收益率维持流动性。今天美债1小时图稍微下跌一下，叠加到期日，半导体直接死给你看。",
+      "publishedAt": "2026-07-01T19:34:00.000Z",
+      "link": "https://x.com/lisaCat111/status/2072403544909771055",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMKaZMWaIAERaq8.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMKg_CfbwAAjwcz.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMKhNsebIAAwyST.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMKmHE1bQAAScQB.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072398308426100898",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "Trump：其实我是上帝",
+      "contentHtml": "Trump：其实我是上帝",
+      "publishedAt": "2026-07-01T19:13:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072398308426100898",
+      "quote": {
+        "username": "zerohedge",
+        "displayName": "zerohedge",
+        "content": "*TRUMP: I DON'T TALK TO PEOPLE WHO MANAGE MY MONEY\n\n*TRUMP: EVERYONE IS PROFITING WITH STOCK MARKET GOING UP\n\n*TRUMP: I'M PROFITING BECAUSE THE STOCK MARKET IS GOING UP",
+        "contentHtml": "*TRUMP: I DON'T TALK TO PEOPLE WHO MANAGE MY MONEY\n\n*TRUMP: EVERYONE IS PROFITING WITH STOCK MARKET GOING UP\n\n*TRUMP: I'M PROFITING BECAUSE THE STOCK MARKET IS GOING UP",
+        "link": "https://x.com/zerohedge/status/2072298220143734868"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072392062343811433",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "55.2% of the $BTC supply is in profit.\n\nThat's almost identical to the previous 2 bear market lows.\n\n2018: 53.84%\n2022: 54.63%\n\nA 1% difference... keep convincing yourself this isn't a macro accumulation zone.",
+      "contentHtml": "55.2% of the <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> supply is in profit.\n\nThat's almost identical to the previous 2 bear market lows.\n\n2018: 53.84%\n2022: 54.63%\n\nA 1% difference... keep convincing yourself this isn't a macro accumulation zone.",
+      "publishedAt": "2026-07-01T18:49:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2072392062343811433",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMKWUhjXkAA13Gf.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072389455466623207",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "Trump喊单的细节⬇️",
+      "contentHtml": "Trump喊单的细节⬇️",
+      "publishedAt": "2026-07-01T18:38:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072389455466623207",
+      "quote": {
+        "username": "TrumpTruthOnX",
+        "displayName": "Commentary Donald J. Trump Truth Social Posts On X",
+        "content": "BIG NEWS! Micron, a truly GREAT American Company, and one of the “HOTTEST” anywhere in the World, has announced a HISTORIC $250 MILLION Investment in TRUMP ACCOUNTS. This incredible gesture, made by Micron’s fantastic CEO, Sanjay Mehrotra, will make many children extremely happy some day in the not too distant future. This is the BIGGEST CORPORATE Investment of its kind, and will help jumpstart the American Dream for these fabulous children as we celebrate America's 250th Anniversary! This MASSIVE Investment will help MILLIONS of American children and families get a strong start in life, and give them REAL Financial Security. Micron is investing directly in the American Worker and Family! This is exactly what the fabulously successful TRUMP ACCOUNTS were created to do — Give every American Child a headstart, and a real chance to succeed. My Policies are WORKING, and working “BIG.” Our Country is doing far better than any country, anywhere in the World, and Companies like Micron are proving it every single day. THIS IS THE GOLDEN AGE OF AMERICA! Thank you for your attention to this matter. President DONALD J. TRUMP\n\n( TS: Jul 1 2026, 12:19 PM ET )​​​‍​​‌‍​​‌‍​​​​​​​‌‍​​​​​​​​​‌‍​​​​​‌‍​​​​​​‌‍​​​​​​​‌‍​​​‌‍​​​​​​‌‍​​​​​​​​‌‍​​​​​​​​​‌‍​​‌‍​‌‍​​​​​​​​​‌‍​​​​​​​​‌‍​‌‍​‌‍",
+        "contentHtml": "BIG NEWS! Micron, a truly GREAT American Company, and one of the “HOTTEST” anywhere in the World, has announced a HISTORIC $250 MILLION Investment in TRUMP ACCOUNTS. This incredible gesture, made by Micron’s fantastic CEO, Sanjay Mehrotra, will make many children extremely happy some day in the not too distant future. This is the BIGGEST CORPORATE Investment of its kind, and will help jumpstart the American Dream for these fabulous children as we celebrate America's 250th Anniversary! This MASSIVE Investment will help MILLIONS of American children and families get a strong start in life, and give them REAL Financial Security. Micron is investing directly in the American Worker and Family! This is exactly what the fabulously successful TRUMP ACCOUNTS were created to do — Give every American Child a headstart, and a real chance to succeed. My Policies are WORKING, and working “BIG.” Our Country is doing far better than any country, anywhere in the World, and Companies like Micron are proving it every single day. THIS IS THE GOLDEN AGE OF AMERICA! Thank you for your attention to this matter. President DONALD J. TRUMP\n\n( TS: Jul 1 2026, 12:19 PM ET )​​​‍​​‌‍​​‌‍​​​​​​​‌‍​​​​​​​​​‌‍​​​​​‌‍​​​​​​‌‍​​​​​​​‌‍​​​‌‍​​​​​​‌‍​​​​​​​​‌‍​​​​​​​​​‌‍​​‌‍​‌‍​​​​​​​​​‌‍​​​​​​​​‌‍​‌‍​‌‍",
+        "link": "https://x.com/TrumpTruthOnX/status/2072375285652312203"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072389020567720087",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "Trump喊单 $MU \n\n配合当前的Option flow情况\n\n最多的是QQQ的抄底\n\n我对明天的NFP以及沃什发言 更乐观了一些\n\n或许不必 过度担忧存储 的问题了\n\nNFA",
+      "contentHtml": "Trump喊单 <a href=\"/search?f=tweets&q=%23MU\">$MU</a> \n\n配合当前的Option flow情况\n\n最多的是QQQ的抄底\n\n我对明天的NFP以及沃什发言 更乐观了一些\n\n或许不必 过度担忧存储 的问题了\n\nNFA",
+      "publishedAt": "2026-07-01T18:37:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072389020567720087",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMKa0rebsAA40RU.jpg"
+        }
+      ],
+      "quote": {
+        "username": "TrumpTruthOnX",
+        "displayName": "Commentary Donald J. Trump Truth Social Posts On X",
+        "content": "BIG NEWS! Micron, a truly GREAT American Company, and one of the “HOTTEST” anywhere in the World, has announced a HISTORIC $250 MILLION Investment in TRUMP ACCOUNTS. This incredible gesture, made by Micron’s fantastic CEO, Sanjay Mehrotra, will make many children extremely happy some day in the not too distant future. This is the BIGGEST CORPORATE Investment of its kind, and will help jumpstart the American Dream for these fabulous children as we celebrate America's 250th Anniversary! This MASSIVE Investment will help MILLIONS of American children and families get a strong start in life, and give them REAL Financial Security. Micron is investing directly in the American Worker and Family! This is exactly what the fabulously successful TRUMP ACCOUNTS were created to do — Give every American Child a headstart, and a real chance to succeed. My Policies are WORKING, and working “BIG.” Our Country is doing far better than any country, anywhere in the World, and Companies like Micron are proving it every single day. THIS IS THE GOLDEN AGE OF AMERICA! Thank you for your attention to this matter. President DONALD J. TRUMP\n\n( TS: Jul 1 2026, 12:19 PM ET )​​​‍​​‌‍​​‌‍​​​​​​​‌‍​​​​​​​​​‌‍​​​​​‌‍​​​​​​‌‍​​​​​​​‌‍​​​‌‍​​​​​​‌‍​​​​​​​​‌‍​​​​​​​​​‌‍​​‌‍​‌‍​​​​​​​​​‌‍​​​​​​​​‌‍​‌‍​‌‍",
+        "contentHtml": "BIG NEWS! Micron, a truly GREAT American Company, and one of the “HOTTEST” anywhere in the World, has announced a HISTORIC $250 MILLION Investment in TRUMP ACCOUNTS. This incredible gesture, made by Micron’s fantastic CEO, Sanjay Mehrotra, will make many children extremely happy some day in the not too distant future. This is the BIGGEST CORPORATE Investment of its kind, and will help jumpstart the American Dream for these fabulous children as we celebrate America's 250th Anniversary! This MASSIVE Investment will help MILLIONS of American children and families get a strong start in life, and give them REAL Financial Security. Micron is investing directly in the American Worker and Family! This is exactly what the fabulously successful TRUMP ACCOUNTS were created to do — Give every American Child a headstart, and a real chance to succeed. My Policies are WORKING, and working “BIG.” Our Country is doing far better than any country, anywhere in the World, and Companies like Micron are proving it every single day. THIS IS THE GOLDEN AGE OF AMERICA! Thank you for your attention to this matter. President DONALD J. TRUMP\n\n( TS: Jul 1 2026, 12:19 PM ET )​​​‍​​‌‍​​‌‍​​​​​​​‌‍​​​​​​​​​‌‍​​​​​‌‍​​​​​​‌‍​​​​​​​‌‍​​​‌‍​​​​​​‌‍​​​​​​​​‌‍​​​​​​​​​‌‍​​‌‍​‌‍​​​​​​​​​‌‍​​​​​​​​‌‍​‌‍​‌‍",
+        "link": "https://x.com/TrumpTruthOnX/status/2072375285652312203"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072382402840912384",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "都拿好了，一分钱都不许卖，好好吃这个腰斩，嘴可以再硬一点，看看钱包顶得住吗。",
+      "contentHtml": "都拿好了，一分钱都不许卖，好好吃这个腰斩，嘴可以再硬一点，看看钱包顶得住吗。",
+      "publishedAt": "2026-07-01T18:10:00.000Z",
+      "link": "https://x.com/yuren477/status/2072382402840912384",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMKUr_ybAAAI-up.png"
+        }
+      ],
+      "quote": {
+        "username": "yuren477",
+        "displayName": "余人sama",
+        "content": "目前在sive车上的报下名，过来扣个1🤔",
+        "contentHtml": "目前在sive车上的报下名，过来扣个1🤔",
+        "link": "https://x.com/yuren477/status/2061747956156604588"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072381896575864974",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "提醒下大家，sive60了，嘻嘻，喜欢听故事的多听听",
+      "contentHtml": "提醒下大家，sive60了，嘻嘻，喜欢听故事的多听听",
+      "publishedAt": "2026-07-01T18:08:00.000Z",
+      "link": "https://x.com/yuren477/status/2072381896575864974",
+      "quote": {
+        "username": "IamRamenPanda",
+        "displayName": "RamenPanda",
+        "content": "A股的光互联被疯狂炒，美股的CPO几乎没怎么涨\n\n小红书上狂喊AAOI这样的股票以为美股也会复制A股的疯狂\n\n结果换来的是美股光板块下跌趋势的开始\n\n美股不信故事，只认财报",
+        "contentHtml": "A股的光互联被疯狂炒，美股的CPO几乎没怎么涨\n\n小红书上狂喊AAOI这样的股票以为美股也会复制A股的疯狂\n\n结果换来的是美股光板块下跌趋势的开始\n\n美股不信故事，只认财报",
+        "link": "https://x.com/IamRamenPanda/status/2072364765792567606"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072379912753906035",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "我很负责任告诉你，直接把好的东西给你，你是接不住的。你要先经历磨难，背叛、欺骗，看淸人性冷暖，看淸众生相。斩断纯真，扼杀幼稚，磨掉傲慢与自以为是。不经历这些，你一辈子也看不清自己原有价值体系中的虚妄，更不会珍惜。所以即使有好运你也留不住。\n内观，自醒，见天地、见众生、见自己。等到你深度觉醒之后，自强不息，厚德载物，好运才会真正开启。\n而好运的本质就是结构，只有一个稳定的结构你才能承接，否则都是竹篮打水一场空。",
+      "contentHtml": "我很负责任告诉你，直接把好的东西给你，你是接不住的。你要先经历磨难，背叛、欺骗，看淸人性冷暖，看淸众生相。斩断纯真，扼杀幼稚，磨掉傲慢与自以为是。不经历这些，你一辈子也看不清自己原有价值体系中的虚妄，更不会珍惜。所以即使有好运你也留不住。\n内观，自醒，见天地、见众生、见自己。等到你深度觉醒之后，自强不息，厚德载物，好运才会真正开启。\n而好运的本质就是结构，只有一个稳定的结构你才能承接，否则都是竹篮打水一场空。",
+      "publishedAt": "2026-07-01T18:00:00.000Z",
+      "link": "https://x.com/hazenlee/status/2072379912753906035",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072364870150832326",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "There is absolutely a 0% chance $BTC reaches $100K this year.H\n\nI may be bullish on the HTF, but let's be realistic.\n\nThe highest I see Bitcoin reaching this year is somewhere in the mid $70K's. \n\nAnything higher is just absurd.",
+      "contentHtml": "There is absolutely a 0% chance <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> reaches $100K this year.H\n\nI may be bullish on the HTF, but let's be realistic.\n\nThe highest I see Bitcoin reaching this year is somewhere in the mid $70K's. \n\nAnything higher is just absurd.",
+      "publishedAt": "2026-07-01T17:01:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2072364870150832326",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMKEMkDWwAAFZx6.png"
+        }
+      ],
+      "quote": {
+        "username": "Kalshi_Crypto",
+        "displayName": "Kalshi Crypto",
+        "content": "BREAKING: 12% chance Bitcoin hits $100,000 this year — an all-time low\n\nA $1,200 trade pays out $10,000 if it happens",
+        "contentHtml": "BREAKING: 12% chance Bitcoin hits $100,000 this year — an all-time low\n\nA $1,200 trade pays out $10,000 if it happens",
+        "link": "https://x.com/Kalshi_Crypto/status/2072341391133319293",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMJvUwDWcAA9mD8.png"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMJvduQXUAA5_fa.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072356421530759393",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "过去一个月噪音里比较值得关注的信号：科技公司FOMO AI的理性回归\n\nFOMO在大举砸CAPEX，生怕现在不砸以后护城河没了，结果就是硬件公司吃爽了，警钟被敲响的事件：\n1. 苹果产品大幅度涨价，老马说从未见过如此涨幅\n2. 今天META的新闻，考虑出售内部多余算力\nFOMO在科技公司大举砸CODING TOKEN，生怕不砸就落后了同行的产品研发速度，结果就是ANTHROPIC毛利来到了70-80%，吃爽了，警钟被敲响的事件：\n1. 科技公司定AI CAP，从尽量花到有截至的花，代表事件COINBASE说在花费相同的情况下烧了更多的TOKEN，因为用了开源模型\n\n我们都知道FOMO是不可持续的，终将有结束回归理性的时候，投资从来就不是交易故事线，而是押注公司未来的盈利和现金流。AI的增长不会是一条直线，中间会有曲折和坎坷，情绪面的泡沫（FOMO）通常表现在估值上，挤一挤更健康。而那些现金流仍然稳定且业务丝毫没被AI证伪的公司资金也一定会回来。\n\n结论：软硬双修，睡得安稳",
+      "contentHtml": "过去一个月噪音里比较值得关注的信号：科技公司FOMO AI的理性回归\n\nFOMO在大举砸CAPEX，生怕现在不砸以后护城河没了，结果就是硬件公司吃爽了，警钟被敲响的事件：\n1. 苹果产品大幅度涨价，老马说从未见过如此涨幅\n2. 今天META的新闻，考虑出售内部多余算力\nFOMO在科技公司大举砸CODING TOKEN，生怕不砸就落后了同行的产品研发速度，结果就是ANTHROPIC毛利来到了70-80%，吃爽了，警钟被敲响的事件：\n1. 科技公司定AI CAP，从尽量花到有截至的花，代表事件COINBASE说在花费相同的情况下烧了更多的TOKEN，因为用了开源模型\n\n我们都知道FOMO是不可持续的，终将有结束回归理性的时候，投资从来就不是交易故事线，而是押注公司未来的盈利和现金流。AI的增长不会是一条直线，中间会有曲折和坎坷，情绪面的泡沫（FOMO）通常表现在估值上，挤一挤更健康。而那些现金流仍然稳定且业务丝毫没被AI证伪的公司资金也一定会回来。\n\n结论：软硬双修，睡得安稳",
+      "publishedAt": "2026-07-01T16:27:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2072356421530759393",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072351841585635756",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "太难了🤣\n今天如果看Neocloud的跌幅，Oracle算跌得少了，其实Coreweave也是，市场就唯独喜欢NBIS，还有很多KOL带货，但最终市场会回归到盈利上的。",
+      "contentHtml": "太难了🤣\n今天如果看Neocloud的跌幅，Oracle算跌得少了，其实Coreweave也是，市场就唯独喜欢NBIS，还有很多KOL带货，但最终市场会回归到盈利上的。",
+      "publishedAt": "2026-07-01T16:09:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2072351841585635756",
+      "quote": {
+        "username": "neal40125932",
+        "displayName": "neal",
+        "content": "逃课君，那为何oracle硬件涨时他不涨，软件涨时他也不涨",
+        "contentHtml": "逃课君，那为何oracle硬件涨时他不涨，软件涨时他也不涨",
+        "link": "https://x.com/neal40125932/status/2072336367594651759"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2072344662002770066",
       "username": "qinbafrank",
@@ -11478,519 +11899,6 @@
         "content": "请大家卖出黄金  $xau \n中国姑娘必须有黄金首饰才能结婚\n黄金太贵结婚生孩子的人就变少了\n帮帮他们！！！🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻",
         "contentHtml": "请大家卖出黄金  <a href=\"/search?f=tweets&q=%23xau\">$xau</a> \n中国姑娘必须有黄金首饰才能结婚\n黄金太贵结婚生孩子的人就变少了\n帮帮他们！！！🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻",
         "link": "https://x.com/Bitfatty/status/2069642795808358594"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070010375257641149",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "空套救！！！",
-      "contentHtml": "空套救！！！",
-      "publishedAt": "2026-06-25T05:05:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2070010375257641149",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLonddVaoAAjjKE.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "币随便玩玩了",
-        "contentHtml": "币随便玩玩了",
-        "link": "https://x.com/Bitfatty/status/2069800485377216730",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLlojrxXUAE6e-e.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLlokMuXIAAFjfO.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070005903835975995",
-      "username": "0xPickleCati",
-      "displayName": "Pickle Cat",
-      "avatar": "https://pbs.twimg.com/profile_images/1879537340080869376/PV5A5sD2_bigger.jpg",
-      "content": "有些人你帮他九十九次，都不会记得。\n有一次没帮，就觉得是你欠他的。\n\n对这种人我只想说：如果你一年遇到一个傻逼，可能他真是傻逼。但如果你十年遇到的全是傻逼。\n\n有没有一种可能…\n\n你才是那个傻逼🤡",
-      "contentHtml": "有些人你帮他九十九次，都不会记得。\n有一次没帮，就觉得是你欠他的。\n\n对这种人我只想说：如果你一年遇到一个傻逼，可能他真是傻逼。但如果你十年遇到的全是傻逼。\n\n有没有一种可能…\n\n你才是那个傻逼🤡",
-      "publishedAt": "2026-06-25T04:47:00.000Z",
-      "link": "https://x.com/0xPickleCati/status/2070005903835975995",
-      "quote": {
-        "username": "lijiuer1",
-        "displayName": "Niner 🍡九儿🔶",
-        "content": "之前听过一个人骂她老板\n\n内容是：这个老板也不是东西，明明知道我要还房贷还只给我这么点工资，我要举报他\n\n不怀疑自己为什么只能拿那么点工资\n不反思自己为什么没能力还要去背房贷\n也没有换个老板换个高工资的勇气\n但是却有勇气要骂老板不给她高工资\n\n现在这个社会这样的人太多了\n\n比如一个人，做什么事都没人帮他\n但是另一个人，做什么事都一堆人帮忙\n\n第一个人从不怀疑自己有什么问题，而是天天吐槽第二个人和帮他的那一群人都有问题，我也不知道到底谁有问题。",
-        "contentHtml": "之前听过一个人骂她老板\n\n内容是：这个老板也不是东西，明明知道我要还房贷还只给我这么点工资，我要举报他\n\n不怀疑自己为什么只能拿那么点工资\n不反思自己为什么没能力还要去背房贷\n也没有换个老板换个高工资的勇气\n但是却有勇气要骂老板不给她高工资\n\n现在这个社会这样的人太多了\n\n比如一个人，做什么事都没人帮他\n但是另一个人，做什么事都一堆人帮忙\n\n第一个人从不怀疑自己有什么问题，而是天天吐槽第二个人和帮他的那一群人都有问题，我也不知道到底谁有问题。",
-        "link": "https://x.com/lijiuer1/status/2069738566553575874"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070004805695885480",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "每次市场大幅波动后，我都会看一眼以下4组数据，能帮助我了解当前市场整体情绪和行为的实时变化。\n\n图1⃣：LTH的盈利筹码转移至交易所；\n全网BTC绝大多数利润都在LTH手中，因此即便行情下跌，他们仍然能以盈利状态出售BTC。\n\n图中标注了在5次大幅下跌时，LTH转入交易所盈利兑现的数量。从2025.11.6的8,826枚，到2026.6.5的1,271枚BTC；\n\n整体上是逐步缩减的趋势。直到昨天，相比6月5日更少，因此可以确认，至今还有盈利的LTH，能卖的已经不多了。\n\n图2⃣：LTH的亏损筹码转移至交易所；\nLTH的亏损盘与获利盘的情形正好相反，从2025.11.21的7,462枚，到2026.6.4的12,212枚BTC；\n\n整体上是逐级放大的趋势，即每一次大跌都把更多的在高位套牢的长期筹码给逼了出来。直到昨天，明显低于6月4日。\n\n这是否意味着LTH的恐慌盘已经在前3次下跌中即便出清？我们可以再观察几天就大概知道了。\n\n图3⃣：STH的盈利筹码转移至交易所；\n短期获利盘在每一次下跌后的反弹中出逃，几乎是一个常态现象。本身就是短线交易，有赚就跑是熊市中的共识。\n\n这一波从6月初至今，STH的获利盘也在不断减少，也说明市场越来越弱，几乎没有了短线交易的空间。\n\n图4⃣：STH的亏损筹码转移至交易所；\n短期亏损盘是每一次下跌中砸盘的主力，其规模要远大于以上3组数据。也是衡量恐慌情绪最重要的参考标准。\n\n图中标注的4处中，以2026.2.5最严重，达到31,776枚BTC。此后的6月5日，虽然价格略低，但规模没有超过前一次。同样在昨天也没超过6月5日。\n\n结合图2一起来看，恐慌盘有逐渐出清的迹象。\n\n以上4组看完，总体给我的感觉就2个字“缩减”，无论是获利盘还是亏损盘，无论是LTH还是STH，在下跌中的行为表现就是想卖的，能卖的，越来越少。\n\n短线没有交易机会，情绪被持续压制并趋于极限。但市场在没有买盘的情形下，不需要很多筹码就能砸盘。这就是当前的真实情况。\n\n我不知道你们怎么看？反正对我来说，该吃吃该喝喝，该挂单就挂单，按计划来，不恐慌也不着急。我为我自己的认知买单。",
-      "contentHtml": "每次市场大幅波动后，我都会看一眼以下4组数据，能帮助我了解当前市场整体情绪和行为的实时变化。\n\n图1⃣：LTH的盈利筹码转移至交易所；\n全网BTC绝大多数利润都在LTH手中，因此即便行情下跌，他们仍然能以盈利状态出售BTC。\n\n图中标注了在5次大幅下跌时，LTH转入交易所盈利兑现的数量。从2025.11.6的8,826枚，到2026.6.5的1,271枚BTC；\n\n整体上是逐步缩减的趋势。直到昨天，相比6月5日更少，因此可以确认，至今还有盈利的LTH，能卖的已经不多了。\n\n图2⃣：LTH的亏损筹码转移至交易所；\nLTH的亏损盘与获利盘的情形正好相反，从2025.11.21的7,462枚，到2026.6.4的12,212枚BTC；\n\n整体上是逐级放大的趋势，即每一次大跌都把更多的在高位套牢的长期筹码给逼了出来。直到昨天，明显低于6月4日。\n\n这是否意味着LTH的恐慌盘已经在前3次下跌中即便出清？我们可以再观察几天就大概知道了。\n\n图3⃣：STH的盈利筹码转移至交易所；\n短期获利盘在每一次下跌后的反弹中出逃，几乎是一个常态现象。本身就是短线交易，有赚就跑是熊市中的共识。\n\n这一波从6月初至今，STH的获利盘也在不断减少，也说明市场越来越弱，几乎没有了短线交易的空间。\n\n图4⃣：STH的亏损筹码转移至交易所；\n短期亏损盘是每一次下跌中砸盘的主力，其规模要远大于以上3组数据。也是衡量恐慌情绪最重要的参考标准。\n\n图中标注的4处中，以2026.2.5最严重，达到31,776枚BTC。此后的6月5日，虽然价格略低，但规模没有超过前一次。同样在昨天也没超过6月5日。\n\n结合图2一起来看，恐慌盘有逐渐出清的迹象。\n\n以上4组看完，总体给我的感觉就2个字“缩减”，无论是获利盘还是亏损盘，无论是LTH还是STH，在下跌中的行为表现就是想卖的，能卖的，越来越少。\n\n短线没有交易机会，情绪被持续压制并趋于极限。但市场在没有买盘的情形下，不需要很多筹码就能砸盘。这就是当前的真实情况。\n\n我不知道你们怎么看？反正对我来说，该吃吃该喝喝，该挂单就挂单，按计划来，不恐慌也不着急。我为我自己的认知买单。",
-      "publishedAt": "2026-06-25T04:42:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2070004805695885480",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLohmw6a8AAuFCQ.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLohpZYasAAjXt6.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLohsoDbwAA1jmd.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLohv13bQAA65PS.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "4个月的承接区，也让底部范围越发明朗\n\n承接上一篇，我们分析了熊市中BTC价格长期被STH-RP压制的原因。那么当STH-RP在上方形成压制时，下方的支撑就显得尤为重要。\n\n既然无法突破，那么会在哪里出现承接，消耗抛压？这对我们合理预期底部范围极其重要！\n\n在上轮周期，即2022年6月-2023年3月，BTC价格以RP（蓝线：Realized Price）为中心上下震荡了9个月。这就是熊末的承接区，用时间建立底部共识。\n\n当然，在22年11月发生了FTX暴雷的黑天鹅事件，让价格偏离了蓝线，也使整个磨底的时间被拉长（这是影响时间的重要因素）。\n\n而本轮周期，从2月开始至今，BTC价格在STH-RP压制下，始终保持以<10y_RP（紫线）为中心上下震荡。\n\n紫线比蓝线高，上轮周期紫线根本没起到任何阻力作用，说明没有承接。而这轮的表现明显不同。\n\n⁉️ 这背后的原因是什么呢？\n\n从图2可以看到，本轮周期“持有超过10年的BTC”其实现价值权重占比，是上轮周期的37倍。\n\n占比暴增，说明这些超长期的老币已经几乎不动了。所以我们在衡量活跃筹码平均成本时，要把这部分剔除，否则会让成本基础严重失真。\n\n在剔除后我们就得到了<10y_RP（图1中的紫线）。显然，这一次形成了以紫线为中轴的承接区。低于紫线视为低估，就会吸筹；高于紫线或接近红线，又会有抛压。\n\n这个“承接区”已悄然运行了4个月，而上轮周期在同样的逻辑和数据形态下走了9个月。\n\n在时间上，我个人的判断是：如果接下来没有特别的超预期事件发生，最长不会超过5个月，即总时长不超过9个月。\n\n即在此之前，情况会变得越来越明朗。\n\n如果有超预期事件发生，那也不排除价格会像上轮周期偏离蓝线那样突然偏离紫线（$63,800）。\n\n但应该考虑到目前已经在紫线附近完成了一批恐慌盘的换手，新承接的筹码成本更低，对价格的敏感度也随之下降。\n\n即便再受到事件冲击，供应端的派发规模也没那么大了。紫线到蓝线之间有较大概率会是底部范围，大差不差。",
-        "contentHtml": "4个月的承接区，也让底部范围越发明朗\n\n承接上一篇，我们分析了熊市中BTC价格长期被STH-RP压制的原因。那么当STH-RP在上方形成压制时，下方的支撑就显得尤为重要。\n\n既然无法突破，那么会在哪里出现承接，消耗抛压？这对我们合理预期底部范围极其重要！\n\n在上轮周期，即2022年6月-2023年3月，BTC价格以RP（蓝线：Realized Price）为中心上下震荡了9个月。这就是熊末的承接区，用时间建立底部共识。\n\n当然，在22年11月发生了FTX暴雷的黑天鹅事件，让价格偏离了蓝线，也使整个磨底的时间被拉长（这是影响时间的重要因素）。\n\n而本轮周期，从2月开始至今，BTC价格在STH-RP压制下，始终保持以&lt;10y_RP（紫线）为中心上下震荡。\n\n紫线比蓝线高，上轮周期紫线根本没起到任何阻力作用，说明没有承接。而这轮的表现明显不同。\n\n⁉️ 这背后的原因是什么呢？\n\n从图2可以看到，本轮周期“持有超过10年的BTC”其实现价值权重占比，是上轮周期的37倍。\n\n占比暴增，说明这些超长期的老币已经几乎不动了。所以我们在衡量活跃筹码平均成本时，要把这部分剔除，否则会让成本基础严重失真。\n\n在剔除后我们就得到了&lt;10y_RP（图1中的紫线）。显然，这一次形成了以紫线为中轴的承接区。低于紫线视为低估，就会吸筹；高于紫线或接近红线，又会有抛压。\n\n这个“承接区”已悄然运行了4个月，而上轮周期在同样的逻辑和数据形态下走了9个月。\n\n在时间上，我个人的判断是：如果接下来没有特别的超预期事件发生，最长不会超过5个月，即总时长不超过9个月。\n\n即在此之前，情况会变得越来越明朗。\n\n如果有超预期事件发生，那也不排除价格会像上轮周期偏离蓝线那样突然偏离紫线（$63,800）。\n\n但应该考虑到目前已经在紫线附近完成了一批恐慌盘的换手，新承接的筹码成本更低，对价格的敏感度也随之下降。\n\n即便再受到事件冲击，供应端的派发规模也没那么大了。紫线到蓝线之间有较大概率会是底部范围，大差不差。",
-        "link": "https://x.com/Murphychen888/status/2069238601142198678",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLdlz35aYAA7cBp.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLdl3SOaEAAEAuo.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070002681540907328",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "续集来了\n《3天速通百万美金》\n其实还差一口，奈何行情堵住了",
-      "contentHtml": "续集来了\n《3天速通百万美金》\n其实还差一口，奈何行情堵住了",
-      "publishedAt": "2026-06-25T04:34:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2070002681540907328",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "《2天10倍速通50万u》\n1mu还是有点麻烦，要么仓位开2000万u，要么行情波动再赏大一点\n\n算了，就这样吧，下波再说\n\n$xau",
-        "contentHtml": "《2天10倍速通50万u》\n1mu还是有点麻烦，要么仓位开2000万u，要么行情波动再赏大一点\n\n算了，就这样吧，下波再说\n\n<a href=\"/search?f=tweets&q=%23xau\">$xau</a>",
-        "link": "https://x.com/Bitfatty/status/2064974034337665230"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069998223754977432",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "海力士确定于7月登陆美股，预计认购日7月14日，新股上市预定日7月29日\n\n与此同时DRAM马上要推出2倍杠杆产品RAM\n一旦海力士登录美股，按照美股的流动性，那不得再次暴涨",
-      "contentHtml": "海力士确定于7月登陆美股，预计认购日7月14日，新股上市预定日7月29日\n\n与此同时DRAM马上要推出2倍杠杆产品RAM\n一旦海力士登录美股，按照美股的流动性，那不得再次暴涨",
-      "publishedAt": "2026-06-25T04:16:00.000Z",
-      "link": "https://x.com/dongbimao/status/2069998223754977432",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLocaBIasAAT6RN.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069994029593543005",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
-      "content": "If AI is doing the writing, it should do the reading too.",
-      "contentHtml": "If AI is doing the writing, it should do the reading too.",
-      "publishedAt": "2026-06-25T04:00:00.000Z",
-      "link": "https://x.com/naval/status/2069994029593543005",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069993443024110065",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "写支票的大科技为啥愿意花比白粉还贵的钱买存储，因为他们相信未来能赚回来。现在的花钱是确定的，未来的盈利是不确定的，所以市场不喜欢，看不到。\n那么问题来了，如果大科技没有ROI，市场还讨论个屁的存储是不是周期股？😂\n但市场不给你讲逻辑，投资个股就默默受着吧，等公司财报打脸市场",
-      "contentHtml": "写支票的大科技为啥愿意花比白粉还贵的钱买存储，因为他们相信未来能赚回来。现在的花钱是确定的，未来的盈利是不确定的，所以市场不喜欢，看不到。\n那么问题来了，如果大科技没有ROI，市场还讨论个屁的存储是不是周期股？😂\n但市场不给你讲逻辑，投资个股就默默受着吧，等公司财报打脸市场",
-      "publishedAt": "2026-06-25T03:57:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2069993443024110065",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069989445198397841",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
-      "content": "如果：\n买入的确定性（赚钱的概率）是66%的话\n\n做空的确定性就是100%，因为颠覆可被识别和量化",
-      "contentHtml": "如果：\n买入的确定性（赚钱的概率）是66%的话\n\n做空的确定性就是100%，因为颠覆可被识别和量化",
-      "publishedAt": "2026-06-25T03:41:00.000Z",
-      "link": "https://x.com/follow_clues/status/2069989445198397841",
-      "quote": {
-        "username": "follow_clues",
-        "displayName": "Theclues",
-        "content": "工业革命：\n\n弄潮儿般的公司，只寻找买入机会\n被颠覆的行业，领域，只寻找做空机会\n\n不相关的公司，领域，垃圾时间，而且会一直垃圾下去",
-        "contentHtml": "工业革命：\n\n弄潮儿般的公司，只寻找买入机会\n被颠覆的行业，领域，只寻找做空机会\n\n不相关的公司，领域，垃圾时间，而且会一直垃圾下去",
-        "link": "https://x.com/follow_clues/status/2069987245508153627"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069987245508153627",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
-      "content": "工业革命：\n\n弄潮儿般的公司，只寻找买入机会\n被颠覆的行业，领域，只寻找做空机会\n\n不相关的公司，领域，垃圾时间，而且会一直垃圾下去",
-      "contentHtml": "工业革命：\n\n弄潮儿般的公司，只寻找买入机会\n被颠覆的行业，领域，只寻找做空机会\n\n不相关的公司，领域，垃圾时间，而且会一直垃圾下去",
-      "publishedAt": "2026-06-25T03:33:00.000Z",
-      "link": "https://x.com/follow_clues/status/2069987245508153627",
-      "quote": {
-        "username": "TiezhuCrypto",
-        "displayName": "铁柱",
-        "content": "过去一个月，A股就提了三只，雅克、东山精密和风华高科。稍微研究一下，肯定是吃肉了。\n\n甚至你只要买半导体ETF也是赚钱的，但是我真心不明白，这个行情为啥要买汽车和新能源。百思不得其解，身边几个朋友因为这个套牢了，告诉我的理由很一致，因为跌的很多了，所以弹性大。\n\n我真的无言以对。",
-        "contentHtml": "过去一个月，A股就提了三只，雅克、东山精密和风华高科。稍微研究一下，肯定是吃肉了。\n\n甚至你只要买半导体ETF也是赚钱的，但是我真心不明白，这个行情为啥要买汽车和新能源。百思不得其解，身边几个朋友因为这个套牢了，告诉我的理由很一致，因为跌的很多了，所以弹性大。\n\n我真的无言以对。",
-        "link": "https://x.com/TiezhuCrypto/status/2069962257052963157"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069978941943881991",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "「曾做空 16 个山寨获利 1368 万美元的 Hyperliquid 巨鲸」开始出售 $ETH 👀\n\n五小时前大盘反弹时，他将 6855.13 枚 ETH 充值进了 #Binance，价值 1102 万美元，疑似出售；这部分代币是今年二三月以均价 $1991 囤积的，若卖出将亏损 262.5 万美元\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "contentHtml": "「曾做空 16 个山寨获利 1368 万美元的 Hyperliquid 巨鲸」开始出售 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 👀\n\n五小时前大盘反弹时，他将 6855.13 枚 ETH 充值进了 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a>，价值 1102 万美元，疑似出售；这部分代币是今年二三月以均价 $1991 囤积的，若卖出将亏损 262.5 万美元\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0xcD40532686B94aBc88b06B9705AAcBc14c8364D6\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "publishedAt": "2026-06-25T03:00:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2069978941943881991",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLoKzf5bMAAWh8Q.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "「止盈」是杠杆人一生的必修课🤠\n\n做空 16 个山寨的「空军头子」也是近期挺稳健的一位巨鲸了：2 小时前他向 Hyperliquid 充值 250 万美元的 USDC，将一揽子代币的清算价格进一步提高\n\n随后平掉了部分 PEPE 和 XRP 的空单仓位，将整体仓位规模降至 4638 万美元，且仍在持续挂单止盈中 —— 近一个月来他的盈利高达 1368 万美元，目前做空一揽子山寨的空单仍浮盈 901 万美元\n\n传送门 👉 hyperdash.info/zh-CN/trader/…\n\n本文由 #Gate 大门交易所 | @Gateio_zh 赞助",
-        "contentHtml": "「止盈」是杠杆人一生的必修课🤠\n\n做空 16 个山寨的「空军头子」也是近期挺稳健的一位巨鲸了：2 小时前他向 Hyperliquid 充值 250 万美元的 USDC，将一揽子代币的清算价格进一步提高\n\n随后平掉了部分 PEPE 和 XRP 的空单仓位，将整体仓位规模降至 4638 万美元，且仍在持续挂单止盈中 —— 近一个月来他的盈利高达 1368 万美元，目前做空一揽子山寨的空单仍浮盈 901 万美元\n\n传送门 👉 <a href=\"https://hyperdash.info/zh-CN/trader/0xa312114b5795dff9b8db50474dd57701aa78ad1e\">hyperdash.info/zh-CN/trader/…</a>\n\n本文由 <a href=\"/search?f=tweets&q=%23Gate\">#Gate</a> 大门交易所 | <a href=\"/Gateio_zh\" title=\"Gate.io 华语\">@Gateio_zh</a> 赞助",
-        "link": "https://x.com/ai_9684xtpa/status/1937059673930350595",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/GuHRdgrXgAA1PYY.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069977315296334061",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "有钱的米粉基本被雷军割开智了，剩下还在叫的大概率是沪股通都开不起的穷b了。\n高位增发低位回购，拿股东当畜生玩，粉雷军的都是些什么傻逼",
-      "contentHtml": "有钱的米粉基本被雷军割开智了，剩下还在叫的大概率是沪股通都开不起的穷b了。\n高位增发低位回购，拿股东当畜生玩，粉雷军的都是些什么傻逼",
-      "publishedAt": "2026-06-25T02:53:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2069977315296334061",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLoJY8VaIAATqM7.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLoJY9NbIAApCY1.jpg"
-        }
-      ],
-      "quote": {
-        "username": "daidaibtc",
-        "displayName": "带带带比特",
-        "content": "时间会扒开雷军这种演员的底裤",
-        "contentHtml": "时间会扒开雷军这种演员的底裤",
-        "link": "https://x.com/daidaibtc/status/2067561885021700106"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069973912981839890",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "美光炸裂业绩的来源是什么？一般业绩强劲要么价格上涨、要么出货量增加、抑或是高毛利产品比例更大，还有就是成本下降等几个因素来影响。之前美光财报前瞻nitter.net/qinbafrank/status/2068…里给出一个拆分业绩的框架，再按这个框架拆一下。简单说就是：ASP/价格上涨是第一驱动，产品 mix 是第二驱动，bit 出货只是小幅正贡献，成本效率高/执行主要是利润率放大器。\n1、ASP / 价格：本季业绩最大来源\nDRAM 收入 313 亿美元，占总收入 76%，环比增长 67%；但 DRAM bit 出货只是低个位数增长，价格则是 l60% 增长。\nNAND 收入 99 亿美元，占总收入 24%，环比增长 99%；NAND bit 出货是也是中等个位数增长，价格是80% 区间中位值增长。\n\n粗略拆分可以这样看：\nDRAM 的 +67% 环比增长里，约 60 多个百分点来自价格/mix，只有低个位数来自 bit；\nNAND 的 +99% 环比增长里，约 80 多个百分点来自价格/mix，中个位数来自 bit，剩下是价格与出货同时上涨的乘数效应。\n因此，本季收入增量大概率 90% 左右来自 ASP 的增长，而不是 volume。这个判断也和管理层对毛利率的表述一致：Q3 毛利率提升主要由更高价格驱动。\n\n2、bit 出货：有贡献，但不是核心\nbit 出货并没有爆发。DRAM bit 只增长低个位数，NAND bit 增长中个位数；这说明业绩不是靠“卖出更多容量”拉起来，而是靠“同样或小幅更多的 bit 卖得贵得多”。\n\n从业务部门也能看出来：\nCloud Memory 业务增长由更高价格和 bit 出货共同驱动；\nCore Data Center 业务增长 103%，主要由价格和有利 mix 驱动；\nMobile and Client 业务虽然收入增长 49%，但 bit 出货反而下降，说明这里几乎完全靠价格抵消了出货压力。\n\n3、产品 mix：非常重要，而且是“质量更高”的增长来源\nmix 的核心在于美光把更多供给卖给高价值市场：AI 数据中心、HBM、高端 DDR、企业级 SSD、数据中心 SSD。美光本季数据中心收入超过 250 亿美元，年化超过 1000 亿美元；数据中心 SSD 收入超过 50 亿美元，环比翻倍以上。\n\n业务结构也在向数据中心倾斜：Cloud Memory Business Unit 收入 137.69 亿美元，Core Data Center Business Unit 收入 115.24 亿美元，两者合计约占公司收入 61%；上一季这两个部门合计约占 56%。这说明美光不只是卖贵了，也是在把产能配置给更高价值的客户和产品。\n\nHBM 也是 mix 改善的关键证据。美光表示 HBM4 12-high 的量产爬坡速度是 HBM3E 12-high 的两倍，并且已经出货超过 10 亿美元的 HBM4 收入；同时公司还提到 AI 正在推动内存架构选择和产品 mix 转向更高性能、更高价值产品。\n\n4、成本效率高 / 执行：放大利润率，但不是本季主叙事\n成本端确实帮了毛利率，但不能把这季简单归因为“成本下降”。按 GAAP 报表，Q3 收入从上一季 238.60 亿美元增至 414.56 亿美元，但 COGS 只从 61.05 亿美元增至 64.00 亿美元；也就是说，收入增加 175.96 亿美元，成本只增加 2.95 亿美元，新增收入几乎都变成了毛利。\n\n美光自己的解释是：\n毛利率提升“主要由更高价格驱动”，同时受益于持续执行和有利 mix；公司并没有把本季毛利率提升主要归因于单位成本下降。更重要的是，美光还提醒，未来高性能、高价值产品复杂度更高，LP5 到 LP6、DDR5 到 DDR6、更新一代 HBM 都会带来更高 bit cost，混合 DRAM cost per bit 甚至可能从当前水平上升。\n\n美光最新财报是“供需紧张带来的 ASP 重估 + AI/HBM/数据中心 mix 上移 + 成本杠杆”的组合。 其中最容易反转的是 ASP，但这轮比传统周期更强的一点在于，美光签了多份战略客户协议，部分协议带有 take-or-pay、价格区间和长期供给承诺，这会提高业绩可见度。\n\n后面最需要盯的是：\nQ4 指引继续强劲，收入指引为 500 亿美元 ±10 亿美元、毛利率约 86%，但管理层也说 Q4 毛利率展望反映了“价格上涨速度的明显放缓”。这意味着方向仍强，但 ASP 的边际加速度可能已经开始放慢。\n\n当然这里核心还是，美光当前的“有效产能利用率”应该已经非常接近满载，尤其是 AI 相关 DRAM/HBM 和先进 NAND；当下真正限制收入继续放量的不是利用率，而是新增有效产能不足。\nASP的增长核心还是供给远低于需求\n\n总的来说，美光现在不是低利用率复苏阶段，而是高利用率 + 高 ASP + 高 mix + 扩产瓶颈阶段。 这对毛利率是利好，因为固定成本吸收很好；\n\n至于更长的未来 2027–2028 年新增产能上来后，需求和价格能不能继续承接。",
-      "contentHtml": "美光炸裂业绩的来源是什么？一般业绩强劲要么价格上涨、要么出货量增加、抑或是高毛利产品比例更大，还有就是成本下降等几个因素来影响。之前美光财报前瞻<a href=\"https://nitter.net/qinbafrank/status/2068979504081469789\">nitter.net/qinbafrank/status/2068…</a>里给出一个拆分业绩的框架，再按这个框架拆一下。简单说就是：ASP/价格上涨是第一驱动，产品 mix 是第二驱动，bit 出货只是小幅正贡献，成本效率高/执行主要是利润率放大器。\n1、ASP / 价格：本季业绩最大来源\nDRAM 收入 313 亿美元，占总收入 76%，环比增长 67%；但 DRAM bit 出货只是低个位数增长，价格则是 l60% 增长。\nNAND 收入 99 亿美元，占总收入 24%，环比增长 99%；NAND bit 出货是也是中等个位数增长，价格是80% 区间中位值增长。\n\n粗略拆分可以这样看：\nDRAM 的 +67% 环比增长里，约 60 多个百分点来自价格/mix，只有低个位数来自 bit；\nNAND 的 +99% 环比增长里，约 80 多个百分点来自价格/mix，中个位数来自 bit，剩下是价格与出货同时上涨的乘数效应。\n因此，本季收入增量大概率 90% 左右来自 ASP 的增长，而不是 volume。这个判断也和管理层对毛利率的表述一致：Q3 毛利率提升主要由更高价格驱动。\n\n2、bit 出货：有贡献，但不是核心\nbit 出货并没有爆发。DRAM bit 只增长低个位数，NAND bit 增长中个位数；这说明业绩不是靠“卖出更多容量”拉起来，而是靠“同样或小幅更多的 bit 卖得贵得多”。\n\n从业务部门也能看出来：\nCloud Memory 业务增长由更高价格和 bit 出货共同驱动；\nCore Data Center 业务增长 103%，主要由价格和有利 mix 驱动；\nMobile and Client 业务虽然收入增长 49%，但 bit 出货反而下降，说明这里几乎完全靠价格抵消了出货压力。\n\n3、产品 mix：非常重要，而且是“质量更高”的增长来源\nmix 的核心在于美光把更多供给卖给高价值市场：AI 数据中心、HBM、高端 DDR、企业级 SSD、数据中心 SSD。美光本季数据中心收入超过 250 亿美元，年化超过 1000 亿美元；数据中心 SSD 收入超过 50 亿美元，环比翻倍以上。\n\n业务结构也在向数据中心倾斜：Cloud Memory Business Unit 收入 137.69 亿美元，Core Data Center Business Unit 收入 115.24 亿美元，两者合计约占公司收入 61%；上一季这两个部门合计约占 56%。这说明美光不只是卖贵了，也是在把产能配置给更高价值的客户和产品。\n\nHBM 也是 mix 改善的关键证据。美光表示 HBM4 12-high 的量产爬坡速度是 HBM3E 12-high 的两倍，并且已经出货超过 10 亿美元的 HBM4 收入；同时公司还提到 AI 正在推动内存架构选择和产品 mix 转向更高性能、更高价值产品。\n\n4、成本效率高 / 执行：放大利润率，但不是本季主叙事\n成本端确实帮了毛利率，但不能把这季简单归因为“成本下降”。按 GAAP 报表，Q3 收入从上一季 238.60 亿美元增至 414.56 亿美元，但 COGS 只从 61.05 亿美元增至 64.00 亿美元；也就是说，收入增加 175.96 亿美元，成本只增加 2.95 亿美元，新增收入几乎都变成了毛利。\n\n美光自己的解释是：\n毛利率提升“主要由更高价格驱动”，同时受益于持续执行和有利 mix；公司并没有把本季毛利率提升主要归因于单位成本下降。更重要的是，美光还提醒，未来高性能、高价值产品复杂度更高，LP5 到 LP6、DDR5 到 DDR6、更新一代 HBM 都会带来更高 bit cost，混合 DRAM cost per bit 甚至可能从当前水平上升。\n\n美光最新财报是“供需紧张带来的 ASP 重估 + AI/HBM/数据中心 mix 上移 + 成本杠杆”的组合。 其中最容易反转的是 ASP，但这轮比传统周期更强的一点在于，美光签了多份战略客户协议，部分协议带有 take-or-pay、价格区间和长期供给承诺，这会提高业绩可见度。\n\n后面最需要盯的是：\nQ4 指引继续强劲，收入指引为 500 亿美元 ±10 亿美元、毛利率约 86%，但管理层也说 Q4 毛利率展望反映了“价格上涨速度的明显放缓”。这意味着方向仍强，但 ASP 的边际加速度可能已经开始放慢。\n\n当然这里核心还是，美光当前的“有效产能利用率”应该已经非常接近满载，尤其是 AI 相关 DRAM/HBM 和先进 NAND；当下真正限制收入继续放量的不是利用率，而是新增有效产能不足。\nASP的增长核心还是供给远低于需求\n\n总的来说，美光现在不是低利用率复苏阶段，而是高利用率 + 高 ASP + 高 mix + 扩产瓶颈阶段。 这对毛利率是利好，因为固定成本吸收很好；\n\n至于更长的未来 2027–2028 年新增产能上来后，需求和价格能不能继续承接。",
-      "publishedAt": "2026-06-25T02:40:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2069973912981839890",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLoELJwaoAAh7k9.png"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "一次满分100市场预期能120实际考了150分的真正炸裂财报，按照前瞻的框架拆解下美光的财报：1、本季营收415亿美金，远超市场预期的380亿美金的上限，毛利率84.9。数据中心、云存储、移动客户端、汽车嵌入式四大业务板块都是全面超预期，意味着\n1）当前存储周期的主线当然是AI，但如果只有AI业务强、传统终端疲弱，市场仍会担心增长过于集中、价格上涨难以扩散。而移动与客户业务超预期，说明存储供需紧张正在向更多下游领域传导。\n2）同时产品组合正在继续向高价值方向倾斜。AI基础设施需要更高容量、更高带宽、更低功耗的存储解决方案，这类产品通常具备更高ASP和更强议价能力。\n\n简单说美光这份财报传递出的并不是“只有AI强”，而是“AI带动存储全行业供需结构改善”。\n\n2、美光预计下一季调整后营收为490亿至510亿美元，中值约500亿美元，明显高于分析师预期的432.4亿美元。按中值计算，指引较市场预期高出约15.6%。之前财报前瞻里聊到对下一季最激进的预测是高盛的488亿。相当于美光自己给出的指引下限都要比最乐观的预期还要高。\n\n公司预计第四财季调整后EPS为30至32美元，中值31美元，高于市场预期25.31美元，超预期约22.5%。\n\n这组指引的重要性在于，它打破了市场对“当前盈利可能已接近峰值”的担忧。\n\n在美光股价年内已大幅上涨、市场门槛极高的背景下，仅仅“符合预期”并不足以推动股价继续上行。真正推动盘后股价涨超10%的，是公司给出了足够强的下一季度盈利再加速信号\n\n3、SCA/LTA长协机制”\n美光已经与数据中心、消费端和汽车市场的客户签订了16份战略客户协议（SCA），其中包含4个超大型客户和3个中型客户，关键是SCA的条款。\n\n这些长单绝非简单的意向协议，而是具备强约束力的“包销（Take-or-pay）”合同。协议通常为期五年（2026年至2030年底），约定了具体采购量并设定了价格底线和上限。\n\n这16份长单为市场带来了极具冲击力的财务护城河数据：\n1）千亿保底收入： 按照合同中约定的最低价格和最低出货量计算，未来履约义务（RPO）对应的保底收入已达1000亿美元。\n\n2）巨额现金流前置： 客户为获得稳定的产能供应，拿出了真金白银。CFO Mark Murphy透露：“在迄今签署的SCA下，我们预计将收到220亿美元的现金存款和相关财务承诺。其中绝大多数（约180亿美元）将以现金押金的形式出现。”\n\n3）彻底熨平周期波动： 目前这些长单锁定了美光这期间约20%的DRAM产能和33%的NAND产能。美光董事长Mehrotra强调：“对于包含价格区间的SCA，即使在底价水平上，美光的毛利率也将非常丰厚，远超以往任何周期的峰值季度利润率。”\n\n4、“HBM4/HBM4E路线图”和NAND/eSSD数据中心业务”\n1）HBM4 12hi的高强度量产速度是HBM3E 12hi的两倍，美光已经实现了超过10亿美元的HBM4收入。美光管理层预计HBM4 12层达到成熟良率的速度将显著快于HBM3E 12层。\n\n2）预计未来的内存需求将继续向更高性能、更高价值的产品倾斜，这些产品的复杂性带来了更高的每颗晶粒成本。从LP5到LP6、DDR5到DDR6以及更新一代HBM的过渡，都伴随着晶粒成本的上升。这一趋势，加上未来几年大规模新建产能的投产，预计将导致DRAM混合晶粒成本从当前水平上升\n\n预计2026日历年行业数据中心DRAM和NAND位元出货量将比两年前增长超过一倍。\n\n出货量增长预期的提升是由服务器平均DRAM内容增长的适度降低所促成的，因为客户在内存分配极其紧张的情况下，专注于最大化单位出货量。在NAND领域，AI上下文内存存储和HDD（机械硬盘）替代机会正在扩大SSD（固态硬盘）的可寻址市场。\n\n5、未来的机会点和需求空间\n1）市场高度关注这轮存储爆发的持续性。美光给了明确的判断：紧缺不仅是当下的状态，更是未来两三年的常态。\n\n董事长Mehrotra表示，这种依赖性使得内存角色发生了质变：\n“AI系统的性能在架构上依赖于内存子系统的性能和容量。它提升了内存在AI世界中的地位，使其成为一项战略资产。”\n\n2）供应为何难以跟上？美光指出了四大结构性痛点：\n一是新建晶圆厂项目庞大、耗时且受制于劳动力和能源基础设施短缺；\n二是随着节点升级（如One Gamma和G9节点），工艺复杂性加剧导致位元增长放缓；\n三是HBM极度消耗晶圆产能，严重挤压了非HBM产品的供应；\n四是有限的无尘室空间限制了产能扩张\n\n3）除了数据中心，边缘AI和终端设备的想象空间正在被打开。\n在汽车领域，L2+及以上级别自动驾驶车辆的内存和存储容量是普通汽车的5倍以上，而这类汽车的渗透率正急速飙升。\n\n更具长远冲击力的是机器人赛道。\n董事长Mehrotra为市场描绘了一个巨大的增量蓝图：\n“人形机器人所携带的内存是普通L2+级汽车的10倍。在这个十年的后半期，将开启一个持续的、实质性的、长达数十年的内存需求周期。”\n\n即使在2028年，当供应开始逐步改善时，预计需求也将继续保持强劲轨迹，整个token经济学（指AI模型处理成本）需要更多的内存。AI系统性能实际上受到内存容量、内存性能和内存带宽的限制\n\n此内容由@BITstocks_CN 赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。",
-        "contentHtml": "一次满分100市场预期能120实际考了150分的真正炸裂财报，按照前瞻的框架拆解下美光的财报：1、本季营收415亿美金，远超市场预期的380亿美金的上限，毛利率84.9。数据中心、云存储、移动客户端、汽车嵌入式四大业务板块都是全面超预期，意味着\n1）当前存储周期的主线当然是AI，但如果只有AI业务强、传统终端疲弱，市场仍会担心增长过于集中、价格上涨难以扩散。而移动与客户业务超预期，说明存储供需紧张正在向更多下游领域传导。\n2）同时产品组合正在继续向高价值方向倾斜。AI基础设施需要更高容量、更高带宽、更低功耗的存储解决方案，这类产品通常具备更高ASP和更强议价能力。\n\n简单说美光这份财报传递出的并不是“只有AI强”，而是“AI带动存储全行业供需结构改善”。\n\n2、美光预计下一季调整后营收为490亿至510亿美元，中值约500亿美元，明显高于分析师预期的432.4亿美元。按中值计算，指引较市场预期高出约15.6%。之前财报前瞻里聊到对下一季最激进的预测是高盛的488亿。相当于美光自己给出的指引下限都要比最乐观的预期还要高。\n\n公司预计第四财季调整后EPS为30至32美元，中值31美元，高于市场预期25.31美元，超预期约22.5%。\n\n这组指引的重要性在于，它打破了市场对“当前盈利可能已接近峰值”的担忧。\n\n在美光股价年内已大幅上涨、市场门槛极高的背景下，仅仅“符合预期”并不足以推动股价继续上行。真正推动盘后股价涨超10%的，是公司给出了足够强的下一季度盈利再加速信号\n\n3、SCA/LTA长协机制”\n美光已经与数据中心、消费端和汽车市场的客户签订了16份战略客户协议（SCA），其中包含4个超大型客户和3个中型客户，关键是SCA的条款。\n\n这些长单绝非简单的意向协议，而是具备强约束力的“包销（Take-or-pay）”合同。协议通常为期五年（2026年至2030年底），约定了具体采购量并设定了价格底线和上限。\n\n这16份长单为市场带来了极具冲击力的财务护城河数据：\n1）千亿保底收入： 按照合同中约定的最低价格和最低出货量计算，未来履约义务（RPO）对应的保底收入已达1000亿美元。\n\n2）巨额现金流前置： 客户为获得稳定的产能供应，拿出了真金白银。CFO Mark Murphy透露：“在迄今签署的SCA下，我们预计将收到220亿美元的现金存款和相关财务承诺。其中绝大多数（约180亿美元）将以现金押金的形式出现。”\n\n3）彻底熨平周期波动： 目前这些长单锁定了美光这期间约20%的DRAM产能和33%的NAND产能。美光董事长Mehrotra强调：“对于包含价格区间的SCA，即使在底价水平上，美光的毛利率也将非常丰厚，远超以往任何周期的峰值季度利润率。”\n\n4、“HBM4/HBM4E路线图”和NAND/eSSD数据中心业务”\n1）HBM4 12hi的高强度量产速度是HBM3E 12hi的两倍，美光已经实现了超过10亿美元的HBM4收入。美光管理层预计HBM4 12层达到成熟良率的速度将显著快于HBM3E 12层。\n\n2）预计未来的内存需求将继续向更高性能、更高价值的产品倾斜，这些产品的复杂性带来了更高的每颗晶粒成本。从LP5到LP6、DDR5到DDR6以及更新一代HBM的过渡，都伴随着晶粒成本的上升。这一趋势，加上未来几年大规模新建产能的投产，预计将导致DRAM混合晶粒成本从当前水平上升\n\n预计2026日历年行业数据中心DRAM和NAND位元出货量将比两年前增长超过一倍。\n\n出货量增长预期的提升是由服务器平均DRAM内容增长的适度降低所促成的，因为客户在内存分配极其紧张的情况下，专注于最大化单位出货量。在NAND领域，AI上下文内存存储和HDD（机械硬盘）替代机会正在扩大SSD（固态硬盘）的可寻址市场。\n\n5、未来的机会点和需求空间\n1）市场高度关注这轮存储爆发的持续性。美光给了明确的判断：紧缺不仅是当下的状态，更是未来两三年的常态。\n\n董事长Mehrotra表示，这种依赖性使得内存角色发生了质变：\n“AI系统的性能在架构上依赖于内存子系统的性能和容量。它提升了内存在AI世界中的地位，使其成为一项战略资产。”\n\n2）供应为何难以跟上？美光指出了四大结构性痛点：\n一是新建晶圆厂项目庞大、耗时且受制于劳动力和能源基础设施短缺；\n二是随着节点升级（如One Gamma和G9节点），工艺复杂性加剧导致位元增长放缓；\n三是HBM极度消耗晶圆产能，严重挤压了非HBM产品的供应；\n四是有限的无尘室空间限制了产能扩张\n\n3）除了数据中心，边缘AI和终端设备的想象空间正在被打开。\n在汽车领域，L2+及以上级别自动驾驶车辆的内存和存储容量是普通汽车的5倍以上，而这类汽车的渗透率正急速飙升。\n\n更具长远冲击力的是机器人赛道。\n董事长Mehrotra为市场描绘了一个巨大的增量蓝图：\n“人形机器人所携带的内存是普通L2+级汽车的10倍。在这个十年的后半期，将开启一个持续的、实质性的、长达数十年的内存需求周期。”\n\n即使在2028年，当供应开始逐步改善时，预计需求也将继续保持强劲轨迹，整个token经济学（指AI模型处理成本）需要更多的内存。AI系统性能实际上受到内存容量、内存性能和内存带宽的限制\n\n此内容由<a href=\"/BITstocks_CN\" title=\"BIT美股频道\">@BITstocks_CN</a> 赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。",
-        "link": "https://x.com/qinbafrank/status/2069931386908426247",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLneZgnbIAATgLg.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069971260520681952",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "四天跌没 5 万刀，抄底选手终于就位了😬\n\n地址 0x960…3f0fc 今天凌晨开启 102.55 BTC，954.38 ETH，8790 枚白银的多单，总仓位价值 829 万美元；同时他还买入了 1,069.9 万美元的 BTC 和 $ETH 现货，双管齐下\n\n当前设置的止盈点位是 $BTC $63000，ETH $1650\n\n传送门 👉 d.pro/portfolio/0x960b6c2c4b…",
-      "contentHtml": "四天跌没 5 万刀，抄底选手终于就位了😬\n\n地址 0x960…3f0fc 今天凌晨开启 102.55 BTC，954.38 ETH，8790 枚白银的多单，总仓位价值 829 万美元；同时他还买入了 1,069.9 万美元的 BTC 和 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 现货，双管齐下\n\n当前设置的止盈点位是 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> $63000，ETH $1650\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0x960b6c2c4b1498681b8422eb572a8b3a6aa3f0fc\">d.pro/portfolio/0x960b6c2c4b…</a>",
-      "publishedAt": "2026-06-25T02:29:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2069971260520681952",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLoDiSsasAAhZ9V.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLoDkMnbMAAq2mw.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLoDmO9akAAt9EQ.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069967269137178988",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#美光\n\n美光这份财报就是告诉大家印钱是什么感觉\n\n本季营收415亿，直接打穿了市场预期的上限380亿\n重点不是营收超预期，重点是毛利率有84.9%\n\n知道84.9%的毛利率是什么概念吗？龙头英伟达也就75%\n而且现在全市场缺货，客户排队送钱，价格完全由美光说了算\n\n前几天还因为HBM利润不及预期放风说要增加DRAM的产能\n\n这是在干嘛，这是在敲打老黄，你不加价买，库克还在排队等着呢\n\n以前大家说存储是周期股，涨价一波，跌价一波，赚几年亏几年\n\n现在美光的数据中心、云存储、移动客户端、汽车嵌入，几个主营业务板块全部超预期，不是单一业务爆了，是全线爆了，什么叫赢麻了，这就是\n\n更离谱的是，下季度毛利率还要继续提升，下季度营收指引也远超市场预期\n\n这说明需求和涨价还看不到头啊，说明AI需求不是PPT需求，是实打实把美光利润表打爆了\n\n前几天一堆人看到韩国熔断、海力士暴跌、纳指期货下跌，就开始喊存储崩了\n\n我也一直在说，存储这种AI主线，不是跌一天两天就结束的\n\n如果这种财报都叫AI泡沫，那只能说泡沫确实太挣钱了",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23美光\">#美光</a>\n\n美光这份财报就是告诉大家印钱是什么感觉\n\n本季营收415亿，直接打穿了市场预期的上限380亿\n重点不是营收超预期，重点是毛利率有84.9%\n\n知道84.9%的毛利率是什么概念吗？龙头英伟达也就75%\n而且现在全市场缺货，客户排队送钱，价格完全由美光说了算\n\n前几天还因为HBM利润不及预期放风说要增加DRAM的产能\n\n这是在干嘛，这是在敲打老黄，你不加价买，库克还在排队等着呢\n\n以前大家说存储是周期股，涨价一波，跌价一波，赚几年亏几年\n\n现在美光的数据中心、云存储、移动客户端、汽车嵌入，几个主营业务板块全部超预期，不是单一业务爆了，是全线爆了，什么叫赢麻了，这就是\n\n更离谱的是，下季度毛利率还要继续提升，下季度营收指引也远超市场预期\n\n这说明需求和涨价还看不到头啊，说明AI需求不是PPT需求，是实打实把美光利润表打爆了\n\n前几天一堆人看到韩国熔断、海力士暴跌、纳指期货下跌，就开始喊存储崩了\n\n我也一直在说，存储这种AI主线，不是跌一天两天就结束的\n\n如果这种财报都叫AI泡沫，那只能说泡沫确实太挣钱了",
-      "publishedAt": "2026-06-25T02:13:00.000Z",
-      "link": "https://x.com/dongbimao/status/2069967269137178988",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLoAM6hbsAAHJqM.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069966948201570720",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
-      "content": "周 期",
-      "contentHtml": "周 期",
-      "publishedAt": "2026-06-25T02:12:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2069966948201570720",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLn_4uVbQAA3-0q.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【520纪念】24年比特币减半已过去 520 天",
-        "contentHtml": "【520纪念】24年比特币减半已过去 520 天",
-        "link": "https://x.com/0xCryptoChan/status/1969958229007556874",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/G1ayg_SaYAEvItX.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069962335469670880",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "「做多 12 万枚 $ETH 的铁头多军」凌晨追加 800 万美元保证金，已浮亏超 7704.7 万美元🥶\n\n目前四个地址（即 bit 关联实体）的清算价格分别为 $1,174.6 / $1,059.1 / $1,064.7 / $1,143.6，入场点位为 ~$2265\n\n尽管浮亏严重，但距离清算还有较大空间，且链上还有超 600 万枚 USDC 可用作保证金，爆仓风险不大，就看要不要继续扛单了\n\n传送门\nd.pro/portfolio/0xa5b0edf6b5…\nd.pro/portfolio/0x6c8512516c…\nd.pro/portfolio/0xfd423284f6…\nd.pro/portfolio/0xa875890465…",
-      "contentHtml": "「做多 12 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的铁头多军」凌晨追加 800 万美元保证金，已浮亏超 7704.7 万美元🥶\n\n目前四个地址（即 bit 关联实体）的清算价格分别为 $1,174.6 / $1,059.1 / $1,064.7 / $1,143.6，入场点位为 ~$2265\n\n尽管浮亏严重，但距离清算还有较大空间，且链上还有超 600 万枚 USDC 可用作保证金，爆仓风险不大，就看要不要继续扛单了\n\n传送门\n<a href=\"https://www.d.pro/portfolio/0xa5b0edf6b55128e0ddae8e51ac538c3188401d41\">d.pro/portfolio/0xa5b0edf6b5…</a>\n<a href=\"https://www.d.pro/portfolio/0x6c8512516ce5669d35113a11ca8b8de322fd84f6\">d.pro/portfolio/0x6c8512516c…</a>\n<a href=\"https://www.d.pro/portfolio/0xfd423284f6a9c73a2a3d53cab8921d6533533d97\">d.pro/portfolio/0xfd423284f6…</a>\n<a href=\"https://www.d.pro/portfolio/0xa875890465da20062bcf3b024bf7d54e69c725a8\">d.pro/portfolio/0xa875890465…</a>",
-      "publishedAt": "2026-06-25T01:54:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2069962335469670880",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLn7viDbEAAj4uE.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "清算风暴再度来袭！三大巨鲸的 34.5 万枚 $ETH 正面临清算风险，总计 5.37 亿美元⚡️\n\n1️⃣二月起循环做多 ETH 巨鲸\n\n做多战场：Hyperliquid\n抵押数量：152,195 枚 ETH（2.1 亿美元），分散在 2 个地址中\n当前状态：健康度低至 1.16\n清算价格：$1,355.63 和 $1,280.47\ndebank.com/profile/0x2bd72f8…\ndebank.com/profile/0xc70ad21…\n\n2️⃣Bit 关联实体\n\n做多战场：Hyperliquid\n多单持仓：12 万枚 ETH（1.88 亿美元），分散在 4 个地址中\n当前盈亏：浮亏 8448 万美元\n清算价格：[$1,241, $1,272]\n\nd.pro/portfolio/0xa5b0edf6b5…\nd.pro/portfolio/0x6c8512516c…\nd.pro/portfolio/0xfd423284f6…\nd.pro/portfolio/0xa875890465…\n\n3️⃣沉睡五年后循环做多 ETH 巨鲸\n\n做多战场：Aave\n抵押数量：72,706.14 枚 ETH（1.13 亿美元），分散在 2 个地址中\n当前状态：已被清算 31,915.13 ETH\n清算价格：$1,472.12 和 $1,458.81\n\ndebank.com/profile/0xc3fe8b6…\ndebank.com/profile/0x34d1231…",
-        "contentHtml": "清算风暴再度来袭！三大巨鲸的 34.5 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 正面临清算风险，总计 5.37 亿美元⚡️\n\n1️⃣二月起循环做多 ETH 巨鲸\n\n做多战场：Hyperliquid\n抵押数量：152,195 枚 ETH（2.1 亿美元），分散在 2 个地址中\n当前状态：健康度低至 1.16\n清算价格：$1,355.63 和 $1,280.47\n<a href=\"https://debank.com/profile/0x2bd72f8fb377337c9cc16da4dd2dd274537ffb82\">debank.com/profile/0x2bd72f8…</a>\n<a href=\"https://debank.com/profile/0xc70ad21c69cbf3631637f2796a42e94c42013810\">debank.com/profile/0xc70ad21…</a>\n\n2️⃣Bit 关联实体\n\n做多战场：Hyperliquid\n多单持仓：12 万枚 ETH（1.88 亿美元），分散在 4 个地址中\n当前盈亏：浮亏 8448 万美元\n清算价格：[$1,241, $1,272]\n\n<a href=\"https://www.d.pro/portfolio/0xa5b0edf6b55128e0ddae8e51ac538c3188401d41\">d.pro/portfolio/0xa5b0edf6b5…</a>\n<a href=\"https://www.d.pro/portfolio/0x6c8512516ce5669d35113a11ca8b8de322fd84f6\">d.pro/portfolio/0x6c8512516c…</a>\n<a href=\"https://www.d.pro/portfolio/0xfd423284f6a9c73a2a3d53cab8921d6533533d97\">d.pro/portfolio/0xfd423284f6…</a>\n<a href=\"https://www.d.pro/portfolio/0xa875890465da20062bcf3b024bf7d54e69c725a8\">d.pro/portfolio/0xa875890465…</a>\n\n3️⃣沉睡五年后循环做多 ETH 巨鲸\n\n做多战场：Aave\n抵押数量：72,706.14 枚 ETH（1.13 亿美元），分散在 2 个地址中\n当前状态：已被清算 31,915.13 ETH\n清算价格：$1,472.12 和 $1,458.81\n\n<a href=\"https://debank.com/profile/0xc3fe8b63ea05e8e27b3f3358d646915d7ed931e4?chain=eth\">debank.com/profile/0xc3fe8b6…</a>\n<a href=\"https://debank.com/profile/0x34d1231f15da58762a84ead35242896e7fec4ac1\">debank.com/profile/0x34d1231…</a>",
-        "link": "https://x.com/ai_9684xtpa/status/2063206113861160971",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKH65yraEAAHs23.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069961812108558817",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
-      "content": "「二次探底 59K」是真正的築底 or 多頭陷阱❓\n\n受美股牽連，昨晚美股開盤時段，BTC 再次下殺至 59K，\n不過隨後迅速出現一波反彈，有不少朋友開始好奇：\n「這是否代表已經完成了二次探底？」\n\n今天，我打算再來從 Liquidity 的角度，\n和各位分享一些關於「健康的底部結構」的 bias。\n\n以下進入正文👇：\n\n//\n\n如附圖所示：\n就在昨晚美股下殺的同時，BTC 受到牽連也一併出現下殺走勢，\n並且短暫的跌破了 59K 的前低。\n\n不少人開始有所疑問：「這是健康的二次探底嗎？」\n\n從 Liq 的角度而言，我先說結論：「大概率不是」。\n\n雖然價格短暫跌破了 59K，並且迅速出現一波拉升，\n但鑒於「跌破幅度實在太小」，如果我們把級別拉大，\n其實這次跌破前低所形成的「新低」，和先前 59K 前低相比，\n反而更傾向於是「形成新的 Equal Lows」。\n\n類似的情況其實也曾發生於今年三月底（BTC 在 65K 時），\n當時我公開發文宣稱「未來必定重回 65K」，事後也印證了我的觀點，\n有興趣的朋友可以參考當時的分析帖👇：\nnitter.net/market_beggar/status/2…\n\n換言之：雖然價格的確跌破了 59K，但由於這種跌破幅度實在太小，\n以 Stop Hunt 的底層邏輯而言，其實這並不滿足獵取流動性的條件，\n反倒更像是形成新的 Liquidity（新的引力區）。\n\n並且，從鏈上分析的角度來看，此次跌破也並未跌入深熊估值模型區，\n因此如果要把此波下跌定義成「最終的週期性築底」，實屬有些牽強。\n\n📖 黃金坑追蹤系列（十七）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n綜上所述，我並不認為昨晚的下殺是真正的週期性築底，\n在我個人的交易系統中，我期望的理想底部結構如附圖所示：\n「再次下殺（真正滿足 Stop Hunt 條件）+ 踩入深熊估值模型區」。\n\n據此，如果你和我一樣是週期性交易選手，\n我認為當前最佳的策略依然是「等待最後一小哆嗦」；\nBTC 熊市已持續超半年之久，我們沒必要在熊市末端意氣用事，\n保持耐心與紀律，是一名週期交易者的基本素養。\n\n當然，從「PSIP < 50%」的訊號來看，如果你真的懶得盯盤，\n分批定期買入 BTC 也是合理的選擇：\nnitter.net/market_beggar/status/2…\n\n以上就是今天的內容，希望對各位有幫助🫡",
-      "contentHtml": "「二次探底 59K」是真正的築底 or 多頭陷阱❓\n\n受美股牽連，昨晚美股開盤時段，BTC 再次下殺至 59K，\n不過隨後迅速出現一波反彈，有不少朋友開始好奇：\n「這是否代表已經完成了二次探底？」\n\n今天，我打算再來從 Liquidity 的角度，\n和各位分享一些關於「健康的底部結構」的 bias。\n\n以下進入正文👇：\n\n//\n\n如附圖所示：\n就在昨晚美股下殺的同時，BTC 受到牽連也一併出現下殺走勢，\n並且短暫的跌破了 59K 的前低。\n\n不少人開始有所疑問：「這是健康的二次探底嗎？」\n\n從 Liq 的角度而言，我先說結論：「大概率不是」。\n\n雖然價格短暫跌破了 59K，並且迅速出現一波拉升，\n但鑒於「跌破幅度實在太小」，如果我們把級別拉大，\n其實這次跌破前低所形成的「新低」，和先前 59K 前低相比，\n反而更傾向於是「形成新的 Equal Lows」。\n\n類似的情況其實也曾發生於今年三月底（BTC 在 65K 時），\n當時我公開發文宣稱「未來必定重回 65K」，事後也印證了我的觀點，\n有興趣的朋友可以參考當時的分析帖👇：\n<a href=\"https://nitter.net/market_beggar/status/2038431592616787973\">nitter.net/market_beggar/status/2…</a>\n\n換言之：雖然價格的確跌破了 59K，但由於這種跌破幅度實在太小，\n以 Stop Hunt 的底層邏輯而言，其實這並不滿足獵取流動性的條件，\n反倒更像是形成新的 Liquidity（新的引力區）。\n\n並且，從鏈上分析的角度來看，此次跌破也並未跌入深熊估值模型區，\n因此如果要把此波下跌定義成「最終的週期性築底」，實屬有些牽強。\n\n📖 黃金坑追蹤系列（十七）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2062713685639049363\">nitter.net/market_beggar/status/2…</a>\n\n綜上所述，我並不認為昨晚的下殺是真正的週期性築底，\n在我個人的交易系統中，我期望的理想底部結構如附圖所示：\n「再次下殺（真正滿足 Stop Hunt 條件）+ 踩入深熊估值模型區」。\n\n據此，如果你和我一樣是週期性交易選手，\n我認為當前最佳的策略依然是「等待最後一小哆嗦」；\nBTC 熊市已持續超半年之久，我們沒必要在熊市末端意氣用事，\n保持耐心與紀律，是一名週期交易者的基本素養。\n\n當然，從「PSIP &lt; 50%」的訊號來看，如果你真的懶得盯盤，\n分批定期買入 BTC 也是合理的選擇：\n<a href=\"https://nitter.net/market_beggar/status/2063800180227588374\">nitter.net/market_beggar/status/2…</a>\n\n以上就是今天的內容，希望對各位有幫助🫡",
-      "publishedAt": "2026-06-25T01:52:00.000Z",
-      "link": "https://x.com/market_beggar/status/2069961812108558817",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLn7SqjbEAAjlEz.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「共振將至」：BTC 長期持有者成本最新數據更新📊\n\n鑑於最近幾日的頹勢，又有不少朋友開始關注深熊抄底模型的數據，\n因此今天我就挑了一組比較值得一提的指標，來和各位分享一些 bias。\n\n貝格先生的老朋友或許有印象：\nLTH-RP 是四大深熊抄底模型之一，且相比於其他三者，\n明顯的上升速度是它的特點。\n\n//\n\nLTH-RP，又稱「BTC 長期持有者平均成本」，\n是鏈上分析領域中的一項經典指標，同時至今仍維持著 100% 的抄底勝率。\n\n如果你是新朋友，或者是還不太熟悉 LTH-RP 指標的讀者，\n可以參考我先前撰寫的教程👇：\nnitter.net/market_beggar/status/1…\n\n📊 目前的 LTH-RP = 49,700\n\n自今年二月初，我首次開始撰寫並定期更新「黃金坑抄底系列」分析帖，\n當時的 LTH-RP 只有 40,416，如今已上升了接近 1 萬點。\n\n📖 第一篇「黃金坑抄底系列」分析帖\nnitter.net/market_beggar/status/2…\n\n值得一提的是，就目前深熊估值抄底模型的最新數據來看：\n➡️ Realized Price = 53,457\n➡️ Cointime Price = 51,868\n\n按照這個節奏，我認為如果未來真能出現我預期中的「最後一小哆嗦」，\n屆時的 LTH-RP 有很大的概率和上述兩項模型數值形成共振；\n而一旦共振，只要 BTC 價格跌破這個共振位置，\n就意味著我們迎來了真正的週期性底部區域，\n我也會按照自己的交易計畫，滿倉 BTC 現貨、全力作多。\n\n我們不難想像一旦 BTC 再次出現一波下跌行情，\n屆時的市場情緒會有多麼恐慌、甚至遍布利空消息，\n但跟隨情緒交易並不是一名合格交易員該出現的行為，\n唯有跟隨數據，我們才能在由多巴胺主導的 K 線走勢中找到正確的方向。\n\n以上就是今天的內容，希望對各位有幫助🫡",
-        "contentHtml": "「共振將至」：BTC 長期持有者成本最新數據更新📊\n\n鑑於最近幾日的頹勢，又有不少朋友開始關注深熊抄底模型的數據，\n因此今天我就挑了一組比較值得一提的指標，來和各位分享一些 bias。\n\n貝格先生的老朋友或許有印象：\nLTH-RP 是四大深熊抄底模型之一，且相比於其他三者，\n明顯的上升速度是它的特點。\n\n//\n\nLTH-RP，又稱「BTC 長期持有者平均成本」，\n是鏈上分析領域中的一項經典指標，同時至今仍維持著 100% 的抄底勝率。\n\n如果你是新朋友，或者是還不太熟悉 LTH-RP 指標的讀者，\n可以參考我先前撰寫的教程👇：\n<a href=\"https://nitter.net/market_beggar/status/1864600434129948724\">nitter.net/market_beggar/status/1…</a>\n\n📊 目前的 LTH-RP = 49,700\n\n自今年二月初，我首次開始撰寫並定期更新「黃金坑抄底系列」分析帖，\n當時的 LTH-RP 只有 40,416，如今已上升了接近 1 萬點。\n\n📖 第一篇「黃金坑抄底系列」分析帖\n<a href=\"https://nitter.net/market_beggar/status/2021763207296430279\">nitter.net/market_beggar/status/2…</a>\n\n值得一提的是，就目前深熊估值抄底模型的最新數據來看：\n➡️ Realized Price = 53,457\n➡️ Cointime Price = 51,868\n\n按照這個節奏，我認為如果未來真能出現我預期中的「最後一小哆嗦」，\n屆時的 LTH-RP 有很大的概率和上述兩項模型數值形成共振；\n而一旦共振，只要 BTC 價格跌破這個共振位置，\n就意味著我們迎來了真正的週期性底部區域，\n我也會按照自己的交易計畫，滿倉 BTC 現貨、全力作多。\n\n我們不難想像一旦 BTC 再次出現一波下跌行情，\n屆時的市場情緒會有多麼恐慌、甚至遍布利空消息，\n但跟隨情緒交易並不是一名合格交易員該出現的行為，\n唯有跟隨數據，我們才能在由多巴胺主導的 K 線走勢中找到正確的方向。\n\n以上就是今天的內容，希望對各位有幫助🫡",
-        "link": "https://x.com/market_beggar/status/2069600684824264739",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLiy2RAawAA-qe_.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069959317332340899",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "高通，从\"手机芯片公司\"到\"全栈AI计算平台公司\"的升级，昨晚高通投资者日值得好好关注下。5月下旬一波大涨后，市场对高通能否在AI芯片领域与英伟达、博通、AMD竞争存在深度担忧，股价调整也不少。因此这场投资者日被华尔街视为高通从手机芯片公司向多元化AI计算平台转型的关键验证节点。\n1、未来战略：高通要做“端到云”的AI计算平台\n高通的长期战略可以归纳为三层。\n第一层是保住并升级手机基本盘。手机仍是高通最大业务，但管理层希望到FY2029手机只占QCT约三分之一。这不是放弃手机，而是用端侧AI、旗舰安卓、AI手机和Modem-RF继续产生现金流，同时降低公司估值对单一手机周期的依赖。\n\n第二层是汽车、工业、机器人和个人AI设备。\n官方目标是FY2029汽车收入100亿美元，IoT超过140亿美元，其中工业/网络/机器人80亿美元，个人AI与计算60亿美元。 高通在汽车业务上披露了650亿美元设计赢单管线，FY2026汽车业务年化收入预计达到60亿美元。\n\n第三层是AI数据中心。\n这是高通此前最缺的一块，也是这次投资者日最重大的新增变量。高通试图把其在低功耗计算、移动SoC、连接、边缘AI和定制芯片上的能力，延伸到云端推理基础设施。官方把未来平台变化归纳为gigawatt-scale data centers、industrial/physical AI、personal AI和6G等方向。\n\n换句话说，高通希望覆盖AI从云端训练/推理、边缘部署、车端/机器人执行、手机/PC个人代理的完整链条。它不是单纯押注“AI服务器CPU”，而是押注AI会变成横跨设备、汽车、机器人、工业和云的系统平台。\n\n高通CEO原话\"我们正在加速边缘多元化战略，推出下一代AI数据中心的全面路线图，并演变为一家平台公司\"。高通将自己定位为\"AI时代的连接计算领导者\"，覆盖从边缘到云端的整个计算连续体。\n\n2、AI数据中心战略：不是只卖CPU，而是做“推理优先”的全栈平台\n高通这次发布的数据中心路线图可以拆成四层：CPU、AI推理加速器/HBC、定制芯片、连接与软件生态。官方称其数据中心方案包括Dragonfly C1000 CPU、HBC、AI300推理加速器、连接产品和定制芯片，目标是提升每瓦token吞吐与总拥有成本。\n\n1）Dragonfly C1000 CPU：Meta大单的核心\nDragonfly C1000是高通数据中心CPU路线的标志产品。官方披露的参数包括：基于Oryon CPU内核、频率超过5GHz、250+核心chiplet设计、超过2TB/s的PCIe Gen 7 + CXL I/O，并称相较现有服务器CPU产品具备超过2倍的每瓦性能优势；商业化可用时间预计在2028年。\n\nMeta是这条路线的第一个重量级背书。高通与Meta宣布多代路线图合作，C1000计划从2028年下半年开始进入生产，并用于Meta下一代服务器舰队和未来数据中心扩容。Meta方面的表述显示，高通将成为Meta数据中心CPU供应商。\n\n这件事的重要性不只是“高通拿到一个CPU订单”，而是Meta作为全球最大AI基础设施买家之一，愿意把下一代服务器CPU路线纳入高通方案。这会提高其他云厂商评估高通平台的可信度。\n\n2） HBC：高通试图绕开AI推理的“内存墙”\nHBC是这次投资者日最有差异化的技术点。高通称HBC是一种近存计算/3D堆叠硅方案，用于突破AI推理中的内存带宽、容量和能效瓶颈。HBC Gen1配合AI250，目标是每卡133TB/s、有效内存带宽为AI200 LPDDR5X方案的18倍；AI300配合HBC Gen2，目标是相对AI200达到54倍有效带宽。HBC Gen1预计2027年中开始商业采样。\n\n高通给出的技术叙事是：AI推理尤其是大模型、长上下文、多模态和agentic workload，不一定只拼训练GPU的峰值算力，而是越来越拼内存带宽、容量、功耗、token/watt和token/dollar。官方还称AI300在部分内存带宽/每瓦维度上相对GPU架构有4-8倍优势，但这些属于公司估算和规格对比，后续仍要看实际客户工作负载、系统良率、软件适配和规模部署。\n\n微软的参与正是围绕HBC。投资者日实录显示，微软CEO Satya Nadella表示微软将在Azure数据中心部署HBC，称其高内存带宽和集成计算有助于改善下一代AI基础设施的成本/性能。\n\n3） 定制芯片：FY2027收入的第一根支柱\n从收入节奏看，短期真正先贡献的不是C1000 CPU，而是custom silicon。CFO披露，FY2027数据中心收入约50亿美元，其中两家全球hyperscaler客户各自至少贡献10亿美元级别收入；定制芯片收入将在FY2027 Q1开始成为有意义收入。\n\n这很关键。因为C1000 CPU要到2028年下半年才开始进入Meta生产部署，AI250/HBC也要到2027年中采样，因此FY2027的50亿美元主要依赖：\n一是Alphawave带来的连接业务；\n二是两家hyperscaler定制芯片；\n三是后续AI加速器逐步导入。\n管理层也提到两家主要hyperscaler的custom silicon wins将在本财年末/下一财年开始贡献。\n\n4）连接与软件：高通想复制“芯片 + 网络 + 软件”的平台模式\n数据中心不是单芯片战场，而是CPU、AI加速器、内存、互连、网络、软件栈的系统工程。高通这次把连接能力放进AI数据中心路线图，包括800G/1.6T光模块、主动光缆、主动电缆、SerDes、PAM4和coherent-lite DSP等能力。\n\n软件层面，高通宣布收购Modular。Modular的定位是AI原生软件栈，目标是在CPU、GPU、NPU和定制ASIC之间提供更可移植的计算层，降低开发者对单一硬件供应商的绑定。\n\n这背后的战略意图很清楚：英伟达的护城河不是单纯GPU，而是GPU + CUDA + 网络 + 系统。高通要切入AI数据中心，也不能只靠CPU或单个加速器，必须补软件栈和互连生态。它选择的是更开放、更推理导向、更强调能效和TCO的路线，而不是直接在训练GPU上正面硬刚英伟达。\n\n3、Meta与微软订单的真实含义：强背书，但收入节奏不同\n1）Meta：CPU路线被大客户验证\nMeta多代CPU合作是这次投资者日最强的客户背书。C1000从2028年下半年开始用于Meta服务器舰队，意味着高通的Oryon架构从PC/手机延伸到服务器端。\n\n对高通而言，这证明其Nuvia/Oryon资产不只服务Snapdragon X PC或手机SoC，还可以进入云端服务器CPU。对Meta而言，意义在于用定制化、能效更高的CPU降低AI基础设施成本，尤其在推理和服务端通用计算负载上形成替代方案。\n\n但投资者需要注意：Meta CPU订单的大规模收入释放主要在2028年下半年以后，它不是FY2026或FY2027利润的主要驱动。\n\n2）微软：HBC路线被Azure验证\n微软的部署信号更多是对HBC技术方向的认可。Satya Nadella在投资者日中提到，微软会在Azure数据中心部署HBC，以改善下一代AI基础设施成本/性能。\n\n这并不等同于已经披露一个明确金额的采购大单，但它对高通非常重要，因为HBC是高通AI推理加速器差异化的核心。若微软Azure部署后验证了HBC的内存带宽/功耗/TCO优势，高通AI250、AI300后续进入更多云厂商的概率会提高。\n\n4、2026-2029收入路径\n先连接和定制芯片，再AI加速器，最后CPU放量\n\n高通数据中心业务大致可以按时间线理解：\n1）FY2026Alphawave连接业务开始贡献；数据中心custom silicon engagement继续推进连接、初始定制芯片出货\n2）FY2027 Q1custom silicon开始产生有意义收入两家hyperscaler定制芯片\n3）FY2027下半年AI加速器/HBC相关产品开始贡献AI250、HBC Gen1验证\n4）FY2028下半年C1000 CPU进入生产/部署周期Meta服务器CPU路线\n5）FY2029数据中心收入超过150亿美元CPU + AI加速器 + 定制芯片 + 连接组合放量\n\n高通CFO给出的FY2027数据中心收入目标为50亿美元，并称两家全球hyperscaler各自至少贡献10亿美元级别收入；\n\nFY2029数据中心收入超过150亿美元，目标是在5-7年内拿到AI数据中心芯片市场超过5%的份额。\n\n这个节奏说明，高通的AI数据中心不是“等到2029才有收入”，但也不是立刻全面兑现。FY2027是第一道考题，重点看custom silicon与连接业务是否按期放量；FY2028-2029才是C1000和AI300真正检验产品竞争力的窗口。\n\n5、最新业绩：手机承压，汽车和IoT在托底\n从最新已披露季度看，高通还没有进入数据中心收入爆发期，财务表现仍主要由手机、QTL授权、汽车和IoT决定。\n\nFY2026 Q2，高通收入为106亿美元，非GAAP EPS为2.65美元；公司称QCT汽车业务创纪录，汽车和IoT合计同比增长20%，并在上半财年回购54亿美元股票、授权新的200亿美元回购计划。\n\n分业务看，QCT收入为90.76亿美元，同比下降4%；其中手机收入60.24亿美元，同比下降13%，汽车收入13.26亿美元，同比增长38%，IoT收入17.26亿美元，同比增长9%。QTL授权收入为13.82亿美元，同比增长5%，EBT利润率约72%。\n\n这组数据说明三点：\n一是手机业务仍是高通最大收入来源，但已经处于承压状态，尤其中国安卓和高端手机需求波动会直接影响短期业绩。\n\n二是汽车业务已经成为高通最确定的成长曲线之一，38%的同比增长和650亿美元设计赢单管线说明该业务不是概念阶段。\n\n三是QTL授权业务仍然是现金流和利润率稳定器，虽然成长性不如数据中心和汽车，但它给高通提供了持续回购、分红和研发投入的基础。\n\n公司对FY2026 Q3的指引为收入92亿-100亿美元、非GAAP EPS 2.10-2.30美元；QCT收入指引79亿-85亿美元，QTL收入指引11.5亿-13.5亿美元。公司也提到内存供应约束和相关定价压力，并预计中国手机收入在Q3触底后恢复环比增长。\n\n6、这次投资者日的内容对市场的意义：高通估值框架可能被重写，但执行风险很高\n正面逻辑\n1）数据中心AI给高通打开了一个远大于手机SoC的新TAM。官方称到2030年相关TAM约1.7万亿美元，并把FY2029数据中心收入目标定为超过150亿美元。\n\n2）客户背书质量高。Meta CPU、多代路线合作，微软Azure部署HBC，再加上两家未具名hyperscaler custom silicon win，使高通从“有技术路线”变成“有大客户验证”。\n\n3）业务组合正在多元化。FY2029如果非手机QCT做到400亿美元，手机业务占比下降，高通估值对安卓手机周期和苹果基带替代风险的敏感度会降低。\n\n4）EPS目标给出估值锚。管理层给出FY2029非GAAP EPS超过18美元的目标；如果市场相信这一目标，高通就不再只是一个低倍数手机半导体股，而可能被部分重估为AI基础设施+边缘AI平台股。\n\n当然还有很多问题需要一一解决：\n1）产品交付风险很高。HBC、AI250/AI300、C1000、连接和软件栈都需要在真实云端工作负载里验证。公司披露的很多性能优势属于估算或规格对比，最终要看实测性能、客户部署规模、良率、功耗、稳定性和软件生态。\n\n2）竞争极其激烈。英伟达有GPU、CUDA、NVLink/网络和整机系统优势；AMD在GPU和CPU都有成熟产品；Broadcom、Marvell、Arm生态和各大云厂商自研ASIC也在争夺custom silicon。高通切入点更偏推理、能效和定制化，但不是没有强敌。\n\n3）手机业务不能掉得太快。当前高通现金流仍主要来自手机QCT和QTL授权。如果手机大盘、安卓高端份额或苹果相关业务下滑快于汽车/数据中心放量，转型期利润可能承压。\n\n个人的判断\n这次高通投资者日是一个战略可信度明显提升的节点。过去市场对高通的怀疑是：“除了手机和授权，高通的新故事什么时候变成收入？”这次管理层给出了更清晰答案：汽车已经在兑现，IoT在修复，数据中心从FY2027开始进入收入曲线，FY2029目标超过150亿美元。\n\n但它还不是“完全兑现”的节点，而是“进入验证期”的节点。接下来最关键的观察指标是：\nFY2027数据中心收入能否接近50亿美元；\n两家hyperscaler custom silicon是否按期放量；\n微软Azure HBC部署是否扩大；\nMeta C1000是否在2028年下半年顺利进入生产；\nAI250/AI300实际token/watt、TCO和软件适配是否被更多客户认可；\n数据中心业务放量后，对QCT毛利率和公司EPS是否真有增厚作用。\n\n如果这些节点兑现，高通的估值逻辑会从“手机芯片周期股”变成“AI推理基础设施 + 端侧AI + 汽车平台”的复合型半导体平台。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "高通，从\"手机芯片公司\"到\"全栈AI计算平台公司\"的升级，昨晚高通投资者日值得好好关注下。5月下旬一波大涨后，市场对高通能否在AI芯片领域与英伟达、博通、AMD竞争存在深度担忧，股价调整也不少。因此这场投资者日被华尔街视为高通从手机芯片公司向多元化AI计算平台转型的关键验证节点。\n1、未来战略：高通要做“端到云”的AI计算平台\n高通的长期战略可以归纳为三层。\n第一层是保住并升级手机基本盘。手机仍是高通最大业务，但管理层希望到FY2029手机只占QCT约三分之一。这不是放弃手机，而是用端侧AI、旗舰安卓、AI手机和Modem-RF继续产生现金流，同时降低公司估值对单一手机周期的依赖。\n\n第二层是汽车、工业、机器人和个人AI设备。\n官方目标是FY2029汽车收入100亿美元，IoT超过140亿美元，其中工业/网络/机器人80亿美元，个人AI与计算60亿美元。 高通在汽车业务上披露了650亿美元设计赢单管线，FY2026汽车业务年化收入预计达到60亿美元。\n\n第三层是AI数据中心。\n这是高通此前最缺的一块，也是这次投资者日最重大的新增变量。高通试图把其在低功耗计算、移动SoC、连接、边缘AI和定制芯片上的能力，延伸到云端推理基础设施。官方把未来平台变化归纳为gigawatt-scale data centers、industrial/physical AI、personal AI和6G等方向。\n\n换句话说，高通希望覆盖AI从云端训练/推理、边缘部署、车端/机器人执行、手机/PC个人代理的完整链条。它不是单纯押注“AI服务器CPU”，而是押注AI会变成横跨设备、汽车、机器人、工业和云的系统平台。\n\n高通CEO原话\"我们正在加速边缘多元化战略，推出下一代AI数据中心的全面路线图，并演变为一家平台公司\"。高通将自己定位为\"AI时代的连接计算领导者\"，覆盖从边缘到云端的整个计算连续体。\n\n2、AI数据中心战略：不是只卖CPU，而是做“推理优先”的全栈平台\n高通这次发布的数据中心路线图可以拆成四层：CPU、AI推理加速器/HBC、定制芯片、连接与软件生态。官方称其数据中心方案包括Dragonfly C1000 CPU、HBC、AI300推理加速器、连接产品和定制芯片，目标是提升每瓦token吞吐与总拥有成本。\n\n1）Dragonfly C1000 CPU：Meta大单的核心\nDragonfly C1000是高通数据中心CPU路线的标志产品。官方披露的参数包括：基于Oryon CPU内核、频率超过5GHz、250+核心chiplet设计、超过2TB/s的PCIe Gen 7 + CXL I/O，并称相较现有服务器CPU产品具备超过2倍的每瓦性能优势；商业化可用时间预计在2028年。\n\nMeta是这条路线的第一个重量级背书。高通与Meta宣布多代路线图合作，C1000计划从2028年下半年开始进入生产，并用于Meta下一代服务器舰队和未来数据中心扩容。Meta方面的表述显示，高通将成为Meta数据中心CPU供应商。\n\n这件事的重要性不只是“高通拿到一个CPU订单”，而是Meta作为全球最大AI基础设施买家之一，愿意把下一代服务器CPU路线纳入高通方案。这会提高其他云厂商评估高通平台的可信度。\n\n2） HBC：高通试图绕开AI推理的“内存墙”\nHBC是这次投资者日最有差异化的技术点。高通称HBC是一种近存计算/3D堆叠硅方案，用于突破AI推理中的内存带宽、容量和能效瓶颈。HBC Gen1配合AI250，目标是每卡133TB/s、有效内存带宽为AI200 LPDDR5X方案的18倍；AI300配合HBC Gen2，目标是相对AI200达到54倍有效带宽。HBC Gen1预计2027年中开始商业采样。\n\n高通给出的技术叙事是：AI推理尤其是大模型、长上下文、多模态和agentic workload，不一定只拼训练GPU的峰值算力，而是越来越拼内存带宽、容量、功耗、token/watt和token/dollar。官方还称AI300在部分内存带宽/每瓦维度上相对GPU架构有4-8倍优势，但这些属于公司估算和规格对比，后续仍要看实际客户工作负载、系统良率、软件适配和规模部署。\n\n微软的参与正是围绕HBC。投资者日实录显示，微软CEO Satya Nadella表示微软将在Azure数据中心部署HBC，称其高内存带宽和集成计算有助于改善下一代AI基础设施的成本/性能。\n\n3） 定制芯片：FY2027收入的第一根支柱\n从收入节奏看，短期真正先贡献的不是C1000 CPU，而是custom silicon。CFO披露，FY2027数据中心收入约50亿美元，其中两家全球hyperscaler客户各自至少贡献10亿美元级别收入；定制芯片收入将在FY2027 Q1开始成为有意义收入。\n\n这很关键。因为C1000 CPU要到2028年下半年才开始进入Meta生产部署，AI250/HBC也要到2027年中采样，因此FY2027的50亿美元主要依赖：\n一是Alphawave带来的连接业务；\n二是两家hyperscaler定制芯片；\n三是后续AI加速器逐步导入。\n管理层也提到两家主要hyperscaler的custom silicon wins将在本财年末/下一财年开始贡献。\n\n4）连接与软件：高通想复制“芯片 + 网络 + 软件”的平台模式\n数据中心不是单芯片战场，而是CPU、AI加速器、内存、互连、网络、软件栈的系统工程。高通这次把连接能力放进AI数据中心路线图，包括800G/1.6T光模块、主动光缆、主动电缆、SerDes、PAM4和coherent-lite DSP等能力。\n\n软件层面，高通宣布收购Modular。Modular的定位是AI原生软件栈，目标是在CPU、GPU、NPU和定制ASIC之间提供更可移植的计算层，降低开发者对单一硬件供应商的绑定。\n\n这背后的战略意图很清楚：英伟达的护城河不是单纯GPU，而是GPU + CUDA + 网络 + 系统。高通要切入AI数据中心，也不能只靠CPU或单个加速器，必须补软件栈和互连生态。它选择的是更开放、更推理导向、更强调能效和TCO的路线，而不是直接在训练GPU上正面硬刚英伟达。\n\n3、Meta与微软订单的真实含义：强背书，但收入节奏不同\n1）Meta：CPU路线被大客户验证\nMeta多代CPU合作是这次投资者日最强的客户背书。C1000从2028年下半年开始用于Meta服务器舰队，意味着高通的Oryon架构从PC/手机延伸到服务器端。\n\n对高通而言，这证明其Nuvia/Oryon资产不只服务Snapdragon X PC或手机SoC，还可以进入云端服务器CPU。对Meta而言，意义在于用定制化、能效更高的CPU降低AI基础设施成本，尤其在推理和服务端通用计算负载上形成替代方案。\n\n但投资者需要注意：Meta CPU订单的大规模收入释放主要在2028年下半年以后，它不是FY2026或FY2027利润的主要驱动。\n\n2）微软：HBC路线被Azure验证\n微软的部署信号更多是对HBC技术方向的认可。Satya Nadella在投资者日中提到，微软会在Azure数据中心部署HBC，以改善下一代AI基础设施成本/性能。\n\n这并不等同于已经披露一个明确金额的采购大单，但它对高通非常重要，因为HBC是高通AI推理加速器差异化的核心。若微软Azure部署后验证了HBC的内存带宽/功耗/TCO优势，高通AI250、AI300后续进入更多云厂商的概率会提高。\n\n4、2026-2029收入路径\n先连接和定制芯片，再AI加速器，最后CPU放量\n\n高通数据中心业务大致可以按时间线理解：\n1）FY2026Alphawave连接业务开始贡献；数据中心custom silicon engagement继续推进连接、初始定制芯片出货\n2）FY2027 Q1custom silicon开始产生有意义收入两家hyperscaler定制芯片\n3）FY2027下半年AI加速器/HBC相关产品开始贡献AI250、HBC Gen1验证\n4）FY2028下半年C1000 CPU进入生产/部署周期Meta服务器CPU路线\n5）FY2029数据中心收入超过150亿美元CPU + AI加速器 + 定制芯片 + 连接组合放量\n\n高通CFO给出的FY2027数据中心收入目标为50亿美元，并称两家全球hyperscaler各自至少贡献10亿美元级别收入；\n\nFY2029数据中心收入超过150亿美元，目标是在5-7年内拿到AI数据中心芯片市场超过5%的份额。\n\n这个节奏说明，高通的AI数据中心不是“等到2029才有收入”，但也不是立刻全面兑现。FY2027是第一道考题，重点看custom silicon与连接业务是否按期放量；FY2028-2029才是C1000和AI300真正检验产品竞争力的窗口。\n\n5、最新业绩：手机承压，汽车和IoT在托底\n从最新已披露季度看，高通还没有进入数据中心收入爆发期，财务表现仍主要由手机、QTL授权、汽车和IoT决定。\n\nFY2026 Q2，高通收入为106亿美元，非GAAP EPS为2.65美元；公司称QCT汽车业务创纪录，汽车和IoT合计同比增长20%，并在上半财年回购54亿美元股票、授权新的200亿美元回购计划。\n\n分业务看，QCT收入为90.76亿美元，同比下降4%；其中手机收入60.24亿美元，同比下降13%，汽车收入13.26亿美元，同比增长38%，IoT收入17.26亿美元，同比增长9%。QTL授权收入为13.82亿美元，同比增长5%，EBT利润率约72%。\n\n这组数据说明三点：\n一是手机业务仍是高通最大收入来源，但已经处于承压状态，尤其中国安卓和高端手机需求波动会直接影响短期业绩。\n\n二是汽车业务已经成为高通最确定的成长曲线之一，38%的同比增长和650亿美元设计赢单管线说明该业务不是概念阶段。\n\n三是QTL授权业务仍然是现金流和利润率稳定器，虽然成长性不如数据中心和汽车，但它给高通提供了持续回购、分红和研发投入的基础。\n\n公司对FY2026 Q3的指引为收入92亿-100亿美元、非GAAP EPS 2.10-2.30美元；QCT收入指引79亿-85亿美元，QTL收入指引11.5亿-13.5亿美元。公司也提到内存供应约束和相关定价压力，并预计中国手机收入在Q3触底后恢复环比增长。\n\n6、这次投资者日的内容对市场的意义：高通估值框架可能被重写，但执行风险很高\n正面逻辑\n1）数据中心AI给高通打开了一个远大于手机SoC的新TAM。官方称到2030年相关TAM约1.7万亿美元，并把FY2029数据中心收入目标定为超过150亿美元。\n\n2）客户背书质量高。Meta CPU、多代路线合作，微软Azure部署HBC，再加上两家未具名hyperscaler custom silicon win，使高通从“有技术路线”变成“有大客户验证”。\n\n3）业务组合正在多元化。FY2029如果非手机QCT做到400亿美元，手机业务占比下降，高通估值对安卓手机周期和苹果基带替代风险的敏感度会降低。\n\n4）EPS目标给出估值锚。管理层给出FY2029非GAAP EPS超过18美元的目标；如果市场相信这一目标，高通就不再只是一个低倍数手机半导体股，而可能被部分重估为AI基础设施+边缘AI平台股。\n\n当然还有很多问题需要一一解决：\n1）产品交付风险很高。HBC、AI250/AI300、C1000、连接和软件栈都需要在真实云端工作负载里验证。公司披露的很多性能优势属于估算或规格对比，最终要看实测性能、客户部署规模、良率、功耗、稳定性和软件生态。\n\n2）竞争极其激烈。英伟达有GPU、CUDA、NVLink/网络和整机系统优势；AMD在GPU和CPU都有成熟产品；Broadcom、Marvell、Arm生态和各大云厂商自研ASIC也在争夺custom silicon。高通切入点更偏推理、能效和定制化，但不是没有强敌。\n\n3）手机业务不能掉得太快。当前高通现金流仍主要来自手机QCT和QTL授权。如果手机大盘、安卓高端份额或苹果相关业务下滑快于汽车/数据中心放量，转型期利润可能承压。\n\n个人的判断\n这次高通投资者日是一个战略可信度明显提升的节点。过去市场对高通的怀疑是：“除了手机和授权，高通的新故事什么时候变成收入？”这次管理层给出了更清晰答案：汽车已经在兑现，IoT在修复，数据中心从FY2027开始进入收入曲线，FY2029目标超过150亿美元。\n\n但它还不是“完全兑现”的节点，而是“进入验证期”的节点。接下来最关键的观察指标是：\nFY2027数据中心收入能否接近50亿美元；\n两家hyperscaler custom silicon是否按期放量；\n微软Azure HBC部署是否扩大；\nMeta C1000是否在2028年下半年顺利进入生产；\nAI250/AI300实际token/watt、TCO和软件适配是否被更多客户认可；\n数据中心业务放量后，对QCT毛利率和公司EPS是否真有增厚作用。\n\n如果这些节点兑现，高通的估值逻辑会从“手机芯片周期股”变成“AI推理基础设施 + 端侧AI + 汽车平台”的复合型半导体平台。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-06-25T01:42:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2069959317332340899",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLn30UObkAAywFv.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "一张图看清边缘计算/端侧AI/物理AI的发展趋势及产业链，就能理解为什么英伟达的财报要把边缘计算单列出来",
-        "contentHtml": "一张图看清边缘计算/端侧AI/物理AI的发展趋势及产业链，就能理解为什么英伟达的财报要把边缘计算单列出来",
-        "link": "https://x.com/qinbafrank/status/2058122669120528632",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HI_qwwTbEAAhPAj.jpg"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
