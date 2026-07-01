@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T13:48:25.915Z",
+  "lastUpdated": "2026-07-01T14:59:59.307Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,213 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 652,
+    "newFetched": 639,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2072332847168500125",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "近期交易难度明显上升，敏捷交易",
+      "contentHtml": "近期交易难度明显上升，敏捷交易",
+      "publishedAt": "2026-07-01T14:53:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072332847168500125",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072331823829701095",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "《某知名 KOL 线下狂啃女粉丝》",
+      "contentHtml": "《某知名 KOL 线下狂啃女粉丝》",
+      "publishedAt": "2026-07-01T14:49:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2072331823829701095",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "okx吃的真好",
+        "contentHtml": "okx吃的真好",
+        "link": "https://x.com/Bitfatty/status/2072298444161753427",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMJIcyxbwAALRGC.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072331414083674352",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "关于Meta出售多余算力的信息、第一时间想到的是扎克伯格是不是看到了之前SpaceX出售多余算力给Authropic和谷歌获得大量现金流，认为Meta可以照搬，还能提振股价。对于Meta算力剩余这事，个人也略有疑问：\n1）毕竟3月、Meta与Nebius 签署了一项价值270亿美元的云服务协议。\n2）4月，Meta 与 CoreWeave 签署了一项价值210亿美元的云服务协议扩展。\n3）两周前，Meta 签署协议租用 Crusoe 的 1.6GW 数据中心容量。\n4）3天前《金融时报》还报道称，由于容量限制，谷歌已限制 Meta 对 Gemini 的使用。\n\n然后这才过了几天，Meta算力一下子就很剩余了，这也有点说不过去。\n\n但这是提升股价的好办法",
+      "contentHtml": "关于Meta出售多余算力的信息、第一时间想到的是扎克伯格是不是看到了之前SpaceX出售多余算力给Authropic和谷歌获得大量现金流，认为Meta可以照搬，还能提振股价。对于Meta算力剩余这事，个人也略有疑问：\n1）毕竟3月、Meta与Nebius 签署了一项价值270亿美元的云服务协议。\n2）4月，Meta 与 CoreWeave 签署了一项价值210亿美元的云服务协议扩展。\n3）两周前，Meta 签署协议租用 Crusoe 的 1.6GW 数据中心容量。\n4）3天前《金融时报》还报道称，由于容量限制，谷歌已限制 Meta 对 Gemini 的使用。\n\n然后这才过了几天，Meta算力一下子就很剩余了，这也有点说不过去。\n\n但这是提升股价的好办法",
+      "publishedAt": "2026-07-01T14:48:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2072331414083674352",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMJmbwVawAAaRu5.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "数据中心真的是优质现金流资产。看spacex的ipo文件，Anthropic已同意l每月向SpaceX支付12.5亿美元（$1.25 billion），用于获取Colossus数据中心的算力访问权，合同期限至2029年5月。若按全额执行，接近450亿美元。\n\n最初主要Colossus1（约300MW、超过22万块NVIDIA GPU）全部算力，后续扩展到Colossus2（1GW以上），当然Colossus2估计只有一部分会给到authropic，毕竟现在xAI现在主要运行在Colossus2上。\n\n按照之间披露的造价来看Colossus1总成本70亿美金，Colossus2总成本200多亿美金，两个数据中心估计加起来接近300亿美金了。现在Colossus1的全部和Colossus2一小部分（估计不多，按照市场行情吃掉Colossus1全部算力每个月就差不多10亿左右美金了）就能带来每月12.5亿美金的收入、全年150亿美金，真实优质现金流\n\n特别注意的是，有报道SpaceX招股书初稿曾披露SpaceX数据中心建设成本仅为每兆瓦270万美元（行业基准约1230万美元/兆瓦），但该数字在最终版本中被删除，仅留下措辞considerably lower than industry benchmarks。\n\n不得不说老马的公司工程能力绝对是最顶级的。",
+        "contentHtml": "数据中心真的是优质现金流资产。看spacex的ipo文件，Anthropic已同意l每月向SpaceX支付12.5亿美元（$1.25 billion），用于获取Colossus数据中心的算力访问权，合同期限至2029年5月。若按全额执行，接近450亿美元。\n\n最初主要Colossus1（约300MW、超过22万块NVIDIA GPU）全部算力，后续扩展到Colossus2（1GW以上），当然Colossus2估计只有一部分会给到authropic，毕竟现在xAI现在主要运行在Colossus2上。\n\n按照之间披露的造价来看Colossus1总成本70亿美金，Colossus2总成本200多亿美金，两个数据中心估计加起来接近300亿美金了。现在Colossus1的全部和Colossus2一小部分（估计不多，按照市场行情吃掉Colossus1全部算力每个月就差不多10亿左右美金了）就能带来每月12.5亿美金的收入、全年150亿美金，真实优质现金流\n\n特别注意的是，有报道SpaceX招股书初稿曾披露SpaceX数据中心建设成本仅为每兆瓦270万美元（行业基准约1230万美元/兆瓦），但该数字在最终版本中被删除，仅留下措辞considerably lower than industry benchmarks。\n\n不得不说老马的公司工程能力绝对是最顶级的。",
+        "link": "https://x.com/qinbafrank/status/2057336046204109161"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072327131519160668",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "目前已完全止盈。",
+      "contentHtml": "目前已完全止盈。",
+      "publishedAt": "2026-07-01T14:31:00.000Z",
+      "link": "https://x.com/octopusycc/status/2072327131519160668",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072324896063943104",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "都在讨论OUSD对合规稳定币格局的影响，但没有人能说清楚OpenStandard是一家什么样的公司？这恰恰应该是最关键的因素，一个项目一家公司能不能做起来还是要聚焦这家公司的基本面。聊聊几个问题：\n1、OpenStandard是一家什么样的公司？\n关于OUSD的背后发行商OpenStandard并没有公布其股权架构和管理团队。现在唯一公开的是Stripe收购的跨链桥Brigdge的CEO Zach Abrams现在兼任着OpenStandard的创始CEO。\n\n所以个人有理由相信OUSD是Stripe系（通过 Zach Abrams）牵头、联合大量传统金融和科技巨头共同打造的一个“行业共享基础设施”项目。\n它既有 Stripe 明显的战略意图（扩展 Bridge 的能力、抢占稳定币支付网络），又有广泛的联盟背书（140+ 公司），属于“Stripe 带头 + 大家一起玩”的模式。\n\nStripe 收购 Bridge后，通过Zach Abrams把 Bridge的稳定币基础设施能力延伸到了一个更大的行业联盟里，相当于用一个“中立外壳”把 Stripe 的影响扩大到 Visa、Mastercard、BlackRock、Coinbase 等 140 多家机构。\n\n然后Stripe也一直在大力推动稳定币支付基础设施。\n\n可以认为它是 Stripe 攒的局（尤其是从战略意图和核心操盘人来看）。当然更准确地说，它是一个 Stripe 主导的行业联盟项目。\n\n2、既然是Stripe牵头的行业联盟，这么多参与方都是真心想跟它一起玩耍么？\nOpen USD 的140多个行业合作伙伴里，真心程度可能差异很大，\n1）最可能真心共建的机构（高动力）\n这些机构能直接从 OUSD 的储备收益共享机制中获益，动力最强：\n中小银行、支付处理器、电商/商户平台（如 Shopify、DoorDash、Ramp、Brex、OnePay 等）他们以前用 USDC/USDT 时，储备利息基本被发行方赚走。现在采用 OUSD 后，自己分发的量越大，能拿到的储备收益越多。这形成了直接的经济激励。\n\n2）战略性/观望参与的机构（动机复杂）\n这些是大玩家，参与更多是对冲 + 影响力 + 选项权：\n这里Visa 和 Mastercard是最关键的两个，他们已经公开支持并把 OUSD 视为“开放基础设施”。但大概率是“既要又要”——坐在董事会里影响规则、获得数据洞察、防止被 Stripe 完全主导，同时保持自己现有业务不受冲击。\n\nBlackRock 等资产管理巨头\n他们更关心储备资产管理和合规性。OUSD 的多方治理和监管友好定位对他们有吸引力，但不会把全部资源押在这上面。\n\n传统大银行（BNY、Standard Chartered、BBVA 等），参与主要是为了“有席位”和未来选项。目前稳定币对他们还是辅助业务。\n\n3）向coinbase这样的机构、下午的推文有详细聊过，明显usdc给coinbase的利益更大。\n\n3、这就有了潜在阻碍“真心共建”的因素\n1）直接竞争关系，Visa/Mastercard 和 Stripe 在支付领域是竞争对手。他们不太可能把核心流量和影响力全部让给 Stripe 主导的项目。\n\n2）类似 Libra/Diem 这种大联盟最终失败，就是因为参与方利益冲突太大。\n\n3）治理博弈风险，140+ 伙伴董事会里，决策可能慢、妥协多，甚至被少数大玩家（包括 Stripe）影响。核心就是利益冲突带来的治理博弈。\n\n当然因为是Stripe主导，还是会有很多中小银行、支付处理器、电商平台是真心参与其中、那么可以期待OUSD确实能做到一定规模。但是真正能做到多大？还要看落地执行的节奏和效果了。",
+      "contentHtml": "都在讨论OUSD对合规稳定币格局的影响，但没有人能说清楚OpenStandard是一家什么样的公司？这恰恰应该是最关键的因素，一个项目一家公司能不能做起来还是要聚焦这家公司的基本面。聊聊几个问题：\n1、OpenStandard是一家什么样的公司？\n关于OUSD的背后发行商OpenStandard并没有公布其股权架构和管理团队。现在唯一公开的是Stripe收购的跨链桥Brigdge的CEO Zach Abrams现在兼任着OpenStandard的创始CEO。\n\n所以个人有理由相信OUSD是Stripe系（通过 Zach Abrams）牵头、联合大量传统金融和科技巨头共同打造的一个“行业共享基础设施”项目。\n它既有 Stripe 明显的战略意图（扩展 Bridge 的能力、抢占稳定币支付网络），又有广泛的联盟背书（140+ 公司），属于“Stripe 带头 + 大家一起玩”的模式。\n\nStripe 收购 Bridge后，通过Zach Abrams把 Bridge的稳定币基础设施能力延伸到了一个更大的行业联盟里，相当于用一个“中立外壳”把 Stripe 的影响扩大到 Visa、Mastercard、BlackRock、Coinbase 等 140 多家机构。\n\n然后Stripe也一直在大力推动稳定币支付基础设施。\n\n可以认为它是 Stripe 攒的局（尤其是从战略意图和核心操盘人来看）。当然更准确地说，它是一个 Stripe 主导的行业联盟项目。\n\n2、既然是Stripe牵头的行业联盟，这么多参与方都是真心想跟它一起玩耍么？\nOpen USD 的140多个行业合作伙伴里，真心程度可能差异很大，\n1）最可能真心共建的机构（高动力）\n这些机构能直接从 OUSD 的储备收益共享机制中获益，动力最强：\n中小银行、支付处理器、电商/商户平台（如 Shopify、DoorDash、Ramp、Brex、OnePay 等）他们以前用 USDC/USDT 时，储备利息基本被发行方赚走。现在采用 OUSD 后，自己分发的量越大，能拿到的储备收益越多。这形成了直接的经济激励。\n\n2）战略性/观望参与的机构（动机复杂）\n这些是大玩家，参与更多是对冲 + 影响力 + 选项权：\n这里Visa 和 Mastercard是最关键的两个，他们已经公开支持并把 OUSD 视为“开放基础设施”。但大概率是“既要又要”——坐在董事会里影响规则、获得数据洞察、防止被 Stripe 完全主导，同时保持自己现有业务不受冲击。\n\nBlackRock 等资产管理巨头\n他们更关心储备资产管理和合规性。OUSD 的多方治理和监管友好定位对他们有吸引力，但不会把全部资源押在这上面。\n\n传统大银行（BNY、Standard Chartered、BBVA 等），参与主要是为了“有席位”和未来选项。目前稳定币对他们还是辅助业务。\n\n3）向coinbase这样的机构、下午的推文有详细聊过，明显usdc给coinbase的利益更大。\n\n3、这就有了潜在阻碍“真心共建”的因素\n1）直接竞争关系，Visa/Mastercard 和 Stripe 在支付领域是竞争对手。他们不太可能把核心流量和影响力全部让给 Stripe 主导的项目。\n\n2）类似 Libra/Diem 这种大联盟最终失败，就是因为参与方利益冲突太大。\n\n3）治理博弈风险，140+ 伙伴董事会里，决策可能慢、妥协多，甚至被少数大玩家（包括 Stripe）影响。核心就是利益冲突带来的治理博弈。\n\n当然因为是Stripe主导，还是会有很多中小银行、支付处理器、电商平台是真心参与其中、那么可以期待OUSD确实能做到一定规模。但是真正能做到多大？还要看落地执行的节奏和效果了。",
+      "publishedAt": "2026-07-01T14:22:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2072324896063943104",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMJgW1jbwAATQXh.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMJgW1hbEAAFZPo.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "昨天这个OUSD发布让Circle大跌，个人角度聊聊OUSD模式以及对Circle的思考。OUSD的优势：\n1）零费用铸造赎回，这个成本优势对机构有一定的吸引力；\n2）稳定币储备收益共享（不再是发行方独享）让合作伙伴有强烈动机推广，有形成飞轮效应的可能性；\n3）visa、master、贝莱德、stripe甚至coinbase等140+传统金融、支付以及加密巨头背书提供即时信任、流动性和分发能力；\n4）中立协作降低单一发行方风险，吸引追求“开放基础设施”的开发者与企业，算是治理优势；\n\n其实潜在挑战也是有的：\n1）联盟治理可能决策较慢（vs 单一公司敏捷性）。很多家公司一起联合，看上去阵容鼎盛声势浩大，但是真正做过企业的都清楚这中间摩擦成本（难免各家机构都有自己的小心思，导致博弈和时间成本大增）；\n2）需快速建立初始流动性和采用率，特别是USDT/USDC 已形成强大网络效应的情况下；\n3）所以执行落地是关键，实际表现要等今年年晚些时候OUSD真正上线来验证了。\n\n再说说对Circle的思考：\n1）最近因为美元流动性的收紧nitter.net/qinbafrank/status/2068…，稳定币USDT和USDC发行量都在下降，幅度还不下。发行量下降，又出现了一个看上去很强大的新竞争者，那么很容易影响情绪，自然也容易被杀跌；\n\n2）Circle就完全没价值了么？应该也不是，毕竟还有七百多亿美金的发行量，在链上、交易所内、贸易金融领域应用场景还是很广泛的。除非usdc发行量未来就完全不增长了、那应该也不是。即使不期待未来几年usdc发行量到大几千亿美金、那么至少两千亿美金上下还是可以期待的；\n\n3）Coinbase也加入了ousd支持方，很多人担心是不是就不支持usdc了。个人角度、Coinbase加入Ousd支持方应该还是防守和布局，ousd的储备收益共享但是usdc的储备收益一半都分给coinbse，从这个角度coinbase在usdc上的利益还是最大的；\n\n4）今天思考最大的一个收获就是Circle的股性：\n其一、作为稳定币、rwa、agent支付三个硬核叙事叠加的标的、其关注度还是很高的；\n其二、现有的业务体量以及创始人及管理团队的积极进取，从基本面角度下方还是有安全垫的；\n其三、在usdc没有完全证明其在合规稳定币的支配地位前，市场还是会担心其未来的竞争格局和行业地位、一出现新的有能力的竞争对手，那么Circle就容易被Fud。\n\n这就导致了Circle在没有完全证明其在合规稳定币领域足够的支配和垄断地位前，它更适合做波段而非趋势。怎么理解？就是跌多了超跌了、其实可以买点，因为有安全边际的。但是涨多了就不能期待他能再更进一步，就得出掉。等到又被fud了、还可以逢低再进。\n\n未来如果市场确认usdc能在合规稳定币领域建立足够强的支配地位后、那么才能出现像样的趋势行情来。",
+        "contentHtml": "昨天这个OUSD发布让Circle大跌，个人角度聊聊OUSD模式以及对Circle的思考。OUSD的优势：\n1）零费用铸造赎回，这个成本优势对机构有一定的吸引力；\n2）稳定币储备收益共享（不再是发行方独享）让合作伙伴有强烈动机推广，有形成飞轮效应的可能性；\n3）visa、master、贝莱德、stripe甚至coinbase等140+传统金融、支付以及加密巨头背书提供即时信任、流动性和分发能力；\n4）中立协作降低单一发行方风险，吸引追求“开放基础设施”的开发者与企业，算是治理优势；\n\n其实潜在挑战也是有的：\n1）联盟治理可能决策较慢（vs 单一公司敏捷性）。很多家公司一起联合，看上去阵容鼎盛声势浩大，但是真正做过企业的都清楚这中间摩擦成本（难免各家机构都有自己的小心思，导致博弈和时间成本大增）；\n2）需快速建立初始流动性和采用率，特别是USDT/USDC 已形成强大网络效应的情况下；\n3）所以执行落地是关键，实际表现要等今年年晚些时候OUSD真正上线来验证了。\n\n再说说对Circle的思考：\n1）最近因为美元流动性的收紧<a href=\"https://nitter.net/qinbafrank/status/2068848917278839020?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2068…</a>，稳定币USDT和USDC发行量都在下降，幅度还不下。发行量下降，又出现了一个看上去很强大的新竞争者，那么很容易影响情绪，自然也容易被杀跌；\n\n2）Circle就完全没价值了么？应该也不是，毕竟还有七百多亿美金的发行量，在链上、交易所内、贸易金融领域应用场景还是很广泛的。除非usdc发行量未来就完全不增长了、那应该也不是。即使不期待未来几年usdc发行量到大几千亿美金、那么至少两千亿美金上下还是可以期待的；\n\n3）Coinbase也加入了ousd支持方，很多人担心是不是就不支持usdc了。个人角度、Coinbase加入Ousd支持方应该还是防守和布局，ousd的储备收益共享但是usdc的储备收益一半都分给coinbse，从这个角度coinbase在usdc上的利益还是最大的；\n\n4）今天思考最大的一个收获就是Circle的股性：\n其一、作为稳定币、rwa、agent支付三个硬核叙事叠加的标的、其关注度还是很高的；\n其二、现有的业务体量以及创始人及管理团队的积极进取，从基本面角度下方还是有安全垫的；\n其三、在usdc没有完全证明其在合规稳定币的支配地位前，市场还是会担心其未来的竞争格局和行业地位、一出现新的有能力的竞争对手，那么Circle就容易被Fud。\n\n这就导致了Circle在没有完全证明其在合规稳定币领域足够的支配和垄断地位前，它更适合做波段而非趋势。怎么理解？就是跌多了超跌了、其实可以买点，因为有安全边际的。但是涨多了就不能期待他能再更进一步，就得出掉。等到又被fud了、还可以逢低再进。\n\n未来如果市场确认usdc能在合规稳定币领域建立足够强的支配地位后、那么才能出现像样的趋势行情来。",
+        "link": "https://x.com/qinbafrank/status/2072218452643983684",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMH_stsbwAAqLVp.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072322185725947956",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "叉会腰\n\n实际我多单平早了，少赚几万 U，难受的要死",
+      "contentHtml": "叉会腰\n\n实际我多单平早了，少赚几万 U，难受的要死",
+      "publishedAt": "2026-07-01T14:11:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2072322185725947956",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMJeChjbYAAeiz7.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMJeChlaMAEyCHv.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072317485215543580",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://pbs.twimg.com/profile_images/1801869779344703488/LfOPOolq_bigger.jpg",
+      "content": "looks like gonna start breaking out soon $MET",
+      "contentHtml": "looks like gonna start breaking out soon <a href=\"/search?f=tweets&q=%23MET\">$MET</a>",
+      "publishedAt": "2026-07-01T13:52:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2072317485215543580",
+      "quote": {
+        "username": "Bluntz_Capital",
+        "displayName": "Bluntz",
+        "content": "nice contracting pa on $met 4h here, not long b4 this breaks up imo",
+        "contentHtml": "nice contracting pa on <a href=\"/search?f=tweets&q=%23met\">$met</a> 4h here, not long b4 this breaks up imo",
+        "link": "https://x.com/Bluntz_Capital/status/2071764258673823958",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMBik01bEAAzyv-.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072316710263328886",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#Meta \n\nMeta出售多余算力 进军云业务\n\n感觉市场已经在交易META要率先削减资本支出了\n\n后续对储存的影响需要几个交易日观察",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23Meta\">#Meta</a> \n\nMeta出售多余算力 进军云业务\n\n感觉市场已经在交易META要率先削减资本支出了\n\n后续对储存的影响需要几个交易日观察",
+      "publishedAt": "2026-07-01T13:49:00.000Z",
+      "link": "https://x.com/dongbimao/status/2072316710263328886",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMJZDr_a4AAfIKv.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMJZDrZbEAEVf74.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2072315649167159794",
       "username": "TJ_Research",
@@ -1211,6 +1413,56 @@
           "url": "https://pbs.twimg.com/media/HMHJtUtakAAXnWp.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072158559505428914",
+      "username": "BuTongRen6",
+      "displayName": "BuTongRen 🦅",
+      "avatar": "https://pbs.twimg.com/profile_images/1995133001248952320/E3DgCJrF_bigger.jpg",
+      "content": "最近这段时间体验下来比较好且愿意付费的两个产品\n\n一个是 Minara 还有一个就是 @coinkarma_  至于Minara之前已经写过蛮多介绍就不再多讲了。Coinkarma是经过 @OKxiaohai 多次CX来体验，自己用下来觉得是一个非常好的产品\n\n市场上还是有非常多的好产品的\n\n让我们进入！\n⬇️\n\nCoinkarma 简单介绍就是基于市场指标、图表复盘、TG监控、筛选、回测和跟单策略的一个Crypto专业交易平台，尤其是对于交易员来说，里面提供了很多交易指标来辅助自己的交易判断\n\n首先来说一下它的几个信号， Coinkarma里有几个主流信号 LIQ / Market Pulse Custom Signal / Alerts等都非常实用\n\n//\n\nMarket Pulse\n\n是他们通过自研并集合了11种指标综合计算出的判断指数\n\n可以说这个指数对于想要更稳地定投或者是经常交易 BTC/HYPE 等币种的节奏判断来说非常实用，≤20 视为潜在反转买点，用指数的判断指标比你在设定的定投日去定投会好很多\n\n这个信号也让我在做BTC的合约中提供了非常多的价值，具体我就不多说了\n\nLIQ\n\n一个通过用现货订单簿数量的比值来判断震荡行情的指标，通过CoinKarma的独家算法，计算出主力拉盘和砸盘的成本较大的区间\n\nOverall LIQ > 2：买入（做多）；代表整体市场买方流动性较多，较可能形成震荡行情的底部，反之\n\n以上说的几个主流的指标参数都会每小时在TG里面发送推送，也无需经常打开图表去看\n\nUltron Signal信号\n\n如果你不愿意研究策略那就直接去订阅他们的 Ultron Signal，这个是基于 CoinKarma 独家指标 Market Pulse Index 的自动化交易策略，在OKX和Hype上直接一键跟单他们的每次交易操作，这个就是完全交给策略全部Auto跟单交易了\n\nUltron 已经运行了快800天了，对比BTC的净值来最高跑到了3.14，目前还是有所回落，我现在是比较懒，也没有花大量的时间精力去研究信号，直接交给 Ultron 跟单操作是比较省事。\n\n目标用户\n\nCoinkarma的受众用户特别适合，愿意围绕 BTC 与主流山寨做节奏交易、接受研究框架的主动交易或者定投策略，通过 TG 接收信号监控通知判断交易的用户，又或者是把部分资金完完全全的交给比你更聪明更严谨更规律的策略去跑跟单\n\n链接在此：coinkarma.co/zh-cn/join/3532… \n\n目前Coinkarma有免费两周的试用，不妨去试一试！",
+      "contentHtml": "最近这段时间体验下来比较好且愿意付费的两个产品\n\n一个是 Minara 还有一个就是 <a href=\"/coinkarma_\" title=\"CoinKarma\">@coinkarma_</a>  至于Minara之前已经写过蛮多介绍就不再多讲了。Coinkarma是经过 <a href=\"/OKxiaohai\" title=\"阿小小海 🐈 🐈‍⬛\">@OKxiaohai</a> 多次CX来体验，自己用下来觉得是一个非常好的产品\n\n市场上还是有非常多的好产品的\n\n让我们进入！\n⬇️\n\nCoinkarma 简单介绍就是基于市场指标、图表复盘、TG监控、筛选、回测和跟单策略的一个Crypto专业交易平台，尤其是对于交易员来说，里面提供了很多交易指标来辅助自己的交易判断\n\n首先来说一下它的几个信号， Coinkarma里有几个主流信号 LIQ / Market Pulse Custom Signal / Alerts等都非常实用\n\n//\n\nMarket Pulse\n\n是他们通过自研并集合了11种指标综合计算出的判断指数\n\n可以说这个指数对于想要更稳地定投或者是经常交易 BTC/HYPE 等币种的节奏判断来说非常实用，≤20 视为潜在反转买点，用指数的判断指标比你在设定的定投日去定投会好很多\n\n这个信号也让我在做BTC的合约中提供了非常多的价值，具体我就不多说了\n\nLIQ\n\n一个通过用现货订单簿数量的比值来判断震荡行情的指标，通过CoinKarma的独家算法，计算出主力拉盘和砸盘的成本较大的区间\n\nOverall LIQ &gt; 2：买入（做多）；代表整体市场买方流动性较多，较可能形成震荡行情的底部，反之\n\n以上说的几个主流的指标参数都会每小时在TG里面发送推送，也无需经常打开图表去看\n\nUltron Signal信号\n\n如果你不愿意研究策略那就直接去订阅他们的 Ultron Signal，这个是基于 CoinKarma 独家指标 Market Pulse Index 的自动化交易策略，在OKX和Hype上直接一键跟单他们的每次交易操作，这个就是完全交给策略全部Auto跟单交易了\n\nUltron 已经运行了快800天了，对比BTC的净值来最高跑到了3.14，目前还是有所回落，我现在是比较懒，也没有花大量的时间精力去研究信号，直接交给 Ultron 跟单操作是比较省事。\n\n目标用户\n\nCoinkarma的受众用户特别适合，愿意围绕 BTC 与主流山寨做节奏交易、接受研究框架的主动交易或者定投策略，通过 TG 接收信号监控通知判断交易的用户，又或者是把部分资金完完全全的交给比你更聪明更严谨更规律的策略去跑跟单\n\n链接在此：<a href=\"https://www.coinkarma.co/zh-cn/join/35326118\">coinkarma.co/zh-cn/join/3532…</a> \n\n目前Coinkarma有免费两周的试用，不妨去试一试！",
+      "publishedAt": "2026-07-01T03:21:00.000Z",
+      "link": "https://x.com/BuTongRen6/status/2072158559505428914",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMHItoKbUAAr7oc.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMHIw98bgAAJxqQ.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMHJAoUacAAeWmY.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMHJNktaYAATt_2.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "coinkarma_",
+        "displayName": "CoinKarma"
+      },
+      "quote": {
+        "username": "coinkarma_",
+        "displayName": "CoinKarma",
+        "content": "近期 $HYPE 流動性指標再次接連出現買進訊號，第一次出現於 6/19 約 $65.8，第二次則於今日約 $65.3 時觸發，分別成功捕捉 5–8% 波段漲幅 📈\n\n想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群\n👉 coinkarma.pse.is/7wsxnl",
+        "contentHtml": "近期 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> 流動性指標再次接連出現買進訊號，第一次出現於 6/19 約 $65.8，第二次則於今日約 $65.3 時觸發，分別成功捕捉 5–8% 波段漲幅 📈\n\n想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群\n👉 <a href=\"http://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
+        "link": "https://x.com/coinkarma_/status/2069053757586059725",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLbBXCWaMAA95sP.png"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -7589,13 +7841,6 @@
       "contentHtml": "那些说如果大科技放缓资本开支，市场就会怀疑AI投资的回报，会继续下跌，所以大科技被绑架了。\n我完全不同意，因为这些都是故事线，资本投资本来就有周期，投资周期一定会结束，接下去就是回报周期。\n而其实2年前就开始的投资现在已经体现在了财报里了。大云是做基建的，如果Anthropic 毛利可以到70%，大云就有充分的涨价空间去应付成本的上升，开源能力的提升更是利好大云。",
       "publishedAt": "2026-06-26T15:43:00.000Z",
       "link": "https://x.com/TJ_Research/status/2070533441133682910",
-      "quote": {
-        "username": "zerohedge",
-        "displayName": "zerohedge",
-        "content": "From Goldman's Delta-1 Desk:\n\nHyperscalers: This is poised to become one of the defining debates of the next few months. Markets have rarely rewarded companies allocating exceptionally large proportions of free cash flow toward capex during the build phase. This does not necessarily mean management is making poor long-term decisions; it simply means equity investors generally prefer immediate, tangible returns to distant, uncertain cash flows. Multiple expansion typically occurs during the harvesting phase, not the construction phase. The theory of reflexivity remains highly relevant in this environment. If hyperscalers continue to underperform while suppliers rally, boardrooms may increasingly question whether incremental AI investment is maximizing shareholder value. At some point, capital expenditure may slow and if one peer blinks, the market will immediately question whether others should follow.",
-        "contentHtml": "From Goldman's Delta-1 Desk:\n\nHyperscalers: This is poised to become one of the defining debates of the next few months. Markets have rarely rewarded companies allocating exceptionally large proportions of free cash flow toward capex during the build phase. This does not necessarily mean management is making poor long-term decisions; it simply means equity investors generally prefer immediate, tangible returns to distant, uncertain cash flows. Multiple expansion typically occurs during the harvesting phase, not the construction phase. The theory of reflexivity remains highly relevant in this environment. If hyperscalers continue to underperform while suppliers rally, boardrooms may increasingly question whether incremental AI investment is maximizing shareholder value. At some point, capital expenditure may slow and if one peer blinks, the market will immediately question whether others should follow.",
-        "link": "https://x.com/zerohedge/status/2070522262214643747"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -8658,25 +8903,6 @@
       "contentHtml": "apple涨价或揭开capex不可持续的序幕\n\n这一切只是个开始？",
       "publishedAt": "2026-06-26T05:11:00.000Z",
       "link": "https://x.com/octopusycc/status/2070374331159609420",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070374072505311596",
-      "username": "Corsica267",
-      "displayName": "本杰明乌萨奇",
-      "avatar": "https://pbs.twimg.com/profile_images/1566971438636355584/QVaL7EAv_bigger.jpg",
-      "content": "一群臭韭菜。懒得写东西了。",
-      "contentHtml": "一群臭韭菜。懒得写东西了。",
-      "publishedAt": "2026-06-26T05:10:00.000Z",
-      "link": "https://x.com/Corsica267/status/2070374072505311596",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11021,56 +11247,6 @@
       }
     },
     {
-      "id": "2070029693810847988",
-      "username": "fi56622380",
-      "displayName": "fin",
-      "avatar": "https://pbs.twimg.com/profile_images/1617438471773360129/PuNEnXyH_bigger.jpg",
-      "content": "AI半导体终局推演2026(II)\n\n当半导体结构性演进到AI推理主线，内存和存储成为了最大瓶颈，市场对内存和存储最大的怀疑就是：\n\nHBM/DRAM/SSD会不会摆脱传统周期性？\n\n依赖HBM指数增长的GPU架构路线进化路线，会不会停止？什么时候停止？\n\n长鑫扩产的影响有多大？会不会把这个市场重新带入周期泥潭？\n\n本篇尝试去建立一个框架来梳理这几个问题\n\n—---------—---------\n万物皆周期，而内存的周期性又特别强，最大的来源在于扩产周期过长，无法快速扩产和需求短缺时期错配\n\n摆脱传统周期性几种可能的方式\n\n1. 定制化：产品不可互换，产能不能随便转移，需要签长约。\n\n 2. 结构性的指数级需求增长：需求曲线本身很陡峭，而且供给一直追不上。\n\n  3. 技术迭代快速升级：每一代产品都快速淘汰上一代。\n满足任何一条，就能部分摆脱传统周期；满足两到三条，就能摆脱大部分传统周期\n\n根据这个框架， HBM在三条里，大概占了两条半\n\n1. 定制化，需要签长约（较弱，算半条）\n\nHBM 确实有定制化和Nvidia codesign的成分，但并不是很强。真正定制的部分只在封装和 base die，上面那十几层 DRAM die 仍然是完全 JEDEC 标准化的。\n\n比如当 Samsung 的 HBM3E 在 NVIDIA 的 qualification 上没过、份额从大约 60% 一路跌到 20% 的时候，它并没有把这批产能砸在手里报废，而是转手就供给了 Google 的 TPU、AMD. 物理上，给 NVIDIA 的 HBM3E 和给 AMD 的 HBM3E，是同一个东西。 所以产能仍然是部分可以自由转移的。\n\nHBM4之后的定制化更多一些，包括在 base die 上集成定制逻辑和/或缓存。更复杂的方式是将 HBM4E 内存控制器和定制 die-to-die 接口直接放入逻辑 base die\n\nSemiAnalysis 提到 OpenAI、NVIDIA 和 AMD 各自都在做定制 HBM 的工作，但这指的是 base die 的定制，上面的 DRAM 层仍然是标准的。\n\n部分定制化的特性，HBM主要在封装上需要合作，这也导致了客户必须签长约，但产能也确实可以转移，所以HBM 能勉强算半条。\n\n2. 结构性的指数需求增长（满足）\n\n最直观的原因，就是Nvidia token factory token throughput的硬件升级需求，导致了HBM带宽的升级换代极快，以及HBM size需求的指数增长\n\n这一条其实就是上一篇AI半导体终局推演2026(I)的结论：\ntoken throughput = HBM size × HBM 带宽，每一代翻倍。\n\nHBM size per GPU大概每年增长40%以上\n\n这条需求曲线的陡峭程度，是DRAM供给端 14% 的 wafer 增长，乘以 9% 的 density 提升，很难追上的\n\n在硬件领域，因为attn阶段KV cahce的极高带宽和极高memory size的要求，也导致了HBM独特的地位。即便是HBM涨价三五倍，把钱花在HBM上带来的边际token throughput提升，仍然比花在其他地方要划算的多。\n\n其他几个Memory路线，SRAM，HBF，CXL，PIM，目前都无法在HBM的主力赛道kv cache/attention上正面竞争，起码未来5年甚至更长时间，不太可能找到替代路线\n\n3. 技术迭代快速升级（满足）\n\nDDR3时代过了15年，仍然只是DDR5时代，而HBM的升级换代的速度基本上是两年一代，比传统DDR要快很多很多，而且近来还有加速的趋势，HBM size x HBM BW每一代翻倍，目前是完全符合这个规律的\n\n每两年一代HBM升级，NV GPU速度基本是指数型上升：2TB/s ->3.5TB/s->4.8TB/s ->8TB/s->22TB/s，而且HBM的速度和推理token throughput是完全线性正比的，上一代HBM的边际使用成本会不划算，大家都有动机去尽量用最新的产品，虽然更贵，但是带来的收益(token throughput)是更多的\n\nToken factory时代的逻辑是，技术升级（HBM带宽）的越多，赚的越多\n\n这个速度差，造成了一个和 CPU 类似的局面：旧产品快速贬值，于是囤货的价值在变低，比如说，HBM3的价值贬值的非常快，今天基本上主流产品不会用了\n\n所以HBM 厂商的理性选择，从拼当前的产能去占市场（quantity competition），变成了在稳定性和HBM速度上拼技术，拼下一代在 NVIDIA 平台上的 qualification 份额（quality competition），从而避免了在传统周期的下行波段，大家都不愿减产掉市场份额的囚徒困境。\n\n—--------------—--------------\n\nHBM和传统DRAM比较，三个条件里满足了两个半，那么HBM能摆脱传统周期性吗？\n\n内存周期性的来源，主流叙事是，DRAM 有Commodity属性（无差异化 → 价格战 →库存可囤积），所以有周期性。\n\n而Commodity属性本身并不产生周期，它只是一个振幅放大器\n\n特别是DRAM领域里，曾经产生过囚徒困境，在下行周期三星曾经扩产抢市场份额，谁先减产谁吃亏，导致谁也不敢轻易减产，最后大家都亏损惨烈\n\n实际上周期性的主要结构性来源是供给周期太长，很容易和需求周期错位。建一座 fab 要 3 年，投资上百亿美元，一旦决策就不可逆，而需求增长会有不稳定性，每次出现新范式增长，比如云服务，移动互联网手机，疫情线上需求，会有爆发式增长，而过了两年增长会放缓，供给高于需求，降价过猛，就变成了亏钱周期\n\n万物皆周期，HBM这一条同样是无法避免，但只要token需求仍然是指数型增长，结构性的指数增长会减弱周期性，因为需求可预测度更好，而且一旦降价，客户就有增大HBM size的需求（从而增大token throughput），加上HBM有一点定制化要求导致都是长约，从而从周期性转化成成长周期性，而且这一轮周期会特别长\n\n周期性：上行周期赚的多，下行周期亏的多\n成长周期性：上行周期赚的多，下行周期赚的少\n\n另外，HBM/DRAM在这三条摆脱传统周期的条件的基础上，还有一条重要优势：\n\n4. 因为DRAM密度增长scaling越来越慢，以及HBM升级换代导致DRAM堆叠倍数的增加，供给端的扩产难度持续增加\n\n2000年附近，DRAM每片wafer上DRAM bit密度每年增长大概45%，也就是说，就算晶圆wafer数量不扩产，每年的供给端DRAM bit仍然可以增长45%\n\n十年前，DRAM bit每年密度增长降到了20%，而现在，DRAM bit每年密度增长降到了9%。以前DRAM扩产甚至不怎么需要新建厂房就能得到每年20~30%的bit volume上升，现在DRAM要扩产，更多的是靠wafer数量的增长，也就是新建厂房和clean room。\n\n另外一个HBM快速扩产难度在于，HBM3e大概需要3倍的DRAM wafer晶圆，而HBM4由于堆叠密度的增加，大概需要4倍的DRAM wafer晶圆数量，相当于HBM bit相对于DRAM bit一直变得更难制造，单位DRAM wafer数量制造的HBM bit越来越少，相当于在通缩\n\n----------------------------------\n\nHBM未来有一天，会不会从成长周期性，变回传统周期性？最重要的因素是结构性指数增长，那么\nAI推理时代，这个依赖HBM指数增长的GPU架构路线进化路线，会不会停止？什么时候停止？\n\ntoken throughput = HBM size × HBM 带宽，这个HBM指数增长的第一性原理里的HBM size的增长原因正是KV cache的增长。KVCache的特性以及Attention的特性,也是非常契合HBM的。甚至让HBM领先于其他的技术路线, 能够最大化地让KVCache和Attention 阶段的利用率。\n\n换言之， 如果KV cache从架构上不存在了，那么HBM size指数增长逻辑也会受到挑战\n\n所以这个问题的本质其实是，这一轮以 Transformer 为代表的 attention 机制、以及由它衍生的 KV cache 机制，会不会消失？退潮之后会不会被取代？\n\n从历史规律来看：每一次AI模型架构革命，真正被保留下来的，是那些在数学上具有某种普适性的 primitive 操作\n\n举个例子：FFN（前馈网络，也就是模型里大量的 MLP 层）是 2012 年深度学习时代的产物，但它一路活到了今天的大语言模型里，并且仍然占据着模型相当大的参数量。它为什么能活下来？因为这也是一种universal approximation theorem（通用逼近定理）：任何足够宽的 MLP 都能逼近任意连续函数\n\nAttention 大概率也是这样一个会被保留的 primitive。因为它解决的是一个同样 基础的问题：序列sequence 中任意两个位置之间的 dynamic routing（动态路由），让一个序列里任意两个位置都能按需建立联系。这个能力一旦被验证有效，就很难被丢弃\n\n所以即便未来架构从纯 Transformer 向混合架构演进，或者向世界模型演进，但attention 层依然会存在，KV cache（或者它经过 latent compression 之后的等价物）依然需要，HBM依然会作为推理核心之一，这个依赖HBM指数增长的GPU KV cache架构路线进化路线，不会停止\n\n—---------------—---------------\n\n那么DRAM呢？在未来有没有摆脱传统周期性的可能？\n\nHBM摆脱周期性在市场上有一定共识，但DRAM摆脱周期性，市场目前基本没有共识\n\n还是回到刚才的框架，三个摆脱传统周期的条件里，DRAM是没有定制化的，所以就只能看技术迭代速度，最关键的还是要看，有没有结构性的指数增长，答案是有的\n\n在 AI token factory 这个概念里，结构性指数增长的确实主要是 HBM。但事情在 2025 年年底之后起了变化：随着 agentic CPU开始释放潜力，CPU 附带的那部分 DRAM 需求，正在成为 DRAM 新的结构性指数增长来源\n\n—------\n\n这部分的增长逻辑分两层：第一层是CPU 服务器TAM的快速增长，第二层是每个服务器CPU core配备的DRAM用量的因为agentic flow快速增长\n\n服务器CPU TAM的快速增长的4个逻辑在4月的CPU专篇详细写过，简单的说：\n\n1. AI 加速器集群里CPU和GPU配比从传统的1：4变成1：2，甚至可能往1：1迈进\n\n2. Agentic flow里CPU处理的延迟占比很高，50~90%成为重要瓶颈，需要同步扩容\n\n3. AI coding让SDE的效率大幅提升，代码量数量级增长，软件API调用指数级增长，直接转化为这部分CPU hours指数级上升\n\n4. Sandbox为保障数据安全与隔离，如Analytical Agent 需为每个任务复制大量数据库和用户上下文，导致内存(DRAM)和CPU核心的严重浪费，而且这个浪费问题五年甚至更久无法解决。另外CPU hours 在技术上很难通过优化的方法来通缩\n\n这也就是为什么，上上个季度，AMD的财报说CPU TAM到2030年会到60B，两个月前，AMD/ARM把CPU TAM的2030年预测翻倍到120B，一个月前，Nvidia再次把CPU TAM的2030年预测翻倍到200B\n\n而上个星期，Bernstein再次提升2030 CPU TAM指引到223B。在我看来，2031 CPU TAM未来上修到400B是没有太大悬念的事情，唯一的悬念是几个巨头会什么时候宣布上修这个指引\n\n再说说第二层，为什么每个服务器CPU core配备的DRAM用量在agentic时代快速增长？\n\n1. Agent 是带状态的长驻进程，不是无状态的请求-响应\n\n传统 web/SaaS 是 stateless 的：请求进来，分配内存，处理完内存立刻回收。而一个 Agent 任务可以跑 一分钟到一个小时，这整段时间里，它的 message history、system prompt、工作记忆、长期记忆、工具结果 buffer 全部常驻 DRAM\n\n和 CPU hours 一样，每个任务的内存足迹因为 stateful 和 sandbox 隔离(每个任务复制数据库和上下文)的要求，技术上很难压缩\n\n2. 上下文窗口在指数级变长，每个会话的工作集随之膨胀，并发度 × 单会话memory footprint，乘数放大\n\ncontext window 从 32K → 256K → 1M，reasoning / test-time compute 的序列长度爆炸，未来还会继续增大。每个活跃会话常驻的 messages 随 context 长度线性增长\n\n现在把两层乘起来。\n\n第一层，CPU server 的 TAM，朝 2030~2031 看大概是 5–7 倍的量级(60B → 120B → 200B → 223B，我认为还会到 400B)\n\n 第二层，每颗 CPU 的 DRAM 配比，大概 3–4 倍(4~8GB → 16~32 GB/core)，但这个增长可能大部分是一次性红利\n\n两个独立变量相乘，server 侧的 DRAM 需求是数量级的增长\n\n2030年，即便按保守的300B CPU TAM，一个CPU core按$50来算，agent时代最保守按16GB/core，这算出来新增量最少都是96EB，而今年的DRAM总产量只有47EB，明年勉强60EB，这是非常惊人的增量\n\n虽然这个agentic CPU带来的DRAM指数级增长，在第二层很大程度上是一次性红利，但持续时间会持续很久很久，因为这个短缺的缺口实在是太大了\n\n—--------\n\n回到文章开头那个框架。三个摆脱传统周期的条件里，第一条DRAM 定制化，基本可以忽略\n\n而第二条：一个结构性指数级、而且很难逆转的需求来源是成立的。commodity DRAM 现在也具备了部分摆脱传统周期性的资格。没有 HBM(两条半)那么彻底，但已经是实质性的变化\n\n第三条，技术迭代速度，DRAM的节奏也跟以前不一样了\n\n因为以前的DRAM技术迭代速度是严重依赖消费电子的，DDR的进步对于performance用处并不大，但可预见的未来里，碳基消费的传统DRAM，会远远小于硅基消费（CPU服务器）DRAM的用量\n\n以前DRAM的速度升级带来的边际效用是很低的，但现在因为CPU服务器对memory的需求增大，以及端侧AI对DDR速度的要求也增大，比如苹果为了跑本地大模型，LPDDR速度越来越快\n\n速度升级的边际效用高了不少，所以DDR6和LPDDR6的速度迭代需求比以前提升了太大了，这在图里也可以看到，LPDDR6/DDR6的迭代时间缩短了，而且速度斜率，重新开始抬头\n\n以前新一代DDR/LPDDR技术出来，大家的反应都很冷淡，等降价了才会用\n\n而现在LPDDR6出来，各家恨不得都在抢着能尽量早上就尽量早，因为速度的提升带来的performance提升是触手可及的\n\n------\n\n另外，DDR 的供给还要被 HBM 额外抽一道税。HBM 每年的扩产速度太快，导致每年都有一批原本可以做 commodity DDR 的 wafer 被拉去做 HBM，而 HBM 的转换比极低，HBM3E 大约要 3 片 DDR wafer 的产能才能做出等量的 bit，HBM4 是4 片。所以每年大约有 3% 到 5% 的 DDR bit 增长，是被这个 HBM bit tax直接吃掉的\n\n所以DRAM bit volume虽然未来每年能增长24%左右（14%来自wafer增长，9%来自每个wafer的DRAM密度增长），但算上HBM bit tax之后，传统的、非 HBM 的 commodity DDR，每年的 bit growth 大概只有 20%（约 10% 的 wafer 增长 × 约 9% 的 node density 提升）\n\n—---------------------\n\n中国长鑫扩产的影响有多大？如果不讲武德拼命扩产，会不会把这个市场重新带入周期泥潭？\n\n长鑫这几年的扩产速度还是很快的，2025年还是每个月20万晶圆，2026年北京晶圆厂及新增生产线的贡献就能到32~35万。\n\n正在建设中的上海工厂一期和二期，一期预计到2027年每月新增10万片晶圆产能，二期预计到2028年每月新增10万片晶圆产能，也就是说，2027年每个月42万晶圆，2028年能到每个月50万晶圆。\n\n但需要注意的是，长鑫的dram bit 密度大概只有御三家的一半左右，所以长鑫的每个月50万晶圆wafer能产出的dram bit volume只有其他家的一半，这里计算wafer per month的时候，就按等效一半来算\n\n把这个折扣打上之后，长鑫对整个DRAM行业的冲击还是小了很多，从2025年年底到2028年年底，长鑫对DRAM bit产能CAGR的影响大概只有1.5%，全行业的DRAM产能CAGR大概从12.7%升到14.2%\n\nDRAM月产能(kwspm) 2025E → 2028E CAGR\n\nSamsung                  685K → 920K  10.3%\nSK Hynix                   519K → 725K  11.8%\nMicron                       340K → 560K  18.1%\n非中国其他               150K → 218K  13.3%\n中国(密度折半)       117K → 274K  32.8%\n—————————————————\n含中国总计   1811K → 2697K  14.2%\n无中国总计   1694K → 2423K  12.7%\n\n就算是长鑫未来还能保持增产速度，2030年对全行业等效产能每年DRAM bit volume增产CAGR的影响，大概也不到3%，从20%  CAGR变成23% CAGR，仅此而已\n\n另外，长鑫被光刻机所限制，而DDR6 需要更高速率（14400 MT/s 起步）和更高密度,御三家做 DDR6 大概率会用 1c 或更先进节点（~12nm 以下），已经全面用 EUV。长鑫可能会在DDR6上速率受限，密度也只有一半。\n\n—----------------\n\n即便是成长性周期，为什么DRAM的这轮超级周期会持续很长时间，起码五年看不到头？\n\n第一个原因是，刚才谈到的CPU服务器需求端的巨量增长带来的结构性DRAM需求指数增长，这里结合DRAM供给端的bit volume CAGR大概稳定20%增长，就可以很清晰的看到，DRAM未来几年的缺口为什么越来越大：\n\n非HBM的传统DRAM供给端大概是每年增长20%，而需求端，按2026年60B CPU TAM，每个CPU消耗DRAM平均8GB/core，每个core $30~35来算，需求是16EB\n\n2030年按400B CPU TAM，每个CPU消耗DRAM平均16GB/core，每个core $80来算(CPU涨价超过一倍)，需求是80EB，这部分DRAM的增长CAGR大概是50%，远远超过目前的估算\n\n不同于HBM是直接和token throughput挂钩，从而和GPU赚钱效率直接挂钩，DRAM不够对于agent flow的影响主要是速度，比如说，8GB/core和16GB/core比起来，部分workload速度可能降低30%，部分低价值task实在要等等也能忍，结构性指数增长的动机很强，但需求不如GPU那么刚性\n\nSemianalysis说今年的DRAM缺口式个位数百分数，明年是超过10%。从agent CPU数量激增导致的DRAM结构性来看，这个缺口每年都会继续加大，在2030年之前看不到降低的可能\n\n—----\n\n另外一个DRAM能延续强势很久的逻辑是，因为DRAM涨价之后，被涨价消灭的那部分需求，不是真的消失了，只是延迟了，需求蓄水池太多了。\n\n所谓蓄水池，是指那些\"内存一旦降价就会立刻被释放出来的潜在需求\"。它们的存在，意味着即便供给阶段性跟上了，价格也很难崩，因为总有新的需求从蓄水池里涌出来接盘：\n\n内存换算力/速度是一个蓄水池：\n\n有大量本来需要靠额外内存来优化速度和算力的需求，在内存太贵时被压着，一旦内存降价就会被释放出来。\n\n比如 Nvidia的CPX  prefill 加速，本来的设计初衷是用额外的低成本GDDR7，来做一个专门的prefill加速器，结果LPDDR/GDDR都太贵了，比涨价前的HBM还贵，这个方案的ROI就不划算了，但等到普通内存降价，这样类似CPX的优化方案就还会回来\n\n低价值task是一个蓄水池：内存涨价导致token价格居高不下时，高价值的 task 被优先保留，低价值的 task 被延后；内存一降价，这些被延迟的需求就回来了。\n\n端侧 AI 是一个蓄水池：AI PC 的内存配置可能从 24GB 一路涨到 128GB。苹果已经明确要求最新的端侧AI满血版需要从8GB升级到12GB内存\n\n常规消费电子、Agent PC、低端手机，因为内存涨价而减少的需求，全都是蓄水池。\n\n 这么多蓄水池叠在一起，构成了一个极厚的需求缓冲垫。这就是为什么 DDR 这轮的结构性增长，后劲会比市场想象的要强。\n\n—-----\n\n还有一个DRAM价格很难大幅下降的原因在于，HBM和DRAM产能可以互相转换，所以整个DRAM complex是一起re-rate的\n\n在上行期DRAM的利润率远超HBM，HBM的涨价幅度甚至变成了由DRAM去推动。今年新签约的HBM4的价格，就是当期DRAM的价格 x 4，也就是正常堆叠倍数对应HBM4的价格\n\n一旦DRAM降价毛利下滑，因为HBM的长约透明性，利润率都是有保障的，HBM就会间接抽走更多的DRAM产能，HBM的降价也会让GPU厂商更有动力尽可能的升级HBM size，这样也间接保障了DRAM的价格地板\n\nDRAM的结构性指数增长的需求有了，density scaling放缓扩产难度在增加，厂商扩产计划都很谨慎，长鑫这几年带来的影响也是有限的，再加上需求的蓄水池非常庞大，这四个原因导致了，在可预见的至少五年甚至更长时间内，DRAM是很难进入周期低谷的。\n\n—--------------\n\nNAND SSD有希望摆脱传统周期性吗？\n\nNAND 的结构性增长动力没有 DDR 那么强，今年的缺货主要原因是几个主要玩家的生产纪律保持的很好，并没有大规模扩产，每年的产能增加主要来源于技术改进：NAND堆叠层数的增加\n\n第一个结构性增长来自AI，主要来自 KV cache 的 offloading，把HBM溢出的warm/cold KV cache 卸载到 NAND SSD上。\n\n但神奇的事情是，这个kv cache offloading的增长甚至还没有大规模发生，SSD就已经缺的比DRAM还严重了，涨价也比DRAM要更多。等到明年Rubin CMX放量，加上KV cache offloading大规模应用，SSD的缺货也会因为这个结构性增长而增长\n\n第二个，另一个去年年度总结里说到的未来可期的AI视频带来的结构性增量，今年已经有出圈的态势了\n\nSeedance体量在以一年十倍到四十倍的速度增长。目前它还卡在缺卡算力不足的阶段，需求被算力压着没完全释放。但等到缺卡阶段过去，AI 视频对NAND存储的结构性需求增长，会持续相当长的一段时间。\n\n第三个结构性增长也同样来自于agent flow带来的Sandbox使用量的指数级增长，Sandbox为保障数据安全与隔离，如Analytical Agent 需为每个任务复制大量数据库和用户上下文，导致内存(DRAM)和CPU核心的严重浪费，同样会带来大量的SSD的浪费（需求）\n\n第四个也许在2030年之后发挥作用的结构性增长，来自于HBF路线需要用到SSD，在不少投行分析中被寄予厚望，但这个技术路线还有些遥远，主要角色定位只能作为存放大模型的weights，写一次权重然后做只读，而且必须要和GPU/HBM封装在一起（48TBps/96TBps），否则靠PCIE7/8速度太慢完全无法用，只能说未来可期，下一篇AI半导体终局推演2026(III)会有更详细的分析\n\n总之，NAND SSD的结构性增长没有HBM那么强，但是胜在便宜，价格到2027年也只有$0.8/GB，是同期DRAM的四十分之一，所以也算是多级缓存里的万金油属性，结构性增长来源太广泛了\n\n也就是说，不存在DRAM/HBM单独涨价繁荣，而SSD不涨价的情况，因为如果这样的情况发生，那么大家就会想办法用SSD去承载DRAM/HBM的部分功能，用更低的成本实现类似的效果。HBM、DRAM、NAND 不是三个独立故事，而是同一 AI memory hierarchy 在不同温度层的结构性增长\n\n结构性指数增长的需求有了，NAND SSD摆脱周期了吗？ 那么就要看NAND SSD厂家的生产纪律了，唯一可能不遵守生产纪律的，只有长存。毕竟这是一个囚徒困境，一旦有一家不讲武德拼命扩产，整个NAND产业要扩产的难度比DRAM简单的多。\n\n但最起码的，这一轮NAND同样是超级周期，几个结构性指数增长带来的需求，下行期推迟到2030年问题不大",
-      "contentHtml": "AI半导体终局推演2026(II)\n\n当半导体结构性演进到AI推理主线，内存和存储成为了最大瓶颈，市场对内存和存储最大的怀疑就是：\n\nHBM/DRAM/SSD会不会摆脱传统周期性？\n\n依赖HBM指数增长的GPU架构路线进化路线，会不会停止？什么时候停止？\n\n长鑫扩产的影响有多大？会不会把这个市场重新带入周期泥潭？\n\n本篇尝试去建立一个框架来梳理这几个问题\n\n—---------—---------\n万物皆周期，而内存的周期性又特别强，最大的来源在于扩产周期过长，无法快速扩产和需求短缺时期错配\n\n摆脱传统周期性几种可能的方式\n\n1. 定制化：产品不可互换，产能不能随便转移，需要签长约。\n\n 2. 结构性的指数级需求增长：需求曲线本身很陡峭，而且供给一直追不上。\n\n  3. 技术迭代快速升级：每一代产品都快速淘汰上一代。\n满足任何一条，就能部分摆脱传统周期；满足两到三条，就能摆脱大部分传统周期\n\n根据这个框架， HBM在三条里，大概占了两条半\n\n1. 定制化，需要签长约（较弱，算半条）\n\nHBM 确实有定制化和Nvidia codesign的成分，但并不是很强。真正定制的部分只在封装和 base die，上面那十几层 DRAM die 仍然是完全 JEDEC 标准化的。\n\n比如当 Samsung 的 HBM3E 在 NVIDIA 的 qualification 上没过、份额从大约 60% 一路跌到 20% 的时候，它并没有把这批产能砸在手里报废，而是转手就供给了 Google 的 TPU、AMD. 物理上，给 NVIDIA 的 HBM3E 和给 AMD 的 HBM3E，是同一个东西。 所以产能仍然是部分可以自由转移的。\n\nHBM4之后的定制化更多一些，包括在 base die 上集成定制逻辑和/或缓存。更复杂的方式是将 HBM4E 内存控制器和定制 die-to-die 接口直接放入逻辑 base die\n\nSemiAnalysis 提到 OpenAI、NVIDIA 和 AMD 各自都在做定制 HBM 的工作，但这指的是 base die 的定制，上面的 DRAM 层仍然是标准的。\n\n部分定制化的特性，HBM主要在封装上需要合作，这也导致了客户必须签长约，但产能也确实可以转移，所以HBM 能勉强算半条。\n\n2. 结构性的指数需求增长（满足）\n\n最直观的原因，就是Nvidia token factory token throughput的硬件升级需求，导致了HBM带宽的升级换代极快，以及HBM size需求的指数增长\n\n这一条其实就是上一篇AI半导体终局推演2026(I)的结论：\ntoken throughput = HBM size × HBM 带宽，每一代翻倍。\n\nHBM size per GPU大概每年增长40%以上\n\n这条需求曲线的陡峭程度，是DRAM供给端 14% 的 wafer 增长，乘以 9% 的 density 提升，很难追上的\n\n在硬件领域，因为attn阶段KV cahce的极高带宽和极高memory size的要求，也导致了HBM独特的地位。即便是HBM涨价三五倍，把钱花在HBM上带来的边际token throughput提升，仍然比花在其他地方要划算的多。\n\n其他几个Memory路线，SRAM，HBF，CXL，PIM，目前都无法在HBM的主力赛道kv cache/attention上正面竞争，起码未来5年甚至更长时间，不太可能找到替代路线\n\n3. 技术迭代快速升级（满足）\n\nDDR3时代过了15年，仍然只是DDR5时代，而HBM的升级换代的速度基本上是两年一代，比传统DDR要快很多很多，而且近来还有加速的趋势，HBM size x HBM BW每一代翻倍，目前是完全符合这个规律的\n\n每两年一代HBM升级，NV GPU速度基本是指数型上升：2TB/s -&gt;3.5TB/s-&gt;4.8TB/s -&gt;8TB/s-&gt;22TB/s，而且HBM的速度和推理token throughput是完全线性正比的，上一代HBM的边际使用成本会不划算，大家都有动机去尽量用最新的产品，虽然更贵，但是带来的收益(token throughput)是更多的\n\nToken factory时代的逻辑是，技术升级（HBM带宽）的越多，赚的越多\n\n这个速度差，造成了一个和 CPU 类似的局面：旧产品快速贬值，于是囤货的价值在变低，比如说，HBM3的价值贬值的非常快，今天基本上主流产品不会用了\n\n所以HBM 厂商的理性选择，从拼当前的产能去占市场（quantity competition），变成了在稳定性和HBM速度上拼技术，拼下一代在 NVIDIA 平台上的 qualification 份额（quality competition），从而避免了在传统周期的下行波段，大家都不愿减产掉市场份额的囚徒困境。\n\n—--------------—--------------\n\nHBM和传统DRAM比较，三个条件里满足了两个半，那么HBM能摆脱传统周期性吗？\n\n内存周期性的来源，主流叙事是，DRAM 有Commodity属性（无差异化 → 价格战 →库存可囤积），所以有周期性。\n\n而Commodity属性本身并不产生周期，它只是一个振幅放大器\n\n特别是DRAM领域里，曾经产生过囚徒困境，在下行周期三星曾经扩产抢市场份额，谁先减产谁吃亏，导致谁也不敢轻易减产，最后大家都亏损惨烈\n\n实际上周期性的主要结构性来源是供给周期太长，很容易和需求周期错位。建一座 fab 要 3 年，投资上百亿美元，一旦决策就不可逆，而需求增长会有不稳定性，每次出现新范式增长，比如云服务，移动互联网手机，疫情线上需求，会有爆发式增长，而过了两年增长会放缓，供给高于需求，降价过猛，就变成了亏钱周期\n\n万物皆周期，HBM这一条同样是无法避免，但只要token需求仍然是指数型增长，结构性的指数增长会减弱周期性，因为需求可预测度更好，而且一旦降价，客户就有增大HBM size的需求（从而增大token throughput），加上HBM有一点定制化要求导致都是长约，从而从周期性转化成成长周期性，而且这一轮周期会特别长\n\n周期性：上行周期赚的多，下行周期亏的多\n成长周期性：上行周期赚的多，下行周期赚的少\n\n另外，HBM/DRAM在这三条摆脱传统周期的条件的基础上，还有一条重要优势：\n\n4. 因为DRAM密度增长scaling越来越慢，以及HBM升级换代导致DRAM堆叠倍数的增加，供给端的扩产难度持续增加\n\n2000年附近，DRAM每片wafer上DRAM bit密度每年增长大概45%，也就是说，就算晶圆wafer数量不扩产，每年的供给端DRAM bit仍然可以增长45%\n\n十年前，DRAM bit每年密度增长降到了20%，而现在，DRAM bit每年密度增长降到了9%。以前DRAM扩产甚至不怎么需要新建厂房就能得到每年20~30%的bit volume上升，现在DRAM要扩产，更多的是靠wafer数量的增长，也就是新建厂房和clean room。\n\n另外一个HBM快速扩产难度在于，HBM3e大概需要3倍的DRAM wafer晶圆，而HBM4由于堆叠密度的增加，大概需要4倍的DRAM wafer晶圆数量，相当于HBM bit相对于DRAM bit一直变得更难制造，单位DRAM wafer数量制造的HBM bit越来越少，相当于在通缩\n\n----------------------------------\n\nHBM未来有一天，会不会从成长周期性，变回传统周期性？最重要的因素是结构性指数增长，那么\nAI推理时代，这个依赖HBM指数增长的GPU架构路线进化路线，会不会停止？什么时候停止？\n\ntoken throughput = HBM size × HBM 带宽，这个HBM指数增长的第一性原理里的HBM size的增长原因正是KV cache的增长。KVCache的特性以及Attention的特性,也是非常契合HBM的。甚至让HBM领先于其他的技术路线, 能够最大化地让KVCache和Attention 阶段的利用率。\n\n换言之， 如果KV cache从架构上不存在了，那么HBM size指数增长逻辑也会受到挑战\n\n所以这个问题的本质其实是，这一轮以 Transformer 为代表的 attention 机制、以及由它衍生的 KV cache 机制，会不会消失？退潮之后会不会被取代？\n\n从历史规律来看：每一次AI模型架构革命，真正被保留下来的，是那些在数学上具有某种普适性的 primitive 操作\n\n举个例子：FFN（前馈网络，也就是模型里大量的 MLP 层）是 2012 年深度学习时代的产物，但它一路活到了今天的大语言模型里，并且仍然占据着模型相当大的参数量。它为什么能活下来？因为这也是一种universal approximation theorem（通用逼近定理）：任何足够宽的 MLP 都能逼近任意连续函数\n\nAttention 大概率也是这样一个会被保留的 primitive。因为它解决的是一个同样 基础的问题：序列sequence 中任意两个位置之间的 dynamic routing（动态路由），让一个序列里任意两个位置都能按需建立联系。这个能力一旦被验证有效，就很难被丢弃\n\n所以即便未来架构从纯 Transformer 向混合架构演进，或者向世界模型演进，但attention 层依然会存在，KV cache（或者它经过 latent compression 之后的等价物）依然需要，HBM依然会作为推理核心之一，这个依赖HBM指数增长的GPU KV cache架构路线进化路线，不会停止\n\n—---------------—---------------\n\n那么DRAM呢？在未来有没有摆脱传统周期性的可能？\n\nHBM摆脱周期性在市场上有一定共识，但DRAM摆脱周期性，市场目前基本没有共识\n\n还是回到刚才的框架，三个摆脱传统周期的条件里，DRAM是没有定制化的，所以就只能看技术迭代速度，最关键的还是要看，有没有结构性的指数增长，答案是有的\n\n在 AI token factory 这个概念里，结构性指数增长的确实主要是 HBM。但事情在 2025 年年底之后起了变化：随着 agentic CPU开始释放潜力，CPU 附带的那部分 DRAM 需求，正在成为 DRAM 新的结构性指数增长来源\n\n—------\n\n这部分的增长逻辑分两层：第一层是CPU 服务器TAM的快速增长，第二层是每个服务器CPU core配备的DRAM用量的因为agentic flow快速增长\n\n服务器CPU TAM的快速增长的4个逻辑在4月的CPU专篇详细写过，简单的说：\n\n1. AI 加速器集群里CPU和GPU配比从传统的1：4变成1：2，甚至可能往1：1迈进\n\n2. Agentic flow里CPU处理的延迟占比很高，50~90%成为重要瓶颈，需要同步扩容\n\n3. AI coding让SDE的效率大幅提升，代码量数量级增长，软件API调用指数级增长，直接转化为这部分CPU hours指数级上升\n\n4. Sandbox为保障数据安全与隔离，如Analytical Agent 需为每个任务复制大量数据库和用户上下文，导致内存(DRAM)和CPU核心的严重浪费，而且这个浪费问题五年甚至更久无法解决。另外CPU hours 在技术上很难通过优化的方法来通缩\n\n这也就是为什么，上上个季度，AMD的财报说CPU TAM到2030年会到60B，两个月前，AMD/ARM把CPU TAM的2030年预测翻倍到120B，一个月前，Nvidia再次把CPU TAM的2030年预测翻倍到200B\n\n而上个星期，Bernstein再次提升2030 CPU TAM指引到223B。在我看来，2031 CPU TAM未来上修到400B是没有太大悬念的事情，唯一的悬念是几个巨头会什么时候宣布上修这个指引\n\n再说说第二层，为什么每个服务器CPU core配备的DRAM用量在agentic时代快速增长？\n\n1. Agent 是带状态的长驻进程，不是无状态的请求-响应\n\n传统 web/SaaS 是 stateless 的：请求进来，分配内存，处理完内存立刻回收。而一个 Agent 任务可以跑 一分钟到一个小时，这整段时间里，它的 message history、system prompt、工作记忆、长期记忆、工具结果 buffer 全部常驻 DRAM\n\n和 CPU hours 一样，每个任务的内存足迹因为 stateful 和 sandbox 隔离(每个任务复制数据库和上下文)的要求，技术上很难压缩\n\n2. 上下文窗口在指数级变长，每个会话的工作集随之膨胀，并发度 × 单会话memory footprint，乘数放大\n\ncontext window 从 32K → 256K → 1M，reasoning / test-time compute 的序列长度爆炸，未来还会继续增大。每个活跃会话常驻的 messages 随 context 长度线性增长\n\n现在把两层乘起来。\n\n第一层，CPU server 的 TAM，朝 2030~2031 看大概是 5–7 倍的量级(60B → 120B → 200B → 223B，我认为还会到 400B)\n\n 第二层，每颗 CPU 的 DRAM 配比，大概 3–4 倍(4~8GB → 16~32 GB/core)，但这个增长可能大部分是一次性红利\n\n两个独立变量相乘，server 侧的 DRAM 需求是数量级的增长\n\n2030年，即便按保守的300B CPU TAM，一个CPU core按$50来算，agent时代最保守按16GB/core，这算出来新增量最少都是96EB，而今年的DRAM总产量只有47EB，明年勉强60EB，这是非常惊人的增量\n\n虽然这个agentic CPU带来的DRAM指数级增长，在第二层很大程度上是一次性红利，但持续时间会持续很久很久，因为这个短缺的缺口实在是太大了\n\n—--------\n\n回到文章开头那个框架。三个摆脱传统周期的条件里，第一条DRAM 定制化，基本可以忽略\n\n而第二条：一个结构性指数级、而且很难逆转的需求来源是成立的。commodity DRAM 现在也具备了部分摆脱传统周期性的资格。没有 HBM(两条半)那么彻底，但已经是实质性的变化\n\n第三条，技术迭代速度，DRAM的节奏也跟以前不一样了\n\n因为以前的DRAM技术迭代速度是严重依赖消费电子的，DDR的进步对于performance用处并不大，但可预见的未来里，碳基消费的传统DRAM，会远远小于硅基消费（CPU服务器）DRAM的用量\n\n以前DRAM的速度升级带来的边际效用是很低的，但现在因为CPU服务器对memory的需求增大，以及端侧AI对DDR速度的要求也增大，比如苹果为了跑本地大模型，LPDDR速度越来越快\n\n速度升级的边际效用高了不少，所以DDR6和LPDDR6的速度迭代需求比以前提升了太大了，这在图里也可以看到，LPDDR6/DDR6的迭代时间缩短了，而且速度斜率，重新开始抬头\n\n以前新一代DDR/LPDDR技术出来，大家的反应都很冷淡，等降价了才会用\n\n而现在LPDDR6出来，各家恨不得都在抢着能尽量早上就尽量早，因为速度的提升带来的performance提升是触手可及的\n\n------\n\n另外，DDR 的供给还要被 HBM 额外抽一道税。HBM 每年的扩产速度太快，导致每年都有一批原本可以做 commodity DDR 的 wafer 被拉去做 HBM，而 HBM 的转换比极低，HBM3E 大约要 3 片 DDR wafer 的产能才能做出等量的 bit，HBM4 是4 片。所以每年大约有 3% 到 5% 的 DDR bit 增长，是被这个 HBM bit tax直接吃掉的\n\n所以DRAM bit volume虽然未来每年能增长24%左右（14%来自wafer增长，9%来自每个wafer的DRAM密度增长），但算上HBM bit tax之后，传统的、非 HBM 的 commodity DDR，每年的 bit growth 大概只有 20%（约 10% 的 wafer 增长 × 约 9% 的 node density 提升）\n\n—---------------------\n\n中国长鑫扩产的影响有多大？如果不讲武德拼命扩产，会不会把这个市场重新带入周期泥潭？\n\n长鑫这几年的扩产速度还是很快的，2025年还是每个月20万晶圆，2026年北京晶圆厂及新增生产线的贡献就能到32~35万。\n\n正在建设中的上海工厂一期和二期，一期预计到2027年每月新增10万片晶圆产能，二期预计到2028年每月新增10万片晶圆产能，也就是说，2027年每个月42万晶圆，2028年能到每个月50万晶圆。\n\n但需要注意的是，长鑫的dram bit 密度大概只有御三家的一半左右，所以长鑫的每个月50万晶圆wafer能产出的dram bit volume只有其他家的一半，这里计算wafer per month的时候，就按等效一半来算\n\n把这个折扣打上之后，长鑫对整个DRAM行业的冲击还是小了很多，从2025年年底到2028年年底，长鑫对DRAM bit产能CAGR的影响大概只有1.5%，全行业的DRAM产能CAGR大概从12.7%升到14.2%\n\nDRAM月产能(kwspm) 2025E → 2028E CAGR\n\nSamsung                  685K → 920K  10.3%\nSK Hynix                   519K → 725K  11.8%\nMicron                       340K → 560K  18.1%\n非中国其他               150K → 218K  13.3%\n中国(密度折半)       117K → 274K  32.8%\n—————————————————\n含中国总计   1811K → 2697K  14.2%\n无中国总计   1694K → 2423K  12.7%\n\n就算是长鑫未来还能保持增产速度，2030年对全行业等效产能每年DRAM bit volume增产CAGR的影响，大概也不到3%，从20%  CAGR变成23% CAGR，仅此而已\n\n另外，长鑫被光刻机所限制，而DDR6 需要更高速率（14400 MT/s 起步）和更高密度,御三家做 DDR6 大概率会用 1c 或更先进节点（~12nm 以下），已经全面用 EUV。长鑫可能会在DDR6上速率受限，密度也只有一半。\n\n—----------------\n\n即便是成长性周期，为什么DRAM的这轮超级周期会持续很长时间，起码五年看不到头？\n\n第一个原因是，刚才谈到的CPU服务器需求端的巨量增长带来的结构性DRAM需求指数增长，这里结合DRAM供给端的bit volume CAGR大概稳定20%增长，就可以很清晰的看到，DRAM未来几年的缺口为什么越来越大：\n\n非HBM的传统DRAM供给端大概是每年增长20%，而需求端，按2026年60B CPU TAM，每个CPU消耗DRAM平均8GB/core，每个core $30~35来算，需求是16EB\n\n2030年按400B CPU TAM，每个CPU消耗DRAM平均16GB/core，每个core $80来算(CPU涨价超过一倍)，需求是80EB，这部分DRAM的增长CAGR大概是50%，远远超过目前的估算\n\n不同于HBM是直接和token throughput挂钩，从而和GPU赚钱效率直接挂钩，DRAM不够对于agent flow的影响主要是速度，比如说，8GB/core和16GB/core比起来，部分workload速度可能降低30%，部分低价值task实在要等等也能忍，结构性指数增长的动机很强，但需求不如GPU那么刚性\n\nSemianalysis说今年的DRAM缺口式个位数百分数，明年是超过10%。从agent CPU数量激增导致的DRAM结构性来看，这个缺口每年都会继续加大，在2030年之前看不到降低的可能\n\n—----\n\n另外一个DRAM能延续强势很久的逻辑是，因为DRAM涨价之后，被涨价消灭的那部分需求，不是真的消失了，只是延迟了，需求蓄水池太多了。\n\n所谓蓄水池，是指那些\"内存一旦降价就会立刻被释放出来的潜在需求\"。它们的存在，意味着即便供给阶段性跟上了，价格也很难崩，因为总有新的需求从蓄水池里涌出来接盘：\n\n内存换算力/速度是一个蓄水池：\n\n有大量本来需要靠额外内存来优化速度和算力的需求，在内存太贵时被压着，一旦内存降价就会被释放出来。\n\n比如 Nvidia的CPX  prefill 加速，本来的设计初衷是用额外的低成本GDDR7，来做一个专门的prefill加速器，结果LPDDR/GDDR都太贵了，比涨价前的HBM还贵，这个方案的ROI就不划算了，但等到普通内存降价，这样类似CPX的优化方案就还会回来\n\n低价值task是一个蓄水池：内存涨价导致token价格居高不下时，高价值的 task 被优先保留，低价值的 task 被延后；内存一降价，这些被延迟的需求就回来了。\n\n端侧 AI 是一个蓄水池：AI PC 的内存配置可能从 24GB 一路涨到 128GB。苹果已经明确要求最新的端侧AI满血版需要从8GB升级到12GB内存\n\n常规消费电子、Agent PC、低端手机，因为内存涨价而减少的需求，全都是蓄水池。\n\n 这么多蓄水池叠在一起，构成了一个极厚的需求缓冲垫。这就是为什么 DDR 这轮的结构性增长，后劲会比市场想象的要强。\n\n—-----\n\n还有一个DRAM价格很难大幅下降的原因在于，HBM和DRAM产能可以互相转换，所以整个DRAM complex是一起re-rate的\n\n在上行期DRAM的利润率远超HBM，HBM的涨价幅度甚至变成了由DRAM去推动。今年新签约的HBM4的价格，就是当期DRAM的价格 x 4，也就是正常堆叠倍数对应HBM4的价格\n\n一旦DRAM降价毛利下滑，因为HBM的长约透明性，利润率都是有保障的，HBM就会间接抽走更多的DRAM产能，HBM的降价也会让GPU厂商更有动力尽可能的升级HBM size，这样也间接保障了DRAM的价格地板\n\nDRAM的结构性指数增长的需求有了，density scaling放缓扩产难度在增加，厂商扩产计划都很谨慎，长鑫这几年带来的影响也是有限的，再加上需求的蓄水池非常庞大，这四个原因导致了，在可预见的至少五年甚至更长时间内，DRAM是很难进入周期低谷的。\n\n—--------------\n\nNAND SSD有希望摆脱传统周期性吗？\n\nNAND 的结构性增长动力没有 DDR 那么强，今年的缺货主要原因是几个主要玩家的生产纪律保持的很好，并没有大规模扩产，每年的产能增加主要来源于技术改进：NAND堆叠层数的增加\n\n第一个结构性增长来自AI，主要来自 KV cache 的 offloading，把HBM溢出的warm/cold KV cache 卸载到 NAND SSD上。\n\n但神奇的事情是，这个kv cache offloading的增长甚至还没有大规模发生，SSD就已经缺的比DRAM还严重了，涨价也比DRAM要更多。等到明年Rubin CMX放量，加上KV cache offloading大规模应用，SSD的缺货也会因为这个结构性增长而增长\n\n第二个，另一个去年年度总结里说到的未来可期的AI视频带来的结构性增量，今年已经有出圈的态势了\n\nSeedance体量在以一年十倍到四十倍的速度增长。目前它还卡在缺卡算力不足的阶段，需求被算力压着没完全释放。但等到缺卡阶段过去，AI 视频对NAND存储的结构性需求增长，会持续相当长的一段时间。\n\n第三个结构性增长也同样来自于agent flow带来的Sandbox使用量的指数级增长，Sandbox为保障数据安全与隔离，如Analytical Agent 需为每个任务复制大量数据库和用户上下文，导致内存(DRAM)和CPU核心的严重浪费，同样会带来大量的SSD的浪费（需求）\n\n第四个也许在2030年之后发挥作用的结构性增长，来自于HBF路线需要用到SSD，在不少投行分析中被寄予厚望，但这个技术路线还有些遥远，主要角色定位只能作为存放大模型的weights，写一次权重然后做只读，而且必须要和GPU/HBM封装在一起（48TBps/96TBps），否则靠PCIE7/8速度太慢完全无法用，只能说未来可期，下一篇AI半导体终局推演2026(III)会有更详细的分析\n\n总之，NAND SSD的结构性增长没有HBM那么强，但是胜在便宜，价格到2027年也只有$0.8/GB，是同期DRAM的四十分之一，所以也算是多级缓存里的万金油属性，结构性增长来源太广泛了\n\n也就是说，不存在DRAM/HBM单独涨价繁荣，而SSD不涨价的情况，因为如果这样的情况发生，那么大家就会想办法用SSD去承载DRAM/HBM的部分功能，用更低的成本实现类似的效果。HBM、DRAM、NAND 不是三个独立故事，而是同一 AI memory hierarchy 在不同温度层的结构性增长\n\n结构性指数增长的需求有了，NAND SSD摆脱周期了吗？ 那么就要看NAND SSD厂家的生产纪律了，唯一可能不遵守生产纪律的，只有长存。毕竟这是一个囚徒困境，一旦有一家不讲武德拼命扩产，整个NAND产业要扩产的难度比DRAM简单的多。\n\n但最起码的，这一轮NAND同样是超级周期，几个结构性指数增长带来的需求，下行期推迟到2030年问题不大",
-      "publishedAt": "2026-06-25T06:21:00.000Z",
-      "link": "https://x.com/fi56622380/status/2070029693810847988",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLo42s5bIAA0L5B.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLo477nbYAAUk_5.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLo4-IWb0AA33N3.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "quote": {
-        "username": "fi56622380",
-        "displayName": "fin",
-        "content": "AI半导体终局推演2026(I)\n当新token经济学范式从GPU算力转移到HBM\n\n本文从从GPU架构进化路线本质出发，解释这个市场长久以来担心的问题:\n每个GPU的HBM内存需求为什么一定会是指数增长，为什么HBM需求指数增长不会停滞?\n\n并推导token经济学在当前架构下第一性原理:token吞吐 = HBM size X HBM BW带宽\n\n同时讨论了，为什么GPU的天花板被HBM的两个发展维度所决定\n\nHBM周期性这个话题争议一直很大，乐观派认为AI带来的需求比以前要大的多，但市场主流仍然认为前几次上升周期也有需求每年20%+增长，这次又有什么不一样呢？AI不影响HBM和传统DRAM一样有commodity属性，一旦在需求顶峰扩产遇上需求下行又会重蹈覆辙。\n\n我们可以从算力芯片架构视角,从第一性原理出发，来拆解和推演一下这个问题：为什么这次真的不一样\n\n-------------------------------\n历史：CPU算力时代\n\n很久以来，我们都处在CPU主导算力的时代，CPU的最高级KPI就是performance，跑的更快，所以每一代的CPU都用各种方法来提高跑分，最开始是频率上升，后来是架构演进superscaler等等\n\n这个时候为什么DDR不需要很快的技术进步速度？比如DDR3到DDR5竟然经历了15年之久\n\n因为这个时期的DDR的角色是纯粹的辅助，而且辅助功能极弱，以业界经验，DDR的速度即便是提高一倍，CPU的performance一般只能提高不到20%这个量级\n\n为什么DDR带宽速度提高了用处不大？两个原因\n\n1. CPU设计了各种架构去隐藏 DDR延迟，比如superscaler，加大发射宽度，用海量的ROB和register renaming来提高并行度隐藏延迟，一级缓存cache，二级缓存cache，削弱了DDR的带宽速度需求\n\n2. CPU workload对DDR带宽要求并不高，大部分日常负载比如打开网页，DDR带宽是严重过剩的，甚至云端负载\n\n也就是说，在CPU时代，DDR的带宽速度是不太有所谓的，DDR4和DDR5除了少数游戏就没啥差别，甚至JEDEC标准也进步缓慢。\n\n另外，绝大部分app需要一直停留在DDR上的部分并不多,需要的时候从硬盘上调度到DDR即可，app的size增长没那么快，导致对DDR的容量需求也较为缓慢。\n\n所以最近十年来，平均每台电脑上的DDR容量大概从7~8GB变成了23GB，十年只增长了3倍。\n\n而这部分升级缓慢直接影响了营收，size容量计价是赚钱的主要方式，速度的提高只是技术升级，提高size的单价，这两个的升级需求都不大，需求主要是随着电脑/手机数量增长而增长\n\n所以DRAM在带宽速度和容量这两个维度上，一直是都是芯片产业锦上添花性质的附属品，DDR升级带来的边际效用是很低的，跟CPU时代的最高KPI几乎没什么直接联系\n\n--------------------------------------------\n而到了genAI 大模型为主导的新时代，计算范式转移让最高级KPI起了根本变化\n\nGPU发展到AI推理的时代，不再像CPU那样只看跑分，最高级的KPI不再是算力TOPS/FLOPS，而是token的成本，特别是单位成本/单位电力下的overall token throuput\n\n其次是token吞吐速度，因为在agent时代，很多任务变成了串行，token吞吐速度成了用户体验的重要瓶颈。\n\n这也是为什么老黄发明AI工厂概念的原因：最低成本的输出最多token，同时尽量提高token吞吐速度\n\nAI训练时代，老黄的经济学是TCO(total cost ownership)，买的GPU越多，省的越多\n\n而老黄在推理时代的token经济学是：\n\nAI推理的毛利润很可观，所以逻辑已经转换成：Nvidia GPU是这个世界上让token单价最便宜的GPU，买的GPU越多，赚的越多\n\n最高的KPI变成了Pareto frontier曲线，在提高token 吞吐throughput和提高token速度两个维度上尽量优化\n（见图一）\n\nNVIDIA 的 token factory 代际进步，其实是在把整条 Pareto frontier 往右上推，这就是是AI推理这个时代最重要的KPI\n\n----------------------------------\n\n接下来是本文最重要的逻辑链，如何从token吞吐量指数型增长的本质出发，推导出天花板瓶颈在HBM size和HBM 带宽的指数型增长\n\n单卡GPU推理单线程batch size = 1的时代，token吞吐只有一个维度，就是HBM的带宽速度，带宽速度越高，token吞吐越大\n\n但进入NVL72的年代，推理不再是单卡GPU时代，而是72个GPU + 36个CPU整个系统级别的token工厂，把HBM带宽和算力用满，获得极致的token吞吐量\n\nToken 吞吐throughput的增长，依赖两个东西：同时批处理的请求数 X 每个user请求的平均token速度\n\n也就是batch size X per user token 速度\n\n以Rubin NVL72为例，在平均token速度是100 token/s的情况下，同时批处理1920个请求，得到token吞吐量是19.2万token/s 一个Rubin NVL72大概是120KW（0.12MW）的功率，所以得到单位MW能处理1.6M token/s\n\n（见图一）\n\n所以，我们需要想方设法提高这两个参数：批处理数量batch size和per user token的平均速度，这两者相乘就是我们的最高KPI，也就是token的吞吐量\n\n-------\n第一个参数：batch size的增长，瓶颈在HBM size\n\n批处理量里的每一个请求req，都会自带kv cache，这部分kv cache是需要存在HBM里的，大小大概在几个GB到数十GB不等 因为hot kv cache是随时需要高频高速读取，所以必须放在HBM里，比如一个大模型的层数是80层，那么每一个token的生成阶段，都需要读取80次HBM里的kv cache\n\n随着批处理数量batch size的增长，会带来hot kv cache的线性增长\n\n又因为这个批处理量的所有请求的hot kv cache，都要放在HBM上，这也就带来了HBM size必须要随着批处理量batch size线性增长\n\n就像是机场接驳车，登机口尽量快的接旅客到飞机，HBM size小了，相当于接驳车size小了，就得多接一趟\n\n结论是：批处理量的数量batch size，瓶颈依赖于HBM size的增长\n\n---------\n第二个参数：每个user请求的平均token速度，瓶颈在HBM带宽\n\n大模型decode阶段的速度，瓶颈取决于HBM的带宽速度，因为每生成一个 token,都要把激活的权重和kv cache 读很多遍\n\nLPU的出现，在batch不那么大的情况下，把激活权重这个部分搬到了SRAM上，但是每生成一个 token仍然要从HBM读很多次KV cache。HBM带宽越高，生成每一个token的速度也就越快，基本上是线性对应的\n\n就像是机场接驳车，登机口尽量快的接旅客到飞机，hbm本身带宽速度就像是接驳车的车门有多宽，门越宽，旅客上接驳车越快\n\nGPU的其他配置，都是在适配batch的增长以及要让token compute的速度配平HBM的增长，甚至会用多余的算力来获得部分的带宽（比如部分带宽压缩技术）\n\n—-----\n在那个接驳车的比喻例子里\n\n接驳车的车厢大小 = HBM Size（容量）： 决定了一次能装下多少名旅客（也就是能同时装下多少个请求的 KV Cache）。车厢越大，一次能拉载的旅客（Batch Size）就越多。如果车太小，想拉100个人就得分两趟，系统整体的吞吐量就上不去。\n\n接驳车的车门宽度 = HBM Bandwidth（带宽）： 决定了旅客上下车的速度。门越宽，大家呼啦啦一下全上去了（Decode/生成Token的速度极快）。如果门很窄，哪怕车厢巨大能装200人，大家也得排着队一个一个挤上去，全耗在上下车的时间里了。\n\n旅客的吞吐量 = 接驳车车厢容量 x 接驳车旅客上车速度(车门宽度)\n\n—---------------------------\n\n至此，我们从逻辑上推演出了token经济学的硬件需求第一性原理：\n\nToken throughput = HBM size X HBM Bandwidth\nAI推理这个时代的最高KPI，实际上是高度依赖于HBM的两个维度的进步的\n\n如果要维持token throuput每一代两倍的增长，实际上意味着，每一代的单GPU上，HBM size X HBM BW带宽之积要增长两倍！\n\n这也是历史上第一次，HBM内存的size可以影响最高的KPI token throughput！\n\n要验证这个理论，可以把Nvidia从A100到Rubin Ultra这几代的token 吞吐throughput，和HBM size X HBM BW 放在同一个图里比较\n（见图二）\n\n可以发现，这两个曲线的走势在对数轴上惊人的一致\n\nHBM size x HBM带宽增长的甚至要比token吞吐量更快，毕竟HBM决定的是天花板，实际上这个天花板增长的利用率utilization是很难达到100%的，也就是说，HBM size x HBM 带宽就算增长1000倍，其他算力和架构的配合下，很难把这1000倍的天花板潜力全部榨干\n\n这条曲线不是巧合，而是系统最优化的必然解\n\nthroughput = batch × Bandwidth，这就是token factory 经济学最绕不开的第一性原理\n\n—--------\n软件的影响呢？软件的优化会不会降低带宽的需求？降低HBM的需求？\n\n这跟硬件是独立两个维度的，这好像在问，如果CPU上的软件优化了之后跑的更快，是不是CPU就十年不用发展了？反正软件跑的更快了嘛\n\n这样的话，CPU厂还能赚得到钱吗？CPU想要存活下去，只有一条路可走，在标准benchmark，不考虑软件优化，每一代CPU必须要跑分更高，不然就卖不出去\nGPU也是一样，软件优化如何，和自己的token吞吐量KPI每年都要大幅进步，是两回事\n\n只要token的需求继续增长，对token throuput的追求就绝不会停止，那么对HBM size X HBM 带宽的追求也不会停止\n\n如果HBM size和HBM 带宽发展慢了，老黄一定会亲自到御三家逼着他们技术升级，因为这就是老黄gpu的天花板，天花板要是钉死了不进步，老黄的GPU还能卖出去吗？\n\n当然了，Nvidia需要绞尽脑汁去从异构计算的架构角度榨取HBM天花板之外的部分，比如LPU就是一个很好的尝试，把Pareto frontier从另一个角度改善了很多 （右半边高token速度的部分）\n\n—--------------------------------------\n\nHBM内存已然告别了那个随波逐流的旧时代，在这条由指数级需求铺就的单行道上，以一种近乎宿命的方式走到了产业史诗的主舞台中央\n\n推理范式第一性原理演化到这一步，只要老黄还要卖GPU，HBM就必须翻倍，而且必须代代翻倍。这是supply side的内生压力，与AI需求无关，与宏观周期无关，与hyperscaler的心情也无关\n\n剩下的问题，只有一个：\n\n当需求被物理锁定为指数增长的时候，供给侧的三个玩家，会不会还像过去三十年那样，亲手把自己再拖回一次周期的泥潭？",
-        "contentHtml": "AI半导体终局推演2026(I)\n当新token经济学范式从GPU算力转移到HBM\n\n本文从从GPU架构进化路线本质出发，解释这个市场长久以来担心的问题:\n每个GPU的HBM内存需求为什么一定会是指数增长，为什么HBM需求指数增长不会停滞?\n\n并推导token经济学在当前架构下第一性原理:token吞吐 = HBM size X HBM BW带宽\n\n同时讨论了，为什么GPU的天花板被HBM的两个发展维度所决定\n\nHBM周期性这个话题争议一直很大，乐观派认为AI带来的需求比以前要大的多，但市场主流仍然认为前几次上升周期也有需求每年20%+增长，这次又有什么不一样呢？AI不影响HBM和传统DRAM一样有commodity属性，一旦在需求顶峰扩产遇上需求下行又会重蹈覆辙。\n\n我们可以从算力芯片架构视角,从第一性原理出发，来拆解和推演一下这个问题：为什么这次真的不一样\n\n-------------------------------\n历史：CPU算力时代\n\n很久以来，我们都处在CPU主导算力的时代，CPU的最高级KPI就是performance，跑的更快，所以每一代的CPU都用各种方法来提高跑分，最开始是频率上升，后来是架构演进superscaler等等\n\n这个时候为什么DDR不需要很快的技术进步速度？比如DDR3到DDR5竟然经历了15年之久\n\n因为这个时期的DDR的角色是纯粹的辅助，而且辅助功能极弱，以业界经验，DDR的速度即便是提高一倍，CPU的performance一般只能提高不到20%这个量级\n\n为什么DDR带宽速度提高了用处不大？两个原因\n\n1. CPU设计了各种架构去隐藏 DDR延迟，比如superscaler，加大发射宽度，用海量的ROB和register renaming来提高并行度隐藏延迟，一级缓存cache，二级缓存cache，削弱了DDR的带宽速度需求\n\n2. CPU workload对DDR带宽要求并不高，大部分日常负载比如打开网页，DDR带宽是严重过剩的，甚至云端负载\n\n也就是说，在CPU时代，DDR的带宽速度是不太有所谓的，DDR4和DDR5除了少数游戏就没啥差别，甚至JEDEC标准也进步缓慢。\n\n另外，绝大部分app需要一直停留在DDR上的部分并不多,需要的时候从硬盘上调度到DDR即可，app的size增长没那么快，导致对DDR的容量需求也较为缓慢。\n\n所以最近十年来，平均每台电脑上的DDR容量大概从7~8GB变成了23GB，十年只增长了3倍。\n\n而这部分升级缓慢直接影响了营收，size容量计价是赚钱的主要方式，速度的提高只是技术升级，提高size的单价，这两个的升级需求都不大，需求主要是随着电脑/手机数量增长而增长\n\n所以DRAM在带宽速度和容量这两个维度上，一直是都是芯片产业锦上添花性质的附属品，DDR升级带来的边际效用是很低的，跟CPU时代的最高KPI几乎没什么直接联系\n\n--------------------------------------------\n而到了genAI 大模型为主导的新时代，计算范式转移让最高级KPI起了根本变化\n\nGPU发展到AI推理的时代，不再像CPU那样只看跑分，最高级的KPI不再是算力TOPS/FLOPS，而是token的成本，特别是单位成本/单位电力下的overall token throuput\n\n其次是token吞吐速度，因为在agent时代，很多任务变成了串行，token吞吐速度成了用户体验的重要瓶颈。\n\n这也是为什么老黄发明AI工厂概念的原因：最低成本的输出最多token，同时尽量提高token吞吐速度\n\nAI训练时代，老黄的经济学是TCO(total cost ownership)，买的GPU越多，省的越多\n\n而老黄在推理时代的token经济学是：\n\nAI推理的毛利润很可观，所以逻辑已经转换成：Nvidia GPU是这个世界上让token单价最便宜的GPU，买的GPU越多，赚的越多\n\n最高的KPI变成了Pareto frontier曲线，在提高token 吞吐throughput和提高token速度两个维度上尽量优化\n（见图一）\n\nNVIDIA 的 token factory 代际进步，其实是在把整条 Pareto frontier 往右上推，这就是是AI推理这个时代最重要的KPI\n\n----------------------------------\n\n接下来是本文最重要的逻辑链，如何从token吞吐量指数型增长的本质出发，推导出天花板瓶颈在HBM size和HBM 带宽的指数型增长\n\n单卡GPU推理单线程batch size = 1的时代，token吞吐只有一个维度，就是HBM的带宽速度，带宽速度越高，token吞吐越大\n\n但进入NVL72的年代，推理不再是单卡GPU时代，而是72个GPU + 36个CPU整个系统级别的token工厂，把HBM带宽和算力用满，获得极致的token吞吐量\n\nToken 吞吐throughput的增长，依赖两个东西：同时批处理的请求数 X 每个user请求的平均token速度\n\n也就是batch size X per user token 速度\n\n以Rubin NVL72为例，在平均token速度是100 token/s的情况下，同时批处理1920个请求，得到token吞吐量是19.2万token/s 一个Rubin NVL72大概是120KW（0.12MW）的功率，所以得到单位MW能处理1.6M token/s\n\n（见图一）\n\n所以，我们需要想方设法提高这两个参数：批处理数量batch size和per user token的平均速度，这两者相乘就是我们的最高KPI，也就是token的吞吐量\n\n-------\n第一个参数：batch size的增长，瓶颈在HBM size\n\n批处理量里的每一个请求req，都会自带kv cache，这部分kv cache是需要存在HBM里的，大小大概在几个GB到数十GB不等 因为hot kv cache是随时需要高频高速读取，所以必须放在HBM里，比如一个大模型的层数是80层，那么每一个token的生成阶段，都需要读取80次HBM里的kv cache\n\n随着批处理数量batch size的增长，会带来hot kv cache的线性增长\n\n又因为这个批处理量的所有请求的hot kv cache，都要放在HBM上，这也就带来了HBM size必须要随着批处理量batch size线性增长\n\n就像是机场接驳车，登机口尽量快的接旅客到飞机，HBM size小了，相当于接驳车size小了，就得多接一趟\n\n结论是：批处理量的数量batch size，瓶颈依赖于HBM size的增长\n\n---------\n第二个参数：每个user请求的平均token速度，瓶颈在HBM带宽\n\n大模型decode阶段的速度，瓶颈取决于HBM的带宽速度，因为每生成一个 token,都要把激活的权重和kv cache 读很多遍\n\nLPU的出现，在batch不那么大的情况下，把激活权重这个部分搬到了SRAM上，但是每生成一个 token仍然要从HBM读很多次KV cache。HBM带宽越高，生成每一个token的速度也就越快，基本上是线性对应的\n\n就像是机场接驳车，登机口尽量快的接旅客到飞机，hbm本身带宽速度就像是接驳车的车门有多宽，门越宽，旅客上接驳车越快\n\nGPU的其他配置，都是在适配batch的增长以及要让token compute的速度配平HBM的增长，甚至会用多余的算力来获得部分的带宽（比如部分带宽压缩技术）\n\n—-----\n在那个接驳车的比喻例子里\n\n接驳车的车厢大小 = HBM Size（容量）： 决定了一次能装下多少名旅客（也就是能同时装下多少个请求的 KV Cache）。车厢越大，一次能拉载的旅客（Batch Size）就越多。如果车太小，想拉100个人就得分两趟，系统整体的吞吐量就上不去。\n\n接驳车的车门宽度 = HBM Bandwidth（带宽）： 决定了旅客上下车的速度。门越宽，大家呼啦啦一下全上去了（Decode/生成Token的速度极快）。如果门很窄，哪怕车厢巨大能装200人，大家也得排着队一个一个挤上去，全耗在上下车的时间里了。\n\n旅客的吞吐量 = 接驳车车厢容量 x 接驳车旅客上车速度(车门宽度)\n\n—---------------------------\n\n至此，我们从逻辑上推演出了token经济学的硬件需求第一性原理：\n\nToken throughput = HBM size X HBM Bandwidth\nAI推理这个时代的最高KPI，实际上是高度依赖于HBM的两个维度的进步的\n\n如果要维持token throuput每一代两倍的增长，实际上意味着，每一代的单GPU上，HBM size X HBM BW带宽之积要增长两倍！\n\n这也是历史上第一次，HBM内存的size可以影响最高的KPI token throughput！\n\n要验证这个理论，可以把Nvidia从A100到Rubin Ultra这几代的token 吞吐throughput，和HBM size X HBM BW 放在同一个图里比较\n（见图二）\n\n可以发现，这两个曲线的走势在对数轴上惊人的一致\n\nHBM size x HBM带宽增长的甚至要比token吞吐量更快，毕竟HBM决定的是天花板，实际上这个天花板增长的利用率utilization是很难达到100%的，也就是说，HBM size x HBM 带宽就算增长1000倍，其他算力和架构的配合下，很难把这1000倍的天花板潜力全部榨干\n\n这条曲线不是巧合，而是系统最优化的必然解\n\nthroughput = batch × Bandwidth，这就是token factory 经济学最绕不开的第一性原理\n\n—--------\n软件的影响呢？软件的优化会不会降低带宽的需求？降低HBM的需求？\n\n这跟硬件是独立两个维度的，这好像在问，如果CPU上的软件优化了之后跑的更快，是不是CPU就十年不用发展了？反正软件跑的更快了嘛\n\n这样的话，CPU厂还能赚得到钱吗？CPU想要存活下去，只有一条路可走，在标准benchmark，不考虑软件优化，每一代CPU必须要跑分更高，不然就卖不出去\nGPU也是一样，软件优化如何，和自己的token吞吐量KPI每年都要大幅进步，是两回事\n\n只要token的需求继续增长，对token throuput的追求就绝不会停止，那么对HBM size X HBM 带宽的追求也不会停止\n\n如果HBM size和HBM 带宽发展慢了，老黄一定会亲自到御三家逼着他们技术升级，因为这就是老黄gpu的天花板，天花板要是钉死了不进步，老黄的GPU还能卖出去吗？\n\n当然了，Nvidia需要绞尽脑汁去从异构计算的架构角度榨取HBM天花板之外的部分，比如LPU就是一个很好的尝试，把Pareto frontier从另一个角度改善了很多 （右半边高token速度的部分）\n\n—--------------------------------------\n\nHBM内存已然告别了那个随波逐流的旧时代，在这条由指数级需求铺就的单行道上，以一种近乎宿命的方式走到了产业史诗的主舞台中央\n\n推理范式第一性原理演化到这一步，只要老黄还要卖GPU，HBM就必须翻倍，而且必须代代翻倍。这是supply side的内生压力，与AI需求无关，与宏观周期无关，与hyperscaler的心情也无关\n\n剩下的问题，只有一个：\n\n当需求被物理锁定为指数增长的时候，供给侧的三个玩家，会不会还像过去三十年那样，亲手把自己再拖回一次周期的泥潭？",
-        "link": "https://x.com/fi56622380/status/2049347677092278749",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHC97AtacAAzAqg.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HHC98zbbkAAoNcp.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2070024742946709642",
       "username": "yuren477",
       "displayName": "余人sama",
@@ -11755,19 +11931,6 @@
       "contentHtml": "伯克希尔今年也下跌1.6%\n我接触的三家机构也两家大幅跑输，一家跑赢标普\n虽然投资界最后确实以回报论英雄，但绝对不是几个月的回报。所以短期抄谁的作业都没用，因为谁都会错，且很难预判，长期很多成功者的作业普通散户也没耐心抄。\n今天看到两条留言说微软坚持不住了，我的建议是减仓吧，持有一个标的已经产生了痛苦的负反馈，那一定是标的本身或者仓位出了问题。",
       "publishedAt": "2026-06-24T23:44:00.000Z",
       "link": "https://x.com/TJ_Research/status/2069929724525293859",
-      "quote": {
-        "username": "taobanker",
-        "displayName": "taobanker",
-        "content": "Bill Ackman down 24% YTD is actually crazy like holy fuck anyone wanna comp this guy some substack subscriptions or something because wow",
-        "contentHtml": "Bill Ackman down 24% YTD is actually crazy like holy fuck anyone wanna comp this guy some substack subscriptions or something because wow",
-        "link": "https://x.com/taobanker/status/2069534045571084358",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLh2Ph6XAAAPXj-.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11783,178 +11946,6 @@
       "contentHtml": "Great products are not so much invented as discovered.",
       "publishedAt": "2026-06-24T22:33:00.000Z",
       "link": "https://x.com/naval/status/2069911787911495948",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069910520048861615",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "一些声明- -\n\n之后不再解释啦",
-      "contentHtml": "一些声明- -\n\n之后不再解释啦",
-      "publishedAt": "2026-06-24T22:28:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069910520048861615",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLnMpECa4AApy4d.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069906978114031732",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "Getting some 2022 PTSD right now on $BTC. \n\nI don't even think this will play out, if I'm honest. Very low chance.\n\nJust an interesting pattern I thought was worth sharing.",
-      "contentHtml": "Getting some 2022 PTSD right now on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>. \n\nI don't even think this will play out, if I'm honest. Very low chance.\n\nJust an interesting pattern I thought was worth sharing.",
-      "publishedAt": "2026-06-24T22:14:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2069906978114031732",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLnJMN4XIAACWG7.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069904169050521986",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "一个重要思考\n\n海力士的HBM产能已经被提前锁走\nMU有大量的LTA\n三星正在把AI内存用户转化成3-5年长期合同，效仿MU和海力士\n\n那么三星的增长点是什么？\n\n———————\n\nHBM 追赶成功 + AI server DRAM/NAND/eSSD 长协化 + OpenAI/Stargate 级别需求验证。\nHBM4E的验证\n\n这里就构建了三星估值重构的逻辑",
-      "contentHtml": "一个重要思考\n\n海力士的HBM产能已经被提前锁走\nMU有大量的LTA\n三星正在把AI内存用户转化成3-5年长期合同，效仿MU和海力士\n\n那么三星的增长点是什么？\n\n———————\n\nHBM 追赶成功 + AI server DRAM/NAND/eSSD 长协化 + OpenAI/Stargate 级别需求验证。\nHBM4E的验证\n\n这里就构建了三星估值重构的逻辑",
-      "publishedAt": "2026-06-24T22:03:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069904169050521986",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069903253316239560",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "bitcoin:native \n\nIt indeed seems like we are filling the great wall of china.",
-      "contentHtml": "bitcoin:native \n\nIt indeed seems like we are filling the great wall of china.",
-      "publishedAt": "2026-06-24T21:59:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2069903253316239560",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLnF2NeWAAAxJhq.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "They can see all your bids below $60K, which is exactly why $BTC keeps front-running them.\n\nWe're likely to see more hunts to the upside, squeezing shorts and making them uncomfortable before we even consider filling this monstrous buy wall below us.\n\nAka. Binance Plunge Protection.",
-        "contentHtml": "They can see all your bids below $60K, which is exactly why <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> keeps front-running them.\n\nWe're likely to see more hunts to the upside, squeezing shorts and making them uncomfortable before we even consider filling this monstrous buy wall below us.\n\nAka. Binance Plunge Protection.",
-        "link": "https://x.com/KillaXBT/status/2068651423198322701",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLVSvKuWYAAhjjv.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069902095264985503",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "mu的lta看起来是槽点之一🤔",
-      "contentHtml": "mu的lta看起来是槽点之一🤔",
-      "publishedAt": "2026-06-24T21:54:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069902095264985503",
-      "quote": {
-        "username": "kjage1",
-        "displayName": "kj age",
-        "content": "マイクロン LTA（長期契約）\n\n• 5年契約（2030年まで）\n• 16件の契約締結\n• DRAM生産量の20%、NAND生産量の30%程度\n• 売上の50%までカバー可能な規模\n\nlta 最低保証 売上1000億ドル",
-        "contentHtml": "マイクロン LTA（長期契約）\n\n• 5年契約（2030年まで）\n• 16件の契約締結\n• DRAM生産量の20%、NAND生産量の30%程度\n• 売上の50%までカバー可能な規模\n\nlta 最低保証 売上1000億ドル",
-        "link": "https://x.com/kjage1/status/2069894440567869671",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLm9-qIbIAA6pVc.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069899442296377580",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "很难想象 海力士上美股会把局势搅成什么样",
-      "contentHtml": "很难想象 海力士上美股会把局势搅成什么样",
-      "publishedAt": "2026-06-24T21:44:00.000Z",
-      "link": "https://x.com/octopusycc/status/2069899442296377580",
-      "quote": {
-        "username": "aleabitoreddit",
-        "displayName": "Serenity",
-        "content": "Always amazing looking at $MU earnings: \n\nRevenue: $41.46B vs. $35.8B est.\nEPS: $25.11 vs. $20.78 est.\n\nForecasts:\n\nRevenue: $49B to $51B, vs $43.24B est \nEPS: $30.00 to $32.00, vs. $25.31.\n\n“Micron said on Wednesday that it has signed 16 long-term agreements”\n\n\"When completed, we expect approximately half or more of our company revenue to be under these\"\n\nLooks like memory demand has become structural…\n\nBut great earnings to show up the AI trade is continuing to ramp up.",
-        "contentHtml": "Always amazing looking at <a href=\"/search?f=tweets&q=%23MU\">$MU</a> earnings: \n\nRevenue: $41.46B vs. $35.8B est.\nEPS: $25.11 vs. $20.78 est.\n\nForecasts:\n\nRevenue: $49B to $51B, vs $43.24B est \nEPS: $30.00 to $32.00, vs. $25.31.\n\n“Micron said on Wednesday that it has signed 16 long-term agreements”\n\n\"When completed, we expect approximately half or more of our company revenue to be under these\"\n\nLooks like memory demand has become structural…\n\nBut great earnings to show up the AI trade is continuing to ramp up.",
-        "link": "https://x.com/aleabitoreddit/status/2069892511406100716",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLm8Q_yaMAAf2k-.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLm8Q_wagAAiHnE.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2069891612893904986",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#案例 \n\n这个东亚父母的段子大概 15、20 年了？\n\n再发出来还是能获得大量流量。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23案例\">#案例</a> \n\n这个东亚父母的段子大概 15、20 年了？\n\n再发出来还是能获得大量流量。",
-      "publishedAt": "2026-06-24T21:13:00.000Z",
-      "link": "https://x.com/taresky/status/2069891612893904986",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLm7cinacAEyW6T.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
