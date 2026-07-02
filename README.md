@@ -40,7 +40,8 @@ x-line/
 │   ├── followers.txt       # Follower list (editable source)
 │   ├── followers.json      # Follower list (generated JSON)
 │   └── tweets.json         # Tweet data
-├── .github/workflows/      # GitHub Actions
+├── api/                    # Vercel Functions
+├── .github/workflows/      # CI and manual maintenance workflows
 └── docs/                   # Documentation
 ```
 
@@ -51,7 +52,7 @@ x-line/
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Data source**: [Nitter](https://github.com/zedeus/nitter)
-- **Automation**: GitHub Actions
+- **Runtime data**: Vercel Functions
 
 ## Script Commands
 
@@ -66,7 +67,7 @@ pnpm build            # Build for production
 pnpm run build-followers      # Build follower config
 pnpm run validate-followers   # Validate follower config
 pnpm run manage-followers     # Manage followers (add/remove)
-pnpm run fetch-tweets         # Fetch tweets
+pnpm run fetch-tweets         # Refresh the bundled fallback snapshot
 ```
 
 ## Automation
@@ -74,6 +75,7 @@ pnpm run fetch-tweets         # Fetch tweets
 - **CI**: Runs lint and build on pushes and pull requests.
 - **Dependency updates**: Automatically updates dependencies weekly and opens PRs.
 - **Auto-merge**: Automatically merges eligible PRs after CI passes.
+- **Tweet refresh**: The live site reads `/api/tweets`; the GitHub workflow is a manual fallback snapshot refresh.
 
 ## Contributing
 

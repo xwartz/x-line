@@ -1,10 +1,54 @@
 import react from '@vitejs/plugin-react'
+import type { IncomingMessage, ServerResponse } from 'http'
 import path from 'path'
+import { pathToFileURL } from 'url'
+import type { Plugin } from 'vite'
 import { defineConfig } from 'vite'
 import { VitePWA } from 'vite-plugin-pwa'
 
+interface LocalApiRequest extends IncomingMessage {
+  originalUrl?: string
+  query?: Record<string, string>
+}
+
+interface LocalApiResponse extends ServerResponse {
+  status: (code: number) => LocalApiResponse
+  json: (payload: unknown) => void
+}
+
+function localTweetsApi(): Plugin {
+  return {
+    name: 'x-line-local-tweets-api',
+    configureServer(server) {
+      server.middlewares.use('/api/tweets', async (request, response) => {
+        const handlerUrl = pathToFileURL(
+          path.resolve(__dirname, 'api/tweets.js')
+        ).href
+        const { default: tweetsHandler } = await import(handlerUrl)
+        const requestUrl = request.originalUrl || request.url || ''
+        const url = new URL(requestUrl, 'http://localhost')
+        const localRequest = request as LocalApiRequest
+        const localResponse = response as LocalApiResponse
+
+        localRequest.query = Object.fromEntries(url.searchParams)
+        localResponse.status = code => {
+          localResponse.statusCode = code
+          return localResponse
+        }
+        localResponse.json = payload => {
+          localResponse.setHeader('Content-Type', 'application/json')
+          localResponse.end(JSON.stringify(payload))
+        }
+
+        await tweetsHandler(localRequest, localResponse)
+      })
+    }
+  }
+}
+
 export default defineConfig({
   plugins: [
+    localTweetsApi(),
     react(),
     VitePWA({
       registerType: 'autoUpdate',
@@ -79,6 +123,9 @@ export default defineConfig({
             }
           }
         ]
+      },
+      devOptions: {
+        enabled: true
       }
     })
   ],

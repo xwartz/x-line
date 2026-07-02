@@ -11,8 +11,10 @@ data/followers.txt (text format)
     ↓ scripts/build-followers.mjs
 data/followers.json (generated JSON)
     ↓
-scripts/fetch-tweets.mjs (reads)
-src/config/followers.ts (imports)
+api/tweets.js and scripts/fetch-tweets.mjs (read)
+    ↓
+src/hooks/useTweets.ts (loads /api/tweets, falls back to data/tweets.json)
+src/config/followers.ts (imports followers.json)
 ```
 
 ## How to Use It
@@ -22,7 +24,7 @@ src/config/followers.ts (imports)
 1. Open [`data/followers.txt`](../../data/followers.txt)
 2. Click the edit button
 3. Update the text file with one username per line
-4. After you commit the change, GitHub Actions will automatically trigger tweet fetching
+4. After you commit the change, the deployed `/api/tweets` endpoint will use the updated follower list after the next deployment
 
 ### Method 2: GitHub Actions
 
@@ -104,13 +106,16 @@ VitalikButerin,Crypto
 
 ## GitHub Actions
 
+### Runtime Tweet Refresh
+
+The live site fetches tweet data from the Vercel `/api/tweets` function. The function keeps a short cache and merges newly fetched tweets with the bundled fallback snapshot.
+
 ### Fetch Tweets Workflow
 
-Tweet fetching runs automatically when any of these conditions are met:
+The Fetch Tweets workflow is a manual fallback snapshot refresh. Use it when you want to update `data/tweets.json` in the repository, not for routine live refreshes.
 
-- Scheduled run: every 15 minutes
 - Manual run from the Actions page
-- File changes to `data/followers.txt` or `data/followers.json`
+- Updates `data/tweets.json` only when fetched data changes
 
 ### Manage Followers Workflow
 
@@ -133,7 +138,7 @@ pnpm run build-followers
 # Validate the configuration
 pnpm run validate-followers
 
-# Fetch tweets
+# Refresh the bundled fallback snapshot
 pnpm run fetch-tweets
 ```
 

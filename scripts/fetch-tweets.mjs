@@ -21,7 +21,11 @@ const execAsync = promisify(exec)
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT_DIR = path.join(__dirname, '..')
 const DATA_DIR = path.join(ROOT_DIR, 'data')
-const TWEETS_FILE = path.join(DATA_DIR, 'tweets.json')
+const DEFAULT_TWEETS_FILE = path.join(DATA_DIR, 'tweets.json')
+const TWEETS_FILE = process.env.TWEETS_OUTPUT_FILE || DEFAULT_TWEETS_FILE
+const EXISTING_TWEETS_FILE =
+  process.env.TWEETS_EXISTING_FILE ||
+  (fs.existsSync(TWEETS_FILE) ? TWEETS_FILE : DEFAULT_TWEETS_FILE)
 const FOLLOWERS_JSON_FILE = path.join(DATA_DIR, 'followers.json')
 const FOLLOWERS_TXT_FILE = path.join(DATA_DIR, 'followers.txt')
 
@@ -267,7 +271,9 @@ const FOLLOWERS = loadFollowers()
 
 const FETCH_TIMEOUT = 30
 // Maximum pages fetched per user (about 20-30 tweets per page).
-const MAX_PAGES_PER_USER = 5
+const MAX_PAGES_PER_USER = Number(process.env.MAX_PAGES_PER_USER || 5)
+const PAGE_DELAY_MS = Number(process.env.PAGE_DELAY_MS || 1500)
+const USER_DELAY_MS = Number(process.env.USER_DELAY_MS || 2000)
 
 /**
  * Fetch a page with curl to reduce bot detection issues.
@@ -814,7 +820,7 @@ async function fetchUserTweets(username, maxPages = 5) {
         console.log(`  [${instance}] Fetching page ${currentPage}...`)
 
         // Pause briefly to avoid hitting rate limits.
-        await new Promise(resolve => setTimeout(resolve, 1500))
+        await new Promise(resolve => setTimeout(resolve, PAGE_DELAY_MS))
 
         result = await fetchUserPageSingle(username, instance, nextPageUrl)
 
@@ -892,9 +898,9 @@ async function main() {
 
   // Load existing data if it exists.
   let existingTweets = []
-  if (fs.existsSync(TWEETS_FILE)) {
+  if (fs.existsSync(EXISTING_TWEETS_FILE)) {
     try {
-      const data = JSON.parse(fs.readFileSync(TWEETS_FILE, 'utf-8'))
+      const data = JSON.parse(fs.readFileSync(EXISTING_TWEETS_FILE, 'utf-8'))
       existingTweets = data.tweets || []
       console.log(`\nExisting tweets: ${existingTweets.length}`)
     } catch {
@@ -925,7 +931,7 @@ async function main() {
     }
 
     // Add spacing between requests to reduce throttling.
-    await new Promise(resolve => setTimeout(resolve, 2000))
+    await new Promise(resolve => setTimeout(resolve, USER_DELAY_MS))
   }
 
   // Track current followers so removed accounts are filtered out.
