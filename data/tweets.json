@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T10:59:10.709Z",
+  "lastUpdated": "2026-07-03T11:52:27.505Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,106 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 643,
-    "successUsers": 32,
-    "failedUsers": 0
+    "newFetched": 625,
+    "successUsers": 31,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2073008521046872349",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "OUSD的140家联盟合作伙伴里有十几家韩国金融机构，看Naver的报道这些韩国金融机构表示并没有与OUSD发行公司进行正式协商，还是前两天这里nitter.net/qinbafrank/status/2072…聊到的：很多家公司一起联合，看上去阵容鼎盛声势浩大，但是真正做过企业的都清楚这中间摩擦成本（难免各家机构都有自己的小心思，导致博弈和时间成本大增）。\n\n但OUSD也基本确认是Stripe主导的行业联盟项目，应该还是能做到至少一定的规模和体量的。",
+      "contentHtml": "OUSD的140家联盟合作伙伴里有十几家韩国金融机构，看Naver的报道这些韩国金融机构表示并没有与OUSD发行公司进行正式协商，还是前两天这里<a href=\"https://nitter.net/qinbafrank/status/2072218452643983684?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2072…</a>聊到的：很多家公司一起联合，看上去阵容鼎盛声势浩大，但是真正做过企业的都清楚这中间摩擦成本（难免各家机构都有自己的小心思，导致博弈和时间成本大增）。\n\n但OUSD也基本确认是Stripe主导的行业联盟项目，应该还是能做到至少一定的规模和体量的。",
+      "publishedAt": "2026-07-03T11:38:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2073008521046872349",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMTOQuTbcAAEWY5.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "都在讨论OUSD对合规稳定币格局的影响，但没有人能说清楚OpenStandard是一家什么样的公司？这恰恰应该是最关键的因素，一个项目一家公司能不能做起来还是要聚焦这家公司的基本面。聊聊几个问题：\n1、OpenStandard是一家什么样的公司？\n关于OUSD的背后发行商OpenStandard并没有公布其股权架构和管理团队。现在唯一公开的是Stripe收购的跨链桥Brigdge的CEO Zach Abrams现在兼任着OpenStandard的创始CEO。\n\n所以个人有理由相信OUSD是Stripe系（通过 Zach Abrams）牵头、联合大量传统金融和科技巨头共同打造的一个“行业共享基础设施”项目。\n它既有 Stripe 明显的战略意图（扩展 Bridge 的能力、抢占稳定币支付网络），又有广泛的联盟背书（140+ 公司），属于“Stripe 带头 + 大家一起玩”的模式。\n\nStripe 收购 Bridge后，通过Zach Abrams把 Bridge的稳定币基础设施能力延伸到了一个更大的行业联盟里，相当于用一个“中立外壳”把 Stripe 的影响扩大到 Visa、Mastercard、BlackRock、Coinbase 等 140 多家机构。\n\n然后Stripe也一直在大力推动稳定币支付基础设施。\n\n可以认为它是 Stripe 攒的局（尤其是从战略意图和核心操盘人来看）。当然更准确地说，它是一个 Stripe 主导的行业联盟项目。\n\n2、既然是Stripe牵头的行业联盟，这么多参与方都是真心想跟它一起玩耍么？\nOpen USD 的140多个行业合作伙伴里，真心程度可能差异很大，\n1）最可能真心共建的机构（高动力）\n这些机构能直接从 OUSD 的储备收益共享机制中获益，动力最强：\n中小银行、支付处理器、电商/商户平台（如 Shopify、DoorDash、Ramp、Brex、OnePay 等）他们以前用 USDC/USDT 时，储备利息基本被发行方赚走。现在采用 OUSD 后，自己分发的量越大，能拿到的储备收益越多。这形成了直接的经济激励。\n\n2）战略性/观望参与的机构（动机复杂）\n这些是大玩家，参与更多是对冲 + 影响力 + 选项权：\n这里Visa 和 Mastercard是最关键的两个，他们已经公开支持并把 OUSD 视为“开放基础设施”。但大概率是“既要又要”——坐在董事会里影响规则、获得数据洞察、防止被 Stripe 完全主导，同时保持自己现有业务不受冲击。\n\nBlackRock 等资产管理巨头\n他们更关心储备资产管理和合规性。OUSD 的多方治理和监管友好定位对他们有吸引力，但不会把全部资源押在这上面。\n\n传统大银行（BNY、Standard Chartered、BBVA 等），参与主要是为了“有席位”和未来选项。目前稳定币对他们还是辅助业务。\n\n3）向coinbase这样的机构、下午的推文有详细聊过，明显usdc给coinbase的利益更大。\n\n3、这就有了潜在阻碍“真心共建”的因素\n1）直接竞争关系，Visa/Mastercard 和 Stripe 在支付领域是竞争对手。他们不太可能把核心流量和影响力全部让给 Stripe 主导的项目。\n\n2）类似 Libra/Diem 这种大联盟最终失败，就是因为参与方利益冲突太大。\n\n3）治理博弈风险，140+ 伙伴董事会里，决策可能慢、妥协多，甚至被少数大玩家（包括 Stripe）影响。核心就是利益冲突带来的治理博弈。\n\n当然因为是Stripe主导，还是会有很多中小银行、支付处理器、电商平台是真心参与其中、那么可以期待OUSD确实能做到一定规模。但是真正能做到多大？还要看落地执行的节奏和效果了。",
+        "contentHtml": "都在讨论OUSD对合规稳定币格局的影响，但没有人能说清楚OpenStandard是一家什么样的公司？这恰恰应该是最关键的因素，一个项目一家公司能不能做起来还是要聚焦这家公司的基本面。聊聊几个问题：\n1、OpenStandard是一家什么样的公司？\n关于OUSD的背后发行商OpenStandard并没有公布其股权架构和管理团队。现在唯一公开的是Stripe收购的跨链桥Brigdge的CEO Zach Abrams现在兼任着OpenStandard的创始CEO。\n\n所以个人有理由相信OUSD是Stripe系（通过 Zach Abrams）牵头、联合大量传统金融和科技巨头共同打造的一个“行业共享基础设施”项目。\n它既有 Stripe 明显的战略意图（扩展 Bridge 的能力、抢占稳定币支付网络），又有广泛的联盟背书（140+ 公司），属于“Stripe 带头 + 大家一起玩”的模式。\n\nStripe 收购 Bridge后，通过Zach Abrams把 Bridge的稳定币基础设施能力延伸到了一个更大的行业联盟里，相当于用一个“中立外壳”把 Stripe 的影响扩大到 Visa、Mastercard、BlackRock、Coinbase 等 140 多家机构。\n\n然后Stripe也一直在大力推动稳定币支付基础设施。\n\n可以认为它是 Stripe 攒的局（尤其是从战略意图和核心操盘人来看）。当然更准确地说，它是一个 Stripe 主导的行业联盟项目。\n\n2、既然是Stripe牵头的行业联盟，这么多参与方都是真心想跟它一起玩耍么？\nOpen USD 的140多个行业合作伙伴里，真心程度可能差异很大，\n1）最可能真心共建的机构（高动力）\n这些机构能直接从 OUSD 的储备收益共享机制中获益，动力最强：\n中小银行、支付处理器、电商/商户平台（如 Shopify、DoorDash、Ramp、Brex、OnePay 等）他们以前用 USDC/USDT 时，储备利息基本被发行方赚走。现在采用 OUSD 后，自己分发的量越大，能拿到的储备收益越多。这形成了直接的经济激励。\n\n2）战略性/观望参与的机构（动机复杂）\n这些是大玩家，参与更多是对冲 + 影响力 + 选项权：\n这里Visa 和 Mastercard是最关键的两个，他们已经公开支持并把 OUSD 视为“开放基础设施”。但大概率是“既要又要”——坐在董事会里影响规则、获得数据洞察、防止被 Stripe 完全主导，同时保持自己现有业务不受冲击。\n\nBlackRock 等资产管理巨头\n他们更关心储备资产管理和合规性。OUSD 的多方治理和监管友好定位对他们有吸引力，但不会把全部资源押在这上面。\n\n传统大银行（BNY、Standard Chartered、BBVA 等），参与主要是为了“有席位”和未来选项。目前稳定币对他们还是辅助业务。\n\n3）向coinbase这样的机构、下午的推文有详细聊过，明显usdc给coinbase的利益更大。\n\n3、这就有了潜在阻碍“真心共建”的因素\n1）直接竞争关系，Visa/Mastercard 和 Stripe 在支付领域是竞争对手。他们不太可能把核心流量和影响力全部让给 Stripe 主导的项目。\n\n2）类似 Libra/Diem 这种大联盟最终失败，就是因为参与方利益冲突太大。\n\n3）治理博弈风险，140+ 伙伴董事会里，决策可能慢、妥协多，甚至被少数大玩家（包括 Stripe）影响。核心就是利益冲突带来的治理博弈。\n\n当然因为是Stripe主导，还是会有很多中小银行、支付处理器、电商平台是真心参与其中、那么可以期待OUSD确实能做到一定规模。但是真正能做到多大？还要看落地执行的节奏和效果了。",
+        "link": "https://x.com/qinbafrank/status/2072324896063943104",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMJgW1jbwAATQXh.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMJgW1hbEAAFZPo.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2073008170042020213",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Looks like $BTC is going for them low leverage shorts. \n\n62-64K is going to be the area to watch. \n\nUnable to flip this price region & we likely trend right back down sub-60K. \n\nRemember, we're in a range, so the primary objective is to hunt liquidity.",
+      "contentHtml": "Looks like <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> is going for them low leverage shorts. \n\n62-64K is going to be the area to watch. \n\nUnable to flip this price region &amp; we likely trend right back down sub-60K. \n\nRemember, we're in a range, so the primary objective is to hunt liquidity.",
+      "publishedAt": "2026-07-03T11:37:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2073008170042020213",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMTNJDOWkAAChTV.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2073006369285001611",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "中国证监会就完善上市公司再融资规则公开征求意见 主要修改内容如下： 一是建立再融资定向增发储架发行制度。信息披露工作规范程度较高的上市公司申请竞价定增的，可采取一次注册、多次发行方式，更好适应双边市场特征，便利上市公司迅速抓住市场时机实施融资，引导其理性融资、有序融资，减少一次性大额融资对市场的扰动。 二是优化小额快速再融资制度，在拟融资规模不超过净资产20%的前提下，沪深交易所上市公司小额快速融资上限从3亿元提升至6亿元，净资产超过100亿元的特大型企业小额快速融资上限提升至10亿元；北交所上市公司小额快速融资上限从1亿元提升至2亿元。同时，将小额快速再融资由上市公司年度股东会授权修改为上市公司股东会授权，提高融资灵活性。 三是实行统一的市价发行定价机制。要求所有上市公司定增须以发行期首日作为定价基准日确定发行价格，推动定价市场化，并完善锁定期安排，更加体现对中小投资者的保护。 四是简化上市公司向控股股东定增条件。支持运行规范、不存在严重失信行为的实际控制人、控股股东参与上市公司定增，发挥控股股东对上市公司的支持作用，帮助上市公司长期持续稳定发展。同时，将此类发行限售期延长至36个月，发挥市场机制约束作用。 五是强化可转债监管要求。明确沪深可转债与定增、增发、配股适用相同的再融资间隔期要求，并加强对发行可转债相关偿债能力约束的要求。 六是进一步明确募集资金投向主业等监管要求。优化财务性投资等相关要求，进一步强调募集资金应当投向主业。",
+      "contentHtml": "中国证监会就完善上市公司再融资规则公开征求意见 主要修改内容如下： 一是建立再融资定向增发储架发行制度。信息披露工作规范程度较高的上市公司申请竞价定增的，可采取一次注册、多次发行方式，更好适应双边市场特征，便利上市公司迅速抓住市场时机实施融资，引导其理性融资、有序融资，减少一次性大额融资对市场的扰动。 二是优化小额快速再融资制度，在拟融资规模不超过净资产20%的前提下，沪深交易所上市公司小额快速融资上限从3亿元提升至6亿元，净资产超过100亿元的特大型企业小额快速融资上限提升至10亿元；北交所上市公司小额快速融资上限从1亿元提升至2亿元。同时，将小额快速再融资由上市公司年度股东会授权修改为上市公司股东会授权，提高融资灵活性。 三是实行统一的市价发行定价机制。要求所有上市公司定增须以发行期首日作为定价基准日确定发行价格，推动定价市场化，并完善锁定期安排，更加体现对中小投资者的保护。 四是简化上市公司向控股股东定增条件。支持运行规范、不存在严重失信行为的实际控制人、控股股东参与上市公司定增，发挥控股股东对上市公司的支持作用，帮助上市公司长期持续稳定发展。同时，将此类发行限售期延长至36个月，发挥市场机制约束作用。 五是强化可转债监管要求。明确沪深可转债与定增、增发、配股适用相同的再融资间隔期要求，并加强对发行可转债相关偿债能力约束的要求。 六是进一步明确募集资金投向主业等监管要求。优化财务性投资等相关要求，进一步强调募集资金应当投向主业。",
+      "publishedAt": "2026-07-03T11:30:00.000Z",
+      "link": "https://x.com/hazenlee/status/2073006369285001611",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMTMTF3aIAAi3C9.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2073001125444243827",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#BTC #SOL \n\n我入了一些比特币和SOL的多单\n看好一个小反弹，按照震荡的逻辑来做，入场逻辑是\n\n1. 非农利好，缓解了加息预期\n2. 沃什发言变的没那么鹰，因为数据层面在好转\n3. 风险资产随着加息预期下降，价格自然上涨，包括黄金 \n     白银的逻辑也一样\n4. 美伊缓解，原油下跌，接下来的CPI数据会继续利好\n5. SOL是因为汇率走的比BTC强，也比ETH强\n\n已经盈利了，下周看看情况再晒单 🙃🙃🙃",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> <a href=\"/search?f=tweets&q=%23SOL\">#SOL</a> \n\n我入了一些比特币和SOL的多单\n看好一个小反弹，按照震荡的逻辑来做，入场逻辑是\n\n1. 非农利好，缓解了加息预期\n2. 沃什发言变的没那么鹰，因为数据层面在好转\n3. 风险资产随着加息预期下降，价格自然上涨，包括黄金 \n     白银的逻辑也一样\n4. 美伊缓解，原油下跌，接下来的CPI数据会继续利好\n5. SOL是因为汇率走的比BTC强，也比ETH强\n\n已经盈利了，下周看看情况再晒单 🙃🙃🙃",
+      "publishedAt": "2026-07-03T11:09:00.000Z",
+      "link": "https://x.com/dongbimao/status/2073001125444243827",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2072996096528548131",
       "username": "JoshuaDeuk",
@@ -1188,6 +1283,10 @@
           "url": "https://pbs.twimg.com/media/HMRHQ9WbgAAkL8M.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -1596,6 +1695,32 @@
       "contentHtml": "年初在X直播里被反复同一个人告知必须买白银，当时市场的故事线是白银是AI基建必不可少的工业原料，听着挺有道理的，很多错过黄金的也去追白银。\n买在没人关注的时候等待期是寂寞的，因为你也不知道需要等多久，但你知道这个价格是便宜的，市场终会看到他。反过来，给别人抬轿子的事情我从不干，即使我认同长期的看法，同时我知道很多短期的参与者分不清基本面和故事线。",
       "publishedAt": "2026-07-02T17:17:00.000Z",
       "link": "https://x.com/TJ_Research/status/2072731328353620051",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2072729795247698084",
+      "username": "spencerpratt",
+      "displayName": "Spencer Pratt",
+      "avatar": "https://pbs.twimg.com/profile_images/2043484616439595008/HNMqir29_bigger.jpg",
+      "content": "A lot of morons don't understand that communism IS socialism. And they lie to pretend it's not a distinction without a difference.\n\n\"Democrat Socialist\" is to communists what \"National Socialist\" was to Nazis.\n\nSocialism is the thin velvet glove for the iron fist.",
+      "contentHtml": "A lot of morons don't understand that communism IS socialism. And they lie to pretend it's not a distinction without a difference.\n\n\"Democrat Socialist\" is to communists what \"National Socialist\" was to Nazis.\n\nSocialism is the thin velvet glove for the iron fist.",
+      "publishedAt": "2026-07-02T17:11:00.000Z",
+      "link": "https://x.com/spencerpratt/status/2072729795247698084",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "thestustustudio",
+        "displayName": "Stu Smith",
+        "content": "🚨 Media figures rushed to fact-check Trump by insisting Democratic Socialism is not Communism.\n\nBut a majority of DSA’s national leadership is shaped by Communists, Marxist-Leninists, and members who see the org as fertile ground for radicalization.\n\nMy latest for @CityJournal!",
+        "contentHtml": "🚨 Media figures rushed to fact-check Trump by insisting Democratic Socialism is not Communism.\n\nBut a majority of DSA’s national leadership is shaped by Communists, Marxist-Leninists, and members who see the org as fertile ground for radicalization.\n\nMy latest for <a href=\"/CityJournal\" title=\"City Journal\">@CityJournal</a>!",
+        "link": "https://x.com/thestustustudio/status/2072532534995374456"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -7154,25 +7279,6 @@
       }
     },
     {
-      "id": "2071947348096450960",
-      "username": "Yanakz3",
-      "displayName": "BitCow",
-      "avatar": "https://pbs.twimg.com/profile_images/1354868418290180096/Fk2UOF-h_bigger.jpg",
-      "content": "坚持自己的交易思路中，有一个很大的障碍就是社媒（包括交流群）刷得太多了。\n你本来持有高位空单，结果刷到一堆KOL跟你说，“下跌动能正在减弱”，“多头持仓开始聚集”，“感觉跌不动了”。然后你就开始心虚了，把仓位草草平掉，最终在震荡里迷失了自我。\n踏马的你连他们怎么得出这些结论的都不知道，难道要真金白银去给别人做验证吗？客观上任何数据都不能归纳出上面那种结论。\n\n我不是在嘲讽其他老师，尊重不同的看法是做交易的基本素质。因为同样的可能会是，你本来58K抄了个血底，结果看到我说60K也不平仓，准备继续滚仓干，然后你就心虚开始做空，结果市场暴力反弹给你干了个爽。\n\n我觉得你必须得先验证自己的交易思路，在长期运行中是可行的，在这之前别人的看法就是纯噪音，必须摒弃。如果你认为别人的看法确实会有一定价值，那么包括我在内的博主们，完全可以是你交易策略中的一个参数，而不是最终决策。",
-      "contentHtml": "坚持自己的交易思路中，有一个很大的障碍就是社媒（包括交流群）刷得太多了。\n你本来持有高位空单，结果刷到一堆KOL跟你说，“下跌动能正在减弱”，“多头持仓开始聚集”，“感觉跌不动了”。然后你就开始心虚了，把仓位草草平掉，最终在震荡里迷失了自我。\n踏马的你连他们怎么得出这些结论的都不知道，难道要真金白银去给别人做验证吗？客观上任何数据都不能归纳出上面那种结论。\n\n我不是在嘲讽其他老师，尊重不同的看法是做交易的基本素质。因为同样的可能会是，你本来58K抄了个血底，结果看到我说60K也不平仓，准备继续滚仓干，然后你就心虚开始做空，结果市场暴力反弹给你干了个爽。\n\n我觉得你必须得先验证自己的交易思路，在长期运行中是可行的，在这之前别人的看法就是纯噪音，必须摒弃。如果你认为别人的看法确实会有一定价值，那么包括我在内的博主们，完全可以是你交易策略中的一个参数，而不是最终决策。",
-      "publishedAt": "2026-06-30T13:21:00.000Z",
-      "link": "https://x.com/Yanakz3/status/2071947348096450960",
-      "retweet": {
-        "username": "yuren477",
-        "displayName": "余人sama"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2071946713758396660",
       "username": "octopusycc",
       "displayName": "大老师Bugsbunny ｜DRAM UP only",
@@ -11763,113 +11869,6 @@
             "url": "https://pbs.twimg.com/media/HLt8KroaEAAcE8g.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070705922826285415",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "「曾做空 1.65 亿美元 $BTC 和 $ETH 的巨鲸」昨天凌晨平仓止盈获利 327.7 万美元后，昨晚再次开启价值 7076 万美元的空单🙌\n\n目前持有 912.93 枚 BTC（5498 万美元）和 1 万枚 ETH（1583 万美元）的空单，开仓价分别为 $59137 和 $1532，已浮亏 141.8 万美元\n\n传送门 👉 d.pro/portfolio/0xaeaab54bbf…",
-      "contentHtml": "「曾做空 1.65 亿美元 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 和 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的巨鲸」昨天凌晨平仓止盈获利 327.7 万美元后，昨晚再次开启价值 7076 万美元的空单🙌\n\n目前持有 912.93 枚 BTC（5498 万美元）和 1 万枚 ETH（1583 万美元）的空单，开仓价分别为 $59137 和 $1532，已浮亏 141.8 万美元\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0xaeaab54bbf65bfd6efed7d2eb68372298e3c2416\">d.pro/portfolio/0xaeaab54bbf…</a>",
-      "publishedAt": "2026-06-27T03:08:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2070705922826285415",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLyf1NfaQAAPW5P.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070695022689935698",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "最配合美国政府的OpenAI都开始认为白宫对前沿模型限制的做法有问题。这次GPT5.6发布，OpenAI也面临了跟Authropic发布Fable5和mythos时同样的问题，就是美国政府对前沿模型的限制。\n\n官方文章表示目前因美国政府要求，仅向 Codex 和 API 中的一小群可信合作伙伴提供有限预览。对此，OpenAI 明确表示：“我们不认为这种政府访问流程应成为长期默认做法。”\n\n但是这一次GPT5.6也表示Sol 是目前最强网络安全模型，显著提升长时程安全任务的性能-效率前沿。\n1）擅长识别漏洞和原语（在 Chromium/Firefox 中），但不会生成完整攻击链，未跨越 Preparedness Framework 的“Cyber Critical”门槛。\n2）帮助防御者（找漏洞、打补丁），同时限制攻击性使用。\n3）加强实时防护，针对高风险网络活动和重复滥用。\n\n还是上次Authropic面临美国政府管控时聊到的，很明显AI已经是战略级资产，上个世纪的冷战核武器是杀手锏，这个时代国家的博弈AI才是那个核武器。\n1）最强AI模型现在被正式当作战略技术，像芯片一样严格管制出口。目的是防止其他国家（很明显东大就是首当其冲）获得最先进的AI能力（尤其是网络安全、agent能力等双用技术）。\n\n2）这其实与核不扩散逻辑几乎一模一样：前沿AI能力被美国政府视为不能让“外国势力”随便获得的战略资产。\n\n3）未来美国最顶级前沿模型可能只对美国及其盟友的“可信实体”开放（类似Mythos 5最初给政府合作伙伴用）。商业公司会被迫配合政府管制。\n\n全球AI分裂加剧：\n美国用出口管制+算力限制卡脖子；\n东大则大力发展本土模型、算力和开源路线。\n未来AI领域的脱钩也势成必然。\n\n今天OpenAI也面临这个问题，之前Authropic信心满满认为很快就能解除管制、看消息白宫都不愿意跟DarioAmodei谈了（认为他不关心白宫的关切），Authropic已经换了一个高管负责跟对接。\n\n这仅仅是政府与商业公司在AI监管领域博弈的开始，远没到高潮；\n更核心是技术奇点信仰者跟政治领导人监管层视角的分化开始。\n未来博弈会越来越多。",
-      "contentHtml": "最配合美国政府的OpenAI都开始认为白宫对前沿模型限制的做法有问题。这次GPT5.6发布，OpenAI也面临了跟Authropic发布Fable5和mythos时同样的问题，就是美国政府对前沿模型的限制。\n\n官方文章表示目前因美国政府要求，仅向 Codex 和 API 中的一小群可信合作伙伴提供有限预览。对此，OpenAI 明确表示：“我们不认为这种政府访问流程应成为长期默认做法。”\n\n但是这一次GPT5.6也表示Sol 是目前最强网络安全模型，显著提升长时程安全任务的性能-效率前沿。\n1）擅长识别漏洞和原语（在 Chromium/Firefox 中），但不会生成完整攻击链，未跨越 Preparedness Framework 的“Cyber Critical”门槛。\n2）帮助防御者（找漏洞、打补丁），同时限制攻击性使用。\n3）加强实时防护，针对高风险网络活动和重复滥用。\n\n还是上次Authropic面临美国政府管控时聊到的，很明显AI已经是战略级资产，上个世纪的冷战核武器是杀手锏，这个时代国家的博弈AI才是那个核武器。\n1）最强AI模型现在被正式当作战略技术，像芯片一样严格管制出口。目的是防止其他国家（很明显东大就是首当其冲）获得最先进的AI能力（尤其是网络安全、agent能力等双用技术）。\n\n2）这其实与核不扩散逻辑几乎一模一样：前沿AI能力被美国政府视为不能让“外国势力”随便获得的战略资产。\n\n3）未来美国最顶级前沿模型可能只对美国及其盟友的“可信实体”开放（类似Mythos 5最初给政府合作伙伴用）。商业公司会被迫配合政府管制。\n\n全球AI分裂加剧：\n美国用出口管制+算力限制卡脖子；\n东大则大力发展本土模型、算力和开源路线。\n未来AI领域的脱钩也势成必然。\n\n今天OpenAI也面临这个问题，之前Authropic信心满满认为很快就能解除管制、看消息白宫都不愿意跟DarioAmodei谈了（认为他不关心白宫的关切），Authropic已经换了一个高管负责跟对接。\n\n这仅仅是政府与商业公司在AI监管领域博弈的开始，远没到高潮；\n更核心是技术奇点信仰者跟政治领导人监管层视角的分化开始。\n未来博弈会越来越多。",
-      "publishedAt": "2026-06-27T02:25:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2070695022689935698",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLyV0araAAA13wT.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "今天Authropic被美国政府强制要求全球禁用Fable5和Mythos5的所有访问权限，意味着：美国政府正在用出口管制手段，直接干预前沿AI模型的全球部署，把最先进的AI视为国家安全战略资产。很明显AI已经是战略级资产，上个世纪的冷战核武器是杀手锏，这个时代国家的博弈AI才是那个核武器。\n1、最强AI模型现在被正式当作战略技术，像芯片一样严格管制出口。目的是防止其他国家（很明显东大就是首当其冲）获得最先进的AI能力（尤其是网络安全、agent能力等双用技术）。\n\n2、上个世纪冷战中\n拥有核武器的国家拥有“相互确保摧毁”（MAD）的终极威慑力，核扩散被视为头号国家安全威胁。美国通过出口管制、技术封锁、国际条约（如NPT）拼命阻止非核国家获得核能力。\n\n当今AI（尤其是最前沿模型）能带来全领域压倒性优势——经济生产力爆炸式增长、军事决策/自主武器/网络战/情报分析/后勤优化等。领先一方可以在长期竞争中“降维打击”对手。失去AI领先地位，就可能像冷战中失去核优势一样，战略被动。\n\n所以今天美国政府强制Authropic封禁Fable5和Mythos5的所有访问权限，这其实与核不扩散逻辑几乎一模一样：前沿AI能力被美国政府视为不能让“外国势力”随便获得的战略资产。\n\n这也是事实上的单边版“AI非扩散机制”（当年的NPT  《不扩散核武器条约》是多边条约）。\n\n3、未来美国最顶级前沿模型可能只对美国及其盟友的“可信实体”开放（类似Mythos 5最初给政府合作伙伴用）。商业公司会被迫配合政府管制。\n\n全球AI分裂加剧，美国用出口管制+算力限制卡脖子；\n东大则大力发展本土模型和开源路线。\n未来AI领域的脱钩也势成必然。",
-        "contentHtml": "今天Authropic被美国政府强制要求全球禁用Fable5和Mythos5的所有访问权限，意味着：美国政府正在用出口管制手段，直接干预前沿AI模型的全球部署，把最先进的AI视为国家安全战略资产。很明显AI已经是战略级资产，上个世纪的冷战核武器是杀手锏，这个时代国家的博弈AI才是那个核武器。\n1、最强AI模型现在被正式当作战略技术，像芯片一样严格管制出口。目的是防止其他国家（很明显东大就是首当其冲）获得最先进的AI能力（尤其是网络安全、agent能力等双用技术）。\n\n2、上个世纪冷战中\n拥有核武器的国家拥有“相互确保摧毁”（MAD）的终极威慑力，核扩散被视为头号国家安全威胁。美国通过出口管制、技术封锁、国际条约（如NPT）拼命阻止非核国家获得核能力。\n\n当今AI（尤其是最前沿模型）能带来全领域压倒性优势——经济生产力爆炸式增长、军事决策/自主武器/网络战/情报分析/后勤优化等。领先一方可以在长期竞争中“降维打击”对手。失去AI领先地位，就可能像冷战中失去核优势一样，战略被动。\n\n所以今天美国政府强制Authropic封禁Fable5和Mythos5的所有访问权限，这其实与核不扩散逻辑几乎一模一样：前沿AI能力被美国政府视为不能让“外国势力”随便获得的战略资产。\n\n这也是事实上的单边版“AI非扩散机制”（当年的NPT  《不扩散核武器条约》是多边条约）。\n\n3、未来美国最顶级前沿模型可能只对美国及其盟友的“可信实体”开放（类似Mythos 5最初给政府合作伙伴用）。商业公司会被迫配合政府管制。\n\n全球AI分裂加剧，美国用出口管制+算力限制卡脖子；\n东大则大力发展本土模型和开源路线。\n未来AI领域的脱钩也势成必然。",
-        "link": "https://x.com/qinbafrank/status/2065726707928330552",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKrsoI3awAAP6HR.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKrspxCbUAARpcz.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070690743149285556",
-      "username": "BrendanFoody",
-      "displayName": "Brendan (can/do)",
-      "avatar": "https://pbs.twimg.com/profile_images/1906589691388043264/3ptOiVLO_bigger.jpg",
-      "content": "This is the best way to end America's entrepreneurial culture.\n\nMost founders I know endure 100+ hours of work/week because they are obsessed with their mission and the impact they can have on the world.\n\nThey make < $100K / year, fly economy, and live modest lives. The average American doesn't want their life.\n\nJust because their company's valuation is growing doesn't mean they are \"wealthy\".\n\nWhen you impose a > $100M tax on illiquid stock, they will declare bankruptcy or flee the country.",
-      "contentHtml": "This is the best way to end America's entrepreneurial culture.\n\nMost founders I know endure 100+ hours of work/week because they are obsessed with their mission and the impact they can have on the world.\n\nThey make &lt; $100K / year, fly economy, and live modest lives. The average American doesn't want their life.\n\nJust because their company's valuation is growing doesn't mean they are \"wealthy\".\n\nWhen you impose a &gt; $100M tax on illiquid stock, they will declare bankruptcy or flee the country.",
-      "publishedAt": "2026-06-27T02:08:00.000Z",
-      "link": "https://x.com/BrendanFoody/status/2070690743149285556",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "GavinNewsom",
-        "displayName": "Gavin Newsom",
-        "content": "It's time for a national billionaires tax and a new social contract.\n\n10% of Americans own two-thirds of the wealth. Wages have stagnated. The cost of living has skyrocketed. \n\nThe system is fundamentally broken.\n\nThe federal tax code, a corporate code, and an inheritance code were written for a different set of Americans. \n\nIt’s time for an economic reset.\n\nsubstack.com/@gavinnewsom",
-        "contentHtml": "It's time for a national billionaires tax and a new social contract.\n\n10% of Americans own two-thirds of the wealth. Wages have stagnated. The cost of living has skyrocketed. \n\nThe system is fundamentally broken.\n\nThe federal tax code, a corporate code, and an inheritance code were written for a different set of Americans. \n\nIt’s time for an economic reset.\n\n<a href=\"http://substack.com/@gavinnewsom\">substack.com/@gavinnewsom</a>",
-        "link": "https://x.com/GavinNewsom/status/2070496029280276571"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070672914668757381",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "GPT 5.6发布，三个版本：\n下一代前沿模型叫Sol；\n高效日常工作的平衡模型叫Terra\n快速价格实惠的高容量模型叫Luna；\n看到这三个名字，经历过21-22年加密周期的童鞋一脸懵😧",
-      "contentHtml": "GPT 5.6发布，三个版本：\n下一代前沿模型叫Sol；\n高效日常工作的平衡模型叫Terra\n快速价格实惠的高容量模型叫Luna；\n看到这三个名字，经历过21-22年加密周期的童鞋一脸懵😧",
-      "publishedAt": "2026-06-27T00:57:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2070672914668757381",
-      "quote": {
-        "username": "OpenAI",
-        "displayName": "OpenAI",
-        "content": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.\n\nopenai.com/index/previewing-…",
-        "contentHtml": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.\n\n<a href=\"https://openai.com/index/previewing-gpt-5-6-sol/\">openai.com/index/previewing-…</a>",
-        "link": "https://x.com/OpenAI/status/2070555272230384038"
       },
       "stats": {
         "replies": 0,
