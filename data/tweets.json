@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T11:52:27.505Z",
+  "lastUpdated": "2026-07-03T12:45:33.624Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,73 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 625,
-    "successUsers": 31,
-    "failedUsers": 1
+    "newFetched": 646,
+    "successUsers": 32,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2073017657063022953",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "一个个都说不打，这下squid打了2000万都是谁在打。骗群友是吧",
+      "contentHtml": "一个个都说不打，这下squid打了2000万都是谁在打。骗群友是吧",
+      "publishedAt": "2026-07-03T12:14:00.000Z",
+      "link": "https://x.com/0xleng1/status/2073017657063022953",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMTWka9a8AAaZ2y.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "squid最后打了1.3万玩一下盘前70m 为自己的认知买单。legion和海妖都打了一部分。",
+        "contentHtml": "squid最后打了1.3万玩一下盘前70m 为自己的认知买单。legion和海妖都打了一部分。",
+        "link": "https://x.com/0xleng1/status/2072975864229437924",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMSwjxVasAAR3WQ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2073012138390786398",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "周三这篇推文个人以为最有价值的其实是最后部分对Circle股性的思考：\n其一、作为稳定币、RWA、Agent支付三个硬核叙事叠加的标的、其关注度还是很高的；\n其二、现有的业务体量以及创始人及管理团队的积极进取，从基本面角度下方还是有安全垫的；\n其三、在USDC没有完全证明其在合规稳定币的支配地位前，市场还是会担心其未来的竞争格局和行业地位、一出现新的有能力的竞争对手，那么Circle就容易被Fud。\n\n这就导致了Circle在没有完全证明其在合规稳定币领域足够的支配和垄断地位前，它更适合做波段而非趋势。怎么理解？就是跌多了超跌了、其实可以买点，因为有安全边际的。但是涨多了就不能期待他能再更进一步，就得出掉。等到又被fud了、还可以逢低再进。\n\n未来如果市场确认USDC能在合规稳定币领域建立足够强的支配地位后，那么才能出现像样的趋势行情来。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "周三这篇推文个人以为最有价值的其实是最后部分对Circle股性的思考：\n其一、作为稳定币、RWA、Agent支付三个硬核叙事叠加的标的、其关注度还是很高的；\n其二、现有的业务体量以及创始人及管理团队的积极进取，从基本面角度下方还是有安全垫的；\n其三、在USDC没有完全证明其在合规稳定币的支配地位前，市场还是会担心其未来的竞争格局和行业地位、一出现新的有能力的竞争对手，那么Circle就容易被Fud。\n\n这就导致了Circle在没有完全证明其在合规稳定币领域足够的支配和垄断地位前，它更适合做波段而非趋势。怎么理解？就是跌多了超跌了、其实可以买点，因为有安全边际的。但是涨多了就不能期待他能再更进一步，就得出掉。等到又被fud了、还可以逢低再进。\n\n未来如果市场确认USDC能在合规稳定币领域建立足够强的支配地位后，那么才能出现像样的趋势行情来。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-07-03T11:53:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2073012138390786398",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "昨天这个OUSD发布让Circle大跌，个人角度聊聊OUSD模式以及对Circle的思考。OUSD的优势：\n1）零费用铸造赎回，这个成本优势对机构有一定的吸引力；\n2）稳定币储备收益共享（不再是发行方独享）让合作伙伴有强烈动机推广，有形成飞轮效应的可能性；\n3）visa、master、贝莱德、stripe甚至coinbase等140+传统金融、支付以及加密巨头背书提供即时信任、流动性和分发能力；\n4）中立协作降低单一发行方风险，吸引追求“开放基础设施”的开发者与企业，算是治理优势；\n\n其实潜在挑战也是有的：\n1）联盟治理可能决策较慢（vs 单一公司敏捷性）。很多家公司一起联合，看上去阵容鼎盛声势浩大，但是真正做过企业的都清楚这中间摩擦成本（难免各家机构都有自己的小心思，导致博弈和时间成本大增）；\n2）需快速建立初始流动性和采用率，特别是USDT/USDC 已形成强大网络效应的情况下；\n3）所以执行落地是关键，实际表现要等今年年晚些时候OUSD真正上线来验证了。\n\n再说说对Circle的思考：\n1）最近因为美元流动性的收紧nitter.net/qinbafrank/status/2068…，稳定币USDT和USDC发行量都在下降，幅度还不下。发行量下降，又出现了一个看上去很强大的新竞争者，那么很容易影响情绪，自然也容易被杀跌；\n\n2）Circle就完全没价值了么？应该也不是，毕竟还有七百多亿美金的发行量，在链上、交易所内、贸易金融领域应用场景还是很广泛的。除非usdc发行量未来就完全不增长了、那应该也不是。即使不期待未来几年usdc发行量到大几千亿美金、那么至少两千亿美金上下还是可以期待的；\n\n3）Coinbase也加入了ousd支持方，很多人担心是不是就不支持usdc了。个人角度、Coinbase加入Ousd支持方应该还是防守和布局，ousd的储备收益共享但是usdc的储备收益一半都分给coinbse，从这个角度coinbase在usdc上的利益还是最大的；\n\n4）今天思考最大的一个收获就是Circle的股性：\n其一、作为稳定币、rwa、agent支付三个硬核叙事叠加的标的、其关注度还是很高的；\n其二、现有的业务体量以及创始人及管理团队的积极进取，从基本面角度下方还是有安全垫的；\n其三、在usdc没有完全证明其在合规稳定币的支配地位前，市场还是会担心其未来的竞争格局和行业地位、一出现新的有能力的竞争对手，那么Circle就容易被Fud。\n\n这就导致了Circle在没有完全证明其在合规稳定币领域足够的支配和垄断地位前，它更适合做波段而非趋势。怎么理解？就是跌多了超跌了、其实可以买点，因为有安全边际的。但是涨多了就不能期待他能再更进一步，就得出掉。等到又被fud了、还可以逢低再进。\n\n未来如果市场确认usdc能在合规稳定币领域建立足够强的支配地位后、那么才能出现像样的趋势行情来。",
+        "contentHtml": "昨天这个OUSD发布让Circle大跌，个人角度聊聊OUSD模式以及对Circle的思考。OUSD的优势：\n1）零费用铸造赎回，这个成本优势对机构有一定的吸引力；\n2）稳定币储备收益共享（不再是发行方独享）让合作伙伴有强烈动机推广，有形成飞轮效应的可能性；\n3）visa、master、贝莱德、stripe甚至coinbase等140+传统金融、支付以及加密巨头背书提供即时信任、流动性和分发能力；\n4）中立协作降低单一发行方风险，吸引追求“开放基础设施”的开发者与企业，算是治理优势；\n\n其实潜在挑战也是有的：\n1）联盟治理可能决策较慢（vs 单一公司敏捷性）。很多家公司一起联合，看上去阵容鼎盛声势浩大，但是真正做过企业的都清楚这中间摩擦成本（难免各家机构都有自己的小心思，导致博弈和时间成本大增）；\n2）需快速建立初始流动性和采用率，特别是USDT/USDC 已形成强大网络效应的情况下；\n3）所以执行落地是关键，实际表现要等今年年晚些时候OUSD真正上线来验证了。\n\n再说说对Circle的思考：\n1）最近因为美元流动性的收紧<a href=\"https://nitter.net/qinbafrank/status/2068848917278839020?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2068…</a>，稳定币USDT和USDC发行量都在下降，幅度还不下。发行量下降，又出现了一个看上去很强大的新竞争者，那么很容易影响情绪，自然也容易被杀跌；\n\n2）Circle就完全没价值了么？应该也不是，毕竟还有七百多亿美金的发行量，在链上、交易所内、贸易金融领域应用场景还是很广泛的。除非usdc发行量未来就完全不增长了、那应该也不是。即使不期待未来几年usdc发行量到大几千亿美金、那么至少两千亿美金上下还是可以期待的；\n\n3）Coinbase也加入了ousd支持方，很多人担心是不是就不支持usdc了。个人角度、Coinbase加入Ousd支持方应该还是防守和布局，ousd的储备收益共享但是usdc的储备收益一半都分给coinbse，从这个角度coinbase在usdc上的利益还是最大的；\n\n4）今天思考最大的一个收获就是Circle的股性：\n其一、作为稳定币、rwa、agent支付三个硬核叙事叠加的标的、其关注度还是很高的；\n其二、现有的业务体量以及创始人及管理团队的积极进取，从基本面角度下方还是有安全垫的；\n其三、在usdc没有完全证明其在合规稳定币的支配地位前，市场还是会担心其未来的竞争格局和行业地位、一出现新的有能力的竞争对手，那么Circle就容易被Fud。\n\n这就导致了Circle在没有完全证明其在合规稳定币领域足够的支配和垄断地位前，它更适合做波段而非趋势。怎么理解？就是跌多了超跌了、其实可以买点，因为有安全边际的。但是涨多了就不能期待他能再更进一步，就得出掉。等到又被fud了、还可以逢低再进。\n\n未来如果市场确认usdc能在合规稳定币领域建立足够强的支配地位后、那么才能出现像样的趋势行情来。",
+        "link": "https://x.com/qinbafrank/status/2072218452643983684",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMH_stsbwAAqLVp.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2073008521046872349",
       "username": "qinbafrank",
@@ -7279,6 +7341,25 @@
       }
     },
     {
+      "id": "2071947348096450960",
+      "username": "Yanakz3",
+      "displayName": "BitCow",
+      "avatar": "https://pbs.twimg.com/profile_images/1354868418290180096/Fk2UOF-h_bigger.jpg",
+      "content": "坚持自己的交易思路中，有一个很大的障碍就是社媒（包括交流群）刷得太多了。\n你本来持有高位空单，结果刷到一堆KOL跟你说，“下跌动能正在减弱”，“多头持仓开始聚集”，“感觉跌不动了”。然后你就开始心虚了，把仓位草草平掉，最终在震荡里迷失了自我。\n踏马的你连他们怎么得出这些结论的都不知道，难道要真金白银去给别人做验证吗？客观上任何数据都不能归纳出上面那种结论。\n\n我不是在嘲讽其他老师，尊重不同的看法是做交易的基本素质。因为同样的可能会是，你本来58K抄了个血底，结果看到我说60K也不平仓，准备继续滚仓干，然后你就心虚开始做空，结果市场暴力反弹给你干了个爽。\n\n我觉得你必须得先验证自己的交易思路，在长期运行中是可行的，在这之前别人的看法就是纯噪音，必须摒弃。如果你认为别人的看法确实会有一定价值，那么包括我在内的博主们，完全可以是你交易策略中的一个参数，而不是最终决策。",
+      "contentHtml": "坚持自己的交易思路中，有一个很大的障碍就是社媒（包括交流群）刷得太多了。\n你本来持有高位空单，结果刷到一堆KOL跟你说，“下跌动能正在减弱”，“多头持仓开始聚集”，“感觉跌不动了”。然后你就开始心虚了，把仓位草草平掉，最终在震荡里迷失了自我。\n踏马的你连他们怎么得出这些结论的都不知道，难道要真金白银去给别人做验证吗？客观上任何数据都不能归纳出上面那种结论。\n\n我不是在嘲讽其他老师，尊重不同的看法是做交易的基本素质。因为同样的可能会是，你本来58K抄了个血底，结果看到我说60K也不平仓，准备继续滚仓干，然后你就心虚开始做空，结果市场暴力反弹给你干了个爽。\n\n我觉得你必须得先验证自己的交易思路，在长期运行中是可行的，在这之前别人的看法就是纯噪音，必须摒弃。如果你认为别人的看法确实会有一定价值，那么包括我在内的博主们，完全可以是你交易策略中的一个参数，而不是最终决策。",
+      "publishedAt": "2026-06-30T13:21:00.000Z",
+      "link": "https://x.com/Yanakz3/status/2071947348096450960",
+      "retweet": {
+        "username": "yuren477",
+        "displayName": "余人sama"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2071946713758396660",
       "username": "octopusycc",
       "displayName": "大老师Bugsbunny ｜DRAM UP only",
@@ -11773,100 +11854,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HKbwZ7xbsAAKJ6H.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070710053863317784",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "周一聊到整体流动性还没有大幅度修复的迹象，过去6天内大饼最多跌了接近7500美金；\n\n6月1号早上这里nitter.net/qinbafrank/status/2061…聊到整体流动性减弱，稳定币大幅流出，ETF也大幅度流出，大饼价格会进一步承压。之后6天内大饼最多跌去了1.5万美金（7.4万到5.9万）\n\n看起来下跌力度比起月初稍微好点了、大饼短期内能企稳一把？如果能扛住下周一二近期最脆弱时期(关于最脆弱时期这里nitter.net/qinbafrank/status/2070…有聊过）的最后两天。🤔",
-      "contentHtml": "周一聊到整体流动性还没有大幅度修复的迹象，过去6天内大饼最多跌了接近7500美金；\n\n6月1号早上这里<a href=\"https://nitter.net/qinbafrank/status/2061262592824520739?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2061…</a>聊到整体流动性减弱，稳定币大幅流出，ETF也大幅度流出，大饼价格会进一步承压。之后6天内大饼最多跌去了1.5万美金（7.4万到5.9万）\n\n看起来下跌力度比起月初稍微好点了、大饼短期内能企稳一把？如果能扛住下周一二近期最脆弱时期(关于最脆弱时期这里<a href=\"https://nitter.net/qinbafrank/status/2070509100413411791?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2070…</a>有聊过）的最后两天。🤔",
-      "publishedAt": "2026-06-27T03:25:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2070710053863317784",
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "过去三周稳定币发行量又减少了22亿美金，大饼ETF还是持续净流出。再看美元流动性，6月17号之前一周内：TGA周均为8807亿美元，较前一周增加约526亿美元；同期银行准备金周均为3.033万亿美元，较前一周减少约473亿美元。但6月17日当天，TGA突然飙升9565亿美元，银行准备金则突然下降到2.936万亿美元（核心当天财政部应该大规模发债、接近于千亿美金从银行准备金里被抽走）。当下银行准备金实际上已经回落到2.93万亿美金，流动性进一步低迷。\n\n未来一周多到六月底，看之前财政部计划TGA目标是9000亿美金、其实存在TGA释放回落的可能性：TGA释放500亿美金，准备金上升到2.98或者接近3万亿美金的规模。\n但月底财政部发债计划也没停止，特别是月底最后一天财政部发行短债的规模也不小。\n\n三周前6月1号早上聊到整体流动性减弱，稳定币大幅流出，ETF也大幅度流出，大饼价格会进一步承压。然后6月1号到6号短短6天内大饼最多跌去了1.5万美金（7.4万到5.9万）。\n\n现在还没看到整体流动性有大幅度修复的迹象。",
-        "contentHtml": "过去三周稳定币发行量又减少了22亿美金，大饼ETF还是持续净流出。再看美元流动性，6月17号之前一周内：TGA周均为8807亿美元，较前一周增加约526亿美元；同期银行准备金周均为3.033万亿美元，较前一周减少约473亿美元。但6月17日当天，TGA突然飙升9565亿美元，银行准备金则突然下降到2.936万亿美元（核心当天财政部应该大规模发债、接近于千亿美金从银行准备金里被抽走）。当下银行准备金实际上已经回落到2.93万亿美金，流动性进一步低迷。\n\n未来一周多到六月底，看之前财政部计划TGA目标是9000亿美金、其实存在TGA释放回落的可能性：TGA释放500亿美金，准备金上升到2.98或者接近3万亿美金的规模。\n但月底财政部发债计划也没停止，特别是月底最后一天财政部发行短债的规模也不小。\n\n三周前6月1号早上聊到整体流动性减弱，稳定币大幅流出，ETF也大幅度流出，大饼价格会进一步承压。然后6月1号到6号短短6天内大饼最多跌去了1.5万美金（7.4万到5.9万）。\n\n现在还没看到整体流动性有大幅度修复的迹象。",
-        "link": "https://x.com/qinbafrank/status/2068848917278839020",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLYGrj9aIAAJBg4.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLYGrj8bkAAjlc5.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070709274771366020",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "什么地狱笑话😅\n\nOpenAI 新发布的三个大模型，命名分别为\nSol / Terra / Luna\n\nLUNA 持币人大型 PTSD 现场，用个 AI 还要挨骂…",
-      "contentHtml": "什么地狱笑话😅\n\nOpenAI 新发布的三个大模型，命名分别为\nSol / Terra / Luna\n\nLUNA 持币人大型 PTSD 现场，用个 AI 还要挨骂…",
-      "publishedAt": "2026-06-27T03:22:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2070709274771366020",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HLyhuDZakAAZ3Sv.jpg"
-        }
-      ],
-      "quote": {
-        "username": "OpenAI",
-        "displayName": "OpenAI",
-        "content": "Sol is our new flagship and a step function better than GPT-5.5.\n\nTerra delivers performance competitive to GPT-5.5 at 2x lower cost.\n\nLuna is our most cost-efficient model, delivering strong capability at our lowest cost.\n\nTogether, the GPT-5.6 family gives people and developers more choice in how they balance intelligence, speed, and cost.",
-        "contentHtml": "Sol is our new flagship and a step function better than GPT-5.5.\n\nTerra delivers performance competitive to GPT-5.5 at 2x lower cost.\n\nLuna is our most cost-efficient model, delivering strong capability at our lowest cost.\n\nTogether, the GPT-5.6 family gives people and developers more choice in how they balance intelligence, speed, and cost.",
-        "link": "https://x.com/OpenAI/status/2070555274835046430",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLwVmzhbAAAeIPi.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2070707981340352681",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#开源\n\n在 GitHub 上做开源，是为了上更贵的班。\n\n我相信这个是现实世界运行的逻辑，并且这样很好，非常好。\n\n有能力的人获得更高的名气，从而获得更高的报酬。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23开源\">#开源</a>\n\n在 GitHub 上做开源，是为了上更贵的班。\n\n我相信这个是现实世界运行的逻辑，并且这样很好，非常好。\n\n有能力的人获得更高的名气，从而获得更高的报酬。",
-      "publishedAt": "2026-06-27T03:17:00.000Z",
-      "link": "https://x.com/taresky/status/2070707981340352681",
-      "quote": {
-        "username": "yanhua1010",
-        "displayName": "Yanhua",
-        "content": "上班真是毒药啊。\n\n强如Andrej Karpathy也因为加入Anthropic，没法继续在Github做开源贡献了😂😂",
-        "contentHtml": "上班真是毒药啊。\n\n强如Andrej Karpathy也因为加入Anthropic，没法继续在Github做开源贡献了😂😂",
-        "link": "https://x.com/yanhua1010/status/2070385184684523766",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLt8KroaEAAcE8g.jpg"
           }
         ]
       },
