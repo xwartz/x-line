@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T13:35:28.114Z",
+  "lastUpdated": "2026-07-04T14:35:41.597Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,110 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 649,
+    "newFetched": 647,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2073415159247474962",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "这段分享里，有些判断值得重视，有些则明显带有情绪化表达。我承认我之前过早看空存储看错了，也踏空了，所以最近一直在反思。看了吕总的分享，站在现在的位置重新思考。\n\n我发现真正需要思考的，不是“HBM有没有技术含量”，而是AI时代，存储第一次成为了地缘政治资产。\n\n过去二十年，存储行业一直遵循经典周期：\n\n需求增长 → 涨价 → 扩产 → 供给过剩 → 跌价 → 减产。\n\n但AI改变了一件事——需求曲线。\n\n大模型训练、推理、Agent、机器人、自动驾驶，本质都在消耗大量DRAM和HBM。过去存储主要服务消费电子，如今最大的客户变成了AI算力。\n\n于是三星、SK海力士、美光把最先进产能优先给HBM，消费级DRAM、NAND反而供给趋紧，这也是近两年存储涨价的重要原因。\n\n但这并不意味着存储会永远上涨。\n\n历史上，没有任何一个高利润制造业能够长期维持超额利润。\n\n利润越高，就越会吸引新的资本、新的国家、新的产业政策进入。\n\n而最大的变量，就是中国。\n\n很多人认为，HBM只是把DRAM堆叠起来，因此没有什么技术门槛。\n\n事实上，这是一个误区。\n\nHBM真正难的不是”堆”，而是”良率”。\n\n它涉及先进DRAM制程、TSV（硅通孔）、超薄晶圆加工、晶圆键合、封装测试，以及与GPU协同验证。\n\n任何一个环节良率下降，都可能导致整颗HBM报废。\n\n所以目前全球真正能够稳定、大规模供应高端HBM的厂商，依然只有少数几家。\n\n真正困难的是把良率做到90%以上，并持续稳定量产，而不是实验室里做出样品。\n\n但另一个趋势同样不能忽视。\n\n未来，中美科技体系正在逐渐形成两套供应链。\n\n最近苹果申请在部分中国市场产品中采用国产存储，就是一个值得关注的信号。\n\n未来不仅存储，甚至AI芯片本身，也可能逐渐形成双版本体系：\n\n中国版：国产GPU + 国产HBM + 国产供应链。\n\n国际版：高算力GPU + 最新HBM + 全球供应链。\n\n这种模式其实已经发生在GPU身上。\n\n未来也完全可能复制到整个AI硬件生态。\n\n届时，市场竞争的不再只是技术，而是两条产业链的效率。\n\n美国追求的是性能领先。\n\n中国追求的是供应链自主。\n\n最终，比拼的不只是芯片速度，更是谁能够更快、更低成本、更稳定地完成整个产业闭环。\n\n所以真正值得关注的，并不是这一轮存储还能涨多久。\n\n而是下一轮周期什么时候开始。\n\n因为一旦中国大规模扩产完成，AI需求增速开始放缓，存储行业依旧可能重新回到那个熟悉的规律：\n\n暴利，终将吸引竞争；竞争，最终消灭暴利。\n\nAI改变了需求，却未必能够改变制造业的周期。\n\n真正改变行业格局的，也许不是HBM本身，而是地缘政治正在重塑整个半导体产业链。",
+      "contentHtml": "这段分享里，有些判断值得重视，有些则明显带有情绪化表达。我承认我之前过早看空存储看错了，也踏空了，所以最近一直在反思。看了吕总的分享，站在现在的位置重新思考。\n\n我发现真正需要思考的，不是“HBM有没有技术含量”，而是AI时代，存储第一次成为了地缘政治资产。\n\n过去二十年，存储行业一直遵循经典周期：\n\n需求增长 → 涨价 → 扩产 → 供给过剩 → 跌价 → 减产。\n\n但AI改变了一件事——需求曲线。\n\n大模型训练、推理、Agent、机器人、自动驾驶，本质都在消耗大量DRAM和HBM。过去存储主要服务消费电子，如今最大的客户变成了AI算力。\n\n于是三星、SK海力士、美光把最先进产能优先给HBM，消费级DRAM、NAND反而供给趋紧，这也是近两年存储涨价的重要原因。\n\n但这并不意味着存储会永远上涨。\n\n历史上，没有任何一个高利润制造业能够长期维持超额利润。\n\n利润越高，就越会吸引新的资本、新的国家、新的产业政策进入。\n\n而最大的变量，就是中国。\n\n很多人认为，HBM只是把DRAM堆叠起来，因此没有什么技术门槛。\n\n事实上，这是一个误区。\n\nHBM真正难的不是”堆”，而是”良率”。\n\n它涉及先进DRAM制程、TSV（硅通孔）、超薄晶圆加工、晶圆键合、封装测试，以及与GPU协同验证。\n\n任何一个环节良率下降，都可能导致整颗HBM报废。\n\n所以目前全球真正能够稳定、大规模供应高端HBM的厂商，依然只有少数几家。\n\n真正困难的是把良率做到90%以上，并持续稳定量产，而不是实验室里做出样品。\n\n但另一个趋势同样不能忽视。\n\n未来，中美科技体系正在逐渐形成两套供应链。\n\n最近苹果申请在部分中国市场产品中采用国产存储，就是一个值得关注的信号。\n\n未来不仅存储，甚至AI芯片本身，也可能逐渐形成双版本体系：\n\n中国版：国产GPU + 国产HBM + 国产供应链。\n\n国际版：高算力GPU + 最新HBM + 全球供应链。\n\n这种模式其实已经发生在GPU身上。\n\n未来也完全可能复制到整个AI硬件生态。\n\n届时，市场竞争的不再只是技术，而是两条产业链的效率。\n\n美国追求的是性能领先。\n\n中国追求的是供应链自主。\n\n最终，比拼的不只是芯片速度，更是谁能够更快、更低成本、更稳定地完成整个产业闭环。\n\n所以真正值得关注的，并不是这一轮存储还能涨多久。\n\n而是下一轮周期什么时候开始。\n\n因为一旦中国大规模扩产完成，AI需求增速开始放缓，存储行业依旧可能重新回到那个熟悉的规律：\n\n暴利，终将吸引竞争；竞争，最终消灭暴利。\n\nAI改变了需求，却未必能够改变制造业的周期。\n\n真正改变行业格局的，也许不是HBM本身，而是地缘政治正在重塑整个半导体产业链。",
+      "publishedAt": "2026-07-04T14:34:00.000Z",
+      "link": "https://x.com/hazenlee/status/2073415159247474962",
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "长期缺存储就是放屁\n只要长江长鑫产能爬坡完毕\n三年内存储烂大街\n什么几把海力士最后的出货机会\n涨价去库存这招屡见不鲜\n一涨什么都对了\n你就使劲儿接盘",
+        "contentHtml": "长期缺存储就是放屁\n只要长江长鑫产能爬坡完毕\n三年内存储烂大街\n什么几把海力士最后的出货机会\n涨价去库存这招屡见不鲜\n一涨什么都对了\n你就使劲儿接盘",
+        "link": "https://x.com/hazenlee/status/2054126133038526664"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2073414400405630981",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "所以还是M会享受\nDirty talk本质就是Beauty talk",
+      "contentHtml": "所以还是M会享受\nDirty talk本质就是Beauty talk",
+      "publishedAt": "2026-07-04T14:31:00.000Z",
+      "link": "https://x.com/hazenlee/status/2073414400405630981",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMY_Z2AaUAAaGPw.jpg"
+        }
+      ],
+      "quote": {
+        "username": "xtony1314",
+        "displayName": "逍遥XTony（恩师张雪峰）",
+        "content": "夸你和骂你，\n本质上是一回事,\n都是别人用他自己的认知来评判你，\n掌声和嘘声，\n本质上都是噪音。",
+        "contentHtml": "夸你和骂你，\n本质上是一回事,\n都是别人用他自己的认知来评判你，\n掌声和嘘声，\n本质上都是噪音。",
+        "link": "https://x.com/xtony1314/status/2073294486462189783"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2073410288238625118",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "再次追加 384 万美元 WBTC！这位朋友低点埋伏已浮盈 359 万美元🤩\n\n新地址 0x268…47643 半小时前再次提出 61.35 枚 WBTC，自 06.30 起已累计建仓 19725.38 $ETH 和 161.35 $WBTC，总价值 4150 万美元\n\n钱包地址 arkm.com/explorer/entity/e8b…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "contentHtml": "再次追加 384 万美元 WBTC！这位朋友低点埋伏已浮盈 359 万美元🤩\n\n新地址 0x268…47643 半小时前再次提出 61.35 枚 WBTC，自 06.30 起已累计建仓 19725.38 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 和 161.35 $WBTC，总价值 4150 万美元\n\n钱包地址 <a href=\"https://arkm.com/explorer/entity/e8b947cd-1121-4834-ad41-ca6d18623939\">arkm.com/explorer/entity/e8b…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "publishedAt": "2026-07-04T14:15:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2073410288238625118",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMY7qFsb0AAVgqu.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "三天囤积 3142 万美元 $ETH 的新地址，又开始囤 WBTC 了😆\n\n新地址 0x268…47643 于 5 小时前从 #Binance 提出 100 WBTC，价值 624 万美元，成为该地址持仓 TOP2 资产；目前 ETH 和 $WBTC 的囤货均价分别为 $1591 和 $62390\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "contentHtml": "三天囤积 3142 万美元 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的新地址，又开始囤 WBTC 了😆\n\n新地址 0x268…47643 于 5 小时前从 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 提出 100 WBTC，价值 624 万美元，成为该地址持仓 TOP2 资产；目前 ETH 和 <a href=\"/search?f=tweets&q=%23WBTC\">$WBTC</a> 的囤货均价分别为 $1591 和 $62390\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "link": "https://x.com/ai_9684xtpa/status/2073222316302192763",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMWQsxDbYAAWASm.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2073408956584837563",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-07-04T14:09:00.000Z",
+      "link": "https://x.com/follow_clues/status/2073408956584837563",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2073398751197016454",
       "username": "KillaXBT",
@@ -11824,118 +11923,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HL4-s5BbYAAqlaE.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2071151529974006162",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "SpaceX为何收购Mesh？不是SpaceX开始站在光里，其实SpaceX的星间激光网络规模已经非常庞大。前两天美国联邦贸易委员会（FTC）已批准马斯克收购Mesh这笔交易被快速通过，属于SpaceX近期一系列并购动作之一，聊聊这笔收购：\n1、Mesh由三位前SpaceX工程师于2025年创立，创始人曾主导Starlink卫星激光星间链路（Inter-Satellite Laser Links）的设计。核心产品就是面向AI数据中心的高速光学收发器（optical transceiver），用光信号代替传统电信号传输数据。\n\n简单说他们把在SpaceX做卫星激光通信的技术，转化成了地面（和未来太空）数据中心用的光模块。\n\n2、SpaceX为什么要收购它？原因无外乎下面几点：\n1）回核心人才 + 技术 三位创始人是SpaceX Starlink激光通信团队的顶尖工程师。他们离开后把这项技术带到了商业化数据中心领域。现在SpaceX通过收购把人+技术一起收回来，避免技术外流。\n\n2）解决AI数据中心最核心的瓶颈：互联功耗和速度 SpaceX目前正在大规模建设地面AI数据中心（田纳西州、密西西比州等地），并已和Anthropic、Google等签订巨额算力合同。 AI集群里成千上万块GPU之间需要极高带宽、低延迟、低功耗的互联。目前电信号互联已经快到物理极限，而光学互联是公认的下一代解决方案。收购Mesh能直接提升SpaceX自家数据中心的能效和性能。\n\n3）为“太空算力”（Orbital Data Center）战略铺路 SpaceX有明确计划在太空部署大规模算力（用卫星做数据中心）。太空环境有天然优势（太阳能免费、散热好），但最大挑战之一就是节点之间的高速通信。\n 而激光/光通信正是SpaceX最擅长的领域（Starlink已经大规模验证）。Mesh的技术本来就源于Starlink激光链路，收购后可以无缝适配到太空场景，实现太空-太空、太空-地面高效光互联。\n\n3、其实还有最重要的因素，很多人忽略SpaceX其实在激光领域布局和应用是最深最广的。\n1）今年spacex的ipo文件就披露截止3月份，拥有超过23,000 inter-satellite lasers」指的是激光器/激光终端数量。一颗卫星上有 3 个激光器，每个激光器和对端的另一个激光器配对，才形成一条可用链路。所以「23,000+ 激光器」对应的活跃星链链路数大致是 1 万条量级。\n\n2）星间激光器（ISL）已经被明确列入产线的标准组件，现在是一个稳态、规模化的工业品，和电源、推进、相控阵天线放在同一层级。\n\n3）SpaceX在ipo文件里明确说到算力卫星最早28年部署，真正值得关注的是轨道选择。太阳同步轨道意味着 AI 算力卫星沿着特定的极轨轨道带分布，过境时间短，不可能像同步轨道卫星那样始终凝视一个地面站，所有数据流量都必须依靠星间激光网络回传。换句话说，Starlink 的激光网络是太空数据中心的回程骨干。\n\n4）SpaceX已将其星链（Starlink）星间激光链路（ISL）技术对外商业化输出的，命名为Plaser（全称 Plug and Plaser）。旨在为其他卫星公司提供“空间激光骨干网”的接入服务。第三方卫星公司可以购买这些激光硬件，并将其安装在自己的卫星上。\n\n第三方卫星通过 Plaser 的激光终端，接入 SpaceX 的星链星间激光网状网络。通过该网络，第三方卫星可以将数据回传至地球上的任意星链地面站，从而绕开第三方自建星间链路和地面站的成本。\n\nPlaser 已于 2024 年 9 月通过 Polaris Dawn 任务完成了首次在轨验证，并已有商业客户（如 Vast 商业空间站）签约使用，标志着该项目已从技术验证阶段正式走向商业化应用。\n\nSpaceX 通过出租星链网络的闲置激光通信容量实现商业化变现，将星链从单纯的卫星互联网服务扩展为空间激光通信的“网络即服务”提供商。\n\n5）通过Plaser，SpaceX 在把激光通信的事实标准向自家产品收拢。要接入Plaser，第三方卫星就得在 SpaceX 定义的硬件接口、电气接口、协议层之内做事。这个角度SpaceX它既是网络运营者，也是接口定义者，还是潜在的硬件竞争者。\n\n对一部分独立做激光终端的公司而言，Plaser 是个新客户；对另一部分计划自建星间链路网络的卫星运营商而言，Plaser 改变了他们的成本曲线。\n\n6）还有一个更长线的判断值得在这里提一下。SpaceX 在把 Plaser 接口推向「事实标准」。\n美国太空发展局 SDA 的 OCT（Optical Communication Terminal）系列规范是当前美方政府卫星激光终端的主流标准之一，已经规定了链路速率、调制格式、波长窗口等关键参数。\n\nPlaser 接口和 OCT 标准之间是否兼容、谁主导成为商业卫星的事实标准，会在未来 1-2 年里逐渐显现。\n\n所以这一次收购、并不是SpaceX第一次站在了光里，而是对他过去星间激光通信网络的一次增强，收购关键核心人才、为了算力卫星部署来铺路。",
-      "contentHtml": "SpaceX为何收购Mesh？不是SpaceX开始站在光里，其实SpaceX的星间激光网络规模已经非常庞大。前两天美国联邦贸易委员会（FTC）已批准马斯克收购Mesh这笔交易被快速通过，属于SpaceX近期一系列并购动作之一，聊聊这笔收购：\n1、Mesh由三位前SpaceX工程师于2025年创立，创始人曾主导Starlink卫星激光星间链路（Inter-Satellite Laser Links）的设计。核心产品就是面向AI数据中心的高速光学收发器（optical transceiver），用光信号代替传统电信号传输数据。\n\n简单说他们把在SpaceX做卫星激光通信的技术，转化成了地面（和未来太空）数据中心用的光模块。\n\n2、SpaceX为什么要收购它？原因无外乎下面几点：\n1）回核心人才 + 技术 三位创始人是SpaceX Starlink激光通信团队的顶尖工程师。他们离开后把这项技术带到了商业化数据中心领域。现在SpaceX通过收购把人+技术一起收回来，避免技术外流。\n\n2）解决AI数据中心最核心的瓶颈：互联功耗和速度 SpaceX目前正在大规模建设地面AI数据中心（田纳西州、密西西比州等地），并已和Anthropic、Google等签订巨额算力合同。 AI集群里成千上万块GPU之间需要极高带宽、低延迟、低功耗的互联。目前电信号互联已经快到物理极限，而光学互联是公认的下一代解决方案。收购Mesh能直接提升SpaceX自家数据中心的能效和性能。\n\n3）为“太空算力”（Orbital Data Center）战略铺路 SpaceX有明确计划在太空部署大规模算力（用卫星做数据中心）。太空环境有天然优势（太阳能免费、散热好），但最大挑战之一就是节点之间的高速通信。\n 而激光/光通信正是SpaceX最擅长的领域（Starlink已经大规模验证）。Mesh的技术本来就源于Starlink激光链路，收购后可以无缝适配到太空场景，实现太空-太空、太空-地面高效光互联。\n\n3、其实还有最重要的因素，很多人忽略SpaceX其实在激光领域布局和应用是最深最广的。\n1）今年spacex的ipo文件就披露截止3月份，拥有超过23,000 inter-satellite lasers」指的是激光器/激光终端数量。一颗卫星上有 3 个激光器，每个激光器和对端的另一个激光器配对，才形成一条可用链路。所以「23,000+ 激光器」对应的活跃星链链路数大致是 1 万条量级。\n\n2）星间激光器（ISL）已经被明确列入产线的标准组件，现在是一个稳态、规模化的工业品，和电源、推进、相控阵天线放在同一层级。\n\n3）SpaceX在ipo文件里明确说到算力卫星最早28年部署，真正值得关注的是轨道选择。太阳同步轨道意味着 AI 算力卫星沿着特定的极轨轨道带分布，过境时间短，不可能像同步轨道卫星那样始终凝视一个地面站，所有数据流量都必须依靠星间激光网络回传。换句话说，Starlink 的激光网络是太空数据中心的回程骨干。\n\n4）SpaceX已将其星链（Starlink）星间激光链路（ISL）技术对外商业化输出的，命名为Plaser（全称 Plug and Plaser）。旨在为其他卫星公司提供“空间激光骨干网”的接入服务。第三方卫星公司可以购买这些激光硬件，并将其安装在自己的卫星上。\n\n第三方卫星通过 Plaser 的激光终端，接入 SpaceX 的星链星间激光网状网络。通过该网络，第三方卫星可以将数据回传至地球上的任意星链地面站，从而绕开第三方自建星间链路和地面站的成本。\n\nPlaser 已于 2024 年 9 月通过 Polaris Dawn 任务完成了首次在轨验证，并已有商业客户（如 Vast 商业空间站）签约使用，标志着该项目已从技术验证阶段正式走向商业化应用。\n\nSpaceX 通过出租星链网络的闲置激光通信容量实现商业化变现，将星链从单纯的卫星互联网服务扩展为空间激光通信的“网络即服务”提供商。\n\n5）通过Plaser，SpaceX 在把激光通信的事实标准向自家产品收拢。要接入Plaser，第三方卫星就得在 SpaceX 定义的硬件接口、电气接口、协议层之内做事。这个角度SpaceX它既是网络运营者，也是接口定义者，还是潜在的硬件竞争者。\n\n对一部分独立做激光终端的公司而言，Plaser 是个新客户；对另一部分计划自建星间链路网络的卫星运营商而言，Plaser 改变了他们的成本曲线。\n\n6）还有一个更长线的判断值得在这里提一下。SpaceX 在把 Plaser 接口推向「事实标准」。\n美国太空发展局 SDA 的 OCT（Optical Communication Terminal）系列规范是当前美方政府卫星激光终端的主流标准之一，已经规定了链路速率、调制格式、波长窗口等关键参数。\n\nPlaser 接口和 OCT 标准之间是否兼容、谁主导成为商业卫星的事实标准，会在未来 1-2 年里逐渐显现。\n\n所以这一次收购、并不是SpaceX第一次站在了光里，而是对他过去星间激光通信网络的一次增强，收购关键核心人才、为了算力卫星部署来铺路。",
-      "publishedAt": "2026-06-28T08:39:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2071151529974006162",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HL41Vg4aYAE24zo.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HL41Vg9b0AAkbVg.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "SpaceX与AI编程工具Cursor的开发商Anysphere签署最终合并协议，以全股票交易方式将其收购，Cursor隐含估值达600亿美元。Cursor股东将按约定比例换得SpaceX A类普通股，交易预计2026年Q3完成。不得不说上市老马前后的三个动作完全改变了市场对SpaceX AI业务的预期：\n1）与authropic和谷歌的算力租赁合作，带来一年接近250亿美金的现金流，未来AI这块业务完全能扭亏为盈；\n2）之前跟Cursor的合作到最终完全收购，也能极大改变市场对SpaceX AI业务的预期。",
-        "contentHtml": "SpaceX与AI编程工具Cursor的开发商Anysphere签署最终合并协议，以全股票交易方式将其收购，Cursor隐含估值达600亿美元。Cursor股东将按约定比例换得SpaceX A类普通股，交易预计2026年Q3完成。不得不说上市老马前后的三个动作完全改变了市场对SpaceX AI业务的预期：\n1）与authropic和谷歌的算力租赁合作，带来一年接近250亿美金的现金流，未来AI这块业务完全能扭亏为盈；\n2）之前跟Cursor的合作到最终完全收购，也能极大改变市场对SpaceX AI业务的预期。",
-        "link": "https://x.com/qinbafrank/status/2066865770643312993",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HK77deqasAAw3HX.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2071142819125956998",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
-      "content": "BTC确立底部，MSTR是很好的标的，因为：\n\n其是BTC的杠杆ETF，涨幅大于BTC",
-      "contentHtml": "BTC确立底部，MSTR是很好的标的，因为：\n\n其是BTC的杠杆ETF，涨幅大于BTC",
-      "publishedAt": "2026-06-28T08:05:00.000Z",
-      "link": "https://x.com/follow_clues/status/2071142819125956998",
-      "quote": {
-        "username": "PhyrexNi",
-        "displayName": "Phyrex",
-        "content": "mNAV 小于 1 的 MSTR 值不值得买？折扣买 Bitcoin 的逻辑成立吗？\n\n最近 $MSTR 的 mNAV 跌到了 1 以下，很多小伙伴开始讨论现在买入 MSTR 是否就相当于打折买了 bitcoin:native  。\n\n我聊聊自己的观点，首先这个说法有一定道理，但不能只看 mNAV 这一个数字，毕竟“mNAV”的统计方式未必是和想象中一样的。\n\n在 Strategy 自己的 mNAV 计算中。MSTR 普通股市值是 295.4 亿美元，债务是 67.54 亿美元，优先股是 154.67 亿美元，现金储备是 14 亿美元，所以企业价值大概是 503.61 亿美元。\n\nMSTR 持有的 BTC 储备价值是 509.93 亿美元，用企业价值除以 BTC 储备价值，就是 0.99。这代表整个 MSTR 资本结构的市场定价，已经低于它持有的 BTC 市值。\n\n但这个 mNAV 很容易被误解。\n\n这个 0.99 看的不是普通股股东能拿到多少 BTC，也不是普通股的清算价值。MSTR 普通股排在债务和优先股后面，真正属于普通股股东的应该是剩余价值。更接近的算法应该是 ：\n\n普通股剩余净值 = BTC 市值 + 现金 + 软件业务价值 + 其它资产 - 债务 - 优先股清算权益 - 已累计未支付股息 - 其它负债\n\n如果只用 Strategy 计算方式，先不算软件业务价值，也不算应计股息和其它负债，剩下大概 301.72 亿美元。MSTR 当前普通股市值是 295.4 亿美元。最后的结果折价大概 6.32 亿美元，折价幅度约 2.1%。\n\n所以“折扣买 Bitcoin”这个逻辑有基础，但折扣并没有很多人想象得那么大。2% 左右的折价，对于 MSTR 这种带有债务、优先股、年化股息、未来融资和股权稀释风险的结构来说，不能算很便宜。\n\n更何况这里还没扣应计股息和其它负债，也没有把未来继续融资的成本算进去。\n\nMSTR 最关键的问题在于，BTC 本身没有现金流，但 MSTR 的资本结构需要现金流。债务有到期日，优先股有股息，美元储备会消耗，普通股 ATM 依赖市场愿意接盘。\n\n只要 BTC 价格上涨，mNAV 回到 1 以上，普通股融资窗口重新打开，优先股价格稳定，MSTR 这套模式就还能继续运转。但如果 BTC 继续下跌，mNAV 长时间低于 1，普通股继续低迷，优先股也承压，市场就会开始重新定价 MSTR 的信用风险。\n\n所以现在买 MSTR 到底是不是好机会，取决于你到底想投资什么？\n\n如果只是想买 BTC，直接买 BTC 更简单。\n\n如果买 MSTR，相当于买加了杠杆的 BTC ，意味着准备做多 BTC ，并且还要认为目前 MSTR 相对 BTC 是低估了，这时候买入 MSTR 相当于折扣买入 BTC 。\n\n虽然两者本质都是做多 Bitcoin ，但形式上稍微有些区别，我目前的关注是，看本周 @saylor 会有什么动作，如果和我预期的一样，开始蜷缩过冬，通过普通股 ATM ，并且少量购买 BTC ，更多囤积现金的话，我会准备买入一些 MSTR 和 $STRC 。\n\n当然仅限我个人，这不是一个投资建议。\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "contentHtml": "mNAV 小于 1 的 MSTR 值不值得买？折扣买 Bitcoin 的逻辑成立吗？\n\n最近 <a href=\"/search?f=tweets&q=%23MSTR\">$MSTR</a> 的 mNAV 跌到了 1 以下，很多小伙伴开始讨论现在买入 MSTR 是否就相当于打折买了 bitcoin:native  。\n\n我聊聊自己的观点，首先这个说法有一定道理，但不能只看 mNAV 这一个数字，毕竟“mNAV”的统计方式未必是和想象中一样的。\n\n在 Strategy 自己的 mNAV 计算中。MSTR 普通股市值是 295.4 亿美元，债务是 67.54 亿美元，优先股是 154.67 亿美元，现金储备是 14 亿美元，所以企业价值大概是 503.61 亿美元。\n\nMSTR 持有的 BTC 储备价值是 509.93 亿美元，用企业价值除以 BTC 储备价值，就是 0.99。这代表整个 MSTR 资本结构的市场定价，已经低于它持有的 BTC 市值。\n\n但这个 mNAV 很容易被误解。\n\n这个 0.99 看的不是普通股股东能拿到多少 BTC，也不是普通股的清算价值。MSTR 普通股排在债务和优先股后面，真正属于普通股股东的应该是剩余价值。更接近的算法应该是 ：\n\n普通股剩余净值 = BTC 市值 + 现金 + 软件业务价值 + 其它资产 - 债务 - 优先股清算权益 - 已累计未支付股息 - 其它负债\n\n如果只用 Strategy 计算方式，先不算软件业务价值，也不算应计股息和其它负债，剩下大概 301.72 亿美元。MSTR 当前普通股市值是 295.4 亿美元。最后的结果折价大概 6.32 亿美元，折价幅度约 2.1%。\n\n所以“折扣买 Bitcoin”这个逻辑有基础，但折扣并没有很多人想象得那么大。2% 左右的折价，对于 MSTR 这种带有债务、优先股、年化股息、未来融资和股权稀释风险的结构来说，不能算很便宜。\n\n更何况这里还没扣应计股息和其它负债，也没有把未来继续融资的成本算进去。\n\nMSTR 最关键的问题在于，BTC 本身没有现金流，但 MSTR 的资本结构需要现金流。债务有到期日，优先股有股息，美元储备会消耗，普通股 ATM 依赖市场愿意接盘。\n\n只要 BTC 价格上涨，mNAV 回到 1 以上，普通股融资窗口重新打开，优先股价格稳定，MSTR 这套模式就还能继续运转。但如果 BTC 继续下跌，mNAV 长时间低于 1，普通股继续低迷，优先股也承压，市场就会开始重新定价 MSTR 的信用风险。\n\n所以现在买 MSTR 到底是不是好机会，取决于你到底想投资什么？\n\n如果只是想买 BTC，直接买 BTC 更简单。\n\n如果买 MSTR，相当于买加了杠杆的 BTC ，意味着准备做多 BTC ，并且还要认为目前 MSTR 相对 BTC 是低估了，这时候买入 MSTR 相当于折扣买入 BTC 。\n\n虽然两者本质都是做多 Bitcoin ，但形式上稍微有些区别，我目前的关注是，看本周 <a href=\"/saylor\" title=\"Michael Saylor\">@saylor</a> 会有什么动作，如果和我预期的一样，开始蜷缩过冬，通过普通股 ATM ，并且少量购买 BTC ，更多囤积现金的话，我会准备买入一些 MSTR 和 <a href=\"/search?f=tweets&q=%23STRC\">$STRC</a> 。\n\n当然仅限我个人，这不是一个投资建议。\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "link": "https://x.com/PhyrexNi/status/2071125696340967431",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HL304lBbgAAlvJx.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2071138077406539822",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "补充：这种朋友的思路就是每个代币在早期买入 1-2k，近七天的代币胜率仅 37.5%，此前的战绩都一般，近期主要就靠 ANSEM 这个代币了",
-      "contentHtml": "补充：这种朋友的思路就是每个代币在早期买入 1-2k，近七天的代币胜率仅 37.5%，此前的战绩都一般，近期主要就靠 ANSEM 这个代币了",
-      "publishedAt": "2026-06-28T07:46:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2071138077406539822",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HL4orkBaYAAyqos.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HL4pBOdboAAuIJi.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2071136906495373414",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "啊哈，11 天前发射的 $ANSEM 今天速通到 6000 万美金了📈\n\n地址 CxCTV…ZrdtT 在该 Meme 发射后 2 小时开始买入，仅花费 2330 美元以 $0.0001638 建仓，现已以 $0.02041 止盈 33.5% 的持仓，累计收益达 65.9 万美元，回报率 28295.9%\n\n钱包地址 debot.ai/address/solana/CxCT…",
-      "contentHtml": "啊哈，11 天前发射的 <a href=\"/search?f=tweets&q=%23ANSEM\">$ANSEM</a> 今天速通到 6000 万美金了📈\n\n地址 CxCTV…ZrdtT 在该 Meme 发射后 2 小时开始买入，仅花费 2330 美元以 $0.0001638 建仓，现已以 $0.02041 止盈 33.5% 的持仓，累计收益达 65.9 万美元，回报率 28295.9%\n\n钱包地址 <a href=\"https://debot.ai/address/solana/CxCTVjvgK3bWcgavMKo8PushR8ycw1atrWiSTruZrdtT?ref=174084\">debot.ai/address/solana/CxCT…</a>",
-      "publishedAt": "2026-06-28T07:41:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2071136906495373414",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HL4n6v7aEAAnxuU.jpg"
         }
       ],
       "stats": {
