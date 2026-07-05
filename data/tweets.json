@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T14:36:26.635Z",
+  "lastUpdated": "2026-07-05T15:31:32.737Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,97 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 648,
+    "newFetched": 650,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2073785402029130236",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "7/7 Mondays have been absolutely terrible for $BTC. \n\nWill we repeat the exact same pattern next week? \n\nTime to f*ck around and find out. If BTC keeps pushing up through Monday, there's a good chance we see a 3–4% retracement back down.",
+      "contentHtml": "7/7 Mondays have been absolutely terrible for <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>. \n\nWill we repeat the exact same pattern next week? \n\nTime to f*ck around and find out. If BTC keeps pushing up through Monday, there's a good chance we see a 3–4% retracement back down.",
+      "publishedAt": "2026-07-05T15:05:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2073785402029130236",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMeQfomWMAAZchD.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2073782200202617149",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#macOS \n\n在 AI 的排查下，我的这个 macOS 卡顿问题彻底解决了。\n\n1.（主因）LG 27GX790B 显示器和 macOS 兼容性问题。\n\nmacOS 的 DSC 驱动常年一直滞后，容易出问题，这个从黑苹果时代一直延续到今天。\n\n2. （附因）BetterTouchTool 增加卡顿，且大退之后保护进程又自动重启，因此之前没有排查到。\n\n最后解决办法：\n\n买一条 TypeC - HDMI2.0（注意不能 HDMI2.1），硬件降级到 2k144hz 使用。\n\n说实话技术细节我也不明白，AI 写了一篇放在：github.com/taresky/lg-27gx79…",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23macOS\">#macOS</a> \n\n在 AI 的排查下，我的这个 macOS 卡顿问题彻底解决了。\n\n1.（主因）LG 27GX790B 显示器和 macOS 兼容性问题。\n\nmacOS 的 DSC 驱动常年一直滞后，容易出问题，这个从黑苹果时代一直延续到今天。\n\n2. （附因）BetterTouchTool 增加卡顿，且大退之后保护进程又自动重启，因此之前没有排查到。\n\n最后解决办法：\n\n买一条 TypeC - HDMI2.0（注意不能 HDMI2.1），硬件降级到 2k144hz 使用。\n\n说实话技术细节我也不明白，AI 写了一篇放在：<a href=\"https://github.com/taresky/lg-27gx790b-macos-dsc-panic\">github.com/taresky/lg-27gx79…</a>",
+      "publishedAt": "2026-07-05T14:53:00.000Z",
+      "link": "https://x.com/taresky/status/2073782200202617149",
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "有一个神奇的 bug，我的 Mac 窗口有迟滞，拖动窗口的时候会缓慢半拍，重启也无解，把所有运行中的 app 关闭也无解。\n\n但是只要把 WindowServer 强行关闭，让系统死机注销之后，一切就会恢复流畅。直到再次重启又恢复迟滞。\n\n日志吐给 AI 也没有找到原因。推友们有啥思路吗？",
+        "contentHtml": "有一个神奇的 bug，我的 Mac 窗口有迟滞，拖动窗口的时候会缓慢半拍，重启也无解，把所有运行中的 app 关闭也无解。\n\n但是只要把 WindowServer 强行关闭，让系统死机注销之后，一切就会恢复流畅。直到再次重启又恢复迟滞。\n\n日志吐给 AI 也没有找到原因。推友们有啥思路吗？",
+        "link": "https://x.com/taresky/status/2056910995881414720"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2073780652366037180",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "周日必打飞机，为新一周做好状态收尾，用平和的释放总结周末、蓄力重启，让身心平稳过渡，不慌不忙迎接周一的挑战。",
+      "contentHtml": "周日必打飞机，为新一周做好状态收尾，用平和的释放总结周末、蓄力重启，让身心平稳过渡，不慌不忙迎接周一的挑战。",
+      "publishedAt": "2026-07-05T14:46:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2073780652366037180",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "早   尊贵的新时代全球交易员们  该打飞机✈️了",
+        "contentHtml": "早   尊贵的新时代全球交易员们  该打飞机✈️了",
+        "link": "https://x.com/Bitfatty/status/2043537976744137192",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HFwa9LPaQAAiidN.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2073779547414360469",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "哎，还是那熟悉的剧情，对吧？首先，狗头就没有对方市值高。然后呢，还喜欢狗咬狗分流。哎，到底谁喜欢吃屎啊",
+      "contentHtml": "哎，还是那熟悉的剧情，对吧？首先，狗头就没有对方市值高。然后呢，还喜欢狗咬狗分流。哎，到底谁喜欢吃屎啊",
+      "publishedAt": "2026-07-05T14:42:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2073779547414360469",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2073765801493221639",
       "username": "coinkarma_",
@@ -11851,84 +11937,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2071561288053080473",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#美股\n\n拉了一下数据，统计了美国独立日前后美股表现，上涨概率大于90%\n\n这周五美股休市，美国独立日前后整个纳指表现非常有规律。2011到2025这15年，节前一交易日基本是稳定上涨，15次里涨了14次；独立日前最后一个交易日，也有13次上涨\n\n美国假期期间流动性变薄，空头不太愿意硬砸，机构也喜欢把账面做得好看一点，科技股权重又容易被资金顺手往上推\n\n我的想法很简单：\n\n6月动荡回调的一个月结束了，7月指数将再次开启上涨",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23美股\">#美股</a>\n\n拉了一下数据，统计了美国独立日前后美股表现，上涨概率大于90%\n\n这周五美股休市，美国独立日前后整个纳指表现非常有规律。2011到2025这15年，节前一交易日基本是稳定上涨，15次里涨了14次；独立日前最后一个交易日，也有13次上涨\n\n美国假期期间流动性变薄，空头不太愿意硬砸，机构也喜欢把账面做得好看一点，科技股权重又容易被资金顺手往上推\n\n我的想法很简单：\n\n6月动荡回调的一个月结束了，7月指数将再次开启上涨",
-      "publishedAt": "2026-06-29T11:47:00.000Z",
-      "link": "https://x.com/dongbimao/status/2071561288053080473",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HL-p8p5aIAA4O7H.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2071549176111157403",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "夺少？\n怎么btc快和eth一样多了\n贝莱德你这是要毁了比特币啊",
-      "contentHtml": "夺少？\n怎么btc快和eth一样多了\n贝莱德你这是要毁了比特币啊",
-      "publishedAt": "2026-06-29T10:59:00.000Z",
-      "link": "https://x.com/hazenlee/status/2071549176111157403",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HL-e_qWakAI5oCd.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2071535353203404957",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "本周必须敏捷交易",
-      "contentHtml": "本周必须敏捷交易",
-      "publishedAt": "2026-06-29T10:04:00.000Z",
-      "link": "https://x.com/octopusycc/status/2071535353203404957",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2071511014789493231",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "A few more days and $BTC reaches my 5th pivot.\n\nFor the past 18+ months, we've consistently seen major directional shifts around this point at the start of each month.\n\nWhether it's a pivot low or a pivot high, this is a key time to start paying close attention.",
-      "contentHtml": "A few more days and <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> reaches my 5th pivot.\n\nFor the past 18+ months, we've consistently seen major directional shifts around this point at the start of each month.\n\nWhether it's a pivot low or a pivot high, this is a key time to start paying close attention.",
-      "publishedAt": "2026-06-29T08:28:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2071511014789493231",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HL98QhqXMAA2wTG.png"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
