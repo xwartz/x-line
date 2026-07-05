@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T07:13:31.844Z",
+  "lastUpdated": "2026-07-05T09:08:04.683Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,45 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 627,
-    "successUsers": 31,
-    "failedUsers": 1
+    "newFetched": 649,
+    "successUsers": 32,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2073672344007262260",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "市场对所处于领域垄断性的支配地位，会给予极高的估值溢价。24-25年底，pltr为什么会顶着几百倍的pe还能一路涨十几倍，核心就是在当时国防军工AI领域它不仅是第一还是唯一（独一份）。26年上半年为什么又从最高点腰斩，一方面市场是要消化估值溢价，另一方面它之前合作的大模型厂商都跳出来直接跟五角大楼签署合作协议，让市场看到了它在国防军工AI领域并不再是“唯一”，那么估值溢价就要下来。然后openai、authropic都开始深度介入“FDE模式”直接切入商业企业客户的部署中去，更是打压这种估值溢价。\n\n当然不是说就没有价值了，在未来AI越往B端深入，就越需要FDE模式，只是这种竞争会变多。市场还需要PLTR的营收利润规模再提升一个台阶，估值消化差不多，就又有机会了。\n\n说到这里，再聊一下Circle。为什么circle的股价波动很大？核心还是前几天这里nitter.net/qinbafrank/status/2073…聊到：Cirlce还没有建立起其在合规稳定币领域足够强的支配地位。虽然已经到了到了一定体量，但是进入门槛低时不时都有新的竞争对手进来，市场还是会时不时的担心。再加上币市还没走出低谷，更难形成趋势性行情。\n\n这两天看到karp在炮轰大模型厂商，想起来之前有朋友问过pltr，当时还聊过。",
+      "contentHtml": "市场对所处于领域垄断性的支配地位，会给予极高的估值溢价。24-25年底，pltr为什么会顶着几百倍的pe还能一路涨十几倍，核心就是在当时国防军工AI领域它不仅是第一还是唯一（独一份）。26年上半年为什么又从最高点腰斩，一方面市场是要消化估值溢价，另一方面它之前合作的大模型厂商都跳出来直接跟五角大楼签署合作协议，让市场看到了它在国防军工AI领域并不再是“唯一”，那么估值溢价就要下来。然后openai、authropic都开始深度介入“FDE模式”直接切入商业企业客户的部署中去，更是打压这种估值溢价。\n\n当然不是说就没有价值了，在未来AI越往B端深入，就越需要FDE模式，只是这种竞争会变多。市场还需要PLTR的营收利润规模再提升一个台阶，估值消化差不多，就又有机会了。\n\n说到这里，再聊一下Circle。为什么circle的股价波动很大？核心还是前几天这里<a href=\"https://nitter.net/qinbafrank/status/2073012138390786398?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2073…</a>聊到：Cirlce还没有建立起其在合规稳定币领域足够强的支配地位。虽然已经到了到了一定体量，但是进入门槛低时不时都有新的竞争对手进来，市场还是会时不时的担心。再加上币市还没走出低谷，更难形成趋势性行情。\n\n这两天看到karp在炮轰大模型厂商，想起来之前有朋友问过pltr，当时还聊过。",
+      "publishedAt": "2026-07-05T07:36:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2073672344007262260",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMcqAJXaYAA_JmU.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "PLTR的CEO为什么炮轰前沿大模型实验室强调企业自主权？Karp表面上是为企业争取AI时代的自主权，实际上其实在推主权AI方案，更深层次是感受到大模型厂商在国防和商业客户上的直接竞争压力发起的反击。AI时代的商战就是这么朴实无华，简单直接。作为一个曾经在pltr上拿到一些结果，之前又写过很多篇关于pltr的内容nitter.net/qinbafrank/status/1887…的投资人，对pltr算是有些发言权。聊聊个人看法：\n\n1、“企业丧失自主权”这个问题确实存在\n对国防、能源、金融、制造、医疗、情报机构这类客户来说，AI 不是简单的聊天工具，而是嵌进生产、审批、指挥、合规、供应链、作战流程里的“操作系统”。他们真正担心的不是一句笼统的“数据会不会被偷”，而是更深层的几件事：模型调用链在哪里、日志在哪里、提示词和中间推理产物是否留存、模型版本是否可控、是否能在断网/空隔离环境运行、能不能审计、能不能切换模型、厂商是否会把自己的业务流程抽象成通用产品反过来卖给竞争对手。\n\nKarp抓住了一个真实矛盾，但Karp 把“前沿实验室偷走企业数据”说得过于绝对。OpenAI和Auropic官方之前都明确说过API、输入输出数据都是客户所有，默认不用于训练。\n\n“数据一定被拿去训练”不是一个严谨指控；“企业担心外部模型厂商掌握关键业务上下文、形成依赖、未来上移到应用层”才是更严谨的版本。\n\n2、Karp为什么现在开火？因为 Palantir 正在推“主权 AI”方案\n这次不是随口炮轰。Palantir 6 月 29 日刚宣布与 Nvidia 合作，推出在“主权环境”中部署 Nvidia Nemotron open models 的引擎，重点面向美国政府机构和关键基础设施；公告里明确写到，Palantir + Nvidia 方案要让组织保留对数据、IP 和 AI 系统的控制，并支持 classified、air-gapped 等敏感环境。 这个方案说客户可以拥有“针对自身任务的自我改进模型”。\n\n换句话说，Karp 不是单纯在批评 OpenAI/Anthropic，他是在给市场画一条分界线：\n1）OpenAI/Anthropic = 模型能力 + token 租赁 + 封闭 API\n2）Palantir/Nvidia = 客户环境里的模型 + compute + ontology + 权限 + 审计 + 业务闭环\n\n这就是“屁股决定脑袋”的地方。Palantir 的核心商业叙事是：模型会商品化，真正的价值在 enterprise AI operating layer，也就是数据、权限、工作流、业务对象、审计和现场部署。 所以 Karp 必须把 token API 叙事打低，把 Palantir 的 ontology / application layer 叙事打高。\n\n3、Pltr确实感受到了前沿模型厂商进入国防 AI 的压力\n国防军工AI现在不是 Palantir 独占赛道了。去年到今年美国国防部与多家大模型厂商签订了直接合作协议，前沿实验室不再只是给 Palantir 提供“可插拔模型”，它们正在变成政府 AI 预算的直接承包商。 \n\n而且openai和authropic现在都成立FDE模式的公司、帮助企业直接部AI嵌入到工作全流程中去。\n\n这对 Palantir 有双重影响：\n短期可合作，因为 Palantir 可以把 Claude、OpenAI 或其他模型接入自己的 AIP/Foundry/Ontology；\n长期有威胁，因为模型厂商、云厂商和系统集成商都在往 Palantir 的“应用层/工作流层/政府平台层”上移。\n\nKarp 一边竞争、一边合作；\nPalantir 不训练前沿模型，但越来越与 OpenAI、Anthropic 竞争，争夺成为企业和政府部署 AI 的平台。 \n\n这不是Karp第一次开炮，Pltr之前一季度财报电话会上karp就痛斥过大模型厂商\n\n4、基于第三点，商业客户层面，Karp 更怕的是“模型厂商上移吃掉应用层”\n\nOpenAI、Anthropic 最早是模型 API，但现在越来越不像单纯模型供应商。它们有企业版、政府版、代码助手、agent、文件/连接器、workflow、行业解决方案。\n\n这都是Palantir 的敏感点。Palantir 的估值和增长故事不是“我卖一个数据库/BI 工具”，而是“我是企业和政府 AI 的操作系统”。如果模型厂商直接拥有用户入口、agent workflow、数据连接器、企业知识库、代码执行、自动化任务，那么 Palantir 的 ontology / AIP / forward deployed engineering 的价值会被压缩。\n\n所以 Karp真正想说的是：\n“模型层不该攫取价值，价值应该留在部署层、业务层、数据层，而 Palantir 就是那个层。”\n\n对Palantir来说，这也是估值叙事保卫战。它的高估值来源于稀缺性。在国防军工AI领域的稀缺，在政府和企业的AI操作系统。\n\n总的来说\nKarp不是单纯因为“企业自主权”义愤填膺，其实有因为竞争压力破防的因素。\n这是“真实痛点驱动的竞争性叙事战”。\n\nKarp不是胡说，是在替Palantir的位置说话。\n\n屁股决定脑袋，当然这次屁股下面确实坐着一个很真实的企业 AI 权力迁移问题。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "PLTR的CEO为什么炮轰前沿大模型实验室强调企业自主权？Karp表面上是为企业争取AI时代的自主权，实际上其实在推主权AI方案，更深层次是感受到大模型厂商在国防和商业客户上的直接竞争压力发起的反击。AI时代的商战就是这么朴实无华，简单直接。作为一个曾经在pltr上拿到一些结果，之前又写过很多篇关于pltr的内容<a href=\"https://nitter.net/qinbafrank/status/1887674164867440965?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/1887…</a>的投资人，对pltr算是有些发言权。聊聊个人看法：\n\n1、“企业丧失自主权”这个问题确实存在\n对国防、能源、金融、制造、医疗、情报机构这类客户来说，AI 不是简单的聊天工具，而是嵌进生产、审批、指挥、合规、供应链、作战流程里的“操作系统”。他们真正担心的不是一句笼统的“数据会不会被偷”，而是更深层的几件事：模型调用链在哪里、日志在哪里、提示词和中间推理产物是否留存、模型版本是否可控、是否能在断网/空隔离环境运行、能不能审计、能不能切换模型、厂商是否会把自己的业务流程抽象成通用产品反过来卖给竞争对手。\n\nKarp抓住了一个真实矛盾，但Karp 把“前沿实验室偷走企业数据”说得过于绝对。OpenAI和Auropic官方之前都明确说过API、输入输出数据都是客户所有，默认不用于训练。\n\n“数据一定被拿去训练”不是一个严谨指控；“企业担心外部模型厂商掌握关键业务上下文、形成依赖、未来上移到应用层”才是更严谨的版本。\n\n2、Karp为什么现在开火？因为 Palantir 正在推“主权 AI”方案\n这次不是随口炮轰。Palantir 6 月 29 日刚宣布与 Nvidia 合作，推出在“主权环境”中部署 Nvidia Nemotron open models 的引擎，重点面向美国政府机构和关键基础设施；公告里明确写到，Palantir + Nvidia 方案要让组织保留对数据、IP 和 AI 系统的控制，并支持 classified、air-gapped 等敏感环境。 这个方案说客户可以拥有“针对自身任务的自我改进模型”。\n\n换句话说，Karp 不是单纯在批评 OpenAI/Anthropic，他是在给市场画一条分界线：\n1）OpenAI/Anthropic = 模型能力 + token 租赁 + 封闭 API\n2）Palantir/Nvidia = 客户环境里的模型 + compute + ontology + 权限 + 审计 + 业务闭环\n\n这就是“屁股决定脑袋”的地方。Palantir 的核心商业叙事是：模型会商品化，真正的价值在 enterprise AI operating layer，也就是数据、权限、工作流、业务对象、审计和现场部署。 所以 Karp 必须把 token API 叙事打低，把 Palantir 的 ontology / application layer 叙事打高。\n\n3、Pltr确实感受到了前沿模型厂商进入国防 AI 的压力\n国防军工AI现在不是 Palantir 独占赛道了。去年到今年美国国防部与多家大模型厂商签订了直接合作协议，前沿实验室不再只是给 Palantir 提供“可插拔模型”，它们正在变成政府 AI 预算的直接承包商。 \n\n而且openai和authropic现在都成立FDE模式的公司、帮助企业直接部AI嵌入到工作全流程中去。\n\n这对 Palantir 有双重影响：\n短期可合作，因为 Palantir 可以把 Claude、OpenAI 或其他模型接入自己的 AIP/Foundry/Ontology；\n长期有威胁，因为模型厂商、云厂商和系统集成商都在往 Palantir 的“应用层/工作流层/政府平台层”上移。\n\nKarp 一边竞争、一边合作；\nPalantir 不训练前沿模型，但越来越与 OpenAI、Anthropic 竞争，争夺成为企业和政府部署 AI 的平台。 \n\n这不是Karp第一次开炮，Pltr之前一季度财报电话会上karp就痛斥过大模型厂商\n\n4、基于第三点，商业客户层面，Karp 更怕的是“模型厂商上移吃掉应用层”\n\nOpenAI、Anthropic 最早是模型 API，但现在越来越不像单纯模型供应商。它们有企业版、政府版、代码助手、agent、文件/连接器、workflow、行业解决方案。\n\n这都是Palantir 的敏感点。Palantir 的估值和增长故事不是“我卖一个数据库/BI 工具”，而是“我是企业和政府 AI 的操作系统”。如果模型厂商直接拥有用户入口、agent workflow、数据连接器、企业知识库、代码执行、自动化任务，那么 Palantir 的 ontology / AIP / forward deployed engineering 的价值会被压缩。\n\n所以 Karp真正想说的是：\n“模型层不该攫取价值，价值应该留在部署层、业务层、数据层，而 Palantir 就是那个层。”\n\n对Palantir来说，这也是估值叙事保卫战。它的高估值来源于稀缺性。在国防军工AI领域的稀缺，在政府和企业的AI操作系统。\n\n总的来说\nKarp不是单纯因为“企业自主权”义愤填膺，其实有因为竞争压力破防的因素。\n这是“真实痛点驱动的竞争性叙事战”。\n\nKarp不是胡说，是在替Palantir的位置说话。\n\n屁股决定脑袋，当然这次屁股下面确实坐着一个很真实的企业 AI 权力迁移问题。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2073225787818598627",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMWT3RybIAA4r0p.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2073663875308978213",
       "username": "market_beggar",
@@ -11937,31 +11971,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2071443812472496253",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "同样的震荡，黄金来回全胜\n比特币开小仓位都能来回止损  吐了",
-      "contentHtml": "同样的震荡，黄金来回全胜\n比特币开小仓位都能来回止损  吐了",
-      "publishedAt": "2026-06-29T04:01:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2071443812472496253",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HL8_J2_bIAAajAK.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HL8_KhFaIAAqCea.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
