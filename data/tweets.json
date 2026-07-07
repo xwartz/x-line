@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T22:31:21.190Z",
+  "lastUpdated": "2026-07-07T23:25:15.541Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,39 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 617,
-    "successUsers": 31,
-    "failedUsers": 1
+    "newFetched": 638,
+    "successUsers": 32,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2074630279847895333",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n官方教你如何节约 Fable 5 消耗…",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n官方教你如何节约 Fable 5 消耗…",
+      "publishedAt": "2026-07-07T23:02:00.000Z",
+      "link": "https://x.com/taresky/status/2074630279847895333",
+      "quote": {
+        "username": "ClaudeDevs",
+        "displayName": "ClaudeDevs",
+        "content": "A few patterns we frequently use with Fable 5: \n    \nUse Fable 5 as an \"advisor.\"\n \nAn executor (Sonnet 5) calls Fable 5 for guidance.\n\nMost tokens are billed at the lower executor rate.",
+        "contentHtml": "A few patterns we frequently use with Fable 5: \n    \nUse Fable 5 as an \"advisor.\"\n \nAn executor (Sonnet 5) calls Fable 5 for guidance.\n\nMost tokens are billed at the lower executor rate.",
+        "link": "https://x.com/ClaudeDevs/status/2074606058128224365",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMp3rAEaAAAUpHe.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2074610001470226675",
       "username": "octopusycc",
@@ -11941,27 +11969,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HMJOT8IaYAAKooU.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072298444161753427",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "okx吃的真好",
-      "contentHtml": "okx吃的真好",
-      "publishedAt": "2026-07-01T12:37:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2072298444161753427",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMJIcyxbwAALRGC.jpg"
         }
       ],
       "stats": {
