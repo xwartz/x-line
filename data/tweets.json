@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T11:39:10.621Z",
+  "lastUpdated": "2026-07-08T12:41:26.908Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,168 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 642,
+    "newFetched": 640,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2074835300602515644",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "目前信号生效中，看看美股撑不撑得住",
+      "contentHtml": "目前信号生效中，看看美股撑不撑得住",
+      "publishedAt": "2026-07-08T12:37:00.000Z",
+      "link": "https://x.com/hazenlee/status/2074835300602515644",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMtLtCebkAAoYJF.jpg"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "道指和纳指之间的经典LOCAL TOP背离信号再次出现，\n这次会不一样吗？",
+        "contentHtml": "道指和纳指之间的经典LOCAL TOP背离信号再次出现，\n这次会不一样吗？",
+        "link": "https://x.com/hazenlee/status/2072697213592224141",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMOzBEXagAA5KoX.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074834794609852812",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Only time will tell whether $BTC sweeps the liquidity below 57K.",
+      "contentHtml": "Only time will tell whether <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> sweeps the liquidity below 57K.",
+      "publishedAt": "2026-07-08T12:35:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2074834794609852812",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMtJCQ7XMAA25Tu.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074833211021275234",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "以前买美股，我最大的困扰就是资金利用率。\n\n比如花 1,000 USDT 买了 TSLA，这笔钱基本就只能放在那里，等待股价上涨。想再交易 BTC、ETH？只能继续追加保证金。\n\n最近试了一下 Bitget 的 rToken + UTA 联合保证金，整个体验和传统券商完全不一样。\n\n第一步：买入 rTSLA（也可以选择 rNVDA、rAAPL任意美股）\n\n买入之后，持仓和普通股票一样，依然拥有 TSLA 的价格敞口。\n\n也就是说，如果 TSLA 上涨，你依然能够享受到对应的价格变动。\n\n第二步：把 rTSLA 转入 UTA 联合保证金账户\n\n操作非常简单，转入之后，在 UTA 资产页面就能看到 rTSLA 已经成为可抵押资产。\n\n第三步：直接用 rTSLA 做保证金交易合约\n\n我没有卖掉 rTSLA，而是直接用它作为抵押，开了一笔 BTC 空单（当然也可以开 ETH 多单）。\n\n这时候有意思的地方来了：\n\n我的 1,000 USDT rTSLA 仍然保留着 TSLA 的价格敞口，同时又成为了 BTC 合约的保证金。\n\n也就是说，同一份资产，同时承担了两个角色：\n\n✅ 持有美股价格敞口\n\n✅ 支持加密合约交易\n\n资金没有闲置。\n\n这也是我觉得 rToken 最大的优势之一。\n\n传统模式：\n\n💰 1,000 USDT 买 TSLA\n\n→ 剩下就是等待涨跌，资金基本不能继续利用。\n\n而 rToken + UTA：\n\n💰 1,000 USDT 买 rTSLA\n\n→ 保留 TSLA 敞口\n\n→ 同时作为保证金交易 BTC、ETH 等合约\n\n→ 一笔资金，同时完成两件事情。\n\n对于经常在美股和加密市场之间切换的人来说，这种联合保证金模式最大的价值并不是放大杠杆，而是提升资金效率，让资产不用在不同账户之间来回切换，也不用为了交易另一类资产再占用一份新的资金。",
+      "contentHtml": "以前买美股，我最大的困扰就是资金利用率。\n\n比如花 1,000 USDT 买了 TSLA，这笔钱基本就只能放在那里，等待股价上涨。想再交易 BTC、ETH？只能继续追加保证金。\n\n最近试了一下 Bitget 的 rToken + UTA 联合保证金，整个体验和传统券商完全不一样。\n\n第一步：买入 rTSLA（也可以选择 rNVDA、rAAPL任意美股）\n\n买入之后，持仓和普通股票一样，依然拥有 TSLA 的价格敞口。\n\n也就是说，如果 TSLA 上涨，你依然能够享受到对应的价格变动。\n\n第二步：把 rTSLA 转入 UTA 联合保证金账户\n\n操作非常简单，转入之后，在 UTA 资产页面就能看到 rTSLA 已经成为可抵押资产。\n\n第三步：直接用 rTSLA 做保证金交易合约\n\n我没有卖掉 rTSLA，而是直接用它作为抵押，开了一笔 BTC 空单（当然也可以开 ETH 多单）。\n\n这时候有意思的地方来了：\n\n我的 1,000 USDT rTSLA 仍然保留着 TSLA 的价格敞口，同时又成为了 BTC 合约的保证金。\n\n也就是说，同一份资产，同时承担了两个角色：\n\n✅ 持有美股价格敞口\n\n✅ 支持加密合约交易\n\n资金没有闲置。\n\n这也是我觉得 rToken 最大的优势之一。\n\n传统模式：\n\n💰 1,000 USDT 买 TSLA\n\n→ 剩下就是等待涨跌，资金基本不能继续利用。\n\n而 rToken + UTA：\n\n💰 1,000 USDT 买 rTSLA\n\n→ 保留 TSLA 敞口\n\n→ 同时作为保证金交易 BTC、ETH 等合约\n\n→ 一笔资金，同时完成两件事情。\n\n对于经常在美股和加密市场之间切换的人来说，这种联合保证金模式最大的价值并不是放大杠杆，而是提升资金效率，让资产不用在不同账户之间来回切换，也不用为了交易另一类资产再占用一份新的资金。",
+      "publishedAt": "2026-07-08T12:29:00.000Z",
+      "link": "https://x.com/hazenlee/status/2074833211021275234",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMtJzaiaAAEPyEX.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitget_zh",
+        "displayName": "Bitget中文",
+        "content": "rToken是如何提供原生美股流动性的？\n\n在美股交易时段内，rToken订单会通过受监管经纪商路由至纳斯达克与纽交所，让你在加密市场中也能获得接近美股现货的交易体验。\n\n#买美股首选Bitget",
+        "contentHtml": "rToken是如何提供原生美股流动性的？\n\n在美股交易时段内，rToken订单会通过受监管经纪商路由至纳斯达克与纽交所，让你在加密市场中也能获得接近美股现货的交易体验。\n\n<a href=\"/search?f=tweets&q=%23买美股首选Bitget\">#买美股首选Bitget</a>",
+        "link": "https://x.com/Bitget_zh/status/2074825837816295792",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMsvoTkaUAAbgaN.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074829132316524675",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "很高兴再次和168X聊半导体 @168MrZ @vcmktasa \n\n最近这段时间几乎是最难做的\n\n不要气馁！谨慎操作！敏捷交易！",
+      "contentHtml": "很高兴再次和168X聊半导体 <a href=\"/168MrZ\" title=\"Mr. Z｜168X 主持人\">@168MrZ</a> <a href=\"/vcmktasa\" title=\"Victor 🐎\">@vcmktasa</a> \n\n最近这段时间几乎是最难做的\n\n不要气馁！谨慎操作！敏捷交易！",
+      "publishedAt": "2026-07-08T12:13:00.000Z",
+      "link": "https://x.com/octopusycc/status/2074829132316524675",
+      "quote": {
+        "username": "168X_Fortune",
+        "displayName": "168X",
+        "content": "",
+        "link": "https://x.com/168X_Fortune/status/2074823821698412717"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074826240771711123",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "可以来看我直播nitter.net/bitfatty/status/203461…\n\n3 月做空黄金，5200-5000 入场的空单，我们跌到 4500 以下才开始平仓\n\n我是出了名的喜欢格局，浮盈百万美金归零的都不知道多少次了🤣🤣🤣🤣",
+      "contentHtml": "可以来看我直播<a href=\"https://nitter.net/bitfatty/status/2034612556959293517?s=46&t=g6EEngs2KIFBfxznVU6tKA\">nitter.net/bitfatty/status/203461…</a>\n\n3 月做空黄金，5200-5000 入场的空单，我们跌到 4500 以下才开始平仓\n\n我是出了名的喜欢格局，浮盈百万美金归零的都不知道多少次了🤣🤣🤣🤣",
+      "publishedAt": "2026-07-08T12:01:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2074826240771711123",
+      "quote": {
+        "username": "DANA11915620",
+        "displayName": "沉默",
+        "content": "我都開始懷疑你適不適模擬倉了  這種獲利 不平 是要賺一輩子的開銷是不?",
+        "contentHtml": "我都開始懷疑你適不適模擬倉了  這種獲利 不平 是要賺一輩子的開銷是不?",
+        "link": "https://x.com/DANA11915620/status/2074823336702669173"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074822512404513260",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "刚加仓，给我一巴掌打死了",
+      "contentHtml": "刚加仓，给我一巴掌打死了",
+      "publishedAt": "2026-07-08T11:46:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2074822512404513260",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMtAE0raMAAhtcu.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMtAE00bcAA7m9D.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2074815540766679074",
       "username": "qinbafrank",
@@ -1212,6 +1369,10 @@
           "url": "https://pbs.twimg.com/media/HMq87wMboAApv5G.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11832,159 +11993,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072532789350572097",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "投资工具助手，期待越做越好",
-      "contentHtml": "投资工具助手，期待越做越好",
-      "publishedAt": "2026-07-02T04:08:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2072532789350572097",
-      "quote": {
-        "username": "getDrivenAI",
-        "displayName": "Driven",
-        "content": "30 days after launch, Driven is already on its 4th update.\n\nThank you to everyone who has tried Driven, shared feedback, reported issues, and helped shape the product with real usage.💙\n\nIn the past month, we improved:\n• Financial data coverage across US-listed Chinese stocks, Hong Kong stocks, and A-shares\n• Source-traced citations and more reliable answers\n• X research for posts, profiles, replies, and market narratives\n• More control with manual Skills, /commands, selected message sharing, and Driven Docs\n\nPlus more improvements across Agent settings, model selection, scheduled tasks, and product polish.\n\nWe’re not building an AI that only talks about stocks.\nWe’re building an investment tool with reliable data, traceable sources, and real utility for investors.\n\nTell us what to build next.🏎️",
-        "contentHtml": "30 days after launch, Driven is already on its 4th update.\n\nThank you to everyone who has tried Driven, shared feedback, reported issues, and helped shape the product with real usage.💙\n\nIn the past month, we improved:\n• Financial data coverage across US-listed Chinese stocks, Hong Kong stocks, and A-shares\n• Source-traced citations and more reliable answers\n• X research for posts, profiles, replies, and market narratives\n• More control with manual Skills, /commands, selected message sharing, and Driven Docs\n\nPlus more improvements across Agent settings, model selection, scheduled tasks, and product polish.\n\nWe’re not building an AI that only talks about stocks.\nWe’re building an investment tool with reliable data, traceable sources, and real utility for investors.\n\nTell us what to build next.🏎️",
-        "link": "https://x.com/getDrivenAI/status/2072158544561058133",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMHJNVeagAARKkH.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072528347427680491",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#ETH\n\n散户爱以太坊，所以散户要学会认命\n\n别人问我怎么才能幸福？我总是回答说：降低你的预期，也就是让你的预期更符合现实。总抱有不切实际的预期，注定一生痛苦\n\n不要对以太坊抱有不切实际的预期，以太坊到10000，骗了多少散户上车，你们相信EOS到500吗 ？\n\n三年了，23年的牛市开始我就在喷以太坊，喷到这次熊市，3年时间了还不足以让你看清一个币吗，三年时间 ETHBTC这个汇率不就跟普通山寨和比特币的汇率一样吗\n\n下轮牛市要把主仓位放到比特币上，而不是去赌不确定的以太坊，定投就投比特币和QQQ，先保证高概率的事情，再去冲低概率高风险的操作\n\n这个世界上有80多亿人，每个人都有自己的观点。而靠谱的观点，要么有可靠的数据支撑，要么有经得起考验的逻辑论证，以太坊的逻辑支撑是什么，大家赐教一下 🙏🙏🙏",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23ETH\">#ETH</a>\n\n散户爱以太坊，所以散户要学会认命\n\n别人问我怎么才能幸福？我总是回答说：降低你的预期，也就是让你的预期更符合现实。总抱有不切实际的预期，注定一生痛苦\n\n不要对以太坊抱有不切实际的预期，以太坊到10000，骗了多少散户上车，你们相信EOS到500吗 ？\n\n三年了，23年的牛市开始我就在喷以太坊，喷到这次熊市，3年时间了还不足以让你看清一个币吗，三年时间 ETHBTC这个汇率不就跟普通山寨和比特币的汇率一样吗\n\n下轮牛市要把主仓位放到比特币上，而不是去赌不确定的以太坊，定投就投比特币和QQQ，先保证高概率的事情，再去冲低概率高风险的操作\n\n这个世界上有80多亿人，每个人都有自己的观点。而靠谱的观点，要么有可靠的数据支撑，要么有经得起考验的逻辑论证，以太坊的逻辑支撑是什么，大家赐教一下 🙏🙏🙏",
-      "publishedAt": "2026-07-02T03:50:00.000Z",
-      "link": "https://x.com/dongbimao/status/2072528347427680491",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMMZiFlasAAQ1dk.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072526308442255436",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "流通亏损占比可以用来比较各轮熊市投资者\"痛苦程度\"，即衡量量化后市场情绪的极限范围。\n\n由于低成本筹码沉淀，熊市底部抬高，持有者结构更成熟等因素，使得每一轮熊底的流通亏损占比相比上一轮是递减的。\n\n比如，2015年的峰值是64%，2019年是60%，2022年是55%；而在6月30日BTC跌至$58000时，该比值上升至54%。\n\n这是本轮周期到目前为止出现的最高值。\n\n如果延续过去10年的递减规律，那么54%已经几乎接近上轮峰值的极限；说明5.8w距离底部已经很近了。\n\n但最近我也在思考一个问题：\n\n本轮牛市周期中，有一大块远古低成本筹码被挪走，各大机构高位接盘至今仍然大量沉积，所以也导致了LTH整体成本中枢上移。\n\n这些筹码现在都是浮亏的，如果他们不动就让亏损筹码基数变大了。那会不会打破过往规律，即流通亏损占比在本轮熊底会超过上一轮55%的峰值？\n\n我觉得有这个可能。但个人判断即便超过，也不会相差太远，应该也就在55-60%之间吧。",
-      "contentHtml": "流通亏损占比可以用来比较各轮熊市投资者\"痛苦程度\"，即衡量量化后市场情绪的极限范围。\n\n由于低成本筹码沉淀，熊市底部抬高，持有者结构更成熟等因素，使得每一轮熊底的流通亏损占比相比上一轮是递减的。\n\n比如，2015年的峰值是64%，2019年是60%，2022年是55%；而在6月30日BTC跌至$58000时，该比值上升至54%。\n\n这是本轮周期到目前为止出现的最高值。\n\n如果延续过去10年的递减规律，那么54%已经几乎接近上轮峰值的极限；说明5.8w距离底部已经很近了。\n\n但最近我也在思考一个问题：\n\n本轮牛市周期中，有一大块远古低成本筹码被挪走，各大机构高位接盘至今仍然大量沉积，所以也导致了LTH整体成本中枢上移。\n\n这些筹码现在都是浮亏的，如果他们不动就让亏损筹码基数变大了。那会不会打破过往规律，即流通亏损占比在本轮熊底会超过上一轮55%的峰值？\n\n我觉得有这个可能。但个人判断即便超过，也不会相差太远，应该也就在55-60%之间吧。",
-      "publishedAt": "2026-07-02T03:42:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2072526308442255436",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMMW8GFaQAAxD8s.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "“熊底预测”是玄学，还是科学？（终极篇）\n\n随着时间推移，BTC流通总量本身在增加，所有如果用亏损筹码数量的绝对值来衡量，会受分母变化的干扰。\n\n要更公允地比较各轮熊市的\"痛苦极限程度\"，应该换成百分比版本(亏损供应占流通量的比例)会更合适。\n\n按此调整后，我们大概率会看到“峰值”是持续下移的，但下移的斜率受成本结构变化的影响，而不只是分母效应。\n\n我们从下图的数据可以看到，在过去的三轮熊底，亏损占比的峰值分别为：2015年8月 64%；2019年2月 60%；2022年11月 55%。\n\n这是玄学吗？这是巧合吗？...... 当然不是！\n\n这背后有几个相互叠加的客观逻辑：\n\n1⃣ 沉淀的低成本筹码越来越多，它们构成了一个不断增厚的\"免疫层\"，于是能被打成亏损的供应量上限就被压低了。\n\n2⃣ 每轮熊市的底部价格本身在抬高，几轮牛顶到熊底的最大回撤在收敛；回撤越浅，被拖入亏损的筹码自然越少。\n\n3⃣ 持有者结构更成熟，随着ETF、机构等长期配置资金进场，持仓更分散、换手更理性。全市场高位接盘的极端集中度下降了，熊市能制造的亏损面也相应变小。\n\n4⃣ 丢失和长期休眠币的BTC占比上升，稀释了“亏损供应”的分母。\n\n至此，我们应该可以跳出玄学的认知范围，回到科学理性的层面。\n\n由于成本结构变化的影响，从过往的3轮周期来看，亏损占比的峰值大致正在按每轮下降5%的幅度在延续。\n\n比如，2019年2月是60%；2022年11月是55%；而2026年2月，当BTC跌至6w美元时，亏损占比恰好是50%。\n\n当然，这有可能是一个巧合！\n\n更科学的评估方法是：按上述4条逻辑线，虽然不意味着亏损占比一定是5%的降幅，但至少每轮都是递减的。\n\n既然上一轮是55%，而本轮暂时的峰值是50%，因此我们推测：本轮的“阈值范围”，在亏损占比到达50%-54%之间形成熊底，是完全合理的。\n\n从这个角度看，2月有可能是“熊底”的概率还不小哦。正如Glassnode前首席分析师 Checkmate所说，他认为概率大约是80%。\n\n如果不是，假如就像很多小伙伴所说，还有2次回踩的话，那么下一次BTC跌至什么价格，会让“亏损占比”进入50-54%的范围呢？\n\n大家可以猜猜看？\n答案会让你觉得很“意外”😀",
-        "contentHtml": "“熊底预测”是玄学，还是科学？（终极篇）\n\n随着时间推移，BTC流通总量本身在增加，所有如果用亏损筹码数量的绝对值来衡量，会受分母变化的干扰。\n\n要更公允地比较各轮熊市的\"痛苦极限程度\"，应该换成百分比版本(亏损供应占流通量的比例)会更合适。\n\n按此调整后，我们大概率会看到“峰值”是持续下移的，但下移的斜率受成本结构变化的影响，而不只是分母效应。\n\n我们从下图的数据可以看到，在过去的三轮熊底，亏损占比的峰值分别为：2015年8月 64%；2019年2月 60%；2022年11月 55%。\n\n这是玄学吗？这是巧合吗？...... 当然不是！\n\n这背后有几个相互叠加的客观逻辑：\n\n1⃣ 沉淀的低成本筹码越来越多，它们构成了一个不断增厚的\"免疫层\"，于是能被打成亏损的供应量上限就被压低了。\n\n2⃣ 每轮熊市的底部价格本身在抬高，几轮牛顶到熊底的最大回撤在收敛；回撤越浅，被拖入亏损的筹码自然越少。\n\n3⃣ 持有者结构更成熟，随着ETF、机构等长期配置资金进场，持仓更分散、换手更理性。全市场高位接盘的极端集中度下降了，熊市能制造的亏损面也相应变小。\n\n4⃣ 丢失和长期休眠币的BTC占比上升，稀释了“亏损供应”的分母。\n\n至此，我们应该可以跳出玄学的认知范围，回到科学理性的层面。\n\n由于成本结构变化的影响，从过往的3轮周期来看，亏损占比的峰值大致正在按每轮下降5%的幅度在延续。\n\n比如，2019年2月是60%；2022年11月是55%；而2026年2月，当BTC跌至6w美元时，亏损占比恰好是50%。\n\n当然，这有可能是一个巧合！\n\n更科学的评估方法是：按上述4条逻辑线，虽然不意味着亏损占比一定是5%的降幅，但至少每轮都是递减的。\n\n既然上一轮是55%，而本轮暂时的峰值是50%，因此我们推测：本轮的“阈值范围”，在亏损占比到达50%-54%之间形成熊底，是完全合理的。\n\n从这个角度看，2月有可能是“熊底”的概率还不小哦。正如Glassnode前首席分析师 Checkmate所说，他认为概率大约是80%。\n\n如果不是，假如就像很多小伙伴所说，还有2次回踩的话，那么下一次BTC跌至什么价格，会让“亏损占比”进入50-54%的范围呢？\n\n大家可以猜猜看？\n答案会让你觉得很“意外”😀",
-        "link": "https://x.com/Murphychen888/status/2058429794627584041",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJECtfuagAADDKr.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072524683837309242",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "美光向特朗普账户捐款2.5亿美金，之前戴尔捐款62.5亿美金。美光2.5 亿美元具体怎么用？哪些账户能拿到钱？看了下：\n1）美光员工的未成年子女（通过父母存钱 + 公司匹配）。\n2）7 个美光业务布局的州县/社区内开设账户的儿童（一次性 250 美元种子）。\n预计覆盖近 100 万儿童，主要集中在美光工厂/办公室周边。戴尔捐款受益人群则是另一个模式、之前推文也有聊过。\n\n估计未来还有美国企业或者富豪继续捐款，这相当于企业/富豪利用特朗普政府创建的账户框架，进行大规模儿童财富种子投资。\n\n最后这些资金基本上都会趁现在robinhood运营上的特朗普账户上。\n\n$hood",
-      "contentHtml": "美光向特朗普账户捐款2.5亿美金，之前戴尔捐款62.5亿美金。美光2.5 亿美元具体怎么用？哪些账户能拿到钱？看了下：\n1）美光员工的未成年子女（通过父母存钱 + 公司匹配）。\n2）7 个美光业务布局的州县/社区内开设账户的儿童（一次性 250 美元种子）。\n预计覆盖近 100 万儿童，主要集中在美光工厂/办公室周边。戴尔捐款受益人群则是另一个模式、之前推文也有聊过。\n\n估计未来还有美国企业或者富豪继续捐款，这相当于企业/富豪利用特朗普政府创建的账户框架，进行大规模儿童财富种子投资。\n\n最后这些资金基本上都会趁现在robinhood运营上的特朗普账户上。\n\n<a href=\"/search?f=tweets&q=%23hood\">$hood</a>",
-      "publishedAt": "2026-07-02T03:36:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2072524683837309242",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMMWNhDagAA4eXP.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "财报之后坐一轮过山车的robinhood终于有所表现了，而且是加密资产整体低迷的情况下，不容易，还是值得关注的。应该是这两个事件驱动，特别是特朗普账户启动未来几年能给hood带来最高3900万个美国儿童投资账户。\n1、hood日前正式推出“Agentic Trading”功能，允许用户将第三方人工智能代理接入专用投资账户，授权其在无需人工逐笔确认的情况下自主执行股票交易。此举使Robinhood成为首家向散户投资者提供自主AI代理交易服务的主流券商。\n2，“特朗普账户”移动应用周四正式上线，为25年初到28年底出生的美国儿童开户完将收到联邦政府1000美金启动资金。父母也可以注资、每年上限5000美金（享受税收递延、投资美股宽基指数）。\n1）看了机构的测算，25-28年四年美国出生儿童差不多1400万人，相当于财政部累计注资140亿美金。因为有税收递延，估计不少家长合规注册，假设每个账户平均年注资2500美金、那就是额外多350亿美金。能撬动接近500亿美金的投资资金；\n\n2）然后戴尔电脑的创始人迈克戴尔还捐款62.5亿美金 给美国10岁以下儿童（是特朗普账户限定儿童范围之外），每人注资250美金，家长也可注资条件与特朗普账户相同、也享受税收递延。\n\n戴尔的捐助计划覆盖2500万十岁以下美国儿童。如果这些儿童的账户每年父母注资1000美金，那么额外多250亿美金，累计310多亿美金。\n\n特朗普账户叠加戴尔捐助计划累计撬动800多亿美金的投资资金，这些都可以视作是hood平台上的用户沉淀资金，纽约梅隆银行作为托管银行。\n\n但这不是最关键的、最关键则是这将给hood在未来几年带来最高3900万个儿童投资账户（特朗普账户的1400万个儿童床，戴尔捐助计划的2500万个儿童），当下hood用户也只有2700万，这才是hood未来最大的增量空间。当这部分儿童长大后，hood已经伴随他们好多年的第一个投资理财平台，这种用户习惯粘性应该是非常高的。\n\n所以之前这里有聊nitter.net/qinbafrank/status/2041…，“特朗普账户”应该是hood未来能超越嘉信理财的关键一步。",
-        "contentHtml": "财报之后坐一轮过山车的robinhood终于有所表现了，而且是加密资产整体低迷的情况下，不容易，还是值得关注的。应该是这两个事件驱动，特别是特朗普账户启动未来几年能给hood带来最高3900万个美国儿童投资账户。\n1、hood日前正式推出“Agentic Trading”功能，允许用户将第三方人工智能代理接入专用投资账户，授权其在无需人工逐笔确认的情况下自主执行股票交易。此举使Robinhood成为首家向散户投资者提供自主AI代理交易服务的主流券商。\n2，“特朗普账户”移动应用周四正式上线，为25年初到28年底出生的美国儿童开户完将收到联邦政府1000美金启动资金。父母也可以注资、每年上限5000美金（享受税收递延、投资美股宽基指数）。\n1）看了机构的测算，25-28年四年美国出生儿童差不多1400万人，相当于财政部累计注资140亿美金。因为有税收递延，估计不少家长合规注册，假设每个账户平均年注资2500美金、那就是额外多350亿美金。能撬动接近500亿美金的投资资金；\n\n2）然后戴尔电脑的创始人迈克戴尔还捐款62.5亿美金 给美国10岁以下儿童（是特朗普账户限定儿童范围之外），每人注资250美金，家长也可注资条件与特朗普账户相同、也享受税收递延。\n\n戴尔的捐助计划覆盖2500万十岁以下美国儿童。如果这些儿童的账户每年父母注资1000美金，那么额外多250亿美金，累计310多亿美金。\n\n特朗普账户叠加戴尔捐助计划累计撬动800多亿美金的投资资金，这些都可以视作是hood平台上的用户沉淀资金，纽约梅隆银行作为托管银行。\n\n但这不是最关键的、最关键则是这将给hood在未来几年带来最高3900万个儿童投资账户（特朗普账户的1400万个儿童床，戴尔捐助计划的2500万个儿童），当下hood用户也只有2700万，这才是hood未来最大的增量空间。当这部分儿童长大后，hood已经伴随他们好多年的第一个投资理财平台，这种用户习惯粘性应该是非常高的。\n\n所以之前这里有聊<a href=\"https://nitter.net/qinbafrank/status/2041165272233722145?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2041…</a>，“特朗普账户”应该是hood未来能超越嘉信理财的关键一步。",
-        "link": "https://x.com/qinbafrank/status/2060388312033182068",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJf4P4Ta4AA22z1.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072521171791433728",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "丝毫不关心ousd有多牛逼，能不能上点高息补贴才是真的。抢用户你总得拿出点什么吧。",
-      "contentHtml": "丝毫不关心ousd有多牛逼，能不能上点高息补贴才是真的。抢用户你总得拿出点什么吧。",
-      "publishedAt": "2026-07-02T03:22:00.000Z",
-      "link": "https://x.com/0xleng1/status/2072521171791433728",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072515997425397985",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI \n\n猛蹬蹬蹬。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n猛蹬蹬蹬。",
-      "publishedAt": "2026-07-02T03:01:00.000Z",
-      "link": "https://x.com/taresky/status/2072515997425397985",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMMONU3bwAA0SNq.png"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
