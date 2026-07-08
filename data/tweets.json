@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T08:58:01.943Z",
+  "lastUpdated": "2026-07-08T09:54:43.148Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,154 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 639,
-    "successUsers": 32,
-    "failedUsers": 0
+    "newFetched": 622,
+    "successUsers": 31,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2074793063118180643",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n观察一些互联网群，装逼的产品经理也锐减。\n\n哈哈哈，现在他们不敢出来装逼了，这会被说菜已经没有任何借口了。\n\nAI 让世界变得更谦逊，真是好东西。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n观察一些互联网群，装逼的产品经理也锐减。\n\n哈哈哈，现在他们不敢出来装逼了，这会被说菜已经没有任何借口了。\n\nAI 让世界变得更谦逊，真是好东西。",
+      "publishedAt": "2026-07-08T09:49:00.000Z",
+      "link": "https://x.com/taresky/status/2074793063118180643",
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "最近两年，那种在大厂搬砖，在网上嚣张跋扈，把平台当个人能力，然后出来创业失败的案例，已经越来越少看到了。\n\n因为现在根本不用出来创业，只要周末用一用 AI 就知道自己肯定会失败了。",
+        "contentHtml": "最近两年，那种在大厂搬砖，在网上嚣张跋扈，把平台当个人能力，然后出来创业失败的案例，已经越来越少看到了。\n\n因为现在根本不用出来创业，只要周末用一用 AI 就知道自己肯定会失败了。",
+        "link": "https://x.com/taresky/status/2061375928765391185"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074788149973434596",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "川普表态美伊此前达成的停火协议已经作废，让本就煎熬的市场雪上加霜。这次看看双方多久会重归于好。基准判断今天美伊再起摩擦冲突还是短期扰动制造波动，并不是持续升级的系统性风险。",
+      "contentHtml": "川普表态美伊此前达成的停火协议已经作废，让本就煎熬的市场雪上加霜。这次看看双方多久会重归于好。基准判断今天美伊再起摩擦冲突还是短期扰动制造波动，并不是持续升级的系统性风险。",
+      "publishedAt": "2026-07-08T09:30:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2074788149973434596",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMsg0rYbQAAKN5u.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "三星二季度业绩预告利润都超市预期，营收只是略低于市场最乐观的预期但也远超平均预期。为何还大跌？\n1）不是业绩不够好，而是市场跑在了业绩的前面。就是典型的‘卖事实’逻辑——投资者早已将极高的预期充分定价。当估值被拉伸、轮动全面展开时，即便强劲的业绩也不足以满足市场。\n\n2）也是昨天推文里聊到的：“本季财报季的关键点是预期已经很高，容错率变低。预期非常高，意味着市场不只是要公司 beat，还要公司大幅度raise”。\n\n再说说存储板块，5月份这里有聊过nitter.net/qinbafrank/status/2054…按照现有几大存储厂商扩产的节奏来看，新产线投产可能要到27年下半年了，产能大规模释放就到28年了。未来一年，存储还是属于紧缺的状态。\n\n当下市场的状态跌的写照：高位、高杠杆、拥挤，又到了财报季，都知道市场预期很高，也都担心哪家财报放个炸弹，所以有避险。\n\n核心还是昨天推文聊到的：\n如果谷歌云、aws、微软云等几大云厂商继续大超预期，那么市场还会确实AI商业化经过一季度的拐点之后还是继续在加速的。同时几家CSP也要再次确认capex没有减缓。\n\n当然两大模型厂商官方披露的最新年化ARR数据也是非常关键核心的影响变量，看增速情况。\n\n昨天到今天的一个思考是nitter.net/qinbafrank/status/2074…，CSP业绩会是AI商业化进程关键的指标，权重能跟闭源大模型厂商同等重要，未来甚至更高。因为企业采用AI进程成本工程化阶段，很多高频、中低价值场景会转向高性价比token，这一部分商业价值其实是从闭源大模型身上切出来的，最终会沉淀在CSP的业绩上。CSP（云厂商）将成为最全最综合展示AI商业化进程的载体了。",
+        "contentHtml": "三星二季度业绩预告利润都超市预期，营收只是略低于市场最乐观的预期但也远超平均预期。为何还大跌？\n1）不是业绩不够好，而是市场跑在了业绩的前面。就是典型的‘卖事实’逻辑——投资者早已将极高的预期充分定价。当估值被拉伸、轮动全面展开时，即便强劲的业绩也不足以满足市场。\n\n2）也是昨天推文里聊到的：“本季财报季的关键点是预期已经很高，容错率变低。预期非常高，意味着市场不只是要公司 beat，还要公司大幅度raise”。\n\n再说说存储板块，5月份这里有聊过<a href=\"https://nitter.net/qinbafrank/status/2054174740282216464?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2054…</a>按照现有几大存储厂商扩产的节奏来看，新产线投产可能要到27年下半年了，产能大规模释放就到28年了。未来一年，存储还是属于紧缺的状态。\n\n当下市场的状态跌的写照：高位、高杠杆、拥挤，又到了财报季，都知道市场预期很高，也都担心哪家财报放个炸弹，所以有避险。\n\n核心还是昨天推文聊到的：\n如果谷歌云、aws、微软云等几大云厂商继续大超预期，那么市场还会确实AI商业化经过一季度的拐点之后还是继续在加速的。同时几家CSP也要再次确认capex没有减缓。\n\n当然两大模型厂商官方披露的最新年化ARR数据也是非常关键核心的影响变量，看增速情况。\n\n昨天到今天的一个思考是<a href=\"https://nitter.net/qinbafrank/status/2074309065849884813?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2074…</a>，CSP业绩会是AI商业化进程关键的指标，权重能跟闭源大模型厂商同等重要，未来甚至更高。因为企业采用AI进程成本工程化阶段，很多高频、中低价值场景会转向高性价比token，这一部分商业价值其实是从闭源大模型身上切出来的，最终会沉淀在CSP的业绩上。CSP（云厂商）将成为最全最综合展示AI商业化进程的载体了。",
+        "link": "https://x.com/qinbafrank/status/2074357003556884498"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074786951438446838",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "还是得感谢白毛@aleabitoreddit 的，\n很好的智商+水平检测器。\n这下傻逼我可都打上标记了哦。",
+      "contentHtml": "还是得感谢白毛<a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a> 的，\n很好的智商+水平检测器。\n这下傻逼我可都打上标记了哦。",
+      "publishedAt": "2026-07-08T09:25:00.000Z",
+      "link": "https://x.com/yuren477/status/2074786951438446838",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074786063848259973",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "这是要重演今年三月份的行情吗\n\n搓搓小手，好期待呀",
+      "contentHtml": "这是要重演今年三月份的行情吗\n\n搓搓小手，好期待呀",
+      "publishedAt": "2026-07-08T09:21:00.000Z",
+      "link": "https://x.com/dongbimao/status/2074786063848259973",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMseimDbMAA3S8i.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074784457555579098",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "西内！\n西内！！\n西内！！！",
+      "contentHtml": "西内！\n西内！！\n西内！！！",
+      "publishedAt": "2026-07-08T09:15:00.000Z",
+      "link": "https://x.com/yuren477/status/2074784457555579098",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMsddZBbsAAcwoo.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMsddZEbQAAD0kc.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMsddZCb0AAlWPr.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074783065717837951",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "$Sive 的价格蛮吉利的，你们应该都听白毛股神@aleabitoreddit的话拿住了吧，真是恭喜你们了呢。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23Sive\">$Sive</a> 的价格蛮吉利的，你们应该都听白毛股神<a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a>的话拿住了吧，真是恭喜你们了呢。",
+      "publishedAt": "2026-07-08T09:10:00.000Z",
+      "link": "https://x.com/yuren477/status/2074783065717837951",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMsbxwUbQAA64UO.png"
+        }
+      ],
+      "quote": {
+        "username": "yuren477",
+        "displayName": "余人sama",
+        "content": "回头看，2020 年前后的 crypto是全世界最好的玩家池，\n现在我越来越确认，美股小票圈才是当下鱼最多的玩家池。\n前有午饭，后有最近这什么Ser，经典的天才女交易员人设。\n鱼太多，镰刀都不够用。\n一个只秀收益率、只玩小盘股的 KOL，也能吸引一群赛博司礼监。\n当然，动不动晒个 3200% 我其实也没觉得多夸张，小账户梭哈高倍数，本质上不是什么稀缺能力，\n我去年小账户也1万刀梭过 50 倍，说实话，没太大意义。\n难的是大资金能不能复制，回撤能不能控制，流动性能不能退出，错了以后怎么处理。\n说回 Serenity @aleabitoreddit 他最近一些喊单，我观感非常差。\n一个流动性很差的标的，\n先有仓位，\n再开始强叙事输出，\n再用收益率和确定性语言制造 FOMO，\n最后让后来的散户去提供流动性。\n这套东西，币圈老哥早就玩剩下了。\n现在美股圈里，居然还有一群人把它当成宝。\n\n所以我再提醒一下：\n到了这个阶段，就别傻乎乎去当别人的流动性了。\n你自己提前有仓位，那你想 FOMO 别人接，至少我还能理解这个交易动机。\n但有些人明明没仓位，还在别人喊单下面集体高潮，你是来赚钱的还是来追星谈恋爱的？有时候真好奇这些人的大脑构造。",
+        "contentHtml": "回头看，2020 年前后的 crypto是全世界最好的玩家池，\n现在我越来越确认，美股小票圈才是当下鱼最多的玩家池。\n前有午饭，后有最近这什么Ser，经典的天才女交易员人设。\n鱼太多，镰刀都不够用。\n一个只秀收益率、只玩小盘股的 KOL，也能吸引一群赛博司礼监。\n当然，动不动晒个 3200% 我其实也没觉得多夸张，小账户梭哈高倍数，本质上不是什么稀缺能力，\n我去年小账户也1万刀梭过 50 倍，说实话，没太大意义。\n难的是大资金能不能复制，回撤能不能控制，流动性能不能退出，错了以后怎么处理。\n说回 Serenity <a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a> 他最近一些喊单，我观感非常差。\n一个流动性很差的标的，\n先有仓位，\n再开始强叙事输出，\n再用收益率和确定性语言制造 FOMO，\n最后让后来的散户去提供流动性。\n这套东西，币圈老哥早就玩剩下了。\n现在美股圈里，居然还有一群人把它当成宝。\n\n所以我再提醒一下：\n到了这个阶段，就别傻乎乎去当别人的流动性了。\n你自己提前有仓位，那你想 FOMO 别人接，至少我还能理解这个交易动机。\n但有些人明明没仓位，还在别人喊单下面集体高潮，你是来赚钱的还是来追星谈恋爱的？有时候真好奇这些人的大脑构造。",
+        "link": "https://x.com/yuren477/status/2058924224367280431"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2074777985786499573",
       "username": "yuren477",
@@ -11819,147 +11962,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072501388635189342",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
-      "content": "ETH 大級別 Liq 分析：如何結合 BTC 數據判斷見底🛋\n\n即便 ETH 在本輪牛市週期中表現的一蹋糊塗，\n但其至今為止的詢問度、討論度依然很高，\n比起 BTC，其實很多人更關注 ETH 何時見底。\n\n今天，我就簡單以我自身 Liq 交易系統的角度，\n來和各位分享一些對於「ETH 底部訊號」的淺見👇：\n\n//\n\n如附圖所示：\nETH 的線型結構中，存在著一個非常明顯的 Liquidity，\n也就是自 2023 年以來至今、始終未被清掃的大級別 Equal Lows，\n目前這個 Equal Lows 的位置大約位於 1370。\n\n曾有許多群友詢問：ETH 的底部訊號該如何判斷❓\n\n我的回答始終如一：\n「在週期級別的底部判斷上，以 BTC 來判斷最簡單、高效」。\n\n簡單來說，如果我們要評估 ETH 的熊市底部價格，\n直接說出一個數字或許會有些難度，\n畢竟 ETH 的鏈上分析精確度，容易因 ETH token 本身的大量應用而降低。\n\n但如果我們直接判斷 BTC 就相對簡單很多：\n如果 BTC 見底（觸發多項週期性底部訊號，例如下方引文），\n那 ETH 隨之見底的可能性也就非常高。\n\n結合本文提到的 Liq 位置：\n如果未來 BTC 真能如我預期出現「最後一小哆嗦」，\n並且同時間 ETH 也向下清掃了 1370 的 Equal Lows，\n那我們就基本可以認定「ETH 的見底概率大幅提升」。\n\n綜上所述，如果你真的很想抄底 ETH，\n我目前的建議是「和 BTC 一樣：保持耐心，等待最佳出手時機」。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「BTC 長、短期持有者成本逆轉訊號」：簡易數據推算\nnitter.net/market_beggar/status/2…\n\n的小級別引力區：經典的 Trendline Liq 再次出現\nnitter.net/market_beggar/status/2…\n\n「史詩級週期底部估值共振」：二次探底如期進行中\nnitter.net/market_beggar/status/2…",
-      "contentHtml": "ETH 大級別 Liq 分析：如何結合 BTC 數據判斷見底🛋\n\n即便 ETH 在本輪牛市週期中表現的一蹋糊塗，\n但其至今為止的詢問度、討論度依然很高，\n比起 BTC，其實很多人更關注 ETH 何時見底。\n\n今天，我就簡單以我自身 Liq 交易系統的角度，\n來和各位分享一些對於「ETH 底部訊號」的淺見👇：\n\n//\n\n如附圖所示：\nETH 的線型結構中，存在著一個非常明顯的 Liquidity，\n也就是自 2023 年以來至今、始終未被清掃的大級別 Equal Lows，\n目前這個 Equal Lows 的位置大約位於 1370。\n\n曾有許多群友詢問：ETH 的底部訊號該如何判斷❓\n\n我的回答始終如一：\n「在週期級別的底部判斷上，以 BTC 來判斷最簡單、高效」。\n\n簡單來說，如果我們要評估 ETH 的熊市底部價格，\n直接說出一個數字或許會有些難度，\n畢竟 ETH 的鏈上分析精確度，容易因 ETH token 本身的大量應用而降低。\n\n但如果我們直接判斷 BTC 就相對簡單很多：\n如果 BTC 見底（觸發多項週期性底部訊號，例如下方引文），\n那 ETH 隨之見底的可能性也就非常高。\n\n結合本文提到的 Liq 位置：\n如果未來 BTC 真能如我預期出現「最後一小哆嗦」，\n並且同時間 ETH 也向下清掃了 1370 的 Equal Lows，\n那我們就基本可以認定「ETH 的見底概率大幅提升」。\n\n綜上所述，如果你真的很想抄底 ETH，\n我目前的建議是「和 BTC 一樣：保持耐心，等待最佳出手時機」。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「BTC 長、短期持有者成本逆轉訊號」：簡易數據推算\n<a href=\"https://nitter.net/market_beggar/status/2072136661434307014\">nitter.net/market_beggar/status/2…</a>\n\n的小級別引力區：經典的 Trendline Liq 再次出現\n<a href=\"https://nitter.net/market_beggar/status/2071409778182762540\">nitter.net/market_beggar/status/2…</a>\n\n「史詩級週期底部估值共振」：二次探底如期進行中\n<a href=\"https://nitter.net/market_beggar/status/2070324576526139573\">nitter.net/market_beggar/status/2…</a>",
-      "publishedAt": "2026-07-02T02:03:00.000Z",
-      "link": "https://x.com/market_beggar/status/2072501388635189342",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMMBBnnacAIrnku.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「市場的寒武紀階段」：第二項週期性底部訊號出現🌱\n\n06/08，我和分享了第一個出現的週期性底部訊號（下方引文），\n時隔三週，就在最近幾天，第二項週期性底部訊號也隨之浮現，\n這項訊號正是我今天要分享的「AVIV Heatmap」。\n\n先說結論：\nAVIV Heatmap 目前顯示 BTC 已正式進入「藍色抄底區🟦」。\n\n//\n\n附圖的指標是 AVIV Heatmap，核心概念重溫如下：\n➡️ 全稱 AVIV Heatmap，是我個人設計的模型\n➡️ AVIV 可視為「活躍籌碼的盈利倍數」，是優化版的 MVRV\n➡️ AVIV Heatmap 是利用 AVIV 存在均值回歸的特性，所設計的模型\n➡️ 概念出自 Cointime Economic 方法論（由 Ark、Glassnode 提出）\n\n指標詳細說明可參考以下鏈接🔗：\nnitter.net/market_beggar/status/1…\n\n//\n\n如附圖所示：\n作為「四大深熊抄底模型」之一的 AVIV Heatmap，\n就在最近幾天顯示：BTC 正式進入了「週期的寒武紀抄底時刻」，\n這是自 BTC 在 2023 年初以來，第一次重返回到「藍色抄底區」‼️\n\n📖 黃金坑追蹤系列（十七）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n貝格的老朋友都知道：\n不論是 2025 年初的逃頂（nitter.net/market_beggar/status/1…），\n又或是 2025 年 7~10 月的做空（nitter.net/market_beggar/status/1…），\nAVIV Heatmap 都扮演著極其重要的指引者地位。\n\n自 BTC 誕生至今，它始終遵循著如下的規律：\n➡️ 牛轉熊：紅色🟥 > 橘色🟧 > 黃色🟨 > 綠色🟩 > 藍色🟦\n➡️ 熊轉牛：藍色🟦 > 綠色🟩 > 黃色🟨 > 橘色🟧 > 紅色🟥\n\n時間回到現在，雖然 BTC 已正式進入週期性抄底區，\n但仍有兩件事情需要和各位強調：\n1️⃣ 進入藍色區域後，通常不會馬上見底，而是會出現一段時間的磨底\n2️⃣ AVIV Heatmap 本身更像是「狀態指引」，不能精準指出底部價格\n\n綜上所述：\n結合我們最近的每一篇分析，包含深熊估值模型、Liq 分布 ... 等，\n我們便可得出以下結論（我自己一路追蹤以來的 bias）：\n🔺 AVIV Heatmap 進入藍色區域，意味著熊市已進入最後階段\n🔺 Liq 分布支持最後一小哆嗦（nitter.net/market_beggar/status/2…）\n🔺 承上，最後一小哆嗦的理想狀態，便是跌入深熊估值模型的共振區\n\n📖「史詩級週期底部估值共振」：二次探底如期進行中\nnitter.net/market_beggar/status/2…\n\n//\n\nAVIV Heatmap 給出的跡象，已是 BTC 本輪熊市發展至今，\n出現的第二項「週期性底部訊號」。\n\n如果你是長期投資的現貨黨，對於絕對底部的價格沒有太大追求，\n而是更傾向於「模糊正確」，那本文分享的訊號，\n結合上次分享的 PSIP < 50% 抄底訊號（下方引文），\n從現在開始布局 BTC 絕對是沒有太大問題的策略。\n\n但如果你和我一樣，是希望將細節做得更完美一些的週期交易者，\n那以現在的狀況而言，我會更傾向於再等待一段時間，\n並期望看到我劇本中的「踩入深熊估值模型區的最後一小哆嗦」。\n\n黎明將至，寒冬已接近尾聲，市場距離回春僅有最後一哩路，\n熊市路漫漫，願各位都能和我一同迎來福報、共創輝煌。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「共振將至」：BTC 長期持有者成本最新數據更新\nnitter.net/market_beggar/status/2…\n\n「吸籌加速中」：靜待熊市結束的曙光\nnitter.net/market_beggar/status/2…\n\n續談 RUP：為何說我們距離熊底不遠了\nnitter.net/market_beggar/status/2…",
-        "contentHtml": "「市場的寒武紀階段」：第二項週期性底部訊號出現🌱\n\n06/08，我和分享了第一個出現的週期性底部訊號（下方引文），\n時隔三週，就在最近幾天，第二項週期性底部訊號也隨之浮現，\n這項訊號正是我今天要分享的「AVIV Heatmap」。\n\n先說結論：\nAVIV Heatmap 目前顯示 BTC 已正式進入「藍色抄底區🟦」。\n\n//\n\n附圖的指標是 AVIV Heatmap，核心概念重溫如下：\n➡️ 全稱 AVIV Heatmap，是我個人設計的模型\n➡️ AVIV 可視為「活躍籌碼的盈利倍數」，是優化版的 MVRV\n➡️ AVIV Heatmap 是利用 AVIV 存在均值回歸的特性，所設計的模型\n➡️ 概念出自 Cointime Economic 方法論（由 Ark、Glassnode 提出）\n\n指標詳細說明可參考以下鏈接🔗：\n<a href=\"https://nitter.net/market_beggar/status/1942759255385465186\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n如附圖所示：\n作為「四大深熊抄底模型」之一的 AVIV Heatmap，\n就在最近幾天顯示：BTC 正式進入了「週期的寒武紀抄底時刻」，\n這是自 BTC 在 2023 年初以來，第一次重返回到「藍色抄底區」‼️\n\n📖 黃金坑追蹤系列（十七）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2062713685639049363\">nitter.net/market_beggar/status/2…</a>\n\n貝格的老朋友都知道：\n不論是 2025 年初的逃頂（<a href=\"https://nitter.net/market_beggar/status/1878653495311839475\">nitter.net/market_beggar/status/1…</a>），\n又或是 2025 年 7~10 月的做空（<a href=\"https://nitter.net/market_beggar/status/1991320675865489815\">nitter.net/market_beggar/status/1…</a>），\nAVIV Heatmap 都扮演著極其重要的指引者地位。\n\n自 BTC 誕生至今，它始終遵循著如下的規律：\n➡️ 牛轉熊：紅色🟥 &gt; 橘色🟧 &gt; 黃色🟨 &gt; 綠色🟩 &gt; 藍色🟦\n➡️ 熊轉牛：藍色🟦 &gt; 綠色🟩 &gt; 黃色🟨 &gt; 橘色🟧 &gt; 紅色🟥\n\n時間回到現在，雖然 BTC 已正式進入週期性抄底區，\n但仍有兩件事情需要和各位強調：\n1️⃣ 進入藍色區域後，通常不會馬上見底，而是會出現一段時間的磨底\n2️⃣ AVIV Heatmap 本身更像是「狀態指引」，不能精準指出底部價格\n\n綜上所述：\n結合我們最近的每一篇分析，包含深熊估值模型、Liq 分布 ... 等，\n我們便可得出以下結論（我自己一路追蹤以來的 bias）：\n🔺 AVIV Heatmap 進入藍色區域，意味著熊市已進入最後階段\n🔺 Liq 分布支持最後一小哆嗦（<a href=\"https://nitter.net/market_beggar/status/2071409778182762540\">nitter.net/market_beggar/status/2…</a>）\n🔺 承上，最後一小哆嗦的理想狀態，便是跌入深熊估值模型的共振區\n\n📖「史詩級週期底部估值共振」：二次探底如期進行中\n<a href=\"https://nitter.net/market_beggar/status/2070324576526139573\">nitter.net/market_beggar/status/2…</a>\n\n//\n\nAVIV Heatmap 給出的跡象，已是 BTC 本輪熊市發展至今，\n出現的第二項「週期性底部訊號」。\n\n如果你是長期投資的現貨黨，對於絕對底部的價格沒有太大追求，\n而是更傾向於「模糊正確」，那本文分享的訊號，\n結合上次分享的 PSIP &lt; 50% 抄底訊號（下方引文），\n從現在開始布局 BTC 絕對是沒有太大問題的策略。\n\n但如果你和我一樣，是希望將細節做得更完美一些的週期交易者，\n那以現在的狀況而言，我會更傾向於再等待一段時間，\n並期望看到我劇本中的「踩入深熊估值模型區的最後一小哆嗦」。\n\n黎明將至，寒冬已接近尾聲，市場距離回春僅有最後一哩路，\n熊市路漫漫，願各位都能和我一同迎來福報、共創輝煌。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「共振將至」：BTC 長期持有者成本最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2069600684824264739\">nitter.net/market_beggar/status/2…</a>\n\n「吸籌加速中」：靜待熊市結束的曙光\n<a href=\"https://nitter.net/market_beggar/status/2067425965484265477\">nitter.net/market_beggar/status/2…</a>\n\n續談 RUP：為何說我們距離熊底不遠了\n<a href=\"https://nitter.net/market_beggar/status/2064888551414915362\">nitter.net/market_beggar/status/2…</a>",
-        "link": "https://x.com/market_beggar/status/2071773101898223809",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMBqpwhasAA4Dwm.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072500827114336423",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#运气还是实力 \n\n1️⃣ 我对这件事有一个特别简单的判断标准\n\n只成功过一次，还是反反复复，可验证地成功。\n\n拿投资来举例，就是高杠杆赌博大成功，还是疯狂持续盈利。\n\n2️⃣ 我觉得运气还是实力根本不重要\n\n大家不管赚钱没赚钱，成功没成功，都想输出自己的价值观（包括这条）。\n\n说给自己听，说给相信你的人听就行了。\n\n非要二选一的话，我希望自己一辈子没什么实力，但是运气好到爆炸。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23运气还是实力\">#运气还是实力</a> \n\n1️⃣ 我对这件事有一个特别简单的判断标准\n\n只成功过一次，还是反反复复，可验证地成功。\n\n拿投资来举例，就是高杠杆赌博大成功，还是疯狂持续盈利。\n\n2️⃣ 我觉得运气还是实力根本不重要\n\n大家不管赚钱没赚钱，成功没成功，都想输出自己的价值观（包括这条）。\n\n说给自己听，说给相信你的人听就行了。\n\n非要二选一的话，我希望自己一辈子没什么实力，但是运气好到爆炸。",
-      "publishedAt": "2026-07-02T02:01:00.000Z",
-      "link": "https://x.com/taresky/status/2072500827114336423",
-      "quote": {
-        "username": "silsrc",
-        "displayName": "scr.c",
-        "content": "这几天看推特和各种言论，发现很多人因为自己当初某个项目成功财富自由了就觉得自己技术牛逼…\n其实随便换个人换到你当初的位置，大概率一样能成，搞不好做得更好。",
-        "contentHtml": "这几天看推特和各种言论，发现很多人因为自己当初某个项目成功财富自由了就觉得自己技术牛逼…\n其实随便换个人换到你当初的位置，大概率一样能成，搞不好做得更好。",
-        "link": "https://x.com/silsrc/status/2072013047640858885"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072499796171243950",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "稳， $SNDK 和 $INTC 空单已落袋为安💰\n\n今天凌晨 2 点左右，这位聪明钱已平仓闪迪和英特尔价值 1341 万美元的空单，获利 44.8 万美元；目前仍持有超 2234 万美元的 $BTC / 海力士($SKHX) / 美光($MU) 空单，浮盈 133.5 万美元\n\n传送门 👉 d.pro/portfolio/0x0ad9e656d9…",
-      "contentHtml": "稳， <a href=\"/search?f=tweets&q=%23SNDK\">$SNDK</a> 和 <a href=\"/search?f=tweets&q=%23INTC\">$INTC</a> 空单已落袋为安💰\n\n今天凌晨 2 点左右，这位聪明钱已平仓闪迪和英特尔价值 1341 万美元的空单，获利 44.8 万美元；目前仍持有超 2234 万美元的 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> / 海力士($SKHX) / 美光($MU) 空单，浮盈 133.5 万美元\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0x0ad9e656d9e6211d0ea1c5462342e1fc94cc4cbf\">d.pro/portfolio/0x0ad9e656d9…</a>",
-      "publishedAt": "2026-07-02T01:57:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2072499796171243950",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HML_dKRa4AAcbpI.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "曾靠做多 $SKHX / $MU / $INTC 获利 415 万美元的聪明钱，首次看空！👊\n\n下午 17:30 左右他开启了美光 (MU) / 海力士(SKHX) / 闪迪($SNDK) / 英特尔(INTC) / $BTC 的一揽子空单，总持仓超 3490 万美元，而美股开盘大跌，短短四小时就已浮盈 174.2 万美元！\n\n传送门 👉 d.pro/portfolio/0x0ad9e656d9…",
-        "contentHtml": "曾靠做多 <a href=\"/search?f=tweets&q=%23SKHX\">$SKHX</a> / <a href=\"/search?f=tweets&q=%23MU\">$MU</a> / <a href=\"/search?f=tweets&q=%23INTC\">$INTC</a> 获利 415 万美元的聪明钱，首次看空！👊\n\n下午 17:30 左右他开启了美光 (MU) / 海力士(SKHX) / 闪迪($SNDK) / 英特尔(INTC) / <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 的一揽子空单，总持仓超 3490 万美元，而美股开盘大跌，短短四小时就已浮盈 174.2 万美元！\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0x0ad9e656d9e6211d0ea1c5462342e1fc94cc4cbf\">d.pro/portfolio/0x0ad9e656d9…</a>",
-        "link": "https://x.com/ai_9684xtpa/status/2072313607040499908",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMJWAxsa8AEP-wR.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072492778534117708",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "投资讲成本，讲回报\n对公司来讲也是一样，砸CAPEX，训练模型，最后一定是通过卖API变现，或者为已有业务赋能，这样做的回报周期长，但潜在市场大，回报比率可能3X，4X\n但现在有一家公司（A），通过卖API，毛利率70%，成本30%（交给大云），大云的利润假设40%，那就是A卖100刀的API，自己赚70，云的收入30，成本18，赚12。现在A说我要更多的算力，即使你卖我40我也接受，那做为云厂来说，以前的投资成本不变，还是18，现在卖40，赚22。做为XAI，META这类的公司来说，不如趁着A的变现能力强，先变现一部分自己以前的CAPEX花费，双赢的局面。这件事并非AI有泡沫，而是AI的变现能力差异决定了底层算力往哪走。",
-      "contentHtml": "投资讲成本，讲回报\n对公司来讲也是一样，砸CAPEX，训练模型，最后一定是通过卖API变现，或者为已有业务赋能，这样做的回报周期长，但潜在市场大，回报比率可能3X，4X\n但现在有一家公司（A），通过卖API，毛利率70%，成本30%（交给大云），大云的利润假设40%，那就是A卖100刀的API，自己赚70，云的收入30，成本18，赚12。现在A说我要更多的算力，即使你卖我40我也接受，那做为云厂来说，以前的投资成本不变，还是18，现在卖40，赚22。做为XAI，META这类的公司来说，不如趁着A的变现能力强，先变现一部分自己以前的CAPEX花费，双赢的局面。这件事并非AI有泡沫，而是AI的变现能力差异决定了底层算力往哪走。",
-      "publishedAt": "2026-07-02T01:29:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2072492778534117708",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072480152886374870",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "更新一下凯文沃什的风格：\n今天ECB会议，沃什说到：\"有人说我们需要知道美联储的反应机制（REACTION FUNCTION），如果我看债券，波动没有上升，反而下降了，利率下降了，通胀预期下降了。有人说债券市场不知道，我觉得他们知道的很清楚。\"\n市场一些声音包括彭博都认为凯文沃什可能利用工作小组的时间区间拖延利率决策。我今天听完沃什的采访后我仍然认为他必须执行债市现在的预期，因为债市理解沃什的鹰派信号：价格稳定，所以定价了加息，所以定价了通胀预期下降，市场在帮沃什做事（相对紧缩的金融环境），所以才会有了通胀预期下降。最后如果沃什不跟着市场走，那就是市场误解了沃什的发言，对他以后的信号传递没有帮助。这就是我现在的判断，慢慢了解沃什的过程中。",
-      "contentHtml": "更新一下凯文沃什的风格：\n今天ECB会议，沃什说到：\"有人说我们需要知道美联储的反应机制（REACTION FUNCTION），如果我看债券，波动没有上升，反而下降了，利率下降了，通胀预期下降了。有人说债券市场不知道，我觉得他们知道的很清楚。\"\n市场一些声音包括彭博都认为凯文沃什可能利用工作小组的时间区间拖延利率决策。我今天听完沃什的采访后我仍然认为他必须执行债市现在的预期，因为债市理解沃什的鹰派信号：价格稳定，所以定价了加息，所以定价了通胀预期下降，市场在帮沃什做事（相对紧缩的金融环境），所以才会有了通胀预期下降。最后如果沃什不跟着市场走，那就是市场误解了沃什的发言，对他以后的信号传递没有帮助。这就是我现在的判断，慢慢了解沃什的过程中。",
-      "publishedAt": "2026-07-02T00:39:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2072480152886374870",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072445609949438030",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "这个要是通过了以后除了特斯拉还有个iPhone国行也会更便宜？",
-      "contentHtml": "这个要是通过了以后除了特斯拉还有个iPhone国行也会更便宜？",
-      "publishedAt": "2026-07-01T22:21:00.000Z",
-      "link": "https://x.com/hazenlee/status/2072445609949438030",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMLOStubAAAi7H6.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
