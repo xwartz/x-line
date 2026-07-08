@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T03:09:52.980Z",
+  "lastUpdated": "2026-07-08T05:09:40.874Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -114,6 +114,142 @@
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2074714840518783020",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "言尽于此，能救几个是几个吧。",
+      "contentHtml": "言尽于此，能救几个是几个吧。",
+      "publishedAt": "2026-07-08T04:38:00.000Z",
+      "link": "https://x.com/yuren477/status/2074714840518783020",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMreJTMaIAECJ6n.jpg"
+        }
+      ],
+      "quote": {
+        "username": "yuren477",
+        "displayName": "余人sama",
+        "content": "韩股当前的波动率是一个很不好的信号，不建议任何人此时做出激进操作，老师的抄底位置在12xx到9xx，耐心等待。",
+        "contentHtml": "韩股当前的波动率是一个很不好的信号，不建议任何人此时做出激进操作，老师的抄底位置在12xx到9xx，耐心等待。",
+        "link": "https://x.com/yuren477/status/2074659486330139082",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMqrzdWbQAAn2A8.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074714484057489683",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n基于 mattpocock/skills 和今天 Claude 官方的 Fable token 节约文章。\n\n让 AI 把 /implement 改造成了 /implement-codex。\n\n现在完整的工作流如图。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n基于 mattpocock/skills 和今天 Claude 官方的 Fable token 节约文章。\n\n让 AI 把 /implement 改造成了 /implement-codex。\n\n现在完整的工作流如图。",
+      "publishedAt": "2026-07-08T04:37:00.000Z",
+      "link": "https://x.com/taresky/status/2074714484057489683",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMrYRx6bcAAeSCi.png"
+        }
+      ],
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#AI \n\n今天搞个新工具，尝试用 Fable5 来梳理需求，然后让 gpt5.5 完成开发。\n\n需求用 mattpocock/skills 的 grill → PRD → issues。只花了 12M token，30 usd左右。\n\n开发用 mattpocock/skills 的 /implement。\n\n附上 mattpocock/skills 作者的推荐用法⬇️",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n今天搞个新工具，尝试用 Fable5 来梳理需求，然后让 gpt5.5 完成开发。\n\n需求用 mattpocock/skills 的 grill → PRD → issues。只花了 12M token，30 usd左右。\n\n开发用 mattpocock/skills 的 /implement。\n\n附上 mattpocock/skills 作者的推荐用法⬇️",
+        "link": "https://x.com/taresky/status/2073218631857754562",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMWMlyUbcAIltdt.png"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMWNDCubkAASCvV.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074712800803348544",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "今天的内容：30分钟，这个博主太良心了😂",
+      "contentHtml": "今天的内容：30分钟，这个博主太良心了😂",
+      "publishedAt": "2026-07-08T04:30:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2074712800803348544",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMrcLaLWUAAz-S0.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074705237135298660",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "微软不仅部署开源模型，还开始自研模型来MAI。看彭博报道，微软正在Excel和Outlook等Microsoft 365应用中，逐步用自研的MAI（Microsoft AI）模型取代部分OpenAI和Anthropic的模型，以降低AI推理成本。\n\n据知情人士透露，每周已有数以万计的AI提示（prompts）由MAI模型处理，而此前这些应用更多依赖外部模型。微软仍通过“模型路由”（model routing）机制，对复杂任务保留使用前沿合作伙伴模型。\n\n这一举措标志着微软在低成本自研AI路线上取得实质性突破——从依赖外部前沿模型转向大规模内部部署“够用且高效”的自研模型。\n\n2026年6月微软Build大会上，Microsoft AI团队（由Mustafa Suleyman领导）发布了7款全新自研MAI模型，形成一个多模态、任务专精的模型家族。核心理念是：1）从头训练（from scratch），不蒸馏（distill）其他实验室模型；\n2）使用干净、可追溯、企业级授权数据\n3）强调效率、成本、安全和企业集成。4（与自家Maia芯片协同设计，进一步提升性价比。\n\n主要模型包括：\n1）MAI-Thinking-1：旗舰推理模型（重点分析对象）。\n2）MAI-Code-1-Flash：轻量级编码模型（5B活跃参数），已深度集成GitHub Copilot和VS Code。\n3）MAI-Image-2.5 / Flash：文本到图像生成与编辑，已用于PowerPoint。\n4）MAI-Transcribe-1.5：转录模型，号称SOTA准确率、速度快5倍，支持43种语言领域术语。\n5）MAI-Voice-2 / Flash：高质量文本转语音，支持10种语言，Flash版更低成本。\n6）还有与Mayo Clinic合作的医疗领域专用模型。\n\n这些模型已在Microsoft Foundry（私有预览）、Azure、OpenRouter、Fireworks AI等平台可用，并逐步嵌入Microsoft 365生产环境。MAI-Thinking-1 详细分析（核心模型）\n这是微软自研推理能力的代表作，定位“中型但强悍”，适合日常企业部署而非单纯追求参数规模。\n\n独立评测机构Surge的盲测中，用户更偏好MAI-Thinking-1而非Sonnet 4.6（单轮和多轮任务均优）。\n\n有何优势？\n1）极致性价比：微软官方称，针对Excel优化的MAI模型性能匹配GPT-5.4，但效率最高可达10倍。早期采用者也报告类似“最高胜率 + 约10倍更低成本”的结果。\n2）数据主权与安全：企业级干净数据训练，内置安全护栏、版权保护，适合合规敏感场景。\n3）集成与部署友好：可微调（tuning），支持工具调用、代理工作流，已在生产环境中规模化运行。\n4）低延迟/高吞吐：适合Excel数据分析、Outlook邮件起草/总结等高频常规任务。\n\n客观看待\n1）MAI尚未达到OpenAI/Anthropic最前沿模型的绝对顶尖水平（尤其极复杂、多代理或创意开放任务）。\n\n2）典型应用场景也是高频、低复杂度、高体积的任务，用自研模型能大幅降低每token成本，同时保持用户体验。复杂推理仍可fallback到OpenAI/Anthropic。\n\n这也是之前说超大CSP其实在积极重溯其商业模式：\n1）AI推理是微软云业务的主要成本项之一，部署开源模型直接改善毛利率，自研模型进一步优化成本结构；\n2）战略独立，减少对OpenAI（深度合作伙伴）和Anthropic的依赖，增强供应链韧性；\n3）自研模型 + Maia芯片 + Microsoft 365深度集成，形成独特优势，打造生态闭环；\n4）干净数据 + 合规 + 低成本 + 可微调，对大企业极具吸引力。\n\n证明微软已具备从头构建竞争性中大型模型的能力，训练循环和后训练优化有效。验证了“高效中型模型 + 规模部署”在生产环境的价值，而非一味追求参数军备竞赛。\n\n还是之前聊到的，CSP 正在成为企业多模型架构中的关键“中间层”，既帮客户降本，又自己赚取更高比例的利润。\n\n未来趋势很明确：\n闭源前沿模型继续走高端溢价路线而 开源模型 + CSP 托管 将成为中低端和高频场景的主力。\n能把开源模型 或者自研模型serving 做到极致低成本 + 高可靠的 CSP，将在 AI 时代获得显著的利润率优势。",
+      "contentHtml": "微软不仅部署开源模型，还开始自研模型来MAI。看彭博报道，微软正在Excel和Outlook等Microsoft 365应用中，逐步用自研的MAI（Microsoft AI）模型取代部分OpenAI和Anthropic的模型，以降低AI推理成本。\n\n据知情人士透露，每周已有数以万计的AI提示（prompts）由MAI模型处理，而此前这些应用更多依赖外部模型。微软仍通过“模型路由”（model routing）机制，对复杂任务保留使用前沿合作伙伴模型。\n\n这一举措标志着微软在低成本自研AI路线上取得实质性突破——从依赖外部前沿模型转向大规模内部部署“够用且高效”的自研模型。\n\n2026年6月微软Build大会上，Microsoft AI团队（由Mustafa Suleyman领导）发布了7款全新自研MAI模型，形成一个多模态、任务专精的模型家族。核心理念是：1）从头训练（from scratch），不蒸馏（distill）其他实验室模型；\n2）使用干净、可追溯、企业级授权数据\n3）强调效率、成本、安全和企业集成。4（与自家Maia芯片协同设计，进一步提升性价比。\n\n主要模型包括：\n1）MAI-Thinking-1：旗舰推理模型（重点分析对象）。\n2）MAI-Code-1-Flash：轻量级编码模型（5B活跃参数），已深度集成GitHub Copilot和VS Code。\n3）MAI-Image-2.5 / Flash：文本到图像生成与编辑，已用于PowerPoint。\n4）MAI-Transcribe-1.5：转录模型，号称SOTA准确率、速度快5倍，支持43种语言领域术语。\n5）MAI-Voice-2 / Flash：高质量文本转语音，支持10种语言，Flash版更低成本。\n6）还有与Mayo Clinic合作的医疗领域专用模型。\n\n这些模型已在Microsoft Foundry（私有预览）、Azure、OpenRouter、Fireworks AI等平台可用，并逐步嵌入Microsoft 365生产环境。MAI-Thinking-1 详细分析（核心模型）\n这是微软自研推理能力的代表作，定位“中型但强悍”，适合日常企业部署而非单纯追求参数规模。\n\n独立评测机构Surge的盲测中，用户更偏好MAI-Thinking-1而非Sonnet 4.6（单轮和多轮任务均优）。\n\n有何优势？\n1）极致性价比：微软官方称，针对Excel优化的MAI模型性能匹配GPT-5.4，但效率最高可达10倍。早期采用者也报告类似“最高胜率 + 约10倍更低成本”的结果。\n2）数据主权与安全：企业级干净数据训练，内置安全护栏、版权保护，适合合规敏感场景。\n3）集成与部署友好：可微调（tuning），支持工具调用、代理工作流，已在生产环境中规模化运行。\n4）低延迟/高吞吐：适合Excel数据分析、Outlook邮件起草/总结等高频常规任务。\n\n客观看待\n1）MAI尚未达到OpenAI/Anthropic最前沿模型的绝对顶尖水平（尤其极复杂、多代理或创意开放任务）。\n\n2）典型应用场景也是高频、低复杂度、高体积的任务，用自研模型能大幅降低每token成本，同时保持用户体验。复杂推理仍可fallback到OpenAI/Anthropic。\n\n这也是之前说超大CSP其实在积极重溯其商业模式：\n1）AI推理是微软云业务的主要成本项之一，部署开源模型直接改善毛利率，自研模型进一步优化成本结构；\n2）战略独立，减少对OpenAI（深度合作伙伴）和Anthropic的依赖，增强供应链韧性；\n3）自研模型 + Maia芯片 + Microsoft 365深度集成，形成独特优势，打造生态闭环；\n4）干净数据 + 合规 + 低成本 + 可微调，对大企业极具吸引力。\n\n证明微软已具备从头构建竞争性中大型模型的能力，训练循环和后训练优化有效。验证了“高效中型模型 + 规模部署”在生产环境的价值，而非一味追求参数军备竞赛。\n\n还是之前聊到的，CSP 正在成为企业多模型架构中的关键“中间层”，既帮客户降本，又自己赚取更高比例的利润。\n\n未来趋势很明确：\n闭源前沿模型继续走高端溢价路线而 开源模型 + CSP 托管 将成为中低端和高频场景的主力。\n能把开源模型 或者自研模型serving 做到极致低成本 + 高可靠的 CSP，将在 AI 时代获得显著的利润率优势。",
+      "publishedAt": "2026-07-08T04:00:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2074705237135298660",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMrVZkaasAAwG-Z.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "CSP（云服务商）部署性价比高的开源模型并转售Token的意义在于：1）CSP商业模式的重塑；2）摆脱AI商业化只看闭源前沿大模型ARR的窘境（CSP业绩表现同等重要）。昨天Coinbase的AI成本工程化的实例，用工程手段把成本支出给压下来——路由到开源模型、缓存命中率从5%提到60%、上下文精简，方向完全不是“少用”而是“更便宜地用更多”。势必会带动很多企业跟进，当然coinbase本身就是科技企业，有能力配置自己内部的AI操作系统。但是大部分企业其实没有这个能力的，最后还是要去依赖于云厂商。\n\nCSP部署高性比价比的开源模型能显著降低自身边际成本，并提升 AI 相关业务的利润率。这正是当前云厂商（AWS、Azure、Google Cloud，以及国内阿里云、腾讯云等）大力推动开源模型上云的核心商业逻辑之一。\n\n1、为什么成本会更低？\n与转售闭源前沿模型（通过 Bedrock、Azure OpenAI、Vertex AI 等渠道销售 Claude、GPT、Gemini）相比，部署开源模型（Llama、DeepSeek、Qwen、Mistral 等）的边际成本优势明显：\n1）无模型授权/分成成本 转售闭源模型时，转售闭源模型：CSP 拿到的分成比例有限（通常 20-50% 不等，具体看合同），还要承担模型方的定价压力。\n\n自托管开源模型转售，开源模型基本零授权成本，CSP 只需承担自己的算力、电费和运维成本。CSP 几乎拿走全部 markup（扣除算力成本后）。因为定价可以参考开源社区实际成本 + 合理溢价，空间更大。\n\n2）硬件与推理优化控制权 CSP 可以用自家定制芯片（AWS Inferentia/Trainium、Google TPU、阿里云自研芯片等）深度优化开源模型的 serving（量化、批处理、投机解码、vLLM/TensorRT-LLM 等）。开源模型在相同硬件上的实际推理成本通常只有闭源模型的 1/5～1/10 甚至更低。\n\n3）规模效应与利用率提升 CSP 拥有海量 GPU/加速器集群，部署开源模型后更容易实现高利用率（尤其是中低复杂度、高频任务）。高利用率直接摊薄固定成本。\n\n2、这会带来实际的商业效果\n1）CSP 能以更低价格向客户提供“够用”模型，同时保持较高毛利。\n2）这有助于吸引大量中小企业和成本敏感型大客户，提升平台整体 AI 收入规模和粘性。\n3）在多模型路由场景下，CSP 还能通过自家 Gateway 把简单任务默认路由到开源模型，进一步提高自家平台的综合利润率。\n\n单个企业AI支出降低（例如coinbase）但采用AI的企业更多了（总盘子更大）\n\n多家云厂商已经在这么做：\nAWS Bedrock 大量上架 DeepSeek、Llama 等开源模型；\nGoogle Vertex AI Model Garden、\nAzure AI Studio 也大力推广开源选项。这不是慈善，而是利润驱动。也是重塑了CSP的成本结构。\n\n3、更大的意义\n1）之前AI商业化市场首先看前沿闭源大模型厂商的ARR，特别是Authropic的ARR。在对股市的影响层面上模型ARR的权重高于csp的云业务增速；\n\n2）但是coinbase的工程化实践也说明了开源模型在高频、低价值场景下的作用。站在云厂商的角度，大量的数据中心和算力投入都是csp在主导，如果它们不能在商业化上占据主导地位，那确实投入产出不成比例。\n\n3）csp部署开源模型，占据高频中低价值业务场景，改变成本结构，对于csp是非常大的利好。csp的商业化回报更好，自然他们的庞大资本开支ROI就更漂亮了。\n\n这也会大大提升整个AI商业化的进程，加快企业采用AI的步伐。未来看AI商业化，就不能只盯着大模型厂商了、CSP的业绩表现也同等重要，而不只是第二权重了。\n\n总的来说\nCSP 部署性价比高的开源模型并转售 Token，是当前提升 AI 业务利润率的最有效路径之一。它本质上是把“模型层”商品化后，CSP 把价值更多地转移到基础设施 + 平台服务层（托管、优化、路由、治理、安全）。\n\n这与昨天聊到coinbase的“企业 AI 采用进入成本工程化阶段”高度一致——CSP 正在成为企业多模型架构中的关键“中间层”，既帮客户降本，又自己赚取更高比例的利润。\n\n未来趋势很明确：\n闭源前沿模型继续走高端溢价路线而 开源模型 + CSP 托管 将成为中低端和高频场景的主力。能把开源模型 serving 做到极致低成本 + 高可靠的 CSP，将在 AI 时代获得显著的利润率优势。",
+        "contentHtml": "CSP（云服务商）部署性价比高的开源模型并转售Token的意义在于：1）CSP商业模式的重塑；2）摆脱AI商业化只看闭源前沿大模型ARR的窘境（CSP业绩表现同等重要）。昨天Coinbase的AI成本工程化的实例，用工程手段把成本支出给压下来——路由到开源模型、缓存命中率从5%提到60%、上下文精简，方向完全不是“少用”而是“更便宜地用更多”。势必会带动很多企业跟进，当然coinbase本身就是科技企业，有能力配置自己内部的AI操作系统。但是大部分企业其实没有这个能力的，最后还是要去依赖于云厂商。\n\nCSP部署高性比价比的开源模型能显著降低自身边际成本，并提升 AI 相关业务的利润率。这正是当前云厂商（AWS、Azure、Google Cloud，以及国内阿里云、腾讯云等）大力推动开源模型上云的核心商业逻辑之一。\n\n1、为什么成本会更低？\n与转售闭源前沿模型（通过 Bedrock、Azure OpenAI、Vertex AI 等渠道销售 Claude、GPT、Gemini）相比，部署开源模型（Llama、DeepSeek、Qwen、Mistral 等）的边际成本优势明显：\n1）无模型授权/分成成本 转售闭源模型时，转售闭源模型：CSP 拿到的分成比例有限（通常 20-50% 不等，具体看合同），还要承担模型方的定价压力。\n\n自托管开源模型转售，开源模型基本零授权成本，CSP 只需承担自己的算力、电费和运维成本。CSP 几乎拿走全部 markup（扣除算力成本后）。因为定价可以参考开源社区实际成本 + 合理溢价，空间更大。\n\n2）硬件与推理优化控制权 CSP 可以用自家定制芯片（AWS Inferentia/Trainium、Google TPU、阿里云自研芯片等）深度优化开源模型的 serving（量化、批处理、投机解码、vLLM/TensorRT-LLM 等）。开源模型在相同硬件上的实际推理成本通常只有闭源模型的 1/5～1/10 甚至更低。\n\n3）规模效应与利用率提升 CSP 拥有海量 GPU/加速器集群，部署开源模型后更容易实现高利用率（尤其是中低复杂度、高频任务）。高利用率直接摊薄固定成本。\n\n2、这会带来实际的商业效果\n1）CSP 能以更低价格向客户提供“够用”模型，同时保持较高毛利。\n2）这有助于吸引大量中小企业和成本敏感型大客户，提升平台整体 AI 收入规模和粘性。\n3）在多模型路由场景下，CSP 还能通过自家 Gateway 把简单任务默认路由到开源模型，进一步提高自家平台的综合利润率。\n\n单个企业AI支出降低（例如coinbase）但采用AI的企业更多了（总盘子更大）\n\n多家云厂商已经在这么做：\nAWS Bedrock 大量上架 DeepSeek、Llama 等开源模型；\nGoogle Vertex AI Model Garden、\nAzure AI Studio 也大力推广开源选项。这不是慈善，而是利润驱动。也是重塑了CSP的成本结构。\n\n3、更大的意义\n1）之前AI商业化市场首先看前沿闭源大模型厂商的ARR，特别是Authropic的ARR。在对股市的影响层面上模型ARR的权重高于csp的云业务增速；\n\n2）但是coinbase的工程化实践也说明了开源模型在高频、低价值场景下的作用。站在云厂商的角度，大量的数据中心和算力投入都是csp在主导，如果它们不能在商业化上占据主导地位，那确实投入产出不成比例。\n\n3）csp部署开源模型，占据高频中低价值业务场景，改变成本结构，对于csp是非常大的利好。csp的商业化回报更好，自然他们的庞大资本开支ROI就更漂亮了。\n\n这也会大大提升整个AI商业化的进程，加快企业采用AI的步伐。未来看AI商业化，就不能只盯着大模型厂商了、CSP的业绩表现也同等重要，而不只是第二权重了。\n\n总的来说\nCSP 部署性价比高的开源模型并转售 Token，是当前提升 AI 业务利润率的最有效路径之一。它本质上是把“模型层”商品化后，CSP 把价值更多地转移到基础设施 + 平台服务层（托管、优化、路由、治理、安全）。\n\n这与昨天聊到coinbase的“企业 AI 采用进入成本工程化阶段”高度一致——CSP 正在成为企业多模型架构中的关键“中间层”，既帮客户降本，又自己赚取更高比例的利润。\n\n未来趋势很明确：\n闭源前沿模型继续走高端溢价路线而 开源模型 + CSP 托管 将成为中低端和高频场景的主力。能把开源模型 serving 做到极致低成本 + 高可靠的 CSP，将在 AI 时代获得显著的利润率优势。",
+        "link": "https://x.com/qinbafrank/status/2074309065849884813"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2074700258433728816",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "交易要一笔一笔的做，一波一波的做\n\n一笔就发大财那是做彩票买卖，那不是交易\n\n#海力士 #三星 #闪迪 #美光，已经跌了30%了，继续跌50%的概率很小很小，这几家存储的利润明年都已锁定，此时再去大仓位做空，基本等于49年加入国军\n\n但是现在还是只能当震荡来处理，大趋势还需要时间",
+      "contentHtml": "交易要一笔一笔的做，一波一波的做\n\n一笔就发大财那是做彩票买卖，那不是交易\n\n<a href=\"/search?f=tweets&q=%23海力士\">#海力士</a> <a href=\"/search?f=tweets&q=%23三星\">#三星</a> <a href=\"/search?f=tweets&q=%23闪迪\">#闪迪</a> <a href=\"/search?f=tweets&q=%23美光\">#美光</a>，已经跌了30%了，继续跌50%的概率很小很小，这几家存储的利润明年都已锁定，此时再去大仓位做空，基本等于49年加入国军\n\n但是现在还是只能当震荡来处理，大趋势还需要时间",
+      "publishedAt": "2026-07-08T03:41:00.000Z",
+      "link": "https://x.com/dongbimao/status/2074700258433728816",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2074689911517786369",
       "username": "ai_9684xtpa",
@@ -11862,132 +11998,6 @@
             "url": "https://pbs.twimg.com/media/HJYKIjlbcAAmWrL.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072338849162768501",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "Even if $BTC is going lower on the LTF\n\nI expect some relief first. \n\nWe just swept major liquidations at the lows. If we are going to see one final leg into the low 50Ks, I wouldn't be surprised to see a little rally first.\n\nBefore the FTX collapse, BTC rallied on the LTF before the final flush. Something similar could play out again.",
-      "contentHtml": "Even if <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> is going lower on the LTF\n\nI expect some relief first. \n\nWe just swept major liquidations at the lows. If we are going to see one final leg into the low 50Ks, I wouldn't be surprised to see a little rally first.\n\nBefore the FTX collapse, BTC rallied on the LTF before the final flush. Something similar could play out again.",
-      "publishedAt": "2026-07-01T15:17:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2072338849162768501",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMJtHe-W0AEmS7z.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "For the past 9 months, $BTC has dumped into the monthly open 5 times.\n\nToday marks another monthly open.\n\nEach time we've seen BTC dump into the start of a new month, the market has eventually moved in the opposite direction, catching the majority off guard.\n\nIf that pattern repeats, we could see a push higher the start of this month.",
-        "contentHtml": "For the past 9 months, <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> has dumped into the monthly open 5 times.\n\nToday marks another monthly open.\n\nEach time we've seen BTC dump into the start of a new month, the market has eventually moved in the opposite direction, catching the majority off guard.\n\nIf that pattern repeats, we could see a push higher the start of this month.",
-        "link": "https://x.com/KillaXBT/status/2072285242337952088",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMI7ivgXQAEEPyy.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072338220432679054",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "疑似@web3feng 风无向冒充徐明星搭讪被偷拍照片流出",
-      "contentHtml": "疑似<a href=\"/Web3Feng\" title=\"风无向🦅\">@web3feng</a> 风无向冒充徐明星搭讪被偷拍照片流出",
-      "publishedAt": "2026-07-01T15:15:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2072338220432679054",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMJse4Ua0AAp181.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072332847168500125",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "近期交易难度明显上升，敏捷交易",
-      "contentHtml": "近期交易难度明显上升，敏捷交易",
-      "publishedAt": "2026-07-01T14:53:00.000Z",
-      "link": "https://x.com/octopusycc/status/2072332847168500125",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072331823829701095",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "《某知名 KOL 线下狂啃女粉丝》",
-      "contentHtml": "《某知名 KOL 线下狂啃女粉丝》",
-      "publishedAt": "2026-07-01T14:49:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2072331823829701095",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "okx吃的真好",
-        "contentHtml": "okx吃的真好",
-        "link": "https://x.com/Bitfatty/status/2072298444161753427",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMJIcyxbwAALRGC.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072331414083674352",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "关于Meta出售多余算力的信息、第一时间想到的是扎克伯格是不是看到了之前SpaceX出售多余算力给Authropic和谷歌获得大量现金流，认为Meta可以照搬，还能提振股价。对于Meta算力剩余这事，个人也略有疑问：\n1）毕竟3月、Meta与Nebius 签署了一项价值270亿美元的云服务协议。\n2）4月，Meta 与 CoreWeave 签署了一项价值210亿美元的云服务协议扩展。\n3）两周前，Meta 签署协议租用 Crusoe 的 1.6GW 数据中心容量。\n4）3天前《金融时报》还报道称，由于容量限制，谷歌已限制 Meta 对 Gemini 的使用。\n\n然后这才过了几天，Meta算力一下子就很剩余了，这也有点说不过去。\n\n但这是提升股价的好办法",
-      "contentHtml": "关于Meta出售多余算力的信息、第一时间想到的是扎克伯格是不是看到了之前SpaceX出售多余算力给Authropic和谷歌获得大量现金流，认为Meta可以照搬，还能提振股价。对于Meta算力剩余这事，个人也略有疑问：\n1）毕竟3月、Meta与Nebius 签署了一项价值270亿美元的云服务协议。\n2）4月，Meta 与 CoreWeave 签署了一项价值210亿美元的云服务协议扩展。\n3）两周前，Meta 签署协议租用 Crusoe 的 1.6GW 数据中心容量。\n4）3天前《金融时报》还报道称，由于容量限制，谷歌已限制 Meta 对 Gemini 的使用。\n\n然后这才过了几天，Meta算力一下子就很剩余了，这也有点说不过去。\n\n但这是提升股价的好办法",
-      "publishedAt": "2026-07-01T14:48:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2072331414083674352",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMJmbwVawAAaRu5.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "数据中心真的是优质现金流资产。看spacex的ipo文件，Anthropic已同意l每月向SpaceX支付12.5亿美元（$1.25 billion），用于获取Colossus数据中心的算力访问权，合同期限至2029年5月。若按全额执行，接近450亿美元。\n\n最初主要Colossus1（约300MW、超过22万块NVIDIA GPU）全部算力，后续扩展到Colossus2（1GW以上），当然Colossus2估计只有一部分会给到authropic，毕竟现在xAI现在主要运行在Colossus2上。\n\n按照之间披露的造价来看Colossus1总成本70亿美金，Colossus2总成本200多亿美金，两个数据中心估计加起来接近300亿美金了。现在Colossus1的全部和Colossus2一小部分（估计不多，按照市场行情吃掉Colossus1全部算力每个月就差不多10亿左右美金了）就能带来每月12.5亿美金的收入、全年150亿美金，真实优质现金流\n\n特别注意的是，有报道SpaceX招股书初稿曾披露SpaceX数据中心建设成本仅为每兆瓦270万美元（行业基准约1230万美元/兆瓦），但该数字在最终版本中被删除，仅留下措辞considerably lower than industry benchmarks。\n\n不得不说老马的公司工程能力绝对是最顶级的。",
-        "contentHtml": "数据中心真的是优质现金流资产。看spacex的ipo文件，Anthropic已同意l每月向SpaceX支付12.5亿美元（$1.25 billion），用于获取Colossus数据中心的算力访问权，合同期限至2029年5月。若按全额执行，接近450亿美元。\n\n最初主要Colossus1（约300MW、超过22万块NVIDIA GPU）全部算力，后续扩展到Colossus2（1GW以上），当然Colossus2估计只有一部分会给到authropic，毕竟现在xAI现在主要运行在Colossus2上。\n\n按照之间披露的造价来看Colossus1总成本70亿美金，Colossus2总成本200多亿美金，两个数据中心估计加起来接近300亿美金了。现在Colossus1的全部和Colossus2一小部分（估计不多，按照市场行情吃掉Colossus1全部算力每个月就差不多10亿左右美金了）就能带来每月12.5亿美金的收入、全年150亿美金，真实优质现金流\n\n特别注意的是，有报道SpaceX招股书初稿曾披露SpaceX数据中心建设成本仅为每兆瓦270万美元（行业基准约1230万美元/兆瓦），但该数字在最终版本中被删除，仅留下措辞considerably lower than industry benchmarks。\n\n不得不说老马的公司工程能力绝对是最顶级的。",
-        "link": "https://x.com/qinbafrank/status/2057336046204109161"
       },
       "stats": {
         "replies": 0,
