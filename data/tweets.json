@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T07:29:45.766Z",
+  "lastUpdated": "2026-07-09T11:05:57.827Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,298 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 647,
-    "successUsers": 32,
-    "failedUsers": 0
+    "newFetched": 628,
+    "successUsers": 31,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2075173042268119495",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "可以蹲一下metadao的打新，正规支付项目credible，项目没啥槽点，还是@colosseum backer的，到时候我会第一时间打一点。大额的话后面再看看情况。还不知道市值。",
+      "contentHtml": "可以蹲一下metadao的打新，正规支付项目credible，项目没啥槽点，还是<a href=\"/colosseum\" title=\"Colosseum\">@colosseum</a> backer的，到时候我会第一时间打一点。大额的话后面再看看情况。还不知道市值。",
+      "publishedAt": "2026-07-09T10:59:00.000Z",
+      "link": "https://x.com/0xleng1/status/2075173042268119495",
+      "quote": {
+        "username": "crediblefin",
+        "displayName": "Credible",
+        "content": "Today we're announcing something new in payments.\n\nOn July 13th, Credible’s curated raise goes live with @MetaDAOProject, powered by @solana.\n\nAfter processing $700M+ in volume with a revenue run rate of $3.5M, we're ready to share ownership with you.\n\nYou can use Stripe, MoonPay, or Bridge. You can't own them.\n\nYou can own Credible.",
+        "contentHtml": "Today we're announcing something new in payments.\n\nOn July 13th, Credible’s curated raise goes live with <a href=\"/MetaDAOProject\" title=\"MetaDAO\">@MetaDAOProject</a>, powered by <a href=\"/solana\" title=\"Solana\">@solana</a>.\n\nAfter processing $700M+ in volume with a revenue run rate of $3.5M, we're ready to share ownership with you.\n\nYou can use Stripe, MoonPay, or Bridge. You can't own them.\n\nYou can own Credible.",
+        "link": "https://x.com/crediblefin/status/2074580495955111983"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075172360228114665",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "Grok4.5发布，\n三个月前xAI的状态是，通用模型落后、编程能力拉垮、核心团队出走、算力中心过剩；\n三个月后，完全并购Cursor、推出Grok4.5性能重新跻身前沿闭源大模型头部、数据中心造血每年带来250亿美金现金流。\n\n不得不说老马算是在AI业务上打了一个翻身仗。\n\n基本上验证了4月份这篇推文聊到里收购Cursor对xAI/SpaceX老马生态的意义，",
+      "contentHtml": "Grok4.5发布，\n三个月前xAI的状态是，通用模型落后、编程能力拉垮、核心团队出走、算力中心过剩；\n三个月后，完全并购Cursor、推出Grok4.5性能重新跻身前沿闭源大模型头部、数据中心造血每年带来250亿美金现金流。\n\n不得不说老马算是在AI业务上打了一个翻身仗。\n\n基本上验证了4月份这篇推文聊到里收购Cursor对xAI/SpaceX老马生态的意义，",
+      "publishedAt": "2026-07-09T10:57:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2075172360228114665",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMx7TTBasAAbD-7.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "SpaceX收购Cursor，对于双方及行业有什么意义？老马给xAI找到了一个破局支点，SpaceX官方宣布与Cursor达成紧密战略合作：1）Cursor将使用SpaceX/xAI的Colossus超级计算机（相当于百万级H100GPU规模的算力）来训练其新一代代码模型Composer 2.5；\n2）双方共同打造“世界上最好的编码和知识工作 AI”。\n3）Cursor授予SpaceX收购期权：今年晚些时候，SpaceX可以选择以600亿美元 收购Cursor，或者支付100亿美元作为双方合作工作的费用（类似分手费或合作对价）。\n\n上周才传出来Cursor近期在谈融资，今天Cursor卖给 xAI 了，看来独立融资失败了。\n\n这不是说是已完成的收购，而是“先深度绑定，后可选买断”的结构。之前有传闻 xAI 挖走 Cursor 两位核心高管（工程负责人 Andrew Milich 和产品负责人 Jason Ginsberg），现在合作进一步加深，对于两家意义重大。特别Xai当下联创尽走，模型和coding都大幅度落后，数据中心的使用率很低的大背景下。\n\n1、对 xAI / SpaceX当然老马生态来说：\n1）能快速补齐编码能力，xAI的Grok在通用模型上还可以，但在专业代码/编程 Agent 领域此前相对落后（Cursor 是这个赛道的领先产品，拥有优秀的产品、工程师心智份额和开发者分发）。合作后，Grok 能快速变成顶级编码Agent。\n\n2）算力变现 + 止血，xAI 自建了海量 GPU（Colossus 集群），每月运营亏损巨大（此前报道超3亿美元/月）。对外出租算力给 Cursor，是向“云算力服务商”转型的第一步，能带来新收入，同时降低数据中心成本。\n\n3）人才与数据双赢，已挖走关键人才，现在再绑定产品和编码数据，能加速 xAI 内部编程工具开发（据说 Grok Build、Grok CLI 等即将推出）。\n\n4）SpaceX 的火箭/星舰/Starlink 等工程项目高度依赖代码，引入 Cursor 能直接提升内部生产力。\n\n2对Cursor来说\n1）解决算力瓶颈：AI 训练最缺的就是 GPU，尤其在当前算力荒下，xAI 的 Colossus 是稀缺资源。Cursor 能用数万块 GPU 训练模型，加速追赶 Anthropic、OpenAI 等对手。\n\n2）高估值退出路径\nCursor 近期融资估值已在 290-500 亿美元区间，600 亿收购期权提供了一个明确的 premium 退出选项（或 100 亿合作费作为保底）。\n\n3）风险对冲\n在竞争激烈的 AI 编码赛道（OpenAI Codex、Anthropic Claude Code 等），绑定马斯克生态能获得更多资源和曝光。\n\n3、对于整个AI行业层面来说\n1）AI 基础设施竞争加剧，xAI 从“纯模型公司”转向兼具算力输出的角色，潜在竞争对手包括微软 Azure、Google Cloud、CoreWeave 等。\n\n2）人才战与并购战升级，类似此前 OpenAI/Anthropic 等也对 Cursor 的编码数据感兴趣，现在老马抢先一步深度绑定。\n\n3）整个AI从大模型，到算力设施再到编码灯各个领域竞争会更加激励、前面说到xAI联创基本上都走了、xAI近期其实陷入了一个困境。这次明显是老马找到了一个破局之道。重新给xAI在AI领域找到了一个强劲的支撑点。\n\n这应该是一笔典型的马马杠杆交易——用算力换产品、人才和期权，快速补短板，同时为 xAI 找新营收模式。当然最终是否会行使 600 亿收购权，还取决于合作成果、SpaceX IPO 进展以及市场估值变化。目前看，双方已经“绑定得很紧”，最后spacex完全收购curaor的概率不低。",
+        "contentHtml": "SpaceX收购Cursor，对于双方及行业有什么意义？老马给xAI找到了一个破局支点，SpaceX官方宣布与Cursor达成紧密战略合作：1）Cursor将使用SpaceX/xAI的Colossus超级计算机（相当于百万级H100GPU规模的算力）来训练其新一代代码模型Composer 2.5；\n2）双方共同打造“世界上最好的编码和知识工作 AI”。\n3）Cursor授予SpaceX收购期权：今年晚些时候，SpaceX可以选择以600亿美元 收购Cursor，或者支付100亿美元作为双方合作工作的费用（类似分手费或合作对价）。\n\n上周才传出来Cursor近期在谈融资，今天Cursor卖给 xAI 了，看来独立融资失败了。\n\n这不是说是已完成的收购，而是“先深度绑定，后可选买断”的结构。之前有传闻 xAI 挖走 Cursor 两位核心高管（工程负责人 Andrew Milich 和产品负责人 Jason Ginsberg），现在合作进一步加深，对于两家意义重大。特别Xai当下联创尽走，模型和coding都大幅度落后，数据中心的使用率很低的大背景下。\n\n1、对 xAI / SpaceX当然老马生态来说：\n1）能快速补齐编码能力，xAI的Grok在通用模型上还可以，但在专业代码/编程 Agent 领域此前相对落后（Cursor 是这个赛道的领先产品，拥有优秀的产品、工程师心智份额和开发者分发）。合作后，Grok 能快速变成顶级编码Agent。\n\n2）算力变现 + 止血，xAI 自建了海量 GPU（Colossus 集群），每月运营亏损巨大（此前报道超3亿美元/月）。对外出租算力给 Cursor，是向“云算力服务商”转型的第一步，能带来新收入，同时降低数据中心成本。\n\n3）人才与数据双赢，已挖走关键人才，现在再绑定产品和编码数据，能加速 xAI 内部编程工具开发（据说 Grok Build、Grok CLI 等即将推出）。\n\n4）SpaceX 的火箭/星舰/Starlink 等工程项目高度依赖代码，引入 Cursor 能直接提升内部生产力。\n\n2对Cursor来说\n1）解决算力瓶颈：AI 训练最缺的就是 GPU，尤其在当前算力荒下，xAI 的 Colossus 是稀缺资源。Cursor 能用数万块 GPU 训练模型，加速追赶 Anthropic、OpenAI 等对手。\n\n2）高估值退出路径\nCursor 近期融资估值已在 290-500 亿美元区间，600 亿收购期权提供了一个明确的 premium 退出选项（或 100 亿合作费作为保底）。\n\n3）风险对冲\n在竞争激烈的 AI 编码赛道（OpenAI Codex、Anthropic Claude Code 等），绑定马斯克生态能获得更多资源和曝光。\n\n3、对于整个AI行业层面来说\n1）AI 基础设施竞争加剧，xAI 从“纯模型公司”转向兼具算力输出的角色，潜在竞争对手包括微软 Azure、Google Cloud、CoreWeave 等。\n\n2）人才战与并购战升级，类似此前 OpenAI/Anthropic 等也对 Cursor 的编码数据感兴趣，现在老马抢先一步深度绑定。\n\n3）整个AI从大模型，到算力设施再到编码灯各个领域竞争会更加激励、前面说到xAI联创基本上都走了、xAI近期其实陷入了一个困境。这次明显是老马找到了一个破局之道。重新给xAI在AI领域找到了一个强劲的支撑点。\n\n这应该是一笔典型的马马杠杆交易——用算力换产品、人才和期权，快速补短板，同时为 xAI 找新营收模式。当然最终是否会行使 600 亿收购权，还取决于合作成果、SpaceX IPO 进展以及市场估值变化。目前看，双方已经“绑定得很紧”，最后spacex完全收购curaor的概率不低。",
+        "link": "https://x.com/qinbafrank/status/2046741180063637687",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HGd8QSXbAAAfNVw.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075169126256099740",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "深度好文",
+      "contentHtml": "深度好文",
+      "publishedAt": "2026-07-09T10:44:00.000Z",
+      "link": "https://x.com/hazenlee/status/2075169126256099740",
+      "quote": {
+        "username": "LucretianDelta",
+        "displayName": "Clinamen | 墙内偏移",
+        "content": "这篇文章可能有点长，聊一下近几个月的感悟吧。\n\n我知道很多人不信技术分析，觉得在K线图上画两条线拉几个指标就想赚钱是扯淡，我非常理解这种心态，因为我一开始炒股也是基本面宏观一通学习。\n\n就拿最近最火的半导体板块来说，我确实是科班出身的，在设计和工艺方面受过的理论与实验训练一点也不少，从电路设计、到verilog硬件语言、到画板图、到仿真、到超净间里搞什么蚀刻什么Spin Coating什么UV binding、到用电镜做品质检测，我都是上过手的，整一个硬件系统prototype从芯片到集成化系统、到数据收集、到处理、再到出论文，这样的流程我也是经历过的。当然说这些真没有什么觉得自己很牛逼的意思，就是交代一下背景，来表明这些背景其实没有帮助我在投资中赚到什么钱。\n\n最近热炒的那些公司对我来说就是实实在在的供货方、合作对象、软件发行方，属于是天天需要跟他们销售客服和技术人员互相发邮件开zoom会的那个状态。但你问我懂这些公司的股票该怎么炒吗，我说实话是不懂的，我也没见到以前认识的哪个师兄师姐、教授、科学家靠着炒自己合作公司的股票发财的。\n\n当然你可以说是我学艺不精、见识短浅、认知局限，这些我都认，我也不认为自己是一个多么牛逼多么聪明的人，所以很多时候抓不到好票，或者抓到好票以后早早卖飞，都是特别常见的。这里确实有不少老师的投研、眼光和布局都非常卓越，我也向他们学习。\n\n回到最开始的问题，技术分析到底给我提供了什么呢？我对市场的理解，就是非对称博弈，没有任何一个参与方能够真正的掌握全部信息，并且所有参与者的决策也会影响市场的变化本身，所以这个混沌系统是有反身性在的。在这个前提下，我个人是找不到一个确定性的打法的，或者说不确定性本来就是市场的一部分，甚至可以说是最重要的部分。\n\n在我无法完全预测接下来会发生什么的前提下，我能做的还有什么呢？无非就是想好应对策略。仓位打进去以后，涨了怎么办，跌了怎么办，假突破了怎么办，等等。\n\n价值投资者有一套逻辑我也很认同，就是不关心短期波段，但是当你买入或卖出一只股票的时候，都应该有自己的逻辑，估值也好，护城河也好，业务量也好，各有自己的判断标准。那么当这套逻辑被证伪的时候，买入的理由不再成立，就该离场了。\n\n我用技术分析所做的事情其实也是类似，只不过相对来说时间周期要短很多。画线是为了预测接下来往哪边走吗？其实不是的，我算什么东西，还能指挥黄金、纳指这样的市场走向吗？画线和构建投资逻辑其实是在不同时间周期的背景下做同一件事，就是提前定义自己的入场和离场。\n\n所以当我进入一笔交易的时候，并不总是因为我多么看好/看空这个东西本身，而是盈亏比足够好，止损足够清晰。有一句话已经说烂了，就是投资是对风险的管理，盈利只是市场的奖励。当止损足够清晰的时候，我能够控制“走势不如我意”时候的最大回撤，这就是可以承担的风险，所以我就会入场“赌”一下。仅此而已。这个风险收益的计算只要是合理的，长期看来就能达到正EV，接下来要做的就是像运动员一样不断磨练自己更熟悉这些动作，更精准的判断机会的好坏。\n\n所以我总是拿打网球来举例。特别是短线交易，其实就是一来一回，每个回合要想好怎么应对。用技术分析、用指标、用资金流动、用标的共识和情绪、用基本面、宏观、财报，等等等等，落地到交易本身上面，核心就是要做好盈亏比的计算，和事情没按预期发展时撤退路径的规划。在这个基础上，各显身手便是。\n\n我一直相信，交易也好，人生也好，人是只能靠自己的。所以我说的这些正确与否，对你有没有帮助，都不重要，希望你能找到自己的路，这条路完全不需要和其他人一样。跟其他老师学习和借鉴的仅仅是思路，兼听则明，见贤思齐、见不贤而内自省，足够了。一件事情自己做不到，先看看别人为什么能做到，而不是跟一个反驳型人格一样张嘴就骂。虽然我们都是井里的青蛙，但是没有人真的阻止你往上爬，去看更大的天空，除了你自己。\n\n天下英雄如过江之鲫，这世间厉害的人多的是啊。",
+        "contentHtml": "这篇文章可能有点长，聊一下近几个月的感悟吧。\n\n我知道很多人不信技术分析，觉得在K线图上画两条线拉几个指标就想赚钱是扯淡，我非常理解这种心态，因为我一开始炒股也是基本面宏观一通学习。\n\n就拿最近最火的半导体板块来说，我确实是科班出身的，在设计和工艺方面受过的理论与实验训练一点也不少，从电路设计、到verilog硬件语言、到画板图、到仿真、到超净间里搞什么蚀刻什么Spin Coating什么UV binding、到用电镜做品质检测，我都是上过手的，整一个硬件系统prototype从芯片到集成化系统、到数据收集、到处理、再到出论文，这样的流程我也是经历过的。当然说这些真没有什么觉得自己很牛逼的意思，就是交代一下背景，来表明这些背景其实没有帮助我在投资中赚到什么钱。\n\n最近热炒的那些公司对我来说就是实实在在的供货方、合作对象、软件发行方，属于是天天需要跟他们销售客服和技术人员互相发邮件开zoom会的那个状态。但你问我懂这些公司的股票该怎么炒吗，我说实话是不懂的，我也没见到以前认识的哪个师兄师姐、教授、科学家靠着炒自己合作公司的股票发财的。\n\n当然你可以说是我学艺不精、见识短浅、认知局限，这些我都认，我也不认为自己是一个多么牛逼多么聪明的人，所以很多时候抓不到好票，或者抓到好票以后早早卖飞，都是特别常见的。这里确实有不少老师的投研、眼光和布局都非常卓越，我也向他们学习。\n\n回到最开始的问题，技术分析到底给我提供了什么呢？我对市场的理解，就是非对称博弈，没有任何一个参与方能够真正的掌握全部信息，并且所有参与者的决策也会影响市场的变化本身，所以这个混沌系统是有反身性在的。在这个前提下，我个人是找不到一个确定性的打法的，或者说不确定性本来就是市场的一部分，甚至可以说是最重要的部分。\n\n在我无法完全预测接下来会发生什么的前提下，我能做的还有什么呢？无非就是想好应对策略。仓位打进去以后，涨了怎么办，跌了怎么办，假突破了怎么办，等等。\n\n价值投资者有一套逻辑我也很认同，就是不关心短期波段，但是当你买入或卖出一只股票的时候，都应该有自己的逻辑，估值也好，护城河也好，业务量也好，各有自己的判断标准。那么当这套逻辑被证伪的时候，买入的理由不再成立，就该离场了。\n\n我用技术分析所做的事情其实也是类似，只不过相对来说时间周期要短很多。画线是为了预测接下来往哪边走吗？其实不是的，我算什么东西，还能指挥黄金、纳指这样的市场走向吗？画线和构建投资逻辑其实是在不同时间周期的背景下做同一件事，就是提前定义自己的入场和离场。\n\n所以当我进入一笔交易的时候，并不总是因为我多么看好/看空这个东西本身，而是盈亏比足够好，止损足够清晰。有一句话已经说烂了，就是投资是对风险的管理，盈利只是市场的奖励。当止损足够清晰的时候，我能够控制“走势不如我意”时候的最大回撤，这就是可以承担的风险，所以我就会入场“赌”一下。仅此而已。这个风险收益的计算只要是合理的，长期看来就能达到正EV，接下来要做的就是像运动员一样不断磨练自己更熟悉这些动作，更精准的判断机会的好坏。\n\n所以我总是拿打网球来举例。特别是短线交易，其实就是一来一回，每个回合要想好怎么应对。用技术分析、用指标、用资金流动、用标的共识和情绪、用基本面、宏观、财报，等等等等，落地到交易本身上面，核心就是要做好盈亏比的计算，和事情没按预期发展时撤退路径的规划。在这个基础上，各显身手便是。\n\n我一直相信，交易也好，人生也好，人是只能靠自己的。所以我说的这些正确与否，对你有没有帮助，都不重要，希望你能找到自己的路，这条路完全不需要和其他人一样。跟其他老师学习和借鉴的仅仅是思路，兼听则明，见贤思齐、见不贤而内自省，足够了。一件事情自己做不到，先看看别人为什么能做到，而不是跟一个反驳型人格一样张嘴就骂。虽然我们都是井里的青蛙，但是没有人真的阻止你往上爬，去看更大的天空，除了你自己。\n\n天下英雄如过江之鲫，这世间厉害的人多的是啊。",
+        "link": "https://x.com/LucretianDelta/status/2074988048476217401"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075163604098183241",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "We didn’t see a significant extension into the green last cycle.\n\nSo who’s to say that $BTC will extend further into the red this time?\n\nCycles are changing, whether people like it or not. I still believe in the 4 year cycle, but I also recognize that cycles and metrics change.",
+      "contentHtml": "We didn’t see a significant extension into the green last cycle.\n\nSo who’s to say that <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> will extend further into the red this time?\n\nCycles are changing, whether people like it or not. I still believe in the 4 year cycle, but I also recognize that cycles and metrics change.",
+      "publishedAt": "2026-07-09T10:22:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2075163604098183241",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMx1rcNW8AA-JlR.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075162590393888931",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n还有三个多小时。大战 42% Fable 额度。\n\n/improve-codebase-architecture 走起。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n还有三个多小时。大战 42% Fable 额度。\n\n/improve-codebase-architecture 走起。",
+      "publishedAt": "2026-07-09T10:18:00.000Z",
+      "link": "https://x.com/taresky/status/2075162590393888931",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMx1RbibQAAPIZ1.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075152535489560700",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "去杠杆接近尾声？更准确的说法是：去杠杆接近尾声，但可能还有二次确认。昨晚美股整体风险偏好略有回暖，但宏观压力把指数按住了，半导体板块靠订单和政策消息逆势走强。费城半导体指数涨了2.23%，算是把纳指勉强托住的唯一主力。油价和美债收益率同步上行，直接压低了风险资产的吸引力。\n\n个人核心判断：AI硬件这条主线还没到头，但正处于“去杠杆+从拥挤交易转向订单确定性”的再定价阶段。这一轮去杠杆大概率接近尾声，但还没到完全逆转彻底松口气的时候。\n\n1、昨晚市场主线其实就是“油价和利率上行 vs 半导体反弹”这对矛盾在拉扯。川普说停战备忘录结束，油价反弹，美债收益率上行。半导体这边把纳指扛住了。\nBroadcom因为苹果的长期芯片采购协议大涨4.8%；\nNvidia则因为市场传出中国可能放开部分H200采购的消息涨了3.65%；\n\n半导体内部：ASIC、互连和设备链最强\n昨晚半导体里涨得最靠前的几只分别是CRDO、AVGO、NXPI、NVDA、WDC、MPWR。\n\n分链条看：\n1）ASIC/定制芯片：AVGO最亮眼，苹果与其签署的多年协议金额超过300亿美元，一直延续到2031年，还计划在美国科罗拉多州再投15亿美元扩产。这条线订单可见度最高，确定性最强。\n2）AI GPU：NVDA明显强于AMD，主要因为H200对华销售限制可能出现边际松动。\n3）数据中心互连：CRDO继续领涨，说明市场越来越意识到AI集群不只有GPU，网络、SerDes、光互连这些瓶颈环节同样重要。\n4）设备和测试：AMAT、TER、LRCX、KLAC、ASML全线上涨，显示市场依然相信AI资本开支周期没结束。\n5）模拟/功率/工业：NXPI、ON、TXN、ADI等出现补涨，资金开始从最拥挤的AI方向往滞涨板块扩散。\n6）存储：MU和WDC有反弹，但幅度和持续性都不如上面几条，韩国SK Hynix今天也大幅回补，但这条线前期跌得最狠、杠杆也最高。\n\n整体看，市场没有否定AI需求，只是在惩罚过度拥挤的交易，还是之前说的高位高杠杆拥挤仓位下的去杠杆行情。\n\n今天亚洲市场所有反弹，芯片跌深反弹，不过日本10年期国债收益率已升至2.88%附近，美元兑日元仍在162附近，利率上行对估值的压制也不能忽视\n\n2、产业层面的利好与利空\n利好主要集中在订单和政策弹性上：\n苹果与Broadcom的长期协议；\nNvidia H200对华销售可能的边际放松；SK Hynix融资被市场接住（七倍认购）；\nTSMC此前已上调全年指引并强调AI需求强劲；\nMeta在计划投资建设其在加拿大的第一个AI数据中心。\n\n利空则集中在估值天花板和拥挤度上：油价+利率构成全市场估值上限；\n记忆体线虽然长期需求仍在，但短期最拥挤，价格环比增速可能在下半年放缓；\n韩国散户杠杆仍高，容易放大波动；\n大科技股昨晚并未跟随半导体上涨，说明市场对AI资本开支的回报周期仍有疑虑，看起来对于nitter.net/qinbafrank/status/2074…聊到的超大CSP价值重塑还没形成共识，但也是个预期差。\n\n3、去杠杆到尾声了吗？\n第一轮急跌式的去杠杆大概率接近尾声，只是说完整出清还没确认。\n支持接近尾声的信号有：\n1）半导体板块昨晚出现整体反弹而非单兵作战；\n2）韩国最拥挤的HBM方向今天出现明显回补；\n3）SK Hynix的融资需求依然旺盛，基本面资金并未撤离。\n\n韩国市场刚刚经历单日大跌和20%+回撤，散户杠杆仍在高位，杠杆ETF机制会继续放大波动。\n\n更现实的判断是：\n去杠杆大概率已经走完最恐慌的那一波踩踏和强制出货，但可能还需要二次确认。\n\n后续关键观察点包括：\nSK Hynix ADR后续是否稳住、\nKOSPI是否不再新低、\nSOX/SMH能否持续收复失地、\nBrent是否不再加速上冲、\n美债收益率能否稳定在4.6%下方、\n下周cpi可能是一个关键分水岭。\n\n之后投资纪律的核心在于持续区分：\n谁是真实现金流瓶颈，谁只是远景期权；\n谁的下跌是基本面破坏，谁的下跌只是拥挤出清；\n何时保留核心仓位，何时砍掉弹性，何时在风险释放完成后重新布局。",
+      "contentHtml": "去杠杆接近尾声？更准确的说法是：去杠杆接近尾声，但可能还有二次确认。昨晚美股整体风险偏好略有回暖，但宏观压力把指数按住了，半导体板块靠订单和政策消息逆势走强。费城半导体指数涨了2.23%，算是把纳指勉强托住的唯一主力。油价和美债收益率同步上行，直接压低了风险资产的吸引力。\n\n个人核心判断：AI硬件这条主线还没到头，但正处于“去杠杆+从拥挤交易转向订单确定性”的再定价阶段。这一轮去杠杆大概率接近尾声，但还没到完全逆转彻底松口气的时候。\n\n1、昨晚市场主线其实就是“油价和利率上行 vs 半导体反弹”这对矛盾在拉扯。川普说停战备忘录结束，油价反弹，美债收益率上行。半导体这边把纳指扛住了。\nBroadcom因为苹果的长期芯片采购协议大涨4.8%；\nNvidia则因为市场传出中国可能放开部分H200采购的消息涨了3.65%；\n\n半导体内部：ASIC、互连和设备链最强\n昨晚半导体里涨得最靠前的几只分别是CRDO、AVGO、NXPI、NVDA、WDC、MPWR。\n\n分链条看：\n1）ASIC/定制芯片：AVGO最亮眼，苹果与其签署的多年协议金额超过300亿美元，一直延续到2031年，还计划在美国科罗拉多州再投15亿美元扩产。这条线订单可见度最高，确定性最强。\n2）AI GPU：NVDA明显强于AMD，主要因为H200对华销售限制可能出现边际松动。\n3）数据中心互连：CRDO继续领涨，说明市场越来越意识到AI集群不只有GPU，网络、SerDes、光互连这些瓶颈环节同样重要。\n4）设备和测试：AMAT、TER、LRCX、KLAC、ASML全线上涨，显示市场依然相信AI资本开支周期没结束。\n5）模拟/功率/工业：NXPI、ON、TXN、ADI等出现补涨，资金开始从最拥挤的AI方向往滞涨板块扩散。\n6）存储：MU和WDC有反弹，但幅度和持续性都不如上面几条，韩国SK Hynix今天也大幅回补，但这条线前期跌得最狠、杠杆也最高。\n\n整体看，市场没有否定AI需求，只是在惩罚过度拥挤的交易，还是之前说的高位高杠杆拥挤仓位下的去杠杆行情。\n\n今天亚洲市场所有反弹，芯片跌深反弹，不过日本10年期国债收益率已升至2.88%附近，美元兑日元仍在162附近，利率上行对估值的压制也不能忽视\n\n2、产业层面的利好与利空\n利好主要集中在订单和政策弹性上：\n苹果与Broadcom的长期协议；\nNvidia H200对华销售可能的边际放松；SK Hynix融资被市场接住（七倍认购）；\nTSMC此前已上调全年指引并强调AI需求强劲；\nMeta在计划投资建设其在加拿大的第一个AI数据中心。\n\n利空则集中在估值天花板和拥挤度上：油价+利率构成全市场估值上限；\n记忆体线虽然长期需求仍在，但短期最拥挤，价格环比增速可能在下半年放缓；\n韩国散户杠杆仍高，容易放大波动；\n大科技股昨晚并未跟随半导体上涨，说明市场对AI资本开支的回报周期仍有疑虑，看起来对于<a href=\"https://nitter.net/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2074…</a>聊到的超大CSP价值重塑还没形成共识，但也是个预期差。\n\n3、去杠杆到尾声了吗？\n第一轮急跌式的去杠杆大概率接近尾声，只是说完整出清还没确认。\n支持接近尾声的信号有：\n1）半导体板块昨晚出现整体反弹而非单兵作战；\n2）韩国最拥挤的HBM方向今天出现明显回补；\n3）SK Hynix的融资需求依然旺盛，基本面资金并未撤离。\n\n韩国市场刚刚经历单日大跌和20%+回撤，散户杠杆仍在高位，杠杆ETF机制会继续放大波动。\n\n更现实的判断是：\n去杠杆大概率已经走完最恐慌的那一波踩踏和强制出货，但可能还需要二次确认。\n\n后续关键观察点包括：\nSK Hynix ADR后续是否稳住、\nKOSPI是否不再新低、\nSOX/SMH能否持续收复失地、\nBrent是否不再加速上冲、\n美债收益率能否稳定在4.6%下方、\n下周cpi可能是一个关键分水岭。\n\n之后投资纪律的核心在于持续区分：\n谁是真实现金流瓶颈，谁只是远景期权；\n谁的下跌是基本面破坏，谁的下跌只是拥挤出清；\n何时保留核心仓位，何时砍掉弹性，何时在风险释放完成后重新布局。",
+      "publishedAt": "2026-07-09T09:38:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2075152535489560700",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "压缩式去杠杆走到哪一步了？之前也有聊过，近期市场调整的本质是高估值高杠杆高仓位成长板块的去杠杆。核心是宏观环境没有恶化到触发衰退交易，但也没有好到让美联储转向宽松。在缺乏宽松保护伞的背景下，高估值成长板块（尤其是半导体等高beta品种）的高杠杆、拥挤交易，被长端利率、油价扰动以及财报季前的避险情绪共同触发，形成了去杠杆压力，可以称之为压缩式去杠杆。\n\n1、什么叫压缩式去杠杆？\n近期全球半导体板块的急速杀跌，并非传统意义上的基本面崩塌，而是典型的“压缩式去杠杆”。其核心在于：当一个板块在注意力驱动的牛市中，被叙事、衍生品、杠杆工具和拥挤资金共同推高后，一旦边际条件发生微小变化，市场会在极短时间内完成原本需要数周甚至数月才能完成的全面风险释放。价格、叙事、期权、杠杆ETF、融资盘与高仓位持仓同步反向，形成高速的交易结构坍缩。\n\n速度之源：多层杠杆化叙事的同步表达\n本次调整速度远超历史，主要因为市场已从单纯“买股票”升级为“买多层杠杆化叙事”。一个半导体多头头寸同时存在于：\n1）现货股票与高beta个股\n2）单名期权、OTM看涨期权、LEAP远期期权\n3）杠杆ETF（SOXL、韩国芯片杠杆ETF）\n4）主题基金、CTA策略、波动率控制模型\n5）融资买入余额与趋势跟踪资金\n\n这就导致了当上涨时，所有表达同时增加delta；当反转时，所有表达同时减少delta，形成“共识强化”与“拥挤踩踏”的极端对称。所有人都朝同一方向加仓，也会朝同一方向减仓。流动性看似充裕，实则极度脆弱。一旦价格无法继续上行，被延后的反证会集中爆发。\n\n杠杆ETF尤其是放大器。SOXL追求半导体指数单日3倍表现，其每日再平衡机制在单边趋势中放大收益，但在高波动反转中会通过复利路径依赖显著放大回撤。一旦底层指数连续出现大幅波动，即使最终回到原点，3倍ETF的净值也可能出现严重损耗。当大量短线与趋势资金集中于此类产品时，ETF本身就成为情绪与流动性的共振放大器。\n\n2、所以这波调整不是宏观主跌，但宏观也没有给出救市型利好\n1）非农疲软缓解了“立刻再加息”的压力，但美联储的反应函数仍让“降息救估值”遥不可及。对高估值成长股来说，这种环境最为尴尬——增长没坏到需要美联储出手，通胀也没好到让折现率快速下行。\n\n2）地缘因素不是主因，但油价反弹和通胀预期也是扰动。布伦特/WTI短期跳升至70多美元，影响有限；如果持续突破80-85美元并带动通胀预期、远期通胀或2Y/10Y收益率同步上行，才会真正成为主导因素。\n\n3）美元流动性：银行准备金不支持系统性流动性危机\n7月1日准备金余额为3.077万亿美元，高于6月24日的2.954万亿美元。这说明至少从系统流动性角度看，不是美元基础流动性突然收紧导致的下跌。\n\n4）10年期收益率到4.5%以上，不是主驱动因素但也是催化剂\n10年期收益率在4.55%左右，对高估值成长股有三层压力：估值折现率压力、\n资本开支融资成本压力、利率上行的性质（更接近因油价和通胀预期驱动的上行）\n因此US10Y不是这波调整的根源，但它是踩踏的点火器。如果回落至4.45%下方，风险资产会明显缓解；如果突破4.65%-4.70%，即使没有新的宏观坏消息，估值重定价也会继续。\n\n所以核心仍是杠杆高、仓位挤、高估值成长交易过热。在这种结构下，市场不需要宏观全面崩盘，只需要一个足够强的触发器——半导体波动、油价跳升、长端利率上行、财报前避险——任何一个都可能引发风险预算集体下调。这波下跌呈现“多杀多”的特征。\n\n市场也从“是否有需求”转向“需求能否支撑当前资本开支规模和估值水平”，财报季不能只看EPS是否超预期，更要重点观察云收入增速、订单/积压情况、资本开支指引以及自由现金流和利润率指引。所以也有财报季前避险的因素。\n\n3、关键问题去杠杆到哪一步了？\n尾声不看跌幅百分比，而看结构是否重置：\n1）形态层面：SOXL极端放量后不再新低、半导体等核心品种不再领跌，出现低开后放量收回的结构，且连续2-3天不再创新低。高beta存储标的停止破位、韩国核心权重不再被好消息砸盘；\n2）指标层面：OTM call与LEAP拥挤度下降，call skew回落，put/call ratio回升。\n3）负面新闻不再引发新一轮大跌，好消息重新能推动股价上涨\n4）利率与油价信号：10年期收益率停止上行并回落至4.45%-4.50%下方，油价不继续冲高。\n5）近期一个关键是下周的CPI能顺利过关，当然最核心是财报、前面有聊到财报季关注点。\n\n个人角度\n昨晚市场表现给我了一些去杠杆接近尾声的信号，后面再详细聊下。\n\n这次压缩式去杠杆给我们的警示：\n真实瓶颈被过度预期，又被多层杠杆与拥挤表达放大，当good-news-down出现时，市场在极短时间内完成价格、叙事与杠杆的同步压缩。\n\n半导体仍是长期核心资产，但只有理解压缩式去杠杆的结构本质，才能在高速反身性市场中保持纪律，而非被情绪与工具共同裹挟。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "压缩式去杠杆走到哪一步了？之前也有聊过，近期市场调整的本质是高估值高杠杆高仓位成长板块的去杠杆。核心是宏观环境没有恶化到触发衰退交易，但也没有好到让美联储转向宽松。在缺乏宽松保护伞的背景下，高估值成长板块（尤其是半导体等高beta品种）的高杠杆、拥挤交易，被长端利率、油价扰动以及财报季前的避险情绪共同触发，形成了去杠杆压力，可以称之为压缩式去杠杆。\n\n1、什么叫压缩式去杠杆？\n近期全球半导体板块的急速杀跌，并非传统意义上的基本面崩塌，而是典型的“压缩式去杠杆”。其核心在于：当一个板块在注意力驱动的牛市中，被叙事、衍生品、杠杆工具和拥挤资金共同推高后，一旦边际条件发生微小变化，市场会在极短时间内完成原本需要数周甚至数月才能完成的全面风险释放。价格、叙事、期权、杠杆ETF、融资盘与高仓位持仓同步反向，形成高速的交易结构坍缩。\n\n速度之源：多层杠杆化叙事的同步表达\n本次调整速度远超历史，主要因为市场已从单纯“买股票”升级为“买多层杠杆化叙事”。一个半导体多头头寸同时存在于：\n1）现货股票与高beta个股\n2）单名期权、OTM看涨期权、LEAP远期期权\n3）杠杆ETF（SOXL、韩国芯片杠杆ETF）\n4）主题基金、CTA策略、波动率控制模型\n5）融资买入余额与趋势跟踪资金\n\n这就导致了当上涨时，所有表达同时增加delta；当反转时，所有表达同时减少delta，形成“共识强化”与“拥挤踩踏”的极端对称。所有人都朝同一方向加仓，也会朝同一方向减仓。流动性看似充裕，实则极度脆弱。一旦价格无法继续上行，被延后的反证会集中爆发。\n\n杠杆ETF尤其是放大器。SOXL追求半导体指数单日3倍表现，其每日再平衡机制在单边趋势中放大收益，但在高波动反转中会通过复利路径依赖显著放大回撤。一旦底层指数连续出现大幅波动，即使最终回到原点，3倍ETF的净值也可能出现严重损耗。当大量短线与趋势资金集中于此类产品时，ETF本身就成为情绪与流动性的共振放大器。\n\n2、所以这波调整不是宏观主跌，但宏观也没有给出救市型利好\n1）非农疲软缓解了“立刻再加息”的压力，但美联储的反应函数仍让“降息救估值”遥不可及。对高估值成长股来说，这种环境最为尴尬——增长没坏到需要美联储出手，通胀也没好到让折现率快速下行。\n\n2）地缘因素不是主因，但油价反弹和通胀预期也是扰动。布伦特/WTI短期跳升至70多美元，影响有限；如果持续突破80-85美元并带动通胀预期、远期通胀或2Y/10Y收益率同步上行，才会真正成为主导因素。\n\n3）美元流动性：银行准备金不支持系统性流动性危机\n7月1日准备金余额为3.077万亿美元，高于6月24日的2.954万亿美元。这说明至少从系统流动性角度看，不是美元基础流动性突然收紧导致的下跌。\n\n4）10年期收益率到4.5%以上，不是主驱动因素但也是催化剂\n10年期收益率在4.55%左右，对高估值成长股有三层压力：估值折现率压力、\n资本开支融资成本压力、利率上行的性质（更接近因油价和通胀预期驱动的上行）\n因此US10Y不是这波调整的根源，但它是踩踏的点火器。如果回落至4.45%下方，风险资产会明显缓解；如果突破4.65%-4.70%，即使没有新的宏观坏消息，估值重定价也会继续。\n\n所以核心仍是杠杆高、仓位挤、高估值成长交易过热。在这种结构下，市场不需要宏观全面崩盘，只需要一个足够强的触发器——半导体波动、油价跳升、长端利率上行、财报前避险——任何一个都可能引发风险预算集体下调。这波下跌呈现“多杀多”的特征。\n\n市场也从“是否有需求”转向“需求能否支撑当前资本开支规模和估值水平”，财报季不能只看EPS是否超预期，更要重点观察云收入增速、订单/积压情况、资本开支指引以及自由现金流和利润率指引。所以也有财报季前避险的因素。\n\n3、关键问题去杠杆到哪一步了？\n尾声不看跌幅百分比，而看结构是否重置：\n1）形态层面：SOXL极端放量后不再新低、半导体等核心品种不再领跌，出现低开后放量收回的结构，且连续2-3天不再创新低。高beta存储标的停止破位、韩国核心权重不再被好消息砸盘；\n2）指标层面：OTM call与LEAP拥挤度下降，call skew回落，put/call ratio回升。\n3）负面新闻不再引发新一轮大跌，好消息重新能推动股价上涨\n4）利率与油价信号：10年期收益率停止上行并回落至4.45%-4.50%下方，油价不继续冲高。\n5）近期一个关键是下周的CPI能顺利过关，当然最核心是财报、前面有聊到财报季关注点。\n\n个人角度\n昨晚市场表现给我了一些去杠杆接近尾声的信号，后面再详细聊下。\n\n这次压缩式去杠杆给我们的警示：\n真实瓶颈被过度预期，又被多层杠杆与拥挤表达放大，当good-news-down出现时，市场在极短时间内完成价格、叙事与杠杆的同步压缩。\n\n半导体仍是长期核心资产，但只有理解压缩式去杠杆的结构本质，才能在高速反身性市场中保持纪律，而非被情绪与工具共同裹挟。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2075067198570475727",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMwenUwaYAAYc3B.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075151407330755011",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "靠....还真的是！\n\n我去查了8-K原文，蜂兄这次的核心修正基本都是对的，反而是主流媒体的报道把对条款的解读简化了。原文中“BTC货币化计划”的结构是三个并列用途：\n\n1、出售BTC筹集最多12.5亿美元用于补充美元储备；\n2、“additionally（额外地）”为到期应付的优先股股息和利息提供资金，或在支付后回补储备；\n3、“additionally” 为优先股和普通股的回购计划提供资金。\n\n12.5亿这个数字在原文里只放在第1个用途上，第2、第3各用途没有单独标注上限，只是说超出这些授权范围的卖币，需要董事会再批准。\n\n在6月29日的框架里单列了两个回购授权：回购优先股计划授权最多10亿美元；普通股回购计划另外授权最多10亿美元。\n\n所以蜂兄的拆解成立，即美元储备补充12.5亿封顶，回购用途的卖币上限由回购计划规模决定（10亿+10亿）。而最近这次卖出的3,588枚，按用途归类应该属于第二类（付息），所以没有占用12.5亿额度这一条。\n\n另外，还有2处补充：\n\n1、框架中有些：美元储备有12个月的强制下限；也就是说，在不动用董事会特批的话，可自由消耗的部分其实只有8亿，能撑5个多月。这个下限所产生的回补压力可能会影响后续卖币节奏。\n\n2、“额度固定、股息固定\"这两个前提应该不成立，8-K原文明确有写：货币化计划可随时修改、暂停或终止，所以32.5亿是个政策变量，不作为硬性约束。\n\n因此除了12.5亿的硬额度之外，20亿只是个理论上限。后者的实际动用规模，将取决于回购执行力度和资金来源选择。我个人觉得这种相机抉择的子弹，在熊市里大概率是不会全部打完的。",
+      "contentHtml": "靠....还真的是！\n\n我去查了8-K原文，蜂兄这次的核心修正基本都是对的，反而是主流媒体的报道把对条款的解读简化了。原文中“BTC货币化计划”的结构是三个并列用途：\n\n1、出售BTC筹集最多12.5亿美元用于补充美元储备；\n2、“additionally（额外地）”为到期应付的优先股股息和利息提供资金，或在支付后回补储备；\n3、“additionally” 为优先股和普通股的回购计划提供资金。\n\n12.5亿这个数字在原文里只放在第1个用途上，第2、第3各用途没有单独标注上限，只是说超出这些授权范围的卖币，需要董事会再批准。\n\n在6月29日的框架里单列了两个回购授权：回购优先股计划授权最多10亿美元；普通股回购计划另外授权最多10亿美元。\n\n所以蜂兄的拆解成立，即美元储备补充12.5亿封顶，回购用途的卖币上限由回购计划规模决定（10亿+10亿）。而最近这次卖出的3,588枚，按用途归类应该属于第二类（付息），所以没有占用12.5亿额度这一条。\n\n另外，还有2处补充：\n\n1、框架中有些：美元储备有12个月的强制下限；也就是说，在不动用董事会特批的话，可自由消耗的部分其实只有8亿，能撑5个多月。这个下限所产生的回补压力可能会影响后续卖币节奏。\n\n2、“额度固定、股息固定\"这两个前提应该不成立，8-K原文明确有写：货币化计划可随时修改、暂停或终止，所以32.5亿是个政策变量，不作为硬性约束。\n\n因此除了12.5亿的硬额度之外，20亿只是个理论上限。后者的实际动用规模，将取决于回购执行力度和资金来源选择。我个人觉得这种相机抉择的子弹，在熊市里大概率是不会全部打完的。",
+      "publishedAt": "2026-07-09T09:33:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2075151407330755011",
+      "quote": {
+        "username": "blockTVBee",
+        "displayName": "TVBee🦅",
+        "content": "抱歉，有一个坏消息，更正一下微策略可的出售BTC额度\n\n蜂兄之前看错了微策略的文件，微策略出售BTC的额度不止是12.5亿美元。\n\n上周微策略出售了3588枚BTC，并没有占用12.5亿美元的额度。\n\n┈➤微策略的BTC出售额度\n\n12.5亿美元是用于补充美元储备的额度。\n\n另外，回购优先股和普通股各有10亿美元的额度。\n\n另外，微策略表示会出售BTC支付优先股股息，这部分没有提到额度。\n\n因此，除了支付优先股股息的部分，微策略出售BTC的总额度是12.5+10+10=32.5亿美元\n\n另外还可以出售BTC用于支付优先股股息和利息(可转债)。具体的优先股股息和利息每月支出见图表。也就是说，如果微策略不增发优先股、可转债，每年最多出售价值17.63亿美元的BTC。当然如果适合的话，微策略应该可以通过增发优先股或普通股支付股息利息，不一定要卖BTC。\n\n┈➤优先股很安全\n\n显然 ，微策略现在重点是保住优先股股息的支付，目前的美元储备可以覆盖到2027年11月的全部和12月的一部分。\n\n┈➤MSTR含币仍然有被稀释的空间\n\n用于回购$MSTR的10亿美元的额度是有利于MSTR含币量的。\n\n但是另外的22.5亿美元额度，以及支付股息利息出售BTC，都是会稀释MSTR含币量的。\n\n不考虑为支付股息这部分，只考虑美元储备和回购优先股，BTC出售的这22.5亿美元的额度，占微策略BTC储备的4.33%。\n\n┈➤BTC的抛压\n\n按熊市还要熊1个季度预测，微策略还需要出售BTC支付1个季度的优先股股息，也就是$441million。\n\n加上固定的3250million的额度，共计3691$million。\n\n按BTC价格按$60000计算，大约需要出售61,516枚BTC。\n\n最新数据显示，交易所中的BTC2,707,802.86枚，ETF中的BTC1,781,879.03枚。\n\n不考虑ETF的话，微策略二级市场抛压大约占2.27%。\n\n考虑ETF的话，微策略二级市场抛压大约占1.375%。\n\n这几乎是最坏的情况了。因为：一方面熊市假如再持续3个月，最后在底部的时候，微策略按理应该是发MSTR买BTC；另一方面，微策略提出的回购优先股和MSTR的出售额度，也未必要在熊市操作。\n\n┈➤写在最后\n\n无论如何，没有死亡循环。微策略出售BTC的额度几乎是固定的，优先股股息每年的支出额也是固定的。\n\n微策略的抛压已经在预期之中，情绪影响相对削弱。如果没有其他利空，崩盘估计不至于。但是这个抛压影响下，短期涨起来也是有难度。",
+        "contentHtml": "抱歉，有一个坏消息，更正一下微策略可的出售BTC额度\n\n蜂兄之前看错了微策略的文件，微策略出售BTC的额度不止是12.5亿美元。\n\n上周微策略出售了3588枚BTC，并没有占用12.5亿美元的额度。\n\n┈➤微策略的BTC出售额度\n\n12.5亿美元是用于补充美元储备的额度。\n\n另外，回购优先股和普通股各有10亿美元的额度。\n\n另外，微策略表示会出售BTC支付优先股股息，这部分没有提到额度。\n\n因此，除了支付优先股股息的部分，微策略出售BTC的总额度是12.5+10+10=32.5亿美元\n\n另外还可以出售BTC用于支付优先股股息和利息(可转债)。具体的优先股股息和利息每月支出见图表。也就是说，如果微策略不增发优先股、可转债，每年最多出售价值17.63亿美元的BTC。当然如果适合的话，微策略应该可以通过增发优先股或普通股支付股息利息，不一定要卖BTC。\n\n┈➤优先股很安全\n\n显然 ，微策略现在重点是保住优先股股息的支付，目前的美元储备可以覆盖到2027年11月的全部和12月的一部分。\n\n┈➤MSTR含币仍然有被稀释的空间\n\n用于回购$MSTR的10亿美元的额度是有利于MSTR含币量的。\n\n但是另外的22.5亿美元额度，以及支付股息利息出售BTC，都是会稀释MSTR含币量的。\n\n不考虑为支付股息这部分，只考虑美元储备和回购优先股，BTC出售的这22.5亿美元的额度，占微策略BTC储备的4.33%。\n\n┈➤BTC的抛压\n\n按熊市还要熊1个季度预测，微策略还需要出售BTC支付1个季度的优先股股息，也就是$441million。\n\n加上固定的3250million的额度，共计3691$million。\n\n按BTC价格按$60000计算，大约需要出售61,516枚BTC。\n\n最新数据显示，交易所中的BTC2,707,802.86枚，ETF中的BTC1,781,879.03枚。\n\n不考虑ETF的话，微策略二级市场抛压大约占2.27%。\n\n考虑ETF的话，微策略二级市场抛压大约占1.375%。\n\n这几乎是最坏的情况了。因为：一方面熊市假如再持续3个月，最后在底部的时候，微策略按理应该是发MSTR买BTC；另一方面，微策略提出的回购优先股和MSTR的出售额度，也未必要在熊市操作。\n\n┈➤写在最后\n\n无论如何，没有死亡循环。微策略出售BTC的额度几乎是固定的，优先股股息每年的支出额也是固定的。\n\n微策略的抛压已经在预期之中，情绪影响相对削弱。如果没有其他利空，崩盘估计不至于。但是这个抛压影响下，短期涨起来也是有难度。",
+        "link": "https://x.com/blockTVBee/status/2074901866341867717",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMuILyHa4AE2Kzk.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075138919709225276",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "0.69开头了",
+      "contentHtml": "0.69开头了",
+      "publishedAt": "2026-07-09T08:44:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2075138919709225276",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "app.binance.com/uni-qr/cspa/…\n\n不管 BSC 和二圣推哪条狗出来打  索拉纳\n\n都是对老狗的利空\n\n我直接卖出 #币安人生 \n\n建议币安人生 holder 赶紧清仓，0.7 不卖就得 0.1 卖了",
+        "contentHtml": "<a href=\"https://app.binance.com/uni-qr/cspa/42680150358514?l=zh-CN&r=K4HG1JW9&source=host_share&uc=web_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>\n\n不管 BSC 和二圣推哪条狗出来打  索拉纳\n\n都是对老狗的利空\n\n我直接卖出 <a href=\"/search?f=tweets&q=%23币安人生\">#币安人生</a> \n\n建议币安人生 holder 赶紧清仓，0.7 不卖就得 0.1 卖了",
+        "link": "https://x.com/Bitfatty/status/2073735713540174101",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMdjoyMbkAAGxeb.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075135118138847597",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
+      "content": "想起来了，我全都想起来了，我就是华尔街之狼，我是国产之王，我是光之使者，我是芯之继承人，我是内存之王。我不是田野里的韭菜！不是过年的年猪！",
+      "contentHtml": "想起来了，我全都想起来了，我就是华尔街之狼，我是国产之王，我是光之使者，我是芯之继承人，我是内存之王。我不是田野里的韭菜！不是过年的年猪！",
+      "publishedAt": "2026-07-09T08:29:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2075135118138847597",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMxcYh1b0AA5VTZ.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Web3Feng",
+        "displayName": "风无向🦅",
+        "content": "又安静了？还AI算力链吗？还算电协同吗？还算力租赁订单满天飞吗？还半导体国产替代、夏季用电高峰、碳酸锂价格反弹吗？还 Token 出海、算力跨境变现吗？还国产 AI 智能体、本地部署自主可控吗？还算力电网双向调峰、虚拟储能吗？还西部绿电 + 算力中心、成本碾压吗？还长鑫科技 IPO吗？还长江存储 IPO吗？还聊天记录分分钟 999+，怎么我一上车就不暴涨了？被我一手买崩了？我不在时你们天天又是要会所嫩模，又是要买车买房，又要全国全世界旅游，又是怎么把我骗上车就暴跌了，有这么巧吗？你们说话啊！",
+        "contentHtml": "又安静了？还AI算力链吗？还算电协同吗？还算力租赁订单满天飞吗？还半导体国产替代、夏季用电高峰、碳酸锂价格反弹吗？还 Token 出海、算力跨境变现吗？还国产 AI 智能体、本地部署自主可控吗？还算力电网双向调峰、虚拟储能吗？还西部绿电 + 算力中心、成本碾压吗？还长鑫科技 IPO吗？还长江存储 IPO吗？还聊天记录分分钟 999+，怎么我一上车就不暴涨了？被我一手买崩了？我不在时你们天天又是要会所嫩模，又是要买车买房，又要全国全世界旅游，又是怎么把我骗上车就暴跌了，有这么巧吗？你们说话啊！",
+        "link": "https://x.com/Web3Feng/status/2072564149532385778"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075128121607741518",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "这次多单一定拿三个月！！！！\n$BTC",
+      "contentHtml": "这次多单一定拿三个月！！！！\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
+      "publishedAt": "2026-07-09T08:01:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2075128121607741518",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMxWBOWbkAA0XB1.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "这个多单我准备拿个三个月，你们觉得怎么样？嗯就除非除非给我爆了，不然我就不动他了。",
+        "contentHtml": "这个多单我准备拿个三个月，你们觉得怎么样？嗯就除非除非给我爆了，不然我就不动他了。",
+        "link": "https://x.com/Bitfatty/status/2072632364484989206",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMN4IRlb0AAoZeN.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075124045151125600",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "Memecoin 正成为 Robinhood Chain 的流量密码👩‍💻\n\n▶︎ $CASHCAT 五小时速通 1 亿美金\n▶︎ CEO @vladtenev 亲自下场带节奏\n▶︎ 一天新币过万，单日 DEX 交易量超 5.6 亿美元，\n\n新的龙一已经出现，如何快速上手新公链，搞定钱包 / 跨链 / DEX / 数据工具，看这一篇就够了🧵👇\n\n1/ 钱包\n\nRobinhood Chain(@RobinhoodCrypto) 是 L2 网络，最简单的方式就是用 OKX / Binance / Metamask 等常用钱包添加网络了，这里是官方网络给出的各大主流钱包「一键添加」传送门 👉 docs.robinhood.com/chain/add…\n\n以防万一你想手动添加 👉 Chain ID：4663，区块链浏览器：robinhoodchain.blockscout.co…\n\n当然官方也推出了自己的 Robinhood Wallet，iOS 或安卓都能下载到移动端应用，集成会更深度一些\n\n2/ 跨链\n\n1️⃣ 官方跨链桥：portal.arbitrum.io/bridge?de…（注意提现会有 7 天的等待期）\n2️⃣ Robinhood Wallet：钱包集成了跨链功能，懒得挑可以直接用\n3️⃣ 第三方聚合器：按需挑选即可\nRelay: relay.link/bridge/robinhood\nStargate: relay.link/bridge/robinhood\nAcross: across.to/?to=robinhood\n\n3/ DEX\n\n1️⃣ Uniswap：老面孔，交易时选对应网络就行\n2️⃣ NOXA Fun：Robinhood 发射台，类似于 Pumpfun 👉 fun.noxa.fi/robinhood\n\n4/ Meme 看盘工具\n\n1️⃣ DEXScreener @dexscreener：dexscreener.com/robinhood\n2️⃣ GMGN @gmgnai：gmgn.ai/?ref=0ZhKy06I\n\n冲狗 BOT 涉及安全风险就不在这罗列了，如果其他好用的工具欢迎大家在评论区补充，最后如果你喜欢本条推文，记得关注 / 转发 / 点赞一键三连哦🥰",
+      "contentHtml": "Memecoin 正成为 Robinhood Chain 的流量密码👩‍💻\n\n▶︎ <a href=\"/search?f=tweets&q=%23CASHCAT\">$CASHCAT</a> 五小时速通 1 亿美金\n▶︎ CEO <a href=\"/vladtenev\" title=\"Vlad Tenev\">@vladtenev</a> 亲自下场带节奏\n▶︎ 一天新币过万，单日 DEX 交易量超 5.6 亿美元，\n\n新的龙一已经出现，如何快速上手新公链，搞定钱包 / 跨链 / DEX / 数据工具，看这一篇就够了🧵👇\n\n1/ 钱包\n\nRobinhood Chain(<a href=\"/RobinhoodCrypto\" title=\"Robinhood Crypto\">@RobinhoodCrypto</a>) 是 L2 网络，最简单的方式就是用 OKX / Binance / Metamask 等常用钱包添加网络了，这里是官方网络给出的各大主流钱包「一键添加」传送门 👉 <a href=\"https://docs.robinhood.com/chain/add-network-to-wallet/\">docs.robinhood.com/chain/add…</a>\n\n以防万一你想手动添加 👉 Chain ID：4663，区块链浏览器：<a href=\"https://robinhoodchain.blockscout.com/\">robinhoodchain.blockscout.co…</a>\n\n当然官方也推出了自己的 Robinhood Wallet，iOS 或安卓都能下载到移动端应用，集成会更深度一些\n\n2/ 跨链\n\n1️⃣ 官方跨链桥：<a href=\"https://portal.arbitrum.io/bridge?destinationChain=robinhood-chain&sourceChain=ethereum\">portal.arbitrum.io/bridge?de…</a>（注意提现会有 7 天的等待期）\n2️⃣ Robinhood Wallet：钱包集成了跨链功能，懒得挑可以直接用\n3️⃣ 第三方聚合器：按需挑选即可\nRelay: <a href=\"https://relay.link/bridge/robinhood\">relay.link/bridge/robinhood</a>\nStargate: <a href=\"https://relay.link/bridge/robinhood\">relay.link/bridge/robinhood</a>\nAcross: <a href=\"https://across.to/?to=robinhood\">across.to/?to=robinhood</a>\n\n3/ DEX\n\n1️⃣ Uniswap：老面孔，交易时选对应网络就行\n2️⃣ NOXA Fun：Robinhood 发射台，类似于 Pumpfun 👉 <a href=\"https://fun.noxa.fi/robinhood\">fun.noxa.fi/robinhood</a>\n\n4/ Meme 看盘工具\n\n1️⃣ DEXScreener <a href=\"/dexscreener\" title=\"DEX Screener\">@dexscreener</a>：<a href=\"https://dexscreener.com/robinhood\">dexscreener.com/robinhood</a>\n2️⃣ GMGN <a href=\"/gmgnai\" title=\"GMGN.Ai\">@gmgnai</a>：<a href=\"https://gmgn.ai/?ref=0ZhKy06I\">gmgn.ai/?ref=0ZhKy06I</a>\n\n冲狗 BOT 涉及安全风险就不在这罗列了，如果其他好用的工具欢迎大家在评论区补充，最后如果你喜欢本条推文，记得关注 / 转发 / 点赞一键三连哦🥰",
+      "publishedAt": "2026-07-09T07:45:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2075124045151125600",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HMxSAZsbkAAvGFi.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2075118915072688331",
       "username": "0xleng1",
@@ -949,25 +1236,6 @@
         "content": "大胆猜测，今天最后一跌",
         "contentHtml": "大胆猜测，今天最后一跌",
         "link": "https://x.com/octopusycc/status/2074583783609901056"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2074942453736767787",
-      "username": "Cernovich",
-      "displayName": "Cernovich",
-      "avatar": "https://pbs.twimg.com/profile_images/1981917778467532800/1LpS5x6S_bigger.jpg",
-      "content": "Has anyone run the math on how much state tax revenue California would have collected from the SpaceX IPO had they not driven Elon out?",
-      "contentHtml": "Has anyone run the math on how much state tax revenue California would have collected from the SpaceX IPO had they not driven Elon out?",
-      "publishedAt": "2026-07-08T19:43:00.000Z",
-      "link": "https://x.com/Cernovich/status/2074942453736767787",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -9369,64 +9637,6 @@
       }
     },
     {
-      "id": "2073195294637072595",
-      "username": "nivi",
-      "displayName": "Nivi",
-      "avatar": "https://pbs.twimg.com/profile_images/54022207/Nivi_Favicon_bigger.jpg",
-      "content": "Our goal is to capture how founders really talk when no one is watching.",
-      "contentHtml": "Our goal is to capture how founders really talk when no one is watching.",
-      "publishedAt": "2026-07-04T00:00:00.000Z",
-      "link": "https://x.com/nivi/status/2073195294637072595",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "naval",
-        "displayName": "Naval",
-        "content": "New podcast with @garrytan, @farbood and Daniel Francis.\n\nLive in the Future!\n\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers",
-        "contentHtml": "New podcast with <a href=\"/garrytan\" title=\"Garry Tan\">@garrytan</a>, <a href=\"/farbood\" title=\"farbood\">@farbood</a> and Daniel Francis.\n\nLive in the Future!\n\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers",
-        "link": "https://x.com/naval/status/2072914445668590003"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073174159627096450",
-      "username": "beffjezos",
-      "displayName": "Beff (e/acc)",
-      "avatar": "https://pbs.twimg.com/profile_images/2005482858975023104/s9wmB9qT_bigger.jpg",
-      "content": "Every founder in tech would have to leave the state.\n\nThis is what they want. We have to fight back.",
-      "contentHtml": "Every founder in tech would have to leave the state.\n\nThis is what they want. We have to fight back.",
-      "publishedAt": "2026-07-03T22:36:00.000Z",
-      "link": "https://x.com/beffjezos/status/2073174159627096450",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Austen",
-        "displayName": "Austen Allred",
-        "content": "It took about one week for Khanna to get bullied into suggesting his “billionaire tax” should actually be on anyone worth $50 million",
-        "contentHtml": "It took about one week for Khanna to get bullied into suggesting his “billionaire tax” should actually be on anyone worth $50 million",
-        "link": "https://x.com/Austen/status/2073057643854520414",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMT67NfasAEg3Ei.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2073167720494068020",
       "username": "taresky",
       "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
@@ -9834,38 +10044,6 @@
             "url": "https://pbs.twimg.com/media/HMS7E0masAEs2qm.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073041094510526467",
-      "username": "micsolana",
-      "displayName": "Mike Solana",
-      "avatar": "https://pbs.twimg.com/profile_images/1134194710573010944/1R6h8Nai_bigger.png",
-      "content": "khanna's 'billionaire wealth tax,' which is not a tax but an asset seizure in which he tallies everything you own, then demands a percentage *on top* of what you're taxed — every single year — is already targeting anyone worth $50 million or more. this ends with your 401k.",
-      "contentHtml": "khanna's 'billionaire wealth tax,' which is not a tax but an asset seizure in which he tallies everything you own, then demands a percentage *on top* of what you're taxed — every single year — is already targeting anyone worth $50 million or more. this ends with your 401k.",
-      "publishedAt": "2026-07-03T13:48:00.000Z",
-      "link": "https://x.com/micsolana/status/2073041094510526467",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMTrjgYWEAAr22g.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "RoKhanna",
-        "displayName": "Ro Khanna",
-        "content": "I make the philosophical case for tax fairness and taxing billionaire wealth. \n\nI welcome an argument on the merits for this new social contract.\n\nRead here:\nopen.substack.com/pub/rokhan…",
-        "contentHtml": "I make the philosophical case for tax fairness and taxing billionaire wealth. \n\nI welcome an argument on the merits for this new social contract.\n\nRead here:\n<a href=\"https://open.substack.com/pub/rokhannausa/p/why-i-support-a-billionaire-wealth?r=4coaor&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">open.substack.com/pub/rokhan…</a>",
-        "link": "https://x.com/RoKhanna/status/2072770677514334558"
       },
       "stats": {
         "replies": 0,
@@ -11979,171 +12157,6 @@
         "content": "nitter.net/DeItaone/status/207231…\nI think tonight’s NFP will be important. \n\nU got Bessent saying NFP will be high\n piped.video/watch?v=__jSIIhj…\n\nWe’ve been beating expectations for the last 3 months. \nAfter Bessent calling high nfp, the market has already priced in a strong NFP tonight.\n\nIf the NFP comes in in line or soft, it should push the oversold tech stocks higher. $MRVL  $AMD \n\nLooking at crypto, sellers seem pretty much exhausted again around $60K. \n\nWe’ve been selling off since the hawkish Fed dot plot and the uncertainty from the statement.\n\nI feel like the NFP number is going to be soft, which makes bidding here a good risk-reward setup in general.    pick ur winner",
         "contentHtml": "<a href=\"https://nitter.net/DeItaone/status/2072311814835057138\">nitter.net/DeItaone/status/207231…</a>\nI think tonight’s NFP will be important. \n\nU got Bessent saying NFP will be high\n <a href=\"https://piped.video/watch?v=__jSIIhjiGE\">piped.video/watch?v=__jSIIhj…</a>\n\nWe’ve been beating expectations for the last 3 months. \nAfter Bessent calling high nfp, the market has already priced in a strong NFP tonight.\n\nIf the NFP comes in in line or soft, it should push the oversold tech stocks higher. <a href=\"/search?f=tweets&q=%23MRVL\">$MRVL</a>  <a href=\"/search?f=tweets&q=%23AMD\">$AMD</a> \n\nLooking at crypto, sellers seem pretty much exhausted again around $60K. \n\nWe’ve been selling off since the hawkish Fed dot plot and the uncertainty from the statement.\n\nI feel like the NFP number is going to be soft, which makes bidding here a good risk-reward setup in general.    pick ur winner",
         "link": "https://x.com/JoshuaDeuk/status/2072569513149947986"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072692754967302509",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "Netflix 把美剧用各个国家的人脸去拍一遍，算是彻底成功了。",
-      "contentHtml": "Netflix 把美剧用各个国家的人脸去拍一遍，算是彻底成功了。",
-      "publishedAt": "2026-07-02T14:43:00.000Z",
-      "link": "https://x.com/taresky/status/2072692754967302509",
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "金部长可以快点更新吗",
-        "contentHtml": "金部长可以快点更新吗",
-        "link": "https://x.com/taresky/status/2072691650095439875"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072691650095439875",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "金部长可以快点更新吗",
-      "contentHtml": "金部长可以快点更新吗",
-      "publishedAt": "2026-07-02T14:39:00.000Z",
-      "link": "https://x.com/taresky/status/2072691650095439875",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072689695512023151",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI  \n\nOrca (onorca) 是 muxy 的上位替代。\n\n更全面、更成熟、更稳定。\n\n已全面切换😂",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a>  \n\nOrca (onorca) 是 muxy 的上位替代。\n\n更全面、更成熟、更稳定。\n\n已全面切换😂",
-      "publishedAt": "2026-07-02T14:31:00.000Z",
-      "link": "https://x.com/taresky/status/2072689695512023151",
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "#AI \n\n经过多天的使用，muxy 是目前我认为 remote vibe coding 的最优解。\n\n1. 连接体验极佳。连接和切换设备都在 0.5s 内完成，哪怕移动网络弱信号下也极快。相对而言最近的 Codex on iOS 连接极其慢，非常不稳定。\n\n2. 可以同时用 Codex、Claude Code、AMP。全功能。\n\n3. 很聪明地放弃了“同步”。同时只能在一台设备上激活窗口，切换设备时点击就秒切。完美避开了其他竞品想做同步，反而带来的各种不同步体验。",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n经过多天的使用，muxy 是目前我认为 remote vibe coding 的最优解。\n\n1. 连接体验极佳。连接和切换设备都在 0.5s 内完成，哪怕移动网络弱信号下也极快。相对而言最近的 Codex on iOS 连接极其慢，非常不稳定。\n\n2. 可以同时用 Codex、Claude Code、AMP。全功能。\n\n3. 很聪明地放弃了“同步”。同时只能在一台设备上激活窗口，切换设备时点击就秒切。完美避开了其他竞品想做同步，反而带来的各种不同步体验。",
-        "link": "https://x.com/taresky/status/2055825636326076531"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072687485360967705",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "Appreciate you all tuning in. We peaked at 1,110 viewers. \n\nIn a few months, when the $BTC bull market begins, I'll be streaming much more often, with a facecam.",
-      "contentHtml": "Appreciate you all tuning in. We peaked at 1,110 viewers. \n\nIn a few months, when the <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> bull market begins, I'll be streaming much more often, with a facecam.",
-      "publishedAt": "2026-07-02T14:22:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2072687485360967705",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMOqNCxXwAAvrOg.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "Will be going live on X for the first time in 30 minutes. \n\nWill be discussing my overall thoughts on $BTC during this tricky period.\n\nStay tuned.",
-        "contentHtml": "Will be going live on X for the first time in 30 minutes. \n\nWill be discussing my overall thoughts on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> during this tricky period.\n\nStay tuned.",
-        "link": "https://x.com/KillaXBT/status/2072664821556707587"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072687393740902685",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "？？？？闷声直接把期权给上了？",
-      "contentHtml": "？？？？闷声直接把期权给上了？",
-      "publishedAt": "2026-07-02T14:22:00.000Z",
-      "link": "https://x.com/octopusycc/status/2072687393740902685",
-      "quote": {
-        "username": "xiejiayinBitget",
-        "displayName": "谢家印",
-        "content": "尊贵的美股交易员，对不起！我道歉。\n\n请接受我诚挚的歉意，自去年 Bitget 第一次提出 UEX 概念到现在，团队不断搞事，用户不堪其扰。\n\n我很纳闷！为什么产研会开着开着，突然就有人拍桌子说：“这个功能业内还没人做，我们做！”\n\nGracy、产品、运营都卷，连我这个卷王都快被榨干了 😆 目的就一个，我们要给用户提供主流交易所里最早、最好、最灵活的美股交易方案。成绩有目共睹：\n\n第一家支持 #rTOKEN 美股代币，用户无痛无缝、丝滑交易\n第一家推出 Pre-IPO，6100万的 preSPCX, 3000万的preOPAI，用户获利 50%+\n今天，我们又是第一家上线 #美股期权 的主流交易所。\n\n是的第一第一，又是第一，总是第一。\n\n别打我，我知道错了！我更知道我们哪儿做对了。因为做到了第一，让用户 #交易美股首选Bitget\n\n以后我们还会推出更多行业第一的美股产品，拭目以待。\n\n谢家印\n2026年7月1日",
-        "contentHtml": "尊贵的美股交易员，对不起！我道歉。\n\n请接受我诚挚的歉意，自去年 Bitget 第一次提出 UEX 概念到现在，团队不断搞事，用户不堪其扰。\n\n我很纳闷！为什么产研会开着开着，突然就有人拍桌子说：“这个功能业内还没人做，我们做！”\n\nGracy、产品、运营都卷，连我这个卷王都快被榨干了 😆 目的就一个，我们要给用户提供主流交易所里最早、最好、最灵活的美股交易方案。成绩有目共睹：\n\n第一家支持 <a href=\"/search?f=tweets&q=%23rTOKEN\">#rTOKEN</a> 美股代币，用户无痛无缝、丝滑交易\n第一家推出 Pre-IPO，6100万的 preSPCX, 3000万的preOPAI，用户获利 50%+\n今天，我们又是第一家上线 <a href=\"/search?f=tweets&q=%23美股期权\">#美股期权</a> 的主流交易所。\n\n是的第一第一，又是第一，总是第一。\n\n别打我，我知道错了！我更知道我们哪儿做对了。因为做到了第一，让用户 <a href=\"/search?f=tweets&q=%23交易美股首选Bitget\">#交易美股首选Bitget</a>\n\n以后我们还会推出更多行业第一的美股产品，拭目以待。\n\n谢家印\n2026年7月1日",
-        "link": "https://x.com/xiejiayinBitget/status/2072675034540433760",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMOUv1HaYAAwXkz.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072682609839415422",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "这才一个月两位老师都正式宣布腰斩，记住谁才是全网第一个冒大不韪勇敢站出来提示风险的独行者",
-      "contentHtml": "这才一个月两位老师都正式宣布腰斩，记住谁才是全网第一个冒大不韪勇敢站出来提示风险的独行者",
-      "publishedAt": "2026-07-02T14:03:00.000Z",
-      "link": "https://x.com/yuren477/status/2072682609839415422",
-      "quote": {
-        "username": "yuren477",
-        "displayName": "余人sama",
-        "content": "回头看，2020 年前后的 crypto是全世界最好的玩家池，\n现在我越来越确认，美股小票圈才是当下鱼最多的玩家池。\n前有午饭，后有最近这什么Ser，经典的天才女交易员人设。\n鱼太多，镰刀都不够用。\n一个只秀收益率、只玩小盘股的 KOL，也能吸引一群赛博司礼监。\n当然，动不动晒个 3200% 我其实也没觉得多夸张，小账户梭哈高倍数，本质上不是什么稀缺能力，\n我去年小账户也1万刀梭过 50 倍，说实话，没太大意义。\n难的是大资金能不能复制，回撤能不能控制，流动性能不能退出，错了以后怎么处理。\n说回 Serenity @aleabitoreddit 他最近一些喊单，我观感非常差。\n一个流动性很差的标的，\n先有仓位，\n再开始强叙事输出，\n再用收益率和确定性语言制造 FOMO，\n最后让后来的散户去提供流动性。\n这套东西，币圈老哥早就玩剩下了。\n现在美股圈里，居然还有一群人把它当成宝。\n\n所以我再提醒一下：\n到了这个阶段，就别傻乎乎去当别人的流动性了。\n你自己提前有仓位，那你想 FOMO 别人接，至少我还能理解这个交易动机。\n但有些人明明没仓位，还在别人喊单下面集体高潮，你是来赚钱的还是来追星谈恋爱的？有时候真好奇这些人的大脑构造。",
-        "contentHtml": "回头看，2020 年前后的 crypto是全世界最好的玩家池，\n现在我越来越确认，美股小票圈才是当下鱼最多的玩家池。\n前有午饭，后有最近这什么Ser，经典的天才女交易员人设。\n鱼太多，镰刀都不够用。\n一个只秀收益率、只玩小盘股的 KOL，也能吸引一群赛博司礼监。\n当然，动不动晒个 3200% 我其实也没觉得多夸张，小账户梭哈高倍数，本质上不是什么稀缺能力，\n我去年小账户也1万刀梭过 50 倍，说实话，没太大意义。\n难的是大资金能不能复制，回撤能不能控制，流动性能不能退出，错了以后怎么处理。\n说回 Serenity <a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a> 他最近一些喊单，我观感非常差。\n一个流动性很差的标的，\n先有仓位，\n再开始强叙事输出，\n再用收益率和确定性语言制造 FOMO，\n最后让后来的散户去提供流动性。\n这套东西，币圈老哥早就玩剩下了。\n现在美股圈里，居然还有一群人把它当成宝。\n\n所以我再提醒一下：\n到了这个阶段，就别傻乎乎去当别人的流动性了。\n你自己提前有仓位，那你想 FOMO 别人接，至少我还能理解这个交易动机。\n但有些人明明没仓位，还在别人喊单下面集体高潮，你是来赚钱的还是来追星谈恋爱的？有时候真好奇这些人的大脑构造。",
-        "link": "https://x.com/yuren477/status/2058924224367280431"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072681486847992076",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "$sive 正式宣布腰斩，跟老师做对就是这个下场，一定要停白毛股神的话拿住了吧，信仰这么坚定别跟我讲你们都跑了哦。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23sive\">$sive</a> 正式宣布腰斩，跟老师做对就是这个下场，一定要停白毛股神的话拿住了吧，信仰这么坚定别跟我讲你们都跑了哦。",
-      "publishedAt": "2026-07-02T13:59:00.000Z",
-      "link": "https://x.com/yuren477/status/2072681486847992076",
-      "quote": {
-        "username": "yuren477",
-        "displayName": "余人sama",
-        "content": "很多人搞错了一件事情。\n我不是在FUD Serenity@aleabitoreddit，相反我很佩服这个团队。\n能这么精准的拿捏人性弱点，预判市场节奏，抓住了当前SEC被川普搞废的空档期，在最合适的时机把叙事、情绪和流动性攒起来是顶级能力。\n\n我更不是在看空存储，存储毫无疑问是当前市场最好的叙事之一，甚至可能是这轮周期最值得认真研究的方向之一。\n\n我真正看空的，是那些看到收益率就失去基本逻辑判断力，看到KOL喊单就开始FOMO，把投资玩成galgame的人。\n\n相比于存储，你们才是这个世界上最宝贵的资产。",
-        "contentHtml": "很多人搞错了一件事情。\n我不是在FUD Serenity@aleabitoreddit，相反我很佩服这个团队。\n能这么精准的拿捏人性弱点，预判市场节奏，抓住了当前SEC被川普搞废的空档期，在最合适的时机把叙事、情绪和流动性攒起来是顶级能力。\n\n我更不是在看空存储，存储毫无疑问是当前市场最好的叙事之一，甚至可能是这轮周期最值得认真研究的方向之一。\n\n我真正看空的，是那些看到收益率就失去基本逻辑判断力，看到KOL喊单就开始FOMO，把投资玩成galgame的人。\n\n相比于存储，你们才是这个世界上最宝贵的资产。",
-        "link": "https://x.com/yuren477/status/2059669374978682913",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJVojqlbEAASp0o.png"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
