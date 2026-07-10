@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T23:32:26.352Z",
+  "lastUpdated": "2026-07-10T00:47:26.918Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,58 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 623,
-    "successUsers": 31,
-    "failedUsers": 1
+    "newFetched": 642,
+    "successUsers": 32,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2075380477633175701",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
+      "content": "这几年投了不少二级市场 PM, 也跟踪过很多 pod 的表现。在我自己面试新的投资人时，也在反复在想一个问题: 什么样的人，真的适合做投资？资本市场里不缺一年 10x 的人, 少的是十年10x 的人。除了智商、天赋、努力这些基本面，我觉得有两个东西被低估了：\n\n1. 对资本市场本身的极致热爱\n\n不是对钱的热爱。很多人很喜欢钱，但对市场怎么运转、价格怎么形成、流动性怎么迁移、风险怎么被定价，预期如何被管理等等根本没有什么兴。这个在沟通的时候体现出来是看不到对一些高信息密度但是非headline事件的好奇心, 或者不会主动的去深挖某些看似边角料但是可以提供全新投资角度的情报 \n\n2. 找到最适合自己性格和行为模式的投资方式\n做 short selling 很强的人，就不要做only fundamental。\n擅长 trade dislocation 的人，就不要做thematic。\n反应速度、risk appetite、时间偏好、对于同样信息的不同解读,  最后都会变成策略和交易结构的一部分。微观, 中观, 宏观, 每一层都有无数的投资机会, 但是如何找到investor/market fit, 那是每个投资人自己的修行结果. \n\n市场永远奖励长板。对 founder 是这样，对投资人也是。如果长板可以被发展到无限长, 弱点就是特点。如果最长的长板不够长, 微小的弱点都可以是缺点。了解自己, 永远比了解市场重要的多.",
+      "contentHtml": "这几年投了不少二级市场 PM, 也跟踪过很多 pod 的表现。在我自己面试新的投资人时，也在反复在想一个问题: 什么样的人，真的适合做投资？资本市场里不缺一年 10x 的人, 少的是十年10x 的人。除了智商、天赋、努力这些基本面，我觉得有两个东西被低估了：\n\n1. 对资本市场本身的极致热爱\n\n不是对钱的热爱。很多人很喜欢钱，但对市场怎么运转、价格怎么形成、流动性怎么迁移、风险怎么被定价，预期如何被管理等等根本没有什么兴。这个在沟通的时候体现出来是看不到对一些高信息密度但是非headline事件的好奇心, 或者不会主动的去深挖某些看似边角料但是可以提供全新投资角度的情报 \n\n2. 找到最适合自己性格和行为模式的投资方式\n做 short selling 很强的人，就不要做only fundamental。\n擅长 trade dislocation 的人，就不要做thematic。\n反应速度、risk appetite、时间偏好、对于同样信息的不同解读,  最后都会变成策略和交易结构的一部分。微观, 中观, 宏观, 每一层都有无数的投资机会, 但是如何找到investor/market fit, 那是每个投资人自己的修行结果. \n\n市场永远奖励长板。对 founder 是这样，对投资人也是。如果长板可以被发展到无限长, 弱点就是特点。如果最长的长板不够长, 微小的弱点都可以是缺点。了解自己, 永远比了解市场重要的多.",
+      "publishedAt": "2026-07-10T00:43:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2075380477633175701",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075380285408202816",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "SemiAnalysis已经开始在喊Meta将在六个月内超越谷歌了。正如7月4号这篇推文里聊到的：“下一代模型的性能是胜负手。都一定要立马超过gpt5.5、claude fable5，只要meta下一代大模型的性能能接近最新一代，超过O/A/G上一代性能，个人认为还是能占据一席之地的。如果能赶上来，我觉得meta机会很大。”\n\n现在看Muse Spark1.1就是如此，距离Aunthropic和OpenAI最新一代还有差距，但在性能上已经超过了A和O家的上一代模型性能了，只要有能拿得出手性能、整个竞争局面立马改观。特别是Muse Spark1.1 定价策略极为激进——约为OpenAI和Anthropic同类顶级模型的四分之一。\n\n能看出来，小扎在大模型上的思路是其实跟微软推MAI模型策略是一样的：不再追求模型性能上完全超越Authropic和OpenAI的最新一代模型，但性能够用，关于是价格极具竞争力，这种性能够用（超过O和A家上一代模型性能）但是token价格极具性价比，在未来企业采用AI分场景使用模型、多模型架构下能吃到相当部分份额。之前这里nitter.net/qinbafrank/status/2074…有讨论过这个企业AI采用进程的新变化\n\nSemiAnalysis认为Meta之后能超越谷歌的核心逻辑是：数据优势、人才团队、自有算力规模。\n也是我更早这里nitter.net/qinbafrank/status/2072…聊到的Meta未来真正有有价值和差异的是：自有模型 + 自有用户场景 + 自有广告/社交数据闭环 + 自有推理基础设施。\n。这一波判断要比SA更早一点了🤔\n\n但现在就是说谷歌安全落后也为时过早，谷歌也有其自身优势、正如之前这里nitter.net/qinbafrank/status/2047…聊到：大模型的竞争格局是交替领先，各领风骚三五月。",
+      "contentHtml": "SemiAnalysis已经开始在喊Meta将在六个月内超越谷歌了。正如7月4号这篇推文里聊到的：“下一代模型的性能是胜负手。都一定要立马超过gpt5.5、claude fable5，只要meta下一代大模型的性能能接近最新一代，超过O/A/G上一代性能，个人认为还是能占据一席之地的。如果能赶上来，我觉得meta机会很大。”\n\n现在看Muse Spark1.1就是如此，距离Aunthropic和OpenAI最新一代还有差距，但在性能上已经超过了A和O家的上一代模型性能了，只要有能拿得出手性能、整个竞争局面立马改观。特别是Muse Spark1.1 定价策略极为激进——约为OpenAI和Anthropic同类顶级模型的四分之一。\n\n能看出来，小扎在大模型上的思路是其实跟微软推MAI模型策略是一样的：不再追求模型性能上完全超越Authropic和OpenAI的最新一代模型，但性能够用，关于是价格极具竞争力，这种性能够用（超过O和A家上一代模型性能）但是token价格极具性价比，在未来企业采用AI分场景使用模型、多模型架构下能吃到相当部分份额。之前这里<a href=\"https://nitter.net/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2074…</a>有讨论过这个企业AI采用进程的新变化\n\nSemiAnalysis认为Meta之后能超越谷歌的核心逻辑是：数据优势、人才团队、自有算力规模。\n也是我更早这里<a href=\"https://nitter.net/qinbafrank/status/2072902811675922742?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2072…</a>聊到的Meta未来真正有有价值和差异的是：自有模型 + 自有用户场景 + 自有广告/社交数据闭环 + 自有推理基础设施。\n。这一波判断要比SA更早一点了🤔\n\n但现在就是说谷歌安全落后也为时过早，谷歌也有其自身优势、正如之前这里<a href=\"https://nitter.net/qinbafrank/status/2047491554609422452?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2047…</a>聊到：大模型的竞争格局是交替领先，各领风骚三五月。",
+      "publishedAt": "2026-07-10T00:43:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2075380285408202816",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM07XMzaUAAO4S_.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM07XNFbMAAkaQC.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "Meta在大模型上完全没有机会了么？个人不这么看，几个点：\n1、Meta即使走闭源路线，先得承认OpenAI和Authropic已经遥遥领先，但不能说Meta就毫无优势，仍有OpenAI和Anthropic难以比拟的护城河：\n1）深度产品整合：Meta AI直接嵌入WhatsApp、Instagram、Facebook、Messenger等，覆盖数十亿用户，可实现个性化（基于社交数据）、多模态（视觉+聊天）、广告转化优化。\n2）基础设施与成本优势：Meta正在建设巨型算力集群，自有数据中心规模巨大，推理成本和延迟有潜力更低。\n\n其实看去年谷歌是怎么追赶上来的，一方面gemini3推出性能很强，另一方面也是谷歌强大的分发渠道。\n\n现在Meta的问题还没拿得出手前沿大模型，如果下一代大模型性能能住上来，加上meta强大的分发渠道，至少在C端能有一席之地。而且AI对广告的提效是很直接的，之前meta自己模型拉垮也借用了gemini的api，算力请求过大都被谷歌限制访问了。\n\n所以核心不是meta在AI上有没有机会，而是meta下一代大模型性能能不能赶上来。如果能赶上来，我觉得meta机会很大。\n模型性能好，分发渠道气强，用户量自然就能起来，Agent推进也能加快。然后B端编程弱、但是B端Ai 广告这一块应该能吃到很多。\n\n2、再说说开源，\nMeta也没有放弃开源，现在Meta应该是个混合策略，Muse Spark是闭源的，但官方明确表示“希望open-source未来版本的模型”，并正在开发open-weight版本的下一代模型（保留部分专有能力如网络安全代码生成）\n\nGLM确实很强，中国的大模型开源生态发展也很快，气势如虹。正如引用推文聊到的“欧美日有很多规定不许用中国模型，Meta本可填这个非中国开源Tier-1生态位”。Meta通过Llama已经进入，且仍有空间加强（继续开源部分模型 + 强调“西方可信来源”）\n\n上面聊到的核心是什么？\n还是模型的性能，这个是胜负手。都一定要立马超过gpt5.5、claude fable5，只要meta下一代大模型的性能能接近最新一代，超过O/A/G上一代性能，个人认为还是能占据一席之地的。但如果模型性能一直上不来，那确实很难翻身。\n\n如昨天在这里nitter.net/qinbafrank/status/2072…聊到的，Meta未来真正有有价值和差异的是 “自有模型 + 自有用户场景 + 自有广告/社交数据闭环 + 自有推理基础设施”\n。Meta现阶段关键点在模型的性能上，如果能突破，未来的胜负手在Agent 上。\n\n当然未来模型真起不来、meta就索性专注做Agent，就像腾讯现在的思路。谁家算力好、token性价比高就用谁的，也未尝没有机会。Meta去推agent也有优势\n\n简单说就是Meta还有牌可打，AI领域变化快，几个月后情况可能又不同。就像之前这里nitter.net/qinbafrank/status/2047…聊到，各领风骚三五月。",
+        "contentHtml": "Meta在大模型上完全没有机会了么？个人不这么看，几个点：\n1、Meta即使走闭源路线，先得承认OpenAI和Authropic已经遥遥领先，但不能说Meta就毫无优势，仍有OpenAI和Anthropic难以比拟的护城河：\n1）深度产品整合：Meta AI直接嵌入WhatsApp、Instagram、Facebook、Messenger等，覆盖数十亿用户，可实现个性化（基于社交数据）、多模态（视觉+聊天）、广告转化优化。\n2）基础设施与成本优势：Meta正在建设巨型算力集群，自有数据中心规模巨大，推理成本和延迟有潜力更低。\n\n其实看去年谷歌是怎么追赶上来的，一方面gemini3推出性能很强，另一方面也是谷歌强大的分发渠道。\n\n现在Meta的问题还没拿得出手前沿大模型，如果下一代大模型性能能住上来，加上meta强大的分发渠道，至少在C端能有一席之地。而且AI对广告的提效是很直接的，之前meta自己模型拉垮也借用了gemini的api，算力请求过大都被谷歌限制访问了。\n\n所以核心不是meta在AI上有没有机会，而是meta下一代大模型性能能不能赶上来。如果能赶上来，我觉得meta机会很大。\n模型性能好，分发渠道气强，用户量自然就能起来，Agent推进也能加快。然后B端编程弱、但是B端Ai 广告这一块应该能吃到很多。\n\n2、再说说开源，\nMeta也没有放弃开源，现在Meta应该是个混合策略，Muse Spark是闭源的，但官方明确表示“希望open-source未来版本的模型”，并正在开发open-weight版本的下一代模型（保留部分专有能力如网络安全代码生成）\n\nGLM确实很强，中国的大模型开源生态发展也很快，气势如虹。正如引用推文聊到的“欧美日有很多规定不许用中国模型，Meta本可填这个非中国开源Tier-1生态位”。Meta通过Llama已经进入，且仍有空间加强（继续开源部分模型 + 强调“西方可信来源”）\n\n上面聊到的核心是什么？\n还是模型的性能，这个是胜负手。都一定要立马超过gpt5.5、claude fable5，只要meta下一代大模型的性能能接近最新一代，超过O/A/G上一代性能，个人认为还是能占据一席之地的。但如果模型性能一直上不来，那确实很难翻身。\n\n如昨天在这里<a href=\"https://nitter.net/qinbafrank/status/2072902811675922742?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2072…</a>聊到的，Meta未来真正有有价值和差异的是 “自有模型 + 自有用户场景 + 自有广告/社交数据闭环 + 自有推理基础设施”\n。Meta现阶段关键点在模型的性能上，如果能突破，未来的胜负手在Agent 上。\n\n当然未来模型真起不来、meta就索性专注做Agent，就像腾讯现在的思路。谁家算力好、token性价比高就用谁的，也未尝没有机会。Meta去推agent也有优势\n\n简单说就是Meta还有牌可打，AI领域变化快，几个月后情况可能又不同。就像之前这里<a href=\"https://nitter.net/qinbafrank/status/2047491554609422452?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2047…</a>聊到，各领风骚三五月。",
+        "link": "https://x.com/qinbafrank/status/2073249685780000833"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2075324995274727654",
       "username": "TJ_Research",
@@ -12129,61 +12176,6 @@
           "url": "https://pbs.twimg.com/media/HMRUhTfakAEMTUn.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072868024819102165",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "扎克伯格是个外行，被刺美国AI国运的千古大业\n\n群友说META就是中国版百度\n\n贴切！",
-      "contentHtml": "扎克伯格是个外行，被刺美国AI国运的千古大业\n\n群友说META就是中国版百度\n\n贴切！",
-      "publishedAt": "2026-07-03T02:20:00.000Z",
-      "link": "https://x.com/dongbimao/status/2072868024819102165",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMROKjXbUAAVo7U.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072865151674671200",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "多单连跪 4 把，调转方向开空又撞上爆拉，点太背…😅\n\n地址 0xa2e…f1468 于昨天开启的 22000 枚 $ETH 18x 空单（约 3759 万美元），现已浮亏 212.3 万美元，入场点位 $1,613.1，现价 $1,710.8，清算价格 $1,847.9\n\n这么来回亏钱，心态都要崩了吧\n\n传送门 👉 d.pro/portfolio/0xa2e81e888f…",
-      "contentHtml": "多单连跪 4 把，调转方向开空又撞上爆拉，点太背…😅\n\n地址 0xa2e…f1468 于昨天开启的 22000 枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 18x 空单（约 3759 万美元），现已浮亏 212.3 万美元，入场点位 $1,613.1，现价 $1,710.8，清算价格 $1,847.9\n\n这么来回亏钱，心态都要崩了吧\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0xa2e81e888f4a757bbad012ea9b193e7ab93f1468\">d.pro/portfolio/0xa2e81e888f…</a>",
-      "publishedAt": "2026-07-03T02:08:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2072865151674671200",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMRLnF3bQAAH3dp.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "在多单连跪 4 把亏损 326 万美元后，终于由爱生恨转空了🥹\n\n地址 0xa2e…f1468 今天凌晨开启 2.2 万枚 $ETH 的 18x 空单，持仓价值 3557 万美元，开仓价 $1,613.1，现浮亏 10.4 万美元\n\n传送门 👉 d.pro/portfolio/0xa2e81e888f…",
-        "contentHtml": "在多单连跪 4 把亏损 326 万美元后，终于由爱生恨转空了🥹\n\n地址 0xa2e…f1468 今天凌晨开启 2.2 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的 18x 空单，持仓价值 3557 万美元，开仓价 $1,613.1，现浮亏 10.4 万美元\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0xa2e81e888f4a757bbad012ea9b193e7ab93f1468\">d.pro/portfolio/0xa2e81e888f…</a>",
-        "link": "https://x.com/ai_9684xtpa/status/2072507193216348278",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMMGRiDaQAA4fAS.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
