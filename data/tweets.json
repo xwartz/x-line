@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T09:12:38.472Z",
+  "lastUpdated": "2026-07-10T11:06:15.225Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,85 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 643,
+    "newFetched": 644,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2075529216591053204",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
+      "content": "BTC「三種週期性底部結構」路徑推演🚏\n\n（Twitter 把我原本寫好的稿吃掉了，氣死我了）\n\n一個月前，我和各位分享了理想的底部結構框架（下方引文）；\n恍如隔日，在過去一個月的時間中，隨著市場逐步釋出更多訊號，\n今天我打算從鏈上分析、Liquidity 的綜合角度，\n分享三種我對於未來底部結構的評估。\n\n//\n\n💬 前言\n\n本文，我將使用到多項不同領域的概念，做為評估底部結構的依據；\n如果你是新朋友，或者對於文中的概念有所不理解，\n我會將我先前撰寫過的所有相關教程附於文中，\n有需要的朋友可以自行參考。\n\n//\n\n路徑1️⃣：區間結構 + Retest 築底（附圖 1）\n\n📝 說明：\n最樂觀的底部劇本，將 7/01 的下跌視作針對前低的 Stop Hunt，\n並且完成一次於 59~61K 區域的 Retest，形成區間反轉結構。\n雖然並未觸及理想中的「深熊估值抄底區」，\n但鑑於已有兩項週期性底部訊號觸發：\n💡PSIP < 50%（nitter.net/market_beggar/status/2…）\n💡AVIV Heatmap 進入藍色區域（nitter.net/market_beggar/status/2…）\n因此將此路徑列入考量。\n\n⚠️ 失效標準 & 注意事項：\n跌破 Stop Hunt 時產生的低點（57.8K）即判定失效。\n\n🔗 相關概念教程：\n📖 區間結構的兩種進場方式\nnitter.net/market_beggar/status/1…\n📖 Rektproof 區間模型概念解析\nnitter.net/market_beggar/status/1…\n📖 最新 BTC 區間結構分析帖（7/06 發布）\nnitter.net/market_beggar/status/2…\n📖 Liquidity 褓姆級實戰全教程\nnitter.net/market_beggar/status/1…\n\n//\n\n路徑2️⃣：Bullish Liquidity 結構築底（附圖 2）\n\n📝 說明：\n倘若路徑 1 失效，則我們便可開始關注路徑 2 的成形可能性。\n所謂 Bullish Liquidity 築底結構，主要滿足以下兩項條件：\n🔺 下方出現連續、跌破幅度不大的 Lower Lows（清掃 Liq）\n🔺 上方存在具有吸引力的 Liq（Trendline Liq、Equal Highs 皆可）\n此路徑的重點在於：倘若未來跌破 57.8K 的前低，\n但跌破幅度不大，並且日後出現「收回前低之上」的 Stop Hunt 跡象，\n則可能成立此劇本；並且此路徑的預估築底位置，\n有很大的概率和先前提及的「綠線共振」位置疊合（詳見下方鏈接）。\n \n⚠️ 失效標準 & 注意事項：\n跌破 57.8K 的幅度過大（顯然不滿足 Stop Hunt 條件），\n且完全未見收回前低之上的跡象，則判定失效；\n同時，如果在跌破 57.8K 之前，便先將上方 Liq 清除，\n則也將使此 Bullish Liquidity 結構的築底效果扣分。\n\n🔗 相關概念教程：\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n📖 頂部、底部 Liq 築底結構概念解析\nnitter.net/market_beggar/status/2…\n📖「綠線共振」築底劇本推演\nnitter.net/market_beggar/status/2…\n\n//\n\n路徑3️⃣：深熊估值模型抄底區（附圖 3）\n\n📝 說明：\n倘若前兩項路徑皆觸發證偽標準，則我們便可將精力全部放在此路徑上。\n所謂「深熊估值模型抄底區」，指的是由多項勝率 100%、\n且相關性低的不同鏈上模型，所評估而得的週期性底部區域，\n以最新的數據而言，目前的區域大約坐落於 50~53K。\n\n⚠️ 失效標準 & 注意事項：\n作為最理想、歷史表現最佳的抄底路徑，\n在此區域買入並持有，從長期來看絕對是極高期望值的策略；\n除非 BTC 出現本質性的崩毀，否則基本不存在被證偽的條件。\n需要注意的是：這個區域完全存在被跌破的可能，\n但從週期性抄底的角度來說，此區域絕對是非常接近週期大底的黃金坑。\n\n🔗 相關概念教程：\n📖 週期抄底神級法器 Cointime Price 歷史覆盤\nnitter.net/market_beggar/status/2…\n📖「BTC 長、短期持有者成本逆轉訊號」：簡易數據推算\nnitter.net/market_beggar/status/2…\n📖 史詩級週期底部估值共振\nnitter.net/market_beggar/status/2…\n📖 黃金坑追蹤系列（十七）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n//\n\n🪧 結語\n\n在交易領域，我們誰都沒有水晶球，不可能做到預測未來的神仙活；\n但在金融市場若想盈利，比起預測，更重要的其實是「規劃」，\n也就是提前針對可能發生的不同情境，設計相應的交易策略。\n\n本文分享的三種路徑，僅是我以自身交易系統分析而得的一家之言；\n也希望我的偏見，能夠幫助各位在抄底策略的設計上有所助益。\n\n最後，有兩件小事需要提醒各位：\n➡️ 本文附圖僅作為「示意圖」用，並沒有任何預測時間的意涵\n➡️ 附圖 4 是我製作的小型綜合簡圖，供有需要的朋友存取\n\n以上就是今天的內容，祝我們都能一起抓住底部，並於未來在頂峰相見。\n\n//\n\n📚 相關閱讀資源\n\n「反彈行情的援軍」：忽然出現的巨量 USDT\nnitter.net/market_beggar/status/2…\n\nETH 大級別 Liq 分析：如何結合 BTC 數據判斷見底\nnitter.net/market_beggar/status/2…\n\n「共振將至」：BTC 長期持有者成本最新數據更新\nnitter.net/market_beggar/status/2…\n\n續談 RUP：為何說我們距離熊底不遠了\nnitter.net/market_beggar/status/2…",
+      "contentHtml": "BTC「三種週期性底部結構」路徑推演🚏\n\n（Twitter 把我原本寫好的稿吃掉了，氣死我了）\n\n一個月前，我和各位分享了理想的底部結構框架（下方引文）；\n恍如隔日，在過去一個月的時間中，隨著市場逐步釋出更多訊號，\n今天我打算從鏈上分析、Liquidity 的綜合角度，\n分享三種我對於未來底部結構的評估。\n\n//\n\n💬 前言\n\n本文，我將使用到多項不同領域的概念，做為評估底部結構的依據；\n如果你是新朋友，或者對於文中的概念有所不理解，\n我會將我先前撰寫過的所有相關教程附於文中，\n有需要的朋友可以自行參考。\n\n//\n\n路徑1️⃣：區間結構 + Retest 築底（附圖 1）\n\n📝 說明：\n最樂觀的底部劇本，將 7/01 的下跌視作針對前低的 Stop Hunt，\n並且完成一次於 59~61K 區域的 Retest，形成區間反轉結構。\n雖然並未觸及理想中的「深熊估值抄底區」，\n但鑑於已有兩項週期性底部訊號觸發：\n💡PSIP &lt; 50%（<a href=\"https://nitter.net/market_beggar/status/2063800180227588374\">nitter.net/market_beggar/status/2…</a>）\n💡AVIV Heatmap 進入藍色區域（<a href=\"https://nitter.net/market_beggar/status/2071773101898223809\">nitter.net/market_beggar/status/2…</a>）\n因此將此路徑列入考量。\n\n⚠️ 失效標準 & 注意事項：\n跌破 Stop Hunt 時產生的低點（57.8K）即判定失效。\n\n🔗 相關概念教程：\n📖 區間結構的兩種進場方式\n<a href=\"https://nitter.net/market_beggar/status/1940221638618095904\">nitter.net/market_beggar/status/1…</a>\n📖 Rektproof 區間模型概念解析\n<a href=\"https://nitter.net/market_beggar/status/1942398983831445608\">nitter.net/market_beggar/status/1…</a>\n📖 最新 BTC 區間結構分析帖（7/06 發布）\n<a href=\"https://nitter.net/market_beggar/status/2073947515473498123\">nitter.net/market_beggar/status/2…</a>\n📖 Liquidity 褓姆級實戰全教程\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n路徑2️⃣：Bullish Liquidity 結構築底（附圖 2）\n\n📝 說明：\n倘若路徑 1 失效，則我們便可開始關注路徑 2 的成形可能性。\n所謂 Bullish Liquidity 築底結構，主要滿足以下兩項條件：\n🔺 下方出現連續、跌破幅度不大的 Lower Lows（清掃 Liq）\n🔺 上方存在具有吸引力的 Liq（Trendline Liq、Equal Highs 皆可）\n此路徑的重點在於：倘若未來跌破 57.8K 的前低，\n但跌破幅度不大，並且日後出現「收回前低之上」的 Stop Hunt 跡象，\n則可能成立此劇本；並且此路徑的預估築底位置，\n有很大的概率和先前提及的「綠線共振」位置疊合（詳見下方鏈接）。\n \n⚠️ 失效標準 & 注意事項：\n跌破 57.8K 的幅度過大（顯然不滿足 Stop Hunt 條件），\n且完全未見收回前低之上的跡象，則判定失效；\n同時，如果在跌破 57.8K 之前，便先將上方 Liq 清除，\n則也將使此 Bullish Liquidity 結構的築底效果扣分。\n\n🔗 相關概念教程：\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n📖 頂部、底部 Liq 築底結構概念解析\n<a href=\"https://nitter.net/market_beggar/status/2044230985865408890\">nitter.net/market_beggar/status/2…</a>\n📖「綠線共振」築底劇本推演\n<a href=\"https://nitter.net/market_beggar/status/2074311132463219062\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n路徑3️⃣：深熊估值模型抄底區（附圖 3）\n\n📝 說明：\n倘若前兩項路徑皆觸發證偽標準，則我們便可將精力全部放在此路徑上。\n所謂「深熊估值模型抄底區」，指的是由多項勝率 100%、\n且相關性低的不同鏈上模型，所評估而得的週期性底部區域，\n以最新的數據而言，目前的區域大約坐落於 50~53K。\n\n⚠️ 失效標準 & 注意事項：\n作為最理想、歷史表現最佳的抄底路徑，\n在此區域買入並持有，從長期來看絕對是極高期望值的策略；\n除非 BTC 出現本質性的崩毀，否則基本不存在被證偽的條件。\n需要注意的是：這個區域完全存在被跌破的可能，\n但從週期性抄底的角度來說，此區域絕對是非常接近週期大底的黃金坑。\n\n🔗 相關概念教程：\n📖 週期抄底神級法器 Cointime Price 歷史覆盤\n<a href=\"https://nitter.net/market_beggar/status/2074678322546814985\">nitter.net/market_beggar/status/2…</a>\n📖「BTC 長、短期持有者成本逆轉訊號」：簡易數據推算\n<a href=\"https://nitter.net/market_beggar/status/2072136661434307014\">nitter.net/market_beggar/status/2…</a>\n📖 史詩級週期底部估值共振\n<a href=\"https://nitter.net/market_beggar/status/2070324576526139573\">nitter.net/market_beggar/status/2…</a>\n📖 黃金坑追蹤系列（十七）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2062713685639049363\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n🪧 結語\n\n在交易領域，我們誰都沒有水晶球，不可能做到預測未來的神仙活；\n但在金融市場若想盈利，比起預測，更重要的其實是「規劃」，\n也就是提前針對可能發生的不同情境，設計相應的交易策略。\n\n本文分享的三種路徑，僅是我以自身交易系統分析而得的一家之言；\n也希望我的偏見，能夠幫助各位在抄底策略的設計上有所助益。\n\n最後，有兩件小事需要提醒各位：\n➡️ 本文附圖僅作為「示意圖」用，並沒有任何預測時間的意涵\n➡️ 附圖 4 是我製作的小型綜合簡圖，供有需要的朋友存取\n\n以上就是今天的內容，祝我們都能一起抓住底部，並於未來在頂峰相見。\n\n//\n\n📚 相關閱讀資源\n\n「反彈行情的援軍」：忽然出現的巨量 USDT\n<a href=\"https://nitter.net/market_beggar/status/2075035487304298903\">nitter.net/market_beggar/status/2…</a>\n\nETH 大級別 Liq 分析：如何結合 BTC 數據判斷見底\n<a href=\"https://nitter.net/market_beggar/status/2072501388635189342\">nitter.net/market_beggar/status/2…</a>\n\n「共振將至」：BTC 長期持有者成本最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2069600684824264739\">nitter.net/market_beggar/status/2…</a>\n\n續談 RUP：為何說我們距離熊底不遠了\n<a href=\"https://nitter.net/market_beggar/status/2064888551414915362\">nitter.net/market_beggar/status/2…</a>",
+      "publishedAt": "2026-07-10T10:35:00.000Z",
+      "link": "https://x.com/market_beggar/status/2075529216591053204",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM3C0debcAEnpBy.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM3C0deasAATK60.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM3C0daa4AAooYq.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM3C0dYa8AItU6T.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "從 Liquidity 的角度淺談「最後一哆嗦」的理想框架🗺\n\nBTC 自五月初進入「劇本 2」的射程範圍後，\n耗費了恰好一個月的時間跌破 60K，\n將過去三個月在上漲過程中積累的 Liquidity 全部清掃完畢，\n市場正式步入新階段：最後一哆嗦的築底整理期。\n\n以下，我將和各位詳細聊聊 Liq 角度的理想底部結構👇：\n\n//\n\n猶記 6 月初，我發布了一篇 Liq 技術分析帖：\n📖 「Liquidity 清掃進程 50%」：靜待最後一哆嗦\nnitter.net/market_beggar/status/2…\n\n當時的其中一段原文如下：\n＂下方目前仍存有大量待清掃的 Liq，包含 70.5K 的 Equal Lows，\n以及下方 60~65K 滿滿的 Trendline Liquidity。＂\n\n結果在短短一週的時間內，Liq 就全部被清掃完畢，\n我反覆強調的「Liquidity 引力效應」再次得到印證。\n\n有人問：\n「現在 Liq 被清完了，接下來呢？」\n\n從 Liquidity 交易的角度來看，結合 BTC 一如既往的市場慣性，\n我認為如果接下來市場能夠出現以下階段，\n就能說明我們距離最終底部愈來愈近：\n1️⃣ 超跌反彈（正在進行中，每次暴漲暴跌後必然出現的階段）\n2️⃣ 二次下探（最好是能出現 Lower Low，以防留下 Trendline Liq）\n3️⃣ Stop Hunt：下探深熊估值抄底區後迅速拉回，完成流動性獵取\n4️⃣ 築底完成，趨勢反轉\n\n針對上述的概念，如果你是新朋友，或許會感到疑惑、不解，\n不過這些概念我先前都有寫過詳細的概念教程，\n有興趣深入研究其中邏輯的朋友，可以參考以下鏈接🔗：\n\n📖 Stop Hunt 概念詳細教學\nnitter.net/market_beggar/status/1…\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\nnitter.net/market_beggar/status/1…\n\n//\n\n當然，從週期交易的角度來看，\n價格能否摸到「深熊估值模型抄底區域」才是更重要的；\n技術分析的定位，更像是在輔助我們評估、細化最終的進場位置。\n\n但，老話一句，如果 BTC 未來能來到：\n🔺 Cointime Price\n🔺 Realized Price\n🔺 LTH Realized Price（LTH-RP）\n以上三者中的任何一個，都已是絕佳的週期性抄底時刻。\n\n📖 黃金坑追蹤系列（十七）：「四大深熊抄底模型」最新數據\nnitter.net/market_beggar/status/2…\n\n並且，誠如昨日的帖子所分享（nitter.net/market_beggar/status/2…），\n目前「PSIP < 50%」的週期性抄底訊號也已觸發，\n對於想開始布局、建倉大級別現貨部位的朋友，\n強力建議可先閱讀昨日分析帖的內容。\n\n最後，依然要再次提醒各位：\n一段趨勢性行情出現後（暴跌 or 暴漲），\n通常都需要經歷約 1~3 個月的盤整修復期，\n而目前的市場階段之所以非常關鍵，其原因在於：\n「如果接下來開始震盪，很可能就會在震盪的過程中，\n一腳踩入那些深熊估值模型的抄底區，完成真正的最後一哆嗦‼️」。\n\n保持耐心，終點站不遠了。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n黃金坑抄底系列（下方引文）功成身退，最後一哆嗦正式來臨\nnitter.net/market_beggar/status/2…\n\n「美方資金的屠城」：本次暴跌的階段性覆盤\nnitter.net/market_beggar/status/2…\n\n「BTC 熊市進度評估」：1y~3y 籌碼占比最新數據更新\nnitter.net/market_beggar/status/2…",
+        "contentHtml": "從 Liquidity 的角度淺談「最後一哆嗦」的理想框架🗺\n\nBTC 自五月初進入「劇本 2」的射程範圍後，\n耗費了恰好一個月的時間跌破 60K，\n將過去三個月在上漲過程中積累的 Liquidity 全部清掃完畢，\n市場正式步入新階段：最後一哆嗦的築底整理期。\n\n以下，我將和各位詳細聊聊 Liq 角度的理想底部結構👇：\n\n//\n\n猶記 6 月初，我發布了一篇 Liq 技術分析帖：\n📖 「Liquidity 清掃進程 50%」：靜待最後一哆嗦\n<a href=\"https://nitter.net/market_beggar/status/2061264549643489704\">nitter.net/market_beggar/status/2…</a>\n\n當時的其中一段原文如下：\n＂下方目前仍存有大量待清掃的 Liq，包含 70.5K 的 Equal Lows，\n以及下方 60~65K 滿滿的 Trendline Liquidity。＂\n\n結果在短短一週的時間內，Liq 就全部被清掃完畢，\n我反覆強調的「Liquidity 引力效應」再次得到印證。\n\n有人問：\n「現在 Liq 被清完了，接下來呢？」\n\n從 Liquidity 交易的角度來看，結合 BTC 一如既往的市場慣性，\n我認為如果接下來市場能夠出現以下階段，\n就能說明我們距離最終底部愈來愈近：\n1️⃣ 超跌反彈（正在進行中，每次暴漲暴跌後必然出現的階段）\n2️⃣ 二次下探（最好是能出現 Lower Low，以防留下 Trendline Liq）\n3️⃣ Stop Hunt：下探深熊估值抄底區後迅速拉回，完成流動性獵取\n4️⃣ 築底完成，趨勢反轉\n\n針對上述的概念，如果你是新朋友，或許會感到疑惑、不解，\n不過這些概念我先前都有寫過詳細的概念教程，\n有興趣深入研究其中邏輯的朋友，可以參考以下鏈接🔗：\n\n📖 Stop Hunt 概念詳細教學\n<a href=\"https://nitter.net/market_beggar/status/1907261008059777200\">nitter.net/market_beggar/status/1…</a>\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n當然，從週期交易的角度來看，\n價格能否摸到「深熊估值模型抄底區域」才是更重要的；\n技術分析的定位，更像是在輔助我們評估、細化最終的進場位置。\n\n但，老話一句，如果 BTC 未來能來到：\n🔺 Cointime Price\n🔺 Realized Price\n🔺 LTH Realized Price（LTH-RP）\n以上三者中的任何一個，都已是絕佳的週期性抄底時刻。\n\n📖 黃金坑追蹤系列（十七）：「四大深熊抄底模型」最新數據\n<a href=\"https://nitter.net/market_beggar/status/2062713685639049363\">nitter.net/market_beggar/status/2…</a>\n\n並且，誠如昨日的帖子所分享（<a href=\"https://nitter.net/market_beggar/status/2063800180227588374\">nitter.net/market_beggar/status/2…</a>），\n目前「PSIP &lt; 50%」的週期性抄底訊號也已觸發，\n對於想開始布局、建倉大級別現貨部位的朋友，\n強力建議可先閱讀昨日分析帖的內容。\n\n最後，依然要再次提醒各位：\n一段趨勢性行情出現後（暴跌 or 暴漲），\n通常都需要經歷約 1~3 個月的盤整修復期，\n而目前的市場階段之所以非常關鍵，其原因在於：\n「如果接下來開始震盪，很可能就會在震盪的過程中，\n一腳踩入那些深熊估值模型的抄底區，完成真正的最後一哆嗦‼️」。\n\n保持耐心，終點站不遠了。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n黃金坑抄底系列（下方引文）功成身退，最後一哆嗦正式來臨\n<a href=\"https://nitter.net/market_beggar/status/2063119634581348389\">nitter.net/market_beggar/status/2…</a>\n\n「美方資金的屠城」：本次暴跌的階段性覆盤\n<a href=\"https://nitter.net/market_beggar/status/2061989188967559423\">nitter.net/market_beggar/status/2…</a>\n\n「BTC 熊市進度評估」：1y~3y 籌碼占比最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2059814266711245003\">nitter.net/market_beggar/status/2…</a>",
+        "link": "https://x.com/market_beggar/status/2064164984574394473",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKVjHB8agAARs8C.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075511106894987382",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "530亿美元储备、2100万商户、5000亿+美元TradFi永续——币安的稳定币网络已经像金融基础设施一样在运行。看币安稳定币报告，被这一组数字震惊了到了：\n1）Binance稳定币储备达 530亿美元，领先第二大交易所约420亿美元，市场份额升至57%。\n2）Binance Pay已覆盖 2100万商户，交易量同比增长114%，商户中位支付金额从10美元升至18美元。\n3）TradFi挂钩永续合约前5个月累计交易量超过 11,000亿美元，币安占比约47%（超5000亿）。\n4）币安链上稳定币每个周末仍在移动约 760亿美元。更值得关注的是，AI代理已经在链上进行真实交易，中位交易额只有 0.34美元——这是传统支付系统几乎不可能覆盖的机器对机器微支付场景。\n\n这些不是零散的运营数据，已经变成了全球稳定币金融网络的真实运行指标。同时覆盖储蓄、支付、结算和交易四个核心模块，意味着币安正在基于稳定币正在构建传统金融之外的平行基础设施。\n\n把这些线索串起来，会发现一个更清晰的图景。稳定币正在重建金融的底层逻辑：它先在传统体系失效或成本过高的地方（新兴市场）提供储蓄和支付服务；然后通过高频、低成本的链上结算渗透到传统金融的衍生品领域（TradFi永续）；最后开始服务机器经济和自动化场景。\n\n而币安在其中扮演的角色，则是把这些模块连接起来的枢纽——储备最集中、收益分发最多、支付网络最活跃、结算能力最强的那个节点。",
+      "contentHtml": "530亿美元储备、2100万商户、5000亿+美元TradFi永续——币安的稳定币网络已经像金融基础设施一样在运行。看币安稳定币报告，被这一组数字震惊了到了：\n1）Binance稳定币储备达 530亿美元，领先第二大交易所约420亿美元，市场份额升至57%。\n2）Binance Pay已覆盖 2100万商户，交易量同比增长114%，商户中位支付金额从10美元升至18美元。\n3）TradFi挂钩永续合约前5个月累计交易量超过 11,000亿美元，币安占比约47%（超5000亿）。\n4）币安链上稳定币每个周末仍在移动约 760亿美元。更值得关注的是，AI代理已经在链上进行真实交易，中位交易额只有 0.34美元——这是传统支付系统几乎不可能覆盖的机器对机器微支付场景。\n\n这些不是零散的运营数据，已经变成了全球稳定币金融网络的真实运行指标。同时覆盖储蓄、支付、结算和交易四个核心模块，意味着币安正在基于稳定币正在构建传统金融之外的平行基础设施。\n\n把这些线索串起来，会发现一个更清晰的图景。稳定币正在重建金融的底层逻辑：它先在传统体系失效或成本过高的地方（新兴市场）提供储蓄和支付服务；然后通过高频、低成本的链上结算渗透到传统金融的衍生品领域（TradFi永续）；最后开始服务机器经济和自动化场景。\n\n而币安在其中扮演的角色，则是把这些模块连接起来的枢纽——储备最集中、收益分发最多、支付网络最活跃、结算能力最强的那个节点。",
+      "publishedAt": "2026-07-10T09:23:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2075511106894987382",
+      "quote": {
+        "username": "binancezh",
+        "displayName": "币安Binance华语",
+        "content": "📊 稳定币，正在从交易工具，衍变为金融基础设施。\n\nBinance Research 最新报告《稳定币：重塑金融格局》正式发布，报告从价值储存、交易媒介、计价单位三个维度，解析稳定币如何连接全球金融场景。\n\n报告显示：\n1️⃣ 币安稳定币储备达 530 亿美元，市场份额升至 57%\n2️⃣ TradFi-Perps 总交易量突破 1.1 万亿美元，币安市占率约 47%\n3️⃣ Binance Earn 自 2022 年以来，已向稳定币持有者历史累计分发 12 亿美元收益\n4️⃣ BNB Chain 每日稳定币交易达 1000 万笔，月活地址 1500 万\n5️⃣ Binance Pay 交易量同比增长 114%，覆盖 2100 万注册商户\n\n从交易、理财，到支付和链上活动，稳定币正在成为币安金融生态的重要连接层。阅读全文👇\nbinance.com/zh-CN/research/a…",
+        "contentHtml": "📊 稳定币，正在从交易工具，衍变为金融基础设施。\n\nBinance Research 最新报告《稳定币：重塑金融格局》正式发布，报告从价值储存、交易媒介、计价单位三个维度，解析稳定币如何连接全球金融场景。\n\n报告显示：\n1️⃣ 币安稳定币储备达 530 亿美元，市场份额升至 57%\n2️⃣ TradFi-Perps 总交易量突破 1.1 万亿美元，币安市占率约 47%\n3️⃣ Binance Earn 自 2022 年以来，已向稳定币持有者历史累计分发 12 亿美元收益\n4️⃣ BNB Chain 每日稳定币交易达 1000 万笔，月活地址 1500 万\n5️⃣ Binance Pay 交易量同比增长 114%，覆盖 2100 万注册商户\n\n从交易、理财，到支付和链上活动，稳定币正在成为币安金融生态的重要连接层。阅读全文👇\n<a href=\"https://www.binance.com/zh-CN/research/analysis/stablecoins-transforming-the-financial-landscape\">binance.com/zh-CN/research/a…</a>",
+        "link": "https://x.com/binancezh/status/2074832694115229978",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMtHArKagAA4SPN.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2075491632561189329",
       "username": "dongbimao",
@@ -12111,56 +12185,6 @@
           "url": "https://pbs.twimg.com/media/HMS4NaeakAAfwFu.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072982296282779928",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "韩国人每天面对四个选项：\nA、上涨8个点\nB、下跌8个点\nC、振幅8个点\nD、阿西8",
-      "contentHtml": "韩国人每天面对四个选项：\nA、上涨8个点\nB、下跌8个点\nC、振幅8个点\nD、阿西8",
-      "publishedAt": "2026-07-03T09:54:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2072982296282779928",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMS2aStbUAADf49.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "韩股今天怎么了？今天韩国股市大跌近十个点，创3月4日以来最大单日跌幅，盘中一度跌超8%触发熔断机制（暂停交易20分钟），感觉熔断已经韩股的家常便饭了。也稍微梳理下韩股的今天调整的诱发事件：\n1、税收改革讨论（未实现收益征税）——重要催化剂 今天上午，韩国国会跨党派议员（共同民主党、进步党等）举行税制改革论坛，讨论推动“所得税综合主义”转型：将股票、房地产等投资资产的“未实现收益（账面增值）”纳入综合征税体系，即使资产未出售，也可能按净资产增值额征税（可递延至变现时点或加息缴纳）。\n 此消息迅速传出，在高估值环境下引发恐慌性抛售。市场担心新税制会增加持股成本、抑制惜售动机反转，导致“冻结效应”缓解但短期抛压加大。韩媒认为这是当日大跌的直接导火索之一，与杠杆ETF等因素叠加放大效应。\n\n2、杠杆ETF相关监管警示与抛售 韩国金融监督院（FSS）院长李灿镇6月22日公开表示，政府批准追踪三星电子和SK海力士的单只杠杆ETF（上月推出）过于仓促，这些产品加剧了市场波动。监管方正在评估措施，包括加强监控以限制杠杆ETF的传染风险。\n\n3. 养老金（国家年金NPS等）抛售 韩国国家年金服务（NPS，全球第三大养老基金）因今年KOSPI大涨，国内股票配置占比远超目标（一度接近或超过30%，目标已上调至20.8%）。尽管5-6月提高目标并放宽再平衡限制以避免强制卖出，但仍需逐步再平衡至债券等资产。\n 6月养老金机构整体净卖出约2.48万亿韩元（约18亿美元），集中于三星和SK海力士。当日机构整体净卖出约4.55万亿韩元，养老金是重要组成部分。\n\n4. 外国资金流出 外资持续净卖出芯片股。当日外资净卖出约4.13万亿韩元，全年累计已大幅流出（此前高盛估算至5月底约620亿美元）。主要原因是获利了结、全球风险偏好下降，以及对韩国市场过度集中于AI/半导体的担忧。外资卖出进一步加剧了指数下跌。\n\n当然还是上一条推文说的，韩股大跌要放在全球市场变化的大环境下来看。市场重新定价美联储“更高利率更久”的可能性，压制成长型/AI股票估值。亚洲市场普遍承压，韩国作为半导体重仓地受冲击最大。\n\n同时韩股散户高杠杆与保证金强制平仓：韩国散户参与度极高，使用大量融资/杠杆交易。保证金债务创纪录高位后，指数下跌易触发连锁平仓，进一步放大跌幅（尽管当日散户可能整体净买入，但杠杆效应下行压力更大）。杠杆产品与程序化交易的放大效应：杠杆ETF + 高频/程序化交易在下跌中形成正反馈循环（卖出引发更多卖出）。这可能也是韩股常见熔断的重压原因。\n 个人角度，本次大跌是税收改革消息（短期恐慌）+ 监管警示杠杆ETF + 养老金/外资再平衡卖出 + 全球科技回调 + 自身过热获利了结等多因素共振的结果。\n\n市场此前涨幅过猛、集中度过高、杠杆过大，导致调整来得快且猛。但基本面（AI半导体需求）未出现根本逆转。\n\n后续关注：\n税改讨论的实际进展与落地时间表、\n监管对杠杆ETF的具体措施、\n国家年金再平衡节奏、\n美联储政策信号，\n以及三星/SK海力士等财报与HBM需求情况。\n短期波动，但中长期韩国股市的结构性改革（公司治理、分红等）仍在推进。特别是AI基本面并没有出现大问题。",
-        "contentHtml": "韩股今天怎么了？今天韩国股市大跌近十个点，创3月4日以来最大单日跌幅，盘中一度跌超8%触发熔断机制（暂停交易20分钟），感觉熔断已经韩股的家常便饭了。也稍微梳理下韩股的今天调整的诱发事件：\n1、税收改革讨论（未实现收益征税）——重要催化剂 今天上午，韩国国会跨党派议员（共同民主党、进步党等）举行税制改革论坛，讨论推动“所得税综合主义”转型：将股票、房地产等投资资产的“未实现收益（账面增值）”纳入综合征税体系，即使资产未出售，也可能按净资产增值额征税（可递延至变现时点或加息缴纳）。\n 此消息迅速传出，在高估值环境下引发恐慌性抛售。市场担心新税制会增加持股成本、抑制惜售动机反转，导致“冻结效应”缓解但短期抛压加大。韩媒认为这是当日大跌的直接导火索之一，与杠杆ETF等因素叠加放大效应。\n\n2、杠杆ETF相关监管警示与抛售 韩国金融监督院（FSS）院长李灿镇6月22日公开表示，政府批准追踪三星电子和SK海力士的单只杠杆ETF（上月推出）过于仓促，这些产品加剧了市场波动。监管方正在评估措施，包括加强监控以限制杠杆ETF的传染风险。\n\n3. 养老金（国家年金NPS等）抛售 韩国国家年金服务（NPS，全球第三大养老基金）因今年KOSPI大涨，国内股票配置占比远超目标（一度接近或超过30%，目标已上调至20.8%）。尽管5-6月提高目标并放宽再平衡限制以避免强制卖出，但仍需逐步再平衡至债券等资产。\n 6月养老金机构整体净卖出约2.48万亿韩元（约18亿美元），集中于三星和SK海力士。当日机构整体净卖出约4.55万亿韩元，养老金是重要组成部分。\n\n4. 外国资金流出 外资持续净卖出芯片股。当日外资净卖出约4.13万亿韩元，全年累计已大幅流出（此前高盛估算至5月底约620亿美元）。主要原因是获利了结、全球风险偏好下降，以及对韩国市场过度集中于AI/半导体的担忧。外资卖出进一步加剧了指数下跌。\n\n当然还是上一条推文说的，韩股大跌要放在全球市场变化的大环境下来看。市场重新定价美联储“更高利率更久”的可能性，压制成长型/AI股票估值。亚洲市场普遍承压，韩国作为半导体重仓地受冲击最大。\n\n同时韩股散户高杠杆与保证金强制平仓：韩国散户参与度极高，使用大量融资/杠杆交易。保证金债务创纪录高位后，指数下跌易触发连锁平仓，进一步放大跌幅（尽管当日散户可能整体净买入，但杠杆效应下行压力更大）。杠杆产品与程序化交易的放大效应：杠杆ETF + 高频/程序化交易在下跌中形成正反馈循环（卖出引发更多卖出）。这可能也是韩股常见熔断的重压原因。\n 个人角度，本次大跌是税收改革消息（短期恐慌）+ 监管警示杠杆ETF + 养老金/外资再平衡卖出 + 全球科技回调 + 自身过热获利了结等多因素共振的结果。\n\n市场此前涨幅过猛、集中度过高、杠杆过大，导致调整来得快且猛。但基本面（AI半导体需求）未出现根本逆转。\n\n后续关注：\n税改讨论的实际进展与落地时间表、\n监管对杠杆ETF的具体措施、\n国家年金再平衡节奏、\n美联储政策信号，\n以及三星/SK海力士等财报与HBM需求情况。\n短期波动，但中长期韩国股市的结构性改革（公司治理、分红等）仍在推进。特别是AI基本面并没有出现大问题。",
-        "link": "https://x.com/qinbafrank/status/2069395539020652762"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2072979362102866318",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "此生必驾 318 \n和\n福布斯中国 30 Under 30 \n\n遇到这两种人都要躲着",
-      "contentHtml": "此生必驾 318 \n和\n福布斯中国 30 Under 30 \n\n遇到这两种人都要躲着",
-      "publishedAt": "2026-07-03T09:42:00.000Z",
-      "link": "https://x.com/taresky/status/2072979362102866318",
-      "quote": {
-        "username": "biantaishabi5",
-        "displayName": "biantaishabi5",
-        "content": "此生必驾318\n\n路上遇到有这种贴纸的都要躲着，，，",
-        "contentHtml": "此生必驾318\n\n路上遇到有这种贴纸的都要躲着，，，",
-        "link": "https://x.com/biantaishabi5/status/2072638768889438531"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
