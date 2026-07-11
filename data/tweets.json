@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T03:09:18.829Z",
+  "lastUpdated": "2026-07-11T05:07:24.856Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,111 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 640,
-    "successUsers": 32,
-    "failedUsers": 0
+    "newFetched": 622,
+    "successUsers": 31,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2075807455347679644",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "《封印武器带着全部修为转世重生，再次开启梭哈之旅》\n\n被特朗普搞恶心，高倍猛干亏麻了\n提现🔒💰，拿小资金🎲，主动给自己降低难度，变相构建成无限子弹模式  \n\n👻东方不败怎么输",
+      "contentHtml": "《封印武器带着全部修为转世重生，再次开启梭哈之旅》\n\n被特朗普搞恶心，高倍猛干亏麻了\n提现🔒💰，拿小资金🎲，主动给自己降低难度，变相构建成无限子弹模式  \n\n👻东方不败怎么输",
+      "publishedAt": "2026-07-11T05:00:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2075807455347679644",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM6_4FWaAAAT3_W.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075804235191714160",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
+      "content": "You won’t get rich just working hard, but if you don’t work hard, you won’t get rich.",
+      "contentHtml": "You won’t get rich just working hard, but if you don’t work hard, you won’t get rich.",
+      "publishedAt": "2026-07-11T04:47:00.000Z",
+      "link": "https://x.com/naval/status/2075804235191714160",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075803978126819466",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI #语音输入法\n\n半年过去，已经没有人再提付费的语音输入法了。中文用户基本转向豆包和微信。\n\n之前流行的那些付费语音输入法，在最核心的识别能力上 远远掉队，无法相提并论。\n\n乃至作为卖点的 LLM 二次加工，也不如豆包微信自带纠错功能。\n\n我现在在用的只剩下两款语音输入法：\n\n1️⃣ 微信输入法\n\n除了语音识别能力强，它的剪切板同步功能、稳定性和效率也碾压苹果。\n\n2️⃣ 开源的 Koe 搭配豆包 API\n\ngithub.com/missuo/koe\n\n体感上，豆包的语音模型比微信要好一点点。\n\n不想多装一个输入法或者对隐私比较在意的话，可以用开源产品。\n\n---\n\n如果你的日常输入不是通过 语音输入法来完成，很可能是被两个卡点卡住了。\n\n第一是口头表达能力不足。无法一次性输出一段不用修改的文本。这点正好是频繁使用语音输入法可以得到训练的能力。\n\n第二是识别率没有达到你的要求。\n\n如果你在使用以上两种输入法时仍不满意。需要折腾的并不是购买什么麦克风，或者更换其他模型。\n\n而是 —— 把麦克风调整到离你嘴更近的位置。物理上让麦克风接近你的嘴，可以解决90%以上准确率的问题。\n\n只有当你坐着、躺着、趴着，清晰或模糊，发音不标准。随便呢喃发出的文字都能被准确收录并识别的时候，你才会喜欢上这种输入方式。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> <a href=\"/search?f=tweets&q=%23语音输入法\">#语音输入法</a>\n\n半年过去，已经没有人再提付费的语音输入法了。中文用户基本转向豆包和微信。\n\n之前流行的那些付费语音输入法，在最核心的识别能力上 远远掉队，无法相提并论。\n\n乃至作为卖点的 LLM 二次加工，也不如豆包微信自带纠错功能。\n\n我现在在用的只剩下两款语音输入法：\n\n1️⃣ 微信输入法\n\n除了语音识别能力强，它的剪切板同步功能、稳定性和效率也碾压苹果。\n\n2️⃣ 开源的 Koe 搭配豆包 API\n\n<a href=\"https://github.com/missuo/koe\">github.com/missuo/koe</a>\n\n体感上，豆包的语音模型比微信要好一点点。\n\n不想多装一个输入法或者对隐私比较在意的话，可以用开源产品。\n\n---\n\n如果你的日常输入不是通过 语音输入法来完成，很可能是被两个卡点卡住了。\n\n第一是口头表达能力不足。无法一次性输出一段不用修改的文本。这点正好是频繁使用语音输入法可以得到训练的能力。\n\n第二是识别率没有达到你的要求。\n\n如果你在使用以上两种输入法时仍不满意。需要折腾的并不是购买什么麦克风，或者更换其他模型。\n\n而是 —— 把麦克风调整到离你嘴更近的位置。物理上让麦克风接近你的嘴，可以解决90%以上准确率的问题。\n\n只有当你坐着、躺着、趴着，清晰或模糊，发音不标准。随便呢喃发出的文字都能被准确收录并识别的时候，你才会喜欢上这种输入方式。",
+      "publishedAt": "2026-07-11T04:46:00.000Z",
+      "link": "https://x.com/taresky/status/2075803978126819466",
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#AI \n\n某种程度上，AI 语音输入法的竞争已经结束了，还没卖产品拿融资的应该尽快。\n\n有两种模式：\n\n1. Spokenly 这类全功能客户端（免费用户自接第三方 API 或者本地模型，付费用户可免配置体验良好）\n\n现在每个月，最好的语音识别模型都在变化，这是唯一合理的形态。\n\n当模型继续增强到某一个节点，免费的模型已经非常好的那天。\n\n就会只剩下\n\n2. Apple/Google 语音输入法、豆包/微信语音输入法。\n\n前者这些全功能客户端，从大众 AI 新玩具，变成小众领域的产品。\n\n付费用户越来越少，能活一两个就不错了。",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n某种程度上，AI 语音输入法的竞争已经结束了，还没卖产品拿融资的应该尽快。\n\n有两种模式：\n\n1. Spokenly 这类全功能客户端（免费用户自接第三方 API 或者本地模型，付费用户可免配置体验良好）\n\n现在每个月，最好的语音识别模型都在变化，这是唯一合理的形态。\n\n当模型继续增强到某一个节点，免费的模型已经非常好的那天。\n\n就会只剩下\n\n2. Apple/Google 语音输入法、豆包/微信语音输入法。\n\n前者这些全功能客户端，从大众 AI 新玩具，变成小众领域的产品。\n\n付费用户越来越少，能活一两个就不错了。",
+        "link": "https://x.com/taresky/status/2000918473103581440"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075785590411501826",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "吃面包",
+      "contentHtml": "吃面包",
+      "publishedAt": "2026-07-11T03:33:00.000Z",
+      "link": "https://x.com/taresky/status/2075785590411501826",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM6r_bhbYAARuQf.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075781716396916885",
+      "username": "0xPickleCati",
+      "displayName": "Pickle Cat",
+      "avatar": "https://pbs.twimg.com/profile_images/1879537340080869376/PV5A5sD2_bigger.jpg",
+      "content": "If you’re not aware of your capacity to harm, your “goodness” is fragile. FAKE. Easily broken.\n\nY’all should be careful around those who make “but i’m a good/harmless person” their whole identity.\n\nThe worst are the self-appointed saints. \n\nThey’ll guilt-trip you into being “good” by their definition, moral-police everything you do, while holding themselves to none of it.\n\nBecause in their head they’re always at the moral high ground, aka “PURE”, so the rules are for you, not them. \n\nNaive people often get possessed by the same forces they deny exist, because they genuinely believe “I could never do that/how can anyone do xx?!”\n\nA “harmless” person who’s never been truly challenged isn’t good. They’re just WEAK.\n\nSeems fine now. But one thing snaps and they turn on you worse than any openly shitty person could, because you never saw it coming.\n\nI’m not saying the obvious assholes are better. I’m saying real goodness was never the absence of darkness.\n\nIt belongs to those who’ve been pushed to their limit, who’ve stared straight into their own capacity for harm, felt the pull… and still chose NOT to. Every single time. Deliberately.\n\nThat’s the only good I trust. The kind that had every reason to break and didn’t.",
+      "contentHtml": "If you’re not aware of your capacity to harm, your “goodness” is fragile. FAKE. Easily broken.\n\nY’all should be careful around those who make “but i’m a good/harmless person” their whole identity.\n\nThe worst are the self-appointed saints. \n\nThey’ll guilt-trip you into being “good” by their definition, moral-police everything you do, while holding themselves to none of it.\n\nBecause in their head they’re always at the moral high ground, aka “PURE”, so the rules are for you, not them. \n\nNaive people often get possessed by the same forces they deny exist, because they genuinely believe “I could never do that/how can anyone do xx?!”\n\nA “harmless” person who’s never been truly challenged isn’t good. They’re just WEAK.\n\nSeems fine now. But one thing snaps and they turn on you worse than any openly shitty person could, because you never saw it coming.\n\nI’m not saying the obvious assholes are better. I’m saying real goodness was never the absence of darkness.\n\nIt belongs to those who’ve been pushed to their limit, who’ve stared straight into their own capacity for harm, felt the pull… and still chose NOT to. Every single time. Deliberately.\n\nThat’s the only good I trust. The kind that had every reason to break and didn’t.",
+      "publishedAt": "2026-07-11T03:18:00.000Z",
+      "link": "https://x.com/0xPickleCati/status/2075781716396916885",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM6od4aaUAAQZZP.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2075777061223006515",
       "username": "0xCryptoChan",
@@ -691,6 +791,32 @@
             "url": "https://pbs.twimg.com/media/HJ2IOvJW4AAwmiy.png"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075595081625518498",
+      "username": "theobjectivist",
+      "displayName": "The Rational Animal 🤔",
+      "avatar": "https://pbs.twimg.com/profile_images/1993173930698481664/3G0PfSmu_bigger.jpg",
+      "content": "Read the article you referenced Congressman @RoKhanna. It refutes you.\n\nBarzar earns $32.90 an hour, has over $1 million in his 401(k), $15 co-pays, a house with a pool, and had every one of his wife's three brain surgeries covered in full. Costco gave him this. Not Congress. Not a wealth tax. Not you. A private company, freely, because paying and keeping good workers is good business.\n\nThat's the whole point you keep missing. Costco proves the market rewards productive labor without a single mandate. Their stock is up 2,000% doing it. The \"living wage\" you want to force already exists where value is freely traded, and it was built by the very system you spend your days attacking.\n\nSo what's your actual purpose? Barzar isn't bitter. He's grateful, and proud, and he built a good life. \n\nYou'd rather teach the man with less to resent the man with more, when Costco shows there's nothing to resent, only something to aspire to.\n\nThe producer earns his reward. Envy earns nothing. Stop selling grievance and let the market you fear keep lifting men like Tony Barzar.",
+      "contentHtml": "Read the article you referenced Congressman <a href=\"/RoKhanna\" title=\"Ro Khanna\">@RoKhanna</a>. It refutes you.\n\nBarzar earns $32.90 an hour, has over $1 million in his 401(k), $15 co-pays, a house with a pool, and had every one of his wife's three brain surgeries covered in full. Costco gave him this. Not Congress. Not a wealth tax. Not you. A private company, freely, because paying and keeping good workers is good business.\n\nThat's the whole point you keep missing. Costco proves the market rewards productive labor without a single mandate. Their stock is up 2,000% doing it. The \"living wage\" you want to force already exists where value is freely traded, and it was built by the very system you spend your days attacking.\n\nSo what's your actual purpose? Barzar isn't bitter. He's grateful, and proud, and he built a good life. \n\nYou'd rather teach the man with less to resent the man with more, when Costco shows there's nothing to resent, only something to aspire to.\n\nThe producer earns his reward. Envy earns nothing. Stop selling grievance and let the market you fear keep lifting men like Tony Barzar.",
+      "publishedAt": "2026-07-10T14:56:00.000Z",
+      "link": "https://x.com/theobjectivist/status/2075595081625518498",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "RoKhanna",
+        "displayName": "Ro Khanna",
+        "content": "If workers actually earned a living wage and could afford a middle class life, there would be so much less bitterness and anger in our society. Costco shows that policies of a living wage and worker ownership can also be good for business. wsj.com/business/retail/he-e…",
+        "contentHtml": "If workers actually earned a living wage and could afford a middle class life, there would be so much less bitterness and anger in our society. Costco shows that policies of a living wage and worker ownership can also be good for business. <a href=\"https://www.wsj.com/business/retail/he-earns-33-an-hour-as-a-costco-cashier-now-hes-a-millionaire-1e9ba725?st=56CQTr\">wsj.com/business/retail/he-e…</a>",
+        "link": "https://x.com/RoKhanna/status/2075584359126499699"
       },
       "stats": {
         "replies": 0,
@@ -2611,6 +2737,38 @@
       }
     },
     {
+      "id": "2075210426875249056",
+      "username": "levelsio",
+      "displayName": "@levelsio",
+      "avatar": "https://pbs.twimg.com/profile_images/1996831016720486400/vycHz0uG_bigger.jpg",
+      "content": "🇪🇺 Chat Control has passed 😔 \n\nThey can and will now legally scan any person's messages, emails and photos you send without a warrant\n\nThe way they passed this law when the majority of the European Parliament was against it will shock you:\n\nThey waited until most EP members were on holiday so only a few were present and then created an \"urgent\" vote for it to pass it through\n\nThere's nothing democratic about any of it and big powerful forces are behind this that can manipulate the EU for whatever they want\n\nDemocracy in Europe died a bit today 😔",
+      "contentHtml": "🇪🇺 Chat Control has passed 😔 \n\nThey can and will now legally scan any person's messages, emails and photos you send without a warrant\n\nThe way they passed this law when the majority of the European Parliament was against it will shock you:\n\nThey waited until most EP members were on holiday so only a few were present and then created an \"urgent\" vote for it to pass it through\n\nThere's nothing democratic about any of it and big powerful forces are behind this that can manipulate the EU for whatever they want\n\nDemocracy in Europe died a bit today 😔",
+      "publishedAt": "2026-07-09T13:28:00.000Z",
+      "link": "https://x.com/levelsio/status/2075210426875249056",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "MartinSonneborn",
+        "displayName": "Martin Sonneborn",
+        "content": "Illegaler Geschäftsordnungstrick der Parlamentspräsidentin - Eilantrag, der die Qualifizierte Mehrheit (360 Stimmen) GEGEN die Chatkontrolle gebraucht hätte, an einem Tag, an dem nur knapp 600 MEPs vor Ort waren, wegen Urlaub etc…",
+        "contentHtml": "Illegaler Geschäftsordnungstrick der Parlamentspräsidentin - Eilantrag, der die Qualifizierte Mehrheit (360 Stimmen) GEGEN die Chatkontrolle gebraucht hätte, an einem Tag, an dem nur knapp 600 MEPs vor Ort waren, wegen Urlaub etc…",
+        "link": "https://x.com/MartinSonneborn/status/2075170057898930687",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMx8KzQXwAEr7x1.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2075209921008980304",
       "username": "jheioff",
       "displayName": "第一美少女",
@@ -4211,25 +4369,6 @@
         "content": "大胆猜测，今天最后一跌",
         "contentHtml": "大胆猜测，今天最后一跌",
         "link": "https://x.com/octopusycc/status/2074583783609901056"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2074942453736767787",
-      "username": "Cernovich",
-      "displayName": "Cernovich",
-      "avatar": "https://pbs.twimg.com/profile_images/1981917778467532800/1LpS5x6S_bigger.jpg",
-      "content": "Has anyone run the math on how much state tax revenue California would have collected from the SpaceX IPO had they not driven Elon out?",
-      "contentHtml": "Has anyone run the math on how much state tax revenue California would have collected from the SpaceX IPO had they not driven Elon out?",
-      "publishedAt": "2026-07-08T19:43:00.000Z",
-      "link": "https://x.com/Cernovich/status/2074942453736767787",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -12013,131 +12152,6 @@
         "content": "前几天朋友问我，做交易\n到底是去水(钱)多的地方\n还是应该在熟悉圈？",
         "contentHtml": "前几天朋友问我，做交易\n到底是去水(钱)多的地方\n还是应该在熟悉圈？",
         "link": "https://x.com/Btc_kking/status/2073234305074291014"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073365164355637757",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "GM 🌤️\n\n2-3 months till the bear market is over.",
-      "contentHtml": "GM 🌤️\n\n2-3 months till the bear market is over.",
-      "publishedAt": "2026-07-04T11:15:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2073365164355637757",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073363376911351946",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "近期机会最多的地方绝对是aspecta，群友提醒了一下aspecta上盘前很便宜，53m注意到squid。但是想着自己打了legion就不分散资金参与盘前，最近的新币太少，表现确实都还不错。应该知行合一的。\n\n找到合适的币，觉得预期高就玩一下吧，就是aspecta手续费太高了。",
-      "contentHtml": "近期机会最多的地方绝对是aspecta，群友提醒了一下aspecta上盘前很便宜，53m注意到squid。但是想着自己打了legion就不分散资金参与盘前，最近的新币太少，表现确实都还不错。应该知行合一的。\n\n找到合适的币，觉得预期高就玩一下吧，就是aspecta手续费太高了。",
-      "publishedAt": "2026-07-04T11:08:00.000Z",
-      "link": "https://x.com/0xleng1/status/2073363376911351946",
-      "quote": {
-        "username": "0xleng1",
-        "displayName": "Leng",
-        "content": "现在买盘前赚钱的机会都比撸毛大，撸毛你还得担心反撸女巫项目方跑路。",
-        "contentHtml": "现在买盘前赚钱的机会都比撸毛大，撸毛你还得担心反撸女巫项目方跑路。",
-        "link": "https://x.com/0xleng1/status/2068292996425245144"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073359694970904963",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://pbs.twimg.com/profile_images/1986442283433254912/O0egVwxK_bigger.jpg",
-      "content": "感谢 @Bitgetyaya @Bitget_zh 送的世界杯观赛大礼包～太有心了！\n\n据说Bitget还会陆续在很多城市举行世界杯线下观赛派对，喜欢足球的友友们踊跃参与！\n\n（第一次看世界杯，请问哪边是好人？）",
-      "contentHtml": "感谢 <a href=\"/Bitgetyaya\" title=\"雅雅｜Bitget\">@Bitgetyaya</a> <a href=\"/Bitget_zh\" title=\"Bitget中文\">@Bitget_zh</a> 送的世界杯观赛大礼包～太有心了！\n\n据说Bitget还会陆续在很多城市举行世界杯线下观赛派对，喜欢足球的友友们踊跃参与！\n\n（第一次看世界杯，请问哪边是好人？）",
-      "publishedAt": "2026-07-04T10:54:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2073359694970904963",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMYNpiaakAAlhwe.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMYNpifaMAAabdW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMYNpiZbUAANP8k.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073353095585948121",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "bg的活动比gate还抽象啊 各种突然降低，举办一堆手续费返还，但是理财给你一直降低。",
-      "contentHtml": "bg的活动比gate还抽象啊 各种突然降低，举办一堆手续费返还，但是理财给你一直降低。",
-      "publishedAt": "2026-07-04T10:27:00.000Z",
-      "link": "https://x.com/0xleng1/status/2073353095585948121",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073351978189734347",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "今夕是何年？",
-      "contentHtml": "今夕是何年？",
-      "publishedAt": "2026-07-04T10:23:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2073351978189734347",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "炒币需要看大小写的时候我已经觉得很离谱了\n\n后来还要看狗的品种 看狗的尾号  更离谱 \n\n所有人都希望打开市值天花板的时候\n\n人家先把下限给你打开了",
-        "contentHtml": "炒币需要看大小写的时候我已经觉得很离谱了\n\n后来还要看狗的品种 看狗的尾号  更离谱 \n\n所有人都希望打开市值天花板的时候\n\n人家先把下限给你打开了",
-        "link": "https://x.com/Bitfatty/status/2013454612448321748"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073326626197381266",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "本条算一周内少有的牛逼操作了\n\n伟大撤退成功",
-      "contentHtml": "本条算一周内少有的牛逼操作了\n\n伟大撤退成功",
-      "publishedAt": "2026-07-04T08:42:00.000Z",
-      "link": "https://x.com/octopusycc/status/2073326626197381266",
-      "quote": {
-        "username": "octopusycc",
-        "displayName": "大老师Bugsbunny ｜DRAM UP only",
-        "content": "GLW本条存疑，7月底的财报会是一个约束变量\n\n玻璃桥固然是一个革命级的产品，但股价需要通过动态PE进行约束\n\n$GLW \n\n250刀以上已然处于极限乐观的价格区间\n\n毕竟还是一个上游端\n\n极限估值区间 250-290刀 \n\n当前已然是止盈区间 \n\n正如JPM 所说\n\n“这⼀⾛势越来越多地 是由空头回补和预期升⾼推动的，⽽⾮盈利预期出现实质性上调”\n\n————————\n\n这里给过热的上涨 刹车了\n\n这里我打算止盈了\n\nNFA",
-        "contentHtml": "GLW本条存疑，7月底的财报会是一个约束变量\n\n玻璃桥固然是一个革命级的产品，但股价需要通过动态PE进行约束\n\n<a href=\"/search?f=tweets&q=%23GLW\">$GLW</a> \n\n250刀以上已然处于极限乐观的价格区间\n\n毕竟还是一个上游端\n\n极限估值区间 250-290刀 \n\n当前已然是止盈区间 \n\n正如JPM 所说\n\n“这⼀⾛势越来越多地 是由空头回补和预期升⾼推动的，⽽⾮盈利预期出现实质性上调”\n\n————————\n\n这里给过热的上涨 刹车了\n\n这里我打算止盈了\n\nNFA",
-        "link": "https://x.com/octopusycc/status/2071983222452564290"
       },
       "stats": {
         "replies": 0,
