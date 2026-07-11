@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T06:52:40.197Z",
+  "lastUpdated": "2026-07-11T07:37:13.766Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -114,6 +114,44 @@
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2075840247716540630",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "海力士董事长说要推行内存即服务模式可行么？美股有类似模式的上市公司是哪几家？昨晚SK海力士ADR美股上市，崔泰源接受采访时提到，海力士正在研究“内存即服务”（Memory-as-a-Service，简称MaaS）模式。这个模式核心是，客户未来可能不再一次性购买内存芯片，而是按照使用量、容量或使用期限，向SK海力士租用内存资源。这一模式旨在应对内存供应紧张、采购成本较高，以及客户希望避免巨额前期硬件投入的现实情况。\n\n其实存储行业已有成熟的服务化案例。Everpure（原Pure Storage，股票代码：P）和NetApp（股票代码：NTAP）两家上市公司，早已将存储系统打包成订阅服务模式。\n\n1、Everpure和NetApp的存储服务业务模式\n这两家业务模式属于企业级存储即服务（Storage as a Service，STaaS），已运行多年并在全球企业数据中心和混合云环境中得到广泛应用。它们的核心是将存储硬件、软件和管理服务整合为订阅产品，让客户以运营支出（OpEx）方式使用存储资源，而非一次性资本支出（CapEx）购买设备。\n\n1）Everpure\n推出 Evergreen//One 和 Evergreen//Flex 等真正的 Storage as a Service（STaaS）订阅模式。客户按使用量付费，类似公有云的灵活性，同时保留 on-prem 控制权。还包括数据服务、混合云支持和持续创新订阅（非破坏性升级）。\n\n2）NetApp\n通过 NetApp Keystone 提供 pay-as-you-go 的存储即服务（STaaS），支持 block/file/object 统一平台。云端有 Azure NetApp Files、Amazon FSx for NetApp ONTAP 等原生服务。还包括专业服务、托管服务和订阅模式。\n\n这两家公司的模式共同点在于：将复杂的存储基础设施转化为可预测的订阅服务，客户无需管理底层硬件细节，可按需扩展，并享受厂商提供的维护与升级支持。它们已在企业环境中证明了商业可行性，形成了稳定的 recurring 收入来源。\n\n2、海力士提出的MaaS与Everpure、NetApp的STaaS在理念上有相似之处，\n都是从“一次性硬件销售”转向“订阅/按使用付费”的服务化转型，但存在本质差异：\n1）层级不同：Everpure/NetApp卖的是“存储系统/解决方案”（硬件阵列+软件+管理），是内存的上层应用；\n海力士MaaS针对的是“底层内存芯片/容量”本身。更接近“硅即服务”（silicon as a service）的概念。\n2）实现难度：STaaS已成熟（硬件可控、软件定义存储成熟）；\nMaaS对芯片商极具挑战性（内存需与计算紧密耦合，尤其是HBM集成在GPU上，拆分/池化复杂）。\n3）技术壁垒：存储服务依赖厂商自有阵列和软件；内存服务需要内存池化技术（CXL等新兴技术）、虚拟化/软件定义内存，以及大规模基础设施支持。\n4）客户对象与价值链：前者直接服务企业IT/数据中心；后者可能需通过云巨头（AWS、Azure等）或数据中心运营商间接提供，或与Nvidia等生态合作。\n\n3、短期（1-3年）难度很大，几乎不可行；中长期（5年以上）有一定可行性，但不会完全取代购买模式，而是作为补充模式存在。\n\n前面聊到毕竟内存不是独立“存储设备”，而是服务器/GPU的紧密集成组件。HBM直接焊在GPU上或通过先进封装。要“租内存”需解决：如何物理/虚拟分配容量？如何保障性能/隔离？如何计费和SLA？目前内存池化技术尚不成熟，难以像租存储阵列那样简单。\n\n而且现有的客户通常向服务器OEM（Dell、HPE）或云服务商买整机。海力士直接租内存会打破现有链条，需与Nvidia、云巨头深度合作（他们可能更想自己做类似服务）。\n\n不过现在内存池化（CXL技术）、计算-存储分离、软件定义基础设都在进一步迭代，未来也可能实现“内存容量按需分配”。\n\n简单说成熟的存储服务已证明了订阅模式的商业价值，但组件（内存就是组件）级服务的创新则需要更多技术突破和生态协同。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "海力士董事长说要推行内存即服务模式可行么？美股有类似模式的上市公司是哪几家？昨晚SK海力士ADR美股上市，崔泰源接受采访时提到，海力士正在研究“内存即服务”（Memory-as-a-Service，简称MaaS）模式。这个模式核心是，客户未来可能不再一次性购买内存芯片，而是按照使用量、容量或使用期限，向SK海力士租用内存资源。这一模式旨在应对内存供应紧张、采购成本较高，以及客户希望避免巨额前期硬件投入的现实情况。\n\n其实存储行业已有成熟的服务化案例。Everpure（原Pure Storage，股票代码：P）和NetApp（股票代码：NTAP）两家上市公司，早已将存储系统打包成订阅服务模式。\n\n1、Everpure和NetApp的存储服务业务模式\n这两家业务模式属于企业级存储即服务（Storage as a Service，STaaS），已运行多年并在全球企业数据中心和混合云环境中得到广泛应用。它们的核心是将存储硬件、软件和管理服务整合为订阅产品，让客户以运营支出（OpEx）方式使用存储资源，而非一次性资本支出（CapEx）购买设备。\n\n1）Everpure\n推出 Evergreen//One 和 Evergreen//Flex 等真正的 Storage as a Service（STaaS）订阅模式。客户按使用量付费，类似公有云的灵活性，同时保留 on-prem 控制权。还包括数据服务、混合云支持和持续创新订阅（非破坏性升级）。\n\n2）NetApp\n通过 NetApp Keystone 提供 pay-as-you-go 的存储即服务（STaaS），支持 block/file/object 统一平台。云端有 Azure NetApp Files、Amazon FSx for NetApp ONTAP 等原生服务。还包括专业服务、托管服务和订阅模式。\n\n这两家公司的模式共同点在于：将复杂的存储基础设施转化为可预测的订阅服务，客户无需管理底层硬件细节，可按需扩展，并享受厂商提供的维护与升级支持。它们已在企业环境中证明了商业可行性，形成了稳定的 recurring 收入来源。\n\n2、海力士提出的MaaS与Everpure、NetApp的STaaS在理念上有相似之处，\n都是从“一次性硬件销售”转向“订阅/按使用付费”的服务化转型，但存在本质差异：\n1）层级不同：Everpure/NetApp卖的是“存储系统/解决方案”（硬件阵列+软件+管理），是内存的上层应用；\n海力士MaaS针对的是“底层内存芯片/容量”本身。更接近“硅即服务”（silicon as a service）的概念。\n2）实现难度：STaaS已成熟（硬件可控、软件定义存储成熟）；\nMaaS对芯片商极具挑战性（内存需与计算紧密耦合，尤其是HBM集成在GPU上，拆分/池化复杂）。\n3）技术壁垒：存储服务依赖厂商自有阵列和软件；内存服务需要内存池化技术（CXL等新兴技术）、虚拟化/软件定义内存，以及大规模基础设施支持。\n4）客户对象与价值链：前者直接服务企业IT/数据中心；后者可能需通过云巨头（AWS、Azure等）或数据中心运营商间接提供，或与Nvidia等生态合作。\n\n3、短期（1-3年）难度很大，几乎不可行；中长期（5年以上）有一定可行性，但不会完全取代购买模式，而是作为补充模式存在。\n\n前面聊到毕竟内存不是独立“存储设备”，而是服务器/GPU的紧密集成组件。HBM直接焊在GPU上或通过先进封装。要“租内存”需解决：如何物理/虚拟分配容量？如何保障性能/隔离？如何计费和SLA？目前内存池化技术尚不成熟，难以像租存储阵列那样简单。\n\n而且现有的客户通常向服务器OEM（Dell、HPE）或云服务商买整机。海力士直接租内存会打破现有链条，需与Nvidia、云巨头深度合作（他们可能更想自己做类似服务）。\n\n不过现在内存池化（CXL技术）、计算-存储分离、软件定义基础设都在进一步迭代，未来也可能实现“内存容量按需分配”。\n\n简单说成熟的存储服务已证明了订阅模式的商业价值，但组件（内存就是组件）级服务的创新则需要更多技术突破和生态协同。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-07-11T07:10:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2075840247716540630",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM7ds6DbIAAdDh0.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "Sk海力士ADR发行路演资料中文版",
+        "contentHtml": "Sk海力士ADR发行路演资料中文版",
+        "link": "https://x.com/qinbafrank/status/2074843248095629631",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMtS7T4aUAATa1E.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMtS7T6aAAA2tnZ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2075826675389247754",
       "username": "0xleng1",
@@ -12133,28 +12171,6 @@
           "url": "https://pbs.twimg.com/media/HMYWoO1bgAA3Eko.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073369435541586385",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "有更好的产品了，不要给这条点了⬆️",
-      "contentHtml": "有更好的产品了，不要给这条点了⬆️",
-      "publishedAt": "2026-07-04T11:32:00.000Z",
-      "link": "https://x.com/taresky/status/2073369435541586385",
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "#AI  \n\nOrca (onorca) 是 muxy 的上位替代。\n\n更全面、更成熟、更稳定。\n\n已全面切换😂",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a>  \n\nOrca (onorca) 是 muxy 的上位替代。\n\n更全面、更成熟、更稳定。\n\n已全面切换😂",
-        "link": "https://x.com/taresky/status/2072689695512023151"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
