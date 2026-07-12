@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T01:39:10.847Z",
+  "lastUpdated": "2026-07-12T03:10:21.468Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,189 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 642,
+    "newFetched": 641,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2076137012776808745",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI   \n\n这个改造的流程有更高效、更完善版本，是 Orca 自带的编排功能。  \n\n讨论部分的流程不变：/grill → /spec → /tickets。  \n\n之前是新开对话，然后单个 tickets 走 /implement。自己逐一验收。  \n\n现在改成新开对话，用 /orchestration 监工，会根据 tickets 安排子代理串行或并行。最后它帮你完成验收。  \n\n比如：/orchestration 派工 codex 推进 tickets #33-#37。  \n\n昨天玩一天还真是全用上了，fable 讨论需求、写文档、定票；grok 监工或快速执行；gpt-sol 按票去写代码。  \n\ngrok 确实是又快又好，iOS 端的 grok 快上 4.5 就可以替代 chatgpt app 了。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a>   \n\n这个改造的流程有更高效、更完善版本，是 Orca 自带的编排功能。  \n\n讨论部分的流程不变：/grill → /spec → /tickets。  \n\n之前是新开对话，然后单个 tickets 走 /implement。自己逐一验收。  \n\n现在改成新开对话，用 /orchestration 监工，会根据 tickets 安排子代理串行或并行。最后它帮你完成验收。  \n\n比如：/orchestration 派工 codex 推进 tickets #33-#37。  \n\n昨天玩一天还真是全用上了，fable 讨论需求、写文档、定票；grok 监工或快速执行；gpt-sol 按票去写代码。  \n\ngrok 确实是又快又好，iOS 端的 grok 快上 4.5 就可以替代 chatgpt app 了。",
+      "publishedAt": "2026-07-12T02:50:00.000Z",
+      "link": "https://x.com/taresky/status/2076137012776808745",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM_rkHJbcAAg23z.png"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM_rlPzasAAB8aR.jpg"
+        }
+      ],
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#AI \n\n基于 mattpocock/skills 和今天 Claude 官方的 Fable token 节约文章。\n\n让 AI 把 /implement 改造成了 /implement-codex。\n\n现在完整的工作流如图。",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n基于 mattpocock/skills 和今天 Claude 官方的 Fable token 节约文章。\n\n让 AI 把 /implement 改造成了 /implement-codex。\n\n现在完整的工作流如图。",
+        "link": "https://x.com/taresky/status/2074714484057489683",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMrYRx6bcAAeSCi.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2076135846567366699",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "看到这两天Robinhood充斥着时间线，回想起来5月初还写过一篇推文hood的节奏何时到来，现在看到如此盛况感慨下：\n短期最吸引眼球的，robinhood chain的meme大热。7月初这里nitter.net/qinbafrank/status/2072…还说robinhood chain上线关注度不高但很值得重视，没想到过了一周多通过meme完全抓到最大的关注度。\n\n中期最爆的自然还说世界杯预测事件合约数据很亮眼，未来所有事件合约都切到自营平台之后、业务模式会更好\n\n长期影响最深远的还说特朗普账户正式上线，5月底这里nitter.net/qinbafrank/status/2060…有聊过，特朗普账户未来能给hood带来3900万个优质儿童投资账户。",
+      "contentHtml": "看到这两天Robinhood充斥着时间线，回想起来5月初还写过一篇推文hood的节奏何时到来，现在看到如此盛况感慨下：\n短期最吸引眼球的，robinhood chain的meme大热。7月初这里<a href=\"https://nitter.net/qinbafrank/status/2072639801908777439?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2072…</a>还说robinhood chain上线关注度不高但很值得重视，没想到过了一周多通过meme完全抓到最大的关注度。\n\n中期最爆的自然还说世界杯预测事件合约数据很亮眼，未来所有事件合约都切到自营平台之后、业务模式会更好\n\n长期影响最深远的还说特朗普账户正式上线，5月底这里<a href=\"https://nitter.net/qinbafrank/status/2060388312033182068?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2060…</a>有聊过，特朗普账户未来能给hood带来3900万个优质儿童投资账户。",
+      "publishedAt": "2026-07-12T02:45:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2076135846567366699",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM_qir-aIAA-Q84.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "4月初聊到hood的“长远”与“当下”正在初步落地：1）昨天特朗普账户正式上线，由robinhood开发并运营管理。创始人@vladtenev 接受采访说“采用率非常惊人……我们在推出前就有600万年轻人注册并表示兴趣。已经有数百万账户进行了投资，而且这款应用基本上一直位居或接近App Store排行榜榜首”。之前这里nitter.net/qinbafrank/status/2060…有聊过特朗普账户的启动未来几年能给hood带来3900万个儿童投资账户。\n\n这也是之前来哦到的X世代用户的理财管理平台正在成形。\n\n2）预测市场业务\n世界杯期间，hood整个6月预测市场业务爆发，月度预测市场营收预估9300万美金，年化营收10亿美金。如果最终确实，那相比一季度基本上是环比翻倍了。很多人不清楚单业务线年化营收10亿美金对hood是什么意义？相当于hood一季度整个营收体量。\n\n之前这里nitter.net/qinbafrank/status/2066…有详细聊过，hood预测市场业务未来从kalshi完全味道Rothera之后，对hood业绩的影响。\n\n之前一季度财报后hood股价过山车，当时nitter.net/qinbafrank/status/2052…还聊到hood的节奏何时来。当时提到加密营收占比已经前几年最高的六成降到了15%，但市场还把它当作加密概念来看。现在应该逐步与加密走势脱敏了。",
+        "contentHtml": "4月初聊到hood的“长远”与“当下”正在初步落地：1）昨天特朗普账户正式上线，由robinhood开发并运营管理。创始人<a href=\"/vladtenev\" title=\"Vlad Tenev\">@vladtenev</a> 接受采访说“采用率非常惊人……我们在推出前就有600万年轻人注册并表示兴趣。已经有数百万账户进行了投资，而且这款应用基本上一直位居或接近App Store排行榜榜首”。之前这里<a href=\"https://nitter.net/qinbafrank/status/2060388312033182068?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2060…</a>有聊过特朗普账户的启动未来几年能给hood带来3900万个儿童投资账户。\n\n这也是之前来哦到的X世代用户的理财管理平台正在成形。\n\n2）预测市场业务\n世界杯期间，hood整个6月预测市场业务爆发，月度预测市场营收预估9300万美金，年化营收10亿美金。如果最终确实，那相比一季度基本上是环比翻倍了。很多人不清楚单业务线年化营收10亿美金对hood是什么意义？相当于hood一季度整个营收体量。\n\n之前这里<a href=\"https://nitter.net/qinbafrank/status/2066698672906375472?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2066…</a>有详细聊过，hood预测市场业务未来从kalshi完全味道Rothera之后，对hood业绩的影响。\n\n之前一季度财报后hood股价过山车，当时<a href=\"https://nitter.net/qinbafrank/status/2052949436985434604?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2052…</a>还聊到hood的节奏何时来。当时提到加密营收占比已经前几年最高的六成降到了15%，但市场还把它当作加密概念来看。现在应该逐步与加密走势脱敏了。",
+        "link": "https://x.com/qinbafrank/status/2074334390520594761",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMmEIYtbAAArMdq.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMmEIYyasAALNeJ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2076128613985063392",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "囤积近 1 亿美元的 $ETH 和 $WBTC！😲\n\n3 小时前该巨鲸再次从 #Binance 提出 4948 枚 ETH，价值 901 万美元；七月以来已累计建仓 49407 ETH 和 250 WBTC，提币均价更新为 $1705 和 $62628，现浮盈 527.5 万美元\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "contentHtml": "囤积近 1 亿美元的 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 和 $WBTC！😲\n\n3 小时前该巨鲸再次从 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 提出 4948 枚 ETH，价值 901 万美元；七月以来已累计建仓 49407 ETH 和 250 WBTC，提币均价更新为 $1705 和 $62628，现浮盈 527.5 万美元\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "publishedAt": "2026-07-12T02:16:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2076128613985063392",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM_iXJzboAA21TG.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "再囤 1773 万美元 ETH！🙌\n\n七月以来猛猛囤 $ETH 和 $WBTC 的巨鲸 8 小时前再次从 #Binance 提出 9883 枚 ETH；现已累计建仓 44459.23 ETH 和 250 WBTC，提币均价分别为 $1692.83 和 $62628，现浮盈 475.5 万美元\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "contentHtml": "再囤 1773 万美元 ETH！🙌\n\n七月以来猛猛囤 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 和 <a href=\"/search?f=tweets&q=%23WBTC\">$WBTC</a> 的巨鲸 8 小时前再次从 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 提出 9883 枚 ETH；现已累计建仓 44459.23 ETH 和 250 WBTC，提币均价分别为 $1692.83 和 $62628，现浮盈 475.5 万美元\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "link": "https://x.com/ai_9684xtpa/status/2075760619656269956",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HM6VOLsaUAAOSl5.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2076123712211062942",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "顶级波段！低买高卖 $ETH 一个月获利 151.5 万美元🤩\n\n「曾两个月低买高卖 ETH 获利 505 万美元」的聪明钱又收米了，他曾在 06.06 - 06.07 期间以均价 $1575.74 建仓 6109 枚 ETH，6 小时前以 $1823 充值进了 #Binance，随后收到等值 USDT，成功落袋为安，太稳了\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "contentHtml": "顶级波段！低买高卖 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 一个月获利 151.5 万美元🤩\n\n「曾两个月低买高卖 ETH 获利 505 万美元」的聪明钱又收米了，他曾在 06.06 - 06.07 期间以均价 $1575.74 建仓 6109 枚 ETH，6 小时前以 $1823 充值进了 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a>，随后收到等值 USDT，成功落袋为安，太稳了\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x69b590d9d761b396Db4465F3Dee34d43Afa0e378\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "publishedAt": "2026-07-12T01:57:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2076123712211062942",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM_fgLWaIAA5Z1h.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "曾两个月低买高卖 $ETH 获利 505 万美元的波段大户时隔一个月出手，再次获利离场🙌\n\n▶︎ 04.04-04.05：$2047.53 建仓\n▶︎ 04.07：$2100.94 卖出\n\n这 4827 枚 ETH（价值 1014 万美元）过去 3 小时充值进 #Binance 后，已提出对应价值的 USDT，大概率已卖出，本次波段最终获利 25.6 万美元\n\n钱包地址 0x69b590d9d761b396Db4465F3Dee34d43Afa0e378\n\n#Bitget VIP 费率更低，福利更狠！买美股秒级入场",
+        "contentHtml": "曾两个月低买高卖 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 获利 505 万美元的波段大户时隔一个月出手，再次获利离场🙌\n\n▶︎ 04.04-04.05：$2047.53 建仓\n▶︎ 04.07：$2100.94 卖出\n\n这 4827 枚 ETH（价值 1014 万美元）过去 3 小时充值进 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 后，已提出对应价值的 USDT，大概率已卖出，本次波段最终获利 25.6 万美元\n\n钱包地址 0x69b590d9d761b396Db4465F3Dee34d43Afa0e378\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> VIP 费率更低，福利更狠！买美股秒级入场",
+        "link": "https://x.com/ai_9684xtpa/status/2041341218769244259",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HFRM-pZbIAAk-YM.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2076121041731272878",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "$0.872 > $0.5012，果然又是 42.5% 的跌幅📉\n\n昨晚 $LAB 疑似内幕地址向 Aster 转移 915 万美元的代币后半小时，币价坐滑梯一路下跌，短时跌至 $0.5012，现回升至 $0.5235\n\n目前该实体在链上仍有 8150 万枚 LAB，总价值 4268 万美元；盯紧这些地址，下一次转移可能就是新一波下跌的开始\n\n地址帮大家整理好了 👉 arkm.com/explorer/entity/dfa…",
+      "contentHtml": "$0.872 &gt; $0.5012，果然又是 42.5% 的跌幅📉\n\n昨晚 <a href=\"/search?f=tweets&q=%23LAB\">$LAB</a> 疑似内幕地址向 Aster 转移 915 万美元的代币后半小时，币价坐滑梯一路下跌，短时跌至 $0.5012，现回升至 $0.5235\n\n目前该实体在链上仍有 8150 万枚 LAB，总价值 4268 万美元；盯紧这些地址，下一次转移可能就是新一波下跌的开始\n\n地址帮大家整理好了 👉 <a href=\"https://arkm.com/explorer/entity/dfaf9ccc-d252-448b-9cc9-077002cd37d2\">arkm.com/explorer/entity/dfa…</a>",
+      "publishedAt": "2026-07-12T01:46:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2076121041731272878",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HM_dC_ia0AAv6LD.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "又来！LAB 疑似内幕地址再次向 Aster 转移 915 万美元的代币，近 24 小时已累计转移 1869 万美元 LAB🤨\n\n时隔 22 小时，又是 1050 万枚 $LAB 以相同方式完成了转移；昨晚转完币价暴跌，这次还会重演吗？这批 LAB 的充值价格为 $0.872，明早看看情况了\n\n钱包地址\narkm.com/explorer/address/0x…\narkm.com/explorer/address/0x…\narkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "contentHtml": "又来！LAB 疑似内幕地址再次向 Aster 转移 915 万美元的代币，近 24 小时已累计转移 1869 万美元 LAB🤨\n\n时隔 22 小时，又是 1050 万枚 <a href=\"/search?f=tweets&q=%23LAB\">$LAB</a> 以相同方式完成了转移；昨晚转完币价暴跌，这次还会重演吗？这批 LAB 的充值价格为 $0.872，明早看看情况了\n\n钱包地址\n<a href=\"https://arkm.com/explorer/address/0xAaD30cAB22F772c1658b7845b5837D35bf3a467a\">arkm.com/explorer/address/0x…</a>\n<a href=\"https://arkm.com/explorer/address/0x628dd74F428A81cD34EcE11331A7F1593f76047A\">arkm.com/explorer/address/0x…</a>\n<a href=\"https://arkm.com/explorer/address/0x76ccFDe9819500204985580d235Dd8326Fa0b241\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "link": "https://x.com/ai_9684xtpa/status/2075945197486403808",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HM881NGaIAA5nL-.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2076103285518537178",
       "username": "yuren477",
@@ -12021,124 +12199,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HMb638XagAAoFBP.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073617882743996779",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "30 天 1B！太猛\n\n币安自 06.01 上线美股交易，身边不少朋友都有在玩，币安不是首家接入美股的 CEX，社区也都在等一份成绩单，现在它来了 👉 binance.com/zh-CN/blog/marke…\n\n▶︎ 管理资产规模超过 10 亿美元\n▶︎ 总交易量超过 30 亿美元\n▶︎ 平均每日流入 4100 万美元\n▶︎ 美股用户中约 73% 来自新兴市场\n\n熊市谋出路：预测和美股，已成为新的增长极",
-      "contentHtml": "30 天 1B！太猛\n\n币安自 06.01 上线美股交易，身边不少朋友都有在玩，币安不是首家接入美股的 CEX，社区也都在等一份成绩单，现在它来了 👉 <a href=\"https://www.binance.com/zh-CN/blog/markets/9110115601442180059\">binance.com/zh-CN/blog/marke…</a>\n\n▶︎ 管理资产规模超过 10 亿美元\n▶︎ 总交易量超过 30 亿美元\n▶︎ 平均每日流入 4100 万美元\n▶︎ 美股用户中约 73% 来自新兴市场\n\n熊市谋出路：预测和美股，已成为新的增长极",
-      "publishedAt": "2026-07-05T04:00:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2073617882743996779",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMb4GnwbEAA55ap.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073606697655116219",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "地址 0x268…47643 再加仓 4942 $ETH 和 50.15 $WBTC，近四天已累计囤积 5350 万美元的资产💰\n\n目前他已从交易所提出 24694.4 枚 ETH（提出均价 $1630），211.5 枚 WBTC（提出均价 $62645），浮盈 332.4 万美元\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "contentHtml": "地址 0x268…47643 再加仓 4942 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 和 50.15 $WBTC，近四天已累计囤积 5350 万美元的资产💰\n\n目前他已从交易所提出 24694.4 枚 ETH（提出均价 $1630），211.5 枚 WBTC（提出均价 $62645），浮盈 332.4 万美元\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "publishedAt": "2026-07-05T03:15:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2073606697655116219",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMbuSqIbAAA_8m2.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "再次追加 384 万美元 WBTC！这位朋友低点埋伏已浮盈 359 万美元🤩\n\n新地址 0x268…47643 半小时前再次提出 61.35 枚 WBTC，自 06.30 起已累计建仓 19725.38 $ETH 和 161.35 $WBTC，总价值 4150 万美元\n\n钱包地址 arkm.com/explorer/entity/e8b…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "contentHtml": "再次追加 384 万美元 WBTC！这位朋友低点埋伏已浮盈 359 万美元🤩\n\n新地址 0x268…47643 半小时前再次提出 61.35 枚 WBTC，自 06.30 起已累计建仓 19725.38 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 和 161.35 $WBTC，总价值 4150 万美元\n\n钱包地址 <a href=\"https://arkm.com/explorer/entity/e8b947cd-1121-4834-ad41-ca6d18623939\">arkm.com/explorer/entity/e8b…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "link": "https://x.com/ai_9684xtpa/status/2073410288238625118",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMY7qFsb0AAVgqu.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073589635310301589",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "漂漂亮亮做猪",
-      "contentHtml": "漂漂亮亮做猪",
-      "publishedAt": "2026-07-05T02:07:00.000Z",
-      "link": "https://x.com/taresky/status/2073589635310301589",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMbex35bEAAaoZA.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073589239267393594",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "标准五花又",
-      "contentHtml": "标准五花又",
-      "publishedAt": "2026-07-05T02:06:00.000Z",
-      "link": "https://x.com/taresky/status/2073589239267393594",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMbea22aUAA4hL5.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073586547702763778",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "美股很多强势股非常符合技术分析的范畴\n不了解基本面也无妨，纯用技术分析也能稳定挣钱\n\n三推之后注意趋势是否衰竭\n首次测试EMA20\n双顶吞没\n深度回调之后的看涨信号\n熊旗跌破\n深度回调之后的吞没大阴线强烈看空\n-----------------------------\n\n能看出来这是哪只股票吗",
-      "contentHtml": "美股很多强势股非常符合技术分析的范畴\n不了解基本面也无妨，纯用技术分析也能稳定挣钱\n\n三推之后注意趋势是否衰竭\n首次测试EMA20\n双顶吞没\n深度回调之后的看涨信号\n熊旗跌破\n深度回调之后的吞没大阴线强烈看空\n-----------------------------\n\n能看出来这是哪只股票吗",
-      "publishedAt": "2026-07-05T01:55:00.000Z",
-      "link": "https://x.com/dongbimao/status/2073586547702763778",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMbb9-VagAAX9_P.jpg"
         }
       ],
       "stats": {
