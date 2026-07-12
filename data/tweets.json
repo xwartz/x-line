@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T11:28:25.135Z",
+  "lastUpdated": "2026-07-12T12:24:33.277Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,93 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 644,
+    "newFetched": 645,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2076277564432163157",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "Bought some ETH spot here after promising myself last summer I'd never do it again.\n\nPlease God forgive me.\n\nPlease Vitalik send it much higher.",
+      "contentHtml": "Bought some ETH spot here after promising myself last summer I'd never do it again.\n\nPlease God forgive me.\n\nPlease Vitalik send it much higher.",
+      "publishedAt": "2026-07-12T12:08:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2076277564432163157",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2076274683377504463",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "BLG vs HLE\n\n当国足买，输了赚钱赢了开心，最终落泪收米🙃\n\n@chessxyz Bagel 贼丝滑，好评",
+      "contentHtml": "BLG vs HLE\n\n当国足买，输了赚钱赢了开心，最终落泪收米🙃\n\n<a href=\"/chessxyz\" title=\"Chess蔡司🥯\">@chessxyz</a> Bagel 贼丝滑，好评",
+      "publishedAt": "2026-07-12T11:57:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2076274683377504463",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNBopw6b0AAFFqQ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2076270413571887516",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "补充：分别销毁了 70% 的 $CZ 筹码和 40% 的 TCC 筹码\n\nTCC 已短时上涨 103%\nCZ 已短时上涨 302%",
+      "contentHtml": "补充：分别销毁了 70% 的 <a href=\"/search?f=tweets&q=%23CZ\">$CZ</a> 筹码和 40% 的 TCC 筹码\n\nTCC 已短时上涨 103%\nCZ 已短时上涨 302%",
+      "publishedAt": "2026-07-12T11:40:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2076270413571887516",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNBk6WDboAA4B31.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNBk6V9aMAAZ8kI.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2076268973780578786",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "CZ 捐款地址 5 分钟前将 7 亿枚 $CZ 和 4 亿枚 $TCC 打入黑洞🤨\n\n两个代币现在均因销毁动作出现了不同程度的币价上涨\n\n钱包地址 bscscan.com/address/0x28816c…",
+      "contentHtml": "CZ 捐款地址 5 分钟前将 7 亿枚 <a href=\"/search?f=tweets&q=%23CZ\">$CZ</a> 和 4 亿枚 <a href=\"/search?f=tweets&q=%23TCC\">$TCC</a> 打入黑洞🤨\n\n两个代币现在均因销毁动作出现了不同程度的币价上涨\n\n钱包地址 <a href=\"https://bscscan.com/address/0x28816c4C4792467390C90e5B426F198570E29307#tokentxns\">bscscan.com/address/0x28816c…</a>",
+      "publishedAt": "2026-07-12T11:34:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2076268973780578786",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNBjmy3aMAACgaJ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2076267339704893579",
       "username": "qinbafrank",
@@ -360,6 +442,10 @@
           "url": "https://pbs.twimg.com/media/HNA5D9XakAA8npp.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -12140,90 +12226,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HMf1gwkawAALW_H.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073895044311142423",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "",
-      "contentHtml": "",
-      "publishedAt": "2026-07-05T22:21:00.000Z",
-      "link": "https://x.com/hazenlee/status/2073895044311142423",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMf0jClbAAESO1k.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073890337664479487",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "同是字节人 不同的剧本",
-      "contentHtml": "同是字节人 不同的剧本",
-      "publishedAt": "2026-07-05T22:02:00.000Z",
-      "link": "https://x.com/hazenlee/status/2073890337664479487",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMfwRBsb0AA0GzS.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073850423832654319",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "Most important area for $BTC is the 60.9-60.4K area.\n\nIf we cannot hold this price region on a revisit, I'm afraid we are going to trend directly to the lows again. \n\nSomething to watch out for next week.",
-      "contentHtml": "Most important area for <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> is the 60.9-60.4K area.\n\nIf we cannot hold this price region on a revisit, I'm afraid we are going to trend directly to the lows again. \n\nSomething to watch out for next week.",
-      "publishedAt": "2026-07-05T19:24:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2073850423832654319",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMfLllFWkAArxSr.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073841776733941889",
-      "username": "DrProfitCrypto",
-      "displayName": "Doctor Profit 🇨🇭",
-      "avatar": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_bigger.jpg",
-      "content": "#Bitcoin – What's Next?\n\nThe Big Sunday Report: All We Need to Know\n\n🚩 TA / LCA / Psychological Breakdown:\n\nTHE FINAL TRAP: Today I want to speak about the most important development on the chart right now, and it is going to be very interesting. I am watching the MA200 weekly closely, and what we are seeing is what looks like a retest of the MA200 weekly. Hold on, this is exactly the moment where things get dangerous. Let me take you back to 2022 to explain what is loading right now. In 2022, Bitcoin lost the MA200 weekly and everyone believed it was over. Then something happened that trapped everyone. A few weeks later, Bitcoin regained the MA200 weekly, and not only that, BTC printed three weekly closes above it. Bitcoin pumped 10% above the MA200 weekly in 2022, and guess what happened with the narrative? Everyone thought the bottom was in. \"Wow, MA200 weekly reclaimed, this is bullish, the bear is over.\" This is exactly what they said. And so many bought right above the MA200 weekly, believing it was the confirmation they needed. Just to get trapped again. This was the final trap, and this is what led directly to the capitulation event. The reclaim of the MA200 weekly in 2022 was not the bottom signal, it was the trap that preceded the final flush to 15-16k.\n\nWhy This Matters Right Now:\n\nLook at where we are today. Bitcoin lost the MA200 weekly. And now BTC is doing exactly what happened in 2022. It is testing the MA200 weekly from below, and there is a very real possibility that we see the same repeat. So in my idea there if we see a weekly close above MA200 Weekly, it will be definitely a trap! And for this case I told two weeks ago at 60k that I am placing short orders at 68-69k in case market allows to visit. This is exactly the setup I have been warning about for the last two weeks when I spoke about the white and blue lines converging and the death cross loading. The MA200 weekly retest is the key ingredient of the final trap, and history is about to repeat with almost perfect timing.\n\nThe reason this trap works every single time is because retail cannot resist a reclaim of a major moving average. When Bitcoin closes above the MA200 weekly, every one will be bullish and start FOMO buying. And this is exactly why it works. Market makers need this trap to build the maximum amount of long liquidity before the final flush. Without this trap, the capitulation would not have enough fuel. The final trap is what generates the liquidity for the final flush. This is how bear markets always end, and this is how this one will end too.\n\nWhy This Aligns With the CBB\n\nIf the 2022 pattern repeats, the final flush after the trap lands us directly at the CBB, the 40-50k zone where the BlackRock ETF launched. My timeline of September-October 2026 for the bottom aligns perfectly with the timing of a MA200 weekly reclaim happening now, followed by a fake bullish move in July-August, followed by the final rejection and capitulation in September-October. Every piece of the puzzle continues to fit. (Visit our website: drprofitcrypto.com/) The 2022 playbook, the death cross setup, the aSOPR realized losses, the MA200 weekly trap, and the CBB target all point to the same conclusion.\n\nMy Positioning\nBoth shorts remain fully open. The 120k big short and the 80,500 average are in deep profit. New short orders at 68-69k remain prepared in case the market allows another visit. The plan is for the macro move toward the CBB, but the sideways zone between 57-68k is not over yet. I would not bet on an upside move, but I would bet that if the market allows another visit to 68-69k, I add more into my shorts. I am not interested in adding below this zone. If the MA200 weekly reclaim scenario plays out and BTC pumps 10% above the line, this is the perfect zone for me to add aggressively.\n\nCalendar This Week:\n\nFOMC minutes from the June 16-17 meeting release Wednesday July 8 at 2:00 p.m. This is a major event because it was Warsh's first FOMC as Chair, and the meeting delivered a clear hawkish shift with the median federal funds forecast implying the potential for one rate HIKE before year-end 2026, not a cut. Exactly what I predicted in the June 14 Sunday report when I said the dovish pivot would not be delivered cleanly. The minutes will show how divided the Committee was and how strong the hawkish argument was internally. Any confirmation of the hawkish tone will give us more sell pressure. Initial jobless claims Thursday July 9. Consumer credit data also Wednesday July 8.]\n\nJoin Premium: drprofitcrypto.com/\n\nTHIS IS NO FINANCIAL ADVICE BUT EDUCATIONAL CONTENT ONLY.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Bitcoin\">#Bitcoin</a> – What's Next?\n\nThe Big Sunday Report: All We Need to Know\n\n🚩 TA / LCA / Psychological Breakdown:\n\nTHE FINAL TRAP: Today I want to speak about the most important development on the chart right now, and it is going to be very interesting. I am watching the MA200 weekly closely, and what we are seeing is what looks like a retest of the MA200 weekly. Hold on, this is exactly the moment where things get dangerous. Let me take you back to 2022 to explain what is loading right now. In 2022, Bitcoin lost the MA200 weekly and everyone believed it was over. Then something happened that trapped everyone. A few weeks later, Bitcoin regained the MA200 weekly, and not only that, BTC printed three weekly closes above it. Bitcoin pumped 10% above the MA200 weekly in 2022, and guess what happened with the narrative? Everyone thought the bottom was in. \"Wow, MA200 weekly reclaimed, this is bullish, the bear is over.\" This is exactly what they said. And so many bought right above the MA200 weekly, believing it was the confirmation they needed. Just to get trapped again. This was the final trap, and this is what led directly to the capitulation event. The reclaim of the MA200 weekly in 2022 was not the bottom signal, it was the trap that preceded the final flush to 15-16k.\n\nWhy This Matters Right Now:\n\nLook at where we are today. Bitcoin lost the MA200 weekly. And now BTC is doing exactly what happened in 2022. It is testing the MA200 weekly from below, and there is a very real possibility that we see the same repeat. So in my idea there if we see a weekly close above MA200 Weekly, it will be definitely a trap! And for this case I told two weeks ago at 60k that I am placing short orders at 68-69k in case market allows to visit. This is exactly the setup I have been warning about for the last two weeks when I spoke about the white and blue lines converging and the death cross loading. The MA200 weekly retest is the key ingredient of the final trap, and history is about to repeat with almost perfect timing.\n\nThe reason this trap works every single time is because retail cannot resist a reclaim of a major moving average. When Bitcoin closes above the MA200 weekly, every one will be bullish and start FOMO buying. And this is exactly why it works. Market makers need this trap to build the maximum amount of long liquidity before the final flush. Without this trap, the capitulation would not have enough fuel. The final trap is what generates the liquidity for the final flush. This is how bear markets always end, and this is how this one will end too.\n\nWhy This Aligns With the CBB\n\nIf the 2022 pattern repeats, the final flush after the trap lands us directly at the CBB, the 40-50k zone where the BlackRock ETF launched. My timeline of September-October 2026 for the bottom aligns perfectly with the timing of a MA200 weekly reclaim happening now, followed by a fake bullish move in July-August, followed by the final rejection and capitulation in September-October. Every piece of the puzzle continues to fit. (Visit our website: <a href=\"https://drprofitcrypto.com/\">drprofitcrypto.com/</a>) The 2022 playbook, the death cross setup, the aSOPR realized losses, the MA200 weekly trap, and the CBB target all point to the same conclusion.\n\nMy Positioning\nBoth shorts remain fully open. The 120k big short and the 80,500 average are in deep profit. New short orders at 68-69k remain prepared in case the market allows another visit. The plan is for the macro move toward the CBB, but the sideways zone between 57-68k is not over yet. I would not bet on an upside move, but I would bet that if the market allows another visit to 68-69k, I add more into my shorts. I am not interested in adding below this zone. If the MA200 weekly reclaim scenario plays out and BTC pumps 10% above the line, this is the perfect zone for me to add aggressively.\n\nCalendar This Week:\n\nFOMC minutes from the June 16-17 meeting release Wednesday July 8 at 2:00 p.m. This is a major event because it was Warsh's first FOMC as Chair, and the meeting delivered a clear hawkish shift with the median federal funds forecast implying the potential for one rate HIKE before year-end 2026, not a cut. Exactly what I predicted in the June 14 Sunday report when I said the dovish pivot would not be delivered cleanly. The minutes will show how divided the Committee was and how strong the hawkish argument was internally. Any confirmation of the hawkish tone will give us more sell pressure. Initial jobless claims Thursday July 9. Consumer credit data also Wednesday July 8.]\n\nJoin Premium: <a href=\"https://drprofitcrypto.com/\">drprofitcrypto.com/</a>\n\nTHIS IS NO FINANCIAL ADVICE BUT EDUCATIONAL CONTENT ONLY.",
-      "publishedAt": "2026-07-05T18:49:00.000Z",
-      "link": "https://x.com/DrProfitCrypto/status/2073841776733941889",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMfEF-8WMAAz6g0.jpg"
         }
       ],
       "stats": {
