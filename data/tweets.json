@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T10:34:39.919Z",
+  "lastUpdated": "2026-07-12T11:28:25.135Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,143 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 643,
+    "newFetched": 644,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2076267339704893579",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "英伟达闭门路演都说什么了？回应了哪些传闻？本周大摩在加州组织了一场英伟达非交易路演，老黄、英伟达的CFO Colette Kress和IR 负责人Toshiya Har亲自出席出席，密集会见投资人。 这场闭门会主要针对市场对产品进度、ASIC竞争和增长可持续性的疑虑（FUD）进行澄清和回应。梳理下闭门会核心内容和要点：\n1、营收增长与整体展望（最受关注）\n1）单季营收已达千亿美元规模，且增速仍在加速上行。这被视为强劲信号，显示需求远超此前预期。\n2）Vera Rubin 产品周期景气度强劲，将为未来12个月带来显著的订单和营收增量，是短期增长主要驱动。\n3）大摩等机构给出乐观预测：2027财年营收约3930亿美元，2028财年约5988亿美元。\n4）CPU业务目标：本财年力争达到200亿美元。\n\n2、产品路线图与新品进度（重点辟谣）\n1）Rubin Ultra：明确将于明年（2027年）出货，彻底否认延后至2028年的市场传闻。路线图未变。\n2）Kyber机架：当前设计是过渡性方案，后续将被更优方案替代，以支持更大规模的单机架纵向扩展（更大计算集群）。这属于优化调整，而非延期或问题；路线图保持灵活性，可降低产能爬坡风险。\n3）核心技术按计划推进：\n◦800V供电系统。\n◦机架间光学纵向扩展（optical links/inter-rack optical vertical expansion）。\n•整体下一代产品周期（包括Rubin系列）无重大变化，黄仁勋亲自出面澄清，显示公司对进度的信心。\n\n3、ASIC竞争与市场份额\n1）即使部分云厂商和前沿AI实验室大力投入自定义ASIC（专用芯片），英伟达仍保持强势主导地位。\n2）关键案例：一家此前主要依赖ASIC进行前沿模型开发的大客户，已将英伟达GPU使用比例大幅提升至接近50%（市场猜测可能指向Anthropic等实验室）。这被视为重大验证——即使ASIC阵营也需要更多英伟达GPU。\n3）原因：英伟达在token使用成本最低，全栈生态（GPU + 网络 + 软件 + CPU等）形成强大护城河，前沿AI工作负载仍高度依赖其平台。\n4）AI实验室目前约占AI算力需求的20%，其需求增长显著。\n\n4、客户多元化与新增长引擎\n1）客户结构从过去高度依赖少数头部超大规模云厂商（hyperscalers），转向多元化：AI实验室、企业客户、新兴云服务提供商（neocloud）、主权AI（Sovereign AI）项目（数据安全、产业自主、地缘政治因素驱动，重要性上升）。\n2）新增长点（企业、主权AI、工业领域客户）可能比传统 hyperscalers 增长更快，降低集中度风险。\n\n5、供应链与供给约束\n1）内存（HBM等）供应紧缺预计将持续数年。AI token需求增长速度快于存储/内存产能扩张，导致行业性短缺（影响数据中心组件、GPU及AI运营）。\n黄仁勋明确表示，内存短缺是长期现象。\n2）整体供给仍为主要瓶颈，但英伟达正通过多元化供应链和规划应对。\n\n6、其他管理层观点与资本回报\n1）强劲自由现金流（FCF）支持股东回报：未来超过50%的现金流可能用于回购等股东回报。\n2）全AI基础设施平台（硬件+网络+软件）护城河持续加固。\n\n大摩总结：\n市场对产品延期、竞争和增长可持续性的担忧被夸大，英伟达“全速前进”（firing on all cylinders）。\n大摩维持强烈看好立场，并上调目标价至288美元（对应显著上行空间）。",
+      "contentHtml": "英伟达闭门路演都说什么了？回应了哪些传闻？本周大摩在加州组织了一场英伟达非交易路演，老黄、英伟达的CFO Colette Kress和IR 负责人Toshiya Har亲自出席出席，密集会见投资人。 这场闭门会主要针对市场对产品进度、ASIC竞争和增长可持续性的疑虑（FUD）进行澄清和回应。梳理下闭门会核心内容和要点：\n1、营收增长与整体展望（最受关注）\n1）单季营收已达千亿美元规模，且增速仍在加速上行。这被视为强劲信号，显示需求远超此前预期。\n2）Vera Rubin 产品周期景气度强劲，将为未来12个月带来显著的订单和营收增量，是短期增长主要驱动。\n3）大摩等机构给出乐观预测：2027财年营收约3930亿美元，2028财年约5988亿美元。\n4）CPU业务目标：本财年力争达到200亿美元。\n\n2、产品路线图与新品进度（重点辟谣）\n1）Rubin Ultra：明确将于明年（2027年）出货，彻底否认延后至2028年的市场传闻。路线图未变。\n2）Kyber机架：当前设计是过渡性方案，后续将被更优方案替代，以支持更大规模的单机架纵向扩展（更大计算集群）。这属于优化调整，而非延期或问题；路线图保持灵活性，可降低产能爬坡风险。\n3）核心技术按计划推进：\n◦800V供电系统。\n◦机架间光学纵向扩展（optical links/inter-rack optical vertical expansion）。\n•整体下一代产品周期（包括Rubin系列）无重大变化，黄仁勋亲自出面澄清，显示公司对进度的信心。\n\n3、ASIC竞争与市场份额\n1）即使部分云厂商和前沿AI实验室大力投入自定义ASIC（专用芯片），英伟达仍保持强势主导地位。\n2）关键案例：一家此前主要依赖ASIC进行前沿模型开发的大客户，已将英伟达GPU使用比例大幅提升至接近50%（市场猜测可能指向Anthropic等实验室）。这被视为重大验证——即使ASIC阵营也需要更多英伟达GPU。\n3）原因：英伟达在token使用成本最低，全栈生态（GPU + 网络 + 软件 + CPU等）形成强大护城河，前沿AI工作负载仍高度依赖其平台。\n4）AI实验室目前约占AI算力需求的20%，其需求增长显著。\n\n4、客户多元化与新增长引擎\n1）客户结构从过去高度依赖少数头部超大规模云厂商（hyperscalers），转向多元化：AI实验室、企业客户、新兴云服务提供商（neocloud）、主权AI（Sovereign AI）项目（数据安全、产业自主、地缘政治因素驱动，重要性上升）。\n2）新增长点（企业、主权AI、工业领域客户）可能比传统 hyperscalers 增长更快，降低集中度风险。\n\n5、供应链与供给约束\n1）内存（HBM等）供应紧缺预计将持续数年。AI token需求增长速度快于存储/内存产能扩张，导致行业性短缺（影响数据中心组件、GPU及AI运营）。\n黄仁勋明确表示，内存短缺是长期现象。\n2）整体供给仍为主要瓶颈，但英伟达正通过多元化供应链和规划应对。\n\n6、其他管理层观点与资本回报\n1）强劲自由现金流（FCF）支持股东回报：未来超过50%的现金流可能用于回购等股东回报。\n2）全AI基础设施平台（硬件+网络+软件）护城河持续加固。\n\n大摩总结：\n市场对产品延期、竞争和增长可持续性的担忧被夸大，英伟达“全速前进”（firing on all cylinders）。\n大摩维持强烈看好立场，并上调目标价至288美元（对应显著上行空间）。",
+      "publishedAt": "2026-07-12T11:28:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2076267339704893579",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "关于SemiAnalysis说“英伟达KyberNVL144机架架构出现大规模延迟”这篇推文，可能很多人都不理Rubin，Rubin Ultra两种芯片型号，Oberon和Kyber这两种机架型号的区别是什么？需要关注的点：\n1、Rubin是GPU架构（芯片层面），搭配Vera CPU，2026下半年开始量产出货（6月初台北电脑展已经展示量产机型了）使用Oberon机架（NVL72规模）。\n\n2、Rubin Ultra是Rubin的升级加强版（更多内存、更高性能配置），计划在2027年推出，使用Kyber机架。Kyber机架是专门为Rubin Ultra设计的新一代高密度机架，目标是把单机架GPU数量从72提升到144，通过更先进的 NVLink 实现更大的“scale-up 域”（把更多 GPU 像一个大 GPU 一样紧密连接）。\n\nSemi说的延迟就是这个Kyber机架因为PCB中板的可制造性可能出现延迟。\n\n3、在英伟达的规划里，Rubin Ultra NVL144(Kyber机柜架构）本身就要到27年才会推出，量产可能也就到27年下半年去了。毕竟rubin的NVL 72今年才半年才能量产嘛。其实不用过多关注kyber的进度，其实一切按照达子的预期节奏推动，Kyber量产落地也要到明年下半年去了。\n\n4、然后SemiAnalysis说一个原本计划在27年下半年才能量产落地的Kyber NVL144机架架构要落后延迟到28年。大家都再说英伟达要延迟了🤣\n\n重点还是关注今年Rubin NV72（Oberon 机架）量产落地的节奏。",
+        "contentHtml": "关于SemiAnalysis说“英伟达KyberNVL144机架架构出现大规模延迟”这篇推文，可能很多人都不理Rubin，Rubin Ultra两种芯片型号，Oberon和Kyber这两种机架型号的区别是什么？需要关注的点：\n1、Rubin是GPU架构（芯片层面），搭配Vera CPU，2026下半年开始量产出货（6月初台北电脑展已经展示量产机型了）使用Oberon机架（NVL72规模）。\n\n2、Rubin Ultra是Rubin的升级加强版（更多内存、更高性能配置），计划在2027年推出，使用Kyber机架。Kyber机架是专门为Rubin Ultra设计的新一代高密度机架，目标是把单机架GPU数量从72提升到144，通过更先进的 NVLink 实现更大的“scale-up 域”（把更多 GPU 像一个大 GPU 一样紧密连接）。\n\nSemi说的延迟就是这个Kyber机架因为PCB中板的可制造性可能出现延迟。\n\n3、在英伟达的规划里，Rubin Ultra NVL144(Kyber机柜架构）本身就要到27年才会推出，量产可能也就到27年下半年去了。毕竟rubin的NVL 72今年才半年才能量产嘛。其实不用过多关注kyber的进度，其实一切按照达子的预期节奏推动，Kyber量产落地也要到明年下半年去了。\n\n4、然后SemiAnalysis说一个原本计划在27年下半年才能量产落地的Kyber NVL144机架架构要落后延迟到28年。大家都再说英伟达要延迟了🤣\n\n重点还是关注今年Rubin NV72（Oberon 机架）量产落地的节奏。",
+        "link": "https://x.com/qinbafrank/status/2074024963892457544",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMhnmJmbwAAnoqn.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2076265896218104038",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "Update: I managed to ape $80k on France at 1.675x on hl\n\nHyperliquid.",
+      "contentHtml": "Update: I managed to ape $80k on France at 1.675x on hl\n\nHyperliquid.",
+      "publishedAt": "2026-07-12T11:22:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2076265896218104038",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNBgsdJWsAEdBl7.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Cbb0fe",
+        "displayName": "CBB",
+        "content": "Can someone explain why odds are better on a regulated bookmaker like Winamax than on Polymarket?\n\nWinamax has to pay for marketing, staff, licenses, compliance, taxes...\n\nPolymarket is a permissionless market where anyone can market make.\n\nYet France to qualify is 1.65x on Winamax vs 1.633x on Polymarket.\n\nWhat am I missing?",
+        "contentHtml": "Can someone explain why odds are better on a regulated bookmaker like Winamax than on Polymarket?\n\nWinamax has to pay for marketing, staff, licenses, compliance, taxes...\n\nPolymarket is a permissionless market where anyone can market make.\n\nYet France to qualify is 1.65x on Winamax vs 1.633x on Polymarket.\n\nWhat am I missing?",
+        "link": "https://x.com/Cbb0fe/status/2075956464665948321",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HM9GIoWWEAAVr2p.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2076259878780228063",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Giveaway winner, please DM.\n\n🏆 @joha_11_\n\nVerify it: twxpicker.com · Draw ID: 970110085097",
+      "contentHtml": "Giveaway winner, please DM.\n\n🏆 <a href=\"/joha_11_\" title=\"joha_11\">@joha_11_</a>\n\nVerify it: <a href=\"http://twxpicker.com\">twxpicker.com</a> · Draw ID: 970110085097",
+      "publishedAt": "2026-07-12T10:58:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2076259878780228063",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2076254714061307973",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "1211.4% 的回报率，又一位在 Robinhood Chain 以小博大的朋友落袋为安了💰\n\n地址 0xae0…72b92 六天前以 $0.00664 的低价买入 1190 美元的 $CASHCAT，8 小时前以 $0.17585 全部卖出离场，最终获利 1.44 万美元\n\n传送门 👉 debot.ai/address/robinhood/0…",
+      "contentHtml": "1211.4% 的回报率，又一位在 Robinhood Chain 以小博大的朋友落袋为安了💰\n\n地址 0xae0…72b92 六天前以 $0.00664 的低价买入 1190 美元的 $CASHCAT，8 小时前以 $0.17585 全部卖出离场，最终获利 1.44 万美元\n\n传送门 👉 <a href=\"https://debot.ai/address/robinhood/0xae0f6a971fb3e7cc671aef6e168c5c9788f72b92?ref=174084\">debot.ai/address/robinhood/0…</a>",
+      "publishedAt": "2026-07-12T10:37:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2076254714061307973",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNBWo-raIAAamcv.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "Memecoin 正成为 Robinhood Chain 的流量密码👩‍💻\n\n▶︎ $CASHCAT 五小时速通 1 亿美金\n▶︎ CEO @vladtenev 亲自下场带节奏\n▶︎ 一天新币过万，单日 DEX 交易量超 5.6 亿美元，\n\n新的龙一已经出现，如何快速上手新公链，搞定钱包 / 跨链 / DEX / 数据工具，看这一篇就够了🧵👇\n\n1/ 钱包\n\nRobinhood Chain(@RobinhoodCrypto) 是 L2 网络，最简单的方式就是用 OKX / Binance / Metamask 等常用钱包添加网络了，这里是官方网络给出的各大主流钱包「一键添加」传送门 👉 docs.robinhood.com/chain/add…\n\n以防万一你想手动添加 👉 Chain ID：4663，区块链浏览器：robinhoodchain.blockscout.co…\n\n当然官方也推出了自己的 Robinhood Wallet，iOS 或安卓都能下载到移动端应用，集成会更深度一些\n\n2/ 跨链\n\n1️⃣ 官方跨链桥：portal.arbitrum.io/bridge?de…（注意提现会有 7 天的等待期）\n2️⃣ Robinhood Wallet：钱包集成了跨链功能，懒得挑可以直接用\n3️⃣ 第三方聚合器：按需挑选即可\nRelay: relay.link/bridge/robinhood\nStargate: relay.link/bridge/robinhood\nAcross: across.to/?to=robinhood\n\n3/ DEX\n\n1️⃣ Uniswap：老面孔，交易时选对应网络就行\n2️⃣ NOXA Fun：Robinhood 发射台，类似于 Pumpfun 👉 fun.noxa.fi/robinhood\n\n4/ Meme 看盘工具\n\n1️⃣ DEXScreener @dexscreener：dexscreener.com/robinhood\n2️⃣ GMGN @gmgnai：gmgn.ai/?ref=0ZhKy06I\n\n冲狗 BOT 涉及安全风险就不在这罗列了，如果其他好用的工具欢迎大家在评论区补充，最后如果你喜欢本条推文，记得关注 / 转发 / 点赞一键三连哦🥰",
+        "contentHtml": "Memecoin 正成为 Robinhood Chain 的流量密码👩‍💻\n\n▶︎ <a href=\"/search?f=tweets&q=%23CASHCAT\">$CASHCAT</a> 五小时速通 1 亿美金\n▶︎ CEO <a href=\"/vladtenev\" title=\"Vlad Tenev\">@vladtenev</a> 亲自下场带节奏\n▶︎ 一天新币过万，单日 DEX 交易量超 5.6 亿美元，\n\n新的龙一已经出现，如何快速上手新公链，搞定钱包 / 跨链 / DEX / 数据工具，看这一篇就够了🧵👇\n\n1/ 钱包\n\nRobinhood Chain(<a href=\"/RobinhoodCrypto\" title=\"Robinhood Crypto\">@RobinhoodCrypto</a>) 是 L2 网络，最简单的方式就是用 OKX / Binance / Metamask 等常用钱包添加网络了，这里是官方网络给出的各大主流钱包「一键添加」传送门 👉 <a href=\"https://docs.robinhood.com/chain/add-network-to-wallet/\">docs.robinhood.com/chain/add…</a>\n\n以防万一你想手动添加 👉 Chain ID：4663，区块链浏览器：<a href=\"https://robinhoodchain.blockscout.com/\">robinhoodchain.blockscout.co…</a>\n\n当然官方也推出了自己的 Robinhood Wallet，iOS 或安卓都能下载到移动端应用，集成会更深度一些\n\n2/ 跨链\n\n1️⃣ 官方跨链桥：<a href=\"https://portal.arbitrum.io/bridge?destinationChain=robinhood-chain&sourceChain=ethereum\">portal.arbitrum.io/bridge?de…</a>（注意提现会有 7 天的等待期）\n2️⃣ Robinhood Wallet：钱包集成了跨链功能，懒得挑可以直接用\n3️⃣ 第三方聚合器：按需挑选即可\nRelay: <a href=\"https://relay.link/bridge/robinhood\">relay.link/bridge/robinhood</a>\nStargate: <a href=\"https://relay.link/bridge/robinhood\">relay.link/bridge/robinhood</a>\nAcross: <a href=\"https://across.to/?to=robinhood\">across.to/?to=robinhood</a>\n\n3/ DEX\n\n1️⃣ Uniswap：老面孔，交易时选对应网络就行\n2️⃣ NOXA Fun：Robinhood 发射台，类似于 Pumpfun 👉 <a href=\"https://fun.noxa.fi/robinhood\">fun.noxa.fi/robinhood</a>\n\n4/ Meme 看盘工具\n\n1️⃣ DEXScreener <a href=\"/dexscreener\" title=\"DEX Screener\">@dexscreener</a>：<a href=\"https://dexscreener.com/robinhood\">dexscreener.com/robinhood</a>\n2️⃣ GMGN <a href=\"/gmgnai\" title=\"GMGN.Ai\">@gmgnai</a>：<a href=\"https://gmgn.ai/?ref=0ZhKy06I\">gmgn.ai/?ref=0ZhKy06I</a>\n\n冲狗 BOT 涉及安全风险就不在这罗列了，如果其他好用的工具欢迎大家在评论区补充，最后如果你喜欢本条推文，记得关注 / 转发 / 点赞一键三连哦🥰",
+        "link": "https://x.com/ai_9684xtpa/status/2075124045151125600",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMxSAZsbkAAvGFi.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2076253328455913566",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "$BTC \n\nWe had 2 hunts of the lows. Next week the area to observe is above 64.7K. \n\nStructure currently suggests that we take the highs before any decisive movement back down.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWe had 2 hunts of the lows. Next week the area to observe is above 64.7K. \n\nStructure currently suggests that we take the highs before any decisive movement back down.",
+      "publishedAt": "2026-07-12T10:32:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2076253328455913566",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNBU8zfWYAAmI1K.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2076247732512301354",
       "username": "coinkarma_",
@@ -12094,120 +12226,6 @@
           "url": "https://pbs.twimg.com/media/HMfEF-8WMAAz6g0.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073831894081228941",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "I have been a user of @ether_fi for almost a year now\n\nAs someone who has been hating on the banking system since 2021, all I can say is that it completely changed my banking experience\n\n>5% yield on stables, Low FX fees, great support\n\nIt's become my primary card\n\nMy only issue is it makes crypto so easy to spend that I'm probably spending more than before\n\n(Not paid. Don't own any tokens. Just genuinely like the product and the team)",
-      "contentHtml": "I have been a user of <a href=\"/ether_fi\" title=\"ether.fi\">@ether_fi</a> for almost a year now\n\nAs someone who has been hating on the banking system since 2021, all I can say is that it completely changed my banking experience\n\n&gt;5% yield on stables, Low FX fees, great support\n\nIt's become my primary card\n\nMy only issue is it makes crypto so easy to spend that I'm probably spending more than before\n\n(Not paid. Don't own any tokens. Just genuinely like the product and the team)",
-      "publishedAt": "2026-07-05T18:10:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2073831894081228941",
-      "quote": {
-        "username": "MikeSilagadze",
-        "displayName": "Mike Silagadze🛡",
-        "content": "The @ether_fi product is absurdly better than anything else. \n\nMost importantly, you can actually trust the team. No hidden fees, no lies about cashback, no forcing users to stake some shitcoin.\n\nWe suck at marketing tho.",
-        "contentHtml": "The <a href=\"/ether_fi\" title=\"ether.fi\">@ether_fi</a> product is absurdly better than anything else. \n\nMost importantly, you can actually trust the team. No hidden fees, no lies about cashback, no forcing users to stake some shitcoin.\n\nWe suck at marketing tho.",
-        "link": "https://x.com/MikeSilagadze/status/2073736382564999308"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073825327902593320",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "In 5 days, I release everything I know... $BTC\n\nAll the pivots I've kept behind closed doors. Understanding herd mentality and how market makers manipulate narratives around certain periods. \n\nLearn to think like the predator, not the prey.\n\nHow I view the markets, how I see through the narratives, you'll be learning directly from me.\n\nI'm completely self taught. All of my psychological dates are unique because I figured them out myself, which is why my style is increasingly unique. 10,000+ hours.\n\nYou won’t find anything about my pivot strategy anywhere else, simply because it doesn’t exist elsewhere. It’s entirely my own perspective, my way of interpreting and understanding the markets for what they truly are.\n\nSign-ups will only be open for 48 hours from the 10th, with limited spots available. After that, everything closes for 3 months.\n\nInside you'll get:\n• My 7 custom pivot indicators.\n• My 7 custom pivot indicators.\n• 100+ pages of PDFs explaining my terminology\n• 50+ videos explaining everything I use.\n• Private discord group\n\nKnowledge is everything in this game. If you truly want to progress and become a better trader, you need to invest in yourself. Especially before the bull market begins. \n\nMore details will be available on the 10th about how to obtain access. 48h only.",
-      "contentHtml": "In 5 days, I release everything I know... <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nAll the pivots I've kept behind closed doors. Understanding herd mentality and how market makers manipulate narratives around certain periods. \n\nLearn to think like the predator, not the prey.\n\nHow I view the markets, how I see through the narratives, you'll be learning directly from me.\n\nI'm completely self taught. All of my psychological dates are unique because I figured them out myself, which is why my style is increasingly unique. 10,000+ hours.\n\nYou won’t find anything about my pivot strategy anywhere else, simply because it doesn’t exist elsewhere. It’s entirely my own perspective, my way of interpreting and understanding the markets for what they truly are.\n\nSign-ups will only be open for 48 hours from the 10th, with limited spots available. After that, everything closes for 3 months.\n\nInside you'll get:\n• My 7 custom pivot indicators.\n• My 7 custom pivot indicators.\n• 100+ pages of PDFs explaining my terminology\n• 50+ videos explaining everything I use.\n• Private discord group\n\nKnowledge is everything in this game. If you truly want to progress and become a better trader, you need to invest in yourself. Especially before the bull market begins. \n\nMore details will be available on the 10th about how to obtain access. 48h only.",
-      "publishedAt": "2026-07-05T17:44:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2073825327902593320",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMe0I0CXEAAiULp.jpg"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "The countdown begins.\n\nOn July 10th, I'll be releasing my $BTC Institutional Framework, the most comprehensive breakdown of my market methodology to date.\n\nFor years, people have asked how I approach the markets.\n\n▶️ How I establish  directional bias.\n▶️ How I identify institutional liquidity.\n▶️ How I map ranges and key areas of interest.\n▶️ How I interpret market maker positioning.\n\n▶️And most importantly, how I align myself with the flow of institutional capital rather than trade against it.\n\nMy framework brings every component together.\n\nNot a collection of isolated strategies, but a complete operating framework built around how I analyze, interpret, and execute within the market every single day, across both HTF and LTF environments.\n\nEvery concept is built around the principles I use daily:\n\n• Market structure and narrative development.\n• Liquidity engineering and inducement.\n• Institutional accumulation and distribution.\n• Premium and discount array analysis.\n• Order flow alignment.\n• Precision execution across HTF and LTF \n\nThe difference between consistency and inconsistency often comes down to understanding the objectives of the dominant participants driving price.\n\nThrough my guidance, you'll develop the ability to interpret market conditions with greater clarity, recognize institutional participation, and execute within a framework built upon liquidity dynamics, order flow, psychological pivot points, market manipulation, and MM objectives.\n\nThe goal is not to trade more.\n\nThe goal is to think like the participants moving the market and position yourself in alignment with them.\n\nJuly 10th. Be Ready ⚡️",
-        "contentHtml": "The countdown begins.\n\nOn July 10th, I'll be releasing my <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> Institutional Framework, the most comprehensive breakdown of my market methodology to date.\n\nFor years, people have asked how I approach the markets.\n\n▶️ How I establish  directional bias.\n▶️ How I identify institutional liquidity.\n▶️ How I map ranges and key areas of interest.\n▶️ How I interpret market maker positioning.\n\n▶️And most importantly, how I align myself with the flow of institutional capital rather than trade against it.\n\nMy framework brings every component together.\n\nNot a collection of isolated strategies, but a complete operating framework built around how I analyze, interpret, and execute within the market every single day, across both HTF and LTF environments.\n\nEvery concept is built around the principles I use daily:\n\n• Market structure and narrative development.\n• Liquidity engineering and inducement.\n• Institutional accumulation and distribution.\n• Premium and discount array analysis.\n• Order flow alignment.\n• Precision execution across HTF and LTF \n\nThe difference between consistency and inconsistency often comes down to understanding the objectives of the dominant participants driving price.\n\nThrough my guidance, you'll develop the ability to interpret market conditions with greater clarity, recognize institutional participation, and execute within a framework built upon liquidity dynamics, order flow, psychological pivot points, market manipulation, and MM objectives.\n\nThe goal is not to trade more.\n\nThe goal is to think like the participants moving the market and position yourself in alignment with them.\n\nJuly 10th. Be Ready ⚡️",
-        "link": "https://x.com/KillaXBT/status/2061161661378245049",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HJq3ckJXEAIViAX.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073801471356019006",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
-      "content": "If the child loved the parents as much as the parents loved the child, their passing would be intolerable.",
-      "contentHtml": "If the child loved the parents as much as the parents loved the child, their passing would be intolerable.",
-      "publishedAt": "2026-07-05T16:09:00.000Z",
-      "link": "https://x.com/naval/status/2073801471356019006",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073785402029130236",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "7/7 Mondays have been absolutely terrible for $BTC. \n\nWill we repeat the exact same pattern next week? \n\nTime to f*ck around and find out. If BTC keeps pushing up through Monday, there's a good chance we see a 3–4% retracement back down.",
-      "contentHtml": "7/7 Mondays have been absolutely terrible for <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>. \n\nWill we repeat the exact same pattern next week? \n\nTime to f*ck around and find out. If BTC keeps pushing up through Monday, there's a good chance we see a 3–4% retracement back down.",
-      "publishedAt": "2026-07-05T15:05:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2073785402029130236",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMeQfomWMAAZchD.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2073782200202617149",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#macOS \n\n在 AI 的排查下，我的这个 macOS 卡顿问题彻底解决了。\n\n1.（主因）LG 27GX790B 显示器和 macOS 兼容性问题。\n\nmacOS 的 DSC 驱动常年一直滞后，容易出问题，这个从黑苹果时代一直延续到今天。\n\n2. （附因）BetterTouchTool 增加卡顿，且大退之后保护进程又自动重启，因此之前没有排查到。\n\n最后解决办法：\n\n买一条 TypeC - HDMI2.0（注意不能 HDMI2.1），硬件降级到 2k144hz 使用。\n\n说实话技术细节我也不明白，AI 写了一篇放在：github.com/taresky/lg-27gx79…",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23macOS\">#macOS</a> \n\n在 AI 的排查下，我的这个 macOS 卡顿问题彻底解决了。\n\n1.（主因）LG 27GX790B 显示器和 macOS 兼容性问题。\n\nmacOS 的 DSC 驱动常年一直滞后，容易出问题，这个从黑苹果时代一直延续到今天。\n\n2. （附因）BetterTouchTool 增加卡顿，且大退之后保护进程又自动重启，因此之前没有排查到。\n\n最后解决办法：\n\n买一条 TypeC - HDMI2.0（注意不能 HDMI2.1），硬件降级到 2k144hz 使用。\n\n说实话技术细节我也不明白，AI 写了一篇放在：<a href=\"https://github.com/taresky/lg-27gx790b-macos-dsc-panic\">github.com/taresky/lg-27gx79…</a>",
-      "publishedAt": "2026-07-05T14:53:00.000Z",
-      "link": "https://x.com/taresky/status/2073782200202617149",
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "有一个神奇的 bug，我的 Mac 窗口有迟滞，拖动窗口的时候会缓慢半拍，重启也无解，把所有运行中的 app 关闭也无解。\n\n但是只要把 WindowServer 强行关闭，让系统死机注销之后，一切就会恢复流畅。直到再次重启又恢复迟滞。\n\n日志吐给 AI 也没有找到原因。推友们有啥思路吗？",
-        "contentHtml": "有一个神奇的 bug，我的 Mac 窗口有迟滞，拖动窗口的时候会缓慢半拍，重启也无解，把所有运行中的 app 关闭也无解。\n\n但是只要把 WindowServer 强行关闭，让系统死机注销之后，一切就会恢复流畅。直到再次重启又恢复迟滞。\n\n日志吐给 AI 也没有找到原因。推友们有啥思路吗？",
-        "link": "https://x.com/taresky/status/2056910995881414720"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
