@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T13:36:15.565Z",
+  "lastUpdated": "2026-07-15T14:39:05.538Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,84 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 646,
+    "newFetched": 645,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2077401238480797898",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "存储杀人了，反观加密挺起脊梁！",
+      "contentHtml": "存储杀人了，反观加密挺起脊梁！",
+      "publishedAt": "2026-07-15T14:33:00.000Z",
+      "link": "https://x.com/hazenlee/status/2077401238480797898",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077398539269963806",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "自信点菜✌️",
+      "contentHtml": "自信点菜✌️",
+      "publishedAt": "2026-07-15T14:23:00.000Z",
+      "link": "https://x.com/taresky/status/2077398539269963806",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNRm9cAaQAAPuMq.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077396435793035500",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
+      "content": "昨天有个2倍杠杆做多个股lucid的etf lcdl爆仓了，因为正股单日最大跌幅57%，尽管收盘跌幅只有16%，但etf已经穿仓净值为0，准备退市。\n\n一般来说都会给机构补保证金时间，不会因为短期触达爆仓价格就清算，但因为etf本身是独立的基金池，没有潜在外部的保证金补充能力，所以交易对手不会给补保证金的时间。\n\n而南方东英海力士7709，遇到这样的风险相对小一些：\n\n首先，韩国个股有30%单日最大跌幅保护，单日无法触发清算\n\n其次，7709产品文件写明，南方东英已与每一个掉期交易对手预先约定止损机制：在海力士出现极端波动时，目标是让相关掉期头寸至少保留前一个正常营业日NAV的10%，然后可能平掉掉期、暂停7709交易，或视市场情况重新建立掉期。即使正股连续两天直接跌停30%，管理人盘中也通过场外交易止损了。当然如果遇到连续两天跌30%，净值也损失了90%，且失去后续反弹敞口，只是比归零略好一点\n$SKHY $LCDL",
+      "contentHtml": "昨天有个2倍杠杆做多个股lucid的etf lcdl爆仓了，因为正股单日最大跌幅57%，尽管收盘跌幅只有16%，但etf已经穿仓净值为0，准备退市。\n\n一般来说都会给机构补保证金时间，不会因为短期触达爆仓价格就清算，但因为etf本身是独立的基金池，没有潜在外部的保证金补充能力，所以交易对手不会给补保证金的时间。\n\n而南方东英海力士7709，遇到这样的风险相对小一些：\n\n首先，韩国个股有30%单日最大跌幅保护，单日无法触发清算\n\n其次，7709产品文件写明，南方东英已与每一个掉期交易对手预先约定止损机制：在海力士出现极端波动时，目标是让相关掉期头寸至少保留前一个正常营业日NAV的10%，然后可能平掉掉期、暂停7709交易，或视市场情况重新建立掉期。即使正股连续两天直接跌停30%，管理人盘中也通过场外交易止损了。当然如果遇到连续两天跌30%，净值也损失了90%，且失去后续反弹敞口，只是比归零略好一点\n<a href=\"/search?f=tweets&q=%23SKHY\">$SKHY</a> <a href=\"/search?f=tweets&q=%23LCDL\">$LCDL</a>",
+      "publishedAt": "2026-07-15T14:14:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2077396435793035500",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077395966152622165",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "让麻吉赢一次！！！",
+      "contentHtml": "让麻吉赢一次！！！",
+      "publishedAt": "2026-07-15T14:12:00.000Z",
+      "link": "https://x.com/hazenlee/status/2077395966152622165",
+      "quote": {
+        "username": "machibigbrother",
+        "displayName": "Machi Big Brother",
+        "content": "Bullish",
+        "contentHtml": "Bullish",
+        "link": "https://x.com/machibigbrother/status/2077388780143526383"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2077382793034899746",
       "username": "daidaibtc",
@@ -12130,94 +12203,6 @@
         "username": "OwenJin12",
         "displayName": "Owen.btc 🟧"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2074867203141214709",
-      "username": "Frenchie_",
-      "displayName": "Frenchie",
-      "avatar": "https://pbs.twimg.com/profile_images/1882924985678782464/OztKIA-r_bigger.jpg",
-      "content": "Attachez vos ceintures,\n\nDimanche à 21h00\n\nJe recevrai @Cbb0fe pour parler recherche d’alpha, construction de thèses, parcours, projets et vision des marchés\n\nDe grandes choses à vous annoncer",
-      "contentHtml": "Attachez vos ceintures,\n\nDimanche à 21h00\n\nJe recevrai <a href=\"/Cbb0fe\" title=\"CBB\">@Cbb0fe</a> pour parler recherche d’alpha, construction de thèses, parcours, projets et vision des marchés\n\nDe grandes choses à vous annoncer",
-      "publishedAt": "2026-07-08T14:44:00.000Z",
-      "link": "https://x.com/Frenchie_/status/2074867203141214709",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMtoVL8XQAAzlPG.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "Cbb0fe",
-        "displayName": "CBB"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2074863489189818392",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "I’m very confident that $BTC is exactly at this point.",
-      "contentHtml": "I’m very confident that <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> is exactly at this point.",
-      "publishedAt": "2026-07-08T14:29:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2074863489189818392",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMtlVYnXQAARbtM.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2074860046522167491",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "纳指标准的VAL和POC",
-      "contentHtml": "纳指标准的VAL和POC",
-      "publishedAt": "2026-07-08T14:15:00.000Z",
-      "link": "https://x.com/hazenlee/status/2074860046522167491",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMtiNQ1asAAZRRl.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2074855505252770260",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "MU大单看涨终于来了\n$MU \n\n一个月后看涨到1200刀\n\n权利金 3.5M",
-      "contentHtml": "MU大单看涨终于来了\n<a href=\"/search?f=tweets&q=%23MU\">$MU</a> \n\n一个月后看涨到1200刀\n\n权利金 3.5M",
-      "publishedAt": "2026-07-08T13:57:00.000Z",
-      "link": "https://x.com/octopusycc/status/2074855505252770260",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMtd8VMbAAAtUWQ.png"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
