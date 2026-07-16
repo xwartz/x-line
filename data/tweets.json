@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T15:36:10.550Z",
+  "lastUpdated": "2026-07-16T22:25:15.950Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,342 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 630,
-    "successUsers": 31,
-    "failedUsers": 1
+    "newFetched": 645,
+    "successUsers": 32,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2077881294235861116",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "以我对 X 团队的了解，如果你升级新套餐，他们可能无法处理旧套餐的退款…\n\n解决了就付费，观望。",
+      "contentHtml": "以我对 X 团队的了解，如果你升级新套餐，他们可能无法处理旧套餐的退款…\n\n解决了就付费，观望。",
+      "publishedAt": "2026-07-16T22:21:00.000Z",
+      "link": "https://x.com/taresky/status/2077881294235861116",
+      "quote": {
+        "username": "m1ssuo",
+        "displayName": "Vincent Yang",
+        "content": "严肃订阅 SuperGrok Heavy",
+        "contentHtml": "严肃订阅 SuperGrok Heavy",
+        "link": "https://x.com/m1ssuo/status/2077832388776984839"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077878170590572791",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "8点半，美东",
+      "contentHtml": "8点半，美东",
+      "publishedAt": "2026-07-16T22:08:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2077878170590572791",
+      "quote": {
+        "username": "JOY2398802",
+        "displayName": "ABCD11",
+        "content": "今天的直播什么时候呀！",
+        "contentHtml": "今天的直播什么时候呀！",
+        "link": "https://x.com/JOY2398802/status/2077874863281225894"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077873783038222710",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "刚听完财报会议，不喜欢这次的财报，把开仓的仓位盘后止损了，估值和历史比很便宜，但基本面的方向我不是很喜欢，和上季度财报会议信心有差",
+      "contentHtml": "刚听完财报会议，不喜欢这次的财报，把开仓的仓位盘后止损了，估值和历史比很便宜，但基本面的方向我不是很喜欢，和上季度财报会议信心有差",
+      "publishedAt": "2026-07-16T21:51:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2077873783038222710",
+      "quote": {
+        "username": "Dufo374",
+        "displayName": "Daiwei Lin",
+        "content": "🍑总isrg出财报了，据说是指引很差，个人感觉并不差。求分析",
+        "contentHtml": "🍑总isrg出财报了，据说是指引很差，个人感觉并不差。求分析",
+        "link": "https://x.com/Dufo374/status/2077865695690289230"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077866438883250311",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "If $BTC fails to flip this, we’re likely heading to 60-62K.",
+      "contentHtml": "If <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> fails to flip this, we’re likely heading to 60-62K.",
+      "publishedAt": "2026-07-16T21:22:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2077866438883250311",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNYQMh0WgAAk-WT.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077842929071038633",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "昨天GLM5.2今天KIMI3，闭源模型受到挑战，这是好事，且不会影响硬件端，最终真有可能模型变成商品（CRM CEO一直的观点），所以不压住模型的方向是正确的。\n到今天为止，思考AI创造的价值，多数都在CODING，且集中在B端，非常合理，因为美国的科技公司有钱，且愿意花钱。随着开源模型的不断追赶，我期待AI AGENT的话题会被再次带起，和C端有像样的产品落地（另外一个GPT MOMENT）",
+      "contentHtml": "昨天GLM5.2今天KIMI3，闭源模型受到挑战，这是好事，且不会影响硬件端，最终真有可能模型变成商品（CRM CEO一直的观点），所以不压住模型的方向是正确的。\n到今天为止，思考AI创造的价值，多数都在CODING，且集中在B端，非常合理，因为美国的科技公司有钱，且愿意花钱。随着开源模型的不断追赶，我期待AI AGENT的话题会被再次带起，和C端有像样的产品落地（另外一个GPT MOMENT）",
+      "publishedAt": "2026-07-16T19:48:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2077842929071038633",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077838890627682773",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
+      "content": "虽然每次都说不一样, 但是每次冲进来的新买家都会经历一样的暴打, 因为个体的智商在群体的行为里其实就是零",
+      "contentHtml": "虽然每次都说不一样, 但是每次冲进来的新买家都会经历一样的暴打, 因为个体的智商在群体的行为里其实就是零",
+      "publishedAt": "2026-07-16T19:32:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2077838890627682773",
+      "quote": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+        "content": "MOOD",
+        "contentHtml": "MOOD",
+        "link": "https://x.com/DoveyWan/status/2072511370051067906",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMMJz-zboAAW2h5.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077838306008813954",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
+      "content": "大号讲比较多市场结构的判断和预警等等, 就不来回搬运了. 感兴趣的自己看",
+      "contentHtml": "大号讲比较多市场结构的判断和预警等等, 就不来回搬运了. 感兴趣的自己看",
+      "publishedAt": "2026-07-16T19:30:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2077838306008813954",
+      "quote": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+        "content": "Glad crypto has trained me be extremely vigilant on this. From kichim premium in every crypto cycle now to memory stocks, Korea may be one of the cleanest late cycle indicators in global riskon assets. not just because Kr retail is exuberant degens, more on the market structure itself fuels retail heat even more\n\nKorea launched single-stock leveraged products on May 27, after the move had already gone vertical, local kr retail flood into it at peak narrative velocity vs investors in the HK-listed leveraged product still had months of upside cushion\n\nWhen a crowded national equity market adds leverage to its hottest stock after the reflexive phase begun, the product launch itself makes the formation of topping signal\n\nThis happens every time in crypto cycle as well when local Korean exchanges listed assets mostly after they have gone up parabolic in global exchanges elsewhere, making poor korean retail as the last exit liquidity ..",
+        "contentHtml": "Glad crypto has trained me be extremely vigilant on this. From kichim premium in every crypto cycle now to memory stocks, Korea may be one of the cleanest late cycle indicators in global riskon assets. not just because Kr retail is exuberant degens, more on the market structure itself fuels retail heat even more\n\nKorea launched single-stock leveraged products on May 27, after the move had already gone vertical, local kr retail flood into it at peak narrative velocity vs investors in the HK-listed leveraged product still had months of upside cushion\n\nWhen a crowded national equity market adds leverage to its hottest stock after the reflexive phase begun, the product launch itself makes the formation of topping signal\n\nThis happens every time in crypto cycle as well when local Korean exchanges listed assets mostly after they have gone up parabolic in global exchanges elsewhere, making poor korean retail as the last exit liquidity ..",
+        "link": "https://x.com/DoveyWan/status/2077836621408567755",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNXyMSxaAAAB44p.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077836621408567755",
+      "username": "DoveyWan",
+      "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+      "avatar": "https://pbs.twimg.com/profile_images/1842438817397297152/0WZDqXBE_bigger.jpg",
+      "content": "Glad crypto has trained me be extremely vigilant on this. From kichim premium in every crypto cycle now to memory stocks, Korea may be one of the cleanest late cycle indicators in global riskon assets. not just because Kr retail is exuberant degens, more on the market structure itself fuels retail heat even more\n\nKorea launched single-stock leveraged products on May 27, after the move had already gone vertical, local kr retail flood into it at peak narrative velocity vs investors in the HK-listed leveraged product still had months of upside cushion\n\nWhen a crowded national equity market adds leverage to its hottest stock after the reflexive phase begun, the product launch itself makes the formation of topping signal\n\nThis happens every time in crypto cycle as well when local Korean exchanges listed assets mostly after they have gone up parabolic in global exchanges elsewhere, making poor korean retail as the last exit liquidity ..",
+      "contentHtml": "Glad crypto has trained me be extremely vigilant on this. From kichim premium in every crypto cycle now to memory stocks, Korea may be one of the cleanest late cycle indicators in global riskon assets. not just because Kr retail is exuberant degens, more on the market structure itself fuels retail heat even more\n\nKorea launched single-stock leveraged products on May 27, after the move had already gone vertical, local kr retail flood into it at peak narrative velocity vs investors in the HK-listed leveraged product still had months of upside cushion\n\nWhen a crowded national equity market adds leverage to its hottest stock after the reflexive phase begun, the product launch itself makes the formation of topping signal\n\nThis happens every time in crypto cycle as well when local Korean exchanges listed assets mostly after they have gone up parabolic in global exchanges elsewhere, making poor korean retail as the last exit liquidity ..",
+      "publishedAt": "2026-07-16T19:23:00.000Z",
+      "link": "https://x.com/DoveyWan/status/2077836621408567755",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNXyMSxaAAAB44p.jpg"
+        }
+      ],
+      "quote": {
+        "username": "DoveyWan",
+        "displayName": "Dovey &quot;Rug the fiat&quot; Wan (hiring)",
+        "content": "😭 KOSPI down ~27%  and SK Hynix down ~38% since this tweet .. kimchi capital market late night parties roll the same every time, stay safe my friends",
+        "contentHtml": "😭 KOSPI down ~27%  and SK Hynix down ~38% since this tweet .. kimchi capital market late night parties roll the same every time, stay safe my friends",
+        "link": "https://x.com/DoveyWan/status/2076651631610085569"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077829093266272460",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "$SOL\n\nThey refuse to accept that their favorite altcoin will never hit ATHs again.  \n\nThis was the perfect exit pump FTX needed to offload. \n\nDo the homework on token inflation. Imagine buying an asset when the Solana Foundation can print new tokens out of thin air.\n\nIt’s a classic VC driven coin with massive supply concentration in the hands of a few insiders and funds. You think SOL organically went from $7 to $300 cause of \"demand\" 🤣\n\nHow do you realistically attract large buyers when the second you purchase, you instantly become exit liquidity for those same concentrated holders?\n\nDon't hate the player, hate the game. It is what it is. Plenty of major projects died in the 2017–2018 cycle, and we’ll see the same thing happen again and again.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23SOL\">$SOL</a>\n\nThey refuse to accept that their favorite altcoin will never hit ATHs again.  \n\nThis was the perfect exit pump FTX needed to offload. \n\nDo the homework on token inflation. Imagine buying an asset when the Solana Foundation can print new tokens out of thin air.\n\nIt’s a classic VC driven coin with massive supply concentration in the hands of a few insiders and funds. You think SOL organically went from $7 to $300 cause of \"demand\" 🤣\n\nHow do you realistically attract large buyers when the second you purchase, you instantly become exit liquidity for those same concentrated holders?\n\nDon't hate the player, hate the game. It is what it is. Plenty of major projects died in the 2017–2018 cycle, and we’ll see the same thing happen again and again.",
+      "publishedAt": "2026-07-16T18:53:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2077829093266272460",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNXsa4JWAAEuh3X.jpg"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "I believe $SOL is never reaching ATH's again.",
+        "contentHtml": "I believe <a href=\"/search?f=tweets&q=%23SOL\">$SOL</a> is never reaching ATH's again.",
+        "link": "https://x.com/KillaXBT/status/2076771314786791595",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNIsRhRX0AE0Z92.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077819572452036896",
+      "username": "mikeknoop",
+      "displayName": "Mike Knoop",
+      "avatar": "https://pbs.twimg.com/profile_images/1800408200229113856/4hvnirWk_bigger.jpg",
+      "content": "This looks like a great implementation of program synthesis. From their blog:\n\n> Core idea. The latent world representation is a program, not a vector.\n\nBuilding symbolic world models on-the-fly is emerging as the best approach to ARC v3.",
+      "contentHtml": "This looks like a great implementation of program synthesis. From their blog:\n\n&gt; Core idea. The latent world representation is a program, not a vector.\n\nBuilding symbolic world models on-the-fly is emerging as the best approach to ARC v3.",
+      "publishedAt": "2026-07-16T18:16:00.000Z",
+      "link": "https://x.com/mikeknoop/status/2077819572452036896",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "HavenFeng",
+        "displayName": "Haven Feng",
+        "content": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
+        "contentHtml": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
+        "link": "https://x.com/HavenFeng/status/2077770348876247502"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077812148118429705",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "看到今天有开始讨论算力冗余了，因为模型公司开始放宽使用度，但Token的价格下来，AI才能起飞，到现在最大的落地是CODING，2万亿市场的落地托起了整个硬件市场，真正的智能体落地，市场远不止2万亿！",
+      "contentHtml": "看到今天有开始讨论算力冗余了，因为模型公司开始放宽使用度，但Token的价格下来，AI才能起飞，到现在最大的落地是CODING，2万亿市场的落地托起了整个硬件市场，真正的智能体落地，市场远不止2万亿！",
+      "publishedAt": "2026-07-16T17:46:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2077812148118429705",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077810632577995256",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "我是一个左侧选手，所以我喜欢接飞刀，估值合适就进。而不是300抢着进，200抢着卖。我关注 $NBIS $BE $NOK $LITE",
+      "contentHtml": "我是一个左侧选手，所以我喜欢接飞刀，估值合适就进。而不是300抢着进，200抢着卖。我关注 <a href=\"/search?f=tweets&q=%23NBIS\">$NBIS</a> <a href=\"/search?f=tweets&q=%23BE\">$BE</a> <a href=\"/search?f=tweets&q=%23NOK\">$NOK</a> <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a>",
+      "publishedAt": "2026-07-16T17:40:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2077810632577995256",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077797567690145851",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "$BTC \n\nThe script continues to play out.\n\nSince the 14th, Bitcoin has already dropped about 2%. \n\n11 out of 12 times, we’ve seen a 5% drop after the 14th. If the pattern continues, BTC should experience at least a 5% drop from wherever it forms its pivot high.\n\nWhich would mean we can see 60-62K later this month.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nThe script continues to play out.\n\nSince the 14th, Bitcoin has already dropped about 2%. \n\n11 out of 12 times, we’ve seen a 5% drop after the 14th. If the pattern continues, BTC should experience at least a 5% drop from wherever it forms its pivot high.\n\nWhich would mean we can see 60-62K later this month.",
+      "publishedAt": "2026-07-16T16:48:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2077797567690145851",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNXRO-rXMAEDSxc.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "$BTC\n\nIf we follow the same statistical pattern seen over the past 12 months, BTC would likely derisk for the remainder of the month and push back down.\n\nThis is purely data driven with no directional bias. \n\nThe only outlier is April’s behavior, where BTC continued higher after the 14th, something that has occurred just once in those 12 instances. \n\nPlace your bets Fellas.",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nIf we follow the same statistical pattern seen over the past 12 months, BTC would likely derisk for the remainder of the month and push back down.\n\nThis is purely data driven with no directional bias. \n\nThe only outlier is April’s behavior, where BTC continued higher after the 14th, something that has occurred just once in those 12 instances. \n\nPlace your bets Fellas.",
+        "link": "https://x.com/KillaXBT/status/2077374973371400620",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNRQ4RFW0AAPBIY.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077779575824900157",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://pbs.twimg.com/profile_images/1986442283433254912/O0egVwxK_bigger.jpg",
+      "content": "港股也整上线了\n从此港股+美股+币圈游资巨鲸们的资金策略打通了，中/美/币/股大神们的策略以后同台切磋🥊",
+      "contentHtml": "港股也整上线了\n从此港股+美股+币圈游资巨鲸们的资金策略打通了，中/美/币/股大神们的策略以后同台切磋🥊",
+      "publishedAt": "2026-07-16T15:37:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2077779575824900157",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNXBghhbgAAT0ZH.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2077775854315217095",
       "username": "TJ_Research",
@@ -11793,355 +12124,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075209921008980304",
-      "username": "jheioff",
-      "displayName": "第一美少女",
-      "avatar": "https://pbs.twimg.com/profile_images/2058739738044145665/2sVsCA8B_bigger.jpg",
-      "content": "正对gate说我自己完成的人脸认证，现在我公开视频铁证回应：\n2026 年 07 月 04 日 19:44:XX UTC+8，整段时间内，我（黑衣男）全程在抱着我儿子玩耍，没有拿起手机做人脸识别，也没有进行任何 Gate 安全项重置操作。视频原文件我已完整保留，可提交给警方、律师和司法机关核验。相信人民群众的眼睛，gate又应该如何解释我的人脸识别风控？",
-      "contentHtml": "正对gate说我自己完成的人脸认证，现在我公开视频铁证回应：\n2026 年 07 月 04 日 19:44:XX UTC+8，整段时间内，我（黑衣男）全程在抱着我儿子玩耍，没有拿起手机做人脸识别，也没有进行任何 Gate 安全项重置操作。视频原文件我已完整保留，可提交给警方、律师和司法机关核验。相信人民群众的眼睛，gate又应该如何解释我的人脸识别风控？",
-      "publishedAt": "2026-07-09T13:26:00.000Z",
-      "link": "https://x.com/jheioff/status/2075209921008980304",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMygFULagAE-D6U.png"
-        }
-      ],
-      "retweet": {
-        "username": "0xSunNFT",
-        "displayName": "0xSun"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075209773667274923",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "熊市送温暖，OKX AI 拿出了 10 万刀搞黑客松🥷\n\n喜欢玩 AI 有创意的小伙伴可以关注下，通过 OKX AI 构建任意 ASP 提交即可（甚至不需要和加密相关，只要具备利他性即可，范围非常大了）\n\n会按照产品体验 / 创意 / 营收等多个角度设置奖项，其中还有 10 个社媒奖，不会搞产品？会搞营销一样能拿走 1000 USDT\n\n活动传送门 👉 web3.okx.com/zh-hans/xlayer/…",
-      "contentHtml": "熊市送温暖，OKX AI 拿出了 10 万刀搞黑客松🥷\n\n喜欢玩 AI 有创意的小伙伴可以关注下，通过 OKX AI 构建任意 ASP 提交即可（甚至不需要和加密相关，只要具备利他性即可，范围非常大了）\n\n会按照产品体验 / 创意 / 营收等多个角度设置奖项，其中还有 10 个社媒奖，不会搞产品？会搞营销一样能拿走 1000 USDT\n\n活动传送门 👉 <a href=\"https://web3.okx.com/zh-hans/xlayer/build-x-series\">web3.okx.com/zh-hans/xlayer/…</a>",
-      "publishedAt": "2026-07-09T13:25:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2075209773667274923",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMygPkWbwAAT13d.jpg"
-        }
-      ],
-      "quote": {
-        "username": "OKXWallet_CN",
-        "displayName": "OKX Wallet 中文",
-        "content": "$100,000 主奖池，\n其中 10 × $1,000 是社媒奖\n\nOKX.AI Genesis 黑客松招募 ASP——\n造出真正能被日常调用的 Agent。\n\n发帖介绍你的 ASP、用例和 Demo, 带 #OKXAI 抢社媒奖。\n\n⏰ 7月18日 00:00 (UTC+8) 截止\n📝 forms.gle/mddEUagmDbyV37ws8\n👉 web3.okx.com/zh-hans/xlayer/…",
-        "contentHtml": "$100,000 主奖池，\n其中 10 × $1,000 是社媒奖\n\n<a href=\"http://OKX.AI\">OKX.AI</a> Genesis 黑客松招募 ASP——\n造出真正能被日常调用的 Agent。\n\n发帖介绍你的 ASP、用例和 Demo, 带 <a href=\"/search?f=tweets&q=%23OKXAI\">#OKXAI</a> 抢社媒奖。\n\n⏰ 7月18日 00:00 (UTC+8) 截止\n📝 <a href=\"https://forms.gle/mddEUagmDbyV37ws8\">forms.gle/mddEUagmDbyV37ws8</a>\n👉 <a href=\"https://web3.okx.com/zh-hans/xlayer/build-x-series\">web3.okx.com/zh-hans/xlayer/…</a>",
-        "link": "https://x.com/OKXWallet_CN/status/2074430111148061021",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMnbLl9b0AALEEM.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075207741963210812",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "为啥永续有空间\n大老爷们太懒了",
-      "contentHtml": "为啥永续有空间\n大老爷们太懒了",
-      "publishedAt": "2026-07-09T13:17:00.000Z",
-      "link": "https://x.com/hazenlee/status/2075207741963210812",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMyeb8GbUAAEfSW.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075206569869062481",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "以前上班的同事朋友，圈内好友交易员\n我们比较熟 不需要担保，可以直接转钱给对方",
-      "contentHtml": "以前上班的同事朋友，圈内好友交易员\n我们比较熟 不需要担保，可以直接转钱给对方",
-      "publishedAt": "2026-07-09T13:12:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2075206569869062481",
-      "quote": {
-        "username": "WanRenmi001",
-        "displayName": "Wan001 🧢",
-        "content": "哥们你到底咋出金的",
-        "contentHtml": "哥们你到底咋出金的",
-        "link": "https://x.com/WanRenmi001/status/2075179761501155479"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075206241773875436",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "美股开盘前夕，有大户选择做多 Nasdaq 100 指數🤨\n\n地址 0x3e7…f1589 今晚七点半充值 500 万枚 USDC，随后开启价值 1663 万美元的 $XYZ100 20x 多单，开仓价 $29,458；目前还有超 530 万美元的 TWAP 正在逐步成交中，最终仓位会在 2200 万美元左右\n\n传送门 👉 d.pro/portfolio/0x3e7a0eca8b…",
-      "contentHtml": "美股开盘前夕，有大户选择做多 Nasdaq 100 指數🤨\n\n地址 0x3e7…f1589 今晚七点半充值 500 万枚 USDC，随后开启价值 1663 万美元的 $XYZ100 20x 多单，开仓价 $29,458；目前还有超 530 万美元的 TWAP 正在逐步成交中，最终仓位会在 2200 万美元左右\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0x3e7a0eca8b624b75034ad820fa291425f21f1589\">d.pro/portfolio/0x3e7a0eca8b…</a>",
-      "publishedAt": "2026-07-09T13:11:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2075206241773875436",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMycoXKbUAA-uhZ.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075203207060668431",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "你是啥福",
-      "contentHtml": "你是啥福",
-      "publishedAt": "2026-07-09T12:59:00.000Z",
-      "link": "https://x.com/hazenlee/status/2075203207060668431",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMyaUFkaIAAe8qo.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075202678104432879",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "扎克伯格不懂AI",
-      "contentHtml": "扎克伯格不懂AI",
-      "publishedAt": "2026-07-09T12:57:00.000Z",
-      "link": "https://x.com/hazenlee/status/2075202678104432879",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMyZ0-gbQAAaL-5.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMyZ0-gacAAN_i0.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMyZ0-ZaYAAW6Jw.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "我踏马服了！",
-        "contentHtml": "我踏马服了！",
-        "link": "https://x.com/hazenlee/status/2072959506917847121",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMShrh8akAA5TCR.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMShrh6bkAErFzU.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075200880673251777",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "伟大的反攻\n\n真的极少说最后一跌\n\n21:30 币安广场见\n\napp.binance.com/uni-qr/cspa/…",
-      "contentHtml": "伟大的反攻\n\n真的极少说最后一跌\n\n21:30 币安广场见\n\n<a href=\"https://app.binance.com/uni-qr/cspa/42859624252065?l=zh-CN&r=MJ6LI1UJ&source=host_share&uc=web_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>",
-      "publishedAt": "2026-07-09T12:50:00.000Z",
-      "link": "https://x.com/octopusycc/status/2075200880673251777",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMyX_p5aoAAvQOL.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075198155315163432",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#Crypto \n\n这就没了？…",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n这就没了？…",
-      "publishedAt": "2026-07-09T12:39:00.000Z",
-      "link": "https://x.com/taresky/status/2075198155315163432",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMyVuNuaYAAFDUQ.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075196741964755202",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "Deribit x SignalPlus 期权交易大赛正式开赛。\n\n送岛了！\n\n大赛详情/报名：\nt.signalplus.com/nuwa/rank#/…\n\n我这次更关注的是：随着美股阶段性底部逐步形成，加密市场也开始出现更清晰的底部结构，期权策略开始比单边追涨更有意义。\n\n在 SignalPlus 上，可以很直观地搭建策略组合。\n\n比如围绕 BTC 卖出 55,000 Put 获取权利金，再配合保护腿或价差结构，控制下行风险，形成更清晰的收益/风险框架。\n\n或是在Signalplus上进行简易配置。\n\n加入我的战队：\nt.signalplus.com/deribitisla…\n\n速成期权老司机敏捷下单！",
-      "contentHtml": "Deribit x SignalPlus 期权交易大赛正式开赛。\n\n送岛了！\n\n大赛详情/报名：\n<a href=\"https://t.signalplus.com/nuwa/rank#/competition/deribit/detail?open=individual\">t.signalplus.com/nuwa/rank#/…</a>\n\n我这次更关注的是：随着美股阶段性底部逐步形成，加密市场也开始出现更清晰的底部结构，期权策略开始比单边追涨更有意义。\n\n在 SignalPlus 上，可以很直观地搭建策略组合。\n\n比如围绕 BTC 卖出 55,000 Put 获取权利金，再配合保护腿或价差结构，控制下行风险，形成更清晰的收益/风险框架。\n\n或是在Signalplus上进行简易配置。\n\n加入我的战队：\n<a href=\"https://t.signalplus.com/deribitislandcompetition?o=teamInvite&t=18278549&r=S2J3U5\">t.signalplus.com/deribitisla…</a>\n\n速成期权老司机敏捷下单！",
-      "publishedAt": "2026-07-09T12:33:00.000Z",
-      "link": "https://x.com/octopusycc/status/2075196741964755202",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMyT2_7bgAAoIGn.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMyT495bkAAkllO.jpg"
-        }
-      ],
-      "quote": {
-        "username": "DeribitCN",
-        "displayName": "Deribit華語",
-        "content": "这一次，我们送出两座私人岛屿！🏝🏝\n\n「孤岛计划」正式开启，立即交易！\n\n🎁 总奖池高达 600,000 USDC，更有机会赢取：\n私人岛屿；劳力士腕表；巴厘岛旅行；每日 USDC 奖励；免费 Deribit 期权以及更多惊喜奖励！\n👇 立即参赛，开启你的孤岛挑战：\n t.signalplus.com/deribitisla…\n\n🌴 35天 · 11种玩法\n\n⚡️交易 到期日≤7天的期权\n每日交易 = 最多 2×奖励加成\n每500k交易量，可玩一次游戏，赢一座 $60k芬兰私人岛屿\n\n🎁 存入＞0.1U 资产并持有7天\n100% 解锁神秘宝箱奖励\n\n⏰ 每天 8:00 UTC 前交易\n能提升 每日单人交易/每日组队交易 中你的中奖概率\n\n👥 邀请顶级交易员\n赢一座 $30k加拿大私人岛屿\n\n⌚️  邀请好友\n解锁$16k Rolex 劳力士腕表\n\n🚨 首波潮汐礼包即将关闭\n7月7日前报名，领取 3张 Deribit 免费期权",
-        "contentHtml": "这一次，我们送出两座私人岛屿！🏝🏝\n\n「孤岛计划」正式开启，立即交易！\n\n🎁 总奖池高达 600,000 USDC，更有机会赢取：\n私人岛屿；劳力士腕表；巴厘岛旅行；每日 USDC 奖励；免费 Deribit 期权以及更多惊喜奖励！\n👇 立即参赛，开启你的孤岛挑战：\n <a href=\"https://t.signalplus.com/deribitislandcompetition\">t.signalplus.com/deribitisla…</a>\n\n🌴 35天 · 11种玩法\n\n⚡️交易 到期日≤7天的期权\n每日交易 = 最多 2×奖励加成\n每500k交易量，可玩一次游戏，赢一座 $60k芬兰私人岛屿\n\n🎁 存入＞0.1U 资产并持有7天\n100% 解锁神秘宝箱奖励\n\n⏰ 每天 8:00 UTC 前交易\n能提升 每日单人交易/每日组队交易 中你的中奖概率\n\n👥 邀请顶级交易员\n赢一座 $30k加拿大私人岛屿\n\n⌚️  邀请好友\n解锁$16k Rolex 劳力士腕表\n\n🚨 首波潮汐礼包即将关闭\n7月7日前报名，领取 3张 Deribit 免费期权",
-        "link": "https://x.com/DeribitCN/status/2074040659737194798"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075190726707622045",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "After 3 months, I'm finally opening the doors to my $BTC pivot strategies, indicators, and trading methodology.\n\nPivots I intentionally keep behind closed doors for maximum effectiveness.\n\nSpots are extremely limited.\n\nDM me \"kxbt\" for early access. FCFS\n\nkillalabs.io/",
-      "contentHtml": "After 3 months, I'm finally opening the doors to my <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> pivot strategies, indicators, and trading methodology.\n\nPivots I intentionally keep behind closed doors for maximum effectiveness.\n\nSpots are extremely limited.\n\nDM me \"kxbt\" for early access. FCFS\n\n<a href=\"https://killalabs.io/\">killalabs.io/</a>",
-      "publishedAt": "2026-07-09T12:09:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2075190726707622045",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMyMlt2XoAAVpgC.jpg"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "In 5 days, I release everything I know... $BTC\n\nAll the pivots I've kept behind closed doors. Understanding herd mentality and how market makers manipulate narratives around certain periods. \n\nLearn to think like the predator, not the prey.\n\nHow I view the markets, how I see through the narratives, you'll be learning directly from me.\n\nI'm completely self taught. All of my psychological dates are unique because I figured them out myself, which is why my style is increasingly unique. 10,000+ hours.\n\nYou won’t find anything about my pivot strategy anywhere else, simply because it doesn’t exist elsewhere. It’s entirely my own perspective, my way of interpreting and understanding the markets for what they truly are.\n\nSign-ups will only be open for 48 hours from the 10th, with limited spots available. After that, everything closes for 3 months.\n\nInside you'll get:\n• My 7 custom pivot indicators.\n• My 7 custom pivot indicators.\n• 100+ pages of PDFs explaining my terminology\n• 50+ videos explaining everything I use.\n• Private discord group\n\nKnowledge is everything in this game. If you truly want to progress and become a better trader, you need to invest in yourself. Especially before the bull market begins. \n\nMore details will be available on the 10th about how to obtain access. 48h only.",
-        "contentHtml": "In 5 days, I release everything I know... <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nAll the pivots I've kept behind closed doors. Understanding herd mentality and how market makers manipulate narratives around certain periods. \n\nLearn to think like the predator, not the prey.\n\nHow I view the markets, how I see through the narratives, you'll be learning directly from me.\n\nI'm completely self taught. All of my psychological dates are unique because I figured them out myself, which is why my style is increasingly unique. 10,000+ hours.\n\nYou won’t find anything about my pivot strategy anywhere else, simply because it doesn’t exist elsewhere. It’s entirely my own perspective, my way of interpreting and understanding the markets for what they truly are.\n\nSign-ups will only be open for 48 hours from the 10th, with limited spots available. After that, everything closes for 3 months.\n\nInside you'll get:\n• My 7 custom pivot indicators.\n• My 7 custom pivot indicators.\n• 100+ pages of PDFs explaining my terminology\n• 50+ videos explaining everything I use.\n• Private discord group\n\nKnowledge is everything in this game. If you truly want to progress and become a better trader, you need to invest in yourself. Especially before the bull market begins. \n\nMore details will be available on the 10th about how to obtain access. 48h only.",
-        "link": "https://x.com/KillaXBT/status/2073825327902593320",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMe0I0CXEAAiULp.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075189078543527965",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "拿下2026FIFA世界杯官方预测市场伙伴的ADI什么来头？\n\n很多人第一眼看到 ADI，可能只会把它理解成一个“世界杯预测市场”项目。 @ADIChain_  @Predictstreet \n\n但我觉得 ADI 真正值得关注的地方，其实在于它背后正在形成一套非常特殊的现实金融基础设施。\n\nADI 背靠的是 Sirius International Holding，而 Sirius 背后又是 IHC 体系。\n\nIHC 不是普通 crypto VC，也不是单纯的Web3资金方，而是中东最重要的资本平台之一，横跨能源、地产、医疗、科技、金融等多个现实产业。",
-      "contentHtml": "拿下2026FIFA世界杯官方预测市场伙伴的ADI什么来头？\n\n很多人第一眼看到 ADI，可能只会把它理解成一个“世界杯预测市场”项目。 <a href=\"/ADIChain_\" title=\"ADI Chain\">@ADIChain_</a>  <a href=\"/Predictstreet\" title=\"ADI Predictstreet\">@Predictstreet</a> \n\n但我觉得 ADI 真正值得关注的地方，其实在于它背后正在形成一套非常特殊的现实金融基础设施。\n\nADI 背靠的是 Sirius International Holding，而 Sirius 背后又是 IHC 体系。\n\nIHC 不是普通 crypto VC，也不是单纯的Web3资金方，而是中东最重要的资本平台之一，横跨能源、地产、医疗、科技、金融等多个现实产业。",
-      "publishedAt": "2026-07-09T12:03:00.000Z",
-      "link": "https://x.com/octopusycc/status/2075189078543527965",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMyNXRmakAA9sQ5.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075189083266285740",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "所以 ADI 的叙事并不是单点应用，而是把三件事放在了一起：\n\n1. 中东资本；\n2. 受监管的金融基础设施；\n3. 可以承接现实资产和稳定币流转的结算网络。\n\n这也是为什么我认为 ADI 和很多纯链上项目不太一样。\n\n它不是先做一个链，然后再去找应用。\n\n它更像是先有现实世界的资本、监管框架和金融场景，再反过来把链作为结算层、托管层和资产流转层。",
-      "contentHtml": "所以 ADI 的叙事并不是单点应用，而是把三件事放在了一起：\n\n1. 中东资本；\n2. 受监管的金融基础设施；\n3. 可以承接现实资产和稳定币流转的结算网络。\n\n这也是为什么我认为 ADI 和很多纯链上项目不太一样。\n\n它不是先做一个链，然后再去找应用。\n\n它更像是先有现实世界的资本、监管框架和金融场景，再反过来把链作为结算层、托管层和资产流转层。",
-      "publishedAt": "2026-07-09T12:03:00.000Z",
-      "link": "https://x.com/octopusycc/status/2075189083266285740",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075182031106085049",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "你们有没有听 papi 的新歌《生气了》\n\n好听 爱听\n\n洗脑神曲～papi酱《生气了》歌曲剪辑纯享版 @papi酱 xhslink.com/o/9Hr8LiZILOo \n【小红书】笔记已就绪，复制后即可查看~ l=en&mt=8",
-      "contentHtml": "你们有没有听 papi 的新歌《生气了》\n\n好听 爱听\n\n洗脑神曲～papi酱《生气了》歌曲剪辑纯享版 @papi酱 <a href=\"http://xhslink.com/o/9Hr8LiZILOo\">xhslink.com/o/9Hr8LiZILOo</a> \n【小红书】笔记已就绪，复制后即可查看~ l=en&amp;mt=8",
-      "publishedAt": "2026-07-09T11:35:00.000Z",
-      "link": "https://x.com/taresky/status/2075182031106085049",
       "stats": {
         "replies": 0,
         "retweets": 0,
