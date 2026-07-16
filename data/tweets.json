@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T10:43:49.894Z",
+  "lastUpdated": "2026-07-16T11:35:49.460Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,57 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 647,
+    "newFetched": 644,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2077716114763878682",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "半导体目前表现的非常弱势，继昨天被抛售后今天盘前继续承压，资金持续流向M7避险\n\nSOXL目前靠近区间的下沿，且处于区间震荡的下降通道中\n\n盘前价格已经到了前期的低点150左右，之前三次下探150都被强势收回\n\n如果今天开盘像昨天一样资金继续从半导体流入M7避险，那SOXL很有可能会守不住这个位置，下探图中黄色的区域\n\n#SOXL #存储 #半导体",
+      "contentHtml": "半导体目前表现的非常弱势，继昨天被抛售后今天盘前继续承压，资金持续流向M7避险\n\nSOXL目前靠近区间的下沿，且处于区间震荡的下降通道中\n\n盘前价格已经到了前期的低点150左右，之前三次下探150都被强势收回\n\n如果今天开盘像昨天一样资金继续从半导体流入M7避险，那SOXL很有可能会守不住这个位置，下探图中黄色的区域\n\n<a href=\"/search?f=tweets&q=%23SOXL\">#SOXL</a> <a href=\"/search?f=tweets&q=%23存储\">#存储</a> <a href=\"/search?f=tweets&q=%23半导体\">#半导体</a>",
+      "publishedAt": "2026-07-16T11:24:00.000Z",
+      "link": "https://x.com/dongbimao/status/2077716114763878682",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNWAlSCbcAA87i5.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077713716460802411",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
+      "content": "最近也在用这种codex chrome侧边栏插件的方式写tradingview指标",
+      "contentHtml": "最近也在用这种codex chrome侧边栏插件的方式写tradingview指标",
+      "publishedAt": "2026-07-16T11:15:00.000Z",
+      "link": "https://x.com/coolish/status/2077713716460802411",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNWFi5MbcAA3O5F.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "coolish",
+        "displayName": "paulwei"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2077699216219247027",
       "username": "yuren477",
@@ -623,6 +669,10 @@
           "url": "https://pbs.twimg.com/media/HNUKTOgaMAAKyjF.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -12165,42 +12215,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075124045151125600",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "Memecoin 正成为 Robinhood Chain 的流量密码👩‍💻\n\n▶︎ $CASHCAT 五小时速通 1 亿美金\n▶︎ CEO @vladtenev 亲自下场带节奏\n▶︎ 一天新币过万，单日 DEX 交易量超 5.6 亿美元，\n\n新的龙一已经出现，如何快速上手新公链，搞定钱包 / 跨链 / DEX / 数据工具，看这一篇就够了🧵👇\n\n1/ 钱包\n\nRobinhood Chain(@RobinhoodCrypto) 是 L2 网络，最简单的方式就是用 OKX / Binance / Metamask 等常用钱包添加网络了，这里是官方网络给出的各大主流钱包「一键添加」传送门 👉 docs.robinhood.com/chain/add…\n\n以防万一你想手动添加 👉 Chain ID：4663，区块链浏览器：robinhoodchain.blockscout.co…\n\n当然官方也推出了自己的 Robinhood Wallet，iOS 或安卓都能下载到移动端应用，集成会更深度一些\n\n2/ 跨链\n\n1️⃣ 官方跨链桥：portal.arbitrum.io/bridge?de…（注意提现会有 7 天的等待期）\n2️⃣ Robinhood Wallet：钱包集成了跨链功能，懒得挑可以直接用\n3️⃣ 第三方聚合器：按需挑选即可\nRelay: relay.link/bridge/robinhood\nStargate: relay.link/bridge/robinhood\nAcross: across.to/?to=robinhood\n\n3/ DEX\n\n1️⃣ Uniswap：老面孔，交易时选对应网络就行\n2️⃣ NOXA Fun：Robinhood 发射台，类似于 Pumpfun 👉 fun.noxa.fi/robinhood\n\n4/ Meme 看盘工具\n\n1️⃣ DEXScreener @dexscreener：dexscreener.com/robinhood\n2️⃣ GMGN @gmgnai：gmgn.ai/?ref=0ZhKy06I\n\n冲狗 BOT 涉及安全风险就不在这罗列了，如果其他好用的工具欢迎大家在评论区补充，最后如果你喜欢本条推文，记得关注 / 转发 / 点赞一键三连哦🥰",
-      "contentHtml": "Memecoin 正成为 Robinhood Chain 的流量密码👩‍💻\n\n▶︎ <a href=\"/search?f=tweets&q=%23CASHCAT\">$CASHCAT</a> 五小时速通 1 亿美金\n▶︎ CEO <a href=\"/vladtenev\" title=\"Vlad Tenev\">@vladtenev</a> 亲自下场带节奏\n▶︎ 一天新币过万，单日 DEX 交易量超 5.6 亿美元，\n\n新的龙一已经出现，如何快速上手新公链，搞定钱包 / 跨链 / DEX / 数据工具，看这一篇就够了🧵👇\n\n1/ 钱包\n\nRobinhood Chain(<a href=\"/RobinhoodCrypto\" title=\"Robinhood Crypto\">@RobinhoodCrypto</a>) 是 L2 网络，最简单的方式就是用 OKX / Binance / Metamask 等常用钱包添加网络了，这里是官方网络给出的各大主流钱包「一键添加」传送门 👉 <a href=\"https://docs.robinhood.com/chain/add-network-to-wallet/\">docs.robinhood.com/chain/add…</a>\n\n以防万一你想手动添加 👉 Chain ID：4663，区块链浏览器：<a href=\"https://robinhoodchain.blockscout.com/\">robinhoodchain.blockscout.co…</a>\n\n当然官方也推出了自己的 Robinhood Wallet，iOS 或安卓都能下载到移动端应用，集成会更深度一些\n\n2/ 跨链\n\n1️⃣ 官方跨链桥：<a href=\"https://portal.arbitrum.io/bridge?destinationChain=robinhood-chain&sourceChain=ethereum\">portal.arbitrum.io/bridge?de…</a>（注意提现会有 7 天的等待期）\n2️⃣ Robinhood Wallet：钱包集成了跨链功能，懒得挑可以直接用\n3️⃣ 第三方聚合器：按需挑选即可\nRelay: <a href=\"https://relay.link/bridge/robinhood\">relay.link/bridge/robinhood</a>\nStargate: <a href=\"https://relay.link/bridge/robinhood\">relay.link/bridge/robinhood</a>\nAcross: <a href=\"https://across.to/?to=robinhood\">across.to/?to=robinhood</a>\n\n3/ DEX\n\n1️⃣ Uniswap：老面孔，交易时选对应网络就行\n2️⃣ NOXA Fun：Robinhood 发射台，类似于 Pumpfun 👉 <a href=\"https://fun.noxa.fi/robinhood\">fun.noxa.fi/robinhood</a>\n\n4/ Meme 看盘工具\n\n1️⃣ DEXScreener <a href=\"/dexscreener\" title=\"DEX Screener\">@dexscreener</a>：<a href=\"https://dexscreener.com/robinhood\">dexscreener.com/robinhood</a>\n2️⃣ GMGN <a href=\"/gmgnai\" title=\"GMGN.Ai\">@gmgnai</a>：<a href=\"https://gmgn.ai/?ref=0ZhKy06I\">gmgn.ai/?ref=0ZhKy06I</a>\n\n冲狗 BOT 涉及安全风险就不在这罗列了，如果其他好用的工具欢迎大家在评论区补充，最后如果你喜欢本条推文，记得关注 / 转发 / 点赞一键三连哦🥰",
-      "publishedAt": "2026-07-09T07:45:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2075124045151125600",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMxSAZsbkAAvGFi.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075118915072688331",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "谷歌验证器我从来不同步邮箱，最好的就是拿一个备用机导入进去，也不用怕主用机丢了或者出问题，用了n年没有问题。",
-      "contentHtml": "谷歌验证器我从来不同步邮箱，最好的就是拿一个备用机导入进去，也不用怕主用机丢了或者出问题，用了n年没有问题。",
-      "publishedAt": "2026-07-09T07:24:00.000Z",
-      "link": "https://x.com/0xleng1/status/2075118915072688331",
       "stats": {
         "replies": 0,
         "retweets": 0,
