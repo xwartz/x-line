@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T01:39:13.784Z",
+  "lastUpdated": "2026-07-16T03:09:18.484Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,135 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 646,
+    "newFetched": 650,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2077582386930520449",
+      "username": "0xPickleCati",
+      "displayName": "Pickle Cat",
+      "avatar": "https://pbs.twimg.com/profile_images/1879537340080869376/PV5A5sD2_bigger.jpg",
+      "content": "Reading this brought back a very specific feeling.\n\nI’ve been in crypto 13 years, long enough to watch things arrive looking like the future and leave without anyone announcing they were gone.\n\nLate 2017 I was flipping cryptokitties almost every day while eth went straight up. I explained them at dinner, to grown adults, and I probably sounded insane, but I wasn’t talking about cartoon cats. \n\nI thought I was looking at the beginning of digital ownership, culture moving onchain, and a new kind of internet where users could actually own the things they created and collected.\n\nI didn’t think I had caught a mania.\n\nI thought I had seen the future a little earlier than everyone else.\n\nThen 2018 came and robbed me blind… the money disappeared fast. But the belief took years to die.\n\nAnd even then, it didn’t really die.\n\nIt just kept coming back wearing new clothes. NFTs, creator economy, socialfi, onchain social, creator coins. Not all of them were the same, obviously, but somewhere underneath them was a future I had already wanted to believe in once.\n\nThat’s why the ideas that hurt the most when they die are rarely the obvious scams. \n\nNobody mourns those.\n\nIt’s the BEAUTIFUL ones, the ones that made sincere people think, “if this works, crypto actually changes the world.”\n\nYou don’t just invest in those ideas! You build your life around them! You make friends through them, attach your name to them, spend years defending them, and start living inside a future that hasn’t arrived yet!!\n\nThen one day the market goes somewhere else.\n\nUsually there’s no dramatic ending. The users stop showing up. The group chats get quieter. The people who used to post about it every day slowly move on. The thesis still sounds beautiful when you say it out loud, it’s just that nothing is walking toward it anymore.\n\nYou’re the last one standing in a room explaining what it was supposed to become.\n\nThat’s a hard thing to admit, especially in public.\n\nBecause you’re burying years of conviction, relationships, reputation, and a version of yourself that genuinely believed you were helping build what came next.\n\nReading @jessepollak’s post today reminded me I’ve watched this happen over and over again, to other people and to myself.\n\nPeople outside crypto think the hardest losses are financial.\n\nAfter enough cycles, you realize some of the hardest losses are the stories you had to stop believing, and the futures you had already started living in.\n\nI still don’t know if I’ve fully let go of all of mine.\n\nProbably not.",
+      "contentHtml": "Reading this brought back a very specific feeling.\n\nI’ve been in crypto 13 years, long enough to watch things arrive looking like the future and leave without anyone announcing they were gone.\n\nLate 2017 I was flipping cryptokitties almost every day while eth went straight up. I explained them at dinner, to grown adults, and I probably sounded insane, but I wasn’t talking about cartoon cats. \n\nI thought I was looking at the beginning of digital ownership, culture moving onchain, and a new kind of internet where users could actually own the things they created and collected.\n\nI didn’t think I had caught a mania.\n\nI thought I had seen the future a little earlier than everyone else.\n\nThen 2018 came and robbed me blind… the money disappeared fast. But the belief took years to die.\n\nAnd even then, it didn’t really die.\n\nIt just kept coming back wearing new clothes. NFTs, creator economy, socialfi, onchain social, creator coins. Not all of them were the same, obviously, but somewhere underneath them was a future I had already wanted to believe in once.\n\nThat’s why the ideas that hurt the most when they die are rarely the obvious scams. \n\nNobody mourns those.\n\nIt’s the BEAUTIFUL ones, the ones that made sincere people think, “if this works, crypto actually changes the world.”\n\nYou don’t just invest in those ideas! You build your life around them! You make friends through them, attach your name to them, spend years defending them, and start living inside a future that hasn’t arrived yet!!\n\nThen one day the market goes somewhere else.\n\nUsually there’s no dramatic ending. The users stop showing up. The group chats get quieter. The people who used to post about it every day slowly move on. The thesis still sounds beautiful when you say it out loud, it’s just that nothing is walking toward it anymore.\n\nYou’re the last one standing in a room explaining what it was supposed to become.\n\nThat’s a hard thing to admit, especially in public.\n\nBecause you’re burying years of conviction, relationships, reputation, and a version of yourself that genuinely believed you were helping build what came next.\n\nReading <a href=\"/jessepollak\" title=\"jesse.base.eth\">@jessepollak</a>’s post today reminded me I’ve watched this happen over and over again, to other people and to myself.\n\nPeople outside crypto think the hardest losses are financial.\n\nAfter enough cycles, you realize some of the hardest losses are the stories you had to stop believing, and the futures you had already started living in.\n\nI still don’t know if I’ve fully let go of all of mine.\n\nProbably not.",
+      "publishedAt": "2026-07-16T02:33:00.000Z",
+      "link": "https://x.com/0xPickleCati/status/2077582386930520449",
+      "quote": {
+        "username": "jessepollak",
+        "displayName": "jesse.base.eth",
+        "content": "lots of conversations about base over the last week. wanted to share my candid take after a week of listening and a lot of reflection over the last 6 months.\n\nfirst off - in case it’s not obvious, the first quarter of 2026 was a punch in the face. I spent 2024 and 2025 making a two pronged bet to bring base to the world: (1) builders would unlock the next wave of crypto adoption; (2) adoption would be driven by new onchain-native social experiences - creators, content, messaging. imo we made the right bet on builders, but obviously the wrong bet on social. builders did drive the next wave of crypto adoption - prediction markets, perpetuals, stablecoins - but social was not at the center of it. in fact, the entire social side of the market that many of us had been building towards - farcaster, zora, miniapps, and yes, creator coins - disintegrated completely. I was wrong - whether it was timing wrong (is $ansem a creator coin?) or fully wrong, only time will tell, but regardless, i was definitively wrong.\n\nthe collateral damage was pretty bad! and this year has been an exercise in eating shit. we realized how our focus on social had meant that base had fallen behind in key areas that were now increasingly critical - we had perps (shoutout avantis!) and prediction markets (shoutout limitless!), but both were well behind scaled competitors. and we had a lot of room to improve in unlocking base as a platform for tokenization and payments that really worked for enterprises. people lost confidence, and CT spectators reminded me weekly of all of my mistakes as often as they could. it felt bad man, still feels bad.\n\nbut if there’s one thing i’ve learned from the last decade of building in this space, it’s that when things feel the worst, the best thing to do is just put your head down and build. so that’s what i’m doing. I refocused my time and attention back to the chain away from the app, started writing code again, shipped a bunch of stuff (azul, beryl, b20, privacy, ledgers) and questioned a bunch of my assumptions: does crypto need social to grow? does base need an app? can base be bigger than coinbase?\n\nI thought for a long time that social was the only thing that could drive the sort of viral growth to get crypto to a billion people. unsurprisingly, I now believe that’s wrong. It’s clear that better money is more than enough - we are seeing this live with stablecoins, predictions, perpetuals, tokenization and i only expect it to accelerate. I am now focused on bringing a billion people onchain just by making global finance actually work.\n\non the app, my focus is on building base into the blockchain for global finance. to that end, i’ve handed the base app back to the coinbase mothership, where my now good friend @cobie will be taking it from here to make it the best damn app for onchain you’ve ever seen, including expanding beyond the base ecosystem in ways that tbh i won’t love as the leader of base.\n\nit’s incredibly hard to grow a decentralized network inside of a big public corporation. and i feel like much of the discourse on CT over the last week is downstream of this. the following things can be true: (1) base (and i) love memes and (2) brian probably won’t ever bullpost memes on the tl (this activity is illegal once you’re over 40 years of age). it’s weird and we’re working through it as we continue to decentralize base, which has been our commitment from the beginning.\n\nwe’re going to build base into the blockchain for global finance and do everything we can to be the place that the world’s money settles over the next century. we will surely have formidable competitors (welcome robinhood and stripe!) and people may abandon our cause, but we welcome the competition and believe it’s our duty to win the respect and commitment of those who rally to our banner. \n\nin 2026, this concretely means three things: winning trading, payments, and agents.\n\n[continued in the reply]",
+        "contentHtml": "lots of conversations about base over the last week. wanted to share my candid take after a week of listening and a lot of reflection over the last 6 months.\n\nfirst off - in case it’s not obvious, the first quarter of 2026 was a punch in the face. I spent 2024 and 2025 making a two pronged bet to bring base to the world: (1) builders would unlock the next wave of crypto adoption; (2) adoption would be driven by new onchain-native social experiences - creators, content, messaging. imo we made the right bet on builders, but obviously the wrong bet on social. builders did drive the next wave of crypto adoption - prediction markets, perpetuals, stablecoins - but social was not at the center of it. in fact, the entire social side of the market that many of us had been building towards - farcaster, zora, miniapps, and yes, creator coins - disintegrated completely. I was wrong - whether it was timing wrong (is <a href=\"/search?f=tweets&q=%23ansem\">$ansem</a> a creator coin?) or fully wrong, only time will tell, but regardless, i was definitively wrong.\n\nthe collateral damage was pretty bad! and this year has been an exercise in eating shit. we realized how our focus on social had meant that base had fallen behind in key areas that were now increasingly critical - we had perps (shoutout avantis!) and prediction markets (shoutout limitless!), but both were well behind scaled competitors. and we had a lot of room to improve in unlocking base as a platform for tokenization and payments that really worked for enterprises. people lost confidence, and CT spectators reminded me weekly of all of my mistakes as often as they could. it felt bad man, still feels bad.\n\nbut if there’s one thing i’ve learned from the last decade of building in this space, it’s that when things feel the worst, the best thing to do is just put your head down and build. so that’s what i’m doing. I refocused my time and attention back to the chain away from the app, started writing code again, shipped a bunch of stuff (azul, beryl, b20, privacy, ledgers) and questioned a bunch of my assumptions: does crypto need social to grow? does base need an app? can base be bigger than coinbase?\n\nI thought for a long time that social was the only thing that could drive the sort of viral growth to get crypto to a billion people. unsurprisingly, I now believe that’s wrong. It’s clear that better money is more than enough - we are seeing this live with stablecoins, predictions, perpetuals, tokenization and i only expect it to accelerate. I am now focused on bringing a billion people onchain just by making global finance actually work.\n\non the app, my focus is on building base into the blockchain for global finance. to that end, i’ve handed the base app back to the coinbase mothership, where my now good friend <a href=\"/cobie\" title=\"Cobie\">@cobie</a> will be taking it from here to make it the best damn app for onchain you’ve ever seen, including expanding beyond the base ecosystem in ways that tbh i won’t love as the leader of base.\n\nit’s incredibly hard to grow a decentralized network inside of a big public corporation. and i feel like much of the discourse on CT over the last week is downstream of this. the following things can be true: (1) base (and i) love memes and (2) brian probably won’t ever bullpost memes on the tl (this activity is illegal once you’re over 40 years of age). it’s weird and we’re working through it as we continue to decentralize base, which has been our commitment from the beginning.\n\nwe’re going to build base into the blockchain for global finance and do everything we can to be the place that the world’s money settles over the next century. we will surely have formidable competitors (welcome robinhood and stripe!) and people may abandon our cause, but we welcome the competition and believe it’s our duty to win the respect and commitment of those who rally to our banner. \n\nin 2026, this concretely means three things: winning trading, payments, and agents.\n\n[continued in the reply]",
+        "link": "https://x.com/jessepollak/status/2077427261586997745"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077579092975898668",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "恭喜以下小伙伴获得币安九周年活动提供的「功夫女足」电影票🎬\n\n1. @chengebsgu\n2. @455Vvbest\n3. @ETH98888\n4. @btc666_\n5. @dengdeng0815 \n\n请在明天下午 18:00 前私信我留言链接和 BN UID，过期视作主动放弃哈",
+      "contentHtml": "恭喜以下小伙伴获得币安九周年活动提供的「功夫女足」电影票🎬\n\n1. <a href=\"/chengebsgu\" title=\"pikaqiu\">@chengebsgu</a>\n2. <a href=\"/455Vvbest\" title=\"小玉宝宝\">@455Vvbest</a>\n3. <a href=\"/ETH98888\" title=\"左宗棠\">@ETH98888</a>\n4. <a href=\"/btc666_\" title=\"海绵sp\">@btc666_</a>\n5. <a href=\"/dengdeng0815\" title=\"有痔青年\">@dengdeng0815</a> \n\n请在明天下午 18:00 前私信我留言链接和 BN UID，过期视作主动放弃哈",
+      "publishedAt": "2026-07-16T02:20:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2077579092975898668",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNUKr6cbgAAYjKH.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "币安九周年快乐🎉\n\n从籍籍无名到加密队伍的核心「9 号球员」，过程中的诸多摇摆与难题，是我开着上帝视角玩「币安人生模拟器」都无法通关的程度，走到今天真的太不容易，很荣幸能成为其中的一小簇光束\n\n🎁币安也为大家准备了 5 张星爷的「功夫女足」电影票，转发本推文 + 在评论区留下你和币安的九周边故事，将在明天 10:00 选出幸运小伙伴\n\n#币安九周年",
+        "contentHtml": "币安九周年快乐🎉\n\n从籍籍无名到加密队伍的核心「9 号球员」，过程中的诸多摇摆与难题，是我开着上帝视角玩「币安人生模拟器」都无法通关的程度，走到今天真的太不容易，很荣幸能成为其中的一小簇光束\n\n🎁币安也为大家准备了 5 张星爷的「功夫女足」电影票，转发本推文 + 在评论区留下你和币安的九周边故事，将在明天 10:00 选出幸运小伙伴\n\n<a href=\"/search?f=tweets&q=%23币安九周年\">#币安九周年</a>",
+        "link": "https://x.com/ai_9684xtpa/status/2077203465902956997",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNO1gj9aMAA0jFR.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077578136276099288",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
+      "content": "來自美方資金的拉抬：盯緊美資何時「偷偷撤退」🔭\n\n七月初至今，BTC 逐步釋出了諸多值得注意的訊號（詳見文末），\n如果以「美方資金曲線」的角度來看，我們不難發現：\n七月初以來的上漲基本就是由老美所貢獻。\n\n因此，貝格的老朋友絕對不陌生：\n他們是否「提前偷跑」就成了接下來的重點關注訊號。\n\n//\n\n附圖的指標是「美方、亞方資金情緒曲線」，如果你是新朋友，\n或者還不清楚此指標的原理，建議可以先參考以下鏈接，\n我之前都有寫過詳細的概念教學🔗：\n\n📖 美方資金情緒曲線介紹：\nnitter.net/market_beggar/status/1…\n📖 美方資金情緒曲線的超強逃頂運用：\nnitter.net/market_beggar/status/1…\n📖 超強逃頂訊號「笨蛋錢指標」概念解析：\nnitter.net/market_beggar/status/2…\n📖「美方資金的屠城」：暴跌的階段性覆盤\nnitter.net/market_beggar/status/2…\n\n//\n\n如附圖所示：\nBTC 自七月以來的價格，和美方資金曲線呈現同步上揚，\n說明這段漲勢基本就是由老美的拉盤所導致。\n\n在此簡單幫各位複習一個概念✏️：\n由於美方資金佔據目前市場上的絕對主宰地位，\n因此在大部分時間內，美資曲線的走勢和 BTC 價格通常很接近；\n如果兩者出現分歧，就能提供我們一些前瞻性的指引（交易窗口）。\n\n先前我已運用美資曲線，提前和各位預警了多次崩跌風險，\n有興趣深入研究這些案例的朋友，可以參考前段附上的鏈接🔗\n\n時間回到現在，一招鮮💡：\n美資曲線上升且價格上漲，說明老美的確介入了這波漲勢；\n既然介入，就必有離場的時候，因此是否「偷跑」就成了接下來的焦點。\n\n倘若未來出現「價格橫盤、緩漲」但「美資曲線大幅下降」的現象，\n我們就必須提高警覺，因為這通常代表著「美資正在偷偷撤退」，\n類似的案例多如牛毛，2025 年初、2025 年 10 月、今年 5 月 ... 等皆是。\n\n最後，結合本週 Liq 分析帖的內容（下方引文），\n如果美資在近期就提前撤退，就可能順勢使 BTC 完成我預期中的 Retest；\n而如果美資在更久之後才開始撤退，那麼在這段期間內，\n我們就必須結合線型，關注是否在撤退時連帶完成某些特定位置的 Stop Hunt。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\nBTC 長、短期持有者成本數據更新：LTH-RP 上升的主因\nnitter.net/market_beggar/status/2…\n\nBTC「三種週期性底部結構」路徑推演\nnitter.net/market_beggar/status/2…\n\n「BTC 的馬奇諾防線」：從未跌破的神話能否延續\nnitter.net/market_beggar/status/2…",
+      "contentHtml": "來自美方資金的拉抬：盯緊美資何時「偷偷撤退」🔭\n\n七月初至今，BTC 逐步釋出了諸多值得注意的訊號（詳見文末），\n如果以「美方資金曲線」的角度來看，我們不難發現：\n七月初以來的上漲基本就是由老美所貢獻。\n\n因此，貝格的老朋友絕對不陌生：\n他們是否「提前偷跑」就成了接下來的重點關注訊號。\n\n//\n\n附圖的指標是「美方、亞方資金情緒曲線」，如果你是新朋友，\n或者還不清楚此指標的原理，建議可以先參考以下鏈接，\n我之前都有寫過詳細的概念教學🔗：\n\n📖 美方資金情緒曲線介紹：\n<a href=\"https://nitter.net/market_beggar/status/1884517487238340829\">nitter.net/market_beggar/status/1…</a>\n📖 美方資金情緒曲線的超強逃頂運用：\n<a href=\"https://nitter.net/market_beggar/status/1922851604530897171\">nitter.net/market_beggar/status/1…</a>\n📖 超強逃頂訊號「笨蛋錢指標」概念解析：\n<a href=\"https://nitter.net/market_beggar/status/2056552729682780400\">nitter.net/market_beggar/status/2…</a>\n📖「美方資金的屠城」：暴跌的階段性覆盤\n<a href=\"https://nitter.net/market_beggar/status/2061989188967559423\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n如附圖所示：\nBTC 自七月以來的價格，和美方資金曲線呈現同步上揚，\n說明這段漲勢基本就是由老美的拉盤所導致。\n\n在此簡單幫各位複習一個概念✏️：\n由於美方資金佔據目前市場上的絕對主宰地位，\n因此在大部分時間內，美資曲線的走勢和 BTC 價格通常很接近；\n如果兩者出現分歧，就能提供我們一些前瞻性的指引（交易窗口）。\n\n先前我已運用美資曲線，提前和各位預警了多次崩跌風險，\n有興趣深入研究這些案例的朋友，可以參考前段附上的鏈接🔗\n\n時間回到現在，一招鮮💡：\n美資曲線上升且價格上漲，說明老美的確介入了這波漲勢；\n既然介入，就必有離場的時候，因此是否「偷跑」就成了接下來的焦點。\n\n倘若未來出現「價格橫盤、緩漲」但「美資曲線大幅下降」的現象，\n我們就必須提高警覺，因為這通常代表著「美資正在偷偷撤退」，\n類似的案例多如牛毛，2025 年初、2025 年 10 月、今年 5 月 ... 等皆是。\n\n最後，結合本週 Liq 分析帖的內容（下方引文），\n如果美資在近期就提前撤退，就可能順勢使 BTC 完成我預期中的 Retest；\n而如果美資在更久之後才開始撤退，那麼在這段期間內，\n我們就必須結合線型，關注是否在撤退時連帶完成某些特定位置的 Stop Hunt。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\nBTC 長、短期持有者成本數據更新：LTH-RP 上升的主因\n<a href=\"https://nitter.net/market_beggar/status/2076844585188520149\">nitter.net/market_beggar/status/2…</a>\n\nBTC「三種週期性底部結構」路徑推演\n<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>\n\n「BTC 的馬奇諾防線」：從未跌破的神話能否延續\n<a href=\"https://nitter.net/market_beggar/status/2077207779706802343\">nitter.net/market_beggar/status/2…</a>",
+      "publishedAt": "2026-07-16T02:16:00.000Z",
+      "link": "https://x.com/market_beggar/status/2077578136276099288",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNUKTOgaMAAKyjF.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "「戰況膠著」：小級別流動性拔河又又又一次重現🎢\n\n上週，我和各位分享了「三種底部結構」的路徑推演（下方引文），\n這三種路徑彼此之間存在順序性，因此在路徑 1 尚未被證偽之前，\n我都將以目前的 Liq 區間做為分析主體。\n\n在過去一週的時間內，BTC 又再次默默開始累積 Liq，戰局再次陷入膠著👇：\n\n//\n\n如附圖所示：\n承接上週的 Liq 技術分析帖（nitter.net/market_beggar/status/2…），\n相比於上週，BTC 在線型結構上，出現了明顯的兩道小級別 Liq 區：\n➡️ 64.7K 的 Equal Highs\n➡️ 61K 的 Trendline Liquidity\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n\n換言之，這些位置在未來都有極高的概率被清掃，\n唯一不容易回答的是「到底先掃哪邊」。\n\n值得注意的是：由於下方 61K 的 Trendline Liq 恰好位於 Retest 區上方，\n這相當於一定程度的提升了日後 Retest 出現的概率，\n也就是「Trendline Liq 提供引力，清掃的同時恰可完成 Retest」，\n這在 SMC 領域中又被稱為「Inducement（IDM）」。\n\n最後，結合下方引文的內容：\n從中短期的角度來看，倘若真的回到 58~61K 的區域進行 Retest，\n並且沒有跌破、亦沒有出現明顯弱勢（例如踩太深而形成 Equal Lows），\n那我們就會持續假設「路徑 1」成立，直至路徑本身的邏輯被證偽。\n\n以上就是今天的內容，兩天枯燥的低流動性週末時間即將過去，\n新的一週，祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n週期抄底神級法器 Cointime Price 歷史覆盤\nnitter.net/market_beggar/status/2…\n\n「換人共振？」出現概率逐漸上升的另一種築底形式\nnitter.net/market_beggar/status/2…\n\n「市場的寒武紀階段」：第二項週期性底部訊號出現\nnitter.net/market_beggar/status/2…",
+        "contentHtml": "「戰況膠著」：小級別流動性拔河又又又一次重現🎢\n\n上週，我和各位分享了「三種底部結構」的路徑推演（下方引文），\n這三種路徑彼此之間存在順序性，因此在路徑 1 尚未被證偽之前，\n我都將以目前的 Liq 區間做為分析主體。\n\n在過去一週的時間內，BTC 又再次默默開始累積 Liq，戰局再次陷入膠著👇：\n\n//\n\n如附圖所示：\n承接上週的 Liq 技術分析帖（<a href=\"https://nitter.net/market_beggar/status/2073947515473498123\">nitter.net/market_beggar/status/2…</a>），\n相比於上週，BTC 在線型結構上，出現了明顯的兩道小級別 Liq 區：\n➡️ 64.7K 的 Equal Highs\n➡️ 61K 的 Trendline Liquidity\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\n換言之，這些位置在未來都有極高的概率被清掃，\n唯一不容易回答的是「到底先掃哪邊」。\n\n值得注意的是：由於下方 61K 的 Trendline Liq 恰好位於 Retest 區上方，\n這相當於一定程度的提升了日後 Retest 出現的概率，\n也就是「Trendline Liq 提供引力，清掃的同時恰可完成 Retest」，\n這在 SMC 領域中又被稱為「Inducement（IDM）」。\n\n最後，結合下方引文的內容：\n從中短期的角度來看，倘若真的回到 58~61K 的區域進行 Retest，\n並且沒有跌破、亦沒有出現明顯弱勢（例如踩太深而形成 Equal Lows），\n那我們就會持續假設「路徑 1」成立，直至路徑本身的邏輯被證偽。\n\n以上就是今天的內容，兩天枯燥的低流動性週末時間即將過去，\n新的一週，祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n週期抄底神級法器 Cointime Price 歷史覆盤\n<a href=\"https://nitter.net/market_beggar/status/2074678322546814985\">nitter.net/market_beggar/status/2…</a>\n\n「換人共振？」出現概率逐漸上升的另一種築底形式\n<a href=\"https://nitter.net/market_beggar/status/2074311132463219062\">nitter.net/market_beggar/status/2…</a>\n\n「市場的寒武紀階段」：第二項週期性底部訊號出現\n<a href=\"https://nitter.net/market_beggar/status/2071773101898223809\">nitter.net/market_beggar/status/2…</a>",
+        "link": "https://x.com/market_beggar/status/2076484122898542754",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNEnTUuaQAAK8NQ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077568855237628123",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "休息了四天，又开囤了💰\n\n七月以来累计建仓近 1 亿美元 $ETH 和 $WBTC 的巨鲸 / 实体，8 小时前从 #Binance 提出 50 枚 WBTC\n\n至此其囤积的 ETH 数量为 49407 枚，WBTC 数量更新为 300 枚，总价值超 1.03 亿美元，平均成本约为 $1705 和 $63,027.58，浮盈 1111.3 万美元\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "contentHtml": "休息了四天，又开囤了💰\n\n七月以来累计建仓近 1 亿美元 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 和 <a href=\"/search?f=tweets&q=%23WBTC\">$WBTC</a> 的巨鲸 / 实体，8 小时前从 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 提出 50 枚 WBTC\n\n至此其囤积的 ETH 数量为 49407 枚，WBTC 数量更新为 300 枚，总价值超 1.03 亿美元，平均成本约为 $1705 和 $63,027.58，浮盈 1111.3 万美元\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "publishedAt": "2026-07-16T01:39:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2077568855237628123",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNUBxV4bAAA5vsX.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "囤积近 1 亿美元的 $ETH 和 $WBTC！😲\n\n3 小时前该巨鲸再次从 #Binance 提出 4948 枚 ETH，价值 901 万美元；七月以来已累计建仓 49407 ETH 和 250 WBTC，提币均价更新为 $1705 和 $62628，现浮盈 527.5 万美元\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "contentHtml": "囤积近 1 亿美元的 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 和 $WBTC！😲\n\n3 小时前该巨鲸再次从 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 提出 4948 枚 ETH，价值 901 万美元；七月以来已累计建仓 49407 ETH 和 250 WBTC，提币均价更新为 $1705 和 $62628，现浮盈 527.5 万美元\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "link": "https://x.com/ai_9684xtpa/status/2076128613985063392",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HM_iXJzboAA21TG.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2077566672949608933",
       "username": "ai_9684xtpa",
@@ -1917,10 +2041,6 @@
           "url": "https://pbs.twimg.com/media/HNO5dkjbIAAnu7T.jpg"
         }
       ],
-      "retweet": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢"
-      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -12124,112 +12244,6 @@
           "url": "https://pbs.twimg.com/media/HMwMzCwbwAAR7kU.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075044276929691961",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "？？？产品经理和开发可以结对编程了",
-      "contentHtml": "？？？产品经理和开发可以结对编程了",
-      "publishedAt": "2026-07-09T02:28:00.000Z",
-      "link": "https://x.com/taresky/status/2075044276929691961",
-      "quote": {
-        "username": "dorsa_rohani",
-        "displayName": "Dorsa",
-        "content": "We made Claude Code multiplayer!  \n\nUse it with other people in the same terminal, and connect your Claudes so they can all talk to each other.",
-        "contentHtml": "We made Claude Code multiplayer!  \n\nUse it with other people in the same terminal, and connect your Claudes so they can all talk to each other.",
-        "link": "https://x.com/dorsa_rohani/status/2074963064231952832"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075043137630916766",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "昨晚披露的美联储6月会议纪要，印证了之前这篇推文的一个猜想：Fomc票委们的点阵图预测还是依靠备忘录签署之前的走势和数据，其实对美伊备忘录签署之后的走向并没有充分考虑、这其实反倒是一个预期差。也能理解备忘录刚刚签署，后续走势还不明朗，最稳妥的方式还是拿着之前的数据来做预测，未来还能随时在做修正。\n\n当时也聊到对于通胀核心是下行的斜率会有多快，看样子nick终于领悟到这一点了，6月中议息会议后他是很悲观的。",
-      "contentHtml": "昨晚披露的美联储6月会议纪要，印证了之前这篇推文的一个猜想：Fomc票委们的点阵图预测还是依靠备忘录签署之前的走势和数据，其实对美伊备忘录签署之后的走向并没有充分考虑、这其实反倒是一个预期差。也能理解备忘录刚刚签署，后续走势还不明朗，最稳妥的方式还是拿着之前的数据来做预测，未来还能随时在做修正。\n\n当时也聊到对于通胀核心是下行的斜率会有多快，看样子nick终于领悟到这一点了，6月中议息会议后他是很悲观的。",
-      "publishedAt": "2026-07-09T02:23:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2075043137630916766",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMwIu00awAABEVh.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "聊聊近期市场最为担心的年内加息可能性，上周四沃什首秀之后市场就会担心年内加息的可能性，上周末德银报告就明确说预期年内加息，然后昨天美银年内三次加息的预测更是把市场吓坏了。到底会加么？美联储加息要么就通胀太高，要么是经济过热。聊聊个人看法：\n1、当下市场强烈的加息预期来自上周fomc的点阵图和沃什的表态，上周这里nitter.net/qinbafrank/status/2067…有聊过：Fomc票委们的点阵图预测还是依靠备忘录签署之前的走势和数据，其实对美伊备忘录签署之后的走向并没有充分考虑、这其实反倒是一个预期差。也能理解备忘录刚刚签署，后续走势还不明朗，最稳妥的方式还是拿着之前的数据来做预测，未来还能随时在做修正。\n\n2、年内影响通胀最重要的因素还是霍尔木兹海峡被关闭后的油价，一直到5月的美国cpi就能看出来通胀反弹主力是油价驱动的能源通胀和部分商品通胀，但是跟服务业高度相关的核心通胀反弹势头还可控。而美伊停战备忘录的签署则带来的之前驱动通胀反弹的逻辑重置可能。\n\n3、下半年影响油价走势的几个因素：\n霍尔木兹海峡原油运输恢复正常；\n伊朗原油出口制裁被解除，60天许可延长或转为长期协议，伊朗出口稳定回到160万至200万桶/日 ；\n欧佩克+扩产；\n阿联酋退出欧佩克大概率也会扩产；\n各国原油补库存+新增储备需求；\n\n1）霍尔木兹海峡恢复正常、欧佩克+扩产、阿联酋扩产+，是驱动油价的反转下行的供给力量；\n2）伊朗原油出口制裁被解除也可以算出供给力量，但要看之前伊朗制裁时每天通过影子船只出口150万桶，接触制裁后产能如果还能提升，那么多出的部分就是原油市场新增的产能；\n3）各国原油补库存，之前看路透社报道伊朗战争后，全球已经消耗约4亿桶库存，同时各国新增储备建设计划可能带来约5亿桶额外需求；合计接近10亿桶潜在补库/建库需求。 这里核心看补库存的时间周期：\n2年补完10亿桶，那么约137万桶/日；\n若年补完10亿桶，约91万桶/日。\n\n整体来看，美伊备忘录签署后布伦特原油快速跌破80美元，这说明市场先砍掉的是“霍尔木兹/战争/制裁风险溢价”。如果后续船运数据确认伊朗装船、保险恢复，欧佩克+及阿联酋增产，那么Brent/WTI仍有继续向下修正空间。\n\n当然这也不是意味着油价会直线往下崩，而是：\n战争/制裁溢价快速回落 → \n低库存和补库需求托底 → \n若供给恢复进一步提升，油价再逐步下移。\n\n4、如果油价下行，那么通胀大概率也会下行。核心两者下行的斜率会有多快？\n\n同时上周space这里nitter.net/qinbafrank/status/2067…也有聊到劳动力市场的“世界杯效应”，美国商家为了应对世界杯的观赛潮，会在五六月招聘大量的服务人员，这个效应一直会到7月19号世界杯决赛，一旦进入淘汰赛阶段，服务业用人需求大概率会开始下降。\n\n5、当然还要考虑经济因素\n在月中这篇宏观重置逻辑里提到美国经济实际动能比大家感受观察的要更强一些，而昨晚标普全球制造业及服务业PMI均超预期，也证明了经济还是相当可以的。\n\n综合来看：\n油价下行带动通胀下行（主要看下行能多快）；\n劳动力“世界杯效应”退去就业可能的回落“\n经济基本面还是相当可以，AI大基建的溢出效应；\n沃什首秀的态度着重强调的通胀（意味着不只是看通胀下行、还要看下行的斜率，相当于他给降息设定了一个很高的门槛就是要非常接近2%才会考虑）\n\n这几点结合个人认为：\n1）年内不加息按兵不动的概率是最大的，仍然维持不加息作为基准情况来看，这对应的情景是：通胀下行但还没触及2%，劳动力市场回落但没有崩。\n\n2）当然乐观版本就是，通胀下行速度很快，劳动力市场因为“世界杯效应”退去叠加AI冲击崩掉，还是有降息的可能；\n\n3（最坏情景是：通胀下行速度并不快甚至下降到某个位置（在高于2%的区间）进入平台期了，AI大基建带动经济还有过热的趋势（意味着劳动力市场的还行），那我们担心的加息可能就真的会发生。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "聊聊近期市场最为担心的年内加息可能性，上周四沃什首秀之后市场就会担心年内加息的可能性，上周末德银报告就明确说预期年内加息，然后昨天美银年内三次加息的预测更是把市场吓坏了。到底会加么？美联储加息要么就通胀太高，要么是经济过热。聊聊个人看法：\n1、当下市场强烈的加息预期来自上周fomc的点阵图和沃什的表态，上周这里<a href=\"https://nitter.net/qinbafrank/status/2067414191846416800?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2067…</a>有聊过：Fomc票委们的点阵图预测还是依靠备忘录签署之前的走势和数据，其实对美伊备忘录签署之后的走向并没有充分考虑、这其实反倒是一个预期差。也能理解备忘录刚刚签署，后续走势还不明朗，最稳妥的方式还是拿着之前的数据来做预测，未来还能随时在做修正。\n\n2、年内影响通胀最重要的因素还是霍尔木兹海峡被关闭后的油价，一直到5月的美国cpi就能看出来通胀反弹主力是油价驱动的能源通胀和部分商品通胀，但是跟服务业高度相关的核心通胀反弹势头还可控。而美伊停战备忘录的签署则带来的之前驱动通胀反弹的逻辑重置可能。\n\n3、下半年影响油价走势的几个因素：\n霍尔木兹海峡原油运输恢复正常；\n伊朗原油出口制裁被解除，60天许可延长或转为长期协议，伊朗出口稳定回到160万至200万桶/日 ；\n欧佩克+扩产；\n阿联酋退出欧佩克大概率也会扩产；\n各国原油补库存+新增储备需求；\n\n1）霍尔木兹海峡恢复正常、欧佩克+扩产、阿联酋扩产+，是驱动油价的反转下行的供给力量；\n2）伊朗原油出口制裁被解除也可以算出供给力量，但要看之前伊朗制裁时每天通过影子船只出口150万桶，接触制裁后产能如果还能提升，那么多出的部分就是原油市场新增的产能；\n3）各国原油补库存，之前看路透社报道伊朗战争后，全球已经消耗约4亿桶库存，同时各国新增储备建设计划可能带来约5亿桶额外需求；合计接近10亿桶潜在补库/建库需求。 这里核心看补库存的时间周期：\n2年补完10亿桶，那么约137万桶/日；\n若年补完10亿桶，约91万桶/日。\n\n整体来看，美伊备忘录签署后布伦特原油快速跌破80美元，这说明市场先砍掉的是“霍尔木兹/战争/制裁风险溢价”。如果后续船运数据确认伊朗装船、保险恢复，欧佩克+及阿联酋增产，那么Brent/WTI仍有继续向下修正空间。\n\n当然这也不是意味着油价会直线往下崩，而是：\n战争/制裁溢价快速回落 → \n低库存和补库需求托底 → \n若供给恢复进一步提升，油价再逐步下移。\n\n4、如果油价下行，那么通胀大概率也会下行。核心两者下行的斜率会有多快？\n\n同时上周space这里<a href=\"https://nitter.net/qinbafrank/status/2067519756882833815?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2067…</a>也有聊到劳动力市场的“世界杯效应”，美国商家为了应对世界杯的观赛潮，会在五六月招聘大量的服务人员，这个效应一直会到7月19号世界杯决赛，一旦进入淘汰赛阶段，服务业用人需求大概率会开始下降。\n\n5、当然还要考虑经济因素\n在月中这篇宏观重置逻辑里提到美国经济实际动能比大家感受观察的要更强一些，而昨晚标普全球制造业及服务业PMI均超预期，也证明了经济还是相当可以的。\n\n综合来看：\n油价下行带动通胀下行（主要看下行能多快）；\n劳动力“世界杯效应”退去就业可能的回落“\n经济基本面还是相当可以，AI大基建的溢出效应；\n沃什首秀的态度着重强调的通胀（意味着不只是看通胀下行、还要看下行的斜率，相当于他给降息设定了一个很高的门槛就是要非常接近2%才会考虑）\n\n这几点结合个人认为：\n1）年内不加息按兵不动的概率是最大的，仍然维持不加息作为基准情况来看，这对应的情景是：通胀下行但还没触及2%，劳动力市场回落但没有崩。\n\n2）当然乐观版本就是，通胀下行速度很快，劳动力市场因为“世界杯效应”退去叠加AI冲击崩掉，还是有降息的可能；\n\n3（最坏情景是：通胀下行速度并不快甚至下降到某个位置（在高于2%的区间）进入平台期了，AI大基建带动经济还有过热的趋势（意味着劳动力市场的还行），那我们担心的加息可能就真的会发生。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2069595673113268501",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HLiuEzhWIAAWr3N.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075043243855872418",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI \n\n试了下确实超快。能力我测不出来，看你们了。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n试了下确实超快。能力我测不出来，看你们了。",
-      "publishedAt": "2026-07-09T02:23:00.000Z",
-      "link": "https://x.com/taresky/status/2075043243855872418",
-      "quote": {
-        "username": "JinjingLiang",
-        "displayName": "jinjingliang",
-        "content": "I didn't expect to say this...\n\nBut after one day with Grok 4.5 from @SpaceXAI, I've already started moving some of my Claude Code and Codex workflows over.\n\nIt's ridiculously fast, and the intelligence is way better than I expected.\n\nHuge props to @elonmusk and the team.\n\nIf you're paying $8/month for X Premium, you've already got plenty of Grok usage included. It's worth trying.",
-        "contentHtml": "I didn't expect to say this...\n\nBut after one day with Grok 4.5 from <a href=\"/SpaceXAI\" title=\"SpaceXAI\">@SpaceXAI</a>, I've already started moving some of my Claude Code and Codex workflows over.\n\nIt's ridiculously fast, and the intelligence is way better than I expected.\n\nHuge props to <a href=\"/elonmusk\" title=\"Elon Musk\">@elonmusk</a> and the team.\n\nIf you're paying $8/month for X Premium, you've already got plenty of Grok usage included. It's worth trying.",
-        "link": "https://x.com/JinjingLiang/status/2075018548259541180",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMvyA2PbcAELXAO.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075041205352861759",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "不同观点：\n\n一个后端程序员去做卖 10000 美元的应用才是浪费时间。\n\n因为这件事半吊子产品经理都能做，现阶段太容易了，没门槛，也会越来越卷。\n\n要么就直接放弃后端程序员这个方向，转做产品，或 to C 的独立开发。\n\n回报更高的方向，应该是继续垂直提高自己的领域技能，让 AI 和其他后端程序员赶不上。顺带做点个人社交网络、开源、技术分享，提高知名度。\n\n然后通过打高级工，或者技术合伙人的身份创业，来实现财富积累。\n\n当然方向是方向，能做到什么程度还看个人。",
-      "contentHtml": "不同观点：\n\n一个后端程序员去做卖 10000 美元的应用才是浪费时间。\n\n因为这件事半吊子产品经理都能做，现阶段太容易了，没门槛，也会越来越卷。\n\n要么就直接放弃后端程序员这个方向，转做产品，或 to C 的独立开发。\n\n回报更高的方向，应该是继续垂直提高自己的领域技能，让 AI 和其他后端程序员赶不上。顺带做点个人社交网络、开源、技术分享，提高知名度。\n\n然后通过打高级工，或者技术合伙人的身份创业，来实现财富积累。\n\n当然方向是方向，能做到什么程度还看个人。",
-      "publishedAt": "2026-07-09T02:15:00.000Z",
-      "link": "https://x.com/taresky/status/2075041205352861759",
-      "quote": {
-        "username": "affe_is_me",
-        "displayName": "affe",
-        "content": "问题是我真的认识产品经理一个人做出生产可用的应用且赚到了不少钱。\n\n作为搞云计算出生的程序员，我可以负责任的说：  \n\n一个应用赚到10000美金之前，任何考虑后端技术架构的行为都等同于浪费时间。",
-        "contentHtml": "问题是我真的认识产品经理一个人做出生产可用的应用且赚到了不少钱。\n\n作为搞云计算出生的程序员，我可以负责任的说：  \n\n一个应用赚到10000美金之前，任何考虑后端技术架构的行为都等同于浪费时间。",
-        "link": "https://x.com/affe_is_me/status/2074964542678000028"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
