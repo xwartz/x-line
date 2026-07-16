@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T14:45:13.652Z",
+  "lastUpdated": "2026-07-16T15:36:10.550Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,99 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 647,
-    "successUsers": 32,
-    "failedUsers": 0
+    "newFetched": 630,
+    "successUsers": 31,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2077775854315217095",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "几周前，YTD，标普涨10%，芯片100%+\n现在，YTD，标普涨10%，芯片78%，有什么问题吗？\nAI又不是只有芯片和硬件，盈亏同源聊过很多次，只有自己经历一次去杠杆，才知道这些短期资金一旦逃跑会有多可怕，没经历过的散户会拿基本面麻痹自己，然后找各种数据支持继续持有和抄底，实际心里慌的一匹。\n1. 分开基本面和短期价格，如果真对基本面有把握，下跌应该毫不慌张\n2. 下次做到别太上头，明明知道情绪面很高，还要大仓位进去做，长在路边走，哪有不湿鞋，这种想法终有一天要载跟头\n3. 股市长期赚钱真不难，难得是短期如何抑制自己不去FOMO和不去恐慌，我们在今年的7个月里都经历了\n最后我仍然看好有财报支持的AI标的，那些不赚钱的，讲几年以后故事的，下去就很难再起来。",
+      "contentHtml": "几周前，YTD，标普涨10%，芯片100%+\n现在，YTD，标普涨10%，芯片78%，有什么问题吗？\nAI又不是只有芯片和硬件，盈亏同源聊过很多次，只有自己经历一次去杠杆，才知道这些短期资金一旦逃跑会有多可怕，没经历过的散户会拿基本面麻痹自己，然后找各种数据支持继续持有和抄底，实际心里慌的一匹。\n1. 分开基本面和短期价格，如果真对基本面有把握，下跌应该毫不慌张\n2. 下次做到别太上头，明明知道情绪面很高，还要大仓位进去做，长在路边走，哪有不湿鞋，这种想法终有一天要载跟头\n3. 股市长期赚钱真不难，难得是短期如何抑制自己不去FOMO和不去恐慌，我们在今年的7个月里都经历了\n最后我仍然看好有财报支持的AI标的，那些不赚钱的，讲几年以后故事的，下去就很难再起来。",
+      "publishedAt": "2026-07-16T15:22:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2077775854315217095",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077774496225018167",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "一周前聊到的大模型价格战是真的来了，今天几家 AI 大模型公司不约而同做了同一件事：\n1）Anthropic 宣布重置所有用户的 5 小时和每周使用限制；\n2）OpenAI 再次提高 Codex 和 ChatGPT Work 的使用额度。注意“再次”两个字，说明不是第一次放开限制，而是近期连续多轮上调；\n3）xAI 不仅重置了 Grok 的使用限额，还开放了 Grok Build；\n4）Cursor更直接，将所有订阅计划的模型使用额度翻倍。\n\n看到这类动作，大家最关心两个问题：为什么要这么做？影响是什么？\n1、先说为什么要这么做？\n核心还是这两周一起聊到的nitter.net/qinbafrank/status/2076… 企业采用AI进入分场景、多模型的工程化阶段，企业自己也需要把高频、低复杂度和低价值场景分配给高性价比token、这也倒逼了解前沿闭源大模型主动应战，价格战永远是最有效的策略。\n\n2、再说有何影响？\n1）短期来看，大家担心是不是影响大模型的利润率。毕竟价格下降意味着单次调用收入降低，单位 Token 的商业价值下降，短期毛利率和盈利能力自然会承压。\n2）但中长期，则是要看能激发出多大的幅度的需求量增长。如果需求爆发式增长、token的消耗量增长幅度大大抵消token单价的降低，最后总盘子变大了。上周在这里nitter.net/qinbafrank/status/2074…也有聊过：“越多企业采用AI，成本工程化做的越好，高端模型的份额被部分蚕食，但会不会带动商业化份额绝对值应该还是在快速增长？因为盘子更大了。”\n\n但这里最关键的就是这个短期和中长期之间的时间差有多大。降价毛利和盈利能力会立马下去，需求的爆炸是不是能立马补上来，还是需要一点时间才行？",
+      "contentHtml": "一周前聊到的大模型价格战是真的来了，今天几家 AI 大模型公司不约而同做了同一件事：\n1）Anthropic 宣布重置所有用户的 5 小时和每周使用限制；\n2）OpenAI 再次提高 Codex 和 ChatGPT Work 的使用额度。注意“再次”两个字，说明不是第一次放开限制，而是近期连续多轮上调；\n3）xAI 不仅重置了 Grok 的使用限额，还开放了 Grok Build；\n4）Cursor更直接，将所有订阅计划的模型使用额度翻倍。\n\n看到这类动作，大家最关心两个问题：为什么要这么做？影响是什么？\n1、先说为什么要这么做？\n核心还是这两周一起聊到的<a href=\"https://nitter.net/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2076…</a> 企业采用AI进入分场景、多模型的工程化阶段，企业自己也需要把高频、低复杂度和低价值场景分配给高性价比token、这也倒逼了解前沿闭源大模型主动应战，价格战永远是最有效的策略。\n\n2、再说有何影响？\n1）短期来看，大家担心是不是影响大模型的利润率。毕竟价格下降意味着单次调用收入降低，单位 Token 的商业价值下降，短期毛利率和盈利能力自然会承压。\n2）但中长期，则是要看能激发出多大的幅度的需求量增长。如果需求爆发式增长、token的消耗量增长幅度大大抵消token单价的降低，最后总盘子变大了。上周在这里<a href=\"https://nitter.net/qinbafrank/status/2074061695438483754?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2074…</a>也有聊过：“越多企业采用AI，成本工程化做的越好，高端模型的份额被部分蚕食，但会不会带动商业化份额绝对值应该还是在快速增长？因为盘子更大了。”\n\n但这里最关键的就是这个短期和中长期之间的时间差有多大。降价毛利和盈利能力会立马下去，需求的爆炸是不是能立马补上来，还是需要一点时间才行？",
+      "publishedAt": "2026-07-16T15:16:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2077774496225018167",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNW84-DbkAAMEH6.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNW8493bIAABJqs.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "可以说这次GPT5.6的发布正式拉开了前沿闭源大模型价格战的序幕？为什么这么说。\n先看看GPT5.6的定价结构（API 每百万 tokens，短上下文标准价）：\n1）Sol（旗舰）：$5 输入 / $30 输出（与 GPT-5.5 旗舰价格持平）。\n2）Terra：$2.50 / $15（性能接近 GPT-5.5，但成本更低）。\n3）Luna：$1 / $6（最便宜，性能仍很强，接近或超过部分前代旗舰）。\n\n这算是OpenAI首次在旗舰系列中推出明确的多层定价，让用户根据任务复杂度灵活选择。Luna和Terra提供了“接近旗舰性能但大幅降低成本”的选项，这对开发者、API 重度用户极具吸引力，直接冲击竞争对手（如 Anthropic 的 Claude 系列）。\n\n此前已有报道称 OpenAI 考虑大幅降价以应对 Anthropic 等竞争，此次通过 tiered 模型实现了“更多能力同价 + 低成本高性能选项”，实质是回应了市场对成本敏感度的需求。 同时推出 prompt caching 新机制（缓存写入 1.25x 等）和多代理功能，进一步提升实际使用性价比。\n\n当然也不算传统“价格战”，因为顶级旗舰Sol价格并未下降，而是“同价更强”。\n这更像是价值战和差异化竞争的体现：OpenAI 用分层模型 + Agentic能力（多代理、Work agent）来抢占市场，而非单纯拼低价。更准确地说是“性价比战 / tiered 定价竞争”的加速，而非单纯的旗舰降价大战。\n\n行业整体趋势是类似的——各家（Anthropic、Google、xAI 等）都在优化定价结构、推出tier模型和Agent功能。OpenAI 此举很可能加速这一进程，尤其对闭源前沿模型的 API 定价和 agent 能力竞争。\n\n这标志着顶级闭源大模型从“单一旗舰高价”向多层模型性价比竞争 + agentic功能战”的转变。价格敏感用户会明显受益，行业竞争会更激烈，但短期内旗舰模型大幅跳水式降价可能还不会出现。\n\n长期看，这对整个生态（尤其是开发者）是利好，推动模型更快迭代和更广泛应用。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "可以说这次GPT5.6的发布正式拉开了前沿闭源大模型价格战的序幕？为什么这么说。\n先看看GPT5.6的定价结构（API 每百万 tokens，短上下文标准价）：\n1）Sol（旗舰）：$5 输入 / $30 输出（与 GPT-5.5 旗舰价格持平）。\n2）Terra：$2.50 / $15（性能接近 GPT-5.5，但成本更低）。\n3）Luna：$1 / $6（最便宜，性能仍很强，接近或超过部分前代旗舰）。\n\n这算是OpenAI首次在旗舰系列中推出明确的多层定价，让用户根据任务复杂度灵活选择。Luna和Terra提供了“接近旗舰性能但大幅降低成本”的选项，这对开发者、API 重度用户极具吸引力，直接冲击竞争对手（如 Anthropic 的 Claude 系列）。\n\n此前已有报道称 OpenAI 考虑大幅降价以应对 Anthropic 等竞争，此次通过 tiered 模型实现了“更多能力同价 + 低成本高性能选项”，实质是回应了市场对成本敏感度的需求。 同时推出 prompt caching 新机制（缓存写入 1.25x 等）和多代理功能，进一步提升实际使用性价比。\n\n当然也不算传统“价格战”，因为顶级旗舰Sol价格并未下降，而是“同价更强”。\n这更像是价值战和差异化竞争的体现：OpenAI 用分层模型 + Agentic能力（多代理、Work agent）来抢占市场，而非单纯拼低价。更准确地说是“性价比战 / tiered 定价竞争”的加速，而非单纯的旗舰降价大战。\n\n行业整体趋势是类似的——各家（Anthropic、Google、xAI 等）都在优化定价结构、推出tier模型和Agent功能。OpenAI 此举很可能加速这一进程，尤其对闭源前沿模型的 API 定价和 agent 能力竞争。\n\n这标志着顶级闭源大模型从“单一旗舰高价”向多层模型性价比竞争 + agentic功能战”的转变。价格敏感用户会明显受益，行业竞争会更激烈，但短期内旗舰模型大幅跳水式降价可能还不会出现。\n\n长期看，这对整个生态（尤其是开发者）是利好，推动模型更快迭代和更广泛应用。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2075399923647046085"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077772317028229312",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
+      "content": "From our team at Impossible Research - an agent harness that plays games, writes code, reasons like a physicist, and saturates the ARC-AGI-3 benchmark.",
+      "contentHtml": "From our team at Impossible Research - an agent harness that plays games, writes code, reasons like a physicist, and saturates the ARC-AGI-3 benchmark.",
+      "publishedAt": "2026-07-16T15:08:00.000Z",
+      "link": "https://x.com/naval/status/2077772317028229312",
+      "quote": {
+        "username": "HavenFeng",
+        "displayName": "Haven Feng",
+        "content": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
+        "contentHtml": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
+        "link": "https://x.com/HavenFeng/status/2077770348876247502"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077770348876247502",
+      "username": "HavenFeng",
+      "displayName": "Haven Feng",
+      "avatar": "https://pbs.twimg.com/profile_images/1450720196113612801/aLbAfEyL_bigger.jpg",
+      "content": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
+      "contentHtml": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
+      "publishedAt": "2026-07-16T15:00:00.000Z",
+      "link": "https://x.com/HavenFeng/status/2077770348876247502",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2077760851990204576",
       "username": "KillaXBT",
@@ -1473,32 +1561,6 @@
             "url": "https://pbs.twimg.com/media/HNRrg2ebgAAhms1.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077418522909761944",
-      "username": "zkDragon",
-      "displayName": "Dev 🧪",
-      "avatar": "https://pbs.twimg.com/profile_images/1463738500591894529/eQbV2qir_bigger.jpg",
-      "content": "Excited to announce Zakura! A new Zcash full node, built around scale!\n\nWe've teamed up with @TachyonZcash to make this a reality.\n\nOur first release solves many painpoints for the ecosystem:\n- Much faster sync\n- Pruned nodes\n- Snapshots\n- Support for Zcashd wallets\n🧵",
-      "contentHtml": "Excited to announce Zakura! A new Zcash full node, built around scale!\n\nWe've teamed up with <a href=\"/TachyonZcash\" title=\"Project Tachyon\">@TachyonZcash</a> to make this a reality.\n\nOur first release solves many painpoints for the ecosystem:\n- Much faster sync\n- Pruned nodes\n- Snapshots\n- Support for Zcashd wallets\n🧵",
-      "publishedAt": "2026-07-15T15:42:00.000Z",
-      "link": "https://x.com/zkDragon/status/2077418522909761944",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "ZakuraZcash",
-        "displayName": "Zakura",
-        "content": "Announcing Zakura: a new Zcash node built for scale.",
-        "contentHtml": "Announcing Zakura: a new Zcash node built for scale.",
-        "link": "https://x.com/ZakuraZcash/status/2077416651604271596"
       },
       "stats": {
         "replies": 0,
@@ -8439,32 +8501,6 @@
       }
     },
     {
-      "id": "2076110027924939121",
-      "username": "DanFriedman81",
-      "displayName": "Daniel Friedman",
-      "avatar": "https://pbs.twimg.com/profile_images/1230363171493425153/dNeNfu9e_bigger.jpg",
-      "content": "Stuy is New York’s most prestigious high school because it admits the highest-performing students as determined entirely by scores on an objective, unbiased test.\n\nSeats at Stuy are not allocated by race.  They are not given out through a subjective process that can be influenced by politics or favoritism or money. \n\nThe kids who got in did the best, and the kids who did not do the best cannot get in, no matter how much rich parents or woke politicians want to corrupt the fair and objective admissions competition. \n\nPeople like Lincoln Restler think Stuy is prestigious for reasons other than the fact that it has a rigorous objective admissions standard.  He thinks the prestige these kids earned through their excellence can be redistributed to the students who are not the best that he would prefer to pretend are the best.\n\nBut these students are not prestigious because they go to Stuy; Stuy is prestigious because these students go there. And if different students — inferior students— went there, then Stuy would no longer be the school that is a magnet for the smartest kids in New York and its prestige and reputation would dissipate rapidly, just like the University of California system’s has.\n\nOr maybe Restler knows this, and he just wants to destroy Stuy, because he wants to prevent these students’ talent from being measured and identified, so they can be scattered into low-performing schools where they will languish instead of having their talent cultivated.\n\nRegardless, his ideology of racial grievance and destruction is a monstrous evil masquerading as “social justice,” and it will not be tolerated.",
-      "contentHtml": "Stuy is New York’s most prestigious high school because it admits the highest-performing students as determined entirely by scores on an objective, unbiased test.\n\nSeats at Stuy are not allocated by race.  They are not given out through a subjective process that can be influenced by politics or favoritism or money. \n\nThe kids who got in did the best, and the kids who did not do the best cannot get in, no matter how much rich parents or woke politicians want to corrupt the fair and objective admissions competition. \n\nPeople like Lincoln Restler think Stuy is prestigious for reasons other than the fact that it has a rigorous objective admissions standard.  He thinks the prestige these kids earned through their excellence can be redistributed to the students who are not the best that he would prefer to pretend are the best.\n\nBut these students are not prestigious because they go to Stuy; Stuy is prestigious because these students go there. And if different students — inferior students— went there, then Stuy would no longer be the school that is a magnet for the smartest kids in New York and its prestige and reputation would dissipate rapidly, just like the University of California system’s has.\n\nOr maybe Restler knows this, and he just wants to destroy Stuy, because he wants to prevent these students’ talent from being measured and identified, so they can be scattered into low-performing schools where they will languish instead of having their talent cultivated.\n\nRegardless, his ideology of racial grievance and destruction is a monstrous evil masquerading as “social justice,” and it will not be tolerated.",
-      "publishedAt": "2026-07-12T01:02:00.000Z",
-      "link": "https://x.com/DanFriedman81/status/2076110027924939121",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "LincolnRestler",
-        "displayName": "Lincoln Restler",
-        "content": "1 in 5 NYC public school students are Black, but at Stuy - our most prestigious high school - 3 of ~800 incoming Freshmen are Black.\n\nWe urgently need state legislation to modify the admissions process. A single test should never be only factor deciding who gets in & who doesn’t.",
-        "contentHtml": "1 in 5 NYC public school students are Black, but at Stuy - our most prestigious high school - 3 of ~800 incoming Freshmen are Black.\n\nWe urgently need state legislation to modify the admissions process. A single test should never be only factor deciding who gets in &amp; who doesn’t.",
-        "link": "https://x.com/LincolnRestler/status/2076035293682040970"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2076103285518537178",
       "username": "yuren477",
       "displayName": "余人sama",
@@ -9881,32 +9917,6 @@
       }
     },
     {
-      "id": "2075595081625518498",
-      "username": "theobjectivist",
-      "displayName": "The Rational Animal 🤔",
-      "avatar": "https://pbs.twimg.com/profile_images/1993173930698481664/3G0PfSmu_bigger.jpg",
-      "content": "Read the article you referenced Congressman @RoKhanna. It refutes you.\n\nBarzar earns $32.90 an hour, has over $1 million in his 401(k), $15 co-pays, a house with a pool, and had every one of his wife's three brain surgeries covered in full. Costco gave him this. Not Congress. Not a wealth tax. Not you. A private company, freely, because paying and keeping good workers is good business.\n\nThat's the whole point you keep missing. Costco proves the market rewards productive labor without a single mandate. Their stock is up 2,000% doing it. The \"living wage\" you want to force already exists where value is freely traded, and it was built by the very system you spend your days attacking.\n\nSo what's your actual purpose? Barzar isn't bitter. He's grateful, and proud, and he built a good life. \n\nYou'd rather teach the man with less to resent the man with more, when Costco shows there's nothing to resent, only something to aspire to.\n\nThe producer earns his reward. Envy earns nothing. Stop selling grievance and let the market you fear keep lifting men like Tony Barzar.",
-      "contentHtml": "Read the article you referenced Congressman <a href=\"/RoKhanna\" title=\"Ro Khanna\">@RoKhanna</a>. It refutes you.\n\nBarzar earns $32.90 an hour, has over $1 million in his 401(k), $15 co-pays, a house with a pool, and had every one of his wife's three brain surgeries covered in full. Costco gave him this. Not Congress. Not a wealth tax. Not you. A private company, freely, because paying and keeping good workers is good business.\n\nThat's the whole point you keep missing. Costco proves the market rewards productive labor without a single mandate. Their stock is up 2,000% doing it. The \"living wage\" you want to force already exists where value is freely traded, and it was built by the very system you spend your days attacking.\n\nSo what's your actual purpose? Barzar isn't bitter. He's grateful, and proud, and he built a good life. \n\nYou'd rather teach the man with less to resent the man with more, when Costco shows there's nothing to resent, only something to aspire to.\n\nThe producer earns his reward. Envy earns nothing. Stop selling grievance and let the market you fear keep lifting men like Tony Barzar.",
-      "publishedAt": "2026-07-10T14:56:00.000Z",
-      "link": "https://x.com/theobjectivist/status/2075595081625518498",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "RoKhanna",
-        "displayName": "Ro Khanna",
-        "content": "If workers actually earned a living wage and could afford a middle class life, there would be so much less bitterness and anger in our society. Costco shows that policies of a living wage and worker ownership can also be good for business. wsj.com/business/retail/he-e…",
-        "contentHtml": "If workers actually earned a living wage and could afford a middle class life, there would be so much less bitterness and anger in our society. Costco shows that policies of a living wage and worker ownership can also be good for business. <a href=\"https://www.wsj.com/business/retail/he-earns-33-an-hour-as-a-costco-cashier-now-hes-a-millionaire-1e9ba725?st=56CQTr\">wsj.com/business/retail/he-e…</a>",
-        "link": "https://x.com/RoKhanna/status/2075584359126499699"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2075592732006101357",
       "username": "qinbafrank",
       "displayName": "qinbafrank",
@@ -10350,31 +10360,6 @@
         "content": "半年的交易记录统计出来了，控制回撤依然很菜\n只能通过提现来做 控制回撤\n说实话多亏了去年及时转去bybit 玩，他们是币圈最早开MT5的\n没去年8月转做黄金，没有3500突破做多拿住那波\n也就不会有今年3月的做空\n。。。憋不出多的废话了，就这样吧\n$xau",
         "contentHtml": "半年的交易记录统计出来了，控制回撤依然很菜\n只能通过提现来做 控制回撤\n说实话多亏了去年及时转去bybit 玩，他们是币圈最早开MT5的\n没去年8月转做黄金，没有3500突破做多拿住那波\n也就不会有今年3月的做空\n。。。憋不出多的废话了，就这样吧\n<a href=\"/search?f=tweets&q=%23xau\">$xau</a>",
         "link": "https://x.com/Bitfatty/status/2074335762422587845"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075559812922749279",
-      "username": "ankurnagpal",
-      "displayName": "Ankur Nagpal",
-      "avatar": "https://pbs.twimg.com/profile_images/1501577359228559367/_EXo3LFF_bigger.jpg",
-      "content": "PSA: There is a nasty impersonation scam going around with USVC at the moment\n\nIf you get an email from me or @naval asking about your USVC investment, it's likely fake:\n\n1. Naval will never email you.  He's allergic to email.\n\n2. If it's from me or someone else from the USVC team, check the domain of the sender before responding. We'll only ever email from a usvc or angellist domain\n\nBe careful out there",
-      "contentHtml": "PSA: There is a nasty impersonation scam going around with USVC at the moment\n\nIf you get an email from me or <a href=\"/naval\" title=\"Naval\">@naval</a> asking about your USVC investment, it's likely fake:\n\n1. Naval will never email you.  He's allergic to email.\n\n2. If it's from me or someone else from the USVC team, check the domain of the sender before responding. We'll only ever email from a usvc or angellist domain\n\nBe careful out there",
-      "publishedAt": "2026-07-10T12:36:00.000Z",
-      "link": "https://x.com/ankurnagpal/status/2075559812922749279",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HM3egDkXUAAE_PH.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -11815,38 +11800,6 @@
       }
     },
     {
-      "id": "2075210426875249056",
-      "username": "levelsio",
-      "displayName": "@levelsio",
-      "avatar": "https://pbs.twimg.com/profile_images/2077111020305162240/PwddgOau_bigger.jpg",
-      "content": "🇪🇺 Chat Control has passed 😔 \n\nThey can and will now legally scan any person's messages, emails and photos you send without a warrant\n\nThe way they passed this law when the majority of the European Parliament was against it will shock you:\n\nThey waited until most EP members were on holiday so only a few were present and then created an \"urgent\" vote for it to pass it through\n\nThere's nothing democratic about any of it and big powerful forces are behind this that can manipulate the EU for whatever they want\n\nDemocracy in Europe died a bit today 😔",
-      "contentHtml": "🇪🇺 Chat Control has passed 😔 \n\nThey can and will now legally scan any person's messages, emails and photos you send without a warrant\n\nThe way they passed this law when the majority of the European Parliament was against it will shock you:\n\nThey waited until most EP members were on holiday so only a few were present and then created an \"urgent\" vote for it to pass it through\n\nThere's nothing democratic about any of it and big powerful forces are behind this that can manipulate the EU for whatever they want\n\nDemocracy in Europe died a bit today 😔",
-      "publishedAt": "2026-07-09T13:28:00.000Z",
-      "link": "https://x.com/levelsio/status/2075210426875249056",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "MartinSonneborn",
-        "displayName": "Martin Sonneborn",
-        "content": "Illegaler Geschäftsordnungstrick der Parlamentspräsidentin - Eilantrag, der die Qualifizierte Mehrheit (360 Stimmen) GEGEN die Chatkontrolle gebraucht hätte, an einem Tag, an dem nur knapp 600 MEPs vor Ort waren, wegen Urlaub etc…",
-        "contentHtml": "Illegaler Geschäftsordnungstrick der Parlamentspräsidentin - Eilantrag, der die Qualifizierte Mehrheit (360 Stimmen) GEGEN die Chatkontrolle gebraucht hätte, an einem Tag, an dem nur knapp 600 MEPs vor Ort waren, wegen Urlaub etc…",
-        "link": "https://x.com/MartinSonneborn/status/2075170057898930687",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMx8KzQXwAEr7x1.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2075209921008980304",
       "username": "jheioff",
       "displayName": "第一美少女",
@@ -12174,6 +12127,21 @@
       "contentHtml": "所以 ADI 的叙事并不是单点应用，而是把三件事放在了一起：\n\n1. 中东资本；\n2. 受监管的金融基础设施；\n3. 可以承接现实资产和稳定币流转的结算网络。\n\n这也是为什么我认为 ADI 和很多纯链上项目不太一样。\n\n它不是先做一个链，然后再去找应用。\n\n它更像是先有现实世界的资本、监管框架和金融场景，再反过来把链作为结算层、托管层和资产流转层。",
       "publishedAt": "2026-07-09T12:03:00.000Z",
       "link": "https://x.com/octopusycc/status/2075189083266285740",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2075182031106085049",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "你们有没有听 papi 的新歌《生气了》\n\n好听 爱听\n\n洗脑神曲～papi酱《生气了》歌曲剪辑纯享版 @papi酱 xhslink.com/o/9Hr8LiZILOo \n【小红书】笔记已就绪，复制后即可查看~ l=en&mt=8",
+      "contentHtml": "你们有没有听 papi 的新歌《生气了》\n\n好听 爱听\n\n洗脑神曲～papi酱《生气了》歌曲剪辑纯享版 @papi酱 <a href=\"http://xhslink.com/o/9Hr8LiZILOo\">xhslink.com/o/9Hr8LiZILOo</a> \n【小红书】笔记已就绪，复制后即可查看~ l=en&amp;mt=8",
+      "publishedAt": "2026-07-09T11:35:00.000Z",
+      "link": "https://x.com/taresky/status/2075182031106085049",
       "stats": {
         "replies": 0,
         "retweets": 0,
