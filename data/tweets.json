@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T03:09:18.484Z",
+  "lastUpdated": "2026-07-16T05:07:43.240Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,109 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 650,
+    "newFetched": 647,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2077612585357365487",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "腾讯也是不负众望，混元大模型Hy3总调用量较上一代模型(Hy2)增长已超68倍。发布一周后，Hy3在OpenRouter全球大模型调用量总榜排名第一。",
+      "contentHtml": "腾讯也是不负众望，混元大模型Hy3总调用量较上一代模型(Hy2)增长已超68倍。发布一周后，Hy3在OpenRouter全球大模型调用量总榜排名第一。",
+      "publishedAt": "2026-07-16T04:33:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2077612585357365487",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNUpoTmbkAAL7De.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "在腾讯里躲调整，6月23号让大家高看腾讯一眼，基本上call在最底部，两周过去15%左右，如果再看半导体跌的，当时挪了部分仓位那还是能对冲不少的。腾讯走强核心逻辑三点：\n1、首先自然是微信Agent测试的驱动，\n之前有聊过微信月活13.82亿，小程序日活超过6亿，微信支付绑卡用户超过10亿。这是中国最大的社交网络、最大的内容平台、最大的服务生态、最大的支付体系，全部叠在一起。\n\n微信做Agent不模拟操作，它直接调用API。微信小程序有几百万个标准化接口，小微可以直接调。效率相比其他agent高了不是一点半点，是数个量级的差距。用户大量交易行为早已存在于微信等超级应用内部，因此Agent商业化基础更加成熟。\n\n腾讯也不会急于向普通用户收费，而更可能采用B端收费模式。具体而言，商家订阅Agent服务后，可获得更多AI流量、更丰富的AI工具以及更深入的微信生态连接；未订阅商家则相应获得更少流量与资源。这意味着腾讯未来AI收入更可能来自商家营销和服务付费，而非消费者直接订阅。\n\n2、前两天腾讯AI大模型Hy3正式版发布，Hy3延续2950亿总参数、210亿激活参数的架构，但在关键能力上显著优化：工具调用稳定性提升，幻觉率从12.5%降至5.4%，多轮对话记忆增强，整体推理能力达到GLM-5.1同级水平。不过，其在重度编程和通用推理上仍有取舍，GQA架构未来可通过MLA、DSA等KV Cache压缩技术进一步迭代。\n\n整体上X腾讯AI战略正从模型研发转向商业落地，未来衡量投入回报的核心指标将是Agent交易规模，而非聊天机器人使用量。围绕微信生态构建的Agent服务路径逐渐清晰，这也是腾讯AI长期价值的关键所在。\n\n第三点其实是最重要的就是资金的高低切，相信近期不少资金切到腾讯这种基本面好，又有业务上的强催化剂，同时调整了很久的相对低位的票上。\n\n有时候你不一定要撤退，但是可以学会适当的时候高低切，这就要求我们能不断寻找并识别新的机会。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "在腾讯里躲调整，6月23号让大家高看腾讯一眼，基本上call在最底部，两周过去15%左右，如果再看半导体跌的，当时挪了部分仓位那还是能对冲不少的。腾讯走强核心逻辑三点：\n1、首先自然是微信Agent测试的驱动，\n之前有聊过微信月活13.82亿，小程序日活超过6亿，微信支付绑卡用户超过10亿。这是中国最大的社交网络、最大的内容平台、最大的服务生态、最大的支付体系，全部叠在一起。\n\n微信做Agent不模拟操作，它直接调用API。微信小程序有几百万个标准化接口，小微可以直接调。效率相比其他agent高了不是一点半点，是数个量级的差距。用户大量交易行为早已存在于微信等超级应用内部，因此Agent商业化基础更加成熟。\n\n腾讯也不会急于向普通用户收费，而更可能采用B端收费模式。具体而言，商家订阅Agent服务后，可获得更多AI流量、更丰富的AI工具以及更深入的微信生态连接；未订阅商家则相应获得更少流量与资源。这意味着腾讯未来AI收入更可能来自商家营销和服务付费，而非消费者直接订阅。\n\n2、前两天腾讯AI大模型Hy3正式版发布，Hy3延续2950亿总参数、210亿激活参数的架构，但在关键能力上显著优化：工具调用稳定性提升，幻觉率从12.5%降至5.4%，多轮对话记忆增强，整体推理能力达到GLM-5.1同级水平。不过，其在重度编程和通用推理上仍有取舍，GQA架构未来可通过MLA、DSA等KV Cache压缩技术进一步迭代。\n\n整体上X腾讯AI战略正从模型研发转向商业落地，未来衡量投入回报的核心指标将是Agent交易规模，而非聊天机器人使用量。围绕微信生态构建的Agent服务路径逐渐清晰，这也是腾讯AI长期价值的关键所在。\n\n第三点其实是最重要的就是资金的高低切，相信近期不少资金切到腾讯这种基本面好，又有业务上的强催化剂，同时调整了很久的相对低位的票上。\n\n有时候你不一定要撤退，但是可以学会适当的时候高低切，这就要求我们能不断寻找并识别新的机会。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2074681121686900839",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMq_eukaAAI2deC.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077609999979757649",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "突然想到，前段时间埋怨交易所没给SpaceX额度的现在是不是得感谢没给是为你好🙂",
+      "contentHtml": "突然想到，前段时间埋怨交易所没给SpaceX额度的现在是不是得感谢没给是为你好🙂",
+      "publishedAt": "2026-07-16T04:23:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2077609999979757649",
+      "quote": {
+        "username": "Guilin_Chen_",
+        "displayName": "陈桂林",
+        "content": "对于大多数人来说，从加密到美股，只是换一个地方亏钱而已。",
+        "contentHtml": "对于大多数人来说，从加密到美股，只是换一个地方亏钱而已。",
+        "link": "https://x.com/Guilin_Chen_/status/2077565037036871858"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077598232482615625",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "Hyperliquid 上线长鑫存储，将大家关心的几个问题做了下汇总💁‍♀️\n\n▶︎ HL 上的长鑫存储到底是在交易什么\n▶︎ A 股 IPO 发行价是 8.66元/股，5 刀的初始价格是谁定的\n▶︎ $CXMT 的价格是由预言机提供的吗，为什么刚上线时会在 6 刀堆积大量买方订单\n\n如果你只想了解简单结论，这是 1 分钟省流版\n\n🔹Hyperliquid 上的 CXMT 交易的是「市场对长鑫未来每股价格的预期」，即二级市场的潜在价格\n🔹5 刀的初始价格完全由 TradeXYZ 平台方决定\n🔹CXMT 的现阶段报价是从订单簿中提取并计算的\n\n现在是对每个问题的展开，感兴趣的小伙伴可以继续读下去\n\n1️⃣ HL 上的长鑫存储到底是在交易什么\n\n这个问题在 SpaceX IPO 前就在社区引发过广泛讨论，后因为总股本的变动再次发酵，TradeXYZ 最终没有选择 Rebase 而是坚持表示「价格不依赖市值或总股本数据」\n\n简而言之，Hyperliquid 上现阶段的 $CXMT 价格指向的是「市场对长鑫未来每股价格的预期」，与 IPO 发行价、市盈率、现金流等财务指标没有直接关联，而是旨在「让市场发现价格」\n\n2️⃣ A 股 IPO 发行价是 8.66元/股，HL 5 刀的初始价格是谁定的\n\nHyperliquid 的HIP-3 协议允许任何第三方通过质押 50 万枚 HYPE，在链上部署永续合约市场并成为「Deployer」，而 TradeXYZ 就是其中最早和最大的一个\n\n当市场缺乏外部价格时（例如在 Pre-IPO 阶段），该永续合约标的的初始报价由 Deployer（即 TradeXYZ 平台）自行决定，至于具体制定规则，就是黑盒了\n\n但 5 刀这个价格是随便给的吗，未必 —— 它对应的是 [$1.05, $17.92] 的边界区间，理论的下限价格为 $1.05（约 7.12 RMB），即 A 股 IPO 发行价 8.66 RMB 的 82%，略跌破发行价，因此还是相对合理的\n\n至于为什么对应这个区间，第三个问题的答案会提到\n\n3️⃣ $CXMT 的价格是由预言机提供的吗\n\n分为两个阶段\n▶︎ Pre-IPO 阶段：报价由预言机从订单簿中提取并计算\n▶︎ 正式交易后：由真实成交价格（外部价格）决定，合约价格将重新收敛\n\n当前阶段由于缺少外部价格，TradeXYZ 会让预言机从订单簿中提取信息，计算出一个「冲击价格差」，这个偏差反映了订单簿中买卖力量的不平衡，偏差值加上当前价格得出「目标价」，然后以一个受控的、缓慢的速度（称为\"时间常数\"）向这个目标价靠拢，防止价格被轻易操纵；在此基础上，预言机每次更新，相对上一价格的变动幅度最多只能有±1%，这样即使有极端外部变量出现，链上价格也只能一步步的变化，不会过于剧烈抖动\n\n那么价格可以无限制上涨或下跌吗？不行，有 Discovery Bounds 作为价格保险\n\n对于长鑫存储而言($CXMT)，由于最大杠杆倍数为 20x，平台设定了每次重新锚定幅度为 ±20%，向上向下至多有 7 次动态调整边界的机会，以 5 刀的初始价格为例，买单持续堆叠市场需求暴增，则向上调整 7 次最高到 17.92 美金，反之向下则到 1.05 美金，对应的人民币价格分别是 7.12 RMB 和 121.49 RMB，最终通过「重新锚定」的方式完成价格发现 —— 这就是 CXMT 刚上线时在 6 刀堆积了大量买方订单，随后快速拉升至 7.2 刀（涨幅 20 %），又涨至 8.64 刀（涨幅同样为 20 %）的原因\n\n最后的最后，还是要回归真实交易价格\n\n07.27 A 股开盘，Hyperliquid 上的合约价格将以实际交易价格为准，完成逐步收敛；如果偏差不大，那么 TradeXYZ 牛逼；如果偏差过大，可预期的就会出现大量清算了\n\n以上就是三个问题的详细解释，对于问题三参考了 @BlockBeatsAsia 的文章「拆解 TradeXYZ 定价机制，他们是如何提前定价的？」，解释的非常详细，推荐阅读 👉 foresightnews.pro/article/de…\n\n不是 Hyperliquid 专家，如果文中有任何错漏，可随时在评论区指正和讨论，也欢迎点赞 / 评论 / 转发一键三连🥰",
+      "contentHtml": "Hyperliquid 上线长鑫存储，将大家关心的几个问题做了下汇总💁‍♀️\n\n▶︎ HL 上的长鑫存储到底是在交易什么\n▶︎ A 股 IPO 发行价是 8.66元/股，5 刀的初始价格是谁定的\n▶︎ <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 的价格是由预言机提供的吗，为什么刚上线时会在 6 刀堆积大量买方订单\n\n如果你只想了解简单结论，这是 1 分钟省流版\n\n🔹Hyperliquid 上的 CXMT 交易的是「市场对长鑫未来每股价格的预期」，即二级市场的潜在价格\n🔹5 刀的初始价格完全由 TradeXYZ 平台方决定\n🔹CXMT 的现阶段报价是从订单簿中提取并计算的\n\n现在是对每个问题的展开，感兴趣的小伙伴可以继续读下去\n\n1️⃣ HL 上的长鑫存储到底是在交易什么\n\n这个问题在 SpaceX IPO 前就在社区引发过广泛讨论，后因为总股本的变动再次发酵，TradeXYZ 最终没有选择 Rebase 而是坚持表示「价格不依赖市值或总股本数据」\n\n简而言之，Hyperliquid 上现阶段的 <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 价格指向的是「市场对长鑫未来每股价格的预期」，与 IPO 发行价、市盈率、现金流等财务指标没有直接关联，而是旨在「让市场发现价格」\n\n2️⃣ A 股 IPO 发行价是 8.66元/股，HL 5 刀的初始价格是谁定的\n\nHyperliquid 的HIP-3 协议允许任何第三方通过质押 50 万枚 HYPE，在链上部署永续合约市场并成为「Deployer」，而 TradeXYZ 就是其中最早和最大的一个\n\n当市场缺乏外部价格时（例如在 Pre-IPO 阶段），该永续合约标的的初始报价由 Deployer（即 TradeXYZ 平台）自行决定，至于具体制定规则，就是黑盒了\n\n但 5 刀这个价格是随便给的吗，未必 —— 它对应的是 [$1.05, $17.92] 的边界区间，理论的下限价格为 $1.05（约 7.12 RMB），即 A 股 IPO 发行价 8.66 RMB 的 82%，略跌破发行价，因此还是相对合理的\n\n至于为什么对应这个区间，第三个问题的答案会提到\n\n3️⃣ <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 的价格是由预言机提供的吗\n\n分为两个阶段\n▶︎ Pre-IPO 阶段：报价由预言机从订单簿中提取并计算\n▶︎ 正式交易后：由真实成交价格（外部价格）决定，合约价格将重新收敛\n\n当前阶段由于缺少外部价格，TradeXYZ 会让预言机从订单簿中提取信息，计算出一个「冲击价格差」，这个偏差反映了订单簿中买卖力量的不平衡，偏差值加上当前价格得出「目标价」，然后以一个受控的、缓慢的速度（称为\"时间常数\"）向这个目标价靠拢，防止价格被轻易操纵；在此基础上，预言机每次更新，相对上一价格的变动幅度最多只能有±1%，这样即使有极端外部变量出现，链上价格也只能一步步的变化，不会过于剧烈抖动\n\n那么价格可以无限制上涨或下跌吗？不行，有 Discovery Bounds 作为价格保险\n\n对于长鑫存储而言($CXMT)，由于最大杠杆倍数为 20x，平台设定了每次重新锚定幅度为 ±20%，向上向下至多有 7 次动态调整边界的机会，以 5 刀的初始价格为例，买单持续堆叠市场需求暴增，则向上调整 7 次最高到 17.92 美金，反之向下则到 1.05 美金，对应的人民币价格分别是 7.12 RMB 和 121.49 RMB，最终通过「重新锚定」的方式完成价格发现 —— 这就是 CXMT 刚上线时在 6 刀堆积了大量买方订单，随后快速拉升至 7.2 刀（涨幅 20 %），又涨至 8.64 刀（涨幅同样为 20 %）的原因\n\n最后的最后，还是要回归真实交易价格\n\n07.27 A 股开盘，Hyperliquid 上的合约价格将以实际交易价格为准，完成逐步收敛；如果偏差不大，那么 TradeXYZ 牛逼；如果偏差过大，可预期的就会出现大量清算了\n\n以上就是三个问题的详细解释，对于问题三参考了 <a href=\"/BlockBeatsAsia\" title=\"BlockBeats｜We're hiring!\">@BlockBeatsAsia</a> 的文章「拆解 TradeXYZ 定价机制，他们是如何提前定价的？」，解释的非常详细，推荐阅读 👉 <a href=\"https://foresightnews.pro/article/detail/97130\">foresightnews.pro/article/de…</a>\n\n不是 Hyperliquid 专家，如果文中有任何错漏，可随时在评论区指正和讨论，也欢迎点赞 / 评论 / 转发一键三连🥰",
+      "publishedAt": "2026-07-16T03:36:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2077598232482615625",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNUcklZbIAAVmJS.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077595350219805175",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "前几天的韩国F4开会原来不是讨论救场，是讨论“打扫战场”啊🥲\n\n虽然市场有预期加息，但问题是为什么偏偏选在散户刚被强平完的节点落地？\n\n7月13日，韩国股市单日强平3442亿韩元，120万杠杆账户触及追缴线，30多万散户本金清零，这才过了三天加息就来了\n\n周二的时候KRX机构和外资已经是净流入了只有散户在抛售，也就是说两天前才强平完一波散户，现在转头加息很难不让人想象是为了“打扫战场”把散户手里剩下的筹码用加息逼一逼，让散户老老实实把自己的筹码交出去\n\n7月初的时候我就在提示行情不好做了，也一直在让大家挂好止损不要扛单\n\n有时候真的感慨市场的无情\n\n只有留在牌桌上才能等到后面的机会。",
+      "contentHtml": "前几天的韩国F4开会原来不是讨论救场，是讨论“打扫战场”啊🥲\n\n虽然市场有预期加息，但问题是为什么偏偏选在散户刚被强平完的节点落地？\n\n7月13日，韩国股市单日强平3442亿韩元，120万杠杆账户触及追缴线，30多万散户本金清零，这才过了三天加息就来了\n\n周二的时候KRX机构和外资已经是净流入了只有散户在抛售，也就是说两天前才强平完一波散户，现在转头加息很难不让人想象是为了“打扫战场”把散户手里剩下的筹码用加息逼一逼，让散户老老实实把自己的筹码交出去\n\n7月初的时候我就在提示行情不好做了，也一直在让大家挂好止损不要扛单\n\n有时候真的感慨市场的无情\n\n只有留在牌桌上才能等到后面的机会。",
+      "publishedAt": "2026-07-16T03:25:00.000Z",
+      "link": "https://x.com/dongbimao/status/2077595350219805175",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNUZ16pakAEeqtz.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2077582386930520449",
       "username": "0xPickleCati",
@@ -6456,6 +6554,25 @@
       }
     },
     {
+      "id": "2076447394250588638",
+      "username": "Cholian_Li",
+      "displayName": "BTC🦄Trader Cholian",
+      "avatar": "https://pbs.twimg.com/profile_images/2074385649596010496/2Irkjeja_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-07-12T23:23:00.000Z",
+      "link": "https://x.com/Cholian_Li/status/2076447394250588638",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2076443180799852628",
       "username": "taresky",
       "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
@@ -6666,25 +6783,6 @@
           "url": "https://pbs.twimg.com/media/HNCic6nWgAA6Gmq.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2076323181154230284",
-      "username": "satyanadella",
-      "displayName": "Satya Nadella",
-      "avatar": "https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_bigger.jpg",
-      "content": "",
-      "contentHtml": "",
-      "publishedAt": "2026-07-12T15:09:00.000Z",
-      "link": "https://x.com/satyanadella/status/2076323181154230284",
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -12134,116 +12232,6 @@
         "contentHtml": "三星二季度业绩预告利润都超市预期，营收只是略低于市场最乐观的预期但也远超平均预期。为何还大跌？\n1）不是业绩不够好，而是市场跑在了业绩的前面。就是典型的‘卖事实’逻辑——投资者早已将极高的预期充分定价。当估值被拉伸、轮动全面展开时，即便强劲的业绩也不足以满足市场。\n\n2）也是昨天推文里聊到的：“本季财报季的关键点是预期已经很高，容错率变低。预期非常高，意味着市场不只是要公司 beat，还要公司大幅度raise”。\n\n再说说存储板块，5月份这里有聊过<a href=\"https://nitter.net/qinbafrank/status/2054174740282216464?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2054…</a>按照现有几大存储厂商扩产的节奏来看，新产线投产可能要到27年下半年了，产能大规模释放就到28年了。未来一年，存储还是属于紧缺的状态。\n\n当下市场的状态跌的写照：高位、高杠杆、拥挤，又到了财报季，都知道市场预期很高，也都担心哪家财报放个炸弹，所以有避险。\n\n核心还是昨天推文聊到的：\n如果谷歌云、aws、微软云等几大云厂商继续大超预期，那么市场还会确实AI商业化经过一季度的拐点之后还是继续在加速的。同时几家CSP也要再次确认capex没有减缓。\n\n当然两大模型厂商官方披露的最新年化ARR数据也是非常关键核心的影响变量，看增速情况。\n\n昨天到今天的一个思考是<a href=\"https://nitter.net/qinbafrank/status/2074309065849884813?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2074…</a>，CSP业绩会是AI商业化进程关键的指标，权重能跟闭源大模型厂商同等重要，未来甚至更高。因为企业采用AI进程成本工程化阶段，很多高频、中低价值场景会转向高性价比token，这一部分商业价值其实是从闭源大模型身上切出来的，最终会沉淀在CSP的业绩上。CSP（云厂商）将成为最全最综合展示AI商业化进程的载体了。",
         "link": "https://x.com/qinbafrank/status/2074357003556884498"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075059355947581817",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "反手继续撸",
-      "contentHtml": "反手继续撸",
-      "publishedAt": "2026-07-09T03:27:00.000Z",
-      "link": "https://x.com/yuren477/status/2075059355947581817",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMwXeA3aoAACmTv.jpg"
-        }
-      ],
-      "quote": {
-        "username": "yuren477",
-        "displayName": "余人sama",
-        "content": "完全捡钱啊，老师还是太保守了",
-        "contentHtml": "完全捡钱啊，老师还是太保守了",
-        "link": "https://x.com/yuren477/status/2075038060254023889",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMwEHQPbYAAZuWG.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075056279782092830",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "你昨天做空是做对了方向\n\n但是特朗普晚上的反复反嘴骗人发言会把你钱弄走\n\n嗯，今天又炸了\n\n这老头嘴里没一句实话",
-      "contentHtml": "你昨天做空是做对了方向\n\n但是特朗普晚上的反复反嘴骗人发言会把你钱弄走\n\n嗯，今天又炸了\n\n这老头嘴里没一句实话",
-      "publishedAt": "2026-07-09T03:15:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2075056279782092830",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMwUrz5bgAEYh84.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075055324562886842",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "BSC Meme 叙事降温，地址 0xf7e…9e203 边跌边补仓资产已缩水 70.3%🥲\n\n他在 $CZ 07.06 的下跌趋势中首次建仓（约 6400 万美元市值），过去三天累计以 $0.05973 买入 17.7 万美元的代币，现已浮亏 12.4 万美元，仍在坚定持有中\n\n传送门 👉 debot.ai/address/bsc/0xf7e65…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "contentHtml": "BSC Meme 叙事降温，地址 0xf7e…9e203 边跌边补仓资产已缩水 70.3%🥲\n\n他在 <a href=\"/search?f=tweets&q=%23CZ\">$CZ</a> 07.06 的下跌趋势中首次建仓（约 6400 万美元市值），过去三天累计以 $0.05973 买入 17.7 万美元的代币，现已浮亏 12.4 万美元，仍在坚定持有中\n\n传送门 👉 <a href=\"https://debot.ai/address/bsc/0xf7e65c22df45dde9ec4ac38902b232e19c79e203?ref=174084\">debot.ai/address/bsc/0xf7e65…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "publishedAt": "2026-07-09T03:11:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2075055324562886842",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMwTz6sbwAAXlc4.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "在 $CZ 仅 15 万刀市值时低点建仓的榜五大户 / 疑似内幕地址，开始出货了🤨\n\n地址 0xf34…fddee 昨天仅花费 756.8 美金买入 510.8 万枚 CZ，成本低至 $0.0001481，10 分钟前他以 $0.06853 卖出了 25% 的持仓，获利 8.7 万美元\n\n目前已累计获利 37.4 万美元（含浮盈部分），回报率高达惊人的 49421.1%！\n\n传送门 👉 debot.ai/address/bsc/0xf3498…",
-        "contentHtml": "在 <a href=\"/search?f=tweets&q=%23CZ\">$CZ</a> 仅 15 万刀市值时低点建仓的榜五大户 / 疑似内幕地址，开始出货了🤨\n\n地址 0xf34…fddee 昨天仅花费 756.8 美金买入 510.8 万枚 CZ，成本低至 $0.0001481，10 分钟前他以 $0.06853 卖出了 25% 的持仓，获利 8.7 万美元\n\n目前已累计获利 37.4 万美元（含浮盈部分），回报率高达惊人的 49421.1%！\n\n传送门 👉 <a href=\"https://debot.ai/address/bsc/0xf3498683bead7f8d7f0278d1d39d09fe341fddee?ref=174084\">debot.ai/address/bsc/0xf3498…</a>",
-        "link": "https://x.com/ai_9684xtpa/status/2073732032908443973",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMdgG-kbIAAxVmB.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075047813562646869",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "兄弟，不扛单是交易基本原则10扛9死，最后一次也没好结果，向下跌50%概率很小很小，这是做交易计划不管哪种走势都有对应方案，你不会认为随便买买就能年挣百万吧？\n\n高手都死于抄底，扛单和黑天鹅你难道不知道，去年的1011不是历历在目吗，被套了有怨气，那我高点喊减仓控制仓位策略也出做空信号，你怎么又不走呢，不要自己犯了错都怪别人身上，虽然这样心里舒服好受了，但对你交易没有任何好处，永远都无法进步\n\n人性是很难承认自己的错误，而交易恰恰是从承认错误开始（止损",
-      "contentHtml": "兄弟，不扛单是交易基本原则10扛9死，最后一次也没好结果，向下跌50%概率很小很小，这是做交易计划不管哪种走势都有对应方案，你不会认为随便买买就能年挣百万吧？\n\n高手都死于抄底，扛单和黑天鹅你难道不知道，去年的1011不是历历在目吗，被套了有怨气，那我高点喊减仓控制仓位策略也出做空信号，你怎么又不走呢，不要自己犯了错都怪别人身上，虽然这样心里舒服好受了，但对你交易没有任何好处，永远都无法进步\n\n人性是很难承认自己的错误，而交易恰恰是从承认错误开始（止损",
-      "publishedAt": "2026-07-09T02:42:00.000Z",
-      "link": "https://x.com/dongbimao/status/2075047813562646869",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HMwMzCwbwAAR7kU.png"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
