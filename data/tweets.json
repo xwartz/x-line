@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T11:33:50.065Z",
+  "lastUpdated": "2026-07-17T12:33:02.442Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,60 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 640,
+    "newFetched": 638,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2078090955404562630",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "I don't post every scalp on X to avoid confusing people with multiple positions.\n\nI share them in Discord instead, completely free. No paid calls or signals.\n\nI'd be more cautious of anyone charging for \"trades\" while guaranteeing results. 🤭\n\nDiscord: \ndiscord.gg/4VvyUjbKT",
+      "contentHtml": "I don't post every scalp on X to avoid confusing people with multiple positions.\n\nI share them in Discord instead, completely free. No paid calls or signals.\n\nI'd be more cautious of anyone charging for \"trades\" while guaranteeing results. 🤭\n\nDiscord: \n<a href=\"https://discord.gg/4VvyUjbKT\">discord.gg/4VvyUjbKT</a>",
+      "publishedAt": "2026-07-17T12:14:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2078090955404562630",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2078087822830112827",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "幸运总是眷顾傻瓜？\n\n竟然中了",
+      "contentHtml": "幸运总是眷顾傻瓜？\n\n竟然中了",
+      "publishedAt": "2026-07-17T12:02:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2078087822830112827",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNbZwS0a4AA_tJ9.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "Hyperliquid 上线长鑫存储，将大家关心的几个问题做了下汇总💁‍♀️\n\n▶︎ HL 上的长鑫存储到底是在交易什么\n▶︎ A 股 IPO 发行价是 8.66元/股，5 刀的初始价格是谁定的\n▶︎ $CXMT 的价格是由预言机提供的吗，为什么刚上线时会在 6 刀堆积大量买方订单\n\n如果你只想了解简单结论，这是 1 分钟省流版\n\n🔹Hyperliquid 上的 CXMT 交易的是「市场对长鑫未来每股价格的预期」，即二级市场的潜在价格\n🔹5 刀的初始价格完全由 TradeXYZ 平台方决定\n🔹CXMT 的现阶段报价是从订单簿中提取并计算的\n\n现在是对每个问题的展开，感兴趣的小伙伴可以继续读下去\n\n1️⃣ HL 上的长鑫存储到底是在交易什么\n\n这个问题在 SpaceX IPO 前就在社区引发过广泛讨论，后因为总股本的变动再次发酵，TradeXYZ 最终没有选择 Rebase 而是坚持表示「价格不依赖市值或总股本数据」\n\n简而言之，Hyperliquid 上现阶段的 $CXMT 价格指向的是「市场对长鑫未来每股价格的预期」，与 IPO 发行价、市盈率、现金流等财务指标没有直接关联，而是旨在「让市场发现价格」\n\n2️⃣ A 股 IPO 发行价是 8.66元/股，HL 5 刀的初始价格是谁定的\n\nHyperliquid 的HIP-3 协议允许任何第三方通过质押 50 万枚 HYPE，在链上部署永续合约市场并成为「Deployer」，而 TradeXYZ 就是其中最早和最大的一个\n\n当市场缺乏外部价格时（例如在 Pre-IPO 阶段），该永续合约标的的初始报价由 Deployer（即 TradeXYZ 平台）自行决定，至于具体制定规则，就是黑盒了\n\n但 5 刀这个价格是随便给的吗，未必 —— 它对应的是 [$1.05, $17.92] 的边界区间，理论的下限价格为 $1.05（约 7.12 RMB），即 A 股 IPO 发行价 8.66 RMB 的 82%，略跌破发行价，因此还是相对合理的\n\n至于为什么对应这个区间，第三个问题的答案会提到\n\n3️⃣ $CXMT 的价格是由预言机提供的吗\n\n分为两个阶段\n▶︎ Pre-IPO 阶段：报价由预言机从订单簿中提取并计算\n▶︎ 正式交易后：由真实成交价格（外部价格）决定，合约价格将重新收敛\n\n当前阶段由于缺少外部价格，TradeXYZ 会让预言机从订单簿中提取信息，计算出一个「冲击价格差」，这个偏差反映了订单簿中买卖力量的不平衡，偏差值加上当前价格得出「目标价」，然后以一个受控的、缓慢的速度（称为\"时间常数\"）向这个目标价靠拢，防止价格被轻易操纵；在此基础上，预言机每次更新，相对上一价格的变动幅度最多只能有±1%，这样即使有极端外部变量出现，链上价格也只能一步步的变化，不会过于剧烈抖动\n\n那么价格可以无限制上涨或下跌吗？不行，有 Discovery Bounds 作为价格保险\n\n对于长鑫存储而言($CXMT)，由于最大杠杆倍数为 20x，平台设定了每次重新锚定幅度为 ±20%，向上向下至多有 7 次动态调整边界的机会，以 5 刀的初始价格为例，买单持续堆叠市场需求暴增，则向上调整 7 次最高到 17.92 美金，反之向下则到 1.05 美金，对应的人民币价格分别是 7.12 RMB 和 121.49 RMB，最终通过「重新锚定」的方式完成价格发现 —— 这就是 CXMT 刚上线时在 6 刀堆积了大量买方订单，随后快速拉升至 7.2 刀（涨幅 20 %），又涨至 8.64 刀（涨幅同样为 20 %）的原因\n\n最后的最后，还是要回归真实交易价格\n\n07.27 A 股开盘，Hyperliquid 上的合约价格将以实际交易价格为准，完成逐步收敛；如果偏差不大，那么 TradeXYZ 牛逼；如果偏差过大，可预期的就会出现大量清算了\n\n以上就是三个问题的详细解释，对于问题三参考了 @BlockBeatsAsia 的文章「拆解 TradeXYZ 定价机制，他们是如何提前定价的？」，解释的非常详细，推荐阅读 👉 foresightnews.pro/article/de…\n\n不是 Hyperliquid 专家，如果文中有任何错漏，可随时在评论区指正和讨论，也欢迎点赞 / 评论 / 转发一键三连🥰",
+        "contentHtml": "Hyperliquid 上线长鑫存储，将大家关心的几个问题做了下汇总💁‍♀️\n\n▶︎ HL 上的长鑫存储到底是在交易什么\n▶︎ A 股 IPO 发行价是 8.66元/股，5 刀的初始价格是谁定的\n▶︎ <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 的价格是由预言机提供的吗，为什么刚上线时会在 6 刀堆积大量买方订单\n\n如果你只想了解简单结论，这是 1 分钟省流版\n\n🔹Hyperliquid 上的 CXMT 交易的是「市场对长鑫未来每股价格的预期」，即二级市场的潜在价格\n🔹5 刀的初始价格完全由 TradeXYZ 平台方决定\n🔹CXMT 的现阶段报价是从订单簿中提取并计算的\n\n现在是对每个问题的展开，感兴趣的小伙伴可以继续读下去\n\n1️⃣ HL 上的长鑫存储到底是在交易什么\n\n这个问题在 SpaceX IPO 前就在社区引发过广泛讨论，后因为总股本的变动再次发酵，TradeXYZ 最终没有选择 Rebase 而是坚持表示「价格不依赖市值或总股本数据」\n\n简而言之，Hyperliquid 上现阶段的 <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 价格指向的是「市场对长鑫未来每股价格的预期」，与 IPO 发行价、市盈率、现金流等财务指标没有直接关联，而是旨在「让市场发现价格」\n\n2️⃣ A 股 IPO 发行价是 8.66元/股，HL 5 刀的初始价格是谁定的\n\nHyperliquid 的HIP-3 协议允许任何第三方通过质押 50 万枚 HYPE，在链上部署永续合约市场并成为「Deployer」，而 TradeXYZ 就是其中最早和最大的一个\n\n当市场缺乏外部价格时（例如在 Pre-IPO 阶段），该永续合约标的的初始报价由 Deployer（即 TradeXYZ 平台）自行决定，至于具体制定规则，就是黑盒了\n\n但 5 刀这个价格是随便给的吗，未必 —— 它对应的是 [$1.05, $17.92] 的边界区间，理论的下限价格为 $1.05（约 7.12 RMB），即 A 股 IPO 发行价 8.66 RMB 的 82%，略跌破发行价，因此还是相对合理的\n\n至于为什么对应这个区间，第三个问题的答案会提到\n\n3️⃣ <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 的价格是由预言机提供的吗\n\n分为两个阶段\n▶︎ Pre-IPO 阶段：报价由预言机从订单簿中提取并计算\n▶︎ 正式交易后：由真实成交价格（外部价格）决定，合约价格将重新收敛\n\n当前阶段由于缺少外部价格，TradeXYZ 会让预言机从订单簿中提取信息，计算出一个「冲击价格差」，这个偏差反映了订单簿中买卖力量的不平衡，偏差值加上当前价格得出「目标价」，然后以一个受控的、缓慢的速度（称为\"时间常数\"）向这个目标价靠拢，防止价格被轻易操纵；在此基础上，预言机每次更新，相对上一价格的变动幅度最多只能有±1%，这样即使有极端外部变量出现，链上价格也只能一步步的变化，不会过于剧烈抖动\n\n那么价格可以无限制上涨或下跌吗？不行，有 Discovery Bounds 作为价格保险\n\n对于长鑫存储而言($CXMT)，由于最大杠杆倍数为 20x，平台设定了每次重新锚定幅度为 ±20%，向上向下至多有 7 次动态调整边界的机会，以 5 刀的初始价格为例，买单持续堆叠市场需求暴增，则向上调整 7 次最高到 17.92 美金，反之向下则到 1.05 美金，对应的人民币价格分别是 7.12 RMB 和 121.49 RMB，最终通过「重新锚定」的方式完成价格发现 —— 这就是 CXMT 刚上线时在 6 刀堆积了大量买方订单，随后快速拉升至 7.2 刀（涨幅 20 %），又涨至 8.64 刀（涨幅同样为 20 %）的原因\n\n最后的最后，还是要回归真实交易价格\n\n07.27 A 股开盘，Hyperliquid 上的合约价格将以实际交易价格为准，完成逐步收敛；如果偏差不大，那么 TradeXYZ 牛逼；如果偏差过大，可预期的就会出现大量清算了\n\n以上就是三个问题的详细解释，对于问题三参考了 <a href=\"/BlockBeatsAsia\" title=\"BlockBeats｜We're hiring!\">@BlockBeatsAsia</a> 的文章「拆解 TradeXYZ 定价机制，他们是如何提前定价的？」，解释的非常详细，推荐阅读 👉 <a href=\"https://foresightnews.pro/article/detail/97130\">foresightnews.pro/article/de…</a>\n\n不是 Hyperliquid 专家，如果文中有任何错漏，可随时在评论区指正和讨论，也欢迎点赞 / 评论 / 转发一键三连🥰",
+        "link": "https://x.com/ai_9684xtpa/status/2077598232482615625",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNUcklZbIAAVmJS.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2078071686713549309",
       "username": "daidaibtc",
@@ -941,6 +990,10 @@
           "url": "https://pbs.twimg.com/media/HNZJfBBawAAB1V_.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -12066,43 +12119,6 @@
           "url": "https://pbs.twimg.com/media/HM2aLdMW4AASkf2.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075480053811691582",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "预计海力士上市后\n\n会维持一段时间pvp",
-      "contentHtml": "预计海力士上市后\n\n会维持一段时间pvp",
-      "publishedAt": "2026-07-10T07:19:00.000Z",
-      "link": "https://x.com/octopusycc/status/2075480053811691582",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2075476844086952022",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "哎昨天反弹一点就欢天喜地，好像牛市又回来了一样。哎，兄弟们真的搞笑的，总觉得炒股能发财，平时看看18手消息，研究研究盗版逻辑，行情好的时候，账户涨一点，感觉自己是股神，今天一跌又不明白了，哎，怎么回事啊。兄弟，哪怕市场跌成这样，今天还有4000家红盘，一共只有5000多只股票，有4000家红盘，你的账户如果跌得很厉害，那你不适合炒股啊。销个户好好上班攒点钱吧，哎",
-      "contentHtml": "哎昨天反弹一点就欢天喜地，好像牛市又回来了一样。哎，兄弟们真的搞笑的，总觉得炒股能发财，平时看看18手消息，研究研究盗版逻辑，行情好的时候，账户涨一点，感觉自己是股神，今天一跌又不明白了，哎，怎么回事啊。兄弟，哪怕市场跌成这样，今天还有4000家红盘，一共只有5000多只股票，有4000家红盘，你的账户如果跌得很厉害，那你不适合炒股啊。销个户好好上班攒点钱吧，哎",
-      "publishedAt": "2026-07-10T07:06:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2075476844086952022",
-      "quote": {
-        "username": "daidaibtc",
-        "displayName": "带带带比特",
-        "content": "想想吧，兄弟们，家境平平，学历平平，相貌平平的自己，中国像兄弟们这样指望股市发财的还有几亿人，凭什么偏偏轮到兄弟们发财了。钞票亏一点就焦虑的要死要活，寿命少了一天却没有任何感觉。想想自己为什么每次准备大干一场的时候就被大干一场吧，因为你不知足，不认命，安心工作几年，把坑填上吧。只要人还在就行。",
-        "contentHtml": "想想吧，兄弟们，家境平平，学历平平，相貌平平的自己，中国像兄弟们这样指望股市发财的还有几亿人，凭什么偏偏轮到兄弟们发财了。钞票亏一点就焦虑的要死要活，寿命少了一天却没有任何感觉。想想自己为什么每次准备大干一场的时候就被大干一场吧，因为你不知足，不认命，安心工作几年，把坑填上吧。只要人还在就行。",
-        "link": "https://x.com/daidaibtc/status/2074516801107701949"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
