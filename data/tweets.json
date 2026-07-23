@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T06:58:04.708Z",
+  "lastUpdated": "2026-07-23T07:54:46.950Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,130 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 548,
-    "successUsers": 27,
-    "failedUsers": 5
+    "newFetched": 570,
+    "successUsers": 28,
+    "failedUsers": 4
   },
   "tweets": [
+    {
+      "id": "2080198565297885297",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "学到了分析能力，磨了抗挫能力，提高了展望能力😅",
+      "contentHtml": "学到了分析能力，磨了抗挫能力，提高了展望能力😅",
+      "publishedAt": "2026-07-23T07:49:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2080198565297885297",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HN5ZkUDbMAERcne.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080191070990963086",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "段永平卖泡泡玛特Put的“乌龙”，藏着最朴素的精妙。老段今年在泡泡玛特上卖Put，闹了个不小的乌龙。4月中旬他在雪球说卖了22.5万张看跌期权，结果网友一提醒才发现：港股期权一张合约对应200股，不是美股100股。实际暴露头寸直接翻倍，要是全被行权，得准备近70亿港元去接4500万股，立马第三大股东。他回了一句：“还好卖的是put，不然就麻烦了。”这话说得轻巧，但背后玩法，才是真正值得细品的。\n\n卖Put不是赌跌，是“带保险的买入”\n老段的操作本质还是他一直用的那套：只在自己长期看好的标的上卖Put。不是看空泡泡玛特，而是反过来——想买，但不想一次性砸重金在高位。\n\n逻辑很简单：\n看好一只股票长期价值，但短期股价可能波动，甚至回调。卖Put呢？\n先收一笔权利金（保费），如果股价没跌到行权价以下，期权作废，这笔钱白赚，成本为零；\n如果真跌破了，按行权价接货，但已经扣掉之前收的权利金，实际买入成本被拉低了。\n\n老段用期权工具把建仓这件事做了杠杆和缓冲。直接买现货的话，资金压力和股价波动风险都更大；卖Put先把权利金收进口袋，相当于先把一部分成本锁定。\n\n精妙之处在于“收钱等机会”\n普通人建仓，大多是两种极端：要么一次性all in，要么一直观望等回调。段永平这条路，是中间态。\n1）股价涨了：权利金落袋，位置可以后面再补，或者不补也赚了。\n2）股价回调：正好低价接货，成本比直接买还低。\n3）股价横着：继续收权利金，资金利用率更高。\n\n这不是高深数学模型，就是把价值投资者最朴素的“安全边际”思路，用期权工具实现了，权利金就是那道额外缓冲。段永平这套玩法，核心是先把安全边际做出来，再谈买入。\n\n这里期权是重要的工具，也显示期权的特色： 1）短线交易用来押注短期波动，最大损失仅限权利金，没有追加保证金的风险。此外通过组合策略如价差，可以灵活地限制潜在亏损，更好地控制风险。\n\n2）长线投资者不赌方向，不博波动，利用期权的不合理定价，增强收益、降低成本，安全地“打折”买入好公司。在操作中考虑到市场的波动性，通过期权来降低潜在风险，确保在市场不稳定时仍能保持灵活性。\n\n其实不仅老段、巴菲特，我们熟悉的“白宫股神”佩洛西的股市操作大量都是期权，去年贸易战佩洛西买入了大量call，获利丰厚。\n\n对于短线交易者和长线投资者来说，期权运用得当都是从市场中获取alpha的好工具。期权不仅是工具，可以说是一种思维方式。在波动的市场中，它提供了更多的灵活性和保护，让我们能够在风险可控的情况下，最大化收益。\n\n这种玩法本质是成熟市场里对风险和收益的精细管理。手里有股票，可以卖 Covered Call慢慢减持；想加仓，又不想一次性砸重金，就先卖 Put收权利金，降低买入成本。波动大的时候，这层缓冲特别有用。\n\n对币市用户来说，现在也能方便用期权来做美股交易了。\n@BITstocks_CN 7月24日上线期权功能，融资融券同步开通。这俩一结合，普通投资者也能进行类似老段那种“收权利金 +杠杆配置”的操作组合。\n关键BIT不是随便加个期权功能就完事：融资融券需要实时保证金管理、极端行情风控、清算交割全套体系；\n期权要对接OCC、实时Greeks 计算、行权交割能力。\n\nBIT能把这些都跑起来，说明它已经具备完整券商业务线，正股、杠杆、期权三件套齐备，才算把成熟券商该有的底子搭全。为用户提供一套完整、高效、专业的美股交易工具链，尤其适合想在币市里想做真实美股的投资者。\n\n对华语用户和币市玩家来说\n1）开户极简：中国大陆身份证就能开，不用海外地址证明，不会CRS同步。\n\n2）资金进出更贴合币圈习惯：稳定币直接打进美股账户，秒级到账。出金很快不用转海外银行换汇、再跨境汇款那套折腾。股票支持转仓，是真股票不是影子资产：有分红、投票权，能通过 ACATS 转到别的合规券商。不是币市常见的代币化产品或者CFD合成，真正持有公司权益，不是只赌一个价格曲线。\n\n3）费用更友好：0 佣金，按股固定收费。买20万美元的英伟达，手续费不到10美元。传统按比例收的平台，金额越大越贵。融资融券这边还有阶段性0息活动，成本进一步压低。\n\nBIT是老牌加密资管平台Matrixport更名而来，旗下不同实体拿到多张含金量很高的牌照：新加坡MPI License重大支付机构牌照、瑞士FINMA集合资产管理牌照、香港TCSP License信托或公司服务提供者牌照、不丹的IPA牌照，提供货币服务、撮合交易、托管、金融交易等服务，合规层面也都没有问题。\n\n一个账户同时管加密资产和美股正股、ETF、固收，跨市场配置起来也顺手。支持融资融券和期权，API开放，长期交易的用户用着不别扭——比IBKR的界面和复杂流程友好多了，说BIT是加密版升级版的IB其实也没问题。\n\n现在市场 AI、科技、宏观故事不断演绎，波动是常态。手里有融资融券能加杠杆放大机会，有期权能对冲或收权利金，灵活度完全不一样。等真正需要用的时候再去开户，往往已经慢半拍，先把账户搭好，就是一种配置。\n\n想在波动行情里多一层工具，又不想被开户和资金流转折腾死的，BIT这波期权、融资融券上线可以重点看看。",
+      "contentHtml": "段永平卖泡泡玛特Put的“乌龙”，藏着最朴素的精妙。老段今年在泡泡玛特上卖Put，闹了个不小的乌龙。4月中旬他在雪球说卖了22.5万张看跌期权，结果网友一提醒才发现：港股期权一张合约对应200股，不是美股100股。实际暴露头寸直接翻倍，要是全被行权，得准备近70亿港元去接4500万股，立马第三大股东。他回了一句：“还好卖的是put，不然就麻烦了。”这话说得轻巧，但背后玩法，才是真正值得细品的。\n\n卖Put不是赌跌，是“带保险的买入”\n老段的操作本质还是他一直用的那套：只在自己长期看好的标的上卖Put。不是看空泡泡玛特，而是反过来——想买，但不想一次性砸重金在高位。\n\n逻辑很简单：\n看好一只股票长期价值，但短期股价可能波动，甚至回调。卖Put呢？\n先收一笔权利金（保费），如果股价没跌到行权价以下，期权作废，这笔钱白赚，成本为零；\n如果真跌破了，按行权价接货，但已经扣掉之前收的权利金，实际买入成本被拉低了。\n\n老段用期权工具把建仓这件事做了杠杆和缓冲。直接买现货的话，资金压力和股价波动风险都更大；卖Put先把权利金收进口袋，相当于先把一部分成本锁定。\n\n精妙之处在于“收钱等机会”\n普通人建仓，大多是两种极端：要么一次性all in，要么一直观望等回调。段永平这条路，是中间态。\n1）股价涨了：权利金落袋，位置可以后面再补，或者不补也赚了。\n2）股价回调：正好低价接货，成本比直接买还低。\n3）股价横着：继续收权利金，资金利用率更高。\n\n这不是高深数学模型，就是把价值投资者最朴素的“安全边际”思路，用期权工具实现了，权利金就是那道额外缓冲。段永平这套玩法，核心是先把安全边际做出来，再谈买入。\n\n这里期权是重要的工具，也显示期权的特色： 1）短线交易用来押注短期波动，最大损失仅限权利金，没有追加保证金的风险。此外通过组合策略如价差，可以灵活地限制潜在亏损，更好地控制风险。\n\n2）长线投资者不赌方向，不博波动，利用期权的不合理定价，增强收益、降低成本，安全地“打折”买入好公司。在操作中考虑到市场的波动性，通过期权来降低潜在风险，确保在市场不稳定时仍能保持灵活性。\n\n其实不仅老段、巴菲特，我们熟悉的“白宫股神”佩洛西的股市操作大量都是期权，去年贸易战佩洛西买入了大量call，获利丰厚。\n\n对于短线交易者和长线投资者来说，期权运用得当都是从市场中获取alpha的好工具。期权不仅是工具，可以说是一种思维方式。在波动的市场中，它提供了更多的灵活性和保护，让我们能够在风险可控的情况下，最大化收益。\n\n这种玩法本质是成熟市场里对风险和收益的精细管理。手里有股票，可以卖 Covered Call慢慢减持；想加仓，又不想一次性砸重金，就先卖 Put收权利金，降低买入成本。波动大的时候，这层缓冲特别有用。\n\n对币市用户来说，现在也能方便用期权来做美股交易了。\n<a href=\"/BITstocks_CN\" title=\"BIT美股频道\">@BITstocks_CN</a> 7月24日上线期权功能，融资融券同步开通。这俩一结合，普通投资者也能进行类似老段那种“收权利金 +杠杆配置”的操作组合。\n关键BIT不是随便加个期权功能就完事：融资融券需要实时保证金管理、极端行情风控、清算交割全套体系；\n期权要对接OCC、实时Greeks 计算、行权交割能力。\n\nBIT能把这些都跑起来，说明它已经具备完整券商业务线，正股、杠杆、期权三件套齐备，才算把成熟券商该有的底子搭全。为用户提供一套完整、高效、专业的美股交易工具链，尤其适合想在币市里想做真实美股的投资者。\n\n对华语用户和币市玩家来说\n1）开户极简：中国大陆身份证就能开，不用海外地址证明，不会CRS同步。\n\n2）资金进出更贴合币圈习惯：稳定币直接打进美股账户，秒级到账。出金很快不用转海外银行换汇、再跨境汇款那套折腾。股票支持转仓，是真股票不是影子资产：有分红、投票权，能通过 ACATS 转到别的合规券商。不是币市常见的代币化产品或者CFD合成，真正持有公司权益，不是只赌一个价格曲线。\n\n3）费用更友好：0 佣金，按股固定收费。买20万美元的英伟达，手续费不到10美元。传统按比例收的平台，金额越大越贵。融资融券这边还有阶段性0息活动，成本进一步压低。\n\nBIT是老牌加密资管平台Matrixport更名而来，旗下不同实体拿到多张含金量很高的牌照：新加坡MPI License重大支付机构牌照、瑞士FINMA集合资产管理牌照、香港TCSP License信托或公司服务提供者牌照、不丹的IPA牌照，提供货币服务、撮合交易、托管、金融交易等服务，合规层面也都没有问题。\n\n一个账户同时管加密资产和美股正股、ETF、固收，跨市场配置起来也顺手。支持融资融券和期权，API开放，长期交易的用户用着不别扭——比IBKR的界面和复杂流程友好多了，说BIT是加密版升级版的IB其实也没问题。\n\n现在市场 AI、科技、宏观故事不断演绎，波动是常态。手里有融资融券能加杠杆放大机会，有期权能对冲或收权利金，灵活度完全不一样。等真正需要用的时候再去开户，往往已经慢半拍，先把账户搭好，就是一种配置。\n\n想在波动行情里多一层工具，又不想被开户和资金流转折腾死的，BIT这波期权、融资融券上线可以重点看看。",
+      "publishedAt": "2026-07-23T07:19:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2080191070990963086",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080189451800842513",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "卧槽刚说完就跌破了？",
+      "contentHtml": "卧槽刚说完就跌破了？",
+      "publishedAt": "2026-07-23T07:13:00.000Z",
+      "link": "https://x.com/hazenlee/status/2080189451800842513",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080187398785548668",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "关注前高，关键支撑",
+      "contentHtml": "关注前高，关键支撑",
+      "publishedAt": "2026-07-23T07:04:00.000Z",
+      "link": "https://x.com/hazenlee/status/2080187398785548668",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HN5PYhkaEAAWa8D.png"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "几乎可以说是非常包准",
+        "contentHtml": "几乎可以说是非常包准",
+        "link": "https://x.com/hazenlee/status/2079805167877411133",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNzzsUNagAAgzEY.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080186165794308331",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "无限子弹？七月以来累计建仓超 1.09 亿美元 $ETH 和 $WBTC 的巨鲸再囤 1775 万美元资产😵\n\n过去 4 小时从交易所提出 75 WBTC 和 4998 ETH，截至目前已累计建仓 56400 枚 ETH 和 700 枚 WBTC，总价值 1.48 亿美元，平均成本约为 $1742 和 $64205，浮盈 1142 万美元\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "contentHtml": "无限子弹？七月以来累计建仓超 1.09 亿美元 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 和 <a href=\"/search?f=tweets&q=%23WBTC\">$WBTC</a> 的巨鲸再囤 1775 万美元资产😵\n\n过去 4 小时从交易所提出 75 WBTC 和 4998 ETH，截至目前已累计建仓 56400 枚 ETH 和 700 枚 WBTC，总价值 1.48 亿美元，平均成本约为 $1742 和 $64205，浮盈 1142 万美元\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "publishedAt": "2026-07-23T07:00:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2080186165794308331",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HN5NK6kaoAAXjyR.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "牛，七月以来累计建仓超 1.09 亿美元 $ETH 和 $WBTC 的巨鲸，浮盈已超千万美元✨\n\n近 24 小时再加仓 987 万美元的 WBTC，本次追加后，七月建仓情况更新为 49500 枚 ETH 和 600 枚 WBTC，总价值 1.22 亿美元，平均成本约为 $1706 和 $63,950，浮盈 1259.3 万美元\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "contentHtml": "牛，七月以来累计建仓超 1.09 亿美元 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 和 <a href=\"/search?f=tweets&q=%23WBTC\">$WBTC</a> 的巨鲸，浮盈已超千万美元✨\n\n近 24 小时再加仓 987 万美元的 WBTC，本次追加后，七月建仓情况更新为 49500 枚 ETH 和 600 枚 WBTC，总价值 1.22 亿美元，平均成本约为 $1706 和 $63,950，浮盈 1259.3 万美元\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+        "link": "https://x.com/ai_9684xtpa/status/2079563102102904907",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNwXnMOaMAAtYmN.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2080180948222808275",
       "username": "octopusycc",
@@ -723,6 +842,32 @@
       }
     },
     {
+      "id": "2080047219999138231",
+      "username": "signulll",
+      "displayName": "signüll",
+      "avatar": "https://pbs.twimg.com/profile_images/1717763325692383232/Jk2PKCx6_bigger.jpg",
+      "content": "wow am i understanding this correctly?\n\n1. put chinese models on the entity list.\n2. force american companies to buy more expensive ai from american labs.\n3. watch the rest of the world use cheaper models with equal or better intelligence.\n4. discover that distillation did not magically stop because washington published a list.\n5. make american businesses less competitive globally while raising prices for ordinary americans.\n6. meanwhile none of this stops chinese ai labs from becoming better & better.\n\ncongratulations you protected domestic ai companies by taxing the competitiveness of the entire country.\n\nwhat a colossal mess. someone please add order to this madness.",
+      "contentHtml": "wow am i understanding this correctly?\n\n1. put chinese models on the entity list.\n2. force american companies to buy more expensive ai from american labs.\n3. watch the rest of the world use cheaper models with equal or better intelligence.\n4. discover that distillation did not magically stop because washington published a list.\n5. make american businesses less competitive globally while raising prices for ordinary americans.\n6. meanwhile none of this stops chinese ai labs from becoming better & better.\n\ncongratulations you protected domestic ai companies by taxing the competitiveness of the entire country.\n\nwhat a colossal mess. someone please add order to this madness.",
+      "publishedAt": "2026-07-22T21:47:00.000Z",
+      "link": "https://x.com/signulll/status/2080047219999138231",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "SecScottBessent",
+        "displayName": "Treasury Secretary Scott Bessent",
+        "content": "We support open-source AI and the innovation it unlocks. But open source is not open season on American IP. When PRC firms conduct covert, industrial-scale distillation attacks that cross the line into IP theft, sanctions and Entity List designations will be on the table.",
+        "contentHtml": "We support open-source AI and the innovation it unlocks. But open source is not open season on American IP. When PRC firms conduct covert, industrial-scale distillation attacks that cross the line into IP theft, sanctions and Entity List designations will be on the table.",
+        "link": "https://x.com/SecScottBessent/status/2080008411790368895"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2080040076869013784",
       "username": "octopusycc",
       "displayName": "大老师Bugsbunny ｜DRAM UP only",
@@ -1174,6 +1319,32 @@
       "contentHtml": "财报前 获利盘还是得走，大不了财报后 接回来",
       "publishedAt": "2026-07-22T16:29:00.000Z",
       "link": "https://x.com/octopusycc/status/2079967057274384446",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2079966815913161091",
+      "username": "Teknium",
+      "displayName": "Teknium 🪽",
+      "avatar": "https://pbs.twimg.com/profile_images/1642401912648777728/2KFikPsE_bigger.jpg",
+      "content": "I have information that Anthropic scraped my github twitter reddit discord and facebook posts for the development of it's Fable model.  \n\nTo do this they developed a sophisticated internal platform to conduct large scale scraping and obfuscation of their actions.",
+      "contentHtml": "I have information that Anthropic scraped my github twitter reddit discord and facebook posts for the development of it's Fable model.  \n\nTo do this they developed a sophisticated internal platform to conduct large scale scraping and obfuscation of their actions.",
+      "publishedAt": "2026-07-22T16:28:00.000Z",
+      "link": "https://x.com/Teknium/status/2079966815913161091",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "mkratsios47",
+        "displayName": "Director Michael Kratsios",
+        "content": "We have information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model. \n\nTo do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection. Moonshot AI has also acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models.\n \nThe United States strongly supports the free and fair development of AI, including a thriving competitive ecosystem that spans frontier models, specialized systems, open-source frameworks, and open-weight models. Legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem. However, large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable.",
+        "contentHtml": "We have information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model. \n\nTo do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection. Moonshot AI has also acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models.\n \nThe United States strongly supports the free and fair development of AI, including a thriving competitive ecosystem that spans frontier models, specialized systems, open-source frameworks, and open-weight models. Legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem. However, large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable.",
+        "link": "https://x.com/mkratsios47/status/2079933645888880708"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -3978,6 +4149,25 @@
       }
     },
     {
+      "id": "2079443285744267390",
+      "username": "divya_venn",
+      "displayName": "divya venn",
+      "avatar": "https://pbs.twimg.com/profile_images/1893333894658727936/rkyIVN4i_bigger.jpg",
+      "content": "The secret to not being awkward is to never force conversation. Don’t try to come up with interesting things to say, don’t talk to people for the sake of talking, don’t voice opinions or ask questions to sound smart. Instead, notice your own curiosity and follow it. If you don’t have any, radiate comfort in your silence.",
+      "contentHtml": "The secret to not being awkward is to never force conversation. Don’t try to come up with interesting things to say, don’t talk to people for the sake of talking, don’t voice opinions or ask questions to sound smart. Instead, notice your own curiosity and follow it. If you don’t have any, radiate comfort in your silence.",
+      "publishedAt": "2026-07-21T05:48:00.000Z",
+      "link": "https://x.com/divya_venn/status/2079443285744267390",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2079441776574914817",
       "username": "taresky",
       "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
@@ -4945,6 +5135,25 @@
             "url": "https://pbs.twimg.com/media/G2cUq9BWoAA9moM.png"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2079274102129304026",
+      "username": "rauchg",
+      "displayName": "Guillermo Rauch",
+      "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_bigger.jpg",
+      "content": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.",
+      "contentHtml": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.",
+      "publishedAt": "2026-07-20T18:35:00.000Z",
+      "link": "https://x.com/rauchg/status/2079274102129304026",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -6261,6 +6470,31 @@
       }
     },
     {
+      "id": "2078950034532389335",
+      "username": "PoliticalStacy",
+      "displayName": "Stacy is Right",
+      "avatar": "https://pbs.twimg.com/profile_images/2074341774143766528/pRc3ymLo_bigger.jpg",
+      "content": "Happy anniversary and congratulations to Cuba on 60 years of rent control.",
+      "contentHtml": "Happy anniversary and congratulations to Cuba on 60 years of rent control.",
+      "publishedAt": "2026-07-19T21:08:00.000Z",
+      "link": "https://x.com/PoliticalStacy/status/2078950034532389335",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNnqBdIXgAAG7VJ.png"
+        }
+      ],
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2078934250208764268",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -6517,6 +6751,25 @@
       "contentHtml": "很多人把交易理解错了，千万不要跌了就买，要看止跌回升再入场\n\n跌的时候你不知道哪里是底，底部从来不是猜出来的，是走出来的\n\n也不要拿着不看，除非你的成本足够低才有资格不看\n\n你高位买进去，然后跟自己说长期持有，同学，那不叫信仰那叫被套以后自我安慰\n\n每一笔交易买进去的时候，都要默认自己判断这里已经是低点或者右侧启动点，如果继续往下，说明你可能判断错了，错了就止损以后重新来\n\n不要一边亏一边嘴硬，说什么再等等、再看看、我相信它，市场不会在乎你信不信的\n<a href=\"/search?f=tweets&q=%23止损\">#止损</a> <a href=\"/search?f=tweets&q=%23交易\">#交易</a>",
       "publishedAt": "2026-07-19T13:26:00.000Z",
       "link": "https://x.com/dongbimao/status/2078833938693488891",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2078832788111798726",
+      "username": "AscendantPower",
+      "displayName": "Ascendant Power",
+      "avatar": "https://pbs.twimg.com/profile_images/1924806321343193088/O3s6lTHN_bigger.jpg",
+      "content": "People who are incapable of creating advanced civilizations are equally incapable of maintaining them.",
+      "contentHtml": "People who are incapable of creating advanced civilizations are equally incapable of maintaining them.",
+      "publishedAt": "2026-07-19T13:22:00.000Z",
+      "link": "https://x.com/AscendantPower/status/2078832788111798726",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -7430,6 +7683,38 @@
       }
     },
     {
+      "id": "2078607879335006619",
+      "username": "ebfull",
+      "displayName": "Sean Bowe",
+      "avatar": "https://pbs.twimg.com/profile_images/1934672401687597056/SmfyH4L4_bigger.jpg",
+      "content": "Ironwood goes live in ten days.\n\nThe possibility of counterfeiting bugs in our project has kept me awake at night. No more. Mathematical proof that undetectable counterfeiting bugs don't exist in Ironwood changes how even *I* feel about Zcash, as a protocol dev of ~10 years.",
+      "contentHtml": "Ironwood goes live in ten days.\n\nThe possibility of counterfeiting bugs in our project has kept me awake at night. No more. Mathematical proof that undetectable counterfeiting bugs don't exist in Ironwood changes how even *I* feel about Zcash, as a protocol dev of ~10 years.",
+      "publishedAt": "2026-07-18T22:28:00.000Z",
+      "link": "https://x.com/ebfull/status/2078607879335006619",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "ZakuraZcash",
+        "displayName": "Zakura",
+        "content": "Ironwood goes live in 10 days.\n\nThe Great Ironwood Migration achieves three goals:\n\n- Provide a credibly sound shielded pool\n- Give evidence no counterfeiting occurred in Orchard\n- Re-establish the circulating supply of ZEC.\n\nHere's what you need to know... 🧵",
+        "contentHtml": "Ironwood goes live in 10 days.\n\nThe Great Ironwood Migration achieves three goals:\n\n- Provide a credibly sound shielded pool\n- Give evidence no counterfeiting occurred in Orchard\n- Re-establish the circulating supply of ZEC.\n\nHere's what you need to know... 🧵",
+        "link": "https://x.com/ZakuraZcash/status/2078600008929259882",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNirsRVaoAAF_1i.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2078600494696615987",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -7478,6 +7763,25 @@
           "url": "https://pbs.twimg.com/media/HNiKPJSXQAE6FIZ.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2078539927504236896",
+      "username": "artfuIchaos",
+      "displayName": "ً",
+      "avatar": "https://pbs.twimg.com/profile_images/2029629292464984068/Ny3-hLoC_bigger.jpg",
+      "content": "someone once told me “emotional intelligence is the discipline of sitting with a feeling long enough to understand it before you hand it to someone else” and that honestly changed how i move.",
+      "contentHtml": "someone once told me “emotional intelligence is the discipline of sitting with a feeling long enough to understand it before you hand it to someone else” and that honestly changed how i move.",
+      "publishedAt": "2026-07-18T17:58:00.000Z",
+      "link": "https://x.com/artfuIchaos/status/2078539927504236896",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -10412,6 +10716,32 @@
       }
     },
     {
+      "id": "2077819572452036896",
+      "username": "mikeknoop",
+      "displayName": "Mike Knoop",
+      "avatar": "https://pbs.twimg.com/profile_images/1800408200229113856/4hvnirWk_bigger.jpg",
+      "content": "This looks like a great implementation of program synthesis. From their blog:\n\n> Core idea. The latent world representation is a program, not a vector.\n\nBuilding symbolic world models on-the-fly is emerging as the best approach to ARC v3.",
+      "contentHtml": "This looks like a great implementation of program synthesis. From their blog:\n\n&gt; Core idea. The latent world representation is a program, not a vector.\n\nBuilding symbolic world models on-the-fly is emerging as the best approach to ARC v3.",
+      "publishedAt": "2026-07-16T18:16:00.000Z",
+      "link": "https://x.com/mikeknoop/status/2077819572452036896",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "HavenFeng",
+        "displayName": "Haven Feng",
+        "content": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
+        "contentHtml": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
+        "link": "https://x.com/HavenFeng/status/2077770348876247502"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2077812148118429705",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -10558,6 +10888,25 @@
         "content": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
         "contentHtml": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
         "link": "https://x.com/HavenFeng/status/2077770348876247502"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077770348876247502",
+      "username": "HavenFeng",
+      "displayName": "Haven Feng",
+      "avatar": "https://pbs.twimg.com/profile_images/1450720196113612801/aLbAfEyL_bigger.jpg",
+      "content": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
+      "contentHtml": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵",
+      "publishedAt": "2026-07-16T15:00:00.000Z",
+      "link": "https://x.com/HavenFeng/status/2077770348876247502",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -10744,6 +11093,39 @@
       "contentHtml": "昨晚科技股分化很明显\n\n微软、亚马逊、谷歌这些巨头在涨，美光、AMD、Marvell这些硬件票在跌\n\n可能AI交易在换阶段了\n\n前面市场买的是资本开支\n\n现在市场开始问另一个问题：这些钱花出去以后，谁能真正赚回来？\n\n大摩把几大云厂商2028年的资本开支继续上调，说明AI capex还没见顶，算力依然紧张\n\n但增速放缓以后，硬件不能只靠“缺货”两个字一直硬涨\n\n后面资金会更看谁来变现\n\n云收入能不能继续加速，AI API的真实需求怎么样，所以巨头会开始占优\n\n它们花钱建算力，同时是要把算力变成收入\n\n硬件公司赚的是卖铲子的钱，云厂商和平台公司赌的是未来现金流\n\n半导体的估值已经打的很满了\n\n而M7因为过去的AI Capex一直在被市场惩罚，现在轮到M7估值修复了",
       "publishedAt": "2026-07-16T13:16:00.000Z",
       "link": "https://x.com/dongbimao/status/2077744193552957771",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2077743322521624673",
+      "username": "xukego",
+      "displayName": "徐可KeXu",
+      "avatar": "https://pbs.twimg.com/profile_images/2020556783383953408/L8w2ACyP_bigger.jpg",
+      "content": "易理华现在这个词在我脑子里是一种type，\n已经不仅代表此人了。\n只要是跟他行为有相同的人 \n我全部把它归类为“易类纲目”。\n见利忘义，恩将仇报，为了钱能坏良心害人的人，\n都不能算一个人，\n只能算小畜牲。\n\n易理华刚经笑来介绍认识我的时候 正值EOS盛世，\n我所创立的ONO又是EOS链上华人第一大项目，\n他是非常羡慕我，以及特别想认识我的。\n\n但是那时候我没怎么搭理他。\n我这个人习惯是这样，从小就不爱和不熟的人多啰嗦。\n因为我时间有限，一天要干很多活，还有很多学习和总结思考工作。\n而且那时候真的特别忙，\n凌晨3点跟西雅图同事开会，早上8点和悉尼开会，下午1点还要和柏林团队开会，初创阶段，作息很难稳定，所以很少看微信。\n\n易理华发现我有事只找笑来，却不搭理他，\n用他中专毕业的小脑子只能琢磨出来一个理由：【怪我没钱。\n要是我有钱了，徐可不得扑上来笑盈盈的搭理我吗？】\n\n然后，事态的发展就变态起来了，\n笑来发现易理华一直在做老鼠仓。\n最信任的朴实农村小伙，崩了他。\n一向对自己智商自信的笑来被侮辱了智商。\n\n易理华恩将仇报的 做了笑来inb基金3个亿的\n极巨化老鼠仓！\n黄毛华一口吃成巨化肥华。\n\n笑来正打算封杀肥华。\n\n然而华子书没读下去，腹黑下作的兵法却研究了不少，\n跑过来跟我说：\n【徐可你知道吗？别看笑来表面上支持你，实际上笑来他私下和我亲口说你闲话，说你是靠睡投资人拿的投资。】\n\n试图从内部瓦解我和笑来的信任。\n\n这兵法我懂，\n我小学有个同学女孩叫hpp，非常嫉妒我，（后来我才知道是她暗恋的男生暗恋我）\n她就为了报复我、孤立我，\n去和我最好的两个闺蜜挑拨我，试图分裂她们和我。\n真的有其中一个离开了我。\n另外一个闺蜜至今还是我的好闺蜜。\n\n但这种弱智的事情只在小学发生过，\n再大一点大家都成熟了也各自忙学习，\n没人这么无聊去跟张三说：诶 李四背后说你坏话哦。\n\n所以我的认知就是：干这种事的，要么就小学生，要么就是小学没毕业的大人。\n\n我怎么也不会相信，笑来一个50多快入土的老登 那会儿手上币有几百亿美金，闲到要背后说我闲话。\n\n我直接甩截图给笑来，\n笑来也是性情中人，\n马上发朋友圈自证清白：徐可是我支持的创业者，我永远也从来没有编造这种下三滥谣言诋毁过她。\n\n然后易理华🤡，\n秒给我弹语音：\n【哎呀，徐可 我只是好心提醒一下你，\n你干嘛把这个发给笑来呀？】\n\n我说：那你告诉我他到底说过这话没有？\n要不我拉他进麦你俩对峙下？\n\n易理华：【误会误会，哎呀，我就是那么一说，\n跟你开玩笑的啦！\n求你帮我删一下朋友圈好不好，\n不吵架了求你了…】\n\n我说：那你给我道歉辟谣。\n\n易理华私下跟我道歉态度非常良好，\n姿态非常的舔狗。\n发的朋友圈却是心不甘情不愿。\n公开承认小人行为，非常潦草，非常没有诚意。\n\n我很久以后回过头才想明白，\n我跟他无冤无仇，\n他没见过我，也不认识我，不知道我的家庭情况。\n他为什么要往我身上泼脏水呢，为什么造谣我呢？\n后来我才懂，\n他用他村里精神小伙的认知自导自演这一出，\n就是为了转移大众视线，帮他自己度过危机的手段。\n\n然后这件事白热化之后 紧接着，\n笑来那个名震海内外江湖的“韭菜都是傻逼”录音门\n就被爆出来了。\n\n至此，笑来系彻底跌落神坛，不只是人设崩塌，还附带赠送一个边控半永久。\n\n而那会儿的黄毛华子已经踩着笑来的尸体，\n摇身一变变成精英华子，\n开始混政府投资了。\n\n很快骗取当地小富楼霁月的情感肉体与利益。\n\n说实话她爸爸是行长，既不算天龙人也不算什么一代，只能算比较稳定的中产。\n\n江浙沪行长可以说满地跑，（我妈过生日，要来十几个派出所所长，二十几个银行行长，这种是坐不上主桌的），\n但是配易理华这种中专精神小伙已经是绰绰有余。\n\n华子拿着崩笑来崩来的现金 给楼家出了点钱买房，\n岳父还以为自己女儿找到了好归宿，\n钓到镶钻金龟婿，\nkuku给亲亲女婿拉人头搞传销。\n\n华子也逐渐在推杯换盏中迷失自我，\n踩着楼霁月她爹的名号，搞得自己也跟行长亲儿子一样，要在浙江只手遮天啦。\n正所谓无知者无畏，\n社青华子正是凭着自己对神秘力量的一无所知，\n一手把自己岳父的晚节崩的稀烂不堪。\n\n当然稀烂的老头只配做自己的前岳父，\n没有利用价值了，吃干抹净了就一脚蹬。\n\n对于我来说，\n我从幼儿园到2017年“币圈”成立之前，从来没接触过这种下流胚的圈子和人。\n我自从跟我妈说过这些事，就不准我从事w3了。\n\n就像我妈说的：\n“妈妈这一代那么努力，就是为了让你不要接触这些不三不四的人。\n从小到大把你捧在手心里像天上的仙子一样养着，读书都是最好的学校，\n力学到南外到mva到ucl，\n你最后居然跟这些不三不四的人搅到一起做生意，这种低档次的人要跟你妈结交攀附，你妈从来都不搭理。”\n\n我以前觉得是我妈有刻板印象，\n后来真和这些凤凰男创业者做生意才发现，\n他们是真他妈低等中的低等，\n下作中的下作，\n\n公司干不过你，成绩不如你，没有你优秀，\n就来造你黄谣。\n真搞不过这些没出息的捞货。\n\n我发现我是图有学问没有社会化经历，\n跟我妈相比 我真的是拉完了",
+      "contentHtml": "易理华现在这个词在我脑子里是一种type，\n已经不仅代表此人了。\n只要是跟他行为有相同的人 \n我全部把它归类为“易类纲目”。\n见利忘义，恩将仇报，为了钱能坏良心害人的人，\n都不能算一个人，\n只能算小畜牲。\n\n易理华刚经笑来介绍认识我的时候 正值EOS盛世，\n我所创立的ONO又是EOS链上华人第一大项目，\n他是非常羡慕我，以及特别想认识我的。\n\n但是那时候我没怎么搭理他。\n我这个人习惯是这样，从小就不爱和不熟的人多啰嗦。\n因为我时间有限，一天要干很多活，还有很多学习和总结思考工作。\n而且那时候真的特别忙，\n凌晨3点跟西雅图同事开会，早上8点和悉尼开会，下午1点还要和柏林团队开会，初创阶段，作息很难稳定，所以很少看微信。\n\n易理华发现我有事只找笑来，却不搭理他，\n用他中专毕业的小脑子只能琢磨出来一个理由：【怪我没钱。\n要是我有钱了，徐可不得扑上来笑盈盈的搭理我吗？】\n\n然后，事态的发展就变态起来了，\n笑来发现易理华一直在做老鼠仓。\n最信任的朴实农村小伙，崩了他。\n一向对自己智商自信的笑来被侮辱了智商。\n\n易理华恩将仇报的 做了笑来inb基金3个亿的\n极巨化老鼠仓！\n黄毛华一口吃成巨化肥华。\n\n笑来正打算封杀肥华。\n\n然而华子书没读下去，腹黑下作的兵法却研究了不少，\n跑过来跟我说：\n【徐可你知道吗？别看笑来表面上支持你，实际上笑来他私下和我亲口说你闲话，说你是靠睡投资人拿的投资。】\n\n试图从内部瓦解我和笑来的信任。\n\n这兵法我懂，\n我小学有个同学女孩叫hpp，非常嫉妒我，（后来我才知道是她暗恋的男生暗恋我）\n她就为了报复我、孤立我，\n去和我最好的两个闺蜜挑拨我，试图分裂她们和我。\n真的有其中一个离开了我。\n另外一个闺蜜至今还是我的好闺蜜。\n\n但这种弱智的事情只在小学发生过，\n再大一点大家都成熟了也各自忙学习，\n没人这么无聊去跟张三说：诶 李四背后说你坏话哦。\n\n所以我的认知就是：干这种事的，要么就小学生，要么就是小学没毕业的大人。\n\n我怎么也不会相信，笑来一个50多快入土的老登 那会儿手上币有几百亿美金，闲到要背后说我闲话。\n\n我直接甩截图给笑来，\n笑来也是性情中人，\n马上发朋友圈自证清白：徐可是我支持的创业者，我永远也从来没有编造这种下三滥谣言诋毁过她。\n\n然后易理华🤡，\n秒给我弹语音：\n【哎呀，徐可 我只是好心提醒一下你，\n你干嘛把这个发给笑来呀？】\n\n我说：那你告诉我他到底说过这话没有？\n要不我拉他进麦你俩对峙下？\n\n易理华：【误会误会，哎呀，我就是那么一说，\n跟你开玩笑的啦！\n求你帮我删一下朋友圈好不好，\n不吵架了求你了…】\n\n我说：那你给我道歉辟谣。\n\n易理华私下跟我道歉态度非常良好，\n姿态非常的舔狗。\n发的朋友圈却是心不甘情不愿。\n公开承认小人行为，非常潦草，非常没有诚意。\n\n我很久以后回过头才想明白，\n我跟他无冤无仇，\n他没见过我，也不认识我，不知道我的家庭情况。\n他为什么要往我身上泼脏水呢，为什么造谣我呢？\n后来我才懂，\n他用他村里精神小伙的认知自导自演这一出，\n就是为了转移大众视线，帮他自己度过危机的手段。\n\n然后这件事白热化之后 紧接着，\n笑来那个名震海内外江湖的“韭菜都是傻逼”录音门\n就被爆出来了。\n\n至此，笑来系彻底跌落神坛，不只是人设崩塌，还附带赠送一个边控半永久。\n\n而那会儿的黄毛华子已经踩着笑来的尸体，\n摇身一变变成精英华子，\n开始混政府投资了。\n\n很快骗取当地小富楼霁月的情感肉体与利益。\n\n说实话她爸爸是行长，既不算天龙人也不算什么一代，只能算比较稳定的中产。\n\n江浙沪行长可以说满地跑，（我妈过生日，要来十几个派出所所长，二十几个银行行长，这种是坐不上主桌的），\n但是配易理华这种中专精神小伙已经是绰绰有余。\n\n华子拿着崩笑来崩来的现金 给楼家出了点钱买房，\n岳父还以为自己女儿找到了好归宿，\n钓到镶钻金龟婿，\nkuku给亲亲女婿拉人头搞传销。\n\n华子也逐渐在推杯换盏中迷失自我，\n踩着楼霁月她爹的名号，搞得自己也跟行长亲儿子一样，要在浙江只手遮天啦。\n正所谓无知者无畏，\n社青华子正是凭着自己对神秘力量的一无所知，\n一手把自己岳父的晚节崩的稀烂不堪。\n\n当然稀烂的老头只配做自己的前岳父，\n没有利用价值了，吃干抹净了就一脚蹬。\n\n对于我来说，\n我从幼儿园到2017年“币圈”成立之前，从来没接触过这种下流胚的圈子和人。\n我自从跟我妈说过这些事，就不准我从事w3了。\n\n就像我妈说的：\n“妈妈这一代那么努力，就是为了让你不要接触这些不三不四的人。\n从小到大把你捧在手心里像天上的仙子一样养着，读书都是最好的学校，\n力学到南外到mva到ucl，\n你最后居然跟这些不三不四的人搅到一起做生意，这种低档次的人要跟你妈结交攀附，你妈从来都不搭理。”\n\n我以前觉得是我妈有刻板印象，\n后来真和这些凤凰男创业者做生意才发现，\n他们是真他妈低等中的低等，\n下作中的下作，\n\n公司干不过你，成绩不如你，没有你优秀，\n就来造你黄谣。\n真搞不过这些没出息的捞货。\n\n我发现我是图有学问没有社会化经历，\n跟我妈相比 我真的是拉完了",
+      "publishedAt": "2026-07-16T13:13:00.000Z",
+      "link": "https://x.com/xukego/status/2077743322521624673",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNWgh27XkAAo-FQ.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNWgh2yWoAAiaFq.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNWgh2zWgAAoaZQ.jpg"
+        }
+      ],
+      "retweet": {
+        "username": "HaywarZhu",
+        "displayName": "海老师 | Haywar"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11688,338 +12070,6 @@
       "contentHtml": "上面这张图有什么问题吗？看着非常BULLISH",
       "publishedAt": "2026-07-15T22:04:00.000Z",
       "link": "https://x.com/TJ_Research/status/2077514691757162607",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077514464769786274",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "4，5月，情绪面，很多人感觉不到牛市，因为涨幅很窄\n6，7月，很多人觉得熊市了，因为跌幅很窄🤣\n问题是为什么两种情况都是很多人，而不是很多人和一些人",
-      "contentHtml": "4，5月，情绪面，很多人感觉不到牛市，因为涨幅很窄\n6，7月，很多人觉得熊市了，因为跌幅很窄🤣\n问题是为什么两种情况都是很多人，而不是很多人和一些人",
-      "publishedAt": "2026-07-15T22:03:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2077514464769786274",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNTQOHUXEAAEIlD.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077511309101297714",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$BTC \n\nMomentum is already shifting away from aggressive selling. \n\nWe saw the capitulation wick at $60K (aggressive red selling), and now the market is forming a bottom. \n\nBears have 2 months left.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nMomentum is already shifting away from aggressive selling. \n\nWe saw the capitulation wick at $60K (aggressive red selling), and now the market is forming a bottom. \n\nBears have 2 months left.",
-      "publishedAt": "2026-07-15T21:51:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2077511309101297714",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNTM44aXAAAJzge.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077500169160192349",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "舒服了，决赛早已被我封死🖐️\n狗庄drawing dead",
-      "contentHtml": "舒服了，决赛早已被我封死🖐️\n狗庄drawing dead",
-      "publishedAt": "2026-07-15T21:06:00.000Z",
-      "link": "https://x.com/yuren477/status/2077500169160192349",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNTDY68bYAAWBw8.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077492592170688584",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "今天和一家量化基金的做DD，4个小时聊下来发现我对量化有很大的误解。AMA",
-      "contentHtml": "今天和一家量化基金的做DD，4个小时聊下来发现我对量化有很大的误解。AMA",
-      "publishedAt": "2026-07-15T20:36:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2077492592170688584",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077492352479121655",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "谨慎做多spcx，ipo价做个反弹。",
-      "contentHtml": "谨慎做多spcx，ipo价做个反弹。",
-      "publishedAt": "2026-07-15T20:35:00.000Z",
-      "link": "https://x.com/yuren477/status/2077492352479121655",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNS8R9JasAEmVNu.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077447725784969275",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "我想起来了，我是多头，我是做多发财的\n\n我要扣掉做空键，我要捏碎空头的🥚",
-      "contentHtml": "我想起来了，我是多头，我是做多发财的\n\n我要扣掉做空键，我要捏碎空头的🥚",
-      "publishedAt": "2026-07-15T17:38:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2077447725784969275",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNSTsGuawAAJKBt.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077441531833725305",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "\"Killa, your pivots don't work.\"\n\n$BTC ... hold my 🍺",
-      "contentHtml": "\"Killa, your pivots don't work.\"\n\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> ... hold my 🍺",
-      "publishedAt": "2026-07-15T17:13:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2077441531833725305",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNSN_GkXsAEfL4p.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "For the past 9 months, $BTC has dumped into the monthly open 5 times.\n\nToday marks another monthly open.\n\nEach time we've seen BTC dump into the start of a new month, the market has eventually moved in the opposite direction, catching the majority off guard.\n\nIf that pattern repeats, we could see a push higher the start of this month.",
-        "contentHtml": "For the past 9 months, <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> has dumped into the monthly open 5 times.\n\nToday marks another monthly open.\n\nEach time we've seen BTC dump into the start of a new month, the market has eventually moved in the opposite direction, catching the majority off guard.\n\nIf that pattern repeats, we could see a push higher the start of this month.",
-        "link": "https://x.com/KillaXBT/status/2072285242337952088",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMI7ivgXQAEEPyy.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077441036826075371",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "市场终会看到给钱的才是大爷",
-      "contentHtml": "市场终会看到给钱的才是大爷",
-      "publishedAt": "2026-07-15T17:11:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2077441036826075371",
-      "quote": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君",
-        "content": "我最喜欢的一家机构2季度末的展望：\nWe are focusing slightly more on \"capital spenders\" like Meta and Alphabet, along with our established \"capital suppliers.\" We are also adding more defensive, steady compounders to balance the high valuations in AI. We are prioritizing flexibility over a fixed strategy since earnings drivers are changing quickly in this cycle.\n“我们正将更多精力放在Meta和Alphabet等资本支出型企业，以及我们长期的资本供应商上。同时，为了平衡⁠人工智能领域的高估值，我们正在增加更多防御性强、稳健的⁠复利增长型公司。由于本周期内的盈利驱动因素变化迅速，我们更倾向于保持灵活性，而非采取一成不变的固定策略。” \n基本我的展望也是这个方向，然后在这个基础上添加一条：现金牛软件个股",
-        "contentHtml": "我最喜欢的一家机构2季度末的展望：\nWe are focusing slightly more on \"capital spenders\" like Meta and Alphabet, along with our established \"capital suppliers.\" We are also adding more defensive, steady compounders to balance the high valuations in AI. We are prioritizing flexibility over a fixed strategy since earnings drivers are changing quickly in this cycle.\n“我们正将更多精力放在Meta和Alphabet等资本支出型企业，以及我们长期的资本供应商上。同时，为了平衡⁠人工智能领域的高估值，我们正在增加更多防御性强、稳健的⁠复利增长型公司。由于本周期内的盈利驱动因素变化迅速，我们更倾向于保持灵活性，而非采取一成不变的固定策略。” \n基本我的展望也是这个方向，然后在这个基础上添加一条：现金牛软件个股",
-        "link": "https://x.com/TJ_Research/status/2075324995274727654"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077396435793035500",
-      "username": "boundaryhq",
-      "displayName": "boundary",
-      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
-      "content": "昨天有个2倍杠杆做多个股lucid的etf lcdl爆仓了，因为正股单日最大跌幅57%，尽管收盘跌幅只有16%，但etf已经穿仓净值为0，准备退市。\n\n一般来说都会给机构补保证金时间，不会因为短期触达爆仓价格就清算，但因为etf本身是独立的基金池，没有潜在外部的保证金补充能力，所以交易对手不会给补保证金的时间。\n\n而南方东英海力士7709，遇到这样的风险相对小一些：\n\n首先，韩国个股有30%单日最大跌幅保护，单日无法触发清算\n\n其次，7709产品文件写明，南方东英已与每一个掉期交易对手预先约定止损机制：在海力士出现极端波动时，目标是让相关掉期头寸至少保留前一个正常营业日NAV的10%，然后可能平掉掉期、暂停7709交易，或视市场情况重新建立掉期。即使正股连续两天直接跌停30%，管理人盘中也通过场外交易止损了。当然如果遇到连续两天跌30%，净值也损失了90%，且失去后续反弹敞口，只是比归零略好一点\n$SKHY $LCDL",
-      "contentHtml": "昨天有个2倍杠杆做多个股lucid的etf lcdl爆仓了，因为正股单日最大跌幅57%，尽管收盘跌幅只有16%，但etf已经穿仓净值为0，准备退市。\n\n一般来说都会给机构补保证金时间，不会因为短期触达爆仓价格就清算，但因为etf本身是独立的基金池，没有潜在外部的保证金补充能力，所以交易对手不会给补保证金的时间。\n\n而南方东英海力士7709，遇到这样的风险相对小一些：\n\n首先，韩国个股有30%单日最大跌幅保护，单日无法触发清算\n\n其次，7709产品文件写明，南方东英已与每一个掉期交易对手预先约定止损机制：在海力士出现极端波动时，目标是让相关掉期头寸至少保留前一个正常营业日NAV的10%，然后可能平掉掉期、暂停7709交易，或视市场情况重新建立掉期。即使正股连续两天直接跌停30%，管理人盘中也通过场外交易止损了。当然如果遇到连续两天跌30%，净值也损失了90%，且失去后续反弹敞口，只是比归零略好一点\n<a href=\"/search?f=tweets&q=%23SKHY\">$SKHY</a> <a href=\"/search?f=tweets&q=%23LCDL\">$LCDL</a>",
-      "publishedAt": "2026-07-15T14:14:00.000Z",
-      "link": "https://x.com/boundaryhq/status/2077396435793035500",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077382793034899746",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "ETH近期走势强于BTC这个基本都看的出来，但我认为目前ETH的问题在于做空的不够多  ETH现在很需要被做空 否则动力并不充足。\n我们回过头来看  已经快一年了你认为BMNR经受住考验了吗？如果涨起来了，故事还能让你再相信一次吗？\n个人想法，见笑。毕竟以太害了太多人太多次。",
-      "contentHtml": "ETH近期走势强于BTC这个基本都看的出来，但我认为目前ETH的问题在于做空的不够多  ETH现在很需要被做空 否则动力并不充足。\n我们回过头来看  已经快一年了你认为BMNR经受住考验了吗？如果涨起来了，故事还能让你再相信一次吗？\n个人想法，见笑。毕竟以太害了太多人太多次。",
-      "publishedAt": "2026-07-15T13:20:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2077382793034899746",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNRXorDaEAABZJ_.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNRXpfmbYAADfnw.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077379057944277249",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://pbs.twimg.com/profile_images/1986442283433254912/O0egVwxK_bigger.jpg",
-      "content": "我现在算是知道为啥 @BTC_Alert_ 会所兄面对交易盈亏这么风轻云淡了，老OG早期弄丢的btc都有70-100个🥲\n\n很有意思的采访😂这回又更多地了解了又抽象又擅长交易的会所兄，经历的大起大伏多了自然也就能控制住仓位波动时的心态了，养成了优秀交易员心态",
-      "contentHtml": "我现在算是知道为啥 <a href=\"/BTC_Alert_\" title=\"ALERT的会所\">@BTC_Alert_</a> 会所兄面对交易盈亏这么风轻云淡了，老OG早期弄丢的btc都有70-100个🥲\n\n很有意思的采访😂这回又更多地了解了又抽象又擅长交易的会所兄，经历的大起大伏多了自然也就能控制住仓位波动时的心态了，养成了优秀交易员心态",
-      "publishedAt": "2026-07-15T13:05:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2077379057944277249",
-      "quote": {
-        "username": "BTC_Alert_",
-        "displayName": "ALERT的会所",
-        "content": "《OKX的朋友们》专访：\n\n大家都喜欢渲染苦难，以来体现完成一件事情有多么不容易。\n\n不管是创业失败好多次，还是遇到zp或者其他。\n\n很容易给人一种我很坚韧，不怕困难，迎难而上的感觉。\n\n其实我没有消耗我的坚韧，我自己的观念里。\n\n既然你做了选择，发生了就要面对，就要解决。\n\n国外网赚：\n\n10年底做国外网赚，结算的是 $BTC ，和 $doge ，月流水就几百个btc，我也不知道 @star_okx 那时候开始搞加密没有。\n\nbtc拿到就没卖了，怕波动，也没想这么个事。\n\n有一些残留的放在旧电脑，丢了70-100个之间。\n\n狗狗马斯克还没喊就不计其数，然后转到ceo交易所，交易所跑路了！\n\n接着做电商：\n\n某度单页到商城，从开始赚钱到想扩张的时候，又经营失败。\n\n中间各种尝试，失败好几次，团队分离，到组建新团队。\n\n然后做跨境：\n\n开始做自营+海外仓，然后20年的改革公司体系，做轻量资产，整体转型media buy+大数据+精准客户画像模式。\n\n公司化转型：\n\n从小工作室到公司，这里面的转型是不仅仅是体量的变化。\n\n还伴随着外部环境和治理结构的变化。\n\n小工作室可以大家碰一下，选一个方向就干。\n\n公司化需要制度约束，职业经理人治理，绩效管理修正重点方向。这里逐渐淡出创始人意志影响，即使做到脱离这个创始人，也可以自行运转的大船。\n\n而外部环境上，跨境电商没有那么光鲜。\n\n很多友商可能一个月能跑1000w以上流水，但是roi基本为0，所有的收入只有3-5%的返点，这也是当前很卷的现象，实体就是这么难。\n\n有的收缩市场蛰伏，有的投钱卷死同行自己分流量蛋糕，有的进行资产金融化改革，用利润进行在投资。\n\n这些错一步，或者修正少了一点，就可能带来的很大的亏损，而作为创始人的你，没有退路。\n\n开始写账号：\n\n加密也好、美股也好，算是我的副业。\n\n不论是经济周期对公司的影响也好，还是对公司转向方向的尝试也好。\n\n我一直都处于看懂棋局再落子的状态，交易也是如此。\n\n我不是很喜欢兄弟们，大家冲买他！\n\n交易是制定预期，辨析风险，选择与对冲的过程。\n\n我很少以梭哈住游艇的心态参与，而是赔率和回撤。\n\n23年3月写账号，也是对资产配置的一次尝试，19700买了大量的大饼，如置顶推文所示，12.4万卖了，买入卖出的订单号都贴了。\n\n整个采访我都很认真，但是 @Mercy_okx 一直都非常开心，经常笑的直抖。\n\n我也不知道为什么？\n\n我一认真，mercy就想笑。\n\n可能她和我在一起总是这么开心吧？\n\n采访了我3个多小时，临近结束 @okxchinese 的工作人员对我多次可能财富自由的机会，表示非常惋惜。\n\n没什么好惋惜的。\n\n遗憾如风，常伴吾身。\n\n即使时光倒流，你还是做这样的选择，也不会有任何因素左右这些选择，你没什么好遗憾的。\n\n雷霆雨露皆是天恩。\n\n也有小兄弟问：\n\n那这么卷，这么累，你可以卖掉公司，躺平啊。\n\n随着成长，你会变得有很多负担，有些负担甩掉可能是你的觉醒。\n\n而男人，总该有点情怀，也总想作出点什么。\n\n都是自己选的，还是要战斗下去。\n\n@Haiteng_okx @Jiajia_OKX @Cayne_okx",
-        "contentHtml": "《OKX的朋友们》专访：\n\n大家都喜欢渲染苦难，以来体现完成一件事情有多么不容易。\n\n不管是创业失败好多次，还是遇到zp或者其他。\n\n很容易给人一种我很坚韧，不怕困难，迎难而上的感觉。\n\n其实我没有消耗我的坚韧，我自己的观念里。\n\n既然你做了选择，发生了就要面对，就要解决。\n\n国外网赚：\n\n10年底做国外网赚，结算的是 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> ，和 <a href=\"/search?f=tweets&q=%23doge\">$doge</a> ，月流水就几百个btc，我也不知道 <a href=\"/star_okx\" title=\"Star_OKX\">@star_okx</a> 那时候开始搞加密没有。\n\nbtc拿到就没卖了，怕波动，也没想这么个事。\n\n有一些残留的放在旧电脑，丢了70-100个之间。\n\n狗狗马斯克还没喊就不计其数，然后转到ceo交易所，交易所跑路了！\n\n接着做电商：\n\n某度单页到商城，从开始赚钱到想扩张的时候，又经营失败。\n\n中间各种尝试，失败好几次，团队分离，到组建新团队。\n\n然后做跨境：\n\n开始做自营+海外仓，然后20年的改革公司体系，做轻量资产，整体转型media buy+大数据+精准客户画像模式。\n\n公司化转型：\n\n从小工作室到公司，这里面的转型是不仅仅是体量的变化。\n\n还伴随着外部环境和治理结构的变化。\n\n小工作室可以大家碰一下，选一个方向就干。\n\n公司化需要制度约束，职业经理人治理，绩效管理修正重点方向。这里逐渐淡出创始人意志影响，即使做到脱离这个创始人，也可以自行运转的大船。\n\n而外部环境上，跨境电商没有那么光鲜。\n\n很多友商可能一个月能跑1000w以上流水，但是roi基本为0，所有的收入只有3-5%的返点，这也是当前很卷的现象，实体就是这么难。\n\n有的收缩市场蛰伏，有的投钱卷死同行自己分流量蛋糕，有的进行资产金融化改革，用利润进行在投资。\n\n这些错一步，或者修正少了一点，就可能带来的很大的亏损，而作为创始人的你，没有退路。\n\n开始写账号：\n\n加密也好、美股也好，算是我的副业。\n\n不论是经济周期对公司的影响也好，还是对公司转向方向的尝试也好。\n\n我一直都处于看懂棋局再落子的状态，交易也是如此。\n\n我不是很喜欢兄弟们，大家冲买他！\n\n交易是制定预期，辨析风险，选择与对冲的过程。\n\n我很少以梭哈住游艇的心态参与，而是赔率和回撤。\n\n23年3月写账号，也是对资产配置的一次尝试，19700买了大量的大饼，如置顶推文所示，12.4万卖了，买入卖出的订单号都贴了。\n\n整个采访我都很认真，但是 <a href=\"/Mercy_okx\" title=\"Mercy\">@Mercy_okx</a> 一直都非常开心，经常笑的直抖。\n\n我也不知道为什么？\n\n我一认真，mercy就想笑。\n\n可能她和我在一起总是这么开心吧？\n\n采访了我3个多小时，临近结束 <a href=\"/okxchinese\" title=\"OKX中文\">@okxchinese</a> 的工作人员对我多次可能财富自由的机会，表示非常惋惜。\n\n没什么好惋惜的。\n\n遗憾如风，常伴吾身。\n\n即使时光倒流，你还是做这样的选择，也不会有任何因素左右这些选择，你没什么好遗憾的。\n\n雷霆雨露皆是天恩。\n\n也有小兄弟问：\n\n那这么卷，这么累，你可以卖掉公司，躺平啊。\n\n随着成长，你会变得有很多负担，有些负担甩掉可能是你的觉醒。\n\n而男人，总该有点情怀，也总想作出点什么。\n\n都是自己选的，还是要战斗下去。\n\n<a href=\"/Haiteng_okx\" title=\"海腾\">@Haiteng_okx</a> <a href=\"/Jiajia_OKX\" title=\"佳佳 OKX\">@Jiajia_OKX</a> <a href=\"/Cayne_okx\" title=\"Cayne.okx\">@Cayne_okx</a>",
-        "link": "https://x.com/BTC_Alert_/status/2077367268225519636"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077373144344732123",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "近期，$HYPE 的流動性指標在震盪行情中展現出極高的行情指導性，可作為掌握短線波段交易機會的重要依據。\n如圖所示，$HYPE LIQ 在近期震盪行情中，多次成功標示出了相對高低點：\n\n🟢 $HYPE LIQ > 3（綠柱）：通常對應震盪區間的相對低點。\n🔴 $HYPE LIQ < -3（紅柱）：通常對應震盪區間的相對高點。\n\n目前，$HYPE 在 LIQ > 3 後已出現一波反彈，若後續 LIQ 持續轉為紅柱並維持一段時間，則可視為震盪區間內較佳的多單止盈時機。",
-      "contentHtml": "近期，$HYPE 的流動性指標在震盪行情中展現出極高的行情指導性，可作為掌握短線波段交易機會的重要依據。\n如圖所示，$HYPE LIQ 在近期震盪行情中，多次成功標示出了相對高低點：\n\n🟢 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> LIQ &gt; 3（綠柱）：通常對應震盪區間的相對低點。\n🔴 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> LIQ &lt; -3（紅柱）：通常對應震盪區間的相對高點。\n\n目前，$HYPE 在 LIQ &gt; 3 後已出現一波反彈，若後續 LIQ 持續轉為紅柱並維持一段時間，則可視為震盪區間內較佳的多單止盈時機。",
-      "publishedAt": "2026-07-15T12:42:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2077373144344732123",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNRP0T1a8AAHyHR.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077373146550948183",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群   \n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群   \n👉 <a href=\"http://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-07-15T12:42:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2077373146550948183",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077373024626745698",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "Recently, $HYPE's liquidity indicator has shown remarkable predictive value in range-bound conditions, serving as a key reference for capturing short-term swing trade opportunities.\n\nAs shown in the chart, $HYPE LIQ has repeatedly flagged relative highs and lows throughout the recent chop: \n\n🟢 $HYPE LIQ > 3 (green bars): typically corresponds to the relative lows of the range. \n🔴 $HYPE LIQ < -3 (red bars): typically corresponds to the relative highs of the range.\n\nCurrently, $HYPE has already bounced after LIQ pushed above 3. If LIQ subsequently flips to red bars and holds there for a stretch, it can be read as a favorable spot to take profit on longs within the range.",
-      "contentHtml": "Recently, <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a>'s liquidity indicator has shown remarkable predictive value in range-bound conditions, serving as a key reference for capturing short-term swing trade opportunities.\n\nAs shown in the chart, <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> LIQ has repeatedly flagged relative highs and lows throughout the recent chop: \n\n🟢 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> LIQ &gt; 3 (green bars): typically corresponds to the relative lows of the range. \n🔴 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> LIQ &lt; -3 (red bars): typically corresponds to the relative highs of the range.\n\nCurrently, <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> has already bounced after LIQ pushed above 3. If LIQ subsequently flips to red bars and holds there for a stretch, it can be read as a favorable spot to take profit on longs within the range.",
-      "publishedAt": "2026-07-15T12:41:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2077373024626745698",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNRPjEJboAAMmRj.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077373026816201111",
-      "username": "coinkarma_",
-      "displayName": "CoinKarma",
-      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
-      "content": "Want to catch real-time trading opportunities? Start your 14-day free trial now \n👉 coinkarma.pse.is/7wsxnl",
-      "contentHtml": "Want to catch real-time trading opportunities? Start your 14-day free trial now \n👉 <a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
-      "publishedAt": "2026-07-15T12:41:00.000Z",
-      "link": "https://x.com/coinkarma_/status/2077373026816201111",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077348538128994687",
-      "username": "0xSunNFT",
-      "displayName": "0xSun",
-      "avatar": "https://pbs.twimg.com/profile_images/1820705442735296512/ej9BX01I_bigger.png",
-      "content": "Robinhood链这波的剧情属实始料未及了，本来$CASHCAT看着已经触底反弹，回到了200M，其他Meme币也准备突破震荡区间了，结果龙头平台Noxa居然关门了。\n\n有传言说是因为项目方利益分配不均导致内讧，也有说是因为法律合规问题，总之太莫名其妙了。这一波也极大打击了RH链上的Meme情绪，本在反弹趋势的Meme币基本都迎来了一波大回调。\n\n目前RH链的热点重新回到了应用币上，围绕着RWA和新发射台作为主要题材，市值最高的依然是提过的 arrow-2:native ，之前最高到过35M，回到10~15M区间震荡了三天后又重返20M。\n\n作为RH链上首个原生CDP， @ArrowFinanceio 的核心应用之一是允许用户用代币化股票、ETF和RWA资产抵押借贷，此外还围绕着一系列DeFi应用在进行开发，非常契合Robinhood链的主题。\n\n之前也提过，对于此类应用代币，短期走势更取决于情绪面和消息面，例如团队背景、合作关系等等，中长期则更应该关注项目的开发进度以及TVL是否稳步增长等指标。\n\n近期对于RH链未来的发展也是一个关键节点了，龙头平台的关闭引发的恐慌情绪势必会产生一些负面影响，看团队能否妥善处理好这次的风波了。",
-      "contentHtml": "Robinhood链这波的剧情属实始料未及了，本来$CASHCAT看着已经触底反弹，回到了200M，其他Meme币也准备突破震荡区间了，结果龙头平台Noxa居然关门了。\n\n有传言说是因为项目方利益分配不均导致内讧，也有说是因为法律合规问题，总之太莫名其妙了。这一波也极大打击了RH链上的Meme情绪，本在反弹趋势的Meme币基本都迎来了一波大回调。\n\n目前RH链的热点重新回到了应用币上，围绕着RWA和新发射台作为主要题材，市值最高的依然是提过的 arrow-2:native ，之前最高到过35M，回到10~15M区间震荡了三天后又重返20M。\n\n作为RH链上首个原生CDP， <a href=\"/ArrowFinanceio\" title=\"Arrow Finance\">@ArrowFinanceio</a> 的核心应用之一是允许用户用代币化股票、ETF和RWA资产抵押借贷，此外还围绕着一系列DeFi应用在进行开发，非常契合Robinhood链的主题。\n\n之前也提过，对于此类应用代币，短期走势更取决于情绪面和消息面，例如团队背景、合作关系等等，中长期则更应该关注项目的开发进度以及TVL是否稳步增长等指标。\n\n近期对于RH链未来的发展也是一个关键节点了，龙头平台的关闭引发的恐慌情绪势必会产生一些负面影响，看团队能否妥善处理好这次的风波了。",
-      "publishedAt": "2026-07-15T11:04:00.000Z",
-      "link": "https://x.com/0xSunNFT/status/2077348538128994687",
-      "quote": {
-        "username": "0xSunNFT",
-        "displayName": "0xSun",
-        "content": "今天 cash-cat:native 最低到了150M，在Hyperliquid上的合约更是插针到了80M，带着Robinhood链上的Meme集体回调了一波。\n\n这一波RH的行情，我印象里参考性比较强的，是之前类似的两次公链上的Meme热潮。\n\n一次是24年8月末的Tron，由$Sundog带头，高点接近400M，也催生了一批峰值30~50M的Meme币，后续$Sundog上了HTX、Bybit等交易所，但最终没有进一步登陆一线大所，一个月后开始慢慢阴跌，其余的Meme币生命周期则更短。\n\n另一次是24年末到25年初的Base行情，当时先经历了一波由$Brett领头的百花齐放，高点2.3B，并带动了一批突破100M的Meme币，例如$Keycat、$Miggles等，然后经过一个月的回调，在1月中旬由$Toshi进入Coinbase Roadmap的消息再度引燃，高点达到了960M，许多生态代币也在带动下由底部反弹了3~5倍，整个行情前后持续了接近三个月。\n\n对比来看的话，我认为RH这波链上行情，更有机会走出Base的轨迹，首先两者分别有Robinhood和Coinbase两个一线交易所作为背书和潜在上币通道，从近期Sol官方与Robinhood的频繁互动也能看出这一点的重要性。其次当时的Base除了Meme币，还有$Degen和Farcaster生态下的各种应用币，而现在的RH则有$Arrow、$VEX等RWA和AI Agent题材的应用币，更广泛的题材也意味着更持久的生命力。\n\n目前最关键的，还是 cash-cat:native 的走势，如果可以在每次回调后都走出反弹，并维持住上Robinhood的预期，直至最终顺利上币，那么整个生态都将持续存在机会。而经过今天的回调后，目前市值龙二的Meme币应该是 hoodrat-4:native ，作为Matt Furie的笔下角色，Pepe系几乎是每条新链的Meme行情都会出现的一个金狗题材，我会密切关注这两个代币的走势作为RH链上建仓和抄底的选择。",
-        "contentHtml": "今天 cash-cat:native 最低到了150M，在Hyperliquid上的合约更是插针到了80M，带着Robinhood链上的Meme集体回调了一波。\n\n这一波RH的行情，我印象里参考性比较强的，是之前类似的两次公链上的Meme热潮。\n\n一次是24年8月末的Tron，由$Sundog带头，高点接近400M，也催生了一批峰值30~50M的Meme币，后续$Sundog上了HTX、Bybit等交易所，但最终没有进一步登陆一线大所，一个月后开始慢慢阴跌，其余的Meme币生命周期则更短。\n\n另一次是24年末到25年初的Base行情，当时先经历了一波由$Brett领头的百花齐放，高点2.3B，并带动了一批突破100M的Meme币，例如$Keycat、$Miggles等，然后经过一个月的回调，在1月中旬由$Toshi进入Coinbase Roadmap的消息再度引燃，高点达到了960M，许多生态代币也在带动下由底部反弹了3~5倍，整个行情前后持续了接近三个月。\n\n对比来看的话，我认为RH这波链上行情，更有机会走出Base的轨迹，首先两者分别有Robinhood和Coinbase两个一线交易所作为背书和潜在上币通道，从近期Sol官方与Robinhood的频繁互动也能看出这一点的重要性。其次当时的Base除了Meme币，还有$Degen和Farcaster生态下的各种应用币，而现在的RH则有$Arrow、$VEX等RWA和AI Agent题材的应用币，更广泛的题材也意味着更持久的生命力。\n\n目前最关键的，还是 cash-cat:native 的走势，如果可以在每次回调后都走出反弹，并维持住上Robinhood的预期，直至最终顺利上币，那么整个生态都将持续存在机会。而经过今天的回调后，目前市值龙二的Meme币应该是 hoodrat-4:native ，作为Matt Furie的笔下角色，Pepe系几乎是每条新链的Meme行情都会出现的一个金狗题材，我会密切关注这两个代币的走势作为RH链上建仓和抄底的选择。",
-        "link": "https://x.com/0xSunNFT/status/2076313211591389618"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
