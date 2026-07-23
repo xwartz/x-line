@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T22:26:13.668Z",
+  "lastUpdated": "2026-07-23T23:24:18.546Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 488,
-    "successUsers": 24,
-    "failedUsers": 8
+    "newFetched": 584,
+    "successUsers": 29,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2080433498377142736",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "英特尔产品这块过去四个季度16B利润，就算晶圆制造白送（105B的器材一份不算），500B市值，30倍TTM，如果假设增速50%，Forward只有20倍，仍然被严重低估。两块业务必须分开看，把晶圆的亏损剃出去。",
+      "contentHtml": "英特尔产品这块过去四个季度16B利润，就算晶圆制造白送（105B的器材一份不算），500B市值，30倍TTM，如果假设增速50%，Forward只有20倍，仍然被严重低估。两块业务必须分开看，把晶圆的亏损剃出去。",
+      "publishedAt": "2026-07-23T23:22:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2080433498377142736",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2080407290037874830",
       "username": "TJ_Research",
@@ -166,6 +181,38 @@
           "url": "https://pbs.twimg.com/media/HN8JnFZXQAAbMGw.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080386538760999056",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "一些马前炮\n\nintc盘后 财报超预期 \n\n明天开盘intc应当还有110刀以下的机会",
+      "contentHtml": "一些马前炮\n\nintc盘后 财报超预期 \n\n明天开盘intc应当还有110刀以下的机会",
+      "publishedAt": "2026-07-23T20:16:00.000Z",
+      "link": "https://x.com/octopusycc/status/2080386538760999056",
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "英特尔盘后财报 $INTC \n\n期权流 以 95-110 之间的价格为主\n\n市场认为财报后，价格应该在这个位置区间，这需要让我们重新审视INTC的合理估值区间\n\n财报押注整体以看涨为主",
+        "contentHtml": "英特尔盘后财报 <a href=\"/search?f=tweets&q=%23INTC\">$INTC</a> \n\n期权流 以 95-110 之间的价格为主\n\n市场认为财报后，价格应该在这个位置区间，这需要让我们重新审视INTC的合理估值区间\n\n财报押注整体以看涨为主",
+        "link": "https://x.com/octopusycc/status/2080289121445269744",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HN6rRkjawAA9Ejh.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HN6r2mVbIAA_n3i.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -12046,36 +12093,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077812148118429705",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "看到今天有开始讨论算力冗余了，因为模型公司开始放宽使用度，但Token的价格下来，AI才能起飞，到现在最大的落地是CODING，2万亿市场的落地托起了整个硬件市场，真正的智能体落地，市场远不止2万亿！",
-      "contentHtml": "看到今天有开始讨论算力冗余了，因为模型公司开始放宽使用度，但Token的价格下来，AI才能起飞，到现在最大的落地是CODING，2万亿市场的落地托起了整个硬件市场，真正的智能体落地，市场远不止2万亿！",
-      "publishedAt": "2026-07-16T17:46:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2077812148118429705",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2077810632577995256",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "我是一个左侧选手，所以我喜欢接飞刀，估值合适就进。而不是300抢着进，200抢着卖。我关注 $NBIS $BE $NOK $LITE",
-      "contentHtml": "我是一个左侧选手，所以我喜欢接飞刀，估值合适就进。而不是300抢着进，200抢着卖。我关注 <a href=\"/search?f=tweets&q=%23NBIS\">$NBIS</a> <a href=\"/search?f=tweets&q=%23BE\">$BE</a> <a href=\"/search?f=tweets&q=%23NOK\">$NOK</a> <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a>",
-      "publishedAt": "2026-07-16T17:40:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2077810632577995256",
       "stats": {
         "replies": 0,
         "retweets": 0,
