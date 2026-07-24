@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T12:38:00.988Z",
+  "lastUpdated": "2026-07-24T13:52:29.224Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -108,10 +108,10 @@
     }
   ],
   "stats": {
-    "total": 500,
-    "newFetched": 544,
-    "successUsers": 27,
-    "failedUsers": 5
+    "total": 490,
+    "newFetched": 0,
+    "successUsers": 0,
+    "failedUsers": 32
   },
   "tweets": [
     {
@@ -1552,25 +1552,6 @@
       }
     },
     {
-      "id": "2080297163935113255",
-      "username": "based_benji",
-      "displayName": "Based ₿en",
-      "avatar": "https://pbs.twimg.com/profile_images/1647908300326047744/KF49mkko_bigger.jpg",
-      "content": "“For someone who is early in their career (and maybe even later), the single most important thing about a company is the alumni network you’re going to build. Think about who you will work with and what those people are going on to do.”\n\n-@naval",
-      "contentHtml": "“For someone who is early in their career (and maybe even later), the single most important thing about a company is the alumni network you’re going to build. Think about who you will work with and what those people are going on to do.”\n\n-<a href=\"/naval\" title=\"Naval\">@naval</a>",
-      "publishedAt": "2026-07-23T14:21:00.000Z",
-      "link": "https://x.com/based_benji/status/2080297163935113255",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2080296188130341289",
       "username": "octopusycc",
       "displayName": "大老师Bugsbunny ｜DRAM UP only",
@@ -1970,48 +1951,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HN1dmgJaQAA1ILL.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080265944853786969",
-      "username": "WeWill_Rocky",
-      "displayName": "Rocky AI✨",
-      "avatar": "https://pbs.twimg.com/profile_images/1940640303305674752/-W7btS_g_bigger.jpg",
-      "content": "每个熊市，都会带走几家交易所。\n\n只是没想到这一次，会轮到 BitMEX。\n\n受此影响，WSNB 也同步暂停更新，恢复时间将通过邮件通知。\n\n感谢魏神 @coolish 在充满噪音的市场里，始终坚持分享真实的实盘数据，感谢这 115,000 位精神股东的一路陪伴。\n\n有些告别，是为了下一次重逢🙏",
-      "contentHtml": "每个熊市，都会带走几家交易所。\n\n只是没想到这一次，会轮到 BitMEX。\n\n受此影响，WSNB 也同步暂停更新，恢复时间将通过邮件通知。\n\n感谢魏神 <a href=\"/coolish\" title=\"paulwei\">@coolish</a> 在充满噪音的市场里，始终坚持分享真实的实盘数据，感谢这 115,000 位精神股东的一路陪伴。\n\n有些告别，是为了下一次重逢🙏",
-      "publishedAt": "2026-07-23T12:17:00.000Z",
-      "link": "https://x.com/WeWill_Rocky/status/2080265944853786969",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN6Hb9BasAA43VW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN6INHmaYAE1BnL.png"
-        }
-      ],
-      "retweet": {
-        "username": "coolish",
-        "displayName": "paulwei"
-      },
-      "quote": {
-        "username": "BitMEX",
-        "displayName": "BitMEX",
-        "content": "Dear BitMEX Users,\n\nToday, we share with a very heavy heart that BitMEX exchange will shut down its operations, effective 23 September 2026 at 04:00:00 UTC.\n\nThe owner and operator of BitMEX, HDR Global Trading Limited, has made the difficult decision to close operations following a strategic review of the business.\n\nIt may not look the same today, but we are proud of our 11+ year legacy and the role we played in shaping the crypto industry. We invented the 100x leverage perpetual swap, which for most of you, was the first step to your crypto trading journey. It is now the most traded financial product in the crypto industry, adopted by thousands of users and exchanges. And we remain proud of our robust security infrastructure, which has allowed us to maintain a flawless track record of 0 customer funds lost to hacks in our entire operating history.\n\nWe want to reassure you that your assets remain fully safe and under your control during this transition period. This announcement is just to give enough time to ensure a smooth withdrawal process for everyone.\n\nFrom today we strongly encourage all users to close their positions and withdraw their funds as soon as convenient. For more details on the full process, please read our blog: bitmex.com/blog/bitmex-closu…\n\nBitMEX was once home to some of the greatest traders today. Our team has dedicated tremendous effort and passion into building the platform into what it is, and we are glad to have reached some of you during your time with us. To everyone who has traded, supported, and grown alongside us - thank you for your trust over the last 11 years.\n\nThe BitMEX Team",
-        "contentHtml": "Dear BitMEX Users,\n\nToday, we share with a very heavy heart that BitMEX exchange will shut down its operations, effective 23 September 2026 at 04:00:00 UTC.\n\nThe owner and operator of BitMEX, HDR Global Trading Limited, has made the difficult decision to close operations following a strategic review of the business.\n\nIt may not look the same today, but we are proud of our 11+ year legacy and the role we played in shaping the crypto industry. We invented the 100x leverage perpetual swap, which for most of you, was the first step to your crypto trading journey. It is now the most traded financial product in the crypto industry, adopted by thousands of users and exchanges. And we remain proud of our robust security infrastructure, which has allowed us to maintain a flawless track record of 0 customer funds lost to hacks in our entire operating history.\n\nWe want to reassure you that your assets remain fully safe and under your control during this transition period. This announcement is just to give enough time to ensure a smooth withdrawal process for everyone.\n\nFrom today we strongly encourage all users to close their positions and withdraw their funds as soon as convenient. For more details on the full process, please read our blog: <a href=\"https://www.bitmex.com/blog/bitmex-closure\">bitmex.com/blog/bitmex-closu…</a>\n\nBitMEX was once home to some of the greatest traders today. Our team has dedicated tremendous effort and passion into building the platform into what it is, and we are glad to have reached some of you during your time with us. To everyone who has traded, supported, and grown alongside us - thank you for your trust over the last 11 years.\n\nThe BitMEX Team",
-        "link": "https://x.com/BitMEX/status/2080201602456301580",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN5cUjGasAAlEMk.jpg"
           }
         ]
       },
@@ -3210,32 +3149,6 @@
       }
     },
     {
-      "id": "2080035204450988529",
-      "username": "quxiaoyin",
-      "displayName": "Xiaoyin Qu",
-      "avatar": "https://pbs.twimg.com/profile_images/1683592007875436544/P0kykGvV_bigger.jpg",
-      "content": "This “IP theft” framing will shoot Anthropic in the foot. Hollywood, publishers, authors etc now have the same IP grounds to sue Anthropic for IP theft. How dare you open the IP genie box? No AI labs should.",
-      "contentHtml": "This “IP theft” framing will shoot Anthropic in the foot. Hollywood, publishers, authors etc now have the same IP grounds to sue Anthropic for IP theft. How dare you open the IP genie box? No AI labs should.",
-      "publishedAt": "2026-07-22T21:00:00.000Z",
-      "link": "https://x.com/quxiaoyin/status/2080035204450988529",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "mkratsios47",
-        "displayName": "Director Michael Kratsios",
-        "content": "We have information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model. \n\nTo do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection. Moonshot AI has also acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models.\n \nThe United States strongly supports the free and fair development of AI, including a thriving competitive ecosystem that spans frontier models, specialized systems, open-source frameworks, and open-weight models. Legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem. However, large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable.",
-        "contentHtml": "We have information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model. \n\nTo do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection. Moonshot AI has also acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models.\n \nThe United States strongly supports the free and fair development of AI, including a thriving competitive ecosystem that spans frontier models, specialized systems, open-source frameworks, and open-weight models. Legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem. However, large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable.",
-        "link": "https://x.com/mkratsios47/status/2079933645888880708"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2080031527933825471",
       "username": "octopusycc",
       "displayName": "大老师Bugsbunny ｜DRAM UP only",
@@ -3636,38 +3549,6 @@
       }
     },
     {
-      "id": "2079976461201539081",
-      "username": "wesyang",
-      "displayName": "Wesley Yang",
-      "avatar": "https://pbs.twimg.com/profile_images/2080286024953958401/MLA_yuWh_bigger.jpg",
-      "content": "0 percent of education papers were replicated",
-      "contentHtml": "0 percent of education papers were replicated",
-      "publishedAt": "2026-07-22T17:06:00.000Z",
-      "link": "https://x.com/wesyang/status/2079976461201539081",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "data_depot",
-        "displayName": "The Missing Data Depot",
-        "content": "A 7-year study of 3,900 social science papers found that only ~50% could be replicated. \n\nThere was significant variation across fields, however. \n\nWhile more than 60% of political science & econ papers were replicated, only ~25% of sociology & 0% of education papers were.",
-        "contentHtml": "A 7-year study of 3,900 social science papers found that only ~50% could be replicated. \n\nThere was significant variation across fields, however. \n\nWhile more than 60% of political science &amp; econ papers were replicated, only ~25% of sociology &amp; 0% of education papers were.",
-        "link": "https://x.com/data_depot/status/2079621216969822695",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNxK4RFa4AAGc17.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2079974368906563649",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -3704,32 +3585,6 @@
       "contentHtml": "财报前 获利盘还是得走，大不了财报后 接回来",
       "publishedAt": "2026-07-22T16:29:00.000Z",
       "link": "https://x.com/octopusycc/status/2079967057274384446",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2079966815913161091",
-      "username": "Teknium",
-      "displayName": "Teknium 🪽",
-      "avatar": "https://pbs.twimg.com/profile_images/1642401912648777728/2KFikPsE_bigger.jpg",
-      "content": "I have information that Anthropic scraped my github twitter reddit discord and facebook posts for the development of it's Fable model.  \n\nTo do this they developed a sophisticated internal platform to conduct large scale scraping and obfuscation of their actions.",
-      "contentHtml": "I have information that Anthropic scraped my github twitter reddit discord and facebook posts for the development of it's Fable model.  \n\nTo do this they developed a sophisticated internal platform to conduct large scale scraping and obfuscation of their actions.",
-      "publishedAt": "2026-07-22T16:28:00.000Z",
-      "link": "https://x.com/Teknium/status/2079966815913161091",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "mkratsios47",
-        "displayName": "Director Michael Kratsios",
-        "content": "We have information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model. \n\nTo do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection. Moonshot AI has also acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models.\n \nThe United States strongly supports the free and fair development of AI, including a thriving competitive ecosystem that spans frontier models, specialized systems, open-source frameworks, and open-weight models. Legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem. However, large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable.",
-        "contentHtml": "We have information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model. \n\nTo do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection. Moonshot AI has also acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models.\n \nThe United States strongly supports the free and fair development of AI, including a thriving competitive ecosystem that spans frontier models, specialized systems, open-source frameworks, and open-weight models. Legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem. However, large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable.",
-        "link": "https://x.com/mkratsios47/status/2079933645888880708"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -6389,31 +6244,6 @@
       }
     },
     {
-      "id": "2079461647035650400",
-      "username": "m1ssuo",
-      "displayName": "Vincent Yang",
-      "avatar": "https://pbs.twimg.com/profile_images/1589233256175923202/CsyqQfsK_bigger.png",
-      "content": "做了个新 App：Fusio 🚀\n\n一个原生 iOS 客户端，把你在各家 VirtFusion 面板的 VPS (GreenCloud、Riven 等)聚合到一个列表里统一管理。\n\n✅ 多面板聚合，实时状态、流量一目了然\n✅ 开关机 / 重装 / VNC / SSH Key 全支持\n✅ 桌面小组件显示剩余流量\n✅ 无后端，API Token 直连面板\n✅ 隐私模式 + 只读模式，防偷窥防误触\n\ntestflight.apple.com/join/z6…",
-      "contentHtml": "做了个新 App：Fusio 🚀\n\n一个原生 iOS 客户端，把你在各家 VirtFusion 面板的 VPS (GreenCloud、Riven 等)聚合到一个列表里统一管理。\n\n✅ 多面板聚合，实时状态、流量一目了然\n✅ 开关机 / 重装 / VNC / SSH Key 全支持\n✅ 桌面小组件显示剩余流量\n✅ 无后端，API Token 直连面板\n✅ 隐私模式 + 只读模式，防偷窥防误触\n\n<a href=\"https://testflight.apple.com/join/z656gqSW\">testflight.apple.com/join/z6…</a>",
-      "publishedAt": "2026-07-21T07:01:00.000Z",
-      "link": "https://x.com/m1ssuo/status/2079461647035650400",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNu7VeZa8AAxtWS.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2079459627134263742",
       "username": "0xleng1",
       "displayName": "Leng",
@@ -6737,25 +6567,6 @@
           "url": "https://pbs.twimg.com/media/HNuIrTtWwAEJcKB.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2079405104986530134",
-      "username": "douzi_1991",
-      "displayName": "yan",
-      "avatar": "https://pbs.twimg.com/profile_images/1513135552476102664/vWtEzsv3_bigger.jpg",
-      "content": "这个原理是修改gs-loc的结果来改定位。gs-loc是设备将周围Wi-Fi/蓝牙设备的信息发给Apple，Apple返回GPS位置。针对无GPS的设备（Wi-Fi版iPad、Mac）开启修改一直生效；针对有GPS的设备（iPhone），在室内、地铁等很难连卫星的地方也会一直生效，但在户外如果卫星信号很好，会以实际卫星返回结果为准。",
-      "contentHtml": "这个原理是修改gs-loc的结果来改定位。gs-loc是设备将周围Wi-Fi/蓝牙设备的信息发给Apple，Apple返回GPS位置。针对无GPS的设备（Wi-Fi版iPad、Mac）开启修改一直生效；针对有GPS的设备（iPhone），在室内、地铁等很难连卫星的地方也会一直生效，但在户外如果卫星信号很好，会以实际卫星返回结果为准。",
-      "publishedAt": "2026-07-21T03:16:00.000Z",
-      "link": "https://x.com/douzi_1991/status/2079405104986530134",
-      "retweet": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -7501,25 +7312,6 @@
             "url": "https://pbs.twimg.com/media/G2cUq9BWoAA9moM.png"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2079274102129304026",
-      "username": "rauchg",
-      "displayName": "Guillermo Rauch",
-      "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_bigger.jpg",
-      "content": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.",
-      "contentHtml": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.",
-      "publishedAt": "2026-07-20T18:35:00.000Z",
-      "link": "https://x.com/rauchg/status/2079274102129304026",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -9099,25 +8891,6 @@
       }
     },
     {
-      "id": "2078832788111798726",
-      "username": "AscendantPower",
-      "displayName": "Ascendant Power",
-      "avatar": "https://pbs.twimg.com/profile_images/1924806321343193088/O3s6lTHN_bigger.jpg",
-      "content": "People who are incapable of creating advanced civilizations are equally incapable of maintaining them.",
-      "contentHtml": "People who are incapable of creating advanced civilizations are equally incapable of maintaining them.",
-      "publishedAt": "2026-07-19T13:22:00.000Z",
-      "link": "https://x.com/AscendantPower/status/2078832788111798726",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2078825908107133414",
       "username": "0xSunNFT",
       "displayName": "0xSun",
@@ -10016,38 +9789,6 @@
         "content": "🇨🇳 China (Scaling Supremacy)\n- EV & Battery Supply Chain\n- Open-weight LLMs \n- Embodied AI & edge compute \n- Green energy (Solar/Wind/Nuclear) \n- Rare Earth \n- Global ecommerce \n\n🇺🇸 USA (Emerging Supremacy)\n- Close source LLMs \n- High-end Chips (GPUs/CPUs)\n- Cloud Hyperscalers\n- Commercial Space (Starship/Starlink) \n- Bio-pharma & Drug Discovery \n\nOvercapacity meets extreme efficiency vs \nInnovation meets capital concentration",
         "contentHtml": "🇨🇳 China (Scaling Supremacy)\n- EV & Battery Supply Chain\n- Open-weight LLMs \n- Embodied AI & edge compute \n- Green energy (Solar/Wind/Nuclear) \n- Rare Earth \n- Global ecommerce \n\n🇺🇸 USA (Emerging Supremacy)\n- Close source LLMs \n- High-end Chips (GPUs/CPUs)\n- Cloud Hyperscalers\n- Commercial Space (Starship/Starlink) \n- Bio-pharma & Drug Discovery \n\nOvercapacity meets extreme efficiency vs \nInnovation meets capital concentration",
         "link": "https://x.com/DoveyWan/status/2054462879198486713"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078607879335006619",
-      "username": "ebfull",
-      "displayName": "Sean Bowe",
-      "avatar": "https://pbs.twimg.com/profile_images/1934672401687597056/SmfyH4L4_bigger.jpg",
-      "content": "Ironwood goes live in ten days.\n\nThe possibility of counterfeiting bugs in our project has kept me awake at night. No more. Mathematical proof that undetectable counterfeiting bugs don't exist in Ironwood changes how even *I* feel about Zcash, as a protocol dev of ~10 years.",
-      "contentHtml": "Ironwood goes live in ten days.\n\nThe possibility of counterfeiting bugs in our project has kept me awake at night. No more. Mathematical proof that undetectable counterfeiting bugs don't exist in Ironwood changes how even *I* feel about Zcash, as a protocol dev of ~10 years.",
-      "publishedAt": "2026-07-18T22:28:00.000Z",
-      "link": "https://x.com/ebfull/status/2078607879335006619",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "ZakuraZcash",
-        "displayName": "Zakura",
-        "content": "Ironwood goes live in 10 days.\n\nThe Great Ironwood Migration achieves three goals:\n\n- Provide a credibly sound shielded pool\n- Give evidence no counterfeiting occurred in Orchard\n- Re-establish the circulating supply of ZEC.\n\nHere's what you need to know... 🧵",
-        "contentHtml": "Ironwood goes live in 10 days.\n\nThe Great Ironwood Migration achieves three goals:\n\n- Provide a credibly sound shielded pool\n- Give evidence no counterfeiting occurred in Orchard\n- Re-establish the circulating supply of ZEC.\n\nHere's what you need to know... 🧵",
-        "link": "https://x.com/ZakuraZcash/status/2078600008929259882",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNirsRVaoAAF_1i.jpg"
-          }
-        ]
       },
       "stats": {
         "replies": 0,
