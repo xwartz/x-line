@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T22:27:54.834Z",
+  "lastUpdated": "2026-07-24T23:26:21.612Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,48 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 565,
-    "successUsers": 28,
-    "failedUsers": 4
+    "newFetched": 582,
+    "successUsers": 29,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2080792705643536468",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "反正啥也看不懂，所以我写 Rust！",
+      "contentHtml": "反正啥也看不懂，所以我写 Rust！",
+      "publishedAt": "2026-07-24T23:10:00.000Z",
+      "link": "https://x.com/taresky/status/2080792705643536468",
+      "quote": {
+        "username": "gxgexiao",
+        "displayName": "Xiao",
+        "content": "Codex 写 Go 代码太喜欢做抽象了，但凡依赖外部都搞个 interface，Java 味儿极重。以前反对过度抽象是因为读代码改代码心智负担过大，现在如果大家都是 AI 写完了事不细读代码好像也没什么问题，易测试易移植的好处还在。",
+        "contentHtml": "Codex 写 Go 代码太喜欢做抽象了，但凡依赖外部都搞个 interface，Java 味儿极重。以前反对过度抽象是因为读代码改代码心智负担过大，现在如果大家都是 AI 写完了事不细读代码好像也没什么问题，易测试易移植的好处还在。",
+        "link": "https://x.com/gxgexiao/status/2080743743075057736"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080792509769568281",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI \n\nCodex 的“聊天”，或者“不选择项目”，其实就是生成一个临时的文件夹，让你隔离上下文去使用 Codex。\n\n而 Claude Code 不行，你必须选择一个项目。\n\n所以有一些临时性 Code 任务，比如写个小脚本，简单拉一下数据之类的临时任务，就会直接打开 Codex App 而不会考虑 Claude。\n\n这就是有产品经理，和没有产品经理的区别。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\nCodex 的“聊天”，或者“不选择项目”，其实就是生成一个临时的文件夹，让你隔离上下文去使用 Codex。\n\n而 Claude Code 不行，你必须选择一个项目。\n\n所以有一些临时性 Code 任务，比如写个小脚本，简单拉一下数据之类的临时任务，就会直接打开 Codex App 而不会考虑 Claude。\n\n这就是有产品经理，和没有产品经理的区别。",
+      "publishedAt": "2026-07-24T23:09:00.000Z",
+      "link": "https://x.com/taresky/status/2080792509769568281",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2080777741067223143",
       "username": "hazenlee",
@@ -253,6 +290,21 @@
       "contentHtml": "The longer <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> ranges above 60K, the higher the chance the lower boundaries wont get tested.\n\nWe are on limited time. We have to factor in the cycles timings and the bottom formations. \n\nUsually the market ranges for 2 months after the bottom is formed. Lets say we established our bottom low at 57K, that occurred in July. Meaning that theoretically if the bottom is in, we have 2 months range before the trend shifts pushing it to late September when we start seeing bullish shifts in structure.\n\nOn the other hand, if we haven’t bottomed yet, we need to form the base low (capitulation low) in the next 1-2 months as we will range for another 1-2 months whilst chopping at the bottom. Which would mean we bottom in November/December. \n\nThat would mean that we have about a 1-1.5 month interval for BTC to shit itself. If it doesnt shit itself in that timespan, there is a very good chance the levels you desire lower are not going to happen. Its a timing thing. \n\nSo pick your poison. I rather be a buyer now, be in temporary drawdown (10-15%) if we end up forming our base low 1-1.5 months from now. But in the event the base low is already confirmed & we have already entered the range based capitulation, it means rather than bottoming late Q4, we could bottom sooner just like we topped sooner. \n\nSo, 1.5 months. If we haven’t reached the 40K–50K region by then, you can pretty much say goodbye to those levels based on seasonality.",
       "publishedAt": "2026-07-24T19:12:00.000Z",
       "link": "https://x.com/KillaXBT/status/2080732868578549895",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080728584759419361",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
+      "content": "It doesn’t matter if open source software is developed by the CCP, the NSA, the Jews, ISIS, MAGA, ANTIFA, or the Illuminati.\n\nIt’s open source - just audit and run it yourself. \n\nThey can send me gold bricks too, as long as they’re at it.",
+      "contentHtml": "It doesn’t matter if open source software is developed by the CCP, the NSA, the Jews, ISIS, MAGA, ANTIFA, or the Illuminati.\n\nIt’s open source - just audit and run it yourself. \n\nThey can send me gold bricks too, as long as they’re at it.",
+      "publishedAt": "2026-07-24T18:55:00.000Z",
+      "link": "https://x.com/naval/status/2080728584759419361",
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2323,6 +2375,25 @@
       }
     },
     {
+      "id": "2080297163935113255",
+      "username": "based_benji",
+      "displayName": "Based ₿en",
+      "avatar": "https://pbs.twimg.com/profile_images/1647908300326047744/KF49mkko_bigger.jpg",
+      "content": "“For someone who is early in their career (and maybe even later), the single most important thing about a company is the alumni network you’re going to build. Think about who you will work with and what those people are going on to do.”\n\n-@naval",
+      "contentHtml": "“For someone who is early in their career (and maybe even later), the single most important thing about a company is the alumni network you’re going to build. Think about who you will work with and what those people are going on to do.”\n\n-<a href=\"/naval\" title=\"Naval\">@naval</a>",
+      "publishedAt": "2026-07-23T14:21:00.000Z",
+      "link": "https://x.com/based_benji/status/2080297163935113255",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2080296188130341289",
       "username": "octopusycc",
       "displayName": "大老师Bugsbunny ｜DRAM UP only",
@@ -3962,6 +4033,32 @@
       }
     },
     {
+      "id": "2080035204450988529",
+      "username": "quxiaoyin",
+      "displayName": "Xiaoyin Qu",
+      "avatar": "https://pbs.twimg.com/profile_images/1683592007875436544/P0kykGvV_bigger.jpg",
+      "content": "This “IP theft” framing will shoot Anthropic in the foot. Hollywood, publishers, authors etc now have the same IP grounds to sue Anthropic for IP theft. How dare you open the IP genie box? No AI labs should.",
+      "contentHtml": "This “IP theft” framing will shoot Anthropic in the foot. Hollywood, publishers, authors etc now have the same IP grounds to sue Anthropic for IP theft. How dare you open the IP genie box? No AI labs should.",
+      "publishedAt": "2026-07-22T21:00:00.000Z",
+      "link": "https://x.com/quxiaoyin/status/2080035204450988529",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "mkratsios47",
+        "displayName": "Director Michael Kratsios",
+        "content": "We have information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model. \n\nTo do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection. Moonshot AI has also acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models.\n \nThe United States strongly supports the free and fair development of AI, including a thriving competitive ecosystem that spans frontier models, specialized systems, open-source frameworks, and open-weight models. Legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem. However, large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable.",
+        "contentHtml": "We have information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model. \n\nTo do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection. Moonshot AI has also acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models.\n \nThe United States strongly supports the free and fair development of AI, including a thriving competitive ecosystem that spans frontier models, specialized systems, open-source frameworks, and open-weight models. Legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem. However, large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable.",
+        "link": "https://x.com/mkratsios47/status/2079933645888880708"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2080031527933825471",
       "username": "octopusycc",
       "displayName": "大老师Bugsbunny ｜DRAM UP only",
@@ -4362,6 +4459,38 @@
       }
     },
     {
+      "id": "2079976461201539081",
+      "username": "wesyang",
+      "displayName": "Wesley Yang",
+      "avatar": "https://pbs.twimg.com/profile_images/2080286024953958401/MLA_yuWh_bigger.jpg",
+      "content": "0 percent of education papers were replicated",
+      "contentHtml": "0 percent of education papers were replicated",
+      "publishedAt": "2026-07-22T17:06:00.000Z",
+      "link": "https://x.com/wesyang/status/2079976461201539081",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "data_depot",
+        "displayName": "The Missing Data Depot",
+        "content": "A 7-year study of 3,900 social science papers found that only ~50% could be replicated. \n\nThere was significant variation across fields, however. \n\nWhile more than 60% of political science & econ papers were replicated, only ~25% of sociology & 0% of education papers were.",
+        "contentHtml": "A 7-year study of 3,900 social science papers found that only ~50% could be replicated. \n\nThere was significant variation across fields, however. \n\nWhile more than 60% of political science &amp; econ papers were replicated, only ~25% of sociology &amp; 0% of education papers were.",
+        "link": "https://x.com/data_depot/status/2079621216969822695",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNxK4RFa4AAGc17.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2079974368906563649",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -4398,6 +4527,32 @@
       "contentHtml": "财报前 获利盘还是得走，大不了财报后 接回来",
       "publishedAt": "2026-07-22T16:29:00.000Z",
       "link": "https://x.com/octopusycc/status/2079967057274384446",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2079966815913161091",
+      "username": "Teknium",
+      "displayName": "Teknium 🪽",
+      "avatar": "https://pbs.twimg.com/profile_images/1642401912648777728/2KFikPsE_bigger.jpg",
+      "content": "I have information that Anthropic scraped my github twitter reddit discord and facebook posts for the development of it's Fable model.  \n\nTo do this they developed a sophisticated internal platform to conduct large scale scraping and obfuscation of their actions.",
+      "contentHtml": "I have information that Anthropic scraped my github twitter reddit discord and facebook posts for the development of it's Fable model.  \n\nTo do this they developed a sophisticated internal platform to conduct large scale scraping and obfuscation of their actions.",
+      "publishedAt": "2026-07-22T16:28:00.000Z",
+      "link": "https://x.com/Teknium/status/2079966815913161091",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "mkratsios47",
+        "displayName": "Director Michael Kratsios",
+        "content": "We have information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model. \n\nTo do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection. Moonshot AI has also acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models.\n \nThe United States strongly supports the free and fair development of AI, including a thriving competitive ecosystem that spans frontier models, specialized systems, open-source frameworks, and open-weight models. Legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem. However, large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable.",
+        "contentHtml": "We have information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model. \n\nTo do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection. Moonshot AI has also acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models.\n \nThe United States strongly supports the free and fair development of AI, including a thriving competitive ecosystem that spans frontier models, specialized systems, open-source frameworks, and open-weight models. Legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem. However, large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable.",
+        "link": "https://x.com/mkratsios47/status/2079933645888880708"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -8177,6 +8332,25 @@
       }
     },
     {
+      "id": "2079274102129304026",
+      "username": "rauchg",
+      "displayName": "Guillermo Rauch",
+      "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_bigger.jpg",
+      "content": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.",
+      "contentHtml": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.",
+      "publishedAt": "2026-07-20T18:35:00.000Z",
+      "link": "https://x.com/rauchg/status/2079274102129304026",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2079272938176405795",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -9748,6 +9922,25 @@
       }
     },
     {
+      "id": "2078832788111798726",
+      "username": "AscendantPower",
+      "displayName": "Ascendant Power",
+      "avatar": "https://pbs.twimg.com/profile_images/1924806321343193088/O3s6lTHN_bigger.jpg",
+      "content": "People who are incapable of creating advanced civilizations are equally incapable of maintaining them.",
+      "contentHtml": "People who are incapable of creating advanced civilizations are equally incapable of maintaining them.",
+      "publishedAt": "2026-07-19T13:22:00.000Z",
+      "link": "https://x.com/AscendantPower/status/2078832788111798726",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2078825908107133414",
       "username": "0xSunNFT",
       "displayName": "0xSun",
@@ -10646,6 +10839,38 @@
         "content": "🇨🇳 China (Scaling Supremacy)\n- EV & Battery Supply Chain\n- Open-weight LLMs \n- Embodied AI & edge compute \n- Green energy (Solar/Wind/Nuclear) \n- Rare Earth \n- Global ecommerce \n\n🇺🇸 USA (Emerging Supremacy)\n- Close source LLMs \n- High-end Chips (GPUs/CPUs)\n- Cloud Hyperscalers\n- Commercial Space (Starship/Starlink) \n- Bio-pharma & Drug Discovery \n\nOvercapacity meets extreme efficiency vs \nInnovation meets capital concentration",
         "contentHtml": "🇨🇳 China (Scaling Supremacy)\n- EV & Battery Supply Chain\n- Open-weight LLMs \n- Embodied AI & edge compute \n- Green energy (Solar/Wind/Nuclear) \n- Rare Earth \n- Global ecommerce \n\n🇺🇸 USA (Emerging Supremacy)\n- Close source LLMs \n- High-end Chips (GPUs/CPUs)\n- Cloud Hyperscalers\n- Commercial Space (Starship/Starlink) \n- Bio-pharma & Drug Discovery \n\nOvercapacity meets extreme efficiency vs \nInnovation meets capital concentration",
         "link": "https://x.com/DoveyWan/status/2054462879198486713"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2078607879335006619",
+      "username": "ebfull",
+      "displayName": "Sean Bowe",
+      "avatar": "https://pbs.twimg.com/profile_images/1934672401687597056/SmfyH4L4_bigger.jpg",
+      "content": "Ironwood goes live in ten days.\n\nThe possibility of counterfeiting bugs in our project has kept me awake at night. No more. Mathematical proof that undetectable counterfeiting bugs don't exist in Ironwood changes how even *I* feel about Zcash, as a protocol dev of ~10 years.",
+      "contentHtml": "Ironwood goes live in ten days.\n\nThe possibility of counterfeiting bugs in our project has kept me awake at night. No more. Mathematical proof that undetectable counterfeiting bugs don't exist in Ironwood changes how even *I* feel about Zcash, as a protocol dev of ~10 years.",
+      "publishedAt": "2026-07-18T22:28:00.000Z",
+      "link": "https://x.com/ebfull/status/2078607879335006619",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "ZakuraZcash",
+        "displayName": "Zakura",
+        "content": "Ironwood goes live in 10 days.\n\nThe Great Ironwood Migration achieves three goals:\n\n- Provide a credibly sound shielded pool\n- Give evidence no counterfeiting occurred in Orchard\n- Re-establish the circulating supply of ZEC.\n\nHere's what you need to know... 🧵",
+        "contentHtml": "Ironwood goes live in 10 days.\n\nThe Great Ironwood Migration achieves three goals:\n\n- Provide a credibly sound shielded pool\n- Give evidence no counterfeiting occurred in Orchard\n- Re-establish the circulating supply of ZEC.\n\nHere's what you need to know... 🧵",
+        "link": "https://x.com/ZakuraZcash/status/2078600008929259882",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNirsRVaoAAF_1i.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -11904,252 +12129,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078176401274863947",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "这基本就是我昨天的观点，也是最近一直讨论的。\n不少人的担心是闭源如果不领先，怎么保持花费，大云营收现在也依赖闭源。但我觉得这还是一种非黑即白的思考，闭源会持续领先，只是领先的身位被追上，Coding能力被追上也符合我说的这个落地会被商品化，A的毛利很难维持80%，但不代表50%的毛利不能持续下去，且最复杂需求还是依赖闭源。\n另外Coding这条路跑通了，其他领域呢？AI如果只在Coding有市场，那就是个泡沫。所以要扩圈，而Token价格下来，利好AI在其他所有领域的落地，包括软件。\nA和O要做的是持续抢占Coding市场，同时出圈，而不是死守80%的毛利，守不住",
-      "contentHtml": "这基本就是我昨天的观点，也是最近一直讨论的。\n不少人的担心是闭源如果不领先，怎么保持花费，大云营收现在也依赖闭源。但我觉得这还是一种非黑即白的思考，闭源会持续领先，只是领先的身位被追上，Coding能力被追上也符合我说的这个落地会被商品化，A的毛利很难维持80%，但不代表50%的毛利不能持续下去，且最复杂需求还是依赖闭源。\n另外Coding这条路跑通了，其他领域呢？AI如果只在Coding有市场，那就是个泡沫。所以要扩圈，而Token价格下来，利好AI在其他所有领域的落地，包括软件。\nA和O要做的是持续抢占Coding市场，同时出圈，而不是死守80%的毛利，守不住",
-      "publishedAt": "2026-07-17T17:53:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2078176401274863947",
-      "quote": {
-        "username": "GavinSBaker",
-        "displayName": "Gavin Baker",
-        "content": "Kimi K3 may be an important inflection point for AI. Potentially negative for Anthropic and OpenAI while being net positive for essentially every other company in the world. I mean that very literally. Although the real “Sputnik moment” would be an open-source frontier model that was also token efficient unlike Kimi K3 which is 50-70% more expensive to run than GPT 5.6 per Artificial Analysis.\n\nRationale:\n \nA world where there are only 2-3 dominant frontier labs with 90% inference margins is net negative for every other layer while being awesome for those 2-3 labs. Those labs would become monopsonies for power, data centers, semiconductors and hyperscalers and would obviously vertically integrate over time into all those layers while also completely subsuming the application/software layers. \n \nAnything that lowers margins and increases competition at the model layer is good for every other AI layer: power, semiconductors, hyperscalers, neoclouds and yes even software.\n \nThis is why Jensen is so supportive of open-source. An open-source model requires the *exact* same amount of compute to run as a closed frontier model of similar size and architecture. Kimi K3 is roughly the same price as GPT 5.6 Terra on a per token basis, which actually suggests that it is less computationally efficient as I am sure that GPT 5.6 is priced to a higher margin than K3. And given that K3 is a token wastrel, i.e. token inefficient, it is significantly more expensive per task than GPT 5.6 and Grok 4.5, which are much more token efficient. Cost per token and token efficiency (i.e. intelligence density per token) are the drivers of intelligence per unit of cost. The winning AI companies will be those that offer the most intelligence per $ over time.\n \nLower margin % at the model layer = more margin $ at every part of the infrastructure layer and is a godsend for software. This can happen either through open-source models like K3 at the frontier *or* having a vertically integrated model company like Meta, SpaceX or Google at the frontier. Both outcomes result in a lower margin % at the model layer as vertically integrated model companies don’t really care where the margin $ come from. This is why it was so painful for OpenAI and Anthropic when Google was right there with them from a model competitiveness perspective and why Grok 4.5 and Muse 1.1 were just as important as Kimi K3.\n The reason Kimi K3 is only *potentially* negative for Anthropic and OpenAI is 1) the @ericvishria point that the Claude and ChatGPT products and harnesses may be more important than their models today and 2) the hypothesis that they have much more advanced model checkpoints internally that are already being used for RSI. In the latter scenario, reaching RSI even a few months ahead of other labs might be enough to cement a permanent lead.\n\nTime will tell on both points. And likely fairly quickly.\n\nCaveat would be that since Kimi K3 is not token efficient and thereby actually more expensive than ChatGPT 5.6, we may need to see a more token efficient open-source model at the frontier or see Grok 5/Composer 4/Muse 2 at multiple points on the Pareto frontier for this potential risk to Anthropic and OpenAI to play out. And I am sure they will both vertically integrate as quickly as possible while continuing the product/harness strength they have shown over the last 8 months.",
-        "contentHtml": "Kimi K3 may be an important inflection point for AI. Potentially negative for Anthropic and OpenAI while being net positive for essentially every other company in the world. I mean that very literally. Although the real “Sputnik moment” would be an open-source frontier model that was also token efficient unlike Kimi K3 which is 50-70% more expensive to run than GPT 5.6 per Artificial Analysis.\n\nRationale:\n \nA world where there are only 2-3 dominant frontier labs with 90% inference margins is net negative for every other layer while being awesome for those 2-3 labs. Those labs would become monopsonies for power, data centers, semiconductors and hyperscalers and would obviously vertically integrate over time into all those layers while also completely subsuming the application/software layers. \n \nAnything that lowers margins and increases competition at the model layer is good for every other AI layer: power, semiconductors, hyperscalers, neoclouds and yes even software.\n \nThis is why Jensen is so supportive of open-source. An open-source model requires the *exact* same amount of compute to run as a closed frontier model of similar size and architecture. Kimi K3 is roughly the same price as GPT 5.6 Terra on a per token basis, which actually suggests that it is less computationally efficient as I am sure that GPT 5.6 is priced to a higher margin than K3. And given that K3 is a token wastrel, i.e. token inefficient, it is significantly more expensive per task than GPT 5.6 and Grok 4.5, which are much more token efficient. Cost per token and token efficiency (i.e. intelligence density per token) are the drivers of intelligence per unit of cost. The winning AI companies will be those that offer the most intelligence per $ over time.\n \nLower margin % at the model layer = more margin $ at every part of the infrastructure layer and is a godsend for software. This can happen either through open-source models like K3 at the frontier *or* having a vertically integrated model company like Meta, SpaceX or Google at the frontier. Both outcomes result in a lower margin % at the model layer as vertically integrated model companies don’t really care where the margin $ come from. This is why it was so painful for OpenAI and Anthropic when Google was right there with them from a model competitiveness perspective and why Grok 4.5 and Muse 1.1 were just as important as Kimi K3.\n The reason Kimi K3 is only *potentially* negative for Anthropic and OpenAI is 1) the <a href=\"/ericvishria\" title=\"Eric Vishria\">@ericvishria</a> point that the Claude and ChatGPT products and harnesses may be more important than their models today and 2) the hypothesis that they have much more advanced model checkpoints internally that are already being used for RSI. In the latter scenario, reaching RSI even a few months ahead of other labs might be enough to cement a permanent lead.\n\nTime will tell on both points. And likely fairly quickly.\n\nCaveat would be that since Kimi K3 is not token efficient and thereby actually more expensive than ChatGPT 5.6, we may need to see a more token efficient open-source model at the frontier or see Grok 5/Composer 4/Muse 2 at multiple points on the Pareto frontier for this potential risk to Anthropic and OpenAI to play out. And I am sure they will both vertically integrate as quickly as possible while continuing the product/harness strength they have shown over the last 8 months.",
-        "link": "https://x.com/GavinSBaker/status/2078110934740980193",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNbu4bhWoAATDPF.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNbu4bjXkAADZnh.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078161916296667455",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "今天大奇迹日了\n\n大毁灭日就是大奇迹日",
-      "contentHtml": "今天大奇迹日了\n\n大毁灭日就是大奇迹日",
-      "publishedAt": "2026-07-17T16:56:00.000Z",
-      "link": "https://x.com/octopusycc/status/2078161916296667455",
-      "quote": {
-        "username": "octopusycc",
-        "displayName": "大老师Bugsbunny ｜DRAM UP only",
-        "content": "只能抱着7/17的gex影响消退\n\n和世界杯资金回流\n\n这两个预期来过日子了\n\n我max pain了",
-        "contentHtml": "只能抱着7/17的gex影响消退\n\n和世界杯资金回流\n\n这两个预期来过日子了\n\n我max pain了",
-        "link": "https://x.com/octopusycc/status/2077955651586974084"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078158942362828825",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "If $BTC fails to reclaim the 63.6–63.8K region, a corrective move towards 61K becomes likely.\n\nQuite the important barrier to observe as it aligns with the weekly open.",
-      "contentHtml": "If <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> fails to reclaim the 63.6–63.8K region, a corrective move towards 61K becomes likely.\n\nQuite the important barrier to observe as it aligns with the weekly open.",
-      "publishedAt": "2026-07-17T16:44:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2078158942362828825",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNcaYSjWMAAe9Zj.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078155069850317213",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI #Crypto \n\n要不是前几年走狗屎运，进了币圈。\n\n把智力和对这个肮脏世界的理解变现了一部分。\n\n现在应该会慌得一批，很难像这样打打游戏，写写代码。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> <a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n要不是前几年走狗屎运，进了币圈。\n\n把智力和对这个肮脏世界的理解变现了一部分。\n\n现在应该会慌得一批，很难像这样打打游戏，写写代码。",
-      "publishedAt": "2026-07-17T16:29:00.000Z",
-      "link": "https://x.com/taresky/status/2078155069850317213",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNcW7Oja8AAXVra.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078154683219374545",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "小扎太逗了\n这也学老马🤡",
-      "contentHtml": "小扎太逗了\n这也学老马🤡",
-      "publishedAt": "2026-07-17T16:27:00.000Z",
-      "link": "https://x.com/hazenlee/status/2078154683219374545",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNcWqlEaEAAAnZf.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078154129474462106",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "Elon just needs to build a few data centers on the Moon and maybe $SPCX retail investors will break even 😭",
-      "contentHtml": "Elon just needs to build a few data centers on the Moon and maybe <a href=\"/search?f=tweets&q=%23SPCX\">$SPCX</a> retail investors will break even 😭",
-      "publishedAt": "2026-07-17T16:25:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2078154129474462106",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNcVyabW4AApf17.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078149865755054484",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "白天还在骂存储的，美股开盘就大反弹🤡现在还骂的和之前高位喊涨的有啥区别？",
-      "contentHtml": "白天还在骂存储的，美股开盘就大反弹🤡现在还骂的和之前高位喊涨的有啥区别？",
-      "publishedAt": "2026-07-17T16:08:00.000Z",
-      "link": "https://x.com/hazenlee/status/2078149865755054484",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078146765644354031",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI   \n\n手机和电脑同声传译这个功能。  等了苹果三五年不做，特意买三星结果很难用，连各大会议软件也做得一坨。  \n\n自己几个小时 Vibe Coding 出来的，延迟和准确率都是世界顶级的效果。  \n\n还能电脑、iPhone 一起用，我听都没听过更好的。  \n\n但止步于此。  \n\n开源没意义，自己玩自己爽。  \n\n有人看到我这段话，就会去做了。同类产品，企业产品，效果烂到爆，也卖几十美元每人每月。  \n\n当然不是我牛逼，而是顶级的 AI 模型和语音模型牛逼。  \n\n另一方面，新人开发者去做消费级的产品已经没有意义了。你能做，我也能做，别人一样随便做。  \n\n我喜欢的产品和创意变得触手可及。  \n\n而我所厌恶的那些游戏规则，在成为真正的护城河 —— 人情世故、裙带利益、权力、垄断。  \n\n2026.07.18，发张图纪念一下 fafaMeet。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a>   \n\n手机和电脑同声传译这个功能。  等了苹果三五年不做，特意买三星结果很难用，连各大会议软件也做得一坨。  \n\n自己几个小时 Vibe Coding 出来的，延迟和准确率都是世界顶级的效果。  \n\n还能电脑、iPhone 一起用，我听都没听过更好的。  \n\n但止步于此。  \n\n开源没意义，自己玩自己爽。  \n\n有人看到我这段话，就会去做了。同类产品，企业产品，效果烂到爆，也卖几十美元每人每月。  \n\n当然不是我牛逼，而是顶级的 AI 模型和语音模型牛逼。  \n\n另一方面，新人开发者去做消费级的产品已经没有意义了。你能做，我也能做，别人一样随便做。  \n\n我喜欢的产品和创意变得触手可及。  \n\n而我所厌恶的那些游戏规则，在成为真正的护城河 —— 人情世故、裙带利益、权力、垄断。  \n\n2026.07.18，发张图纪念一下 fafaMeet。",
-      "publishedAt": "2026-07-17T15:56:00.000Z",
-      "link": "https://x.com/taresky/status/2078146765644354031",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNcPalXbkAAI-UB.jpg"
-        }
-      ],
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "#AI \n\n今天解决了 iPhone 同声传译的问题，以后可以放心去开任何语言的会，自己打日语电话预定餐厅了✌️\n\nMVP 半小时，AI 自研驱动两小时，花费 180M tokens.",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n今天解决了 iPhone 同声传译的问题，以后可以放心去开任何语言的会，自己打日语电话预定餐厅了✌️\n\nMVP 半小时，AI 自研驱动两小时，花费 180M tokens.",
-        "link": "https://x.com/taresky/status/2078132269282386429",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNcB0mmbEAA8VUB.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078137762373656886",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_bigger.jpg",
-      "content": "另外一个做的很难受的点就是这个，没亏多少但却做的很恶心的点在这里。虽然说出来是很丢人的，不过也要发出来检讨一下。投资是一件非常内求的事情，我炒币的时候都是不管别人怎么做，我会有我独立的观点。\n但确实是这样，做交易应该始终独立，自我。慢慢学习吧，这回既参与了人类文明级别的创新，又花了小钱办了大事，这样看来还是赚了。",
-      "contentHtml": "另外一个做的很难受的点就是这个，没亏多少但却做的很恶心的点在这里。虽然说出来是很丢人的，不过也要发出来检讨一下。投资是一件非常内求的事情，我炒币的时候都是不管别人怎么做，我会有我独立的观点。\n但确实是这样，做交易应该始终独立，自我。慢慢学习吧，这回既参与了人类文明级别的创新，又花了小钱办了大事，这样看来还是赚了。",
-      "publishedAt": "2026-07-17T15:20:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2078137762373656886",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNcGERZbcAATuKL.png"
-        }
-      ],
-      "quote": {
-        "username": "daidaibtc",
-        "displayName": "带带带比特",
-        "content": "这次跟着一起炒科技，我个人收获最大的就是知道自己在做什么很重要。你是在做投资还是在做交易？这是两码事。最起码对于我来说是两码事，交易是我自己的舒适区，但投资不是。\n\n举个例子，我做了闪迪1500到1800的反弹，做了海力士1200的反弹，做了07709的反弹，今天下午TONY说1300抄闪迪的时候我根本没看到，但和他非常同步的也买了，画的线和他一模一样发在公司的群里。这个是交易赚的钱，我非常明白自己在赚什么钱，赚哪里到哪里的钱。也非常明白不及预期该怎么做。TONY这波做下来的交易我没看他都基本都同步了，因为我和他看的指标本身就非常简单，非常一致，连事后去看我们画的图都一毛一样的。\n\n但同时我认为我自己在做的投资基本都套住了，美股的这些ALPHA股票按照我的性格是根本不会买的。为什么，因为我不懂，我入市时间太短了，我听到的只有故事，没有我懂的东西，按照原则来说我是根本不会买的。而恰恰只有不懂的时候，才会被别人左右，才总想着问别人买不买，买了多少。存储这波故事太大了，我也会焦虑，觉得跌的蛮多了就会问问我好兄弟买了啥，要不要买点进去。“觉得股票是价值投资  跌了就说服自己价值投资”会平等的发生在每一个人头上，包括我。\n\n不懂但没砍掉的仓位最大弊端就是会消耗交易本身最需要的敏锐性。如果按照我交易的风格，我不会做空，但会集中火力做龙头票的关键支撑的超跌反弹。最后去拿很舒服的仓位去捡尸体。股票不是币，跌下来会有很多反弹，很多10%的反弹，但实际上我做的仓位小，注意力也不够，下跌带来的情绪和仓位压力会消耗掉做交易最宝贵的注意力。\n\n当然这些也都是事后来看，我这波其实损失不大，但我反思了半天，人生本来就是一个为认知买单的过程，投资和交易怎么平衡是一件要去学很久很久的事情，这些也是成长的必经之路。但需要刻进骨子里的是纪律性，我上条推文也发了：可以为认知买单 但一定要做好仓位管理 常怀敬畏之心 对自己负责 控制好自己的人生敞口  投资是一辈子的事情。不管投资还是交易，一定要把纪律刻到骨子里。",
-        "contentHtml": "这次跟着一起炒科技，我个人收获最大的就是知道自己在做什么很重要。你是在做投资还是在做交易？这是两码事。最起码对于我来说是两码事，交易是我自己的舒适区，但投资不是。\n\n举个例子，我做了闪迪1500到1800的反弹，做了海力士1200的反弹，做了07709的反弹，今天下午TONY说1300抄闪迪的时候我根本没看到，但和他非常同步的也买了，画的线和他一模一样发在公司的群里。这个是交易赚的钱，我非常明白自己在赚什么钱，赚哪里到哪里的钱。也非常明白不及预期该怎么做。TONY这波做下来的交易我没看他都基本都同步了，因为我和他看的指标本身就非常简单，非常一致，连事后去看我们画的图都一毛一样的。\n\n但同时我认为我自己在做的投资基本都套住了，美股的这些ALPHA股票按照我的性格是根本不会买的。为什么，因为我不懂，我入市时间太短了，我听到的只有故事，没有我懂的东西，按照原则来说我是根本不会买的。而恰恰只有不懂的时候，才会被别人左右，才总想着问别人买不买，买了多少。存储这波故事太大了，我也会焦虑，觉得跌的蛮多了就会问问我好兄弟买了啥，要不要买点进去。“觉得股票是价值投资  跌了就说服自己价值投资”会平等的发生在每一个人头上，包括我。\n\n不懂但没砍掉的仓位最大弊端就是会消耗交易本身最需要的敏锐性。如果按照我交易的风格，我不会做空，但会集中火力做龙头票的关键支撑的超跌反弹。最后去拿很舒服的仓位去捡尸体。股票不是币，跌下来会有很多反弹，很多10%的反弹，但实际上我做的仓位小，注意力也不够，下跌带来的情绪和仓位压力会消耗掉做交易最宝贵的注意力。\n\n当然这些也都是事后来看，我这波其实损失不大，但我反思了半天，人生本来就是一个为认知买单的过程，投资和交易怎么平衡是一件要去学很久很久的事情，这些也是成长的必经之路。但需要刻进骨子里的是纪律性，我上条推文也发了：可以为认知买单 但一定要做好仓位管理 常怀敬畏之心 对自己负责 控制好自己的人生敞口  投资是一辈子的事情。不管投资还是交易，一定要把纪律刻到骨子里。",
-        "link": "https://x.com/daidaibtc/status/2078071686713549309",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNbLGF4aAAAkxD-.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078132364358885710",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "meta 跌的好流畅",
-      "contentHtml": "meta 跌的好流畅",
-      "publishedAt": "2026-07-17T14:59:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2078132364358885710",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNcCWXabsAAaTqf.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNcCWVfbAAApxxF.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
