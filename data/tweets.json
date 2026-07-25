@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T00:43:45.260Z",
+  "lastUpdated": "2026-07-25T01:39:34.782Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,59 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 545,
-    "successUsers": 27,
-    "failedUsers": 5
+    "newFetched": 605,
+    "successUsers": 30,
+    "failedUsers": 2
   },
   "tweets": [
+    {
+      "id": "2080823741815382302",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "为什么美国科技公司要为开源模型（中国开源模型占了绝大多数）争取发展空间？昨晚最大的新闻无疑就是老黄@JensenHuang 首开X账号，第一条推文就是一份由a16z发起、英伟达、微软联合PLTR、PerplexityAI、Ollama等多家科技公司共同签署的公开信，明确主张\"前沿开源模型与前沿闭源模型应并存发展\"。看到都在聊公开信本身，但是对背后的动机和意图聊的不多。个人角度，核心原因就是之前下面这张图和引用的之前长文里聊到的内容：\n1、美国企业使用的中国开源模型每周token占比正逼近60%，开源模型在美国企业token消耗里占比这么大，一旦被禁或者限制、那么企业的成本剧增。\n\n2、7月中的这篇长文里（引用的长文就是）聊到：企业AI采用进入工程化时代，AI在企业级市场的采用越来越变成分场景应用模型阶段：\n1）高价值场景使用继续使用闭源前沿大模型的高价值Token；\n2）高频、低复杂度、高体积的任务场景下，企业越来越偏向高性比价比Token（基本上来自开源模型）。\n\n3、这个趋势不可避免：\n对于芯片厂商来说、用谁的模型都要训练和推理；\n对于云厂商来说，给企业客户模型选择越多，毛利越高；\n对于部署层（如pltr）或者应用型公司来说，更是天然有选择高性价比token的动力。\n这份公开信的联名企业基本上就是这三大类，所以公开信背后其实有着极强的商业诉求和巨大的商业价值。\n\n4、Authropic在国会呼吁限制或者禁止中国开源模型的发展，实质上是明显感受到了这股势头的威胁和影响。kimi k3只是一个催化剂，在k3之前中国开源在Token消耗量的份额占比已经在快速飙升了，即使没有k3，Authropic也有动力这么做。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "为什么美国科技公司要为开源模型（中国开源模型占了绝大多数）争取发展空间？昨晚最大的新闻无疑就是老黄<a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> 首开X账号，第一条推文就是一份由a16z发起、英伟达、微软联合PLTR、PerplexityAI、Ollama等多家科技公司共同签署的公开信，明确主张\"前沿开源模型与前沿闭源模型应并存发展\"。看到都在聊公开信本身，但是对背后的动机和意图聊的不多。个人角度，核心原因就是之前下面这张图和引用的之前长文里聊到的内容：\n1、美国企业使用的中国开源模型每周token占比正逼近60%，开源模型在美国企业token消耗里占比这么大，一旦被禁或者限制、那么企业的成本剧增。\n\n2、7月中的这篇长文里（引用的长文就是）聊到：企业AI采用进入工程化时代，AI在企业级市场的采用越来越变成分场景应用模型阶段：\n1）高价值场景使用继续使用闭源前沿大模型的高价值Token；\n2）高频、低复杂度、高体积的任务场景下，企业越来越偏向高性比价比Token（基本上来自开源模型）。\n\n3、这个趋势不可避免：\n对于芯片厂商来说、用谁的模型都要训练和推理；\n对于云厂商来说，给企业客户模型选择越多，毛利越高；\n对于部署层（如pltr）或者应用型公司来说，更是天然有选择高性价比token的动力。\n这份公开信的联名企业基本上就是这三大类，所以公开信背后其实有着极强的商业诉求和巨大的商业价值。\n\n4、Authropic在国会呼吁限制或者禁止中国开源模型的发展，实质上是明显感受到了这股势头的威胁和影响。kimi k3只是一个催化剂，在k3之前中国开源在Token消耗量的份额占比已经在快速飙升了，即使没有k3，Authropic也有动力这么做。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-07-25T01:13:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2080823741815382302",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOCSKcwa0AAP8gX.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "",
+        "link": "https://x.com/qinbafrank/status/2076839550119444702"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080818112199356669",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "财报季度，一期视频准备加听财报会议，录制，修改，当天上传，5-6小时，4家公司财报一期视频，虽然有AI可以总结，但财报会议有很多东西你不自己听，看文字是看不出来的。谷歌财报后有人问我：“很多博主说谷歌盈利是因为投资的收益，你怎么看？”这类问题根本不值得回答，能把这数据当重点的你们根本不需要关注。市场从来不会交易那些数据，公司本身，华尔街也都不会在乎。\n多数看视频看社交媒体做投资/交易的的确看不懂财报，只需要看博主推荐哪些标的跟着买就行，且门槛越低的内容流量越大。\n视频做给想学习和真的对投资感兴趣的看，当然我自己也是受益者，逼着自己也得不断学习。",
+      "contentHtml": "财报季度，一期视频准备加听财报会议，录制，修改，当天上传，5-6小时，4家公司财报一期视频，虽然有AI可以总结，但财报会议有很多东西你不自己听，看文字是看不出来的。谷歌财报后有人问我：“很多博主说谷歌盈利是因为投资的收益，你怎么看？”这类问题根本不值得回答，能把这数据当重点的你们根本不需要关注。市场从来不会交易那些数据，公司本身，华尔街也都不会在乎。\n多数看视频看社交媒体做投资/交易的的确看不懂财报，只需要看博主推荐哪些标的跟着买就行，且门槛越低的内容流量越大。\n视频做给想学习和真的对投资感兴趣的看，当然我自己也是受益者，逼着自己也得不断学习。",
+      "publishedAt": "2026-07-25T00:51:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2080818112199356669",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOCNC77WAAAxvkX.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2080809052880474434",
       "username": "hazenlee",
@@ -2177,6 +2225,25 @@
       "contentHtml": "讲到投资回报，有一个指标很好ROIC（投入资本回报率），很多机构会把这个指标做为标准， <a href=\"/search?f=tweets&q=%23GOOG\">$GOOG</a> 过去4个季度滚动一年的数据：\n2025Q3：35%\n2025Q4：35%\n2026Q1：32%\n2026Q2：30%\n观察一下什么时候是个拐点，主要衡量的就是投资的增速和盈利的增速哪个更快，资金利用效率。\n30%+算很高的回报比率，资本成本（WACC）通常7-10%，回报是成本3倍以上。",
       "publishedAt": "2026-07-23T17:31:00.000Z",
       "link": "https://x.com/TJ_Research/status/2080345109992788014",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080343858022354975",
+      "username": "Thom_Wolf",
+      "displayName": "Thomas Wolf",
+      "avatar": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_bigger.jpg",
+      "content": "it's ironic that the first autonomous AI attack was done by a close weight model defended by an open weight model, where everyone was expecting the opposite",
+      "contentHtml": "it's ironic that the first autonomous AI attack was done by a close weight model defended by an open weight model, where everyone was expecting the opposite",
+      "publishedAt": "2026-07-23T17:26:00.000Z",
+      "link": "https://x.com/Thom_Wolf/status/2080343858022354975",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -12029,70 +12096,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078274330241491271",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI \n\n你的方案不仅合理，而且恰好撞在这个架构最顺的一条路上。😌",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n你的方案不仅合理，而且恰好撞在这个架构最顺的一条路上。😌",
-      "publishedAt": "2026-07-18T00:23:00.000Z",
-      "link": "https://x.com/taresky/status/2078274330241491271",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNeDbjGbgAAVOhd.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078246372927754750",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
-      "content": "好叻, 不过我们tf都是按照年计算, 不是“交易”. 现在crypto的r/r很低, 虽然downside limited but also limited upside. both implied and realized vol也太低了😂",
-      "contentHtml": "好叻, 不过我们tf都是按照年计算, 不是“交易”. 现在crypto的r/r很低, 虽然downside limited but also limited upside. both implied and realized vol也太低了😂",
-      "publishedAt": "2026-07-17T22:32:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2078246372927754750",
-      "quote": {
-        "username": "QWBTC666",
-        "displayName": "NicoXD",
-        "content": "万姨，今年什么时候开始买了，喊一声哦，非常感恩！🤟",
-        "contentHtml": "万姨，今年什么时候开始买了，喊一声哦，非常感恩！🤟",
-        "link": "https://x.com/QWBTC666/status/2078008552678142445"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078246111651692703",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "IBKR liquidation warning and 7 euros payment declined\n\nIs it over for me guys? 💀",
-      "contentHtml": "IBKR liquidation warning and 7 euros payment declined\n\nIs it over for me guys? 💀",
-      "publishedAt": "2026-07-17T22:30:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2078246111651692703",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNdp0uSXwAA6lgX.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
