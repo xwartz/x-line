@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T14:35:35.412Z",
+  "lastUpdated": "2026-07-25T15:27:57.526Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,51 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 521,
-    "successUsers": 26,
-    "failedUsers": 6
+    "newFetched": 561,
+    "successUsers": 28,
+    "failedUsers": 4
   },
   "tweets": [
+    {
+      "id": "2081037167309291802",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "这老头是精神不太好吗？\n还要修墙？\n墙有用的话 现在还是秦朝",
+      "contentHtml": "这老头是精神不太好吗？\n还要修墙？\n墙有用的话 现在还是秦朝",
+      "publishedAt": "2026-07-25T15:21:00.000Z",
+      "link": "https://x.com/hazenlee/status/2081037167309291802",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOFURTla0AAFEWe.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2081014606408089610",
+      "username": "NavalismHQ",
+      "displayName": "Navalism",
+      "avatar": "https://pbs.twimg.com/profile_images/1350045723073671169/xB1_K1_z_bigger.jpg",
+      "content": "Impatience with actions, patience with results.\n\n@naval",
+      "contentHtml": "Impatience with actions, patience with results.\n\n<a href=\"/naval\" title=\"Naval\">@naval</a>",
+      "publishedAt": "2026-07-25T13:52:00.000Z",
+      "link": "https://x.com/NavalismHQ/status/2081014606408089610",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2081013807158378975",
       "username": "Bitfatty",
@@ -146,6 +186,27 @@
           }
         ]
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2081012721223401832",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "There are only 2 places $BTC can be right now.",
+      "contentHtml": "There are only 2 places <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> can be right now.",
+      "publishedAt": "2026-07-25T13:44:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2081012721223401832",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOE97ZlXwAAwBrZ.png"
+        }
+      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -200,6 +261,32 @@
             "url": "https://pbs.twimg.com/media/HOERsSUbIAAplo5.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080993777167007935",
+      "username": "billxbf",
+      "displayName": "Binfeng Xu",
+      "avatar": "https://pbs.twimg.com/profile_images/1970222268308754432/cAl6rc65_bigger.jpg",
+      "content": "This sounds logically embarrassing.\n1. Proprietary products and supporting OSS aren’t contradictory. @satyanadella doesn’t call Linux “unsafe”. @JensenHuang doesn’t campaign against ROCm / OpenCL. Compete and coevolve.\n2. LLMs are made happen by “distilling” 40 years of collective intellectual property thanks to the open culture of the Internet. Pulling up the ladder here is misanthropic for the next generation.",
+      "contentHtml": "This sounds logically embarrassing.\n1. Proprietary products and supporting OSS aren’t contradictory. <a href=\"/satyanadella\" title=\"Satya Nadella\">@satyanadella</a> doesn’t call Linux “unsafe”. <a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> doesn’t campaign against ROCm / OpenCL. Compete and coevolve.\n2. LLMs are made happen by “distilling” 40 years of collective intellectual property thanks to the open culture of the Internet. Pulling up the ladder here is misanthropic for the next generation.",
+      "publishedAt": "2026-07-25T12:29:00.000Z",
+      "link": "https://x.com/billxbf/status/2080993777167007935",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "Mononofu",
+        "displayName": "Julian Schrittwieser",
+        "content": "I’m so excited that @JensenHuang is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
+        "contentHtml": "I’m so excited that <a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
+        "link": "https://x.com/Mononofu/status/2080937562739531837"
       },
       "stats": {
         "replies": 0,
@@ -2988,6 +3075,44 @@
       }
     },
     {
+      "id": "2080343858022354975",
+      "username": "Thom_Wolf",
+      "displayName": "Thomas Wolf",
+      "avatar": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_bigger.jpg",
+      "content": "it's ironic that the first autonomous AI attack was done by a close weight model defended by an open weight model, where everyone was expecting the opposite",
+      "contentHtml": "it's ironic that the first autonomous AI attack was done by a close weight model defended by an open weight model, where everyone was expecting the opposite",
+      "publishedAt": "2026-07-23T17:26:00.000Z",
+      "link": "https://x.com/Thom_Wolf/status/2080343858022354975",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080334854122827914",
+      "username": "rstormsf",
+      "displayName": "Roman Storm 🇺🇸 🌪️",
+      "avatar": "https://pbs.twimg.com/profile_images/1730464940283375616/7vX3chI5_bigger.jpg",
+      "content": "The Roman Storm (me) case is exactly this. DOJ’s theory: publishing code = operating a money transmitting business. If that theory survives, every open source dev writing code is exposed.\n\nI’m facing decades in prison. Second trial starts in October.\n\nProsecutors said in court that I should have withdrawn from making open source code",
+      "contentHtml": "The Roman Storm (me) case is exactly this. DOJ’s theory: publishing code = operating a money transmitting business. If that theory survives, every open source dev writing code is exposed.\n\nI’m facing decades in prison. Second trial starts in October.\n\nProsecutors said in court that I should have withdrawn from making open source code",
+      "publishedAt": "2026-07-23T16:50:00.000Z",
+      "link": "https://x.com/rstormsf/status/2080334854122827914",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2080333925633720348",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -3255,6 +3380,25 @@
         "content": "我的tg群也在聊这个，顺便发一个帖子。聊聊这个情况如何理解。\n1、毫无疑问，油价是最直接的触发因素。2年期的飙升甚至隐含了未来加息60bp的定价。然而对美联储的难题在于，如果不鹰，通胀补偿和期限溢价要求更高，那么债券收益率还会上升；如果加息并实质性鹰派，没什么卵用，改变不了供给，降低不了油价，只能摁住通胀的峰值。\n\n2、从短期来看，油价的确会从供给成本的角度影响通胀的上升；但如果持续高位，通胀就不再会是问题，增长放缓就会成为新的问题。\n\n3、沃什必须也只能口头鹰派，加息难度很大，或者通过资产负债表收缩的模式，而不一定是通过利率。因为更高的利率，更高的债务成本，更渺渺无期的可负担性。\n\n当然还有一种更直接的方式，直接改掉对通胀的衡量公式。这种最不可思议的控制通胀大法说不定最有机会实现。因为这条路，几乎没有任何实际性的障碍。",
         "contentHtml": "我的tg群也在聊这个，顺便发一个帖子。聊聊这个情况如何理解。\n1、毫无疑问，油价是最直接的触发因素。2年期的飙升甚至隐含了未来加息60bp的定价。然而对美联储的难题在于，如果不鹰，通胀补偿和期限溢价要求更高，那么债券收益率还会上升；如果加息并实质性鹰派，没什么卵用，改变不了供给，降低不了油价，只能摁住通胀的峰值。\n\n2、从短期来看，油价的确会从供给成本的角度影响通胀的上升；但如果持续高位，通胀就不再会是问题，增长放缓就会成为新的问题。\n\n3、沃什必须也只能口头鹰派，加息难度很大，或者通过资产负债表收缩的模式，而不一定是通过利率。因为更高的利率，更高的债务成本，更渺渺无期的可负担性。\n\n当然还有一种更直接的方式，直接改掉对通胀的衡量公式。这种最不可思议的控制通胀大法说不定最有机会实现。因为这条路，几乎没有任何实际性的障碍。",
         "link": "https://x.com/TiezhuCrypto/status/2080284542976590320"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080297163935113255",
+      "username": "based_benji",
+      "displayName": "Based ₿en",
+      "avatar": "https://pbs.twimg.com/profile_images/1647908300326047744/KF49mkko_bigger.jpg",
+      "content": "“For someone who is early in their career (and maybe even later), the single most important thing about a company is the alumni network you’re going to build. Think about who you will work with and what those people are going on to do.”\n\n-@naval",
+      "contentHtml": "“For someone who is early in their career (and maybe even later), the single most important thing about a company is the alumni network you’re going to build. Think about who you will work with and what those people are going on to do.”\n\n-<a href=\"/naval\" title=\"Naval\">@naval</a>",
+      "publishedAt": "2026-07-23T14:21:00.000Z",
+      "link": "https://x.com/based_benji/status/2080297163935113255",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -10644,6 +10788,25 @@
       }
     },
     {
+      "id": "2078832788111798726",
+      "username": "AscendantPower",
+      "displayName": "Ascendant Power",
+      "avatar": "https://pbs.twimg.com/profile_images/1924806321343193088/O3s6lTHN_bigger.jpg",
+      "content": "People who are incapable of creating advanced civilizations are equally incapable of maintaining them.",
+      "contentHtml": "People who are incapable of creating advanced civilizations are equally incapable of maintaining them.",
+      "publishedAt": "2026-07-19T13:22:00.000Z",
+      "link": "https://x.com/AscendantPower/status/2078832788111798726",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2078825908107133414",
       "username": "0xSunNFT",
       "displayName": "0xSun",
@@ -11550,6 +11713,38 @@
       }
     },
     {
+      "id": "2078607879335006619",
+      "username": "ebfull",
+      "displayName": "Sean Bowe",
+      "avatar": "https://pbs.twimg.com/profile_images/1934672401687597056/SmfyH4L4_bigger.jpg",
+      "content": "Ironwood goes live in ten days.\n\nThe possibility of counterfeiting bugs in our project has kept me awake at night. No more. Mathematical proof that undetectable counterfeiting bugs don't exist in Ironwood changes how even *I* feel about Zcash, as a protocol dev of ~10 years.",
+      "contentHtml": "Ironwood goes live in ten days.\n\nThe possibility of counterfeiting bugs in our project has kept me awake at night. No more. Mathematical proof that undetectable counterfeiting bugs don't exist in Ironwood changes how even *I* feel about Zcash, as a protocol dev of ~10 years.",
+      "publishedAt": "2026-07-18T22:28:00.000Z",
+      "link": "https://x.com/ebfull/status/2078607879335006619",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "ZakuraZcash",
+        "displayName": "Zakura",
+        "content": "Ironwood goes live in 10 days.\n\nThe Great Ironwood Migration achieves three goals:\n\n- Provide a credibly sound shielded pool\n- Give evidence no counterfeiting occurred in Orchard\n- Re-establish the circulating supply of ZEC.\n\nHere's what you need to know... 🧵",
+        "contentHtml": "Ironwood goes live in 10 days.\n\nThe Great Ironwood Migration achieves three goals:\n\n- Provide a credibly sound shielded pool\n- Give evidence no counterfeiting occurred in Orchard\n- Re-establish the circulating supply of ZEC.\n\nHere's what you need to know... 🧵",
+        "link": "https://x.com/ZakuraZcash/status/2078600008929259882",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNirsRVaoAAF_1i.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2078600494696615987",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -11766,269 +11961,6 @@
       "contentHtml": "Extremely Important post coming soon\n\nSomething everyone waited for..",
       "publishedAt": "2026-07-18T15:12:00.000Z",
       "link": "https://x.com/DrProfitCrypto/status/2078498100097020329",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078489975583297749",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "作为全网第一个吊这个白虎股神的人，惨遭网暴一个多月，只能说美股的傻逼确实多，以后要多来这个市场趴活。",
-      "contentHtml": "作为全网第一个吊这个白虎股神的人，惨遭网暴一个多月，只能说美股的傻逼确实多，以后要多来这个市场趴活。",
-      "publishedAt": "2026-07-18T14:40:00.000Z",
-      "link": "https://x.com/yuren477/status/2078489975583297749",
-      "quote": {
-        "username": "CryptoApprenti1",
-        "displayName": "Dr.Hash“Wesley”",
-        "content": "一个没实盘的纯韭菜 瞎几把喊单遇到一波行情 被封神了，其实还是个韭菜。喜欢造神跟单的舒服了。",
-        "contentHtml": "一个没实盘的纯韭菜 瞎几把喊单遇到一波行情 被封神了，其实还是个韭菜。喜欢造神跟单的舒服了。",
-        "link": "https://x.com/CryptoApprenti1/status/2078369385433989630"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078489345376538914",
-      "username": "CycleStudies",
-      "displayName": "百萬Eric | Day Trader",
-      "avatar": "https://pbs.twimg.com/profile_images/1982606819244605440/2IYiLUQI_bigger.jpg",
-      "content": "比特币 #BITCOIN 距离周线收盘还有33小时24分钟，届时超卖信号将正式确认。",
-      "contentHtml": "比特币 <a href=\"/search?f=tweets&q=%23BITCOIN\">#BITCOIN</a> 距离周线收盘还有33小时24分钟，届时超卖信号将正式确认。",
-      "publishedAt": "2026-07-18T14:37:00.000Z",
-      "link": "https://x.com/CycleStudies/status/2078489345376538914",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNhFbNzboAAE9xs.jpg"
-        }
-      ],
-      "quote": {
-        "username": "CycleStudies",
-        "displayName": "百萬Eric | Day Trader",
-        "content": "比特币 #BITCOIN 刚刚再次出现了周线级别的超卖信号。\n\n回顾过去1365天，一共出现过4次类似的信号：\n\n第一次是在2021年7月12日，随后反弹了114.95%\n\n第二次是2022年1月17日，反弹41.86%\n\n第三次是2022年6月13日，反弹13%\n\n第四次是2023年9月4日——也就是本轮牛市的起点，最大涨幅达到330.77%。\n\n听到这里先别激动，有两个点一定要注意：\n\n第一，超卖信号并不意味着立刻反转。前几次出现信号后，市场往往还会震荡甚至继续下探，所以现在别急着下判断。\n\n第二，如果这真是一个底部，后面一定还会有很多次上车机会。\n\n大趋势的启动不会一蹴而就，真正的机会，不会只留给几根K线。\n\n所以，保持关注，不抢节奏，等结构走清楚，再做出手决定。",
-        "contentHtml": "比特币 <a href=\"/search?f=tweets&q=%23BITCOIN\">#BITCOIN</a> 刚刚再次出现了周线级别的超卖信号。\n\n回顾过去1365天，一共出现过4次类似的信号：\n\n第一次是在2021年7月12日，随后反弹了114.95%\n\n第二次是2022年1月17日，反弹41.86%\n\n第三次是2022年6月13日，反弹13%\n\n第四次是2023年9月4日——也就是本轮牛市的起点，最大涨幅达到330.77%。\n\n听到这里先别激动，有两个点一定要注意：\n\n第一，超卖信号并不意味着立刻反转。前几次出现信号后，市场往往还会震荡甚至继续下探，所以现在别急着下判断。\n\n第二，如果这真是一个底部，后面一定还会有很多次上车机会。\n\n大趋势的启动不会一蹴而就，真正的机会，不会只留给几根K线。\n\n所以，保持关注，不抢节奏，等结构走清楚，再做出手决定。",
-        "link": "https://x.com/CycleStudies/status/1909421936318480552",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/Gn-hAkUbwAAVnc0.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078481680399282265",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/2080503582848339968/kzUeyNDZ_bigger.jpg",
-      "content": "穷逼不敢赌不还是穷逼吗 你又不是读书改命那块料\n但是不要借钱赌 我要是一个月上万把块钱班\n我肯定也是月月梭 梭中学 学中梭",
-      "contentHtml": "穷逼不敢赌不还是穷逼吗 你又不是读书改命那块料\n但是不要借钱赌 我要是一个月上万把块钱班\n我肯定也是月月梭 梭中学 学中梭",
-      "publishedAt": "2026-07-18T14:07:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2078481680399282265",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNg_nUdbAAAsbCx.jpg"
-        }
-      ],
-      "quote": {
-        "username": "xtony1314",
-        "displayName": "逍遥XTony (清华张疆喜欢嫖娼)",
-        "content": "币安能不能别找这些机构老登来做节目，你看他说的都是什么东西？\n\n别瞎折腾，活得久比跑得快重要。\n\n穷人就应该瞎折腾，折腾多了，才知道自己擅长什么，折腾多了才能发现机会在哪里，\n穷要狂，富要稳。\n\n你有钱了，每年利息都几十几百万，当然觉得活得久重要，\n\n散户就几万块，首先要做的就是怎么跑得快迅速积累第一桶金，然后才有资格谈活得久的问题，\n\n不然穷逼活再久，不还是穷逼吗？\n\n每一个行业都会火的，行业迟早都会，你等得起就行。\n\n我靠，这句我都无力吐槽了，你告诉我建筑行业，传媒行业，燃油车行业，啥时候火？\n\n年轻人就应该追风口，在风口上猪都能飞，什么行业火就去哪里，要做游牧民族，随时搬家，去水草肥美的地方，\n\n对应交易，哪里火就玩哪里，火的交易标的才有波动，火的交易标的才有流动性，去有风的地方，去追逐风。\n\n卧槽，你让我待在河南的盐碱地里呆一辈子，告诉我种地早晚都会火的，你让我待在山寨里，告诉我山寨早晚都会拉的，怕不是有什么大病。\n\n不要频繁交易\n\n这句还算是句人话。\n\n不要上杠杆\n\n尼玛，老登都挣那么多了，每年十个点都几百几千几个亿的，\n当然说不要上杠杆，\n散户就几万块，每年十个点是几千，去一次商k都不够，结果你告诉我要滑长雪道，慢慢变富。。。\n\n这些老登真是太油腻了，完全脱离散户，就喜欢用自己的价值观以高高在上的姿态说教散户，\n\n托尼姐姐虽然也富了，但姐姐是从底层小散爬上来的，深知散户最想要的是什么，最该做的是什么，\n给姐姐整一期，让姐批判下这些油腻老登。\n@yingbinance @yayabinance",
-        "contentHtml": "币安能不能别找这些机构老登来做节目，你看他说的都是什么东西？\n\n别瞎折腾，活得久比跑得快重要。\n\n穷人就应该瞎折腾，折腾多了，才知道自己擅长什么，折腾多了才能发现机会在哪里，\n穷要狂，富要稳。\n\n你有钱了，每年利息都几十几百万，当然觉得活得久重要，\n\n散户就几万块，首先要做的就是怎么跑得快迅速积累第一桶金，然后才有资格谈活得久的问题，\n\n不然穷逼活再久，不还是穷逼吗？\n\n每一个行业都会火的，行业迟早都会，你等得起就行。\n\n我靠，这句我都无力吐槽了，你告诉我建筑行业，传媒行业，燃油车行业，啥时候火？\n\n年轻人就应该追风口，在风口上猪都能飞，什么行业火就去哪里，要做游牧民族，随时搬家，去水草肥美的地方，\n\n对应交易，哪里火就玩哪里，火的交易标的才有波动，火的交易标的才有流动性，去有风的地方，去追逐风。\n\n卧槽，你让我待在河南的盐碱地里呆一辈子，告诉我种地早晚都会火的，你让我待在山寨里，告诉我山寨早晚都会拉的，怕不是有什么大病。\n\n不要频繁交易\n\n这句还算是句人话。\n\n不要上杠杆\n\n尼玛，老登都挣那么多了，每年十个点都几百几千几个亿的，\n当然说不要上杠杆，\n散户就几万块，每年十个点是几千，去一次商k都不够，结果你告诉我要滑长雪道，慢慢变富。。。\n\n这些老登真是太油腻了，完全脱离散户，就喜欢用自己的价值观以高高在上的姿态说教散户，\n\n托尼姐姐虽然也富了，但姐姐是从底层小散爬上来的，深知散户最想要的是什么，最该做的是什么，\n给姐姐整一期，让姐批判下这些油腻老登。\n<a href=\"/yingbinance\" title=\"ying滢哥捡到一个BNB🌖\">@yingbinance</a> <a href=\"/yayabinance\" title=\"丫丫🔶BNB｜玩bStocks 上币安\">@yayabinance</a>",
-        "link": "https://x.com/xtony1314/status/2078420705201516891",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNgIm9zawAA-Gk5.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078466906919776303",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "cred 0.7了我草了，韭菜的惩罚",
-      "contentHtml": "cred 0.7了我草了，韭菜的惩罚",
-      "publishedAt": "2026-07-18T13:08:00.000Z",
-      "link": "https://x.com/0xleng1/status/2078466906919776303",
-      "quote": {
-        "username": "0xleng1",
-        "displayName": "Leng",
-        "content": "头痛，本来以为只能拿5%最后额度翻倍，一下子打了32万拿太多筹码了 池子又小开盘只能低价跑完了，现在好了0.48了",
-        "contentHtml": "头痛，本来以为只能拿5%最后额度翻倍，一下子打了32万拿太多筹码了 池子又小开盘只能低价跑完了，现在好了0.48了",
-        "link": "https://x.com/0xleng1/status/2078201139477311574",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNdA6MibgAAJkV1.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNdA6MSbsAA-xcc.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078411373642440938",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "only on CT you will find pure retards copy trading one leg of a delta neutral strategy 😭",
-      "contentHtml": "only on CT you will find pure retards copy trading one leg of a delta neutral strategy 😭",
-      "publishedAt": "2026-07-18T09:27:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2078411373642440938",
-      "quote": {
-        "username": "TheNestintern",
-        "displayName": "The Nest Intern",
-        "content": ". @Cbb0fe has been number 1 equities trader by uPNL on hyperliquid for the last 24h and 7 days\n\nstarted copytrading him today for new trades, will be sharing results\n\nHyperliquid",
-        "contentHtml": ". <a href=\"/Cbb0fe\" title=\"CBB\">@Cbb0fe</a> has been number 1 equities trader by uPNL on hyperliquid for the last 24h and 7 days\n\nstarted copytrading him today for new trades, will be sharing results\n\nHyperliquid",
-        "link": "https://x.com/TheNestintern/status/2078275143013421258",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNeDvN_XUAAJdOQ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078351182444261486",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
-      "content": "【 bitcoin:native 四年周期总刻系列（41）】\n\n历史上，“持币6-12个月的筹码平均购买成本”一旦小于“持币12-18个月的筹码平均购买成本”，往往真熊底已现\n\n当前，已小于",
-      "contentHtml": "【 bitcoin:native 四年周期总刻系列（41）】\n\n历史上，“持币6-12个月的筹码平均购买成本”一旦小于“持币12-18个月的筹码平均购买成本”，往往真熊底已现\n\n当前，已小于",
-      "publishedAt": "2026-07-18T05:28:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2078351182444261486",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNfH8lrbAAA15Zt.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【 $BTC 四年周期总刻系列（40）】\n\n经典「三段式探底」如期收尾中🧘‍♂️\n\n┌── 🐼 链上数据详情 ──┐\n\n📊 比特币 STH-MVRV 正在完美复刻 21-22 年的筑底分形结构\n\n观察图中的红线部分，当比特币 STH-MVRV 跌破 1.0（短期投资者盈亏平衡线）后，并未直接反转，而是走出了一个经典的「三段式探底」结构：\n\n1️⃣ 初次破位：恐慌盘涌出，跌破 1.0\n2️⃣ 深度洗盘：反抽 1.0 遇阻后，迎来幅度最大的二次探底（图中最深处的尖底）\n3️⃣ 收敛确认：目前我们正处在“本轮”的第三次探底尾声，低点开始抬高，形成局部收敛的 W 底变体\n\n历史不会简单重复，但往往踏着相似的韵脚。前两次的深跌已经完成了对不坚定筹码的清洗，一旦指标强势突破并站稳 1.0，意味着短线筹码彻底解套，趋势将迎来真正的右侧反转\n\n💡 想要第一时间捕捉这类链上异动？欢迎解锁我的专属订阅服务，获取完整的【熊市筑底信号】与【牛市逃顶预警】，把握每一轮周期的关键拐点👇\n\nnitter.net/0xCryptoChan/creator-s…",
-        "contentHtml": "【 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 四年周期总刻系列（40）】\n\n经典「三段式探底」如期收尾中🧘‍♂️\n\n┌── 🐼 链上数据详情 ──┐\n\n📊 比特币 STH-MVRV 正在完美复刻 21-22 年的筑底分形结构\n\n观察图中的红线部分，当比特币 STH-MVRV 跌破 1.0（短期投资者盈亏平衡线）后，并未直接反转，而是走出了一个经典的「三段式探底」结构：\n\n1️⃣ 初次破位：恐慌盘涌出，跌破 1.0\n2️⃣ 深度洗盘：反抽 1.0 遇阻后，迎来幅度最大的二次探底（图中最深处的尖底）\n3️⃣ 收敛确认：目前我们正处在“本轮”的第三次探底尾声，低点开始抬高，形成局部收敛的 W 底变体\n\n历史不会简单重复，但往往踏着相似的韵脚。前两次的深跌已经完成了对不坚定筹码的清洗，一旦指标强势突破并站稳 1.0，意味着短线筹码彻底解套，趋势将迎来真正的右侧反转\n\n💡 想要第一时间捕捉这类链上异动？欢迎解锁我的专属订阅服务，获取完整的【熊市筑底信号】与【牛市逃顶预警】，把握每一轮周期的关键拐点👇\n\n<a href=\"https://nitter.net/0xCryptoChan/creator-subscriptions/subscribe\">nitter.net/0xCryptoChan/creator-s…</a>",
-        "link": "https://x.com/0xCryptoChan/status/2073951895446822973",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMgkUhCaEAAAtZj.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078342326687322160",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "合不合适我不知道，但我帮你问了一下Grok，毕竟依托X数据的大语言模型不会弄虚作假，且理解能力超过人类的平均水平😂😂😂",
-      "contentHtml": "合不合适我不知道，但我帮你问了一下Grok，毕竟依托X数据的大语言模型不会弄虚作假，且理解能力超过人类的平均水平😂😂😂",
-      "publishedAt": "2026-07-18T04:53:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2078342326687322160",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNfBRLhaUAAF5mZ.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNfBRLlbMAAQgYK.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNfBRLla8AAlh5t.jpg"
-        }
-      ],
-      "quote": {
-        "username": "imseazean",
-        "displayName": "Seazean",
-        "content": "价格8万到现在，链上指标一直看多，是不是不太合适了",
-        "contentHtml": "价格8万到现在，链上指标一直看多，是不是不太合适了",
-        "link": "https://x.com/imseazean/status/2078322491089686789"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078246372927754750",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
-      "content": "好叻, 不过我们tf都是按照年计算, 不是“交易”. 现在crypto的r/r很低, 虽然downside limited but also limited upside. both implied and realized vol也太低了😂",
-      "contentHtml": "好叻, 不过我们tf都是按照年计算, 不是“交易”. 现在crypto的r/r很低, 虽然downside limited but also limited upside. both implied and realized vol也太低了😂",
-      "publishedAt": "2026-07-17T22:32:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2078246372927754750",
-      "quote": {
-        "username": "QWBTC666",
-        "displayName": "NicoXD",
-        "content": "万姨，今年什么时候开始买了，喊一声哦，非常感恩！🤟",
-        "contentHtml": "万姨，今年什么时候开始买了，喊一声哦，非常感恩！🤟",
-        "link": "https://x.com/QWBTC666/status/2078008552678142445"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078246111651692703",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "IBKR liquidation warning and 7 euros payment declined\n\nIs it over for me guys? 💀",
-      "contentHtml": "IBKR liquidation warning and 7 euros payment declined\n\nIs it over for me guys? 💀",
-      "publishedAt": "2026-07-17T22:30:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2078246111651692703",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNdp0uSXwAA6lgX.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
