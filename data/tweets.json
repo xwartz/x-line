@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T23:24:09.881Z",
+  "lastUpdated": "2026-07-26T00:46:25.549Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,33 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 562,
-    "successUsers": 28,
-    "failedUsers": 4
+    "newFetched": 520,
+    "successUsers": 26,
+    "failedUsers": 6
   },
   "tweets": [
+    {
+      "id": "2081162325848179131",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "感觉全世界的政府都挺低能的，日本养蛊也是有一手。\n\n要像一米九金发碧眼美国白人男性壮汉那样去思考问题：\n\n整个世界都是我白人男的游乐场，日本作为东南亚的一员，它和泰国都是很好的后花园，这些小东西把政策搞来搞去是在吸引我的注意力吗，小东西还挺有意思。",
+      "contentHtml": "感觉全世界的政府都挺低能的，日本养蛊也是有一手。\n\n要像一米九金发碧眼美国白人男性壮汉那样去思考问题：\n\n整个世界都是我白人男的游乐场，日本作为东南亚的一员，它和泰国都是很好的后花园，这些小东西把政策搞来搞去是在吸引我的注意力吗，小东西还挺有意思。",
+      "publishedAt": "2026-07-25T23:38:00.000Z",
+      "link": "https://x.com/taresky/status/2081162325848179131",
+      "quote": {
+        "username": "asahi",
+        "displayName": "朝日新聞(asahi shimbun）",
+        "content": "外国人の永住許可、「厚生年金30年」を原則に　入管庁が厳格化案 asahi.com/articles/ASV7S2W0B…",
+        "contentHtml": "外国人の永住許可、「厚生年金30年」を原則に　入管庁が厳格化案 <a href=\"https://www.asahi.com/articles/ASV7S2W0BV7SUTIL00KM.html?ref=tw_asahi\">asahi.com/articles/ASV7S2W0B…</a>",
+        "link": "https://x.com/asahi/status/2080607440866034160"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2081131954640969800",
       "username": "naval",
@@ -11879,27 +11901,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HNjOexabgAA0sqD.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078637865756692550",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "你支持BIP-110吗？\n给市场除了AI找点BTC的技术存在感\n给不知道BIP-110的小伙伴们简单科普一下：BIP-110 是一项比特币改进提案，旨在限制铭文(Ordinals)、NFT 等非金融数据写入区块链，减少区块空间占用，降低手续费和节点运行成本，让比特币更专注于支付和价值存储。\n\n其争议点在于：支持者认为应优先保障货币交易；反对者则认为，只要交易符合共识规则并支付手续费，就不应按用途进行限制，否则会破坏比特币的“中立性(Neutrality)和无需许可(Permissionless)”的核心原则。",
-      "contentHtml": "你支持BIP-110吗？\n给市场除了AI找点BTC的技术存在感\n给不知道BIP-110的小伙伴们简单科普一下：BIP-110 是一项比特币改进提案，旨在限制铭文(Ordinals)、NFT 等非金融数据写入区块链，减少区块空间占用，降低手续费和节点运行成本，让比特币更专注于支付和价值存储。\n\n其争议点在于：支持者认为应优先保障货币交易；反对者则认为，只要交易符合共识规则并支付手续费，就不应按用途进行限制，否则会破坏比特币的“中立性(Neutrality)和无需许可(Permissionless)”的核心原则。",
-      "publishedAt": "2026-07-19T00:27:00.000Z",
-      "link": "https://x.com/hazenlee/status/2078637865756692550",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNjOHl3aQAAmc6z.jpg"
         }
       ],
       "stats": {
