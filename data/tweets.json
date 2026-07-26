@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T05:13:01.038Z",
+  "lastUpdated": "2026-07-26T07:01:45.529Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,147 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 567,
-    "successUsers": 28,
-    "failedUsers": 4
+    "newFetched": 541,
+    "successUsers": 27,
+    "failedUsers": 5
   },
   "tweets": [
+    {
+      "id": "2081272862669692931",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "My $BTC Plan, crystal clear from the start of the year.\n\nSell me all your BTC at 69-48K & Fuck off.",
+      "contentHtml": "My <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> Plan, crystal clear from the start of the year.\n\nSell me all your BTC at 69-48K &amp; Fuck off.",
+      "publishedAt": "2026-07-26T06:58:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2081272862669692931",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOIqZkZWwAAnwj_.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "My $BTC Plan. \n\nThe year of Accumulation. My limits are placed.\n\nSell me all your BTC at 69-48K & Fuck off.",
+        "contentHtml": "My <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> Plan. \n\nThe year of Accumulation. My limits are placed.\n\nSell me all your BTC at 69-48K &amp; Fuck off.",
+        "link": "https://x.com/KillaXBT/status/2007914156654297558",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/G92Kk-YXIAAjiq3.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2081272895272346042",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "Google、OpenAI、Meta都加入支持开源的阵营，之前老马也转发老黄的推文表态支持xAI估计也很快签了。然后Authropic的核心技术Julian Schrittwieser在说“太激动了，原来黄仁勋现在也支持开源！期待把CUDA 和GPU驱动开源发布。”听上去好像很有道理！\n\n但实际上公开信是呼吁政府不要禁止开放模型存在。\nJulian在在哪里嘲讽“那你为什么不把自己的核心产品全部开源？”\n\n呼吁支持开源模型，并不是说要求都开源\n\n这应该是两码事！",
+      "contentHtml": "Google、OpenAI、Meta都加入支持开源的阵营，之前老马也转发老黄的推文表态支持xAI估计也很快签了。然后Authropic的核心技术Julian Schrittwieser在说“太激动了，原来黄仁勋现在也支持开源！期待把CUDA 和GPU驱动开源发布。”听上去好像很有道理！\n\n但实际上公开信是呼吁政府不要禁止开放模型存在。\nJulian在在哪里嘲讽“那你为什么不把自己的核心产品全部开源？”\n\n呼吁支持开源模型，并不是说要求都开源\n\n这应该是两码事！",
+      "publishedAt": "2026-07-26T06:58:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2081272895272346042",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOIqqkKbQAAb67T.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOIqqkDb0AAQnJn.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "为什么美国科技公司要为开源模型（中国开源模型占了绝大多数）争取发展空间？昨晚最大的新闻无疑就是老黄@JensenHuang 首开X账号，第一条推文就是一份由a16z发起、英伟达、微软联合PLTR、PerplexityAI、Ollama等多家科技公司共同签署的公开信，明确主张\"前沿开源模型与前沿闭源模型应并存发展\"。看到都在聊公开信本身，但是对背后的动机和意图聊的不多。个人角度，核心原因就是之前下面这张图和引用的之前长文里聊到的内容：\n1、美国企业使用的中国开源模型每周token占比正逼近60%，开源模型在美国企业token消耗里占比这么大，一旦被禁或者限制、那么企业的成本剧增。\n\n2、7月中的这篇长文里（引用的长文就是）聊到：企业AI采用进入工程化时代，AI在企业级市场的采用越来越变成分场景应用模型阶段：\n1）高价值场景使用继续使用闭源前沿大模型的高价值Token；\n2）高频、低复杂度、高体积的任务场景下，企业越来越偏向高性比价比Token（基本上来自开源模型）。\n\n3、这个趋势不可避免：\n对于芯片厂商来说、用谁的模型都要训练和推理；\n对于云厂商来说，给企业客户模型选择越多，毛利越高；\n对于部署层（如pltr）或者应用型公司来说，更是天然有选择高性价比token的动力。\n这份公开信的联名企业基本上就是这三大类，所以公开信背后其实有着极强的商业诉求和巨大的商业价值。\n\n4、Authropic在国会呼吁限制或者禁止中国开源模型的发展，实质上是明显感受到了这股势头的威胁和影响。kimi k3只是一个催化剂，在k3之前中国开源在Token消耗量的份额占比已经在快速飙升了，即使没有k3，Authropic也有动力这么做。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "为什么美国科技公司要为开源模型（中国开源模型占了绝大多数）争取发展空间？昨晚最大的新闻无疑就是老黄<a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> 首开X账号，第一条推文就是一份由a16z发起、英伟达、微软联合PLTR、PerplexityAI、Ollama等多家科技公司共同签署的公开信，明确主张\"前沿开源模型与前沿闭源模型应并存发展\"。看到都在聊公开信本身，但是对背后的动机和意图聊的不多。个人角度，核心原因就是之前下面这张图和引用的之前长文里聊到的内容：\n1、美国企业使用的中国开源模型每周token占比正逼近60%，开源模型在美国企业token消耗里占比这么大，一旦被禁或者限制、那么企业的成本剧增。\n\n2、7月中的这篇长文里（引用的长文就是）聊到：企业AI采用进入工程化时代，AI在企业级市场的采用越来越变成分场景应用模型阶段：\n1）高价值场景使用继续使用闭源前沿大模型的高价值Token；\n2）高频、低复杂度、高体积的任务场景下，企业越来越偏向高性比价比Token（基本上来自开源模型）。\n\n3、这个趋势不可避免：\n对于芯片厂商来说、用谁的模型都要训练和推理；\n对于云厂商来说，给企业客户模型选择越多，毛利越高；\n对于部署层（如pltr）或者应用型公司来说，更是天然有选择高性价比token的动力。\n这份公开信的联名企业基本上就是这三大类，所以公开信背后其实有着极强的商业诉求和巨大的商业价值。\n\n4、Authropic在国会呼吁限制或者禁止中国开源模型的发展，实质上是明显感受到了这股势头的威胁和影响。kimi k3只是一个催化剂，在k3之前中国开源在Token消耗量的份额占比已经在快速飙升了，即使没有k3，Authropic也有动力这么做。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2080823741815382302",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOCSKcwa0AAP8gX.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2081271616093507894",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "熊市，项目方的清算潮☠️\n\n@RootDataCrypto 统计了「2026 年加密行业死亡项目名单」，已有 99 个在年内宣布停止运营、破产或者网站长期无法正常使用的加密项目，其中不乏前几轮周期的元老级项目和热门产品\n\n▶︎ 交易所：BitMart / BitMEX / AscendEX\n▶︎ 钱包：Family / Crtl / Leap\n▶︎ DeFi：Zapper / Stream Finance / Altura\n▶︎ 工具：Parsec\n\n寒冬之下，人人蛰伏，项目求生，等待“戈多”\ncn.rootdata.com/archives/det…",
+      "contentHtml": "熊市，项目方的清算潮☠️\n\n<a href=\"/RootDataCrypto\" title=\"RootData | We&apos;re Hiring\">@RootDataCrypto</a> 统计了「2026 年加密行业死亡项目名单」，已有 99 个在年内宣布停止运营、破产或者网站长期无法正常使用的加密项目，其中不乏前几轮周期的元老级项目和热门产品\n\n▶︎ 交易所：BitMart / BitMEX / AscendEX\n▶︎ 钱包：Family / Crtl / Leap\n▶︎ DeFi：Zapper / Stream Finance / Altura\n▶︎ 工具：Parsec\n\n寒冬之下，人人蛰伏，项目求生，等待“戈多”\n<a href=\"https://cn.rootdata.com/archives/detail/2026%20Crypto%20Dead%20Projects%20List?k=NDU0NzYz\">cn.rootdata.com/archives/det…</a>",
+      "publishedAt": "2026-07-26T06:53:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2081271616093507894",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOIpXBTawAA2Uyb.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2081252480181223835",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "这他吗谁发明的 给我出来！\n你们拿着飞的时候，有没有想过自己小时候曾向母亲保证，长大了一定要当科学家？\n求一个购买地址…",
+      "contentHtml": "这他吗谁发明的 给我出来！\n你们拿着飞的时候，有没有想过自己小时候曾向母亲保证，长大了一定要当科学家？\n求一个购买地址…",
+      "publishedAt": "2026-07-26T05:37:00.000Z",
+      "link": "https://x.com/hazenlee/status/2081252480181223835",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOIYGNSbsAApo1D.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2081251583141330965",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "这个利好算是给了核心主线一个稳定剂\n但是此时客观的来说，这轮AI调整，核心不是“AI没需求了”，而是市场开始追问：算力投入到底什么时候能变成利润？\n\n美国担心资本开支回报，韩国去杠杆放大卖盘，利率上升压缩高估值，最终让AI硬件从“讲增长”进入“算利润”。\n\n所以，普跌止于去杠杆，真底始于利润分化。\n\n跌得多不代表见底，业绩增长也不代表估值不会继续杀。\n\n下一轮真正值得关注的，是谁还能找到新的盈利加速度：硬件看需求与价值量，下游看AI能不能真正变成收入和现金流。\n\nAI行情的下半场，市场交易的可能不再是“谁卖铲子”，而是：\n\n谁真正靠AI赚到了钱。",
+      "contentHtml": "这个利好算是给了核心主线一个稳定剂\n但是此时客观的来说，这轮AI调整，核心不是“AI没需求了”，而是市场开始追问：算力投入到底什么时候能变成利润？\n\n美国担心资本开支回报，韩国去杠杆放大卖盘，利率上升压缩高估值，最终让AI硬件从“讲增长”进入“算利润”。\n\n所以，普跌止于去杠杆，真底始于利润分化。\n\n跌得多不代表见底，业绩增长也不代表估值不会继续杀。\n\n下一轮真正值得关注的，是谁还能找到新的盈利加速度：硬件看需求与价值量，下游看AI能不能真正变成收入和现金流。\n\nAI行情的下半场，市场交易的可能不再是“谁卖铲子”，而是：\n\n谁真正靠AI赚到了钱。",
+      "publishedAt": "2026-07-26T05:33:00.000Z",
+      "link": "https://x.com/hazenlee/status/2081251583141330965",
+      "quote": {
+        "username": "Rocky_Bitcoin",
+        "displayName": "Rocky",
+        "content": "终于要熬出头了，下周韩国带领美国AI半导体股票，要起飞了！🧐\n\n今日三星、SK海力士与英伟达、博通等签订了9500亿美元芯片大单！\n\n9500亿什么概念，韩国25年GDP也就1.87万亿美金，两家公司的订单，就占了GDP的一半，这国运不得不说，祖坟都冒烟了！\n\n讲真的，韩国老百姓真的玩不过财阀们，杠杆清完了，财阀们合作了，股票又要起飞了，机构仓位满了，散户仓位没了！🥹\n\n话说：视频里面喊的“西裤达”是什么意思？\n\n本文由 @binancezh 赞助，「币安买美股：全球资产，零秒时差，一键即达」！",
+        "contentHtml": "终于要熬出头了，下周韩国带领美国AI半导体股票，要起飞了！🧐\n\n今日三星、SK海力士与英伟达、博通等签订了9500亿美元芯片大单！\n\n9500亿什么概念，韩国25年GDP也就1.87万亿美金，两家公司的订单，就占了GDP的一半，这国运不得不说，祖坟都冒烟了！\n\n讲真的，韩国老百姓真的玩不过财阀们，杠杆清完了，财阀们合作了，股票又要起飞了，机构仓位满了，散户仓位没了！🥹\n\n话说：视频里面喊的“西裤达”是什么意思？\n\n本文由 <a href=\"/binancezh\" title=\"币安Binance华语\">@binancezh</a> 赞助，「币安买美股：全球资产，零秒时差，一键即达」！",
+        "link": "https://x.com/Rocky_Bitcoin/status/2080994180386689105"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2081244944103301241",
       "username": "qinbafrank",
@@ -261,6 +397,40 @@
         "content": "BitMEX倒闭了…\n\n曾几何时，XBTUSD是全市场定价权最强的合约；BitMEX的爆仓数据一度是行情分析的必看项；它是永续合约的发明者，却守不住自己开创的市场。\n\nTokenInsight在2026 Q1报告里，选取了20家交易所作为研究样本，连Hyperliquid、MEXC、Gate、BingX都在列，而BitMEX甚至都没资格进这份名单。\n\n市场份额萎缩到这个程度，交易业务大概率早已不赚钱。早在2025年2月BitMEX就开始寻找买家，找了一年半没卖掉，如今关门反而是最理性的选择。\n\n历史上，行业参与者的绝望退出，往往发生在周期的底部。2015年的熊市清掉了Mt. Gox之后的一大批小所；2019年初Cboe退出BTC期货业务，几个月后行情启动；以及2022年11月FTX崩盘等等\n\n当然，BitMEX没有暴雷，没有用户损失，份额也早已降到忽略不计，对市场几乎没影响，所以也谈不上恐慌性投降。\n\n只是回忆过往，留下无比唏嘘…",
         "contentHtml": "BitMEX倒闭了…\n\n曾几何时，XBTUSD是全市场定价权最强的合约；BitMEX的爆仓数据一度是行情分析的必看项；它是永续合约的发明者，却守不住自己开创的市场。\n\nTokenInsight在2026 Q1报告里，选取了20家交易所作为研究样本，连Hyperliquid、MEXC、Gate、BingX都在列，而BitMEX甚至都没资格进这份名单。\n\n市场份额萎缩到这个程度，交易业务大概率早已不赚钱。早在2025年2月BitMEX就开始寻找买家，找了一年半没卖掉，如今关门反而是最理性的选择。\n\n历史上，行业参与者的绝望退出，往往发生在周期的底部。2015年的熊市清掉了Mt. Gox之后的一大批小所；2019年初Cboe退出BTC期货业务，几个月后行情启动；以及2022年11月FTX崩盘等等\n\n当然，BitMEX没有暴雷，没有用户损失，份额也早已降到忽略不计，对市场几乎没影响，所以也谈不上恐慌性投降。\n\n只是回忆过往，留下无比唏嘘…",
         "link": "https://x.com/Murphychen888/status/2080253430392897744"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2081195169207160981",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "长鑫存储 TOP1 空军仍在加码😲\n\n2 小时前他向 Hyperliquid 追加 200 万枚 USDC 的保证金，增持 TWAP 限价卖单；目前他已持有 207.2 万美元 $CXMT 1x 空单，价值 1278 万美元，开仓价 $6.4434，现已浮盈 56.3 万美元\n\n此外有 435,677.8 枚 $6.11 的限价卖单仍未成交，价值 266 万美元\n\n不知道这位老哥是在裸空还是套保啊，传送门 👉 d.pro/portfolio/0xf2925cb077…",
+      "contentHtml": "长鑫存储 TOP1 空军仍在加码😲\n\n2 小时前他向 Hyperliquid 追加 200 万枚 USDC 的保证金，增持 TWAP 限价卖单；目前他已持有 207.2 万美元 <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 1x 空单，价值 1278 万美元，开仓价 $6.4434，现已浮盈 56.3 万美元\n\n此外有 435,677.8 枚 $6.11 的限价卖单仍未成交，价值 266 万美元\n\n不知道这位老哥是在裸空还是套保啊，传送门 👉 <a href=\"https://www.d.pro/portfolio/0xf2925cb0779a741fe33037cbd88fca5382e41244\">d.pro/portfolio/0xf2925cb077…</a>",
+      "publishedAt": "2026-07-26T01:49:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2081195169207160981",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOHj9_Ra8AAHwep.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "长鑫上市倒计时 3 天，地址 0xf29…41244 已成为 Hyperliquid 断层 TOP1 头寸，现持有 788 万美元的空单\n\n他这 123 万枚 $CXMT 的空单，入场均价为 $6.615（对应人民币价格 44.85，市值 3 万亿）；目前他在 $6.4284 位置开出的 42 万枚限价卖单仅成交了 34.39%，若全部成交总仓位将来到 965 万美元\n\n传送门 👉 d.pro/portfolio/0xf2925cb077…",
+        "contentHtml": "长鑫上市倒计时 3 天，地址 0xf29…41244 已成为 Hyperliquid 断层 TOP1 头寸，现持有 788 万美元的空单\n\n他这 123 万枚 <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 的空单，入场均价为 $6.615（对应人民币价格 44.85，市值 3 万亿）；目前他在 $6.4284 位置开出的 42 万枚限价卖单仅成交了 34.39%，若全部成交总仓位将来到 965 万美元\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0xf2925cb0779a741fe33037cbd88fca5382e41244\">d.pro/portfolio/0xf2925cb077…</a>",
+        "link": "https://x.com/ai_9684xtpa/status/2080470728265359698",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HN9QEIDaMAAuENg.jpg"
+          }
+        ]
       },
       "stats": {
         "replies": 0,
@@ -11822,147 +11992,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078707677585363228",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
-      "content": "【 bitcoin:native 四年周期总刻系列（42-1）】\n\n🔵 22年06月币价跌至 $17.6k，浮盈BTC占 49.5%\n🔵 26年02月币价跌至 $60.5k，浮盈BTC占 50.3%\n\n🔴 22年11月币价跌至 $15.5k，浮盈BTC占 45.2%\n🔴 26年06月币价跌至 $57.8k，浮盈BTC占 46.0%\n\n值得一提的是:\n\n📌 2022年两低点跨度 144天\n📌 2026年两低点跨度 145天",
-      "contentHtml": "【 bitcoin:native 四年周期总刻系列（42-1）】\n\n🔵 22年06月币价跌至 $17.6k，浮盈BTC占 49.5%\n🔵 26年02月币价跌至 $60.5k，浮盈BTC占 50.3%\n\n🔴 22年11月币价跌至 $15.5k，浮盈BTC占 45.2%\n🔴 26年06月币价跌至 $57.8k，浮盈BTC占 46.0%\n\n值得一提的是:\n\n📌 2022年两低点跨度 144天\n📌 2026年两低点跨度 145天",
-      "publishedAt": "2026-07-19T05:05:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2078707677585363228",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNkLKp-aAAAMslu.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【 bitcoin:native 四年周期总刻系列（41）】\n\n历史上，“持币6-12个月的筹码平均购买成本”一旦小于“持币12-18个月的筹码平均购买成本”，往往真熊底已现\n\n当前，已小于",
-        "contentHtml": "【 bitcoin:native 四年周期总刻系列（41）】\n\n历史上，“持币6-12个月的筹码平均购买成本”一旦小于“持币12-18个月的筹码平均购买成本”，往往真熊底已现\n\n当前，已小于",
-        "link": "https://x.com/0xCryptoChan/status/2078351182444261486",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNfH8lrbAAA15Zt.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078681983811776705",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "完全理解倪大说的意思。从商业逻辑上讲，制造流量，创造话题和注意力，带来广告收入是一家企业的生存之道。\n\n作为一名原创内容输出者，我会自然而然的站在“内容质量”的角度去理解，而忽略了“商业价值”。\n\n因为我自己习惯于每天认真的分享个人的真实思考，所以也乐忠于追求其他同样优秀博主的精华输出。\n\n从不知“搬运”“吹水”为何物，也非常反感自己的时间线上充斥着没有营养的内容。\n\n这也是为什么有小伙伴让我回关时，有些我会马上安排，有些却不予理会。因为我会点进主页，看看他过往内容是否有“价值”。\n\n只要是真实的，原创的，经过思考的，无论他的粉丝有多少我都会关注。爱屋及乌，我天然就喜欢“内容质量”。\n\n从这点上说，我确实有点天真了..... 但我愿保持天真😀",
-      "contentHtml": "完全理解倪大说的意思。从商业逻辑上讲，制造流量，创造话题和注意力，带来广告收入是一家企业的生存之道。\n\n作为一名原创内容输出者，我会自然而然的站在“内容质量”的角度去理解，而忽略了“商业价值”。\n\n因为我自己习惯于每天认真的分享个人的真实思考，所以也乐忠于追求其他同样优秀博主的精华输出。\n\n从不知“搬运”“吹水”为何物，也非常反感自己的时间线上充斥着没有营养的内容。\n\n这也是为什么有小伙伴让我回关时，有些我会马上安排，有些却不予理会。因为我会点进主页，看看他过往内容是否有“价值”。\n\n只要是真实的，原创的，经过思考的，无论他的粉丝有多少我都会关注。爱屋及乌，我天然就喜欢“内容质量”。\n\n从这点上说，我确实有点天真了..... 但我愿保持天真😀",
-      "publishedAt": "2026-07-19T03:22:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2078681983811776705",
-      "quote": {
-        "username": "PhyrexNi",
-        "displayName": "Phyrex",
-        "content": "😂M兄还是天真了，X 目前虽然不是上市公司，但也是上市公司 Space X 的一部分，也要为上市公司贡献业绩，而对于这种社交媒体最重要的数据就是广告费，而能产生广告费就是有足够的流量。\n\nTiktok，抖音，小红书能有这么高的估值主要就是流量足够高，而 X 在被马斯克收购以后收入一直不算好，只有在 2025年 才出现了同比增涨，但相比 2021年高峰的 50亿美元相比，2025年的收入大概只有 33 亿。\n\n而广告收益大概是 X 总收入的 七 成，那么想要提升广告收入就要提升流量，有更多的人发帖，更多的人看， 更多的人互动，才会有可能会有更多的广告，所以你看 Nikita 做的一切都是为了让流量出现自然增涨。\n\n那肯定有小伙伴说，这样为什么要封锁低质量的批量发文，这不是一样能增加流量吗？问题就在这里，从最近封锁收益就能发现，封锁的很多都是机器人发帖，机器人发帖看上去增加了流量，但是消耗了 X 大量的成本。\n\n对于 X 来说，省钱也是非常重要的，所以一方面 X 鼓励的是大家多去站外搬运，这样可以获得站内的流量，比如从海外看不到的抖音搬运到 X ，从 Tiktok 搬运到 X ，甚至开放了自然翻译，都是为了更好的消除跨境影响。\n\n另外 X 主要在推行的就是订阅，希望找到站内资金循环，而不是单纯依靠广告的形式，但这种难度要求更高，所以总的来说，X 的目前的打法是很 NB 的人卖订阅，一般人卖流量。\n\n所谓的内容创造和高质量的文章，最好的去处就是垂直广告，其实 X 在打击垂直广告方面并没有非常凶狠。\n\n @Gate Crypto、美股、港股、韩股、黄金、CFD、预测市场一站交易",
-        "contentHtml": "😂M兄还是天真了，X 目前虽然不是上市公司，但也是上市公司 Space X 的一部分，也要为上市公司贡献业绩，而对于这种社交媒体最重要的数据就是广告费，而能产生广告费就是有足够的流量。\n\nTiktok，抖音，小红书能有这么高的估值主要就是流量足够高，而 X 在被马斯克收购以后收入一直不算好，只有在 2025年 才出现了同比增涨，但相比 2021年高峰的 50亿美元相比，2025年的收入大概只有 33 亿。\n\n而广告收益大概是 X 总收入的 七 成，那么想要提升广告收入就要提升流量，有更多的人发帖，更多的人看， 更多的人互动，才会有可能会有更多的广告，所以你看 Nikita 做的一切都是为了让流量出现自然增涨。\n\n那肯定有小伙伴说，这样为什么要封锁低质量的批量发文，这不是一样能增加流量吗？问题就在这里，从最近封锁收益就能发现，封锁的很多都是机器人发帖，机器人发帖看上去增加了流量，但是消耗了 X 大量的成本。\n\n对于 X 来说，省钱也是非常重要的，所以一方面 X 鼓励的是大家多去站外搬运，这样可以获得站内的流量，比如从海外看不到的抖音搬运到 X ，从 Tiktok 搬运到 X ，甚至开放了自然翻译，都是为了更好的消除跨境影响。\n\n另外 X 主要在推行的就是订阅，希望找到站内资金循环，而不是单纯依靠广告的形式，但这种难度要求更高，所以总的来说，X 的目前的打法是很 NB 的人卖订阅，一般人卖流量。\n\n所谓的内容创造和高质量的文章，最好的去处就是垂直广告，其实 X 在打击垂直广告方面并没有非常凶狠。\n\n <a href=\"/Gate\" title=\"Gate\">@Gate</a> Crypto、美股、港股、韩股、黄金、CFD、预测市场一站交易",
-        "link": "https://x.com/PhyrexNi/status/2078544710608847002"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078677349319708992",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "在投机交易领域，每时每刻都有人在翻倍\n\n请相信我，这是概率走势下的必然现象\n\n这一点就跟赌场里时时刻刻都有赌客闭眼梭哈梭准了一样\n\n一亿人，每十万一组，拿机枪突突，每组留一个站着的，然后把站着的拉一起，再用机枪突突一次，留一个站着的，这个站着的就是神话\n\n他有各种经验绝招讲述他如何站到了最后\n#交易 #投机",
-      "contentHtml": "在投机交易领域，每时每刻都有人在翻倍\n\n请相信我，这是概率走势下的必然现象\n\n这一点就跟赌场里时时刻刻都有赌客闭眼梭哈梭准了一样\n\n一亿人，每十万一组，拿机枪突突，每组留一个站着的，然后把站着的拉一起，再用机枪突突一次，留一个站着的，这个站着的就是神话\n\n他有各种经验绝招讲述他如何站到了最后\n<a href=\"/search?f=tweets&q=%23交易\">#交易</a> <a href=\"/search?f=tweets&q=%23投机\">#投机</a>",
-      "publishedAt": "2026-07-19T03:04:00.000Z",
-      "link": "https://x.com/dongbimao/status/2078677349319708992",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078673124804182152",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "Hyperliquid TOP1 $CASHCAT 头寸已平仓止盈，154 万美元的持仓获利 54.7 万美元，回报率 35.5%⭐️\n\n地址 0xc36…e105B 在 07.14 以 $0.11899（即市值 1.19 亿美元时）开启空头持仓，市值跌破 1 亿美元时再次加仓，最终今天凌晨 01:37 以 $0.05848 平掉了所有仓位，四天获利 54.7 万美元（计入资金费收益）\n\n传送门 👉 d.pro/portfolio/0xc36af149b6…",
-      "contentHtml": "Hyperliquid TOP1 <a href=\"/search?f=tweets&q=%23CASHCAT\">$CASHCAT</a> 头寸已平仓止盈，154 万美元的持仓获利 54.7 万美元，回报率 35.5%⭐️\n\n地址 0xc36…e105B 在 07.14 以 $0.11899（即市值 1.19 亿美元时）开启空头持仓，市值跌破 1 亿美元时再次加仓，最终今天凌晨 01:37 以 $0.05848 平掉了所有仓位，四天获利 54.7 万美元（计入资金费收益）\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0xc36af149b64a41aab6c26ea6b71c37082d9e105b\">d.pro/portfolio/0xc36af149b6…</a>",
-      "publishedAt": "2026-07-19T02:47:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2078673124804182152",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNjuFmabsAIUIwH.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078672470111056017",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "2名美军阵亡，美军昨晚承认伊朗对约旦美军基地的导弹袭击，已造成两名美军士兵阵亡，一人失踪，另外四人受伤，这是自三月底以来伊朗开火导致的首例美军阵亡。由此，在与伊朗五个月的冲突中，已至少16名美军士兵战死。\n\n只能说局势进一步升级了，明显两周过去双方还没有任何缓和的迹象。美军出现伤亡、这就更严重了、短期内川普很难退让、势必要继续保持强硬。\n\n如昨天聊到的7号冲突爆发后，开始油价反弹但没有很高，然后本周cpi和ppi数据有很好、短期内市场会忽略美伊冲突的影响。但是如果持续两周后还没看到缓和的迹象、同时油价突破压力位、市场的耐心也就越来越小了。\n\n那么在未来缓和之前，市场有可能先交易冲突持续升级。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "2名美军阵亡，美军昨晚承认伊朗对约旦美军基地的导弹袭击，已造成两名美军士兵阵亡，一人失踪，另外四人受伤，这是自三月底以来伊朗开火导致的首例美军阵亡。由此，在与伊朗五个月的冲突中，已至少16名美军士兵战死。\n\n只能说局势进一步升级了，明显两周过去双方还没有任何缓和的迹象。美军出现伤亡、这就更严重了、短期内川普很难退让、势必要继续保持强硬。\n\n如昨天聊到的7号冲突爆发后，开始油价反弹但没有很高，然后本周cpi和ppi数据有很好、短期内市场会忽略美伊冲突的影响。但是如果持续两周后还没看到缓和的迹象、同时油价突破压力位、市场的耐心也就越来越小了。\n\n那么在未来缓和之前，市场有可能先交易冲突持续升级。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-07-19T02:45:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2078672470111056017",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNjtl2Sa0AA192H.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "这两天美伊冲突最大的变化在于开始突破军事目标范畴，能源基础设施与民用设施相继成为打击目标，意味着再持续下去已经到了能影响市场的阶段。\n\n科威特周五指，伊朗将袭击范围扩大至科威特的电力与海水淡化厂。伊拉克官员周四称，该国北部库尔德地区最大的天然气田因面临遭袭的威胁而关闭，美军则将空袭目标延伸至距霍尔木兹海峡350英里以外的恰巴哈尔港。双方均未显示出任何收手迹象。\n\n伊朗消息称打击一艘未经许可穿越海峡船只，美军称重启封锁三天内拦截六船\n军事冲突的深化已直接传导至全球能源市场。据船舶追踪机构Kpler数据，霍尔木兹海峡通航量已跌至三周低点\n\n最大的因素是油价突破了之前聊到的89-85区间，看布油的走势隐隐有突破均线压制的迹象，需要密切关注。需要真的突破并能站稳、市场未来一段时间又要受到油价的影响了。\n\n7号冲突爆发后，开始油价反弹但没有很高，然后本周cpi和ppi数据有很好、短期内市场会忽略美伊冲突的影响。但是如果持续两周后还没看到缓和的迹象、同时油价突破压力位、市场的耐心也就越来越小了。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "这两天美伊冲突最大的变化在于开始突破军事目标范畴，能源基础设施与民用设施相继成为打击目标，意味着再持续下去已经到了能影响市场的阶段。\n\n科威特周五指，伊朗将袭击范围扩大至科威特的电力与海水淡化厂。伊拉克官员周四称，该国北部库尔德地区最大的天然气田因面临遭袭的威胁而关闭，美军则将空袭目标延伸至距霍尔木兹海峡350英里以外的恰巴哈尔港。双方均未显示出任何收手迹象。\n\n伊朗消息称打击一艘未经许可穿越海峡船只，美军称重启封锁三天内拦截六船\n军事冲突的深化已直接传导至全球能源市场。据船舶追踪机构Kpler数据，霍尔木兹海峡通航量已跌至三周低点\n\n最大的因素是油价突破了之前聊到的89-85区间，看布油的走势隐隐有突破均线压制的迹象，需要密切关注。需要真的突破并能站稳、市场未来一段时间又要受到油价的影响了。\n\n7号冲突爆发后，开始油价反弹但没有很高，然后本周cpi和ppi数据有很好、短期内市场会忽略美伊冲突的影响。但是如果持续两周后还没看到缓和的迹象、同时油价突破压力位、市场的耐心也就越来越小了。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2078283378009207114",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNeLtvOawAAX7YM.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078671691132330179",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "如何用概率和动态系统，\n而不是故事和情绪，去理解市场。\n\n市场不是一个等待被预测的答案，\n而是一个持续演化的复杂系统；\n交易者的任务不是猜测未来，\n而是在每一次状态变化中，\n寻找能够长期重复、具有正期望值的概率优势。",
-      "contentHtml": "如何用概率和动态系统，\n而不是故事和情绪，去理解市场。\n\n市场不是一个等待被预测的答案，\n而是一个持续演化的复杂系统；\n交易者的任务不是猜测未来，\n而是在每一次状态变化中，\n寻找能够长期重复、具有正期望值的概率优势。",
-      "publishedAt": "2026-07-19T02:42:00.000Z",
-      "link": "https://x.com/hazenlee/status/2078671691132330179",
       "stats": {
         "replies": 0,
         "retweets": 0,
