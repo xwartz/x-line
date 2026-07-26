@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T01:39:07.309Z",
+  "lastUpdated": "2026-07-26T03:10:19.963Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,9 +109,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 563,
-    "successUsers": 28,
-    "failedUsers": 4
+    "newFetched": 583,
+    "successUsers": 29,
+    "failedUsers": 3
   },
   "tweets": [
     {
@@ -4117,6 +4117,48 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HN1dmgJaQAA1ILL.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080265944853786969",
+      "username": "WeWill_Rocky",
+      "displayName": "Rocky AI✨",
+      "avatar": "https://pbs.twimg.com/profile_images/1940640303305674752/-W7btS_g_bigger.jpg",
+      "content": "每个熊市，都会带走几家交易所。\n\n只是没想到这一次，会轮到 BitMEX。\n\n受此影响，WSNB 也同步暂停更新，恢复时间将通过邮件通知。\n\n感谢魏神 @coolish 在充满噪音的市场里，始终坚持分享真实的实盘数据，感谢这 115,000 位精神股东的一路陪伴。\n\n有些告别，是为了下一次重逢🙏",
+      "contentHtml": "每个熊市，都会带走几家交易所。\n\n只是没想到这一次，会轮到 BitMEX。\n\n受此影响，WSNB 也同步暂停更新，恢复时间将通过邮件通知。\n\n感谢魏神 <a href=\"/coolish\" title=\"paulwei\">@coolish</a> 在充满噪音的市场里，始终坚持分享真实的实盘数据，感谢这 115,000 位精神股东的一路陪伴。\n\n有些告别，是为了下一次重逢🙏",
+      "publishedAt": "2026-07-23T12:17:00.000Z",
+      "link": "https://x.com/WeWill_Rocky/status/2080265944853786969",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HN6Hb9BasAA43VW.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HN6INHmaYAE1BnL.png"
+        }
+      ],
+      "retweet": {
+        "username": "coolish",
+        "displayName": "paulwei"
+      },
+      "quote": {
+        "username": "BitMEX",
+        "displayName": "BitMEX",
+        "content": "Dear BitMEX Users,\n\nToday, we share with a very heavy heart that BitMEX exchange will shut down its operations, effective 23 September 2026 at 04:00:00 UTC.\n\nThe owner and operator of BitMEX, HDR Global Trading Limited, has made the difficult decision to close operations following a strategic review of the business.\n\nIt may not look the same today, but we are proud of our 11+ year legacy and the role we played in shaping the crypto industry. We invented the 100x leverage perpetual swap, which for most of you, was the first step to your crypto trading journey. It is now the most traded financial product in the crypto industry, adopted by thousands of users and exchanges. And we remain proud of our robust security infrastructure, which has allowed us to maintain a flawless track record of 0 customer funds lost to hacks in our entire operating history.\n\nWe want to reassure you that your assets remain fully safe and under your control during this transition period. This announcement is just to give enough time to ensure a smooth withdrawal process for everyone.\n\nFrom today we strongly encourage all users to close their positions and withdraw their funds as soon as convenient. For more details on the full process, please read our blog: bitmex.com/blog/bitmex-closu…\n\nBitMEX was once home to some of the greatest traders today. Our team has dedicated tremendous effort and passion into building the platform into what it is, and we are glad to have reached some of you during your time with us. To everyone who has traded, supported, and grown alongside us - thank you for your trust over the last 11 years.\n\nThe BitMEX Team",
+        "contentHtml": "Dear BitMEX Users,\n\nToday, we share with a very heavy heart that BitMEX exchange will shut down its operations, effective 23 September 2026 at 04:00:00 UTC.\n\nThe owner and operator of BitMEX, HDR Global Trading Limited, has made the difficult decision to close operations following a strategic review of the business.\n\nIt may not look the same today, but we are proud of our 11+ year legacy and the role we played in shaping the crypto industry. We invented the 100x leverage perpetual swap, which for most of you, was the first step to your crypto trading journey. It is now the most traded financial product in the crypto industry, adopted by thousands of users and exchanges. And we remain proud of our robust security infrastructure, which has allowed us to maintain a flawless track record of 0 customer funds lost to hacks in our entire operating history.\n\nWe want to reassure you that your assets remain fully safe and under your control during this transition period. This announcement is just to give enough time to ensure a smooth withdrawal process for everyone.\n\nFrom today we strongly encourage all users to close their positions and withdraw their funds as soon as convenient. For more details on the full process, please read our blog: <a href=\"https://www.bitmex.com/blog/bitmex-closure\">bitmex.com/blog/bitmex-closu…</a>\n\nBitMEX was once home to some of the greatest traders today. Our team has dedicated tremendous effort and passion into building the platform into what it is, and we are glad to have reached some of you during your time with us. To everyone who has traded, supported, and grown alongside us - thank you for your trust over the last 11 years.\n\nThe BitMEX Team",
+        "link": "https://x.com/BitMEX/status/2080201602456301580",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HN5cUjGasAAlEMk.jpg"
           }
         ]
       },
@@ -11872,27 +11914,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HNjSYgOaMAAE6Ts.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078638471049314734",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "AI 将会彻底淘汰一批没东西的“宏观老师”。\n\n过去靠整理新闻、复述数据、讲点通识，就能包装成研究。现在这些东西随手问 AI，得到的答案往往更深、更广，也更贴合具体问题。\n\n以后真正拉开差距的，不是你知道多少公开信息，而是你有没有自己的东西：\n对市场的长期观察、仓位经验、交易决策框架、犯过的错，以及那些无法从教材和新闻里复制出来的判断。\n\n通识正在迅速贬值。\n真正值钱的，开始只剩私货。",
-      "contentHtml": "AI 将会彻底淘汰一批没东西的“宏观老师”。\n\n过去靠整理新闻、复述数据、讲点通识，就能包装成研究。现在这些东西随手问 AI，得到的答案往往更深、更广，也更贴合具体问题。\n\n以后真正拉开差距的，不是你知道多少公开信息，而是你有没有自己的东西：\n对市场的长期观察、仓位经验、交易决策框架、犯过的错，以及那些无法从教材和新闻里复制出来的判断。\n\n通识正在迅速贬值。\n真正值钱的，开始只剩私货。",
-      "publishedAt": "2026-07-19T00:30:00.000Z",
-      "link": "https://x.com/yuren477/status/2078638471049314734",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNjOexabgAA0sqD.jpg"
         }
       ],
       "stats": {
