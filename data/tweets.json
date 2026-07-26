@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T14:35:40.305Z",
+  "lastUpdated": "2026-07-26T15:28:38.895Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,39 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 609,
-    "successUsers": 30,
-    "failedUsers": 2
+    "newFetched": 541,
+    "successUsers": 27,
+    "failedUsers": 5
   },
   "tweets": [
+    {
+      "id": "2081393534930997269",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "base这个活动看起来结束了，别再做了，浪费钱。",
+      "contentHtml": "base这个活动看起来结束了，别再做了，浪费钱。",
+      "publishedAt": "2026-07-26T14:57:00.000Z",
+      "link": "https://x.com/0xleng1/status/2081393534930997269",
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "base app群友的教程简单无脑，必须一笔250u，随时会结束，别偷懒。多号下来也有一两百u了。需要存一个月 coinbase也不用担心安全问题。",
+        "contentHtml": "base app群友的教程简单无脑，必须一笔250u，随时会结束，别偷懒。多号下来也有一两百u了。需要存一个月 coinbase也不用担心安全问题。",
+        "link": "https://x.com/0xleng1/status/2080999312428015645",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOEx1zMaUAASRPJ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2081386338683650126",
       "username": "KillaXBT",
@@ -1121,32 +1149,6 @@
       }
     },
     {
-      "id": "2081033408273395858",
-      "username": "DavidSacks",
-      "displayName": "David Sacks",
-      "avatar": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_bigger.jpg",
-      "content": "Nobody is saying that all software has to be open source. What they’re saying is that open-weight AI should be allowed. By implication, they’re rejecting your company’s incessant machinations to kneecap the open model ecosystem. Read the room.",
-      "contentHtml": "Nobody is saying that all software has to be open source. What they’re saying is that open-weight AI should be allowed. By implication, they’re rejecting your company’s incessant machinations to kneecap the open model ecosystem. Read the room.",
-      "publishedAt": "2026-07-25T15:06:00.000Z",
-      "link": "https://x.com/DavidSacks/status/2081033408273395858",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Mononofu",
-        "displayName": "Julian Schrittwieser",
-        "content": "I’m so excited that @JensenHuang is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
-        "contentHtml": "I’m so excited that <a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
-        "link": "https://x.com/Mononofu/status/2080937562739531837"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2081017140405006594",
       "username": "Kristof_Poland",
       "displayName": "Krzysztof Szczawinski 🇵🇱",
@@ -1749,32 +1751,6 @@
             "url": "https://pbs.twimg.com/media/HKmM0b_akAAZl1C.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080858078090551728",
-      "username": "Jesse_Livermore",
-      "displayName": "Jesse Livermore",
-      "avatar": "https://pbs.twimg.com/profile_images/1202370756/jesse_livermore_bigger.jpg",
-      "content": "Great news, he keeps around $30MM (0.003%) for himself each year and puts the rest (99.997%) into technology R&D--rockets, electric vehicles, underground transportation systems, treating paralysis, etc.",
-      "contentHtml": "Great news, he keeps around $30MM (0.003%) for himself each year and puts the rest (99.997%) into technology R&amp;D--rockets, electric vehicles, underground transportation systems, treating paralysis, etc.",
-      "publishedAt": "2026-07-25T03:30:00.000Z",
-      "link": "https://x.com/Jesse_Livermore/status/2080858078090551728",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "joeroganhq",
-        "displayName": "Joe Rogan Podcast News",
-        "content": "\"Elon Musk is a trillionaire right? Gross! F*ck him. What’s he going to do with all that. If I had that I’d keep a billion and put the rest into cancer research or burn it like the joker.\"",
-        "contentHtml": "\"Elon Musk is a trillionaire right? Gross! F*ck him. What’s he going to do with all that. If I had that I’d keep a billion and put the rest into cancer research or burn it like the joker.\"",
-        "link": "https://x.com/joeroganhq/status/2080397540550173067"
       },
       "stats": {
         "replies": 0,
@@ -4143,44 +4119,6 @@
       "contentHtml": "讲到投资回报，有一个指标很好ROIC（投入资本回报率），很多机构会把这个指标做为标准， <a href=\"/search?f=tweets&q=%23GOOG\">$GOOG</a> 过去4个季度滚动一年的数据：\n2025Q3：35%\n2025Q4：35%\n2026Q1：32%\n2026Q2：30%\n观察一下什么时候是个拐点，主要衡量的就是投资的增速和盈利的增速哪个更快，资金利用效率。\n30%+算很高的回报比率，资本成本（WACC）通常7-10%，回报是成本3倍以上。",
       "publishedAt": "2026-07-23T17:31:00.000Z",
       "link": "https://x.com/TJ_Research/status/2080345109992788014",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080343858022354975",
-      "username": "Thom_Wolf",
-      "displayName": "Thomas Wolf",
-      "avatar": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_bigger.jpg",
-      "content": "it's ironic that the first autonomous AI attack was done by a close weight model defended by an open weight model, where everyone was expecting the opposite",
-      "contentHtml": "it's ironic that the first autonomous AI attack was done by a close weight model defended by an open weight model, where everyone was expecting the opposite",
-      "publishedAt": "2026-07-23T17:26:00.000Z",
-      "link": "https://x.com/Thom_Wolf/status/2080343858022354975",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080334854122827914",
-      "username": "rstormsf",
-      "displayName": "Roman Storm 🇺🇸 🌪️",
-      "avatar": "https://pbs.twimg.com/profile_images/1730464940283375616/7vX3chI5_bigger.jpg",
-      "content": "The Roman Storm (me) case is exactly this. DOJ’s theory: publishing code = operating a money transmitting business. If that theory survives, every open source dev writing code is exposed.\n\nI’m facing decades in prison. Second trial starts in October.\n\nProsecutors said in court that I should have withdrawn from making open source code",
-      "contentHtml": "The Roman Storm (me) case is exactly this. DOJ’s theory: publishing code = operating a money transmitting business. If that theory survives, every open source dev writing code is exposed.\n\nI’m facing decades in prison. Second trial starts in October.\n\nProsecutors said in court that I should have withdrawn from making open source code",
-      "publishedAt": "2026-07-23T16:50:00.000Z",
-      "link": "https://x.com/rstormsf/status/2080334854122827914",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -12062,6 +12000,57 @@
           }
         ]
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2078787980895125695",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "有点好奇heyi会不会笑，随口来了一句 结果链上多了个屎币。heyi自己看到的时候会不会被笑到🤣",
+      "contentHtml": "有点好奇heyi会不会笑，随口来了一句 结果链上多了个屎币。heyi自己看到的时候会不会被笑到🤣",
+      "publishedAt": "2026-07-19T10:24:00.000Z",
+      "link": "https://x.com/0xleng1/status/2078787980895125695",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2078780960141873510",
+      "username": "coinkarma_",
+      "displayName": "CoinKarma",
+      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
+      "content": "回顧本週 $HYPE LIQ 的表現，其對行情依舊展現出高度指導性 。目前，指標再次顯示此區間買方流動性明顯高於賣方流動性，依過往數據表現，後續形成短線反彈的概率較高。\n\n我們透過 CoinKarma 獨家的回測工具，針對 $HYPE 近兩個月的流動性指標進行回測。在僅做多的情況下，策略累積報酬超過 300%，顯示流動性指標在近期震盪行情中具備相當高的行情指導性。\n\n回測條件參考：\n◽ 方向：只做多\n◽ 槓桿：5 倍\n◽ 建倉：HYPE LIQ > 3，分批建倉\n◽ 平倉：HYPE LIQ < -3，全部平倉",
+      "contentHtml": "回顧本週 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> LIQ 的表現，其對行情依舊展現出高度指導性 。目前，指標再次顯示此區間買方流動性明顯高於賣方流動性，依過往數據表現，後續形成短線反彈的概率較高。\n\n我們透過 CoinKarma 獨家的回測工具，針對 <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> 近兩個月的流動性指標進行回測。在僅做多的情況下，策略累積報酬超過 300%，顯示流動性指標在近期震盪行情中具備相當高的行情指導性。\n\n回測條件參考：\n◽ 方向：只做多\n◽ 槓桿：5 倍\n◽ 建倉：HYPE LIQ &gt; 3，分批建倉\n◽ 平倉：HYPE LIQ &lt; -3，全部平倉",
+      "publishedAt": "2026-07-19T09:56:00.000Z",
+      "link": "https://x.com/coinkarma_/status/2078780960141873510",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HNlQD4PbMAEfbhA.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2078780962100670719",
+      "username": "coinkarma_",
+      "displayName": "CoinKarma",
+      "avatar": "https://pbs.twimg.com/profile_images/2044634505223471104/QkfdqSWN_bigger.jpg",
+      "content": "想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群\n👉 coinkarma.pse.is/7wsxnl",
+      "contentHtml": "想掌握更即時的交易機會？透過 14 天免費試用，立即獲得即時訊號並加入會員專屬交流群\n👉 <a href=\"http://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
+      "publishedAt": "2026-07-19T09:56:00.000Z",
+      "link": "https://x.com/coinkarma_/status/2078780962100670719",
       "stats": {
         "replies": 0,
         "retweets": 0,
