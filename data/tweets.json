@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T09:45:15.735Z",
+  "lastUpdated": "2026-07-26T10:36:56.095Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,64 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 542,
+    "newFetched": 545,
     "successUsers": 27,
     "failedUsers": 5
   },
   "tweets": [
+    {
+      "id": "2081319392147886199",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "明日上市！Hyperliquid 长鑫定价面临再考验⚡️\n\n▶︎ 合约价格如何切换为真实交易价格\n▶︎ 资金费率会如何变化\n▶︎ A 股休市时 HL 价格如何确定\n▶︎ A 股的集合竞价和盘中停牌机制是怎样的\n▶︎ 当前 OI 规模 / 预期市值如何\n\n5 分钟快速了解 07.27 长鑫上市后 Hyperliquid 相关的热门问题👩‍💻👇\n\n1️⃣ 合约价格如何切换为真实交易价格\n\nHyperliquid $CXMT 合约价格会在长鑫存储正式于科创板交易后（即九点半后）向交易价格收敛\n\n▶︎ 触发条件：A 股有了足够充分、稳定的外部市场数据后，系统会自动启动转换\n▶︎ 切换锚点：由 TradeXYZ 基于自身订单簿生成的内部预言机价格，切换为追踪 A 股真实价格的外部预言机价格，并按实时汇率换算为美元\n▶︎ 收敛方式：预言机价格每次更新（约 3 秒一次）的变动幅度不能超过 ±1%，这样即使 PreIPO 阶段的价格与真实价格偏离巨大，也只能渐进式靠拢，当然过程中的清算仍不可避免\n\n2️⃣ 资金费率会如何变化\n\n资金费率乘数将由 PreIPO 阶段的 0.005，恢复为 0.5\n\n上市前为了让交易者能长期持仓等待 IPO，不必承担高昂的资金成本，资金费仅为正常合约的 1%，其调节作用被大大削弱，但正式上市后一切会回归正轨\n\n3️⃣ A 股休市时 HL 价格如何确定\n\n此时 HL $CXMT 价格又会回到「基于自身订单簿生成的内部预言机价格」，相当于一个内盘，这部分在此前的推文中做过详细解释，这里不展开了\n\n尤其需要注意的是，休市时的价格波动仍会受到 Discovery Bound（价格发现边界）机制约束，即每次重新锚定幅度为 ±20%，向上向下至多有 7 次动态调整边界的机会，增加该阶段因为流动性不足导致的价格操纵成本\n\n4️⃣ A 股的集合竞价和盘中停牌机制是怎样的\n\n科创板机制决定了，长鑫上市后前 5 个交易日不设价格涨跌幅限制，但仍存在约束机制\n\n▶︎ 集合竞价：时间为 9:15-9:25，其中 9:15-9:20 可以挂单和撤单，但 9:20-9:25 只能挂单不能撤单\n▶︎ 盘中停牌：开盘价确定后，交易过程中首次上涨或下跌达到或超过 30% / 60% 时，会触发临时停牌，每次停 10 分钟，一天最多 4 次\n\n而从第六天起，长鑫就和其他科创板股票一样适用常规的涨跌停规则了\n\n5️⃣ 当前 OI 规模 / 预期市值如何\n\n截止到 07.26 17:40，Hyperliquid CXMT 的 OI 规模为 6390 万美元，合约现价 $6.18，对应人民币价格 41.9，即市值约为 2.80 万亿元，预期超越工商银行的 2.76 万亿市值，剑指 A 股第一股",
+      "contentHtml": "明日上市！Hyperliquid 长鑫定价面临再考验⚡️\n\n▶︎ 合约价格如何切换为真实交易价格\n▶︎ 资金费率会如何变化\n▶︎ A 股休市时 HL 价格如何确定\n▶︎ A 股的集合竞价和盘中停牌机制是怎样的\n▶︎ 当前 OI 规模 / 预期市值如何\n\n5 分钟快速了解 07.27 长鑫上市后 Hyperliquid 相关的热门问题👩‍💻👇\n\n1️⃣ 合约价格如何切换为真实交易价格\n\nHyperliquid <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 合约价格会在长鑫存储正式于科创板交易后（即九点半后）向交易价格收敛\n\n▶︎ 触发条件：A 股有了足够充分、稳定的外部市场数据后，系统会自动启动转换\n▶︎ 切换锚点：由 TradeXYZ 基于自身订单簿生成的内部预言机价格，切换为追踪 A 股真实价格的外部预言机价格，并按实时汇率换算为美元\n▶︎ 收敛方式：预言机价格每次更新（约 3 秒一次）的变动幅度不能超过 ±1%，这样即使 PreIPO 阶段的价格与真实价格偏离巨大，也只能渐进式靠拢，当然过程中的清算仍不可避免\n\n2️⃣ 资金费率会如何变化\n\n资金费率乘数将由 PreIPO 阶段的 0.005，恢复为 0.5\n\n上市前为了让交易者能长期持仓等待 IPO，不必承担高昂的资金成本，资金费仅为正常合约的 1%，其调节作用被大大削弱，但正式上市后一切会回归正轨\n\n3️⃣ A 股休市时 HL 价格如何确定\n\n此时 HL <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 价格又会回到「基于自身订单簿生成的内部预言机价格」，相当于一个内盘，这部分在此前的推文中做过详细解释，这里不展开了\n\n尤其需要注意的是，休市时的价格波动仍会受到 Discovery Bound（价格发现边界）机制约束，即每次重新锚定幅度为 ±20%，向上向下至多有 7 次动态调整边界的机会，增加该阶段因为流动性不足导致的价格操纵成本\n\n4️⃣ A 股的集合竞价和盘中停牌机制是怎样的\n\n科创板机制决定了，长鑫上市后前 5 个交易日不设价格涨跌幅限制，但仍存在约束机制\n\n▶︎ 集合竞价：时间为 9:15-9:25，其中 9:15-9:20 可以挂单和撤单，但 9:20-9:25 只能挂单不能撤单\n▶︎ 盘中停牌：开盘价确定后，交易过程中首次上涨或下跌达到或超过 30% / 60% 时，会触发临时停牌，每次停 10 分钟，一天最多 4 次\n\n而从第六天起，长鑫就和其他科创板股票一样适用常规的涨跌停规则了\n\n5️⃣ 当前 OI 规模 / 预期市值如何\n\n截止到 07.26 17:40，Hyperliquid CXMT 的 OI 规模为 6390 万美元，合约现价 $6.18，对应人民币价格 41.9，即市值约为 2.80 万亿元，预期超越工商银行的 2.76 万亿市值，剑指 A 股第一股",
+      "publishedAt": "2026-07-26T10:03:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2081319392147886199",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOJU6o9bQAApeYU.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "Hyperliquid 上线长鑫存储，将大家关心的几个问题做了下汇总💁‍♀️\n\n▶︎ HL 上的长鑫存储到底是在交易什么\n▶︎ A 股 IPO 发行价是 8.66元/股，5 刀的初始价格是谁定的\n▶︎ $CXMT 的价格是由预言机提供的吗，为什么刚上线时会在 6 刀堆积大量买方订单\n\n如果你只想了解简单结论，这是 1 分钟省流版\n\n🔹Hyperliquid 上的 CXMT 交易的是「市场对长鑫未来每股价格的预期」，即二级市场的潜在价格\n🔹5 刀的初始价格完全由 TradeXYZ 平台方决定\n🔹CXMT 的现阶段报价是从订单簿中提取并计算的\n\n现在是对每个问题的展开，感兴趣的小伙伴可以继续读下去\n\n1️⃣ HL 上的长鑫存储到底是在交易什么\n\n这个问题在 SpaceX IPO 前就在社区引发过广泛讨论，后因为总股本的变动再次发酵，TradeXYZ 最终没有选择 Rebase 而是坚持表示「价格不依赖市值或总股本数据」\n\n简而言之，Hyperliquid 上现阶段的 $CXMT 价格指向的是「市场对长鑫未来每股价格的预期」，与 IPO 发行价、市盈率、现金流等财务指标没有直接关联，而是旨在「让市场发现价格」\n\n2️⃣ A 股 IPO 发行价是 8.66元/股，HL 5 刀的初始价格是谁定的\n\nHyperliquid 的HIP-3 协议允许任何第三方通过质押 50 万枚 HYPE，在链上部署永续合约市场并成为「Deployer」，而 TradeXYZ 就是其中最早和最大的一个\n\n当市场缺乏外部价格时（例如在 Pre-IPO 阶段），该永续合约标的的初始报价由 Deployer（即 TradeXYZ 平台）自行决定，至于具体制定规则，就是黑盒了\n\n但 5 刀这个价格是随便给的吗，未必 —— 它对应的是 [$1.05, $17.92] 的边界区间，理论的下限价格为 $1.05（约 7.12 RMB），即 A 股 IPO 发行价 8.66 RMB 的 82%，略跌破发行价，因此还是相对合理的\n\n至于为什么对应这个区间，第三个问题的答案会提到\n\n3️⃣ $CXMT 的价格是由预言机提供的吗\n\n分为两个阶段\n▶︎ Pre-IPO 阶段：报价由预言机从订单簿中提取并计算\n▶︎ 正式交易后：由真实成交价格（外部价格）决定，合约价格将重新收敛\n\n当前阶段由于缺少外部价格，TradeXYZ 会让预言机从订单簿中提取信息，计算出一个「冲击价格差」，这个偏差反映了订单簿中买卖力量的不平衡，偏差值加上当前价格得出「目标价」，然后以一个受控的、缓慢的速度（称为\"时间常数\"）向这个目标价靠拢，防止价格被轻易操纵；在此基础上，预言机每次更新，相对上一价格的变动幅度最多只能有±1%，这样即使有极端外部变量出现，链上价格也只能一步步的变化，不会过于剧烈抖动\n\n那么价格可以无限制上涨或下跌吗？不行，有 Discovery Bounds 作为价格保险\n\n对于长鑫存储而言($CXMT)，由于最大杠杆倍数为 20x，平台设定了每次重新锚定幅度为 ±20%，向上向下至多有 7 次动态调整边界的机会，以 5 刀的初始价格为例，买单持续堆叠市场需求暴增，则向上调整 7 次最高到 17.92 美金，反之向下则到 1.05 美金，对应的人民币价格分别是 7.12 RMB 和 121.49 RMB，最终通过「重新锚定」的方式完成价格发现 —— 这就是 CXMT 刚上线时在 6 刀堆积了大量买方订单，随后快速拉升至 7.2 刀（涨幅 20 %），又涨至 8.64 刀（涨幅同样为 20 %）的原因\n\n最后的最后，还是要回归真实交易价格\n\n07.27 A 股开盘，Hyperliquid 上的合约价格将以实际交易价格为准，完成逐步收敛；如果偏差不大，那么 TradeXYZ 牛逼；如果偏差过大，可预期的就会出现大量清算了\n\n以上就是三个问题的详细解释，对于问题三参考了 @BlockBeatsAsia 的文章「拆解 TradeXYZ 定价机制，他们是如何提前定价的？」，解释的非常详细，推荐阅读 👉 foresightnews.pro/article/de…\n\n不是 Hyperliquid 专家，如果文中有任何错漏，可随时在评论区指正和讨论，也欢迎点赞 / 评论 / 转发一键三连🥰",
+        "contentHtml": "Hyperliquid 上线长鑫存储，将大家关心的几个问题做了下汇总💁‍♀️\n\n▶︎ HL 上的长鑫存储到底是在交易什么\n▶︎ A 股 IPO 发行价是 8.66元/股，5 刀的初始价格是谁定的\n▶︎ <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 的价格是由预言机提供的吗，为什么刚上线时会在 6 刀堆积大量买方订单\n\n如果你只想了解简单结论，这是 1 分钟省流版\n\n🔹Hyperliquid 上的 CXMT 交易的是「市场对长鑫未来每股价格的预期」，即二级市场的潜在价格\n🔹5 刀的初始价格完全由 TradeXYZ 平台方决定\n🔹CXMT 的现阶段报价是从订单簿中提取并计算的\n\n现在是对每个问题的展开，感兴趣的小伙伴可以继续读下去\n\n1️⃣ HL 上的长鑫存储到底是在交易什么\n\n这个问题在 SpaceX IPO 前就在社区引发过广泛讨论，后因为总股本的变动再次发酵，TradeXYZ 最终没有选择 Rebase 而是坚持表示「价格不依赖市值或总股本数据」\n\n简而言之，Hyperliquid 上现阶段的 <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 价格指向的是「市场对长鑫未来每股价格的预期」，与 IPO 发行价、市盈率、现金流等财务指标没有直接关联，而是旨在「让市场发现价格」\n\n2️⃣ A 股 IPO 发行价是 8.66元/股，HL 5 刀的初始价格是谁定的\n\nHyperliquid 的HIP-3 协议允许任何第三方通过质押 50 万枚 HYPE，在链上部署永续合约市场并成为「Deployer」，而 TradeXYZ 就是其中最早和最大的一个\n\n当市场缺乏外部价格时（例如在 Pre-IPO 阶段），该永续合约标的的初始报价由 Deployer（即 TradeXYZ 平台）自行决定，至于具体制定规则，就是黑盒了\n\n但 5 刀这个价格是随便给的吗，未必 —— 它对应的是 [$1.05, $17.92] 的边界区间，理论的下限价格为 $1.05（约 7.12 RMB），即 A 股 IPO 发行价 8.66 RMB 的 82%，略跌破发行价，因此还是相对合理的\n\n至于为什么对应这个区间，第三个问题的答案会提到\n\n3️⃣ <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 的价格是由预言机提供的吗\n\n分为两个阶段\n▶︎ Pre-IPO 阶段：报价由预言机从订单簿中提取并计算\n▶︎ 正式交易后：由真实成交价格（外部价格）决定，合约价格将重新收敛\n\n当前阶段由于缺少外部价格，TradeXYZ 会让预言机从订单簿中提取信息，计算出一个「冲击价格差」，这个偏差反映了订单簿中买卖力量的不平衡，偏差值加上当前价格得出「目标价」，然后以一个受控的、缓慢的速度（称为\"时间常数\"）向这个目标价靠拢，防止价格被轻易操纵；在此基础上，预言机每次更新，相对上一价格的变动幅度最多只能有±1%，这样即使有极端外部变量出现，链上价格也只能一步步的变化，不会过于剧烈抖动\n\n那么价格可以无限制上涨或下跌吗？不行，有 Discovery Bounds 作为价格保险\n\n对于长鑫存储而言($CXMT)，由于最大杠杆倍数为 20x，平台设定了每次重新锚定幅度为 ±20%，向上向下至多有 7 次动态调整边界的机会，以 5 刀的初始价格为例，买单持续堆叠市场需求暴增，则向上调整 7 次最高到 17.92 美金，反之向下则到 1.05 美金，对应的人民币价格分别是 7.12 RMB 和 121.49 RMB，最终通过「重新锚定」的方式完成价格发现 —— 这就是 CXMT 刚上线时在 6 刀堆积了大量买方订单，随后快速拉升至 7.2 刀（涨幅 20 %），又涨至 8.64 刀（涨幅同样为 20 %）的原因\n\n最后的最后，还是要回归真实交易价格\n\n07.27 A 股开盘，Hyperliquid 上的合约价格将以实际交易价格为准，完成逐步收敛；如果偏差不大，那么 TradeXYZ 牛逼；如果偏差过大，可预期的就会出现大量清算了\n\n以上就是三个问题的详细解释，对于问题三参考了 <a href=\"/BlockBeatsAsia\" title=\"BlockBeats｜We&apos;re hiring!\">@BlockBeatsAsia</a> 的文章「拆解 TradeXYZ 定价机制，他们是如何提前定价的？」，解释的非常详细，推荐阅读 👉 <a href=\"https://foresightnews.pro/article/detail/97130\">foresightnews.pro/article/de…</a>\n\n不是 Hyperliquid 专家，如果文中有任何错漏，可随时在评论区指正和讨论，也欢迎点赞 / 评论 / 转发一键三连🥰",
+        "link": "https://x.com/ai_9684xtpa/status/2077598232482615625",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNUcklZbIAAVmJS.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2081315164440440979",
+      "username": "FundaAI",
+      "displayName": "FUNDA",
+      "avatar": "https://pbs.twimg.com/profile_images/1977466680432631808/4JauAoj1_bigger.jpg",
+      "content": "Due to China’s capital controls, Chinese hf must use swaps to gain exposure to non-Chinese stocks. However, since early June, the rules governing these swaps have allowed only selling, not buying. More than half non-Chinese semi positions have already been liquidated over the past month.",
+      "contentHtml": "Due to China’s capital controls, Chinese hf must use swaps to gain exposure to non-Chinese stocks. However, since early June, the rules governing these swaps have allowed only selling, not buying. More than half non-Chinese semi positions have already been liquidated over the past month.",
+      "publishedAt": "2026-07-26T09:46:00.000Z",
+      "link": "https://x.com/FundaAI/status/2081315164440440979",
+      "retweet": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2081314064853000701",
       "username": "Cbb0fe",
@@ -860,6 +913,51 @@
       }
     },
     {
+      "id": "2081033408273395858",
+      "username": "DavidSacks",
+      "displayName": "David Sacks",
+      "avatar": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_bigger.jpg",
+      "content": "Nobody is saying that all software has to be open source. What they’re saying is that open-weight AI should be allowed. By implication, they’re rejecting your company’s incessant machinations to kneecap the open model ecosystem. Read the room.",
+      "contentHtml": "Nobody is saying that all software has to be open source. What they’re saying is that open-weight AI should be allowed. By implication, they’re rejecting your company’s incessant machinations to kneecap the open model ecosystem. Read the room.",
+      "publishedAt": "2026-07-25T15:06:00.000Z",
+      "link": "https://x.com/DavidSacks/status/2081033408273395858",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "Mononofu",
+        "displayName": "Julian Schrittwieser",
+        "content": "I’m so excited that @JensenHuang is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
+        "contentHtml": "I’m so excited that <a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
+        "link": "https://x.com/Mononofu/status/2080937562739531837"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2081014606408089610",
+      "username": "NavalismHQ",
+      "displayName": "Navalism",
+      "avatar": "https://pbs.twimg.com/profile_images/1350045723073671169/xB1_K1_z_bigger.jpg",
+      "content": "Impatience with actions, patience with results.\n\n@naval",
+      "contentHtml": "Impatience with actions, patience with results.\n\n<a href=\"/naval\" title=\"Naval\">@naval</a>",
+      "publishedAt": "2026-07-25T13:52:00.000Z",
+      "link": "https://x.com/NavalismHQ/status/2081014606408089610",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2081013807158378975",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -966,6 +1064,32 @@
             "url": "https://pbs.twimg.com/media/HOERsSUbIAAplo5.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080993777167007935",
+      "username": "billxbf",
+      "displayName": "Binfeng Xu",
+      "avatar": "https://pbs.twimg.com/profile_images/1970222268308754432/cAl6rc65_bigger.jpg",
+      "content": "This sounds logically embarrassing.\n1. Proprietary products and supporting OSS aren’t contradictory. @satyanadella doesn’t call Linux “unsafe”. @JensenHuang doesn’t campaign against ROCm / OpenCL. Compete and coevolve.\n2. LLMs are made happen by “distilling” 40 years of collective intellectual property thanks to the open culture of the Internet. Pulling up the ladder here is misanthropic for the next generation.",
+      "contentHtml": "This sounds logically embarrassing.\n1. Proprietary products and supporting OSS aren’t contradictory. <a href=\"/satyanadella\" title=\"Satya Nadella\">@satyanadella</a> doesn’t call Linux “unsafe”. <a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> doesn’t campaign against ROCm / OpenCL. Compete and coevolve.\n2. LLMs are made happen by “distilling” 40 years of collective intellectual property thanks to the open culture of the Internet. Pulling up the ladder here is misanthropic for the next generation.",
+      "publishedAt": "2026-07-25T12:29:00.000Z",
+      "link": "https://x.com/billxbf/status/2080993777167007935",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "Mononofu",
+        "displayName": "Julian Schrittwieser",
+        "content": "I’m so excited that @JensenHuang is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
+        "contentHtml": "I’m so excited that <a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
+        "link": "https://x.com/Mononofu/status/2080937562739531837"
       },
       "stats": {
         "replies": 0,
@@ -1379,6 +1503,32 @@
             "url": "https://pbs.twimg.com/media/HKmM0b_akAAZl1C.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080858078090551728",
+      "username": "Jesse_Livermore",
+      "displayName": "Jesse Livermore",
+      "avatar": "https://pbs.twimg.com/profile_images/1202370756/jesse_livermore_bigger.jpg",
+      "content": "Great news, he keeps around $30MM (0.003%) for himself each year and puts the rest (99.997%) into technology R&D--rockets, electric vehicles, underground transportation systems, treating paralysis, etc.",
+      "contentHtml": "Great news, he keeps around $30MM (0.003%) for himself each year and puts the rest (99.997%) into technology R&amp;D--rockets, electric vehicles, underground transportation systems, treating paralysis, etc.",
+      "publishedAt": "2026-07-25T03:30:00.000Z",
+      "link": "https://x.com/Jesse_Livermore/status/2080858078090551728",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "joeroganhq",
+        "displayName": "Joe Rogan Podcast News",
+        "content": "\"Elon Musk is a trillionaire right? Gross! F*ck him. What’s he going to do with all that. If I had that I’d keep a billion and put the rest into cancer research or burn it like the joker.\"",
+        "contentHtml": "\"Elon Musk is a trillionaire right? Gross! F*ck him. What’s he going to do with all that. If I had that I’d keep a billion and put the rest into cancer research or burn it like the joker.\"",
+        "link": "https://x.com/joeroganhq/status/2080397540550173067"
       },
       "stats": {
         "replies": 0,
@@ -3754,6 +3904,44 @@
       }
     },
     {
+      "id": "2080343858022354975",
+      "username": "Thom_Wolf",
+      "displayName": "Thomas Wolf",
+      "avatar": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_bigger.jpg",
+      "content": "it's ironic that the first autonomous AI attack was done by a close weight model defended by an open weight model, where everyone was expecting the opposite",
+      "contentHtml": "it's ironic that the first autonomous AI attack was done by a close weight model defended by an open weight model, where everyone was expecting the opposite",
+      "publishedAt": "2026-07-23T17:26:00.000Z",
+      "link": "https://x.com/Thom_Wolf/status/2080343858022354975",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080334854122827914",
+      "username": "rstormsf",
+      "displayName": "Roman Storm 🇺🇸 🌪️",
+      "avatar": "https://pbs.twimg.com/profile_images/1730464940283375616/7vX3chI5_bigger.jpg",
+      "content": "The Roman Storm (me) case is exactly this. DOJ’s theory: publishing code = operating a money transmitting business. If that theory survives, every open source dev writing code is exposed.\n\nI’m facing decades in prison. Second trial starts in October.\n\nProsecutors said in court that I should have withdrawn from making open source code",
+      "contentHtml": "The Roman Storm (me) case is exactly this. DOJ’s theory: publishing code = operating a money transmitting business. If that theory survives, every open source dev writing code is exposed.\n\nI’m facing decades in prison. Second trial starts in October.\n\nProsecutors said in court that I should have withdrawn from making open source code",
+      "publishedAt": "2026-07-23T16:50:00.000Z",
+      "link": "https://x.com/rstormsf/status/2080334854122827914",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2080333925633720348",
       "username": "TJ_Research",
       "displayName": "投资TALK君",
@@ -4021,6 +4209,25 @@
         "content": "我的tg群也在聊这个，顺便发一个帖子。聊聊这个情况如何理解。\n1、毫无疑问，油价是最直接的触发因素。2年期的飙升甚至隐含了未来加息60bp的定价。然而对美联储的难题在于，如果不鹰，通胀补偿和期限溢价要求更高，那么债券收益率还会上升；如果加息并实质性鹰派，没什么卵用，改变不了供给，降低不了油价，只能摁住通胀的峰值。\n\n2、从短期来看，油价的确会从供给成本的角度影响通胀的上升；但如果持续高位，通胀就不再会是问题，增长放缓就会成为新的问题。\n\n3、沃什必须也只能口头鹰派，加息难度很大，或者通过资产负债表收缩的模式，而不一定是通过利率。因为更高的利率，更高的债务成本，更渺渺无期的可负担性。\n\n当然还有一种更直接的方式，直接改掉对通胀的衡量公式。这种最不可思议的控制通胀大法说不定最有机会实现。因为这条路，几乎没有任何实际性的障碍。",
         "contentHtml": "我的tg群也在聊这个，顺便发一个帖子。聊聊这个情况如何理解。\n1、毫无疑问，油价是最直接的触发因素。2年期的飙升甚至隐含了未来加息60bp的定价。然而对美联储的难题在于，如果不鹰，通胀补偿和期限溢价要求更高，那么债券收益率还会上升；如果加息并实质性鹰派，没什么卵用，改变不了供给，降低不了油价，只能摁住通胀的峰值。\n\n2、从短期来看，油价的确会从供给成本的角度影响通胀的上升；但如果持续高位，通胀就不再会是问题，增长放缓就会成为新的问题。\n\n3、沃什必须也只能口头鹰派，加息难度很大，或者通过资产负债表收缩的模式，而不一定是通过利率。因为更高的利率，更高的债务成本，更渺渺无期的可负担性。\n\n当然还有一种更直接的方式，直接改掉对通胀的衡量公式。这种最不可思议的控制通胀大法说不定最有机会实现。因为这条路，几乎没有任何实际性的障碍。",
         "link": "https://x.com/TiezhuCrypto/status/2080284542976590320"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2080297163935113255",
+      "username": "based_benji",
+      "displayName": "Based ₿en",
+      "avatar": "https://pbs.twimg.com/profile_images/1647908300326047744/KF49mkko_bigger.jpg",
+      "content": "“For someone who is early in their career (and maybe even later), the single most important thing about a company is the alumni network you’re going to build. Think about who you will work with and what those people are going on to do.”\n\n-@naval",
+      "contentHtml": "“For someone who is early in their career (and maybe even later), the single most important thing about a company is the alumni network you’re going to build. Think about who you will work with and what those people are going on to do.”\n\n-<a href=\"/naval\" title=\"Naval\">@naval</a>",
+      "publishedAt": "2026-07-23T14:21:00.000Z",
+      "link": "https://x.com/based_benji/status/2080297163935113255",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -4428,48 +4635,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HN1dmgJaQAA1ILL.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080265944853786969",
-      "username": "WeWill_Rocky",
-      "displayName": "Rocky AI✨",
-      "avatar": "https://pbs.twimg.com/profile_images/1940640303305674752/-W7btS_g_bigger.jpg",
-      "content": "每个熊市，都会带走几家交易所。\n\n只是没想到这一次，会轮到 BitMEX。\n\n受此影响，WSNB 也同步暂停更新，恢复时间将通过邮件通知。\n\n感谢魏神 @coolish 在充满噪音的市场里，始终坚持分享真实的实盘数据，感谢这 115,000 位精神股东的一路陪伴。\n\n有些告别，是为了下一次重逢🙏",
-      "contentHtml": "每个熊市，都会带走几家交易所。\n\n只是没想到这一次，会轮到 BitMEX。\n\n受此影响，WSNB 也同步暂停更新，恢复时间将通过邮件通知。\n\n感谢魏神 <a href=\"/coolish\" title=\"paulwei\">@coolish</a> 在充满噪音的市场里，始终坚持分享真实的实盘数据，感谢这 115,000 位精神股东的一路陪伴。\n\n有些告别，是为了下一次重逢🙏",
-      "publishedAt": "2026-07-23T12:17:00.000Z",
-      "link": "https://x.com/WeWill_Rocky/status/2080265944853786969",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN6Hb9BasAA43VW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN6INHmaYAE1BnL.png"
-        }
-      ],
-      "retweet": {
-        "username": "coolish",
-        "displayName": "paulwei"
-      },
-      "quote": {
-        "username": "BitMEX",
-        "displayName": "BitMEX",
-        "content": "Dear BitMEX Users,\n\nToday, we share with a very heavy heart that BitMEX exchange will shut down its operations, effective 23 September 2026 at 04:00:00 UTC.\n\nThe owner and operator of BitMEX, HDR Global Trading Limited, has made the difficult decision to close operations following a strategic review of the business.\n\nIt may not look the same today, but we are proud of our 11+ year legacy and the role we played in shaping the crypto industry. We invented the 100x leverage perpetual swap, which for most of you, was the first step to your crypto trading journey. It is now the most traded financial product in the crypto industry, adopted by thousands of users and exchanges. And we remain proud of our robust security infrastructure, which has allowed us to maintain a flawless track record of 0 customer funds lost to hacks in our entire operating history.\n\nWe want to reassure you that your assets remain fully safe and under your control during this transition period. This announcement is just to give enough time to ensure a smooth withdrawal process for everyone.\n\nFrom today we strongly encourage all users to close their positions and withdraw their funds as soon as convenient. For more details on the full process, please read our blog: bitmex.com/blog/bitmex-closu…\n\nBitMEX was once home to some of the greatest traders today. Our team has dedicated tremendous effort and passion into building the platform into what it is, and we are glad to have reached some of you during your time with us. To everyone who has traded, supported, and grown alongside us - thank you for your trust over the last 11 years.\n\nThe BitMEX Team",
-        "contentHtml": "Dear BitMEX Users,\n\nToday, we share with a very heavy heart that BitMEX exchange will shut down its operations, effective 23 September 2026 at 04:00:00 UTC.\n\nThe owner and operator of BitMEX, HDR Global Trading Limited, has made the difficult decision to close operations following a strategic review of the business.\n\nIt may not look the same today, but we are proud of our 11+ year legacy and the role we played in shaping the crypto industry. We invented the 100x leverage perpetual swap, which for most of you, was the first step to your crypto trading journey. It is now the most traded financial product in the crypto industry, adopted by thousands of users and exchanges. And we remain proud of our robust security infrastructure, which has allowed us to maintain a flawless track record of 0 customer funds lost to hacks in our entire operating history.\n\nWe want to reassure you that your assets remain fully safe and under your control during this transition period. This announcement is just to give enough time to ensure a smooth withdrawal process for everyone.\n\nFrom today we strongly encourage all users to close their positions and withdraw their funds as soon as convenient. For more details on the full process, please read our blog: <a href=\"https://www.bitmex.com/blog/bitmex-closure\">bitmex.com/blog/bitmex-closu…</a>\n\nBitMEX was once home to some of the greatest traders today. Our team has dedicated tremendous effort and passion into building the platform into what it is, and we are glad to have reached some of you during your time with us. To everyone who has traded, supported, and grown alongside us - thank you for your trust over the last 11 years.\n\nThe BitMEX Team",
-        "link": "https://x.com/BitMEX/status/2080201602456301580",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN5cUjGasAAlEMk.jpg"
           }
         ]
       },
@@ -11410,6 +11575,25 @@
       }
     },
     {
+      "id": "2078832788111798726",
+      "username": "AscendantPower",
+      "displayName": "Ascendant Power",
+      "avatar": "https://pbs.twimg.com/profile_images/1924806321343193088/O3s6lTHN_bigger.jpg",
+      "content": "People who are incapable of creating advanced civilizations are equally incapable of maintaining them.",
+      "contentHtml": "People who are incapable of creating advanced civilizations are equally incapable of maintaining them.",
+      "publishedAt": "2026-07-19T13:22:00.000Z",
+      "link": "https://x.com/AscendantPower/status/2078832788111798726",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2078825908107133414",
       "username": "0xSunNFT",
       "displayName": "0xSun",
@@ -11805,222 +11989,6 @@
       "contentHtml": "不...这只是一个梗啊，干嘛啊这是... \n\n我突然想起前几天刷到一个推，讲一个台湾女生很温柔，有人留言攻击她，她回复对方说\n\n“你是不是生活里遇到什么困难，我可以帮你”\n\n我觉得这个台湾女生好温柔。\n\n请问 sthezix 你家里是不是最近死了人，可以加我微信我给你发红包🫶",
       "publishedAt": "2026-07-19T09:11:00.000Z",
       "link": "https://x.com/taresky/status/2078769571411185770",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078742397744509098",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "英文社区最激进，曾经认为BTC将跌至3-4w美元的大空头，突然转向了。\n\n原因是，他认为当前市场多数人都在等待5w作为最佳入场时机，他将此称为“羊群效应”并认为市场不会兑现。\n\n所以他选择站在羊群的对立面。\n\n即从现在开始每天买入5%的现货仓位，这意味着20天后就会满仓梭哈。\n\n此前他在25年9月准确预判了牛市顶峰，并果断建立空头头寸。\n\n对此，他的粉丝不能接受，在评论区纷纷表达不满，甚至要求他对此前的言论，导致大家错失6w以下抄底时机而负全责。\n\n所以说，羊，无论经历多少轮周期都只能是羊，永远成为不了头狼。",
-      "contentHtml": "英文社区最激进，曾经认为BTC将跌至3-4w美元的大空头，突然转向了。\n\n原因是，他认为当前市场多数人都在等待5w作为最佳入场时机，他将此称为“羊群效应”并认为市场不会兑现。\n\n所以他选择站在羊群的对立面。\n\n即从现在开始每天买入5%的现货仓位，这意味着20天后就会满仓梭哈。\n\n此前他在25年9月准确预判了牛市顶峰，并果断建立空头头寸。\n\n对此，他的粉丝不能接受，在评论区纷纷表达不满，甚至要求他对此前的言论，导致大家错失6w以下抄底时机而负全责。\n\n所以说，羊，无论经历多少轮周期都只能是羊，永远成为不了头狼。",
-      "publishedAt": "2026-07-19T07:23:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2078742397744509098",
-      "quote": {
-        "username": "DrProfitCrypto",
-        "displayName": "Doctor Profit 🇨🇭",
-        "content": "$BTC: Report of the Century:\n\nToday I am making one of the biggest announcements since I sold the top in September 2025. I am taking profit on every single crypto short. The Bitcoin short built between $115,000 and $125,000 is closed now with a gigantic gain. The $80,500 short, built between $79,000 and $82,000, is closed with another massive profit. The 100+ altcoin shorts I opened over the last several months are also closed, locking in another enormous win on top. The time of drinking tea is over. Congratulations to everyone who ignored the noise, trusted the framework and followed me from September 2025 until today.\n\nBuying Bitcoin Spot:\n\nFor the first time since September 2025, I am buying Bitcoin spot again. Today, I entered at $64,000 for the absolute long term. For the first time since 9 Months I am buying Bitcoin for the long term! It is the beginning of a structured accumulation strategy, and I will execute it with the same discipline that allowed me to sell the top.\n\nThe Accumulation Strategy\n\nEveryone who followed my strategy at $115,000–$125,000 remembers exactly how it worked. Every day Bitcoin traded inside that zone, I sold 10% of my spot position and added shorts. I did not care whether BTC was at $116,000, $120,000 or $124,000. Now I am doing the exact same thing in reverse. Every day Bitcoin remains between $54,000 and $64,000, I will buy 5% of my allocated capital in spot Bitcoin. Not 10% this time, but 5%, because I want to spread the accumulation across a wider period! If Bitcoin stays at $62,000, I buy. If it falls to $58,000, I buy. If it drops to $56,000, I buy. If it wicks into $54,000, I become more aggressive. If it returns to $64,000, I still buy. As long as Bitcoin remains inside this zone of 54-64k I am buying every day with 5% of my entire capital limited to 20 days.\n\nThe Technical Zone and Sentiment Shift\n\nThe legendary weekly MA200 sits in this region and is now being tested from below. Bitcoin already reached the lower section of this area last week. The top of the 2024 consolidation box also aligns with it. More importantly, sentiment has completely flipped. And I need to say, there are more bears, much more bears than bulls outside, and I dislike being one of many. The same people who were screaming for $150,000 at the top are now desperately waiting for $40,000. X is flooded with targets of $50,000, $45,000, $42,000 and $38,000. Retail is once again standing on one side of the boat, convinced the market owes them the perfect entry.\n\nFront-Running the Herd\n\nSince I announced the 50-40k region as my deeper bear-market target, most of crypto X has copied the same narrative. They copied everything, The market is not blind. The market knows retail is sitting in cash waiting below $50,000. They know people are terrified to buy at $64,000 because they have convinced themselves they will receive Bitcoin at $40,000. I am not going to stand behind the herd and beg the market for the same price as everyone else. I am front-running them. And the next that is following is also going to increase the price and so on, and the chain will be continued and those who are waiting for lower can stay there waiting forever.\n\nJust because the four-year cycle worked at the top does not mean it will work at the bottom. Right now, everyone is waiting for September or October as if the market has already programmed the bottom into the calendar. Do you understand how insane that is? Ask anyone when they plan to buy and they will tell you September or October. Ask them why and they will repeat the same answer: because of the four-year cycle. That is the 1+1 herd behavior. What if the real cycle is not exactly four years? What if it is three years and nine or ten months? What if the market bottoms before the date the entire crowd is waiting for? Bulls are waiting, bears are waiting, and everyone is using the same indicator to justify the same timing. That alone shold cause panic to all waiting for the 4 years cycle to happen. Markets do not reward the masses for memorizing a calendar. I am betting against the four-year-cycle bottom. It is not happening. The bottom comes earlier.\n\nThe Structural Shift Around Bitcoin\n\nThe deeper reason for the change is not technical. It is structural. The environment around Bitcoin is shifting at a speed most people still do not understand. Regulatory clarity, tokenization infrastructure and institutional adoption are all moving forward at the same time, and the legal framework being built right now has the potential to unlock trillions of dollars of institutional capital that has been sitting on the sidelines or parked in the stock market waiting for certainty. Combine that with Coinbase's institutional buildout and BlackRock's fully operational ETF ecosystem, and we are no longer looking at the same Bitcoin market that existed six months ago. The CLARITY Act could go through on August 10 depending on the Senate, and that is not a small event. There is a reason the entire world is now racing to regulate crypto with full speed.\n\nBlackRock, Vanguard, JPMorgan, Goldman Sachs and the New York Stock Exchange are already inside the DTCC live tokenization pilot. Microsoft shares, SPY, QQQ and US Treasuries are being tested as tokenized securities right now, with the official launch planned for October. Stocks, ETFs and Treasuries are moving on-chain, and the largest institutions in the world are adopting blockchain rails while retail is still debating whether the bear market is over. On top of that, Citadel just invested $400 million directly into Crypto.com at a $20 billion valuation. The biggest players are deploying capital now, at scale, before the crowd understands what is happening. The infrastructure is being built directly in front of everyone, and I move my capital when the biggest capital in the world starts moving, not after\n\nIn Regards of the Stock Market Crash:\n\nI am keeping every single SP500 short open. Bitcoin and the stock market are not the same trade, and they are not at the same point in their cycle. The crypto bear market began in October 2025 and continued for nine months while the stock market refused to fall. Bitcoin dropped 52% from 125k to 60k. In the same window the SP500 made new all-time highs. Crypto has already been repriced while stocks remain over valued. Therefore there is a very high probability that the Crypto Market will benefit from a Stock Market crash, as profits will move from over valued assets into under valued assets, and in times of Tokenization Hype, Stablecoin talk and the Clarity Act, these funds will very likely move into the Crypto Market.\n\nOne More Thing: I called 40-50k as the target and I was clear about it, I called 60k when Bitcoin was at 120k, and at 60k I said 40-50k is coming, But when the entire crowd on X starts waiting for the exact same level, the market almost never delivers it. Six months ago nobody was calling for sub-50k. Today every single account is. That is exactly when the target gets taken off the table. I now believe we will not see 40-50k at all this cycle. The setup that would have delivered that level is dissolving in front of the tokenization revolution, the CLARITY Act, and the biggest capital in the world moving in. Changing my view when the facts change is what a good trader should do. It is exactly why I made massive profits shorting from 120k, and it is why I am accumulating now while others are still waiting for a bottom that will not come the way they want it.\n\nThat is why I am buying now. The crowd has become aggressively bearish and the conditions required for a much deeper collapse are beginning to weaken in front of the regulatory and tokenization revolution. I would rather begin building a position before the crowd understands the shift than chase Bitcoin after confirmation at much higher prices. Buy earlier before the mass starts to understand.",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>: Report of the Century:\n\nToday I am making one of the biggest announcements since I sold the top in September 2025. I am taking profit on every single crypto short. The Bitcoin short built between $115,000 and $125,000 is closed now with a gigantic gain. The $80,500 short, built between $79,000 and $82,000, is closed with another massive profit. The 100+ altcoin shorts I opened over the last several months are also closed, locking in another enormous win on top. The time of drinking tea is over. Congratulations to everyone who ignored the noise, trusted the framework and followed me from September 2025 until today.\n\nBuying Bitcoin Spot:\n\nFor the first time since September 2025, I am buying Bitcoin spot again. Today, I entered at $64,000 for the absolute long term. For the first time since 9 Months I am buying Bitcoin for the long term! It is the beginning of a structured accumulation strategy, and I will execute it with the same discipline that allowed me to sell the top.\n\nThe Accumulation Strategy\n\nEveryone who followed my strategy at $115,000–$125,000 remembers exactly how it worked. Every day Bitcoin traded inside that zone, I sold 10% of my spot position and added shorts. I did not care whether BTC was at $116,000, $120,000 or $124,000. Now I am doing the exact same thing in reverse. Every day Bitcoin remains between $54,000 and $64,000, I will buy 5% of my allocated capital in spot Bitcoin. Not 10% this time, but 5%, because I want to spread the accumulation across a wider period! If Bitcoin stays at $62,000, I buy. If it falls to $58,000, I buy. If it drops to $56,000, I buy. If it wicks into $54,000, I become more aggressive. If it returns to $64,000, I still buy. As long as Bitcoin remains inside this zone of 54-64k I am buying every day with 5% of my entire capital limited to 20 days.\n\nThe Technical Zone and Sentiment Shift\n\nThe legendary weekly MA200 sits in this region and is now being tested from below. Bitcoin already reached the lower section of this area last week. The top of the 2024 consolidation box also aligns with it. More importantly, sentiment has completely flipped. And I need to say, there are more bears, much more bears than bulls outside, and I dislike being one of many. The same people who were screaming for $150,000 at the top are now desperately waiting for $40,000. X is flooded with targets of $50,000, $45,000, $42,000 and $38,000. Retail is once again standing on one side of the boat, convinced the market owes them the perfect entry.\n\nFront-Running the Herd\n\nSince I announced the 50-40k region as my deeper bear-market target, most of crypto X has copied the same narrative. They copied everything, The market is not blind. The market knows retail is sitting in cash waiting below $50,000. They know people are terrified to buy at $64,000 because they have convinced themselves they will receive Bitcoin at $40,000. I am not going to stand behind the herd and beg the market for the same price as everyone else. I am front-running them. And the next that is following is also going to increase the price and so on, and the chain will be continued and those who are waiting for lower can stay there waiting forever.\n\nJust because the four-year cycle worked at the top does not mean it will work at the bottom. Right now, everyone is waiting for September or October as if the market has already programmed the bottom into the calendar. Do you understand how insane that is? Ask anyone when they plan to buy and they will tell you September or October. Ask them why and they will repeat the same answer: because of the four-year cycle. That is the 1+1 herd behavior. What if the real cycle is not exactly four years? What if it is three years and nine or ten months? What if the market bottoms before the date the entire crowd is waiting for? Bulls are waiting, bears are waiting, and everyone is using the same indicator to justify the same timing. That alone shold cause panic to all waiting for the 4 years cycle to happen. Markets do not reward the masses for memorizing a calendar. I am betting against the four-year-cycle bottom. It is not happening. The bottom comes earlier.\n\nThe Structural Shift Around Bitcoin\n\nThe deeper reason for the change is not technical. It is structural. The environment around Bitcoin is shifting at a speed most people still do not understand. Regulatory clarity, tokenization infrastructure and institutional adoption are all moving forward at the same time, and the legal framework being built right now has the potential to unlock trillions of dollars of institutional capital that has been sitting on the sidelines or parked in the stock market waiting for certainty. Combine that with Coinbase's institutional buildout and BlackRock's fully operational ETF ecosystem, and we are no longer looking at the same Bitcoin market that existed six months ago. The CLARITY Act could go through on August 10 depending on the Senate, and that is not a small event. There is a reason the entire world is now racing to regulate crypto with full speed.\n\nBlackRock, Vanguard, JPMorgan, Goldman Sachs and the New York Stock Exchange are already inside the DTCC live tokenization pilot. Microsoft shares, SPY, QQQ and US Treasuries are being tested as tokenized securities right now, with the official launch planned for October. Stocks, ETFs and Treasuries are moving on-chain, and the largest institutions in the world are adopting blockchain rails while retail is still debating whether the bear market is over. On top of that, Citadel just invested $400 million directly into <a href=\"http://Crypto.com\">Crypto.com</a> at a $20 billion valuation. The biggest players are deploying capital now, at scale, before the crowd understands what is happening. The infrastructure is being built directly in front of everyone, and I move my capital when the biggest capital in the world starts moving, not after\n\nIn Regards of the Stock Market Crash:\n\nI am keeping every single SP500 short open. Bitcoin and the stock market are not the same trade, and they are not at the same point in their cycle. The crypto bear market began in October 2025 and continued for nine months while the stock market refused to fall. Bitcoin dropped 52% from 125k to 60k. In the same window the SP500 made new all-time highs. Crypto has already been repriced while stocks remain over valued. Therefore there is a very high probability that the Crypto Market will benefit from a Stock Market crash, as profits will move from over valued assets into under valued assets, and in times of Tokenization Hype, Stablecoin talk and the Clarity Act, these funds will very likely move into the Crypto Market.\n\nOne More Thing: I called 40-50k as the target and I was clear about it, I called 60k when Bitcoin was at 120k, and at 60k I said 40-50k is coming, But when the entire crowd on X starts waiting for the exact same level, the market almost never delivers it. Six months ago nobody was calling for sub-50k. Today every single account is. That is exactly when the target gets taken off the table. I now believe we will not see 40-50k at all this cycle. The setup that would have delivered that level is dissolving in front of the tokenization revolution, the CLARITY Act, and the biggest capital in the world moving in. Changing my view when the facts change is what a good trader should do. It is exactly why I made massive profits shorting from 120k, and it is why I am accumulating now while others are still waiting for a bottom that will not come the way they want it.\n\nThat is why I am buying now. The crowd has become aggressively bearish and the conditions required for a much deeper collapse are beginning to weaken in front of the regulatory and tokenization revolution. I would rather begin building a position before the crowd understands the shift than chase Bitcoin after confirmation at much higher prices. Buy earlier before the mass starts to understand.",
-        "link": "https://x.com/DrProfitCrypto/status/2078530408724201641",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNhsYUrXcAAevsZ.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078738949590401030",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "韩国兄弟真的杀完杠杆又上车\n\n非常敢买",
-      "contentHtml": "韩国兄弟真的杀完杠杆又上车\n\n非常敢买",
-      "publishedAt": "2026-07-19T07:09:00.000Z",
-      "link": "https://x.com/octopusycc/status/2078738949590401030",
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "",
-        "link": "https://x.com/qinbafrank/status/2078653102715289992"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078731962009964983",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI \n\n火山/豆包的 API 产品，什么时候请一个大专以上的产品经理，全球份额应该可以大幅提升。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n火山/豆包的 API 产品，什么时候请一个大专以上的产品经理，全球份额应该可以大幅提升。",
-      "publishedAt": "2026-07-19T06:41:00.000Z",
-      "link": "https://x.com/taresky/status/2078731962009964983",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078721308351955407",
-      "username": "DoveyWanCN",
-      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
-      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
-      "content": "欧洲已经基本败了, 然后整段话把欧洲换成美国, 就是现在MAGA的思路, 人类的本质还是复读机 (来自海德格尔的演讲 《欧洲与德国哲学》（Europa und die deutsche Philosophie)",
-      "contentHtml": "欧洲已经基本败了, 然后整段话把欧洲换成美国, 就是现在MAGA的思路, 人类的本质还是复读机 (来自海德格尔的演讲 《欧洲与德国哲学》（Europa und die deutsche Philosophie)",
-      "publishedAt": "2026-07-19T05:59:00.000Z",
-      "link": "https://x.com/DoveyWanCN/status/2078721308351955407",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNkZsrHbIAAb64i.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078707677585363228",
-      "username": "0xCryptoChan",
-      "displayName": "CryptoChan",
-      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
-      "content": "【 bitcoin:native 四年周期总刻系列（42-1）】\n\n🔵 22年06月币价跌至 $17.6k，浮盈BTC占 49.5%\n🔵 26年02月币价跌至 $60.5k，浮盈BTC占 50.3%\n\n🔴 22年11月币价跌至 $15.5k，浮盈BTC占 45.2%\n🔴 26年06月币价跌至 $57.8k，浮盈BTC占 46.0%\n\n值得一提的是:\n\n📌 2022年两低点跨度 144天\n📌 2026年两低点跨度 145天",
-      "contentHtml": "【 bitcoin:native 四年周期总刻系列（42-1）】\n\n🔵 22年06月币价跌至 $17.6k，浮盈BTC占 49.5%\n🔵 26年02月币价跌至 $60.5k，浮盈BTC占 50.3%\n\n🔴 22年11月币价跌至 $15.5k，浮盈BTC占 45.2%\n🔴 26年06月币价跌至 $57.8k，浮盈BTC占 46.0%\n\n值得一提的是:\n\n📌 2022年两低点跨度 144天\n📌 2026年两低点跨度 145天",
-      "publishedAt": "2026-07-19T05:05:00.000Z",
-      "link": "https://x.com/0xCryptoChan/status/2078707677585363228",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNkLKp-aAAAMslu.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xCryptoChan",
-        "displayName": "CryptoChan",
-        "content": "【 bitcoin:native 四年周期总刻系列（41）】\n\n历史上，“持币6-12个月的筹码平均购买成本”一旦小于“持币12-18个月的筹码平均购买成本”，往往真熊底已现\n\n当前，已小于",
-        "contentHtml": "【 bitcoin:native 四年周期总刻系列（41）】\n\n历史上，“持币6-12个月的筹码平均购买成本”一旦小于“持币12-18个月的筹码平均购买成本”，往往真熊底已现\n\n当前，已小于",
-        "link": "https://x.com/0xCryptoChan/status/2078351182444261486",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNfH8lrbAAA15Zt.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078671691132330179",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "如何用概率和动态系统，\n而不是故事和情绪，去理解市场。\n\n市场不是一个等待被预测的答案，\n而是一个持续演化的复杂系统；\n交易者的任务不是猜测未来，\n而是在每一次状态变化中，\n寻找能够长期重复、具有正期望值的概率优势。",
-      "contentHtml": "如何用概率和动态系统，\n而不是故事和情绪，去理解市场。\n\n市场不是一个等待被预测的答案，\n而是一个持续演化的复杂系统；\n交易者的任务不是猜测未来，\n而是在每一次状态变化中，\n寻找能够长期重复、具有正期望值的概率优势。",
-      "publishedAt": "2026-07-19T02:42:00.000Z",
-      "link": "https://x.com/hazenlee/status/2078671691132330179",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078538520910528806",
-      "username": "DrProfitCrypto",
-      "displayName": "Doctor Profit 🇨🇭",
-      "avatar": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_bigger.jpg",
-      "content": "#Altcoins - Taking profit on 83 positions:\n\n- 83 Positions closed in profit\n- 13 Positions closed in loss\n- 4 Positions Liquidated\n\nTaking Profit on the entire Altcoin shorts",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Altcoins\">#Altcoins</a> - Taking profit on 83 positions:\n\n- 83 Positions closed in profit\n- 13 Positions closed in loss\n- 4 Positions Liquidated\n\nTaking Profit on the entire Altcoin shorts",
-      "publishedAt": "2026-07-18T17:52:00.000Z",
-      "link": "https://x.com/DrProfitCrypto/status/2078538520910528806",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNhzk9ZWsAANw22.png"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNhzk9iWAAELK8g.png"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNhzk9zXIAAB4pV.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNhzk9hW4AAHcEU.jpg"
-        }
-      ],
-      "quote": {
-        "username": "DrProfitCrypto",
-        "displayName": "Doctor Profit 🇨🇭",
-        "content": "My big bet on Altcoins:\n\nOn top of my existing Bitcoin short from $120k and my ongoing SPX short, I'm now betting on the biggest hill of garbage the market has ever seen, even worse than during the dot com bubble and the garbage of the penny stocks. I'm shorting 100 altcoins simultaneously, 100 isolated short positions, $10,000 each, 1x leverage, total exposure of one million dollars. The exact altcoin names, and entries have been shared in the premium membership and are exclusive only. Isolated margin is the entire point: if any single coin pumps 100% and liquidates me, I lose $10k on that position and nothing else. The other 99 keep working.\n\nOpen any altcoin on the weekly, any of them and you're looking at the same chart: a multi-year bear market, price action back at levels we haven't seen since 2020, and a hill of garbage that continues to grow. Roughly 90% of this market is in a relentless, structural downtrend, and I cannot name a single catalyst that reverses it, not even all those X influencers who have been shilling this garbage for ages to you!\n\nAt 1x leverage, my max gain on any single short is 99%. My realistic expectation is a further 50% drop, which is  on a $10k short: $5,000 in my pocket. Apply that across 100 positions and you're looking at roughly $500,000 in profit, against a theoretical max loss that would only materialize if EVERY SINGLE OF THE 100 altcoin, pumped 100% in total!\n\nAnd for anyone who watched my prediction of October 10th, 2025 unfold, the cascade that took most altcoins down 50 to 80% in a single session, understand what you actually saw. That was the final liquidity grab. A major market maker pulling the plug and walking away from this market for good. What's left behind is thousands of bleeding bags with nothing underneath them but trapped liquidity and retail hopium. I'm not guessing at what these coins are. I know exactly what I'm shorting: garbage. And the beautiful thing about garbage is it always ends up in the same place. This is the penny-stock playbook, except this time the opportunity set isn't in the dozens, it's in the thousands of ten thousands of fully retarded, liquidity filled altcoins that are ready to get milked! And I'm already milking it.\n\nJoin Premium: whop.com/joined/drprofit-tra…",
-        "contentHtml": "My big bet on Altcoins:\n\nOn top of my existing Bitcoin short from $120k and my ongoing SPX short, I'm now betting on the biggest hill of garbage the market has ever seen, even worse than during the dot com bubble and the garbage of the penny stocks. I'm shorting 100 altcoins simultaneously, 100 isolated short positions, $10,000 each, 1x leverage, total exposure of one million dollars. The exact altcoin names, and entries have been shared in the premium membership and are exclusive only. Isolated margin is the entire point: if any single coin pumps 100% and liquidates me, I lose $10k on that position and nothing else. The other 99 keep working.\n\nOpen any altcoin on the weekly, any of them and you're looking at the same chart: a multi-year bear market, price action back at levels we haven't seen since 2020, and a hill of garbage that continues to grow. Roughly 90% of this market is in a relentless, structural downtrend, and I cannot name a single catalyst that reverses it, not even all those X influencers who have been shilling this garbage for ages to you!\n\nAt 1x leverage, my max gain on any single short is 99%. My realistic expectation is a further 50% drop, which is  on a $10k short: $5,000 in my pocket. Apply that across 100 positions and you're looking at roughly $500,000 in profit, against a theoretical max loss that would only materialize if EVERY SINGLE OF THE 100 altcoin, pumped 100% in total!\n\nAnd for anyone who watched my prediction of October 10th, 2025 unfold, the cascade that took most altcoins down 50 to 80% in a single session, understand what you actually saw. That was the final liquidity grab. A major market maker pulling the plug and walking away from this market for good. What's left behind is thousands of bleeding bags with nothing underneath them but trapped liquidity and retail hopium. I'm not guessing at what these coins are. I know exactly what I'm shorting: garbage. And the beautiful thing about garbage is it always ends up in the same place. This is the penny-stock playbook, except this time the opportunity set isn't in the dozens, it's in the thousands of ten thousands of fully retarded, liquidity filled altcoins that are ready to get milked! And I'm already milking it.\n\nJoin Premium: <a href=\"https://whop.com/joined/drprofit-trading/\">whop.com/joined/drprofit-tra…</a>",
-        "link": "https://x.com/DrProfitCrypto/status/2046327413349728354",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HGYD7LMbAAAS6Ex.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078530408724201641",
-      "username": "DrProfitCrypto",
-      "displayName": "Doctor Profit 🇨🇭",
-      "avatar": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_bigger.jpg",
-      "content": "$BTC: Report of the Century:\n\nToday I am making one of the biggest announcements since I sold the top in September 2025. I am taking profit on every single crypto short. The Bitcoin short built between $115,000 and $125,000 is closed now with a gigantic gain. The $80,500 short, built between $79,000 and $82,000, is closed with another massive profit. The 100+ altcoin shorts I opened over the last several months are also closed, locking in another enormous win on top. The time of drinking tea is over. Congratulations to everyone who ignored the noise, trusted the framework and followed me from September 2025 until today.\n\nBuying Bitcoin Spot:\n\nFor the first time since September 2025, I am buying Bitcoin spot again. Today, I entered at $64,000 for the absolute long term. For the first time since 9 Months I am buying Bitcoin for the long term! It is the beginning of a structured accumulation strategy, and I will execute it with the same discipline that allowed me to sell the top.\n\nThe Accumulation Strategy\n\nEveryone who followed my strategy at $115,000–$125,000 remembers exactly how it worked. Every day Bitcoin traded inside that zone, I sold 10% of my spot position and added shorts. I did not care whether BTC was at $116,000, $120,000 or $124,000. Now I am doing the exact same thing in reverse. Every day Bitcoin remains between $54,000 and $64,000, I will buy 5% of my allocated capital in spot Bitcoin. Not 10% this time, but 5%, because I want to spread the accumulation across a wider period! If Bitcoin stays at $62,000, I buy. If it falls to $58,000, I buy. If it drops to $56,000, I buy. If it wicks into $54,000, I become more aggressive. If it returns to $64,000, I still buy. As long as Bitcoin remains inside this zone of 54-64k I am buying every day with 5% of my entire capital limited to 20 days.\n\nThe Technical Zone and Sentiment Shift\n\nThe legendary weekly MA200 sits in this region and is now being tested from below. Bitcoin already reached the lower section of this area last week. The top of the 2024 consolidation box also aligns with it. More importantly, sentiment has completely flipped. And I need to say, there are more bears, much more bears than bulls outside, and I dislike being one of many. The same people who were screaming for $150,000 at the top are now desperately waiting for $40,000. X is flooded with targets of $50,000, $45,000, $42,000 and $38,000. Retail is once again standing on one side of the boat, convinced the market owes them the perfect entry.\n\nFront-Running the Herd\n\nSince I announced the 50-40k region as my deeper bear-market target, most of crypto X has copied the same narrative. They copied everything, The market is not blind. The market knows retail is sitting in cash waiting below $50,000. They know people are terrified to buy at $64,000 because they have convinced themselves they will receive Bitcoin at $40,000. I am not going to stand behind the herd and beg the market for the same price as everyone else. I am front-running them. And the next that is following is also going to increase the price and so on, and the chain will be continued and those who are waiting for lower can stay there waiting forever.\n\nJust because the four-year cycle worked at the top does not mean it will work at the bottom. Right now, everyone is waiting for September or October as if the market has already programmed the bottom into the calendar. Do you understand how insane that is? Ask anyone when they plan to buy and they will tell you September or October. Ask them why and they will repeat the same answer: because of the four-year cycle. That is the 1+1 herd behavior. What if the real cycle is not exactly four years? What if it is three years and nine or ten months? What if the market bottoms before the date the entire crowd is waiting for? Bulls are waiting, bears are waiting, and everyone is using the same indicator to justify the same timing. That alone shold cause panic to all waiting for the 4 years cycle to happen. Markets do not reward the masses for memorizing a calendar. I am betting against the four-year-cycle bottom. It is not happening. The bottom comes earlier.\n\nThe Structural Shift Around Bitcoin\n\nThe deeper reason for the change is not technical. It is structural. The environment around Bitcoin is shifting at a speed most people still do not understand. Regulatory clarity, tokenization infrastructure and institutional adoption are all moving forward at the same time, and the legal framework being built right now has the potential to unlock trillions of dollars of institutional capital that has been sitting on the sidelines or parked in the stock market waiting for certainty. Combine that with Coinbase's institutional buildout and BlackRock's fully operational ETF ecosystem, and we are no longer looking at the same Bitcoin market that existed six months ago. The CLARITY Act could go through on August 10 depending on the Senate, and that is not a small event. There is a reason the entire world is now racing to regulate crypto with full speed.\n\nBlackRock, Vanguard, JPMorgan, Goldman Sachs and the New York Stock Exchange are already inside the DTCC live tokenization pilot. Microsoft shares, SPY, QQQ and US Treasuries are being tested as tokenized securities right now, with the official launch planned for October. Stocks, ETFs and Treasuries are moving on-chain, and the largest institutions in the world are adopting blockchain rails while retail is still debating whether the bear market is over. On top of that, Citadel just invested $400 million directly into Crypto.com at a $20 billion valuation. The biggest players are deploying capital now, at scale, before the crowd understands what is happening. The infrastructure is being built directly in front of everyone, and I move my capital when the biggest capital in the world starts moving, not after\n\nIn Regards of the Stock Market Crash:\n\nI am keeping every single SP500 short open. Bitcoin and the stock market are not the same trade, and they are not at the same point in their cycle. The crypto bear market began in October 2025 and continued for nine months while the stock market refused to fall. Bitcoin dropped 52% from 125k to 60k. In the same window the SP500 made new all-time highs. Crypto has already been repriced while stocks remain over valued. Therefore there is a very high probability that the Crypto Market will benefit from a Stock Market crash, as profits will move from over valued assets into under valued assets, and in times of Tokenization Hype, Stablecoin talk and the Clarity Act, these funds will very likely move into the Crypto Market.\n\nOne More Thing: I called 40-50k as the target and I was clear about it, I called 60k when Bitcoin was at 120k, and at 60k I said 40-50k is coming, But when the entire crowd on X starts waiting for the exact same level, the market almost never delivers it. Six months ago nobody was calling for sub-50k. Today every single account is. That is exactly when the target gets taken off the table. I now believe we will not see 40-50k at all this cycle. The setup that would have delivered that level is dissolving in front of the tokenization revolution, the CLARITY Act, and the biggest capital in the world moving in. Changing my view when the facts change is what a good trader should do. It is exactly why I made massive profits shorting from 120k, and it is why I am accumulating now while others are still waiting for a bottom that will not come the way they want it.\n\nThat is why I am buying now. The crowd has become aggressively bearish and the conditions required for a much deeper collapse are beginning to weaken in front of the regulatory and tokenization revolution. I would rather begin building a position before the crowd understands the shift than chase Bitcoin after confirmation at much higher prices. Buy earlier before the mass starts to understand.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>: Report of the Century:\n\nToday I am making one of the biggest announcements since I sold the top in September 2025. I am taking profit on every single crypto short. The Bitcoin short built between $115,000 and $125,000 is closed now with a gigantic gain. The $80,500 short, built between $79,000 and $82,000, is closed with another massive profit. The 100+ altcoin shorts I opened over the last several months are also closed, locking in another enormous win on top. The time of drinking tea is over. Congratulations to everyone who ignored the noise, trusted the framework and followed me from September 2025 until today.\n\nBuying Bitcoin Spot:\n\nFor the first time since September 2025, I am buying Bitcoin spot again. Today, I entered at $64,000 for the absolute long term. For the first time since 9 Months I am buying Bitcoin for the long term! It is the beginning of a structured accumulation strategy, and I will execute it with the same discipline that allowed me to sell the top.\n\nThe Accumulation Strategy\n\nEveryone who followed my strategy at $115,000–$125,000 remembers exactly how it worked. Every day Bitcoin traded inside that zone, I sold 10% of my spot position and added shorts. I did not care whether BTC was at $116,000, $120,000 or $124,000. Now I am doing the exact same thing in reverse. Every day Bitcoin remains between $54,000 and $64,000, I will buy 5% of my allocated capital in spot Bitcoin. Not 10% this time, but 5%, because I want to spread the accumulation across a wider period! If Bitcoin stays at $62,000, I buy. If it falls to $58,000, I buy. If it drops to $56,000, I buy. If it wicks into $54,000, I become more aggressive. If it returns to $64,000, I still buy. As long as Bitcoin remains inside this zone of 54-64k I am buying every day with 5% of my entire capital limited to 20 days.\n\nThe Technical Zone and Sentiment Shift\n\nThe legendary weekly MA200 sits in this region and is now being tested from below. Bitcoin already reached the lower section of this area last week. The top of the 2024 consolidation box also aligns with it. More importantly, sentiment has completely flipped. And I need to say, there are more bears, much more bears than bulls outside, and I dislike being one of many. The same people who were screaming for $150,000 at the top are now desperately waiting for $40,000. X is flooded with targets of $50,000, $45,000, $42,000 and $38,000. Retail is once again standing on one side of the boat, convinced the market owes them the perfect entry.\n\nFront-Running the Herd\n\nSince I announced the 50-40k region as my deeper bear-market target, most of crypto X has copied the same narrative. They copied everything, The market is not blind. The market knows retail is sitting in cash waiting below $50,000. They know people are terrified to buy at $64,000 because they have convinced themselves they will receive Bitcoin at $40,000. I am not going to stand behind the herd and beg the market for the same price as everyone else. I am front-running them. And the next that is following is also going to increase the price and so on, and the chain will be continued and those who are waiting for lower can stay there waiting forever.\n\nJust because the four-year cycle worked at the top does not mean it will work at the bottom. Right now, everyone is waiting for September or October as if the market has already programmed the bottom into the calendar. Do you understand how insane that is? Ask anyone when they plan to buy and they will tell you September or October. Ask them why and they will repeat the same answer: because of the four-year cycle. That is the 1+1 herd behavior. What if the real cycle is not exactly four years? What if it is three years and nine or ten months? What if the market bottoms before the date the entire crowd is waiting for? Bulls are waiting, bears are waiting, and everyone is using the same indicator to justify the same timing. That alone shold cause panic to all waiting for the 4 years cycle to happen. Markets do not reward the masses for memorizing a calendar. I am betting against the four-year-cycle bottom. It is not happening. The bottom comes earlier.\n\nThe Structural Shift Around Bitcoin\n\nThe deeper reason for the change is not technical. It is structural. The environment around Bitcoin is shifting at a speed most people still do not understand. Regulatory clarity, tokenization infrastructure and institutional adoption are all moving forward at the same time, and the legal framework being built right now has the potential to unlock trillions of dollars of institutional capital that has been sitting on the sidelines or parked in the stock market waiting for certainty. Combine that with Coinbase's institutional buildout and BlackRock's fully operational ETF ecosystem, and we are no longer looking at the same Bitcoin market that existed six months ago. The CLARITY Act could go through on August 10 depending on the Senate, and that is not a small event. There is a reason the entire world is now racing to regulate crypto with full speed.\n\nBlackRock, Vanguard, JPMorgan, Goldman Sachs and the New York Stock Exchange are already inside the DTCC live tokenization pilot. Microsoft shares, SPY, QQQ and US Treasuries are being tested as tokenized securities right now, with the official launch planned for October. Stocks, ETFs and Treasuries are moving on-chain, and the largest institutions in the world are adopting blockchain rails while retail is still debating whether the bear market is over. On top of that, Citadel just invested $400 million directly into <a href=\"http://Crypto.com\">Crypto.com</a> at a $20 billion valuation. The biggest players are deploying capital now, at scale, before the crowd understands what is happening. The infrastructure is being built directly in front of everyone, and I move my capital when the biggest capital in the world starts moving, not after\n\nIn Regards of the Stock Market Crash:\n\nI am keeping every single SP500 short open. Bitcoin and the stock market are not the same trade, and they are not at the same point in their cycle. The crypto bear market began in October 2025 and continued for nine months while the stock market refused to fall. Bitcoin dropped 52% from 125k to 60k. In the same window the SP500 made new all-time highs. Crypto has already been repriced while stocks remain over valued. Therefore there is a very high probability that the Crypto Market will benefit from a Stock Market crash, as profits will move from over valued assets into under valued assets, and in times of Tokenization Hype, Stablecoin talk and the Clarity Act, these funds will very likely move into the Crypto Market.\n\nOne More Thing: I called 40-50k as the target and I was clear about it, I called 60k when Bitcoin was at 120k, and at 60k I said 40-50k is coming, But when the entire crowd on X starts waiting for the exact same level, the market almost never delivers it. Six months ago nobody was calling for sub-50k. Today every single account is. That is exactly when the target gets taken off the table. I now believe we will not see 40-50k at all this cycle. The setup that would have delivered that level is dissolving in front of the tokenization revolution, the CLARITY Act, and the biggest capital in the world moving in. Changing my view when the facts change is what a good trader should do. It is exactly why I made massive profits shorting from 120k, and it is why I am accumulating now while others are still waiting for a bottom that will not come the way they want it.\n\nThat is why I am buying now. The crowd has become aggressively bearish and the conditions required for a much deeper collapse are beginning to weaken in front of the regulatory and tokenization revolution. I would rather begin building a position before the crowd understands the shift than chase Bitcoin after confirmation at much higher prices. Buy earlier before the mass starts to understand.",
-      "publishedAt": "2026-07-18T17:20:00.000Z",
-      "link": "https://x.com/DrProfitCrypto/status/2078530408724201641",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HNhsYUrXcAAevsZ.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2078498100097020329",
-      "username": "DrProfitCrypto",
-      "displayName": "Doctor Profit 🇨🇭",
-      "avatar": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_bigger.jpg",
-      "content": "Extremely Important post coming soon\n\nSomething everyone waited for..",
-      "contentHtml": "Extremely Important post coming soon\n\nSomething everyone waited for..",
-      "publishedAt": "2026-07-18T15:12:00.000Z",
-      "link": "https://x.com/DrProfitCrypto/status/2078498100097020329",
       "stats": {
         "replies": 0,
         "retweets": 0,
