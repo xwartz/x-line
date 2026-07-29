@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T13:39:10.187Z",
+  "lastUpdated": "2026-07-29T14:50:58.098Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,303 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 641,
+    "newFetched": 642,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2082478571910504855",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "你敢想象体感熊市的市场，软件异常坚挺吗？故事线都是建立在仓位上面。估值合理/低，故事线总会轮动到你头上，上半年软件的情绪面可不比现在的芯片好哪去，甚至更差",
+      "contentHtml": "你敢想象体感熊市的市场，软件异常坚挺吗？故事线都是建立在仓位上面。估值合理/低，故事线总会轮动到你头上，上半年软件的情绪面可不比现在的芯片好哪去，甚至更差",
+      "publishedAt": "2026-07-29T14:49:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2082478571910504855",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082478142443446307",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
+      "content": "基于自由现金流因子的指数etf vflo今日再度上涨1.2%，市场风格转换的时候就是这么割裂\n一边是半导体跌的爆仓的爆仓，一边是持续的上涨\n$MU $SNDK $VFLO",
+      "contentHtml": "基于自由现金流因子的指数etf vflo今日再度上涨1.2%，市场风格转换的时候就是这么割裂\n一边是半导体跌的爆仓的爆仓，一边是持续的上涨\n<a href=\"/search?f=tweets&q=%23MU\">$MU</a> <a href=\"/search?f=tweets&q=%23SNDK\">$SNDK</a> <a href=\"/search?f=tweets&q=%23VFLO\">$VFLO</a>",
+      "publishedAt": "2026-07-29T14:47:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2082478142443446307",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOZyemMaEAAU-7r.jpg"
+        }
+      ],
+      "quote": {
+        "username": "boundaryhq",
+        "displayName": "boundary",
+        "content": "基于自由现金流因子的指数etf vflo今日上涨1.52%，再创新高。\n信息技术占比：22.95%\n能源行业占比：22.56%\n医疗行业占比：21.54%\n可选消费占比：10.82%\n$VFLO $DVN",
+        "contentHtml": "基于自由现金流因子的指数etf vflo今日上涨1.52%，再创新高。\n信息技术占比：22.95%\n能源行业占比：22.56%\n医疗行业占比：21.54%\n可选消费占比：10.82%\n<a href=\"/search?f=tweets&q=%23VFLO\">$VFLO</a> <a href=\"/search?f=tweets&q=%23DVN\">$DVN</a>",
+        "link": "https://x.com/boundaryhq/status/2082105944063008869",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOUfuE3bYAEDHjm.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOUfxVpaMAAMkSz.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082477685985677461",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "有意思，还做了表格数据去算。\n\n其实只要看现象就能得出一定结论了：\n\n所有外国人里，只有低收入人群、和财务自由人群不会抱怨日本，说明日本只适合这两种外国人。\n\n说白了，高端一点的泰国。\n\n使劲造，挺好的。",
+      "contentHtml": "有意思，还做了表格数据去算。\n\n其实只要看现象就能得出一定结论了：\n\n所有外国人里，只有低收入人群、和财务自由人群不会抱怨日本，说明日本只适合这两种外国人。\n\n说白了，高端一点的泰国。\n\n使劲造，挺好的。",
+      "publishedAt": "2026-07-29T14:45:00.000Z",
+      "link": "https://x.com/taresky/status/2082477685985677461",
+      "quote": {
+        "username": "ichijisaru",
+        "displayName": "一次猿",
+        "content": "最近很多人在讨论日本工作收入的性价比，以及二润或者回国的问题。\n\n我制作了一个表格数据给大家参考。\n--------------------------------------------------\n先解释下原理：\n・我按照日本的收入，换算成人民币，然后除以1.77 ，得到在中国的等效购买力。\n但是中国各个城市的物价差异非常大，建议可以去 Numbeo 输入自己的城市和日本对比。\n\n・在国外工作肯定是有学习语言，异地气候，人文饮食不适应等等负面问题和成本。所以在日本的收入应该至少是在中国的2倍，才有合适的性价比。\n\n  2倍收入差-1.77倍物价差= 0.23倍 为实际收入提升收益\n  如果想更安全，建议需要提升3倍。\n--------------------------------------------------\n介绍下使用方法：\n・如果在中国还没出国，那就打开日本的 indeed、doda、マイナビ等求职网站，找到你想要找的工作岗位，看下这个岗位在日本的薪资水平大概在哪个区间。是否比在中国的工作高2~3倍以上。\n\n・如果在日本考虑回国，那就打开中国的求职网站，看下中国对用的工作岗位的薪资即可。\n--------------------------------------------------\n当然有岗位和能找否真的找到工作是两回事。这个只能自行判断。",
+        "contentHtml": "最近很多人在讨论日本工作收入的性价比，以及二润或者回国的问题。\n\n我制作了一个表格数据给大家参考。\n--------------------------------------------------\n先解释下原理：\n・我按照日本的收入，换算成人民币，然后除以1.77 ，得到在中国的等效购买力。\n但是中国各个城市的物价差异非常大，建议可以去 Numbeo 输入自己的城市和日本对比。\n\n・在国外工作肯定是有学习语言，异地气候，人文饮食不适应等等负面问题和成本。所以在日本的收入应该至少是在中国的2倍，才有合适的性价比。\n\n  2倍收入差-1.77倍物价差= 0.23倍 为实际收入提升收益\n  如果想更安全，建议需要提升3倍。\n--------------------------------------------------\n介绍下使用方法：\n・如果在中国还没出国，那就打开日本的 indeed、doda、マイナビ等求职网站，找到你想要找的工作岗位，看下这个岗位在日本的薪资水平大概在哪个区间。是否比在中国的工作高2~3倍以上。\n\n・如果在日本考虑回国，那就打开中国的求职网站，看下中国对用的工作岗位的薪资即可。\n--------------------------------------------------\n当然有岗位和能找否真的找到工作是两回事。这个只能自行判断。",
+        "link": "https://x.com/ichijisaru/status/2081739204468560363",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOPObUQb0AAmLs1.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082477282526900260",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "If you didn’t long $MU and are still alive, please send some food 🙏",
+      "contentHtml": "If you didn’t long <a href=\"/search?f=tweets&q=%23MU\">$MU</a> and are still alive, please send some food 🙏",
+      "publishedAt": "2026-07-29T14:44:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2082477282526900260",
+      "quote": {
+        "username": "Cbb0fe",
+        "displayName": "CBB",
+        "content": "If you are not longing $MU here, kill yourself",
+        "contentHtml": "If you are not longing <a href=\"/search?f=tweets&q=%23MU\">$MU</a> here, kill yourself",
+        "link": "https://x.com/Cbb0fe/status/2082321243563323599"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082477207126196373",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
+      "content": "最近1个月看似半导体板块跌幅巨大，但实际上纳指100与标普500指数成分股位于50均线以上的占比还是提高的，大部分股票还在上涨，跌的只是半导体板块\n当然盈亏同源，不持有半导体也享受不了4-6月的大涨\n$MU $SNDK",
+      "contentHtml": "最近1个月看似半导体板块跌幅巨大，但实际上纳指100与标普500指数成分股位于50均线以上的占比还是提高的，大部分股票还在上涨，跌的只是半导体板块\n当然盈亏同源，不持有半导体也享受不了4-6月的大涨\n<a href=\"/search?f=tweets&q=%23MU\">$MU</a> <a href=\"/search?f=tweets&q=%23SNDK\">$SNDK</a>",
+      "publishedAt": "2026-07-29T14:43:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2082477207126196373",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOZxcqgaoAAaF8e.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOZxgoxbUAAzyMq.jpg"
+        }
+      ],
+      "quote": {
+        "username": "boundaryhq",
+        "displayName": "boundary",
+        "content": "基于自由现金流因子的指数etf vflo今日上涨1.52%，再创新高。\n信息技术占比：22.95%\n能源行业占比：22.56%\n医疗行业占比：21.54%\n可选消费占比：10.82%\n$VFLO $DVN",
+        "contentHtml": "基于自由现金流因子的指数etf vflo今日上涨1.52%，再创新高。\n信息技术占比：22.95%\n能源行业占比：22.56%\n医疗行业占比：21.54%\n可选消费占比：10.82%\n<a href=\"/search?f=tweets&q=%23VFLO\">$VFLO</a> <a href=\"/search?f=tweets&q=%23DVN\">$DVN</a>",
+        "link": "https://x.com/boundaryhq/status/2082105944063008869",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOUfuE3bYAEDHjm.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOUfxVpaMAAMkSz.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082475900562731347",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "$xau 黄金在 4000 美金的支撑👇",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23xau\">$xau</a> 黄金在 4000 美金的支撑👇",
+      "publishedAt": "2026-07-29T14:38:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2082475900562731347",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOZwyWHaAAApX9X.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082474390080651312",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "你在金融市场学到的经验教训，可能要很多年以后才能用的到\n\n“超级牛市结束后的做空经验”\n我等了 5 年才用上",
+      "contentHtml": "你在金融市场学到的经验教训，可能要很多年以后才能用的到\n\n“超级牛市结束后的做空经验”\n我等了 5 年才用上",
+      "publishedAt": "2026-07-29T14:32:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2082474390080651312",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082473872901992707",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "今天召开紧急会议后，韩国财政部表示，韩国承诺采取更多措施以稳定股市，将采取措施限制杠杆ETF交易。韩国将维持24小时股票市场监测系统，并为紧急情况下实施市场稳定措施建立法律依据。同时韩国将加强对杠杆ETF交易的监管，限制散户投资者对杠杆ETF的投资敞口，立即推出针对单只股票杠杆ETF的额外监管措施，并提高相关交易成本，以遏制ETF投机行为。还是在稳秩序，并不是救价格、现在韩国监管层还是要让市场自己出清。\n\n有几点让韩国监管层有底气不直接救指数？\n1）汇率并没有同步失控\n韩元今天反而升值，说明尚未出现股市、外汇和美元流动性同时恶化的系统性危机。政策部门更有空间先处理杠杆和市场机制，而不是立即动用国家资金托住股票价格。 \n\n2）市场仍存在承接力量\n韩国机构今天净买入约3.15万亿韩元，外资同时买入KOSPI 200期货和KOSDAQ现货，说明市场流动性虽然严重受损，但并未完全失灵。\n\n3）监管部门目前把主要问题归因于杠杆产品\n金融委员会此前公布的政策路径集中于保证金、投资者门槛、再平衡时点、流动性提供和个人投资总额限制。会议的公开议程也主要是追加杠杆产品补充措施，而不是直接讨论买入股票。 \n所以立即救价格会产生严重道德风险\n\n接下来韩股要稳住也得看本周五7月31号韩股监管新规生效后的情况\n1）新规切断新增抄底资金\n新规则不会强制现有投资者平仓，但会显著提高追加买入门槛。因此，直接影响不是“强制卖出”，而是：\n散户无法再轻易卖出普通股票后，当天立刻买入2倍杠杆产品；\n无法用股票、债券或ETF作为替代保证金；\n不能通过卖出款抵押贷款满足保证金要求；\n单一股票杠杆产品的新增资金流入会明显下降。\n\n2）明天7月30日可能出现异常的“最后交易窗口”\n由于新规7月31日生效，7月30日市场可能同时存在两股相反力量：部分散户可能抢在新规前最后追加杠杆产品；\n7月28日暴跌带来的融资强平和未结算应收款压力开始释放。\n\n3）中期偏利好：削弱“越跌越卖”的反馈循环\n保证金提高、当日资金循环受限、再平衡时间分散和净值偏离管理加强，会逐步降低之前负循环的强度：\n本股下跌\n→ 杠杆ETF净值下降\n→ 产品被迫减仓\n→ 本股进一步下跌\n→ 散户融资账户触发强平\n对中期市场稳定性是利好。\n\n真正救市动作是平准基金入场、央行提供流动性、韩国机构及养老金加大购买力度，还有两年前干过的完全禁止卖空。不过现在还没看到\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "今天召开紧急会议后，韩国财政部表示，韩国承诺采取更多措施以稳定股市，将采取措施限制杠杆ETF交易。韩国将维持24小时股票市场监测系统，并为紧急情况下实施市场稳定措施建立法律依据。同时韩国将加强对杠杆ETF交易的监管，限制散户投资者对杠杆ETF的投资敞口，立即推出针对单只股票杠杆ETF的额外监管措施，并提高相关交易成本，以遏制ETF投机行为。还是在稳秩序，并不是救价格、现在韩国监管层还是要让市场自己出清。\n\n有几点让韩国监管层有底气不直接救指数？\n1）汇率并没有同步失控\n韩元今天反而升值，说明尚未出现股市、外汇和美元流动性同时恶化的系统性危机。政策部门更有空间先处理杠杆和市场机制，而不是立即动用国家资金托住股票价格。 \n\n2）市场仍存在承接力量\n韩国机构今天净买入约3.15万亿韩元，外资同时买入KOSPI 200期货和KOSDAQ现货，说明市场流动性虽然严重受损，但并未完全失灵。\n\n3）监管部门目前把主要问题归因于杠杆产品\n金融委员会此前公布的政策路径集中于保证金、投资者门槛、再平衡时点、流动性提供和个人投资总额限制。会议的公开议程也主要是追加杠杆产品补充措施，而不是直接讨论买入股票。 \n所以立即救价格会产生严重道德风险\n\n接下来韩股要稳住也得看本周五7月31号韩股监管新规生效后的情况\n1）新规切断新增抄底资金\n新规则不会强制现有投资者平仓，但会显著提高追加买入门槛。因此，直接影响不是“强制卖出”，而是：\n散户无法再轻易卖出普通股票后，当天立刻买入2倍杠杆产品；\n无法用股票、债券或ETF作为替代保证金；\n不能通过卖出款抵押贷款满足保证金要求；\n单一股票杠杆产品的新增资金流入会明显下降。\n\n2）明天7月30日可能出现异常的“最后交易窗口”\n由于新规7月31日生效，7月30日市场可能同时存在两股相反力量：部分散户可能抢在新规前最后追加杠杆产品；\n7月28日暴跌带来的融资强平和未结算应收款压力开始释放。\n\n3）中期偏利好：削弱“越跌越卖”的反馈循环\n保证金提高、当日资金循环受限、再平衡时间分散和净值偏离管理加强，会逐步降低之前负循环的强度：\n本股下跌\n→ 杠杆ETF净值下降\n→ 产品被迫减仓\n→ 本股进一步下跌\n→ 散户融资账户触发强平\n对中期市场稳定性是利好。\n\n真正救市动作是平准基金入场、央行提供流动性、韩国机构及养老金加大购买力度，还有两年前干过的完全禁止卖空。不过现在还没看到\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-07-29T14:30:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2082473872901992707",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOZu8ZbbMAA7fxu.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "不容易韩国监管层终于想起来救市了，最近一段时间韩国监管都是在层层加码，很多人没注意就在昨天韩国金融委员会委员长李亿元还表态：先观察7月31日落地实施一次性政策效果，若需求未充分降温，将推进包括20%总量管理在内的追加措施，意思是还要加码。",
+        "contentHtml": "不容易韩国监管层终于想起来救市了，最近一段时间韩国监管都是在层层加码，很多人没注意就在昨天韩国金融委员会委员长李亿元还表态：先观察7月31日落地实施一次性政策效果，若需求未充分降温，将推进包括20%总量管理在内的追加措施，意思是还要加码。",
+        "link": "https://x.com/qinbafrank/status/2082322855698792638",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOXlmTHagAAT2W8.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOXlmTHacAAitHF.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082468182149792216",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "$BTC pumping into FOMC. \n\nThis should be interesting....\n\nMore often than not, the first move is the false move.\n\nPriced in.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> pumping into FOMC. \n\nThis should be interesting....\n\nMore often than not, the first move is the false move.\n\nPriced in.",
+      "publishedAt": "2026-07-29T14:07:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2082468182149792216",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082467294475911659",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "市场陷入极大的防守/抛售\n\nFCF不好看的股票都被砸了",
+      "contentHtml": "市场陷入极大的防守/抛售\n\nFCF不好看的股票都被砸了",
+      "publishedAt": "2026-07-29T14:04:00.000Z",
+      "link": "https://x.com/octopusycc/status/2082467294475911659",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082466819227668971",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "空头盛宴🤷",
+      "contentHtml": "空头盛宴🤷",
+      "publishedAt": "2026-07-29T14:02:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2082466819227668971",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082466725010853981",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "股灾怎么这么久才来啊，草",
+      "contentHtml": "股灾怎么这么久才来啊，草",
+      "publishedAt": "2026-07-29T14:02:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2082466725010853981",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "蚂蚁仓空了美股\n\n赌一波美股  股灾式暴跌 \n小止损5万",
+        "contentHtml": "蚂蚁仓空了美股\n\n赌一波美股  股灾式暴跌 \n小止损5万",
+        "link": "https://x.com/Bitfatty/status/2035965158506254595",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HEEzg-4a0AAg84C.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2082457711556641115",
       "username": "octopusycc",
@@ -11820,302 +12112,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HGZO3-Fb0AAtvL7.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080119058897465426",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "谷歌的财报宣布继续提高2026全年的capex支出预期，这是告诉大家，在这场AI竞赛中要死也只能死在冲锋的路上\n\n谷歌因为提高capex支出预期盘后跌了不少，但是在这种献祭自身的情况下，上游的半导体竟然反应平平\n\n阿斯麦、台积电的财报没能带动半导体可能还说的过去，但是谷歌作为给钱的人，还上调了后续的支出预期，半导体依旧是反应平平，那市场是在交易什么呢？\n#GOOG #半导体",
-      "contentHtml": "谷歌的财报宣布继续提高2026全年的capex支出预期，这是告诉大家，在这场AI竞赛中要死也只能死在冲锋的路上\n\n谷歌因为提高capex支出预期盘后跌了不少，但是在这种献祭自身的情况下，上游的半导体竟然反应平平\n\n阿斯麦、台积电的财报没能带动半导体可能还说的过去，但是谷歌作为给钱的人，还上调了后续的支出预期，半导体依旧是反应平平，那市场是在交易什么呢？\n<a href=\"/search?f=tweets&q=%23GOOG\">#GOOG</a> <a href=\"/search?f=tweets&q=%23半导体\">#半导体</a>",
-      "publishedAt": "2026-07-23T02:33:00.000Z",
-      "link": "https://x.com/dongbimao/status/2080119058897465426",
-      "quote": {
-        "username": "dongbimao",
-        "displayName": "懂币猫",
-        "content": "我不认为hyperscaler AI capex 会在本轮财报明显放缓\n虽然目前市场选择了交易META的鬼故事\n\n大家都清楚激进的资本支出短期肯定给股价压力，但是反过来想，输掉AI这场仗意味着业务基本盘可能被蚕食，这就不是股价跌多少的问题了，是直接生死存亡的问题了 \n\n所以我对本月mag7的财报中AI Capex的数据保持乐观\n不过后续mag7中肯定会有人掉队，沦为芸芸众生中的某一个，就像国内互联网公司，百度的待遇一样",
-        "contentHtml": "我不认为hyperscaler AI capex 会在本轮财报明显放缓\n虽然目前市场选择了交易META的鬼故事\n\n大家都清楚激进的资本支出短期肯定给股价压力，但是反过来想，输掉AI这场仗意味着业务基本盘可能被蚕食，这就不是股价跌多少的问题了，是直接生死存亡的问题了 \n\n所以我对本月mag7的财报中AI Capex的数据保持乐观\n不过后续mag7中肯定会有人掉队，沦为芸芸众生中的某一个，就像国内互联网公司，百度的待遇一样",
-        "link": "https://x.com/dongbimao/status/2073052894946029756"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080117125352739194",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "最近的 $ETH 走势，波段大师们又要吃美了😌\n\n曾在四月通过波段 1.93 万枚 ETH 获利 93 万美元的波段地址，时隔两个月在 10 小时前开启新一轮波段，建仓 2657 ETH（价值 514 万美元），均价 $1935\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "contentHtml": "最近的 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 走势，波段大师们又要吃美了😌\n\n曾在四月通过波段 1.93 万枚 ETH 获利 93 万美元的波段地址，时隔两个月在 10 小时前开启新一轮波段，建仓 2657 ETH（价值 514 万美元），均价 $1935\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x8Ad459048c798b7435887184D81d7Dd8CF2Ab818\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "publishedAt": "2026-07-23T02:25:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2080117125352739194",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN4PfXMaEAAy2wl.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080109952618951092",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "OTC 2.7 万枚 $ETH ！又有巨鲸入场了😲\n\n地址 0x8c5…A04b1 在沉睡三个月后，6 小时前从 Galaxy Digital 处收到 2.7 万枚 ETH，价值 5202 万美元，提出均价 $1927\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "contentHtml": "OTC 2.7 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> ！又有巨鲸入场了😲\n\n地址 0x8c5…A04b1 在沉睡三个月后，6 小时前从 Galaxy Digital 处收到 2.7 万枚 ETH，价值 5202 万美元，提出均价 $1927\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x8c585dFECE9d68a09f6a17B46c686E7a126A04b1\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "publishedAt": "2026-07-23T01:57:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2080109952618951092",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN4I7D_aYAIOpaV.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080106688917754256",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
-      "content": "「廝殺的白熱化」：疊合 STH-RP 的關鍵 Liquidity 區域🚧\n\n近期市況「絞殺」行為明顯，故今天我打算加更一篇 Liquidity 的分析帖，\n同時結合 STH-RP 和各位分享一些我對於當前市況的 bias。\n\n本週一和各位提到的 65.5K 流動性引力（下方引文），\n如今已如期清掃，且 BTC 即將來到多空的關鍵博弈位。\n\n//\n\n💬 前言：\n如果還沒看過上篇分析帖（下方引文），強烈建議可以先移駕該文，\n以免在理解上出現銜接困難的問題。\n\n如附圖所示，今天主要有幾項重點要和各位報告：\n🔺 先前提及的 65.5K 的 Equal Highs 流動性，已完成清掃\n🔺 下方以 61K 為起點的 Trendline Liq 仍然存在清掃需求\n🔺 上方 67.3K 出現了新的 Equal Highs 引力，亦存在清掃需求\n🔺 68K 是當前震盪區間的 range high，且上方洽是 STH-RP\n🔺 承上，目前的 STH-RP 是 69,449，密切關注價格是否在此受阻\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n\n綜上所述，目前的市況依然處在一個「爭奪 Liq」的絞殺階段，\n下方 61K 附近的 Trendline Liq 如同教科書般典型，\n而上方 67.3K 又再次出現了新的 Equal Highs，\n在上、下方都存在引力（清掃需求）的時候，\n就容易出現上沖下洗、反覆拉扯的走勢。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\nnitter.net/market_beggar/status/1…\n\n此外，自六月初以來的震盪區間高點（68K），\n無疑也是一塊明顯的 Liquidity 鮮肉，對價格存在吸引力，\n且就在高於 68K 不遠處，恰好又是作為牛熊分界線的 STH-RP，\n因此，倘若未來上漲至 68K，我們就必須密切屆時的價格行為，\n最理想的階段性見頂訊號無非就是：\n「短暫突破 68K 且觸碰 STH-RP，隨後產生 Stop Hunt 📉」。\n\n📖 Stop Hunt 概念詳細教程\nnitter.net/market_beggar/status/1…\n\n//\n\n最後，再次和各位強調一個重要的概念：「Liq 的清掃順序」。\n對於多軍、或是和我一樣準備出手布局週期交易部位的朋友，\n我們最希望看到的狀況如下：\n「上方的 Liq 先不清掃（留下引力），而是先清掃下方的 Liq」。\n\n因為如此一來，不論未來「路徑 1」的 Retest 是否成功，\n只要上方留下了任何 Liquidity 引力，都可以成為未來上漲的催化劑；\n如果是先清掃上方的 Liq，雖然從週期交易的角度來看無傷大雅，\n但就可能把整個築底的時間給拉長、磨人耐心。\n\n📖 BTC「三種週期性底部結構」路徑推演\nnitter.net/market_beggar/status/2…\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n兩道「深熊抄底市場成本線」最新數據更新\nnitter.net/market_beggar/status/2…\n\n「BTC 吸籌趨勢評分」更新：持續監測派發風險\nnitter.net/market_beggar/status/2…\n\n來自美方資金的拉抬：盯緊美資何時「偷偷撤退」\nnitter.net/market_beggar/status/2…",
-      "contentHtml": "「廝殺的白熱化」：疊合 STH-RP 的關鍵 Liquidity 區域🚧\n\n近期市況「絞殺」行為明顯，故今天我打算加更一篇 Liquidity 的分析帖，\n同時結合 STH-RP 和各位分享一些我對於當前市況的 bias。\n\n本週一和各位提到的 65.5K 流動性引力（下方引文），\n如今已如期清掃，且 BTC 即將來到多空的關鍵博弈位。\n\n//\n\n💬 前言：\n如果還沒看過上篇分析帖（下方引文），強烈建議可以先移駕該文，\n以免在理解上出現銜接困難的問題。\n\n如附圖所示，今天主要有幾項重點要和各位報告：\n🔺 先前提及的 65.5K 的 Equal Highs 流動性，已完成清掃\n🔺 下方以 61K 為起點的 Trendline Liq 仍然存在清掃需求\n🔺 上方 67.3K 出現了新的 Equal Highs 引力，亦存在清掃需求\n🔺 68K 是當前震盪區間的 range high，且上方洽是 STH-RP\n🔺 承上，目前的 STH-RP 是 69,449，密切關注價格是否在此受阻\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\n綜上所述，目前的市況依然處在一個「爭奪 Liq」的絞殺階段，\n下方 61K 附近的 Trendline Liq 如同教科書般典型，\n而上方 67.3K 又再次出現了新的 Equal Highs，\n在上、下方都存在引力（清掃需求）的時候，\n就容易出現上沖下洗、反覆拉扯的走勢。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\n此外，自六月初以來的震盪區間高點（68K），\n無疑也是一塊明顯的 Liquidity 鮮肉，對價格存在吸引力，\n且就在高於 68K 不遠處，恰好又是作為牛熊分界線的 STH-RP，\n因此，倘若未來上漲至 68K，我們就必須密切屆時的價格行為，\n最理想的階段性見頂訊號無非就是：\n「短暫突破 68K 且觸碰 STH-RP，隨後產生 Stop Hunt 📉」。\n\n📖 Stop Hunt 概念詳細教程\n<a href=\"https://nitter.net/market_beggar/status/1907261008059777200\">nitter.net/market_beggar/status/1…</a>\n\n//\n\n最後，再次和各位強調一個重要的概念：「Liq 的清掃順序」。\n對於多軍、或是和我一樣準備出手布局週期交易部位的朋友，\n我們最希望看到的狀況如下：\n「上方的 Liq 先不清掃（留下引力），而是先清掃下方的 Liq」。\n\n因為如此一來，不論未來「路徑 1」的 Retest 是否成功，\n只要上方留下了任何 Liquidity 引力，都可以成為未來上漲的催化劑；\n如果是先清掃上方的 Liq，雖然從週期交易的角度來看無傷大雅，\n但就可能把整個築底的時間給拉長、磨人耐心。\n\n📖 BTC「三種週期性底部結構」路徑推演\n<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n兩道「深熊抄底市場成本線」最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2079745937350779015\">nitter.net/market_beggar/status/2…</a>\n\n「BTC 吸籌趨勢評分」更新：持續監測派發風險\n<a href=\"https://nitter.net/market_beggar/status/2079383301299851536\">nitter.net/market_beggar/status/2…</a>\n\n來自美方資金的拉抬：盯緊美資何時「偷偷撤退」\n<a href=\"https://nitter.net/market_beggar/status/2077578136276099288\">nitter.net/market_beggar/status/2…</a>",
-      "publishedAt": "2026-07-23T01:44:00.000Z",
-      "link": "https://x.com/market_beggar/status/2080106688917754256",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN4GAYqbAAAVnsi.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「分歧加劇」：小級別看跌 Liq 結構逐漸形成⚠️\n\n自 7/06 至今，BTC 的線型走勢出現連續的急拉急跌，\n指出市場正在進行一次擁有明確目標的流動性絞殺。\n\n從 Liq 分析的角度而言，隨著愈來愈多的 Swing points 出現，\nBTC 也正透過線型釋出更多清晰的訊號，\n其中最明顯的便是「小級別看跌 Liq 結構」。\n\n//\n\n如附圖所示，幾項重點摘要如下：\n➡️ 65.5K 存在明顯的 Equal Highs 流動性引力\n➡️ 61~62.5K 的位置出現非常明顯的 Trendline Liq 引力\n➡️ 預期的「路徑 1」Retest 區域依然維持規畫於 59~61K\n\n📖 BTC「三種週期性底部結構」路徑推演\nnitter.net/market_beggar/status/2…\n\n承接上週的更新（下方引文）：\n在本週我們可以看到，上方 65.5K 的 Liq 依然尚未被清掃；\n同時，下方 61K 附近的 Trendline Liq 仍然存在，\n並且隨著更多的 Higher Lows 持續堆疊於該區域，\n使得此區域的 Trendline Liq 引力也正逐步加強（被清掃的概率提升）。\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n\n如果我們把級別縮小，將目光聚焦於附圖中的紅框區，\n我們可以看到 BTC 在此形成了「看跌的 Liq 結構」，也就是：\n➡️ 上方連續的 Higher Highs（可視作 Hunt），但突破幅度都不高\n➡️ 下方連續的 Higher Lows，且位置接近，形成 Trendline Liq\n\n關於 Liq 結構的評估方式，我先前也有寫過詳細的概念解析，\n有興趣的朋友可以參考我在 4 月中的分析帖👇：\n📖 「熊市中繼結構再現？」：大級別震盪結構詳細分析\nnitter.net/market_beggar/status/2…\n\n不過，由於 65.5K 的 Equal Highs 存在，\n目前上、下兩側的 Liquidity 引力都非常強，\n因此我們不太容易去判斷「到底會先清掃哪一側」。\n\n稍作推演的話，可以得出以下兩種可能的路徑：\n1️⃣ 先向下清掃 Trendline Liq（61K）並順勢 Retest，隨後上漲\n2️⃣ 先向上清掃 65.5K 的 Liq，隨後以 Stop Hunt 的形式開始向下 Retest\n\n📖 Stop Hunt 概念詳細教程\nnitter.net/market_beggar/status/1…\n\n當然，市場變化莫測，上述兩種走勢也只是我心中更希望看到的，\n如果最終走成其他路線，則就脫離了我的擊球區，我會選擇保持觀望。\n\n最後，只要在上、下任一側的 Liq 尚未被清掃之前，\n由於上下方都存在強烈的引力，因此我並沒有任何交易計畫；\n而一旦某一側的 Liq 被清掃，我們則可以開始尋求中短線的交易窗口。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\nnitter.net/market_beggar/status/1…\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n來自美方資金的拉抬：盯緊美資何時「偷偷撤退」\nnitter.net/market_beggar/status/2…\n\n「BTC 的馬奇諾防線」：從未跌破的神話能否延續\nnitter.net/market_beggar/status/2…\n\n週期抄底神級法器 Cointime Price 歷史覆盤\nnitter.net/market_beggar/status/2…",
-        "contentHtml": "「分歧加劇」：小級別看跌 Liq 結構逐漸形成⚠️\n\n自 7/06 至今，BTC 的線型走勢出現連續的急拉急跌，\n指出市場正在進行一次擁有明確目標的流動性絞殺。\n\n從 Liq 分析的角度而言，隨著愈來愈多的 Swing points 出現，\nBTC 也正透過線型釋出更多清晰的訊號，\n其中最明顯的便是「小級別看跌 Liq 結構」。\n\n//\n\n如附圖所示，幾項重點摘要如下：\n➡️ 65.5K 存在明顯的 Equal Highs 流動性引力\n➡️ 61~62.5K 的位置出現非常明顯的 Trendline Liq 引力\n➡️ 預期的「路徑 1」Retest 區域依然維持規畫於 59~61K\n\n📖 BTC「三種週期性底部結構」路徑推演\n<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>\n\n承接上週的更新（下方引文）：\n在本週我們可以看到，上方 65.5K 的 Liq 依然尚未被清掃；\n同時，下方 61K 附近的 Trendline Liq 仍然存在，\n並且隨著更多的 Higher Lows 持續堆疊於該區域，\n使得此區域的 Trendline Liq 引力也正逐步加強（被清掃的概率提升）。\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\n如果我們把級別縮小，將目光聚焦於附圖中的紅框區，\n我們可以看到 BTC 在此形成了「看跌的 Liq 結構」，也就是：\n➡️ 上方連續的 Higher Highs（可視作 Hunt），但突破幅度都不高\n➡️ 下方連續的 Higher Lows，且位置接近，形成 Trendline Liq\n\n關於 Liq 結構的評估方式，我先前也有寫過詳細的概念解析，\n有興趣的朋友可以參考我在 4 月中的分析帖👇：\n📖 「熊市中繼結構再現？」：大級別震盪結構詳細分析\n<a href=\"https://nitter.net/market_beggar/status/2044230985865408890\">nitter.net/market_beggar/status/2…</a>\n\n不過，由於 65.5K 的 Equal Highs 存在，\n目前上、下兩側的 Liquidity 引力都非常強，\n因此我們不太容易去判斷「到底會先清掃哪一側」。\n\n稍作推演的話，可以得出以下兩種可能的路徑：\n1️⃣ 先向下清掃 Trendline Liq（61K）並順勢 Retest，隨後上漲\n2️⃣ 先向上清掃 65.5K 的 Liq，隨後以 Stop Hunt 的形式開始向下 Retest\n\n📖 Stop Hunt 概念詳細教程\n<a href=\"https://nitter.net/market_beggar/status/1907261008059777200\">nitter.net/market_beggar/status/1…</a>\n\n當然，市場變化莫測，上述兩種走勢也只是我心中更希望看到的，\n如果最終走成其他路線，則就脫離了我的擊球區，我會選擇保持觀望。\n\n最後，只要在上、下任一側的 Liq 尚未被清掃之前，\n由於上下方都存在強烈的引力，因此我並沒有任何交易計畫；\n而一旦某一側的 Liq 被清掃，我們則可以開始尋求中短線的交易窗口。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n來自美方資金的拉抬：盯緊美資何時「偷偷撤退」\n<a href=\"https://nitter.net/market_beggar/status/2077578136276099288\">nitter.net/market_beggar/status/2…</a>\n\n「BTC 的馬奇諾防線」：從未跌破的神話能否延續\n<a href=\"https://nitter.net/market_beggar/status/2077207779706802343\">nitter.net/market_beggar/status/2…</a>\n\n週期抄底神級法器 Cointime Price 歷史覆盤\n<a href=\"https://nitter.net/market_beggar/status/2074678322546814985\">nitter.net/market_beggar/status/2…</a>",
-        "link": "https://x.com/market_beggar/status/2079021572430655818",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNorGPwbgAAKrGj.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080104881848041840",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "低卖高买被伤后，Arthur Hayes 老黑近一周已默默囤了 626.8 万美元的 $ETH 了🙌\n\n昨晚他向 Cumberland 转移 125 万枚 USDC，9 小时前收到等值的 644.34 ETH，疑似为 OTC 购入；自 07.15 以来已通过各大 MM 和交易所囤积 3270.11 ETH，均价 $1916.8\n\n钱包地址  arkm.com/explorer/entity/art…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "contentHtml": "低卖高买被伤后，Arthur Hayes 老黑近一周已默默囤了 626.8 万美元的 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 了🙌\n\n昨晚他向 Cumberland 转移 125 万枚 USDC，9 小时前收到等值的 644.34 ETH，疑似为 OTC 购入；自 07.15 以来已通过各大 MM 和交易所囤积 3270.11 ETH，均价 $1916.8\n\n钱包地址  <a href=\"https://arkm.com/explorer/entity/arthur-hayes\">arkm.com/explorer/entity/art…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "publishedAt": "2026-07-23T01:37:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2080104881848041840",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN4DyaCbMAASHhZ.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "Arthur Hayes 建仓 250 万美元的 $ETH，又成低卖高买大好人了😂\n\n8 小时前他向 Galaxy Digital 和 FalconX 充值 250 万枚 USDC，随后从两处收到累计 1293.26 枚 ETH，均价 $1933；三周前他在 $1690 的价格将 1600 ETH 转移至 Galaxy，疑似卖出，现在又以 $1933 买回了\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "contentHtml": "Arthur Hayes 建仓 250 万美元的 $ETH，又成低卖高买大好人了😂\n\n8 小时前他向 Galaxy Digital 和 FalconX 充值 250 万枚 USDC，随后从两处收到累计 1293.26 枚 ETH，均价 $1933；三周前他在 $1690 的价格将 1600 ETH 转移至 Galaxy，疑似卖出，现在又以 $1933 买回了\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0x6cd66DbdFe289ab83d7311B668ADA83A12447e21\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "link": "https://x.com/ai_9684xtpa/status/2077566672949608933",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNT_Q69acAAszRR.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080103102019969124",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "投资者信心指数目前虽然还在水下，但已经在比较是靠近零轴的位置了。\n\n如果反弹延续，那么按上次的进度，我估算大约20天后就能回到零轴或以上。\n\n如果是反弹，那应该就差不多了（也许不用等20天）。\n如果是反转，等信心指数进入绿色信心区，可以确认。\n\n我不能肯定，或者说哪一种情况都不是100%。因此，我会做好2种不同情况的交易计划（虽然我认为前者概率更大）。\n\n如果是反弹，那就找位置止盈部分现有仓位，为后续留下更多调整空间。如有可能反转，我会增加右侧仓位，并带好止损。\n\n就像上次反弹到78，我也右侧加仓，但82上不去又回撤到78，便原地止损。\n\n分析的目的不是为了预测，而是让自己提前做好准备。",
-      "contentHtml": "投资者信心指数目前虽然还在水下，但已经在比较是靠近零轴的位置了。\n\n如果反弹延续，那么按上次的进度，我估算大约20天后就能回到零轴或以上。\n\n如果是反弹，那应该就差不多了（也许不用等20天）。\n如果是反转，等信心指数进入绿色信心区，可以确认。\n\n我不能肯定，或者说哪一种情况都不是100%。因此，我会做好2种不同情况的交易计划（虽然我认为前者概率更大）。\n\n如果是反弹，那就找位置止盈部分现有仓位，为后续留下更多调整空间。如有可能反转，我会增加右侧仓位，并带好止损。\n\n就像上次反弹到78，我也右侧加仓，但82上不去又回撤到78，便原地止损。\n\n分析的目的不是为了预测，而是让自己提前做好准备。",
-      "publishedAt": "2026-07-23T01:30:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2080103102019969124",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN1nfniakAAcWdX.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "回头看7月9日的判断是对的，反弹确实没有结束，但也没有表现出多么强烈。在此期间，BTC 3次向\"<1个月的短期筹码成本线（红线）”发起冲击。\n\n反复拉扯，说明往上还是有压力，这也侧面反映了短期投资者的信心不足。不过这一次（7月14日）终于有点要突破的意思了。\n\n不知道大家最近有没有一种感觉：BTC似乎对利空不太敏感，而对利好很敏感。比如，微策略大额卖币、美股ai科技股大跌、美伊冲突重现.....\n\n这些，放在过去任何一条都足以将BTC再次打回6w以下，但这次并没有，反而是在CPI数据公布后，又立刻反了回去。\n\n所以，就各项综合因素来看，我个人觉得6.5w并非本次反弹的终点。真正的压力位应该在上方6.8-7w之间。\n\n同时，目前现货市场包括Binance、Coinbase等主流交易所的CVD都低于90日中位数。所以，也仍然维持是弱“反弹”而非“反转”的观点。",
-        "contentHtml": "回头看7月9日的判断是对的，反弹确实没有结束，但也没有表现出多么强烈。在此期间，BTC 3次向\"&lt;1个月的短期筹码成本线（红线）”发起冲击。\n\n反复拉扯，说明往上还是有压力，这也侧面反映了短期投资者的信心不足。不过这一次（7月14日）终于有点要突破的意思了。\n\n不知道大家最近有没有一种感觉：BTC似乎对利空不太敏感，而对利好很敏感。比如，微策略大额卖币、美股ai科技股大跌、美伊冲突重现.....\n\n这些，放在过去任何一条都足以将BTC再次打回6w以下，但这次并没有，反而是在CPI数据公布后，又立刻反了回去。\n\n所以，就各项综合因素来看，我个人觉得6.5w并非本次反弹的终点。真正的压力位应该在上方6.8-7w之间。\n\n同时，目前现货市场包括Binance、Coinbase等主流交易所的CVD都低于90日中位数。所以，也仍然维持是弱“反弹”而非“反转”的观点。",
-        "link": "https://x.com/Murphychen888/status/2077566386206056943",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNRplOBaEAEdcEB.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNRpoJPaIAAQNq8.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080100341392015750",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "$NOW 刚听完，全力押注网络安全，同时控制花费，利润率还在扩张。管理层有些过于兴奋🤷",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23NOW\">$NOW</a> 刚听完，全力押注网络安全，同时控制花费，利润率还在扩张。管理层有些过于兴奋🤷",
-      "publishedAt": "2026-07-23T01:19:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2080100341392015750",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080095442055172505",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "关于第一点修正下：谷歌云的营收里，把收入分成两大类：\n1.  Services revenues（服务收入） 主要来自客户“租用”云服务的费用，比如按量付费使用 GCP 计算、存储、网络，或者订阅 Workspace 等。这是谷歌云一直以来的主要收入来源。\n2.  Product revenues（产品收入） 主要来自直接销售 TPU 系统（硬件）。 也就是说，谷歌把完整的 TPU 服务器/系统卖给客户，让客户安装到自己的数据中心里使用，而不是只在谷歌的云上租用。 谷歌云产品收入绝大部分来自tpu、不过产品收入占26年整体营收还在少数，27年会放量，现在大头还是云服务收入。多谢@tig88411109 老师的提示，我理解有误。",
-      "contentHtml": "关于第一点修正下：谷歌云的营收里，把收入分成两大类：\n1.  Services revenues（服务收入） 主要来自客户“租用”云服务的费用，比如按量付费使用 GCP 计算、存储、网络，或者订阅 Workspace 等。这是谷歌云一直以来的主要收入来源。\n2.  Product revenues（产品收入） 主要来自直接销售 TPU 系统（硬件）。 也就是说，谷歌把完整的 TPU 服务器/系统卖给客户，让客户安装到自己的数据中心里使用，而不是只在谷歌的云上租用。 谷歌云产品收入绝大部分来自tpu、不过产品收入占26年整体营收还在少数，27年会放量，现在大头还是云服务收入。多谢<a href=\"/tig88411109\" title=\"Tigris 会讲课教授是好老师\">@tig88411109</a> 老师的提示，我理解有误。",
-      "publishedAt": "2026-07-23T00:59:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2080095442055172505",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080089373228286442",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "UBER裁员10%的客服岗位。\nALL IN里的四位一直在强调AI不会伤害劳动力市场\n我年初认为AI对劳动力市场会产生冲击，现在反省判断的失误点在现在AI的影响仅局限在科技公司，传统公司还没有像现在科技公司拥抱CODING一样拥抱AI，当这一天到来的时候，AI会先带来的就是裁员，然后才是营收的增速。\n上周刚刚在聊UBER怎么整合AI进公司各个环节的：工程师和岗位专家一对一走工作流程，研究AI的应用，今天就有了裁员",
-      "contentHtml": "UBER裁员10%的客服岗位。\nALL IN里的四位一直在强调AI不会伤害劳动力市场\n我年初认为AI对劳动力市场会产生冲击，现在反省判断的失误点在现在AI的影响仅局限在科技公司，传统公司还没有像现在科技公司拥抱CODING一样拥抱AI，当这一天到来的时候，AI会先带来的就是裁员，然后才是营收的增速。\n上周刚刚在聊UBER怎么整合AI进公司各个环节的：工程师和岗位专家一对一走工作流程，研究AI的应用，今天就有了裁员",
-      "publishedAt": "2026-07-23T00:35:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2080089373228286442",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN31ZEMXcAASAn4.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080052566377763071",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
-      "content": "When software was expensive - thin, horizontal, best-of-breed software stacks extracted rents across every business. \n\nNow that software is cheap - value moves to vertically integrated businesses that deliver opinionated end-to-end experiences.",
-      "contentHtml": "When software was expensive - thin, horizontal, best-of-breed software stacks extracted rents across every business. \n\nNow that software is cheap - value moves to vertically integrated businesses that deliver opinionated end-to-end experiences.",
-      "publishedAt": "2026-07-22T22:09:00.000Z",
-      "link": "https://x.com/naval/status/2080052566377763071",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2079979965232160784",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
-      "content": "Code is speech. The people pushing to ban open source and free speech are the bad guys.",
-      "contentHtml": "Code is speech. The people pushing to ban open source and free speech are the bad guys.",
-      "publishedAt": "2026-07-22T17:20:00.000Z",
-      "link": "https://x.com/naval/status/2079979965232160784",
-      "quote": {
-        "username": "elonmusk",
-        "displayName": "Elon Musk",
-        "content": "Those against freedom of speech are the bad guys!",
-        "contentHtml": "Those against freedom of speech are the bad guys!",
-        "link": "https://x.com/elonmusk/status/1842729851872031167"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2079854978429231148",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "ETF的净流量数据是怎么来的？其中的BTC上链吗？\n\n看到评论区有小伙伴对ETF的流程有疑问，前几天也有小伙伴聊到ETF的BTC上不上链，正好一起将这2个问题讲清楚。\n\n我们举例说明👉\n\n假设：IBIT信托持有60w枚BTC（$63,000），已发行份额66亿份，那么NAV = 600,000 × 63,000 ÷ 6,600,000,000 ≈ $5.73。代表每一份IBIT对应大概0.0000909枚BTC，值$5.73。\n\n假设某天交易所里卖单太多，买盘接不住，虽然NAV是$5.73，但市价被砸到了$5.67，出现约1%的贴水。\n\n这时，对AP来说就是一个无风险的套利机会。同一个东西，二级市场卖$5.67，但它背后的BTC却值$5.73。\n\n于是AP会这么做：\n\n1⃣ 在交易所花567w美元买入100万份IBIT；\n2⃣ 把这100万份交给贝莱德，并按NAV赎回。\n3⃣ 信托注销份额，并把对应的90.9枚BTC从信托资产中划出。\n（现金模式下，信托把这些BTC卖掉，将现金付给AP；实物模式下，直接把90.9枚BTC给AP）\n\n成本$567w，到手$573w，扣掉成本剩下的就是净利润。同时，AP在二级市场买ETF，会让市价向NAV收敛，当套利窗口关闭，AP就停手了。\n\n整个过程中真正的资产变化，是信托的BTC少了90.9枚，已发行份额少了100万份。而“净流量”数据统计的就是这个，当日份额的净增减，再折成BTC或美元。\n\n反过来也一样：当市场买盘汹涌产生了溢价，那AP就在二级市场卖出ETF份额，同时向发行方按NAV申购新份额，信托拿到钱就去买BTC；份额增加，记为净流入。\n\n追溯“净流入/净流出”的源头，其实就是二级市场那笔没人接的买压/卖压。\n\n我们在关注净流量的同时，也要结合成交量一起看。“高成交+高流出”和“低成交+高流出”，背后的信息是不一样的。\n\n另外，当日的净赎回/申购，都要会在托管专户的冷钱包和Coinbase的交易账户之间调用或归集。托管账户的进出，本质上是净流量数据的链上镜像。\n\n所以，ETF净流量数据全部上链，只有二级份额转让才不上链。",
-      "contentHtml": "ETF的净流量数据是怎么来的？其中的BTC上链吗？\n\n看到评论区有小伙伴对ETF的流程有疑问，前几天也有小伙伴聊到ETF的BTC上不上链，正好一起将这2个问题讲清楚。\n\n我们举例说明👉\n\n假设：IBIT信托持有60w枚BTC（$63,000），已发行份额66亿份，那么NAV = 600,000 × 63,000 ÷ 6,600,000,000 ≈ $5.73。代表每一份IBIT对应大概0.0000909枚BTC，值$5.73。\n\n假设某天交易所里卖单太多，买盘接不住，虽然NAV是$5.73，但市价被砸到了$5.67，出现约1%的贴水。\n\n这时，对AP来说就是一个无风险的套利机会。同一个东西，二级市场卖$5.67，但它背后的BTC却值$5.73。\n\n于是AP会这么做：\n\n1⃣ 在交易所花567w美元买入100万份IBIT；\n2⃣ 把这100万份交给贝莱德，并按NAV赎回。\n3⃣ 信托注销份额，并把对应的90.9枚BTC从信托资产中划出。\n（现金模式下，信托把这些BTC卖掉，将现金付给AP；实物模式下，直接把90.9枚BTC给AP）\n\n成本$567w，到手$573w，扣掉成本剩下的就是净利润。同时，AP在二级市场买ETF，会让市价向NAV收敛，当套利窗口关闭，AP就停手了。\n\n整个过程中真正的资产变化，是信托的BTC少了90.9枚，已发行份额少了100万份。而“净流量”数据统计的就是这个，当日份额的净增减，再折成BTC或美元。\n\n反过来也一样：当市场买盘汹涌产生了溢价，那AP就在二级市场卖出ETF份额，同时向发行方按NAV申购新份额，信托拿到钱就去买BTC；份额增加，记为净流入。\n\n追溯“净流入/净流出”的源头，其实就是二级市场那笔没人接的买压/卖压。\n\n我们在关注净流量的同时，也要结合成交量一起看。“高成交+高流出”和“低成交+高流出”，背后的信息是不一样的。\n\n另外，当日的净赎回/申购，都要会在托管专户的冷钱包和Coinbase的交易账户之间调用或归集。托管账户的进出，本质上是净流量数据的链上镜像。\n\n所以，ETF净流量数据全部上链，只有二级份额转让才不上链。",
-      "publishedAt": "2026-07-22T09:04:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2079854978429231148",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN0g4hhbIAAXi0E.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "机构投降，散户迎来了机会？\n\n——文章有点长，没有耐心看完的小伙伴可以直接跳到最后看结论。\n\n本轮周期与过往最大的不同就是有了BTC现货ETF，向众多传统机构资金敞开了大门，使得市场参与结构发生了重大变化。\n\n比如这段时间，ETF净流出减缓了，BTC价格也开始企稳回升，并展现出对外部利空不敏感的特性。\n\n这些数据都是公开可查的，然而它的背后又隐藏了哪些值得我们关注的有价值的信息呢？\n\n🚩 我们先讲逻辑：\n\nETF净流量是一级市场行为，只有当ETF价格偏离NAV（净值）时，AP（授权参与商）才会通过“申购/赎回”来套平价差。\n\n而我们经常看的“ETF净流量”数据，就是统计出的净申/赎。\n\n所以，净流量本质上记录的是AP套利活动的净结果。只有当卖/买压力大到把价格拉出溢价或砸出贴水，并且持续到套利成本线以外，才会转化为数据上的净流入/流出。\n\n而ETF成交量是二级市场的换手，买卖双方在交易所互相成交，不产生申/赎。\n\n🚩 再分析数据：\n\n在理解以上逻辑后，我们再来分析和对比相关数据才变得有意义！如图所示：\n\n👉 1-2月是“高成交量 + 小幅净流出” ——\n\n说明市场分歧极大，恐慌抛售的同时有大量资金在接。大部分卖压被二级市场的买盘吸收，而真正到一级市场变成赎回的比例很低。\n\n👉 5-7月是“低成交量 + 大幅净流出” ——\n\n即总卖压未必比1-2月更大，但区别在于边际买盘消失了。没人接盘，哪怕温和的卖出也会让ETF持续贴水，并传导为AP赎回。\n\n所以，这里重点反映的是买方的缺席，而非卖方的增强。\n\n如果说1-2月投降的是“快钱”（包括机构和散户），那么5-7月投降的就是“慢钱”，其中多数都是机构。\n\n比如投顾平台降配，仓位配置再平衡的决策要走流程，不抢时点，也就天然滞后（包括对冲基金套利仓的机械性平仓）。\n\n🚩 最后说观点：\n\n结合以上数据分析，我们有理由认为：5-7月机构层面的第二阶段“投降”，通常这就是出清的尾部形态。\n\n只不过这个“尾部”会持续多久，数据给不了答案，它只是确认指标，但不是领先指标。\n\n机构投降，是否意味着散户的机会来了？\n我个人认为：是的！\n\n本轮周期最不可思议的就是大量机构筹码被套在山顶（比如MSTR在10w+买入的BTC至今还在）。对一些机构来说，这是他们第一次玩加密，是他们经历的第一轮周期。\n\n论经验，论定力，论对周期的理解，他们甚至不如很多老韭菜们。机构是狼，散户是羊，而这一次高进低出的机构和大户们，在我们看来就是一群“笨狼”。\n\n当然，在狼的眼中，我们永远都是羊，所以终有一天他们还会回来的。而我们要做的，就是 —— 干他！趁他病，要他命（回调就是机会）。\n\n等他们回来把价格拉高，追进去的散户又将成为待宰的羔羊.....",
-        "contentHtml": "机构投降，散户迎来了机会？\n\n——文章有点长，没有耐心看完的小伙伴可以直接跳到最后看结论。\n\n本轮周期与过往最大的不同就是有了BTC现货ETF，向众多传统机构资金敞开了大门，使得市场参与结构发生了重大变化。\n\n比如这段时间，ETF净流出减缓了，BTC价格也开始企稳回升，并展现出对外部利空不敏感的特性。\n\n这些数据都是公开可查的，然而它的背后又隐藏了哪些值得我们关注的有价值的信息呢？\n\n🚩 我们先讲逻辑：\n\nETF净流量是一级市场行为，只有当ETF价格偏离NAV（净值）时，AP（授权参与商）才会通过“申购/赎回”来套平价差。\n\n而我们经常看的“ETF净流量”数据，就是统计出的净申/赎。\n\n所以，净流量本质上记录的是AP套利活动的净结果。只有当卖/买压力大到把价格拉出溢价或砸出贴水，并且持续到套利成本线以外，才会转化为数据上的净流入/流出。\n\n而ETF成交量是二级市场的换手，买卖双方在交易所互相成交，不产生申/赎。\n\n🚩 再分析数据：\n\n在理解以上逻辑后，我们再来分析和对比相关数据才变得有意义！如图所示：\n\n👉 1-2月是“高成交量 + 小幅净流出” ——\n\n说明市场分歧极大，恐慌抛售的同时有大量资金在接。大部分卖压被二级市场的买盘吸收，而真正到一级市场变成赎回的比例很低。\n\n👉 5-7月是“低成交量 + 大幅净流出” ——\n\n即总卖压未必比1-2月更大，但区别在于边际买盘消失了。没人接盘，哪怕温和的卖出也会让ETF持续贴水，并传导为AP赎回。\n\n所以，这里重点反映的是买方的缺席，而非卖方的增强。\n\n如果说1-2月投降的是“快钱”（包括机构和散户），那么5-7月投降的就是“慢钱”，其中多数都是机构。\n\n比如投顾平台降配，仓位配置再平衡的决策要走流程，不抢时点，也就天然滞后（包括对冲基金套利仓的机械性平仓）。\n\n🚩 最后说观点：\n\n结合以上数据分析，我们有理由认为：5-7月机构层面的第二阶段“投降”，通常这就是出清的尾部形态。\n\n只不过这个“尾部”会持续多久，数据给不了答案，它只是确认指标，但不是领先指标。\n\n机构投降，是否意味着散户的机会来了？\n我个人认为：是的！\n\n本轮周期最不可思议的就是大量机构筹码被套在山顶（比如MSTR在10w+买入的BTC至今还在）。对一些机构来说，这是他们第一次玩加密，是他们经历的第一轮周期。\n\n论经验，论定力，论对周期的理解，他们甚至不如很多老韭菜们。机构是狼，散户是羊，而这一次高进低出的机构和大户们，在我们看来就是一群“笨狼”。\n\n当然，在狼的眼中，我们永远都是羊，所以终有一天他们还会回来的。而我们要做的，就是 —— 干他！趁他病，要他命（回调就是机会）。\n\n等他们回来把价格拉高，追进去的散户又将成为待宰的羔羊.....",
-        "link": "https://x.com/Murphychen888/status/2079749118084489304",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNzAU-kbUAATdLE.png"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HNzAYRJaAAAMeV6.jpg"
           }
         ]
       },
