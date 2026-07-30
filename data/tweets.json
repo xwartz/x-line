@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T15:42:50.327Z",
+  "lastUpdated": "2026-07-30T22:27:46.281Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,385 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 621,
-    "successUsers": 31,
-    "failedUsers": 1
+    "newFetched": 644,
+    "successUsers": 32,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2082948653807718628",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "$BTC\n\nThe bull market begins when nobody expects it to begin. \n\nThe funny thing is, we have been in a bull market for 17 years.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nThe bull market begins when nobody expects it to begin. \n\nThe funny thing is, we have been in a bull market for 17 years.",
+      "publishedAt": "2026-07-30T21:57:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2082948653807718628",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOgebKjWEAArxUH.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082946005541028167",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "亚麻26年资本开支2000亿增加到2200亿，市场秀逗了吗？凭啥涨？噢，管理层说我们28年的订单已经进来了，我们认为AWS将会是每年1万亿营收的业务，LOL。基本面打脸对于ROI的质疑",
+      "contentHtml": "亚麻26年资本开支2000亿增加到2200亿，市场秀逗了吗？凭啥涨？噢，管理层说我们28年的订单已经进来了，我们认为AWS将会是每年1万亿营收的业务，LOL。基本面打脸对于ROI的质疑",
+      "publishedAt": "2026-07-30T21:46:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2082946005541028167",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082944373776335316",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "SOX的估值，NDX的估值，AAPL的估值🤪",
+      "contentHtml": "SOX的估值，NDX的估值，AAPL的估值🤪",
+      "publishedAt": "2026-07-30T21:40:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2082944373776335316",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082933236531900614",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "并且我还给出了非常具体怎么今天减仓苹果的操作（卖CALL买PUT）和理由（估值打满）",
+      "contentHtml": "并且我还给出了非常具体怎么今天减仓苹果的操作（卖CALL买PUT）和理由（估值打满）",
+      "publishedAt": "2026-07-30T20:55:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2082933236531900614",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082930703864598869",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "简单说\n\nCoinbase当前财报不如预期 在我的范围内\n\n但看好下一季度财报\n\n$coin",
+      "contentHtml": "简单说\n\nCoinbase当前财报不如预期 在我的范围内\n\n但看好下一季度财报\n\n<a href=\"/search?f=tweets&q=%23coin\">$coin</a>",
+      "publishedAt": "2026-07-30T20:45:00.000Z",
+      "link": "https://x.com/octopusycc/status/2082930703864598869",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082929288769331455",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "昨天有人说 “你加息都判断错了，ISRG也看错了，我凭什么相信你”，可是站在今天的财报后我MAG7多数都判断正确了\n1. $AAPL 多买（大仓位）\n2. $MSFT 年初开始一路积累仓位（大仓位）\n3. $NVDA 2月份被低估，并不持有，芯片有 $INTC （最大仓位） \n4. $META 今年会面临MARGIN降低的风险（无仓位）\n5. $TSLA 年初减仓，特斯拉进入投资周期（小仓位）\n6. $AMZN A业绩好，亚麻不会差（大仓位）\n7. $GOOG 几乎无判断，估值相对其他MAG7高一些（无仓位）\n时间久了你们会发现，我经常错，但我从不掩饰，永远透明，也不会给你们制造永赢的人设。但是大方向，我经常对，为何？因为我不行了就理发🤪",
+      "contentHtml": "昨天有人说 “你加息都判断错了，ISRG也看错了，我凭什么相信你”，可是站在今天的财报后我MAG7多数都判断正确了\n1. <a href=\"/search?f=tweets&q=%23AAPL\">$AAPL</a> 多买（大仓位）\n2. <a href=\"/search?f=tweets&q=%23MSFT\">$MSFT</a> 年初开始一路积累仓位（大仓位）\n3. <a href=\"/search?f=tweets&q=%23NVDA\">$NVDA</a> 2月份被低估，并不持有，芯片有 <a href=\"/search?f=tweets&q=%23INTC\">$INTC</a> （最大仓位） \n4. <a href=\"/search?f=tweets&q=%23META\">$META</a> 今年会面临MARGIN降低的风险（无仓位）\n5. <a href=\"/search?f=tweets&q=%23TSLA\">$TSLA</a> 年初减仓，特斯拉进入投资周期（小仓位）\n6. <a href=\"/search?f=tweets&q=%23AMZN\">$AMZN</a> A业绩好，亚麻不会差（大仓位）\n7. <a href=\"/search?f=tweets&q=%23GOOG\">$GOOG</a> 几乎无判断，估值相对其他MAG7高一些（无仓位）\n时间久了你们会发现，我经常错，但我从不掩饰，永远透明，也不会给你们制造永赢的人设。但是大方向，我经常对，为何？因为我不行了就理发🤪",
+      "publishedAt": "2026-07-30T20:40:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2082929288769331455",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082921866126324197",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "0.23买了5万grvt，小玩一下，近期alpha时隔很久的热门项目，企稳之后可能有波反弹。",
+      "contentHtml": "0.23买了5万grvt，小玩一下，近期alpha时隔很久的热门项目，企稳之后可能有波反弹。",
+      "publishedAt": "2026-07-30T20:10:00.000Z",
+      "link": "https://x.com/yuren477/status/2082921866126324197",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082919937522233481",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "AWS 37% V.S 预期31.3%，LETS GO",
+      "contentHtml": "AWS 37% V.S 预期31.3%，LETS GO",
+      "publishedAt": "2026-07-30T20:03:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2082919937522233481",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082918563510431767",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "James Bullard，22年的大鹰王，那个喊出需要直接加息100个基点的，后来辞职做教授去了，如果WALLER是个政治墙头草，Bullard的观点绝对值得看，今天接受彭博采访他说道：\n\n1. “长端，30年的利率上涨对于美联储来说是伤脑筋的，美元下跌，我认为他应该打开9月份加息的想象空间“\n2. “2年期下跌，市场变得不是非常确定美联储会说到做到，试图将通胀带回2%，的确是一部分伤害到了信任度“\n\n沃什自己在发言的时候聊到了市场因为听了他第一次会议的发言，帮他紧缩了市场，他认为挺好的，所以虽然不给指引，但是他的话是有影响的，这就是美联储和市场之间的信任度。然后这次会议他准备的那段发言更鹰派，我认为他希望起到同样的效果，结果后面的Q&A里却没有明确表明美联储会FOLLOW THROUGH（BULLARD今天用了同样的词），这就让市场怀疑第一会议之后判断错了他，这就是信任度受到了伤害。那以后他希望用嘴去让市场做事就难很多了。所以下次会议之前，他可能要接受市场帮他做宽松的选择，不利于他要压制通胀的决心。\n原本用一次意外加息可以达到的奇效，他放弃了；并且也丢掉了他在第一会议时建立的威信。",
+      "contentHtml": "James Bullard，22年的大鹰王，那个喊出需要直接加息100个基点的，后来辞职做教授去了，如果WALLER是个政治墙头草，Bullard的观点绝对值得看，今天接受彭博采访他说道：\n\n1. “长端，30年的利率上涨对于美联储来说是伤脑筋的，美元下跌，我认为他应该打开9月份加息的想象空间“\n2. “2年期下跌，市场变得不是非常确定美联储会说到做到，试图将通胀带回2%，的确是一部分伤害到了信任度“\n\n沃什自己在发言的时候聊到了市场因为听了他第一次会议的发言，帮他紧缩了市场，他认为挺好的，所以虽然不给指引，但是他的话是有影响的，这就是美联储和市场之间的信任度。然后这次会议他准备的那段发言更鹰派，我认为他希望起到同样的效果，结果后面的Q&A里却没有明确表明美联储会FOLLOW THROUGH（BULLARD今天用了同样的词），这就让市场怀疑第一会议之后判断错了他，这就是信任度受到了伤害。那以后他希望用嘴去让市场做事就难很多了。所以下次会议之前，他可能要接受市场帮他做宽松的选择，不利于他要压制通胀的决心。\n原本用一次意外加息可以达到的奇效，他放弃了；并且也丢掉了他在第一会议时建立的威信。",
+      "publishedAt": "2026-07-30T19:57:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2082918563510431767",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082902833566044662",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "长鑫涨过了，目前美韩海力士的溢价到了41%，时间问题迟早回回归，看看会不会假突破之前37%的高点，如果确认会是不错的机会",
+      "contentHtml": "长鑫涨过了，目前美韩海力士的溢价到了41%，时间问题迟早回回归，看看会不会假突破之前37%的高点，如果确认会是不错的机会",
+      "publishedAt": "2026-07-30T18:55:00.000Z",
+      "link": "https://x.com/yuren477/status/2082902833566044662",
+      "quote": {
+        "username": "yuren477",
+        "displayName": "余人sama",
+        "content": "这单平完，币安这边大概也做到榜一了。排名已经隐藏，我不太喜欢被过度关注。审美相近、彼此有 taste 的人，自然会慢慢遇见。\n\n钱赚到了，热闹也看够了。接下来准备锁一阵推，沉淀一下自己，也出去走走。\n\n这一段行情里，该提示的风险都提示了，也算救了不少人，至于非要闪现接满大的，那是谁也拦不住。\n到这里，阶段性功德圆满了。\n\n接下来真正值得盯的机会，我认为会在长鑫科技，以及海力士 ADR 与韩股正股之间的价差交易上。\n\n愿世间心诚剑士，人人会两袖青蛇；\n愿天下惊艳后辈，人人可剑开天门。",
+        "contentHtml": "这单平完，币安这边大概也做到榜一了。排名已经隐藏，我不太喜欢被过度关注。审美相近、彼此有 taste 的人，自然会慢慢遇见。\n\n钱赚到了，热闹也看够了。接下来准备锁一阵推，沉淀一下自己，也出去走走。\n\n这一段行情里，该提示的风险都提示了，也算救了不少人，至于非要闪现接满大的，那是谁也拦不住。\n到这里，阶段性功德圆满了。\n\n接下来真正值得盯的机会，我认为会在长鑫科技，以及海力士 ADR 与韩股正股之间的价差交易上。\n\n愿世间心诚剑士，人人会两袖青蛇；\n愿天下惊艳后辈，人人可剑开天门。",
+        "link": "https://x.com/yuren477/status/2077699216219247027",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNV4bErbAAABTxj.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082899442353553452",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "OpenAI今天5.6Luna再降价80%，价格战已开打，大大利好云和软件",
+      "contentHtml": "OpenAI今天5.6Luna再降价80%，价格战已开打，大大利好云和软件",
+      "publishedAt": "2026-07-30T18:41:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2082899442353553452",
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "问题的根本在Anthropic先解决了Coding，一个2万亿的市场，且美国科技公司愿意花这个钱，因为美国软件工程师成本太高（21年后就是个就业泡沫市场）\n然后看到了现在Token价格狂飙\n然后看到Tokenmaxing时代结束，科技公司意识到短期花费巨大\n同时所有其他模型都往Coding做，因为美国的蛋糕大\n为何中国还在补贴Token，因为没有美国那么大的软件就业市场去替代：Token替代运营开支\n未来的几个判断：\n1. Agent要落地，开源模型和Edge AI几乎是一定的选择\n2. Coding会被商品化，Anthropic API价格无法持续\n3. 除开Coding外的落地，价格必须下降，客户没有科技公司那么有钱\n4. 软件仍然是传统公司AI的落地首选\n5. Cowork无法破坏微软，没人用得起",
+        "contentHtml": "问题的根本在Anthropic先解决了Coding，一个2万亿的市场，且美国科技公司愿意花这个钱，因为美国软件工程师成本太高（21年后就是个就业泡沫市场）\n然后看到了现在Token价格狂飙\n然后看到Tokenmaxing时代结束，科技公司意识到短期花费巨大\n同时所有其他模型都往Coding做，因为美国的蛋糕大\n为何中国还在补贴Token，因为没有美国那么大的软件就业市场去替代：Token替代运营开支\n未来的几个判断：\n1. Agent要落地，开源模型和Edge AI几乎是一定的选择\n2. Coding会被商品化，Anthropic API价格无法持续\n3. 除开Coding外的落地，价格必须下降，客户没有科技公司那么有钱\n4. 软件仍然是传统公司AI的落地首选\n5. Cowork无法破坏微软，没人用得起",
+        "link": "https://x.com/TJ_Research/status/2069100253425348652"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082882282613071888",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "You can tell....\n\nA lot of people didn’t expect $BTC to bounce after that major rejection from 83K down to 59K.\n\nYou’d think it would extend lower from that candle, but it didn’t. \n\nNo true wave 5 corrective extension. \n\nJust a low sweep and bounce.  \n\nThat screams seller exhaustion... they’re running out of coins to sell. Clear divergence right in front of us. \n\nIt bounced from the level almost no one expected.",
+      "contentHtml": "You can tell....\n\nA lot of people didn’t expect <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> to bounce after that major rejection from 83K down to 59K.\n\nYou’d think it would extend lower from that candle, but it didn’t. \n\nNo true wave 5 corrective extension. \n\nJust a low sweep and bounce.  \n\nThat screams seller exhaustion... they’re running out of coins to sell. Clear divergence right in front of us. \n\nIt bounced from the level almost no one expected.",
+      "publishedAt": "2026-07-30T17:33:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2082882282613071888",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOfhlCzWEAANAOM.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082871382539428143",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "股神爆仓",
+      "contentHtml": "股神爆仓",
+      "publishedAt": "2026-07-30T16:50:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2082871382539428143",
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "见顶是过程，见底是事件",
+        "contentHtml": "见顶是过程，见底是事件",
+        "link": "https://x.com/TJ_Research/status/2082330354375950756"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082870389902848359",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "利率结果出来后市场是反弹的，然后再一波杀跌，不加息照样杀你。昨天日内我保证很多人看到不加息追进去，然后被杀，收盘前离场，盘后都在跌，今天被涨傻了，Citadel是做市场，你抵押股票在他们那边然后爆仓了，他们可以接手，也可以砸市场里，感谢他们没砸吧",
+      "contentHtml": "利率结果出来后市场是反弹的，然后再一波杀跌，不加息照样杀你。昨天日内我保证很多人看到不加息追进去，然后被杀，收盘前离场，盘后都在跌，今天被涨傻了，Citadel是做市场，你抵押股票在他们那边然后爆仓了，他们可以接手，也可以砸市场里，感谢他们没砸吧",
+      "publishedAt": "2026-07-30T16:46:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2082870389902848359",
+      "quote": {
+        "username": "wallstengine",
+        "displayName": "Wall St Engine",
+        "content": "CITADEL BUYS BULK OF STOCK PORTFOLIO FROM SITUATIONAL AWARENESS, SOURCES SAY - WSJ\n\nIs this why they were pushing the narrative that the Fed would hike at the July meeting?",
+        "contentHtml": "CITADEL BUYS BULK OF STOCK PORTFOLIO FROM SITUATIONAL AWARENESS, SOURCES SAY - WSJ\n\nIs this why they were pushing the narrative that the Fed would hike at the July meeting?",
+        "link": "https://x.com/wallstengine/status/2082852392903848060",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOfHNTfbwAIE_pR.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082863580672643194",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "This cycle is likely to be the one where $BTC never breaks back below the blue band.\n\nEvery time BTC has reclaimed the blue band and held above it, it has marked a major trend shift that led to significant upside.\n\nSo far, there's no compelling reason to believe this cycle will be any different.",
+      "contentHtml": "This cycle is likely to be the one where <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> never breaks back below the blue band.\n\nEvery time BTC has reclaimed the blue band and held above it, it has marked a major trend shift that led to significant upside.\n\nSo far, there's no compelling reason to believe this cycle will be any different.",
+      "publishedAt": "2026-07-30T16:19:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2082863580672643194",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOfQUq1XYAA5eEy.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082858645340262518",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "还是看反弹好一点\n\n反转先算了 不要格局\n\n今天还是要close掉仓位 \n\n实在不行 夜盘 非交易时间段在币圈永续那边买回来都行",
+      "contentHtml": "还是看反弹好一点\n\n反转先算了 不要格局\n\n今天还是要close掉仓位 \n\n实在不行 夜盘 非交易时间段在币圈永续那边买回来都行",
+      "publishedAt": "2026-07-30T15:59:00.000Z",
+      "link": "https://x.com/octopusycc/status/2082858645340262518",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082858173111959713",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "FTX倒了BTC见底开始反弹\n\nOpen AI股神被迫清仓，美股暴力反弹，这会是反攻的号角吗",
+      "contentHtml": "FTX倒了BTC见底开始反弹\n\nOpen AI股神被迫清仓，美股暴力反弹，这会是反攻的号角吗",
+      "publishedAt": "2026-07-30T15:57:00.000Z",
+      "link": "https://x.com/dongbimao/status/2082858173111959713",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOfMdT2boAEWdRL.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOfMdT5bYAASf1T.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082857101672787991",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "今天币安VIP私享会听@HAOHONG_CFA 分享对宏观、产业的看法，对半导体表示谨慎、看好黄金和大饼，印象最深还是老师的拖鞋很酷。\n币安新产品更新迭代很多、这个BPAY支持同名银行账户出金估计会是大家的强需求。\n\n辛苦@moonkimbinance @pear_bnb @yayabinance @sisibinance 几位邀请。",
+      "contentHtml": "今天币安VIP私享会听<a href=\"/HAOHONG_CFA\" title=\"Hao HONG 洪灝, CFA\">@HAOHONG_CFA</a> 分享对宏观、产业的看法，对半导体表示谨慎、看好黄金和大饼，印象最深还是老师的拖鞋很酷。\n币安新产品更新迭代很多、这个BPAY支持同名银行账户出金估计会是大家的强需求。\n\n辛苦<a href=\"/moonkimbinance\" title=\"Kim🔶玩bStocks上币安\">@moonkimbinance</a> <a href=\"/pear_bnb\" title=\"梨子酱\">@pear_bnb</a> <a href=\"/yayabinance\" title=\"丫丫🔶BNB｜玩bStocks 上币安\">@yayabinance</a> <a href=\"/sisibinance\" title=\"sisi\">@sisibinance</a> 几位邀请。",
+      "publishedAt": "2026-07-30T15:53:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2082857101672787991",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOfLUK_a0AA1O2_.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOfLUKpa4AAgzhX.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOfLULjaIAAuXBG.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082854837746843842",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "OKX和慢雾的安全风控半年报已发布\n\n既是加密产品力最强，又是风控顶级的头部交易所了\n\n@okxchinese",
+      "contentHtml": "OKX和慢雾的安全风控半年报已发布\n\n既是加密产品力最强，又是风控顶级的头部交易所了\n\n<a href=\"/okxchinese\" title=\"OKX中文\">@okxchinese</a>",
+      "publishedAt": "2026-07-30T15:44:00.000Z",
+      "link": "https://x.com/octopusycc/status/2082854837746843842",
+      "quote": {
+        "username": "okxchinese",
+        "displayName": "OKX中文",
+        "content": "我们已经联合慢雾、OtterSec、Elliptic 发布 2026 Web3 安全与风控半年报！\n\n两份报告，一个结论：攻击正从「代码」转向「人」，防线必须前移到设备、签名与协议层。\n\n上半年 OKX 共拦截 570 万+笔高风险交易，链上情报库 11 亿+标签，覆盖 420+条链。把安全做在签名前，点击图片阅读报告 ⬇️",
+        "contentHtml": "我们已经联合慢雾、OtterSec、Elliptic 发布 2026 Web3 安全与风控半年报！\n\n两份报告，一个结论：攻击正从「代码」转向「人」，防线必须前移到设备、签名与协议层。\n\n上半年 OKX 共拦截 570 万+笔高风险交易，链上情报库 11 亿+标签，覆盖 420+条链。把安全做在签名前，点击图片阅读报告 ⬇️",
+        "link": "https://x.com/okxchinese/status/2080582188131811425"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2082853743083606336",
       "username": "Cbb0fe",
@@ -1706,6 +2080,25 @@
       }
     },
     {
+      "id": "2082664122572017983",
+      "username": "Franktradinglog",
+      "displayName": "Frank trading",
+      "avatar": "https://pbs.twimg.com/profile_images/2003040202361593856/6OBVC9U8_bigger.jpg",
+      "content": "好，我已经彻底领悟。\ntldr：两个二阶导正在同步拐头。我的操作：做多2Y和5Y国债，做多GOOG和NBIS，不做多半导体。\n\n第一个拐点：Fed鹰派再定价的速率见顶。\nFOMC维持3.5-3.75%不变，3名委员异议支持hike，但Hammack、Kashkari、Logan已经打光了弹药还是输了，说明鹰派的天花板就在3票。Warsh也在淡化AI相关价格压力，把利率上行归因于经济强劲而非市场加息信号，暗示市场利率已经替代加息——\"rates are higher today than June, markets didn't pause\"。这个框架一旦建立就是结构性鸽派：只要市场利率维持在高位，Warsh就有理由按兵不动。而市场目前定价9月加息60%，但是我觉得很可能全年都利率不动。6月核心CPI -0.02%如果延续到8月PCE，前端利率会快速下行。\n做多2Y是最pure的mispricing表达。加5Y是因为它同时捕获Fed路径重新定价和增长减速。避开10Y+，因为Warsh偏鸽会推高通胀预期，长端被breakeven和Q3国债供给contaminate。\n第二个拐点：AI价值链从半导体建设端向云计算消费端的shift。\nMSFT是AI capex叙事启动以来第一个超大规模企业没有上调capex指引，与此同时，微软Azure加速到43%固定汇率增长，Copilot付费座位突破3000万（净增1000万），Google Cloud +82% yoy。\n这里的关键是价值链的时序结构。半导体订单是领先指标，云计算消费是滞后6-12个月的确认指标。现在出现了一个罕见剪刀差——半导体增长率在减速（MSFT capex收窄），但云计算消费增长率在加速（Azure 43%+Copilot 30M）。这个窗口通常只持续1-2个季度。\n还有一些被忽略的细节：韩国存储专家电话会议透露LTA（长期协议）覆盖超过50%的服务器DRAM，包含预付款和take-or-pay条款。这意味着云服务商已经锁定了内存成本——明年HBM定价翻倍的预期主要由没签LTA的买家承担。半导体在卖\"涨价预期\"，云服务商在享受\"成本锁定+消费加速\"。\n所以我做多云不做半导体。GOOG的Cloud +82%最猛但被反垄断压制估值，asymmetry更好。NBIS是pure-play AI云基础设施，直接表达utilization加速。不做空半导体是因为一阶导仍然很强（HBM翻倍、博通AI收入>$1万亿），做空一阶导仍然强劲的资产timing不对会被squeeze，正确的表达是不参与而非做空。\n认错条件：8月核心PCE >0.25% m/m则债券thesis invalidate；Google或Amazon Q3 capex继续上调而非收窄，则AI价值链shift判断错误，本次维持capex是孤立事件。",
+      "contentHtml": "好，我已经彻底领悟。\ntldr：两个二阶导正在同步拐头。我的操作：做多2Y和5Y国债，做多GOOG和NBIS，不做多半导体。\n\n第一个拐点：Fed鹰派再定价的速率见顶。\nFOMC维持3.5-3.75%不变，3名委员异议支持hike，但Hammack、Kashkari、Logan已经打光了弹药还是输了，说明鹰派的天花板就在3票。Warsh也在淡化AI相关价格压力，把利率上行归因于经济强劲而非市场加息信号，暗示市场利率已经替代加息——\"rates are higher today than June, markets didn't pause\"。这个框架一旦建立就是结构性鸽派：只要市场利率维持在高位，Warsh就有理由按兵不动。而市场目前定价9月加息60%，但是我觉得很可能全年都利率不动。6月核心CPI -0.02%如果延续到8月PCE，前端利率会快速下行。\n做多2Y是最pure的mispricing表达。加5Y是因为它同时捕获Fed路径重新定价和增长减速。避开10Y+，因为Warsh偏鸽会推高通胀预期，长端被breakeven和Q3国债供给contaminate。\n第二个拐点：AI价值链从半导体建设端向云计算消费端的shift。\nMSFT是AI capex叙事启动以来第一个超大规模企业没有上调capex指引，与此同时，微软Azure加速到43%固定汇率增长，Copilot付费座位突破3000万（净增1000万），Google Cloud +82% yoy。\n这里的关键是价值链的时序结构。半导体订单是领先指标，云计算消费是滞后6-12个月的确认指标。现在出现了一个罕见剪刀差——半导体增长率在减速（MSFT capex收窄），但云计算消费增长率在加速（Azure 43%+Copilot 30M）。这个窗口通常只持续1-2个季度。\n还有一些被忽略的细节：韩国存储专家电话会议透露LTA（长期协议）覆盖超过50%的服务器DRAM，包含预付款和take-or-pay条款。这意味着云服务商已经锁定了内存成本——明年HBM定价翻倍的预期主要由没签LTA的买家承担。半导体在卖\"涨价预期\"，云服务商在享受\"成本锁定+消费加速\"。\n所以我做多云不做半导体。GOOG的Cloud +82%最猛但被反垄断压制估值，asymmetry更好。NBIS是pure-play AI云基础设施，直接表达utilization加速。不做空半导体是因为一阶导仍然很强（HBM翻倍、博通AI收入&gt;$1万亿），做空一阶导仍然强劲的资产timing不对会被squeeze，正确的表达是不参与而非做空。\n认错条件：8月核心PCE &gt;0.25% m/m则债券thesis invalidate；Google或Amazon Q3 capex继续上调而非收窄，则AI价值链shift判断错误，本次维持capex是孤立事件。",
+      "publishedAt": "2026-07-30T03:06:00.000Z",
+      "link": "https://x.com/Franktradinglog/status/2082664122572017983",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2082657327799488557",
       "username": "qinbafrank",
       "displayName": "qinbafrank",
@@ -2867,6 +3260,25 @@
         "content": "市场对软件还是仁慈的，缓慢下跌了大半年。对半导体是一个月让你腰斩",
         "contentHtml": "市场对软件还是仁慈的，缓慢下跌了大半年。对半导体是一个月让你腰斩",
         "link": "https://x.com/MikeliuAsdsf/status/2082483691784487068"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2082484359638995027",
+      "username": "paulbrigner",
+      "displayName": "Paul Brigner 🛡️",
+      "avatar": "https://pbs.twimg.com/profile_images/2031148069933174784/Y6egkRMe_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-07-29T15:12:00.000Z",
+      "link": "https://x.com/paulbrigner/status/2082484359638995027",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -5203,32 +5615,6 @@
       "contentHtml": "时间线里终于少了白毛股神，市场里面没有神，大家都是学生，我理解很多人爱抄作业，同样，现在我要提醒的是不要觉得这次空仓跑掉的下次能低位满仓进去，这个世界上不存在这个策略。我最大仓位的英特尔也跌了不少，没人骂我，因为涨的时候我也不拿出来晒，给你们制造FOMO心态，做为KOL，我也已经过了享受这种做对了留言区都来夸我的阶段，白毛股神能发YTD50倍的涨幅，现在也是他应该承受的，抄作业的也是那些人该承受的，当时疯狂宣传他的自媒体不是傻（脑子不好）就是坏（为了流量）。这种下跌心中的锚在哪？只有那些赚钱的公司判断未来盈利的确定性和P/E。估值高的时候按照纪律卖，估值低的时候按照纪律买。",
       "publishedAt": "2026-07-28T15:00:00.000Z",
       "link": "https://x.com/TJ_Research/status/2082119022812840300",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082118187835908395",
-      "username": "zkDragon",
-      "displayName": "Dev",
-      "avatar": "https://pbs.twimg.com/profile_images/1463738500591894529/eQbV2qir_bigger.jpg",
-      "content": "Even for those deep in Zcash for years, this should fundamentally increase your confidence in the project.\n\nNo more fear of \"did they get the math wrong\".\n\nSomething better exists than a 100 audits & researchers\n\nMathematical proof, checked by machines, of no undetectable bugs.",
-      "contentHtml": "Even for those deep in Zcash for years, this should fundamentally increase your confidence in the project.\n\nNo more fear of \"did they get the math wrong\".\n\nSomething better exists than a 100 audits &amp; researchers\n\nMathematical proof, checked by machines, of no undetectable bugs.",
-      "publishedAt": "2026-07-28T14:57:00.000Z",
-      "link": "https://x.com/zkDragon/status/2082118187835908395",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "ebfull",
-        "displayName": "Sean Bowe",
-        "content": "Soundness of our zk-SNARK would have been great on its own. But a cross-team collaboration has just changed Zcash's history forever, eliminating all sources of undetectable counterfeiting bugs from the new Ironwood protocol.",
-        "contentHtml": "Soundness of our zk-SNARK would have been great on its own. But a cross-team collaboration has just changed Zcash's history forever, eliminating all sources of undetectable counterfeiting bugs from the new Ironwood protocol.",
-        "link": "https://x.com/ebfull/status/2082104977196270052"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -8163,25 +8549,6 @@
       }
     },
     {
-      "id": "2081727249473049079",
-      "username": "zkDragon",
-      "displayName": "Dev",
-      "avatar": "https://pbs.twimg.com/profile_images/1463738500591894529/eQbV2qir_bigger.jpg",
-      "content": "Tomorrow Ironwood brings:\n- Formally verified shielded pool\n- Quantum recoverability\n- Privacy-preserving pool deprecation & migration logic\n\nThe third is actually where all the work for this upgrade has gone. We want you to be able to migrate while preventing anyone from learning your exact balance, or linking your deposits.\n\nAt a glance:\n- We must freeze Orchard, while allowing withdraws and splitting up your own txs\n  - Turns out no shielded pool considered allowing private fund-splitting in withdraw only mode!\n  - This is the circuit update\n- Orchard ZKP's are \"per action\" not \"per tx\". So we must  prove \n- We must make it possible to pre-sign all your txs.\n  - It was news to me this was not possible prior to this upgrade. RIP multisigs. Now it is :)\n- We must make your hardware wallets capable of pre-signing ~100 txs. Would have taken hours before. Now minutes.\n- Make your wallets able to produce dozens of ZKP's in the background. This involves fighting the limits of background wallet syncing and background compute\n\nThe wallet stack has had large rewrites to facilitate this, shoutout to everyone involved!\n\nAnd that doesn't even include all the parallel work in scale and making the p2p stack more connected, and secure!",
-      "contentHtml": "Tomorrow Ironwood brings:\n- Formally verified shielded pool\n- Quantum recoverability\n- Privacy-preserving pool deprecation & migration logic\n\nThe third is actually where all the work for this upgrade has gone. We want you to be able to migrate while preventing anyone from learning your exact balance, or linking your deposits.\n\nAt a glance:\n- We must freeze Orchard, while allowing withdraws and splitting up your own txs\n  - Turns out no shielded pool considered allowing private fund-splitting in withdraw only mode!\n  - This is the circuit update\n- Orchard ZKP's are \"per action\" not \"per tx\". So we must  prove \n- We must make it possible to pre-sign all your txs.\n  - It was news to me this was not possible prior to this upgrade. RIP multisigs. Now it is :)\n- We must make your hardware wallets capable of pre-signing ~100 txs. Would have taken hours before. Now minutes.\n- Make your wallets able to produce dozens of ZKP's in the background. This involves fighting the limits of background wallet syncing and background compute\n\nThe wallet stack has had large rewrites to facilitate this, shoutout to everyone involved!\n\nAnd that doesn't even include all the parallel work in scale and making the p2p stack more connected, and secure!",
-      "publishedAt": "2026-07-27T13:03:00.000Z",
-      "link": "https://x.com/zkDragon/status/2081727249473049079",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2081722616776212675",
       "username": "naval",
       "displayName": "Naval",
@@ -10570,32 +10937,6 @@
       }
     },
     {
-      "id": "2080993777167007935",
-      "username": "billxbf",
-      "displayName": "Binfeng Xu",
-      "avatar": "https://pbs.twimg.com/profile_images/1970222268308754432/cAl6rc65_bigger.jpg",
-      "content": "This sounds logically embarrassing.\n1. Proprietary products and supporting OSS aren’t contradictory. @satyanadella doesn’t call Linux “unsafe”. @JensenHuang doesn’t campaign against ROCm / OpenCL. Compete and coevolve.\n2. LLMs are made happen by “distilling” 40 years of collective intellectual property thanks to the open culture of the Internet. Pulling up the ladder here is misanthropic for the next generation.",
-      "contentHtml": "This sounds logically embarrassing.\n1. Proprietary products and supporting OSS aren’t contradictory. <a href=\"/satyanadella\" title=\"Satya Nadella\">@satyanadella</a> doesn’t call Linux “unsafe”. <a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> doesn’t campaign against ROCm / OpenCL. Compete and coevolve.\n2. LLMs are made happen by “distilling” 40 years of collective intellectual property thanks to the open culture of the Internet. Pulling up the ladder here is misanthropic for the next generation.",
-      "publishedAt": "2026-07-25T12:29:00.000Z",
-      "link": "https://x.com/billxbf/status/2080993777167007935",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Mononofu",
-        "displayName": "Julian Schrittwieser",
-        "content": "I’m so excited that @JensenHuang is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
-        "contentHtml": "I’m so excited that <a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
-        "link": "https://x.com/Mononofu/status/2080937562739531837"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2080963963085570186",
       "username": "0xleng1",
       "displayName": "Leng",
@@ -11591,446 +11932,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HOAi1P2XQAAZyGc.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080688583292137760",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "两家大模型，特别是A，已经赚翻，还想通过游说让美国政府禁了中国开源，别看A现在几乎绑定了所有芯片公司，在开源上还是各自为了立场站边。别扯一些有的没的，说明Kimi K3的出现A是真的慌了",
-      "contentHtml": "两家大模型，特别是A，已经赚翻，还想通过游说让美国政府禁了中国开源，别看A现在几乎绑定了所有芯片公司，在开源上还是各自为了立场站边。别扯一些有的没的，说明Kimi K3的出现A是真的慌了",
-      "publishedAt": "2026-07-24T16:16:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2080688583292137760",
-      "quote": {
-        "username": "JensenHuang",
-        "displayName": "Jensen Huang",
-        "content": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.\n\nThe world needs both frontier closed models and frontier open models.\n\nimages.nvidia.com/pdf/Open-W…",
-        "contentHtml": "For my first post, I’m sharing a letter <a href=\"/NVIDIA\" title=\"NVIDIA\">@NVIDIA</a> signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.\n\nThe world needs both frontier closed models and frontier open models.\n\n<a href=\"https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf\">images.nvidia.com/pdf/Open-W…</a>",
-        "link": "https://x.com/JensenHuang/status/2080643682408321103",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN_qDVsa4AAI6XJ.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN_qDV1a8AARQwg.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080688024036536337",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "dappos可以注册空投了，当年撸的tx不知道有没有用",
-      "contentHtml": "dappos可以注册空投了，当年撸的tx不知道有没有用",
-      "publishedAt": "2026-07-24T16:14:00.000Z",
-      "link": "https://x.com/0xleng1/status/2080688024036536337",
-      "quote": {
-        "username": "dappOS_com",
-        "displayName": "DAPPOS",
-        "content": "Today, DAPPOS is opening its official Airdrop Registration Portal as part of its preparations for the next stage of the DAPPOS ecosystem.\n\nRegistration period: July 24, 00:00 UTC – August 2, 00:00 UTC\n\nPlease make sure your registration is completed within the registration period so your airdrop eligibility can be reviewed.\n\nFor registration details, refer only to the official link below.\n\nRegister here: dappos.com/airdrop-register",
-        "contentHtml": "Today, DAPPOS is opening its official Airdrop Registration Portal as part of its preparations for the next stage of the DAPPOS ecosystem.\n\nRegistration period: July 24, 00:00 UTC – August 2, 00:00 UTC\n\nPlease make sure your registration is completed within the registration period so your airdrop eligibility can be reviewed.\n\nFor registration details, refer only to the official link below.\n\nRegister here: <a href=\"https://dappos.com/airdrop-register\">dappos.com/airdrop-register</a>",
-        "link": "https://x.com/dappOS_com/status/2080639245317009723",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN_qXKUaQAAitN0.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080686195697438860",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "看阿曼这条新闻的时间点，也是纳指今晚盘中到现在的最低点。只要有缓和的可能，对市场情绪都是提振",
-      "contentHtml": "看阿曼这条新闻的时间点，也是纳指今晚盘中到现在的最低点。只要有缓和的可能，对市场情绪都是提振",
-      "publishedAt": "2026-07-24T16:07:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2080686195697438860",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOAVEJ7aIAEHnXa.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOAVEKFa8AAbg7-.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "昨晚美股的三条逻辑线及对之后的几点思考：\n1）中东冲突推动布油突破100美元，十年美债收益率突破4.7%升至25年初以来最高点，美元指数走强。也是之前聊到毫无疑问风资产都要承压；\n2）谷歌和特斯拉的财报暴露资本开支、自由现金流问题，市场重新定价AI投资回报率；\n3）基于上面两点，资金转向拥有订单、积压订单、供给瓶颈和近期现金流的供应方。算力产业链上游环节，国防军工等，\n\n几个思考：\n1、短期内市场还是会面临宏观层面的风险压制，今天韩股跌主要因素也是宏观风险压制，而去杠杆可能都变成了第二权重；\n\n2、而近期宏观因素的核心还是油价，早上这里nitter.net/qinbafrank/status/2080…也有聊过，油价走高长债收益率走高相关性很明显。看到不少人说的沃什放弃前瞻指引、私营公司发债多、国债发行等因素，应该并不是近期US10Y走高的主要因素，这几个因素是长期影响市场的，但明显短期并不是，需要区分清楚。\n\n3、既然油价是核心因素，最终还是看美伊冲突博弈的走向。个人角度还是当下双方更加强硬，短期可能还要升级，但最终还是会走向和谈和停火。这里的核心逻辑：\n美国掌握“升级权”，伊朗掌握“拒止权”；\n美国能摧毁目标，伊朗能持续抬高航运、能源、驻军和盟友的成本。\n\n明显不断升级对川普来说成本和代价是巨大的，最终会在某个时候停下来继续谈。但是这中间的路径现在看还是不清晰的。\n未来市场看到要停下来的时候，也就可能是市场的拐点。但这之前市场也比较难受 \n\n4、昨天谷歌财报说明了一点，AI需求是没问题的，其增速远超大家的预期的。现在的问题就是为了应对快速飙升的需求，大云厂商大力度资本开支，但是建设是有周期的，今年投入明年才有产出。两周前在这里nitter.net/qinbafrank/status/2076…后半部分有有聊到“对超大CSP也带来新的挑战：时间差”\n\n市场可能先看到\nCapex和人力投入（未来企业采用AI需要更多的FDE）上升\n→ 然后才能看到POC和合同 \n→ 再看到生产工作负载 \n→ 最后才看到自由现金流和ROIC。\n\n简单说就是“钱先花出去，赚回来需要点时间（大概率是赚回来）”，现在看这个时间差是不是就是当前AI投资争议的核心？\n\n4、资本开支还要继续加大投入，需求飙升，谁降谁落后。\n1）资金还是就需要往算力产业链上游各个环节流，需求和订单是确定的。\n\n2）但也有新变化，以谷歌为例，25年资本开支900亿，26年增长120%到2000亿美金，27年还能120%的增长么，应该不行。即使27年谷歌资本开支3000多亿美金， capex增速也就降到了百分之大几十。\n\n3）其实就是进入新阶段：\n今年可能是capex增速最快的一年，再往后capex的绝对值还会继续往上涨，但是增速可能要回落。这其实意味着半导体投资进入新阶段\n\n简单说市场都认识到了AI算力产链条的瓶颈和卡脖子，那么投资就要更进一步：不是只站在瓶颈上，不是只处于卡脖子环节就可以了，你还要看这家企业这个在这个瓶颈和卡脖子的节点上是不是独特的、不可替代的、技术路线正确的、不仅订单一大把交付还能持续超预期。同时还要这技术演进和落地的节奏到底是如何的？\n\n算力产业链最舒服的投资阶段过去了，对标的选择的要求更高了。\n\n4）大科技资本开支，晶圆厂资本开支，越往上游还是会越受益。订单的确定性没问题，而且兑现速度会更快。\n存储还有不小的空间，但也得承认过去一年涨幅最暴力的阶段也过去了；\n光互联看兑现的节奏，如果落地兑现节奏快，空间也很好。\n设备、材料、封装测试等环节是可以，大厂和晶圆厂的钱都要流到更上的环节流。\n这些都得等到上面聊到宏观好转风险压制解除，才能真正兑现。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "昨晚美股的三条逻辑线及对之后的几点思考：\n1）中东冲突推动布油突破100美元，十年美债收益率突破4.7%升至25年初以来最高点，美元指数走强。也是之前聊到毫无疑问风资产都要承压；\n2）谷歌和特斯拉的财报暴露资本开支、自由现金流问题，市场重新定价AI投资回报率；\n3）基于上面两点，资金转向拥有订单、积压订单、供给瓶颈和近期现金流的供应方。算力产业链上游环节，国防军工等，\n\n几个思考：\n1、短期内市场还是会面临宏观层面的风险压制，今天韩股跌主要因素也是宏观风险压制，而去杠杆可能都变成了第二权重；\n\n2、而近期宏观因素的核心还是油价，早上这里<a href=\"https://nitter.net/qinbafrank/status/2080455283319660801?s=20\">nitter.net/qinbafrank/status/2080…</a>也有聊过，油价走高长债收益率走高相关性很明显。看到不少人说的沃什放弃前瞻指引、私营公司发债多、国债发行等因素，应该并不是近期US10Y走高的主要因素，这几个因素是长期影响市场的，但明显短期并不是，需要区分清楚。\n\n3、既然油价是核心因素，最终还是看美伊冲突博弈的走向。个人角度还是当下双方更加强硬，短期可能还要升级，但最终还是会走向和谈和停火。这里的核心逻辑：\n美国掌握“升级权”，伊朗掌握“拒止权”；\n美国能摧毁目标，伊朗能持续抬高航运、能源、驻军和盟友的成本。\n\n明显不断升级对川普来说成本和代价是巨大的，最终会在某个时候停下来继续谈。但是这中间的路径现在看还是不清晰的。\n未来市场看到要停下来的时候，也就可能是市场的拐点。但这之前市场也比较难受 \n\n4、昨天谷歌财报说明了一点，AI需求是没问题的，其增速远超大家的预期的。现在的问题就是为了应对快速飙升的需求，大云厂商大力度资本开支，但是建设是有周期的，今年投入明年才有产出。两周前在这里<a href=\"https://nitter.net/qinbafrank/status/2076839550119444702\">nitter.net/qinbafrank/status/2076…</a>后半部分有有聊到“对超大CSP也带来新的挑战：时间差”\n\n市场可能先看到\nCapex和人力投入（未来企业采用AI需要更多的FDE）上升\n→ 然后才能看到POC和合同 \n→ 再看到生产工作负载 \n→ 最后才看到自由现金流和ROIC。\n\n简单说就是“钱先花出去，赚回来需要点时间（大概率是赚回来）”，现在看这个时间差是不是就是当前AI投资争议的核心？\n\n4、资本开支还要继续加大投入，需求飙升，谁降谁落后。\n1）资金还是就需要往算力产业链上游各个环节流，需求和订单是确定的。\n\n2）但也有新变化，以谷歌为例，25年资本开支900亿，26年增长120%到2000亿美金，27年还能120%的增长么，应该不行。即使27年谷歌资本开支3000多亿美金， capex增速也就降到了百分之大几十。\n\n3）其实就是进入新阶段：\n今年可能是capex增速最快的一年，再往后capex的绝对值还会继续往上涨，但是增速可能要回落。这其实意味着半导体投资进入新阶段\n\n简单说市场都认识到了AI算力产链条的瓶颈和卡脖子，那么投资就要更进一步：不是只站在瓶颈上，不是只处于卡脖子环节就可以了，你还要看这家企业这个在这个瓶颈和卡脖子的节点上是不是独特的、不可替代的、技术路线正确的、不仅订单一大把交付还能持续超预期。同时还要这技术演进和落地的节奏到底是如何的？\n\n算力产业链最舒服的投资阶段过去了，对标的选择的要求更高了。\n\n4）大科技资本开支，晶圆厂资本开支，越往上游还是会越受益。订单的确定性没问题，而且兑现速度会更快。\n存储还有不小的空间，但也得承认过去一年涨幅最暴力的阶段也过去了；\n光互联看兑现的节奏，如果落地兑现节奏快，空间也很好。\n设备、材料、封装测试等环节是可以，大厂和晶圆厂的钱都要流到更上的环节流。\n这些都得等到上面聊到宏观好转风险压制解除，才能真正兑现。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2080540272245502111"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080685139227500745",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "Has everyone suddenly forgotten that $BTC made a new ATH before the halving last cycle?\n\nHave people forgotten that we reached a new ATH just 476 days after the bottom? Significantly faster than the previous 2 cycles?\n\nThe cycle has accelerated.\n\nI expect the same thing to happen again.\n\n$BTC will make a new ATH pre-halving this cycle as well.\n\nWhich means bottoms will form quicker & so will tops. \n\nSeasonality works until it doesn't. \n\nWe weren’t supposed to break the ATH pre-halving based on historical seasonality, yet we did.\n\nWe were supposed to top in November–December based on seasonality, yet the cycle topped just days into October.\n\nCycles don’t follow a perfect script, so expecting the timing to mirror previous cycles perfectly is unreasonable, especially when subtle signs are already suggesting otherwise.\n\nFew understand.",
-      "contentHtml": "Has everyone suddenly forgotten that <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> made a new ATH before the halving last cycle?\n\nHave people forgotten that we reached a new ATH just 476 days after the bottom? Significantly faster than the previous 2 cycles?\n\nThe cycle has accelerated.\n\nI expect the same thing to happen again.\n\n<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> will make a new ATH pre-halving this cycle as well.\n\nWhich means bottoms will form quicker & so will tops. \n\nSeasonality works until it doesn't. \n\nWe weren’t supposed to break the ATH pre-halving based on historical seasonality, yet we did.\n\nWe were supposed to top in November–December based on seasonality, yet the cycle topped just days into October.\n\nCycles don’t follow a perfect script, so expecting the timing to mirror previous cycles perfectly is unreasonable, especially when subtle signs are already suggesting otherwise.\n\nFew understand.",
-      "publishedAt": "2026-07-24T16:02:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2080685139227500745",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOATM11XkAENlnj.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080680473223925907",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "江西农村人奋斗的一生，就是从首陀罗成为吠舍。",
-      "contentHtml": "江西农村人奋斗的一生，就是从首陀罗成为吠舍。",
-      "publishedAt": "2026-07-24T15:44:00.000Z",
-      "link": "https://x.com/taresky/status/2080680473223925907",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080677489383469496",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "常学常新啊，还有这样的玩法吗🥹\n\n结论先行：$DEXE 11 天闪崩 96.8%($49.423 > $1.56)，似乎与 DWF Labs 有关\n\n先看时间线👇\n\n$DEXE 在 07.12 达到历史新高 $49.432，07.13 开始下跌，其中 07.21 单日最大跌幅达到惊人的 88%($46.93 > $5.648)，这里引用的都是现货数据\n\n而链上大额资金流转基本都是 CEX 热钱包，没看到什么异常，除了「Ceffu」\n\n托管平台 Ceffu 自 07.13 起累计向 #Binance 转移了 797917.24 枚 DEXE，分为 6 笔交易，共价值 615 万美元，是该代币除交易所外唯一转移规模超百万美元的实体；而查阅文档后，我发现由于 Ceffu MirrorX 机制的存在，「交易所砸盘先行，托管资产后置结算」似乎是可行的\n\n交易传送门 👉 arkm.com/explorer/entity/cef…\n\n那么，事情就变得有趣起来了\n\n保管在 Ceffu 中的 DEXE，会在交易所生成一份 1:1 的镜像仓位便于风控和交易，而链上的资产转移会在事后自动结算 —— 似乎有人在 07.13 之前利用了这一点砸盘，若属实，79.8 万枚 DEXE 对应的实际价值应该为 3944 万美元，足以将币价砸出个天坑了\n\n所以是谁砸的？\n\n项目方自然是首要怀疑对象，但我找了下公开资料，没有发现他们将 DEXE 托管在 Ceffu 的信息，而大部分代币是被存放在 DAO 金库和团队相关锁仓合约中的，那么这部分托管资金是哪来的？\n\n在 DEXE 官方的合作名单中使用排除法，找到了 Falcon 曾支持 DEXE 作为平台抵押资产，而前者的资产托管机构就包含 Ceffu… Falcon Finance 可以说是 DWF 的亲儿子了，而 DWF Labs 也好巧不巧就在合作伙伴名单中😂 莫非 难道 真的是，这位老面孔吗…？\n\n以上，仅是一些从链上数据出发 + 线索倒推得出的粗糙结论，不排除是项目方监守自盗或其他做市商作恶，仅供参考，如果有任何错漏之处欢迎指正",
-      "contentHtml": "常学常新啊，还有这样的玩法吗🥹\n\n结论先行：$DEXE 11 天闪崩 96.8%($49.423 &gt; $1.56)，似乎与 DWF Labs 有关\n\n先看时间线👇\n\n<a href=\"/search?f=tweets&q=%23DEXE\">$DEXE</a> 在 07.12 达到历史新高 $49.432，07.13 开始下跌，其中 07.21 单日最大跌幅达到惊人的 88%($46.93 &gt; $5.648)，这里引用的都是现货数据\n\n而链上大额资金流转基本都是 CEX 热钱包，没看到什么异常，除了「Ceffu」\n\n托管平台 Ceffu 自 07.13 起累计向 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 转移了 797917.24 枚 DEXE，分为 6 笔交易，共价值 615 万美元，是该代币除交易所外唯一转移规模超百万美元的实体；而查阅文档后，我发现由于 Ceffu MirrorX 机制的存在，「交易所砸盘先行，托管资产后置结算」似乎是可行的\n\n交易传送门 👉 <a href=\"https://arkm.com/explorer/entity/ceffu\">arkm.com/explorer/entity/cef…</a>\n\n那么，事情就变得有趣起来了\n\n保管在 Ceffu 中的 DEXE，会在交易所生成一份 1:1 的镜像仓位便于风控和交易，而链上的资产转移会在事后自动结算 —— 似乎有人在 07.13 之前利用了这一点砸盘，若属实，79.8 万枚 DEXE 对应的实际价值应该为 3944 万美元，足以将币价砸出个天坑了\n\n所以是谁砸的？\n\n项目方自然是首要怀疑对象，但我找了下公开资料，没有发现他们将 DEXE 托管在 Ceffu 的信息，而大部分代币是被存放在 DAO 金库和团队相关锁仓合约中的，那么这部分托管资金是哪来的？\n\n在 DEXE 官方的合作名单中使用排除法，找到了 Falcon 曾支持 DEXE 作为平台抵押资产，而前者的资产托管机构就包含 Ceffu… Falcon Finance 可以说是 DWF 的亲儿子了，而 DWF Labs 也好巧不巧就在合作伙伴名单中😂 莫非 难道 真的是，这位老面孔吗…？\n\n以上，仅是一些从链上数据出发 + 线索倒推得出的粗糙结论，不排除是项目方监守自盗或其他做市商作恶，仅供参考，如果有任何错漏之处欢迎指正",
-      "publishedAt": "2026-07-24T15:32:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2080677489383469496",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOAM_G7agAANxwy.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOANBzRa0AANkdg.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080673941845356616",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "CL上涨目前最大的影响\n\n1. 首先是重新抬升美国通胀预期。油价会迅速传导到汽油、运输和商品成本，因此市场会先削减降息预期；如果油价长期维持高位、核心通胀也没有回落，甚至可能重新交易加息。\n\n2. 第二个影响是日韩市场。日本和韩国都高度依赖经过霍尔木兹海峡的中东能源，油价上涨会恶化贸易条件，并对日元、韩元和企业利润形成压力。\n\n韩国指数又高度集中于三星电子和SK海力士，一旦能源冲击叠加美债收益率上升和科技股估值压缩，KOSPI的波动会被进一步放大。",
-      "contentHtml": "CL上涨目前最大的影响\n\n1. 首先是重新抬升美国通胀预期。油价会迅速传导到汽油、运输和商品成本，因此市场会先削减降息预期；如果油价长期维持高位、核心通胀也没有回落，甚至可能重新交易加息。\n\n2. 第二个影响是日韩市场。日本和韩国都高度依赖经过霍尔木兹海峡的中东能源，油价上涨会恶化贸易条件，并对日元、韩元和企业利润形成压力。\n\n韩国指数又高度集中于三星电子和SK海力士，一旦能源冲击叠加美债收益率上升和科技股估值压缩，KOSPI的波动会被进一步放大。",
-      "publishedAt": "2026-07-24T15:18:00.000Z",
-      "link": "https://x.com/octopusycc/status/2080673941845356616",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080666435886481836",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "苹果异常坚挺，为何？因为现金流充足。但一个季度前，苹果结束了现金流中性的资本配置策略，翻译过来就是要开始投资，而非无脑回购，这个信号异常明显，难道是市场要等到真正新闻落地才开始杀吗？那你说市场到底是有效的吗？",
-      "contentHtml": "苹果异常坚挺，为何？因为现金流充足。但一个季度前，苹果结束了现金流中性的资本配置策略，翻译过来就是要开始投资，而非无脑回购，这个信号异常明显，难道是市场要等到真正新闻落地才开始杀吗？那你说市场到底是有效的吗？",
-      "publishedAt": "2026-07-24T14:48:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2080666435886481836",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080666498247594101",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "最近Stripe正是动作频频：月初推出OUSD稳定币联盟，月中传出很PE机构联手收购Paypal，下旬就穿出要收购OpenRouter。Stripe处理大量互联网交易流量，OpenRouter处理的是AI的“token 流量”。收购后，Stripe可直接切入AI消费的计量、路由和实时结算，把“AI 支出”纳入自己的生态，这算是在构建支付到AI基础设施闭环。\n\n也不得不感叹OpenRouter创始人AlexAtallah对于退出把握的干脆果断：\n作为OpenSea的联创兼CTO，22年底离开OpenSea；\n2023年初正式创立OpenRouter、现在又要把OpenRouter卖掉。",
-      "contentHtml": "最近Stripe正是动作频频：月初推出OUSD稳定币联盟，月中传出很PE机构联手收购Paypal，下旬就穿出要收购OpenRouter。Stripe处理大量互联网交易流量，OpenRouter处理的是AI的“token 流量”。收购后，Stripe可直接切入AI消费的计量、路由和实时结算，把“AI 支出”纳入自己的生态，这算是在构建支付到AI基础设施闭环。\n\n也不得不感叹OpenRouter创始人AlexAtallah对于退出把握的干脆果断：\n作为OpenSea的联创兼CTO，22年底离开OpenSea；\n2023年初正式创立OpenRouter、现在又要把OpenRouter卖掉。",
-      "publishedAt": "2026-07-24T14:48:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2080666498247594101",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOADJp1bcAAhUck.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "都在讨论OUSD对合规稳定币格局的影响，但没有人能说清楚OpenStandard是一家什么样的公司？这恰恰应该是最关键的因素，一个项目一家公司能不能做起来还是要聚焦这家公司的基本面。聊聊几个问题：\n1、OpenStandard是一家什么样的公司？\n关于OUSD的背后发行商OpenStandard并没有公布其股权架构和管理团队。现在唯一公开的是Stripe收购的跨链桥Brigdge的CEO Zach Abrams现在兼任着OpenStandard的创始CEO。\n\n所以个人有理由相信OUSD是Stripe系（通过 Zach Abrams）牵头、联合大量传统金融和科技巨头共同打造的一个“行业共享基础设施”项目。\n它既有 Stripe 明显的战略意图（扩展 Bridge 的能力、抢占稳定币支付网络），又有广泛的联盟背书（140+ 公司），属于“Stripe 带头 + 大家一起玩”的模式。\n\nStripe 收购 Bridge后，通过Zach Abrams把 Bridge的稳定币基础设施能力延伸到了一个更大的行业联盟里，相当于用一个“中立外壳”把 Stripe 的影响扩大到 Visa、Mastercard、BlackRock、Coinbase 等 140 多家机构。\n\n然后Stripe也一直在大力推动稳定币支付基础设施。\n\n可以认为它是 Stripe 攒的局（尤其是从战略意图和核心操盘人来看）。当然更准确地说，它是一个 Stripe 主导的行业联盟项目。\n\n2、既然是Stripe牵头的行业联盟，这么多参与方都是真心想跟它一起玩耍么？\nOpen USD 的140多个行业合作伙伴里，真心程度可能差异很大，\n1）最可能真心共建的机构（高动力）\n这些机构能直接从 OUSD 的储备收益共享机制中获益，动力最强：\n中小银行、支付处理器、电商/商户平台（如 Shopify、DoorDash、Ramp、Brex、OnePay 等）他们以前用 USDC/USDT 时，储备利息基本被发行方赚走。现在采用 OUSD 后，自己分发的量越大，能拿到的储备收益越多。这形成了直接的经济激励。\n\n2）战略性/观望参与的机构（动机复杂）\n这些是大玩家，参与更多是对冲 + 影响力 + 选项权：\n这里Visa 和 Mastercard是最关键的两个，他们已经公开支持并把 OUSD 视为“开放基础设施”。但大概率是“既要又要”——坐在董事会里影响规则、获得数据洞察、防止被 Stripe 完全主导，同时保持自己现有业务不受冲击。\n\nBlackRock 等资产管理巨头\n他们更关心储备资产管理和合规性。OUSD 的多方治理和监管友好定位对他们有吸引力，但不会把全部资源押在这上面。\n\n传统大银行（BNY、Standard Chartered、BBVA 等），参与主要是为了“有席位”和未来选项。目前稳定币对他们还是辅助业务。\n\n3）向coinbase这样的机构、下午的推文有详细聊过，明显usdc给coinbase的利益更大。\n\n3、这就有了潜在阻碍“真心共建”的因素\n1）直接竞争关系，Visa/Mastercard 和 Stripe 在支付领域是竞争对手。他们不太可能把核心流量和影响力全部让给 Stripe 主导的项目。\n\n2）类似 Libra/Diem 这种大联盟最终失败，就是因为参与方利益冲突太大。\n\n3）治理博弈风险，140+ 伙伴董事会里，决策可能慢、妥协多，甚至被少数大玩家（包括 Stripe）影响。核心就是利益冲突带来的治理博弈。\n\n当然因为是Stripe主导，还是会有很多中小银行、支付处理器、电商平台是真心参与其中、那么可以期待OUSD确实能做到一定规模。但是真正能做到多大？还要看落地执行的节奏和效果了。",
-        "contentHtml": "都在讨论OUSD对合规稳定币格局的影响，但没有人能说清楚OpenStandard是一家什么样的公司？这恰恰应该是最关键的因素，一个项目一家公司能不能做起来还是要聚焦这家公司的基本面。聊聊几个问题：\n1、OpenStandard是一家什么样的公司？\n关于OUSD的背后发行商OpenStandard并没有公布其股权架构和管理团队。现在唯一公开的是Stripe收购的跨链桥Brigdge的CEO Zach Abrams现在兼任着OpenStandard的创始CEO。\n\n所以个人有理由相信OUSD是Stripe系（通过 Zach Abrams）牵头、联合大量传统金融和科技巨头共同打造的一个“行业共享基础设施”项目。\n它既有 Stripe 明显的战略意图（扩展 Bridge 的能力、抢占稳定币支付网络），又有广泛的联盟背书（140+ 公司），属于“Stripe 带头 + 大家一起玩”的模式。\n\nStripe 收购 Bridge后，通过Zach Abrams把 Bridge的稳定币基础设施能力延伸到了一个更大的行业联盟里，相当于用一个“中立外壳”把 Stripe 的影响扩大到 Visa、Mastercard、BlackRock、Coinbase 等 140 多家机构。\n\n然后Stripe也一直在大力推动稳定币支付基础设施。\n\n可以认为它是 Stripe 攒的局（尤其是从战略意图和核心操盘人来看）。当然更准确地说，它是一个 Stripe 主导的行业联盟项目。\n\n2、既然是Stripe牵头的行业联盟，这么多参与方都是真心想跟它一起玩耍么？\nOpen USD 的140多个行业合作伙伴里，真心程度可能差异很大，\n1）最可能真心共建的机构（高动力）\n这些机构能直接从 OUSD 的储备收益共享机制中获益，动力最强：\n中小银行、支付处理器、电商/商户平台（如 Shopify、DoorDash、Ramp、Brex、OnePay 等）他们以前用 USDC/USDT 时，储备利息基本被发行方赚走。现在采用 OUSD 后，自己分发的量越大，能拿到的储备收益越多。这形成了直接的经济激励。\n\n2）战略性/观望参与的机构（动机复杂）\n这些是大玩家，参与更多是对冲 + 影响力 + 选项权：\n这里Visa 和 Mastercard是最关键的两个，他们已经公开支持并把 OUSD 视为“开放基础设施”。但大概率是“既要又要”——坐在董事会里影响规则、获得数据洞察、防止被 Stripe 完全主导，同时保持自己现有业务不受冲击。\n\nBlackRock 等资产管理巨头\n他们更关心储备资产管理和合规性。OUSD 的多方治理和监管友好定位对他们有吸引力，但不会把全部资源押在这上面。\n\n传统大银行（BNY、Standard Chartered、BBVA 等），参与主要是为了“有席位”和未来选项。目前稳定币对他们还是辅助业务。\n\n3）向coinbase这样的机构、下午的推文有详细聊过，明显usdc给coinbase的利益更大。\n\n3、这就有了潜在阻碍“真心共建”的因素\n1）直接竞争关系，Visa/Mastercard 和 Stripe 在支付领域是竞争对手。他们不太可能把核心流量和影响力全部让给 Stripe 主导的项目。\n\n2）类似 Libra/Diem 这种大联盟最终失败，就是因为参与方利益冲突太大。\n\n3）治理博弈风险，140+ 伙伴董事会里，决策可能慢、妥协多，甚至被少数大玩家（包括 Stripe）影响。核心就是利益冲突带来的治理博弈。\n\n当然因为是Stripe主导，还是会有很多中小银行、支付处理器、电商平台是真心参与其中、那么可以期待OUSD确实能做到一定规模。但是真正能做到多大？还要看落地执行的节奏和效果了。",
-        "link": "https://x.com/qinbafrank/status/2072324896063943104",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMJgW1jbwAATQXh.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMJgW1hbEAAFZPo.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080665787585679582",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "按照CL现在的走势来看，Trump Show将随时上演（虽然这次可能真的难TACO\n\nTrump 无法忍受加息！",
-      "contentHtml": "按照CL现在的走势来看，Trump Show将随时上演（虽然这次可能真的难TACO\n\nTrump 无法忍受加息！",
-      "publishedAt": "2026-07-24T14:45:00.000Z",
-      "link": "https://x.com/octopusycc/status/2080665787585679582",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080664036354793626",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "「先定 10 个大目标」老哥 @Jason60704294 超 1.9 亿美元的 $BTC 多单已止损离场😬\n\n他此前曾提到「这笔多单的止损区间为 6.15-6.4w」，若 2933.635 BTC 的多单持仓不变，结合推文中亏损 2 个点的描述，实际亏损金额预计在 381 万美元左右，回吐了一小部分利润\n\n说实话这个资金体量，无论是心理压力还是资金风险都太大了，关闭实盘也在预料之中吧",
-      "contentHtml": "「先定 10 个大目标」老哥 <a href=\"/Jason60704294\" title=\"jasonleo\">@Jason60704294</a> 超 1.9 亿美元的 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 多单已止损离场😬\n\n他此前曾提到「这笔多单的止损区间为 6.15-6.4w」，若 2933.635 BTC 的多单持仓不变，结合推文中亏损 2 个点的描述，实际亏损金额预计在 381 万美元左右，回吐了一小部分利润\n\n说实话这个资金体量，无论是心理压力还是资金风险都太大了，关闭实盘也在预料之中吧",
-      "publishedAt": "2026-07-24T14:38:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2080664036354793626",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN__cztboAAzhjY.png"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "OMG 你吓到我啦（脑补 BGM\n怎么才两天不到币安实盘就关掉了…🥲\n\n@Jason60704294 老哥是发现开了后被盯得太紧了吗哈哈，伤心太平洋了",
-        "contentHtml": "OMG 你吓到我啦（脑补 BGM\n怎么才两天不到币安实盘就关掉了…🥲\n\n<a href=\"/Jason60704294\" title=\"jasonleo\">@Jason60704294</a> 老哥是发现开了后被盯得太紧了吗哈哈，伤心太平洋了",
-        "link": "https://x.com/ai_9684xtpa/status/2080579022191464592",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN-zWQ1akAAY8FS.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080662961220366392",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "关于这两天市场📉，核心还是昨晚美股盘前这里nitter.net/qinbafrank/status/2080…聊到：市场面临三重宏观压力，近期开始进入宏观主导的阶段，已经不仅仅资本开支和投资回报率的问题了。当然三重宏观压力核心主因还是油价\n\n宏观风险最终解除要看美伊啥时走向缓和和谈判，下午的推文有对之后的一个思考。晚上的一个思考：美国有升级权、伊朗有拒止权，这一次伊朗的主动权其实比之前更大一些、不仅是穿欧退让、伊朗也要被打疼，taco才有效。",
-      "contentHtml": "关于这两天市场📉，核心还是昨晚美股盘前这里<a href=\"https://nitter.net/qinbafrank/status/2080282133600620724?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2080…</a>聊到：市场面临三重宏观压力，近期开始进入宏观主导的阶段，已经不仅仅资本开支和投资回报率的问题了。当然三重宏观压力核心主因还是油价\n\n宏观风险最终解除要看美伊啥时走向缓和和谈判，下午的推文有对之后的一个思考。晚上的一个思考：美国有升级权、伊朗有拒止权，这一次伊朗的主动权其实比之前更大一些、不仅是穿欧退让、伊朗也要被打疼，taco才有效。",
-      "publishedAt": "2026-07-24T14:34:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2080662961220366392",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN__7uIaoAA12AU.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "昨晚美股的三条逻辑线及对之后的几点思考：\n1）中东冲突推动布油突破100美元，十年美债收益率突破4.7%升至25年初以来最高点，美元指数走强。也是之前聊到毫无疑问风资产都要承压；\n2）谷歌和特斯拉的财报暴露资本开支、自由现金流问题，市场重新定价AI投资回报率；\n3）基于上面两点，资金转向拥有订单、积压订单、供给瓶颈和近期现金流的供应方。算力产业链上游环节，国防军工等，\n\n几个思考：\n1、短期内市场还是会面临宏观层面的风险压制，今天韩股跌主要因素也是宏观风险压制，而去杠杆可能都变成了第二权重；\n\n2、而近期宏观因素的核心还是油价，早上这里nitter.net/qinbafrank/status/2080…也有聊过，油价走高长债收益率走高相关性很明显。看到不少人说的沃什放弃前瞻指引、私营公司发债多、国债发行等因素，应该并不是近期US10Y走高的主要因素，这几个因素是长期影响市场的，但明显短期并不是，需要区分清楚。\n\n3、既然油价是核心因素，最终还是看美伊冲突博弈的走向。个人角度还是当下双方更加强硬，短期可能还要升级，但最终还是会走向和谈和停火。这里的核心逻辑：\n美国掌握“升级权”，伊朗掌握“拒止权”；\n美国能摧毁目标，伊朗能持续抬高航运、能源、驻军和盟友的成本。\n\n明显不断升级对川普来说成本和代价是巨大的，最终会在某个时候停下来继续谈。但是这中间的路径现在看还是不清晰的。\n未来市场看到要停下来的时候，也就可能是市场的拐点。但这之前市场也比较难受 \n\n4、昨天谷歌财报说明了一点，AI需求是没问题的，其增速远超大家的预期的。现在的问题就是为了应对快速飙升的需求，大云厂商大力度资本开支，但是建设是有周期的，今年投入明年才有产出。两周前在这里nitter.net/qinbafrank/status/2076…后半部分有有聊到“对超大CSP也带来新的挑战：时间差”\n\n市场可能先看到\nCapex和人力投入（未来企业采用AI需要更多的FDE）上升\n→ 然后才能看到POC和合同 \n→ 再看到生产工作负载 \n→ 最后才看到自由现金流和ROIC。\n\n简单说就是“钱先花出去，赚回来需要点时间（大概率是赚回来）”，现在看这个时间差是不是就是当前AI投资争议的核心？\n\n4、资本开支还要继续加大投入，需求飙升，谁降谁落后。\n1）资金还是就需要往算力产业链上游各个环节流，需求和订单是确定的。\n\n2）但也有新变化，以谷歌为例，25年资本开支900亿，26年增长120%到2000亿美金，27年还能120%的增长么，应该不行。即使27年谷歌资本开支3000多亿美金， capex增速也就降到了百分之大几十。\n\n3）其实就是进入新阶段：\n今年可能是capex增速最快的一年，再往后capex的绝对值还会继续往上涨，但是增速可能要回落。这其实意味着半导体投资进入新阶段\n\n简单说市场都认识到了AI算力产链条的瓶颈和卡脖子，那么投资就要更进一步：不是只站在瓶颈上，不是只处于卡脖子环节就可以了，你还要看这家企业这个在这个瓶颈和卡脖子的节点上是不是独特的、不可替代的、技术路线正确的、不仅订单一大把交付还能持续超预期。同时还要这技术演进和落地的节奏到底是如何的？\n\n算力产业链最舒服的投资阶段过去了，对标的选择的要求更高了。\n\n4）大科技资本开支，晶圆厂资本开支，越往上游还是会越受益。订单的确定性没问题，而且兑现速度会更快。\n存储还有不小的空间，但也得承认过去一年涨幅最暴力的阶段也过去了；\n光互联看兑现的节奏，如果落地兑现节奏快，空间也很好。\n设备、材料、封装测试等环节是可以，大厂和晶圆厂的钱都要流到更上的环节流。\n这些都得等到上面聊到宏观好转风险压制解除，才能真正兑现。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "昨晚美股的三条逻辑线及对之后的几点思考：\n1）中东冲突推动布油突破100美元，十年美债收益率突破4.7%升至25年初以来最高点，美元指数走强。也是之前聊到毫无疑问风资产都要承压；\n2）谷歌和特斯拉的财报暴露资本开支、自由现金流问题，市场重新定价AI投资回报率；\n3）基于上面两点，资金转向拥有订单、积压订单、供给瓶颈和近期现金流的供应方。算力产业链上游环节，国防军工等，\n\n几个思考：\n1、短期内市场还是会面临宏观层面的风险压制，今天韩股跌主要因素也是宏观风险压制，而去杠杆可能都变成了第二权重；\n\n2、而近期宏观因素的核心还是油价，早上这里<a href=\"https://nitter.net/qinbafrank/status/2080455283319660801?s=20\">nitter.net/qinbafrank/status/2080…</a>也有聊过，油价走高长债收益率走高相关性很明显。看到不少人说的沃什放弃前瞻指引、私营公司发债多、国债发行等因素，应该并不是近期US10Y走高的主要因素，这几个因素是长期影响市场的，但明显短期并不是，需要区分清楚。\n\n3、既然油价是核心因素，最终还是看美伊冲突博弈的走向。个人角度还是当下双方更加强硬，短期可能还要升级，但最终还是会走向和谈和停火。这里的核心逻辑：\n美国掌握“升级权”，伊朗掌握“拒止权”；\n美国能摧毁目标，伊朗能持续抬高航运、能源、驻军和盟友的成本。\n\n明显不断升级对川普来说成本和代价是巨大的，最终会在某个时候停下来继续谈。但是这中间的路径现在看还是不清晰的。\n未来市场看到要停下来的时候，也就可能是市场的拐点。但这之前市场也比较难受 \n\n4、昨天谷歌财报说明了一点，AI需求是没问题的，其增速远超大家的预期的。现在的问题就是为了应对快速飙升的需求，大云厂商大力度资本开支，但是建设是有周期的，今年投入明年才有产出。两周前在这里<a href=\"https://nitter.net/qinbafrank/status/2076839550119444702\">nitter.net/qinbafrank/status/2076…</a>后半部分有有聊到“对超大CSP也带来新的挑战：时间差”\n\n市场可能先看到\nCapex和人力投入（未来企业采用AI需要更多的FDE）上升\n→ 然后才能看到POC和合同 \n→ 再看到生产工作负载 \n→ 最后才看到自由现金流和ROIC。\n\n简单说就是“钱先花出去，赚回来需要点时间（大概率是赚回来）”，现在看这个时间差是不是就是当前AI投资争议的核心？\n\n4、资本开支还要继续加大投入，需求飙升，谁降谁落后。\n1）资金还是就需要往算力产业链上游各个环节流，需求和订单是确定的。\n\n2）但也有新变化，以谷歌为例，25年资本开支900亿，26年增长120%到2000亿美金，27年还能120%的增长么，应该不行。即使27年谷歌资本开支3000多亿美金， capex增速也就降到了百分之大几十。\n\n3）其实就是进入新阶段：\n今年可能是capex增速最快的一年，再往后capex的绝对值还会继续往上涨，但是增速可能要回落。这其实意味着半导体投资进入新阶段\n\n简单说市场都认识到了AI算力产链条的瓶颈和卡脖子，那么投资就要更进一步：不是只站在瓶颈上，不是只处于卡脖子环节就可以了，你还要看这家企业这个在这个瓶颈和卡脖子的节点上是不是独特的、不可替代的、技术路线正确的、不仅订单一大把交付还能持续超预期。同时还要这技术演进和落地的节奏到底是如何的？\n\n算力产业链最舒服的投资阶段过去了，对标的选择的要求更高了。\n\n4）大科技资本开支，晶圆厂资本开支，越往上游还是会越受益。订单的确定性没问题，而且兑现速度会更快。\n存储还有不小的空间，但也得承认过去一年涨幅最暴力的阶段也过去了；\n光互联看兑现的节奏，如果落地兑现节奏快，空间也很好。\n设备、材料、封装测试等环节是可以，大厂和晶圆厂的钱都要流到更上的环节流。\n这些都得等到上面聊到宏观好转风险压制解除，才能真正兑现。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2080540272245502111"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080661968697135593",
-      "username": "boundaryhq",
-      "displayName": "boundary",
-      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
-      "content": "最近基于自由现金流的选股表现好于qqq",
-      "contentHtml": "最近基于自由现金流的选股表现好于qqq",
-      "publishedAt": "2026-07-24T14:30:00.000Z",
-      "link": "https://x.com/boundaryhq/status/2080661968697135593",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080660632592920749",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "They will say they are going to by sub 60K then they will lower their targets to 50s, 40s & 30s. \n\nPussy mentality.",
-      "contentHtml": "They will say they are going to by sub 60K then they will lower their targets to 50s, 40s &amp; 30s. \n\nPussy mentality.",
-      "publishedAt": "2026-07-24T14:25:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2080660632592920749",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080660538296861048",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "当前的交易所第一股 Coinbase @coinbase  正式加入股票永续合约\n\n第一批上线了多个美股标的\n\n其中我在意的 $SKHY $OPENAI $BE $SOXL $DRAM $QQQ $SPY\n\n这算是做日内短线里相对热门的标的，这也正说明，Coinbase美股板块这里的负责人，是相对专业的，至少是一个美股玩家\n\n——————\n\n和股票永续合约一起到来的，Coinbase开放注册kyc了，KYC和注册流程大幅优化。\n\n这几乎也给了一个信号，作为目前少数上市的RWA和稳定币的头把交椅，Coinbase要开始发力了，这不免让大家想起 近期的Clarity法案。\n\n在合规的框架下，Coinbase也正在把自己从一个加密交易所转型成为一个————跨资产加密交易所\n\n这是在当前法规下的巨大进展，也可以把这个时刻当作加密的一个新的Milestone\n\n也欢迎大家注册Coinbase：advanced.coinbase.com/join/9…",
-      "contentHtml": "当前的交易所第一股 Coinbase <a href=\"/coinbase\" title=\"Coinbase 🛡️\">@coinbase</a>  正式加入股票永续合约\n\n第一批上线了多个美股标的\n\n其中我在意的 <a href=\"/search?f=tweets&q=%23SKHY\">$SKHY</a> <a href=\"/search?f=tweets&q=%23OPENAI\">$OPENAI</a> <a href=\"/search?f=tweets&q=%23BE\">$BE</a> <a href=\"/search?f=tweets&q=%23SOXL\">$SOXL</a> <a href=\"/search?f=tweets&q=%23DRAM\">$DRAM</a> <a href=\"/search?f=tweets&q=%23QQQ\">$QQQ</a> <a href=\"/search?f=tweets&q=%23SPY\">$SPY</a>\n\n这算是做日内短线里相对热门的标的，这也正说明，Coinbase美股板块这里的负责人，是相对专业的，至少是一个美股玩家\n\n——————\n\n和股票永续合约一起到来的，Coinbase开放注册kyc了，KYC和注册流程大幅优化。\n\n这几乎也给了一个信号，作为目前少数上市的RWA和稳定币的头把交椅，Coinbase要开始发力了，这不免让大家想起 近期的Clarity法案。\n\n在合规的框架下，Coinbase也正在把自己从一个加密交易所转型成为一个————跨资产加密交易所\n\n这是在当前法规下的巨大进展，也可以把这个时刻当作加密的一个新的Milestone\n\n也欢迎大家注册Coinbase：<a href=\"https://advanced.coinbase.com/join/99LLC4W\">advanced.coinbase.com/join/9…</a>",
-      "publishedAt": "2026-07-24T14:25:00.000Z",
-      "link": "https://x.com/octopusycc/status/2080660538296861048",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN_9nnkbcAAEOkA.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080651666312012124",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "要不是想抽这个门票去现场看球，我是真没好意思说。这次OKX世界杯的预测活动，最后我只撸1,600积分，大概15刀，够买两杯咖啡。\n\n总之，就是多次梭哈，多次归零。充分证明我不适合，梭哈必死。要是交易也这么玩，早就倾家荡产了。\n\n就说最后的冠军西班牙吧，在半决赛能2:0干净利落的淘汰全明星阵容的法国队，但却在小组赛被佛得角0:0逼平，这有天理吗？\n\n还有德国能被厄瓜多尔2:1击败，阿根廷也没拿下佛得角...这tm谁能想到啊.\n\n真的太难了....\n\n我看最终积分榜前三甲的小伙伴，全都是上百万积分，这是怎么做到的？如此高的认知境界，实在令人钦佩不已。\n\n不过有一说一，OKX这次的世界杯预测活动确实做的非常好。可玩性高，门槛低，体验好。这从参与人数高达41万+，就可见一斑。\n\n也祝OKX把这个产品越做越好吧；期待下个月要上的五大联赛。对我这种，菜就多练吧🤣🤣🤣",
-      "contentHtml": "要不是想抽这个门票去现场看球，我是真没好意思说。这次OKX世界杯的预测活动，最后我只撸1,600积分，大概15刀，够买两杯咖啡。\n\n总之，就是多次梭哈，多次归零。充分证明我不适合，梭哈必死。要是交易也这么玩，早就倾家荡产了。\n\n就说最后的冠军西班牙吧，在半决赛能2:0干净利落的淘汰全明星阵容的法国队，但却在小组赛被佛得角0:0逼平，这有天理吗？\n\n还有德国能被厄瓜多尔2:1击败，阿根廷也没拿下佛得角...这tm谁能想到啊.\n\n真的太难了....\n\n我看最终积分榜前三甲的小伙伴，全都是上百万积分，这是怎么做到的？如此高的认知境界，实在令人钦佩不已。\n\n不过有一说一，OKX这次的世界杯预测活动确实做的非常好。可玩性高，门槛低，体验好。这从参与人数高达41万+，就可见一斑。\n\n也祝OKX把这个产品越做越好吧；期待下个月要上的五大联赛。对我这种，菜就多练吧🤣🤣🤣",
-      "publishedAt": "2026-07-24T13:49:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2080651666312012124",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN_0ZdzaoAAlkoz.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN_0bz9asAAvZdw.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN_0c4ObgAAKHpG.jpg"
-        }
-      ],
-      "quote": {
-        "username": "okxchinese",
-        "displayName": "OKX中文",
-        "content": "⚽️哈兰德破门、罗德里拿下金球...这届世界杯，OKX 见证了曼城人的每一个「神操作」。\n\n你在 OKX 世界杯预测活动中有哪些神操作？押中爆冷、最后一分钟险胜，还是犹豫一秒错过良机？带 #OKX预测神操作 RT+图文分享，抽5席神秘线下观赛名额~\n\n下个月 Outcomes 将上线五大联赛，期待蓝月在英超续写荣耀！",
-        "contentHtml": "⚽️哈兰德破门、罗德里拿下金球...这届世界杯，OKX 见证了曼城人的每一个「神操作」。\n\n你在 OKX 世界杯预测活动中有哪些神操作？押中爆冷、最后一分钟险胜，还是犹豫一秒错过良机？带 <a href=\"/search?f=tweets&q=%23OKX预测神操作\">#OKX预测神操作</a> RT+图文分享，抽5席神秘线下观赛名额~\n\n下个月 Outcomes 将上线五大联赛，期待蓝月在英超续写荣耀！",
-        "link": "https://x.com/okxchinese/status/2079862943207108777",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN0nWXGbcAElwOd.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080647122404462716",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "app.binance.com/uni-qr/cspa/…\n开播",
-      "contentHtml": "<a href=\"https://app.binance.com/uni-qr/cspa/43524439290010?l=zh-CN&r=MJ6LI1UJ&source=host_share&uc=web_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>\n开播",
-      "publishedAt": "2026-07-24T13:31:00.000Z",
-      "link": "https://x.com/octopusycc/status/2080647122404462716",
-      "quote": {
-        "username": "octopusycc",
-        "displayName": "大老师Bugsbunny ｜DRAM UP only",
-        "content": "21:30币安广场直播 待会儿见\n\n霍尔木兹海峡再次把市场推向深渊",
-        "contentHtml": "21:30币安广场直播 待会儿见\n\n霍尔木兹海峡再次把市场推向深渊",
-        "link": "https://x.com/octopusycc/status/2080645857914056771",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN_wXdPb0AE6KmK.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080645857914056771",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "21:30币安广场直播 待会儿见\n\n霍尔木兹海峡再次把市场推向深渊",
-      "contentHtml": "21:30币安广场直播 待会儿见\n\n霍尔木兹海峡再次把市场推向深渊",
-      "publishedAt": "2026-07-24T13:26:00.000Z",
-      "link": "https://x.com/octopusycc/status/2080645857914056771",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HN_wXdPb0AE6KmK.jpg"
         }
       ],
       "stats": {
