@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T10:48:51.969Z",
+  "lastUpdated": "2026-07-30T12:13:22.924Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -108,10 +108,10 @@
     }
   ],
   "stats": {
-    "total": 500,
-    "newFetched": 620,
-    "successUsers": 31,
-    "failedUsers": 1
+    "total": 495,
+    "newFetched": 0,
+    "successUsers": 0,
+    "failedUsers": 32
   },
   "tweets": [
     {
@@ -1826,25 +1826,6 @@
       "contentHtml": "arc的u有没有地方可以换，这个可比robinhood机会要多啊🤔",
       "publishedAt": "2026-07-29T19:32:00.000Z",
       "link": "https://x.com/0xleng1/status/2082549782716031103",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082548624890990949",
-      "username": "_monotau",
-      "displayName": "monotau",
-      "avatar": "https://pbs.twimg.com/profile_images/1487871673164468225/BcScNGX3_bigger.png",
-      "content": "After a long back and forth, GPT-5.6 Sol produced a proof (formally verified in Lean) of the following Ramsey number inequality:\n\nR(k+1,s+1) >= R(k,s)+2k+2s for 5<=k<=s.\n\nAs a consequence, this also establishes a new lower bound R(12,12) >= 1641.",
-      "contentHtml": "After a long back and forth, GPT-5.6 Sol produced a proof (formally verified in Lean) of the following Ramsey number inequality:\n\nR(k+1,s+1) &gt;= R(k,s)+2k+2s for 5&lt;=k&lt;=s.\n\nAs a consequence, this also establishes a new lower bound R(12,12) &gt;= 1641.",
-      "publishedAt": "2026-07-29T19:27:00.000Z",
-      "link": "https://x.com/_monotau/status/2082548624890990949",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -4553,32 +4534,6 @@
       "contentHtml": "时间线里终于少了白毛股神，市场里面没有神，大家都是学生，我理解很多人爱抄作业，同样，现在我要提醒的是不要觉得这次空仓跑掉的下次能低位满仓进去，这个世界上不存在这个策略。我最大仓位的英特尔也跌了不少，没人骂我，因为涨的时候我也不拿出来晒，给你们制造FOMO心态，做为KOL，我也已经过了享受这种做对了留言区都来夸我的阶段，白毛股神能发YTD50倍的涨幅，现在也是他应该承受的，抄作业的也是那些人该承受的，当时疯狂宣传他的自媒体不是傻（脑子不好）就是坏（为了流量）。这种下跌心中的锚在哪？只有那些赚钱的公司判断未来盈利的确定性和P/E。估值高的时候按照纪律卖，估值低的时候按照纪律买。",
       "publishedAt": "2026-07-28T15:00:00.000Z",
       "link": "https://x.com/TJ_Research/status/2082119022812840300",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082118187835908395",
-      "username": "zkDragon",
-      "displayName": "Dev",
-      "avatar": "https://pbs.twimg.com/profile_images/1463738500591894529/eQbV2qir_bigger.jpg",
-      "content": "Even for those deep in Zcash for years, this should fundamentally increase your confidence in the project.\n\nNo more fear of \"did they get the math wrong\".\n\nSomething better exists than a 100 audits & researchers\n\nMathematical proof, checked by machines, of no undetectable bugs.",
-      "contentHtml": "Even for those deep in Zcash for years, this should fundamentally increase your confidence in the project.\n\nNo more fear of \"did they get the math wrong\".\n\nSomething better exists than a 100 audits &amp; researchers\n\nMathematical proof, checked by machines, of no undetectable bugs.",
-      "publishedAt": "2026-07-28T14:57:00.000Z",
-      "link": "https://x.com/zkDragon/status/2082118187835908395",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "ebfull",
-        "displayName": "Sean Bowe",
-        "content": "Soundness of our zk-SNARK would have been great on its own. But a cross-team collaboration has just changed Zcash's history forever, eliminating all sources of undetectable counterfeiting bugs from the new Ironwood protocol.",
-        "contentHtml": "Soundness of our zk-SNARK would have been great on its own. But a cross-team collaboration has just changed Zcash's history forever, eliminating all sources of undetectable counterfeiting bugs from the new Ironwood protocol.",
-        "link": "https://x.com/ebfull/status/2082104977196270052"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -7513,25 +7468,6 @@
       }
     },
     {
-      "id": "2081727249473049079",
-      "username": "zkDragon",
-      "displayName": "Dev",
-      "avatar": "https://pbs.twimg.com/profile_images/1463738500591894529/eQbV2qir_bigger.jpg",
-      "content": "Tomorrow Ironwood brings:\n- Formally verified shielded pool\n- Quantum recoverability\n- Privacy-preserving pool deprecation & migration logic\n\nThe third is actually where all the work for this upgrade has gone. We want you to be able to migrate while preventing anyone from learning your exact balance, or linking your deposits.\n\nAt a glance:\n- We must freeze Orchard, while allowing withdraws and splitting up your own txs\n  - Turns out no shielded pool considered allowing private fund-splitting in withdraw only mode!\n  - This is the circuit update\n- Orchard ZKP's are \"per action\" not \"per tx\". So we must  prove \n- We must make it possible to pre-sign all your txs.\n  - It was news to me this was not possible prior to this upgrade. RIP multisigs. Now it is :)\n- We must make your hardware wallets capable of pre-signing ~100 txs. Would have taken hours before. Now minutes.\n- Make your wallets able to produce dozens of ZKP's in the background. This involves fighting the limits of background wallet syncing and background compute\n\nThe wallet stack has had large rewrites to facilitate this, shoutout to everyone involved!\n\nAnd that doesn't even include all the parallel work in scale and making the p2p stack more connected, and secure!",
-      "contentHtml": "Tomorrow Ironwood brings:\n- Formally verified shielded pool\n- Quantum recoverability\n- Privacy-preserving pool deprecation & migration logic\n\nThe third is actually where all the work for this upgrade has gone. We want you to be able to migrate while preventing anyone from learning your exact balance, or linking your deposits.\n\nAt a glance:\n- We must freeze Orchard, while allowing withdraws and splitting up your own txs\n  - Turns out no shielded pool considered allowing private fund-splitting in withdraw only mode!\n  - This is the circuit update\n- Orchard ZKP's are \"per action\" not \"per tx\". So we must  prove \n- We must make it possible to pre-sign all your txs.\n  - It was news to me this was not possible prior to this upgrade. RIP multisigs. Now it is :)\n- We must make your hardware wallets capable of pre-signing ~100 txs. Would have taken hours before. Now minutes.\n- Make your wallets able to produce dozens of ZKP's in the background. This involves fighting the limits of background wallet syncing and background compute\n\nThe wallet stack has had large rewrites to facilitate this, shoutout to everyone involved!\n\nAnd that doesn't even include all the parallel work in scale and making the p2p stack more connected, and secure!",
-      "publishedAt": "2026-07-27T13:03:00.000Z",
-      "link": "https://x.com/zkDragon/status/2081727249473049079",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2081722616776212675",
       "username": "naval",
       "displayName": "Naval",
@@ -9787,25 +9723,6 @@
       }
     },
     {
-      "id": "2081014606408089610",
-      "username": "NavalismHQ",
-      "displayName": "Navalism",
-      "avatar": "https://pbs.twimg.com/profile_images/1350045723073671169/xB1_K1_z_bigger.jpg",
-      "content": "Impatience with actions, patience with results.\n\n@naval",
-      "contentHtml": "Impatience with actions, patience with results.\n\n<a href=\"/naval\" title=\"Naval\">@naval</a>",
-      "publishedAt": "2026-07-25T13:52:00.000Z",
-      "link": "https://x.com/NavalismHQ/status/2081014606408089610",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2081013807158378975",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -9912,32 +9829,6 @@
             "url": "https://pbs.twimg.com/media/HOERsSUbIAAplo5.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080993777167007935",
-      "username": "billxbf",
-      "displayName": "Binfeng Xu",
-      "avatar": "https://pbs.twimg.com/profile_images/1970222268308754432/cAl6rc65_bigger.jpg",
-      "content": "This sounds logically embarrassing.\n1. Proprietary products and supporting OSS aren’t contradictory. @satyanadella doesn’t call Linux “unsafe”. @JensenHuang doesn’t campaign against ROCm / OpenCL. Compete and coevolve.\n2. LLMs are made happen by “distilling” 40 years of collective intellectual property thanks to the open culture of the Internet. Pulling up the ladder here is misanthropic for the next generation.",
-      "contentHtml": "This sounds logically embarrassing.\n1. Proprietary products and supporting OSS aren’t contradictory. <a href=\"/satyanadella\" title=\"Satya Nadella\">@satyanadella</a> doesn’t call Linux “unsafe”. <a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> doesn’t campaign against ROCm / OpenCL. Compete and coevolve.\n2. LLMs are made happen by “distilling” 40 years of collective intellectual property thanks to the open culture of the Internet. Pulling up the ladder here is misanthropic for the next generation.",
-      "publishedAt": "2026-07-25T12:29:00.000Z",
-      "link": "https://x.com/billxbf/status/2080993777167007935",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "Mononofu",
-        "displayName": "Julian Schrittwieser",
-        "content": "I’m so excited that @JensenHuang is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
-        "contentHtml": "I’m so excited that <a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> is a believer in open source now, looking forward to the CUDA and GPU driver open source release!",
-        "link": "https://x.com/Mononofu/status/2080937562739531837"
       },
       "stats": {
         "replies": 0,
