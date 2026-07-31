@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T01:40:02.724Z",
+  "lastUpdated": "2026-07-31T03:10:14.955Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,230 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 605,
-    "successUsers": 30,
-    "failedUsers": 2
+    "newFetched": 623,
+    "successUsers": 31,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2083025192016806058",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "Web3版的Codex+腾讯Workbuddy，@dappOS_com这个项目迭代进化速度非常快。最早这里nitter.net/qinbafrank/status/2065…聊过它的买方级别股权研究SOP，输入一个ticker，吐出来的报告直接对标机构内部深度研报，产业链、竞争格局、10-K原文溯源、SOTP三情景估值等各个方面翔实深度。后面这里nitter.net/qinbafrank/status/2071…它迭代到通过xBubble直接走到SOP-to-Business：一张图+一个商业目标，几小时内搭出完整在线商城，商品目录、购物车、USDT支付、Cloudflare部署、后台订单全齐，不是demo，是能直接收钱的店。都是切实的真实应用场景。\n\n用户不用去调模型、拼工具、写复杂prompt，dappOS的xBubble会把常见业务场景的执行流程提前组织好，形成可复用的SOP，其核心三件套：\n1）Bubble Engine会根据真实案例不断生成和优化这些流程，生成并迭代特定任务的SOP（标准操作流程）；\n2）Bubble Pilot再根据用户的目标去调用，把用户请求精准匹配到对应SOP；\n3）Bubble Code：直接把SOP落到软件和业务搭建。\n\n最后就是宣传片、商城、虚拟人、行情分析、套利策略等一键批量出成品；服务器、域名、API这些底层全由生态第三方服务商对接。平台不碰数据，稳定币直接结算，匿名地址登录，商业数据和客户资产都留在用户自己手里。对那些有想法、有货源、有客户，但没有IT团队的人来说，门槛被压到几乎为零。用户真正要做的，就是把生意想清楚：卖什么、卖给谁、怎么收钱。\n\n它真正瞄准的，是那些懂市场、懂用户，但技术不是核心能力的普通经营者。现实中大量存在的“一人带货、一人做服务、一人做内容”的小生意，可以说xBubble是OPC模式（一人创业公司）的有力工具\n\n从这个角度来看，DAPPOS定位很明确：做低门槛的Web3 AI操作系统，旗舰就是xBubble。\n\n所以说它就是Web3版的Codex+腾讯Workbuddy也不为过。\n\nDAPPOS的背后是YZi Labs（原币安Labs）、红杉中国、IDG Capital、OKX Ventures、Polychain、HashKey、蓝驰、NGC、Amber等机构相继投资，累计超过2000万美元，估值超过3亿美金，这些机构都是业内顶级。自4月上线到现在，xBubble已经帮超过1万个OPC启动业务，累计订阅收入680万美元。可以说是币市少有既有业务创新又能真正价值创造的项目。\n\n看到DAPPOS刚把$DOS的代币经济学完整甩出来了，$DOS总量10亿枚，初始流通20%。分配很干净：\n1）团队20%：12个月cliff，之后48个月线性\n2）投资人22.5%：同样12个月cliff+48个月线性\n3）生态20%：TGE释放5%，后续按月+线性\n4）国库20%：TGE释放9%，后续按月+线性\n5）市场11.5%：TGE释放3%，剩余cliff后线性\n6）空投6%：TGE先放3%，剩余3个月月度释放\n\nTGE当天团队和投资人一枚都不解，全部20%初始流通来自生态、国库、市场和空投。团队和投资人要等满60个月才能全部解锁。这个设计可以说把早期抛压基本控死了，资源优先给生态启动。\n$DOS的实际作用也很实在——解锁高级AI服务、支付intent执行手续费（有折扣）、服务商和验证者质押抵押、协议治理。持币可以委托，还能拿额外AI额度。\n\n简单说DappOS这个项目，产品已经有真付费用户和真收入，融资方是顶级机构，代币释放把内部人锁得死死的。OPC经济正在从概念变成真实增量市场，xBubble踩在这个点上，门槛够低，场景够落地，发展空间可期！",
+      "contentHtml": "Web3版的Codex+腾讯Workbuddy，<a href=\"/dappOS_com\" title=\"DAPPOS\">@dappOS_com</a>这个项目迭代进化速度非常快。最早这里<a href=\"https://nitter.net/qinbafrank/status/2065263100467773762\">nitter.net/qinbafrank/status/2065…</a>聊过它的买方级别股权研究SOP，输入一个ticker，吐出来的报告直接对标机构内部深度研报，产业链、竞争格局、10-K原文溯源、SOTP三情景估值等各个方面翔实深度。后面这里<a href=\"https://nitter.net/qinbafrank/status/2071872648401842456\">nitter.net/qinbafrank/status/2071…</a>它迭代到通过xBubble直接走到SOP-to-Business：一张图+一个商业目标，几小时内搭出完整在线商城，商品目录、购物车、USDT支付、Cloudflare部署、后台订单全齐，不是demo，是能直接收钱的店。都是切实的真实应用场景。\n\n用户不用去调模型、拼工具、写复杂prompt，dappOS的xBubble会把常见业务场景的执行流程提前组织好，形成可复用的SOP，其核心三件套：\n1）Bubble Engine会根据真实案例不断生成和优化这些流程，生成并迭代特定任务的SOP（标准操作流程）；\n2）Bubble Pilot再根据用户的目标去调用，把用户请求精准匹配到对应SOP；\n3）Bubble Code：直接把SOP落到软件和业务搭建。\n\n最后就是宣传片、商城、虚拟人、行情分析、套利策略等一键批量出成品；服务器、域名、API这些底层全由生态第三方服务商对接。平台不碰数据，稳定币直接结算，匿名地址登录，商业数据和客户资产都留在用户自己手里。对那些有想法、有货源、有客户，但没有IT团队的人来说，门槛被压到几乎为零。用户真正要做的，就是把生意想清楚：卖什么、卖给谁、怎么收钱。\n\n它真正瞄准的，是那些懂市场、懂用户，但技术不是核心能力的普通经营者。现实中大量存在的“一人带货、一人做服务、一人做内容”的小生意，可以说xBubble是OPC模式（一人创业公司）的有力工具\n\n从这个角度来看，DAPPOS定位很明确：做低门槛的Web3 AI操作系统，旗舰就是xBubble。\n\n所以说它就是Web3版的Codex+腾讯Workbuddy也不为过。\n\nDAPPOS的背后是YZi Labs（原币安Labs）、红杉中国、IDG Capital、OKX Ventures、Polychain、HashKey、蓝驰、NGC、Amber等机构相继投资，累计超过2000万美元，估值超过3亿美金，这些机构都是业内顶级。自4月上线到现在，xBubble已经帮超过1万个OPC启动业务，累计订阅收入680万美元。可以说是币市少有既有业务创新又能真正价值创造的项目。\n\n看到DAPPOS刚把$DOS的代币经济学完整甩出来了，$DOS总量10亿枚，初始流通20%。分配很干净：\n1）团队20%：12个月cliff，之后48个月线性\n2）投资人22.5%：同样12个月cliff+48个月线性\n3）生态20%：TGE释放5%，后续按月+线性\n4）国库20%：TGE释放9%，后续按月+线性\n5）市场11.5%：TGE释放3%，剩余cliff后线性\n6）空投6%：TGE先放3%，剩余3个月月度释放\n\nTGE当天团队和投资人一枚都不解，全部20%初始流通来自生态、国库、市场和空投。团队和投资人要等满60个月才能全部解锁。这个设计可以说把早期抛压基本控死了，资源优先给生态启动。\n$DOS的实际作用也很实在——解锁高级AI服务、支付intent执行手续费（有折扣）、服务商和验证者质押抵押、协议治理。持币可以委托，还能拿额外AI额度。\n\n简单说DappOS这个项目，产品已经有真付费用户和真收入，融资方是顶级机构，代币释放把内部人锁得死死的。OPC经济正在从概念变成真实增量市场，xBubble踩在这个点上，门槛够低，场景够落地，发展空间可期！",
+      "publishedAt": "2026-07-31T03:01:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2083025192016806058",
+      "quote": {
+        "username": "DAPPOSFDN",
+        "displayName": "DAPPOS Foundation",
+        "content": "",
+        "link": "https://x.com/DAPPOSFDN/status/2082352034272149783"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2083023231607595299",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "Hyperliquid 交易员「YGNH94」5 小时前赎回质押的 100275 枚 HYPE，随后充值进了 #OKX，价值 557 万美元\n\n他曾在 06.27 以 $63.36 从 OKX 提出 60140 $HYPE，这部分若卖出将亏损 47.1 万美元\n\n钱包地址 arkm.com/explorer/address/0x…",
+      "contentHtml": "Hyperliquid 交易员「YGNH94」5 小时前赎回质押的 100275 枚 HYPE，随后充值进了 <a href=\"/search?f=tweets&q=%23OKX\">#OKX</a>，价值 557 万美元\n\n他曾在 06.27 以 $63.36 从 OKX 提出 60140 $HYPE，这部分若卖出将亏损 47.1 万美元\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0xe8Fe3865A78735f6A5070425e984669B520C0941\">arkm.com/explorer/address/0x…</a>",
+      "publishedAt": "2026-07-31T02:53:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2083023231607595299",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOhiiAGbQAAPZOy.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2083016288046379253",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "pve都赚到了吗？",
+      "contentHtml": "pve都赚到了吗？",
+      "publishedAt": "2026-07-31T02:25:00.000Z",
+      "link": "https://x.com/yuren477/status/2083016288046379253",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOhcQxgaQAAyx5B.jpg"
+        }
+      ],
+      "quote": {
+        "username": "yuren477",
+        "displayName": "余人sama",
+        "content": "0.23买了5万grvt，小玩一下，近期alpha时隔很久的热门项目，企稳之后可能有波反弹。",
+        "contentHtml": "0.23买了5万grvt，小玩一下，近期alpha时隔很久的热门项目，企稳之后可能有波反弹。",
+        "link": "https://x.com/yuren477/status/2082921866126324197"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2083014021868102091",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
+      "content": "2015年该指标峰值跟2019年该指标峰值相差 1385天\n2019年该指标峰值跟2023年该指标峰值相差 1380天\n2023年该指标峰值距今已有 1300天\n\n┌── 🐼 指标详情 ──┐\n\n图中下方指标为“链上长期持币者平均购币成本”跟“链上短期持币者平均购币成本”之比\n\n历史上该指标峰值的出现往往意味着熊市结束、牛市开启",
+      "contentHtml": "2015年该指标峰值跟2019年该指标峰值相差 1385天\n2019年该指标峰值跟2023年该指标峰值相差 1380天\n2023年该指标峰值距今已有 1300天\n\n┌── 🐼 指标详情 ──┐\n\n图中下方指标为“链上长期持币者平均购币成本”跟“链上短期持币者平均购币成本”之比\n\n历史上该指标峰值的出现往往意味着熊市结束、牛市开启",
+      "publishedAt": "2026-07-31T02:16:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2083014021868102091",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOhY44XaoAAVvvc.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【四年周期总刻系列（17）】\n\n15年6月该指标峰值跟19年3月该指标峰值相差 1385天\n19年3月该指标峰值跟23年1月该指标峰值相差 1380天\n23年1月该指标峰值距今已过去1068天\n\n图中上方指标为 #BTC 价格；下方指标为“链上长期持币者买币均价”跟“链上短期持币者买币均价”之比",
+        "contentHtml": "【四年周期总刻系列（17）】\n\n15年6月该指标峰值跟19年3月该指标峰值相差 1385天\n19年3月该指标峰值跟23年1月该指标峰值相差 1380天\n23年1月该指标峰值距今已过去1068天\n\n图中上方指标为 <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> 价格；下方指标为“链上长期持币者买币均价”跟“链上短期持币者买币均价”之比",
+        "link": "https://x.com/0xCryptoChan/status/1999007615742070912",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/G73k3SubcAAgxbu.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2083012286369935861",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
+      "content": "抄底的现货今天开始分批跑路\n$SKHY",
+      "contentHtml": "抄底的现货今天开始分批跑路\n<a href=\"/search?f=tweets&q=%23SKHY\">$SKHY</a>",
+      "publishedAt": "2026-07-31T02:10:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2083012286369935861",
+      "quote": {
+        "username": "boundaryhq",
+        "displayName": "boundary",
+        "content": "从这里开始分批抄底韩股海力士\n今天财报不及预期\n主要是收入不及预期，原因是hbm占比高，而hbm多采用提前签订的合同价格，导致价格弹性不如通用dram和nand现货价格弹性高\n但营业利润率高达76.3%，符合一致预期\n最重要的正面信息是与10家客户签署多年的长单，这导致本轮存储周期与此前商品化的多轮周期开始有了不一样的特征\n而以往商品化的存储周期顶部也会有二次测试，这次更应该会有\n此外，海力士从6月25日至今，32个交易日跌幅高达49.5%，伴随巨量的杠杆盘被迫卖出，接下来有一个不错反弹的概率很高，捡爆仓单的尸体一直是胜率很高的策略\n$SKHY",
+        "contentHtml": "从这里开始分批抄底韩股海力士\n今天财报不及预期\n主要是收入不及预期，原因是hbm占比高，而hbm多采用提前签订的合同价格，导致价格弹性不如通用dram和nand现货价格弹性高\n但营业利润率高达76.3%，符合一致预期\n最重要的正面信息是与10家客户签署多年的长单，这导致本轮存储周期与此前商品化的多轮周期开始有了不一样的特征\n而以往商品化的存储周期顶部也会有二次测试，这次更应该会有\n此外，海力士从6月25日至今，32个交易日跌幅高达49.5%，伴随巨量的杠杆盘被迫卖出，接下来有一个不错反弹的概率很高，捡爆仓单的尸体一直是胜率很高的策略\n<a href=\"/search?f=tweets&q=%23SKHY\">$SKHY</a>",
+        "link": "https://x.com/boundaryhq/status/2082278625269965112"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2083011731010589175",
+      "username": "boundaryhq",
+      "displayName": "boundary",
+      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
+      "content": "原来前天凌晨美联储新闻会议后的尾盘大跌是因为AI 股神 Leopold的基金因为杠杆爆仓了\n\n这兄弟曾经也在ftx做过，看来ftx的风水跟基因都不太好🤣\n\n老板挪用客户资金，员工用4倍杠杆操作200亿客户资金",
+      "contentHtml": "原来前天凌晨美联储新闻会议后的尾盘大跌是因为AI 股神 Leopold的基金因为杠杆爆仓了\n\n这兄弟曾经也在ftx做过，看来ftx的风水跟基因都不太好🤣\n\n老板挪用客户资金，员工用4倍杠杆操作200亿客户资金",
+      "publishedAt": "2026-07-31T02:07:00.000Z",
+      "link": "https://x.com/boundaryhq/status/2083011731010589175",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2083010242691158485",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "聊了快一个月的超大CSP价值重塑到今天完全被微软、亚马逊的财报给支撑住，也验证了之前“超大CSP业绩表现将是衡量AI行业化更重要的指标”的说法。看微软的纳德拉和亚马逊的贾西在电话会上的表态都确认了之前聊到的一个趋势：“企业不会把全部业务交给一个通用大模型，而是围绕不同业务场景，组合前沿模型、低成本小模型、开源模型和企业自有模型，再由统一的上下文、记忆、身份、权限、Agent运行时和治理平台进行调度”。这就是最近一个月一直聊到的分场景、多模型的框架。",
+      "contentHtml": "聊了快一个月的超大CSP价值重塑到今天完全被微软、亚马逊的财报给支撑住，也验证了之前“超大CSP业绩表现将是衡量AI行业化更重要的指标”的说法。看微软的纳德拉和亚马逊的贾西在电话会上的表态都确认了之前聊到的一个趋势：“企业不会把全部业务交给一个通用大模型，而是围绕不同业务场景，组合前沿模型、低成本小模型、开源模型和企业自有模型，再由统一的上下文、记忆、身份、权限、Agent运行时和治理平台进行调度”。这就是最近一个月一直聊到的分场景、多模型的框架。",
+      "publishedAt": "2026-07-31T02:01:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2083010242691158485",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOhWxhubkAASP5S.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOhWxhibUAA7fik.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "之前看AI商业化只盯着Authropic/OpenAIdeARR，未来超大CSP的业绩表现将会衡量AI商业化更重要的指标。为什么这么说？说说我的理解：\n1、闭源大模型ARR这些数字极其重要，因为它们直接反映用户愿意为模型能力付费。但情况在发生变化：\n1）前两天这里nitter.net/qinbafrank/status/2073…聊到，Coinbase通过工程手段把成本支出给压下来——路由到开源模型、缓存命中率从5%提到60%、上下文精简等方式，token消耗量继续飙升、但是整体支出确实下降的。简单说coinbase把一部分高频、低价值的工作场景切换到了开源模型。\n\n2）今天看到nitter.net/qinbafrank/status/2074…微软除了部署开源模型，已经上线了自研模型MAI。微软自研模型的典型应用场景也是高频、低复杂度、高体积的任务，用自研模型能大幅降低每token成本，同时保持用户体验。复杂推理仍可fallback到OpenAI/Anthropic。\n\n2、这已经是一个明显的信号：\n方向完全不是“少用”而是“更便宜地用更多”，这就意味着AI在企业级市场的采用越来越变成分场景应用模型阶段：\n1）高价值场景使用继续使用闭源前沿大模型的高价值Token；\n2）高频、低复杂度、高体积的任务场景下，企业越来越偏向高性比价比Token。\n\n未来越来越多的企业会采用这个模式。对企业来说，未来AI adoption 的关键不再只是“买 Claude、买 ChatGPT、买 Copilot”，而是要搭一个“AI运营维护层”。\n\n这就导致企业AI成本最后应该是工程问题：路由、缓存、上下文压缩、权限、审计。对于coinbase本身就是科技企业，有能力配置自己内部的AI操作系统。但是大部分企业其实没有这个能力的，最后还是要去依赖CSP给企业搭建的AI使用场景。\n\n3、这就意味着CSP正在成为企业多模型架构中的关键“中间层”，既帮客户降本，又自己赚取更高比例的利润。\n\nCSP的优势在于：它不只看某一个闭源模型的收入，而是看企业 AI 进入生产环境后的全部云消费。这包括闭源 API、开源模型推理、向量数据库、对象存储、数据仓库、网络、Kubernetes、MLOps、安全、监控、agent runtime、GPU/TPU/ASIC 租用、企业私有化部署。\n\n如果企业采用 AI 进入成本工程化阶段，高频、中低价值场景会转向更便宜的 token、更便宜的模型、更贴近数据的云端部署。 这会压缩部分闭源模型的单位经济，但不一定压缩 CSP；相反，它可能扩大推理总量，把商业价值沉淀在云端。\n\n这本质上是把“模型层”商品化后，CSP 把价值更多地转移到基础设施 + 平台服务层（托管、优化、路由、治理、安全）。换句话说：\n大模型 ARR 是“模型层收入”；\nCSP业绩才是“AI 工程化收入”。\n\n4、这意味着什么？\n1）大模型ARR是“AI 需求纯度最高”的指标，但CSP是“AI 商业化落地最综合”的指标。\n\n2）未来企业采用AI进程不可避免多模型架构，前沿闭源大模型只是企业整个业务场景往AI迁移中一个关键占据高价值场景的模型选择，但不会吃到企业所有的业务场景。非高价值、高复杂度业务场景的价值就从前沿闭源大模型外溢到开源模型和CSP的自研模型上。\n从这个角度，提供前沿闭源模型、开源模型、自研模型的CSP才是最大的价值沉淀。\n\n这其实让我们摆脱了AI商业化只看闭源前沿大模型ARR的窘境，需要把超大CSP厂商业绩表现提到同等重要甚至更高的权重上来。\n\n5、对几家超大CSP同样意义重大\n1）AI推理是超大CSP云业务的主要成本项之一，部署开源模型直接改善毛利率，自研模型进一步优化成本结构；\n\n2）新的战略优势\n之前市场认为CSP特别是几家超大CSP是一个二道贩子，贩卖算力和token，同时还要承担巨额的资本开支但并没捕获最大的价值。\n\n现在“高效中型模型 + 规模部署”在生产环境下也证明了自己觉的价值，而非一味追求参数军备竞赛。\n\n那么过去的认知也要反转了：\n超大CSP已经是企业AI进程多模型架构下的“AI操作系统层”。\n\n3）成本营收结构的变化\nCSP 转售闭源模型时：CSP 拿到的分成比例有限（通常 20-50% 不等，具体看合同），还要承担模型方的定价压力。\n\n自托管开源模型转售：开源模型基本零授权成本，CSP 只需承担自己的算力、电费和运维成本。CSP 几乎拿走全部 markup（扣除算力成本后）。因为定价可以参考开源社区实际成本 + 合理溢价，空间更大。\n\n自研模型更不用说，几乎营收全在CSP。\n\n4）超大CSP的价值重估。\n超大CSP有算力、能部署开源模型，也能自研模型，不再是只靠前沿闭源大模型，毛利会更高，海量B端客户通道依然有巨大优势，\n这些都会让超大CSP形成新的战略优势。\n\n综上，未来：\n模型公司决定“AI 能做什么”；\nCSP 决定“AI 能以多大规模、多低成本、多高可靠性进入企业生产系统”。\n\n还是之前聊到的未来趋势很明确：\n闭源前沿模型继续走高端溢价路线：\n开源模型+自研模型+CSP 托管将成为中低端和高频场景的主力。\n\n能把开源模型和自研模型serving 做到极致低成本 + 高可靠的 CSP，将在 AI 时代获得显著的利润率优势。\n\n$MSFT $AMZN $goog $00700 $baba",
+        "contentHtml": "之前看AI商业化只盯着Authropic/OpenAIdeARR，未来超大CSP的业绩表现将会衡量AI商业化更重要的指标。为什么这么说？说说我的理解：\n1、闭源大模型ARR这些数字极其重要，因为它们直接反映用户愿意为模型能力付费。但情况在发生变化：\n1）前两天这里<a href=\"https://nitter.net/qinbafrank/status/2073991535897530701?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2073…</a>聊到，Coinbase通过工程手段把成本支出给压下来——路由到开源模型、缓存命中率从5%提到60%、上下文精简等方式，token消耗量继续飙升、但是整体支出确实下降的。简单说coinbase把一部分高频、低价值的工作场景切换到了开源模型。\n\n2）今天看到<a href=\"https://nitter.net/qinbafrank/status/2074705237135298660?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2074…</a>微软除了部署开源模型，已经上线了自研模型MAI。微软自研模型的典型应用场景也是高频、低复杂度、高体积的任务，用自研模型能大幅降低每token成本，同时保持用户体验。复杂推理仍可fallback到OpenAI/Anthropic。\n\n2、这已经是一个明显的信号：\n方向完全不是“少用”而是“更便宜地用更多”，这就意味着AI在企业级市场的采用越来越变成分场景应用模型阶段：\n1）高价值场景使用继续使用闭源前沿大模型的高价值Token；\n2）高频、低复杂度、高体积的任务场景下，企业越来越偏向高性比价比Token。\n\n未来越来越多的企业会采用这个模式。对企业来说，未来AI adoption 的关键不再只是“买 Claude、买 ChatGPT、买 Copilot”，而是要搭一个“AI运营维护层”。\n\n这就导致企业AI成本最后应该是工程问题：路由、缓存、上下文压缩、权限、审计。对于coinbase本身就是科技企业，有能力配置自己内部的AI操作系统。但是大部分企业其实没有这个能力的，最后还是要去依赖CSP给企业搭建的AI使用场景。\n\n3、这就意味着CSP正在成为企业多模型架构中的关键“中间层”，既帮客户降本，又自己赚取更高比例的利润。\n\nCSP的优势在于：它不只看某一个闭源模型的收入，而是看企业 AI 进入生产环境后的全部云消费。这包括闭源 API、开源模型推理、向量数据库、对象存储、数据仓库、网络、Kubernetes、MLOps、安全、监控、agent runtime、GPU/TPU/ASIC 租用、企业私有化部署。\n\n如果企业采用 AI 进入成本工程化阶段，高频、中低价值场景会转向更便宜的 token、更便宜的模型、更贴近数据的云端部署。 这会压缩部分闭源模型的单位经济，但不一定压缩 CSP；相反，它可能扩大推理总量，把商业价值沉淀在云端。\n\n这本质上是把“模型层”商品化后，CSP 把价值更多地转移到基础设施 + 平台服务层（托管、优化、路由、治理、安全）。换句话说：\n大模型 ARR 是“模型层收入”；\nCSP业绩才是“AI 工程化收入”。\n\n4、这意味着什么？\n1）大模型ARR是“AI 需求纯度最高”的指标，但CSP是“AI 商业化落地最综合”的指标。\n\n2）未来企业采用AI进程不可避免多模型架构，前沿闭源大模型只是企业整个业务场景往AI迁移中一个关键占据高价值场景的模型选择，但不会吃到企业所有的业务场景。非高价值、高复杂度业务场景的价值就从前沿闭源大模型外溢到开源模型和CSP的自研模型上。\n从这个角度，提供前沿闭源模型、开源模型、自研模型的CSP才是最大的价值沉淀。\n\n这其实让我们摆脱了AI商业化只看闭源前沿大模型ARR的窘境，需要把超大CSP厂商业绩表现提到同等重要甚至更高的权重上来。\n\n5、对几家超大CSP同样意义重大\n1）AI推理是超大CSP云业务的主要成本项之一，部署开源模型直接改善毛利率，自研模型进一步优化成本结构；\n\n2）新的战略优势\n之前市场认为CSP特别是几家超大CSP是一个二道贩子，贩卖算力和token，同时还要承担巨额的资本开支但并没捕获最大的价值。\n\n现在“高效中型模型 + 规模部署”在生产环境下也证明了自己觉的价值，而非一味追求参数军备竞赛。\n\n那么过去的认知也要反转了：\n超大CSP已经是企业AI进程多模型架构下的“AI操作系统层”。\n\n3）成本营收结构的变化\nCSP 转售闭源模型时：CSP 拿到的分成比例有限（通常 20-50% 不等，具体看合同），还要承担模型方的定价压力。\n\n自托管开源模型转售：开源模型基本零授权成本，CSP 只需承担自己的算力、电费和运维成本。CSP 几乎拿走全部 markup（扣除算力成本后）。因为定价可以参考开源社区实际成本 + 合理溢价，空间更大。\n\n自研模型更不用说，几乎营收全在CSP。\n\n4）超大CSP的价值重估。\n超大CSP有算力、能部署开源模型，也能自研模型，不再是只靠前沿闭源大模型，毛利会更高，海量B端客户通道依然有巨大优势，\n这些都会让超大CSP形成新的战略优势。\n\n综上，未来：\n模型公司决定“AI 能做什么”；\nCSP 决定“AI 能以多大规模、多低成本、多高可靠性进入企业生产系统”。\n\n还是之前聊到的未来趋势很明确：\n闭源前沿模型继续走高端溢价路线：\n开源模型+自研模型+CSP 托管将成为中低端和高频场景的主力。\n\n能把开源模型和自研模型serving 做到极致低成本 + 高可靠的 CSP，将在 AI 时代获得显著的利润率优势。\n\n<a href=\"/search?f=tweets&q=%23MSFT\">$MSFT</a> <a href=\"/search?f=tweets&q=%23AMZN\">$AMZN</a> <a href=\"/search?f=tweets&q=%23goog\">$goog</a> $00700 <a href=\"/search?f=tweets&q=%23baba\">$baba</a>",
+        "link": "https://x.com/qinbafrank/status/2074754779755295164"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2083006515175387476",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
+      "content": "「底部必出的現象」：巨量換手形成的堅實底部基礎🪨\n\n長期持有者的割肉、大幅度投降，往往是底部即將出現的跡象，\n承接下方引文，今天我打算從籌碼結構的角度，\n和各位分享在每次週期底部時，特有的籌碼換手現象。\n\n先說結論📝：\n巨量堆積（換手）柱（區）往往是建構堅實底部基礎的條件。\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n如附圖 1~3 所示，\n我將過去三輪週期性底部的 URPD 籌碼結構圖分享如下，\n我們基本可以看出一個非常明顯的規律：\n➡️ 底部需要巨量的換手（白話：先讓那些聰明錢滿倉上車）\n➡️ 每一輪底部出現時，都會在 URPD 上出現明顯的巨量堆積柱（區）\n\n而圖 4 是目前最新的 URPD 籌碼結構圖，\n如同我每週更新的週報所述，我們可以明顯的看出：\n在目前這個震盪區間（61~65K）已經開始堆積愈來愈巨量的籌碼，\n說明隨著過去這段時間的震盪進程拉長，\n有愈來愈多的資金開始對於這個價位的 BTC 有所興趣。\n\n結合我先前和各位分享的三種築底路徑（nitter.net/market_beggar/status/2…），\n不論未來到底選擇了哪種走法，就目前的 URPD 狀況而言，\n我們可以確定的一件事情就是：底部真的離我們不遠了。\n\n最後，貝格的老朋友都知道：\n巨量籌碼堆積區將對中期的價格形成「引力效應」，\n未來即便跌破了這個堆積區，也有極高的概率被「吸」回這個區間，\n這也算是在一定程度上加強了這個底部區間的基礎。\n\n靜待福報。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「清掃開始」：Trendline Liq 引力正式如期發威\nnitter.net/market_beggar/status/2…\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\nnitter.net/market_beggar/status/2…\n\n兩道「深熊抄底市場成本線」最新數據更新\nnitter.net/market_beggar/status/2…",
+      "contentHtml": "「底部必出的現象」：巨量換手形成的堅實底部基礎🪨\n\n長期持有者的割肉、大幅度投降，往往是底部即將出現的跡象，\n承接下方引文，今天我打算從籌碼結構的角度，\n和各位分享在每次週期底部時，特有的籌碼換手現象。\n\n先說結論📝：\n巨量堆積（換手）柱（區）往往是建構堅實底部基礎的條件。\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\n<a href=\"https://nitter.net/market_beggar/status/1963776996942741931\">nitter.net/market_beggar/status/1…</a>\n\n如附圖 1~3 所示，\n我將過去三輪週期性底部的 URPD 籌碼結構圖分享如下，\n我們基本可以看出一個非常明顯的規律：\n➡️ 底部需要巨量的換手（白話：先讓那些聰明錢滿倉上車）\n➡️ 每一輪底部出現時，都會在 URPD 上出現明顯的巨量堆積柱（區）\n\n而圖 4 是目前最新的 URPD 籌碼結構圖，\n如同我每週更新的週報所述，我們可以明顯的看出：\n在目前這個震盪區間（61~65K）已經開始堆積愈來愈巨量的籌碼，\n說明隨著過去這段時間的震盪進程拉長，\n有愈來愈多的資金開始對於這個價位的 BTC 有所興趣。\n\n結合我先前和各位分享的三種築底路徑（<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>），\n不論未來到底選擇了哪種走法，就目前的 URPD 狀況而言，\n我們可以確定的一件事情就是：底部真的離我們不遠了。\n\n最後，貝格的老朋友都知道：\n巨量籌碼堆積區將對中期的價格形成「引力效應」，\n未來即便跌破了這個堆積區，也有極高的概率被「吸」回這個區間，\n這也算是在一定程度上加強了這個底部區間的基礎。\n\n靜待福報。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「清掃開始」：Trendline Liq 引力正式如期發威\n<a href=\"https://nitter.net/market_beggar/status/2082653241867960571\">nitter.net/market_beggar/status/2…</a>\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\n<a href=\"https://nitter.net/market_beggar/status/2081926743783592189\">nitter.net/market_beggar/status/2…</a>\n\n兩道「深熊抄底市場成本線」最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2079745937350779015\">nitter.net/market_beggar/status/2…</a>",
+      "publishedAt": "2026-07-31T01:47:00.000Z",
+      "link": "https://x.com/market_beggar/status/2083006515175387476",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOhF_uqaQAAU7Rq.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOhGALcaoAAdh3C.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOhGBrja8AAXH3r.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOhGCOnacAA9SEk.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "BTC 長、短期持有者成本數據更新：誰在偷偷割肉🥩\n\n承接下方引文，又隔了兩週，今天再來和各位報告這組數據。\n\n先說結論📝：\n🔺 作為牛熊分界線的 STH-RP，依然保持穩步下降的節奏\n🔺 作為深熊抄底線之一的 LTH-RP，則在過去兩週罕見的略微下降\n\n如果是不熟悉此組數據的朋友，建議可先參考下方引文。\n\n//\n\n附圖的指標概念如下：\n➡️ 藍線（🟦）= STH-RP（短期持有者平均成本）\n➡️ 綠線（🟩）= LTH-RP（長期持有者平均成本）\n➡️ 訊號 = STH-RP < LTH-RP\n\n如附圖所示，目前的最新數據如下：\n➡️ LTH-RP（🟩）= 48,950，相比兩週前下降約 603 點\n➡️ STH-RP（🟦）= 69,331，相比兩週前「下降」約 270 點\n\n不論是下方引文，或是一個月前的更新（nitter.net/market_beggar/status/2…），\n我都有和各位強調過一個觀念：\n「正常情況下，熊市的 LTH-RP 會持續上升、STH-RP 會持續下降」。\n\nSTH-RP 比較好理解：\n短期持有者每天都在交易，所以只要他們在低於 STH-RP 的區域交易，\n就會使 STH-RP 不斷被拉低；\n而 LTH-RP 上升的主因，我在下方引文中有詳述，有興趣的朋友可自行參考。\n\n值得注意的是：\n在過去兩週的時間內，LTH-RP 反而出現了「下降」，\n或許會有人對此感到疑惑：「這是不是代表週期底到了❓」\n\n先說答案：「不是，但可能是前兆」。\n\n過去兩週 LTH-RP 的下降，更像是有部分 LTH 扛不住在割肉，\n但畢竟 LTH-RP 下降的幅度其實很小，稱不上大規模投降，\n所以我們目前無法藉此斷言底部已至。\n\n不過，LTH-RP 的轉向，的確是週期底部區間會發生的事情，\n所以我們也不能藉此否定「底部不遠」的事實；\n只不過這個跡象會相對滯後，觀察上比較有難度。\n\n最後，在我先前分享的三種路徑出現以前（nitter.net/market_beggar/status/2…），\n我大概都會每隔兩週左右追蹤一次這組數據，供各位參考；\n當然，如果提前出現特別值得注意的訊號，我也會第一時間和各位報告。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\nnitter.net/market_beggar/status/2…\n\n「波動壓縮」：靜待雙向的 Liquidity 清掃\nnitter.net/market_beggar/status/2…\n\n偏離度調整 STH-RP 模型更新：降速放緩，底部區間逐漸清晰\nnitter.net/market_beggar/status/2…",
+        "contentHtml": "BTC 長、短期持有者成本數據更新：誰在偷偷割肉🥩\n\n承接下方引文，又隔了兩週，今天再來和各位報告這組數據。\n\n先說結論📝：\n🔺 作為牛熊分界線的 STH-RP，依然保持穩步下降的節奏\n🔺 作為深熊抄底線之一的 LTH-RP，則在過去兩週罕見的略微下降\n\n如果是不熟悉此組數據的朋友，建議可先參考下方引文。\n\n//\n\n附圖的指標概念如下：\n➡️ 藍線（🟦）= STH-RP（短期持有者平均成本）\n➡️ 綠線（🟩）= LTH-RP（長期持有者平均成本）\n➡️ 訊號 = STH-RP &lt; LTH-RP\n\n如附圖所示，目前的最新數據如下：\n➡️ LTH-RP（🟩）= 48,950，相比兩週前下降約 603 點\n➡️ STH-RP（🟦）= 69,331，相比兩週前「下降」約 270 點\n\n不論是下方引文，或是一個月前的更新（<a href=\"https://nitter.net/market_beggar/status/2072136661434307014\">nitter.net/market_beggar/status/2…</a>），\n我都有和各位強調過一個觀念：\n「正常情況下，熊市的 LTH-RP 會持續上升、STH-RP 會持續下降」。\n\nSTH-RP 比較好理解：\n短期持有者每天都在交易，所以只要他們在低於 STH-RP 的區域交易，\n就會使 STH-RP 不斷被拉低；\n而 LTH-RP 上升的主因，我在下方引文中有詳述，有興趣的朋友可自行參考。\n\n值得注意的是：\n在過去兩週的時間內，LTH-RP 反而出現了「下降」，\n或許會有人對此感到疑惑：「這是不是代表週期底到了❓」\n\n先說答案：「不是，但可能是前兆」。\n\n過去兩週 LTH-RP 的下降，更像是有部分 LTH 扛不住在割肉，\n但畢竟 LTH-RP 下降的幅度其實很小，稱不上大規模投降，\n所以我們目前無法藉此斷言底部已至。\n\n不過，LTH-RP 的轉向，的確是週期底部區間會發生的事情，\n所以我們也不能藉此否定「底部不遠」的事實；\n只不過這個跡象會相對滯後，觀察上比較有難度。\n\n最後，在我先前分享的三種路徑出現以前（<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>），\n我大概都會每隔兩週左右追蹤一次這組數據，供各位參考；\n當然，如果提前出現特別值得注意的訊號，我也會第一時間和各位報告。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\n<a href=\"https://nitter.net/market_beggar/status/2081926743783592189\">nitter.net/market_beggar/status/2…</a>\n\n「波動壓縮」：靜待雙向的 Liquidity 清掃\n<a href=\"https://nitter.net/market_beggar/status/2081557306601509331\">nitter.net/market_beggar/status/2…</a>\n\n偏離度調整 STH-RP 模型更新：降速放緩，底部區間逐漸清晰\n<a href=\"https://nitter.net/market_beggar/status/2080469443352854893\">nitter.net/market_beggar/status/2…</a>",
+        "link": "https://x.com/market_beggar/status/2082338984362185024",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOX0Q1Xa8AA6jCF.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2083003127800971488",
       "username": "ai_9684xtpa",
@@ -11766,206 +11985,6 @@
           "url": "https://pbs.twimg.com/media/HOCY7PHbEAAa7_s.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080827271980765542",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "这是不是 X 历史上涨粉最快的账号之一了😆\n\n1 条推文，12 小时，3363 万阅读量\n关注数已飙涨至 58 万\n\n@JensenHuang 看看到千万需要花多久呢",
-      "contentHtml": "这是不是 X 历史上涨粉最快的账号之一了😆\n\n1 条推文，12 小时，3363 万阅读量\n关注数已飙涨至 58 万\n\n<a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> 看看到千万需要花多久呢",
-      "publishedAt": "2026-07-25T01:27:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2080827271980765542",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOCUBceagAAp2mv.png"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "那个男人来了\n\n▶︎ 皮衣刀客\n▶︎ AI 军火商\n▶︎ 科技界的 Taylor Swift\n\n英伟达创始人黄仁勋(@JensenHuang)疑似入驻 X，因被 NVIDIA AI 官方账号关注，粉丝数秒破 2k；现在关注，就是原生老粉了hh",
-        "contentHtml": "那个男人来了\n\n▶︎ 皮衣刀客\n▶︎ AI 军火商\n▶︎ 科技界的 Taylor Swift\n\n英伟达创始人黄仁勋(<a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a>)疑似入驻 X，因被 NVIDIA AI 官方账号关注，粉丝数秒破 2k；现在关注，就是原生老粉了hh",
-        "link": "https://x.com/ai_9684xtpa/status/2080644118875939133",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN_tyt-asAARM-2.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080823741815382302",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "为什么美国科技公司要为开源模型（中国开源模型占了绝大多数）争取发展空间？昨晚最大的新闻无疑就是老黄@JensenHuang 首开X账号，第一条推文就是一份由a16z发起、英伟达、微软联合PLTR、PerplexityAI、Ollama等多家科技公司共同签署的公开信，明确主张\"前沿开源模型与前沿闭源模型应并存发展\"。看到都在聊公开信本身，但是对背后的动机和意图聊的不多。个人角度，核心原因就是之前下面这张图和引用的之前长文里聊到的内容：\n1、美国企业使用的中国开源模型每周token占比正逼近60%，开源模型在美国企业token消耗里占比这么大，一旦被禁或者限制、那么企业的成本剧增。\n\n2、7月中的这篇长文里（引用的长文就是）聊到：企业AI采用进入工程化时代，AI在企业级市场的采用越来越变成分场景应用模型阶段：\n1）高价值场景使用继续使用闭源前沿大模型的高价值Token；\n2）高频、低复杂度、高体积的任务场景下，企业越来越偏向高性比价比Token（基本上来自开源模型）。\n\n3、这个趋势不可避免：\n对于芯片厂商来说、用谁的模型都要训练和推理；\n对于云厂商来说，给企业客户模型选择越多，毛利越高；\n对于部署层（如pltr）或者应用型公司来说，更是天然有选择高性价比token的动力。\n这份公开信的联名企业基本上就是这三大类，所以公开信背后其实有着极强的商业诉求和巨大的商业价值。\n\n4、Authropic在国会呼吁限制或者禁止中国开源模型的发展，实质上是明显感受到了这股势头的威胁和影响。kimi k3只是一个催化剂，在k3之前中国开源在Token消耗量的份额占比已经在快速飙升了，即使没有k3，Authropic也有动力这么做。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "为什么美国科技公司要为开源模型（中国开源模型占了绝大多数）争取发展空间？昨晚最大的新闻无疑就是老黄<a href=\"/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> 首开X账号，第一条推文就是一份由a16z发起、英伟达、微软联合PLTR、PerplexityAI、Ollama等多家科技公司共同签署的公开信，明确主张\"前沿开源模型与前沿闭源模型应并存发展\"。看到都在聊公开信本身，但是对背后的动机和意图聊的不多。个人角度，核心原因就是之前下面这张图和引用的之前长文里聊到的内容：\n1、美国企业使用的中国开源模型每周token占比正逼近60%，开源模型在美国企业token消耗里占比这么大，一旦被禁或者限制、那么企业的成本剧增。\n\n2、7月中的这篇长文里（引用的长文就是）聊到：企业AI采用进入工程化时代，AI在企业级市场的采用越来越变成分场景应用模型阶段：\n1）高价值场景使用继续使用闭源前沿大模型的高价值Token；\n2）高频、低复杂度、高体积的任务场景下，企业越来越偏向高性比价比Token（基本上来自开源模型）。\n\n3、这个趋势不可避免：\n对于芯片厂商来说、用谁的模型都要训练和推理；\n对于云厂商来说，给企业客户模型选择越多，毛利越高；\n对于部署层（如pltr）或者应用型公司来说，更是天然有选择高性价比token的动力。\n这份公开信的联名企业基本上就是这三大类，所以公开信背后其实有着极强的商业诉求和巨大的商业价值。\n\n4、Authropic在国会呼吁限制或者禁止中国开源模型的发展，实质上是明显感受到了这股势头的威胁和影响。kimi k3只是一个催化剂，在k3之前中国开源在Token消耗量的份额占比已经在快速飙升了，即使没有k3，Authropic也有动力这么做。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-07-25T01:13:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2080823741815382302",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOCSKcwa0AAP8gX.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "",
-        "link": "https://x.com/qinbafrank/status/2076839550119444702"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080818112199356669",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "财报季度，一期视频准备加听财报会议，录制，修改，当天上传，5-6小时，4家公司财报一期视频，虽然有AI可以总结，但财报会议有很多东西你不自己听，看文字是看不出来的。谷歌财报后有人问我：“很多博主说谷歌盈利是因为投资的收益，你怎么看？”这类问题根本不值得回答，能把这数据当重点的你们根本不需要关注。市场从来不会交易那些数据，公司本身，华尔街也都不会在乎。\n多数看视频看社交媒体做投资/交易的的确看不懂财报，只需要看博主推荐哪些标的跟着买就行，且门槛越低的内容流量越大。\n视频做给想学习和真的对投资感兴趣的看，当然我自己也是受益者，逼着自己也得不断学习。",
-      "contentHtml": "财报季度，一期视频准备加听财报会议，录制，修改，当天上传，5-6小时，4家公司财报一期视频，虽然有AI可以总结，但财报会议有很多东西你不自己听，看文字是看不出来的。谷歌财报后有人问我：“很多博主说谷歌盈利是因为投资的收益，你怎么看？”这类问题根本不值得回答，能把这数据当重点的你们根本不需要关注。市场从来不会交易那些数据，公司本身，华尔街也都不会在乎。\n多数看视频看社交媒体做投资/交易的的确看不懂财报，只需要看博主推荐哪些标的跟着买就行，且门槛越低的内容流量越大。\n视频做给想学习和真的对投资感兴趣的看，当然我自己也是受益者，逼着自己也得不断学习。",
-      "publishedAt": "2026-07-25T00:51:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2080818112199356669",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOCNC77WAAAxvkX.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080809052880474434",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "投资，可能真的和性格有关。\n\n有人天生喜欢冒险，喜欢在不确定性里寻找机会；有人天然厌恶风险，更在意确定性和安全边际。有人喜欢追逐趋势，有人习惯逆向思考；有人擅长等待，有人必须不断行动。\n\n这背后既有天生的性格底色，也有后天经历的不断迭代。\n\n亏过一次，你会重新理解风险；错过一次，你开始理解机会成本；连续犯错，你会学会控制仓位；经历过牛熊周期，你才慢慢知道，真正决定长期收益的，往往不是预测对多少次，而是自己能否在概率世界里保持稳定。\n\n所以，投资其实也是一种语言。\n\nK线是市场的语言，价格是共识的语言，波动是情绪的语言，而你的交易行为，则是在用投资表达你自己。\n\n一个人的仓位、止损、持有周期和面对亏损时的反应，往往比他说出来的投资理念更诚实。\n\n投资最终不是找到一套完美的策略，而是找到一种与你的性格、认知和风险承受能力相匹配的语言。\n\n你越了解自己，越能听懂市场；你越能迭代自己，越能用自己的方式与市场对话。\n\n市场不会因为你是谁而改变，但你可以通过一次次交易，慢慢成为更适合这个市场的人。",
-      "contentHtml": "投资，可能真的和性格有关。\n\n有人天生喜欢冒险，喜欢在不确定性里寻找机会；有人天然厌恶风险，更在意确定性和安全边际。有人喜欢追逐趋势，有人习惯逆向思考；有人擅长等待，有人必须不断行动。\n\n这背后既有天生的性格底色，也有后天经历的不断迭代。\n\n亏过一次，你会重新理解风险；错过一次，你开始理解机会成本；连续犯错，你会学会控制仓位；经历过牛熊周期，你才慢慢知道，真正决定长期收益的，往往不是预测对多少次，而是自己能否在概率世界里保持稳定。\n\n所以，投资其实也是一种语言。\n\nK线是市场的语言，价格是共识的语言，波动是情绪的语言，而你的交易行为，则是在用投资表达你自己。\n\n一个人的仓位、止损、持有周期和面对亏损时的反应，往往比他说出来的投资理念更诚实。\n\n投资最终不是找到一套完美的策略，而是找到一种与你的性格、认知和风险承受能力相匹配的语言。\n\n你越了解自己，越能听懂市场；你越能迭代自己，越能用自己的方式与市场对话。\n\n市场不会因为你是谁而改变，但你可以通过一次次交易，慢慢成为更适合这个市场的人。",
-      "publishedAt": "2026-07-25T00:15:00.000Z",
-      "link": "https://x.com/hazenlee/status/2080809052880474434",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080792705643536468",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "反正啥也看不懂，所以我写 Rust！",
-      "contentHtml": "反正啥也看不懂，所以我写 Rust！",
-      "publishedAt": "2026-07-24T23:10:00.000Z",
-      "link": "https://x.com/taresky/status/2080792705643536468",
-      "quote": {
-        "username": "gxgexiao",
-        "displayName": "Xiao",
-        "content": "Codex 写 Go 代码太喜欢做抽象了，但凡依赖外部都搞个 interface，Java 味儿极重。以前反对过度抽象是因为读代码改代码心智负担过大，现在如果大家都是 AI 写完了事不细读代码好像也没什么问题，易测试易移植的好处还在。",
-        "contentHtml": "Codex 写 Go 代码太喜欢做抽象了，但凡依赖外部都搞个 interface，Java 味儿极重。以前反对过度抽象是因为读代码改代码心智负担过大，现在如果大家都是 AI 写完了事不细读代码好像也没什么问题，易测试易移植的好处还在。",
-        "link": "https://x.com/gxgexiao/status/2080743743075057736"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080792509769568281",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI \n\nCodex 的“聊天”，或者“不选择项目”，其实就是生成一个临时的文件夹，让你隔离上下文去使用 Codex。\n\n而 Claude Code 不行，你必须选择一个项目。\n\n所以有一些临时性 Code 任务，比如写个小脚本，简单拉一下数据之类的临时任务，就会直接打开 Codex App 而不会考虑 Claude。\n\n这就是有产品经理，和没有产品经理的区别。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\nCodex 的“聊天”，或者“不选择项目”，其实就是生成一个临时的文件夹，让你隔离上下文去使用 Codex。\n\n而 Claude Code 不行，你必须选择一个项目。\n\n所以有一些临时性 Code 任务，比如写个小脚本，简单拉一下数据之类的临时任务，就会直接打开 Codex App 而不会考虑 Claude。\n\n这就是有产品经理，和没有产品经理的区别。",
-      "publishedAt": "2026-07-24T23:09:00.000Z",
-      "link": "https://x.com/taresky/status/2080792509769568281",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080777741067223143",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "今天纳指收盘，尾盘也没见到多头努力守护住前低，之前的支撑提到反弹是给减仓逃命的，若下周叠加FOMC等一系列事件确认跌破前低，则这波AI存储行情彻底结束。不要抱有幻想。同时存储预判了一波超过纳指的汇率反弹，也于接近高点位置拿回空方，存储继续不能乐观了。巨型头肩顶顶部形态",
-      "contentHtml": "今天纳指收盘，尾盘也没见到多头努力守护住前低，之前的支撑提到反弹是给减仓逃命的，若下周叠加FOMC等一系列事件确认跌破前低，则这波AI存储行情彻底结束。不要抱有幻想。同时存储预判了一波超过纳指的汇率反弹，也于接近高点位置拿回空方，存储继续不能乐观了。巨型头肩顶顶部形态",
-      "publishedAt": "2026-07-24T22:10:00.000Z",
-      "link": "https://x.com/hazenlee/status/2080777741067223143",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOBnLqxagAA_8kY.png"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOBn8Iqa8AAUX9J.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "左侧做了这波反弹，目前快到预期了。\n上周全网都在围攻存储，和之前顶部围攻看空存储或者理智派一样是个情绪的对称。只不过追涨杀跌的宝贝们又懵了，怎么刚割肉大家都在骂就反弹了？\n老师喜欢左侧预判反转，对了运气好，错了也正常，之前左侧看空存储已经把霉运都消耗光了，该亏的都亏了，现在对存储节奏很游龙😂",
-        "contentHtml": "左侧做了这波反弹，目前快到预期了。\n上周全网都在围攻存储，和之前顶部围攻看空存储或者理智派一样是个情绪的对称。只不过追涨杀跌的宝贝们又懵了，怎么刚割肉大家都在骂就反弹了？\n老师喜欢左侧预判反转，对了运气好，错了也正常，之前左侧看空存储已经把霉运都消耗光了，该亏的都亏了，现在对存储节奏很游龙😂",
-        "link": "https://x.com/hazenlee/status/2079611454152667615"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2080774898969125314",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "跌破且回抽确认，本段反弹POC重点关注，继续跌破开启加速下跌模式。",
-      "contentHtml": "跌破且回抽确认，本段反弹POC重点关注，继续跌破开启加速下跌模式。",
-      "publishedAt": "2026-07-24T21:59:00.000Z",
-      "link": "https://x.com/hazenlee/status/2080774898969125314",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOBlluCaMAAHfLg.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "关注前高，关键支撑",
-        "contentHtml": "关注前高，关键支撑",
-        "link": "https://x.com/hazenlee/status/2080187398785548668",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN5PYhkaEAAWa8D.png"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
