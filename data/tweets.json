@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T08:52:17.180Z",
+  "lastUpdated": "2026-08-01T09:43:35.378Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,40 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 629,
-    "successUsers": 31,
-    "failedUsers": 1
+    "newFetched": 649,
+    "successUsers": 32,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2083475441311248541",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "Coinbase财报大幅不及预期，推上流出了一些Coinbase快要倒闭的消息，如果单从COIN的财报看，营收同比、环比都在下降，目前加密处于寒冬时节交易量不断下降，手续费作为COIN的收入来源，交易收入下滑拖累整体业绩\n\n从K线来看COIN回到了140附近的防守区域，这是第五次来到这个位置了，不知道这次能不能守住了\n\n于此同时BTC和ETH颓势尽显，如果真的要突破应该直接就上去了，真正的突破都是极难等到回头的，估计在这里维持一段时间震荡的概率比较高了\n#Coinbase #BTC #ETH",
+      "contentHtml": "Coinbase财报大幅不及预期，推上流出了一些Coinbase快要倒闭的消息，如果单从COIN的财报看，营收同比、环比都在下降，目前加密处于寒冬时节交易量不断下降，手续费作为COIN的收入来源，交易收入下滑拖累整体业绩\n\n从K线来看COIN回到了140附近的防守区域，这是第五次来到这个位置了，不知道这次能不能守住了\n\n于此同时BTC和ETH颓势尽显，如果真的要突破应该直接就上去了，真正的突破都是极难等到回头的，估计在这里维持一段时间震荡的概率比较高了\n<a href=\"/search?f=tweets&q=%23Coinbase\">#Coinbase</a> <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> <a href=\"/search?f=tweets&q=%23ETH\">#ETH</a>",
+      "publishedAt": "2026-08-01T08:50:00.000Z",
+      "link": "https://x.com/dongbimao/status/2083475441311248541",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOn9rLrbYAA2gUg.png"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOn9sRpbwAAGeb7.png"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOn9tJGbIAALfC_.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2083454430628962628",
       "username": "qinbafrank",
@@ -11934,21 +11963,6 @@
       "contentHtml": "昨天处理家里一台二手油车，突然想明白一件事，很多可以二级交易的东西都可以像交易一样做：\n\n二手车商，其实就是现实世界里最容易被忽略的「做市商」。\n\n车主急着卖车，本质上就是一笔市价单，愿意接受市场当下的Bid；车商报出的收购价，就是他的Limit Order。\n\n但车商真正赚的，从来不只是「低买高卖」四个字。\n\n他赚的是流动性溢价、信息差和库存风险的补偿。\n\n一辆车值多少钱，并没有一个绝对价格。市场给出的价格，取决于当下有没有人愿意接。\n\n所以你会发现一个很有意思的现象：\n\n车商敢收的车，往往不是他认为「最有价值」的车，而是他认为最容易再次找到买家的车。\n\n这和金融市场的做市商完全一样。\n\n做市商最怕的不是价格波动，而是库存失衡。\n\n收了一堆油车，新能源突然降价，等于库存资产发生重估；市场流动性下降，Bid不断后撤，等于Limit Order Book变薄。\n\n这时候，车商就会主动降价出库存。\n\n你看到的是「车越来越便宜」，但从交易市场的角度看，其实是：\n\n流动性正在消失，做市商正在撤单，市场正在重新寻找新的均衡价格。\n\n所以很多资产的价格暴跌，并不一定是因为价值突然消失，而可能只是因为：\n\n卖方急着卖，买方不愿接，做市商开始撤掉Bid。\n\n金融市场如此，二手车市场如此，房地产也如此。\n\n真正理解市场之后，你会发现：\n\n价格不是价值的静态答案，而是流动性博弈的动态结果。\n\n而市场中最重要的角色，往往不是那个预测涨跌的人，而是那个愿意在别人恐慌卖出时接住筹码、在别人疯狂买入时提供库存的人。\n\n做市商赚的是Spread。\n\n但承担的，是整个市场的库存风险。\n\n所以从这个角度看，二手车商和做市商卖期权的人其实没有那么大的区别：\n\n一个管理汽车库存，一个管理金融资产库存。\n\n最终拼的都是同一件事——\n\n你能不能在市场最需要流动性的时候，活着站在牌桌上。",
       "publishedAt": "2026-07-27T00:03:00.000Z",
       "link": "https://x.com/hazenlee/status/2081530878912757835",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081520587793485880",
-      "username": "DrProfitCrypto",
-      "displayName": "Doctor Profit 🇨🇭",
-      "avatar": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_bigger.jpg",
-      "content": "$ETH: For the first time ever, ETH has a larger position size than BTC in my portfolio. In previous cycles, ETH represented only around 10% of my BTC and ETH portfolio. Last week, I increased it to 20%. Today, I am raising it to 60%. Read that again: for the first time in my entire trading history, I will hold more Ethereum than Bitcoin for this cycle.\n\nFor this cycle: 60% ETH and 40% BTC. The largest Ethereum bet I have ever made. Either this will become one of the greatest allocation decisions of my career or one of the craziest. I am betting on the first. The exact reason for this positioning, the report and idea will be shared in the right moment.\n\nTodays ETH Price: $1950\nFear And Greed: (26) Fear",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23ETH\">$ETH</a>: For the first time ever, ETH has a larger position size than BTC in my portfolio. In previous cycles, ETH represented only around 10% of my BTC and ETH portfolio. Last week, I increased it to 20%. Today, I am raising it to 60%. Read that again: for the first time in my entire trading history, I will hold more Ethereum than Bitcoin for this cycle.\n\nFor this cycle: 60% ETH and 40% BTC. The largest Ethereum bet I have ever made. Either this will become one of the greatest allocation decisions of my career or one of the craziest. I am betting on the first. The exact reason for this positioning, the report and idea will be shared in the right moment.\n\nTodays ETH Price: $1950\nFear And Greed: (26) Fear",
-      "publishedAt": "2026-07-26T23:22:00.000Z",
-      "link": "https://x.com/DrProfitCrypto/status/2081520587793485880",
       "stats": {
         "replies": 0,
         "retweets": 0,
