@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T11:30:47.242Z",
+  "lastUpdated": "2026-08-02T12:29:03.350Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,67 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 628,
+    "newFetched": 629,
     "successUsers": 31,
     "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2083890594796257652",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "看到有说英伟达Rubin上的HBM要减配了，实际情况是什么？应该不是已经开始交付并逐步放量的标准Vera Rubin NVL72减配，而是英伟达计划27年下半年推出的rubin升级版Rubin Ultra版配置规格还没确定下来，多家机构认为相比英伟达之前在GTC上公布的Rubin Ultra激进配置来说，可能最终规格要降低。详细聊聊：\n1、标准版Vera Rubin现在的进度\n标准Vera Rubin（NVL72）已经开始交付，6月1日前后，Dell率先向CoreWeave交付首批基于Vera Rubin NVL72的系统，CoreWeave完成行业首次完整bring-up和验证。\n\n到7月，已有数十家客户收到测试机架/初期出货，包括CoreWeave、Microsoft、OpenAI、Anthropic、SpaceX AI、Google Cloud、Oracle、Nebius等。部分已在客户数据中心运行。\n\n到秋季会开始更大规模交付，整体进度比Blackwell更顺利，无架组装时间大幅缩短（约5分钟级）。之前老黄和英伟达官方明确否认标准Vera Rubin有重大延期，路线图保持完整。\n\n2、原计划27年下半年推出的Rubin Ultra 版（相当于是标准版的升级）的进展\n1）原GTC2026公布的激进配置（目标2027年）\n（一）计算Die：4个接近光罩极限尺寸（near-reticle-sized）的计算芯粒，集成在单一封装内（相对标准Rubin的2个Die翻倍）。\n（二）HBM配置：16个HBM4E堆栈。内存容量：单封装约1 TB HBM4E（业界首款TB级AI加速器）。\n（三）采用更先进的封装（CoWoS-L相关），配套新的Kyber机架（垂直托盘、默认液冷），可支持NVL144等高密度配置（单机架最多144个GPU封装），整体算力和带宽目标显著高于标准Vera Rubin。\n\n原来计划配置，单封装性能大幅跃升，强调极致密度和内存容量，用于超大规模模型。\n\n2）6月底\nSemiAnalysis等报告称因TSMC CoWoS-L封装基板翘曲（warpage）、光罩尺寸限制、良率/制造执行难题，原四Die + 16 HBM4E设计被取消。TSMC下一代CoPoS（Chip-on-Panel-on-Substrate）量产预计要到2028年底-2029年，赶不上2027节点。\n\n可能的调整是四Die方案取消，转向双Die设计（与标准Rubin相同）+ 8个HBM4E堆栈，单封装计算规模和内存带宽大致减半。\n容量示例：约384 GB/GPU（例如8个12-Hi、每堆栈48 GB的HBM4E），仍高于标准Rubin的288 GB HBM4，但远低于原1 TB目标。\n带宽方面，HBM4E单堆栈速率更高（可达更高pin rate，如16 Gbps级别），但总堆栈数减半，整体仍不及原计划。\n\n这属于相对原计划的明显缩水，但通过机架级扩展（更多封装）可部分补偿系统级性能。\n\n3）7月底\nTrendForce最近报告认为Rubin Ultra的HBM规格仍未最终锁定，因供应紧张、价格上涨，NVIDIA优先保障出货量、I/O速度和整体规模。英伟达可能考虑更低规格选项，包括HBM4E 8hi（8层堆栈，容量更低）等。\n\nTrendForce报告提到有四种可能的HBM配置，核心是容量与供应确定性之间的权衡。最终规格预计在2026年下半年验证后确定。英伟达的目标仍是2027年出货，但更务实地平衡性能、成本和可制造性。\n\n总结\n1）标准Vera Rubin已经开始量产交付、计划秋季更大规模交付，节奏和规格应该是保持不变。\n2）而原计划27年下半年推出的Rubin Ultra 版其配置规格相比原今年GTC大会上宣布激进版（4 Die + 16 HBM4E ≈ 1 TB）可能要调整至双Die + 8 HBM4E ≈ 384GB左右（标准Rubin的288 GB HBM4），但现在还没最终确定具体规格。",
+      "contentHtml": "看到有说英伟达Rubin上的HBM要减配了，实际情况是什么？应该不是已经开始交付并逐步放量的标准Vera Rubin NVL72减配，而是英伟达计划27年下半年推出的rubin升级版Rubin Ultra版配置规格还没确定下来，多家机构认为相比英伟达之前在GTC上公布的Rubin Ultra激进配置来说，可能最终规格要降低。详细聊聊：\n1、标准版Vera Rubin现在的进度\n标准Vera Rubin（NVL72）已经开始交付，6月1日前后，Dell率先向CoreWeave交付首批基于Vera Rubin NVL72的系统，CoreWeave完成行业首次完整bring-up和验证。\n\n到7月，已有数十家客户收到测试机架/初期出货，包括CoreWeave、Microsoft、OpenAI、Anthropic、SpaceX AI、Google Cloud、Oracle、Nebius等。部分已在客户数据中心运行。\n\n到秋季会开始更大规模交付，整体进度比Blackwell更顺利，无架组装时间大幅缩短（约5分钟级）。之前老黄和英伟达官方明确否认标准Vera Rubin有重大延期，路线图保持完整。\n\n2、原计划27年下半年推出的Rubin Ultra 版（相当于是标准版的升级）的进展\n1）原GTC2026公布的激进配置（目标2027年）\n（一）计算Die：4个接近光罩极限尺寸（near-reticle-sized）的计算芯粒，集成在单一封装内（相对标准Rubin的2个Die翻倍）。\n（二）HBM配置：16个HBM4E堆栈。内存容量：单封装约1 TB HBM4E（业界首款TB级AI加速器）。\n（三）采用更先进的封装（CoWoS-L相关），配套新的Kyber机架（垂直托盘、默认液冷），可支持NVL144等高密度配置（单机架最多144个GPU封装），整体算力和带宽目标显著高于标准Vera Rubin。\n\n原来计划配置，单封装性能大幅跃升，强调极致密度和内存容量，用于超大规模模型。\n\n2）6月底\nSemiAnalysis等报告称因TSMC CoWoS-L封装基板翘曲（warpage）、光罩尺寸限制、良率/制造执行难题，原四Die + 16 HBM4E设计被取消。TSMC下一代CoPoS（Chip-on-Panel-on-Substrate）量产预计要到2028年底-2029年，赶不上2027节点。\n\n可能的调整是四Die方案取消，转向双Die设计（与标准Rubin相同）+ 8个HBM4E堆栈，单封装计算规模和内存带宽大致减半。\n容量示例：约384 GB/GPU（例如8个12-Hi、每堆栈48 GB的HBM4E），仍高于标准Rubin的288 GB HBM4，但远低于原1 TB目标。\n带宽方面，HBM4E单堆栈速率更高（可达更高pin rate，如16 Gbps级别），但总堆栈数减半，整体仍不及原计划。\n\n这属于相对原计划的明显缩水，但通过机架级扩展（更多封装）可部分补偿系统级性能。\n\n3）7月底\nTrendForce最近报告认为Rubin Ultra的HBM规格仍未最终锁定，因供应紧张、价格上涨，NVIDIA优先保障出货量、I/O速度和整体规模。英伟达可能考虑更低规格选项，包括HBM4E 8hi（8层堆栈，容量更低）等。\n\nTrendForce报告提到有四种可能的HBM配置，核心是容量与供应确定性之间的权衡。最终规格预计在2026年下半年验证后确定。英伟达的目标仍是2027年出货，但更务实地平衡性能、成本和可制造性。\n\n总结\n1）标准Vera Rubin已经开始量产交付、计划秋季更大规模交付，节奏和规格应该是保持不变。\n2）而原计划27年下半年推出的Rubin Ultra 版其配置规格相比原今年GTC大会上宣布激进版（4 Die + 16 HBM4E ≈ 1 TB）可能要调整至双Die + 8 HBM4E ≈ 384GB左右（标准Rubin的288 GB HBM4），但现在还没最终确定具体规格。",
+      "publishedAt": "2026-08-02T12:20:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2083890594796257652",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "关于SemiAnalysis说“英伟达KyberNVL144机架架构出现大规模延迟”这篇推文，可能很多人都不理Rubin，Rubin Ultra两种芯片型号，Oberon和Kyber这两种机架型号的区别是什么？需要关注的点：\n1、Rubin是GPU架构（芯片层面），搭配Vera CPU，2026下半年开始量产出货（6月初台北电脑展已经展示量产机型了）使用Oberon机架（NVL72规模）。\n\n2、Rubin Ultra是Rubin的升级加强版（更多内存、更高性能配置），计划在2027年推出，使用Kyber机架。Kyber机架是专门为Rubin Ultra设计的新一代高密度机架，目标是把单机架GPU数量从72提升到144，通过更先进的 NVLink 实现更大的“scale-up 域”（把更多 GPU 像一个大 GPU 一样紧密连接）。\n\nSemi说的延迟就是这个Kyber机架因为PCB中板的可制造性可能出现延迟。\n\n3、在英伟达的规划里，Rubin Ultra NVL144(Kyber机柜架构）本身就要到27年才会推出，量产可能也就到27年下半年去了。毕竟rubin的NVL 72今年才半年才能量产嘛。其实不用过多关注kyber的进度，其实一切按照达子的预期节奏推动，Kyber量产落地也要到明年下半年去了。\n\n4、然后SemiAnalysis说一个原本计划在27年下半年才能量产落地的Kyber NVL144机架架构要落后延迟到28年。大家都再说英伟达要延迟了🤣\n\n重点还是关注今年Rubin NV72（Oberon 机架）量产落地的节奏。",
+        "contentHtml": "关于SemiAnalysis说“英伟达KyberNVL144机架架构出现大规模延迟”这篇推文，可能很多人都不理Rubin，Rubin Ultra两种芯片型号，Oberon和Kyber这两种机架型号的区别是什么？需要关注的点：\n1、Rubin是GPU架构（芯片层面），搭配Vera CPU，2026下半年开始量产出货（6月初台北电脑展已经展示量产机型了）使用Oberon机架（NVL72规模）。\n\n2、Rubin Ultra是Rubin的升级加强版（更多内存、更高性能配置），计划在2027年推出，使用Kyber机架。Kyber机架是专门为Rubin Ultra设计的新一代高密度机架，目标是把单机架GPU数量从72提升到144，通过更先进的 NVLink 实现更大的“scale-up 域”（把更多 GPU 像一个大 GPU 一样紧密连接）。\n\nSemi说的延迟就是这个Kyber机架因为PCB中板的可制造性可能出现延迟。\n\n3、在英伟达的规划里，Rubin Ultra NVL144(Kyber机柜架构）本身就要到27年才会推出，量产可能也就到27年下半年去了。毕竟rubin的NVL 72今年才半年才能量产嘛。其实不用过多关注kyber的进度，其实一切按照达子的预期节奏推动，Kyber量产落地也要到明年下半年去了。\n\n4、然后SemiAnalysis说一个原本计划在27年下半年才能量产落地的Kyber NVL144机架架构要落后延迟到28年。大家都再说英伟达要延迟了🤣\n\n重点还是关注今年Rubin NV72（Oberon 机架）量产落地的节奏。",
+        "link": "https://x.com/qinbafrank/status/2074024963892457544",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMhnmJmbwAAnoqn.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2083881225278960042",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "多谢kim，今天也是学到知识了，原来香港这么多的冰室还有这样的历史缘由。历史的发展就是如此，以前高不可攀的东西以后就是唾手可得，这也是门槛降低的意义所在。",
+      "contentHtml": "多谢kim，今天也是学到知识了，原来香港这么多的冰室还有这样的历史缘由。历史的发展就是如此，以前高不可攀的东西以后就是唾手可得，这也是门槛降低的意义所在。",
+      "publishedAt": "2026-08-02T11:42:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2083881225278960042",
+      "quote": {
+        "username": "moonkimbinance",
+        "displayName": "Kim🔶玩bStocks上币安",
+        "content": "最近才知道，虽然四五十年代香港已经有西餐厅，但因为价格昂贵，大多数市民依然很难真正接触西式饮食。\n\n冰室的出现，让这件事发生了变化。\n\n它用更便宜的面包、蛋挞、咖啡和奶茶，让原本离普通人很远的西式饮食，开始进入更多人的日常。\n\n后来，叉烧饭、粥粉面陆续加入，冰室也逐渐演变成今天的茶餐厅。它不断吸收不同地方的食物，在几十年的融合中，直到今天成为香港最具特色的饮食文化。\n\n有意思的是，冰室最初只是为了让更多人“接触得到”“吃的更好”，最后却长成了一种独特的香港文化。\n\n是不是那些真正有生命力的事物，都像这样，始于一个朴素的需求呢？先让更多人能够接触，再跟着用户不断生长，慢慢长出属于自己的样子。\n\n今天又见到了很多新老朋友，聊天时，就发现，大家谈到币安最多的，竟然已经是 TradFi 和 bStocks了，特别是对币安一些TradFi交易对超越正股的交易量的惊讶。不少朋友还说，已经开始把币安作为接触全球资产的重要入口了，甚至有朋友提到，币安已经成为了他们接触更多市场的第一站。\n\n这两件事放在一起，突然让我感受到某种连接。\n\n因为币安一路走来做的事，也很朴素，就是通过全球化的基础设施，让更多人能够更方便地接触和使用金融服务。\n\n从一开始的降低门槛，到如今新的使用习惯的形成，很多改变似乎也在这样发生。\n\n再次感谢，@KuiGas @qinbafrank @Bitwux  @punk2898 @Rocky_Bitcoin @0xBeyondLee  @MrQin_BTC @sanyuanVC  @pzong666 @agintender\n@eyucrypto @UnicornBitcoin @AirdropAlchemis @Web32049 @0xwasfree 很高兴和老师们度过了一个愉快的周末😁",
+        "contentHtml": "最近才知道，虽然四五十年代香港已经有西餐厅，但因为价格昂贵，大多数市民依然很难真正接触西式饮食。\n\n冰室的出现，让这件事发生了变化。\n\n它用更便宜的面包、蛋挞、咖啡和奶茶，让原本离普通人很远的西式饮食，开始进入更多人的日常。\n\n后来，叉烧饭、粥粉面陆续加入，冰室也逐渐演变成今天的茶餐厅。它不断吸收不同地方的食物，在几十年的融合中，直到今天成为香港最具特色的饮食文化。\n\n有意思的是，冰室最初只是为了让更多人“接触得到”“吃的更好”，最后却长成了一种独特的香港文化。\n\n是不是那些真正有生命力的事物，都像这样，始于一个朴素的需求呢？先让更多人能够接触，再跟着用户不断生长，慢慢长出属于自己的样子。\n\n今天又见到了很多新老朋友，聊天时，就发现，大家谈到币安最多的，竟然已经是 TradFi 和 bStocks了，特别是对币安一些TradFi交易对超越正股的交易量的惊讶。不少朋友还说，已经开始把币安作为接触全球资产的重要入口了，甚至有朋友提到，币安已经成为了他们接触更多市场的第一站。\n\n这两件事放在一起，突然让我感受到某种连接。\n\n因为币安一路走来做的事，也很朴素，就是通过全球化的基础设施，让更多人能够更方便地接触和使用金融服务。\n\n从一开始的降低门槛，到如今新的使用习惯的形成，很多改变似乎也在这样发生。\n\n再次感谢，<a href=\"/KuiGas\" title=\"丰密\">@KuiGas</a> <a href=\"/qinbafrank\" title=\"qinbafrank\">@qinbafrank</a> <a href=\"/Bitwux\" title=\"BITWU.ETH 🔆\">@Bitwux</a>  <a href=\"/punk2898\" title=\"Punk（2898 🙌💎）\">@punk2898</a> <a href=\"/Rocky_Bitcoin\" title=\"Rocky\">@Rocky_Bitcoin</a> <a href=\"/0xBeyondLee\" title=\"解构师 Beyond\">@0xBeyondLee</a>  <a href=\"/MrQin_BTC\" title=\"秦先生\">@MrQin_BTC</a> <a href=\"/sanyuanVC\" title=\"园长｜YuanMan\">@sanyuanVC</a>  <a href=\"/pzong666\" title=\"Patience\">@pzong666</a> <a href=\"/agintender\" title=\"danny\">@agintender</a>\n<a href=\"/eyucrypto\" title=\"Ey\">@eyucrypto</a> <a href=\"/UnicornBitcoin\" title=\"UNICORN⚡️🦄\">@UnicornBitcoin</a> <a href=\"/AirdropAlchemis\" title=\"炼金叔叔\">@AirdropAlchemis</a> <a href=\"/Web32049\" title=\"黄周\">@Web32049</a> <a href=\"/0xwasfree\" title=\"我本无忧(🪱, 🕳️, 💎)\">@0xwasfree</a> 很高兴和老师们度过了一个愉快的周末😁",
+        "link": "https://x.com/moonkimbinance/status/2083846271526117464",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOtPIm_bAAAKXxN.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2083876141002351005",
       "username": "hazenlee",
@@ -11867,49 +11923,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HOOXOa5aIAEsJGL.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081666848953917880",
-      "username": "OwenJin12",
-      "displayName": "Owen.btc 🟧",
-      "avatar": "https://pbs.twimg.com/profile_images/1986442283433254912/O0egVwxK_bigger.jpg",
-      "content": "7/30 02:00 UTC+8\n沃什发言前必对冲保护一下",
-      "contentHtml": "7/30 02:00 UTC+8\n沃什发言前必对冲保护一下",
-      "publishedAt": "2026-07-27T09:03:00.000Z",
-      "link": "https://x.com/OwenJin12/status/2081666848953917880",
-      "quote": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君",
-        "content": "我对沃什还在了解的过程中，周末经过思考之后，我认为这次有很大的概率加息。\n1. 用来建立个人威信\n2. 表明独立的美联储\n3. 致敬格林斯潘（市场不会知道我们在想什么）\n坏处是现在市场只定价了35%的概率加息，包括这将会让市场彻底相信沃什的改革决心\n所以周一，二市场如果反弹我认为周三的风险是应该考虑进去的，主动减仓或者被动减仓都可以做，美联储的影响是全面性的，比如标普。没必要做空和清仓，我们并非进入加息周期，AI仍在往前进。",
-        "contentHtml": "我对沃什还在了解的过程中，周末经过思考之后，我认为这次有很大的概率加息。\n1. 用来建立个人威信\n2. 表明独立的美联储\n3. 致敬格林斯潘（市场不会知道我们在想什么）\n坏处是现在市场只定价了35%的概率加息，包括这将会让市场彻底相信沃什的改革决心\n所以周一，二市场如果反弹我认为周三的风险是应该考虑进去的，主动减仓或者被动减仓都可以做，美联储的影响是全面性的，比如标普。没必要做空和清仓，我们并非进入加息周期，AI仍在往前进。",
-        "link": "https://x.com/TJ_Research/status/2081547089515876480"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081666629474074881",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "Get ready for all your favorite crypto KOLs to explain you how @revolut is great for you",
-      "contentHtml": "Get ready for all your favorite crypto KOLs to explain you how <a href=\"/Revolut\" title=\"Revolut\">@revolut</a> is great for you",
-      "publishedAt": "2026-07-27T09:02:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2081666629474074881",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOOQo9mWAAAPKUL.jpg"
         }
       ],
       "stats": {
