@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T10:35:58.716Z",
+  "lastUpdated": "2026-08-02T11:30:47.242Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,26 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 609,
-    "successUsers": 30,
-    "failedUsers": 2
+    "newFetched": 628,
+    "successUsers": 31,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2083876141002351005",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
+      "content": "卧槽有蛇啊，太吓人了！",
+      "contentHtml": "卧槽有蛇啊，太吓人了！",
+      "publishedAt": "2026-08-02T11:22:00.000Z",
+      "link": "https://x.com/hazenlee/status/2083876141002351005",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2083844726411948297",
       "username": "qinbafrank",
@@ -191,6 +206,10 @@
           "url": "https://pbs.twimg.com/media/HOs2rxzbcAAhEh_.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -11891,31 +11910,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HOOQo9mWAAAPKUL.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081664202377458064",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "开 500 倍杠杆的合约都没感觉了\n\n好无聊🥱",
-      "contentHtml": "开 500 倍杠杆的合约都没感觉了\n\n好无聊🥱",
-      "publishedAt": "2026-07-27T08:53:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2081664202377458064",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOOOjE4aYAAhlvP.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOOOjFFagAEXg7b.jpg"
         }
       ],
       "stats": {
