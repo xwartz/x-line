@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T23:23:34.603Z",
+  "lastUpdated": "2026-08-03T00:44:35.651Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,113 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 648,
-    "successUsers": 32,
-    "failedUsers": 0
+    "newFetched": 587,
+    "successUsers": 29,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2084077805256765601",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "吃过这个玩意儿吗？搞了点童年记忆来吃。",
+      "contentHtml": "吃过这个玩意儿吗？搞了点童年记忆来吃。",
+      "publishedAt": "2026-08-03T00:44:00.000Z",
+      "link": "https://x.com/taresky/status/2084077805256765601",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOwhti2bYAAlE7r.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084077020498010302",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "CARRY TRADE里面，融资成本（日本央行加息）影响是最小的，其次是汇率波动（较大），而最大的是资产价格本身的波动。\n所以不少人担心日元升值导致CARRY TRADE，美股下跌。但如果要推测CARRY TRADE的TRADE标的，估计是半导体，但半导体7月份经历了一波去杠杆，很多标的跌幅都是50%以上，所以我有理由相信，7月份的下跌里，日元的CARRY TRADE交易已经平仓了不少，也贡献了下跌。\n最后很多人关注CME日元的头寸，这只是市场很小的一部分，多数日元的空头都是OTC，无法评估出体量。\n综上所述，在美股里面最热的资产已经经历了一波下跌后，我认为CARRY TRADE影响很小。",
+      "contentHtml": "CARRY TRADE里面，融资成本（日本央行加息）影响是最小的，其次是汇率波动（较大），而最大的是资产价格本身的波动。\n所以不少人担心日元升值导致CARRY TRADE，美股下跌。但如果要推测CARRY TRADE的TRADE标的，估计是半导体，但半导体7月份经历了一波去杠杆，很多标的跌幅都是50%以上，所以我有理由相信，7月份的下跌里，日元的CARRY TRADE交易已经平仓了不少，也贡献了下跌。\n最后很多人关注CME日元的头寸，这只是市场很小的一部分，多数日元的空头都是OTC，无法评估出体量。\n综上所述，在美股里面最热的资产已经经历了一波下跌后，我认为CARRY TRADE影响很小。",
+      "publishedAt": "2026-08-03T00:40:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2084077020498010302",
+      "quote": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君",
+        "content": "日元CARRY TRADE 101\n操作方法：日本以及国外投资者在日本以低利息借钱，换成美元，购买美股。美股赚钱了卖出，获得美元，把美元换回日元，还钱。\n所以风险来自于：\n1. 日元升值\n2. 日债利率上升（融资成本上升）\n3. 美股指数回报跑输日经\n例子：24年8月份，日本央行的鹰派，导致日元大幅升值！使CARRY TRADE平仓，美股下跌。\n那么10月份以来美股的下跌和CARRY TRADE有关吗？过去两个月，日元贬值6.8%，利率的确有所上升，但被日元贬值幅度掩盖。",
+        "contentHtml": "日元CARRY TRADE 101\n操作方法：日本以及国外投资者在日本以低利息借钱，换成美元，购买美股。美股赚钱了卖出，获得美元，把美元换回日元，还钱。\n所以风险来自于：\n1. 日元升值\n2. 日债利率上升（融资成本上升）\n3. 美股指数回报跑输日经\n例子：24年8月份，日本央行的鹰派，导致日元大幅升值！使CARRY TRADE平仓，美股下跌。\n那么10月份以来美股的下跌和CARRY TRADE有关吗？过去两个月，日元贬值6.8%，利率的确有所上升，但被日元贬值幅度掩盖。",
+        "link": "https://x.com/TJ_Research/status/1994094443780296940"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084073672386486513",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "FIMA是国外央行通过美联储借美元，当日本需要保日元时就得卖美元资产，比如美债。所以FIMA上线提高意思就是我们为日元背书，用美债抵押，借他们子弹，某种程度是缓解美债的抛压",
+      "contentHtml": "FIMA是国外央行通过美联储借美元，当日本需要保日元时就得卖美元资产，比如美债。所以FIMA上线提高意思就是我们为日元背书，用美债抵押，借他们子弹，某种程度是缓解美债的抛压",
+      "publishedAt": "2026-08-03T00:27:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2084073672386486513",
+      "quote": {
+        "username": "SecScottBessent",
+        "displayName": "Treasury Secretary Scott Bessent",
+        "content": "The Trump Administration delivers for America's trusted partners. Economic security is national security. And the U.S.-Japan alliance is built on both.\n\nFriday's coordinated foreign exchange actions countered disorderly yen movements. \n\nTreasury remains attentive and in close communication with our counterparts at MOF and BOJ. We will not hesitate to participate in further joint intervention.\n\nThe FIMA Repo Facility is an important backstop. We would encourage it to be upsized in the coming months. \n\nWe strongly support Japan's decisive market and monetary steps to correct the substantial undervaluation of the yen. \n\nThe Takaichi government is moving into an exciting new phase of Abenomics, as nearly 15 years of powerful stimulus have created durable, robust underlying economic dynamics.",
+        "contentHtml": "The Trump Administration delivers for America's trusted partners. Economic security is national security. And the U.S.-Japan alliance is built on both.\n\nFriday's coordinated foreign exchange actions countered disorderly yen movements. \n\nTreasury remains attentive and in close communication with our counterparts at MOF and BOJ. We will not hesitate to participate in further joint intervention.\n\nThe FIMA Repo Facility is an important backstop. We would encourage it to be upsized in the coming months. \n\nWe strongly support Japan's decisive market and monetary steps to correct the substantial undervaluation of the yen. \n\nThe Takaichi government is moving into an exciting new phase of Abenomics, as nearly 15 years of powerful stimulus have created durable, robust underlying economic dynamics.",
+        "link": "https://x.com/SecScottBessent/status/2084051676801933622"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084064381110042818",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#Crypto \n\n如果 OneKey 是西方团队，Ledger 早就退出市场了。\n\n当然，如果 OneKey 不是华人团队，也不可能做出世界上最好的硬件钱包。\n\n如果你这辈子还有任何一丁点接触 Crypto 的可能性，你应该\n\n—— 先有一个 OneKey，再接触 Crypto。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n如果 OneKey 是西方团队，Ledger 早就退出市场了。\n\n当然，如果 OneKey 不是华人团队，也不可能做出世界上最好的硬件钱包。\n\n如果你这辈子还有任何一丁点接触 Crypto 的可能性，你应该\n\n—— 先有一个 OneKey，再接触 Crypto。",
+      "publishedAt": "2026-08-02T23:50:00.000Z",
+      "link": "https://x.com/taresky/status/2084064381110042818",
+      "quote": {
+        "username": "ohyishi",
+        "displayName": "Yishi",
+        "content": "for everyone who’s feeling worried, scared, or anxious because of the coldcard incident, or who has suffered a loss, leave a comment under this post.\n\ni’ll randomly select 100 people to receive the latest secure onekey hardware wallet.\n\nit’s the least i can do.",
+        "contentHtml": "for everyone who’s feeling worried, scared, or anxious because of the coldcard incident, or who has suffered a loss, leave a comment under this post.\n\ni’ll randomly select 100 people to receive the latest secure onekey hardware wallet.\n\nit’s the least i can do.",
+        "link": "https://x.com/ohyishi/status/2083794335011942680"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084058572435206543",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "开始建仓空一切了，目前比较保守，等taco彻底落地再加仓。",
+      "contentHtml": "开始建仓空一切了，目前比较保守，等taco彻底落地再加仓。",
+      "publishedAt": "2026-08-02T23:27:00.000Z",
+      "link": "https://x.com/yuren477/status/2084058572435206543",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2084033089857261637",
       "username": "yuren477",
@@ -2481,39 +2583,6 @@
           "url": "https://pbs.twimg.com/media/HOi7JaJboAAsZv_.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083166407815037031",
-      "username": "jheioff",
-      "displayName": "第一美少女",
-      "avatar": "https://pbs.twimg.com/profile_images/2058739738044145665/2sVsCA8B_bigger.jpg",
-      "content": "今天，是Gate事件刑事立案后的第14天。\n\n警方正式发函后，Gate先后以“文件格式不支持、压缩包可能存在病毒、怀疑报假警、材料不完整、要求视频验证”等理由反复推诿。警方逐项补充、全部配合后，Gate直到前几天才回复司法调证函。\n\n警方让我辨认Gate提供的“手持身份证及纸条认证材料”是不是我本人。看到照片后，大家的第一反应是：这也太假了，明显PS的图片，如此明显的伪造资料，究竟是怎么通过审核的？@gate @Gate_zh\n\n事实非常清楚：\n第一，照片中的身份证根本不是我的身份证。身份证排版错误，登记地址与我的真实地址完全不符，甚至连地址开头的［省份］都没有。\n\n第二，身份证号码明ps痕迹明显。正常身份证号码应延伸至头像右侧，但Gate提供的照片中，号码只到左肩位置，字体和长度均明显异常。\n\n第三，照片中的人根本不是我。其外貌特征与我明显不符，连手部细节都能看出差异：对方拇指指甲没有月牙，而我本人拇指指甲一直有明显月牙。\n\n然而，就是这样一张假身份证、一个非本人、配上一份漏洞百出的手持认证材料，竟然通过了Gate的安全审核，并被作为“用户本人验证通过”的依据。\n\nGate最大的问题，不只是攻击者提交了虚假资料，而是如此低级、明显的虚假资料，居然能够通过你们的风控审核！\n\n更严重的是，Gate目前只向警方回复了部分材料，最关键的人脸活体验证视频至今仍未提供。此前你们口口声声表示“已经掌握关键线索”“将全力配合”，可真正刑事立案、警方正式调证后，交出的却是如此离谱的材料，核心证据仍然缺失。Gate现在拿出一点边角材料，再不断声称“正在配合”，本质上就是在拖延时间。\n\n表面上看，是我的账户遭到盗取；但从整个过程来看，真正被攻击者击穿的，是Gate自身的身份审核和安全风控体系。攻击者仅凭假身份证、假手持资料和非本人人脸，就能重置账户安全验证并转走巨额资产，这已经不是单个用户的偶发损失，而是所有Gate用户都可能面临的系统性安全风险。\n\n想想多可怕，辛苦多年积累的资产，可能只需要一张假身份证、一份假纸条和一段非本人的视频，就被他人轻易控制。你回来看到资产被转走时，Gate最终只需要用一句“系统验证通过”，就把全部责任推给用户。\n\nGate，你们内部真的应该立即自纠自查，而不是继续推诿和拖延。请立即成立专项调查组，安排真正专业、负责的人员，全程深入配合警方调查，完整提交活体人脸视频、审核记录、操作日志、设备信息及全部原始证据，尽快查清漏洞、锁定责任、还原事实，早日向警方、受害用户和公众交代真相。\n\n如此低级、业余的审核结果，暴露出的究竟是个别审核人员失职，还是整个风控体系已经形同虚设？\n\n一个管理着上100亿美元用户资产的交易平台，如果连“身份证是不是假的、照片里的人是不是本人”都无法识别，又凭什么让全球用户相信：自己的资产放在Gate是安全的？\n\n请大家关注，转发，今天这是发生在我身上的事情，明天就可能发生在任何一名Gate用户身上，越想越气，越想越后怕",
-      "contentHtml": "今天，是Gate事件刑事立案后的第14天。\n\n警方正式发函后，Gate先后以“文件格式不支持、压缩包可能存在病毒、怀疑报假警、材料不完整、要求视频验证”等理由反复推诿。警方逐项补充、全部配合后，Gate直到前几天才回复司法调证函。\n\n警方让我辨认Gate提供的“手持身份证及纸条认证材料”是不是我本人。看到照片后，大家的第一反应是：这也太假了，明显PS的图片，如此明显的伪造资料，究竟是怎么通过审核的？<a href=\"/gate\" title=\"Gate\">@gate</a> <a href=\"/Gate_zh\" title=\"Gate 华语\">@Gate_zh</a>\n\n事实非常清楚：\n第一，照片中的身份证根本不是我的身份证。身份证排版错误，登记地址与我的真实地址完全不符，甚至连地址开头的［省份］都没有。\n\n第二，身份证号码明ps痕迹明显。正常身份证号码应延伸至头像右侧，但Gate提供的照片中，号码只到左肩位置，字体和长度均明显异常。\n\n第三，照片中的人根本不是我。其外貌特征与我明显不符，连手部细节都能看出差异：对方拇指指甲没有月牙，而我本人拇指指甲一直有明显月牙。\n\n然而，就是这样一张假身份证、一个非本人、配上一份漏洞百出的手持认证材料，竟然通过了Gate的安全审核，并被作为“用户本人验证通过”的依据。\n\nGate最大的问题，不只是攻击者提交了虚假资料，而是如此低级、明显的虚假资料，居然能够通过你们的风控审核！\n\n更严重的是，Gate目前只向警方回复了部分材料，最关键的人脸活体验证视频至今仍未提供。此前你们口口声声表示“已经掌握关键线索”“将全力配合”，可真正刑事立案、警方正式调证后，交出的却是如此离谱的材料，核心证据仍然缺失。Gate现在拿出一点边角材料，再不断声称“正在配合”，本质上就是在拖延时间。\n\n表面上看，是我的账户遭到盗取；但从整个过程来看，真正被攻击者击穿的，是Gate自身的身份审核和安全风控体系。攻击者仅凭假身份证、假手持资料和非本人人脸，就能重置账户安全验证并转走巨额资产，这已经不是单个用户的偶发损失，而是所有Gate用户都可能面临的系统性安全风险。\n\n想想多可怕，辛苦多年积累的资产，可能只需要一张假身份证、一份假纸条和一段非本人的视频，就被他人轻易控制。你回来看到资产被转走时，Gate最终只需要用一句“系统验证通过”，就把全部责任推给用户。\n\nGate，你们内部真的应该立即自纠自查，而不是继续推诿和拖延。请立即成立专项调查组，安排真正专业、负责的人员，全程深入配合警方调查，完整提交活体人脸视频、审核记录、操作日志、设备信息及全部原始证据，尽快查清漏洞、锁定责任、还原事实，早日向警方、受害用户和公众交代真相。\n\n如此低级、业余的审核结果，暴露出的究竟是个别审核人员失职，还是整个风控体系已经形同虚设？\n\n一个管理着上100亿美元用户资产的交易平台，如果连“身份证是不是假的、照片里的人是不是本人”都无法识别，又凭什么让全球用户相信：自己的资产放在Gate是安全的？\n\n请大家关注，转发，今天这是发生在我身上的事情，明天就可能发生在任何一名Gate用户身上，越想越气，越想越后怕",
-      "publishedAt": "2026-07-31T12:22:00.000Z",
-      "link": "https://x.com/jheioff/status/2083166407815037031",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOjkWwYaQAALYI9.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOjkYr_acAAhn8g.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOjkZ3TaYAAwV4c.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "0xSunNFT",
-        "displayName": "0xSun"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -5632,25 +5701,6 @@
           "url": "https://pbs.twimg.com/media/HOcfrYEaMAA8vdu.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082664122572017983",
-      "username": "Franktradinglog",
-      "displayName": "Frank trading",
-      "avatar": "https://pbs.twimg.com/profile_images/2003040202361593856/6OBVC9U8_bigger.jpg",
-      "content": "好，我已经彻底领悟。\ntldr：两个二阶导正在同步拐头。我的操作：做多2Y和5Y国债，做多GOOG和NBIS，不做多半导体。\n\n第一个拐点：Fed鹰派再定价的速率见顶。\nFOMC维持3.5-3.75%不变，3名委员异议支持hike，但Hammack、Kashkari、Logan已经打光了弹药还是输了，说明鹰派的天花板就在3票。Warsh也在淡化AI相关价格压力，把利率上行归因于经济强劲而非市场加息信号，暗示市场利率已经替代加息——\"rates are higher today than June, markets didn't pause\"。这个框架一旦建立就是结构性鸽派：只要市场利率维持在高位，Warsh就有理由按兵不动。而市场目前定价9月加息60%，但是我觉得很可能全年都利率不动。6月核心CPI -0.02%如果延续到8月PCE，前端利率会快速下行。\n做多2Y是最pure的mispricing表达。加5Y是因为它同时捕获Fed路径重新定价和增长减速。避开10Y+，因为Warsh偏鸽会推高通胀预期，长端被breakeven和Q3国债供给contaminate。\n第二个拐点：AI价值链从半导体建设端向云计算消费端的shift。\nMSFT是AI capex叙事启动以来第一个超大规模企业没有上调capex指引，与此同时，微软Azure加速到43%固定汇率增长，Copilot付费座位突破3000万（净增1000万），Google Cloud +82% yoy。\n这里的关键是价值链的时序结构。半导体订单是领先指标，云计算消费是滞后6-12个月的确认指标。现在出现了一个罕见剪刀差——半导体增长率在减速（MSFT capex收窄），但云计算消费增长率在加速（Azure 43%+Copilot 30M）。这个窗口通常只持续1-2个季度。\n还有一些被忽略的细节：韩国存储专家电话会议透露LTA（长期协议）覆盖超过50%的服务器DRAM，包含预付款和take-or-pay条款。这意味着云服务商已经锁定了内存成本——明年HBM定价翻倍的预期主要由没签LTA的买家承担。半导体在卖\"涨价预期\"，云服务商在享受\"成本锁定+消费加速\"。\n所以我做多云不做半导体。GOOG的Cloud +82%最猛但被反垄断压制估值，asymmetry更好。NBIS是pure-play AI云基础设施，直接表达utilization加速。不做空半导体是因为一阶导仍然很强（HBM翻倍、博通AI收入>$1万亿），做空一阶导仍然强劲的资产timing不对会被squeeze，正确的表达是不参与而非做空。\n认错条件：8月核心PCE >0.25% m/m则债券thesis invalidate；Google或Amazon Q3 capex继续上调而非收窄，则AI价值链shift判断错误，本次维持capex是孤立事件。",
-      "contentHtml": "好，我已经彻底领悟。\ntldr：两个二阶导正在同步拐头。我的操作：做多2Y和5Y国债，做多GOOG和NBIS，不做多半导体。\n\n第一个拐点：Fed鹰派再定价的速率见顶。\nFOMC维持3.5-3.75%不变，3名委员异议支持hike，但Hammack、Kashkari、Logan已经打光了弹药还是输了，说明鹰派的天花板就在3票。Warsh也在淡化AI相关价格压力，把利率上行归因于经济强劲而非市场加息信号，暗示市场利率已经替代加息——\"rates are higher today than June, markets didn't pause\"。这个框架一旦建立就是结构性鸽派：只要市场利率维持在高位，Warsh就有理由按兵不动。而市场目前定价9月加息60%，但是我觉得很可能全年都利率不动。6月核心CPI -0.02%如果延续到8月PCE，前端利率会快速下行。\n做多2Y是最pure的mispricing表达。加5Y是因为它同时捕获Fed路径重新定价和增长减速。避开10Y+，因为Warsh偏鸽会推高通胀预期，长端被breakeven和Q3国债供给contaminate。\n第二个拐点：AI价值链从半导体建设端向云计算消费端的shift。\nMSFT是AI capex叙事启动以来第一个超大规模企业没有上调capex指引，与此同时，微软Azure加速到43%固定汇率增长，Copilot付费座位突破3000万（净增1000万），Google Cloud +82% yoy。\n这里的关键是价值链的时序结构。半导体订单是领先指标，云计算消费是滞后6-12个月的确认指标。现在出现了一个罕见剪刀差——半导体增长率在减速（MSFT capex收窄），但云计算消费增长率在加速（Azure 43%+Copilot 30M）。这个窗口通常只持续1-2个季度。\n还有一些被忽略的细节：韩国存储专家电话会议透露LTA（长期协议）覆盖超过50%的服务器DRAM，包含预付款和take-or-pay条款。这意味着云服务商已经锁定了内存成本——明年HBM定价翻倍的预期主要由没签LTA的买家承担。半导体在卖\"涨价预期\"，云服务商在享受\"成本锁定+消费加速\"。\n所以我做多云不做半导体。GOOG的Cloud +82%最猛但被反垄断压制估值，asymmetry更好。NBIS是pure-play AI云基础设施，直接表达utilization加速。不做空半导体是因为一阶导仍然很强（HBM翻倍、博通AI收入&gt;$1万亿），做空一阶导仍然强劲的资产timing不对会被squeeze，正确的表达是不参与而非做空。\n认错条件：8月核心PCE &gt;0.25% m/m则债券thesis invalidate；Google或Amazon Q3 capex继续上调而非收窄，则AI价值链shift判断错误，本次维持capex是孤立事件。",
-      "publishedAt": "2026-07-30T03:06:00.000Z",
-      "link": "https://x.com/Franktradinglog/status/2082664122572017983",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11872,95 +11922,6 @@
       "contentHtml": "今天开盘挺不像样子的",
       "publishedAt": "2026-07-27T14:00:00.000Z",
       "link": "https://x.com/octopusycc/status/2081741571347927346",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081739511273550056",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "停用富途帐号前，约40倍收益 \n\n感谢 #okx 邀请，也感谢美股这个好市场，在富途几乎不能加杠杆的情况下，美股这几年运气好拿到了几十倍收益 \n\n我也是小白用户，同时也是小资金起来的，经常在直播间开玩笑说，我的起步资金比很多粉丝朋友的资金还少很多，我就是能苟住，能控制住回撤，交易做的太烂时我就开冷静期，保持耐心等待自己的机会 \n\n交易是可以学习的，就像 #海龟交易法 实验，不同市场的交易底层逻辑也是相通的，特别美股市场相对要简单很多，直播常说当我们牌技不好时，就选择牌技都不好的牌桌玩牌——美股就是这样的牌桌，而 #A股 对牌技要求就很高\n\n美股涨是真涨\n突破是真突破\n跌是真跌\n\n投资是一生的事业，一起学习让美股帮我们跟同龄人之间拉开差距。明晚八点 #okx星球 不见不散，欢迎兄弟姐妹们一起来交流学习",
-      "contentHtml": "停用富途帐号前，约40倍收益 \n\n感谢 <a href=\"/search?f=tweets&q=%23okx\">#okx</a> 邀请，也感谢美股这个好市场，在富途几乎不能加杠杆的情况下，美股这几年运气好拿到了几十倍收益 \n\n我也是小白用户，同时也是小资金起来的，经常在直播间开玩笑说，我的起步资金比很多粉丝朋友的资金还少很多，我就是能苟住，能控制住回撤，交易做的太烂时我就开冷静期，保持耐心等待自己的机会 \n\n交易是可以学习的，就像 <a href=\"/search?f=tweets&q=%23海龟交易法\">#海龟交易法</a> 实验，不同市场的交易底层逻辑也是相通的，特别美股市场相对要简单很多，直播常说当我们牌技不好时，就选择牌技都不好的牌桌玩牌——美股就是这样的牌桌，而 <a href=\"/search?f=tweets&q=%23A股\">#A股</a> 对牌技要求就很高\n\n美股涨是真涨\n突破是真突破\n跌是真跌\n\n投资是一生的事业，一起学习让美股帮我们跟同龄人之间拉开差距。明晚八点 <a href=\"/search?f=tweets&q=%23okx星球\">#okx星球</a> 不见不散，欢迎兄弟姐妹们一起来交流学习",
-      "publishedAt": "2026-07-27T13:52:00.000Z",
-      "link": "https://x.com/dongbimao/status/2081739511273550056",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOPL_ekbwAECY8O.jpg"
-        }
-      ],
-      "quote": {
-        "username": "okxchinese",
-        "displayName": "OKX中文",
-        "content": "🎙️ 明晚8点，OKX 大师课-美股系列第二季 正式开播！\n\n本周，微软、Meta、苹果、亚马逊 四大科技巨头将发布财报。哪些数据最值得关注？又将如何影响市场走向？\n\n我们邀请 懂币猫 @dongbimao 做客 #OKX星球 直播间，三场直播讲透财报底层逻辑！\n\n👇🏻 扫码预约直播，7月28日-30日 每晚 20:00，不见不散",
-        "contentHtml": "🎙️ 明晚8点，OKX 大师课-美股系列第二季 正式开播！\n\n本周，微软、Meta、苹果、亚马逊 四大科技巨头将发布财报。哪些数据最值得关注？又将如何影响市场走向？\n\n我们邀请 懂币猫 <a href=\"/dongbimao\" title=\"懂币猫\">@dongbimao</a> 做客 <a href=\"/search?f=tweets&q=%23OKX星球\">#OKX星球</a> 直播间，三场直播讲透财报底层逻辑！\n\n👇🏻 扫码预约直播，7月28日-30日 每晚 20:00，不见不散",
-        "link": "https://x.com/okxchinese/status/2081711203269710288",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOOxKwEa0AAB2ln.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081738806278132051",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "昔日社交媒体的热门 康宁 $GLW \n\n即使在明天财报的情况下，也没什么太多大单期权在交易\n\n比较让我意外",
-      "contentHtml": "昔日社交媒体的热门 康宁 <a href=\"/search?f=tweets&q=%23GLW\">$GLW</a> \n\n即使在明天财报的情况下，也没什么太多大单期权在交易\n\n比较让我意外",
-      "publishedAt": "2026-07-27T13:49:00.000Z",
-      "link": "https://x.com/octopusycc/status/2081738806278132051",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOPSSzsaYAAvmCR.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081736454263517478",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "早知道\n开少了",
-      "contentHtml": "早知道\n开少了",
-      "publishedAt": "2026-07-27T13:40:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2081736454263517478",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOPQRKyaYAAgnJC.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "空了点 $CXMT 尝尝咸淡\n准备慢慢加到50万左右仓位",
-        "contentHtml": "空了点 <a href=\"/search?f=tweets&q=%23CXMT\">$CXMT</a> 尝尝咸淡\n准备慢慢加到50万左右仓位",
-        "link": "https://x.com/Bitfatty/status/2081729253222347133",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOPJt-4bMAEUaC1.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
