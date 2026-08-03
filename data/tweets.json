@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T09:14:46.194Z",
+  "lastUpdated": "2026-08-03T11:08:37.067Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,177 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 650,
+    "newFetched": 651,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2084233165359796516",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "八月 更细的美股交易 \n\n开盘给大家讲讲云和中概的机会\n\n$MSFT $AMZN $GOOG",
+      "contentHtml": "八月 更细的美股交易 \n\n开盘给大家讲讲云和中概的机会\n\n<a href=\"/search?f=tweets&q=%23MSFT\">$MSFT</a> <a href=\"/search?f=tweets&q=%23AMZN\">$AMZN</a> <a href=\"/search?f=tweets&q=%23GOOG\">$GOOG</a>",
+      "publishedAt": "2026-08-03T11:01:00.000Z",
+      "link": "https://x.com/octopusycc/status/2084233165359796516",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOyvApNbUAAfX1f.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084231327222759656",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "大摩眼里的AI投资ROIC和看待看待ROIC的几个框架。上周微软和亚马逊的财报后大摩认为AI投资ROIC的统计框架已经出炉，结果是25-50%之间，盈利兑现已经开始，而且回报率可能远高于市场预期。梳理下大摩最新这份报告：\n1、 GPU即服务（GPU IaaS）\n代表：Azure，AWS，Google Cloud。\n本质上：企业租用GPU算力进行训练和推理。\nMorgan Stanley测算：增量EBIT Margin：60%-70%，ROIC：25%-40%。\n为什么回报率高？因为：GPU利用率持续提高，单位电力和运维成本被规模摊薄，算力供给仍然相对稀缺。Morgan Stanley甚至提出：未来几年真正稀缺的资产可能不是模型，而是数据中心容量（Data Center Capacity）。也就是说，CSP在AI时代重现云时代的辉煌，基础建设垄断重现重资产为王。\n\n2. 独立模型API\n代表：GPT、Gemini、Claude、Meta未来可能开放的模型服务\n模式：用户直接购买模型推理能力。\nMorgan Stanley认为：这种模式ROIC可以超过40%。\n背后逻辑：一旦训练完成：每新增用户边际成本持续下降、收入增长速度快于成本增长速度，属于典型软件经济学（Software Economics）。\n\n3、AI平台+第三方基础设施\n即：模型开发商不自己建设数据中心\n向外部购买：GPU网络、机房资源。虽然利润率较低，但Morgan Stanley认为：仍然可以实现25%以上ROIC。\n\n需求端回报也非常清晰。\nMorgan Stanley给出了一个很有意思的企业ROI测算：企业平均Token支出不到11美元/月，但每位员工创造的劳动节省价值：约55美元。Token成本：仅2至5美元级别。\n\n简单理解：投入1美元AI成本，可能创造10美元以上的生产力收益。因此企业没有动力削减AI预算。这也是Morgan Stanley认为AI需求不会像市场担心那样快速见顶的重要原因。\n\n大摩这份报告第一次比较系统地证明：\n只要AI算力达到较高利用率，并且能从训练阶段逐渐转向规模化推理，AI基础设施并非天然的低回报资本黑洞。\n\n7月初就开始聊到CSP价值重估，是真的来了。\nAI商业化和货币化也在进一步加速",
+      "contentHtml": "大摩眼里的AI投资ROIC和看待看待ROIC的几个框架。上周微软和亚马逊的财报后大摩认为AI投资ROIC的统计框架已经出炉，结果是25-50%之间，盈利兑现已经开始，而且回报率可能远高于市场预期。梳理下大摩最新这份报告：\n1、 GPU即服务（GPU IaaS）\n代表：Azure，AWS，Google Cloud。\n本质上：企业租用GPU算力进行训练和推理。\nMorgan Stanley测算：增量EBIT Margin：60%-70%，ROIC：25%-40%。\n为什么回报率高？因为：GPU利用率持续提高，单位电力和运维成本被规模摊薄，算力供给仍然相对稀缺。Morgan Stanley甚至提出：未来几年真正稀缺的资产可能不是模型，而是数据中心容量（Data Center Capacity）。也就是说，CSP在AI时代重现云时代的辉煌，基础建设垄断重现重资产为王。\n\n2. 独立模型API\n代表：GPT、Gemini、Claude、Meta未来可能开放的模型服务\n模式：用户直接购买模型推理能力。\nMorgan Stanley认为：这种模式ROIC可以超过40%。\n背后逻辑：一旦训练完成：每新增用户边际成本持续下降、收入增长速度快于成本增长速度，属于典型软件经济学（Software Economics）。\n\n3、AI平台+第三方基础设施\n即：模型开发商不自己建设数据中心\n向外部购买：GPU网络、机房资源。虽然利润率较低，但Morgan Stanley认为：仍然可以实现25%以上ROIC。\n\n需求端回报也非常清晰。\nMorgan Stanley给出了一个很有意思的企业ROI测算：企业平均Token支出不到11美元/月，但每位员工创造的劳动节省价值：约55美元。Token成本：仅2至5美元级别。\n\n简单理解：投入1美元AI成本，可能创造10美元以上的生产力收益。因此企业没有动力削减AI预算。这也是Morgan Stanley认为AI需求不会像市场担心那样快速见顶的重要原因。\n\n大摩这份报告第一次比较系统地证明：\n只要AI算力达到较高利用率，并且能从训练阶段逐渐转向规模化推理，AI基础设施并非天然的低回报资本黑洞。\n\n7月初就开始聊到CSP价值重估，是真的来了。\nAI商业化和货币化也在进一步加速",
+      "publishedAt": "2026-08-03T10:54:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2084231327222759656",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOyqQU_bYAAAVK1.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "聊了快一个月的超大CSP价值重塑到今天完全被微软、亚马逊的财报给支撑住，也验证了之前“超大CSP业绩表现将是衡量AI行业化更重要的指标”的说法。看微软的纳德拉和亚马逊的贾西在电话会上的表态都确认了之前聊到的一个趋势：“企业不会把全部业务交给一个通用大模型，而是围绕不同业务场景，组合前沿模型、低成本小模型、开源模型和企业自有模型，再由统一的上下文、记忆、身份、权限、Agent运行时和治理平台进行调度”。这就是最近一个月一直聊到的分场景、多模型的框架。",
+        "contentHtml": "聊了快一个月的超大CSP价值重塑到今天完全被微软、亚马逊的财报给支撑住，也验证了之前“超大CSP业绩表现将是衡量AI行业化更重要的指标”的说法。看微软的纳德拉和亚马逊的贾西在电话会上的表态都确认了之前聊到的一个趋势：“企业不会把全部业务交给一个通用大模型，而是围绕不同业务场景，组合前沿模型、低成本小模型、开源模型和企业自有模型，再由统一的上下文、记忆、身份、权限、Agent运行时和治理平台进行调度”。这就是最近一个月一直聊到的分场景、多模型的框架。",
+        "link": "https://x.com/qinbafrank/status/2083010242691158485",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOhWxhubkAASP5S.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOhWxhibUAA7fik.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084229397587062879",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "仍然要关注8/4  AMD盘后的财报\n\n这也许会给半导体指引一些方向\n\n$AMD $INTC",
+      "contentHtml": "仍然要关注8/4  AMD盘后的财报\n\n这也许会给半导体指引一些方向\n\n<a href=\"/search?f=tweets&q=%23AMD\">$AMD</a> <a href=\"/search?f=tweets&q=%23INTC\">$INTC</a>",
+      "publishedAt": "2026-08-03T10:46:00.000Z",
+      "link": "https://x.com/octopusycc/status/2084229397587062879",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084228800540541123",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "加密板块整体GEX负面影响持续 或受Clarity法案影响\n\n可以避开加密板块\n\n但强调Coinbase下一财报前的交易机会 \n\nMSTR最大的利空依然存在于 跌到60刀 被踢出NDX 这是我理解的MSTR乃至BTC最大利空 \n\n$COIN  $MSTR $CRCL",
+      "contentHtml": "加密板块整体GEX负面影响持续 或受Clarity法案影响\n\n可以避开加密板块\n\n但强调Coinbase下一财报前的交易机会 \n\nMSTR最大的利空依然存在于 跌到60刀 被踢出NDX 这是我理解的MSTR乃至BTC最大利空 \n\n<a href=\"/search?f=tweets&q=%23COIN\">$COIN</a>  <a href=\"/search?f=tweets&q=%23MSTR\">$MSTR</a> <a href=\"/search?f=tweets&q=%23CRCL\">$CRCL</a>",
+      "publishedAt": "2026-08-03T10:44:00.000Z",
+      "link": "https://x.com/octopusycc/status/2084228800540541123",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084228104135025004",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "本周做云板块 MSFT AMZN GOOG BABA\n\n也可以long现金流强的公司 \n\n可以做类似于 Long AAPL Short Semi的Pair Trading\n\n完全不着急抄底半导体\n\n关于半导体波动率和买盘的强关联问题 近日找时间写一篇",
+      "contentHtml": "本周做云板块 MSFT AMZN GOOG BABA\n\n也可以long现金流强的公司 \n\n可以做类似于 Long AAPL Short Semi的Pair Trading\n\n完全不着急抄底半导体\n\n关于半导体波动率和买盘的强关联问题 近日找时间写一篇",
+      "publishedAt": "2026-08-03T10:41:00.000Z",
+      "link": "https://x.com/octopusycc/status/2084228104135025004",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084227224300040572",
+      "username": "OwenJin12",
+      "displayName": "Owen.btc 🟧",
+      "avatar": "https://pbs.twimg.com/profile_images/1986442283433254912/O0egVwxK_bigger.jpg",
+      "content": "币圈省流版：\n\n1️⃣FIMA回购便利\n不想让🇯🇵直接把美债卖在订单簿里，带低美债价格（带高美债利率），所以不允许🇯🇵这个巨鲸参与订单簿而是只允许把美债作为抵押物跟🇺🇸换美元。\n\n所以这就是🇺🇸提供的OTC交易工具，目的是维持美债利率稳定。\n\n2️⃣纽联储操作\n卖欧元买日元，从日元汇率角度直接削减🇯🇵卖美债的交易动力",
+      "contentHtml": "币圈省流版：\n\n1️⃣FIMA回购便利\n不想让🇯🇵直接把美债卖在订单簿里，带低美债价格（带高美债利率），所以不允许🇯🇵这个巨鲸参与订单簿而是只允许把美债作为抵押物跟🇺🇸换美元。\n\n所以这就是🇺🇸提供的OTC交易工具，目的是维持美债利率稳定。\n\n2️⃣纽联储操作\n卖欧元买日元，从日元汇率角度直接削减🇯🇵卖美债的交易动力",
+      "publishedAt": "2026-08-03T10:37:00.000Z",
+      "link": "https://x.com/OwenJin12/status/2084227224300040572",
+      "quote": {
+        "username": "SecScottBessent",
+        "displayName": "Treasury Secretary Scott Bessent",
+        "content": "The Trump Administration delivers for America's trusted partners. Economic security is national security. And the U.S.-Japan alliance is built on both.\n\nFriday's coordinated foreign exchange actions countered disorderly yen movements. \n\nTreasury remains attentive and in close communication with our counterparts at MOF and BOJ. We will not hesitate to participate in further joint intervention.\n\nThe FIMA Repo Facility is an important backstop. We would encourage it to be upsized in the coming months. \n\nWe strongly support Japan's decisive market and monetary steps to correct the substantial undervaluation of the yen. \n\nThe Takaichi government is moving into an exciting new phase of Abenomics, as nearly 15 years of powerful stimulus have created durable, robust underlying economic dynamics.",
+        "contentHtml": "The Trump Administration delivers for America's trusted partners. Economic security is national security. And the U.S.-Japan alliance is built on both.\n\nFriday's coordinated foreign exchange actions countered disorderly yen movements. \n\nTreasury remains attentive and in close communication with our counterparts at MOF and BOJ. We will not hesitate to participate in further joint intervention.\n\nThe FIMA Repo Facility is an important backstop. We would encourage it to be upsized in the coming months. \n\nWe strongly support Japan's decisive market and monetary steps to correct the substantial undervaluation of the yen. \n\nThe Takaichi government is moving into an exciting new phase of Abenomics, as nearly 15 years of powerful stimulus have created durable, robust underlying economic dynamics.",
+        "link": "https://x.com/SecScottBessent/status/2084051676801933622"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084217661429559426",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "最近，X上关于“写内容，赚收益”的讨论有很多。老马给的工资很明确，所以很自然大家也会拿来和币安广场、OKX星球作对比。\n\n星球我不是邀约KOL；但在币安广场，我已经有“达人认证”和“原创之星”的标签，算是小有成就。\n\n开始运营币安广场的初衷，并不是为了获得收益。而是担心X政策多变，万一哪天突然账户受限，我还有另一个地方，可以继续分享观点和研究心得。\n\n当然，我也有顾虑。在一个以交易用户为主的垂直平台里，我的这类数据分析的内容，会有关注和流量吗？\n\n所以说，小马过河，深浅自知。\n\n很多事情，只有自己亲自去尝试，去摸索，才能慢慢找到门道。反正，经过自己的反复尝试，似乎找到了一些“窍门”。\n\n比如我图1和图2的两篇文章：一个讲筹码分布，只有900+阅读；一个讲多空双方布局和价格，有30,000+阅读；这就很能说明问题！\n\n币安广场并不是另一个X。X更像一个开放的舆论场，用户兴趣非常分散；而币安广场的用户更垂直，更接近交易，更关心数据最终反映出的风险和机会。\n\n也就是说，不管你是以什么形式写，但内容都要尽可能朝着可以落实到交易层面，有契合，有帮助的方向。\n\n这才会有流量！\n\n有了流量，就有了一切，包括：活动奖励，创作者收益，以及偶尔的广告赞助等等（图3，我获得过2次优秀文章臻选，奖励了2枚BNB，至今一直珍藏着）。\n\n当然，最重要的还是自我的满足感，成就感。\n\n我现在广场的粉丝有3k+，而X的粉丝有7w+，但单篇内容的流量并没有相差很大。这就说明，算法已经找到了稳定的受众群体，并持续投放。\n\n接下来要做的，就是坚持，并不断优化。\n\n希望用我的使用心得，给还没开始但计划入驻广场的新博主们一些参考，千万不要只为了收益而做，那就本末倒置了。",
+      "contentHtml": "最近，X上关于“写内容，赚收益”的讨论有很多。老马给的工资很明确，所以很自然大家也会拿来和币安广场、OKX星球作对比。\n\n星球我不是邀约KOL；但在币安广场，我已经有“达人认证”和“原创之星”的标签，算是小有成就。\n\n开始运营币安广场的初衷，并不是为了获得收益。而是担心X政策多变，万一哪天突然账户受限，我还有另一个地方，可以继续分享观点和研究心得。\n\n当然，我也有顾虑。在一个以交易用户为主的垂直平台里，我的这类数据分析的内容，会有关注和流量吗？\n\n所以说，小马过河，深浅自知。\n\n很多事情，只有自己亲自去尝试，去摸索，才能慢慢找到门道。反正，经过自己的反复尝试，似乎找到了一些“窍门”。\n\n比如我图1和图2的两篇文章：一个讲筹码分布，只有900+阅读；一个讲多空双方布局和价格，有30,000+阅读；这就很能说明问题！\n\n币安广场并不是另一个X。X更像一个开放的舆论场，用户兴趣非常分散；而币安广场的用户更垂直，更接近交易，更关心数据最终反映出的风险和机会。\n\n也就是说，不管你是以什么形式写，但内容都要尽可能朝着可以落实到交易层面，有契合，有帮助的方向。\n\n这才会有流量！\n\n有了流量，就有了一切，包括：活动奖励，创作者收益，以及偶尔的广告赞助等等（图3，我获得过2次优秀文章臻选，奖励了2枚BNB，至今一直珍藏着）。\n\n当然，最重要的还是自我的满足感，成就感。\n\n我现在广场的粉丝有3k+，而X的粉丝有7w+，但单篇内容的流量并没有相差很大。这就说明，算法已经找到了稳定的受众群体，并持续投放。\n\n接下来要做的，就是坚持，并不断优化。\n\n希望用我的使用心得，给还没开始但计划入驻广场的新博主们一些参考，千万不要只为了收益而做，那就本末倒置了。",
+      "publishedAt": "2026-08-03T09:59:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2084217661429559426",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOyemynbgAAqq4Q.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOyeuIpaIAA0TSm.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOye4ElbkAAxtgB.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HOyfCyvbsAAF_-k.jpg"
+        }
+      ],
+      "quote": {
+        "username": "yingbinance",
+        "displayName": "ying滢哥捡到一个BNB🌖",
+        "content": "很高兴为大家服务，兄弟们，冲，广场公平的对待每一位创作者，都有机会，大家都有机会！",
+        "contentHtml": "很高兴为大家服务，兄弟们，冲，广场公平的对待每一位创作者，都有机会，大家都有机会！",
+        "link": "https://x.com/yingbinance/status/2084206523123892277"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2084195931482980800",
       "username": "yuren477",
@@ -875,25 +1041,6 @@
       "contentHtml": "开始建仓空一切了，目前比较保守，等taco彻底落地再加仓。",
       "publishedAt": "2026-08-02T23:27:00.000Z",
       "link": "https://x.com/yuren477/status/2084058572435206543",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084051676801933622",
-      "username": "SecScottBessent",
-      "displayName": "Treasury Secretary Scott Bessent",
-      "avatar": "https://pbs.twimg.com/profile_images/1889401757060444160/MDUd0e0g_bigger.jpg",
-      "content": "The Trump Administration delivers for America's trusted partners. Economic security is national security. And the U.S.-Japan alliance is built on both.\n\nFriday's coordinated foreign exchange actions countered disorderly yen movements. \n\nTreasury remains attentive and in close communication with our counterparts at MOF and BOJ. We will not hesitate to participate in further joint intervention.\n\nThe FIMA Repo Facility is an important backstop. We would encourage it to be upsized in the coming months. \n\nWe strongly support Japan's decisive market and monetary steps to correct the substantial undervaluation of the yen. \n\nThe Takaichi government is moving into an exciting new phase of Abenomics, as nearly 15 years of powerful stimulus have created durable, robust underlying economic dynamics.",
-      "contentHtml": "The Trump Administration delivers for America's trusted partners. Economic security is national security. And the U.S.-Japan alliance is built on both.\n\nFriday's coordinated foreign exchange actions countered disorderly yen movements. \n\nTreasury remains attentive and in close communication with our counterparts at MOF and BOJ. We will not hesitate to participate in further joint intervention.\n\nThe FIMA Repo Facility is an important backstop. We would encourage it to be upsized in the coming months. \n\nWe strongly support Japan's decisive market and monetary steps to correct the substantial undervaluation of the yen. \n\nThe Takaichi government is moving into an exciting new phase of Abenomics, as nearly 15 years of powerful stimulus have created durable, robust underlying economic dynamics.",
-      "publishedAt": "2026-08-02T23:00:00.000Z",
-      "link": "https://x.com/SecScottBessent/status/2084051676801933622",
-      "retweet": {
-        "username": "OwenJin12",
-        "displayName": "Owen.btc 🟧"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11843,166 +11990,6 @@
         "contentHtml": "买了点 SpaceX，中国可回收火箭就成功了。\n\n抄了点存储，中国光刻机就被曝造出来了。\n\n追着打？",
         "link": "https://x.com/hazenlee/status/2081784798658589055"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081914447254479353",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "哦吼，韩国KOSPI指数今天不能说下跌了，说掉下来更合适\n#KOSPI",
-      "contentHtml": "哦吼，韩国KOSPI指数今天不能说下跌了，说掉下来更合适\n<a href=\"/search?f=tweets&q=%23KOSPI\">#KOSPI</a>",
-      "publishedAt": "2026-07-28T01:27:00.000Z",
-      "link": "https://x.com/dongbimao/status/2081914447254479353",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HORyJkfa8AAv-GT.jpg"
-        }
-      ],
-      "quote": {
-        "username": "dongbimao",
-        "displayName": "懂币猫",
-        "content": "韩国的KOSPI指数目前走了很标准的下跌通道\n\n趋势策略连续给出了做空信号\n\n短期内仍然看不了多\n\n耐心等待筑底的过程\n\n更多美股、加密行情分析进主页加TG群\n#KOSPI",
-        "contentHtml": "韩国的KOSPI指数目前走了很标准的下跌通道\n\n趋势策略连续给出了做空信号\n\n短期内仍然看不了多\n\n耐心等待筑底的过程\n\n更多美股、加密行情分析进主页加TG群\n<a href=\"/search?f=tweets&q=%23KOSPI\">#KOSPI</a>",
-        "link": "https://x.com/dongbimao/status/2080283399676395860",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN6muE1aMAA8hvS.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081914045125493210",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "钱充了，仓位没加上，因为转账有问题😭",
-      "contentHtml": "钱充了，仓位没加上，因为转账有问题😭",
-      "publishedAt": "2026-07-28T01:26:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2081914045125493210",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HORxyTmbAAAAplT.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "早知道\n开少了",
-        "contentHtml": "早知道\n开少了",
-        "link": "https://x.com/Bitfatty/status/2081736454263517478",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOPQRKyaYAAgnJC.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081913392701284444",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "属实美国微信了",
-      "contentHtml": "属实美国微信了",
-      "publishedAt": "2026-07-28T01:23:00.000Z",
-      "link": "https://x.com/taresky/status/2081913392701284444",
-      "quote": {
-        "username": "SawyerMerritt",
-        "displayName": "Sawyer Merritt",
-        "content": "Premium subscribers on 𝕏 get a 4% APY in 𝕏 Money, but it gets boosted to 6% if you direct deposit $1,000 or more within a trailing 34 day period into your Stored Value Account.\n\nPremium+ subscribers get 6% APY.",
-        "contentHtml": "Premium subscribers on 𝕏 get a 4% APY in 𝕏 Money, but it gets boosted to 6% if you direct deposit $1,000 or more within a trailing 34 day period into your Stored Value Account.\n\nPremium+ subscribers get 6% APY.",
-        "link": "https://x.com/SawyerMerritt/status/2081807811843916201",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOQRLElWEAE9RN-.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081911656117043552",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_bigger.jpg",
-      "content": "救救欧巴\n不然欧巴变席巴了",
-      "contentHtml": "救救欧巴\n不然欧巴变席巴了",
-      "publishedAt": "2026-07-28T01:16:00.000Z",
-      "link": "https://x.com/hazenlee/status/2081911656117043552",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HORvnVIbYAAalL1.jpg"
-        }
-      ],
-      "quote": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-        "content": "周末那么大的订单利好韩股都没高开…\n有些利好不涨了…小心吧",
-        "contentHtml": "周末那么大的订单利好韩股都没高开…\n有些利好不涨了…小心吧",
-        "link": "https://x.com/hazenlee/status/2081551964933079112"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081900311720181856",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "其实还是轻仓空了点原生家庭，位置不好自己也没空多少，世上只有以太好。",
-      "contentHtml": "其实还是轻仓空了点原生家庭，位置不好自己也没空多少，世上只有以太好。",
-      "publishedAt": "2026-07-28T00:31:00.000Z",
-      "link": "https://x.com/yuren477/status/2081900311720181856",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HORlS6qaIAA-h8a.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2081873130620928386",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "I remember when people wanted to sell 140K during Q4.\n\nThat worked out well didn't it. 🤪\n\nSometimes, the market doesn't care what you want. \n\nTrade the market for what it is, not what you want it to be... $BTC is king.",
-      "contentHtml": "I remember when people wanted to sell 140K during Q4.\n\nThat worked out well didn't it. 🤪\n\nSometimes, the market doesn't care what you want. \n\nTrade the market for what it is, not what you want it to be... <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> is king.",
-      "publishedAt": "2026-07-27T22:43:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2081873130620928386",
       "stats": {
         "replies": 0,
         "retweets": 0,
