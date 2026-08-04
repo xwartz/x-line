@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T12:45:23.420Z",
+  "lastUpdated": "2026-08-04T13:38:48.829Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,92 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 586,
-    "successUsers": 29,
-    "failedUsers": 3
+    "newFetched": 649,
+    "successUsers": 32,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2084631430727135577",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
+      "content": "squid也算短平快了大额三倍可以了，近期最好的打新了",
+      "contentHtml": "squid也算短平快了大额三倍可以了，近期最好的打新了",
+      "publishedAt": "2026-08-04T13:23:00.000Z",
+      "link": "https://x.com/0xleng1/status/2084631430727135577",
+      "quote": {
+        "username": "0xleng1",
+        "displayName": "Leng",
+        "content": "squid直接上upbit爽了，看一手3-4倍吧那就，终于赚钱了",
+        "contentHtml": "squid直接上upbit爽了，看一手3-4倍吧那就，终于赚钱了",
+        "link": "https://x.com/0xleng1/status/2084586597438332942",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO3wdVkb0AAqyay.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084630010946523613",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "怎么看川普政府正在起草禁止中国光学收发器和直流设备的禁令？刚才这里nitter.net/qinbafrank/status/2084… 简单聊了下，再深入聊聊：1、中际旭创是全球光模块（尤其是数据中心高速光收发器）龙头，它和另一家中国厂商新易盛（Eoptolink）合计在800G市场占约三分之二份额，是北美AI数据中心光互连的主力供应商。\n\n如果禁令真的生效短期内欧美产业链很难完全接上，尤其是高速率（800G/1.6T）光模块的大规模量产交付能力，会对北美CSP主导的数据中心（尤其是AI集群）建设节奏和成本产生一定影响。\n\nCSP更换供应商需严格资质认证、可靠性测试、供应链验证，通常需要数月到1年以上。\n\n2、美国厂商有技术，但缺规模：主要替代者是Coherent和Lumentum（美国）。它们在激光器（EML/InP芯片）、硅光等上游有优势，产品有竞争力，但在高速可插拔光模块的大规模组装与交付上，远不如中国厂商。这两家“缺乏完全替代中国供应商的规模”。其他如Broadcom、Molex等也有份额，但整体北美/欧洲在高量产数通模块上远远落后中国厂商、简单说产能远远跟不上。\n\n3、还有关键的磷化铟（InP）\nInP是光模块激光器（EML等）的命门材料，没有它高速光模块就做不了。现状是中国控制全球约70%的精炼铟产量，2025年2月起就把磷化铟（InP基板等）纳入出口管制，许可审批变严/变慢。\n导致6英寸InP晶圆价格暴涨，美国相关出货大降，Coherent、Lumentum等喊短缺，Lumentum订单排到2028年，AXT（主要在中国生产InP）积压严重。\n\n4、现在看起来中国用InP作为反制杠杆，正卡着美国AI数据中心扩容的脖子；美国现在禁中国光模块成品，相当于反过来卡下游。\n双方都不是“不要”，而是互相加码卡点，逼对方付出更高代价，同时加速自己国产化（美国扩InP产能在德州等地，中国也在扩本土InP）。\n\n5、所以最好剧本：是超大csp到白宫博弈（影响数据中心建设），中美都退后一步：中国进一步放开磷化烟InP的管制，美国取消禁令（本来就没有这个禁令，有点虚空造牌的意思），这样双方都有喘息\n\n最差就是白宫禁令落地，中国InP管控更紧，影响数据中心建设。等待替代产能\n\n6、但有一点对于美股光互连板块的意义在于，让市场目光重新回到光互连板块。更多的逻辑在上午的推文有详细聊到。\n\n禁令会带来实打实的摩擦成本，但也能看出来未来对于AI产业链，美国会越来越从安全 > 效率的角度出发，宁可数据中心建慢点、贵点，也不想把AI命脉继续交给中国供应链。\n\n这可能就是科技冷战的常态：互相掐脖子，同时各自狂建产能。最终谁能更快实现“可控替代”，谁就更有底气。",
+      "contentHtml": "怎么看川普政府正在起草禁止中国光学收发器和直流设备的禁令？刚才这里<a href=\"https://nitter.net/qinbafrank/status/2084616646929604611?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2084…</a> 简单聊了下，再深入聊聊：1、中际旭创是全球光模块（尤其是数据中心高速光收发器）龙头，它和另一家中国厂商新易盛（Eoptolink）合计在800G市场占约三分之二份额，是北美AI数据中心光互连的主力供应商。\n\n如果禁令真的生效短期内欧美产业链很难完全接上，尤其是高速率（800G/1.6T）光模块的大规模量产交付能力，会对北美CSP主导的数据中心（尤其是AI集群）建设节奏和成本产生一定影响。\n\nCSP更换供应商需严格资质认证、可靠性测试、供应链验证，通常需要数月到1年以上。\n\n2、美国厂商有技术，但缺规模：主要替代者是Coherent和Lumentum（美国）。它们在激光器（EML/InP芯片）、硅光等上游有优势，产品有竞争力，但在高速可插拔光模块的大规模组装与交付上，远不如中国厂商。这两家“缺乏完全替代中国供应商的规模”。其他如Broadcom、Molex等也有份额，但整体北美/欧洲在高量产数通模块上远远落后中国厂商、简单说产能远远跟不上。\n\n3、还有关键的磷化铟（InP）\nInP是光模块激光器（EML等）的命门材料，没有它高速光模块就做不了。现状是中国控制全球约70%的精炼铟产量，2025年2月起就把磷化铟（InP基板等）纳入出口管制，许可审批变严/变慢。\n导致6英寸InP晶圆价格暴涨，美国相关出货大降，Coherent、Lumentum等喊短缺，Lumentum订单排到2028年，AXT（主要在中国生产InP）积压严重。\n\n4、现在看起来中国用InP作为反制杠杆，正卡着美国AI数据中心扩容的脖子；美国现在禁中国光模块成品，相当于反过来卡下游。\n双方都不是“不要”，而是互相加码卡点，逼对方付出更高代价，同时加速自己国产化（美国扩InP产能在德州等地，中国也在扩本土InP）。\n\n5、所以最好剧本：是超大csp到白宫博弈（影响数据中心建设），中美都退后一步：中国进一步放开磷化烟InP的管制，美国取消禁令（本来就没有这个禁令，有点虚空造牌的意思），这样双方都有喘息\n\n最差就是白宫禁令落地，中国InP管控更紧，影响数据中心建设。等待替代产能\n\n6、但有一点对于美股光互连板块的意义在于，让市场目光重新回到光互连板块。更多的逻辑在上午的推文有详细聊到。\n\n禁令会带来实打实的摩擦成本，但也能看出来未来对于AI产业链，美国会越来越从安全 &gt; 效率的角度出发，宁可数据中心建慢点、贵点，也不想把AI命脉继续交给中国供应链。\n\n这可能就是科技冷战的常态：互相掐脖子，同时各自狂建产能。最终谁能更快实现“可控替代”，谁就更有底气。",
+      "publishedAt": "2026-08-04T13:18:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2084630010946523613",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "聊聊看好光互连的逻辑，7月中旬和下旬分别聊到之后看好美股的板块，已经爆发的是（CSP、软件、光互连），CSP/软件看好逻辑在7月中长文nitter.net/qinbafrank/status/2076…聊的很充分。今天聊聊为什么看好光互连？催化剂是什么？\n\n再回头看，光互连板块是这一波半导体调整最早调整时间最久的板块，个人角度5月中nitter.net/qinbafrank/status/2060…伯恩斯坦的报告说CPO兑现没那么快，今年还是看光模块、连接。在那之后，光的板块都开始调整，美股只有连接还不错。\n\n而近期催化剂个人看是两点：\n1）“英伟达高级副总裁 Gilad Shainer在最近的一个技术论坛上宣布，CPO 已开始量产。Nvidia 与其供应链合作开发的交换机已交付给紧密客户，并正在 Nvidia自身的设施中部署。预计今年将有大量采用 CPO 技术的交换机引入全球的 AI 工厂；\n2）Lumentum首席执行官Michael Hurlston表示，AI的磷化铟激光器短缺将比内存危机更严重。\n\n怎么看这个逻辑：\n1）cpo开始交付那意味着市场应该会去预期随着量产交付，cpo应该会慢慢起量，业务兑现开始落地；\n2）磷化烟短缺、市场对于短缺还是有肌肉记忆的；\n3）光调整的早调整的时间够久，半导体都集中在存储，最近这段时间对于光互连大家其实聊的很少，那就意味着有预期差；\n4）超大CSP的财报初步证明了资本开支ROIC，数据中心的建设会很快。万卡集群互连、大规模数据中心互连需求其实在进一步爆发。\n\n总结就是\nAI数据中心光互连需求真实且加速，全产业链已从“需求验证”进入“供应瓶颈”阶段；NVIDIA CPO正式量产是历史性信号，短期（至少至2027年）与可插拔光模块共存，最终瓶颈锁定在磷化铟（InP）激光芯片产能。\n\n技术路线时间表\n1）Scale-up（机架内）：铜缆/可插拔为主。\n2）Scale-out（跨机架/跨数据中心）：CPO率先渗透（功耗从30W→9W/端口，带宽大幅提升）。\n3）共存窗口：可插拔主导未来18-24个月；CPO与可插拔非零和，至少到2027年。\n\n“需求已被全链条验证，瓶颈在InP激光；谁能自产/扩产最快、供应链最安全，谁就吃到最大弹性。”\n\n未来两周是光互连领域公司密集财报，如果财报进一步被验证，可能会是一个催化剂窗口。\n\n$MRVL $LITE $COHR $AXTI $AAOI $GFS $LAZR $FOTO $NOK\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "聊聊看好光互连的逻辑，7月中旬和下旬分别聊到之后看好美股的板块，已经爆发的是（CSP、软件、光互连），CSP/软件看好逻辑在7月中长文<a href=\"https://nitter.net/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2076…</a>聊的很充分。今天聊聊为什么看好光互连？催化剂是什么？\n\n再回头看，光互连板块是这一波半导体调整最早调整时间最久的板块，个人角度5月中<a href=\"https://nitter.net/qinbafrank/status/2060560681984991697?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2060…</a>伯恩斯坦的报告说CPO兑现没那么快，今年还是看光模块、连接。在那之后，光的板块都开始调整，美股只有连接还不错。\n\n而近期催化剂个人看是两点：\n1）“英伟达高级副总裁 Gilad Shainer在最近的一个技术论坛上宣布，CPO 已开始量产。Nvidia 与其供应链合作开发的交换机已交付给紧密客户，并正在 Nvidia自身的设施中部署。预计今年将有大量采用 CPO 技术的交换机引入全球的 AI 工厂；\n2）Lumentum首席执行官Michael Hurlston表示，AI的磷化铟激光器短缺将比内存危机更严重。\n\n怎么看这个逻辑：\n1）cpo开始交付那意味着市场应该会去预期随着量产交付，cpo应该会慢慢起量，业务兑现开始落地；\n2）磷化烟短缺、市场对于短缺还是有肌肉记忆的；\n3）光调整的早调整的时间够久，半导体都集中在存储，最近这段时间对于光互连大家其实聊的很少，那就意味着有预期差；\n4）超大CSP的财报初步证明了资本开支ROIC，数据中心的建设会很快。万卡集群互连、大规模数据中心互连需求其实在进一步爆发。\n\n总结就是\nAI数据中心光互连需求真实且加速，全产业链已从“需求验证”进入“供应瓶颈”阶段；NVIDIA CPO正式量产是历史性信号，短期（至少至2027年）与可插拔光模块共存，最终瓶颈锁定在磷化铟（InP）激光芯片产能。\n\n技术路线时间表\n1）Scale-up（机架内）：铜缆/可插拔为主。\n2）Scale-out（跨机架/跨数据中心）：CPO率先渗透（功耗从30W→9W/端口，带宽大幅提升）。\n3）共存窗口：可插拔主导未来18-24个月；CPO与可插拔非零和，至少到2027年。\n\n“需求已被全链条验证，瓶颈在InP激光；谁能自产/扩产最快、供应链最安全，谁就吃到最大弹性。”\n\n未来两周是光互连领域公司密集财报，如果财报进一步被验证，可能会是一个催化剂窗口。\n\n<a href=\"/search?f=tweets&q=%23MRVL\">$MRVL</a> <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a> <a href=\"/search?f=tweets&q=%23COHR\">$COHR</a> <a href=\"/search?f=tweets&q=%23AXTI\">$AXTI</a> <a href=\"/search?f=tweets&q=%23AAOI\">$AAOI</a> <a href=\"/search?f=tweets&q=%23GFS\">$GFS</a> <a href=\"/search?f=tweets&q=%23LAZR\">$LAZR</a> <a href=\"/search?f=tweets&q=%23FOTO\">$FOTO</a> <a href=\"/search?f=tweets&q=%23NOK\">$NOK</a>\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2084449500744319334",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO1zxNTa8AEBx5-.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO1zxNebYAAUF70.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084629328105721873",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "21:30 待会儿见\n\n还是非常非常敏捷的交易",
+      "contentHtml": "21:30 待会儿见\n\n还是非常非常敏捷的交易",
+      "publishedAt": "2026-08-04T13:15:00.000Z",
+      "link": "https://x.com/octopusycc/status/2084629328105721873",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HO4XT5nb0AAwniQ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2084621375919280455",
       "username": "Bitfatty",
@@ -136,6 +217,27 @@
         "contentHtml": "极少数人/做市商就可以在现在这种流动性不足时控价。\n目前参与卖出的机构有限，尤其在六万这个价格。一旦微策略的STRC回到水上，就会重新开始买回比特币，市场就重新有新钱去买币，回到正向循环。\n最近微策略的卖出事件已经不影响比特币价格了，散户也从刚听到微策略卖币的绝对恐慌逐渐变成无感，这种行为一般是利空出尽的前兆。\n如果没有独立利空事件，八月比特币将冲击7万美金。 可能在八月中旬前。",
         "link": "https://x.com/thankUcrypto/status/2084551762921545920"
       },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084621087644463132",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "And the rest is history...\n\nDon't shoot the messenger.\n\nSoon, its up only for $BTC",
+      "contentHtml": "And the rest is history...\n\nDon't shoot the messenger.\n\nSoon, its up only for <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
+      "publishedAt": "2026-08-04T12:42:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2084621087644463132",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HO4Pv0CXEAAgPNF.png"
+        }
+      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -194,6 +296,28 @@
             "url": "https://pbs.twimg.com/media/HO1zxNebYAAUF70.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2084609298726822249",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "$BTC ... soon 🔼\n\nGoing to be funny watching people try to catch the peak bottom.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> ... soon 🔼\n\nGoing to be funny watching people try to catch the peak bottom.",
+      "publishedAt": "2026-08-04T11:56:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2084609298726822249",
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "The scene is just as dry as it was when we were at 16K last cycle. \n\nBored beyond disbelief & I know you all feel the same. \n\nWe are close, $BTC",
+        "contentHtml": "The scene is just as dry as it was when we were at 16K last cycle. \n\nBored beyond disbelief &amp; I know you all feel the same. \n\nWe are close, <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
+        "link": "https://x.com/KillaXBT/status/2083140608625955139"
       },
       "stats": {
         "replies": 0,
@@ -11888,106 +12012,6 @@
         "contentHtml": "为什么锚定3月份就是底呢？25年4月、26年3月都是极端事件引起的，但这次的跌并没有极端事件纯市场和经济行为",
         "link": "https://x.com/zpmLeb6Qux51115/status/2082015613686521942"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082141410883678722",
-      "username": "coolish",
-      "displayName": "paulwei",
-      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
-      "content": "两周前挂的 Sandisk 买单，\n今晚成交了，不知道是福是祸？",
-      "contentHtml": "两周前挂的 Sandisk 买单，\n今晚成交了，不知道是福是祸？",
-      "publishedAt": "2026-07-28T16:29:00.000Z",
-      "link": "https://x.com/coolish/status/2082141410883678722",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOVAI0aaMAMrNJy.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082138172641739059",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "“我们只有回过头来看才会发现原来这些是市场短期之内情绪面的一些高位，我不希望我们只有走到那时候我们才去意识到这种情况”\n”这些短期之内市场交易上的一些信号，未来一定会通过下跌去消耗，通过下跌把情绪面消化掉之后还是回到基本面“",
-      "contentHtml": "“我们只有回过头来看才会发现原来这些是市场短期之内情绪面的一些高位，我不希望我们只有走到那时候我们才去意识到这种情况”\n”这些短期之内市场交易上的一些信号，未来一定会通过下跌去消耗，通过下跌把情绪面消化掉之后还是回到基本面“",
-      "publishedAt": "2026-07-28T16:16:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2082138172641739059",
-      "quote": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君",
-        "content": "7月1日直播的内容，有点电流音，但一直觉得App里的直播更聊得“散”，想到啥聊啥，建议去听听。",
-        "contentHtml": "7月1日直播的内容，有点电流音，但一直觉得App里的直播更聊得“散”，想到啥聊啥，建议去听听。",
-        "link": "https://x.com/TJ_Research/status/2076880568285815073"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082137942571548986",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "We’re in one of the most boring phases, $BTC\n\nThis is when patience pays the most. Instead of getting chopped up trading the internal range, the best approach is to sit on your hands and wait. \n\nThis environment is great for scalpers, but it’s far less rewarding for swing traders. (aka myself)\n\nDeviations below the range lows are opportunities to look for longs. Deviations above the range highs are opportunities to look for shorts. \n\nOutside of those extremes, there’s little edge in chasing price.\n\nMy expectation is that this type of range bound price action could persist for another 1–1.5 months. \n\nSometimes the best trade is no trade at all. Enjoy the summer, stay patient & just wait for next year.",
-      "contentHtml": "We’re in one of the most boring phases, <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nThis is when patience pays the most. Instead of getting chopped up trading the internal range, the best approach is to sit on your hands and wait. \n\nThis environment is great for scalpers, but it’s far less rewarding for swing traders. (aka myself)\n\nDeviations below the range lows are opportunities to look for longs. Deviations above the range highs are opportunities to look for shorts. \n\nOutside of those extremes, there’s little edge in chasing price.\n\nMy expectation is that this type of range bound price action could persist for another 1–1.5 months. \n\nSometimes the best trade is no trade at all. Enjoy the summer, stay patient & just wait for next year.",
-      "publishedAt": "2026-07-28T16:15:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2082137942571548986",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOU8bMFW4AE2Vsc.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082134295016255689",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "杀最狠的剧本可能是明早海力士财报暴力反弹，晚上FOMC再干出个新低。",
-      "contentHtml": "杀最狠的剧本可能是明早海力士财报暴力反弹，晚上FOMC再干出个新低。",
-      "publishedAt": "2026-07-28T16:01:00.000Z",
-      "link": "https://x.com/yuren477/status/2082134295016255689",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082127174006673848",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "海力士 90 PUT 7/31 主要是在锁 明天财报下限\n\n$SKHY \n\n也就是财报后 不会跌破 90刀",
-      "contentHtml": "海力士 90 PUT 7/31 主要是在锁 明天财报下限\n\n<a href=\"/search?f=tweets&q=%23SKHY\">$SKHY</a> \n\n也就是财报后 不会跌破 90刀",
-      "publishedAt": "2026-07-28T15:32:00.000Z",
-      "link": "https://x.com/octopusycc/status/2082127174006673848",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOUzgEFaUAAbUOr.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
