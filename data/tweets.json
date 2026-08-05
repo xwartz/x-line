@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T15:16:03.626Z",
+  "lastUpdated": "2026-08-05T23:03:54.687Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,350 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 650,
-    "successUsers": 32,
-    "failedUsers": 0
+    "newFetched": 590,
+    "successUsers": 29,
+    "failedUsers": 3
   },
   "tweets": [
+    {
+      "id": "2085122796271575084",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "今天盘后的财报，到处是雷。财报季度，我聊的公司比较多，无论我有还是没有，都会给出尽量客观的视角。昨天聊 $SPCX 的估值果然有人不满意，觉得我不懂他们业务。我想说，别把自己太当回事，也别把我太当回事。我就一市场分析员，也影响不了市场。别因为自己持有就听不进反面的声音，起码我自己所有的持仓，我更喜欢听不同的声音，而不是附和我的，我不需要Echo chamber，希望大家都赚钱。",
+      "contentHtml": "今天盘后的财报，到处是雷。财报季度，我聊的公司比较多，无论我有还是没有，都会给出尽量客观的视角。昨天聊 <a href=\"/search?f=tweets&q=%23SPCX\">$SPCX</a> 的估值果然有人不满意，觉得我不懂他们业务。我想说，别把自己太当回事，也别把我太当回事。我就一市场分析员，也影响不了市场。别因为自己持有就听不进反面的声音，起码我自己所有的持仓，我更喜欢听不同的声音，而不是附和我的，我不需要Echo chamber，希望大家都赚钱。",
+      "publishedAt": "2026-08-05T21:56:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2085122796271575084",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085105529710584273",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "终于找到美股的bug了，既然整体在高位，出一个财报空一个就完事了",
+      "contentHtml": "终于找到美股的bug了，既然整体在高位，出一个财报空一个就完事了",
+      "publishedAt": "2026-08-05T20:47:00.000Z",
+      "link": "https://x.com/yuren477/status/2085105529710584273",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HO_IbIWaEAAlEuS.jpg"
+        }
+      ],
+      "quote": {
+        "username": "yuren477",
+        "displayName": "余人sama",
+        "content": "老师们刚要发文狂吹，字还没打完又跌回来了😆😆😆\n现在出一个财报杀一个的节奏吗？\n今晚闪迪能善终吗？",
+        "contentHtml": "老师们刚要发文狂吹，字还没打完又跌回来了😆😆😆\n现在出一个财报杀一个的节奏吗？\n今晚闪迪能善终吗？",
+        "link": "https://x.com/yuren477/status/2084982905919717485",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO9Y5AgaUAAo3jf.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085096109282939263",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "APP烂了 彻底烂了",
+      "contentHtml": "APP烂了 彻底烂了",
+      "publishedAt": "2026-08-05T20:10:00.000Z",
+      "link": "https://x.com/octopusycc/status/2085096109282939263",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085095245176549700",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "以后财报工作还是得好好做啊 谢谢大家",
+      "contentHtml": "以后财报工作还是得好好做啊 谢谢大家",
+      "publishedAt": "2026-08-05T20:07:00.000Z",
+      "link": "https://x.com/octopusycc/status/2085095245176549700",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HO-_EXGawAA5gUI.jpg"
+        }
+      ],
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "SNDK财报前，期权结构已经在明确偏空。 $SNDK \n\nCall wall集中在1400-1500附近。\n\n当前价格跌到1400下方，直接进入明显负gamma区间。\n\n此时做市商对冲行为会变成“卖跌买涨”，波动被反向放大，下行更容易加速。\n\n近月max pain多落在1370左右，gamma flip也在这个区间，意味着期权到期和对冲力量本身就在把价格往这个位置推。\n\n更关键的是今天的成交：大量看涨期权在平仓。这不是新增多头，而是多头获利了结、降低敞口。\n\n尤其在财报前，这种操作几乎从来不是强势看涨信号。隐含波动率定价的财报后波动约15-16%（straddle成本），历史实际波动往往更大，但方向上已经偏向谨慎。\n\n再叠加两个现实确认：\n1. 伙伴股恺侠（Kioxia）开盘冲高后直接回踩，情绪先行降温；\n2. 华尔街预期已明显高于公司指引（EPS共识≈35 vs 指引30-33），高预期下“达标即失望”的风险被拉满。\n\ngamma负 + call平仓 + 伙伴回踩 + 预期过高，财报前空头逻辑更清晰。",
+        "contentHtml": "SNDK财报前，期权结构已经在明确偏空。 <a href=\"/search?f=tweets&q=%23SNDK\">$SNDK</a> \n\nCall wall集中在1400-1500附近。\n\n当前价格跌到1400下方，直接进入明显负gamma区间。\n\n此时做市商对冲行为会变成“卖跌买涨”，波动被反向放大，下行更容易加速。\n\n近月max pain多落在1370左右，gamma flip也在这个区间，意味着期权到期和对冲力量本身就在把价格往这个位置推。\n\n更关键的是今天的成交：大量看涨期权在平仓。这不是新增多头，而是多头获利了结、降低敞口。\n\n尤其在财报前，这种操作几乎从来不是强势看涨信号。隐含波动率定价的财报后波动约15-16%（straddle成本），历史实际波动往往更大，但方向上已经偏向谨慎。\n\n再叠加两个现实确认：\n1. 伙伴股恺侠（Kioxia）开盘冲高后直接回踩，情绪先行降温；\n2. 华尔街预期已明显高于公司指引（EPS共识≈35 vs 指引30-33），高预期下“达标即失望”的风险被拉满。\n\ngamma负 + call平仓 + 伙伴回踩 + 预期过高，财报前空头逻辑更清晰。",
+        "link": "https://x.com/octopusycc/status/2085019322100178981",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO95wmIaEAAfDYC.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO9527obsAAux4t.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085095004033135003",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "$BTC\n\nThe quoted post will probably be one of the most important posts you read in 2026.\n\nTake the time to study it. Look beyond the price action and focus on the similarities from wave structure, market psychology, and market makers perspective.\n\nOnce the dark green phase (the bottoming formation) is complete, the next target is the purple dot, and that sits above 80K.\n\nRange capitulation before expansion.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nThe quoted post will probably be one of the most important posts you read in 2026.\n\nTake the time to study it. Look beyond the price action and focus on the similarities from wave structure, market psychology, and market makers perspective.\n\nOnce the dark green phase (the bottoming formation) is complete, the next target is the purple dot, and that sits above 80K.\n\nRange capitulation before expansion.",
+      "publishedAt": "2026-08-05T20:06:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2085095004033135003",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HO--ZvkW4AA1kHb.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "I observed every single $BTC bear cycle. \n\nKey update:\n\nPractically every single cycle, we complete a 5-wave correction. We also tend to form two significant bear market highs. The first comes immediately after the initial top on the first major retrace. This is the complacency high, the point where the majority believe the bull market is back.\n\nIt's exactly why I took shorts from 96K down to 70K this cycle. Once that complacency high is established, price usually pushes to fresh lows as the macro correction continues. \n\nWe saw this in 2014, 2022, and again in 2026. In 2018, price didn't make a new low after the complacency bounce, but the overall structure remained very similar with multiple retests. \n\nShortly afterwards, we typically get a dead cat bounce. Across the previous cycles, this dead cat bounce establishes the base low. By this stage, most market participants have already been wrecked after buying into complacency, sentiment is at its worst, and everyone begins aggressively piling into shorts. \n\nDelta flips, shorts get squeezed, and price rallies. At the end of the day, it's simply market psychology. After the dead cat base low is formed, the final bottom is usually established following the second major retest.\n\nWe saw this in 2015, 2018, and 2022. Fast forward to today, BTC has swept the dead cat base low and completed the same 5-wave corrective structure we've seen throughout previous cycles. \n\nThe only thing that makes me hesitate is the timing. Every previous bear market has lasted roughly 365 days before putting in the final bottom. If the low is already in this cycle, it would have formed in around 260 days, roughly 100 days earlier than every previous cycle.\n\nThat's why I'm still 50/50. Structure suggests the bottom is in. Timing suggests it isn't. Eventually, cycle lengths will change. The mistake is assuming they never will. We need to be prepared for that possibility.\n\nWe'll likely have our answer over the next couple of months, but it's worth pointing out that, from a structural perspective, every corrective wave has now been completed and the lows appear to have been established.\n\nThere is a very good chance we get some chop from here, but in terms of the low being in, I think it's more likely we form higher lows than make significant new lows.",
+        "contentHtml": "I observed every single <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> bear cycle. \n\nKey update:\n\nPractically every single cycle, we complete a 5-wave correction. We also tend to form two significant bear market highs. The first comes immediately after the initial top on the first major retrace. This is the complacency high, the point where the majority believe the bull market is back.\n\nIt's exactly why I took shorts from 96K down to 70K this cycle. Once that complacency high is established, price usually pushes to fresh lows as the macro correction continues. \n\nWe saw this in 2014, 2022, and again in 2026. In 2018, price didn't make a new low after the complacency bounce, but the overall structure remained very similar with multiple retests. \n\nShortly afterwards, we typically get a dead cat bounce. Across the previous cycles, this dead cat bounce establishes the base low. By this stage, most market participants have already been wrecked after buying into complacency, sentiment is at its worst, and everyone begins aggressively piling into shorts. \n\nDelta flips, shorts get squeezed, and price rallies. At the end of the day, it's simply market psychology. After the dead cat base low is formed, the final bottom is usually established following the second major retest.\n\nWe saw this in 2015, 2018, and 2022. Fast forward to today, BTC has swept the dead cat base low and completed the same 5-wave corrective structure we've seen throughout previous cycles. \n\nThe only thing that makes me hesitate is the timing. Every previous bear market has lasted roughly 365 days before putting in the final bottom. If the low is already in this cycle, it would have formed in around 260 days, roughly 100 days earlier than every previous cycle.\n\nThat's why I'm still 50/50. Structure suggests the bottom is in. Timing suggests it isn't. Eventually, cycle lengths will change. The mistake is assuming they never will. We need to be prepared for that possibility.\n\nWe'll likely have our answer over the next couple of months, but it's worth pointing out that, from a structural perspective, every corrective wave has now been completed and the lows appear to have been established.\n\nThere is a very good chance we get some chop from here, but in terms of the low being in, I think it's more likely we form higher lows than make significant new lows.",
+        "link": "https://x.com/KillaXBT/status/2079916774884073494",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HN1WcywXcAE1Yaj.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085090985785409870",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "SNDK维持判断了\n最后十分钟",
+      "contentHtml": "SNDK维持判断了\n最后十分钟",
+      "publishedAt": "2026-08-05T19:50:00.000Z",
+      "link": "https://x.com/octopusycc/status/2085090985785409870",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HO-7KQGbUAAAULh.jpg"
+        }
+      ],
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "SNDK财报前，期权结构已经在明确偏空。 $SNDK \n\nCall wall集中在1400-1500附近。\n\n当前价格跌到1400下方，直接进入明显负gamma区间。\n\n此时做市商对冲行为会变成“卖跌买涨”，波动被反向放大，下行更容易加速。\n\n近月max pain多落在1370左右，gamma flip也在这个区间，意味着期权到期和对冲力量本身就在把价格往这个位置推。\n\n更关键的是今天的成交：大量看涨期权在平仓。这不是新增多头，而是多头获利了结、降低敞口。\n\n尤其在财报前，这种操作几乎从来不是强势看涨信号。隐含波动率定价的财报后波动约15-16%（straddle成本），历史实际波动往往更大，但方向上已经偏向谨慎。\n\n再叠加两个现实确认：\n1. 伙伴股恺侠（Kioxia）开盘冲高后直接回踩，情绪先行降温；\n2. 华尔街预期已明显高于公司指引（EPS共识≈35 vs 指引30-33），高预期下“达标即失望”的风险被拉满。\n\ngamma负 + call平仓 + 伙伴回踩 + 预期过高，财报前空头逻辑更清晰。",
+        "contentHtml": "SNDK财报前，期权结构已经在明确偏空。 <a href=\"/search?f=tweets&q=%23SNDK\">$SNDK</a> \n\nCall wall集中在1400-1500附近。\n\n当前价格跌到1400下方，直接进入明显负gamma区间。\n\n此时做市商对冲行为会变成“卖跌买涨”，波动被反向放大，下行更容易加速。\n\n近月max pain多落在1370左右，gamma flip也在这个区间，意味着期权到期和对冲力量本身就在把价格往这个位置推。\n\n更关键的是今天的成交：大量看涨期权在平仓。这不是新增多头，而是多头获利了结、降低敞口。\n\n尤其在财报前，这种操作几乎从来不是强势看涨信号。隐含波动率定价的财报后波动约15-16%（straddle成本），历史实际波动往往更大，但方向上已经偏向谨慎。\n\n再叠加两个现实确认：\n1. 伙伴股恺侠（Kioxia）开盘冲高后直接回踩，情绪先行降温；\n2. 华尔街预期已明显高于公司指引（EPS共识≈35 vs 指引30-33），高预期下“达标即失望”的风险被拉满。\n\ngamma负 + call平仓 + 伙伴回踩 + 预期过高，财报前空头逻辑更清晰。",
+        "link": "https://x.com/octopusycc/status/2085019322100178981",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO95wmIaEAAfDYC.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO9527obsAAux4t.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085079443987378621",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "$CRCL 财报一般般，数据都不如预期，甚至其他营收还下调了。但重点是Arc主网终于要上线加上开始变现CPN。退后一部分，如果资产上链是终点，那稳定币的潜力巨大。我看管理层执行力，暂时到现在为止我觉得一般，Coinbase Brian也属于一般，不算Top tier（HOOD)那种，未来也许会改变看法，继续验证，我需要看到真正非加密货币市场的Adoption，现在还是在铺基建。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23CRCL\">$CRCL</a> 财报一般般，数据都不如预期，甚至其他营收还下调了。但重点是Arc主网终于要上线加上开始变现CPN。退后一部分，如果资产上链是终点，那稳定币的潜力巨大。我看管理层执行力，暂时到现在为止我觉得一般，Coinbase Brian也属于一般，不算Top tier（HOOD)那种，未来也许会改变看法，继续验证，我需要看到真正非加密货币市场的Adoption，现在还是在铺基建。",
+      "publishedAt": "2026-08-05T19:04:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2085079443987378621",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085055791346655526",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "$BTC\n\nAnd just like that... we're up 4% since the start of the month.\n\n\"Personally, I think a 2-4% move higher at the start of the month makes the most sense, even if we ultimately head lower.\" - My exact words.\"\n\nThis is how I trade, paying attention to psychological dates and time periods.\n\nSomething different. 🪄",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nAnd just like that... we're up 4% since the start of the month.\n\n\"Personally, I think a 2-4% move higher at the start of the month makes the most sense, even if we ultimately head lower.\" - My exact words.\"\n\nThis is how I trade, paying attention to psychological dates and time periods.\n\nSomething different. 🪄",
+      "publishedAt": "2026-08-05T17:30:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2085055791346655526",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HO-bD5OW4AAW3_s.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "New monthly open for $BTC.\n\nWe’ve formed quite a bearish narrative going into this new monthly candle. Because of that, there’s a good chance we see a bullish reaction at the start of the month.\n\nAs seen in previous examples, whenever BTC heads into these periods with a bearish narrative, we usually see an inverse move. The only times we don’t are when we’re on the verge of a major trend shift, like in November, February, and June.\n\nGiven we’re still ranging and close to the bear market lows, I think there are two scenarios: 1) one final leg down below $57K, or 2) we start pushing higher this month and continue the range.\n\nPersonally, I think a 2–4% move up at the start of the month makes the most sense even if we head lower.",
+        "contentHtml": "New monthly open for <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>.\n\nWe’ve formed quite a bearish narrative going into this new monthly candle. Because of that, there’s a good chance we see a bullish reaction at the start of the month.\n\nAs seen in previous examples, whenever BTC heads into these periods with a bearish narrative, we usually see an inverse move. The only times we don’t are when we’re on the verge of a major trend shift, like in November, February, and June.\n\nGiven we’re still ranging and close to the bear market lows, I think there are two scenarios: 1) one final leg down below $57K, or 2) we start pushing higher this month and continue the range.\n\nPersonally, I think a 2–4% move up at the start of the month makes the most sense even if we head lower.",
+        "link": "https://x.com/KillaXBT/status/2083601455362052147",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOpvhxCWYAAxLOB.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085042615452659821",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "谷歌最近出啥问题了？接连损失大将。刚刚杰夫.迪恩宣布从谷歌离职创立Discovery Loop。这位非常不简单，杰夫.迪恩是计算机科学与人工智能领域的传奇人物，被誉为“谷歌的系统架构总设计师”和硅谷“程序员中的程序员”。\n1、杰夫离职前担任谷歌首席科学家兼任 Google DeepMind 和 Google Research 的核心技术领袖。是Google Senior Fellow/Level 11，在谷歌数十万员工中，能达到 Level 11 的极度罕见，几乎代表了整个谷歌技术体系的终极权威。\n\n2、Jeff Dean在谷歌工作27年，其职业生涯贯穿了互联网海量数据处理时代与现代人工智能时代，其核心成就可分为三大阶段：\n1）奠定现代互联网基础的基础设施（2000年代）\n在谷歌成立早期，他主导开发了一系列支撑起整个 Google 生态（乃至全行业大数据架构）的基础系统：\nMapReduce：划时代的分布式计算框架。它将庞大的数据处理任务拆分到数万台普通服务器上并行运行，是后来的 Hadoop 等大数据技术的直接灵感来源。\nBigtable：高扩展性、高性能的分布式结构化数据存储系统，直接催生了后来的 NoSQL 数据库浪潮（如 HBase）。\nSpanner：全球级分布式 SQL 数据库，打破了传统数据库“一致性”与“可用性”难以兼得的困境。\n搜索与广告系统架构：主导设计了谷歌早期的五代搜索索引与抓取系统，以及 AdSense 广告投放系统的早期基础设施。\n\n2）推动 AI 革命与深度学习生态（2010年代）\n创建 Google Brain（谷歌大脑）：2011 年与吴恩达（Andrew Ng）等人共同创办 Google Brain，将深度学习引入谷歌的核心业务。\nTensorFlow：主导打造并开源了全球最著名的深度学习框架之一 TensorFlow，极大地降低了全球研究者和开发者使用 AI 的门槛。\nDistBelief & Pathways：先后设计了 DistBelief（早期大规模分布式神经网络训练系统） 和 Pathways 架构（为后续训练 PaLM、Gemini 等超大规模多模态大模型奠定了系统支撑）。\n\n3）整合与领军时代（2020年代）\n统领 Google AI 与 DeepMind 融合，杰夫曾长期担任 Google AI（Google Research）负责人。2023 年 Google Brain 与 DeepMind 合并为 Google DeepMind 后，他作为首席科学家，重点统筹下一代超大模型（如 Gemini 系列）的系统架构与前沿 AI 研发。\n\n前段时间谷歌还有两位大拿离开：\n1）Google DeepMind 副总裁 John Jumper跳槽至 Anthropic，这位因带领团队打造预测蛋白质结构的革命性 AI 模型 AlphaFold，与 Demis Hassabis 共同获得 2024 年诺贝尔化学奖。\n\n2）谷歌工程副总裁兼旗舰模型 Gemini 联合负责人Noam Shazeer跳槽至 OpenAI。\nNoam Shazeer 是Transformer 架构奠基人之一：2017 年奠定现代大模型基础的划时代论文《Attention Is All You Need》的共同作者。\n\n前线厮杀正浓，统兵大将接连离开，对谷歌影响应该不小。",
+      "contentHtml": "谷歌最近出啥问题了？接连损失大将。刚刚杰夫.迪恩宣布从谷歌离职创立Discovery Loop。这位非常不简单，杰夫.迪恩是计算机科学与人工智能领域的传奇人物，被誉为“谷歌的系统架构总设计师”和硅谷“程序员中的程序员”。\n1、杰夫离职前担任谷歌首席科学家兼任 Google DeepMind 和 Google Research 的核心技术领袖。是Google Senior Fellow/Level 11，在谷歌数十万员工中，能达到 Level 11 的极度罕见，几乎代表了整个谷歌技术体系的终极权威。\n\n2、Jeff Dean在谷歌工作27年，其职业生涯贯穿了互联网海量数据处理时代与现代人工智能时代，其核心成就可分为三大阶段：\n1）奠定现代互联网基础的基础设施（2000年代）\n在谷歌成立早期，他主导开发了一系列支撑起整个 Google 生态（乃至全行业大数据架构）的基础系统：\nMapReduce：划时代的分布式计算框架。它将庞大的数据处理任务拆分到数万台普通服务器上并行运行，是后来的 Hadoop 等大数据技术的直接灵感来源。\nBigtable：高扩展性、高性能的分布式结构化数据存储系统，直接催生了后来的 NoSQL 数据库浪潮（如 HBase）。\nSpanner：全球级分布式 SQL 数据库，打破了传统数据库“一致性”与“可用性”难以兼得的困境。\n搜索与广告系统架构：主导设计了谷歌早期的五代搜索索引与抓取系统，以及 AdSense 广告投放系统的早期基础设施。\n\n2）推动 AI 革命与深度学习生态（2010年代）\n创建 Google Brain（谷歌大脑）：2011 年与吴恩达（Andrew Ng）等人共同创办 Google Brain，将深度学习引入谷歌的核心业务。\nTensorFlow：主导打造并开源了全球最著名的深度学习框架之一 TensorFlow，极大地降低了全球研究者和开发者使用 AI 的门槛。\nDistBelief & Pathways：先后设计了 DistBelief（早期大规模分布式神经网络训练系统） 和 Pathways 架构（为后续训练 PaLM、Gemini 等超大规模多模态大模型奠定了系统支撑）。\n\n3）整合与领军时代（2020年代）\n统领 Google AI 与 DeepMind 融合，杰夫曾长期担任 Google AI（Google Research）负责人。2023 年 Google Brain 与 DeepMind 合并为 Google DeepMind 后，他作为首席科学家，重点统筹下一代超大模型（如 Gemini 系列）的系统架构与前沿 AI 研发。\n\n前段时间谷歌还有两位大拿离开：\n1）Google DeepMind 副总裁 John Jumper跳槽至 Anthropic，这位因带领团队打造预测蛋白质结构的革命性 AI 模型 AlphaFold，与 Demis Hassabis 共同获得 2024 年诺贝尔化学奖。\n\n2）谷歌工程副总裁兼旗舰模型 Gemini 联合负责人Noam Shazeer跳槽至 OpenAI。\nNoam Shazeer 是Transformer 架构奠基人之一：2017 年奠定现代大模型基础的划时代论文《Attention Is All You Need》的共同作者。\n\n前线厮杀正浓，统兵大将接连离开，对谷歌影响应该不小。",
+      "publishedAt": "2026-08-05T16:37:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2085042615452659821",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HO-PNLnbEAEY1x3.jpg"
+        }
+      ],
+      "quote": {
+        "username": "JeffDean",
+        "displayName": "Jeff Dean",
+        "content": "Announcing Discovery Loop! \n\nI am very excited to announce that, along with my longtime friends and collaborators @Sanjay_Ghemawat, @OriolVinyalsML and @quocleix, we are founding Discovery Loop (@DiscoLoopAI), a Public Benefit Corporation whose mission is to automate machine learning, science, and engineering to accelerate discoveries and progress. The four of us have worked together for 14 to 30 years, and have helped build some of the world’s most used products, infrastructure and AI models, and we’re excited to turn our attention to this ambitious endeavor.\n\n♾\n\nLearn more at: discoveryloop.com",
+        "contentHtml": "Announcing Discovery Loop! \n\nI am very excited to announce that, along with my longtime friends and collaborators <a href=\"/Sanjay_Ghemawat\" title=\"Sanjay Ghemawat\">@Sanjay_Ghemawat</a>, <a href=\"/OriolVinyalsML\" title=\"Oriol Vinyals\">@OriolVinyalsML</a> and <a href=\"/quocleix\" title=\"Quoc Le\">@quocleix</a>, we are founding Discovery Loop (<a href=\"/DiscoLoopAI\" title=\"Discovery Loop\">@DiscoLoopAI</a>), a Public Benefit Corporation whose mission is to automate machine learning, science, and engineering to accelerate discoveries and progress. The four of us have worked together for 14 to 30 years, and have helped build some of the world’s most used products, infrastructure and AI models, and we’re excited to turn our attention to this ambitious endeavor.\n\n♾\n\nLearn more at: <a href=\"http://www.discoveryloop.com\">discoveryloop.com</a>",
+        "link": "https://x.com/JeffDean/status/2085034604172603724",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO-HtcYbIAA08Zn.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO-H2mkaIAEq2Hq.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085031458692018432",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "今天盘后五家财报 · 精简结论\n\n偏空：\nSNDK — 负gamma + 大量call平仓 + 预期过高，伙伴恺侠回踩，达标即失望风险高。\nWDC — 与SNDK强联动，存储板块承压，期权情绪偏谨慎。\n\n偏好：\nAPP — Put wall 410强支撑，负gamma放大上行，高增长共识。\nDASH — 订单/GOV稳健，共识营收+30%+，增长逻辑清晰。\nFIG — AI变现加速 + NDR高位，指引有上修空间。存储双杀风险，其余看执行。重点看指引。  \n\n $SNDK #WDC $APP $DASH $FIG",
+      "contentHtml": "今天盘后五家财报 · 精简结论\n\n偏空：\nSNDK — 负gamma + 大量call平仓 + 预期过高，伙伴恺侠回踩，达标即失望风险高。\nWDC — 与SNDK强联动，存储板块承压，期权情绪偏谨慎。\n\n偏好：\nAPP — Put wall 410强支撑，负gamma放大上行，高增长共识。\nDASH — 订单/GOV稳健，共识营收+30%+，增长逻辑清晰。\nFIG — AI变现加速 + NDR高位，指引有上修空间。存储双杀风险，其余看执行。重点看指引。  \n\n <a href=\"/search?f=tweets&q=%23SNDK\">$SNDK</a> <a href=\"/search?f=tweets&q=%23WDC\">#WDC</a> <a href=\"/search?f=tweets&q=%23APP\">$APP</a> <a href=\"/search?f=tweets&q=%23DASH\">$DASH</a> <a href=\"/search?f=tweets&q=%23FIG\">$FIG</a>",
+      "publishedAt": "2026-08-05T15:53:00.000Z",
+      "link": "https://x.com/octopusycc/status/2085031458692018432",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085027585231049140",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "If $BTC doesn't break 60K in the next month or so, you can kiss 50K goodbye.\n\nI did mention the MO pivot & that we could see upside at the start of August. \n\nSo you better hope we're forming a LH here. Otherwise, the longer we stay above 60K, the higher the chance we don't test lower.",
+      "contentHtml": "If <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> doesn't break 60K in the next month or so, you can kiss 50K goodbye.\n\nI did mention the MO pivot & that we could see upside at the start of August. \n\nSo you better hope we're forming a LH here. Otherwise, the longer we stay above 60K, the higher the chance we don't test lower.",
+      "publishedAt": "2026-08-05T15:38:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2085027585231049140",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HO-AHNuWQAAJOOa.png"
+        }
+      ],
+      "quote": {
+        "username": "Kalshi_Crypto",
+        "displayName": "Kalshi Crypto",
+        "content": "BREAKING: 50% chance Bitcoin hits $50,000 before $100,000",
+        "contentHtml": "BREAKING: 50% chance Bitcoin hits $50,000 before $100,000",
+        "link": "https://x.com/Kalshi_Crypto/status/2085018307132891310",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO95GN7XQAAGisA.png"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO95GOBXQAA8aO7.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085024894350405754",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "WDC盘后财报前瞻：财报后的核心区间看540—590美元\n\n$WDC \n\n从期权结构来看，WDC目前的 Call Wall在590美元，Put Wall在540美元，这两个位置构成了财报前更明确的上下边界。\n\n同时，8月7日至8月21日到期的整体GEX仍然为正。正Gamma环境下，做市商的对冲通常会压制短期波动，因此在没有出现足够强催化的情况下，WDC更容易围绕关键行权价震荡，而不是快速走出持续的单边行情。\n\n这里需要注意，550美元附近可能存在一定的局部支撑和Gamma堆积，但从整体期权结构来看，真正更重要的下方防线仍然是540美元。\n\n不过，WDC今晚不能只依靠自身财报进行判断。\n\n所以，WDC财报后的观察重点主要有三个：\n\n第一，股价能否突破并站稳590美元的Call Wall；\n第二，540美元Put Wall能否继续提供有效支撑；\n第三，SNDK财报是否推动存储板块形成一致性的方向选择。\n\n如果WDC突破590美元，同时Call Wall继续向上移动，说明市场对财报的定价可能还没有结束，上方仍有进一步扩张空间。\n如果股价冲高后始终无法站稳590美元，则更接近利好兑现，正Gamma环境和做市商对冲可能继续限制上涨空间。\n\n下方则先观察550美元附近的局部支撑，但真正的风险确认位置是540美元。一旦股价跌破540美元，同时整体GEX由正转负，原本稳定价格的做市商对冲可能开始放大波动，届时需要警惕WDC从区间震荡转向更明显的下跌趋势。\n\n——————\n\n分享一些个人操作 \n\nWDC做多 538刀止损 SNDK财报不好直接损 \n\n——————\n\n本文由 @Coinbase赞助\n当前Coinbase正在广泛的开放KYC  \n\n美股合约交易，就上Coinbase    \n\n欢迎大家注册Coinbase：advanced.coinbase.com/join/9…",
+      "contentHtml": "WDC盘后财报前瞻：财报后的核心区间看540—590美元\n\n<a href=\"/search?f=tweets&q=%23WDC\">$WDC</a> \n\n从期权结构来看，WDC目前的 Call Wall在590美元，Put Wall在540美元，这两个位置构成了财报前更明确的上下边界。\n\n同时，8月7日至8月21日到期的整体GEX仍然为正。正Gamma环境下，做市商的对冲通常会压制短期波动，因此在没有出现足够强催化的情况下，WDC更容易围绕关键行权价震荡，而不是快速走出持续的单边行情。\n\n这里需要注意，550美元附近可能存在一定的局部支撑和Gamma堆积，但从整体期权结构来看，真正更重要的下方防线仍然是540美元。\n\n不过，WDC今晚不能只依靠自身财报进行判断。\n\n所以，WDC财报后的观察重点主要有三个：\n\n第一，股价能否突破并站稳590美元的Call Wall；\n第二，540美元Put Wall能否继续提供有效支撑；\n第三，SNDK财报是否推动存储板块形成一致性的方向选择。\n\n如果WDC突破590美元，同时Call Wall继续向上移动，说明市场对财报的定价可能还没有结束，上方仍有进一步扩张空间。\n如果股价冲高后始终无法站稳590美元，则更接近利好兑现，正Gamma环境和做市商对冲可能继续限制上涨空间。\n\n下方则先观察550美元附近的局部支撑，但真正的风险确认位置是540美元。一旦股价跌破540美元，同时整体GEX由正转负，原本稳定价格的做市商对冲可能开始放大波动，届时需要警惕WDC从区间震荡转向更明显的下跌趋势。\n\n——————\n\n分享一些个人操作 \n\nWDC做多 538刀止损 SNDK财报不好直接损 \n\n——————\n\n本文由 <a href=\"/Coinbase\" title=\"Coinbase 🛡️\">@Coinbase</a>赞助\n当前Coinbase正在广泛的开放KYC  \n\n美股合约交易，就上Coinbase    \n\n欢迎大家注册Coinbase：<a href=\"https://advanced.coinbase.com/join/99LLC4W\">advanced.coinbase.com/join/9…</a>",
+      "publishedAt": "2026-08-05T15:27:00.000Z",
+      "link": "https://x.com/octopusycc/status/2085024894350405754",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HO9-HQBbYAArPJc.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HO9-3F1aAAAeOWo.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2085019322100178981",
       "username": "octopusycc",
@@ -11517,25 +11856,6 @@
       }
     },
     {
-      "id": "2082548624890990949",
-      "username": "_monotau",
-      "displayName": "monotau",
-      "avatar": "https://pbs.twimg.com/profile_images/1487871673164468225/BcScNGX3_bigger.png",
-      "content": "After a long back and forth, GPT-5.6 Sol produced a proof (formally verified in Lean) of the following Ramsey number inequality:\n\nR(k+1,s+1) >= R(k,s)+2k+2s for 5<=k<=s.\n\nAs a consequence, this also establishes a new lower bound R(12,12) >= 1641.",
-      "contentHtml": "After a long back and forth, GPT-5.6 Sol produced a proof (formally verified in Lean) of the following Ramsey number inequality:\n\nR(k+1,s+1) &gt;= R(k,s)+2k+2s for 5&lt;=k&lt;=s.\n\nAs a consequence, this also establishes a new lower bound R(12,12) &gt;= 1641.",
-      "publishedAt": "2026-07-29T19:27:00.000Z",
-      "link": "https://x.com/_monotau/status/2082548624890990949",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2082536156072472826",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -11816,271 +12136,6 @@
       "contentHtml": "今天之前我一直以为你们说亏钱是搞笑的，看了几个推感觉是真的啊...",
       "publishedAt": "2026-07-29T16:24:00.000Z",
       "link": "https://x.com/taresky/status/2082502658779386285",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082499771894554982",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#风控\n\nAmex 在 Google Wallet 上有一个虚拟卡功能特别好用。  \n\n需要在网上输入信用卡信息的时候，有个虚拟卡选项，直接调银行的 API，生成一张临时的虚拟卡。  \n\n在这个网站验证完成了之后，虚拟卡的 CVC 就会自动失效。这样就不会泄露实体信用卡的信息。  \n\n同时由于已经验卡通过，以后在这个网站上购物也不受影响。  \n\n还有一些未验证的猜测：由于扣款商户信息一般都不会变更，所以可能只允许这张虚拟卡在初次绑定的商户消费。  \n\n如果发现来自不同商户的扣款，直接拒绝。  \n\n这样再不浪费卡号的基础上，实现了风险隔离，一矿一地址（一卡一商户）。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23风控\">#风控</a>\n\nAmex 在 Google Wallet 上有一个虚拟卡功能特别好用。  \n\n需要在网上输入信用卡信息的时候，有个虚拟卡选项，直接调银行的 API，生成一张临时的虚拟卡。  \n\n在这个网站验证完成了之后，虚拟卡的 CVC 就会自动失效。这样就不会泄露实体信用卡的信息。  \n\n同时由于已经验卡通过，以后在这个网站上购物也不受影响。  \n\n还有一些未验证的猜测：由于扣款商户信息一般都不会变更，所以可能只允许这张虚拟卡在初次绑定的商户消费。  \n\n如果发现来自不同商户的扣款，直接拒绝。  \n\n这样再不浪费卡号的基础上，实现了风险隔离，一矿一地址（一卡一商户）。",
-      "publishedAt": "2026-07-29T16:13:00.000Z",
-      "link": "https://x.com/taresky/status/2082499771894554982",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOaGfU7a8AAh8By.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082498795548324258",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "投资是一辈子的事情，按重要程度排序\n1. 活着：远离杠杆，小赌怡情，大赌赔光\n2. 风险控制：上涨（永远在市场里面）和下跌（止盈止损）\n3. 独立思考：好的进场点都不可能在市场共识下出现，下跌的时候更应该关注机会，而不是还要跌多少。\n4. 指数为主，个股为辅，投资个股时不断验证，不知道对错的标准",
-      "contentHtml": "投资是一辈子的事情，按重要程度排序\n1. 活着：远离杠杆，小赌怡情，大赌赔光\n2. 风险控制：上涨（永远在市场里面）和下跌（止盈止损）\n3. 独立思考：好的进场点都不可能在市场共识下出现，下跌的时候更应该关注机会，而不是还要跌多少。\n4. 指数为主，个股为辅，投资个股时不断验证，不知道对错的标准",
-      "publishedAt": "2026-07-29T16:09:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2082498795548324258",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082490409318863322",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2061102140249231361/5BrK2c_S_bigger.jpg",
-      "content": "存了六万axis，尝尝咸淡。主要是领投机构我很喜欢galaxy以前可是上bn频率最高的机构，而且galaxy主动转推的项目不多。打ordr和pharos占用太多资金了不然还能加点，存款类项目风险自负。",
-      "contentHtml": "存了六万axis，尝尝咸淡。主要是领投机构我很喜欢galaxy以前可是上bn频率最高的机构，而且galaxy主动转推的项目不多。打ordr和pharos占用太多资金了不然还能加点，存款类项目风险自负。",
-      "publishedAt": "2026-07-29T15:36:00.000Z",
-      "link": "https://x.com/0xleng1/status/2082490409318863322",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOZ9_OYbgAAVf5u.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xleng1",
-        "displayName": "Leng",
-        "content": "这个axis我应该也会存点，比tori好的原因是我更喜欢galaxy一点，tori的delph也还不错。资金有限。defi稳定币存在一定亏损的概率不是铆钉1:1的，加上现在链上确实没那么安全，需要注意下。好久没发新项目了。",
-        "contentHtml": "这个axis我应该也会存点，比tori好的原因是我更喜欢galaxy一点，tori的delph也还不错。资金有限。defi稳定币存在一定亏损的概率不是铆钉1:1的，加上现在链上确实没那么安全，需要注意下。好久没发新项目了。",
-        "link": "https://x.com/0xleng1/status/2079192792866468018"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082489395655884940",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "短期急速调整比长期熊市简单多了，比如20年VS 22年，你们觉得哪个更难？",
-      "contentHtml": "短期急速调整比长期熊市简单多了，比如20年VS 22年，你们觉得哪个更难？",
-      "publishedAt": "2026-07-29T15:32:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2082489395655884940",
-      "quote": {
-        "username": "MikeliuAsdsf",
-        "displayName": "mikeliu",
-        "content": "市场对软件还是仁慈的，缓慢下跌了大半年。对半导体是一个月让你腰斩",
-        "contentHtml": "市场对软件还是仁慈的，缓慢下跌了大半年。对半导体是一个月让你腰斩",
-        "link": "https://x.com/MikeliuAsdsf/status/2082483691784487068"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082484359638995027",
-      "username": "paulbrigner",
-      "displayName": "Paul Brigner 🛡️",
-      "avatar": "https://pbs.twimg.com/profile_images/2031148069933174784/Y6egkRMe_bigger.jpg",
-      "content": "",
-      "contentHtml": "",
-      "publishedAt": "2026-07-29T15:12:00.000Z",
-      "link": "https://x.com/paulbrigner/status/2082484359638995027",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082479377858863387",
-      "username": "JoshuaDeuk",
-      "displayName": "Joshua | MOZAIK 🇰🇷",
-      "avatar": "https://pbs.twimg.com/profile_images/1801869779344703488/LfOPOolq_bigger.jpg",
-      "content": "The highest +EV trade right now is probably twap long  long the annihilated memory stocks from now till just before the  FOMC.\ngrowth sector (especially memory names) has been getting murdered since Warsh’s first FOMC statement\nbecause of the Fed’s hawkish tone\n\ngood nfp and CPI didnt change the hawkish stance \n\nso if we actually dont hike  than the uncertainty disapeears which will bring all the unwinded capital back to growth sector .\n\n That sets up an asymmetric risk-reward: buy the beaten-down memory stocks just ahead of the meeting and cut if we actually hike",
-      "contentHtml": "The highest +EV trade right now is probably twap long  long the annihilated memory stocks from now till just before the  FOMC.\ngrowth sector (especially memory names) has been getting murdered since Warsh’s first FOMC statement\nbecause of the Fed’s hawkish tone\n\ngood nfp and CPI didnt change the hawkish stance \n\nso if we actually dont hike  than the uncertainty disapeears which will bring all the unwinded capital back to growth sector .\n\n That sets up an asymmetric risk-reward: buy the beaten-down memory stocks just ahead of the meeting and cut if we actually hike",
-      "publishedAt": "2026-07-29T14:52:00.000Z",
-      "link": "https://x.com/JoshuaDeuk/status/2082479377858863387",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082478571910504855",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "你敢想象体感熊市的市场，软件异常坚挺吗？故事线都是建立在仓位上面。估值合理/低，故事线总会轮动到你头上，上半年软件的情绪面可不比现在的芯片好哪去，甚至更差",
-      "contentHtml": "你敢想象体感熊市的市场，软件异常坚挺吗？故事线都是建立在仓位上面。估值合理/低，故事线总会轮动到你头上，上半年软件的情绪面可不比现在的芯片好哪去，甚至更差",
-      "publishedAt": "2026-07-29T14:49:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2082478571910504855",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082478142443446307",
-      "username": "boundaryhq",
-      "displayName": "boundary",
-      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
-      "content": "基于自由现金流因子的指数etf vflo今日再度上涨1.2%，市场风格转换的时候就是这么割裂\n一边是半导体跌的爆仓的爆仓，一边是持续的上涨\n$MU $SNDK $VFLO",
-      "contentHtml": "基于自由现金流因子的指数etf vflo今日再度上涨1.2%，市场风格转换的时候就是这么割裂\n一边是半导体跌的爆仓的爆仓，一边是持续的上涨\n<a href=\"/search?f=tweets&q=%23MU\">$MU</a> <a href=\"/search?f=tweets&q=%23SNDK\">$SNDK</a> <a href=\"/search?f=tweets&q=%23VFLO\">$VFLO</a>",
-      "publishedAt": "2026-07-29T14:47:00.000Z",
-      "link": "https://x.com/boundaryhq/status/2082478142443446307",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOZyemMaEAAU-7r.jpg"
-        }
-      ],
-      "quote": {
-        "username": "boundaryhq",
-        "displayName": "boundary",
-        "content": "基于自由现金流因子的指数etf vflo今日上涨1.52%，再创新高。\n信息技术占比：22.95%\n能源行业占比：22.56%\n医疗行业占比：21.54%\n可选消费占比：10.82%\n$VFLO $DVN",
-        "contentHtml": "基于自由现金流因子的指数etf vflo今日上涨1.52%，再创新高。\n信息技术占比：22.95%\n能源行业占比：22.56%\n医疗行业占比：21.54%\n可选消费占比：10.82%\n<a href=\"/search?f=tweets&q=%23VFLO\">$VFLO</a> <a href=\"/search?f=tweets&q=%23DVN\">$DVN</a>",
-        "link": "https://x.com/boundaryhq/status/2082105944063008869",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOUfuE3bYAEDHjm.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOUfxVpaMAAMkSz.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082477685985677461",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "有意思，还做了表格数据去算。\n\n其实只要看现象就能得出一定结论了：\n\n所有外国人里，只有低收入人群、和财务自由人群不会抱怨日本，说明日本只适合这两种外国人。\n\n说白了，高端一点的泰国。\n\n使劲造，挺好的。",
-      "contentHtml": "有意思，还做了表格数据去算。\n\n其实只要看现象就能得出一定结论了：\n\n所有外国人里，只有低收入人群、和财务自由人群不会抱怨日本，说明日本只适合这两种外国人。\n\n说白了，高端一点的泰国。\n\n使劲造，挺好的。",
-      "publishedAt": "2026-07-29T14:45:00.000Z",
-      "link": "https://x.com/taresky/status/2082477685985677461",
-      "quote": {
-        "username": "ichijisaru",
-        "displayName": "一次猿",
-        "content": "最近很多人在讨论日本工作收入的性价比，以及二润或者回国的问题。\n\n我制作了一个表格数据给大家参考。\n--------------------------------------------------\n先解释下原理：\n・我按照日本的收入，换算成人民币，然后除以1.77 ，得到在中国的等效购买力。\n但是中国各个城市的物价差异非常大，建议可以去 Numbeo 输入自己的城市和日本对比。\n\n・在国外工作肯定是有学习语言，异地气候，人文饮食不适应等等负面问题和成本。所以在日本的收入应该至少是在中国的2倍，才有合适的性价比。\n\n  2倍收入差-1.77倍物价差= 0.23倍 为实际收入提升收益\n  如果想更安全，建议需要提升3倍。\n--------------------------------------------------\n介绍下使用方法：\n・如果在中国还没出国，那就打开日本的 indeed、doda、マイナビ等求职网站，找到你想要找的工作岗位，看下这个岗位在日本的薪资水平大概在哪个区间。是否比在中国的工作高2~3倍以上。\n\n・如果在日本考虑回国，那就打开中国的求职网站，看下中国对用的工作岗位的薪资即可。\n--------------------------------------------------\n当然有岗位和能找否真的找到工作是两回事。这个只能自行判断。",
-        "contentHtml": "最近很多人在讨论日本工作收入的性价比，以及二润或者回国的问题。\n\n我制作了一个表格数据给大家参考。\n--------------------------------------------------\n先解释下原理：\n・我按照日本的收入，换算成人民币，然后除以1.77 ，得到在中国的等效购买力。\n但是中国各个城市的物价差异非常大，建议可以去 Numbeo 输入自己的城市和日本对比。\n\n・在国外工作肯定是有学习语言，异地气候，人文饮食不适应等等负面问题和成本。所以在日本的收入应该至少是在中国的2倍，才有合适的性价比。\n\n  2倍收入差-1.77倍物价差= 0.23倍 为实际收入提升收益\n  如果想更安全，建议需要提升3倍。\n--------------------------------------------------\n介绍下使用方法：\n・如果在中国还没出国，那就打开日本的 indeed、doda、マイナビ等求职网站，找到你想要找的工作岗位，看下这个岗位在日本的薪资水平大概在哪个区间。是否比在中国的工作高2~3倍以上。\n\n・如果在日本考虑回国，那就打开中国的求职网站，看下中国对用的工作岗位的薪资即可。\n--------------------------------------------------\n当然有岗位和能找否真的找到工作是两回事。这个只能自行判断。",
-        "link": "https://x.com/ichijisaru/status/2081739204468560363",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOPObUQb0AAmLs1.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082477282526900260",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "If you didn’t long $MU and are still alive, please send some food 🙏",
-      "contentHtml": "If you didn’t long <a href=\"/search?f=tweets&q=%23MU\">$MU</a> and are still alive, please send some food 🙏",
-      "publishedAt": "2026-07-29T14:44:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2082477282526900260",
-      "quote": {
-        "username": "Cbb0fe",
-        "displayName": "CBB",
-        "content": "If you are not longing $MU here, kill yourself",
-        "contentHtml": "If you are not longing <a href=\"/search?f=tweets&q=%23MU\">$MU</a> here, kill yourself",
-        "link": "https://x.com/Cbb0fe/status/2082321243563323599"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082477207126196373",
-      "username": "boundaryhq",
-      "displayName": "boundary",
-      "avatar": "https://pbs.twimg.com/profile_images/1572240794265985024/V5q6mkyy_bigger.jpg",
-      "content": "最近1个月看似半导体板块跌幅巨大，但实际上纳指100与标普500指数成分股位于50均线以上的占比还是提高的，大部分股票还在上涨，跌的只是半导体板块\n当然盈亏同源，不持有半导体也享受不了4-6月的大涨\n$MU $SNDK",
-      "contentHtml": "最近1个月看似半导体板块跌幅巨大，但实际上纳指100与标普500指数成分股位于50均线以上的占比还是提高的，大部分股票还在上涨，跌的只是半导体板块\n当然盈亏同源，不持有半导体也享受不了4-6月的大涨\n<a href=\"/search?f=tweets&q=%23MU\">$MU</a> <a href=\"/search?f=tweets&q=%23SNDK\">$SNDK</a>",
-      "publishedAt": "2026-07-29T14:43:00.000Z",
-      "link": "https://x.com/boundaryhq/status/2082477207126196373",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOZxcqgaoAAaF8e.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOZxgoxbUAAzyMq.jpg"
-        }
-      ],
-      "quote": {
-        "username": "boundaryhq",
-        "displayName": "boundary",
-        "content": "基于自由现金流因子的指数etf vflo今日上涨1.52%，再创新高。\n信息技术占比：22.95%\n能源行业占比：22.56%\n医疗行业占比：21.54%\n可选消费占比：10.82%\n$VFLO $DVN",
-        "contentHtml": "基于自由现金流因子的指数etf vflo今日上涨1.52%，再创新高。\n信息技术占比：22.95%\n能源行业占比：22.56%\n医疗行业占比：21.54%\n可选消费占比：10.82%\n<a href=\"/search?f=tweets&q=%23VFLO\">$VFLO</a> <a href=\"/search?f=tweets&q=%23DVN\">$DVN</a>",
-        "link": "https://x.com/boundaryhq/status/2082105944063008869",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOUfuE3bYAEDHjm.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOUfxVpaMAAMkSz.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
