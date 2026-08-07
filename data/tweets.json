@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T06:11:07.557Z",
+  "lastUpdated": "2026-08-07T08:17:01.945Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,112 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 587,
-    "successUsers": 29,
-    "failedUsers": 3
+    "newFetched": 649,
+    "successUsers": 32,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2085628967462240654",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "今晚的非农和失业率很重要，决定了未来一段时间的交易方向。",
+      "contentHtml": "今晚的非农和失业率很重要，决定了未来一段时间的交易方向。",
+      "publishedAt": "2026-08-07T07:27:00.000Z",
+      "link": "https://x.com/yuren477/status/2085628967462240654",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPGke_qbkAAMugl.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085626189440528472",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "沪爷冲金\n\n$xau",
+      "contentHtml": "沪爷冲金\n\n<a href=\"/search?f=tweets&q=%23xau\">$xau</a>",
+      "publishedAt": "2026-08-07T07:16:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2085626189440528472",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPGh9W1bYAAHLVu.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085621122796794218",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "关于英伟达RubinUltra上HBM减配，之前这里nitter.net/qinbafrank/status/2083…、今天TheInformation也报道了，再聊聊：\n1、英伟达预览给大客户的主流SKU已偏向更低内存（例如192GB 8-Hi HBM4，甚至低于标准Rubin的288GB 12-Hi），同时保持相近的峰值算力（约35 PFLOPS），功耗主流控制在1800W左右。\n\n之前在这里nitter.net/qinbafrank/status/2083…聊到，如果Ultra版本的hbm配置低于Vera rubin标准版，标准版（Vera Rubin）优势明显就显现出来了：它已进入量产，7月陆续向AWS、Google、Microsoft、Oracle、CoreWeave等8家CSP大规模交付。内存规格更“正常”（288GB HBM4级别），单价和系统复杂度更可控，适合快速扩容。Ultra如果内存进一步减配（甚至低于标准版），对内存敏感的大型模型训练/推理，单卡有效容量下降，CSP自然会倾向先用更多标准版来堆量。\n\n2、减配核心原因还是供给不够、而非需求问题。TrendForce 指出2027年整体DRAM供应仍会紧张，晶圆分配给HBM的空间有限，加上HBM4E（尤其是更高层数如12-Hi/16-Hi）的验证、良率和量产进度存在不确定性。\n\n产能真正明显缓解要到2027下半年至2028年（SK Hynix、Samsung等新厂/扩产陆续释放，SK Hynix计划5年晶圆产能翻倍，但新产能落地有滞后）\n\n3、减配直接推高对“更多GPU”的需求：更低HBM意味着模型可能放不下、或需要更多切分/流水线，最终要用更多卡才能达到同等有效算力或吞吐。这会放大总GPU采购量，也抬高系统TCO。\n\n那么未来CSP云厂采购最多的估计还是标准版。\n\n4、减配也利好互连\n如果CSP买更多标准版或低配Ultra，机架间/机柜间互连带宽、延迟、软件调度（NVLink域扩展、集体通信）会更吃紧。Nvidia也在强化这方面（更高代NVSwitch、CPO光学等）。\n\nHBM短缺把压力从“内存”部分转移到“互连+系统软件+电力/冷却”上。CSP的采购策略会更看重“能高效互联多少卡”，而不是单卡规格有多猛。\n\n总结\nHBM短缺是结构性的（至少到2027-2028），达子用减配换出货量其实是理性选择，这会让标准Vera Rubin在2026-2027成为CSP的“主力军”，Ultra更多扮演“大规模互联优化版”。互连（NVLink生态）的重要性会被进一步放大，成为下一阶段差异化关键。",
+      "contentHtml": "关于英伟达RubinUltra上HBM减配，之前这里<a href=\"https://nitter.net/qinbafrank/status/2083890594796257652?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2083…</a>、今天TheInformation也报道了，再聊聊：\n1、英伟达预览给大客户的主流SKU已偏向更低内存（例如192GB 8-Hi HBM4，甚至低于标准Rubin的288GB 12-Hi），同时保持相近的峰值算力（约35 PFLOPS），功耗主流控制在1800W左右。\n\n之前在这里<a href=\"https://nitter.net/qinbafrank/status/2083917947731578909?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2083…</a>聊到，如果Ultra版本的hbm配置低于Vera rubin标准版，标准版（Vera Rubin）优势明显就显现出来了：它已进入量产，7月陆续向AWS、Google、Microsoft、Oracle、CoreWeave等8家CSP大规模交付。内存规格更“正常”（288GB HBM4级别），单价和系统复杂度更可控，适合快速扩容。Ultra如果内存进一步减配（甚至低于标准版），对内存敏感的大型模型训练/推理，单卡有效容量下降，CSP自然会倾向先用更多标准版来堆量。\n\n2、减配核心原因还是供给不够、而非需求问题。TrendForce 指出2027年整体DRAM供应仍会紧张，晶圆分配给HBM的空间有限，加上HBM4E（尤其是更高层数如12-Hi/16-Hi）的验证、良率和量产进度存在不确定性。\n\n产能真正明显缓解要到2027下半年至2028年（SK Hynix、Samsung等新厂/扩产陆续释放，SK Hynix计划5年晶圆产能翻倍，但新产能落地有滞后）\n\n3、减配直接推高对“更多GPU”的需求：更低HBM意味着模型可能放不下、或需要更多切分/流水线，最终要用更多卡才能达到同等有效算力或吞吐。这会放大总GPU采购量，也抬高系统TCO。\n\n那么未来CSP云厂采购最多的估计还是标准版。\n\n4、减配也利好互连\n如果CSP买更多标准版或低配Ultra，机架间/机柜间互连带宽、延迟、软件调度（NVLink域扩展、集体通信）会更吃紧。Nvidia也在强化这方面（更高代NVSwitch、CPO光学等）。\n\nHBM短缺把压力从“内存”部分转移到“互连+系统软件+电力/冷却”上。CSP的采购策略会更看重“能高效互联多少卡”，而不是单卡规格有多猛。\n\n总结\nHBM短缺是结构性的（至少到2027-2028），达子用减配换出货量其实是理性选择，这会让标准Vera Rubin在2026-2027成为CSP的“主力军”，Ultra更多扮演“大规模互联优化版”。互连（NVLink生态）的重要性会被进一步放大，成为下一阶段差异化关键。",
+      "publishedAt": "2026-08-07T06:56:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2085621122796794218",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPGdWulbcAA-0yg.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "聊聊看好光互连的逻辑，7月中旬和下旬分别聊到之后看好美股的板块，已经爆发的是（CSP、软件、光互连），CSP/软件看好逻辑在7月中长文nitter.net/qinbafrank/status/2076…聊的很充分。今天聊聊为什么看好光互连？催化剂是什么？\n\n再回头看，光互连板块是这一波半导体调整最早调整时间最久的板块，个人角度5月中nitter.net/qinbafrank/status/2060…伯恩斯坦的报告说CPO兑现没那么快，今年还是看光模块、连接。在那之后，光的板块都开始调整，美股只有连接还不错。\n\n而近期催化剂个人看是两点：\n1）“英伟达高级副总裁 Gilad Shainer在最近的一个技术论坛上宣布，CPO 已开始量产。Nvidia 与其供应链合作开发的交换机已交付给紧密客户，并正在 Nvidia自身的设施中部署。预计今年将有大量采用 CPO 技术的交换机引入全球的 AI 工厂；\n2）Lumentum首席执行官Michael Hurlston表示，AI的磷化铟激光器短缺将比内存危机更严重。\n\n怎么看这个逻辑：\n1）cpo开始交付那意味着市场应该会去预期随着量产交付，cpo应该会慢慢起量，业务兑现开始落地；\n2）磷化烟短缺、市场对于短缺还是有肌肉记忆的；\n3）光调整的早调整的时间够久，半导体都集中在存储，最近这段时间对于光互连大家其实聊的很少，那就意味着有预期差；\n4）超大CSP的财报初步证明了资本开支ROIC，数据中心的建设会很快。万卡集群互连、大规模数据中心互连需求其实在进一步爆发。\n\n总结就是\nAI数据中心光互连需求真实且加速，全产业链已从“需求验证”进入“供应瓶颈”阶段；NVIDIA CPO正式量产是历史性信号，短期（至少至2027年）与可插拔光模块共存，最终瓶颈锁定在磷化铟（InP）激光芯片产能。\n\n技术路线时间表\n1）Scale-up（机架内）：铜缆/可插拔为主。\n2）Scale-out（跨机架/跨数据中心）：CPO率先渗透（功耗从30W→9W/端口，带宽大幅提升）。\n3）共存窗口：可插拔主导未来18-24个月；CPO与可插拔非零和，至少到2027年。\n\n“需求已被全链条验证，瓶颈在InP激光；谁能自产/扩产最快、供应链最安全，谁就吃到最大弹性。”\n\n未来两周是光互连领域公司密集财报，如果财报进一步被验证，可能会是一个催化剂窗口。\n\n$MRVL $LITE $COHR $AXTI $AAOI $GFS $LAZR $FOTO $NOK\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "聊聊看好光互连的逻辑，7月中旬和下旬分别聊到之后看好美股的板块，已经爆发的是（CSP、软件、光互连），CSP/软件看好逻辑在7月中长文<a href=\"https://nitter.net/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2076…</a>聊的很充分。今天聊聊为什么看好光互连？催化剂是什么？\n\n再回头看，光互连板块是这一波半导体调整最早调整时间最久的板块，个人角度5月中<a href=\"https://nitter.net/qinbafrank/status/2060560681984991697?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2060…</a>伯恩斯坦的报告说CPO兑现没那么快，今年还是看光模块、连接。在那之后，光的板块都开始调整，美股只有连接还不错。\n\n而近期催化剂个人看是两点：\n1）“英伟达高级副总裁 Gilad Shainer在最近的一个技术论坛上宣布，CPO 已开始量产。Nvidia 与其供应链合作开发的交换机已交付给紧密客户，并正在 Nvidia自身的设施中部署。预计今年将有大量采用 CPO 技术的交换机引入全球的 AI 工厂；\n2）Lumentum首席执行官Michael Hurlston表示，AI的磷化铟激光器短缺将比内存危机更严重。\n\n怎么看这个逻辑：\n1）cpo开始交付那意味着市场应该会去预期随着量产交付，cpo应该会慢慢起量，业务兑现开始落地；\n2）磷化烟短缺、市场对于短缺还是有肌肉记忆的；\n3）光调整的早调整的时间够久，半导体都集中在存储，最近这段时间对于光互连大家其实聊的很少，那就意味着有预期差；\n4）超大CSP的财报初步证明了资本开支ROIC，数据中心的建设会很快。万卡集群互连、大规模数据中心互连需求其实在进一步爆发。\n\n总结就是\nAI数据中心光互连需求真实且加速，全产业链已从“需求验证”进入“供应瓶颈”阶段；NVIDIA CPO正式量产是历史性信号，短期（至少至2027年）与可插拔光模块共存，最终瓶颈锁定在磷化铟（InP）激光芯片产能。\n\n技术路线时间表\n1）Scale-up（机架内）：铜缆/可插拔为主。\n2）Scale-out（跨机架/跨数据中心）：CPO率先渗透（功耗从30W→9W/端口，带宽大幅提升）。\n3）共存窗口：可插拔主导未来18-24个月；CPO与可插拔非零和，至少到2027年。\n\n“需求已被全链条验证，瓶颈在InP激光；谁能自产/扩产最快、供应链最安全，谁就吃到最大弹性。”\n\n未来两周是光互连领域公司密集财报，如果财报进一步被验证，可能会是一个催化剂窗口。\n\n<a href=\"/search?f=tweets&q=%23MRVL\">$MRVL</a> <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a> <a href=\"/search?f=tweets&q=%23COHR\">$COHR</a> <a href=\"/search?f=tweets&q=%23AXTI\">$AXTI</a> <a href=\"/search?f=tweets&q=%23AAOI\">$AAOI</a> <a href=\"/search?f=tweets&q=%23GFS\">$GFS</a> <a href=\"/search?f=tweets&q=%23LAZR\">$LAZR</a> <a href=\"/search?f=tweets&q=%23FOTO\">$FOTO</a> <a href=\"/search?f=tweets&q=%23NOK\">$NOK</a>\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2084449500744319334",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO1zxNTa8AEBx5-.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO1zxNebYAAUF70.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085610382270357529",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Word of advice: \n\nWhen $BTC breaks out of this macro downtrend, whatever you do, don't fade the breakout.\n\nI saw alot of people do the same thing last cycle aswell. Overcomplicating something relatively simple. The best confirmations for trend shifts are always on the weekly.",
+      "contentHtml": "Word of advice: \n\nWhen <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> breaks out of this macro downtrend, whatever you do, don't fade the breakout.\n\nI saw alot of people do the same thing last cycle aswell. Overcomplicating something relatively simple. The best confirmations for trend shifts are always on the weekly.",
+      "publishedAt": "2026-08-07T06:13:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2085610382270357529",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPGTMqtWwAA6uF-.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2085607346995368157",
       "username": "Murphychen888",
@@ -157,6 +258,34 @@
           "url": "https://pbs.twimg.com/media/HPGHYtFW4AEYJYZ.jpg"
         }
       ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085594270447321512",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "中文区天天宣传 u 理财的不是蠢就是坏\n\n这他妈 u 都从 7.1 跌到 6.69 了\n理你妈逼的理   \n\n7 以上使劲儿出金才是对的  放币圈理财是蠢狗\n#usdt",
+      "contentHtml": "中文区天天宣传 u 理财的不是蠢就是坏\n\n这他妈 u 都从 7.1 跌到 6.69 了\n理你妈逼的理   \n\n7 以上使劲儿出金才是对的  放币圈理财是蠢狗\n<a href=\"/search?f=tweets&q=%23usdt\">#usdt</a>",
+      "publishedAt": "2026-08-07T05:09:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2085594270447321512",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "Short $USDCNH\n\nU理财的狗大户注意下",
+        "contentHtml": "Short <a href=\"/search?f=tweets&q=%23USDCNH\">$USDCNH</a>\n\nU理财的狗大户注意下",
+        "link": "https://x.com/Bitfatty/status/1983577023084949802",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/G4cUyZUbQAAFVba.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -2111,6 +2240,25 @@
             "url": "https://pbs.twimg.com/media/HO9Z_-Hb0AAMIbQ.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2085154066322079862",
+      "username": "thatsKAIZEN",
+      "displayName": "Kaizen D. Asiedu",
+      "avatar": "https://pbs.twimg.com/profile_images/1963017992775860229/iu3ASFeK_bigger.jpg",
+      "content": "This is seriously impressive and shows why Nayib Bukele is one of the most competent leaders in the world.\n\nHe has the right balance of intellect and common sense.",
+      "contentHtml": "This is seriously impressive and shows why Nayib Bukele is one of the most competent leaders in the world.\n\nHe has the right balance of intellect and common sense.",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "link": "https://x.com/thatsKAIZEN/status/2085154066322079862",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -12212,157 +12360,6 @@
       "contentHtml": "盘前微软变巨硬，META直接表演空中飞人，都是资本开支，为什么不一样？\n\n谷歌、微软、META三位“学生”先后交出了二季度财报的“考试成绩”，不约而同的提高了AI的开支预期，自由现金流也都在下降，但市场却给出了截然不同的反应。我们透过数字，看看到底是什么让市场对“三位学生”给出了截然不同的反馈\n\n简单说：AI的投入是否赚钱是表象，AI能否借助原有业务生态形成商业闭环\n\n优等生：微软\n微软有可能是当前将AI融入原有生态最好的一家巨头。\n微软从Windows和Office开始，就逐步拥有了巨量的企业客户，后续又通过云Azure，将企业客户牢牢绑定。微软的生态模式就是绑定付费企业客户，而且是“订阅模式”的客户，不是一锤子买卖\n拥有了“获取企业客户的抓手”，二季度财报披露Copilot付费用户超过3000万，这是实打实的收入，Copilot的商业模式得到了验证，开始形成商业闭环\n激进的资本开支和下降的自由现金流，在飞速增长的AI收入面前，不值一提\n\n合格生：谷歌\n如果说微软已经验证了AI可以创造收入，那么谷歌目前还停留在“验证”阶段。\n谷歌二季度财报中披露Gemini的月活用户达到9.5亿，API调用增加37%左右，云收入增长82%甚至高于微软的43%，但这些数字只能证明用谷歌AI的人在增加，还没有将商业模式完整落地\n市场仍然会追问：什么时候AI开始变现？\n\n差等生：META\n二季度财报说：广告业务继续增长、社交软件用户持续增加。So？和AI有啥关系？除了提升广告效率，目前还没看到其他实质效果。\n在某种程度上，在美股巨头中，META的生态和AI是最难形成商业闭环，也就是最难直接收费的。META的收入来自广告，优势在于App的使用人群遍布世界，扎克伯格致力于将AI打造成“陪伴用户的全天候伙伴”，META缺的不是生态，是变现模式。\n但理想是丰满的，商业逻辑是骨干的。过长的变现链条、不确定的收入模式，导致META的资本开支就只是花钱，却听不见回响\n市场问的只会更直白：如何赚钱？\n\n下面我们将重点期待亚马逊的二季度财报，看看亚马逊的表现\n<a href=\"/search?f=tweets&q=%23GOOG\">#GOOG</a> <a href=\"/search?f=tweets&q=%23MSFT\">#MSFT</a> <a href=\"/search?f=tweets&q=%23META\">#META</a> <a href=\"/search?f=tweets&q=%23AMZN\">#AMZN</a>",
       "publishedAt": "2026-07-30T10:17:00.000Z",
       "link": "https://x.com/dongbimao/status/2082772558064329201",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082769491222761758",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "真正的熊底在哪里？没有人能100%肯定。\n\n很多时候我们都被困在自己的执念当中，总希望追求极致价位，让利润最大化。\n\n作为一名依赖数据和指标搭建交易体系的投资者，我也时常会陷入迷茫和自我否定中。\n\n就比如对于预判熊底这件事来说：\n\n如果说已经见底了，我可以举出各项完备的数据和案例，比如PSIP低于50%，实现亏损底背离等等。\n\n如果说还未见底，我知道确实有一些历史上常见的底部特征还没出现。比如价格还未低于LTH-RP，NUPL还未进投降区等等。 \n\n如果空仓，我的执念就是后者，满脑子期待的画面就是BTC到5万，等全部条件满足，一把梭哈。\n\n如果满仓，我的执念就是前者，接下来就去带着良好的持仓体验，一直拿到下轮高点，自由退出。\n\n可惜没有如果，有的只是此时此刻我们的选择！\n\n所以，今天我们不看刻舟求剑的各类指标，就从最原始的数据出发，抽丝剥茧，尽可能还原数据背后的真实情景。\n\n找到未来那个模糊的方向，并做出相对正确的决定。\n\n放下执念，与自己和解…",
-      "contentHtml": "真正的熊底在哪里？没有人能100%肯定。\n\n很多时候我们都被困在自己的执念当中，总希望追求极致价位，让利润最大化。\n\n作为一名依赖数据和指标搭建交易体系的投资者，我也时常会陷入迷茫和自我否定中。\n\n就比如对于预判熊底这件事来说：\n\n如果说已经见底了，我可以举出各项完备的数据和案例，比如PSIP低于50%，实现亏损底背离等等。\n\n如果说还未见底，我知道确实有一些历史上常见的底部特征还没出现。比如价格还未低于LTH-RP，NUPL还未进投降区等等。 \n\n如果空仓，我的执念就是后者，满脑子期待的画面就是BTC到5万，等全部条件满足，一把梭哈。\n\n如果满仓，我的执念就是前者，接下来就去带着良好的持仓体验，一直拿到下轮高点，自由退出。\n\n可惜没有如果，有的只是此时此刻我们的选择！\n\n所以，今天我们不看刻舟求剑的各类指标，就从最原始的数据出发，抽丝剥茧，尽可能还原数据背后的真实情景。\n\n找到未来那个模糊的方向，并做出相对正确的决定。\n\n放下执念，与自己和解…",
-      "publishedAt": "2026-07-30T10:05:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2082769491222761758",
-      "quote": {
-        "username": "qu_arron",
-        "displayName": "AaronYY",
-        "content": "今天这个有点返璞归真的感觉了，从本质来看 价格是交易买卖的结果。随着btc越来越成熟、lth也会越来越多，这一点是符合观察结果的",
-        "contentHtml": "今天这个有点返璞归真的感觉了，从本质来看 价格是交易买卖的结果。随着btc越来越成熟、lth也会越来越多，这一点是符合观察结果的",
-        "link": "https://x.com/qu_arron/status/2082723162748538930"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082768263579353565",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2085191114496311296/II9mvaaN_bigger.jpg",
-      "content": "逆天了arc官方把昨天跨链去arc的人都拉黑了？🤔你好歹把钱还给兄弟们吧 @arc",
-      "contentHtml": "逆天了arc官方把昨天跨链去arc的人都拉黑了？🤔你好歹把钱还给兄弟们吧 <a href=\"/arc\" title=\"Arc\">@arc</a>",
-      "publishedAt": "2026-07-30T10:00:00.000Z",
-      "link": "https://x.com/0xleng1/status/2082768263579353565",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOd6sX0a0AAreOK.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082765876307394796",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/2080503582848339968/kzUeyNDZ_bigger.jpg",
-      "content": "这种图你要是炒eth买不买\n换了个名字给兄弟们都骗进去杀了",
-      "contentHtml": "这种图你要是炒eth买不买\n换了个名字给兄弟们都骗进去杀了",
-      "publishedAt": "2026-07-30T09:50:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2082765876307394796",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOd4hAtboAAC5yr.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082763372538323450",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "韩股会再度禁止卖空么？看韩联社报道韩国交易所（KRX）于7月29日下午内部检查了临时禁止卖空交易和缩小价格限制幅度（当前±30%）​的技术可行性及系统所需时间，作为应对近期股市剧烈波动的应急手段排查。知情人士明确称“仅确认了技术上可行”，并非以实施为前提。交易所官方回应称未收到政府相关请求，也未正式讨论卖空禁令（卖空禁令并非交易所可自行决定的事项）。\n\n之前国会政务委员会上有议员呼吁临时禁止卖空并重启证券市场稳定基金；国民同意请愿两天内超1万人签名支持暂停卖空。但全面禁止卖空与韩国推进MSCI发达市场指数纳入目标冲突——此前2023年11月至2025年3月约17个月的禁令曾导致MSCI下调韩国市场准入评级，禁令解除后才恢复。\n\n1、禁止卖空可行么？\n韩股临时禁止卖空交易，技术上高度可行，且有丰富先例。 韩国历史上多次实施过全面或局部卖空禁令（2008年金融危机、2011年欧债危机、2020年疫情、2023年11月–2025年3月等）。交易系统本身已具备拒绝“卖空标记订单”的功能。历史上禁令可在数日内甚至更快落地（监管决策后系统配置通常很快）。\n\n卖空禁令的决定权在金融委员会（FSC）等监管机构，而非交易所单独行动。交易所只能执行。此外，禁令会冲击流动性、价格发现功能，并可能再次触发MSCI等国际指数评级风险，因此即使技术可行，政策门槛很高。\n\n2. 缩小价格限制幅度（从当前±30%收窄）\n技术上同样可行，属于系统参数调整。 韩国股票每日价格限制（上/下限）由KRX交易系统根据基准价（通常为前收盘价）计算并实时执行：订单超出限制直接被拒绝。\n\n收窄限制可抑制单日极端跌幅，但会延迟价格发现、增加“触板”后的次日跳空风险，并可能加剧流动性枯竭。杠杆ETF等产品的价格限制通常按倍数放大（如2倍杠杆ETF为±60%），收窄基础限制时也需同步处理。\n\n简单说禁止卖空和价格限制调整技术上完全可行：\n卖空禁令是“开关式”操作，历史验证充分；\n价格限制调整是参数变更，2015年扩限经验可参考（反向操作更轻量）。\n\n但实施门槛远高于技术：一方面要看监管层的意愿有多大。另一方面还要看考虑国际声誉（特别是上一次韩股禁止卖空时就被MSCI下调评级了）\n\n昨晚推文还聊到真正的救市动作是平准基金入场、央行提供流动性、韩国机构及养老金加大购买力度，还有两年前干过的完全禁止卖空。\n\n就看韩国监管层的意愿了\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "韩股会再度禁止卖空么？看韩联社报道韩国交易所（KRX）于7月29日下午内部检查了临时禁止卖空交易和缩小价格限制幅度（当前±30%）​的技术可行性及系统所需时间，作为应对近期股市剧烈波动的应急手段排查。知情人士明确称“仅确认了技术上可行”，并非以实施为前提。交易所官方回应称未收到政府相关请求，也未正式讨论卖空禁令（卖空禁令并非交易所可自行决定的事项）。\n\n之前国会政务委员会上有议员呼吁临时禁止卖空并重启证券市场稳定基金；国民同意请愿两天内超1万人签名支持暂停卖空。但全面禁止卖空与韩国推进MSCI发达市场指数纳入目标冲突——此前2023年11月至2025年3月约17个月的禁令曾导致MSCI下调韩国市场准入评级，禁令解除后才恢复。\n\n1、禁止卖空可行么？\n韩股临时禁止卖空交易，技术上高度可行，且有丰富先例。 韩国历史上多次实施过全面或局部卖空禁令（2008年金融危机、2011年欧债危机、2020年疫情、2023年11月–2025年3月等）。交易系统本身已具备拒绝“卖空标记订单”的功能。历史上禁令可在数日内甚至更快落地（监管决策后系统配置通常很快）。\n\n卖空禁令的决定权在金融委员会（FSC）等监管机构，而非交易所单独行动。交易所只能执行。此外，禁令会冲击流动性、价格发现功能，并可能再次触发MSCI等国际指数评级风险，因此即使技术可行，政策门槛很高。\n\n2. 缩小价格限制幅度（从当前±30%收窄）\n技术上同样可行，属于系统参数调整。 韩国股票每日价格限制（上/下限）由KRX交易系统根据基准价（通常为前收盘价）计算并实时执行：订单超出限制直接被拒绝。\n\n收窄限制可抑制单日极端跌幅，但会延迟价格发现、增加“触板”后的次日跳空风险，并可能加剧流动性枯竭。杠杆ETF等产品的价格限制通常按倍数放大（如2倍杠杆ETF为±60%），收窄基础限制时也需同步处理。\n\n简单说禁止卖空和价格限制调整技术上完全可行：\n卖空禁令是“开关式”操作，历史验证充分；\n价格限制调整是参数变更，2015年扩限经验可参考（反向操作更轻量）。\n\n但实施门槛远高于技术：一方面要看监管层的意愿有多大。另一方面还要看考虑国际声誉（特别是上一次韩股禁止卖空时就被MSCI下调评级了）\n\n昨晚推文还聊到真正的救市动作是平准基金入场、央行提供流动性、韩国机构及养老金加大购买力度，还有两年前干过的完全禁止卖空。\n\n就看韩国监管层的意愿了\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-07-30T09:40:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2082763372538323450",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOd2Pp3aIAAUKaN.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "今天召开紧急会议后，韩国财政部表示，韩国承诺采取更多措施以稳定股市，将采取措施限制杠杆ETF交易。韩国将维持24小时股票市场监测系统，并为紧急情况下实施市场稳定措施建立法律依据。同时韩国将加强对杠杆ETF交易的监管，限制散户投资者对杠杆ETF的投资敞口，立即推出针对单只股票杠杆ETF的额外监管措施，并提高相关交易成本，以遏制ETF投机行为。还是在稳秩序，并不是救价格、现在韩国监管层还是要让市场自己出清。\n\n有几点让韩国监管层有底气不直接救指数？\n1）汇率并没有同步失控\n韩元今天反而升值，说明尚未出现股市、外汇和美元流动性同时恶化的系统性危机。政策部门更有空间先处理杠杆和市场机制，而不是立即动用国家资金托住股票价格。 \n\n2）市场仍存在承接力量\n韩国机构今天净买入约3.15万亿韩元，外资同时买入KOSPI 200期货和KOSDAQ现货，说明市场流动性虽然严重受损，但并未完全失灵。\n\n3）监管部门目前把主要问题归因于杠杆产品\n金融委员会此前公布的政策路径集中于保证金、投资者门槛、再平衡时点、流动性提供和个人投资总额限制。会议的公开议程也主要是追加杠杆产品补充措施，而不是直接讨论买入股票。 \n所以立即救价格会产生严重道德风险\n\n接下来韩股要稳住也得看本周五7月31号韩股监管新规生效后的情况\n1）新规切断新增抄底资金\n新规则不会强制现有投资者平仓，但会显著提高追加买入门槛。因此，直接影响不是“强制卖出”，而是：\n散户无法再轻易卖出普通股票后，当天立刻买入2倍杠杆产品；\n无法用股票、债券或ETF作为替代保证金；\n不能通过卖出款抵押贷款满足保证金要求；\n单一股票杠杆产品的新增资金流入会明显下降。\n\n2）明天7月30日可能出现异常的“最后交易窗口”\n由于新规7月31日生效，7月30日市场可能同时存在两股相反力量：部分散户可能抢在新规前最后追加杠杆产品；\n7月28日暴跌带来的融资强平和未结算应收款压力开始释放。\n\n3）中期偏利好：削弱“越跌越卖”的反馈循环\n保证金提高、当日资金循环受限、再平衡时间分散和净值偏离管理加强，会逐步降低之前负循环的强度：\n本股下跌\n→ 杠杆ETF净值下降\n→ 产品被迫减仓\n→ 本股进一步下跌\n→ 散户融资账户触发强平\n对中期市场稳定性是利好。\n\n真正救市动作是平准基金入场、央行提供流动性、韩国机构及养老金加大购买力度，还有两年前干过的完全禁止卖空。不过现在还没看到\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "contentHtml": "今天召开紧急会议后，韩国财政部表示，韩国承诺采取更多措施以稳定股市，将采取措施限制杠杆ETF交易。韩国将维持24小时股票市场监测系统，并为紧急情况下实施市场稳定措施建立法律依据。同时韩国将加强对杠杆ETF交易的监管，限制散户投资者对杠杆ETF的投资敞口，立即推出针对单只股票杠杆ETF的额外监管措施，并提高相关交易成本，以遏制ETF投机行为。还是在稳秩序，并不是救价格、现在韩国监管层还是要让市场自己出清。\n\n有几点让韩国监管层有底气不直接救指数？\n1）汇率并没有同步失控\n韩元今天反而升值，说明尚未出现股市、外汇和美元流动性同时恶化的系统性危机。政策部门更有空间先处理杠杆和市场机制，而不是立即动用国家资金托住股票价格。 \n\n2）市场仍存在承接力量\n韩国机构今天净买入约3.15万亿韩元，外资同时买入KOSPI 200期货和KOSDAQ现货，说明市场流动性虽然严重受损，但并未完全失灵。\n\n3）监管部门目前把主要问题归因于杠杆产品\n金融委员会此前公布的政策路径集中于保证金、投资者门槛、再平衡时点、流动性提供和个人投资总额限制。会议的公开议程也主要是追加杠杆产品补充措施，而不是直接讨论买入股票。 \n所以立即救价格会产生严重道德风险\n\n接下来韩股要稳住也得看本周五7月31号韩股监管新规生效后的情况\n1）新规切断新增抄底资金\n新规则不会强制现有投资者平仓，但会显著提高追加买入门槛。因此，直接影响不是“强制卖出”，而是：\n散户无法再轻易卖出普通股票后，当天立刻买入2倍杠杆产品；\n无法用股票、债券或ETF作为替代保证金；\n不能通过卖出款抵押贷款满足保证金要求；\n单一股票杠杆产品的新增资金流入会明显下降。\n\n2）明天7月30日可能出现异常的“最后交易窗口”\n由于新规7月31日生效，7月30日市场可能同时存在两股相反力量：部分散户可能抢在新规前最后追加杠杆产品；\n7月28日暴跌带来的融资强平和未结算应收款压力开始释放。\n\n3）中期偏利好：削弱“越跌越卖”的反馈循环\n保证金提高、当日资金循环受限、再平衡时间分散和净值偏离管理加强，会逐步降低之前负循环的强度：\n本股下跌\n→ 杠杆ETF净值下降\n→ 产品被迫减仓\n→ 本股进一步下跌\n→ 散户融资账户触发强平\n对中期市场稳定性是利好。\n\n真正救市动作是平准基金入场、央行提供流动性、韩国机构及养老金加大购买力度，还有两年前干过的完全禁止卖空。不过现在还没看到\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-        "link": "https://x.com/qinbafrank/status/2082473872901992707",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOZu8ZbbMAA7fxu.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082761035476566060",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "更新：这位看多勇士价值 652 万美元的美光 ($MU) 多单已经止损离场，最终持仓四小时亏损 48.5 万美元\n\n标普 500 和闪迪($SNDK) 多单仍在持有中，目前浮亏 27.8 万美元",
-      "contentHtml": "更新：这位看多勇士价值 652 万美元的美光 ($MU) 多单已经止损离场，最终持仓四小时亏损 48.5 万美元\n\n标普 500 和闪迪($SNDK) 多单仍在持有中，目前浮亏 27.8 万美元",
-      "publishedAt": "2026-07-30T09:31:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2082761035476566060",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOd0HbPbsAA7w74.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2082760411829719407",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "希望dip也一起来",
-      "contentHtml": "希望dip也一起来",
-      "publishedAt": "2026-07-30T09:29:00.000Z",
-      "link": "https://x.com/octopusycc/status/2082760411829719407",
-      "quote": {
-        "username": "ZixiStablestock",
-        "displayName": "Zixi@We're building Stablestock",
-        "content": "三星刚交出半导体史上最赚钱的一个季度，而韩股刚经历 2008 年以来最惨的一个月。\n这两件事同时发生，会不会是现在最大的机会？\n\n先说业绩，数字很夸张：单季营业利润 89.49 万亿韩元（约 620 亿美元），同比 +1814%，连续三个季度破纪录——这个季度全球赚钱最多的半导体公司，是三星。\n订单能见度更夸张：6-7 成产能要通过LTA提前卖掉，五大数据中心客户已签，还有五家 AI 客户在走最后流程。一签五年、滚动续约、先付多年期预付款——四分之一的钱已经到账，芯片还没交。周期股第一次长出了类订阅的现金流，这正是投资人去年希望看到公司能实现的场景。\n供需端管理层说得很直白：由于建厂+产能落地需要3年，考虑到27年ai的需求会更大，所以 2027 年会比现在更缺货。服务器 DRAM 现货价 7 月中旬以来涨了约 146%，韩国 DRAM 出口价同比 +523%。基本面没有任何问题。\n\n那股价为什么这么惨？\nKOSPI 6 月 19 日摸到 9,385 点（年内翻倍），一个月内跌了约 27%，多次单日暴跌 5-10% 触发熔断，波动率 2008 年以来最高。\n\n但拆开看，这是一场杠杆出清，不是基本面崩塌：\n▸ 6 月底保证金贷款余额冲到 38.6 万亿韩元历史新高\n▸ 高盛估计超 120 万个杠杆账户收到 margin call\n▸ 32-36 万个账户被强平——被洗出去的是杠杆抄底盘，不是长线资金\n投行的定性罕见一致：大摩和小摩都认为这是供需修正（杠杆 ETF 平仓 + 对冲基金降杠杆 + 外资抛售）。小摩测算 ETF 去杠杆已完成 75-90%，指数接近底部。到 7 月底，大摩、小摩、瑞银全部把 6,000 多点定义为买点。\n\n一边是史上最好的业绩、锁定未来五年的订单、越来越缺的货；一边是被强平砸出来的价格。\n基本面在创新高，筹码面在出清。这种错位，有可能成为好的抄底时机？\n\nStablestock即将在8月上线两个重要的新产品，敬请期待。",
-        "contentHtml": "三星刚交出半导体史上最赚钱的一个季度，而韩股刚经历 2008 年以来最惨的一个月。\n这两件事同时发生，会不会是现在最大的机会？\n\n先说业绩，数字很夸张：单季营业利润 89.49 万亿韩元（约 620 亿美元），同比 +1814%，连续三个季度破纪录——这个季度全球赚钱最多的半导体公司，是三星。\n订单能见度更夸张：6-7 成产能要通过LTA提前卖掉，五大数据中心客户已签，还有五家 AI 客户在走最后流程。一签五年、滚动续约、先付多年期预付款——四分之一的钱已经到账，芯片还没交。周期股第一次长出了类订阅的现金流，这正是投资人去年希望看到公司能实现的场景。\n供需端管理层说得很直白：由于建厂+产能落地需要3年，考虑到27年ai的需求会更大，所以 2027 年会比现在更缺货。服务器 DRAM 现货价 7 月中旬以来涨了约 146%，韩国 DRAM 出口价同比 +523%。基本面没有任何问题。\n\n那股价为什么这么惨？\nKOSPI 6 月 19 日摸到 9,385 点（年内翻倍），一个月内跌了约 27%，多次单日暴跌 5-10% 触发熔断，波动率 2008 年以来最高。\n\n但拆开看，这是一场杠杆出清，不是基本面崩塌：\n▸ 6 月底保证金贷款余额冲到 38.6 万亿韩元历史新高\n▸ 高盛估计超 120 万个杠杆账户收到 margin call\n▸ 32-36 万个账户被强平——被洗出去的是杠杆抄底盘，不是长线资金\n投行的定性罕见一致：大摩和小摩都认为这是供需修正（杠杆 ETF 平仓 + 对冲基金降杠杆 + 外资抛售）。小摩测算 ETF 去杠杆已完成 75-90%，指数接近底部。到 7 月底，大摩、小摩、瑞银全部把 6,000 多点定义为买点。\n\n一边是史上最好的业绩、锁定未来五年的订单、越来越缺的货；一边是被强平砸出来的价格。\n基本面在创新高，筹码面在出清。这种错位，有可能成为好的抄底时机？\n\nStablestock即将在8月上线两个重要的新产品，敬请期待。",
-        "link": "https://x.com/ZixiStablestock/status/2082746163527348681",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOdl73SaMAAfswQ.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOdl9bCbMAAK-mn.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
