@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T05:41:21.150Z",
+  "lastUpdated": "2026-08-10T07:45:45.180Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,210 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 651,
+    "newFetched": 649,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2086711738108616760",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "印度人真的好自信，这一点我得向印度人学习",
+      "contentHtml": "印度人真的好自信，这一点我得向印度人学习",
+      "publishedAt": "2026-08-10T07:10:00.000Z",
+      "link": "https://x.com/dongbimao/status/2086711738108616760",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPV9KBWaYAAgXgg.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086708578078150949",
+      "username": "DoveyWanCN",
+      "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+      "avatar": "https://pbs.twimg.com/profile_images/1532938119359524864/wdSAkS5F_bigger.jpg",
+      "content": "1. 如果是work for others, 那就要解决老板/上级的问题. 第一步是要知道他们在焦虑什么 (绝大多数年轻人起步还是需要在这种环境里锻炼几年) \n\n2. 如果是创业, 那就是要解决需求端/你的目标用户的问题 (有没有独特的access/对问题解决方案的思路?), 用锤子找钉子是肯定没用的, 自我感动型的创业更就算了",
+      "contentHtml": "1. 如果是work for others, 那就要解决老板/上级的问题. 第一步是要知道他们在焦虑什么 (绝大多数年轻人起步还是需要在这种环境里锻炼几年) \n\n2. 如果是创业, 那就是要解决需求端/你的目标用户的问题 (有没有独特的access/对问题解决方案的思路?), 用锤子找钉子是肯定没用的, 自我感动型的创业更就算了",
+      "publishedAt": "2026-08-10T06:57:00.000Z",
+      "link": "https://x.com/DoveyWanCN/status/2086708578078150949",
+      "quote": {
+        "username": "DoveyWanCN",
+        "displayName": "Dovey &quot;Rug The CNY&quot; Wan🪐",
+        "content": "系统性说一下, 对于年轻、没有重资本/重产业资源, 不是蓝血Phd, 大厂高P, 也没有线下供应链杠杆的 founder, 还剩下什么创业机会？\n\nLLM对于有代码基础的人来说就是个无限满血的operational UBI, 拉平了信息差和基础研发门槛。新出现的市场无效点会迅速被抹平. 这个在prediction market做套利的朋友应该深有感触, 其他digital domain其实一样, 产品表现层和机制设计很难形成壁垒.\n\n如果要有可持续的竞争优势, 需要是堆产业和资本壁垒, 以及企业级产品的交付复杂度. 看 Andreessen 一把融了 $15 Billion，而Benchmark 的flagship到最近一期都只有 500M 左右。这相当于一次性融出了 30 个 Benchmark。为什么要这么多钱？因为 AI 时代的竞赛已进入重工业模式（算力存储、大数据、产业垂直整合）brain power alone 的时代是在坍缩的, 原来sandhill要chase 辍学的Stanford founder, 现在都是拥有 20 年经验的 Deep Tech 老炮或蓝血 PhD (国内估计是字节高P) .. 资本对founder cohort profile发生了重要的转变, 在资本配置上完全就是K型曲线.\n\n这一轮除了大labs (LLM labs的护城河有多深..其实也是个巨大的question mark, 这个可能要开一个新帖说, 这里不赘述) 很多真正有价值的公司必须得拥有更多“真实世界里的交付能力” 这个原来在fintech其实已经有体现. 在crypto的快速金融化之前, 我投资的时间一半时间在看fintech 一半时间在看hardtech. 当时投fintech的一个learning就是就是作为“搅局者” 的startup最大的upside不是去服务incumbents (譬如银行, 保险公司, 借贷公司) 而是要成为为这些服务本身. 所以当时投Sofi, Figure, Flexport, Lendinghome, Moneylion都是这个思路. 其实现在高度走向fintech的crypto也同样适用.\n\n同理在老型SaaS被吊打的时候, AI powered workflow交付的不是 insurance software, 而是直接做卖保险的. 不是AI doctor copilot (OpenEvidence的上限也会在这里)\n\n而是真正去重新打造新型的诊所, 考验的是医疗交付和运营本身, AI产业+的复杂度已经完全不是一个量级, 估值模型必然也不是ARR ... 取而代之的是考验产业整合复杂度、毛利结构和运营效率。小团队做一个 app、一个 API、一个 SaaS layer，就有机会靠产品和分发长出来的vintage不存在了.\n\n但我也越来越相信，AI 会创造出一条非常宽的“中腰部”机会带：未必是 巨大的venture scale，但会有大量年收入 1000万到5000万美元、1-3个人就能管理得很好的机会 因为这个时代，一切都在变得高度personalized, 只需要服务一个niche的有消费能力人群就好. D2C产品上配合3D打印的技术成熟, 需要的对柔性供应链和流量同时都有抓手的founder. Digital consumer的机会在Onlyfans的垂类和变种, 要做的就是一小撮人的内容爽点(最近有个朋友默默在做女性向的sexual fan fiction, 收入非常亮眼, 起因时要给自己的女票写肉文和H漫..😆 ), 这个需要founder有deep intra community insight\n\n如果你是有更大野心的年轻founder, 但是没有行业老登和你打配合去撬动行业再造的可能, 自己也不是蓝血PhD, 头部机会的最大杠杆依然只在两个地方：internet commerce and internet capital markets. ie: 找到可以最低摩擦去卖货的“货”和触达方式, 找到可以最低摩擦去让钱流转起来且可以有各种隐形费率的场景 (下面是我们内部memo的原话)\n\n- Internet commerce turns attention & niche obsession into cashflow with the least friction\n- Internet capital markets turn information asymmetry into fee streams with the least friction\n\n只有在这两个地方, 速度还经常能赢规模，小团队还可能打穿大组织, 且有资本化的效率是最高的(both monetary gravity and velocity). 这也是我对未来crypto/fintech/open-fin最bullish的地方.\n\n正如我之前说的, VC死没死不知道, 对于早期投资人来说, 实力和运气能互换的比例是越来越苛刻了, founder也一样. 所有行业都是, 选择比努力重要, 但是选择比努力难多了",
+        "contentHtml": "系统性说一下, 对于年轻、没有重资本/重产业资源, 不是蓝血Phd, 大厂高P, 也没有线下供应链杠杆的 founder, 还剩下什么创业机会？\n\nLLM对于有代码基础的人来说就是个无限满血的operational UBI, 拉平了信息差和基础研发门槛。新出现的市场无效点会迅速被抹平. 这个在prediction market做套利的朋友应该深有感触, 其他digital domain其实一样, 产品表现层和机制设计很难形成壁垒.\n\n如果要有可持续的竞争优势, 需要是堆产业和资本壁垒, 以及企业级产品的交付复杂度. 看 Andreessen 一把融了 $15 Billion，而Benchmark 的flagship到最近一期都只有 500M 左右。这相当于一次性融出了 30 个 Benchmark。为什么要这么多钱？因为 AI 时代的竞赛已进入重工业模式（算力存储、大数据、产业垂直整合）brain power alone 的时代是在坍缩的, 原来sandhill要chase 辍学的Stanford founder, 现在都是拥有 20 年经验的 Deep Tech 老炮或蓝血 PhD (国内估计是字节高P) .. 资本对founder cohort profile发生了重要的转变, 在资本配置上完全就是K型曲线.\n\n这一轮除了大labs (LLM labs的护城河有多深..其实也是个巨大的question mark, 这个可能要开一个新帖说, 这里不赘述) 很多真正有价值的公司必须得拥有更多“真实世界里的交付能力” 这个原来在fintech其实已经有体现. 在crypto的快速金融化之前, 我投资的时间一半时间在看fintech 一半时间在看hardtech. 当时投fintech的一个learning就是就是作为“搅局者” 的startup最大的upside不是去服务incumbents (譬如银行, 保险公司, 借贷公司) 而是要成为为这些服务本身. 所以当时投Sofi, Figure, Flexport, Lendinghome, Moneylion都是这个思路. 其实现在高度走向fintech的crypto也同样适用.\n\n同理在老型SaaS被吊打的时候, AI powered workflow交付的不是 insurance software, 而是直接做卖保险的. 不是AI doctor copilot (OpenEvidence的上限也会在这里)\n\n而是真正去重新打造新型的诊所, 考验的是医疗交付和运营本身, AI产业+的复杂度已经完全不是一个量级, 估值模型必然也不是ARR ... 取而代之的是考验产业整合复杂度、毛利结构和运营效率。小团队做一个 app、一个 API、一个 SaaS layer，就有机会靠产品和分发长出来的vintage不存在了.\n\n但我也越来越相信，AI 会创造出一条非常宽的“中腰部”机会带：未必是 巨大的venture scale，但会有大量年收入 1000万到5000万美元、1-3个人就能管理得很好的机会 因为这个时代，一切都在变得高度personalized, 只需要服务一个niche的有消费能力人群就好. D2C产品上配合3D打印的技术成熟, 需要的对柔性供应链和流量同时都有抓手的founder. Digital consumer的机会在Onlyfans的垂类和变种, 要做的就是一小撮人的内容爽点(最近有个朋友默默在做女性向的sexual fan fiction, 收入非常亮眼, 起因时要给自己的女票写肉文和H漫..😆 ), 这个需要founder有deep intra community insight\n\n如果你是有更大野心的年轻founder, 但是没有行业老登和你打配合去撬动行业再造的可能, 自己也不是蓝血PhD, 头部机会的最大杠杆依然只在两个地方：internet commerce and internet capital markets. ie: 找到可以最低摩擦去卖货的“货”和触达方式, 找到可以最低摩擦去让钱流转起来且可以有各种隐形费率的场景 (下面是我们内部memo的原话)\n\n- Internet commerce turns attention & niche obsession into cashflow with the least friction\n- Internet capital markets turn information asymmetry into fee streams with the least friction\n\n只有在这两个地方, 速度还经常能赢规模，小团队还可能打穿大组织, 且有资本化的效率是最高的(both monetary gravity and velocity). 这也是我对未来crypto/fintech/open-fin最bullish的地方.\n\n正如我之前说的, VC死没死不知道, 对于早期投资人来说, 实力和运气能互换的比例是越来越苛刻了, founder也一样. 所有行业都是, 选择比努力重要, 但是选择比努力难多了",
+        "link": "https://x.com/DoveyWanCN/status/2053779307819045128"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086704556671709344",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
+      "content": "保持“味觉低阈值”，可以：\n1. 80%的时间里从低加工的食物中获得足够满足。\n\n2. 20%的时间里从高加工的食物中获得比别人多得多的巅峰快乐。\n\n3. 第2点中的20%恰好也是合理的社交饭局比重（平均一周1～2次）。加上多数情况下一天只吃一顿正餐，所以在社交饭局中我不仅不会扫别人的兴，反而往往是顺便帮忙扫光盘的角色，比如让别人在2人食中尝到至少3人食的品种也没有浪费。\n\n我在10多年里，\n保持健康饮食又快乐的可持续正循环，\n依靠的就是这样的\n“杠铃策略” 饮食 Harness。",
+      "contentHtml": "保持“味觉低阈值”，可以：\n1. 80%的时间里从低加工的食物中获得足够满足。\n\n2. 20%的时间里从高加工的食物中获得比别人多得多的巅峰快乐。\n\n3. 第2点中的20%恰好也是合理的社交饭局比重（平均一周1～2次）。加上多数情况下一天只吃一顿正餐，所以在社交饭局中我不仅不会扫别人的兴，反而往往是顺便帮忙扫光盘的角色，比如让别人在2人食中尝到至少3人食的品种也没有浪费。\n\n我在10多年里，\n保持健康饮食又快乐的可持续正循环，\n依靠的就是这样的\n“杠铃策略” 饮食 Harness。",
+      "publishedAt": "2026-08-10T06:41:00.000Z",
+      "link": "https://x.com/coolish/status/2086704556671709344",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPV2t1xaYAArG69.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086704164562980874",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "跟上了",
+      "contentHtml": "跟上了",
+      "publishedAt": "2026-08-10T06:40:00.000Z",
+      "link": "https://x.com/octopusycc/status/2086704164562980874",
+      "quote": {
+        "username": "labubu_trader",
+        "displayName": "3X Long Labubu",
+        "content": "OAI will probably release the Astra model this week and will likely pump the sentiment around AI for science. \nThe recent ERs also showed exciting results of AI accelerating drug discovery etc. \nChatGPT helped me build a watchlist in the weekend\nMy favorites are $TWST, $TEM, $GH.",
+        "contentHtml": "OAI will probably release the Astra model this week and will likely pump the sentiment around AI for science. \nThe recent ERs also showed exciting results of AI accelerating drug discovery etc. \nChatGPT helped me build a watchlist in the weekend\nMy favorites are <a href=\"/search?f=tweets&q=%23TWST\">$TWST</a>, <a href=\"/search?f=tweets&q=%23TEM\">$TEM</a>, <a href=\"/search?f=tweets&q=%23GH\">$GH</a>.",
+        "link": "https://x.com/labubu_trader/status/2086702238056214939",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPV0oI2aAAALh_L.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086700719823040999",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2085191114496311296/II9mvaaN_bigger.jpg",
+      "content": "pharos 发钱了，刚刚一次性发了30万u活动奖励的。仔细算了算三个月发4.5左右，也不错。到期走人，包括axis也是到期走人。",
+      "contentHtml": "pharos 发钱了，刚刚一次性发了30万u活动奖励的。仔细算了算三个月发4.5左右，也不错。到期走人，包括axis也是到期走人。",
+      "publishedAt": "2026-08-10T06:26:00.000Z",
+      "link": "https://x.com/0xleng1/status/2086700719823040999",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPVzPG0aoAELrrS.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086700087737254037",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "存储下一个买盘似乎出现苗头了\n\n存储现在不缺抄底资金，缺的是持续性买盘。\n\n每次三星、海力士、美光大跌，都会有人接。但这些资金很多是短线抄底、空头回补，能拉出一两天反弹，却很难推动一轮稳定行情。\n\n问题还是出在波动率。\n\n现在韩国股市波动率太高，而三星和海力士又占了KOSPI很大权重。机构一旦要降低风险，最直接的做法就是先减掉这些高波动、高弹性、流动性又好的仓位。\n\n所以高波动率对存储有两层影响。\n\n第一，新资金不敢持续买。\n第二，已经在场内的资金，也会优先减仓。\n\n这也是为什么存储的基本面可能没变，股价却依然很脆弱。市场一旦进入risk off，资金未必会先卖基本面最差的公司，而是先卖最能降低组合波动率的资产。\n\n相比微软、谷歌、亚马逊这类现金流更稳定的大科技，存储的周期属性更强，对产品价格、供需、库存和CapEx都更敏感。\n\n当市场愿意承担风险时，存储弹性最大。\n当市场开始收缩风险时，存储也最容易先被卖。\n\n所以我现在更关注的，不是下一次谁来抄底，而是谁愿意连续买。\n\n真正有效的信号有几个：\n\n1. VKOSPI开始持续下降；\n2. 三星和海力士的单日波动明显收窄；\n3. 外资不再只是单日巨额流入，而是连续多个交易日净买入；\n4. 下一次市场调整时，存储不再成为跌幅最大的方向。\n\n当这些条件出现，说明市场开始重新接受存储的风险，机构也重新获得了配置能力。\n\n所以，存储的下一个买盘，不在下一次暴跌里。\n\n它会出现在韩国市场波动率下降之后，持续性资金重新回来，而且市场下跌时，存储不再被优先卖出的那一刻。\n\n上周五韩国股指收盘，波动率跌至69.67，上一次这么低，是在5月27日，韩国市场的杠杆风险也在进一步下降，空间上可能还不确定，但是已经进入明确的左侧区间\n\n————————————————\n\n本文由 Biyapay 平台赞助，@BiyaPay 是从19年就开始合规持牌运营的平台\n\n如果你有美股、港股配置需求，或者经常需要跨境汇款、数字资产与传统金融之间转换，BiyaPay 是一个值得关注的平台。一个账户就能连接数字资产与全球股票，让资金使用更加高效。\n\n感兴趣的朋友可以通过我下方的专属链接注册，20%手续费优惠+10U的现金奖励\nbiyapay.com/re/44708405",
+      "contentHtml": "存储下一个买盘似乎出现苗头了\n\n存储现在不缺抄底资金，缺的是持续性买盘。\n\n每次三星、海力士、美光大跌，都会有人接。但这些资金很多是短线抄底、空头回补，能拉出一两天反弹，却很难推动一轮稳定行情。\n\n问题还是出在波动率。\n\n现在韩国股市波动率太高，而三星和海力士又占了KOSPI很大权重。机构一旦要降低风险，最直接的做法就是先减掉这些高波动、高弹性、流动性又好的仓位。\n\n所以高波动率对存储有两层影响。\n\n第一，新资金不敢持续买。\n第二，已经在场内的资金，也会优先减仓。\n\n这也是为什么存储的基本面可能没变，股价却依然很脆弱。市场一旦进入risk off，资金未必会先卖基本面最差的公司，而是先卖最能降低组合波动率的资产。\n\n相比微软、谷歌、亚马逊这类现金流更稳定的大科技，存储的周期属性更强，对产品价格、供需、库存和CapEx都更敏感。\n\n当市场愿意承担风险时，存储弹性最大。\n当市场开始收缩风险时，存储也最容易先被卖。\n\n所以我现在更关注的，不是下一次谁来抄底，而是谁愿意连续买。\n\n真正有效的信号有几个：\n\n1. VKOSPI开始持续下降；\n2. 三星和海力士的单日波动明显收窄；\n3. 外资不再只是单日巨额流入，而是连续多个交易日净买入；\n4. 下一次市场调整时，存储不再成为跌幅最大的方向。\n\n当这些条件出现，说明市场开始重新接受存储的风险，机构也重新获得了配置能力。\n\n所以，存储的下一个买盘，不在下一次暴跌里。\n\n它会出现在韩国市场波动率下降之后，持续性资金重新回来，而且市场下跌时，存储不再被优先卖出的那一刻。\n\n上周五韩国股指收盘，波动率跌至69.67，上一次这么低，是在5月27日，韩国市场的杠杆风险也在进一步下降，空间上可能还不确定，但是已经进入明确的左侧区间\n\n————————————————\n\n本文由 Biyapay 平台赞助，<a href=\"/BiyaPay\" title=\"BiyaPay\">@BiyaPay</a> 是从19年就开始合规持牌运营的平台\n\n如果你有美股、港股配置需求，或者经常需要跨境汇款、数字资产与传统金融之间转换，BiyaPay 是一个值得关注的平台。一个账户就能连接数字资产与全球股票，让资金使用更加高效。\n\n感兴趣的朋友可以通过我下方的专属链接注册，20%手续费优惠+10U的现金奖励\n<a href=\"https://biyapay.com/re/44708405\">biyapay.com/re/44708405</a>",
+      "publishedAt": "2026-08-10T06:24:00.000Z",
+      "link": "https://x.com/octopusycc/status/2086700087737254037",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPVypuBaUAAVlWm.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086700092153897027",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "亮点介绍\n\n第一，买真实股票：全球护照或身份证就能30秒极速开户。不用繁琐的入金，直接用 U 就能买美股、而且是 0 佣金！ 甚至支持买入碎股和期权。你拿到的是真实股票，能收到真实的股息。并且不会被CRS。\n\n第二，极速跨境汇款：它支持 30 多种法币和 200 多种数字货币的实时兑换。不管你是走美国的 ACH、香港的转数快（FPS），还是全球 SWIFT 电汇，资金流转都非常丝滑。目前他们的累计汇款额已经突破了 20 亿美金。\n\n第三，生活消费：他们还支持 U 卡消费，真正实现了从“投资”到“日常消费”的全链路闭环。  除了消费，它还有活期稳定10.22%年化的理财、定投功能。你放在账户里的USDT，不仅能随时用来交易，还能产生增值。",
+      "contentHtml": "亮点介绍\n\n第一，买真实股票：全球护照或身份证就能30秒极速开户。不用繁琐的入金，直接用 U 就能买美股、而且是 0 佣金！ 甚至支持买入碎股和期权。你拿到的是真实股票，能收到真实的股息。并且不会被CRS。\n\n第二，极速跨境汇款：它支持 30 多种法币和 200 多种数字货币的实时兑换。不管你是走美国的 ACH、香港的转数快（FPS），还是全球 SWIFT 电汇，资金流转都非常丝滑。目前他们的累计汇款额已经突破了 20 亿美金。\n\n第三，生活消费：他们还支持 U 卡消费，真正实现了从“投资”到“日常消费”的全链路闭环。  除了消费，它还有活期稳定10.22%年化的理财、定投功能。你放在账户里的USDT，不仅能随时用来交易，还能产生增值。",
+      "publishedAt": "2026-08-10T06:24:00.000Z",
+      "link": "https://x.com/octopusycc/status/2086700092153897027",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086693623303934047",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2086384144427454464/vEX1IsSf_bigger.jpg",
+      "content": "允许一切发生\n因为不允许的话也会发生\n还不如允许一下\n还显得我大方",
+      "contentHtml": "允许一切发生\n因为不允许的话也会发生\n还不如允许一下\n还显得我大方",
+      "publishedAt": "2026-08-10T05:58:00.000Z",
+      "link": "https://x.com/hazenlee/status/2086693623303934047",
+      "quote": {
+        "username": "zhimuzha",
+        "displayName": "枝木楂",
+        "content": "你要允许你爱的人不爱你，你要允许你的工作为难你，你要允许身后有人算计你，不允许就是在跟自己较劲，较完劲后的那份力不从心和无能为力才是常态，这个世界上，没有好坏，没有对错，只是大家处在不同的频率，允许自己做自己，允许别人做别人",
+        "contentHtml": "你要允许你爱的人不爱你，你要允许你的工作为难你，你要允许身后有人算计你，不允许就是在跟自己较劲，较完劲后的那份力不从心和无能为力才是常态，这个世界上，没有好坏，没有对错，只是大家处在不同的频率，允许自己做自己，允许别人做别人",
+        "link": "https://x.com/zhimuzha/status/2086175181127782676"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086691388171968677",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "从美日韩联手干预汇率到财政部再融资计划，贝森特的软肋在哪里？\n1、公布支持干预日元汇率 7月底8月初，美国与日本联合进行外汇干预，支撑日元。这是自1998年以来美国首次直接参与支撑日元。贝森特还特意点出FIMA Repo Facility（允许外国官方机构以美债为抵押，向美联储临时换取美元，而不必在公开市场抛售美债）。扩大它的目的，正是为了让日本等能“借美元买日元”，尽量避免大规模抛售美债，从而降低对美债市场的冲击。日本是美债重要持有者，抛售会进一步推高美债收益率。\n\n2、季度国债拍卖指引措辞的微妙变化 在上周的季度再融资公告中，财政部将此前“可能未来增加发行量”的表述，改为“可能未来变化”。市场解读为打开了减少长期债券（尤其是30年期）发行规模的大门。减少供应有助于提振价格、压低收益率。\n\n为什么市场会对一个词这么敏感？\n债券价格交易的不是已经发生的发行量，而是未来供给概率分布。之前市场担心只有一个方向，不断扩大的债券供给。上周新的措辞使供给风险变成双向\n：未来拍卖规模可能增加、维持、削减或期限重配。\n\n市场开始考虑一个此前没有被正式承认的情景：“如果长端需求变差、拍卖连续疲弱或30年收益率过快上升，财政部可能减少长端增量，甚至定向削减某个期限”。即使这个情景只有20%的概率，也会改变：长债期权隐含分布、做空长端的风险收益比、20年和30年期的期限溢价。\n\n市场其实开始在定价一个弱版本的，soft Bessent supply put。\n\n3、公开捍卫沃什的沟通策略 贝森特通过电视采访和社交媒体力挺沃什。他表示市场需要从过去美联储频繁前瞻指引中“戒毒”（detox），并支持沃什让市场更多依据数据和通胀本身定价的做法。此前沃什的表述曾直接导致收益率急升。\n\n把这几个动作组合起来看，贝森特担心的还是长端收益率因为被迫抛售、久期供给失衡、市场承接能力下降和沟通失误而非线性跳升。\n\n去年5月这里nitter.net/qinbafrank/status/1925…还聊到：4.6%是十年美债收益率的阈值，越往上市场压力越大。这一次十年美债收益率突破4.6%，之前已经涨到4.7%、能看出来贝森特是坐不住了。开始出手、并为释放信号稳定债市预期\n\n而更早一次财政部出手干预债市稳定市场则是在23年10月中下旬，当时这里nitter.net/qinbafrank/status/1716…还聊过：耶伦拿出回购方案，鲍威尔出面暗示降息预期，印象更深的则是比尔阿卡曼被搬出来在23年10月24日公开宣称平掉了长期美债的做空仓位、之后美债收益率掉头一路往下。\n\n贝森特希望防止长端收益率进一步失控，核心原因还是美债收益率不仅影响财政融资成本，还会传导至房贷、企业债、股票估值和AI资本开支。长债收益率越高、市场压力很大、不说股市房市压力也会很大。\n\n上周聊美日韩干预汇率的时候，也说这是官方明确释放的“保护美债稳定”信号，这很有可能导致美长债收益率阶段性顶出现。看看是不是如此？🤔\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "从美日韩联手干预汇率到财政部再融资计划，贝森特的软肋在哪里？\n1、公布支持干预日元汇率 7月底8月初，美国与日本联合进行外汇干预，支撑日元。这是自1998年以来美国首次直接参与支撑日元。贝森特还特意点出FIMA Repo Facility（允许外国官方机构以美债为抵押，向美联储临时换取美元，而不必在公开市场抛售美债）。扩大它的目的，正是为了让日本等能“借美元买日元”，尽量避免大规模抛售美债，从而降低对美债市场的冲击。日本是美债重要持有者，抛售会进一步推高美债收益率。\n\n2、季度国债拍卖指引措辞的微妙变化 在上周的季度再融资公告中，财政部将此前“可能未来增加发行量”的表述，改为“可能未来变化”。市场解读为打开了减少长期债券（尤其是30年期）发行规模的大门。减少供应有助于提振价格、压低收益率。\n\n为什么市场会对一个词这么敏感？\n债券价格交易的不是已经发生的发行量，而是未来供给概率分布。之前市场担心只有一个方向，不断扩大的债券供给。上周新的措辞使供给风险变成双向\n：未来拍卖规模可能增加、维持、削减或期限重配。\n\n市场开始考虑一个此前没有被正式承认的情景：“如果长端需求变差、拍卖连续疲弱或30年收益率过快上升，财政部可能减少长端增量，甚至定向削减某个期限”。即使这个情景只有20%的概率，也会改变：长债期权隐含分布、做空长端的风险收益比、20年和30年期的期限溢价。\n\n市场其实开始在定价一个弱版本的，soft Bessent supply put。\n\n3、公开捍卫沃什的沟通策略 贝森特通过电视采访和社交媒体力挺沃什。他表示市场需要从过去美联储频繁前瞻指引中“戒毒”（detox），并支持沃什让市场更多依据数据和通胀本身定价的做法。此前沃什的表述曾直接导致收益率急升。\n\n把这几个动作组合起来看，贝森特担心的还是长端收益率因为被迫抛售、久期供给失衡、市场承接能力下降和沟通失误而非线性跳升。\n\n去年5月这里<a href=\"https://nitter.net/qinbafrank/status/1925871211923296629?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/1925…</a>还聊到：4.6%是十年美债收益率的阈值，越往上市场压力越大。这一次十年美债收益率突破4.6%，之前已经涨到4.7%、能看出来贝森特是坐不住了。开始出手、并为释放信号稳定债市预期\n\n而更早一次财政部出手干预债市稳定市场则是在23年10月中下旬，当时这里<a href=\"https://nitter.net/qinbafrank/status/1716746079528481236?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/1716…</a>还聊过：耶伦拿出回购方案，鲍威尔出面暗示降息预期，印象更深的则是比尔阿卡曼被搬出来在23年10月24日公开宣称平掉了长期美债的做空仓位、之后美债收益率掉头一路往下。\n\n贝森特希望防止长端收益率进一步失控，核心原因还是美债收益率不仅影响财政融资成本，还会传导至房贷、企业债、股票估值和AI资本开支。长债收益率越高、市场压力很大、不说股市房市压力也会很大。\n\n上周聊美日韩干预汇率的时候，也说这是官方明确释放的“保护美债稳定”信号，这很有可能导致美长债收益率阶段性顶出现。看看是不是如此？🤔\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-08-10T05:49:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2086691388171968677",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "美日韩联手干预汇率，今天贝森特的推文相当于正式承认了美国政府支持日本干预汇率，贝森特还特意点出FIMA Repo Facility（允许外国官方机构以美债为抵押，向美联储临时换取美元，而不必在公开市场抛售美债）。扩大它的目的，正是为了让日本等能“借美元买日元”，尽量避免大规模抛售美债，从而降低对美债市场的冲击，这也是官方明确释放的“保护美债稳定”信号，这很有可能导致美长债收益率阶段性顶出现。\n\n会引发套息交易大规模快速退潮么？个人看概率不大、更可能是有序退出。看去年底推文聊到套息交易的几个指标\n1）美日汇率需要大幅度快速下行，如2024年7初-8初：7初美日汇率约161.5，峰值约161.6；7末约150；8.5低至约144（约2周暴跌15-17点）\n\n近期从约164回落至约156（回落幅度较小，约7-8点），而且差异是24年是资金自发从美元撤出回归日元，近期明显是日本政府出手在买日元；汇率变动的驱动力略不一样。\n\n2）CFTC日元期货净空头仓位（非商业/投机者）\n当前：约 -163.4K合约（最新报告期约7月28/31日），接近历史高位区间，近两周还在增加（前一周约-152K，再增约11K）。暴露规模大致对应百亿美金量级。\n\n与2024年对比：24年7月日元期货净空头高峰约-160K至-182K，随后到8月初锐减约100K至-73K左右，之后快速翻多。\n\n套息交易快速退潮会伴随日元期货净空头仓位大幅下降，说明投机性套息仓位尚在大规模拆除。暂时还没看到这个迹象\n\n3）资金压力与杠杆指标（跨货币基差等）\nUSD/JPY跨货币基差（basis swap）：Q2 2026前后3个月期约-42bps量级，宽于疫情后平均但远未到危机水平（2008年或2020年曾到-100bps至-200bps）。未见强烈“美元融资压力迫使大规模平仓”信号。\n\n4）美日10年国债利差\n当前约 1.95%（美约4.75% - 日约2.80%）。已明显低于框架中的2%阈值利差已缩至<2%（框架加速阈值）\n\n整体来看这次美日汇率下跌是美日政府联手干预的，而非市场资金自发行动，可以回看24年7月初到8.5，美日汇率快速下降伴随着美股调整。而今年7月美股调整，美日汇率则是一直上涨直到上周三7月29日触及163.9的高点，说明7月这次美股调整跟日元资金撤出关系不大。\n\n24年7月底8月初套息交易退潮到高潮触发事件是：当时日央行意外加息+缩表预期 + 美14年7月非农大幅不及预期（衰退担忧），衰退恐慌加大，流动性冲击大。这次日央行按兵不动、看本周非农的数据会如何了？（如果本周非农大幅不及预期、市场可能既担心衰退降息预期提升，同时又担心衰退进一步压低收益一部分日元资金从美国撤出、引发小冲击），\n\n此外，联合干预+支持日本加息/货币正常化，有助于缩小美日利差，长期可能缓解美元走强压力；若日元企稳、套息交易压力有序释放，也可能带来一定风险偏好缓和，间接利好美债\n\n整体上\n利差缩小，美日汇率走低。对比2024年同期，当前环境更“预期充分+缓冲多”，全面剧烈退潮概率和幅度都更低，冲击幅度预计小于2024年七八月。\n\n后续继续观察美日汇率、本周美国7月非农数据，下周CFTC更新，以及日央行/政府动作与美联储流动性操作。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "美日韩联手干预汇率，今天贝森特的推文相当于正式承认了美国政府支持日本干预汇率，贝森特还特意点出FIMA Repo Facility（允许外国官方机构以美债为抵押，向美联储临时换取美元，而不必在公开市场抛售美债）。扩大它的目的，正是为了让日本等能“借美元买日元”，尽量避免大规模抛售美债，从而降低对美债市场的冲击，这也是官方明确释放的“保护美债稳定”信号，这很有可能导致美长债收益率阶段性顶出现。\n\n会引发套息交易大规模快速退潮么？个人看概率不大、更可能是有序退出。看去年底推文聊到套息交易的几个指标\n1）美日汇率需要大幅度快速下行，如2024年7初-8初：7初美日汇率约161.5，峰值约161.6；7末约150；8.5低至约144（约2周暴跌15-17点）\n\n近期从约164回落至约156（回落幅度较小，约7-8点），而且差异是24年是资金自发从美元撤出回归日元，近期明显是日本政府出手在买日元；汇率变动的驱动力略不一样。\n\n2）CFTC日元期货净空头仓位（非商业/投机者）\n当前：约 -163.4K合约（最新报告期约7月28/31日），接近历史高位区间，近两周还在增加（前一周约-152K，再增约11K）。暴露规模大致对应百亿美金量级。\n\n与2024年对比：24年7月日元期货净空头高峰约-160K至-182K，随后到8月初锐减约100K至-73K左右，之后快速翻多。\n\n套息交易快速退潮会伴随日元期货净空头仓位大幅下降，说明投机性套息仓位尚在大规模拆除。暂时还没看到这个迹象\n\n3）资金压力与杠杆指标（跨货币基差等）\nUSD/JPY跨货币基差（basis swap）：Q2 2026前后3个月期约-42bps量级，宽于疫情后平均但远未到危机水平（2008年或2020年曾到-100bps至-200bps）。未见强烈“美元融资压力迫使大规模平仓”信号。\n\n4）美日10年国债利差\n当前约 1.95%（美约4.75% - 日约2.80%）。已明显低于框架中的2%阈值利差已缩至&lt;2%（框架加速阈值）\n\n整体来看这次美日汇率下跌是美日政府联手干预的，而非市场资金自发行动，可以回看24年7月初到8.5，美日汇率快速下降伴随着美股调整。而今年7月美股调整，美日汇率则是一直上涨直到上周三7月29日触及163.9的高点，说明7月这次美股调整跟日元资金撤出关系不大。\n\n24年7月底8月初套息交易退潮到高潮触发事件是：当时日央行意外加息+缩表预期 + 美14年7月非农大幅不及预期（衰退担忧），衰退恐慌加大，流动性冲击大。这次日央行按兵不动、看本周非农的数据会如何了？（如果本周非农大幅不及预期、市场可能既担心衰退降息预期提升，同时又担心衰退进一步压低收益一部分日元资金从美国撤出、引发小冲击），\n\n此外，联合干预+支持日本加息/货币正常化，有助于缩小美日利差，长期可能缓解美元走强压力；若日元企稳、套息交易压力有序释放，也可能带来一定风险偏好缓和，间接利好美债\n\n整体上\n利差缩小，美日汇率走低。对比2024年同期，当前环境更“预期充分+缓冲多”，全面剧烈退潮概率和幅度都更低，冲击幅度预计小于2024年七八月。\n\n后续继续观察美日汇率、本周美国7月非农数据，下周CFTC更新，以及日央行/政府动作与美联储流动性操作。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2084156912954909063",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOxpqfRa0AAH3gg.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2086688928468529628",
       "username": "Bitfatty",
@@ -1615,25 +1814,6 @@
       "contentHtml": "伯克希尔的现金终于下降，开始买了，这下不用担心暴跌了？实际上压根没关系。巴菲特本来就不会去预测短期市场，连续14个季度增加现金暴跌了吗？媒体就喜欢这些惊悚的标题，因为有流量，对投资没任何帮助。\n来自于周六的碎碎念，一会看蜘蛛人去了🕸️🕸️🕸️",
       "publishedAt": "2026-08-08T19:41:00.000Z",
       "link": "https://x.com/TJ_Research/status/2086175955547275379",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2086175181127782676",
-      "username": "zhimuzha",
-      "displayName": "枝木楂",
-      "avatar": "https://pbs.twimg.com/profile_images/2072972444449841153/v8Z1Lchu_bigger.jpg",
-      "content": "你要允许你爱的人不爱你，你要允许你的工作为难你，你要允许身后有人算计你，不允许就是在跟自己较劲，较完劲后的那份力不从心和无能为力才是常态，这个世界上，没有好坏，没有对错，只是大家处在不同的频率，允许自己做自己，允许别人做别人",
-      "contentHtml": "你要允许你爱的人不爱你，你要允许你的工作为难你，你要允许身后有人算计你，不允许就是在跟自己较劲，较完劲后的那份力不从心和无能为力才是常态，这个世界上，没有好坏，没有对错，只是大家处在不同的频率，允许自己做自己，允许别人做别人",
-      "publishedAt": "2026-08-08T19:38:00.000Z",
-      "link": "https://x.com/zhimuzha/status/2086175181127782676",
-      "retweet": {
-        "username": "hazenlee",
-        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -12210,190 +12390,6 @@
           "url": "https://pbs.twimg.com/media/HOmsyqkbgAA6CBh.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083380336101401001",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "梅开二度，Arthur Hayes 老黑疑似割肉 2364 $ETH 并亏损 12.8 万美元😂\n\n4 小时前他向交易所和 Galaxy Digital 转移 440 万美元的 ETH，而他自 07.15 以来以均价 $1,916 囤积了 7,212.68 ETH，本次若卖出每枚 ETH 将亏损 54.2 美元（不过 2 小时前又转出来了 258 ETH，不知道是什么操作）\n\n钱包地址 arkm.com/explorer/entity/art…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "contentHtml": "梅开二度，Arthur Hayes 老黑疑似割肉 2364 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 并亏损 12.8 万美元😂\n\n4 小时前他向交易所和 Galaxy Digital 转移 440 万美元的 ETH，而他自 07.15 以来以均价 $1,916 囤积了 7,212.68 ETH，本次若卖出每枚 ETH 将亏损 54.2 美元（不过 2 小时前又转出来了 258 ETH，不知道是什么操作）\n\n钱包地址 <a href=\"https://arkm.com/explorer/entity/arthur-hayes\">arkm.com/explorer/entity/art…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "publishedAt": "2026-08-01T02:32:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2083380336101401001",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOmnXhraoAAn1-W.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "Arthur Hayes 老黑的 $ETH 加仓速度变快了😬\n\n过去 6 小时从 FalconX 和 Galaxy Digital 处收到 3,297.84 枚 ETH，价值 624 万美元；自 07.15 以来已通过各大 MM 和交易所囤积 7,212.68 ETH，均价 $1,916，浮亏 26.5 万美元\n\ndebank.com/profile/0x6cd66db…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "contentHtml": "Arthur Hayes 老黑的 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 加仓速度变快了😬\n\n过去 6 小时从 FalconX 和 Galaxy Digital 处收到 3,297.84 枚 ETH，价值 624 万美元；自 07.15 以来已通过各大 MM 和交易所囤积 7,212.68 ETH，均价 $1,916，浮亏 26.5 万美元\n\n<a href=\"https://debank.com/profile/0x6cd66dbdfe289ab83d7311b668ada83a12447e21/history?chain=eth&token=eth_ETH\">debank.com/profile/0x6cd66db…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "link": "https://x.com/ai_9684xtpa/status/2081957525033996513",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOSZG88aIAAgwRr.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083353466047803788",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "TradeXYZ 对海力士乌龙插针的赔偿到账了💁‍♀️\n\n挺有意思的处理方案：以 $1115.5 作为基准\n▶︎ 钱少的（1w 刀以下）直接全额赔付\n▶︎ 钱多的先赔付 9999 USDC 安抚情绪，联系团队完成尽职调查后再给剩余部分\n\n当时受影响的小伙伴可以检查下自己的 HL 账户了",
-      "contentHtml": "TradeXYZ 对海力士乌龙插针的赔偿到账了💁‍♀️\n\n挺有意思的处理方案：以 $1115.5 作为基准\n▶︎ 钱少的（1w 刀以下）直接全额赔付\n▶︎ 钱多的先赔付 9999 USDC 安抚情绪，联系团队完成尽职调查后再给剩余部分\n\n当时受影响的小伙伴可以检查下自己的 HL 账户了",
-      "publishedAt": "2026-08-01T00:45:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2083353466047803788",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOmO1DlbgAASuHr.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "针对昨日的海力士乌龙插针，TradeXYZ 竟然决定赔付了😲\n\n▶︎ Oracle 是按照规范预期运行的\n▶︎ 后续会改进定价系统以应对小概率事件\n▶︎ 未来相关事件不保证采取相同行动\n\n强调了以上三点，简单来说是：报价机制没有问题，但为了不让用户寒心，这次会赔钱 —— 具体规则还要再等等，但至少有希望了",
-        "contentHtml": "针对昨日的海力士乌龙插针，TradeXYZ 竟然决定赔付了😲\n\n▶︎ Oracle 是按照规范预期运行的\n▶︎ 后续会改进定价系统以应对小概率事件\n▶︎ 未来相关事件不保证采取相同行动\n\n强调了以上三点，简单来说是：报价机制没有问题，但为了不让用户寒心，这次会赔钱 —— 具体规则还要再等等，但至少有希望了",
-        "link": "https://x.com/ai_9684xtpa/status/2082262763502747870",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOWuA15bsAAHFpY.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083346703537852482",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#投资 \n\nhmm 如果你只知道下注，又怎能明白努力和智力带来的快乐。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23投资\">#投资</a> \n\nhmm 如果你只知道下注，又怎能明白努力和智力带来的快乐。",
-      "publishedAt": "2026-08-01T00:18:00.000Z",
-      "link": "https://x.com/taresky/status/2083346703537852482",
-      "quote": {
-        "username": "taresky",
-        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-        "content": "#投资 \n\n就目前来说，做策略让我最爽的具体事情是：\n\n剩下的时间不多了。\n\n我们预设了所有情况，还在继续增加边缘情况。\n\n我们知道竞争对手应该没想这么多，或者可能已经睡了。\n\n最后时机一到，我们付了几千、几万、几十万美元的 gas fee，一笔交易给它包圆了。\n\n战斗，爽 ~(¯▽¯~)",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23投资\">#投资</a> \n\n就目前来说，做策略让我最爽的具体事情是：\n\n剩下的时间不多了。\n\n我们预设了所有情况，还在继续增加边缘情况。\n\n我们知道竞争对手应该没想这么多，或者可能已经睡了。\n\n最后时机一到，我们付了几千、几万、几十万美元的 gas fee，一笔交易给它包圆了。\n\n战斗，爽 ~(¯▽¯~)",
-        "link": "https://x.com/taresky/status/2083345943513211131"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083345943513211131",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#投资 \n\n就目前来说，做策略让我最爽的具体事情是：\n\n剩下的时间不多了。\n\n我们预设了所有情况，还在继续增加边缘情况。\n\n我们知道竞争对手应该没想这么多，或者可能已经睡了。\n\n最后时机一到，我们付了几千、几万、几十万美元的 gas fee，一笔交易给它包圆了。\n\n战斗，爽 ~(¯▽¯~)",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23投资\">#投资</a> \n\n就目前来说，做策略让我最爽的具体事情是：\n\n剩下的时间不多了。\n\n我们预设了所有情况，还在继续增加边缘情况。\n\n我们知道竞争对手应该没想这么多，或者可能已经睡了。\n\n最后时机一到，我们付了几千、几万、几十万美元的 gas fee，一笔交易给它包圆了。\n\n战斗，爽 ~(¯▽¯~)",
-      "publishedAt": "2026-08-01T00:15:00.000Z",
-      "link": "https://x.com/taresky/status/2083345943513211131",
-      "quote": {
-        "username": "firesidetapes",
-        "displayName": "Fireside Tapes",
-        "content": "In 2007, a rival fund called Ken Griffin on a Sunday needing to dump a $30 billion book before Monday's open to meet margin calls. The senior banker on the competing bid went to bed.\n\nCitadel owned all of it by 6AM.\n\nThis is him telling the whole story -- the 50-person team assembled in hours, the all-nighter, and the banker on the competing bid who called from Greenwich to say he was going to bed:\n\n\"And he said, look, it's getting late, this isn't gonna get done tonight. I'm heading off to bed, I'm telling my guys to go home, and we'll pick this up in the morning.\" \n\n\"And I said, there will be nothing to pick up in the morning. We're going to get this done. he sort of laughed and hung up.\"\n\n\"6AM before the opening of the markets, we bought that entire portfolio.\"\n\nThe quote he lands it on, from President Lincoln: \n\"Things may come to those who wait, but only those things left by those who hustle.\"\n\nBookmark & watch ↓",
-        "contentHtml": "In 2007, a rival fund called Ken Griffin on a Sunday needing to dump a $30 billion book before Monday's open to meet margin calls. The senior banker on the competing bid went to bed.\n\nCitadel owned all of it by 6AM.\n\nThis is him telling the whole story -- the 50-person team assembled in hours, the all-nighter, and the banker on the competing bid who called from Greenwich to say he was going to bed:\n\n\"And he said, look, it's getting late, this isn't gonna get done tonight. I'm heading off to bed, I'm telling my guys to go home, and we'll pick this up in the morning.\" \n\n\"And I said, there will be nothing to pick up in the morning. We're going to get this done. he sort of laughed and hung up.\"\n\n\"6AM before the opening of the markets, we bought that entire portfolio.\"\n\nThe quote he lands it on, from President Lincoln: \n\"Things may come to those who wait, but only those things left by those who hustle.\"\n\nBookmark & watch ↓",
-        "link": "https://x.com/firesidetapes/status/2082896523093053700"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083343467070296355",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#Crypto \n\n好奇玩这种交易所的人都是被地推带过去的吗？\n\n我觉得不用网上维权了，真正能维权的方式只有找到这个老板的肉身。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n好奇玩这种交易所的人都是被地推带过去的吗？\n\n我觉得不用网上维权了，真正能维权的方式只有找到这个老板的肉身。",
-      "publishedAt": "2026-08-01T00:06:00.000Z",
-      "link": "https://x.com/taresky/status/2083343467070296355",
-      "quote": {
-        "username": "Bitmarthuanqian",
-        "displayName": "Bitmart HQ",
-        "content": "",
-        "link": "https://x.com/Bitmarthuanqian/status/2083135539381964958"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083338975889297848",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#记账 \n\n19 个月过去，Google Sheet 是对的。\n\n之前是 —— 所有记账软件，都不可能满足我的记账需求，因此我需要的是表格。\n\n现在是 —— 所有记账软件，都不可能有我自己写得好。\n\n而且我还保留了所有的元数据✌️",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23记账\">#记账</a> \n\n19 个月过去，Google Sheet 是对的。\n\n之前是 —— 所有记账软件，都不可能满足我的记账需求，因此我需要的是表格。\n\n现在是 —— 所有记账软件，都不可能有我自己写得好。\n\n而且我还保留了所有的元数据✌️",
-      "publishedAt": "2026-07-31T23:48:00.000Z",
-      "link": "https://x.com/taresky/status/2083338975889297848",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083337549662372316",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#AI \n\n我有一个 Codex 重置额度，今天 4 点到期，但是 1 点的时候我还在跑目标模式。\n\n我要去睡了，想着挂一个定时任务，让 AI 自己去点一下就好了。\n\n结果呢？我早已麻痹。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n我有一个 Codex 重置额度，今天 4 点到期，但是 1 点的时候我还在跑目标模式。\n\n我要去睡了，想着挂一个定时任务，让 AI 自己去点一下就好了。\n\n结果呢？我早已麻痹。",
-      "publishedAt": "2026-07-31T23:42:00.000Z",
-      "link": "https://x.com/taresky/status/2083337549662372316",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOmAYZzbAAAVHc1.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083325149412261962",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "我觉得支付宝、微信做了大好事的（扫码支付）。\n\n目前全世界现行的这套刷卡清算规则，是个巨大的利益链条，增加了所有人的成本。—— 大概是 3% 的“支付税”。\n\n其实支付宝和微信已经实质上做了，Crypto 号称自己改变金融支付的所有事情。\n\n并且把这种模式（低成本、普惠金融支付）推广到了全世界。",
-      "contentHtml": "我觉得支付宝、微信做了大好事的（扫码支付）。\n\n目前全世界现行的这套刷卡清算规则，是个巨大的利益链条，增加了所有人的成本。—— 大概是 3% 的“支付税”。\n\n其实支付宝和微信已经实质上做了，Crypto 号称自己改变金融支付的所有事情。\n\n并且把这种模式（低成本、普惠金融支付）推广到了全世界。",
-      "publishedAt": "2026-07-31T22:53:00.000Z",
-      "link": "https://x.com/taresky/status/2083325149412261962",
       "stats": {
         "replies": 0,
         "retweets": 0,
