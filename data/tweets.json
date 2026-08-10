@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T03:59:23.477Z",
+  "lastUpdated": "2026-08-10T05:41:21.150Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,89 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 652,
+    "newFetched": 651,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2086688928468529628",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "这几个项目我都挖过矿\n\n资产数目好像也对的上，ac 有个 5-10 亿，这人比 AC 赚的多，20 亿似乎差不多\n\n在项目上我觉得没啥问题，算的上善庄有格局的庄\n\n个人上肯定有问题，ftm 的项目一个没上币安，当时朋友吹牛逼跟我说的就是 ftm 上的资金不干净😂",
+      "contentHtml": "这几个项目我都挖过矿\n\n资产数目好像也对的上，ac 有个 5-10 亿，这人比 AC 赚的多，20 亿似乎差不多\n\n在项目上我觉得没啥问题，算的上善庄有格局的庄\n\n个人上肯定有问题，ftm 的项目一个没上币安，当时朋友吹牛逼跟我说的就是 ftm 上的资金不干净😂",
+      "publishedAt": "2026-08-10T05:39:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2086688928468529628",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPVogoIbwAAIoGH.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPVogn9bQAAmlFy.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPVogrQbYAAaYYC.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086672875772334419",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "特朗普这几天好安静啊😲\n\n我有点不习惯了🤣",
+      "contentHtml": "特朗普这几天好安静啊😲\n\n我有点不习惯了🤣",
+      "publishedAt": "2026-08-10T04:35:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2086672875772334419",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086663734194479460",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "为什么智能体流量增长这么快？今年6月初互联网上Agent流量已经超过了人类流量，Cloudfare说五年后非人类的流量将是人类流量的1000倍。用一个例子就能很好的解释Agent和人类行为的差异：\n一个人要买数码相机，可能看 5 个网站；一个 Agent 为了帮你找到最佳相机，可能访问5000个网站。\n\n人类的稀缺资源是时间和注意力，所以人类会偷懒、会依赖品牌、会只看第一页结果、会在少数几个网站之间决策。Agent没有这种限制，它可以无聊地、耐心地、穷尽式地比较大量页面和商品，而且每一次用户意图都可能被放大成成百上千次机器请求。\n\n很多人没意识到这其实会带来互联网商业模式的巨大变革。",
+      "contentHtml": "为什么智能体流量增长这么快？今年6月初互联网上Agent流量已经超过了人类流量，Cloudfare说五年后非人类的流量将是人类流量的1000倍。用一个例子就能很好的解释Agent和人类行为的差异：\n一个人要买数码相机，可能看 5 个网站；一个 Agent 为了帮你找到最佳相机，可能访问5000个网站。\n\n人类的稀缺资源是时间和注意力，所以人类会偷懒、会依赖品牌、会只看第一页结果、会在少数几个网站之间决策。Agent没有这种限制，它可以无聊地、耐心地、穷尽式地比较大量页面和商品，而且每一次用户意图都可能被放大成成百上千次机器请求。\n\n很多人没意识到这其实会带来互联网商业模式的巨大变革。",
+      "publishedAt": "2026-08-10T03:59:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2086663734194479460",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPVRmw4a4AApsyr.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "互联网历史上首次，机器人流量正式超过人类流量。Cloudflare首席执行官Matthew Prince证实，代理流量有史以来首次超过人类流量。看下图Cloudflare Radar数据显示Bot现在占全球所有指向HTML页面的HTTP请求的57.5%。人类流量已降至42.5%（Cloudflare Radar数据）。\n\nCloudflare原本预计这一里程碑将在2027年实现。AI代理的爆发将其提前了整整一年。这将对基础设施成本、带宽定价、安全模型以及整个互联网经济产生了重大影响。\n\n23年9月的推文还推演过：移动互联网的原住民是DAU，未来虚拟世界metaverse原住民很可能是一个个Bot，可能是agent，其不再受单一主体的限制，能够有无限的注意力去完成人的各种需求。\n\n还不到三年时间这个推演就快要实现了。",
+        "contentHtml": "互联网历史上首次，机器人流量正式超过人类流量。Cloudflare首席执行官Matthew Prince证实，代理流量有史以来首次超过人类流量。看下图Cloudflare Radar数据显示Bot现在占全球所有指向HTML页面的HTTP请求的57.5%。人类流量已降至42.5%（Cloudflare Radar数据）。\n\nCloudflare原本预计这一里程碑将在2027年实现。AI代理的爆发将其提前了整整一年。这将对基础设施成本、带宽定价、安全模型以及整个互联网经济产生了重大影响。\n\n23年9月的推文还推演过：移动互联网的原住民是DAU，未来虚拟世界metaverse原住民很可能是一个个Bot，可能是agent，其不再受单一主体的限制，能够有无限的注意力去完成人的各种需求。\n\n还不到三年时间这个推演就快要实现了。",
+        "link": "https://x.com/qinbafrank/status/2063110948874015040",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HKGkW7JaMAAsSnh.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2086661978924482724",
       "username": "Murphychen888",
@@ -12316,77 +12394,6 @@
       "contentHtml": "我觉得支付宝、微信做了大好事的（扫码支付）。\n\n目前全世界现行的这套刷卡清算规则，是个巨大的利益链条，增加了所有人的成本。—— 大概是 3% 的“支付税”。\n\n其实支付宝和微信已经实质上做了，Crypto 号称自己改变金融支付的所有事情。\n\n并且把这种模式（低成本、普惠金融支付）推广到了全世界。",
       "publishedAt": "2026-07-31T22:53:00.000Z",
       "link": "https://x.com/taresky/status/2083325149412261962",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083320732407177339",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "上面只是个段子，今年的会议都会保持",
-      "contentHtml": "上面只是个段子，今年的会议都会保持",
-      "publishedAt": "2026-07-31T22:35:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2083320732407177339",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083319916917068034",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "沃什：我一定要通胀回2%\n市场：收到了，利率涨，美元涨\n沃什：我一定要通胀回2%\n市场：真的吗？我不大相信你的目的\n沃什：9月份我不开会了\n市场：草，你玩我呢？我定价了9月加息定了个寂寞？\n沃什：再罗嗦老子把11月也取消了\n😂😂😂😂",
-      "contentHtml": "沃什：我一定要通胀回2%\n市场：收到了，利率涨，美元涨\n沃什：我一定要通胀回2%\n市场：真的吗？我不大相信你的目的\n沃什：9月份我不开会了\n市场：草，你玩我呢？我定价了9月加息定了个寂寞？\n沃什：再罗嗦老子把11月也取消了\n😂😂😂😂",
-      "publishedAt": "2026-07-31T22:32:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2083319916917068034",
-      "quote": {
-        "username": "KobeissiLetter",
-        "displayName": "The Kobeissi Letter",
-        "content": "BREAKING: Fed Chair Warsh is considering reducing the amount of times that the Fed meets in a year, per NYT.\n\nDetails include:\n\n1. The FOMC has met eight times annually since 1981, with Federal law requiring at least four meetings per year\n\n2. Fed Chair Warsh has reportedly not proposed a specific number of meetings\n\n3. Fewer meetings would mean fewer scheduled rate votes and less frequent policy decisions\n\nA major shift is underway at the Fed.",
-        "contentHtml": "BREAKING: Fed Chair Warsh is considering reducing the amount of times that the Fed meets in a year, per NYT.\n\nDetails include:\n\n1. The FOMC has met eight times annually since 1981, with Federal law requiring at least four meetings per year\n\n2. Fed Chair Warsh has reportedly not proposed a specific number of meetings\n\n3. Fewer meetings would mean fewer scheduled rate votes and less frequent policy decisions\n\nA major shift is underway at the Fed.",
-        "link": "https://x.com/KobeissiLetter/status/2083290968854233335"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083308816334983317",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$BTC \n\nWe are right back at the lows after forming a lower high with FOMC.\n\nThere is also a significant cluster of low leverage longs positioned below us. \n\nI would observe 61-61.5 because if we lose that area locally, we are going to test 54-56K, so quite a key area.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWe are right back at the lows after forming a lower high with FOMC.\n\nThere is also a significant cluster of low leverage longs positioned below us. \n\nI would observe 61-61.5 because if we lose that area locally, we are going to test 54-56K, so quite a key area.",
-      "publishedAt": "2026-07-31T21:48:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2083308816334983317",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOllie8XUAEobAt.jpg"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "$BTC \n\nWe have a significant buildup of low leverage longs below us.\n\nWith Monday's high now established and BTC trading below the weekly open, there's a strong possibility this liquidity gets tested if the bearish market structure remains intact.",
-        "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWe have a significant buildup of low leverage longs below us.\n\nWith Monday's high now established and BTC trading below the weekly open, there's a strong possibility this liquidity gets tested if the bearish market structure remains intact.",
-        "link": "https://x.com/KillaXBT/status/2082102776931189015",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOUPlMjXsAA0vk_.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
