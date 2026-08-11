@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T23:38:14.218Z",
+  "lastUpdated": "2026-08-11T01:52:01.421Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,103 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 646,
+    "newFetched": 647,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2086990616119148875",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
+      "content": "「持續逼近的壓力」：偏離度調整的 STH-RP 模型最新數據更新📊\n\n如同我近期的更新所述，隨著 Liq 的持續積累、籌碼集中度的上升，\n似乎種種跡象都在表明「目前是暴風雨前的寧靜」。\n\n而此時此刻，老朋友 STH-RP 也在持續以穩定的節奏，\n一步一步向下逼近 BTC 的現價，變盤的十字路口貌似近在咫尺。\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，概念重溫如下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 藍線支撐的築底時間詳細覆盤：\nnitter.net/market_beggar/status/2…\n📖 藍線支撐的所有歷史案例分析：\nnitter.net/market_beggar/status/2…\n\n//\n\n如附圖所示，目前的模型最新數據如下📊：\n🟨 黃線（STH-RP）：68,753\n🟩 綠線：56,747（相比上次更新，降低了 570 點）\n🟦 藍線：50,009（相比上次更新，降低了 488 點）\n\n📖 上次的更新（2026 / 07 / 24）\nnitter.net/market_beggar/status/2…\n\n以這組數據而言，主要有兩件事情需要和各位報告：\n1️⃣ 綠線依然對應「路徑 2」；藍線依然對應「路徑 3」\n2️⃣ STH-RP 已和現價非常接近，隨時可能出現一波劇烈博弈\n\n關於先前提及的「3 種底部路徑推演」，詳細可參考以下鏈接🔗：\nnitter.net/market_beggar/status/2…\n\n貝格的老朋友都知道：\nSTH-RP 常被視作 BTC 的大級別牛熊分界線，\n不論是在 2025 年初的逃頂，或是 2025 下半年的熊市，\n期間對於行情的分析，都免不了 STH-RP 的強大貢獻。\n\n📖 生命線破位： BTC 的喪鐘可能已經敲響了（20250225）\nnitter.net/market_beggar/status/1…\n\n如今，即便 BTC 是百般不願走出方向，\n只要 STH-RP 持續下降，始終會和現價進行交會，\n屆時就算 BTC 想躲也躲不了，必須決一分曉方能罷休。\n\n保持耐心，維持紀律，都等這麼久了，也不差這幾天。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「波動收斂的第五週」：窄幅廝殺的尾聲何時而至\nnitter.net/market_beggar/status/2…\n\n「撤退開始？」：美方資金情緒曲線似有下降跡象\nnitter.net/market_beggar/status/2…\n\n「鐵底神話」CVDD 最新數據更新\nnitter.net/market_beggar/status/2…",
+      "contentHtml": "「持續逼近的壓力」：偏離度調整的 STH-RP 模型最新數據更新📊\n\n如同我近期的更新所述，隨著 Liq 的持續積累、籌碼集中度的上升，\n似乎種種跡象都在表明「目前是暴風雨前的寧靜」。\n\n而此時此刻，老朋友 STH-RP 也在持續以穩定的節奏，\n一步一步向下逼近 BTC 的現價，變盤的十字路口貌似近在咫尺。\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，概念重溫如下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 藍線支撐的築底時間詳細覆盤：\n<a href=\"https://nitter.net/market_beggar/status/2026474493749989766\">nitter.net/market_beggar/status/2…</a>\n📖 藍線支撐的所有歷史案例分析：\n<a href=\"https://nitter.net/market_beggar/status/2018501752103047340\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n如附圖所示，目前的模型最新數據如下📊：\n🟨 黃線（STH-RP）：68,753\n🟩 綠線：56,747（相比上次更新，降低了 570 點）\n🟦 藍線：50,009（相比上次更新，降低了 488 點）\n\n📖 上次的更新（2026 / 07 / 24）\n<a href=\"https://nitter.net/market_beggar/status/2080469443352854893\">nitter.net/market_beggar/status/2…</a>\n\n以這組數據而言，主要有兩件事情需要和各位報告：\n1️⃣ 綠線依然對應「路徑 2」；藍線依然對應「路徑 3」\n2️⃣ STH-RP 已和現價非常接近，隨時可能出現一波劇烈博弈\n\n關於先前提及的「3 種底部路徑推演」，詳細可參考以下鏈接🔗：\n<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>\n\n貝格的老朋友都知道：\nSTH-RP 常被視作 BTC 的大級別牛熊分界線，\n不論是在 2025 年初的逃頂，或是 2025 下半年的熊市，\n期間對於行情的分析，都免不了 STH-RP 的強大貢獻。\n\n📖 生命線破位： BTC 的喪鐘可能已經敲響了（20250225）\n<a href=\"https://nitter.net/market_beggar/status/1894209808557105335\">nitter.net/market_beggar/status/1…</a>\n\n如今，即便 BTC 是百般不願走出方向，\n只要 STH-RP 持續下降，始終會和現價進行交會，\n屆時就算 BTC 想躲也躲不了，必須決一分曉方能罷休。\n\n保持耐心，維持紀律，都等這麼久了，也不差這幾天。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「波動收斂的第五週」：窄幅廝殺的尾聲何時而至\n<a href=\"https://nitter.net/market_beggar/status/2086628115057721344\">nitter.net/market_beggar/status/2…</a>\n\n「撤退開始？」：美方資金情緒曲線似有下降跡象\n<a href=\"https://nitter.net/market_beggar/status/2085543188799094800\">nitter.net/market_beggar/status/2…</a>\n\n「鐵底神話」CVDD 最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2084449286927049028\">nitter.net/market_beggar/status/2…</a>",
+      "publishedAt": "2026-08-11T01:38:00.000Z",
+      "link": "https://x.com/market_beggar/status/2086990616119148875",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPZ65NhaUAAwnT2.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "BTC 長、短期持有者成本數據更新：交叉遙遙無期？🕸\n\n承接下方引文，今天一樣要來和各位更新「深熊抄底系列」的最新數據。\n\n上週我和各位報告了「長、短期持有者成本逆轉訊號」，\n時隔一週，隨著時間的推移，一些「轉向」的跡象似乎正在浮現。\n\n先說結論📝：\nSTH-RP 穩步下降；LTH-RP 卻停止上升⏳\n\n//\n\n附圖的指標概念如下：\n➡️ 藍線（🟦）= STH-RP（短期持有者平均成本）\n➡️ 綠線（🟩）= LTH-RP（長期持有者平均成本）\n➡️ 訊號 = STH-RP < LTH-RP\n\n如附圖所示，目前的最新數據如下：\n➡️ LTH-RP（🟩）= 48,601，相比兩週前「下降」約 349 點\n➡️ STH-RP（🟦）= 68,824，相比兩週前下降約 507 點\n\n前兩次的數據更新如下（內附原理詳述）：\n📖 07/29 更新\nnitter.net/market_beggar/status/2…\n📖 07/14 更新\nnitter.net/market_beggar/status/2…\n\n//\n\n簡單來說：\nSTH-RP 在過去一個月內，依然照著自己的節奏在持續下移；\n但 LTH-RP 在過去三週內，平均而言卻是「下降」的，\n這說明自上週更新至今，依然有部分 LTH 族群在進行派發。\n\nLTH 的派發，在現階段而言其實不容易評估，\n按照過往經驗：「LTH-RP 開始派發 = 牛市的開始」，\n因為 LTH 族群相比於 STH，算是相對的聰明錢，\n他們只有在「熊市吸籌完成」後，才會開始派發（牛市初期開始）。\n\n但，之所以說不容易評估，其核心理由在於：\n「本輪週期獨有的特徵：高位套牢大量籌碼👻」。\n\n📖 從鏈上數據的視角，探討 BTC 逐漸消失的週期性\nnitter.net/market_beggar/status/1…\n\n這個話題我先前也和各位聊過不少次：\n高位套牢的大量籌碼，他們自去年 10 月開啟的熊市至今，\n其實展現出了極強的「韌性」，拋售意願極低，\n這就導致了這些「不太聰明的高位買入者」隨著時間推移，\n被迫成為 LTH 的一份子，進而持續將 LTH-RP 拉升。\n\n📖 「老狗不慌我不慌」：10 萬上方套牢盤最新數據追蹤\nnitter.net/market_beggar/status/2…\n\n綜上所述，我們其實不容易直接評估 LTH-RP 開始下降的理由，\n到底是因為「聰明的 LTH 正在開始派發」，還是「套牢的 LTH 開始割肉」。\n\n不過，不論是前者或後者，都在側面印證一件事情：\n「我們真的距離熊市底部不遠了（從空間上而言）」。\n\n並且，如果 LTH-RP 持續保持下降的趨勢，\n那就意味著「STH-RP < LTH-RP」的底部訊號很可能不會發生，\n如果是一廂情願在等待這項訊號的朋友，\n或許過去三週內出現的跡象，需要你重新評估這項訊號的觸發概率。\n\n📖 BTC「三種週期性底部結構」路徑推演\nnitter.net/market_beggar/status/2…\n\n縱然當前行情已維持橫盤震盪很長一段時間，\n但這種橫向結構正是「週期性築底」的特徵之一（籌碼持續換手）；\n並且，即便是「高位套牢者的割肉」，也可將其視為「投降」，\n而「大規模投降」往往是見底的前瞻性訊號之一（即便目前規模不大）。\n\n總結來說：\n即便中短線行情受到 Liq 的牽制（nitter.net/market_beggar/status/2…），\n從長期來看，熊底（或稱牛初）的訊號正逐步開始浮現，\n結合先前出現的兩項週期性底部訊號：\n💡 PSIP < 50%（nitter.net/market_beggar/status/2…）\n💡 AVIV Heatmap 進入藍色區域（nitter.net/market_beggar/status/2…）\n從客觀數據而言，我們的確不得不承認「當前市場已經很接近週期底」。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「鐵底神話」CVDD 最新數據更新\nnitter.net/market_beggar/status/2…\n\n「底部必出的現象」：巨量換手形成的堅實底部基礎\nnitter.net/market_beggar/status/2…\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\nnitter.net/market_beggar/status/2…",
+        "contentHtml": "BTC 長、短期持有者成本數據更新：交叉遙遙無期？🕸\n\n承接下方引文，今天一樣要來和各位更新「深熊抄底系列」的最新數據。\n\n上週我和各位報告了「長、短期持有者成本逆轉訊號」，\n時隔一週，隨著時間的推移，一些「轉向」的跡象似乎正在浮現。\n\n先說結論📝：\nSTH-RP 穩步下降；LTH-RP 卻停止上升⏳\n\n//\n\n附圖的指標概念如下：\n➡️ 藍線（🟦）= STH-RP（短期持有者平均成本）\n➡️ 綠線（🟩）= LTH-RP（長期持有者平均成本）\n➡️ 訊號 = STH-RP &lt; LTH-RP\n\n如附圖所示，目前的最新數據如下：\n➡️ LTH-RP（🟩）= 48,601，相比兩週前「下降」約 349 點\n➡️ STH-RP（🟦）= 68,824，相比兩週前下降約 507 點\n\n前兩次的數據更新如下（內附原理詳述）：\n📖 07/29 更新\n<a href=\"https://nitter.net/market_beggar/status/2082338984362185024\">nitter.net/market_beggar/status/2…</a>\n📖 07/14 更新\n<a href=\"https://nitter.net/market_beggar/status/2076844585188520149\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n簡單來說：\nSTH-RP 在過去一個月內，依然照著自己的節奏在持續下移；\n但 LTH-RP 在過去三週內，平均而言卻是「下降」的，\n這說明自上週更新至今，依然有部分 LTH 族群在進行派發。\n\nLTH 的派發，在現階段而言其實不容易評估，\n按照過往經驗：「LTH-RP 開始派發 = 牛市的開始」，\n因為 LTH 族群相比於 STH，算是相對的聰明錢，\n他們只有在「熊市吸籌完成」後，才會開始派發（牛市初期開始）。\n\n但，之所以說不容易評估，其核心理由在於：\n「本輪週期獨有的特徵：高位套牢大量籌碼👻」。\n\n📖 從鏈上數據的視角，探討 BTC 逐漸消失的週期性\n<a href=\"https://nitter.net/market_beggar/status/1910515596497936757\">nitter.net/market_beggar/status/1…</a>\n\n這個話題我先前也和各位聊過不少次：\n高位套牢的大量籌碼，他們自去年 10 月開啟的熊市至今，\n其實展現出了極強的「韌性」，拋售意願極低，\n這就導致了這些「不太聰明的高位買入者」隨著時間推移，\n被迫成為 LTH 的一份子，進而持續將 LTH-RP 拉升。\n\n📖 「老狗不慌我不慌」：10 萬上方套牢盤最新數據追蹤\n<a href=\"https://nitter.net/market_beggar/status/2013428574179729645\">nitter.net/market_beggar/status/2…</a>\n\n綜上所述，我們其實不容易直接評估 LTH-RP 開始下降的理由，\n到底是因為「聰明的 LTH 正在開始派發」，還是「套牢的 LTH 開始割肉」。\n\n不過，不論是前者或後者，都在側面印證一件事情：\n「我們真的距離熊市底部不遠了（從空間上而言）」。\n\n並且，如果 LTH-RP 持續保持下降的趨勢，\n那就意味著「STH-RP &lt; LTH-RP」的底部訊號很可能不會發生，\n如果是一廂情願在等待這項訊號的朋友，\n或許過去三週內出現的跡象，需要你重新評估這項訊號的觸發概率。\n\n📖 BTC「三種週期性底部結構」路徑推演\n<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>\n\n縱然當前行情已維持橫盤震盪很長一段時間，\n但這種橫向結構正是「週期性築底」的特徵之一（籌碼持續換手）；\n並且，即便是「高位套牢者的割肉」，也可將其視為「投降」，\n而「大規模投降」往往是見底的前瞻性訊號之一（即便目前規模不大）。\n\n總結來說：\n即便中短線行情受到 Liq 的牽制（<a href=\"https://nitter.net/market_beggar/status/2084085146085666979\">nitter.net/market_beggar/status/2…</a>），\n從長期來看，熊底（或稱牛初）的訊號正逐步開始浮現，\n結合先前出現的兩項週期性底部訊號：\n💡 PSIP &lt; 50%（<a href=\"https://nitter.net/market_beggar/status/2063800180227588374\">nitter.net/market_beggar/status/2…</a>）\n💡 AVIV Heatmap 進入藍色區域（<a href=\"https://nitter.net/market_beggar/status/2071773101898223809\">nitter.net/market_beggar/status/2…</a>）\n從客觀數據而言，我們的確不得不承認「當前市場已經很接近週期底」。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「鐵底神話」CVDD 最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2084449286927049028\">nitter.net/market_beggar/status/2…</a>\n\n「底部必出的現象」：巨量換手形成的堅實底部基礎\n<a href=\"https://nitter.net/market_beggar/status/2083006515175387476\">nitter.net/market_beggar/status/2…</a>\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\n<a href=\"https://nitter.net/market_beggar/status/2081926743783592189\">nitter.net/market_beggar/status/2…</a>",
+        "link": "https://x.com/market_beggar/status/2084818219072954827",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO7DHWVagAA1nui.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086987724037185547",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
+      "content": "People who are serious about software train their own models.",
+      "contentHtml": "People who are serious about software train their own models.",
+      "publishedAt": "2026-08-11T01:27:00.000Z",
+      "link": "https://x.com/naval/status/2086987724037185547",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086986081871007745",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#外设 \n\n那种带电风扇的无线充电器，竟然确实有用……",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23外设\">#外设</a> \n\n那种带电风扇的无线充电器，竟然确实有用……",
+      "publishedAt": "2026-08-11T01:20:00.000Z",
+      "link": "https://x.com/taresky/status/2086986081871007745",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086978623379325105",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "昨晚市场走弱主要驱动因素应该是因为霍尔木兹海峡短期内难重新全面开放的担忧。双方互相要赔偿，市场对供应中断的担忧又开始回升，导致油价突破性上涨（不仅站上80美元，并突破了50日移动均线）而美债收益率几乎是在“逐点跟随”油价上涨，市场自然是进一步承压。\n\n上周油价曾因伊朗与阿曼接近就新航道达成协议而大跌超7%，市场一度乐观。但周末至周一：\n1）伊朗重申强硬条件：美国必须结束海军封锁、解除制裁、赔偿战争损失（包括数十亿美元级别的补偿）、撤军等，才同意海峡重新自由通航。伊朗称与阿曼的协议“接近最终阶段”，但重新开放仍取决于美方让步。这被描述为伊朗提出的“最高要价”。\n\n2）川普则反过来要求伊朗赔偿“过去50年杀害和重伤的人”（包括平民抗议者和美军相关伤亡）。\n同时川普明确倾向于不升级军事行动，不愿重启全面空袭，转而采用“观望”策略，让制裁+封锁继续施加经济痛苦，期待伊朗最终屈服\n\n这两点让市场对于博弈的持续性担忧在增加，就是海峡没那么快重开。\n\n经济施压确也是川普当前更现实的选择（军事升级风险高、效果有限），伊朗经济承压，但要说让伊朗“快速屈服”短期内估计概率不高。更可能是持续僵持，直到一方在国内或外部压力下让步，或达成某种有限妥协。\n\n最后就是围绕着伊朗的最高要价里的条款做博弈，哪些能接受，哪些可以让步。但最大的问题在于时间节奏路径又变得不清晰了。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "昨晚市场走弱主要驱动因素应该是因为霍尔木兹海峡短期内难重新全面开放的担忧。双方互相要赔偿，市场对供应中断的担忧又开始回升，导致油价突破性上涨（不仅站上80美元，并突破了50日移动均线）而美债收益率几乎是在“逐点跟随”油价上涨，市场自然是进一步承压。\n\n上周油价曾因伊朗与阿曼接近就新航道达成协议而大跌超7%，市场一度乐观。但周末至周一：\n1）伊朗重申强硬条件：美国必须结束海军封锁、解除制裁、赔偿战争损失（包括数十亿美元级别的补偿）、撤军等，才同意海峡重新自由通航。伊朗称与阿曼的协议“接近最终阶段”，但重新开放仍取决于美方让步。这被描述为伊朗提出的“最高要价”。\n\n2）川普则反过来要求伊朗赔偿“过去50年杀害和重伤的人”（包括平民抗议者和美军相关伤亡）。\n同时川普明确倾向于不升级军事行动，不愿重启全面空袭，转而采用“观望”策略，让制裁+封锁继续施加经济痛苦，期待伊朗最终屈服\n\n这两点让市场对于博弈的持续性担忧在增加，就是海峡没那么快重开。\n\n经济施压确也是川普当前更现实的选择（军事升级风险高、效果有限），伊朗经济承压，但要说让伊朗“快速屈服”短期内估计概率不高。更可能是持续僵持，直到一方在国内或外部压力下让步，或达成某种有限妥协。\n\n最后就是围绕着伊朗的最高要价里的条款做博弈，哪些能接受，哪些可以让步。但最大的问题在于时间节奏路径又变得不清晰了。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-08-11T00:50:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2086978623379325105",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "华尔街日报爆料川普私下向高级助手表示，如果伊朗完全重开霍尔木兹海峡，他愿意在没有核协议的情况下结束对伊战争、并可能宣布胜利，这被视为从最初“让伊朗无条件投降”等强硬要求的明显退让。\n\n川普最初要求伊朗“无条件投降”、彻底解决核问题等。但近几周，他将重点从全面核协议转向优先确保霍尔木兹海峡完全恢复商业通行。他私下向高级助手表示：如果伊朗完全重开海峡（恢复国际航运自由通行），他愿意在没有新核协议的情况下结束战争、宣布胜利，并可能无限期延长现有停火、解除对伊朗港口的海军封锁。这标志着目标大幅缩减。\n\n但上周六伊朗提出迄今最高要价：\n要求美国支付数十亿美元（包括战争赔偿）、从地区撤军、结束海军封锁、永久结束战争、解除制裁、释放被冻结资产、停止威胁/侮辱、停止对伊朗地区民兵盟友的军事行动等。伊朗还要求禁止美国军舰通过海峡，并试图对商船收费。暂时这些条件被美方拒绝。\n\n之前聊过伊朗跟阿曼的谈判、阿曼应该是随时跟美国在沟通的，伊朗和阿曼也清楚，关于霍尔木兹海峡的协议最重要还是要美国接受并承认，否则就还没谈完。\n\n现在的问题是川普最终会不会万般不情愿但又无可奈何地接受伊朗对霍尔木兹海峡的事实控制？（接受伊朗对海峡事实控制权，伊朗在上周提出的最高要价上做一个大让步）\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "华尔街日报爆料川普私下向高级助手表示，如果伊朗完全重开霍尔木兹海峡，他愿意在没有核协议的情况下结束对伊战争、并可能宣布胜利，这被视为从最初“让伊朗无条件投降”等强硬要求的明显退让。\n\n川普最初要求伊朗“无条件投降”、彻底解决核问题等。但近几周，他将重点从全面核协议转向优先确保霍尔木兹海峡完全恢复商业通行。他私下向高级助手表示：如果伊朗完全重开海峡（恢复国际航运自由通行），他愿意在没有新核协议的情况下结束战争、宣布胜利，并可能无限期延长现有停火、解除对伊朗港口的海军封锁。这标志着目标大幅缩减。\n\n但上周六伊朗提出迄今最高要价：\n要求美国支付数十亿美元（包括战争赔偿）、从地区撤军、结束海军封锁、永久结束战争、解除制裁、释放被冻结资产、停止威胁/侮辱、停止对伊朗地区民兵盟友的军事行动等。伊朗还要求禁止美国军舰通过海峡，并试图对商船收费。暂时这些条件被美方拒绝。\n\n之前聊过伊朗跟阿曼的谈判、阿曼应该是随时跟美国在沟通的，伊朗和阿曼也清楚，关于霍尔木兹海峡的协议最重要还是要美国接受并承认，否则就还没谈完。\n\n现在的问题是川普最终会不会万般不情愿但又无可奈何地接受伊朗对霍尔木兹海峡的事实控制？（接受伊朗对海峡事实控制权，伊朗在上周提出的最高要价上做一个大让步）\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2086628581766312341",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPUxomvawAA-CTN.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2086921276468142356",
       "username": "TJ_Research",
@@ -1949,10 +2041,6 @@
           "url": "https://pbs.twimg.com/media/HPUxNRdbMAEeBvE.jpg"
         }
       ],
-      "retweet": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢"
-      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -12241,107 +12329,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084009903165689896",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$BTC\n\nThe only problem you're gonna have is that you didn't buy more.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nThe only problem you're gonna have is that you didn't buy more.",
-      "publishedAt": "2026-08-02T20:14:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2084009903165689896",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOvj7lkWQAAkCRt.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083955237459534261",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$BTC is already down 53%.\n\nA test of 50K is a 60% drawdown, and with 1.5 months still left, it’s definitely possible based on prior cycles.\n\nBut just stop obsessing over one “perfect” area like it’s sacred. That hesitation is exactly why most people never execute.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> is already down 53%.\n\nA test of 50K is a 60% drawdown, and with 1.5 months still left, it’s definitely possible based on prior cycles.\n\nBut just stop obsessing over one “perfect” area like it’s sacred. That hesitation is exactly why most people never execute.",
-      "publishedAt": "2026-08-02T16:37:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2083955237459534261",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOuxAGIWQAAp4_I.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Kalshi_Crypto",
-        "displayName": "Kalshi Crypto",
-        "content": "BREAKING: Our traders forecast Bitcoin will crash to $50,000 this year",
-        "contentHtml": "BREAKING: Our traders forecast Bitcoin will crash to $50,000 this year",
-        "link": "https://x.com/Kalshi_Crypto/status/2083952431096848481",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOuvsRyXUAAjEDS.png"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOuvsRsXIAAppFP.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083951451425108218",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "一想到新的一周第一天就要爆仓\n\n有点兴奋🤣",
-      "contentHtml": "一想到新的一周第一天就要爆仓\n\n有点兴奋🤣",
-      "publishedAt": "2026-08-02T16:21:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2083951451425108218",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOuuzDyaoAAwsV2.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2083935840355643476",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "半导体盘前今天基本保持住了白宫股神TACO带的涨幅\n\n但是BTC和ETH却走出了先涨后跌，而且基本跌到了今天声明发布前的起点，趋势跟踪策略4小时级别也再次出现做空信号\n\n真的就像昨天说的一样加密的老大老二颓势尽显\n\n进推特主页加TG群找小助理获取【自用趋势策略】\n#半导体 #BTC #ETH",
-      "contentHtml": "半导体盘前今天基本保持住了白宫股神TACO带的涨幅\n\n但是BTC和ETH却走出了先涨后跌，而且基本跌到了今天声明发布前的起点，趋势跟踪策略4小时级别也再次出现做空信号\n\n真的就像昨天说的一样加密的老大老二颓势尽显\n\n进推特主页加TG群找小助理获取【自用趋势策略】\n<a href=\"/search?f=tweets&q=%23半导体\">#半导体</a> <a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> <a href=\"/search?f=tweets&q=%23ETH\">#ETH</a>",
-      "publishedAt": "2026-08-02T15:19:00.000Z",
-      "link": "https://x.com/dongbimao/status/2083935840355643476",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOuYDpZbwAAKbkD.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
