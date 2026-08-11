@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T01:52:01.421Z",
+  "lastUpdated": "2026-08-11T03:47:21.977Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,274 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 647,
+    "newFetched": 643,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2087017454484828631",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "怎么看RKLB今天发布的二季度财报？简单说就是当季经营非常强，但边际信息偏弱。详细聊聊：\n1、RKLB处于历史最强阶段。，Q2营收创纪录达到2.341亿美元，同比增长62%；积压订单达到23.56亿美元，同比增长137%；GAAP毛利率、非GAAP毛利率和调整后EBITDA均明显好于公司此前指引。Space Systems已经贡献81%的收入，Rocket Lab事实上早已不再是一家单纯的小火箭发射公司；\n\n这里要重点说下，发射业务同比降低收入确认的问题。但单位经济性反而明显改善，公司披露的单次发射平均收入由790万美元升至910万美元，单次发射平均成本由500万美元下降至440万美元。单次发射成本降低，单次发射收入则大幅提升。\n\n2、Q2及季后，RKLB新增超过4.37亿美元发射合同，新增26次发射，使发射积压订单达到90次以上。新增订单包括NASA三次Electron、iQPS三次Electron、两次保密HASTE任务，以及美国太空军最高2.66亿美元、最多18次亚轨道任务的合同。\n\n也需要注意，之前新闻稿中的4.37亿美元、3.97亿美元Flatellite合同和2.66亿美元HASTE合同均包含部分尚未行使的期权；而10-Q披露的23.56亿美元正式backlog排除了未行使客户期权。\n\n3、Q3指引暴露了收入增长质量问题。 Q3营收中值仍将环比增长约10%，但GAAP毛利率预计从36.1%骤降至29%—31%，低于市场约37.6%的预期；调整后EBITDA亏损也将从880万美元重新扩大至1700万—2300万美元。其根源不是需求不足，而是低毛利卫星平台项目、Mynaric整合以及Neutron Flight 1支出共同上升；\n\n4、RKLB长期把太空价值链分为三层：\n1）进入太空——发射；\n2）在太空中工作的硬件——卫星和组件；\n3）从太空向地面提供服务——通信、数据、定位和应用。\n\nRKLB已经拥有前两层，Iridium提供第三层。Iridium拥有66颗在轨卫星、超过250万用户和超过8.7亿美元年度收入，使Rocket Lab能够直接获得全球卫星通信网络、稀缺L-band频谱和经验证的订阅型收入。\n\n而且Iridium本身产生较强自由现金流，收购完成整合后能重置RKLB的现金流模型\n\n5、Neutron中子星没有被公司正式宣布延期，但时间表已经明显软化。 一季度的表述还是“今年晚些时候首飞”，本季度变成“Q4交付发射台”，Peter Beck承认“年底发射窗口正在收窄”。基于这些信息，中子星27年Q1首飞已经变成了基准情景，年底前能首飞则变成了超预期的乐观情景了；\n\n简单说RKLB这份财报，产业地位继续上升，现有业务继续变强。但市场对中子星的预期还是很高的，首飞时间推后自然要让市场失望，短期内估计还是要磨了。",
+      "contentHtml": "怎么看RKLB今天发布的二季度财报？简单说就是当季经营非常强，但边际信息偏弱。详细聊聊：\n1、RKLB处于历史最强阶段。，Q2营收创纪录达到2.341亿美元，同比增长62%；积压订单达到23.56亿美元，同比增长137%；GAAP毛利率、非GAAP毛利率和调整后EBITDA均明显好于公司此前指引。Space Systems已经贡献81%的收入，Rocket Lab事实上早已不再是一家单纯的小火箭发射公司；\n\n这里要重点说下，发射业务同比降低收入确认的问题。但单位经济性反而明显改善，公司披露的单次发射平均收入由790万美元升至910万美元，单次发射平均成本由500万美元下降至440万美元。单次发射成本降低，单次发射收入则大幅提升。\n\n2、Q2及季后，RKLB新增超过4.37亿美元发射合同，新增26次发射，使发射积压订单达到90次以上。新增订单包括NASA三次Electron、iQPS三次Electron、两次保密HASTE任务，以及美国太空军最高2.66亿美元、最多18次亚轨道任务的合同。\n\n也需要注意，之前新闻稿中的4.37亿美元、3.97亿美元Flatellite合同和2.66亿美元HASTE合同均包含部分尚未行使的期权；而10-Q披露的23.56亿美元正式backlog排除了未行使客户期权。\n\n3、Q3指引暴露了收入增长质量问题。 Q3营收中值仍将环比增长约10%，但GAAP毛利率预计从36.1%骤降至29%—31%，低于市场约37.6%的预期；调整后EBITDA亏损也将从880万美元重新扩大至1700万—2300万美元。其根源不是需求不足，而是低毛利卫星平台项目、Mynaric整合以及Neutron Flight 1支出共同上升；\n\n4、RKLB长期把太空价值链分为三层：\n1）进入太空——发射；\n2）在太空中工作的硬件——卫星和组件；\n3）从太空向地面提供服务——通信、数据、定位和应用。\n\nRKLB已经拥有前两层，Iridium提供第三层。Iridium拥有66颗在轨卫星、超过250万用户和超过8.7亿美元年度收入，使Rocket Lab能够直接获得全球卫星通信网络、稀缺L-band频谱和经验证的订阅型收入。\n\n而且Iridium本身产生较强自由现金流，收购完成整合后能重置RKLB的现金流模型\n\n5、Neutron中子星没有被公司正式宣布延期，但时间表已经明显软化。 一季度的表述还是“今年晚些时候首飞”，本季度变成“Q4交付发射台”，Peter Beck承认“年底发射窗口正在收窄”。基于这些信息，中子星27年Q1首飞已经变成了基准情景，年底前能首飞则变成了超预期的乐观情景了；\n\n简单说RKLB这份财报，产业地位继续上升，现有业务继续变强。但市场对中子星的预期还是很高的，首飞时间推后自然要让市场失望，短期内估计还是要磨了。",
+      "publishedAt": "2026-08-11T03:25:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2087017454484828631",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPaPiSgbkAA37Q-.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "过去两个月RKLB股价就像泄洪一样从150干到60，不知道以为小火箭爆炸了要破产了。不过订单倒时拿到手软：\n1）6月下旬NASA选择RKLB执行三项Electron专用发射任务，用于PolSIR和TSIS-2科学任务。属于NASA的VADR合同框架；\n2）6月底宣布完成收购铱星通信。进入卫星通信、数据服务领域；\n3）7月下旬美国太空军授予RKLB约2.66亿美元（$266M）多发射合同， 由Space Systems Command的Rocket Systems Launch Program（RSLP）授予，用于12次亚轨道发射（最多额外6次选项），支持导弹防御能力发展。首次发射预计不早于2026年底，主要从阿拉斯加（Kodiak）新站点执行。这是当时公司最大的发射合同。\n\n4）7月30日，RKLB与日本iQPS签署三枚Electron专用发射多发射协议 每枚任务部署一颗QPS-SAR合成孔径雷达卫星至约575公里低地球轨道，用于扩展iQPS地球成像星座。从新西兰Launch Complex 1发射，计划从2027年末开始。这是双方一年内宣布的第三份多发射协议（累计已预订18次Electron发射）。\n\n5）8月1日，RKLB被选入美国太空军NITE-STAR IDIQ项目，太空军挑选包括Rocket Lab在内的15家公司，进入价值上限约9.81亿美元（$981M）的合同，用于发展空间测试与训练基础设施（卫星、传感器、地面系统等）。这是入选资格，后续可竞争具体任务订单。\n\n6）8月4日今天，美国太空军授予RKLB约3.97亿美元（$397M）合同，服务于天基空中动目标指示项目（SB-AMTI），由天基感知与目标定位（SBST）项目采购执行办公室（PAE）主导。Rocket Lab将开发、在Neutron火箭上发射并运营多颗先进Flatellite（平板卫星设计，配备传感器和低延迟高带宽通信链路），从安全设施提供实时探测与跟踪空中威胁数据。合同包含额外Flatellite选项。\n\n对RKLB而言，算是一揽子非常积极的信号，进一步巩固其从“小型发射商”向“垂直整合国防太空系统供应商”的转型。 尤其是8月4日的3.97亿美元SB-AMTI合同，叠加过去两个月的其他订单，意义显著。\n1）大幅提升订单积压（Backlog）与收入可见性，Q1积压已约22亿美元同比增长超100%。近期新增的，那么积压订单量进一步提升，可能已经到30亿美金以上。\n\n2）验证垂直整合模式与Neutron需求\nSB-AMTI合同是端到端的：设计/制造先进Flatellite（平板卫星，优化大规模星座）、用即将首飞的Neutron发射、再从安全设施运营并提供实时数据/跟踪信息。 这直接认可了Rocket Lab“发射+航天器+任务运营”的一体化能力，也是Neutron的重大政府客户背书（此前已有商业预订）。Neutron仍目标2026年Q4首飞（此前因罐体测试等问题有所推迟），这类合同有助于降低需求风险、加速产能 \n\n3）强化国防/国家安全定位，打开更高价值机会\nRKLB已经连续拿下多份美国太空军/SDA相关合同（此前还有SDA Tracking Layer等超8亿美元级别订单）。\n从亚轨道HASTE测试、到天基空中动目标指示（SB-AMTI，替代/补充传统空中预警机）、再到测试训练基础设施（NITE-STAR），覆盖范围扩大。\n 这提升了其作为“可信国防prime”的地位，有利于参与更多Golden Dome等大型项目竞争。\n\n这些业务层面的积极进展，可能会带动RKLB在八九月来一波行情，总不能一直被毒打嘛😅\n\n下半年最关键的就是Neutron能否首飞成功了。",
+        "contentHtml": "过去两个月RKLB股价就像泄洪一样从150干到60，不知道以为小火箭爆炸了要破产了。不过订单倒时拿到手软：\n1）6月下旬NASA选择RKLB执行三项Electron专用发射任务，用于PolSIR和TSIS-2科学任务。属于NASA的VADR合同框架；\n2）6月底宣布完成收购铱星通信。进入卫星通信、数据服务领域；\n3）7月下旬美国太空军授予RKLB约2.66亿美元（$266M）多发射合同， 由Space Systems Command的Rocket Systems Launch Program（RSLP）授予，用于12次亚轨道发射（最多额外6次选项），支持导弹防御能力发展。首次发射预计不早于2026年底，主要从阿拉斯加（Kodiak）新站点执行。这是当时公司最大的发射合同。\n\n4）7月30日，RKLB与日本iQPS签署三枚Electron专用发射多发射协议 每枚任务部署一颗QPS-SAR合成孔径雷达卫星至约575公里低地球轨道，用于扩展iQPS地球成像星座。从新西兰Launch Complex 1发射，计划从2027年末开始。这是双方一年内宣布的第三份多发射协议（累计已预订18次Electron发射）。\n\n5）8月1日，RKLB被选入美国太空军NITE-STAR IDIQ项目，太空军挑选包括Rocket Lab在内的15家公司，进入价值上限约9.81亿美元（$981M）的合同，用于发展空间测试与训练基础设施（卫星、传感器、地面系统等）。这是入选资格，后续可竞争具体任务订单。\n\n6）8月4日今天，美国太空军授予RKLB约3.97亿美元（$397M）合同，服务于天基空中动目标指示项目（SB-AMTI），由天基感知与目标定位（SBST）项目采购执行办公室（PAE）主导。Rocket Lab将开发、在Neutron火箭上发射并运营多颗先进Flatellite（平板卫星设计，配备传感器和低延迟高带宽通信链路），从安全设施提供实时探测与跟踪空中威胁数据。合同包含额外Flatellite选项。\n\n对RKLB而言，算是一揽子非常积极的信号，进一步巩固其从“小型发射商”向“垂直整合国防太空系统供应商”的转型。 尤其是8月4日的3.97亿美元SB-AMTI合同，叠加过去两个月的其他订单，意义显著。\n1）大幅提升订单积压（Backlog）与收入可见性，Q1积压已约22亿美元同比增长超100%。近期新增的，那么积压订单量进一步提升，可能已经到30亿美金以上。\n\n2）验证垂直整合模式与Neutron需求\nSB-AMTI合同是端到端的：设计/制造先进Flatellite（平板卫星，优化大规模星座）、用即将首飞的Neutron发射、再从安全设施运营并提供实时数据/跟踪信息。 这直接认可了Rocket Lab“发射+航天器+任务运营”的一体化能力，也是Neutron的重大政府客户背书（此前已有商业预订）。Neutron仍目标2026年Q4首飞（此前因罐体测试等问题有所推迟），这类合同有助于降低需求风险、加速产能 \n\n3）强化国防/国家安全定位，打开更高价值机会\nRKLB已经连续拿下多份美国太空军/SDA相关合同（此前还有SDA Tracking Layer等超8亿美元级别订单）。\n从亚轨道HASTE测试、到天基空中动目标指示（SB-AMTI，替代/补充传统空中预警机）、再到测试训练基础设施（NITE-STAR），覆盖范围扩大。\n 这提升了其作为“可信国防prime”的地位，有利于参与更多Golden Dome等大型项目竞争。\n\n这些业务层面的积极进展，可能会带动RKLB在八九月来一波行情，总不能一直被毒打嘛😅\n\n下半年最关键的就是Neutron能否首飞成功了。",
+        "link": "https://x.com/qinbafrank/status/2084939116387647801",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO8xEvra4AA7dgx.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087015330065609007",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2085191114496311296/II9mvaaN_bigger.jpg",
+      "content": "不能相信任何一个阿三，genius还是一如既往的出生，要延期两个月的样子",
+      "contentHtml": "不能相信任何一个阿三，genius还是一如既往的出生，要延期两个月的样子",
+      "publishedAt": "2026-08-11T03:16:00.000Z",
+      "link": "https://x.com/0xleng1/status/2087015330065609007",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPaRYNlasAAAoyS.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087012739743117520",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "又有新指标啦 —— BTC卖方衰竭指数！\n\n它同时衡量的是低波动性和高损失；当2个条件都满足，指标就会触发信号。\n\n先说当前：卖方已经进入“极端衰竭区”（红色区域），也是本轮熊市第1次进入该区。\n\n对照历史数据可以发现，过去每一轮熊市都会出现类似的情况；有时还不止一次（图中标注1/2）。\n\n当前1出现时，未必是熊市的最低点，但一定在底部区间。\n\n后续，如价格震荡维持或更低，但指数没有更低，我标注为2；纵观历史，2的确定性都比1更高。\n\n但风险是，2的价格也可能比1更高。\n\n根据以上观察我们可以得出结论：\n\n当前已经建仓的没有错；等2出现再建仓的也没错；但2出现了还不敢买，那就要踏空整个牛市了。\n\n(ps: 别说我总是整出新指标哈，是glassnode团队经常更新指标。我看到了，觉得有参考价值，就分享给大家咯)",
+      "contentHtml": "又有新指标啦 —— BTC卖方衰竭指数！\n\n它同时衡量的是低波动性和高损失；当2个条件都满足，指标就会触发信号。\n\n先说当前：卖方已经进入“极端衰竭区”（红色区域），也是本轮熊市第1次进入该区。\n\n对照历史数据可以发现，过去每一轮熊市都会出现类似的情况；有时还不止一次（图中标注1/2）。\n\n当前1出现时，未必是熊市的最低点，但一定在底部区间。\n\n后续，如价格震荡维持或更低，但指数没有更低，我标注为2；纵观历史，2的确定性都比1更高。\n\n但风险是，2的价格也可能比1更高。\n\n根据以上观察我们可以得出结论：\n\n当前已经建仓的没有错；等2出现再建仓的也没错；但2出现了还不敢买，那就要踏空整个牛市了。\n\n(ps: 别说我总是整出新指标哈，是glassnode团队经常更新指标。我看到了，觉得有参考价值，就分享给大家咯)",
+      "publishedAt": "2026-08-11T03:06:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2087012739743117520",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPaN2mhbQAA5qgP.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "当前市场对BTC底部的争议，全都反映在这张图上。我觉得很有代表性，有必要做进一步的解释：\n\n这张图把2015年以来每一天放到一个二维坐标里。\n\n横轴是盈利占比（PSIP），衡量市场便宜还是贵；纵轴是 1 个月已实现波动率，衡量市场是激烈还是平静。\n\n虚线把平面切成四个象限：便宜且剧烈（左上）、便宜且安静（左下）、贵且剧烈（右上）、贵且安静（右下）。\n\n红色菱形是过去3轮周期的底。它们全部落在左上角，即便宜且剧烈。\n\n这很好理解：历史上的底都是把“投降”逼出来，价格瞬间击穿大量持有者成本，恐慌抛售带来波动率放大。\n\n橙点是当下，落在左下半区。说明本轮周期没有出现集中投降，筹码在低波动环境里换手。靠时间和冷淡消化卖压，没有暴力击穿。\n\n我个人对此的理解是：\n\n波动率萎缩通常意味着卖方力量枯竭，要割的已经割完，剩下的人不动了；PSIP 55%说明价格就压在近半数筹码的成本附近。\n\n低波动+成本密集，是典型的再分配和磨底结构。\n\n这是“无聊底”模式，而不是“疼痛底”剧本。\n\n但，不得不说的是，波动率是均值回归的。长期压缩往往是波动率爆发的前置状态，只是爆发方向不确定。\n\n假设后面出现一次向下的波动释放，橙点就会瞬间往左上移动，那就变成了历史意义上的\"标准底\"。\n\n它告诉我们：当前市场结构和所有历史底部长得都不一样！要么这是第一个无聊底，要么真正的“投降”还没来。\n\n这不正是大家当前的分歧所在吗？有人认为是前者，有人在等待后者。\n\n既然当前已不在“右上”或“右下”，而我又不想赌单边，那么各压一半，这没问题吧😀",
+        "contentHtml": "当前市场对BTC底部的争议，全都反映在这张图上。我觉得很有代表性，有必要做进一步的解释：\n\n这张图把2015年以来每一天放到一个二维坐标里。\n\n横轴是盈利占比（PSIP），衡量市场便宜还是贵；纵轴是 1 个月已实现波动率，衡量市场是激烈还是平静。\n\n虚线把平面切成四个象限：便宜且剧烈（左上）、便宜且安静（左下）、贵且剧烈（右上）、贵且安静（右下）。\n\n红色菱形是过去3轮周期的底。它们全部落在左上角，即便宜且剧烈。\n\n这很好理解：历史上的底都是把“投降”逼出来，价格瞬间击穿大量持有者成本，恐慌抛售带来波动率放大。\n\n橙点是当下，落在左下半区。说明本轮周期没有出现集中投降，筹码在低波动环境里换手。靠时间和冷淡消化卖压，没有暴力击穿。\n\n我个人对此的理解是：\n\n波动率萎缩通常意味着卖方力量枯竭，要割的已经割完，剩下的人不动了；PSIP 55%说明价格就压在近半数筹码的成本附近。\n\n低波动+成本密集，是典型的再分配和磨底结构。\n\n这是“无聊底”模式，而不是“疼痛底”剧本。\n\n但，不得不说的是，波动率是均值回归的。长期压缩往往是波动率爆发的前置状态，只是爆发方向不确定。\n\n假设后面出现一次向下的波动释放，橙点就会瞬间往左上移动，那就变成了历史意义上的\"标准底\"。\n\n它告诉我们：当前市场结构和所有历史底部长得都不一样！要么这是第一个无聊底，要么真正的“投降”还没来。\n\n这不正是大家当前的分歧所在吗？有人认为是前者，有人在等待后者。\n\n既然当前已不在“右上”或“右下”，而我又不想赌单边，那么各压一半，这没问题吧😀",
+        "link": "https://x.com/Murphychen888/status/2086271245428113468",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPM6VZAbwAAjx8T.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087012864330473601",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "日版三星使用 Google wallet 刷卡时反应速度明显比 OPPO 国行更快。\n\n即使没有涉及任何日本私有的 NFC 协议或卡片，刷的都是国际 Visa Master, 响应速度也更快。\n\n可能硬件上略有不同。",
+      "contentHtml": "日版三星使用 Google wallet 刷卡时反应速度明显比 OPPO 国行更快。\n\n即使没有涉及任何日本私有的 NFC 协议或卡片，刷的都是国际 Visa Master, 响应速度也更快。\n\n可能硬件上略有不同。",
+      "publishedAt": "2026-08-11T03:06:00.000Z",
+      "link": "https://x.com/taresky/status/2087012864330473601",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPaPIzsacAAtuSv.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087004704610173424",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "多谢@yyjarsy 的邀请，很荣幸周四中午跟几位老师一起聊聊AI模型VS垂直应用这个话题。",
+      "contentHtml": "多谢<a href=\"/yyjarsy\" title=\"Y1ying\">@yyjarsy</a> 的邀请，很荣幸周四中午跟几位老师一起聊聊AI模型VS垂直应用这个话题。",
+      "publishedAt": "2026-08-11T02:34:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2087004704610173424",
+      "quote": {
+        "username": "JarsyMandarin",
+        "displayName": "Jarsy華語",
+        "content": "本期 Jarsy 華語 X Space，我們邀請到幾位嘉賓，從不同背景從不同視角展開討論：AI 的模型與垂类應用，誰才是最終贏家。\n\n🎤嘉賓陣容包括：\n@mycharmspace｜前 xAI 機器學習工程師\n@ZongZiWang｜Harvey AI 早期員工、曾任職Figma、Uber、Google\n@qinbafrank ｜AI、Crypto 與 TMT 投資人\n@mrblock｜Angel Investor，知名播客主\n@Wuhuoqiu｜Amber Group Advisor，曾任職於 OKX Ventures、ABCDE Labs\n@JarsyMandarin | 主辦方\n\n⏰北京時間 8 月 13 日週四上午10點\n直播鏈接 nitter.net/i/spaces/1DxleVEmmvzKL…\n點擊鏈接設置提醒🔔",
+        "contentHtml": "本期 Jarsy 華語 X Space，我們邀請到幾位嘉賓，從不同背景從不同視角展開討論：AI 的模型與垂类應用，誰才是最終贏家。\n\n🎤嘉賓陣容包括：\n<a href=\"/mycharmspace\" title=\"Tianyi Zhang\">@mycharmspace</a>｜前 xAI 機器學習工程師\n<a href=\"/ZongZiWang\" title=\"Joey Wang\">@ZongZiWang</a>｜Harvey AI 早期員工、曾任職Figma、Uber、Google\n<a href=\"/qinbafrank\" title=\"qinbafrank\">@qinbafrank</a> ｜AI、Crypto 與 TMT 投資人\n<a href=\"/mrblock\" title=\"區塊先生 🐡 ⚠️ (rock #58)\">@mrblock</a>｜Angel Investor，知名播客主\n<a href=\"/Wuhuoqiu\" title=\"Lao Bai\">@Wuhuoqiu</a>｜Amber Group Advisor，曾任職於 OKX Ventures、ABCDE Labs\n<a href=\"/JarsyMandarin\" title=\"Jarsy華語\">@JarsyMandarin</a> | 主辦方\n\n⏰北京時間 8 月 13 日週四上午10點\n直播鏈接 <a href=\"https://nitter.net/i/spaces/1DxleVEmmvzKL?s=20\">nitter.net/i/spaces/1DxleVEmmvzKL…</a>\n點擊鏈接設置提醒🔔",
+        "link": "https://x.com/JarsyMandarin/status/2086784634973491678",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPV8CwlbIAA9x2S.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087001979503710489",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "▶︎ 海外第一大 Meme 战壕\n▶︎ 市场份额超越 GMGN\n▶︎ 开创 Memecoin 网红 & 社交打法\n\n让 PumpFun「高价挖墙脚」的 Fomo 到底是何方神圣？市场没有常胜将军，那揣着阳谋人造车头的 Meme 战壕，玩还是不玩呢？\n\n—— 五分钟读懂 Fomo 是什么，往下看吧👇👩‍💻",
+      "contentHtml": "▶︎ 海外第一大 Meme 战壕\n▶︎ 市场份额超越 GMGN\n▶︎ 开创 Memecoin 网红 &amp; 社交打法\n\n让 PumpFun「高价挖墙脚」的 Fomo 到底是何方神圣？市场没有常胜将军，那揣着阳谋人造车头的 Meme 战壕，玩还是不玩呢？\n\n—— 五分钟读懂 Fomo 是什么，往下看吧👇👩‍💻",
+      "publishedAt": "2026-08-11T02:23:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2087001979503710489",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPaE2XkbMAALLmy.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087001989284794793",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "3/ PumpFun 干嘛要高价挖墙脚\n\nMeme 的世界中，车头在哪里，注意力就在哪里\n\nFomo 通过排行榜 + 主动推流的方式「人为造神」，就是想把车头和新晋聪明钱们都绑在自家平台，人跑了戏还唱得起来吗，参考头部创作者对抖音 / B 站的重要性即可\n\n所以 Pump 着急了，开出每月 3 万刀 + 2w 刀签约奖金的 Offer，配合严苛的排他协议希望让车头们重回 Pump 战壕，包括但不限于删除 Fomo 账号、不得对 Pump 发表负面言论等",
+      "contentHtml": "3/ PumpFun 干嘛要高价挖墙脚\n\nMeme 的世界中，车头在哪里，注意力就在哪里\n\nFomo 通过排行榜 + 主动推流的方式「人为造神」，就是想把车头和新晋聪明钱们都绑在自家平台，人跑了戏还唱得起来吗，参考头部创作者对抖音 / B 站的重要性即可\n\n所以 Pump 着急了，开出每月 3 万刀 + 2w 刀签约奖金的 Offer，配合严苛的排他协议希望让车头们重回 Pump 战壕，包括但不限于删除 Fomo 账号、不得对 Pump 发表负面言论等",
+      "publishedAt": "2026-08-11T02:23:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2087001989284794793",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPaE-DjbwAAwQGo.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087001992476721419",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "4/ 写在最后\n\nFomo 值得玩吗？仁者见仁智者见智吧\n\n显然它在交易上并不是做得最极致的，很多 Pro 功能都没有，对资深 P 小将而言显得「不够用」；车头策略也只会让有钱有影响力的人变得更有钱，普通用户想混上榜太难了些\n\n但总归是多了个信息源，用来了解海外车头都在玩什么，也算不错\n\n如果你喜欢这篇内容，欢迎点赞 / 评论 / 转发一键三连🥰",
+      "contentHtml": "4/ 写在最后\n\nFomo 值得玩吗？仁者见仁智者见智吧\n\n显然它在交易上并不是做得最极致的，很多 Pro 功能都没有，对资深 P 小将而言显得「不够用」；车头策略也只会让有钱有影响力的人变得更有钱，普通用户想混上榜太难了些\n\n但总归是多了个信息源，用来了解海外车头都在玩什么，也算不错\n\n如果你喜欢这篇内容，欢迎点赞 / 评论 / 转发一键三连🥰",
+      "publishedAt": "2026-08-11T02:23:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2087001992476721419",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086995897968423315",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "「先定 10 个大目标」老哥减仓 2,260 枚 BTC，此前超 400 万美元浮盈接近抹平😶\n\n@Jason60704294 凌晨发推表示在「成本价上方减了三分之二仓位」，此前多单持仓为 3528.152 枚（约 2.25 亿美元），本次减仓后仍剩余 7942 万美元，开仓价 $63967.54\n\n他还重申了对 $BTC 中长期趋势的看好，认为 5.8w 附近是阶段性底部，同时建议不要高杠杆跟单",
+      "contentHtml": "「先定 10 个大目标」老哥减仓 2,260 枚 BTC，此前超 400 万美元浮盈接近抹平😶\n\n<a href=\"/Jason60704294\" title=\"jasonleo\">@Jason60704294</a> 凌晨发推表示在「成本价上方减了三分之二仓位」，此前多单持仓为 3528.152 枚（约 2.25 亿美元），本次减仓后仍剩余 7942 万美元，开仓价 $63967.54\n\n他还重申了对 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 中长期趋势的看好，认为 5.8w 附近是阶段性底部，同时建议不要高杠杆跟单",
+      "publishedAt": "2026-08-11T01:59:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2086995897968423315",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPZ_iJOaMAADgve.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "断更的日子里，仍旧在悄悄赚钱🥹\n\n「先定 10 个大目标」老哥 @Jason60704294 在关闭实盘消失半个月后，发推展示做多 3528.152 枚 $BTC（约 2.25 亿美元），现已浮盈超 403.7 万美元，开仓价 $63967.54\n\n同时截图显示止损价为 $61000",
+        "contentHtml": "断更的日子里，仍旧在悄悄赚钱🥹\n\n「先定 10 个大目标」老哥 <a href=\"/Jason60704294\" title=\"jasonleo\">@Jason60704294</a> 在关闭实盘消失半个月后，发推展示做多 3528.152 枚 $BTC（约 2.25 亿美元），现已浮盈超 403.7 万美元，开仓价 $63967.54\n\n同时截图显示止损价为 $61000",
+        "link": "https://x.com/ai_9684xtpa/status/2085721770439696841",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPH43q4boAEPydl.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2086993822383558701",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "曾开出 1.02 亿美元 $BTC 空单的巨鲸在亏损 81.1 万美元后，选择二次加仓！😬\n\n今天凌晨他加仓 533.02 BTC，将持仓更新至 1313 枚（约 8402 万美元），开仓均价 $64,183，现浮盈 25.1 万美元，仍为 Hyperliquid BTC TOP1 规模头寸\n\n这单从 08.05 开启到现在已经快一周了，昨晚 BTC 于近期首次跌破 6.4w\n\n传送门 👉 d.pro/portfolio/0xff84dd888d…",
+      "contentHtml": "曾开出 1.02 亿美元 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 空单的巨鲸在亏损 81.1 万美元后，选择二次加仓！😬\n\n今天凌晨他加仓 533.02 BTC，将持仓更新至 1313 枚（约 8402 万美元），开仓均价 $64,183，现浮盈 25.1 万美元，仍为 Hyperliquid BTC TOP1 规模头寸\n\n这单从 08.05 开启到现在已经快一周了，昨晚 BTC 于近期首次跌破 6.4w\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0xff84dd888de8ac2ed9a44860dc44e57025d68f1d\">d.pro/portfolio/0xff84dd888d…</a>",
+      "publishedAt": "2026-08-11T01:51:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2086993822383558701",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPZ9sAxbgAApp0W.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "曾开出 1.02 亿美元 $BTC 空单的地址还没放弃，加仓了！😲\n\n▶︎ 昨晚九点止损 700 BTC 并亏损 62.4 万美元\n▶︎ 今天凌晨 01:33 加仓 30 BTC\n\n目前最新持仓为 930 BTC（约 6032 万美元），入场均价 $64213，清算价 $65,306，现仍浮亏 60.5 万美元\n\n传送门 👉d.pro/portfolio/0xff84dd888d…",
+        "contentHtml": "曾开出 1.02 亿美元 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 空单的地址还没放弃，加仓了！😲\n\n▶︎ 昨晚九点止损 700 BTC 并亏损 62.4 万美元\n▶︎ 今天凌晨 01:33 加仓 30 BTC\n\n目前最新持仓为 930 BTC（约 6032 万美元），入场均价 $64213，清算价 $65,306，现仍浮亏 60.5 万美元\n\n传送门 👉<a href=\"https://www.d.pro/portfolio/0xff84dd888de8ac2ed9a44860dc44e57025d68f1d\">d.pro/portfolio/0xff84dd888d…</a>",
+        "link": "https://x.com/ai_9684xtpa/status/2085912748798648794",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPKmfe2bEAA-72p.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2086990616119148875",
       "username": "market_beggar",
@@ -12082,253 +12345,6 @@
           "url": "https://pbs.twimg.com/media/HOwuUvca0AAAYfr.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084087092087542105",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "老黑简直演我炒币：一整个低卖高买🥵\n\n前天才刚以 $1861.8 疑似卖出 2364 $ETH 并亏损 12.8 万美元，半小时前又从 Galaxy Digital 处收到了 1337.256 ETH（约 250 万美元），提出价格 $1872.85；另还有充值去 FalconX 的 250 万枚 USDC 暂未收到等值 ETH，应该是打算买 500 万美元的\n\n钱包地址 arkm.com/explorer/entity/art…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "contentHtml": "老黑简直演我炒币：一整个低卖高买🥵\n\n前天才刚以 $1861.8 疑似卖出 2364 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 并亏损 12.8 万美元，半小时前又从 Galaxy Digital 处收到了 1337.256 ETH（约 250 万美元），提出价格 $1872.85；另还有充值去 FalconX 的 250 万枚 USDC 暂未收到等值 ETH，应该是打算买 500 万美元的\n\n钱包地址 <a href=\"https://arkm.com/explorer/entity/arthur-hayes\">arkm.com/explorer/entity/art…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "publishedAt": "2026-08-03T01:20:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2084087092087542105",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOwqGCUasAAESEX.jpg"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "梅开二度，Arthur Hayes 老黑疑似割肉 2364 $ETH 并亏损 12.8 万美元😂\n\n4 小时前他向交易所和 Galaxy Digital 转移 440 万美元的 ETH，而他自 07.15 以来以均价 $1,916 囤积了 7,212.68 ETH，本次若卖出每枚 ETH 将亏损 54.2 美元（不过 2 小时前又转出来了 258 ETH，不知道是什么操作）\n\n钱包地址 arkm.com/explorer/entity/art…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "contentHtml": "梅开二度，Arthur Hayes 老黑疑似割肉 2364 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 并亏损 12.8 万美元😂\n\n4 小时前他向交易所和 Galaxy Digital 转移 440 万美元的 ETH，而他自 07.15 以来以均价 $1,916 囤积了 7,212.68 ETH，本次若卖出每枚 ETH 将亏损 54.2 美元（不过 2 小时前又转出来了 258 ETH，不知道是什么操作）\n\n钱包地址 <a href=\"https://arkm.com/explorer/entity/arthur-hayes\">arkm.com/explorer/entity/art…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-        "link": "https://x.com/ai_9684xtpa/status/2083380336101401001",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOmnXhraoAAn1-W.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084085146085666979",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
-      "content": "「持續蓄勢的橫向結構」：Liq 引力持續作用中🧲\n\n眨眼間，又到了週內廝殺最激烈的星期一；\n同時，日復一日，不知不覺間已進入了八月。\n\n承接下方引文，按慣例，今天再來從 Liq 的角度和各位報告市況。\n上週和各位提及的 62.4K 流動性，現已如期清理；\n但 BTC 目前仍未脫離「流動性拔河」的洗盤階段。\n\n//\n\n如附圖所示，幾項重點幫各位整理如下：\n🔺 市價上方：67.3K 存在 Equal Highs 的 Liq 引力（清掃需求）\n🔺 市價下方：61K 的 Trendline Liq 區域仍存在引力（清掃需求）\n🔺 下方引文中提及的 62.4K 流動性，已於 8/01 被清掃\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n\n換言之，目前 BTC 的狀況其實和前幾週差不太多，\n依然持續運行於「上下都存在 Liq 引力」的窄幅震盪區間中，\n這也能合理的解釋為何 BTC 最近中短期的走勢，總是上下來回拉扯。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\nnitter.net/market_beggar/status/1…\n\n除此之外：\nBTC 自 7/03 起，大部分的時間幾乎都在 61~65K、\n這個僅有約 7% 震幅的窄型區間內上沖下洗，\n這也就導致了在這個區域內，堆積了愈來愈多的籌碼換手量。\n\n關於「籌碼換手量」的這項議題，\n我在上週的分析帖（nitter.net/market_beggar/status/2…），\n以及每週的週報中都有詳細解釋其概念，有興趣的朋友可以自行參考。\n\n簡單來說：\nBTC 不可能一直保持運行在當前這個窄型區間內，\n並且隨著震盪時間的拉長，未來出現趨勢性走勢時的力度就會更大，\n這也就是我們在技術分析領域中，很常聽到的：「橫有多長、豎有多高」。\n\n最後，如果你是第一次接觸這個 Liq 技術分析系列的朋友，\n以下我會將過去一個月內，針對當前 Liq 區間的所有分析帖整理如下，\n提供給有需要的朋友參考，有任何疑問也歡迎在下方評論區詢問🔍\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n【🗂 BTC 自 7 月以來的震盪結構追蹤 & 分析帖】\n\nBTC「三種週期性底部結構」路徑推演🔥\nnitter.net/market_beggar/status/2…\n\n「Liq 爭奪戰」：波段看漲 Stop Hunt 訊號疑似出現（7/06）\nnitter.net/market_beggar/status/2…\n\n「戰況膠著」：小級別流動性拔河又又又一次重現（7/13）\nnitter.net/market_beggar/status/2…\n\n「分歧加劇」：小級別看跌 Liq 結構逐漸形成（7/20）\nnitter.net/market_beggar/status/2…\n\n「廝殺的白熱化」：疊合 STH-RP 的關鍵 Liquidity 區域（7/23）\nnitter.net/market_beggar/status/2…\n\n「波動壓縮」：靜待雙向的 Liquidity 清掃（7/27）\nnitter.net/market_beggar/status/2…\n\n//\n\n📚 相關閱讀資源\n\nBTC 長、短期持有者成本數據更新：誰在偷偷割肉\nnitter.net/market_beggar/status/2…\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\nnitter.net/market_beggar/status/2…\n\n兩道「深熊抄底市場成本線」最新數據更新\nnitter.net/market_beggar/status/2…",
-      "contentHtml": "「持續蓄勢的橫向結構」：Liq 引力持續作用中🧲\n\n眨眼間，又到了週內廝殺最激烈的星期一；\n同時，日復一日，不知不覺間已進入了八月。\n\n承接下方引文，按慣例，今天再來從 Liq 的角度和各位報告市況。\n上週和各位提及的 62.4K 流動性，現已如期清理；\n但 BTC 目前仍未脫離「流動性拔河」的洗盤階段。\n\n//\n\n如附圖所示，幾項重點幫各位整理如下：\n🔺 市價上方：67.3K 存在 Equal Highs 的 Liq 引力（清掃需求）\n🔺 市價下方：61K 的 Trendline Liq 區域仍存在引力（清掃需求）\n🔺 下方引文中提及的 62.4K 流動性，已於 8/01 被清掃\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\n換言之，目前 BTC 的狀況其實和前幾週差不太多，\n依然持續運行於「上下都存在 Liq 引力」的窄幅震盪區間中，\n這也能合理的解釋為何 BTC 最近中短期的走勢，總是上下來回拉扯。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\n除此之外：\nBTC 自 7/03 起，大部分的時間幾乎都在 61~65K、\n這個僅有約 7% 震幅的窄型區間內上沖下洗，\n這也就導致了在這個區域內，堆積了愈來愈多的籌碼換手量。\n\n關於「籌碼換手量」的這項議題，\n我在上週的分析帖（<a href=\"https://nitter.net/market_beggar/status/2083006515175387476\">nitter.net/market_beggar/status/2…</a>），\n以及每週的週報中都有詳細解釋其概念，有興趣的朋友可以自行參考。\n\n簡單來說：\nBTC 不可能一直保持運行在當前這個窄型區間內，\n並且隨著震盪時間的拉長，未來出現趨勢性走勢時的力度就會更大，\n這也就是我們在技術分析領域中，很常聽到的：「橫有多長、豎有多高」。\n\n最後，如果你是第一次接觸這個 Liq 技術分析系列的朋友，\n以下我會將過去一個月內，針對當前 Liq 區間的所有分析帖整理如下，\n提供給有需要的朋友參考，有任何疑問也歡迎在下方評論區詢問🔍\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n【🗂 BTC 自 7 月以來的震盪結構追蹤 & 分析帖】\n\nBTC「三種週期性底部結構」路徑推演🔥\n<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>\n\n「Liq 爭奪戰」：波段看漲 Stop Hunt 訊號疑似出現（7/06）\n<a href=\"https://nitter.net/market_beggar/status/2073947515473498123\">nitter.net/market_beggar/status/2…</a>\n\n「戰況膠著」：小級別流動性拔河又又又一次重現（7/13）\n<a href=\"https://nitter.net/market_beggar/status/2076484122898542754\">nitter.net/market_beggar/status/2…</a>\n\n「分歧加劇」：小級別看跌 Liq 結構逐漸形成（7/20）\n<a href=\"https://nitter.net/market_beggar/status/2079021572430655818\">nitter.net/market_beggar/status/2…</a>\n\n「廝殺的白熱化」：疊合 STH-RP 的關鍵 Liquidity 區域（7/23）\n<a href=\"https://nitter.net/market_beggar/status/2080106688917754256\">nitter.net/market_beggar/status/2…</a>\n\n「波動壓縮」：靜待雙向的 Liquidity 清掃（7/27）\n<a href=\"https://nitter.net/market_beggar/status/2081557306601509331\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n📚 相關閱讀資源\n\nBTC 長、短期持有者成本數據更新：誰在偷偷割肉\n<a href=\"https://nitter.net/market_beggar/status/2082338984362185024\">nitter.net/market_beggar/status/2…</a>\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\n<a href=\"https://nitter.net/market_beggar/status/2081926743783592189\">nitter.net/market_beggar/status/2…</a>\n\n兩道「深熊抄底市場成本線」最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2079745937350779015\">nitter.net/market_beggar/status/2…</a>",
-      "publishedAt": "2026-08-03T01:13:00.000Z",
-      "link": "https://x.com/market_beggar/status/2084085146085666979",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOwoY8HbUAEgUwM.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「清掃開始」：Trendline Liq 引力正式如期發威☄️\n\n承接上篇分析（下方引文），在過去三天內，\nBTC 線型再次釋出一些值得注意的訊號，加上昨日 FOMC 的定調，\n使我們對於市場接下來的走勢評估也愈加清晰。\n\n先說結論：\n🔺 下方 Trendline Liq 已如期開始被清掃\n🔺 62.4K 再次形成新的 Equal Lows 引力\n\n//\n\n在昨日 FOMC 會議以及 Warsh 談話後，\n市場近期最大的不確定性事件算是暫時落下了帷幕。\n\n如附圖所示：\n我在過去幾週持續和各位強調的「61K 附近的 Trendline Liq 引力」，\n目前已正式開始被清掃，如同以往每一次 Liq 引力的威力，完全符合預期。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\nnitter.net/market_beggar/status/1…\n\n並且，值得注意的是：\n➡️ 需要跌破 61K 才算是完全清掃完畢，目前尚未完成\n➡️ 62.4K 出現了新的 Equal Lows，再次提升了向下清掃的概率‼️\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n\n如同我在 7/23 分析帖中所述（nitter.net/market_beggar/status/2…），\n如果接下來直接向下清掃並完成「路徑 1 規劃中的 Retest」，\n由於 67.3K 的 Equal Highs 尚未被清掃，因此不論 Retest 是否成功，\n67.3K 的 Liq 引力始終持續存在，故未來上漲的概率就將得到提升。\n\n📖 BTC「三種週期性底部結構」路徑推演\nnitter.net/market_beggar/status/2…\n\n最後，補充一點：\n如果我們把 7/06 以來的 BTC 線型，用「趨勢結構」的角度去評估，\n目前這個小級別的上升趨勢結構也已被打破，完成了一次 123 法則，\n這個角度也支持 BTC 回到下方，那個我們早已規劃好的綠色區域進行 Retest。\n\n📖 一文看懂「趨勢結構 & 左側、右側交易」\nnitter.net/market_beggar/status/1…\n\n靜待 Liq 引力的持續發威，只要 61K 被跌破，\n那我們就能開始專注於評估「路徑 1、2、3」的成形概率，\n這也意味市場進入了下一階段，同時，這也將是對我而言最重要的交易窗口。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\nBTC 長、短期持有者成本數據更新：誰在偷偷割肉\nnitter.net/market_beggar/status/2…\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\nnitter.net/market_beggar/status/2…\n\n偏離度調整 STH-RP 模型更新：降速放緩，底部區間逐漸清晰\nnitter.net/market_beggar/status/2…",
-        "contentHtml": "「清掃開始」：Trendline Liq 引力正式如期發威☄️\n\n承接上篇分析（下方引文），在過去三天內，\nBTC 線型再次釋出一些值得注意的訊號，加上昨日 FOMC 的定調，\n使我們對於市場接下來的走勢評估也愈加清晰。\n\n先說結論：\n🔺 下方 Trendline Liq 已如期開始被清掃\n🔺 62.4K 再次形成新的 Equal Lows 引力\n\n//\n\n在昨日 FOMC 會議以及 Warsh 談話後，\n市場近期最大的不確定性事件算是暫時落下了帷幕。\n\n如附圖所示：\n我在過去幾週持續和各位強調的「61K 附近的 Trendline Liq 引力」，\n目前已正式開始被清掃，如同以往每一次 Liq 引力的威力，完全符合預期。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\n並且，值得注意的是：\n➡️ 需要跌破 61K 才算是完全清掃完畢，目前尚未完成\n➡️ 62.4K 出現了新的 Equal Lows，再次提升了向下清掃的概率‼️\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\n如同我在 7/23 分析帖中所述（<a href=\"https://nitter.net/market_beggar/status/2080106688917754256\">nitter.net/market_beggar/status/2…</a>），\n如果接下來直接向下清掃並完成「路徑 1 規劃中的 Retest」，\n由於 67.3K 的 Equal Highs 尚未被清掃，因此不論 Retest 是否成功，\n67.3K 的 Liq 引力始終持續存在，故未來上漲的概率就將得到提升。\n\n📖 BTC「三種週期性底部結構」路徑推演\n<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>\n\n最後，補充一點：\n如果我們把 7/06 以來的 BTC 線型，用「趨勢結構」的角度去評估，\n目前這個小級別的上升趨勢結構也已被打破，完成了一次 123 法則，\n這個角度也支持 BTC 回到下方，那個我們早已規劃好的綠色區域進行 Retest。\n\n📖 一文看懂「趨勢結構 & 左側、右側交易」\n<a href=\"https://nitter.net/market_beggar/status/1922471701105017070\">nitter.net/market_beggar/status/1…</a>\n\n靜待 Liq 引力的持續發威，只要 61K 被跌破，\n那我們就能開始專注於評估「路徑 1、2、3」的成形概率，\n這也意味市場進入了下一階段，同時，這也將是對我而言最重要的交易窗口。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\nBTC 長、短期持有者成本數據更新：誰在偷偷割肉\n<a href=\"https://nitter.net/market_beggar/status/2082338984362185024\">nitter.net/market_beggar/status/2…</a>\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\n<a href=\"https://nitter.net/market_beggar/status/2081926743783592189\">nitter.net/market_beggar/status/2…</a>\n\n偏離度調整 STH-RP 模型更新：降速放緩，底部區間逐漸清晰\n<a href=\"https://nitter.net/market_beggar/status/2080469443352854893\">nitter.net/market_beggar/status/2…</a>",
-        "link": "https://x.com/market_beggar/status/2082653241867960571",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOcSFT2bwAANALy.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084077805256765601",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "吃过这个玩意儿吗？搞了点童年记忆来吃。",
-      "contentHtml": "吃过这个玩意儿吗？搞了点童年记忆来吃。",
-      "publishedAt": "2026-08-03T00:44:00.000Z",
-      "link": "https://x.com/taresky/status/2084077805256765601",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOwhti2bYAAlE7r.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084077020498010302",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "CARRY TRADE里面，融资成本（日本央行加息）影响是最小的，其次是汇率波动（较大），而最大的是资产价格本身的波动。\n所以不少人担心日元升值导致CARRY TRADE，美股下跌。但如果要推测CARRY TRADE的TRADE标的，估计是半导体，但半导体7月份经历了一波去杠杆，很多标的跌幅都是50%以上，所以我有理由相信，7月份的下跌里，日元的CARRY TRADE交易已经平仓了不少，也贡献了下跌。\n最后很多人关注CME日元的头寸，这只是市场很小的一部分，多数日元的空头都是OTC，无法评估出体量。\n综上所述，在美股里面最热的资产已经经历了一波下跌后，我认为CARRY TRADE影响很小。",
-      "contentHtml": "CARRY TRADE里面，融资成本（日本央行加息）影响是最小的，其次是汇率波动（较大），而最大的是资产价格本身的波动。\n所以不少人担心日元升值导致CARRY TRADE，美股下跌。但如果要推测CARRY TRADE的TRADE标的，估计是半导体，但半导体7月份经历了一波去杠杆，很多标的跌幅都是50%以上，所以我有理由相信，7月份的下跌里，日元的CARRY TRADE交易已经平仓了不少，也贡献了下跌。\n最后很多人关注CME日元的头寸，这只是市场很小的一部分，多数日元的空头都是OTC，无法评估出体量。\n综上所述，在美股里面最热的资产已经经历了一波下跌后，我认为CARRY TRADE影响很小。",
-      "publishedAt": "2026-08-03T00:40:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2084077020498010302",
-      "quote": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君",
-        "content": "日元CARRY TRADE 101\n操作方法：日本以及国外投资者在日本以低利息借钱，换成美元，购买美股。美股赚钱了卖出，获得美元，把美元换回日元，还钱。\n所以风险来自于：\n1. 日元升值\n2. 日债利率上升（融资成本上升）\n3. 美股指数回报跑输日经\n例子：24年8月份，日本央行的鹰派，导致日元大幅升值！使CARRY TRADE平仓，美股下跌。\n那么10月份以来美股的下跌和CARRY TRADE有关吗？过去两个月，日元贬值6.8%，利率的确有所上升，但被日元贬值幅度掩盖。",
-        "contentHtml": "日元CARRY TRADE 101\n操作方法：日本以及国外投资者在日本以低利息借钱，换成美元，购买美股。美股赚钱了卖出，获得美元，把美元换回日元，还钱。\n所以风险来自于：\n1. 日元升值\n2. 日债利率上升（融资成本上升）\n3. 美股指数回报跑输日经\n例子：24年8月份，日本央行的鹰派，导致日元大幅升值！使CARRY TRADE平仓，美股下跌。\n那么10月份以来美股的下跌和CARRY TRADE有关吗？过去两个月，日元贬值6.8%，利率的确有所上升，但被日元贬值幅度掩盖。",
-        "link": "https://x.com/TJ_Research/status/1994094443780296940"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084073672386486513",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "FIMA是国外央行通过美联储借美元，当日本需要保日元时就得卖美元资产，比如美债。所以FIMA上线提高意思就是我们为日元背书，用美债抵押，借他们子弹，某种程度是缓解美债的抛压",
-      "contentHtml": "FIMA是国外央行通过美联储借美元，当日本需要保日元时就得卖美元资产，比如美债。所以FIMA上线提高意思就是我们为日元背书，用美债抵押，借他们子弹，某种程度是缓解美债的抛压",
-      "publishedAt": "2026-08-03T00:27:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2084073672386486513",
-      "quote": {
-        "username": "SecScottBessent",
-        "displayName": "Treasury Secretary Scott Bessent",
-        "content": "The Trump Administration delivers for America's trusted partners. Economic security is national security. And the U.S.-Japan alliance is built on both.\n\nFriday's coordinated foreign exchange actions countered disorderly yen movements. \n\nTreasury remains attentive and in close communication with our counterparts at MOF and BOJ. We will not hesitate to participate in further joint intervention.\n\nThe FIMA Repo Facility is an important backstop. We would encourage it to be upsized in the coming months. \n\nWe strongly support Japan's decisive market and monetary steps to correct the substantial undervaluation of the yen. \n\nThe Takaichi government is moving into an exciting new phase of Abenomics, as nearly 15 years of powerful stimulus have created durable, robust underlying economic dynamics.",
-        "contentHtml": "The Trump Administration delivers for America's trusted partners. Economic security is national security. And the U.S.-Japan alliance is built on both.\n\nFriday's coordinated foreign exchange actions countered disorderly yen movements. \n\nTreasury remains attentive and in close communication with our counterparts at MOF and BOJ. We will not hesitate to participate in further joint intervention.\n\nThe FIMA Repo Facility is an important backstop. We would encourage it to be upsized in the coming months. \n\nWe strongly support Japan's decisive market and monetary steps to correct the substantial undervaluation of the yen. \n\nThe Takaichi government is moving into an exciting new phase of Abenomics, as nearly 15 years of powerful stimulus have created durable, robust underlying economic dynamics.",
-        "link": "https://x.com/SecScottBessent/status/2084051676801933622"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084064381110042818",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#Crypto \n\n如果 OneKey 是西方团队，Ledger 早就退出市场了。\n\n当然，如果 OneKey 不是华人团队，也不可能做出世界上最好的硬件钱包。\n\n如果你这辈子还有任何一丁点接触 Crypto 的可能性，你应该\n\n—— 先有一个 OneKey，再接触 Crypto。",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n如果 OneKey 是西方团队，Ledger 早就退出市场了。\n\n当然，如果 OneKey 不是华人团队，也不可能做出世界上最好的硬件钱包。\n\n如果你这辈子还有任何一丁点接触 Crypto 的可能性，你应该\n\n—— 先有一个 OneKey，再接触 Crypto。",
-      "publishedAt": "2026-08-02T23:50:00.000Z",
-      "link": "https://x.com/taresky/status/2084064381110042818",
-      "quote": {
-        "username": "ohyishi",
-        "displayName": "Yishi",
-        "content": "for everyone who’s feeling worried, scared, or anxious because of the coldcard incident, or who has suffered a loss, leave a comment under this post.\n\ni’ll randomly select 100 people to receive the latest secure onekey hardware wallet.\n\nit’s the least i can do.",
-        "contentHtml": "for everyone who’s feeling worried, scared, or anxious because of the coldcard incident, or who has suffered a loss, leave a comment under this post.\n\ni’ll randomly select 100 people to receive the latest secure onekey hardware wallet.\n\nit’s the least i can do.",
-        "link": "https://x.com/ohyishi/status/2083794335011942680"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084058572435206543",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "开始建仓空一切了，目前比较保守，等taco彻底落地再加仓。",
-      "contentHtml": "开始建仓空一切了，目前比较保守，等taco彻底落地再加仓。",
-      "publishedAt": "2026-08-02T23:27:00.000Z",
-      "link": "https://x.com/yuren477/status/2084058572435206543",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084033089857261637",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "终究是来了",
-      "contentHtml": "终究是来了",
-      "publishedAt": "2026-08-02T21:46:00.000Z",
-      "link": "https://x.com/yuren477/status/2084033089857261637",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOv5C6uasAAIMh6.jpg"
-        }
-      ],
-      "quote": {
-        "username": "yuren477",
-        "displayName": "余人sama",
-        "content": "都先tp了，可能又要taco",
-        "contentHtml": "都先tp了，可能又要taco",
-        "link": "https://x.com/yuren477/status/2083229594887578098"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084032653238702370",
-      "username": "DrProfitCrypto",
-      "displayName": "Doctor Profit 🇨🇭",
-      "avatar": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_bigger.jpg",
-      "content": "#Bitcoin – What's Next?\n\nThe Big Sunday Report: All We Need to Know\n\n🚩 TA / LCA / Psychological Breakdown: Let's have a look at the chart together and see where the market stands, what the market expects, and what might happen next. And as always, the golden rule applies: the mass is wrong. For now we can fairly agree that we have three camps of people. Most people are saying that BTC will bottom between 40-50k in September-October. The second camp are the people that say the bottom was already in, and the third camp are the people that say the bottom will be between 28-33k. The largest supported opinion is the one that the bottom will be 40-50k, and thats what the mass is thinking. And here is the important part: I called 40-50k back at 120k at the top in October 2025, when nobody wanted to hear it and everyone was calling for new ATHs. The mass laughed at those targets back then, and now the same mass has adopted them as their own. I just recently changed my final target: instead of 40-50k, I now consider the current range down to 54k as the very interesting zone, and since my announcement I am buying BTC and ETH with 5% batches inside my 54-64k range. And here is the point everyone needs to understand: when the entire market agrees on the same bottom target in the same month, that target loses its power. The bottom the mass is waiting for is the bottom the market will not deliver in the way they expect. They are trading my old call. I have already moved on. And to give the best example: They are now believing in the four years cycle, but called it a disgrace at the top of 120k, so if they believe in the four years cycle, why did they not believe when the market hit 120k at the exact four years cycle peak, why are they cherry picking their cycle lows , and the answer can be found in their greed.\n\nWe Are Still in a Bear Market, and That Is Exactly Why I Am Buying. Bitcoin is not in a bull market. Bitcoin is in a bear market, and this is exactly the reason why I am buying. It is understandable that a fool sees only two states: bull market or bear market. It's the same fool who rushes into an intersection the moment the traffic light turns yellow, without looking left or right, simply because it was red a second ago and assumes green must come next. Only a fool enters an intersection on yellow without understanding what comes next. Markets work exactly the same way. They are not simply \"bull\" or \"bear,\" especially during major tops and bottoms. The transition is where the biggest opportunities are created, yet it is also where the majority becomes the most confused.\n\nWhen I say I anticipate the end of the bear market, that does not mean we are already in a bull market. It means I am accumulating during the bear market because I believe its final phase is approaching. That is exactly where the highest risk-adjusted returns have always been made. The greatest investments are made in bear markets, not after everyone agrees a bull market has already begun. So let me make this perfectly clear: we are still in a bear market. I have never claimed otherwise. The difference is that I am buying before the crowd recognizes the transition. Those who can only think in black and white fail to understand that accumulation happens before confirmation. By the time the market officially becomes a bull market in the eyes of the public, the biggest opportunity has already passed. I am actively accumulating Bitcoin, and my purchases are shared in real time in Premium. Every single purchase, every single DCA I do, is shared in real time in Premium, and for that reason I am not able to disclose my exact entries publicly. But the accumulation has started, and I am looking forward to accumulating more of BTC, ETH, and some altcoins that will be shared in Premium only. Join Premium here: drprofitcrypto.com\n\nThe MA200 Weekly: History Keeps Proving the Point\n\nBitcoin has lost its MA200 weekly once again on the weekly time frame, and that is not an issue at all. We all know that in history Bitcoin lost the MA200 weekly several times. In fact, every single time BTC traded below the MA200 weekly, it was a great buying opportunity, and history is proving my words. Look at the chart: the Buying Range sits exactly where price is trading right now, directly at and below the MA200 weekly, with the bottom formation building in front of us. This is not the zone where you panic. This is the zone where my positions are built. \n\nSaylor Wants to Sell Where I Am Buying\n\nAnd now to the most interesting news of the week. Saylor is now considering selling $5 billion worth of Bitcoin, at a price point where I started my recent accumulation. Read that again. The man who said he would never sell, who laughed at every of my warnings, who kept buying at 100k, 110k, 120k with leverage on top, is now considering selling $5 billion at the bottom of the cycle, in the exact zone where I am slowly and carefully buying since days. I warned about Saylor publicly at the top. I told him to take profits at 115-125k. He refused, he mocked the idea of ever selling, and now his structure is forcing his hand at 60k instead of 120k. This is what happens when you have no plan: the market makes the plan for you, and the market's plan is always worse than the one you refused to make yourself. If Saylor's $5 billion hits the market inside my zone, I welcome it. Forced selling from a trapped whale is exactly the kind of liquidity event that marks accumulation zones. I am planning to buy anything between 54-64k as announced, and if Saylor's supply gives us deeper prices inside that range, my average entry only gets better.\n\nThe Setup Going Into October\n\nThe chart marks the path: bottom formation building through the coming weeks, the Buying Range between 54-64k active. This aligns with everything I have laid out since the pivot. The mass waits for 40-50k in September-October. I accumulate 54-64k now.\n\nJoin Premium here: drprofitcrypto.com\n\nTHIS IS NO FINANCIAL ADVICE BUT EDUCATIONAL CONTENT ONLY.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Bitcoin\">#Bitcoin</a> – What's Next?\n\nThe Big Sunday Report: All We Need to Know\n\n🚩 TA / LCA / Psychological Breakdown: Let's have a look at the chart together and see where the market stands, what the market expects, and what might happen next. And as always, the golden rule applies: the mass is wrong. For now we can fairly agree that we have three camps of people. Most people are saying that BTC will bottom between 40-50k in September-October. The second camp are the people that say the bottom was already in, and the third camp are the people that say the bottom will be between 28-33k. The largest supported opinion is the one that the bottom will be 40-50k, and thats what the mass is thinking. And here is the important part: I called 40-50k back at 120k at the top in October 2025, when nobody wanted to hear it and everyone was calling for new ATHs. The mass laughed at those targets back then, and now the same mass has adopted them as their own. I just recently changed my final target: instead of 40-50k, I now consider the current range down to 54k as the very interesting zone, and since my announcement I am buying BTC and ETH with 5% batches inside my 54-64k range. And here is the point everyone needs to understand: when the entire market agrees on the same bottom target in the same month, that target loses its power. The bottom the mass is waiting for is the bottom the market will not deliver in the way they expect. They are trading my old call. I have already moved on. And to give the best example: They are now believing in the four years cycle, but called it a disgrace at the top of 120k, so if they believe in the four years cycle, why did they not believe when the market hit 120k at the exact four years cycle peak, why are they cherry picking their cycle lows , and the answer can be found in their greed.\n\nWe Are Still in a Bear Market, and That Is Exactly Why I Am Buying. Bitcoin is not in a bull market. Bitcoin is in a bear market, and this is exactly the reason why I am buying. It is understandable that a fool sees only two states: bull market or bear market. It's the same fool who rushes into an intersection the moment the traffic light turns yellow, without looking left or right, simply because it was red a second ago and assumes green must come next. Only a fool enters an intersection on yellow without understanding what comes next. Markets work exactly the same way. They are not simply \"bull\" or \"bear,\" especially during major tops and bottoms. The transition is where the biggest opportunities are created, yet it is also where the majority becomes the most confused.\n\nWhen I say I anticipate the end of the bear market, that does not mean we are already in a bull market. It means I am accumulating during the bear market because I believe its final phase is approaching. That is exactly where the highest risk-adjusted returns have always been made. The greatest investments are made in bear markets, not after everyone agrees a bull market has already begun. So let me make this perfectly clear: we are still in a bear market. I have never claimed otherwise. The difference is that I am buying before the crowd recognizes the transition. Those who can only think in black and white fail to understand that accumulation happens before confirmation. By the time the market officially becomes a bull market in the eyes of the public, the biggest opportunity has already passed. I am actively accumulating Bitcoin, and my purchases are shared in real time in Premium. Every single purchase, every single DCA I do, is shared in real time in Premium, and for that reason I am not able to disclose my exact entries publicly. But the accumulation has started, and I am looking forward to accumulating more of BTC, ETH, and some altcoins that will be shared in Premium only. Join Premium here: <a href=\"https://drprofitcrypto.com\">drprofitcrypto.com</a>\n\nThe MA200 Weekly: History Keeps Proving the Point\n\nBitcoin has lost its MA200 weekly once again on the weekly time frame, and that is not an issue at all. We all know that in history Bitcoin lost the MA200 weekly several times. In fact, every single time BTC traded below the MA200 weekly, it was a great buying opportunity, and history is proving my words. Look at the chart: the Buying Range sits exactly where price is trading right now, directly at and below the MA200 weekly, with the bottom formation building in front of us. This is not the zone where you panic. This is the zone where my positions are built. \n\nSaylor Wants to Sell Where I Am Buying\n\nAnd now to the most interesting news of the week. Saylor is now considering selling $5 billion worth of Bitcoin, at a price point where I started my recent accumulation. Read that again. The man who said he would never sell, who laughed at every of my warnings, who kept buying at 100k, 110k, 120k with leverage on top, is now considering selling $5 billion at the bottom of the cycle, in the exact zone where I am slowly and carefully buying since days. I warned about Saylor publicly at the top. I told him to take profits at 115-125k. He refused, he mocked the idea of ever selling, and now his structure is forcing his hand at 60k instead of 120k. This is what happens when you have no plan: the market makes the plan for you, and the market's plan is always worse than the one you refused to make yourself. If Saylor's $5 billion hits the market inside my zone, I welcome it. Forced selling from a trapped whale is exactly the kind of liquidity event that marks accumulation zones. I am planning to buy anything between 54-64k as announced, and if Saylor's supply gives us deeper prices inside that range, my average entry only gets better.\n\nThe Setup Going Into October\n\nThe chart marks the path: bottom formation building through the coming weeks, the Buying Range between 54-64k active. This aligns with everything I have laid out since the pivot. The mass waits for 40-50k in September-October. I accumulate 54-64k now.\n\nJoin Premium here: <a href=\"https://drprofitcrypto.com\">drprofitcrypto.com</a>\n\nTHIS IS NO FINANCIAL ADVICE BUT EDUCATIONAL CONTENT ONLY.",
-      "publishedAt": "2026-08-02T21:44:00.000Z",
-      "link": "https://x.com/DrProfitCrypto/status/2084032653238702370",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOvx5woXAAErmdM.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084010153784070255",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "要是meme这b样 干脆完犊子得了\n\n别几把干了",
-      "contentHtml": "要是meme这b样 干脆完犊子得了\n\n别几把干了",
-      "publishedAt": "2026-08-02T20:15:00.000Z",
-      "link": "https://x.com/octopusycc/status/2084010153784070255",
-      "quote": {
-        "username": "luge517",
-        "displayName": "藤蔓鲁哥",
-        "content": "不知道哪里来的图，我只知道谁接盘谁傻逼，全尼玛内幕，玩你妈逼逼，bsc永远这样，散了吧@fourdotmemezh 就你们这样还想做起来，当我们韭菜都是傻逼吗",
-        "contentHtml": "不知道哪里来的图，我只知道谁接盘谁傻逼，全尼玛内幕，玩你妈逼逼，bsc永远这样，散了吧<a href=\"/fourdotmemezh\" title=\"Four.meme-華語\">@fourdotmemezh</a> 就你们这样还想做起来，当我们韭菜都是傻逼吗",
-        "link": "https://x.com/luge517/status/2083906163536802001",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOuFm2WaAAEbCNa.jpg"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
