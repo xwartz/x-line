@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T13:09:45.692Z",
+  "lastUpdated": "2026-08-11T15:00:37.960Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,148 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 644,
+    "newFetched": 645,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2087182111832998287",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "AI工厂资本化，今天AI产业里最大的新闻莫过于老黄宣布英伟达与Apollo、贝莱德、黑石、Brookfield、高盛和KKR签署的是六份合作备忘录，目标是通过多个“独立算力融资平台”，在未来逐步撬动超过5000亿美元第三方资本。试图建立的是一个以英伟达GPU、CUDA生态和长期算力合同为底层资产的新信用市场。高盛CEO David Solomon的表述最直接：要建立一个“由英伟达算力支持的信用市场”。说说我的理解：\n1、现在宣布的只是一个备忘录，标志着英伟达将AI工厂计算定位为可投资基础设施资产类别，并与多家顶级金融机构合作，旨在动员超过5000亿美元第三方资本支持AI基础设施建设。5000亿美元只是一个长期融资目标，并不是已经到账的现金。\n\n过去企业逐个购买芯片、建设数据中心；现在AI工厂可被作为生产性基础设施进行融资，具备可重复平台、长期机构资本和多元化客户基础。结合“独立承销”“专门资本池”“由英伟达算力支持的信用市场”等表述，可能得模式如下图二所示。\n\n老黄的长文里提到某些情况，英伟达可能提供最高25%的残值支持机制（逐案评估），这六家投资机构也是逐项目评估可行性和风险。目的是解锁大量独立资本，同时保持有纪律的风险敞口。\n\n2、现有的模式参考\n1）7月24日公布的NAVER项目是目前最清晰的案例：\n英伟达计划投资NAVER 10亿美元，Brookfield签署非约束性条款计划提供最多90亿美元，NAVER承担剩余项目资金。这说明英伟达希望看到的是：运营商自有资金＋基础设施资金＋英伟达战略股权＋后续债务或项目融资\n而不是英伟达单独为项目出全部资金。\n\nNAVER案例里，英伟达更像技术平台提供者、战略股东、项目信用增强者；Brookfield则更像长期基础设施资本提供者。\n\n2）Helix Digital Infrastructure也很接近这种模式。\nKKR、科威特投资局、英伟达和Vistra共同成立Helix，初始拥有超过100亿美元长期资本承诺，由前AWS CEO Adam Selipsky领导，投资和管理数据中心、电力、输配电及光纤连接等AI基础设施。英伟达是创始投资者和战略合作方，Vistra是优先电力合作方。\n\nHelix目前更接近AI基础设施AssetCo，不一定直接运营完整GPU云，但它已经把：数据中心、发电、输电、光纤、DSX参考架构、长期资本等要素组合成一个独立公司。\n这是“独立AI Factory资本平台”的早期原型。\n\n3）其实博通已经先走了一步\n6月，博通与Apollo、Blackstone建立AI XPV融资平台，初始交易规模350亿美元，用于支持Anthropic超过1GW的算力扩张，并计划到2028年支持超过20GW算力。\n\nApollo披露，这笔交易采用多年分批提款、投资级资本、多个债务层级以及银行和配售机构参与的结构。它实际上已经证明，芯片供应商可以与私人信贷机构共同把未来算力合同转化为可融资资产。\n\n这对英伟达构成一个潜在竞争威胁：\n如果博通TPU/XPU项目可以获得更便宜的长期融资，而英伟达GPU项目融资成本更高，那么融资成本最终会变成芯片总拥有成本的一部分。\n\n所以英伟达不仅要比性能、生态和每token成本，还要比：谁能帮助客户融资、谁的设备残值更高、谁的算力合同更容易获得银行承、谁能提供更低的资本成本。\n融资能力正在成为竞争力的一部分。\n\n3、带来的影响是什么？\n1）AI云和Neocloud的可服务市场扩大\nAI基础设施需求巨大，但资本获取不均。许多AI实验室、企业和AI云有计算需求，却缺乏足够规模或成本的融资。\n\n传统Hyperscaler可以依靠自身现金流建设，真正受益于新融资平台的是地区型Neocloud、主权AI项目、前沿模型实验室、企业和行业云、缺乏投资级信用但拥有算力需求的初创公司。\n\n英伟达从今年2季度开始，把数据中心收入划分为Hyperscale和ACIE，其中ACIE包括AI Clouds、Industrial和Enterprise，并明确对应各行业和各国的专用AI数据中心与AI工厂。\n\n这说明非Hyperscaler的AI工厂已经被英伟达纳入独立增长框架，降低优质客户的融资门槛和成本，加速AI工厂落地，让更多实验室、企业和云能获取计算资源，核心是进一步扩大算力供给。\n\n2）资本开支债务化\n用债务杠杆把未来的生产性现金流提前资本化为当前可部署的资产，同时把风险分散给专业机构投资者。这是一次把“卖芯片”升级为“赋能可债务融资的AI工厂资产”的金融工程。\n\n借鉴了传统基础设施项目融资的成熟框架（SPV、现金流覆盖、残值担保），试图把AI计算变成可规模化、可杠杆化的生产性资产。好处在于加速资本形成与产业落地，坏处在于把技术迭代与需求不确定性直接嵌入了杠杆结构中。\n\n3）长端利率和信用利差对AI产业的影响会明显上升\n债务化之后，即使终端AI需求没有下降，项目也可能因为：长期国债收益率上升、私人信贷利差扩大、银行降低LTV、GPU残值假设下调、承租人信用恶化、再融资成本上升等因素导致推迟或取消。\n\n也就是说，AI基础设施周期会逐渐从单纯的半导体供需周期，转变成：AI需求周期＋电力建设周期＋信用周期＋利率周期。\n\n当然也可以说AI算力工厂也在债券市场争夺更多优质的长期资金，这反过来也容易推高长端利率。\n\n4、会是循环融资么？\n每次此类消息出来，几乎市场所质疑的很关键的一点就是是不是循环融资。其实判断循环融资的核心并不是英伟达有没有投资或者提供担保，而是看最终付款人是否独立于英伟达\n\n健康算力项目的最终现金流应来自：企业客户、独立模型公司收入、投资级CSP、消费者、政府等最终需求方。而不是来自主要来自英伟达投资、英伟达担保和英伟达购买算力。\n\n这就又跟算力是否过剩相挂钩，如果最终需求增速很快，算力缺口还在扩大，那么新建的AI算力工厂一上线就能从前面说的最终需求方获得持续现金流，那么这个模式就是健康的，也是可持续的。\n\n所以未来就还是要最终需求的增长和算力供给是供不应求，还是供过于求。现在看自然还处于供不应求的状态。",
+      "contentHtml": "AI工厂资本化，今天AI产业里最大的新闻莫过于老黄宣布英伟达与Apollo、贝莱德、黑石、Brookfield、高盛和KKR签署的是六份合作备忘录，目标是通过多个“独立算力融资平台”，在未来逐步撬动超过5000亿美元第三方资本。试图建立的是一个以英伟达GPU、CUDA生态和长期算力合同为底层资产的新信用市场。高盛CEO David Solomon的表述最直接：要建立一个“由英伟达算力支持的信用市场”。说说我的理解：\n1、现在宣布的只是一个备忘录，标志着英伟达将AI工厂计算定位为可投资基础设施资产类别，并与多家顶级金融机构合作，旨在动员超过5000亿美元第三方资本支持AI基础设施建设。5000亿美元只是一个长期融资目标，并不是已经到账的现金。\n\n过去企业逐个购买芯片、建设数据中心；现在AI工厂可被作为生产性基础设施进行融资，具备可重复平台、长期机构资本和多元化客户基础。结合“独立承销”“专门资本池”“由英伟达算力支持的信用市场”等表述，可能得模式如下图二所示。\n\n老黄的长文里提到某些情况，英伟达可能提供最高25%的残值支持机制（逐案评估），这六家投资机构也是逐项目评估可行性和风险。目的是解锁大量独立资本，同时保持有纪律的风险敞口。\n\n2、现有的模式参考\n1）7月24日公布的NAVER项目是目前最清晰的案例：\n英伟达计划投资NAVER 10亿美元，Brookfield签署非约束性条款计划提供最多90亿美元，NAVER承担剩余项目资金。这说明英伟达希望看到的是：运营商自有资金＋基础设施资金＋英伟达战略股权＋后续债务或项目融资\n而不是英伟达单独为项目出全部资金。\n\nNAVER案例里，英伟达更像技术平台提供者、战略股东、项目信用增强者；Brookfield则更像长期基础设施资本提供者。\n\n2）Helix Digital Infrastructure也很接近这种模式。\nKKR、科威特投资局、英伟达和Vistra共同成立Helix，初始拥有超过100亿美元长期资本承诺，由前AWS CEO Adam Selipsky领导，投资和管理数据中心、电力、输配电及光纤连接等AI基础设施。英伟达是创始投资者和战略合作方，Vistra是优先电力合作方。\n\nHelix目前更接近AI基础设施AssetCo，不一定直接运营完整GPU云，但它已经把：数据中心、发电、输电、光纤、DSX参考架构、长期资本等要素组合成一个独立公司。\n这是“独立AI Factory资本平台”的早期原型。\n\n3）其实博通已经先走了一步\n6月，博通与Apollo、Blackstone建立AI XPV融资平台，初始交易规模350亿美元，用于支持Anthropic超过1GW的算力扩张，并计划到2028年支持超过20GW算力。\n\nApollo披露，这笔交易采用多年分批提款、投资级资本、多个债务层级以及银行和配售机构参与的结构。它实际上已经证明，芯片供应商可以与私人信贷机构共同把未来算力合同转化为可融资资产。\n\n这对英伟达构成一个潜在竞争威胁：\n如果博通TPU/XPU项目可以获得更便宜的长期融资，而英伟达GPU项目融资成本更高，那么融资成本最终会变成芯片总拥有成本的一部分。\n\n所以英伟达不仅要比性能、生态和每token成本，还要比：谁能帮助客户融资、谁的设备残值更高、谁的算力合同更容易获得银行承、谁能提供更低的资本成本。\n融资能力正在成为竞争力的一部分。\n\n3、带来的影响是什么？\n1）AI云和Neocloud的可服务市场扩大\nAI基础设施需求巨大，但资本获取不均。许多AI实验室、企业和AI云有计算需求，却缺乏足够规模或成本的融资。\n\n传统Hyperscaler可以依靠自身现金流建设，真正受益于新融资平台的是地区型Neocloud、主权AI项目、前沿模型实验室、企业和行业云、缺乏投资级信用但拥有算力需求的初创公司。\n\n英伟达从今年2季度开始，把数据中心收入划分为Hyperscale和ACIE，其中ACIE包括AI Clouds、Industrial和Enterprise，并明确对应各行业和各国的专用AI数据中心与AI工厂。\n\n这说明非Hyperscaler的AI工厂已经被英伟达纳入独立增长框架，降低优质客户的融资门槛和成本，加速AI工厂落地，让更多实验室、企业和云能获取计算资源，核心是进一步扩大算力供给。\n\n2）资本开支债务化\n用债务杠杆把未来的生产性现金流提前资本化为当前可部署的资产，同时把风险分散给专业机构投资者。这是一次把“卖芯片”升级为“赋能可债务融资的AI工厂资产”的金融工程。\n\n借鉴了传统基础设施项目融资的成熟框架（SPV、现金流覆盖、残值担保），试图把AI计算变成可规模化、可杠杆化的生产性资产。好处在于加速资本形成与产业落地，坏处在于把技术迭代与需求不确定性直接嵌入了杠杆结构中。\n\n3）长端利率和信用利差对AI产业的影响会明显上升\n债务化之后，即使终端AI需求没有下降，项目也可能因为：长期国债收益率上升、私人信贷利差扩大、银行降低LTV、GPU残值假设下调、承租人信用恶化、再融资成本上升等因素导致推迟或取消。\n\n也就是说，AI基础设施周期会逐渐从单纯的半导体供需周期，转变成：AI需求周期＋电力建设周期＋信用周期＋利率周期。\n\n当然也可以说AI算力工厂也在债券市场争夺更多优质的长期资金，这反过来也容易推高长端利率。\n\n4、会是循环融资么？\n每次此类消息出来，几乎市场所质疑的很关键的一点就是是不是循环融资。其实判断循环融资的核心并不是英伟达有没有投资或者提供担保，而是看最终付款人是否独立于英伟达\n\n健康算力项目的最终现金流应来自：企业客户、独立模型公司收入、投资级CSP、消费者、政府等最终需求方。而不是来自主要来自英伟达投资、英伟达担保和英伟达购买算力。\n\n这就又跟算力是否过剩相挂钩，如果最终需求增速很快，算力缺口还在扩大，那么新建的AI算力工厂一上线就能从前面说的最终需求方获得持续现金流，那么这个模式就是健康的，也是可持续的。\n\n所以未来就还是要最终需求的增长和算力供给是供不应求，还是供过于求。现在看自然还处于供不应求的状态。",
+      "publishedAt": "2026-08-11T14:19:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2087182111832998287",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPcZqCwaMAA-nET.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPcchA8bIAI5uvj.png"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "存储厂商LTA长协之后，英伟达商业模式的变化“算力换营收”。看报道英伟达正在与初创公司签订收入分成协议，此举将使客户以未来收入的一部分换取计算能力的访问权。个人角度这不是传统“卖芯片”那么简单，也不是严格意义上的银行贷款。更应该是“算力信用+厂商融资+收入分成+生态锁定”的组合。会是另一种“算力贷”么？值得细聊下\n\n有关键细节要纠正：很多报道写成“future profits”，但英伟达官方表述更接近cloud revenue share，也就是云收入分成，而不是净利润分成。这对英伟达来说可能比“利润分成”更重，因为收入分成通常发生在利润之前。\n\n英伟达获得两段收入：\n一段是卖GPU、系统、网络等产品的收入；\n另一段是这些GPU被云厂商出租给AI客户后，英伟达继续按云收入或使用量拿分成。官方已经把这个定义为“标准产品收入 + 云收入分成 + 使用量挂钩的经常性收益”。 \n\n1、为什么英伟达要这么做？\n个人角度应该是要解决AI产业的两个瓶颈：谁能融资建设算力，以及谁能持续高利用率消化算力。\n1）英伟达在公告里说，AI正在从模型开发走向生产推理，算力需求转向持续运行、规模化生成token的AI工厂。 这种模式下，GPU集群是否能长期高利用率，比单次卖出硬件更关键。\n\n2）英伟达想把客户群从大型云厂商扩展到AI原生公司、区域云、企业、研究机构和主权AI项目。英伟达在一季度财报中把数据中心拆成 Hyperscale 和 ACIE；ACIE 包含 AI Clouds、Industrial 和 Enterprise，显示它正在把增长叙事从少数超大云厂商扩展到更广的AI工厂生态。 \n\n3）这是对抗客户自研芯片和平台替代的生态策略。大型云厂商有自研AI芯片能力，初创公司和Neocloud没有同等能力。英伟达通过信用支持、算力积分和收入分成，把这些新兴客户提前绑定在自己的GPU、网络、软件和DSX架构上。换句话说，它不是只赚一次硬件钱，而是在把自己嵌入未来AI应用收入链条。\n\n2、对英伟达的收益结构是不是改变了？\n新收入分成模式即便战略意义很大，但体量应该很小，短期未必马上改变整体财报结构。但它改变的是收入质量和风险暴露。\n1）英伟达从“一次性硬件收入”走向“硬件收入 + 未来算力收入分成”。这有点像把芯片卖给矿场后，还要继续抽矿场产出的算力收入分成。\n\n2）它把英伟达的收入从纯供应链周期，部分变成使用量周期。好处是如果AI推理需求真的长期爆发，英伟达能持续分享下游增长；\n坏处是如果下游需求不足、GPU出租价格下滑、客户违约，英伟达就不仅是卖方，还成了信用风险和利用率风险的承担者。\n\n3）财务处理上会更复杂。英伟达年报里说，产品销售收入通常在产品控制权转移时确认，客户激励、返利和市场开发资金等客户项目会作为收入减少项处理。  \n所以未来要看合同细节：token credits 是费用？是收入抵减？是客户激励？是预付算力？收入分成什么时候确认？这些都会影响“收入质量”的判断。\n\n4）估值逻辑可能被重新包装。硬件公司通常按周期性利润看；带有经常性、使用量挂钩收入的公司，市场可能愿意给更高倍数。但前提是这部分收入来自真实终端需求，而不是英伟达自己通过信用支持“拉”出来的需求。\n\n3、这算不算“算力贷”？\n严格法律意义上并不像是贷款；经济实质上，很像算力贷：\n1）如果合同是“以后无论赚不赚钱都要还固定金额或最低使用费”，那就更像债务或融资租赁。\n\n2）如果合同是“你未来有收入才按比例分给英伟达”，那更像 收入分成融资。\n\n3）如果英伟达给AI云厂商担保、回购、信用增强，让银行愿意给数据中心项目放款，那更像供应商融资支持。\n\n所以个人把它定义为：\n“算力贷化”的厂商融资，而不是标准贷款。 它的本质是把GPU算力从一次性采购商品，变成一种可预支、可分期、可抵押、可证券化、可收入分成的金融资产。\n\n4、这一定都是好事么？\n也不尽然\n容易形成循环融资。供应商投资或担保客户，客户再买供应商的产品，供应商确认收入，市场再用这个收入增长证明AI需求强劲。这个循环不一定是假的，但它会让外部投资者更难分辨：到底有多少是真实终端需求，有多少是被信用、补贴、积分和收入分成提前拉动的需求。且金融结构越来越不透明\n\n所以总的来说：\n这能算是一种非常强势的产业金融创新，它在需求真实增长时会非常有效：创业公司获得算力，AI云厂商获得融资，英伟达获得硬件收入和未来分成，生态扩张加速，且绑定了更多的中小客户。\n\n但它的风险也不小：\n它会把英伟达、AI创业公司、债权人和终端客户的现金流绑在一起。一旦AI应用收入不够快、不够厚，或者GPU租赁价格下行，风险会沿着这些合同链条反向传导。当然早期还好，因为体力量也不大。\n\n未来重点看四个指标：\n1）下游AI云的真实利用率；\n2）GPU租赁价格走势；\n3）收入分成合同是否有最低承诺或回购条款；\n4）以及英伟达投资/担保/应收账款增长是否快于终端现金流增长。\n只要这些指标健康，那么这就是一项好的产业金融创新。\n但这些指标一旦严重背离，所谓“算力贷”的风险就会从叙事问题变成财务问题。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "存储厂商LTA长协之后，英伟达商业模式的变化“算力换营收”。看报道英伟达正在与初创公司签订收入分成协议，此举将使客户以未来收入的一部分换取计算能力的访问权。个人角度这不是传统“卖芯片”那么简单，也不是严格意义上的银行贷款。更应该是“算力信用+厂商融资+收入分成+生态锁定”的组合。会是另一种“算力贷”么？值得细聊下\n\n有关键细节要纠正：很多报道写成“future profits”，但英伟达官方表述更接近cloud revenue share，也就是云收入分成，而不是净利润分成。这对英伟达来说可能比“利润分成”更重，因为收入分成通常发生在利润之前。\n\n英伟达获得两段收入：\n一段是卖GPU、系统、网络等产品的收入；\n另一段是这些GPU被云厂商出租给AI客户后，英伟达继续按云收入或使用量拿分成。官方已经把这个定义为“标准产品收入 + 云收入分成 + 使用量挂钩的经常性收益”。 \n\n1、为什么英伟达要这么做？\n个人角度应该是要解决AI产业的两个瓶颈：谁能融资建设算力，以及谁能持续高利用率消化算力。\n1）英伟达在公告里说，AI正在从模型开发走向生产推理，算力需求转向持续运行、规模化生成token的AI工厂。 这种模式下，GPU集群是否能长期高利用率，比单次卖出硬件更关键。\n\n2）英伟达想把客户群从大型云厂商扩展到AI原生公司、区域云、企业、研究机构和主权AI项目。英伟达在一季度财报中把数据中心拆成 Hyperscale 和 ACIE；ACIE 包含 AI Clouds、Industrial 和 Enterprise，显示它正在把增长叙事从少数超大云厂商扩展到更广的AI工厂生态。 \n\n3）这是对抗客户自研芯片和平台替代的生态策略。大型云厂商有自研AI芯片能力，初创公司和Neocloud没有同等能力。英伟达通过信用支持、算力积分和收入分成，把这些新兴客户提前绑定在自己的GPU、网络、软件和DSX架构上。换句话说，它不是只赚一次硬件钱，而是在把自己嵌入未来AI应用收入链条。\n\n2、对英伟达的收益结构是不是改变了？\n新收入分成模式即便战略意义很大，但体量应该很小，短期未必马上改变整体财报结构。但它改变的是收入质量和风险暴露。\n1）英伟达从“一次性硬件收入”走向“硬件收入 + 未来算力收入分成”。这有点像把芯片卖给矿场后，还要继续抽矿场产出的算力收入分成。\n\n2）它把英伟达的收入从纯供应链周期，部分变成使用量周期。好处是如果AI推理需求真的长期爆发，英伟达能持续分享下游增长；\n坏处是如果下游需求不足、GPU出租价格下滑、客户违约，英伟达就不仅是卖方，还成了信用风险和利用率风险的承担者。\n\n3）财务处理上会更复杂。英伟达年报里说，产品销售收入通常在产品控制权转移时确认，客户激励、返利和市场开发资金等客户项目会作为收入减少项处理。  \n所以未来要看合同细节：token credits 是费用？是收入抵减？是客户激励？是预付算力？收入分成什么时候确认？这些都会影响“收入质量”的判断。\n\n4）估值逻辑可能被重新包装。硬件公司通常按周期性利润看；带有经常性、使用量挂钩收入的公司，市场可能愿意给更高倍数。但前提是这部分收入来自真实终端需求，而不是英伟达自己通过信用支持“拉”出来的需求。\n\n3、这算不算“算力贷”？\n严格法律意义上并不像是贷款；经济实质上，很像算力贷：\n1）如果合同是“以后无论赚不赚钱都要还固定金额或最低使用费”，那就更像债务或融资租赁。\n\n2）如果合同是“你未来有收入才按比例分给英伟达”，那更像 收入分成融资。\n\n3）如果英伟达给AI云厂商担保、回购、信用增强，让银行愿意给数据中心项目放款，那更像供应商融资支持。\n\n所以个人把它定义为：\n“算力贷化”的厂商融资，而不是标准贷款。 它的本质是把GPU算力从一次性采购商品，变成一种可预支、可分期、可抵押、可证券化、可收入分成的金融资产。\n\n4、这一定都是好事么？\n也不尽然\n容易形成循环融资。供应商投资或担保客户，客户再买供应商的产品，供应商确认收入，市场再用这个收入增长证明AI需求强劲。这个循环不一定是假的，但它会让外部投资者更难分辨：到底有多少是真实终端需求，有多少是被信用、补贴、积分和收入分成提前拉动的需求。且金融结构越来越不透明\n\n所以总的来说：\n这能算是一种非常强势的产业金融创新，它在需求真实增长时会非常有效：创业公司获得算力，AI云厂商获得融资，英伟达获得硬件收入和未来分成，生态扩张加速，且绑定了更多的中小客户。\n\n但它的风险也不小：\n它会把英伟达、AI创业公司、债权人和终端客户的现金流绑在一起。一旦AI应用收入不够快、不够厚，或者GPU租赁价格下行，风险会沿着这些合同链条反向传导。当然早期还好，因为体力量也不大。\n\n未来重点看四个指标：\n1）下游AI云的真实利用率；\n2）GPU租赁价格走势；\n3）收入分成合同是否有最低承诺或回购条款；\n4）以及英伟达投资/担保/应收账款增长是否快于终端现金流增长。\n只要这些指标健康，那么这就是一项好的产业金融创新。\n但这些指标一旦严重背离，所谓“算力贷”的风险就会从叙事问题变成财务问题。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2073583289714278642",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HMbYvrna0AAxseZ.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087179444368929041",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2085191114496311296/II9mvaaN_bigger.jpg",
+      "content": "这个multipli可以先注册一下打新，打不打到时候再说。现在vc币打新还不错。",
+      "contentHtml": "这个multipli可以先注册一下打新，打不打到时候再说。现在vc币打新还不错。",
+      "publishedAt": "2026-08-11T14:08:00.000Z",
+      "link": "https://x.com/0xleng1/status/2087179444368929041",
+      "quote": {
+        "username": "multiplifi",
+        "displayName": "Multipli.fi",
+        "content": "2/\n\nThe Community Sale is where that support becomes ownership, and a stake in everything we build next.\n\nFull breakdown : multipli.fi/blog/the-mult-co…",
+        "contentHtml": "2/\n\nThe Community Sale is where that support becomes ownership, and a stake in everything we build next.\n\nFull breakdown : <a href=\"https://multipli.fi/blog/the-mult-community-sale-is-here\">multipli.fi/blog/the-mult-co…</a>",
+        "link": "https://x.com/multiplifi/status/2085767487887466630"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087177460068827621",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "app.binance.com/uni-qr/cspa/…\n开播了",
+      "contentHtml": "<a href=\"https://app.binance.com/uni-qr/cspa/44321582487881?l=zh-CN&r=MJ6LI1UJ&source=host_share&uc=web_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>\n开播了",
+      "publishedAt": "2026-08-11T14:00:00.000Z",
+      "link": "https://x.com/octopusycc/status/2087177460068827621",
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "晚上接着看市场\n\nCPI悬而不定，今天市场必然防守\n\napp.binance.com/uni-qr/cspa/…",
+        "contentHtml": "晚上接着看市场\n\nCPI悬而不定，今天市场必然防守\n\n<a href=\"https://app.binance.com/uni-qr/cspa/44319498669210?r=MJ6LI1UJ&l=zh-CN&source=host_share&uc=app_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>",
+        "link": "https://x.com/octopusycc/status/2087160205922779508",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPcVIuxbAAAhAkX.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087168944767676667",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "继续走低！",
+      "contentHtml": "继续走低！",
+      "publishedAt": "2026-08-11T13:27:00.000Z",
+      "link": "https://x.com/octopusycc/status/2087168944767676667",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPcdE9ZaEAEEJNV.jpg"
+        }
+      ],
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "韩国股指波动率 目前是 六月九日至今的最低",
+        "contentHtml": "韩国股指波动率 目前是 六月九日至今的最低",
+        "link": "https://x.com/octopusycc/status/2085816482387402918"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087167902151811224",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "$BTC \n\nI’m expecting volatility after the 14th. We usually get a clean 6–8% swing. Structure is everything here. \n\nIf we start ripping aggressively into the 14th, that’s a red flag and I’m already thinking rejection. I’m watching the reclaims, the key S/R flips, and the LTF/HTF trend. \n\nOnce you understand the structure leading into the date, the post‑move becomes predictable.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nI’m expecting volatility after the 14th. We usually get a clean 6–8% swing. Structure is everything here. \n\nIf we start ripping aggressively into the 14th, that’s a red flag and I’m already thinking rejection. I’m watching the reclaims, the key S/R flips, and the LTF/HTF trend. \n\nOnce you understand the structure leading into the date, the post‑move becomes predictable.",
+      "publishedAt": "2026-08-11T13:23:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2087167902151811224",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPcDTVmXkAAvdjV.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2087160205922779508",
       "username": "octopusycc",
@@ -12141,129 +12278,6 @@
       "contentHtml": "tradexyz competitor that miserably failed despite running a points program and dick riding every CT KOL in dm now has opinions on tradexyz's value accrual 😭",
       "publishedAt": "2026-08-03T11:53:00.000Z",
       "link": "https://x.com/Cbb0fe/status/2084246343392895201",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084243874784903393",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "$ORCL 终于要摆脱Neocloud的束缚了吗？下半年展望里的软硬双休威力来了😀",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23ORCL\">$ORCL</a> 终于要摆脱Neocloud的束缚了吗？下半年展望里的软硬双休威力来了😀",
-      "publishedAt": "2026-08-03T11:43:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2084243874784903393",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084238047025967475",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$BTC \n\nWell, it seems like Monday is no different this time either. \n\nWe formed Monday's high during the Asian session.\n\n60-61K is the area to observe, break that an we sweep 57K.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWell, it seems like Monday is no different this time either. \n\nWe formed Monday's high during the Asian session.\n\n60-61K is the area to observe, break that an we sweep 57K.",
-      "publishedAt": "2026-08-03T11:20:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2084238047025967475",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOyzO98W4AAo8JE.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "Monday has not been pretty for $BTC recently. \n\n11/12 weeks, Monday set the high, followed by a 3–5% drop. \n\nLets see what next week will bring... Monday high or a Monday low? Pay attention to the structure, sessions, and killzones.",
-        "contentHtml": "Monday has not been pretty for <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> recently. \n\n11/12 weeks, Monday set the high, followed by a 3–5% drop. \n\nLets see what next week will bring... Monday high or a Monday low? Pay attention to the structure, sessions, and killzones.",
-        "link": "https://x.com/KillaXBT/status/2083534966852305270",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOoza65XQAAhBrv.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084233165359796516",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "八月 更细的美股交易 \n\n开盘给大家讲讲云和中概的机会\n\n$MSFT $AMZN $GOOG",
-      "contentHtml": "八月 更细的美股交易 \n\n开盘给大家讲讲云和中概的机会\n\n<a href=\"/search?f=tweets&q=%23MSFT\">$MSFT</a> <a href=\"/search?f=tweets&q=%23AMZN\">$AMZN</a> <a href=\"/search?f=tweets&q=%23GOOG\">$GOOG</a>",
-      "publishedAt": "2026-08-03T11:01:00.000Z",
-      "link": "https://x.com/octopusycc/status/2084233165359796516",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOyvApNbUAAfX1f.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084231327222759656",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "大摩眼里的AI投资ROIC和看待看待ROIC的几个框架。上周微软和亚马逊的财报后大摩认为AI投资ROIC的统计框架已经出炉，结果是25-50%之间，盈利兑现已经开始，而且回报率可能远高于市场预期。梳理下大摩最新这份报告：\n1、 GPU即服务（GPU IaaS）\n代表：Azure，AWS，Google Cloud。\n本质上：企业租用GPU算力进行训练和推理。\nMorgan Stanley测算：增量EBIT Margin：60%-70%，ROIC：25%-40%。\n为什么回报率高？因为：GPU利用率持续提高，单位电力和运维成本被规模摊薄，算力供给仍然相对稀缺。Morgan Stanley甚至提出：未来几年真正稀缺的资产可能不是模型，而是数据中心容量（Data Center Capacity）。也就是说，CSP在AI时代重现云时代的辉煌，基础建设垄断重现重资产为王。\n\n2. 独立模型API\n代表：GPT、Gemini、Claude、Meta未来可能开放的模型服务\n模式：用户直接购买模型推理能力。\nMorgan Stanley认为：这种模式ROIC可以超过40%。\n背后逻辑：一旦训练完成：每新增用户边际成本持续下降、收入增长速度快于成本增长速度，属于典型软件经济学（Software Economics）。\n\n3、AI平台+第三方基础设施\n即：模型开发商不自己建设数据中心\n向外部购买：GPU网络、机房资源。虽然利润率较低，但Morgan Stanley认为：仍然可以实现25%以上ROIC。\n\n需求端回报也非常清晰。\nMorgan Stanley给出了一个很有意思的企业ROI测算：企业平均Token支出不到11美元/月，但每位员工创造的劳动节省价值：约55美元。Token成本：仅2至5美元级别。\n\n简单理解：投入1美元AI成本，可能创造10美元以上的生产力收益。因此企业没有动力削减AI预算。这也是Morgan Stanley认为AI需求不会像市场担心那样快速见顶的重要原因。\n\n大摩这份报告第一次比较系统地证明：\n只要AI算力达到较高利用率，并且能从训练阶段逐渐转向规模化推理，AI基础设施并非天然的低回报资本黑洞。\n\n7月初就开始聊到CSP价值重估，是真的来了。\nAI商业化和货币化也在进一步加速",
-      "contentHtml": "大摩眼里的AI投资ROIC和看待看待ROIC的几个框架。上周微软和亚马逊的财报后大摩认为AI投资ROIC的统计框架已经出炉，结果是25-50%之间，盈利兑现已经开始，而且回报率可能远高于市场预期。梳理下大摩最新这份报告：\n1、 GPU即服务（GPU IaaS）\n代表：Azure，AWS，Google Cloud。\n本质上：企业租用GPU算力进行训练和推理。\nMorgan Stanley测算：增量EBIT Margin：60%-70%，ROIC：25%-40%。\n为什么回报率高？因为：GPU利用率持续提高，单位电力和运维成本被规模摊薄，算力供给仍然相对稀缺。Morgan Stanley甚至提出：未来几年真正稀缺的资产可能不是模型，而是数据中心容量（Data Center Capacity）。也就是说，CSP在AI时代重现云时代的辉煌，基础建设垄断重现重资产为王。\n\n2. 独立模型API\n代表：GPT、Gemini、Claude、Meta未来可能开放的模型服务\n模式：用户直接购买模型推理能力。\nMorgan Stanley认为：这种模式ROIC可以超过40%。\n背后逻辑：一旦训练完成：每新增用户边际成本持续下降、收入增长速度快于成本增长速度，属于典型软件经济学（Software Economics）。\n\n3、AI平台+第三方基础设施\n即：模型开发商不自己建设数据中心\n向外部购买：GPU网络、机房资源。虽然利润率较低，但Morgan Stanley认为：仍然可以实现25%以上ROIC。\n\n需求端回报也非常清晰。\nMorgan Stanley给出了一个很有意思的企业ROI测算：企业平均Token支出不到11美元/月，但每位员工创造的劳动节省价值：约55美元。Token成本：仅2至5美元级别。\n\n简单理解：投入1美元AI成本，可能创造10美元以上的生产力收益。因此企业没有动力削减AI预算。这也是Morgan Stanley认为AI需求不会像市场担心那样快速见顶的重要原因。\n\n大摩这份报告第一次比较系统地证明：\n只要AI算力达到较高利用率，并且能从训练阶段逐渐转向规模化推理，AI基础设施并非天然的低回报资本黑洞。\n\n7月初就开始聊到CSP价值重估，是真的来了。\nAI商业化和货币化也在进一步加速",
-      "publishedAt": "2026-08-03T10:54:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2084231327222759656",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOyqQU_bYAAAVK1.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "聊了快一个月的超大CSP价值重塑到今天完全被微软、亚马逊的财报给支撑住，也验证了之前“超大CSP业绩表现将是衡量AI行业化更重要的指标”的说法。看微软的纳德拉和亚马逊的贾西在电话会上的表态都确认了之前聊到的一个趋势：“企业不会把全部业务交给一个通用大模型，而是围绕不同业务场景，组合前沿模型、低成本小模型、开源模型和企业自有模型，再由统一的上下文、记忆、身份、权限、Agent运行时和治理平台进行调度”。这就是最近一个月一直聊到的分场景、多模型的框架。",
-        "contentHtml": "聊了快一个月的超大CSP价值重塑到今天完全被微软、亚马逊的财报给支撑住，也验证了之前“超大CSP业绩表现将是衡量AI行业化更重要的指标”的说法。看微软的纳德拉和亚马逊的贾西在电话会上的表态都确认了之前聊到的一个趋势：“企业不会把全部业务交给一个通用大模型，而是围绕不同业务场景，组合前沿模型、低成本小模型、开源模型和企业自有模型，再由统一的上下文、记忆、身份、权限、Agent运行时和治理平台进行调度”。这就是最近一个月一直聊到的分场景、多模型的框架。",
-        "link": "https://x.com/qinbafrank/status/2083010242691158485",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOhWxhubkAASP5S.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOhWxhibUAA7fik.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084229397587062879",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "仍然要关注8/4  AMD盘后的财报\n\n这也许会给半导体指引一些方向\n\n$AMD $INTC",
-      "contentHtml": "仍然要关注8/4  AMD盘后的财报\n\n这也许会给半导体指引一些方向\n\n<a href=\"/search?f=tweets&q=%23AMD\">$AMD</a> <a href=\"/search?f=tweets&q=%23INTC\">$INTC</a>",
-      "publishedAt": "2026-08-03T10:46:00.000Z",
-      "link": "https://x.com/octopusycc/status/2084229397587062879",
       "stats": {
         "replies": 0,
         "retweets": 0,
