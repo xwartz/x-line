@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T02:04:53.463Z",
+  "lastUpdated": "2026-08-12T04:49:35.230Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,242 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 646,
+    "newFetched": 645,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2087399825528774990",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "所有星期一闹腾光比存储硬的你们可以全部拉黑了，小脑发育不完全的特征。",
+      "contentHtml": "所有星期一闹腾光比存储硬的你们可以全部拉黑了，小脑发育不完全的特征。",
+      "publishedAt": "2026-08-12T04:44:00.000Z",
+      "link": "https://x.com/yuren477/status/2087399825528774990",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087395743946674296",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "对于前几天热议的“多光空存”，前天这里nitter.net/qinbafrank/status/2086…最后部分聊到的不知多少人听进去了：现在这个时点空存性价比不高了。空间还有，只是最暴力丝滑的阶段过去了。未来就像大科技，甚至可能跟英伟达近两年走势很像了。",
+      "contentHtml": "对于前几天热议的“多光空存”，前天这里<a href=\"https://nitter.net/qinbafrank/status/2086749504129372432?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2086…</a>最后部分聊到的不知多少人听进去了：现在这个时点空存性价比不高了。空间还有，只是最暴力丝滑的阶段过去了。未来就像大科技，甚至可能跟英伟达近两年走势很像了。",
+      "publishedAt": "2026-08-12T04:28:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2087395743946674296",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPfrW5uakAAclul.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "存储板块从6月之前最热的板块，经过一轮调整现在已经是争议最大的板块了，核心市场现在也弄不清到底把存储当做周期还是成长来看。之前行情好认为有成长的迹象，现在一股脑又归为周期，要万劫不复才行。高盛最新这份关于存储的报告，还是很值得看看，它梳理了当下市场八大核心疑虑，也给了我们一个去看待存储的框架。下面图片是高盛报告对市场八大疑虑的分析。 说说我的理解：\n1、这八项之中，哪些最有说服力，哪些假设最激进？\n最有说服力的三项\n1）LTA结构确实发生了实质变化\n五年合同、take-or-pay、价格底线和大额预付款都已有公司公开披露，这是本轮周期最不同于历史周期的地方。\n\n2） 原厂库存仍然偏低\n2—4周库存明显低于历史下行周期水平，且三星和海力士均公开表示客户需求仍超过供给能力。\n\n3）HBM扩张会挤压普通DRAM供给\nHBM trade ratio上升、先进封装约束、洁净室空间不足和新厂建设周期较长，使得“HBM扩产”和“普通DRAM同步扩产”难以同时快速实现。\n\n最激进、最需要验证的两项\n1）2027年HBM可比产品涨价约60%\n方向上有逻辑，但幅度对：GPU出货、HBM4良率、客户议价、LTA价格上限、三家供应商扩产纪律等这几点非常敏感。\n\n2）长鑫影响长期局限于中国本土\n在未来一年可能成立，但放到三至五年维度，这个判断明显偏乐观。除非存储供应链因为政治原因出现明显东西分化。长鑫真正的风险未必是立刻争夺HBM，而是压低普通DRAM长期价格中枢。\n\n2、高盛这份报告最的价值，在于提出了一个可能的框架：\n市场仍然用上一轮“现货主导、供应商盲目扩产、库存快速累积”的存储周期，去估值一个越来越由AI服务器需求、先进封装约束、长期同、预付款和价格底线主导的新周期。\n\n其中，最扎实的多头依据是：\nLTA条款明显强化；\n原厂库存极低；\nHBM扩产挤压普通DRAM；\nNAND资本开支不足；\n服务器存储需求仍在增长。\n最需要保持警惕的是：\n2027年HBM涨价幅度可能过于激进；\n长协既保护底部，也可能限制顶部；\n海力士“二季度一次性miss”必须在三季度兑现修复；\n长鑫的全球影响短期有限，但中长期绝不能忽视。\n\n3、需要思考的几个点：\n1）周期顶部会不会比市场预期更晚？\n只要AI服务器、HBM、服务器DRAM和企业级SSD需求持续增长，2027年未必就是盈利终点。\n\n2）下一轮周期底部是不是会显著高于过去？\nLTA、预付款、价格底线和低库存，会降低过去那种“价格暴跌—库存爆仓—巨额亏损”的概率。\n\n3）估值逻辑需要从峰值利润转向正常化利润\n未来会长时间维持正常会利润（而非峰值利润）么？\n \n一个思考点是：如果把dram、nand当做周期品来看可以理解，但是hbm其实是跟gpu高度绑定的，封装在一起，把hbm当做周期品看的前提是得把英伟达GPU也当做周期品来看（显然gpu并非周期品）。\n\n对于存储企业来说，现在有新周期影子和迹象，但还需要进一步证明，核心还是看需求，未来几年新产能陆续落地后，需求是不是在持续快速增长。\n\n此内容由@BITstocks_CN赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。",
+        "contentHtml": "存储板块从6月之前最热的板块，经过一轮调整现在已经是争议最大的板块了，核心市场现在也弄不清到底把存储当做周期还是成长来看。之前行情好认为有成长的迹象，现在一股脑又归为周期，要万劫不复才行。高盛最新这份关于存储的报告，还是很值得看看，它梳理了当下市场八大核心疑虑，也给了我们一个去看待存储的框架。下面图片是高盛报告对市场八大疑虑的分析。 说说我的理解：\n1、这八项之中，哪些最有说服力，哪些假设最激进？\n最有说服力的三项\n1）LTA结构确实发生了实质变化\n五年合同、take-or-pay、价格底线和大额预付款都已有公司公开披露，这是本轮周期最不同于历史周期的地方。\n\n2） 原厂库存仍然偏低\n2—4周库存明显低于历史下行周期水平，且三星和海力士均公开表示客户需求仍超过供给能力。\n\n3）HBM扩张会挤压普通DRAM供给\nHBM trade ratio上升、先进封装约束、洁净室空间不足和新厂建设周期较长，使得“HBM扩产”和“普通DRAM同步扩产”难以同时快速实现。\n\n最激进、最需要验证的两项\n1）2027年HBM可比产品涨价约60%\n方向上有逻辑，但幅度对：GPU出货、HBM4良率、客户议价、LTA价格上限、三家供应商扩产纪律等这几点非常敏感。\n\n2）长鑫影响长期局限于中国本土\n在未来一年可能成立，但放到三至五年维度，这个判断明显偏乐观。除非存储供应链因为政治原因出现明显东西分化。长鑫真正的风险未必是立刻争夺HBM，而是压低普通DRAM长期价格中枢。\n\n2、高盛这份报告最的价值，在于提出了一个可能的框架：\n市场仍然用上一轮“现货主导、供应商盲目扩产、库存快速累积”的存储周期，去估值一个越来越由AI服务器需求、先进封装约束、长期同、预付款和价格底线主导的新周期。\n\n其中，最扎实的多头依据是：\nLTA条款明显强化；\n原厂库存极低；\nHBM扩产挤压普通DRAM；\nNAND资本开支不足；\n服务器存储需求仍在增长。\n最需要保持警惕的是：\n2027年HBM涨价幅度可能过于激进；\n长协既保护底部，也可能限制顶部；\n海力士“二季度一次性miss”必须在三季度兑现修复；\n长鑫的全球影响短期有限，但中长期绝不能忽视。\n\n3、需要思考的几个点：\n1）周期顶部会不会比市场预期更晚？\n只要AI服务器、HBM、服务器DRAM和企业级SSD需求持续增长，2027年未必就是盈利终点。\n\n2）下一轮周期底部是不是会显著高于过去？\nLTA、预付款、价格底线和低库存，会降低过去那种“价格暴跌—库存爆仓—巨额亏损”的概率。\n\n3）估值逻辑需要从峰值利润转向正常化利润\n未来会长时间维持正常会利润（而非峰值利润）么？\n \n一个思考点是：如果把dram、nand当做周期品来看可以理解，但是hbm其实是跟gpu高度绑定的，封装在一起，把hbm当做周期品看的前提是得把英伟达GPU也当做周期品来看（显然gpu并非周期品）。\n\n对于存储企业来说，现在有新周期影子和迹象，但还需要进一步证明，核心还是看需求，未来几年新产能陆续落地后，需求是不是在持续快速增长。\n\n此内容由<a href=\"/BITstocks_CN\" title=\"BIT美股频道\">@BITstocks_CN</a>赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。",
+        "link": "https://x.com/qinbafrank/status/2085357954430369963",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPCk57dbEAAIkfm.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087394307158523984",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "天天都在舒服",
+      "contentHtml": "天天都在舒服",
+      "publishedAt": "2026-08-12T04:22:00.000Z",
+      "link": "https://x.com/yuren477/status/2087394307158523984",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPfqDZlbsAAJqN3.jpg"
+        }
+      ],
+      "quote": {
+        "username": "yuren477",
+        "displayName": "余人sama",
+        "content": "已接多，莫辜负",
+        "contentHtml": "已接多，莫辜负",
+        "link": "https://x.com/yuren477/status/2086606224154611901"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087389109413167335",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#BNB \n\n在没有什么人关注的角落里，各个平台的平台币都开始偷偷的上涨\n\n平台币在回暖，可以理解为交易所认为熊市差不多结束了，至于是否还有最后一跌，没有人能百分百肯定，但从战略上我们要知道，这个位置值得我们慢慢入场了\n\n一周前对BNB的观察，依然有效",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23BNB\">#BNB</a> \n\n在没有什么人关注的角落里，各个平台的平台币都开始偷偷的上涨\n\n平台币在回暖，可以理解为交易所认为熊市差不多结束了，至于是否还有最后一跌，没有人能百分百肯定，但从战略上我们要知道，这个位置值得我们慢慢入场了\n\n一周前对BNB的观察，依然有效",
+      "publishedAt": "2026-08-12T04:02:00.000Z",
+      "link": "https://x.com/dongbimao/status/2087389109413167335",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPflSp6XAAAuOG3.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087381156341952601",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "“三线合一” 其原理就只是把三轮周期的MVRV以减半为时间锚点进行对齐，3条曲线时常会发生共振。\n\n为什么会这样？其实没有什么逻辑，所以我一直视其为“玄学”指标，“刻”的就是传统4年周期的时间线。\n\n然而，小伙伴们却对此表现出极大的兴趣，因为在过去几年里，它“准”的时候要远大于“不准”的时候。\n\n还就是这么“玄乎”......\n\n就好比现在我们看到，大约2周后（8月23日）蓝线有一个非常明显的拐点，同时绿线也在下方。\n\n如果延续同频规律，那红线也得往下，无论是笔直向下还是缓慢向下，总之是朝着这个方向。\n\n那就要走严丝合缝的“三线合一” 了；只要出现就是最佳买点。\n\n但如果不是，比如红线一直持续震荡（如图中灰色虚线），直到12月底再形成“三线合一”......\n\n那只能说，本轮熊市太特别了，完全不同以往。\n\n加密玄学！信则有，不信则无 😀",
+      "contentHtml": "“三线合一” 其原理就只是把三轮周期的MVRV以减半为时间锚点进行对齐，3条曲线时常会发生共振。\n\n为什么会这样？其实没有什么逻辑，所以我一直视其为“玄学”指标，“刻”的就是传统4年周期的时间线。\n\n然而，小伙伴们却对此表现出极大的兴趣，因为在过去几年里，它“准”的时候要远大于“不准”的时候。\n\n还就是这么“玄乎”......\n\n就好比现在我们看到，大约2周后（8月23日）蓝线有一个非常明显的拐点，同时绿线也在下方。\n\n如果延续同频规律，那红线也得往下，无论是笔直向下还是缓慢向下，总之是朝着这个方向。\n\n那就要走严丝合缝的“三线合一” 了；只要出现就是最佳买点。\n\n但如果不是，比如红线一直持续震荡（如图中灰色虚线），直到12月底再形成“三线合一”......\n\n那只能说，本轮熊市太特别了，完全不同以往。\n\n加密玄学！信则有，不信则无 😀",
+      "publishedAt": "2026-08-12T03:30:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2087381156341952601",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPfdtnyaQAAxXuN.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "上一次夜观星象，说波动的范围大致在$70,000 - $59,000左右，如今短期内已基本算是逼近下限。\n\n如果要看的更“细”一些，那么7/23之前，或有一波弱反弹，或维持在当前价位附近震荡。\n\n也就是说，7/23之前去$50,000的概率不大。如果有反弹，mvrv的高度可能不超过1.30，对应到BTC价格大约是6.9-7w左右。\n\n如要继续深度回撤的话，最有可能出现在7/23或8/23之后，这也是符合传统4年周期的时间点。\n\n此后就可以在9-10月左右实现严丝合缝的“三线合一”。\n\n加密玄学！信则有，不信则无 😀",
+        "contentHtml": "上一次夜观星象，说波动的范围大致在$70,000 - $59,000左右，如今短期内已基本算是逼近下限。\n\n如果要看的更“细”一些，那么7/23之前，或有一波弱反弹，或维持在当前价位附近震荡。\n\n也就是说，7/23之前去$50,000的概率不大。如果有反弹，mvrv的高度可能不超过1.30，对应到BTC价格大约是6.9-7w左右。\n\n如要继续深度回撤的话，最有可能出现在7/23或8/23之后，这也是符合传统4年周期的时间点。\n\n此后就可以在9-10月左右实现严丝合缝的“三线合一”。\n\n加密玄学！信则有，不信则无 😀",
+        "link": "https://x.com/Murphychen888/status/2071098990079443424",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HL4EsthboAAL-Nj.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087371335974707394",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "又一个亿级 $BTC 空单头寸😨\n\nHL 交易员 DoshiAtoll 于今早八点开启 1,576.23 BTC 的 40x 空单，价值 1 亿美元，开仓价 $64,039，现浮盈 45.6 万美元\n\n至此 Hyperliquid BTC 前两大头寸均为空单，巨鲸都这么悲观吗\n\n传送门 👉 d.pro/portfolio/0x66f8890947…",
+      "contentHtml": "又一个亿级 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 空单头寸😨\n\nHL 交易员 DoshiAtoll 于今早八点开启 1,576.23 BTC 的 40x 空单，价值 1 亿美元，开仓价 $64,039，现浮盈 45.6 万美元\n\n至此 Hyperliquid BTC 前两大头寸均为空单，巨鲸都这么悲观吗\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0x66f889094739dbb7d20aa60f645acd88feba75a9\">d.pro/portfolio/0x66f8890947…</a>",
+      "publishedAt": "2026-08-12T02:51:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2087371335974707394",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPfVJkvaoAEYZoa.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "执着的、坚定的、高倍杠杆的，40x 看空 BTC😂\n\n曾开出 1.02 亿美元 $BTC 空单的巨鲸今早三度加仓 1010 BTC，持仓已创新高（1,792.56 BTC），价值 1.14 亿美元，开仓均价更新为 $63,999，目前浮盈 33.5 万美元\n\n仍为 Hyperliquid BTC 第一大规模头寸，传送门 👉 d.pro/portfolio/0xff84dd888d…",
+        "contentHtml": "执着的、坚定的、高倍杠杆的，40x 看空 BTC😂\n\n曾开出 1.02 亿美元 <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> 空单的巨鲸今早三度加仓 1010 BTC，持仓已创新高（1,792.56 BTC），价值 1.14 亿美元，开仓均价更新为 $63,999，目前浮盈 33.5 万美元\n\n仍为 Hyperliquid BTC 第一大规模头寸，传送门 👉 <a href=\"https://www.d.pro/portfolio/0xff84dd888de8ac2ed9a44860dc44e57025d68f1d\">d.pro/portfolio/0xff84dd888d…</a>",
+        "link": "https://x.com/ai_9684xtpa/status/2087357305629430097",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPfIXA7a8AAhHfu.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087371410549415959",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://pbs.twimg.com/profile_images/1801869779344703488/LfOPOolq_bigger.jpg",
+      "content": "CPI ,  PPI gonna be big event for rest of the month with so many macro stuff going around \n\nbut below is good framework u can take for Aug \n\n'You want that explosive easy money that we had in May-June. Unfortunately, the investor base that made that happen (Leo, 2x etf buyers, koreans) are all liquidated. The current investor base bidding memory are those who are swooping in because the stock is cheap. These buyers are patient capital. This was also why i wrote in my note on 30 Jul that \"what will ensure will be an initial V shape bounce before dribbling down and a slow grind up\". It is far more important to be able to last the journey. '",
+      "contentHtml": "CPI ,  PPI gonna be big event for rest of the month with so many macro stuff going around \n\nbut below is good framework u can take for Aug \n\n'You want that explosive easy money that we had in May-June. Unfortunately, the investor base that made that happen (Leo, 2x etf buyers, koreans) are all liquidated. The current investor base bidding memory are those who are swooping in because the stock is cheap. These buyers are patient capital. This was also why i wrote in my note on 30 Jul that \"what will ensure will be an initial V shape bounce before dribbling down and a slow grind up\". It is far more important to be able to last the journey. '",
+      "publishedAt": "2026-08-12T02:51:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2087371410549415959",
+      "quote": {
+        "username": "degentradingLSD",
+        "displayName": "degentrading",
+        "content": "Pre Market Thoughts - 11 Aug 26\n\nUS yields higher by about 3-4bps across the curve alongside the move higher in oil. We had a flurry of headlines overnight of varying importance.\n\nFirst is a rather direct admission by the US about their relative impotence in Iran, which presumably means the conflict stews for longer in a low grade conflict. Which isnt a terrible thing at the end of the day.\n\nNext is $NVDA Jenson rounding up 6 major counterparties for a 500B financing deal. This number seems oddly specific. My guess is that the recipients of these will be $SPCX and the neoclouds. What NVDA is doing here is credit transformation and making financing datacenters akin to financing real estate vs venture. GPUs as collateral are still feared because of their depreciation. Having fungibility in the asset class also makes it easier to be priced and traded; hence lowering the overall cost of credit and capital within the space.\n\nIn short, this is neocloud summer.\n\nThe market did not take it very well on the outset however,\n\nIn asia markets, $KOSPI is up about 1% (JP on holiday - Mountain day - nani??). In my note yesterday i highlighted that positioning in $0660 has lightened up. It is also insanely funny to me that my notable counter signals turned bearish on memory right at the turn....$0660 has held its levels at 1.4m KRW.\n\nOn the earnings calendar (use terminal.gambit.zone) - we have $LITE and $CRWV reporting AMC - with an implied move about 11.6% and 13.5% respectively for both. To note, $LITE has already done a -10% move pre earnings, generally this sets up for a better PA into earnings all else equal.\n\nGold, Silver, Copper are all also breaking out - in my note on 7 Aug, i noted the short positioning across the XAG complex. This still sits there and will lead to strong follow on buying as shorts capitulate. \n\nWhile talking to a few of you, i noticed that many people are saddened by the PA. You want that explosive easy money that we had in May-June. Unfortunately, the investor base that made that happen (Leo, 2x etf buyers, koreans) are all liquidated. The current investor base bidding memory are those who are swooping in because the stock is cheap. These buyers are patient capital. This was also why i wrote in my note on 30 Jul that \"what will ensure will be an initial V shape bounce before dribbling down and a slow grind up\". It is far more important to be able to last the journey.\n\nAI is a transformational technology for our societies to build out. The best and brightest are heavily invested in it. The amount of capex that society is pushing towards it marks this closer to the start than to the end. Dont fomo buy the top, dont panic sell the bottom.\n\nGood luck!",
+        "contentHtml": "Pre Market Thoughts - 11 Aug 26\n\nUS yields higher by about 3-4bps across the curve alongside the move higher in oil. We had a flurry of headlines overnight of varying importance.\n\nFirst is a rather direct admission by the US about their relative impotence in Iran, which presumably means the conflict stews for longer in a low grade conflict. Which isnt a terrible thing at the end of the day.\n\nNext is <a href=\"/search?f=tweets&q=%23NVDA\">$NVDA</a> Jenson rounding up 6 major counterparties for a 500B financing deal. This number seems oddly specific. My guess is that the recipients of these will be <a href=\"/search?f=tweets&q=%23SPCX\">$SPCX</a> and the neoclouds. What NVDA is doing here is credit transformation and making financing datacenters akin to financing real estate vs venture. GPUs as collateral are still feared because of their depreciation. Having fungibility in the asset class also makes it easier to be priced and traded; hence lowering the overall cost of credit and capital within the space.\n\nIn short, this is neocloud summer.\n\nThe market did not take it very well on the outset however,\n\nIn asia markets, <a href=\"/search?f=tweets&q=%23KOSPI\">$KOSPI</a> is up about 1% (JP on holiday - Mountain day - nani??). In my note yesterday i highlighted that positioning in $0660 has lightened up. It is also insanely funny to me that my notable counter signals turned bearish on memory right at the turn....$0660 has held its levels at 1.4m KRW.\n\nOn the earnings calendar (use <a href=\"http://terminal.gambit.zone\">terminal.gambit.zone</a>) - we have <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a> and <a href=\"/search?f=tweets&q=%23CRWV\">$CRWV</a> reporting AMC - with an implied move about 11.6% and 13.5% respectively for both. To note, <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a> has already done a -10% move pre earnings, generally this sets up for a better PA into earnings all else equal.\n\nGold, Silver, Copper are all also breaking out - in my note on 7 Aug, i noted the short positioning across the XAG complex. This still sits there and will lead to strong follow on buying as shorts capitulate. \n\nWhile talking to a few of you, i noticed that many people are saddened by the PA. You want that explosive easy money that we had in May-June. Unfortunately, the investor base that made that happen (Leo, 2x etf buyers, koreans) are all liquidated. The current investor base bidding memory are those who are swooping in because the stock is cheap. These buyers are patient capital. This was also why i wrote in my note on 30 Jul that \"what will ensure will be an initial V shape bounce before dribbling down and a slow grind up\". It is far more important to be able to last the journey.\n\nAI is a transformational technology for our societies to build out. The best and brightest are heavily invested in it. The amount of capex that society is pushing towards it marks this closer to the start than to the end. Dont fomo buy the top, dont panic sell the bottom.\n\nGood luck!",
+        "link": "https://x.com/degentradingLSD/status/2087032651320299927"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087364765928833338",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "币安广场的更新功能很不错啊，最爱的两个 @yingbinance @heyibinance\n\n1️⃣ 合约平仓时可一键分享到广场\n\n自带盈亏情况 / 买入价格 / 成交价格以及交易点位折线图，很适合分（zhuang）享（bi）的功能了，对交易员而言会方便不少\n\n2️⃣ 美股板块终于打通广场了\n\n上个月还和团队反馈了这点，作为新晋增长极，交易美股的用户也得有地方扎堆讨论才对；现在美股行情页点「参与讨论」就自带 Ticker 可以发帖了，这效率\n\n最后，欢迎大家关注我，在广场还只是个小透明 👉 binance.com/zh-CN/square/pro…",
+      "contentHtml": "币安广场的更新功能很不错啊，最爱的两个 <a href=\"/yingbinance\" title=\"ying滢哥捡到一个BNB🌖\">@yingbinance</a> <a href=\"/heyibinance\" title=\"Yi He\">@heyibinance</a>\n\n1️⃣ 合约平仓时可一键分享到广场\n\n自带盈亏情况 / 买入价格 / 成交价格以及交易点位折线图，很适合分（zhuang）享（bi）的功能了，对交易员而言会方便不少\n\n2️⃣ 美股板块终于打通广场了\n\n上个月还和团队反馈了这点，作为新晋增长极，交易美股的用户也得有地方扎堆讨论才对；现在美股行情页点「参与讨论」就自带 Ticker 可以发帖了，这效率\n\n最后，欢迎大家关注我，在广场还只是个小透明 👉 <a href=\"https://www.binance.com/zh-CN/square/profile/aiaptx\">binance.com/zh-CN/square/pro…</a>",
+      "publishedAt": "2026-08-12T02:25:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2087364765928833338",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPfPJrAbYAAQ9QI.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087364338894151760",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
+      "content": "很多过往完美触发的BTC熊底指标的内核：币价跌得足够多足够狠，狠到长期持币者（LTH）大规模投降割肉完成最后一跌\n\n但是，如果某一轮熊市，币价始终跌不破LTH成本线，始终未发生LTH大规模投降事件，那么，在相关指标都不触发的情况下走完熊市也是可能的\n\nQ: 你认为这个“某一轮熊市”会是本轮熊市吗？🤭",
+      "contentHtml": "很多过往完美触发的BTC熊底指标的内核：币价跌得足够多足够狠，狠到长期持币者（LTH）大规模投降割肉完成最后一跌\n\n但是，如果某一轮熊市，币价始终跌不破LTH成本线，始终未发生LTH大规模投降事件，那么，在相关指标都不触发的情况下走完熊市也是可能的\n\nQ: 你认为这个“某一轮熊市”会是本轮熊市吗？🤭",
+      "publishedAt": "2026-08-12T02:23:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2087364338894151760",
+      "quote": {
+        "username": "CryptoEason1319",
+        "displayName": "Crypto Eason 📈",
+        "content": "熊貓哥怎麼看目前有許多過去會觸發的鏈上數據信號還沒觸發？例如 Price < RP、NUPL <0 等等。",
+        "contentHtml": "熊貓哥怎麼看目前有許多過去會觸發的鏈上數據信號還沒觸發？例如 Price &lt; RP、NUPL &lt;0 等等。",
+        "link": "https://x.com/CryptoEason1319/status/2087361478462783776"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2087358675359011206",
       "username": "0xCryptoChan",
@@ -846,6 +1077,25 @@
             "url": "https://pbs.twimg.com/media/HPcVIuxbAAAhAkX.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087172411846222075",
+      "username": "RockChartrand",
+      "displayName": "Rock Chartrand",
+      "avatar": "https://pbs.twimg.com/profile_images/2065508881518768128/yOHIEm3d_bigger.jpg",
+      "content": "Why can’t communists be communist the way the Amish are Amish, as in, peacefully, voluntarily, among themselves, without taking anyone else’s property or forcing anyone else to participate? \n\nIf communism is really about cooperation and community, why does everyone else have to be forced into it?",
+      "contentHtml": "Why can’t communists be communist the way the Amish are Amish, as in, peacefully, voluntarily, among themselves, without taking anyone else’s property or forcing anyone else to participate? \n\nIf communism is really about cooperation and community, why does everyone else have to be forced into it?",
+      "publishedAt": "2026-08-11T13:40:00.000Z",
+      "link": "https://x.com/RockChartrand/status/2087172411846222075",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -12017,251 +12267,6 @@
       "contentHtml": "我们得知道一周前大科技在什么样的位置，GOOG发完财报增加资本开支，直接下跌，YTD MAG7跌5%，标普涨8%。无论是仓位，还是情绪面，都不在大科技上面，所以才会有了微软财报后这种过去10几年的单日最大涨幅，过去20年里，上一次比这涨幅还大，是2008年10月13日。\n然后亚马逊的财报，AWS，全世界最大的云，增速37%，远高于预期的31%，下季度应该还会加速，AZURE这季度41%，下季度45%，这是典型的财报INFLECTION POINT（ROI的转折点），这种情况下，市场会线性外推，营收增速加速，利润率还扩张，EPS的增速会非常快：盈利增速45%，加上利润率扩张，云EPS增速起码55 - 60%，如果明年的资本开支增速放缓到50%左右，那就是回报开始追赶投资了。另外宏观环境是模型API变得越来越便宜，帮助AI落地，在这样的SET UP情况下，财报后的大涨非常合理，但一周25%+的涨幅绝对不是卖出的理由，接下去都可能看到大科技，软件对于硬件的吸血。投资组合能跑出来一定要让赢家持续跑，不要过早减仓。",
       "publishedAt": "2026-08-04T02:14:00.000Z",
       "link": "https://x.com/TJ_Research/status/2084462964296327458",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084462601883500935",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "我郑重承诺，我不会有一分钱留给政府。",
-      "contentHtml": "我郑重承诺，我不会有一分钱留给政府。",
-      "publishedAt": "2026-08-04T02:13:00.000Z",
-      "link": "https://x.com/taresky/status/2084462601883500935",
-      "quote": {
-        "username": "LaiskyCai",
-        "displayName": "Laisky🍁",
-        "content": "发达国家都这样，不事先做遗产规划的话基本就等于送给政府",
-        "contentHtml": "发达国家都这样，不事先做遗产规划的话基本就等于送给政府",
-        "link": "https://x.com/LaiskyCai/status/2084055789061255236"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084461524756971682",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "15 分钟一轮牛熊",
-      "contentHtml": "15 分钟一轮牛熊",
-      "publishedAt": "2026-08-04T02:08:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2084461524756971682",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO1-swsbAAEXVpv.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO1-swoboAABH69.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084451756264542286",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "根据最新的8-K文件显示，就在上周微策略又双叒卖出1,638枚BTC，均价63,957美元，套现1.05亿美元。\n\n卖价明显低于公司75,419美元的平均持仓成本，属于亏损减持。卖币所得其中5,240万美元用于支付优先股股息，5,230万美元用于回购STRC。\n\n我在7月7日的推文中，曾经猜测微策略可能是想做“流动性管理”的策略转变。其套利空间就在它自己的资本结构里。\n\n比如，年息12%的STRC的市价严重偏离面值（100）时，卖BTC，再买回这种票据的确定性收益，远高于持有边际上的BTC。\n\n现在，微策略正在用实际行动证实这种猜测。\n\n而就在几天前的财报电话会议上，公司竟然表示在当前资本管理计划下，最多可能出售约50亿美元的BTC。这比6月29日宣布的董事会授权计划中提到的12.5亿美元要高出4倍。\n\n不知是有意还是无意，Michael Saylor在昨天的推文表述中，完全不提“卖BTC”这回事。只强调增加了美元储备和回购了STRC。\n\n也许他的内心是矛盾和复杂的。毕竟曾经信誓旦旦“永不卖币”的承诺，他应该没有忘记，现在只想装个糊涂？",
-      "contentHtml": "根据最新的8-K文件显示，就在上周微策略又双叒卖出1,638枚BTC，均价63,957美元，套现1.05亿美元。\n\n卖价明显低于公司75,419美元的平均持仓成本，属于亏损减持。卖币所得其中5,240万美元用于支付优先股股息，5,230万美元用于回购STRC。\n\n我在7月7日的推文中，曾经猜测微策略可能是想做“流动性管理”的策略转变。其套利空间就在它自己的资本结构里。\n\n比如，年息12%的STRC的市价严重偏离面值（100）时，卖BTC，再买回这种票据的确定性收益，远高于持有边际上的BTC。\n\n现在，微策略正在用实际行动证实这种猜测。\n\n而就在几天前的财报电话会议上，公司竟然表示在当前资本管理计划下，最多可能出售约50亿美元的BTC。这比6月29日宣布的董事会授权计划中提到的12.5亿美元要高出4倍。\n\n不知是有意还是无意，Michael Saylor在昨天的推文表述中，完全不提“卖BTC”这回事。只强调增加了美元储备和回购了STRC。\n\n也许他的内心是矛盾和复杂的。毕竟曾经信誓旦旦“永不卖币”的承诺，他应该没有忘记，现在只想装个糊涂？",
-      "publishedAt": "2026-08-04T01:30:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2084451756264542286",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HOzpdyybAAAjnGq.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "微策略完成了有史以来第一次真正意义上的“大额卖币”，彻底击碎了曾经那个\"永不卖币\"的市场心理锚点。在现金储备充足且远超付息需求（可覆盖17个月）的情况下，主动打破核心叙事，这是出于怎样的考虑？\n\n江卓尔老师认为Strategy或已准备将部分BTC储备用于主动波段操作，我个人觉得不太像。理由有以下3点：\n\n1⃣ 这次卖出的时点是6月底7月初的季度付息窗口所决定的执行，是日历驱动的行为，几乎没有价格择时的痕迹。\n\n2⃣ 一个想做波段的团队不会选择在弱势中被动出货（以$60,196卖出成本为$75,700的BTC），而会在反弹中主动减仓。\n\n3⃣ Strategy的估值前提是杠杆化BTC代理，一旦市场把它定性为是一家会择时交易的基金，那溢价基础就消失了，这个代价远大于波段交易能赚的钱，得不偿失。\n\n所以，我猜测其目的还是更偏向流动性管理。这里真正的套利空间在它自己的资本结构里：STRC曾跌到75美元，面值100，年息11%，卖BTC买回这种票据的确定性收益远高于持有边际上的BTC。\n\n换言之，卖BTC并非财务困境，而是想让市场适应以及测试流程的一部分。这个流程就是：花现金买回折价债/优先股→储备见底→重建储备→卖币付息让储备不再消耗。\n\n上一次公告批准的卖币额度是12.5亿美元，这次卖的3,588枚用掉2.16亿，额度还剩约10.3亿美元。所以，后面我们大概率还会看到“卖币，回购，再卖币”的重复。\n\n然而，我们不妨换一个角度思考，其实这类事件反而有另一面含义。\n\n当最大的BTC持有者，同时也是LTH，以低于成本价被迫变现，在性质上接近机构层面的“投降行为”。而历史上但凡是标志性实体的被动抛售，往往都聚集在底部区域。\n\n这一点我们从消息公布后BTC价格表现就能看出端倪。市场已经开始慢慢学着适应。",
-        "contentHtml": "微策略完成了有史以来第一次真正意义上的“大额卖币”，彻底击碎了曾经那个\"永不卖币\"的市场心理锚点。在现金储备充足且远超付息需求（可覆盖17个月）的情况下，主动打破核心叙事，这是出于怎样的考虑？\n\n江卓尔老师认为Strategy或已准备将部分BTC储备用于主动波段操作，我个人觉得不太像。理由有以下3点：\n\n1⃣ 这次卖出的时点是6月底7月初的季度付息窗口所决定的执行，是日历驱动的行为，几乎没有价格择时的痕迹。\n\n2⃣ 一个想做波段的团队不会选择在弱势中被动出货（以$60,196卖出成本为$75,700的BTC），而会在反弹中主动减仓。\n\n3⃣ Strategy的估值前提是杠杆化BTC代理，一旦市场把它定性为是一家会择时交易的基金，那溢价基础就消失了，这个代价远大于波段交易能赚的钱，得不偿失。\n\n所以，我猜测其目的还是更偏向流动性管理。这里真正的套利空间在它自己的资本结构里：STRC曾跌到75美元，面值100，年息11%，卖BTC买回这种票据的确定性收益远高于持有边际上的BTC。\n\n换言之，卖BTC并非财务困境，而是想让市场适应以及测试流程的一部分。这个流程就是：花现金买回折价债/优先股→储备见底→重建储备→卖币付息让储备不再消耗。\n\n上一次公告批准的卖币额度是12.5亿美元，这次卖的3,588枚用掉2.16亿，额度还剩约10.3亿美元。所以，后面我们大概率还会看到“卖币，回购，再卖币”的重复。\n\n然而，我们不妨换一个角度思考，其实这类事件反而有另一面含义。\n\n当最大的BTC持有者，同时也是LTH，以低于成本价被迫变现，在性质上接近机构层面的“投降行为”。而历史上但凡是标志性实体的被动抛售，往往都聚集在底部区域。\n\n这一点我们从消息公布后BTC价格表现就能看出端倪。市场已经开始慢慢学着适应。",
-        "link": "https://x.com/Murphychen888/status/2074310841391013983",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HMluITtaQAAvU_R.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084449500744319334",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "聊聊看好光互连的逻辑，7月中旬和下旬分别聊到之后看好美股的板块，已经爆发的是（CSP、软件、光互连），CSP/软件看好逻辑在7月中长文nitter.net/qinbafrank/status/2076…聊的很充分。今天聊聊为什么看好光互连？催化剂是什么？\n\n再回头看，光互连板块是这一波半导体调整最早调整时间最久的板块，个人角度5月中nitter.net/qinbafrank/status/2060…伯恩斯坦的报告说CPO兑现没那么快，今年还是看光模块、连接。在那之后，光的板块都开始调整，美股只有连接还不错。\n\n而近期催化剂个人看是两点：\n1）“英伟达高级副总裁 Gilad Shainer在最近的一个技术论坛上宣布，CPO 已开始量产。Nvidia 与其供应链合作开发的交换机已交付给紧密客户，并正在 Nvidia自身的设施中部署。预计今年将有大量采用 CPO 技术的交换机引入全球的 AI 工厂；\n2）Lumentum首席执行官Michael Hurlston表示，AI的磷化铟激光器短缺将比内存危机更严重。\n\n怎么看这个逻辑：\n1）cpo开始交付那意味着市场应该会去预期随着量产交付，cpo应该会慢慢起量，业务兑现开始落地；\n2）磷化烟短缺、市场对于短缺还是有肌肉记忆的；\n3）光调整的早调整的时间够久，半导体都集中在存储，最近这段时间对于光互连大家其实聊的很少，那就意味着有预期差；\n4）超大CSP的财报初步证明了资本开支ROIC，数据中心的建设会很快。万卡集群互连、大规模数据中心互连需求其实在进一步爆发。\n\n总结就是\nAI数据中心光互连需求真实且加速，全产业链已从“需求验证”进入“供应瓶颈”阶段；NVIDIA CPO正式量产是历史性信号，短期（至少至2027年）与可插拔光模块共存，最终瓶颈锁定在磷化铟（InP）激光芯片产能。\n\n技术路线时间表\n1）Scale-up（机架内）：铜缆/可插拔为主。\n2）Scale-out（跨机架/跨数据中心）：CPO率先渗透（功耗从30W→9W/端口，带宽大幅提升）。\n3）共存窗口：可插拔主导未来18-24个月；CPO与可插拔非零和，至少到2027年。\n\n“需求已被全链条验证，瓶颈在InP激光；谁能自产/扩产最快、供应链最安全，谁就吃到最大弹性。”\n\n未来两周是光互连领域公司密集财报，如果财报进一步被验证，可能会是一个催化剂窗口。\n\n$MRVL $LITE $COHR $AXTI $AAOI $GFS $LAZR $FOTO $NOK\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "聊聊看好光互连的逻辑，7月中旬和下旬分别聊到之后看好美股的板块，已经爆发的是（CSP、软件、光互连），CSP/软件看好逻辑在7月中长文<a href=\"https://nitter.net/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2076…</a>聊的很充分。今天聊聊为什么看好光互连？催化剂是什么？\n\n再回头看，光互连板块是这一波半导体调整最早调整时间最久的板块，个人角度5月中<a href=\"https://nitter.net/qinbafrank/status/2060560681984991697?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2060…</a>伯恩斯坦的报告说CPO兑现没那么快，今年还是看光模块、连接。在那之后，光的板块都开始调整，美股只有连接还不错。\n\n而近期催化剂个人看是两点：\n1）“英伟达高级副总裁 Gilad Shainer在最近的一个技术论坛上宣布，CPO 已开始量产。Nvidia 与其供应链合作开发的交换机已交付给紧密客户，并正在 Nvidia自身的设施中部署。预计今年将有大量采用 CPO 技术的交换机引入全球的 AI 工厂；\n2）Lumentum首席执行官Michael Hurlston表示，AI的磷化铟激光器短缺将比内存危机更严重。\n\n怎么看这个逻辑：\n1）cpo开始交付那意味着市场应该会去预期随着量产交付，cpo应该会慢慢起量，业务兑现开始落地；\n2）磷化烟短缺、市场对于短缺还是有肌肉记忆的；\n3）光调整的早调整的时间够久，半导体都集中在存储，最近这段时间对于光互连大家其实聊的很少，那就意味着有预期差；\n4）超大CSP的财报初步证明了资本开支ROIC，数据中心的建设会很快。万卡集群互连、大规模数据中心互连需求其实在进一步爆发。\n\n总结就是\nAI数据中心光互连需求真实且加速，全产业链已从“需求验证”进入“供应瓶颈”阶段；NVIDIA CPO正式量产是历史性信号，短期（至少至2027年）与可插拔光模块共存，最终瓶颈锁定在磷化铟（InP）激光芯片产能。\n\n技术路线时间表\n1）Scale-up（机架内）：铜缆/可插拔为主。\n2）Scale-out（跨机架/跨数据中心）：CPO率先渗透（功耗从30W→9W/端口，带宽大幅提升）。\n3）共存窗口：可插拔主导未来18-24个月；CPO与可插拔非零和，至少到2027年。\n\n“需求已被全链条验证，瓶颈在InP激光；谁能自产/扩产最快、供应链最安全，谁就吃到最大弹性。”\n\n未来两周是光互连领域公司密集财报，如果财报进一步被验证，可能会是一个催化剂窗口。\n\n<a href=\"/search?f=tweets&q=%23MRVL\">$MRVL</a> <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a> <a href=\"/search?f=tweets&q=%23COHR\">$COHR</a> <a href=\"/search?f=tweets&q=%23AXTI\">$AXTI</a> <a href=\"/search?f=tweets&q=%23AAOI\">$AAOI</a> <a href=\"/search?f=tweets&q=%23GFS\">$GFS</a> <a href=\"/search?f=tweets&q=%23LAZR\">$LAZR</a> <a href=\"/search?f=tweets&q=%23FOTO\">$FOTO</a> <a href=\"/search?f=tweets&q=%23NOK\">$NOK</a>\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-08-04T01:21:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2084449500744319334",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO1zxNTa8AEBx5-.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO1zxNebYAAUF70.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO1zxNdbUAAhGWX.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "八月才是最好的夏天？现在回头再来看29号聊到那时已经不宜过分悲观，如果越跌反倒越要看机会。当时聊到：\n带动市场回暖的因素是联储不加息；\n而驱动市场下一波行情主要催化剂CSP毛利大爆发，回本周期缩短。这一点基本上也被这两天微软和亚马逊的财报验证了。\n现在看昨天走强最直接的驱动因素就是上面说的这两点。\n\n1、关于高性价比区间\n28号这里就聊nitter.net/qinbafrank/status/2081…到很多标的又进入了高性价比区间、可以逐步买入。如果大家有印象上一次我说到市场进入高性价比区间是今年4月初这里nitter.net/qinbafrank/status/2041…。\n能看出当我说“高性价比区间”时候的含金量。\n\n2、接下来是怎么看？\n1）去杠杆大概率是差不多了\n美股以Leopold的对冲基金被清算为标志、算是一个最重要的边际卖家被解决；\n韩股则是前两天摩根大通估计韩国资产相关杠杆ETF的去杠杆基本完成：\n相关AUM从6月底约500亿美元下降至约170亿美元；对冲基金去杠杆约完成90%；\nJ.P. Morgan Prime Brokerage口径的多空杠杆比率，从最高约5.7倍下降至7月27日的3.2倍，接近2025年正常区间上沿。\n\n2）而产业最重要的进展\n首先毫无疑问是微软和亚马逊的财报，这两天有写过多篇推文。核心就是这两家云业务增长在加速、订单质量在提高、已经给市场提供了投入产出回报的证明。\n微软对整个AI平台组合如何提高ROIC解释得更完整；亚马逊对单批资本投入的回本周期解释得更清楚。其实谷歌财报也证明了云业务在超预期增长。\n这个最为关键\n\n其次 昨天openai给出了7月ARR加速增长、也是进一步AI商业化在加速的证明。\n\n总结下来就是去杠杆差不多了，最最关键继一季度财报后市场又再次看到AI商业化加速、投入回报节奏越来越越清晰的证据。\n\n个人看好八月份的行情的、昨晚不仅仅是个反弹、向上走势持续性至少周级别的行情。\n\n3、美股看好哪些？\n1）7月24日这里nitter.net/qinbafrank/status/2080… 最后部分也聊到AI算力产业链上认为仍然还有空间。科技资本开支，晶圆厂资本开支，越往上游还是会越受益。订单的确定性没问题，而且兑现速度会更快：\n第一、存储还有不小的空间，但也得承认过去一年涨幅最暴力的阶段也过去了；\n第二、光互联看兑现的节奏，如果落地兑现节奏快，空间也很好；\n第三、设备、材料、封装测试等环节是可以，大厂和晶圆厂的钱都要流到更上的环节流。\n\n2）超大csp价值重塑、软件重估\n这一部分的逻辑在月中这篇长文nitter.net/qinbafrank/status/2076…里有详细聊到。\n超大CSP会是横向AI底座；\n软件或者saas（非通用）成为业务执行层。\n\n4、未来宏观潜在的风险是什么？\n1）首先是油价\n油价又直接受到美伊冲突走势的影响，前两天这里nitter.net/qinbafrank/status/2082…聊到川普最终可能是不得不接受伊朗对霍尔木兹海峡的控制权，但是时间节奏和路径还不清晰。至少现在还不明朗\n\n博弈的时间长了，市场还会担心通胀问题。特别是8月中旬的7月cpi。\n\n如果未来美伊能尽快重回停火，海峡开通，则对宏观又是一个提振。\n\n2）中期选举的选情会给市场带来影响\n如果选情并不明朗、政治的不确定性会导致部分资金先行避险。\n\n一般来说中期选举可能在9月前后开始影响到市场预期和情绪了。",
-        "contentHtml": "八月才是最好的夏天？现在回头再来看29号聊到那时已经不宜过分悲观，如果越跌反倒越要看机会。当时聊到：\n带动市场回暖的因素是联储不加息；\n而驱动市场下一波行情主要催化剂CSP毛利大爆发，回本周期缩短。这一点基本上也被这两天微软和亚马逊的财报验证了。\n现在看昨天走强最直接的驱动因素就是上面说的这两点。\n\n1、关于高性价比区间\n28号这里就聊<a href=\"https://nitter.net/qinbafrank/status/2081932910735810691?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2081…</a>到很多标的又进入了高性价比区间、可以逐步买入。如果大家有印象上一次我说到市场进入高性价比区间是今年4月初这里<a href=\"https://nitter.net/qinbafrank/status/2041776052167483750?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2041…</a>。\n能看出当我说“高性价比区间”时候的含金量。\n\n2、接下来是怎么看？\n1）去杠杆大概率是差不多了\n美股以Leopold的对冲基金被清算为标志、算是一个最重要的边际卖家被解决；\n韩股则是前两天摩根大通估计韩国资产相关杠杆ETF的去杠杆基本完成：\n相关AUM从6月底约500亿美元下降至约170亿美元；对冲基金去杠杆约完成90%；\nJ.P. Morgan Prime Brokerage口径的多空杠杆比率，从最高约5.7倍下降至7月27日的3.2倍，接近2025年正常区间上沿。\n\n2）而产业最重要的进展\n首先毫无疑问是微软和亚马逊的财报，这两天有写过多篇推文。核心就是这两家云业务增长在加速、订单质量在提高、已经给市场提供了投入产出回报的证明。\n微软对整个AI平台组合如何提高ROIC解释得更完整；亚马逊对单批资本投入的回本周期解释得更清楚。其实谷歌财报也证明了云业务在超预期增长。\n这个最为关键\n\n其次 昨天openai给出了7月ARR加速增长、也是进一步AI商业化在加速的证明。\n\n总结下来就是去杠杆差不多了，最最关键继一季度财报后市场又再次看到AI商业化加速、投入回报节奏越来越越清晰的证据。\n\n个人看好八月份的行情的、昨晚不仅仅是个反弹、向上走势持续性至少周级别的行情。\n\n3、美股看好哪些？\n1）7月24日这里<a href=\"https://nitter.net/qinbafrank/status/2080540272245502111?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2080…</a> 最后部分也聊到AI算力产业链上认为仍然还有空间。科技资本开支，晶圆厂资本开支，越往上游还是会越受益。订单的确定性没问题，而且兑现速度会更快：\n第一、存储还有不小的空间，但也得承认过去一年涨幅最暴力的阶段也过去了；\n第二、光互联看兑现的节奏，如果落地兑现节奏快，空间也很好；\n第三、设备、材料、封装测试等环节是可以，大厂和晶圆厂的钱都要流到更上的环节流。\n\n2）超大csp价值重塑、软件重估\n这一部分的逻辑在月中这篇长文<a href=\"https://nitter.net/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2076…</a>里有详细聊到。\n超大CSP会是横向AI底座；\n软件或者saas（非通用）成为业务执行层。\n\n4、未来宏观潜在的风险是什么？\n1）首先是油价\n油价又直接受到美伊冲突走势的影响，前两天这里<a href=\"https://nitter.net/qinbafrank/status/2082316157416321504?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2082…</a>聊到川普最终可能是不得不接受伊朗对霍尔木兹海峡的控制权，但是时间节奏和路径还不清晰。至少现在还不明朗\n\n博弈的时间长了，市场还会担心通胀问题。特别是8月中旬的7月cpi。\n\n如果未来美伊能尽快重回停火，海峡开通，则对宏观又是一个提振。\n\n2）中期选举的选情会给市场带来影响\n如果选情并不明朗、政治的不确定性会导致部分资金先行避险。\n\n一般来说中期选举可能在9月前后开始影响到市场预期和情绪了。",
-        "link": "https://x.com/qinbafrank/status/2083185986616357116"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084449286927049028",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
-      "content": "「鐵底神話」CVDD 最新數據更新🛡\n\n自上次和各位分享 CVDD 的數據後（nitter.net/market_beggar/status/2…），\n雖說我本人並不完全贊同 CVDD 背後的算法（詳見上面連結），\n但它神奇的戰績仍使不少朋友來私信詢問 CVDD 的最新數據。\n\n因此，應觀眾要求：\n今天我就在來和各位快速報告一次 CVDD 目前的最新數據👇：\n\n//\n\n附圖的指標是 CVDD，由 Willy Woo 提出；\n和 Cointime Price 相同，都出自 Cointime Economics 體系，\n有興趣詳細了解的朋友，可以參考本文前段附上的鏈接🔗\n\n📊 目前的 CVDD = 46,850\n\n距離上次更新（7/15）至今，CVDD 一共上升了約 600 點，\n在「CVDD 永不跌破」這項假設成立的前提之下，\n哪怕上升任何一絲，都是值得 BTC 多軍開心的喜訊。\n\n當然，在此仍要和各位強調⚠️：\n雖然 CVDD 的戰績看似逆天，但其算法存在刻舟的嫌疑，\n加上我們在判斷週期底部的時候，不可能僅依賴單一指標，\n所以還請各位理智分析，至少心中不該存有「一廂情願」的劇本，\n而是該設想多種可能發生的情境，並分別為其制定不同的入場策略。\n\n📖 再談 2021 年雙頂：刻舟必死，什麼是「未來數據洩漏」？\nnitter.net/market_beggar/status/1…\n\n例如我先前和各位詳細分享的「3 種 BTC 底部結構路徑推演」，\n在評估深熊的最後一道防線時，老朋友都知道我更愛看 Cointime Price，\n除了背後的算法、邏輯更嚴謹以外，相較於 CVDD，Cointime Price 的底部訊號觸發標準是「跌破」，\n相比之下更容易判斷；而 CVDD 是「很接近但不跌破」，\n這種標準反而會提升我們進場時的判斷難度。\n\n📖 BTC「三種週期性底部結構」路徑推演\nnitter.net/market_beggar/status/2…\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n兩道「深熊抄底市場成本線」最新數據更新\nnitter.net/market_beggar/status/2…\n\n「持續蓄勢的橫向結構」：Liq 引力持續作用中\nnitter.net/market_beggar/status/2…\n\n「底部必出的現象」：巨量換手形成的堅實底部基礎\nnitter.net/market_beggar/status/2…",
-      "contentHtml": "「鐵底神話」CVDD 最新數據更新🛡\n\n自上次和各位分享 CVDD 的數據後（<a href=\"https://nitter.net/market_beggar/status/2077207779706802343\">nitter.net/market_beggar/status/2…</a>），\n雖說我本人並不完全贊同 CVDD 背後的算法（詳見上面連結），\n但它神奇的戰績仍使不少朋友來私信詢問 CVDD 的最新數據。\n\n因此，應觀眾要求：\n今天我就在來和各位快速報告一次 CVDD 目前的最新數據👇：\n\n//\n\n附圖的指標是 CVDD，由 Willy Woo 提出；\n和 Cointime Price 相同，都出自 Cointime Economics 體系，\n有興趣詳細了解的朋友，可以參考本文前段附上的鏈接🔗\n\n📊 目前的 CVDD = 46,850\n\n距離上次更新（7/15）至今，CVDD 一共上升了約 600 點，\n在「CVDD 永不跌破」這項假設成立的前提之下，\n哪怕上升任何一絲，都是值得 BTC 多軍開心的喜訊。\n\n當然，在此仍要和各位強調⚠️：\n雖然 CVDD 的戰績看似逆天，但其算法存在刻舟的嫌疑，\n加上我們在判斷週期底部的時候，不可能僅依賴單一指標，\n所以還請各位理智分析，至少心中不該存有「一廂情願」的劇本，\n而是該設想多種可能發生的情境，並分別為其制定不同的入場策略。\n\n📖 再談 2021 年雙頂：刻舟必死，什麼是「未來數據洩漏」？\n<a href=\"https://nitter.net/market_beggar/status/1891335031177851380\">nitter.net/market_beggar/status/1…</a>\n\n例如我先前和各位詳細分享的「3 種 BTC 底部結構路徑推演」，\n在評估深熊的最後一道防線時，老朋友都知道我更愛看 Cointime Price，\n除了背後的算法、邏輯更嚴謹以外，相較於 CVDD，Cointime Price 的底部訊號觸發標準是「跌破」，\n相比之下更容易判斷；而 CVDD 是「很接近但不跌破」，\n這種標準反而會提升我們進場時的判斷難度。\n\n📖 BTC「三種週期性底部結構」路徑推演\n<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n兩道「深熊抄底市場成本線」最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2079745937350779015\">nitter.net/market_beggar/status/2…</a>\n\n「持續蓄勢的橫向結構」：Liq 引力持續作用中\n<a href=\"https://nitter.net/market_beggar/status/2084085146085666979\">nitter.net/market_beggar/status/2…</a>\n\n「底部必出的現象」：巨量換手形成的堅實底部基礎\n<a href=\"https://nitter.net/market_beggar/status/2083006515175387476\">nitter.net/market_beggar/status/2…</a>",
-      "publishedAt": "2026-08-04T01:20:00.000Z",
-      "link": "https://x.com/market_beggar/status/2084449286927049028",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO1zksWbQAAhOCw.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "偏離度調整 STH-RP 模型更新：降速放緩，底部區間逐漸清晰🌥\n\n承接下方引文，時隔兩週，今天再來聊聊此模型的最新數據。\n\n在上篇分析中，我提出了另一種潛在的「築底可能性」，\n也就是「綠線逐步下移，取代藍線和其他深熊模型抄底區形成共振」。\n\n如今，在過去的兩週內，又出現了一些值得注意的跡象：\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，概念重溫如下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 藍線支撐的築底時間詳細覆盤：\nnitter.net/market_beggar/status/2…\n📖 藍線支撐的所有歷史案例分析：\nnitter.net/market_beggar/status/2…\n\n//\n\n如附圖所示，目前的模型最新數據如下：\n🟩 綠線：57,317（相比上次更新，降低了 638 點）\n🟦 藍線：50,497（相比上次更新，降低了 550 點）\n\n就目前的模型數據而言，我先前在下方引文中提到的劇本依然適用，\n也就是「綠線的位置和『路徑 2』恰好互相配合、形成共振」，\n有興趣詳細了解這套築底劇本的朋友，可以參考下方引文和以下鏈接👇：\n📖 BTC「三種週期性底部結構」路徑推演\nnitter.net/market_beggar/status/2…\n\n除此之外，在過去兩週的時間內，其實有一項值得注意的小細節：\n隨著 BTC 近期進入「震盪緩步上漲」的階段，\n藍線、綠線的下降速度出現了放緩，自 07/13 至今，\n藍線、綠線的數值幾乎完全沒有變化（呈現平坦化）。\n\n藍線、綠線如果不再下降，甚至開始出現拐頭向上的跡象，\n或許就說明熊市的尾聲已悄然接近；\n並且，倘若未來 BTC 出現一次大級別的迅速向下插針並踩到綠線，\n就很可能在不大幅影響模型數值的情況下，完成一次最終的築底。\n\n最後，結合我最近兩個月所有分析帖的評估，我的判斷依然不變：\n我們正處在一個非常接近 BTC 週期性底部的時間節點🌱\n\n保持耐心、靜待花開。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「廝殺的白熱化」：疊合 STH-RP 的關鍵 Liquidity 區域\nnitter.net/market_beggar/status/2…\n\n兩道「深熊抄底市場成本線」最新數據更新\nnitter.net/market_beggar/status/2…\n\n「BTC 吸籌趨勢評分」更新：持續監測派發風險\nnitter.net/market_beggar/status/2…",
-        "contentHtml": "偏離度調整 STH-RP 模型更新：降速放緩，底部區間逐漸清晰🌥\n\n承接下方引文，時隔兩週，今天再來聊聊此模型的最新數據。\n\n在上篇分析中，我提出了另一種潛在的「築底可能性」，\n也就是「綠線逐步下移，取代藍線和其他深熊模型抄底區形成共振」。\n\n如今，在過去的兩週內，又出現了一些值得注意的跡象：\n\n//\n\n附圖的指標是「偏離度調整的 STH-RP」，概念重溫如下：\n➡️ 計算 STH-MVRV 自 2018 年以來的平均數、標準差\n➡️ 分別以 STH-RP 乘上「STH-MVRV 的平均數 ± n 個標準差」\n➡️ 之所以取 2018 年以後的數據做為計算基準，\n原因在於 2018 年以後的 STH-MVRV 存在較為明顯的均值回歸特性。\n\n🟥 紅線 = STH-RP 乘上「STH-MVRV 的平均數 + 1 個標準差」\n🟨 黃線 = STH-RP\n🟩 綠線 = STH-RP 乘上「STH-MVRV 的平均數 - 1 個標準差」\n🟦 藍線 = STH-RP 乘上「STH-MVRV 的平均數 - 1.5 個標準差」\n\n📖 藍線支撐的築底時間詳細覆盤：\n<a href=\"https://nitter.net/market_beggar/status/2026474493749989766\">nitter.net/market_beggar/status/2…</a>\n📖 藍線支撐的所有歷史案例分析：\n<a href=\"https://nitter.net/market_beggar/status/2018501752103047340\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n如附圖所示，目前的模型最新數據如下：\n🟩 綠線：57,317（相比上次更新，降低了 638 點）\n🟦 藍線：50,497（相比上次更新，降低了 550 點）\n\n就目前的模型數據而言，我先前在下方引文中提到的劇本依然適用，\n也就是「綠線的位置和『路徑 2』恰好互相配合、形成共振」，\n有興趣詳細了解這套築底劇本的朋友，可以參考下方引文和以下鏈接👇：\n📖 BTC「三種週期性底部結構」路徑推演\n<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>\n\n除此之外，在過去兩週的時間內，其實有一項值得注意的小細節：\n隨著 BTC 近期進入「震盪緩步上漲」的階段，\n藍線、綠線的下降速度出現了放緩，自 07/13 至今，\n藍線、綠線的數值幾乎完全沒有變化（呈現平坦化）。\n\n藍線、綠線如果不再下降，甚至開始出現拐頭向上的跡象，\n或許就說明熊市的尾聲已悄然接近；\n並且，倘若未來 BTC 出現一次大級別的迅速向下插針並踩到綠線，\n就很可能在不大幅影響模型數值的情況下，完成一次最終的築底。\n\n最後，結合我最近兩個月所有分析帖的評估，我的判斷依然不變：\n我們正處在一個非常接近 BTC 週期性底部的時間節點🌱\n\n保持耐心、靜待花開。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「廝殺的白熱化」：疊合 STH-RP 的關鍵 Liquidity 區域\n<a href=\"https://nitter.net/market_beggar/status/2080106688917754256\">nitter.net/market_beggar/status/2…</a>\n\n兩道「深熊抄底市場成本線」最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2079745937350779015\">nitter.net/market_beggar/status/2…</a>\n\n「BTC 吸籌趨勢評分」更新：持續監測派發風險\n<a href=\"https://nitter.net/market_beggar/status/2079383301299851536\">nitter.net/market_beggar/status/2…</a>",
-        "link": "https://x.com/market_beggar/status/2080469443352854893",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HN9P7e2bQAABgsc.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084447912801579180",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "听了硅谷坐标采访Lam Research创始人的内容，非常谦虚。有句话让我印象深刻，关于是否有泡沫，企业如何做投资，“注意市场的动向不是为了帮我去预测未来，而是保护自己”\n我觉得我们在股市里也是一样，参与市场，跟着走，AI的发展是动态演绎的，7月硬件下跌很多人问我是否看好AI，我统一的回答是“没有看到任何放缓迹象，所以仍然看好”关注市场动向。\n一直预测AI泡沫总有一天会对，前段时间社交媒体的三位股神已经基本都从神坛下来了，难道这会要信做空的股神吗？自己多关注这个瞬息万变的市场，看不懂的不投，保持平衡的仓位。多关注这个账号😂",
-      "contentHtml": "听了硅谷坐标采访Lam Research创始人的内容，非常谦虚。有句话让我印象深刻，关于是否有泡沫，企业如何做投资，“注意市场的动向不是为了帮我去预测未来，而是保护自己”\n我觉得我们在股市里也是一样，参与市场，跟着走，AI的发展是动态演绎的，7月硬件下跌很多人问我是否看好AI，我统一的回答是“没有看到任何放缓迹象，所以仍然看好”关注市场动向。\n一直预测AI泡沫总有一天会对，前段时间社交媒体的三位股神已经基本都从神坛下来了，难道这会要信做空的股神吗？自己多关注这个瞬息万变的市场，看不懂的不投，保持平衡的仓位。多关注这个账号😂",
-      "publishedAt": "2026-08-04T01:14:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2084447912801579180",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084444691186258097",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "老外真恶心，昨天空得好好的\n\n非要怼上去\n\n干",
-      "contentHtml": "老外真恶心，昨天空得好好的\n\n非要怼上去\n\n干",
-      "publishedAt": "2026-08-04T01:01:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2084444691186258097",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO1vZXVaYAExcZ9.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084413568590680401",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#Crypto \n\n这人真是个畜生吧？",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n这人真是个畜生吧？",
-      "publishedAt": "2026-08-03T22:58:00.000Z",
-      "link": "https://x.com/taresky/status/2084413568590680401",
-      "quote": {
-        "username": "kkmoat",
-        "displayName": "kkmoat.btc",
-        "content": "依旧收钱办事，反正人家自己又不把钱放gate，拿广告费而已，割的次数又不少，反正没人记得",
-        "contentHtml": "依旧收钱办事，反正人家自己又不把钱放gate，拿广告费而已，割的次数又不少，反正没人记得",
-        "link": "https://x.com/kkmoat/status/2084236619746578778",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOyyKCoaIAADRvg.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084412055705227394",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#Crypto \n\n我们币圈人，有自己的贾国龙！",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n我们币圈人，有自己的贾国龙！",
-      "publishedAt": "2026-08-03T22:52:00.000Z",
-      "link": "https://x.com/taresky/status/2084412055705227394",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084402930656891120",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "💇有求必应",
-      "contentHtml": "💇有求必应",
-      "publishedAt": "2026-08-03T22:15:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2084402930656891120",
       "stats": {
         "replies": 0,
         "retweets": 0,
