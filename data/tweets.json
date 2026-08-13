@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T13:15:25.351Z",
+  "lastUpdated": "2026-08-13T15:00:39.075Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,295 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 644,
+    "newFetched": 645,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2087915882374639635",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#美股\n\n7月份开始的美股行情直播含金量很高，都在一一应验",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23美股\">#美股</a>\n\n7月份开始的美股行情直播含金量很高，都在一一应验",
+      "publishedAt": "2026-08-13T14:55:00.000Z",
+      "link": "https://x.com/dongbimao/status/2087915882374639635",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPnDkJnXkAAoWNl.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087914662700708063",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "怎么全场都在涨，就人类未来独自坠落？",
+      "contentHtml": "怎么全场都在涨，就人类未来独自坠落？",
+      "publishedAt": "2026-08-13T14:50:00.000Z",
+      "link": "https://x.com/yuren477/status/2087914662700708063",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPnDTW-aAAIDXdh.jpg"
+        }
+      ],
+      "quote": {
+        "username": "yuren477",
+        "displayName": "余人sama",
+        "content": "空了点spcx，主要观察150能不能有效突破。",
+        "contentHtml": "空了点spcx，主要观察150能不能有效突破。",
+        "link": "https://x.com/yuren477/status/2087816995568054280"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087910104595415350",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "从CRWV和NBIS的人最新财报能看到CSP（AI云算力）板块的出五个比较清晰的发展趋势：\n1、需求仍显著超过近期可交付供给。 CoreWeave 二季度末已投运功率约1.5GW、合同功率约3.7GW，积压订单约1,040亿美元，而且尚未包括三季度初新增的超过250亿美元承诺；\nNebius则计划从2027年开始每年部署超过1GW，并以5GW合同容量为中期目标。\n\n行业瓶颈已经由“有没有客户”转向“什么时候能通电、交付GPU并开始计费”。 \n\n2、定价权确实在增强，但不是所有GPU租赁价格无差别上涨。 \nCoreWeave管理层表示，7月各类SKU价格普遍上调约25%；Nebius披露，旧代GPU价格较一季度上涨超过30%，二季度新签合同平均年化收入超过每MW 2,000万美元，部分达到2,000万—2,500万美元，三季度初的短期紧急容量甚至达到每MW 4,000万—5,000万美元。\n\n涨价最明显的是短期容量、新代GPU、大规模集群和生产级推理，而不是传统低优先级、长期锁价的裸算力。 \n\n3、项目级ROI已经能够算过账，但公司级ROIC尚未被证明。 \nNebius首次披露了比较明确的项目回收期；CoreWeave则用五年期合同和资产级融资覆盖GPU投资。但两家公司目前都处于资本投入远超利润释放的阶段，折旧和利息仍然吞噬大部分经营利润。\n\n但单项目ROI已经能够算过账就是一个经营在进一步改善的信号。等到未来越来越多的单项目ROI能算过账、公司级ROIC也就能证明了，\n\n4、两家公司都在向“AI基础设施操作系统”升级。 未来竞争不再只是每小时出租一张GPU，而是提供训练、推理、存储、网络、模型部署、监控、治理、Agent运行环境以及跨云运营的一体化平台。\n\n也就是7月中这里nitter.net/qinbafrank/status/2076…聊到的“AI运营操作系统和坚实的中间层”\n\n5、两家公司开始采用第三方资本，但方式并不完全相同。 \n1）Nebius的轻资产模式更接近“由资本伙伴出资建设AI工厂，Nebius输出操作系统和运营能力”；\n2）CoreWeave Omni则更接近“把CoreWeave云完整部署到客户自有的数据中心和GPU上”。\n\n方向相同，但现阶段Nebius更强调降低资本投入，CoreWeave更强调混合云和主权AI交付。",
+      "contentHtml": "从CRWV和NBIS的人最新财报能看到CSP（AI云算力）板块的出五个比较清晰的发展趋势：\n1、需求仍显著超过近期可交付供给。 CoreWeave 二季度末已投运功率约1.5GW、合同功率约3.7GW，积压订单约1,040亿美元，而且尚未包括三季度初新增的超过250亿美元承诺；\nNebius则计划从2027年开始每年部署超过1GW，并以5GW合同容量为中期目标。\n\n行业瓶颈已经由“有没有客户”转向“什么时候能通电、交付GPU并开始计费”。 \n\n2、定价权确实在增强，但不是所有GPU租赁价格无差别上涨。 \nCoreWeave管理层表示，7月各类SKU价格普遍上调约25%；Nebius披露，旧代GPU价格较一季度上涨超过30%，二季度新签合同平均年化收入超过每MW 2,000万美元，部分达到2,000万—2,500万美元，三季度初的短期紧急容量甚至达到每MW 4,000万—5,000万美元。\n\n涨价最明显的是短期容量、新代GPU、大规模集群和生产级推理，而不是传统低优先级、长期锁价的裸算力。 \n\n3、项目级ROI已经能够算过账，但公司级ROIC尚未被证明。 \nNebius首次披露了比较明确的项目回收期；CoreWeave则用五年期合同和资产级融资覆盖GPU投资。但两家公司目前都处于资本投入远超利润释放的阶段，折旧和利息仍然吞噬大部分经营利润。\n\n但单项目ROI已经能够算过账就是一个经营在进一步改善的信号。等到未来越来越多的单项目ROI能算过账、公司级ROIC也就能证明了，\n\n4、两家公司都在向“AI基础设施操作系统”升级。 未来竞争不再只是每小时出租一张GPU，而是提供训练、推理、存储、网络、模型部署、监控、治理、Agent运行环境以及跨云运营的一体化平台。\n\n也就是7月中这里<a href=\"https://nitter.net/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2076…</a>聊到的“AI运营操作系统和坚实的中间层”\n\n5、两家公司开始采用第三方资本，但方式并不完全相同。 \n1）Nebius的轻资产模式更接近“由资本伙伴出资建设AI工厂，Nebius输出操作系统和运营能力”；\n2）CoreWeave Omni则更接近“把CoreWeave云完整部署到客户自有的数据中心和GPU上”。\n\n方向相同，但现阶段Nebius更强调降低资本投入，CoreWeave更强调混合云和主权AI交付。",
+      "publishedAt": "2026-08-13T14:32:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2087910104595415350",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "超大CSP重估，Neocloud也会被带起来，不过也有几点去区分：\n1、个人看好的CSP价值重估，核心逻辑是在“分场景、多模型”企业AI采用工程化阶段、受益于开源模型的部署成本结构大幅度改变。个人看好的确定性最好的几家CSP七月初这里nitter.net/qinbafrank/status/2074…有来聊到；\n\nnitter.net/qinbafrank/status/2074…\n\n2、对于Neocloud来说，超大CSP价值重估，Neocloud自然也是被带起来的。下午发的大摩看ROIC框架里单纯算力出租的ROIC也很好。那么新云也受益\n\n3、CSP真正价值是要成为“AI操作系统层”，这涉及：路由、缓存、上下文压缩、权限、审计。涵盖闭源 API、开源模型推理、向量数据库、对象存储、数据仓库、网络、Kubernetes、MLOps、安全、监控、agent runtime、GPU/TPU/ASIC 租用、企业私有化部署。基本上是企业 AI 进入生产环境后的全部云消费。\n\n所以纯出租算力的Neocloud就没有能更进一步的AI操作系统中间层升级的新云厂商想象力大了。\n\n要去看哪些新云厂商kaishiq从“算力出租层”往“AI运营维护的中间层”升级；\n\n4、最后还要密切关注新云厂商的债务问题，毕竟相比超大csp他们的现金流能力更差更弱、价值重估阶段可能弹性大，但是一遇到市场逆风，新云厂商抗跌性也很差，Neocloud更适合做波段。",
+        "contentHtml": "超大CSP重估，Neocloud也会被带起来，不过也有几点去区分：\n1、个人看好的CSP价值重估，核心逻辑是在“分场景、多模型”企业AI采用工程化阶段、受益于开源模型的部署成本结构大幅度改变。个人看好的确定性最好的几家CSP七月初这里<a href=\"https://nitter.net/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2074…</a>有来聊到；\n\n<a href=\"https://nitter.net/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2074…</a>\n\n2、对于Neocloud来说，超大CSP价值重估，Neocloud自然也是被带起来的。下午发的大摩看ROIC框架里单纯算力出租的ROIC也很好。那么新云也受益\n\n3、CSP真正价值是要成为“AI操作系统层”，这涉及：路由、缓存、上下文压缩、权限、审计。涵盖闭源 API、开源模型推理、向量数据库、对象存储、数据仓库、网络、Kubernetes、MLOps、安全、监控、agent runtime、GPU/TPU/ASIC 租用、企业私有化部署。基本上是企业 AI 进入生产环境后的全部云消费。\n\n所以纯出租算力的Neocloud就没有能更进一步的AI操作系统中间层升级的新云厂商想象力大了。\n\n要去看哪些新云厂商kaishiq从“算力出租层”往“AI运营维护的中间层”升级；\n\n4、最后还要密切关注新云厂商的债务问题，毕竟相比超大csp他们的现金流能力更差更弱、价值重估阶段可能弹性大，但是一遇到市场逆风，新云厂商抗跌性也很差，Neocloud更适合做波段。",
+        "link": "https://x.com/qinbafrank/status/2084246799037124627",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOy7agTaYAEQUY-.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087904607016022489",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "$NUGT ---> $NEBX ---> $ARMG \n我不是交易博主，交易我是菜鸟，运气好，抄作业的请注意仓位，别栽跟头时拉陀大的，投资仓位才是主要的。今天休息一天，忙些其他的，等着参与度超买再说",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23NUGT\">$NUGT</a> ---&gt; <a href=\"/search?f=tweets&q=%23NEBX\">$NEBX</a> ---&gt; <a href=\"/search?f=tweets&q=%23ARMG\">$ARMG</a> \n我不是交易博主，交易我是菜鸟，运气好，抄作业的请注意仓位，别栽跟头时拉陀大的，投资仓位才是主要的。今天休息一天，忙些其他的，等着参与度超买再说",
+      "publishedAt": "2026-08-13T14:10:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2087904607016022489",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087903125399011470",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "先交易通胀放缓，再看美伊局势。7月PPI走弱对市场进一步提振，7月PPI整体偏软、低于预期，显示生产端通胀压力进一步缓解z7月PPI的“软”主要体现在商品端（尤其能源）的持续降温，这与前期能源价格从高位回落、以及伊朗相关冲击后的调整有关。服务端虽仍正增长，但力度较前几个月减弱（增速放缓），m且运输仓储明显走弱。整体同比从5%以上快速回落至4.7%，是积极信号。\n\nPPI作为CPI上游，PPI衡量生产者收到的价格，CPI衡量消费者支付的价格。理论上，生产端成本变化会通过供应链、批发、零售等环节向下游传导。作为CPI的上游指标，这有助于减轻8月CPI的上行压力，尤其在商品和能源方面。\n\n连续两个月PPI环比接近零或负值，叠加7月CPI已现降温，增加了通胀路径继续放缓的证据。\n\n今天中午聊到、PPI走弱对市场也是进一步提振和利好。短期内应该是乐观📈、先交易几天通胀压力减轻。然后再看美伊博弈有没有新的进展。\n\n现在看一个潜在的隐患：就是美伊博弈长期化，没有特别加剧升级但是霍尔木兹海峡还是迟迟不能打开。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "先交易通胀放缓，再看美伊局势。7月PPI走弱对市场进一步提振，7月PPI整体偏软、低于预期，显示生产端通胀压力进一步缓解z7月PPI的“软”主要体现在商品端（尤其能源）的持续降温，这与前期能源价格从高位回落、以及伊朗相关冲击后的调整有关。服务端虽仍正增长，但力度较前几个月减弱（增速放缓），m且运输仓储明显走弱。整体同比从5%以上快速回落至4.7%，是积极信号。\n\nPPI作为CPI上游，PPI衡量生产者收到的价格，CPI衡量消费者支付的价格。理论上，生产端成本变化会通过供应链、批发、零售等环节向下游传导。作为CPI的上游指标，这有助于减轻8月CPI的上行压力，尤其在商品和能源方面。\n\n连续两个月PPI环比接近零或负值，叠加7月CPI已现降温，增加了通胀路径继续放缓的证据。\n\n今天中午聊到、PPI走弱对市场也是进一步提振和利好。短期内应该是乐观📈、先交易几天通胀压力减轻。然后再看美伊博弈有没有新的进展。\n\n现在看一个潜在的隐患：就是美伊博弈长期化，没有特别加剧升级但是霍尔木兹海峡还是迟迟不能打开。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-08-13T14:04:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2087903125399011470",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPm40kRa8AEaNjo.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPm40kEaAAE7ga_.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "昨晚7月cpi数据公布都符合预期，也如昨晚聊到的是市场趋势比较平稳，纳指标普略涨，表现亮眼的个股和板块基本上也都是近期基本面强的板块。\n\n1、劳工部统计局公布的精确数据时cpi同比3.36%，核心cpi同比47%，其实略低于预期的。但对外公布四舍五入之后就是符合预期。\n1）核心商品环比增速0.2%，三个月复合增速来看目前依然偏低，整体中枢下行趋势延续的；本月反弹集中在二手车分项。\n\n但需要注意的是AI相关消费品重回升势，AI消费品最直接相关的计算机、外围设备等分项，7月环比从-0.7%回升至3.5%，同比再创阶段新高，尽管其权重不大，短期贡献有限，但AI不同于原油，其不像是一次性冲击，而是具备更广泛的扩散能力，尤其是企业进行数字化投资后，相关服务类的价格有缓慢提升，这也许是长期性的，需要重点关注。后面专门聊聊这一点\n\n2）在核心服务里\n住房还在低位低位，医疗、车险等反弹，世界杯效应确实在衰退。\n\n机票是油价上涨对核心通胀的最大威胁。机票分项的权重超过1%，7月环比增长2.2%。\n\n3）这说下油价\n油价影响弱于预期，7月以来美伊矛盾再起，油价快速反弹，让市场担忧通胀会被再度抬高，但回顾WTI油价的走势，可以发现其实7月震荡区间和中枢与6月基本一致，并未出现实质性上涨。cpi数据也能体现这一点\n\n2、这份数据的意义\n1）CPI符合预期，核心通胀偏弱把市场从危险边缘拉回来了，进一步降低了市场加息的担忧。但没有也没给市场强烈乐观的预期。\n\n2）在美伊还没谈妥油价还未回落的时候 ，让市场情绪稍微好转。但是毕竟不是大幅低于预期，市场很难出现全面上涨。资金只能是偏好基本面强势的，基本面一般或者说依赖降息预期利率下行的资产就没那么强。\n\n3、之后怎么看？\n近期就看今晚七月的ppi，ppi数据算是cpi的上游，如果ppi也能走弱对市场情绪也是进一步提振和利好。\n\n但考虑到美伊毕竟仍未谈妥，若8月国际油价持续在80以上震荡，仍有可能影响8月通胀水平。\n\n在美伊还没谈妥前，美股市场估计还是走分化行情，如昨晚聊的好多去看个股和板块的基本面了。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "昨晚7月cpi数据公布都符合预期，也如昨晚聊到的是市场趋势比较平稳，纳指标普略涨，表现亮眼的个股和板块基本上也都是近期基本面强的板块。\n\n1、劳工部统计局公布的精确数据时cpi同比3.36%，核心cpi同比47%，其实略低于预期的。但对外公布四舍五入之后就是符合预期。\n1）核心商品环比增速0.2%，三个月复合增速来看目前依然偏低，整体中枢下行趋势延续的；本月反弹集中在二手车分项。\n\n但需要注意的是AI相关消费品重回升势，AI消费品最直接相关的计算机、外围设备等分项，7月环比从-0.7%回升至3.5%，同比再创阶段新高，尽管其权重不大，短期贡献有限，但AI不同于原油，其不像是一次性冲击，而是具备更广泛的扩散能力，尤其是企业进行数字化投资后，相关服务类的价格有缓慢提升，这也许是长期性的，需要重点关注。后面专门聊聊这一点\n\n2）在核心服务里\n住房还在低位低位，医疗、车险等反弹，世界杯效应确实在衰退。\n\n机票是油价上涨对核心通胀的最大威胁。机票分项的权重超过1%，7月环比增长2.2%。\n\n3）这说下油价\n油价影响弱于预期，7月以来美伊矛盾再起，油价快速反弹，让市场担忧通胀会被再度抬高，但回顾WTI油价的走势，可以发现其实7月震荡区间和中枢与6月基本一致，并未出现实质性上涨。cpi数据也能体现这一点\n\n2、这份数据的意义\n1）CPI符合预期，核心通胀偏弱把市场从危险边缘拉回来了，进一步降低了市场加息的担忧。但没有也没给市场强烈乐观的预期。\n\n2）在美伊还没谈妥油价还未回落的时候 ，让市场情绪稍微好转。但是毕竟不是大幅低于预期，市场很难出现全面上涨。资金只能是偏好基本面强势的，基本面一般或者说依赖降息预期利率下行的资产就没那么强。\n\n3、之后怎么看？\n近期就看今晚七月的ppi，ppi数据算是cpi的上游，如果ppi也能走弱对市场情绪也是进一步提振和利好。\n\n但考虑到美伊毕竟仍未谈妥，若8月国际油价持续在80以上震荡，仍有可能影响8月通胀水平。\n\n在美伊还没谈妥前，美股市场估计还是走分化行情，如昨晚聊的好多去看个股和板块的基本面了。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2087761474966192434",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPk3_gjacAEKwKL.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087900792573583537",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2086384144427454464/vEX1IsSf_bigger.jpg",
+      "content": "啥意思啊哥们儿，用claude开发的啊？",
+      "contentHtml": "啥意思啊哥们儿，用claude开发的啊？",
+      "publishedAt": "2026-08-13T13:55:00.000Z",
+      "link": "https://x.com/hazenlee/status/2087900792573583537",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPm2rPMbMAAevhA.jpg"
+        }
+      ],
+      "quote": {
+        "username": "deepseek_ai",
+        "displayName": "DeepSeek",
+        "content": "🧩 DeepSeek Harness v0.1 is now available in Developer Preview!\n\n🔹 We’re opening it up to developers building agent harnesses worldwide and open-sourcing the codebase in MIT license.\n🔹 Powered by the Cordis meta-framework, DeepSeek Harness is an agent harness built around one core idea: Everything is a plugin. Models, tools, skills, sessions, sandboxes, filesystems, loops, orchestration, and UI are ALL implemented as plugins, and can be mixed, matched, replaced, and extended.\n\nTry it now!\ngithub.com/deepseek-ai/deeps…",
+        "contentHtml": "🧩 DeepSeek Harness v0.1 is now available in Developer Preview!\n\n🔹 We’re opening it up to developers building agent harnesses worldwide and open-sourcing the codebase in MIT license.\n🔹 Powered by the Cordis meta-framework, DeepSeek Harness is an agent harness built around one core idea: Everything is a plugin. Models, tools, skills, sessions, sandboxes, filesystems, loops, orchestration, and UI are ALL implemented as plugins, and can be mixed, matched, replaced, and extended.\n\nTry it now!\n<a href=\"https://github.com/deepseek-ai/deepseek-harness\">github.com/deepseek-ai/deeps…</a>",
+        "link": "https://x.com/deepseek_ai/status/2087887408440164663"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087896831569367548",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "AMD发债来了\n$AMD \n言出法随",
+      "contentHtml": "AMD发债来了\n<a href=\"/search?f=tweets&q=%23AMD\">$AMD</a> \n言出法随",
+      "publishedAt": "2026-08-13T13:39:00.000Z",
+      "link": "https://x.com/octopusycc/status/2087896831569367548",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPmzDzaagAACFVU.jpg"
+        }
+      ],
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "也突然意识到\n\n随着FOMC的临近\n\n或许有更多现金流不充裕的公司会在9月15日前发行新股/新债",
+        "contentHtml": "也突然意识到\n\n随着FOMC的临近\n\n或许有更多现金流不充裕的公司会在9月15日前发行新股/新债",
+        "link": "https://x.com/octopusycc/status/2087853868541784353"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087896201513333025",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "If you look back at every major $BTC bottom, You can see how closely they all resemble each other.\n\nThe only difference this time is that the range didn’t form in Q4.",
+      "contentHtml": "If you look back at every major <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> bottom, You can see how closely they all resemble each other.\n\nThe only difference this time is that the range didn’t form in Q4.",
+      "publishedAt": "2026-08-13T13:37:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2087896201513333025",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPmSWUuWMAAt5Xy.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087894928273916166",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "app.binance.com/uni-qr/cspa/…\n开播了",
+      "contentHtml": "<a href=\"https://app.binance.com/uni-qr/cspa/44409150591281?l=zh-CN&r=MJ6LI1UJ&source=host_share&uc=web_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>\n开播了",
+      "publishedAt": "2026-08-13T13:31:00.000Z",
+      "link": "https://x.com/octopusycc/status/2087894928273916166",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPmxXKibUAEBRE2.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087894526824526325",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2086384144427454464/vEX1IsSf_bigger.jpg",
+      "content": "突破趋势线的技术反弹基本完成预期，已止盈多头头寸。\n接下来可能要回调了。",
+      "contentHtml": "突破趋势线的技术反弹基本完成预期，已止盈多头头寸。\n接下来可能要回调了。",
+      "publishedAt": "2026-08-13T13:30:00.000Z",
+      "link": "https://x.com/hazenlee/status/2087894526824526325",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPmw2d_bsAAO3Ze.png"
+        }
+      ],
+      "quote": {
+        "username": "hazenlee",
+        "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "content": "黄金也在酝酿一波中期反弹？",
+        "contentHtml": "黄金也在酝酿一波中期反弹？",
+        "link": "https://x.com/hazenlee/status/2079408666877571357",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HNuLFj9a8AAibmF.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2087892982049701964",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "如果你测试和推荐少数 Crypto Card，你可能是在分享。\n\n如果你测试一大堆卡，其中大部分是没价值的，说明你在传递一种信号 —— 这里接广告。",
+      "contentHtml": "如果你测试和推荐少数 Crypto Card，你可能是在分享。\n\n如果你测试一大堆卡，其中大部分是没价值的，说明你在传递一种信号 —— 这里接广告。",
+      "publishedAt": "2026-08-13T13:24:00.000Z",
+      "link": "https://x.com/taresky/status/2087892982049701964",
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#副业 \n\nTimeline 刷到越来越多 U 卡测评... \n\n我应该在几个 U 卡项目是邀请人数和返佣收益最高的。\n\n能给出的建议就是：这个不适合正经做，收入上限太低了。\n\n同样的人头和金额，去做赌博相关的营销号。比如交易所、预测市场、meme、带单老师。收入会高 10 到 100 倍。",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23副业\">#副业</a> \n\nTimeline 刷到越来越多 U 卡测评... \n\n我应该在几个 U 卡项目是邀请人数和返佣收益最高的。\n\n能给出的建议就是：这个不适合正经做，收入上限太低了。\n\n同样的人头和金额，去做赌博相关的营销号。比如交易所、预测市场、meme、带单老师。收入会高 10 到 100 倍。",
+        "link": "https://x.com/taresky/status/2085527673888276737"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2087887936515985678",
       "username": "ai_9684xtpa",
@@ -11812,303 +12096,6 @@
       "contentHtml": "Want to catch real-time trading opportunities? Start your 14-day free trial now   \n👉 <a href=\"https://coinkarma.pse.is/7wsxnl\">coinkarma.pse.is/7wsxnl</a>",
       "publishedAt": "2026-08-05T14:25:00.000Z",
       "link": "https://x.com/coinkarma_/status/2085009360036798718",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085006976610918449",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "想清楚白宫对光收发器的禁令是虚空造牌，就能理解昨天因为禁令被杀的最多的 $AXTI为啥今天弹的最猛了。",
-      "contentHtml": "想清楚白宫对光收发器的禁令是虚空造牌，就能理解昨天因为禁令被杀的最多的 $AXTI为啥今天弹的最猛了。",
-      "publishedAt": "2026-08-05T14:16:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2085006976610918449",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO9ur7TboAAKYug.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "按照FCC政策落地执行的思路来看就是昨晚这里nitter.net/qinbafrank/status/2084…聊到的，白宫其实有虚空造牌的意味，用对光模块最下游的采购（美国超大csp占据中际旭创、新易盛七成以上的订单）禁令来换取中国进一步放松对最上游磷化烟InP的出口管制。否则短期内两边都很难受，当然中长期科技冷战大背景下供应链分化在所难免。",
-        "contentHtml": "按照FCC政策落地执行的思路来看就是昨晚这里<a href=\"https://nitter.net/qinbafrank/status/2084630010946523613?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2084…</a>聊到的，白宫其实有虚空造牌的意味，用对光模块最下游的采购（美国超大csp占据中际旭创、新易盛七成以上的订单）禁令来换取中国进一步放松对最上游磷化烟InP的出口管制。否则短期内两边都很难受，当然中长期科技冷战大背景下供应链分化在所难免。",
-        "link": "https://x.com/qinbafrank/status/2084887069265178857",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HO8BvQLbAAAcau5.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085001757428433117",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$BTC \n\nWe're seeing the exact same bullish divergence on the daily that we saw back in 2022.\n\nAlmost every major confluence is suggesting the bottom could already be in.\n\nThe only thing making people hesitate is that we're not in Q4. Other than that, BTC is 100% in the manipulation phase, identical to what we saw back in 2022. \n\nThe similarities are hard to ignore.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nWe're seeing the exact same bullish divergence on the daily that we saw back in 2022.\n\nAlmost every major confluence is suggesting the bottom could already be in.\n\nThe only thing making people hesitate is that we're not in Q4. Other than that, BTC is 100% in the manipulation phase, identical to what we saw back in 2022. \n\nThe similarities are hard to ignore.",
-      "publishedAt": "2026-08-05T13:55:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2085001757428433117",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO9pUgjWEAALlUY.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084996157084950971",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "开播 \n狗日的网络问题\n\napp.binance.com/uni-qr/cspa/…",
-      "contentHtml": "开播 \n狗日的网络问题\n\n<a href=\"https://app.binance.com/uni-qr/cspa/44055333105626?l=zh-CN&r=MJ6LI1UJ&source=host_share&uc=web_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>",
-      "publishedAt": "2026-08-05T13:33:00.000Z",
-      "link": "https://x.com/octopusycc/status/2084996157084950971",
-      "quote": {
-        "username": "octopusycc",
-        "displayName": "大老师Bugsbunny ｜DRAM UP only",
-        "content": "晚上21:30 继续看财报和期权流",
-        "contentHtml": "晚上21:30 继续看财报和期权流",
-        "link": "https://x.com/octopusycc/status/2084988643442381304",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HO9d-QvbsAACg-0.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084993266660073713",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "短线战神平仓止盈了，持仓仅 1 小时 17 分钟获利 17.7 万美元，胜率提升至 81%🤩\n\n专攻 $ETH 空头的高胜率地址 0xd9a…8bbf3 已在 15:47 平掉 2.6 万枚 ETH（约 4866 万美元），最终开仓价 $1871.2，止盈点 $1864.4，这是他自 07.27 以来第 21 次做空\n\nETH 仅下跌 0.36%（6.8 刀）他却凭借高杠杆和大资金硬是刮下来些利润，这钱赚得也是不容易…\n\n传送门 👉 d.pro/portfolio/0xd9a5a1eb7e…",
-      "contentHtml": "短线战神平仓止盈了，持仓仅 1 小时 17 分钟获利 17.7 万美元，胜率提升至 81%🤩\n\n专攻 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 空头的高胜率地址 0xd9a…8bbf3 已在 15:47 平掉 2.6 万枚 ETH（约 4866 万美元），最终开仓价 $1871.2，止盈点 $1864.4，这是他自 07.27 以来第 21 次做空\n\nETH 仅下跌 0.36%（6.8 刀）他却凭借高杠杆和大资金硬是刮下来些利润，这钱赚得也是不容易…\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0xd9a5a1eb7e72c8d3fc3ff633e1ac1897f948bbf3\">d.pro/portfolio/0xd9a5a1eb7e…</a>",
-      "publishedAt": "2026-08-05T13:21:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2084993266660073713",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO9iRLgagAABNlY.png"
-        }
-      ],
-      "quote": {
-        "username": "ai_9684xtpa",
-        "displayName": "Ai 姨",
-        "content": "这是真短线战神：10x 杠杆，专攻 $ETH 空单，胜率 80%，10 天获利 60 万美元🤺\n\n地址 0xd9a…8bbf3 自 07.27 以来共做空 20 次 ETH，半数交易的持仓时间仅 1 小时左右，10 分钟前再次开启 14,519.62 ETH 空单，价值 2721 万美元，开仓价 $1,874.2\n\n他的每次持仓规模都在 300 万美元以上，最高时达到 7013 万美元，真是刀尖上跳舞啊…\n\n传送门 👉 d.pro/portfolio/0xd9a5a1eb7e…",
-        "contentHtml": "这是真短线战神：10x 杠杆，专攻 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 空单，胜率 80%，10 天获利 60 万美元🤺\n\n地址 0xd9a…8bbf3 自 07.27 以来共做空 20 次 ETH，半数交易的持仓时间仅 1 小时左右，10 分钟前再次开启 14,519.62 ETH 空单，价值 2721 万美元，开仓价 $1,874.2\n\n他的每次持仓规模都在 300 万美元以上，最高时达到 7013 万美元，真是刀尖上跳舞啊…\n\n传送门 👉 <a href=\"https://www.d.pro/portfolio/0xd9a5a1eb7e72c8d3fc3ff633e1ac1897f948bbf3\">d.pro/portfolio/0xd9a5a1eb7e…</a>",
-        "link": "https://x.com/ai_9684xtpa/status/2084836185260822657",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HO7TUROaMAA_1f6.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084991367919624237",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "Cloudflare越来越有Agent基础设施的影子了，看昨天Cloudfare推出了专给AI智能体用的钱包，这套可编程钱包能存稳定币、买API、内容、推理服务，也能收款。分成两种：\n1）账户钱包给真人管，负责充值、提现、设权限；\n2）虚拟钱包（就是Agent钱包）给智能体用，靠API密钥操作，但有消费上限、白名单、单笔限额这些护栏，防止乱花。\n\n底层基于x402协议，把微支付直接塞进HTTP请求里，跟之前的Monetization Gateway配套。支持稳定币，看演示实际结算基本以USDC为主，Base等链用得最多。\n\n不得不说Cloudfare已经从CDN网络、安全防护龙头，开始越来越往Agent基础设施平台升级迭代。\n\n对于Cloudfare之前也聊过很多：\n之前推出专属agent的稳定币nitter.net/qinbafrank/status/2034…\n很早就推出了markdown网页格式让Agent高效读取网页内容nitter.net/qinbafrank/status/2034…\n\n2月份也明确聊过Cloudfare是被错杀了的nitter.net/qinbafrank/status/2021…、到现在也翻倍了",
-      "contentHtml": "Cloudflare越来越有Agent基础设施的影子了，看昨天Cloudfare推出了专给AI智能体用的钱包，这套可编程钱包能存稳定币、买API、内容、推理服务，也能收款。分成两种：\n1）账户钱包给真人管，负责充值、提现、设权限；\n2）虚拟钱包（就是Agent钱包）给智能体用，靠API密钥操作，但有消费上限、白名单、单笔限额这些护栏，防止乱花。\n\n底层基于x402协议，把微支付直接塞进HTTP请求里，跟之前的Monetization Gateway配套。支持稳定币，看演示实际结算基本以USDC为主，Base等链用得最多。\n\n不得不说Cloudfare已经从CDN网络、安全防护龙头，开始越来越往Agent基础设施平台升级迭代。\n\n对于Cloudfare之前也聊过很多：\n之前推出专属agent的稳定币<a href=\"https://nitter.net/qinbafrank/status/2034830388464623866?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2034…</a>\n很早就推出了markdown网页格式让Agent高效读取网页内容<a href=\"https://nitter.net/qinbafrank/status/2034830388464623866?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2034…</a>\n\n2月份也明确聊过Cloudfare是被错杀了的<a href=\"https://nitter.net/qinbafrank/status/2021506837720498224?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2021…</a>、到现在也翻倍了",
-      "publishedAt": "2026-08-05T13:14:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2084991367919624237",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO9gmKraYAEXn6M.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "互联网历史上首次，机器人流量正式超过人类流量。Cloudflare首席执行官Matthew Prince证实，代理流量有史以来首次超过人类流量。看下图Cloudflare Radar数据显示Bot现在占全球所有指向HTML页面的HTTP请求的57.5%。人类流量已降至42.5%（Cloudflare Radar数据）。\n\nCloudflare原本预计这一里程碑将在2027年实现。AI代理的爆发将其提前了整整一年。这将对基础设施成本、带宽定价、安全模型以及整个互联网经济产生了重大影响。\n\n23年9月的推文还推演过：移动互联网的原住民是DAU，未来虚拟世界metaverse原住民很可能是一个个Bot，可能是agent，其不再受单一主体的限制，能够有无限的注意力去完成人的各种需求。\n\n还不到三年时间这个推演就快要实现了。",
-        "contentHtml": "互联网历史上首次，机器人流量正式超过人类流量。Cloudflare首席执行官Matthew Prince证实，代理流量有史以来首次超过人类流量。看下图Cloudflare Radar数据显示Bot现在占全球所有指向HTML页面的HTTP请求的57.5%。人类流量已降至42.5%（Cloudflare Radar数据）。\n\nCloudflare原本预计这一里程碑将在2027年实现。AI代理的爆发将其提前了整整一年。这将对基础设施成本、带宽定价、安全模型以及整个互联网经济产生了重大影响。\n\n23年9月的推文还推演过：移动互联网的原住民是DAU，未来虚拟世界metaverse原住民很可能是一个个Bot，可能是agent，其不再受单一主体的限制，能够有无限的注意力去完成人的各种需求。\n\n还不到三年时间这个推演就快要实现了。",
-        "link": "https://x.com/qinbafrank/status/2063110948874015040",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HKGkW7JaMAAsSnh.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084988643442381304",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "晚上21:30 继续看财报和期权流",
-      "contentHtml": "晚上21:30 继续看财报和期权流",
-      "publishedAt": "2026-08-05T13:03:00.000Z",
-      "link": "https://x.com/octopusycc/status/2084988643442381304",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO9d-QvbsAACg-0.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084986261346119752",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "该 PC 一定要 PC",
-      "contentHtml": "该 PC 一定要 PC",
-      "publishedAt": "2026-08-05T12:53:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2084986261346119752",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO9b84aaEAAESGV.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084984115431153961",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "回了口老血   \n\n$xau \n下次一定多嫖娼少开垃圾单",
-      "contentHtml": "回了口老血   \n\n<a href=\"/search?f=tweets&q=%23xau\">$xau</a> \n下次一定多嫖娼少开垃圾单",
-      "publishedAt": "2026-08-05T12:45:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2084984115431153961",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO9Z_-Hb0AAMIbQ.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "高点回撤 70 多万 u，相当于一注彩票造没了\n\n这钱拿去 pc 能把肾玩黑🫩🫩🫩",
-        "contentHtml": "高点回撤 70 多万 u，相当于一注彩票造没了\n\n这钱拿去 pc 能把肾玩黑🫩🫩🫩",
-        "link": "https://x.com/Bitfatty/status/2084855924372701628",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HO7lZ1jbsAEPRcc.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084982905919717485",
-      "username": "yuren477",
-      "displayName": "余人sama",
-      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
-      "content": "老师们刚要发文狂吹，字还没打完又跌回来了😆😆😆\n现在出一个财报杀一个的节奏吗？\n今晚闪迪能善终吗？",
-      "contentHtml": "老师们刚要发文狂吹，字还没打完又跌回来了😆😆😆\n现在出一个财报杀一个的节奏吗？\n今晚闪迪能善终吗？",
-      "publishedAt": "2026-08-05T12:40:00.000Z",
-      "link": "https://x.com/yuren477/status/2084982905919717485",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO9Y5AgaUAAo3jf.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084980272051712238",
-      "username": "DrProfitCrypto",
-      "displayName": "Doctor Profit 🇨🇭",
-      "avatar": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_bigger.jpg",
-      "content": "The life changing report is the Galactic Three report I have shared few days ago. Read it before it’s too late. I can’t repeat my words more often, it’s the opportunity of our lifetime and much bigger than most realize",
-      "contentHtml": "The life changing report is the Galactic Three report I have shared few days ago. Read it before it’s too late. I can’t repeat my words more often, it’s the opportunity of our lifetime and much bigger than most realize",
-      "publishedAt": "2026-08-05T12:30:00.000Z",
-      "link": "https://x.com/DrProfitCrypto/status/2084980272051712238",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2084963565845328005",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$HYPE \n\nGood things come to those who wait.\n\n12.12% bounce from zone. ✅\n\nPosition is fully closed.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> \n\nGood things come to those who wait.\n\n12.12% bounce from zone. ✅\n\nPosition is fully closed.",
-      "publishedAt": "2026-08-05T11:23:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2084963565845328005",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO9HEp2XcAAWMbf.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "If $HYPE gives 51.54, I will take a long. \n\nUntil then, waiting game for me.",
-        "contentHtml": "If <a href=\"/search?f=tweets&q=%23HYPE\">$HYPE</a> gives 51.54, I will take a long. \n\nUntil then, waiting game for me.",
-        "link": "https://x.com/KillaXBT/status/2082195297480986638",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOVxhuvWMAAYDU2.png"
-          }
-        ]
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
