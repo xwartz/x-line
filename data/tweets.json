@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T04:50:30.928Z",
+  "lastUpdated": "2026-08-14T06:16:20.042Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,125 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 647,
+    "newFetched": 646,
     "successUsers": 32,
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2088147101851279596",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "MSCI正在评估剔除Strategy和Metaplanet出指数\n\n啥时候从 $IGV 里把丫踢出去",
+      "contentHtml": "MSCI正在评估剔除Strategy和Metaplanet出指数\n\n啥时候从 <a href=\"/search?f=tweets&q=%23IGV\">$IGV</a> 里把丫踢出去",
+      "publishedAt": "2026-08-14T06:13:00.000Z",
+      "link": "https://x.com/octopusycc/status/2088147101851279596",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPqWtU7aAAEs_hY.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2088141718197874891",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "CPU领域最近又要来一波？近期看到CPU领域密集的催化剂：\n1、美银最新研报把将服务器CPU 2030年TAM上修至2106亿美元（从之前的约1700亿），CAGR约36%。5月amd财报时苏妈给的预期是1200亿美金，到7月 Advancing AI的活动上。苏妈又把这个数字提到了2200亿美金。然后美银这次上调相当于投行的预期已经向产业预判靠拢一致了。\n\n2、cpu最核心的逻辑还是在于CPU与GPU配置比例从此前的1:8向1:1靠拢，逻辑链：Agentic AI的普及→推理量爆发→每个agent需要CPU来编排和处理数据→CPU与GPU的配比从1:4提升到1:1甚至更高→CPU TAM倍增。这个在五月初amd的电话会nitter.net/qinbafrank/status/2051…和\n5月下旬陈立武讲话nitter.net/qinbafrank/status/2057…都提到的趋势，貌似近期越来越被市场所接受。\n\n3、英特尔\n1）陈立武以个人资金认购了价值1200万美元的英特尔股票，作为公司197亿美元股票增发计划的一部分、管理层真金白银的掏钱是市场信心和情绪的最大保证；\n2）18A制程首款数据中心CPU量产/爬坡：至强6+（Clearwater Forest，最高288个E-core）采用Intel 18A（1.8nm级）+ Foveros Direct 3D封装，专为云原生、智能体AI和网络密集型负载设计；\n3）陈立武近期TechSurge访谈中明确探索CPU与内存堆叠及新型内存架构（关联XBM专利，去掉传统HBM硅中介层；已挖前SK海力士CEO）。其实之前财报电话会上已经说过的信息，不妨碍市场又拿来做预期。\n\n4、AMD\n1）Advancing AI 2026活动（7月22–23日）正式发布第6代EPYC Venice（EPYC 9006系列），全球首款基于台积电2nm量产的高性能计算芯片。\n2）锐龙AI Max 400系列蓄势（最高192GB统一内存，x86史上首次可本地跑超大模型）；Zen 6消费级预计2027年；低功耗核心确认加入。\n3）数据中心市场份额持续提升，被视为本轮CPU短缺最大受益者之一。\n\n5、ARM\n1）自研AGI CPU芯片（非单纯IP）已送样客户评估，预计2026年底前量产，目标数据中心头节点、智能体编排等场景。\n\n2）英伟达自研Arm CPU加速落地，与Rubin GPU协同的Vera CPU预计2026下半年量产出货，早期客户已在验证。\n\n而且看走势貌似都要突破这一波下跌的压力线了。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "CPU领域最近又要来一波？近期看到CPU领域密集的催化剂：\n1、美银最新研报把将服务器CPU 2030年TAM上修至2106亿美元（从之前的约1700亿），CAGR约36%。5月amd财报时苏妈给的预期是1200亿美金，到7月 Advancing AI的活动上。苏妈又把这个数字提到了2200亿美金。然后美银这次上调相当于投行的预期已经向产业预判靠拢一致了。\n\n2、cpu最核心的逻辑还是在于CPU与GPU配置比例从此前的1:8向1:1靠拢，逻辑链：Agentic AI的普及→推理量爆发→每个agent需要CPU来编排和处理数据→CPU与GPU的配比从1:4提升到1:1甚至更高→CPU TAM倍增。这个在五月初amd的电话会<a href=\"https://nitter.net/qinbafrank/status/2051873015458353265?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2051…</a>和\n5月下旬陈立武讲话<a href=\"https://nitter.net/qinbafrank/status/2057118267681194169?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2057…</a>都提到的趋势，貌似近期越来越被市场所接受。\n\n3、英特尔\n1）陈立武以个人资金认购了价值1200万美元的英特尔股票，作为公司197亿美元股票增发计划的一部分、管理层真金白银的掏钱是市场信心和情绪的最大保证；\n2）18A制程首款数据中心CPU量产/爬坡：至强6+（Clearwater Forest，最高288个E-core）采用Intel 18A（1.8nm级）+ Foveros Direct 3D封装，专为云原生、智能体AI和网络密集型负载设计；\n3）陈立武近期TechSurge访谈中明确探索CPU与内存堆叠及新型内存架构（关联XBM专利，去掉传统HBM硅中介层；已挖前SK海力士CEO）。其实之前财报电话会上已经说过的信息，不妨碍市场又拿来做预期。\n\n4、AMD\n1）Advancing AI 2026活动（7月22–23日）正式发布第6代EPYC Venice（EPYC 9006系列），全球首款基于台积电2nm量产的高性能计算芯片。\n2）锐龙AI Max 400系列蓄势（最高192GB统一内存，x86史上首次可本地跑超大模型）；Zen 6消费级预计2027年；低功耗核心确认加入。\n3）数据中心市场份额持续提升，被视为本轮CPU短缺最大受益者之一。\n\n5、ARM\n1）自研AGI CPU芯片（非单纯IP）已送样客户评估，预计2026年底前量产，目标数据中心头节点、智能体编排等场景。\n\n2）英伟达自研Arm CPU加速落地，与Rubin GPU协同的Vera CPU预计2026下半年量产出货，早期客户已在验证。\n\n而且看走势貌似都要突破这一波下跌的压力线了。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-08-14T05:52:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2088141718197874891",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "生成式AI往代理式AI迁移中，新的卡脖子环节又出现了，这次是CPU。之前市场关于算力紧缺的讨论都在GPU、HBM、光模块、电力等环节，其实对于CPU的关注比较少。其实Cpu的紧缺传了一段时间了，看最近英特尔、AMD走势最核心驱动力就是来自cpu开始出现紧缺了，甚至连过往不怎么受待见的港股联想集团，最近两周走的也很强。\n\n1、为什agentic ai时代CPU占比会扩大？\n传统AI（主要是大模型训练/推理）高度依赖GPU，因为Transformer的核心是并行矩阵运算，GPU擅长高吞吐的并行计算。这时CPU主要只负责“辅助”：数据路由、内存压缩、GPU调度等，导致数据中心CPU:GPU比例很低（典型1:4~1:8，甚至1颗CPU管8颗GPU）。CPU利用率低，基本是配角。 \n\nAgentic AI完全不同，它不是单次“问答”，而是自主多步循环（Planning → Tool Use → Act → Observe → Reflect → Iterate），涉及：\n1）编排：调度子任务、多智能体协作、分支逻辑、重试机制。\n2）工具调用：网页搜索、API调用、代码执行、数据库查询、向量检索（RAG）、文件处理等。\n3）其他CPU密集任务：上下文管理、KV Cache处理、强化学习（RL）仿真评估、数据预/后处理。\n\n这些任务高度串行、I/O密集、逻辑分支多，GPU并不擅长（甚至会闲置）。研究显示：工具处理阶段在CPU上可占总延迟的50%~90.6%（GPU在等待CPU）。Agentic工作流中CPU动态能耗占比可达44%，比传统AI高3~4倍。\n\n简单说，Agentic AI把“思考”交给GPU，但把“做事/协调”交给CPU。CPU从“管家”变成了“总指挥”，必须大幅增加才能让整个系统高效运转。这就是CPU占比扩大的核心驱动（Intel、AMD、Arm、TrendForce等一致观点）。\n\n2、CPU成为新紧缺环节的现实证据\n今年Q1 Intel/AMD服务器CPU交期已经拉到6-12周，部分型号基本售罄，价格也提了10%以上。厂商自己都说“demand far exceeded expectations”。不是产能不够，而是Agentic AI把CPU从“可有可无”直接干成了“必须配足”的总指挥。\n\n数据中心项目现在除了电力，就是CPU卡脖子最严重。传统x86（Intel/AMD）高功耗+产能紧张，供应链直接打爆。\n\n3、CPU缺口会有多大？\n行业共识是CPU:GPU比例将显著拉近，CPU需求大幅提升：从传统1:4~1:8（CPU:GPU）转向1:1~1:2（部分场景甚至1.4:1，即CPU比GPU还多）。看之前Arm估算，每GW算力需要的CPU核心从3000万激增到1.2亿（4倍增长）\n\nCPU算力份额：在Agentic工作流中，CPU承担的算力比未来机架/集群可能从“GPU主导”转向更平衡，甚至出现专用CPU rack来支撑Agentic编排；AMD/NVIDIA新一代平台已开始按1:2~1:4设计\n\n这就带来了CPU需求的真实拐点，是实打实的硬件重构。\n\n4、特别要说下ARM服务器CPU会更受益一些？\nAgentic AI最需要的就是“高核心数+低功耗+稳定串行处理”。ARM天生多核可扩展、perf/watt领先：Arm AGI CPU（136核，TDP仅300W）对比x86同规格功耗低40%+，每机架性能直接翻倍。风冷机架就能塞8000+核，液冷更能到4万+核，完美解决数据中心的“功耗墙”。\n\n更狠的是生态大转向：AWS Graviton、Google Axion、Microsoft Cobalt早就自研ARM，云巨头集体“去x86化”。Arm 3月直接下场自研AGI CPU（首款量产芯片），Meta、OpenAI、Cerebras都是首发伙伴，OEM有联想、Supermicro。\n\nCounterpoint预测：AI ASIC服务器CPU里，ARM份额从2025年25%干到2029年90%。Arm自己说，这波能把数据中心CPU TAM从30亿版税干到1000亿+，未来几年服务器CPU营收很可能超手机，成为最大增长极。\n\n看下周和5月初英特尔、amd的财报电话会上，cpu实际出货量的变化、以及cpu的真实价格变化。这能说明真的有多紧缺。\n\n5、CPU紧缺哪些公司会受益？\n梳理了下哪些公司会受益，后续关注起来：\n美股最核心：\nIntel (INTC)ntel 依然是服务器 CPU 市场的霸主。短缺潮会提升其过往型号的利润率，且其 Gaudi 与 Xeon 的组合在代理推理端有强劲需求。\n\nAMD (AMD)：理由：在 Agentic AI 服务器市场，AMD 的 EPYC 处理器因多核心优势和高性价比，目前在云厂商中的市占率持续提升，是 GPU+CPU 均衡配置趋势下的首选。\n\nArm Holdings (ARM)：越来越多的云厂商（亚马逊、微软、谷歌）开始自研基于 ARM 架构的 CPU。无论谁赢，只要 Agent 需求推高 CPU 核心数，Arm 的授权费就会大涨。\n\n港股（制造与分销关键点）\n中芯国际 (0981)：虽然其在最先进制程受限，但大量非核心逻辑控制芯片（支持 CPU 运作的辅助芯片）和中端 CPU 的需求外溢，会显著提升其产能利用率。\n\n联想集团 (0992)：全球第一大服务器与 PC 厂商。在短缺潮初期，拥有强大供应链管理能力和库存的大厂能通过提价和保证供应，抢占更多政企市场份额。\n\nA股（国产替代与配套产业链）\n海光信息 (688041)：国产 x86 服务器 CPU 的龙头。在 Agentic AI 时代，由于其架构与全球生态兼容性最好，国内算力中心在补齐 CPU 短缺时，海光是第一顺位替代品。\n\n龙芯中科 (688047)：自主架构 CPU 的代表。随着国产自主可控需求增强，在党政和关键基础设施的 Agent 应用中受益。\n\n深南电路 (002916) / 沪电股份 (002463)：理由：配套受益。CPU 核心数增加和 GPU+CPU 配比调整，要求更复杂的 PCB（印制电路板）和封装基板，这些公司是全球高端服务器 PCB 的主力供应商。\n\n澜起科技 (688008)：内存接口芯片龙头。只要 CPU 多，内存条就多。Agent 时代对内存带宽要求极高，其 MRDIMM 和内存接口芯片是 CPU 性能爆发的必需品。\n\n投资逻辑核心其实两点：\n1）量价齐升：CPU 厂商（AMD, Intel, arm、海光）最直接。\n2）卖铲子的人：由于 Agent 需要高带宽，内存配套（澜起）和先进封装/基板（深南）的需求甚至比 CPU 本身更稳。",
+        "contentHtml": "生成式AI往代理式AI迁移中，新的卡脖子环节又出现了，这次是CPU。之前市场关于算力紧缺的讨论都在GPU、HBM、光模块、电力等环节，其实对于CPU的关注比较少。其实Cpu的紧缺传了一段时间了，看最近英特尔、AMD走势最核心驱动力就是来自cpu开始出现紧缺了，甚至连过往不怎么受待见的港股联想集团，最近两周走的也很强。\n\n1、为什agentic ai时代CPU占比会扩大？\n传统AI（主要是大模型训练/推理）高度依赖GPU，因为Transformer的核心是并行矩阵运算，GPU擅长高吞吐的并行计算。这时CPU主要只负责“辅助”：数据路由、内存压缩、GPU调度等，导致数据中心CPU:GPU比例很低（典型1:4~1:8，甚至1颗CPU管8颗GPU）。CPU利用率低，基本是配角。 \n\nAgentic AI完全不同，它不是单次“问答”，而是自主多步循环（Planning → Tool Use → Act → Observe → Reflect → Iterate），涉及：\n1）编排：调度子任务、多智能体协作、分支逻辑、重试机制。\n2）工具调用：网页搜索、API调用、代码执行、数据库查询、向量检索（RAG）、文件处理等。\n3）其他CPU密集任务：上下文管理、KV Cache处理、强化学习（RL）仿真评估、数据预/后处理。\n\n这些任务高度串行、I/O密集、逻辑分支多，GPU并不擅长（甚至会闲置）。研究显示：工具处理阶段在CPU上可占总延迟的50%~90.6%（GPU在等待CPU）。Agentic工作流中CPU动态能耗占比可达44%，比传统AI高3~4倍。\n\n简单说，Agentic AI把“思考”交给GPU，但把“做事/协调”交给CPU。CPU从“管家”变成了“总指挥”，必须大幅增加才能让整个系统高效运转。这就是CPU占比扩大的核心驱动（Intel、AMD、Arm、TrendForce等一致观点）。\n\n2、CPU成为新紧缺环节的现实证据\n今年Q1 Intel/AMD服务器CPU交期已经拉到6-12周，部分型号基本售罄，价格也提了10%以上。厂商自己都说“demand far exceeded expectations”。不是产能不够，而是Agentic AI把CPU从“可有可无”直接干成了“必须配足”的总指挥。\n\n数据中心项目现在除了电力，就是CPU卡脖子最严重。传统x86（Intel/AMD）高功耗+产能紧张，供应链直接打爆。\n\n3、CPU缺口会有多大？\n行业共识是CPU:GPU比例将显著拉近，CPU需求大幅提升：从传统1:4~1:8（CPU:GPU）转向1:1~1:2（部分场景甚至1.4:1，即CPU比GPU还多）。看之前Arm估算，每GW算力需要的CPU核心从3000万激增到1.2亿（4倍增长）\n\nCPU算力份额：在Agentic工作流中，CPU承担的算力比未来机架/集群可能从“GPU主导”转向更平衡，甚至出现专用CPU rack来支撑Agentic编排；AMD/NVIDIA新一代平台已开始按1:2~1:4设计\n\n这就带来了CPU需求的真实拐点，是实打实的硬件重构。\n\n4、特别要说下ARM服务器CPU会更受益一些？\nAgentic AI最需要的就是“高核心数+低功耗+稳定串行处理”。ARM天生多核可扩展、perf/watt领先：Arm AGI CPU（136核，TDP仅300W）对比x86同规格功耗低40%+，每机架性能直接翻倍。风冷机架就能塞8000+核，液冷更能到4万+核，完美解决数据中心的“功耗墙”。\n\n更狠的是生态大转向：AWS Graviton、Google Axion、Microsoft Cobalt早就自研ARM，云巨头集体“去x86化”。Arm 3月直接下场自研AGI CPU（首款量产芯片），Meta、OpenAI、Cerebras都是首发伙伴，OEM有联想、Supermicro。\n\nCounterpoint预测：AI ASIC服务器CPU里，ARM份额从2025年25%干到2029年90%。Arm自己说，这波能把数据中心CPU TAM从30亿版税干到1000亿+，未来几年服务器CPU营收很可能超手机，成为最大增长极。\n\n看下周和5月初英特尔、amd的财报电话会上，cpu实际出货量的变化、以及cpu的真实价格变化。这能说明真的有多紧缺。\n\n5、CPU紧缺哪些公司会受益？\n梳理了下哪些公司会受益，后续关注起来：\n美股最核心：\nIntel (INTC)ntel 依然是服务器 CPU 市场的霸主。短缺潮会提升其过往型号的利润率，且其 Gaudi 与 Xeon 的组合在代理推理端有强劲需求。\n\nAMD (AMD)：理由：在 Agentic AI 服务器市场，AMD 的 EPYC 处理器因多核心优势和高性价比，目前在云厂商中的市占率持续提升，是 GPU+CPU 均衡配置趋势下的首选。\n\nArm Holdings (ARM)：越来越多的云厂商（亚马逊、微软、谷歌）开始自研基于 ARM 架构的 CPU。无论谁赢，只要 Agent 需求推高 CPU 核心数，Arm 的授权费就会大涨。\n\n港股（制造与分销关键点）\n中芯国际 (0981)：虽然其在最先进制程受限，但大量非核心逻辑控制芯片（支持 CPU 运作的辅助芯片）和中端 CPU 的需求外溢，会显著提升其产能利用率。\n\n联想集团 (0992)：全球第一大服务器与 PC 厂商。在短缺潮初期，拥有强大供应链管理能力和库存的大厂能通过提价和保证供应，抢占更多政企市场份额。\n\nA股（国产替代与配套产业链）\n海光信息 (688041)：国产 x86 服务器 CPU 的龙头。在 Agentic AI 时代，由于其架构与全球生态兼容性最好，国内算力中心在补齐 CPU 短缺时，海光是第一顺位替代品。\n\n龙芯中科 (688047)：自主架构 CPU 的代表。随着国产自主可控需求增强，在党政和关键基础设施的 Agent 应用中受益。\n\n深南电路 (002916) / 沪电股份 (002463)：理由：配套受益。CPU 核心数增加和 GPU+CPU 配比调整，要求更复杂的 PCB（印制电路板）和封装基板，这些公司是全球高端服务器 PCB 的主力供应商。\n\n澜起科技 (688008)：内存接口芯片龙头。只要 CPU 多，内存条就多。Agent 时代对内存带宽要求极高，其 MRDIMM 和内存接口芯片是 CPU 性能爆发的必需品。\n\n投资逻辑核心其实两点：\n1）量价齐升：CPU 厂商（AMD, Intel, arm、海光）最直接。\n2）卖铲子的人：由于 Agent 需要高带宽，内存配套（澜起）和先进封装/基板（深南）的需求甚至比 CPU 本身更稳。",
+        "link": "https://x.com/qinbafrank/status/2045031360004558969",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HGFo_i8aoAEvBou.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2088139886754685330",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "我非常看好AI，但最近有一个担心在慢慢成长。万亿基建钱哪里来？\n债市，股市，证券化产品，另类资产等等。\n对股市来说，可能会形成两极分化，完全不受AI影响的价值股会比较安全，银行偏投行业务的一样会受益万亿融资，是最保守的AI Play，可以保持估值\nAI前沿的，光，存储，芯片，云，波动大\n中间非AI的高成长公司，估值被压缩\n因为钱只有这些，债市增发利差上升，利率上升，吸引部分股市投资者，股市模型公司上市，企业增发造数据中心，全部都是吸血行为，所以即使在EPS加速的情况下，可能我们也不应该期待PE能回到历史高位，如果超过，那可能真往泡沫走了，就得非常非常小心。\n当下股市都新高，指数估值却在低位，部分也反应了这种情况吧。建立一种合理的回报预期，不要期待估值扩张，能走出EPS增速的股价涨幅就很好了",
+      "contentHtml": "我非常看好AI，但最近有一个担心在慢慢成长。万亿基建钱哪里来？\n债市，股市，证券化产品，另类资产等等。\n对股市来说，可能会形成两极分化，完全不受AI影响的价值股会比较安全，银行偏投行业务的一样会受益万亿融资，是最保守的AI Play，可以保持估值\nAI前沿的，光，存储，芯片，云，波动大\n中间非AI的高成长公司，估值被压缩\n因为钱只有这些，债市增发利差上升，利率上升，吸引部分股市投资者，股市模型公司上市，企业增发造数据中心，全部都是吸血行为，所以即使在EPS加速的情况下，可能我们也不应该期待PE能回到历史高位，如果超过，那可能真往泡沫走了，就得非常非常小心。\n当下股市都新高，指数估值却在低位，部分也反应了这种情况吧。建立一种合理的回报预期，不要期待估值扩张，能走出EPS增速的股价涨幅就很好了",
+      "publishedAt": "2026-08-14T05:45:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2088139886754685330",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2088132904706863290",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2085191114496311296/II9mvaaN_bigger.jpg",
+      "content": "近期关注的一些有意思的nft项目，不能保证每个都是好项目和赚钱，只能说是我审美里还不错的一些项目。交给时间来检验",
+      "contentHtml": "近期关注的一些有意思的nft项目，不能保证每个都是好项目和赚钱，只能说是我审美里还不错的一些项目。交给时间来检验",
+      "publishedAt": "2026-08-14T05:17:00.000Z",
+      "link": "https://x.com/0xleng1/status/2088132904706863290",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPqJzn8a0AAYKLT.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPqJzoAawAA2OV1.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPqJzoAaEAAqHDt.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2088128899553034299",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "这种新闻也可以传吗？今天也看到很多在聊陈立武的最新采访。\n果然都是不听财报会议的。\n既然情绪面都到了，那就拉一波吧🫡",
+      "contentHtml": "这种新闻也可以传吗？今天也看到很多在聊陈立武的最新采访。\n果然都是不听财报会议的。\n既然情绪面都到了，那就拉一波吧🫡",
+      "publishedAt": "2026-08-14T05:01:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2088128899553034299",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPqGKxzWIAAJW_5.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2088122309169279114",
       "username": "Bitfatty",
@@ -11937,165 +12051,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HOcVEN2bUAAtKoX.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085184085216178459",
-      "username": "Murphychen888",
-      "displayName": "Murphy",
-      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
-      "content": "后续更新：这2天继续观察LTH的行为，有以下发现：\n\n1、每天的转移量开始下降。只有7/31-8/1这2天特别高（6.5w枚），8/3-8/4已经降到了3.8w枚。但比平时1-1.5w枚的数量还是多出不少。\n\n2、这其中转入交易所的数量，并没有明显放大。\n\n如此看来LTH突然大规模转移筹码，应该是受到某个突发事件的影响，比如coldcard的安全漏洞。\n\n这些移动的筹码大部分并不是因为避险预期而充入交易所，也就不会形成特别大的卖压。\n\n也有小部分，可能和微策略再次卖币有些关系。\n\n毕竟他们又开始向市场吹风可能将卖币额度提高到50亿美元。而它又是很多LTH心理的锚。\n\n至少目前来看，这部分充入交易所的潜在抛压，市场还能承接的住，也暂时无法打破脆弱的平衡。\n\n风险的累积也可以持续很久，关键看是什么样的外部力量，何时去引爆它。\n\n那就看看还有其他什么潜在的因素，能成为那根点燃市场的“引线”。",
-      "contentHtml": "后续更新：这2天继续观察LTH的行为，有以下发现：\n\n1、每天的转移量开始下降。只有7/31-8/1这2天特别高（6.5w枚），8/3-8/4已经降到了3.8w枚。但比平时1-1.5w枚的数量还是多出不少。\n\n2、这其中转入交易所的数量，并没有明显放大。\n\n如此看来LTH突然大规模转移筹码，应该是受到某个突发事件的影响，比如coldcard的安全漏洞。\n\n这些移动的筹码大部分并不是因为避险预期而充入交易所，也就不会形成特别大的卖压。\n\n也有小部分，可能和微策略再次卖币有些关系。\n\n毕竟他们又开始向市场吹风可能将卖币额度提高到50亿美元。而它又是很多LTH心理的锚。\n\n至少目前来看，这部分充入交易所的潜在抛压，市场还能承接的住，也暂时无法打破脆弱的平衡。\n\n风险的累积也可以持续很久，关键看是什么样的外部力量，何时去引爆它。\n\n那就看看还有其他什么潜在的因素，能成为那根点燃市场的“引线”。",
-      "publishedAt": "2026-08-06T02:00:00.000Z",
-      "link": "https://x.com/Murphychen888/status/2085184085216178459",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO9tw-NakAAYFsc.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HO9tzUibMAAWpBD.jpg"
-        }
-      ],
-      "quote": {
-        "username": "Murphychen888",
-        "displayName": "Murphy",
-        "content": "确实有点奇怪！最近2天长期持有者（LTH）突然大规模转移筹码。\n\n连续两天都有6.5w+枚BTC发生移动（剔除同一实体的内部转账），从而导致LTH净持仓大幅下降。\n\n如图2所示，LTH净持仓从5月就开始改变了之前持续上升的节奏，到7月一直“停滞不前”。\n\n而这是近1年来及其少见的现象。\n\n其中有近1.4w枚BTC被转入了交易所。比如，川普的上市公司把2,628枚BTC转进Crypto .com交易所，就是其中的一部分。\n\n而除此之外其他的LTH的净减持，去向了何处，又是什么目的，我们就不得而知了。\n\n难道是他们知道了什么，选择提前避险？\n\n要说宏观上可能存在的风险隐患，尤其是对BTC有影响的，我能想到的就以下这些了：\n\n1⃣  美联储加息的可能。这一次就是9:3的分裂投票，也是16年9月以来异议票最多的一次。\n\n2⃣  中东冲突和油价是通胀最大的变量，也是第1条的上游环节。\n\n3⃣  美股AI板块估值高度集中，且资本开支越来越依赖债务和私人信贷融资，一旦收入兑现不及预期，融资成本上升，可能触发系统性去杠杆。\n\n4⃣  日元套息交易的仓位又一次堆到了单边净空，拥挤且接近历史极端状态。\n\n还有其他的吗？也欢迎小伙伴们帮我补充。\n\n最后，就是当前BTC自身筹码结构的敏感性，也会在无形中放大以上可能存在的风险点。\n\n--------------------------------\n\n当然这不代表一定会发生，只是我们对LTH突然出现的反常行为作出的臆测而已。\n\n事出反常必有妖，近期应密切关注LTH的行为变化。\n\n如果持续大规模派发，势必会给市场带来承压。如果只是短暂的个别行为，那就影响不大。",
-        "contentHtml": "确实有点奇怪！最近2天长期持有者（LTH）突然大规模转移筹码。\n\n连续两天都有6.5w+枚BTC发生移动（剔除同一实体的内部转账），从而导致LTH净持仓大幅下降。\n\n如图2所示，LTH净持仓从5月就开始改变了之前持续上升的节奏，到7月一直“停滞不前”。\n\n而这是近1年来及其少见的现象。\n\n其中有近1.4w枚BTC被转入了交易所。比如，川普的上市公司把2,628枚BTC转进Crypto .com交易所，就是其中的一部分。\n\n而除此之外其他的LTH的净减持，去向了何处，又是什么目的，我们就不得而知了。\n\n难道是他们知道了什么，选择提前避险？\n\n要说宏观上可能存在的风险隐患，尤其是对BTC有影响的，我能想到的就以下这些了：\n\n1⃣  美联储加息的可能。这一次就是9:3的分裂投票，也是16年9月以来异议票最多的一次。\n\n2⃣  中东冲突和油价是通胀最大的变量，也是第1条的上游环节。\n\n3⃣  美股AI板块估值高度集中，且资本开支越来越依赖债务和私人信贷融资，一旦收入兑现不及预期，融资成本上升，可能触发系统性去杠杆。\n\n4⃣  日元套息交易的仓位又一次堆到了单边净空，拥挤且接近历史极端状态。\n\n还有其他的吗？也欢迎小伙伴们帮我补充。\n\n最后，就是当前BTC自身筹码结构的敏感性，也会在无形中放大以上可能存在的风险点。\n\n--------------------------------\n\n当然这不代表一定会发生，只是我们对LTH突然出现的反常行为作出的臆测而已。\n\n事出反常必有妖，近期应密切关注LTH的行为变化。\n\n如果持续大规模派发，势必会给市场带来承压。如果只是短暂的个别行为，那就影响不大。",
-        "link": "https://x.com/Murphychen888/status/2084096921447383160",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOuSuHnbUAAIecT.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOuSuCybkAAHQwK.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085183400680493108",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "看透这次谷歌管理架构调整背后的深意，昨晚jeff离职，谷歌也随之宣布对GoogleDeepMind管理架构重大调整。具体人事与职责变化如下：\n1）Demis Hassabis（原Google DeepMind CEO，诺奖得主）卸任日常运营职责，转为GDM主席+Alphabet首席科学家，继续领导Isomorphic Labs（AI药物发现子公司）。\n2）Koray Kavukcuoglu（原GDM首席技术官CTO + Google首席AI架构师），升任Google DeepMind高级副总裁，直接向Sundar Pichai汇报（不再设独立GDM CEO头衔）。全面负责Gemini模型开发、前沿AI研究、Gemini应用及开发者团队。\n\n能看出调整后，DeepMind日常运营更紧密整合到谷歌体系下（SVP直接向CEO汇报），战略/科学与产品执行职责进一步分离。\n\n深聊下谷歌或者劈柴的意图是什么？\n1、表面上是Gemini模型延迟带来的调整，Gemini 3.5 Pro等旗舰版本原计划2026年6月左右发布（I/O上Pichai曾表态“下个月”），但因能力（尤其是编码、推理、agentic表现）未达内部目标、需额外迭代与测试而推迟，到现在还没全面推出。公司同时推进Flash等轻量版本和Gemini 4训练。延迟引发内部挫折与外部对竞争力的质疑。\n\n在这个时间窗口里劈柴将日常产品/模型交付（Gemini开发）更明确交给偏运营/技术落地的Koray，Hassabis抽身战略与科学（减少日常管理负担），同时处理Jeff Dean等核心人物的离开。\n这客观上实现了职责更清晰的划分\n\n2、终极目的应该是为AI下一阶段（从当前生成式模型向更强的agentic系统与AGI过渡）做组织准备\n1）战略与运营分离\nHassabis作为“首席科学家+主席”专注大图景、AGI安全/影响、全球政策对话与科学应用（尤其健康/药物），避免被日常运营分散；\nKoray专注产品落地与前沿模型交付，直接向CEO负责，提升执行敏捷性。\n\n2）强化全栈优势与科学落地\n利用谷歌从基础设施、云到模型到应用的完整能力，同时加速Isomorphic等科学突破，证明AI对人类的实际价值。\n\n3）组织整合\nDeepMind更深度嵌入谷歌体系，减少“独立实验室”色彩，强化统一指挥。之前DeepMind还是独立性更强，调整后劈柴能更直接的把控，跟谷歌业务融合的可能也更好。\n\n再面临激烈的竞争下，大公司天然倾向首先调整组织架构。“事为先、但人为重”好的组织架构能迸发强大能量。\n\n这也标志着谷歌AI组织从“研究驱动+整合”向“战略AGI导向+强产品执行”的再平衡。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "contentHtml": "看透这次谷歌管理架构调整背后的深意，昨晚jeff离职，谷歌也随之宣布对GoogleDeepMind管理架构重大调整。具体人事与职责变化如下：\n1）Demis Hassabis（原Google DeepMind CEO，诺奖得主）卸任日常运营职责，转为GDM主席+Alphabet首席科学家，继续领导Isomorphic Labs（AI药物发现子公司）。\n2）Koray Kavukcuoglu（原GDM首席技术官CTO + Google首席AI架构师），升任Google DeepMind高级副总裁，直接向Sundar Pichai汇报（不再设独立GDM CEO头衔）。全面负责Gemini模型开发、前沿AI研究、Gemini应用及开发者团队。\n\n能看出调整后，DeepMind日常运营更紧密整合到谷歌体系下（SVP直接向CEO汇报），战略/科学与产品执行职责进一步分离。\n\n深聊下谷歌或者劈柴的意图是什么？\n1、表面上是Gemini模型延迟带来的调整，Gemini 3.5 Pro等旗舰版本原计划2026年6月左右发布（I/O上Pichai曾表态“下个月”），但因能力（尤其是编码、推理、agentic表现）未达内部目标、需额外迭代与测试而推迟，到现在还没全面推出。公司同时推进Flash等轻量版本和Gemini 4训练。延迟引发内部挫折与外部对竞争力的质疑。\n\n在这个时间窗口里劈柴将日常产品/模型交付（Gemini开发）更明确交给偏运营/技术落地的Koray，Hassabis抽身战略与科学（减少日常管理负担），同时处理Jeff Dean等核心人物的离开。\n这客观上实现了职责更清晰的划分\n\n2、终极目的应该是为AI下一阶段（从当前生成式模型向更强的agentic系统与AGI过渡）做组织准备\n1）战略与运营分离\nHassabis作为“首席科学家+主席”专注大图景、AGI安全/影响、全球政策对话与科学应用（尤其健康/药物），避免被日常运营分散；\nKoray专注产品落地与前沿模型交付，直接向CEO负责，提升执行敏捷性。\n\n2）强化全栈优势与科学落地\n利用谷歌从基础设施、云到模型到应用的完整能力，同时加速Isomorphic等科学突破，证明AI对人类的实际价值。\n\n3）组织整合\nDeepMind更深度嵌入谷歌体系，减少“独立实验室”色彩，强化统一指挥。之前DeepMind还是独立性更强，调整后劈柴能更直接的把控，跟谷歌业务融合的可能也更好。\n\n再面临激烈的竞争下，大公司天然倾向首先调整组织架构。“事为先、但人为重”好的组织架构能迸发强大能量。\n\n这也标志着谷歌AI组织从“研究驱动+整合”向“战略AGI导向+强产品执行”的再平衡。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "publishedAt": "2026-08-06T01:57:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2085183400680493108",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPAPPgVboAAptTl.jpg"
-        }
-      ],
-      "quote": {
-        "username": "qinbafrank",
-        "displayName": "qinbafrank",
-        "content": "谷歌最近出啥问题了？接连损失大将。刚刚杰夫.迪恩宣布从谷歌离职创立Discovery Loop。这位非常不简单，杰夫.迪恩是计算机科学与人工智能领域的传奇人物，被誉为“谷歌的系统架构总设计师”和硅谷“程序员中的程序员”。\n1、杰夫离职前担任谷歌首席科学家兼任 Google DeepMind 和 Google Research 的核心技术领袖。是Google Senior Fellow/Level 11，在谷歌数十万员工中，能达到 Level 11 的极度罕见，几乎代表了整个谷歌技术体系的终极权威。\n\n2、Jeff Dean在谷歌工作27年，其职业生涯贯穿了互联网海量数据处理时代与现代人工智能时代，其核心成就可分为三大阶段：\n1）奠定现代互联网基础的基础设施（2000年代）\n在谷歌成立早期，他主导开发了一系列支撑起整个 Google 生态（乃至全行业大数据架构）的基础系统：\nMapReduce：划时代的分布式计算框架。它将庞大的数据处理任务拆分到数万台普通服务器上并行运行，是后来的 Hadoop 等大数据技术的直接灵感来源。\nBigtable：高扩展性、高性能的分布式结构化数据存储系统，直接催生了后来的 NoSQL 数据库浪潮（如 HBase）。\nSpanner：全球级分布式 SQL 数据库，打破了传统数据库“一致性”与“可用性”难以兼得的困境。\n搜索与广告系统架构：主导设计了谷歌早期的五代搜索索引与抓取系统，以及 AdSense 广告投放系统的早期基础设施。\n\n2）推动 AI 革命与深度学习生态（2010年代）\n创建 Google Brain（谷歌大脑）：2011 年与吴恩达（Andrew Ng）等人共同创办 Google Brain，将深度学习引入谷歌的核心业务。\nTensorFlow：主导打造并开源了全球最著名的深度学习框架之一 TensorFlow，极大地降低了全球研究者和开发者使用 AI 的门槛。\nDistBelief & Pathways：先后设计了 DistBelief（早期大规模分布式神经网络训练系统） 和 Pathways 架构（为后续训练 PaLM、Gemini 等超大规模多模态大模型奠定了系统支撑）。\n\n3）整合与领军时代（2020年代）\n统领 Google AI 与 DeepMind 融合，杰夫曾长期担任 Google AI（Google Research）负责人。2023 年 Google Brain 与 DeepMind 合并为 Google DeepMind 后，他作为首席科学家，重点统筹下一代超大模型（如 Gemini 系列）的系统架构与前沿 AI 研发。\n\n前段时间谷歌还有两位大拿离开：\n1）Google DeepMind 副总裁 John Jumper跳槽至 Anthropic，这位因带领团队打造预测蛋白质结构的革命性 AI 模型 AlphaFold，与 Demis Hassabis 共同获得 2024 年诺贝尔化学奖。\n\n2）谷歌工程副总裁兼旗舰模型 Gemini 联合负责人Noam Shazeer跳槽至 OpenAI。\nNoam Shazeer 是Transformer 架构奠基人之一：2017 年奠定现代大模型基础的划时代论文《Attention Is All You Need》的共同作者。\n\n前线厮杀正浓，统兵大将接连离开，对谷歌影响应该不小。",
-        "contentHtml": "谷歌最近出啥问题了？接连损失大将。刚刚杰夫.迪恩宣布从谷歌离职创立Discovery Loop。这位非常不简单，杰夫.迪恩是计算机科学与人工智能领域的传奇人物，被誉为“谷歌的系统架构总设计师”和硅谷“程序员中的程序员”。\n1、杰夫离职前担任谷歌首席科学家兼任 Google DeepMind 和 Google Research 的核心技术领袖。是Google Senior Fellow/Level 11，在谷歌数十万员工中，能达到 Level 11 的极度罕见，几乎代表了整个谷歌技术体系的终极权威。\n\n2、Jeff Dean在谷歌工作27年，其职业生涯贯穿了互联网海量数据处理时代与现代人工智能时代，其核心成就可分为三大阶段：\n1）奠定现代互联网基础的基础设施（2000年代）\n在谷歌成立早期，他主导开发了一系列支撑起整个 Google 生态（乃至全行业大数据架构）的基础系统：\nMapReduce：划时代的分布式计算框架。它将庞大的数据处理任务拆分到数万台普通服务器上并行运行，是后来的 Hadoop 等大数据技术的直接灵感来源。\nBigtable：高扩展性、高性能的分布式结构化数据存储系统，直接催生了后来的 NoSQL 数据库浪潮（如 HBase）。\nSpanner：全球级分布式 SQL 数据库，打破了传统数据库“一致性”与“可用性”难以兼得的困境。\n搜索与广告系统架构：主导设计了谷歌早期的五代搜索索引与抓取系统，以及 AdSense 广告投放系统的早期基础设施。\n\n2）推动 AI 革命与深度学习生态（2010年代）\n创建 Google Brain（谷歌大脑）：2011 年与吴恩达（Andrew Ng）等人共同创办 Google Brain，将深度学习引入谷歌的核心业务。\nTensorFlow：主导打造并开源了全球最著名的深度学习框架之一 TensorFlow，极大地降低了全球研究者和开发者使用 AI 的门槛。\nDistBelief & Pathways：先后设计了 DistBelief（早期大规模分布式神经网络训练系统） 和 Pathways 架构（为后续训练 PaLM、Gemini 等超大规模多模态大模型奠定了系统支撑）。\n\n3）整合与领军时代（2020年代）\n统领 Google AI 与 DeepMind 融合，杰夫曾长期担任 Google AI（Google Research）负责人。2023 年 Google Brain 与 DeepMind 合并为 Google DeepMind 后，他作为首席科学家，重点统筹下一代超大模型（如 Gemini 系列）的系统架构与前沿 AI 研发。\n\n前段时间谷歌还有两位大拿离开：\n1）Google DeepMind 副总裁 John Jumper跳槽至 Anthropic，这位因带领团队打造预测蛋白质结构的革命性 AI 模型 AlphaFold，与 Demis Hassabis 共同获得 2024 年诺贝尔化学奖。\n\n2）谷歌工程副总裁兼旗舰模型 Gemini 联合负责人Noam Shazeer跳槽至 OpenAI。\nNoam Shazeer 是Transformer 架构奠基人之一：2017 年奠定现代大模型基础的划时代论文《Attention Is All You Need》的共同作者。\n\n前线厮杀正浓，统兵大将接连离开，对谷歌影响应该不小。",
-        "link": "https://x.com/qinbafrank/status/2085042615452659821",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HO-PNLnbEAEY1x3.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085174650653573450",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
-      "content": "「Liq 建構與破壞的循環」：持續縮窄的引力區間🥅\n\n承接下方引文，今天再來和各位報告 BTC 最新的 Liq 狀況。\n\n📝 先說結論：\n🔺 原先位於 67.3K、61K 的 Liq 引力（清掃需求）依然存在\n🔺 上方：65.8K 附近出現了新的 Trendline Liq 引力\n🔺 下方：62.2K 出現了小級別的 Equal Lows 引力\n\n//\n\n如附圖所示：\n雖然 BTC 自本週一開始，出現了一波連續的小碎步上漲，\n但這波上漲其實完全沒有清掃到原先存在的 Liquidity，\n並且甚至又分別在上、下方形成了新的 Liq 引力：\n➡️ 65.8K：Trendline Liq 引力\n➡️ 62.2K：Equal Lows 引力\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n\n並且，不知各位是否有注意到一個小細節：\n除了原先的 Liq 一直未被清掃之外，新形成的 Liq 夾出的區間，\n正在出現「縮窄」的趨勢，結合我在上週週報提及的 URPD 堆積訊號，\n種種跡象似乎都在向我們暗示：\n「當前的行情正如同一個彈簧持續蓄勢，且即將壓縮至極限，隨時準備出方向⚠️」\n\n📖 貝格鏈上週報（八十八）：要憋多久？\nnitter.net/market_beggar/status/2…\n\n最後，相信下次和各位更新 Liq 狀況的時候，\n上述的 Liq 有極大概率會被部分清掃（全部清掃更好，方向更明確），\nBTC 不可能永遠維持在當前這個窄區間震盪的低波動狀態，\n即便我們難以透過 Liq 引力判斷方向，但波動率的放大已是必然的趨勢。\n\n安全帶繫好，暴風雨要來了。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\nBTC 長、短期持有者成本數據更新：交叉遙遙無期？\nnitter.net/market_beggar/status/2…\n\n「鐵底神話」CVDD 最新數據更新\nnitter.net/market_beggar/status/2…\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\nnitter.net/market_beggar/status/2…",
-      "contentHtml": "「Liq 建構與破壞的循環」：持續縮窄的引力區間🥅\n\n承接下方引文，今天再來和各位報告 BTC 最新的 Liq 狀況。\n\n📝 先說結論：\n🔺 原先位於 67.3K、61K 的 Liq 引力（清掃需求）依然存在\n🔺 上方：65.8K 附近出現了新的 Trendline Liq 引力\n🔺 下方：62.2K 出現了小級別的 Equal Lows 引力\n\n//\n\n如附圖所示：\n雖然 BTC 自本週一開始，出現了一波連續的小碎步上漲，\n但這波上漲其實完全沒有清掃到原先存在的 Liquidity，\n並且甚至又分別在上、下方形成了新的 Liq 引力：\n➡️ 65.8K：Trendline Liq 引力\n➡️ 62.2K：Equal Lows 引力\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\n並且，不知各位是否有注意到一個小細節：\n除了原先的 Liq 一直未被清掃之外，新形成的 Liq 夾出的區間，\n正在出現「縮窄」的趨勢，結合我在上週週報提及的 URPD 堆積訊號，\n種種跡象似乎都在向我們暗示：\n「當前的行情正如同一個彈簧持續蓄勢，且即將壓縮至極限，隨時準備出方向⚠️」\n\n📖 貝格鏈上週報（八十八）：要憋多久？\n<a href=\"https://nitter.net/market_beggar/status/2083819402060063095\">nitter.net/market_beggar/status/2…</a>\n\n最後，相信下次和各位更新 Liq 狀況的時候，\n上述的 Liq 有極大概率會被部分清掃（全部清掃更好，方向更明確），\nBTC 不可能永遠維持在當前這個窄區間震盪的低波動狀態，\n即便我們難以透過 Liq 引力判斷方向，但波動率的放大已是必然的趨勢。\n\n安全帶繫好，暴風雨要來了。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\nBTC 長、短期持有者成本數據更新：交叉遙遙無期？\n<a href=\"https://nitter.net/market_beggar/status/2084818219072954827\">nitter.net/market_beggar/status/2…</a>\n\n「鐵底神話」CVDD 最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2084449286927049028\">nitter.net/market_beggar/status/2…</a>\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\n<a href=\"https://nitter.net/market_beggar/status/2081926743783592189\">nitter.net/market_beggar/status/2…</a>",
-      "publishedAt": "2026-08-06T01:22:00.000Z",
-      "link": "https://x.com/market_beggar/status/2085174650653573450",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPAHSqAaIAArL5R.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「持續蓄勢的橫向結構」：Liq 引力持續作用中🧲\n\n眨眼間，又到了週內廝殺最激烈的星期一；\n同時，日復一日，不知不覺間已進入了八月。\n\n承接下方引文，按慣例，今天再來從 Liq 的角度和各位報告市況。\n上週和各位提及的 62.4K 流動性，現已如期清理；\n但 BTC 目前仍未脫離「流動性拔河」的洗盤階段。\n\n//\n\n如附圖所示，幾項重點幫各位整理如下：\n🔺 市價上方：67.3K 存在 Equal Highs 的 Liq 引力（清掃需求）\n🔺 市價下方：61K 的 Trendline Liq 區域仍存在引力（清掃需求）\n🔺 下方引文中提及的 62.4K 流動性，已於 8/01 被清掃\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n\n換言之，目前 BTC 的狀況其實和前幾週差不太多，\n依然持續運行於「上下都存在 Liq 引力」的窄幅震盪區間中，\n這也能合理的解釋為何 BTC 最近中短期的走勢，總是上下來回拉扯。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\nnitter.net/market_beggar/status/1…\n\n除此之外：\nBTC 自 7/03 起，大部分的時間幾乎都在 61~65K、\n這個僅有約 7% 震幅的窄型區間內上沖下洗，\n這也就導致了在這個區域內，堆積了愈來愈多的籌碼換手量。\n\n關於「籌碼換手量」的這項議題，\n我在上週的分析帖（nitter.net/market_beggar/status/2…），\n以及每週的週報中都有詳細解釋其概念，有興趣的朋友可以自行參考。\n\n簡單來說：\nBTC 不可能一直保持運行在當前這個窄型區間內，\n並且隨著震盪時間的拉長，未來出現趨勢性走勢時的力度就會更大，\n這也就是我們在技術分析領域中，很常聽到的：「橫有多長、豎有多高」。\n\n最後，如果你是第一次接觸這個 Liq 技術分析系列的朋友，\n以下我會將過去一個月內，針對當前 Liq 區間的所有分析帖整理如下，\n提供給有需要的朋友參考，有任何疑問也歡迎在下方評論區詢問🔍\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n【🗂 BTC 自 7 月以來的震盪結構追蹤 & 分析帖】\n\nBTC「三種週期性底部結構」路徑推演🔥\nnitter.net/market_beggar/status/2…\n\n「Liq 爭奪戰」：波段看漲 Stop Hunt 訊號疑似出現（7/06）\nnitter.net/market_beggar/status/2…\n\n「戰況膠著」：小級別流動性拔河又又又一次重現（7/13）\nnitter.net/market_beggar/status/2…\n\n「分歧加劇」：小級別看跌 Liq 結構逐漸形成（7/20）\nnitter.net/market_beggar/status/2…\n\n「廝殺的白熱化」：疊合 STH-RP 的關鍵 Liquidity 區域（7/23）\nnitter.net/market_beggar/status/2…\n\n「波動壓縮」：靜待雙向的 Liquidity 清掃（7/27）\nnitter.net/market_beggar/status/2…\n\n//\n\n📚 相關閱讀資源\n\nBTC 長、短期持有者成本數據更新：誰在偷偷割肉\nnitter.net/market_beggar/status/2…\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\nnitter.net/market_beggar/status/2…\n\n兩道「深熊抄底市場成本線」最新數據更新\nnitter.net/market_beggar/status/2…",
-        "contentHtml": "「持續蓄勢的橫向結構」：Liq 引力持續作用中🧲\n\n眨眼間，又到了週內廝殺最激烈的星期一；\n同時，日復一日，不知不覺間已進入了八月。\n\n承接下方引文，按慣例，今天再來從 Liq 的角度和各位報告市況。\n上週和各位提及的 62.4K 流動性，現已如期清理；\n但 BTC 目前仍未脫離「流動性拔河」的洗盤階段。\n\n//\n\n如附圖所示，幾項重點幫各位整理如下：\n🔺 市價上方：67.3K 存在 Equal Highs 的 Liq 引力（清掃需求）\n🔺 市價下方：61K 的 Trendline Liq 區域仍存在引力（清掃需求）\n🔺 下方引文中提及的 62.4K 流動性，已於 8/01 被清掃\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\n換言之，目前 BTC 的狀況其實和前幾週差不太多，\n依然持續運行於「上下都存在 Liq 引力」的窄幅震盪區間中，\n這也能合理的解釋為何 BTC 最近中短期的走勢，總是上下來回拉扯。\n\n📖 全程貼文為証：我如何透過 liquidity 完美預測 ETH 的兩波暴漲\n<a href=\"https://nitter.net/market_beggar/status/1959793243404829167\">nitter.net/market_beggar/status/1…</a>\n\n除此之外：\nBTC 自 7/03 起，大部分的時間幾乎都在 61~65K、\n這個僅有約 7% 震幅的窄型區間內上沖下洗，\n這也就導致了在這個區域內，堆積了愈來愈多的籌碼換手量。\n\n關於「籌碼換手量」的這項議題，\n我在上週的分析帖（<a href=\"https://nitter.net/market_beggar/status/2083006515175387476\">nitter.net/market_beggar/status/2…</a>），\n以及每週的週報中都有詳細解釋其概念，有興趣的朋友可以自行參考。\n\n簡單來說：\nBTC 不可能一直保持運行在當前這個窄型區間內，\n並且隨著震盪時間的拉長，未來出現趨勢性走勢時的力度就會更大，\n這也就是我們在技術分析領域中，很常聽到的：「橫有多長、豎有多高」。\n\n最後，如果你是第一次接觸這個 Liq 技術分析系列的朋友，\n以下我會將過去一個月內，針對當前 Liq 區間的所有分析帖整理如下，\n提供給有需要的朋友參考，有任何疑問也歡迎在下方評論區詢問🔍\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n【🗂 BTC 自 7 月以來的震盪結構追蹤 & 分析帖】\n\nBTC「三種週期性底部結構」路徑推演🔥\n<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>\n\n「Liq 爭奪戰」：波段看漲 Stop Hunt 訊號疑似出現（7/06）\n<a href=\"https://nitter.net/market_beggar/status/2073947515473498123\">nitter.net/market_beggar/status/2…</a>\n\n「戰況膠著」：小級別流動性拔河又又又一次重現（7/13）\n<a href=\"https://nitter.net/market_beggar/status/2076484122898542754\">nitter.net/market_beggar/status/2…</a>\n\n「分歧加劇」：小級別看跌 Liq 結構逐漸形成（7/20）\n<a href=\"https://nitter.net/market_beggar/status/2079021572430655818\">nitter.net/market_beggar/status/2…</a>\n\n「廝殺的白熱化」：疊合 STH-RP 的關鍵 Liquidity 區域（7/23）\n<a href=\"https://nitter.net/market_beggar/status/2080106688917754256\">nitter.net/market_beggar/status/2…</a>\n\n「波動壓縮」：靜待雙向的 Liquidity 清掃（7/27）\n<a href=\"https://nitter.net/market_beggar/status/2081557306601509331\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n📚 相關閱讀資源\n\nBTC 長、短期持有者成本數據更新：誰在偷偷割肉\n<a href=\"https://nitter.net/market_beggar/status/2082338984362185024\">nitter.net/market_beggar/status/2…</a>\n\n「兩洲資金態度的分歧」：美資沒撤，亞資先跑了\n<a href=\"https://nitter.net/market_beggar/status/2081926743783592189\">nitter.net/market_beggar/status/2…</a>\n\n兩道「深熊抄底市場成本線」最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2079745937350779015\">nitter.net/market_beggar/status/2…</a>",
-        "link": "https://x.com/market_beggar/status/2084085146085666979",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOwoY8HbUAEgUwM.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085171574509044212",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "爱好都玩腻了，咋休息啊",
-      "contentHtml": "爱好都玩腻了，咋休息啊",
-      "publishedAt": "2026-08-06T01:10:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2085171574509044212",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPAEflCakAAANX6.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085171037881372950",
-      "username": "follow_clues",
-      "displayName": "Theclues",
-      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
-      "content": "新的交易蓝海",
-      "contentHtml": "新的交易蓝海",
-      "publishedAt": "2026-08-06T01:08:00.000Z",
-      "link": "https://x.com/follow_clues/status/2085171037881372950",
-      "quote": {
-        "username": "KobeissiLetter",
-        "displayName": "The Kobeissi Letter",
-        "content": "BREAKING: US-listed ETFs have attracted +$1.2 trillion in inflows year-to-date, the largest amount at this point of the year on record.\n\nThis figure is already double the inflows recorded over the same period in 2025.\n\nThis has also surpassed every full-year total in history except 2025, which saw +$1.5 trillion in inflows.\n\nAt the current pace, US-listed ETFs are on track to exceed +$2.1 trillion in annual inflows for the first time, ~50% above last year's all-time high.\n\nMeanwhile, the semiconductor ETFs, $SMH and $SOXX, posted a combined +$13 billion in inflows in July, the largest monthly total on record.\n\nETF demand is surging at an unprecedented rate.",
-        "contentHtml": "BREAKING: US-listed ETFs have attracted +$1.2 trillion in inflows year-to-date, the largest amount at this point of the year on record.\n\nThis figure is already double the inflows recorded over the same period in 2025.\n\nThis has also surpassed every full-year total in history except 2025, which saw +$1.5 trillion in inflows.\n\nAt the current pace, US-listed ETFs are on track to exceed +$2.1 trillion in annual inflows for the first time, ~50% above last year's all-time high.\n\nMeanwhile, the semiconductor ETFs, <a href=\"/search?f=tweets&q=%23SMH\">$SMH</a> and <a href=\"/search?f=tweets&q=%23SOXX\">$SOXX</a>, posted a combined +$13 billion in inflows in July, the largest monthly total on record.\n\nETF demand is surging at an unprecedented rate.",
-        "link": "https://x.com/KobeissiLetter/status/2085167288257319274",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HPAAmTHWkAAacSN.jpg"
           }
         ]
       },
