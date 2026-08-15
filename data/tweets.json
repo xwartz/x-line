@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T08:31:58.051Z",
+  "lastUpdated": "2026-08-15T09:28:49.981Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -114,6 +114,136 @@
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2088554410159059441",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "让普通人也能成为IP的创造者和所有者，过去IP大多掌握在大公司和专业机构手里。现在 AI 把创作门槛打下来了，但“证明是我做的、我能持续从中赚钱”这件事仍然很难。Minicoin想解决的就是这个痛点：你用AI做出来的东西，可以立刻变成可交易、可赎回的资产；别人用了，收入自动用$MINI结算给你。它瞄准的市场不小——全球音乐、emoji/sticker、虚拟影响者这些领域加起来都是百亿美金级别，而且虚拟IP还在快速增长。\n\n这就是Minicoin想做的事情——IP RWA网络，一套“IP上链 + 自动结算”的基础设施。\n\nMinicoin把IP包装成可拥有、可交易、可赎回的链上资产：\n1）创作端：创作者用Mini Labs提供的AI 工具生成 sticker、音乐、虚拟角色等内容。AI负责加速生产，平台负责把原创性证明上链。\n\n2）资产端：每一份完整的IP被铸造成一个IP NFT（ERC-721）。这里有几个硬原则：不拆分、不碎片化，一个NFT对应一份完整IP；随时可以烧掉NFT 赎回链下真正的所有权；平台只做服务提供方，不运营、不抽成、不保证收入。\n\n3）结算端：$MINI作为唯一的支付和结算代币。市场上有人使用或交易这份IP（比如买 sticker、听歌、用虚拟形象），中间件收到钱后转换成 $MINI，持有人可以批量领取。整个过程是pull模式，尽量压低gas成本。\n\n4）底层：跑在Creditcoin上，借用它的RWA结算能力和链上信用记录。\n\n简单说就是把“创作 → 拥有 → 被使用 → 收钱”这条链完整搬到链上，并且用可赎回的NFT把链上所有权和链下法律所有权绑在一起。\n\nMini Labs已经获得了 IPX 对 minini IP 的正式授权，可以使用 minini IP 做 ROOM 和相关内容。当然这不等于说IPX 或LINE FRIENDS发行、背书、担保 $MINI\n\n看到$MINI正式登陆PenguinSwap Launchpad。这应该是Creditcoin生态里PenguinSwap的第一个 Launchpad 项目。对很多之前玩过ROOM、铸造过SBT、或者一直跟着 Minicoin 走的人来说，到现在有了更直接的入口。\n\nROOM、SBT、PenguinSwap Launchpad、minini 周边活动，目前都更像是增长工具。ROOM 是任务和小游戏入口，SBT是参与凭证，Launchpad是把 $MINI 推向更多人的场景，周边活动则是强化社区和IP感知。这些不是核心产品，而是在拉人、造参与感，给后面真正的IP RWA铺路。\n\n目前项目还处于早期阶段，未来长期价值则取决于它能不能真正跑通从创作到收入的闭环真正的产品验证还在后面",
+      "contentHtml": "让普通人也能成为IP的创造者和所有者，过去IP大多掌握在大公司和专业机构手里。现在 AI 把创作门槛打下来了，但“证明是我做的、我能持续从中赚钱”这件事仍然很难。Minicoin想解决的就是这个痛点：你用AI做出来的东西，可以立刻变成可交易、可赎回的资产；别人用了，收入自动用$MINI结算给你。它瞄准的市场不小——全球音乐、emoji/sticker、虚拟影响者这些领域加起来都是百亿美金级别，而且虚拟IP还在快速增长。\n\n这就是Minicoin想做的事情——IP RWA网络，一套“IP上链 + 自动结算”的基础设施。\n\nMinicoin把IP包装成可拥有、可交易、可赎回的链上资产：\n1）创作端：创作者用Mini Labs提供的AI 工具生成 sticker、音乐、虚拟角色等内容。AI负责加速生产，平台负责把原创性证明上链。\n\n2）资产端：每一份完整的IP被铸造成一个IP NFT（ERC-721）。这里有几个硬原则：不拆分、不碎片化，一个NFT对应一份完整IP；随时可以烧掉NFT 赎回链下真正的所有权；平台只做服务提供方，不运营、不抽成、不保证收入。\n\n3）结算端：$MINI作为唯一的支付和结算代币。市场上有人使用或交易这份IP（比如买 sticker、听歌、用虚拟形象），中间件收到钱后转换成 $MINI，持有人可以批量领取。整个过程是pull模式，尽量压低gas成本。\n\n4）底层：跑在Creditcoin上，借用它的RWA结算能力和链上信用记录。\n\n简单说就是把“创作 → 拥有 → 被使用 → 收钱”这条链完整搬到链上，并且用可赎回的NFT把链上所有权和链下法律所有权绑在一起。\n\nMini Labs已经获得了 IPX 对 minini IP 的正式授权，可以使用 minini IP 做 ROOM 和相关内容。当然这不等于说IPX 或LINE FRIENDS发行、背书、担保 <a href=\"/search?f=tweets&q=%23MINI\">$MINI</a>\n\n看到$MINI正式登陆PenguinSwap Launchpad。这应该是Creditcoin生态里PenguinSwap的第一个 Launchpad 项目。对很多之前玩过ROOM、铸造过SBT、或者一直跟着 Minicoin 走的人来说，到现在有了更直接的入口。\n\nROOM、SBT、PenguinSwap Launchpad、minini 周边活动，目前都更像是增长工具。ROOM 是任务和小游戏入口，SBT是参与凭证，Launchpad是把 <a href=\"/search?f=tweets&q=%23MINI\">$MINI</a> 推向更多人的场景，周边活动则是强化社区和IP感知。这些不是核心产品，而是在拉人、造参与感，给后面真正的IP RWA铺路。\n\n目前项目还处于早期阶段，未来长期价值则取决于它能不能真正跑通从创作到收入的闭环真正的产品验证还在后面",
+      "publishedAt": "2026-08-15T09:12:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2088554410159059441",
+      "quote": {
+        "username": "mini_cto",
+        "displayName": "minicoin",
+        "content": "you love the minini characters\n\nyou also know the minini IP is officially licensed by IPX to us\n\nyou should also know how prized that IP is\n\nso let’s make the best use of it\n\ntime for a merch giveaway, in collaboration with @_LINEFRIENDS supplying the goods\n\nmerch preview and how to play ⬇️",
+        "contentHtml": "you love the minini characters\n\nyou also know the minini IP is officially licensed by IPX to us\n\nyou should also know how prized that IP is\n\nso let’s make the best use of it\n\ntime for a merch giveaway, in collaboration with <a href=\"/_LINEFRIENDS\" title=\"LINE FRIENDS\">@_LINEFRIENDS</a> supplying the goods\n\nmerch preview and how to play ⬇️",
+        "link": "https://x.com/mini_cto/status/2085377059946160211",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPC-Ap-W0AAl6lu.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPC-BXVWYAAMsMw.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2088553964489072770",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "美股喊单王(aka. 白毛股神) Serenity 再次公布年回报率，仍高达 2,411.84%😲\n\n@aleabitoreddit 曾在今年五月底披露其 26 年内回报率高达 4502.45%，尽管后续美股 AI / 科技股板块受到重创大幅回调，他的账户回撤比例达到 49.4%，也只是利润回撤，当前收益仍跑赢大部分交易者\n\n与此同时，近期因转卖持仓闹得沸沸扬扬的基金掌舵人 Leopold Aschenbrenner，其年回报率也还有 ~80%\n\n瘦死的骆驼比马大啊",
+      "contentHtml": "美股喊单王(aka. 白毛股神) Serenity 再次公布年回报率，仍高达 2,411.84%😲\n\n<a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a> 曾在今年五月底披露其 26 年内回报率高达 4502.45%，尽管后续美股 AI / 科技股板块受到重创大幅回调，他的账户回撤比例达到 49.4%，也只是利润回撤，当前收益仍跑赢大部分交易者\n\n与此同时，近期因转卖持仓闹得沸沸扬扬的基金掌舵人 Leopold Aschenbrenner，其年回报率也还有 ~80%\n\n瘦死的骆驼比马大啊",
+      "publishedAt": "2026-08-15T09:10:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2088553964489072770",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPwIrZeawAARg6Q.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "全网都在聊的 Serenity(@aleabitoreddit)，到底是谁？🌟\n\n▶︎ 新晋美股喊单王，华尔街的「每日必读」\n▶︎ 2026 年内回报率高达 4502.45%\n▶︎ 公开建仓的 25 只股票涨幅达 100%-1000%\n▶︎ 入驻 X 近一年粉丝超 40w，订阅数超 3.7w\n\n他有哪些知名战绩？持仓如何？为什么这么火？一起往下看吧👩‍💻👇",
+        "contentHtml": "全网都在聊的 Serenity(<a href=\"/aleabitoreddit\" title=\"Serenity\">@aleabitoreddit</a>)，到底是谁？🌟\n\n▶︎ 新晋美股喊单王，华尔街的「每日必读」\n▶︎ 2026 年内回报率高达 4502.45%\n▶︎ 公开建仓的 25 只股票涨幅达 100%-1000%\n▶︎ 入驻 X 近一年粉丝超 40w，订阅数超 3.7w\n\n他有哪些知名战绩？持仓如何？为什么这么火？一起往下看吧👩‍💻👇",
+        "link": "https://x.com/ai_9684xtpa/status/2059591113447735562",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HJUjMuAbAAA0k3U.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2088553714894393390",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "好了，自己写了一个输入法。\n\n语音识别用的豆包模型。\n\n获取上下文来总结和拟定邮件回复。\n\n特意做窄一点方便胖折叠用。",
+      "contentHtml": "好了，自己写了一个输入法。\n\n语音识别用的豆包模型。\n\n获取上下文来总结和拟定邮件回复。\n\n特意做窄一点方便胖折叠用。",
+      "publishedAt": "2026-08-15T09:09:00.000Z",
+      "link": "https://x.com/taresky/status/2088553714894393390",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPwIiFzbAAA39Sd.jpg"
+        }
+      ],
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "Gemini 啊，都已经 2026 年 8 月了还是大狗粪啊。\n\n就连像一个 普通 AI 那样，在 Gmail 里，根据上下文，根据我的要求拟一封邮件，帮我填充到回复区。\n\n这么简单，这么简单，这么简单的事情都做不到。\n\n这还是 Google 的主场，Android  系统、Gmail、最常见的需求。\n\n简直是和 Siri 坐一桌的废物 AI。",
+        "contentHtml": "Gemini 啊，都已经 2026 年 8 月了还是大狗粪啊。\n\n就连像一个 普通 AI 那样，在 Gmail 里，根据上下文，根据我的要求拟一封邮件，帮我填充到回复区。\n\n这么简单，这么简单，这么简单的事情都做不到。\n\n这还是 Google 的主场，Android  系统、Gmail、最常见的需求。\n\n简直是和 Siri 坐一桌的废物 AI。",
+        "link": "https://x.com/taresky/status/2088414337732165999"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2088550653497053623",
+      "username": "naval",
+      "displayName": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
+      "content": "You cannot create God and put him on a leash.",
+      "contentHtml": "You cannot create God and put him on a leash.",
+      "publishedAt": "2026-08-15T08:57:00.000Z",
+      "link": "https://x.com/naval/status/2088550653497053623",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2088546243253280837",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "#SNDK #闪迪\n\n尽量把交易做简单，特别是对于一个全市场都在关注的龙头，什么叫龙头，涨的猛，跌的猛的就是龙头\n\n全市场关注，交易活跃，本身也表明趋势流畅，此时的涨是真涨，跌是真跌\n\n复盘这一轮所有上涨几倍到百倍的存储股票，闪迪，美光，海力士等，就会发现，普通人最容易获利的走势都是流畅的上涨走势，即：散户在牛市里亏钱都是乱动乱抄底，认为趋势结束了，认为到底了，卖了后又去追，挣大钱都是拿住不动，在趋势衰竭时卖出\n\n趋势都是“赌”出来的，比如你并不能知道 AXTI去年能涨100倍，也不能知道这次闪迪开多后是否还能翻倍上涨。我们是来做投机的，想要获利，就需要开仓\n\n于是，我们基于趋势为主体，构建出了一套具有正向收益预期的交易策略。这个交易策略可以让我们输出交易逻辑的效率达到极致\n\n就像赌场一样，我们开始运行我们的交易系统，我们坚定的执行，战胜这个过程中所遇到的一切困难\n\n这一套趋势跟踪理论在闪迪的走势上几乎完美的呈现了\n\nTG群在主页",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23SNDK\">#SNDK</a> <a href=\"/search?f=tweets&q=%23闪迪\">#闪迪</a>\n\n尽量把交易做简单，特别是对于一个全市场都在关注的龙头，什么叫龙头，涨的猛，跌的猛的就是龙头\n\n全市场关注，交易活跃，本身也表明趋势流畅，此时的涨是真涨，跌是真跌\n\n复盘这一轮所有上涨几倍到百倍的存储股票，闪迪，美光，海力士等，就会发现，普通人最容易获利的走势都是流畅的上涨走势，即：散户在牛市里亏钱都是乱动乱抄底，认为趋势结束了，认为到底了，卖了后又去追，挣大钱都是拿住不动，在趋势衰竭时卖出\n\n趋势都是“赌”出来的，比如你并不能知道 AXTI去年能涨100倍，也不能知道这次闪迪开多后是否还能翻倍上涨。我们是来做投机的，想要获利，就需要开仓\n\n于是，我们基于趋势为主体，构建出了一套具有正向收益预期的交易策略。这个交易策略可以让我们输出交易逻辑的效率达到极致\n\n就像赌场一样，我们开始运行我们的交易系统，我们坚定的执行，战胜这个过程中所遇到的一切困难\n\n这一套趋势跟踪理论在闪迪的走势上几乎完美的呈现了\n\nTG群在主页",
+      "publishedAt": "2026-08-15T08:40:00.000Z",
+      "link": "https://x.com/dongbimao/status/2088546243253280837",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPwBYD2W0AAjCdJ.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2088534828480430395",
       "username": "Bitfatty",
@@ -11900,131 +12030,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HO8OhSMa8AAHbcd.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085543499542188170",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "对于担心CDS（信用违约掉期）上升，科技股要走熊的人，给你们看组数据，下图是亚麻在21年发行的债券，31年到期，白线代表利差。可以理解为利差越高，信用风险越大，而CDS和利差反应的几乎是一个东西。\n从体量上，现在的利差低于24年8月份，25年3月份，远低于22年。这三个时间点都是宏观事件：CARRY TRADE平仓，关税，加息熊市。现在因为大科技举债，但杠杆比率其实仍然比22年健康很多。",
-      "contentHtml": "对于担心CDS（信用违约掉期）上升，科技股要走熊的人，给你们看组数据，下图是亚麻在21年发行的债券，31年到期，白线代表利差。可以理解为利差越高，信用风险越大，而CDS和利差反应的几乎是一个东西。\n从体量上，现在的利差低于24年8月份，25年3月份，远低于22年。这三个时间点都是宏观事件：CARRY TRADE平仓，关税，加息熊市。现在因为大科技举债，但杠杆比率其实仍然比22年健康很多。",
-      "publishedAt": "2026-08-07T01:48:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2085543499542188170",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPFVWDPWwAA_hN1.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085543188799094800",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
-      "content": "「撤退開始？」：美方資金情緒曲線似有下降跡象⚠️\n\n承接下方引文，我在最近幾篇的「美資曲線」更新帖中，\n都有提到 BTC 自七月初的上漲，主要源於美資的介入；\n因此，身為聰明錢族群的美方資金，他們何時開始撤退，\n就成了我們必須密切監測的中短線訊號。\n\n如今，市場似乎出現了美資撤退的初期徵兆：\n\n//\n\n附圖的指標是「美方資金情緒曲線」，如果你是新朋友，\n或者還不清楚此指標的原理，建議可以先參考以下鏈接，\n我之前都有寫過詳細的概念教學🔗：\n\n📖 美方資金情緒曲線介紹：\nnitter.net/market_beggar/status/1…\n📖 美方資金情緒曲線的超強逃頂運用：\nnitter.net/market_beggar/status/1…\n📖 超強逃頂訊號「笨蛋錢指標」概念解析：\nnitter.net/market_beggar/status/1…\n📖「美方資金的屠城」：暴跌的階段性覆盤\nnitter.net/market_beggar/status/2…\n\n//\n\n如附圖紅色區域標示處（🟥）所示：\n美資曲線目前開始出現了拐頭向下的跡象，雖然幅度並不明顯，\n不過至少也是美資曲線自 6 月初的上升以來，最明顯的一次下降。\n\n換句話說：\n雖然目前並未觸發真正的「美資撤退風險訊號」，\n但這也無疑是一項值得關注的「初期徵兆」，\n從交易的執行面而言，目前美資曲線的降幅的確沒有提前避險的必要，\n但我們也不得不提前開始提升我們的防範意識。\n\n📝 何謂「美資風險撤退訊號」？\n價格橫盤、緩漲，但美方資金曲線卻在同期間內大幅下降，\n這通常意味著美方資金正在偷偷撤離市場，是絕對的風險訊號。\n有興趣深入研究的朋友，可以參閱本文前段附上的鏈接🔗\n\n最後，倘若未來有出現任何進一步、更清晰的訊號，\n我也必將堅守岡位，在第一時間和各位報告。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「Liq 建構與破壞的循環」：持續縮窄的引力區間\nnitter.net/market_beggar/status/2…\n\nBTC 長、短期持有者成本數據更新：交叉遙遙無期？\nnitter.net/market_beggar/status/2…\n\n偏離度調整 STH-RP 模型更新：降速放緩，底部區間逐漸清晰\nnitter.net/market_beggar/status/2…",
-      "contentHtml": "「撤退開始？」：美方資金情緒曲線似有下降跡象⚠️\n\n承接下方引文，我在最近幾篇的「美資曲線」更新帖中，\n都有提到 BTC 自七月初的上漲，主要源於美資的介入；\n因此，身為聰明錢族群的美方資金，他們何時開始撤退，\n就成了我們必須密切監測的中短線訊號。\n\n如今，市場似乎出現了美資撤退的初期徵兆：\n\n//\n\n附圖的指標是「美方資金情緒曲線」，如果你是新朋友，\n或者還不清楚此指標的原理，建議可以先參考以下鏈接，\n我之前都有寫過詳細的概念教學🔗：\n\n📖 美方資金情緒曲線介紹：\n<a href=\"https://nitter.net/market_beggar/status/1884517487238340829\">nitter.net/market_beggar/status/1…</a>\n📖 美方資金情緒曲線的超強逃頂運用：\n<a href=\"https://nitter.net/market_beggar/status/1922851604530897171\">nitter.net/market_beggar/status/1…</a>\n📖 超強逃頂訊號「笨蛋錢指標」概念解析：\n<a href=\"https://nitter.net/market_beggar/status/1985171420469657843\">nitter.net/market_beggar/status/1…</a>\n📖「美方資金的屠城」：暴跌的階段性覆盤\n<a href=\"https://nitter.net/market_beggar/status/2061989188967559423\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n如附圖紅色區域標示處（🟥）所示：\n美資曲線目前開始出現了拐頭向下的跡象，雖然幅度並不明顯，\n不過至少也是美資曲線自 6 月初的上升以來，最明顯的一次下降。\n\n換句話說：\n雖然目前並未觸發真正的「美資撤退風險訊號」，\n但這也無疑是一項值得關注的「初期徵兆」，\n從交易的執行面而言，目前美資曲線的降幅的確沒有提前避險的必要，\n但我們也不得不提前開始提升我們的防範意識。\n\n📝 何謂「美資風險撤退訊號」？\n價格橫盤、緩漲，但美方資金曲線卻在同期間內大幅下降，\n這通常意味著美方資金正在偷偷撤離市場，是絕對的風險訊號。\n有興趣深入研究的朋友，可以參閱本文前段附上的鏈接🔗\n\n最後，倘若未來有出現任何進一步、更清晰的訊號，\n我也必將堅守岡位，在第一時間和各位報告。\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「Liq 建構與破壞的循環」：持續縮窄的引力區間\n<a href=\"https://nitter.net/market_beggar/status/2085174650653573450\">nitter.net/market_beggar/status/2…</a>\n\nBTC 長、短期持有者成本數據更新：交叉遙遙無期？\n<a href=\"https://nitter.net/market_beggar/status/2084818219072954827\">nitter.net/market_beggar/status/2…</a>\n\n偏離度調整 STH-RP 模型更新：降速放緩，底部區間逐漸清晰\n<a href=\"https://nitter.net/market_beggar/status/2080469443352854893\">nitter.net/market_beggar/status/2…</a>",
-      "publishedAt": "2026-08-07T01:46:00.000Z",
-      "link": "https://x.com/market_beggar/status/2085543188799094800",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPFWeWebcAAIEgc.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「兩洲資金態度的分歧」：美資沒撤，亞資先跑了🃏\n\n承接下方引文，今天再來和各位報告最新的美亞資金情緒數據。\n\n在上篇分析中，我曾和各位提到：\n「美資介入導致價格上漲，未來須注意美資是否提前撤退」。\n\n結果就在近期，雖然美方資金目前沒有撤退跡象，\n不過一向被視作反指的亞資反倒開始跑了...：\n\n//\n\n附圖的指標是「美方、亞方資金情緒曲線」，如果你是新朋友，\n或者還不清楚此指標的原理，建議可以先參考以下鏈接，\n我之前都有寫過詳細的概念教學🔗：\n\n📖 美方資金情緒曲線介紹：\nnitter.net/market_beggar/status/1…\n📖 美方資金情緒曲線的超強逃頂運用：\nnitter.net/market_beggar/status/1…\n📖 超強逃頂訊號「笨蛋錢指標」概念解析：\nnitter.net/market_beggar/status/2…\n📖「美方資金的屠城」：暴跌的階段性覆盤\nnitter.net/market_beggar/status/2…\n\n//\n\n如附圖所示：\n自上篇更新至今，雖然美方資金並沒有出現撤退、偷跑的跡象，\n但亞洲資金反而開始先行撤退，兩條資金曲線開始呈現明顯的分化。\n\n老朋友都知道，美方資金曲線才是最有價值的主要觀察標的，\n但如果特定條件出現（例如笨蛋錢訊號，詳見上方鏈接），\n亞資的行為也會有其參考價值。\n\n我簡單把近期的兩次相似案例標示如圖，我們可以發現：\n1️⃣ 2025 年 6 月\nBTC 先是出現了一波垂直拉升，隨後進入 2 個月的橫盤，\n在當時的拉升後，亞資馬上撤退，隨後又於 7 月的上漲前重新入場，\n這個案例算是亞資少數相對成功布局的戰績之一。\n2️⃣ 2026 年 1 月\n這算是近期亞資打得最漂亮的一仗，雖然亞資沒有撤在最高位，\n但亞資的提前撤退，的確是把貨倒在了老美的臉上，提前閃避暴跌。\n3️⃣ 2026 年 5 月\n這次其實就是本文前段附上的「笨蛋錢訊號」的最新一次案例，\n亞資一如既往的扮演了一次純純的反指，\n先是提前撤退，隨後又於最末段的上漲重新追進去，\n後面的事情大家都知道了：「老美偷跑、亞資繼續接盤，BTC 大跌」。\n\n最後，再次強調：\n這組指標的核心觀察標的依然是「美方資金曲線」，\n畢竟相比亞洲資金，美方資金依然是目前市場上妥妥的主導者，\n只不過目前我們仍未看到美資偷跑，換言之：最大的風險尚未出現。\n\n至於這次，你們覺得亞資能贏嗎？\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「波動壓縮」：靜待雙向的 Liquidity 清掃\nnitter.net/market_beggar/status/2…\n\n「BTC 吸籌趨勢評分」更新：持續監測派發風險\nnitter.net/market_beggar/status/2…\n\n「BTC 的馬奇諾防線」：從未跌破的神話能否延續\nnitter.net/market_beggar/status/2…",
-        "contentHtml": "「兩洲資金態度的分歧」：美資沒撤，亞資先跑了🃏\n\n承接下方引文，今天再來和各位報告最新的美亞資金情緒數據。\n\n在上篇分析中，我曾和各位提到：\n「美資介入導致價格上漲，未來須注意美資是否提前撤退」。\n\n結果就在近期，雖然美方資金目前沒有撤退跡象，\n不過一向被視作反指的亞資反倒開始跑了...：\n\n//\n\n附圖的指標是「美方、亞方資金情緒曲線」，如果你是新朋友，\n或者還不清楚此指標的原理，建議可以先參考以下鏈接，\n我之前都有寫過詳細的概念教學🔗：\n\n📖 美方資金情緒曲線介紹：\n<a href=\"https://nitter.net/market_beggar/status/1884517487238340829\">nitter.net/market_beggar/status/1…</a>\n📖 美方資金情緒曲線的超強逃頂運用：\n<a href=\"https://nitter.net/market_beggar/status/1922851604530897171\">nitter.net/market_beggar/status/1…</a>\n📖 超強逃頂訊號「笨蛋錢指標」概念解析：\n<a href=\"https://nitter.net/market_beggar/status/2056552729682780400\">nitter.net/market_beggar/status/2…</a>\n📖「美方資金的屠城」：暴跌的階段性覆盤\n<a href=\"https://nitter.net/market_beggar/status/2061989188967559423\">nitter.net/market_beggar/status/2…</a>\n\n//\n\n如附圖所示：\n自上篇更新至今，雖然美方資金並沒有出現撤退、偷跑的跡象，\n但亞洲資金反而開始先行撤退，兩條資金曲線開始呈現明顯的分化。\n\n老朋友都知道，美方資金曲線才是最有價值的主要觀察標的，\n但如果特定條件出現（例如笨蛋錢訊號，詳見上方鏈接），\n亞資的行為也會有其參考價值。\n\n我簡單把近期的兩次相似案例標示如圖，我們可以發現：\n1️⃣ 2025 年 6 月\nBTC 先是出現了一波垂直拉升，隨後進入 2 個月的橫盤，\n在當時的拉升後，亞資馬上撤退，隨後又於 7 月的上漲前重新入場，\n這個案例算是亞資少數相對成功布局的戰績之一。\n2️⃣ 2026 年 1 月\n這算是近期亞資打得最漂亮的一仗，雖然亞資沒有撤在最高位，\n但亞資的提前撤退，的確是把貨倒在了老美的臉上，提前閃避暴跌。\n3️⃣ 2026 年 5 月\n這次其實就是本文前段附上的「笨蛋錢訊號」的最新一次案例，\n亞資一如既往的扮演了一次純純的反指，\n先是提前撤退，隨後又於最末段的上漲重新追進去，\n後面的事情大家都知道了：「老美偷跑、亞資繼續接盤，BTC 大跌」。\n\n最後，再次強調：\n這組指標的核心觀察標的依然是「美方資金曲線」，\n畢竟相比亞洲資金，美方資金依然是目前市場上妥妥的主導者，\n只不過目前我們仍未看到美資偷跑，換言之：最大的風險尚未出現。\n\n至於這次，你們覺得亞資能贏嗎？\n\n以上就是今天的內容，希望對各位有幫助🫡\n\n//\n\n📚 相關閱讀資源\n\n「波動壓縮」：靜待雙向的 Liquidity 清掃\n<a href=\"https://nitter.net/market_beggar/status/2081557306601509331\">nitter.net/market_beggar/status/2…</a>\n\n「BTC 吸籌趨勢評分」更新：持續監測派發風險\n<a href=\"https://nitter.net/market_beggar/status/2079383301299851536\">nitter.net/market_beggar/status/2…</a>\n\n「BTC 的馬奇諾防線」：從未跌破的神話能否延續\n<a href=\"https://nitter.net/market_beggar/status/2077207779706802343\">nitter.net/market_beggar/status/2…</a>",
-        "link": "https://x.com/market_beggar/status/2081926743783592189",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HOR9VhDbkAA443D.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085540358063370465",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "Memecoin 已死？Pumpfun 怕是不同意😬\n\n9 小时前 Pumpfun 手续费地址再次向 #Kraken 充值 84788.8 $SOL，价值 624 万美元\n\nDune 看板显示：虽然 Pumpfun 收入相较巅峰时期已大幅缩水，但日均收入仍能维持在百万美金级别，PumpSwap 提供的 DEX 手续费收入成为其有力增长极；此外，本月 07.12 起 Pumpfun 交易量 / 发射代币数 / 日均营收均出现大幅增长，08.04 单日收入是 07.12 的 251%",
-      "contentHtml": "Memecoin 已死？Pumpfun 怕是不同意😬\n\n9 小时前 Pumpfun 手续费地址再次向 <a href=\"/search?f=tweets&q=%23Kraken\">#Kraken</a> 充值 84788.8 $SOL，价值 624 万美元\n\nDune 看板显示：虽然 Pumpfun 收入相较巅峰时期已大幅缩水，但日均收入仍能维持在百万美金级别，PumpSwap 提供的 DEX 手续费收入成为其有力增长极；此外，本月 07.12 起 Pumpfun 交易量 / 发射代币数 / 日均营收均出现大幅增长，08.04 单日收入是 07.12 的 251%",
-      "publishedAt": "2026-08-07T01:35:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2085540358063370465",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPFTkhvaoAApbRV.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085535435472990692",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "曾攻击 MEV 机器人 Jaredfromsubway.eth 使其损失超 750 万美元的黑客，时隔一个月再次有动静了🥷\n\n10 小时前花费最后 244 万枚 DAI 买入 1277 $ETH，下一步应该打算通过龙卷风（Tornado）进行混币了，这也是该黑客链上的最后一笔待处理资金\n\n钱包地址 arkm.com/explorer/entity/jar…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "contentHtml": "曾攻击 MEV 机器人 Jaredfromsubway.eth 使其损失超 750 万美元的黑客，时隔一个月再次有动静了🥷\n\n10 小时前花费最后 244 万枚 DAI 买入 1277 $ETH，下一步应该打算通过龙卷风（Tornado）进行混币了，这也是该黑客链上的最后一笔待处理资金\n\n钱包地址 <a href=\"https://arkm.com/explorer/entity/jaredfromsubway-exploiter\">arkm.com/explorer/entity/jar…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
-      "publishedAt": "2026-08-07T01:16:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2085535435472990692",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPFPZ9sbwAAuHC4.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085532881049575582",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "拉个大的有了\n\n接下来就是猜  \n是趋势还是一次\n特朗普会不会又  #taco",
-      "contentHtml": "拉个大的有了\n\n接下来就是猜  \n是趋势还是一次\n特朗普会不会又  <a href=\"/search?f=tweets&q=%23taco\">#taco</a>",
-      "publishedAt": "2026-08-07T01:06:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2085532881049575582",
-      "quote": {
-        "username": "Bitfatty",
-        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-        "content": "盲猜随时和解，宣布\n\n然后拉个大的\n再拉泡大的",
-        "contentHtml": "盲猜随时和解，宣布\n\n然后拉个大的\n再拉泡大的",
-        "link": "https://x.com/Bitfatty/status/2084551019833540880",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HO3QGfvaoAAppMY.jpg"
           }
         ]
       },
