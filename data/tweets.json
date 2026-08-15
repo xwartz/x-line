@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T05:27:07.026Z",
+  "lastUpdated": "2026-08-15T06:41:32.275Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -114,6 +114,44 @@
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2088499042875769258",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "英伟达CPO交换机全面量产，这应该光互连领域的大事件。昨天英伟达宣布Spectrum-X Ethernet Photonics已进入全面量产阶段，为面向AI工厂的下一代大规模扩展网络基础设施提供支持。\n\nSpectrum-X Ethernet Photonics 是 NVIDIA Spectrum-X 以太网网络平台中的硅光子（Silicon Photonics）/共封装光学（CPO, Co-Packaged Optics）交换机技术，主要面向大规模 AI 工厂（AI Factory）和高性能 AI 数据中心场景。\n它把硅光引擎与交换 ASIC 直接共封装在同一封装内，取代传统可插拔光模块，专为超大规模 GPU 集群的网络互联设计。\n\n核心应用场景\n1）大规模 AI 训练与推理集群 / AI 工厂：支持从数万到数十万甚至百万级 GPU 的互联，提供 GPU 到 GPU 的高带宽、低延迟、高有效带宽通信，特别适合生成式 AI、大模型训练和分布式推理。它能帮助实现“吉瓦级”（GW-scale）AI 基础设施，并提升整体能效与可靠性。\n\n2）超大规模数据中心内部网络（就是通常称的Scale-out 网络）：解决传统以太网在超大规模 AI 负载下的功耗高、故障点多、信号完整性差等问题。相比传统可插拔收发器方案，它可实现约 5 倍网络能效提升、激光器数量减少约 4 倍、平均故障间隔时间（MTBI）提升约 10 倍，以及更长的 AI 应用持续运行时间。\n\n平均故障间隔时间这一点很重要，云厂商采用cpo很大的一个考量就是故障率和故障间隔时间。\n\n3）跨数据中心扩展（Scale-cross场景，结合 Spectrum-XGS）：也可配合相关技术，把分散的多个数据中心（甚至相距较远）连接成统一的大规模 AI 超级工厂。\n\n这是英伟达专为“AI 工厂”这种需要海量 GPU 高速互联、极致能效和可靠性的场景打造的下一代网络基础设施。目前已进入全面量产，首批客户包括 CoreWeave、Lambda、Oracle 等。\n\n供应链： \nTSMS负责硅光子制造 ；\nSPIL负责芯片级封装与测试；\nLumentum提供激光芯片制造 ；\nTFC负责激光模块子组件组装 ；\nFoxconn 提供Communication交换系统组装 ；\n\n8月初看好光互连很重要的一个原因就是当时看到英伟达高级副总裁 Gilad Shainer在一个技术论坛上宣布，CPO 已开始量产。现在终于看到官方正式宣布量产的公告了。",
+      "contentHtml": "英伟达CPO交换机全面量产，这应该光互连领域的大事件。昨天英伟达宣布Spectrum-X Ethernet Photonics已进入全面量产阶段，为面向AI工厂的下一代大规模扩展网络基础设施提供支持。\n\nSpectrum-X Ethernet Photonics 是 NVIDIA Spectrum-X 以太网网络平台中的硅光子（Silicon Photonics）/共封装光学（CPO, Co-Packaged Optics）交换机技术，主要面向大规模 AI 工厂（AI Factory）和高性能 AI 数据中心场景。\n它把硅光引擎与交换 ASIC 直接共封装在同一封装内，取代传统可插拔光模块，专为超大规模 GPU 集群的网络互联设计。\n\n核心应用场景\n1）大规模 AI 训练与推理集群 / AI 工厂：支持从数万到数十万甚至百万级 GPU 的互联，提供 GPU 到 GPU 的高带宽、低延迟、高有效带宽通信，特别适合生成式 AI、大模型训练和分布式推理。它能帮助实现“吉瓦级”（GW-scale）AI 基础设施，并提升整体能效与可靠性。\n\n2）超大规模数据中心内部网络（就是通常称的Scale-out 网络）：解决传统以太网在超大规模 AI 负载下的功耗高、故障点多、信号完整性差等问题。相比传统可插拔收发器方案，它可实现约 5 倍网络能效提升、激光器数量减少约 4 倍、平均故障间隔时间（MTBI）提升约 10 倍，以及更长的 AI 应用持续运行时间。\n\n平均故障间隔时间这一点很重要，云厂商采用cpo很大的一个考量就是故障率和故障间隔时间。\n\n3）跨数据中心扩展（Scale-cross场景，结合 Spectrum-XGS）：也可配合相关技术，把分散的多个数据中心（甚至相距较远）连接成统一的大规模 AI 超级工厂。\n\n这是英伟达专为“AI 工厂”这种需要海量 GPU 高速互联、极致能效和可靠性的场景打造的下一代网络基础设施。目前已进入全面量产，首批客户包括 CoreWeave、Lambda、Oracle 等。\n\n供应链： \nTSMS负责硅光子制造 ；\nSPIL负责芯片级封装与测试；\nLumentum提供激光芯片制造 ；\nTFC负责激光模块子组件组装 ；\nFoxconn 提供Communication交换系统组装 ；\n\n8月初看好光互连很重要的一个原因就是当时看到英伟达高级副总裁 Gilad Shainer在一个技术论坛上宣布，CPO 已开始量产。现在终于看到官方正式宣布量产的公告了。",
+      "publishedAt": "2026-08-15T05:32:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2088499042875769258",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HPvWzjpagAAWdVc.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "聊聊看好光互连的逻辑，7月中旬和下旬分别聊到之后看好美股的板块，已经爆发的是（CSP、软件、光互连），CSP/软件看好逻辑在7月中长文nitter.net/qinbafrank/status/2076…聊的很充分。今天聊聊为什么看好光互连？催化剂是什么？\n\n再回头看，光互连板块是这一波半导体调整最早调整时间最久的板块，个人角度5月中nitter.net/qinbafrank/status/2060…伯恩斯坦的报告说CPO兑现没那么快，今年还是看光模块、连接。在那之后，光的板块都开始调整，美股只有连接还不错。\n\n而近期催化剂个人看是两点：\n1）“英伟达高级副总裁 Gilad Shainer在最近的一个技术论坛上宣布，CPO 已开始量产。Nvidia 与其供应链合作开发的交换机已交付给紧密客户，并正在 Nvidia自身的设施中部署。预计今年将有大量采用 CPO 技术的交换机引入全球的 AI 工厂；\n2）Lumentum首席执行官Michael Hurlston表示，AI的磷化铟激光器短缺将比内存危机更严重。\n\n怎么看这个逻辑：\n1）cpo开始交付那意味着市场应该会去预期随着量产交付，cpo应该会慢慢起量，业务兑现开始落地；\n2）磷化烟短缺、市场对于短缺还是有肌肉记忆的；\n3）光调整的早调整的时间够久，半导体都集中在存储，最近这段时间对于光互连大家其实聊的很少，那就意味着有预期差；\n4）超大CSP的财报初步证明了资本开支ROIC，数据中心的建设会很快。万卡集群互连、大规模数据中心互连需求其实在进一步爆发。\n\n总结就是\nAI数据中心光互连需求真实且加速，全产业链已从“需求验证”进入“供应瓶颈”阶段；NVIDIA CPO正式量产是历史性信号，短期（至少至2027年）与可插拔光模块共存，最终瓶颈锁定在磷化铟（InP）激光芯片产能。\n\n技术路线时间表\n1）Scale-up（机架内）：铜缆/可插拔为主。\n2）Scale-out（跨机架/跨数据中心）：CPO率先渗透（功耗从30W→9W/端口，带宽大幅提升）。\n3）共存窗口：可插拔主导未来18-24个月；CPO与可插拔非零和，至少到2027年。\n\n“需求已被全链条验证，瓶颈在InP激光；谁能自产/扩产最快、供应链最安全，谁就吃到最大弹性。”\n\n未来两周是光互连领域公司密集财报，如果财报进一步被验证，可能会是一个催化剂窗口。\n\n$MRVL $LITE $COHR $AXTI $AAOI $GFS $LAZR $FOTO $NOK\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "contentHtml": "聊聊看好光互连的逻辑，7月中旬和下旬分别聊到之后看好美股的板块，已经爆发的是（CSP、软件、光互连），CSP/软件看好逻辑在7月中长文<a href=\"https://nitter.net/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2076…</a>聊的很充分。今天聊聊为什么看好光互连？催化剂是什么？\n\n再回头看，光互连板块是这一波半导体调整最早调整时间最久的板块，个人角度5月中<a href=\"https://nitter.net/qinbafrank/status/2060560681984991697?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2060…</a>伯恩斯坦的报告说CPO兑现没那么快，今年还是看光模块、连接。在那之后，光的板块都开始调整，美股只有连接还不错。\n\n而近期催化剂个人看是两点：\n1）“英伟达高级副总裁 Gilad Shainer在最近的一个技术论坛上宣布，CPO 已开始量产。Nvidia 与其供应链合作开发的交换机已交付给紧密客户，并正在 Nvidia自身的设施中部署。预计今年将有大量采用 CPO 技术的交换机引入全球的 AI 工厂；\n2）Lumentum首席执行官Michael Hurlston表示，AI的磷化铟激光器短缺将比内存危机更严重。\n\n怎么看这个逻辑：\n1）cpo开始交付那意味着市场应该会去预期随着量产交付，cpo应该会慢慢起量，业务兑现开始落地；\n2）磷化烟短缺、市场对于短缺还是有肌肉记忆的；\n3）光调整的早调整的时间够久，半导体都集中在存储，最近这段时间对于光互连大家其实聊的很少，那就意味着有预期差；\n4）超大CSP的财报初步证明了资本开支ROIC，数据中心的建设会很快。万卡集群互连、大规模数据中心互连需求其实在进一步爆发。\n\n总结就是\nAI数据中心光互连需求真实且加速，全产业链已从“需求验证”进入“供应瓶颈”阶段；NVIDIA CPO正式量产是历史性信号，短期（至少至2027年）与可插拔光模块共存，最终瓶颈锁定在磷化铟（InP）激光芯片产能。\n\n技术路线时间表\n1）Scale-up（机架内）：铜缆/可插拔为主。\n2）Scale-out（跨机架/跨数据中心）：CPO率先渗透（功耗从30W→9W/端口，带宽大幅提升）。\n3）共存窗口：可插拔主导未来18-24个月；CPO与可插拔非零和，至少到2027年。\n\n“需求已被全链条验证，瓶颈在InP激光；谁能自产/扩产最快、供应链最安全，谁就吃到最大弹性。”\n\n未来两周是光互连领域公司密集财报，如果财报进一步被验证，可能会是一个催化剂窗口。\n\n<a href=\"/search?f=tweets&q=%23MRVL\">$MRVL</a> <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a> <a href=\"/search?f=tweets&q=%23COHR\">$COHR</a> <a href=\"/search?f=tweets&q=%23AXTI\">$AXTI</a> <a href=\"/search?f=tweets&q=%23AAOI\">$AAOI</a> <a href=\"/search?f=tweets&q=%23GFS\">$GFS</a> <a href=\"/search?f=tweets&q=%23LAZR\">$LAZR</a> <a href=\"/search?f=tweets&q=%23FOTO\">$FOTO</a> <a href=\"/search?f=tweets&q=%23NOK\">$NOK</a>\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+        "link": "https://x.com/qinbafrank/status/2084449500744319334",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO1zxNTa8AEBx5-.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HO1zxNebYAAUF70.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2088473368043655383",
       "username": "Murphychen888",
@@ -11962,28 +12000,6 @@
         "content": "#iOS \n\nApple WLOC 定位修改，请问一下通过这个项目修改定位的朋友。\n\n修改完毕之后，应该是要关闭物理GPS功能。\n\n如果遇到京东 app 国补这种要求你打开 GPS 的情况，这个方法还能绕过吗？",
         "contentHtml": "<a href=\"/search?f=tweets&q=%23iOS\">#iOS</a> \n\nApple WLOC 定位修改，请问一下通过这个项目修改定位的朋友。\n\n修改完毕之后，应该是要关闭物理GPS功能。\n\n如果遇到京东 app 国补这种要求你打开 GPS 的情况，这个方法还能绕过吗？",
         "link": "https://x.com/taresky/status/2079357334892273873"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085497197794144714",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "那肯定是鼠啊。\n\n猫是打工的。\n\n鼠是创业的。",
-      "contentHtml": "那肯定是鼠啊。\n\n猫是打工的。\n\n鼠是创业的。",
-      "publishedAt": "2026-08-06T22:44:00.000Z",
-      "link": "https://x.com/taresky/status/2085497197794144714",
-      "quote": {
-        "username": "passluo",
-        "displayName": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤 𝘼𝙄",
-        "content": "拉长时间看\n\n猫鼠游戏最终胜利的肯定是：",
-        "contentHtml": "拉长时间看\n\n猫鼠游戏最终胜利的肯定是：",
-        "link": "https://x.com/passluo/status/2085279875410362773"
       },
       "stats": {
         "replies": 0,
