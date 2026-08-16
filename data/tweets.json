@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T03:02:58.856Z",
+  "lastUpdated": "2026-08-16T04:38:31.089Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -114,6 +114,59 @@
     "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2088847209932665275",
+      "username": "Murphychen888",
+      "displayName": "Murphy",
+      "avatar": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_bigger.jpg",
+      "content": "ETH数据二：筹码结构拆解\n\nETH的URPD上显示，在$2,700-2,800的筹码柱特别高，三根柱子加起来1300w枚左右，占流通量超过10%。\n\n而且，这批筹码浮亏40%却几乎没有移动。\n\n首先需要说明的是，ETH的URPD机制是账户模型，Glassnode 以每个实体的全部余额计算其加权平均成本。\n\n比如，2月BitMine持有432万枚，当时平均成本约$3,100；到8月又增持148万枚，买入价大致在 $1,500 - $2,200；合并后加权平均成本就在$2,700左右。\n\n持仓量级、成本位置、迁移方向三者同时吻合。\n\n说明这根筹码柱里的主体基本可以锁定，就是BitMine；当然，可能还混着其他被聚类的实体。\n\n这里还有另外2个原因：\n1、是今年1月的密集成交区；\n2、链上质押；\n\n再结合昨天我们提到，ETH赫芬达尔指数创历史新高，意味着某些大账户供应垄断，导致筹码集中度越来越高。\n\n那就大概率和BitMine、ETF以及链上质押有关了。\n\n这带来的直接好处，就是当价格下跌时，大量流动性被锁住，不再会转换为抛压。\n\n反过来，当ETH价格重回该区间，届时这些筹码是否仍然可以坚定，是否会给上升趋势带来阻力，那就要看ETH当时的叙事和共识了。",
+      "contentHtml": "ETH数据二：筹码结构拆解\n\nETH的URPD上显示，在$2,700-2,800的筹码柱特别高，三根柱子加起来1300w枚左右，占流通量超过10%。\n\n而且，这批筹码浮亏40%却几乎没有移动。\n\n首先需要说明的是，ETH的URPD机制是账户模型，Glassnode 以每个实体的全部余额计算其加权平均成本。\n\n比如，2月BitMine持有432万枚，当时平均成本约$3,100；到8月又增持148万枚，买入价大致在 $1,500 - $2,200；合并后加权平均成本就在$2,700左右。\n\n持仓量级、成本位置、迁移方向三者同时吻合。\n\n说明这根筹码柱里的主体基本可以锁定，就是BitMine；当然，可能还混着其他被聚类的实体。\n\n这里还有另外2个原因：\n1、是今年1月的密集成交区；\n2、链上质押；\n\n再结合昨天我们提到，ETH赫芬达尔指数创历史新高，意味着某些大账户供应垄断，导致筹码集中度越来越高。\n\n那就大概率和BitMine、ETF以及链上质押有关了。\n\n这带来的直接好处，就是当价格下跌时，大量流动性被锁住，不再会转换为抛压。\n\n反过来，当ETH价格重回该区间，届时这些筹码是否仍然可以坚定，是否会给上升趋势带来阻力，那就要看ETH当时的叙事和共识了。",
+      "publishedAt": "2026-08-16T04:35:00.000Z",
+      "link": "https://x.com/Murphychen888/status/2088847209932665275",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP0SzlkbUAAztn2.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Murphychen888",
+        "displayName": "Murphy",
+        "content": "你们要的ETH数据来了.....\n\n似乎很久没说ETH了，这轮我只买了BTC，没买ETH，但这不代表我看空它。相反，至今为止ETH仍然是除了BTC之外，共识最强的主流资产。\n\n这不是我说的，而是ETH的投资者们用行动证明的。\n\n当前ETH的价格（$1,900）从最高点回撤了-60%，幅度上远小于上轮周期的-80%。\n\n但信仰买家（Conviction Buyers）的持仓量却已高达3,142w枚，远超上轮熊底时的1,950w枚，也是历史最高。\n\n说明无论在X上有多少人FUD，甚至痛骂它垃圾，都不影响那群坚定的投资人，在价格下跌时持续增持ETH。\n\n于此同时，亏损卖家（Loss Sellers）和获利了结者（Profit Takers）所持有筹码的总量也都明显低于前两轮周期底部时期。\n\n无论他们还有没有意愿继续卖出，剩下能卖的筹码已经不多了，大多数筹码都不参与换手。\n\n最后，有一个奇特的现象是我们不能忽视的：\n\nETH的赫芬达尔指数的高度已经超越了2015年初诞生时期。说明ETH的筹码集中度越来越高，某些大账户集群大量垄断供应。\n\n这个现象是从2024年11月开始的，在此之前ETH走了9年去中心化的筹码分散之路，而现在反过来超越却只用了2年。\n\n所以说，下轮周期ETH会不会“搞事情”，迸发出超强的能量，亦或是继续软趴，还真不好说。\n\n但从综合数据来，前期在$1,500低点所呈现出的底部特征非常明显。我记得，上轮周期ETH见底时间比BTC整整早了5个月，这轮或许也这样？",
+        "contentHtml": "你们要的ETH数据来了.....\n\n似乎很久没说ETH了，这轮我只买了BTC，没买ETH，但这不代表我看空它。相反，至今为止ETH仍然是除了BTC之外，共识最强的主流资产。\n\n这不是我说的，而是ETH的投资者们用行动证明的。\n\n当前ETH的价格（$1,900）从最高点回撤了-60%，幅度上远小于上轮周期的-80%。\n\n但信仰买家（Conviction Buyers）的持仓量却已高达3,142w枚，远超上轮熊底时的1,950w枚，也是历史最高。\n\n说明无论在X上有多少人FUD，甚至痛骂它垃圾，都不影响那群坚定的投资人，在价格下跌时持续增持ETH。\n\n于此同时，亏损卖家（Loss Sellers）和获利了结者（Profit Takers）所持有筹码的总量也都明显低于前两轮周期底部时期。\n\n无论他们还有没有意愿继续卖出，剩下能卖的筹码已经不多了，大多数筹码都不参与换手。\n\n最后，有一个奇特的现象是我们不能忽视的：\n\nETH的赫芬达尔指数的高度已经超越了2015年初诞生时期。说明ETH的筹码集中度越来越高，某些大账户集群大量垄断供应。\n\n这个现象是从2024年11月开始的，在此之前ETH走了9年去中心化的筹码分散之路，而现在反过来超越却只用了2年。\n\n所以说，下轮周期ETH会不会“搞事情”，迸发出超强的能量，亦或是继续软趴，还真不好说。\n\n但从综合数据来，前期在$1,500低点所呈现出的底部特征非常明显。我记得，上轮周期ETH见底时间比BTC整整早了5个月，这轮或许也这样？",
+        "link": "https://x.com/Murphychen888/status/2088526009297756366",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPvue8zbUAAtDxy.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPvuheHbgAAv3z6.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2088838478649799157",
+      "username": "dongbimao",
+      "displayName": "懂币猫",
+      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
+      "content": "30岁之前\n忙着合群，\n证明被世界需要\n\n30岁后\n享受独处，\n定义自己的世界",
+      "contentHtml": "30岁之前\n忙着合群，\n证明被世界需要\n\n30岁后\n享受独处，\n定义自己的世界",
+      "publishedAt": "2026-08-16T04:01:00.000Z",
+      "link": "https://x.com/dongbimao/status/2088838478649799157",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2088819936269611401",
       "username": "ai_9684xtpa",
@@ -11949,49 +12002,6 @@
         {
           "type": "image",
           "url": "https://pbs.twimg.com/media/HPHfJCGbgAAFvLv.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085665613654139379",
-      "username": "qinbafrank",
-      "displayName": "qinbafrank",
-      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
-      "content": "再加个埃及就有点伊斯兰北约的味道了？看起来都是伊朗战争后美国在中东影响力减弱的大背景下寻求新的安全框架和利益格局",
-      "contentHtml": "再加个埃及就有点伊斯兰北约的味道了？看起来都是伊朗战争后美国在中东影响力减弱的大背景下寻求新的安全框架和利益格局",
-      "publishedAt": "2026-08-07T09:53:00.000Z",
-      "link": "https://x.com/qinbafrank/status/2085665613654139379",
-      "quote": {
-        "username": "Reuters",
-        "displayName": "Reuters",
-        "content": "Saudi Arabia, Turkey and Pakistan to sign joint defence deal amid regional turmoil reut.rs/4hkDxMA reut.rs/4hkDxMA",
-        "contentHtml": "Saudi Arabia, Turkey and Pakistan to sign joint defence deal amid regional turmoil <a href=\"http://reut.rs/4hkDxMA\">reut.rs/4hkDxMA</a> <a href=\"http://reut.rs/4hkDxMA\">reut.rs/4hkDxMA</a>",
-        "link": "https://x.com/Reuters/status/2085639621195546750"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085665338889531467",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "#数码 \n\n还不错",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23数码\">#数码</a> \n\n还不错",
-      "publishedAt": "2026-08-07T09:52:00.000Z",
-      "link": "https://x.com/taresky/status/2085665338889531467",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPHFkQEbsAAj4IW.jpg"
         }
       ],
       "stats": {
