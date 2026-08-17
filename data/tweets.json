@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T22:28:06.163Z",
+  "lastUpdated": "2026-08-17T23:25:51.124Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -109,11 +109,39 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 465,
-    "successUsers": 23,
-    "failedUsers": 9
+    "newFetched": 405,
+    "successUsers": 20,
+    "failedUsers": 12
   },
   "tweets": [
+    {
+      "id": "2089449463714591089",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "3000美金的硬件跑端侧模型已经能媲美4个月前Opus的水平。\n接下去将会从云端的模型优化到云与端侧之间的优化。\n不会对云造成伤害，恰恰是AI全面落地的必要一步，包括Agent落地。",
+      "contentHtml": "3000美金的硬件跑端侧模型已经能媲美4个月前Opus的水平。\n接下去将会从云端的模型优化到云与端侧之间的优化。\n不会对云造成伤害，恰恰是AI全面落地的必要一步，包括Agent落地。",
+      "publishedAt": "2026-08-17T20:29:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2089449463714591089",
+      "quote": {
+        "username": "0xSero",
+        "displayName": "0xSero",
+        "content": "Qwen3.8-27b hits 52 on artificial analysis \n\nA model that runs on 3k USD of hardware is beating everything from 4 months ago. Including Opus \n\nPermanent underclass is cancelled",
+        "contentHtml": "Qwen3.8-27b hits 52 on artificial analysis \n\nA model that runs on 3k USD of hardware is beating everything from 4 months ago. Including Opus \n\nPermanent underclass is cancelled",
+        "link": "https://x.com/0xSero/status/2089421053852258334",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HP8dX50XYAAjbfd.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2089444575635243241",
       "username": "octopusycc",
@@ -275,6 +303,34 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%23fold8\">#fold8</a> \n\nPixel 的问题是硬件太落后了，不光是硬件性能，硬件的设计也落后。\n\n而三星的硬件是主流最强一代，UI 的设计审美也很好。\n\n国产 android 的特点则是软硬件都很顶，但是 UI 审美极其拉胯。\n\nfold8 非常好，喜欢。\n\n甚至我觉得不一定会输给 iPhone Fold。",
       "publishedAt": "2026-08-17T16:27:00.000Z",
       "link": "https://x.com/taresky/status/2089388608637862025",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089383386246971883",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "8月这一波美股行情跟4-5月行情的比较：\n1）底层驱动\n4月是是Authropic的ARR加速+云厂商的业绩；\n8月这一次主要是云厂商的财报让市场确认了AI需求还在飙升商业化继续加速。就是7月份nitter.net/qinbafrank/status/2074…聊到的超大csp的业绩成为衡量AI商业化更重要的指标和权重；\n\n2）发送机板块到扩散节奏\n4月份板块的发动机是英伟达+存储、然后扩散到光互连、CPU、800V/电力、然后是设备；\n8月这一次板块的发动机则变成了英伟达+CSP/软件+光互连，核心逻辑是数据中心越建越多也越多、互连的需求进一步放大，达子cpo交换机的量产也让互连从之前的预期开始走到业绩兑现的地步。\nCSP和软件其实意味着AI采用越来越深化。\n行情最近几个交易日才开始扩散到存储、封装测试，而CPU、800V/电看上去才开始冒头。\n\n3）宏观环境\n油价都是一个大涨后的高位震荡期：4月是100上下、最近是85-90之间；差异是当时市场预期会更快解决、现在博弈有点长期化趋势。\n\n长端利率：\n4-6月US10Y中位值4.4%多、当下则是明显抬升到了4.65%到4.7%。\n但近期市场加息预期相比二季度是要更低的。",
+      "contentHtml": "8月这一波美股行情跟4-5月行情的比较：\n1）底层驱动\n4月是是Authropic的ARR加速+云厂商的业绩；\n8月这一次主要是云厂商的财报让市场确认了AI需求还在飙升商业化继续加速。就是7月份<a href=\"https://nitter.net/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2074…</a>聊到的超大csp的业绩成为衡量AI商业化更重要的指标和权重；\n\n2）发送机板块到扩散节奏\n4月份板块的发动机是英伟达+存储、然后扩散到光互连、CPU、800V/电力、然后是设备；\n8月这一次板块的发动机则变成了英伟达+CSP/软件+光互连，核心逻辑是数据中心越建越多也越多、互连的需求进一步放大，达子cpo交换机的量产也让互连从之前的预期开始走到业绩兑现的地步。\nCSP和软件其实意味着AI采用越来越深化。\n行情最近几个交易日才开始扩散到存储、封装测试，而CPU、800V/电看上去才开始冒头。\n\n3）宏观环境\n油价都是一个大涨后的高位震荡期：4月是100上下、最近是85-90之间；差异是当时市场预期会更快解决、现在博弈有点长期化趋势。\n\n长端利率：\n4-6月US10Y中位值4.4%多、当下则是明显抬升到了4.65%到4.7%。\n但近期市场加息预期相比二季度是要更低的。",
+      "publishedAt": "2026-08-17T16:06:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2089383386246971883",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP77HMAbcAEY7bX.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "八月才是最好的夏天？现在回头再来看29号聊到那时已经不宜过分悲观，如果越跌反倒越要看机会。当时聊到：\n带动市场回暖的因素是联储不加息；\n而驱动市场下一波行情主要催化剂CSP毛利大爆发，回本周期缩短。这一点基本上也被这两天微软和亚马逊的财报验证了。\n现在看昨天走强最直接的驱动因素就是上面说的这两点。\n\n1、关于高性价比区间\n28号这里就聊nitter.net/qinbafrank/status/2081…到很多标的又进入了高性价比区间、可以逐步买入。如果大家有印象上一次我说到市场进入高性价比区间是今年4月初这里nitter.net/qinbafrank/status/2041…。\n能看出当我说“高性价比区间”时候的含金量。\n\n2、接下来是怎么看？\n1）去杠杆大概率是差不多了\n美股以Leopold的对冲基金被清算为标志、算是一个最重要的边际卖家被解决；\n韩股则是前两天摩根大通估计韩国资产相关杠杆ETF的去杠杆基本完成：\n相关AUM从6月底约500亿美元下降至约170亿美元；对冲基金去杠杆约完成90%；\nJ.P. Morgan Prime Brokerage口径的多空杠杆比率，从最高约5.7倍下降至7月27日的3.2倍，接近2025年正常区间上沿。\n\n2）而产业最重要的进展\n首先毫无疑问是微软和亚马逊的财报，这两天有写过多篇推文。核心就是这两家云业务增长在加速、订单质量在提高、已经给市场提供了投入产出回报的证明。\n微软对整个AI平台组合如何提高ROIC解释得更完整；亚马逊对单批资本投入的回本周期解释得更清楚。其实谷歌财报也证明了云业务在超预期增长。\n这个最为关键\n\n其次 昨天openai给出了7月ARR加速增长、也是进一步AI商业化在加速的证明。\n\n总结下来就是去杠杆差不多了，最最关键继一季度财报后市场又再次看到AI商业化加速、投入回报节奏越来越越清晰的证据。\n\n个人看好八月份的行情的、昨晚不仅仅是个反弹、向上走势持续性至少周级别的行情。\n\n3、美股看好哪些？\n1）7月24日这里nitter.net/qinbafrank/status/2080… 最后部分也聊到AI算力产业链上认为仍然还有空间。科技资本开支，晶圆厂资本开支，越往上游还是会越受益。订单的确定性没问题，而且兑现速度会更快：\n第一、存储还有不小的空间，但也得承认过去一年涨幅最暴力的阶段也过去了；\n第二、光互联看兑现的节奏，如果落地兑现节奏快，空间也很好；\n第三、设备、材料、封装测试等环节是可以，大厂和晶圆厂的钱都要流到更上的环节流。\n\n2）超大csp价值重塑、软件重估\n这一部分的逻辑在月中这篇长文nitter.net/qinbafrank/status/2076…里有详细聊到。\n超大CSP会是横向AI底座；\n软件或者saas（非通用）成为业务执行层。\n\n4、未来宏观潜在的风险是什么？\n1）首先是油价\n油价又直接受到美伊冲突走势的影响，前两天这里nitter.net/qinbafrank/status/2082…聊到川普最终可能是不得不接受伊朗对霍尔木兹海峡的控制权，但是时间节奏和路径还不清晰。至少现在还不明朗\n\n博弈的时间长了，市场还会担心通胀问题。特别是8月中旬的7月cpi。\n\n如果未来美伊能尽快重回停火，海峡开通，则对宏观又是一个提振。\n\n2）中期选举的选情会给市场带来影响\n如果选情并不明朗、政治的不确定性会导致部分资金先行避险。\n\n一般来说中期选举可能在9月前后开始影响到市场预期和情绪了。",
+        "contentHtml": "八月才是最好的夏天？现在回头再来看29号聊到那时已经不宜过分悲观，如果越跌反倒越要看机会。当时聊到：\n带动市场回暖的因素是联储不加息；\n而驱动市场下一波行情主要催化剂CSP毛利大爆发，回本周期缩短。这一点基本上也被这两天微软和亚马逊的财报验证了。\n现在看昨天走强最直接的驱动因素就是上面说的这两点。\n\n1、关于高性价比区间\n28号这里就聊<a href=\"https://nitter.net/qinbafrank/status/2081932910735810691?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2081…</a>到很多标的又进入了高性价比区间、可以逐步买入。如果大家有印象上一次我说到市场进入高性价比区间是今年4月初这里<a href=\"https://nitter.net/qinbafrank/status/2041776052167483750?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2041…</a>。\n能看出当我说“高性价比区间”时候的含金量。\n\n2、接下来是怎么看？\n1）去杠杆大概率是差不多了\n美股以Leopold的对冲基金被清算为标志、算是一个最重要的边际卖家被解决；\n韩股则是前两天摩根大通估计韩国资产相关杠杆ETF的去杠杆基本完成：\n相关AUM从6月底约500亿美元下降至约170亿美元；对冲基金去杠杆约完成90%；\nJ.P. Morgan Prime Brokerage口径的多空杠杆比率，从最高约5.7倍下降至7月27日的3.2倍，接近2025年正常区间上沿。\n\n2）而产业最重要的进展\n首先毫无疑问是微软和亚马逊的财报，这两天有写过多篇推文。核心就是这两家云业务增长在加速、订单质量在提高、已经给市场提供了投入产出回报的证明。\n微软对整个AI平台组合如何提高ROIC解释得更完整；亚马逊对单批资本投入的回本周期解释得更清楚。其实谷歌财报也证明了云业务在超预期增长。\n这个最为关键\n\n其次 昨天openai给出了7月ARR加速增长、也是进一步AI商业化在加速的证明。\n\n总结下来就是去杠杆差不多了，最最关键继一季度财报后市场又再次看到AI商业化加速、投入回报节奏越来越越清晰的证据。\n\n个人看好八月份的行情的、昨晚不仅仅是个反弹、向上走势持续性至少周级别的行情。\n\n3、美股看好哪些？\n1）7月24日这里<a href=\"https://nitter.net/qinbafrank/status/2080540272245502111?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2080…</a> 最后部分也聊到AI算力产业链上认为仍然还有空间。科技资本开支，晶圆厂资本开支，越往上游还是会越受益。订单的确定性没问题，而且兑现速度会更快：\n第一、存储还有不小的空间，但也得承认过去一年涨幅最暴力的阶段也过去了；\n第二、光互联看兑现的节奏，如果落地兑现节奏快，空间也很好；\n第三、设备、材料、封装测试等环节是可以，大厂和晶圆厂的钱都要流到更上的环节流。\n\n2）超大csp价值重塑、软件重估\n这一部分的逻辑在月中这篇长文<a href=\"https://nitter.net/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2076…</a>里有详细聊到。\n超大CSP会是横向AI底座；\n软件或者saas（非通用）成为业务执行层。\n\n4、未来宏观潜在的风险是什么？\n1）首先是油价\n油价又直接受到美伊冲突走势的影响，前两天这里<a href=\"https://nitter.net/qinbafrank/status/2082316157416321504?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2082…</a>聊到川普最终可能是不得不接受伊朗对霍尔木兹海峡的控制权，但是时间节奏和路径还不清晰。至少现在还不明朗\n\n博弈的时间长了，市场还会担心通胀问题。特别是8月中旬的7月cpi。\n\n如果未来美伊能尽快重回停火，海峡开通，则对宏观又是一个提振。\n\n2）中期选举的选情会给市场带来影响\n如果选情并不明朗、政治的不确定性会导致部分资金先行避险。\n\n一般来说中期选举可能在9月前后开始影响到市场预期和情绪了。",
+        "link": "https://x.com/qinbafrank/status/2083185986616357116"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -1123,32 +1179,6 @@
       }
     },
     {
-      "id": "2089227290769080656",
-      "username": "DavidSacks",
-      "displayName": "David Sacks",
-      "avatar": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_bigger.jpg",
-      "content": "Some thoughts on Dario’s post:\n\n1. Dario does not actually address Gavin Baker’s account of what he said – something he could easily deny if it were inaccurate.\n\n2. Dario claims his critics live in a “bubble” where all regulation equals regulatory capture. He calls this an overly simplified view and notes that “Many people outside this bubble think of regulation as something that constrains corporate power and benefits ordinary people.” This argument is a straw man. Of course treating all regulation as capture would be overly simplified – but almost no one holds that view. I have repeatedly argued for strong antitrust enforcement to keep industries competitive, especially Big Tech. If Anthropic continues toward monopoly or duopoly status, I would be among the first to demand those rules apply.\n\n3. Regulatory capture is not vague or in the eye of the beholder. Nobel laureate George Stigler defined it as regulation acquired by an industry and designed and operated primarily for its benefit. Stigler challenged the traditional view that government regulation arises from a benevolent state protecting the public from market failures. Rather, industry groups have concentrated stakes and pour resources into influencing regulators, whereas the public’s stake is diffuse and unorganized. The revolving door between companies and the agencies that regulate them compounds the problem. Anthropic understands these dynamics: it has hired multiple senior Biden AI-policy officials and built a substantial government-affairs operation plus a network of aligned organizations to push its preferred frameworks at state and federal levels.\n\n4. Dario has consistently pushed for a new federal agency to review and approve frontier models prior to release – a proposal framed variously as an “FDA for AI,” an “FAA for AI,” and most recently a “FINRA for AI.” I call it a “DMV for AI” because a review process modeled on the FAA or FDA (which takes years) or FINRA (which issues rules for a staid industry widely seen as protecting incumbents) will create long queues as AI models wait for testing and approval. This process will only become more labyrinthine as rules accumulate to prevent theoretical harms. This would handicap the U.S. relative to China, which will not adopt the same constraints. It would also undermine Anthropic’s own business model, whose pricing power depends on remaining ahead of open models. Whatever Dario states today, it is difficult to believe the company would simply accept outcomes that erase that advantage.\n\n5. Anthropic is on track to become one of the most valuable companies in history, with the resources to navigate any approval process and shape the rules while competitors wait. Dario wants open models under heavier scrutiny – he has called them dangerous in Senate testimony, criticized them for not being centrally monitored or withdrawn, and linked them to IP theft. He says he has never sought a ban, but he could achieve a similar result by insisting that identical rules apply to both open and closed models. The U.S. risks becoming an island of costly closed models while the rest of the world races ahead with broader choice.\n\n6. Dario acknowledges that AI is structurally centralizing but attributes this mainly to chips and scaling laws. Access to compute matters, but the deeper risk is who decides which capabilities are available to whom. His preferred pre-deployment testing and FAA/FINRA-style oversight would place that gatekeeping power in a federal bureaucracy working hand-in-glove with a small number of frontier labs – reinforcing centralization rather than countering it.\n\n7. The second part of Dario’s post assumes we have amnesia about Anthropic’s well-orchestrated campaigns hyping AI fears. His May 2025 claim that AI would wipe out 50 percent of entry-level knowledge jobs within five years still lacks supporting evidence fifteen months later. Similarly Anthropic breathlessly promoted its heavily contrived “blackmail” study on 60 Minutes. Yet Dario blames public negativity on a long-standing loss of trust in institutions rather than his own messaging.\n\n8. These narratives have done more than anything to shape public fear. People are left asking the same question Mark Zuckerberg posed: why race to build a future you describe in such negative terms? Thomas Sowell’s \"The Vision of the Anointed\" captures the mindset – elite intellectuals convinced that only they are enlightened enough to control the outcome. As Zuckerberg notes, concentrating power in the hands of an enlightened few has rarely produced the promised results; the practitioners turn out to be less enlightened in practice than in self-conception.\n\n9. Gavin Baker summarized the disagreement cleanly on our pod: Dario believes frontier AI is too powerful to distribute; we believe it is too powerful to centralize. Dario appears to believe, sincerely, that safety and progress are best served by centralizing authority in a marriage of corporate and state power. The weight of human history gives us reason to fear that outcome.",
-      "contentHtml": "Some thoughts on Dario’s post:\n\n1. Dario does not actually address Gavin Baker’s account of what he said – something he could easily deny if it were inaccurate.\n\n2. Dario claims his critics live in a “bubble” where all regulation equals regulatory capture. He calls this an overly simplified view and notes that “Many people outside this bubble think of regulation as something that constrains corporate power and benefits ordinary people.” This argument is a straw man. Of course treating all regulation as capture would be overly simplified – but almost no one holds that view. I have repeatedly argued for strong antitrust enforcement to keep industries competitive, especially Big Tech. If Anthropic continues toward monopoly or duopoly status, I would be among the first to demand those rules apply.\n\n3. Regulatory capture is not vague or in the eye of the beholder. Nobel laureate George Stigler defined it as regulation acquired by an industry and designed and operated primarily for its benefit. Stigler challenged the traditional view that government regulation arises from a benevolent state protecting the public from market failures. Rather, industry groups have concentrated stakes and pour resources into influencing regulators, whereas the public’s stake is diffuse and unorganized. The revolving door between companies and the agencies that regulate them compounds the problem. Anthropic understands these dynamics: it has hired multiple senior Biden AI-policy officials and built a substantial government-affairs operation plus a network of aligned organizations to push its preferred frameworks at state and federal levels.\n\n4. Dario has consistently pushed for a new federal agency to review and approve frontier models prior to release – a proposal framed variously as an “FDA for AI,” an “FAA for AI,” and most recently a “FINRA for AI.” I call it a “DMV for AI” because a review process modeled on the FAA or FDA (which takes years) or FINRA (which issues rules for a staid industry widely seen as protecting incumbents) will create long queues as AI models wait for testing and approval. This process will only become more labyrinthine as rules accumulate to prevent theoretical harms. This would handicap the U.S. relative to China, which will not adopt the same constraints. It would also undermine Anthropic’s own business model, whose pricing power depends on remaining ahead of open models. Whatever Dario states today, it is difficult to believe the company would simply accept outcomes that erase that advantage.\n\n5. Anthropic is on track to become one of the most valuable companies in history, with the resources to navigate any approval process and shape the rules while competitors wait. Dario wants open models under heavier scrutiny – he has called them dangerous in Senate testimony, criticized them for not being centrally monitored or withdrawn, and linked them to IP theft. He says he has never sought a ban, but he could achieve a similar result by insisting that identical rules apply to both open and closed models. The U.S. risks becoming an island of costly closed models while the rest of the world races ahead with broader choice.\n\n6. Dario acknowledges that AI is structurally centralizing but attributes this mainly to chips and scaling laws. Access to compute matters, but the deeper risk is who decides which capabilities are available to whom. His preferred pre-deployment testing and FAA/FINRA-style oversight would place that gatekeeping power in a federal bureaucracy working hand-in-glove with a small number of frontier labs – reinforcing centralization rather than countering it.\n\n7. The second part of Dario’s post assumes we have amnesia about Anthropic’s well-orchestrated campaigns hyping AI fears. His May 2025 claim that AI would wipe out 50 percent of entry-level knowledge jobs within five years still lacks supporting evidence fifteen months later. Similarly Anthropic breathlessly promoted its heavily contrived “blackmail” study on 60 Minutes. Yet Dario blames public negativity on a long-standing loss of trust in institutions rather than his own messaging.\n\n8. These narratives have done more than anything to shape public fear. People are left asking the same question Mark Zuckerberg posed: why race to build a future you describe in such negative terms? Thomas Sowell’s \"The Vision of the Anointed\" captures the mindset – elite intellectuals convinced that only they are enlightened enough to control the outcome. As Zuckerberg notes, concentrating power in the hands of an enlightened few has rarely produced the promised results; the practitioners turn out to be less enlightened in practice than in self-conception.\n\n9. Gavin Baker summarized the disagreement cleanly on our pod: Dario believes frontier AI is too powerful to distribute; we believe it is too powerful to centralize. Dario appears to believe, sincerely, that safety and progress are best served by centralizing authority in a marriage of corporate and state power. The weight of human history gives us reason to fear that outcome.",
-      "publishedAt": "2026-08-17T05:46:00.000Z",
-      "link": "https://x.com/DavidSacks/status/2089227290769080656",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "DarioAmodei",
-        "displayName": "Dario Amodei",
-        "content": "1/2 Thanks Gavin for an especially thoughtful exchange. I don't usually spend much time on social media but I wanted to engage here because it really brings out the heart of an important conversation.\n\nFirst, on regulation, I think that “either concentrate it in the hands of a chosen few companies and politicians via regulation or distribute it widely” is a false choice.  I know that there’s a sort of Silicon Valley shorthand where regulation = regulatory capture = concentration of power, but I’ve always found this to be an overly simplified picture of the world.  Many people outside this bubble think of regulation as something that constrains corporate power and benefits ordinary people.  I don’t necessarily agree with that perspective either, rather I think it’s complicated and really depends on what the “regulation” consists of.  But in particular I think that those in the “regulation = regulatory capture = concentration of power” frame often underrate the decentralizing power of objective and fair institutional processes.  A crude analogy is that the formal court system can sometimes feel stuffy and elitist, but it does a much better job of defending the rights of vulnerable individuals than the alternative, mob justice.  At their best, institutions can vest power in ideas rather than people, and thereby decentralize that power.\n\nThis is why Anthropic has always made its policy proposals very carefully.  We try very hard to make proposals that disadvantage (slow down) frontier AI companies while *advantaging* smaller competitors.  California’s SB53 (which we supported), and even the much-maligned SB 1047 (which we were ambivalent on), completely exempt any company below a certain amount of revenue or model training costs from being covered at all (it was $500M for SB 53, lower for 1047 but we objected to that).  More recently the testing process we’ve advocated for at CAISI and the White House involves more rigorous tests for frontier models than off-frontier models — something that differentially advantages challengers.  Similarly, the “Pacing the Frontier” letter envisions (or at least Anthropic’s preferred implementation of it envisions) modulating the pace of the very best models while not constraining those who are catching up.  This hurts the business interests of the frontier labs and helps challengers, including open-weights!\n\nOverall my view is that AI is *structurally* a technology that tends to concentrate power, for reasons that have nothing to do with regulation (more to do with the extreme implications of the scaling laws).  Open-weights do help some with this but are nowhere near a sufficient solution because they simply shift the concentration somewhat to those with the most compute and chips (which are roughly the frontier labs plus maybe hardware providers).  By contrast I think the right “rules of the road” can simultaneously (a) address AI’s cyber/bio/alignment risks, (b) institutionally constrain the power of the frontier AI companies, and (c) leave room for open-weights models while also addressing the specific risks that they bring.\n\nBTW I do not think that the events of the last few months have “failed to result in [my] preferred regulatory path”.  The approach that the Trump administration is reported to be taking — pre-deployment testing for frontier models, and also testing of open-weights models when they get closer to the frontier — is one that I am very supportive of, though of course I have to see the details to be sure.  I am also supportive of Demis Hassabis’ ideas around a FINRA-like entity.  This contrasts with six months ago when most of the industry was still pushing for preemption of all state regulation and no apparent federal approach either.",
-        "contentHtml": "1/2 Thanks Gavin for an especially thoughtful exchange. I don't usually spend much time on social media but I wanted to engage here because it really brings out the heart of an important conversation.\n\nFirst, on regulation, I think that “either concentrate it in the hands of a chosen few companies and politicians via regulation or distribute it widely” is a false choice.  I know that there’s a sort of Silicon Valley shorthand where regulation = regulatory capture = concentration of power, but I’ve always found this to be an overly simplified picture of the world.  Many people outside this bubble think of regulation as something that constrains corporate power and benefits ordinary people.  I don’t necessarily agree with that perspective either, rather I think it’s complicated and really depends on what the “regulation” consists of.  But in particular I think that those in the “regulation = regulatory capture = concentration of power” frame often underrate the decentralizing power of objective and fair institutional processes.  A crude analogy is that the formal court system can sometimes feel stuffy and elitist, but it does a much better job of defending the rights of vulnerable individuals than the alternative, mob justice.  At their best, institutions can vest power in ideas rather than people, and thereby decentralize that power.\n\nThis is why Anthropic has always made its policy proposals very carefully.  We try very hard to make proposals that disadvantage (slow down) frontier AI companies while *advantaging* smaller competitors.  California’s SB53 (which we supported), and even the much-maligned SB 1047 (which we were ambivalent on), completely exempt any company below a certain amount of revenue or model training costs from being covered at all (it was $500M for SB 53, lower for 1047 but we objected to that).  More recently the testing process we’ve advocated for at CAISI and the White House involves more rigorous tests for frontier models than off-frontier models — something that differentially advantages challengers.  Similarly, the “Pacing the Frontier” letter envisions (or at least Anthropic’s preferred implementation of it envisions) modulating the pace of the very best models while not constraining those who are catching up.  This hurts the business interests of the frontier labs and helps challengers, including open-weights!\n\nOverall my view is that AI is *structurally* a technology that tends to concentrate power, for reasons that have nothing to do with regulation (more to do with the extreme implications of the scaling laws).  Open-weights do help some with this but are nowhere near a sufficient solution because they simply shift the concentration somewhat to those with the most compute and chips (which are roughly the frontier labs plus maybe hardware providers).  By contrast I think the right “rules of the road” can simultaneously (a) address AI’s cyber/bio/alignment risks, (b) institutionally constrain the power of the frontier AI companies, and (c) leave room for open-weights models while also addressing the specific risks that they bring.\n\nBTW I do not think that the events of the last few months have “failed to result in [my] preferred regulatory path”.  The approach that the Trump administration is reported to be taking — pre-deployment testing for frontier models, and also testing of open-weights models when they get closer to the frontier — is one that I am very supportive of, though of course I have to see the details to be sure.  I am also supportive of Demis Hassabis’ ideas around a FINRA-like entity.  This contrasts with six months ago when most of the industry was still pushing for preemption of all state regulation and no apparent federal approach either.",
-        "link": "https://x.com/DarioAmodei/status/2088758816376807762"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2089224146140164188",
       "username": "Bitfatty",
       "displayName": "比特肥 || Bitfatty (🍀,🍀)",
@@ -1577,82 +1607,6 @@
           {
             "type": "image",
             "url": "https://pbs.twimg.com/media/HPUxNRdbMAEeBvE.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2089154421221736840",
-      "username": "gak_pdx",
-      "displayName": "Greg Koenig",
-      "avatar": "https://pbs.twimg.com/profile_images/1618391097994276864/HYtwqAcp_bigger.jpg",
-      "content": "Don't worry guys!\nThis unrealized gains tax will be meticulously constructed by the class-leading legislative engineers in the Democratic Party to capture the nuance and mitigate second and third order effects that would otherwise lead to negative unanticipated consequences. This thing will be constructed as the Swiss Watch of tax legislation so that it will only do the thing we intend, with no downsides.\nJust look at the quality of legislature we have constructing it! How can you not have absolute faith in this team to not utterly cannonball the American economic engine and speed-run us on the Argentina arc.",
-      "contentHtml": "Don't worry guys!\nThis unrealized gains tax will be meticulously constructed by the class-leading legislative engineers in the Democratic Party to capture the nuance and mitigate second and third order effects that would otherwise lead to negative unanticipated consequences. This thing will be constructed as the Swiss Watch of tax legislation so that it will only do the thing we intend, with no downsides.\nJust look at the quality of legislature we have constructing it! How can you not have absolute faith in this team to not utterly cannonball the American economic engine and speed-run us on the Argentina arc.",
-      "publishedAt": "2026-08-17T00:56:00.000Z",
-      "link": "https://x.com/gak_pdx/status/2089154421221736840",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HP4pEwkaIAAm66K.png"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HP4qOU1a4AA1QkZ.png"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HP4qYPaawAAvYZo.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HP4qe1UawAAtmgk.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "RoKhanna",
-        "displayName": "Ro Khanna",
-        "content": "Allow illiquid founders to pledge shares with a loan from the government to pay tax. The loan period is long but not infinite (e.g. 10 years). The loan is non-resource: at the end of the period, the loan is either paid back in cash, or the government assumes the shares.",
-        "contentHtml": "Allow illiquid founders to pledge shares with a loan from the government to pay tax. The loan period is long but not infinite (e.g. 10 years). The loan is non-resource: at the end of the period, the loan is either paid back in cash, or the government assumes the shares.",
-        "link": "https://x.com/RoKhanna/status/2088764294225674659"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2089149801262940314",
-      "username": "litcapital",
-      "displayName": "litquidity",
-      "avatar": "https://pbs.twimg.com/profile_images/1611406816130338816/KWJfnndd_bigger.jpg",
-      "content": "If Ro Khanna and his idiotic base somehow pass their wealth tax as proposed, founders have no choice but to move out of California\n\nThere is no world where taking out massive loans backed by founder shares makes any sense and I don’t see how investors could fund these companies",
-      "contentHtml": "If Ro Khanna and his idiotic base somehow pass their wealth tax as proposed, founders have no choice but to move out of California\n\nThere is no world where taking out massive loans backed by founder shares makes any sense and I don’t see how investors could fund these companies",
-      "publishedAt": "2026-08-17T00:38:00.000Z",
-      "link": "https://x.com/litcapital/status/2089149801262940314",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "exec_sum",
-        "displayName": "Exec Sum",
-        "content": "NEWS: Ro Khanna proposes cash-strapped tech founders take out millions in government loans backed by illiquid startup shares to pay his proposed 5% billionaire wealth tax, with the government able to seize the shares if the loan cannot be repaid.",
-        "contentHtml": "NEWS: Ro Khanna proposes cash-strapped tech founders take out millions in government loans backed by illiquid startup shares to pay his proposed 5% billionaire wealth tax, with the government able to seize the shares if the loan cannot be repaid.",
-        "link": "https://x.com/exec_sum/status/2089148207444132014",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HP4lNS5bYAAB3V-.jpg"
           }
         ]
       },
@@ -3881,6 +3835,25 @@
       "contentHtml": "啥玩楞飘过去了？",
       "publishedAt": "2026-08-14T09:35:00.000Z",
       "link": "https://x.com/hazenlee/status/2088197783291580591",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2088197772545843401",
+      "username": "nft_hu",
+      "displayName": "Fiona ❤️&amp; ✌️",
+      "avatar": "https://pbs.twimg.com/profile_images/1732381783558422528/2FQre00D_bigger.jpg",
+      "content": "$NBIS 云合同的收费标准：\n1-3年核心AI云合同：2000万-2500万美元/兆瓦\n3-6个月的专用容量：4000万至5000万美元/兆瓦或以上",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23NBIS\">$NBIS</a> 云合同的收费标准：\n1-3年核心AI云合同：2000万-2500万美元/兆瓦\n3-6个月的专用容量：4000万至5000万美元/兆瓦或以上",
+      "publishedAt": "2026-08-14T09:35:00.000Z",
+      "link": "https://x.com/nft_hu/status/2088197772545843401",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
