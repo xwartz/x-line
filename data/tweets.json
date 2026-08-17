@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T13:44:41.041Z",
+  "lastUpdated": "2026-08-17T14:30:52.591Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -108,12 +108,244 @@
     }
   ],
   "stats": {
-    "total": 495,
-    "newFetched": 42,
-    "successUsers": 2,
-    "failedUsers": 30
+    "total": 500,
+    "newFetched": 483,
+    "successUsers": 24,
+    "failedUsers": 8
   },
   "tweets": [
+    {
+      "id": "2089354272408530964",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "谢谢大家啊 \n\n$CBRS +16%了\n\n$SPCX +6.5%",
+      "contentHtml": "谢谢大家啊 \n\n<a href=\"/search?f=tweets&q=%23CBRS\">$CBRS</a> +16%了\n\n<a href=\"/search?f=tweets&q=%23SPCX\">$SPCX</a> +6.5%",
+      "publishedAt": "2026-08-17T14:10:00.000Z",
+      "link": "https://x.com/octopusycc/status/2089354272408530964",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP7gkMNaoAAKEZa.png"
+        }
+      ],
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "我们真的需要重新审视\n$SPCX \n$CBRS\n$NTRA",
+        "contentHtml": "我们真的需要重新审视\n<a href=\"/search?f=tweets&q=%23SPCX\">$SPCX</a> \n<a href=\"/search?f=tweets&q=%23CBRS\">$CBRS</a>\n<a href=\"/search?f=tweets&q=%23NTRA\">$NTRA</a>",
+        "link": "https://x.com/octopusycc/status/2089209034633322660"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089354210425086123",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "从卖芯片/系统到帮助建AI工厂，7月底传出来的这场AI热潮中雄心勃勃的交易终于落定：\n1）英伟达宣布向SB Energy投资15亿美元（与SoftBank、OpenAI并列股东）；2）SB Energy负责建设、拥有并运营数据中心，与OpenAI签20年租约；\n3）英伟达提供LPS（Land, power and shell土地、电力与壳层建筑，简称LPS建设）相关的信用支持/残值担保（初始4.25 GW，有扩展选项可覆盖剩余约3.75 GW，总计约8 GW）；\n4）产能分阶段上线，预计从2028年开始。\n\n老黄认为LPS建设已成为AI工厂的下一个关键战略资源，在AI经济中算力即收入，而AI工厂需要完整资源栈：先进芯片、封装、内存、网络 + LPS。大多数客户仍自行解决LPS，但前沿AI实验室对训练与推理算力的需求极其巨大，增长速度超过自身资产负债表与长期信用能力。英伟达因此主动介入，帮助锁定物理基础设施。\n\n从这里我们也能看到NVIDIA的角色演进： 从芯片 → 系统 → 网络 → CUDA → 全栈AI工厂 → 现在进一步向上游延伸，帮助安全锁定AI工厂的“长寿命基础”LPS。\n\n这也标志着N英伟达从“卖芯片/系统”正式向“帮助客户安全构建整个AI工厂物理层”迈进。\n\n上周英伟达宣布nitter.net/qinbafrank/status/2087…与六大金融机构联合建立“独立算力融资平台”本质也是这次与SB Energy、OpenAI合作的升级版。",
+      "contentHtml": "从卖芯片/系统到帮助建AI工厂，7月底传出来的这场AI热潮中雄心勃勃的交易终于落定：\n1）英伟达宣布向SB Energy投资15亿美元（与SoftBank、OpenAI并列股东）；2）SB Energy负责建设、拥有并运营数据中心，与OpenAI签20年租约；\n3）英伟达提供LPS（Land, power and shell土地、电力与壳层建筑，简称LPS建设）相关的信用支持/残值担保（初始4.25 GW，有扩展选项可覆盖剩余约3.75 GW，总计约8 GW）；\n4）产能分阶段上线，预计从2028年开始。\n\n老黄认为LPS建设已成为AI工厂的下一个关键战略资源，在AI经济中算力即收入，而AI工厂需要完整资源栈：先进芯片、封装、内存、网络 + LPS。大多数客户仍自行解决LPS，但前沿AI实验室对训练与推理算力的需求极其巨大，增长速度超过自身资产负债表与长期信用能力。英伟达因此主动介入，帮助锁定物理基础设施。\n\n从这里我们也能看到NVIDIA的角色演进： 从芯片 → 系统 → 网络 → CUDA → 全栈AI工厂 → 现在进一步向上游延伸，帮助安全锁定AI工厂的“长寿命基础”LPS。\n\n这也标志着N英伟达从“卖芯片/系统”正式向“帮助客户安全构建整个AI工厂物理层”迈进。\n\n上周英伟达宣布<a href=\"https://nitter.net/qinbafrank/status/2087182111832998287?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2087…</a>与六大金融机构联合建立“独立算力融资平台”本质也是这次与SB Energy、OpenAI合作的升级版。",
+      "publishedAt": "2026-08-17T14:10:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2089354210425086123",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP7gk_paYAE0QXd.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "我们要看到美国AI热潮中最雄心勃勃的金融交易么？看华尔街日报报道Nvidia正与OpenAI商谈提供约2500亿美元的背书担保，支持俄亥俄州南部一个10GW超大型数据中心项目（SoftBank Energy开发）。项目总造价（含芯片）可能超5000亿美元，是目前宣布的最大数据中心项目，交易尚未敲定，可能告吹。OpenAI近期将2030年前算力支出预期上调至约7500亿美元。\n\n1、项目相关信息\n10GW数据中心园区（约可供应数百万户家庭电力），位于南部俄亥俄州已退役的铀浓缩厂址（哥伦布以南约50英里），使用联邦土地，以减少许可和本地反对阻力。首期约800兆瓦预计2028年完工，整体需多年建设。开发商为软银旗下SoftBan Energy（孙正义相关）\n\n电力由美国政府控制，日本根据近期贸易协议单独投资约330亿美元建设天然气发电项目。美国向运营方支付费用，日本收回投资前与美方分享售电收入，之后美国拿90%。商务部长Howard Lutnick参与分配哪些公司获得电力接入。OpenAI谈判最积极，Anthropic、微软、谷歌也表达过兴趣。\n\n英伟达角色\n提供约2500亿美元“背书”，覆盖OpenAI的数据中心租赁和建设债务，不覆盖内部Nvidia芯片。另有单独讨论为芯片采购融资，可能达3500亿美元。\n\n2、这其实属于“信用包装”安排。\nOpenAI作为未盈利的私人公司，无投资级信用评级，直接融资成本高、难度大。英伟达凭借自身强大资产负债表（市值约5万亿美元级别、投资级信用）提供担保，相当于把违约风险转移到自己身上。\n\n这让开发商更容易以更优惠条件向银行/债市融资，降低租赁和建设资金成本。本质是供应商（芯片卖家）用信用为客户（算力买家）背书，锁定长期GPU需求。\n\n3、意义及影响\n如果敲定成行，这应该美国AI热潮中最雄心勃勃的金融交易之一。\n1）加速AI基础设施军备竞赛\n直接缓解算力和电力瓶颈。10GW规模属于“AI工厂”级别，有助于OpenAI训练下一代模型并可能向云服务扩展。政府-私人合作（联邦土地+日美贸易电力安排）显示美国正用政策工具加速关键产业，与中国竞争意味浓厚。\n\n2）英伟达角色深化：\n真正升级为“基础设施银行/中央银行”。它不仅供应芯片，还深度介入融资和需求锁定，进一步巩固CUDA生态和市场份额。类似backstop可能扩散到更多neocloud和项目，推动整体资本支出\n\n3）产业模式转变\nAI公司从纯租云转向长期租赁/自建超大规模园区，降低对超大规模云厂商的依赖，但也加剧电力、冷却、铜材、变压器等上游需求。\n\n4）竞争格局\n10GW如果建成绝对是重塑了AI算力贷竞争格局，很大程度上能缓解当前的电力紧张。\n\n整体科技/AI板块可能因“大单落地”情绪升温。\n\n4、风险是什么？\n循环融资特征明显：Nvidia投资OpenAI → OpenAI租用/购买Nvidia驱动的基础设施 → Nvidia通过担保确保项目落地并持续卖芯片。若项目推进，OpenAI可从主要依赖云厂商（微软、亚马逊、甲骨文等）转向更大程度自控基础设施。\n\n但市场会更关注信用风险增加、潜在被触发担保的敞口，以及是否稀释近端现金流。估值和支出高度互锁，市场愈发不能承担一丝不及预期的风险。\n\n芯片商直接用资产负债表为超大规模算力工厂担保。一方面加速美国AI能力建设，另一方面也包含了高度循环、高杠杆的脆弱性。\n\n当然交易还在谈判中，也要看最终条款、落地进度和实际触发概率将决定真实影响。",
+        "contentHtml": "我们要看到美国AI热潮中最雄心勃勃的金融交易么？看华尔街日报报道Nvidia正与OpenAI商谈提供约2500亿美元的背书担保，支持俄亥俄州南部一个10GW超大型数据中心项目（SoftBank Energy开发）。项目总造价（含芯片）可能超5000亿美元，是目前宣布的最大数据中心项目，交易尚未敲定，可能告吹。OpenAI近期将2030年前算力支出预期上调至约7500亿美元。\n\n1、项目相关信息\n10GW数据中心园区（约可供应数百万户家庭电力），位于南部俄亥俄州已退役的铀浓缩厂址（哥伦布以南约50英里），使用联邦土地，以减少许可和本地反对阻力。首期约800兆瓦预计2028年完工，整体需多年建设。开发商为软银旗下SoftBan Energy（孙正义相关）\n\n电力由美国政府控制，日本根据近期贸易协议单独投资约330亿美元建设天然气发电项目。美国向运营方支付费用，日本收回投资前与美方分享售电收入，之后美国拿90%。商务部长Howard Lutnick参与分配哪些公司获得电力接入。OpenAI谈判最积极，Anthropic、微软、谷歌也表达过兴趣。\n\n英伟达角色\n提供约2500亿美元“背书”，覆盖OpenAI的数据中心租赁和建设债务，不覆盖内部Nvidia芯片。另有单独讨论为芯片采购融资，可能达3500亿美元。\n\n2、这其实属于“信用包装”安排。\nOpenAI作为未盈利的私人公司，无投资级信用评级，直接融资成本高、难度大。英伟达凭借自身强大资产负债表（市值约5万亿美元级别、投资级信用）提供担保，相当于把违约风险转移到自己身上。\n\n这让开发商更容易以更优惠条件向银行/债市融资，降低租赁和建设资金成本。本质是供应商（芯片卖家）用信用为客户（算力买家）背书，锁定长期GPU需求。\n\n3、意义及影响\n如果敲定成行，这应该美国AI热潮中最雄心勃勃的金融交易之一。\n1）加速AI基础设施军备竞赛\n直接缓解算力和电力瓶颈。10GW规模属于“AI工厂”级别，有助于OpenAI训练下一代模型并可能向云服务扩展。政府-私人合作（联邦土地+日美贸易电力安排）显示美国正用政策工具加速关键产业，与中国竞争意味浓厚。\n\n2）英伟达角色深化：\n真正升级为“基础设施银行/中央银行”。它不仅供应芯片，还深度介入融资和需求锁定，进一步巩固CUDA生态和市场份额。类似backstop可能扩散到更多neocloud和项目，推动整体资本支出\n\n3）产业模式转变\nAI公司从纯租云转向长期租赁/自建超大规模园区，降低对超大规模云厂商的依赖，但也加剧电力、冷却、铜材、变压器等上游需求。\n\n4）竞争格局\n10GW如果建成绝对是重塑了AI算力贷竞争格局，很大程度上能缓解当前的电力紧张。\n\n整体科技/AI板块可能因“大单落地”情绪升温。\n\n4、风险是什么？\n循环融资特征明显：Nvidia投资OpenAI → OpenAI租用/购买Nvidia驱动的基础设施 → Nvidia通过担保确保项目落地并持续卖芯片。若项目推进，OpenAI可从主要依赖云厂商（微软、亚马逊、甲骨文等）转向更大程度自控基础设施。\n\n但市场会更关注信用风险增加、潜在被触发担保的敞口，以及是否稀释近端现金流。估值和支出高度互锁，市场愈发不能承担一丝不及预期的风险。\n\n芯片商直接用资产负债表为超大规模算力工厂担保。一方面加速美国AI能力建设，另一方面也包含了高度循环、高杠杆的脆弱性。\n\n当然交易还在谈判中，也要看最终条款、落地进度和实际触发概率将决定真实影响。",
+        "link": "https://x.com/qinbafrank/status/2081563262571954207",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOMyv-LaQAAoyy6.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089350446494454185",
+      "username": "Bitfatty",
+      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
+      "content": "出师不利！！！！！",
+      "contentHtml": "出师不利！！！！！",
+      "publishedAt": "2026-08-17T13:55:00.000Z",
+      "link": "https://x.com/Bitfatty/status/2089350446494454185",
+      "quote": {
+        "username": "Bitfatty",
+        "displayName": "比特肥 || Bitfatty (🍀,🍀)",
+        "content": "#10万u多久亏完",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%2310万u多久亏完\">#10万u多久亏完</a>",
+        "link": "https://x.com/Bitfatty/status/2089323485378306467"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089346300575965417",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-08-17T13:39:00.000Z",
+      "link": "https://x.com/follow_clues/status/2089346300575965417",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP7ZYhUb0AAZIS_.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089346249329881229",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-08-17T13:38:00.000Z",
+      "link": "https://x.com/follow_clues/status/2089346249329881229",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP7ZVjLakAED-XE.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089344908419387642",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2086384144427454464/vEX1IsSf_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-08-17T13:33:00.000Z",
+      "link": "https://x.com/hazenlee/status/2089344908419387642",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP7YHdxaoAACTUt.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089344238987481592",
+      "username": "follow_clues",
+      "displayName": "Theclues",
+      "avatar": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_bigger.jpg",
+      "content": "体验deepseek harness，做交易小工具，效果总结：\n1.处理速度相比claude慢一些\n👍2.自我修复能力优秀\n\n足以应对日常任务，消耗5400万token，花费24rmb",
+      "contentHtml": "体验deepseek harness，做交易小工具，效果总结：\n1.处理速度相比claude慢一些\n👍2.自我修复能力优秀\n\n足以应对日常任务，消耗5400万token，花费24rmb",
+      "publishedAt": "2026-08-17T13:30:00.000Z",
+      "link": "https://x.com/follow_clues/status/2089344238987481592",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP7XF7IaAAAWWHT.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089343974570148299",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "开播了\n\n今天就很重要了",
+      "contentHtml": "开播了\n\n今天就很重要了",
+      "publishedAt": "2026-08-17T13:29:00.000Z",
+      "link": "https://x.com/octopusycc/status/2089343974570148299",
+      "quote": {
+        "username": "octopusycc",
+        "displayName": "大老师Bugsbunny ｜DRAM UP only",
+        "content": "app.binance.com/uni-qr/cspa/…\n21:30跟大家聊聊第三周交易计划\n\n最重要的一周计划了！",
+        "contentHtml": "<a href=\"https://app.binance.com/uni-qr/cspa/44585106287281?r=MJ6LI1UJ&l=zh-CN&source=host_share&uc=app_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>\n21:30跟大家聊聊第三周交易计划\n\n最重要的一周计划了！",
+        "link": "https://x.com/octopusycc/status/2089336153900306559",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HP7QJkyaMAAcQk0.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089336153900306559",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "app.binance.com/uni-qr/cspa/…\n21:30跟大家聊聊第三周交易计划\n\n最重要的一周计划了！",
+      "contentHtml": "<a href=\"https://app.binance.com/uni-qr/cspa/44585106287281?r=MJ6LI1UJ&l=zh-CN&source=host_share&uc=app_square_share_link&us=copylink\">app.binance.com/uni-qr/cspa/…</a>\n21:30跟大家聊聊第三周交易计划\n\n最重要的一周计划了！",
+      "publishedAt": "2026-08-17T12:58:00.000Z",
+      "link": "https://x.com/octopusycc/status/2089336153900306559",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP7QJkyaMAAcQk0.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089334658727284877",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny ｜DRAM UP only",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "你不是卖币了吗，怎么还ATM发新股了\n真是畜生 @saylor \n\nMSTR上周ATM 346万股，筹得3.34亿美元，用于支付STRC股息、回购STRC优先股及增加美元储备消息称MSCI或将改写规则，将加密货币储备公司剔除指数",
+      "contentHtml": "你不是卖币了吗，怎么还ATM发新股了\n真是畜生 <a href=\"/saylor\" title=\"Michael Saylor\">@saylor</a> \n\nMSTR上周ATM 346万股，筹得3.34亿美元，用于支付STRC股息、回购STRC优先股及增加美元储备消息称MSCI或将改写规则，将加密货币储备公司剔除指数",
+      "publishedAt": "2026-08-17T12:52:00.000Z",
+      "link": "https://x.com/octopusycc/status/2089334658727284877",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2089330509340127518",
       "username": "Bitfatty",
@@ -205,6 +437,55 @@
       "contentHtml": "<a href=\"/search?f=tweets&q=%2310万u多久亏完\">#10万u多久亏完</a>",
       "publishedAt": "2026-08-17T12:08:00.000Z",
       "link": "https://x.com/Bitfatty/status/2089323485378306467",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089321312435245353",
+      "username": "JoshuaDeuk",
+      "displayName": "Joshua | MOZAIK 🇰🇷",
+      "avatar": "https://pbs.twimg.com/profile_images/1801869779344703488/LfOPOolq_bigger.jpg",
+      "content": "think equity market kinda local topping here ,   waiting with cash .",
+      "contentHtml": "think equity market kinda local topping here ,   waiting with cash .",
+      "publishedAt": "2026-08-17T11:59:00.000Z",
+      "link": "https://x.com/JoshuaDeuk/status/2089321312435245353",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089320414711529860",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "英伟达CPO供应链，英伟达Spectrum-X CPO交换机全面量产最大的意义，是CPO的投资逻辑正在发生变化：之前市场担心的是会不会延误，时间节奏会不会推迟。相当于现在英伟达用事实回应了担忧和质疑，推进节奏不仅没有延迟还在加快。那么现在市场就开始转向“哪些企业已进入量产链、良率能否稳定、客户何时大规模部署以及单台价值量有多高？”\n\n美银将CPO供应链划分为七个层级，覆盖光学引擎、精密光学、激光器、光纤连接、封装测试及设备等环节。不同环节的技术门槛、价值量和竞争格局差异较大。其中，光学引擎价值量最高，FAU的潜在业绩弹性最突出，而组装测试和自动化设备则决定CPO能否真正实现规模量产。\n\n短期看，量产会首先利好已经进入英伟达生产体系的硅光子制造、封装测试、FAU、激光模块和系统组装供应商；\n中长期看，随著出货量在2028—2029年进入陡峭增长阶段，FAU、外部激光源和精密光学部件的业绩弹性可能更加突出。\n\n后续真正需要跟踪的是：客户认证、订单份额、良率、扩产速度以及CPO相对传统可插拔方案的成本下降幅度。\n\n本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "contentHtml": "英伟达CPO供应链，英伟达Spectrum-X CPO交换机全面量产最大的意义，是CPO的投资逻辑正在发生变化：之前市场担心的是会不会延误，时间节奏会不会推迟。相当于现在英伟达用事实回应了担忧和质疑，推进节奏不仅没有延迟还在加快。那么现在市场就开始转向“哪些企业已进入量产链、良率能否稳定、客户何时大规模部署以及单台价值量有多高？”\n\n美银将CPO供应链划分为七个层级，覆盖光学引擎、精密光学、激光器、光纤连接、封装测试及设备等环节。不同环节的技术门槛、价值量和竞争格局差异较大。其中，光学引擎价值量最高，FAU的潜在业绩弹性最突出，而组装测试和自动化设备则决定CPO能否真正实现规模量产。\n\n短期看，量产会首先利好已经进入英伟达生产体系的硅光子制造、封装测试、FAU、激光模块和系统组装供应商；\n中长期看，随著出货量在2028—2029年进入陡峭增长阶段，FAU、外部激光源和精密光学部件的业绩弹性可能更加突出。\n\n后续真正需要跟踪的是：客户认证、订单份额、良率、扩产速度以及CPO相对传统可插拔方案的成本下降幅度。\n\n本条由<a href=\"/bitget_zh\" title=\"Bitget中文\">@bitget_zh</a>赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "publishedAt": "2026-08-17T11:56:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2089320414711529860",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP7B1xGawAAwAXi.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "英伟达CPO交换机全面量产，这应该光互连领域的大事件。昨天英伟达宣布Spectrum-X Ethernet Photonics已进入全面量产阶段，为面向AI工厂的下一代大规模扩展网络基础设施提供支持。\n\nSpectrum-X Ethernet Photonics 是 NVIDIA Spectrum-X 以太网网络平台中的硅光子（Silicon Photonics）/共封装光学（CPO, Co-Packaged Optics）交换机技术，主要面向大规模 AI 工厂（AI Factory）和高性能 AI 数据中心场景。\n它把硅光引擎与交换 ASIC 直接共封装在同一封装内，取代传统可插拔光模块，专为超大规模 GPU 集群的网络互联设计。\n\n核心应用场景\n1）大规模 AI 训练与推理集群 / AI 工厂：支持从数万到数十万甚至百万级 GPU 的互联，提供 GPU 到 GPU 的高带宽、低延迟、高有效带宽通信，特别适合生成式 AI、大模型训练和分布式推理。它能帮助实现“吉瓦级”（GW-scale）AI 基础设施，并提升整体能效与可靠性。\n\n2）超大规模数据中心内部网络（就是通常称的Scale-out 网络）：解决传统以太网在超大规模 AI 负载下的功耗高、故障点多、信号完整性差等问题。相比传统可插拔收发器方案，它可实现约 5 倍网络能效提升、激光器数量减少约 4 倍、平均故障间隔时间（MTBI）提升约 10 倍，以及更长的 AI 应用持续运行时间。\n\n平均故障间隔时间这一点很重要，云厂商采用cpo很大的一个考量就是故障率和故障间隔时间。\n\n3）跨数据中心扩展（Scale-cross场景，结合 Spectrum-XGS）：也可配合相关技术，把分散的多个数据中心（甚至相距较远）连接成统一的大规模 AI 超级工厂。\n\n这是英伟达专为“AI 工厂”这种需要海量 GPU 高速互联、极致能效和可靠性的场景打造的下一代网络基础设施。目前已进入全面量产，首批客户包括 CoreWeave、Lambda、Oracle 等。\n\n供应链： \nTSMS负责硅光子制造 ；\nSPIL负责芯片级封装与测试；\nLumentum提供激光芯片制造 ；\nTFC负责激光模块子组件组装 ；\nFoxconn 提供Communication交换系统组装 ；\n\n8月初看好光互连很重要的一个原因就是当时看到英伟达高级副总裁 Gilad Shainer在一个技术论坛上宣布，CPO 已开始量产。现在终于看到官方正式宣布量产的公告了。",
+        "contentHtml": "英伟达CPO交换机全面量产，这应该光互连领域的大事件。昨天英伟达宣布Spectrum-X Ethernet Photonics已进入全面量产阶段，为面向AI工厂的下一代大规模扩展网络基础设施提供支持。\n\nSpectrum-X Ethernet Photonics 是 NVIDIA Spectrum-X 以太网网络平台中的硅光子（Silicon Photonics）/共封装光学（CPO, Co-Packaged Optics）交换机技术，主要面向大规模 AI 工厂（AI Factory）和高性能 AI 数据中心场景。\n它把硅光引擎与交换 ASIC 直接共封装在同一封装内，取代传统可插拔光模块，专为超大规模 GPU 集群的网络互联设计。\n\n核心应用场景\n1）大规模 AI 训练与推理集群 / AI 工厂：支持从数万到数十万甚至百万级 GPU 的互联，提供 GPU 到 GPU 的高带宽、低延迟、高有效带宽通信，特别适合生成式 AI、大模型训练和分布式推理。它能帮助实现“吉瓦级”（GW-scale）AI 基础设施，并提升整体能效与可靠性。\n\n2）超大规模数据中心内部网络（就是通常称的Scale-out 网络）：解决传统以太网在超大规模 AI 负载下的功耗高、故障点多、信号完整性差等问题。相比传统可插拔收发器方案，它可实现约 5 倍网络能效提升、激光器数量减少约 4 倍、平均故障间隔时间（MTBI）提升约 10 倍，以及更长的 AI 应用持续运行时间。\n\n平均故障间隔时间这一点很重要，云厂商采用cpo很大的一个考量就是故障率和故障间隔时间。\n\n3）跨数据中心扩展（Scale-cross场景，结合 Spectrum-XGS）：也可配合相关技术，把分散的多个数据中心（甚至相距较远）连接成统一的大规模 AI 超级工厂。\n\n这是英伟达专为“AI 工厂”这种需要海量 GPU 高速互联、极致能效和可靠性的场景打造的下一代网络基础设施。目前已进入全面量产，首批客户包括 CoreWeave、Lambda、Oracle 等。\n\n供应链： \nTSMS负责硅光子制造 ；\nSPIL负责芯片级封装与测试；\nLumentum提供激光芯片制造 ；\nTFC负责激光模块子组件组装 ；\nFoxconn 提供Communication交换系统组装 ；\n\n8月初看好光互连很重要的一个原因就是当时看到英伟达高级副总裁 Gilad Shainer在一个技术论坛上宣布，CPO 已开始量产。现在终于看到官方正式宣布量产的公告了。",
+        "link": "https://x.com/qinbafrank/status/2088499042875769258",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPvWzjpagAAWdVc.jpg"
+          }
+        ]
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -1894,6 +2175,25 @@
       }
     },
     {
+      "id": "2088600395257934028",
+      "username": "saylor",
+      "displayName": "Michael Saylor",
+      "avatar": "https://pbs.twimg.com/profile_images/1485632175932383235/8t0DGo6V_bigger.jpg",
+      "content": "",
+      "contentHtml": "",
+      "publishedAt": "2026-08-15T12:15:00.000Z",
+      "link": "https://x.com/saylor/status/2088600395257934028",
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2088596068481302756",
       "username": "hazenlee",
       "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
@@ -3102,6 +3402,25 @@
       "contentHtml": "啥玩楞飘过去了？",
       "publishedAt": "2026-08-14T09:35:00.000Z",
       "link": "https://x.com/hazenlee/status/2088197783291580591",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2088197772545843401",
+      "username": "nft_hu",
+      "displayName": "Fiona ❤️&amp; ✌️",
+      "avatar": "https://pbs.twimg.com/profile_images/1732381783558422528/2FQre00D_bigger.jpg",
+      "content": "$NBIS 云合同的收费标准：\n1-3年核心AI云合同：2000万-2500万美元/兆瓦\n3-6个月的专用容量：4000万至5000万美元/兆瓦或以上",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23NBIS\">$NBIS</a> 云合同的收费标准：\n1-3年核心AI云合同：2000万-2500万美元/兆瓦\n3-6个月的专用容量：4000万至5000万美元/兆瓦或以上",
+      "publishedAt": "2026-08-14T09:35:00.000Z",
+      "link": "https://x.com/nft_hu/status/2088197772545843401",
+      "retweet": {
+        "username": "TJ_Research",
+        "displayName": "投资TALK君"
+      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -11741,201 +12060,6 @@
         "contentHtml": "长鑫之后最受关注的中国AI领域IPO无疑就是月之暗面（MOONSHOT）了，已经看到有媒体报道说是已经提交港股IPO文件了。月之暗面备受关注主要也是下面几个点：\n1、模型能力突出，Kimi K3拥有2.8万亿参数，开源权重，代码、推理和Agent任务表现接近OpenAI、Anthropic前沿水平，被业界称为又一个“DeepSeek时刻”，在多个基准测试中跻身全球前列；\n\n2、长文本与开源双优势，早期靠超长上下文能力出圈，现坚持开源权重策略，生态扩散快，吸引大量开发者和海外工具接入，成本优势明显。\n甚至SpaceX收购的AI编程公司Cursor的vibe coding模型都是基于kimi开源模型构建的。\n\n3、商业化增速也很快\nARR从3月1亿美元快速爬到6月3亿美元，三个月涨三倍，API收入占比超七成，定价上调后需求不降反升，收入结构从C端转向B端为主。\n\n4、融资\n去年底才完成一轮估值约43亿美元的C轮融资，今年上半年D轮融资估值就到了快200亿美金、最新F轮融资估值已经到350亿美金。月之暗面身后站着的是腾讯、阿里巴巴、美团、中移动、红杉中国、IDG、国家人工智能产业投资基金等一众产业巨头和国内最顶级的投资机构、股东构成应该是国内的最顶级的了。\n\n当然最最核心的还是创始人杨植麟自己作为AI大模型领域的最顶级的研究员之一，前Google/Meta研究经验深厚，能带领团队在算力受限下持续突破。最终国产大模型中站稳第一梯队，并具备一定全球竞争力。\n\n不得不说<a href=\"/Bitget_zh\" title=\"Bitget中文\">@Bitget_zh</a> 上线 MOONSHOTUSDT（月之暗面）盘前永续合约的时机刚刚好，特别是刚传出月之暗面港股IPO的时候。支持最高 10 倍杠杆，让用户可以提前参与 IPO 前的价格博弈。\n\n而且AI Pre-IPO 永续合约上线首日存在“定价发现溢价”，而且这个规律正在被反复验证：SPCX 首日+252%，OPENAI 首日+38%，MINIMAX 首日+25-35%至今还在涨，ZHIPU 首日也有+20%。MOONSHOT AI 是唯一一个同时拥有'Kimi 爆款产品+$500亿估值+港股IPO临近'三重叙事的标的——首日溢价应该也是可以的。\n\n值得关注下",
         "link": "https://x.com/qinbafrank/status/2085936201295671637"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2086241184494821693",
-      "username": "hazenlee",
-      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
-      "avatar": "https://pbs.twimg.com/profile_images/2086384144427454464/vEX1IsSf_bigger.jpg",
-      "content": "世界上最好的工作，只有一种：\n\n不断升级自己的认知，然后让市场给它定价。\n\n学习，是积累资本；\n创造，是持续下注；\n市场，是最终裁判。\n\n自由市场不会永远奖励学历、头衔和过去，它只会给你的能力重新定价。\n\n终生学习者最大的优势，是永远拥有重新开始、重新定价自己的能力。",
-      "contentHtml": "世界上最好的工作，只有一种：\n\n不断升级自己的认知，然后让市场给它定价。\n\n学习，是积累资本；\n创造，是持续下注；\n市场，是最终裁判。\n\n自由市场不会永远奖励学历、头衔和过去，它只会给你的能力重新定价。\n\n终生学习者最大的优势，是永远拥有重新开始、重新定价自己的能力。",
-      "publishedAt": "2026-08-09T00:00:00.000Z",
-      "link": "https://x.com/hazenlee/status/2086241184494821693",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2086218377081782555",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "有点不好意思\n\n一半的牛鬼蛇神都跟我有点关系😂",
-      "contentHtml": "有点不好意思\n\n一半的牛鬼蛇神都跟我有点关系😂",
-      "publishedAt": "2026-08-08T22:29:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2086218377081782555",
-      "quote": {
-        "username": "Jingxin147741",
-        "displayName": "静心方可久行",
-        "content": "当时我想快速获取币圈的知识，微博上面有个博主叫韭菜园，我进了她的群，各种交流，后来认识了shione，她教了我很多基础知识，@ShioneKoshimizu 就这傻逼。从21年中旬到年底其实交易成绩一般般，整体也没亏多少，但是牛市也没赚多少，因为有个致命的问题，那就是喜欢开杠杆，20倍起步，做外汇习惯了，让我在币圈有知名度的是山寨币galausdt，那个时候我也在币coin打榜，靠短线操作各种山寨，一个月做了30多倍吧？21年11月份的样子，我微博之前贴过图，可以找找，就这样我在微博出道了，shione和比特肥，肥哥给我引流了2万多粉丝@Bitfatty 那个时候债务问题基本解决了大半，反正在微博各种输出干货呀什么的，挺开心。",
-        "contentHtml": "当时我想快速获取币圈的知识，微博上面有个博主叫韭菜园，我进了她的群，各种交流，后来认识了shione，她教了我很多基础知识，<a href=\"/ShioneKoshimizu\" title=\"Shione\">@ShioneKoshimizu</a> 就这傻逼。从21年中旬到年底其实交易成绩一般般，整体也没亏多少，但是牛市也没赚多少，因为有个致命的问题，那就是喜欢开杠杆，20倍起步，做外汇习惯了，让我在币圈有知名度的是山寨币galausdt，那个时候我也在币coin打榜，靠短线操作各种山寨，一个月做了30多倍吧？21年11月份的样子，我微博之前贴过图，可以找找，就这样我在微博出道了，shione和比特肥，肥哥给我引流了2万多粉丝<a href=\"/Bitfatty\" title=\"比特肥 || Bitfatty (🍀,🍀)\">@Bitfatty</a> 那个时候债务问题基本解决了大半，反正在微博各种输出干货呀什么的，挺开心。",
-        "link": "https://x.com/Jingxin147741/status/2086094457934414205"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2086175955547275379",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "伯克希尔的现金终于下降，开始买了，这下不用担心暴跌了？实际上压根没关系。巴菲特本来就不会去预测短期市场，连续14个季度增加现金暴跌了吗？媒体就喜欢这些惊悚的标题，因为有流量，对投资没任何帮助。\n来自于周六的碎碎念，一会看蜘蛛人去了🕸️🕸️🕸️",
-      "contentHtml": "伯克希尔的现金终于下降，开始买了，这下不用担心暴跌了？实际上压根没关系。巴菲特本来就不会去预测短期市场，连续14个季度增加现金暴跌了吗？媒体就喜欢这些惊悚的标题，因为有流量，对投资没任何帮助。\n来自于周六的碎碎念，一会看蜘蛛人去了🕸️🕸️🕸️",
-      "publishedAt": "2026-08-08T19:41:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2086175955547275379",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2086152188909232474",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "Hourly funding on tradexyz during weekends can get kinda pricey",
-      "contentHtml": "Hourly funding on tradexyz during weekends can get kinda pricey",
-      "publishedAt": "2026-08-08T18:06:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2086152188909232474",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPOAGR5WMAA5A5I.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2086139804631105628",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$BTC \n\nIf we respect below the current weekly high, we will retest the monthly open at 62.7K. \n\nOn the flip side, if we are able to regain 65.3K with force, a move to 66.9K becomes quite likely. \n\nSo overall, nothing too interesting given we have been in the same range for the past 2 months.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nIf we respect below the current weekly high, we will retest the monthly open at 62.7K. \n\nOn the flip side, if we are able to regain 65.3K with force, a move to 66.9K becomes quite likely. \n\nSo overall, nothing too interesting given we have been in the same range for the past 2 months.",
-      "publishedAt": "2026-08-08T17:17:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2086139804631105628",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPN0P2yXYAAeXrB.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085996481513971827",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#BTC\n\n2B法则\n\n在上涨趋势中，如果价格已经创新高而未能持续上升，稍后又跌破先前高点，则趋势可能发生反转\n\n下跌趋势也一样",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a>\n\n2B法则\n\n在上涨趋势中，如果价格已经创新高而未能持续上升，稍后又跌破先前高点，则趋势可能发生反转\n\n下跌趋势也一样",
-      "publishedAt": "2026-08-08T07:48:00.000Z",
-      "link": "https://x.com/dongbimao/status/2085996481513971827",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPLyrV-aQAAIKPd.png"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2085660869300716007",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#BTC\n\n整个市场都已经不关注比特币了，而且加密现在都没有任何好消息，大家都在交易美股，都在做闪迪，美光\n\n那么现在恰恰是关注比特币的时候了\n\n买在无人问津时，卖在人声鼎沸时",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a>\n\n整个市场都已经不关注比特币了，而且加密现在都没有任何好消息，大家都在交易美股，都在做闪迪，美光\n\n那么现在恰恰是关注比特币的时候了\n\n买在无人问津时，卖在人声鼎沸时",
-      "publishedAt": "2026-08-07T09:34:00.000Z",
-      "link": "https://x.com/dongbimao/status/2085660869300716007",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPHBebraIAAWbWL.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2062592387231166575",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "I am officially swing long on $BTC \n\nInvalidation 31950. Target 160,000.\n\nI will see you in 1-2 years from now. \n\nLet the games begin. 🎲",
-      "contentHtml": "I am officially swing long on <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> \n\nInvalidation 31950. Target 160,000.\n\nI will see you in 1-2 years from now. \n\nLet the games begin. 🎲",
-      "publishedAt": "2026-06-04T17:48:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2062592387231166575",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HJ_MWkQWAAARR3r.png"
-        }
-      ],
-      "quote": {
-        "username": "KillaXBT",
-        "displayName": "Killa",
-        "content": "I will be swing longing $BTC at 62.6K on 2.75X leverage. \n\nTarget 150-160K. \n\nProjected duration: approximately 2.5 years. \n\nRisking $250K for 1.25M.",
-        "contentHtml": "I will be swing longing <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> at 62.6K on 2.75X leverage. \n\nTarget 150-160K. \n\nProjected duration: approximately 2.5 years. \n\nRisking $250K for 1.25M.",
-        "link": "https://x.com/KillaXBT/status/2040898433540620587",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HFK6GTmWMAAviPf.png"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2054473114688323893",
-      "username": "dongbimao",
-      "displayName": "懂币猫",
-      "avatar": "https://pbs.twimg.com/profile_images/1931922506090455042/3Ae8A5o1_bigger.jpg",
-      "content": "#BTC #美股\n\n最近2个多月，我加密合约几乎没有挣钱\n但是还在年度收益排行榜的第一名\n说明什么？\n\n很简单就能想明白，说明现在加密太难挣钱了\n其他做加密的交易员也没有很挣钱，不然我早就不可能是第一名了\n\n我在直播间喊了半年，让大家做美股\n每次直播也几乎花一半的时间讲美股，讲黄金白银\n刚开始直播时也发过自己的美股收益率，做的不比加密差\n\n做直播做交易教学，一直希望大家能多多挣钱，走在正确的交易道路上，有正确的交易理念，最近发现广场上说美股的很少很少，那么好的市场没什么人关注，真的感觉很难过\n\n作为交易员在有交易条件的情况下，不要有执念，需要更变通。我常说交易员要像水一样，灵活，多变，不要像一个老斑鸠\n\n同时我们一定要学会分配资金，去挣容易挣的钱，去更热闹的市场\n\n我自己本身的仓位和时间分配：\n加密               40%\n美股               40%\nA股                 5%\n黄金                5%\n某宝基金       4% （几乎不占用时间，买后不管）\n理财                3% （几乎不占用时间，买后不管）\n其他                3% （几乎不占用时间，买后不管）\n\n现在各大平台都上了美股合约，打开交易所APP\n进入合约界面\n在下拉选择里面，找到 #TradFi  里面全是最近热门的美股合约\n\n兄弟们多多去探索，不要让自己走进了信息茧房",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">#BTC</a> <a href=\"/search?f=tweets&q=%23美股\">#美股</a>\n\n最近2个多月，我加密合约几乎没有挣钱\n但是还在年度收益排行榜的第一名\n说明什么？\n\n很简单就能想明白，说明现在加密太难挣钱了\n其他做加密的交易员也没有很挣钱，不然我早就不可能是第一名了\n\n我在直播间喊了半年，让大家做美股\n每次直播也几乎花一半的时间讲美股，讲黄金白银\n刚开始直播时也发过自己的美股收益率，做的不比加密差\n\n做直播做交易教学，一直希望大家能多多挣钱，走在正确的交易道路上，有正确的交易理念，最近发现广场上说美股的很少很少，那么好的市场没什么人关注，真的感觉很难过\n\n作为交易员在有交易条件的情况下，不要有执念，需要更变通。我常说交易员要像水一样，灵活，多变，不要像一个老斑鸠\n\n同时我们一定要学会分配资金，去挣容易挣的钱，去更热闹的市场\n\n我自己本身的仓位和时间分配：\n加密               40%\n美股               40%\nA股                 5%\n黄金                5%\n某宝基金       4% （几乎不占用时间，买后不管）\n理财                3% （几乎不占用时间，买后不管）\n其他                3% （几乎不占用时间，买后不管）\n\n现在各大平台都上了美股合约，打开交易所APP\n进入合约界面\n在下拉选择里面，找到 <a href=\"/search?f=tweets&q=%23TradFi\">#TradFi</a>  里面全是最近热门的美股合约\n\n兄弟们多多去探索，不要让自己走进了信息茧房",
-      "publishedAt": "2026-05-13T08:05:00.000Z",
-      "link": "https://x.com/dongbimao/status/2054473114688323893",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIL0KXgWwAAxzYW.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HIL0N0DWUAA6Ah-.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
