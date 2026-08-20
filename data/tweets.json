@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T23:25:42.185Z",
+  "lastUpdated": "2026-08-20T01:20:04.194Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -105,11 +105,226 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 548,
-    "successUsers": 27,
-    "failedUsers": 4
+    "newFetched": 405,
+    "successUsers": 20,
+    "failedUsers": 11
   },
   "tweets": [
+    {
+      "id": "2090247053423378701",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "真有命啊，昨晚 4x 做多 2 万枚 $ETH 的巨鲸正好卡在了暴涨前📈\n\n地址 0xedc…5d05a 的开仓价为 $1936，现已浮盈 643.4 万美元，这甚至是该地址的首次 Hyperliquid 交易\n\n运气好？还是判断太准了呢\n\n传送门 👉 hyperbot.network/trader/0xed…",
+      "contentHtml": "真有命啊，昨晚 4x 做多 2 万枚 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 的巨鲸正好卡在了暴涨前📈\n\n地址 0xedc…5d05a 的开仓价为 $1936，现已浮盈 643.4 万美元，这甚至是该地址的首次 Hyperliquid 交易\n\n运气好？还是判断太准了呢\n\n传送门 👉 <a href=\"https://hyperbot.network/trader/0xedcdcaa1f18350c50c10bef860e64daa9785d05a\">hyperbot.network/trader/0xed…</a>",
+      "publishedAt": "2026-08-20T01:18:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2090247053423378701",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQIL6K3bUAALs9v.jpg"
+        }
+      ],
+      "quote": {
+        "username": "ai_9684xtpa",
+        "displayName": "Ai 姨",
+        "content": "967 万刀保证金，4x 看多 $ETH ，新巨鲸入场了！😲\n\n地址 0xedc…5d05a 于半小时前开启 20000 枚 ETH 的 4x 多单，价值 3871 万美元，入场均价 $1936\n\n上来就是仓位拉满（保证金率使用率 100.3%），不过后手资金还是蛮多的，倒是好一阵子没看到做多 ETH 的新面孔了\n\n传送门 👉 hyperbot.network/trader/0xed…",
+        "contentHtml": "967 万刀保证金，4x 看多 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> ，新巨鲸入场了！😲\n\n地址 0xedc…5d05a 于半小时前开启 20000 枚 ETH 的 4x 多单，价值 3871 万美元，入场均价 $1936\n\n上来就是仓位拉满（保证金率使用率 100.3%），不过后手资金还是蛮多的，倒是好一阵子没看到做多 ETH 的新面孔了\n\n传送门 👉 <a href=\"https://hyperbot.network/trader/0xedcdcaa1f18350c50c10bef860e64daa9785d05a\">hyperbot.network/trader/0xed…</a>",
+        "link": "https://x.com/ai_9684xtpa/status/2090068275720077738",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HQFp24xbwAEEZZo.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2090238940553122301",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#Crypto\n\n⚠️ Risk warning regarding EtherFi:\n\nThe USDC/USDT balance in your wallet is being automatically transferred to EtherFi’s Aave V4 LendGateway, even if you have not used any “earn” or “lending” features.\n\nIn simple terms:\n\n1. Previously, your USDT was held in a co-managed Safe multisig wallet. It could generally only be deducted when you made a payment, so the risk was relatively low.\n\n2. Without your knowledge, these funds were moved by EtherFi to Aave to serve as collateral.\n\n3. A single-source risk—EtherFi—has suddenly expanded into a whole range of risks, including liquidity, Aave, collateral, expanded permissions, and new smart contract security risks, with virtually no additional yield generated.\n\n✅ How to opt out:\n\nGo to the app/website → Profile → Settings → Preferences → Lending, and disable the borrowing feature.\n\nFor advanced verification: give your wallet address to an AI and confirm that lendOptedOut / isLendOptedOut is set to true.\n\n🤔 What happened and other thoughts:\n\nI have never trusted so-called “co-managed” wallets, so I used AI to write a monitoring tool.\n\nA few days ago, I discovered that the funds were gone, while the balance displayed in the app looked completely normal and the account was still in “direct payment” mode rather than “borrow-to-pay” mode.\n\nThe project team did not respond when I contacted them, so I’m issuing this reminder as early as possible: only keep as much money in the project as you actually use, and don’t deposit extra funds.\n\nThe project’s technical team has done a good job. Wherever possible, they implement functionality through smart contracts, which is great.\n\nBut as a professional, I naturally don’t trust other people’s level of expertise.\n\nEspecially when the project team has already made some sneaky operational decisions—Don’t trust, verify.",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a>\n\n⚠️ Risk warning regarding EtherFi:\n\nThe USDC/USDT balance in your wallet is being automatically transferred to EtherFi’s Aave V4 LendGateway, even if you have not used any “earn” or “lending” features.\n\nIn simple terms:\n\n1. Previously, your USDT was held in a co-managed Safe multisig wallet. It could generally only be deducted when you made a payment, so the risk was relatively low.\n\n2. Without your knowledge, these funds were moved by EtherFi to Aave to serve as collateral.\n\n3. A single-source risk—EtherFi—has suddenly expanded into a whole range of risks, including liquidity, Aave, collateral, expanded permissions, and new smart contract security risks, with virtually no additional yield generated.\n\n✅ How to opt out:\n\nGo to the app/website → Profile → Settings → Preferences → Lending, and disable the borrowing feature.\n\nFor advanced verification: give your wallet address to an AI and confirm that lendOptedOut / isLendOptedOut is set to true.\n\n🤔 What happened and other thoughts:\n\nI have never trusted so-called “co-managed” wallets, so I used AI to write a monitoring tool.\n\nA few days ago, I discovered that the funds were gone, while the balance displayed in the app looked completely normal and the account was still in “direct payment” mode rather than “borrow-to-pay” mode.\n\nThe project team did not respond when I contacted them, so I’m issuing this reminder as early as possible: only keep as much money in the project as you actually use, and don’t deposit extra funds.\n\nThe project’s technical team has done a good job. Wherever possible, they implement functionality through smart contracts, which is great.\n\nBut as a professional, I naturally don’t trust other people’s level of expertise.\n\nEspecially when the project team has already made some sneaky operational decisions—Don’t trust, verify.",
+      "publishedAt": "2026-08-20T00:46:00.000Z",
+      "link": "https://x.com/taresky/status/2090238940553122301",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQIFN8wbsAE0PKg.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQIFOgYbYAAJTPm.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2090238524859855101",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#Crypto \n\n⚠️关于 EtherFi 的风险提示：\n\n你的 USDC/USDT 钱包余额，正在被自动转移到 EtherFi 的 Aave V4 LendGateway。即使你没有使用任何“理财”或“借贷”功能。\n\n简单理解是：\n\n1. 原本你的 USDT 在共管的 Safe 多签钱包里，基本只有消费的时候可以被扣款，风险较低。\n\n2. 这些钱在你不知情的情况下，被 EtherFi 挪到了 AAVE 去充当抵押品。\n\n3. 从单一风险（EtherFi），突然变成了要去承担了：流动性、aave、抵押物、权限扩散、新的智能合约安全等等一系列风险。而几乎没有产生任何额外收益。\n\n✅如何退出：\n\n前往  App/网页 - 头像 - 设置 - 偏好设置 - 借贷，关闭借款功能。\n\n进阶确认：给 AI 你的钱包地址，确认你的 lendOptedOut / isLendOptedOut 为 true。\n\n🤔经过及其他：\n\n我一直不相信所谓“共管”钱包，所以用 AI 写了监控。\n\n前几天发现钱没了，而 App 展示的余额一切正常，且依然是“直接支付”而不是“借贷支付”模式。\n\n联系项目方没有回应，还是尽早提醒：大家用多少，存多少，别多放钱。\n\n这个项目的技术人员做的是不错的，能用智能合约实现会尽量用合约，很好。\n\n但作为一名专业人士，我当然不相信其他人的专业程度。\n\n尤其是运营上已经做了鸡贼选择的项目方 —— Don't trust, verify。",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23Crypto\">#Crypto</a> \n\n⚠️关于 EtherFi 的风险提示：\n\n你的 USDC/USDT 钱包余额，正在被自动转移到 EtherFi 的 Aave V4 LendGateway。即使你没有使用任何“理财”或“借贷”功能。\n\n简单理解是：\n\n1. 原本你的 USDT 在共管的 Safe 多签钱包里，基本只有消费的时候可以被扣款，风险较低。\n\n2. 这些钱在你不知情的情况下，被 EtherFi 挪到了 AAVE 去充当抵押品。\n\n3. 从单一风险（EtherFi），突然变成了要去承担了：流动性、aave、抵押物、权限扩散、新的智能合约安全等等一系列风险。而几乎没有产生任何额外收益。\n\n✅如何退出：\n\n前往  App/网页 - 头像 - 设置 - 偏好设置 - 借贷，关闭借款功能。\n\n进阶确认：给 AI 你的钱包地址，确认你的 lendOptedOut / isLendOptedOut 为 true。\n\n🤔经过及其他：\n\n我一直不相信所谓“共管”钱包，所以用 AI 写了监控。\n\n前几天发现钱没了，而 App 展示的余额一切正常，且依然是“直接支付”而不是“借贷支付”模式。\n\n联系项目方没有回应，还是尽早提醒：大家用多少，存多少，别多放钱。\n\n这个项目的技术人员做的是不错的，能用智能合约实现会尽量用合约，很好。\n\n但作为一名专业人士，我当然不相信其他人的专业程度。\n\n尤其是运营上已经做了鸡贼选择的项目方 —— Don't trust, verify。",
+      "publishedAt": "2026-08-20T00:44:00.000Z",
+      "link": "https://x.com/taresky/status/2090238524859855101",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQIErgbbIAENhXU.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQIEwogaAAAimWR.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2090235662016688384",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
+      "content": "容我叉个腰先，也巧熊底左侧也差不多定投完了😎",
+      "contentHtml": "容我叉个腰先，也巧熊底左侧也差不多定投完了😎",
+      "publishedAt": "2026-08-20T00:33:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2090235662016688384",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQIBHB2a8AAizwt.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "牛来‼️【BTC四年周期总刻系列 49】\n\n2012年3月：蓝橙交叉\n2015年7月：蓝橙交叉\n2019年4月：蓝橙交叉\n2023年1月：蓝橙交叉\n当前：蓝橙已交叉\n\n┌─ 🐼指标详情 ─┐\n\n蓝线为“链上长期持币者平均购币成本”跟“链上短期持币者平均购币成本”之比；橙线为蓝线60日MA\n\n历史上蓝橙交叉往往对应熊市结束牛市开启",
+        "contentHtml": "牛来‼️【BTC四年周期总刻系列 49】\n\n2012年3月：蓝橙交叉\n2015年7月：蓝橙交叉\n2019年4月：蓝橙交叉\n2023年1月：蓝橙交叉\n当前：蓝橙已交叉\n\n┌─ 🐼指标详情 ─┐\n\n蓝线为“链上长期持币者平均购币成本”跟“链上短期持币者平均购币成本”之比；橙线为蓝线60日MA\n\n历史上蓝橙交叉往往对应熊市结束牛市开启",
+        "link": "https://x.com/0xCryptoChan/status/2089889367569662123",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HQDEgRCbkAAX5UR.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2090230893348880714",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2086384144427454464/vEX1IsSf_bigger.jpg",
+      "content": "麻吉STRATEGY\n对一次可以玩几十次",
+      "contentHtml": "麻吉STRATEGY\n对一次可以玩几十次",
+      "publishedAt": "2026-08-20T00:14:00.000Z",
+      "link": "https://x.com/hazenlee/status/2090230893348880714",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQH96lHakAAfFYS.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2090227771134095538",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "美国加密监管的重大转向：从“执法式监管”转向“规则式监管”的结构性变化。昨天加密走强还有一个大的推动：SEC提案提议豁免部分数字资产发行免于提交证券注册声明，豁免额度分别为最高500万美元和最高7500万美元。该提案对发行方提出了相关要求，包括提交财务报表并满足持续信息披露义务，同时设立安全港条款，将相关资产排除在证券法中”投资合约”的定义之外。\n1、这个提案的意义在于：\n美国数字资产监管真正开始从“先用执法判断谁违法”，转向“先给出项目可以遵循的发行、披露、流通和退出规则”：以前是“事后执法”，以后“事前合规路径”，规则路径更友好也更清晰了\n\n2、真正革命性的部分：把“代币”和“投资合同”拆开\n提案定义的“covered investment contract”必须同时满足：\n某项合同、交易或计划构成投资合同；\n有一个加密资产附着于该投资合同；\n该加密资产本身不是证券；\n没有股票、债券或其他资产同时附着于该投资合同。 \n\n这延续了SEC和CFTC今年3月提出的核心观点：“很多加密资产本身并不是证券，但发行方关于开发网络、提高代币价值、发展生态系统等承诺，可能使购买行为构成投资合同；随着这些承诺完成，投资合同可以终止。\n\n由此形成一个新的生命周期：\n第一阶段：发行融资：\n第二阶段：网络建设（building阶段）\n第三阶段：投资合同终止\n当发行方已经完成，或者永久停止其承诺的全部“关键管理努力”，并且不再作出新的类似承诺时，可以提交Form TR，说明投资合同已经终止。 \n\n第四阶段：代币脱离证券法\n满足安全港后，SEC将认为此前附着于代币的投资合同已经消失，证券注册和持续报告义务从满足安全港之时起终止。 \n\n这相当于SEC承认了一个关键事实：\n“证券属性可以是交易和承诺关系的属性，不一定是代币永久不变的属性”\n这实际上是美国版的代币监管生命周期模型。它比过去模糊的“充分去中心化”标准更容易操作，因为核心不再只是判断网络是否抽象地足够去中心化，而是核对发行方有没有完成自己当初作出的关键承诺。\n\n这是提案比融资额度本身更重要的地方。\n\n3、美国可能出现真正的“合规公开代币融资市场”\n\n新规则若落地，会提供一条更直接的路线：“在美国公开营销—向散户和机构销售—披露tokenomics及开发承诺—允许较自由流通—项目成熟后退出投资合同。\n\n这将降低项目在美国发币的法律和时间成本，也可能减少“美国团队、开曼基金会、瑞士协会、海外TGE”这类高度复杂的离岸架构。SEC明确把减少项目离岸经营、扩大美国投资者机会列为提案目标。 \n\n4、SEC的政策目标从“阻止未注册发币”转向“允许合规发币”\n\n500万美元和7500万美元豁免意味着，SEC已经不再把所有公开代币融资都视为应当被压制的活动，而是开始设计专门的融资通道。\n\n简单说\n美国监管机构真正开始“为加密资产建立进入美国资本市场的专门通道”。SEC第一次正式接受三个原则：\n1）代币本身与发行它的投资合同可以分开；\n2）投资合同可以随着项目生命周期而终止；\n3）证券监管不仅要防范风险，也要主动为加密网络资本形成设计规则。\n\n确实可以说是美国加密监管的重大转向，也是美国合规ICO、链上资本形成和数字资产证券生命周期制度的起点。",
+      "contentHtml": "美国加密监管的重大转向：从“执法式监管”转向“规则式监管”的结构性变化。昨天加密走强还有一个大的推动：SEC提案提议豁免部分数字资产发行免于提交证券注册声明，豁免额度分别为最高500万美元和最高7500万美元。该提案对发行方提出了相关要求，包括提交财务报表并满足持续信息披露义务，同时设立安全港条款，将相关资产排除在证券法中”投资合约”的定义之外。\n1、这个提案的意义在于：\n美国数字资产监管真正开始从“先用执法判断谁违法”，转向“先给出项目可以遵循的发行、披露、流通和退出规则”：以前是“事后执法”，以后“事前合规路径”，规则路径更友好也更清晰了\n\n2、真正革命性的部分：把“代币”和“投资合同”拆开\n提案定义的“covered investment contract”必须同时满足：\n某项合同、交易或计划构成投资合同；\n有一个加密资产附着于该投资合同；\n该加密资产本身不是证券；\n没有股票、债券或其他资产同时附着于该投资合同。 \n\n这延续了SEC和CFTC今年3月提出的核心观点：“很多加密资产本身并不是证券，但发行方关于开发网络、提高代币价值、发展生态系统等承诺，可能使购买行为构成投资合同；随着这些承诺完成，投资合同可以终止。\n\n由此形成一个新的生命周期：\n第一阶段：发行融资：\n第二阶段：网络建设（building阶段）\n第三阶段：投资合同终止\n当发行方已经完成，或者永久停止其承诺的全部“关键管理努力”，并且不再作出新的类似承诺时，可以提交Form TR，说明投资合同已经终止。 \n\n第四阶段：代币脱离证券法\n满足安全港后，SEC将认为此前附着于代币的投资合同已经消失，证券注册和持续报告义务从满足安全港之时起终止。 \n\n这相当于SEC承认了一个关键事实：\n“证券属性可以是交易和承诺关系的属性，不一定是代币永久不变的属性”\n这实际上是美国版的代币监管生命周期模型。它比过去模糊的“充分去中心化”标准更容易操作，因为核心不再只是判断网络是否抽象地足够去中心化，而是核对发行方有没有完成自己当初作出的关键承诺。\n\n这是提案比融资额度本身更重要的地方。\n\n3、美国可能出现真正的“合规公开代币融资市场”\n\n新规则若落地，会提供一条更直接的路线：“在美国公开营销—向散户和机构销售—披露tokenomics及开发承诺—允许较自由流通—项目成熟后退出投资合同。\n\n这将降低项目在美国发币的法律和时间成本，也可能减少“美国团队、开曼基金会、瑞士协会、海外TGE”这类高度复杂的离岸架构。SEC明确把减少项目离岸经营、扩大美国投资者机会列为提案目标。 \n\n4、SEC的政策目标从“阻止未注册发币”转向“允许合规发币”\n\n500万美元和7500万美元豁免意味着，SEC已经不再把所有公开代币融资都视为应当被压制的活动，而是开始设计专门的融资通道。\n\n简单说\n美国监管机构真正开始“为加密资产建立进入美国资本市场的专门通道”。SEC第一次正式接受三个原则：\n1）代币本身与发行它的投资合同可以分开；\n2）投资合同可以随着项目生命周期而终止；\n3）证券监管不仅要防范风险，也要主动为加密网络资本形成设计规则。\n\n确实可以说是美国加密监管的重大转向，也是美国合规ICO、链上资本形成和数字资产证券生命周期制度的起点。",
+      "publishedAt": "2026-08-20T00:01:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2090227771134095538",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQH3bCmagAAI-K5.jpg"
+        }
+      ],
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "7月上旬说大饼能到7万以上，这次应该是终于要看到了。白宫全是加密/数字货币相关高管和行业协会的“科技领袖会议”催化，底层驱动还是今晚贝森特出手救市nitter.net/qinbafrank/status/2090…短期压制因素接触。",
+        "contentHtml": "7月上旬说大饼能到7万以上，这次应该是终于要看到了。白宫全是加密/数字货币相关高管和行业协会的“科技领袖会议”催化，底层驱动还是今晚贝森特出手救市<a href=\"https://nitter.net/qinbafrank/status/2090072033388617853?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2090…</a>短期压制因素接触。",
+        "link": "https://x.com/qinbafrank/status/2090101924293165467",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HQGIgXhbcAAGWoy.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2090227316597141672",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Well, we just had the biggest $BTC short liquidation event. \n\nWouldn't it be ironic if it marked the bottom just like the 10/10 long liquidations marked the top?\n\nWell... anyway, I would find it funny. Comfortable in my long & spot for now. Again. Entries were shared public.",
+      "contentHtml": "Well, we just had the biggest <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> short liquidation event. \n\nWouldn't it be ironic if it marked the bottom just like the 10/10 long liquidations marked the top?\n\nWell... anyway, I would find it funny. Comfortable in my long &amp; spot for now. Again. Entries were shared public.",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2090227316597141672",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQH1L2hWYAAsF83.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2090222372980969594",
+      "username": "hazenlee",
+      "displayName": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "avatar": "https://pbs.twimg.com/profile_images/2086384144427454464/vEX1IsSf_bigger.jpg",
+      "content": "你问他什么成功了，他说割韭菜成功了",
+      "contentHtml": "你问他什么成功了，他说割韭菜成功了",
+      "publishedAt": "2026-08-19T23:40:00.000Z",
+      "link": "https://x.com/hazenlee/status/2090222372980969594",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQH2Kq1aQAEDXS-.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2090217457202163972",
       "username": "naval",
@@ -11962,145 +12177,6 @@
       "contentHtml": "最后五分钟真他妈精彩啊",
       "publishedAt": "2026-08-11T20:00:00.000Z",
       "link": "https://x.com/octopusycc/status/2087267918715441488",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2087267668365873283",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "smci最后五分钟拉了2%\n\n$SMCI",
-      "contentHtml": "smci最后五分钟拉了2%\n\n<a href=\"/search?f=tweets&q=%23SMCI\">$SMCI</a>",
-      "publishedAt": "2026-08-11T19:59:00.000Z",
-      "link": "https://x.com/octopusycc/status/2087267668365873283",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2087266007379276260",
-      "username": "Cbb0fe",
-      "displayName": "CBB",
-      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
-      "content": "i must confess the cheap broke ass inside of me is having a hard time saying no to $30k/month just for using an app",
-      "contentHtml": "i must confess the cheap broke ass inside of me is having a hard time saying no to $30k/month just for using an app",
-      "publishedAt": "2026-08-11T19:52:00.000Z",
-      "link": "https://x.com/Cbb0fe/status/2087266007379276260",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2087261838614622600",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "lite还是陷入焦灼了\n今天的强势股也要避CPI啊",
-      "contentHtml": "lite还是陷入焦灼了\n今天的强势股也要避CPI啊",
-      "publishedAt": "2026-08-11T19:36:00.000Z",
-      "link": "https://x.com/octopusycc/status/2087261838614622600",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPdxkUka0AAaKcW.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2087243387112206826",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "LITE目前看反而还挺好的\n等收盘",
-      "contentHtml": "LITE目前看反而还挺好的\n等收盘",
-      "publishedAt": "2026-08-11T18:22:00.000Z",
-      "link": "https://x.com/octopusycc/status/2087243387112206826",
-      "quote": {
-        "username": "luan_daniel1",
-        "displayName": "Daniel",
-        "content": "哥，今晚lite怎么看",
-        "contentHtml": "哥，今晚lite怎么看",
-        "link": "https://x.com/luan_daniel1/status/2087241422584058333"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2087238114775572597",
-      "username": "KillaXBT",
-      "displayName": "Killa",
-      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
-      "content": "$BTC\n\nWe didn’t experience an overheated bull market this cycle, so there’s no guarantee we’ll fall all the way into an “extreme bear” phase either.",
-      "contentHtml": "<a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>\n\nWe didn’t experience an overheated bull market this cycle, so there’s no guarantee we’ll fall all the way into an “extreme bear” phase either.",
-      "publishedAt": "2026-08-11T18:02:00.000Z",
-      "link": "https://x.com/KillaXBT/status/2087238114775572597",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPckvgFXkAA8k-L.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2087237943404663048",
-      "username": "octopusycc",
-      "displayName": "大老师Bugsbunny ｜DRAM UP only",
-      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
-      "content": "市场几乎完全在防守了 \n正如周一直播时所说 \n伟大撤退先",
-      "contentHtml": "市场几乎完全在防守了 \n正如周一直播时所说 \n伟大撤退先",
-      "publishedAt": "2026-08-11T18:01:00.000Z",
-      "link": "https://x.com/octopusycc/status/2087237943404663048",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2087219125546516493",
-      "username": "daidaibtc",
-      "displayName": "带带带比特",
-      "avatar": "https://pbs.twimg.com/profile_images/2080503582848339968/kzUeyNDZ_bigger.jpg",
-      "content": "半个月前就觉得存储会降波来出清，没想到迟到了半个月",
-      "contentHtml": "半个月前就觉得存储会降波来出清，没想到迟到了半个月",
-      "publishedAt": "2026-08-11T16:46:00.000Z",
-      "link": "https://x.com/daidaibtc/status/2087219125546516493",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2087217990261461082",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "老黄和几家全球最大的基建公司合作给5000亿的英伟达算力基建计划。我给翻译一下：英伟达拿自己的信用评级给低信用评级的公司做担保。“信用评级均富卡”",
-      "contentHtml": "老黄和几家全球最大的基建公司合作给5000亿的英伟达算力基建计划。我给翻译一下：英伟达拿自己的信用评级给低信用评级的公司做担保。“信用评级均富卡”",
-      "publishedAt": "2026-08-11T16:42:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2087217990261461082",
       "stats": {
         "replies": 0,
         "retweets": 0,
