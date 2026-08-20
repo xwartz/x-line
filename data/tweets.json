@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T13:51:27.522Z",
+  "lastUpdated": "2026-08-20T14:39:19.710Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -108,9 +108,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 38,
-    "successUsers": 2,
-    "failedUsers": 30
+    "newFetched": 20,
+    "successUsers": 1,
+    "failedUsers": 31
   },
   "tweets": [
     {
@@ -327,6 +327,31 @@
       }
     },
     {
+      "id": "2090291047150555603",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "X的SUB我开的目的就是有时候会只打开SUB留言，为了留言区的清净，很偶尔也许会发表只针对SUB的内容。\n所有的收入我都会以OAI，A，或者我APP会员的方式送出去。上次送了3个A，刚刚送了1个A，OAI的赠送还没给我开放，抽了一个APP的会员赠送在路上。所以除非你想来抽奖，不然不用订阅这里😂当然，以后我争取在这里发一些内容（不能保证🙂）",
+      "contentHtml": "X的SUB我开的目的就是有时候会只打开SUB留言，为了留言区的清净，很偶尔也许会发表只针对SUB的内容。\n所有的收入我都会以OAI，A，或者我APP会员的方式送出去。上次送了3个A，刚刚送了1个A，OAI的赠送还没给我开放，抽了一个APP的会员赠送在路上。所以除非你想来抽奖，不然不用订阅这里😂当然，以后我争取在这里发一些内容（不能保证🙂）",
+      "publishedAt": "2026-08-20T04:13:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2090291047150555603",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQIzjCGWQAAkvWk.png"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQIzmz1W0AQvcvP.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
       "id": "2090284822870794585",
       "username": "Murphychen888",
       "displayName": "Murphy",
@@ -353,6 +378,28 @@
             "url": "https://pbs.twimg.com/media/HLUYDRhakAAN2hM.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2090283023572898135",
+      "username": "TJ_Research",
+      "displayName": "投资TALK君",
+      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
+      "content": "谢谢，正准备去看是否有AI的助力",
+      "contentHtml": "谢谢，正准备去看是否有AI的助力",
+      "publishedAt": "2026-08-20T03:41:00.000Z",
+      "link": "https://x.com/TJ_Research/status/2090283023572898135",
+      "quote": {
+        "username": "BigbirdflyChan",
+        "displayName": "Pike时政财经分析",
+        "content": "今天Moderna股价一度暴涨110%主要原因是公司宣布，与默沙东联合开发的个体化mRNA癌症疫苗取得了里程碑式突破。\n\n我注意到，这则新闻中有一个非常值得美股投资者关注的地方：AI在这款新药的研发和生产过程中起到了至关重要的作用。\n\n我翻了一下Moderna官网，这款药物的制造流程大致是这样的：首先通过手术取得患者的肿瘤组织，同时采集正常血液样本；然后对肿瘤和正常组织进行DNA及RNA测序，找出肿瘤特有、正常细胞中不存在的基因突变；接下来利用AI算法预测哪些突变能够产生有效的新抗原，从大量候选突变中筛选出最多34个最可能诱发免疫反应的新抗原，再把这些抗原的编码信息写入一条合成mRNA，最终为每位患者生产专属的个体化癌症疫苗。\n\nModerna官网明确提到，这一系列集成流程使用了大量AI算法，包括利用AI分析肿瘤和血液样本、识别基因突变，并预测最有可能诱发免疫反应的新抗原。传统上，如果单纯依靠研究人员逐个筛选，不仅速度非常慢，也很难在有限时间内为每位患者完成个体化设计。AI的介入大幅提升了新抗原筛选、药物设计和生产的速度与效率。\n\n另外，Moderna还使用了名为Maestro的数字化系统，管理每位患者的独立生产批次。AI调度算法会综合考虑当前生产线产能、原材料与设备约束、质量检测时间、临床给药安排以及运输物流等因素，从而提高整个个体化药物生产和交付流程的效率。\n\n所以，这并不只是一次普通的新药研发突破，而是对“AI驱动的个体化药物生产平台”的一次重要临床验证。我认为，这则新闻是AI在医药领域的一次重要临床兑现，也说明AI革命的影响正在从软件和算力逐渐进入医药研发与临床应用。",
+        "contentHtml": "今天Moderna股价一度暴涨110%主要原因是公司宣布，与默沙东联合开发的个体化mRNA癌症疫苗取得了里程碑式突破。\n\n我注意到，这则新闻中有一个非常值得美股投资者关注的地方：AI在这款新药的研发和生产过程中起到了至关重要的作用。\n\n我翻了一下Moderna官网，这款药物的制造流程大致是这样的：首先通过手术取得患者的肿瘤组织，同时采集正常血液样本；然后对肿瘤和正常组织进行DNA及RNA测序，找出肿瘤特有、正常细胞中不存在的基因突变；接下来利用AI算法预测哪些突变能够产生有效的新抗原，从大量候选突变中筛选出最多34个最可能诱发免疫反应的新抗原，再把这些抗原的编码信息写入一条合成mRNA，最终为每位患者生产专属的个体化癌症疫苗。\n\nModerna官网明确提到，这一系列集成流程使用了大量AI算法，包括利用AI分析肿瘤和血液样本、识别基因突变，并预测最有可能诱发免疫反应的新抗原。传统上，如果单纯依靠研究人员逐个筛选，不仅速度非常慢，也很难在有限时间内为每位患者完成个体化设计。AI的介入大幅提升了新抗原筛选、药物设计和生产的速度与效率。\n\n另外，Moderna还使用了名为Maestro的数字化系统，管理每位患者的独立生产批次。AI调度算法会综合考虑当前生产线产能、原材料与设备约束、质量检测时间、临床给药安排以及运输物流等因素，从而提高整个个体化药物生产和交付流程的效率。\n\n所以，这并不只是一次普通的新药研发突破，而是对“AI驱动的个体化药物生产平台”的一次重要临床验证。我认为，这则新闻是AI在医药领域的一次重要临床兑现，也说明AI革命的影响正在从软件和算力逐渐进入医药研发与临床应用。",
+        "link": "https://x.com/BigbirdflyChan/status/2090260054859747396"
       },
       "stats": {
         "replies": 0,
@@ -12134,49 +12181,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2087371410549415959",
-      "username": "JoshuaDeuk",
-      "displayName": "Joshua | MOZAIK 🇰🇷",
-      "avatar": "https://pbs.twimg.com/profile_images/1801869779344703488/LfOPOolq_bigger.jpg",
-      "content": "CPI ,  PPI gonna be big event for rest of the month with so many macro stuff going around \n\nbut below is good framework u can take for Aug \n\n'You want that explosive easy money that we had in May-June. Unfortunately, the investor base that made that happen (Leo, 2x etf buyers, koreans) are all liquidated. The current investor base bidding memory are those who are swooping in because the stock is cheap. These buyers are patient capital. This was also why i wrote in my note on 30 Jul that \"what will ensure will be an initial V shape bounce before dribbling down and a slow grind up\". It is far more important to be able to last the journey. '",
-      "contentHtml": "CPI ,  PPI gonna be big event for rest of the month with so many macro stuff going around \n\nbut below is good framework u can take for Aug \n\n'You want that explosive easy money that we had in May-June. Unfortunately, the investor base that made that happen (Leo, 2x etf buyers, koreans) are all liquidated. The current investor base bidding memory are those who are swooping in because the stock is cheap. These buyers are patient capital. This was also why i wrote in my note on 30 Jul that \"what will ensure will be an initial V shape bounce before dribbling down and a slow grind up\". It is far more important to be able to last the journey. '",
-      "publishedAt": "2026-08-12T02:51:00.000Z",
-      "link": "https://x.com/JoshuaDeuk/status/2087371410549415959",
-      "quote": {
-        "username": "degentradingLSD",
-        "displayName": "degentrading",
-        "content": "Pre Market Thoughts - 11 Aug 26\n\nUS yields higher by about 3-4bps across the curve alongside the move higher in oil. We had a flurry of headlines overnight of varying importance.\n\nFirst is a rather direct admission by the US about their relative impotence in Iran, which presumably means the conflict stews for longer in a low grade conflict. Which isnt a terrible thing at the end of the day.\n\nNext is $NVDA Jenson rounding up 6 major counterparties for a 500B financing deal. This number seems oddly specific. My guess is that the recipients of these will be $SPCX and the neoclouds. What NVDA is doing here is credit transformation and making financing datacenters akin to financing real estate vs venture. GPUs as collateral are still feared because of their depreciation. Having fungibility in the asset class also makes it easier to be priced and traded; hence lowering the overall cost of credit and capital within the space.\n\nIn short, this is neocloud summer.\n\nThe market did not take it very well on the outset however,\n\nIn asia markets, $KOSPI is up about 1% (JP on holiday - Mountain day - nani??). In my note yesterday i highlighted that positioning in $0660 has lightened up. It is also insanely funny to me that my notable counter signals turned bearish on memory right at the turn....$0660 has held its levels at 1.4m KRW.\n\nOn the earnings calendar (use terminal.gambit.zone) - we have $LITE and $CRWV reporting AMC - with an implied move about 11.6% and 13.5% respectively for both. To note, $LITE has already done a -10% move pre earnings, generally this sets up for a better PA into earnings all else equal.\n\nGold, Silver, Copper are all also breaking out - in my note on 7 Aug, i noted the short positioning across the XAG complex. This still sits there and will lead to strong follow on buying as shorts capitulate. \n\nWhile talking to a few of you, i noticed that many people are saddened by the PA. You want that explosive easy money that we had in May-June. Unfortunately, the investor base that made that happen (Leo, 2x etf buyers, koreans) are all liquidated. The current investor base bidding memory are those who are swooping in because the stock is cheap. These buyers are patient capital. This was also why i wrote in my note on 30 Jul that \"what will ensure will be an initial V shape bounce before dribbling down and a slow grind up\". It is far more important to be able to last the journey.\n\nAI is a transformational technology for our societies to build out. The best and brightest are heavily invested in it. The amount of capex that society is pushing towards it marks this closer to the start than to the end. Dont fomo buy the top, dont panic sell the bottom.\n\nGood luck!",
-        "contentHtml": "Pre Market Thoughts - 11 Aug 26\n\nUS yields higher by about 3-4bps across the curve alongside the move higher in oil. We had a flurry of headlines overnight of varying importance.\n\nFirst is a rather direct admission by the US about their relative impotence in Iran, which presumably means the conflict stews for longer in a low grade conflict. Which isnt a terrible thing at the end of the day.\n\nNext is <a href=\"/search?f=tweets&q=%23NVDA\">$NVDA</a> Jenson rounding up 6 major counterparties for a 500B financing deal. This number seems oddly specific. My guess is that the recipients of these will be <a href=\"/search?f=tweets&q=%23SPCX\">$SPCX</a> and the neoclouds. What NVDA is doing here is credit transformation and making financing datacenters akin to financing real estate vs venture. GPUs as collateral are still feared because of their depreciation. Having fungibility in the asset class also makes it easier to be priced and traded; hence lowering the overall cost of credit and capital within the space.\n\nIn short, this is neocloud summer.\n\nThe market did not take it very well on the outset however,\n\nIn asia markets, <a href=\"/search?f=tweets&q=%23KOSPI\">$KOSPI</a> is up about 1% (JP on holiday - Mountain day - nani??). In my note yesterday i highlighted that positioning in $0660 has lightened up. It is also insanely funny to me that my notable counter signals turned bearish on memory right at the turn....$0660 has held its levels at 1.4m KRW.\n\nOn the earnings calendar (use <a href=\"http://terminal.gambit.zone\">terminal.gambit.zone</a>) - we have <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a> and <a href=\"/search?f=tweets&q=%23CRWV\">$CRWV</a> reporting AMC - with an implied move about 11.6% and 13.5% respectively for both. To note, <a href=\"/search?f=tweets&q=%23LITE\">$LITE</a> has already done a -10% move pre earnings, generally this sets up for a better PA into earnings all else equal.\n\nGold, Silver, Copper are all also breaking out - in my note on 7 Aug, i noted the short positioning across the XAG complex. This still sits there and will lead to strong follow on buying as shorts capitulate. \n\nWhile talking to a few of you, i noticed that many people are saddened by the PA. You want that explosive easy money that we had in May-June. Unfortunately, the investor base that made that happen (Leo, 2x etf buyers, koreans) are all liquidated. The current investor base bidding memory are those who are swooping in because the stock is cheap. These buyers are patient capital. This was also why i wrote in my note on 30 Jul that \"what will ensure will be an initial V shape bounce before dribbling down and a slow grind up\". It is far more important to be able to last the journey.\n\nAI is a transformational technology for our societies to build out. The best and brightest are heavily invested in it. The amount of capex that society is pushing towards it marks this closer to the start than to the end. Dont fomo buy the top, dont panic sell the bottom.\n\nGood luck!",
-        "link": "https://x.com/degentradingLSD/status/2087032651320299927"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2087364765928833338",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "币安广场的更新功能很不错啊，最爱的两个 @yingbinance @heyibinance\n\n1️⃣ 合约平仓时可一键分享到广场\n\n自带盈亏情况 / 买入价格 / 成交价格以及交易点位折线图，很适合分（zhuang）享（bi）的功能了，对交易员而言会方便不少\n\n2️⃣ 美股板块终于打通广场了\n\n上个月还和团队反馈了这点，作为新晋增长极，交易美股的用户也得有地方扎堆讨论才对；现在美股行情页点「参与讨论」就自带 Ticker 可以发帖了，这效率\n\n最后，欢迎大家关注我，在广场还只是个小透明 👉 binance.com/zh-CN/square/pro…",
-      "contentHtml": "币安广场的更新功能很不错啊，最爱的两个 <a href=\"/yingbinance\" title=\"ying滢哥捡到一个BNB🌖\">@yingbinance</a> <a href=\"/heyibinance\" title=\"Yi He\">@heyibinance</a>\n\n1️⃣ 合约平仓时可一键分享到广场\n\n自带盈亏情况 / 买入价格 / 成交价格以及交易点位折线图，很适合分（zhuang）享（bi）的功能了，对交易员而言会方便不少\n\n2️⃣ 美股板块终于打通广场了\n\n上个月还和团队反馈了这点，作为新晋增长极，交易美股的用户也得有地方扎堆讨论才对；现在美股行情页点「参与讨论」就自带 Ticker 可以发帖了，这效率\n\n最后，欢迎大家关注我，在广场还只是个小透明 👉 <a href=\"https://www.binance.com/zh-CN/square/profile/aiaptx\">binance.com/zh-CN/square/pro…</a>",
-      "publishedAt": "2026-08-12T02:25:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2087364765928833338",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPfPJrAbYAAQ9QI.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
