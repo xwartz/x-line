@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T22:28:16.459Z",
+  "lastUpdated": "2026-08-21T23:26:27.186Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -111,11 +111,32 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 646,
-    "successUsers": 32,
-    "failedUsers": 1
+    "newFetched": 666,
+    "successUsers": 33,
+    "failedUsers": 0
   },
   "tweets": [
+    {
+      "id": "2090937504157618534",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "#AI \n\n糟糕！",
+      "contentHtml": "<a href=\"/search?f=tweets&q=%23AI\">#AI</a> \n\n糟糕！",
+      "publishedAt": "2026-08-21T23:02:00.000Z",
+      "link": "https://x.com/taresky/status/2090937504157618534",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQSAkRXbIAAP81t.png"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2090916456934326686",
       "username": "KillaXBT",
@@ -12385,21 +12406,6 @@
           }
         ]
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2088415313209758176",
-      "username": "taresky",
-      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
-      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
-      "content": "用它的 AI 功能。\n\n得我自己先写一段，然后选中，然后选 Gemini，然后再告诉他需求，然后手动填充过去。\n\n填充过去的内容还带着 AI 对话框里的无用上下文。\n\n我得自己选来选去，把我和 AI 的对话内容删掉。\n\n我截个图发送给 grok 了，复制回来，都比这快啊。",
-      "contentHtml": "用它的 AI 功能。\n\n得我自己先写一段，然后选中，然后选 Gemini，然后再告诉他需求，然后手动填充过去。\n\n填充过去的内容还带着 AI 对话框里的无用上下文。\n\n我得自己选来选去，把我和 AI 的对话内容删掉。\n\n我截个图发送给 grok 了，复制回来，都比这快啊。",
-      "publishedAt": "2026-08-14T23:59:00.000Z",
-      "link": "https://x.com/taresky/status/2088415313209758176",
       "stats": {
         "replies": 0,
         "retweets": 0,
