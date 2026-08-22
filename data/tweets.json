@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T02:56:50.231Z",
+  "lastUpdated": "2026-08-22T03:44:09.750Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -111,11 +111,54 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 664,
-    "successUsers": 33,
-    "failedUsers": 0
+    "newFetched": 644,
+    "successUsers": 32,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2091001937210827217",
+      "username": "coolish",
+      "displayName": "paulwei",
+      "avatar": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_bigger.jpg",
+      "content": "很多交易者，交易的时候，\n其实不自知，自己在赌什么东西。\n\n举个换角度看的例子，就很容易明白：\nBTC趋势下跌300多天，相对低位100多天。\n终于迎来突破阈值的暴涨，才1、2天，\n连半根周线都没走完，\n不少人就陷入了对价格绝对值的分析，\n乃至在日级别上进行从多到空的大仓位反手操作，\n----\n这是在赌第一根周线长上影线？\n知道自己其实在赌这个吗？\n\n最简单的，看之前的哪怕弱反弹，都至少有几根周线？\n\n时间，时间，时间。\n时间维度远比价格绝对值更重要。\n\n过去两年很多人都知道，\nBTC一波正式的大涨趋势，\n是能持续100天这种时长级别的。\n难道不是很多人，每次真来到接近100天的时候，\n回头看开头那几天来回折腾的自己，像看傻子一样？\n\n最近同样跌了300天左右的，像是港股小米，\n7月份的上涨趋势都持续了一个月。",
+      "contentHtml": "很多交易者，交易的时候，\n其实不自知，自己在赌什么东西。\n\n举个换角度看的例子，就很容易明白：\nBTC趋势下跌300多天，相对低位100多天。\n终于迎来突破阈值的暴涨，才1、2天，\n连半根周线都没走完，\n不少人就陷入了对价格绝对值的分析，\n乃至在日级别上进行从多到空的大仓位反手操作，\n----\n这是在赌第一根周线长上影线？\n知道自己其实在赌这个吗？\n\n最简单的，看之前的哪怕弱反弹，都至少有几根周线？\n\n时间，时间，时间。\n时间维度远比价格绝对值更重要。\n\n过去两年很多人都知道，\nBTC一波正式的大涨趋势，\n是能持续100天这种时长级别的。\n难道不是很多人，每次真来到接近100天的时候，\n回头看开头那几天来回折腾的自己，像看傻子一样？\n\n最近同样跌了300天左右的，像是港股小米，\n7月份的上涨趋势都持续了一个月。",
+      "publishedAt": "2026-08-22T03:18:00.000Z",
+      "link": "https://x.com/coolish/status/2091001937210827217",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2090998197502300495",
+      "username": "taresky",
+      "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "avatar": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_bigger.jpg",
+      "content": "刚收获一个冷知识，一些支付的地方只能绑信用卡，不能绑 U 卡。（比如 X 推广）\n\n这种情况下 Google Wallet 的虚拟卡功能就很好用了。",
+      "contentHtml": "刚收获一个冷知识，一些支付的地方只能绑信用卡，不能绑 U 卡。（比如 X 推广）\n\n这种情况下 Google Wallet 的虚拟卡功能就很好用了。",
+      "publishedAt": "2026-08-22T03:03:00.000Z",
+      "link": "https://x.com/taresky/status/2090998197502300495",
+      "quote": {
+        "username": "taresky",
+        "displayName": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "content": "#风控\n\nAmex 在 Google Wallet 上有一个虚拟卡功能特别好用。  \n\n需要在网上输入信用卡信息的时候，有个虚拟卡选项，直接调银行的 API，生成一张临时的虚拟卡。  \n\n在这个网站验证完成了之后，虚拟卡的 CVC 就会自动失效。这样就不会泄露实体信用卡的信息。  \n\n同时由于已经验卡通过，以后在这个网站上购物也不受影响。  \n\n还有一些未验证的猜测：由于扣款商户信息一般都不会变更，所以可能只允许这张虚拟卡在初次绑定的商户消费。  \n\n如果发现来自不同商户的扣款，直接拒绝。  \n\n这样再不浪费卡号的基础上，实现了风险隔离，一矿一地址（一卡一商户）。",
+        "contentHtml": "<a href=\"/search?f=tweets&q=%23风控\">#风控</a>\n\nAmex 在 Google Wallet 上有一个虚拟卡功能特别好用。  \n\n需要在网上输入信用卡信息的时候，有个虚拟卡选项，直接调银行的 API，生成一张临时的虚拟卡。  \n\n在这个网站验证完成了之后，虚拟卡的 CVC 就会自动失效。这样就不会泄露实体信用卡的信息。  \n\n同时由于已经验卡通过，以后在这个网站上购物也不受影响。  \n\n还有一些未验证的猜测：由于扣款商户信息一般都不会变更，所以可能只允许这张虚拟卡在初次绑定的商户消费。  \n\n如果发现来自不同商户的扣款，直接拒绝。  \n\n这样再不浪费卡号的基础上，实现了风险隔离，一矿一地址（一卡一商户）。",
+        "link": "https://x.com/taresky/status/2082499771894554982",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HOaGfU7a8AAh8By.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2090992085457596877",
       "username": "taresky",
@@ -12336,46 +12379,6 @@
         "contentHtml": "Gemini 啊，都已经 2026 年 8 月了还是大狗粪啊。\n\n就连像一个 普通 AI 那样，在 Gmail 里，根据上下文，根据我的要求拟一封邮件，帮我填充到回复区。\n\n这么简单，这么简单，这么简单的事情都做不到。\n\n这还是 Google 的主场，Android  系统、Gmail、最常见的需求。\n\n简直是和 Siri 坐一桌的废物 AI。",
         "link": "https://x.com/taresky/status/2088414337732165999"
       },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2088550653497053623",
-      "username": "naval",
-      "displayName": "Naval",
-      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_bigger.jpg",
-      "content": "You cannot create God and put him on a leash.",
-      "contentHtml": "You cannot create God and put him on a leash.",
-      "publishedAt": "2026-08-15T08:57:00.000Z",
-      "link": "https://x.com/naval/status/2088550653497053623",
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2088534828480430395",
-      "username": "Bitfatty",
-      "displayName": "比特肥 || Bitfatty (🍀,🍀)",
-      "avatar": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_bigger.jpg",
-      "content": "🐱咪第一次被爆菊",
-      "contentHtml": "🐱咪第一次被爆菊",
-      "publishedAt": "2026-08-15T07:54:00.000Z",
-      "link": "https://x.com/Bitfatty/status/2088534828480430395",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPv3WpkaMAAFXs0.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HPv3WpsbEAEJLvM.jpg"
-        }
-      ],
       "stats": {
         "replies": 0,
         "retweets": 0,
