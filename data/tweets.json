@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T01:26:00.357Z",
+  "lastUpdated": "2026-08-23T03:05:51.649Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -111,11 +111,113 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 664,
-    "successUsers": 33,
-    "failedUsers": 0
+    "newFetched": 650,
+    "successUsers": 32,
+    "failedUsers": 1
   },
   "tweets": [
+    {
+      "id": "2091351314727100535",
+      "username": "qinbafrank",
+      "displayName": "qinbafrank",
+      "avatar": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_bigger.jpg",
+      "content": "加密的供给侧改革—合规ICO2.0利好哪些平台和资产？SEC的这个RegCA提案把传统证券豁免里原本互相排斥的“好处”重新组合，形成一种对加密代币特别有利的新资本形成路径。可以说创造一种比RegCF更宽松、比RegA更灵活、比RegD更公开的资本形成方式。再详细聊聊：\n\n1、对比之前集中融资路径规则拆解下，有助于理解：\n1）RegCF（众筹）：\n募资有上限（500万美金/12个月），必须通过中介平台；\n散户投资个人上限；\n1年转售期、流动性差。\n\n2）RegA（迷你IPO）\n上限约7500万美元/年，允许零售 + 一般招揽；\n必须提交发行声明并接受 SEC 资格认定；\n需要财务报告（Tier 2 通常审计），持续披露义务较重；流动性差；\n\n3）比 Reg D（私募）更公开\n募资几乎无上限，几乎无持续披露）；\n高度私人化只能面向合格投资者，持有期很长（IPO之后）；\n散户无法参与，二级流动性极差。\n\n新的Reg CA提案：\n无需中介平台（发行人直接提交通知 + 网站披露即可启动）；\nStartup 路径对非合格投资者几乎没有个人投资上限；可立即自由交易；\n代币天然对接加密市场的深度流动性；\n整体披露更原则性、更贴合加密特性（代币经济、智能合约、网络发展计划等）。\n\n简单说就把私募的“轻负担”与公开市场的“广覆盖 + 流动性”结合在一起，这是现有任何单一豁免都做不到的组合。意味着早期项目可以用更低摩擦、更广零售覆盖、更快网络效应的方式启动，而不是被平台和持有期“拴住”。\n\n2，整体如何理解这种“创造”\n在加密这个垂直领域里，重新定义了资本形成的条款：用自我认证 + 原则性披露 + 事后执法，换取了以前只有完整注册才能获得的“公众 + 流动性”组合。\n1）对真正想建网络的项目是重大利好（合规回岸、加速网络效应）。\n2）也可能产生监管套利激励（有人为了更好条件而“代币化”）。\n3）对整体美国募资逻辑有潜在溢出（虽然目前明确排除真实股权/债务）。\n4）仍受反欺诈条款约束，且目前只是提案阶段，最终规则可能收紧守门环节。\n\nSEC 在尝试为加密量身打造一条“轻入口、公开过程、高流动性出口”的混合高速路，比现有任何一条单一豁免都更贴合代币经济的实际需求。\n\n带来的结果就是：加密项目、AI项目，\n、具有网络效应外部参与者和数字化资源协调需求的企业，都可以利用这种模式玩法来募资；\n\n3、利好哪些资产\n1）有海量用户、有钱包和公链、交易所平台、具备强大分发能力的项目Coin和hood自然都受益。而且coinbase本身就有一个Coinbase Token Sales的平台（虽然RegCA并不强制要求通过中介平台。但中介平台在投资人那一侧还是有信用力的；\n\n2）Circle\n项目募资、投资人投资现在更可能使用USDC，而且Circle也推出了自己的公链。或者未来合规稳定币可能都会受益\n\n3）对于加密领域来说\n合规ICO2.0自然最主流的公链平台：ETH、Sol、base、robinhood chain、arc、avax等都会受益；\n链上提供流动性的平台hype、uni等\n足够多的好资产上来，defi的空间也会被打开。\n\n但还是要明确合规ICO跟代币化其实两个方向：\n1）合规ICO是直接代币如加密项目、有网络业务形态的项目（（如算力、数据市场、depin、游戏平台等）、科技公司直接考虑代币（改造成网络形态）等）），科技公司业务改造成网络形态也考虑代币经济等。\n2）代币化趋势是把传统金融里已经存在的资产类型如股权、股票、债券、外汇/贵金属/大宗等迁移到链上、代币化之前这里nitter.net/qinbafrank/status/2080…有聊过。\n\n当然两者最终都会带来更多链上优质资产的供给，殊途同归\n\n会不会鱼龙混杂？\n很大概率，离岸空气币也不会消失、合规的垃圾项目依然也会有。但是让脸上涌现好项目的概率变大。",
+      "contentHtml": "加密的供给侧改革—合规ICO2.0利好哪些平台和资产？SEC的这个RegCA提案把传统证券豁免里原本互相排斥的“好处”重新组合，形成一种对加密代币特别有利的新资本形成路径。可以说创造一种比RegCF更宽松、比RegA更灵活、比RegD更公开的资本形成方式。再详细聊聊：\n\n1、对比之前集中融资路径规则拆解下，有助于理解：\n1）RegCF（众筹）：\n募资有上限（500万美金/12个月），必须通过中介平台；\n散户投资个人上限；\n1年转售期、流动性差。\n\n2）RegA（迷你IPO）\n上限约7500万美元/年，允许零售 + 一般招揽；\n必须提交发行声明并接受 SEC 资格认定；\n需要财务报告（Tier 2 通常审计），持续披露义务较重；流动性差；\n\n3）比 Reg D（私募）更公开\n募资几乎无上限，几乎无持续披露）；\n高度私人化只能面向合格投资者，持有期很长（IPO之后）；\n散户无法参与，二级流动性极差。\n\n新的Reg CA提案：\n无需中介平台（发行人直接提交通知 + 网站披露即可启动）；\nStartup 路径对非合格投资者几乎没有个人投资上限；可立即自由交易；\n代币天然对接加密市场的深度流动性；\n整体披露更原则性、更贴合加密特性（代币经济、智能合约、网络发展计划等）。\n\n简单说就把私募的“轻负担”与公开市场的“广覆盖 + 流动性”结合在一起，这是现有任何单一豁免都做不到的组合。意味着早期项目可以用更低摩擦、更广零售覆盖、更快网络效应的方式启动，而不是被平台和持有期“拴住”。\n\n2，整体如何理解这种“创造”\n在加密这个垂直领域里，重新定义了资本形成的条款：用自我认证 + 原则性披露 + 事后执法，换取了以前只有完整注册才能获得的“公众 + 流动性”组合。\n1）对真正想建网络的项目是重大利好（合规回岸、加速网络效应）。\n2）也可能产生监管套利激励（有人为了更好条件而“代币化”）。\n3）对整体美国募资逻辑有潜在溢出（虽然目前明确排除真实股权/债务）。\n4）仍受反欺诈条款约束，且目前只是提案阶段，最终规则可能收紧守门环节。\n\nSEC 在尝试为加密量身打造一条“轻入口、公开过程、高流动性出口”的混合高速路，比现有任何一条单一豁免都更贴合代币经济的实际需求。\n\n带来的结果就是：加密项目、AI项目，\n、具有网络效应外部参与者和数字化资源协调需求的企业，都可以利用这种模式玩法来募资；\n\n3、利好哪些资产\n1）有海量用户、有钱包和公链、交易所平台、具备强大分发能力的项目Coin和hood自然都受益。而且coinbase本身就有一个Coinbase Token Sales的平台（虽然RegCA并不强制要求通过中介平台。但中介平台在投资人那一侧还是有信用力的；\n\n2）Circle\n项目募资、投资人投资现在更可能使用USDC，而且Circle也推出了自己的公链。或者未来合规稳定币可能都会受益\n\n3）对于加密领域来说\n合规ICO2.0自然最主流的公链平台：ETH、Sol、base、robinhood chain、arc、avax等都会受益；\n链上提供流动性的平台hype、uni等\n足够多的好资产上来，defi的空间也会被打开。\n\n但还是要明确合规ICO跟代币化其实两个方向：\n1）合规ICO是直接代币如加密项目、有网络业务形态的项目（（如算力、数据市场、depin、游戏平台等）、科技公司直接考虑代币（改造成网络形态）等）），科技公司业务改造成网络形态也考虑代币经济等。\n2）代币化趋势是把传统金融里已经存在的资产类型如股权、股票、债券、外汇/贵金属/大宗等迁移到链上、代币化之前这里<a href=\"https://nitter.net/qinbafrank/status/2080596296017322482?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2080…</a>有聊过。\n\n当然两者最终都会带来更多链上优质资产的供给，殊途同归\n\n会不会鱼龙混杂？\n很大概率，离岸空气币也不会消失、合规的垃圾项目依然也会有。但是让脸上涌现好项目的概率变大。",
+      "publishedAt": "2026-08-23T02:26:00.000Z",
+      "link": "https://x.com/qinbafrank/status/2091351314727100535",
+      "quote": {
+        "username": "qinbafrank",
+        "displayName": "qinbafrank",
+        "content": "加密领域的新常态与供给侧改革，24年4月这里nitter.net/qinbafrank/status/1784…提过一个“币市新常态”的概念：币市越成熟，有效性就会越强。有效性的体现就是最具成长性（叙事）和确定性的标的一定是吸引了最多的注意力和资金。资本市场的马太效应非常明显，未来币市这方面体现的也会非常彻底，那么分化会越来越严重，大部分沦为默默无闻。现在回看是不是确实如此。\n至于为什么会出现极度分化的现象？在24年这篇山寨的认知与迭代的推文nitter.net/qinbafrank/status/1816…有详细聊过底层逻辑，简单说就是：创新乏力、没有价值创造、项目方只有权力没有义务道德风险极高。\n\n为什么美股百年长久，核心是有全球最优质资产的不断供给。没有优质资产，再多的资金进来，最后都会变成一地鸡毛的资金游戏。过去两件多币市的最核心问题就是没有投资资产的供给。\n\n而8月19号SEC宣布的代币融资豁免与安全港原则《Regulation Crypto Assets》则让我看到了加密资产“供给则改革”影子\n\n1、网络资本市场\n提案明确为“covered investment contracts”（附着于非证券加密资产的投资合同）提供专门发行路径（启动豁免最高500万美元/4年，融资豁免最高7500万美元/年），并配套原则性披露 + 条件性安全港。安全港允许发行方在完成或永久停止其承诺的“关键管理努力”后，通过提交Form TR等，让代币脱离投资合同属性。\n\n这正是在传统公司股权资本市场之外，开辟一条为“网络本身”融资的通道。具有网络效应、外部参与者和数字化资源协调需求的企业（AI算力/数据市场、DePIN、物流、游戏、SaaS等）确实会重新评估是否叠加一层代币经济——因为合规成本下降、路径清晰，符合标准后能直接向美国投资者募资、吸引力还是很大的。\n\n2、供给侧改革：更多有业务基础的代币，空气币空间被挤压\n以前很多空气币靠“事后执法模糊+离岸发币+无披露”生存。现在合规公开募资路径，这会吸引真正有业务场景、能兑现网络建设承诺的项目来考虑代币经济\n\n空气币如果想在美国公开募资，要么无法满足条件，要么一旦披露造假就面临法律责任。长期看，优质供给增加会稀释纯投机代币的吸引力，这是典型的供给侧优化。\n\n3、跑路、不作为风险下降，监管倒逼团队更积极\n融资豁免与安全港原则并不是说项目完全放飞自我，从另一个角度看这其实进一步提高了准入门槛：要求叙事披露、（大额）财务报表和持续报告，反欺诈规则始终适用。\n1）披露 + 持续报告 大幅提高透明度，跑路成本上升（投资者和SEC都更容易追责）；\n\n2）安全港条件 明确绑定“完成或永久停止关键承诺”。团队如果想让代币尽早脱离证券监管、获得更自由流通，就必须实际交付网络建设，而不是募资后躺平。\n\n3）相比过去“先发币、再执法”的模式，现在是“事前有规则路径 + 事后有明确退出机制”，消极不作为的空间被压缩。\n\n当然空气币不会立刻完全消失，部分仍可能继续走离岸或灰色路径，但美国市场作为主流资本池的吸引力会显著向合规优质项目倾斜。符合sec规定的合规ICO项目未来会吸引全球加密领域最多的资金和注意力，最终我们可能会看到“劣币驱逐良币”的场景。\n\n提案仍在征求意见阶段（评论截止约2026年10月20日），最终规则可能调整。而且合规不等于成功。披露充分的项目也可能执行不力或代币经济设计糟糕。但至少合规化、透明化对于投资者来说是好的趋势和迹象。\n\n从“压制未注册发币”转向“设计专门通道 + 用生命周期规则倒逼交付”。这确实有望推动加密代币从“空气币横行”向“更多有真实网络价值创造”的方向演进。\n\n所以这也是前天这里nitter.net/qinbafrank/status/2090…说的合规ICO2.0、链上资本形成和数字资产证券生命周期制度的起点。",
+        "contentHtml": "加密领域的新常态与供给侧改革，24年4月这里<a href=\"https://nitter.net/qinbafrank/status/1784391423992979826?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/1784…</a>提过一个“币市新常态”的概念：币市越成熟，有效性就会越强。有效性的体现就是最具成长性（叙事）和确定性的标的一定是吸引了最多的注意力和资金。资本市场的马太效应非常明显，未来币市这方面体现的也会非常彻底，那么分化会越来越严重，大部分沦为默默无闻。现在回看是不是确实如此。\n至于为什么会出现极度分化的现象？在24年这篇山寨的认知与迭代的推文<a href=\"https://nitter.net/qinbafrank/status/1816383628235989447?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/1816…</a>有详细聊过底层逻辑，简单说就是：创新乏力、没有价值创造、项目方只有权力没有义务道德风险极高。\n\n为什么美股百年长久，核心是有全球最优质资产的不断供给。没有优质资产，再多的资金进来，最后都会变成一地鸡毛的资金游戏。过去两件多币市的最核心问题就是没有投资资产的供给。\n\n而8月19号SEC宣布的代币融资豁免与安全港原则《Regulation Crypto Assets》则让我看到了加密资产“供给则改革”影子\n\n1、网络资本市场\n提案明确为“covered investment contracts”（附着于非证券加密资产的投资合同）提供专门发行路径（启动豁免最高500万美元/4年，融资豁免最高7500万美元/年），并配套原则性披露 + 条件性安全港。安全港允许发行方在完成或永久停止其承诺的“关键管理努力”后，通过提交Form TR等，让代币脱离投资合同属性。\n\n这正是在传统公司股权资本市场之外，开辟一条为“网络本身”融资的通道。具有网络效应、外部参与者和数字化资源协调需求的企业（AI算力/数据市场、DePIN、物流、游戏、SaaS等）确实会重新评估是否叠加一层代币经济——因为合规成本下降、路径清晰，符合标准后能直接向美国投资者募资、吸引力还是很大的。\n\n2、供给侧改革：更多有业务基础的代币，空气币空间被挤压\n以前很多空气币靠“事后执法模糊+离岸发币+无披露”生存。现在合规公开募资路径，这会吸引真正有业务场景、能兑现网络建设承诺的项目来考虑代币经济\n\n空气币如果想在美国公开募资，要么无法满足条件，要么一旦披露造假就面临法律责任。长期看，优质供给增加会稀释纯投机代币的吸引力，这是典型的供给侧优化。\n\n3、跑路、不作为风险下降，监管倒逼团队更积极\n融资豁免与安全港原则并不是说项目完全放飞自我，从另一个角度看这其实进一步提高了准入门槛：要求叙事披露、（大额）财务报表和持续报告，反欺诈规则始终适用。\n1）披露 + 持续报告 大幅提高透明度，跑路成本上升（投资者和SEC都更容易追责）；\n\n2）安全港条件 明确绑定“完成或永久停止关键承诺”。团队如果想让代币尽早脱离证券监管、获得更自由流通，就必须实际交付网络建设，而不是募资后躺平。\n\n3）相比过去“先发币、再执法”的模式，现在是“事前有规则路径 + 事后有明确退出机制”，消极不作为的空间被压缩。\n\n当然空气币不会立刻完全消失，部分仍可能继续走离岸或灰色路径，但美国市场作为主流资本池的吸引力会显著向合规优质项目倾斜。符合sec规定的合规ICO项目未来会吸引全球加密领域最多的资金和注意力，最终我们可能会看到“劣币驱逐良币”的场景。\n\n提案仍在征求意见阶段（评论截止约2026年10月20日），最终规则可能调整。而且合规不等于成功。披露充分的项目也可能执行不力或代币经济设计糟糕。但至少合规化、透明化对于投资者来说是好的趋势和迹象。\n\n从“压制未注册发币”转向“设计专门通道 + 用生命周期规则倒逼交付”。这确实有望推动加密代币从“空气币横行”向“更多有真实网络价值创造”的方向演进。\n\n所以这也是前天这里<a href=\"https://nitter.net/qinbafrank/status/2090227771134095538?s=46&t=k6rimWsEbo2D2tXolYcM-A\">nitter.net/qinbafrank/status/2090…</a>说的合规ICO2.0、链上资本形成和数字资产证券生命周期制度的起点。",
+        "link": "https://x.com/qinbafrank/status/2091133175791812683"
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2091348290642071786",
+      "username": "market_beggar",
+      "displayName": "貝格先生🐢",
+      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
+      "content": "🗞 貝格鏈上週報（九十一）：史上最大逼空事件\n\n歷經了近 2 個月的窄幅震盪，結合 URPD 的超巨量堆積，\n行情終於是在本週如期出現了一波爆發，\nBTC 在短短四天內暴漲超 16,000 點，\n促成了加密史上最大規模的逼空事件。\n\n按慣例，本週的週報依然要從 URPD 的角度，\n和各位分享最新的籌碼分布狀況👇：\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n如附圖所示，重點摘要如下：\n🔺 61~65K 目前堆積了約 220 萬枚 BTC，相比上週減少了 27.2 萬枚\n🔺 承上，相比於巨量堆積區的規模，可見當前獲利了結盤並不大\n🔺 63K 的單一巨量堆積柱，至今仍有超 100 萬枚的堆積量\n🔺 從整個 URPD 籌碼分布結構來看，61~65K 仍具備堅實的底部基礎\n\n📖 「底部必出的現象」：巨量換手形成的堅實底部基礎\nnitter.net/market_beggar/status/2…\n\n本週突如其來的井噴，使 BTC 憋了許久的「怨氣」終是得到了宣洩，\n同時這波快、狠、準的暴漲，也促成了目前加密史上最大規模的逼空事件。\n\n接下來，只要 61~65K 巨量堆積區的籌碼，沒有出現明顯的拋售行為，\n我們基本就不太需要擔心源於籌碼結構崩垮的暴跌。\n\n未來，倘若 BTC 能在上漲的過程中，\n使堆積於 61~65K 巨量堆積區的重心緩步上移，\n我們或許就能迎來一次健康的牛市，就像以往的每輪週期那樣。\n\n最後，在此提前預告：\n明日我將發布一篇針對接下來 BTC 的週期交易計畫分享帖，\n預計將以「長文」的方式呈現，盡可能的和各位解釋到每一項細節，\n還請各位期待一下，也希望大家能夠多多指教。\n\n以上就是今天的內容，祝各位週末愉快🧼\n\n//\n\n📚 本週文章回顧\n\n「引力增強的 Trendline Liq」：靜待 61K 的二次測試\nnitter.net/market_beggar/status/2…\n\n「詭異的轉向」：1y-3y 持有者占比開始下降\nnitter.net/market_beggar/status/2…\n\n「殺意再起」：次次血洗市場的笨蛋錢訊號再次浮現\nnitter.net/market_beggar/status/2…\n\n「上方 Liq 已抹平」：67K 多空分水嶺的博弈正式開始\nnitter.net/market_beggar/status/2…\n\n「BTC 吸籌趨勢評分」更新：異於以往的連續吸籌\nnitter.net/market_beggar/status/2…",
+      "contentHtml": "🗞 貝格鏈上週報（九十一）：史上最大逼空事件\n\n歷經了近 2 個月的窄幅震盪，結合 URPD 的超巨量堆積，\n行情終於是在本週如期出現了一波爆發，\nBTC 在短短四天內暴漲超 16,000 點，\n促成了加密史上最大規模的逼空事件。\n\n按慣例，本週的週報依然要從 URPD 的角度，\n和各位分享最新的籌碼分布狀況👇：\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\n<a href=\"https://nitter.net/market_beggar/status/1963776996942741931\">nitter.net/market_beggar/status/1…</a>\n\n如附圖所示，重點摘要如下：\n🔺 61~65K 目前堆積了約 220 萬枚 BTC，相比上週減少了 27.2 萬枚\n🔺 承上，相比於巨量堆積區的規模，可見當前獲利了結盤並不大\n🔺 63K 的單一巨量堆積柱，至今仍有超 100 萬枚的堆積量\n🔺 從整個 URPD 籌碼分布結構來看，61~65K 仍具備堅實的底部基礎\n\n📖 「底部必出的現象」：巨量換手形成的堅實底部基礎\n<a href=\"https://nitter.net/market_beggar/status/2083006515175387476\">nitter.net/market_beggar/status/2…</a>\n\n本週突如其來的井噴，使 BTC 憋了許久的「怨氣」終是得到了宣洩，\n同時這波快、狠、準的暴漲，也促成了目前加密史上最大規模的逼空事件。\n\n接下來，只要 61~65K 巨量堆積區的籌碼，沒有出現明顯的拋售行為，\n我們基本就不太需要擔心源於籌碼結構崩垮的暴跌。\n\n未來，倘若 BTC 能在上漲的過程中，\n使堆積於 61~65K 巨量堆積區的重心緩步上移，\n我們或許就能迎來一次健康的牛市，就像以往的每輪週期那樣。\n\n最後，在此提前預告：\n明日我將發布一篇針對接下來 BTC 的週期交易計畫分享帖，\n預計將以「長文」的方式呈現，盡可能的和各位解釋到每一項細節，\n還請各位期待一下，也希望大家能夠多多指教。\n\n以上就是今天的內容，祝各位週末愉快🧼\n\n//\n\n📚 本週文章回顧\n\n「引力增強的 Trendline Liq」：靜待 61K 的二次測試\n<a href=\"https://nitter.net/market_beggar/status/2089167112392814617\">nitter.net/market_beggar/status/2…</a>\n\n「詭異的轉向」：1y-3y 持有者占比開始下降\n<a href=\"https://nitter.net/market_beggar/status/2089528447320428775\">nitter.net/market_beggar/status/2…</a>\n\n「殺意再起」：次次血洗市場的笨蛋錢訊號再次浮現\n<a href=\"https://nitter.net/market_beggar/status/2089890439793180683\">nitter.net/market_beggar/status/2…</a>\n\n「上方 Liq 已抹平」：67K 多空分水嶺的博弈正式開始\n<a href=\"https://nitter.net/market_beggar/status/2090247832704065989\">nitter.net/market_beggar/status/2…</a>\n\n「BTC 吸籌趨勢評分」更新：異於以往的連續吸籌\n<a href=\"https://nitter.net/market_beggar/status/2090612818173395444\">nitter.net/market_beggar/status/2…</a>",
+      "publishedAt": "2026-08-23T02:14:00.000Z",
+      "link": "https://x.com/market_beggar/status/2091348290642071786",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQX2J_fbAAEGsdy.jpg"
+        }
+      ],
+      "quote": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢",
+        "content": "🗞 貝格鏈上週報（九十）：單桿破百，風雨將至\n\n本週的 BTC 以下跌為主基調，但話雖如此，\n週內最大跌幅也僅有 4.4%，波動率自六月初至今依然維持收縮。\n\n極致低迷的市場信心，使 BTC 似已成為金融市場的棄嬰，\n但 K 線上看不到的是：即便波動率低迷，\n籌碼之間的博弈、換手每日依然在暗處悄然進行。\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\nnitter.net/market_beggar/status/1…\n\n如附圖所示，重點摘要如下：\n🔺 61~65K 目前堆積了約 247.2 萬枚 BTC，相比上週增加 10.7 萬枚\n🔺 63K 的單一巨量堆積柱，目前堆積量已來到約 113 萬枚\n🔺 至今為止，由窄幅巨量堆積引起的波動率遽增依然尚未出現\n\n肉眼可見，以 63K 為重心的巨量堆積區，\n至今已然是整個 URPD 籌碼結構分布圖中的中央山脈，\n這個畫面已經愈來愈接近 2023 年初時的籌碼結構（詳見以下鏈接🔗）。\n\n📖 「底部必出的現象」：巨量換手形成的堅實底部基礎\nnitter.net/market_beggar/status/2…\n\n除此之外，本週其實在美方資金情緒、Liq 結構分布上，\n都分別出現了一些非常值得注意的訊號，\n美資的部分我有在本週的分析帖和各位分享，有興趣的朋友可自行參閱；\n至於 Liq 的部分，我將於明日專門發布一篇帖子來和各位報告，\n還請各位稍微期待一下👀\n\n不過，在此我也不打算故意去吊各位的胃口，所以先說結論📝：\n結合美資曲線和 Liq 的現況，未來回到 61K 進行二測的概率已再度提升。\n\n以上就是今天的內容，祝各位週末愉快🏰\n\n//\n\n📚 相關閱讀資源\n\n「波動收斂的第五週」：窄幅廝殺的尾聲何時而至\nnitter.net/market_beggar/status/2…\n\n「持續逼近的壓力」：偏離度調整的 STH-RP 模型最新數據更新\nnitter.net/market_beggar/status/2…\n\n「持續偷跑」：美資情緒曲線的背離風險開始浮現\nnitter.net/market_beggar/status/2…\n\n絕對的鐵底共振：「路徑 3」底部位置的定調\nnitter.net/market_beggar/status/2…\n\n「稀缺的一抹寒意」：AVIV Heatmap 能否再現藍色\nnitter.net/market_beggar/status/2…",
+        "contentHtml": "🗞 貝格鏈上週報（九十）：單桿破百，風雨將至\n\n本週的 BTC 以下跌為主基調，但話雖如此，\n週內最大跌幅也僅有 4.4%，波動率自六月初至今依然維持收縮。\n\n極致低迷的市場信心，使 BTC 似已成為金融市場的棄嬰，\n但 K 線上看不到的是：即便波動率低迷，\n籌碼之間的博弈、換手每日依然在暗處悄然進行。\n\n//\n\n附圖是 URPD 圖表，代表的是「BTC 的籌碼結構分布狀況」。\n關於 BTC 籌碼結構的分析邏輯 & 詳細教程，可參考以下鏈接：\n<a href=\"https://nitter.net/market_beggar/status/1963776996942741931\">nitter.net/market_beggar/status/1…</a>\n\n如附圖所示，重點摘要如下：\n🔺 61~65K 目前堆積了約 247.2 萬枚 BTC，相比上週增加 10.7 萬枚\n🔺 63K 的單一巨量堆積柱，目前堆積量已來到約 113 萬枚\n🔺 至今為止，由窄幅巨量堆積引起的波動率遽增依然尚未出現\n\n肉眼可見，以 63K 為重心的巨量堆積區，\n至今已然是整個 URPD 籌碼結構分布圖中的中央山脈，\n這個畫面已經愈來愈接近 2023 年初時的籌碼結構（詳見以下鏈接🔗）。\n\n📖 「底部必出的現象」：巨量換手形成的堅實底部基礎\n<a href=\"https://nitter.net/market_beggar/status/2083006515175387476\">nitter.net/market_beggar/status/2…</a>\n\n除此之外，本週其實在美方資金情緒、Liq 結構分布上，\n都分別出現了一些非常值得注意的訊號，\n美資的部分我有在本週的分析帖和各位分享，有興趣的朋友可自行參閱；\n至於 Liq 的部分，我將於明日專門發布一篇帖子來和各位報告，\n還請各位稍微期待一下👀\n\n不過，在此我也不打算故意去吊各位的胃口，所以先說結論📝：\n結合美資曲線和 Liq 的現況，未來回到 61K 進行二測的概率已再度提升。\n\n以上就是今天的內容，祝各位週末愉快🏰\n\n//\n\n📚 相關閱讀資源\n\n「波動收斂的第五週」：窄幅廝殺的尾聲何時而至\n<a href=\"https://nitter.net/market_beggar/status/2086628115057721344\">nitter.net/market_beggar/status/2…</a>\n\n「持續逼近的壓力」：偏離度調整的 STH-RP 模型最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2086990616119148875\">nitter.net/market_beggar/status/2…</a>\n\n「持續偷跑」：美資情緒曲線的背離風險開始浮現\n<a href=\"https://nitter.net/market_beggar/status/2087353143785115907\">nitter.net/market_beggar/status/2…</a>\n\n絕對的鐵底共振：「路徑 3」底部位置的定調\n<a href=\"https://nitter.net/market_beggar/status/2087716259656065244\">nitter.net/market_beggar/status/2…</a>\n\n「稀缺的一抹寒意」：AVIV Heatmap 能否再現藍色\n<a href=\"https://nitter.net/market_beggar/status/2088076939311657216\">nitter.net/market_beggar/status/2…</a>",
+        "link": "https://x.com/market_beggar/status/2088804818865590647",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPzs6Cra4AA562m.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2091345070725476664",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "TRUMP 团队分配（Team Allocation）地址过去 2 小时疑似卖出 1000 万美元 $TRUMP 🤨\n\n这 408.6 万枚代币通过多次中转，最终充值进了 #OKX，用途未知；这也是该充值地址时隔三周再次收到同一来源的 TRUMP 代币\n\n钱包地址 arkm.com/explorer/address/Gh…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "contentHtml": "TRUMP 团队分配（Team Allocation）地址过去 2 小时疑似卖出 1000 万美元 <a href=\"/search?f=tweets&q=%23TRUMP\">$TRUMP</a> 🤨\n\n这 408.6 万枚代币通过多次中转，最终充值进了 <a href=\"/search?f=tweets&q=%23OKX\">#OKX</a>，用途未知；这也是该充值地址时隔三周再次收到同一来源的 TRUMP 代币\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/GhvHQsiVr8zwY1ot7Scd65yDjLjsrmdHsmCNKv2S8xE1\">arkm.com/explorer/address/Gh…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "publishedAt": "2026-08-23T02:01:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2091345070725476664",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQXzK40acAAdVq0.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQXzNTlaQAAiLbo.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2091341698580529613",
+      "username": "ai_9684xtpa",
+      "displayName": "Ai 姨",
+      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
+      "content": "地址 0xc71…30F02 沉睡 8 个月后苏醒，建仓 500 万美元 $ETH 🙌\n\n该地址 40 分钟前通过 Tokenlon 单笔买入 2055 ETH，花费 504.4 万枚 USDT，成本 $2,447.49；他曾在九个月前以 ~$3016 止盈 ETH\n\n钱包地址 arkm.com/explorer/address/0x…\n\n#Bitget 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "contentHtml": "地址 0xc71…30F02 沉睡 8 个月后苏醒，建仓 500 万美元 <a href=\"/search?f=tweets&q=%23ETH\">$ETH</a> 🙌\n\n该地址 40 分钟前通过 Tokenlon 单笔买入 2055 ETH，花费 504.4 万枚 USDT，成本 $2,447.49；他曾在九个月前以 ~$3016 止盈 ETH\n\n钱包地址 <a href=\"https://arkm.com/explorer/address/0xc712a0c2DC41Abec6eB28B54d4B19c1581B30F02\">arkm.com/explorer/address/0x…</a>\n\n<a href=\"/search?f=tweets&q=%23Bitget\">#Bitget</a> 来了就是VIP！Crypto、美股、CFD，全球先机一站布局",
+      "publishedAt": "2026-08-23T01:48:00.000Z",
+      "link": "https://x.com/ai_9684xtpa/status/2091341698580529613",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQXu1DQaEAITk_N.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2091284278034256273",
       "username": "KillaXBT",
@@ -143,6 +245,32 @@
             "url": "https://pbs.twimg.com/media/HLLzYG1XAAEu1Ti.jpg"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2091281791336566897",
+      "username": "ebfull",
+      "displayName": "Sean Bowe",
+      "avatar": "https://pbs.twimg.com/profile_images/1934672401687597056/SmfyH4L4_bigger.jpg",
+      "content": "We put up an FAQ for this Zcash coinholder vote:\n\nzakura.com/voting/",
+      "contentHtml": "We put up an FAQ for this Zcash coinholder vote:\n\n<a href=\"https://zakura.com/voting/\">zakura.com/voting/</a>",
+      "publishedAt": "2026-08-22T21:50:00.000Z",
+      "link": "https://x.com/ebfull/status/2091281791336566897",
+      "retweet": {
+        "username": "naval",
+        "displayName": "Naval"
+      },
+      "quote": {
+        "username": "ebfull",
+        "displayName": "Sean Bowe",
+        "content": "ZEC you own in Ironwood on Aug 24 at ~19:00 UTC is eligible for the coinholder vote. It uses homomorphic encryption and PIR for privacy, and it works with @KeystoneWallet.\n\nDuring the 18-day voting period, you can vote with Zodl, but you should also try Vizor Desktop too!",
+        "contentHtml": "ZEC you own in Ironwood on Aug 24 at ~19:00 UTC is eligible for the coinholder vote. It uses homomorphic encryption and PIR for privacy, and it works with <a href=\"/KeystoneWallet\" title=\"Keystone Hardware Wallet\">@KeystoneWallet</a>.\n\nDuring the 18-day voting period, you can vote with Zodl, but you should also try Vizor Desktop too!",
+        "link": "https://x.com/ebfull/status/2091198922807222710"
       },
       "stats": {
         "replies": 0,
@@ -12306,151 +12434,6 @@
           "url": "https://pbs.twimg.com/media/HP4_sgeaEAAOjAs.jpg"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2089176031085359354",
-      "username": "0xleng1",
-      "displayName": "Leng",
-      "avatar": "https://pbs.twimg.com/profile_images/2085191114496311296/II9mvaaN_bigger.jpg",
-      "content": "QUOTRONS求你别拉了行吗80u成本拉到1000u了，拿不住根本拿不住，还是nft好玩啊。",
-      "contentHtml": "QUOTRONS求你别拉了行吗80u成本拉到1000u了，拿不住根本拿不住，还是nft好玩啊。",
-      "publishedAt": "2026-08-17T02:22:00.000Z",
-      "link": "https://x.com/0xleng1/status/2089176031085359354",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HP4-hgObUAA9lS3.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HP4-hgRbMAAaGrL.jpg"
-        }
-      ],
-      "quote": {
-        "username": "0xleng1",
-        "displayName": "Leng",
-        "content": "尝试一下回归nft，买了点这个quotrons，不是投资建议。也不建议任何人买，纯看看这波操作会不会亏钱。\n\nink团队成员出来玩的项目，说白了就是分了十个股票池子，持有nft拿分红，买入卖出有税。",
-        "contentHtml": "尝试一下回归nft，买了点这个quotrons，不是投资建议。也不建议任何人买，纯看看这波操作会不会亏钱。\n\nink团队成员出来玩的项目，说白了就是分了十个股票池子，持有nft拿分红，买入卖出有税。",
-        "link": "https://x.com/0xleng1/status/2087689020138831962"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2089168719998230986",
-      "username": "ai_9684xtpa",
-      "displayName": "Ai 姨",
-      "avatar": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_bigger.jpg",
-      "content": "Garrett Jin 关联地址疑似减仓 101.2 万美元 $WLFI，单币资产已缩水 42%🥹\n\n地址 0xd1F…1f6ee 曾在今年 2 月从 #Binance 提出 3.13 亿枚 WLFI（约 3189 万美元），提出均价 $0.1018；持仓六个月后于 7 小时前将 1700 万枚充值进币安，若卖出将亏损 71.8 万美元\n\n目前该地址仍持有 1765 万美元的 WLFI，传送门 👉 arkm.com/explorer/address/0x…",
-      "contentHtml": "Garrett Jin 关联地址疑似减仓 101.2 万美元 $WLFI，单币资产已缩水 42%🥹\n\n地址 0xd1F…1f6ee 曾在今年 2 月从 <a href=\"/search?f=tweets&q=%23Binance\">#Binance</a> 提出 3.13 亿枚 WLFI（约 3189 万美元），提出均价 $0.1018；持仓六个月后于 7 小时前将 1700 万枚充值进币安，若卖出将亏损 71.8 万美元\n\n目前该地址仍持有 1765 万美元的 WLFI，传送门 👉 <a href=\"https://arkm.com/explorer/address/0xf978263764078052193ff14CDFA32233Ed858a1A\">arkm.com/explorer/address/0x…</a>",
-      "publishedAt": "2026-08-17T01:53:00.000Z",
-      "link": "https://x.com/ai_9684xtpa/status/2089168719998230986",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HP434AfaQAAEqwn.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HP43ybFaMAAOYei.jpg"
-        }
-      ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2089167112392814617",
-      "username": "market_beggar",
-      "displayName": "貝格先生🐢",
-      "avatar": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_bigger.jpg",
-      "content": "「引力增強的 Trendline Liq」：靜待 61K 的二次測試⏳\n\n承接下方引文，今天按慣例再次來和各位更新 BTC 最新的 Liq 狀況。\n\n正文開始之前，先和各位說明：\n為了避免各位看膩了「黑底」的分析圖，\n今天我換了另一個介面，同時順便將繪製筆跡做了簡化整理，\n以便各位能更容易、清晰的理解盤面的重點🔖\n\n//\n\n如附圖所示，即便經歷了上週的連續陰跌，但礙於幅度不足，\n當前盤面上存在的 Liquidity 依然沒有被清掃：\n🔺 67.3K 依然存在 Equal Highs 引力（清掃需求）\n🔺 65.8K 依然存在 Equal Highs 引力（清掃需求）\n🔺 61K ~ 62.5K 的區域堆積了大量 Trendline Liq 引力（清掃需求）\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n\n相比於上週，本週新增的跡象其實只有一項：\n「61K ~ 62.5K 的 Trendline Liq 引力再次得到強化🧲」\n\n如附圖的黃色圓圈（🟡）所標示：\n在 61K ~ 62.5K 之間，目前存在了 6 個高度非常接近的針尖低點，\n這些低點完美形成了一道非常典型的 Trendline Liq，\n並且低點和低點之間的距離都非常短，使其已有類似 Equal Lows 的效果，\n這導致「未來價格重新返回 61K 之下以清掃 Liq」的概率再次得到提升。\n\n白話來說就是：\n我先前提出的三種築底路徑之一的「路徑 1 的 Retest」，\n正在隨著線型的逐步發展，而提升其發生的概率（跌回 61K 清掃 Liq）。\n\n📖 BTC「三種週期性底部結構」路徑推演\nnitter.net/market_beggar/status/2…\n\n最後，再次簡單幫各位重溫一次「路徑 1」的概念（詳見上方鏈接🔗）：\n➡️ 將 6/05 以來的走勢，視為一次潛在的「區間 Stop Hunt 結構」\n➡️ 承上，將 59~61K 的區域，視作此區間 Stop Hunt 後的二探區域\n➡️ 只要 58K 未被跌破，路徑 1 都將持續成立\n➡️ 倘若跌破 58K，則才會開始評估「路徑 2、3」的成形狀況\n\n📖 區間 Stop Hunt 結構的兩種進場方式解析\nnitter.net/market_beggar/status/1…\n\n最後，結合上週美資撤離的訊號（nitter.net/market_beggar/status/2…），\n倘若本週美方資金依然未見任何回溫的跡象，\n那結合當前堆積於 61K ~ 62.5K 之間的大量 Liquidity，\n回到 61K 進行 Retest 就會是相對的大概率事件。\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n「稀缺的一抹寒意」：AVIV Heatmap 能否再現藍色\nnitter.net/market_beggar/status/2…\n\n絕對的鐵底共振：「路徑 3」底部位置的定調\nnitter.net/market_beggar/status/2…\n\n「持續逼近的壓力」：偏離度調整的 STH-RP 模型最新數據更新\nnitter.net/market_beggar/status/2…",
-      "contentHtml": "「引力增強的 Trendline Liq」：靜待 61K 的二次測試⏳\n\n承接下方引文，今天按慣例再次來和各位更新 BTC 最新的 Liq 狀況。\n\n正文開始之前，先和各位說明：\n為了避免各位看膩了「黑底」的分析圖，\n今天我換了另一個介面，同時順便將繪製筆跡做了簡化整理，\n以便各位能更容易、清晰的理解盤面的重點🔖\n\n//\n\n如附圖所示，即便經歷了上週的連續陰跌，但礙於幅度不足，\n當前盤面上存在的 Liquidity 依然沒有被清掃：\n🔺 67.3K 依然存在 Equal Highs 引力（清掃需求）\n🔺 65.8K 依然存在 Equal Highs 引力（清掃需求）\n🔺 61K ~ 62.5K 的區域堆積了大量 Trendline Liq 引力（清掃需求）\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\n相比於上週，本週新增的跡象其實只有一項：\n「61K ~ 62.5K 的 Trendline Liq 引力再次得到強化🧲」\n\n如附圖的黃色圓圈（🟡）所標示：\n在 61K ~ 62.5K 之間，目前存在了 6 個高度非常接近的針尖低點，\n這些低點完美形成了一道非常典型的 Trendline Liq，\n並且低點和低點之間的距離都非常短，使其已有類似 Equal Lows 的效果，\n這導致「未來價格重新返回 61K 之下以清掃 Liq」的概率再次得到提升。\n\n白話來說就是：\n我先前提出的三種築底路徑之一的「路徑 1 的 Retest」，\n正在隨著線型的逐步發展，而提升其發生的概率（跌回 61K 清掃 Liq）。\n\n📖 BTC「三種週期性底部結構」路徑推演\n<a href=\"https://nitter.net/market_beggar/status/2075529216591053204\">nitter.net/market_beggar/status/2…</a>\n\n最後，再次簡單幫各位重溫一次「路徑 1」的概念（詳見上方鏈接🔗）：\n➡️ 將 6/05 以來的走勢，視為一次潛在的「區間 Stop Hunt 結構」\n➡️ 承上，將 59~61K 的區域，視作此區間 Stop Hunt 後的二探區域\n➡️ 只要 58K 未被跌破，路徑 1 都將持續成立\n➡️ 倘若跌破 58K，則才會開始評估「路徑 2、3」的成形狀況\n\n📖 區間 Stop Hunt 結構的兩種進場方式解析\n<a href=\"https://nitter.net/market_beggar/status/1940221638618095904\">nitter.net/market_beggar/status/1…</a>\n\n最後，結合上週美資撤離的訊號（<a href=\"https://nitter.net/market_beggar/status/2087353143785115907\">nitter.net/market_beggar/status/2…</a>），\n倘若本週美方資金依然未見任何回溫的跡象，\n那結合當前堆積於 61K ~ 62.5K 之間的大量 Liquidity，\n回到 61K 進行 Retest 就會是相對的大概率事件。\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n「稀缺的一抹寒意」：AVIV Heatmap 能否再現藍色\n<a href=\"https://nitter.net/market_beggar/status/2088076939311657216\">nitter.net/market_beggar/status/2…</a>\n\n絕對的鐵底共振：「路徑 3」底部位置的定調\n<a href=\"https://nitter.net/market_beggar/status/2087716259656065244\">nitter.net/market_beggar/status/2…</a>\n\n「持續逼近的壓力」：偏離度調整的 STH-RP 模型最新數據更新\n<a href=\"https://nitter.net/market_beggar/status/2086990616119148875\">nitter.net/market_beggar/status/2…</a>",
-      "publishedAt": "2026-08-17T01:47:00.000Z",
-      "link": "https://x.com/market_beggar/status/2089167112392814617",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HP42adEbMAAzsTD.jpg"
-        }
-      ],
-      "quote": {
-        "username": "market_beggar",
-        "displayName": "貝格先生🐢",
-        "content": "「波動收斂的第五週」：窄幅廝殺的尾聲何時而至🌩\n\n承接下方引文，新的一週，按照慣例來和各位報告最新的 Liq 狀況。\n\n坦白說，今天的更新和上週四的狀況其實差異不多，\n原先和各位報告的各處 Liquidity，在過去幾日也都尚未被清掃；\n但，如果將時間納入考量，或許就能看到更值得期待的資訊 ...👇：\n\n//\n\n如附圖所示，先將本週的 Liq 分布狀況整理如下：\n🔺 67.3K 的 Equal Highs 引力依然存在\n🔺 65.8K 出現 Equal Highs 引力（由原先的 Trendline Liq 進化而成）\n🔺 和 61K Trendline Liq 共振的 62.2K Equal Lows 引力依然存在\n🔺 持續期待、密切監測下方 59~61K 的 Retest 行情\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\nnitter.net/market_beggar/status/2…\n\n大致上，目前 BTC 的盤面 Liquidity 引力結構和上週沒太大差別，\n但有一項資訊是各位不得不去注意的：時間⏱️\n\n如果我們把眼光放大一些：\n➡️ 自上一段趨勢性行情至今，BTC 已震盪了 65 日\n➡️ 自 BTC 波動收斂於 61~66K 至今，已過去了 37 日\n\n簡單幫各位複習一個概念：\n每當 BTC 出現一波大級別的趨勢性走勢後，\n總是需要一段橫向整理的「修復期」，來使各方完成下注；\n在這段修復期之中，有合約多空雙方的建倉、平倉，\n當然也有現貨交易者的買入、拋售 ... 等。\n\n隨著多空兩方逐步完成自己最終的站位，\n市場就將進入一種極其脆弱「恐怖平衡」，只要稍有風吹草動，\n趨勢性行情就會隨時啟動，接著就是下一次的修復期，周而復始。\n\n是的，貝格的老朋友都知道：「修復期的長度，幾乎都落在 1~3 個月」‼️\n\n結合目前現有的時間數據（大級別震盪 65 日、小級別震盪 37 日），\n即便本週不選擇方向，留給 BTC 的時間也的確不多了；\n結合昨日週報和各位分享的「超 200 萬枚 BTC 的蓄能」，\n雖然我無法預測多空，但能和各位確定的是：\n「我們目前正處於『市場的恐怖平衡』階段，波動隨時都可能發起突襲💉」\n\n📖 貝格鏈上週報（八十九）：超 200 萬枚 BTC 的蓄能\nnitter.net/market_beggar/status/2…\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n「撤退開始？」：美方資金情緒曲線似有下降跡象\nnitter.net/market_beggar/status/2…\n\nBTC 長、短期持有者成本數據更新：交叉遙遙無期？\nnitter.net/market_beggar/status/2…\n\n偏離度調整 STH-RP 模型更新：降速放緩，底部區間逐漸清晰\nnitter.net/market_beggar/status/2…",
-        "contentHtml": "「波動收斂的第五週」：窄幅廝殺的尾聲何時而至🌩\n\n承接下方引文，新的一週，按照慣例來和各位報告最新的 Liq 狀況。\n\n坦白說，今天的更新和上週四的狀況其實差異不多，\n原先和各位報告的各處 Liquidity，在過去幾日也都尚未被清掃；\n但，如果將時間納入考量，或許就能看到更值得期待的資訊 ...👇：\n\n//\n\n如附圖所示，先將本週的 Liq 分布狀況整理如下：\n🔺 67.3K 的 Equal Highs 引力依然存在\n🔺 65.8K 出現 Equal Highs 引力（由原先的 Trendline Liq 進化而成）\n🔺 和 61K Trendline Liq 共振的 62.2K Equal Lows 引力依然存在\n🔺 持續期待、密切監測下方 59~61K 的 Retest 行情\n\n📖 識別 Liquidity：淺談何謂「Trendline Liquidity」\n<a href=\"https://nitter.net/market_beggar/status/2036621311276179466\">nitter.net/market_beggar/status/2…</a>\n\n大致上，目前 BTC 的盤面 Liquidity 引力結構和上週沒太大差別，\n但有一項資訊是各位不得不去注意的：時間⏱️\n\n如果我們把眼光放大一些：\n➡️ 自上一段趨勢性行情至今，BTC 已震盪了 65 日\n➡️ 自 BTC 波動收斂於 61~66K 至今，已過去了 37 日\n\n簡單幫各位複習一個概念：\n每當 BTC 出現一波大級別的趨勢性走勢後，\n總是需要一段橫向整理的「修復期」，來使各方完成下注；\n在這段修復期之中，有合約多空雙方的建倉、平倉，\n當然也有現貨交易者的買入、拋售 ... 等。\n\n隨著多空兩方逐步完成自己最終的站位，\n市場就將進入一種極其脆弱「恐怖平衡」，只要稍有風吹草動，\n趨勢性行情就會隨時啟動，接著就是下一次的修復期，周而復始。\n\n是的，貝格的老朋友都知道：「修復期的長度，幾乎都落在 1~3 個月」‼️\n\n結合目前現有的時間數據（大級別震盪 65 日、小級別震盪 37 日），\n即便本週不選擇方向，留給 BTC 的時間也的確不多了；\n結合昨日週報和各位分享的「超 200 萬枚 BTC 的蓄能」，\n雖然我無法預測多空，但能和各位確定的是：\n「我們目前正處於『市場的恐怖平衡』階段，波動隨時都可能發起突襲💉」\n\n📖 貝格鏈上週報（八十九）：超 200 萬枚 BTC 的蓄能\n<a href=\"https://nitter.net/market_beggar/status/2086265070515016041\">nitter.net/market_beggar/status/2…</a>\n\n以上就是今天的內容，新的一週，祝各位交易順利🫡\n\n//\n\n📚 相關閱讀資源\n\n「撤退開始？」：美方資金情緒曲線似有下降跡象\n<a href=\"https://nitter.net/market_beggar/status/2085543188799094800\">nitter.net/market_beggar/status/2…</a>\n\nBTC 長、短期持有者成本數據更新：交叉遙遙無期？\n<a href=\"https://nitter.net/market_beggar/status/2084818219072954827\">nitter.net/market_beggar/status/2…</a>\n\n偏離度調整 STH-RP 模型更新：降速放緩，底部區間逐漸清晰\n<a href=\"https://nitter.net/market_beggar/status/2080469443352854893\">nitter.net/market_beggar/status/2…</a>",
-        "link": "https://x.com/market_beggar/status/2086628115057721344",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HPUxNRdbMAEeBvE.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2089149801262940314",
-      "username": "litcapital",
-      "displayName": "litquidity",
-      "avatar": "https://pbs.twimg.com/profile_images/1611406816130338816/KWJfnndd_bigger.jpg",
-      "content": "If Ro Khanna and his idiotic base somehow pass their wealth tax as proposed, founders have no choice but to move out of California\n\nThere is no world where taking out massive loans backed by founder shares makes any sense and I don’t see how investors could fund these companies",
-      "contentHtml": "If Ro Khanna and his idiotic base somehow pass their wealth tax as proposed, founders have no choice but to move out of California\n\nThere is no world where taking out massive loans backed by founder shares makes any sense and I don’t see how investors could fund these companies",
-      "publishedAt": "2026-08-17T00:38:00.000Z",
-      "link": "https://x.com/litcapital/status/2089149801262940314",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "exec_sum",
-        "displayName": "Exec Sum",
-        "content": "NEWS: Ro Khanna proposes cash-strapped tech founders take out millions in government loans backed by illiquid startup shares to pay his proposed 5% billionaire wealth tax, with the government able to seize the shares if the loan cannot be repaid.",
-        "contentHtml": "NEWS: Ro Khanna proposes cash-strapped tech founders take out millions in government loans backed by illiquid startup shares to pay his proposed 5% billionaire wealth tax, with the government able to seize the shares if the loan cannot be repaid.",
-        "link": "https://x.com/exec_sum/status/2089148207444132014",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HP4lNS5bYAAB3V-.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2089111173459268080",
-      "username": "TJ_Research",
-      "displayName": "投资TALK君",
-      "avatar": "https://pbs.twimg.com/profile_images/1751334877591486464/ptPeGDbr_bigger.jpg",
-      "content": "我操，把X也加进去看看🤣\n有了AI真的牛逼都不能乱吹了",
-      "contentHtml": "我操，把X也加进去看看🤣\n有了AI真的牛逼都不能乱吹了",
-      "publishedAt": "2026-08-16T22:04:00.000Z",
-      "link": "https://x.com/TJ_Research/status/2089111173459268080",
-      "quote": {
-        "username": "newptone",
-        "displayName": "OceanX",
-        "content": "我用逃课君1500多个视频做回测，准确率其实还挺高的",
-        "contentHtml": "我用逃课君1500多个视频做回测，准确率其实还挺高的",
-        "link": "https://x.com/newptone/status/2088607617488998425"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
