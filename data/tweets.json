@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T11:31:54.499Z",
+  "lastUpdated": "2026-08-24T12:57:13.814Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -111,11 +111,45 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 645,
-    "successUsers": 32,
-    "failedUsers": 1
+    "newFetched": 545,
+    "successUsers": 27,
+    "failedUsers": 6
   },
   "tweets": [
+    {
+      "id": "2091854970261819561",
+      "username": "KillaXBT",
+      "displayName": "Killa",
+      "avatar": "https://pbs.twimg.com/profile_images/2066287633538379776/Xb-yM_-l_bigger.jpg",
+      "content": "Who's laughing now, $BTC",
+      "contentHtml": "Who's laughing now, <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a>",
+      "publishedAt": "2026-08-24T11:47:00.000Z",
+      "link": "https://x.com/KillaXBT/status/2091854970261819561",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQfC6OgXgAAnDUq.png"
+        }
+      ],
+      "quote": {
+        "username": "KillaXBT",
+        "displayName": "Killa",
+        "content": "I am following my $BTC spot plan from 2025. \n\nMy average notional entry is $65,897.\n\nWill see you in a few years.",
+        "contentHtml": "I am following my <a href=\"/search?f=tweets&q=%23BTC\">$BTC</a> spot plan from 2025. \n\nMy average notional entry is $65,897.\n\nWill see you in a few years.",
+        "link": "https://x.com/KillaXBT/status/2070200731936665821",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HLrUkLKXcAAz-Pq.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "2091849650219426252",
       "username": "octopusycc",
@@ -554,25 +588,6 @@
       }
     },
     {
-      "id": "2091745332199895360",
-      "username": "ebfull",
-      "displayName": "Sean Bowe",
-      "avatar": "https://pbs.twimg.com/profile_images/1934672401687597056/SmfyH4L4_bigger.jpg",
-      "content": "Make sure your ZEC is shielded, and in Ironwood, sometime over the next ~14hrs. This way your coins are eligible for the NU7 Coinholder Vote and you can vote over the next ~18 days (at your leisure, with the wallet of your choice.)\n\nzakura.com/voting/",
-      "contentHtml": "Make sure your ZEC is shielded, and in Ironwood, sometime over the next ~14hrs. This way your coins are eligible for the NU7 Coinholder Vote and you can vote over the next ~18 days (at your leisure, with the wallet of your choice.)\n\n<a href=\"https://zakura.com/voting/\">zakura.com/voting/</a>",
-      "publishedAt": "2026-08-24T04:32:00.000Z",
-      "link": "https://x.com/ebfull/status/2091745332199895360",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2091737922978639965",
       "username": "coolish",
       "displayName": "paulwei",
@@ -742,6 +757,10 @@
           "url": "https://pbs.twimg.com/media/HQc37osbcAAaP2Z.jpg"
         }
       ],
+      "retweet": {
+        "username": "market_beggar",
+        "displayName": "貝格先生🐢"
+      },
       "quote": {
         "username": "market_beggar",
         "displayName": "貝格先生🐢",
@@ -1824,31 +1843,6 @@
       }
     },
     {
-      "id": "2091451989284847816",
-      "username": "mert",
-      "displayName": "mert",
-      "avatar": "https://pbs.twimg.com/profile_images/1975912876243095552/YlVLO4Oz_bigger.jpg",
-      "content": "one of the coolest parts about the zcash momentum\n\nroman storm, who is facing serious jail time for writing privacy code, had majority of his donations in zcash\n\nand now he has many more resources to fight this\n\nfreedom money",
-      "contentHtml": "one of the coolest parts about the zcash momentum\n\nroman storm, who is facing serious jail time for writing privacy code, had majority of his donations in zcash\n\nand now he has many more resources to fight this\n\nfreedom money",
-      "publishedAt": "2026-08-23T09:06:00.000Z",
-      "link": "https://x.com/mert/status/2091451989284847816",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HQZUf0rbEAAHjJF.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2091448164251263252",
       "username": "TechCharts",
       "displayName": "Aksel Kibar, CMT",
@@ -2626,25 +2620,6 @@
       }
     },
     {
-      "id": "2091236690715410586",
-      "username": "Cernovich",
-      "displayName": "Cernovich",
-      "avatar": "https://pbs.twimg.com/profile_images/1981917778467532800/1LpS5x6S_bigger.jpg",
-      "content": "Go to a small town. The baseball field is named after some local business owner. New track and field house at the high school. Same. Should be no different with data centers. Put a couple of million into small towns across America and watch this drama end overnight.",
-      "contentHtml": "Go to a small town. The baseball field is named after some local business owner. New track and field house at the high school. Same. Should be no different with data centers. Put a couple of million into small towns across America and watch this drama end overnight.",
-      "publishedAt": "2026-08-22T18:50:00.000Z",
-      "link": "https://x.com/Cernovich/status/2091236690715410586",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2091235428472869017",
       "username": "KillaXBT",
       "displayName": "Killa",
@@ -2746,38 +2721,6 @@
         "content": "China. The answer is China.",
         "contentHtml": "China. The answer is China.",
         "link": "https://x.com/TMTLongShort/status/2091114616453501114"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2091177611569291424",
-      "username": "ivanalog_com",
-      "displayName": "seekinganythingbutalpha",
-      "avatar": "https://pbs.twimg.com/profile_images/1538007532177723392/aobhQuJw_bigger.jpg",
-      "content": "DS 和 Qwen 出世以前，其实我是不太相信这一点的。因为 OpenAI、Anthropic 两家的模型大小、激活参数和真实 serving 成本都不透明，外界只能猜。\n\n但最近 Qwen、DeepSeek 这类公开权重模型的本地和云端 serving 数据越来越完整以后，这笔账已经可以自己算了。\n\n结果其实很惊人。\n\n以 27B dense 为例，本地 4090 的纯输出成本大约在 0.6 美元/MM，典型读写混合以后，大约只有 0.1 美元/MM。到了 B200 production serving，纯输出成本已经可以压到 0.1 美元/MM 左右，输入输出合计则进一步进入几美分/MM 的区间。\n\n所以现在的问题已经不是“AI 很贵”。\n\n恰恰相反，AI 作为生产资料，已经便宜得有些离谱。\n\n而且本地卡还只是生产级硬件能力的边角料。B200、B300 这种机器一旦进入高并发 serving，通过 batching 把模型权重读取成本摊到大量请求上，单位 token 成本会远低于单用户本地推理。\n\n这也是为什么最近半个月消费级显卡的翻倍式上涨值得重视。大家开始重新认识这些机器的经济价值。以前一张显卡主要是一件消费电子产品，现在它越来越像一台可以持续生产机器智力的小型生产设备。\n\n更重要的是，这个成本下降并不是单纯来自硬件。\n\n模型本身也在发生变化。\n\nQwen 27B 这种 dense 模型，已经能用几十 B 参数进入过去旗舰闭源模型才能达到的能力区间。DeepSeek 则通过 MoE 进一步把总知识容量和每个 token 实际需要计算的参数量拆开。\n\n也就是说，模型正在变得越来越“智力密集”。\n\n每一个 B 参数承载的有效智力越来越高。\n\n所以现在同时发生了两件事：\n\n模型越来越聪明。\n\n模型越来越便宜。\n\n这才是最反常识的地方。\n\n通常一种商品质量越来越高，成本也会越来越高。但 AI 目前恰恰相反。智力质量快速提高，而单位智力的生产成本却在快速下降。\n\n这也是为什么 DeepSeek 涨价以前的定价，现在回头看，没有当时想象得那么疯狂。它的官方 output 价格已经很低，高缓存 workload 的实际 blended price 更低。OpenCode 当时再补贴一层以后，我实际看到的价格甚至到了几美分/MM。\n\n过去看起来像补贴出来的不可持续价格，现在拿 production serving 成本重新计算以后，会发现它距离硬件经济极限并没有想象得那么远。\n\n所以长期真正值得思考的可能不是：\n\nAI 价格最终会不会跌得很惨？\n\n而是：\n\nAI 的成本会不会跌得比价格更快？\n\n如果未来 Opus 级甚至更高的机器智力，市场竞争把售价打到 0.1 到 0.2 美元/MM，但生产成本已经下降到几美分，那么这个行业依然可以维持很高的毛利。\n\n卖价暴跌，并不等于经济性恶化。\n\n甚至完全可能相反。\n\n而价格真正进入 0.05 到 0.10 美元/MM 以后，另一个更大的变化才会开始出现。\n\n这个价格已经低到，很多生产系统不会再认真考虑“要不要省 token”。\n\n理性的策略会逐渐变成：\n\n继续算。\n\n继续生成方案，继续搜索参数，继续验证，继续失败，继续重做，把以前因为智力太贵而无法充分探索的问题空间全部打开。\n\n到了这个阶段，token 就不再像一种消费品。\n\n它更像电力、算力或者工业原料。\n\n只是它生产的东西，是智力。\n\n所以我立正站好，加仓  $ORCL",
-      "contentHtml": "DS 和 Qwen 出世以前，其实我是不太相信这一点的。因为 OpenAI、Anthropic 两家的模型大小、激活参数和真实 serving 成本都不透明，外界只能猜。\n\n但最近 Qwen、DeepSeek 这类公开权重模型的本地和云端 serving 数据越来越完整以后，这笔账已经可以自己算了。\n\n结果其实很惊人。\n\n以 27B dense 为例，本地 4090 的纯输出成本大约在 0.6 美元/MM，典型读写混合以后，大约只有 0.1 美元/MM。到了 B200 production serving，纯输出成本已经可以压到 0.1 美元/MM 左右，输入输出合计则进一步进入几美分/MM 的区间。\n\n所以现在的问题已经不是“AI 很贵”。\n\n恰恰相反，AI 作为生产资料，已经便宜得有些离谱。\n\n而且本地卡还只是生产级硬件能力的边角料。B200、B300 这种机器一旦进入高并发 serving，通过 batching 把模型权重读取成本摊到大量请求上，单位 token 成本会远低于单用户本地推理。\n\n这也是为什么最近半个月消费级显卡的翻倍式上涨值得重视。大家开始重新认识这些机器的经济价值。以前一张显卡主要是一件消费电子产品，现在它越来越像一台可以持续生产机器智力的小型生产设备。\n\n更重要的是，这个成本下降并不是单纯来自硬件。\n\n模型本身也在发生变化。\n\nQwen 27B 这种 dense 模型，已经能用几十 B 参数进入过去旗舰闭源模型才能达到的能力区间。DeepSeek 则通过 MoE 进一步把总知识容量和每个 token 实际需要计算的参数量拆开。\n\n也就是说，模型正在变得越来越“智力密集”。\n\n每一个 B 参数承载的有效智力越来越高。\n\n所以现在同时发生了两件事：\n\n模型越来越聪明。\n\n模型越来越便宜。\n\n这才是最反常识的地方。\n\n通常一种商品质量越来越高，成本也会越来越高。但 AI 目前恰恰相反。智力质量快速提高，而单位智力的生产成本却在快速下降。\n\n这也是为什么 DeepSeek 涨价以前的定价，现在回头看，没有当时想象得那么疯狂。它的官方 output 价格已经很低，高缓存 workload 的实际 blended price 更低。OpenCode 当时再补贴一层以后，我实际看到的价格甚至到了几美分/MM。\n\n过去看起来像补贴出来的不可持续价格，现在拿 production serving 成本重新计算以后，会发现它距离硬件经济极限并没有想象得那么远。\n\n所以长期真正值得思考的可能不是：\n\nAI 价格最终会不会跌得很惨？\n\n而是：\n\nAI 的成本会不会跌得比价格更快？\n\n如果未来 Opus 级甚至更高的机器智力，市场竞争把售价打到 0.1 到 0.2 美元/MM，但生产成本已经下降到几美分，那么这个行业依然可以维持很高的毛利。\n\n卖价暴跌，并不等于经济性恶化。\n\n甚至完全可能相反。\n\n而价格真正进入 0.05 到 0.10 美元/MM 以后，另一个更大的变化才会开始出现。\n\n这个价格已经低到，很多生产系统不会再认真考虑“要不要省 token”。\n\n理性的策略会逐渐变成：\n\n继续算。\n\n继续生成方案，继续搜索参数，继续验证，继续失败，继续重做，把以前因为智力太贵而无法充分探索的问题空间全部打开。\n\n到了这个阶段，token 就不再像一种消费品。\n\n它更像电力、算力或者工业原料。\n\n只是它生产的东西，是智力。\n\n所以我立正站好，加仓  <a href=\"/search?f=tweets&q=%23ORCL\">$ORCL</a>",
-      "publishedAt": "2026-08-22T14:56:00.000Z",
-      "link": "https://x.com/ivanalog_com/status/2091177611569291424",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HQVa9ClWYAAXthA.jpg"
-        }
-      ],
-      "retweet": {
-        "username": "TJ_Research",
-        "displayName": "投资TALK君"
-      },
-      "quote": {
-        "username": "RYANHINGSHING",
-        "displayName": "Ryan Leung 梁興盛, CFA",
-        "content": "同一句話說很多次😅\n\n“OpenAI使用Blackwell和算法優化後，可以把推論成本壓低10-20x\n\n「價格戰」的根本是成本大幅下降”",
-        "contentHtml": "同一句話說很多次😅\n\n“OpenAI使用Blackwell和算法優化後，可以把推論成本壓低10-20x\n\n「價格戰」的根本是成本大幅下降”",
-        "link": "https://x.com/RYANHINGSHING/status/2091139078636876107"
       },
       "stats": {
         "replies": 0,
@@ -3196,25 +3139,6 @@
       "retweet": {
         "username": "TechCharts",
         "displayName": "Aksel Kibar, CMT"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2091108225806454802",
-      "username": "ProfBuehlerMIT",
-      "displayName": "Markus J. Buehler",
-      "avatar": "https://pbs.twimg.com/profile_images/1133792154181021696/vn_-rmPd_bigger.png",
-      "content": "Grok @bot is incredible - and they can even manufacture real physical objects! Here is a little experiment I did last night: I created a team of bots and asked them to solve a complex engineering problem end to end - starting from four images as design cues, inferring transferable structural principles from the pixels, synthesizing an executable interactive physics simulator, running and reasoning over experiments, optimizing the design & finally manufacturing the best designs.\n\nThe entire loop worked remarkably well - and I was even able to communicate with the agents from my Apple Watch. (Do we live in the future yet?) \n\nTeam of agents\n\n1⃣ Chief of Staff coordinates the workflow: watches the other agents, pulls results into the main chat, transfers files between them, and keeps the job moving.\n2⃣ Physics Experimenter is the scientist-coder. It interprets the design cues and images, writes the simulator, runs experiments, analyzes the results, and produces a detailed LaTeX scientific report.\n3⃣ 3D Printing Bot operates the fabrication workflow: prepares and slices the models, generates manufacturing code, sends the job, and monitors the printer.\n\nThe workflow\n\nI provided an initial task based on four unregistered reference photographs containing different objects at different scales (pinnate leaf venation, a Voronoi-like areole mesh, a stochastic fibrous lattice, and a radial/circumferential web).\n\nThe prompt asked the agents to infer transferable design principles - hierarchy, branching, interfaces, redundancy, disorder, load paths - and use them to build an interactive laboratory for hierarchical materials and fracture.\n\nThe scientific question was: at fixed material budget, how do hierarchy depth, redundancy, disorder, and interlevel strength change stiffness, peak load, energy absorption, and the brittle-to-progressive transition?\n\nIn ~20 minutes, the Physics Experimenter produced a 2D hierarchical Euler–Bernoulli beam-network laboratory. Coarse veins persist and remain thicker; finer infill is added inside cells; members connecting levels are treated as interfaces with relative strength κ; and total material volume is conserved. The four source photographs remain visible in an editable interpretation panel. The app generates geometry, steps or runs the network to failure, compares A/B/C designs, and exports JSON, CSV, PNG, and STL geometry for fabrication.\n\nAfter validation the Physics Experimenter used the app and conducted 47 simulation experiments, including six holdouts.\n\nIt found something scientifically interesting: extra hierarchy is not \"free\" toughness. At fixed volume, initial stiffness changed by only about 20%, while work-to-failure varied by several-fold. Infill steals cross-section from the main axial veins, so deeper and more redundant networks often absorbed less energy than a simple depth-1 grid. Weak interfaces behaved as distributed fuses, producing more progressive failure and reducing localization. The specific H2 hypothesis - that hierarchy becomes detrimental primarily because interfaces form a mechanical bottleneck - was rejected; the dominant effect instead came from redistribution of a fixed material budget across structural levels.\n\nThe Physics Experimenter then assembled the methods, tests, results, hypothesis evaluation, and conclusions into a detailed scientific report.\n\nThe best designs were passed to the 3D Printing Bot. It opened Bambu Studio and brought the Bambu Lab H2D online. Both STLs were placed on one build plate at the same 50x scale and sliced using a 0.20 mm PLA process. The prints completed within less than an hour.\n\nThe loop \n\nimages → structural abstraction → executable physics → autonomous experiments → hypothesis testing → design selection → STL → slicing/manufacturing code → physical object\n\nThat last transition is what I find especially interesting: AI is beginning to operate across the entire scientific and physical workflow - converting observations into models, models into experiments, experimental evidence into revised designs, and those designs into manufactured matter by directly operating machines. This starts to blur the boundary between AI that reasons about the physical world and AI that can actually act on it. \n\nShoutout to the @bot team - you are building something very special here! The way these agents can move naturally from reasoning, to experiments, to operating machines in the physical world feels like an important step.",
-      "contentHtml": "Grok <a href=\"/bot\" title=\"Grok Bot\">@bot</a> is incredible - and they can even manufacture real physical objects! Here is a little experiment I did last night: I created a team of bots and asked them to solve a complex engineering problem end to end - starting from four images as design cues, inferring transferable structural principles from the pixels, synthesizing an executable interactive physics simulator, running and reasoning over experiments, optimizing the design & finally manufacturing the best designs.\n\nThe entire loop worked remarkably well - and I was even able to communicate with the agents from my Apple Watch. (Do we live in the future yet?) \n\nTeam of agents\n\n1⃣ Chief of Staff coordinates the workflow: watches the other agents, pulls results into the main chat, transfers files between them, and keeps the job moving.\n2⃣ Physics Experimenter is the scientist-coder. It interprets the design cues and images, writes the simulator, runs experiments, analyzes the results, and produces a detailed LaTeX scientific report.\n3⃣ 3D Printing Bot operates the fabrication workflow: prepares and slices the models, generates manufacturing code, sends the job, and monitors the printer.\n\nThe workflow\n\nI provided an initial task based on four unregistered reference photographs containing different objects at different scales (pinnate leaf venation, a Voronoi-like areole mesh, a stochastic fibrous lattice, and a radial/circumferential web).\n\nThe prompt asked the agents to infer transferable design principles - hierarchy, branching, interfaces, redundancy, disorder, load paths - and use them to build an interactive laboratory for hierarchical materials and fracture.\n\nThe scientific question was: at fixed material budget, how do hierarchy depth, redundancy, disorder, and interlevel strength change stiffness, peak load, energy absorption, and the brittle-to-progressive transition?\n\nIn ~20 minutes, the Physics Experimenter produced a 2D hierarchical Euler–Bernoulli beam-network laboratory. Coarse veins persist and remain thicker; finer infill is added inside cells; members connecting levels are treated as interfaces with relative strength κ; and total material volume is conserved. The four source photographs remain visible in an editable interpretation panel. The app generates geometry, steps or runs the network to failure, compares A/B/C designs, and exports JSON, CSV, PNG, and STL geometry for fabrication.\n\nAfter validation the Physics Experimenter used the app and conducted 47 simulation experiments, including six holdouts.\n\nIt found something scientifically interesting: extra hierarchy is not \"free\" toughness. At fixed volume, initial stiffness changed by only about 20%, while work-to-failure varied by several-fold. Infill steals cross-section from the main axial veins, so deeper and more redundant networks often absorbed less energy than a simple depth-1 grid. Weak interfaces behaved as distributed fuses, producing more progressive failure and reducing localization. The specific H2 hypothesis - that hierarchy becomes detrimental primarily because interfaces form a mechanical bottleneck - was rejected; the dominant effect instead came from redistribution of a fixed material budget across structural levels.\n\nThe Physics Experimenter then assembled the methods, tests, results, hypothesis evaluation, and conclusions into a detailed scientific report.\n\nThe best designs were passed to the 3D Printing Bot. It opened Bambu Studio and brought the Bambu Lab H2D online. Both STLs were placed on one build plate at the same 50x scale and sliced using a 0.20 mm PLA process. The prints completed within less than an hour.\n\nThe loop \n\nimages → structural abstraction → executable physics → autonomous experiments → hypothesis testing → design selection → STL → slicing/manufacturing code → physical object\n\nThat last transition is what I find especially interesting: AI is beginning to operate across the entire scientific and physical workflow - converting observations into models, models into experiments, experimental evidence into revised designs, and those designs into manufactured matter by directly operating machines. This starts to blur the boundary between AI that reasons about the physical world and AI that can actually act on it. \n\nShoutout to the <a href=\"/bot\" title=\"Grok Bot\">@bot</a> team - you are building something very special here! The way these agents can move naturally from reasoning, to experiments, to operating machines in the physical world feels like an important step.",
-      "publishedAt": "2026-08-22T10:20:00.000Z",
-      "link": "https://x.com/ProfBuehlerMIT/status/2091108225806454802",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -4396,42 +4320,6 @@
       }
     },
     {
-      "id": "2090899332430012434",
-      "username": "RobertMSterling",
-      "displayName": "Robert Sterling",
-      "avatar": "https://pbs.twimg.com/profile_images/1598698021033844736/3VpKC6zs_bigger.png",
-      "content": "Absolutely boggles my mind that 21-year-old investment bank interns are subject to stricter insider trading rules than members of Congress.\n\nThese guys have access to more material non-public information than anyone on Wall Street—legislative changes, pharmaceutical trials, classified military intel, defense contracts—and they’re using it to operate their own amateur hedge funds from the House cloakroom.\n\nPelosi and her serial drunk-driving husband consistently outperforming the market. Ro Khanna making thousands of trades every year. Hundreds of other examples, across both parties. It’s completely absurd.\n\nIf you want the extraordinary privilege of being one of the most powerful people in America, you—and all members of your immediate family—should be required to place your liquid assets in a trust that can only invest in the S&P 500, a bond market ETF, and a money market fund. You can change your allocation among the three choices quarterly, but that’s it.\n\nNo more call options on biotech companies that just told the FDA about a medical breakthrough. No more short-selling defense contractors that just briefed the Armed Services Committee about production delays. No more fake “blind trusts” whose rules aren’t worth the paper they’re printed on.\n\nShow up, do your job, and faithfully serve the American people. If you don’t want to do that, go study for the CFA exams and test your mettle against Ken Griffin and Steve Cohen in the trading world (for some reason, I don’t expect your streak of beating the market to continue once you and your staffers are no longer getting confidential briefings).\n\nBut no more of this Capitol Hill Wolf of Wall Street bullshit. It’s corrosive to good governance, it undermines democracy and trading markets alike, and we, the American people, are done with it.",
-      "contentHtml": "Absolutely boggles my mind that 21-year-old investment bank interns are subject to stricter insider trading rules than members of Congress.\n\nThese guys have access to more material non-public information than anyone on Wall Street—legislative changes, pharmaceutical trials, classified military intel, defense contracts—and they’re using it to operate their own amateur hedge funds from the House cloakroom.\n\nPelosi and her serial drunk-driving husband consistently outperforming the market. Ro Khanna making thousands of trades every year. Hundreds of other examples, across both parties. It’s completely absurd.\n\nIf you want the extraordinary privilege of being one of the most powerful people in America, you—and all members of your immediate family—should be required to place your liquid assets in a trust that can only invest in the S&P 500, a bond market ETF, and a money market fund. You can change your allocation among the three choices quarterly, but that’s it.\n\nNo more call options on biotech companies that just told the FDA about a medical breakthrough. No more short-selling defense contractors that just briefed the Armed Services Committee about production delays. No more fake “blind trusts” whose rules aren’t worth the paper they’re printed on.\n\nShow up, do your job, and faithfully serve the American people. If you don’t want to do that, go study for the CFA exams and test your mettle against Ken Griffin and Steve Cohen in the trading world (for some reason, I don’t expect your streak of beating the market to continue once you and your staffers are no longer getting confidential briefings).\n\nBut no more of this Capitol Hill Wolf of Wall Street bullshit. It’s corrosive to good governance, it undermines democracy and trading markets alike, and we, the American people, are done with it.",
-      "publishedAt": "2026-08-21T20:30:00.000Z",
-      "link": "https://x.com/RobertMSterling/status/2090899332430012434",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
-      "quote": {
-        "username": "insiderwave",
-        "displayName": "Insiderwave",
-        "content": "🚨BREAKING\n\nCongressman Ro Khanna bought $MRNA back in June 30th.\n\nToday, they announced a breakthrough cancer vaccine.\n\nHis investment is up 120% in less than 2 months.",
-        "contentHtml": "🚨BREAKING\n\nCongressman Ro Khanna bought <a href=\"/search?f=tweets&q=%23MRNA\">$MRNA</a> back in June 30th.\n\nToday, they announced a breakthrough cancer vaccine.\n\nHis investment is up 120% in less than 2 months.",
-        "link": "https://x.com/insiderwave/status/2090137019569598952",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HQGois4XAAASNip.jpg"
-          },
-          {
-            "type": "image",
-            "url": "https://pbs.twimg.com/media/HQGois1WcAAv8vf.jpg"
-          }
-        ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
       "id": "2090882188786987087",
       "username": "TechCharts",
       "displayName": "Aksel Kibar, CMT",
@@ -4480,25 +4368,6 @@
         "content": "Stocks that reach Target Area (80% of price objective) without any correction usually become Type 1 breakouts  and have tendency to extend beyond price target. \n\nI will start marking the area and have more trading tactic additions to complement this in the near future. Stay tuned.",
         "contentHtml": "Stocks that reach Target Area (80% of price objective) without any correction usually become Type 1 breakouts  and have tendency to extend beyond price target. \n\nI will start marking the area and have more trading tactic additions to complement this in the near future. Stay tuned.",
         "link": "https://x.com/TechCharts/status/2090878940298785252"
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2090879701862449345",
-      "username": "NavalismHQ",
-      "displayName": "Navalism",
-      "avatar": "https://pbs.twimg.com/profile_images/1350045723073671169/xB1_K1_z_bigger.jpg",
-      "content": "The selfish reason to be ethical is that it attracts the other ethical people in the network.\n\n@naval",
-      "contentHtml": "The selfish reason to be ethical is that it attracts the other ethical people in the network.\n\n<a href=\"/naval\" title=\"Naval\">@naval</a>",
-      "publishedAt": "2026-08-21T19:12:00.000Z",
-      "link": "https://x.com/NavalismHQ/status/2090879701862449345",
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
       },
       "stats": {
         "replies": 0,
@@ -7001,6 +6870,10 @@
       "contentHtml": "短中期如果要押注财政部或者市场，我一定押注财政部。今天30年期TIPS拍卖非常强，是一个对于真实利率的押注",
       "publishedAt": "2026-08-20T21:50:00.000Z",
       "link": "https://x.com/TJ_Research/status/2090557146916061406",
+      "retweet": {
+        "username": "OwenJin12",
+        "displayName": "Owen.btc 🟧"
+      },
       "quote": {
         "username": "qqnrwjqb",
         "displayName": "qqnrwjqb",
@@ -7299,31 +7172,6 @@
           "url": "https://pbs.twimg.com/media/HQLMjymb0AAVr8A.png"
         }
       ],
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2090457849726128482",
-      "username": "NikoMcCarty",
-      "displayName": "Niko McCarty.",
-      "avatar": "https://pbs.twimg.com/profile_images/1557099568336084999/5KT7Z9X5_bigger.jpg",
-      "content": "There's a subset of women who have four cones (instead of three) in their eyes, enabling them to distinguish between colors that nobody else can.\n\nMost of these women probably have no idea that their vision is unique.\n\nFor context: The human retina (usually) has three cone receptors that, roughly, are tuned to sense short, medium, or long wavelengths. The brain \"sees\" an image by comparing how activated these three sensors are. It is the ratio of activation that determines the color we see.\n\nHence, if you were to look at a pure orange light, and then look at a light made by mixing red and green lights, the two would look identical to your brain even though they are made in different ways. This partly explains, for example, why our phone screens only need three kinds of pixels (red, green, blue) to convince the brain that it is seeing every possible color.\n\nNow, the genes for the medium- and long-wavelength cones sit right next to each other on the X chromosome. Sometimes, when eggs or sperm are made, they can \"swap over\" each other and make a hybrid gene that is tuned to detect light *between* those two wavelengths. A man who inherits a hybrid gene on his X chromosome is called an \"anomalous trichromat,\" and will generally have trouble telling apart reds and greens.\n\nBut his mother, carrying an ordinary gene on one X chromosome and a hybrid gene on the other X chromosome, is different!\n\nEarly in development, cells in the retina randomly silence one of the X chromosomes, and its descendant cells then inherit that selection. Since there are millions of these cells in the retina, each of those cells will express the gene on either this X chromosome or that X chromosome. This means that, in these rare women, their retina will actually contain *four* types of cones rather than three.\n\nIn 2010, researchers tested the vision of women who have sons with red-green colorblindness, and soon found a woman -- who they called cDa29 --  that seemed to possess four cone cells.\n\nThey tested her child with an anomaloscope, an instrument that projects a small circle split across the middle. One half is lit by a single pure orange wavelength, and the other is lit by a mixture of red and green light. A knob is used to control the ratio between the colors, and the participant is asked to turn this knob until the two halves look exactly identical. The son was red-green colorblind.\n\nThen they showed the mother color pairs that look identical to most of us, but look different to a person with a fourth cone. She could quickly spot color differences that nobody else could. cDa29 was later sequenced, and researchers found that she had normal cones for long-, medium- and short wavelengths, but also a hybrid gene made by merging the first four exons from the middle-wave cone, and the last two exons from the long-wave cone. She can see (and distinguish colors) between these two wavelengths.\n\nArticle snippet from a recent New Yorker article where I first heard about this.",
-      "contentHtml": "There's a subset of women who have four cones (instead of three) in their eyes, enabling them to distinguish between colors that nobody else can.\n\nMost of these women probably have no idea that their vision is unique.\n\nFor context: The human retina (usually) has three cone receptors that, roughly, are tuned to sense short, medium, or long wavelengths. The brain \"sees\" an image by comparing how activated these three sensors are. It is the ratio of activation that determines the color we see.\n\nHence, if you were to look at a pure orange light, and then look at a light made by mixing red and green lights, the two would look identical to your brain even though they are made in different ways. This partly explains, for example, why our phone screens only need three kinds of pixels (red, green, blue) to convince the brain that it is seeing every possible color.\n\nNow, the genes for the medium- and long-wavelength cones sit right next to each other on the X chromosome. Sometimes, when eggs or sperm are made, they can \"swap over\" each other and make a hybrid gene that is tuned to detect light *between* those two wavelengths. A man who inherits a hybrid gene on his X chromosome is called an \"anomalous trichromat,\" and will generally have trouble telling apart reds and greens.\n\nBut his mother, carrying an ordinary gene on one X chromosome and a hybrid gene on the other X chromosome, is different!\n\nEarly in development, cells in the retina randomly silence one of the X chromosomes, and its descendant cells then inherit that selection. Since there are millions of these cells in the retina, each of those cells will express the gene on either this X chromosome or that X chromosome. This means that, in these rare women, their retina will actually contain *four* types of cones rather than three.\n\nIn 2010, researchers tested the vision of women who have sons with red-green colorblindness, and soon found a woman -- who they called cDa29 --  that seemed to possess four cone cells.\n\nThey tested her child with an anomaloscope, an instrument that projects a small circle split across the middle. One half is lit by a single pure orange wavelength, and the other is lit by a mixture of red and green light. A knob is used to control the ratio between the colors, and the participant is asked to turn this knob until the two halves look exactly identical. The son was red-green colorblind.\n\nThen they showed the mother color pairs that look identical to most of us, but look different to a person with a fourth cone. She could quickly spot color differences that nobody else could. cDa29 was later sequenced, and researchers found that she had normal cones for long-, medium- and short wavelengths, but also a hybrid gene made by merging the first four exons from the middle-wave cone, and the last two exons from the long-wave cone. She can see (and distinguish colors) between these two wavelengths.\n\nArticle snippet from a recent New Yorker article where I first heard about this.",
-      "publishedAt": "2026-08-20T15:16:00.000Z",
-      "link": "https://x.com/NikoMcCarty/status/2090457849726128482",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HQLMVgVa0AAuDKo.png"
-        }
-      ],
-      "retweet": {
-        "username": "naval",
-        "displayName": "Naval"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
@@ -12492,6 +12340,197 @@
             "url": "https://pbs.twimg.com/media/HQA6Eg-XMAARDBA.png"
           }
         ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089737727927628194",
+      "username": "octopusycc",
+      "displayName": "大老师Bugsbunny",
+      "avatar": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_bigger.jpg",
+      "content": "八月最重要的财报———NVDA财报将近\n\n而惊喜的发现OKX在股票板块又有了专业信息的更新\n\n做的很专业，整个UI甚至做的比券商都要好\n\n这还只是更新的第一版本，足以见得OKX对产品的苛求\n也很期待下一版的任何更新\n\n在NYSE ICE投资OKX的背景下，不免让人觉得 OKX 在股票板块 有更大的野心\n\n从财报预测、营业收入、每股收益、市场前瞻\n到股东、机构持仓变化\n\n这些几乎都会给交易者一些专业指引\n\n而资讯的部分也可以看到 OKX星球上 关于NVDA的热门讨论\n\n产品逻辑圆起来了，投资者将会在OKX的股票一个页面看到所有有用的信息\n\n@okxchinese @Haiteng_okx @Jiajia_OKX @Mercy_okx @star_okx",
+      "contentHtml": "八月最重要的财报———NVDA财报将近\n\n而惊喜的发现OKX在股票板块又有了专业信息的更新\n\n做的很专业，整个UI甚至做的比券商都要好\n\n这还只是更新的第一版本，足以见得OKX对产品的苛求\n也很期待下一版的任何更新\n\n在NYSE ICE投资OKX的背景下，不免让人觉得 OKX 在股票板块 有更大的野心\n\n从财报预测、营业收入、每股收益、市场前瞻\n到股东、机构持仓变化\n\n这些几乎都会给交易者一些专业指引\n\n而资讯的部分也可以看到 OKX星球上 关于NVDA的热门讨论\n\n产品逻辑圆起来了，投资者将会在OKX的股票一个页面看到所有有用的信息\n\n<a href=\"/okxchinese\" title=\"OKX中文\">@okxchinese</a> <a href=\"/Haiteng_okx\" title=\"海腾\">@Haiteng_okx</a> <a href=\"/Jiajia_OKX\" title=\"佳佳 OKX\">@Jiajia_OKX</a> <a href=\"/Mercy_okx\" title=\"Mercy\">@Mercy_okx</a> <a href=\"/star_okx\" title=\"Star_OKX\">@star_okx</a>",
+      "publishedAt": "2026-08-18T15:34:00.000Z",
+      "link": "https://x.com/octopusycc/status/2089737727927628194",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQA7SMYbkAAZsxF.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQA78maaMAAT0_B.jpg"
+        }
+      ],
+      "quote": {
+        "username": "Jiajia_OKX",
+        "displayName": "佳佳 OKX",
+        "content": "刚毕业工作就加入交易所\n所以我第一个金融App 就是OKX\n\n未来还会有更多和我一样的\nCrypto-native 👀\n年轻人也许不再是从传统金融市场\n转头看向虚拟货币？\n而是从OKX 这样的交易所立足\n看向更广阔的金融世界😯\n\n所以，对我们来说！\n可以直接在交易所看到公司概况财务、股东、派息，还有实时的全球快讯、深度报道和分析师观点，也就是在交易所从看到价格到看懂标的，做好金融行业信息的传递，也许真的是一个有里程碑价值的事情喔💪",
+        "contentHtml": "刚毕业工作就加入交易所\n所以我第一个金融App 就是OKX\n\n未来还会有更多和我一样的\nCrypto-native 👀\n年轻人也许不再是从传统金融市场\n转头看向虚拟货币？\n而是从OKX 这样的交易所立足\n看向更广阔的金融世界😯\n\n所以，对我们来说！\n可以直接在交易所看到公司概况财务、股东、派息，还有实时的全球快讯、深度报道和分析师观点，也就是在交易所从看到价格到看懂标的，做好金融行业信息的传递，也许真的是一个有里程碑价值的事情喔💪",
+        "link": "https://x.com/Jiajia_OKX/status/2088143887735062811",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPqTywQaoAAT-2X.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPqTywAbMAEuk03.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089718630372212785",
+      "username": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://pbs.twimg.com/profile_images/1936685375453282304/P7-8ZOK-_bigger.jpg",
+      "content": "听说韭菜们又对存储抱有幻想了？",
+      "contentHtml": "听说韭菜们又对存储抱有幻想了？",
+      "publishedAt": "2026-08-18T14:18:00.000Z",
+      "link": "https://x.com/yuren477/status/2089718630372212785",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQAsA-9aoAABHXr.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HQAsA__aMAEHxf-.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089665508715143502",
+      "username": "0xSunNFT",
+      "displayName": "0xSun",
+      "avatar": "https://pbs.twimg.com/profile_images/1820705442735296512/ej9BX01I_bigger.png",
+      "content": "Just let bag workers take some profit or no one will work for your bag anymore",
+      "contentHtml": "Just let bag workers take some profit or no one will work for your bag anymore",
+      "publishedAt": "2026-08-18T10:47:00.000Z",
+      "link": "https://x.com/0xSunNFT/status/2089665508715143502",
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089652801689338308",
+      "username": "Cbb0fe",
+      "displayName": "CBB",
+      "avatar": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_bigger.jpg",
+      "content": "tuesday morning as a jobless, purposeless crypto guy contributing absolutely nothing to society",
+      "contentHtml": "tuesday morning as a jobless, purposeless crypto guy contributing absolutely nothing to society",
+      "publishedAt": "2026-08-18T09:57:00.000Z",
+      "link": "https://x.com/Cbb0fe/status/2089652801689338308",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP_wJYDXgAAUW4B.jpg"
+        }
+      ],
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089613023057195066",
+      "username": "0xCryptoChan",
+      "displayName": "CryptoChan",
+      "avatar": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_bigger.jpg",
+      "content": "万事俱备，只欠X5😏\n\n【BTC 四年周期总刻系列 (48)】\n\n2022熊来第①叉：浅绿线下穿深绿线\n2022熊来第②叉：浅绿线下穿橙黄线\n2022熊来第③叉：浅绿线下穿蓝紫线\n2022熊来第④叉：深绿线下穿橙黄线\n2022熊来第⑤叉：深绿线下穿蓝紫线\n\n2026熊来第①叉：浅绿线下穿深绿线（已达成）\n2026熊来第②叉：浅绿线下穿橙黄线（已达成）\n2026熊来第③叉：浅绿线下穿蓝紫线（已达成）\n2026熊来第④叉：深绿线下穿橙黄线（已达成）\n2026熊来第⑤叉：尚未达成\n\n┌── 🐼 链上数据详情 ──┐\n\n灰白线：比特币价格\n浅绿线：链上持币时长在3-6个月之间的筹码平均买入成本（当前 $73,577）\n深绿线：链上持币时长在6-12个月之间的筹码平均买入成本（当前 $95,129）\n橙黄线：链上持币时长在12-18个月之间的筹码平均买入成本（当前 $104,382）\n蓝紫线：链上持币时长在18-24个月之间的筹码平均买入成本（当前 $85,994）",
+      "contentHtml": "万事俱备，只欠X5😏\n\n【BTC 四年周期总刻系列 (48)】\n\n2022熊来第①叉：浅绿线下穿深绿线\n2022熊来第②叉：浅绿线下穿橙黄线\n2022熊来第③叉：浅绿线下穿蓝紫线\n2022熊来第④叉：深绿线下穿橙黄线\n2022熊来第⑤叉：深绿线下穿蓝紫线\n\n2026熊来第①叉：浅绿线下穿深绿线（已达成）\n2026熊来第②叉：浅绿线下穿橙黄线（已达成）\n2026熊来第③叉：浅绿线下穿蓝紫线（已达成）\n2026熊来第④叉：深绿线下穿橙黄线（已达成）\n2026熊来第⑤叉：尚未达成\n\n┌── 🐼 链上数据详情 ──┐\n\n灰白线：比特币价格\n浅绿线：链上持币时长在3-6个月之间的筹码平均买入成本（当前 $73,577）\n深绿线：链上持币时长在6-12个月之间的筹码平均买入成本（当前 $95,129）\n橙黄线：链上持币时长在12-18个月之间的筹码平均买入成本（当前 $104,382）\n蓝紫线：链上持币时长在18-24个月之间的筹码平均买入成本（当前 $85,994）",
+      "publishedAt": "2026-08-18T07:19:00.000Z",
+      "link": "https://x.com/0xCryptoChan/status/2089613023057195066",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://pbs.twimg.com/media/HP_GkliaUAAaRyD.jpg"
+        }
+      ],
+      "quote": {
+        "username": "0xCryptoChan",
+        "displayName": "CryptoChan",
+        "content": "【 bitcoin:native 四年周期总刻系列（47）】\n\nLTH 割肉规模一轮狠过一轮😎\n\n┌── 🐼 链上数据详情 ──┐\n\n图中下方指标为 BTC: Relative Long/Short-Term Holder Realized Profit/Loss to Exchanges 指标中的 LTH Realized Loss 子项\n\nLTH Realized Loss（流入交易所部分）是指：长期持币者（LTH，持有≥约155天）把BTC转入交易所时，以低于成本价转移所实现的总亏损金额（通常以USD计算）占比\n\n该指标主要反映：长期持有者（“强手”）在亏损状态下向交易所存款、准备抛售的规模。数值越高，往往意味着市场底部附近出现较强的投降式卖压",
+        "contentHtml": "【 bitcoin:native 四年周期总刻系列（47）】\n\nLTH 割肉规模一轮狠过一轮😎\n\n┌── 🐼 链上数据详情 ──┐\n\n图中下方指标为 BTC: Relative Long/Short-Term Holder Realized Profit/Loss to Exchanges 指标中的 LTH Realized Loss 子项\n\nLTH Realized Loss（流入交易所部分）是指：长期持币者（LTH，持有≥约155天）把BTC转入交易所时，以低于成本价转移所实现的总亏损金额（通常以USD计算）占比\n\n该指标主要反映：长期持有者（“强手”）在亏损状态下向交易所存款、准备抛售的规模。数值越高，往往意味着市场底部附近出现较强的投降式卖压",
+        "link": "https://x.com/0xCryptoChan/status/2088173984244449697",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPqsisEa4AA41oE.jpg"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089600337716060309",
+      "username": "daidaibtc",
+      "displayName": "带带带比特",
+      "avatar": "https://pbs.twimg.com/profile_images/2080503582848339968/kzUeyNDZ_bigger.jpg",
+      "content": "韩指真几把的标准，一打到7200马上开始自由落体。\n这个海力士是真几把的畜生，涨的时候都是非盘中跟着外盘补涨。跌的时候是几把独立下跌。也是服气了。",
+      "contentHtml": "韩指真几把的标准，一打到7200马上开始自由落体。\n这个海力士是真几把的畜生，涨的时候都是非盘中跟着外盘补涨。跌的时候是几把独立下跌。也是服气了。",
+      "publishedAt": "2026-08-18T06:28:00.000Z",
+      "link": "https://x.com/daidaibtc/status/2089600337716060309",
+      "quote": {
+        "username": "daidaibtc",
+        "displayName": "带带带比特",
+        "content": "预计剩余库存的交易计划 能不能到我不知道  这次会相对灵活一点 实际上已经止盈了一部分 唯一拿捏老师的只有A股了  因为买到跌了70%的小票了 虽然在其他地方早早就回水赚钱了  依然很不爽。\n复盘这一个多月做下来  整体的净值虽然是赚钱的  没有亏  但是做的节奏很差 所以后面会只做交易型的资金。\n原则是一不轻易出手 小打小闹没意思 二不FOMO 三不开超市。\n因为我个人感觉科技AI这个赛道下一个能继续撑高天花板的叙事还在混沌中酝酿  而且从交易的视角去看  IV降不下来就很可能还是会有再度拥挤的风险  成熟的市场永远都会给出手的机会。这个学自于一个A股的大哥，浅浅学习理解了一下，当时还提炼在我的复盘日记里面了 理解确实比我这种土八路强多了。投机我会，投资这种一辈子的事情还得慢慢学。",
+        "contentHtml": "预计剩余库存的交易计划 能不能到我不知道  这次会相对灵活一点 实际上已经止盈了一部分 唯一拿捏老师的只有A股了  因为买到跌了70%的小票了 虽然在其他地方早早就回水赚钱了  依然很不爽。\n复盘这一个多月做下来  整体的净值虽然是赚钱的  没有亏  但是做的节奏很差 所以后面会只做交易型的资金。\n原则是一不轻易出手 小打小闹没意思 二不FOMO 三不开超市。\n因为我个人感觉科技AI这个赛道下一个能继续撑高天花板的叙事还在混沌中酝酿  而且从交易的视角去看  IV降不下来就很可能还是会有再度拥挤的风险  成熟的市场永远都会给出手的机会。这个学自于一个A股的大哥，浅浅学习理解了一下，当时还提炼在我的复盘日记里面了 理解确实比我这种土八路强多了。投机我会，投资这种一辈子的事情还得慢慢学。",
+        "link": "https://x.com/daidaibtc/status/2087932225551843633",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPnTP_lbIAAH4Xz.png"
+          },
+          {
+            "type": "image",
+            "url": "https://pbs.twimg.com/media/HPnTQ6sbYAAhHpy.png"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2089556929005989911",
+      "username": "0xleng1",
+      "displayName": "Leng",
+      "avatar": "https://pbs.twimg.com/profile_images/2085191114496311296/II9mvaaN_bigger.jpg",
+      "content": "大的要来了？不过公链现在完全不值钱了，linera的话看看估值在判断玩不玩，打新还是有意思的。",
+      "contentHtml": "大的要来了？不过公链现在完全不值钱了，linera的话看看估值在判断玩不玩，打新还是有意思的。",
+      "publishedAt": "2026-08-18T03:36:00.000Z",
+      "link": "https://x.com/0xleng1/status/2089556929005989911",
+      "quote": {
+        "username": "linera_io",
+        "displayName": "Linera ⛓️",
+        "content": "The ticker is $LNRA",
+        "contentHtml": "The ticker is <a href=\"/search?f=tweets&q=%23LNRA\">$LNRA</a>",
+        "link": "https://x.com/linera_io/status/2089427037953933671"
       },
       "stats": {
         "replies": 0,
