@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T15:45:22.205Z",
+  "lastUpdated": "2026-08-25T22:30:56.556Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -110,10 +110,10 @@
     }
   ],
   "stats": {
-    "total": 500,
-    "newFetched": 82,
-    "successUsers": 4,
-    "failedUsers": 29
+    "total": 499,
+    "newFetched": 0,
+    "successUsers": 0,
+    "failedUsers": 33
   },
   "tweets": [
     {
@@ -5224,31 +5224,6 @@
             "url": "https://pbs.twimg.com/media/HQQo6fwboAEz_N9.jpg"
           }
         ]
-      },
-      "stats": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2090853294436409618",
-      "username": "catseyeinstinct",
-      "displayName": "猫眼观察员",
-      "avatar": "https://pbs.twimg.com/profile_images/2090844595403808768/ZHhFgxX2_bigger.jpg",
-      "content": "paul的hyperliquid交易可视化面板上线啦！\npaul.catseye.today/\n\n感谢魏神无私分享自己的交易记录🎇\n\n借助 Hyperliquid 的公开数据, 现在终于可以可视化每一笔挂单完整的「生命周期」：什么时候出现、存在多久、如何调整，以及最终成交还是撤单。\n\n把这些订单沿着时间轴串起来，我们就能看到整个仓位管理过程。\n\n过去我们看到的更多是结果，现在终于可以看到策略本身。\n\n欢迎来玩，也欢迎提需求🐈",
-      "contentHtml": "paul的hyperliquid交易可视化面板上线啦！\n<a href=\"https://paul.catseye.today/\">paul.catseye.today/</a>\n\n感谢魏神无私分享自己的交易记录🎇\n\n借助 Hyperliquid 的公开数据, 现在终于可以可视化每一笔挂单完整的「生命周期」：什么时候出现、存在多久、如何调整，以及最终成交还是撤单。\n\n把这些订单沿着时间轴串起来，我们就能看到整个仓位管理过程。\n\n过去我们看到的更多是结果，现在终于可以看到策略本身。\n\n欢迎来玩，也欢迎提需求🐈",
-      "publishedAt": "2026-08-21T17:27:00.000Z",
-      "link": "https://x.com/catseyeinstinct/status/2090853294436409618",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://pbs.twimg.com/media/HQQv7mZWgAAfFg2.png"
-        }
-      ],
-      "retweet": {
-        "username": "coolish",
-        "displayName": "paulwei"
       },
       "stats": {
         "replies": 0,
