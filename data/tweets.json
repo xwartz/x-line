@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T05:51:06.721Z",
+  "lastUpdated": "2026-08-25T06:52:32.028Z",
   "followers": [
     {
       "username": "killaxbt",
@@ -111,9 +111,9 @@
   ],
   "stats": {
     "total": 500,
-    "newFetched": 0,
-    "successUsers": 0,
-    "failedUsers": 33
+    "newFetched": 20,
+    "successUsers": 1,
+    "failedUsers": 32
   },
   "tweets": [
     {
@@ -5160,10 +5160,6 @@
       "contentHtml": "",
       "publishedAt": "2026-08-21T14:23:00.000Z",
       "link": "https://x.com/coinkarma_/status/2090806926871568601",
-      "retweet": {
-        "username": "BensonTWN",
-        "displayName": "Benson Sun"
-      },
       "stats": {
         "replies": 0,
         "retweets": 0,
